@@ -1,6 +1,6 @@
 ---
 title: How to get through a break-up
-date: 2022-07-03T14:44:20.909Z
+date: 2022-07-03T19:19:36.974Z
 ---
 
 When a relationship ends, it can be one of the most difficult and emotionally draining experiences you go through in life. The process of grieving and moving on is different for everyone, but there are some general tips that can help you get through a break-up.

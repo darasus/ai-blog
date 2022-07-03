@@ -1,6 +1,6 @@
 ---
 title: How to start living a more eco-friendly lifestyle
-date: 2022-07-03T14:44:20.809Z
+date: 2022-07-03T19:19:36.884Z
 ---
 
 In recent years, there has been a growing movement to live a more eco-friendly lifestyle. This way of living includes making choices that help to protect the environment, such as using recycled materials, conserving energy, and reducing waste.

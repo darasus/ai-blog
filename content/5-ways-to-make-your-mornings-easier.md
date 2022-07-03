@@ -1,6 +1,6 @@
 ---
 title: 5 ways to make your mornings easier
-date: 2022-07-03T14:04:59.780Z
+date: 2022-07-03T19:19:37.025Z
 ---
 
 1. Get up earlier: This may seem like an obvious one, but getting up earlier can really help you make your mornings easier. By getting up earlier, you can give yourself more time to get things done and avoid rushing around.

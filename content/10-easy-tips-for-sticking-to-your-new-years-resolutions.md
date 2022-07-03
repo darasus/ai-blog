@@ -1,6 +1,6 @@
 ---
 title: 10 easy tips for sticking to your New Year's resolutions
-date: 2022-07-03T14:44:20.849Z
+date: 2022-07-03T19:19:36.920Z
 ---
 
 1. Set realistic goals: When it comes to setting New Year’s resolutions, it’s important to be realistic. If your goal is to lose weight, don’t set a goal of losing 50 pounds in one month. Not only is this goal unrealistic, but it’s also unhealthy. Set a goal that you know you can realistically achieve, such as losing 10 pounds in three months.

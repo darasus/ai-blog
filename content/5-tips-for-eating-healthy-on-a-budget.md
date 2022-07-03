@@ -1,6 +1,6 @@
 ---
 title: 5 tips for eating healthy on a budget
-date: 2022-07-03T14:44:20.889Z
+date: 2022-07-03T19:19:36.956Z
 ---
 
 1. Plan your meals in advance. This will help you save money by avoiding impulse purchases and overspending on groceries.

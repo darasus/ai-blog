@@ -1,6 +1,6 @@
 ---
 title: Top health benefits of meditation and how to get started
-date: 2022-07-03T14:05:52.077Z
+date: 2022-07-03T19:19:37.196Z
 ---
 
 Meditation has been practiced for centuries, and it has a plethora of benefits for your health. Meditation can help to improve your mental and physical well-being, and it is a great way to reduce stress.

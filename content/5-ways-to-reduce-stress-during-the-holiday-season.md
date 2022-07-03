@@ -1,6 +1,6 @@
 ---
 title: 5 ways to reduce stress during the holiday season
-date: 2022-07-03T14:44:20.829Z
+date: 2022-07-03T19:19:36.902Z
 ---
 
 The holiday season is a time when many people feel stressed. There are a number of things you can do to reduce stress during the holiday season.
