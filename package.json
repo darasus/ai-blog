@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "colors": "^1.4.0",
+    "ioredis": "^5.1.0",
     "next": "12.2.0",
+    "next-mdx-remote": "^4.0.3",
+    "openai": "^3.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
@@ -22,3 +26,4 @@
     "typescript": "4.7.4"
   }
 }
+
