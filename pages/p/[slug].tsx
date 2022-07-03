@@ -5,7 +5,6 @@ import { getPost, postFilePaths } from "../../utils/mdxUtils";
 export default function Home({ post }: any) {
   return (
     <>
-      <Link href="\">Home</Link>
       <h1>{post.title}</h1>
       <MDXRemote {...post.content} />
     </>

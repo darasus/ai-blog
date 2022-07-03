@@ -5,17 +5,15 @@ import { postFilePaths, getPost } from "../utils/mdxUtils";
 export default function Home({ posts }: any) {
   return (
     <>
-      {posts.map(({ title, content, slug }: any, i: number) => (
-        <div key={i} style={{ marginBottom: 10 }}>
-          <Link href={`/p/${slug}`}>
-            <a>
-              <h2>
-                <b>{title}</b>
-              </h2>
-            </a>
-          </Link>
-          <MDXRemote {...content} />
-        </div>
+      {posts.map(({ title, date, slug }: any, i: number) => (
+        <Link href={`/p/${slug}`} key={i}>
+          <a className="pointer">
+            <div className="mb-5 border border-gray-300 p-3 rounded-lg">
+              <span className="text-gray-400 text-sm">{date}</span>
+              <h2>{`${title}`}</h2>
+            </div>
+          </a>
+        </Link>
       ))}
     </>
   );
