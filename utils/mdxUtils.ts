@@ -2,6 +2,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
+import { capitalize } from "./capitalize";
 
 // POSTS_PATH is useful when you want to get the path to a specific file
 export const POSTS_PATH = path.join(process.cwd(), "content");
@@ -19,7 +20,7 @@ export const getPost = async (filePath: string) => {
 
   return {
     content: mdxContent,
-    title: data.title,
+    title: capitalize(data.title),
     date: data.date.toDateString(),
     slug: filePath.replace(/\.mdx?$/, ""),
   };
