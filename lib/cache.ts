@@ -21,10 +21,10 @@ export class CacheService {
     const cacheT0 = performance.now();
     const value = await this.redis.get(key);
     const cacheT1 = performance.now();
-    console.log(
-      `[Redis][Get]`.yellow,
-      `for ${key} took ${cacheT1 - cacheT0} milliseconds.`
-    );
+    // console.debug(
+    //   `[Redis][Get]`.yellow,
+    //   `for ${key} took ${cacheT1 - cacheT0} milliseconds.`
+    // );
     if (value === null) return null;
     return JSON.parse(value);
   };
@@ -33,10 +33,10 @@ export class CacheService {
     const cacheT0 = performance.now();
     const value = await this.redis.getBuffer(key);
     const cacheT1 = performance.now();
-    console.log(
-      `[Redis][Get]`.yellow,
-      `for ${key} took ${cacheT1 - cacheT0} milliseconds.`
-    );
+    // console.debug(
+    //   `[Redis][Get]`.yellow,
+    //   `for ${key} took ${cacheT1 - cacheT0} milliseconds.`
+    // );
     if (value === null) return null;
     return value;
   };
@@ -45,17 +45,17 @@ export class CacheService {
     const t1 = performance.now();
     const value = await fetcher();
     const t2 = performance.now();
-    console.log(
-      `[Database][Set]`.yellow,
-      `for ${key} took ${t2 - t1} milliseconds.`
-    );
+    // console.debug(
+    //   `[Database][Set]`.yellow,
+    //   `for ${key} took ${t2 - t1} milliseconds.`
+    // );
     const t3 = performance.now();
     await this.redis.set(key, JSON.stringify(value), "EX", expires * 1000);
     const t4 = performance.now();
-    console.log(
-      `[Redis][Set]`.yellow,
-      `for ${key} took ${t3 - t4} milliseconds.`
-    );
+    // console.debug(
+    //   `[Redis][Set]`.yellow,
+    //   `for ${key} took ${t3 - t4} milliseconds.`
+    // );
     return value;
   };
 
@@ -68,10 +68,10 @@ export class CacheService {
       expires * 1000
     );
     const t2 = performance.now();
-    console.log(
-      `[Redis][Set]`.yellow,
-      `for ${key} took ${t1 - t2} milliseconds.`
-    );
+    // console.debug(
+    //   `[Redis][Set]`.yellow,
+    //   `for ${key} took ${t1 - t2} milliseconds.`
+    // );
     return value;
   };
 
@@ -79,10 +79,10 @@ export class CacheService {
     const t1 = performance.now();
     await this.redis.del(key);
     const t2 = performance.now();
-    console.log(
-      `[Redis][Delete]`.yellow,
-      `for ${key} took ${t1 - t2} milliseconds.`
-    );
+    // console.debug(
+    //   `[Redis][Delete]`.yellow,
+    //   `for ${key} took ${t1 - t2} milliseconds.`
+    // );
   };
 
   perge = async () => {

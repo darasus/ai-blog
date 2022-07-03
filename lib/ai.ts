@@ -2,12 +2,12 @@ import { Configuration, OpenAIApi } from "openai";
 import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
 
-const configuration = new Configuration({
-  apiKey: process.env.OPENAI_API_KEY,
-});
-
 export class AI {
-  private ai = new OpenAIApi(configuration);
+  private ai = new OpenAIApi(
+    new Configuration({
+      apiKey: process.env.OPENAI_API_KEY,
+    })
+  );
   private cache = new CacheService();
 
   async createCompletion(prompt: string) {
