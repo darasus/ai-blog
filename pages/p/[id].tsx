@@ -3,9 +3,15 @@ import { AI } from "../../lib/ai";
 import { slugToString } from "../../utils/slugToString";
 import { serialize } from "next-mdx-remote/serialize";
 import { MDXRemote } from "next-mdx-remote";
+import Link from "next/link";
 
 const Home: NextPage = ({ mdxSource = "" }: any) => {
-  return <MDXRemote {...mdxSource} />;
+  return (
+    <>
+      <Link href="\">Home</Link>
+      <MDXRemote {...mdxSource} />
+    </>
+  );
 };
 
 export const getServerSideProps = async (req: NextApiRequest) => {
