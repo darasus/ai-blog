@@ -2,16 +2,16 @@
 
 @layer base {
   h1 {
-    @apply text-4xl font-bold md:text-6xl mb-6;
+    @apply text-4xl font-bold md:text-6xl mb-6 text-gray-800;
   }
   h2 {
-    @apply text-2xl font-bold md:text-4xl;
+    @apply text-2xl font-bold md:text-4xl text-gray-800;
   }
   h3 {
-    @apply text-lg font-bold;
+    @apply text-lg font-bold text-gray-800;
   }
   p {
-    @apply text-base mb-2;
+    @apply text-base mb-2 text-gray-800;
   }
   a {
     @apply text-gray-800;

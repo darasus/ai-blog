@@ -6,7 +6,7 @@ export function Navbar() {
     <div className="py-4">
       <Link href="\">
         <a>
-          <Image src={"/logo.svg"} width={120} height={33} alt="logo" />
+          <Image src={"/logo.svg"} width={154} height={33} alt="logo" />
         </a>
       </Link>
     </div>
