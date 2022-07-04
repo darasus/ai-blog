@@ -1,6 +1,7 @@
 ---
 title: 10 tips for keeping your hair healthy and strong
-date: 2022-07-03T19:19:36.777Z
+createdAt: 2022-07-04T06:08:42.984Z
+updatedAt: 2022-07-04T06:12:15.178Z
 ---
 
 Assuming you would like tips for keeping hair healthy: 

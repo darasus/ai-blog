@@ -1,6 +1,7 @@
 ---
 title: 10 tips for staying motivated to eat healthy
-date: 2022-07-03T19:21:31.235Z
+createdAt: 2022-07-04T06:08:43.789Z
+updatedAt: 2022-07-04T06:12:15.962Z
 ---
 
 1. Set realistic goals for yourself and don't try to do too much at once.

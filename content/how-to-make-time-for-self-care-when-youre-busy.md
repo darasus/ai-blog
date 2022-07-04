@@ -1,6 +1,7 @@
 ---
 title: How to make time for self-care when you're busy
-date: 2022-07-03T19:20:39.193Z
+createdAt: 2022-07-04T06:08:43.653Z
+updatedAt: 2022-07-04T06:12:15.837Z
 ---
 
 Self-care is important for our physical and mental health, but it can be hard to find time for it when we're busy. Here are some tips for making time for self-care: 

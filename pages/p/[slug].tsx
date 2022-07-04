@@ -1,9 +1,10 @@
 import { MDXRemote } from "next-mdx-remote";
 import Head from "next/head";
-import Link from "next/link";
-import { getPost, postFilePaths } from "../../utils/mdxUtils";
+import { Post } from "../../types/Post";
+import { getPost } from "../../utils/getPost";
+import { postFilePaths } from "../../utils/mdxUtils";
 
-export default function Home({ post }: any) {
+export default function Home({ post }: { post: Post }) {
   return (
     <>
       <Head>

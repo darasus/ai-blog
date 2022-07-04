@@ -1,6 +1,7 @@
 ---
 title: A beginner's guide to meditation and its benefits
-date: 2022-07-03T19:20:14.230Z
+createdAt: 2022-07-04T06:08:43.600Z
+updatedAt: 2022-07-04T06:12:15.783Z
 ---
 
 Meditation is an effective way to focus and calm the mind, and it has a host of benefits for both the body and the spirit. If you're new to meditation, it can be helpful to have a guide to get you started. Here are some tips for beginners on how to meditate, as well as some of the benefits you can expect to experience.

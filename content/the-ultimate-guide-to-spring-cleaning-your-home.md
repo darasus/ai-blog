@@ -1,6 +1,7 @@
 ---
 title: The ultimate guide to spring cleaning your home
-date: 2022-07-03T19:19:36.866Z
+createdAt: 2022-07-04T06:08:43.078Z
+updatedAt: 2022-07-04T06:12:15.268Z
 ---
 
 When it comes to spring cleaning your home, there are a few key things you need to do in order to get the job done right. Here is the ultimate guide to spring cleaning your home so that you can get started on the right foot:

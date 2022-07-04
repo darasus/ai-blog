@@ -1,6 +1,7 @@
 ---
 title: How to deal with cravings and temptations
-date: 2022-07-03T19:21:48.678Z
+createdAt: 2022-07-04T06:08:43.825Z
+updatedAt: 2022-07-04T06:12:15.997Z
 ---
 
 When you're trying to eat healthy, it's normal to have cravings and temptations. Here are some tips for how to deal with them: 

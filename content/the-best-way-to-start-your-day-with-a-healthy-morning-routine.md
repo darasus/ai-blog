@@ -1,6 +1,7 @@
 ---
 title: The best way to start your day - with a healthy morning routine
-date: 2022-07-03T19:20:52.587Z
+createdAt: 2022-07-04T06:08:43.689Z
+updatedAt: 2022-07-04T06:12:15.872Z
 ---
 
 The best way to start your day is with a healthy morning routine. This means waking up early, drinking plenty of water, and eating a nutritious breakfast. It also means getting some exercise in and spending time outdoors. By following these simple steps, you’ll set yourself up for a successful and productive day.

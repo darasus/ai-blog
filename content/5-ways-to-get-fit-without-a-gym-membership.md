@@ -1,6 +1,7 @@
 ---
 title: 5 ways to get fit without a gym membership
-date: 2022-07-03T19:19:36.759Z
+createdAt: 2022-07-04T06:08:42.965Z
+updatedAt: 2022-07-04T06:12:15.160Z
 ---
 
 There are plenty of ways to get fit without a gym membership. Here are five:

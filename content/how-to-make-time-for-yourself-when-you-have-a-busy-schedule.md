@@ -1,6 +1,7 @@
 ---
 title: How to make time for yourself when you have a busy schedule
-date: 2022-07-03T19:19:36.830Z
+createdAt: 2022-07-04T06:08:43.040Z
+updatedAt: 2022-07-04T06:12:15.231Z
 ---
 
 Assuming you would like tips on how to make time for yourself when you have a busy schedule: 

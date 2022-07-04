@@ -1,6 +1,7 @@
 ---
 title: How to get in shape for summer - tips for every fitness level
-date: 2022-07-03T19:19:37.214Z
+createdAt: 2022-07-04T06:08:43.453Z
+updatedAt: 2022-07-04T06:12:15.637Z
 ---
 
 Summer is the perfect time to get in shape and there are plenty of ways to do it, no matter what your fitness level may be. Here are some tips to help you get started:

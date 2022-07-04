@@ -1,6 +1,7 @@
 ---
 title: 10 easy ways to make your home more energy efficient
-date: 2022-07-03T19:19:36.723Z
+createdAt: 2022-07-04T06:08:42.928Z
+updatedAt: 2022-07-04T06:12:15.124Z
 ---
 
 1. Get a smart thermostat: A great way to save energy and money is to upgrade to a smart thermostat. Smart thermostats can save you up to 30% on your energy bill, so it’s a great way to reduce your carbon footprint as well.

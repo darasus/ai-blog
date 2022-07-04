@@ -1,6 +1,7 @@
 ---
 title: How to get out of a style rut
-date: 2022-07-03T19:19:36.705Z
+createdAt: 2022-07-04T06:08:42.909Z
+updatedAt: 2022-07-04T06:12:15.107Z
 ---
 
 If you're in a style rut, it can feel like you'll never be fashionable again. But don't worry, there are ways to get out of it! Here are some tips:

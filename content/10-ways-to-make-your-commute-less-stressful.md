@@ -1,6 +1,7 @@
 ---
 title: 10 ways to make your commute less stressful
-date: 2022-07-03T19:19:37.043Z
+createdAt: 2022-07-04T06:08:43.267Z
+updatedAt: 2022-07-04T06:12:15.449Z
 ---
 
 1. Get an early start: If you can avoid the morning rush hour, do so. Getting an early start will help you avoid the stress of being caught in traffic.

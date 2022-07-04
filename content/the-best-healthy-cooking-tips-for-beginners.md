@@ -1,6 +1,7 @@
 ---
 title: The best healthy cooking tips for beginners
-date: 2022-07-03T19:23:08.371Z
+createdAt: 2022-07-04T06:08:43.986Z
+updatedAt: 2022-07-04T06:12:16.140Z
 ---
 
 When it comes to cooking, there are endless tips and tricks that can make your life in the kitchen easier and more enjoyable. But if you’re just starting out, it can be hard to know where to begin. Here are 10 healthy cooking tips for beginners that will help you get the most out of your time in the kitchen.

@@ -1,6 +1,7 @@
 ---
 title: 10 tips for getting a good night's sleep
-date: 2022-07-03T19:19:37.162Z
+createdAt: 2022-07-04T06:08:43.398Z
+updatedAt: 2022-07-04T06:12:15.576Z
 ---
 
 1. Follow a routine before bed and avoid watching television or working on the computer in the hours leading up to sleep.

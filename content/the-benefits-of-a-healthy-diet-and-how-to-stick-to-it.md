@@ -1,6 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how to stick to it
-date: 2022-07-03T19:20:27.369Z
+createdAt: 2022-07-04T06:08:43.635Z
+updatedAt: 2022-07-04T06:12:15.819Z
 ---
 
 A healthy diet is not only good for your physical health, but also your mental and emotional health. Eating a balanced diet can help you feel your best and stay energized throughout the day. It can also help you maintain a healthy weight, reduce your risk of chronic diseases, and promote overall health.
