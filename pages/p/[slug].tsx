@@ -6,13 +6,13 @@ import { postFilePaths } from "../../utils/mdxUtils";
 
 export default function Home({ post }: { post: Post }) {
   return (
-    <>
+    <div className="p-4 min-h-min">
       <Head>
         <title>{`${post.title} | The Reader AI`}</title>
       </Head>
       <h1>{post.title}</h1>
       <MDXRemote {...post.content} />
-    </>
+    </div>
   );
 }
 

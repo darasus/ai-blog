@@ -3,11 +3,15 @@ import Image from "next/image";
 
 export function Navbar() {
   return (
-    <div className="py-4">
+    <div className="flex py-4 cursor-pointer">
       <Link href="\">
-        <a>
-          <Image src={"/logo.svg"} width={154} height={33} alt="logo" />
-        </a>
+        <Image
+          className="block"
+          src={"/logo.svg"}
+          width={154}
+          height={33}
+          alt="logo"
+        />
       </Link>
     </div>
   );

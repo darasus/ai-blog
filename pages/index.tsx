@@ -9,7 +9,7 @@ export default function Home({ posts }: { posts: Post[] }) {
       {posts.map(({ title, createdAt, slug }, i: number) => (
         <Link href={`/p/${slug}`} key={i}>
           <a className="pointer">
-            <div className="mb-5 border border-gray-300 p-3 rounded-lg">
+            <div className="border-b border-gray-200 p-4">
               <span className="text-gray-400 text-sm">{createdAt}</span>
               <h2>{`${title}`}</h2>
             </div>
