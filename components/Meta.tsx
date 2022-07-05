@@ -8,7 +8,7 @@ interface Props {
 
 export const Meta: React.FC<Props> = ({ title, description }) => {
   const actualTitle = `${title} | The AI Paper`;
-  const imgSrc = "/thumbnail.png";
+  const imgSrc = "https://www.theaipaper.com/thumbnail.png";
   return (
     <Head>
       <title>{actualTitle}</title>
