@@ -10,9 +10,7 @@ export default function Home({ post }: { post: Post }) {
 
   return (
     <div className="p-4">
-      <Head>
-        <Meta title={title} description={description} />
-      </Head>
+      <Meta title={title} description={description} />
       <article>
         <span className="text-gray-400 text-xs">{createdAt}</span>
         <h1>{title}</h1>

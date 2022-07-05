@@ -1,3 +1,4 @@
+import Head from "next/head";
 import React from "react";
 
 interface Props {
@@ -9,7 +10,7 @@ export const Meta: React.FC<Props> = ({ title, description }) => {
   const actualTitle = `${title} | The AI Paper`;
   const imgSrc = "/thumbnail.png";
   return (
-    <>
+    <Head>
       <title>{actualTitle}</title>
       <meta name="title" content={actualTitle} />
       <meta name="description" content={description} />
@@ -25,6 +26,6 @@ export const Meta: React.FC<Props> = ({ title, description }) => {
       <meta property="twitter:title" content={actualTitle} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={imgSrc} />
-    </>
+    </Head>
   );
 };

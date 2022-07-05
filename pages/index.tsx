@@ -8,12 +8,10 @@ import { postFilePaths } from "../utils/mdxUtils";
 export default function Home({ posts }: { posts: Post[] }) {
   return (
     <>
-      <Head>
-        <Meta
-          title="Latest"
-          description="All articles from The AI Reader are carefully crafter by GPT-3."
-        />
-      </Head>
+      <Meta
+        title="Latest"
+        description="All articles from The AI Reader are carefully crafter by GPT-3."
+      />
       {posts.map(({ title, createdAt, slug, description }, i: number) => (
         <Link href={`/p/${slug}`} key={i}>
           <a className="pointer">
