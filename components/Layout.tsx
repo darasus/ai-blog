@@ -11,8 +11,8 @@ export default function Layout({ children }: React.PropsWithChildren<{}>) {
           </div>
         </div>
       </div>
-      <div className="max-w-4xl m-auto bg-white border-r border-l border-gray-200 grow">
-        <main>{children}</main>
+      <div className="max-w-4xl w-full mx-auto bg-white border-r border-l border-b border-gray-200">
+        <main className="w-full">{children}</main>
       </div>
     </div>
   );

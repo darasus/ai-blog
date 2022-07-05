@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import { Meta } from "../components/Meta";
 import { Post } from "../types/Post";
 import { getPost } from "../utils/getPost";
 import { postFilePaths } from "../utils/mdxUtils";
@@ -8,14 +9,18 @@ export default function Home({ posts }: { posts: Post[] }) {
   return (
     <>
       <Head>
-        <title>{`Latest | The Reader AI`}</title>
+        <Meta
+          title="Latest"
+          description="All articles from The AI Reader are carefully crafter by GPT-3."
+        />
       </Head>
-      {posts.map(({ title, createdAt, slug }, i: number) => (
+      {posts.map(({ title, createdAt, slug, description }, i: number) => (
         <Link href={`/p/${slug}`} key={i}>
           <a className="pointer">
             <div className="border-b border-gray-200 p-4">
-              <span className="text-gray-400 text-sm">{createdAt}</span>
+              <span className="text-gray-400 text-xs">{createdAt}</span>
               <h2>{`${title}`}</h2>
+              <span>{description}</span>
             </div>
           </a>
         </Link>

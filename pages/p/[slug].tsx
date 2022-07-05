@@ -1,17 +1,23 @@
 import { MDXRemote } from "next-mdx-remote";
 import Head from "next/head";
+import { Meta } from "../../components/Meta";
 import { Post } from "../../types/Post";
 import { getPost } from "../../utils/getPost";
 import { postFilePaths } from "../../utils/mdxUtils";
 
 export default function Home({ post }: { post: Post }) {
+  const { title, content, createdAt, description } = post;
+
   return (
-    <div className="p-4 min-h-min">
+    <div className="p-4">
       <Head>
-        <title>{`${post.title} | The Reader AI`}</title>
+        <Meta title={title} description={description} />
       </Head>
-      <h1>{post.title}</h1>
-      <MDXRemote {...post.content} />
+      <article>
+        <span className="text-gray-400 text-xs">{createdAt}</span>
+        <h1>{title}</h1>
+        <MDXRemote {...content} />
+      </article>
     </div>
   );
 }

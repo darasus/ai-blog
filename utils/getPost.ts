@@ -18,5 +18,6 @@ export const getPost = async (filePath: string): Promise<Post | null> => {
     createdAt: data.createdAt.toDateString(),
     updatedAt: data.updatedAt.toDateString(),
     slug: filePath.replace(/\.mdx?$/, ""),
+    description: `${content.trim().slice(0, 200)}...`,
   };
 };
