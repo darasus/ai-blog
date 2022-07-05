@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import { Post } from "../types/Post";
 import { getPost } from "../utils/getPost";
@@ -6,6 +7,9 @@ import { postFilePaths } from "../utils/mdxUtils";
 export default function Home({ posts }: { posts: Post[] }) {
   return (
     <>
+      <Head>
+        <title>{`Latest | The Reader AI`}</title>
+      </Head>
       {posts.map(({ title, createdAt, slug }, i: number) => (
         <Link href={`/p/${slug}`} key={i}>
           <a className="pointer">
