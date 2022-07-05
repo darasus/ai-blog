@@ -7,6 +7,7 @@ interface Props {
 
 export const Meta: React.FC<Props> = ({ title, description }) => {
   const actualTitle = `${title} | The AI Paper`;
+  const imgSrc = "/thumbnail.png";
   return (
     <>
       <title>{actualTitle}</title>
@@ -17,13 +18,13 @@ export const Meta: React.FC<Props> = ({ title, description }) => {
       <meta property="og:url" content="https://www.theaipaper.com/" />
       <meta property="og:title" content={actualTitle} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content="" />
+      <meta property="og:image" content={imgSrc} />
 
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content="https://www.theaipaper.com/" />
       <meta property="twitter:title" content={actualTitle} />
       <meta property="twitter:description" content={description} />
-      <meta property="twitter:image" content="" />
+      <meta property="twitter:image" content={imgSrc} />
     </>
   );
 };
