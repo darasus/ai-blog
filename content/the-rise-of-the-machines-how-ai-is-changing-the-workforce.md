@@ -1,7 +1,7 @@
 ---
 title: "The rise of the machines: how AI is changing the workforce"
-createdAt: 2022-07-04T06:08:42.754Z
-updatedAt: 2022-07-04T06:12:14.957Z
+createdAt: 2022-07-06T05:05:54.204Z
+updatedAt: 2022-07-06T05:05:54.204Z
 ---
 
 The rise of the machines: how AI is changing the workforce

@@ -1,7 +1,7 @@
 ---
 title: "The future of work: telecommuting and the gig economy"
-createdAt: 2022-07-04T06:08:42.832Z
-updatedAt: 2022-07-04T06:12:15.032Z
+createdAt: 2022-07-06T05:05:54.296Z
+updatedAt: 2022-07-06T05:05:54.296Z
 ---
 
 The future of work is looking increasingly mobile and flexible, with more and more people telecommuting and working in the gig economy. This trend is being driven by a number of factors, including the increasing availability of high-speed internet and mobile technologies, the rise of the freelance economy, and the growing preference for flexible work arrangements.

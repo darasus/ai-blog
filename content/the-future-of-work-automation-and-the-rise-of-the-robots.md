@@ -1,7 +1,7 @@
 ---
 title: "The future of work: automation and the rise of the robots"
-createdAt: 2022-07-04T06:08:42.852Z
-updatedAt: 2022-07-04T06:12:15.051Z
+createdAt: 2022-07-06T05:05:54.528Z
+updatedAt: 2022-07-06T05:05:54.528Z
 ---
 
 The future of work is shrouded in uncertainty. Will automation lead to mass unemployment? Will the rise of the robots lead to a dystopian future in which humans are enslaved by their machines?

@@ -1,7 +1,7 @@
 ---
 title: 10 easy ways to cut sugar from your diet
-createdAt: 2022-07-04T06:08:43.545Z
-updatedAt: 2022-07-04T06:12:15.729Z
+createdAt: 2022-07-06T05:05:55.664Z
+updatedAt: 2022-07-06T05:05:57.110Z
 ---
 
 1. Cut out sugary drinks. This includes soda, fruit juice, sweetened coffee and tea, and energy drinks.

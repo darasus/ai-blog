@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how it can improve your mood
-createdAt: 2022-07-04T06:08:43.894Z
-updatedAt: 2022-07-04T06:12:16.069Z
+createdAt: 2022-07-06T05:05:56.183Z
+updatedAt: 2022-07-06T05:05:57.775Z
 ---
 
 A healthy diet is not only good for your physical health, but it can also improve your mental health and mood. Eating a diet that is high in fruits, vegetables, whole grains, and lean proteins can help to improve your mood and mental health. Here are some specific ways that a healthy diet can improve your mood:

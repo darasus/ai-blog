@@ -1,7 +1,7 @@
 ---
 title: The best plant-based foods for optimal health
-createdAt: 2022-07-04T06:08:43.472Z
-updatedAt: 2022-07-04T06:12:15.658Z
+createdAt: 2022-07-06T05:05:55.576Z
+updatedAt: 2022-07-06T05:05:55.576Z
 ---
 
 There are a variety of plant-based foods that can promote optimal health. Here are some of the best options:

@@ -1,7 +1,7 @@
 ---
 title: How to stay organized and sane as a busy mom
-createdAt: 2022-07-04T06:08:42.871Z
-updatedAt: 2022-07-04T06:12:15.070Z
+createdAt: 2022-07-06T05:05:54.549Z
+updatedAt: 2022-07-06T05:05:54.549Z
 ---
 
 As a busy mom, it is important to stay organized and sane. There are a few things you can do to help you stay organized and sane.

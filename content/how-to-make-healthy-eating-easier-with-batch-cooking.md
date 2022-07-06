@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with batch cooking
-createdAt: 2022-07-04T06:08:43.877Z
-updatedAt: 2022-07-04T06:12:16.051Z
+createdAt: 2022-07-06T05:05:56.158Z
+updatedAt: 2022-07-06T05:05:57.754Z
 ---
 
 When it comes to eating healthy, batch cooking can be a game changer. By preparing meals or snacks in advance, you can make healthy eating easier and less time consuming. Here are some tips on how to get started with batch cooking:

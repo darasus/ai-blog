@@ -1,7 +1,7 @@
 ---
 title: The impact of AI on the workforce
-createdAt: 2022-07-04T06:08:42.793Z
-updatedAt: 2022-07-04T06:12:14.996Z
+createdAt: 2022-07-06T05:05:54.252Z
+updatedAt: 2022-07-06T05:05:54.252Z
 ---
 
 The impact of AI on the workforce is both significant and far-reaching. With the rapid expansion of AI capabilities, businesses are increasingly looking to adopt AI technologies in order to remain competitive. This is having a profound impact on the workforce, with many jobs being automated or replaced by AI.

@@ -1,7 +1,7 @@
 ---
 title: How to get through the work day when you're tired
-createdAt: 2022-07-04T06:08:43.003Z
-updatedAt: 2022-07-04T06:12:15.195Z
+createdAt: 2022-07-06T05:05:54.704Z
+updatedAt: 2022-07-06T05:05:54.704Z
 ---
 
 If you're feeling tired at work, there are a few things you can do to get through the day. First, make sure you're getting enough sleep at night. It's important to get at least 7-8 hours of sleep each night so you can feel rested during the day. If you're not getting enough sleep, try taking a nap during your lunch break or after work.

@@ -1,7 +1,7 @@
 ---
 title: How AI is changing the way we live and work
-createdAt: 2022-07-04T06:08:42.734Z
-updatedAt: 2022-07-04T06:12:14.938Z
+createdAt: 2022-07-06T05:05:54.182Z
+updatedAt: 2022-07-06T05:05:54.182Z
 ---
 
 AI is rapidly changing the way we live and work. Here are some of the ways AI is impacting our lives:

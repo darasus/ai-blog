@@ -1,7 +1,7 @@
 ---
 title: How to get over a break-up
-createdAt: 2022-07-04T06:08:43.358Z
-updatedAt: 2022-07-04T06:12:15.540Z
+createdAt: 2022-07-06T05:05:55.222Z
+updatedAt: 2022-07-06T05:05:55.222Z
 ---
 
 When a relationship ends, it can be difficult to cope. You may feel a range of emotions, including sadness, anger, and relief. It can be hard to let go of someone you cared for, but there are ways to move on.

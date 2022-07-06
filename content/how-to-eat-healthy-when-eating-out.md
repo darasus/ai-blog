@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy when eating out
-createdAt: 2022-07-04T06:08:43.969Z
-updatedAt: 2022-07-04T06:12:16.122Z
+createdAt: 2022-07-06T05:05:56.247Z
+updatedAt: 2022-07-06T05:05:57.843Z
 ---
 
 When you're trying to eat healthy, dining out can be a challenge. But with a little planning, you can enjoy a healthy meal at your favorite restaurant.

@@ -1,7 +1,7 @@
 ---
 title: The health benefits of walking - and how to get started
-createdAt: 2022-07-04T06:08:43.581Z
-updatedAt: 2022-07-04T06:12:15.764Z
+createdAt: 2022-07-06T05:05:55.708Z
+updatedAt: 2022-07-06T05:05:57.154Z
 ---
 
 Walking is a simple and accessible form of exercise that has many benefits. Just 30 minutes of walking a day can increase your cardiovascular fitness, strengthen your bones, reduce your risk of chronic diseases and improve your mental health.

@@ -1,7 +1,7 @@
 ---
 title: The ultimate guide to understanding - and improving - your metabolism
-createdAt: 2022-07-04T06:08:43.527Z
-updatedAt: 2022-07-04T06:12:15.712Z
+createdAt: 2022-07-06T05:05:55.642Z
+updatedAt: 2022-07-06T05:05:58.490Z
 ---
 
 Your metabolism is the process by which your body converts food into energy. It is a complex process that is affected by many factors, including your age, weight, activity level, and hormones.
