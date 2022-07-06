@@ -1,7 +1,7 @@
 ---
 title: How to get more vitamins and minerals in your diet
 createdAt: 2022-07-06T05:05:56.690Z
-updatedAt: 2022-07-06T05:05:58.163Z
+updatedAt: 2022-07-06T05:08:34.510Z
 ---
 
 Vitamins and minerals are essential nutrients that your body needs to function properly. While you can get some of these nutrients from the food you eat, it’s often not enough. This is especially true if you have a poor diet or certain health conditions that make it difficult to absorb nutrients from food.

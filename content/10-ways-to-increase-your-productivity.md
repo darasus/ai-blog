@@ -1,7 +1,7 @@
 ---
 title: 10 ways to increase your productivity
 createdAt: 2022-07-06T05:05:55.048Z
-updatedAt: 2022-07-06T05:05:55.048Z
+updatedAt: 2022-07-06T05:08:32.957Z
 ---
 
 1. Set realistic goals for yourself and break them down into smaller, more manageable tasks.

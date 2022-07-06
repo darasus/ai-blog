@@ -1,7 +1,7 @@
 ---
 title: How to make healthier choices when eating out
 createdAt: 2022-07-06T05:05:56.924Z
-updatedAt: 2022-07-06T05:05:58.388Z
+updatedAt: 2022-07-06T05:08:34.961Z
 ---
 
 When you’re trying to eat healthy, restaurant meals can be a real challenge. But with a little planning, you can make healthier choices when eating out.

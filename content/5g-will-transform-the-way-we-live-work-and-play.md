@@ -1,7 +1,7 @@
 ---
 title: 5G will transform the way we live, work and play
 createdAt: 2022-07-06T05:05:54.098Z
-updatedAt: 2022-07-06T05:05:54.098Z
+updatedAt: 2022-07-06T05:08:31.972Z
 ---
 
 The way we live, work and play is set to change dramatically with the advent of 5G technology. 5G is the next generation of mobile broadband that promises to deliver significantly faster speeds, lower latency and more reliable connectivity. With 5G, we will be able to download movies in seconds, stream live video with no buffering and connect to the internet from anywhere in the world.

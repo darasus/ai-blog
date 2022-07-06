@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a part of your weight loss plan
 createdAt: 2022-07-06T05:05:56.880Z
-updatedAt: 2022-07-06T05:05:58.344Z
+updatedAt: 2022-07-06T05:08:34.704Z
 ---
 
 When it comes to weight loss, healthy eating is key. But what does that mean, exactly? Put simply, healthy eating is about choosing nutrient-rich foods that will help you lose weight in a sustainable way.

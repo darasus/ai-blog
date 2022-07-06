@@ -1,7 +1,7 @@
 ---
 title: 8 ways to make healthy eating more exciting
 createdAt: 2022-07-06T05:05:56.226Z
-updatedAt: 2022-07-06T05:05:57.820Z
+updatedAt: 2022-07-06T05:08:34.181Z
 ---
 
 1. Incorporate more fruits and vegetables into your diet. Fruits and vegetables are not only packed with nutrients, but they also add color, flavor, and texture to your meals. Eating a variety of fruits and vegetables can make healthy eating more exciting.

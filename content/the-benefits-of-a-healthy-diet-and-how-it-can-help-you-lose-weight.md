@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how it can help you lose weight
 createdAt: 2022-07-06T05:05:56.857Z
-updatedAt: 2022-07-06T05:05:58.322Z
+updatedAt: 2022-07-06T05:08:34.682Z
 ---
 
 A healthy diet can help you lose weight in many ways. First, it can help you burn more calories. Second, it can help you feel fuller longer, so you eat less. Third, it can help you reduce your risk of diseases such as heart disease, stroke, and diabetes. fourth, it can help you have more energy. fifth, it can help you sleep better. sixth, it can help you reduce stress. seventh, it can help you look younger and feel better. eighth, it can help you live longer.

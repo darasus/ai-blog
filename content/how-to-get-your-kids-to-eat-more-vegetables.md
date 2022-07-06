@@ -1,7 +1,7 @@
 ---
 title: How to get your kids to eat more vegetables
 createdAt: 2022-07-06T05:05:56.667Z
-updatedAt: 2022-07-06T05:05:58.141Z
+updatedAt: 2022-07-06T05:08:34.488Z
 ---
 
 If you're like most parents, you probably have a hard time getting your kids to eat their vegetables. Here are a few tips to get them to eat more vegetables:

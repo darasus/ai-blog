@@ -1,7 +1,7 @@
 ---
 title: How the pandemic is changing the way we work
 createdAt: 2022-07-06T05:05:54.274Z
-updatedAt: 2022-07-06T05:05:54.274Z
+updatedAt: 2022-07-06T05:08:32.263Z
 ---
 
 The pandemic has forced many businesses to change the way they operate. Some companies have had to close their doors, while others have had to adapt to a new way of doing business. Here are some of the ways the pandemic is changing the way we work:

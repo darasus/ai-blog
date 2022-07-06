@@ -1,7 +1,7 @@
 ---
 title: 30 healthy snacks for on-the-go
 createdAt: 2022-07-06T05:05:54.638Z
-updatedAt: 2022-07-06T05:05:54.638Z
+updatedAt: 2022-07-06T05:08:32.426Z
 ---
 
 When you're on the go, it's important to have healthy snacks with you to keep your energy levels up and avoid unhealthy temptations. Here are 30 healthy snacks that are perfect for on-the-go:

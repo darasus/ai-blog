@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with Meal Planning
 createdAt: 2022-07-06T05:05:55.620Z
-updatedAt: 2022-07-06T05:05:58.468Z
+updatedAt: 2022-07-06T05:08:33.423Z
 ---
 
 When it comes to eating healthy, Meal Planning can make your life a lot easier. By taking the time to plan out your meals, you can make sure that you’re getting the nutrients you need, and you can avoid unhealthy temptations.

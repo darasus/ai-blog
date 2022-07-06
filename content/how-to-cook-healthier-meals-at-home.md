@@ -1,7 +1,7 @@
 ---
 title: How to cook healthier meals at home
 createdAt: 2022-07-06T05:05:56.821Z
-updatedAt: 2022-07-06T05:05:58.298Z
+updatedAt: 2022-07-06T05:08:34.660Z
 ---
 
 If you're looking to cook healthier meals at home, there are a few things you can do to make sure you're on the right track. First, focus on incorporating more fruits and vegetables into your meals. This can be as simple as adding a salad to your dinner or swapping out your usual side dish for something healthier.

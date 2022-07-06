@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on the go
 createdAt: 2022-07-06T05:05:56.777Z
-updatedAt: 2022-07-06T05:05:58.253Z
+updatedAt: 2022-07-06T05:08:34.614Z
 ---
 
 If you're always on the go, it can be hard to eat healthy. But with a little planning, you can make healthy eating easier. Here are some tips to help you eat healthy when you're always on the go:

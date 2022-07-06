@@ -1,7 +1,7 @@
 ---
 title: The best healthy lunch ideas for work or school
 createdAt: 2022-07-06T05:05:56.799Z
-updatedAt: 2022-07-06T05:05:58.276Z
+updatedAt: 2022-07-06T05:08:34.637Z
 ---
 
 When it comes to packing a healthy lunch, there are endless possibilities. But if you’re looking for some inspiration, we’ve got you covered. Here are 20 healthy lunch ideas for work or school.

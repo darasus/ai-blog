@@ -1,7 +1,7 @@
 ---
 title: 5 ways to save money as a college student
 createdAt: 2022-07-06T05:05:54.571Z
-updatedAt: 2022-07-06T05:05:54.571Z
+updatedAt: 2022-07-06T05:08:32.356Z
 ---
 
 1. Get a part-time job: A great way to save money as a college student is to get a part-time job. This can help you cover your expenses and also give you some extra spending money.

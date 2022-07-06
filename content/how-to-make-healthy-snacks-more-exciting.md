@@ -1,7 +1,7 @@
 ---
 title: How to make healthy snacks more exciting
 createdAt: 2022-07-06T05:05:56.646Z
-updatedAt: 2022-07-06T05:05:58.118Z
+updatedAt: 2022-07-06T05:08:34.466Z
 ---
 
 When it comes to snacks, we all know that we should be eating more healthy options like fruits and vegetables. But let's face it, sometimes those can get a little boring. Here are some ways to make healthy snacks more exciting:
