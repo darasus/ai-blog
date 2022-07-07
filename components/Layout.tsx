@@ -1,4 +1,5 @@
 import React from "react";
+import { Footer } from "./Footer";
 import { Navbar } from "./Navbar";
 
 export default function Layout({ children }: React.PropsWithChildren<{}>) {
@@ -30,8 +31,11 @@ export default function Layout({ children }: React.PropsWithChildren<{}>) {
           All articles from The AI Paper are carefully crafted by GPT-3
         </div>
       </div>
-      <div className="max-w-5xl w-full mx-auto bg-white border border-gray-200 mb-4">
+      <div className="max-w-5xl w-full mx-auto bg-white border border-gray-200">
         <main className="w-full">{children}</main>
+      </div>
+      <div className="max-w-5xl w-full mx-auto my-4">
+        <Footer />
       </div>
     </div>
   );
