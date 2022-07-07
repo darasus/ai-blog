@@ -1,5 +1,6 @@
 import { GetStaticProps } from "next";
 import Link from "next/link";
+import { LinkButton } from "../components/LinkButton";
 import { Meta } from "../components/Meta";
 import { Post } from "../types/Post";
 import { capitalize } from "../utils/capitalize";
@@ -35,11 +36,7 @@ export default function Home({ posts }: { posts: Post[] }) {
         )
       )}
       <div className="flex justify-center py-5">
-        <Link href="/posts/2">
-          <a className="py-2 px-3 border rounded border-gray-300 bg-gray-200 hover:border-gray-400 hover:bg-gray-300">
-            See more
-          </a>
-        </Link>
+        <LinkButton href="/posts/2">See more</LinkButton>
       </div>
     </>
   );

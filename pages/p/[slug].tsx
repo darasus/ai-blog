@@ -1,5 +1,4 @@
 import { MDXRemote } from "next-mdx-remote";
-import Head from "next/head";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../types/Post";
 import { capitalize } from "../../utils/capitalize";

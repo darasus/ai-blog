@@ -1,5 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from "next";
 import Link from "next/link";
+import { useRouter } from "next/router";
+import { LinkButton } from "../../components/LinkButton";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../types/Post";
 import { capitalize } from "../../utils/capitalize";
@@ -13,6 +15,8 @@ interface Props {
 }
 
 export default function Posts({ posts, totalPages }: Props) {
+  const router = useRouter();
+
   return (
     <>
       <Meta
@@ -44,11 +48,13 @@ export default function Posts({ posts, totalPages }: Props) {
       )}
       <div className="flex justify-center py-5">
         {Array.from({ length: totalPages }, (_, i) => (
-          <Link key={i} href={`/posts/${i + 1}`}>
-            <a className="py-2 px-3 border rounded border-gray-300 bg-gray-200 hover:border-gray-400 hover:bg-gray-300 mr-1 last:mr-0">
-              {i + 1}
-            </a>
-          </Link>
+          <LinkButton
+            key={i}
+            active={Number(router.query.page) === i + 1}
+            href={`/posts/${i + 1}`}
+          >
+            {i + 1}
+          </LinkButton>
         ))}
       </div>
     </>

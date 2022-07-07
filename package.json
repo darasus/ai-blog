@@ -10,6 +10,7 @@
     "generate-articles": "esno ./scripts/generate-articles.ts"
   },
   "dependencies": {
+    "clsx": "^1.2.1",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
     "esno": "^0.16.3",
