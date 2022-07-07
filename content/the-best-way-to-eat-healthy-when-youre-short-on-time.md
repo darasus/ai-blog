@@ -1,7 +1,7 @@
 ---
 title: The best way to eat healthy when you're short on time
 createdAt: 2022-07-07T06:05:41.969Z
-updatedAt: 2022-07-07T06:05:41.969Z
+updatedAt: 2022-07-07T06:16:53.531Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 5 ways to cut down on screen time
 createdAt: 2022-07-07T06:05:40.484Z
-updatedAt: 2022-07-07T06:05:40.484Z
+updatedAt: 2022-07-07T06:16:50.915Z
 category: life
 ---
 

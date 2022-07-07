@@ -1,7 +1,7 @@
 ---
 title: How to start living a more eco-friendly lifestyle
 createdAt: 2022-07-07T06:05:40.322Z
-updatedAt: 2022-07-07T06:05:40.322Z
+updatedAt: 2022-07-07T06:16:50.719Z
 category: life
 ---
 

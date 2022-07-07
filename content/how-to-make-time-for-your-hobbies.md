@@ -1,7 +1,7 @@
 ---
 title: How to make time for your hobbies
 createdAt: 2022-07-07T06:05:40.461Z
-updatedAt: 2022-07-07T06:05:40.461Z
+updatedAt: 2022-07-07T06:16:50.888Z
 category: life
 ---
 

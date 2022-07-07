@@ -1,7 +1,7 @@
 ---
 title: How to get moving when you don't have time for the gym
 createdAt: 2022-07-07T06:05:41.225Z
-updatedAt: 2022-07-07T06:05:41.225Z
+updatedAt: 2022-07-07T06:16:52.601Z
 category: health
 ---
 

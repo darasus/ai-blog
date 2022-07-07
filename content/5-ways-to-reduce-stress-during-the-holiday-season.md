@@ -1,7 +1,7 @@
 ---
 title: 5 ways to reduce stress during the holiday season
 createdAt: 2022-07-07T06:05:40.346Z
-updatedAt: 2022-07-07T06:05:40.346Z
+updatedAt: 2022-07-07T06:16:50.743Z
 category: life
 ---
 

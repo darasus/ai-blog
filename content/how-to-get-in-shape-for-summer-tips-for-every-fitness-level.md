@@ -1,7 +1,7 @@
 ---
 title: How to get in shape for summer - tips for every fitness level
 createdAt: 2022-07-07T06:05:41.116Z
-updatedAt: 2022-07-07T06:05:41.116Z
+updatedAt: 2022-07-07T06:16:52.464Z
 category: health
 ---
 

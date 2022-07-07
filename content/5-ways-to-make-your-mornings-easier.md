@@ -1,7 +1,7 @@
 ---
 title: 5 ways to make your mornings easier
 createdAt: 2022-07-07T06:05:40.507Z
-updatedAt: 2022-07-07T06:05:40.507Z
+updatedAt: 2022-07-07T06:16:50.941Z
 category: life
 ---
 

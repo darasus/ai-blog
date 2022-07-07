@@ -1,7 +1,7 @@
 ---
 title: A beginner's guide to meditation and its benefits
 createdAt: 2022-07-07T06:05:41.270Z
-updatedAt: 2022-07-07T06:05:41.270Z
+updatedAt: 2022-07-07T06:16:52.655Z
 category: health
 ---
 

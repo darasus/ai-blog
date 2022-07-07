@@ -1,7 +1,7 @@
 ---
 title: The best way to start your day - with a healthy morning routine
 createdAt: 2022-07-07T06:05:41.385Z
-updatedAt: 2022-07-07T06:05:41.385Z
+updatedAt: 2022-07-07T06:16:52.785Z
 category: health
 ---
 

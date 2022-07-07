@@ -1,7 +1,7 @@
 ---
 title: How to stick to your healthy eating goals
 createdAt: 2022-07-07T06:05:41.476Z
-updatedAt: 2022-07-07T06:05:41.476Z
+updatedAt: 2022-07-07T06:16:52.884Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 5 simple tips for making better salads
 createdAt: 2022-07-07T06:05:39.986Z
-updatedAt: 2022-07-07T06:05:39.986Z
+updatedAt: 2022-07-07T06:15:16.158Z
 category: cooking
 ---
 

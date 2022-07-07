@@ -1,7 +1,7 @@
 ---
 title: Airlines are struggling to stay afloat amid the pandemic
 createdAt: 2022-07-07T06:05:40.555Z
-updatedAt: 2022-07-07T06:05:40.555Z
+updatedAt: 2022-07-07T06:16:51.809Z
 category: business
 ---
 

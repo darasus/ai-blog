@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with Meal Planning
 createdAt: 2022-07-07T06:05:41.181Z
-updatedAt: 2022-07-07T06:05:41.181Z
+updatedAt: 2022-07-07T06:16:52.547Z
 category: health
 ---
 

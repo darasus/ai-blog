@@ -1,7 +1,7 @@
 ---
 title: The benefits of regular exercise - and how to get started
 createdAt: 2022-07-07T06:05:41.431Z
-updatedAt: 2022-07-07T06:05:41.431Z
+updatedAt: 2022-07-07T06:16:52.833Z
 category: health
 ---
 

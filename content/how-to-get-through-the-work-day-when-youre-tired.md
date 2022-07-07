@@ -1,7 +1,7 @@
 ---
 title: How to get through the work day when you're tired
 createdAt: 2022-07-07T06:05:40.891Z
-updatedAt: 2022-07-07T06:05:40.891Z
+updatedAt: 2022-07-07T06:16:52.208Z
 category: health
 ---
 

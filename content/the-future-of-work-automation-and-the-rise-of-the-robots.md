@@ -1,7 +1,7 @@
 ---
 title: "The future of work: automation and the rise of the robots"
 createdAt: 2022-07-07T06:05:40.756Z
-updatedAt: 2022-07-07T06:05:40.756Z
+updatedAt: 2022-07-07T06:16:52.042Z
 category: technology
 ---
 

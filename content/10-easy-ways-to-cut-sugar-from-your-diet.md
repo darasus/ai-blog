@@ -1,7 +1,7 @@
 ---
 title: 10 easy ways to cut sugar from your diet
 createdAt: 2022-07-07T06:05:41.203Z
-updatedAt: 2022-07-07T06:05:41.203Z
+updatedAt: 2022-07-07T06:16:52.575Z
 category: health
 ---
 

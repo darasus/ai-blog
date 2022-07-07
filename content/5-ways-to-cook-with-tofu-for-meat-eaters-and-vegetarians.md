@@ -1,7 +1,7 @@
 ---
 title: 5 ways to cook with tofu - for meat-eaters and vegetarians
 createdAt: 2022-07-07T06:05:40.139Z
-updatedAt: 2022-07-07T06:05:40.139Z
+updatedAt: 2022-07-07T06:15:16.320Z
 category: cooking
 ---
 

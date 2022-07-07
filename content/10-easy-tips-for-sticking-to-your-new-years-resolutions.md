@@ -1,7 +1,7 @@
 ---
 title: 10 easy tips for sticking to your New Year's resolutions
 createdAt: 2022-07-07T06:05:40.369Z
-updatedAt: 2022-07-07T06:05:40.369Z
+updatedAt: 2022-07-07T06:16:50.769Z
 category: life
 ---
 

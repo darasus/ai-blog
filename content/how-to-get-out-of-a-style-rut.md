@@ -1,7 +1,7 @@
 ---
 title: How to get out of a style rut
 createdAt: 2022-07-07T06:05:40.253Z
-updatedAt: 2022-07-07T06:05:40.253Z
+updatedAt: 2022-07-07T06:16:50.637Z
 category: life
 ---
 

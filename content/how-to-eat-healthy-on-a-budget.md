@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on a budget
 createdAt: 2022-07-07T06:05:41.767Z
-updatedAt: 2022-07-07T06:05:41.767Z
+updatedAt: 2022-07-07T06:16:53.216Z
 category: health
 ---
 

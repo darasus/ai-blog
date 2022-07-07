@@ -1,7 +1,7 @@
 ---
 title: How to stay healthy during cold and flu season
 createdAt: 2022-07-07T06:05:40.802Z
-updatedAt: 2022-07-07T06:05:40.802Z
+updatedAt: 2022-07-07T06:16:52.095Z
 category: health
 ---
 

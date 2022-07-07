@@ -1,7 +1,7 @@
 ---
 title: How to deal with anxiety
 createdAt: 2022-07-07T06:05:41.027Z
-updatedAt: 2022-07-07T06:05:41.027Z
+updatedAt: 2022-07-07T06:16:52.361Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The ultimate guide to making a perfect pie crust
 createdAt: 2022-07-07T06:05:39.754Z
-updatedAt: 2022-07-07T06:05:39.754Z
+updatedAt: 2022-07-07T06:15:15.924Z
 category: cooking
 ---
 

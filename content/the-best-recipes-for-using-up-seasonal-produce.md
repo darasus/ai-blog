@@ -1,7 +1,7 @@
 ---
 title: The best recipes for using up seasonal produce
 createdAt: 2022-07-07T06:05:39.964Z
-updatedAt: 2022-07-07T06:05:39.964Z
+updatedAt: 2022-07-07T06:15:16.134Z
 category: cooking
 ---
 

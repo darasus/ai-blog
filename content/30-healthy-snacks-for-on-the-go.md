@@ -1,7 +1,7 @@
 ---
 title: 30 healthy snacks for on-the-go
 createdAt: 2022-07-07T06:05:40.825Z
-updatedAt: 2022-07-07T06:05:40.825Z
+updatedAt: 2022-07-07T06:16:52.125Z
 category: health
 ---
 

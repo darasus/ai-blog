@@ -1,7 +1,7 @@
 ---
 title: How to make healthy snacks more exciting
 createdAt: 2022-07-07T06:05:41.877Z
-updatedAt: 2022-07-07T06:05:41.877Z
+updatedAt: 2022-07-07T06:16:53.419Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 10 ways to use up leftover cooked rice
 createdAt: 2022-07-07T06:05:39.917Z
-updatedAt: 2022-07-07T06:05:39.917Z
+updatedAt: 2022-07-07T06:15:16.088Z
 category: cooking
 ---
 

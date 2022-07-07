@@ -1,7 +1,7 @@
 ---
 title: How to make healthy choices when eating out
 createdAt: 2022-07-07T06:05:41.409Z
-updatedAt: 2022-07-07T06:05:41.409Z
+updatedAt: 2022-07-07T06:16:52.809Z
 category: health
 ---
 

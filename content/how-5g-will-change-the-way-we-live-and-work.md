@@ -1,7 +1,7 @@
 ---
 title: How 5G will change the way we live and work
 createdAt: 2022-07-07T06:05:40.665Z
-updatedAt: 2022-07-07T06:05:40.665Z
+updatedAt: 2022-07-07T06:16:51.937Z
 category: technology
 ---
 

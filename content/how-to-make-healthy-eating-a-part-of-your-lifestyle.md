@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a part of your lifestyle
 createdAt: 2022-07-07T06:05:41.946Z
-updatedAt: 2022-07-07T06:05:41.946Z
+updatedAt: 2022-07-07T06:16:53.507Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The best healthy breakfast recipes to start your day
 createdAt: 2022-07-07T06:05:41.855Z
-updatedAt: 2022-07-07T06:05:41.855Z
+updatedAt: 2022-07-07T06:16:53.326Z
 category: health
 ---
 

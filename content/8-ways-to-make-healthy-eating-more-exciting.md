@@ -1,7 +1,7 @@
 ---
 title: 8 ways to make healthy eating more exciting
 createdAt: 2022-07-07T06:05:41.676Z
-updatedAt: 2022-07-07T06:05:41.676Z
+updatedAt: 2022-07-07T06:16:53.111Z
 category: health
 ---
 

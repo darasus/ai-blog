@@ -1,7 +1,7 @@
 ---
 title: 3 recipes for homemade bread that's better than store-bought
 createdAt: 2022-07-07T06:05:40.118Z
-updatedAt: 2022-07-07T06:05:40.118Z
+updatedAt: 2022-07-07T06:15:16.296Z
 category: cooking
 ---
 

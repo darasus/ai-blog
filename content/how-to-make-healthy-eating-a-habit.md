@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a habit
 createdAt: 2022-07-07T06:05:41.521Z
-updatedAt: 2022-07-07T06:05:41.521Z
+updatedAt: 2022-07-07T06:16:52.934Z
 category: health
 ---
 

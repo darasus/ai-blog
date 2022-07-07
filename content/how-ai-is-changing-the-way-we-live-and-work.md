@@ -1,7 +1,7 @@
 ---
 title: How AI is changing the way we live and work
 createdAt: 2022-07-07T06:05:40.621Z
-updatedAt: 2022-07-07T06:05:40.621Z
+updatedAt: 2022-07-07T06:16:51.886Z
 category: technology
 ---
 

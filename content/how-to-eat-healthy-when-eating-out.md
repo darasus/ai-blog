@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy when eating out
 createdAt: 2022-07-07T06:05:41.698Z
-updatedAt: 2022-07-07T06:05:41.698Z
+updatedAt: 2022-07-07T06:16:53.135Z
 category: health
 ---
 

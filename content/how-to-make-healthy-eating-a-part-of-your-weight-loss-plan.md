@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a part of your weight loss plan
 createdAt: 2022-07-07T06:05:42.105Z
-updatedAt: 2022-07-07T06:05:42.105Z
+updatedAt: 2022-07-07T06:16:53.692Z
 category: health
 ---
 

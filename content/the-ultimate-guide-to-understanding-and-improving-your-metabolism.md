@@ -1,7 +1,7 @@
 ---
 title: The ultimate guide to understanding - and improving - your metabolism
 createdAt: 2022-07-07T06:05:40.958Z
-updatedAt: 2022-07-07T06:05:40.958Z
+updatedAt: 2022-07-07T06:16:52.287Z
 category: health
 ---
 

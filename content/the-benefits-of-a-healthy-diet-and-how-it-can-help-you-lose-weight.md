@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how it can help you lose weight
 createdAt: 2022-07-07T06:05:42.082Z
-updatedAt: 2022-07-07T06:05:42.082Z
+updatedAt: 2022-07-07T06:16:53.667Z
 category: health
 ---
 

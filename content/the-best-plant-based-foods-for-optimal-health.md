@@ -1,7 +1,7 @@
 ---
 title: The best plant-based foods for optimal health
 createdAt: 2022-07-07T06:05:41.137Z
-updatedAt: 2022-07-07T06:05:41.137Z
+updatedAt: 2022-07-07T06:16:52.491Z
 category: health
 ---
 

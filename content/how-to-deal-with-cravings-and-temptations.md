@@ -1,7 +1,7 @@
 ---
 title: How to deal with cravings and temptations
 createdAt: 2022-07-07T06:05:41.543Z
-updatedAt: 2022-07-07T06:05:41.543Z
+updatedAt: 2022-07-07T06:16:52.956Z
 category: health
 ---
 

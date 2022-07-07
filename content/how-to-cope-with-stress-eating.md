@@ -1,7 +1,7 @@
 ---
 title: How to cope with stress eating
 createdAt: 2022-07-07T06:05:41.654Z
-updatedAt: 2022-07-07T06:05:41.654Z
+updatedAt: 2022-07-07T06:16:53.089Z
 category: health
 ---
 

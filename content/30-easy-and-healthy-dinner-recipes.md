@@ -1,7 +1,7 @@
 ---
 title: 30 easy and healthy dinner recipes
 createdAt: 2022-07-07T06:05:39.702Z
-updatedAt: 2022-07-07T06:05:39.702Z
+updatedAt: 2022-07-07T06:15:15.871Z
 category: cooking
 ---
 

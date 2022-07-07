@@ -1,7 +1,7 @@
 ---
 title: The best way to get your kids to eat their vegetables
 createdAt: 2022-07-07T06:05:42.173Z
-updatedAt: 2022-07-07T06:05:42.173Z
+updatedAt: 2022-07-07T06:16:53.780Z
 category: health
 ---
 

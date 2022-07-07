@@ -1,7 +1,7 @@
 ---
 title: 10 ways to increase your productivity
 createdAt: 2022-07-07T06:05:40.599Z
-updatedAt: 2022-07-07T06:05:40.599Z
+updatedAt: 2022-07-07T06:16:51.861Z
 category: business
 ---
 

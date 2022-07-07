@@ -1,7 +1,7 @@
 ---
 title: The ultimate guide to making pizzas at home
 createdAt: 2022-07-07T06:05:40.053Z
-updatedAt: 2022-07-07T06:05:40.053Z
+updatedAt: 2022-07-07T06:15:16.227Z
 category: cooking
 ---
 

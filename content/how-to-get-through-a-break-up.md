@@ -1,7 +1,7 @@
 ---
 title: How to get through a break-up
 createdAt: 2022-07-07T06:05:40.438Z
-updatedAt: 2022-07-07T06:05:40.438Z
+updatedAt: 2022-07-07T06:16:50.860Z
 category: life
 ---
 
