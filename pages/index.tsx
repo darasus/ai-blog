@@ -1,4 +1,4 @@
-import Head from "next/head";
+import { GetStaticProps } from "next";
 import Link from "next/link";
 import { Meta } from "../components/Meta";
 import { Post } from "../types/Post";
@@ -23,17 +23,33 @@ export default function Home({ posts }: { posts: Post[] }) {
           </a>
         </Link>
       ))}
+      <div className="flex justify-center py-5">
+        <Link href="/posts/2">
+          <a className="py-2 px-3 border rounded border-gray-300 bg-gray-200 hover:border-gray-400 hover:bg-gray-300">
+            See more
+          </a>
+        </Link>
+      </div>
     </>
   );
 }
 
-export async function getStaticProps() {
+export const getStaticProps: GetStaticProps = async () => {
   const posts = [];
+  const page = 1;
+  const length = posts.length;
+  const numberOfPages = Math.floor(length / 10);
 
   for (const filePath of postFilePaths) {
     const post = await getPost(filePath);
     posts.push(post);
   }
 
-  return { props: { posts } };
-}
+  return {
+    props: {
+      posts: posts.slice(page, page + 10),
+      currentPage: page,
+      totalPages: numberOfPages,
+    },
+  };
+};
