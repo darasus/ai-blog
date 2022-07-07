@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { LinkButton } from "../../components/LinkButton";
 import { Meta } from "../../components/Meta";
+import { Pagination } from "../../components/Pagination";
 import { Post } from "../../types/Post";
 import { capitalize } from "../../utils/capitalize";
 import { getPost } from "../../utils/getPost";
@@ -46,17 +47,7 @@ export default function Posts({ posts, totalPages }: Props) {
           );
         }
       )}
-      <div className="flex justify-center py-5">
-        {Array.from({ length: totalPages }, (_, i) => (
-          <LinkButton
-            key={i}
-            active={Number(router.query.page) === i + 1}
-            href={`/posts/${i + 1}`}
-          >
-            {i + 1}
-          </LinkButton>
-        ))}
-      </div>
+      <Pagination totalPages={totalPages} />
     </>
   );
 }
