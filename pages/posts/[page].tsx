@@ -87,9 +87,15 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const length = posts.length;
   const numberOfPages = Math.floor(length / 10);
 
+  const preparedPosts = posts
+    .map((post) => ({ ...post, date: new Date(post?.createdAt as string) }))
+    .sort((a, b) => b.date.getTime() - a.date.getTime())
+    .map(({ date, ...post }) => ({ ...post }))
+    .slice(page, page + 10);
+
   return {
     props: {
-      posts: posts.slice(page, page + 10),
+      posts: preparedPosts,
       currentPage: page,
       totalPages: numberOfPages,
     },
