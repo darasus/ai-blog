@@ -1,7 +1,8 @@
 ---
 title: How to deal with anxiety
-createdAt: 2022-07-06T05:05:55.244Z
-updatedAt: 2022-07-06T05:08:33.256Z
+createdAt: 2022-07-07T06:05:41.027Z
+updatedAt: 2022-07-07T06:05:41.027Z
+category: health
 ---
 
 Anxiety is a normal emotion that we all experience at one point or another. It's a feeling of unease, worry or fear. We may feel anxious about an upcoming event, such as a job interview, or about something that is happening in our lives, such as financial problems.

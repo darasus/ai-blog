@@ -1,7 +1,8 @@
 ---
 title: How to eat healthy on a busy schedule
-createdAt: 2022-07-06T05:05:56.114Z
-updatedAt: 2022-07-06T05:08:34.049Z
+createdAt: 2022-07-07T06:05:41.565Z
+updatedAt: 2022-07-07T06:05:41.565Z
+category: health
 ---
 
 Assuming you would like tips on how to eat healthy while leading a busy lifestyle: 

@@ -1,7 +1,8 @@
 ---
 title: The best healthy breakfast recipes to start your day
-createdAt: 2022-07-06T05:05:56.625Z
-updatedAt: 2022-07-06T05:08:34.444Z
+createdAt: 2022-07-07T06:05:41.855Z
+updatedAt: 2022-07-07T06:05:41.855Z
+category: health
 ---
 
 When it comes to starting your day off right, there’s no better way to do it than with a healthy breakfast. Not only will it give you the energy you need to get through your morning, but it will also help set the tone for the rest of your day.

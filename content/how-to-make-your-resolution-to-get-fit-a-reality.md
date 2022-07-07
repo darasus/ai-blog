@@ -1,7 +1,8 @@
 ---
 title: How to make your resolution to get fit a reality
-createdAt: 2022-07-06T05:05:54.984Z
-updatedAt: 2022-07-06T05:08:32.886Z
+createdAt: 2022-07-07T06:05:40.391Z
+updatedAt: 2022-07-07T06:05:40.391Z
+category: life
 ---
 
 When it comes to getting fit, making a resolution is only the first step. You also need to have a plan and be willing to put in the work. Here are some tips to help you make your resolution to get fit a reality:

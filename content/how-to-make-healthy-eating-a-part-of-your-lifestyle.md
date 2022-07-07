@@ -1,7 +1,8 @@
 ---
 title: How to make healthy eating a part of your lifestyle
-createdAt: 2022-07-06T05:05:56.712Z
-updatedAt: 2022-07-06T05:08:34.534Z
+createdAt: 2022-07-07T06:05:41.946Z
+updatedAt: 2022-07-07T06:05:41.946Z
+category: health
 ---
 
 When it comes to making healthy eating a part of your lifestyle, it's all about finding what works for you and making it a priority. Here are some tips to get you started:

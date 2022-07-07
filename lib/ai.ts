@@ -26,7 +26,7 @@ export class AI {
 
         return response.data;
       },
-      10
+      365
     );
   }
 }

@@ -1,7 +1,8 @@
 ---
 title: 5 ways to destress after a long day
-createdAt: 2022-07-06T05:05:54.728Z
-updatedAt: 2022-07-06T05:08:32.515Z
+createdAt: 2022-07-07T06:05:40.914Z
+updatedAt: 2022-07-07T06:05:40.914Z
+category: health
 ---
 
 1. Get some exercise: Exercise is a great way to relieve stress and tension. A good workout can help to release endorphins, which can improve your mood and make you feel more relaxed.

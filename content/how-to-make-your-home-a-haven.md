@@ -1,7 +1,8 @@
 ---
 title: How to make your home a haven
-createdAt: 2022-07-06T05:05:55.299Z
-updatedAt: 2022-07-06T05:08:33.301Z
+createdAt: 2022-07-07T06:05:41.072Z
+updatedAt: 2022-07-07T06:05:41.072Z
+category: health
 ---
 
 Making your home a haven doesn't have to be difficult. There are a few simple things you can do to make your home a place where you can relax and feel comfortable.

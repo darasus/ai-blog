@@ -1,7 +1,8 @@
 ---
 title: The best way to eat healthy when you're short on time
-createdAt: 2022-07-06T05:05:56.733Z
-updatedAt: 2022-07-06T05:08:34.557Z
+createdAt: 2022-07-07T06:05:41.969Z
+updatedAt: 2022-07-07T06:05:41.969Z
+category: health
 ---
 
 When you're short on time, it can be difficult to eat healthy. However, there are some simple tips that can help you make the most of your time and eat healthy.

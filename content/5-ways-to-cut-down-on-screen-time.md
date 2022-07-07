@@ -1,7 +1,8 @@
 ---
 title: 5 ways to cut down on screen time
-createdAt: 2022-07-06T05:05:55.180Z
-updatedAt: 2022-07-06T05:08:33.109Z
+createdAt: 2022-07-07T06:05:40.484Z
+updatedAt: 2022-07-07T06:05:40.484Z
+category: life
 ---
 
 1. Keep a journal of your screen time usage. 

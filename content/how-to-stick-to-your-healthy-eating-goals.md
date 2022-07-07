@@ -1,7 +1,8 @@
 ---
 title: How to stick to your healthy eating goals
-createdAt: 2022-07-06T05:05:56.012Z
-updatedAt: 2022-07-06T05:08:33.957Z
+createdAt: 2022-07-07T06:05:41.476Z
+updatedAt: 2022-07-07T06:05:41.476Z
+category: health
 ---
 
 When it comes to eating healthy, it can be hard to stick to your goals. There are so many delicious unhealthy foods out there, and it can be easy to give in to temptation. However, there are a few things you can do to make it easier to stick to your healthy eating goals.

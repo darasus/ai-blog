@@ -1,7 +1,8 @@
 ---
 title: 30 easy and healthy dinner recipes
-createdAt: 2022-07-06T05:05:54.775Z
-updatedAt: 2022-07-06T05:08:32.567Z
+createdAt: 2022-07-07T06:05:39.702Z
+updatedAt: 2022-07-07T06:05:39.702Z
+category: cooking
 ---
 
 30 easy and healthy dinner recipes that will make your life easier and help you stay on track with your health goals!

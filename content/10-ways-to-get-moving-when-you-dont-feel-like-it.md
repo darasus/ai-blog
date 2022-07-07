@@ -1,7 +1,8 @@
 ---
 title: 10 ways to get moving when you don't feel like it
-createdAt: 2022-07-06T05:05:55.202Z
-updatedAt: 2022-07-06T05:08:33.132Z
+createdAt: 2022-07-07T06:05:40.981Z
+updatedAt: 2022-07-07T06:05:40.981Z
+category: health
 ---
 
 1. Just get started. Sometimes the hardest part is just getting started. Once you get your body moving, you'll often find that you have more energy and motivation to keep going.

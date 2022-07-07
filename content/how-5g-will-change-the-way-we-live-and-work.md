@@ -1,7 +1,8 @@
 ---
 title: How 5G will change the way we live and work
-createdAt: 2022-07-06T05:05:54.228Z
-updatedAt: 2022-07-06T05:08:32.096Z
+createdAt: 2022-07-07T06:05:40.665Z
+updatedAt: 2022-07-07T06:05:40.665Z
+category: technology
 ---
 
 The way we live and work is about to change, and 5G will be a big part of that. Here are five ways that 5G will change the way we live and work:

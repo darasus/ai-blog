@@ -1,7 +1,8 @@
 ---
 title: How to create a healthy grocery list on a budget
-createdAt: 2022-07-06T05:05:55.598Z
-updatedAt: 2022-07-06T05:08:33.400Z
+createdAt: 2022-07-07T06:05:41.159Z
+updatedAt: 2022-07-07T06:05:41.159Z
+category: health
 ---
 
 When it comes to eating healthy on a budget, one of the most important things you can do is create a healthy grocery list. This will help you save money and eat healthier overall. Here are some tips for creating a healthy grocery list on a budget:

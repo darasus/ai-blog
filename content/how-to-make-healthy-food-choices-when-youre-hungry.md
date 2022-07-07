@@ -1,7 +1,8 @@
 ---
 title: How to make healthy food choices when you're hungry
-createdAt: 2022-07-06T05:05:56.754Z
-updatedAt: 2022-07-06T05:08:34.590Z
+createdAt: 2022-07-07T06:05:41.992Z
+updatedAt: 2022-07-07T06:05:41.992Z
+category: health
 ---
 
 When you're hungry, it can be hard to make healthy food choices. You may be tempted to reach for unhealthy snacks or meals that are high in calories and fat. However, there are some simple tips that you can follow to make healthier choices when you're feeling hungry.

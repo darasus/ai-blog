@@ -5,10 +5,12 @@ export interface MDXPost {
   createdAt: Date;
   updatedAt: Date;
   content: string;
+  category: string;
 }
 
 export interface Post {
   title: string;
+  category: string;
   createdAt: string;
   updatedAt: string;
   content: MDXRemoteSerializeResult<Record<string, unknown>>;

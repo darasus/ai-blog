@@ -1,7 +1,8 @@
 ---
 title: How to get started with a plant-based diet
-createdAt: 2022-07-06T05:05:55.756Z
-updatedAt: 2022-07-06T05:08:33.575Z
+createdAt: 2022-07-07T06:05:41.293Z
+updatedAt: 2022-07-07T06:05:41.293Z
+category: health
 ---
 
 If you're interested in trying a plant-based diet, there are a few things you should know before getting started. First, a plant-based diet is one that focuses on plants for food. This means eating mostly fruits, vegetables, grains, and legumes. It doesn't mean that you never eat meat or dairy, but these foods should be limited. Second, a plant-based diet is healthy for both your body and the environment. Studies have shown that plant-based diets can lower your risk of heart disease, obesity, and type 2 diabetes. They can also help reduce your carbon footprint.

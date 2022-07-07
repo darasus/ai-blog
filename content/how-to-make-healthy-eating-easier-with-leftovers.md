@@ -1,7 +1,8 @@
 ---
 title: How to make healthy eating easier with leftovers
-createdAt: 2022-07-06T05:05:56.336Z
-updatedAt: 2022-07-06T05:08:34.375Z
+createdAt: 2022-07-07T06:05:41.789Z
+updatedAt: 2022-07-07T06:05:41.789Z
+category: health
 ---
 
 If you're like most people, you probably have trouble eating healthy on a regular basis. You're always on the go and don't have time to cook or you just don't know how to cook healthy meals. The good news is that you can make healthy eating easier with leftovers.

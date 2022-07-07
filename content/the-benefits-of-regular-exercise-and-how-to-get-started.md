@@ -1,7 +1,8 @@
 ---
 title: The benefits of regular exercise - and how to get started
-createdAt: 2022-07-06T05:05:55.968Z
-updatedAt: 2022-07-06T05:08:33.913Z
+createdAt: 2022-07-07T06:05:41.431Z
+updatedAt: 2022-07-07T06:05:41.431Z
+category: health
 ---
 
 The benefits of regular exercise are well-documented. Exercise can help improve your mood, increase your energy levels, and help you to maintain a healthy weight. It can also reduce your risk of developing chronic health conditions such as heart disease, stroke, and type 2 diabetes.

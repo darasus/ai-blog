@@ -1,7 +1,8 @@
 ---
 title: How to overcome emotional eating
-createdAt: 2022-07-06T05:05:55.991Z
-updatedAt: 2022-07-06T05:08:33.935Z
+createdAt: 2022-07-07T06:05:41.453Z
+updatedAt: 2022-07-07T06:05:41.453Z
+category: health
 ---
 
 If you're someone who emotional eats, you're not alone. Emotional eating is a real thing and it can be tough to overcome. But there are ways to do it! Here are some tips on how to overcome emotional eating: 

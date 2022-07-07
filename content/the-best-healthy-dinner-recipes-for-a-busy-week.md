@@ -1,7 +1,8 @@
 ---
 title: The best healthy dinner recipes for a busy week
-createdAt: 2022-07-06T05:05:56.901Z
-updatedAt: 2022-07-06T05:08:34.728Z
+createdAt: 2022-07-07T06:05:42.128Z
+updatedAt: 2022-07-07T06:05:42.128Z
+category: health
 ---
 
 When it comes to eating healthy, dinner is often the hardest meal to get right. After a long day at work, the last thing you want to do is cook a complicated or time-consuming meal. But with a little planning and some simple recipes, you can make healthy dinners that are both delicious and easy to make.

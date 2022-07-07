@@ -1,7 +1,8 @@
 ---
 title: How to make healthy eating a habit
-createdAt: 2022-07-06T05:05:56.069Z
-updatedAt: 2022-07-06T05:08:34.004Z
+createdAt: 2022-07-07T06:05:41.521Z
+updatedAt: 2022-07-07T06:05:41.521Z
+category: health
 ---
 
 When it comes to developing healthy eating habits, consistency is key. That means making healthy choices most of the time, and allowing yourself the occasional indulgence. Here are some tips to help you make healthy eating a habit:

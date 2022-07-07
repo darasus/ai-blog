@@ -1,7 +1,8 @@
 ---
 title: The benefits of a plant-based diet
-createdAt: 2022-07-06T05:05:56.361Z
-updatedAt: 2022-07-06T05:08:34.398Z
+createdAt: 2022-07-07T06:05:41.811Z
+updatedAt: 2022-07-07T06:05:41.811Z
+category: health
 ---
 
 A plant-based diet has many benefits. It can help you lose weight, lower your cholesterol, and reduce your risk of heart disease and stroke. It can also help you reduce your risk of cancer.

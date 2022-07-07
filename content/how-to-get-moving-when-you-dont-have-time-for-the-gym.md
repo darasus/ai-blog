@@ -1,7 +1,8 @@
 ---
 title: How to get moving when you don't have time for the gym
-createdAt: 2022-07-06T05:05:55.686Z
-updatedAt: 2022-07-06T05:08:33.508Z
+createdAt: 2022-07-07T06:05:41.225Z
+updatedAt: 2022-07-07T06:05:41.225Z
+category: health
 ---
 
 If you're like most people, you probably don't have time for the gym. But that doesn't mean you can't get moving and improve your health. There are plenty of ways to get active without spending hours at the gym.

@@ -3,7 +3,7 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 import ora from "ora";
-import { articleTitles } from "../data/articleTitles";
+import { data } from "../data/data";
 import { AI } from "../lib/ai";
 import yaml from "yaml";
 import slugify from "slugify";
@@ -11,15 +11,24 @@ import path from "node:path";
 import fs from "node:fs";
 import { MDXPost } from "../types/Post";
 import parseMD from "parse-md";
-import { POSTS_PATH } from "../utils/paths";
 import { readArticleFile } from "../utils/readFileSync";
+import { keys } from "ramda";
 
 const spinner = ora("Start generating articles...");
 
 const postsDir = path.join(__dirname, "../content");
 
-function getArticleTitles() {
-  return articleTitles;
+interface Input {
+  title: string;
+  category: string;
+}
+
+function getArticleData() {
+  return keys(data).reduce<Input[]>((prev, next) => {
+    const articles = data[next];
+    const newData = articles.map((title) => ({ title, category: next }));
+    return [...prev, ...newData];
+  }, []);
 }
 
 function formatMarkdown(post: MDXPost) {
@@ -30,11 +39,11 @@ function formatMarkdown(post: MDXPost) {
 async function main() {
   spinner.start();
   const ai = new AI();
-  const titles = getArticleTitles();
+  const titlesAndCategories = getArticleData();
 
-  for (const [i, title] of titles.entries()) {
+  for (const [i, { title, category }] of titlesAndCategories.entries()) {
     spinner.text = `Generating article (${i + 1} of ${
-      titles.length
+      titlesAndCategories.length
     }): ${title}`;
     let post: Partial<MDXPost> = {};
     const basename = slugify(title, { strict: true, lower: true });
@@ -61,13 +70,14 @@ async function main() {
 
     post.updatedAt = new Date();
     post.content = response?.choices?.[0].text;
+    post.category = category;
 
     const formattedPost = formatMarkdown(post as MDXPost);
     const filePath = path.join(postsDir, `${basename}.md`);
     fs.writeFileSync(filePath, formattedPost);
   }
 
-  spinner.text = `Done generating ${titles.length} articles!`;
+  spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
   spinner.stopAndPersist();
   process.exit(0);
 }

@@ -1,7 +1,8 @@
 ---
 title: How to make time for your hobbies
-createdAt: 2022-07-06T05:05:55.158Z
-updatedAt: 2022-07-06T05:08:33.087Z
+createdAt: 2022-07-07T06:05:40.461Z
+updatedAt: 2022-07-07T06:05:40.461Z
+category: life
 ---
 
 Assuming you have a job and other responsibilities, it can be tough to find time for your hobbies. Here are a few tips on how to make time for your hobbies:

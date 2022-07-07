@@ -1,7 +1,8 @@
 ---
 title: How to make your kitchen a healthier place
-createdAt: 2022-07-06T05:05:56.293Z
-updatedAt: 2022-07-06T05:08:34.329Z
+createdAt: 2022-07-07T06:05:41.744Z
+updatedAt: 2022-07-07T06:05:41.744Z
+category: health
 ---
 
 When it comes to making your kitchen a healthier place, there are a few key things to keep in mind. First, focus on stocking your kitchen with healthy foods and ingredients. This means plenty of fresh fruits and vegetables, lean protein, whole grains, and healthy fats. By filling your kitchen with these healthy options, you’ll be more likely to make healthier choices when it comes time to cook and eat.

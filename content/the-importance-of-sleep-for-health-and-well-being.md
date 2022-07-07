@@ -1,7 +1,8 @@
 ---
 title: The importance of sleep for health and well-being
-createdAt: 2022-07-06T05:05:55.823Z
-updatedAt: 2022-07-06T05:08:33.643Z
+createdAt: 2022-07-07T06:05:41.362Z
+updatedAt: 2022-07-07T06:05:41.362Z
+category: health
 ---
 
 Sleep is one of the most important things that our bodies need in order to function properly. It is a time when our bodies can heal and repair itself from the wear and tear of the day. Sleep is also a time when our brains can process information and consolidate memories.
