@@ -2,11 +2,11 @@ import fs from "fs";
 import matter from "gray-matter";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
-import { Post } from "../types/Post";
+import { TPost } from "../types/Post";
 import { capitalize } from "./capitalize";
 import { POSTS_PATH } from "./paths";
 
-export const getPost = async (filePath: string): Promise<Post | null> => {
+export const getPost = async (filePath: string): Promise<TPost | null> => {
   const source = fs.readFileSync(path.join(POSTS_PATH, filePath));
   if (!source) return null;
   const { content, data } = matter(source);

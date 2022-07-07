@@ -8,7 +8,7 @@ export interface MDXPost {
   category: string;
 }
 
-export interface Post {
+export interface TPost {
   title: string;
   category: string;
   createdAt: string;
