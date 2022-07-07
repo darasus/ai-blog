@@ -14,6 +14,9 @@ export default function Home({ posts }: { posts: TPost[] }) {
         title="Latest"
         description="All articles from The AI Paper are carefully crafted by GPT-3"
       />
+      <div className="border-b border-gray-200 p-4 uppercase font-bold text-lg text-gray-500">
+        Latest articles
+      </div>
       {posts.map((post, i: number) => (
         <Link href={`/p/${post.slug}`} key={i}>
           <a className="pointer block border-b border-gray-200 p-4">
