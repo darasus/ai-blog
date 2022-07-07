@@ -3,6 +3,7 @@ import React from "react";
 import { TPost } from "../../types/Post";
 import { capitalize } from "../../utils/capitalize";
 import { PostMeta } from "./PostMeta";
+import { PostTitle } from "./PostTitle";
 
 interface Props {
   post: TPost;
@@ -14,7 +15,7 @@ export const Post: React.FC<Props> = ({ post }) => {
   return (
     <article>
       <PostMeta items={[createdAt, capitalize(category)]} />
-      <h1>{title}</h1>
+      <PostTitle>{title}</PostTitle>
       <MDXRemote {...content} />
     </article>
   );
