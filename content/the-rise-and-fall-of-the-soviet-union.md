@@ -1,7 +1,7 @@
 ---
 title: The Rise and Fall of the Soviet Union
 createdAt: 2022-07-07T06:16:02.109Z
-updatedAt: 2022-07-07T06:16:02.109Z
+updatedAt: 2022-07-07T16:41:48.983Z
 category: politics
 ---
 

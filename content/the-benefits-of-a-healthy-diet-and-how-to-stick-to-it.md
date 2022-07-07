@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how to stick to it
 createdAt: 2022-07-07T06:05:41.316Z
-updatedAt: 2022-07-07T06:16:52.702Z
+updatedAt: 2022-07-07T17:00:50.926Z
 category: health
 ---
 

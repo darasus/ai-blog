@@ -1,7 +1,7 @@
 ---
 title: 10 easy ways to make your home more energy efficient
 createdAt: 2022-07-07T06:05:40.276Z
-updatedAt: 2022-07-07T06:16:50.662Z
+updatedAt: 2022-07-07T16:41:49.237Z
 category: life
 ---
 

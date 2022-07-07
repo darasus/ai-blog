@@ -1,7 +1,7 @@
 ---
 title: The End of the Cold War
 createdAt: 2022-07-07T06:16:06.279Z
-updatedAt: 2022-07-07T06:16:06.279Z
+updatedAt: 2022-07-07T16:41:49.006Z
 category: politics
 ---
 

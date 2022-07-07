@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with batch cooking
 createdAt: 2022-07-07T06:05:41.609Z
-updatedAt: 2022-07-07T06:16:53.036Z
+updatedAt: 2022-07-07T17:00:51.241Z
 category: health
 ---
 

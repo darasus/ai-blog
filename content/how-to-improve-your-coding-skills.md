@@ -1,7 +1,7 @@
 ---
 title: How to improve your coding skills
 createdAt: 2022-07-07T06:12:48.039Z
-updatedAt: 2022-07-07T06:16:51.441Z
+updatedAt: 2022-07-07T16:41:49.882Z
 category: coding
 ---
 

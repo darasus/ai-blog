@@ -1,7 +1,7 @@
 ---
 title: 10 tips for getting a good night's sleep
 createdAt: 2022-07-07T06:05:41.050Z
-updatedAt: 2022-07-07T06:16:52.389Z
+updatedAt: 2022-07-07T17:00:50.654Z
 category: health
 ---
 

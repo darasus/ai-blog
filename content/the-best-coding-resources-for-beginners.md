@@ -1,7 +1,7 @@
 ---
 title: The best coding resources for beginners
 createdAt: 2022-07-07T06:10:52.634Z
-updatedAt: 2022-07-07T06:16:51.157Z
+updatedAt: 2022-07-07T16:41:49.649Z
 category: coding
 ---
 

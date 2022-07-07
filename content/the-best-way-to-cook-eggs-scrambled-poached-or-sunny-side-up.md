@@ -1,7 +1,7 @@
 ---
 title: The best way to cook eggs - scrambled, poached or sunny side up?
 createdAt: 2022-07-07T06:05:39.870Z
-updatedAt: 2022-07-07T06:15:16.041Z
+updatedAt: 2022-07-07T16:41:48.591Z
 category: cooking
 ---
 

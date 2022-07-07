@@ -1,7 +1,7 @@
 ---
 title: The Top Ten Political Scandals of the 21st Century
 createdAt: 2022-07-07T06:15:22.083Z
-updatedAt: 2022-07-07T06:15:22.083Z
+updatedAt: 2022-07-07T16:41:48.914Z
 category: politics
 ---
 

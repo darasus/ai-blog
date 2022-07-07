@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on the go
 createdAt: 2022-07-07T06:05:42.014Z
-updatedAt: 2022-07-07T06:16:53.581Z
+updatedAt: 2022-07-07T17:00:51.667Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The most common coding mistakes and how to avoid them
 createdAt: 2022-07-07T06:11:17.313Z
-updatedAt: 2022-07-07T06:16:51.210Z
+updatedAt: 2022-07-07T16:41:49.696Z
 category: coding
 ---
 

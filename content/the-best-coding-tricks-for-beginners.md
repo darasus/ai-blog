@@ -1,7 +1,7 @@
 ---
 title: The best coding tricks for beginners
 createdAt: 2022-07-07T06:12:43.270Z
-updatedAt: 2022-07-07T06:16:51.417Z
+updatedAt: 2022-07-07T16:41:49.859Z
 category: coding
 ---
 

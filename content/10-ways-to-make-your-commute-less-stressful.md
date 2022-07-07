@@ -1,7 +1,7 @@
 ---
 title: 10 ways to make your commute less stressful
 createdAt: 2022-07-07T06:05:40.779Z
-updatedAt: 2022-07-07T06:16:52.070Z
+updatedAt: 2022-07-07T17:00:50.376Z
 category: health
 ---
 

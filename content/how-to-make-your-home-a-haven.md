@@ -1,7 +1,7 @@
 ---
 title: How to make your home a haven
 createdAt: 2022-07-07T06:05:41.072Z
-updatedAt: 2022-07-07T06:16:52.416Z
+updatedAt: 2022-07-07T17:00:50.675Z
 category: health
 ---
 

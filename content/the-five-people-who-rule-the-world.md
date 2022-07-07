@@ -1,7 +1,7 @@
 ---
 title: The Five People Who Rule the World
 createdAt: 2022-07-07T06:15:32.490Z
-updatedAt: 2022-07-07T06:15:32.490Z
+updatedAt: 2022-07-07T16:41:48.936Z
 category: politics
 ---
 

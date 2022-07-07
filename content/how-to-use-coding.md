@@ -1,7 +1,7 @@
 ---
 title: How to use coding
 createdAt: 2022-07-07T06:15:00.849Z
-updatedAt: 2022-07-07T06:16:51.787Z
+updatedAt: 2022-07-07T16:41:50.143Z
 category: coding
 ---
 

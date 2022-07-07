@@ -1,7 +1,7 @@
 ---
 title: How to get started with coding
 createdAt: 2022-07-07T06:10:02.078Z
-updatedAt: 2022-07-07T06:16:51.051Z
+updatedAt: 2022-07-07T16:41:49.557Z
 category: coding
 ---
 

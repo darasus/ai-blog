@@ -1,7 +1,7 @@
 ---
 title: One pot wonders - easy recipes for busy weeknights
 createdAt: 2022-07-07T06:05:39.799Z
-updatedAt: 2022-07-07T06:15:15.971Z
+updatedAt: 2022-07-07T16:41:48.519Z
 category: cooking
 ---
 

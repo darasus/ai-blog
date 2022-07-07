@@ -1,7 +1,7 @@
 ---
 title: 5 tips for eating healthy on a budget
 createdAt: 2022-07-07T06:05:40.415Z
-updatedAt: 2022-07-07T06:16:50.834Z
+updatedAt: 2022-07-07T16:41:49.374Z
 category: life
 ---
 

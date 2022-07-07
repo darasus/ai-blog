@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how it can improve your mood
 createdAt: 2022-07-07T06:05:41.631Z
-updatedAt: 2022-07-07T06:16:53.063Z
+updatedAt: 2022-07-07T17:00:51.264Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a priority
 createdAt: 2022-07-07T06:05:41.834Z
-updatedAt: 2022-07-07T06:16:53.302Z
+updatedAt: 2022-07-07T17:00:51.477Z
 category: health
 ---
 

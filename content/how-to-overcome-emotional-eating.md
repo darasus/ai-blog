@@ -1,7 +1,7 @@
 ---
 title: How to overcome emotional eating
 createdAt: 2022-07-07T06:05:41.453Z
-updatedAt: 2022-07-07T06:16:52.861Z
+updatedAt: 2022-07-07T17:00:51.066Z
 category: health
 ---
 

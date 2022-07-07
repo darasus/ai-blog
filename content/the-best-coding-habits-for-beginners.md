@@ -1,7 +1,7 @@
 ---
 title: The best coding habits for beginners
 createdAt: 2022-07-07T06:13:56.313Z
-updatedAt: 2022-07-07T06:16:51.651Z
+updatedAt: 2022-07-07T16:41:50.027Z
 category: coding
 ---
 

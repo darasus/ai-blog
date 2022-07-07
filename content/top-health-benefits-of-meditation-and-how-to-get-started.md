@@ -1,7 +1,7 @@
 ---
 title: Top health benefits of meditation and how to get started
 createdAt: 2022-07-07T06:05:41.095Z
-updatedAt: 2022-07-07T06:16:52.441Z
+updatedAt: 2022-07-07T17:00:50.698Z
 category: health
 ---
 

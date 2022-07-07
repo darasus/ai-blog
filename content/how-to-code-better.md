@@ -1,7 +1,7 @@
 ---
 title: How to code better
 createdAt: 2022-07-07T06:13:22.378Z
-updatedAt: 2022-07-07T06:16:51.528Z
+updatedAt: 2022-07-07T16:41:49.957Z
 category: coding
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Rise of China
 createdAt: 2022-07-07T06:16:46.019Z
-updatedAt: 2022-07-07T06:16:46.019Z
+updatedAt: 2022-07-07T16:41:49.097Z
 category: politics
 ---
 

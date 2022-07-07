@@ -1,7 +1,7 @@
 ---
 title: How to make your resolution to get fit a reality
 createdAt: 2022-07-07T06:05:40.391Z
-updatedAt: 2022-07-07T06:16:50.799Z
+updatedAt: 2022-07-07T16:41:49.351Z
 category: life
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Future of the European Union
 createdAt: 2022-07-07T06:16:50.531Z
-updatedAt: 2022-07-07T06:16:50.531Z
+updatedAt: 2022-07-07T16:41:49.120Z
 category: politics
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The basics of coding for beginners
 createdAt: 2022-07-07T06:09:53.681Z
-updatedAt: 2022-07-07T06:16:51.025Z
+updatedAt: 2022-07-07T16:41:49.534Z
 category: coding
 ---
 

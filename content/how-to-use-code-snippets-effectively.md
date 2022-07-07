@@ -1,7 +1,7 @@
 ---
 title: How to use code snippets effectively
 createdAt: 2022-07-07T06:13:02.066Z
-updatedAt: 2022-07-07T06:16:51.469Z
+updatedAt: 2022-07-07T16:41:49.905Z
 category: coding
 ---
 

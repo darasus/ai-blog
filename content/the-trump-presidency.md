@@ -1,7 +1,7 @@
 ---
 title: The Trump Presidency
 createdAt: 2022-07-07T06:16:39.777Z
-updatedAt: 2022-07-07T06:16:39.777Z
+updatedAt: 2022-07-07T16:41:49.075Z
 category: politics
 ---
 

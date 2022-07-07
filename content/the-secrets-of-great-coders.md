@@ -1,7 +1,7 @@
 ---
 title: The secrets of great coders
 createdAt: 2022-07-07T06:13:30.533Z
-updatedAt: 2022-07-07T06:16:51.600Z
+updatedAt: 2022-07-07T16:41:49.981Z
 category: coding
 ---
 

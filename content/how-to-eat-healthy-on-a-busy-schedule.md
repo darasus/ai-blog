@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on a busy schedule
 createdAt: 2022-07-07T06:05:41.565Z
-updatedAt: 2022-07-07T06:16:52.985Z
+updatedAt: 2022-07-07T17:00:51.192Z
 category: health
 ---
 

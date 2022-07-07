@@ -1,7 +1,7 @@
 ---
 title: How to create a healthy grocery list on a budget
 createdAt: 2022-07-07T06:05:41.159Z
-updatedAt: 2022-07-07T06:16:52.521Z
+updatedAt: 2022-07-07T17:00:50.765Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The best coding practices for beginners
 createdAt: 2022-07-07T06:13:51.726Z
-updatedAt: 2022-07-07T06:16:51.626Z
+updatedAt: 2022-07-07T16:41:50.005Z
 category: coding
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with leftovers
 createdAt: 2022-07-07T06:05:41.789Z
-updatedAt: 2022-07-07T06:16:53.248Z
+updatedAt: 2022-07-07T17:00:51.430Z
 category: health
 ---
 

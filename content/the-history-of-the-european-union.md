@@ -1,7 +1,7 @@
 ---
 title: The History of the European Union
 createdAt: 2022-07-07T06:16:28.201Z
-updatedAt: 2022-07-07T06:16:28.201Z
+updatedAt: 2022-07-07T16:41:49.029Z
 category: politics
 ---
 

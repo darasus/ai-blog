@@ -1,7 +1,7 @@
 ---
 title: The Ten Most Powerful Women in Politics
 createdAt: 2022-07-07T06:15:52.820Z
-updatedAt: 2022-07-07T06:15:52.820Z
+updatedAt: 2022-07-07T16:41:48.960Z
 category: politics
 ---
 

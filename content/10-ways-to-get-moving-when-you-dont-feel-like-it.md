@@ -1,7 +1,7 @@
 ---
 title: 10 ways to get moving when you don't feel like it
 createdAt: 2022-07-07T06:05:40.981Z
-updatedAt: 2022-07-07T06:16:52.312Z
+updatedAt: 2022-07-07T17:00:50.584Z
 category: health
 ---
 

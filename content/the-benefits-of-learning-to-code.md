@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Learning to Code
 createdAt: 2022-07-07T06:09:41.762Z
-updatedAt: 2022-07-07T06:16:50.996Z
+updatedAt: 2022-07-07T16:41:49.511Z
 category: coding
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Sourdough starter - how to make your own
 createdAt: 2022-07-07T06:05:40.075Z
-updatedAt: 2022-07-07T06:15:16.250Z
+updatedAt: 2022-07-07T16:41:48.801Z
 category: cooking
 ---
 

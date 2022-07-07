@@ -1,7 +1,7 @@
 ---
 title: The best coding languages to learn
 createdAt: 2022-07-07T06:10:13.743Z
-updatedAt: 2022-07-07T06:16:51.079Z
+updatedAt: 2022-07-07T16:41:49.581Z
 category: coding
 ---
 

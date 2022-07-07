@@ -1,7 +1,7 @@
 ---
 title: One-dish meals - recipes for busy weeknights
 createdAt: 2022-07-07T06:05:40.008Z
-updatedAt: 2022-07-07T06:15:16.181Z
+updatedAt: 2022-07-07T16:41:48.732Z
 category: cooking
 ---
 

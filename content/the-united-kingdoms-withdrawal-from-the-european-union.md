@@ -1,7 +1,7 @@
 ---
 title: The United Kingdom's withdrawal from the European Union
 createdAt: 2022-07-07T06:16:36.802Z
-updatedAt: 2022-07-07T06:16:36.802Z
+updatedAt: 2022-07-07T16:41:49.052Z
 category: politics
 ---
 

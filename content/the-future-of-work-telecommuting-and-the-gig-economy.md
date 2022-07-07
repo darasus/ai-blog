@@ -1,7 +1,7 @@
 ---
 title: "The future of work: telecommuting and the gig economy"
 createdAt: 2022-07-07T06:05:40.733Z
-updatedAt: 2022-07-07T06:16:52.015Z
+updatedAt: 2022-07-07T17:00:50.330Z
 category: technology
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How to cook healthier meals at home
 createdAt: 2022-07-07T06:05:42.060Z
-updatedAt: 2022-07-07T06:16:53.640Z
+updatedAt: 2022-07-07T17:00:51.714Z
 category: health
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The future of work: what will jobs look like in 2030?"
 createdAt: 2022-07-07T06:05:40.578Z
-updatedAt: 2022-07-07T06:16:51.836Z
+updatedAt: 2022-07-07T16:41:50.206Z
 category: business
 ---
 

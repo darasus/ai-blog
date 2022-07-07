@@ -1,7 +1,7 @@
 ---
 title: From soup to nuts - the best recipes for winter
 createdAt: 2022-07-07T06:05:39.777Z
-updatedAt: 2022-07-07T06:15:15.948Z
+updatedAt: 2022-07-07T16:41:48.496Z
 category: cooking
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The health benefits of walking - and how to get started
 createdAt: 2022-07-07T06:05:41.248Z
-updatedAt: 2022-07-07T06:16:52.628Z
+updatedAt: 2022-07-07T17:00:50.855Z
 category: health
 ---
 

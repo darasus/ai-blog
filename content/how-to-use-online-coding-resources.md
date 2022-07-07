@@ -1,7 +1,7 @@
 ---
 title: How to use online coding resources
 createdAt: 2022-07-07T06:14:47.539Z
-updatedAt: 2022-07-07T06:16:51.760Z
+updatedAt: 2022-07-07T16:41:50.120Z
 category: coding
 ---
 

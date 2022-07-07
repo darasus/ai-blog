@@ -1,7 +1,7 @@
 ---
 title: The best coding shortcuts for beginners
 createdAt: 2022-07-07T06:14:13.983Z
-updatedAt: 2022-07-07T06:16:51.677Z
+updatedAt: 2022-07-07T16:41:50.049Z
 category: coding
 ---
 

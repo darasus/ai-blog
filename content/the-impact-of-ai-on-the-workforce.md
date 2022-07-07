@@ -1,7 +1,7 @@
 ---
 title: The impact of AI on the workforce
 createdAt: 2022-07-07T06:05:40.687Z
-updatedAt: 2022-07-07T06:16:51.963Z
+updatedAt: 2022-07-07T17:00:50.285Z
 category: technology
 ---
 

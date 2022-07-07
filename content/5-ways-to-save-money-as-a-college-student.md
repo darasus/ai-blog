@@ -1,7 +1,7 @@
 ---
 title: 5 ways to save money as a college student
 createdAt: 2022-07-07T06:05:40.230Z
-updatedAt: 2022-07-07T06:16:50.610Z
+updatedAt: 2022-07-07T16:41:49.190Z
 category: life
 ---
 

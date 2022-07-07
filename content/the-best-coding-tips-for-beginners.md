@@ -1,7 +1,7 @@
 ---
 title: The best coding tips for beginners
 createdAt: 2022-07-07T06:12:36.979Z
-updatedAt: 2022-07-07T06:16:51.375Z
+updatedAt: 2022-07-07T16:41:49.836Z
 category: coding
 ---
 

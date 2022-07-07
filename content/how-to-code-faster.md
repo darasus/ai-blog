@@ -1,7 +1,7 @@
 ---
 title: How to code faster
 createdAt: 2022-07-07T06:13:16.403Z
-updatedAt: 2022-07-07T06:16:51.501Z
+updatedAt: 2022-07-07T16:41:49.928Z
 category: coding
 ---
 

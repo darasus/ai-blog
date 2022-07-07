@@ -1,7 +1,7 @@
 ---
 title: How to make the perfect omelette
 createdAt: 2022-07-07T06:05:40.031Z
-updatedAt: 2022-07-07T06:15:16.203Z
+updatedAt: 2022-07-07T16:41:48.755Z
 category: cooking
 ---
 

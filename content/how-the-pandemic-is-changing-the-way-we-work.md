@@ -1,7 +1,7 @@
 ---
 title: How the pandemic is changing the way we work
 createdAt: 2022-07-07T06:05:40.183Z
-updatedAt: 2022-07-07T06:16:50.556Z
+updatedAt: 2022-07-07T16:41:49.142Z
 category: life
 ---
 

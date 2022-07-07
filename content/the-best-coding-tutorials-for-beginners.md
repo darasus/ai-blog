@@ -1,7 +1,7 @@
 ---
 title: The best coding tutorials for beginners
 createdAt: 2022-07-07T06:10:42.701Z
-updatedAt: 2022-07-07T06:16:51.130Z
+updatedAt: 2022-07-07T16:41:49.628Z
 category: coding
 ---
 

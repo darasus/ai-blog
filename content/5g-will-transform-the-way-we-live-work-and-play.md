@@ -1,7 +1,7 @@
 ---
 title: 5G will transform the way we live, work and play
 createdAt: 2022-07-07T06:05:40.709Z
-updatedAt: 2022-07-07T06:16:51.989Z
+updatedAt: 2022-07-07T17:00:50.307Z
 category: technology
 ---
 

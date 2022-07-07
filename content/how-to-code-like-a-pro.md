@@ -1,7 +1,7 @@
 ---
 title: How to code like a pro
 createdAt: 2022-07-07T06:11:09.634Z
-updatedAt: 2022-07-07T06:16:51.182Z
+updatedAt: 2022-07-07T16:41:49.672Z
 category: coding
 ---
 

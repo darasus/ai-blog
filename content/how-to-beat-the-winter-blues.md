@@ -1,7 +1,7 @@
 ---
 title: How to beat the winter blues
 createdAt: 2022-07-07T06:05:40.530Z
-updatedAt: 2022-07-07T06:16:50.967Z
+updatedAt: 2022-07-07T16:41:49.488Z
 category: life
 ---
 

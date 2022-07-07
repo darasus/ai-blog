@@ -1,7 +1,7 @@
 ---
 title: How to debug your code like a pro
 createdAt: 2022-07-07T06:11:33.934Z
-updatedAt: 2022-07-07T06:16:51.237Z
+updatedAt: 2022-07-07T16:41:49.719Z
 category: coding
 ---
 

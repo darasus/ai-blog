@@ -1,7 +1,7 @@
 ---
 title: How to read code like a pro
 createdAt: 2022-07-07T06:14:18.660Z
-updatedAt: 2022-07-07T06:16:51.704Z
+updatedAt: 2022-07-07T16:41:50.074Z
 category: coding
 ---
 

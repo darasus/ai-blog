@@ -1,7 +1,7 @@
 ---
 title: 5 easy tips for making better pasta dishes
 createdAt: 2022-07-07T06:05:39.847Z
-updatedAt: 2022-07-07T06:15:16.018Z
+updatedAt: 2022-07-07T16:41:48.568Z
 category: cooking
 ---
 
