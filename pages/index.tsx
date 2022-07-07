@@ -33,7 +33,7 @@ export default function Home({ posts }: { posts: TPost[] }) {
 
 export const getStaticProps: GetStaticProps = async () => {
   const posts = [];
-  const page = 1;
+  const defaultPageNumber = 1;
   const length = posts.length;
   const numberOfPages = Math.floor(length / 10);
 
@@ -46,12 +46,12 @@ export const getStaticProps: GetStaticProps = async () => {
     .map((post) => ({ ...post, date: new Date(post?.createdAt as string) }))
     .sort((a, b) => b.date.getTime() - a.date.getTime())
     .map(({ date, ...post }) => ({ ...post }))
-    .slice(page, page + 10);
+    .slice(defaultPageNumber, defaultPageNumber + 10);
 
   return {
     props: {
       posts: preparedPosts,
-      currentPage: page,
+      currentPage: defaultPageNumber,
       totalPages: numberOfPages,
     },
   };
