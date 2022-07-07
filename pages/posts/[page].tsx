@@ -18,7 +18,7 @@ export default function Posts({ posts, totalPages }: Props) {
     <>
       <Meta
         title="Latest"
-        description="All articles from The AI Reader are carefully crafter by GPT-3."
+        description="All articles from The AI Paper are carefully crafted by GPT-3"
       />
       {posts.map((post, i: number) => {
         return (
