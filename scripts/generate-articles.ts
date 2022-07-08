@@ -49,9 +49,9 @@ async function main() {
     const basename = slugify(title, { strict: true, lower: true });
     // existing content
     const originalSource = readArticleFile(basename + ".md", "utf8");
-    const { metadata } = parseMD(
+    const { metadata, content } = parseMD(
       typeof originalSource !== "string" ? "" : originalSource
-    ) as { metadata: MDXPost };
+    ) as { metadata: MDXPost; content: string };
     // new content
     const { response } = await ai
       .createCompletion(`Generate 1000 words article body titled "${title}"`)
@@ -60,17 +60,25 @@ async function main() {
         response,
       }));
 
-    if (metadata?.title && metadata?.createdAt) {
-      post.title = metadata?.title;
-      post.createdAt = metadata?.createdAt;
+    if (content.trim() === response?.choices?.[0]?.text?.trim()) {
+      post.title = metadata.title;
+      post.createdAt = metadata.createdAt;
+      post.updatedAt = metadata.updatedAt;
+      post.category = metadata.category;
+      post.content = content;
     } else {
-      post.title = title;
-      post.createdAt = new Date();
-    }
+      if (metadata?.title && metadata?.createdAt) {
+        post.title = metadata?.title;
+        post.createdAt = metadata?.createdAt;
+      } else {
+        post.title = title;
+        post.createdAt = new Date();
+      }
 
-    post.updatedAt = new Date();
-    post.content = response?.choices?.[0].text;
-    post.category = category;
+      post.updatedAt = new Date();
+      post.category = category;
+      post.content = response?.choices?.[0].text;
+    }
 
     const formattedPost = formatMarkdown(post as MDXPost);
     const filePath = path.join(postsDir, `${basename}.md`);
