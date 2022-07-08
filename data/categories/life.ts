@@ -1,0 +1,18 @@
+export const life = [
+  "How the pandemic is changing the way we work",
+  "How to stay organized and sane as a busy mom",
+  "5 ways to save money as a college student",
+  "How to get out of a style rut",
+  "10 easy ways to make your home more energy efficient",
+  "The ultimate guide to spring cleaning your home",
+  "How to start living a more eco-friendly lifestyle",
+  "5 ways to reduce stress during the holiday season",
+  "10 easy tips for sticking to your New Year's resolutions",
+  "How to make your resolution to get fit a reality",
+  "5 tips for eating healthy on a budget",
+  "How to get through a break-up",
+  "How to make time for your hobbies",
+  "5 ways to cut down on screen time",
+  "5 ways to make your mornings easier",
+  "How to beat the winter blues",
+];
