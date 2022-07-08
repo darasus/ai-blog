@@ -65,12 +65,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const page = Number(params?.page as string) || 1;
   const length = posts.length;
   const numberOfPages = Math.floor(length / 10);
+  const startingIndex = page === 1 ? 0 : page - 1;
 
   const preparedPosts = posts
     .map((post) => ({ ...post, date: new Date(post?.createdAt as string) }))
     .sort((a, b) => b.date.getTime() - a.date.getTime())
     .map(({ date, ...post }) => ({ ...post }))
-    .slice(page, page + 10);
+    .slice(startingIndex * 10, startingIndex * 10 + 10);
 
   return {
     props: {
