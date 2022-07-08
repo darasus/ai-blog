@@ -1,7 +1,7 @@
+import capitalize from "capitalize";
 import { MDXRemote } from "next-mdx-remote";
 import React from "react";
 import { TPost } from "../../types/Post";
-import { capitalize } from "../../utils/capitalize";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
@@ -14,7 +14,7 @@ export const Post: React.FC<Props> = ({ post }) => {
 
   return (
     <article>
-      <PostMeta items={[createdAt, capitalize(category)]} />
+      <PostMeta items={[createdAt, capitalize.words(category)]} />
       <PostTitle>{title}</PostTitle>
       <MDXRemote {...content} />
     </article>

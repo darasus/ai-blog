@@ -1,5 +1,4 @@
 import React from "react";
-import { capitalize } from "../../utils/capitalize";
 
 interface Props {
   items: string[];

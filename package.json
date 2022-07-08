@@ -10,6 +10,7 @@
     "generate-articles": "esno ./scripts/generate-articles.ts"
   },
   "dependencies": {
+    "capitalize": "^2.0.4",
     "clsx": "^1.2.1",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
@@ -28,6 +29,7 @@
     "yaml": "^2.1.1"
   },
   "devDependencies": {
+    "@types/capitalize": "^2.0.0",
     "@types/node": "18.0.0",
     "@types/ramda": "^0.28.14",
     "@types/react": "18.0.14",

@@ -1,10 +1,9 @@
+import capitalize from "capitalize";
 import Link from "next/link";
-import { LinkButton } from "../../components/LinkButton";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
 import { TPost } from "../../types/Post";
-import { capitalize } from "../../utils/capitalize";
 import { getPost } from "../../utils/getPost";
 import { postFilePaths } from "../../utils/mdxUtils";
 
@@ -24,7 +23,7 @@ export default function Home({ post, posts }: Props) {
       </div>
       <div>
         <div className="border-y border-gray-200 p-4 uppercase font-bold text-lg text-gray-500">
-          {`Other in ${capitalize(category)}`}
+          {`Other in ${capitalize.words(category)}`}
         </div>
         {posts.map((post, i: number) => (
           <Link href={`/p/${post.slug}`} key={i}>
