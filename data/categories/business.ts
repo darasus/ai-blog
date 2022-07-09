@@ -26,7 +26,7 @@ export const business = [
   "How to Start a Business on a Shoestring Budget",
   "10 Must-Know Tips for First-Time Entrepreneurs",
   "How to Turn Your Idea Into a Successful Business",
-  "The Dos and Don’ts of Starting Your Own Business",
+  "The Dos and Don'ts of Starting Your Own Business",
   "Top 10 Reasons Why Startups Fail",
   "How to Avoid the Top 5 Pitfalls of New Businesses",
   "The 5 Essential Steps to Starting a Successful Business",

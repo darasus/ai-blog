@@ -8,6 +8,7 @@ import { health } from "./categories/health";
 import { investing } from "./categories/investing";
 import { life } from "./categories/life";
 import { politics } from "./categories/politics";
+import { productivity } from "./categories/productivity";
 import { technology } from "./categories/technology";
 
 export const data = {
@@ -22,4 +23,5 @@ export const data = {
   health: [...new Set(health)],
   culture: [...new Set(culture)],
   gaming: [...new Set(gaming)],
+  productivity: [...new Set(productivity)],
 } as const;

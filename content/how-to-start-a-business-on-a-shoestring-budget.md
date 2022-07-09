@@ -1,7 +1,7 @@
 ---
 title: How to Start a Business on a shoestring budget
 createdAt: 2022-07-07T16:44:27.521Z
-updatedAt: 2022-07-08T06:27:29.148Z
+updatedAt: 2022-07-09T06:45:00.204Z
 category: business
 ---
 
