@@ -12,6 +12,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   useEffect(() => {
     Fathom.load("UYYOEIHH", {
       includedDomains: ["www.theaipaper.com"],
+      url: "https://events.theaipaper.com/script.js",
     });
 
     function onRouteChangeComplete() {
