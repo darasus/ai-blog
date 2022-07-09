@@ -48,11 +48,13 @@ export const getStaticProps = async ({ params }: any) => {
   }
 
   const preparedPosts = posts
+    .map((post) => ({ ...post, sort: Math.random() }))
+    .sort((a, b) => a.sort - b.sort)
     .filter((p) => p?.slug !== post?.slug)
     .filter((p) => p?.category === post?.category)
     .map((post) => ({ ...post, date: new Date(post?.createdAt as string) }))
     .sort((a, b) => b.date.getTime() - a.date.getTime())
-    .map(({ date, ...post }) => ({ ...post }))
+    .map(({ date, sort, ...post }) => ({ ...post }))
     .slice(0, 10);
 
   return {
