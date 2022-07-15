@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-articles": "esno ./scripts/generate-articles.ts"
+    "generate-articles": "esno ./scripts/generate-articles.ts",
+    "generate-articles-v2": "esno ./scripts/generate-articles-v2.ts"
   },
   "dependencies": {
     "capitalize": "^2.0.4",
