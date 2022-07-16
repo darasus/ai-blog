@@ -11,6 +11,8 @@
     "generate-articles-v2": "esno ./scripts/generate-articles-v2.ts"
   },
   "dependencies": {
+    "api": "^4.5.1",
+    "axios": "^0.27.2",
     "capitalize": "^2.0.4",
     "clsx": "^1.2.1",
     "colors": "^1.4.0",

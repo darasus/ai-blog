@@ -3,38 +3,19 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 import ora from "ora";
-import { data } from "../data/data";
 import { AI } from "../lib/ai";
-import yaml from "yaml";
 import slugify from "slugify";
 import path from "node:path";
 import fs from "node:fs";
 import { MDXPost } from "../types/Post";
 import parseMD from "parse-md";
 import { readArticleFile } from "../utils/readFileSync";
-import { keys } from "ramda";
+import { getArticleData } from "./shared/getArticleData";
+import { formatMarkdown } from "./shared/formatMarkdown";
 
 const spinner = ora("Start generating articles...");
 
 const postsDir = path.join(__dirname, "../content");
-
-interface Input {
-  title: string;
-  category: string;
-}
-
-function getArticleData() {
-  return keys(data).reduce<Input[]>((prev, next) => {
-    const articles = data[next];
-    const newData = articles.map((title) => ({ title, category: next }));
-    return [...prev, ...newData];
-  }, []);
-}
-
-function formatMarkdown(post: MDXPost) {
-  const { content, ...rest } = post;
-  return `---\n${yaml.stringify(rest)}---\n\n${content.trim()}\n`;
-}
 
 async function main() {
   spinner.start();

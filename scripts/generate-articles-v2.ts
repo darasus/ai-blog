@@ -1,59 +1,71 @@
-const sdk = require("api")("@writesonic/v1.0#2s3px1bl460pumy");
+import * as dotenv from "dotenv";
 
-const title = "3 recipes for homemade bread that's better than store-bought";
+dotenv.config();
 
-const generateIntro = async ({ title }: { title: string }) => {
-  return sdk["blog_intros_v1_business_content_blog_intros_post"](
-    { blog_title: title },
-    {
-      end_user_id: "fsfsefsef",
-      engine: "business",
-      language: "en",
+import ora from "ora";
+import slugify from "slugify";
+import path from "node:path";
+import fs, { WriteStream } from "node:fs";
+import { MDXPost } from "../types/Post";
+import parseMD from "parse-md";
+import { readArticleFile } from "../utils/readFileSync";
+import { getArticleData } from "./shared/getArticleData";
+import { formatMarkdown } from "./shared/formatMarkdown";
+import { Writesonic } from "../lib/writesonic";
+
+const spinner = ora("Start generating articles...");
+
+const postsDir = path.join(__dirname, "../content");
+
+async function main() {
+  spinner.start();
+  const ai = new Writesonic();
+  const titlesAndCategories = getArticleData();
+
+  for (const [i, { title, category }] of titlesAndCategories.entries()) {
+    spinner.text = `Generating article (${i + 1} of ${
+      titlesAndCategories.length
+    }): ${title}`;
+    let post: Partial<MDXPost> = {};
+    const basename = slugify(title, { strict: true, lower: true });
+    // existing content
+    const originalSource = readArticleFile(basename + ".md", "utf8");
+    const { metadata, content } = parseMD(
+      typeof originalSource !== "string" ? "" : originalSource
+    ) as { metadata: MDXPost; content: string };
+    // new content
+    const response = await ai.generateArticle({
+      title: `Generate 1000 words article body titled "${title}"`,
+    });
+
+    if (content.trim() === response.content.trim()) {
+      post.title = metadata.title;
+      post.createdAt = metadata.createdAt;
+      post.updatedAt = metadata.updatedAt;
+      post.category = metadata.category;
+      post.content = content;
+    } else {
+      if (metadata?.title && metadata?.createdAt) {
+        post.title = metadata?.title;
+        post.createdAt = metadata?.createdAt;
+      } else {
+        post.title = title;
+        post.createdAt = new Date();
+      }
+
+      post.updatedAt = new Date();
+      post.category = category;
+      post.content = response?.content;
     }
-  ).catch((err: any) => console.error(err));
-};
 
-const generateOutlines = ({
-  title,
-  intro,
-}: {
-  title: string;
-  intro: string;
-}) => {
-  return sdk["blog_outlines_v1_business_content_blog_outlines_post"]({
-    blog_title: "title",
-    blog_intro: "ssfsefef",
-  }).catch((err: any) => console.error(err));
-};
+    const formattedPost = formatMarkdown(post as MDXPost);
+    const filePath = path.join(postsDir, `${basename}.md`);
+    fs.writeFileSync(filePath, formattedPost);
+  }
 
-const generateArticle = async ({
-  title,
-  intro,
-  sections,
-}: {
-  title: string;
-  intro: string;
-  sections: string[];
-}) => {
-  return sdk[
-    "ai_article_writer_v3_v1_business_content_ai_article_writer_v3_post"
-  ]({
-    article_sections: sections,
-    article_title: title,
-    article_intro: intro,
-  }).catch((err: any) => console.error(err));
-};
-
-const main = async () => {
-  const intro = await generateIntro({ title });
-
-  console.log(JSON.stringify(intro));
-
-  //   const outlines = await generateOutlines({ title, intro });
-  //   const article = await generateArticle({ title, intro, sections: outlines });
-  //   console.log(article);
-};
-
-export {};
+  spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
+  spinner.stopAndPersist();
+  process.exit(0);
+}
 
 main();
