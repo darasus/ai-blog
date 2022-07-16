@@ -7,6 +7,9 @@
   h2 {
     @apply text-2xl font-bold md:text-4xl text-gray-800;
   }
+  .post h2 {
+    @apply text-xl md:text-2xl my-4;
+  }
   h3 {
     @apply text-lg font-bold text-gray-800;
   }

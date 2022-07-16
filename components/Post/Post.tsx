@@ -13,7 +13,7 @@ export const Post: React.FC<Props> = ({ post }) => {
   const { createdAt, title, category, content } = post;
 
   return (
-    <article>
+    <article className="post">
       <PostMeta items={[createdAt, capitalize.words(category)]} />
       <PostTitle>{title}</PostTitle>
       <MDXRemote {...content} />
