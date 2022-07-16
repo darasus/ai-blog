@@ -1,19 +1,40 @@
 ---
 title: How to make time for yourself when you have a busy schedule
 createdAt: 2022-07-07T06:05:40.936Z
-updatedAt: 2022-07-07T17:00:50.538Z
+updatedAt: 2022-07-16T16:10:53.548Z
 category: health
 ---
 
-Assuming you would like tips on how to make time for yourself when you have a busy schedule: 
+## Plan Ahead
 
-1. Get up earlier: If you find yourself struggling to find time for yourself during the day, try getting up earlier. This will give you some extra time in the morning to do things that you enjoy or that are important to you. 
-2. Set aside some time each day: Dedicate at least 30 minutes each day to doing something that is just for you. This can be something as simple as reading, taking a walk, or taking a yoga class. 
-3. Make weekends count: Weekends are often the only time we have to ourselves, so make sure to use this time wisely. Dedicate at least one day of the weekend to doing something that you enjoy or that is important to you. 
-4. Don’t be afraid to say no: We often find ourselves stretched too thin because we say yes to too many things. Learn to say no to things that you don’t really want to do or that don’t fit into your schedule. 
-5. Delegate and ask for help: If you find yourself with too much on your plate, delegate some of your responsibilities to others. And don’t be afraid to ask for help when you need it. 
-6. Simplify your life: One of the best ways to make time for yourself is to simplify your life. This means getting rid of anything that is unnecessary or that is taking up too much of your time. 
-7. Make time for your hobbies: Hobbies are a great way to relax and de-stress. Make sure to schedule some time each week to do something that you enjoy. 
-8. Get organized: A big part of making time for yourself is being organized. This means having a plan and knowing what you need to do and when you need to do it. 
-9. Take a break: When you are feeling overwhelmed, take a break. This can be a few minutes or a few hours, depending on what you need. Step away from your work and take some time for yourself. 
-10. Prioritize your health: Your health should always be a priority. Make sure to schedule some time each day or week for exercise, healthy eating, and relaxation.
+First and foremost, you need to plan ahead when it comes to creating some time for yourself. You can’t expect to suddenly be able to make time for yourself when you feel like you have no time at all.
+For starters, you can actually look at your calendar (or the calendar of your work) and see when you have some free time. When you have a clear idea of when you have some time for yourself coming up, it will be easier for you to plan out your activities and make time for yourself.
+For instance, you might know that you don’t have any evening commitments for the next couple of weeks. If you have evening cravings for some time for yourself but don’t know what to do with that time, now you know that you can use those evenings to do something for yourself.
+
+## Commit To Morning And Evening Rituals
+
+Some people like to start their day with a cup of coffee. Others like to have a cup of tea before they go to bed. What about you? What rituals do you like to indulge in when you are being productive and/or when you are winding down? You should definitely make time for those rituals throughout your day.
+For instance, if you like to read a book before you go to sleep but often find yourself delaying it due to a busy schedule, you can make time for that ritual by using an audiobook. You can also make time for it by scheduling it in your calendar so that you won’t have an excuse to put it off anymore.
+For those who like to start their day with meditation or journaling, you should also make time for those rituals by scheduling them in your calendar. This way, you won’t be tempted to push them off because you are feeling extra busy. You will be able to see them right there, staring at you on your calendar and making you feel guilty for not making time for them. You won’t be able to get away with skipping them.
+
+## Network With Friends
+
+If you’re someone who likes to go out and enjoy the company of friends on a regular basis, you should also make time for networking with friends. This doesn’t mean that you should break off all your obligations and have no work to do. However, you can make time for spending time with friends by scheduling in your social activities.
+Make sure that you choose friends who are positive and uplifting. You don’t want friends who will just drag you down and make you feel bad about yourself. You want friends who will inspire you and make you laugh.
+For instance, you can make time for social activities by making a social calendar. You can also use an app like Busy to make sure that you are networking with friends.
+
+## Schedule In Your Me Time Activities
+
+If there are activities that are important to you but you usually end up postponing them (e.g. reading, writing, or exercising), you need to make time for those activities. You don’t want to keep postponing them because your work schedule is too hectic or you are too busy socializing with friends. You need to make time for them.
+You can actually make a list of all the things you wish to do but don’t have time for. By making a list of all the activities you want to do but don’t have time for, you will make it a lot easier for you to make time for them.
+You can also make time for your hobbies by scheduling them in your calendar. If you have a creative hobby, you can actually use that to help make money. For example, if you have a blog that you regularly update, you can use it to monetize your hobby by placing ads on it.
+
+## Take Care Of Your Physical Health
+
+You can make time for your social and emotional needs but if you aren’t taking care of your physical needs, you will eventually feel burnt out. You need to make time for your physical well-being by exercising regularly.
+You don’t want to wait till you are feeling burnt out before you make time for your physical health. You want to make time for it regularly.
+If you find it difficult to make time for exercising regularly, you can start by making it a daily habit. You can try setting a daily reminder on your phone or you can also try downloading an app like Habit that will help you with that.
+
+## Conclusion
+
+The truth is, there will always be moments in life when you feel like you don’t have enough time. You may be a selfless person who places the needs of others before your own but sometimes, you may feel like you don’t have enough time for yourself. No matter how busy your schedule is, it is important to make time for yourself.

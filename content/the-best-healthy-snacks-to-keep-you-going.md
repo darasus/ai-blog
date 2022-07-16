@@ -1,20 +1,52 @@
 ---
 title: The best healthy snacks to keep you going
 createdAt: 2022-07-07T06:05:41.587Z
-updatedAt: 2022-07-07T17:00:51.217Z
+updatedAt: 2022-07-16T16:18:25.100Z
 category: health
 ---
 
-When it comes to snacks, there are a lot of options out there. But not all snacks are created equal. Some are unhealthy and full of sugar, while others are packed with nutrients that can help you stay energized and focused throughout the day. So, if you're looking for healthy snacks that will keep you going, here are some of the best options.
+## KIND Bars
 
-1. Nuts and seeds: Nuts and seeds are a great source of protein, healthy fats, and fiber. They're also relatively low in calories, making them an ideal snack for people who are trying to lose weight.
+A great option for those who love to snack but don’t have a lot of time to prepare their food, KIND bars are made with whole grains, nuts, fruits, and spices. Plus, they’re gluten-free, dairy-free, and non-GMO. A lot of their bars have high levels of protein which will help to keep blood sugar levels even while boosting energy levels.
 
-2. Fresh fruits and vegetables: Fruits and vegetables are packed with vitamins, minerals, and antioxidants. They're also a great source of fiber, which can help keep you feeling full and satisfied.
+Some of the best KIND bars to keep you going throughout the day include the Dark Chocolate Nuts & Sea Salt, the Blueberry Vanilla Wholesome bars, and the Dark Cocoa bars. Dark cocoa is great for boosting mood and energy, blueberry is good for improving focus, and nuts and sea salt have nutrients that help to boost energy.
 
-3. Whole grain crackers: Whole grain crackers are a healthier alternative to traditional crackers. They're made with whole grains, which are packed with nutrients.
+## Bananas
 
-4. Greek yogurt: Greek yogurt is a great source of protein and calcium. It's also low in calories and fat, making it a healthy snack option.
+A great source of potassium, bananas are a great healthy snack to keep you going. They’re also inexpensive, flavorful, and one of the easiest snacks to pack and carry with you.
 
-5. Dark chocolate: Dark chocolate is a good source of antioxidants and has been shown to have some health benefits. However, it's important to choose dark chocolate that is at least 70% cocoa to get the most benefit.
+They can be eaten plain, on the go, or you can even add peanut butter or other toppings for a different flavor. They’re also a great source of fiber, which can help to keep you full until your next meal.
 
-These are just a few of the many healthy snacks that you can choose from. By incorporating these snacks into your diet, you'll be able to stay energized and focused throughout the day.
+Bananas are also great for the brain and help to improve focus, making them a great snack to keep you going throughout the afternoon.
+
+## Greek yogurt
+
+This is another great option for snacking on the go. Greek yogurt is high in protein and calcium, making it a great option for boosting energy levels, and it’s also good for the bones.
+
+You can buy flavored varieties, or add fresh fruit pieces to make it a little more interesting. Other great additions include nuts and seeds, granola, or even a small amount of honey.
+
+It’s also a good idea to add some protein to your snack if you’re going to be sitting at a desk for a long period of time. This will help keep blood sugar levels more consistent and will prevent you from feeling tired and needing a nap in the middle of the afternoon.
+
+## Beans and legumes
+
+Beans and legumes are one of the best sources of fiber that you can eat, and they’re also high in protein. They’re perfect for those who are looking for a filling and healthy snack that will keep them going for hours.
+
+You can buy them in cans, or you can even buy bags of dried beans and cook them yourself. And if you’re short on time, you can easily find them prepared in cans or as canned soups that are quick and simple to heat and eat.
+
+They’re also high in iron and are a great snack for women. Plus, they’re easy to pop in your bag and take with you, so you can eat them on the go.
+
+## Nuts and seeds
+
+Nuts and seeds are another great option for those who are looking for a high-protein snack. You can find them in bulk at many grocery stores and health food stores, so you can buy exactly what you need and not have to worry about wasting money on the remaining nuts and seeds that you don’t eat.
+
+They can be eaten plain, or you can add different spices for a bit of flavor. Nuts and seeds are high in fiber, which is great for digestion, and they’re also high in minerals and vitamins.
+
+They’re great for blood flow and help to prevent blood clots, so they’re also a good option for those who have to sit at a desk all day. Plus, they’re easy to pack in a bag and take with you wherever you go, making them a great snack to keep you going throughout the day.
+
+## Dark chocolate
+
+Who would have thought that dark chocolate could be good for you? Yes, it’s true, but you have to choose the right kind. You want to find a chocolate that is at least 70% cocoa, which means that it’s not going to be as sweet and will be a lot healthier for you.
+
+Dark chocolate is great for the brain and helps to improve focus, making it a perfect snack for students. It’s also high in antioxidants and has been linked to many health benefits, such as a lower risk of heart disease, improved blood flow, and even better sleep.
+
+It’s important to keep in mind that even though chocolate is healthy, it’s still a treat and can cause weight gain if you eat too much of it, so don’t overindulge.

@@ -1,26 +1,51 @@
 ---
 title: 10 ways to get moving when you don't feel like it
 createdAt: 2022-07-07T06:05:40.981Z
-updatedAt: 2022-07-07T17:00:50.584Z
+updatedAt: 2022-07-16T16:11:08.814Z
 category: health
 ---
 
-1. Just get started. Sometimes the hardest part is just getting started. Once you get your body moving, you'll often find that you have more energy and motivation to keep going.
+## Go With The Flow
 
-2. Find an activity that you enjoy. If you don't enjoy the activity you're doing, you're much less likely to stick with it. Find an activity that you look forward to, whether it's going for a walk in nature, playing with your dog at the park, or taking a dance class.
+If you’re not feeling the workout on any given day, try to go with the flow. Don’t force yourself to do something that you’re not enjoying or that you’re not good at just because you feel like you should. If you’re trying and failing to do complicated moves that you’re not good at, you’ll likely end up getting frustrated and end up stopping your workout altogether.
+You don’t need to push yourself too hard on a given day. If you’re not feeling the workout, try a few of these tips to get yourself going again.
 
-3. Set some goals. Having specific goals to work towards can help give you the motivation you need to keep moving. Whether you're training for a race or trying to lose weight, setting goals will help you stay on track.
+## Reward Yourself
 
-4. Make it a habit. The more you do something, the easier it becomes. Try to make physical activity a part of your daily routine so that it becomes second nature.
+When you do something you don’t like, such as going to the gym, it can be helpful to give yourself a reward afterward. This can be anything from a special snack, to a bubble bath, or even just a few minutes of alone time. Whatever you reward yourself with, you should only do it after completing the task, so that it is associated with that.
+If you’re someone who is trying to lose weight, you might not want to reward yourself with a treat like ice cream or a donut. Try to go for something a bit healthier, like a smoothie or a piece of fruit.
 
-5. Find a workout buddy. Having someone to workout with can make the experience more enjoyable and help keep you accountable.
+## Find A Friend Or Join A Group
 
-6. Join a group or class. There's strength in numbers! Joining a group or class can make working out more fun and motivating.
+If you’re not enjoying your workout, try finding a friend to work out with you. Working out with a friend can be a great way to help you get motivated, stay focused, and push yourself further than you would on your own.
+Find someone who is at a similar fitness level to work out with you. You don’t want to work out with someone who is way more fit than you, because you might not be able to keep up, and you won’t get anything out of it. However, you also don’t want to work out with someone who isn’t at a similar fitness level as you. This can be discouraging, and you might end up holding each other back.
 
-7. Take it outside. Getting some fresh air can do wonders for your energy levels and motivation. If possible, try to take your workouts outdoors.
+## Utilize Apps And Trackers
 
-8. Make it fun. If working out is a chore, you're much less likely to stick with it. Find ways to make it fun, whether that means listening to music, watching your favorite TV show, or playing a game on your phone.
+If you don’t enjoy going to the gym and prefer to workout at home, try using an app or a fitness tracker to keep you on track. Apps such as My Fitness Pal, Fitbit, and Apple Health can help you track your progress and set new goals for yourself each day. Fitness trackers such as Fitbit are great for keeping track of your progress, as well as setting new goals and keeping you on track. Working out can be monotonous, so having something to keep you entertained and focused on can help you stay on task.
 
-9. Reward yourself. Give yourself something to look forward to after a workout. Whether it's a healthy snack, a new workout outfit, or some quality time with your favorite people, find something that will motivate you to keep moving.
+If you are not working out at home, but prefer to go to the gym, try getting to the gym earlier in the day. This will help you avoid crowds and long lines, as well as having the gym all to yourself to work out.
 
-10. Remember why you're doing it. It's important to keep in mind why you're working out in the first place. Whether it's for your health, your happiness, or something else entirely, remind yourself of your goal and let it keep you going when you don't feel like it.
+## Hit The Shower
+
+If you aren’t feeling motivated to workout at all, try getting into the shower earlier in the day. Exercising in the shower can be a great way to get your blood flowing, warm up your muscles, and get your heart rate up without even realizing it. If you do want to try exercising in the shower, make sure you don’t get the water too hot, and make sure you dry off before heading back into your room.
+
+You can try doing some basic exercises, including lunges and squats, as well as shoulder presses, chest presses, and crunches. You can even try doing some yoga poses in the shower.
+
+## Take A Break And Shake It Off
+
+Sometimes, you just have to shake things off, even if you’re feeling super discouraged. It’s not uncommon to get frustrated during a workout. If something doesn’t go as planned, or you don’t feel like you’re making progress, it’s okay to feel a bit defeated.
+When you feel defeated, it can be helpful to take a short break from your workout and shake it off. Walk around the gym, or take a quick break outside. Doing some deep breathing exercises or positive affirmations can be helpful. You can try saying things such as, “I am strong,” or “I can do this,” to help you get back on track when you feel discouraged.
+
+## Don’t Be Hard On Yourself
+
+Exercising should be something you enjoy, not something that you dread, so try to not be so hard on yourself. If you’re not enjoying a certain class, or you’re just not finding the right workout for you, don’t feel bad about changing things up.
+If you’re not enjoying the workout you’re doing, it can be helpful to challenge yourself by pushing yourself a little harder. If you’re not pushing yourself hard enough, it can be easy to get bored and lose interest in your workout. Throwing in some harder moves or increasing the intensity of your workout can help prevent this.
+
+If you’re not enjoying a certain class, try a new one, or even a new instructor. Not only can this help you stay motivated, but it can also help you mix things up and prevent boredom from setting in.
+
+## Bottom line
+
+When you don’t feel like going to the gym or working out, it can be easy to make an excuse as to why you can’t. However, there are lots of ways to get yourself motivated and moving when you don’t feel like it, even just for 10 minutes. If you don’t enjoy going to the gym, find an alternative workout like yoga or hiking. There are lots of ways to get moving when you don’t feel like it, you just have to find what works best for you.
+
+The most important thing to remember is that when you don’t feel like moving, you have to make yourself do it. You’re only hurting yourself by not making time for a workout, so no matter how you feel, you have to make it happen.

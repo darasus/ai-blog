@@ -1,8 +1,40 @@
 ---
 title: How to cope with stress eating
 createdAt: 2022-07-07T06:05:41.654Z
-updatedAt: 2022-07-07T17:00:51.287Z
+updatedAt: 2022-07-16T16:18:57.988Z
 category: health
 ---
 
-When it comes to stress eating, there are a few things you can do to help cope with it. First, try to identify the triggers that lead to your stress eating. Once you know what triggers your stress eating, you can then work on avoiding or removing those triggers from your life. Secondly, make sure you're getting enough sleep and exercise. Both of these help to reduce stress levels and can make it easier to resist the urge to stress eat. Lastly, try to find other ways to cope with stress that don't involve food. This could include things like talking to a friend, listening to music, or taking a relaxing bath. If you find yourself struggling to cope with stress in a healthy way, it may be worth talking to a doctor or therapist who can help you develop a more effective plan.
+## Plan Your Meals
+
+If you regularly find yourself craving fattening or unhealthy foods when you’re stressed, try planning your meals ahead of time to reduce the urge to binge. Eating a healthy diet can help reduce stress levels in the first place, so it’s important to know what you’re putting into your body.
+What should you eat when you’re stressed? Experts recommend eating complex carbohydrates like rice, oatmeal, and whole grain bread, as well as protein-rich foods like eggs and beans. Fruits, vegetables, and dairy products are also great for reducing stress levels.
+While it’s important to eat healthy, try not to go overboard with strict diets that severely limit your food choices. Going overboard with strict diets can actually make you more susceptible to stress eating in the long run.
+
+## Exercise
+
+Exercising when you’re stressed can help burn off excess energy and endorphins, making you feel less stressed and more relaxed. Exercise can also help you sleep better at night, which is especially important if you tend to stress eat in the evening.
+If you’re not sure what type of exercise to do, consider trying a relaxing or mindfulness-based exercise. A few examples include yoga, tai chi, or meditation. You can also try walking or another activity that involves being outside in nature.
+Exercising regularly can help you build healthy habits that reduce the risk of stress eating in the first place. Depending on your schedule, it may be a good idea to schedule a workout when you know you’re likely to be stressed out.
+
+## Try Breathing Exercises
+
+Breathing exercises are a great way to calm down when you’re stressed, and certain exercises can even help you fall asleep faster. If you tend to stress eat in the evening when you’re tired and ready for bed, try incorporating breathing exercises into your bedtime routine.
+Try breathing exercises that focus on your diaphragm, such as breathing from your gut. Breathe in slowly and deeply, and then slowly release the air from your lungs. Find what works for you, and do these exercises whenever you feel yourself getting stressed out.
+
+## Talk To A Trusted Friend Or Family Member
+
+If you feel like you’re struggling with stress eating, consider reaching out to a friend or family member. Talking to someone you trust can help you reduce stress and find ways to cope with your emotions.
+It can also help you recognize that you’re not alone in your struggles and struggles with stress eating. If you’re not sure who to talk to, consider talking to a therapist.
+
+## Develop Healthy Habits
+
+Another way to reduce stress eating is to develop healthy habits, such as regular exercise and sleep, at least seven hours of sleep each night. You can also incorporate stress-reducing activities into your daily routine. For example, you can listen to stress-reducing music, read a book, or spend time outside.
+
+However, if you struggle with stress eating, you’re better off avoiding activities that can trigger stress eating in the first place. This could mean avoiding social gatherings or certain TV shows.
+
+## Conclusion
+
+Stress is incredibly common, and it’s important to be aware of the signs and symptoms of stress. If you’re stressed out, it can be tempting to turn to food for comfort.
+While it’s okay to turn to food sometimes, it’s important to avoid stress eating as much as possible. Eating healthy foods can reduce your stress levels in the first place, as well as help you feel more relaxed once your blood sugar levels have been replenished.
+Stress eating is normal, and it’s okay to do it once in a while. However, you don’t want to make it a habit because it can be damaging to your health and figure. By following these strategies, you can avoid stress eating and live a healthier lifestyle.

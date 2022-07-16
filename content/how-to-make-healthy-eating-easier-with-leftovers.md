@@ -1,22 +1,40 @@
 ---
 title: How to make healthy eating easier with leftovers
 createdAt: 2022-07-07T06:05:41.789Z
-updatedAt: 2022-07-07T17:00:51.430Z
+updatedAt: 2022-07-16T16:19:57.205Z
 category: health
 ---
 
-If you're like most people, you probably have trouble eating healthy on a regular basis. You're always on the go and don't have time to cook or you just don't know how to cook healthy meals. The good news is that you can make healthy eating easier with leftovers.
+## Why should you care about leftovers?
 
-Here are some tips for making healthy eating easier with leftovers:
+If you’re anything like us, you’ve grown up hearing your parents’ voice in your head saying, “Waste not, want not.” This phrase is the key to making leftovers your go-to meal.
+Leftovers are one of the easiest ways to get more nutrients in your diet and make healthier eating easier. Even if you have a flawless diet plan, it’s almost impossible to hit all of your daily vitamins and minerals in one sitting.
+We’re not as efficient at absorbing nutrients when we’re full and bloated from a large meal. Eating your main meal and then having a small portion of leftovers for your next meal can help you get more nutrients in your diet without having to slave over a hot stove or a blender.
 
-1. Plan ahead. If you know you're going to have leftovers, plan to eat them for another meal. This way you won't be tempted to eat unhealthy junk food.
+## You’re probably eating too much processed food
 
-2. Make extra. When you're cooking, make extra so you have leftovers for another meal. This way you won't have to cook as often and you'll have healthy meals ready to go.
+Is your diet mainly comprised of boxed macaroni and cheese? This is a sign that you probably don’t have nearly enough leftovers in your life.
 
-3. Get creative. Don't be afraid to get creative with your leftovers. There are endless possibilities when it comes to recipes. Just because it's a leftover doesn't mean it has to be boring.
+We’re not saying that you should never eat boxed mac and cheese again. What we’re saying is that you should get more of your daily nutrients from unprocessed foods.
+We’re not saying that you should never eat boxed mac and cheese again. What we’re saying is that you should get more of your daily nutrients from unprocessed foods. The more processed foods you eat, the harder it will be to meet your daily nutrient requirements.
 
-4. Use leftovers as snacks. If you're looking for a healthy snack, try using leftovers as snacks. This is a great way to get in some extra nutrients and avoid unhealthy junk food.
+## You might not be getting all of the nutrients you need
 
-5. Freeze leftovers. If you have leftovers that you know you won't be able to eat right away, freeze them for later. This way you'll always have healthy meals on hand and you won't have to worry about them going bad.
+Another reason that you should be eating more leftovers is because it might not be as easy for you to get all of the nutrients that you need. If you have a chronic illness that makes it difficult for you to absorb nutrients from food, leftovers can be a lifesaver. If you have a condition that impacts your digestion, you might find that eating large meals gives you indigestion or makes you feel too full to eat again at a later time. This can make it seem nearly impossible to eat all of your recommended daily amounts.
+If you’re eating all of your meals at once and aren’t getting the nutrients your body needs, you’re going to end up feeling exhausted, weak and sick. Eating a meal that includes leftovers can help you get more nutrients while avoiding feeling too bloated or full to eat again at a later time.
 
-Making healthy eating easier with leftovers is a great way to make sure you're getting the nutrients your body needs. By following these tips, you can make healthy eating easier and more convenient.
+## Using your food storage will make cooking feel less overwhelming
+
+If you’re like most people struggling to eat healthier, you’re probably feeling pretty overwhelmed by what seems like an impossible number of vitamins and minerals that you have to get in each day. Even if you have a healthy meal plan, eating the same thing every day can get pretty boring.
+You can use your food storage to make your diet more exciting and varied. Choose one or two meals that you can easily store in your fridge or pantry, and then use them to make different meals throughout the week.
+Worried that you won’t get enough nutrients if you’re not eating the same thing every day? There’s an app for that! There are many different nutrition tracking apps that can help you stay on top of your daily vitamins and minerals.
+
+## How to actually use your food storage for leftovers
+
+If you’re like most people, you’ve got some food in your fridge that is getting close to its expiration date. Take advantage of this food to make easy meals with leftovers!
+For example, broccoli is excellent at absorbing flavours. If you’ve got a broccoli stalk that’s about to get thrown out, try making broccoli and cheese for a quick and easy dinner.
+If you have a baked chicken breast in your fridge and are craving something different, try using it to make a chicken salad. You can use your broccoli stalk, along with a few other unprocessed ingredients, to make a salad that’s quick and easy to eat.
+
+## Bottom line
+
+According to a study, eating leftovers is actually healthier than eating fresh food. There are several reasons why eating leftovers can make healthy eating easier. You’re probably eating too much processed food, you might not be getting all of the nutrients you need, or cooking can feel too overwhelming. You can take advantage of your food storage to make quick and easy leftovers meals to eat during the week.

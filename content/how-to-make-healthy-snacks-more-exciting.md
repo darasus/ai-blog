@@ -1,20 +1,42 @@
 ---
 title: How to make healthy snacks more exciting
 createdAt: 2022-07-07T06:05:41.877Z
-updatedAt: 2022-07-07T17:00:51.526Z
+updatedAt: 2022-07-16T16:20:41.441Z
 category: health
 ---
 
-When it comes to snacks, we all know that we should be eating more healthy options like fruits and vegetables. But let's face it, sometimes those can get a little boring. Here are some ways to make healthy snacks more exciting:
+## Don’t Shout, Don’t Shame, And Don’t Threaten
 
-1. Add some dips. Whether it's a healthy yogurt dip or a homemade hummus, adding a dip to your fruits and veggies can make them more fun to eat.
+No matter what you’re trying to accomplish as a parent, yelling, shaming, and threatening are always a bad idea. While you may want to help your child see the error of their ways and be more open to new choices, using any of those negative tactics will only drive them away.
+Children respond best to positive reinforcement and gentle guidance that comes from a place of trust. You want them to feel like they can be open with you and that you will listen to their concerns without judgment.
+There’s no easy fix for changing eating habits for the long run, but you can speed up the process by making healthy snacks more exciting for your child in ways that are both fun and approachable.
 
-2. Make them into shapes. Use a cookie cutter to cut your fruits and veggies into fun shapes. Kids especially will love this!
+## Be a Role Model
 
-3. Get creative with toppings. Add some healthy toppings to your snacks like nuts, seeds, or dried fruit.
+Kids are much more likely to try new foods if they can see their parents doing so first. This is the easiest way to make healthy snacks more exciting for your child. And the best part is that you don’t even have to try a new food you aren’t sure about. You can just eat the way you usually do. The only difference will be that you are eating the healthy snacks your child is trying.
+As you are doing this, you can talk to your child about why you eat the way you do, and let them know you are trying new things because you want to be healthy. Most kids will be very interested in why you eat the way you do and will probably have lots of questions. This is a great opportunity for you to be honest and open with them about why you eat the way you do. It will help them feel more comfortable trying new things themselves.
 
-4. Make them into bite-sized pieces. Cutting your snacks into smaller pieces can make them more manageable and easier to eat on the go.
+## Show Them By Making Healthy Snacks
 
-5. Pack them into a cute container. Putting your healthy snacks into a cute container or bag will make them more tempting to eat.
+If you’re trying to get your kid to try a new food and they aren’t having any of it, try making healthy snacks with the stuff they do like. If you’re trying to get them to eat more fruits and veggies, try making smoothies with bananas, blueberries, or strawberries. Or if they like yogurt, try making a fruit-based version with less sugar. You can add as many veggies as you’d like to these kinds of snacks without your child even knowing they are there. Your child might not like eating a raw carrot or green bean, but they might enjoy eating yogurt with blueberries and granola or a fruit-based smoothie.
+If your child likes chips, try making baked versions at home with healthier ingredients instead.
 
- following these tips, you'll be sure to make healthy snacks more exciting and enjoyable to eat!
+## Let Them Help In The Kitchen
+
+If you have kids old enough to safely use a knife, you can try letting them help out in the kitchen. This can be a great way to make healthy snacks more exciting for your child because kids often like to make things themselves. If they helped make the healthy snack, they might be more inclined to eat it. If you have a little one who can’t help out in the kitchen, you can still try changing things up by letting your other kids help you make the healthy snacks their siblings eat.
+If your kids are too young to help with making healthy snacks, you can still try letting them help you pick out what you want to buy. Let them pick a few options, and then let them help you choose which one you will buy.
+
+## Rotate The Healthy Snack Options
+
+To avoid getting in a rut where your child starts to expect the same healthy snacks over and over again, try rotating your healthy snack options every so often. You can also rotate the healthy snacks with the unhealthy ones so they don’t feel like they’re missing out or getting forced to eat something they don’t like. Making healthy snacks more exciting for your child by rotating their options means they can keep trying new things and not get bored of eating the same foods over and over again.
+
+## Help Them Explore New Foods
+
+Even if your child does like the healthy snacks you offer, there’s a good chance they haven’t tried enough of them to meet their daily nutritional needs. This is often the case with kids who are picky eaters. They like certain foods, but they don’t like other foods, which means they aren’t getting enough of the nutrients they need to be healthy.
+You can help your child explore new foods by letting them choose one new thing each week to add to their diet. This can be any kind of food they want, even if it isn’t healthy. This way they can explore the full range of foods they can eat without being too restrictive.
+
+## Conclusion
+
+Healthy eating is a skill that doesn’t come naturally to most of us. We have to learn as kids, and we have to keep learning as adults. Along the way, there are lots of temptations that can get in the way of healthy eating, and there are lots of obstacles that can stand in the way of learning new habits.
+Even if your child enjoys healthy snacks now, they may not always feel that way. There will be times when the healthy snacks aren’t enough, and there will be times when your child just wants something different.
+If you follow these tips, you can make healthy snacks more exciting for your child and help them find a healthy balance in their diet that they can maintain for a lifetime.

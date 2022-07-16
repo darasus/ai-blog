@@ -1,24 +1,34 @@
 ---
 title: How to deal with anxiety
 createdAt: 2022-07-07T06:05:41.027Z
-updatedAt: 2022-07-07T17:00:50.630Z
+updatedAt: 2022-07-16T16:11:16.159Z
 category: health
 ---
 
-Anxiety is a normal emotion that we all experience at one point or another. It's a feeling of unease, worry or fear. We may feel anxious about an upcoming event, such as a job interview, or about something that is happening in our lives, such as financial problems.
+## What is Anxiety?
 
-There are different types of anxiety disorders, each with their own symptoms. Some of the most common include generalized anxiety disorder, social anxiety disorder, panic disorder and phobias.
+Anxiety is a feeling of worry, nervousness, and unease. These feelings can be short-term, triggered by a specific event, or long-term, existing on a regular basis. Anxiety is not a disease, but it can lead to other mental health issues, such as panic attacks, phobias, and OCD. Anxiety is commonly experienced by teenagers and young adults, but it can affect people of all ages. Anxiety can be triggered by many different things, including certain lifestyle choices, genetics, and environmental factors.
 
-Anxiety can be mild and short-lived, or it can be severe and long-lasting. It can also lead to physical symptoms, such as a racing heart, sweating and trembling.
+Some symptoms of anxiety include restlessness, fatigue, trouble sleeping, increased heartbeat, difficulty concentrating, and a feeling of dread. Anxiety can feel overwhelming and is often misdiagnosed as other conditions, such as panic disorder or depression. Anxiety disorders affect nearly 40 million adults in the United States. 
+## How To Deal With Anxiety
 
-If you're feeling anxious, there are a number of things you can do to help yourself feel better. Here are some tips:
+Everyone experiences anxiety from time to time, but when it starts to affect your daily life and you can’t function properly, it’s time to take action. If you’re experiencing anxiety on a regular basis, you can use the following tips to help manage it and improve your quality of life.
 
-• Identify your triggers: What situations or events make you feel anxious? If you can avoid them, do so. If you can't, try to prepare for them in advance.
+- Identify Your Triggers -
 
-• Challenge your thoughts: When you're feeling anxious, your thoughts can be negative and unrealistic. Challenge these thoughts by asking yourself if there is evidence to support them.
+Before you can start to deal with your anxiety, you need to identify the triggers. Is there anything that consistently sets it off? Keep a journal and write down your anxiety symptoms, what you were doing before experiencing them, and what your emotions were at the time. This can help you figure out what is triggering your anxiety, so you can start to find ways to avoid or deal with those situations.
+- Breathing Exercise -
 
-• Relax: There are a number of relaxation techniques you can try, such as deep breathing, progressive muscle relaxation or mindfulness meditation.
+One of the best ways to deal with anxiety is to learn how to manage your breathing. When we feel anxious, we tend to take quick, short breaths that put more pressure on our lungs, making us feel even more anxious. When we take slower, deeper breaths, it activates the relaxation response (the opposite of the stress response), helping us to manage our anxiety and remain calm. 
+- Exercise Has Many Benefits -
 
-• Exercise: Exercise can help to reduce stress and release endorphins, which can improve your mood.
+Exercising regularly has many benefits, but did you know that it can also help to reduce anxiety and improve your overall mental health? When we exercise, we release endorphins, hormones that make us feel happy. Regular exercise has also been shown to improve sleep and reduce stress levels, both of which can help to alleviate symptoms of anxiety.
 
-• Talk to someone: Talking to a friend, family member, therapist or counselor can help you to understand and manage your anxiety.
+Exercising regularly can also help you to build your self-esteem and confidence, which can help you to deal with anxiety better.
+
+- Learn How To Meditate -
+
+Meditation is another great way to help you manage your anxiety. When you’re stressed, your mind can be flooded with negative thoughts that make you feel worse, whereas when you’re feeling relaxed and calm, these thoughts subside. Meditation can help to clear your mind, stop these thoughts from flooding in, and give you a short period of time to relax.
+- Conclusion -
+
+When you’re experiencing anxiety, it can feel like there’s no light at the end of the tunnel. However, you can use the tips above to help you to manage your anxiety better and feel happier as a result. Anxiety can be a difficult journey, but it is possible to overcome it.

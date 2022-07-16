@@ -1,26 +1,60 @@
 ---
 title: 10 easy ways to cut sugar from your diet
 createdAt: 2022-07-07T06:05:41.203Z
-updatedAt: 2022-07-07T17:00:50.811Z
+updatedAt: 2022-07-16T16:12:44.772Z
 category: health
 ---
 
-1. Cut out sugary drinks. This includes soda, fruit juice, sweetened coffee and tea, and energy drinks.
+## Change what’s in your coffee
 
-2. Avoid processed foods. This includes breads, pastries, cakes, cookies, and candy.
+Coffee is a great source of antioxidants, and it can be a healthy beverage. But if you’re adding sugar or milk to your coffee, you’re basically negating the health benefits. Studies suggest that milk has a negative effect on blood pressure, which is bad for your heart. So if you’re drinking coffee, try to leave the milk out!
+There are also lots of different types of coffee with different flavors that don’t have any added sugar. So if you’re craving a specific flavor, like pumpkin spice or a mocha, look for one that doesn’t have any added sugar. If you like sweet coffee, consider mixing in some artificial sweeteners or sugar substitutes instead.
 
-3. Don’t add sugar to your food. This includes cereal, oatmeal, pancakes, and waffles.
+## Don’t go Hungry
 
-4. Use sugar substitutes. This includes honey, agave nectar, stevia, and xylitol.
+If you’re constantly feeling hungry, you might be eating too many sugary foods. Most people eat when they’re stressed, bored or tired, not necessarily because they’re hungry. So if you’re constantly eating just because, you might want to make a conscious effort to stop and ask yourself if you’re actually hungry.
+If you’re trying to cut back on sugar, try eating smaller meals throughout the day, instead of three big meals. Eating four or five small meals throughout the day will help keep your blood sugar levels steady, which can reduce cravings.
+Try incorporating protein into each meal to curb your sugar cravings.
 
-5. Eat more fruits and vegetables. This includes watermelon, grapefruit, strawberries, and carrots.
+## Eat the good stuff first
 
-6. Avoid high sugar fruits. This includes bananas, raisins, dates, and figs.
+This may sound silly, but it makes a huge difference. If you eat fruits and vegetables first, you’ll be less hungry for the sugary stuff. You can also try to eat more fiber, which can help curb your sugar cravings.
+If you’re constantly craving sugar, try adding some more fiber to your diet. Eat more fruits, vegetables and whole grains, and drink lots of water.
+If you’re constantly craving sugar, try adding some more fiber to your diet. Eat more fruits, vegetables, and whole grains, and drink lots of water. Water can help flush out your system and keep you feeling full.
 
-7. Limit dairy consumption. This includes milk, yogurt, and ice cream.
+## Learn to read labels
 
-8. Avoid sugary condiments. This includes ketchup, BBQ sauce, and salad dressing.
+If you’re trying to cut back on sugar, it’s important to read the labels on everything you eat. This will give you a good idea of what’s in your food, and where the sugar is coming from.
+If you’re buying processed foods, many times you won’t find the word “sugar” on the ingredients list. Look out for these sneaky names for sugar:
+Additives: high fructose corn syrup, corn syrup, dextrose, glucose, sucrose
+Natural Flavors: cane juice
 
-9. Read food labels. This will help you identify hidden sources of sugar in your diet.
+## Don’t be afraid of the dark (or green) places
 
-10. Seek professional help. This is especially important if you have trouble cutting sugar from your diet on your own.
+Dark and green leafy vegetables have very little sugar, if any at all. Try to eat more leafy greens like spinach and kale, as well as broccoli and cauliflower. You can also try eating more tomatoes, peppers, and eggplants. They’re great sources of lycopene, which has been shown to reduce the risk of heart disease.
+You can also try drinking lots of tea, especially green and black tea. Tea is a great source of antioxidants. Tomatoes and tea are two of the best sources of lycopene.
+
+## Be aware of hidden sugars
+
+If you’re trying to cut back on sugar, it’s important to be aware of hidden sugars. You’ll find sugar in places you wouldn’t expect, such as bread, crackers, meat, and even some beer!
+If you’re eating out, you can use the My Food Monster app to scan the menu and find out how much sugar is in the dishes. If you’re baking, try to use natural sweeteners like dates and honey instead of sugar.
+
+## Watch out for these words
+
+Sugar is often disguised as different words, so be on the lookout for these:
+
+- Adulterated: If an item is adulterated, it has been contaminated by something foreign to it, typically a chemical. This can include sugar that has been mixed with corn syrup or other non-sugar ingredients.
+
+- Natural: This doesn't necessarily mean that there's no sugar in the food. It just means that the food item has not been processed. Since sugar cane is a natural product, sugar can be described as natural.
+
+- Fresh: This word is often used to describe foods that are refrigerated, including dairy products and bread. Fresh bread and dairy products often contain sugar.
+
+- Reduced/Less: Food items that have less of something have been processed to remove that something. For example, reduced fat peanut butter contains less fat (and usually more sugar) than regular peanut butter.
+
+## Commit to a few days of no sugar
+
+This can be a great way to reset your cravings and make a conscious effort to avoid added sugars. When you’re craving something sweet, eat something nutritious like fruit or vegetables instead.
+
+After a few days, your cravings will be gone, and you’ll be able to make better decisions about what you should and shouldn’t be eating.
+
+If you’re having a difficult time cutting back on sugar, try one of these tips. There are lots of different ways to reduce your sugar intake without having to give up the things you love. A few small changes can make a big difference when it comes to how much sugar you’re consuming. With a few simple adjustments, you’ll be well on your way to a healthier lifestyle.

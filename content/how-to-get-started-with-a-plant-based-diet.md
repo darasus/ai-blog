@@ -1,20 +1,19 @@
 ---
 title: How to get started with a plant-based diet
 createdAt: 2022-07-07T06:05:41.293Z
-updatedAt: 2022-07-07T17:00:50.900Z
+updatedAt: 2022-07-16T16:13:09.960Z
 category: health
 ---
 
-If you're interested in trying a plant-based diet, there are a few things you should know before getting started. First, a plant-based diet is one that focuses on plants for food. This means eating mostly fruits, vegetables, grains, and legumes. It doesn't mean that you never eat meat or dairy, but these foods should be limited. Second, a plant-based diet is healthy for both your body and the environment. Studies have shown that plant-based diets can lower your risk of heart disease, obesity, and type 2 diabetes. They can also help reduce your carbon footprint.
+## What You Need To Know Before Going Plant-Based
 
-If you're ready to give a plant-based diet a try, here are a few tips to get you started:
+It’s important to note that going plant-based isn’t the same as eating a healthy plant-based diet. 
+Following a plant-based diet means choosing whole, unprocessed foods that are naturally rich in nutrients and fibre. It means eating real, whole foods like fruits and vegetables, whole grains, legumes, nuts, seeds and spices.
 
-1. Start slow. You don't have to go completely plant-based overnight. Start by adding more fruits and vegetables to your diet and gradually reduce your meat and dairy intake.
+However, many people who eat a 100% plant-based diet consume an unbalanced amount of carbohydrates and fibre while not getting enough protein and vitamins from plants. 
+That’s because it’s very easy to fall into the trap of eating mostly refined carbohydrates like bread and pasta, which aren’t the best sources of nutrients.
 
-2. Plan your meals. It's helpful to plan your meals ahead of time, especially if you're cooking for yourself. This way you can make sure you're getting enough nutrients and variety in your diet.
+## Where To Start?
 
-3. Find recipes you love. There are endless possibilities when it comes to plant-based recipes. Do some research and find some that look appealing to you.
-
-4. Stock your kitchen. Make sure you have plenty of healthy plant-based foods in your kitchen so you're not tempted to reach for unhealthy snacks.
-
-5. Get support. If you're feeling overwhelmed, reach out to friends or family who are also interested in plant-based eating. They can offer support and advice.
+You can begin by eliminating animal products from your diet one at a time. Alternatively, you can dive in headfirst by going “cold turkey” and cutting out all animal products at once.
+If you want to take it slow, start by replacing one product a week with a plant-based alternative. For example, you can start replacing your milk with non-dairy milks, your cheese with vegan cheese, and your eggs with tofu or nutritional yeast.

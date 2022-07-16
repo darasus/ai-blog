@@ -1,28 +1,54 @@
 ---
 title: 10 tips for keeping your hair healthy and strong
 createdAt: 2022-07-07T06:05:40.870Z
-updatedAt: 2022-07-07T17:00:50.470Z
+updatedAt: 2022-07-16T16:10:05.814Z
 category: health
 ---
 
-Assuming you would like tips for keeping hair healthy: 
+## Basically, don't over-wash
 
-1. Eat a healthy diet: Eating healthy foods helps your hair to be strong and look its best. Be sure to include plenty of fruits, vegetables, and whole grains in your diet.
+The first step towards better hair is to not be washing it too often. This may go against what you’ve been told in the past, but it’s true! Too much washing strips the hair of its natural oils (which are there to protect it). Over time, this can lead to breakages, frizziness, and general dryness. It’s recommended that you only wash your hair 2-3 times a week.
 
-2. Avoid over-styling: Over-styling can damage your hair and make it more likely to break. If you must style your hair, be sure to use gentle products and techniques.
+A couple of times a week, you can also rinse your hair with a mixture of water and apple cider vinegar. This is said to aid in strengthening your hair. Alternatively, rinse your hair with a mixture of fresh squeezed lemon juice and water every few weeks. This will not only prevent build up and product buildup, but also leave your hair smelling great!
 
-3. Don’t over-wash: Washing your hair too often can strip it of its natural oils, making it dry and brittle. Aim to wash your hair every 2-3 days, or less if you can.
+## Only use gentle shampoos and conditioners
 
-4. Use a conditioner: Conditioner helps to replenish the moisture in your hair, making it softer and more manageable. Be sure to use a conditioner every time you wash your hair.
+As discussed above, you don’t want to be stripping the hair of its natural oils too much. This means you want to be using gentle products whenever possible. Shampoos and conditioners are a great place to start. Look for shampoos that are free of sulfates, as these can be very harsh on the strands. Instead, look for those labeled as being SLS-free. Sulfates are commonly used as a foaming agent in shampoos and have been shown to have negative effects on the hair, skin, and scalp.
 
-5. Use a heat protectant: Heat styling can damage your hair, so it’s important to use a heat protectant when using any heated styling tools.
+Conditioners can also be harsh on the hair and strip it of its natural oils. Look for ones labeled as being gentle. You may even want to start stretching out the times in which you use conditioner. Depending on your hair type and length, you may only need to use conditioner once every few weeks.
 
-6. Let your hair air dry: Air drying is the best way to dry your hair, as it causes the least amount of damage. If you must use a blow dryer, be sure to use the lowest setting and hold it at least 6 inches away from your hair.
+## Give your hair a protein boost every now and then
 
-7. Don’t brush wet hair: Wet hair is more likely to break, so it’s best to wait until it’s dry before brushing it. If you must brush wet hair, use a wide-toothed comb and be gentle.
+For those with fine and thin hair, a protein boost can be incredibly useful. It helps to strengthen hair and makes it less susceptible to breakage. While you don’t want to overdo protein, it can be a great addition to your hair care routine. A good way to do this is to use a protein treatment every now and then. You should also be mindful of the foods you’re consuming. Eggs, peanuts, soybeans, fish, and dairy are all great sources of protein. While these are fantastic for your health in general, they can be too much for thin hair. Try to avoid these foods if you have fine hair and are looking to strengthen it.
 
-8. Protect your hair from the sun: The sun can damage your hair, making it dry and brittle. Be sure to wear a hat or scarf when you’re going to be out in the sun for extended periods of time.
+## Don’t forget the root of the problem
 
-9. Avoid using harsh chemicals: Harsh chemicals can damage your hair and make it more likely to break. If you must use chemicals in your hair, be sure to use gentle products and follow the directions carefully.
+As we’ve mentioned above, breakages can often be due to the root of the problem. If your hair has been thinning and falling out, it could be a sign of something more serious happening beneath the surface. This could be anything from stress to certain medical conditions. If you find your hair is falling out more than normal and you aren’t sure why, it’s important to speak with your doctor. It’s possible you might be suffering from alopecia (a condition that causes hair loss), or that you are experiencing stress-induced hair loss. There are also many other potential causes of excess hair loss, and it’s best to get it checked out to be sure.
 
-10. Be gentle with your hair: Treat your hair gently and avoid using harsh products or techniques. Be sure to brush and comb your hair gently, and avoid pulling or tugging at it.
+## Be gentle when you comb and brush
+
+Brushing and combing your hair too roughly can cause damage and lead to breakages. This can be particularly true if you have curly hair. It’s recommended that you use a wide-toothed comb when possible, and that you go gently when you do use a brush. It’s best to go over your hair one section at a time when you’re brushing it, and to start from the bottom. Once your hair has grown a bit, you can also start using a wide-toothed hairbrush. Using a hairbrush with smaller teeth can help prevent breakages and damage.
+
+It’s also important that you groom your hair correctly when you style it, and use the right products. For example, if you have curly hair, using a straightening iron can cause a lot of damage. It’s best to use a styling wand instead.
+
+## Don’t be afraid of oils
+
+Most people associate oils with dry and damaged hair, but in fact, oils can work wonders for your hair. They help to seal in moisture, prevent breakages, and can even help to fight off frizz. Coconut oil and castor oil are two great options for hair oils; each have a different texture and can be used in a variety of ways. Coconut oil is best used as a pre-wash treatment, whereas castor oil is best used as a post-wash treatment. Using oils regularly in your hair care routine can be incredibly beneficial.
+
+If you’re worried about your hair becoming too oily, you can also try mixing the oil with a dry shampoo. This will soak up the excess oil, and leave your hair looking fresh.
+
+## Eat well!
+
+As with most aspects of life, what you eat can have a significant impact on the condition of your hair. This is particularly true if you have fine hair, as it can be more susceptible to breakages and damage. You can help to strengthen your hair by making sure you’re eating well. A diet that is rich in proteins and vitamins will help to keep your hair strong and healthy.
+
+Certain foods are particularly good for hair; these include eggs, fish, avocados, and leafy greens. A healthy diet can also have positive effects on your general health and well-being, making it a win-win situation!
+
+## Don’t forget to treat your scalp too
+
+Just because your hair is on the ends, doesn’t mean you can ignore the scalp. The scalp is connected to the hair follicles, and it can be prone to dryness, irritation, and scalp conditions such as dandruff. Be sure to include a scalp treatment in your hair care routine. This can be done in one of two ways; either you can use a general moisturizing shampoo or you can use a separate scalp treatment.
+
+Be sure to choose a product that is specially formulated for the scalp. Using a regular shampoo or conditioner will not only be largely ineffective, but can also cause irritation.
+
+## Conclusion
+
+Keeping your hair healthy and strong is not an easy task. It takes a lot of work to keep it looking clean and shiny while keeping it protected from damage. But it’s important to take care of your hair if you want it to look good and last a long time. From washing to styling, there are many things you can do to take better care of your hair. With these tips, you can keep your hair healthy and strong while making it look great!

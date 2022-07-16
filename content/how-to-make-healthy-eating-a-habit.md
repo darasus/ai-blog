@@ -1,18 +1,34 @@
 ---
 title: How to make healthy eating a habit
 createdAt: 2022-07-07T06:05:41.521Z
-updatedAt: 2022-07-07T17:00:51.147Z
+updatedAt: 2022-07-16T16:17:51.663Z
 category: health
 ---
 
-When it comes to developing healthy eating habits, consistency is key. That means making healthy choices most of the time, and allowing yourself the occasional indulgence. Here are some tips to help you make healthy eating a habit:
+## Commit to meal prep.
 
-1. Make a plan. Decide what healthy foods you’re going to eat and when you’re going to eat them. This will make it easier to stick to your healthy eating habits.
+This may seem like an obvious one, but we promise it’ll help. If you don’t want to force yourself to eat the same foods day after day, you may struggle to keep up with your habits long term. Meal prepping will help you make sure you’ve got healthy food on hand that’s ready to go when you are. You’d be surprised at how much better you’ll feel when you’re not running around trying to grab something unhealthy at the last minute. Plus, prepping your food ahead of time is a great way to keep track of your daily calorie intake without having to track every detail of everything you’re eating.
 
-2. Shop smart. Stock your kitchen with healthy foods so you’ll be less likely to reach for unhealthy snacks.
+## Try a new food at least once a week.
 
-3. Cook at home. Cooking at home allows you to control what goes into your food and how it’s prepared. This can help you eat healthier overall.
+Part of making healthy eating a daily habit is exploring new kinds of foods as often as you can. Trying new things can help you find new favorites to add to your diet and make food more interesting and enjoyable. This can also make it easier to switch up your daily routine and shake things up a bit, so you don’t feel like you’re always eating the same old meals. Giving new foods a chance can also help you learn more about ingredients and nutrition in general, so you’re more able to make informed choices at the supermarket.
 
-4. Eat mindfully. Pay attention to what you’re eating and how you’re feeling. This will help you be more aware of your eating habits and make better choices.
+## Set an intention before every meal.
 
-5. Be patient. Developing healthy eating habits takes time. Don’t get discouraged if you slip up occasionally. Just keep working at it and eventually it will become second nature.
+If you’re someone who tends to eat on the fly, setting an intention before each meal can help you focus on what you’re eating. This may sound silly, but it can help you slow down, be more aware of what you’re consuming and make improvements to your diet. Whether you want to focus on eating more vegetables, having less sugar or trying to increase your protein intake, setting an intention before every meal can help you stay on track.
+
+## Take your vitamins.
+
+This is something you may have been told since you were a kid, but it’s just as important as ever as an adult. Adults, teens and even kids who eat a well-rounded diet can struggle to get enough nutrients from food alone. This is especially true for vitamins like B, C, D and Calcium, as well as Iron for women who are menstruating. Getting enough of these nutrients can help keep you healthy, improve your energy levels and make sure your body is operating at its best.
+
+## Don’t eat alone.
+
+This may sound odd, but research has shown that eating with other people can help you eat less. Eating with others can also help you make better choices, as you’re more likely to choose a salad over a carb-heavy side when others are watching.
+
+## Reward yourself for sticking to your diet.
+
+This may sound a little silly, but it’s a good idea to reward yourself for eating healthily. When you’re committed to a new way of eating, it can help to have something to look forward to. This could be anything from a trip to the movies, to a new book, a relaxing bath and more. Find something that fits your lifestyle and makes you excited and eager to keep up with your diet choices.
+
+## Conclusion
+
+When you commit to eating healthier, it can be easy to feel like it’s something you have to force yourself to do every day. Hopefully, these tips show you that it doesn’t have to be that way. Eating well doesn’t have to be hard or feel like a chore. It can be something you enjoy and look forward to.

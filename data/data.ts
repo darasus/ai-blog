@@ -20,7 +20,7 @@ export const data = {
   // investing: [...new Set(investing)],
   // crypto: [...new Set(crypto)],
   // technology: [...new Set(technology)],
-  // health: [...new Set(health)],
+  health: [...new Set(health)],
   // culture: [...new Set(culture)],
   // gaming: [...new Set(gaming)],
   // productivity: [...new Set(productivity)],

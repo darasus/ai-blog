@@ -1,46 +1,43 @@
 ---
 title: How to make healthy eating a part of your weight loss plan
 createdAt: 2022-07-07T06:05:42.105Z
-updatedAt: 2022-07-07T17:00:51.760Z
+updatedAt: 2022-07-16T16:22:26.301Z
 category: health
 ---
 
-When it comes to weight loss, healthy eating is key. But what does that mean, exactly? Put simply, healthy eating is about choosing nutrient-rich foods that will help you lose weight in a sustainable way.
+## Start with protein.
 
-That means ditching the fad diets and instead focus on an eating plan that includes plenty of lean protein, fresh fruits and vegetables, whole grains, and healthy fats. Such a diet will not only help you lose weight, but it will also help you improve your overall health.
+Protein helps keep you full and fuels your muscles so they can perform their best. It can also help prevent muscle loss when you’re on a calorie-restricted diet—helping to ensure that the weight you do lose is fat. A study published in the Journal of Nutrition found that protein is particularly effective for weight loss when it replaces other carbs in your diet, such as bread or pasta.
+When it comes to weight loss, most experts recommend getting about one-third of your daily calories from protein. But this can be trickier than it sounds. Many popular protein sources are also high in calories or full of fat.
+You can boost protein intake by adding a protein-rich food to each meal, such as nuts and seeds, eggs, low-fat dairy products, or lean meat and fish. And don’t forget about protein-rich foods that are naturally low in fat, such as beans, broccoli, and spinach.
 
-Of course, making healthy eating a part of your weight loss plan is easier said than done. But with a little planning and effort, it can be done. Here are some tips to help you get started:
+## Set yourself up for success.
 
-1. Make a plan.
+When you’re trying to lose weight, your diet is where you’ll have the most success if you focus your efforts. Exercise alone isn’t enough, and cutting calories without attention to the nutritional quality of your food simply doesn’t work.
+You may find it easier to keep your healthy eating habits at the front of your mind if you plan your meals in advance. You can also prep healthy snacks for yourself to make sure you don’t find yourself hungry and tempted to reach for an unhealthy convenience food.
 
-The first step to healthy eating is to plan ahead. Decide what you’re going to eat for the week and make a grocery list accordingly. This will help you avoid unhealthy impulse purchases and make sure you have all the ingredients you need on hand to make healthy meals.
+## Veggies! Veggies! Veggies!
 
-2. Cook at home.
+Vegetables are the original superfood—packed with nutrients that can help you prevent disease and stay slim. If you’re trying to lose weight, one way to make sure you’re getting enough veggies is to fill half your plate with them at each meal.
+You can also boost the number of veggies in your diet by choosing fresh vegetables over less nutritious canned or frozen varieties. Broccoli and carrots, for example, are much healthier when fresh, and many other vegetables are more nutritious when eaten without added salt or fat.
+Even if you don’t like broccoli and carrots, there are many other healthy options to choose from. And if you’re having trouble getting in the recommended amount of veggies, try eating them in creative ways like stir-fries, salads, soups, or stews.
 
-One of the best ways to control what you eat is to cook at home. That way, you can control the ingredients that go into your food and make sure they’re all healthy. If cooking from scratch is too time-consuming, look for healthy recipes that use easy-to-find ingredients.
+## Whole grains are your friend.
 
-3. Eat more fruits and vegetables.
+Whole grains are rich in fiber, which helps prevent disease and keeps you feeling full for hours, so you’re less likely to overeat. Research also shows that people who eat more whole grains tend to be leaner than those who don’t—especially if they replace refined grains with whole grains.
+You can choose whole grains at any meal by opting for brown rice, whole-wheat pasta, whole-wheat bread, oatmeal, and other whole-grain foods.
+While whole grains are a healthy part of any weight loss diet, you should be careful not to overdo it with high-carb foods in general. Limiting your carb intake to healthy sources like whole grains can help prevent weight gain when you’re trying to lose weight.
 
-Fruits and vegetables are packed with nutrients that are essential for good health. Aim to fill half your plate with fruits and vegetables at every meal. And if you’re snacking, reach for a piece of fruit or a handful of nuts instead of unhealthy junk food.
+## Healthy fats help, too.
 
-4. Limit processed foods.
+Healthy fats—like those found in nuts, seeds, avocado, and fish—help your body absorb vitamins and promote feelings of fullness. Research also suggests that healthy fats like these can actually help you lose weight when you’re eating a low-calorie diet.
+You can include healthy fats in every meal by adding nuts, seeds, or avocado to salads; fish to stir-fries or whole-grain dishes; or a spoonful of virgin coconut oil to dishes that don’t require high heat.
 
-Processed foods are often high in calories, sugar, and unhealthy fats. They can also be low in important nutrients like fiber and protein. When possible, choose whole, unprocessed foods instead.
+## Don’t forget about dessert!
 
-5. Drink plenty of water.
+Sure, healthy eating is important for weight loss, but it’s also important for health. And while it’s true that many desserts are fattening, there are plenty of low-calorie desserts you can enjoy when you’re trying to lose weight.
+Desserts made with whole grains, low-fat milk, or fruit are usually the healthiest. You can also choose low-calorie desserts made with other ingredients like stevia, artificial sweeteners, non-fat yogurt, or low-fat ice cream.
 
-Water is essential for good health. It helps your body function properly and keeps you hydrated. Aim to drink eight glasses of water a day, or more if you’re active or live in a hot climate.
+## Bottom line
 
-6. Avoid sugary drinks.
-
-Sugary drinks like soda, sports drinks, and juice are high in calories and can contribute to weight gain. If you’re looking for something to drink besides water, opt for unsweetened tea or coffee instead.
-
-7. Be mindful of portion sizes.
-
-Even healthy foods can be high in calories if you eat too much of them. To avoid overeating, pay attention to portion sizes and always stop eating when you’re full.
-
-8. Avoid eating late at night.
-
-Eating late at night can make it harder to lose weight because your body has a harder time digesting food before bedtime. If you’re hungry after dinner, try snacking on a piece of fruit or a handful of nuts instead of raiding the fridge.
-
-Making healthy eating a part of your weight loss plan is essential for sustainable weight loss. By following these tips, you can make healthy eating easier and help yourself reach your weight loss goals.
+Because each person is different, it’s impossible to say how many calories you need to lose weight. If you’re not sure how many calories you should aim for each day, try talking to a doctor or dietitian. Getting your daily calorie needs right is one of the best ways to start losing weight for good. Once you know how many calories you need, you can help keep yourself on track by making sure your diet is rich in nutritious whole foods. Healthy eating is the key to lasting weight loss.

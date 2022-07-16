@@ -1,36 +1,57 @@
 ---
 title: How to eat healthy when eating out
 createdAt: 2022-07-07T06:05:41.698Z
-updatedAt: 2022-07-07T17:00:51.336Z
+updatedAt: 2022-07-16T16:19:10.074Z
 category: health
 ---
 
-When you're trying to eat healthy, dining out can be a challenge. But with a little planning, you can enjoy a healthy meal at your favorite restaurant.
+## Go for protein and fiber
 
-Here are some tips to help you make healthy choices when eating out:
+Foods that are high in fiber and protein will help you feel fuller and more satisfied after eating — and help prevent unhealthy snacking later on in the day. So, when possible, choose dishes that are packed with fiber and protein, like these options:
 
-1. Look for restaurants that offer healthy options.
+- Soups - Unless your soup is loaded with cheese and croutons, it will typically be very low in calories and fat.
+- Salads - Salads are full of fiber and protein. You can also add beans to salads for even more protein.
+- Stuffed veggies - Choose dishes that are stuffed with veggies, like bell peppers and mushrooms, over ones that come with heavy sauces or too much cheese.
+- Pasta - Choose whole-wheat pasta to up the fiber content.
 
-Some restaurants are now offering healthier alternatives to their menu items. Look for restaurants that offer salads, lean protein options, and whole grain choices.
+## Look for whole grains
 
-2. Ask about the ingredients.
+Whole grains are a great source of fiber, B vitamins, iron, and other nutrients. The difference between whole grains and refined grains, like white flour, is that whole grains retain their bran and germ. This means they have a higher fiber and protein content.
 
-When you're not sure what's in a dish, ask your server. Most restaurants are happy to provide information about the ingredients in their dishes.
+When choosing your grains, consider these options:
 
-3. Avoid fried foods.
+- Brown rice - Brown rice has more fiber than white rice.
+- Barley - Barley is a great source of fiber, B vitamins, and iron.
+- Whole-wheat pasta - Choose whole-wheat pasta over regular pasta for more fiber and nutrients.
 
-Fried foods are often high in calories and unhealthy fats. When possible, choose grilled, baked, or steamed foods instead.
+## Watch out for sauces
 
-4. Watch your portion sizes.
+Many sauces are full of fat and calories. They’re also often high in sodium. So, when possible, choose dishes that come with minimal or no sauce. Or, if you can’t do without the sauce, try to choose a healthier option. Some examples:
 
-Restaurant portions are often larger than what you would typically eat at home. When ordering, consider sharing a dish or taking half of your meal to go.
+- Pesto - Pesto is typically made with olive oil, so it’s an unprocessed fat with minimal calories and fat.
+- Salsa - Choose salsa over creamy sauces like alfredo or ranch.
+- Marinara - Marinara sauce is typically made with tomatoes and onions, so it’s a very healthy option.
 
-5. Make smart substitutions.
+## Check the ingredients list
 
-When ordering, make substitutions that will help you cut calories and eat healthier. For example, ask for dressing on the side, hold the cheese, or substitute a side salad for french fries.
+When you can, check the ingredients list for the items that go into your meal. This will help you spot potential allergens and unhealthy ingredients that you might otherwise miss. You can also use this information to make healthier choices. For example:
 
-6. Drink water.
+- If a meal comes with rice, beans, and veggies, you can ask if they can replace the rice with additional veggies.
+- If a meal comes with white pasta, you can ask if they can use whole-wheat pasta instead.
+- If a meal comes with heavy sauces or cheese, ask if they can leave it out or substitute it for something healthier.
 
-Water is the best choice when it comes to drinks. But if you're looking for something else, choose unsweetened tea or coffee, or order a small fruit juice or soda. Avoid sugary cocktails and mixed drinks.
+## Order veggies
 
-By following these tips, you can enjoy eating out while still maintaining a healthy diet.
+Many restaurants will let you add as many veggies as you want to your meal. You can ask to add veggies to anything—salads, soups, pastas, stir-frys, sandwiches, and more. And if a restaurant is too fancy for this, you can always DIY by ordering a side of veggies to go with your meal.
+
+In general, though, be careful with your vegetable choices. Some vegetables are higher in calories and fat than others. And many restaurants will fry or fry-fry their veggies in unhealthy oils. Be wary of French fries, fried veggies, and other fried sides.
+
+## Don’t be afraid of the dark side
+
+Burgers, sandwiches, and other classic casual fare can be healthy options when eaten in moderation. Look for burgers that are made with 80% meat or less, and be careful with your bun and condiment choices. When possible, choose burgers that come with lettuce and tomato over buns, and skip the mayo or heavy sauces for a healthier option.
+
+Sandwiches can also be a healthy choice, as long as you choose wisely. Avoid heavy white breads and load up on veggies and lean proteins instead. Wraps can be great options if you’re unsure about the contents of your sandwich.
+
+## Final words
+
+Eating out can be enjoyable and healthy, but it can also be challenging. The best way to overcome these challenges is to be prepared and knowledgeable. By following these tips, you will be able to make better decisions when eating out and keep your diet in check. With some practice and patience, you can eat healthy when eating out.

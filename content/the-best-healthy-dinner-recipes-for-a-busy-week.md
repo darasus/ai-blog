@@ -1,20 +1,64 @@
 ---
 title: The best healthy dinner recipes for a busy week
 createdAt: 2022-07-07T06:05:42.128Z
-updatedAt: 2022-07-07T17:00:51.783Z
+updatedAt: 2022-07-16T16:22:38.283Z
 category: health
 ---
 
-When it comes to eating healthy, dinner is often the hardest meal to get right. After a long day at work, the last thing you want to do is cook a complicated or time-consuming meal. But with a little planning and some simple recipes, you can make healthy dinners that are both delicious and easy to make.
+## Beans
 
-Here are some of the best healthy dinner recipes for a busy week:
+Beans are a cheap, high-protein source of fibre that can be prepared in many different ways. Whether you prefer black, red, or kidney beans, they’re inexpensive and quick to cook. Beans can be added to salads or stews, or served as a side dish with any meal. Beans are also a good source of iron, which is especially important for menstruating women and growing kids. Iron deficiency is common among vegetarians since these people don’t consume the same iron sources as meat-eaters. Eating iron-rich foods with vitamin C-rich foods, such as beans with oranges, can help your body better absorb iron.
 
-1. Spicy shrimp and quinoa bowl: This recipe is packed with protein and healthy carbs, making it the perfect dinner for a busy night. Plus, it only takes 30 minutes to make.
+Try adding a can of black beans to your next salad. Or make a Mexican-style stew with kidney beans, tomatoes, peppers, and cilantro. If you don’t like beans on their own, try adding them to soups or stews, or using them as a side dish with a protein like fish.
 
-2. One-pot chicken and veggie stir-fry: This stir-fry is a great way to use up any leftover veggies you have in your fridge. It's also quick and easy to make, and can be on the table in under 30 minutes.
+## Brown Rice
 
-3. Salmon with roasted Brussels sprouts: This healthy and flavorful salmon dish is perfect for a weeknight dinner. It takes less than 30 minutes to make, and is packed with protein and healthy fats.
+Rice is a staple of many healthy diets, and brown rice is a healthier alternative to white rice. Brown rice is full of fibre, vitamins, and minerals and is high in protein. It can be served as a main dish, or used as a side dish to complement other meals. Brown rice takes longer to cook than white rice, but it’s still a quick side dish to prepare. Try serving brown rice with a stir fry or rice bowl with beans and veggies.
 
-4. Turkey and sweet potato chili: This hearty chili is perfect for a cold night. It's packed with protein and fiber, and can be made in just 30 minutes.
+If you regularly eat white rice, try gradually switching to brown rice to gradually increase your fibre intake. If you have trouble digesting brown rice, you can experiment with cooking it a different way, such as using a rice cooker or steaming it to make it easier to digest.
 
-5. Vegetarian black bean enchiladas: These enchiladas are a great option for a meatless Monday dinner. They're packed with protein and fiber, and can be on the table in under an hour.
+## Chicken
+
+Chicken is a versatile, low-fat protein that can be served in many ways. You can use chicken as a main dish, as a protein source in a salad, or as a side dish. Chicken is a low-cost source of protein that is quick and easy to prepare. Try serving chicken with a salad or vegetables for a healthy, balanced meal.
+
+You can prepare a simple chicken salad by using leftover chicken. Chop or shred the chicken and mix with salad greens, vegetables, and a dressing. A salad is a quick, healthy meal that can be eaten at any time, even as a snack.
+
+## Egg Whites
+
+Egg whites are a cheap, high-protein food that can be served as a side dish or used in a main dish. They’re also quick and easy to prepare if you have a few minutes. Try adding egg whites to a salad or stir fry, or use them as the base of a quiche or frittata.
+
+If you don’t like eating egg whites on their own, try adding them to omelettes or quiches, or use them as the base for a frittata.
+
+## Kidney Beans
+
+Kidney beans are a healthy source of fibre, protein, vitamins, and minerals. They can be used as a side dish or served as a protein-rich main dish. To use them as a main dish, try making a chili recipe that includes kidney beans. Kidney beans can also be used to make a dip or spread, or added to salads. They’re a good source of folate and vitamin B6, which are important for women during childbearing years and for growing kids.
+
+Add kidney beans to a salad for extra protein. Or try making a chili with kidney beans, tomatoes, and onion as a side dish with chicken or lean protein like ground beef.
+
+## Lean Proteins
+
+Lean proteins are nutrient-dense foods that can be used as main dishes or a side dish. Try using lean proteins like eggs, fish, or beans as a side dish with a more calorie-dense meal like a vegetable-based stew or chili.
+
+If you’re eating out, try ordering something like eggs or beans as a protein source.
+
+## Lentils
+
+Lentils are a cheap, high-protein source of fibre. They can be used as a side dish or added to salads or stews as a protein-rich main dish. Like kidney beans, lentils are also good sources of folate and vitamin B6, which are important for women during childbearing years and for growing kids.
+
+Add lentils to a salad for extra protein. Or try making a vegetable stew or chili with lentils, tomatoes, and onion as a side dish with lean protein like eggs or beans.
+
+## Salmon
+
+Salmon is a rich source of omega-3 fatty acids and protein. You can use salmon as a main dish or as a protein source in a salad. Salmon can be expensive, but you can save money by finding it on sale and buying salmon in bulk. Try serving salmon with vegetables for a healthy meal.
+
+Salmon is a versatile protein that can be served in many different ways. You can bake, poach, or grill salmon, or use it in salads and casseroles. If you want to use salmon in a salad, you can also grill it and break it apart with a fork.
+
+## Soy Protein
+
+Soy protein is a plant-based alternative to animal proteins, like dairy or eggs. It can be used in main dishes and salads, or as a side dish. Try serving soy protein as a salad with beans, vegetables, and grains like quinoa or wild rice. Soy protein is a good source of vitamins, minerals, and fibre, but most types are also high in sodium. You can choose lower-sodium soy protein, or reduce the amount of salt in a recipe that calls for soy protein.
+
+Try adding soy protein to salads or eating it as a side dish with vegetables and grains. You can also use soy protein in casseroles, soups, and stews.
+
+## Conclusion
+
+There are so many benefits to cooking your own meals. You can control how much salt, sugar, and fat are in each recipe, and you know exactly what went into making each dish. Cooking your own meals is an easy way to eat healthier and save money, especially if you use these healthy dinner recipes for a busy week.
