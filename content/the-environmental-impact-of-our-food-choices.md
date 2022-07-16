@@ -1,18 +1,40 @@
 ---
 title: The Environmental impact of our food choices
 createdAt: 2022-07-09T06:39:48.039Z
-updatedAt: 2022-07-09T06:39:48.039Z
+updatedAt: 2022-07-16T14:15:43.643Z
 category: cooking
 ---
 
-The way we produce and consume food has a major impact on the environment. The growing and processing of food requires a lot of energy and water, and generates greenhouse gas emissions and other pollution.
+## What is Organic Food?
 
-The average American diet requires more than 4,000 calories per day, which is about double the average daily caloric intake in the world. The majority of these calories come from animal-based foods, which require more resources to produce than plant-based foods.
+Organic food is any food produced using organic agriculture practices that focus on ecological cycles and biodiversity. Organic food is produced without the use of synthetic pesticides, synthetic fertilizers, genetically modified organisms, antibiotics, and certain kinds of preservatives.
+Organic foods are also not processed using irradiation or modified industrial solvents. It is both an agricultural movement and a form of self-regulating marketing.
 
-Livestock production is a major source of greenhouse gas emissions, accounting for about 15% of all human-caused emissions. The raising of livestock also requires a lot of land and water. In the United States, animal agriculture uses approximately 30% of the total land area and 70% of the fresh water used for all purposes.
+As a general rule, the fewer ingredients a food contains, the fewer potential problems there are with it. So, look for foods that are as close to their natural state as possible, and make sure to keep an eye on the ingredients lists.
 
-The growing demand for meat and dairy products is one of the main drivers of deforestation. In the Amazon rainforest, for example, cattle ranching is responsible for 80% of deforestation. Deforestation not only destroys valuable ecosystems, but also releases large amounts of carbon dioxide into the atmosphere, contributing to climate change.
+## The Environmental Impact of Producing Meat
 
-The food we waste also has a significant environmental impact. In the United States, we throw away approximately 40% of the food we produce each year. This wasted food ends up in landfills, where it decomposes and emits methane, a powerful greenhouse gas.
+The production of meat has a serious and significant impact on the environment. The carbon footprint of meat is large, due to the methane released from livestock and the amount of water and feed needed to grow livestock feed.
+The impact of meat production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+The environmental impact of meat is significant, both in terms of greenhouse gas emissions and in the amount of freshwater consumed.
 
-We can reduce our impact on the environment by making more sustainable food choices. Eating less meat and dairy, wasting less food, and choosing environmentally friendly products are all good ways to start.
+## The Environmental Impact of Producing Dairy and Eggs
+
+The environmental impact of producing dairy and eggs is significant, with the greenhouse gas emissions of the dairy industry being 17 times higher than that of vegetables, and the carbon footprint of eggs being five times greater than that of vegetables.
+The environmental impact of dairy and eggs production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+
+## The Environmental Impact of Beans and Grains
+
+The environmental impact of producing legumes and grains is very low, with the legume carbon footprint being a third of that of vegetables, and the grain carbon footprint being half that of vegetables.
+The environmental impact of beans and grains production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+
+## The Environmental Impact of Seafood
+
+The environmental impact of producing seafood is significant, with the carbon footprint of seafood being two times greater than that of vegetables, and the protein-to-fish ratio being 5:1.
+The environmental impact of seafood production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+
+## Conclusion
+
+As you can see, there are many things to consider when deciding on the most environmentally friendly diet. But there’s also good news! Even small changes in your diet can have a huge impact. Whether you go vegan, vegetarian, or simply make small adjustments to what you eat, choosing an environmentally friendly diet can have a huge positive effect on the world around you.
+
+Now go make the world a better place with your food choices!

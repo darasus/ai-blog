@@ -1,50 +1,42 @@
 ---
 title: The 10 Worst Foods to Eat if You're Trying to Lose Weight
 createdAt: 2022-07-09T06:37:54.079Z
-updatedAt: 2022-07-09T06:37:54.079Z
+updatedAt: 2022-07-16T14:08:16.153Z
 category: cooking
 ---
 
-The 10 Worst Foods to Eat if You're Trying to Lose Weight
+## Bacon
 
-If you're trying to lose weight, you might think that cutting out all of your favorite foods is the best way to go. However, there are some foods that are worse for your weight loss goals than others. Here are the 10 worst foods to eat if you're trying to lose weight:
+Bacon is often touted as being a “healthy” food because it’s low in carbs. But what about the high amount of fat, sodium, and calories from fat? That’s a lot of bad stuff packed into one slice of bacon. If you’re trying to watch your weight, bacon is not the best choice for a snack. It’s also not very nutritious, so if you’re not eating it for the flavor, there are better, more filling choices out there. If you’re craving bacon, you could try making a healthier version at home.
 
-1. Fast food
+## Doughnuts
 
-Fast food is one of the worst things you can eat when you're trying to lose weight. It's high in calories, fat, and sodium, and it's usually not very filling. Plus, it's easy to overeat when you're eating fast food. If you're trying to lose weight, it's best to avoid fast food altogether.
+Doughnuts are often associated with our childhoods — maybe a birthday, or maybe even getting a doughnut while we were in the car with our parents. But if you’re trying to lose weight, those doughnuts aren’t doing you any favors. Doughnuts are high in calories, sodium, and fat, and they’re also pretty low in protein and fiber. You could make a healthier version at home by baking some donuts with a low-fat glaze or icing.
 
-2. Processed foods
+## Potato Chips
 
-Processed foods are another type of food that you should avoid when you're trying to lose weight. They're often high in calories and unhealthy ingredients, and they can be very hard to resist. If you're trying to lose weight, stick to whole, unprocessed foods as much as possible.
+Potato chips are delicious, salty, crunchy snacks — but they’re also one of the worst foods to eat if you’re trying to lose weight. Potato chips are loaded with calories, sodium, and fat.  If you’re eating just a small serving (about 10 chips), that amount of chips is about 150 calories — and that’s without any dip. If you’re trying to lose weight, potato chips aren’t a very good choice. But you can make healthier versions at home. You can also try baked chips if you’re craving the crunch but not the fat.
 
-3. Sweets
+## Ice Cream
 
-Sweets are another food that can sabotage your weight loss efforts. They're high in sugar and calories, and they can quickly lead to cravings and overeating. If you're trying to lose weight, it's best to limit your intake of sweets.
+Ice cream is a dessert that’s both decadent and delicious. It also happens to be one of the worst foods for losing weight. Ice cream is high in sugar, fat, and calories. A small bowl of ice cream with a few toppings has about 500 calories — which is a huge amount to eat in one sitting. If you’re trying to lose weight, it’s best to avoid ice cream. But hey, you don’t have to be deprived of creamy desserts! There are healthier alternatives out there. You could try making a low-sugar ice cream at home with a can of coconut milk.
 
-4. Alcohol
+## Shrimp
 
-Alcohol is another calorie-dense food that can quickly sabotage your weight loss efforts. It's also dehydrating, which can make you feelhungrier. If you're trying to lose weight, it's best to limit your alcohol intake or avoid it altogether.
+Shrimp is often touted as a healthy seafood because it’s low in fat and calories. But it’s also low in protein, which means it’s not a very filling choice for a meal. Shrimp is also high in sodium, which can cause you to retain water, making you look bigger. If you’re trying to lose weight, shrimp isn’t the best choice. You could try other types of seafood, or use a low-fat sauce or dressing to flavor the shrimp and make it more filling.
 
-5. Fried foods
+## Cheese Fries
 
-Fried foods are high in calories and unhealthy fats, and they can quickly lead to weight gain. If you're trying to lose weight, it's best to avoid fried foods altogether.
+Cheese fries are often served as appetizers in restaurants. With the melted cheese, they’re a delicious, gooey treat. But if you’re trying to lose weight, cheese fries are definitely one of the worst foods for you. They’re high in calories and fat, and they don’t fill you up for long. If you’re trying to lose weight, cheese fries aren’t a good choice. But if you’re craving them, you could try making them at home with a healthier cheese.
 
-6. Refined carbs
+## Cake
 
-Refined carbs are another type of food that can quickly lead to weight gain. They're often high in sugar and calories, and they can cause blood sugar spikes that can make you feel hungry. If you're trying to lose weight, it's best to limit your intake of refined carbs.
+Cake is something we often associate with birthdays and celebrations. But if you’re trying to lose weight, cake isn’t the best choice. Cake is loaded with sugar and fat. A slice of cake can have around 500 calories — and that’s just one slice! If you’re trying to lose weight, cake is a treat that should be eaten rarely, if at all. But if you’re craving cake, you could try making a healthier version at home.
 
-7. Juices and sodas
+## Corned Beef Sandwich
 
-Juices and sodas are often loaded with sugar and calories, and they can quickly lead to weight gain. If you're trying to lose weight, it's best to limit your intake of these drinks or avoid them altogether.
+If you love a good deli sandwich, you might be eating the worst foods to eat while trying to lose weight. Many deli meats are high in sodium and fat, and they’re not very filling. A corned beef sandwich can have as many as 900 calories! If you’re trying to lose weight, deli meats aren’t the best choice. You could try other types of meat or make a healthier version at home.
 
-8. Dried fruit
+## Conclusion
 
-Dried fruit is often high in sugar and calories, and it can quickly lead to weight gain. If you're trying to lose weight, it's best to limit your intake of dried fruit or avoid it altogether.
-
-9. Canned soup
-
-Canned soup is often high in sodium and calories, and it can quickly lead to weight gain. If you're trying to lose weight, it's best to limit your intake of canned soup or avoid it altogether.
-
-10. Chips
-
-Chips are often high in calories and unhealthy fats, and they can quickly lead to weight gain. If you're trying to lose weight, it's best to limit your intake of chips or avoid them altogether.
+Everything in life is about balance. You shouldn’t try to be perfect 100% of the time. Instead, you should make the healthiest choices you can for the majority of the time. Then, you can make some exceptions every now and then. Eating badly every once in a while won’t harm you. In fact, it can help you reset your cravings and allow you to make better choices in the long run. The key is to not make a habit of it. Eating badly every day is one of the worst things you can do if you’re trying to lose weight.

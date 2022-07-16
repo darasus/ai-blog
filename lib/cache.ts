@@ -26,7 +26,11 @@ export class CacheService {
     //   `for ${key} took ${cacheT1 - cacheT0} milliseconds.`
     // );
     if (value === null) return null;
-    return JSON.parse(value);
+    try {
+      return JSON.parse(value);
+    } catch (error) {
+      return null;
+    }
   };
 
   getBuffer = async (key: string) => {

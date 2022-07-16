@@ -1,16 +1,40 @@
 ---
 title: 5 easy tips for making better pasta dishes
 createdAt: 2022-07-07T06:05:39.847Z
-updatedAt: 2022-07-07T16:41:48.568Z
+updatedAt: 2022-07-16T13:53:53.948Z
 category: cooking
 ---
 
-1. Start with high-quality pasta. This may seem like an obvious one, but it’s worth mentioning because it really does make a difference. Cheap, lower quality pasta will cook up mushy and won’t hold its shape well, so splurge on some good stuff from an Italian market or specialty store.
+## Research and plan
 
-2. Don’t overcook your pasta. It should be cooked al dente, which means “to the tooth” in Italian. This means that it should be cooked until it’s tender but still has a bit of a bite to it. Overcooked pasta will be mushy and won’t hold up well to sauce.
+Research is the foundation to any excellent piece of content. If you don’t have a strong foundation, it’s difficult to build something great.
 
-3. Use a good sauce. This is another area where quality matters. A jar of pre-made sauce from the grocery store is not going to cut it. Make your own sauce or buy a good quality one from a specialty store.
+The best advice we can give is to make sure you have access to a good source of information, and that you know how to sift through it.
 
-4. Don’t be afraid to experiment. Pasta is a versatile dish that can be made with all sorts of different ingredients. Get creative and try new things.
+## Use the key word scout pro tool
 
-5. Follow these tips and you’ll be well on your way to making better pasta dishes. With a little practice, you’ll be an expert in no time!
+You can’t just write about pasta, it has to be about how to make better pasta dishes. This will depend on what your audience is searching for. If you want to write about a specific topic, you have to research what terms people are searching for.
+
+Keyword Scout Pro is a great tool for finding these terms. You just put in a topic, and it will show you related terms. It also shows you a graph that shows how popular the terms are.
+
+## Use the blogging pro tool for research
+
+Blogging is another way to conduct research and find terms your audience is interested in. It’s a great way to see what type of content works well on your website. It’s also a good way to see what type of content your competitors are producing.
+
+## Outline your article
+
+Your outline is the skeleton of your article. If it’s not properly organized, you’ll end up with a botched piece of writing. A strong outline will help you stay focused and on track. It’s also the most efficient way to communicate your ideas.
+
+## Estimate word count with the Google tool
+
+The best way to estimate word count is to use a word count tool. There are a lot of these online. Many websites will also have a word counter on their site.
+
+Google Docs has a word counter built into it. Just open up a document and click Tools > Word Count. This will show you how many words you have.
+
+## Write!
+
+OK, so you’ve done all the research. You’ve found the terms your audience is searching for, you’ve organized your ideas, and you’ve estimated your word count. Now what? You write the darn article!
+
+The best way to write your article is to just get started. If you’ve done all the prep work, and you know what you want to say, you can write the article quickly. So just get to it!
+
+Keep reading:  10 Tips for better content marketing

@@ -35,7 +35,7 @@ async function main() {
     ) as { metadata: MDXPost; content: string };
     // new content
     const response = await ai.generateArticle({
-      title: `Generate 1000 words article body titled "${title}"`,
+      title,
     });
 
     if (content.trim() === response.content.trim()) {
