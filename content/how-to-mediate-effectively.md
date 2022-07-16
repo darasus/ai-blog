@@ -1,14 +1,40 @@
 ---
 title: How to mediate effectively
 createdAt: 2022-07-09T06:12:58.748Z
-updatedAt: 2022-07-09T06:12:58.748Z
+updatedAt: 2022-07-16T15:48:07.082Z
 category: life
 ---
 
-When it comes to mediation, there are a few key things to keep in mind in order to make the process as effective as possible. First, it is important to be clear about what the goals of mediation are. What are you hoping to achieve through mediation? Once you have a clear understanding of your goals, you can then begin to work on developing a strategy for how to best achieve them.
+## Establish a mediation program and educate employees on its benefits.
 
-It is also important to be aware of the different styles of mediation and which one will be most effective for your particular situation. There are three main styles of mediation: facilitative, evaluative, and transformative. Each style has its own strengths and weaknesses, so it is important to choose the one that will best fit the needs of your situation.
+Before you begin using mediation to resolve employee disputes, you’ll want to establish a mediation program and ensure employees are aware of it and its benefits. Start by reviewing your organization’s dispute resolution policy to determine the types of disputes that are appropriate for mediation.
+Mediation is best used to resolve personal conflicts between two or more employees that do not involve a breach of contract, fraud, or discrimination. You may also want to consider when mediation is most effective for your organization.
+Mediation is a good option for resolving disputes when the parties have difficulty communicating or have a poor relationship.
 
-Once you have a clear understanding of your goals and the different styles of mediation, you can then begin to work on developing effective communication skills. This is perhaps the most important aspect of mediation, as it is through communication that you will be able to resolve the conflict. There are a few key things to keep in mind when it comes to effective communication in mediation. First, it is important to be clear and concise in your communication. Second, you need to be able to listen actively and understand the other party's perspective. Lastly, you need to be able to compromise and find common ground.
+## Set expectations around the process and agree on ground rules.
 
-If you can keep these key things in mind, you will be well on your way to mediating effectively.
+To ensure the mediation process is productive, it’s important to set clear expectations and agree on ground rules with the mediator and the disputants. The mediator will guide the disputants through the mediation process, while the mediator’s ground rules will guide the participants.
+Talk with the mediator ahead of time to determine the number of sessions you’d like to schedule, the length of each session, the location, and any other details that will help the mediation process run smoothly. Then, talk with the disputants to establish ground rules for the mediation session.
+Keep in mind that every mediation is different, and the mediator may modify the process as needed to facilitate productive communication between the disputants.
+
+## Appoint an experienced and effective mediator.
+
+Like any other professional service, mediation is a skill that requires training and experience to master. Look for a mediator who has experience resolving a variety of employee disputes and has training in mediation techniques such as active listening, brainstorming, and creative problem solving.
+Mediators also come from a variety of professional backgrounds, including law, human resources, mental health, management, and mediation training programs.
+When choosing a mediator, be sure to ask about the mediator’s experience with your industry, the types of employee disputes the mediator typically works with, and how long the mediator has been in the field.
+
+## Confidentiality is key to a productive mediation.
+
+Employees will be more likely to participate in the mediation process if they know their communication with the mediator is confidential. The mediator will have to sign a confidentiality agreement to abide by your organization’s privacy policies, but it’s important to reiterate this promise to the disputants, as well.
+Mediation is an effective resolution technique for disputes between two or more employees because the process is private. While you are legally required to keep written records of employee complaints, mediation is exempt from this requirement because it is an informal dispute resolution process.
+Keep in mind that you may need to disclose confidential information if you are subpoenaed for a court case, provided it is relevant to the case.
+
+## Be flexible and try to incorporate all parties’ interests into the agreement.
+
+During the mediation process, the mediator will likely ask each party what they each want out of the agreement. Be flexible and try to incorporate all parties’ interests into the agreement. You don’t want to force an unwilling party to accept conditions they don’t want.
+If mediation is successful, the disputants should have an agreement that both sides are willing to sign. If mediation is unsuccessful, you may still be able to avoid litigation by having the disputants sign a mediation declaration — an agreement that they have engaged in mediation and that they have been unable to reach an agreement.
+Although mediation is an effective way to resolve disputes, don’t forget about the other dispute resolution techniques you can use. And, if mediation doesn’t work for you, don’t be discouraged. There are other options available, including arbitration, collaborative problem solving, early neutral evaluation, and litigation.
+
+## Summing up
+
+If you’ve ever encountered an employee dispute, you know how difficult and emotionally draining they can be. Mediation is an excellent way to resolve disputes between employees. Before you implement mediation, though, you’ll want to establish a mediation program, set expectations around the process, and appoint an experienced and effective mediator. Confidentiality is key to a productive mediation, and be flexible and try to incorporate all parties’ interests into the agreement. Mediation is an effective resolution technique for disputes between two or more employees.

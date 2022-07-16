@@ -1,26 +1,42 @@
 ---
 title: 10 easy tips for sticking to your New Year's resolutions
 createdAt: 2022-07-07T06:05:40.369Z
-updatedAt: 2022-07-07T16:41:49.328Z
+updatedAt: 2022-07-16T14:58:17.552Z
 category: life
 ---
 
-1. Set realistic goals: When it comes to setting New Year’s resolutions, it’s important to be realistic. If your goal is to lose weight, don’t set a goal of losing 50 pounds in one month. Not only is this goal unrealistic, but it’s also unhealthy. Set a goal that you know you can realistically achieve, such as losing 10 pounds in three months.
+## Change your environment
 
-2. Make a plan: Once you have set your goals, it’s important to make a plan of how you are going to achieve them. If your goal is to lose weight, your plan might include eating healthy and exercising regularly. If your goal is to save money, your plan might include creating a budget and sticking to it.
+Changing your environment is a subtle shift, but it can make a difference. Start by shifting your daily routine, especially if you’re a person who is stuck in a daily routine that doesn’t support your New Year’s resolutions. If you’re trying to eat healthier, you might want to consider a different grocery store or a different route home from work that gives you a different perspective. If you’re trying to reduce stress and anxiety, you might want to change where you go to unwind and relax. If you go to the same place every day, you’ll likely get used to it and it won’t have the same effect. If you’re trying to exercise more, you might want to consider a different time or day of the week. If you usually work out on a Wednesday night, try switching to a Saturday morning. If you’re trying to learn a new skill, you might want to find a new place to practice — like a new coffee shop or library.
 
-3. Write it down: Research has shown that people who write down their goals are more likely to achieve them. So, make sure to write down your New Year’s resolutions and refer to them often.
+## Write down your reasons
 
-4. Tell others about your goals: When you tell others about your goals, you are more likely to achieve them. This is because you are held accountable by others and you don’t want to let them down.
+This works well for resolutions that are more about personal growth and self-awareness. If you’re trying to reduce stress and anxiety, write down why that is important to you. If you’re trying to read more books, write down why reading is important. If you’re trying to help others more, write down why doing so is important to you. If you’re trying to be more creative, write down how creativity makes you feel. If you’re trying to spend more time with loved ones, write down how those relationships make you feel.
 
-5. Set a deadline: Giving yourself a deadline for achieving your goals will help you stay on track. For example, if your goal is to save $1,000 by the end of the year, make sure you have a plan for how you will save that money.
+## Make it a habit
 
-6. Take it one day at a time: Don’t get overwhelmed by thinking about all the changes you need to make in order to achieve your goals. Instead, focus on taking it one day at a time. Make small changes each day and eventually those changes will add up to big results.
+There are many common New Year’s resolutions with a focus on habit-building, like exercising more, eating healthier, reading more or learning new skills. Those are great to focus on, but they can also be overwhelming. It’s better to look at one habit at a time and make it a part of your daily routine. Once you have that down, you can add another habit. If you try to do too much at once, it’s likely you will burn out and give up. Starting small and building up slowly is a better way to go about it. If you’re trying to read more, don’t go from reading zero books a year to 12 books a month. Start with one book a month and build up from there. If you’re trying to eat healthier, start by making one small change — like switching from white bread to whole grain bread or drinking more water. Then add a second change, and so on. If you’re trying to exercise more, start with something low impact, like walking, and gradually increase the amount you do over time.
 
-7. Be flexible: Life is unpredictable and things don’t always go as planned. So, it’s important to be flexible with your goals. If you have a setback, don’t give up on your goals completely, just adjust your plan and keep going.
+## Celebrate small wins
 
-8. Reward yourself: As you achieve your goals, make sure to reward yourself for all your hard work. This will help motivate you to keep going and reach your ultimate goal.
+You’re bound to hit roadblocks along the way, and that’s perfectly normal. Try to celebrate small wins, even if they seem insignificant at the time. If you’re trying to read more, don’t get frustrated if you only read one book in a month. If you’re trying to eat healthier, don’t get discouraged if you only stick to your new eating habits for a week. If you’re trying to reduce stress and anxiety, don’t get discouraged if you feel like you’re not making progress. It takes time to change your habits, and you don’t want to throw in the towel too soon. Be patient and consistent, and those habits will become second nature.
 
-9. Don’t be too hard on yourself: If you have a slip-up or make a mistake, don’t beat yourself up about it. Everyone makes mistakes and it’s important to learn from them and move on.
+## Set realistic expectations
 
-10. Have fun: Making positive changes in your life doesn’t have to be all work and no play. Make sure to enjoy the process and have fun while working towards your goals.
+It’s important to set realistic expectations. If you’re trying to eat healthier, don’t expect to change your eating habits overnight. It takes time and patience to change your eating habits for the better. If you’re trying to exercise more, don’t expect to go from never exercising to training for a marathon. Start with walking or yoga and build up from there. If you’re trying to read more, don’t expect to read 12 books in a month. Start with one book a month and build up from there. If you’re trying to reduce stress and anxiety, don’t expect to change your habits overnight. These things take time, and the more consistent you are with your efforts, the better the results will be.
+
+## Don’t forget to breathe and be in the moment
+
+It’s easy to get caught up in pursuing your resolutions and forget to just be in the moment. If you’re trying to reduce stress and anxiety, don’t forget to be in the moment. If you’re trying to read more, don’t forget to be in the moment. If you’re trying to eat healthier, don’t forget to be in the moment. All three of those resolutions require you to be in the moment, and that’s the best way to reduce stress and anxiety. If you’re always thinking about what you need to do next and what you did yesterday, it’s easy to get stressed out and anxious. If you’re trying to spend more time with loved ones, don’t forget to be in the moment. Put your phone down and be there with your loved ones.
+
+## Commit to being better, not perfect
+
+This is especially important for resolutions that are more about self-awareness and personal growth. If you’re trying to reduce stress and anxiety, don’t try to be perfect. If you’re trying to read more, don’t try to be perfect. If you’re trying to help others more, don’t try to be perfect. If you’re trying to be more creative, don’t try to be perfect. You’ll only set yourself up for failure. Instead, commit to being better through daily and consistent effort. The results will be much better than if you try to be perfect. You’ll learn and grow as you go, and in the end, you’ll be better than you were before.
+
+## Don’t let fear sway your decisions
+
+Fear is normal, but it can also be paralyzing and hinder your progress. If you’re trying to reduce stress and anxiety, don’t let fear sway your decisions. If you’re trying to read more, don’t let fear sway your decisions. If you’re trying to eat healthier, don’t let fear sway your decisions. If you’re trying to help others more, don’t let fear sway your decisions. If you’re trying to be more creative, don’t let fear sway your decisions. If you’re pursuing any New Year’s resolutions, don’t let fear sway your decisions. Be confident in your decisions and know that the best way to reduce stress and anxiety is to be in the moment.
+
+## Conclusion
+
+The key to successfully sticking to your New Year’s resolutions is to make small but deliberate changes in everyday life that add up over time and become second nature. It’s important to be patient and consistent, and those habits will become a part of your daily routine. It’s also helpful to start small and build up slowly as it’s easier to build and maintain momentum when you start small. It’s important to note that not all New Year’s resolutions are created equal. Some are better suited to long-term change while others are better suited to

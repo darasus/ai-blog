@@ -1,14 +1,44 @@
 ---
 title: What are the steps of mediation?
 createdAt: 2022-07-09T06:15:49.018Z
-updatedAt: 2022-07-09T06:15:49.018Z
+updatedAt: 2022-07-16T15:50:23.921Z
 category: life
 ---
 
-Mediation is a process where two parties in conflict meet with a neutral third party, the mediator, to try to resolve their differences. The mediator helps the parties to communicate with each other and to explore options for resolving their dispute. Mediation is a voluntary process and can only take place if both parties agree to participate.
+## What Are The Steps of Mediation?
 
-The first step in mediation is for the parties to meet with the mediator. The mediator will explain the mediation process and answer any questions the parties have. The mediator will also help the parties to identify the issues in dispute and the interests of each party.
+Before conducting the mediation session(s), the mediator will usually meet with each party separately in order to help them prepare for the upcoming mediation session. During these pre-mediation meetings, the mediator will ask each party to share their perspective on the conflict, their goals and desired outcomes, and any concerns they may have. The mediator will also ask each party to share any possible solutions or ideas they have for resolving the conflict.
+The mediator will then work with each party to structure the mediation session(s) in a way that helps both sides work together productively to reach an agreement. The mediator may also ask the parties to share their ideas for how to structure the mediation and come to a mutually beneficial outcome. The parties can discuss the issues and concerns they have with each other, and the mediator can help guide the discussion and suggest ways the two sides might be able to settle on amicable terms that are mutually beneficial.
 
-The second step is for the parties to start communicating with each other. The mediator will help the parties to share information and to understand each other's point of view. The mediator will also help the parties to brainstorm options for resolving their dispute.
+## Holding the Mediation Session(s)
 
-The third step is for the parties to reach an agreement. The mediator will help the parties to negotiate an agreement that is acceptable to both sides. Once an agreement is reached, the mediator will prepare a written agreement for the parties to sign.
+The actual mediation session(s) occur when each party meets with the mediator(s) to discuss their concerns and attempt to reach an agreement. During these mediation session(s), the mediator(s) will usually help each party present their perspective, discuss the issues and concerns each side has, and try to reach an agreement that both parties can be happy with.
+The mediator(s) will typically conduct mediation session(s) in a neutral location such as a mediation center. The mediator(s) will also attempt to arrange the mediation session(s) so that both parties have enough time to discuss their concerns both thoroughly and comfortably.
+
+## Helping the Parties Discuss and Identify Issues
+
+As part of mediation, the mediator(s) will usually help the parties discuss the issues and concerns they have with each other. During this discussion, the mediator(s) will typically ask each party to share their perspective on the issues, express their feelings and concerns, and attempt to come to a mutual understanding of the issues they have. The mediator(s) can also help each party identify the issues and concerns they have by asking questions and facilitating a discussion that helps each side clearly express what they hope to achieve through mediation.
+The mediator(s) can use a variety of techniques and tools to help the parties discuss their issues and concerns, and come to an agreement. Some of these techniques and tools include active listening, asking questions, and brainstorming.
+
+## Helping the Parties Develop Mediation Strategies
+
+During mediation, the mediator(s) can help the parties develop mediation strategies, or plans for how to resolve their conflict. The mediator(s) can also help the parties develop strategies for how to work together to resolve their issues in the future.
+The mediator(s) can help the parties develop mediation strategies by focusing their discussion on potential solutions and encouraging the parties to brainstorm ways they might be able to resolve their conflict. The mediator(s) can also help the parties develop mediation strategies by identifying potential solutions that might help the parties resolve their conflict.
+The mediator(s) can also help the parties develop mediation strategies by asking them to consider the goals they have for the mediation session(s) and suggesting mediation strategies that might help them achieve those goals.
+
+## Helping the Parties Reach an Agreement During Mediation
+
+During mediation, the mediator(s) can help the parties come to an agreement. The mediator(s) can also help the parties reach an agreement by asking each party to share their ideas for how they might be able to resolve their conflict. Furthermore, the mediator(s) can also help the parties reach an agreement by exploring ways the two sides might be able to reach mutually beneficial terms that work for everyone involved.
+The mediator(s) can help the parties reach an agreement by discussing the issues and concerns the two sides have with each other, and suggesting ways the two sides might be able to work together to reach an agreement that benefits everyone involved. The mediator(s) can also help the parties reach an agreement by suggesting ways the two sides might be able to come to terms with each other and work together.
+
+## Conclusion
+
+At the end of the mediation session(s), the mediator(s) will usually help the parties agree on a written mediation agreement. The mediation agreement will detail the terms and conditions of the agreement reached by the two sides during mediation. If the parties agree to the mediation agreement, they will have come to a mutually beneficial outcome that is binding and enforceable in court.
+The mediation agreement will usually outline the issues the two sides resolved, the solutions they agreed to, and any other terms or conditions they agreed upon. The mediation agreement can also include information about how the parties will implement their solutions, such as the timeline they have in mind for implementing those solutions.
+
+## Conclusion
+
+At the end of the mediation session(s), the mediator(s) will usually help the parties agree on a written mediation agreement. The mediation agreement will detail the terms and conditions of the agreement reached by the two sides during mediation.
+The mediation agreement will usually outline the issues the two sides resolved, the solutions they agreed to, and any other terms or conditions they agreed upon. The mediation agreement can also include information about how the parties will implement their solutions, such as the timeline they have in mind for implementing those solutions.
+
+If the parties agree to the mediation agreement, they will have come to a mutually beneficial outcome that is binding and enforceable in court. The mediation agreement can be a great way for the two sides to work together constructively and resolve their differences while also moving towards a better future together.

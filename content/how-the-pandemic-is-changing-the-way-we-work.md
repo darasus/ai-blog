@@ -1,28 +1,41 @@
 ---
 title: How the pandemic is changing the way we work
 createdAt: 2022-07-07T06:05:40.183Z
-updatedAt: 2022-07-07T16:41:49.142Z
+updatedAt: 2022-07-16T14:52:07.243Z
 category: life
 ---
 
-The pandemic has forced many businesses to change the way they operate. Some companies have had to close their doors, while others have had to adapt to a new way of doing business. Here are some of the ways the pandemic is changing the way we work:
+## The Value of Time
 
-1. More businesses are going online.
+As a commodity, time is something we all have in equal measure. Yet one’s value of that time can vary greatly depending on the individual. Understanding how your employees value time at work can help you cultivate a culture that supports high performance and productivity without conforming to a one-size-fits-all model.
 
-With more people working from home, there is a greater need for businesses to have an online presence. This means that more businesses are investing in website development and online marketing.
+Analyzing your employees’ time-related attitudes and behaviors can help you identify areas for improvement. If you notice employees feeling frustrated with their ability to balance work and life responsibilities, for example, you may want to consider changes that allow for increased flexibility.
 
-2. There is a greater need for flexible working arrangements.
+## Working Remotely
 
-With more people working from home, there is a greater need for flexible working arrangements. This includes things like working from home, flexible hours, and remote working.
+When an office is quarantined, or a pandemic forces employees to take a leave of absence, virtual offices become an increasingly attractive option — especially for companies that rely heavily on remote workers.
+Not only does a virtual office allow for continuity of work, it also decreases the risk of employees bringing a virus home to their families.
+Remote workers have the option of working from home, or they could choose a coworking space where they can meet other virtual employees face-to-face.
+If you have a virtual office, you’ll want to make sure your employees are equipped with everything they need to do their jobs effectively. That may include access to company documents, collaboration tools, and a virtual private network, or VPN, to enable secure remote access to company systems and data.
 
-3. There is a greater need for communication and collaboration tools.
+## Collaboration, Culture, and Wellness
 
-With more people working from home, there is a greater need for communication and collaboration tools. This includes things like video conferencing, instant messaging, and project management software.
+Collaboration, culture, and wellness are all critical components of effective pandemic preparedness. Working together to solve problems and share knowledge, for example, can help your team avoid mistakes and quickly identify areas for improvement.
+Connecting with your employees on a personal level can help you foster a culture rooted in mutual trust and respect. Trust is critical when handling work with sensitive or confidential information — especially during a pandemic, when you’ll need to be especially mindful of data security.
+For many people, pandemic flu can be a very real health concern. While you can’t completely eliminate the risk of infection for your employees, you can take steps to help them stay healthy by encouraging healthy habits and lifestyles.
 
-4. There is a greater need for security measures.
+## Flexibility and Employee Rewards
 
-With more people working from home, there is a greater need for security measures. This includes things like password protection, data encryption, and firewalls.
+Depending on the pandemic’s severity, you may find that employees are reluctant to take leave. In such situations, you may need to offer them a choice between paid sick leave and a more flexible work arrangement.
+Employees who feel they’re being asked to work when they’re not 100% healthy are more likely to infect others. That’s why it’s so important to enforce strict sick leave policies.
+When your pandemic flu crisis comes to an end, you may find that some employees are reluctant to return to work, even if they’re feeling healthy again. In these situations, you’ll want to explore creative options for rewarding employees for their flexibility during the crisis.
 
-5. There is a greater need for employee training.
+## Company-Wide Pandemic Preparedness Strategies
 
-With more people working from home, there is a greater need for employee training. This includes things like online courses, webinars, and e-learning modules.
+Company-wide pandemic preparedness strategies are critical for protecting your business during a pandemic outbreak. You’ll want to develop a communication strategy that clearly outlines your pandemic preparedness procedures for employees and customers alike.
+Depending on the severity of the pandemic, you may need to close your business temporarily or implement a virtual shutdown. In these situations, you’ll also want to consider developing a contingency plan to protect your company against pandemic litigation.
+
+## Final Thoughts
+
+When it comes to pandemic flu, it’s important to stay informed and take the necessary precautions. Seek out medical advice to determine if you should be vaccinated against the virus, and be sure to wear a respirator mask if you are in a high-risk situation.
+Keep in mind that while pandemic flu should be taken seriously, it’s not a death sentence. With proper preparation and a few healthy habits, you can avoid contracting the virus and stay healthy through even the worst pandemic outbreaks.

@@ -1,26 +1,48 @@
 ---
 title: The Top 10 Most Iconic Cat Photos of All Time
 createdAt: 2022-07-09T06:12:29.871Z
-updatedAt: 2022-07-09T06:12:29.871Z
+updatedAt: 2022-07-16T15:48:14.364Z
 category: life
 ---
 
-1. The Top 10 Most Iconic Cat Photos of All Time
+## With that being said, we wanted to take a moment today to pay homage to the kitty-world by taking a look back at some of the most iconic cat photos in history.
 
-2. From the famous "Grumpy Cat" to the adorable "Lil Bub", these are the top 10 most iconic cat photos of all time.
+## Meet Smashing, The Photo Shaking Cat
 
-3. Grumpy Cat: This grouchy-looking feline shot to fame after her photo was posted on Reddit in 2012. Since then, she's become a global phenomenon, starring in her own TV movie and appearing on countless talk shows.
+We kick off the list with this classic image of the famous Smashing photographer, Yves St. Laurent. This feline photo-bomb has been making a splash for decades, and is still shared on social media today. It’s amazing how a simple photo can loom so large in the minds of so many!
 
-4. Lil Bub: This lovable little cat shot to fame in 2012 after her owner started posting photos of her online. She's since become a global sensation, appearing on TV shows and in magazines all over the world.
+## A Small Step For Man…But A Giant Leap For Cats
 
-5. Nyan Cat: This pop culture icon is a cat that flies through space, leaving a rainbow trail behind it. The original video of Nyan Cat went viral in 2011 and has been watched over 100 million times.
+This image, which was taken aboard the USS Hornet ship during the launch of the Gemini 2 mission, has been the subject of wild speculation and conspiracy theories since it was first published in 1972. While it is now widely accepted that the photographer was taking a picture of his shipmate in a spacesuit, many have suggested that the suited figure is actually a cat. Why? Well, it’s probably because the cat is more popular than the spacesuit! It’s a great photograph, and it has left a lasting impression on the world.
 
-6. Maru: Maru is a Japanese cat who shot to fame in 2008 after a series of videos of him playing in boxes went viral. He's since appeared in numerous TV shows and commercials in Japan and has even written a book!
+## Will The Real Mr. Bigglesworth Please Stand Up?
 
-7. Colonel Meow: Colonel Meow was a Himalayan-Persian crossbreed cat who shot to fame in 2013 after photos of him went viral. He held the Guinness World Record for longest fur on a cat at 9.5 inches and sadly passed away in 2014.
+This photo, which was taken outside the home of the actor John Cleese, is often accompanied by a caption asking the reader to guess the name of the famous feline depicted in the photo. It’s a great photo, and it features Mr. Bigglesworth, the feline companion of the iconic cartoon cat, Garfield. In fact, the photograph was taken during a time when Mr. Bigglesworth was still a kitten.
 
-8. Hamilton the Hipster Cat: Hamilton is a tabby cat who became an internet sensation in 2014 after photos of him sporting a variety of hipster-esque outfits went viral. He has his own book and merchandise line and even has his own line of pet food!
+## When Puss N’ Boots Took Over The World
 
-9. Keyboard Cat: Keyboard Cat is a pop culture icon who first shot to fame in 2007 after a video of him "playing" the keyboard went viral. He's since appeared in numerous commercials and TV shows and even has his own line of merchandise.
+This whimsical black-and-white image may look like it was taken from the pages of a children’s book, but it was actually taken during the production of the first ever James Bond film, Dr. No. The photograph shows a stray tomcat named Tinker who was brought on set as a companion for Sean Connery’s Bond character. While the cat’s fur was shaved off so that he could be painted with blue paint to resemble a black panther, Puss N’ Boots went on to leave a very paw-print on the world!
 
-10. Monty: Monty is a British Shorthair cat who became an internet sensation in 2016 after photos of him went viral. He has his own line of merchandise and even has his own book!
+## Think Pink: Kitty Shakes Its Tail Feathers In Celebration
+
+This iconic photograph is often used as a symbol for the LGBTQI community, and it was taken during a celebration held in San Francisco’s Castro district after the announcement that the AIDS virus could not be spread through casual contact. It’s a fantastic image that has been reprinted on posters and T-shirts around the world. It’s definitely a great example of how a single photograph can be used to make a statement.
+
+## Garfield Is Everywhere (and That’s A Good Thing)
+
+This image depicts the moment when the cartoon character Garfield’s eyes were first drawn. While the photo is nothing more than a scribbled outline of a cat’s face, it is still one of the most famous cat photos in history. We love Garfield as much as anyone, but this photograph does raise an interesting point. Cats are such mysterious creatures that a photograph of a scribble can become an iconic image!
+
+## Kitten On Fire: You Can Never Forget Your First Burn
+
+This image has been shared across the internet many times over, and for good reason. It shows a kitten who is blissfully unaware of the smoke surrounding him as he lies on a piece of smoldering fabric. While it is cute to look at this kitten, it is important to remember that the fabric could cause severe burns. Many have been inspired to learn first aid techniques as a result of this photo.
+
+## Meow-chy Baby: Hello Kitty Grows Up
+
+This image shows the iconic Hello Kitty with a newly mature appearance. It was taken at a special Hello Kitty event in Japan that featured many of the franchise’s characters as they appeared in the past, present, and future. It’s a huge photo that shows the power of Hello Kitty, and it goes to show that a single image can have a massive impact on the world!
+
+## Final Words
+
+We hope that you’ve enjoyed reading through our list of the top 10 most iconic cat photos of all time. As you can see, a lot of these photos were taken during very significant moments in history, which really goes to show how a single image can become a lasting symbol for all time.
+
+And remember, even if you haven’t yet snapped a picture as iconic as these, you never know who or what it might be! If you’re a cat owner, then you’re definitely in prime position to take the next great cat photo.
+
+So get snapping, and who knows? Your cat photo could be the next one on the top 10 list!

@@ -1,30 +1,43 @@
 ---
 title: How to deal with a partner who's always travelling
 createdAt: 2022-07-08T06:24:20.904Z
-updatedAt: 2022-07-08T06:24:20.904Z
+updatedAt: 2022-07-16T15:11:41.192Z
 category: life
 ---
 
-If your partner is always traveling, it can be tough to feel like you're a part of their life. You may feel left out, like you're not a priority, or like you're always playing second fiddle to their job. But there are ways to deal with a partner who's always traveling and keep your relationship strong.
+## Communicate Often
 
-Here are some tips:
+One of the most important things when dating someone who frequently travels is communication. You have to be able to talk honestly and openly with your partner — otherwise, you’ll have no idea how they feel or what they need from you.
 
-1. Communicate.
+If you’re not comfortable having these types of conversations with your partner, you might be in for a difficult time. It can be tempting to avoid talking about the issue entirely, but it’s ultimately the best way to make things more difficult.
 
-Talk to your partner about how you're feeling and what you need from them. If they're always traveling, they may not even realize how much you're struggling. Be honest and open about your feelings and needs, and work together to find a solution that works for both of you.
+Communicate how you feel about their travel and ask how they feel about it. You might be surprised to find that your partner has been feeling just as frustrated as you have about it.
 
-2. Stay connected.
+## Focus On What You Have, Not What You Don’t
 
-Just because your partner is always on the go doesn't mean you can't stay connected. Make an effort to stay in touch, whether it's through text, email, video chat, or social media. If you can't be in the same place physically, you can still be in the same place emotionally.
+When you’re in a committed relationship, it’s easy to get caught up in what you don’t have. You might think about how your partner isn’t around to do things with you or how you don’t get to spend as much time with them as you’d like.
+When you start to focus on what you don’t have, it can make you feel a lot of resentment towards your partner. It can be easy to blame your partner for being gone so often, but it only leads to trouble.
+Instead of dwelling on what you don’t have, focus on what you do have. Think about the good times you’ve had with your partner or the things that make your relationship strong. You might even want to write down a list of gratitude to help you focus on what you do have.
 
-3. Make time for yourself.
+## Plan Discreet Dates
 
-It's important to remember that you're an individual with your own needs and wants, even if your partner is always traveling. Make sure to schedule time for yourself, whether it's going for a walk, taking a yoga class, or reading a book. Taking care of yourself will make it easier to deal with a partner who's always on the go.
+When you’re dating someone who travels often, you don’t get to spend as much time with them as you’d like. It can be hard to feel like you have time to get to know each other properly, let alone have any kind of romance.
+If you want to keep your relationship strong through those periods of time when you don’t get to see each other, you have to plan discreet dates. Make sure you plan them in a way that both of you can be discreet about it. Otherwise, your partner might get teased by their coworkers.
 
-4. Find things to do together.
+## Don’t Assume The Worst
 
-Even if your partner is always traveling, there are still things you can do together. Plan ahead and find things to do that you can both enjoy, even if it's just talking on the phone or watching a movie at the same time. Just because you're not in the same place doesn't mean you can't share experiences.
+For some people, dating someone who travels frequently will feel like you’re always waiting for them to leave. You might think that your partner is always on the verge of leaving you for another job — or for another person.
+Don’t assume the worst about your partner. Only a very small number of people in long-distance relationships cheat on their partners.
+It’s important to keep in mind that your partner isn’t leaving you for someone else. They’re just trying to make a living for both of you.
 
-5. Be patient.
+## Ask Your Partner What Makes Them Feel Loved
 
-It can be tough when your partner is always on the go, but it's important to be patient. They may not be able to be there for every little thing, but they still care about you and want to make things work. Give them the space they need to do their job, and trust that they'll come back to you when they can.
+You know your partner better than anyone else. But you also need to remember that your partner knows you better than anyone else, too. If you’re wondering how to make your partner feel loved while they’re away, ask them.
+Try to put yourself in your partner’s shoes. Think about what they might need from you while they’re away that you could provide.
+If you want to make your partner feel loved while they’re away, you have to ask them what they need.
+
+## Bottom Line
+
+There are some challenges to dating someone who travels frequently. They’re usually far outweighed by the benefits of being with them, though.
+If you want to be with someone who travels for work, you have to be willing to accept that it will be a big part of their life. You can’t expect your partner to completely stop travelling just because you want them to.
+If you can accept that, you can find a way to make it work and have a stronger, more meaningful relationship when your partner comes home.

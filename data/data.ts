@@ -12,9 +12,9 @@ import { productivity } from "./categories/productivity";
 import { technology } from "./categories/technology";
 
 export const data = {
-  cooking: [...new Set(cooking)],
+  // cooking: [...new Set(cooking)],
   // politics: [...new Set(politics)],
-  // life: [...new Set(life)],
+  life: [...new Set(life)],
   // coding: [...new Set(coding)],
   // business: [...new Set(business)],
   // investing: [...new Set(investing)],

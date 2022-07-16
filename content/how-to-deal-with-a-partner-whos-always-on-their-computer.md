@@ -1,16 +1,42 @@
 ---
 title: How to deal with a partner who's always on their computer
 createdAt: 2022-07-08T06:24:36.082Z
-updatedAt: 2022-07-08T06:24:36.082Z
+updatedAt: 2022-07-16T15:13:06.003Z
 category: life
 ---
 
-It can be difficult to deal with a partner who's always on their computer, especially if you feel like you're being ignored. Here are a few tips to help you deal with the situation:
+## Communicate with your partner
 
-1. Talk to your partner about how you're feeling. It's important to communicate your feelings to your partner so they can understand how their behavior is affecting you.
+Sometimes, feelings of resentment can be misdirected and lead to feelings of jealousy. If your partner just happened to be spending a lot of time on their computer, it could be that they’re into something really interesting. They could also just be trying to catch up on some work they need to do since they’ve been so busy.
+If you’re feeling jealous and are unsure of why your partner is always on the computer, try communicating with them. Ask them what they’ve been up to and see if they’re willing to open up to you.
 
-2. Try to find common ground. If you can find activities that you both enjoy, it will help you to connect with your partner on a deeper level.
+## Go out without them
 
-3. Be patient. It takes time to build trust and intimacy, so don't expect things to change overnight.
+It’s possible that your partner is just trying to catch up on work that they’ve been putting off. If they’ve been spending their nights on the computer and not with you, it could be that they’re just trying to finish something off or get caught up on a project.
+You can try going out without your partner. It doesn’t have to be a date night or anything like that. Just see if you can spend some time together outside of the house.
+If you’re worried about your partner being upset that you went out without them, it can be a good idea to be upfront and honest with them. Tell them that you want some time with them and see if they’re willing to take a night off.
 
-4. Seek professional help if needed. If you're struggling to communicate with your partner, or if the situation is causing you distress, it may be helpful to seek professional counseling.
+## Set boundaries and make agreements
+
+It can be a good idea to sit down and talk to your partner about how much time they spend on their computer.
+You can set boundaries with your partner. For example, if you both work full-time and have young children, you may want to come to an agreement about how much time they spend on their computer. It can be easy to get lost in the world of technology and lose track of time, so this can be a helpful way to avoid resentment and misunderstandings.
+
+## Try resolving the issue together
+
+If you and your partner are open and honest with each other, you may be able to resolve the issue and come up with a solution together.
+
+If you’re feeling jealous or resentful about the time your partner spends on the computer, try talking to them about it. You may be able to resolve the issue and find a solution. Alternatively, you could also try asking them for help with something you’re working on as well. Perhaps you have a project that’s due soon or you need advice on something. If your partner is always on the computer, they may be able to help you out.
+
+## Break up if it doesn’t work out
+
+It’s never easy to break up with a partner, but it may be necessary if the two of you just aren’t a good fit. This can especially be the case if one of you always spends time on their computer to the detriment of the relationship between you two.
+
+If you’ve tried to talk to your partner about how much time they spend on their computer and it’s not working out, it might be time to break up with them.
+
+You don’t want to be in a relationship that causes you pain and stress. You deserve to be happy and have a partner who makes you feel good about yourself. If your partner is always on the computer to the detriment of your relationship, you may need to say goodbye.
+
+## Conclusion
+
+Your partner may just be interested in different things than you are. And that’s okay! As long as they’re not spending all of their time on their computer and ignoring you, there’s no reason to get jealous or upset about it.
+
+However, it can be good for a relationship to have some balance. It’s important to spend time with your partner, but it’s also important to make time for yourself as well. It can be easy to get lost in a relationship, so make sure to set aside some time for yourself each day.

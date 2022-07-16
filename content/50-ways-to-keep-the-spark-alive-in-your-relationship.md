@@ -1,66 +1,58 @@
 ---
 title: 50 ways to keep the spark alive in your relationship
 createdAt: 2022-07-08T06:22:45.690Z
-updatedAt: 2022-07-08T06:22:45.690Z
+updatedAt: 2022-07-16T15:05:36.542Z
 category: life
 ---
 
-1. Talk to each other every day, even if it’s just for a few minutes.
+## Go on a Date
 
-2. Make time for each other, even if it’s just a few hours a week.
+You might have heard this one before, but it’s for a good reason: dates are great for bringing the romance back into your relationship. If you’ve been together for years, you might have gotten into the habit of meeting for dinner every night – but that can get pretty old, pretty fast.
 
-3. Do things together, even if it’s just running errands or taking a walk.
+Try to mix things up. Maybe you order in, or go to a casual restaurant. Or, throw a dinner party at home by inviting your partner’s closest friends along. Another option is to go on an adventure together: try rock climbing, or skydiving, or even go on a hike in the wilderness. You’ll both have fun, and you’ll have something to remember for a lifetime.
 
-4. Touch each other, even if it’s just a hug or holding hands.
+## Communicate, Communicate, Communicate
 
-5. Look into each other’s eyes, even if it’s just for a few seconds.
+If there’s one thing all couples have in common, it’s the need for more communication. And while this is something that’s often talked about, it’s rarely ever followed through with. You’ll get nowhere if you’re not honest with your partner about how you’re feeling. Even if you’re not in a serious romantic relationship, communication is key to any relationship – romantic or not. If you aren’t communicating your feelings, thoughts, or desires, how does your partner know what you need? How does your partner know how you are feeling? It can be scary, but you’ll both feel a lot less stressed if you’re open and honest with each other.
 
-6. Listen to each other, even if you’ve heard the story before.
+## Reconnect With Your Partner’s Language
 
-7. Encourage each other, even when things are tough.
+We all have our little idiosyncrasies. Things that make us who we are, and things that make us feel connected to those around us. It’s a good idea to keep in mind what your partner’s little quirks are, so you can use them to bring you closer together. For example: maybe your partner always drinks their coffee black. If so, you could always join them for a cup.
 
-8. Compliment each other, even if it’s just something small.
+Or, maybe your partner always leaves the lights on when they leave the room. If so, you could always follow suit. Little things like these can help you reconnect with your partner’s language. And when you come together with your partner, you can use your own quirks to connect with theirs.
 
-9. Smile at each other, even when you’re feeling down.
+## Surprise Each Other
 
-10. Laugh with each other, even when the joke isn’t that funny.
+Some couples get into a rut where they are expected to be the ones bringing gifts, flowers or do other romantic gestures. It’s easy to fall into this trap – and even easier to get out of it. Try surprising your partner with a small gift – even something as simple as a card with a special message inside – or doing something thoughtful to help relieve their stress. Gift cards are appropriate in many situations, but you can also be creative and thoughtful with your ideas.
 
-11. Be there for each other, even when you’re busy with other things.
+If your partner is stressed with work, try picking up their groceries for them, or washing their car. If your partner is stressed with school, try bringing them coffee in the morning on the way to the bus stop, or pack them a lunch. There are lots of ways to surprise your partner and it is an excellent way to stay connected while not spending a lot of money.
 
-12. Appreciate each other, even when things are going well.
+## Go On A Trip Together
 
-13. Respect each other, even when you don’t agree with each other.
+This is one of the best ways to keep the romance alive and reignite the passion you shared early in your relationship. Planning a trip for you and your partner doesn’t have to be hard – you can go almost anywhere. Whether it’s a weekend getaway, or a trip to another city, a vacation brings you together as a couple and gives you something to look forward to.
 
-14. Support each other, even when you’re going through tough times.
+There are many ways to plan a trip, but you should start by determining your budget. From there, you can begin to plan. You can use a travel website to help plan your trip or even check out a travel book from the library. After determining your budget, you can begin to narrow down locations and activities that fit into your budget.
 
-15. Trust each other, even when it’s hard to do so.
+## Take Care Of Yourself
 
-16. Be honest with each other, even when it hurts.
+One of the easiest ways to keep the spark alive is by taking care of yourself. You should always be taking care of yourself, regardless of your relationship status, but it’s especially important once you’re in a romantic relationship. Take time for yourself – whether that’s going for a walk, seeing a therapist, or taking up a new hobby, you both need and deserve it.
 
-17. Forgive each other, even when it’s difficult to do so.
+If you’ve been neglecting yourself, it will show in your relationship. Taking care of yourself allows you to be an even better partner to your significant other. You don’t have to do anything fancy; just commit to taking care of your mental, physical, and emotional health.
 
-18. Say “I love you” often, even if it’s just in a text or email.
+## Add New Activities To Your Routine Together
 
-19. Show your love in small ways, even if it’s just picking up their favorite coffee or doing the dishes for them.
+One of the best ways to keep the spark alive in your relationship is to mix things up. Try adding new activities to your routine with your partner. Whether it’s going to a concert together, or taking up a new sport, getting out and doing new things as a couple will help you stay connected to one another. It’s easy to fall into a routine when you’ve been in a relationship for a while. You both might have a lot of other responsibilities that take up your time, but don’t let them get in the way of enjoying your relationship.
 
-20. Do something special for your partner on a regular basis, even if it’s just making them breakfast in bed or taking them out for dinner.
+Find ways to incorporate new activities into your routine together. Even if it’s just going to the library together or taking a walk around the block every night, new activities can help you stay connected and keep the spark alive in your relationship.
 
-21. Get away together on a regular basis, even if it’s just for a weekend or a day trip.
+## Watch Movies Or Shows That Resonate With Your Relationship Together
 
-22. Make sure to have regular date nights, even if you have to schedule them in advance.
+There are plenty of movies and shows out there that have themes that resonate with relationships. Why not watch them together and talk about what they represent for you and your partner? It’s a great way to open the discussion and get things flowing between you.
 
-23. Plan special occasions together, even if it’s just your anniversary or Valentine’s Day.
+Some movies and shows couples might want to watch together include: Titanic, The Notebook, Jerry McGuire, Love Actually, Dirty Dancing, Sleepless in Seattle, When Harry Met Sally, Pride and Prejudice, and An Affair to Remember.
 
-24. Take turns planning surprises for each other, even if they’re small ones like flowers or tickets to a show.
+## Ask For What You Want And Need From Your Partner
 
-25. Talk about your dreams and goals with each other, even if they seem far-fetched or unattainable.
+Finally, one of the best ways to keep the spark alive in your relationship is to ask for what you want and need from your partner. It’s easy to get comfortable in a relationship and to forget to ask for what you want. You might need your partner to spend more time with you, or you might want them to help out around the house more. Whatever it is, don’t be afraid to open the discussion up and ask for what you want.
 
-26. Encourage each other to pursue their dreams and goals, even if they seem impossible at times.
-
-27. Help each other out when you can, even if it’s just with household chores or errands.
-
-28. Be there for each other during tough times, even if you can’t fix the problem yourself.
-
-29. Comfort each other when you’re feeling down, even if you don’t have the words to say.
-
-30. Pray for each other and with each other regularly, even if you don’t consider yourselves religious people.
+Your partner will appreciate being asked for what you need, and you’ll both feel more connected as a result. It’s also a good way to start the conversation about any problems or issues you might be having in the relationship.

@@ -1,22 +1,41 @@
 ---
 title: How to Train Your Dog to Drop It
 createdAt: 2022-07-08T06:25:54.750Z
-updatedAt: 2022-07-08T06:25:54.750Z
+updatedAt: 2022-07-16T15:18:09.159Z
 category: life
 ---
 
-One of the most important commands you can teach your dog is “drop it.” This command can help prevent your dog from getting into trouble and can be used in emergency situations. Here are some tips on how to train your dog to drop it.
+## Step 1: Get your dog comfortable with the ‘drop’ command
 
-The first step is to get your dog’s attention. You can do this by calling his name or using a treat. Once you have his attention, hold a treat in your hand and say “drop it.” When he drops the treat, praise him and give him the treat.
+Like with any other trick, your dog needs to be comfortable with the basic command before they can learn to apply it to anything else. This means that you’ll need to start by rewarding your dog for complying with the ‘drop’ command and then slowly ramp it up. This will take some time and patience but is the only way to make it worth your dog’s while.
 
-If your dog doesn’t drop the treat, you can try holding it closer to his nose or moving it away from his nose. You can also try using a different word such as “leave it” or “let go.”
+Start by rewarding your dog for complying with the ‘drop’ command when they’re simply sitting at your side. You can also help things along a bit by gently pulling on their leash and bringing them closer to whatever you want them to drop. Once you’ve got that down, slowly work your way up to rewarding your dog for dropping things from their mouth. Make sure you reward your dog for compliance with the ‘drop’ command regardless of what they’re dropping.
 
-Once your dog is consistently dropping the treat when you say “drop it,” you can start adding in other objects such as a toy or a ball. Again, hold the object in your hand and say “drop it.” When he drops the object, praise him and give him a treat.
+## Step 2: Lay a drop cloth and train with treats
 
-If your dog is having trouble dropping the object, you can try using a different word such as “leave it” or “let go.” You can also try holding the object closer to his nose or moving it away from his nose.
+Once you’ve got the basics of the ‘drop’ command down, you can start to make things a bit more interesting. Start by feeding your dog their normal food while they’re in a sitting position. Then, once they’re done eating, ask them to drop the food from their mouth on a drop cloth. You can even use a clicker to help you mark the exact moment your dog drops their food.
+Once your dog is comfortable dropping food from their mouth, you can start to feed them treats and wait for them to drop them from their mouth on a drop cloth. The process might take a bit longer with treats, but it will help you to avoid a mess in the short term.
+Once your dog is comfortable dropping food and treats from their mouth, they’re ready to move on to something a bit more interesting.
 
-Once your dog is consistently dropping objects when you say “drop it,” you can start adding in different objects such as a toy or a ball. Again, hold the object in your hand and say “drop it.” When he drops the object, praise him and give him a treat.
+## Step 3: Once your dog is comfortable, switch to using a clicker
 
-If your dog is having trouble dropping the object, you can try using a different word such as “leave it” or “let go.” You can also try holding the object closer to his nose or moving it away from his nose.
+While you can use both treats and a clicker to help train your dog to drop things, they work in very different ways. If you’ve been training your dog with treats, you’ll want to switch to a clicker at this point.
+Once your dog is comfortable dropping things from their mouth, you can begin to use your clicker to mark the exact moment they drop something. You can either do this as soon as it leaves their mouth or wait for it to hit the drop cloth.
+Once you’ve begun to click when your dog drops things, you can start to ignore them for a moment. Then, once they’ve realized that nothing is happening after dropping the item, you can begin rewarding them again.
+Once your dog is comfortable with the clicker, you can start to mix things up a bit. Start by rewarding your dog for dropping something and then waiting for them to try and pick it up again.
 
-You can also try using a different word such as “leave it” or “let go.” You can also try holding the object closer to his nose or moving it away from his nose.
+## Step 4: Practice with non-food rewards
+
+At this point, you’ll want to begin rewarding your dog with non-food treats. This will help you to reinforce the action of dropping things and make your dog a bit more interested in what they’re being rewarded with.
+Once your dog is comfortable dropping things with non-food rewards, you can begin to vary when you reward your dog. For example, you can reward them when they drop the item and when they leave it alone after dropping it.
+Once you’ve gotten to this point, you can begin to mix things up a bit. This can start by rewarding your dog for dropping things from close by and then walking away. Or, it can start by rewarding your dog for dropping things from further and further away.
+
+## Step 5: Train your dog to drop things on cue regardless of distraction
+
+Now, you’ll want to make sure your dog truly understands the trick and isn’t just waiting for you to reward them. To do this, you’ll want to start by rewarding your dog for dropping things on cue regardless of distance. Then, you’ll want to start rewarding them for dropping things on cue regardless of where they are in relation to you.
+Once you’ve gotten to this point, you can start to mix things up a bit. For example, you can reward your dog for dropping things from one location and then instruct them to go pick the things up from another location. Or, you can reward your dog for dropping things from several different locations before instructing them to pick them all back up again.
+
+## Conclusion
+
+When you train your dog to drop things, it means that they’re less likely to swallow small items or damage their teeth and gums by chewing on items. It can also make visits to the vet a lot easier as well by allowing your dog to drop a toy or something else when they get stressed out.
+There is so much you can teach your dog, but if you start with the basics, you are setting them up for success. The only way to do this is to be patient and consistent with your training.

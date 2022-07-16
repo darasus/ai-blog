@@ -1,26 +1,33 @@
 ---
 title: How to deal with envy in relationships
 createdAt: 2022-07-08T06:22:56.401Z
-updatedAt: 2022-07-08T06:22:56.401Z
+updatedAt: 2022-07-16T15:06:12.178Z
 category: life
 ---
 
-It's normal to feel a twinge of envy when you see a couple that seems happier than you are. But if you find yourself feeling envious more often than not, it could be a sign that your relationship isn't as strong as it could be.
+## What Is Envy?
 
-Here are some tips for dealing with envy in relationships:
+Envy is when a person feels discontent or resentful because another person has what they want. This can include the actions, possessions or outcomes of the other person. Envy is one of the seven deadly sins, along with greed, lust, sloth, pride, gluttony and anger.
+Envy can arise from a variety of situations. For example, you might envy your partner’s ability to fit into their jeans from high school, parent-free time, or financial situation. You could also envy a friend’s relationship, career trajectory or living situation.
+Envy is an unfortunate reality for most people at some point. However, it doesn’t have to be something that negatively affects your relationships.
 
-1. Talk to your partner about what you're feeling.
+## How To Deal With Envy
 
-If you're feeling envious of another couple, talk to your partner about it. They may be able to help you understand why you're feeling that way and what you can do to change it.
+There are a few ways that you can deal with envy in your relationship. The first step is to identify what it is that you’re actually feeling. Jot down whatever comes to mind. Once you’ve identified the source of your envy, you can then decide what action you want to take.
+Envy can be a good thing because it can show you what you want in your life. Use it as a catalyst to change something in your life. If you envy your partner’s carefree attitude, you might want to go back to school to get a degree in something you’ve always wanted to study. You might envy your friend’s financial situation, and decide to research ways to increase your income.
+Envy is mostly harmful if it’s not dealt with. It can lead to resentment, which can then lead to a break up.
 
-2. Don't compare your relationship to others.
+## What To Do When Your Partner Is The Cause Of Your Envy
 
-Every relationship is different, so it's unfair to compare yours to someone else's. Instead, focus on the positive aspects of your own relationship.
+If your partner is the cause of your envy, there are a few things that you should do. First, identify what it is that you envy about them. Next, find out if your partner is aware of what you’re feeling. If they don’t seem to know, then you should talk to them about it.
+Being honest with your partner about what you’re feeling can help take the sting out of the situation. It can be a good way to show them that you trust them enough to share your feelings with them.
+Envy can sometimes be a good thing. It can be a sign that you admire something about your partner and want to possess that trait in yourself.
 
-3. Be honest with yourself.
+## What To Do When You’re The Cause Of Someone Else’s Envy
 
-Envy is often a sign that something is lacking in your own relationship. Be honest with yourself about what that is and try to work on it.
+If you’re the cause of your partner’s envy, the best thing to do is to let them know. You can’t read your partner’s mind, so they may not be consciously aware of what you’re feeling. You can approach the situation in a few different ways.
+You could let your partner know that you notice what they envy about you. You could also ask them if they’re feeling envious. You can ask open-ended questions to help them to identify what it is that they want.
 
-4. Don't let envy ruin your relationship.
+## Conclusion
 
-If you find that envy is starting to damage your relationship, it's time to take a step back and reassess things. Talk to your partner and see if there's anything you can do to change the way you're feeling.
+Being in a relationship is an emotional rollercoaster. You’ll experience a wide range of emotions, and envy is one of them. Envy can be a natural part of relationships, but it’s important to recognize when you’re feeling envious and what you can do to manage that feeling. If you’re experiencing feelings of envy, don’t let it ruin your relationship. There are ways to deal with it so that it doesn’t get the best of you.
