@@ -34,7 +34,7 @@ export class Writesonic {
           .catch((error) => {
             console.log("Error generating intro: ", error);
           }),
-      365
+      3650
     );
 
   private generateOutlines = async ({
@@ -57,7 +57,7 @@ export class Writesonic {
           .catch((error) => {
             console.log("Error generating outlines: ", error);
           }),
-      365
+      3650
     );
 
   private generateContent = async ({
@@ -82,7 +82,7 @@ export class Writesonic {
           .catch((error) => {
             console.log("Error generating article: ", error);
           }),
-      365
+      3650
     );
 
   public generateArticle = async ({
