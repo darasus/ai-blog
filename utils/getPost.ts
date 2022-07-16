@@ -19,6 +19,6 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
     updatedAt: data.updatedAt.toDateString(),
     category: data.category,
     slug: filePath.replace(/\.mdx?$/, ""),
-    description: `${content.trim().slice(0, 400)}...`,
+    description: `${content.replaceAll("#", "").trim().slice(0, 400)}...`,
   };
 };
