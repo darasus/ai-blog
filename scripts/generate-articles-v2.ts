@@ -67,7 +67,7 @@ async function main() {
     promises.push(promise);
   }
 
-  await allConcurrent(10, promises);
+  await allConcurrent(5, promises);
 
   spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
   spinner.stopAndPersist();

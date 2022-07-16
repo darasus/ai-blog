@@ -1,36 +1,51 @@
 ---
 title: How to Overcome Procrastination and Boost Productivity
 createdAt: 2022-07-07T16:43:12.872Z
-updatedAt: 2022-07-07T16:43:12.872Z
+updatedAt: 2022-07-16T15:56:54.473Z
 category: business
 ---
 
-If you're like most people, you have probably experienced the frustration of procrastination. It's that feeling of wanting to do something, but not being able to get yourself to do it. Procrastination can be a major obstacle to productivity and can lead to missed deadlines, unfinished projects, and a general sense of dissatisfaction.
+## The Procrastination Equation
 
-There are a number of reasons why people procrastinate, including fear of failure, perfectionism, and a lack of motivation. But whatever the reason, there are ways to overcome procrastination and boost your productivity.
+There are two sides to every equation, so let’s start with the positive one. TPD or Time Preference refers to the degree to which you value your time. The higher your time preference is, the more you value your time and are willing to spend it on activities that bring you closer to your goals. It also means that you don’t like spending your time on activities that don’t bring you any value.
 
-Here are some tips:
+The other side of the equation is EAP or the Expected Appreciation of Productivity. It refers to the degree to which you appreciate the benefits of your productivity. When EAP is high, you’re motivated to get things done, when it’s low, you just sit and do nothing.
 
-1. Define your goal.
+## What Causes Procrastination?
 
-When you're feeling overwhelmed by a project or task, it can be helpful to take a step back and define your goal. What is it that you want to achieve? Once you have a clear goal in mind, you can break it down into smaller, more manageable steps.
+There are many potential causes of procrastination, but they all come down to two things:
 
-2. Set a deadline.
+- A bad feeling.
+- A bad promise.
 
-One of the best ways to overcome procrastination is to set a deadline. Having a specific date by which you need to complete a task can help you focus and get it done.
+The bad feeling is a sense of discomfort that you experience while working on a task that you don’t really want to do. The bad promise is the promise you make to yourself that you’ll do something you really don’t want.
 
-3. Make a plan.
+The formula for procrastination is pretty simple: the less you want to do something, the more you promise yourself to do it. When the bad feeling of doing something outweighs the bad promise you’re making to yourself, you feel so uncomfortable you just can’t continue working.
 
-Once you know what your goal is and when you need to achieve it, you can make a plan of action. What steps do you need to take to reach your goal? Write them down and then take each one, one at a time.
+## How To Overcome Procrastination?
 
-4. Take action.
+The first step in overcoming procrastination is to accept that it’s normal and that everybody does it.
+The second step is to address the underlying causes of your procrastination.
+You can do that by doing the following:
 
-The best way to overcome procrastination is to take action. Don't wait for the perfect time or situation, just start taking steps towards your goal. Even if you only have a few minutes, you can make progress.
+- Identify the problem.
+- Find evidence for and against your hypothesis.
+- Come up with alternative solutions and test them.
+- Implement the solution that works best.
+- Stay vigilant and keep track of your progress.
 
-5. Get accountability.
+When you follow this process, you’ll not only overcome your procrastination, but you’ll also learn how to identify and address its underlying causes so that it doesn’t happen again. This will help you build better habits and make you more productive in the long run.
 
-One of the most effective ways to overcome procrastination is to get accountability from someone else. This could be a friend, family member, or even a professional coach. Having someone to check in with you and hold you accountable can make a big difference.
+## Productivity Tips For Freelancers
 
-6. Reward yourself.
+- Make A Plan - A big part of being productive is making a plan. You should know what you want to accomplish, when and how. Having a plan gives you something to strive towards and helps you stay focused.
+- Write Down Your Goals - It’s important to set goals and write them down so that you can track your progress towards them. If you write down your goals, you’ll be more likely to achieve them.
+- Create A Routine - Having a routine is a good way to stay organized and keep focused on the important tasks. Having a routine will make it easier to manage your time and stay organized so you can get everything done.
+- Meditate - It may sound silly, but meditation is a great way to relax and get focused. Even a few minutes of meditation a day can help you relax and focus on the task at hand.
+- Be Social - While it’s important to be productive, it’s also important to take time for yourself and enjoy your life. Having friends and going out is a great way to let off some steam and relax.
 
-When you reach milestones or accomplish your goals, reward yourself! This could be something as simple as taking a break or treating yourself to something you enjoy. Celebrating your successes will help you stay motivated and keep moving forward.
+## Conclusion
+
+The secret to overcoming procrastination is to identify and address the causes of your procrastination. You can do that by identifying the problem, gathering evidence for and against your hypothesis, coming up with alternative solutions and testing them, and implementing the solution that works best.
+
+When you follow this process, you’ll not only overcome your procrastination, but you’ll also learn how to identify and address its underlying causes so that it doesn’t happen again. This will help you build better habits and make you more productive in the long run.

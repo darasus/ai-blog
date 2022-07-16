@@ -1,28 +1,58 @@
 ---
 title: How to Get Your Business Funded
 createdAt: 2022-07-07T16:45:24.402Z
-updatedAt: 2022-07-07T16:45:24.402Z
+updatedAt: 2022-07-16T15:58:10.350Z
 category: business
 ---
 
-There are a number of ways to get your business funded. Here are a few tips:
+## Small Business Loans
 
-1. Research the different types of funding available.
+Small business loans are an easy way to fund your business and are often an attractive option to investors, since they can be repaid from the company’s profits. Small business loans come in two flavors: secured and unsecured. Secured loans are backed by collateral for the duration of the loan, and unsecured loans are not backed by collateral. If you’re applying for a small business loan, make sure you understand the repayment terms and that you can meet the obligations of the loan. Your business will be judged on its ability to repay the loan, not on your personal credit score.
 
-2. Find out what type of funding would be best for your business.
+Advantages :
 
-3. Approach potential investors and explain your business plan.
+Disadvantages :
 
-4. Be prepared to answer any questions they may have.
+## Angel Investment
 
-5. Negotiate the terms of the investment.
+An angel investment is a form of equity financing where an investor puts cash into your business in exchange for a portion of the business. There are many websites that connect entrepreneurs with angel investors. These websites allow you to create a profile and upload your business plan, often for a small fee. If you can find an angel investor who believes in your vision, you can save yourself the time and hassle of filling out a loan application.
 
-6. Get the investment in writing.
+Advantages :
 
-7. Use the funds to grow your business.
+Disadvantages :
 
-8. Repay the investment over time.
+## Grants
 
-9. Keep the investors updated on your progress.
+Research local and federal government agencies to see if they award grants to businesses in your field. There may also be non-profit organizations that award grants for specific business ideas, like starting a food truck for a mobile homeless kitchen. Grants are typically awarded to fund charitable work or to fund research and development. If you secure a grant, you will have to report your progress to the grantor and make sure you spend the money as intended.
 
-10. Thank the investors for their support.
+Advantages :
+
+Disadvantages :
+
+## Co-investment
+
+A co-investment is an agreement between you and an investor where each party contributes a portion of the funding for your business. This type of financing is a hybrid of angel investment and crowdfunding. With co-investing, you can negotiate the amount each party contributes and the percentage of profits each receives.
+
+Advantages :
+
+Disadvantages :
+
+## Crowdfunding
+
+Crowdfunding platforms like Kickstarter and GoFundMe allow you to raise money from a large group of people. People pledge money to your project in exchange for a reward. There are several types of crowdfunding, from equity crowdfunding where investors receive a share of the profits to donation-based crowdfunding where donors receive nothing in return for their contribution.
+
+Advantages :
+
+Disadvantages :
+
+## Wholesale Financing
+
+If you have a product and a proven track record of selling it, you may be able to secure wholesale financing. This type of financing is common for businesses dealing in large-ticket items. Wholesale financing allows you to buy inventory upfront and then sell it at a profit.
+
+Advantages :
+
+Disadvantages :
+
+## Conclusion
+
+Business funding comes in many forms, but the most successful entrepreneurs are those who explore all of their options. Every business is different, so it’s important to do your research and find the funding source that best suits your needs. In the end, funding your business is not just about getting cash – it’s about building relationships. The best way to fund your business is to find people who believe in you and your idea and want to help you succeed.

@@ -16,7 +16,7 @@ export const data = {
   // politics: [...new Set(politics)],
   life: [...new Set(life)],
   // coding: [...new Set(coding)],
-  // business: [...new Set(business)],
+  business: [...new Set(business)],
   // investing: [...new Set(investing)],
   // crypto: [...new Set(crypto)],
   // technology: [...new Set(technology)],
