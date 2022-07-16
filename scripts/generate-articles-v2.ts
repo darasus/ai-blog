@@ -3,15 +3,15 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 import ora from "ora";
-import { AI } from "../lib/ai";
 import slugify from "slugify";
 import path from "node:path";
-import fs from "node:fs";
+import fs, { WriteStream } from "node:fs";
 import { MDXPost } from "../types/Post";
 import parseMD from "parse-md";
 import { readArticleFile } from "../utils/readFileSync";
 import { getArticleData } from "./shared/getArticleData";
 import { formatMarkdown } from "./shared/formatMarkdown";
+import { Writesonic } from "../lib/writesonic";
 
 const spinner = ora("Start generating articles...");
 
@@ -19,7 +19,7 @@ const postsDir = path.join(__dirname, "../content");
 
 async function main() {
   spinner.start();
-  const ai = new AI();
+  const ai = new Writesonic();
   const titlesAndCategories = getArticleData();
 
   for (const [i, { title, category }] of titlesAndCategories.entries()) {
@@ -34,14 +34,11 @@ async function main() {
       typeof originalSource !== "string" ? "" : originalSource
     ) as { metadata: MDXPost; content: string };
     // new content
-    const { response } = await ai
-      .createCompletion(`Generate 1000 words article body titled "${title}"`)
-      .then((response) => ({
-        title,
-        response,
-      }));
+    const response = await ai.generateArticle({
+      title: `Generate 1000 words article body titled "${title}"`,
+    });
 
-    if (content.trim() === response?.choices?.[0]?.text?.trim()) {
+    if (content.trim() === response.content.trim()) {
       post.title = metadata.title;
       post.createdAt = metadata.createdAt;
       post.updatedAt = metadata.updatedAt;
@@ -58,7 +55,7 @@ async function main() {
 
       post.updatedAt = new Date();
       post.category = category;
-      post.content = response?.choices?.[0].text;
+      post.content = response?.content;
     }
 
     const formattedPost = formatMarkdown(post as MDXPost);
