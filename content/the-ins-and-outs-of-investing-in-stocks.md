@@ -1,12 +1,40 @@
 ---
 title: The ins and outs of investing in stocks
 createdAt: 2022-07-07T16:50:32.469Z
-updatedAt: 2022-07-07T16:50:32.469Z
+updatedAt: 2022-07-17T05:52:55.646Z
 category: investing
 ---
 
-When it comes to investing in stocks, there are a lot of things to consider. For starters, you need to decide what kind of stocks you want to invest in. There are many different types of stocks, and each one has its own set of risks and rewards. You also need to think about how much money you're willing to invest. The more money you're willing to put in, the greater the potential return, but also the greater the risk.
+## What is stock investing?
 
-Once you've decided what kind of stocks you want to invest in, the next step is to start researching them. This means looking at the financial statements of the companies and trying to understand their business models. It's also important to read the news and stay up-to-date on what's happening with the companies you're interested in. This will help you make informed decisions about when to buy and sell.
+Stock investing is the process of buying and selling shares of a company. Companies sell shares to investors in order to raise money to grow their business. The price of a share is determined by the company’s value — and the higher a company’s value, the more valuable the shares. When you invest in a company’s stocks, you become a partial owner of that company. You have a financial stake in how the company performs, which means a company’s stocks are risky as well as rewarding. You can also invest in stocks through an index fund. Index funds buy stocks in a variety of companies and sectors, giving you a broad range of stocks to invest in.
 
-Of course, even if you do all of your research, there's no guarantee that you'll make money from investing in stocks. They're a risky investment, and there's always the potential for loss. However, if you're willing to take on that risk, investing in stocks can be a great way to grow your money over time.
+## Stocks 101
+
+There are two types of stocks, preferred and common. You can buy either type of stock, but the preferred stocks are less common and therefore harder to come by. Preferred stocks are similar to bonds, in that they pay interest and have a set maturity date. Common stocks, on the other hand, pay no regular interest but have the potential to grow much larger in value over time. Common stocks represent a percentage ownership in the company, and the value of the stock depends on the company’s future prospects. There are also different types of stocks: equity, preferred, and convertible. Equity stocks are common stocks, while convertible stocks are a hybrid of equity and bonds. Preferred stocks are debt instruments that pay a set interest rate.
+
+## Benefits of investing in stocks
+
+Investing in stocks is a great way to build wealth over time. Over the long-term, stocks have historically delivered higher returns than other types of investments, like bonds and cash.
+
+Stocks are volatile, meaning their prices fluctuate, so investing in a diverse range of stocks can help you manage the risk of a big loss. Investors who hold a portfolio of different stocks for a long time can expect to see the value grow over time, even in a volatile market.
+
+## Risks of investing in stocks
+
+Investing in stocks comes with inherent risk. While stocks are generally a good long-term investment, there is no guarantee that you won’t see a loss during any given year.
+
+The stock market is unpredictable. There are no assurances that investing in stocks will make you money over time.
+
+Stocks are a riskier investment than other assets, like bonds or cash.
+
+## How to buy stocks
+
+There are two ways to buy stocks: outright and through a mutual fund.
+
+- Outright purchase: The most common way to buy stocks is to purchase them outright. You can do this through a stock broker, either online or through a traditional broker. You’ll need to open an account with a broker and have some cash on hand to buy a stock.
+
+- Mutual funds: Alternatively, you can buy into an index fund that pools money from a number of investors to buy stocks. This is a lower-risk way to invest because the fund manager is responsible for choosing the stocks in the fund; you don’t have to pick the stocks yourself.
+
+## Summary
+
+Stocks are a great long-term investment. They’re risky, so it’s important to diversify your portfolio with a mix of different stocks. When you feel ready to get started, make sure to do your research before making an investment decision.

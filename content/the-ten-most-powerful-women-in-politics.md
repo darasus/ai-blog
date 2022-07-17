@@ -1,48 +1,68 @@
 ---
 title: The Ten Most Powerful Women in Politics
 createdAt: 2022-07-07T06:15:52.820Z
-updatedAt: 2022-07-07T16:41:48.960Z
+updatedAt: 2022-07-17T05:46:05.562Z
 category: politics
 ---
 
-In a world where men have always been the dominant political force, it is refreshing to see more and more women taking up leadership roles and making a difference in the political arena. Here are ten of the most powerful women in politics today.
+## 10. Nina Turner
 
-1. Angela Merkel – Chancellor of Germany
+Nina Turner is a politician from Ohio. She made her reputation as a prominent voice in the 2016 Democratic Party presidential nomination, where she campaigned for U.S. Senator Bernie Sanders (D-VT). Since then, she has served as a senator for Ohio’s 25th district.
 
-As the leader of the largest economy in the European Union, Angela Merkel is one of the most powerful women in the world. She has been in office since 2005 and is currently serving her fourth term.
+Turner is one of the few women of color with a prominent place in American politics. While her campaign for Ohio senator began before the #BlackLivesMatter movement gained traction, she has since highlighted the issues of racial inequality, police brutality, and criminal justice reform that characterize the movement.
 
-2. Theresa May – Prime Minister of the United Kingdom
+## 9. Rashida Tlaib
 
-Theresa May became the UK’s Prime Minister in 2016 after the resignation of David Cameron. She is the second female Prime Minister in British history and has faced some tough challenges during her time in office, including Brexit.
+Rashida Tlaib is a politician from Michigan. She is one of the first two women of color to be elected to the House of Representatives in the modern era. (The other is Ayanna Pressley.) But as an American-Palestinian born to immigrant parents, she is also the first Muslim woman to be elected to Congress.
 
-3. Nicola Sturgeon – First Minister of Scotland
+Tlaib has made women’s rights and representation in government key issues of her campaign, and she has spoken out on behalf of Palestinian rights. She has also campaigned on issues of economic justice and environmentalism, making her one of the few candidates who addresses issues of social and economic justice as an integrated whole.
 
-Nicola Sturgeon is the leader of the Scottish National Party and the first female First Minister of Scotland. She has been a strong voice for Scottish independence and has been a key figure in the UK’s Brexit negotiations.
+## 8. Ilhan Omar
 
-4. Hillary Clinton – Former Secretary of State, United States
+Ilhan Omar is a politician from Minnesota. She is one of the first two Muslim women to be elected to the House of Representatives in the modern era. She is also the first Somali-American legislator to hold office in the United States.
 
-Hillary Clinton is a former First Lady, Senator, and Secretary of State. She was the Democratic Party’s nominee for President in 2016, making her the first woman to be nominated by a major party for President.
+Omar made her reputation as a dedicated anti-war activist who has campaigned rigorously against the United States’ involvement in the Somali Civil War. Since taking office, she has campaigned for policies that promote social and economic justice, including a $15 minimum wage, affordable health care, and tuition-free higher education.
 
-5. Dilma Rousseff – Former President of Brazil
+## 7. Stacey Abrams
 
-Dilma Rousseff was the first female President of Brazil and was in office from 2011 until she was impeached in 2016. She was a member of the Workers’ Party and was a key figure in Brazil’s left-wing politics.
+Stacey Abrams is a politician from Georgia. She is the first African-American woman to become a major party’s nominee in a campaign for the governor of a U.S. state.
+Abrams made her reputation as an attorney who has represented voting rights and LGBTQ+ rights in court. Since taking office, she has campaigned for policies that promote economic and racial justice, including free tuition for low-income Georgians, a $15 minimum wage, and an end to mass incarceration.
 
-6. Aung San Suu Kyi – State Counsellor of Myanmar
+## 6. ellen offe nberg
 
-Aung San Suu Kyi is a Nobel Peace Prize laureate and the current State Counsellor of Myanmar. She is also the leader of the National League for Democracy, which is Myanmar’s main opposition party.
+Ellen Offen is a political scientist and activist. She has made significant contributions to the study of international relations and the politics of gender.
 
-7. Tsai Ing-wen – President of Taiwan
+Offen is most known for her co-authorship of “The Second Liberation of Women”, a 1979 essay that argued that the women’s liberation movement of the previous decade had failed to take account of women’s rights as human rights.
 
-Tsai Ing-wen is the first female President of Taiwan and the first President from the Democratic Progressive Party. She was elected in 2016 and has been a vocal critic of China’s policies towards Taiwan.
+Offen’s essay is widely credited with shifting the terms of debate in feminism, and it continues to be cited as an important influence in the field of women’s rights.
 
-8. Park Geun-hye – Former President of South Korea
+## 5. Kamala Harris
 
-Park Geun-hye was the first female President of South Korea and was in office from 2013 until she was impeached in 2017. She was a member of the conservative Saenuri Party and was a close ally of the United States.
+Kamala Harris is a politician from California. She is the second African-American woman to be elected to the Senate in the modern era.
 
-9. Ellen Johnson Sirleaf – Former President of Liberia
+Harris made her reputation as an attorney who has specialized in pursuing wrongful convictions and reforming the criminal justice system. Since taking office, she has campaigned for policies that promote social and economic justice, including affordable health care, extending a path to citizenship for undocumented immigrants, and an end to mass incarceration.
 
-Ellen Johnson Sirleaf was the first female President of Liberia and was in office from 2006 until 2018. She was a member of the Unity Party and was awarded the Nobel Peace Prize in 2011 for her work on women’s rights.
+## 4. Kirsten Gillibrand
 
-10. Michelle Bachelet – President of Chile
+Kirsten Gillibrand is a politician from New York. She is the first Asian-American woman to be elected to the Senate in the modern era.
+Gillibrand made her reputation as an attorney who has represented military veterans and sought to reform the Department of Defense’s handling of sexual assault cases. Since taking office, she has campaigned for policies that promote social and economic justice, including affordable health care, an equal right to paid parental leave, and an end to mass incarceration.
 
-Michelle Bachelet is the current President of Chile and is serving her second term in office. She is a member of the Socialist Party and was previously the Executive Director of UN Women.
+## 3. Alexandria Ocasio-Cortez
+
+Alexandria Ocasio-Cortez is a politician from New York. She is the youngest woman to be elected to the House of Representatives in the modern era.
+Ocasio-Cortez made her reputation as a bartender who co-founded the activist group New York City Democratic Socialists of America (DSA). Since taking office, she has campaigned for policies that promote social and economic justice, including a $15 minimum wage, affordable health care, and an end to mass incarceration.
+
+## 2. Ayanna Pressley
+
+Ayanna Pressley is a politician from Massachusetts. She is the first African-American woman to be elected to the House of Representatives in the modern era.
+Pressley made her reputation as an advocate for women’s rights and racial equality. Since taking office, she has campaigned for policies that promote social and economic justice, including a $15 minimum wage, affordable health care, and an end to mass incarceration.
+
+## 1. Michelle Obama
+
+Michelle Obama is a former First Lady of the United States and the wife of former President Barack Obama. She is the first African-American woman to hold the title of First Lady.
+
+Obama made her reputation as an advocate for healthy eating and healthy living, as well as a champion for girls’ education. Since taking office, she has campaigned for policies that promote social and economic justice, including affordable health care, an equal right to paid parental leave, and an end to mass incarceration.
+
+Since the 2016 presidential election, the political scene has changed significantly. The pendulum has swung suddenly and sharply in favor of the right, and it is time for us to turn it back again. In order to do that, however, we need to look beyond the white women who currently dominate the list of the most powerful women in the political sphere, and start lifting up those who are more representative of the people they have been elected to represent.
+
+These women have the potential to shift policy, to change the direction of the country, and to make our democracy more representative of the people it was designed to serve. They have the power to put the people first and if we are lucky enough to see them rise to power, we must do everything we can to make sure that they succeed.

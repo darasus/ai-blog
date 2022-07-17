@@ -1,42 +1,56 @@
 ---
 title: How to pick the right investments for you
 createdAt: 2022-07-07T16:49:07.698Z
-updatedAt: 2022-07-07T16:49:07.698Z
+updatedAt: 2022-07-17T05:53:16.691Z
 category: investing
 ---
 
-When it comes to investing, there is no one-size-fits-all approach. What works for one person may not be suitable for another. The key is to find an investment strategy that aligns with your goals, risk tolerance and time horizon.
+## Assessing your risk tolerance
 
-Here are a few things to consider when choosing investments:
+One of the most important things to understand when investing is your risk tolerance. Risk tolerance is your willingness to take on risk—and the amount of risk you take on will determine the types of investments you should be looking into.
 
-1. Your goals
+If you want to be successful long-term with your investing, it’s important to understand your risk tolerance to make sure you’re picking investments that are right for you. One of the easiest ways to figure out your risk tolerance is to ask yourself how you would react to a significant stock market drop.
+While no one can predict the future, if you were feeling confident that the market would go back up within a few months, you’re likely someone who can handle a moderate amount of risk. If you’re feeling really nervous about the drop and aren’t sure if the market will recover, you’re likely someone who should invest conservatively.
 
-What are you looking to achieve with your investments? Do you want to grow your wealth, generate income or preserve your capital? Your investment goals will dictate the types of investments you should consider.
+## Diversification
 
-2. Your risk tolerance
+One of the most important things to consider when picking investments is diversification. Diversification is the practice of spreading your money across various different types of investments so you aren’t putting all your eggs in one basket.
+While a single investment might be promising, it’s still a good idea to diversify your investments so you aren’t putting all your financial health in one basket. This strategy is especially important to consider if you’re investing in stocks, as there is always the risk that a particular company might not perform as well as planned.
+In fact, the more investments you spread across, the more likely you are to have a successful portfolio. In general, it’s a good idea to invest in a wide variety of different asset classes.
 
-How much risk are you willing to take on? Riskier investments tend to offer higher returns, but they also come with the potential for greater losses. If you're risk-averse, you may want to stick with more conservative investments.
+## robo-advisor investment accounts
 
-3. Your time horizon
+When it comes to the best places to invest your money, robo-advisors are one of the best options out there. A robo-advisor is an online investment account that uses algorithms to select and manage your investments for you.
+In a nutshell, robo-advisors are like having an investment manager that you don’t have to pay anything for. Robo-advisors are designed to be super accessible, easy to understand, and hands-off—meaning the account manager will set up your account according to the risk level you specify and then just sit back and let your money grow over time.
+Robo-advisors are investment accounts that are managed by algorithms. This means that the website will select an investment for you depending on your risk level and goals.
+While robo-advisors are great for beginners, it’s important to remember that you’re not managing the money yourself. This means that if you ever have a change in life circumstances and need to adjust your investment strategy, you won’t be able to do it on your own.
 
-How long do you plan on holding your investments? If you're investing for the long term, you can afford to take on more risk. But if you need to access your money in the short term, you'll want to be more conservative.
+## Mutual funds
 
-4. Your financial situation
+A mutual fund is a type of investment that pools together money from multiple investors to buy several different types of investments like stocks, bonds, and other assets.
+While each investor in the fund owns a small piece of the pie, they also take on the risk of the entire fund if one investment turns sour. Since each investor’s risk is tied together, it’s important to find mutual funds that are diversified.
+Mutual funds are easy-to-use and can be a great option for beginners. If you’re interested in mutual funds, look for a broad asset fund that invests in a wide array of different types of assets.
 
-What is your overall financial picture? Do you have a lot of debt? Are you saving for retirement? Do you have other financial obligations? Your financial situation will impact the types of investments you can afford to make.
+## ETFs
 
-5. Investment costs
+Exchange-traded funds, or ETFs, are similar to mutual funds in that they pool together money from multiple investors to buy a variety of different investments. However, unlike mutual funds, each investor owns a specific portion of each investment in the fund.
+While you’re taking on the risk of each individual investment, you also have more control over when you sell off specific ETFs. No matter which investment you choose, it’s important to invest in funds that are diversified and have a low risk tolerance.
 
-Investment costs can eat into your returns. Be sure to consider all the fees associated with an investment before making a decision.
+## Bonds
 
-6. Tax implications
+Bonds are fixed-income investments that are issued by governments and corporations with a promise to pay back the loan (plus interest) after a certain amount of time. While the initial investment is smaller than stocks or mutual funds, the interest you earn is significantly smaller as well.
 
-Investments can be taxed differently, so it's important to consider the tax implications of your investment choices.
+Bonds are a great option for people who are more risk-averse but want to earn some interest on their investment. Be aware that the value of a bond will fluctuate based on market conditions, so it’s important to always keep an eye on your investments.
 
-7. Diversification
+## Peer to peer lending
 
-Diversification is key to any investment strategy. By spreading your money across different asset classes, you can reduce your overall risk.
+When it comes to peer to peer lending, you’re loaning money to people in need and hoping they pay you back with interest. While this is a risky type of investment and not appropriate for everyone, it can be a good way to diversify your portfolio and earn extra cash.
 
-8. Professional help
+To ensure you’re making a smart investment with peer to peer lending, look for low-risk loans that have a low chance of defaulting. This can be a good option for those who want to earn extra cash without taking on too much risk.
 
-If you're not sure where to start, consider working with a financial advisor. A professional can help you develop an investment plan that meets your needs.
+## The Bottom Line
+
+One of the best ways to invest your money is to start early, especially if you don’t have a lot saved up just yet. While investing can be intimidating, there are plenty of accessible options for beginners.
+It’s important to understand your risk tolerance and use diversification to spread your money across various different types of investments.
+
+If you take the time to learn about investing, you’ll be much better off in the long run. This can be a great way to save for retirement or a rainy day.

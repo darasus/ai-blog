@@ -3,7 +3,16 @@ import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
 import axiosRetry from "axios-retry";
 
-axiosRetry(axios, { retries: 3 });
+axiosRetry(axios, {
+  retries: 3,
+  retryCondition(error: any) {
+    console.log(error);
+    return error?.response?.status >= 500;
+  },
+  retryDelay: (retryCount) => {
+    return retryCount * 1000;
+  },
+});
 
 export class Writesonic {
   private client = axios.create({
@@ -35,7 +44,7 @@ export class Writesonic {
           })
           .then((response) => response.data[0].text)
           .catch((error) => {
-            console.log("Error generating intro: ", error);
+            console.log("Error generating intro: ", { code: error.code });
           }),
       3650
     );
@@ -58,7 +67,7 @@ export class Writesonic {
           .then((response) => response.data[0].text)
           .then((text) => text.split("\n").map((line: string) => line.trim()))
           .catch((error) => {
-            console.log("Error generating outlines: ", error);
+            console.log("Error generating outlines: ", { code: error.code });
           }),
       3650
     );
@@ -83,7 +92,7 @@ export class Writesonic {
           })
           .then((response) => response.data.data[0].content)
           .catch((error) => {
-            console.log("Error generating article: ", error);
+            console.log("Error generating article: ", { code: error.code });
           }),
       3650
     );

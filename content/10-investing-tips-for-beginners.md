@@ -1,26 +1,52 @@
 ---
 title: 10 investing tips for beginners
 createdAt: 2022-07-07T16:48:43.208Z
-updatedAt: 2022-07-07T16:48:43.208Z
+updatedAt: 2022-07-17T05:53:09.352Z
 category: investing
 ---
 
-1. Start small – You don’t need a lot of money to start investing. You can start with just a few dollars.
+## Diversification is key
 
-2. Invest regularly – Investing a little bit each month is a great way to build up your investment over time.
+As a beginner, you may think that by investing only in a few select stocks that you’re more likely to hit it rich. But the opposite is true: you increase your risk of major losses. For example, if you invest all of your money in one company’s stock and they go out of business, you lose everything.
+Diversification reduces risk by spreading your money across different types of investments so that if one sector goes down, you don’t lose everything. A good rule of thumb is to put your money into a wide variety of investments, and don’t put more than 10% of your money into any one investment.
 
-3. Consider using dollar-cost averaging – When you invest in a stock or mutual fund, you don’t have to worry about timing the market. You can just buy shares at regular intervals, and over time, the average price you pay will be close to the actual average price of the shares.
+## Don’t invest in anything you don’t understand
 
-4. Diversify your investments – Don’t put all your eggs in one basket. When you diversify, you spread out your risk over different investments, which can help you weather the ups and downs of the market.
+If you don’t understand how a certain investment works or how it will generate a profit, you probably shouldn’t invest in it. In fact, you should absolutely stay away from any investment you don’t understand.
+Investments that you don’t understand are more likely to lose you money than generate a profit. For example, if you invest in penny stocks, you’re likely to lose your money.
+Investments like penny stocks are high-risk and aren’t for beginners.
+If you don’t understand what you’re investing in, you’re better off investing in low-risk, low-reward options like CDs or savings accounts.
 
-5. Consider using index funds – Index funds are a type of mutual fund that tracks a specific market index, such as the S&P 500. They offer diversification and professional management at a low cost.
+## Owning a home is still the best investment
 
-6. Use your employer’s retirement plan – If your employer offers a retirement plan, such as a 401(k), take advantage of it. Many employers offer matching contributions, which can be a great way to boost your savings.
+You’ve probably heard that stocks and bonds are the best investment. While that may be true over the long haul, real estate has always been the best investment in terms of one-time profit.
+Owning your home is still one of the best investments you can make. It doesn’t generate cash flow like stocks do, but it will increase in value over time thanks to inflation and demand.
+If you buy a home and keep up with your mortgage payments, you have the potential to make a big profit when you go to sell it down the road.
 
-7. Consider other retirement savings options – If your employer doesn’t offer a retirement plan, or if you’re self-employed, there are other retirement savings options available, such as an Individual Retirement Account (IRA).
+## Know your fees and costs
 
-8. Stay disciplined – It can be tempting to cash out when your investments are doing well. But if you sell when the market is up, you could miss out on potential future gains. Likewise, don’t sell when the market is down just because you’re worried about losing money. Stick to your investment plan and ride out the ups and downs of the market.
+Most people are completely unaware of the fees associated with investing. For example, most mutual funds charge an upfront fee, and a percentage of the profits you earn from your investment.
+Your best bet for low-cost investment is to invest in exchange-traded funds (ETFs). ETFs are low-cost, and you can buy and sell them just like stocks.
+Most brokerage accounts charge you a percentage of the total amount of money you have in them. So the more money you have in your account, the more you’ll pay in total fees.
+Investing only what you’re comfortable losing is crucial. If something unexpected happens and you can’t make your investment payment, you’re better off not investing in it in the first place.
 
-9. Review your investments regularly – It’s important to stay on top of your investments and make sure they’re still in line with your goals. As your goals change over time, so should your investment mix.
+## Take a small amount of cash to invest and stick to it
 
-10. Get help from a professional – If you’re not sure where to start, or if you want help creating an investment plan, consider working with a financial advisor. A good advisor can help you understand your options and make recommendations that are suited to your unique situation.
+As a beginner investor, you’re not going to hit the jackpot right away. You’re going to have to be patient and let your money grow.
+Investing a small amount of money each month, starting as soon as you can, is the best way to start growing your investments.
+If you can spare $10 per month, start an investment account with a robo-advisor like Wealthsimple. You can open an account with as little as $10 per month.
+If you can only spare $50 a month, that’s okay too. The earlier you start investing, the more time your money has to grow.
+That said, don’t go wild investing too much at once. You don’t want to put all your eggs in one basket.
+
+## Stick to your plan, no matter what
+
+As a beginner, it can be tempting to try to time the market and predict when the stock market will rise or fall. But you never know when the next downturn will come around, or how long it will last.
+Investing is a long-term game. It may not feel like it as you consistently check your investments and watch the market, but you have to remember that the market will go up over time.
+You should always revisit your investment plan. Making regular contributions, investing in low-cost ETFs, and setting aside money in case of an emergency are all great ways to start investing now.
+
+## Bottom line
+
+Investing is a skill that can take time to develop, but it’s one that anyone can learn with practice.
+If you start investing early, you can use the power of compound interest to your advantage and grow your money faster.
+Don’t be intimidated by investing. With the right tools, it can be easy and accessible for anyone.
+All that’s left to do is create a plan and start investing as soon as you can.

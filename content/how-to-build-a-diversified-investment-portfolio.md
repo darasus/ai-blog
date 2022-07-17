@@ -1,34 +1,42 @@
 ---
 title: How to build a diversified investment portfolio
 createdAt: 2022-07-07T16:50:52.953Z
-updatedAt: 2022-07-07T16:50:52.953Z
+updatedAt: 2022-07-17T05:53:00.111Z
 category: investing
 ---
 
-When it comes to investing, there is no one-size-fits-all approach. Instead, investors should aim to build a diversified investment portfolio that meets their unique needs and goals.
+## Asset Allocation: The key to effective diversification
 
-There are a few key things to keep in mind when constructing a diversified investment portfolio. First, it’s important to understand the different types of investments available. There are four main asset classes: cash and cash equivalents, stocks, bonds, and real estate.
+The most important factor in diversifying your portfolio is asset allocation. This refers to the way you divide your assets among the different types of investments in your portfolio. Your asset allocation should be based on your personal financial situation, investment objectives and risk tolerance.
 
-Each asset class has different characteristics and performs differently over time. For example, stocks tend to be more volatile than bonds, but they also offer the potential for higher returns.
+Common types of investments that comprise a well-diversified portfolio are stocks, bonds and cash. You can also diversify by investing in real estate and alternative assets, such as private equity, venture capital trusts and commodities. A well-diversified portfolio typically includes a mix of stocks, bonds and cash in various proportions, based on your risk tolerance and time frame for when you’ll need the money.
 
-It’s important to have a mix of different asset classes in your portfolio so that you can minimize risk and maximize returns.
+## Diversify by type of investment
 
-Another key consideration is your time horizon. This is the length of time you plan on holding your investments. If you have a longer time horizon, you can afford to take on more risk because you have time to ride out the ups and downs of the market.
+Stocks: There are different types of stocks to choose from, including large-cap stocks, small-cap stocks, emerging market stocks, international stocks, value stocks and growth stocks. A diversified investment portfolio should include a mix of all the various types of stocks.
 
-However, if you have a shorter time horizon, you’ll want to focus on preserving capital and may want to allocate more of your portfolio to cash and cash equivalents.
+Bonds: Bonds are debt instruments issued by governments, companies or other entities. A diversified investment portfolio should include both government and corporate bonds. A mix of short-, medium- and long-term bonds is also recommended.
 
-Finally, it’s important to consider your personal risk tolerance. This refers to how much risk you’re willing to take on in pursuit of returns.
+Cash: While cash is not a type of investment, it plays two important roles in a diversified portfolio. First, it’s used to pay for the other types of assets in your portfolio. Second, cash can be used to diversify your portfolio by investing in short-term investment vehicles like Treasury bills, commercial paper and money market funds.
 
-Some people are comfortable with a higher degree of risk, while others prefer a more conservative approach. There’s no right or wrong answer here – it’s simply a matter of what makes you comfortable.
+## Diversify by size and sector of the company
 
-Once you have a handle on these key considerations, you can start to build a diversified investment portfolio that meets your needs. Here are a few tips to get you started:
+Size matters when it comes to diversifying your investment portfolio. Large-cap, mid-cap and small-cap stocks are all part of a diversified portfolio. A large-cap company has a market capitalization of more than $100 billion. A mid-cap company has a market cap between $2 billion and $10 billion, and a small-cap company has a market capitalization under $2 billion.
 
-1. Invest in a mix of asset classes. As mentioned above, it’s important to have a mix of different asset classes in your portfolio. This will help to minimize risk and maximize returns over the long term.
+Industry sectors: When it comes to diversifying by size and sector, it’s important to choose companies in different industries. A diversified investment portfolio includes a mix of companies in various industries such as biotechnology, healthcare, tech, telecommunications and financial services.
 
-2. Consider using index funds. Index funds offer a simple and cost-effective way to invest in a diversified mix of assets. They’re also relatively low-maintenance, which can be a big plus if you don’t have the time or inclination to actively manage your investments.
+## Diversify by geography and country
 
-3. Rebalance your portfolio regularly. As your investment goals and circumstances change over time, it’s important to rebalance your portfolio accordingly. This simply means making sure that your asset allocation remains in line with your goals and risk tolerance.
+Geography: A diversified investment portfolio includes investments in companies based in various regions of the globe. This might mean investing in large-cap companies headquartered in the U.S., mid-cap companies in Asia, small-cap companies in Latin America and emerging market companies in Africa. You can also choose to invest in companies based in different regions outside of North America, such as Europe or Asia.
 
-4. Review your portfolio regularly. It’s also a good idea to review your portfolio on a regular basis – at least once per year – to make sure that it’s still aligned with your goals. This is especially important if there have been any major changes in your life, such as getting married, having children, or changing jobs.
+Country: A diversified investment portfolio also includes stocks of companies based in various countries. This means investing in multinational companies whose business is conducted in different countries. You can also choose to invest in companies based in the same country.
 
-Building a diversified investment portfolio doesn’t have to be complicated or time-consuming. By following these simple tips, you can ensure that your portfolio is well-positioned to help you meet your financial goals.
+## Don’t forget about cash
+
+While cash is not a type of investment, it plays an important role in a diversified portfolio. Cash can be used to pay for the other types of assets in your portfolio. Moreover, cash can be used to diversify your portfolio by investing in short-term investment vehicles like Treasury bills, commercial paper and money market funds.
+
+## Summary
+
+The most important factor in diversifying your portfolio is asset allocation. Your asset allocation should be based on your personal financial situation, investment objectives and risk tolerance.
+
+To truly diversify your investment portfolio, you should invest in different types of assets, such as stocks, bonds, cash and real estate. You should also diversify by size, industry sector and geography. Don’t forget about cash, which can be used to diversify your portfolio and provide liquidity.

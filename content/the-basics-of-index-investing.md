@@ -1,22 +1,46 @@
 ---
 title: The basics of index investing
 createdAt: 2022-07-07T16:52:03.705Z
-updatedAt: 2022-07-07T16:52:03.705Z
+updatedAt: 2022-07-17T05:55:50.162Z
 category: investing
 ---
 
-Index investing is a type of investment strategy that involves investing in a basket of securities that track a specific index. Index investing offers investors a number of benefits, including diversification, lower costs, and potential for higher returns.
+## What is passive investing?
 
-Index investing is a popular choice for many investors, especially those who are looking to build a long-term portfolio. While there are a number of different indexes to choose from, the most popular index for index investing is the S&P 500.
+Passive investing is an investment strategy that aims to track the performance of a specific benchmark, such as a stock market index. The term passive investing is sometimes used interchangeably with index investing, though not all index funds are passive investments. A passive investment strategy is the opposite of an active investment strategy, where a portfolio is actively managed to meet goals such as capital appreciation, income, or preservation of capital.
 
-The S&P 500 is an index that tracks the 500 largest companies in the United States. These companies are chosen by a committee and are weighted based on their market capitalization.
+Passive investing is typically used by investors who don’t have the time or expertise to actively manage their investments. This could include individuals who are new to investing or those who are seeking a low-cost investment strategy.
 
-The benefits of index investing include diversification, lower costs, and potential for higher returns.
+Passive investors also tend to have a long-term perspective on the market, which may be considered contrarian in today’s fast-moving, algorithm-driven trading environment. Passive investors hold their investment positions for an extended period of time, often for years or even decades, without feeling obligated to make frequent adjustments. They’re less concerned with what’s happening today or even next week, and more interested in seeing how the market and their portfolio evolve over the long haul.
 
-Diversification is important because it helps to reduce risk. When you invest in a basket of securities, you are diversifying your investment and spreading your risk out over a number of different companies. This diversification can help to protect your investment from the volatility of the stock market.
+## Why is index investing effective?
 
-Lower costs are another benefit of index investing. Because you are not actively picking and choosing individual stocks, you can avoid paying high fees and commissions. This can save you a significant amount of money over time.
+The basic idea behind index investing is that it’s a low-cost, low-effort way to track a broad, diversified basket of stocks. Rather than attempt to pick individual stocks that will outperform, you simply buy into a diversified basket of stocks that, over time, is likely to outperform. That’s because, unlike actively managed funds, index funds are not paying hefty fees for a team of analysts to scour the market for the best stocks.
+That’s money that gets added to your investment account. Moreover, actively managed funds tend to underperform the broader market because of the higher fees they incur.
 
-Potential for higher returns is another benefit of index investing. While there is no guarantee that you will make money by investing in an index fund, historical data shows that indexes have outperformed actively managed funds over time.
+## Which indexes should you track?
 
-Index investing is a simple and effective way to build a long-term investment portfolio. By diversifying your investment and keeping costs low, you can potentially earn higher returns than you would by investing in individual stocks.
+There are countless indexes you could choose to track, like the S&P 500, Dow Jones Industrial Average, Russell 2000, or even commodities like oil or gold. The key is to pick one that you can commit to tracking over the long haul.
+The basic rule of thumb is to pick an index that represents a good balance between risk and reward — and one that fits your investing timeframe. A good rule of thumb is to start out with a broad-based index, such as the S&P 500, and then add a more focused index, such as a sector index, as you get more experienced with the strategy.
+For example, the S&P 500 represents the American equity market and covers a broad selection of companies across industries. Meanwhile, the Financial Select Sector Index represents the financial services industry, which includes banks, investment firms, and insurance companies.
+
+## The pros and cons of index investing
+
+Index investing has a number of advantages over actively managed portfolios, including reduced portfolio turnover and lower fees. 
+These advantages lead to a lower cost of investing, which can significantly improve your long-term investment outcomes.
+For example, a recent academic study found that a portfolio of passively managed funds had a 99% probability of outperforming an actively managed portfolio over a 10-year period.
+Moreover, the study showed that passively managed portfolios have a 99% probability of outperforming actively managed portfolios over any 10-year period.
+
+## How to invest using an index
+
+As we’ve seen, you can choose from a wide range of indexes to track. The first thing you should do is decide what type of investment you’d like to focus on — such as stocks or bonds.
+Then, you can do some research to see which indexes represent that type of investment. You can find indexes tracked by companies such as Standard & Poor’s, MSCI, Russell, and Nasdaq.
+
+Once you’ve identified the indexes you want to track, the next step is to pick the best fund for your needs. Index funds come in a variety of flavors, including ETFs, mutual funds, and managed funds.
+You can find index funds in both your brokerage account and your employer-sponsored retirement plan.
+
+## Wrapping up
+
+Investing is one of the best ways to set yourself up for a financially secure future, but it can be intimidating if you’re new to the game. To make things a little easier, you can use index investing as a way to track the broader market, which is a low-effort way to invest in a basket of stocks that are likely to perform well over the long haul.
+
+If you want to get started with index investing, the first thing you should do is decide which type of investment you want to focus on — such as stocks or bonds. Once you’ve identified the indexes you want to track, the next step is to pick the best fund for your needs.

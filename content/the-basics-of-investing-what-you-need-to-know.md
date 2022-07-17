@@ -1,20 +1,50 @@
 ---
 title: The basics of investing - what you need to know
 createdAt: 2022-07-07T16:49:34.815Z
-updatedAt: 2022-07-07T16:49:34.815Z
+updatedAt: 2022-07-17T05:53:01.147Z
 category: investing
 ---
 
-When it comes to investing, there are a lot of things that you need to know in order to be successful. However, don’t let that discourage you – the basics of investing are actually quite simple. In this article, we’re going to cover the basics of investing, so that you can get started on the right foot.
+## What is investing?
 
-The first thing that you need to understand is what investing is. Investing is simply the act of putting your money into something in order to gain a financial return. This can be done in a variety of ways, but the most common form of investing is through the stock market. When you buy stocks, you’re essentially buying a piece of a company. As that company grows and becomes more successful, the value of your stocks will go up, and you’ll be able to sell them for a profit.
+Investing is the process of allocating funds to assets expected to generate financial returns. More simply, investing is the process of putting your money to work. When you invest in something, you’re hoping to receive financial returns in the future (in the form of interest payments or capital appreciation).
 
-Of course, there’s always a risk involved with investing. The stock market can be volatile, and there’s no guarantee that your stocks will always go up in value. However, over the long-term, the stock market has historically been a very good investment, and it’s one of the best ways to grow your money.
+There are many different types of investments that people can choose from – such as stocks, bonds, mutual funds, and real estate. The goal of each type of investment is to generate returns to the owner of the investment.
 
-Another important thing to understand is the different types of investments. There are two main types of investments: growth investments and income investments. Growth investments are typically stocks, as we mentioned earlier. They offer the potential for high returns, but they also come with more risk. Income investments, on the other hand, are typically less risky and offer more stability. Examples of income investments include bonds and dividend-paying stocks.
+## The benefits of investing
 
-Once you understand the basics of investing, you can start to figure out what type of investor you want to be. Are you looking for high returns, or are you more interested in stability? Do you want to take on more risk, or are you comfortable with a more conservative approach? Answering these questions will help you determine what types of investments are right for you.
+Investing can be intimidating to get started with, but once you’ve found a strategy that works for you, you’ll be thankful that you made the effort. Here are some reasons why investing is so important:
 
-Of course, there’s more to investing than just buying stocks or bonds. You also need to understand how to manage your investments. This includes things like diversification (investing in a variety of different assets) and rebalancing (selling some assets and buying others when their values change). However, these are topics for another article.
+Increased savings - Investing early and often can help you build a bigger nest egg. This means that you’ll have more money to work with when you’re ready to retire or fund other long-term goals.
 
-The bottom line is that investing doesn’t have to be complicated. If you understand the basics, you can start investing today and begin growing your money.
+Higher returns - The longer that you have to let your money grow, the more time it has to compound. Compounding is the process of earning interest on your interest, which can help you to see greater overall returns on your investments over the long haul.
+
+## Investment lingo you need to know
+
+Expected return or return on investment ( ROI ) - The expected rate of return on an investment is the profit that you hope to make from it. ROI is often calculated based on the initial amount of money that you put into the investment.
+
+Investment risk - Investment risk is the chance that your investment might lose money or not provide the expected return. As a general rule, the more risk you take on with your investments, the higher the potential return.
+
+## How to invest?
+
+Investing can feel like a maze to navigate, with so many options out there to choose from. Luckily, there are a few straightforward steps you can take to get started:
+
+Find your financial sweet spot - There’s no perfect investment for everyone. What works best depends on your individual situation, goals, and risk tolerance.
+
+Get educated - The best way to learn about all of the different types of investments is to read what you can about them. You can start by reading articles like this one.
+
+Choose your investments - Once you’ve researched the types of investments that might be a good fit for you, you can start to choose which one(s) to pursue. You can often do this through an online brokerage account.
+
+## Show me the money! Or, how to invest in 2019 and beyond
+
+The best time to start investing was yesterday. The next best time is today! The longer you wait to start investing, the less time your investments have to grow and help you meet your goals.
+
+Generally speaking, you should be investing as early as possible. Some people recommend that you start investing as soon as you get your first paycheck. With that said, investing comes with inherent risk, which means that there’s always a chance that your money could lose some or all of its value.
+
+That said, if you can manage the risk and start while you’re young, you’ll have more time for your investments to compound and help you meet your long-term goals.
+
+## Bottom line
+
+Investing is a crucial part of any financially responsible person’s life. It allows you to not just save money for short-term goals like a vacation or a new car, but for long-term goals like retirement. Investing, however, can be an intimidating and confusing process. But the sooner you start, the better off you’ll be!
+
+The earlier you start investing, the more time your money has to grow. This compounds and can result in you having more money in the future. With the right strategy, you can invest in a way that works for you and your financial situation.

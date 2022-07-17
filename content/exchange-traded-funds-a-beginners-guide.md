@@ -1,42 +1,63 @@
 ---
 title: Exchange traded funds - a beginner's guide
 createdAt: 2022-07-07T16:52:26.280Z
-updatedAt: 2022-07-07T16:52:26.280Z
+updatedAt: 2022-07-17T05:55:54.504Z
 category: investing
 ---
 
-An exchange traded fund (ETF) is a type of investment fund that tracks a basket of assets, such as stocks, bonds, commodities, or a combination of these. ETFs are traded on stock exchanges, and they can be bought and sold like stocks.
+## What is an ETF?
 
-ETFs are popular because they offer the potential for higher returns than traditional investments, such as mutual funds, and they are often more tax-efficient. ETFs also provide investors with the ability to gain exposure to a wide variety of asset classes and sectors in a single investment.
+An ETF is a type of fund that holds assets such as stocks, bonds, or other securities and trades on a stock exchange at any time during the day. The price of ETF shares will change throughout the day as the value of the underlying assets in the fund fluctuate. ETFs can be passively managed or actively managed. Passive ETFs track an index, which means the fund's holdings are selected to match the composition of a specific index.
+Most ETFs are passively managed, which means they track a specific benchmark, like an index. It’s important to understand, though, that ETFs come in many different varieties and can be used to get exposure to a variety of different assets. They can be used to gain exposure to certain industries, geographical regions, or asset classes, such as stocks or bonds. 
+## Understanding asset classes
 
-There are many different types of ETFs available, so it's important to understand how they work before investing. This beginner's guide will explain what ETFs are, how they work, and the pros and cons of investing in them.
+An asset class is a group of securities that have similar risk and return characteristics. The two main types of assets are stocks and bonds.
+The equity risk-return trade-off is the risk that comes with investing in stocks. The higher the expected return on a stock, the higher the risk that it may go down in value.
+Bonds are loans that are issued by governments or companies with a promise to pay the holder regularly and with interest.
+The return on these types of investments is lower than what you would get from stocks, but the risk is also significantly lower.
+Bonds have a duration, which is the length of time it will take for the bond’s owner to get their original investment back.
+Most people invest in a mix of these two types of assets because no single asset class is a surefire way to make money.
 
-What are ETFs?
+## Benefits of investing in ETFs
 
-An exchange traded fund (ETF) is a type of investment fund that tracks a basket of assets, such as stocks, bonds, commodities, or a combination of these. ETFs are traded on stock exchanges, and they can be bought and sold like stocks.
+ETFs provide you with diversification – You can gain exposure to many different assets and industries through ETFs, which means your investment is less susceptible to risk.
 
-ETFs are popular because they offer the potential for higher returns than traditional investments, such as mutual funds, and they are often more tax-efficient. ETFs also provide investors with the ability to gain exposure to a wide variety of asset classes and sectors in a single investment.
+ETFs are cheap to buy and easy to manage – ETFs have low management fees, and many can be purchased through a brokerage account with no trading fees.
 
-There are many different types of ETFs available, so it's important to understand how they work before investing. This beginner's guide will explain what ETFs are, how they work, and the pros and cons of investing in them.
+ETFs are transparent – All ETFs are required to disclose their holdings on a regular basis.
 
-How do ETFs work?
+ETFs are liquid – ETFs can easily be bought or sold at any time during the day because they trade on stock exchanges.
 
-An ETF tracks a basket of assets, which can include stocks, bonds, commodities, or a combination of these. The fund is managed by an investment team, who aim to track the performance of the underlying assets.
+ETFs are transparent – All ETFs are required to disclose their holdings on a regular basis.
 
-ETFs are traded on stock exchanges, and they can be bought and sold like stocks. The price of an ETF is based on the value of the underlying assets it tracks. For example, if an ETF tracks a basket of stocks, the price of the ETF will rise and fall as the value of the stocks in the basket rise and fall.
+ETFs offer tax efficiency – ETFs are designed to minimize taxes through regular distributions of profits by the fund and by holding securities that produce low capital gains.
 
-Investors can buy and sell ETFs through a broker. Some brokers offer commission-free trading for ETFs.
+## Types of ETFs
 
-What are the benefits of investing in ETFs?
+You can invest in ETFs using different strategies, such as a growth or value equity strategy. You can also invest in ETFs that track specific sectors or industries.
 
-ETFs offer a number of benefits for investors:
+There are also ETFs that use derivatives to generate an equity-like return. These so-called synthetic ETFs are based on futures contracts, which are contracts to buy an asset at a certain price on a certain date.
 
-The potential for higher returns: ETFs offer the potential for higher returns than traditional investments, such as mutual funds. This is because ETFs often have lower fees than mutual funds, and they offer exposure to a wider variety of asset classes and sectors.
+A leveraged ETF that uses derivatives will have a multiplier that magnifies the return of the underlying index, such as 2x or 3x. This means the ETF will have a higher expected return compared to an ETF that doesn’t have this option. But because it’s magnifying the return, it also magnifies the risk.
 
-ETFs offer the potential for higher returns than traditional investments, such as mutual funds. This is because ETFs often have lower fees than mutual funds, and they offer exposure to a wider variety of asset classes and sectors. More tax-efficient: ETFs are often more tax-efficient than traditional investments. This is because capital gains from selling ETFs are taxed at a lower rate than other investments.
+## How to buy and sell ETFs
 
-ETFs are often more tax-efficient than traditional investments. This is because capital gains from selling ETFs are taxed at a lower rate than other investments. Exposure to a variety of asset classes: ETFs provide investors with exposure to a wide variety of asset classes and sectors in a single investment. This diversification can help to reduce risk and improve returns.
+First, decide how much money you want to invest in ETFs. Then, pick the ETFs you want to invest in. If you use a robo-advisor service to manage your money, they’ll likely have a large selection of ETFs to choose from. 
 
-What are the risks of investing in ETFs?
+Once you’ve decided on which ETFs to invest in, open an account with a broker, such as Charles Schwab, and transfer money into it. You can then buy ETFs through the broker. When you’re ready to sell, you can do so through the same broker.
 
-Like all investments, there are risks associated with investing in ETFs:
+## Things to be aware of when investing in ETFs
+
+ETFs don’t come with guarantees, so you’re taking on additional risk – There are no guarantees that the ETFs in which you’ve invested will perform well. The risk of investing in any type of ETF is that the underlying assets could go down in value.
+
+ETFs are subject to taxes – While ETFs are designed to minimize taxes through regular distributions of profits by the fund and by holding securities that produce low capital gains, they’re still subject to taxes.
+
+ETFs are not a one-size-fits-all investment – No investment is a surefire way to make money. While ETFs are generally a safe way to invest your money, they’re not a guaranteed way to make a profit.
+
+## Bottom line
+
+While investing in ETFs doesn’t mean you’re guaranteed to make money, they are a generally safe and easy way to invest your money and gain exposure to various asset classes.
+
+You can select from a wide variety of ETFs to invest in, ranging from those that hold stocks to those that hold bonds or commodities like gold.
+
+If you’re looking for a relatively low-risk way to grow your money, ETFs are a great option.

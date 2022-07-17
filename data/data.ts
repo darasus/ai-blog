@@ -13,11 +13,11 @@ import { technology } from "./categories/technology";
 
 export const data = {
   // cooking: [...new Set(cooking)],
-  // politics: [...new Set(politics)],
+  politics: [...new Set(politics)],
   life: [...new Set(life)],
   // coding: [...new Set(coding)],
   business: [...new Set(business)],
-  // investing: [...new Set(investing)],
+  investing: [...new Set(investing)],
   // crypto: [...new Set(crypto)],
   // technology: [...new Set(technology)],
   health: [...new Set(health)],
