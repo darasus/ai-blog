@@ -1,6 +1,9 @@
 import axios from "axios";
 import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
+import axiosRetry from "axios-retry";
+
+axiosRetry(axios, { retries: 3 });
 
 export class Writesonic {
   private client = axios.create({
