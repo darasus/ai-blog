@@ -7,6 +7,41 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
       </url>
       
             <url>
+              <loc>https://www.theaipaper.com/p/10-rappers-that-will-make-you-want-to-get-out-on-the-floor-and-dance</loc>
+              <lastmod>2022-07-17T14:55:54.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/9-of-the-best-hip-hop-songs-for-your-next-workout</loc>
+              <lastmod>2022-07-17T14:54:58.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/the-history-of-hip-hop-music-the-influential-years</loc>
+              <lastmod>2022-07-17T14:54:55.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/hip-hop-music-with-a-purpose-the-importance-of-awareness-in-the-music-industry</loc>
+              <lastmod>2022-07-17T14:54:44.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/why-hip-hop-music-rules-the-world</loc>
+              <lastmod>2022-07-17T14:54:39.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
               <loc>https://www.theaipaper.com/p/10-exercises-you-can-do-at-home-and-save-a-ton-of-money</loc>
               <lastmod>2022-07-17T11:50:02.000Z</lastmod>
               <changefreq>monthly</changefreq>

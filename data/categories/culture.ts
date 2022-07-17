@@ -27,4 +27,9 @@ export const culture = [
   "\"Father John Misty's 'Pure Comedy' is a Hilarious Masterpiece\"",
   "\"Foster the People's 'Sacred Hearts Club' is a Fun Ride\"",
   "\"HAIM's 'Something to Tell You' is a Delightful Pop Album\"",
+  "The History of Hip Hop Music: The Influential Years",
+  "Why Hip Hop Music Rules the World",
+  "9 of the Best Hip Hop Songs for Your Next Workout",
+  "Hip Hop Music With A Purpose: The Importance of Awareness in the Music Industry",
+  "10 Rappers That Will Make You Want To Get Out On The Floor and Dance",
 ];
