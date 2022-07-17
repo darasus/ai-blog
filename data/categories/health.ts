@@ -112,4 +112,13 @@ export const health = [
   "The Best Way To Get Your Kids To Eat Their Vegetables",
   "How To Make A Healthy Grocery List On A Budget",
   "How To Make Healthy Eating Easier With Meal Planning",
+  "10 Exercises You Can Do At Home And Save A Ton Of Money",
+  "10 Ways to Maximize Your Exercise",
+  "3 Easy Exercises You Can Do In Your Home That Will Make You Lose Weight",
+  "7 Exercises to Lose Weight In 7 Days",
+  "7 Tips to Keep You Motivated When Working Out",
+  "The Benefits of Exercise and How to Get Started",
+  "10 Ways to Make a Workout Fun, Even If You Hate Working Out",
+  "7 Tips for Getting Motivated to Exercise",
+  "Exercising Your Way to a Fitter You: Walk or Run - Which is Best For You?",
 ];

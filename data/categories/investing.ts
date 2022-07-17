@@ -19,4 +19,9 @@ export const investing = [
   "Why you should invest in index funds",
   "What are no-load mutual funds and are they right for you?",
   "How to pick the best stocks for your portfolio",
+  "The Best Ways To Invest Your Money And Get The Most Out Of It",
+  "Top Investing Blogs to Follow in 2019",
+  "Best Investment Strategies to Generate Passive Income",
+  "How to Start Investing in Stocks: A Step by Step Guide for Beginners!",
+  "5 Investment Strategies for Beginners",
 ];
