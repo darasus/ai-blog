@@ -3,6 +3,13 @@ title: The top 5 games of the year
 createdAt: 2022-07-08T06:00:20.345Z
 updatedAt: 2022-07-17T07:26:46.526Z
 category: gaming
+summary: These are the games that have received the most praise from gamers and
+  critics alike. They're not only fun and interesting to play, but they also
+  have great stories and unique gameplay elements. The Last of Us Part 2 is a
+  sequel to the 2013 smash hit “The Last Of Us” and is a single-player game
+  played from a third-person perspective. PlayerUnknown’s Battlegrounds is a
+  fight to the death between 100 players and the goal of the game is to be the
+  last man standing.
 ---
 
 ## 5. Horizon Zero Dawn

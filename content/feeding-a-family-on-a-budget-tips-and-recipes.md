@@ -3,6 +3,13 @@ title: Feeding a family on a budget - tips and recipes
 createdAt: 2022-07-09T06:40:40.258Z
 updatedAt: 2022-07-17T06:17:32.275Z
 category: cooking
+summary: It is crucial that you put some thought into what you’re going to be
+  eating and when, as this will make your life easier in the long run. Having a
+  meal plan can help you to reduce food waste and ensure that there is always
+  something healthy and nutritious on the table. It can also be beneficial to
+  shop at different times of the week, depending on the best times and days to
+  shop for certain items. If you have a particular item in mind, then add it to
+  the list.
 ---
 
 ## Plan your meals

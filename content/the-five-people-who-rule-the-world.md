@@ -3,6 +3,13 @@ title: The Five People Who Rule the World
 createdAt: 2022-07-07T06:15:32.490Z
 updatedAt: 2022-07-17T05:49:16.599Z
 category: politics
+summary: We're obsessed with fame, and that shapes everything in our lives. We
+  pay attention to celebrities even when we don’t realize we’re doing it.
+  Celebrities have always been important, but never before have they held so
+  much power. Musicians are the most powerful people in the world, even though
+  they're not a political or economic force. Actors are just slightly less
+  important than musicians, but the power of actresses is growing rapidly. The
+  most famous actors are also the best actors, but are not the best actresses.
 ---
 
 ## By the numbers: How Celebrities Rule the World

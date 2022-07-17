@@ -3,6 +3,13 @@ title: "Dash: The Privacy-Centric Crypto"
 createdAt: 2022-07-07T16:54:46.630Z
 updatedAt: 2022-07-17T07:23:59.763Z
 category: crypto
+summary: Dash is a privacy-driven crypto that has been around since 2014. It is
+  one of the top 10 most valuable cryptocurrencies in the world. Dash uses a
+  feature called “privacy-by-default” that encrypts transaction data with a
+  feature known as DarkSend. This allows users to transact with one another in a
+  fully anonymous fashion, making it impossible for outside parties to track
+  their transactions. Dash is not 100% anonymous, but it may still be possible
+  for law enforcement to identify the ownership of specific addresses.
 ---
 
 ## What is Dash?

@@ -3,6 +3,13 @@ title: The best recipes for using up leftover cooked
 createdAt: 2022-07-07T06:05:40.161Z
 updatedAt: 2022-07-17T06:04:35.110Z
 category: cooking
+summary: Chicken and Rice Casserole recipe takes just 20 minutes to prepare.
+  Baking the casserole in individual ramekins gives you smaller portions, so you
+  can enjoy this as an appetizer, snack or even a light dinner, depending on how
+  hungry you are. The recipe can easily be doubled if you are cooking for a big
+  group or planning a special occasion or having friends over for dinner. The
+  recipe is easy to prepare, especially if you use a combination of cooked brown
+  rice and leftover cooked white rice.
 ---
 
 ## Chicken and Rice Casserole

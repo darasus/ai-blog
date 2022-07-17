@@ -3,6 +3,12 @@ title: "\"Charlie Puth's 'Voicenotes' is a Solid Effort\""
 createdAt: 2022-07-08T05:59:14.399Z
 updatedAt: 2022-07-17T07:26:18.778Z
 category: culture
+summary: Charlie Puth’s album opens with a tropical-inspired track, “Voicenotes”
+  The album has a few really good tracks and a few that don’t really work.
+  Overall, the album is a pretty average pop effort. If you are a new fan of
+  Puth's past work, then you will like this album as well. If Puth were to take
+  maybe the best three or four tracks off this album, he would have a really
+  solid EP.
 ---
 
 ## Track-by-Track Review

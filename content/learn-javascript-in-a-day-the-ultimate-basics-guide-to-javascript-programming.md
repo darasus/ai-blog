@@ -4,6 +4,13 @@ title: "Learn Javascript In A Day: The Ultimate Basics Guide To JavaScript
 createdAt: 2022-07-17T07:20:25.394Z
 updatedAt: 2022-07-17T07:20:25.394Z
 category: coding
+summary: JavaScript is the most popular programming language in the world. It's
+  commonly used for an increasing number of tasks, including server-side logic,
+  image manipulation, and video animations. It’s the language that powers
+  website functionality and interaction. We’ll explore the basic rules and
+  syntax to programming in JavaScript. The first step of learning any new
+  language is learning its rules and. syntax. The basics are the foundation of
+  any language, and without understanding them, you won't be able to progress.
 ---
 
 ## What Is Javascript?

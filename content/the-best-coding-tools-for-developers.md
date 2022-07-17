@@ -3,6 +3,14 @@ title: The best coding tools for developers
 createdAt: 2022-07-07T06:11:43.527Z
 updatedAt: 2022-07-17T06:31:12.951Z
 category: coding
+summary: The first thing that every developer should know about is the
+  importance of using a code editor. The goal of each is to help developers
+  write and edit code more efficiently. Code review is when you and your team
+  members read through each other’s code to check for errors and issues. The
+  most common version control systems are Git, Mercurial, and Subversion (SVN)
+  Version control is a method of tracking and managing changes to code over
+  time. The key to success when using version control is to make sure that you
+  know how to use it properly.
 ---
 
 ## Code Editors

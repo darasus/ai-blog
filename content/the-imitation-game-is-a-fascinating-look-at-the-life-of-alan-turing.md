@@ -3,6 +3,14 @@ title: '"The Imitation Game" is a fascinating look at the life of Alan Turing'
 createdAt: 2022-07-08T05:57:10.678Z
 updatedAt: 2022-07-17T07:25:23.584Z
 category: culture
+summary: "Alan Turing was a mathematician and computer scientist who broke the
+  Enigma code. He was convicted of \"gross indecency\" for being gay and
+  chemically castrated as punishment. Turing created the first “artificial
+  intelligence” machine: a computer that could simulate a person’s intelligence.
+  He also created machines that could play music and measure the amount of
+  oxygen in the brain. Turing's idea was a revolutionary idea that would later
+  influence the creation of all modern computers. Two years later, he killed
+  himself with cyanide."
 ---
 
 ## Deciphering the Enigma

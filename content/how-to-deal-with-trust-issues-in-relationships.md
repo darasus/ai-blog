@@ -3,6 +3,14 @@ title: How to deal with trust issues in relationships
 createdAt: 2022-07-08T06:23:07.789Z
 updatedAt: 2022-07-16T15:06:47.726Z
 category: life
+summary: There are some instances where you should pay attention to your red
+  flags. Certain things may indicate that you’re dealing with a manipulative or
+  abusive partner. Don’t rush things and fix everything at once just leads to
+  more stress and problems rather than solutions. It takes time and effort to
+  build a healthy relationship and trust takes time, too. Let your partner know
+  what you need from them, such as an agreement on what type of relationship you
+  two are in, the expectations you have of the relationship, and anything else
+  that may be concerning you.
 ---
 
 ## Don’t Ignore Red Flags

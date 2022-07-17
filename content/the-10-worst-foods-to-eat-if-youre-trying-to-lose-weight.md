@@ -3,6 +3,13 @@ title: The 10 Worst Foods to Eat if You're Trying to Lose Weight
 createdAt: 2022-07-09T06:37:54.079Z
 updatedAt: 2022-07-17T06:04:46.417Z
 category: cooking
+summary: Eating lots of cheese can set you up for weight gain because you’ll be
+  consuming a lot of fat and very few nutrients, which will slow down your
+  weight-loss progress. Avoid processed meats like deli meats, bacon and sausage
+  since they’re high in fat and sodium, and provide little nutritional value.
+  Instead, try to find healthier alternatives, like turkey or chicken breast,
+  which are lower in fat than bacon or sausage. Avoid ice cream since it’s high
+  in calories and provides few nutrients that are helpful for losing weight.
 ---
 
 ## Beans and legumes

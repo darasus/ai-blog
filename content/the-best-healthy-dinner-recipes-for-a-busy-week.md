@@ -3,6 +3,12 @@ title: The best healthy dinner recipes for a busy week
 createdAt: 2022-07-07T06:05:42.128Z
 updatedAt: 2022-07-16T16:22:38.283Z
 category: health
+summary: Beans are a cheap, high-protein source of fibre that can be prepared in
+  many different ways. Brown rice takes longer to cook than white rice, but it’s
+  still a quick side dish to prepare. If you don’t like eating egg whites on
+  their own, try adding them to omelettes or quiches, or use them as the base
+  for a frittata. Chicken is a low-cost source of protein that is quick and easy
+  to prepare if you have a few minutes.
 ---
 
 ## Beans

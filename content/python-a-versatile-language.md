@@ -3,6 +3,13 @@ title: Python - A versatile language
 createdAt: 2022-07-09T06:19:05.015Z
 updatedAt: 2022-07-17T06:49:01.324Z
 category: coding
+summary: Python is a general-purpose programming language that was created in
+  1991 by a Dutch programmer named Guido van Rossum. The language has been used
+  in a wide variety of different industries through the years. One of the most
+  common uses of Python is in the fields of data science and machine learning.
+  There are several types of applications and web services that rely on Python
+  for their functionality. We explored what Python is and why it’s so popular
+  and how to learn the language in this article.
 ---
 
 ## What is Python?

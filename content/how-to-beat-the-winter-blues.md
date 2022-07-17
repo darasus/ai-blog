@@ -3,6 +3,14 @@ title: How to beat the winter blues
 createdAt: 2022-07-07T06:05:40.530Z
 updatedAt: 2022-07-16T15:03:29.164Z
 category: life
+summary: Winter blues are common among many people, and there’s a way to beat
+  them. Eating a balanced diet high in fruits and vegetables will help to boost
+  your mood. Light therapy is a great way to treat the winter blues. Try to stay
+  as active as you can, even if it means squeezing in shorter workouts. Take
+  care of yourself, meditate, book a massage, or find other ways to relax and
+  destress. Surround yourself with friends as much as possible. Get together
+  with old friends, meet up with new friends, or take a trip somewhere to visit
+  friends you haven’t seen in a while.
 ---
 
 ## Exercise

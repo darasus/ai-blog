@@ -3,6 +3,14 @@ title: The best games of the year for multiplayer gamers
 createdAt: 2022-07-08T06:02:01.799Z
 updatedAt: 2022-07-17T07:27:35.137Z
 category: gaming
+summary: "Halo 5: Guardians is a must-play game if you are a multiplayer gamer,
+  as this sci-fi shooter is one of the best examples of how great it can be to
+  share an experience with others. If you’re looking for an easy game that is
+  tons of fun, then Rocket League is the game for you. FIFA 17 is a football
+  game that can truly be enjoyed by anyone and is easy to pick up. Mario Party
+  Star Rush is ideal if you want a game to play with friends that is both
+  addictive and fun. Titanfall 2 is a futuristic shooter that allows you to play
+  as a pilot or even a titan."
 ---
 
 ## Halo 5: Guardians

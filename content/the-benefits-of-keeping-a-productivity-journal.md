@@ -3,6 +3,14 @@ title: The Benefits of Keeping a Productivity Journal
 createdAt: 2022-07-07T16:43:25.298Z
 updatedAt: 2022-07-16T15:56:54.062Z
 category: business
+summary: Some common productivity killers include stress, lack of motivation,
+  and not having a plan for your day or week. A productivity journal can help
+  you identify these issues so you can fix them. Tracking your time and tasks
+  allows you to pinpoint the areas you can improve in. Journaling each day about
+  the habits you want to adopt will help you stay focused on your goals. It will
+  also give you something to review and look back on if you’re losing focus. A
+  journal can also help you create new habits to help you get better results in
+  the future.
 ---
 
 ## Know What Gets in the Way of Being Productive

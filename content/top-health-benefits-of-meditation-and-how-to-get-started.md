@@ -3,6 +3,13 @@ title: Top health benefits of meditation and how to get started
 createdAt: 2022-07-07T06:05:41.095Z
 updatedAt: 2022-07-16T16:11:47.939Z
 category: health
+summary: Meditation has been proven to be as effective as medication when it
+  comes to reducing stress and anxiety. Meditation has proven to increase
+  activity in the areas of the brain associated with focus and attention. It can
+  also reduce activity in areas of brain linked to distractions and
+  self-criticism. Meditate is proven to help you cope with stress, as well as
+  increasing your levels of oxytocin (a “love hormone”), you will be better
+  equipped to handle stress and its negative effects on your immune system.
 ---
 
 ## Reduce Stress And Anxiety

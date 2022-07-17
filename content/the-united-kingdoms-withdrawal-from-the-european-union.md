@@ -3,6 +3,15 @@ title: The United Kingdom's withdrawal from the European Union
 createdAt: 2022-07-07T06:16:36.802Z
 updatedAt: 2022-07-17T05:49:11.402Z
 category: politics
+summary: The EU is the UK's main trading partner, accounting for 44% of goods
+  exports in 2017. To avoid supply chain disruptions, businesses should review
+  their supply chain management policies and procedures, as well as contracts
+  and terms of sale. They should also assess the risk of changes in the supply
+  chain, including tariffs and the way products are transported. No one can
+  predict what will happen as the UK leaves the EU without a deal, but
+  businesses can take steps now to prepare for uncertainty and mitigate risk.
+  Companies can also take advantage of new opportunities that may be created by
+  Brexit.
 ---
 
 ## Supply Chain Risk Management

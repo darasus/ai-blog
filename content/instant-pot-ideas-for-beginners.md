@@ -3,6 +3,13 @@ title: Instant Pot Ideas For Beginners
 createdAt: 2022-07-09T06:44:05.055Z
 updatedAt: 2022-07-17T06:22:37.396Z
 category: cooking
+summary: Pressure cooking uses steam to cook food quickly and efficiently, while
+  preserving the nutrients in the food. Pressure cookers come to pressure when
+  the water inside it reaches a certain boiling point. You can’t really cook
+  food that’s meant to be “boiled” in a pressure cooker. The temperature of the
+  pot will range from 100-390F, which is below the boiling temperature of water.
+  The pot inside the appliance is called a “dual pressure” pot. This means that
+  it can cook food at both low pressure and high pressure.
 ---
 
 ## Basics of Using an Instant Pot

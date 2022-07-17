@@ -3,6 +3,14 @@ title: How to use coding
 createdAt: 2022-07-07T06:15:00.849Z
 updatedAt: 2022-07-17T06:33:35.930Z
 category: coding
+summary: Coding is the process of creating a set of instructions for a computer
+  to follow. This is typically done with a computer programming language like
+  Python, Java, or Ruby. It teaches your child to think critically, solve
+  problems, and break down complex ideas into simpler, more manageable parts.
+  The number of people interested in learning to code rising every year, coding
+  is quickly becoming a marketable skill. It is an excellent skill to introduce
+  your child at an early age. It challenges your child’s creative ideas and
+  forces them to break down their ideas.
 ---
 
 ## What Exactly Is Coding?

@@ -3,6 +3,15 @@ title: The basics of mediation
 createdAt: 2022-07-09T06:13:28.729Z
 updatedAt: 2022-07-16T15:50:28.062Z
 category: life
+summary: "Mandatory mediation occurs when a contract or state law requires
+  parties to try mediation before proceeding to litigation. In most states,
+  mediation is mandatory in disputes involving real estate, divorce, and child
+  custody. Mandatory mediation is also required in cases involving contracts,
+  probate, insurance, landlord-tenant disputes, and securities and investment
+  fraud. Mediation is less formal than litigation and allows for flexibility in
+  the process. Advantages of mediation: The parties involved in a mediation are
+  more satisfied with their own solution as opposed to a solution imposed upon
+  them by a judge."
 ---
 
 ## What is mandatory mediation?

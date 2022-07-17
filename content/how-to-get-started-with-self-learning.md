@@ -3,6 +3,13 @@ title: How to Get Started With Self-Learning
 createdAt: 2022-07-09T06:33:34.699Z
 updatedAt: 2022-07-17T07:27:43.126Z
 category: productivity
+summary: The following resources have been shown to be effective in helping
+  adults learn and grow by self-directing their own education. The first step to
+  effective self-learning is finding the right resource for your interests and
+  goals. There are many options available to suit a wide range of interests. Be
+  sure to choose materials and activities that are appropriate for your age and
+  skill level. Video games are more than just a fun hobby; they can also be an
+  effective way to learn new skills and gain knowledge.
 ---
 
 ## A Short Guide to Self-Learning

@@ -3,6 +3,13 @@ title: "Cardano: The Third Generation Crypto"
 createdAt: 2022-07-07T16:55:48.061Z
 updatedAt: 2022-07-17T07:22:49.601Z
 category: crypto
+summary: Cardano is a decentralized public blockchain and cryptocurrency project
+  featuring a new proof-of-stake consensus algorithm. Charles Hoskinson is the
+  CEO of IOHK, the engineering company contracted to work on the design and
+  implementation of Cardano. The Ouroboros protocol reduces the risk of
+  centralization as it allows for both miners (PoW) and transaction verifiers
+  (PoS) to be on a single network. Achieving scalability is crucial for
+  blockchain technology to go mainstream.
 ---
 
 ## What is Cardano?

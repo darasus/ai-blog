@@ -3,6 +3,14 @@ title: "The dark side of big tech: How these companies are harming our society"
 createdAt: 2022-07-08T06:05:41.331Z
 updatedAt: 2022-07-17T07:25:30.872Z
 category: technology
+summary: The social media giant Facebook has been accused of harvesting user
+  data and using it to target users with advertisements. Google uses your email
+  address, interests, browsing history, and even your location to create an
+  incredibly detailed profile of you. Amazon is accused of using data harvesting
+  for bottomless profiling and leaving very little up to chance. Microsoft has
+  also come under fire for forcing consumers to upgrade to Windows 10 and taking
+  away control from consumers. Instagram has been criticized of scanning
+  uploaded images for drugs, guns, and other illegal activities.
 ---
 
 ## Facebook

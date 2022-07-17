@@ -3,6 +3,14 @@ title: Common myths about organic products
 createdAt: 2022-07-09T06:41:55.059Z
 updatedAt: 2022-07-17T06:19:13.871Z
 category: cooking
+summary: Organic food is grown without synthetic pesticides and fertilisers, but
+  it was not created to be more nutritious than conventional food. Studies have
+  shown that organic produce contains more nutrients than conventionally grown
+  produce, especially minerals like potassium, iron and zinc. Organic crops do
+  not contain any toxic chemicals, so organic food is the healthier choice.
+  Certified organic products are only 95% organic and 5% are due to unavoidable
+  contamination. People on a vegan diet are at a greater risk of not getting all
+  the essential nutrients they need from a plant-based diet.
 ---
 
 ## Organic food is more nutritious than conventional food.

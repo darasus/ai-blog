@@ -3,6 +3,13 @@ title: Creating a JavaFX user interface
 createdAt: 2022-07-09T06:24:03.671Z
 updatedAt: 2022-07-17T06:56:42.314Z
 category: coding
+summary: A JavaFX user interface is created from a number of elements. These
+  elements are organized into a Scene, which is the root of all JavaFX
+  interfaces. The VBox is used as the root node of the Scene, so it has no
+  positioning. The layout defines how the controls inside the VBox will be
+  positioned, and how large each control will be. The next step is to select a
+  control to be used in our JavaFX User Interface. We also learned about the
+  advantages of using third-party libraries.
 ---
 
 ## Creating a JavaFX User Interface: The Basics

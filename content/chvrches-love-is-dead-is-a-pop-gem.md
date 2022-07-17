@@ -3,6 +3,13 @@ title: "\"Chvrches' 'Love Is Dead' is a Pop Gem\""
 createdAt: 2022-07-08T05:59:16.955Z
 updatedAt: 2022-07-17T07:26:27.059Z
 category: culture
+summary: The synth is the backbone of Chvrches’ sound, and it rarely gets more
+  explicit than on “Love Is Dead” The band is known for their synth-heavy sound,
+  but here they embrace it without reservation. Lauren Mayberry’s vocals are
+  sharp and clear, like a knife slicing through the air. The drums hit hard and
+  heavy, hitting you on the head every time you start to relax. The lyrics are
+  barbed, and they pull no punches when it comes to criticizing society's ills.
+  The title track takes aim squarely at toxic masculinity.
 ---
 
 ## The Synths Are as Big a Star as ever

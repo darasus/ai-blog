@@ -3,6 +3,15 @@ title: 5 Unexpected benefits of a Plant based diet
 createdAt: 2022-07-09T06:38:37.597Z
 updatedAt: 2022-07-17T06:14:38.376Z
 category: cooking
+summary: The high levels of vitamins, minerals and healthy fats found in a
+  plant-based diet will give you lots of energy, help to improve your
+  complexion, and can help you to lose weight. High levels of iron found in
+  plant foods can help to prevent an iron deficiency, which is common in people
+  with poor diets. Vitamin C in a diet can help prevent wrinkles and fine lines
+  from forming around your eyes, mouth and nose. The high amounts of vitamins
+  and minerals in a vegan diet are very useful for maintaining a healthy weight.
+  They can also lower your cholesterol levels and decrease your risk of
+  developing cardiovascular disease.
 ---
 
 ## 5 Unexpected benefits of a Plant Based Diet

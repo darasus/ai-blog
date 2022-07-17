@@ -3,6 +3,13 @@ title: Go language for object-oriented programming
 createdAt: 2022-07-09T06:31:49.327Z
 updatedAt: 2022-07-17T07:18:13.926Z
 category: coding
+summary: Go is a programming language that was created by a group of developers
+  at Google in 2007. It is commonly used for web development, networks, and
+  bioinformatics. It has a strong focus on simplicity and making the process of
+  creating software easier for programmers. Go is an object-oriented programming
+  language, which means that all of your programs will be based on objects. Go
+  has a low barrier to entry, backed by a strong and growing community, and is
+  relatively easy to find a job with.
 ---
 
 ## What is Go?

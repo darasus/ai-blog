@@ -3,6 +3,13 @@ title: What are fermented foods & why you should start eating them
 createdAt: 2022-07-09T06:40:19.794Z
 updatedAt: 2022-07-17T06:17:23.406Z
 category: cooking
+summary: Fermented food is a natural process that’s been happening since the
+  beginning of time. Fermented foods are very good for us because they’re rich
+  in probiotics that are. rich in vitamin C, they can boost your. immunity and
+  protect you from illnesses like the common cold and flu. Fermentation foods
+  are rich in. vitamin B, as they have been shown to kill off cancer in cancer.
+  The benefits of a healthy gut are clear, clear and clear. of not starting to
+  eat more of them today!
 ---
 
 ## What are fermented foods?

@@ -3,6 +3,15 @@ title: The Top Software Engineering Programs
 createdAt: 2022-07-09T06:18:08.080Z
 updatedAt: 2022-07-17T06:35:14.475Z
 category: coding
+summary: The field of software engineering is one of the most important and
+  fastest-growing in today’s economy. Software engineers can work with a variety
+  of different types of systems, including computer systems, mobile device
+  systems, and embedded systems that are used in everyday devices like cars,
+  robots, and medical devices. Computer science programs generally focus on the
+  theory and practice of computer programming and typically provide a strong
+  foundation for a career in software engineering. Double-degree programs that
+  combine a computer science degree with a software engineering degree offer
+  more flexibility in pursuing specific software engineering specialties.
 ---
 
 ## Overview of Software Engineering

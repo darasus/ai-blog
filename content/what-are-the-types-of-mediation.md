@@ -3,6 +3,14 @@ title: What are the types of mediation?
 createdAt: 2022-07-09T06:15:38.781Z
 updatedAt: 2022-07-16T15:50:10.246Z
 category: life
+summary: Collaborative mediation goes beyond dispute resolution to explore ways
+  of creating a partnership between the parties. Alternative dispute resolution,
+  commonly known as ADR, is a way of resolving conflict outside of courts.
+  Family mediation is a form of alternative dispute resolution (ADR) that is
+  used to resolve disputes among family members in a constructive and
+  non-adversarial way. Tribal mediation is designed to deal with issues that are
+  both intensely personal and highly charged. Mediation is an effective way to
+  resolve conflicts and disputes without going to court.
 ---
 
 ## Collaborative Mediation

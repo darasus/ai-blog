@@ -4,6 +4,14 @@ title: "How To Make Websites With JavaScript: A Step-by-Step Guide To Learning
 createdAt: 2022-07-17T07:19:11.564Z
 updatedAt: 2022-07-17T07:19:11.564Z
 category: coding
+summary: JavaScript is a programming language that allows website designers to
+  write code that interacts with the user’s browser. The language is used on
+  millions of websites, including popular ones like Google, YouTube, and
+  Facebook. Coding is a great skill to have on your resume because it's
+  in-demand. Employers are looking for people who can do more than just read and
+  write. There are many different ways to go about learning JavaScript,
+  including online courses, books and apps. The best way to start learning any
+  new skill is to create a solid foundation.
 ---
 
 ## What is JavaScript?

@@ -3,6 +3,15 @@ title: The Top Software Engineering Trends
 createdAt: 2022-07-09T06:17:37.252Z
 updatedAt: 2022-07-17T06:34:44.987Z
 category: coding
+summary: Big data is a term used to describe the large quantities of data that
+  are being collected on a global scale by enterprises. Machine learning is the
+  process of training an algorithm to recognize patterns in data by feeding it
+  that data. The blockchain is a distributed ledger that is open to the public
+  and allows users to track the transfer of assets. As a blockchain engineer,
+  you’ll be tasked with creating blockchain architectures, developing
+  applications, and building out new solutions. As IoT devices continue to grow
+  in popularity, there will be an increased demand for engineers who specialize
+  in IoT and data architecture.
 ---
 
 ## Big Data and Machine Learning

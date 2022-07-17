@@ -3,6 +3,14 @@ title: How can mediation help me?
 createdAt: 2022-07-09T06:14:14.087Z
 updatedAt: 2022-07-16T15:48:02.817Z
 category: life
+summary: Mediation is a non-adversarial approach to dispute resolution. This
+  simply means that the focus is on finding a solution that works for everyone,
+  instead of winning or losing. Mediation allows parties to explore the issues
+  and find mutually satisfying solutions. Mediators help parties in conflict
+  identify the type of conflict they are dealing with and how they can manage it
+  to create a collaborative environment. Mediated is a great tool for growth
+  because it is a safe environment where you can experiment with new ways of
+  relating and problem-solving.
 ---
 
 ## Understanding the Basics of Mediation

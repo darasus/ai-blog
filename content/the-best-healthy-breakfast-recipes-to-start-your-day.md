@@ -3,6 +3,13 @@ title: The best healthy breakfast recipes to start your day
 createdAt: 2022-07-07T06:05:41.855Z
 updatedAt: 2022-07-16T16:20:18.922Z
 category: health
+summary: Oatmeal is another great source of protein and fiber, making it a very
+  healthy breakfast option. Eggs contain a decent amount of cholesterol, so if
+  you’re at high risk for heart disease, you may want to avoid them. If you're
+  worried about the cholesterol in eggs, pair them with foods that lower your
+  cholesterol, like chia seeds or flaxseeds. A high-protein diet can help you
+  feel full for longer and reduce cravings for sugary snacks. A protein shake is
+  a quick and easy way to incorporate more protein into your diet.
 ---
 
 ## Eggs

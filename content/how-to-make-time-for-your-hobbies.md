@@ -3,6 +3,13 @@ title: How to make time for your hobbies
 createdAt: 2022-07-07T06:05:40.461Z
 updatedAt: 2022-07-16T15:01:21.837Z
 category: life
+summary: To make space for your hobbies, start by identifying these meaningless
+  or non-essential tasks. If you spend hours on end doing housework or errands
+  that can easily be outsourced to others, you might want to hire someone to
+  handle those tasks for you. Let go of something that no longer brings you joy
+  or that you’ve outgrown. Ask for help with your hobbies and ask your loved
+  ones to help you create time for them. Hobbies can be a great way to build new
+  skills and foster creativity and curiosity.
 ---
 
 ## Cut Out Tasks That Don’t Contribute to Meaning and Happiness

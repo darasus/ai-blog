@@ -3,6 +3,13 @@ title: 10 ways to make your commute less stressful
 createdAt: 2022-07-07T06:05:40.779Z
 updatedAt: 2022-07-16T16:09:58.167Z
 category: health
+summary: Planning your route in advance will allow you to be more prepared for
+  any traffic issues that could arise. Avoid driving at rush hour to avoid the
+  worst traffic and keep your stress levels low. Don’t feel obligated to answer
+  work-related emails or take calls if you’re not available to take calls or
+  emails. Bring scented items with you on your commute can help reduce stress
+  and anxiety. Set an intention for your day to define what you look like and
+  what your intentions are during the day will also help you calm down.
 ---
 
 ## Plan your route in advance

@@ -3,6 +3,14 @@ title: Working with databases in Java
 createdAt: 2022-07-09T06:25:16.133Z
 updatedAt: 2022-07-17T07:14:39.984Z
 category: coding
+summary: The Java Database Connectivity library is the library that translates
+  between your code and the database itself. It’s an API that lets you execute
+  SQL statements against any database that has an implementation of JDBC. The
+  code below is a very basic example of creating a data table in a database and
+  then inserting a record into that table using Java code. It will compile
+  against any version of Java from 1.8 onwards and against any databases that
+  has a JDBC driver. There are dozens of database libraries for Android, each
+  with its own advantages and disadvantages.
 ---
 
 ## Database Basics

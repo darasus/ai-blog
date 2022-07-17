@@ -3,6 +3,14 @@ title: "Stellar: The Banking Crypto"
 createdAt: 2022-07-07T16:56:01.371Z
 updatedAt: 2022-07-17T07:22:49.576Z
 category: crypto
+summary: Stellar is a blockchain protocol that facilitates cross-border
+  payments. The network is decentralized, meaning it is not owned or managed by
+  any single authority. The protocol is designed to facilitate low-cost and
+  quick transfers between two parties. Stellar can process about 1,000
+  transactions per second, making it one of the fastest decentralized exchanges
+  in existence. It also supports the creation of “asset-backed” tokens that
+  represent real-world assets like gold coins, company stock, or real estate. In
+  2015, Stellar was used to facilitate a $100 million payout from WalMart.
 ---
 
 ## What is Stellar?

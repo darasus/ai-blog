@@ -3,6 +3,14 @@ title: How to Turn Your Passion Into a Profitable Business
 createdAt: 2022-07-07T16:45:02.439Z
 updatedAt: 2022-07-16T15:58:19.981Z
 category: business
+summary: The first step in starting a business is deciding what you want that
+  business to be. There are a few things you should consider when defining your
+  company’s mission and goals. You also need to consider your own strengths and
+  weaknesses in relation to the business you’re planning to start. Narrowing
+  down your product or service can be one of the toughest challenges for a new
+  business because it requires you to really hone in on your product. Deciding
+  on your business structure depends on a number of factors, including your
+  industry, your sales volume, and your business type.
 ---
 
 ## Define Your Company’s Mission And Goals

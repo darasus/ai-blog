@@ -3,6 +3,13 @@ title: "\"BTS's 'Love Yourself: Tear' is a Triumph\""
 createdAt: 2022-07-08T05:58:55.248Z
 updatedAt: 2022-07-17T07:26:31.862Z
 category: culture
+summary: A lot of the Love Yourself series has focused on the idea of falling in
+  love with yourself and the beauty within each person. Lyrics about learning to
+  love yourself no matter what, about not needing anyone else’s approval to feel
+  good about yourself and about finding confidence in yourself. BTS have
+  referred to their past struggles with self-confidence, but now they’re
+  confident in their abilities. The new confidence has led to some really odd
+  and silly outfits, hairstyles and lyrics that make no sense whatsoever.
 ---
 
 ## Lyrics About Self-Love and Confidence

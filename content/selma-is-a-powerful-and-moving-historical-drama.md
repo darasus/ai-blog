@@ -3,6 +3,13 @@ title: '"Selma" is a powerful and moving historical drama'
 createdAt: 2022-07-08T05:57:20.311Z
 updatedAt: 2022-07-17T07:25:49.328Z
 category: culture
+summary: '"Selma" is a powerful and moving historical drama that is as relevant
+  today as it was in the 1960s. The film is recommended for viewers 13 years and
+  older due to scenes of violence (including brutal police mistreatment,
+  assault, and sexual assault) and some sexual content (including a scene where
+  a protester is groped by a law enforcement officer) “Selma’s director, Ava
+  DuVernay, has a deep respect and admiration for the African-American activists
+  who paved the way for future generations.'
 ---
 
 ## Synopsis

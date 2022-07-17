@@ -3,6 +3,13 @@ title: '"5 Best Albums of 2018 (So Far)"'
 createdAt: 2022-07-08T05:58:26.711Z
 updatedAt: 2022-07-17T07:25:59.224Z
 category: culture
+summary: English singer-songwriter Dua Lipa released one of the catchiest pop
+  albums of the year with her self-titled record. Maroon 5 released their first
+  album in four years this year. Chicago rapper Noname released her second
+  studio album this year, having first gained attention for her verse on Chance
+  the Rapper’s song “Lost” Her new album “Room 25” is a great collection of
+  thoughtful and introspective music. Miguel released an album that is perfect
+  for relaxing and unwinding from a long day.
 ---
 
 ## Thistles B

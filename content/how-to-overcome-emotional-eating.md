@@ -3,6 +3,14 @@ title: How to overcome emotional eating
 createdAt: 2022-07-07T06:05:41.453Z
 updatedAt: 2022-07-16T16:17:32.555Z
 category: health
+summary: You can start by creating a daily meal ritual that helps you to break
+  the cycle of emotional eating and put you in a better mindset for making
+  healthier food choices. Eating quickly can increase feelings of hunger and
+  overeating, plus it’s associated with an increased risk of developing
+  cardiovascular diseases. Eating more fibre can help to reduce hunger, improve
+  digestive issues and reduce feelings of anxiety and make it more likely to
+  turn to food again when you’re not hungry. Eating slowly can help you to
+  savour your food, be more mindful and help prevent overeating.
 ---
 
 ## Understand The Root Cause Of Your Emotional Eating

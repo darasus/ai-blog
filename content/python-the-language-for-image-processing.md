@@ -3,6 +3,14 @@ title: Python - The language for image processing
 createdAt: 2022-07-09T06:21:12.967Z
 updatedAt: 2022-07-17T06:54:13.435Z
 category: coding
+summary: Image processing is a vast and interdisciplinary field with
+  applications in many fields, including engineering, medicine, science,
+  architecture, and visual arts. Python makes it easier to process images with
+  its simple syntax and available libraries for image processing. Python is easy
+  to read and write, which makes it a good choice for beginners. OpenCV is a
+  popular open-source library for computer vision that can be used with Python.
+  You can also create GUIs using libraries like Tkinter or WXPython that can run
+  on Windows, macOS, or Linux.
 ---
 
 ## Introduction to Image Processing

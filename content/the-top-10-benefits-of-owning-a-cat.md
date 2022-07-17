@@ -3,6 +3,14 @@ title: The Top 10 Benefits of Owning a Cat
 createdAt: 2022-07-09T06:12:00.974Z
 updatedAt: 2022-07-16T15:43:45.894Z
 category: life
+summary: Cat owners are less likely to suffer from Seasonal Affective Disorder
+  (SAD) and the risk of developing a mental illness such as schizophrenia is
+  lower for people who live with cats. Cats produce certain proteins called
+  cytokines, which have been shown to help regulate the human immune system. The
+  act of petting a cat can lead to a significant decrease in blood pressure,
+  pulse rate, and levels of the stress hormone cortisol. Cats are very good at
+  reading human body language and they intuitively know when you are stressed or
+  anxious.
 ---
 
 ## Increased Mental Health

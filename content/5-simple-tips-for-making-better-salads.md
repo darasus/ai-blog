@@ -3,6 +3,14 @@ title: 5 simple tips for making better salads
 createdAt: 2022-07-07T06:05:39.986Z
 updatedAt: 2022-07-17T06:01:01.951Z
 category: cooking
+summary: Eating healthy doesn’t mean you have to give up all the nice things in
+  life, like yummy food and tasty drinks. Instead of relying on bad oils to make
+  your salads taste better, you can use one of these five alternatives. Add lots
+  of vegetables with different flavours and textures to your salads. Add
+  protein-rich foods like beans, nuts, seeds, quinoa, tofu, poultry, fish, and
+  eggs to salads. They are good sources of protein, fibre, vitamins, and
+  minerals. Add a variety of fruits in small amounts and make sure they’re fresh
+  and crisp.
 ---
 
 ## By now you’re probably thinking, “Great! But how?”

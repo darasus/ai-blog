@@ -3,6 +3,16 @@ title: How Blockchain Technology Can Help Your Company
 createdAt: 2022-07-07T16:58:56.917Z
 updatedAt: 2022-07-17T07:23:44.417Z
 category: crypto
+summary: The decentralized nature of blockchain technology means that all data
+  is owned and controlled by the organization that has implemented the
+  technology. Decentralized databases do not have these issues since the
+  organization in question has complete control over their data. Identity
+  management is one of the most important use cases for blockchain in the
+  enterprise. Smart contracts are basically computer programs that are stored in
+  a blockchain network. This prevents them from tampering with contracts, supply
+  chain records, or any other important data that is being managed by the
+  network. We have compiled a list of the top 5 reasons why businesses should
+  adopt blockchain technology.
 ---
 
 ## Decentralized Data

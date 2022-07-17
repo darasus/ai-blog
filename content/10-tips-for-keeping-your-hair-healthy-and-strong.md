@@ -3,6 +3,12 @@ title: 10 tips for keeping your hair healthy and strong
 createdAt: 2022-07-07T06:05:40.870Z
 updatedAt: 2022-07-16T16:10:05.814Z
 category: health
+summary: Too much washing strips the hair of its natural oils (which are there
+  to protect it) Over time, this can lead to breakages, frizziness, and general
+  dryness. Shampoos and conditioners are a great place to start. Look for
+  shampoos that are free of sulfates, as these can be very harsh on strands.
+  Rinsing your hair with lemon juice and apple cider vinegar can also aid in
+  strengthening your hair. Give your hair a protein boost every now and then.
 ---
 
 ## Basically, don't over-wash

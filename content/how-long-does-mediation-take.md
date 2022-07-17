@@ -3,6 +3,14 @@ title: How long does mediation take?
 createdAt: 2022-07-09T06:15:57.725Z
 updatedAt: 2022-07-16T15:50:03.542Z
 category: life
+summary: Mediation is an alternative dispute resolution procedure that helps two
+  parties find common ground and reach a mutually beneficial outcome. Mediation
+  can be useful where there are multiple parties, a lot of money on the line,
+  and/or complex issues of law and fact that need to be worked out. The goal of
+  mediation is to help all parties find mutually beneficial solution that works
+  for everyone, so in simple cases the mediator will help the parties
+  brainstorm, negotiate, and collaborate towards the best possible solution. In
+  complex cases, mediation is often a multi-session process.
 ---
 
 ## Mediation for simple cases

@@ -3,6 +3,14 @@ title: The benefits of a plant-based diet
 createdAt: 2022-07-07T06:05:41.811Z
 updatedAt: 2022-07-16T16:20:05.808Z
 category: health
+summary: A plant-based diet is a type of dietary pattern that focuses primarily
+  on whole plants such as vegetables, legumes, fruits, nuts, seeds, and grains.
+  The benefits include improved digestive health, reduced risk of certain
+  cancers, and better management of chronic conditions. Plant-based diets can
+  also help with weight management and be protective against type 2 diabetes,
+  heart diseases, and hypertension. An important advantage is that it can help
+  people manage conditions such as gastrointestinal disorders and autoimmune
+  diseases such as rheumatoid arthritis and multiple sclerosis.
 ---
 
 ## An Introduction to a Plant-based diet

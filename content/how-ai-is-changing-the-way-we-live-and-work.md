@@ -3,6 +3,13 @@ title: How AI is changing the way we live and work
 createdAt: 2022-07-07T06:05:40.621Z
 updatedAt: 2022-07-17T07:24:48.777Z
 category: technology
+summary: Artificial Intelligence is the ability of a computer or machine to
+  “think” and make decisions on its own. AI is used to make predictions, solve
+  problems and automate tasks that would typically require human intelligence.
+  AI can be used to create personalized experiences, recommend products, predict
+  customer churn and create virtual assistants like Siri and Alexa. It is being
+  applied to a wide range of industries and use cases throughout the customer
+  journey — from advertising, to customer service, to CRM, to sales.
 ---
 
 ## What is Artificial Intelligence?

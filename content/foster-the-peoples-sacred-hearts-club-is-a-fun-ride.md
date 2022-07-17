@@ -3,6 +3,13 @@ title: "\"Foster the People's 'Sacred Hearts Club' is a Fun Ride\""
 createdAt: 2022-07-08T05:59:39.176Z
 updatedAt: 2022-07-17T07:27:01.173Z
 category: culture
+summary: "\"Sacred Hearts Club\" is chock-full of songs that sound like the band
+  is trying to find themselves by not being themselves. The album’s lead single,
+  “Pay the Rent,” is a prime example of how Foster the People is trying way too
+  hard to be something they aren’t. The band's attempt to emulate the sound
+  they’ve always loved comes across as forced and contrived. It almost feels
+  like they're trying to cash in on nostalgia for a time you didn't live
+  through."
 ---
 
 ## A brief history of Foster the People

@@ -3,6 +3,14 @@ title: The best coding resources for beginners
 createdAt: 2022-07-07T06:10:52.634Z
 updatedAt: 2022-07-17T06:30:23.635Z
 category: coding
+summary: Codecademy is one of the oldest and most popular websites for beginner
+  coding tutorials. Code School is another popular choice for beginners looking
+  to start learning to code. Coursera is not an online tutorial site with
+  pre-made videos and resources. Google Codelabs are a great resource for those
+  looking to further advance their coding skills. EdX is a non-profit online
+  learning platform that partners with universities and organizations to offer
+  online courses across a wide variety of topics. If you want to learn from the
+  best experts in the field, than edX might be a great option for you.
 ---
 
 ## Codecademy

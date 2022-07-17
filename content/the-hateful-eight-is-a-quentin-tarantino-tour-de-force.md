@@ -3,6 +3,15 @@ title: '"The Hateful Eight" is a Quentin Tarantino tour de force'
 createdAt: 2022-07-08T05:56:34.659Z
 updatedAt: 2022-07-17T07:28:32.531Z
 category: culture
+summary: There are only a handful of scenes with any action in them, three of
+  which are significant for the context of one of the film’s themes, a fourth of
+  which is a brief but memorable stage show. The Hateful Eight is an ensemble
+  film, a film with a large number of characters and subplots, but also features
+  some characters who are not central to the plot. The main story, though, is
+  about two men – a bounty hunter who must find and kill another man, a man who
+  must survive and find a way to save his dead friend's family. Despite the fact
+  that the film is about race and racism, almost nobody in the movie is actually
+  racist.
 ---
 
 ## A movie about talking

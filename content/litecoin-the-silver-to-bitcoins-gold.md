@@ -3,6 +3,14 @@ title: "Litecoin: The Silver to Bitcoin's Gold"
 createdAt: 2022-07-07T16:54:26.448Z
 updatedAt: 2022-07-17T07:22:45.497Z
 category: crypto
+summary: Litecoin was created in 2011 as a “fork” of the Bitcoin blockchain. The
+  network is able to produce 84 million Litecoin tokens compared to Bitcoin’s 21
+  million. The most important difference between the two cryptocurrencies is
+  their mining difficulty. Litecoin has a much smaller chance of increasing in
+  value as dramatically as Bitcoin in the long run. There is also a higher rate
+  of inflation for Litecoin, meaning that the value of each token will slowly
+  decrease over time. The best place to buy and store Litecoin is in a digital
+  wallet.
 ---
 
 ## What is Litecoin?

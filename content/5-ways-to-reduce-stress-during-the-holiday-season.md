@@ -3,6 +3,13 @@ title: 5 ways to reduce stress during the holiday season
 createdAt: 2022-07-07T06:05:40.346Z
 updatedAt: 2022-07-16T14:57:12.879Z
 category: life
+summary: The holidays can be a wonderful time to spend with friends and family
+  if you don't take steps to reduce your stress. The best way to reduce stress
+  is to plan ahead and have a plan for when or where you have to do things.
+  Manage your time during the holiday season is to set aside a certain amount of
+  time for each task that you need to accomplish, and then stay focused on that
+  task until it is done. When we are grateful, we are happy with what we have,
+  and we don’t feel the need to have more to do.
 ---
 
 ## Plan ahead

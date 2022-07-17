@@ -3,6 +3,14 @@ title: "Qtum: The Smart Contract Blockchain"
 createdAt: 2022-07-07T16:56:50.523Z
 updatedAt: 2022-07-17T07:22:43.021Z
 category: crypto
+summary: Bitcoin is a digital currency that can be transferred directly from one
+  user to another on a peer-to-peer network. There are no banks or middlemen
+  involved in these transactions, and the network is decentralized. This means
+  that there is no central authority that governs or controls these networks.
+  The network uses Bitcoin’s blockchain as a trustless and decentralized system
+  for verifying transactions. The Qtum network uses two different proof of stake
+  consensus algorithms for mining new coins and validating transactions. This
+  allows Qtum to combine the best of both worlds, so to speak.
 ---
 
 ## What is Ethereum?​

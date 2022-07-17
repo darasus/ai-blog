@@ -3,6 +3,13 @@ title: The best games of the year for adults
 createdAt: 2022-07-08T06:01:13.148Z
 updatedAt: 2022-07-17T07:26:57.594Z
 category: gaming
+summary: "The best rated adult games are out there and waiting for you to play
+  them! If you’re looking for a game that is more mature, then you can’t go to
+  any of these titles. From first-person shooters to hack and slash games, there
+  are some of the best adult games out there. These include The Last of Us
+  remastered and Metal Gear Solid 5: The Phantom Pain and Bioshock Infinite. If
+  you are looking for something to keep you entertained for hours on end, this
+  is one to consider."
 ---
 
 ## The Last of Us Remastered

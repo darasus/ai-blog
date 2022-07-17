@@ -3,6 +3,13 @@ title: 50 ways to keep the spark alive in your relationship
 createdAt: 2022-07-08T06:22:45.690Z
 updatedAt: 2022-07-16T15:05:36.542Z
 category: life
+summary: The best ways to keep the spark alive in your relationship is to go on
+  dates together. Take care of yourself, take care of your health and take up a
+  new hobby. Reconnect with your partner’s little idiosyncrasies to bring you
+  closer together. Try surprising your partner with a small gift – even
+  something as simple as a card with a special message inside – or doing
+  something thoughtful to help relieve their stress. Planning a trip together
+  doesn’t have to be hard – you can go almost anywhere.
 ---
 
 ## Go on a Date

@@ -3,6 +3,14 @@ title: How to make healthier choices when eating out
 createdAt: 2022-07-07T06:05:42.150Z
 updatedAt: 2022-07-16T16:22:31.970Z
 category: health
+summary: Eating out at a restaurant or a cafe is often a spur-of-the-moment
+  affair, but knowing a little about the menu selection in advance can make a
+  huge difference in how healthy your choice is. Go for protein and veggie-based
+  dishes that all feature either protein or veggies as the primary source of
+  calories. Check the calories in advance to make sure that you’re not ordering
+  a meal that would significantly exceed your daily calorie intake. Ask the
+  server if you can get some olive oil, vinegar, lemon, or any other healthy
+  condiment to go with your meal.
 ---
 
 ## Know the menu selection options in advance

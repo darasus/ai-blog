@@ -3,6 +3,13 @@ title: The ultimate guide to understanding - and improving - your metabolism
 createdAt: 2022-07-07T06:05:40.958Z
 updatedAt: 2022-07-16T16:10:52.877Z
 category: health
+summary: Your metabolism is the rate at which your body burns calories and
+  converts them into energy. It’s the minimum amount of calories your body needs
+  to function properly and stay alive. The basal metabolic rate (BMR) accounts
+  for only a fraction of the calories you burn in a day. The rest is accounted
+  for by the thermic effect of food (TEF) and activity level. TEF is the number
+  of calories that are burned to digest food, which means the more you eat, the
+  more calories you spend digesting it.
 ---
 
 ## Basal Metabolic Rate (BMR)

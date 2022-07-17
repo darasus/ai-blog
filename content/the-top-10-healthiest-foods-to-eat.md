@@ -3,6 +3,14 @@ title: The Top 10 Healthiest Foods to Eat
 createdAt: 2022-07-09T06:37:33.600Z
 updatedAt: 2022-07-17T06:15:05.205Z
 category: cooking
+summary: A balanced diet contains the right amount of nutrients that your body
+  needs. This means that it has the correct amount of calories, protein, fat,
+  and carbohydrates. Eating healthy can also help you to maintain a healthy
+  weight. There are many different types of diets that you can choose from. You
+  can follow a high-protein diet, or a high carbohydrate diet. You don’t have to
+  follow one type of diet, you can also mix the two. Each serving should contain
+  at least one cup of vegetables. Vegetables are an important part of a healthy
+  diet.
 ---
 
 ## What Is a Balanced Diet?

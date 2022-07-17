@@ -3,6 +3,14 @@ title: Python - The language for software development
 createdAt: 2022-07-09T06:19:53.259Z
 updatedAt: 2022-07-17T06:52:54.157Z
 category: coding
+summary: Python is a general-purpose programming language that was created in
+  the late 1980s by a group of researchers at the University of California. It
+  has since become one of the most widely used programming languages around the
+  world. Because it is a high-level language, Python can easily be used for a
+  wide range of applications. Python is designed to be straightforward and easy
+  to understand, which makes it a great choice for those who are just beginning
+  to learn how to code. It is easy to learn, versatile, and efficient for
+  software development.
 ---
 
 ## What Is Python?

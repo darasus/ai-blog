@@ -3,6 +3,14 @@ title: How to make your home a haven
 createdAt: 2022-07-07T06:05:41.072Z
 updatedAt: 2022-07-16T16:11:48.297Z
 category: health
+summary: You deserve a home that makes you feel at ease, so take the time to
+  really think about how you want your home to look and feel. Be sure to be
+  honest with yourself when decorating, and don’t go for decorations that you
+  think you should have, but instead go for the decorations that bring you joy.
+  You could go for a bold, bright color scheme that brings warmth and energy to
+  your home, or a more neutral color scheme. Wallpaper can be a great way to add
+  some color and personality to your walls, whilst also protecting them from
+  bumps and scrapes.
 ---
 
 ## Decorating Your Home

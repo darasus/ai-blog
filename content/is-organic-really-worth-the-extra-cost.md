@@ -3,6 +3,14 @@ title: Is Organic Really worth the extra cost?
 createdAt: 2022-07-09T06:39:59.071Z
 updatedAt: 2022-07-17T06:17:31.704Z
 category: cooking
+summary: Organic means “grown without synthetic pesticides, synthetic
+  fertilizers, genetic engineering, or ionizing radiation. Organic produce is
+  grown with fewer pesticides that are less harmful to the environment and to
+  you and your family. Organic meat is often raised on smaller farms that don’t
+  use antibiotics or hormones to speed up the process. Organic dairy is more
+  nutritious because cows are raised on small farms that allow them to graze on
+  pastures. Organic coffee beans are often sprayed with harmful pesticides that
+  can be very harmful to you when you drink them.
 ---
 
 ## How do you know if an Organic Food is really Organic?

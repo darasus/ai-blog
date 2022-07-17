@@ -3,6 +3,13 @@ title: How to cook healthier meals at home
 createdAt: 2022-07-07T06:05:42.060Z
 updatedAt: 2022-07-16T16:21:49.752Z
 category: health
+summary: Plan your healthy meals for the week, and use this to guide your menu
+  planning. Planning your meals also makes it easier to avoid unhealthy
+  impulsive purchases and resist the urge to order takeout. Prepping your
+  ingredients in advance is a great way to save time and money. Add healthy fats
+  to your diet, such as avocados, nuts, seeds, and olive oil, to boost your
+  health. Try to incorporate leafy greens, bell peppers, broccoli, carrots,
+  tomatoes, and more vegetables into your diet.
 ---
 
 ## Plan your meals

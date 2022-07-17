@@ -3,6 +3,14 @@ title: Python - The language of tomorrow
 createdAt: 2022-07-09T06:19:28.314Z
 updatedAt: 2022-07-17T06:52:38.691Z
 category: coding
+summary: Python is one of the easiest programming languages to learn and is used
+  in many industries. Python is a very flexible programming language that means
+  that the code you write in Python is very easy to modify and adjust to do what
+  you want it to do. Because Python is used to write code for many industries,
+  it means that there are many different job opportunities for you when you
+  graduate. Python developers love to hire Python developers when they need to
+  hire someone new. It has great potential to work in finance, healthcare,
+  technology, education, and science.
 ---
 
 ## Python Is Easy To Learn

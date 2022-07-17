@@ -3,6 +3,14 @@ title: The Best Software Engineering Books
 createdAt: 2022-07-09T06:18:05.008Z
 updatedAt: 2022-07-17T06:35:00.367Z
 category: coding
+summary: There are so many interesting topics within the software engineering
+  world, so it’s really up to you where you want to focus your reading. Most of
+  the books on this list are written by experienced professionals who have been
+  in the field for years. Algorithms in Programming Contests is a great book for
+  learning more about algorithms and how they can affect the way your code
+  behaves. Cryptography Engineering is one of the best software engineering
+  books for learning about cryptography, including its history and application
+  in security.
 ---
 
 ## Why You Should Read Software Engineering Books

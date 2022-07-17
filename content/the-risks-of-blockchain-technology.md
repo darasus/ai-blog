@@ -3,6 +3,14 @@ title: The Risks of Blockchain Technology
 createdAt: 2022-07-07T16:58:18.278Z
 updatedAt: 2022-07-17T07:23:45.793Z
 category: crypto
+summary: When you use blockchain, you’ll store data as a series of transactions.
+  Each transaction is recorded on a “block” and linked to the one before it and
+  the one after it. Because of this structure, anyone can see and access that
+  data. Even with permissioned blockchains, you'll lose confidentiality of data
+  because all participants can see the data. If you use the public blockchain,
+  your business will pay for every transaction that occurs on the network.
+  Hybrid blockchains allow you to update the software as needed without
+  affecting the data that is stored on the blockchain.
 ---
 
 ## Loss of Confidentiality

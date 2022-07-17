@@ -3,6 +3,12 @@ title: "\"Death Cab for Cutie's 'Thank You for Today' is a Delight\""
 createdAt: 2022-07-08T05:59:22.386Z
 updatedAt: 2022-07-17T07:26:35.203Z
 category: culture
+summary: New Again is a synth-heavy throwback to the 80s pop era with a modern
+  twist from lead singer and songwriter Ben Gibbard. Good Help is Hard to Find
+  is a tongue-in-cheek track about the difficulties of maintaining a long-term
+  relationship. The album’s themes are family, the passing of loved ones, and
+  appreciation for the loved ones we still have. It is great to see the band
+  experimenting with new sounds and embracing their growth as musicians.
 ---
 
 ## New Again

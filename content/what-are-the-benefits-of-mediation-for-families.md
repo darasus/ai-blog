@@ -3,6 +3,14 @@ title: What are the benefits of mediation for families?
 createdAt: 2022-07-09T06:16:38.481Z
 updatedAt: 2022-07-16T15:50:06.381Z
 category: life
+summary: Mediation offers an alternative to a court battle and often results in
+  an agreement that is more fair and equitable than what might be ordered by a
+  judge. Mediation can help preserve the relationship between the spouses as
+  they try to settle their differences by reaching mutually agreeable solutions.
+  Mediation is often cheaper than litigation because there is no legal bill for
+  depositions, court reporter fees, or other litigation expenses. It's important
+  for divorcing couples to realize that a settlement on these issues is not a
+  punishment for one spouse or an award to the other.
 ---
 
 ## What Are The Implications Of Filing For Divorce?

@@ -3,6 +3,15 @@ title: Python - The language of the web
 createdAt: 2022-07-09T06:18:50.782Z
 updatedAt: 2022-07-17T06:49:05.401Z
 category: coding
+summary: Python is a general-purpose, high-level programming language that is
+  used for various coding applications. Python was created in the late 1980s and
+  was named after the British sketch comedy show Monty Python’s Flying Circus.
+  Python is unique as a programming language due to its readability, simplicity,
+  and effectiveness. There are high job opportunities for Python programmers and
+  demand for Python coders is high. Python can be used to build web apps, mobile
+  apps, or even create computer programs for science, math, and engineering. The
+  best way to become a professional Python programmer is by creating your own
+  projects.
 ---
 
 ## How To Learn Python: A Step-By-Step Guide

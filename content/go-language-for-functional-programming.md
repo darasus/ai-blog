@@ -3,6 +3,16 @@ title: Go language for functional programming
 createdAt: 2022-07-09T06:31:36.434Z
 updatedAt: 2022-07-17T07:18:05.854Z
 category: coding
+summary: Haskell is a pure functional programming language developed in the
+  1970's. Scale is an emerging language that aims to make it easy to write
+  distributed, high-performance systems. CoffeeScript and CoffeeScript are
+  fairly easy to learn and make it easier to adopt functional programming into
+  your workflow. If you want to use a language that is as close to a real
+  programming language as possible, then you should try Haskell. There are many
+  functional programming languages out there, each with its own strengths and
+  weaknesses. To choose the right one for your project, you should consider your
+  preferences for syntax, size of community support, availability of libraries
+  and type of projects you are working on.
 ---
 
 ## Haskell

@@ -3,6 +3,13 @@ title: Meal Prepping On A Budget- tips and tricks
 createdAt: 2022-07-09T06:39:02.790Z
 updatedAt: 2022-07-17T06:14:57.231Z
 category: cooking
+summary: The first step to successful meal prep is a solid meal plan. Plan out
+  each of your meals for the week, including snacks and beverages if you’re
+  trying to adhere to a specific diet. Shop in advance one or two weeks before
+  your meal prep schedule begins. Invest in kitchen appliances that can make
+  cooking easier, like a pressure cooker or food processor. Don’t forget the
+  condiments and condiments that you like to use, make sure you have healthy,
+  low-calorie snacks that support your diet.
 ---
 
 ## Commit to the weekend

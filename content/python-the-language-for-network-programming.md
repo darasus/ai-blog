@@ -3,6 +3,14 @@ title: Python - The language for network programming
 createdAt: 2022-07-09T06:20:40.816Z
 updatedAt: 2022-07-17T06:54:05.084Z
 category: coding
+summary: Network programming is simply the process of writing code that connects
+  a network of computers and programs together. Python is an easy language to
+  learn, but it also has a lot of functionality and flexibility to grow with you
+  as you expand your skills. The Python Standard Library for Networking contains
+  functions and modules that are used for all kinds of networking functions,
+  including connecting to remote hosts and sending data over the internet. The
+  socket module is used to create virtual networking with Python, which allows
+  you to connect and communicate with one another.
 ---
 
 ## What is Network Programming?

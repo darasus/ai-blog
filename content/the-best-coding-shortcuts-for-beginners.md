@@ -3,6 +3,13 @@ title: The best coding shortcuts for beginners
 createdAt: 2022-07-07T06:14:13.983Z
 updatedAt: 2022-07-17T06:33:15.939Z
 category: coding
+summary: Don’t become drowned in details when programming, and if you are a
+  beginner, you will likely become lost in the details. As a beginner coder,
+  it’s best to start with a simple language such as HTML or Python. You can
+  master the art of coding by learning as many shortcuts as you can. If you
+  learn shortcuts, you’ll be able to type faster and more accurately, and you'll
+  save a lot of time and energy in the process. Go Pro With Vim Shortcuts, you
+  should learn a few Vim shortcuts.
 ---
 
 ## Don’t Become Drowned In Details When Coding

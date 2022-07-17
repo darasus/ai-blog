@@ -3,6 +3,13 @@ title: Decadent Desserts That Won't Derail Your Diets
 createdAt: 2022-07-09T06:44:48.168Z
 updatedAt: 2022-07-17T06:23:45.224Z
 category: cooking
+summary: Blueberry Pancakes are packed with protein and will keep you feeling
+  full for longer. Banana Oat Muffins take just 20 minutes to make, so you can
+  enjoy a healthy snack at any time of day. Berry Crumble Bowl is the perfect
+  way to kick-start your day and is packed with fiber and protein. Coconut soup
+  is no surprise to see it in this tasty coconut soup recipe. Coconut shrimp
+  soup is a great way to make a healthy and tasty snack and is great for feeding
+  a crowd.
 ---
 
 ## Blueberry Pancakes With Whipped Cream

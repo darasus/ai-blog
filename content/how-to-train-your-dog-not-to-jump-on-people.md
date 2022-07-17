@@ -3,6 +3,13 @@ title: How to Train Your Dog Not to Jump on People
 createdAt: 2022-07-08T06:26:33.559Z
 updatedAt: 2022-07-16T15:21:14.431Z
 category: life
+summary: This training program is meant to help your dog get used to not jumping
+  on people. It’s not a solution to teach them how to greet people
+  appropriately. It's important to remember that all dogs are individuals. What
+  works for one dog might not work for another, so you need to try different
+  methods. There are lots of ways to train dogs not to jump, but there are many
+  ways to do it. Here are some things you can try if the program above doesn’t
+  work for you and your dog.
 ---
 
 ## The program

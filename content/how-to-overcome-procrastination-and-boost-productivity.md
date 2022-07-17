@@ -3,6 +3,14 @@ title: How to Overcome Procrastination and Boost Productivity
 createdAt: 2022-07-07T16:43:12.872Z
 updatedAt: 2022-07-16T15:56:54.473Z
 category: business
+summary: "There are many potential causes of procrastination, but they all come
+  down to two things: a bad feeling and a bad promise. The formula for
+  procrastinating is simple: the less you want to do something, the more you
+  promise yourself to do it. When the bad feeling of doing something outweighs
+  the bad promise you’re making to yourself, you feel so uncomfortable you just
+  can’t continue working. The secret to overcoming procrastina is to identify
+  and address the causes of your procrastinations, and implement the solution
+  that works best."
 ---
 
 ## The Procrastination Equation

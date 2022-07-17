@@ -3,6 +3,14 @@ title: Tips for Staying Productive Throughout the Day
 createdAt: 2022-07-07T16:42:41.028Z
 updatedAt: 2022-07-16T15:57:14.233Z
 category: business
+summary: A to-do list can be a great way to organize your thoughts, break down
+  large tasks into smaller chunks, and help you stay focused on what needs to be
+  done. Having clear goals will help keep you focused and focused on your work.
+  Tracking your time will help you identify the areas of your life where you’re
+  wasting time and where you could be more productive. Multitasking has become a
+  common practice, but research shows it can actually make us less productive.
+  There is no one right way to track your time, but you must track how you spend
+  your time.
 ---
 
 ## Morning routine

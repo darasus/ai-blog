@@ -3,6 +3,14 @@ title: Rich Internet applications with Java
 createdAt: 2022-07-09T06:28:03.432Z
 updatedAt: 2022-07-17T07:15:36.196Z
 category: coding
+summary: A rich internet application is a meaningful application running on the
+  internet. These types of applications are highly interactive and have a more
+  user-friendly interface than traditional websites. Java is platform
+  independent, which means that a single piece of code can run on any device,
+  regardless of the operating system. Java comes with built-in support for
+  secure Sockets Layer (SSL) connections. Java has a reputation for being
+  reliable, secure, and scalable, which makes it a great choice for developing
+  RIAs.
 ---
 
 ## What is an RIA?

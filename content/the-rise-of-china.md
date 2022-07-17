@@ -3,6 +3,13 @@ title: The Rise of China
 createdAt: 2022-07-07T06:16:46.019Z
 updatedAt: 2022-07-17T05:49:18.484Z
 category: politics
+summary: China is one of the oldest civilizations in the world, with records of
+  civilization going back over 4,000 years. The first time China was recognized
+  as a global superpower was during the Han Dynasty, which existed from 206 BC
+  to 220 AD. China’s rise to prominence is also due to its immense cultural
+  influence. The Chinese government implemented the Great Leap Forward, a
+  campaign of economic development and rapid industrialization. China emerged
+  from the Second World War as one of world's most populous countries.
 ---
 
 ## A brief history of China

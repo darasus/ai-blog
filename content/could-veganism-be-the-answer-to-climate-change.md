@@ -3,6 +3,13 @@ title: Could veganism be the answer to climate change?
 createdAt: 2022-07-09T06:41:23.673Z
 updatedAt: 2022-07-17T06:19:00.483Z
 category: cooking
+summary: Veganism is a lifestyle that seeks to exclude all forms of exploitation
+  of, and cruelty to, the environment, animals, and humans. Vegans have a
+  primarily plant-based diet, and avoid foods that are processed or derived from
+  animals. Climate change is a phenomenon that has the potential to destroy our
+  planet as we know it. The damage caused by climate change is irreversible;
+  it’s something that we can’t adapt to or recover from. Some would argue that
+  veganism does more harm than good to the environment.
 ---
 
 ## What Is Veganism?

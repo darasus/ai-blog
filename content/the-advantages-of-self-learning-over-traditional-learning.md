@@ -3,6 +3,13 @@ title: The Advantages of Self-Learning Over Traditional Learning
 createdAt: 2022-07-09T06:35:07.166Z
 updatedAt: 2022-07-17T07:28:37.741Z
 category: productivity
+summary: With self-learning, you can study whatever you want, you are not
+  limited to curriculums, textbooks or timetables. You can choose to study
+  topics that you are passionate about or that are relevant to your work. You
+  also have the final say on how much effort you put into each topic.
+  Self-learning means you can go as fast or as slow as you like and on subjects
+  that really interest you. It also means you are always growing and improving
+  your problem-solving skills.
 ---
 
 ## You Control Your Learning

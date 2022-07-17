@@ -3,6 +3,15 @@ title: The Power of Blockchain Technology for Business
 createdAt: 2022-07-07T16:59:22.073Z
 updatedAt: 2022-07-17T07:24:54.417Z
 category: crypto
+summary: The blockchain is a distributed ledger that creates an unchangeable
+  record of transactions between two parties. This public ledger is accessible
+  to anyone with internet access, and it allows participants to track and verify
+  transactions. The blockchain technology offers transparency, cost savings, and
+  a new level of security. The supply chain and logistics are the first
+  industries to see significant adoption of blockchain technologies. The
+  technology can be used by many types of organizations to manage their
+  business, but it has especially found an application in retail and in the
+  travel industry.
 ---
 
 ## What is blockchain technology?

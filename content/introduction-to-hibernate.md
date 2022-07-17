@@ -3,6 +3,13 @@ title: Introduction to Hibernate
 createdAt: 2022-07-09T06:26:43.798Z
 updatedAt: 2022-07-17T07:14:56.414Z
 category: coding
+summary: Hibernate is an open source, object-relational mapping mapping (ORM)
+  implementation. The acronym ORM stands for Object-Relational Mapping. It’s a
+  programming paradigm that allows you to access data stored in a relational
+  database using the constructs of object-oriented programming (OOP) like
+  classes, objects, inheritance, etc. Using this API, you can write code as if
+  you are working with a local in-memory data structure but your code is
+  actually accessing the database.
 ---
 
 ## What is Hibernate?

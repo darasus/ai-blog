@@ -3,6 +3,16 @@ title: How big tech is changing the way we live and work
 createdAt: 2022-07-08T06:05:32.760Z
 updatedAt: 2022-07-17T07:25:19.182Z
 category: technology
+summary: Remote work has been around for decades, but as digital technology has
+  advanced, more and more employers have invested in tools that allow them to
+  manage teams across locations. With coworking spaces, virtual reality, and
+  other remote work-friendly innovations, it’s clear that remote work has become
+  an indispensable way of doing business. As more companies adopt remote work
+  and on-demand employee policies, more people are turning to independent
+  contractor roles. Employers who want to stay competitive in the hiring market
+  will need to keep up with this growing trend. As the world of work becomes
+  increasingly automated, soft skills like communication and collaboration
+  become increasingly vital.
 ---
 
 ## The rise of remote work

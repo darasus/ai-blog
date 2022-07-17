@@ -3,6 +3,14 @@ title: Python - An introduction
 createdAt: 2022-07-09T06:18:46.275Z
 updatedAt: 2022-07-17T06:36:05.078Z
 category: coding
+summary: Python is a coding language that has been growing in popularity for
+  several years. It is an open source programming language, which means that it
+  is free to use and distribute. There are a number of different ways to learn
+  the language, including self-guided tutorials, in-person classes, and even
+  online courses. You will only truly master Python if you put in the time and
+  effort to do so, so try and practice it daily. You can choose from a range of
+  Python projects, but we recommend selecting projects that involve creating a
+  simple program or application.
 ---
 
 ## What is Python?

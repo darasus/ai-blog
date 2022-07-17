@@ -3,6 +3,13 @@ title: From soup to nuts - the best recipes for winter
 createdAt: 2022-07-07T06:05:39.777Z
 updatedAt: 2022-07-17T05:58:29.660Z
 category: cooking
+summary: Baked mac and cheese is easy to make and is perfect for a weekend
+  dinner when you want to kick back and relax. A fruity pork stew is ideal for a
+  hearty winter meal. Baked beans are a great breakfast food for winter and are
+  full of protein. You can make a huge pot of chili that will last you for a few
+  days in the winter months. This ice cream cake recipe is great for all times
+  of the year and is great to eat during the winter. It’s also a great way to
+  use leftover chicken that would otherwise be thrown away.
 ---
 
 ## Baked Mac and Cheese

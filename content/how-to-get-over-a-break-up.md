@@ -3,6 +3,13 @@ title: How to get over a break-up
 createdAt: 2022-07-07T06:05:41.004Z
 updatedAt: 2022-07-16T15:07:46.182Z
 category: life
+summary: Exercising is one of the best things you can do for yourself when
+  you're going through a break-up. Indulging in your favourite TV show or movie
+  can be a great way to get over your current emotions. Don’t let yourself fall
+  into the temptation of stalking and haunting your ex because it’s only going
+  to hurt you more in the long run. Write in a journal or diary to help you get
+  to a place of peace after a breakup and remember that you are always in
+  control of yourself.
 ---
 
 ## Talk to Someone

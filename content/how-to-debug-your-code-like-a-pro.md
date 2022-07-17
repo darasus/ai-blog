@@ -3,6 +3,13 @@ title: How to debug your code like a pro
 createdAt: 2022-07-07T06:11:33.934Z
 updatedAt: 2022-07-17T06:30:46.458Z
 category: coding
+summary: Kano Analysis is a 5-stage model of product satisfaction. It was
+  developed by Professor Noriaki Kano as a way to organize customer expectations
+  of what a product will do for them. Stage 1 - Basic requirements - These are
+  the basic features that need to be implemented in order for the product to be
+  considered useful. Stage 5 - Frustration - A feature that is missing, broken,
+  or doesn’t work as expected. Stage 4 - Necessities - These. are features that
+  are nice to have but not essential but help solve a specific problem.
 ---
 
 ## Kano Analysis

@@ -3,6 +3,14 @@ title: How to start investing with little money
 createdAt: 2022-07-07T16:48:24.472Z
 updatedAt: 2022-07-17T05:53:08.101Z
 category: investing
+summary: Start with a small amount and invest regularly with small, regular
+  investments. Diversify your portfolio among many different sectors to reduce
+  your risk of loss. Start with low-fee, low-risk funds and individual stocks,
+  and don't buy anything you don't understand. Mutual funds are a great way to
+  invest money in low-cost mutual funds. Robo-advisors are automated investment
+  services that manage your money with computer algorithms. The best
+  roboadvisors will also help you figure out how much you should be investing
+  and keep track of your progress.
 ---
 
 ## Start with a small amount and invest regularly

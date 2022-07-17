@@ -3,6 +3,15 @@ title: How to Get Your Business Funded
 createdAt: 2022-07-07T16:45:24.402Z
 updatedAt: 2022-07-16T15:58:10.350Z
 category: business
+summary: Small business loans are an easy way to fund your business and are
+  attractive option to investors. Angel investments are a form of equity
+  financing where an investor puts cash into your business in exchange for a
+  portion of the business. Wholesale financing allows you to buy inventory
+  upfront and then sell it at a profit. Crowdfunding platforms like Kickstarter
+  and GoFundMe allow you to raise money from a large group of people. Grants are
+  typically awarded to fund charitable work or to fund research and development.
+  In the end, funding your business is not just about getting cash – it’s about
+  building relationships.
 ---
 
 ## Small Business Loans

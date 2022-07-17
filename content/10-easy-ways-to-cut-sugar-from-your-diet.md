@@ -3,6 +3,13 @@ title: 10 easy ways to cut sugar from your diet
 createdAt: 2022-07-07T06:05:41.203Z
 updatedAt: 2022-07-16T16:12:44.772Z
 category: health
+summary: "If you’re constantly craving sugar, try adding some more fiber to your
+  diet. Eat more fruits, vegetables and whole grains, and drink lots of water.
+  Read the labels on everything you eat, so be aware of hidden sugars. Watch out
+  for these sneaky names for sugar: high fructose corn syrup, corn syrup,.
+  dextrose, glucose, sucrose. Don’t go Hungry: If an item is adulterated, it has
+  been contaminated by something foreign a chemical. If you like sweet coffee,
+  consider mixing in some artificial sweeteners or sugar substitutes."
 ---
 
 ## Change what’s in your coffee

@@ -3,6 +3,14 @@ title: How to make your money work for you - investing 101
 createdAt: 2022-07-07T16:49:59.164Z
 updatedAt: 2022-07-17T05:53:19.728Z
 category: investing
+summary: Investing is about building real, long-term wealth that can help you
+  pay for your car, house, and retirement. The biggest mistake people make when
+  they start investing is they try to pick stocks. Instead, focus on asset
+  allocation. Asset allocation means you decide how much of your money you want
+  to invest in different types of assets like stocks, bonds, and cash. The more
+  you diversify your money, the lower the risk of losing money. Investing when
+  you’re young can help earn compound interest over time and grow your money
+  faster.
 ---
 
 ## Know the difference between investing and speculation

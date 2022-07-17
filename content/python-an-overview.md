@@ -3,6 +3,15 @@ title: Python - An overview
 createdAt: 2022-07-09T06:19:42.187Z
 updatedAt: 2022-07-17T06:52:13.408Z
 category: coding
+summary: Python is an open source programming language that was designed to be
+  readable and easy to understand. It is often used in data analysis, data
+  visualization, web development, scientific computing, artificial intelligence,
+  and robotics applications. Python’s use of English-like syntax and its simple
+  structure make it easy to learn and understand for programmers of all skill
+  levels. Python is free and open source, which makes it easier for a wide
+  variety of users to take advantage of the language. Programmers cite its
+  usefulness in a variety of industries and applications as well as its ease of
+  use.
 ---
 
 ## What is Python?

@@ -3,6 +3,14 @@ title: 5 tips for eating healthy on a budget
 createdAt: 2022-07-07T06:05:40.415Z
 updatedAt: 2022-07-16T15:00:07.224Z
 category: life
+summary: Eating healthy almost always includes eating lots of fruits and
+  vegetables, so buying lots of produce can get expensive very quickly. Buying
+  in bulk is a great way to save money on food because you can buy more and
+  spend less per unit. Eating healthy on a budget is to eat beans and lentils,
+  which are extremely inexpensive and are packed with protein and fiber. There
+  are lots of myths there that vegan diets are more expensive, but this isn’t
+  always the case, even if you’re not vegan, vegan options can be a good choice
+  for many meals.
 ---
 
 ## Plan Your Meals

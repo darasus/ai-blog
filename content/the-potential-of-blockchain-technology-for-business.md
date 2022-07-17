@@ -3,6 +3,16 @@ title: The Potential of Blockchain Technology for Business
 createdAt: 2022-07-07T16:59:09.991Z
 updatedAt: 2022-07-17T07:24:03.099Z
 category: crypto
+summary: A blockchain is a decentralized network of computers that record and
+  verify transactions. Each computer has a list of all transactions that have
+  occurred on the network since it was created. These computers also update
+  everyone’s account balances to reflect the transaction. It can help businesses
+  in essentially any industry track and resell their digital assets. There are
+  many other ways to help businesses, including smart contracts, digital
+  identity management, smart contracts and tracking assets with the help of the
+  blockchain technology. The technology can help you create a decentralized
+  database where you can track everything from items and software to employees
+  and contractors.
 ---
 
 ## What is Blockchain and How Does it Work?

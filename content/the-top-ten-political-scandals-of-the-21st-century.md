@@ -3,6 +3,14 @@ title: The Top Ten Political Scandals of the 21st Century
 createdAt: 2022-07-07T06:15:22.083Z
 updatedAt: 2022-07-17T05:45:51.606Z
 category: politics
+summary: "The U.S. Senate’s “Memogate” scandal is unique because it incorporates
+  all the aspects of a classic political scandal: privacy issues, personal
+  misconduct, and national security. The scandal led to the firings of four Rick
+  Santorum aides and the resignation of Senator Hillary Clinton. The Bush
+  Administration's Iraq War's discrepancy in the Bush Administration was an
+  investigation into White House officials who had misused intelligence to
+  support the war in Iraq. The Snowden leak prompted international debates over
+  civil rights and the appropriate scope of governmental surveillance."
 ---
 
 ## The U.S. Senate’s “Memogate” Scandal

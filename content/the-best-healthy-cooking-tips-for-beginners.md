@@ -3,6 +3,13 @@ title: The best healthy cooking tips for beginners
 createdAt: 2022-07-07T06:05:41.721Z
 updatedAt: 2022-07-16T16:19:22.428Z
 category: health
+summary: Read the recipe before you start cooking to get an idea of what
+  ingredients are needed, how many servings are recommended, and the time needed
+  to cook the meal. Planning your meals for the week will help you prepare for
+  the rest of the week. The oven may seem like it’s only good for baking cookies
+  and roasting a chicken, but it's actually an essential kitchen appliance for
+  healthy cooking. Adding healthy foods to your cooking is an easy way to make
+  sure that you’re eating well without having to completely change your diet.
 ---
 
 ## Read The Recipe Thoroughly Before You Start Cooking

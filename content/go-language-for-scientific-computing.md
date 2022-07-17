@@ -3,6 +3,15 @@ title: Go language for scientific computing
 createdAt: 2022-07-09T06:30:25.771Z
 updatedAt: 2022-07-17T07:19:20.161Z
 category: coding
+summary: Programs written in Go will typically be compiled to several times
+  faster than programs written in languages like C/C++ or Fortran. Go is
+  particularly suitable for computationally intensive tasks such as image
+  processing, machine learning, and data analysis. The Go language is easy to
+  read and maintain, which is ideal for collaborative projects. Go has built-in
+  support for comments, error handling and flow control are among the language
+  features that will make programming in Go an even better experience. The
+  language is an excellent choice for any project that requires scientific
+  computing.
 ---
 
 ## Performance

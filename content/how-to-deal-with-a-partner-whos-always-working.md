@@ -3,6 +3,13 @@ title: How to deal with a partner who's always working
 createdAt: 2022-07-08T06:24:02.556Z
 updatedAt: 2022-07-16T15:11:03.611Z
 category: life
+summary: Co-working is a way of working that brings together people from
+  different companies and industries in a shared space to exchange ideas and
+  collaborate. Here are some tips for dealing with someone who is always
+  working. Remember that your partner’s job can be stressful, and it's important
+  for them to decompress when they come home. Set boundaries and don’t be a
+  martyr, even if your partner is working a lot, you still have to do your fair
+  share around the house and with the kids.
 ---
 
 ## What Is Co-Working?

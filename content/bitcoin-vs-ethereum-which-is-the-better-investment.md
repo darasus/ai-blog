@@ -3,6 +3,13 @@ title: "Bitcoin vs. Ethereum: Which is the Better Investment?"
 createdAt: 2022-07-07T16:54:06.276Z
 updatedAt: 2022-07-17T07:22:44.293Z
 category: crypto
+summary: Bitcoin is a type of “token” that is built on the “proof-of-work”
+  network. Meanwhile, the "Eminium" network allows developers to build
+  applications on the network. Both of these virtual currencies were created
+  using blockchain technology. And they each have a finite supply that is
+  expected to be released over time. Bitcoin's price has been around since 2009,
+  and its price has risen steadily since 2011. Bitcoin’s supply is fixed, which
+  means that the token can be exchanged for a wide range of assets.
 ---
 
 ## What is Bitcoin?

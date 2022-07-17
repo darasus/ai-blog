@@ -3,6 +3,13 @@ title: 5G will transform the way we live, work and play
 createdAt: 2022-07-07T06:05:40.709Z
 updatedAt: 2022-07-17T07:24:38.243Z
 category: technology
+summary: There is no set date for the global rollout of 5G networks. Commercial
+  networks will not be up and running in their final form until 2019 or 2020. 5G
+  will eventually be capable of providing speeds that are up to 10 times faster
+  than what’s possible with 4G LTE. In the US, AT&T, Verizon, T-Mobile, and
+  Sprint have all announced plans to launch limited 5G services in select cities
+  in the first half of next year. In Europe, Vodafone, Orange, Swisscom,
+  Telefonica, BT, and Three have all signed on to participate in 5G trials.
 ---
 
 ## What is 5G?

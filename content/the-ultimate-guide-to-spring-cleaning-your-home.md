@@ -3,6 +3,14 @@ title: The ultimate guide to spring cleaning your home
 createdAt: 2022-07-07T06:05:40.300Z
 updatedAt: 2022-07-16T14:55:54.943Z
 category: life
+summary: A spring cleaning social is a fun event designed to encourage
+  conversation and promote positive change. Make it a social event by inviting
+  your friends to join you in your spring home cleaning efforts. Organizing is
+  the best way to make sure that you don’t miss anything or make a mess as you
+  clean. Check that your vacuum is in good working order before you begin any
+  cleaning. Dust and vacuum everything that needs dusting, from light fixtures
+  and ceiling fans to bookshelves and knick-knacks, as these are often
+  overlooked when cleaning.
 ---
 
 ## Choose a date and invite your friends

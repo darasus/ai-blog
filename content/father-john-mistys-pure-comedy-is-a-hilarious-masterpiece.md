@@ -3,6 +3,14 @@ title: "\"Father John Misty's 'Pure Comedy' is a Hilarious Masterpiece\""
 createdAt: 2022-07-08T05:59:35.853Z
 updatedAt: 2022-07-17T07:26:38.586Z
 category: culture
+summary: Pure Comedy is an ambitious, wide-ranging statement that is
+  well-conceived, deftly executed and persistently compelling. The songs are
+  wonderfully varied and sonically expansive, thanks to the assistance of
+  producer Jonathan Wilson, and the lyrics are consistently incisive and
+  insightful. The music, on the other hand, reflects the chaos of an existence
+  driven by consumerism, vanity, and instant gratification. The album opens with
+  the sound of a cash register and a voice intoning, “Welcome to the comedy
+  show.” It’s a multi-genre parade of human absurdity.
 ---
 
 ## The best album of 2017?

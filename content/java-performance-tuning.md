@@ -3,6 +3,13 @@ title: Java performance tuning
 createdAt: 2022-07-09T06:27:22.065Z
 updatedAt: 2022-07-17T07:15:28.643Z
 category: coding
+summary: You should measure your application’s performance before tuning the
+  JVM. The first thing we’ll discuss when it comes to tuning is heap size.
+  Caching bytecode for your entire app can cause issues if two or more different
+  classes need to be compiled at the same time. Adding fast-path code to your
+  Java code can help improve performance by eliminating the overhead of creating
+  a new thread for every call it’�s created. Use API'path code in Java code that
+  will be used often, and others will only be used occasionally.
 ---
 
 ## Measure Before You Tune

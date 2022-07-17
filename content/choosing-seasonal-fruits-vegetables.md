@@ -3,6 +3,13 @@ title: Choosing seasonal fruits + vegetables
 createdAt: 2022-07-09T06:42:13.632Z
 updatedAt: 2022-07-17T06:19:19.773Z
 category: cooking
+summary: Vitamin A promotes healthy vision, helps prevent infections, and also
+  supports healthy skin. Vitamin C is an essential nutrient that helps your body
+  fight infections, maintain healthy skin, and heal cuts and bruises. Vitamin K
+  is important for bone health, blood clotting, and heart health. Iron is found
+  in many vegetables like spinach, kale, broccoli, Brussels sprouts, and
+  lettuce. Vitamin A is also found in green tea, but the vitamin K content
+  varies depending on how long the tea is steeped.
 ---
 
 ## Vitamin A

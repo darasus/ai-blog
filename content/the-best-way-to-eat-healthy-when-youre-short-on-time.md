@@ -3,6 +3,13 @@ title: The best way to eat healthy when you're short on time
 createdAt: 2022-07-07T06:05:41.969Z
 updatedAt: 2022-07-16T16:21:22.858Z
 category: health
+summary: Many people assume that leftovers are unhealthy, but that’s not the
+  case if you make smart choices. Rotating your vegetables will help you avoid
+  falling into a pattern where you’re only eating one or two types of vegetables
+  every week. Eating smaller meals throughout the day has been shown to increase
+  feelings of fullness and prevent overeating at meals. Eating beans and Lentils
+  are two of the healthiest protein sources you can eat, and you can use them to
+  replace meat in tacos and burritos.
 ---
 
 ## Plan Your Meals Ahead of Time

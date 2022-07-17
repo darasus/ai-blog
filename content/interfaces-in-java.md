@@ -3,6 +3,14 @@ title: Interfaces in Java
 createdAt: 2022-07-09T06:23:17.789Z
 updatedAt: 2022-07-17T06:55:46.677Z
 category: coding
+summary: Interfaces are used to specify an expected behavior of an object. Java
+  does not support inheritance for Interfaces. Interfaces define only static
+  fields, which belong to the interface and are the same for all instances of
+  the same interface. Classes that implement the interfaces will inherit their
+  functionality but not their implementation. This means that any code that
+  implements an interface can change its implementation as much as it wants, as
+  long as it follows the specification of the interface. Using interfaces is
+  also a great way to break up your code into small, reusable pieces.
 ---
 
 ## Why use interfaces?

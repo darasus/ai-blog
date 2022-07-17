@@ -3,6 +3,12 @@ title: "The Benefits Of Juicing: 4 Recipes To Get You Started"
 createdAt: 2022-07-09T06:39:19.584Z
 updatedAt: 2022-07-17T06:15:01.917Z
 category: cooking
+summary: The benefits of juicing are many, so there are plenty of reasons why
+  you should start juicing. Juicing is also great for children and can be used
+  as a way to get them to eat more fruits and vegetables. Juic is also a great
+  option if you don’t have a lot of time to spend in the kitchen or want to take
+  the guesswork out of meal planning. Getting the best of the best for your
+  needs is extremely important, and the right choice may not last very long.
 ---
 
 ## What are the benefits of juicing?

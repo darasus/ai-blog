@@ -3,6 +3,13 @@ title: Go language for GUI programming
 createdAt: 2022-07-09T06:30:08.979Z
 updatedAt: 2022-07-17T07:19:19.342Z
 category: coding
+summary: Go's simple syntax and readable code make it easier for developers to
+  understand one another’s work and make changes as requirements change. The
+  language has built-in support for both communications with other systems and
+  data flow within the application. Go has a syntax that is similar to languages
+  such as C and Java, which makes it easy for developers who have worked with
+  these languages to transition to Go. Go is still in beta, so you should plan
+  to keep up with new language features as they’re implemented.
 ---
 
 ## Easy to Learn and Maintain

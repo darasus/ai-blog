@@ -3,6 +3,14 @@ title: How to Turn Your Idea Into a Successful Business
 createdAt: 2022-07-07T16:46:44.018Z
 updatedAt: 2022-07-16T15:59:17.636Z
 category: business
+summary: The most common business structures are sole proprietorships,
+  partnerships, limited liability companies (LLCs), and corporations. The type
+  of business structure you select has legal and tax implications that you’ll
+  need to understand before you register your business. Establish your company’s
+  vision and goals to establish your vision and establish your marketing
+  strategy. If your business is a corporation, the corporation is the entity
+  that owns the business. If you are going into business with a friend or family
+  member, it may be easier to stick with an LLC.
 ---
 
 ## Step One: Conduct Research

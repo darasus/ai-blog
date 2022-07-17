@@ -3,6 +3,13 @@ title: Learning how to cook can save your life
 createdAt: 2022-07-09T06:40:56.708Z
 updatedAt: 2022-07-17T06:19:15.430Z
 category: cooking
+summary: People have been cooking for thousands of years. The earliest evidence
+  of cooking with fire is a cave painting in Spain that is at least 40,000 years
+  old. Cooking your own meals allows you to be in control of your food intake,
+  it is usually better for your wallet, and it can be a fun and creative
+  process. Pick an easy recipe and practice it a few times until you get it
+  right. Boiling is one of the first things you should learn when you’re
+  learning how to cook.
 ---
 
 ## What is Cooking?

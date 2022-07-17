@@ -3,6 +3,14 @@ title: Python - The language for mobile development
 createdAt: 2022-07-09T06:20:36.461Z
 updatedAt: 2022-07-17T06:53:41.329Z
 category: coding
+summary: Python is an open-source programming language developed in the late
+  1980s by Guido van Rossum at the National Research Institute for Mathematics
+  and Computer Science in the Netherlands. It’s simple and easy to learn, yet
+  capable of handling large and complex projects. Python is one of the most
+  widely used programming languages, with thousands of organizations using it
+  for various applications. Python code is easy to read and understand, which
+  makes it a good choice for newcomers and experienced developers alike. It can
+  also be used for web apps, data science and IoT projects.
 ---
 
 ## Why Python?

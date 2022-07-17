@@ -3,6 +3,14 @@ title: The ins and outs of investing in stocks
 createdAt: 2022-07-07T16:50:32.469Z
 updatedAt: 2022-07-17T05:52:55.646Z
 category: investing
+summary: The price of a share is determined by the company’s value and the value
+  of the stock depends on the company's future prospects. There are two types of
+  stocks, preferred and common, but preferred stocks are less common and
+  therefore harder to come by. You can also invest in stocks through an index
+  fund that pools money from a number of investors to buy stocks. Over the
+  long-term, stocks have historically delivered higher returns than other types
+  of investments, like bonds and cash, but there is no guarantee that you won’t
+  see a loss.
 ---
 
 ## What is stock investing?

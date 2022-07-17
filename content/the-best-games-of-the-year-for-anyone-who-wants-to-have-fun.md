@@ -3,6 +3,12 @@ title: The best games of the year for anyone who wants to have fun
 createdAt: 2022-07-08T06:02:55.137Z
 updatedAt: 2022-07-17T07:27:45.211Z
 category: gaming
+summary: Crash Bandicoot N. Sane Trilogy is great for anyone who wants a
+  challenging but fun game to play. Mario Kart 8 Deluxe is a racing game where
+  you drive various vehicles to win against other players. Mario Tennis Aces is
+  a great game for people who don’t usually play sports games. Kirby Star Allies
+  is a platformer, but it’s less challenging than many other games in the Kirby
+  franchise. The latest Kirby game is now available on the Nintendo Switch.
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

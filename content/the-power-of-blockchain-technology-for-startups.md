@@ -3,6 +3,15 @@ title: The Power of Blockchain Technology for Startups
 createdAt: 2022-07-07T17:00:50.191Z
 updatedAt: 2022-07-17T07:24:47.883Z
 category: crypto
+summary: The investment in blockchain technology can be greater than other
+  technologies when a business first implements it, but it’s not necessarily
+  more expensive in the long run. In fact, blockchain can be cheaper than many
+  centralized systems because there are no ongoing maintenance costs. A few
+  seconds’ delay in getting that information could be critical and result in
+  serious consequences. The data in a blockchain database is replicated and
+  spread out over the network. However, a hacker is only able to access the data
+  on one node on the blockchain, however, if the hacker gains access to 50% of
+  the nodes, he/she can access 50% more of the data.
 ---
 
 ## Blockchain is too expensive to implement.

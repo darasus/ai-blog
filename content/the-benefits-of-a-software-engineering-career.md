@@ -3,6 +3,14 @@ title: The Benefits of a Software Engineering Career
 createdAt: 2022-07-09T06:18:15.349Z
 updatedAt: 2022-07-17T06:35:18.303Z
 category: coding
+summary: Software engineers create user-friendly, easy to use, and solve
+  problems for businesses. Software engineers also create new programs or apps
+  for existing software. The U.S. Bureau of Labor Statistics predicts that job
+  opportunities for software engineers will increase by about 12 percent through
+  2026. Many software engineers earn six-figure incomes, and some even make
+  seven-figure salaries. The average annual salary for software engineering is
+  over $100,000. You can expect to earn a good salary and have job prospects
+  that are very positive.
 ---
 
 ## Tasks And Responsibilities Of A Software Engineer

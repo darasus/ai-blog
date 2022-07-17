@@ -3,6 +3,14 @@ title: The best games of the year for couples
 createdAt: 2022-07-08T06:01:37.037Z
 updatedAt: 2022-07-17T07:28:24.221Z
 category: gaming
+summary: "Nothing beats Cards Against Humanity, but the game’s crassness is what
+  makes it so hilarious. Players are given a “spy” card with a word or two on it
+  to communicate with each other. Once Upon A Time: Descendants challenges
+  players to travel to the various kingdoms and collect items that they can use
+  to defeat the villains. If you and your partner like to solve puzzles and
+  challenge yourselves, Sent Together is the perfect board game for you. Orchard
+  is a great board game that is super cute and requires a fair amount of
+  strategy."
 ---
 
 ## Cards Against Humanity

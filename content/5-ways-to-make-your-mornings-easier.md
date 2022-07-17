@@ -3,6 +3,13 @@ title: 5 ways to make your mornings easier
 createdAt: 2022-07-07T06:05:40.507Z
 updatedAt: 2022-07-16T15:02:47.479Z
 category: life
+summary: Planning your day the night before can make a world of difference.
+  Eating a healthy breakfast is the most important meal of the day, but not all
+  breakfasts are created equal. Creating a morning ritual is a series of
+  activities that you do every morning to get you in the right mindset.
+  Meditation is one of the best ways to clear your mind and relax your body.
+  Technology can help you get out of bed and start your day in a positive way,
+  but trust us, it can!
 ---
 
 ## Plan The Night Before

@@ -3,6 +3,14 @@ title: The Best Foods to Eat for Weight Loss
 createdAt: 2022-07-09T06:37:29.714Z
 updatedAt: 2022-07-17T06:04:35.490Z
 category: cooking
+summary: The best foods for weight loss are natural unprocessed foods. Fat,
+  protein and carbohydrates are the three main macronutrients found in food. Fat
+  and protein are “slow burning” or “thermogenic” nutrients. Carbohydrates have
+  been given a bad reputation for making people fat, but the truth is that not
+  all carbs are bad. Eating too many fruits can cause weight gain because they
+  have approximately as many calories as other sugary foods. Whole grains are
+  rich in B vitamins, iron, magnesium, manganese, selenium and zinc, which are
+  essential for good health.
 ---
 
 ## What You Should Know About Calories Before Jumping to Any Conclusions

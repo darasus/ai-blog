@@ -3,6 +3,13 @@ title: How to code faster
 createdAt: 2022-07-07T06:13:16.403Z
 updatedAt: 2022-07-17T06:32:28.807Z
 category: coding
+summary: The most important thing to do as a developer is to create a workflow
+  that is customized to your needs. Use shortcuts and macros to speed up your
+  development process. Organizing your files and folders is also very important.
+  Use a cloud-based IDEs to access your project files from anywhere rather than
+  having to be at your computer. Take care of your body and take care of it to
+  make your work easier and faster. Use TDD (TDD) to make code more efficient
+  and more precise.
 ---
 
 ## Create a workflow that is catered to you

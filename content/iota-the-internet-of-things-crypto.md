@@ -3,6 +3,13 @@ title: "IOTA: The Internet of Things Crypto"
 createdAt: 2022-07-07T16:55:51.999Z
 updatedAt: 2022-07-17T07:22:59.915Z
 category: crypto
+summary: IOTA is a decentralized distributed ledger designed specifically for
+  the Internet of Things (IoT) devices. It is a cryptocurrency used to execute
+  transactions between devices on the IoT. IOTA’s distributed ledger differs
+  from blockchain distributed ledgers in that it doesn’t use a directed acyclic
+  graph or DAG architecture. Instead, IOTA uses a directed cyclic graph
+  architecture called a “tangle” The main advantage of the tangle architecture
+  is that there are no transaction fees in IOTA.
 ---
 
 ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

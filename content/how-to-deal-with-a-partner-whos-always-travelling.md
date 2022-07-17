@@ -3,6 +3,13 @@ title: How to deal with a partner who's always travelling
 createdAt: 2022-07-08T06:24:20.904Z
 updatedAt: 2022-07-16T15:11:41.192Z
 category: life
+summary: You have to be able to talk honestly and openly with your partner.
+  Communication is important when dating someone who travels frequently. Don’t
+  assume the worst about your partner, but it only leads to trouble. Ask your
+  partner what makes them feel loved while they’re away. Plan discreet dates in
+  a way that both of you can be discreet about it. Only a very small number of
+  people in long-distance relationships cheat on their partners. If you want to
+  make it work, you have to accept that it will be a big part of their life.
 ---
 
 ## Communicate Often

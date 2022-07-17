@@ -3,6 +3,15 @@ title: The disadvantages of mediation
 createdAt: 2022-07-09T06:13:22.178Z
 updatedAt: 2022-07-16T15:48:20.065Z
 category: life
+summary: Many cases are not resolved during the mediation process, and instead
+  end up going to court. Mediation is not a magic wand that will make all your
+  problems disappear. The mediation process can be as short or as long as the
+  mediator determines it will be. Mediators do not make decisions for the
+  parties; they help the parties make their own decisions. The details of your
+  dispute can be disclosed to the public and will be published in court
+  documents if the case progresses to litigation. If you have concerns about
+  disclosing sensitive information, mediation may not be the best option for
+  you.
 ---
 
 ## Mediation Has A Low Success Rate

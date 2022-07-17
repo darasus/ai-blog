@@ -3,6 +3,13 @@ title: How to Train Your Dog to Not Beg at the Table
 createdAt: 2022-07-08T06:27:27.855Z
 updatedAt: 2022-07-16T15:38:06.951Z
 category: life
+summary: When your dog is a puppy, it’s important to set boundaries and rules
+  for them to follow. It can help prevent bad habits from forming or getting
+  worse. Don’t reward bad behavior with food. Instead, try to redirect your dog
+  to do something good, like sitting or giving it a toy to play with. Clicker
+  training is a great way to teach your dog the meaning of “no” and other
+  commands, like to sit or lay down. Use a clicker app on your phone to make the
+  clicking sounds for you.
 ---
 
 ## Establish rules and boundaries with your dog.

@@ -3,6 +3,12 @@ title: Make your own - recipes for DIY condiments and sauces
 createdAt: 2022-07-07T06:05:39.940Z
 updatedAt: 2022-07-17T06:21:44.173Z
 category: cooking
+summary: Most people don’t realise that mayonnaise can be made at home, but it’s
+  actually super easy. To make mustard, you will need mustard seeds (either
+  yellow or black), water, a jar, and a fridge. You can make a basic BBQ sauce
+  at home with tomato ketchup, vinegar, brown sugar, and seasoning. Chilli sauce
+  is a quick and easy condiment to make at home. Sriracha is a super hot and
+  spicy sauce that is used in many Asian dishes.
 ---
 
 ## Ketchup

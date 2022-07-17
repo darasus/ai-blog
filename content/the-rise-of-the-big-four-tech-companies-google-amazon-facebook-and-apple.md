@@ -3,6 +3,14 @@ title: "The rise of the big four tech companies: Google, Amazon, Facebook and Ap
 createdAt: 2022-07-08T06:05:20.931Z
 updatedAt: 2022-07-17T07:26:12.839Z
 category: technology
+summary: "The rise of big tech can be attributed to the rise of digital
+  platforms, which rely on gathering large quantities of user data to generate
+  revenue. Digital platforms have three main characteristics: They have large
+  numbers of users. And they have an innovative business model that relies on
+  the data. The big four are the ones that have grown to become
+  multi-billion-dollar companies. They are all technology companies that use
+  data to make their products more efficient and appealing. Most of the big tech
+  companies have built AI research labs and applied AI to their products."
 ---
 
 ## Google

@@ -3,6 +3,13 @@ title: How to Create a Productive Morning Routine
 createdAt: 2022-07-07T16:42:23.733Z
 updatedAt: 2022-07-16T15:57:11.124Z
 category: business
+summary: Having a productive morning routine is the key to getting your day off
+  to a great start. Waking up 30 minutes earlier can make a huge difference to
+  your productivity. Eating a balanced breakfast can help to fuel your body
+  before you begin your day. Prep your workspace the night before the day to
+  ensure that you are ready to tackle each task with confidence because you will
+  know that you have everything you need right at your fingertips. Write down
+  your to-do list in reverse order (finishing with the big tasks first)
 ---
 
 ## Productivity Doesn’t Happen Overnight

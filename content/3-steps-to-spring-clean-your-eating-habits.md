@@ -3,6 +3,13 @@ title: 3 Steps To Spring Clean Your Eating habits
 createdAt: 2022-07-09T06:38:34.937Z
 updatedAt: 2022-07-17T06:14:47.185Z
 category: cooking
+summary: Eating clean doesn't have to be a one-time event, it's a lifestyle
+  change that has benefits for your health and your wallet. The best way to eat
+  clean is to make it part of your daily routine. Eating cleaner is the first
+  step, but it needs to be coupled with movement. Eating clean can save you
+  money because you won't be purchasing processed junk food that usually comes
+  with a higher price tag. Don’t be afraid of carbs, but eating them in
+  moderation is an important part of eating cleaner.
 ---
 
 ## Decide what “eating clean” means to you.

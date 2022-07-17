@@ -3,6 +3,13 @@ title: The basics of coding for beginners
 createdAt: 2022-07-07T06:09:53.681Z
 updatedAt: 2022-07-17T06:29:40.235Z
 category: coding
+summary: Learning how to code gives you a ton of benefits that can affect your
+  life beyond your career. It can also help you build problem-solving skills,
+  which can be applied to almost any aspect of your life. The best language to
+  start with depends on your learning style, goal, and what resources you have
+  available. Find a community of coders to be a part of and connect with others
+  online or in your area. Choose a language and a project to work on - It’s
+  important to apply what you’ve learned and practice.
 ---
 
 ## What Is Coding?

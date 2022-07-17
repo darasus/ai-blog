@@ -3,6 +3,15 @@ title: Go language for embedded programming
 createdAt: 2022-07-09T06:32:23.223Z
 updatedAt: 2022-07-17T07:19:18.182Z
 category: coding
+summary: Go is a programming language with a different approach to language
+  design. This means that Go has a different way of solving problems that are
+  encountered in other programming languages. The language’s robust ecosystem is
+  one of the reasons why many developers are choosing to use Go for embedded
+  programming. It is easy to read and write code in this language, which means
+  that it is suitable for beginners and experienced programmers alike, giving
+  them the advantage of completing projects much faster. It also has a simple
+  concurrency model for projects that involve working with multiple machines or
+  need to share data between them concurrently.
 ---
 
 ## What is Go?

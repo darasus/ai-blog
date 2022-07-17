@@ -3,6 +3,13 @@ title: 5 ways to get fit without a gym membership
 createdAt: 2022-07-07T06:05:40.847Z
 updatedAt: 2022-07-16T16:10:06.771Z
 category: health
+summary: Running is a fantastic cardiovascular exercise that can improve your
+  heart health and stamina. Jumping rope is a great way to get fit without a gym
+  membership. If you’re new to exercise, it’s important to start slow to avoid
+  injury. It can be easy to get frustrated if you don’t see results right away.
+  Try lifting weights or exercising outside with your own bodyweight at home.
+  Water aerobics is a low-impact exercise, making it ideal for people who are
+  new or have existing injuries.
 ---
 
 ## Run Or Walk Outside

@@ -3,6 +3,13 @@ title: 10 tips for staying motivated to eat healthy
 createdAt: 2022-07-07T06:05:41.498Z
 updatedAt: 2022-07-16T16:18:01.596Z
 category: health
+summary: Many people try to change their diet, their exercise routine, and other
+  aspects of their life all at once. Instead of trying to change everything at
+  once, focus on forming one new healthy habit that will assist you in your
+  journey towards better health. Small changes can add up over time, and will
+  help you stay motivated to continue improving your overall health. Eating
+  healthy doesn’t have to be boring or tasteless, it’s important to remember
+  that you’ll always feel guilty or ashamed eating healthy.
 ---
 
 ## Create a habit

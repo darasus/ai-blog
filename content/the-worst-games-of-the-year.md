@@ -3,6 +3,13 @@ title: The worst games of the year
 createdAt: 2022-07-08T06:00:38.059Z
 updatedAt: 2022-07-17T07:28:01.548Z
 category: gaming
+summary: "Assassin’s Creed: Odyssey is forgettable, the combat is clunky, and
+  the dialogue is cringeworthy. Street Fighter V: Arcade Edition is plagued with
+  numerous bugs and glitches that have yet to be addressed. Fallout 76 is also
+  marred by an uninteresting story and an underwhelming setting, which makes it
+  feel like a step back for the series. Forza Horizon 4 is fun to play, but its
+  progression system is unfairly stacked in favor of players willing to spend
+  money on car parts and mods."
 ---
 
 ## Action Games

@@ -3,6 +3,13 @@ title: What are no-load mutual funds and are they right for you?
 createdAt: 2022-07-07T16:53:11.164Z
 updatedAt: 2022-07-17T05:55:59.918Z
 category: investing
+summary: 'A no-load fund is a mutual fund that doesn’t charge a sales fee, known
+  as a "load" Front-end loads are usually charged when you purchase the fund,
+  while deferred loads are deducted when you sell the fund. No-load funds are
+  easy for you to purchase and manage, easy to do and easy to buy and manage.
+  The downsides include tax-efficiency, low-maintenance, professional management
+  and lack of diversification in your portfolio. The downside: You must be
+  willing to research and manage your own investments for signs of risk.'
 ---
 
 ## What you should know before buying a no-load fund

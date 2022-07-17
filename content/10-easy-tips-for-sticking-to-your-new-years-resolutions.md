@@ -3,6 +3,13 @@ title: 10 easy tips for sticking to your New Year's resolutions
 createdAt: 2022-07-07T06:05:40.369Z
 updatedAt: 2022-07-16T14:58:17.552Z
 category: life
+summary: There are many common New Year’s resolutions with a focus on
+  habit-building, like exercising more, eating healthier, reading more or
+  learning new skills. Starting small and building up slowly is a better way to
+  go about it. Celebrate small wins, even if they seem insignificant at the
+  time, and the more consistent you are with your efforts, the better the
+  results will be. It takes time to change your habits, and you don't want to
+  throw in the towel too soon.
 ---
 
 ## Change your environment

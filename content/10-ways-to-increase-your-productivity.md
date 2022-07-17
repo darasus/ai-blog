@@ -3,6 +3,13 @@ title: 10 ways to increase your productivity
 createdAt: 2022-07-07T06:05:40.599Z
 updatedAt: 2022-07-16T15:58:21.424Z
 category: business
+summary: The most important thing you can do to boost your productivity is to
+  plan your day the night before. Don’t multitask — focus on one thing at a
+  time. Exercise regularly helps your brain stay focused and alert, improve your
+  memory and even help you sleep better at night. Use noise-cancelling
+  headphones to block out distractions while working in busy rooms. Find a quiet
+  room away from the hustle and bustle of life to create a healthy, productive
+  environment and collaborate with your colleagues.
 ---
 
 ## Plan your day the night before

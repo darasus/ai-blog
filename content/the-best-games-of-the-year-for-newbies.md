@@ -3,6 +3,13 @@ title: The best games of the year for newbies
 createdAt: 2022-07-08T06:02:07.164Z
 updatedAt: 2022-07-17T07:27:41.931Z
 category: gaming
+summary: Mario Kart 8 Deluxe is the definitive version of the game that some
+  people have been playing for over 25 years. Outlast 2 is a survival horror
+  game about a journalist investigating an asylum for the criminally insane.
+  Mario Kart is a game that you can play for hours and never get bored of. It’s
+  easy to pick up and play, but it has enough depth that you don’t feel like
+  you’ve mastered everything. You can play it for just a few minutes at a few
+  hours at a time for all skill levels at a point-and-click adventure.
 ---
 
 ## Sea of Thieves

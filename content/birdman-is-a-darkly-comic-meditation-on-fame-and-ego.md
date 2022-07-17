@@ -3,6 +3,14 @@ title: '"Birdman" is a darkly comic meditation on fame and ego'
 createdAt: 2022-07-08T05:57:47.668Z
 updatedAt: 2022-07-17T07:25:48.981Z
 category: culture
+summary: One of the central themes of "Birdman" is the search for authenticity
+  in his work, relationships and his life as a whole. Ego is one of the main
+  things that drives Riggan throughout the film. Fame can bring happiness in the
+  short term, but it isn’t something that lasts, especially in the long term. It
+  can also be detrimental to one’s creativity, as fame can create a fear of
+  failure that stifles the creative process. Being famous is not a prerequisite
+  for living a happy and fulfilling life, as it can lead to envy, isolation and
+  privacy.
 ---
 
 ## The Importance of Being Famous

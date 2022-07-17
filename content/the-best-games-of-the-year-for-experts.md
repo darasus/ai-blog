@@ -3,6 +3,13 @@ title: The best games of the year for experts
 createdAt: 2022-07-08T06:02:21.069Z
 updatedAt: 2022-07-17T07:27:37.629Z
 category: gaming
+summary: "The game’s new “Hearthstone: Heroes of Warcraft” graphics engine is
+  more lifelike than ever, and all of its core mechanics have been retooled to
+  make them smoother and more intuitive. God of War is everything an expert
+  gamer could want in a game. The game uses a special graphics technology called
+  “real-time photogrammetry” to render lifelikes visuals that look almost like
+  3D renders. Mario Tennis Aces has one of the best-looking graphics engines of
+  any tennis simulation game."
 ---
 
 ## Hearthstone

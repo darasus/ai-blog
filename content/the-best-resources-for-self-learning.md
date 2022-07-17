@@ -3,6 +3,13 @@ title: The Best Resources for Self-Learning
 createdAt: 2022-07-09T06:33:51.186Z
 updatedAt: 2022-07-17T07:29:09.587Z
 category: productivity
+summary: There are lots of different ways to get audiobooks for self-learning.
+  Audible is great for learning public speaking, sales, and marketing skills
+  that can be easier to learn from an audio format. Google and YouTube are great
+  resources for learning more about a specific skill or subject. iBooks’ What to
+  Read feature can help you narrow down what you want to learn more about about
+  a topic. Public libraries and public libraries have books that make it easy to
+  find the best books to learn about.
 ---
 
 ## Audible

@@ -3,6 +3,14 @@ title: The Benefits of a Software Engineering Degree
 createdAt: 2022-07-09T06:17:47.333Z
 updatedAt: 2022-07-17T06:34:48.917Z
 category: coding
+summary: Software engineering is a creative field that involves solving
+  problems, thinking creatively, and working with people. The average salary for
+  software engineers is around $100,000 per year. Software engineers are in high
+  demand, so you can expect to see excellent earning potential. Engineers work
+  with people in many disciplines to bring products to life. Engineers have
+  knowledge in a variety of different areas, such as computer science,
+  mathematics, design, and business. The most common degrees you can earn in
+  software engineering are Bachelor’s, Master’“s, and PhD degrees.
 ---
 
 ## What is a Software Engineering Degree?

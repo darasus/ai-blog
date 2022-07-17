@@ -3,6 +3,14 @@ title: How to get through a break-up
 createdAt: 2022-07-07T06:05:40.438Z
 updatedAt: 2022-07-16T15:00:43.295Z
 category: life
+summary: There is no question that break-ups can be painful, but there are ways
+  to make the process easier. Talking to a trusted friend or family member can
+  help you pinpoint what went wrong in the relationship and how you can avoid
+  making the same mistakes in the future. If your break-up was particularly
+  dramatic, it might be worth talking to a therapist or counsellor. Journaling
+  is one of the best ways to process your emotions after a messy break up. You
+  can also reconnect with friends and family to help you put things into
+  perspective.
 ---
 
 ## Talk It Out

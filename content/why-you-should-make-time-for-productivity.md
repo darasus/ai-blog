@@ -3,6 +3,14 @@ title: Why You Should Make Time for Productivity
 createdAt: 2022-07-07T16:42:09.493Z
 updatedAt: 2022-07-16T15:56:55.597Z
 category: business
+summary: The difference between productivity and being “busy” is that being busy
+  is pretty much just being frenzied and frantic with no real direction or
+  purpose. Productivity, on the other hand, is the process of taking action
+  towards achieving your goals and building a meaningful life. When you make
+  time for productivity, you are taking the time to reflect on what your
+  priorities are and then scheduling time to work towards those goals. The
+  Hidden Benefit of Making Time for productivity is setting aside time to focus
+  on what matters most to you.
 ---
 
 ## Productivity Isn’t Just About Being “Busy”

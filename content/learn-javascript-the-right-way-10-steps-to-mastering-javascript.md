@@ -3,6 +3,13 @@ title: "Learn Javascript The Right Way: 10 Steps To Mastering Javascript"
 createdAt: 2022-07-17T07:19:33.667Z
 updatedAt: 2022-07-17T07:19:33.667Z
 category: coding
+summary: With JavaScript, you can create interactive and responsive websites, as
+  well as apps. With the rise of chatbots and voice assistants, it’s more
+  important than ever to know how to code with JavaScript. To keep up with the
+  latest technology, we recommend staying up to date with the current versions,
+  ES6 and ES7. There are other ways to improve your coding skills and boost your
+  resume by joining a coding bootcamp where you’re serious about landing a job
+  at a tech company.
 ---
 
 ## Grab a copy of the fundamentals

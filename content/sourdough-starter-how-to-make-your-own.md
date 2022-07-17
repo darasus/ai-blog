@@ -3,6 +3,14 @@ title: Sourdough starter - how to make your own
 createdAt: 2022-07-07T06:05:40.075Z
 updatedAt: 2022-07-17T06:00:56.633Z
 category: cooking
+summary: We recommend buying a starter kit that includes everything you’ll need
+  to create your own healthy sourdough starter. Starter kits come with a glass
+  jar and rubber seal, a measuring spoon and a fermentation guide. If you prefer
+  to make your own starter from scratch, you'll need to purchase some sourdoug
+  starter powder or a live sourdou culture. The process for making sour dough
+  starter is very similar to the method for creating a yeast-based starter.
+  You'll need a large jar - we recommend a 2-litre glass jar, and a wooden spoon
+  or potato masher.
 ---
 
 ## What you’ll need

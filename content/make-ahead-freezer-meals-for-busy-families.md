@@ -3,6 +3,13 @@ title: Make ahead freezer meals for busy families
 createdAt: 2022-07-09T06:42:32.592Z
 updatedAt: 2022-07-17T06:21:30.244Z
 category: cooking
+summary: Making ahead freezer meals is an excellent way to save time, money and
+  create healthy meals that you can enjoy any day of the week. You can tailor
+  make-ahead meals to suit your family’s dietary needs. When you make freezer
+  meals in bulk and store them in freezer bags, you won’t be scrambling to find
+  quick and easy meals when you need them. Using freezer-ready ingredients, you
+  can easily pull together a healthy breakfast that will get you to work on
+  time.
 ---
 
 ## Why make ahead freezer meals?

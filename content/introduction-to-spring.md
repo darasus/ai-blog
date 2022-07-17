@@ -3,6 +3,14 @@ title: Introduction to Spring
 createdAt: 2022-07-09T06:26:03.524Z
 updatedAt: 2022-07-17T07:14:14.087Z
 category: coding
+summary: Spring is an open-source application framework that supports
+  integration of additional software modules and components with applications.
+  The Spring Framework is used for building enterprise Java applications for a
+  wide variety of industries and uses. It uses a bean-based approach that
+  provides a consistent programming model for developing Java applications.
+  Spring is extensible and modular, which means you can easily add new
+  functionality to your applications. You can use Spring to create applications
+  in many different languages, including Java, Groovy, Scala, and more.
 ---
 
 ## What is Spring?

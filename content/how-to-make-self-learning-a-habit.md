@@ -3,6 +3,14 @@ title: How to Make Self-Learning a Habit
 createdAt: 2022-07-09T06:34:47.711Z
 updatedAt: 2022-07-17T07:28:30.838Z
 category: productivity
+summary: Vocabulary is the core of language and hence is the most important
+  aspect of communication. The more words you know and understand, the more
+  information you can process and the better you can communicate your thoughts
+  and ideas. There are numerous ways in which language learning can be
+  incorporated into self-learning. Read books on topics you find interesting and
+  watch TED Talks to learn more about a topic that you want to explore in depth.
+  Use different reading techniques like skimming, scanning, and speed reading to
+  make the most of your time.
 ---
 
 ## Build your vocabulary.

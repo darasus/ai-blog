@@ -3,6 +3,14 @@ title: The Top 10 MostCommon Cat Health Problems
 createdAt: 2022-07-09T06:11:43.842Z
 updatedAt: 2022-07-16T15:41:58.166Z
 category: life
+summary: Parasites are a very common cat health problem that can affect any
+  species of animal. Watch out for signs of parasites like worms in the stool,
+  hair loss on the lower back, and the presence of scabs and sores caused by
+  fleas. If you notice frequent scratching at the ears, a foul smell, or hair
+  loss, you should take your cat to the vet as soon as possible if you notice a
+  change in your cat’s behavior. Feline Virus (FIVIV) is a commonly
+  misconsticated disease that can cause kidney failure, diabetes and
+  hyperthyroidism.
 ---
 
 ## Parasites

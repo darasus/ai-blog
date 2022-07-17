@@ -3,6 +3,13 @@ title: Nutrient dense superfoods that improve overall health
 createdAt: 2022-07-09T06:41:50.812Z
 updatedAt: 2022-07-17T06:19:04.530Z
 category: cooking
+summary: These superfoods are packed with vitamins and minerals, antioxidants,
+  and other nutrients that help your body fight off diseases. Eating these foods
+  can help you maintain a healthy, balanced diet while staying within your daily
+  calorie limit. Superfoods can be eaten raw, cooked, or added to smoothies or
+  eaten as a quick snack. Goji berries are a great source of antioxidants, amino
+  acids, and iron. Hemp seeds have been around for hundreds of years, but only
+  in the past decade have they become a more popular superfood.
 ---
 
 ## Chia Seeds

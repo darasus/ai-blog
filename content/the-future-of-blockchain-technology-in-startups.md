@@ -3,6 +3,13 @@ title: The Future of Blockchain Technology in Startups
 createdAt: 2022-07-07T17:00:15.524Z
 updatedAt: 2022-07-17T07:24:32.473Z
 category: crypto
+summary: Blockchain is a distributed ledger technology that enables secure,
+  peer-to-peer transfer of data. It can be used for supply chain management,
+  smart contracts, online voting, insurance claim settlement, digital rights
+  management, and real estate transactions. It's a new technology with a lot of
+  potential, and it will take time for businesses and investors to understand
+  how to use it effectively. The technology is new, it is unregulated and
+  doesn’t have a proven track record like other technologies like AI.
 ---
 
 ## What is Blockchain Technology?

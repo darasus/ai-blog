@@ -3,6 +3,14 @@ title: The Top Software Engineering Journals
 createdAt: 2022-07-09T06:18:19.702Z
 updatedAt: 2022-07-17T06:35:36.689Z
 category: coding
+summary: There are many software engineering conferences all over the world,
+  many of which are free to attend. Conferences are a great way to network with
+  other software engineers in your field, as well as find out about interesting
+  research. Each conference publishes papers related to a specific topic within
+  software engineering. If you want to be a successful software engineer, you
+  need to keep up with what’s going on on what is published in journals related
+  to your field. All of the recommendations below are available for free to read
+  for anyone.
 ---
 
 ## Editor’s note: At the time of writing this, all of the recommendations below are free to read for anyone. However, it’s worth noting that some of these publications do have paid subscriptions with additional benefits like access to their vast digital libraries and automatic downloads of articles for reading off-line. If you want to read more about software engineering journals in general, check out the “Why You Should Read Scientific Journals” section at the end of this article. END editor's note>

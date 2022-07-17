@@ -3,6 +3,16 @@ title: What are the drawbacks of mediation?
 createdAt: 2022-07-09T06:14:58.791Z
 updatedAt: 2022-07-16T15:50:18.594Z
 category: life
+summary: When parties settle a dispute through mediation, they have to come to
+  an agreement on their own. Mediation is less effective if the parties do not
+  reach an agreement during the session. The parties can use any method they
+  want to come up with a solution that works best for everyone involved. When
+  both parties are willing to work toward a solution together, mediation is much
+  more effective. The two parties have the option of signing a document that
+  confirms the terms of the mediation session. There is no guarantee that either
+  party will be satisfied with the outcome of mediation. Going to court always
+  has its drawbacks, but it is important to understand that mediation is
+  important over court.
 ---
 
 ## Mediation takes time to complete.

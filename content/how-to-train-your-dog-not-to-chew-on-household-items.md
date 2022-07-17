@@ -3,6 +3,14 @@ title: How to Train Your Dog Not to Chew on Household Items
 createdAt: 2022-07-08T06:27:15.424Z
 updatedAt: 2022-07-16T15:37:06.910Z
 category: life
+summary: There are a few mistakes that dogs owners often make when trying to
+  train their dogs not to chew. Before you start training your dog, make sure
+  you avoid these mistakes. Don’t punish your dog for chewing – it’s how they
+  learn and explore their world. Use a word or phrase to let your dog know the
+  item he is chewing on is off-limits. Train your dog outdoors and let him know
+  that he can only chew on his toys on the grass. Teach your dog the “Off”
+  command to “off” items that you absolutely don't want your dog to chew on, but
+  you might even be tempted to.
 ---
 
 ## Before You Start Training

@@ -3,6 +3,12 @@ title: One-dish meals - recipes for busy weeknights
 createdAt: 2022-07-07T06:05:40.008Z
 updatedAt: 2022-07-17T06:00:51.392Z
 category: cooking
+summary: One-dish chicken recipes can be made with just a little bit of prep
+  work. One of the best ways to cut down on the amount of time it takes to
+  prepare a meal is to purchase ingredients ahead of time and keep them on hand.
+  One great example of this is roasting a whole chicken in the oven. It doesn’t
+  take long to roast a chicken and it’s easy to do thanks to the fact that the
+  chicken has already been portioned out for you.
 ---
 
 ## Make a plan

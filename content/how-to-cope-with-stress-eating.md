@@ -3,6 +3,14 @@ title: How to cope with stress eating
 createdAt: 2022-07-07T06:05:41.654Z
 updatedAt: 2022-07-16T16:18:57.988Z
 category: health
+summary: Eating a healthy diet can help reduce stress levels in the first place,
+  so it’s important to know what you’re putting into your body. Eating complex
+  carbohydrates like rice, oatmeal, and whole grain bread, as well as
+  protein-rich foods like eggs and beans. Eating healthy foods can reduce your
+  stress levels and help you feel more relaxed once your blood sugar levels have
+  been replenished. Try planning your meals ahead of time to reduce the urge to
+  binge. Develop healthy habits such as regular exercise and sleep, at least
+  seven hours of sleep each night.
 ---
 
 ## Plan Your Meals

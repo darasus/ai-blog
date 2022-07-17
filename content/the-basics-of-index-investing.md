@@ -3,6 +3,13 @@ title: The basics of index investing
 createdAt: 2022-07-07T16:52:03.705Z
 updatedAt: 2022-07-17T05:55:50.162Z
 category: investing
+summary: Passive investing is an investment strategy that aims to track the
+  performance of a specific benchmark, such as a stock market index. It's a
+  low-cost, low-effort way to track a broad, diversified basket of stocks.
+  Unlike actively managed funds, index funds are not paying hefty fees for a
+  team of analysts to scour the market for the best stocks. A recent academic
+  study found that a portfolio of passively managed funds had a 99% probability
+  of outperforming an actively managed portfolio over a 10-year period.
 ---
 
 ## What is passive investing?

@@ -3,6 +3,16 @@ title: The Role of exercise in Achieving Optimal Productivity
 createdAt: 2022-07-07T16:44:00.596Z
 updatedAt: 2022-07-16T15:58:12.516Z
 category: business
+summary: Eating well has a direct impact on your productivity by improving your
+  energy levels and helping to reduce stress and anxiety. Eating well improves
+  your focus and attention span, which can help you to be more productive as you
+  are less easily distracted and more able to stay on task. Mindfulness is a
+  mental state where you focus your attention on your present moment experience,
+  while also observing your thoughts and feelings from a non-judgmental
+  perspective. People are no longer confined to one desk or computer screen;
+  they’re constantly connected and collaborative. That has meant that the
+  ability to get things done quickly and efficiently is now a key marker of
+  professional success.
 ---
 
 ## Exercise for productivity

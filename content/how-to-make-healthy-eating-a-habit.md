@@ -3,6 +3,13 @@ title: How to make healthy eating a habit
 createdAt: 2022-07-07T06:05:41.521Z
 updatedAt: 2022-07-16T16:17:51.663Z
 category: health
+summary: Eating well doesn’t have to be hard or feel like a chore, it can be
+  something you enjoy and look forward to. Try a new food at least once a week
+  and make food more interesting and enjoyable. Eating with others can also help
+  you make better choices, as you’re more likely to choose a salad over a
+  carb-heavy side when others are watching. Set an intention before each meal
+  can help you focus on what you're eating. Reward yourself for sticking to your
+  diet.
 ---
 
 ## Commit to meal prep.

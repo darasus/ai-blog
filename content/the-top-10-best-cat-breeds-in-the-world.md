@@ -3,6 +3,13 @@ title: The Top 10 Best Cat Breeds in the World
 createdAt: 2022-07-09T06:11:24.012Z
 updatedAt: 2022-07-16T15:39:04.398Z
 category: life
+summary: The Persian cat is a breed that has been around for more than a century
+  and remains extremely popular to this day. The Devon Rex is an extremely
+  playful breed that loves nothing more than to climb, jump and roll around –
+  sometimes even going so far as to engage in mock fights with their owners. The
+  Egyptian Mau is a very independent breed that does not like to be cuddled or
+  handled very often. The British Shorthair is a medium-sized shorthaired breed
+  that is very sociable and easy to train.
 ---
 
 ## The adorably cute Persian

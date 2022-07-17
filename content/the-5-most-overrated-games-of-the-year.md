@@ -3,6 +3,15 @@ title: The 5 most overrated games of the year
 createdAt: 2022-07-08T06:00:55.055Z
 updatedAt: 2022-07-17T07:27:10.398Z
 category: gaming
+summary: Crash Bandicoot N. Sane Trilogy is one of the few games on this list
+  that is almost universally loved. Dark Souls is not a new game, it is a port
+  featuring minor visual improvements and nothing more. Super Smash Bros.
+  Ultimate is a fantastic fighting game, but it is not the best video game
+  released in 2018. Mario Tennis Aces has been widely praised for its unique
+  twist on the traditional Mario Tennis formula and fun motion controls that
+  make it feel like the best sports game in years. Shadow of the Tomb Raider is
+  a game that people were so excited for that many were willing to overlook any
+  flaws.
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

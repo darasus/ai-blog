@@ -3,6 +3,13 @@ title: How to make your kitchen a healthier place
 createdAt: 2022-07-07T06:05:41.744Z
 updatedAt: 2022-07-16T16:19:30.226Z
 category: health
+summary: The kitchen is the heart of your home, so it makes sense to make it a
+  healthier place. One of the best ways to do this is to change the things that
+  you buy and the methods that you cook. Instead of buying unhealthy ready
+  meals, buy fresh vegetables, fresh fruit, and healthy grains. You can also
+  change the way you cook your food, such as cooking your vegetables in healthy
+  oils, spices, herbs, and slow-cooking a slow cooker will save you money in the
+  long term.
 ---
 
 ## Change what you buy

@@ -3,6 +3,14 @@ title: How Self-Learning Can Help You Achieve Your Goals
 createdAt: 2022-07-09T06:34:15.616Z
 updatedAt: 2022-07-17T07:28:01.489Z
 category: productivity
+summary: Self-learning helps you build confidence by expanding your knowledge
+  and skillset. It also helps you change your thinking by being critical about
+  your own ideas. When you explore new subjects, you discover your innate
+  interests and start forming your own opinions. You become more open to your
+  interests, strengths, and weaknesses. This can help you figure out what you
+  really want to pursue in life, which is essential for achieving your goals.
+  Find your passion can also help you find meaningful work and find a sense of
+  purpose in your career.
 ---
 
 ## Build Confidence

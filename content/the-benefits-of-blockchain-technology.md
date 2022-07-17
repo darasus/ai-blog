@@ -3,6 +3,13 @@ title: The Benefits of Blockchain Technology
 createdAt: 2022-07-07T16:56:59.029Z
 updatedAt: 2022-07-17T07:22:53.191Z
 category: crypto
+summary: "The first block in a blockchain consists of a header, a transaction
+  list, and a hash pointer. The transaction list includes information about each
+  transaction included in the block, such as the transaction’s hash (a unique
+  identifier) and the amount (the amount transferred) The hash pointer is a hash
+  of the previous block's header. 3 Ways to Change the Insurance Industry:
+  Improving Customer Confidence in Insurance. Efficiency: Streamlining
+  Operational Processes. Risk Management: Utilizing Smart Contracts."
 ---
 
 ## What is Blockchain?

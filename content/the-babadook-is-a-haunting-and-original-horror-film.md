@@ -3,6 +3,12 @@ title: '"The Babadook" is a haunting and original horror film'
 createdAt: 2022-07-08T05:57:58.344Z
 updatedAt: 2022-07-17T07:26:00.146Z
 category: culture
+summary: The Babadook is an unpredictable monster that can trap people in their
+  own minds and drive them to commit unspeakable acts without any clear reason
+  as to why. It is a force that seems to be solely focused on driving Amelia to
+  madness, but it doesn’t have a clear purpose or motivation behind its actions.
+  The key to writing a successful horror story is to tap into these deep-seated
+  fears and emotions that readers or movie-goers may not even be aware of.
 ---
 
 ## A Babadook by any other name would be just as frightening

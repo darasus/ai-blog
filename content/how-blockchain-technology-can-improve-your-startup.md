@@ -3,6 +3,14 @@ title: How Blockchain Technology Can Improve Your startup
 createdAt: 2022-07-07T17:00:08.989Z
 updatedAt: 2022-07-17T07:24:14.048Z
 category: crypto
+summary: The blockchain refers to a decentralized ledger that can store
+  information ranging from financial transactions to digital identities. The
+  system is peer-to-peer and equipped with Distributed Ledger Technology (DLT)
+  This allows it to function without needing a central authority like a bank.
+  The blockchain was initially invented as part of the digital currency Bitcoin,
+  but it has a variety of applications in other sectors. The technology can help
+  you build stronger relationships with your customers and partners by providing
+  them with a centralized hub where they can engage with your brand.
 ---
 
 ## What is Blockchain Technology?

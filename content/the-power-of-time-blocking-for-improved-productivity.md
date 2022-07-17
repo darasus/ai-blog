@@ -3,6 +3,13 @@ title: The Power of Time Blocking for Improved Productivity
 createdAt: 2022-07-07T16:43:32.635Z
 updatedAt: 2022-07-16T15:57:09.178Z
 category: business
+summary: Time blocking is designed to help you avoid overstretching your day
+  with too many tasks that need to be completed. It can be extremely difficult
+  to focus on one specific task for a long period of time. Time blocking also
+  helps you stay focused and keep track of the amount of time you spend on each
+  activity throughout the day. The best way to time block your day is to use a
+  calendar and stick to it. This will help you stay away from your phone and
+  computer for as long as possible.
 ---
 
 ## Why is time blocking so effective?

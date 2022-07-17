@@ -3,6 +3,14 @@ title: The Future of the European Union
 createdAt: 2022-07-07T06:16:50.531Z
 updatedAt: 2022-07-17T05:49:53.923Z
 category: politics
+summary: The European project was under threat, but the European Union has
+  rallied and is now stronger than ever. There is a real opportunity to deepen
+  the integration of the EU, with a renewed sense of political momentum and
+  commitment among member states for strengthening the foundations of European
+  integration. A European Monetary Fund has been proposed as part of a
+  “comprehensive investment strategy for Europe’s future. The Paris Declaration
+  on Integration and Human Rights and the Berlin Process on Security and
+  Integration are all examples of this new phase of integration.
 ---
 
 ## European Union integration: Where do we go from here?

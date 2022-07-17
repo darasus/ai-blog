@@ -3,6 +3,14 @@ title: The Benefits of Learning to Code
 createdAt: 2022-07-07T06:09:41.762Z
 updatedAt: 2022-07-17T06:29:36.446Z
 category: coding
+summary: Many people wonder if they have what it takes to learn to code, and if
+  they’re capable of picking up the skill. Learning to code is much like
+  learning to ride a bicycle or play an instrument. Coding is a transferable
+  skill that will allow you to work in a variety of different industries,
+  allowing you to change your job or career path at any point in your life.
+  There are many reasons why learning to code could be beneficial for you as a
+  career. Learning how to code opens up opportunities in almost any field
+  because of its ever-expanding scope.
 ---
 
 ## You’ll Gain Confidence In Your Abilities

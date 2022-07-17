@@ -3,6 +3,14 @@ title: The Benefits of Blockchain Technology for Developers
 createdAt: 2022-07-07T16:58:24.523Z
 updatedAt: 2022-07-17T07:23:43.632Z
 category: crypto
+summary: A smart contract is a computer program that can facilitate, verify, and
+  enforce the terms of a contractual agreement. Smart contracts can also help
+  you to create decentralized apps (DApps) Decentralized cloud storage systems
+  can be built on top of the Ethereum blockchain. AI development with machine
+  learning and AI networks can also be developed using the technology. For
+  example, SingularityNET and Endor are creating decentralized networks that
+  allow people to outsource some of their own AI needs, which can help to make
+  the technology more affordable and accessible.
 ---
 
 ## Smart Contracts

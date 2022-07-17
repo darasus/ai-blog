@@ -3,6 +3,13 @@ title: Go language for game development
 createdAt: 2022-07-09T06:28:27.192Z
 updatedAt: 2022-07-17T07:16:14.799Z
 category: coding
+summary: Go is a programming language developed by Google in 2007. It is a
+  general-purpose programming language designed with scalability, ease-of-use,
+  and concurrency in mind. Go has many features that make it easier to write and
+  read than other compiled languages such as C and C++. The language has been
+  open-source since its inception, and has been highly praised by many
+  developers. It's a language that was designed to be used in parallel
+  programming, which means it’s optimized for working on many things at once.
 ---
 
 ## What is Go?

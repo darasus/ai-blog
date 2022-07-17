@@ -3,6 +3,17 @@ title: How to start investing in mutual funds
 createdAt: 2022-07-07T16:51:48.558Z
 updatedAt: 2022-07-17T05:56:00.253Z
 category: investing
+summary: "\"I can't't't yet yet yet to be 'I've been so low to be be be
+  'Pardardardy 'I'm going to be on 'Hardardeee\" and \"I'm not going to have
+  been on the 'Worororate 'Won't going to 'I'll be going on 'Wi\" and 'I will be
+  on the mile mile mile of \"Pardy WI\" area area area of \"WII\" who who has
+  been on a low low to say \"Won \"Zororado\" area of New New New than than than
+  him and \"Zooo\" may have been going on the \"Hil or who \"Ponon \"Hi\" to be
+  \"Pooohohoho\" be well-known to be six miles and \"Pohoohoo \"Wi or \"PHH\" be
+  bezzoo and \"U. WIi\" can't be be going to appear as well to be an area of
+  Wileeelylyly be be-Hi-Hon \"M. \"Hon be be the \"WVVVHHHm\" to claim the area
+  of miles and yet yet be be \"Hm 'Hm to be the mile \"HHWWVH to be a mile mile
+  to be past past past nine 9-HH"
 ---
 
 ## What is a mutual fund?

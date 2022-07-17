@@ -3,6 +3,13 @@ title: The Trump Presidency
 createdAt: 2022-07-07T06:16:39.777Z
 updatedAt: 2022-07-17T05:49:08.988Z
 category: politics
+summary: Donald Trump's presidency has taken the Hollywood-ization of politics
+  to a new level. Celebrities running for office is a new phenomenon that is
+  currently on the rise. From musicians like Kid Rock and Kanye West to athletes
+  like Serena Williams and Steph Curry, more and more celebrities are joining
+  the political fray. Having a president who is also a celebrity is nothing new,
+  having so many celebrities run for office as a result of his presidency is.
+  The Washington Post has even created a database tracking celebrity candidates.
 ---
 
 ## Trump’s Celebrity Status

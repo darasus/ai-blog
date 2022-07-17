@@ -3,6 +3,12 @@ title: How to Train Your Dog to Come When Called
 createdAt: 2022-07-08T06:25:04.676Z
 updatedAt: 2022-07-16T15:15:34.767Z
 category: life
+summary: Most experts tell you that it is best to start this training as early
+  as possible, preferably when your dog is still a puppy. If you have an older
+  dog, it’s never too late to start training him. The best way to teach your dog
+  to come when called is to use positive reinforcement. This means giving a
+  reward for completing a certain action for completing your dog's task. If your
+  dog doesn’t get it after a few times, you can try again another day.
 ---
 
 ## How To Train Your Dog To Come When Called – The Basics

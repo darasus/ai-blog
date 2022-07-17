@@ -3,6 +3,14 @@ title: Go language for big data
 createdAt: 2022-07-09T06:28:57.706Z
 updatedAt: 2022-07-17T07:16:37.036Z
 category: coding
+summary: Go is an open source programming language created by Google in 2007. It
+  is compiled and compiled, and it targets a wide variety of platforms like
+  Windows, Linux, Mac OS, and even mobile devices. Go has been gaining
+  popularity over the last few years due to the increase in its adoption by tech
+  companies. Some of the most notable companies that use Go include Google,
+  Dropbox, and Uber. Go was designed to efficiently handle large data sets and
+  work with unstructured data. Go introduces great flexibility in code
+  structuring.
 ---
 
 ## What Is Go?

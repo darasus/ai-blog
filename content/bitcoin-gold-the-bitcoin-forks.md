@@ -3,6 +3,14 @@ title: "Bitcoin Gold: The Bitcoin Forks"
 createdAt: 2022-07-07T16:55:38.024Z
 updatedAt: 2022-07-17T07:22:44.725Z
 category: crypto
+summary: Bitcoin Gold, or BTG, is a new cryptocurrency derived from the original
+  Bitcoin blockchain. Bitcoin Gold was created with the goal of creating a more
+  decentralized network by introducing a “proof of work change” Bitcoin Cash is
+  another popular Bitcoin fork. The goal of this fork was to increase the
+  scalability of the network by increasing the block size to 8 MB. Bitcoin has
+  been growing in popularity over the past few years, but it has a scalability
+  issue. The more data that each block can store, the more transactions the
+  network can process.
 ---
 
 ## What is a Bitcoin Fork?

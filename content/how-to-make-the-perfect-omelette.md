@@ -3,6 +3,14 @@ title: How to make the perfect omelette
 createdAt: 2022-07-07T06:05:40.031Z
 updatedAt: 2022-07-17T06:00:59.926Z
 category: cooking
+summary: An omelette is usually made with just eggs and cheese, or with a
+  combination of cheese and ham or bacon. You can use any type or grade of eggs
+  for omelettes; just be sure to use fresh eggs with no cracks. If you prefer a
+  soft, creamy omelet that is easy to cut, use large or medium eggs and add more
+  butter or oil. A cast iron pan will produce a crunchy, soft, crunchy omelete
+  that is easier to cut. A heavy pan will make it tougher, so only use it if you
+  want a crisp texture. Add fillings such as cheese, meat, vegetables, or herbs
+  and spices before flipping.
 ---
 
 ## Try a fluffy omelette for breakfast

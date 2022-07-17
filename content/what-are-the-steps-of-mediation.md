@@ -3,6 +3,15 @@ title: What are the steps of mediation?
 createdAt: 2022-07-09T06:15:49.018Z
 updatedAt: 2022-07-16T15:50:23.921Z
 category: life
+summary: The parties can discuss the issues and concerns they have with each
+  other, and the mediator can help guide the discussion and suggest ways the two
+  sides might be able to settle on amicable terms that are mutually beneficial.
+  Mediation sessions usually take place in a neutral location such as a
+  mediation center. The mediator will then work with each party to structure the
+  mediation session(s) in a way that helps both sides work together productively
+  to reach an agreement. At the end of the session, the parties will usually
+  agree on a written mediation agreement that will usually help the parties work
+  together.
 ---
 
 ## What Are The Steps of Mediation?

@@ -3,6 +3,13 @@ title: How to make healthy eating a priority
 createdAt: 2022-07-07T06:05:41.834Z
 updatedAt: 2022-07-16T16:20:03.865Z
 category: health
+summary: Eating more often means you’ll get more nutrients and energy throughout
+  the day so you won’t be starving and more likely to overeat later. Eating
+  three balanced meals each day is one of the best ways to make sure you get the
+  nutrition your body needs. There are also a few other healthy habits you
+  should incorporate into your daily routine. Eating well is important, but so
+  is self-care, so so is taking care of your mental health and getting enough
+  sleep and exercising.
 ---
 
 ## Make Eating Well A Ritual

@@ -3,6 +3,13 @@ title: How to deal with cravings and temptations
 createdAt: 2022-07-07T06:05:41.543Z
 updatedAt: 2022-07-16T16:18:24.918Z
 category: health
+summary: Cravings are often caused by a lack of certain nutrients. The most
+  common nutrients that cause cravings are sugar, salt, and fat. Cravings rarely
+  increase in intensity and will almost always fade away if you don't give in to
+  them. If you have a lot of sugar cravings, you should add more sugar to your
+  diet, not less. Exercising is one of the best ways to reduce the amount of
+  cravings you experience on a daily basis. This makes it much easier to satisfy
+  cravings since you have more glucose and glycogen stored in your body.
 ---
 
 ## Don't Fear The Cravings

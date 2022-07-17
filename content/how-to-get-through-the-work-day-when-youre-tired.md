@@ -3,6 +3,13 @@ title: How to get through the work day when you're tired
 createdAt: 2022-07-07T06:05:40.891Z
 updatedAt: 2022-07-16T16:10:40.866Z
 category: health
+summary: These tips will help you stay alert and energized during your work day.
+  Eating a small, but healthy meal before work is the best way to stay
+  well-hydrated throughout the day. Taking a break during the day is another
+  great way to keep you alert and focused. These tips and tricks can help you
+  combat laziness and stay focused and motivated throughout the work day, no
+  matter how early your shift starts or when you’re feeling fatigued, you can
+  relax and enjoy your day with confidence.
 ---
 
 ## Make your mornings count

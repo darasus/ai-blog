@@ -3,6 +3,14 @@ title: The Ten Most Powerful Women in Politics
 createdAt: 2022-07-07T06:15:52.820Z
 updatedAt: 2022-07-17T05:46:05.562Z
 category: politics
+summary: Nina Turner is one of the few women of color with a prominent place in
+  American politics. She made her reputation as a prominent voice in the 2016
+  Democratic Party presidential nomination, where she campaigned for U.S.
+  Senator Bernie Sanders (D-VT). Since taking office, she has campaigned for
+  policies that promote social and economic justice, including a $15 minimum
+  wage, affordable health care, and an end to mass incarceration. The list
+  includes the first two Muslim women to be elected to the House of
+  Representatives in the modern era.
 ---
 
 ## 10. Nina Turner

@@ -3,6 +3,13 @@ title: '"The Big Short" is a searing indictment of the financial industry'
 createdAt: 2022-07-08T05:56:53.292Z
 updatedAt: 2022-07-17T07:25:49.434Z
 category: culture
+summary: The Big Short is a dramatization, not a documentary; what’s depicted in
+  the movie didn’t happen exactly as it appears on screen. The filmmakers wanted
+  to use this documentary-style film to inform the public at large about how the
+  financial crash happened so that, hopefully, the same mistakes will not be
+  made again. Subprime mortgages were at the center of everything that happened
+  in the 2008 collapse. The film is a searing indictment of the financial
+  services industry.
 ---
 
 ## The Big Short is a searing indictment of the financial industry

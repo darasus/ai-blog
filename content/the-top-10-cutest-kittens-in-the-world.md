@@ -3,6 +3,12 @@ title: The Top 10 Cutest Kittens in the World
 createdAt: 2022-07-09T06:11:26.875Z
 updatedAt: 2022-07-16T15:40:08.808Z
 category: life
+summary: Kittens are the best! They are only little for a short period of time.
+  While they are cute and cuddly when they’re young, kittens really come into
+  their own when they're fully grown up. They are so playful, gentle and sweet
+  that even the scroggiest person can’t help but be won over by them. If you're
+  thinking about getting a new feline friend, make sure you choose the one that
+  is right for you.
 ---
 
 ## KITTENS ARE THE BEST!

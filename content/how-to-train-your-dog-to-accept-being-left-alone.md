@@ -3,6 +3,13 @@ title: How to Train Your Dog to Accept Being Left Alone
 createdAt: 2022-07-08T06:27:06.224Z
 updatedAt: 2022-07-16T15:36:05.943Z
 category: life
+summary: Dogs are instinctively den animals, so when left alone, they’ll try to
+  find a place that feels safe and comfortable. Find an appropriate crate to
+  train your dog to be alone and crate them for short periods of time. Set
+  ground rules while you’re home to set the tone for how the house rules work.
+  Give your dog plenty of exercise, mental stimulation, and nutrition to help
+  them feel secure in their surroundings. Give them toys such as puzzle toys to
+  keep them busy while you are out or at work.
 ---
 
 ## Set ground rules while you’re home

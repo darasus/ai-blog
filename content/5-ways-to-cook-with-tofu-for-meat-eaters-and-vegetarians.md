@@ -3,6 +3,13 @@ title: 5 ways to cook with tofu - for meat-eaters and vegetarians
 createdAt: 2022-07-07T06:05:40.139Z
 updatedAt: 2022-07-17T06:01:06.534Z
 category: cooking
+summary: Tofu is an incredibly versatile food that can be used in a wide variety
+  of recipes. It's an ideal ingredient that you can use in many different ways
+  to make a vegan dish. Marinating tofu before cooking it will make it even more
+  flavorful. Grilling or broiling tofu will give it a nice crunch on the outside
+  while keeping it soft and creamy on the inside. You can serve tofu with a
+  variety of sauces, including barbecue sauce, teriyaki sauce, or a simple
+  mixture of soy sauce and lemon or lime juice.
 ---
 
 ## Tofu is great when you want to add protein to a meal.

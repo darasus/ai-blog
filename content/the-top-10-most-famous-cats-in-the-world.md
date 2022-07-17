@@ -3,6 +3,13 @@ title: The Top 10 Most Famous Cats in the World
 createdAt: 2022-07-09T06:12:12.764Z
 updatedAt: 2022-07-16T15:47:43.969Z
 category: life
+summary: Grumpy Cat is a 2013 American reality television series. It features
+  the day-to-day operations of the "Grumpy Cat Cafè" in San Diego, California.
+  Maru is a Japanese internet celebrity who became famous for doing daily videos
+  of him playing with cardboard boxes. Bub the internet Cat tells the story of
+  an unusual feline who became an unlikely online star. Rubyyyyyyyy is a lovely
+  Siamese cat who gained widespread fame due to her unique blue eyes and blue
+  fur.
 ---
 
 ## Grumpy Cat

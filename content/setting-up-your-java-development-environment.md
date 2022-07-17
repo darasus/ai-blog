@@ -3,6 +3,15 @@ title: Setting up your Java development environment
 createdAt: 2022-07-09T06:21:49.309Z
 updatedAt: 2022-07-17T06:54:58.295Z
 category: coding
+summary: How to set up your Java development environment? When developing an
+  application, you need to install all of the tools and software required to get
+  your computer ready to code. There are several ways to do this depending on
+  the operating system you use and the version of Java that you want to use. You
+  can use different combinations of software depending on your needs and the
+  project you are working on. Whether you're building a website or an app, Java
+  is a great programming language for beginners. It is designed to be readable,
+  compact and simple to use so that developers can create programs quickly and
+  efficiently.
 ---
 
 ## How to set up your Java development environment?

@@ -3,6 +3,13 @@ title: The best healthy snacks to keep you going
 createdAt: 2022-07-07T06:05:41.587Z
 updatedAt: 2022-07-16T16:18:25.100Z
 category: health
+summary: KIND bars are made with whole grains, nuts, fruits, and spices. Dark
+  cocoa is great for boosting mood and energy, and nuts and sea salt have
+  nutrients that help to boost energy. Bananas are also great for the brain and
+  help to improve focus, making them a great snack to keep you going throughout
+  the day. Beans and legumes are one of the best sources of fiber that you can
+  eat, and they’re also high in protein. Greek yogurt is a great option for
+  snacking on the go, and it’s also good for the bones.
 ---
 
 ## KIND Bars

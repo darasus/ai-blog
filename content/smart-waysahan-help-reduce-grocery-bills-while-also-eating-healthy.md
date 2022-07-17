@@ -3,6 +3,12 @@ title: Smart waysahan help reduce grocery bills while also eating healthy
 createdAt: 2022-07-09T06:42:01.169Z
 updatedAt: 2022-07-17T06:19:01.216Z
 category: cooking
+summary: Use price comparison apps to find the best deals on your favourite
+  foods. Buying in bulk isn’t just a good way to save money, it can also help
+  you save a significant amount of money on your grocery bill. Dried beans and
+  beans are very healthy, cheap, and easy to prepare. Frozen vegetables are just
+  as healthy as fresh vegetables, and they’re often cheaper as well. Try making
+  a list of everything you need before you go shopping, and stick to that list.
 ---
 
 ## Use price comparison apps to find the best deals

@@ -3,6 +3,13 @@ title: One pan dinners = fewer dishes
 createdAt: 2022-07-09T06:43:30.075Z
 updatedAt: 2022-07-17T06:22:37.882Z
 category: cooking
+summary: There are many reasons why we love to make one pan dinners. The upfront
+  time it takes to prepare these dishes is often significantly less. One pan
+  dinners often use only one burner or one oven tray, which means that you don’t
+  have to use all of your burners or trays. The good news is that there are many
+  recipes out there for one pan dinner recipes, so you have plenty of options.
+  This one pan chicken recipe is easy to make and is great served with
+  vegetables or a side salad.
 ---
 
 ## Why we love one pan dinners

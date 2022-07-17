@@ -3,6 +3,14 @@ title: 8 ways to make healthy eating more exciting
 createdAt: 2022-07-07T06:05:41.676Z
 updatedAt: 2022-07-16T16:19:26.102Z
 category: health
+summary: Eating a diet rich in colourful foods is associated with better health,
+  increased longevity, and reduced risk of chronic diseases such as heart
+  disease and diabetes. If you’re not happy with your life, eating well will be
+  even more challenging because you won’t have the energy or motivation to take
+  care of yourself. Getting back into cooking is perfect for those who want to
+  make healthy eating more exciting. Cooking your own food gives you more
+  control over the ingredients, but it’s also a lot more fun than eating out or
+  relying on readymade meals.
 ---
 
 ## Do Something That Makes You Happy

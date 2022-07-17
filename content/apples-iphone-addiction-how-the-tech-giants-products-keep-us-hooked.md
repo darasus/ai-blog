@@ -3,6 +3,13 @@ title: "Apple's iPhone addiction: How the tech giant's products keep us hooked"
 createdAt: 2022-07-08T06:04:46.582Z
 updatedAt: 2022-07-17T07:24:41.364Z
 category: technology
+summary: The iPhone is the backbone of Apple’s services business. It generates
+  massive amounts of revenue for the company and is an essential part of its
+  services business. The amount of money Apple makes from iPhone sales every
+  year is so great that it actually outstrips the company's other major revenue
+  stream. If the iPhone turns out to be a dud, Apple may have a serious problem
+  on its hands. The company's executives have been talking up their flagship
+  product so much that it almost seems like an unhealthy obsession.
 ---
 
 ## iPhone: A brief history

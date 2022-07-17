@@ -3,6 +3,14 @@ title: Python - A language for everyone
 createdAt: 2022-07-09T06:18:23.745Z
 updatedAt: 2022-07-17T06:35:47.015Z
 category: coding
+summary: Python is designed so that you don’t have to think about the rules and
+  syntax of the language as you write your code. Python’s open-source nature
+  made the language completely free to use. Python is currently the second most
+  popular programming language (after the ever-present JavaScript), with a vast
+  community of developers, tools, tutorials, and resources. Python offers a wide
+  range of data types, including strings, numbers, lists, and dictionaries.
+  Python also offers a whole host of services, including the ability to use
+  various programming paradigms, and the ability. to use modules and packages.
 ---
 
 ## Interactive Programming and Scripting

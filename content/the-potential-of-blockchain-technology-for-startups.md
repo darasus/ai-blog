@@ -3,6 +3,14 @@ title: The Potential of Blockchain Technology for Startups
 createdAt: 2022-07-07T17:00:40.295Z
 updatedAt: 2022-07-17T07:24:25.969Z
 category: crypto
+summary: A company must create a network of computers that are linked together
+  and accessible to one another via a shared digital ledger that records every
+  transaction that takes place. This ensures that all computers can see the same
+  information and that no single system is able to gain too much power or
+  control over the networks that it’s linked to. There are blockchain services
+  available that allow startups to harness the power of blockchain without
+  needing to build their own infrastructure. These blockchain services can be
+  used in a variety of different ways.
 ---
 
 ## What is Blockchain Technology?

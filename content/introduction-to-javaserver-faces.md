@@ -3,6 +3,14 @@ title: Introduction to JavaServer Faces
 createdAt: 2022-07-09T06:25:43.147Z
 updatedAt: 2022-07-17T07:14:05.800Z
 category: coding
+summary: JavaServer Faces (JSF) is a component-based UI framework for
+  server-side applications written in Java. It is based on standard Java APIs
+  and architecture that enables developers to build web applications more easily
+  and efficiently. JSF is an implementation of the Model-View-Controller (MVC)
+  architectural pattern. It can also be used for building enterprise
+  applications that are deployed in large-scale systems. It was created as an
+  alternative to Microsoft’s ASP.NET to reduce dependency on Microsoft products
+  and increase interoperability.
 ---
 
 ## What is JavaServer Faces?

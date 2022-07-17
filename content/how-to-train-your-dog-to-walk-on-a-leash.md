@@ -3,6 +3,12 @@ title: How to Train Your Dog to Walk on a Leash
 createdAt: 2022-07-08T06:26:24.021Z
 updatedAt: 2022-07-16T15:20:21.969Z
 category: life
+summary: A leash is long enough to give you enough room to walk comfortably but
+  short enough so that it doesn’t drag on the ground when you’re not holding it.
+  A crate can be a great place for your dog to rest, especially when you're
+  training them to walk on a leash. The best way to train your dog is to use a
+  “heel” command to keep them closer to you and prevent them from becoming a
+  nuisance around other people and dogs.
 ---
 
 ## What You’ll Need

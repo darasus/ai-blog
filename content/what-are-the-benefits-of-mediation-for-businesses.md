@@ -3,6 +3,16 @@ title: What are the benefits of mediation for businesses?
 createdAt: 2022-07-09T06:16:23.222Z
 updatedAt: 2022-07-16T15:50:18.810Z
 category: life
+summary: Mediation can help resolve issues and improve company culture by
+  establishing a safe space for people to share their ideas and needs. Mediation
+  is a focused, collaborative process that helps clarify miscommunications and
+  establish mutual understanding between parties. When people are able to
+  communicate clearly and directly, they are more likely to find a common ground
+  that works for everyone. This could include creating new policies or
+  processes, establishing new norms, or modifying existing ones. When mediation
+  isn’t an option, a conflict may escalate into a lawsuit or other formal
+  proceeding. This is much more expensive than mediation and can result in
+  long-lasting damage to company culture.
 ---
 
 ## Mediation Helps Resolve Conflicts And Lead To Greater Collaboration

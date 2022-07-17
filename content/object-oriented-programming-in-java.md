@@ -3,6 +3,13 @@ title: Object-oriented programming in Java
 createdAt: 2022-07-09T06:22:44.388Z
 updatedAt: 2022-07-17T06:55:07.577Z
 category: coding
+summary: Object-Oriented Programming is a programming paradigm based on the
+  concept of "objects" An "object" is a combination of code and data, usually
+  represented as a data structure that performs some useful function. In Java,
+  the most popular language for web development, all code must be contained in a
+  class. Java classes must follow specific rules to be considered
+  "object-oriented" These rules are covered in this article. There are 7 major
+  concepts in OOP in Java, as well as its pros and cons.
 ---
 
 ## What is Object-Oriented Programming?

@@ -3,6 +3,13 @@ title: The health benefits of walking - and how to get started
 createdAt: 2022-07-07T06:05:41.248Z
 updatedAt: 2022-07-16T16:13:11.191Z
 category: health
+summary: If you have to travel to work every day, you might be able to get a bit
+  more out of your commute. Plan your route to work or home so that it passes by
+  a walking trail or a park. You can also try walking up stairs or taking the
+  stairs instead of the elevator or the escalator when you can. If you can, try
+  to walk with someone who can keep you company and help you stay focused on the
+  walk, rather than what you’re eating. Keep a supply of healthy snacks on hand
+  to keep you energized.
 ---
 
 ## Make the most of your commute.

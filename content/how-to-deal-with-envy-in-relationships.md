@@ -3,6 +3,13 @@ title: How to deal with envy in relationships
 createdAt: 2022-07-08T06:22:56.401Z
 updatedAt: 2022-07-16T15:06:12.178Z
 category: life
+summary: Envy is one of the seven deadly sins, along with greed, lust, sloth,
+  pride, gluttony and anger. Envy can arise from a variety of situations. It can
+  be a sign that you admire something about your partner and want to possess
+  that trait in yourself. If you envy your partner’s carefree attitude, you
+  might want to go back to school to get a degree in something you’ve always
+  wanted to study. If your partner is the cause of your envy, there are a few
+  things that you should do.
 ---
 
 ## What Is Envy?

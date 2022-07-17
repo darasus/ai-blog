@@ -3,6 +3,14 @@ title: How the pandemic is changing the way we work
 createdAt: 2022-07-07T06:05:40.183Z
 updatedAt: 2022-07-16T14:52:07.243Z
 category: life
+summary: Understanding how your employees value time at work can help you
+  cultivate a culture that supports high performance and productivity without
+  conforming to a one-size-fits-all model. When an office is quarantined, or a
+  pandemic forces employees to take a leave of absence, virtual offices become
+  an increasingly attractive option. A virtual office allows for continuity of
+  work and decreases the risk of employees bringing a virus home to their
+  families. Collaboration, culture, and wellness are all critical components of
+  effective pandemic preparedness.
 ---
 
 ## The Value of Time

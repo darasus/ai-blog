@@ -3,6 +3,13 @@ title: Go language for system administration
 createdAt: 2022-07-09T06:32:30.055Z
 updatedAt: 2022-07-17T07:19:21.596Z
 category: coding
+summary: Go is a compiled language, which is great for large-scale systems, and
+  portable for distributed systems. It has a flexible type system that makes it
+  easier to write and maintain code. The language’s strict type system forces
+  you to write efficient code. Go has built-in support for unit testing thanks
+  to the go test command, which runs a single test and fails if it fails. System
+  administrators don’t just write code; they also write documentation, create
+  config files, and automate tasks.
 ---
 
 ## Why Go?

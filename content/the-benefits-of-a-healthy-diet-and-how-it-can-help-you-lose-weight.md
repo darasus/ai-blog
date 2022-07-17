@@ -3,6 +3,14 @@ title: The benefits of a healthy diet - and how it can help you lose weight
 createdAt: 2022-07-07T06:05:42.082Z
 updatedAt: 2022-07-16T16:22:15.121Z
 category: health
+summary: A healthy diet is a balanced diet that focuses on eating a variety of
+  nutritious foods. It can help you lose weight and reduce your risk for certain
+  diseases, including diabetes, heart disease, and certain types of cancers.
+  Eating a healthy, balanced diet can improve your energy levels, mood, and
+  sleep quality. Eating lots of fruits, vegetables, whole grains, legumes, nuts,
+  seeds, fish, and low-fat dairy products. A healthy eating plan can be
+  different for each person because we all have different bodies, metabolisms,
+  and activity levels.
 ---
 
 ## What Is A Healthy Diet?

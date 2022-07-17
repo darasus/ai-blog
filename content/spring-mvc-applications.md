@@ -3,6 +3,16 @@ title: Spring MVC applications
 createdAt: 2022-07-09T06:26:29.107Z
 updatedAt: 2022-07-17T07:14:20.743Z
 category: coding
+summary: Desktop applications built with the Spring MVC framework are typically
+  web applications intended to be run inside a desktop environment. They are
+  usually accessed by the user through a browser, and then the desktop
+  application is launched within the browser itself. This type of architecture
+  allows the user to have access to the entire functionality of the. desktop
+  application, while only being constrained by the web browser they are using.
+  The most straightforward route would be to build a “Spring Boot Based Desktop.
+  GUI Application” The Desktop. application will be built using the default
+  settings of a Spring Boot project and no configuration changes will be
+  required.
 ---
 
 ## Spring MVC Based Desktop Applications

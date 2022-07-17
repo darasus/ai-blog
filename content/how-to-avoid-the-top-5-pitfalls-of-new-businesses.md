@@ -3,6 +3,15 @@ title: How to Avoid the Top 5 Pitfalls of New Businesses
 createdAt: 2022-07-07T16:47:24.855Z
 updatedAt: 2022-07-16T15:59:21.107Z
 category: business
+summary: Many businesses fail because they don't test their product or service
+  before launching. The next pitfall to avoid is selecting the wrong location or
+  environment for your business. There is no fixed amount of money you should
+  invest in your business, and it all depends on your business idea and the type
+  of industry you are in. You need to start building brand awareness as soon as
+  you decide to start your business. You can also build brand awareness by using
+  marketing campaigns and advertisements. Creating a marketing plan will help
+  you keep track of your marketing efforts and see what is working and what
+  isn't.
 ---
 
 ## Not Testing Your Product Or Service Before Launch

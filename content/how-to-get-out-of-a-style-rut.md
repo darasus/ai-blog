@@ -3,6 +3,13 @@ title: How to get out of a style rut
 createdAt: 2022-07-07T06:05:40.253Z
 updatedAt: 2022-07-16T14:54:23.565Z
 category: life
+summary: Getting out of a style rut doesn’t have to be complicated or
+  challenging. Try some simple changes before diving into a whole new look. Find
+  new inspiration online and look at style and colour palettes that other people
+  have used. Consider asking for a recommendation based on your skin tone, eye
+  colour and hair colour. Find a new haircut too, but it can be more time
+  consuming and expensive than a new hair colour or style. Consider visiting a
+  cosmetics counter and speaking to the makeup artist about your options.
 ---
 
 ## Change up your wardrobe

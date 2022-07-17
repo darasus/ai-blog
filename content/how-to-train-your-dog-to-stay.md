@@ -3,6 +3,13 @@ title: How to Train Your Dog to Stay
 createdAt: 2022-07-08T06:24:55.370Z
 updatedAt: 2022-07-16T15:14:39.601Z
 category: life
+summary: Dogs who are well-trained are less likely to be destructive or
+  aggressive when they are bored or left home alone. Training can reduce your
+  dog’s anxiety by giving them something productive to do, and it allows you to
+  spend quality time with your dog. Having control over your dog will help them
+  (and you) avoid unwanted confrontations with other people and their pets if
+  your dog is not well-behaved. Training your dog can also help keep them
+  mentally stimulated, which can help with boredom and depression.
 ---
 
 ## It Helps Build A Strong Bond

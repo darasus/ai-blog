@@ -3,6 +3,13 @@ title: Python - The language for artificial intelligence
 createdAt: 2022-07-09T06:21:07.565Z
 updatedAt: 2022-07-17T06:54:23.144Z
 category: coding
+summary: The best programming languages for AI will depend on what type of AI
+  project you want to build, but the ones highlighted above are a good place to
+  start. Python, Java, C++, Go and Ruby are particularly useful for AI
+  development. The flexibility of Python combined with the scalability of Java
+  and the speed of C++ make them useful for artificial intelligence. Scale is a
+  specific programming language created by IBM for AI. It’s designed to be used
+  in large-scale projects that require a lot of scalability.
 ---
 
 ## Python

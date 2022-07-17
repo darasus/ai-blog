@@ -3,6 +3,14 @@ title: How to build a diversified investment portfolio
 createdAt: 2022-07-07T16:50:52.953Z
 updatedAt: 2022-07-17T05:53:00.111Z
 category: investing
+summary: The most important factor in diversifying your portfolio is asset
+  allocation. Your asset allocation should be based on your personal financial
+  situation, investment objectives and risk tolerance. Common types of
+  investments that comprise a well-diversified portfolio are stocks, bonds and
+  cash. You can also diversify by investing in real estate and alternative
+  assets, such as private equity, venture capital trusts and commodities. A
+  diversified investment portfolio should include a mix of all the various types
+  of stocks, including large-cap, mid-cap and small-cap stocks.
 ---
 
 ## Asset Allocation: The key to effective diversification

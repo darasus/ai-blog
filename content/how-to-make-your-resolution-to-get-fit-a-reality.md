@@ -3,6 +3,14 @@ title: How to make your resolution to get fit a reality
 createdAt: 2022-07-07T06:05:40.391Z
 updatedAt: 2022-07-16T14:59:16.783Z
 category: life
+summary: You need to pick a goal that is challenging but also within your reach.
+  A resolution should be something that is achievable, but that also requires
+  effort. Find your motivation to follow through on your resolution and make
+  sure you are on the right track. Eating well, sleeping well and exercising
+  regularly are not just something you should do because you ‘ought to’ It is
+  not about transforming your body into some super-human specimen, it’s about
+  staying healthy and feeling good about yourself, improving your
+  self-confidence and having more energy.
 ---
 
 ## Why Resolutions Fail

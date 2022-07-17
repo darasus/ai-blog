@@ -3,6 +3,13 @@ title: Building a JavaServer Faces application
 createdAt: 2022-07-09T06:25:50.314Z
 updatedAt: 2022-07-17T07:14:29.658Z
 category: coding
+summary: In this tutorial, we will create a simple JavaServer Faces application
+  with a single view and a few managed beans. This application will contain a
+  form that accepts a user input, and once submitted, the application will
+  display the data entered by the user. The data can be stored in JavaBeans-like
+  fields and can be manipulated in the same way as regular editors and
+  validators. We will also define a simple bean-scoped bean-managed bean-entry
+  method and define a view.
 ---
 
 ## Creating a New JavaServer Faces Project in IntelliJ IDEA

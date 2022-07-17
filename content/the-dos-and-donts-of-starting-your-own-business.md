@@ -3,6 +3,13 @@ title: The Dos and Don’ts of Starting Your Own Business
 createdAt: 2022-07-07T16:47:00.713Z
 updatedAt: 2022-07-16T15:59:11.195Z
 category: business
+summary: Starting your own business is a big decision, and not one you should
+  make on a whim. Don’t try to do everything yourself - instead, be organized
+  and delegating as much as you can to other people. Plan out your expenses as
+  thoroughly as possible, and be sure to hire part-time employees to help you
+  out. Dictating your business plan will also help you understand what you're
+  getting yourself into and how much money you're going to need in the short and
+  long term.
 ---
 
 ## Don’t try to do everything yourself

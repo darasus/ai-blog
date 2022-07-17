@@ -3,6 +3,13 @@ title: Go language for web development
 createdAt: 2022-07-09T06:28:20.639Z
 updatedAt: 2022-07-17T07:16:10.927Z
 category: coding
+summary: Go is a compiled programming language designed around simplicity,
+  readability, and. It has a strong focus on concurrent programming and is
+  commonly used for backend. The good news is that Go’s. concurrency support
+  makes it easy to. handle these spikes. Go has a number of main reasons that Go
+  is being. developed by major companies like Google, Netflix,. and. the other
+  companies are using Go for their. back-to-back-front-front back-of-head
+  services.
 ---
 
 ## What is Go?

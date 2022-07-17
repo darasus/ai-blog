@@ -3,6 +3,15 @@ title: Python - The language for natural language processing
 createdAt: 2022-07-09T06:21:30.499Z
 updatedAt: 2022-07-17T06:54:45.521Z
 category: coding
+summary: Python is used for Natural Language Processing because it is easy to
+  learn, simple to implement, and has wide range of libraries available. Python
+  is a high-level general purpose language and is programming language that can
+  be used for any type of application. It has a wide variety of libraries.
+  Python’s syntax is. easy to read and understand which makes it a good language
+  for NLP. Processing can be performed using many different languages. The
+  choice of language will depend on the type of processing being done, the.
+  availability of libraries, the ease of use, the availability of. libraries,
+  and performance.
 ---
 
 ## What is Python used for in Natural Language Processing?

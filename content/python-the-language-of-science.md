@@ -3,6 +3,14 @@ title: Python - The language of science
 createdAt: 2022-07-09T06:19:02.243Z
 updatedAt: 2022-07-17T06:48:50.288Z
 category: coding
+summary: Python is an interactive, object-oriented, high-level programming
+  language designed to be readable and flexible. It is mainly used for web
+  development, data analysis, artificial intelligence, scientific computing, and
+  software engineering. Python code can be written in a way that is
+  “human-readable” with proper indentation. It can be used to analyze large
+  amounts of data quickly, which is important in the context of scientific
+  computing. Python is easy to learn, easy to read, has a large community of
+  users, and is open source.
 ---
 
 ## What is Python?

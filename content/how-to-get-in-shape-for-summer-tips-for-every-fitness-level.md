@@ -3,6 +3,12 @@ title: How to get in shape for summer - tips for every fitness level
 createdAt: 2022-07-07T06:05:41.116Z
 updatedAt: 2022-07-16T16:12:06.399Z
 category: health
+summary: Getting in shape takes time, and you will have setbacks along the way.
+  Remember that getting in shape isn’t just about lifting weights or building
+  muscle, it’s important to remember that you’re not just trying to lose weight
+  while building muscle will slow down your progress. Make sure that you're not
+  pushing yourself too hard on your fitness goals. Track what you eat and how
+  much you move in order to get the most out of your workouts, and how you eat.
 ---
 
 ## Know Your Limits

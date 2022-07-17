@@ -3,6 +3,13 @@ title: What are the benefits of mediation for couples?
 createdAt: 2022-07-09T06:16:51.885Z
 updatedAt: 2022-07-16T15:50:10.394Z
 category: life
+summary: The first benefit of mediation for couples is understanding each
+  other’s feelings, needs, and wants. Mediation is a great way to rebuild trust
+  in your relationship. Partners who mediate will become better communicators
+  and have a greater sense of trust in each other. Medication gives you the
+  chance to work through your issues and come up with a plan to avoid future
+  conflict. It gives you and your partner a better chance to end your
+  relationship on good terms and gain a new perspective.
 ---
 
 ## Understanding

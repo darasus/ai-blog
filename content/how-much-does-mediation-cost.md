@@ -3,6 +3,14 @@ title: How much does mediation cost?
 createdAt: 2022-07-09T06:16:02.425Z
 updatedAt: 2022-07-16T15:50:19.615Z
 category: life
+summary: Mediation methods can vary greatly, but most mediation sessions follow
+  a similar process. The length of time it takes to complete a mediation session
+  will vary depending on the complexity of the dispute and the number of parties
+  involved. Mediation costs will depend on the type of mediation you choose and
+  the amount of time the mediator will need to devote to the case. If the
+  parties and their representatives can resolve the issues, they do so at this
+  stage. If they are unable to reach an agreement, the mediators will issue a
+  written mediation report.
 ---
 
 ## How Long Does Mediation Take?

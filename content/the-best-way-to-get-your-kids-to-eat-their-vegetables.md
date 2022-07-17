@@ -3,6 +3,14 @@ title: The best way to get your kids to eat their vegetables
 createdAt: 2022-07-07T06:05:42.173Z
 updatedAt: 2022-07-16T16:22:38.248Z
 category: health
+summary: Kids associate vegetables with being told to do something and not
+  having the freedom to choose when or how much to eat them. This causes them to
+  resent eating them, which makes them not want to eat. Kids also dislike
+  vegetables because they aren’t prepared in ways that are enjoyable for them.
+  Add Spirulina and Chlorella are two types of algae that are rich in minerals,
+  vitamins and many other nutrients that your body needs. Add fruit to the top
+  of your green smoothie, it will bleed into the green colour. If you want your
+  smoothie to look green, add the greens to the bottom of the blender.
 ---
 
 ## Why Kids Don’t Like Veggies

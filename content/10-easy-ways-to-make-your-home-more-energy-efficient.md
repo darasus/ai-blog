@@ -3,6 +3,14 @@ title: 10 easy ways to make your home more energy efficient
 createdAt: 2022-07-07T06:05:40.276Z
 updatedAt: 2022-07-16T14:55:08.940Z
 category: life
+summary: An energy audit is the process of determining which areas of your home
+  are energy inefficient. LED lighting is changing the game when it comes to
+  making your home more energy efficient. Add an eco-friendly roof coating to
+  extend the life of your roof by adding a roof coating. A programmable
+  thermostat allows you to program your heating and cooling system to turn on or
+  off at a certain time. Weather-proof your home is in the fall, when
+  temperatures are still relatively mild and you’re not as rushed to get things
+  done.
 ---
 
 ## How To Make Your Home More Energy Efficient

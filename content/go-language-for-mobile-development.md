@@ -3,6 +3,13 @@ title: Go language for mobile development
 createdAt: 2022-07-09T06:28:38.665Z
 updatedAt: 2022-07-17T07:16:12.770Z
 category: coding
+summary: Swift is a programming language developed by Apple Inc. for iOS, macOS,
+  watchOS, and tvOS app development. Java is a general-purpose programming
+  language that is concurrent, class-based, and object-oriented. Python is a
+  versatile language that can be used to solve a wide range of problems. HTML5
+  and CSS3 are essential for designing mobile apps that can run on any device,
+  regardless of the operating system or browser being used. Make sure your app
+  is available on both iOS and Android.
 ---
 
 ## Swift

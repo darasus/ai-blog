@@ -3,6 +3,13 @@ title: How to stay organized and sane as a busy mom
 createdAt: 2022-07-07T06:05:40.207Z
 updatedAt: 2022-07-16T14:53:10.753Z
 category: life
+summary: A list of checklists for your daily routine is a great way to stay
+  organized as a busy mom. Cleaning as you go will ensure that messes don’t
+  become overwhelming and cause you to avoid cleaning altogether. Set a timer to
+  help you stay on top of multiple tasks. Find a cleaning buddy or two can help
+  keep you motivated to get things done. Schedule in time for self-care for
+  yourself and carve out some time each week to do something that makes you feel
+  relaxed and happy.
 ---
 
 ## Weekly routines

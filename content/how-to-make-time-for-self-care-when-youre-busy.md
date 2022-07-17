@@ -3,6 +3,13 @@ title: How to make time for self-care when you're busy
 createdAt: 2022-07-07T06:05:41.339Z
 updatedAt: 2022-07-16T16:14:02.777Z
 category: health
+summary: The best way to start your day with self-care is to set the tone for
+  it. Journaling is a great way to get your thoughts and emotions out of your
+  head and self-exploration. Getting at least seven hours of sleep can greatly
+  impact your physical and mental health. Sleep deprivation is linked to a
+  number of different health issues and can greatly affect your ability to
+  function throughout the day. Find small windows of time to devote to self care
+  and find ways to fit them into your day.
 ---
 
 ## Start your day with self-care

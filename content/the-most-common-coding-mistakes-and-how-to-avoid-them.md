@@ -3,6 +3,13 @@ title: The most common coding mistakes and how to avoid them
 createdAt: 2022-07-07T06:11:17.313Z
 updatedAt: 2022-07-17T06:30:35.807Z
 category: coding
+summary: There are many ways to check for errors using the “debugging” feature
+  of your chosen programming language. It’s best to create a variable for every
+  element you want to represent. If you don’t give your variables a new name or
+  “re-scope” them, they will conflict with other variables, causing errors.
+  Conditional statements can be very helpful, but overusing them can cause
+  problems. You can only do so much to avoid errors with minimal disruption to
+  your project.
 ---
 
 ## Don’t Know How To Check For Errors?

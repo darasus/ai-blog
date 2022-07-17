@@ -3,6 +3,13 @@ title: 10 tips for getting a good night's sleep
 createdAt: 2022-07-07T06:05:41.050Z
 updatedAt: 2022-07-16T16:11:25.337Z
 category: health
+summary: National Sleep Foundation recommend that the average person should
+  spend about a third of their lives sleeping. Eating a large meal close to
+  bedtime will prompt your body to release high levels of insulin, which can
+  make you feel restless and disrupt your sleep. Maintain a balanced and healthy
+  diet all through the day. Don’t drink alcohol to help you fall asleep, but it
+  will actually make it harder for you to fall asleep. Exercise during the day -
+  not just at night - helps regulate your sleeping pattern.
 ---
 
 ## Turn off the screens an hour before bedtime.

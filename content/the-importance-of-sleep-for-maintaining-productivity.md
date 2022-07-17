@@ -3,6 +3,14 @@ title: The Importance of Sleep for Maintaining Productivity
 createdAt: 2022-07-07T16:44:09.809Z
 updatedAt: 2022-07-16T15:58:01.929Z
 category: business
+summary: When we don’t get enough sleep, our brains start to make automated
+  decisions. This can lead to people saying and doing things they normally
+  wouldn't do. Being tired can also lead to you getting sick more often. You
+  also might not have as much energy to exercise and take care of your body.
+  Getting enough sleep is crucial if you want to stay productive and healthy.
+  There are many treatments that can help people who are dealing with mood
+  disorders like depression and anxiety. Fortunately, these conditions need to
+  be diagnosed first so people can start getting the help they need.
 ---
 
 ## The Health Risks of Lack of Sleep

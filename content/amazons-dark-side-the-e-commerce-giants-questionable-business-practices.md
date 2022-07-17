@@ -3,6 +3,14 @@ title: "Amazon's dark side: The e-commerce giant's questionable business practic
 createdAt: 2022-07-08T06:04:24.329Z
 updatedAt: 2022-07-17T07:24:41.585Z
 category: technology
+summary: Amazon has been accused of paying its fulfillment center employees 15%
+  less than the minimum wage. This is despite receiving millions of dollars in
+  tax breaks from the state of California. Amazon is currently facing 9 separate
+  lawsuits for unfair business practices. The most high-profile of these is a
+  lawsuit from the State of Washington, alleging that Amazon has broken
+  anti-trust laws. Amazon tracks almost everything you do and knows more about
+  you than you think. This has raised privacy concerns among consumer watchdogs
+  who have described Amazon’s actions as “unwanted” and “alarming”
 ---
 
 ## Amazon pays employees 15% less than the minimum wage

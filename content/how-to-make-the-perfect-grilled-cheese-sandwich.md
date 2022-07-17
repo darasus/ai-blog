@@ -3,6 +3,13 @@ title: How to make the perfect grilled cheese sandwich
 createdAt: 2022-07-07T06:05:39.894Z
 updatedAt: 2022-07-17T05:58:04.890Z
 category: cooking
+summary: The perfect grilled cheese recipe is simple combination of melted
+  cheese and bread. The type of cheese you choose has a significant impact on
+  the taste and texture of the sandwich. Most recipes call for American or
+  American cheeses, but you can experiment with other cheeses as well. For the
+  perfect sandwich, you need to make sure the pan is very hot and that you don't
+  be afraid of the flipping. The top and bottom halves will both get a crisp,
+  toasted exterior and a gooey, melted interior.
 ---
 
 ## Add a slice of bread to the grilling surface

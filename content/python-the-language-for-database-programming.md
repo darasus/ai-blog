@@ -3,6 +3,13 @@ title: Python - The language for database programming
 createdAt: 2022-07-09T06:20:23.478Z
 updatedAt: 2022-07-17T06:53:19.613Z
 category: coding
+summary: Python is a general-purpose programming language with a simple syntax
+  and powerful standard library. It is a great choice for beginner programmers
+  due to its relative ease of use compared to other languages such as Java,
+  C/C++, or C#. Python can be used for almost any programming task, from web
+  development to data science. The language was developed in the late 1980s by a
+  group of researchers at the Massachusetts Institute of Technology. It was
+  conceived as a “better C” - a language that could be used by non-programmers.
 ---
 
 ## What is Python?

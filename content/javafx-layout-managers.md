@@ -3,6 +3,13 @@ title: JavaFX layout managers
 createdAt: 2022-07-09T06:24:15.185Z
 updatedAt: 2022-07-17T06:56:24.277Z
 category: coding
+summary: The code>VBox/code> is used if you want to show one or more child nodes
+  as columns that can grow from left to right, but not from top to bottom. HBox
+  or Horizontal Box is a layout manager that arranges all its child nodes
+  horizontally in a row and does not allow any child node to grow from right to
+  left. GridPane layout manager arranges child nodes in a grid or table
+  structure where adjacent positions need to be filled with other nodes and all
+  children have equal width and height.
 ---
 
 ## VBox

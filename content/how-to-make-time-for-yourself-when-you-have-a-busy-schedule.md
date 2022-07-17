@@ -3,6 +3,14 @@ title: How to make time for yourself when you have a busy schedule
 createdAt: 2022-07-07T06:05:40.936Z
 updatedAt: 2022-07-16T16:10:53.548Z
 category: health
+summary: You can’t expect to suddenly be able to make time for yourself when you
+  feel like you have no time at all. Make time for your social and emotional
+  needs but if you aren't taking care of your physical needs, you will
+  eventually feel burnt out. If you have a creative hobby, you can actually use
+  that to help make money by scheduling it in your calendar. Make sure that you
+  choose friends who are positive and uplifting. You want friends who will just
+  drag you down and make you feel bad about yourself. If you like to start their
+  day with meditation or journaling, you should also make.
 ---
 
 ## Plan Ahead

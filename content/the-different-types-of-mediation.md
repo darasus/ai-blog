@@ -3,6 +3,14 @@ title: The different types of mediation
 createdAt: 2022-07-09T06:13:39.894Z
 updatedAt: 2022-07-16T15:48:05.808Z
 category: life
+summary: There are many different types of mediation, each with its own set of
+  rules and expectations for participants. General mediation can be used in a
+  wide variety of situations, including landlord-tenant disputes, divorces,
+  contract issues, and many other types of disputes. In most cases, general
+  mediation is an appropriate option for parties who want to resolve their
+  dispute without going to court. The mediator is not an advocate or
+  decision-maker, but a neutral third party who facilitates communication
+  between the disputing parties.
 ---
 
 ## What Is General Mediation?

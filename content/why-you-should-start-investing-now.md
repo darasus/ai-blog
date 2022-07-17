@@ -3,6 +3,13 @@ title: Why you should start investing now
 createdAt: 2022-07-07T16:51:13.945Z
 updatedAt: 2022-07-17T05:55:30.565Z
 category: investing
+summary: The sooner you start investing, the more time your money has to
+  compound and grow. Young people who invest early have significantly more time
+  to compound their earnings. Investing wisely can help you build your savings
+  for the future. No investment is risk-free, but there is always some level of
+  risk associated with any investment decision. You have an unlimited number of
+  investment options from which to choose, including stocks, bonds, real estate,
+  commodities, mutual funds and exchange-traded funds (ETFs)
 ---
 
 ## Why you should start investing now

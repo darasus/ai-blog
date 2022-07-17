@@ -3,6 +3,14 @@ title: Python - The beginner's guide
 createdAt: 2022-07-09T06:18:34.396Z
 updatedAt: 2022-07-17T06:52:28.022Z
 category: coding
+summary: "Python is a general-purpose, high-level programming language that can
+  be used for a variety of applications, from web development to scientific
+  computing. Python’s popularity has grown tremendously in recent years, and the
+  language is now one of the most widely used in the world. Python has a wide
+  range of operators and supports most of the standard operators used in other
+  programming languages. There are two types of variables in Python: simple
+  variables and complex variables. Without data types, computer programs would
+  be very limited in their functionality and usefulness."
 ---
 
 ## How to Install Python

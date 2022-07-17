@@ -3,6 +3,13 @@ title: 5 easy tips for making better soup
 createdAt: 2022-07-07T06:05:40.097Z
 updatedAt: 2022-07-17T06:00:44.740Z
 category: cooking
+summary: There are hundreds of recipes for every type of soup imaginable, but at
+  the end of the day, the most important thing in any soup is the ingredients.
+  If you start with low quality ingredients, your soup will taste like it came
+  out of a can. If your soup is too thin, the best way to fix it is to reduce it
+  on the stovetop for 10-15 minutes. Add your aromatics at the beginning of the
+  pot from the very beginning. Slurp while you’re making it, it’s essential to
+  creating delicious soup.
 ---
 
 ## Use quality ingredients

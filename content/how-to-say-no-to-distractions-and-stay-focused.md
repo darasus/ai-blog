@@ -3,6 +3,14 @@ title: How to Say No to Distractions and Stay Focused
 createdAt: 2022-07-07T16:43:47.893Z
 updatedAt: 2022-07-16T15:58:20.154Z
 category: business
+summary: Have a clear plan for how you want to spend your time and what you need
+  to do to stay focused. Turn off notifications from apps on your phone or
+  computer, messages from social media, and even alerts from software you use
+  for work can all be a source of constant distraction if you don’t turn them
+  off. If you find yourself getting distracted by certain websites or apps on a
+  regular basis, you might want to consider blocking them. Use music or audio
+  books to help you stay focused on what you’re doing and prevent yourself
+  getting caught up in other distractions.
 ---
 
 ## Have A Plan

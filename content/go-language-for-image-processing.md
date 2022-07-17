@@ -3,6 +3,14 @@ title: Go language for image processing
 createdAt: 2022-07-09T06:30:30.890Z
 updatedAt: 2022-07-17T07:18:07.869Z
 category: coding
+summary: Go is an ideal language for low-level systems where performance is a
+  critical concern. The language’s built-in concurrency model lets developers
+  write programs with many running processes. Go compiles to native code that
+  can run on multiple platforms without needing to be rewritten. Go is also a
+  good language for webcam streaming and image manipulation. Go code compiles
+  directly to machine code (native code) for each specific hardware platform. Go
+  programs don’t run in a virtual machine like other systems written in
+  languages like Python or Ruby.
 ---
 
 ## Reduced Development Time

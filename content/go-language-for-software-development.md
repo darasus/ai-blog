@@ -3,6 +3,14 @@ title: Go language for software development
 createdAt: 2022-07-09T06:29:36.108Z
 updatedAt: 2022-07-17T07:17:53.122Z
 category: coding
+summary: The Go programming language is designed to be simple and easy to learn
+  and is powerful enough to build complex, complex, scalable software that can
+  be used to solve a variety of business problems. Go is a compiled language
+  that is statically typed and uses escape analysis to make sure that memory is
+  managed efficiently. The absence of generics in Go makes it difficult to write
+  efficient code that works with different data types. The Go language is
+  incomplete as a programming language without libraries, packages, and
+  frameworks that can extend its functionality.
 ---
 
 ## Why Go?

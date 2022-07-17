@@ -3,6 +3,14 @@ title: The Potential of Blockchain Technology
 createdAt: 2022-07-07T16:57:53.292Z
 updatedAt: 2022-07-17T07:23:47.043Z
 category: crypto
+summary: The foundation of blockchain technology is a decentralized network of
+  computers that securely stores data in a manner that ensures confidentiality
+  and integrity. This is achieved by isolating the data in question, securing it
+  with strong encryption algorithms and logging the data’s provenance.
+  Blockchain technology is sometimes referred to as a “trust machine” because it
+  facilitates secure peer-to-peer interactions between parties that do not
+  necessarily trust each other. The decentralized design of the blockchain
+  network means there is no single entity to whom users must outsource trust.
 ---
 
 ## Blockchain Basics

@@ -3,6 +3,13 @@ title: How to deal with a partner who's always on social media
 createdAt: 2022-07-08T06:24:27.196Z
 updatedAt: 2022-07-16T15:12:27.174Z
 category: life
+summary: Dating apps are designed to make us feel like our love lives are always
+  just a couple of swipes away. With so many options, it can be hard to decide
+  who to message next, or to figure out what’s appropriate to say. Your partner
+  might not like being reminded that all of these other people are out there,
+  waiting to meet them. Set aside time to be with each other, even if you’re
+  living together. Don’t let your partner use dating apps as a way to treat
+  others poorly.
 ---
 
 ## What’s so frustrating about dating apps?

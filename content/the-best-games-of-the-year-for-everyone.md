@@ -3,6 +3,14 @@ title: The best games of the year for everyone
 createdAt: 2022-07-08T06:02:37.967Z
 updatedAt: 2022-07-17T07:27:32.416Z
 category: gaming
+summary: Nintendo’s flagship competitive fighting game finally came out on the
+  Switch this past December. The game has a massive roster that includes every
+  fighter from every previous Smash game, along with a couple of new characters.
+  God of War is a surprisingly emotional game that is all about the relationship
+  between Kratos and his son. Spider-Man is an excellent game that really
+  captures the feeling of being an experienced superhero. Red Dead Redemption 2
+  is an incredibly detailed game that lets you really get to know the people
+  you’re playing in.
 ---
 
 ## Super Smash Bros. Ultimate

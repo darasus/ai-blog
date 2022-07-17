@@ -3,6 +3,13 @@ title: The best coding plugins for developers
 createdAt: 2022-07-07T06:12:24.591Z
 updatedAt: 2022-07-17T06:31:40.815Z
 category: coding
+summary: Code Runner lets you run your JavaScript code right inside your text
+  editor. Double Check scans your code while you type and shows you any mistakes
+  you’re making. Duet Display lets you share the contents of your screen with
+  another person’s computer. Exposer is a code explorer that lets you navigate
+  your project and find the file you need to change. GitPlus - Sync, Review and
+  Deploy With Git - sync, review and deploy your project with remote servers and
+  collaborate with your team members.
 ---
 
 ## Code Runner

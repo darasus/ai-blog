@@ -3,6 +3,14 @@ title: "\"Beach House's '7' is a Dreamy Masterpiece\""
 createdAt: 2022-07-08T05:58:51.462Z
 updatedAt: 2022-07-17T07:26:28.406Z
 category: culture
+summary: The first track, 'Dark Spring', is a gentle and slow-moving start to
+  the record, full of dreamy sounds and rhythms that are almost indiscernible.
+  The focus is more on the rhythm section, creating a more electronic and
+  beat-driven sound. Victoria Legrand's voice floats above it all, creating that
+  familiar dreamy and melancholy mood that has become the band's signature
+  sound. The sound is both warm and inviting, but also bittersweet, melancholic
+  and even at times, somewhat haunting. It's a record that is perfect for rainy
+  days, and definitely for dreaming.
 ---
 
 ## Musically, '7' is a departure from their earlier work

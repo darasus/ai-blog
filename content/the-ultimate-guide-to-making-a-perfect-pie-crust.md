@@ -3,6 +3,12 @@ title: The ultimate guide to making a perfect pie crust
 createdAt: 2022-07-07T06:05:39.754Z
 updatedAt: 2022-07-17T05:58:30.058Z
 category: cooking
+summary: The crust acts as a wrapping for the filing, holding it in place as it
+  bakes and keeping the pie together as you slice it. The crust is also the part
+  of the pie you taste first, so it needs to be delicious. The key to a really
+  great crust is using a lot of butter in a ratio of 2 parts butter to 3 parts
+  flour. Achieving perfect flakiness is all about the dough-to-fat ratio, the
+  temperature of the ingredients, and the way you work the dough.
 ---
 
 ## But first: Why is making a perfect pie crust so important?

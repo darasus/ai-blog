@@ -3,6 +3,13 @@ title: How to Train Your Dog to Toilet Outside
 createdAt: 2022-07-08T06:26:56.325Z
 updatedAt: 2022-07-16T15:35:29.810Z
 category: life
+summary: You don’t need to spend hours training your dog, but you do need to be
+  consistent. Start by picking one area of your garden and telling your dog to
+  toilet there on a regular basis. Reward your dog with praise or playtime if
+  they do their business there. If your dog has an accident inside, you need to
+  ignore it and act as if it didn't happen. Spray vinegar or bitter spray around
+  the garden to discourage your dog from using it. This is the best way to train
+  a dog and it is something that should continue to do throughout their life.
 ---
 
 ## Consistent Training

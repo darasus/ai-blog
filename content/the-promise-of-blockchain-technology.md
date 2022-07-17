@@ -3,6 +3,14 @@ title: The Promise of Blockchain Technology
 createdAt: 2022-07-07T16:58:06.806Z
 updatedAt: 2022-07-17T07:23:32.662Z
 category: crypto
+summary: Blockchains are encrypted, distributed ledgers that use a consensus
+  mechanism to verify and validate transactions. They can be open (public) or
+  closed (private) Blockchains can be used to record financial transactions, or
+  other types of transactions that require integrity and authentication. The
+  decentralized networks of blockchain can process data significantly faster
+  than traditional networks because it doesn’t have to be approved by a single
+  authority. In order to realize these benefits, businesses will need to fully
+  embrace blockchain as a core part of their operations.
 ---
 
 ## What is Blockchain?

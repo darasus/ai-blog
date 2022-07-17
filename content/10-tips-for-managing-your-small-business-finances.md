@@ -3,6 +3,14 @@ title: 10 Tips for Managing Your Small Business Finances
 createdAt: 2022-07-07T16:45:50.566Z
 updatedAt: 2022-07-16T16:01:58.990Z
 category: business
+summary: A C Corp is a for-profit corporation that’s formed by filing articles
+  of incorporation and issuing shares to investors. An S Corp must have no more
+  than 100 shareholders. C Corps can have an unlimited number of shareholders
+  while C Corps have unlimited shareholders. Hire a Certified Public Accountant
+  (CPA) to help you prepare your company's annual tax return. Track your assets
+  and liabilities in order to keep track of any assets that are becoming
+  obsolete and need to be replaced. Track your liability risks by keeping a list
+  of all of your company commitments and obligations.
 ---
 
 ## Know the difference between an S Corp and a C Corp

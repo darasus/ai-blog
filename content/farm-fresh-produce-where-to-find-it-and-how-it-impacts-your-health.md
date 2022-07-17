@@ -3,6 +3,13 @@ title: Farm Fresh produce - where to find it & how it impacts your health
 createdAt: 2022-07-09T06:40:13.324Z
 updatedAt: 2022-07-17T06:17:23.161Z
 category: cooking
+summary: There are ways to make sure you’re getting the freshest produce, even
+  if you shop at a supermarket. Most of the produce at many supermarkets comes
+  from large produce farms in California or Mexico. Look for signs that indicate
+  the produce is “fresh from the field” (vs. “mature and ready to be harvested”)
+  Buy produce at farmers’ markets (online or in-person) Online and in-store, you
+  can order when you want your produce, rather than having to wait for the next
+  sale.
 ---
 
 ## SUPERMARKETS

@@ -3,6 +3,15 @@ title: How To Cut Out processed foods From Your Diet
 createdAt: 2022-07-09T06:38:23.060Z
 updatedAt: 2022-07-17T06:04:32.926Z
 category: cooking
+summary: Processed foods are almost always less nutritious than their
+  unprocessed counterparts. Manufacturers often add preservatives, artificial
+  colors, artificial flavors, etc. These ingredients are usually less healthy
+  than the original foods that they are altering. Unprocessed foods have a
+  shorter shelf life and are often imported from other countries. They tend to
+  be higher in sodium and lower in fiber than un processed foods, which can
+  adversely affect your health if you consume them regularly. The best way to
+  avoid eating processed foods is to plan your meals in advance and always have
+  healthy snacks on hand.
 ---
 
 ## Why You Should Ditch The Processed Foods

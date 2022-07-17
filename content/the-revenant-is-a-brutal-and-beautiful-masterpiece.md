@@ -3,6 +3,13 @@ title: '"The Revenant" is a brutal and beautiful masterpiece'
 createdAt: 2022-07-08T05:56:29.740Z
 updatedAt: 2022-07-17T07:25:35.826Z
 category: culture
+summary: ‘The Revenant’ is a brutal and violent film, but it is also a beautiful
+  tale that shows us that we must always always win the battle. Leonardo
+  DiCaprio spent months living and breathing the role of Hugh Glass in the wilds
+  of Alberta for the duration of filming, meaning no hotels for them, just tents
+  in the snowy wilderness. There are many themes to discover within the film,
+  including the themes that we are all equals; no one is better than another,
+  and that revenge is not the answer to our problems.
 ---
 
 ## The art of filming in the wild

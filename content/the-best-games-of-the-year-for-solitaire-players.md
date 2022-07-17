@@ -3,6 +3,13 @@ title: The best games of the year for solitaire players
 createdAt: 2022-07-08T06:01:55.472Z
 updatedAt: 2022-07-17T07:27:20.120Z
 category: gaming
+summary: "Each card is a famous piece of music from classical composers, each
+  with a related historical fact. You can play the game in three different
+  modes: solitaire, quick play, and challenge mode. Big-Time Baseball combines
+  solitaire with baseball, so it’s basically like playing two games in one.
+  Classic Solitaire is great for beginners or for experienced solitaire players
+  who want a simpler and less stressful game. Card Wars combines the fun and
+  whimsy of the Cartoon Network show with solitaire."
 ---
 
 ## Tunes of Glory

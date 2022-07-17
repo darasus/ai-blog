@@ -3,6 +3,15 @@ title: The Future of Blockchain Technology
 createdAt: 2022-07-07T16:57:20.428Z
 updatedAt: 2022-07-17T07:23:22.856Z
 category: crypto
+summary: The blockchain is an incorruptible digital ledger of transactions which
+  can be programmed to record not just financial transactions but virtually
+  anything of value. The financial sector is one of the industries that
+  blockchain technology has already disrupted. With blockchain technology, you
+  can expect lower fees and faster transactions. It can be used to make
+  significant improvements in many different industries. The technology is safe
+  to say that it’s here to stay and will only continue to grow from this point.
+  As technology continues to advance, we can expect to see more exciting
+  developments in the future.
 ---
 
 ## What is blockchain?

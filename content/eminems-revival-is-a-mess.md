@@ -3,6 +3,13 @@ title: "\"Eminem's 'Revival' is a Mess\""
 createdAt: 2022-07-08T05:59:32.384Z
 updatedAt: 2022-07-17T07:26:35.529Z
 category: culture
+summary: Revival is a messy album with some highs and lows, but there are some
+  tracks you must listen to again and again to grasp their true meaning. The
+  title track, “Walk on Water,” is about Eminem’s struggle with fame and fans’
+  expectations. The track “Bad Husband” takes us back to the “Kim” days where
+  Eminem details the struggles he has being a father and a husband.
+  “Chloraseptic” details a conversation between Eminem and his ex-wife and
+  current-girlfriend, Kim Scott.
 ---
 
 ## “Revival” is a throwback to Eminem’s early work

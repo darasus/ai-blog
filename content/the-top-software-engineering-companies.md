@@ -3,6 +3,15 @@ title: The Top Software Engineering Companies
 createdAt: 2022-07-09T06:17:52.822Z
 updatedAt: 2022-07-17T06:35:11.547Z
 category: coding
+summary: Google engineers are known for their competitive salaries and flexible
+  benefits packages. Engineers at Facebook are responsible for creating and
+  managing the company’s social media platforms and websites. Amazon is not only
+  a top e-commerce company, but also one of the top software engineering
+  companies in the world. To increase your chances of getting hired at Facebook,
+  you should have relevant experience in the engineering field. If you are
+  selected, an Amazon hiring manager will contact you via phone to conduct an
+  interview. Microsoft might ask you to complete a pre-interview assignment
+  before scheduling an in-person interview.
 ---
 
 ## Google

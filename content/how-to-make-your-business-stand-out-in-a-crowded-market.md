@@ -3,6 +3,13 @@ title: How to Make Your Business Stand Out in a Crowded Market
 createdAt: 2022-07-07T16:44:46.978Z
 updatedAt: 2022-07-16T15:58:13.004Z
 category: business
+summary: If you don’t know who your customers are, it will be almost impossible
+  to create something that they’ll respond to. The first step to creating a
+  successful brand is to understand your audience. The products you create and
+  the way in which you sell them need to take your audience into account. The
+  best way to make your brand stand out is to be unique, clear, concise and
+  unique. Show off the values that your company is built on, such as integrity,
+  quality or a particular mission.
 ---
 
 ## Know Your Audience

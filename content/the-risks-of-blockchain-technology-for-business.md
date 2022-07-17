@@ -3,6 +3,14 @@ title: The Risks of Blockchain Technology for Business
 createdAt: 2022-07-07T16:59:37.228Z
 updatedAt: 2022-07-17T07:24:10.316Z
 category: crypto
+summary: The technology is still unproven, and therefore its risks are largely
+  unquantifiable. Businesses that use blockchain may find that the technology
+  doesn’t meet their needs. This is particularly true for large and established
+  businesses that have significant budgets and are risk averse. There are
+  currently several different types of blockchain that are in use, such as
+  public, permissioned, and private blockchains. Each one of these has their own
+  particular use cases and limitations. It is difficult to justify the risk of
+  using the technology as it is still in its infancy.
 ---
 
 ## Blockchain is still in its infancy

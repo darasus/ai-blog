@@ -3,6 +3,13 @@ title: '"Mad Max: Fury Road" is a post-apocalyptic joyride'
 createdAt: 2022-07-08T05:56:45.850Z
 updatedAt: 2022-07-17T07:25:54.572Z
 category: culture
+summary: The end of the world is a harsh but beautiful metaphor for the
+  destruction of a person’s ego and the rebuilding of their psychological self.
+  With the previous social constructs and paradigms broken, characters are left
+  to rebuild who they are and how they see the world around them. The world of
+  "Mad Max" is one of scarcity and abundance, a perfect metaphor for capitalism.
+  The Road Warrior as an allegory for Environmentalism is the idea that nature
+  is a delicate ecosystem that we should protect and care for.
 ---
 
 ## The Apocalypse as a lens to examine the human condition

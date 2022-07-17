@@ -3,6 +3,13 @@ title: The best games of the year for partygoers
 createdAt: 2022-07-08T06:01:47.178Z
 updatedAt: 2022-07-17T07:29:41.207Z
 category: gaming
+summary: "7 Wonders is a card-based game that requires strategy, careful
+  planning, and several hours to finish a full game. Betting is a great way to
+  get people engaged with the game and also have something riding on the match.
+  Poker is a good game to learn to play and is easy enough to be played with a
+  group of non-gamers. Discworld: The Final Frontier is an excellent choice for
+  a party since it’s easy to learn and plays quickly. Codenames is a fun game
+  that can be played by anyone, regardless of skill level."
 ---
 
 ## 7 Wonders

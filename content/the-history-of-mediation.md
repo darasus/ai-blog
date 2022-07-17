@@ -3,6 +3,14 @@ title: The history of mediation
 createdAt: 2022-07-09T06:13:49.592Z
 updatedAt: 2022-07-16T15:48:17.561Z
 category: life
+summary: Mediation is a process where a neutral third party helps two parties in
+  conflict come to an agreement about how to resolve their dispute. The mediator
+  does not make any decisions for the parties or impose a solution on them.
+  Mediation as we know it today got its start in Europe in the late 19th
+  century. The effectiveness of mediation lies in its ability to create an
+  environment that is safe and non-threatening for parties involved in conflict.
+  There are many different types of mediation processes, each with its own pros
+  and cons.
 ---
 
 ## What is Mediation?

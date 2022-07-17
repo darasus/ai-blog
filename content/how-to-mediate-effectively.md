@@ -3,6 +3,13 @@ title: How to mediate effectively
 createdAt: 2022-07-09T06:12:58.748Z
 updatedAt: 2022-07-16T15:48:07.082Z
 category: life
+summary: Mediation is best used to resolve personal conflicts between two or
+  more employees that do not involve a breach of contract, fraud, or
+  discrimination. It’s important to set clear expectations and agree on ground
+  rules with the mediator and the disputants. Confidentiality is key to a
+  productive mediation, and the parties should have an agreement that both sides
+  are willing to sign. If mediation is unsuccessful, you may still be able to
+  avoid litigation by having the dispatants sign a mediation declaration.
 ---
 
 ## Establish a mediation program and educate employees on its benefits.

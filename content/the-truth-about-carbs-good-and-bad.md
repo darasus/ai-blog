@@ -3,6 +3,14 @@ title: The Truth About carbs - good and bad
 createdAt: 2022-07-09T06:38:13.229Z
 updatedAt: 2022-07-17T06:04:39.823Z
 category: cooking
+summary: Carbohydrates are one of the three macronutrients essential for human
+  life. They’re found in starchy foods like bread, pasta, rice and potatoes. The
+  difference between good carbs and bad carbs lies in their chemical
+  composition. Good carbs are usually processed and refined, stripped of their
+  natural nutrients. Bad carbs are often associated with obesity, type 2
+  diabetes and heart disease, as well as bad breath and dental problems. The
+  best sources of carbohydrates are fresh fruits and vegetables, whole grains,
+  legumes, and nuts and seeds.
 ---
 
 ## Good carbs vs bad carbs

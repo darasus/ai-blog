@@ -3,6 +3,13 @@ title: Packages in Java
 createdAt: 2022-07-09T06:23:30.947Z
 updatedAt: 2022-07-17T06:55:33.156Z
 category: coding
+summary: The abbreviation “JDK” stands for Java Development Kit. It’s a software
+  development kit that contains everything you need to run Java programs. The
+  JDK contains the JVM (Java Virtual Machine), the core Java libraries and the
+  tools to write, run and debug your code. The Java programming language is a
+  versatile and powerful language that is used to run on a wide range of systems
+  and platforms. By grouping related classes and sub-packages into a single
+  definition, you can make your code easier to understand and reuse.
 ---
 
 ## JDK (Java Development Kit)

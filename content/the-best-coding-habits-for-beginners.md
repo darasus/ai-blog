@@ -3,6 +3,13 @@ title: The best coding habits for beginners
 createdAt: 2022-07-07T06:13:56.313Z
 updatedAt: 2022-07-17T06:32:57.850Z
 category: coding
+summary: There is a lot to learn when it comes to coding, but you need to make
+  sure you have a strong foundation in the basics before attempting to write
+  your first full-fledged program. Find a study group that meets regularly is
+  one of the best ways to ensure you are making the most out of your coding
+  studies. Exercise regularly is scientifically proven to improve brain health
+  and strengthen neural connections by as much as 10% when you exercise
+  regularly. Don’t be afraid of Google and YouTube when you feel stuck.
 ---
 
 ## Learn the basics FIRST

@@ -3,6 +3,14 @@ title: "The rise of the machines: how AI is changing the workforce"
 createdAt: 2022-07-07T06:05:40.643Z
 updatedAt: 2022-07-17T07:24:41.407Z
 category: technology
+summary: The development of AI is likely to change all aspects of life,
+  including the labour market and the way people earn their living. AI is
+  expected to affect all industries, occupations, and regions to varying
+  degrees. In some cases, it will lead to a net increase in jobs, while in
+  others, it may result in a net decrease in employment in some fields. Good
+  jobs will require more expertise in order to keep their jobs. Some low-wage
+  workers do jobs that require a lot of skill and training. As a result, they
+  are not as likely to be replaced by AI.
 ---
 
 ## What is artificial intelligence?

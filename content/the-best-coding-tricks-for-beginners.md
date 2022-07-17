@@ -3,6 +3,13 @@ title: The best coding tricks for beginners
 createdAt: 2022-07-07T06:12:43.270Z
 updatedAt: 2022-07-17T06:32:07.844Z
 category: coding
+summary: You don’t need to know everything about coding before you even begin.
+  You can start with a simple application like a calculator that asks you to
+  type in mathematical equations like 2+3 to find out the answer of 5+3. The
+  best way to find and fix errors in your code is to use a debugger. Use
+  for-loops when you’re working with arrays or collections because they are
+  easier and more efficient than if-else statements. Use conditionals when
+  making decisions based on certain values.
 ---
 
 ## Read and understand the basics before you dive in.

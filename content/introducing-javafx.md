@@ -3,6 +3,14 @@ title: Introducing JavaFX
 createdAt: 2022-07-09T06:23:57.466Z
 updatedAt: 2022-07-17T06:56:04.279Z
 category: coding
+summary: JavaFX is a technology for creating rich client applications on
+  different platforms. It is a scene-based, declarative programming language
+  that is designed for composability, extensibility, and high performance.
+  JavaFX can also be used to create applications for embedded systems, such as
+  media players, digital signal processors, and medical instruments. It allows
+  you to create GUIs and applications using a combination of code and visual
+  tools to create apps. It has certain limitations, but it is a great option for
+  developing cross-platform, modern applications.
 ---
 
 ## What is JavaFX?

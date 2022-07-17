@@ -3,6 +3,15 @@ title: Testing Java applications
 createdAt: 2022-07-09T06:27:14.991Z
 updatedAt: 2022-07-17T07:14:57.916Z
 category: coding
+summary: Java Application Testing is the most difficult, yet most critical part
+  of software development. Testing your Java applications is recommended since
+  it helps cut down on the number of bugs in your software. It also helps you
+  release secure products into production faster by catching bugs before your
+  customers do. Modern software is heavily dependent on third-party services,
+  APIs, and libraries, which makes it difficult to predict all the scenarios
+  that will be executed when users interact with your software, such as using
+  third party services and libraries. Tests are primarily written in Java,
+  though other programming languages are supported as well.
 ---
 
 ## Why Is Java Application Testing Important?

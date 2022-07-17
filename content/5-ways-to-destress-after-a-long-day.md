@@ -3,6 +3,13 @@ title: 5 ways to destress after a long day
 createdAt: 2022-07-07T06:05:40.914Z
 updatedAt: 2022-07-16T16:10:40.211Z
 category: health
+summary: There are simple ways to destress after a long day that don’t require
+  much time. These techniques can be implemented in as little as 10 minutes.
+  Meditate, exercise, go for a walk, take a bath, write in a journal, or add
+  bath salts to your bath. Take a bath and relax in the bath to make it even
+  more relaxing. Stress is a reaction your body has when it sees danger and
+  produces cortisol and other stress hormones to prepare us for fight or flight.
+  When we’re stressed, our body interprets it as danger.
 ---
 
 ## Go for a walk

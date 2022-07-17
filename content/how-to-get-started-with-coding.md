@@ -3,6 +3,14 @@ title: How to get started with coding
 createdAt: 2022-07-07T06:10:02.078Z
 updatedAt: 2022-07-17T06:29:51.609Z
 category: coding
+summary: There are thousands of different programming languages, and a few of
+  the most common ones are listed below. Coding is an incredibly creative
+  process, and once you get into it, you'll find there's almost no limit to what
+  you can create. There are tons of free resources available online where you
+  can start learning. Once you know which field interests you, you can use this
+  list of top online courses to help you find the right course for you. The most
+  common languages used in software development are Java, Ruby and Python, but
+  many more exist.
 ---
 
 ## Why You Should Learn To Code

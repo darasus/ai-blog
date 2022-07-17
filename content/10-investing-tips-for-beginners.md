@@ -3,6 +3,13 @@ title: 10 investing tips for beginners
 createdAt: 2022-07-07T16:48:43.208Z
 updatedAt: 2022-07-17T05:53:09.352Z
 category: investing
+summary: Diversification reduces risk by spreading your money across different
+  types of investments so that if one sector goes down, you don’t lose
+  everything. Owning your home is still one of the best investments you can
+  make, but it will increase in value over time thanks to inflation and demand.
+  Investing is a long-term game, but you have to remember that the market will
+  go up over time. Start a small amount of money each month, starting as soon as
+  you can, is the best way to start growing your investments.
 ---
 
 ## Diversification is key

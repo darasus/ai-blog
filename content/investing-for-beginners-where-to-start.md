@@ -3,6 +3,14 @@ title: Investing for beginners - where to start
 createdAt: 2022-07-07T16:48:53.873Z
 updatedAt: 2022-07-17T05:53:08.472Z
 category: investing
+summary: Every time you put your money into an investment, there is risk
+  involved. The amount you make from each investment is not guaranteed. The best
+  way to find out what is best for you is to research different investment
+  types. When you first start investing, you might want to stick to bonds - they
+  are more of a sure thing, but don’t necessarily offer as much of a return on
+  your investment as stocks do. Borrowing money for investment is risky and not
+  recommended for beginners. Investing in stocks is a great way to make more
+  money, but it's also a riskier investment.
 ---
 
 ## What is investing?

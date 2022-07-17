@@ -3,6 +3,15 @@ title: Python - The language for game development
 createdAt: 2022-07-09T06:20:26.627Z
 updatedAt: 2022-07-17T06:53:10.657Z
 category: coding
+summary: Python is a high-level programming language that is used to build
+  software applications, websites, and games. It is a general-purpose language
+  that can be used in many different sectors including business, science,
+  mathematics, engineering, and game development. The global game development
+  market will reach $137 billion by 2021, which shows the immense potential for
+  growth for those who are interested in this field. The most important thing
+  for a game developer is to talk to the customer and understand their needs. To
+  become a successful game developer, you need to have more than just knowledge
+  of Python.
 ---
 
 ## What Is Python?

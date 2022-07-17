@@ -3,6 +3,15 @@ title: How to get more vitamins and minerals in your diet
 createdAt: 2022-07-07T06:05:41.922Z
 updatedAt: 2022-07-16T16:20:52.193Z
 category: health
+summary: Most people associate vitamins with a healthy diet, but they are
+  actually essential nutrients that are crucial for your health. A balanced diet
+  is the best way to get the vitamins and minerals your body needs to stay
+  healthy and strong. Everyone’s needs are different depending on factors like
+  age, health, and gender. Vitamin C helps the body fight off infections, iron
+  is essential for healthy blood pressure regulation, and magnesium helps with
+  energy and blood pressure. Fresh fruits and vegetables are the best source of
+  vitamin and minerals, so make sure to eat plenty of them. Healthy eating can
+  be challenging, but it's worth it.
 ---
 
 ## What are vitamins?

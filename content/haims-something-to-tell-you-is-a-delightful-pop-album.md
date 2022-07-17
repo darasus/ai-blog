@@ -3,6 +3,12 @@ title: "\"HAIM's 'Something to Tell You' is a Delightful Pop Album\""
 createdAt: 2022-07-08T05:59:46.759Z
 updatedAt: 2022-07-17T07:29:07.271Z
 category: culture
+summary: The album opens with “You Never Know,” and we see HAIM has matured and
+  grown a bit since their last album. “Running For Your Life” is a song that is
+  about both a breakup, and the fragility of life. “Push Me Down” may be about a
+  breakup. It is also a love song in which one person misses an ex-partner very
+  much very much. ‘Kept Me Crying’ is a vulnerable and honest ballad about love
+  and heartbreak.
 ---
 
 ## The Good Stuff

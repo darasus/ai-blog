@@ -3,6 +3,14 @@ title: The impact of AI on the workforce
 createdAt: 2022-07-07T06:05:40.687Z
 updatedAt: 2022-07-17T07:24:43.445Z
 category: technology
+summary: Artificial Intelligence is the concept of a computer system performing
+  tasks typical of human intelligence. AI has been around for decades, but has
+  become a hot topic since the advent of cloud computing and the proliferation
+  of open-source software. The shift in the workforce will happen gradually over
+  a decade, as organizations adopt AI in stages. Jobs that will be replaced by
+  AI will replace jobs that are routine and predictable, such as data entry,
+  scheduling, and rote analysis. AI is not yet as good as humans at tasks that
+  require creativity, empathy, or social skills.
 ---
 
 ## What is AI?

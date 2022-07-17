@@ -3,6 +3,14 @@ title: The future of mediation
 createdAt: 2022-07-09T06:14:00.659Z
 updatedAt: 2022-07-16T15:50:32.450Z
 category: life
+summary: Mediation’s unique combination of active listening, exploration of
+  interests, facilitation of creative solutions, and commitment to the parties
+  finding their own solutions that makes it such an effective dispute resolution
+  process. Mediation is not a one-size-fits-all technique. Different techniques
+  may be more or less appropriate for different types of disputes. The goal of
+  mediation is not compromise but resolution, but find a place between the two
+  extremes where both parties can feel satisfied with the outcome of their
+  dispute.
 ---
 
 ## Why Mediation Works

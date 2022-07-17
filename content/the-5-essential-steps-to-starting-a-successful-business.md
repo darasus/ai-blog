@@ -3,6 +3,14 @@ title: The 5 Essential Steps to Starting a Successful Business
 createdAt: 2022-07-07T16:47:39.119Z
 updatedAt: 2022-07-16T16:01:48.078Z
 category: business
+summary: Most new businesses fail because they don’t know how to market their
+  products. The majority of businesses spend 80% of their time creating products
+  and only 20% promoting them. A marketing plan is a written document that
+  outlines your company’s goals, objectives, and strategies for reaching those
+  goals. Having a marketing plan in place before starting your business will
+  save you time, money, and headaches down the road. Research the competition
+  before starting a business will help you understand the challenges you’ll face
+  as an entrepreneur.
 ---
 
 ## Know Your Audience Before Starting A Business

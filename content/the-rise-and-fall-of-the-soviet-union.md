@@ -3,6 +3,14 @@ title: The Rise and Fall of the Soviet Union
 createdAt: 2022-07-07T06:16:02.109Z
 updatedAt: 2022-07-17T05:45:49.163Z
 category: politics
+summary: After Lenin’s death in 1924, the Soviet Union was led by a group of
+  five men called the “troika,” which included Stalin, as well as Leon Trotsky
+  and Lev Kamenev. The Soviet Union also expanded by invading neighboring
+  nations, including Finland, Estonia, Latvia, Lithuania, Lithuania and Hungary.
+  The Brezhnev era was marked by a period of general stagnation, with
+  agriculture declining and heavy-polluting mining industry polluting the land
+  and water. In the 1980s, Soviet Union began to falter due to a mixture of
+  economic, political and social problems.
 ---
 
 ## The Soviet Union after Lenin

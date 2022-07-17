@@ -3,6 +3,15 @@ title: Python - The language for web development
 createdAt: 2022-07-09T06:20:03.380Z
 updatedAt: 2022-07-17T06:53:00.166Z
 category: coding
+summary: Python is a general-purpose programming language that can be used for
+  almost any computing task. It is open source, scalable and easy to learn.
+  Python has been used in industry for more than two decades and is one of the
+  most popular programming languages by developer surveys. Python code is easy
+  to read and understand, especially if you are new to programming. Python is
+  also a great choice given its easy syntax and ease implementation, given its
+  wide range of ease implementation and accessibility. It has some issues with
+  performance when working with large datasets, such as weather forecasts or
+  stock market data.
 ---
 
 ## What is Python?

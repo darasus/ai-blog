@@ -3,6 +3,14 @@ title: "Bitcoin Private: The Privacy-Focused Bitcoin"
 createdAt: 2022-07-07T16:56:40.061Z
 updatedAt: 2022-07-17T07:22:54.427Z
 category: crypto
+summary: Bitcoin Private is a decentralized peer-to-peer cryptocurrency that
+  allows direct payments between two parties, private and secure, without the
+  need for a trusted third party. Bitcoin Private was forked from the Bitcoin
+  blockchain at block height 499800 (around February or March 2018, exact date
+  is unknown because of a bug in their code) It was airdropped to Bitcoin and
+  ZClassic holders and gave them 1 BTCP for every 1 BTC and ZCL they held when
+  the snapshot was taken. Bitcoin’s privacy issues are rooted in its scalability
+  issues.
 ---
 
 ## What is Bitcoin Private?

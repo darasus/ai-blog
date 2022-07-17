@@ -3,6 +3,14 @@ title: How to make healthy food choices when you're hungry
 createdAt: 2022-07-07T06:05:41.992Z
 updatedAt: 2022-07-16T16:21:36.123Z
 category: health
+summary: One of the best ways to make healthy food choices when you’re hungry is
+  to plan your meals in advance. This means you can plan around any dietary
+  restrictions you may have. Combine proteins and carbohydrates in your meals to
+  keep you fuller for longer. Eating healthy isn’t just about eating carbs and
+  proteins; it’s also about getting enough healthy fats in your diet. This can
+  help to reduce the risk of many diseases, while also helping you to stay slim.
+  Eating between meals is important if you work a job, especially if you are
+  working a desk job.
 ---
 
 ## Plan Your Meals Ahead Of Time

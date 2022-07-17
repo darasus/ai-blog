@@ -3,6 +3,13 @@ title: '"Imitation of Life" is a thought-provoking drama about race and identity
 createdAt: 2022-07-08T05:58:05.617Z
 updatedAt: 2022-07-17T07:25:53.917Z
 category: culture
+summary: Sarah and Nora struggle to find their place in the world with regards
+  to their identity. Both women feel that they are betraying their identities
+  when they are forced to pass as something they are not. This film explores the
+  idea that appearances are what matter most in society, and that a person’s
+  social class is the most important thing about them. In the film, George is
+  the son of a rich man, who prefers to keep him in the poorer section of the
+  business so he can remain in control.
 ---
 
 ## The Importance of Identity

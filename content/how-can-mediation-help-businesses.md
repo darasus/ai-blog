@@ -3,6 +3,15 @@ title: How can mediation help businesses?
 createdAt: 2022-07-09T06:17:12.479Z
 updatedAt: 2022-07-16T15:51:23.170Z
 category: life
+summary: Mediation is a process of facilitated communication that uses an
+  impartial third party (a mediator) to help two or more people explore the
+  underlying issues and find solutions that are “win-win” for everyone.
+  Mediation can be used to help people resolve a wide variety of personal and
+  business disputes, including contractual/commercial matters, landlord/tenant
+  issues, partnership/co-ownership issues, divorce/child custody issues and
+  neighbourhood/community disputes. In mediation, disputants sit together with
+  an impartial mediator and talk about their dispute. The mediator does not take
+  sides and does not give advice.
 ---
 
 ## What is Mediation and How Does it Help Businesses?

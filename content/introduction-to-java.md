@@ -3,6 +3,15 @@ title: Introduction to Java
 createdAt: 2022-07-09T06:21:41.377Z
 updatedAt: 2022-07-17T06:55:01.468Z
 category: coding
+summary: Java is a general-purpose programming language that can be run on any
+  device. It’s installed on billions of devices, is used by millions of
+  businesses, and has a rich ecosystem of libraries and tools. Java has a strong
+  network effect; the more people who use it, the more useful it becomes. Java
+  also has a reputation for security; many organizations have strict rules about
+  what languages and technologies they allow. The most common source of
+  confusion is between Java and JavaScript; they are very different languages.
+  Java is used to create apps and can be used to build everything from websites
+  to robots.
 ---
 
 ## Why is Java Still Relevant After 25 Years?

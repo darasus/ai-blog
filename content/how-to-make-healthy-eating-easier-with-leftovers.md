@@ -3,6 +3,15 @@ title: How to make healthy eating easier with leftovers
 createdAt: 2022-07-07T06:05:41.789Z
 updatedAt: 2022-07-16T16:19:57.205Z
 category: health
+summary: Eating your main meal and then having a small portion of leftovers for
+  your next meal can help you get more nutrients in your diet without having to
+  slave over a hot stove or blender. Eating leftovers can be a lifesaver if you
+  have a chronic illness that makes it difficult for you to absorb nutrients
+  from food. Eating more leftovers is actually healthier than eating fresh food,
+  according to a study. You’re probably eating too much processed food and the
+  more processed foods you eat, the harder it will be to meet your daily
+  nutrient requirements. Using your food storage will make cooking feel less
+  overwhelming.
 ---
 
 ## Why should you care about leftovers?

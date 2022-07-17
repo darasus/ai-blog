@@ -3,6 +3,14 @@ title: Go language for concurrent programming
 createdAt: 2022-07-09T06:31:21.246Z
 updatedAt: 2022-07-17T07:19:21.084Z
 category: coding
+summary: Go For Concurrent Programming is a type of programming in which
+  multiple tasks are executed during the same time period. It is particularly
+  useful when a computer requires more time than is available at one time. By
+  executing concurrent programs across multiple servers, we can ensure that
+  waiting times are kept to a minimum. Go was designed from the ground up as a
+  concurrent programming language. It has a few key features that make it very
+  easy to create concurrent code. These features make concurrent programming in
+  Go extremely easy.
 ---
 
 ## What is Concurrent Programming?

@@ -3,6 +3,14 @@ title: Go language for network administration
 createdAt: 2022-07-09T06:32:32.443Z
 updatedAt: 2022-07-17T07:17:59.899Z
 category: coding
+summary: Go is an easy-to-use programming language that is a great choice for
+  network administrators. The language has been designed to make it easier to
+  write reliable code that can be read by anyone on the team. Go was designed by
+  Google in 2007 as an alternative to more traditional languages such as C and
+  C++. It was created as a response to the growing complexity of these languages
+  and the difficulty of finding developers who could work in them. The main
+  advantage that network administrators get from using Go is that it is easy to
+  use reliable code.
 ---
 
 ## What Is Go?

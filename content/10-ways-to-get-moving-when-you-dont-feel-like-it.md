@@ -3,6 +3,13 @@ title: 10 ways to get moving when you don't feel like it
 createdAt: 2022-07-07T06:05:40.981Z
 updatedAt: 2022-07-16T16:11:08.814Z
 category: health
+summary: If you’re not feeling the workout on any given day, try to go with the
+  flow. Reward yourself with a special snack or bubble bath afterward. Find a
+  friend or group to work out with you to help you stay motivated. Use apps and
+  fitness trackers to keep you on track and set new goals for yourself each day.
+  Take a break and shake it off, even if you're feeling discouraged or
+  discouraged, it can be helpful to do deep breathing exercises or take a break
+  from your workout.
 ---
 
 ## Go With The Flow

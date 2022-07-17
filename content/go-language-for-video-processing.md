@@ -3,6 +3,14 @@ title: Go language for video processing
 createdAt: 2022-07-09T06:31:03.154Z
 updatedAt: 2022-07-17T07:17:59.065Z
 category: coding
+summary: The video processing industry uses a variety of tools and technologies
+  to get their job done. AI is a type of technology that’s designed to create
+  machines that can learn, understand, and create on their own. This is because
+  these algorithms are programmed to recognize visual patterns and then make
+  predictions based on what they’ve learned. AI can help businesses in this
+  industry process more video and images in less time, which can equate to more
+  profit for businesses. The most popular AI algorithm for this industry is a
+  deep neural network.
 ---
 
 ## What is the Video Processing Industry?

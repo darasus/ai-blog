@@ -3,6 +3,14 @@ title: Go language for data science
 createdAt: 2022-07-09T06:29:13.269Z
 updatedAt: 2022-07-17T07:16:54.513Z
 category: coding
+summary: Go is an open source programming language that was designed by Google
+  engineers in 2009. It aims to solve the problems of large software projects,
+  such as code maintenance and scalability, that developers faced when working
+  in other languages. Go’s high-level standard libraries, designed for
+  general-purpose programming, are easy to understand and follow standardized
+  conventions. Go has a static type system with no explicit types, making the
+  language less error-prone. Go also has a very fast compilation time, making it
+  a good choice when you need to deploy code often.
 ---
 
 ## What is Go?

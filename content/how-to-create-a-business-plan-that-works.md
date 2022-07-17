@@ -3,6 +3,14 @@ title: How to Create a Business Plan That Works
 createdAt: 2022-07-07T16:47:51.142Z
 updatedAt: 2022-07-16T16:01:56.575Z
 category: business
+summary: A thorough knowledge of your potential customers will help you clarify
+  your business concept, determine your product or service offering, and
+  organize your marketing strategy. The next step in creating a business plan is
+  to identify your company’s needs. The plan should include short-term and
+  long-term goals, as well as strategies for meeting those goals. The bottom
+  line is to know how much money your company will generate and how much it will
+  cost to run your business. You can’t start marketing your product and service
+  offering if you’ve not known what it is, so start by clearly defining it.
 ---
 
 ## Know Your Audience

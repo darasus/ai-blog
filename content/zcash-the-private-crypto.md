@@ -3,6 +3,15 @@ title: "Zcash: The Private Crypto"
 createdAt: 2022-07-07T16:55:30.242Z
 updatedAt: 2022-07-17T07:23:44.156Z
 category: crypto
+summary: ZCash is a decentralized cryptocurrency that aims to bring
+  unprecedented privacy to the world of blockchain and cryptocurrency. ZCash was
+  first released in 2016 by Zooko Wilcox, the CEO of the company behind the
+  currency, Zerocoin Electric Company. It allows for users to control their own
+  privacy settings, with public transactions accessible by every user, and
+  private transactions only visible to the sender, receiver and those they give
+  permission to. Zcash is built on the blockchain provided by Proof of Work
+  (PoW), which relies on miners solving complex mathematical problems to add
+  transactions to the blockchain.
 ---
 
 ## What is ZCash?

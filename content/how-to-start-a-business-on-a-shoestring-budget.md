@@ -3,6 +3,14 @@ title: How to Start a Business on a shoestring budget
 createdAt: 2022-07-07T16:44:27.521Z
 updatedAt: 2022-07-16T15:58:19.983Z
 category: business
+summary: A small business doesn’t have to have to feel small like a small
+  business. Instead of trying to create a budget that doesn't fit your current
+  finances, start small. Break down your cash-flow forecasts for the next year
+  to help you understand and plan for future expenses. Be smart with your
+  marketing dollars and take the ROI of each channel into account. Track your
+  spending to better understand where your money goes on a daily, weekly and
+  monthly basis. You can also create multiple budgets based on your company’s
+  income and expenses.
 ---
 
 ## Define your business goals

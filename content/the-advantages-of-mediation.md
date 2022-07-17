@@ -3,6 +3,14 @@ title: The advantages of mediation
 createdAt: 2022-07-09T06:13:09.026Z
 updatedAt: 2022-07-16T15:48:05.712Z
 category: life
+summary: Legal fees can quickly add up when you go to court, but mediation is
+  significantly cheaper. Mediation is a worthwhile alternative to litigation
+  because mediation allows you to resolve your dispute in a private and
+  cost-effective setting. Mediators don’t have the authority to make a ruling in
+  your favor. Instead, mediation allows both parties to make their own decision
+  on how to proceed with the dispute. In mediation, there are no lawyers
+  involved and no court costs; the only cost you’ll incur is the cost of the
+  mediator.
 ---
 
 ## Mediation Can Help You Save Time and Money

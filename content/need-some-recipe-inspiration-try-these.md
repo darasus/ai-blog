@@ -3,6 +3,14 @@ title: Need some recipe inspiration? try these
 createdAt: 2022-07-09T06:40:28.851Z
 updatedAt: 2022-07-17T06:17:20.786Z
 category: cooking
+summary: "The Great British Bake Off is back with a new series of baking
+  challenges. The first challenge of the series was the Signature Bake, where
+  contestants had to make something inspired by childhood memories. This week’s
+  Signature Challenge was one of the trickiest yet on Bake Off: the dreaded
+  Pasty Challenge. The contestants were challenged to make a meat and potato
+  pasty — an unusual combination. They had to create a three-tiered cake
+  decorated with a novelty design or feature. These recipes are perfect for
+  sharing with friends, family or even even a complete baker."
 ---
 
 ## The Great British Bake Off — Episode 1

@@ -3,6 +3,13 @@ title: The History of the European Union
 createdAt: 2022-07-07T06:16:28.201Z
 updatedAt: 2022-07-17T05:49:14.545Z
 category: politics
+summary: "The European Economic Community (EEC) was established with the signing
+  of the Treaty of Rome (1957) by France, Italy, Belgium, the Netherlands, and
+  Luxembourg. The Single European Act (SEA) was signed in 1986 and came into
+  force two years later. With the Maastricht Treaty, the EU became the first
+  supranational organization in the world to have its own currency: the euro. To
+  date, 19 EU member states have adopted the euro as the single currency of the
+  EU."
 ---
 
 ## Origins of EU Cooperation

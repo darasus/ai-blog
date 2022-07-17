@@ -3,6 +3,13 @@ title: '"Boyhood" is a coming-of-age story like no other'
 createdAt: 2022-07-08T05:57:55.737Z
 updatedAt: 2022-07-17T07:25:53.938Z
 category: culture
+summary: The narrative of "Boyhood" is unusual because it is told from the
+  inside out. Instead of following a protagonist from birth to adulthood,
+  viewers experience the ups and downs of Mason’s life as a series of discrete
+  moments. The movie follows Mason and his family exclusively, allowing for an
+  extremely detailed look at the lives of a single family over a relatively long
+  time period. The film is extremely detailed, allowing viewers to see the
+  seemingly unimportant moments that add up to form a childhood.
 ---
 
 ## A coming-of-age story told from the inside out

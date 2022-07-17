@@ -3,6 +3,14 @@ title: 10 ways to use up leftover cooked rice
 createdAt: 2022-07-07T06:05:39.917Z
 updatedAt: 2022-07-17T05:58:28.259Z
 category: cooking
+summary: Using leftover rice in a casserole is an excellent way to use it up,
+  particularly if you are cooking for a group of people. Rice bowl with tuna is
+  a great way to make rice bowls and rice balls. Rice balls are also known as
+  onigiri and are a popular snack in Japan. Baked rice cakes are soft, chewy,
+  and sticky and filled with lots of nutrients and are also filled with sweet or
+  savory toppings. If you have some leftover rice left over, you can turn it
+  into a rice cake. Salmon and rice casseroles are a great source of protein and
+  omega-3 fats.
 ---
 
 ## Chicken and rice casserole

@@ -3,6 +3,14 @@ title: Why Self-Learning Is Important
 createdAt: 2022-07-09T06:33:25.790Z
 updatedAt: 2022-07-17T07:27:42.647Z
 category: productivity
+summary: The more data you feed into your AI, the better it performs.
+  Self-learning algorithms are better than humans at continuously learning. They
+  can learn from their own datasets and continuously learn from user input. This
+  is especially useful in the fields of stock market analysis, complex pattern
+  recognition, and language generation. This makes them more appropriate for
+  real-time uses and less appropriate for offline uses. With continuous learning
+  enabled, the AI doesn’t have to be reprogrammed each time the business wants
+  to change its strategy or make a new prediction or recommendation.
 ---
 
 ## Why is Self-Learning Important?

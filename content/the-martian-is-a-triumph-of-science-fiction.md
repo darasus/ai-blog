@@ -3,6 +3,13 @@ title: '"The Martian" is a triumph of science fiction'
 createdAt: 2022-07-08T05:56:23.082Z
 updatedAt: 2022-07-17T07:25:26.263Z
 category: culture
+summary: "The Martian surface is an extreme environment: the temperature
+  fluctuates wildly, the CO2 in the air is unbreathable, the UV is intense, and
+  there’s no water. The only way humans could survive on Mars is if they had
+  enough supplies to last for the rest of their lives, along with a way to
+  communicate with Earth. The challenges of living on Mars tell us something
+  valuable about ourselves: we’re resilient, creative, and curious. When faced
+  with a challenge, we don’t give up: we find a way of solving it."
 ---
 
 ## A brief primer on orbital mechanics

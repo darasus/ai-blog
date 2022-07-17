@@ -3,6 +3,15 @@ title: The Environmental impact of our food choices
 createdAt: 2022-07-09T06:39:48.039Z
 updatedAt: 2022-07-17T06:14:46.775Z
 category: cooking
+summary: "When we eat, we consume resources that are needed to grow our food:
+  soil, water, energy. Food production also generates waste, which can be
+  harmful to the natural environment. Reducing the amount of meat in our diet
+  could help reduce the. amount of. resources used for agriculture, such as
+  deforestation, water consumption, and soil erosion. Eating less meat and more
+  vegetables could reduce global greenhouse gas emissions by up to two thirds.
+  Eating more local, seasonal foods could reduce food transportation and
+  consequent carbon emissions, water use, and biodiversity loss due to
+  monoculture."
 ---
 
 ## How does our diet affect the environment?

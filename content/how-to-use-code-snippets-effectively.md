@@ -3,6 +3,13 @@ title: How to use code snippets effectively
 createdAt: 2022-07-07T06:13:02.066Z
 updatedAt: 2022-07-17T06:32:10.801Z
 category: coding
+summary: There are many situations where code snippets are a great tool to have
+  at your disposal. They can be used to add in-line code comments, include code
+  segments, format images, and insert frequently used code segments. Don’t rely
+  on code snippets as a crutch to get through the challenge as quickly as
+  possible. Take some time to learn the basics of different code languages to
+  help you write code that is more efficient and effective. Learn how to read
+  files from a specific file type and how to write a specific program.
 ---
 
 ## Know When To Use Code Snippets

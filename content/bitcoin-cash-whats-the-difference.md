@@ -3,6 +3,13 @@ title: "Bitcoin Cash: What's the difference?"
 createdAt: 2022-07-07T16:54:17.335Z
 updatedAt: 2022-07-17T07:22:42.208Z
 category: crypto
+summary: Bitcoin is a type of digital currency that can be “mined” by computers.
+  Bitcoin has been criticized for its slow transaction times and high
+  transaction fees. Bitcoin Cash was created as a “hard fork” of Bitcoin in
+  August 2017. Bitcoin is one of the most established cryptocurrencies, and its
+  network is significantly larger than that of Bitcoin Cash. The main difference
+  between the two currencies is their scalability. Bitcoin Cash is able to
+  process a larger number of transactions per second than Bitcoin.
 ---
 
 ## What is Bitcoin Cash?

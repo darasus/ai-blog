@@ -3,6 +3,14 @@ title: The most popular coding languages
 createdAt: 2022-07-07T06:10:22.897Z
 updatedAt: 2022-07-17T06:29:43.267Z
 category: coding
+summary: According to a report from the Cloud Native Computing Foundation, Java
+  is one of the most popular programming languages to build cloud-computing
+  platforms. Java was the primary language for building the internet back in the
+  1990s. Python is a general-purpose language that is used in a broad range of
+  industries and applications. Kotlin is a programming language that was created
+  by a group of engineers at a company called JetBrains in St. Petersburg,
+  Russia. Android is also a growing language in the world of software
+  development.
 ---
 
 ## Java

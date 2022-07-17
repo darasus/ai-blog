@@ -3,6 +3,14 @@ title: Go language for web administration
 createdAt: 2022-07-09T06:32:43.700Z
 updatedAt: 2022-07-17T07:19:18.113Z
 category: coding
+summary: Go is a programming language that was designed by Google engineers in
+  2007. Go ranks directly behind Java as one of the most popular programming
+  languages used by software engineers. Go is mainly used to build backend
+  services like APIs and microservices, which are software applications that run
+  on one or more computers to perform a specific task. Go can be used to create
+  websites, but it is not the most ideal choice for this purpose. It is an
+  excellent language for creating web applications that are used by engineers
+  within a company to manage data and perform various tasks.
 ---
 
 ## What is Go?

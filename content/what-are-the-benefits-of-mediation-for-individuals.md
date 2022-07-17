@@ -3,6 +3,14 @@ title: What are the benefits of mediation for individuals?
 createdAt: 2022-07-09T06:17:07.665Z
 updatedAt: 2022-07-16T15:50:01.395Z
 category: life
+summary: Meditating can help you reduce stress and anxiety by slowing down your
+  breathing. This in turn slows down your heart rate, which helps reduce your
+  stress level. Another way meditation helps reduce stress is by increasing the
+  production of serotonin in your brain. Increased serotonin levels in the brain
+  have been shown to reduce feelings of depression and anxiety. It can also help
+  you make decisions from a place of calm and help you find meaning in life’s
+  challenges. Meditating regularly can also improve your ability to focus and
+  concentrate.
 ---
 
 ## Reduce Stress And Anxiety

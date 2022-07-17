@@ -3,6 +3,14 @@ title: The basics of investing - what you need to know
 createdAt: 2022-07-07T16:49:34.815Z
 updatedAt: 2022-07-17T05:53:01.147Z
 category: investing
+summary: Investing is the process of allocating funds to assets expected to
+  generate financial returns. When you invest in something, you’re hoping to
+  receive financial returns in the future (in the form of interest payments or
+  capital appreciation) There are many different types of investments that
+  people can choose from – such as stocks, bonds, mutual funds, and real estate.
+  Investing early and often can help you build a bigger nest egg. With the right
+  strategy, you can invest in a way that works for you and your financial
+  situation.
 ---
 
 ## What is investing?

@@ -3,6 +3,13 @@ title: How to read code like a pro
 createdAt: 2022-07-07T06:14:18.660Z
 updatedAt: 2022-07-17T06:33:25.984Z
 category: coding
+summary: The first thing you want to do when reading code is open up the
+  declaration and read the code like you’re reading a book. The declaration
+  section contains all the information you need to know about how the code is
+  written and what it actually does. If you see a line of code that has a lot of
+  abbreviations, acronyms, or words you aren’t familiar with, try to read it as
+  though you were reading a sentence in English. Keep track of the terms that
+  you see most often while reading code by keeping a dictionary beside you.
 ---
 
 ## Don’t Be Disappointed By What You See

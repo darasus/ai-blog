@@ -3,6 +3,14 @@ title: 10 Tips for Growing Your Small Business
 createdAt: 2022-07-07T16:44:34.488Z
 updatedAt: 2022-07-16T15:58:18.117Z
 category: business
+summary: The first thing to do when growing your small business is to have a
+  clear vision of what you want your company to look like in the future. You
+  need to make sure that you are effectively marketing your products and/or
+  services to your target audience. Be transparent with your employees and make
+  sure you are using your company name, logo, and other identifying features
+  consistently across your marketing materials and website. Establishing brand
+  awareness is all about letting people know who you are, what you do, and what
+  you have to offer.
 ---
 
 ## Have a Clear Vision

@@ -3,6 +3,13 @@ title: Breakfast ideas beyond cereal + oatmeal
 createdAt: 2022-07-09T06:43:00.442Z
 updatedAt: 2022-07-17T06:21:37.522Z
 category: cooking
+summary: The best breakfast food is packed with protein and other nutrients,
+  like vitamins B and D, choline, and iron. Eggs are incredibly versatile and
+  can be prepared in a ton of different ways. Berries are rich in antioxidants
+  and fibre and make the perfect breakfast bowl. You can chop up some fruit,
+  like apples, pears, or bananas, to add to your bowl for extra fibre and
+  sweetness. Bowls of mixed veggies are full of fibre, vitamins, and minerals
+  that are essential for your body to function properly.
 ---
 
 ## Eggs: The best breakfast food

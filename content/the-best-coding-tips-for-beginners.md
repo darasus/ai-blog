@@ -3,6 +3,13 @@ title: The best coding tips for beginners
 createdAt: 2022-07-07T06:12:36.979Z
 updatedAt: 2022-07-17T06:31:37.693Z
 category: coding
+summary: If you want to be a great programmer, you've got to start with the
+  basics. This is the foundation of everything that comes after, so it's
+  important to get the basics right. The more you practice and learn, the better
+  your skills will become. Join a coding bootcamp in your area and attend
+  classes regularly in person or online. Find a community of likeminded people
+  who are trying to learn how to code. Commit to regularly practicing and follow
+  through with the best way to learn.
 ---
 
 ## Learn how to code with the basics first

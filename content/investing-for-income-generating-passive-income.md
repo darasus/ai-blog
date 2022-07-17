@@ -3,6 +3,14 @@ title: Investing for income - generating passive income
 createdAt: 2022-07-07T16:51:34.625Z
 updatedAt: 2022-07-17T05:55:55.594Z
 category: investing
+summary: Dividend-paying stocks represent shares in a company’s profit stream.
+  While share prices may go up or down depending on the performance of the
+  company, the dividend payment will remain steady. Real Estate Investment
+  Trusts (REITs) are companies that own and manage a variety of commercial
+  properties. Real estate can be an excellent way to generate tax-advantaged
+  cash flow from your investment portfolio. Alternative energy sources can be a
+  good option for those interested in generating consistent cash flows from
+  their investment portfolios.
 ---
 
 ## Basics of Investing for Income

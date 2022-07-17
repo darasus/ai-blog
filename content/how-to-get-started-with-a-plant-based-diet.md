@@ -3,6 +3,13 @@ title: How to get started with a plant-based diet
 createdAt: 2022-07-07T06:05:41.293Z
 updatedAt: 2022-07-16T16:13:09.960Z
 category: health
+summary: Many people who eat a 100% plant-based diet consume an unbalanced
+  amount of carbohydrates and fibre while not getting enough protein and
+  vitamins from plants. It’s very easy to fall into the trap of eating mostly
+  refined carbohydrates like bread and pasta, which aren’t the best sources of
+  nutrients. You can begin by eliminating animal products from your diet one at
+  a time, or by cutting out all animal products at once. If you want to take it
+  slow, start by replacing one product a week with a vegan alternative.
 ---
 
 ## What You Need To Know Before Going Plant-Based

@@ -3,6 +3,13 @@ title: Why you should add more greens into your diet
 createdAt: 2022-07-09T06:41:35.244Z
 updatedAt: 2022-07-17T06:19:05.087Z
 category: cooking
+summary: Vegetables are naturally healthy, but many people aren’t consuming
+  enough of them. A diet rich in vegetables can lower your risk of obesity,
+  heart disease, and certain cancers. A serving of broccoli contains about six
+  grams of protein, which is about 10 percent of the recommended daily allowance
+  (RDA) for protein. Adding protein to your meal is an easy way to increase the
+  amount of protein you’re consuming. Mixing green vegetables with other healthy
+  foods is a good way to get more greens into your diet.
 ---
 
 ## Add more vegetables to your diet

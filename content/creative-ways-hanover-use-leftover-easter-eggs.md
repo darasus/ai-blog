@@ -3,6 +3,12 @@ title: Creative Ways Hanover Use Leftover Easter Eggs
 createdAt: 2022-07-09T06:44:29.923Z
 updatedAt: 2022-07-17T06:22:50.753Z
 category: cooking
+summary: Creative ways to use leftover Easter eggs to make jewellery and
+  decorate a wall. Natural dye with the yolks can be used to make Easter egg
+  decoration. You can also turn your eggs into colourful playdough and grow them
+  into sprouts. If you have so many eggs that you don't know what to do with
+  them all, you can use natural dye to colour fabric or paper. You could also
+  make scrapbooking embellishments out of your leftover eggs for the family.
 ---
 
 ## Creative Ways to Use Leftover Easter Eggs

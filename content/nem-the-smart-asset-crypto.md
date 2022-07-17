@@ -3,6 +3,14 @@ title: "NEM: The Smart Asset Crypto"
 createdAt: 2022-07-07T16:55:56.249Z
 updatedAt: 2022-07-17T07:22:45.968Z
 category: crypto
+summary: NEM, or New Economy Movement, uses advanced system of smart contracts
+  to manage almost any kind of commercial property. With smart assets, you can
+  program just about any type of transaction and condition. NEM’s Smart Asset
+  Token (NEMA) functions as a placeholder for any other asset that can be traded
+  via a blockchain. NEMA allows developers to add their own smart assets to the
+  NEM blockchain. Like other cryptocurrencies, NEM's developers designed their
+  platform with a built-in mechanism that rewards people for contributing
+  computing power.
 ---
 
 ## NEM: What is it?

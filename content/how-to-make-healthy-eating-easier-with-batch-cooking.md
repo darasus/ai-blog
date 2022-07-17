@@ -3,6 +3,13 @@ title: How to make healthy eating easier with batch cooking
 createdAt: 2022-07-07T06:05:41.609Z
 updatedAt: 2022-07-16T16:18:50.557Z
 category: health
+summary: Batch cooking is the process of making large amounts of healthy food at
+  one time and freezing or refrigerating for future use. This can be done with
+  just about any type of food, but it is most commonly done with stews and
+  soups. All you have to do is make a large amount of your favorite recipe, put
+  it in containers, and store it in the refrigerator or freezer until you are
+  ready to eat it again. This will help you avoid getting into a quick-meal rut
+  and will give you something healthy to grab.
 ---
 
 ## What is batch cooking?

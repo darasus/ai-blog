@@ -3,6 +3,14 @@ title: Big tech companies and the future of the internet
 createdAt: 2022-07-08T06:05:58.140Z
 updatedAt: 2022-07-17T07:25:29.069Z
 category: technology
+summary: Google is the world’s most popular search engine, internet service
+  provider (ISP), and website hosting provider. Facebook is the most popular
+  social media website in the world, with approximately 2.3 billion users as of
+  June 2018. Twitter is a social networking website that allows users to post
+  short “tweets,” or microblog posts, of up to 280 characters. Amazon is the
+  largest online retailer and marketplace, as well as a popular cloud computing
+  service. Microsoft is also working on a new browser engine that's meant to
+  replace HTML5.
 ---
 
 ## Google

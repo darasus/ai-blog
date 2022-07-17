@@ -3,6 +3,13 @@ title: Web applications with Java
 createdAt: 2022-07-09T06:25:25.326Z
 updatedAt: 2022-07-17T06:57:11.571Z
 category: coding
+summary: Java is an incredibly versatile programming language that can be used
+  in many different environments and contexts. Java is also open source, which
+  means that anyone can use it for free. The best developers out there who know
+  how to work with Java are well-paid, happy individuals who love what they do.
+  Learning how to build web applications with Java is easier than ever thanks to
+  the many different frameworks and libraries available. The Spring Framework
+  is, hands down, one of the most popular Java web frameworks available today.
 ---
 
 ## Spring MVC

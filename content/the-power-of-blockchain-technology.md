@@ -3,6 +3,15 @@ title: The Power of Blockchain Technology
 createdAt: 2022-07-07T16:58:01.485Z
 updatedAt: 2022-07-17T07:23:42.248Z
 category: crypto
+summary: The blockchain is a digital distributed ledger that records
+  transactions in a secure and decentralized manner. Because the blockchain is
+  distributed across thousands of computers, it is extremely difficult to hack.
+  The data can also be traced to its origins. It is poised to be a game changer
+  especially in product supply chains where provenance and authenticity are
+  critical. It can be used to design and deploy financial products, such as
+  investing, lending, insurance, and savings, in a peer-to-peer manner. Small
+  businesses can therefore cut down on the costs and fees associated with
+  financial transactions and cross-border payments.
 ---
 
 ## Why is Blockchain Technology Important?

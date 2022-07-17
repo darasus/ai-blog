@@ -3,6 +3,12 @@ title: Quick weeknight pasta recipes
 createdAt: 2022-07-09T06:44:14.680Z
 updatedAt: 2022-07-17T06:22:39.295Z
 category: cooking
+summary: There are a few key tips to keep in mind when cooking quick pasta
+  dinners. Don’t be afraid to mix up your pasta, you can also use penne,
+  fusilli, rotini, and more to get your dinner on the table faster. Choose fresh
+  ingredients if you can, and make sure they’re of the highest quality you can
+  afford. A one-pot pasta with a light sauce is an easy pasta recipe idea that
+  can be made in just a few minutes.
 ---
 
 ## Tips for quick pasta dinner recipes

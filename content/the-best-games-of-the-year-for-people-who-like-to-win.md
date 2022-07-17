@@ -3,6 +3,12 @@ title: The best games of the year for people who like to win
 createdAt: 2022-07-08T06:03:07.515Z
 updatedAt: 2022-07-17T07:27:53.060Z
 category: gaming
+summary: Cavern Co-op is a thematic, story-driven co-op game in which you and
+  your team of “caver” buddies explore a dark and dangerous cave. The game can
+  be played with 2-4 people and only takes about 45 minutes. The Bigger Game is
+  a card game for 2-8 people that has you competing to build a bigger, better
+  board game. Eclipse is a game about managing your ship and crew as you try to
+  survive an extremely dangerous galaxy.
 ---
 
 ## Cavern Co-op

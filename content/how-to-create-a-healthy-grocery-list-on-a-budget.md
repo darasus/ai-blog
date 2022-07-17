@@ -3,6 +3,13 @@ title: How to create a healthy grocery list on a budget
 createdAt: 2022-07-07T06:05:41.159Z
 updatedAt: 2022-07-16T16:12:20.546Z
 category: health
+summary: The first step to creating a healthy grocery list is knowing what your
+  family will eat. Beans and legumes are an excellent source of fiber and
+  protein. Whole grains (such as brown rice, quinoa and oats) are also important
+  to add to your list. Eggs and dairy are good protein sources and are also
+  healthy fats. Healthy fats are important because they help your body process
+  certain vitamins and they boost your metabolism. But you should limit the
+  amount of saturated fats you eat in your diet.
 ---
 
 ## Build a Basic Food Item Grocery List

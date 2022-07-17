@@ -3,6 +3,13 @@ title: The best plant-based foods for optimal health
 createdAt: 2022-07-07T06:05:41.137Z
 updatedAt: 2022-07-16T16:12:04.323Z
 category: health
+summary: A plant-based diet is any diet that emphasizes plants as the main
+  source of nutrients. This can be achieved through a variety of ways, such as
+  eating a mostly vegetarian diet, vegan diet, or a combination of both. Eating
+  more fruits, vegetables, and whole grains is one of the best ways to lose
+  weight. Eating a diet rich in fiber, antioxidants, vitamins, and minerals can
+  help to prevent chronic diseases, optimize your immune health, improve your
+  mood, and improve your cognitive function.
 ---
 
 ## What is a Plant-Based Diet?

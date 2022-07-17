@@ -3,6 +3,14 @@ title: The best games of the year for kids
 createdAt: 2022-07-08T06:01:07.722Z
 updatedAt: 2022-07-17T07:27:08.000Z
 category: gaming
+summary: "Lego DC Super-Villains is the latest addition to the ever-popular Lego
+  series. Super Smash Bros Ultimate is a fighting game that can be played on
+  Nintendo Switch by up to four players. Mario & Luigi: Yoshi's Crafted World is
+  a classic Nintendo Switch game that is great for kids. Nintendo Labo Variety
+  Kit contains various mini-games that your children can play, build and then
+  re-build. Animal Crossing: New Leaf Welcome to the RV Park is based on the
+  Animal Crossing universe, a series that has sold more than 39 million copies
+  worldwide."
 ---
 
 ## Lego DC Super-Villains

@@ -3,6 +3,13 @@ title: The Top 10 Funniest Cat Videos on YouTube
 createdAt: 2022-07-09T06:12:05.374Z
 updatedAt: 2022-07-16T15:44:51.296Z
 category: life
+summary: "Maru: Master of the Vertical Jump - This little Scottish Fold kitty
+  from Japan is a real star. Shiba Confessionals - Definitely not for the faint
+  of heart! Kitten Wars - Kitten humor mixed with a dash of cringe Kitty make-up
+  sessions with Blink Beauty. Jumping Cats – Normal Cat Behavior Explained -
+  It's not what you think! Feline Frustrations - This channel features
+  frustrated cats doing silly things The Official Purrito Channel - The official
+  channel of the adorable Purrito."
 ---
 
 ## The Best Funny Cat Channels on YouTube

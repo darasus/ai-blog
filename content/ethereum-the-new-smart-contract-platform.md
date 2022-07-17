@@ -3,6 +3,14 @@ title: "Ethereum: The New Smart Contract Platform"
 createdAt: 2022-07-07T16:53:55.012Z
 updatedAt: 2022-07-17T07:22:39.078Z
 category: crypto
+summary: Smart contracts are self-executing digital contracts with specific
+  instructions that can be fulfilled when certain conditions are met. Smart
+  contracts operate on the principles of if this, then that; if not, then this.
+  This makes it so that once the pre-set conditions have been met, the contract
+  will execute automatically without further input from any third party. With
+  smart contracts, you can create your own cryptocurrency and issue tokens for
+  crowdfunding purposes. The flexibility and customizability of Ethereum’s smart
+  contracts make it a very attractive blockchain network.
 ---
 
 ## What is Ethereum?

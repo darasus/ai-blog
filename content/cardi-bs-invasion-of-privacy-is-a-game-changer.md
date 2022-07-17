@@ -3,6 +3,12 @@ title: "\"Cardi B's 'Invasion of Privacy' is a Game-Changer\""
 createdAt: 2022-07-08T05:59:06.208Z
 updatedAt: 2022-07-17T07:27:44.702Z
 category: culture
+summary: Cardi B's new album, "Invasion of Privacy," is out now. The rapper is
+  not just a "rap artist," but she's more than just a rapper. The album's final
+  track, "Bartier Cardi," is a love letter to black women everywhere, and it is
+  a proud reclamation of the narrative. The song is a powerful reminder that
+  people in the spotlight are still human and experience criticism, but as fans,
+  we have a responsibility to be careful with how we speak about them.
 ---
 
 ## Cardi B Is More Than Just A “Rap Artist”

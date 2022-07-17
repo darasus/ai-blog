@@ -3,6 +3,13 @@ title: Python - The language of choice
 createdAt: 2022-07-09T06:19:23.300Z
 updatedAt: 2022-07-17T06:52:12.474Z
 category: coding
+summary: Python is a high-level programming language that was created in 1991.
+  It is a general purpose language, which means it can be used to create any
+  type of application. The language is easy to read and write, making it
+  accessible to a wide range of developers. The main strengths of Python as a
+  programming language are that it is readable, it is flexible, and it is
+  general purpose. There are a number of reasons why Python has become so
+  popular among programmers and organizations of all shapes and sizes.
 ---
 
 ## What is Python?

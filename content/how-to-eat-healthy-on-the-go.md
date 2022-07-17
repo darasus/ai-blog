@@ -3,6 +3,13 @@ title: How to eat healthy on the go
 createdAt: 2022-07-07T06:05:42.014Z
 updatedAt: 2022-07-16T16:21:34.280Z
 category: health
+summary: You never know what you'll find to eat once you’re out in the world.
+  Having your own food can help you avoid overspending or consuming food that
+  isn’t healthy for you. Eating local cuisine will help you appreciate the
+  culture or area you're in and it will also help to avoid eating unhealthy fast
+  food. If you have a long road trip ahead of you, you can always pack some nuts
+  or trail mix in your bag. You can also always take a bag of carrots with you
+  on the plane to munch on once in the air.
 ---
 
 ## Pack your own food

@@ -3,6 +3,14 @@ title: "Ethereum Classic: The Original Ethereum"
 createdAt: 2022-07-07T16:55:10.480Z
 updatedAt: 2022-07-17T07:23:43.231Z
 category: crypto
+summary: ETC (ETC) is one of the top 10 cryptocurrencies on the market today,
+  with a market cap of almost $6 billion. It's the world’s 14th most valuable
+  digital asset, and the original Ethereum network. It is an excellent choice
+  for investors who agree with the initial ETH developers’ decision to reverse
+  the DAO hack. ETC supporters didn’t want to change the original blockchain
+  because such an action would be a violation of blockchain principles. It
+  operates on a different consensus mechanism, which is not as advanced or
+  optimized.
 ---
 
 ## What is Ethereum Classic?

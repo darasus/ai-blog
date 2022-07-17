@@ -3,6 +3,14 @@ title: How to eat healthy on a busy schedule
 createdAt: 2022-07-07T06:05:41.565Z
 updatedAt: 2022-07-16T16:18:17.273Z
 category: health
+summary: The first step to eating healthy is to make a plan and have a supply of
+  healthy foods. Eating healthy is all about getting your hands on the right
+  foods. Swap out unhealthy foods for healthier alternatives to healthy
+  alternatives. Eating a lot of vegetables will help keep you healthy and
+  strong. Protein is essential for building and repairing muscles and other
+  tissues in your body. Plants are rich in vitamins, minerals, and antioxidants
+  – all of which can help you maintain a healthy body. You also need to be open
+  to eating frozen foods, as they can be just as nutritious as fresh produce.
 ---
 
 ## Make A Plan

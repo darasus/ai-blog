@@ -3,6 +3,14 @@ title: "Google's monopoly: How the tech giant controls our lives"
 createdAt: 2022-07-08T06:04:18.509Z
 updatedAt: 2022-07-17T07:27:14.774Z
 category: technology
+summary: Google’s business is based on collecting as much information about its
+  users as possible. The more information Google has about us, the better it can
+  tailor ads to our interests. Google has figured out the exact moments when
+  we’re most vulnerable to making purchases. The most common example cited in
+  this case is when people are feeling depressed. At that moment, Google knows
+  that you're more likely to click on ads for expensive products than you would
+  be when you're feeling happy and upbeat. This is because Google Shopping shows
+  ads based on your recent purchases.
 ---
 
 ## Why does Google know so much about us?

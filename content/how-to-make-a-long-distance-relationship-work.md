@@ -3,6 +3,14 @@ title: How to make a long-distance relationship work
 createdAt: 2022-07-08T06:23:21.763Z
 updatedAt: 2022-07-16T15:08:36.181Z
 category: life
+summary: The more you talk, the better you’ll be able to understand each other
+  and deal with any issues that arise. The best way to stay in touch is to set a
+  schedule for checking in with your partner. You don’t always need to talk
+  face-to-face, but you can use letters, emails, texts, and social media to stay
+  connected. Set realistic expectations by setting realistic expectations and
+  making sure you visit your partner as often as possible. If you are a
+  full-time student, you need to find time to study and give yourself time to
+  look after yourself.
 ---
 
 ## Talk Often

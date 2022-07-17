@@ -3,6 +3,13 @@ title: "Monero: The Untraceable Crypto"
 createdAt: 2022-07-07T16:54:59.787Z
 updatedAt: 2022-07-17T07:22:56.440Z
 category: crypto
+summary: Monero is designed to be like digital cash by enabling direct
+  person-to-person transactions. With only two parties involved in the
+  transaction, there is no way for a third party (including government agencies)
+  to track the money. The privacy features of Monero make it very easy to send
+  and receive money anonymously. It is also a great way for people living under
+  oppressive regimes to escape the government’s ever-watchful eye. There are
+  many benefits to using Monero, both as a user and as an investor.
 ---
 
 ## Monero is digital cash

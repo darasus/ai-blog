@@ -3,6 +3,13 @@ title: How to improve your coding skills
 createdAt: 2022-07-07T06:12:48.039Z
 updatedAt: 2022-07-17T06:32:02.283Z
 category: coding
+summary: If you’re just starting out in the world of coding, it’s important to
+  first get a handle on the basics. This includes basic programming language
+  syntax, like what a class or variable is, and more general coding concepts.
+  There are tons of great online resources that can help you get started with
+  the basics of coding. Read and listen to articles, podcasts, books, and other
+  resources designed to help you learn more about coding. Take online courses
+  and participate in coding competitions.
 ---
 
 ## Get to know the basics.

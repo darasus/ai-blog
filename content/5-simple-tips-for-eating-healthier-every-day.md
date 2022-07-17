@@ -3,6 +3,13 @@ title: 5 Simple Tips for Eating healthier Every Day
 createdAt: 2022-07-09T06:37:57.664Z
 updatedAt: 2022-07-17T06:04:34.576Z
 category: cooking
+summary: Eating healthy doesn’t have to be a challenge, but it’s not something
+  that you can just do a few weeks to achieve. Eating healthy is a lifestyle
+  choice that can be achieved with a bit of planning and the right approach.
+  Eating more whole foods is a simple way to ensure you’re eating healthier.
+  Avoiding situations where there will be unhealthy temptations will also make
+  sticking to your eating goals easier. Commit to doing something active every
+  day - even if it's just a few push-ups.
 ---
 
 ## Plan Your Meals

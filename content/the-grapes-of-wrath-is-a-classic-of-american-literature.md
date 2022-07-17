@@ -3,6 +3,14 @@ title: '"The Grapes of Wrath" is a classic of American literature'
 createdAt: 2022-07-08T05:58:14.392Z
 updatedAt: 2022-07-17T07:26:07.777Z
 category: culture
+summary: John Steinbeck won the Pulitzer Prize for The Grapes of Wrath and the
+  Nobel Prize for Literature in 1962. The novel was published in 1940 at the
+  height of the Great Depression when millions of Americans were either
+  unemployed or working on a very low income. It was also a time when many
+  Americans were experiencing poverty and hardship. The book described the
+  suffering of the workers through the Joad family – a fictional family that was
+  representative of many of the migrants. It also described the conditions of
+  the migrant workers and the brutality they faced.
 ---
 
 ## Author

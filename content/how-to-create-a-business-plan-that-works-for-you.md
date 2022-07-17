@@ -3,6 +3,14 @@ title: How to Create a Business Plan That Works For You
 createdAt: 2022-07-07T16:45:19.745Z
 updatedAt: 2022-07-16T15:58:21.422Z
 category: business
+summary: A business plan is a written document that outlines your small business
+  plan and strategy. It will include information about your company, the
+  industry you are in, and market research about your customers. A well-written
+  business plan will save you time and energy, because once you have written it
+  you have everything you need to know about your business in one place. It
+  shows your investors, employees and partners that you have a clear
+  understanding of your business and what it takes to be successful. The plan
+  should also include financial projections for the next 3-5 years.
 ---
 
 ## What is a business plan and why does it matter?

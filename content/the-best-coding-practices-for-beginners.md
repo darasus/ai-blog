@@ -3,6 +3,13 @@ title: The best coding practices for beginners
 createdAt: 2022-07-07T06:13:51.726Z
 updatedAt: 2022-07-17T06:32:58.614Z
 category: coding
+summary: One of the best practices for beginners who are learning to code is to
+  use meaningful variable names. When you write code, you’re writing a set of
+  instructions that a computer can execute. The computer needs to know what
+  “clicks” means, so you have to write that in code. Always use const unless you
+  have a good reason not to. Make sure to stay on top of current programming
+  practices and languages. Some languages are trending upwards in popularity,
+  while others are declining.
 ---
 
 ## Use meaningful variable names

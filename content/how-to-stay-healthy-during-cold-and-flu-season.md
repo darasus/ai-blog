@@ -3,6 +3,13 @@ title: How to stay healthy during cold and flu season
 createdAt: 2022-07-07T06:05:40.802Z
 updatedAt: 2022-07-16T16:09:53.663Z
 category: health
+summary: Flu and cold viruses are sneaky and will use your body's defenses
+  against you. Drinking water out of a straw ensures that you're staying
+  hydrated throughout the day and helping minimize the risk of getting sick.
+  Certain foods that can help you boost your immune system and keep flu and flu
+  at bay include vitamins C, Eotot, zinc, zinc and iron. Washing your hands
+  frequently and avoiding touching your face as much as possible. Getting enough
+  sleep can help boost your immunity and your ability to fight off infections.
 ---
 
 ## Stay hydrated

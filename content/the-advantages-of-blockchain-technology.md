@@ -3,6 +3,14 @@ title: The Advantages of Blockchain Technology
 createdAt: 2022-07-07T16:57:27.899Z
 updatedAt: 2022-07-17T07:23:30.329Z
 category: crypto
+summary: The Bitcoin blockchain is a decentralized database that is more secure
+  than a centralized database. The data is not housed in a single database, it
+  is replicated and stored in many nodes at the same time. This means that even
+  if one node were to fail, the data would remain intact on the other nodes.
+  This is because the data stored in the database is validated by the consensus
+  mechanism, each node validates the data by solving a complex mathematical
+  puzzle. The next advantage of blockchain is that it is fast and efficient, and
+  that it provides authenticity.
 ---
 
 ## Blockchain Is Safe and Secure

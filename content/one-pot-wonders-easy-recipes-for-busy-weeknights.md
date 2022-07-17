@@ -3,6 +3,13 @@ title: One pot wonders - easy recipes for busy weeknights
 createdAt: 2022-07-07T06:05:39.799Z
 updatedAt: 2022-07-17T05:58:26.943Z
 category: cooking
+summary: One Pot Coconut Curry and Basmati Rice is an Indian-inspired dish that
+  simmers in a fragrant coconut and turmeric-spiced broth. One Pot Mexican
+  Chicken with Rice is made with Mexican spices and chopped vegetables, along
+  with sliced chicken breast. Italian-inspired meal combines spicy Italian
+  sausages with brown rice and crunchy vegetables like broccoli and bell
+  peppers. Other one pot dinners are easy to make and very pleasing to the eye,
+  as it’s easy to do and requires just one pot.
 ---
 
 ## ##

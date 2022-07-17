@@ -3,6 +3,13 @@ title: JavaFX and multimedia
 createdAt: 2022-07-09T06:25:01.106Z
 updatedAt: 2022-07-17T06:56:38.108Z
 category: coding
+summary: "The Internet of Things (IoT) is a network of devices that are
+  connected to each other via the internet. These devices may be sensors,
+  actuators, or apparatuses that collect data and send it to a computer system.
+  The term “Internet of Things” was coined by Kevin Ashton in 1999. Gartner: The
+  IoT is expected to be worth $3.9 trillion by the year 2020. With the advent of
+  Java 8, there has been renewed interest in Java from the developer community.
+  Java has been used to develop embedded systems since its early days."
 ---
 
 ## What is the Internet of Things?

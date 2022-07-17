@@ -3,6 +3,13 @@ title: Go language for database administration
 createdAt: 2022-07-09T06:32:34.899Z
 updatedAt: 2022-07-17T07:18:07.197Z
 category: coding
+summary: Go has a number of benefits that make it a good choice for DBAs. It is
+  easy to learn and read, and it has built-in support for concurrency. Go has
+  good support for big data. It makes it easy to distribute data across multiple
+  machines, as well as scale up to more powerful systems if necessary. Go also
+  makes it easier to access web services. It has built in support for JSON
+  parsing and using HTTP endpoints, which are both important for modern web
+  apps.
 ---
 
 ## Why Go is Good for Database Administration?

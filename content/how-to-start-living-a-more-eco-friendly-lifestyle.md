@@ -3,6 +3,14 @@ title: How to start living a more eco-friendly lifestyle
 createdAt: 2022-07-07T06:05:40.322Z
 updatedAt: 2022-07-16T14:56:33.308Z
 category: life
+summary: Climate Change is an increase in the world’s average temperature that
+  is expected to have significant effects on ecosystems and human society. The
+  effects of climate change include the extinction of some species and the
+  alteration of ecosystems with major effects on agriculture, water availability
+  and public health. By living a more eco-friendly lifestyle, we each can have a
+  positive effect on climate change. We can make a difference in the fight
+  against climate change by changing our eating and drinking habits, driving
+  less and changing the light bulbs in our homes.
 ---
 
 ## What is Climate Change?

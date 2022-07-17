@@ -3,6 +3,14 @@ title: The Top Software Engineering Tools
 createdAt: 2022-07-09T06:17:26.097Z
 updatedAt: 2022-07-17T06:34:17.673Z
 category: coding
+summary: Language support tools, such as linting and code analysis, help you
+  write code that is more consistent, reusable, and standard in format. Version
+  control software is an essential tool for managing changes to code,
+  particularly on large, collaborative projects. API development tools help you
+  create and manage APIs and ensure that your API is properly formatted and easy
+  to navigate. When selecting a software engineering tool, it’s important to
+  consider how it will fit into your existing workflow. You should also keep in
+  mind how often use the tool is to integrate into your current processes.
 ---
 
 ## Language support: An essential tool for developers

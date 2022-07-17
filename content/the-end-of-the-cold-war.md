@@ -3,6 +3,14 @@ title: The End of the Cold War
 createdAt: 2022-07-07T06:16:06.279Z
 updatedAt: 2022-07-17T05:45:36.558Z
 category: politics
+summary: Mikhail Gorbachev and Ronald Reagan signed a treaty that dramatically
+  reduced the number of nuclear weapons on both sides. The two leaders also
+  agreed to break down the barriers between their countries and open up
+  communication. For the first time since the end of World War II, there was a
+  genuine reduction in the tension between the Soviet Union and the United
+  States. The U.S. had begun a military buildup that had put significant
+  pressure on the. Soviet Union. The growing economic power of Japan and West
+  Germany, as well as the energy revolution.
 ---
 
 ## What Happened at the Summit?

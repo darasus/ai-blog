@@ -3,6 +3,14 @@ title: Why salmon should be a weekly staple
 createdAt: 2022-07-09T06:38:47.021Z
 updatedAt: 2022-07-17T06:14:53.979Z
 category: cooking
+summary: Salmon is an excellent source of omega-3 fatty acids, which have been
+  shown to reduce the risk of heart disease. Salmon is also a good source of the
+  amino acid tryptophan, which helps regulate serotonin levels in the brain.
+  Salmon can be eaten as part of a salad, sandwich, or in a small serving of
+  other fish. When choosing salmon, look for wild salmon that has less than 10%
+  of the daily recommended amount of saturated fat per serving. A healthy diet
+  rich in calcium can help you maintain strong bones and lower your risk of
+  osteoporosis and fractures.
 ---
 
 ## It’s a lean protein source

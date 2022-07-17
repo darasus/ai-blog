@@ -3,6 +3,13 @@ title: Go language for DevOps
 createdAt: 2022-07-09T06:32:53.429Z
 updatedAt: 2022-07-17T07:18:14.427Z
 category: coding
+summary: Go is a general-purpose programming language developed by Google and
+  was released as open source in 2009. Go is designed with simplicity and
+  concurrency in mind and is known for its powerful type system. Go compiles to
+  machine code that runs as fast as a program written in C or C++. The language
+  is extremely fast as it compiles down to native code and can run on a wide
+  range of computer systems. Go has great error handling and is easy to read,
+  write, and understand the code.
 ---
 
 ## What is Go?

@@ -3,6 +3,12 @@ title: How to Train Your Dog to Drop It
 createdAt: 2022-07-08T06:25:54.750Z
 updatedAt: 2022-07-16T15:18:09.159Z
 category: life
+summary: You’ll need to start by rewarding your dog for complying with the
+  ‘drop’ command and then slowly ramp it up. You can also help things along a
+  bit by gently pulling on their leash and bringing them closer to whatever you
+  want them to drop. Once you’ve got the basics of the basic command down, you
+  can start to make things a bit more interesting. Practice with non-food treats
+  to make your dog more interested in what they’re being rewarded with.
 ---
 
 ## Step 1: Get your dog comfortable with the ‘drop’ command

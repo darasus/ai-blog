@@ -3,6 +3,15 @@ title: 5 ways to save money as a college student
 createdAt: 2022-07-07T06:05:40.230Z
 updatedAt: 2022-07-16T14:53:52.749Z
 category: life
+summary: The college years are some of the most exciting and memorable times of
+  your life, so enjoy the ride! Find out what employers want from graduates and
+  what skills and degrees they ask for. Consider campus culture, extracurricular
+  activities and activities when choosing a college. Take your time and do your
+  research so you can find the school and program that is the best fit for you.
+  Take the financial factor into account and consider working during your
+  college years to help you pay for school. Find a school that is best
+  academically, socially, and academically that is academically and socially
+  fit.
 ---
 
 ## Research The Schools & Degrees You’re Considering

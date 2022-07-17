@@ -3,6 +3,14 @@ title: Is mediation right for me?
 createdAt: 2022-07-09T06:14:32.013Z
 updatedAt: 2022-07-16T15:48:02.099Z
 category: life
+summary: Mediation is a great way to resolve your disputes without going to
+  court. Some disputes are too contentious or have too many conflicting
+  interests for mediation to succeed. The role of the mediator is to help the
+  parties come to an agreement that is fair and mutually beneficial. Mediation
+  may be more burdensome on the parties than other dispute resolution
+  mechanisms. If you have significant assets that will be impacted by a court
+  decision, or if one of the parties is not interested in a mediated settlement,
+  then mediation may not be the best option.
 ---
 
 ## Find Out If Mediation Is Right For Your Situation

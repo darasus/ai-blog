@@ -3,6 +3,14 @@ title: Basic Java syntax
 createdAt: 2022-07-09T06:22:29.098Z
 updatedAt: 2022-07-17T06:55:19.486Z
 category: coding
+summary: "Java is a programming language that can run on multiple devices and
+  operating systems. It’s estimated that over 9 million programmers are using
+  Java right now. Java is one of the most popular choices for beginners to
+  learn. It's a highly adaptable language that is used to create apps, websites,
+  software, and programs. In Java, there are seven categories of keywords: data
+  type, method, variable, exception, loop, try/catch/finally, and class. These
+  are words that can’t be used as normal words in your code. Conditional
+  statements are a fundamental part of programming."
 ---
 
 ## What is Java?

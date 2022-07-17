@@ -3,6 +3,13 @@ title: How to Train Your Dog to Go to Bed
 createdAt: 2022-07-08T06:25:27.043Z
 updatedAt: 2022-07-16T15:16:35.492Z
 category: life
+summary: When a dog is overtired, their body produces an excess of cortisol, a
+  hormone that tells the body to shut down and prepare for rest. High levels of
+  cortisol can take a serious toll on the health of your dog. A dog who’s
+  consistently overtired can even develop depression, which is a serious health
+  problem in and of itself. A tired dog is a well-behaved dog, and a healthy
+  dose of exercise can help tire them out both physically and mentally so they
+  can sleep better at night.
 ---
 
 ## What’s so bad about dogs staying up all night?

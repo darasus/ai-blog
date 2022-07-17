@@ -3,6 +3,13 @@ title: Airlines are struggling to stay afloat amid the pandemic
 createdAt: 2022-07-07T06:05:40.555Z
 updatedAt: 2022-07-16T15:56:46.887Z
 category: business
+summary: The pandemic is a result of the H1N1 virus, also known as “swine flu”
+  This virus was first detected in Mexico in April 2009. It has already claimed
+  more than 4,000 lives since its emergence in October 2018. The risk of
+  contracting the flu is high, and the risk of infecting others is even higher.
+  The CDC has advised against all but essential travel, particularly on
+  commercial flights. This travel warning has led to a 35 percent decline in air
+  travelers in the U.S. alone.
 ---
 
 ## What’s Causing The Pandemic?

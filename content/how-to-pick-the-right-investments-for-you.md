@@ -3,6 +3,14 @@ title: How to pick the right investments for you
 createdAt: 2022-07-07T16:49:07.698Z
 updatedAt: 2022-07-17T05:53:16.691Z
 category: investing
+summary: The amount of risk you take on will determine the types of investments
+  you should be looking into. Diversification is the practice of spreading your
+  money across various different investments so you aren’t putting all your eggs
+  in one basket. In general, it’s a good idea to invest in a wide variety of
+  different asset classes. A robo-advisor is an online investment account that
+  uses algorithms to select and manage your investments for you. The more
+  investments you spread across, the more likely you are to have a successful
+  portfolio.
 ---
 
 ## Assessing your risk tolerance

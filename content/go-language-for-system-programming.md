@@ -3,6 +3,14 @@ title: Go language for system programming
 createdAt: 2022-07-09T06:29:47.576Z
 updatedAt: 2022-07-17T07:18:01.928Z
 category: coding
+summary: System programming languages are designed to be highly efficient and
+  optimized for hardware. Go was designed from the ground up to be great for
+  system programming because it was designed to optimize for efficiency. Go is a
+  garbage collected language, which means that it will automatically reclaim the
+  memory that your software is not actively using. The focus on optimization
+  means that Go is also relatively easy to scale up, which is another important
+  factor. Go’s focus on high performance is a major reason why it’�s a good fit
+  for systems programming.
 ---
 
 ## Why is Go good for system programming?

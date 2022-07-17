@@ -3,6 +3,13 @@ title: The Top 10 Greatest Cat Moments in History
 createdAt: 2022-07-09T06:12:10.601Z
 updatedAt: 2022-07-16T15:45:45.575Z
 category: life
+summary: During the 16th century, when tobacco was imported and traded as a
+  commodity, cats were a common sight in warehouses and trading ships. Cats have
+  adopted humans as their primary source of food for millennia, but dependence
+  on humans for survival has made them more than just evolutionary partners. In
+  Japan, for example, it’s customary to express gratitude toward guests by
+  serving them fish as a delicacy. The Japanese believe that the more tails a
+  tabby has, the more fortunate and prosperous the household is.
 ---
 
 ## Sick-n’-twisted feline antics

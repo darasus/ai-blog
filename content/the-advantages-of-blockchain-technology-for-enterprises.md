@@ -3,6 +3,16 @@ title: The Advantages of Blockchain Technology for Enterprises
 createdAt: 2022-07-07T16:58:44.797Z
 updatedAt: 2022-07-17T07:23:39.559Z
 category: crypto
+summary: A recent article on the Harvard Business Review explored how blockchain
+  technology can help businesses become more transparent by leveraging its
+  ability to track and trace goods and services. This makes blockchain
+  technology particularly useful for supply chain management, asset tracking,
+  and digital advertising. Another example of how the technology can add
+  transparency to businesses is through the ability to help detect ad fraud.
+  This can be especially useful for industries like food and pharmaceuticals
+  where trust and transparency are imperative to maintaining a healthy customer
+  base. The technology can be used to manage customer identity and access across
+  their networks, such as travel agencies and financial institutions.
 ---
 
 ## What is blockchain?

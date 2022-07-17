@@ -3,6 +3,14 @@ title: '"Whiplash" is a tense and exhilarating look at the world of jazz'
 createdAt: 2022-07-08T05:57:35.353Z
 updatedAt: 2022-07-17T07:25:45.249Z
 category: culture
+summary: The sound mix on this film is something to behold. J.K. Simmons plays
+  the ruthless Terence Fletcher, the "bad-ass motherfucker" who heads up the
+  jazz program at the fictional Shaffer Conservatory of Music at New York
+  University. Even when the film is not focusing on the drums, the
+  cinematography is just gorgeous. It's a story that is as much about toxic,
+  abusive relationships as it is about relationships that are worth fighting for
+  and fighting for. The Verdict is unquestionably, the best film released in
+  2014, if you're a fan of jazz or a student of the art of performance.
 ---
 
 ## The Sound Mix is a Game-Changer

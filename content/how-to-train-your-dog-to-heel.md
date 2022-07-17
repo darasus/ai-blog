@@ -3,6 +3,13 @@ title: How to Train Your Dog to Heel
 createdAt: 2022-07-08T06:25:12.560Z
 updatedAt: 2022-07-16T15:16:08.468Z
 category: life
+summary: You need to be consistent with your training techniques to ensure that
+  your dog remembers and practices them over and over again without fail. When
+  your dog sits, stays, or does any other command correctly, you must show your
+  appreciation with a treat. A clicker is a useful training tool that can be
+  used during training. A lot of people use choke chains or lead chains to train
+  their dogs. This is a very old-fashioned and brutal way of training a dog.
+  With the right tips and tricks, you can train your dog to heel in no time.
 ---
 
 ## Start With The Basics

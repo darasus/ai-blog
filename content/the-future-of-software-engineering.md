@@ -3,6 +3,16 @@ title: The Future of Software Engineering
 createdAt: 2022-07-09T06:17:30.397Z
 updatedAt: 2022-07-17T06:34:24.264Z
 category: coding
+summary: Software engineers need to be able to design, analyze and develop
+  software systems that meet clients’ needs. Software engineering degrees are
+  focused on the skills and knowledge you need to build and manage software
+  systems. Computer science degrees focus on the theoretical concepts and
+  technical skills needed to design and build software systems, but software
+  engineering degrees emphasize the practical application of those skills in
+  real-world situations. Software engineers are the engine of the digital
+  economy that powers businesses, websites and apps. There is a shortage of
+  skilled candidates, which has led to demand and high salaries for top software
+  engineers.
 ---
 
 ## What You Need To Become A Software Engineer

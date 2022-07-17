@@ -3,6 +3,14 @@ title: Teaching kids about nourishment- fun and easy recipes
 createdAt: 2022-07-09T06:39:34.882Z
 updatedAt: 2022-07-17T06:14:59.232Z
 category: cooking
+summary: Kids need to be exposed to vegetables as early as possible, but if
+  you’re doing this at the wrong time or in the wrong way, it can actually make
+  things worse. Whole grains contain more fiber than refined grains, and they
+  also contain many vitamins, minerals, and antioxidants. Healthy fats are an
+  important part of a balanced diet, but it can be easy for kids to overlook
+  them because they don’t come in the form of a tasty treat or snack. You should
+  start feeding your baby vegetables sometime between the ages of 6 and 9
+  months.
 ---
 
 ## Don’t be afraid of vegetables!

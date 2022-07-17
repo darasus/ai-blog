@@ -3,6 +3,14 @@ title: Rising popularity of meatless Mondays
 createdAt: 2022-07-09T06:43:07.402Z
 updatedAt: 2022-07-17T06:21:48.401Z
 category: cooking
+summary: A meatless Monday is a day without meat and/or animal products. Eating
+  less meat is beneficial for your health, the environment, and for animals.
+  People who follow a meatless diet may reduce their risk of developing heart
+  disease, type 2 diabetes, and certain types of cancer. The health benefits of
+  a Meatless Monday are especially strong among people who follow it as part of
+  a healthy eating pattern that limits saturated fat, sodium, and processed
+  foods. It’s a great way to start a healthier and more environmentally-friendly
+  lifestyle.
 ---
 
 ## What is a meatless Monday?

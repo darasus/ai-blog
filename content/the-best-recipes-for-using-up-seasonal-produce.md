@@ -3,6 +3,12 @@ title: The best recipes for using up seasonal produce
 createdAt: 2022-07-07T06:05:39.964Z
 updatedAt: 2022-07-17T06:00:56.680Z
 category: cooking
+summary: The best way to make sure you get the most of it is to plan your meals
+  for the week and go with root vegetables. Root vegetables contain lots of
+  vitamins and minerals, but don’t have as much fiber as leafy greens do. You
+  can use root vegetables in soups, stews, and even desserts. Preserve the fresh
+  produce you have now and use it to preserve it in winter. Use leftovers to mix
+  up your leftovers by incorporating seasonal produce with seasonal produce.
 ---
 
 ## Plan your meals for the week.

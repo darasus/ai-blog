@@ -3,6 +3,13 @@ title: Why you should invest in index funds
 createdAt: 2022-07-07T16:53:01.773Z
 updatedAt: 2022-07-17T05:55:57.686Z
 category: investing
+summary: An index fund is a type of mutual fund that is designed to track the
+  performance of a certain index. Index funds are passively managed, meaning
+  that the fund’s manager does not actively try to select stocks that they think
+  will outperform the market. This makes the fund extremely low cost and easy to
+  manage. They are also very tax efficient and require very little maintenance
+  on your part. The S&P 500 index is the most popular index fund, which is made
+  up of the 500 largest companies in the United States by market capitalization.
 ---
 
 ## What is an index fund?

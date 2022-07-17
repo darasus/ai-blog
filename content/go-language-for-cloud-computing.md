@@ -3,6 +3,15 @@ title: Go language for cloud computing
 createdAt: 2022-07-09T06:28:53.917Z
 updatedAt: 2022-07-17T07:15:56.756Z
 category: coding
+summary: The choice of language for your cloud application must be carefully
+  considered. Certain languages might be a better fit for certain types of
+  applications, but you should always choose the language that best solves your
+  business problem. There are several factors to consider when evaluating
+  languages for use in the cloud. These include the ability of the language to
+  handle sudden increases in demand for your application as well as issues with
+  availability. The cost of development, training, maintenance, and support can
+  also be considered. The speed and performance of a language can be measured by
+  the speed of your application and overall performance.
 ---
 
 ## Language selection process

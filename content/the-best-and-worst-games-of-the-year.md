@@ -3,6 +3,13 @@ title: The best and worst games of the year
 createdAt: 2022-07-08T06:00:02.999Z
 updatedAt: 2022-07-17T07:26:38.759Z
 category: gaming
+summary: "This year has been a very good year for video games. With all the
+  excellent titles that have already released, there’s plenty for gamers to look
+  forward to in 2019. There has been something for everyone this year, including
+  a brand new property or a return to an older title. The worst game of the year
+  was Crackdown 3, with a few bugs and a lack of content compared to other
+  online games released this year. The best video game of 2019 is Assassin's
+  Creed: Odyssey, the latest chapter of the Tomb Raider."
 ---
 
 ## The Best

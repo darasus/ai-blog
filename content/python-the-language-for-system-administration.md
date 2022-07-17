@@ -3,6 +3,14 @@ title: Python - The language for system administration
 createdAt: 2022-07-09T06:20:11.781Z
 updatedAt: 2022-07-17T06:53:11.473Z
 category: coding
+summary: Python’s strong core library and massive third-party library support
+  makes it an extremely powerful language. Shell scripts are another great
+  option for system administrators. Using the language native to your operating
+  system offers the most portability and flexibility. Monitoring and auditing
+  are two critical aspects of system administration. There are many tools that
+  can help you to install software on your systems. You should always think
+  about how your software is organized and installed to make sure that it is
+  easy to remove from your system.
 ---
 
 ## Python for System Administration

@@ -3,6 +3,15 @@ title: What is mediation?
 createdAt: 2022-07-09T06:14:05.119Z
 updatedAt: 2022-07-16T15:48:13.873Z
 category: life
+summary: A mediator facilitates a conversation between two parties in conflict
+  by encouraging them to talk directly to each other and negotiate a resolution.
+  Mediation is a voluntary process, and anyone can choose to engage or not to
+  engage. Mediated is a confidential process because it is important to have the
+  freedom to talk openly and honestly. The mediator may be an impartial third
+  party who facilitates the discussion and makes sure the parties are able to
+  explore their issues fully, to exchange information and to negotiate an
+  agreement. In arbitration, a third party hears both sides of the story, makes
+  a decision and orders the parties to follow the decision.
 ---
 
 ## Understanding the Basics of Mediation

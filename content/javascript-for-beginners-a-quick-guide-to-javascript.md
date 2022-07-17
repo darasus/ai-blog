@@ -3,6 +3,14 @@ title: "Javascript For Beginners: A Quick Guide To Javascript"
 createdAt: 2022-07-17T07:19:30.298Z
 updatedAt: 2022-07-17T07:19:30.298Z
 category: coding
+summary: Javascript is a language that is used to create interactive websites
+  and create web applications. Javascript is one of the most in-demand skills in
+  the programming industry. It is used in many industries and sectors including
+  e-commerce, healthcare, education, travel, and many more sectors. There are
+  lots of job opportunities for coders who are skilled in Javascript. You can
+  learn Javascript by following different online courses or through books or
+  through online communities. You should also find a mentor who can guide you
+  along your journey to learning Javascript and help you progress faster.
 ---
 
 ## What is Javascript?

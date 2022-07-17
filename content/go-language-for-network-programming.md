@@ -3,6 +3,15 @@ title: Go language for network programming
 createdAt: 2022-07-09T06:29:58.228Z
 updatedAt: 2022-07-17T07:17:58.535Z
 category: coding
+summary: A programming language designed for networking is one designed to
+  directly interface with network protocols. The most common programming
+  languages for networking are C, C++, Go, Python, and Java. C and C++ are very
+  powerful programming languages that are designed to be very efficient at
+  accessing computer hardware. Go has emerged as a top programming language for
+  networking due to its simplicity and ease-of-use. Node.js is one of the
+  easiest programming languages to learn on this list. Python is a dynamic
+  programming language that has been optimized for programmer efficiency. Java
+  is a language that can be used for a wide range of applications.
 ---
 
 ## What is a programming language for networking?

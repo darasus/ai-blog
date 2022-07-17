@@ -3,6 +3,11 @@ title: Working with files in Java
 createdAt: 2022-07-09T06:23:46.511Z
 updatedAt: 2022-07-17T06:56:28.211Z
 category: coding
+summary: The “New” command creates an empty file for you. If you want to create
+  a file and fill it with some data, you can do so with the “Append” function.
+  You can also update an existing file with a new version of itself, e.g.
+  “example.txt” If the file is a “system file”, it cannot be deleted. The syntax
+  for this is “reconstructing’s” and “dealing’ing files is the same syntax.
 ---
 
 ## Create and Read Files

@@ -3,6 +3,13 @@ title: How to make healthy eating easier with Meal Planning
 createdAt: 2022-07-07T06:05:41.181Z
 updatedAt: 2022-07-16T16:12:44.256Z
 category: health
+summary: Eating healthy doesn’t have to be expensive if you know how to shop and
+  cook efficiently. Knowing what’s in your pantry and fridge will help you avoid
+  wasting food and money. The Saturday shake-up gives you the opportunity to eat
+  some of your favourite foods but in a healthier way. Rotating your go-to meals
+  can help you stay on track with your healthy eating habits. Rotate your meals
+  in advance will allow you to take advantage of your grocery budget. Remember
+  that leftovers can be a great way to save money and eat healthier.
 ---
 
 ## Why meal plan?

@@ -3,6 +3,14 @@ title: "Ripple: The New Banker's Coin"
 createdAt: 2022-07-07T16:54:30.553Z
 updatedAt: 2022-07-17T07:22:28.893Z
 category: crypto
+summary: Ripple is a real-time gross settlement system, currency exchange, and
+  remittance network. It was created in 2012 to enable seamless, low-cost,
+  global financial transactions between banks and financial institutions. At the
+  time of writing, one Ripple coin is worth nearly $3.00 - up from just $0.006
+  in January 2017. The value of Ripple has grown tremendously over the past year
+  and is showing no signs of slowing down. If you want to buy Ripple, you’ll
+  need to first buy another cryptocurrency, like Bitcoin or Ethereum, and then
+  trade it for Ripple.
 ---
 
 ## What is Ripple?

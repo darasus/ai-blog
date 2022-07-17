@@ -3,6 +3,15 @@ title: "Javascript For Beginners: A Comprehensive Guide"
 createdAt: 2022-07-17T07:18:10.837Z
 updatedAt: 2022-07-17T07:18:10.837Z
 category: coding
+summary: Javascript is the most widely used language in the world and 70% of
+  websites make use of it. Learning Javascript will help you create more
+  interactive and engaging experiences for the users. It is also a great
+  language for beginners since it is easy to understand and easy to find help
+  online. Learning to program takes a lot of practice and patience as you piece
+  together new concepts and techniques. There are tons of job opportunities in
+  the software development industry due to the growing demand for digital
+  products. Learn the basics of HTML and CSS to be able to communicate with the
+  browser.
 ---
 
 ## Why learn Javascript?

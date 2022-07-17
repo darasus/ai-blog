@@ -3,6 +3,13 @@ title: How to make healthy eating a part of your lifestyle
 createdAt: 2022-07-07T06:05:41.946Z
 updatedAt: 2022-07-16T16:20:52.782Z
 category: health
+summary: People who eat breakfast are more successful at losing weight and
+  maintaining a healthy weight than those who skip the first meal of the day.
+  Eating a healthy breakfast is perhaps one of the best ways to build a healthy
+  diet. Nuts, seeds, and fruits are great options that won’t derail your healthy
+  eating efforts. Make sure you have healthy snacks on hand, especially if you
+  work in an office and have limited access to a kitchen. Exercise regularly can
+  help to regulate your appetite and reduce the amount of calories you eat.
 ---
 
 ## Plan ahead

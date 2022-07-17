@@ -3,6 +3,15 @@ title: The Benefits of Software Engineering
 createdAt: 2022-07-09T06:17:21.079Z
 updatedAt: 2022-07-17T06:33:59.686Z
 category: coding
+summary: Software engineering is a broad field that encompasses a number of
+  sub-disciplines. Systems Engineers are responsible for developing large-scale
+  systems used in industrial, commercial, or government applications.
+  Application Engineers are also responsible for managing teams and projects,
+  and designing solutions that meet the needs of the business. You can find job
+  opportunities in software engineering by networking with other professionals,
+  reading job boards, and attending various hiring events, such as hackathons.
+  If you have a computer and an internet connection, you can find a job as a
+  software engineer in nearly any country in the world.
 ---
 
 ## Tasks And Responsibilities Of Software Engineers

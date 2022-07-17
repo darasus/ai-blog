@@ -3,6 +3,13 @@ title: "TRON: The Entertainment Crypto"
 createdAt: 2022-07-07T16:56:33.627Z
 updatedAt: 2022-07-17T07:22:47.325Z
 category: crypto
+summary: Tron (TRX) is an entertainment crypto that offers users a new way to
+  experience entertainment like never before. Based on its blockchain network
+  and unique TRX coin, Tron offers users the ability to host content on its
+  network and be rewarded in TRX coins. Tron is currently partnered with
+  BitTorrent, a peer-to-peer file sharing platform that boasts over 100 million
+  users. The company has also partnered with the Chinese blockchain giant
+  Fenbushi Capital, as well as several Chinese companies and investors.
 ---
 
 ## What is Tron?

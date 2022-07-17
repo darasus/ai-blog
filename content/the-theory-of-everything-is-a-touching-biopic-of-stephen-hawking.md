@@ -3,6 +3,13 @@ title: '"The Theory of Everything" is a touching biopic of Stephen Hawking'
 createdAt: 2022-07-08T05:57:24.535Z
 updatedAt: 2022-07-17T07:25:39.889Z
 category: culture
+summary: "The Theory of Everything is a biopic of Stephen Hawking, a renowned
+  theoretical physicist. It chronicles his relationship with his first wife,
+  Jane, and the onset of his motor neuron disease (ALS) The film is based on the
+  memoir Travelling to Infinity: My Life with Stephen by Jane Hawking, and
+  chronicles the marriage between Hawking and Jane. The film received critical
+  acclaim and received Academy Award, Golden Globe, Screen Actors Guild, BAFTA,
+  and Critics' Choice Awards nominations."
 ---
 
 ## Movie Review: “The Theory of Everything”

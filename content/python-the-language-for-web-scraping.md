@@ -3,6 +3,13 @@ title: Python - The language for web scraping
 createdAt: 2022-07-09T06:20:45.977Z
 updatedAt: 2022-07-17T06:54:16.099Z
 category: coding
+summary: Python is a general-purpose language that can be used for a wide
+  variety of functions. Python can handle many tasks that would require complex
+  code in other languages. Python has a large community and a large and
+  supportive community. Using web scraping can help you avoid this problem. Once
+  Python is installed, you can use it to start web scraping. To begin, find a
+  website that you want to scrape, find the URL for the data you’re looking for
+  and print the data to the screen.
 ---
 
 ## Why learn Python for Web Scraping?

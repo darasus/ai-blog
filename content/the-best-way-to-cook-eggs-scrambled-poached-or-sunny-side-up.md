@@ -3,6 +3,14 @@ title: The best way to cook eggs - scrambled, poached or sunny side up?
 createdAt: 2022-07-07T06:05:39.870Z
 updatedAt: 2022-07-17T05:58:20.012Z
 category: cooking
+summary: Using milk or water is the best way to cook scrambled eggs because it
+  gives them a soft texture. Poached eggs should be kept at a low simmer, so you
+  might have to turn down the heat a bit when you add the egg to the water. To
+  cook a sunny side up egg, start by heating about two tablespoons of vegetable
+  oil in a skillet. If you want to add some extra flavor to your scrambled eggs,
+  try adding some herbs or spices before you start whisking. To keep your eggs
+  fresh and safe to eat, make sure to store them in their carton and not the egg
+  container.
 ---
 
 ## Scrambled Eggs

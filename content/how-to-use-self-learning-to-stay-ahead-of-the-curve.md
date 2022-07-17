@@ -3,6 +3,15 @@ title: How to Use Self-Learning to Stay Ahead of the Curve
 createdAt: 2022-07-09T06:35:59.187Z
 updatedAt: 2022-07-17T07:28:29.953Z
 category: productivity
+summary: If you’re constantly trying to learn everything, you'll never actually
+  get anything done. By knowing the topics you need to master to stay
+  competitive in your field, you can narrow down the best ways to learn those
+  things. Self-learning is a great strategy for staying ahead of the curve while
+  not wasting too much time relearning things you already know. Reading the
+  news, reading books on your field is an efficient way to learn more without
+  having to actively seek out information. Watching videos and observing other
+  people in your industry can help you understand how your industry works in
+  real life.
 ---
 
 ## Know what you need to learn

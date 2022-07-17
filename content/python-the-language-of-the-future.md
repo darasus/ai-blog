@@ -3,6 +3,14 @@ title: Python - The language of the future
 createdAt: 2022-07-09T06:18:38.179Z
 updatedAt: 2022-07-17T06:36:02.133Z
 category: coding
+summary: Python is the most popular programming language used in Data Science
+  and Machine Learning. It is easy to learn, easy to read, and very versatile.
+  It can be used for web development, data analysis, machine learning, and much
+  more. Python 2 will remain fully supported until 2020, but most of the new
+  libraries and tools are using Python 3. The best way to start learning Python
+  is to learn the basics, then move on to the different data types, control
+  flow, and functions and methods. Online courses and coding bootcamps are the
+  best places to learn Python.
 ---
 
 ## What is Python?

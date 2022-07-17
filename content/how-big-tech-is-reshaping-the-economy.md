@@ -3,6 +3,13 @@ title: How big tech is reshaping the economy
 createdAt: 2022-07-08T06:06:13.446Z
 updatedAt: 2022-07-17T07:25:35.828Z
 category: technology
+summary: "Most big tech companies are hardware companies that sell their
+  products and services directly to consumers, not through wholesalers or
+  retailers. That distinguishes them from “old tech” companies such as Intel,
+  Xerox, Hewlett-Packard, Panasonic, and Oracle. Big tech is reshaping the
+  economy in three ways: Fast growth creates jobs, boosts R&D spending, and
+  generates profits for shareholders. It is investing heavily in new business
+  ventures in a variety of sectors from retail to real estate."
 ---
 
 ## What is big tech?

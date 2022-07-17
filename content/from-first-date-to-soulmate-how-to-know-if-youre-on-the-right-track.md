@@ -3,6 +3,15 @@ title: "From first date to soulmate: How to know if you're on the right track"
 createdAt: 2022-07-08T06:22:25.464Z
 updatedAt: 2022-07-16T15:04:35.301Z
 category: life
+summary: The happiest relationships are the ones where both people give each
+  other enough space to be themselves. Relationships often work best when
+  they’re a mix of two lives coming together. Open and honest communication is a
+  crucial part of any successful relationship. If you’ve been able to tackle
+  difficult conversations and come out stronger as a result, it’s a good sign
+  that you're on the right track. If your partner is your biggest cheerleader
+  and has your back through thick and thin, it doesn’t just support you. In a
+  healthy relationship, both partners are there for each other, supporting each
+  other through the good times and the bad.
 ---
 
 ## You feel happy and comfortable when you’re together.

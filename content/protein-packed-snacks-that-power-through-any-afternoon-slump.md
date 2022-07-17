@@ -3,6 +3,14 @@ title: Protein packed snacks that Power through any afternoon slump
 createdAt: 2022-07-09T06:42:47.864Z
 updatedAt: 2022-07-17T06:21:17.272Z
 category: cooking
+summary: The best way to combat an afternoon slump is to eat foods high in
+  tryptophan and protein. Eating high-protein snacks can help to regulate
+  serotonin levels, keeping your mood up and curbing cravings for starchy or
+  sugary foods. Snacking throughout the day is ideal for regulating blood sugar
+  and can also help you from overeating at meal times. Eating protein-rich foods
+  has many health benefits, including reducing the risk of heart disease and
+  regulating metabolism. Hard-boiled eggs are a great source of protein, with
+  one egg containing 6 grams of protein.
 ---
 
 ## What is an afternoon slump and why do we get them?

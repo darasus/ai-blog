@@ -3,6 +3,13 @@ title: 3 recipes for homemade bread that's better than store-bought
 createdAt: 2022-07-07T06:05:40.118Z
 updatedAt: 2022-07-17T06:00:46.605Z
 category: cooking
+summary: The secret to a light and airy whole wheat loaf is to use gluten-free
+  all-purpose flour, whole wheat pastry flour, and the perfect ratio of water.
+  Cheddar garlic bread and cheesy artisan loaves are two of the most delicious
+  bread recipes out there. The trick to a great loaf of bread is to start with a
+  good dough. Once you have your dough down, you can mix in any ingredients you
+  want, such as pizza dough or hot dog buns. When you bake your own bread, you
+  know exactly what is going into it and tailor it to your dietary preferences.
 ---
 
 ## Better than store-bought bread: Sourdough bread

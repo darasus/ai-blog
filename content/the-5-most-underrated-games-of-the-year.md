@@ -3,6 +3,13 @@ title: The 5 most underrated games of the year
 createdAt: 2022-07-08T06:00:50.692Z
 updatedAt: 2022-07-17T07:27:04.004Z
 category: gaming
+summary: PlayerUnknown’s Battlegrounds is still one of the best shooter games
+  available on the market. Marvel's Spider-Man is the first one created by
+  Insomniac Games, the same company that made the Ratchet & Clank series. Mario
+  Tennis Aces is the best tennis game since the classic Nintendo 64 version of
+  Mario Tennis. Overcooked! 2 is a silly cooking game that's great for parties
+  and family gatherings. Shadow Colossus is an action-adventure that deserves
+  more attention.
 ---
 
 ## PlayerUnknown’s Battlegrounds

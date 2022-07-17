@@ -3,6 +3,11 @@ title: '"Bridge of Spies" is a masterful Cold War thriller'
 createdAt: 2022-07-08T05:57:01.690Z
 updatedAt: 2022-07-17T07:25:34.042Z
 category: culture
+summary: The author of this article has been asked to share his knowledge of the
+  events in the U.S. to share with the public. The group has been involved in a
+  series of high-profile events in New York City, Washington, D.C. and New
+  Jersey. The event is being held in the United States at 10 p.m. ET on Monday,
+  July 1, and July 4, at 10 a.m., July 6, July 3, July 5, July 10, July 6.
 ---
 
 ## “Bridge of Spies” is a beautiful and restrained spy thriller

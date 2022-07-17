@@ -3,6 +3,14 @@ title: Comfort food recipes to warm your soul
 createdAt: 2022-07-07T06:05:39.824Z
 updatedAt: 2022-07-17T06:21:43.992Z
 category: cooking
+summary: This recipe is a great option if you’re in need of a few easy comfort
+  food recipes. All you need to do is dump all the ingredients into a slow
+  cooker and let it do the work for you. With minimal prep and a minimal number
+  of steps, this taco soup recipe is perfect for a quick and easy dinner. It's
+  kid-friendly and easily adaptable for vegetarians or vegans – just use
+  vegetable broth instead of beef broth and skip the meat, and you're good to
+  go! Baked mac and cheese is a childhood classic, but it also makes for a great
+  grown-up comfort food.
 ---
 
 ## Taco Soup

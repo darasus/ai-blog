@@ -3,6 +3,14 @@ title: Exchange traded funds - a beginner's guide
 createdAt: 2022-07-07T16:52:26.280Z
 updatedAt: 2022-07-17T05:55:54.504Z
 category: investing
+summary: An ETF is a type of fund that holds assets such as stocks, bonds, or
+  other securities and trades on a stock exchange at any time during the day.
+  The price of ETF shares will change throughout the day as the value of the
+  underlying assets in the fund fluctuate. Most ETFs are passively managed,
+  which means they track a specific benchmark, like an index. They can be used
+  to gain exposure to certain industries, geographical regions, or asset
+  classes. There are no guarantees that the money you’ve invested in will
+  perform well.
 ---
 
 ## What is an ETF?

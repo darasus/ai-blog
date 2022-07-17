@@ -3,6 +3,14 @@ title: How to make healthy eating a part of your weight loss plan
 createdAt: 2022-07-07T06:05:42.105Z
 updatedAt: 2022-07-16T16:22:26.301Z
 category: health
+summary: A study published in the Journal of Nutrition found that protein is
+  particularly effective for weight loss when it replaces other carbs in your
+  diet, such as bread or pasta. You can boost protein intake by adding a
+  protein-rich food to each meal such as nuts and seeds, eggs, low-fat dairy
+  products, or lean meat and fish. Whole grains are rich in fiber, which helps
+  prevent disease and keeps you feeling full for hours, so you’re less likely to
+  overeat. Healthy fats like those found in nuts, seeds, avocado, and fish help
+  your body absorb vitamins and promote feelings of fullness.
 ---
 
 ## Start with protein.

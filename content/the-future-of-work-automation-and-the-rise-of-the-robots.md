@@ -3,6 +3,14 @@ title: "The future of work: automation and the rise of the robots"
 createdAt: 2022-07-07T06:05:40.756Z
 updatedAt: 2022-07-17T07:24:33.398Z
 category: technology
+summary: Automation is the use of machines or computer-controlled equipment to
+  perform operations normally done by humans. Automation can be used in any
+  industry, including manufacturing, distribution, and healthcare. Robots are
+  used to perform repetitive tasks in industries such as electronics, food and
+  beverage, car manufacturing, healthcare, and electronics. The use of robots in
+  factories solves the problem of finding specialized labor that is needed to
+  operate highly technical machinery. Robots can also be programmed to do tasks
+  with greater precision and consistency than humans.
 ---
 
 ## What is automation?

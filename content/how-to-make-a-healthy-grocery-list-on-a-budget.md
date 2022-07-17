@@ -3,6 +3,13 @@ title: How to make a healthy grocery list on a budget
 createdAt: 2022-07-07T06:05:42.194Z
 updatedAt: 2022-07-16T16:23:00.399Z
 category: health
+summary: A big part of eating well on a budget is knowing where to shop for your
+  groceries. Specialty stores carry a greater variety of organic and health
+  foods at lower prices than conventional grocery stores. Discount grocers often
+  have great prices on healthy staples like whole grains, legumes, and produce.
+  Buy in-season produce is one of the easiest ways to reduce the cost of healthy
+  eating is to buy produce in season. Frozen produce can be very healthy,
+  especially when it’s frozen soon after harvest.
 ---
 
 ## Know Where To Shop

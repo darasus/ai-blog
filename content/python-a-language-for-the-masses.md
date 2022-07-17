@@ -3,6 +3,14 @@ title: Python - A language for the masses
 createdAt: 2022-07-09T06:19:07.786Z
 updatedAt: 2022-07-17T06:52:35.681Z
 category: coding
+summary: The best way to decide if Python is right for you is to understand its
+  strengths and weaknesses. Let’s take a look at the pros and cons of Python to
+  get a better sense of the language. There are many ways to learn Python,
+  including attending a class, finding a book, or finding online tutorials to
+  get started with programming. The best thing about Python is that it has a
+  massive library of pre-written code that you can use to build your projects.
+  This allows you to save time and get your projects going quicker than if you
+  started from scratch.
 ---
 
 ## What can you do with Python?

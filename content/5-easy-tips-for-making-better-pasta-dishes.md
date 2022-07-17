@@ -3,6 +3,14 @@ title: 5 easy tips for making better pasta dishes
 createdAt: 2022-07-07T06:05:39.847Z
 updatedAt: 2022-07-17T05:58:26.792Z
 category: cooking
+summary: The most important thing to remember when making pasta is to use the
+  best quality ingredients you can afford. This means using the highest quality
+  pasta you can find, as well as getting the best tasting tomatoes, garlic, and
+  other products that go into your pasta. Add a bit of salt to your water will
+  make your pasta taste better and be more nutritious. Add different types of
+  protein to your pasta, such as chicken, shrimp, or even beans. Mixing in some
+  greens with other ingredients like basil, basil and parsley can also make it
+  more nutritious as well.
 ---
 
 ## Use good quality ingredients

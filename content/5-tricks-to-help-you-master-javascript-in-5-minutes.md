@@ -3,6 +3,14 @@ title: 5 Tricks To Help You Master Javascript In 5 Minutes
 createdAt: 2022-07-17T07:19:24.642Z
 updatedAt: 2022-07-17T07:19:24.642Z
 category: coding
+summary: Javascript is one of the most complex and widely used programming
+  languages in the world. It is essential to learn and memorize the 11 core
+  concepts of Javascript to help you get a better grasp of the language. Having
+  a Javascript cheatsheet by your side is a great idea because it acts as a
+  guide or a map to guide you through the different concepts and terminologies
+  used in the language. The following 11 concepts are essential to understanding
+  the language properly. These concepts will help you master Javascript in 5
+  minutes.
 ---
 
 ## Keep a Javascript Cheatsheet By Your Side

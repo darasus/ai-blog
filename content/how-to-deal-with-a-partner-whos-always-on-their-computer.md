@@ -3,6 +3,13 @@ title: How to deal with a partner who's always on their computer
 createdAt: 2022-07-08T06:24:36.082Z
 updatedAt: 2022-07-16T15:13:06.003Z
 category: life
+summary: If you’re feeling jealous or resentful about the time your partner
+  spends on the computer, try talking to them about it. It can be a good idea to
+  sit down and talk to your partner about how much time they spend on their
+  computer. If you both work full-time and have young children, you may want to
+  come to an agreement about the amount of time they’ve spent on their
+  computers. It’s important to spend time with your partner, but also important
+  to make time for yourself as well.
 ---
 
 ## Communicate with your partner

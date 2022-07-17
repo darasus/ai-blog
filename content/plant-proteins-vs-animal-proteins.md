@@ -3,6 +3,13 @@ title: Plant proteins vs animal proteins
 createdAt: 2022-07-09T06:39:52.028Z
 updatedAt: 2022-07-17T06:17:20.097Z
 category: cooking
+summary: The best sources of protein are plants such as legumes, grains, nuts,
+  and seeds - especially hemp, chia, and flax seeds. The benefits of plant-based
+  proteins are not just for building muscle - it's an essential part of a
+  balanced diet. Plant-based sources also have very low amounts of saturated
+  fats, which are linked to a higher risk of heart disease. They are an
+  excellent source of fibre and can help reduce the risk of diseases such as
+  osteoporosis.
 ---
 
 ## What are protein sources?

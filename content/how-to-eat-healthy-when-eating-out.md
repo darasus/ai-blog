@@ -3,6 +3,13 @@ title: How to eat healthy when eating out
 createdAt: 2022-07-07T06:05:41.698Z
 updatedAt: 2022-07-16T16:19:10.074Z
 category: health
+summary: When possible, choose dishes that are packed with fiber and protein.
+  Whole grains are a great source of fiber, B vitamins, iron, and other
+  nutrients. Check the ingredients list for the items that go into your meal. Be
+  wary of French fries, fried veggies and other fried sides. Be careful of
+  burgers that come with 80% meat or less, and be careful with your bun and
+  condiment choices. Avoid heavy white breads and load up on veggies and lean
+  proteins instead of heavy breads.
 ---
 
 ## Go for protein and fiber

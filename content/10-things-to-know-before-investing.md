@@ -3,6 +3,13 @@ title: 10 things to know before investing
 createdAt: 2022-07-07T16:49:18.211Z
 updatedAt: 2022-07-17T05:55:59.532Z
 category: investing
+summary: It’s important to not invest in the market based on emotions, such as
+  fear or greed. Don’t buy and sell your investments too soon, you could miss
+  out on significant gains. Check your ego at the door and understand that
+  you’ll make mistakes along the way. Resilience is key when investing in the
+  stock market is a risky proposition that can lead to significant gains over
+  the long-term. It's important to have some resilience when dealing with the
+  inevitable bumps in the road.
 ---
 
 ## Know what you’re investing in

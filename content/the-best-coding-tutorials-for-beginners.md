@@ -3,6 +3,13 @@ title: The best coding tutorials for beginners
 createdAt: 2022-07-07T06:10:42.701Z
 updatedAt: 2022-07-17T06:30:20.240Z
 category: coding
+summary: HTML and CSS are essential for creating any web pages or websites.
+  Python is a popular programming language used for a variety of purposes. Swift
+  is a programming language that lets you create apps for iOS and macOS. Android
+  is one of the most popular operating systems in the world and needs to learn
+  the basics of programming in this language. Try out a free online course for
+  beginners to learn how to create your first Android app for the phone or
+  tablet using the Apple Swift Language Guide or the Python Standard Library.
 ---
 
 ## HTML and CSS Basics
