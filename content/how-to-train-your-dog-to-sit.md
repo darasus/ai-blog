@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Sit
 createdAt: 2022-07-08T06:24:44.869Z
-updatedAt: 2022-07-16T15:13:44.483Z
+updatedAt: 2022-07-17T15:00:29.877Z
 category: life
 summary: Dogs thrive on routine and predictability, so it’s important that your
   training sessions are consistent each time. Teaching your dog to sit on
@@ -10,6 +10,14 @@ summary: Dogs thrive on routine and predictability, so it’s important that you
   training and help your dog associate positive feelings with training. Once
   your dog knows how to sit, you can progress to teaching more advanced
   behaviors such as sitting and staying with a leash on.
+intro: >-
+  Dogs are intelligent animals with a natural desire to please their human
+  companions. If you take the time to understand what motivates them and reward
+  them for good behavior, they will respond by trying harder next time.
+
+  If you're willing to put in the time and effort, almost any dog can be trained to sit on command. It's just a matter of identifying your dog’s motivation and rewarding him for the behaviors that you like. With consistent training sessions every day or two, your dog will learn how to sit in no time at all.
+
+  Training your dog doesn’t have to be difficult or stressful – it just requires commitment and patience from both of you. The more straightforward training techniques like marker words, positive reinforcement and treat rewards should get your dog responding obediently within a few weeks.
 ---
 
 ## Step 1: Pick A Marker Word

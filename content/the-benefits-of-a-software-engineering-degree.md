@@ -1,7 +1,7 @@
 ---
 title: The Benefits of a Software Engineering Degree
 createdAt: 2022-07-09T06:17:47.333Z
-updatedAt: 2022-07-17T06:34:48.917Z
+updatedAt: 2022-07-17T15:00:30.368Z
 category: coding
 summary: Software engineering is a creative field that involves solving
   problems, thinking creatively, and working with people. The average salary for
@@ -11,6 +11,9 @@ summary: Software engineering is a creative field that involves solving
   knowledge in a variety of different areas, such as computer science,
   mathematics, design, and business. The most common degrees you can earn in
   software engineering are Bachelor’s, Master’“s, and PhD degrees.
+intro: The market for software engineers is growing fast. As businesses adopt
+  cloud computing and other digital technologies, demand for software engineers
+  is projected to grow by 22% from 2016 to 2026.
 ---
 
 ## What is a Software Engineering Degree?

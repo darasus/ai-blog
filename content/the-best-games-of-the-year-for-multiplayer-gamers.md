@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for multiplayer gamers
 createdAt: 2022-07-08T06:02:01.799Z
-updatedAt: 2022-07-17T07:27:35.137Z
+updatedAt: 2022-07-17T15:00:32.102Z
 category: gaming
 summary: "Halo 5: Guardians is a must-play game if you are a multiplayer gamer,
   as this sci-fi shooter is one of the best examples of how great it can be to
@@ -11,6 +11,15 @@ summary: "Halo 5: Guardians is a must-play game if you are a multiplayer gamer,
   Star Rush is ideal if you want a game to play with friends that is both
   addictive and fun. Titanfall 2 is a futuristic shooter that allows you to play
   as a pilot or even a titan."
+intro: >-
+  Games are more popular than ever these days, with the power of networks
+  and the internet meaning that anyone with a computer or console can get in on
+  the fun. From shooting zombies to racing cars, there is something for everyone
+  when it comes to video games.
+
+  There are so many great multiplayer games out there, whether you’re aiming to save the world from aliens or simply just have some laughs with friends. The best multiplayer games offer an experience like no other and allow players to compete against one another while also teaming up to take on a greater challenge.
+
+  There are plenty of ways to enjoy playing video games as a group, whether that be at home with friends over drinks or even as part of an organized club. Here are some of the best multiplayer games out there if you want to team up and take on challenges together as well as compete against your pals for bragging rights.
 ---
 
 ## Halo 5: Guardians

@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Heel
 createdAt: 2022-07-08T06:25:12.560Z
-updatedAt: 2022-07-16T15:16:08.468Z
+updatedAt: 2022-07-17T15:00:29.884Z
 category: life
 summary: You need to be consistent with your training techniques to ensure that
   your dog remembers and practices them over and over again without fail. When
@@ -10,6 +10,15 @@ summary: You need to be consistent with your training techniques to ensure that
   used during training. A lot of people use choke chains or lead chains to train
   their dogs. This is a very old-fashioned and brutal way of training a dog.
   With the right tips and tricks, you can train your dog to heel in no time.
+intro: >-
+  When you adopt a new dog, you’re excited to get acquainted with your new
+  friend. You want the relationship to blossom and for the two of you to become
+  inseparable buddies. However, after the initial phase where you just spent
+  time playing with your new pup, things can get challenging. 
+
+  There are so many things that need to be taught to keep your dog safe and secure around you at all times. One of these essential training methods is how to train your dog to heel. Heeling is a very useful command because it teaches a dog how not to run away from their owner but rather stay by their side. This helps prevent them getting in danger or running after something they shouldn’t eat. 
+
+  Training your dog to heel is not hard and should only take a few sessions with the right techniques. Let us take look at some of the tips that will help you train your dog in no time:
 ---
 
 ## Start With The Basics

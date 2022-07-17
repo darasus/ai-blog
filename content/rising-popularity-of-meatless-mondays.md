@@ -1,7 +1,7 @@
 ---
 title: Rising popularity of meatless Mondays
 createdAt: 2022-07-09T06:43:07.402Z
-updatedAt: 2022-07-17T06:21:48.401Z
+updatedAt: 2022-07-17T15:00:29.527Z
 category: cooking
 summary: A meatless Monday is a day without meat and/or animal products. Eating
   less meat is beneficial for your health, the environment, and for animals.
@@ -11,6 +11,16 @@ summary: A meatless Monday is a day without meat and/or animal products. Eating
   a healthy eating pattern that limits saturated fat, sodium, and processed
   foods. It’s a great way to start a healthier and more environmentally-friendly
   lifestyle.
+intro: >-
+  Millennials and Gen Zers have been driving the demand for plant-based
+  foods. More consumers today are adopting a lifestyle that focuses on balanced
+  and healthy diets instead of restrictive fad diets. 
+
+  In response to these changing preferences, businesses everywhere have started offering more vegetarian options. In fact, even fast food chains like McDonald’s and Burger King have started adding meatless items to their menus in an effort to cater to this growing market segment. And with good reason. Millennials alone account for nearly one-third of the workforce — a massive presence that will only continue to grow in coming years.
+
+  This rise in popularity of meatless Mondays is not surprising given how many people now choose to eat less meat, fish, or any animal products on Tuesdays, Wednesdays, Thursdays, Fridays or Saturdays. 
+
+  If you’re looking for ways to reduce your red meat intake without sacrificing taste or variety in your diet, consider instituting Meatless Mondays at your place of business as well as at home.
 ---
 
 ## What is a meatless Monday?

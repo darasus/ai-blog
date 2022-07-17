@@ -1,7 +1,7 @@
 ---
 title: Python - The language for mobile development
 createdAt: 2022-07-09T06:20:36.461Z
-updatedAt: 2022-07-17T06:53:41.329Z
+updatedAt: 2022-07-17T15:00:30.477Z
 category: coding
 summary: Python is an open-source programming language developed in the late
   1980s by Guido van Rossum at the National Research Institute for Mathematics
@@ -11,6 +11,15 @@ summary: Python is an open-source programming language developed in the late
   for various applications. Python code is easy to read and understand, which
   makes it a good choice for newcomers and experienced developers alike. It can
   also be used for web apps, data science and IoT projects.
+intro: >-
+  With so many programming languages to choose from, it can be challenging
+  for developers to find the best one for a particular project. For example, if
+  the goal is to create an app that will run on multiple different devices and
+  operating systems, what’s the best option?
+
+  With so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what’s the best option?
+
+  If you’re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we’ll cover why this is good choice—and why other options may not be ideal in certain situations.
 ---
 
 ## Why Python?

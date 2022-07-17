@@ -1,7 +1,7 @@
 ---
 title: Interfaces in Java
 createdAt: 2022-07-09T06:23:17.789Z
-updatedAt: 2022-07-17T06:55:46.677Z
+updatedAt: 2022-07-17T15:00:30.560Z
 category: coding
 summary: Interfaces are used to specify an expected behavior of an object. Java
   does not support inheritance for Interfaces. Interfaces define only static
@@ -11,6 +11,16 @@ summary: Interfaces are used to specify an expected behavior of an object. Java
   implements an interface can change its implementation as much as it wants, as
   long as it follows the specification of the interface. Using interfaces is
   also a great way to break up your code into small, reusable pieces.
+intro: >-
+  The definition of an interface is almost the same in Java as in any other
+  object-oriented programming (OOP) language. An interface, strictly speaking,
+  is a type that specifies a set of methods, but not their implementation. This
+  means that an interface can have static methods and accessible properties but
+  no instance methods or fields.
+
+  An interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.
+
+  When we use interfaces, we are creating contracts between our classes that they will behave in a certain way—that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.
 ---
 
 ## Why use interfaces?

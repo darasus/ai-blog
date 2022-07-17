@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Most Famous Cats in the World
 createdAt: 2022-07-09T06:12:12.764Z
-updatedAt: 2022-07-16T15:47:43.969Z
+updatedAt: 2022-07-17T15:00:30.013Z
 category: life
 summary: Grumpy Cat is a 2013 American reality television series. It features
   the day-to-day operations of the "Grumpy Cat Cafè" in San Diego, California.
@@ -10,6 +10,14 @@ summary: Grumpy Cat is a 2013 American reality television series. It features
   an unusual feline who became an unlikely online star. Rubyyyyyyyy is a lovely
   Siamese cat who gained widespread fame due to her unique blue eyes and blue
   fur.
+intro: >-
+  When it comes to internet famous animals, cats by far come out on top.
+  With the rise of social media, cat videos and memes have taken over the
+  internet. There are so many funny cats online that it’s almost ridiculous.
+  These kitty clips have gained a massive following online and catapulted these
+  lovable felines into superstardom. 
+
+  Cats are a part of Internet Culture in ways that other animals just aren’t. They also have unique features that make them much easier to anthropomorphize and create humorous images with. This has led to an explosion in popularity among cats of all kinds, but especially hilarious ones like Grumpy Cat, Henrietta, and Lil Bub. Now let’s take a look at the Top 10 Famous Cats In The World:
 ---
 
 ## Grumpy Cat

@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Stay
 createdAt: 2022-07-08T06:24:55.370Z
-updatedAt: 2022-07-16T15:14:39.601Z
+updatedAt: 2022-07-17T15:00:29.879Z
 category: life
 summary: Dogs who are well-trained are less likely to be destructive or
   aggressive when they are bored or left home alone. Training can reduce your
@@ -10,6 +10,15 @@ summary: Dogs who are well-trained are less likely to be destructive or
   (and you) avoid unwanted confrontations with other people and their pets if
   your dog is not well-behaved. Training your dog can also help keep them
   mentally stimulated, which can help with boredom and depression.
+intro: >-
+  In this digital age, many dog owners are finding new and innovative ways
+  to keep their dogs occupied. Occupational dog toys are designed to help keep
+  your dog mentally stimulated so they don’t get bored and start chewing on your
+  shoes or digging up the yard. But even with all of these fantastic
+  innovations, most dogs will eventually get tired of playing with their toys
+  and will look for something more interesting. This is where training comes in!
+
+  To train your dog means to instruct them in some behavior that you want them to repeat consistently in different situations. Training gives your dog a purpose, and it makes things easier on both of you when you have a well-trained pooch at home (or anywhere else). Training can be as simple as teaching your dog some basic commands like “sit” or “stay,” or it can be something much more advanced like teaching them to come when called from the other side of the yard. Whatever your level of experience, there are numerous benefits to training your dog.
 ---
 
 ## It Helps Build A Strong Bond

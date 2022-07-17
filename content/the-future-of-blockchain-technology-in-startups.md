@@ -1,7 +1,7 @@
 ---
 title: The Future of Blockchain Technology in Startups
 createdAt: 2022-07-07T17:00:15.524Z
-updatedAt: 2022-07-17T07:24:32.473Z
+updatedAt: 2022-07-17T15:00:31.353Z
 category: crypto
 summary: Blockchain is a distributed ledger technology that enables secure,
   peer-to-peer transfer of data. It can be used for supply chain management,
@@ -10,6 +10,17 @@ summary: Blockchain is a distributed ledger technology that enables secure,
   potential, and it will take time for businesses and investors to understand
   how to use it effectively. The technology is new, it is unregulated and
   doesn’t have a proven track record like other technologies like AI.
+intro: >-
+  In the last couple of years, there has been a lot of buzz around
+  blockchain technology and its potential use cases. We have seen numerous
+  companies launch blockchain-based products in various industries such as
+  healthcare, supply chain, education, real estate and more. While this is great
+  news for the adoption of this disruptive technology, investors are cautious
+  about blockchain-based startups. 
+
+  Not just because their track record so far has not been great but also because these new ventures face an uphill battle to get funded and succeed. The existing capital is mostly going towards internet of things (IoT) startups, artificial intelligence (AI), virtual reality (VR), and drones. 
+
+  But that doesn’t mean it’s the end of road for blockchain technology in startups. In this blog post, we will explore why investors are skittish about blockchain-based startups right now and how you can help change that trend by launching one yourself. Read on to find out more.
 ---
 
 ## What is Blockchain Technology?

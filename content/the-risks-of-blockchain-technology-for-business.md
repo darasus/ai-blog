@@ -1,7 +1,7 @@
 ---
 title: The Risks of Blockchain Technology for Business
 createdAt: 2022-07-07T16:59:37.228Z
-updatedAt: 2022-07-17T07:24:10.316Z
+updatedAt: 2022-07-17T15:00:31.349Z
 category: crypto
 summary: The technology is still unproven, and therefore its risks are largely
   unquantifiable. Businesses that use blockchain may find that the technology
@@ -11,6 +11,15 @@ summary: The technology is still unproven, and therefore its risks are largely
   public, permissioned, and private blockchains. Each one of these has their own
   particular use cases and limitations. It is difficult to justify the risk of
   using the technology as it is still in its infancy.
+intro: >-
+  In the last decade, there have been numerous new technologies that have
+  emerged to challenge the way we conduct business. One of these is blockchain
+  technology. It’s a game-changing technology that has the potential to
+  transform everything from finance to supply chains, healthcare, real estate,
+  and even voting. It’s hard not to get excited about this technology and its
+  potential applications. 
+
+  However, with any new technology there are risks as well as rewards. The risks of blockchain technology for your business are numerous, but by being aware of them you can ensure that you mitigate any potential downsides and take full advantage of the benefits it offers. Let’s take a look at some cautionary advice regarding implementing blockchain in your company.
 ---
 
 ## Blockchain is still in its infancy

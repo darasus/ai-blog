@@ -1,7 +1,7 @@
 ---
 title: Farm Fresh produce - where to find it & how it impacts your health
 createdAt: 2022-07-09T06:40:13.324Z
-updatedAt: 2022-07-17T06:17:23.161Z
+updatedAt: 2022-07-17T15:00:29.378Z
 category: cooking
 summary: There are ways to make sure you’re getting the freshest produce, even
   if you shop at a supermarket. Most of the produce at many supermarkets comes
@@ -10,6 +10,18 @@ summary: There are ways to make sure you’re getting the freshest produce, even
   Buy produce at farmers’ markets (online or in-person) Online and in-store, you
   can order when you want your produce, rather than having to wait for the next
   sale.
+intro: >-
+  There’s an abundance of information about how eating fruits and
+  vegetables can improve your health. But it can be confusing to know exactly
+  where to find these healthy foods and how they can fit into your budget. 
+
+  COUNTY FARMERS' MARKETS - They are a great place to shop for fresh, local produce. Look for one near you by visiting www.eatlocalorg or searching your county website. This is also a great way to support local farmers and vendors, while also getting some outdoor activity in at the same time!
+
+  A NEWSPAPER AD – There are usually several grocery stores listed in the classified ads of most newspapers. These stores often have special deals on certain days of the week or month (such as “XLEND Mondays”). Also, keep in mind that some stores offer special deals at different times throughout the year (such as back-to-school shopping or after Christmas sales).
+
+  END OF SEASON SALE – Many grocery stores will host sales around the end of each season’s crops: Winter squash, apples, cauliflower, etc. These are also good times to purchase things like onions (which stay fresh longer than other root veggies) and garlic (which lasts longer if stored In a dry location).
+
+  There are many ways you can access local farmers’ market produce year round! Even if you don't live in an area with a traditional farmers' market or choose not to drive there each week, there's
 ---
 
 ## SUPERMARKETS

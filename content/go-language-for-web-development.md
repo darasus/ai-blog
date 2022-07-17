@@ -1,7 +1,7 @@
 ---
 title: Go language for web development
 createdAt: 2022-07-09T06:28:20.639Z
-updatedAt: 2022-07-17T07:16:10.927Z
+updatedAt: 2022-07-17T15:00:30.669Z
 category: coding
 summary: Go is a compiled programming language designed around simplicity,
   readability, and. It has a strong focus on concurrent programming and is
@@ -10,6 +10,17 @@ summary: Go is a compiled programming language designed around simplicity,
   is being. developed by major companies like Google, Netflix,. and. the other
   companies are using Go for their. back-to-back-front-front back-of-head
   services.
+intro: >-
+  Go is an open source programming language that makes it possible to build
+  simple and reliable software faster. It has emerged as one of the most
+  successful alternatives to legacy languages like C, C++, and Java in recent
+  years. Top companies like Google, Dropbox, Netflix, Uber, and many others are
+  adopting Go for their backend services—and not just because of its unusual
+  mascot character. 
+
+  Go’s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don’t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects. 
+
+  There is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.
 ---
 
 ## What is Go?

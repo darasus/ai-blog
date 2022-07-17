@@ -1,7 +1,7 @@
 ---
 title: How to get started with coding
 createdAt: 2022-07-07T06:10:02.078Z
-updatedAt: 2022-07-17T06:29:51.609Z
+updatedAt: 2022-07-17T15:00:30.172Z
 category: coding
 summary: There are thousands of different programming languages, and a few of
   the most common ones are listed below. Coding is an incredibly creative
@@ -11,6 +11,14 @@ summary: There are thousands of different programming languages, and a few of
   list of top online courses to help you find the right course for you. The most
   common languages used in software development are Java, Ruby and Python, but
   many more exist.
+intro: >-
+  Coding is an essential skill that can be applied to a variety of roles,
+  industries and company sizes. What started as a niche skill used by software
+  developers is now a marketable and relevant skill for almost every industry.
+  It has become so ubiquitous that even the Department of Labor has highlighted
+  coding as one of the fastest growing skills in demand. 
+
+  Coding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well
 ---
 
 ## Why You Should Learn To Code

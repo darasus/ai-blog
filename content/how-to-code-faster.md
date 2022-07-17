@@ -1,7 +1,7 @@
 ---
 title: How to code faster
 createdAt: 2022-07-07T06:13:16.403Z
-updatedAt: 2022-07-17T06:32:28.807Z
+updatedAt: 2022-07-17T15:00:30.271Z
 category: coding
 summary: The most important thing to do as a developer is to create a workflow
   that is customized to your needs. Use shortcuts and macros to speed up your
@@ -10,6 +10,15 @@ summary: The most important thing to do as a developer is to create a workflow
   having to be at your computer. Take care of your body and take care of it to
   make your work easier and faster. Use TDD (TDD) to make code more efficient
   and more precise.
+intro: >-
+  Working as a developer is never easy. You will have to face challenges
+  and difficulties in your work almost every day. In order to overcome these
+  challenges, you need to consistently find ways to improve your coding
+  efficiency and speed.
+
+  Working efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they’re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster. 
+
+  Below, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able
 ---
 
 ## Create a workflow that is catered to you

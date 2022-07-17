@@ -1,7 +1,7 @@
 ---
 title: Who can benefit from mediation?
 createdAt: 2022-07-09T06:15:26.289Z
-updatedAt: 2022-07-16T15:47:56.978Z
+updatedAt: 2022-07-17T15:00:30.134Z
 category: life
 summary: Mediation allows divorcing couples to discuss and negotiate issues such
   as child custody and child support, spousal support, distribution of assets,
@@ -10,6 +10,17 @@ summary: Mediation allows divorcing couples to discuss and negotiate issues such
   court proceeding. Mediation is an incredibly flexible process that can be
   adapted to suit the needs of the parties involved. It allows each side to be
   heard while encouraging them to listen to the other party, too.
+intro: Mediation is a neutral and confidential process that can help people in
+  numerous situations. It’s ideal for individuals who want an alternative to
+  litigation or other traditional dispute resolution processes. Unlike
+  arbitration, mediation isn’t binding, which means that if you choose to
+  continue with litigation after mediation, you will not be precluded from doing
+  so. And while it doesn’t involve a third party making a decision on your case,
+  as in quasi-negotiation, mediation is not a fiasco or popularity contest.
+  Rather than having another person make the final call about what’s fair,
+  mediation gives each side the opportunity to advocate for themselves and their
+  interests while listening respectfully to the other party’s concerns as well.
+  Read on to learn more about who can benefit from mediation
 ---
 
 ## Individuals Going Through Divorce

@@ -1,7 +1,7 @@
 ---
 title: How Blockchain Technology Can Help Your startup
 createdAt: 2022-07-07T17:00:29.300Z
-updatedAt: 2022-07-17T07:24:36.787Z
+updatedAt: 2022-07-17T15:00:31.379Z
 category: crypto
 summary: Blockchain is a distributed ledger technology that was first
   conceptualized in 2008 by an individual or group of individuals using the
@@ -12,6 +12,17 @@ summary: Blockchain is a distributed ledger technology that was first
   user data like identification information, medical history, financial records,
   and academic achievements. Investing in blockchain startups that offer ICOs is
   a good way to start using the technology.
+intro: In today’s digital age, it’s hard not to be impressed by the potential of
+  blockchain technology. In the last couple of years, there has been an
+  increased adoption and development of distributed ledger technology (DLT) –
+  specifically, blockchain – that has spurred innovative solutions in a variety
+  of industries. The scope of blockchain extends far beyond being simply a
+  mechanism for recording transactions securely. Blockchain enables trust
+  without third parties, which makes it perfect for practically any application
+  that requires keeping track of ownership or monitoring usage rights. Keeping
+  this in mind, if you are launching your own startup and want to incorporate
+  the latest technological advancements into your business model, read on to
+  understand how blockchain can help.
 ---
 
 ## What is blockchain?

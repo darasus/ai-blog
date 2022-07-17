@@ -1,7 +1,7 @@
 ---
 title: Go language for game development
 createdAt: 2022-07-09T06:28:27.192Z
-updatedAt: 2022-07-17T07:16:14.799Z
+updatedAt: 2022-07-17T15:00:30.670Z
 category: coding
 summary: Go is a programming language developed by Google in 2007. It is a
   general-purpose programming language designed with scalability, ease-of-use,
@@ -10,6 +10,18 @@ summary: Go is a programming language developed by Google in 2007. It is a
   open-source since its inception, and has been highly praised by many
   developers. It's a language that was designed to be used in parallel
   programming, which means it’s optimized for working on many things at once.
+intro: Now that the world of game development is becoming increasingly more
+  digital, there are also new challenges to face. Game developers are now
+  expected to come up with solutions to complex problems in record time. And
+  this is where programming languages come in. They make it possible for
+  developers to solve problems by creating programs directly instead of writing
+  instructions word-by-word. There are numerous programming languages out there
+  but one that has become particularly useful for game development is Go. It has
+  many features that make it an excellent choice for developing video games,
+  including its simplicity, type inference, and great support for Unicode. If
+  you’re looking to start learning about Go and its benefits for game
+  development then keep reading. In this blog post, we’ll be covering all you
+  need to know about Go and why it’s a great language for game development
 ---
 
 ## What is Go?

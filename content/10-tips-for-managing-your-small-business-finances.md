@@ -1,7 +1,7 @@
 ---
 title: 10 Tips for Managing Your Small Business Finances
 createdAt: 2022-07-07T16:45:50.566Z
-updatedAt: 2022-07-16T16:01:58.990Z
+updatedAt: 2022-07-17T15:00:30.950Z
 category: business
 summary: A C Corp is a for-profit corporation that’s formed by filing articles
   of incorporation and issuing shares to investors. An S Corp must have no more
@@ -11,6 +11,20 @@ summary: A C Corp is a for-profit corporation that’s formed by filing articles
   and liabilities in order to keep track of any assets that are becoming
   obsolete and need to be replaced. Track your liability risks by keeping a list
   of all of your company commitments and obligations.
+intro: "Today’s small business owner faces an entirely different set of
+  challenges and opportunities than their predecessors did. The Internet, social
+  media, and mobile devices have all changed the way that businesses operate and
+  compete. Fortunately, these same technological advances have also made it
+  easier for businesses to operate on a smaller scale with less capital. Over
+  the last few decades, we’ve seen thousands of startups launch new products or
+  services with very little upfront costs by incorporating as a small business
+  instead of a larger corporation. There are many great benefits to operating
+  your business as a Small Business Corporation (S Corp) rather than as a
+  regular corporation (C Corp). When you operate your business as an S Corp, you
+  can take advantage of what’s known as “pass-through taxation.” A pass-through
+  entity is one where shareholders report their shares on their personal tax
+  returns rather than the company’s tax return. Here are ten helpful tips to
+  managing your small business finances:"
 ---
 
 ## Know the difference between an S Corp and a C Corp

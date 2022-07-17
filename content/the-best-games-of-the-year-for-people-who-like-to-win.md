@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for people who like to win
 createdAt: 2022-07-08T06:03:07.515Z
-updatedAt: 2022-07-17T07:27:53.060Z
+updatedAt: 2022-07-17T15:00:32.132Z
 category: gaming
 summary: Cavern Co-op is a thematic, story-driven co-op game in which you and
   your team of “caver” buddies explore a dark and dangerous cave. The game can
@@ -9,6 +9,15 @@ summary: Cavern Co-op is a thematic, story-driven co-op game in which you and
   a card game for 2-8 people that has you competing to build a bigger, better
   board game. Eclipse is a game about managing your ship and crew as you try to
   survive an extremely dangerous galaxy.
+intro: >-
+  Have you ever sat through a game of Pandemic with your friends and just
+  wanted to shake them? Or maybe you’ve played with people who were so scared of
+  losing that they refused to take any risks? Perhaps you’ve been on the other
+  side, acting like a jerk just to get your friend mad and force them to win.
+
+  Scrubs, control-freaks, cautious nerds— there are as many types of board gamers as there are games. It turns out there’s even more diversity than that. There are people who love word puzzles ( Codenames ), people who prefer their games fast and furious ( Smash Up ), and everyone in between.
+
+  If you know someone who loves Pandemic but isn’t so fond of losing, this list is for you. Here we have compiled some of the best strategy games released this year.
 ---
 
 ## Cavern Co-op

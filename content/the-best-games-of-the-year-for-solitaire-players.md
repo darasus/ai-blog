@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for solitaire players
 createdAt: 2022-07-08T06:01:55.472Z
-updatedAt: 2022-07-17T07:27:20.120Z
+updatedAt: 2022-07-17T15:00:32.102Z
 category: gaming
 summary: "Each card is a famous piece of music from classical composers, each
   with a related historical fact. You can play the game in three different
@@ -10,6 +10,16 @@ summary: "Each card is a famous piece of music from classical composers, each
   Classic Solitaire is great for beginners or for experienced solitaire players
   who want a simpler and less stressful game. Card Wars combines the fun and
   whimsy of the Cartoon Network show with solitaire."
+intro: >-
+  There are a million and one ways to play solitaire. The rules may be
+  simple, but there is actually so much strategy involved that it’s almost like
+  learning a whole new game every time you sit down to play. If you enjoy
+  playing solitaire games as much as we do, then you’ll probably also agree that
+  there are a lot of different variations of the game itself as well. Some
+  versions of solitaire require skill, luck, and a little bit of patience all at
+  once. 
+
+  These top rated games are some of the most fun and engaging ways to play this classic card game. Whether you prefer an easy version with higher rewards or something more strategic and challenging, these solitaire games will keep your interest from start to finish!
 ---
 
 ## Tunes of Glory

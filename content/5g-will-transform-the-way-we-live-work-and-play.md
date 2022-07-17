@@ -1,7 +1,7 @@
 ---
 title: 5G will transform the way we live, work and play
 createdAt: 2022-07-07T06:05:40.709Z
-updatedAt: 2022-07-17T07:24:38.243Z
+updatedAt: 2022-07-17T15:00:31.441Z
 category: technology
 summary: There is no set date for the global rollout of 5G networks. Commercial
   networks will not be up and running in their final form until 2019 or 2020. 5G
@@ -10,6 +10,12 @@ summary: There is no set date for the global rollout of 5G networks. Commercial
   Sprint have all announced plans to launch limited 5G services in select cities
   in the first half of next year. In Europe, Vodafone, Orange, Swisscom,
   Telefonica, BT, and Three have all signed on to participate in 5G trials.
+intro: >-
+  High-speed mobile internet is about to get a whole lot faster. The world
+  is on the cusp of an exciting new era in wireless technology, as the rollout
+  of fifth generation (5G) cellular networks begins across the globe.
+
+  Even though 4G LTE coverage is widespread and newer 5G networks aren’t quite ready for large-scale implementation just yet, carriers around the world are already testing out pre-Release 15 5G network services. Several national operators have already begun deploying their 5G network infrastructure, while others are set to follow suit in the coming months. The race is on to lead the way in this cutting-edge technology and reap the benefits that come with it. It’s a fast-moving space, so here’s everything you need to know about 5G and when you can expect it to launch where you live.
 ---
 
 ## What is 5G?

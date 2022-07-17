@@ -1,7 +1,7 @@
 ---
 title: Airlines are struggling to stay afloat amid the pandemic
 createdAt: 2022-07-07T06:05:40.555Z
-updatedAt: 2022-07-16T15:56:46.887Z
+updatedAt: 2022-07-17T15:00:30.833Z
 category: business
 summary: The pandemic is a result of the H1N1 virus, also known as “swine flu”
   This virus was first detected in Mexico in April 2009. It has already claimed
@@ -10,6 +10,16 @@ summary: The pandemic is a result of the H1N1 virus, also known as “swine flu�
   The CDC has advised against all but essential travel, particularly on
   commercial flights. This travel warning has led to a 35 percent decline in air
   travelers in the U.S. alone.
+intro: >-
+  Many airlines are struggling to stay afloat amid the pandemic. Many
+  business travelers are afraid to fly. Even those who aren’t afraid to fly are
+  thinking twice about whether it’s worth the risk of contracting flu on a
+  plane. As a result, airlines have seen ticket sales plummet and some are
+  struggling to remain profitable. 
+
+  Airlines across the world have responded by reducing their service and capacity, which has led to a decrease in air travel demand and left many airlines with unprofitable operations. Some airlines have even ceased operations completely until demand returns or they see an opportunity for sustainable growth once the pandemic ends. 
+
+  The global pandemic has impacted all airlines, not just those directly affected regions. Regardless of where you’re flying from or to, here’s what you need to know about your flight during this turbulent time:
 ---
 
 ## What’s Causing The Pandemic?

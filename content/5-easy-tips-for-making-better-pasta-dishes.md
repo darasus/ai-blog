@@ -1,7 +1,7 @@
 ---
 title: 5 easy tips for making better pasta dishes
 createdAt: 2022-07-07T06:05:39.847Z
-updatedAt: 2022-07-17T05:58:26.792Z
+updatedAt: 2022-07-17T15:00:29.188Z
 category: cooking
 summary: The most important thing to remember when making pasta is to use the
   best quality ingredients you can afford. This means using the highest quality
@@ -11,6 +11,15 @@ summary: The most important thing to remember when making pasta is to use the
   protein to your pasta, such as chicken, shrimp, or even beans. Mixing in some
   greens with other ingredients like basil, basil and parsley can also make it
   more nutritious as well.
+intro: >-
+  When it comes to Italian food, pasta is perhaps one of the most
+  well-known dishes from that region. Pasta and its many different variations
+  are loved all over the world, but they’re not always served as ideally as they
+  could be. Sometimes a simple pasta dish can end up being more disappointing
+  than it should be, mostly because the people making it don’t know how to
+  season it properly or add the right ingredients. 
+
+  This doesn’t mean you shouldn’t make pasta at home again ever again. In fact, with the right tips and tricks, you can make amazing pasta dishes in your own kitchen once again! The key here is to experiment and explore different alternatives for creating that perfect pasta dish you’ve been craving for so long. Here are some simple tips that will help you achieve exactly that:
 ---
 
 ## Use good quality ingredients

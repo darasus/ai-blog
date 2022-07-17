@@ -1,7 +1,7 @@
 ---
 title: "Litecoin: The Silver to Bitcoin's Gold"
 createdAt: 2022-07-07T16:54:26.448Z
-updatedAt: 2022-07-17T07:22:45.497Z
+updatedAt: 2022-07-17T15:00:31.163Z
 category: crypto
 summary: Litecoin was created in 2011 as a “fork” of the Bitcoin blockchain. The
   network is able to produce 84 million Litecoin tokens compared to Bitcoin’s 21
@@ -11,6 +11,16 @@ summary: Litecoin was created in 2011 as a “fork” of the Bitcoin blockchain.
   of inflation for Litecoin, meaning that the value of each token will slowly
   decrease over time. The best place to buy and store Litecoin is in a digital
   wallet.
+intro: >-
+  At the time of this writing, there are over 1,300 cryptocurrencies in
+  existence. That might sound like a lot, but it’s just a drop in the bucket
+  compared to what we will see in future. As we enter into a new age of digital
+  currencies and blockchain technology, we have seen an explosion of new tokens
+  rise up to challenge old favorites like Bitcoin and Ethereum.
+
+  Armed with the knowledge that many industries will inevitably adopt blockchain technology, developers have created their own unique solutions to accelerate adoption of this exciting new technology. While most of these coins are little more than experimental testnets for improving upon existing blockchains like Ethereum – others are legitimate competitors to the market leaders.
+
+  Red hot at present is Litecoin – an alternative version of Bitcoin with some key differences. Let’s take a deeper look at how this newer cryptocurrency stacks up against its older brother...
 ---
 
 ## What is Litecoin?

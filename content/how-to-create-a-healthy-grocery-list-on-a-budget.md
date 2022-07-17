@@ -1,7 +1,7 @@
 ---
 title: How to create a healthy grocery list on a budget
 createdAt: 2022-07-07T06:05:41.159Z
-updatedAt: 2022-07-16T16:12:20.546Z
+updatedAt: 2022-07-17T15:00:31.575Z
 category: health
 summary: The first step to creating a healthy grocery list is knowing what your
   family will eat. Beans and legumes are an excellent source of fiber and
@@ -10,6 +10,12 @@ summary: The first step to creating a healthy grocery list is knowing what your
   healthy fats. Healthy fats are important because they help your body process
   certain vitamins and they boost your metabolism. But you should limit the
   amount of saturated fats you eat in your diet.
+intro: >-
+  When you’re on a tight budget, it can feel like hitting up the grocery
+  store is one of the last things you can afford to do. However, there are ways
+  to make your food dollars go further and still eat well. 
+
+  Instead of making weekly trips to multiple stores and markets, plan a shopping day and hit one store at a time. Look for sales in that store before you go and stock up on foods that are good value. You might even consider investing in a membership card or becoming an insider or club member so you get vouchers or other discounts. Adding your own spin on some classic cheap meals will also help you save money without sacrificing nutrition. It just takes some planning and research to make it work!
 ---
 
 ## Build a Basic Food Item Grocery List

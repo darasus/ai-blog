@@ -1,7 +1,7 @@
 ---
 title: Top health benefits of meditation and how to get started
 createdAt: 2022-07-07T06:05:41.095Z
-updatedAt: 2022-07-16T16:11:47.939Z
+updatedAt: 2022-07-17T15:00:31.559Z
 category: health
 summary: Meditation has been proven to be as effective as medication when it
   comes to reducing stress and anxiety. Meditation has proven to increase
@@ -10,6 +10,16 @@ summary: Meditation has been proven to be as effective as medication when it
   self-criticism. Meditate is proven to help you cope with stress, as well as
   increasing your levels of oxytocin (a “love hormone”), you will be better
   equipped to handle stress and its negative effects on your immune system.
+intro: >-
+  Meditation is one of the most effective ways to bring your mind and body
+  back into balance. This ancient practice has been proven to help decrease
+  stress, anxiety and depression, while also improving memory and concentration.
+  In addition to these benefits, research shows that meditation can also have a
+  positive impact on your immune system, blood pressure and heart health by
+  lowering your levels of the stress hormone cortisol and lifting your levels of
+  oxytocin (a “love hormone”). 
+
+  In this article, we take a look at some of the top health benefits of meditation and how you can get started today.
 ---
 
 ## Reduce Stress And Anxiety

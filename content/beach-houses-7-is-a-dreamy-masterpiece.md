@@ -1,7 +1,7 @@
 ---
 title: "\"Beach House's '7' is a Dreamy Masterpiece\""
 createdAt: 2022-07-08T05:58:51.462Z
-updatedAt: 2022-07-17T07:26:28.406Z
+updatedAt: 2022-07-17T15:00:31.977Z
 category: culture
 summary: The first track, 'Dark Spring', is a gentle and slow-moving start to
   the record, full of dreamy sounds and rhythms that are almost indiscernible.
@@ -11,6 +11,12 @@ summary: The first track, 'Dark Spring', is a gentle and slow-moving start to
   sound. The sound is both warm and inviting, but also bittersweet, melancholic
   and even at times, somewhat haunting. It's a record that is perfect for rainy
   days, and definitely for dreaming.
+intro: >-
+  There are certain albums that feel like a personal gift. Not because
+  they're about you, but because they give you something that you need at
+  exactly that moment in time. '7' is one of those albums for me this year.
+
+  This is the seventh release from the Baltimore-based band and is as much a departure from their earlier work as their previous album 'Depression Cherry' was from its predecessor 'Bloom'. Where the former was dark and sultry, the latter felt light and airy. And now with this new record, we get something in between...
 ---
 
 ## Musically, '7' is a departure from their earlier work

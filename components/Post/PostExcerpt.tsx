@@ -1,4 +1,5 @@
 import capitalize from "capitalize";
+import { MDXRemote } from "next-mdx-remote";
 import React from "react";
 import { TPost } from "../../types/Post";
 import { PostMeta } from "./PostMeta";
@@ -9,13 +10,15 @@ interface Props {
 }
 
 export const PostExcerpt: React.FC<Props> = ({ post }) => {
-  const { createdAt, category, title, summary } = post;
+  const { createdAt, category, title, intro } = post;
 
   return (
     <>
       <PostMeta items={[createdAt, capitalize.words(category)]} />
       <PostTitle type="h2">{`${title}`}</PostTitle>
-      <div className="px-1">{summary}</div>
+      <div className="px-1">
+        <MDXRemote {...intro} />
+      </div>
     </>
   );
 };

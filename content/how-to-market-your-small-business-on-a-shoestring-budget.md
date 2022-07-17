@@ -1,7 +1,7 @@
 ---
 title: How to Market Your Small Business on a shoestring budget
 createdAt: 2022-07-07T16:45:41.146Z
-updatedAt: 2022-07-16T15:59:03.324Z
+updatedAt: 2022-07-17T15:00:30.940Z
 category: business
 summary: This is going to be your way to be the first thing you can’t have to be
   a member of the public’s place to be able to have a comment on what you’re
@@ -12,6 +12,14 @@ summary: This is going to be your way to be the first thing you can’t have to 
   by the first-and-third-person, or the third-person who will be the
   fourth-person in the history of the nation’S. If you want this to be ‘the
   first-person’
+intro: >-
+  There are a lot of things you need to do in order to launch your small
+  business. You need to come up with a name, make business cards, get an
+  accountant and bookkeeper, find suppliers for your inventory, and so on. All
+  of these things are going to cost you money. However, that doesn’t mean you
+  can’t launch the business...
+
+  The truth is that launching any kind of business – even one on a shoestring budget – requires some upfront investment. But don’t let that stop you from moving forward with your plans! There are plenty of ways to cut costs when starting a new business and still have everything you need to be successful. The trick is working smart rather than working hard. Here are some tips to help get your small business off the ground quickly and effectively while keeping costs as low as possible...
 ---
 
 ## Start With The Basics

@@ -1,7 +1,7 @@
 ---
 title: How to get moving when you don't have time for the gym
 createdAt: 2022-07-07T06:05:41.225Z
-updatedAt: 2022-07-16T16:12:52.653Z
+updatedAt: 2022-07-17T15:00:31.594Z
 category: health
 summary: Running is a great cardio exercise as it increases your heart rate and
   will help you burn fat. Incorporating strength training into your workout
@@ -11,6 +11,15 @@ summary: Running is a great cardio exercise as it increases your heart rate and
   non-traditional hours or take a class with your friends instead of joining a
   gym. There are lots of ways to get moving even if you don’t have time for the
   gym.
+intro: >-
+  New Year, same old resolutions. If you’re anything like the majority of
+  people, chances are that you have made the same resolution to get fitter,
+  healthier and happier this year as you did last year. But with a packed work
+  schedule, social calendar and everything else going on in your life it can be
+  difficult to find time to hit the gym or take up that new Zumba class you
+  signed up for last October but never went to again.
+
+  And yet so many of us do manage to get moving. Yes, it might involve setting your alarm an hour earlier than usual, waking up on Saturday morning instead of Friday night and putting in some serious dedication — but it is possible. So if you’re struggling to find time for the gym here are some creative ways how you can get moving when you don’t have time for the gym:
 ---
 
 ## Run On The Treadmill

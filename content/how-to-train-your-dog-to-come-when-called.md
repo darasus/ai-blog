@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Come When Called
 createdAt: 2022-07-08T06:25:04.676Z
-updatedAt: 2022-07-16T15:15:34.767Z
+updatedAt: 2022-07-17T15:00:29.883Z
 category: life
 summary: Most experts tell you that it is best to start this training as early
   as possible, preferably when your dog is still a puppy. If you have an older
@@ -9,6 +9,16 @@ summary: Most experts tell you that it is best to start this training as early
   to come when called is to use positive reinforcement. This means giving a
   reward for completing a certain action for completing your dog's task. If your
   dog doesn’t get it after a few times, you can try again another day.
+intro: >-
+  Do you have a well-trained dog? If not, are you looking for a way to
+  improve? Coming when called is an essential command that most pet owners
+  neglect. When your dog comes when called, it means he will come back to you
+  right away and not run away or chase something else. This will help keep your
+  dog safe, especially if he’s prone to running away or chasing objects or other
+  animals. It also helps with training and makes everyday interactions much
+  easier than having to constantly chase after your pet. 
+
+  But perhaps the most important reason why you should train your dog to come when called is because it might just save his life one day. In many cases, dogs that run away don’t get lost, they are just trying to find a way back home. Therefore, knowing how to train your dog to come when called can be the difference between him coming home safe and sound or getting lost forever. And let’s face it – nobody wants that!
 ---
 
 ## How To Train Your Dog To Come When Called – The Basics

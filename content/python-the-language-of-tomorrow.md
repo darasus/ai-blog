@@ -1,7 +1,7 @@
 ---
 title: Python - The language of tomorrow
 createdAt: 2022-07-09T06:19:28.314Z
-updatedAt: 2022-07-17T06:52:38.691Z
+updatedAt: 2022-07-17T15:00:30.456Z
 category: coding
 summary: Python is one of the easiest programming languages to learn and is used
   in many industries. Python is a very flexible programming language that means
@@ -11,6 +11,14 @@ summary: Python is one of the easiest programming languages to learn and is used
   graduate. Python developers love to hire Python developers when they need to
   hire someone new. It has great potential to work in finance, healthcare,
   technology, education, and science.
+intro: >-
+  So you want to get into programming but you aren’t sure where to start.
+  You know that there are many different programming languages out there and
+  that they can be used for different things, but which one is the best one to
+  learn first? Well, you might be surprised to learn that it’s Python. Why?
+  Because it’s the language of tomorrow. 
+
+  Now you might be thinking: Why does that make it the language of tomorrow? After all, shouldn’t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well… perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren’t so great for others. And when we take a look at what other programming languages won’t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let’s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!
 ---
 
 ## Python Is Easy To Learn

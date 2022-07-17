@@ -1,7 +1,7 @@
 ---
 title: How to get in shape for summer - tips for every fitness level
 createdAt: 2022-07-07T06:05:41.116Z
-updatedAt: 2022-07-16T16:12:06.399Z
+updatedAt: 2022-07-17T15:00:31.562Z
 category: health
 summary: Getting in shape takes time, and you will have setbacks along the way.
   Remember that getting in shape isn’t just about lifting weights or building
@@ -9,6 +9,15 @@ summary: Getting in shape takes time, and you will have setbacks along the way.
   while building muscle will slow down your progress. Make sure that you're not
   pushing yourself too hard on your fitness goals. Track what you eat and how
   much you move in order to get the most out of your workouts, and how you eat.
+intro: >-
+  When summer rolls around, everyone seems to want to look their best.
+  After all, it’s the season of tank tops, swimsuits, and short shorts. The
+  problem is that not everyone hits the gym year-round or has access to a gym
+  that fits their needs. If you tend to slack on your fitness game once the snow
+  begins falling and leaves start falling from the trees again, now is the time
+  to start making changes so that you’re ready for summer. 
+
+  Whether you’re looking for ways to get back in shape after a long winter hibernation or just hoping to avoid ending up in an unflattering bathing suit this summer, hitting the gym as often as possible is essential. But what if you don’t have a gym membership? Or what if you can only commit to working out at home? Luckily we have some great tips for how you can get in shape for summer no matter where you are.
 ---
 
 ## Know Your Limits

@@ -1,7 +1,7 @@
 ---
 title: '"Boyhood" is a coming-of-age story like no other'
 createdAt: 2022-07-08T05:57:55.737Z
-updatedAt: 2022-07-17T07:25:53.938Z
+updatedAt: 2022-07-17T15:00:31.958Z
 category: culture
 summary: The narrative of "Boyhood" is unusual because it is told from the
   inside out. Instead of following a protagonist from birth to adulthood,
@@ -10,6 +10,17 @@ summary: The narrative of "Boyhood" is unusual because it is told from the
   extremely detailed look at the lives of a single family over a relatively long
   time period. The film is extremely detailed, allowing viewers to see the
   seemingly unimportant moments that add up to form a childhood.
+intro: >-
+  The coming-of-age trope is one of the most frequently used narrative
+  devices in modern film. From "Stand by Me" to "Superbad," there are countless
+  stories about adolescents transitioning from innocent children into
+  independent adults. However, it is almost unheard of for a film to capture the
+  nuances and absurdities of growing up as effectively as Richard Linklater’s
+  “Boyhood.” The movie documents 12 years in the life of Mason (played by Ellar
+  Coltrane) and his family through a series of carefully crafted vignettes that
+  document the everyday minutiae of life without being cliché or cloying.
+
+  Like so many movies about kids growing up, "Boyhood" begins with young Mason being uprooted from his home in Texas and forced to migrate to new cities as he grows older. What makes this movie unique, however, is that all these major events occur over an 11-year period while Linklater was filming with the same actors at different points in their lives. The result is something like a documentary on human development — funny, sad, awkward, and everything in between — presented through the lens of an intimate cinematic experience.
 ---
 
 ## A coming-of-age story told from the inside out

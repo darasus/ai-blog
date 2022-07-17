@@ -1,7 +1,7 @@
 ---
 title: "NEM: The Smart Asset Crypto"
 createdAt: 2022-07-07T16:55:56.249Z
-updatedAt: 2022-07-17T07:22:45.968Z
+updatedAt: 2022-07-17T15:00:31.232Z
 category: crypto
 summary: NEM, or New Economy Movement, uses advanced system of smart contracts
   to manage almost any kind of commercial property. With smart assets, you can
@@ -11,6 +11,19 @@ summary: NEM, or New Economy Movement, uses advanced system of smart contracts
   NEM blockchain. Like other cryptocurrencies, NEM's developers designed their
   platform with a built-in mechanism that rewards people for contributing
   computing power.
+intro: New Economy Movement or NEM is a new blockchain technology that aims to
+  revolutionize the way digital assets are managed and recorded. NEM’s goal is
+  to build a new economy with new digital asset management principles. Different
+  from other cryptocurrencies like Bitcoin, Ethereum, or Neo – which use their
+  blockchains primarily as a payment ledger - the NEM blockchain uses an
+  advanced system of smart contracts CoIN tokens, and atomic swaps to manage
+  almost any kind of commercial property. The scope of its potential
+  applications extends far beyond financial transactions. The non-blockchain
+  application of NEM goes much further than just providing another medium for
+  buying and selling things online. Its developers have also created a “smart
+  asset” system that can be used on almost any business, organization, house,
+  car, boat – anything you can think of! Let’s take a look at what exactly makes
+  this crypto so special...
 ---
 
 ## NEM: What is it?

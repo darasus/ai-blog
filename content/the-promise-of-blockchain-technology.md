@@ -1,7 +1,7 @@
 ---
 title: The Promise of Blockchain Technology
 createdAt: 2022-07-07T16:58:06.806Z
-updatedAt: 2022-07-17T07:23:32.662Z
+updatedAt: 2022-07-17T15:00:31.320Z
 category: crypto
 summary: Blockchains are encrypted, distributed ledgers that use a consensus
   mechanism to verify and validate transactions. They can be open (public) or
@@ -11,6 +11,15 @@ summary: Blockchains are encrypted, distributed ledgers that use a consensus
   than traditional networks because it doesn’t have to be approved by a single
   authority. In order to realize these benefits, businesses will need to fully
   embrace blockchain as a core part of their operations.
+intro: >-
+  The world is becoming increasingly digital and connected. As a result,
+  businesses and consumers alike are recognizing the potential of Smart
+  Technologies. Organizations are looking to implement new solutions that can
+  streamline operations, cut costs, and drive innovation. In response to this
+  growing demand for Smart Technology, blockchain is emerging as a promising
+  solution.
+
+  Crypto-currencies like Bitcoin have received a lot of attention recently because they use blockchain technology as their foundation – something called a “proof-of-work” mechanism that validates transactions on the network through verification by many different users. The implications of blockchain go far beyond just these applications though, extending into almost every industry. In this blog post we will explore the opportunities that come from integrating blockchain in your business processes or software development life cycle (SDLC).
 ---
 
 ## What is Blockchain?

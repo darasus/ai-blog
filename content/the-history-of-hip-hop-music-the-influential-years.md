@@ -1,7 +1,7 @@
 ---
 title: "The History of Hip Hop Music: The Influential Years"
 createdAt: 2022-07-17T14:54:55.179Z
-updatedAt: 2022-07-17T14:54:55.179Z
+updatedAt: 2022-07-17T15:00:32.016Z
 category: culture
 summary: Hip hop as a music genre can trace its origins to the 1970s when DJs
   would mix together different records to create unique rhythmic sounds. The
@@ -11,6 +11,16 @@ summary: Hip hop as a music genre can trace its origins to the 1970s when DJs
   Notorious BIG becoming worldwide sensations. The internet saw a huge surge in
   the popularity of mixtapes, which feature artists that feature a mix of music
   and rapping.
+intro: >-
+  Hip hop music is a universal language. It has proven to be a way for
+  people from different cultures and backgrounds to come together and express
+  themselves. From its humble beginnings in New York City, hip hop has grown
+  into a worldwide sensation, with local scenes spawning in cities across the
+  globe. This article explores the history of hip-hop music, from its roots as
+  an underground movement in the early 1980s to its predominance as one of the
+  most popular genres today. 
+
+  Fans of rap music are undoubtedly aware that this style of music has origins in New York City during the 1970s and 1980s, but there is much more to know about how exactly it came about and how it evolved over time. From breakdancing to rapping, we’ll explore all of the elements that blended together to form what we now call “hip-hop” today.
 ---
 
 ## The Beginnings of Hip Hop

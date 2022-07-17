@@ -1,7 +1,7 @@
 ---
 title: How to use online coding resources
 createdAt: 2022-07-07T06:14:47.539Z
-updatedAt: 2022-07-17T06:33:58.734Z
+updatedAt: 2022-07-17T15:00:30.347Z
 category: coding
 summary: CodeAcademy is a great place to start if you don’t have any experience
   with coding at all. The site has interactive lessons that allow you to type in
@@ -10,6 +10,16 @@ summary: CodeAcademy is a great place to start if you don’t have any experienc
   university course, but often with less content. FreeCodeCamp is a free website
   that teaches people how to code in all different programming languages and
   topics.
+intro: >-
+  In an increasingly digital world, demand for skilled coders is only
+  growing. There are now more coding resources than ever before; however, this
+  can make it challenging to know where to start learning and developing your
+  skills. If you’re interested in coding but aren’t sure where to begin, you’re
+  not alone. Many individuals feel the same way about coding as you do.
+  Fortunately, there are many great resources to get started with coding and
+  continue learning what you need to know. 
+
+  These days it doesn’t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.
 ---
 
 ## CodeAcademy

@@ -1,7 +1,7 @@
 ---
 title: The best coding tips for beginners
 createdAt: 2022-07-07T06:12:36.979Z
-updatedAt: 2022-07-17T06:31:37.693Z
+updatedAt: 2022-07-17T15:00:30.260Z
 category: coding
 summary: If you want to be a great programmer, you've got to start with the
   basics. This is the foundation of everything that comes after, so it's
@@ -10,6 +10,17 @@ summary: If you want to be a great programmer, you've got to start with the
   classes regularly in person or online. Find a community of likeminded people
   who are trying to learn how to code. Commit to regularly practicing and follow
   through with the best way to learn.
+intro: There are plenty of reasons to learn how to code. This digital skill
+  gives you the power to create websites, apps or video games from scratch
+  without having to pay someone else to do it for you. Not only that, coding can
+  be used in lots of different industries and jobs. It’s also a great way to
+  make money online as a side project if you have other ambitions. However, if
+  you’ve never coded before it can seem like an impossible challenge. It isn’t
+  something you can Google or Netflix your way through — it requires dedication
+  and practice. Thankfully, there are plenty of free resources available on the
+  Internet that will help you get started with coding basics and build your
+  skills over time. The following article highlights some of the best tips for
+  beginners who want to learn how to code in 2018 and beyond.
 ---
 
 ## Learn how to code with the basics first

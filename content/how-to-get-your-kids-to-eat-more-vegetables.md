@@ -1,7 +1,7 @@
 ---
 title: How to get your kids to eat more vegetables
 createdAt: 2022-07-07T06:05:41.900Z
-updatedAt: 2022-07-16T16:20:54.221Z
+updatedAt: 2022-07-17T15:00:31.771Z
 category: health
 summary: You don’t have to give up on veggies completely if your child doesn't
   like them. Some veggies are just easier for kids to accept than others. You
@@ -10,6 +10,16 @@ summary: You don’t have to give up on veggies completely if your child doesn't
   your way up. Hiding vegetables in other foods is a great way to get your kids
   to eat more vegetables in their diet. Don't forget dessert. Dark chocolate has
   lots of antioxidants and will help boost your child's immune system.
+intro: >-
+  Raising kids can be tough, especially when it comes to feeding them
+  right.  In the battle of wills that is feeding your child healthy food,
+  parents are often the losers. Kids have an uncanny ability to detect weakness
+  and exploit it mercilessly, using their cuteness as a weapon of mass
+  destruction until they get what they want.
+
+  However, being a parent also gives you some advantages. You know your kid better than anyone else – probably even better than they know themselves – and you won’t hesitate to use that knowledge to get them eating veggies once and for all. 
+
+  Whether they’re old enough to understand or not, children need to understand that green leaves are not just something funny that vines climb on. They’re also packed with vitamins and minerals which will keep your little one healthy if they eat more of them. Here are some tips on how you can do exactly that...
 ---
 
 ## Find The Right Veggies

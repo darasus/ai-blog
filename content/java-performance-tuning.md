@@ -1,7 +1,7 @@
 ---
 title: Java performance tuning
 createdAt: 2022-07-09T06:27:22.065Z
-updatedAt: 2022-07-17T07:15:28.643Z
+updatedAt: 2022-07-17T15:00:30.613Z
 category: coding
 summary: You should measure your application’s performance before tuning the
   JVM. The first thing we’ll discuss when it comes to tuning is heap size.
@@ -10,6 +10,15 @@ summary: You should measure your application’s performance before tuning the
   Java code can help improve performance by eliminating the overhead of creating
   a new thread for every call it’�s created. Use API'path code in Java code that
   will be used often, and others will only be used occasionally.
+intro: >-
+  In the first article of this series, we discussed how Java performance
+  tuning can be complicated. The different factors that impact performance, and
+  how you can measure them. In this article, we’ll go over the specific
+  strategies for tuning your Java applications to get better performance. There
+  are many moving parts in a Java virtual machine and a variety of things that
+  can negatively impact performance. 
+
+  We’ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application’s performance.
 ---
 
 ## Measure Before You Tune

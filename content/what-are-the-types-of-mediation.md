@@ -1,7 +1,7 @@
 ---
 title: What are the types of mediation?
 createdAt: 2022-07-09T06:15:38.781Z
-updatedAt: 2022-07-16T15:50:10.246Z
+updatedAt: 2022-07-17T15:00:30.136Z
 category: life
 summary: Collaborative mediation goes beyond dispute resolution to explore ways
   of creating a partnership between the parties. Alternative dispute resolution,
@@ -11,6 +11,14 @@ summary: Collaborative mediation goes beyond dispute resolution to explore ways
   non-adversarial way. Tribal mediation is designed to deal with issues that are
   both intensely personal and highly charged. Mediation is an effective way to
   resolve conflicts and disputes without going to court.
+intro: >-
+  Mediation is a process of resolving conflict. People from different
+  backgrounds, beliefs, and values come together, break apart their differences
+  and find common ground. Mediation is an effective way to resolve conflicts and
+  disputes without going to court or getting into an adversarial situation where
+  the parties are at loggerheads with each other forever.
+
+  Instead of arguing back and forth, each side presents their case in a neutral environment. The mediator facilitates conversations by guiding participants through a series of questions and processes that lead to resolution. What we call mediation isn’t one single process but many variations of it. They can be broadly categorized into three types – Collaborative mediation, ADR (alternative dispute resolution) mediation or neutral third-party intervention; Family or couple mediation; And Tribal mediation.
 ---
 
 ## Collaborative Mediation

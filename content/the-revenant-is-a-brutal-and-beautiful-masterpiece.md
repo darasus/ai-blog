@@ -1,7 +1,7 @@
 ---
 title: '"The Revenant" is a brutal and beautiful masterpiece'
 createdAt: 2022-07-08T05:56:29.740Z
-updatedAt: 2022-07-17T07:25:35.826Z
+updatedAt: 2022-07-17T15:00:31.880Z
 category: culture
 summary: ‘The Revenant’ is a brutal and violent film, but it is also a beautiful
   tale that shows us that we must always always win the battle. Leonardo
@@ -10,6 +10,16 @@ summary: ‘The Revenant’ is a brutal and violent film, but it is also a beaut
   in the snowy wilderness. There are many themes to discover within the film,
   including the themes that we are all equals; no one is better than another,
   and that revenge is not the answer to our problems.
+intro: >-
+  There are movies that make you feel things, and then there are movies
+  that make you feel things so viscerally and intensely that you’re left
+  breathless. “The Revenant” is one of those films. Alejandro González Iñárritu
+  has crafted a brutal and beautifully shot masterwork about the lengths we will
+  go to for love and revenge.
+
+  Delving into themes of man vs nature, “The Revenant” features amazing performances from a cast that spends most of their screen time fighting the elements. Leonardo DiCaprio gives his best performance to date as Hugh Glass, a real-life explorer who was mauled by a bear while exploring the wilds of Montana in 1823. When he doesn’t die from his injuries, Glass embarks on an epic journey to find the men who left him for dead and exact justice upon them with his own hands.
+
+  The movie almost plays like a spiritual successor to “Inception” – it’s filled with symbolism, meaning, and philosophy. The only difference being this movie feels much more grounded in reality than anything else Inception had to offer. It may be due to the fact that it takes place in such an unforgiving environment; but regardless it does what Inception did not: create a story that makes you care about its characters in such an intimate way that you feel their pain just as much as their joys.
 ---
 
 ## The art of filming in the wild

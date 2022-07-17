@@ -1,7 +1,7 @@
 ---
 title: 10 investing tips for beginners
 createdAt: 2022-07-07T16:48:43.208Z
-updatedAt: 2022-07-17T05:53:09.352Z
+updatedAt: 2022-07-17T15:00:31.010Z
 category: investing
 summary: Diversification reduces risk by spreading your money across different
   types of investments so that if one sector goes down, you don’t lose
@@ -10,6 +10,14 @@ summary: Diversification reduces risk by spreading your money across different
   Investing is a long-term game, but you have to remember that the market will
   go up over time. Start a small amount of money each month, starting as soon as
   you can, is the best way to start growing your investments.
+intro: >-
+  There’s a lot of mystery and fear around investing your hard-earned
+  money. For many people, that means they never get started. But investing your
+  money instead of just saving it can have a big impact on your financial
+  future. In fact, time is the enemy of your money -- the sooner you begin
+  investing for your future, the better off you’ll be. 
+
+  Working with as little as $10 per month or an initial investment of $100 per month, you can begin to invest for your future. While it’s not necessarily easy to become a successful investor (it does take time and effort), there are simple things you can do to get started on the right foot with minimum risk. Below are 10 investing tips for beginners that will help set you on the right path toward achieving great returns on your savings:
 ---
 
 ## Diversification is key

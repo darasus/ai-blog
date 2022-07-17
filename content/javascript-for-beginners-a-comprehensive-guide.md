@@ -1,7 +1,7 @@
 ---
 title: "Javascript For Beginners: A Comprehensive Guide"
 createdAt: 2022-07-17T07:18:10.837Z
-updatedAt: 2022-07-17T07:18:10.837Z
+updatedAt: 2022-07-17T15:00:30.789Z
 category: coding
 summary: Javascript is the most widely used language in the world and 70% of
   websites make use of it. Learning Javascript will help you create more
@@ -12,6 +12,15 @@ summary: Javascript is the most widely used language in the world and 70% of
   the software development industry due to the growing demand for digital
   products. Learn the basics of HTML and CSS to be able to communicate with the
   browser.
+intro: >-
+  Everyone loves a challenge. The road to success is never an easy one, and
+  the same goes for learning new skills. If you have been thinking of learning
+  Javascript but are not sure where to start, this post will guide you through
+  the process and help you get there.
+
+  The programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it’s difficult to understand because of its weird syntax and strange naming conventions. But that doesn’t mean you can’t learn it!
+
+  It is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.
 ---
 
 ## Why learn Javascript?

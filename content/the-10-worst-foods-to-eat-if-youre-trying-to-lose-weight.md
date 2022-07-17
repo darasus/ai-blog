@@ -1,7 +1,7 @@
 ---
 title: The 10 Worst Foods to Eat if You're Trying to Lose Weight
 createdAt: 2022-07-09T06:37:54.079Z
-updatedAt: 2022-07-17T06:04:46.417Z
+updatedAt: 2022-07-17T15:00:29.349Z
 category: cooking
 summary: Eating lots of cheese can set you up for weight gain because you’ll be
   consuming a lot of fat and very few nutrients, which will slow down your
@@ -10,6 +10,16 @@ summary: Eating lots of cheese can set you up for weight gain because you’ll b
   Instead, try to find healthier alternatives, like turkey or chicken breast,
   which are lower in fat than bacon or sausage. Avoid ice cream since it’s high
   in calories and provides few nutrients that are helpful for losing weight.
+intro: >-
+  It’s a well-known fact that the way you eat can have a big impact on how
+  much weight you lose. But what you eat also plays a huge role in how quickly
+  or slowly your weight loss comes off. What you put on your plate is critical
+  because every food has a set amount of calories and specific nutrients — not
+  all foods are created equal. Some foods help you lose weight faster and keep
+  it off, while others have the opposite effect, either because they are high in
+  sugar, fat or calories, or because they have very little nutritional value. 
+
+  Such dietetic staples as broccoli and blueberries are great for losing weight. Other foods like chips and soda? Not so much. Keep reading to learn about the top 10 worst foods to eat if you’re trying to lose weight fast…
 ---
 
 ## Beans and legumes

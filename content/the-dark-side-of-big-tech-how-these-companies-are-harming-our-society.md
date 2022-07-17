@@ -1,7 +1,7 @@
 ---
 title: "The dark side of big tech: How these companies are harming our society"
 createdAt: 2022-07-08T06:05:41.331Z
-updatedAt: 2022-07-17T07:25:30.872Z
+updatedAt: 2022-07-17T15:00:31.471Z
 category: technology
 summary: The social media giant Facebook has been accused of harvesting user
   data and using it to target users with advertisements. Google uses your email
@@ -11,6 +11,14 @@ summary: The social media giant Facebook has been accused of harvesting user
   also come under fire for forcing consumers to upgrade to Windows 10 and taking
   away control from consumers. Instagram has been criticized of scanning
   uploaded images for drugs, guns, and other illegal activities.
+intro: >-
+  There’s no denying the impact that technology has on our lives. From
+  making communication easier and more accessible to improving productivity in
+  the workplace, the advantages of technology are seemingly endless. 
+
+  However, with this increased usage of technology also comes some downsides. In particular, there has been growing concern regarding how big tech companies are using their vast quantities of data to manipulate users for their own gain. These companies are harvesting user information and using it to further their own business interests, often at the expense of user privacy and well-being. 
+
+  These examples of how big tech is harming society will help you see these companies for what they really are: greedy corporations with little regard for consumer welfare other than how it impacts their bottom line.
 ---
 
 ## Facebook

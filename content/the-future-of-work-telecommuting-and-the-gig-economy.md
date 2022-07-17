@@ -1,7 +1,7 @@
 ---
 title: "The future of work: telecommuting and the gig economy"
 createdAt: 2022-07-07T06:05:40.733Z
-updatedAt: 2022-07-17T07:24:30.353Z
+updatedAt: 2022-07-17T15:00:31.441Z
 category: technology
 summary: Telecommuting is an alternative work arrangement that allows employees
   to perform their work away from the company’s physical location. It is
@@ -10,6 +10,14 @@ summary: Telecommuting is an alternative work arrangement that allows employees
   telecommuters are self-employed, while others work as employees of large
   firms. With fewer cars on the road and less energy consumption, the
   environment will benefit from increased telecommuting.
+intro: >-
+  Telecommuting and the gig economy are two of the most talked about trends
+  in the future of work. These are both new ways for people to find work that
+  better fits their lifestyle and interests.
+
+  Working from home, also known as telecommuting, has been around for decades but was only adopted by a small group of people because it was not widely accepted or understood. In the gig economy, workers find short-term jobs with different companies instead of working as an employee with one company for a long period.
+
+  Both trends impact how and where we work, who is looking for work, and what skills are needed to succeed in this environment. Are you ready to adapt your career in response to these trends? END
 ---
 
 ## Telecommuting

@@ -1,7 +1,7 @@
 ---
 title: "Amazon's dark side: The e-commerce giant's questionable business practices"
 createdAt: 2022-07-08T06:04:24.329Z
-updatedAt: 2022-07-17T07:24:41.585Z
+updatedAt: 2022-07-17T15:00:31.444Z
 category: technology
 summary: Amazon has been accused of paying its fulfillment center employees 15%
   less than the minimum wage. This is despite receiving millions of dollars in
@@ -11,6 +11,15 @@ summary: Amazon has been accused of paying its fulfillment center employees 15%
   anti-trust laws. Amazon tracks almost everything you do and knows more about
   you than you think. This has raised privacy concerns among consumer watchdogs
   who have described Amazon’s actions as “unwanted” and “alarming”
+intro: >-
+  Amazon has a reputation as being one of the most user-friendly and
+  trustworthy e-commerce sites. But while its user experience is second to none,
+  Amazon is not perfect. In fact, the company has a rather sinister side that
+  few customers are aware of.
+
+  e-Commerce giant Amazon recently opened its 10th fulfillment center in New Hampshire. The company now employs more than 7,000 people in New Hampshire and has invested over $300 million in the state. With over 566 million active users worldwide, it’s safe to say that Amazon is a well-known and trusted brand. 
+
+  However, if you look a little deeper into how Amazon operates as a business, you’ll discover some pretty sinister things about them – many of which you won’t read about in their press releases or see on their “About Us” pages. Here are some of the darker sides of this well-loved brand:
 ---
 
 ## Amazon pays employees 15% less than the minimum wage

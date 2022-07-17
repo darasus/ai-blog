@@ -1,7 +1,7 @@
 ---
 title: One pan dinners = fewer dishes
 createdAt: 2022-07-09T06:43:30.075Z
-updatedAt: 2022-07-17T06:22:37.882Z
+updatedAt: 2022-07-17T15:00:29.530Z
 category: cooking
 summary: There are many reasons why we love to make one pan dinners. The upfront
   time it takes to prepare these dishes is often significantly less. One pan
@@ -10,6 +10,13 @@ summary: There are many reasons why we love to make one pan dinners. The upfront
   recipes out there for one pan dinner recipes, so you have plenty of options.
   This one pan chicken recipe is easy to make and is great served with
   vegetables or a side salad.
+intro: >-
+  If you’re anything like us, you probably dread doing the dishes after a
+  long day. Why? Because doing the dishes is one of the most time-consuming and
+  tedious chores we have in our homes. That’s why we’ve discovered ways to
+  reduce that dreaded task and make it as painless as possible.
+
+  Now that we’re all living together again after going off to college, we’ve introduced a lot of new habits as roommates. One of our favorites is learning how to make one pan dinners on nights when everyone has somewhere to be after dinner. It means less time in the kitchen and fewer dishes to clean later on!
 ---
 
 ## Why we love one pan dinners

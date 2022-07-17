@@ -1,7 +1,7 @@
 ---
 title: Python - The beginner's guide
 createdAt: 2022-07-09T06:18:34.396Z
-updatedAt: 2022-07-17T06:52:28.022Z
+updatedAt: 2022-07-17T15:00:30.378Z
 category: coding
 summary: "Python is a general-purpose, high-level programming language that can
   be used for a variety of applications, from web development to scientific
@@ -11,6 +11,19 @@ summary: "Python is a general-purpose, high-level programming language that can
   programming languages. There are two types of variables in Python: simple
   variables and complex variables. Without data types, computer programs would
   be very limited in their functionality and usefulness."
+intro: Looking for a way to start your career as a software engineer or data
+  scientist? Learning Python can help you land that dream job. The demand for
+  Python programmers has grown tremendously in recent years, and this trend
+  shows no sign of abating. A recent study by analytics firm Oplesky found that
+  demand for Python developers rose by nearly 50 percent between 2016 and 2017.
+  That’s why learning how to code in Python is so important right now. This
+  beginner's guide will teach you everything you need to know about this
+  versatile programming language, including basic syntax, data types, operators,
+  variables, strings, lists and dictionaries, functions, modules and objects. If
+  you are an aspiring software engineer or data scientist interested in learning
+  how to code in Python fast so that you can get a job faster or advance your
+  career further as an intermediate programmer with this skill set than keep
+  reading!
 ---
 
 ## How to Install Python

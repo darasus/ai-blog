@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for families
 createdAt: 2022-07-08T06:01:24.425Z
-updatedAt: 2022-07-17T07:27:15.333Z
+updatedAt: 2022-07-17T15:00:32.095Z
 category: gaming
 summary: "The Reef: A New Adventure and Dice and Spiders: Snacking With Friends:
   Going Nuts: Going Bananas; Puzzles: Going Big City; The Gardens Between:
@@ -11,6 +11,15 @@ summary: "The Reef: A New Adventure and Dice and Spiders: Snacking With Friends:
   Life: Hidden Albets; Super Slips: Hidden Slips. Super Slime: Hidden Plies:
   Hidden Blips; Super Lips: Super Plies; Super Snakes: Super Snacks: Super
   Slippers; Super Balls: Super Balls. Super Slides: Super Plays."
+intro: >-
+  Word games, puzzles, board games, card games and video games. Gaming is a
+  wonderful way for families to connect and have fun together. Many parents
+  worry that kids who play video games for long periods of time are not
+  interacting with other people enough. But the truth is, there are lots of
+  great family-friendly video games out there that can be an enjoyable part of
+  your kid’s life. 
+
+  We present you with the best family-friendly games released in 2018: Word games, puzzles and board games. These are some of the most engaging titles we’ve played all year long. These are not educational or just slightly wholesome—these are the best family-friendly games released this year that we think everyone should own as soon as possible!
 ---
 
 ## Word Games

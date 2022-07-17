@@ -1,7 +1,7 @@
 ---
 title: Introduction to Hibernate
 createdAt: 2022-07-09T06:26:43.798Z
-updatedAt: 2022-07-17T07:14:56.414Z
+updatedAt: 2022-07-17T15:00:30.587Z
 category: coding
 summary: Hibernate is an open source, object-relational mapping mapping (ORM)
   implementation. The acronym ORM stands for Object-Relational Mapping. It’s a
@@ -10,6 +10,14 @@ summary: Hibernate is an open source, object-relational mapping mapping (ORM)
   classes, objects, inheritance, etc. Using this API, you can write code as if
   you are working with a local in-memory data structure but your code is
   actually accessing the database.
+intro: >-
+  High availability of services is a key success factor for enterprises and
+  service providers. In today’s world, there is an increased penetration of
+  mobile devices and other end user devices that need always-on services. So, it
+  becomes essential for enterprises to implement systems that can handle
+  frequent outages and are always available. 
+
+  This blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.
 ---
 
 ## What is Hibernate?

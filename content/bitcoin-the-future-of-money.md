@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin: The Future of Money?"
 createdAt: 2022-07-07T16:53:41.290Z
-updatedAt: 2022-07-17T07:22:38.351Z
+updatedAt: 2022-07-17T15:00:31.148Z
 category: crypto
 summary: Bitcoin is a digital currency that was first outlined in a white paper
   published in 2008. It’s the first example of a cryptocurrency, an asset that
@@ -10,6 +10,16 @@ summary: Bitcoin is a digital currency that was first outlined in a white paper
   cryptocurrencies (known as altcoins) with their own unique features and uses.
   As they are essentially software programs, new cryptocurrencies can be created
   at any time by anyone with the knowledge required to do so.
+intro: >-
+  Bitcoin is a digital currency that was first outlined in a white paper
+  published in 2008 and began being traded as an investment option in September
+  2017. It’s the first example of a cryptocurrency, an asset that can be easily
+  transferred between users (or "adapters") and also has a fixed supply. This
+  means there will only ever be 21 million Bitcoins in existence.
+
+  The creation of Bitcoin led to the emergence of many other cryptocurrencies (known as altcoins) with their own unique features and uses. As they are essentially software programs, new cryptocurrencies can be created at any time by anyone with the knowledge required to do so. These can range from small changes to major updates like Ethereum's switch from Proof-of-Work to Proof-of-Stake mining.
+
+  There are a number of factors that could continue to drive demand for Bitcoin, Ethereum, and other cryptocurrencies. Here’s what you need to know about investing in these assets:
 ---
 
 ## What is Bitcoin?

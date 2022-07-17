@@ -1,7 +1,7 @@
 ---
 title: Python - A language for everyone
 createdAt: 2022-07-09T06:18:23.745Z
-updatedAt: 2022-07-17T06:35:47.015Z
+updatedAt: 2022-07-17T15:00:30.374Z
 category: coding
 summary: Python is designed so that you don’t have to think about the rules and
   syntax of the language as you write your code. Python’s open-source nature
@@ -11,6 +11,19 @@ summary: Python is designed so that you don’t have to think about the rules an
   range of data types, including strings, numbers, lists, and dictionaries.
   Python also offers a whole host of services, including the ability to use
   various programming paradigms, and the ability. to use modules and packages.
+intro: >-
+  A programming language is only as good as the people who use it. It’s not
+  enough for a programming language to be perfect, complete and universal; if no
+  one uses it, it’s useless. That’s why the design of any new programming
+  language involves a lot of user research. The creators of Python — an
+  open-source general-purpose programming language first released in 1991 —
+  recognized from the start that if they were going to succeed, they needed to
+  create a language that was accessible and appealing to a wide audience. And
+  so, despite its many advanced features, Python remains transparent and
+  straightforward, with syntax that directly addresses the needs and abilities
+  of most programmers. 
+
+  Read on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!
 ---
 
 ## Interactive Programming and Scripting

@@ -1,7 +1,7 @@
 ---
 title: How to deal with a partner who's always on social media
 createdAt: 2022-07-08T06:24:27.196Z
-updatedAt: 2022-07-16T15:12:27.174Z
+updatedAt: 2022-07-17T15:00:29.802Z
 category: life
 summary: Dating apps are designed to make us feel like our love lives are always
   just a couple of swipes away. With so many options, it can be hard to decide
@@ -10,6 +10,16 @@ summary: Dating apps are designed to make us feel like our love lives are always
   waiting to meet them. Set aside time to be with each other, even if you’re
   living together. Don’t let your partner use dating apps as a way to treat
   others poorly.
+intro: >-
+  According to recent analysis by Statista, the average millennial spends
+  almost one hour every day on social media. That’s not just posting pictures
+  and updating our profiles, but also lurking on other people’s profiles. The
+  rise of dating apps like Tinder, Bumble, and Happn has only hastened this
+  tendency. In fact, an article in Fast Company suggests that millennials are so
+  preoccupied with online dating that they now spend more time on it than on any
+  other leisure activity besides watching TV or listening to music. 
+
+  On top of all this, many couples now meet their partners online – a third of marriages in the U.S. start with either partner meeting their future spouse through an online dating site or app. While it’s easy to feel pressured into signing up for these services if you don’t have friends who are single and looking for love, being in a relationship with someone who does use them regularly can be challenging at times.
 ---
 
 ## What’s so frustrating about dating apps?

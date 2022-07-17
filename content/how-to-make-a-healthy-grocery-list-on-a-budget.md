@@ -1,7 +1,7 @@
 ---
 title: How to make a healthy grocery list on a budget
 createdAt: 2022-07-07T06:05:42.194Z
-updatedAt: 2022-07-16T16:23:00.399Z
+updatedAt: 2022-07-17T15:00:31.826Z
 category: health
 summary: A big part of eating well on a budget is knowing where to shop for your
   groceries. Specialty stores carry a greater variety of organic and health
@@ -10,6 +10,16 @@ summary: A big part of eating well on a budget is knowing where to shop for your
   Buy in-season produce is one of the easiest ways to reduce the cost of healthy
   eating is to buy produce in season. Frozen produce can be very healthy,
   especially when it’s frozen soon after harvest.
+intro: >-
+  When it comes to eating healthy, the cost of good nutrition can shock
+  even the most frugal shopper. Given that healthy food is generally more
+  expensive than junk food, many people find it difficult to eat well on a
+  budget. In fact, a recent study found that American families with incomes
+  below $40,000 spend about 11 percent of their income on groceries. That’s
+  almost double the amount spent by households that earn more than $80,000 a
+  year.
+
+  Fortunately, eating right doesn’t have to be an expensive proposition. With some planning and diligence, you can create cheap grocery lists on a regular basis and keep your household in peak nutritional condition while doing so. The first step is making smart shopping choices when you go to the store. Here are some tips to help you stock up on cheap groceries:
 ---
 
 ## Know Where To Shop

@@ -1,7 +1,7 @@
 ---
 title: "Cardano: The Third Generation Crypto"
 createdAt: 2022-07-07T16:55:48.061Z
-updatedAt: 2022-07-17T07:22:49.601Z
+updatedAt: 2022-07-17T15:00:31.229Z
 category: crypto
 summary: Cardano is a decentralized public blockchain and cryptocurrency project
   featuring a new proof-of-stake consensus algorithm. Charles Hoskinson is the
@@ -10,6 +10,19 @@ summary: Cardano is a decentralized public blockchain and cryptocurrency project
   centralization as it allows for both miners (PoW) and transaction verifiers
   (PoS) to be on a single network. Achieving scalability is crucial for
   blockchain technology to go mainstream.
+intro: >-
+  Cardano is a new decentralized public blockchain and cryptocurrency
+  project. It comes from a team of developers calling themselves the Cardano
+  Foundation, based in Switzerland. Founded in 2015, the project began with an
+  earlier version of the blockchain code named “C Haskell” and later changed to
+  “Cardano”. The inspiration for this name came from the home of leading
+  scientist Galileo, who was born in Italy near the town of cardENDa .
+
+  The first generation of cryptocurrencies like Bitcoin and Ethereum are mainly based on proof-of-work consensus algorithms. While being able to support transactions and data storage, these blockchains have inherent limitations on how many transactions can be verified per second, as well as how large individual blocks can be before becoming too difficult to process efficiently.
+
+  Furthermore, there are issues with mining centralization that could lead to 51% attacks on smaller coins using PoW consensus algorithms alone. 
+
+  This is why Cardano has introduced a new second generation proof-of-stake (POS) consensus algorithm called Ouroboros that allows miners to also act as transaction validators. This creates a system where no single party can control majority stakeholder voting rights or tamper with transaction histories to double spend their digital assets.
 ---
 
 ## What is Cardano?

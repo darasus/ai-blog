@@ -1,7 +1,7 @@
 ---
 title: '"The Martian" is a triumph of science fiction'
 createdAt: 2022-07-08T05:56:23.082Z
-updatedAt: 2022-07-17T07:25:26.263Z
+updatedAt: 2022-07-17T15:00:31.878Z
 category: culture
 summary: "The Martian surface is an extreme environment: the temperature
   fluctuates wildly, the CO2 in the air is unbreathable, the UV is intense, and
@@ -10,6 +10,16 @@ summary: "The Martian surface is an extreme environment: the temperature
   communicate with Earth. The challenges of living on Mars tell us something
   valuable about ourselves: we’re resilient, creative, and curious. When faced
   with a challenge, we don’t give up: we find a way of solving it."
+intro: >-
+  Ridley Scott’s new movie, The Martian, is based on a novel of the same
+  name by Andy Weir. It’s about an astronaut called Mark Watney who gets
+  stranded on Mars after his crewmates think he’s dead and leave without him.
+  This might seem as just another case of annoying Hollywood
+  over-simplification: after all, we get so many bioengineered super-geniuses
+  with computer uplink implants that they can become trapped in remote locations
+  via their own stupidity. But there’s more to it than that.
+
+  In both book and film, the humanity of Watney comes out in everything he does to survive: logical thinking (how can I eat this potato again?), ingenuity (I need water; how do I distill it from our CO2 filters), courage (explore the abandoned outpost), and compassion (contact my family). He also has a lot of fun with his predicament, cracking jokes through his video log and even going disco.
 ---
 
 ## A brief primer on orbital mechanics

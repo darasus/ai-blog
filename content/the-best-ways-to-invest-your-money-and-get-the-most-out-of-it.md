@@ -1,7 +1,7 @@
 ---
 title: The Best Ways To Invest Your Money And Get The Most Out Of It
 createdAt: 2022-07-17T11:48:31.152Z
-updatedAt: 2022-07-17T11:48:31.152Z
+updatedAt: 2022-07-17T15:00:31.117Z
 category: investing
 summary: There are two ways to make money from investing - earning a return on
   your investment. The earlier you start saving, the more time your money has to
@@ -11,6 +11,16 @@ summary: There are two ways to make money from investing - earning a return on
   investments because they earn you a steady stream of interest payments.
   Precious metals such as gold, silver and platinum can be a good investment in
   times of uncertainty.
+intro: >-
+  When it comes to money, everyone has something to say. Everyone also has
+  a different opinion on how you should spend, save and invest it. Let’s face it
+  – with so much advice out there, it can be hard to know what to do with your
+  cash. But when you think about it, that’s exactly why we’re here – to help you
+  find the best way forward for your needs. Because whether you have a small
+  amount or a larger sum of money available right now, the sooner you start
+  investing wisely the better off you’ll be in the long run. 
+
+  We all want financial security and a comfortable retirement some day — but not many people are willing to put in the time and effort required to get there. That’s why we’ve got all the information you need right here so that you can start making smart decisions today and build a better financial future tomorrow.
 ---
 
 ## How To Invest Money: The Basics

@@ -2,7 +2,7 @@
 title: "Hip Hop Music With A Purpose: The Importance of Awareness in the Music
   Industry"
 createdAt: 2022-07-17T14:54:44.073Z
-updatedAt: 2022-07-17T14:54:44.073Z
+updatedAt: 2022-07-17T15:00:32.063Z
 category: culture
 summary: A lack of awareness in society can lead to a variety of problems and
   social issues. It's important that people are aware of the issues that need to
@@ -12,6 +12,16 @@ summary: A lack of awareness in society can lead to a variety of problems and
   environmental issues like health issues and mental health issues. This can be
   done through lyrics, song titles and even song titles that promote awareness
   and raise awareness.
+intro: >-
+  The music industry is vast, expansive, and unending. The number of
+  subgenres and variations within the larger genres is innumerable. It’s also an
+  industry that has recently come under fire for its lack of diversity and
+  representation in regards to gender, sexuality, religion, race, and so much
+  more. As a result of these issues becoming more apparent and publicized,
+  artists have been producing music with a purpose; focusing on important topics
+  and causes through their music. 
+
+  If you spend any time listening to rap or hip-hop music, you’ve probably noticed how many songs are about money, sex, drugs, partying—basically all the things you can do when you’re rich and famous. But there are some rappers who are using their fame to make a difference in the world by speaking out about problems that need to be addressed: social injustice, poverty, drug abuse, child exploitation and other serious issues. These artists are making a conscious effort to use their music to make a positive impact on society rather than just focusing on things like materialism or promiscuity.
 ---
 
 ## The Importance of Awareness in Society

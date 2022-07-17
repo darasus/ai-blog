@@ -1,7 +1,7 @@
 ---
 title: 10 things to know before investing
 createdAt: 2022-07-07T16:49:18.211Z
-updatedAt: 2022-07-17T05:55:59.532Z
+updatedAt: 2022-07-17T15:00:31.019Z
 category: investing
 summary: It’s important to not invest in the market based on emotions, such as
   fear or greed. Don’t buy and sell your investments too soon, you could miss
@@ -10,6 +10,16 @@ summary: It’s important to not invest in the market based on emotions, such as
   stock market is a risky proposition that can lead to significant gains over
   the long-term. It's important to have some resilience when dealing with the
   inevitable bumps in the road.
+intro: The stock market has been a great source of wealth creation for many
+  investors. Over the past decade, the S&P 500 index alone has created more than
+  200% value appreciation for its long-term investors. However, investing in the
+  stock market is not as simple as buying stocks and forgetting about them for
+  10 or 20 years. It requires constant monitoring, research, and analysis to
+  identify the right opportunities and manage risk. The Great Recession of
+  2007-08 is a perfect example of how risky investing can be. Many people who
+  were new to investing suffered significant losses when their investments
+  tanked during that time. If you’re thinking about investing your money in
+  stocks, here are 10 things you need to know before doing so.
 ---
 
 ## Know what you’re investing in

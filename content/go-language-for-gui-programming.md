@@ -1,7 +1,7 @@
 ---
 title: Go language for GUI programming
 createdAt: 2022-07-09T06:30:08.979Z
-updatedAt: 2022-07-17T07:19:19.342Z
+updatedAt: 2022-07-17T15:00:30.698Z
 category: coding
 summary: Go's simple syntax and readable code make it easier for developers to
   understand one another’s work and make changes as requirements change. The
@@ -10,6 +10,16 @@ summary: Go's simple syntax and readable code make it easier for developers to
   such as C and Java, which makes it easy for developers who have worked with
   these languages to transition to Go. Go is still in beta, so you should plan
   to keep up with new language features as they’re implemented.
+intro: >-
+  The Go programming language has become an attractive option for
+  developers working on software projects that require fast performance, ease of
+  deployment, and compact code.
+
+  Go was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.
+
+  Go is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It’s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding. 
+
+  In this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.
 ---
 
 ## Easy to Learn and Maintain

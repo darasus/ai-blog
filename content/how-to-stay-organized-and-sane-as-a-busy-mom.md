@@ -1,7 +1,7 @@
 ---
 title: How to stay organized and sane as a busy mom
 createdAt: 2022-07-07T06:05:40.207Z
-updatedAt: 2022-07-16T14:53:10.753Z
+updatedAt: 2022-07-17T15:00:29.666Z
 category: life
 summary: A list of checklists for your daily routine is a great way to stay
   organized as a busy mom. Cleaning as you go will ensure that messes don’t
@@ -10,6 +10,13 @@ summary: A list of checklists for your daily routine is a great way to stay
   keep you motivated to get things done. Schedule in time for self-care for
   yourself and carve out some time each week to do something that makes you feel
   relaxed and happy.
+intro: >-
+  So you’re a busy mom. It’s challenging and tiring, but also rewarding and
+  exciting. 
+
+  If you’re reading this article, it means you are willing to go the extra mile to make sure things run smoothly as a busy mom. After all, being organized is the key to sanity. 
+
+  Being organized doesn’t mean that everything has to be perfect and in its place all the time; it just means being intentional about keeping things tidy and streamlined so that you have fewer distractions and can get more done in less time. You see, staying organized isn’t about checking off boxes on an organizational checklist for your home or sharing with friends on social media; it’s about streamlining daily routines so that you have more time for what matters most.
 ---
 
 ## Weekly routines

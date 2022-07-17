@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on a budget
 createdAt: 2022-07-07T06:05:41.767Z
-updatedAt: 2022-07-16T16:19:49.225Z
+updatedAt: 2022-07-17T15:00:31.751Z
 category: health
 summary: Growing your own food is one of the best ways to save money, and it can
   also help you eat healthier. Shop the perimeter of the store where you will
@@ -10,6 +10,17 @@ summary: Growing your own food is one of the best ways to save money, and it can
   cheaper than the fresh variety and taste just as good. Beans and lentils are
   cheap and full of vitamins that can be used in many recipes, and are great
   additions to soups and stews.
+intro: >-
+  How much does buying healthy food cost? For some it might be a small
+  splurge, for others, a luxury they can’t afford. Either way, eating healthy on
+  a budget isn’t easy. Eating less processed and pre-packaged foods is one way
+  to cut costs and stay healthy at the same time. Another way is to get creative
+  and buy things when they are on special or use cheaper alternatives like
+  frozen or canned versions of fruits and veggies instead of the fresh ones.
+  There are many ways to do this that won’t leave you feeling deprived while
+  still giving your body what it needs to be healthy. 
+
+  For those who eat a lot of fast food or find themselves eating unhealthy because it’s cheaper than buying wholesome foods, these tips will help you make healthier choices while saving money at the same time.
 ---
 
 ## Plan Your Meals

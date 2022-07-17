@@ -1,7 +1,7 @@
 ---
 title: The Importance of Prioritizing Your Time
 createdAt: 2022-07-07T16:42:55.078Z
-updatedAt: 2022-07-16T15:57:08.398Z
+updatedAt: 2022-07-17T15:00:30.894Z
 category: business
 summary: If you want to be productive and effective, you have to prioritize the
   parts of your life that are most important. This ensures that you are spending
@@ -11,6 +11,15 @@ summary: If you want to be productive and effective, you have to prioritize the
   incredibly useful for helping you to focus on the most important tasks at
   hand. Rituals and block off certain times of the day when you are prone to
   distractions, it can be helpful to prioritize your time.
+intro: >-
+  Are you an ultra-productive person who can get so much done in a day that
+  it leaves you wondering how you managed to do all of it? Or do you struggle to
+  find time for everything and end up sacrificing something as a result? The
+  answer probably lies somewhere in the middle. 
+
+  There are some people who have naturally high levels of productivity and others who struggle to manage their time. But regardless of where you fall on this spectrum, anyone can learn to become more productive by learning how to prioritize your time.
+
+  It’t not just about finding ways to squeeze more hours into the day, but changing your habits so that they help you achieve more with less stress and strain.  In this blog post, we will explore why prioritizing your time is so important, the different types of time management out there, and what steps you can take today to become more productive tomorrow.
 ---
 
 ## What is the importance of prioritizing your time?

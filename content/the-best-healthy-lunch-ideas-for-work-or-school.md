@@ -1,7 +1,7 @@
 ---
 title: The best healthy lunch ideas for work or school
 createdAt: 2022-07-07T06:05:42.038Z
-updatedAt: 2022-07-16T16:21:35.508Z
+updatedAt: 2022-07-17T15:00:31.781Z
 category: health
 summary: There are lots of easy ways to make your food more exciting without
   adding too many calories or fat. By adding just a few simple ingredients and
@@ -10,6 +10,15 @@ summary: There are lots of easy ways to make your food more exciting without
   creamy dressings that can make your lunch less healthy. Brighten up your
   sandwich with crunchy toppings and add some greens to your meal. Avoid
   high-fat ingredients, like fried foods and cheese.
+intro: >-
+  Did you know that those little brown bag lunches we made in elementary
+  school are now a thing again? Super cool, right? Well, sort of. If you’re like
+  most adults and teens, you probably don’t have time to pack your own lunch
+  every day. Instead, many of us rely on fast food or convenience stores for our
+  midday meal. While this can be an affordable and convenient option, these
+  places often offer unhealthy food loaded with salt and fat. 
+
+  Fortunately, there are more healthy options out there than you might think. These days there are many drive-through restaurants that serve much healthier versions of the standard fast food menu items. Cafeterias in offices, schools, libraries and other public places also tend to offer healthy choices as well as salad bars and other stations where you can make your own healthy salads or sandwiches.
 ---
 
 ## The best part? You can make a healthy lunch in only five minutes.

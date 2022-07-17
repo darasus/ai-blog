@@ -1,7 +1,7 @@
 ---
 title: How to cope with stress eating
 createdAt: 2022-07-07T06:05:41.654Z
-updatedAt: 2022-07-16T16:18:57.988Z
+updatedAt: 2022-07-17T15:00:31.697Z
 category: health
 summary: Eating a healthy diet can help reduce stress levels in the first place,
   so it’s important to know what you’re putting into your body. Eating complex
@@ -11,6 +11,15 @@ summary: Eating a healthy diet can help reduce stress levels in the first place,
   been replenished. Try planning your meals ahead of time to reduce the urge to
   binge. Develop healthy habits such as regular exercise and sleep, at least
   seven hours of sleep each night.
+intro: >-
+  Stress eating is normal, but it’t not good for your health or your
+  figure. It can be challenging to avoid stress eating at times, especially when
+  you’re hungry and stressed out. Luckily, there are many ways to cope with
+  stress eating while also maintaining a healthy diet and lifestyle. 
+
+  To reduce the risk of stress eating in the future, consider setting aside time every day to practice mindfulness. Mindfulness involves present-moment awareness and acknowledging your thoughts and feelings without judgment. Practicing mindfulness helps you become more aware of what you’re feeling so that you can identify the first signs of stress eating before it gets out of hand.
+
+  In addition to mindfulness, these strategies will help you cope with stress eating while also reducing its likelihood in the future.
 ---
 
 ## Plan Your Meals

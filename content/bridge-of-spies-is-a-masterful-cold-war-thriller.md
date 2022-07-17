@@ -1,13 +1,23 @@
 ---
 title: '"Bridge of Spies" is a masterful Cold War thriller'
 createdAt: 2022-07-08T05:57:01.690Z
-updatedAt: 2022-07-17T07:25:34.042Z
+updatedAt: 2022-07-17T15:00:31.901Z
 category: culture
 summary: The author of this article has been asked to share his knowledge of the
   events in the U.S. to share with the public. The group has been involved in a
   series of high-profile events in New York City, Washington, D.C. and New
   Jersey. The event is being held in the United States at 10 p.m. ET on Monday,
   July 1, and July 4, at 10 a.m., July 6, July 3, July 5, July 10, July 6.
+intro: >-
+  With the specter of mutually assured destruction looming over every
+  global crisis and proxy conflict, the Cold War is perhaps one of the most
+  fraught periods in history. There are no heroes in this period—just two
+  paranoid superpowers scrambling to maintain the upper hand, irrespective of
+  cost. The inherent darkness and moral ambiguity of that period makes for
+  fantastic fodder for any storyteller looking to immerse their audience in a
+  stark world where there are no easy answers.
+
+  The 1980s was a peak moment in that tension—from Reagan’s “evil empire” speech and constant saber-rattling, to the U.S.-backed Contra War against Communist rebels in Nicaragua and an escalation of tensions between NATO and the USSR all around the globe. In brief: It was not a good time to be alive if you believed in world peace. Thankfully, Hollywood had spies as intrepid as Tom Hanks ready to leap into action against those dastardly Soviet Commies whenever they needed someone captured or rescued from behind enemy lines.
 ---
 
 ## “Bridge of Spies” is a beautiful and restrained spy thriller

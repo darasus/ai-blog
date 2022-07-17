@@ -1,7 +1,7 @@
 ---
 title: How to deal with a partner who's always working
 createdAt: 2022-07-08T06:24:02.556Z
-updatedAt: 2022-07-16T15:11:03.611Z
+updatedAt: 2022-07-17T15:00:29.794Z
 category: life
 summary: Co-working is a way of working that brings together people from
   different companies and industries in a shared space to exchange ideas and
@@ -10,6 +10,13 @@ summary: Co-working is a way of working that brings together people from
   for them to decompress when they come home. Set boundaries and don’t be a
   martyr, even if your partner is working a lot, you still have to do your fair
   share around the house and with the kids.
+intro: >-
+  Working too much is a problem many people struggle with — but it’s even
+  more challenging when you’re in a relationship with someone who has the same
+  work ethic. If your partner usually leaves for work before you even get out of
+  bed, or isn’t home until after you’re already in bed, things can get tricky.
+
+  Working from home, flexible hours and remote working are all buzzwords in today’s labor market. Companies are becoming increasingly aware that it isn’t just about how much time employees spend at the desk but also about what they achieve during that time. A Gallup poll found that telecommuting or working from home is growing in popularity among professionals across most industries. Working remotely makes it easier to find jobs, negotiate schedules and live without a commute.
 ---
 
 ## What Is Co-Working?

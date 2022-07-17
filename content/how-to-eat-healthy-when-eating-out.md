@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy when eating out
 createdAt: 2022-07-07T06:05:41.698Z
-updatedAt: 2022-07-16T16:19:10.074Z
+updatedAt: 2022-07-17T15:00:31.716Z
 category: health
 summary: When possible, choose dishes that are packed with fiber and protein.
   Whole grains are a great source of fiber, B vitamins, iron, and other
@@ -10,6 +10,16 @@ summary: When possible, choose dishes that are packed with fiber and protein.
   burgers that come with 80% meat or less, and be careful with your bun and
   condiment choices. Avoid heavy white breads and load up on veggies and lean
   proteins instead of heavy breads.
+intro: >-
+  Eating out is a great way to treat yourself, your friends or family
+  members, and also a great way to save time on busy weekdays. But it’s also one
+  of the trickiest ways to navigate a healthy diet. Many restaurant meals tend
+  to be high in calories and fat, sodium, and cheap unhealthy carbohydrates like
+  white flour and sugar.
+
+  If you manage your expectations going in, however, it’s possible to eat out healthfully—even if you do it often. The key is knowing how to order effectively when eating at restaurants. Make the right choices more often than not, and you can still enjoy eating out while keeping your diet in check. 
+
+  The tips below will help you make better decisions when eating out.
 ---
 
 ## Go for protein and fiber

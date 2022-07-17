@@ -1,7 +1,7 @@
 ---
 title: The top 5 games of the year
 createdAt: 2022-07-08T06:00:20.345Z
-updatedAt: 2022-07-17T07:26:46.526Z
+updatedAt: 2022-07-17T15:00:32.074Z
 category: gaming
 summary: These are the games that have received the most praise from gamers and
   critics alike. They're not only fun and interesting to play, but they also
@@ -10,6 +10,16 @@ summary: These are the games that have received the most praise from gamers and
   played from a third-person perspective. PlayerUnknown’s Battlegrounds is a
   fight to the death between 100 players and the goal of the game is to be the
   last man standing.
+intro: "Games are a major part of our lives. We spend lots of time playing them,
+  talking about them with friends and family, thinking about them and even
+  dreaming about them. The games we play also reflect who we are as individuals.
+  They serve as a mirror that reflects back an image of our unique
+  personalities. Each one of us has different preferences and taste in games.
+  There’s also a lot to choose from, too: There are so many video games today
+  that no individual can ever hope to try them all. That said, there are some
+  great ones out there and they come in all shapes and sizes: Action-adventure,
+  shooters, RPGs; you name it! Here is a list of the top 5 games this year that
+  you must play if you haven’t already:"
 ---
 
 ## 5. Horizon Zero Dawn

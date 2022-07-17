@@ -1,7 +1,7 @@
 ---
 title: Breakfast ideas beyond cereal + oatmeal
 createdAt: 2022-07-09T06:43:00.442Z
-updatedAt: 2022-07-17T06:21:37.522Z
+updatedAt: 2022-07-17T15:00:29.513Z
 category: cooking
 summary: The best breakfast food is packed with protein and other nutrients,
   like vitamins B and D, choline, and iron. Eggs are incredibly versatile and
@@ -10,6 +10,14 @@ summary: The best breakfast food is packed with protein and other nutrients,
   like apples, pears, or bananas, to add to your bowl for extra fibre and
   sweetness. Bowls of mixed veggies are full of fibre, vitamins, and minerals
   that are essential for your body to function properly.
+intro: >-
+  When you’re young, you don’t really think about how much time you spend
+  on food. You just eat because it’s there and because your stomach is rumbling.
+  But, as you get older and priorities change, the way you see food changes too.
+  Breakfast becomes a more important meal of the day since it’s the first one of
+  the day. 
+
+  Let’s be real: Most people think about breakfast as cereal or oatmeal as their go-to meal. Why? Because these are easy to prepare and serve when we rush out of the house to catch our bus or school shuttle in the morning. But there are other ways to eat a good breakfast that won’t take up too much of your time or space in the kitchen. Here are some ideas for eating a healthy breakfast every day that doesn’t involve cereal or oatmeal…
 ---
 
 ## Eggs: The best breakfast food

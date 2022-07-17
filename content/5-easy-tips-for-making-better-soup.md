@@ -1,7 +1,7 @@
 ---
 title: 5 easy tips for making better soup
 createdAt: 2022-07-07T06:05:40.097Z
-updatedAt: 2022-07-17T06:00:44.740Z
+updatedAt: 2022-07-17T15:00:29.202Z
 category: cooking
 summary: There are hundreds of recipes for every type of soup imaginable, but at
   the end of the day, the most important thing in any soup is the ingredients.
@@ -10,6 +10,14 @@ summary: There are hundreds of recipes for every type of soup imaginable, but at
   on the stovetop for 10-15 minutes. Add your aromatics at the beginning of the
   pot from the very beginning. Slurp while you’re making it, it’s essential to
   creating delicious soup.
+intro: >-
+  Making a pot of soup is one of the easiest home-cooked meals to make. You
+  put some ingredients in a pot, bring it to a boil, and whirl it around for a
+  while. There’s not much more to it than that. 
+
+  Making great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren’t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.
+
+  If you’ve only ever made soup as an afterthought—something to keep in the pantry when you don’t feel like eating leftovers—it might be time to give it another look. Making great soup isn’t difficult once you know how. Here are 5 easy tips for making better soup:
 ---
 
 ## Use quality ingredients

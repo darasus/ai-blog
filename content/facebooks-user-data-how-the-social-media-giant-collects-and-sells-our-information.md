@@ -2,7 +2,7 @@
 title: "Facebook's user data: How the social media giant collects and sells our
   information"
 createdAt: 2022-07-08T06:04:35.215Z
-updatedAt: 2022-07-17T07:24:53.463Z
+updatedAt: 2022-07-17T15:00:31.445Z
 category: technology
 summary: "Facebook collects and sells user data to advertisers. The more data
   Facebook has about you, the more effective these ads will be. Facebook can
@@ -12,6 +12,15 @@ summary: "Facebook collects and sells user data to advertisers. The more data
   Facebook promises users that it will not sell their Social Security number,
   credit card information, health information, or financial information, but it
   does sell other information."
+intro: >-
+  Social media is a double-edged sword. While these platforms can be
+  wonderful tools for keeping in touch with friends and family, they also come
+  with risks — especially when it comes to your personal data. Facebook users
+  can now read again and again how their data was misused by the company and its
+  partners. There are constant scandals around this subject. Social media users
+  need to be more conscious about what they share and how they share it. 
+
+  Unfortunately, most of us don’t read user agreements or privacy policies until something goes wrong—and that’s too bad, because those documents often contain important information about how your personal information is going to be used by that service provider. In many cases, you’ll see an “OK” button beside the user agreement, meaning you must agree to continue using the app or site if you want to proceed any further.
 ---
 
 ## Facebook’s business model

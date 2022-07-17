@@ -1,7 +1,7 @@
 ---
 title: The ultimate guide to making pizzas at home
 createdAt: 2022-07-07T06:05:40.053Z
-updatedAt: 2022-07-17T06:00:07.722Z
+updatedAt: 2022-07-17T15:00:29.200Z
 category: cooking
 summary: The best pizzas are made with a thin crust that’s chewy, crispy, and
   slightly oily on the outside, but soft and tender inside. A good pizza dough
@@ -9,6 +9,17 @@ summary: The best pizzas are made with a thin crust that’s chewy, crispy, and
   ingredients. The most important thing you can do is knead the dough well, so
   knead it until it's soft and smooth, but not sticky. If you’re serious about
   making great pizzas at home, you'll need to invest in the right equipment.
+intro: When it comes to eating out, the humble pizza remains one of the most
+  popular meal choices. After all, who doesn’t like a hot, cheesy, gooey
+  personal-sized pie? But with so many fast-food and casual chains offering
+  their own versions of this classic dish, it can be hard to know where to find
+  the best pizza when you want it. Luckily, thanks to rising demand for home
+  delivery and takeout services as well as growing interest in gourmet cooking
+  and home-delivery meal kit services such as Blue Apron, home-cooked pizzas are
+  easier than ever to make at home. And whether you favor red sauce or white
+  sauce; classic Italian toppings or something more exotic; traditional thin
+  crust or super thick pan or even cauliflower crust – this guide will show you
+  how.
 ---
 
 ## What’s the secret to a great home-cooked pizza?

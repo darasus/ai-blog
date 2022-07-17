@@ -1,7 +1,7 @@
 ---
 title: The Rise of China
 createdAt: 2022-07-07T06:16:46.019Z
-updatedAt: 2022-07-17T05:49:18.484Z
+updatedAt: 2022-07-17T15:00:29.663Z
 category: politics
 summary: China is one of the oldest civilizations in the world, with records of
   civilization going back over 4,000 years. The first time China was recognized
@@ -10,6 +10,13 @@ summary: China is one of the oldest civilizations in the world, with records of
   influence. The Chinese government implemented the Great Leap Forward, a
   campaign of economic development and rapid industrialization. China emerged
   from the Second World War as one of world's most populous countries.
+intro: >-
+  For thousands of years, China has remained one of the most important and
+  influential civilizations in the world. Even when it fell behind other
+  societies in terms of technological and scientific advancement, it always
+  recovered. Nowhere is this more apparent than today. 
+
+  For the past few centuries, China has slowly but surely been climbing back from a period of relative obscurity. Today, it is once again one of the most powerful countries on Earth, with an economy larger than that of India and a population bigger than any other country except for India and Nigeria. Moreover, as numerous industry analysts and experts predict even further growth in the coming decades. So what exactly has led to this massive resurgence?
 ---
 
 ## A brief history of China

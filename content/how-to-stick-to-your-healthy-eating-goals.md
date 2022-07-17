@@ -1,7 +1,7 @@
 ---
 title: How to stick to your healthy eating goals
 createdAt: 2022-07-07T06:05:41.476Z
-updatedAt: 2022-07-16T16:17:12.801Z
+updatedAt: 2022-07-17T15:00:31.668Z
 category: health
 summary: New Year is the perfect time to resolve to improve your health and
   eating habits. The important thing is to set realistic and attainable goals
@@ -10,6 +10,15 @@ summary: New Year is the perfect time to resolve to improve your health and
   work with or join an online forum where you can share your experience and
   advice with others. Follow healthy eating bloggers on social media who can
   inspire and motivate you on your journey.
+intro: >-
+  The New Year brings new resolutions and the challenge to stick to them.
+  But how can you make sure you succeed this time? Planning and preparation are
+  key to any endeavor, including sticking to your healthy eating goals in the
+  New Year. Thinking ahead and making a plan will help you avoid pitfalls and
+  stay on track. After all, it’s not about failing once but rather keeping
+  failure at bay so it doesn’t creep up again next year. 
+
+  Many people struggle with their eating habits because they lack structure or fail to plan ahead. That’s why creating a strategy is essential if you want to maintain this commitment for good. Whether it’s going on a diet, cutting out certain foods or reducing your intake of fats, proteins or carbs – there are different ways how you can achieve your goals. Here are some helpful tips:
 ---
 
 ## Make a plan

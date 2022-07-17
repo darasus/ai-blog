@@ -1,7 +1,7 @@
 ---
 title: The best recipes for using up leftover cooked
 createdAt: 2022-07-07T06:05:40.161Z
-updatedAt: 2022-07-17T06:04:35.110Z
+updatedAt: 2022-07-17T15:00:29.347Z
 category: cooking
 summary: Chicken and Rice Casserole recipe takes just 20 minutes to prepare.
   Baking the casserole in individual ramekins gives you smaller portions, so you
@@ -10,6 +10,14 @@ summary: Chicken and Rice Casserole recipe takes just 20 minutes to prepare.
   group or planning a special occasion or having friends over for dinner. The
   recipe is easy to prepare, especially if you use a combination of cooked brown
   rice and leftover cooked white rice.
+intro: >-
+  Did you know that leftovers are the secret to great home-cooked meals?
+  Think about it: Great home cooks know how to make leftovers taste even better.
+  They use them to create new and different meals that everyone will love,
+  instead of eating the same thing again and again until they can’t stand it any
+  more.
+
+  That’s why we’ve come up with this list of the best recipes for using up leftover cooked chicken. These recipes are quick and easy to make, but they also tick all the right boxes in terms of taste, nutrition and ease of preparation. In other words, not only do they all use up your leftovers in a delicious way, but they also make your life easier so you won’t feel like you have to avoid cooking another chicken dish again just because you’re fed up with leftovers!
 ---
 
 ## Chicken and Rice Casserole

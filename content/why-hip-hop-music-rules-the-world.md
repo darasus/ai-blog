@@ -1,7 +1,7 @@
 ---
 title: Why Hip Hop Music Rules the World
 createdAt: 2022-07-17T14:54:39.924Z
-updatedAt: 2022-07-17T14:54:39.924Z
+updatedAt: 2022-07-17T15:00:32.025Z
 category: culture
 summary: The genre’s lyrics are littered with smart metaphors, witty similes and
   references to pop culture; all of which only make the music more enjoyable.
@@ -11,6 +11,18 @@ summary: The genre’s lyrics are littered with smart metaphors, witty similes a
   of different cultures, with vibrant colors and bold patterns being staples of
   the scene. It is a vibrant subculture that has helped millions of young people
   feel more empowered and connected.
+intro: >-
+  In the aftermath of the whirlwind that was 2017, it’s becoming
+  increasingly apparent that hip-hop music is the most important genre in
+  contemporary culture. Today, there are more ways than ever to access and enjoy
+  hip-hop music; from streaming services like Spotify and Apple Music to video
+  sharing sites like YouTube, SoundCloud and Vimeo. Indeed, it’s safe to say
+  that hip-hop has infiltrated almost every aspect of modern life... so why does
+  this subculture continue to flourish? 
+
+  Hip hop is a brilliant hybrid of different genres, with influences stemming from blues, gospel, jazz, reggae and rock. Its explosive popularity can be attributed to a number of factors: its wordplay ethos; its roots as an African-American art form; its non-commercial nature as an underground scene; and its potential as a unifying force for disenfranchised youth across the globe.
+
+  Let's take a look at why Hip Hop rules the world…
 ---
 
 ## Wordplay is at the heart of hip-hop

@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Most Iconic Cat Photos of All Time
 createdAt: 2022-07-09T06:12:29.871Z
-updatedAt: 2022-07-16T15:48:14.364Z
+updatedAt: 2022-07-17T15:00:30.015Z
 category: life
 summary: The Final Words are a look back at some of the most iconic cat photos
   in history. This list includes the iconic photo of the famous Smashing
@@ -10,6 +10,14 @@ summary: The Final Words are a look back at some of the most iconic cat photos
   the subject of wild speculation and conspiracy theories since it was first
   published in 1972. It’s amazing how a simple photo can loom so large in the
   minds of so many.
+intro: >-
+  Have you ever sat and wondered how much influence a single photo can
+  have? The answer is: quite a lot. A single photograph has the power to change
+  opinions, shape perceptions, and even alter the course of history. 
+
+  Let’s take for example, the most iconic cat photos of all time; whether you love them or hate them, their fame cannot be denied. These are images that have been shared on social media sites and printed on t-shirts and posters across the globe. And we think they’re pretty iconic!
+
+  Any cat lover will tell you that cats have a way of making their presence known in an almost ethereal manner. Perhaps it is because cats are so often independent and solitary creatures who keep to themselves when they wish to remain undetected; or maybe it is because as fellow feline lovers know personally, there is something about these sly little creatures that seem to tap into some strange wavelength only accessible to them. Whatever the reason may be, there’s no denying that cats have left an everlasting mark on society through their ability to conquer our imaginations with just a simple look or gesture.
 ---
 
 ## With that being said, we wanted to take a moment today to pay homage to the kitty-world by taking a look back at some of the most iconic cat photos in history.

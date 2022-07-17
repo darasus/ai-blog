@@ -1,7 +1,7 @@
 ---
 title: 3 Steps To Spring Clean Your Eating habits
 createdAt: 2022-07-09T06:38:34.937Z
-updatedAt: 2022-07-17T06:14:47.185Z
+updatedAt: 2022-07-17T15:00:29.353Z
 category: cooking
 summary: Eating clean doesn't have to be a one-time event, it's a lifestyle
   change that has benefits for your health and your wallet. The best way to eat
@@ -10,6 +10,16 @@ summary: Eating clean doesn't have to be a one-time event, it's a lifestyle
   money because you won't be purchasing processed junk food that usually comes
   with a higher price tag. Don’t be afraid of carbs, but eating them in
   moderation is an important part of eating cleaner.
+intro: >-
+  Thinking about that New Year’s resolution to eat healthier again? We see
+  it every year, thousands of people vowing to eat clean and fit in exercise
+  after a holiday season filled with excess. But what does that even mean
+  anymore? Eating healthy is no longer as straightforward as it once was. There
+  are so many different diets, food trends, and nutrition philosophies floating
+  around out there today, how are you supposed to know what will work for you
+  long-term and not just for one fleeting moment? 
+
+  If the past several years have shown us anything, it’s that eating clean is here to stay. So instead of feeling like you’re trying on another new fad diet or eating trend, let this be your guidepost back to the basics of eating wholesome food that helps your body in the long run. Clean eating is not about perfection or cutting out entire food groups at all; it’s about making more informed choices about the things you put into your body on a daily basis. Read further to learn more…
 ---
 
 ## Decide what “eating clean” means to you.

@@ -1,7 +1,7 @@
 ---
 title: One-dish meals - recipes for busy weeknights
 createdAt: 2022-07-07T06:05:40.008Z
-updatedAt: 2022-07-17T06:00:51.392Z
+updatedAt: 2022-07-17T15:00:29.198Z
 category: cooking
 summary: One-dish chicken recipes can be made with just a little bit of prep
   work. One of the best ways to cut down on the amount of time it takes to
@@ -9,6 +9,17 @@ summary: One-dish chicken recipes can be made with just a little bit of prep
   One great example of this is roasting a whole chicken in the oven. It doesn’t
   take long to roast a chicken and it’s easy to do thanks to the fact that the
   chicken has already been portioned out for you.
+intro: >-
+  It’s almost a cliché at this point, but so many of us are busy these
+  days. It seems like everyone is rushing from one activity to another and then
+  logging long hours at work or school. As a result, we crave fast food and
+  takeout more than ever before.
+
+  Thankfully, home-cooked meals are coming back in vogue again. People want to know where their food comes from and how it’s prepared. There’s also an emphasis on reducing stress levels by creating more time in our days with fewer obligations outside the home. 
+
+  In short, people are becoming more aware of their health and making changes accordingly – great news for families everywhere! 
+
+  One-dest meals are an excellent way to get back to basics and prepare wholesome home-cooked meals that don’t take long to make or leave you with lots of dirty dishes afterwards. Read on for some great tips on how you can make one-dish chicken recipes part of your weekly routine once again…
 ---
 
 ## Make a plan

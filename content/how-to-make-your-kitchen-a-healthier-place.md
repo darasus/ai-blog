@@ -1,7 +1,7 @@
 ---
 title: How to make your kitchen a healthier place
 createdAt: 2022-07-07T06:05:41.744Z
-updatedAt: 2022-07-16T16:19:30.226Z
+updatedAt: 2022-07-17T15:00:31.723Z
 category: health
 summary: The kitchen is the heart of your home, so it makes sense to make it a
   healthier place. One of the best ways to do this is to change the things that
@@ -10,6 +10,19 @@ summary: The kitchen is the heart of your home, so it makes sense to make it a
   change the way you cook your food, such as cooking your vegetables in healthy
   oils, spices, herbs, and slow-cooking a slow cooker will save you money in the
   long term.
+intro: "You probably don’t need anyone to tell you that the modern Western diet
+  is not healthy. Whether in a home, restaurant, cafeteria or any other eatery,
+  almost all food establishments serve high-calorie, high-sugar and high-fat
+  meals that are laden with salt and unhealthy oils.What is unfortunate about
+  this situation is that many people have no choice but to eat this way on a
+  regular basis. If you work in an office, it’s highly likely that your building
+  has its own kitchen where a catered lunch service prepares hot lunches for
+  staff every day. Similarly, if you go to school, there will most likely be a
+  canteen serving the same type of unhealthy food as an adult educational
+  institution.The good news is that even if you are stuck eating these foods on
+  a daily basis, you can make your kitchen a healthier place by altering what
+  goes into the meals you cook at home and the ones that you buy. Here are some
+  tips on how you can do just that:"
 ---
 
 ## Change what you buy

@@ -1,7 +1,7 @@
 ---
 title: 10 Ways to Maximize Your Exercise
 createdAt: 2022-07-17T11:48:35.109Z
-updatedAt: 2022-07-17T11:48:35.109Z
+updatedAt: 2022-07-17T15:00:31.857Z
 category: health
 summary: You don’t need to do entirely different exercises every day, but you
   can change the way you do things to make them more challenging. High-intensity
@@ -10,6 +10,12 @@ summary: You don’t need to do entirely different exercises every day, but you
   and stretching can help you improve your flexibility and increase the range of
   motion in your joints. If you want to build muscle and gain strength, you
   should aim to lift weights at least two times a week for 30 minutes.
+intro: >-
+  Working out and staying active is important for your health. In fact, the
+  Centers for Disease Control and Prevention (CDC) recommends adults get at
+  least 150 minutes of moderate-intensity aerobic activity a week. 
+
+  Working out can be a great way to relieve stress, increase your energy, and even improve your mental well-being. Don’t let a hectic schedule or fear of getting started stop you from exercising. There are many ways to maximize your exercise routine to make the most out of every workout session. If you want to see an improvement in how fast you can run, how many pushups you can do, or how many times you can climb stairs without getting winded, read on for some great tips on how to make that happen!
 ---
 
 ## Mix Up Your Exercise

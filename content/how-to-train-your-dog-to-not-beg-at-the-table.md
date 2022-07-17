@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Not Beg at the Table
 createdAt: 2022-07-08T06:27:27.855Z
-updatedAt: 2022-07-16T15:38:06.951Z
+updatedAt: 2022-07-17T15:00:29.911Z
 category: life
 summary: When your dog is a puppy, it’s important to set boundaries and rules
   for them to follow. It can help prevent bad habits from forming or getting
@@ -10,6 +10,14 @@ summary: When your dog is a puppy, it’s important to set boundaries and rules
   training is a great way to teach your dog the meaning of “no” and other
   commands, like to sit or lay down. Use a clicker app on your phone to make the
   clicking sounds for you.
+intro: >-
+  You probably wouldn’t sit down to a meal with your dog at the table every
+  day, but that doesn’t mean you can’t enjoy a nice home-cooked meal with your
+  pup. Dogs are social animals, so they love spending time with their owners and
+  other people. But they also have their weird quirks, like begging at the table
+  or jumping up to get snacks. 
+
+  Luckily, it’s not hard to train your dog to stop begging at the table and other bad habits. They just take some patience and dedication to follow through on commands until your dog gets it. With these tips, you can crack down on those weird doggy habits and help them learn new things that will last a lifetime. Read on for advice on how to train your dog to stop begging at the table and other tricks as well as tricks from nutritionist Victoria SchENDler
 ---
 
 ## Establish rules and boundaries with your dog.

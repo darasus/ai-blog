@@ -1,7 +1,7 @@
 ---
 title: The importance of sleep for health and well-being
 createdAt: 2022-07-07T06:05:41.362Z
-updatedAt: 2022-07-16T16:13:58.807Z
+updatedAt: 2022-07-17T15:00:31.664Z
 category: health
 summary: Most adults need between 7 and 9 hours of sleep every night. Sleep
   regulates your hormones, digestion, metabolism and immune system. It can also
@@ -10,6 +10,15 @@ summary: Most adults need between 7 and 9 hours of sleep every night. Sleep
   batteries. Sleep has even been said to be as effective as yoga or meditation.
   Getting more than 9 hours is not necessarily better, but it’s possible to get
   too much sleep can also be harmful in certain ways.
+intro: >-
+  As adults, we know that sleep is important. But it’s not always easy to
+  get enough sleep on an everyday basis. With busy work schedules and other
+  obligations, most of us don’t always have the luxury of getting a full night
+  of rest. 
+
+  To make things even more challenging, sleep is one of those things we cannot replace with anything else. Sleep cannot be replaced by vitamins, exercise, meditation or any other supplement. It’s essential to our health as well as our happiness.
+
+  We will look into the importance of sleep for health and well-being as well as its benefits and why you should spend more time sleeping if you aren’t already doing so. Read on to find out everything you need to know about getting enough shut eye.
 ---
 
 ## What is Sleep and Why is it so Important?

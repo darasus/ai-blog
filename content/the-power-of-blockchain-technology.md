@@ -1,7 +1,7 @@
 ---
 title: The Power of Blockchain Technology
 createdAt: 2022-07-07T16:58:01.485Z
-updatedAt: 2022-07-17T07:23:42.248Z
+updatedAt: 2022-07-17T15:00:31.319Z
 category: crypto
 summary: The blockchain is a digital distributed ledger that records
   transactions in a secure and decentralized manner. Because the blockchain is
@@ -12,6 +12,15 @@ summary: The blockchain is a digital distributed ledger that records
   investing, lending, insurance, and savings, in a peer-to-peer manner. Small
   businesses can therefore cut down on the costs and fees associated with
   financial transactions and cross-border payments.
+intro: >-
+  The world is changing fast. Digital transformation of businesses and the
+  digital revolution are here to stay. New technologies such as artificial
+  intelligence (AI), Internet of Things (IoT), blockchain, and virtual reality
+  are reshaping the way we live, work, and conduct business.
+
+  The digital transformation is moving businesses from operational excellence to strategic differentiation by integrating new digital technologies that are changing the way we do business in industries like healthcare, retail, logistics, etc. The pace of this change is accelerating with new software platforms fostering innovation — bringing us a world where artificial intelligence, virtual reality, and blockchain are commonplace. 
+
+  These transformative technologies also open up opportunities for new collaborations between individuals and organizations at different scales. They empower people with new ways to directly exchange value between each other without intermediaries — in other words, peer-to-peer transactions. Here’s an overview of how blockchain technology can help you take your organization to the next level.
 ---
 
 ## Why is Blockchain Technology Important?

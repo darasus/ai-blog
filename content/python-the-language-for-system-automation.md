@@ -1,7 +1,7 @@
 ---
 title: Python - The language for system automation
 createdAt: 2022-07-09T06:20:53.523Z
-updatedAt: 2022-07-17T06:53:40.269Z
+updatedAt: 2022-07-17T15:00:30.480Z
 category: coding
 summary: Python is a general-purpose programming language that is used for many
   different types of applications, such as web development, data science, and
@@ -11,6 +11,19 @@ summary: Python is a general-purpose programming language that is used for many
   field of automation.Python also comes with a built-in package manager that
   allows you to install third-party Python packages. This blog has explored how
   Python is used to automate tasks and how it can benefit businesses.
+intro: Automating tasks is a way of making your life easier. Imagine this, you
+  need to run a report every day and it takes 5 minutes each time. You could
+  either set an alarm and rush back to the desk in 5 minutes or create a script
+  to automate this process. The latter leaves more time for you to focus on more
+  important things. What if you could automate even the simplest tasks? Wouldn’t
+  it free up your time for better things? That’s where Python comes into play.
+  As an automation scripting language, it can help you automate even the
+  simplest of tasks and free up more time for work that matters. Automation
+  helps businesses in many ways. It saves time, increases efficiency and
+  decreases costs by eliminating manual processes. In this blog, we will explore
+  why Python is such a popular programming language for system automation and
+  how it can be used to automate simple repetitive tasks in your organization.
+  Let’s get started
 ---
 
 ## What is Python?

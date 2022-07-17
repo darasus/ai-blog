@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog Not to Bark excessively
 createdAt: 2022-07-08T06:26:44.238Z
-updatedAt: 2022-07-16T15:34:47.585Z
+updatedAt: 2022-07-17T15:00:29.900Z
 category: life
 summary: There are many reasons why dogs bark, but one thing is certain –
   excessive barking can be annoying and stressful for both dogs and their
@@ -11,6 +11,15 @@ summary: There are many reasons why dogs bark, but one thing is certain –
   often be a sign that your dog needs more exercise and mental stimulation. An
   understimulated dog is more likely to become bored and anxious, which in turn
   can lead to excessive barking.
+intro: >-
+  Dogs bark for a variety of reasons and in different situations. Some dogs
+  seem to bark much more than others, leading some owners to wonder how to train
+  your dog not to bark excessively. When your dog barks excessively or at the
+  wrong times, it can be annoying for you and other members of your household.
+  You might find it difficult to get restful sleep when your dog won’t stop
+  barking or cries whenever you leave the house. 
+
+  There are many reasons why dogs bark, but one thing is certain – excessive barking can be annoying and stressful for both dogs and their owners. Fortunately, there are ways to train your dog not to bark so frequently and effectively. Read on to discover how you can curb your dog’s excessive barking quickly and easily!
 ---
 
 ## What Causes Dogs To Bark Excessively?

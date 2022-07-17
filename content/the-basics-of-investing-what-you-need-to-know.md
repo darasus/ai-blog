@@ -1,7 +1,7 @@
 ---
 title: The basics of investing - what you need to know
 createdAt: 2022-07-07T16:49:34.815Z
-updatedAt: 2022-07-17T05:53:01.147Z
+updatedAt: 2022-07-17T15:00:31.031Z
 category: investing
 summary: Investing is the process of allocating funds to assets expected to
   generate financial returns. When you invest in something, you’re hoping to
@@ -11,6 +11,15 @@ summary: Investing is the process of allocating funds to assets expected to
   Investing early and often can help you build a bigger nest egg. With the right
   strategy, you can invest in a way that works for you and your financial
   situation.
+intro: >-
+  When you’re in your 20s and early 30s, it can feel like there is never
+  enough money. Working-age individuals in this age group are likely to be
+  settling into their career and perhaps starting a family, which means expenses
+  are climbing while income isn’t always keeping up.
+
+  Even when money is tight, it doesn’t mean that young people can’t invest for the future. In fact, investing as soon as possible is one of the best things you can do to secure your financial future. The sooner you begin investing for retirement or another long-term goal, the sooner your portfolio will grow and help you achieve your goals. 
+
+  But where should you start? Fortunately, there are plenty of accessible resources that can get you off on the right foot with your investments. Here we take a look at some of the basics of investing – what you need to know before getting started.
 ---
 
 ## What is investing?

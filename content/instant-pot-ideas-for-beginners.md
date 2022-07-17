@@ -1,7 +1,7 @@
 ---
 title: Instant Pot Ideas For Beginners
 createdAt: 2022-07-09T06:44:05.055Z
-updatedAt: 2022-07-17T06:22:37.396Z
+updatedAt: 2022-07-17T15:00:29.534Z
 category: cooking
 summary: Pressure cooking uses steam to cook food quickly and efficiently, while
   preserving the nutrients in the food. Pressure cookers come to pressure when
@@ -10,6 +10,13 @@ summary: Pressure cooking uses steam to cook food quickly and efficiently, while
   pot will range from 100-390F, which is below the boiling temperature of water.
   The pot inside the appliance is called a “dual pressure” pot. This means that
   it can cook food at both low pressure and high pressure.
+intro: >-
+  The Instant Pot is one of the most popular brands of electric pressure
+  cookers. New users often have many questions about how to best use this
+  appliance, and what kinds of recipes are best suited for it. Here are some
+  ideas for beginner Instant Pot users that will get you inspired! 
+
+  If you’re new to the world of pressure cooking, the idea of an “instant” pot may seem a little strange at first. However, using an Instant Pot (or any electric pressure cooker) can save you time while also preserving more nutrients in your food. So let’s take a look at some simple ideas for beginners who are just getting started with their Instant Pot and want to try some easy recipes!
 ---
 
 ## Basics of Using an Instant Pot

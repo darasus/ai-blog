@@ -1,7 +1,7 @@
 ---
 title: The Dos and Don’ts of Starting Your Own Business
 createdAt: 2022-07-07T16:47:00.713Z
-updatedAt: 2022-07-16T15:59:11.195Z
+updatedAt: 2022-07-17T15:00:30.999Z
 category: business
 summary: Starting your own business is a big decision, and not one you should
   make on a whim. Don’t try to do everything yourself - instead, be organized
@@ -10,6 +10,14 @@ summary: Starting your own business is a big decision, and not one you should
   out. Dictating your business plan will also help you understand what you're
   getting yourself into and how much money you're going to need in the short and
   long term.
+intro: >-
+  Starting your own business can be an incredibly exciting prospect. In
+  theory, running your own company appears to offer you a great deal of freedom
+  and flexibility - allowing you to tailor your working hours around childcare
+  or other obligations, while also giving you the opportunity to develop a brand
+  new career path.
+
+  Unfortunately, the reality is somewhat different. As with any job, starting your own business involves a significant amount of hard work and dedication. It isn’t easy, and many prospective entrepreneurs give up before they even begin. However, with the right guidance and support network in place, it also doesn’t need to be as difficult as most people imagine. To that end, if you’re currently exploring the idea of starting your own business - either as a sole proprietor or as part of an organisation - we have some handy advice on what not to do:
 ---
 
 ## Don’t try to do everything yourself

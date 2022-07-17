@@ -1,7 +1,7 @@
 ---
 title: How long does mediation take?
 createdAt: 2022-07-09T06:15:57.725Z
-updatedAt: 2022-07-16T15:50:03.542Z
+updatedAt: 2022-07-17T15:00:30.140Z
 category: life
 summary: Mediation is an alternative dispute resolution procedure that helps two
   parties find common ground and reach a mutually beneficial outcome. Mediation
@@ -11,6 +11,17 @@ summary: Mediation is an alternative dispute resolution procedure that helps two
   for everyone, so in simple cases the mediator will help the parties
   brainstorm, negotiate, and collaborate towards the best possible solution. In
   complex cases, mediation is often a multi-session process.
+intro: >-
+  Mediation is an alternative dispute resolution procedure that helps two
+  parties find common ground and reach a mutually beneficial outcome. It is not
+  a trial, nor does it involve judging or advocacy. Rather, mediation is a
+  collaborative process where both sides work with neutral third-party mediators
+  to resolve their dispute and come to an agreement that’s fair and equitable
+  for all involved.
+
+  Mediation can take as long as each party needs it to take and no longer than that. Depending on the case, mediation sessions can last anywhere from one hour to multiple days. The time frame will depend largely on multiple factors including:
+
+  Mediation sessions are confidential, so there isn’t a set end time like you might experience in court or arbitration proceedings. Instead, parties can chose to end mediation at any point if they feel they’ve reached the best possible outcome for themselves and the other party involved. Here are some general guidelines regarding how long mediation takes:
 ---
 
 ## Mediation for simple cases

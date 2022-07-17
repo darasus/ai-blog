@@ -1,7 +1,7 @@
 ---
 title: Need some recipe inspiration? try these
 createdAt: 2022-07-09T06:40:28.851Z
-updatedAt: 2022-07-17T06:17:20.786Z
+updatedAt: 2022-07-17T15:00:29.401Z
 category: cooking
 summary: "The Great British Bake Off is back with a new series of baking
   challenges. The first challenge of the series was the Signature Bake, where
@@ -11,6 +11,13 @@ summary: "The Great British Bake Off is back with a new series of baking
   pasty — an unusual combination. They had to create a three-tiered cake
   decorated with a novelty design or feature. These recipes are perfect for
   sharing with friends, family or even even a complete baker."
+intro: >-
+  Time to fire up that stove again, because this time it’s for cooking! The
+  Great British Bake Off is back with a brand new batch of amateur bakers ready
+  to tackle tricky challenges. Instead of the usual judges, this time we have
+  Prue, Noel and Sandi testing their skills in the kitchen.
+
+  For those who aren’t familiar with the show, The Great British Bake Off is a contest where amateur bakers are tested on their baking skills. Contestants are asked to make pastry-based dishes that often feature unusual or difficult techniques, and are judged on appearance, taste and originality. In each episode they face two different challenges: a Signature Bake where they must create something using a specific ingredient or theme as inspiration; and a Technical Challenge which might see them making croquembouche or another difficult dish.
 ---
 
 ## The Great British Bake Off — Episode 1

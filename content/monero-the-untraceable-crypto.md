@@ -1,7 +1,7 @@
 ---
 title: "Monero: The Untraceable Crypto"
 createdAt: 2022-07-07T16:54:59.787Z
-updatedAt: 2022-07-17T07:22:56.440Z
+updatedAt: 2022-07-17T15:00:31.217Z
 category: crypto
 summary: Monero is designed to be like digital cash by enabling direct
   person-to-person transactions. With only two parties involved in the
@@ -10,6 +10,12 @@ summary: Monero is designed to be like digital cash by enabling direct
   and receive money anonymously. It is also a great way for people living under
   oppressive regimes to escape the government’s ever-watchful eye. There are
   many benefits to using Monero, both as a user and as an investor.
+intro: >-
+  Monero is a privacy-focused cryptocurrency that launched in 2014. Similar
+  to Bitcoin, it is a decentralized digital currency with anonymous users and
+  transactions. But that’s where the similarities end. 
+
+  Monero has one of the largest communities of any cryptocurrency project, with over 16,000 active members on its forum and over 2,000 subscribers on its main Reddit page. These users are not just passive observers; they drive the future development of Monero by voicing their opinions and giving input on new ideas or potential changes to existing ones. This article takes into account all these aspects when explaining why you should consider investing in Monero.
 ---
 
 ## Monero is digital cash

@@ -1,7 +1,7 @@
 ---
 title: 9 of the Best Hip Hop Songs for Your Next Workout
 createdAt: 2022-07-17T14:54:58.664Z
-updatedAt: 2022-07-17T14:54:58.664Z
+updatedAt: 2022-07-17T15:00:32.035Z
 category: culture
 summary: Jumping Jack is a fast-paced song with an energizing beat that will
   help you push through your workout. Eminem - Lose Yourself is arguably one of
@@ -9,6 +9,15 @@ summary: Jumping Jack is a fast-paced song with an energizing beat that will
   from the 90s that has stood the test of time. It is a great tune for almost
   every type of workout, especially cardio activities like running, cycling, and
   swimming. It also makes an excellent warm-up song for any workout session.
+intro: >-
+  Working out is the best way to get your body in shape. It helps you lose
+  fat, gain muscle and feel great about yourself. But, it can be a little tough
+  to get started on your routine if you don’t have the right kind of songs
+  playing in the background. 
+
+  It doesn’t matter what type of exercise you do — be it cycling, running, or another form of physical activity — music can make your workout much more enjoyable and productive. Not only will it help you keep rhythm while exercising, but also help you stay motivated throughout your workout routine. If you are struggling to find the right hip hop songs for your next workout session, we have got you covered! 
+
+  Read ahead to know about 9 of the Best Hip Hop Songs for Your Next Workout
 ---
 
 ## Jumping Jack

@@ -1,7 +1,7 @@
 ---
 title: How to get over a break-up
 createdAt: 2022-07-07T06:05:41.004Z
-updatedAt: 2022-07-16T15:07:46.182Z
+updatedAt: 2022-07-17T15:00:29.786Z
 category: life
 summary: Exercising is one of the best things you can do for yourself when
   you're going through a break-up. Indulging in your favourite TV show or movie
@@ -10,6 +10,15 @@ summary: Exercising is one of the best things you can do for yourself when
   to hurt you more in the long run. Write in a journal or diary to help you get
   to a place of peace after a breakup and remember that you are always in
   control of yourself.
+intro: >-
+  In the unfortunate event that you find yourself in a situation where you
+  need to get over a break-up, it’s important to know what to do in order to
+  help the healing process along. Break-ups are never easy, and they can be even
+  more difficult and hurtful if it’s with your first love or someone you really
+  cared about. These tips will help get you through any heartbreak and back into
+  a place of peace.
+
+  When you experience a break-up, whether it’s from a partner, friend or family member, it leaves you with an empty feeling. It hurts so much because you placed so many emotions into the relationship that it now feels like a part of who you are has been taken from you. Even though the person who broke up with you may have been oblivious to the pain they were causing by ending things, that doesn’t make breaking up any easier for anyone involved.
 ---
 
 ## Talk to Someone

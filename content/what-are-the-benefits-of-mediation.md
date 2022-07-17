@@ -1,7 +1,7 @@
 ---
 title: What are the benefits of mediation?
 createdAt: 2022-07-09T06:14:45.645Z
-updatedAt: 2022-07-16T15:48:10.596Z
+updatedAt: 2022-07-17T15:00:30.074Z
 category: life
 summary: Mediation is the practice of resolving disputes in a non-adversarial
   way. Mediation helps you and the other person in the dispute understand each
@@ -11,6 +11,16 @@ summary: Mediation is the practice of resolving disputes in a non-adversarial
   disputes among friends, co-workers, family members or friends. It can be used
   to resolve issues in any field or segment of society, such as child custody
   issues or child support.
+intro: >-
+  The process of mediation is the practice of assisting parties in a
+  conflict to find common ground and reach a mutually agreeable resolution.
+  Mediation isn’t just for couples who are breaking up or divorcing; it can be
+  useful in resolving disputes with co-workers, business partners, friends or
+  family members.
+
+  Mediation is cost-effective and time-efficient, reducing the potential for long legal battles and the financial and emotional costs that go with them. In mediation, an impartial third party called a mediator meets separately with each person involved in the dispute. The mediator does not take sides but helps each person understand the other person’s point of view and find solutions they can agree on.
+
+  Additionally, mediation allows you to keep control over your situation by avoiding court and practically ending your dispute faster than going to trial. If you’re interested in learning more about this resolution process as a way to manage your own conflict or as an advisor if you are working with someone who needs help resolving their dispute, read on. Here we will explore some benefits of mediation:
 ---
 
 ## It Helps You Understand The Situation From All Angles

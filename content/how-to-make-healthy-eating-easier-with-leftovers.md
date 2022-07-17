@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with leftovers
 createdAt: 2022-07-07T06:05:41.789Z
-updatedAt: 2022-07-16T16:19:57.205Z
+updatedAt: 2022-07-17T15:00:31.752Z
 category: health
 summary: Eating your main meal and then having a small portion of leftovers for
   your next meal can help you get more nutrients in your diet without having to
@@ -12,6 +12,16 @@ summary: Eating your main meal and then having a small portion of leftovers for
   more processed foods you eat, the harder it will be to meet your daily
   nutrient requirements. Using your food storage will make cooking feel less
   overwhelming.
+intro: >-
+  Are you feeling so over-whelmed with the new year and its resolutions
+  that you’ve decided to skip lunch for the foreseeable future? Or perhaps
+  you’re just exhausted by how much effort it seems to take to eat healthy.
+  While eating well isn’t as simple as following a diet — there are so many
+  different factors that go into it, and we all have our own personal
+  preferences when it comes to what makes a meal healthy. But, there are ways to
+  make eating well a piece of cake. Leftovers are one of those ways! 
+
+  A meal made from scratch is an excellent way to ensure that you’re staying on track with your New Year’s resolutions. However, cooking every night is not realistic for most people. That doesn’t mean you can’t enjoy home-cooked meals without going through all the stressors of making them yourself – leftover cooking is your solution!
 ---
 
 ## Why should you care about leftovers?

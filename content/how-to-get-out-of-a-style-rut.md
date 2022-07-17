@@ -1,7 +1,7 @@
 ---
 title: How to get out of a style rut
 createdAt: 2022-07-07T06:05:40.253Z
-updatedAt: 2022-07-16T14:54:23.565Z
+updatedAt: 2022-07-17T15:00:29.667Z
 category: life
 summary: Getting out of a style rut doesn’t have to be complicated or
   challenging. Try some simple changes before diving into a whole new look. Find
@@ -10,6 +10,15 @@ summary: Getting out of a style rut doesn’t have to be complicated or
   colour and hair colour. Find a new haircut too, but it can be more time
   consuming and expensive than a new hair colour or style. Consider visiting a
   cosmetics counter and speaking to the makeup artist about your options.
+intro: The risk of falling into a style rut is something we all have to deal
+  with from time to time. It happens to even the most confident and daring of
+  people, so you’re certainly not alone if you feel like your style is
+  stagnating and you can’t think of anything new or exciting to wear. Whether
+  it’s because you haven’t found a new piece of clothing that excites you in
+  months, or because you just don’t know what to wear after wearing variations
+  on the same theme for several weeks in a row, everyone gets stuck in a rut now
+  and again. Thankfully there are ways to get out of it and discover a new lease
+  on your personal style once again.
 ---
 
 ## Change up your wardrobe

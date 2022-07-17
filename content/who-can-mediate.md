@@ -1,7 +1,7 @@
 ---
 title: Who can mediate?
 createdAt: 2022-07-09T06:15:14.919Z
-updatedAt: 2022-07-16T15:48:05.873Z
+updatedAt: 2022-07-17T15:00:30.133Z
 category: life
 summary: You may be able to mediate many different types of disputes, including
   those involving real estate, employment, family law, and insurance issues.
@@ -11,6 +11,13 @@ summary: You may be able to mediate many different types of disputes, including
   you’re applying to a mediation program that has program-specific requirements,
   you might be required to sign a waiver to be exempt from paying the program’s
   fee.
+intro: >-
+  Mediation is a great way to resolve your legal dispute, but it’s not
+  right for everyone. If you’re eligible to mediate, that might depend on the
+  type of case you have and who you are. For example, there may be other
+  requirements that you meet to qualify as an eligible candidate. 
+
+  Mediation eligibility can differ depending on whether the dispute resolution program requires participants to be from a certain income level or has other prerequisites such as being a homeowner or having a specific legal status. You should also keep in mind that some programs may require mediation only when parties can’t agree on a settlement and not necessarily as an initial step in their process for resolving disputes. Read on for more information about who can mediate and what factors may impact your ability to participate in this alternative dispute resolution process.
 ---
 
 ## What Can You Mediate?

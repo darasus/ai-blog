@@ -1,7 +1,7 @@
 ---
 title: Go language for network programming
 createdAt: 2022-07-09T06:29:58.228Z
-updatedAt: 2022-07-17T07:17:58.535Z
+updatedAt: 2022-07-17T15:00:30.692Z
 category: coding
 summary: A programming language designed for networking is one designed to
   directly interface with network protocols. The most common programming
@@ -12,6 +12,16 @@ summary: A programming language designed for networking is one designed to
   easiest programming languages to learn on this list. Python is a dynamic
   programming language that has been optimized for programmer efficiency. Java
   is a language that can be used for a wide range of applications.
+intro: >-
+  So you’ve decided to learn a new programming language, but which one?
+  There are literally thousands of programming languages in existence today.
+  Some are general-purpose programming languages that can be used for a variety
+  of applications. Others are more niche, focusing on becoming an expert in one
+  particular domain.
+
+  That last category is where you might find yourself when looking for a new language for network programming. These are programming languages that have been designed with specific domains in mind, such as networking or computer telephony. You might think there isn’t much scope for differentiation between these specialist programming languages, but there’s plenty out there!
+
+  If you’re still struggling to decide which is the best Go Programming Language for Networking, don’t worry! We have created this short blog post with all the information you need to make an informed decision about your future studies! Read on to get acquainted with five of the most common network programming languages and their unique benefits:
 ---
 
 ## What is a programming language for networking?

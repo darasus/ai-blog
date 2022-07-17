@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a part of your weight loss plan
 createdAt: 2022-07-07T06:05:42.105Z
-updatedAt: 2022-07-16T16:22:26.301Z
+updatedAt: 2022-07-17T15:00:31.797Z
 category: health
 summary: A study published in the Journal of Nutrition found that protein is
   particularly effective for weight loss when it replaces other carbs in your
@@ -11,6 +11,14 @@ summary: A study published in the Journal of Nutrition found that protein is
   prevent disease and keeps you feeling full for hours, so you’re less likely to
   overeat. Healthy fats like those found in nuts, seeds, avocado, and fish help
   your body absorb vitamins and promote feelings of fullness.
+intro: >-
+  People who lose weight and keep it off almost always make healthy eating
+  a priority. This may seem obvious, but you might be surprised at how many
+  people struggle to keep weight loss goals focused on healthy eating. It’s not
+  just about cutting calories; it’s about making sure those calories come from
+  nutritious whole foods that boost your metabolism and maintain energy levels.
+
+  Even with the constant bombardment of pro-fad diet messages in the media, most people understand that cutting calories alone is not an effective weight loss strategy. In fact, research shows that for lasting weight loss, dieters need to adopt healthy habits that they can sustain for life—like eating more fruits and vegetables, whole grains, lean protein sources, and other low-fat or non-fat sources of nutrients. But even setting this as our goal doesn’t guarantee we’ll achieve it. Here are some tips to help you put healthy eating at the center of your weight loss plan so you get results you can keep forever:
 ---
 
 ## Start with protein.

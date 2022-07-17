@@ -1,7 +1,7 @@
 ---
 title: 5 simple tips for making better salads
 createdAt: 2022-07-07T06:05:39.986Z
-updatedAt: 2022-07-17T06:01:01.951Z
+updatedAt: 2022-07-17T15:00:29.194Z
 category: cooking
 summary: Eating healthy doesn’t mean you have to give up all the nice things in
   life, like yummy food and tasty drinks. Instead of relying on bad oils to make
@@ -11,6 +11,16 @@ summary: Eating healthy doesn’t mean you have to give up all the nice things i
   eggs to salads. They are good sources of protein, fibre, vitamins, and
   minerals. Add a variety of fruits in small amounts and make sure they’re fresh
   and crisp.
+intro: >-
+  Putting together a healthy salad is usually the first thing people think
+  of when they want to eat well and lose weight. Unfortunately, many people also
+  associate salads with bad food because they’ve had so many disappointing
+  experiences eating them in the past. That’s because most salads we see today
+  are either served in large fast-food containers or come with an enormous
+  amount of dressing that you need a spoon to get out of the little plastic
+  tub. 
+
+  However, there’s no reason why salads have to be boring, sad excuses for food. In fact, a good salad can be one of the healthiest and most satisfying ways to eat greens – as long as you know how make it taste great without making it worse for you.
 ---
 
 ## By now you’re probably thinking, “Great! But how?”

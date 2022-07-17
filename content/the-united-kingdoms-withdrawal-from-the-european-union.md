@@ -1,7 +1,7 @@
 ---
 title: The United Kingdom's withdrawal from the European Union
 createdAt: 2022-07-07T06:16:36.802Z
-updatedAt: 2022-07-17T05:49:11.402Z
+updatedAt: 2022-07-17T15:00:29.661Z
 category: politics
 summary: The EU is the UK's main trading partner, accounting for 44% of goods
   exports in 2017. To avoid supply chain disruptions, businesses should review
@@ -12,6 +12,13 @@ summary: The EU is the UK's main trading partner, accounting for 44% of goods
   businesses can take steps now to prepare for uncertainty and mitigate risk.
   Companies can also take advantage of new opportunities that may be created by
   Brexit.
+intro: >-
+  The United Kingdom’s withdrawal from the European Union, commonly known
+  as Brexit, has had a significant impact on business operations in the UK and
+  EU. Since the referendum results were announced in June 2016, businesses have
+  been adapting to this new reality.
+
+  With only a year left until the official exit date of March 29, 2019, many companies are taking action now to mitigate risks and take advantage of opportunities. The industry-specific challenges and potential opportunities regarding Brexit are different for every company. Some businesses may need to make changes to their products, services or supply chain; others may need to make strategic hires; while still others must manage employee anxiety about job security.
 ---
 
 ## Supply Chain Risk Management

@@ -1,7 +1,7 @@
 ---
 title: Packages in Java
 createdAt: 2022-07-09T06:23:30.947Z
-updatedAt: 2022-07-17T06:55:33.156Z
+updatedAt: 2022-07-17T15:00:30.561Z
 category: coding
 summary: The abbreviation “JDK” stands for Java Development Kit. It’s a software
   development kit that contains everything you need to run Java programs. The
@@ -10,6 +10,13 @@ summary: The abbreviation “JDK” stands for Java Development Kit. It’s a so
   versatile and powerful language that is used to run on a wide range of systems
   and platforms. By grouping related classes and sub-packages into a single
   definition, you can make your code easier to understand and reuse.
+intro: >-
+  In this digital world, everything is going digital. Even the field of
+  programming is shifting towards more digitized platforms and solutions. In
+  such a scenario, the need for compact programs that can be easily installed
+  and used on any device arises. That’s where Java packages come into play. 
+
+  A package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they’re easier to find later on. Let’s take a look at some common Java packages:
 ---
 
 ## JDK (Java Development Kit)

@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with batch cooking
 createdAt: 2022-07-07T06:05:41.609Z
-updatedAt: 2022-07-16T16:18:50.557Z
+updatedAt: 2022-07-17T15:00:31.673Z
 category: health
 summary: Batch cooking is the process of making large amounts of healthy food at
   one time and freezing or refrigerating for future use. This can be done with
@@ -10,6 +10,14 @@ summary: Batch cooking is the process of making large amounts of healthy food at
   it in containers, and store it in the refrigerator or freezer until you are
   ready to eat it again. This will help you avoid getting into a quick-meal rut
   and will give you something healthy to grab.
+intro: >-
+  When you’re trying to eat more healthy, it can feel like an uphill
+  battle. You know that eating healthy is the best thing for your body, but with
+  all of the unhealthy options available, staying on track can be difficult. 
+
+  Unhealthy foods are extremely easy to grab and go when you need something fast. However, these foods are not the kind of things you want to be consuming regularly. Most of them are loaded with sugars and sodium and have almost no vitamins or minerals.
+
+  Fortunately, there are some simple strategies you can implement to make eating healthy easier. Batch cooking is one of the best ways to make healthy eating easier and more convenient. Read on to learn more about how batch cooking can help you eat healthier without breaking your routine too much!
 ---
 
 ## What is batch cooking?

@@ -1,7 +1,7 @@
 ---
 title: How to get more vitamins and minerals in your diet
 createdAt: 2022-07-07T06:05:41.922Z
-updatedAt: 2022-07-16T16:20:52.193Z
+updatedAt: 2022-07-17T15:00:31.771Z
 category: health
 summary: Most people associate vitamins with a healthy diet, but they are
   actually essential nutrients that are crucial for your health. A balanced diet
@@ -12,6 +12,17 @@ summary: Most people associate vitamins with a healthy diet, but they are
   energy and blood pressure. Fresh fruits and vegetables are the best source of
   vitamin and minerals, so make sure to eat plenty of them. Healthy eating can
   be challenging, but it's worth it.
+intro: >-
+  Are you a healthy eater? Do you load up on fruits and vegetables every
+  day? Do you take vitamins as part of your daily routine? Do you check
+  nutrition labels to make sure your food is healthy? If you answered yes to all
+  these questions, then why do you feel like you’re not getting enough vitamins
+  and minerals in your diet? There’s nothing more frustrating than feeling like
+  our eating habits aren’t doing us any good. And unless you’re eating an
+  extremely restrictive diet, it can be disheartening to know that most of us
+  don’t get the recommended amount of vitamins and minerals from our diets. 
+
+  What are vitamins and minerals? They are nutrients that our bodies need in small amounts for everyday processes. While deficiency can lead to some serious problems, getting too much of certain nutrients is also unhealthy. Here is everything you need to know about vitamins and minerals:
 ---
 
 ## What are vitamins?

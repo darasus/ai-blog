@@ -1,7 +1,7 @@
 ---
 title: How to make healthy choices when eating out
 createdAt: 2022-07-07T06:05:41.409Z
-updatedAt: 2022-07-16T16:17:24.877Z
+updatedAt: 2022-07-17T15:00:31.666Z
 category: health
 summary: Casual chain restaurants such as Outback Steakhouse, Chili's or
   Applebee’s are generally the best bet for people eating a balanced diet. If
@@ -10,6 +10,17 @@ summary: Casual chain restaurants such as Outback Steakhouse, Chili's or
   help keep your meal balanced. Don’t be afraid to order a smaller portion of
   your main dish instead of having a baked potato instead of the baked potato
   with butter and sour cream.
+intro: >-
+  Eating out can be a fun and social experience. Whether you’re meeting
+  friends for a bite to eat after work, happy hour with coworkers or date night
+  with your significant other, there are many restaurants that offer an
+  experience that’s enjoyable and hassle-free. However, eating out — whether
+  it’s at a fast food joint, casual chain or upscale eatery — isn’t always the
+  healthiest option.
+
+  In fact, many restaurants serve high-calorie foods that aren’t particularly good for you. The mammoth size of most restaurant portions is also concerning, as it can lead to overeating and unnecessary intake of saturated fats, sodium and added sugars.
+
+  However, with some knowledge about what to look for when dining out, you can make healthy choices that support your diet and lifestyle goals while still enjoying yourself at the same time.
 ---
 
 ## Know The Basics Before Going Out To Eat

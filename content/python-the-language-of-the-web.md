@@ -1,7 +1,7 @@
 ---
 title: Python - The language of the web
 createdAt: 2022-07-09T06:18:50.782Z
-updatedAt: 2022-07-17T06:49:05.401Z
+updatedAt: 2022-07-17T15:00:30.395Z
 category: coding
 summary: Python is a general-purpose, high-level programming language that is
   used for various coding applications. Python was created in the late 1980s and
@@ -12,6 +12,17 @@ summary: Python is a general-purpose, high-level programming language that is
   apps, or even create computer programs for science, math, and engineering. The
   best way to become a professional Python programmer is by creating your own
   projects.
+intro: >-
+  With the rapid growth of the internet and mobile app market, it’s no
+  wonder that developers are in such high demand. As a result, more people than
+  ever before are learning how to code as a secondary career option or as a
+  means to break into the tech industry.
+
+  Unfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we’re here to help!
+
+  Python is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java. 
+
+  Keep reading to discover everything you need to know about Python and why you should learn it!
 ---
 
 ## How To Learn Python: A Step-By-Step Guide

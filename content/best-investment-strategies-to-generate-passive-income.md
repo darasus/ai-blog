@@ -1,7 +1,7 @@
 ---
 title: Best Investment Strategies to Generate Passive Income
 createdAt: 2022-07-17T11:49:29.223Z
-updatedAt: 2022-07-17T11:49:29.223Z
+updatedAt: 2022-07-17T15:00:31.120Z
 category: investing
 summary: Passive income is earning money through investments that require little
   to no effort on your part. This can include money earned from royalties,
@@ -10,6 +10,14 @@ summary: Passive income is earning money through investments that require little
   Trust (REIT) is a type of passive investment that pools capital from investors
   to purchase real estate assets. Hedge funds are high-risk investments that
   come with high fees, but also promise high returns.
+intro: >-
+  Thinking of investing to accumulate wealth and generate passive income?
+  Passive income is a broad term that encompasses any income you receive from an
+  investment, venture, or business that requires little maintenance. Passive
+  income is the Holy Grail for personal finance, because it allows you to make
+  money while not actively working. It’s the ultimate goal for most investors.
+
+  Researchers suggest that passive income will be the primary source of retirement funding for millennials. However, this financial strategy isn’t easy for everyone, especially with so many different ways to invest your money and get a return on your investment. If you’re considering starting your own business or launching a side hustle to generate passive income streams, here are some trusted strategies that may suit your risk profile and goals.
 ---
 
 ## Basics of Passive Income

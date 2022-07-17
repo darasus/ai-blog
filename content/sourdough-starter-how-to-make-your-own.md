@@ -1,7 +1,7 @@
 ---
 title: Sourdough starter - how to make your own
 createdAt: 2022-07-07T06:05:40.075Z
-updatedAt: 2022-07-17T06:00:56.633Z
+updatedAt: 2022-07-17T15:00:29.201Z
 category: cooking
 summary: We recommend buying a starter kit that includes everything you’ll need
   to create your own healthy sourdough starter. Starter kits come with a glass
@@ -11,6 +11,15 @@ summary: We recommend buying a starter kit that includes everything you’ll nee
   starter is very similar to the method for creating a yeast-based starter.
   You'll need a large jar - we recommend a 2-litre glass jar, and a wooden spoon
   or potato masher.
+intro: >-
+  Sourdough starter is a mixture of flour and water that has been left to
+  ferment. It’s used to catalyse the fermentation process when baking sourdough
+  bread, giving it a distinct sour flavour. Traditionally, starter takes weeks
+  to make, but there are much faster methods using packaged yeast – see below.
+  However you choose to make your own starter, the process is relatively
+  straightforward and once you get the hang of it, an easy routine to keep up. 
+
+  Sourdough has numerous benefits over other kinds of bread. It is easier for your body to digest than white bread because it doesn’t have any gluten in it (gluten can be challenging for people with a sensitivity or intolerance). Sourdough doesn’t have any added sugars either; just natural sugars from the fermentation process. It also has more protein than standard breads, which means it keeps you feeling fuller for longer.
 ---
 
 ## What you’ll need

@@ -1,7 +1,7 @@
 ---
 title: How 5G will change the way we live and work
 createdAt: 2022-07-07T06:05:40.665Z
-updatedAt: 2022-07-17T07:24:50.760Z
+updatedAt: 2022-07-17T15:00:31.439Z
 category: technology
 summary: 5G is the next iteration of mobile network technology. It will enable
   faster and more reliable connectivity, in much the same way that 3G and 4G did
@@ -11,6 +11,16 @@ summary: 5G is the next iteration of mobile network technology. It will enable
   meaning it can upload and stream video far faster than 4Gs. This will enable
   us to stream Ultra HD video content, such as movies and games, at a much
   higher standard.
+intro: 5G is the next iteration of mobile network technology. It will enable
+  faster and more reliable connectivity, in much the same way that 3G and 4G did
+  before it. 5G is particularly exciting because of how fast it will be when
+  it’s fully implemented. While 4G introduced much faster speeds, 5G is 10 times
+  as fast again. This makes it perfect for connecting devices like self-driving
+  cars or virtual assistants like Google Home or Alexa with low latency. The
+  roll-out of 5G is already underway in select markets across the world, but
+  it’s still early days for this technology. You may not see the benefits of 5G
+  just yet – but there are some excellent reasons why you should get excited
+  about this future standard.
 ---
 
 ## 5G: What does it mean for us?

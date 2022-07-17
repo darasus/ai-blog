@@ -1,7 +1,7 @@
 ---
 title: How to Turn Your Passion Into a Profitable Business
 createdAt: 2022-07-07T16:45:02.439Z
-updatedAt: 2022-07-16T15:58:19.981Z
+updatedAt: 2022-07-17T15:00:30.908Z
 category: business
 summary: The first step in starting a business is deciding what you want that
   business to be. There are a few things you should consider when defining your
@@ -11,6 +11,18 @@ summary: The first step in starting a business is deciding what you want that
   business because it requires you to really hone in on your product. Deciding
   on your business structure depends on a number of factors, including your
   industry, your sales volume, and your business type.
+intro: Starting a business can be an exciting challenge. Passion and drive are
+  essential ingredients for success, but finding the right product and creating
+  demand for that product are not easy tasks. The failure rate for new
+  businesses is high and it’s because many people who launch their own ventures
+  don’t fully consider the challenges that come with entrepreneurship. If you
+  have a passion for something and see potential to make money from it, you
+  might be ready to launch your own business. But there are some hurdles you’ll
+  need to overcome first. There are plenty of risks and costs involved with
+  starting your own business - but the rewards can be great too. Here we look at
+  some of the practical steps you need to take if you want to launch a business,
+  while also keeping in mind the realities of operating your own company, so
+  that you plan accordingly from the start.
 ---
 
 ## Define Your Company’s Mission And Goals

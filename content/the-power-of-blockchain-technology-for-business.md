@@ -1,7 +1,7 @@
 ---
 title: The Power of Blockchain Technology for Business
 createdAt: 2022-07-07T16:59:22.073Z
-updatedAt: 2022-07-17T07:24:54.417Z
+updatedAt: 2022-07-17T15:00:31.344Z
 category: crypto
 summary: The blockchain is a distributed ledger that creates an unchangeable
   record of transactions between two parties. This public ledger is accessible
@@ -12,6 +12,15 @@ summary: The blockchain is a distributed ledger that creates an unchangeable
   technology can be used by many types of organizations to manage their
   business, but it has especially found an application in retail and in the
   travel industry.
+intro: >-
+  There are many applications of blockchain technology beyond digital
+  currencies and fintech. The distributed ledger, trust machine, and triple
+  bookkeeping innovator can be applied to almost any business or organization to
+  increase efficiency, security, and trust. Regardless of the size of your
+  company, there are ways that blockchain technology can improve your business
+  processes.
+
+  With so much noise about blockchain as the next big thing for businesses, it’s natural for companies to ask if this is something they should explore. After all, it seems like every press release mentions “blockchain” these days. But what exactly is a blockchain? And how could it help your business? It might not be as new as you think. Let’s take a look at how businesses around the world are using blockchain technology to build trust and transparency in their processes.
 ---
 
 ## What is blockchain technology?

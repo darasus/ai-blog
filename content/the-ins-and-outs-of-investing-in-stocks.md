@@ -1,7 +1,7 @@
 ---
 title: The ins and outs of investing in stocks
 createdAt: 2022-07-07T16:50:32.469Z
-updatedAt: 2022-07-17T05:52:55.646Z
+updatedAt: 2022-07-17T15:00:31.054Z
 category: investing
 summary: The price of a share is determined by the company’s value and the value
   of the stock depends on the company's future prospects. There are two types of
@@ -11,6 +11,17 @@ summary: The price of a share is determined by the company’s value and the val
   long-term, stocks have historically delivered higher returns than other types
   of investments, like bonds and cash, but there is no guarantee that you won’t
   see a loss.
+intro: Being able to invest is one of the best things about being an adult. It
+  gives you a sense of control over your financial future and opens up a world
+  of opportunities.But investing isn’t as simple as putting some money in a
+  stock market and hoping it goes up. There are different types of investments,
+  strategies, risks, rewards, and management styles to consider when choosing
+  how to invest your funds. Fortunately, you don’t need to be an accountant or
+  have a business degree to start investing and growing your money — learning
+  about the different types of investments out there will help you make the
+  right decision for you and your personal circumstances. This article covers
+  everything you need to know about investing in stocks. If you need more detail
+  or have specific questions that we haven’t covered here, please visit
 ---
 
 ## What is stock investing?

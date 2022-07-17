@@ -1,7 +1,7 @@
 ---
 title: How to use coding
 createdAt: 2022-07-07T06:15:00.849Z
-updatedAt: 2022-07-17T06:33:35.930Z
+updatedAt: 2022-07-17T15:00:30.348Z
 category: coding
 summary: Coding is the process of creating a set of instructions for a computer
   to follow. This is typically done with a computer programming language like
@@ -11,6 +11,17 @@ summary: Coding is the process of creating a set of instructions for a computer
   is quickly becoming a marketable skill. It is an excellent skill to introduce
   your child at an early age. It challenges your child’s creative ideas and
   forces them to break down their ideas.
+intro: >-
+  Are you looking for a way to develop your child’s critical thinking
+  skills? Do you want to expose your child to STEM-related fields without
+  sacrificing their creativity and imagination? If so, coding might be the
+  perfect opportunity for both of you.
+
+  Coding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.
+
+  Coding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand. 
+
+  If you’re ready to learn more about how coding can help your kid grow as a person and as a future adult—as well as why it’s important for kids—read on!
 ---
 
 ## What Exactly Is Coding?

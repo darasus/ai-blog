@@ -1,7 +1,7 @@
 ---
 title: 10 tips for keeping your hair healthy and strong
 createdAt: 2022-07-07T06:05:40.870Z
-updatedAt: 2022-07-16T16:10:05.814Z
+updatedAt: 2022-07-17T15:00:31.544Z
 category: health
 summary: Too much washing strips the hair of its natural oils (which are there
   to protect it) Over time, this can lead to breakages, frizziness, and general
@@ -9,6 +9,15 @@ summary: Too much washing strips the hair of its natural oils (which are there
   shampoos that are free of sulfates, as these can be very harsh on strands.
   Rinsing your hair with lemon juice and apple cider vinegar can also aid in
   strengthening your hair. Give your hair a protein boost every now and then.
+intro: >-
+  Keeping your hair healthy can be a challenge at times, but it's important
+  to keep on top of things in order to prevent any further damage. Whether you
+  have fine and sensitive locks or thick and curly tresses, the right routine
+  will help keep your hair strong and prevent it from breaking under pressure.
+  Keeping your hair strong is an ongoing process, but by adopting some simple
+  tips you can make things much easier on your locks long term.
+
+  Learn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...
 ---
 
 ## Basically, don't over-wash

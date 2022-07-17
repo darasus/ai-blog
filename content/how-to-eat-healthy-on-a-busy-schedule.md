@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on a busy schedule
 createdAt: 2022-07-07T06:05:41.565Z
-updatedAt: 2022-07-16T16:18:17.273Z
+updatedAt: 2022-07-17T15:00:31.671Z
 category: health
 summary: The first step to eating healthy is to make a plan and have a supply of
   healthy foods. Eating healthy is all about getting your hands on the right
@@ -11,6 +11,14 @@ summary: The first step to eating healthy is to make a plan and have a supply of
   tissues in your body. Plants are rich in vitamins, minerals, and antioxidants
   – all of which can help you maintain a healthy body. You also need to be open
   to eating frozen foods, as they can be just as nutritious as fresh produce.
+intro: >-
+  Eating healthy on a busy schedule is no easy task. It’s not like we all
+  have hours to cook and prep the perfect meal after a long day at school or
+  work. So how are we supposed to eat right when there’s barely time to even
+  pick up fast food? Well, the answer isn’t as hard as you might think… If you
+  are ready to take control of your diet, then read on…
+
+  If you feel like your life is always in hyper-speed and there’s never enough hours in the day to get everything done, then you know exactly how these pressures can lead to unhealthy eating habits. But that doesn’t have to be the case forever. Even with a busy schedule, it is totally possible for anyone to eat healthy meals regularly.
 ---
 
 ## Make A Plan

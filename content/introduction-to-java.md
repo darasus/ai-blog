@@ -1,7 +1,7 @@
 ---
 title: Introduction to Java
 createdAt: 2022-07-09T06:21:41.377Z
-updatedAt: 2022-07-17T06:55:01.468Z
+updatedAt: 2022-07-17T15:00:30.506Z
 category: coding
 summary: Java is a general-purpose programming language that can be run on any
   device. It’s installed on billions of devices, is used by millions of
@@ -12,6 +12,15 @@ summary: Java is a general-purpose programming language that can be run on any
   confusion is between Java and JavaScript; they are very different languages.
   Java is used to create apps and can be used to build everything from websites
   to robots.
+intro: >-
+  The history of programming languages is littered with abandoned ideas and
+  failed attempts. That’s because creating a new programming language is a
+  challenging process. Creating a language that has its own syntax, parser,
+  compiler, and virtual machine is not easy. 
+
+  It’s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it’s still going strong. There are many good reasons for this, but one of the most important is that Java doesn’t try to be everything to everyone. Its scope is limited, but its potential is vast.
+
+  This article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.
 ---
 
 ## Why is Java Still Relevant After 25 Years?

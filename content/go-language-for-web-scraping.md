@@ -1,7 +1,7 @@
 ---
 title: Go language for web scraping
 createdAt: 2022-07-09T06:29:02.825Z
-updatedAt: 2022-07-17T07:16:43.397Z
+updatedAt: 2022-07-17T15:00:30.674Z
 category: coding
 summary: Web scraping is the extraction of data from websites to retrieve
   specific data in a machine-readable format. Python is a general-purpose
@@ -10,6 +10,12 @@ summary: Web scraping is the extraction of data from websites to retrieve
   Node.js is a programming language that runs inside a web browser and is used
   to create and build web applications. Ruby is designed to simplify the process
   of programming and make it more accessible to new and experienced programmers.
+intro: >-
+  Today, as businesses face increasing pressure to digitize processes and
+  extract value from data, a wide range of organizations are exploring solutions
+  that leverage computer programs to automatically capture data.
+
+  This article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.
 ---
 
 ## What is Web Scraping?

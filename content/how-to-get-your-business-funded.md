@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Business Funded
 createdAt: 2022-07-07T16:45:24.402Z
-updatedAt: 2022-07-16T15:58:10.350Z
+updatedAt: 2022-07-17T15:00:30.924Z
 category: business
 summary: Small business loans are an easy way to fund your business and are
   attractive option to investors. Angel investments are a form of equity
@@ -12,6 +12,15 @@ summary: Small business loans are an easy way to fund your business and are
   typically awarded to fund charitable work or to fund research and development.
   In the end, funding your business is not just about getting cash – it’s about
   building relationships.
+intro: >-
+  Unless you have a trust fund, convertible car, or personal assistant with
+  a keen eye for business opportunities, most new businesses require cash to get
+  going. Fortunately, there are several ways to fund your new venture without
+  dipping into your savings account or cashing in your retirement account. Here
+  are the most common funding sources for small businesses and the pros and cons
+  of each. 
+
+  Whether you’re launching a side gig as a consultant, starting a bespoke clothing line, or opening a neighborhood cafe, researching potential business funding options early will pay dividends later. Business funding can take many forms: Small business loans, angel investments, grants from non-profit organizations and trusts, friends and family members willing to invest in your idea – all these different sources can provide capital necessary to launch your business.
 ---
 
 ## Small Business Loans

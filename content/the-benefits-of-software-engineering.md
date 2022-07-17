@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Software Engineering
 createdAt: 2022-07-09T06:17:21.079Z
-updatedAt: 2022-07-17T06:33:59.686Z
+updatedAt: 2022-07-17T15:00:30.349Z
 category: coding
 summary: Software engineering is a broad field that encompasses a number of
   sub-disciplines. Systems Engineers are responsible for developing large-scale
@@ -12,6 +12,19 @@ summary: Software engineering is a broad field that encompasses a number of
   reading job boards, and attending various hiring events, such as hackathons.
   If you have a computer and an internet connection, you can find a job as a
   software engineer in nearly any country in the world.
+intro: Software engineering is the discipline of programming and designing
+  software, as well as documenting and testing it to ensure that it meets user
+  needs and functions correctly. Software engineering is a broad field that
+  includes several sub-disciplines. Each of these areas has its own unique set
+  of responsibilities and tasks. As an engineer, you might specialize in one or
+  more of these disciplines, but regardless of your area of focus, every
+  software engineer must have a solid understanding of all the different aspects
+  in order to be successful in this exciting career. In this article, we’ll
+  explore some of the many benefits of software engineering. If you’re reading
+  this thinking “Is this article for me?” keep reading! Whether you are new to
+  the industry or just looking for some additional information to increase your
+  knowledge even more, read on to discover why software engineering might be a
+  great career choice for you.
 ---
 
 ## Tasks And Responsibilities Of Software Engineers

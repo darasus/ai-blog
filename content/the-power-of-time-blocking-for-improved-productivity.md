@@ -1,7 +1,7 @@
 ---
 title: The Power of Time Blocking for Improved Productivity
 createdAt: 2022-07-07T16:43:32.635Z
-updatedAt: 2022-07-16T15:57:09.178Z
+updatedAt: 2022-07-17T15:00:30.897Z
 category: business
 summary: Time blocking is designed to help you avoid overstretching your day
   with too many tasks that need to be completed. It can be extremely difficult
@@ -10,6 +10,15 @@ summary: Time blocking is designed to help you avoid overstretching your day
   activity throughout the day. The best way to time block your day is to use a
   calendar and stick to it. This will help you stay away from your phone and
   computer for as long as possible.
+intro: >-
+  Time blocking is a productivity technique that’s been around for quite
+  some time. Famous people like Marie Antoinette, Thomas Jefferson, and even
+  Oprah have been utilizing this technique to achieve peak performance. However,
+  most of us tend to overlook it as something boring or ineffective. But, in
+  reality, time blocking is a surefire way to boost your productivity and
+  increase your output. 
+
+  Time blocking isn’t just about scheduling your day with blocks of activities. It’s all about keeping track of the amount of time you spend on specific tasks throughout the day. To do so, you should list down all the tasks you need to complete during that specific day and allocate a dedicated time slot for each activity you want to finish by the end of that day.
 ---
 
 ## Why is time blocking so effective?

@@ -1,7 +1,7 @@
 ---
 title: "\"BTS's 'Love Yourself: Tear' is a Triumph\""
 createdAt: 2022-07-08T05:58:55.248Z
-updatedAt: 2022-07-17T07:26:31.862Z
+updatedAt: 2022-07-17T15:00:31.979Z
 category: culture
 summary: A lot of the Love Yourself series has focused on the idea of falling in
   love with yourself and the beauty within each person. Lyrics about learning to
@@ -10,6 +10,15 @@ summary: A lot of the Love Yourself series has focused on the idea of falling in
   referred to their past struggles with self-confidence, but now they’re
   confident in their abilities. The new confidence has led to some really odd
   and silly outfits, hairstyles and lyrics that make no sense whatsoever.
+intro: >-
+  BTS’s second album of this Love Yourself series is a triumph. It’s the
+  sound of seven young men pushing themselves to their limits, both vocally and
+  musically, to produce something raw and experimental yet also accessible and
+  highly listenable.
+
+  The lead single “Fake Love” has a brilliant music video that is simultaneously disturbing, weird, funny and beautiful. It’s a very interesting song that has some fascinating elements — most notably, the spoken word part that one can easily imagine being recited in an audition for The Bachelor or some similar reality show.
+
+  This album highlights the vocal strength of each member of BTS, who are now all equally comfortable singing ballads as fast-paced dance tracks. Their vocal abilities are contrasted with a range of musical styles from trap to EDM to psychedelic rock to country, all tied together with lyrics about love and self-love in their own unique way.
 ---
 
 ## Lyrics About Self-Love and Confidence

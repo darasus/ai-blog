@@ -1,7 +1,7 @@
 ---
 title: How Blockchain Technology Can Improve Your Website
 createdAt: 2022-07-07T16:58:27.167Z
-updatedAt: 2022-07-17T07:23:59.207Z
+updatedAt: 2022-07-17T15:00:31.325Z
 category: crypto
 summary: A blockchain is a distributed ledger that enables people and
   organizations to collaborate and transact with each other in new ways. It’s a
@@ -12,6 +12,15 @@ summary: A blockchain is a distributed ledger that enables people and
   decentralized nature of the system means that no single entity controls the
   system. The system can’t be altered or hacked because each block is linked to
   the previous block.
+intro: >-
+  Today, businesses are struggling to keep up with the pace of digital
+  transformation and the growing expectations of their customers. There is a
+  general feeling that something big is about to happen. The Internet as we know
+  it is changing, and new ways to use data are being invented every day. In this
+  rapidly shifting landscape, blockchain technology stands out as one of the
+  most disruptive innovations. 
+
+  But what exactly is blockchain technology? In a nutshell, it’s a decentralized ledger that stores information in places called blocks. Whenever someone wants to add information or a transaction to the ledger, they first need to verify themselves by supplying proof of identity. Each block also has its own unique identifier known as a hash. These identifiers help track information easily without having to store an entire copy of each block, which reduces space significantly and speeds up data transfer speeds significantly.
 ---
 
 ## What is blockchain technology and why should you care?

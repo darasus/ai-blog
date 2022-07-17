@@ -1,7 +1,7 @@
 ---
 title: How to Start an Online Business
 createdAt: 2022-07-07T16:46:02.958Z
-updatedAt: 2022-07-16T15:59:10.969Z
+updatedAt: 2022-07-17T15:00:30.953Z
 category: business
 summary: "An online business is simply a business that is accessible remotely
   over the internet. You can sell products or services online, manage your
@@ -11,6 +11,17 @@ summary: "An online business is simply a business that is accessible remotely
   start an online business. Here are some things you’ll need to get started as
   an online entrepreneur. How to gain customers and drive sales for your online
   business: How to create an advertising budget."
+intro: An online business is a business that operates primarily on the internet.
+  It’s also known as an e-commerce business, which means it sells goods or
+  services online. An online business can be started from home or from an office
+  space, depending on your preference and circumstances. Starting your own
+  e-business doesn’t require significant capital but it does require lots of
+  work and planning. However, the rewards are worth it – entrepreneurs report
+  higher levels of job satisfaction than employees in traditional businesses and
+  the potential profits are far greater than with other types of business
+  ventures. Here are some tips that will help you start your own e-business
+  venture. This article will explain what an online business is, why start one
+  now, what you need to get started, and how to begin your new venture.
 ---
 
 ## What is an online business?

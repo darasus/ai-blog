@@ -1,7 +1,7 @@
 ---
 title: How to eat healthy on the go
 createdAt: 2022-07-07T06:05:42.014Z
-updatedAt: 2022-07-16T16:21:34.280Z
+updatedAt: 2022-07-17T15:00:31.780Z
 category: health
 summary: You never know what you'll find to eat once you’re out in the world.
   Having your own food can help you avoid overspending or consuming food that
@@ -10,6 +10,14 @@ summary: You never know what you'll find to eat once you’re out in the world.
   food. If you have a long road trip ahead of you, you can always pack some nuts
   or trail mix in your bag. You can also always take a bag of carrots with you
   on the plane to munch on once in the air.
+intro: >-
+  Going on a road trip, catching an early morning flight or going to your
+  new internship for the first time can all be stressful. You have to leave home
+  at ungodly hours to get there on time, you have to read through pages of
+  instructions and you might even have to fend for yourself without your
+  parents’ help. This is where packing healthy snacks comes in handy.
+
+  On-the-go food isn’t always healthy and nutritious. With more fast food chains popping up everywhere, it’s becoming increasingly difficult for us to find healthy meals that are also quick and convenient to eat. If you find yourself caught off guard by these circumstances often, here are some tips on how you can eat healthy while traveling or commuting.
 ---
 
 ## Pack your own food

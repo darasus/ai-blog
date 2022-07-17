@@ -1,7 +1,7 @@
 ---
 title: The best recipes for using up seasonal produce
 createdAt: 2022-07-07T06:05:39.964Z
-updatedAt: 2022-07-17T06:00:56.680Z
+updatedAt: 2022-07-17T15:00:29.193Z
 category: cooking
 summary: The best way to make sure you get the most of it is to plan your meals
   for the week and go with root vegetables. Root vegetables contain lots of
@@ -9,6 +9,16 @@ summary: The best way to make sure you get the most of it is to plan your meals
   can use root vegetables in soups, stews, and even desserts. Preserve the fresh
   produce you have now and use it to preserve it in winter. Use leftovers to mix
   up your leftovers by incorporating seasonal produce with seasonal produce.
+intro: >-
+  When you’re eating seasonally, you can take advantage of peak local
+  produce to make the most of it and reduce food waste. However, it can also
+  feel like a challenge at times: when there’s nothing in your CSA box but
+  potatoes for the third week in a row or another arctic blast has come and gone
+  without leaving behind any winter squash… What are you supposed to do?
+
+  And truth be told, there are some downsides involved with eating seasonally. For example, it might feel more expensive to buy vegetables only when they’re in season; that may not always be the case, but often the non-seasonal price is lower because they are grown more efficiently with fewer inputs on an industrial scale. 
+
+  However, there are plenty of upsides too! Eating seasonally means that you get to enjoy different flavors throughout the year — which is something many people don’t tend to do.
 ---
 
 ## Plan your meals for the week.

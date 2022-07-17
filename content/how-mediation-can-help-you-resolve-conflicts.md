@@ -1,7 +1,7 @@
 ---
 title: How mediation can help you resolve conflicts
 createdAt: 2022-07-09T06:12:40.852Z
-updatedAt: 2022-07-16T15:48:10.731Z
+updatedAt: 2022-07-17T15:00:30.018Z
 category: life
 summary: Mediation is an excellent technique for ending disputes between
   friends, colleagues, family members or any party involved in a conflict. It
@@ -12,6 +12,16 @@ summary: Mediation is an excellent technique for ending disputes between
   from arising in the future. The Medio app uses AI-based algorithms to help you
   navigate the mediation process and come to an agreement that works for both
   sides.
+intro: >-
+  Mediation is a process of conflict resolution that helps people
+  communicate with each other to resolve their conflicts. In this blog, we will
+  explore what mediation is and why it works. If you are currently embroiled in
+  a conflict or anticipate that one may arise, you may find the ideas in this
+  blog article helpful. 
+
+  Mediation is an excellent technique for ending disputes between friends, colleagues, family members or any party involved in a conflict. It involves bringing neutral third-party mediators into the conflict and having them help both sides understand and work through their issues so they can resolve the problems on their own from there moving forward. 
+
+  Keep reading to learn more about mediation and why it works so well for resolving conflicts.
 ---
 
 ## What is mediation?

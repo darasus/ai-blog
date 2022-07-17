@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a part of your lifestyle
 createdAt: 2022-07-07T06:05:41.946Z
-updatedAt: 2022-07-16T16:20:52.782Z
+updatedAt: 2022-07-17T15:00:31.772Z
 category: health
 summary: People who eat breakfast are more successful at losing weight and
   maintaining a healthy weight than those who skip the first meal of the day.
@@ -10,6 +10,16 @@ summary: People who eat breakfast are more successful at losing weight and
   eating efforts. Make sure you have healthy snacks on hand, especially if you
   work in an office and have limited access to a kitchen. Exercise regularly can
   help to regulate your appetite and reduce the amount of calories you eat.
+intro: >-
+  You probably know that eating a healthy diet is important. After all,
+  five out of the top 10 causes of death in America are linked to unhealthy
+  eating habits. However, it’s not always easy to eat healthy. Work, school,
+  family obligations and other commitments often make it challenging to follow a
+  healthy diet on a daily basis. Fortunately, there are ways to make healthy
+  eating a part of your lifestyle instead of an awkward obligation once a week
+  or so. 
+
+  And while we all have our moments when we crave junk food or a big greasy meal after a stressful day, making healthy eating a part of your everyday life can have profound benefits. A balanced diet filled with lots of fruits and vegetables lowers risk for almost every disease and helps you feel better mentally and physically. Follow these tips to help you integrate healthy eating into your daily routine as seamlessly as possible.
 ---
 
 ## Plan ahead

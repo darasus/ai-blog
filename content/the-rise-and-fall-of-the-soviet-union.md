@@ -1,7 +1,7 @@
 ---
 title: The Rise and Fall of the Soviet Union
 createdAt: 2022-07-07T06:16:02.109Z
-updatedAt: 2022-07-17T05:45:49.163Z
+updatedAt: 2022-07-17T15:00:29.641Z
 category: politics
 summary: After Lenin’s death in 1924, the Soviet Union was led by a group of
   five men called the “troika,” which included Stalin, as well as Leon Trotsky
@@ -11,6 +11,16 @@ summary: After Lenin’s death in 1924, the Soviet Union was led by a group of
   agriculture declining and heavy-polluting mining industry polluting the land
   and water. In the 1980s, Soviet Union began to falter due to a mixture of
   economic, political and social problems.
+intro: >-
+  In the 20th century, a group of nations came together to form the Soviet
+  Union. This union of communist states collapsed in 1991 and left many people
+  wondering how such a powerful alliance could fall apart so quickly. The answer
+  lies in the complex nature of the Soviet Union as a union of independent
+  states that also operated as part of a centralized government. When combined
+  with pressures from outside forces, this unique structure led to the collapse
+  of the Soviet Union. 
+
+  The rise and fall of the Soviet Union can be traced back to Vladimir Lenin and his Marxist ideology. In 1917, Lenin led the Bolshevik Revolution and gained control over Russia. At this time, he also introduced policies that would help establish communism throughout Russia and other areas – known as “the fourth partition” – controlled by his Red Army. These policies included state ownership of land and businesses; heavy taxes on landowners; centralization; and controls on trade, production, wages, prices, accounting, exchange rates and foreign currency transactions.
 ---
 
 ## The Soviet Union after Lenin

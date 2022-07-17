@@ -1,7 +1,7 @@
 ---
 title: "How to Start Investing in Stocks: A Step by Step Guide for Beginners!"
 createdAt: 2022-07-17T11:48:16.861Z
-updatedAt: 2022-07-17T11:48:16.861Z
+updatedAt: 2022-07-17T15:00:31.120Z
 category: investing
 summary: The New York Stock Exchange and the Nasdaq are two of the most
   well-known stock exchanges in the world. The value of a stock is determined by
@@ -10,6 +10,15 @@ summary: The New York Stock Exchange and the Nasdaq are two of the most
   advantage by buying stocks when they are low. Early investors make money when
   the price of their stock rises and sell their stock for a profit. The returns
   from those stocks can compound over time.
+intro: >-
+  With the stock market hitting new highs almost every day, investing in
+  stocks might seem like a risky proposition. However, as with any investment,
+  there are risks involved in buying stocks. However, the stock market is a
+  great place to grow your money over the long term. 
+
+  If you’re thinking about starting to invest, understanding how stocks work and what the risks are can help you make an informed decision about whether or not you should invest your money in stocks. 
+
+  This guide will walk you through everything you need to know about investing in stocks for beginners. It covers topics such as why investing in stocks is a good idea, some general risks of investing and how to get started.
 ---
 
 ## What is the Stock Market?

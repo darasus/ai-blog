@@ -1,7 +1,7 @@
 ---
 title: How to Make Self-Learning a Habit
 createdAt: 2022-07-09T06:34:47.711Z
-updatedAt: 2022-07-17T07:28:30.838Z
+updatedAt: 2022-07-17T15:00:32.185Z
 category: productivity
 summary: Vocabulary is the core of language and hence is the most important
   aspect of communication. The more words you know and understand, the more
@@ -11,6 +11,15 @@ summary: Vocabulary is the core of language and hence is the most important
   watch TED Talks to learn more about a topic that you want to explore in depth.
   Use different reading techniques like skimming, scanning, and speed reading to
   make the most of your time.
+intro: >-
+  Are you a fast learner? Do you have the ability to assimilate new
+  information and learn from your mistakes quickly? How about self-learning
+  skills? If the answers to these questions are in the negative, then it’s time
+  for you to take some serious action.
+
+  Self-learning is a continuous process and not something that happens only once or twice in one’s lifetime. In fact, it is an ongoing, never-ending process. It is a way of thinking, an approach to learning and a set of strategies that can be used at any point in time. Self-learning is basically learning how to learn, so that we can continue to grow even after finishing school or university. 
+
+  Even adults prefer different methods of learning such as reading books on their own instead of listening to lectures or attending group classes. There are numerous ways through which you can tap into your inherent abilities and cater to your specific needs as an adult learner. These tips will help you hack your self-learning skills in no time.
 ---
 
 ## Build your vocabulary.

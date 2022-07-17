@@ -1,7 +1,7 @@
 ---
 title: "\"Chvrches' 'Love Is Dead' is a Pop Gem\""
 createdAt: 2022-07-08T05:59:16.955Z
-updatedAt: 2022-07-17T07:26:27.059Z
+updatedAt: 2022-07-17T15:00:31.987Z
 category: culture
 summary: The synth is the backbone of Chvrches’ sound, and it rarely gets more
   explicit than on “Love Is Dead” The band is known for their synth-heavy sound,
@@ -10,6 +10,15 @@ summary: The synth is the backbone of Chvrches’ sound, and it rarely gets more
   heavy, hitting you on the head every time you start to relax. The lyrics are
   barbed, and they pull no punches when it comes to criticizing society's ills.
   The title track takes aim squarely at toxic masculinity.
+intro: >-
+  Chvrches has always had a knack for blending genres with ease. The
+  Scottish trio started as an indie rock band with a synth-heavy twist, and
+  their sophomore album, "Every Open Eye," saw them moving in a more
+  pop-friendly direction.
+
+  However, on their new record, "Love Is Dead," the band goes from pop to pop punk in an almost blink-and-you'll-miss-it moment. Even still, this isn't your average pop punk record; it's fizzy and fun but also barbed with social commentary. 
+
+  From the opening track “Get Out” to the final notes of “ENDENDEND,” “Love Is Dead” is a clear and concise pop gem that feels like an appropriate ending to Chvrches’ discography so far.
 ---
 
 ## The Synths Are as Big a Star as ever

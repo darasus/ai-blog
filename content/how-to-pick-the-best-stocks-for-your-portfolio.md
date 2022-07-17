@@ -1,7 +1,7 @@
 ---
 title: How to pick the best stocks for your portfolio
 createdAt: 2022-07-07T16:53:23.451Z
-updatedAt: 2022-07-17T05:56:16.063Z
+updatedAt: 2022-07-17T15:00:31.116Z
 category: investing
 summary: The stock market is constantly changing, which means you have to be
   flexible when choosing stocks for your portfolio. Diversification can be done
@@ -11,6 +11,14 @@ summary: The stock market is constantly changing, which means you have to be
   decide how much money you want to invest in each of your chosen stocks. Don’t
   rely on only one source of information in order to truly get a feel for the
   company.
+intro: >-
+  New investors often struggle with how and where to invest their money.
+  There are so many stock marketplaces, brokerages, and investment options that
+  it can be overwhelming. However, picking the right stocks is important—your
+  portfolio will largely be made up of stocks for a reason. The market may
+  fluctuate rapidly, but your financial future rests on sound investments. 
+
+  Let’s take a look at some tips for picking the best stocks for your portfolio in any market. Your stock portfolio may seem like an unchangeable part of your financial plan, but it’s actually one of the most flexible components. Once you know what kind of risk profile you’re comfortable with and which industries or sectors you want to invest in, you’ll have a clearer picture of what kind of stocks to buy. Here’s what you need to know about picking the best stocks for your portfolio:
 ---
 
 ## Know your risk tolerance

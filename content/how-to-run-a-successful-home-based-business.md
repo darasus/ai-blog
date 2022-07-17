@@ -1,7 +1,7 @@
 ---
 title: How to Run a Successful Home-Based Business
 createdAt: 2022-07-07T16:45:35.309Z
-updatedAt: 2022-07-16T15:58:48.856Z
+updatedAt: 2022-07-17T15:00:30.926Z
 category: business
 summary: You will need to understand who you want to reach with your business
   and what your target audience is. Building a website or a social media
@@ -11,6 +11,14 @@ summary: You will need to understand who you want to reach with your business
   out there and build a following or customers. You can spend money on ads if
   your business is not profitable enough or if you are looking for quick
   results.
+intro: >-
+  Starting a home-based business is a great way for you to earn money from
+  something that you enjoy. However, it is not as simple as setting up a website
+  or an Etsy shop and waiting for the cash to roll in. You will need to put in
+  plenty of time and effort before your business starts to bring in regular
+  income. 
+
+  Working from home gives you a lot of flexibility and can save you money on commuting, hotels and office space. However, there are also some downsides. Working from home means you are never really "off" as there will always be someone at home to answer calls, visitors knocking on the door or even delivery services coming to your address. It will also involve more responsibility than working for someone else as everything goes back to you. That’s why we have prepared this guide on how to run a successful home-based business so that you know what to expect when starting one of your own.
 ---
 
 ## Know Your Audience

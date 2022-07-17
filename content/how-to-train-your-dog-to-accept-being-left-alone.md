@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Accept Being Left Alone
 createdAt: 2022-07-08T06:27:06.224Z
-updatedAt: 2022-07-16T15:36:05.943Z
+updatedAt: 2022-07-17T15:00:29.907Z
 category: life
 summary: Dogs are instinctively den animals, so when left alone, they’ll try to
   find a place that feels safe and comfortable. Find an appropriate crate to
@@ -10,6 +10,16 @@ summary: Dogs are instinctively den animals, so when left alone, they’ll try t
   Give your dog plenty of exercise, mental stimulation, and nutrition to help
   them feel secure in their surroundings. Give them toys such as puzzle toys to
   keep them busy while you are out or at work.
+intro: As much as we love our dogs, and vice versa, no one likes the dreaded
+  "crap, I have to go back to work" feeling. Putting your dog in a boarding
+  facility or kennel isn’t an easy decision for most pet owners, especially if
+  you have a sensitive breed (i.e., lots of barking = unhappy dogs). So how can
+  you get your pup ready to be on their own? It’s not as simple as locking them
+  in a closet for a few hours once or twice and then expecting them to be cool
+  with it. Dogs don’t think like people; they don’t understand symbolic actions
+  like turning off the light as meaning that you won’t be coming back home
+  tonight. They have instinctual fear responses that need to be addressed
+  specifically with training and care before leaving them alone.
 ---
 
 ## Set ground rules while you’re home

@@ -1,7 +1,7 @@
 ---
 title: 10 Ways to Make a Workout Fun, Even If You Hate Working Out
 createdAt: 2022-07-17T11:48:40.203Z
-updatedAt: 2022-07-17T11:48:40.203Z
+updatedAt: 2022-07-17T15:00:31.875Z
 category: health
 summary: If you’re tired of the same old running or cycling classes, consider
   taking a new exercise class. Working out with friends can be one of the best
@@ -10,6 +10,16 @@ summary: If you’re tired of the same old running or cycling classes, consider
   much you can’t imagine ever enjoying it, consider committing to a short
   workout only. Consider choosing a good music mix for your workout, especially
   if you're doing an indoor workout.
+intro: The unfortunate reality is that not everyone loves working out, and many
+  people struggle to find activities they enjoy enough to continue on a regular
+  basis. Some people hate it because of the physical discomfort, others because
+  it’s boring and feels like a chore, and for even more it’s simply harder than
+  they expected. . . Fortunately, there are plenty of ways to make your next
+  workout fun again. Even if you hate exercising. Even if you feel unmotivated
+  and drained every time you try. Working out doesn’t have to be something you
+  dread or look forward to only once in awhile. You just need the right
+  strategies and techniques, which we’ve outlined below as our top 10 ways to
+  make a workout fun again, no matter how much you hate working out!
 ---
 
 ## Try a New Exercise Class

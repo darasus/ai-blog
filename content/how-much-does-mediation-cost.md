@@ -1,7 +1,7 @@
 ---
 title: How much does mediation cost?
 createdAt: 2022-07-09T06:16:02.425Z
-updatedAt: 2022-07-16T15:50:19.615Z
+updatedAt: 2022-07-17T15:00:30.141Z
 category: life
 summary: Mediation methods can vary greatly, but most mediation sessions follow
   a similar process. The length of time it takes to complete a mediation session
@@ -11,6 +11,16 @@ summary: Mediation methods can vary greatly, but most mediation sessions follow
   parties and their representatives can resolve the issues, they do so at this
   stage. If they are unable to reach an agreement, the mediators will issue a
   written mediation report.
+intro: >-
+  Mediation, like other forms of dispute resolution, is not free. You pay
+  for it either directly by paying the mediator or indirectly by paying the
+  lawyers. But how much does mediation cost? 
+
+  Mediation costs will vary depending on where you live, the nature of your dispute, and the reputation of the mediator or firm you choose to take on your case. 
+
+  While some attorneys may offer their clients a choice between litigation and a certain number of hours of mediation at a reduced rate as an alternative to litigation, most attorneys charge their standard rates for mediation services. 
+
+  The hourly rate for a private mediator may range from $100 per hour to $300 per hour or more; however, most mediators will have standard market rates that fall within that range. Many corporations and nonprofit organizations negotiate group discounts when contracting with third-party mediation services. In general, expect to spend $200 to $500 per party for a one-day mediation session with two neutral mediators and an independent arbiter.
 ---
 
 ## How Long Does Mediation Take?

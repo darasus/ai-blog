@@ -1,7 +1,7 @@
 ---
 title: '"Selma" is a powerful and moving historical drama'
 createdAt: 2022-07-08T05:57:20.311Z
-updatedAt: 2022-07-17T07:25:49.328Z
+updatedAt: 2022-07-17T15:00:31.905Z
 category: culture
 summary: '"Selma" is a powerful and moving historical drama that is as relevant
   today as it was in the 1960s. The film is recommended for viewers 13 years and
@@ -10,6 +10,24 @@ summary: '"Selma" is a powerful and moving historical drama that is as relevant
   a protester is groped by a law enforcement officer) “Selma’s director, Ava
   DuVernay, has a deep respect and admiration for the African-American activists
   who paved the way for future generations.'
+intro: "It’s been more than a century since the fight for voting rights was so
+  prominent in American society. Films like “Selma” are necessary to remind
+  viewers of this period in our history and the crucial role that certain people
+  played in ensuring voting rights are protected. Before many others, Dr. Martin
+  Luther King, Jr., along with other civil rights leaders, attempted to register
+  African-Americans to vote in Selma, Alabama. It was here where police
+  brutality and attacks on protesters were prevalent and where media attention
+  centered around televised trials of two men accused of murdering local Black
+  residents. The town was also home to Selma’s most famous resident at the time:
+  Collin W. Lewis, also known as “the Lion of Selma” – a prominent civil rights
+  leader who had grown up there after his family fled Greenwood as part of the
+  Great Migration from 1916-1921. In 1965, Lewis recruited Dr. King to come
+  speak at Selma High School about voting rights. It was here where their
+  partnership began and culminated in the historic march across the Edmund
+  Pettus Bridge on March 7th, 1965 – known today as Bloody Sunday because those
+  marching were violently attacked by law enforcement officers (including tear
+  gas, billy clubs, and bull whips), leaving many injured and 26 hospitalized
+  (Voting Rights Timeline)."
 ---
 
 ## Synopsis

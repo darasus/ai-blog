@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Leave It
 createdAt: 2022-07-08T06:25:38.263Z
-updatedAt: 2022-07-16T15:17:22.698Z
+updatedAt: 2022-07-17T15:00:29.889Z
 category: life
 summary: There are several ways to make your dog more aware of what’s off
   limits. The “Leave It” command is simple enough that even young puppies can
@@ -10,6 +10,17 @@ summary: There are several ways to make your dog more aware of what’s off
   them. Remember that training your dog to leave things alone won’t happen
   overnight. Like humans, dogs also have to learn as they go, and they’re bound
   to make mistakes along the way.
+intro: >-
+  Perhaps the most frustrating thing about owning a dog is that your house
+  can never really be your own again. Fussing and fuming won’t make them any
+  less likely to follow you anywhere, or to notice that bag of chips you just
+  carelessly threw on the table. Dogs are dogs, which means they will follow
+  your slightest lead and chip in with their two cents at every opportunity.
+  Sadly, this also means that it’s not uncommon for dogs to get into things they
+  shouldn’t. You like peace and quiet? Not so much when there’s a dog around.
+  You like keeping your things? Good luck with that. 
+
+  But luckily, with some bit of training and persistence, you can teach your pup exactly what’s off limits and exactly where to leave it instead. Best of all, all these tricks take very little time and effort on our part. It doesn’t have to be hard! Let’s check out how!
 ---
 
 ## Rule 1: Have A Dinner Party

@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for kids
 createdAt: 2022-07-08T06:01:07.722Z
-updatedAt: 2022-07-17T07:27:08.000Z
+updatedAt: 2022-07-17T15:00:32.080Z
 category: gaming
 summary: "Lego DC Super-Villains is the latest addition to the ever-popular Lego
   series. Super Smash Bros Ultimate is a fighting game that can be played on
@@ -11,6 +11,15 @@ summary: "Lego DC Super-Villains is the latest addition to the ever-popular Lego
   re-build. Animal Crossing: New Leaf Welcome to the RV Park is based on the
   Animal Crossing universe, a series that has sold more than 39 million copies
   worldwide."
+intro: Gaming is an activity that has been enjoyed by kids for many years and it
+  shows no sign of stopping. In fact, the market for kids games has grown so
+  much that there is now a range of specialist games developers who only make
+  games targeted at this audience. The release of new gaming devices such as the
+  Nintendo Switch, Google Stadia and the Xbox Scarlett has also led to a renewed
+  interest in kid-friendly games from parents and other adult gamers. Here we
+  have put together our favorite kid-friendly video games that you can play at
+  home with your child or let them play on their own to help develop their
+  skills.
 ---
 
 ## Lego DC Super-Villains

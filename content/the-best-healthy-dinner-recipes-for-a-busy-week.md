@@ -1,7 +1,7 @@
 ---
 title: The best healthy dinner recipes for a busy week
 createdAt: 2022-07-07T06:05:42.128Z
-updatedAt: 2022-07-16T16:22:38.283Z
+updatedAt: 2022-07-17T15:00:31.803Z
 category: health
 summary: Beans are a cheap, high-protein source of fibre that can be prepared in
   many different ways. Brown rice takes longer to cook than white rice, but it’s
@@ -9,6 +9,16 @@ summary: Beans are a cheap, high-protein source of fibre that can be prepared in
   their own, try adding them to omelettes or quiches, or use them as the base
   for a frittata. Chicken is a low-cost source of protein that is quick and easy
   to prepare if you have a few minutes.
+intro: >-
+  Are you in a constant state of busy? Between work, school, and social
+  events, it can feel like there’s no time left in the day. But that doesn’t
+  mean you have to forgo healthy home-cooked meals. In fact, research shows
+  eating at home more often is one of the small changes that lead to big weight
+  loss over time. Healthy dinners don’t have to take long to make or cost a lot
+  of money. With these healthy dinner recipes for a busy week, you can have
+  wholesome meals with minimal effort and expense. 
+
+  Add variety to your diet with these ideas for main dishes, snacks, sides, sauces, and drinks all based on common ingredients found in most kitchens. Preparing your own food instead of eating out or buying pre-made meals saves money while also helping you eat better. You may not think it now but these concepts are simple and will be very helpful when you are preparing your own food instead of eating outside or pre-made meal packs consistently after reading this article .
 ---
 
 ## Beans

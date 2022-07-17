@@ -1,7 +1,7 @@
 ---
 title: Exception handling in Java
 createdAt: 2022-07-09T06:23:39.342Z
-updatedAt: 2022-07-17T06:55:47.180Z
+updatedAt: 2022-07-17T15:00:30.561Z
 category: coding
 summary: Using try-catch blocks is the recommended way of handling exceptions in
   Java. The checked and unchecked keywords are used when you expect a method to
@@ -11,6 +11,16 @@ summary: Using try-catch blocks is the recommended way of handling exceptions in
   exception handlers. This article will teach you about the exception handling
   in Java and how you can handle exceptions in your code. It is crucial for
   programmers to understand how exceptions work in Java.
+intro: >-
+  In programming, nothing can be 100% perfect. There will always be some
+  kind of error or unexpected event that could happen during execution of a
+  program. These issues are referred to as “exceptions”, and they may take many
+  forms. For example, an exception could be something like reading from an empty
+  string variable, trying to access the sixth element of an array with only five
+  elements, or even something as simple as not having enough memory available to
+  continue executing instructions. 
+
+  These exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has “exceptionally” failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.
 ---
 
 ## What is Exception handling in Java?

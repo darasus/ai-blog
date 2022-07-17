@@ -1,7 +1,7 @@
 ---
 title: The different types of mediation
 createdAt: 2022-07-09T06:13:39.894Z
-updatedAt: 2022-07-16T15:48:05.808Z
+updatedAt: 2022-07-17T15:00:30.040Z
 category: life
 summary: There are many different types of mediation, each with its own set of
   rules and expectations for participants. General mediation can be used in a
@@ -11,6 +11,16 @@ summary: There are many different types of mediation, each with its own set of
   dispute without going to court. The mediator is not an advocate or
   decision-maker, but a neutral third party who facilitates communication
   between the disputing parties.
+intro: >-
+  Mediation is the practice of resolving conflict and negotiating solutions
+  with the help of a neutral third party. There are many different types of
+  mediation, each with its own set of rules and expectations for participants.
+  Understanding these variations is crucial to picking the right mediation
+  process for your specific needs. 
+
+  Mediation can be broadly divided into two categories: third-party mediation, where an impartial mediator helps parties reach agreement; and collaborative or problem-solving mediation, where the mediator acts as a guide who helps both parties negotiate in good faith and move towards a mutually beneficial solution. 
+
+  Each type of mediation has its own set of rules and requirements. In this blog post we’ll explore some of the most common forms of mediation, including general mediation, third-party neutral mediation, guided collaborative mediation, hybrid collaborative-neutral mediation and expert team services (ETS).
 ---
 
 ## What Is General Mediation?

@@ -1,7 +1,7 @@
 ---
 title: How to deal with a partner who's always travelling
 createdAt: 2022-07-08T06:24:20.904Z
-updatedAt: 2022-07-16T15:11:41.192Z
+updatedAt: 2022-07-17T15:00:29.801Z
 category: life
 summary: You have to be able to talk honestly and openly with your partner.
   Communication is important when dating someone who travels frequently. Don’t
@@ -10,6 +10,15 @@ summary: You have to be able to talk honestly and openly with your partner.
   a way that both of you can be discreet about it. Only a very small number of
   people in long-distance relationships cheat on their partners. If you want to
   make it work, you have to accept that it will be a big part of their life.
+intro: >-
+  Do you long for the days when your partner would snuggle up next to you
+  and watch Netflix instead of travelling for work? If you’re dating someone who
+  travels frequently, those days might be over. But don’t worry — it’s not over
+  forever. These types of relationships are special in their own way. 
+
+  We all have different priorities in a relationship, but sometimes those differences can put strain on your partnership. When one partner is always traveling for work, there will be some challenges. You have to figure out ways to keep the romance alive, even in difficult circumstances. 
+
+  There are many things you should know about being with someone who travels a lot for work. Here are some tips to help you get past the difficulties and stay positive about your relationship as a whole.
 ---
 
 ## Communicate Often

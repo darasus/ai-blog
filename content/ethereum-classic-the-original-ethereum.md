@@ -1,7 +1,7 @@
 ---
 title: "Ethereum Classic: The Original Ethereum"
 createdAt: 2022-07-07T16:55:10.480Z
-updatedAt: 2022-07-17T07:23:43.231Z
+updatedAt: 2022-07-17T15:00:31.218Z
 category: crypto
 summary: ETC (ETC) is one of the top 10 cryptocurrencies on the market today,
   with a market cap of almost $6 billion. It's the world’s 14th most valuable
@@ -11,6 +11,18 @@ summary: ETC (ETC) is one of the top 10 cryptocurrencies on the market today,
   because such an action would be a violation of blockchain principles. It
   operates on a different consensus mechanism, which is not as advanced or
   optimized.
+intro: >-
+  Ethereum is the world’s leading blockchain for smart contracts. It
+  brought about a new wave of decentralized applications that no one could have
+  imagined in the early days of cryptocurrency. Ethereum has also proven to be
+  an invaluable source of inspiration for other projects that are trying to
+  build similar platforms with different objectives and features. One such
+  project is Ethereum Classic (ETC). Although it might sound like another
+  version of Ethereum, it is actually a continuation of the original Ethereum
+  software, which was later on referred to as “ETH” when its token achieved its
+  own market cap and ticker symbol. 
+
+  Ethereum Classic is essentially the original Ethereum codebase but with unrestricted miner checks, increased gas costs, and general code optimisations. Think of ETC as the anti-ETH; a blockchain that allows developers to deploy applications without any possible malicious interference from miners or anyone else who may control ETH in the future. Below you will find all you need to know about Ethereum Classic, how it differs from "new" Ethereum, and how you can buy ETC.
 ---
 
 ## What is Ethereum Classic?

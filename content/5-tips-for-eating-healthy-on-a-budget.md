@@ -1,7 +1,7 @@
 ---
 title: 5 tips for eating healthy on a budget
 createdAt: 2022-07-07T06:05:40.415Z
-updatedAt: 2022-07-16T15:00:07.224Z
+updatedAt: 2022-07-17T15:00:29.767Z
 category: life
 summary: Eating healthy almost always includes eating lots of fruits and
   vegetables, so buying lots of produce can get expensive very quickly. Buying
@@ -11,6 +11,16 @@ summary: Eating healthy almost always includes eating lots of fruits and
   are lots of myths there that vegan diets are more expensive, but this isn’t
   always the case, even if you’re not vegan, vegan options can be a good choice
   for many meals.
+intro: >-
+  Are you trying to eat healthier but find that healthy foods are
+  expensive? Are you trying to make a good meal last for several days and not
+  just one? Are you struggling to find affordable, healthy options near your
+  home or work? If so, you’re not alone. Eating healthy can be expensive and
+  challenging. The cost of healthy food has gone up while the cost of unhealthy
+  food has gone down. But this doesn’t mean that eating healthy is impossible;
+  it just means we all need to get a little bit more creative. 
+
+  Eating well on a budget can be challenging, but it isn’t impossible. Making smart choices about what you buy as well as how you cook your food can make a big difference in how much money you spend on food each month and how healthy your diet is at the same time.
 ---
 
 ## Plan Your Meals

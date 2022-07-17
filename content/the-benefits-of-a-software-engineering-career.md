@@ -1,7 +1,7 @@
 ---
 title: The Benefits of a Software Engineering Career
 createdAt: 2022-07-09T06:18:15.349Z
-updatedAt: 2022-07-17T06:35:18.303Z
+updatedAt: 2022-07-17T15:00:30.372Z
 category: coding
 summary: Software engineers create user-friendly, easy to use, and solve
   problems for businesses. Software engineers also create new programs or apps
@@ -11,6 +11,18 @@ summary: Software engineers create user-friendly, easy to use, and solve
   seven-figure salaries. The average annual salary for software engineering is
   over $100,000. You can expect to earn a good salary and have job prospects
   that are very positive.
+intro: >-
+  Software engineers are responsible for developing new software or fixing
+  existing code to make sure it meets user needs and performs as expected. They
+  use logical thinking, problem-solving skills, and a variety of technical
+  principles when they create and test software applications. As a software
+  engineer, you could get the opportunity to work on projects that solve
+  challenging problems. This career can help you gain new skills, advance your
+  career, and build a more stable future for yourself. Let’s take a closer look
+  at why you should consider making a career in software engineering if you’re
+  interested in computer science or another STEM field. 
+
+  Software engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.
 ---
 
 ## Tasks And Responsibilities Of A Software Engineer

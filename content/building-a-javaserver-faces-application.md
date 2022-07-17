@@ -1,7 +1,7 @@
 ---
 title: Building a JavaServer Faces application
 createdAt: 2022-07-09T06:25:50.314Z
-updatedAt: 2022-07-17T07:14:29.658Z
+updatedAt: 2022-07-17T15:00:30.584Z
 category: coding
 summary: In this tutorial, we will create a simple JavaServer Faces application
   with a single view and a few managed beans. This application will contain a
@@ -10,6 +10,16 @@ summary: In this tutorial, we will create a simple JavaServer Faces application
   fields and can be manipulated in the same way as regular editors and
   validators. We will also define a simple bean-scoped bean-managed bean-entry
   method and define a view.
+intro: >-
+  JavaServer Faces (JSF) is an implementation of the standard server-side
+  UI component architecture called “Facelets”. This makes JSF a framework that
+  uses XML markup instead of code for building and rendering user interfaces.
+
+  A JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as “heavyweight” because there are many different pieces involved to build it.
+
+  As we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements. 
+
+  In this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA
 ---
 
 ## Creating a New JavaServer Faces Project in IntelliJ IDEA

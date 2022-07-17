@@ -1,7 +1,7 @@
 ---
 title: Go language for scientific computing
 createdAt: 2022-07-09T06:30:25.771Z
-updatedAt: 2022-07-17T07:19:20.161Z
+updatedAt: 2022-07-17T15:00:30.702Z
 category: coding
 summary: Programs written in Go will typically be compiled to several times
   faster than programs written in languages like C/C++ or Fortran. Go is
@@ -12,6 +12,15 @@ summary: Programs written in Go will typically be compiled to several times
   features that will make programming in Go an even better experience. The
   language is an excellent choice for any project that requires scientific
   computing.
+intro: >-
+  The Go programming language has gained popularity in the software
+  engineering community over the last couple of years. Many developers have
+  taken a liking to Go because of its simplicity, readability, and faster
+  compilation time. Other benefits include having little to no runtime overhead,
+  being memory safe by default, and being able to compile Go code as standalone
+  binaries or as packages (called packages in Go). 
+
+  Go is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.
 ---
 
 ## Performance

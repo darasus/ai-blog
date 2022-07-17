@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Procrastination and Boost Productivity
 createdAt: 2022-07-07T16:43:12.872Z
-updatedAt: 2022-07-16T15:56:54.473Z
+updatedAt: 2022-07-17T15:00:30.895Z
 category: business
 summary: "There are many potential causes of procrastination, but they all come
   down to two things: a bad feeling and a bad promise. The formula for
@@ -11,6 +11,13 @@ summary: "There are many potential causes of procrastination, but they all come
   can’t continue working. The secret to overcoming procrastina is to identify
   and address the causes of your procrastinations, and implement the solution
   that works best."
+intro: >-
+  As soon as you start working, you feel like procrastinating. The idea of
+  your project seems so fascinating that you can’t wait to get back to it.
+  Unfortunately, the time when you least want to work is exactly when you need
+  to work. 
+
+  Working feels like a burden and every task seems like an uphill struggle. You hate yourself for putting off something that is so beneficial for your future and your career. You’re also terrified about what will happen if you don’t finish this assignment by tomorrow. You don’t want to fail the course, lose your scholarship and end up homeless somewhere in a strange city where none of your friends live. However, all of this seems much more appealing than getting back to work on the project again; it’s even more appealing than thinking about how difficult life will be without the degree or scholarship at home.
 ---
 
 ## The Procrastination Equation

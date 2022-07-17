@@ -1,7 +1,7 @@
 ---
 title: How to mediate effectively
 createdAt: 2022-07-09T06:12:58.748Z
-updatedAt: 2022-07-16T15:48:07.082Z
+updatedAt: 2022-07-17T15:00:30.023Z
 category: life
 summary: Mediation is best used to resolve personal conflicts between two or
   more employees that do not involve a breach of contract, fraud, or
@@ -10,6 +10,16 @@ summary: Mediation is best used to resolve personal conflicts between two or
   productive mediation, and the parties should have an agreement that both sides
   are willing to sign. If mediation is unsuccessful, you may still be able to
   avoid litigation by having the dispatants sign a mediation declaration.
+intro: >-
+  Mediation is becoming more and more commonplace as a resolution technique
+  for conflict. In fact, numerous experts see mediation as the future of dispute
+  resolution. It’s no wonder, then, that businesses are taking note and
+  incorporating mediation into their organizational culture as a preemptive
+  measure against possible legal action.
+
+  Mediation is a collaborative negotiation process with a neutral third party known as a mediator who helps individuals or parties in conflict reach an agreement that's fair to all involved. Mediators do not take sides; they do not give advice; and they don’t recommend what a person should do. Instead, the mediator facilitates communication between two or more parties by encouraging them to share their ideas and feelings honestly and constructively.
+
+  Mediation can be used at any stage of conflict -- before litigation begins or during settlement discussions after lawsuit is filed. If you’re considering implementing mediation in your organization, here are some helpful tips on how to effectively mediate an employee dispute:
 ---
 
 ## Establish a mediation program and educate employees on its benefits.

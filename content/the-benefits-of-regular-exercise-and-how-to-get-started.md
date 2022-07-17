@@ -1,7 +1,7 @@
 ---
 title: The benefits of regular exercise - and how to get started
 createdAt: 2022-07-07T06:05:41.431Z
-updatedAt: 2022-07-16T16:17:08.761Z
+updatedAt: 2022-07-17T15:00:31.667Z
 category: health
 summary: Exercise is one of the best ways to reduce stress because it releases
   endorphins, which are hormones that help to improve your mood and reduce
@@ -11,6 +11,17 @@ summary: Exercise is one of the best ways to reduce stress because it releases
   Exercising regularly can help you to improve mental health and improve your
   overall health, but it also has many other health benefits. There are many
   different types of exercise that you can try to manage your anxiety.
+intro: "Getting into a regular workout routine is something that’s a lot easier
+  said than done for most people. While some of us have it easier than others
+  when it comes to fitting fitness into our busy lives, we all struggle with
+  different things at one point or another. It’s easy to let other
+  responsibilities fall by the wayside and not get moving, so you need to be
+  strategic about how and when you work out. While there are many different
+  benefits to exercise, the biggest thing that it has to offer is stress
+  reduction. If you’re looking for ways to reduce your stress in your everyday
+  life, adding exercise to your routine is a great place to start. Here are some
+  reasons why getting your sweat on regularly could be exactly what you need
+  right now:"
 ---
 
 ## Stress Can Have A Negative Impact On Your Health

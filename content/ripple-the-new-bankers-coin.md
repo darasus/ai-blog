@@ -1,7 +1,7 @@
 ---
 title: "Ripple: The New Banker's Coin"
 createdAt: 2022-07-07T16:54:30.553Z
-updatedAt: 2022-07-17T07:22:28.893Z
+updatedAt: 2022-07-17T15:00:31.175Z
 category: crypto
 summary: Ripple is a real-time gross settlement system, currency exchange, and
   remittance network. It was created in 2012 to enable seamless, low-cost,
@@ -11,6 +11,14 @@ summary: Ripple is a real-time gross settlement system, currency exchange, and
   and is showing no signs of slowing down. If you want to buy Ripple, you’ll
   need to first buy another cryptocurrency, like Bitcoin or Ethereum, and then
   trade it for Ripple.
+intro: >-
+  The world of cryptocurrency can be pretty overwhelming for newcomers.
+  However, there are many reasons why this digital money is gaining popularity
+  with investors and leading financial institutions. The blockchain-based token
+  economy has the potential to revolutionize the way we handle money and make
+  transactions as a global society.
+
+  If you have been looking into getting involved in the cryptocurrency market, you may have noticed that there are hundreds - perhaps even thousands - of different coins available. Most of them have weird names, strange logos, and even stranger marketing tactics. It’s enough to drive anyone mad. But don’t worry; we’re here to help get you up to speed on one of the most talked-about cryptocurrencies out there: Ripple (also known as XRP).
 ---
 
 ## What is Ripple?

@@ -1,7 +1,7 @@
 ---
 title: "\"All Time Low's 'Last Young Renegade' is a Must-Listen\""
 createdAt: 2022-07-08T05:58:43.475Z
-updatedAt: 2022-07-17T07:26:09.732Z
+updatedAt: 2022-07-17T15:00:31.976Z
 category: culture
 summary: All Time Low's new album, Last Young Renegade, is out now. The band
   explored topics such as mental health and political issues, which are rarely
@@ -9,6 +9,14 @@ summary: All Time Low's new album, Last Young Renegade, is out now. The band
   wrote any of the lyrics. The album showcases Alex Gaskarth's talents in a new
   way, especially on “Dark Side’s” “Bad Behaviour” is the standout track. It is
   the type of growth we want to see from artists, and it is extremely exciting.
+intro: >-
+  ATL have been making music for over 10 years now and each album feels
+  like a new chapter in their story. Their latest release, Last Young Renegade,
+  feels like another exciting step in the band’s development as artists.
+
+  On this record we hear the band experimenting with different concepts and sounds while still staying true to who they are. Their ability to diversify while keeping a cohesive sound is what makes them stand out from other bands of this genre. 
+
+  Listeners get to know a new side of ATL on this album which just makes us even more excited for what they’ll bring us next. Here are some reasons why you want to keep an eye on All Time Low and their new album, Last Young Renegade
 ---
 
 ## It’s a bold new era for All Time Low

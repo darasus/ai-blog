@@ -1,7 +1,7 @@
 ---
 title: Common myths about organic products
 createdAt: 2022-07-09T06:41:55.059Z
-updatedAt: 2022-07-17T06:19:13.871Z
+updatedAt: 2022-07-17T15:00:29.505Z
 category: cooking
 summary: Organic food is grown without synthetic pesticides and fertilisers, but
   it was not created to be more nutritious than conventional food. Studies have
@@ -11,6 +11,17 @@ summary: Organic food is grown without synthetic pesticides and fertilisers, but
   Certified organic products are only 95% organic and 5% are due to unavoidable
   contamination. People on a vegan diet are at a greater risk of not getting all
   the essential nutrients they need from a plant-based diet.
+intro: >-
+  Organic products tend to be more expensive than their non-organic
+  counterparts. This has led to the belief that organic food is ‘expensive’ and
+  not very accessible to the general public. However, organic foods are not just
+  about price; they are about quality, too!
+
+  Even though organic foods are a high-end market segment with a premium price, in recent years there has been a growing demand for such products. This is primarily because of the numerous benefits of switching from conventional to organic food.
+
+  However, the introduction of any new trend or product often leads to unnecessary confusion and false information. When it comes to buying and using organic products, there are some common myths that might seem like red flags:
+
+  But don’t worry — we’re here to set the record straight!
 ---
 
 ## Organic food is more nutritious than conventional food.

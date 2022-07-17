@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating a priority
 createdAt: 2022-07-07T06:05:41.834Z
-updatedAt: 2022-07-16T16:20:03.865Z
+updatedAt: 2022-07-17T15:00:31.767Z
 category: health
 summary: Eating more often means you’ll get more nutrients and energy throughout
   the day so you won’t be starving and more likely to overeat later. Eating
@@ -10,6 +10,15 @@ summary: Eating more often means you’ll get more nutrients and energy througho
   should incorporate into your daily routine. Eating well is important, but so
   is self-care, so so is taking care of your mental health and getting enough
   sleep and exercising.
+intro: >-
+  You know that healthy eating is important and that you should make it a
+  priority, but with so much going on in your life right now, it can feel like
+  an impossible goal to achieve. Between work, school, volunteering, and
+  friends, it can seem like there are not enough hours in the day to get
+  everything done. Eating well often feels like yet another thing you need to
+  add to your endless list of responsibilities and obligations.
+
+  But making great food choices doesn’t have to take up a lot of time or feel like a chore. There are lots of simple things you can do every day that will help you make eating well a top priority. Even if your schedule seems packed, these small changes will help you get the nutrition your body needs without taking up too much of your time or energy.
 ---
 
 ## Make Eating Well A Ritual

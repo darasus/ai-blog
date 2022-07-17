@@ -1,7 +1,7 @@
 ---
 title: Getting started in real estate investing
 createdAt: 2022-07-07T16:50:19.976Z
-updatedAt: 2022-07-17T05:53:02.298Z
+updatedAt: 2022-07-17T15:00:31.033Z
 category: investing
 summary: There are a lot of different ways to make money in the real estate
   industry. Real estate investing is a great way to earn passive income and
@@ -11,6 +11,14 @@ summary: There are a lot of different ways to make money in the real estate
   invest in real estate. Flipping Strategy involves purchasing a property and
   then resell it at a profit as quickly as possible. Rehabilitation Strategy
   involves buying a property that has gone into disrepair.
+intro: >-
+  Real estate investing can be a very lucrative career or side gig. It may
+  seem like a lot of work, but the truth is that it’s not as difficult as you
+  think. You’ll be surprised at how simple real estate investing can be if you
+  know what to do and where to start. If you’re new to the world of real estate
+  investing, then this blog post will help get you started down the right path.
+
+  This article will walk you through different types of real estate investments and reveal ways to get started in this market today. Even if you don’t have millions of dollars lying around, there are still plenty of ways for you to get your feet wet in the world of real estate investing without breaking the bank.
 ---
 
 ## What is Real Estate Investing?

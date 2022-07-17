@@ -1,7 +1,7 @@
 ---
 title: 5 Unexpected benefits of a Plant based diet
 createdAt: 2022-07-09T06:38:37.597Z
-updatedAt: 2022-07-17T06:14:38.376Z
+updatedAt: 2022-07-17T15:00:29.354Z
 category: cooking
 summary: The high levels of vitamins, minerals and healthy fats found in a
   plant-based diet will give you lots of energy, help to improve your
@@ -12,6 +12,15 @@ summary: The high levels of vitamins, minerals and healthy fats found in a
   and minerals in a vegan diet are very useful for maintaining a healthy weight.
   They can also lower your cholesterol levels and decrease your risk of
   developing cardiovascular disease.
+intro: >-
+  Are you thinking of trying out a plant based diet? If so, that’s great! A
+  plant based diet is extremely beneficial for your health and can reduce your
+  risk of developing serious diseases such as diabetes and cardiovascular
+  disease.
+
+  A plant-based diet is one that focuses on plants for your main sources of food. This means lots of fruits, vegetables, nuts, seeds and plants like lettuce, onion and garlic. In contrast, a diet that focuses on animal-based foods is what most people eat now – lots of red meat, chicken, eggs and dairy products like milk and cheese.
+
+  A plant based diet has many well-documented benefits including lowering the risk of heart disease and stroke; reducing your risk of developing type 2 diabetes; helping to manage your weight; improving your blood sugar control; reducing your cholesterol levels; preventing certain cancers such as colon cancer; and lowering your risk of dying from any cause.
 ---
 
 ## 5 Unexpected benefits of a Plant Based Diet

@@ -1,7 +1,7 @@
 ---
 title: How to make your money work for you - investing 101
 createdAt: 2022-07-07T16:49:59.164Z
-updatedAt: 2022-07-17T05:53:19.728Z
+updatedAt: 2022-07-17T15:00:31.033Z
 category: investing
 summary: Investing is about building real, long-term wealth that can help you
   pay for your car, house, and retirement. The biggest mistake people make when
@@ -11,6 +11,17 @@ summary: Investing is about building real, long-term wealth that can help you
   you diversify your money, the lower the risk of losing money. Investing when
   you’re young can help earn compound interest over time and grow your money
   faster.
+intro: People have many different reasons for saving money. Some are very frugal
+  and use every spare penny to pay down debt, buy a home, or fund retirement
+  plans. However, many people simply stash away their cash in a bank account
+  hoping it will grow over time. While this is the tried-and-true method of
+  savings, it won’t help you get rich. To grow your wealth instead of simply
+  preserving it, you need to invest your cash and work on growing that money
+  over time. Even if you’re young and have an extended road toward retirement
+  ahead of you, there are still smart investing strategies that can help you
+  build wealth sooner rather than later. Investing isn’t complicated; even with
+  its fancy words like “asset allocation” and “beta coefficient.” Here are some
+  helpful investing tips to get started...
 ---
 
 ## Know the difference between investing and speculation

@@ -1,7 +1,7 @@
 ---
 title: "\"Cardi B's 'Invasion of Privacy' is a Game-Changer\""
 createdAt: 2022-07-08T05:59:06.208Z
-updatedAt: 2022-07-17T07:27:44.702Z
+updatedAt: 2022-07-17T15:00:31.985Z
 category: culture
 summary: Cardi B's new album, "Invasion of Privacy," is out now. The rapper is
   not just a "rap artist," but she's more than just a rapper. The album's final
@@ -9,6 +9,16 @@ summary: Cardi B's new album, "Invasion of Privacy," is out now. The rapper is
   a proud reclamation of the narrative. The song is a powerful reminder that
   people in the spotlight are still human and experience criticism, but as fans,
   we have a responsibility to be careful with how we speak about them.
+intro: >-
+  Cardi B is an artist with a game-changing voice, and her latest album,
+  "Invasion of Privacy," proves it. The album shifts the conversation regarding
+  what it means to be a woman with agency over her own body and narrative. She
+  doesn’t just tell us she has a pimp hand; she demonstrates it in a way that
+  only someone who’s lived it could know so intimately.
+
+  The former VH1 Love & Hip Hop star and social media sensation has been on our radar for almost two years now, ever since she made her first appearance as an uncredited cameo in the video for Fat New Yorker’s “Moof” back in March 2016. Since then, she has continued to build her presence as not just an artist but a cultural figurehead who represents those often overlooked by society—women of color from working class backgrounds, women who embrace their own versions of beauty without apology or filter. In doing so, Cardi B has created both new fans and new haters eager to speak up about either end of this spectrum.
+
+  In its entirety, “Invasion of Privacy” speaks directly to these experiences with unapologetic honesty and raw emotionality—a rawness that we rarely get to see even in today’s hyper-exposed culture. It is not just the story of one woman; it is the collective story of many women told with such clarity that you can hear their voices echoing proudly throughout every
 ---
 
 ## Cardi B Is More Than Just A “Rap Artist”

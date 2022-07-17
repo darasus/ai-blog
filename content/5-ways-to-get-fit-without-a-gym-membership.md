@@ -1,7 +1,7 @@
 ---
 title: 5 ways to get fit without a gym membership
 createdAt: 2022-07-07T06:05:40.847Z
-updatedAt: 2022-07-16T16:10:06.771Z
+updatedAt: 2022-07-17T15:00:31.504Z
 category: health
 summary: Running is a fantastic cardiovascular exercise that can improve your
   heart health and stamina. Jumping rope is a great way to get fit without a gym
@@ -10,6 +10,15 @@ summary: Running is a fantastic cardiovascular exercise that can improve your
   Try lifting weights or exercising outside with your own bodyweight at home.
   Water aerobics is a low-impact exercise, making it ideal for people who are
   new or have existing injuries.
+intro: >-
+  In today’s fast-paced society, most of us struggle to find time to
+  exercise. While it’s easy to overlook the benefits of exercising when you have
+  a packed day, staying active can have a positive impact on your life. The
+  American Council on Exercise states that being active has been proven as
+  beneficial for mental and physical health as well as quality of life. The
+  following are 5 ways to get fit without a gym membership. 
+
+  With the rise in popularity of home gyms and personal training, more people than ever before are getting fit without stepping foot into a gym. In this article, we explore five ways you can get fit without joining a gym or purchasing an expensive home setup. Whether you have a small apartment or live in an area with limited outdoor activities, there are many different ways you can stay active and get fit without spending money on a gym membership or personal trainer.
 ---
 
 ## Run Or Walk Outside

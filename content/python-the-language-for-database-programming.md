@@ -1,7 +1,7 @@
 ---
 title: Python - The language for database programming
 createdAt: 2022-07-09T06:20:23.478Z
-updatedAt: 2022-07-17T06:53:19.613Z
+updatedAt: 2022-07-17T15:00:30.476Z
 category: coding
 summary: Python is a general-purpose programming language with a simple syntax
   and powerful standard library. It is a great choice for beginner programmers
@@ -10,6 +10,15 @@ summary: Python is a general-purpose programming language with a simple syntax
   development to data science. The language was developed in the late 1980s by a
   group of researchers at the Massachusetts Institute of Technology. It was
   conceived as a “better C” - a language that could be used by non-programmers.
+intro: >-
+  Python is an immensely powerful programming language that offers a
+  variety of uses. It can be used for almost any task, from small one-off
+  projects to large frameworks for server-side development, web applications,
+  and even mobile apps. One area in which Python excels is database programming.
+  In this article, we explain why that’s the case and explore the different ways
+  in which you can use Python for database programming. 
+
+  This blog post is part of our ongoing “Coding in CV” series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.
 ---
 
 ## What is Python?

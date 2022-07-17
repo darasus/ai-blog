@@ -1,7 +1,7 @@
 ---
 title: 7 Tips to Keep You Motivated When Working Out
 createdAt: 2022-07-17T11:48:34.981Z
-updatedAt: 2022-07-17T11:48:34.981Z
+updatedAt: 2022-07-17T15:00:31.873Z
 category: health
 summary: If you’ve been doing the same workout routine for years, it’s time to
   mix things up. Mix up your workouts and add a new element to your existing
@@ -10,6 +10,15 @@ summary: If you’ve been doing the same workout routine for years, it’s time 
   achieve throughout your journey. Ask for help from a professional therapist to
   help you through any underlying issues that hold you back. If you have
   anxiety, try to find ways to cope with it.
+intro: >-
+  Working out is great for your body and your mind. Not only does exercise
+  have a positive effect on your physical health, but it also has benefits in
+  terms of reducing stress and anxiety, as well as improving mental processes
+  such as memory and concentration.
+
+  Working out regularly requires motivation and perseverance. It’s not easy to find the time or motivation to hit the gym day after day. And while some people might thrive off having someone tell them what to do, other people need help in order to keep going. 
+
+  It can be difficult to keep up with a regular exercise routine, especially when you’re feeling unmotivated. Even the most dedicated workout enthusiasts can struggle with keeping their routines fresh and exciting. If you feel like you’ve hit a wall when it comes to keeping up a healthy routine, here are some tips that will help you get back on track:
 ---
 
 ## Set small, attainable goals

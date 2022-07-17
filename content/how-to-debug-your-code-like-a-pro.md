@@ -1,7 +1,7 @@
 ---
 title: How to debug your code like a pro
 createdAt: 2022-07-07T06:11:33.934Z
-updatedAt: 2022-07-17T06:30:46.458Z
+updatedAt: 2022-07-17T15:00:30.250Z
 category: coding
 summary: Kano Analysis is a 5-stage model of product satisfaction. It was
   developed by Professor Noriaki Kano as a way to organize customer expectations
@@ -10,6 +10,18 @@ summary: Kano Analysis is a 5-stage model of product satisfaction. It was
   considered useful. Stage 5 - Frustration - A feature that is missing, broken,
   or doesn’t work as expected. Stage 4 - Necessities - These. are features that
   are nice to have but not essential but help solve a specific problem.
+intro: "Are you an exceptional programmer? Sure, you can code in multiple
+  programming languages fluently, debug any issues you encounter, and implement
+  algorithms like a pro. But what happens when your code crashes again and
+  again? Or it works perfectly on paper but not in practice? What do you do when
+  you have no idea what’s going wrong or why the code isn’t working as intended?
+  Well, if that sounds like you — as a programmer — then keep reading because we
+  have some good news for you! Debugging your code is one of the most
+  challenging and demanding tasks as a coder. It requires patience, precision,
+  and analytical skills to identify where things aren’t working correctly and
+  why. However, with the right strategies and techniques, debugging your code
+  doesn’t need to be a painful process. Here are some helpful tips on how to
+  debug your code like a pro:"
 ---
 
 ## Kano Analysis

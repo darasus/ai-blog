@@ -1,7 +1,7 @@
 ---
 title: 10 ways to make your commute less stressful
 createdAt: 2022-07-07T06:05:40.779Z
-updatedAt: 2022-07-16T16:09:58.167Z
+updatedAt: 2022-07-17T15:00:31.494Z
 category: health
 summary: Planning your route in advance will allow you to be more prepared for
   any traffic issues that could arise. Avoid driving at rush hour to avoid the
@@ -10,6 +10,12 @@ summary: Planning your route in advance will allow you to be more prepared for
   emails. Bring scented items with you on your commute can help reduce stress
   and anxiety. Set an intention for your day to define what you look like and
   what your intentions are during the day will also help you calm down.
+intro: >-
+  When you think about your daily commute, it probably doesn’t strike you
+  as being particularly stressful. In fact, many people see their daily drive to
+  work or school as a time for peace and quiet. After all, what could possibly
+  be stressful about getting from point A to point B?
+   It’s true that your commute isn’t inherently stressful. In theory, it’s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!
 ---
 
 ## Plan your route in advance

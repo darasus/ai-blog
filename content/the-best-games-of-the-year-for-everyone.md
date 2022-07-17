@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for everyone
 createdAt: 2022-07-08T06:02:37.967Z
-updatedAt: 2022-07-17T07:27:32.416Z
+updatedAt: 2022-07-17T15:00:32.129Z
 category: gaming
 summary: Nintendo’s flagship competitive fighting game finally came out on the
   Switch this past December. The game has a massive roster that includes every
@@ -11,6 +11,13 @@ summary: Nintendo’s flagship competitive fighting game finally came out on the
   captures the feeling of being an experienced superhero. Red Dead Redemption 2
   is an incredibly detailed game that lets you really get to know the people
   you’re playing in.
+intro: >-
+  If you’re interested in video games, you have probably heard that 2018
+  was a great year for gaming. It was. But it wasn’t just this past year—gaming
+  has been on the upswing for a while now. There are more gamers playing more
+  games than ever before, and it’s an exciting time to be part of this culture. 
+
+  There are so many excellent video games released every month that it can be overwhelming to keep track of them all. That’s why we’ve compiled a list of what we think are the best new games from the last few months of 2018 that everyone should play if they get the opportunity:
 ---
 
 ## Super Smash Bros. Ultimate

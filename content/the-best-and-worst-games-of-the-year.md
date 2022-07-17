@@ -1,7 +1,7 @@
 ---
 title: The best and worst games of the year
 createdAt: 2022-07-08T06:00:02.999Z
-updatedAt: 2022-07-17T07:26:38.759Z
+updatedAt: 2022-07-17T15:00:32.073Z
 category: gaming
 summary: "This year has been a very good year for video games. With all the
   excellent titles that have already released, there’s plenty for gamers to look
@@ -10,6 +10,15 @@ summary: "This year has been a very good year for video games. With all the
   was Crackdown 3, with a few bugs and a lack of content compared to other
   online games released this year. The best video game of 2019 is Assassin's
   Creed: Odyssey, the latest chapter of the Tomb Raider."
+intro: >-
+  It takes a lot of great games to make a great year. In 2018, we saw new
+  entries in long-running series like Red Dead Redemption, Assassin’s Creed, and
+  Halo as well as brand new IP such as Monster Hunter: World, Into the Breach,
+  and A Way Out. It was a year that saw game developers pushed by streaming
+  services like Twitch and YouTube continue to experiment with new ideas and
+  designs while also returning to their roots with older properties. 
+
+  That being said, not all games are created equal. There are excellent games and then there are... others less so. To help you sort through the deluge of new releases this year, Gamers Central has compiled a list of our top ten favorite titles coupled with an even longer list of disappointments that you may want to avoid entirely or at least wait for a sale before picking up.
 ---
 
 ## The Best

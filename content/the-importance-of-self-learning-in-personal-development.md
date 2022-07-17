@@ -1,7 +1,7 @@
 ---
 title: The Importance of Self-Learning in Personal Development
 createdAt: 2022-07-09T06:36:26.321Z
-updatedAt: 2022-07-17T07:28:48.290Z
+updatedAt: 2022-07-17T15:00:32.232Z
 category: productivity
 summary: A significant part of a person's development happens during childhood,
   but most of us don't realize that we have the power to learn as adults as
@@ -10,6 +10,16 @@ summary: A significant part of a person's development happens during childhood,
   experiences. It also helps you identify your passions and values so that you
   can work towards what you really want in life. There is no better way to grow
   as a person than by self-learning, and focus on these 5 key areas.
+intro: >-
+  When it comes to personal development, we often think of external
+  measures. We research books to read, join workshops and trainings or have
+  mentors to learn from. The list goes on. All these are great ways of learning
+  about the various aspects of personal growth. They push us outside our comfort
+  zones and make us dig deeper into ourselves and analyze where we stand in
+  life. However, there is another type of learning that is just as essential but
+  not discussed much — self-learning . 
+
+  Self-learning involves taking control of your own knowledge and abilities and moving from a passive learner to an active one. It involves finding ways to learn more about yourself so that you may improve as a person, understand your strengths and weaknesses, recognize your beliefs, values and goals in life, be constantly aware of what triggers you the most so you can handle those situations better the next time, understand your fears so that you can tackle them head on instead of avoiding them all your life, etc.
 ---
 
 ## Why is Self-Learning Important in Personal Development?

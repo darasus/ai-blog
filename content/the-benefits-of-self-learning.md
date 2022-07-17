@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Self-Learning
 createdAt: 2022-07-09T06:33:45.046Z
-updatedAt: 2022-07-17T07:28:00.329Z
+updatedAt: 2022-07-17T15:00:32.171Z
 category: productivity
 summary: If you want to achieve your goals, you’ll need to be committed to
   self-learning. By focusing on a topic that interests you and then focus on
@@ -10,6 +10,14 @@ summary: If you want to achieve your goals, you’ll need to be committed to
   your interests. Expertise will also make it easier to find a job and increase
   your network of people you can hire for specific projects. You can also use
   social media as a way to stay connected with like-minded individuals online.
+intro: >-
+  You can’t get a second chance to make a first impression. This applies
+  whether you’re meeting someone for the first time or you’re trying to impress
+  your new boss with your professionalism, knowledge and communication skills.
+  Getting back on track isn’t always simple. But with self-learning, everything
+  is possible! 
+
+  Self-learning is an individualized learning process in which students learn directly from sources such as books, audio or video recordings, computer programs, and virtual libraries. It is an independent study that takes place outside of a traditional classroom setting and often at an learner's own pace. Self-learning involves structured activities in which individuals plan their own learning experiences, monitor their progress, set goals and follow a detailed program of readings and practice assignments.
 ---
 
 ## Achieve Your Goals

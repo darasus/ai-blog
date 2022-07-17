@@ -1,7 +1,7 @@
 ---
 title: Building a Hibernate application
 createdAt: 2022-07-09T06:26:59.842Z
-updatedAt: 2022-07-17T07:14:46.036Z
+updatedAt: 2022-07-17T15:00:30.596Z
 category: coding
 summary: Hibernate is an open source Object-Relational Mapping (ORM) library. It
   is the most widely used tool for mapping Java objects and database tables. It
@@ -11,6 +11,14 @@ summary: Hibernate is an open source Object-Relational Mapping (ORM) library. It
   the fundamentals of setting up a project, creating tables and handling user
   logins. We also discussed the best practices in setting up and creating a Java
   domain model.
+intro: >-
+  In this article, we will build a basic application using Hibernate as an
+  Object-Relational Mapping library. We will cover the fundamentals of setting
+  up a project, creating tables and handling user logins.
+
+  We have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.
+
+  However, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you’ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!
 ---
 
 ## Introduction to Hibernate

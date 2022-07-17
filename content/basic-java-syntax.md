@@ -1,7 +1,7 @@
 ---
 title: Basic Java syntax
 createdAt: 2022-07-09T06:22:29.098Z
-updatedAt: 2022-07-17T06:55:19.486Z
+updatedAt: 2022-07-17T15:00:30.531Z
 category: coding
 summary: "Java is a programming language that can run on multiple devices and
   operating systems. It’s estimated that over 9 million programmers are using
@@ -11,6 +11,14 @@ summary: "Java is a programming language that can run on multiple devices and
   type, method, variable, exception, loop, try/catch/finally, and class. These
   are words that can’t be used as normal words in your code. Conditional
   statements are a fundamental part of programming."
+intro: >-
+  When you’re learning to code, you need to learn the basics before you can
+  move on to more complex topics. The most fundamental programming language is
+  Java. It’s one of the most important and widely used languages in the world of
+  computer science. Many other programming languages are built on top of it,
+  making it even more essential for coders.
+
+  If you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren’t necessarily common words in English. However, once you get past the unusual appearance of these words, you’ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!
 ---
 
 ## What is Java?

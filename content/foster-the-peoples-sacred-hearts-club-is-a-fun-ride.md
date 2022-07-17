@@ -1,7 +1,7 @@
 ---
 title: "\"Foster the People's 'Sacred Hearts Club' is a Fun Ride\""
 createdAt: 2022-07-08T05:59:39.176Z
-updatedAt: 2022-07-17T07:27:01.173Z
+updatedAt: 2022-07-17T15:00:32.005Z
 category: culture
 summary: "\"Sacred Hearts Club\" is chock-full of songs that sound like the band
   is trying to find themselves by not being themselves. The album’s lead single,
@@ -10,6 +10,15 @@ summary: "\"Sacred Hearts Club\" is chock-full of songs that sound like the band
   they’ve always loved comes across as forced and contrived. It almost feels
   like they're trying to cash in on nostalgia for a time you didn't live
   through."
+intro: >-
+  Foster the People is back with a new album and a new sound. Their third
+  record, "Sacred Hearts Club," features more electronic elements than their
+  previous releases. However, the band still thrives on its signature pop rock
+  sound.
+
+  Foster the People’s sophomore album, "Supermodel," was a commercial success. It peaked at number 14 on the Billboard 200 and has sold over 300 thousand copies to date. Lead single “Coming of Age” even managed to crack the top 20 Hot Alternative Songs chart. So, why does "Sacred Hearts Club" feel like such an unfortunate step down?
+
+  The group seems to be grappling with itself throughout this album: You can hear the struggle in many of these songs between what they used to be and who they are now. It sounds like they tried hard not to give in to their instincts — which might explain why they have taken such a sharp turn away from their natural inclinations here and gone so heavily in the reverse direction as well.
 ---
 
 ## A brief history of Foster the People

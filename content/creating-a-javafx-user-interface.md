@@ -1,7 +1,7 @@
 ---
 title: Creating a JavaFX user interface
 createdAt: 2022-07-09T06:24:03.671Z
-updatedAt: 2022-07-17T06:56:42.314Z
+updatedAt: 2022-07-17T15:00:30.574Z
 category: coding
 summary: A JavaFX user interface is created from a number of elements. These
   elements are organized into a Scene, which is the root of all JavaFX
@@ -10,6 +10,16 @@ summary: A JavaFX user interface is created from a number of elements. These
   positioned, and how large each control will be. The next step is to select a
   control to be used in our JavaFX User Interface. We also learned about the
   advantages of using third-party libraries.
+intro: >-
+  Almost every application needs a user interface. Applications with no
+  user interface appear to be nothing more than programs running in the
+  background on your computer.
+
+  It’s impossible to imagine any application that isn’t accessible through some sort of graphical user interface. JavaFX provides ways to build and implement interfaces that are engaging, dynamic, and responsive.
+
+  Even though JavaFX is a very powerful library, it doesn’t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls – there were a few controls which didn’t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).
+
+  If you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND
 ---
 
 ## Creating a JavaFX User Interface: The Basics

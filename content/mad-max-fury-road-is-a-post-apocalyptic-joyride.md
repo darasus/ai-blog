@@ -1,7 +1,7 @@
 ---
 title: '"Mad Max: Fury Road" is a post-apocalyptic joyride'
 createdAt: 2022-07-08T05:56:45.850Z
-updatedAt: 2022-07-17T07:25:54.572Z
+updatedAt: 2022-07-17T15:00:31.881Z
 category: culture
 summary: The end of the world is a harsh but beautiful metaphor for the
   destruction of a person’s ego and the rebuilding of their psychological self.
@@ -10,6 +10,17 @@ summary: The end of the world is a harsh but beautiful metaphor for the
   "Mad Max" is one of scarcity and abundance, a perfect metaphor for capitalism.
   The Road Warrior as an allegory for Environmentalism is the idea that nature
   is a delicate ecosystem that we should protect and care for.
+intro: >-
+  For some, the world will end in fire. For others, it will end in ice. And
+  for others still, it will just fizzle out like a can of cheap fuel on an old
+  race car. But no matter how you look at it, the apocalypse is coming. The only
+  question is when?
+
+  This was the sentiment that drove much of popular culture throughout the 70s and 80s. Films like “Mad Max” and “The Road Warrior” were cautionary tales about the future of mankind brought on by a series of devastating natural and man-made disasters; "Mad Max" being set during a prolonged drought, and "The Road Warrior" taking place after a catastrophic failure of an oil refinery leads to widespread pollution and destruction as well as a shortage of gasoline (which is what inspired the term “Road Warrior”).
+
+  In these movies, there are also factions that have arisen to take advantage of these new conditions: In "Mad Max", we see gangs whose primary function is to steal fuel from other scavenger tribes; In "The Road Warrior", we see roving bands that are essentially highwaymen that prey upon small towns using their road-warrior combat skillset; And in both movies we see heroes who fight against evil not because they want to be evil but because they are good people trying to save those they love in terrible times.
+
+  These subtexts have been explored time and time again throughout history through literature such as The Bible
 ---
 
 ## The Apocalypse as a lens to examine the human condition

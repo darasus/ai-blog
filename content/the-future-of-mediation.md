@@ -1,7 +1,7 @@
 ---
 title: The future of mediation
 createdAt: 2022-07-09T06:14:00.659Z
-updatedAt: 2022-07-16T15:50:32.450Z
+updatedAt: 2022-07-17T15:00:30.044Z
 category: life
 summary: Mediation’s unique combination of active listening, exploration of
   interests, facilitation of creative solutions, and commitment to the parties
@@ -11,6 +11,20 @@ summary: Mediation’s unique combination of active listening, exploration of
   mediation is not compromise but resolution, but find a place between the two
   extremes where both parties can feel satisfied with the outcome of their
   dispute.
+intro: Mediation is a process that helps people resolve conflicts and find
+  solutions to difficult problems. It’t not the same thing as arbitration or
+  negotiation. Mediation is a voluntary process in which a neutral third party,
+  the mediator, assists others in exploring issues, managing conflict, and
+  solving problems in an effort to resolve conflict and move forward. The
+  parties involved in the dispute remain control over their own destiny at all
+  times. They are free to walk away from mediation at any time with no
+  consequence. The goal of mediation is not compromise but resolution. It’t
+  win-win or lose-lose but instead find a place somewhere between those two
+  extremes where both parties can feel satisfied with the outcome of their
+  dispute.  Mediation services are often provided by private organizations such
+  as nonprofit community mediation centers or faith-based centers that offer
+  these services pro bono publico, which means “for the good of the public”
+  without charge.
 ---
 
 ## Why Mediation Works

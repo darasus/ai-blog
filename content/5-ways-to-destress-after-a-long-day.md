@@ -1,7 +1,7 @@
 ---
 title: 5 ways to destress after a long day
 createdAt: 2022-07-07T06:05:40.914Z
-updatedAt: 2022-07-16T16:10:40.211Z
+updatedAt: 2022-07-17T15:00:31.552Z
 category: health
 summary: There are simple ways to destress after a long day that don’t require
   much time. These techniques can be implemented in as little as 10 minutes.
@@ -10,6 +10,13 @@ summary: There are simple ways to destress after a long day that don’t require
   more relaxing. Stress is a reaction your body has when it sees danger and
   produces cortisol and other stress hormones to prepare us for fight or flight.
   When we’re stressed, our body interprets it as danger.
+intro: >-
+  Everyone has stressful days at work or school. It’s normal to feel
+  overwhelmed and exhausted after an intense day. However, there are ways to
+  recover from this stress and return to normalcy quickly. There are simple ways
+  to destress after a long day that don’t require much time. In fact, these
+  techniques can be implemented in as little as 10 minutes.
+   Destressin g is good for you and your mental health. When we’re stressed, our body interprets it as danger so it produces cortisol and other stress hormones to prepare us for fight or flight. These natural chemicals are useful in limited quantities but when they remain high for prolonged periods of time, they have negative effects on our health by increasing blood pressure and blood sugar levels, decreasing immune response, weakening bones, and increasing body fat storage. Stress also increases risk of heart disease and depression.
 ---
 
 ## Go for a walk

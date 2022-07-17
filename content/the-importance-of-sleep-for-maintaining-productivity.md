@@ -1,7 +1,7 @@
 ---
 title: The Importance of Sleep for Maintaining Productivity
 createdAt: 2022-07-07T16:44:09.809Z
-updatedAt: 2022-07-16T15:58:01.929Z
+updatedAt: 2022-07-17T15:00:30.899Z
 category: business
 summary: When we don’t get enough sleep, our brains start to make automated
   decisions. This can lead to people saying and doing things they normally
@@ -11,6 +11,16 @@ summary: When we don’t get enough sleep, our brains start to make automated
   There are many treatments that can help people who are dealing with mood
   disorders like depression and anxiety. Fortunately, these conditions need to
   be diagnosed first so people can start getting the help they need.
+intro: >-
+  Did you know that sleep is just as important as eating and drinking
+  water? Without it, we can’t function properly. Studies show that people who
+  get less than six hours of sleep every night have a harder time focusing, are
+  less alert, and are more prone to making mistakes. Did you know that there are
+  even studies that show getting less than five hours of sleep for two weeks
+  straight can lead to hallucinations and other warning signs of declining
+  mental health? 
+
+  That might be a little bit scary for some people, but the truth is: You need to make sure you’re getting enough rest if you want to remain productive throughout your workday. Unfortunately many people underestimate the importance of sleeping well, but this also means they’re not aware of all the ways that lack of sleep can impact them both physically and mentally.
 ---
 
 ## The Health Risks of Lack of Sleep

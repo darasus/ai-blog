@@ -133,12 +133,17 @@ export class Writesonic {
     title,
   }: {
     title: string;
-  }): Promise<{ title: string; content: string; summary: string }> => {
+  }): Promise<{
+    title: string;
+    content: string;
+    summary: string;
+    intro: string;
+  }> => {
     const intro = await this.generateIntro({ title });
     const outlines = await this.generateOutlines({ title, intro });
     const content = await this.generateContent({ title, intro, outlines });
     const summary = await this.generateSummary({ content });
 
-    return { title, content, summary };
+    return { title, summary, content, intro };
   };
 }

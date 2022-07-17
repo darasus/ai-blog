@@ -1,7 +1,7 @@
 ---
 title: How to read code like a pro
 createdAt: 2022-07-07T06:14:18.660Z
-updatedAt: 2022-07-17T06:33:25.984Z
+updatedAt: 2022-07-17T15:00:30.311Z
 category: coding
 summary: The first thing you want to do when reading code is open up the
   declaration and read the code like you’re reading a book. The declaration
@@ -10,6 +10,15 @@ summary: The first thing you want to do when reading code is open up the
   abbreviations, acronyms, or words you aren’t familiar with, try to read it as
   though you were reading a sentence in English. Keep track of the terms that
   you see most often while reading code by keeping a dictionary beside you.
+intro: >-
+  The way you understand code today will determine the speed with which you
+  can read and comprehend code tomorrow. After all, no one is born a coding
+  expert; that designation is something you must earn by constantly challenging
+  yourself to improve your skills. However, reading and understanding code isn’t
+  always easy, especially when it’s written in a foreign language or has certain
+  nuances that are beyond your current understanding. 
+
+  Reading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!
 ---
 
 ## Don’t Be Disappointed By What You See

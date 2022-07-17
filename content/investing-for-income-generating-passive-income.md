@@ -1,7 +1,7 @@
 ---
 title: Investing for income - generating passive income
 createdAt: 2022-07-07T16:51:34.625Z
-updatedAt: 2022-07-17T05:55:55.594Z
+updatedAt: 2022-07-17T15:00:31.107Z
 category: investing
 summary: Dividend-paying stocks represent shares in a company’s profit stream.
   While share prices may go up or down depending on the performance of the
@@ -11,6 +11,15 @@ summary: Dividend-paying stocks represent shares in a company’s profit stream.
   cash flow from your investment portfolio. Alternative energy sources can be a
   good option for those interested in generating consistent cash flows from
   their investment portfolios.
+intro: >-
+  When it comes to investing, most people think of stocks and the
+  performance of the market. However, there are many other ways to invest your
+  money and generate income from it. Investing for income means you’re looking
+  for a regular stream of cash from your investments, either as quarterly or
+  annual payments. There are several ways to do this; you just need to know
+  where to look. 
+
+  Investing for income can be a challenging endeavor, but with the right knowledge you can achieve your goal. If you’re looking for some steady returns on your investment, check out our guide on how to invest for income in a variety of ways that won’t leave you out of pocket and will allow you to continue growing your wealth over time.
 ---
 
 ## Basics of Investing for Income

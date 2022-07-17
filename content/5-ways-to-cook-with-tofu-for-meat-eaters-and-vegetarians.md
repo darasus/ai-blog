@@ -1,7 +1,7 @@
 ---
 title: 5 ways to cook with tofu - for meat-eaters and vegetarians
 createdAt: 2022-07-07T06:05:40.139Z
-updatedAt: 2022-07-17T06:01:06.534Z
+updatedAt: 2022-07-17T15:00:29.223Z
 category: cooking
 summary: Tofu is an incredibly versatile food that can be used in a wide variety
   of recipes. It's an ideal ingredient that you can use in many different ways
@@ -10,6 +10,15 @@ summary: Tofu is an incredibly versatile food that can be used in a wide variety
   while keeping it soft and creamy on the inside. You can serve tofu with a
   variety of sauces, including barbecue sauce, teriyaki sauce, or a simple
   mixture of soy sauce and lemon or lime juice.
+intro: >-
+  Regardless of your diet, tofu can be a versatile addition to your meal
+  plan. It’s also one of the most misunderstood foods. Everyone knows what
+  cheese, fish, and chicken remind us of—which is why for many people, tofu is
+  an odd, almost alien food.
+
+  That said, tofu offers a number of benefits: it’s high in protein and low in calories and saturated fat. In addition, depending on how you prepare it, tofu has no taste or texture that might put off anyone who’s wary of the stuff. 
+
+  For those who don’t eat much meat or fish but still want to enjoy the flavors they bring to a meal, cooking with tofu is an excellent idea. Here are five ways you can use this versatile bean as a primary ingredient in your next home-cooked meal…
 ---
 
 ## Tofu is great when you want to add protein to a meal.

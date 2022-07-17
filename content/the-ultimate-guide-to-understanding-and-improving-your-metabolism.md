@@ -1,7 +1,7 @@
 ---
 title: The ultimate guide to understanding - and improving - your metabolism
 createdAt: 2022-07-07T06:05:40.958Z
-updatedAt: 2022-07-16T16:10:52.877Z
+updatedAt: 2022-07-17T15:00:31.553Z
 category: health
 summary: Your metabolism is the rate at which your body burns calories and
   converts them into energy. It’s the minimum amount of calories your body needs
@@ -10,6 +10,16 @@ summary: Your metabolism is the rate at which your body burns calories and
   for by the thermic effect of food (TEF) and activity level. TEF is the number
   of calories that are burned to digest food, which means the more you eat, the
   more calories you spend digesting it.
+intro: "Your metabolism is essentially the rate at which your body burns
+  calories and converts them into energy. It’s a process that happens
+  automatically, 24 hours a day, seven days a week, and it has a huge impact on
+  how many calories you burn every day and how much weight you could potentially
+  lose if you change your diet to reflect an exercise program. You see, your
+  metabolism is responsible for burning all the fat in your body. Every single
+  calorie you take in from food is first stored as fat somewhere in your body,
+  and then broken down to be used as energy – the very thing that powers
+  everything you do from breathing to blinking. Metabolism has several
+  components that work together to help maintain it:"
 ---
 
 ## Basal Metabolic Rate (BMR)

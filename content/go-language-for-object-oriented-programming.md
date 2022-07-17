@@ -1,7 +1,7 @@
 ---
 title: Go language for object-oriented programming
 createdAt: 2022-07-09T06:31:49.327Z
-updatedAt: 2022-07-17T07:18:13.926Z
+updatedAt: 2022-07-17T15:00:30.780Z
 category: coding
 summary: Go is a programming language that was created by a group of developers
   at Google in 2007. It is commonly used for web development, networks, and
@@ -10,6 +10,14 @@ summary: Go is a programming language that was created by a group of developers
   language, which means that all of your programs will be based on objects. Go
   has a low barrier to entry, backed by a strong and growing community, and is
   relatively easy to find a job with.
+intro: >-
+  Today, there is a huge demand for software developers who can create
+  cutting-edge programs and applications. Thanks to the rapid expansion of
+  technology, there are plenty of jobs available in this field. However, not
+  just anyone can become a programmer; you need to have specific skills and know
+  how in order to land the job you want. 
+
+  If you’re interested in becoming a software programmer and exploring new career opportunities, it’s important that you choose the right programming language from the get-go. The demand for skilled programmers is growing rapidly, so by choosing the right programming language now, you can set yourself up for success later on. Read on to learn more about Go programming and its potential as an object-oriented programming language.
 ---
 
 ## What is Go?

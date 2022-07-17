@@ -1,7 +1,7 @@
 ---
 title: How to code better
 createdAt: 2022-07-07T06:13:22.378Z
-updatedAt: 2022-07-17T06:32:28.176Z
+updatedAt: 2022-07-17T15:00:30.279Z
 category: coding
 summary: The best way to improve your coding skills is to plan ahead, read and
   research, and code more often. The more you code, the better you get at it,
@@ -10,6 +10,15 @@ summary: The best way to improve your coding skills is to plan ahead, read and
   efficiently and save time overall. To learn more about coding, you should
   actively be trying to learn new things every day. You should also consider how
   often you’ll use a certain tool and whether it’s worth the investment.
+intro: >-
+  Coding can be challenging at times. Even if you’re a pro coder, sometimes
+  logic and algorithms just don’t click. The best coders know how to tackle
+  those tough spots by researching solutions, studying best practices, and
+  implementing new techniques. 
+
+  Coding is a skill that requires constant refinement to stay relevant in today’s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it. 
+
+  Learning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it’s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.
 ---
 
 ## Plan Before You Code

@@ -1,7 +1,7 @@
 ---
 title: Exchange traded funds - a beginner's guide
 createdAt: 2022-07-07T16:52:26.280Z
-updatedAt: 2022-07-17T05:55:54.504Z
+updatedAt: 2022-07-17T15:00:31.110Z
 category: investing
 summary: An ETF is a type of fund that holds assets such as stocks, bonds, or
   other securities and trades on a stock exchange at any time during the day.
@@ -11,6 +11,14 @@ summary: An ETF is a type of fund that holds assets such as stocks, bonds, or
   to gain exposure to certain industries, geographical regions, or asset
   classes. There are no guarantees that the money you’ve invested in will
   perform well.
+intro: >-
+  The global financial crisis, which began in 2007 and is still lingering
+  almost a decade later, has left many investors wary of stocks as an asset
+  class. The collapse of several large banks and financial institutions, coupled
+  with the housing market crash, has led many to question whether the stock
+  market is a safe place for their money. 
+
+  The answer is yes – provided you choose the right stocks. In fact, investing in stocks can be one of the safest ways to build your wealth over time. So if you’re wary about putting your money in individual companies or prefer less risky investments, ETFs may be an ideal option for you. Read on to learn more about these exchange-traded funds and whether or not they could be good for you.
 ---
 
 ## What is an ETF?

@@ -1,7 +1,7 @@
 ---
 title: The benefits of investing for retirement
 createdAt: 2022-07-07T16:51:27.466Z
-updatedAt: 2022-07-17T05:55:56.627Z
+updatedAt: 2022-07-17T15:00:31.107Z
 category: investing
 summary: The earlier you start, the more time your money has to grow. Investing
   in your 20s and 30s can be a smart way to help you save enough money to retire
@@ -11,6 +11,15 @@ summary: The earlier you start, the more time your money has to grow. Investing
   risk tolerance because if you don’t know your investment portfolio, you should
   increase the percentage of your portfolio even more by increasing the risk of
   your investments.
+intro: >-
+  The quality of life for most people in their golden years is directly
+  correlated to how well they prepared for retirement. According to a recent
+  report by the National Institute on Retirement Security, as many as one-third
+  of Americans are at risk of being unable to maintain their current standard of
+  living in retirement. That’s because many are not putting away enough money on
+  a regular basis. 
+
+  An investment strategy that can be useful for helping you achieve your retirement goals is known as "retirement investing." This type of investing is geared toward enabling you to retire sooner with a more comfortable and secure standard of living. If you’re not quite ready to retire but would like to have more financial security once you do, it’s probably time to begin planning for your post-work life. A good place to start is by familiarizing yourself with the many different types of retirement investing available. Understanding these various options along with their pros and cons will help you determine which one(s) might be right for you.
 ---
 
 ## What is the benefit of investing for retirement?

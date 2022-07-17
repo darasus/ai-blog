@@ -1,7 +1,7 @@
 ---
 title: "6 Ways To Make Your Diet More nutritious "
 createdAt: 2022-07-09T06:38:08.007Z
-updatedAt: 2022-07-17T06:04:37.075Z
+updatedAt: 2022-07-17T15:00:29.351Z
 category: cooking
 summary: People who eat breakfast tend to be healthier in general. Whole grains
   have more fiber, protein, B vitamins, and iron than grains that have been
@@ -11,6 +11,14 @@ summary: People who eat breakfast tend to be healthier in general. Whole grains
   nutritional value of your diet by following these tips and eating more fiber
   and more veggies, and staying away from the processed foods that are high in
   salt and sugar.
+intro: "Do you feel like your diet just isn’t cutting it? Maybe it’s time to amp
+  things up a notch. A good diet is essential to a healthy life, and with so
+  many different diets being promoted these days, it can be hard to separate
+  fact from fiction. When it comes to nutrition, there are so many factors to
+  take into account. You might know that vitamins and minerals are important and
+  that fats, proteins, and carbs all play an important role in your diet. But
+  how do you actually make sure that your diet reflects those principles? Here
+  are some tips and tricks on how you can make your diet more nutritious:"
 ---
 
 ## Eat breakfast

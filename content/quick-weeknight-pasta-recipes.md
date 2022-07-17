@@ -1,7 +1,7 @@
 ---
 title: Quick weeknight pasta recipes
 createdAt: 2022-07-09T06:44:14.680Z
-updatedAt: 2022-07-17T06:22:39.295Z
+updatedAt: 2022-07-17T15:00:29.535Z
 category: cooking
 summary: There are a few key tips to keep in mind when cooking quick pasta
   dinners. Don’t be afraid to mix up your pasta, you can also use penne,
@@ -9,6 +9,14 @@ summary: There are a few key tips to keep in mind when cooking quick pasta
   ingredients if you can, and make sure they’re of the highest quality you can
   afford. A one-pot pasta with a light sauce is an easy pasta recipe idea that
   can be made in just a few minutes.
+intro: >-
+  Pasta is a perfect midweek solution for busy home cooks. It’s cheap, it’s
+  fast to cook, and it’s so easy to dress up with bold flavors and interesting
+  sauces.
+
+  Even when time is limited and stress from work or school is high, put your trust in pasta! There are so many ways to make quick pasta recipes that will take you no more than 30 minutes from start to finish. 
+
+  To help you out, we’ve listed some of our favorite quick pasta recipes here – along with tips on how to streamline your process even further. We hope this guide will turn you into an expert at making fast pasta dishes that everyone in the house will love.
 ---
 
 ## Tips for quick pasta dinner recipes

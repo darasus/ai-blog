@@ -1,7 +1,7 @@
 ---
 title: Python - An overview
 createdAt: 2022-07-09T06:19:42.187Z
-updatedAt: 2022-07-17T06:52:13.408Z
+updatedAt: 2022-07-17T15:00:30.457Z
 category: coding
 summary: Python is an open source programming language that was designed to be
   readable and easy to understand. It is often used in data analysis, data
@@ -12,6 +12,18 @@ summary: Python is an open source programming language that was designed to be
   variety of users to take advantage of the language. Programmers cite its
   usefulness in a variety of industries and applications as well as its ease of
   use.
+intro: In this digital age, data is everywhere. Whether you’re using the
+  internet to browse websites, stream videos on YouTube or Instagram, upload
+  images to Facebook, or store your favorite songs on Spotify, you’re almost
+  guaranteed to come across data at some point. With so much information
+  floating around online these days, it’s no surprise that programming languages
+  have become so essential in the tech industry. Computer programmers use
+  various programming languages to create software and other programs that help
+  users accomplish specific tasks or meet objectives within a particular scope
+  of work. There are many different types of programming languages available
+  today, but one of the most popular among developers is Python. In this
+  article, we will explore what makes Python unique and discuss why it’s such a
+  popular choice for programmers today.
 ---
 
 ## What is Python?

@@ -1,7 +1,7 @@
 ---
 title: The health benefits of walking - and how to get started
 createdAt: 2022-07-07T06:05:41.248Z
-updatedAt: 2022-07-16T16:13:11.191Z
+updatedAt: 2022-07-17T15:00:31.610Z
 category: health
 summary: If you have to travel to work every day, you might be able to get a bit
   more out of your commute. Plan your route to work or home so that it passes by
@@ -10,6 +10,15 @@ summary: If you have to travel to work every day, you might be able to get a bit
   to walk with someone who can keep you company and help you stay focused on the
   walk, rather than what you’re eating. Keep a supply of healthy snacks on hand
   to keep you energized.
+intro: It’s the perfect way to be active without having to think too much about
+  it. Just lace up and go, right? In theory, yes. But in practice, getting
+  yourself out the front door and walking for a length of time may seem like
+  quite the challenge, especially if you don’t have a gym membership or access
+  to any other kind of workout facilities.However, as with anything else in life
+  that may seem difficult at first but is actually beneficial for your
+  well-being in the long run, there are plenty of ways to make walking more
+  accessible and enjoyable for you. Here are some tips on how you can get
+  started on that walking routine and keep it going...
 ---
 
 ## Make the most of your commute.

@@ -1,7 +1,7 @@
 ---
 title: Go language for data science
 createdAt: 2022-07-09T06:29:13.269Z
-updatedAt: 2022-07-17T07:16:54.513Z
+updatedAt: 2022-07-17T15:00:30.677Z
 category: coding
 summary: Go is an open source programming language that was designed by Google
   engineers in 2009. It aims to solve the problems of large software projects,
@@ -11,6 +11,15 @@ summary: Go is an open source programming language that was designed by Google
   conventions. Go has a static type system with no explicit types, making the
   language less error-prone. Go also has a very fast compilation time, making it
   a good choice when you need to deploy code often.
+intro: >-
+  Data scientists must be able to cope with new challenges quickly. If you
+  want your team to be able to respond immediately and pivot smoothly, you need
+  them to use the same toolkit, share libraries and work on one codebase as much
+  as possible. There are so many different tools for data science, from Python
+  libraries like pandas and NumPy to the Scala programming language for
+  statistical analysis. 
+
+  If your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it’s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.
 ---
 
 ## What is Go?

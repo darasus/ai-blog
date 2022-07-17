@@ -1,7 +1,7 @@
 ---
 title: Web applications with Java
 createdAt: 2022-07-09T06:25:25.326Z
-updatedAt: 2022-07-17T06:57:11.571Z
+updatedAt: 2022-07-17T15:00:30.582Z
 category: coding
 summary: Java is an incredibly versatile programming language that can be used
   in many different environments and contexts. Java is also open source, which
@@ -10,6 +10,15 @@ summary: Java is an incredibly versatile programming language that can be used
   Learning how to build web applications with Java is easier than ever thanks to
   the many different frameworks and libraries available. The Spring Framework
   is, hands down, one of the most popular Java web frameworks available today.
+intro: >-
+  Whether you’re a new developer or have some experience under your belt,
+  chances are good that you’ll be working with web applications sooner rather
+  than later. In fact, the demand for such applications is growing all the
+  time—and Java developers who can build them are in high demand.
+
+  Working with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java – that it’s both stable and powerful.
+
+  That doesn’t mean there aren’t plenty of frameworks and libraries to choose from – there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let’s take a look at some of your best options for building web apps with Java.
 ---
 
 ## Spring MVC

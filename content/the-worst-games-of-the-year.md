@@ -1,7 +1,7 @@
 ---
 title: The worst games of the year
 createdAt: 2022-07-08T06:00:38.059Z
-updatedAt: 2022-07-17T07:28:01.548Z
+updatedAt: 2022-07-17T15:00:32.077Z
 category: gaming
 summary: "Assassin’s Creed: Odyssey is forgettable, the combat is clunky, and
   the dialogue is cringeworthy. Street Fighter V: Arcade Edition is plagued with
@@ -10,6 +10,16 @@ summary: "Assassin’s Creed: Odyssey is forgettable, the combat is clunky, and
   feel like a step back for the series. Forza Horizon 4 is fun to play, but its
   progression system is unfairly stacked in favor of players willing to spend
   money on car parts and mods."
+intro: >-
+  The video game industry is filled with great games. These are also some
+  of the most challenging and difficult ones to make. Cracking the code on how
+  to build a well-crafted and engaging video game requires practice, ingenuity,
+  skill, and patience. But not every developer is up to the task. Some simply
+  fail at creating an entertaining experience for players. This list compiles
+  some of the disappointments from 2018 that failed to meet an acceptable
+  standard of quality. 
+
+  These are the worst games of 2018, broken down by category and listed in no particular order. Some might have had good intentions or interesting concepts, but fell short in their execution. If you’re looking for something new to play this year, stay away from these titles as they won’t give you your money’s worth or much satisfaction beyond finishing them once (if that).
 ---
 
 ## Action Games

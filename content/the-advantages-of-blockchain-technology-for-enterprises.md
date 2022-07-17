@@ -1,7 +1,7 @@
 ---
 title: The Advantages of Blockchain Technology for Enterprises
 createdAt: 2022-07-07T16:58:44.797Z
-updatedAt: 2022-07-17T07:23:39.559Z
+updatedAt: 2022-07-17T15:00:31.334Z
 category: crypto
 summary: A recent article on the Harvard Business Review explored how blockchain
   technology can help businesses become more transparent by leveraging its
@@ -13,6 +13,15 @@ summary: A recent article on the Harvard Business Review explored how blockchain
   where trust and transparency are imperative to maintaining a healthy customer
   base. The technology can be used to manage customer identity and access across
   their networks, such as travel agencies and financial institutions.
+intro: >-
+  Today, businesses of all sizes are exploring the opportunities that
+  blockchain technology presents. With so much media attention surrounding
+  bitcoin and other cryptocurrencies, it’s no surprise that businesses are
+  looking for ways to leverage this new technology to drive value. Blockchain
+  applications have numerous use cases for enterprises, from streamlining supply
+  chain processes to enabling token-based rewards programs. 
+
+  Whether you’re just starting to learn about blockchain or you want to dive deeper into its potential applications, this blog post will help you understand why so many companies view blockchain as a game-changing innovation. It also explains how blockchain can be used to add trust and transparency to everything from supply chains to digital advertising and much more...
 ---
 
 ## What is blockchain?

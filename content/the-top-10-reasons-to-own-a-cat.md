@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Reasons to Own a Cat
 createdAt: 2022-07-09T06:11:54.602Z
-updatedAt: 2022-07-16T15:42:51.417Z
+updatedAt: 2022-07-17T15:00:29.993Z
 category: life
 summary: Studies show that owning a cat can help reduce your stress and improve
   your mood. Cats are self-cleaners so you can keep your home smelling fresh and
@@ -12,6 +12,17 @@ summary: Studies show that owning a cat can help reduce your stress and improve
   companion for dogs in the same way they are for children. They can be great
   guides for people who want to start running and challenge their owner to be
   more active.
+intro: "When you think of cats, you probably picture a feline that’s aloof,
+  independent and not overly affectionate. They are seen as independent
+  creatures that are self-sufficient and don’t need constant interaction from
+  humans to be happy. However, owning a cat is fast becoming one of the most
+  common household pets in the world. Almost a third of all households now own
+  at least one cat, with many seeing them as more than just an independent pet
+  but also a friend.Now let’s get this out of the way: Most people who own cats
+  would tell you they do so because they love them. But why? What is it about
+  these often aloof creatures that prompts so many people to give up their time,
+  attention and money to keep one as a pet? Let's check out these top ten
+  reasons why owning a cat is awesome!"
 ---
 
 ## They are Self-Cleaning

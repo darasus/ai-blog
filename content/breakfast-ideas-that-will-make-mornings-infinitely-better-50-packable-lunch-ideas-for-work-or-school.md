@@ -2,7 +2,7 @@
 title: Breakfast Ideas That Will Make mornings Infinitely Better 50 Packable
   Lunch Ideas For Work Or School
 createdAt: 2022-07-09T06:44:54.616Z
-updatedAt: 2022-07-17T06:23:44.235Z
+updatedAt: 2022-07-17T15:00:29.638Z
 category: cooking
 summary: Oatmeal is one of the best foods to eat for breakfast because it is
   high in fiber and protein, two nutrients that are essential for proper
@@ -11,6 +11,14 @@ summary: Oatmeal is one of the best foods to eat for breakfast because it is
   protein into your diet while also reducing the amount of fat fat fat you
   consume each day. Eating eggs in a wrap with some decent fiber, you can also
   add vegetables to the wrap.
+intro: >-
+  When we were kids, our parents probably had the easiest time getting us
+  ready for school in the morning. We drank glass after glass of orange juice,
+  ate a piece of toast with peanut butter and maybe even gulped down a bowl of
+  cereal or a few crackers with cheese. But once we hit high school, things
+  started to get a little more complicated. 
+
+  That’s because by the time most people reach their late teens, their bodies have developed an increasing need for more complex nutrients to fuel our minds and bodies throughout the day. Instead of drinking glasses of juice and eating crackers with cheese in the morning, most adults need to eat something that is substantial enough to keep them going until lunchtime. Thankfully, there are plenty of easy ways to accomplish this feat while also saving time and money at the same time! Here are 50 ideas that will make mornings infinitely better…
 ---
 
 ## Greek yogurt and fruit bowl

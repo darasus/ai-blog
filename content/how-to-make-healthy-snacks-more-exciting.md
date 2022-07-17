@@ -1,7 +1,7 @@
 ---
 title: How to make healthy snacks more exciting
 createdAt: 2022-07-07T06:05:41.877Z
-updatedAt: 2022-07-16T16:20:41.441Z
+updatedAt: 2022-07-17T15:00:31.770Z
 category: health
 summary: There’s no easy fix for changing eating habits for the long run, but
   you can speed up the process by making healthy snacks more exciting for your
@@ -10,6 +10,15 @@ summary: There’s no easy fix for changing eating habits for the long run, but
   the unhealthy ones so they don't feel like they’re missing out or getting
   forced to eat something they don’t like. Let them help you make healthy snacks
   in the kitchen and let them help pick out what you want.
+intro: >-
+  Do you find it challenging to get your kids to eat healthy snacks?
+  There’s so much pressure to feed our kids nutritious foods. But what if they
+  won’t even try them? Here are some ideas that may help make eating healthy
+  snacks more exciting for your child. 
+
+  There’s nothing like the love and trust of a child to make you reassess everything you do as a parent, and unfortunately most of us have let our kids down when it comes to feeding them in a way that benefits their health. It is not easy raising healthy kids when almost everywhere we look there are temptations around every corner trying their best to get us to buy something else instead. 
+
+  The good news is that this is not an impossible task. With the right balance of encouragement, support, and guidance from trusted parenting sources, we can all help our kids grow up with healthier habits than we currently have as adults. Here are some ways you can make healthy snacks more exciting for your child:
 ---
 
 ## Don’t Shout, Don’t Shame, And Don’t Threaten

@@ -1,7 +1,7 @@
 ---
 title: Go language for cloud computing
 createdAt: 2022-07-09T06:28:53.917Z
-updatedAt: 2022-07-17T07:15:56.756Z
+updatedAt: 2022-07-17T15:00:30.672Z
 category: coding
 summary: The choice of language for your cloud application must be carefully
   considered. Certain languages might be a better fit for certain types of
@@ -12,6 +12,13 @@ summary: The choice of language for your cloud application must be carefully
   availability. The cost of development, training, maintenance, and support can
   also be considered. The speed and performance of a language can be measured by
   the speed of your application and overall performance.
+intro: >-
+  The cloud is the future of computing, and its adoption continues to grow
+  at a fast pace. In fact, IDC estimates that worldwide public cloud services
+  will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New
+  types of cloud services are also emerging every day. 
+
+  A majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:
 ---
 
 ## Language selection process

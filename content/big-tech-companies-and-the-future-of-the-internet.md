@@ -1,7 +1,7 @@
 ---
 title: Big tech companies and the future of the internet
 createdAt: 2022-07-08T06:05:58.140Z
-updatedAt: 2022-07-17T07:25:29.069Z
+updatedAt: 2022-07-17T15:00:31.472Z
 category: technology
 summary: Google is the world’s most popular search engine, internet service
   provider (ISP), and website hosting provider. Facebook is the most popular
@@ -11,6 +11,20 @@ summary: Google is the world’s most popular search engine, internet service
   largest online retailer and marketplace, as well as a popular cloud computing
   service. Microsoft is also working on a new browser engine that's meant to
   replace HTML5.
+intro: >-
+  The internet is rapidly growing larger and more complex. As of June 2018,
+  there are approximately 3.4 billion users globally, with that number
+  continuing to grow by the day. With so many different people using the
+  internet, it’s no surprise that big tech companies have begun to thrive once
+  again.
+
+  At its core, the internet is an exchange of information between computers. In practice, this means a website like Google can store all of its user-friendly information online and anyone who wants to access it simply needs to type in a URL or visit a site directly. However, as more people use the internet and begin interacting with various programs and applications on websites, things become slightly more complicated. 
+
+  As you probably know if you browse social media sites or read news articles online frequently, there are now several different “languages” being used on websites to make them more interactive. These programming languages are known as HTML5, CSS3, JS/JavaScript, and JSON – all acronyms that stand for something but might not mean much to most users at first glance. 
+
+  However, these languages make up what is known as web content management systems (WCMS). A WCMS is essentially software that allows developers to create websites of any kind without having to code each page from scratch every time they want to launch a new one.
+
+  Here’s a brief breakdown of what big tech companies and the future of the internet look like today:
 ---
 
 ## Google

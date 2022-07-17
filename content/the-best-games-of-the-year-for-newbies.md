@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for newbies
 createdAt: 2022-07-08T06:02:07.164Z
-updatedAt: 2022-07-17T07:27:41.931Z
+updatedAt: 2022-07-17T15:00:32.104Z
 category: gaming
 summary: Mario Kart 8 Deluxe is the definitive version of the game that some
   people have been playing for over 25 years. Outlast 2 is a survival horror
@@ -10,6 +10,15 @@ summary: Mario Kart 8 Deluxe is the definitive version of the game that some
   easy to pick up and play, but it has enough depth that you don’t feel like
   you’ve mastered everything. You can play it for just a few minutes at a few
   hours at a time for all skill levels at a point-and-click adventure.
+intro: >-
+  Like any other hobby, gaming can have some intimidating barriers to
+  entry. There’s a bewildering number of video games out there, and as with any
+  entertainment medium it comes with its own jargon and slang. If you’re new to
+  gaming, it can be hard to figure out where to start.
+
+  This may not come as a surprise if you’ve read even a single article about the current state of the video game industry, but 2018 was a rough year for gamers — especially those who are just dipping their toes into this whole “video games” thing. Many big-name titles such as Call of Duty and Assassin’s Creed were so filled with microtransactions and other unfair business practices that they were met with widespread criticism and even government intervention in some cases.
+
+  We had so many great games this year that choosing our top 10 was incredibly difficult. But we managed it! Here are the best games for newbies in 2019:
 ---
 
 ## Sea of Thieves

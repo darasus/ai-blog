@@ -1,7 +1,7 @@
 ---
 title: 30 healthy snacks for on-the-go
 createdAt: 2022-07-07T06:05:40.825Z
-updatedAt: 2022-07-16T16:10:09.938Z
+updatedAt: 2022-07-17T15:00:31.497Z
 category: health
 summary: Greek yogurt with berries and granola is one of the healthiest and
   tastiest ways to start your day. Rice cakes with hummus paired with rice cakes
@@ -11,6 +11,17 @@ summary: Greek yogurt with berries and granola is one of the healthiest and
   healthy diet, but that's not the entire story. The Japanese diet has
   traditionally included a high consumption of fish and a wide range of
   vegetables.
+intro: "You’ve probably heard it before: When you’re busy, you need healthy
+  snacks to keep you going. The problem is that it’s not always easy to find
+  healthy snacks that are also fast and convenient. In our hectic, on-the-go
+  world, most of us don’t have time to sit down for a healthy meal three times a
+  day. Instead, we’re often forced to make snap decisions about what we can eat
+  quickly and conveniently. Unfortunately, those decisions too often lead to
+  less than healthy snack options like potato chips or sweets. However, there
+  are plenty of great ways to get your recommended daily intake of fruits and
+  veggies even when you’re on the go. These 30 healthy snacks for on-the-go are
+  perfect for keeping in your purse, desk drawer, locker, or anywhere else you
+  might find yourself hungry and without access to a full meal."
 ---
 
 ## Greek yogurt with berries and granola

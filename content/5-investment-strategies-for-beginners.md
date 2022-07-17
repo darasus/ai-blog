@@ -1,7 +1,7 @@
 ---
 title: 5 Investment Strategies for Beginners
 createdAt: 2022-07-17T11:49:23.887Z
-updatedAt: 2022-07-17T11:49:23.887Z
+updatedAt: 2022-07-17T15:00:31.128Z
 category: investing
 summary: Diversification is the strategy of spreading an investment across
   multiple asset classes, industries, and company sizes to reduce risk. Equity
@@ -11,6 +11,19 @@ summary: Diversification is the strategy of spreading an investment across
   great way to get started investing if you're a beginner. Robo-advisors are
   online investment advisors that use algorithms and automated investment
   strategies to help manage your money.
+intro: "When you first start investing, the world of finance can feel like a
+  labyrinth. There are so many different things to consider when choosing the
+  best way to grow your money. The last thing you need is another complicated
+  puzzle to solve. Luckily, as an investor newbie, you have a massive advantage
+  over other beginners who may not be reading financial advice websites: You
+  know you need to invest! While that sounds obvious, plenty of people either
+  don’t understand the importance of investing early or simply don’t get around
+  to it because it feels so daunting and complicated. But hey, we all begin
+  somewhere. If you’re just beginning your journey into the world of investments
+  -- or want to take your game up a level from casual interest to serious
+  financial strategy -- here are some useful tips for getting started in the
+  world of investment and how you can get ahead sooner rather than later with
+  these 5 investment strategies for beginners:"
 ---
 
 ## Diversification is your best friend

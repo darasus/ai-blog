@@ -1,7 +1,7 @@
 ---
 title: Rich Internet applications with Java
 createdAt: 2022-07-09T06:28:03.432Z
-updatedAt: 2022-07-17T07:15:36.196Z
+updatedAt: 2022-07-17T15:00:30.668Z
 category: coding
 summary: A rich internet application is a meaningful application running on the
   internet. These types of applications are highly interactive and have a more
@@ -11,6 +11,16 @@ summary: A rich internet application is a meaningful application running on the
   secure Sockets Layer (SSL) connections. Java has a reputation for being
   reliable, secure, and scalable, which makes it a great choice for developing
   RIAs.
+intro: >-
+  Rich Internet applications, or RIAs, are web-based applications that
+  feature greater interactivity than standard websites. Rather than simply
+  enabling users to access information from a website, RIA applications
+  typically provide users with the ability to take action on that content. For
+  example, rather than simply providing users with information about a product
+  and its price, an RIA application might enable users to add the product to a
+  shopping cart and complete the purchase process.
+
+  This article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you’re planning on creating one.
 ---
 
 ## What is an RIA?

@@ -1,7 +1,7 @@
 ---
 title: Decadent Desserts That Won't Derail Your Diets
 createdAt: 2022-07-09T06:44:48.168Z
-updatedAt: 2022-07-17T06:23:45.224Z
+updatedAt: 2022-07-17T15:00:29.637Z
 category: cooking
 summary: Blueberry Pancakes are packed with protein and will keep you feeling
   full for longer. Banana Oat Muffins take just 20 minutes to make, so you can
@@ -10,6 +10,13 @@ summary: Blueberry Pancakes are packed with protein and will keep you feeling
   is no surprise to see it in this tasty coconut soup recipe. Coconut shrimp
   soup is a great way to make a healthy and tasty snack and is great for feeding
   a crowd.
+intro: >-
+  If you think dieting means sacrificing your favorite foods, you’ll be
+  happy to know that nothing could be further from the truth. Instead of being
+  left with bland and boring meals, our team of expert chefs have come up with a
+  selection of decadent dessert recipes that are as healthy as they are tasty.
+
+  If losing weight is one of your New Year resolutions, it might seem like all desserts are off-limits. However, this isn’t the case at all. Even if you follow a stricter eating plan, there’s no reason why you can’t treat yourself to a sweet treat once in a while. The trick is knowing which ones aren’t going to derail your diet and which ones will do exactly that. That’s why we’re sharing these 15 scrumptious dessert recipes that won't derail your diets.
 ---
 
 ## Blueberry Pancakes With Whipped Cream

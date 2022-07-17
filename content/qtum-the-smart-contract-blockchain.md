@@ -1,7 +1,7 @@
 ---
 title: "Qtum: The Smart Contract Blockchain"
 createdAt: 2022-07-07T16:56:50.523Z
-updatedAt: 2022-07-17T07:22:43.021Z
+updatedAt: 2022-07-17T15:00:31.239Z
 category: crypto
 summary: Bitcoin is a digital currency that can be transferred directly from one
   user to another on a peer-to-peer network. There are no banks or middlemen
@@ -11,6 +11,16 @@ summary: Bitcoin is a digital currency that can be transferred directly from one
   for verifying transactions. The Qtum network uses two different proof of stake
   consensus algorithms for mining new coins and validating transactions. This
   allows Qtum to combine the best of both worlds, so to speak.
+intro: >-
+  Qtum is a hybrid of two of the most prominent and promising blockchain
+  projects currently available: Ethereum and Bitcoin. While both may seem like
+  unrelated projects at first glance, they share some commonalities. Both offer
+  different takes on blockchain technology with unique pros and cons—and Qtum
+  manages to combine both while enhancing their benefits.
+
+  We’ll dive into more details about both of these projects in this article, but let’s start with a brief overview: 
+
+  Ethereum offers an accessible platform for developers who want to build smart contracts or other applications that run on top of a blockchain network. On the other hand, Bitcoin serves as a digital currency that can be sent through the internet directly from one user to another with no third party or intermediary.
 ---
 
 ## What is Ethereum?​

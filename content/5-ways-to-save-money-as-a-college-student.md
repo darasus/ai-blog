@@ -1,7 +1,7 @@
 ---
 title: 5 ways to save money as a college student
 createdAt: 2022-07-07T06:05:40.230Z
-updatedAt: 2022-07-16T14:53:52.749Z
+updatedAt: 2022-07-17T15:00:29.667Z
 category: life
 summary: The college years are some of the most exciting and memorable times of
   your life, so enjoy the ride! Find out what employers want from graduates and
@@ -12,6 +12,19 @@ summary: The college years are some of the most exciting and memorable times of
   college years to help you pay for school. Find a school that is best
   academically, socially, and academically that is academically and socially
   fit.
+intro: >-
+  It’s almost impossible to get through your college years without coming
+  out of it with a heavy price tag. Even if you live at home and keep your
+  expenses low, the cost of tuition, housing, books, and other necessities can
+  easily add up to more than most people make in a year. And that’s before you
+  even factor in the cost of living as a student. The good news is that there
+  are plenty of ways to save money as a college student. In fact, by planning
+  ahead and making smart financial decisions, you can cut those costs
+  significantly. 
+
+  -END-
+
+  There are so many things to consider when entering the next phase of your life. You'll be faced with many decisions that will impact you for years to come. One of those being where to attend school and what major or program to choose? While it might seem easy on the surface, these factors can have a huge impact on your future career opportunities and success. Read on for some useful tips on how to choose between different colleges and programs as a student...
 ---
 
 ## Research The Schools & Degrees You’re Considering

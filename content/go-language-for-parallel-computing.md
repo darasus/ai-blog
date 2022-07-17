@@ -1,7 +1,7 @@
 ---
 title: Go language for parallel computing
 createdAt: 2022-07-09T06:31:07.364Z
-updatedAt: 2022-07-17T07:18:00.700Z
+updatedAt: 2022-07-17T15:00:30.735Z
 category: coding
 summary: The Go programming language was created by engineers at Google in 2007.
   It was designed with the goal of making it easier to write software that takes
@@ -11,6 +11,17 @@ summary: The Go programming language was created by engineers at Google in 2007.
   the Go language does make sense for parallel computing, it does have a few
   limitations. It doesn’t have built-in features to make it easy to distribute
   data across multiple machines.
+intro: If you’ve read up on the world of parallel computing, you’ll know that
+  it’s a field that is growing rapidly in importance. Parallel computing refers
+  to the simultaneous execution of computer programs or tasks so that they
+  operate at the same time rather than sequentially. This ability to execute
+  multiple processes simultaneously leads to faster and more efficient results.
+  Applications like artificial intelligence, image recognition, and natural
+  language processing are all fields that can benefit greatly from parallel
+  computing techniques. Because of this demand for parallel computing
+  techniques, there are many programming languages available specifically for
+  this purpose. The Go language is one such example. In this article, we will
+  explain what Go is and its benefits for parallel computing.
 ---
 
 ## What is Go?

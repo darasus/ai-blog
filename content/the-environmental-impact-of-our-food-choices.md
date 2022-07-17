@@ -1,7 +1,7 @@
 ---
 title: The Environmental impact of our food choices
 createdAt: 2022-07-09T06:39:48.039Z
-updatedAt: 2022-07-17T06:14:46.775Z
+updatedAt: 2022-07-17T15:00:29.375Z
 category: cooking
 summary: "When we eat, we consume resources that are needed to grow our food:
   soil, water, energy. Food production also generates waste, which can be
@@ -12,6 +12,15 @@ summary: "When we eat, we consume resources that are needed to grow our food:
   Eating more local, seasonal foods could reduce food transportation and
   consequent carbon emissions, water use, and biodiversity loss due to
   monoculture."
+intro: >-
+  Today, we are witnessing a growing awareness of the impact our food
+  choices have on the environment. From carbon emissions to water usage and
+  deforestation, it is clear that the modern diet has implications for our
+  planet.
+
+  An increasing number of people consider their diet when making decisions about their future. Perhaps this is because we are learning more about the environmental implications of our food choices: Eating less meat is good for the planet; eating only local and seasonal food is good for the planet; eating plants instead of animals reduces your carbon footprint; you should avoid palm oil as it’s destroying the rainforests…
+
+  To understand how our diet impacts the environment, we first need to understand what differentiates healthy diets from unhealthy ones. A healthy diet is one that balances calories with nutrition, ensuring adequate intake of vitamins and minerals. An unbalanced or unhealthful diet has too much or too little of one or more nutrients.
 ---
 
 ## How does our diet affect the environment?

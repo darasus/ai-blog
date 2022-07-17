@@ -1,7 +1,7 @@
 ---
 title: The Future of Blockchain Technology
 createdAt: 2022-07-07T16:57:20.428Z
-updatedAt: 2022-07-17T07:23:22.856Z
+updatedAt: 2022-07-17T15:00:31.266Z
 category: crypto
 summary: The blockchain is an incorruptible digital ledger of transactions which
   can be programmed to record not just financial transactions but virtually
@@ -12,6 +12,13 @@ summary: The blockchain is an incorruptible digital ledger of transactions which
   to say that it’s here to stay and will only continue to grow from this point.
   As technology continues to advance, we can expect to see more exciting
   developments in the future.
+intro: >-
+  The world of technology is always changing and growing. New ideas,
+  inventions, and innovations are introduced on a regular basis. In today’s
+  world, you might be wondering what the future holds for blockchain
+  technology. 
+
+  More specifically, where will blockchain go from here? What new implementations of blockchain technologies will we see in the near future? And what effects will these new innovations have on our day-to-day lives? These are all questions that many people are asking right now. Luckily, we have answers! Keep reading to learn more about the future of blockchain technology!
 ---
 
 ## What is blockchain?

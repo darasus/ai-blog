@@ -1,7 +1,7 @@
 ---
 title: "Stellar: The Banking Crypto"
 createdAt: 2022-07-07T16:56:01.371Z
-updatedAt: 2022-07-17T07:22:49.576Z
+updatedAt: 2022-07-17T15:00:31.233Z
 category: crypto
 summary: Stellar is a blockchain protocol that facilitates cross-border
   payments. The network is decentralized, meaning it is not owned or managed by
@@ -11,6 +11,15 @@ summary: Stellar is a blockchain protocol that facilitates cross-border
   in existence. It also supports the creation of “asset-backed” tokens that
   represent real-world assets like gold coins, company stock, or real estate. In
   2015, Stellar was used to facilitate a $100 million payout from WalMart.
+intro: >-
+  With the first quarter of 2018 coming to a close, now is a good time to
+  take stock of which coins are primed for growth in the coming year. In this
+  post, we’ll take a look at Stellar, an under-the-radar crypto that could break
+  out in Q2 and beyond. 
+
+  We know it’s still early days for crypto, but we think there’s also genius insight locked away in these digital tokens. So much of what makes a coin great doesn’t come from its technology or usage as much as its real-world potential. 
+
+  When evaluating a cryptocurrency for long-term investment, we ask ourselves: How does this token solve a real problem? Does it have the potential to be adopted by many users? Is there an opportunity for this coin to appreciate in value? If you can answer yes to all of these questions, you may be interested in investing in Stellar — here’s why:
 ---
 
 ## What is Stellar?

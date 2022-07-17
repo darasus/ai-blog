@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Exercises You Can Do In Your Home That Will Make You Lose Weight
 createdAt: 2022-07-17T11:48:18.421Z
-updatedAt: 2022-07-17T11:48:18.421Z
+updatedAt: 2022-07-17T15:00:31.860Z
 category: health
 summary: Strength training is one of the best exercises you can do to lose
   weight. You don’t need any fancy equipment or a gym membership to do strength
@@ -10,6 +10,15 @@ summary: Strength training is one of the best exercises you can do to lose
   move around in. Jumping squats are a great full-body exercise and are great
   for getting your heart rate up quickly. Treadmill walking is a great
   low-impact exercise that can help you lose weight and get fit.
+intro: >-
+  When you get home from work, the last thing you want to do is another
+  workout. But working out is essential for losing weight and keeping it off.
+  Exercise not only helps you lose weight faster and keep it off, but also
+  improves your overall health and reduces the risk of developing chronic
+  diseases. If you feel like hitting the gym after work isn’t an option, take a
+  look at these easy ways you can get moving in the comfort of your own home. 
+
+  Working out at home has many benefits; it’s convenient, cheap, private, and most importantly—you can do it whenever you want! It’s also a great way to strengthen your body without needing to leave the house or spend a lot of money on expensive gym memberships or personal trainers. Working out in your home not only saves you time but is also a convenient way to keep yourself motivated to stay active every day.
 ---
 
 ## Strength training

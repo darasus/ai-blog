@@ -1,7 +1,7 @@
 ---
 title: "NEO: The Chinese Ethereum"
 createdAt: 2022-07-07T16:56:09.064Z
-updatedAt: 2022-07-17T07:23:49.378Z
+updatedAt: 2022-07-17T15:00:31.234Z
 category: crypto
 summary: NEO is a smart contract platform that allows developers to create dApps
   similar to Ethereum. The NEO token is used to pay fees on the network, and GAS
@@ -10,6 +10,16 @@ summary: NEO is a smart contract platform that allows developers to create dApps
   applications, they have a few key differences. TRON is aiming to compete with
   NEO as the Chinese “decentralized” network, which is also aiming to become the
   largest decentralized media platform in the world.
+intro: EOS and TRON have both recently gained a lot of attention from the
+  cryptocurrency community. While both projects have done so for different
+  reasons, it’s no secret that both EOS and TRON have been attempting to compete
+  with Ethereum as potential alternatives for developers looking to build
+  decentralized applications (dApps). Both EOS and TRON are often referred to as
+  “the Chinese Ethereum” due to the similarities in their functionality as well
+  as their focus on becoming the primary blockchain for dApps. However, there
+  are clear differences between these two projects that set them apart from one
+  another. Let’s take a closer look at NEO and its competition with EOS and
+  TRON.
 ---
 
 ## What is NEO?

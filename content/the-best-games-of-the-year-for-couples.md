@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for couples
 createdAt: 2022-07-08T06:01:37.037Z
-updatedAt: 2022-07-17T07:28:24.221Z
+updatedAt: 2022-07-17T15:00:32.096Z
 category: gaming
 summary: "Nothing beats Cards Against Humanity, but the game’s crassness is what
   makes it so hilarious. Players are given a “spy” card with a word or two on it
@@ -11,6 +11,13 @@ summary: "Nothing beats Cards Against Humanity, but the game’s crassness is wh
   challenge yourselves, Sent Together is the perfect board game for you. Orchard
   is a great board game that is super cute and requires a fair amount of
   strategy."
+intro: >-
+  It’s the most wonderful time of the year. From binge-watching Christmas
+  TV specials to baking gingerbread cookies and sipping hot cocoa, there are
+  plenty of ways to get into the holiday spirit. And what better way to keep
+  that good cheer going than by playing a game with your significant other? 
+
+  With so many different board games available on the market, it can be challenging to figure out which ones are worth investing in. Thankfully, this list features some of the best games perfect for couples this holiday season. Whether you’re looking for a light-hearted romp or an intense challenge that brings you closer as partners, these games have you covered.
 ---
 
 ## Cards Against Humanity

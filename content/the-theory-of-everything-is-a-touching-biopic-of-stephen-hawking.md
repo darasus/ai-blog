@@ -1,7 +1,7 @@
 ---
 title: '"The Theory of Everything" is a touching biopic of Stephen Hawking'
 createdAt: 2022-07-08T05:57:24.535Z
-updatedAt: 2022-07-17T07:25:39.889Z
+updatedAt: 2022-07-17T15:00:31.910Z
 category: culture
 summary: "The Theory of Everything is a biopic of Stephen Hawking, a renowned
   theoretical physicist. It chronicles his relationship with his first wife,
@@ -10,6 +10,14 @@ summary: "The Theory of Everything is a biopic of Stephen Hawking, a renowned
   chronicles the marriage between Hawking and Jane. The film received critical
   acclaim and received Academy Award, Golden Globe, Screen Actors Guild, BAFTA,
   and Critics' Choice Awards nominations."
+intro: >-
+  In the 1980s, Stephen Hawking was at the peak of his scientific career.
+  At just 32 years old, he was a renowned expert on theoretical physics, having
+  published several academic papers on black holes and quantum theory. 
+
+  This is also when he met and married his first wife, Jane Wilde. Their marriage only lasted 14 years but proved to be an influential period for both of them. It was during this time that Stephen began to experience increasing difficulty with his motor functions and speech. The couple divorced in 1995 and it’s believed that this is when Hawking began to see ALS (amyotrophic lateral sclerosis) as something other than a curse — instead it became a catalyst for him to leave behind a legacy of knowledge that would outlive him.
+
+  A few years after his divorce, in 2003, Hawking had been able to complete ‘A Brief History of Time’ which became an international bestseller with over 10 million copies sold. In 2014, the film ‘The Theory of Everything’ was released based on the book by Jane Hawking about her marriage with Stephen which further cemented his fame as one of the most brilliant minds in history today.
 ---
 
 ## Movie Review: “The Theory of Everything”

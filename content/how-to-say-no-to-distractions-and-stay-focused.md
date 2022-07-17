@@ -1,7 +1,7 @@
 ---
 title: How to Say No to Distractions and Stay Focused
 createdAt: 2022-07-07T16:43:47.893Z
-updatedAt: 2022-07-16T15:58:20.154Z
+updatedAt: 2022-07-17T15:00:30.898Z
 category: business
 summary: Have a clear plan for how you want to spend your time and what you need
   to do to stay focused. Turn off notifications from apps on your phone or
@@ -11,6 +11,15 @@ summary: Have a clear plan for how you want to spend your time and what you need
   regular basis, you might want to consider blocking them. Use music or audio
   books to help you stay focused on what you’re doing and prevent yourself
   getting caught up in other distractions.
+intro: >-
+  Everyone who’s ever had more than one task to complete at the same time
+  knows how hard it can be to stay focused and get things done. 
+
+  Everyone has their own methods for keeping distractions at bay, but staying focused often requires a constant battle with your own impulses. 
+
+  In an increasingly connected world, it can be almost impossible to avoid distraction. Even so, most people also have a much harder time keeping themselves from getting caught up in everything that tempts them away from their primary objectives.
+
+  There are many ways you can keep yourself on track and maintain concentration even when there are so many distractions coming at you from all angles. The trick is in knowing what they are and where they tend to come from — and then arranging your environment accordingly to prevent them before they have a chance to catch you unawares.
 ---
 
 ## Have A Plan

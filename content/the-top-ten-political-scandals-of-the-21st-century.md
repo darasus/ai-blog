@@ -1,7 +1,7 @@
 ---
 title: The Top Ten Political Scandals of the 21st Century
 createdAt: 2022-07-07T06:15:22.083Z
-updatedAt: 2022-07-17T05:45:51.606Z
+updatedAt: 2022-07-17T15:00:29.639Z
 category: politics
 summary: "The U.S. Senate’s “Memogate” scandal is unique because it incorporates
   all the aspects of a classic political scandal: privacy issues, personal
@@ -11,6 +11,13 @@ summary: "The U.S. Senate’s “Memogate” scandal is unique because it incorp
   investigation into White House officials who had misused intelligence to
   support the war in Iraq. The Snowden leak prompted international debates over
   civil rights and the appropriate scope of governmental surveillance."
+intro: >-
+  In the 20th century, political scandals were mainly about sex, money and
+  alcohol. But in the 21st century, ethics and values play a bigger role. In
+  this century, it’s not what you do that will destroy your career; it’s why you
+  did it. 
+
+  Political scandals no longer come with codewords like “fraternizing with exotic dancers” or “excessive drinking.” Now they revolve around key issues such as corruption, racism, gender inequality and sexual assault. Many of these scandals also happened because politicians let their personal lives interfere with their public jobs. These are the top 10 political scandals of the 21st century so far:
 ---
 
 ## The U.S. Senate’s “Memogate” Scandal

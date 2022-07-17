@@ -1,7 +1,7 @@
 ---
 title: '"Whiplash" is a tense and exhilarating look at the world of jazz'
 createdAt: 2022-07-08T05:57:35.353Z
-updatedAt: 2022-07-17T07:25:45.249Z
+updatedAt: 2022-07-17T15:00:31.925Z
 category: culture
 summary: The sound mix on this film is something to behold. J.K. Simmons plays
   the ruthless Terence Fletcher, the "bad-ass motherfucker" who heads up the
@@ -11,6 +11,16 @@ summary: The sound mix on this film is something to behold. J.K. Simmons plays
   abusive relationships as it is about relationships that are worth fighting for
   and fighting for. The Verdict is unquestionably, the best film released in
   2014, if you're a fan of jazz or a student of the art of performance.
+intro: >-
+  Whiplash is a film about music, but it's not a musical. It's also a film
+  about performance, but it's not a concert movie. It is, however, an
+  electrifying and exhilarating portrait of the world of jazz drumming: its
+  practice; its professors; its players; its perfectionists. It is both an
+  ecstatic celebration of this most challenging art form and a cautionary tale
+  that is as much about breaking down our heroes as it is lifting them up on
+  pedestals.
+   And yet, Whiplash is neither of those things if you don't have ears to hear and eyes to see what director Damien Chazelle so expertly puts right in front of us. Coming out of Sundance with the Audience Award and Best Director laurels, this indie has been getting rave reviews for all the right reasons — which we’ll get into in just a bit -- but it took me two viewings to figure out why that was the case.
+  Read on to know why Whiplash is one of the best films on jazz and performance released this year:
 ---
 
 ## The Sound Mix is a Game-Changer

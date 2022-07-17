@@ -1,7 +1,7 @@
 ---
 title: Go language for web administration
 createdAt: 2022-07-09T06:32:43.700Z
-updatedAt: 2022-07-17T07:19:18.113Z
+updatedAt: 2022-07-17T15:00:30.786Z
 category: coding
 summary: Go is a programming language that was designed by Google engineers in
   2007. Go ranks directly behind Java as one of the most popular programming
@@ -11,6 +11,15 @@ summary: Go is a programming language that was designed by Google engineers in
   websites, but it is not the most ideal choice for this purpose. It is an
   excellent language for creating web applications that are used by engineers
   within a company to manage data and perform various tasks.
+intro: >-
+  If you are a programmer who loves to solve problems with your code and
+  thinks of new ways to make it more efficient, you may want to consider
+  switching to a career in software engineering. With the recent heightened
+  awareness of data breaches and cyber security concerns, there has been an
+  increased demand for software engineers who specialize in developing solutions
+  for information technology (IT) departments.
+
+  There are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you’re interested in working as an administrator in a company’s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.
 ---
 
 ## What is Go?

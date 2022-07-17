@@ -1,7 +1,7 @@
 ---
 title: How to beat the winter blues
 createdAt: 2022-07-07T06:05:40.530Z
-updatedAt: 2022-07-16T15:03:29.164Z
+updatedAt: 2022-07-17T15:00:29.771Z
 category: life
 summary: Winter blues are common among many people, and there’s a way to beat
   them. Eating a balanced diet high in fruits and vegetables will help to boost
@@ -11,6 +11,16 @@ summary: Winter blues are common among many people, and there’s a way to beat
   destress. Surround yourself with friends as much as possible. Get together
   with old friends, meet up with new friends, or take a trip somewhere to visit
   friends you haven’t seen in a while.
+intro: >-
+  The winter blues is a mood disorder that can affect anyone, not just
+  people from northern regions. Symptoms of the winter blues are essentially SAD
+  (seasonal affective disorder) brought on by the shorter days and colder
+  temperatures of winter. If you find yourself feeling blue during the colder
+  months but don’t necessarily have a reason to be, you might have the winter
+  blues. The good news is that you can combat this feeling with a little help
+  from your friends and some lifestyle changes. 
+
+  Whether you have or have had the winter blues in the past, there are ways to boost your spirits when those long, dreary days of January creep up on you like an old friend you don’t want to see again. Here are some ways to beat those pesky winter blues and get back to your happy self!
 ---
 
 ## Exercise

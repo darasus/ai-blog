@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Greatest Cat Moments in History
 createdAt: 2022-07-09T06:12:10.601Z
-updatedAt: 2022-07-16T15:45:45.575Z
+updatedAt: 2022-07-17T15:00:29.999Z
 category: life
 summary: During the 16th century, when tobacco was imported and traded as a
   commodity, cats were a common sight in warehouses and trading ships. Cats have
@@ -10,6 +10,15 @@ summary: During the 16th century, when tobacco was imported and traded as a
   Japan, for example, it’s customary to express gratitude toward guests by
   serving them fish as a delicacy. The Japanese believe that the more tails a
   tabby has, the more fortunate and prosperous the household is.
+intro: >-
+  So you think your cat is cute, and that’s a wonderful thing. After all,
+  cats are fluffy and adorable creatures who also happen to be natural stress
+  relievers. But do you think your cat is cute enough to make it into the
+  history books? Probably not. Sorry to burst your bubble, but even the cutest
+  cat in the world would struggle to compete with some of these feline friends
+  when it comes to making an impact on human history... 
+
+  Cats have been a constant companion of humans for thousands of years. They’re enigmatic creatures with a reputation for being aloof and independent; they don’t ask for much and they keep very little as repayment. But cats demand something intangible from their owners: companionship. As a result, there are many famous cats in history whose exploits have become the stuff of legend…
 ---
 
 ## Sick-n’-twisted feline antics

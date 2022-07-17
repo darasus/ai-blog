@@ -1,7 +1,7 @@
 ---
 title: 5 ways to make your mornings easier
 createdAt: 2022-07-07T06:05:40.507Z
-updatedAt: 2022-07-16T15:02:47.479Z
+updatedAt: 2022-07-17T15:00:29.770Z
 category: life
 summary: Planning your day the night before can make a world of difference.
   Eating a healthy breakfast is the most important meal of the day, but not all
@@ -10,6 +10,14 @@ summary: Planning your day the night before can make a world of difference.
   Meditation is one of the best ways to clear your mind and relax your body.
   Technology can help you get out of bed and start your day in a positive way,
   but trust us, it can!
+intro: >-
+  You know those people who seem to get out of bed with ease every morning?
+  You know, the people that you see on Instagram and wonder how they’re so happy
+  so early in the day? Well, we hate to break it to you but those people have
+  their own set of problems. Getting up after a long night is hard for them too;
+  the only difference is that their solutions work. 
+
+  These people have their own rituals and habits when it comes to waking up in the morning. If these folks can do it then why can’t we? It’s because some of us are too comfortable, which means we need to shake things up! Do you want to be one of those people who gets out of bed with ease and has a productive day ahead of them? In this blog post, we’ll tell you 5 ways you can make your mornings easier.
 ---
 
 ## Plan The Night Before

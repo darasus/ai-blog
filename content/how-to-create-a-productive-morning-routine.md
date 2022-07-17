@@ -1,7 +1,7 @@
 ---
 title: How to Create a Productive Morning Routine
 createdAt: 2022-07-07T16:42:23.733Z
-updatedAt: 2022-07-16T15:57:11.124Z
+updatedAt: 2022-07-17T15:00:30.891Z
 category: business
 summary: Having a productive morning routine is the key to getting your day off
   to a great start. Waking up 30 minutes earlier can make a huge difference to
@@ -10,6 +10,15 @@ summary: Having a productive morning routine is the key to getting your day off
   ensure that you are ready to tackle each task with confidence because you will
   know that you have everything you need right at your fingertips. Write down
   your to-do list in reverse order (finishing with the big tasks first)
+intro: >-
+  Thinking about your productivity can be a bit of a mind-bender. After
+  all, being productive means you’ve completed X amount of tasks in Y time.
+  You’ll know if you are productive because you’ll have ticked off everything on
+  your to-do list and have a few minutes to spare. Right?
+
+  That doesn’t sound too tricky, does it? Yet we all know that feeling when you look back at the end of the day and wonder where the hours went! What was even more frustrating is that you knew exactly what went wrong. It was something simple like not having prepped your desk with everything you need, or spending too much time browsing social media sites before launching into your work for the day.
+
+  If this sounds like something you’ve experienced before, read on as we explore how to create a productive morning routine so that every single day of your working week runs smoothly and efficiently...
 ---
 
 ## Productivity Doesn’t Happen Overnight

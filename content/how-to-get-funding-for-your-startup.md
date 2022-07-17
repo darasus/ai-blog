@@ -1,7 +1,7 @@
 ---
 title: How to Get Funding for Your Startup
 createdAt: 2022-07-07T16:48:07.268Z
-updatedAt: 2022-07-16T16:01:59.528Z
+updatedAt: 2022-07-17T15:00:31.008Z
 category: business
 summary: The ideal funding type will depend on the type of business you’re
   starting, your growth strategy, the amount of funding you need, and your exit
@@ -12,6 +12,15 @@ summary: The ideal funding type will depend on the type of business you’re
   over the next three to five years. Bootstrapping is when you launch a startup
   without outside investment by using your own money and reducing your expenses
   as much as possible.
+intro: >-
+  Unless you’re independently wealthy or have an unlimited supply of
+  personal financial resources, funding is one of the biggest obstacles for
+  founders launching a startup. How do you find money to fund your startup when
+  banks and financial institutions are so risk-averse? Thankfully, there are
+  several different funding sources available to entrepreneurs that are looking
+  to get their ventures off the ground. 
+
+  However, finding the right type of funding for your startup – and in the appropriate amount – can be tricky. There are many things to consider before committing equity to someone else’s idea or launching a crowdfunding campaign. Making the right decision upfront can make all the difference later on, which is why we’ve outlined some helpful information on how to get funding for your startup.
 ---
 
 ## What Is the Right Way to Get Funding for a Startup?

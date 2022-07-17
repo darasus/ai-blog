@@ -1,7 +1,7 @@
 ---
 title: The Risks of Blockchain Technology
 createdAt: 2022-07-07T16:58:18.278Z
-updatedAt: 2022-07-17T07:23:45.793Z
+updatedAt: 2022-07-17T15:00:31.323Z
 category: crypto
 summary: When you use blockchain, you’ll store data as a series of transactions.
   Each transaction is recorded on a “block” and linked to the one before it and
@@ -11,6 +11,17 @@ summary: When you use blockchain, you’ll store data as a series of transaction
   your business will pay for every transaction that occurs on the network.
   Hybrid blockchains allow you to update the software as needed without
   affecting the data that is stored on the blockchain.
+intro: >-
+  The rise of blockchain technology has made it possible for digital data
+  to be verified, stored, and accessed in a safe and secure way. Companies are
+  beginning to use this technology to manage the digital certificates of their
+  products and verify their authenticity. Because blockchain is widely known as
+  the technology behind Bitcoin, many businesses are hesitant to adopt it
+  because of its association with cryptocurrency. However, that reputation isn’t
+  necessarily fair. The real risk lies in how companies implement blockchain
+  instead of the technology itself. 
+
+  There are potential risks when adopting new technologies such as blockchain; however, implementing it correctly can help your business thrive by streamlining processes and reducing costs. This article explains the risks of blockchain technology and how you can mitigate them before implementation.
 ---
 
 ## Loss of Confidentiality

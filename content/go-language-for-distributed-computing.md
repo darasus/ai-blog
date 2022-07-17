@@ -1,7 +1,7 @@
 ---
 title: Go language for distributed computing
 createdAt: 2022-07-09T06:31:13.490Z
-updatedAt: 2022-07-17T07:18:04.741Z
+updatedAt: 2022-07-17T15:00:30.776Z
 category: coding
 summary: Go is a language used for general purpose programming and distributed
   computing. It was created at Google, and then open sourced to the public in
@@ -11,6 +11,16 @@ summary: Go is a language used for general purpose programming and distributed
   developers to build machine learning functionality into their apps, making the
   language ideal for use cases like image recognition, natural language
   processing, and more.
+intro: >-
+  Knowing the right tool for the job is essential to efficiency and
+  performance. Distributed computing is a branch of computer science that deals
+  with problem-solving tasks that cannot be solved by analyzing and working with
+  them individually. Distributed computing relies on the collective processing
+  power and memory of many computers rather than just one. Everything from big
+  data, machine learning, artificial intelligence, natural language processing,
+  neural networks, speech recognition, and more involve distributed computing. 
+
+  A great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it’s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.
 ---
 
 ## What is Go Language?

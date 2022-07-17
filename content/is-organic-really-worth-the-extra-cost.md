@@ -1,7 +1,7 @@
 ---
 title: Is Organic Really worth the extra cost?
 createdAt: 2022-07-09T06:39:59.071Z
-updatedAt: 2022-07-17T06:17:31.704Z
+updatedAt: 2022-07-17T15:00:29.377Z
 category: cooking
 summary: Organic means “grown without synthetic pesticides, synthetic
   fertilizers, genetic engineering, or ionizing radiation. Organic produce is
@@ -11,6 +11,18 @@ summary: Organic means “grown without synthetic pesticides, synthetic
   nutritious because cows are raised on small farms that allow them to graze on
   pastures. Organic coffee beans are often sprayed with harmful pesticides that
   can be very harmful to you when you drink them.
+intro: >-
+  You can’t open a magazine or social media feed these days without seeing
+  something about the organic food movement. In fact, the organic food market is
+  growing faster than any other segment of the food industry. According to the
+  Organic Trade Association, sales of organic foods increased by almost 10% in
+  2017 alone. And given that more and more consumers are becoming aware of what
+  they’re eating and where it comes from, that isn’t going to change anytime
+  soon. Which begs the question: Are all those new organic options worth it? Do
+  they really taste better than conventional alternatives? Are they healthier
+  for you? And most importantly, is the cost worth it? 
+
+  If you read through all the information on different types of organic foods and their benefits, you might be feeling a little overwhelmed right now. That’s totally normal! But don’t fret—we have you covered with everything you need to know about whether or not organic is worth its hefty price tag.
 ---
 
 ## How do you know if an Organic Food is really Organic?

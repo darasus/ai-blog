@@ -1,7 +1,7 @@
 ---
 title: Feeding a family on a budget - tips and recipes
 createdAt: 2022-07-09T06:40:40.258Z
-updatedAt: 2022-07-17T06:17:32.275Z
+updatedAt: 2022-07-17T15:00:29.492Z
 category: cooking
 summary: It is crucial that you put some thought into what you’re going to be
   eating and when, as this will make your life easier in the long run. Having a
@@ -10,6 +10,16 @@ summary: It is crucial that you put some thought into what you’re going to be
   shop at different times of the week, depending on the best times and days to
   shop for certain items. If you have a particular item in mind, then add it to
   the list.
+intro: >-
+  When you’re on a budget, eating healthy can feel like an impossible task.
+  Conventional wisdom says that eating well is expensive and that eating poorly
+  is cheap. But this isn’t always the case. You can eat well even if you have a
+  small food budget, as long as you plan ahead and know where to look for
+  bargains. Healthy eating doesn’t have to be expensive; it just might not be
+  cheap. 
+
+
+  With careful planning and smart shopping, however, it needn’t break the bank. Eating well on a budget isn’t about cutting out all the things you love or pretending that you live in famine conditions; it’s about knowing how to save money while accessing healthy food that gives you energy and happiness in your life. Check out these tips and recipes so that eating healthy on a budget becomes easier than ever before!
 ---
 
 ## Plan your meals

@@ -1,7 +1,7 @@
 ---
 title: What is mediation?
 createdAt: 2022-07-09T06:14:05.119Z
-updatedAt: 2022-07-16T15:48:13.873Z
+updatedAt: 2022-07-17T15:00:30.047Z
 category: life
 summary: A mediator facilitates a conversation between two parties in conflict
   by encouraging them to talk directly to each other and negotiate a resolution.
@@ -12,6 +12,14 @@ summary: A mediator facilitates a conversation between two parties in conflict
   explore their issues fully, to exchange information and to negotiate an
   agreement. In arbitration, a third party hears both sides of the story, makes
   a decision and orders the parties to follow the decision.
+intro: >-
+  Mediation is a neutral, confidential process that helps parties in
+  conflict reach a mutually beneficial outcome. It is an opportunity for people
+  who are in a dispute to speak directly with one another, explore their
+  differences and find common ground. Mediation is not about winning or losing;
+  it’s about finding peace so everyone can go forward with their lives. 
+
+  Mediation has been used as an alternative to litigation for more than 2,500 years. The practice of mediation has continued to evolve over time and today there are many different types, including: family mediation, dispute resolution, community mediation, transformative mediation and collaborative law. However, they all have the same core elements and are intended to achieve the same goals: finding common ground between two parties in conflict; preserving personal relationships; and resolving problems constructively by using active listening techniques.
 ---
 
 ## Understanding the Basics of Mediation

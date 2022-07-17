@@ -1,7 +1,7 @@
 ---
 title: '"Birdman" is a darkly comic meditation on fame and ego'
 createdAt: 2022-07-08T05:57:47.668Z
-updatedAt: 2022-07-17T07:25:48.981Z
+updatedAt: 2022-07-17T15:00:31.930Z
 category: culture
 summary: One of the central themes of "Birdman" is the search for authenticity
   in his work, relationships and his life as a whole. Ego is one of the main
@@ -11,6 +11,17 @@ summary: One of the central themes of "Birdman" is the search for authenticity
   failure that stifles the creative process. Being famous is not a prerequisite
   for living a happy and fulfilling life, as it can lead to envy, isolation and
   privacy.
+intro: >-
+  In a city that’s been taken over by media, sports and finance moguls, the
+  theater community is feeling squeezed out. As the struggle to find funding and
+  recognition continues, an aging actor challenges his fellow actors to step out
+  of their comfort zone and audition for a new play that he’s producing called
+  “The Birdman.” But as they say, beware of Greeks bearing gifts because this
+  one is also an insider who has ulterior motives. 
+
+  In Alejandro González Iñárritu’s darkly comic film “Birdman,” the lead character—an arrogant actor named Riggan Thomson—is simultaneously tormented by his past success as the superhero Birdman but also driven by the desire for fame again. As a result, he devises a plan to create publicity for his production of The Birdman by playing both roles in the same play and switching back and forth in front of an audience. He also moves into the derelict theater with his daughter where he will perform as part of his preparations on getting back into shape.
+
+  In exploring these themes of egotism and desperation in a celebrity-obsessed world, "Birdman" is an interesting exploration of what it means to be famous and why we allow others to have such power over us.
 ---
 
 ## The Importance of Being Famous

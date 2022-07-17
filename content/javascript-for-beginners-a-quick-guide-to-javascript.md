@@ -1,7 +1,7 @@
 ---
 title: "Javascript For Beginners: A Quick Guide To Javascript"
 createdAt: 2022-07-17T07:19:30.298Z
-updatedAt: 2022-07-17T07:19:30.298Z
+updatedAt: 2022-07-17T15:00:30.815Z
 category: coding
 summary: Javascript is a language that is used to create interactive websites
   and create web applications. Javascript is one of the most in-demand skills in
@@ -11,6 +11,15 @@ summary: Javascript is a language that is used to create interactive websites
   learn Javascript by following different online courses or through books or
   through online communities. You should also find a mentor who can guide you
   along your journey to learning Javascript and help you progress faster.
+intro: >-
+  Learning to code can be a challenging experience, especially when it
+  comes to learning a new programming language. Many coders are hesitant when it
+  comes to learning new coding languages because they feel it poses a challenge
+  to their abilities. However, this shouldn’t deter you from continuing your
+  coding education and exploring other opportunities that the coding world has
+  to offer. 
+
+  If you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let’s get started!
 ---
 
 ## What is Javascript?

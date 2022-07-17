@@ -1,7 +1,7 @@
 ---
 title: The 5 most overrated games of the year
 createdAt: 2022-07-08T06:00:55.055Z
-updatedAt: 2022-07-17T07:27:10.398Z
+updatedAt: 2022-07-17T15:00:32.079Z
 category: gaming
 summary: Crash Bandicoot N. Sane Trilogy is one of the few games on this list
   that is almost universally loved. Dark Souls is not a new game, it is a port
@@ -12,6 +12,15 @@ summary: Crash Bandicoot N. Sane Trilogy is one of the few games on this list
   make it feel like the best sports game in years. Shadow of the Tomb Raider is
   a game that people were so excited for that many were willing to overlook any
   flaws.
+intro: >-
+  It is the time of year when game journalists and bloggers around the
+  world start posting lists of their favourite video games from the past 12
+  months. These are often referred to as “Game of the Year” awards, but they are
+  not all created equal. Some use a points-based system, while others ask
+  critics to vote on individual games and not just give them a list of possible
+  answers. 
+
+  There is also no standard definition for what qualifies as an “overrated” game. Some people might interpret it to mean any game that received generally positive reviews but has little chance of winning a Game of the Year award. Others assume it must be a high-profile title that almost everyone agrees is terrible but continues to sell well because it has been overhyped by gaming journalists and analysts. In this article we will look at five overrated video games from 2018 that were widely praised, but do not measure up to their reputation.
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

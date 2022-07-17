@@ -1,7 +1,7 @@
 ---
 title: How to Start a Business on a shoestring budget
 createdAt: 2022-07-07T16:44:27.521Z
-updatedAt: 2022-07-16T15:58:19.983Z
+updatedAt: 2022-07-17T15:00:30.901Z
 category: business
 summary: A small business doesn’t have to have to feel small like a small
   business. Instead of trying to create a budget that doesn't fit your current
@@ -11,6 +11,16 @@ summary: A small business doesn’t have to have to feel small like a small
   spending to better understand where your money goes on a daily, weekly and
   monthly basis. You can also create multiple budgets based on your company’s
   income and expenses.
+intro: "Everyone has to start somewhere. Whether you want to launch a small side
+  business or branch into new territory as an established company, you’ll need a
+  financial plan to get started. Small business budgets are essential for
+  accounting, planning and monitoring of spending—and they can help you get your
+  company off the ground in no time. A budget enables you to set a monetary
+  limit on the scope of your business venture. It also helps you stay within
+  that limit, avoiding unnecessary expenses that may lead to bankruptcy. Your
+  budget can be as simple or detailed as you like, but the basic framework is
+  always the same. Here are some tips on how you can create an effective small
+  business budget on a shoestring budget:"
 ---
 
 ## Define your business goals

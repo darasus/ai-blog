@@ -1,7 +1,7 @@
 ---
 title: How to make healthier choices when eating out
 createdAt: 2022-07-07T06:05:42.150Z
-updatedAt: 2022-07-16T16:22:31.970Z
+updatedAt: 2022-07-17T15:00:31.812Z
 category: health
 summary: Eating out at a restaurant or a cafe is often a spur-of-the-moment
   affair, but knowing a little about the menu selection in advance can make a
@@ -11,6 +11,15 @@ summary: Eating out at a restaurant or a cafe is often a spur-of-the-moment
   a meal that would significantly exceed your daily calorie intake. Ask the
   server if you can get some olive oil, vinegar, lemon, or any other healthy
   condiment to go with your meal.
+intro: >-
+  When you’re watching what you eat for whatever reason, eating out can be
+  a challenge. Many popular fast food and casual dining establishments now offer
+  more healthful menu selections as a response to changing tastes among
+  customers and nutrition-conscious consumers. However, these healthier options
+  are not necessarily the best choices when you’re trying to keep your calorie
+  intake in check.
+
+  Eatting out at restaurants, cafes, fast food chains, or any other eatery requires some advance planning if you want to keep your diet in check. The primary considerations involve choosing places that offer healthy menu offerings as well as ordering smartly once you get there. This article will assist you in making wiser decisions the next time you eat out by identifying the pitfalls of most eating establishments and providing tips on how to navigate them with less of an impact on your waistline.
 ---
 
 ## Know the menu selection options in advance

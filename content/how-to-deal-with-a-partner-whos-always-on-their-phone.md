@@ -1,7 +1,7 @@
 ---
 title: How to deal with a partner who's always on their phone
 createdAt: 2022-07-08T06:23:47.887Z
-updatedAt: 2022-07-16T15:10:13.783Z
+updatedAt: 2022-07-17T15:00:29.793Z
 category: life
 summary: The number one rule when it comes to dealing with a partner who’s
   always on their phone is to talk to your partner about it. If you’re feeling
@@ -10,6 +10,16 @@ summary: The number one rule when it comes to dealing with a partner who’s
   to set aside certain periods of time when they have to put the cell down.
   Don’t assume that your partner is cheating on you through their phone, it
   might be a good idea to consider whether you have any reason to be suspicious.
+intro: >-
+  Now and again, your significant other will probably spend more time with
+  their phone than with you. After all, it’s 2018, and smartphones are
+  practically a necessity for anyone who wants to stay connected. But if your
+  partner is glued to their cell 24/7, it can obviously become a source of
+  tension between you two. It’s natural to feel a little jealous when someone
+  you care about spends more time texting than talking with you, after all. And
+  this is especially true if they seem to be ignoring you while they do so.
+
+  If your partner always seems to be on their phone, there could be several explanations — from an online affair to simply being an avid social media user. Regardless of the reasons why your partner might spend so much time on their phone, though, the way that you react definitely matters. Being insecure and accusatory about something as innocent as checking messages isn’t likely to lead anywhere positive, after all. Here are some tips for dealing with a partner who’s always on their phone:
 ---
 
 ## Talk to Your Partner About It

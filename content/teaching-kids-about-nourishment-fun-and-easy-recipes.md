@@ -1,7 +1,7 @@
 ---
 title: Teaching kids about nourishment- fun and easy recipes
 createdAt: 2022-07-09T06:39:34.882Z
-updatedAt: 2022-07-17T06:14:59.232Z
+updatedAt: 2022-07-17T15:00:29.374Z
 category: cooking
 summary: Kids need to be exposed to vegetables as early as possible, but if
   you’re doing this at the wrong time or in the wrong way, it can actually make
@@ -11,6 +11,15 @@ summary: Kids need to be exposed to vegetables as early as possible, but if
   them because they don’t come in the form of a tasty treat or snack. You should
   start feeding your baby vegetables sometime between the ages of 6 and 9
   months.
+intro: >-
+  It is nearly impossible to keep your child away from junk food. The
+  temptations lurk everywhere, and it is near impossible for parents to monitor
+  their children’s eating habits at all times of day. That doesn’t mean that you
+  can’t help your kid learn about the benefits of healthy foods. In fact, even
+  the littlest of kids are capable of grasping basic concepts about nutrition
+  and how certain types of food make them feel. 
+
+  Whether or not your child is a picky eater, these nutrition tips will help them understand why it’s important to eat fruits, veggies, whole grains and other wholesome foods. Whether you’re just starting out or continuing on with this wholesome eating plan for kids with more advanced challenges, the advice here will help you come up with fun recipes they won’t soon forget.
 ---
 
 ## Don’t be afraid of vegetables!

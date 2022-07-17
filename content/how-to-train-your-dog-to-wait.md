@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Wait
 createdAt: 2022-07-08T06:26:04.783Z
-updatedAt: 2022-07-16T15:18:52.913Z
+updatedAt: 2022-07-17T15:00:29.893Z
 category: life
 summary: The first step in getting your dog to wait is to get him to stop
   following you when you leave the room. It’s important that you don’t
@@ -10,6 +10,17 @@ summary: The first step in getting your dog to wait is to get him to stop
   association in the dog's mind that you doing this means he should stay put.
   You can use shaping techniques to help your dog learn to wait for longer
   periods of time.
+intro: >-
+  You probably have a number of reasons why you wouldn’t want your dog to
+  follow you from room to room. You might have company coming over, and not
+  everyone likes dogs in their space. You might be trying to watch TV or read a
+  book. Or perhaps you simply need some time to yourself. In any case, you’d
+  like the dog to stay put for a few minutes when you leave the room rather than
+  follow after you and knock over your favorite lamp or end table on the way.
+
+  Are You Prepared For A New Dog? Read This Before Adopting One! 
+
+  As we all know, puppies don’t come with instruction manuals. Even though they’re smart animals, they also have their own ways of doing things that can leave us scratching our heads at times. They are not always willing to do what we want them to do with ease and grace.
 ---
 
 ## The Basics of Teaching a Dog to Wait

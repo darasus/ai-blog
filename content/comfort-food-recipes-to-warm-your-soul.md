@@ -1,7 +1,7 @@
 ---
 title: Comfort food recipes to warm your soul
 createdAt: 2022-07-07T06:05:39.824Z
-updatedAt: 2022-07-17T06:21:43.992Z
+updatedAt: 2022-07-17T15:00:29.187Z
 category: cooking
 summary: This recipe is a great option if you’re in need of a few easy comfort
   food recipes. All you need to do is dump all the ingredients into a slow
@@ -11,6 +11,12 @@ summary: This recipe is a great option if you’re in need of a few easy comfort
   vegetable broth instead of beef broth and skip the meat, and you're good to
   go! Baked mac and cheese is a childhood classic, but it also makes for a great
   grown-up comfort food.
+intro: >-
+  It’s the perfect time of year to cozy up with a blanket and dive into a
+  bowl of steaming hot soup, casserole, or other home-style comfort food. Who
+  can resist the wholesome aroma of a slow-cooked dish? Not us! 
+
+  These dishes are filled with rich and savory ingredients that warm you from the inside out. They’re also easy to make in large batches, which means you can enjoy them for dinner for several nights in a row without getting bored. And because these comforting meals are easy to double or triple, they’re also excellent ideas for homesick college students or anyone who misses mom’s home cooking. So, don your stretchy pants and get ready to dive into these 15 yummy comfort food recipes this season has to offer…
 ---
 
 ## Taco Soup

@@ -1,7 +1,7 @@
 ---
 title: The history of mediation
 createdAt: 2022-07-09T06:13:49.592Z
-updatedAt: 2022-07-16T15:48:17.561Z
+updatedAt: 2022-07-17T15:00:30.042Z
 category: life
 summary: Mediation is a process where a neutral third party helps two parties in
   conflict come to an agreement about how to resolve their dispute. The mediator
@@ -11,6 +11,18 @@ summary: Mediation is a process where a neutral third party helps two parties in
   environment that is safe and non-threatening for parties involved in conflict.
   There are many different types of mediation processes, each with its own pros
   and cons.
+intro: >-
+  Mediation is a process of third-party intervention that enables the
+  conflicting parties to resolve their disputes peacefully.  There are many
+  different types of mediation processes, each with its own pros and cons. When
+  it comes to resolving conflict in business relationships, mediation is one of
+  the most effective strategies.
+
+  Mediation helps people resolve their problems in a controlled environment without the cost or stress of going to court or getting lawyers involved. It’s also private so you don’t have to worry about your personal information becoming public.
+
+  Mediation is not just for divorce — this neutral third party helps people with any kind of dispute find solutions that work for them and avoid going to court or ending their relationship.
+
+  Mediation is one of the oldest dispute resolution methods on record; it probably existed even before the invention of formal courts. Keep reading and learn more about mediation, its history, and how it can help you resolve conflicts at work or in your personal life.
 ---
 
 ## What is Mediation?

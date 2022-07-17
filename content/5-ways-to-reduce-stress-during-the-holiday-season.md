@@ -1,7 +1,7 @@
 ---
 title: 5 ways to reduce stress during the holiday season
 createdAt: 2022-07-07T06:05:40.346Z
-updatedAt: 2022-07-16T14:57:12.879Z
+updatedAt: 2022-07-17T15:00:29.691Z
 category: life
 summary: The holidays can be a wonderful time to spend with friends and family
   if you don't take steps to reduce your stress. The best way to reduce stress
@@ -10,6 +10,14 @@ summary: The holidays can be a wonderful time to spend with friends and family
   time for each task that you need to accomplish, and then stay focused on that
   task until it is done. When we are grateful, we are happy with what we have,
   and we don’t feel the need to have more to do.
+intro: >-
+  The holidays can bring stress in abundance. There’s shopping, traveling
+  and entertaining to consider. And that’s before you even get to the season
+  itself. 
+
+  The holiday season is packed with wonderful traditions like parties and family get-togethers. But it also brings its fair share of stressors, from spending time with extended relatives that you only see once a year to buying gifts for all those people and throwing together an elaborate party that your guests will talk about for years to come. 
+
+  Fortunately, there are some things you can do to make the season less stressful. Stress is a natural response when we feel like our safety is threatened or our personal space has been invaded. When it comes to the holiday season, however, just about everything invokes stress as a response. So if you want to reduce the stress of this festive time of year, here are five ways you can do so:
 ---
 
 ## Plan ahead

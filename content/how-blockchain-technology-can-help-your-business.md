@@ -1,7 +1,7 @@
 ---
 title: How Blockchain Technology Can Help Your Business
 createdAt: 2022-07-07T16:57:33.940Z
-updatedAt: 2022-07-17T07:23:46.775Z
+updatedAt: 2022-07-17T15:00:31.269Z
 category: crypto
 summary: A blockchain is a decentralized ledger that keeps a record of all
   transactions that take place. These transactions are recorded in a
@@ -11,6 +11,16 @@ summary: A blockchain is a decentralized ledger that keeps a record of all
   finance such as marketing and advertising. It can also be used to create
   tamper-proof timestamped records of things like the origin of products and
   when they were delivered.
+intro: >-
+  Today, the world is more connected than ever before. Thanks to
+  technological advancements, we can do business with people all over the world.
+  In fact, people have done business with people in other countries for a very
+  long time. Today, however, businesses must go farther and deeper to reach new
+  customers and markets with this type of global visibility. Businesses must
+  also take advantage of technology that makes it easier and cheaper to connect
+  with people from other countries.
+
+  Indeed, businesses should use every tool possible to do business globally at lower costs, avoid intermediaries when possible and reduce risks as much as possible. The best way to achieve these objectives is through the use of disruptive technologies like blockchain. Let’s see how it can help your business grow faster and smarter by reading the following lines…
 ---
 
 ## What is Blockchain?

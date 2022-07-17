@@ -1,7 +1,7 @@
 ---
 title: Inheritance in Java
 createdAt: 2022-07-09T06:23:04.733Z
-updatedAt: 2022-07-17T06:55:25.128Z
+updatedAt: 2022-07-17T15:00:30.559Z
 category: coding
 summary: Inheritance is the process of taking one class and making it so that it
   extends the functionality of another. This means that the code that was
@@ -11,6 +11,15 @@ summary: Inheritance is the process of taking one class and making it so that it
   been implemented in a different class, then you should use inheritance. This
   is just one of the reasons why you might want to take advantage of
   inheritance.
+intro: >-
+  When you think of classes and objects, what comes to mind? If your
+  thoughts immediately went to the idea of parent and child classes, then you’ve
+  either studied object-oriented programming or you understand the nuances of
+  English. However, if you think about a parent giving birth to a child, then
+  you obviously haven’t studied enough OOP. Let’s see what inheritance in Java
+  is all about and why it’s useful. 
+
+  We often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question – can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.
 ---
 
 ## Why Use Inheritance?

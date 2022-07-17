@@ -1,7 +1,7 @@
 ---
 title: Python - The language for data mining
 createdAt: 2022-07-09T06:21:02.371Z
-updatedAt: 2022-07-17T06:53:56.054Z
+updatedAt: 2022-07-17T15:00:30.480Z
 category: coding
 summary: There are many reasons why you should choose Python for your data
   mining projects. Python is one of the easiest programming languages to learn
@@ -10,6 +10,12 @@ summary: There are many reasons why you should choose Python for your data
   With these qualities, Python is the best programming language to use for data
   mining. The language is extremely versatile, powerful and simple at the same
   time. It's also adaptable - use it for almost any purpose.
+intro: >-
+  Python is an extremely versatile language and its applications range from
+  web development to machine learning. What makes Python so great is that it’s
+  so adaptable – you can use it for almost any purpose. Let’s take a look at
+  some of the reasons why you should consider using Python for data mining. 
+   With the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.
 ---
 
 ## Why You Should Use Python For Data Mining

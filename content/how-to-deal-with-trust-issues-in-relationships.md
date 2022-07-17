@@ -1,7 +1,7 @@
 ---
 title: How to deal with trust issues in relationships
 createdAt: 2022-07-08T06:23:07.789Z
-updatedAt: 2022-07-16T15:06:47.726Z
+updatedAt: 2022-07-17T15:00:29.785Z
 category: life
 summary: There are some instances where you should pay attention to your red
   flags. Certain things may indicate that you’re dealing with a manipulative or
@@ -11,6 +11,14 @@ summary: There are some instances where you should pay attention to your red
   what you need from them, such as an agreement on what type of relationship you
   two are in, the expectations you have of the relationship, and anything else
   that may be concerning you.
+intro: >-
+  When you first start dating someone, trust probably isn’t the biggest
+  issue on your mind. You’re getting to know this person and trying to figure
+  out if there might be a potential future with them or not. However, once you
+  get into a relationship with this person and things get more serious, trust
+  can very quickly become an issue.
+
+  Even if you don’t trust someone right away, that doesn’t mean the trust issues don’t come up later on. It may take time for them to make you feel uneasy or distrustful of your partner. But it also could be something that crops up almost immediately – especially if you meet them in a place like a nightclub, bar or other place where people tend to hookup without much thought as to who they’re hooking up with! This article will offer some tips on how to deal with these trust issues in relationships and help resolve any problems from arising in the first place.
 ---
 
 ## Don’t Ignore Red Flags

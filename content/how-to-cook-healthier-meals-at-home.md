@@ -1,7 +1,7 @@
 ---
 title: How to cook healthier meals at home
 createdAt: 2022-07-07T06:05:42.060Z
-updatedAt: 2022-07-16T16:21:49.752Z
+updatedAt: 2022-07-17T15:00:31.781Z
 category: health
 summary: Plan your healthy meals for the week, and use this to guide your menu
   planning. Planning your meals also makes it easier to avoid unhealthy
@@ -10,6 +10,12 @@ summary: Plan your healthy meals for the week, and use this to guide your menu
   to your diet, such as avocados, nuts, seeds, and olive oil, to boost your
   health. Try to incorporate leafy greens, bell peppers, broccoli, carrots,
   tomatoes, and more vegetables into your diet.
+intro: >-
+  Getting a healthy meal at home can be challenging, especially with busy
+  schedules and tight budgets. But you don’t have to sacrifice your health to
+  save money or reduce time spent in the kitchen. 
+
+  A nutritious diet doesn’t have to be expensive or time-consuming. With some planning and preparation, you can make home-cooked meals that are both cheap and healthy. Healthy eating is more than just counting calories; it’s about focusing on foods that are unprocessed and rich in vitamins, minerals, and other nutrients. Eating well helps keep you lean, boost your immune system, manage your weight, and prevent chronic diseases like heart disease and type 2 diabetes. Focusing on the right foods will help get you there. Let’s take a look at some tips on how to cook healthier meals at home!
 ---
 
 ## Plan your meals

@@ -1,7 +1,7 @@
 ---
 title: The best way to get your kids to eat their vegetables
 createdAt: 2022-07-07T06:05:42.173Z
-updatedAt: 2022-07-16T16:22:38.248Z
+updatedAt: 2022-07-17T15:00:31.820Z
 category: health
 summary: Kids associate vegetables with being told to do something and not
   having the freedom to choose when or how much to eat them. This causes them to
@@ -11,6 +11,14 @@ summary: Kids associate vegetables with being told to do something and not
   vitamins and many other nutrients that your body needs. Add fruit to the top
   of your green smoothie, it will bleed into the green colour. If you want your
   smoothie to look green, add the greens to the bottom of the blender.
+intro: >-
+  Putting healthy food on the table every night can be a challenge for many
+  parents. It’s hard to get kids excited about eating their vegetables, but
+  luckily there are plenty of tricks that make it easier.
+
+  Addressing their senses is a good place to start. The sense of smell and taste are the primary drivers of our desire to eat one thing or another. Kids love things that look, smell, feel and taste good. The trick is finding ways to incorporate these elements into nutritious meals so they want to eat them.
+
+  One way parents have been able to do this is by using smoothies as an opportunity to add hidden veggies into their kid’s diets without them knowing it. And, since you’ll be using green smoothies as the base for your drink—not just any old sweet smoothie—it won’t add any sugar or calories that you don’t want in there.
 ---
 
 ## Why Kids Don’t Like Veggies

@@ -16,6 +16,12 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
       remarkRehypeOptions: {},
     },
   });
+  const mdxIntro = await serialize(data.intro, {
+    parseFrontmatter: false,
+    mdxOptions: {
+      remarkRehypeOptions: {},
+    },
+  });
 
   return {
     content: mdxContent,
@@ -25,5 +31,6 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
     category: data.category,
     summary: data.summary,
     slug: filePath.replace(/\.mdx?$/, ""),
+    intro: mdxIntro,
   };
 };

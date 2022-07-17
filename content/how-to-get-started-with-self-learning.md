@@ -1,7 +1,7 @@
 ---
 title: How to Get Started With Self-Learning
 createdAt: 2022-07-09T06:33:34.699Z
-updatedAt: 2022-07-17T07:27:43.126Z
+updatedAt: 2022-07-17T15:00:32.161Z
 category: productivity
 summary: The following resources have been shown to be effective in helping
   adults learn and grow by self-directing their own education. The first step to
@@ -10,6 +10,18 @@ summary: The following resources have been shown to be effective in helping
   sure to choose materials and activities that are appropriate for your age and
   skill level. Video games are more than just a fun hobby; they can also be an
   effective way to learn new skills and gain knowledge.
+intro: "Learners of today are different from learners of yesterday. Today's
+  learners want to be active and take charge of their own learning experience,
+  rather than being passive recipients of information. They prefer to learn at a
+  time and place of their choosing, rather than fixed class schedules. Instead
+  of focusing on memorizing facts and figures, they desire hands-on experiences
+  and interactive solutions. In other words, modern learners want self-directed
+  learning that is current and relevant—and thankfully there are many ways to
+  achieve these goals.  Self-learning is an effective way for adults to acquire
+  new knowledge and skills, usually in a field they already have interest in or
+  a career they plan to enter. Many adults shy away from self-learning because
+  they think it’te scary or difficult; it actually requires much less time than
+  you might expect! Here’s how to get started with self-learning right now:"
 ---
 
 ## A Short Guide to Self-Learning

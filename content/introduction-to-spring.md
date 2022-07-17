@@ -1,7 +1,7 @@
 ---
 title: Introduction to Spring
 createdAt: 2022-07-09T06:26:03.524Z
-updatedAt: 2022-07-17T07:14:14.087Z
+updatedAt: 2022-07-17T15:00:30.585Z
 category: coding
 summary: Spring is an open-source application framework that supports
   integration of additional software modules and components with applications.
@@ -11,6 +11,17 @@ summary: Spring is an open-source application framework that supports
   Spring is extensible and modular, which means you can easily add new
   functionality to your applications. You can use Spring to create applications
   in many different languages, including Java, Groovy, Scala, and more.
+intro: Looking to upgrade your software development skills and learn a new
+  framework? If so, you’re in luck. In recent years, there has been an explosion
+  of new software development frameworks that have made coding much easier for
+  developers. These frameworks are known as “no-code” or “low-code” software
+  solutions because they require significantly less code to implement than older
+  programming methods. One such framework is Spring, which is currently one of
+  the most widely used lightweight enterprise solution platforms available
+  today. Even though it was first released almost 15 years ago, Spring continues
+  to expand its functionality with each new version release. In this blog post,
+  we will cover introduction to Spring and help you understand what it can do
+  for you as a developer.
 ---
 
 ## What is Spring?

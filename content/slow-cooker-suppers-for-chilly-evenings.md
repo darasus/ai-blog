@@ -1,7 +1,7 @@
 ---
 title: Slow cooker suppers for chilly evenings
 createdAt: 2022-07-09T06:43:15.699Z
-updatedAt: 2022-07-17T06:21:54.345Z
+updatedAt: 2022-07-17T15:00:29.528Z
 category: cooking
 summary: The 10 best slow cooker suppers are sure to keep your family warm and
   cosy on cold winter nights. There’s something for everyone – from spicy chili
@@ -10,6 +10,13 @@ summary: The 10 best slow cooker suppers are sure to keep your family warm and
   hours. These recipes are perfect for the slow cooker because they can sit in
   liquid for hours without becoming mushy or breaking down. They include a
   chicken and rice dinner and a beef stew with soft potatoes.
+intro: >-
+  When the temperature drops and daylight hours shorten, it can feel like
+  your day is over before it began. For many of us, that means spending more
+  time at home and less time socializing or going out. Luckily, you can make
+  your evenings cozier by turning to your trusty slow cooker. 
+
+  With a slow cooker, you can come home to a warm meal after a long day at work or school. The appliance is perfect for preparing supper when you don’t want to spend a lot of time cooking in the evening. Preparing these slow-cooked suppers takes only a few minutes during the afternoon or early in the morning – then you can leave them alone while they cook!
 ---
 
 ## What should you put in your slow cooker?

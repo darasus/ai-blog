@@ -1,7 +1,7 @@
 ---
 title: JavaFX and multimedia
 createdAt: 2022-07-09T06:25:01.106Z
-updatedAt: 2022-07-17T06:56:38.108Z
+updatedAt: 2022-07-17T15:00:30.580Z
 category: coding
 summary: "The Internet of Things (IoT) is a network of devices that are
   connected to each other via the internet. These devices may be sensors,
@@ -10,6 +10,19 @@ summary: "The Internet of Things (IoT) is a network of devices that are
   IoT is expected to be worth $3.9 trillion by the year 2020. With the advent of
   Java 8, there has been renewed interest in Java from the developer community.
   Java has been used to develop embedded systems since its early days."
+intro: New technologies and breakthroughs in semiconductor fabrication have
+  enabled the creation of advanced mobile devices. These mobile devices are not
+  just used for voice calls or text messaging. They can now be used to capture
+  images, record videos, and listen to music. Java has always been at the
+  forefront of new technology adoption, thanks to its portability, consistency
+  across various implementations, and large codebase. If you think that Java is
+  just good for business applications and websites, then you need to think
+  again. With the advent of Java 8 and Android apps based on this version of the
+  language, there is a renewed focus on mobile development using Java. This has
+  led to several innovations in the area of embedded devices with IoT-enabled
+  edge computing and Machine Learning (ML) based artificial intelligence
+  systems. The latest technology being adopted by both enterprises and
+  developers is the Internet of Things (IoT).
 ---
 
 ## What is the Internet of Things?

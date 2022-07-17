@@ -1,7 +1,7 @@
 ---
 title: 5 Simple Tips for Eating healthier Every Day
 createdAt: 2022-07-09T06:37:57.664Z
-updatedAt: 2022-07-17T06:04:34.576Z
+updatedAt: 2022-07-17T15:00:29.350Z
 category: cooking
 summary: Eating healthy doesn’t have to be a challenge, but it’s not something
   that you can just do a few weeks to achieve. Eating healthy is a lifestyle
@@ -10,6 +10,15 @@ summary: Eating healthy doesn’t have to be a challenge, but it’s not somethi
   Avoiding situations where there will be unhealthy temptations will also make
   sticking to your eating goals easier. Commit to doing something active every
   day - even if it's just a few push-ups.
+intro: >-
+  You see it everywhere these days: people talking about eating healthier,
+  cleaner and more nutritious foods. Even famous athletes are getting in on the
+  action. Superstars like LeBron James and Tom Brady are known for their high
+  performance on game day as much as their off-season diet. The only problem
+  with all of these healthy eating fads is that they can feel like a big
+  challenge to follow every single day. But what if you could make it easier? 
+
+  It’t not crazy to think you can eat healthier every day. After all, you aren’t permanently locked into an unhealthy lifestyle. Your habits change over time, which means your diet can too! You just need a plan to get there, which is why we’ve outlined five simple tips that will help you eat healthier every day without feeling like a chore.
 ---
 
 ## Plan Your Meals

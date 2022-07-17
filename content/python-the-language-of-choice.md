@@ -1,7 +1,7 @@
 ---
 title: Python - The language of choice
 createdAt: 2022-07-09T06:19:23.300Z
-updatedAt: 2022-07-17T06:52:12.474Z
+updatedAt: 2022-07-17T15:00:30.456Z
 category: coding
 summary: Python is a high-level programming language that was created in 1991.
   It is a general purpose language, which means it can be used to create any
@@ -10,6 +10,14 @@ summary: Python is a high-level programming language that was created in 1991.
   programming language are that it is readable, it is flexible, and it is
   general purpose. There are a number of reasons why Python has become so
   popular among programmers and organizations of all shapes and sizes.
+intro: >-
+  In the software world, it is not often that a programming language
+  becomes so popular that it is considered the standard. That’s exactly what has
+  happened with Python though, which is why in this article you will learn all
+  you need to know about this programming language and why it’s the best choice
+  for your next project. 
+
+  There are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there’s every indication that Python will continue to grow in popularity for years to come.
 ---
 
 ## What is Python?

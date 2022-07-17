@@ -1,7 +1,7 @@
 ---
 title: The End of the Cold War
 createdAt: 2022-07-07T06:16:06.279Z
-updatedAt: 2022-07-17T05:45:36.558Z
+updatedAt: 2022-07-17T15:00:29.659Z
 category: politics
 summary: Mikhail Gorbachev and Ronald Reagan signed a treaty that dramatically
   reduced the number of nuclear weapons on both sides. The two leaders also
@@ -11,6 +11,14 @@ summary: Mikhail Gorbachev and Ronald Reagan signed a treaty that dramatically
   States. The U.S. had begun a military buildup that had put significant
   pressure on the. Soviet Union. The growing economic power of Japan and West
   Germany, as well as the energy revolution.
+intro: >-
+  In 1985, the Cold War between the Soviet Union and the United States was
+  at its peak. Both powers were still locked in a nuclear arms race that had
+  begun after World War II and continued for decades. There was no obvious way
+  out of this dangerous rivalry – until that October, when Mikhail Gorbachev
+  became general secretary of the Communist Party of the Soviet Union (CPSU).
+
+  As a reformer rather than an ideologue like his predecessors, Gorbachev understood that continuing on this path could lead to catastrophe for his country. In December 1985, he traveled to New York City for a summit with U.S. President Ronald Reagan. At their first meeting, which took place in a small purple room at the UN headquarters, they began what would become a fundamental shift in international relations.
 ---
 
 ## What Happened at the Summit?

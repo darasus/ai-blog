@@ -1,7 +1,7 @@
 ---
 title: How does mediation work?
 createdAt: 2022-07-09T06:15:03.862Z
-updatedAt: 2022-07-16T15:50:22.588Z
+updatedAt: 2022-07-17T15:00:30.132Z
 category: life
 summary: Mediation involves a discussion of the issues in dispute, assists with
   brainstorming possible solutions, and helps the parties reach a settlement.
@@ -13,6 +13,18 @@ summary: Mediation involves a discussion of the issues in dispute, assists with
   techniques to facilitate communication between the parties. Mediation is
   collaborative, flexible, and can be modified to accommodate the parties’
   schedules.
+intro: >-
+  Mediation is a process that brings together two people, or parties, who
+  are in conflict with one another to resolve their dispute. It’s an alternative
+  to going to court which involves winners and losers, winners and losers again.
+  Instead of this, mediation helps both parties achieve a resolution that works
+  for both of them. In mediation you have the opportunity to express your needs
+  and goals while also listening carefully to the other party and considering
+  their needs and goals as well. 
+
+  Mediation is confidential so that parties can speak openly about their concerns, fears, and desires without fear of retribution. The mediator does not take sides but rather assists the parties in exploring possible solutions to resolve the conflict in a way that works for both of them.
+
+  An added benefit of mediation is that it allows people on opposing sides of a dispute see each other as human beings with needs, wants and concerns just like they have. They learn cooperation instead of confrontation…
 ---
 
 ## What Happens in Mediation?

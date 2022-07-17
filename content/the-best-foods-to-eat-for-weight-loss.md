@@ -1,7 +1,7 @@
 ---
 title: The Best Foods to Eat for Weight Loss
 createdAt: 2022-07-09T06:37:29.714Z
-updatedAt: 2022-07-17T06:04:35.490Z
+updatedAt: 2022-07-17T15:00:29.348Z
 category: cooking
 summary: The best foods for weight loss are natural unprocessed foods. Fat,
   protein and carbohydrates are the three main macronutrients found in food. Fat
@@ -11,6 +11,16 @@ summary: The best foods for weight loss are natural unprocessed foods. Fat,
   have approximately as many calories as other sugary foods. Whole grains are
   rich in B vitamins, iron, magnesium, manganese, selenium and zinc, which are
   essential for good health.
+intro: >-
+  You want to lose weight. You want to eat healthier, but all those diet
+  articles and fad diets seem like a lot of confusing information. Which diet is
+  best? What kind of foods should you eat for weight loss? Do carbohydrates make
+  you fat? Will cutting carbs help you lose weight faster? There seems to be no
+  shortage of information about what not to eat if you want to lose weight fast.
+  But what if we told you that almost everything you think you know about food
+  is wrong? 
+
+  Crazy, right? Well, it might come as a surprise to learn that the best foods for weight loss are actually unprocessed natural foods—not magical chemicals and supplements. Eating more fruits, vegetables, whole grains, lean proteins and healthy fats will help you lose weight faster than any fad diet or crash diet could ever dream of accomplishing. No matter which diet you choose, these are the best foods for weight loss.
 ---
 
 ## What You Should Know About Calories Before Jumping to Any Conclusions

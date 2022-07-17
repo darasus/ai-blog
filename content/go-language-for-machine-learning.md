@@ -1,7 +1,7 @@
 ---
 title: Go language for machine learning
 createdAt: 2022-07-09T06:29:01.084Z
-updatedAt: 2022-07-17T07:16:39.138Z
+updatedAt: 2022-07-17T15:00:30.674Z
 category: coding
 summary: Data cleaning and preprocessing, text analysis, regression and
   forecasting, machine learning and machine learning are all Go alternatives. Go
@@ -11,6 +11,14 @@ summary: Data cleaning and preprocessing, text analysis, regression and
   algorithms, such as machine learning for computer vision, and the strengths of
   the language Go is best suited for these scenarios. We also have explored why
   Go is the perfect language for each scenario, and why we chose it.
+intro: >-
+  The world of data science is populated with seemingly endless streams of
+  new tools and software solutions. Whether you’re a beginner or an advanced
+  data scientist, this abundance of options can feel somewhat overwhelming. 
+
+  Luckily, some of these tools have become so popular that you won’t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities. 
+
+  To help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you’re working on a project involving one or more of the following scenarios:
 ---
 
 ## Data Cleaning and Preprocessing

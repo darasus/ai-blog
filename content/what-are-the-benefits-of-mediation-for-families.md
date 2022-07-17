@@ -1,7 +1,7 @@
 ---
 title: What are the benefits of mediation for families?
 createdAt: 2022-07-09T06:16:38.481Z
-updatedAt: 2022-07-16T15:50:06.381Z
+updatedAt: 2022-07-17T15:00:30.155Z
 category: life
 summary: Mediation offers an alternative to a court battle and often results in
   an agreement that is more fair and equitable than what might be ordered by a
@@ -11,6 +11,15 @@ summary: Mediation offers an alternative to a court battle and often results in
   depositions, court reporter fees, or other litigation expenses. It's important
   for divorcing couples to realize that a settlement on these issues is not a
   punishment for one spouse or an award to the other.
+intro: >-
+  Mediation is an alternative dispute resolution process. It’s a way of
+  resolving disputes that is less adversarial than litigation and usually
+  cheaper, faster, and more private than other methods. Mediation is also
+  collaborative as well as neutral. The mediator acts as a neutral party who
+  helps the parties attempt to resolve their dispute in a fair and equitable
+  manner.
+
+  In mediation, both parties together with their respective attorneys choose from various options to settle the case outside of court. The goal of mediation is to find solutions that are agreeable to both parties. It’s about finding win-win solutions instead of win-lose outcomes. It’s about exploring solutions that may not have been considered had the parties not been under the guidance of a mediator who has no stake in either outcome of the dispute other than seeing it resolved amicably and fairly so that everyone walks away feeling like they have gained something from it rather than having given up something they would rather have kept.
 ---
 
 ## What Are The Implications Of Filing For Divorce?

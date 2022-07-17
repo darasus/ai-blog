@@ -1,7 +1,7 @@
 ---
 title: The Various Benefits of Self-Learning
 createdAt: 2022-07-09T06:36:40.700Z
-updatedAt: 2022-07-17T07:28:53.060Z
+updatedAt: 2022-07-17T15:00:32.235Z
 category: productivity
 summary: The skills you need for your job might be very different from those
   used in a classroom setting. Self-learning is a skill you can use before,
@@ -11,6 +11,14 @@ summary: The skills you need for your job might be very different from those
   collaborate with others, and solve problems with confidence with confidence.
   The result is greater confidence in your abilities and an increased ability to
   tackle challenges.
+intro: >-
+  When you think of a career in the sciences, perhaps the image that comes
+  to mind is one of hours spent in a lab, peering through a microscope or
+  testing tubes filled with strange liquids. However, this is only one small
+  part of what it means to work as a scientist — and even that part isn’t
+  exclusive to professionals. 
+
+  Whether you want to work in research, education, industry or another science-related field, self-learning can help you reach your goals. It gives you flexibility in where and when you study, so it fits with your schedule and other commitments. You also have more control over what you learn and how fast you progress. The result is greater confidence in your abilities and an increased ability to tackle challenges. Read on for details about why self-learning might be right for you and some examples of how it could be useful if you work as a scientist.
 ---
 
 ## You Can Learn the Skills You Need for Your Job

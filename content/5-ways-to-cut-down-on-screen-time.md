@@ -1,7 +1,7 @@
 ---
 title: 5 ways to cut down on screen time
 createdAt: 2022-07-07T06:05:40.484Z
-updatedAt: 2022-07-16T15:02:08.262Z
+updatedAt: 2022-07-17T15:00:29.770Z
 category: life
 summary: Screen time can provide a variety of benefits to your child including
   increased cognitive and language skills, increased problem-solving skills,
@@ -11,6 +11,15 @@ summary: Screen time can provide a variety of benefits to your child including
   academic performance and brain development. There is some research that
   suggests excessive screen time may contribute to attention deficit
   hyperactivity disorder (ADHD) and dyslexia in children.
+intro: >-
+  The digital age has brought with it a whole host of new issues that
+  parents need to navigate. From concerns over online safety to the amount of
+  time kids spend looking at screens, digital parenting presents its own unique
+  set of challenges. 
+
+  As technology continues to advance, so do the ways in which our kids can interact with it. From tablets and smart TVs to smartphones and video games, it seems as though there are more screens than ever before. This is especially true for younger children who have grown up with these devices as a normal part of their everyday life. 
+
+  The pros and cons of screen time for kids can be debated endlessly but at the end of the day, your child will likely spend a lot of their time consuming some form of media in one way or another. As their parent, it’s important that you understand the benefits and risks associated with screen time so that you can make informed decisions about how much exposure they receive on a regular basis.
 ---
 
 ## What Are The Benefits Of Screen Time?

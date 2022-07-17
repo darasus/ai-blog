@@ -1,7 +1,7 @@
 ---
 title: How to start living a more eco-friendly lifestyle
 createdAt: 2022-07-07T06:05:40.322Z
-updatedAt: 2022-07-16T14:56:33.308Z
+updatedAt: 2022-07-17T15:00:29.684Z
 category: life
 summary: Climate Change is an increase in the world’s average temperature that
   is expected to have significant effects on ecosystems and human society. The
@@ -11,6 +11,9 @@ summary: Climate Change is an increase in the world’s average temperature that
   positive effect on climate change. We can make a difference in the fight
   against climate change by changing our eating and drinking habits, driving
   less and changing the light bulbs in our homes.
+intro: Did you know that a single person produces about 1.6 tons of CO2 per
+  year? Did you also know that producing one cotton t-shirt uses almost 19
+  gallons of water and produces 3.5lbs of CO2?
 ---
 
 ## What is Climate Change?

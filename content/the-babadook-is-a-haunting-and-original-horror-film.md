@@ -1,7 +1,7 @@
 ---
 title: '"The Babadook" is a haunting and original horror film'
 createdAt: 2022-07-08T05:57:58.344Z
-updatedAt: 2022-07-17T07:26:00.146Z
+updatedAt: 2022-07-17T15:00:31.960Z
 category: culture
 summary: The Babadook is an unpredictable monster that can trap people in their
   own minds and drive them to commit unspeakable acts without any clear reason
@@ -9,6 +9,19 @@ summary: The Babadook is an unpredictable monster that can trap people in their
   madness, but it doesn’t have a clear purpose or motivation behind its actions.
   The key to writing a successful horror story is to tap into these deep-seated
   fears and emotions that readers or movie-goers may not even be aware of.
+intro: >-
+  The horror genre has been saturated with the same old tropes for decades.
+  Monsters, ghosts and psychotic killers are no longer frightening, so viewers
+  instead get the same story with a different setting, characters and victim
+  every time. The Babadook is a fantastic example of how to shake things up
+  again. Released in 2014 and limited to only a few theaters in its native
+  Australia, this wonderfully creepy film went under the radar until it became
+  an Internet sensation years later as one of the most original horror movies in
+  recent memory.
+
+  The monster movie sub-genre is especially thin on fresh ideas these days. From vampires to werewolves to Frankenstein’s monster and his re-imagined counterpart, Victor Frankenstein, there isn’t much left that hasn’t already been done multiple times before. In addition to those staples we’ve also seen zombie apocalypse stories (that often include some variation of vampirism), ghostly apparitions, hillbillies with cannibalistic tendencies, possessed dolls, insane asylum inmates and even extraterrestrial parasites that take over human hosts as their source of food on earth.
+
+  With all those elements combined into one production you have something like “Them” from 2013 or any number of other films where monsters are revealed to be aliens or humans who were exposed to some sort of virus that turned them into beasts. But then again… The Babadook doesn’t exactly follow the same formulaic structure either.
 ---
 
 ## A Babadook by any other name would be just as frightening

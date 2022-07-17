@@ -1,7 +1,7 @@
 ---
 title: Python - The language for system administration
 createdAt: 2022-07-09T06:20:11.781Z
-updatedAt: 2022-07-17T06:53:11.473Z
+updatedAt: 2022-07-17T15:00:30.474Z
 category: coding
 summary: Python’s strong core library and massive third-party library support
   makes it an extremely powerful language. Shell scripts are another great
@@ -11,6 +11,19 @@ summary: Python’s strong core library and massive third-party library support
   can help you to install software on your systems. You should always think
   about how your software is organized and installed to make sure that it is
   easy to remove from your system.
+intro: >-
+  Today’s systems administrators have many tools at their disposal. When it
+  comes to system administration and monitoring, the list of available solutions
+  is nearly endless. There are numerous cloud-based offerings that make light
+  work of monitoring resource usage and uptime. For performance monitoring and
+  analysis, there are platform-specific solutions, such as New Relic or App
+  Dynamics for applications written in Python or other popular languages. There
+  are also general solutions like Statsd and Prometheus for collecting
+  performance metrics from any program on your network. The list goes on—you can
+  find anything from standard logging utilities to software-defined networking
+  (SDN) controllers if you know where to look. 
+
+  There are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we’ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).
 ---
 
 ## Python for System Administration

@@ -1,7 +1,7 @@
 ---
 title: 10 easy ways to cut sugar from your diet
 createdAt: 2022-07-07T06:05:41.203Z
-updatedAt: 2022-07-16T16:12:44.772Z
+updatedAt: 2022-07-17T15:00:31.587Z
 category: health
 summary: "If you’re constantly craving sugar, try adding some more fiber to your
   diet. Eat more fruits, vegetables and whole grains, and drink lots of water.
@@ -10,6 +10,12 @@ summary: "If you’re constantly craving sugar, try adding some more fiber to yo
   dextrose, glucose, sucrose. Don’t go Hungry: If an item is adulterated, it has
   been contaminated by something foreign a chemical. If you like sweet coffee,
   consider mixing in some artificial sweeteners or sugar substitutes."
+intro: >-
+  In recent years, sugar has received a lot of negative attention. From the
+  link between sugar and obesity to the prevalence of diabetes, research on
+  sugar and its potential health effects continues to grow.
+
+  There are many different types of sugars out there, but common table sugar or sucrose is the one you need to cut back on. Eating too much sugar can lead to weight gain, high blood pressure and other health problems. If you’ve read any articles about how bad sugar is for you, then you probably already know this. However, cutting back on sugar isn’t always easy. Sugar is in almost everything! Luckily, we’ve compiled a list of 10 super helpful tips that will teach you how to cut back on your intake of this not-so-nice white substance…
 ---
 
 ## Change what’s in your coffee

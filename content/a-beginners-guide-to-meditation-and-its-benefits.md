@@ -1,7 +1,7 @@
 ---
 title: A beginner's guide to meditation and its benefits
 createdAt: 2022-07-07T06:05:41.270Z
-updatedAt: 2022-07-16T16:13:16.003Z
+updatedAt: 2022-07-17T15:00:31.611Z
 category: health
 summary: Meditation is the act of sitting down with the goal of focusing on one
   thing only – your breath. The goal is to silence the mind and get it off the
@@ -10,6 +10,17 @@ summary: Meditation is the act of sitting down with the goal of focusing on one
   you peace and calmness inside. There’s no right or wrong way of doing it – you
   can sit on the floor, in a chair or even lie down if that’�s more comfortable
   for you.
+intro: The idea of sitting still and focusing on your breathing might sound a
+  bit too challenging at first, but meditation is actually much simpler than you
+  might think. If you’ve been struggling to find balance in your life and keep
+  your stress levels under control, meditation is just what you need. As we go
+  through this hectic world, our minds are constantly racing from one thought to
+  another without even noticing. Most of us have a hard time dealing with the
+  pressures of everyday life, which is why meditation can be such a great tool
+  for clearing our mind and finding peace once again. It also helps reduce
+  stress, lift our mood, increase self-awareness and make us more compassionate
+  human beings. So if you’re ready to adopt the practice of meditation in your
+  life on a regular basis, read on – we’ve got all the details you need!
 ---
 
 ## What is meditation?

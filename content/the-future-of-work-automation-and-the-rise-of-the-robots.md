@@ -1,7 +1,7 @@
 ---
 title: "The future of work: automation and the rise of the robots"
 createdAt: 2022-07-07T06:05:40.756Z
-updatedAt: 2022-07-17T07:24:33.398Z
+updatedAt: 2022-07-17T15:00:31.441Z
 category: technology
 summary: Automation is the use of machines or computer-controlled equipment to
   perform operations normally done by humans. Automation can be used in any
@@ -11,6 +11,19 @@ summary: Automation is the use of machines or computer-controlled equipment to
   factories solves the problem of finding specialized labor that is needed to
   operate highly technical machinery. Robots can also be programmed to do tasks
   with greater precision and consistency than humans.
+intro: "Digital transformation is a sweeping trend that is reshaping businesses.
+  The role of technology has shifted from being a support system to something
+  that drives competitiveness and customer experience. In the new digital
+  economy, businesses must focus on how technology can transform their current
+  services and operations to meet the needs of their customers. The combination
+  of artificial intelligence (AI) and robots are transforming the way we work —
+  especially in manufacturing and logistics operations. Automation and robotics
+  have made it possible for manufacturers to produce more goods with fewer
+  workers, while increasing production efficiency and accuracy at the same time.
+  These technologies are also reducing labor costs, increasing output, and
+  easing recruitment challenges that many manufacturers face in developing
+  countries where youth unemployment remains high. But how will this impact work
+  in factories change? Let’s explore the future of work: automation and robots"
 ---
 
 ## What is automation?

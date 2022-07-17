@@ -1,7 +1,7 @@
 ---
 title: '"The Big Short" is a searing indictment of the financial industry'
 createdAt: 2022-07-08T05:56:53.292Z
-updatedAt: 2022-07-17T07:25:49.434Z
+updatedAt: 2022-07-17T15:00:31.882Z
 category: culture
 summary: The Big Short is a dramatization, not a documentary; what’s depicted in
   the movie didn’t happen exactly as it appears on screen. The filmmakers wanted
@@ -10,6 +10,16 @@ summary: The Big Short is a dramatization, not a documentary; what’s depicted 
   made again. Subprime mortgages were at the center of everything that happened
   in the 2008 collapse. The film is a searing indictment of the financial
   services industry.
+intro: >-
+  The film version of The Big Short hits theaters this Friday, and it’s not
+  subtle. Its tagline is “There’s a sucker born every minute. But they don’t
+  grow up thinking they can be con men. They get taught to be one.” And its
+  trailer goes on to say, “The housing bubble was about to burst… And a group of
+  misfits saw it coming. Now these unlikely heroes must band together and bring
+  down the greedy villains who crashed the world economy… Before anyone else
+  gets hurt.”
+
+  Unfortunately, that last part is not hyperbole. The actions of unscrupulous financial engineers — colloquially known as “bankers” — led directly to the Great Recession in 2008, which cost millions their jobs and homes, while triggering widespread deflation and anemic growth throughout much of the developed world for years thereafter.
 ---
 
 ## The Big Short is a searing indictment of the financial industry

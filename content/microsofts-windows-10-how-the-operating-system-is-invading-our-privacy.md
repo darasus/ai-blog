@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Windows 10: How the operating system is invading our privacy"
 createdAt: 2022-07-08T06:04:56.821Z
-updatedAt: 2022-07-17T07:24:58.817Z
+updatedAt: 2022-07-17T15:00:31.446Z
 category: technology
 summary: Some users have complained that it’s not possible to opt out of all of
   the. Microsoft has implemented a.. the. company to take any action necessary
@@ -11,6 +11,15 @@ summary: Some users have complained that it’s not possible to opt out of all o
   updates are not being tested thoroughly enough before release. Some users are
   not aware of this management console, and others don’t know how to navigate to
   it.
+intro: >-
+  Microsoft’s new Windows 10 operating system is the company’s attempt to
+  reclaim market share lost to Apple and Google. It won’t succeed. Not because
+  of technical superiority of other operating systems, but because Microsoft has
+  betrayed user trust. 
+
+  The latest version of Windows betrays user privacy by default, as well as through aggressive telemetry data collection, browser tracking, and ad injection. Users who upgrade to Windows 10 can no longer trust their computer or the software that runs on it. 
+
+  When you use Windows 10, Microsoft collects personal information about you, your device usage habits, and apps that you install; all of which is transmitted back to the company in an unencrypted format. These practices are unacceptable and have triggered class-action lawsuits and government inquiries around the world.
 ---
 
 ## Windows 10: A loss of user trust

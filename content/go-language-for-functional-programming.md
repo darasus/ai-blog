@@ -1,7 +1,7 @@
 ---
 title: Go language for functional programming
 createdAt: 2022-07-09T06:31:36.434Z
-updatedAt: 2022-07-17T07:18:05.854Z
+updatedAt: 2022-07-17T15:00:30.778Z
 category: coding
 summary: Haskell is a pure functional programming language developed in the
   1970's. Scale is an emerging language that aims to make it easy to write
@@ -13,6 +13,17 @@ summary: Haskell is a pure functional programming language developed in the
   weaknesses. To choose the right one for your project, you should consider your
   preferences for syntax, size of community support, availability of libraries
   and type of projects you are working on.
+intro: >-
+  Functional programming is a style of programming that focuses on the
+  usage of functions to model and solve problems. It is a paradigm that allows
+  you to think about your code in terms of input, output, and operations on
+  those inputs and outputs. The advantages of using functional programming are
+  higher code readability, ease of maintenance and testing, and shorter
+  implementation time for complex algorithms.
+
+  A variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others. 
+
+  In this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:
 ---
 
 ## Haskell

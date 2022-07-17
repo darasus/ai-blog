@@ -1,7 +1,7 @@
 ---
 title: "Google's monopoly: How the tech giant controls our lives"
 createdAt: 2022-07-08T06:04:18.509Z
-updatedAt: 2022-07-17T07:27:14.774Z
+updatedAt: 2022-07-17T15:00:31.442Z
 category: technology
 summary: Google’s business is based on collecting as much information about its
   users as possible. The more information Google has about us, the better it can
@@ -11,6 +11,17 @@ summary: Google’s business is based on collecting as much information about it
   that you're more likely to click on ads for expensive products than you would
   be when you're feeling happy and upbeat. This is because Google Shopping shows
   ads based on your recent purchases.
+intro: >-
+  Google is becoming more and more like a digital version of The Truman
+  Show. In the movie, Truman (played by Jim Carrey) is the unwitting subject of
+  a hidden camera show that takes place in the fictional town of Seahaven, where
+  he lives with his perfect-in-every-way mother and her husband, who happens to
+  be his best friend. The show’s entire purpose is to capture every moment of
+  his life for the entertainment of an audience watching from outside the town. 
+
+  In real life, Google has become something similar: It’s a company whose purpose is to capture every moment of our lives for the entertainment of an audience watching from outside our world. 
+
+  You might not know this if you live, work, and play exclusively online — as many people now do — but Google realizes more about you than any other company on earth.
 ---
 
 ## Why does Google know so much about us?

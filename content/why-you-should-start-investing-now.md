@@ -1,7 +1,7 @@
 ---
 title: Why you should start investing now
 createdAt: 2022-07-07T16:51:13.945Z
-updatedAt: 2022-07-17T05:55:30.565Z
+updatedAt: 2022-07-17T15:00:31.063Z
 category: investing
 summary: The sooner you start investing, the more time your money has to
   compound and grow. Young people who invest early have significantly more time
@@ -10,6 +10,14 @@ summary: The sooner you start investing, the more time your money has to
   risk associated with any investment decision. You have an unlimited number of
   investment options from which to choose, including stocks, bonds, real estate,
   commodities, mutual funds and exchange-traded funds (ETFs)
+intro: >-
+  As a millennial, you may feel like your future is bleak because of
+  student loan debt, limited job prospects and stagnant wages. But the reality
+  is that your financial future can be bright if you take action now. Investing
+  as early as possible is perhaps the most effective way to grow your wealth
+  over time. 
+
+  Investing even a small amount of money now can have a big impact on your long-term financial success. Time is your greatest ally when it comes to growing your money — the earlier you begin investing, the greater potential return you will see later in life. At Intrinzik we believe that everyone should learn about personal finance and invest responsibly for their future. With this article we want to give you some insights about why you should start investing now and what are the best ways to do it:
 ---
 
 ## Why you should start investing now

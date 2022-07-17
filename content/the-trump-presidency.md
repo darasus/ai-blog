@@ -1,7 +1,7 @@
 ---
 title: The Trump Presidency
 createdAt: 2022-07-07T06:16:39.777Z
-updatedAt: 2022-07-17T05:49:08.988Z
+updatedAt: 2022-07-17T15:00:29.662Z
 category: politics
 summary: Donald Trump's presidency has taken the Hollywood-ization of politics
   to a new level. Celebrities running for office is a new phenomenon that is
@@ -10,6 +10,15 @@ summary: Donald Trump's presidency has taken the Hollywood-ization of politics
   the political fray. Having a president who is also a celebrity is nothing new,
   having so many celebrities run for office as a result of his presidency is.
   The Washington Post has even created a database tracking celebrity candidates.
+intro: >-
+  Donald Trump was not the first celebrity to run for president, nor will
+  he be the last. With fame and wealth as prerequisites, it’s no surprise that
+  famous faces have thrown their hat into the ring. What is surprising is how
+  many of them ended up winning. 
+
+  Strictly speaking, celebrities are not a new phenomenon in American politics. From actor-turned-politician Ronald Reagan to singer-turned-first lady Eleanor Roosevelt, famous faces have been making waves in Washington for over a century.
+
+  However, thanks to an ever-growing digital age and social media influencers such as Paris Hilton or Kim Kardashian, pop culture figures are now coming out as political activists with a voice and stake in current affairs. Once relegated to red carpet interviews or gossip magazines, these celebrities are now using their platforms for public advocacy.
 ---
 
 ## Trump’s Celebrity Status

@@ -1,7 +1,7 @@
 ---
 title: Python - The language for web development
 createdAt: 2022-07-09T06:20:03.380Z
-updatedAt: 2022-07-17T06:53:00.166Z
+updatedAt: 2022-07-17T15:00:30.473Z
 category: coding
 summary: Python is a general-purpose programming language that can be used for
   almost any computing task. It is open source, scalable and easy to learn.
@@ -12,6 +12,14 @@ summary: Python is a general-purpose programming language that can be used for
   wide range of ease implementation and accessibility. It has some issues with
   performance when working with large datasets, such as weather forecasts or
   stock market data.
+intro: >-
+  What is the best programming language for developing websites? If you’re
+  looking to develop dynamic websites and integrate them with databases, Python
+  might be the right choice for you. 
+
+  If you are a programmer or planning to become one, it’s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.
+
+  In this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.
 ---
 
 ## What is Python?

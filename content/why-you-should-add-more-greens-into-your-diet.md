@@ -1,7 +1,7 @@
 ---
 title: Why you should add more greens into your diet
 createdAt: 2022-07-09T06:41:35.244Z
-updatedAt: 2022-07-17T06:19:05.087Z
+updatedAt: 2022-07-17T15:00:29.503Z
 category: cooking
 summary: Vegetables are naturally healthy, but many people aren’t consuming
   enough of them. A diet rich in vegetables can lower your risk of obesity,
@@ -10,6 +10,15 @@ summary: Vegetables are naturally healthy, but many people aren’t consuming
   (RDA) for protein. Adding protein to your meal is an easy way to increase the
   amount of protein you’re consuming. Mixing green vegetables with other healthy
   foods is a good way to get more greens into your diet.
+intro: "Greens are packed with nutrients and fiber, but we don’t usually think
+  of them as being super-healthy. Other foods like kale, spinach, and lettuce
+  are often relegated to side dishes or salad toppings, not main courses.
+  However, greens are some of the most nutritious foods you can eat. They’re
+  high in vitamins K, A, and C as well as iron, potassium, calcium, and
+  beta-carotene; they also have an abundance of antioxidants. In addition to all
+  this nutrition, greens are also low in calories: one cup only has about 20
+  calories. Here are some ways to make your greens even healthier — without
+  sacrificing taste!"
 ---
 
 ## Add more vegetables to your diet

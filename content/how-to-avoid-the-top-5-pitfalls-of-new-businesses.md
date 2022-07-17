@@ -1,7 +1,7 @@
 ---
 title: How to Avoid the Top 5 Pitfalls of New Businesses
 createdAt: 2022-07-07T16:47:24.855Z
-updatedAt: 2022-07-16T15:59:21.107Z
+updatedAt: 2022-07-17T15:00:31.004Z
 category: business
 summary: Many businesses fail because they don't test their product or service
   before launching. The next pitfall to avoid is selecting the wrong location or
@@ -12,6 +12,18 @@ summary: Many businesses fail because they don't test their product or service
   marketing campaigns and advertisements. Creating a marketing plan will help
   you keep track of your marketing efforts and see what is working and what
   isn't.
+intro: >-
+  When starting a new business, there are many pitfalls to avoid. Picking
+  the right location, ensuring you have the right capital and marketing your
+  services correctly are just a few of the things you need to consider before
+  launching a business. There is a lot of pressure on new businesses to succeed.
+  Many fail before they even get off the ground. But with careful planning and
+  analysis of potential pitfalls, you can increase your chances of success
+  tenfold. 
+
+  There are many reasons why new businesses fail. The failure rate for new companies is very high because many entrepreneurs make one or more critical mistakes when setting up their businesses, such as investing too little capital or not testing their market properly beforehand. 
+
+  Here we look at the top 5 pitfalls to avoid if you want to launch a successful business:
 ---
 
 ## Not Testing Your Product Or Service Before Launch

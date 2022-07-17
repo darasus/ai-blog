@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Healthiest Foods to Eat
 createdAt: 2022-07-09T06:37:33.600Z
-updatedAt: 2022-07-17T06:15:05.205Z
+updatedAt: 2022-07-17T15:00:29.349Z
 category: cooking
 summary: A balanced diet contains the right amount of nutrients that your body
   needs. This means that it has the correct amount of calories, protein, fat,
@@ -11,6 +11,15 @@ summary: A balanced diet contains the right amount of nutrients that your body
   follow one type of diet, you can also mix the two. Each serving should contain
   at least one cup of vegetables. Vegetables are an important part of a healthy
   diet.
+intro: Keeping a balanced diet is essential for leading a healthy lifestyle. It
+  can be challenging to eat the right amount of nutrients every day, but with
+  the right information it’s not as scary as you might think. Everyone has their
+  own ideas about what healthy eating looks like, and that can make things
+  confusing. You might have heard different things about what type of food is
+  good for you and which ones should be avoided at all costs. But figuring out
+  what the right kind of healthy is and how to achieve it isn’t as hard as you
+  might think. This article will teach you everything you need to know about
+  eating healthily and getting the right balance of nutrients in your body.
 ---
 
 ## What Is a Balanced Diet?

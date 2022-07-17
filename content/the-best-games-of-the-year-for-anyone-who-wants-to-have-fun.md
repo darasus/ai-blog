@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for anyone who wants to have fun
 createdAt: 2022-07-08T06:02:55.137Z
-updatedAt: 2022-07-17T07:27:45.211Z
+updatedAt: 2022-07-17T15:00:32.130Z
 category: gaming
 summary: Crash Bandicoot N. Sane Trilogy is great for anyone who wants a
   challenging but fun game to play. Mario Kart 8 Deluxe is a racing game where
@@ -9,6 +9,15 @@ summary: Crash Bandicoot N. Sane Trilogy is great for anyone who wants a
   a great game for people who don’t usually play sports games. Kirby Star Allies
   is a platformer, but it’s less challenging than many other games in the Kirby
   franchise. The latest Kirby game is now available on the Nintendo Switch.
+intro: >-
+  Video games can be a wonderful source of entertainment, but they can also
+  be stressful and have the potential to negatively impact your mental health if
+  you play them too much. That’s why we created this list of the best games of
+  2019 for anyone who wants to have fun without sacrificing their well-being.
+
+  If you’re looking for a game that isn’t as intense as most first-person shooters or as dark as many role-playing games, this list is for you. Whether you like puzzles, trivia, sports, music, or something else entirely, there’s an entry on this list for everyone who wants to have fun playing video games.
+
+  With so many video games out there right now it can be difficult to know which are worth your time, especially if you want a game that has less stress and more fun than most others available today. So if you want some great ideas of where to start on your search for the best new games out there today read on!
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

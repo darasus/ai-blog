@@ -1,7 +1,7 @@
 ---
 title: The best way to start your day - with a healthy morning routine
 createdAt: 2022-07-07T06:05:41.385Z
-updatedAt: 2022-07-16T16:17:31.675Z
+updatedAt: 2022-07-17T15:00:31.665Z
 category: health
 summary: A morning routine is a pre-planned series of activities that take place
   every morning. It’s a little like an assembly line for your day and can be
@@ -10,6 +10,14 @@ summary: A morning routine is a pre-planned series of activities that take place
   or overlook. By the time your day is over, you’ll be surprised at just how
   much you got done! You can also use your morning routine to set yourself up
   for success for the rest of the day.
+intro: >-
+  In a world that moves as fast as ours, it can be easy to get caught up in
+  the daily hustle and forget about the little things. But those little things
+  are what make all the difference in the end. Take morning routines, for
+  example. They may not seem like much on their own, but they have the power to
+  make or break your day from start to finish. 
+
+  With so many different morning routines out there, it can be difficult to know which one is right for you. There are those that are super long and involved, and others that are much shorter and simpler. Whether you’re looking for something simple or something a little more intense, we’ve got you covered with this ultimate guide on how to start your day with a healthy routine.
 ---
 
 ## What is a Morning Routine?

@@ -1,7 +1,7 @@
 ---
 title: What is dollar cost averaging and should you do it?
 createdAt: 2022-07-07T16:52:40.209Z
-updatedAt: 2022-07-17T05:55:57.361Z
+updatedAt: 2022-07-17T15:00:31.112Z
 category: investing
 summary: Dollar cost averaging is a strategy that you can use to reduce the risk
   of investing in a particular asset. It involves investing a fixed amount of
@@ -12,6 +12,15 @@ summary: Dollar cost averaging is a strategy that you can use to reduce the risk
   dollar cost averaging doesn’t guarantee higher returns. It can be applied to
   lots of different types of investments, including stocks, bonds, mutual funds
   and real estate.
+intro: >-
+  Dollar cost averaging is a strategy that investors use to reduce the risk
+  of investing in a particular asset. It involves investing a fixed amount of
+  money at different times—not just once. This way, you buy more shares when
+  prices are low and fewer shares when prices are high. As a result, your
+  average cost per share is lower than if you had invested the entire amount at
+  once. 
+
+  As an example, let’s assume an investor has $10,000 to invest in stocks and has been debating between two companies: ABC stock and XYZ stock. If they put all $10,000 into XYZ stock today, it will be worth $9,900 tomorrow because XYZ stock will likely fall that much in value by then. In contrast, investing all $10,000 in ABc today will mean that it will be worth $11,100 tomorrow because ABC stock is likely to rise that much by then. Hence the investor decides to dollar cost average by investing $5,000 today and another $5,000 10 days from now in order to invest the final $5,000 30 days from now – spending an equal dollar amount each time ($2,500 per investment). This way they can reduce their risk as well as smooth out the peaks and troughs of their returns.
 ---
 
 ## How does dollar cost averaging work?

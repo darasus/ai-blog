@@ -1,7 +1,7 @@
 ---
 title: "Ethereum: The New Smart Contract Platform"
 createdAt: 2022-07-07T16:53:55.012Z
-updatedAt: 2022-07-17T07:22:39.078Z
+updatedAt: 2022-07-17T15:00:31.149Z
 category: crypto
 summary: Smart contracts are self-executing digital contracts with specific
   instructions that can be fulfilled when certain conditions are met. Smart
@@ -11,6 +11,19 @@ summary: Smart contracts are self-executing digital contracts with specific
   smart contracts, you can create your own cryptocurrency and issue tokens for
   crowdfunding purposes. The flexibility and customizability of Ethereum’s smart
   contracts make it a very attractive blockchain network.
+intro: >-
+  Ethereum is a decentralized computing network built on blockchain
+  technology. It’s an open source software that operates smart contracts,
+  decentralized apps (DApps), and other programs. Smart contracts are
+  self-executing digital contracts with specific instructions that can be
+  fulfilled when certain conditions are met. These contracts operate on the
+  principles of if this, then that; if not, then this. This makes it so that
+  once the pre-set conditions have been met, the contract will execute
+  automatically without further input from any third party. Ethereum supports
+  Turing complete programming and can execute code in any language because of
+  its instruction sets and virtual machines. 
+
+  Ethereum has become one of the most popular blockchain networks after Bitcoin because of its support for smart contracts, which make up a huge part of why blockchain technology is so revolutionary. In this article, you’ll learn more about what Ethereum is and its unique benefits as well as potential challenges it faces going forward in adoption and development.
 ---
 
 ## What is Ethereum?

@@ -1,7 +1,7 @@
 ---
 title: Go language for DevOps
 createdAt: 2022-07-09T06:32:53.429Z
-updatedAt: 2022-07-17T07:18:14.427Z
+updatedAt: 2022-07-17T15:00:30.787Z
 category: coding
 summary: Go is a general-purpose programming language developed by Google and
   was released as open source in 2009. Go is designed with simplicity and
@@ -10,6 +10,16 @@ summary: Go is a general-purpose programming language developed by Google and
   is extremely fast as it compiles down to native code and can run on a wide
   range of computer systems. Go has great error handling and is easy to read,
   write, and understand the code.
+intro: >-
+  When we think of DevOps, we think of ways to make operations more robust,
+  efficient and faster. In simple terms, we want to cut down the time between a
+  code being written and it being ready for production.
+
+  We often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play. 
+
+  Since its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it “the new old thing”. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time. 
+
+  If you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:
 ---
 
 ## What is Go?

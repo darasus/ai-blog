@@ -1,7 +1,7 @@
 ---
 title: 10 Exercises You Can Do At Home And Save A Ton Of Money
 createdAt: 2022-07-17T11:50:02.509Z
-updatedAt: 2022-07-17T11:50:02.509Z
+updatedAt: 2022-07-17T15:00:31.856Z
 category: health
 summary: Some home workout videos feature exercises that require specific
   equipment, but you can often replicate the exercises with things you already
@@ -11,6 +11,15 @@ summary: Some home workout videos feature exercises that require specific
   with a jump rope. Bodyweight exercises like push-ups, squats, and squats are
   great ways to get a full-body workout at home and don’t have to worry about
   finding a gym that has the right equipment for your workout.
+intro: >-
+  Who says working out has to be expensive? You can do it anywhere and
+  anytime. There are various affordable home workout videos available on the
+  internet as well. However, that doesn’t mean you have to break the bank when
+  trying to save money in other areas of your life. Those at-home videos might
+  seem like your only cheap option, but there are plenty of ways you can cut
+  down on costs while still getting the same benefits from working out at home.
+
+  Instead of splurging on a one-time membership or an expensive series of DVDs, why not invest in some home equipment that won’t cost you a fortune, but will help you get in great shape? Working out at home also has its advantages: no traffic jams and no gym membership fees! Here are 10 cheap home workout ideas for anyone who wants to slim down and tone up without breaking their budget.
 ---
 
 ## Exercise While You’re Waiting For The Boiler To Heat Up

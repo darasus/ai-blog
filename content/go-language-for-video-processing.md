@@ -1,7 +1,7 @@
 ---
 title: Go language for video processing
 createdAt: 2022-07-09T06:31:03.154Z
-updatedAt: 2022-07-17T07:17:59.065Z
+updatedAt: 2022-07-17T15:00:30.725Z
 category: coding
 summary: The video processing industry uses a variety of tools and technologies
   to get their job done. AI is a type of technology that’s designed to create
@@ -11,6 +11,17 @@ summary: The video processing industry uses a variety of tools and technologies
   industry process more video and images in less time, which can equate to more
   profit for businesses. The most popular AI algorithm for this industry is a
   deep neural network.
+intro: >-
+  The video processing industry is growing at an astounding rate. This is
+  primarily due to the rise of social media and the prevalence of user-generated
+  content. As a result, there are now a plethora of video editing apps that
+  allow users to add filters to their videos, create green-screen effects, and
+  more. Given this opportunity, businesses in this space have begun to thrive.
+  However, for all of its current successes and future potential, the video
+  processing industry could be even more successful with the help of artificial
+  intelligence (AI). 
+
+  If you’re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you’ve come to the right place! In this blog post, we’ll go over exactly what the video processing industry is and why it needs AI. Additionally, we’ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!
 ---
 
 ## What is the Video Processing Industry?

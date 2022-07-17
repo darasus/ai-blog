@@ -1,7 +1,7 @@
 ---
 title: 5 Tricks To Help You Master Javascript In 5 Minutes
 createdAt: 2022-07-17T07:19:24.642Z
-updatedAt: 2022-07-17T07:19:24.642Z
+updatedAt: 2022-07-17T15:00:30.802Z
 category: coding
 summary: Javascript is one of the most complex and widely used programming
   languages in the world. It is essential to learn and memorize the 11 core
@@ -11,6 +11,15 @@ summary: Javascript is one of the most complex and widely used programming
   used in the language. The following 11 concepts are essential to understanding
   the language properly. These concepts will help you master Javascript in 5
   minutes.
+intro: >-
+  If you’ve just started learning programming or are struggling to get a
+  grasp of it, Javascript can be one tough nut to crack. This dynamic and
+  functional programming language is used for creating interactive websites and
+  applications. 
+
+  The scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it’s also a great first programming language because of its simplicity, accessibility, and ease of availability online. 
+
+  But like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.
 ---
 
 ## Keep a Javascript Cheatsheet By Your Side

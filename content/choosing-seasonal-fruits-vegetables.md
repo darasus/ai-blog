@@ -1,7 +1,7 @@
 ---
 title: Choosing seasonal fruits + vegetables
 createdAt: 2022-07-09T06:42:13.632Z
-updatedAt: 2022-07-17T06:19:19.773Z
+updatedAt: 2022-07-17T15:00:29.507Z
 category: cooking
 summary: Vitamin A promotes healthy vision, helps prevent infections, and also
   supports healthy skin. Vitamin C is an essential nutrient that helps your body
@@ -10,6 +10,16 @@ summary: Vitamin A promotes healthy vision, helps prevent infections, and also
   in many vegetables like spinach, kale, broccoli, Brussels sprouts, and
   lettuce. Vitamin A is also found in green tea, but the vitamin K content
   varies depending on how long the tea is steeped.
+intro: >-
+  Fruits and vegetables are a nutritious source of vitamins, minerals,
+  fiber, and other nutrients. Eating fruits and veggies can help you meet your
+  daily needs for vitamins, minerals, and other essential nutrients. They also
+  provide antioxidants (which may reduce your risk of disease) and other
+  phytonutrients (which may have additional health benefits). 
+
+  Vegetables are an excellent source of many vitamins and minerals—especially vitamin C, beta-carotene, calcium, potassium, and iron. In addition to being an excellent source of vitamins A and K as well as several B vitamins, fruits are also a great source of fiber.
+
+  In general the best time to eat seasonal fruits is during their peak season. Doing so helps reduce food waste while being better for the environment than importing them from faraway places at any time of the year.
 ---
 
 ## Vitamin A

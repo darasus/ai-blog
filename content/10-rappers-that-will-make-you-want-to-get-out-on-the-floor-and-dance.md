@@ -1,7 +1,7 @@
 ---
 title: 10 Rappers That Will Make You Want To Get Out On The Floor and Dance
 createdAt: 2022-07-17T14:55:54.164Z
-updatedAt: 2022-07-17T14:55:54.164Z
+updatedAt: 2022-07-17T15:00:32.072Z
 category: culture
 summary: If you’re looking for a rapper who will make you want to dance, there’s
   no better choice than Chance the Rapper. Frank Ocean was making music for the
@@ -10,6 +10,17 @@ summary: If you’re looking for a rapper who will make you want to dance, there
   is best known as a writer and actor, but he has been rapping since 2006.
   Scoolboy Q has been on the streets of South Los Angeles since 2008 and
   released a number of mixtapes.
+intro: "As hip-hop continues to shed its once-maligned reputation and become
+  increasingly popular, we’ve seen a related boom in mainstream rap music. More
+  than ever before, people are listening to and talking about rappers. But with
+  so much of the genre becoming commodified and predictable, it can be difficult
+  for new artists to stand out among the noise. Fortunately, just because most
+  popular rap fails to break any molds doesn’t mean that the genre is completely
+  devoid of creative talent. In fact, there are a number of rappers who have
+  been working hard to maintain their integrity while still appealing to a
+  larger audience. If you’re ready to put on your dancing shoes and get out on
+  the floor with one of these 10 amazing rappers who will make you want to
+  dance:"
 ---
 
 ## Lecrae

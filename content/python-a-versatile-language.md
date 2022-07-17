@@ -1,7 +1,7 @@
 ---
 title: Python - A versatile language
 createdAt: 2022-07-09T06:19:05.015Z
-updatedAt: 2022-07-17T06:49:01.324Z
+updatedAt: 2022-07-17T15:00:30.421Z
 category: coding
 summary: Python is a general-purpose programming language that was created in
   1991 by a Dutch programmer named Guido van Rossum. The language has been used
@@ -10,6 +10,12 @@ summary: Python is a general-purpose programming language that was created in
   There are several types of applications and web services that rely on Python
   for their functionality. We explored what Python is and why it’s so popular
   and how to learn the language in this article.
+intro: >-
+  There are a lot of programming languages out there today. Each has its
+  own unique set of features, strengths, and weakness. Some are more general
+  purpose than others; some are more suited to specific tasks.
+
+  This article will explore the Python programming language and why it’s so useful to know if you’re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.
 ---
 
 ## What is Python?

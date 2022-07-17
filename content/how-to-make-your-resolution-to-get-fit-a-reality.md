@@ -1,7 +1,7 @@
 ---
 title: How to make your resolution to get fit a reality
 createdAt: 2022-07-07T06:05:40.391Z
-updatedAt: 2022-07-16T14:59:16.783Z
+updatedAt: 2022-07-17T15:00:29.767Z
 category: life
 summary: You need to pick a goal that is challenging but also within your reach.
   A resolution should be something that is achievable, but that also requires
@@ -11,6 +11,15 @@ summary: You need to pick a goal that is challenging but also within your reach.
   not about transforming your body into some super-human specimen, it’s about
   staying healthy and feeling good about yourself, improving your
   self-confidence and having more energy.
+intro: >-
+  Resolutions are challenging. They require sustained effort, willpower and
+  courage to see them through. The fact that so few resolutions are kept shows
+  how hard it is for most of us to take that first step and put our intentions
+  into action. 
+
+  We live in a world filled with temptations at every corner. Even if you don’t like going out or meeting new people, there are endless opportunities online, which makes staying in shape even harder. Keeping fit is not an easy task in this modern world but it doesn’t mean it is impossible! You just need to find the right motivation to get started and keep going. 
+
+  A lot of people give up on their New Year’s resolutions before they even begin, because they don’t have a plan of action and fail to consider what will keep them motivated along the way. Let us take a look at how you can make your resolution work:
 ---
 
 ## Why Resolutions Fail

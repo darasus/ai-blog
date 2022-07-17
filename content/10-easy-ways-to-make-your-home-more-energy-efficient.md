@@ -1,7 +1,7 @@
 ---
 title: 10 easy ways to make your home more energy efficient
 createdAt: 2022-07-07T06:05:40.276Z
-updatedAt: 2022-07-16T14:55:08.940Z
+updatedAt: 2022-07-17T15:00:29.668Z
 category: life
 summary: An energy audit is the process of determining which areas of your home
   are energy inefficient. LED lighting is changing the game when it comes to
@@ -11,6 +11,12 @@ summary: An energy audit is the process of determining which areas of your home
   off at a certain time. Weather-proof your home is in the fall, when
   temperatures are still relatively mild and you’re not as rushed to get things
   done.
+intro: >-
+  As the cost of living continues to rise, it’s more important than ever
+  for Americans to find ways to save money and stay within a budget. After all,
+  no one wants to feel like they’re drowning in bills every month. 
+
+  To that end, everyone could probably stand to tighten their belts a little bit when it comes to their day-to-day expenses; after all, there are several small things we can do on a daily basis that will collectively add up and help us save money in the long run. In this blog post, we’ll cover everything you need to know about energy efficiency at home and how you can start saving money by making your house more efficient today!
 ---
 
 ## How To Make Your Home More Energy Efficient

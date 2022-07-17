@@ -1,7 +1,7 @@
 ---
 title: "From first date to soulmate: How to know if you're on the right track"
 createdAt: 2022-07-08T06:22:25.464Z
-updatedAt: 2022-07-16T15:04:35.301Z
+updatedAt: 2022-07-17T15:00:29.772Z
 category: life
 summary: The happiest relationships are the ones where both people give each
   other enough space to be themselves. Relationships often work best when
@@ -12,6 +12,19 @@ summary: The happiest relationships are the ones where both people give each
   and has your back through thick and thin, it doesn’t just support you. In a
   healthy relationship, both partners are there for each other, supporting each
   other through the good times and the bad.
+intro: >-
+  There are so many first date horror stories out there — awkward silences,
+  strange amateur- magician tricks, and cringe-worthy pick-up lines being just a
+  few of them. But getting past these awkward initial stages and finding a
+  potential partner who you can connect with on a deeper level is no mean feat.
+  Figuring out if someone is your soulmate or simply the first step to becoming
+  one isn’t easy. Even though it can feel like we’re constantly being bombarded
+  with images of fairy tale love and meet-cute romances, dating in real life
+  isn’t always so straightforward. Unless you’re living under a rock, you
+  probably know that letting somebody into your private world isn’t something to
+  take lightly. 
+
+  But how do you know if you’re on the right track when it comes to dating? Whether you’ve just met someone new and want to get to know them better without rushing things or have been seeing somebody for some time and are wondering if they could be The One, here are some signs that could indicate that this person may be more than just a casual partner…
 ---
 
 ## You feel happy and comfortable when you’re together.

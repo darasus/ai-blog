@@ -1,7 +1,7 @@
 ---
 title: Python - A language for the masses
 createdAt: 2022-07-09T06:19:07.786Z
-updatedAt: 2022-07-17T06:52:35.681Z
+updatedAt: 2022-07-17T15:00:30.455Z
 category: coding
 summary: The best way to decide if Python is right for you is to understand its
   strengths and weaknesses. Let’s take a look at the pros and cons of Python to
@@ -11,6 +11,17 @@ summary: The best way to decide if Python is right for you is to understand its
   massive library of pre-written code that you can use to build your projects.
   This allows you to save time and get your projects going quicker than if you
   started from scratch.
+intro: Python is a general-purpose programming language that was created in
+  1991. It’s easy to read and understand and has a much simpler syntax than
+  other programming languages such as C or Java. Its simple syntax, readability,
+  and general ease of use have made Python an extremely popular choice for new
+  programmers. According to the census of programming languages from PYPL,
+  Python is the third most widely used programming language globally with a
+  usage of about 20%. Furthermore, Python was also identified as one of the top
+  10 fastest growing computer languages. This post will explain why you should
+  learn Python, teach you everything you need to know about this wonderful
+  coding language, and provide some resources for getting started. So keep
+  reading to discover more about this awesome programming
 ---
 
 ## What can you do with Python?

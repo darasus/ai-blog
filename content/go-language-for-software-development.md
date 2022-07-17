@@ -1,7 +1,7 @@
 ---
 title: Go language for software development
 createdAt: 2022-07-09T06:29:36.108Z
-updatedAt: 2022-07-17T07:17:53.122Z
+updatedAt: 2022-07-17T15:00:30.690Z
 category: coding
 summary: The Go programming language is designed to be simple and easy to learn
   and is powerful enough to build complex, complex, scalable software that can
@@ -11,6 +11,15 @@ summary: The Go programming language is designed to be simple and easy to learn
   efficient code that works with different data types. The Go language is
   incomplete as a programming language without libraries, packages, and
   frameworks that can extend its functionality.
+intro: >-
+  Go is a general purpose programming language. It was originally developed
+  at Google to solve some of the problems with other programming languages like
+  C and Python that made it difficult to write programs that are fast, small,
+  and correct. 
+
+  Go makes it easy to capture the programmer’s intent in code and generate output directly from source - thanks to its lightweight syntax, concise statement, and built-in support for anonymous functions without the need for temporary variables or auxiliary arguments.
+
+  Go is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.
 ---
 
 ## Why Go?

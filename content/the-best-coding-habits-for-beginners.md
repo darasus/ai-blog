@@ -1,7 +1,7 @@
 ---
 title: The best coding habits for beginners
 createdAt: 2022-07-07T06:13:56.313Z
-updatedAt: 2022-07-17T06:32:57.850Z
+updatedAt: 2022-07-17T15:00:30.282Z
 category: coding
 summary: There is a lot to learn when it comes to coding, but you need to make
   sure you have a strong foundation in the basics before attempting to write
@@ -10,6 +10,17 @@ summary: There is a lot to learn when it comes to coding, but you need to make
   studies. Exercise regularly is scientifically proven to improve brain health
   and strengthen neural connections by as much as 10% when you exercise
   regularly. Don’t be afraid of Google and YouTube when you feel stuck.
+intro: "The road to becoming an expert coder is long and challenging. In fact,
+  it’s one of the most difficult tech fields to get started in as a beginner.
+  But it’s also one of the most lucrative careers you can choose to pursue. The
+  average software engineer salary is around $100K per year, which is even more
+  impressive when you consider that the average age of software engineers is
+  only 29! If you want to start a new career in coding but feel like you’re
+  starting at square one, we have some advice for you. As someone who has been
+  coding for over 10 years now, I can tell you with complete certainty that
+  great coders are made and not born. Anyone can learn how to code if they are
+  willing to work hard at it and adopt some good habits along the way. Here are
+  some tips on how you can get started today:"
 ---
 
 ## Learn the basics FIRST

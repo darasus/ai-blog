@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how it can improve your mood
 createdAt: 2022-07-07T06:05:41.631Z
-updatedAt: 2022-07-16T16:18:39.176Z
+updatedAt: 2022-07-17T15:00:31.696Z
 category: health
 summary: A healthy diet contains a good amount of protein, which has many health
   benefits. It also contains a small amount of fat, which is necessary for
@@ -11,6 +11,16 @@ summary: A healthy diet contains a good amount of protein, which has many health
   of the mental health benefits of a healthy diet. The Benefits Of A Healthy
   Diet - And How It Can Improve Your Mood - include managing anxiety and
   managing depression.
+intro: >-
+  According to recent research by the World Health Organization, one in
+  four adults worldwide has an unbalanced diet. This means that for many of us,
+  our eating habits need some serious adjustment. Not only does this have
+  negative effects on our physical health, but it also has a marked effect on
+  our mental health and well-being. 
+
+  A poor diet can lead to obesity, heart disease and other serious conditions. It can also increase your risk of developing certain mental illnesses such as depression and anxiety. 
+
+  That is why it’s essential that we understand the benefits of a healthy diet as it can help to improve your mood and tackle any issues you may be having with your mental health as a result of your eating habits.
 ---
 
 ## What Is A Healthy Diet?

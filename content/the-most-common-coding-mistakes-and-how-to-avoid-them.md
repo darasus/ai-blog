@@ -1,7 +1,7 @@
 ---
 title: The most common coding mistakes and how to avoid them
 createdAt: 2022-07-07T06:11:17.313Z
-updatedAt: 2022-07-17T06:30:35.807Z
+updatedAt: 2022-07-17T15:00:30.249Z
 category: coding
 summary: There are many ways to check for errors using the “debugging” feature
   of your chosen programming language. It’s best to create a variable for every
@@ -10,6 +10,15 @@ summary: There are many ways to check for errors using the “debugging” featu
   Conditional statements can be very helpful, but overusing them can cause
   problems. You can only do so much to avoid errors with minimal disruption to
   your project.
+intro: No matter how many tutorials or articles you read, coding is always
+  challenging. Even experienced developers sometimes make mistakes. New coders
+  might feel like they’re constantly making errors, but it’s all part of the
+  learning process. Mistakes are inevitable and beneficial as long as you learn
+  from them. The more coding experience you have, the less frequently these
+  mistakes will occur. However, if you’re just beginning to code, it’s best to
+  know about the most common errors before they become a serious problem for
+  your project. Read on to find out more about these coding mistakes and how to
+  avoid them when coding your next software project.
 ---
 
 ## Don’t Know How To Check For Errors?

@@ -1,7 +1,7 @@
 ---
 title: How the pandemic is changing the way we work
 createdAt: 2022-07-07T06:05:40.183Z
-updatedAt: 2022-07-16T14:52:07.243Z
+updatedAt: 2022-07-17T15:00:29.665Z
 category: life
 summary: Understanding how your employees value time at work can help you
   cultivate a culture that supports high performance and productivity without
@@ -11,6 +11,16 @@ summary: Understanding how your employees value time at work can help you
   work and decreases the risk of employees bringing a virus home to their
   families. Collaboration, culture, and wellness are all critical components of
   effective pandemic preparedness.
+intro: >-
+  Time is money, as the saying goes. And when you’re grappling with
+  pandemic disease and a global outbreak, time spent at work has a whole
+  different set of implications.
+
+  Pandemic flu strains have decimated human populations since the first recorded pandemic in 541 AD. Over the centuries, outbreaks have been frequent enough to instill fear in even the most stoic among us. 
+
+  Today we face another pandemic threat with the potential to be even more devastating than those which came before it. A highly virulent strain of influenza A virus known as influenza pandemia has begun spreading rapidly throughout much of the world. 
+
+  In many ways, today’s workplace is very different from that of a century ago. Technology has advanced; office structures are more open and collaborative; and workers are expected to demonstrate self-motivation and flexibility in order to thrive in an ever-changing workplace environment.
 ---
 
 ## The Value of Time

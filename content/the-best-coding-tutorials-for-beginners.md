@@ -1,7 +1,7 @@
 ---
 title: The best coding tutorials for beginners
 createdAt: 2022-07-07T06:10:42.701Z
-updatedAt: 2022-07-17T06:30:20.240Z
+updatedAt: 2022-07-17T15:00:30.200Z
 category: coding
 summary: HTML and CSS are essential for creating any web pages or websites.
   Python is a popular programming language used for a variety of purposes. Swift
@@ -10,6 +10,15 @@ summary: HTML and CSS are essential for creating any web pages or websites.
   the basics of programming in this language. Try out a free online course for
   beginners to learn how to create your first Android app for the phone or
   tablet using the Apple Swift Language Guide or the Python Standard Library.
+intro: Do you want to learn how to code but don’t know where to start? There are
+  so many coding tutorials out there, it’s easy to get lost. Some of them are
+  too basic and some too advanced. Finding the right balance between too easy
+  and too hard is tricky. That’s why in this article you will find the best
+  coding tutorials for beginners. We have researched various online resources
+  and picked the top 10 ones that will help you master coding fast and
+  efficiently. From beginner level Python to intermediate HTML and CSS tutorials
+  - you can learn all the essential skills of programming from these great
+  resources. Try them out and become a coding pro in no time!
 ---
 
 ## HTML and CSS Basics

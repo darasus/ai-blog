@@ -1,7 +1,7 @@
 ---
 title: 10 Must-Know Tips for First-Time Entrepreneurs
 createdAt: 2022-07-07T16:46:33.266Z
-updatedAt: 2022-07-16T15:59:16.885Z
+updatedAt: 2022-07-17T15:00:30.998Z
 category: business
 summary: The first step towards becoming a successful first-time entrepreneur is
   to create a solid business plan. A business plan is your blue print for
@@ -12,6 +12,16 @@ summary: The first step towards becoming a successful first-time entrepreneur is
   events that are just a few examples of free marketing opportunities. Be
   prepared for it to take a little longer than you expected to make that money
   back.
+intro: Given the current state of the economy, it’s never been a better time to
+  start your own business. In fact, according to statistics released by the U.S.
+  Census Bureau in September of last year, there has never been a better time
+  for first-time entrepreneurs. For example, between 2007 and 2016, the number
+  of first-time entrepreneurs increased from 5.5 million to 6.1 million—an
+  increase of almost 11 percent in only nine years. If you’re thinking about
+  becoming a first-time entrepreneur, now is the perfect time to take that leap.
+  With that said, starting your own business isn’t easy. It takes hard work and
+  dedication to not only come up with a good idea but also see that idea through
+  to the end and make it successful.
 ---
 
 ## Know Your Business Plan Inside and Out

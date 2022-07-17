@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for adults
 createdAt: 2022-07-08T06:01:13.148Z
-updatedAt: 2022-07-17T07:26:57.594Z
+updatedAt: 2022-07-17T15:00:32.081Z
 category: gaming
 summary: "The best rated adult games are out there and waiting for you to play
   them! If you’re looking for a game that is more mature, then you can’t go to
@@ -10,6 +10,14 @@ summary: "The best rated adult games are out there and waiting for you to play
   remastered and Metal Gear Solid 5: The Phantom Pain and Bioshock Infinite. If
   you are looking for something to keep you entertained for hours on end, this
   is one to consider."
+intro: >-
+  Video games have come a long way in the past few years. And while some
+  might assume that this means they’re now “grown up” or “intelligent” enough,
+  the reality is that they are becoming more and more sophisticated at engaging
+  players. With that being said, the video game market has seen a huge increase
+  in popularity of games with an adult aesthetic.
+   The best rated adult games have left behind the cartoonish characters and storylines of old, instead focusing on darker storylines and character development to keep players coming back for more. 
+  That being said, there are plenty of great games out there that don’t shy away from their adult nature. If you’re looking for something new and exciting in 2019, check out these amazingly reviewed titles:
 ---
 
 ## The Last of Us Remastered

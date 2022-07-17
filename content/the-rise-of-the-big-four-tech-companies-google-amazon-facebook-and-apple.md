@@ -1,7 +1,7 @@
 ---
 title: "The rise of the big four tech companies: Google, Amazon, Facebook and Apple"
 createdAt: 2022-07-08T06:05:20.931Z
-updatedAt: 2022-07-17T07:26:12.839Z
+updatedAt: 2022-07-17T15:00:31.463Z
 category: technology
 summary: "The rise of big tech can be attributed to the rise of digital
   platforms, which rely on gathering large quantities of user data to generate
@@ -11,6 +11,17 @@ summary: "The rise of big tech can be attributed to the rise of digital
   multi-billion-dollar companies. They are all technology companies that use
   data to make their products more efficient and appealing. Most of the big tech
   companies have built AI research labs and applied AI to their products."
+intro: >-
+  New digital technologies are restructuring global markets and weakening
+  old business models.  Artificial intelligence, computer vision and voice
+  recognition are among the new technologies that will continue to change
+  industries as we know them. While many companies struggle to adapt to this
+  fast-changing environment, a small handful of tech giants have thrived in this
+  new digital landscape, amassing huge market shares in their respective fields.
+  These companies are known collectively as the ‘big four’ or ‘big four tech
+  companies’: Google, Amazon, Facebook and Apple. 
+
+  These firms represent a very recent type of business model. Most obviously, they are all technology companies (they sell software and hardware). They are also all data companies – their products all rely on collecting, storing and processing huge quantities of user data. Finally, they are what can be called ‘closed loop’ businesses: They tend to operate closed systems that lock users into using their services exclusively; for example by locking users into using their search engine rather than other search engines or by locking users into using their social network rather than others such
 ---
 
 ## Google

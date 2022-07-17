@@ -1,7 +1,7 @@
 ---
 title: "\"HAIM's 'Something to Tell You' is a Delightful Pop Album\""
 createdAt: 2022-07-08T05:59:46.759Z
-updatedAt: 2022-07-17T07:29:07.271Z
+updatedAt: 2022-07-17T15:00:32.015Z
 category: culture
 summary: The album opens with “You Never Know,” and we see HAIM has matured and
   grown a bit since their last album. “Running For Your Life” is a song that is
@@ -9,6 +9,17 @@ summary: The album opens with “You Never Know,” and we see HAIM has matured 
   breakup. It is also a love song in which one person misses an ex-partner very
   much very much. ‘Kept Me Crying’ is a vulnerable and honest ballad about love
   and heartbreak.
+intro: >-
+  When it comes to crafting memorable pop songs, HAIM hits the mark with
+  their sophomore album, "Something to Tell You." The trio of sisters from Los
+  Angeles has been steadily building a reputation as one of indie-pop’s most
+  endearing acts. They’ve toured with Taylor Swift and Kendrick Lamar and
+  performed on Saturday Night Live and Conan, among other TV appearances. HAIM
+  is also no stranger to radio success – their hit single “Want You Back”
+  received heavy support from Adult Alternative stations and peaked at #9 on
+  Billboard’s Adult Alternative Songs chart. 
+
+  HAIM's second album is a continuation of their unique brand of Indie Pop that takes inspiration from '90s R&B and Electronica while keeping things fresh with thoughtful lyrics and melodies. The band's lead singer, Danielle “Dani” HAIM Cohen, is once again responsible for writing almost all the lyrics on this record (with some help from her sisters Alana and Este).
 ---
 
 ## The Good Stuff

@@ -1,7 +1,7 @@
 ---
 title: The 5 most underrated games of the year
 createdAt: 2022-07-08T06:00:50.692Z
-updatedAt: 2022-07-17T07:27:04.004Z
+updatedAt: 2022-07-17T15:00:32.078Z
 category: gaming
 summary: PlayerUnknown’s Battlegrounds is still one of the best shooter games
   available on the market. Marvel's Spider-Man is the first one created by
@@ -10,6 +10,15 @@ summary: PlayerUnknown’s Battlegrounds is still one of the best shooter games
   Mario Tennis. Overcooked! 2 is a silly cooking game that's great for parties
   and family gatherings. Shadow Colossus is an action-adventure that deserves
   more attention.
+intro: >-
+  Video games have become a big part of our culture. Millions of people
+  around the world play video games every day, and some even make it their
+  career. In 2018 alone, over 200 new video games were released. It’s important
+  to keep tabs on all the new releases so you don’t miss out on anything great.
+  That being said, there are a lot of video games that aren’t receiving the
+  attention they deserve for various reasons. 
+
+  Did you know that the average video game player is getting older? According to recent data, the average age of video gamers is now 35 years old! That means most gaming enthusiasts probably won’t find as many underrated games as they would have when they were younger. However, there are still plenty of underrated gems out there that are well worth checking out this year! Here are the top 5 underrated video games of 2018:
 ---
 
 ## PlayerUnknown’s Battlegrounds

@@ -1,7 +1,7 @@
 ---
 title: The benefits of mediation
 createdAt: 2022-07-09T06:12:50.638Z
-updatedAt: 2022-07-16T15:48:02.373Z
+updatedAt: 2022-07-17T15:00:30.019Z
 category: life
 summary: Mediation allows you to resolve your dispute even if the other party
   does not agree to your terms. In mediation, you can put forth your best
@@ -11,6 +11,14 @@ summary: Mediation allows you to resolve your dispute even if the other party
   more likely to reach an agreement that everyone can live with. An agreement is
   likely to reduce the tension between the two parties and increase civility.
   Mediated can be a win-win situation for both parties.
+intro: >-
+  Mediation is an increasingly popular alternative to litigation for
+  resolving disputes outside of court. Parties agree to have a neutral
+  third-party called a mediator act as an intermediary, bringing opposing
+  parties together to resolve their dispute and avoid expensive and
+  time-consuming court proceedings. 
+
+  If you are involved in a lawsuit or other legal conflict, mediation can be beneficial in several ways. It can help you resolve your dispute faster and cheaper than going to trial. Mediation also has the potential to preserve your relationship with the other party after the dispute is resolved, which may prove useful if you anticipate interacting with that person again in the future. Lastly, mediation may give you more control over how your dispute is resolved, as opposed to leaving that up to an unpredictable judge or jury.
 ---
 
 ## Ensuring that your dispute is resolved

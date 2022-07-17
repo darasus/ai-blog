@@ -1,7 +1,7 @@
 ---
 title: Make your own - recipes for DIY condiments and sauces
 createdAt: 2022-07-07T06:05:39.940Z
-updatedAt: 2022-07-17T06:21:44.173Z
+updatedAt: 2022-07-17T15:00:29.192Z
 category: cooking
 summary: Most people don’t realise that mayonnaise can be made at home, but it’s
   actually super easy. To make mustard, you will need mustard seeds (either
@@ -9,6 +9,17 @@ summary: Most people don’t realise that mayonnaise can be made at home, but it
   at home with tomato ketchup, vinegar, brown sugar, and seasoning. Chilli sauce
   is a quick and easy condiment to make at home. Sriracha is a super hot and
   spicy sauce that is used in many Asian dishes.
+intro: >-
+  The humble condiment is one of the most underrated heroes of the kitchen.
+  A little bit of sauce here, a dollop of mayo there, and voila! You have
+  transformed ho-hum chicken or burgers into something spectacular. Condiments
+  are key flavor boosters in our food and playing around with different
+  combinations can liven up your palate and change things up from day to day.
+  But are you using these hidden gems in the best way possible? Many people tend
+  to purchase store-bought sauces when they could easily make them at home at a
+  fraction of the cost. 
+
+  However, we all know that homemade versions will be much healthier and fresher than anything you can buy from a store shelf, so why not take 30 minutes from your busy schedule to whip up some condiments? The good news is that many of these recipes are super easy to make – even if you’re a complete newbie in the kitchen. From sweet chili sauce to mayo, here are our top 10 homemade condiments and sauces you should try making today...
 ---
 
 ## Ketchup

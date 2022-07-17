@@ -1,7 +1,7 @@
 ---
 title: How to deal with a partner who's always busy
 createdAt: 2022-07-08T06:23:36.600Z
-updatedAt: 2022-07-16T15:09:25.102Z
+updatedAt: 2022-07-17T15:00:29.791Z
 category: life
 summary: You need to understand what your partner’s day-to-day responsibilities
   are and how they fit into their long-term plans. Don’t take being constantly
@@ -10,6 +10,16 @@ summary: You need to understand what your partner’s day-to-day responsibilitie
   busy is the best way to deal with being busy is to let the best fall by with
   being with your partner. Find a partner who is busier when you need them to
   be.
+intro: >-
+  Do you and your partner see each other often, or is it more like once a
+  blue moon? If you live in different cities, or have demanding jobs that take
+  up a lot of your time, it can be tough to make time for one another. However,
+  if you’re in a long-distance relationship or simply see each other less
+  frequently due to work or study commitments, this doesn’t mean there’s
+  anything wrong with your relationship.
+
+  Social life and personal relationships are important parts of our lives as adults. When we meet someone special, we want to invest time into making that relationship last. But what happens when you have a partner who is always busy?
+   Understandably, being constantly busy isn’t easy to deal with on a regular basis. Trust us, we get it – being busy isn’t a bad thing! Everyone has moments when they are super-busy, but how do you deal with that in your relationship? Here are some tips.
 ---
 
 ## Set clear expectations

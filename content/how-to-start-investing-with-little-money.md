@@ -1,7 +1,7 @@
 ---
 title: How to start investing with little money
 createdAt: 2022-07-07T16:48:24.472Z
-updatedAt: 2022-07-17T05:53:08.101Z
+updatedAt: 2022-07-17T15:00:31.008Z
 category: investing
 summary: Start with a small amount and invest regularly with small, regular
   investments. Diversify your portfolio among many different sectors to reduce
@@ -11,6 +11,14 @@ summary: Start with a small amount and invest regularly with small, regular
   services that manage your money with computer algorithms. The best
   roboadvisors will also help you figure out how much you should be investing
   and keep track of your progress.
+intro: >-
+  Unless you’re a trust fund kid or a lottery winner, chances are that you
+  don’t have much cash to invest. As a recent college graduate with student
+  loans and rent to pay, let alone the prospect of saving for retirement, you
+  may think investing feels like an impossible task. But it doesn’t have to be.
+  You just need to know where to start. 
+
+  Investing can be intimidating at first glance. Even high-net-worth individuals struggle finding trustworthy advisors who specialize in helping those with little capital get started in the market—until now. The following simple strategies will help any investor begin investing with little money and see returns over time. Keep reading for more details and examples of how much you could stand to gain from investing even a small amount now and maintaining that habit for the long term.
 ---
 
 ## Start with a small amount and invest regularly

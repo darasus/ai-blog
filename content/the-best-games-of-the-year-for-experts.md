@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for experts
 createdAt: 2022-07-08T06:02:21.069Z
-updatedAt: 2022-07-17T07:27:37.629Z
+updatedAt: 2022-07-17T15:00:32.108Z
 category: gaming
 summary: "The game’s new “Hearthstone: Heroes of Warcraft” graphics engine is
   more lifelike than ever, and all of its core mechanics have been retooled to
@@ -10,6 +10,15 @@ summary: "The game’s new “Hearthstone: Heroes of Warcraft” graphics engine
   “real-time photogrammetry” to render lifelikes visuals that look almost like
   3D renders. Mario Tennis Aces has one of the best-looking graphics engines of
   any tennis simulation game."
+intro: >-
+  Expert gamers are a finicky bunch. They love getting their game-on, but
+  they also have exacting standards when it comes to the games they play. That’s
+  why there are so many expert-friendly video games out there today. But that’s
+  also why it can be so hard to find an expert-friendly title in general. 
+
+  Experts want games with a variety of challenges and objectives that demand strategy, not just reaction time or hand-eye coordination. They want graphics and sounds that aren’t juvenile but instead sophisticated and immersive. And most importantly, they want to play against other experts rather than casual gamers who keep asking “Red or blue?”
+
+  So if you think you have what it takes to make this list of the top expert games of 2018, check out these top-tier titles for some expert-level fun:
 ---
 
 ## Hearthstone

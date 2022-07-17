@@ -1,7 +1,7 @@
 ---
 title: Go language for beginners
 createdAt: 2022-07-09T06:28:13.675Z
-updatedAt: 2022-07-17T07:15:49.009Z
+updatedAt: 2022-07-17T15:00:30.669Z
 category: coding
 summary: Go is a simple and straightforward language that is easy to read and
   write. The language is known for its speed and performance. It is open source
@@ -11,6 +11,15 @@ summary: Go is a simple and straightforward language that is easy to read and
   latency-sensitive applications. It uses a simple syntax that is very similar
   to most other languages. Go is widely available, has a lot of free resources
   online to help you learn to code.
+intro: >-
+  Did you know that there are over 5,000 programming languages in the world
+  today? And of those, only a handful has gained widespread adoption. Newer and
+  more obscure programming languages are being created every day. Indeed, it
+  seems as though the market is oversaturated with them.
+
+  But Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world – Google, Digital Ocean, Intuit, Wordpress.com and Heroku – for its ease of use, simple syntax and fast performance.
+
+  Even though it’s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it’s worth learning for beginners .
 ---
 
 ## Why is Go language so popular?

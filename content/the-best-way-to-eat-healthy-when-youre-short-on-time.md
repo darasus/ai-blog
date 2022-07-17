@@ -1,7 +1,7 @@
 ---
 title: The best way to eat healthy when you're short on time
 createdAt: 2022-07-07T06:05:41.969Z
-updatedAt: 2022-07-16T16:21:22.858Z
+updatedAt: 2022-07-17T15:00:31.778Z
 category: health
 summary: Many people assume that leftovers are unhealthy, but that’s not the
   case if you make smart choices. Rotating your vegetables will help you avoid
@@ -10,6 +10,14 @@ summary: Many people assume that leftovers are unhealthy, but that’s not the
   feelings of fullness and prevent overeating at meals. Eating beans and Lentils
   are two of the healthiest protein sources you can eat, and you can use them to
   replace meat in tacos and burritos.
+intro: >-
+  It’s not always easy to find time to sit down and eat healthy meals. In
+  fact, most adults spend about a third of their weeknight time on food and
+  drink, which leaves little time for anything else. 
+
+  We all lead busy lives with lots of obligations outside of work or school: we have friends, family members, and partners that we need to spend time with on a regular basis. It doesn’t leave much room for eating right.
+
+  Fortunately, there are lots of ways to keep your diet in check while also fitting in your hectic schedule. Keeping healthy snacks like fruits and nuts stocked at home can help you avoid getting hungry at the worst possible moment. Eating smaller meals more frequently throughout the day is another great approach that can help you feel fuller faster without overloading your system with calories at one sitting. Eating well when you’re busy isn’t impossible; it just takes some planning ahead.
 ---
 
 ## Plan Your Meals Ahead of Time

@@ -1,7 +1,7 @@
 ---
 title: The Best Resources for Self-Learning
 createdAt: 2022-07-09T06:33:51.186Z
-updatedAt: 2022-07-17T07:29:09.587Z
+updatedAt: 2022-07-17T15:00:32.176Z
 category: productivity
 summary: There are lots of different ways to get audiobooks for self-learning.
   Audible is great for learning public speaking, sales, and marketing skills
@@ -10,6 +10,17 @@ summary: There are lots of different ways to get audiobooks for self-learning.
   Read feature can help you narrow down what you want to learn more about about
   a topic. Public libraries and public libraries have books that make it easy to
   find the best books to learn about.
+intro: >-
+  So, you’ve decided to take your career into your own hands. You believe
+  in the old adage that knowledge is power and you want to expand your horizons.
+  Self-learning can be daunting at first, but there are a lot of great resources
+  out there – you just need to know where to find them!
+
+  Self-learning can be especially beneficial for those who want to break into a new field or advance their current career by diving deeper into something they’re passionate about.
+
+  But with so many different learning resources available today, it can feel overwhelming when trying to decide how and where you should begin this self-guided journey. 
+
+  Here are some of the best places and ways that you can start learning more about anything from coding to art history…
 ---
 
 ## Audible

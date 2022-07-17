@@ -1,7 +1,7 @@
 ---
 title: How to make healthy eating easier with Meal Planning
 createdAt: 2022-07-07T06:05:41.181Z
-updatedAt: 2022-07-16T16:12:44.256Z
+updatedAt: 2022-07-17T15:00:31.585Z
 category: health
 summary: Eating healthy doesn’t have to be expensive if you know how to shop and
   cook efficiently. Knowing what’s in your pantry and fridge will help you avoid
@@ -10,6 +10,14 @@ summary: Eating healthy doesn’t have to be expensive if you know how to shop a
   can help you stay on track with your healthy eating habits. Rotate your meals
   in advance will allow you to take advantage of your grocery budget. Remember
   that leftovers can be a great way to save money and eat healthier.
+intro: >-
+  Thinking about meal planning sounds like more trouble than it’s worth.
+  And for many people, it feels that way. We all lead such busy lives and
+  between work, school, family obligations, and social activities, it can feel
+  like there’s not enough hours in the day to squeeze in planning and prepping
+  meals. 
+
+  We can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you’re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.
 ---
 
 ## Why meal plan?

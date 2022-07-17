@@ -1,7 +1,7 @@
 ---
 title: '"Imitation of Life" is a thought-provoking drama about race and identity'
 createdAt: 2022-07-08T05:58:05.617Z
-updatedAt: 2022-07-17T07:25:53.917Z
+updatedAt: 2022-07-17T15:00:31.962Z
 category: culture
 summary: Sarah and Nora struggle to find their place in the world with regards
   to their identity. Both women feel that they are betraying their identities
@@ -10,6 +10,18 @@ summary: Sarah and Nora struggle to find their place in the world with regards
   social class is the most important thing about them. In the film, George is
   the son of a rich man, who prefers to keep him in the poorer section of the
   business so he can remain in control.
+intro: >-
+  Released in the year of cinema’s first black Best Actor winner, and with
+  a title referencing a popular Hollywood film about passing as white, Imitation
+  of Life is a thought-provoking melodrama about passing as a marker of
+  authenticity. Rather than any superficial discussion of how many different
+  kinds of people there are or whether one kind is better than another, it is an
+  examination of what it means to be an individual in society by exploring the
+  challenges that arise when one appears to be something they are not. 
+
+  The plot follows the life and loves of two women; poor southern waitress Nora (Lilac) and her daughter Sarah who is being raised by her business-minded father George (Thomas). Nora’s light-skinned daughter falls for local boy Harry (Swayze), who does not know she also has darker blood. Meanwhile, George falls for Vida (Stapleton), a rich blonde socialite who will only marry him if he passes as white. 
+
+  Imitation of Life offers commentary on racial identity, classism and even pansexuality through these characters, providing insight into their experiences and highlighting inequality wherever it exists.
 ---
 
 ## The Importance of Identity

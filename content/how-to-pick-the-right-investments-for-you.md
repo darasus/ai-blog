@@ -1,7 +1,7 @@
 ---
 title: How to pick the right investments for you
 createdAt: 2022-07-07T16:49:07.698Z
-updatedAt: 2022-07-17T05:53:16.691Z
+updatedAt: 2022-07-17T15:00:31.013Z
 category: investing
 summary: The amount of risk you take on will determine the types of investments
   you should be looking into. Diversification is the practice of spreading your
@@ -11,6 +11,15 @@ summary: The amount of risk you take on will determine the types of investments
   uses algorithms to select and manage your investments for you. The more
   investments you spread across, the more likely you are to have a successful
   portfolio.
+intro: >-
+  There are a million different ways to invest your money. Some of them can
+  seem scary and confusing, but investing is one of the best ways to grow your
+  savings—and there are plenty of accessible options that won’t take decades to
+  see a return on your money.
+
+  If you have some money saved and want to get started investing, now is the perfect time to do so. The sooner you begin investing, the more time your investment will have to grow over time. However, many people procrastinate when it comes to their financial future because they think investing is complicated or requires a lot of money upfront. But that doesn’t have to be the case.
+
+  One of the main reasons why many people don’t invest is because they don’t know where to start or are afraid they might make a mistake if they dive in too fast. Luckily, there are several different ways you can get started investing without breaking the bank or feeling overwhelmed by all the information out there.
 ---
 
 ## Assessing your risk tolerance

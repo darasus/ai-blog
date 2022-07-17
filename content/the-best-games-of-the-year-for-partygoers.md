@@ -1,7 +1,7 @@
 ---
 title: The best games of the year for partygoers
 createdAt: 2022-07-08T06:01:47.178Z
-updatedAt: 2022-07-17T07:29:41.207Z
+updatedAt: 2022-07-17T15:00:32.101Z
 category: gaming
 summary: "7 Wonders is a card-based game that requires strategy, careful
   planning, and several hours to finish a full game. Betting is a great way to
@@ -10,6 +10,15 @@ summary: "7 Wonders is a card-based game that requires strategy, careful
   group of non-gamers. Discworld: The Final Frontier is an excellent choice for
   a party since it’s easy to learn and plays quickly. Codenames is a fun game
   that can be played by anyone, regardless of skill level."
+intro: >-
+  New Year’s Eve is a fantastic occasion for bringing people together and
+  having a communal celebration. However, it’s usually either the most awkward
+  party of the year (if you are single) or an excuse to get trashed and make out
+  with someone in a magic hat (if you are coupled-up).
+
+  If you’re looking for something more than just that – but also want to avoid playing another Frozen drinking game – here are some great board games that will allow you and your friends to get in the festive spirit. 
+
+  Whether you have a small group or intend on playing with many more guests, there are plenty of games that will be enjoyable even with a large group of players. These board games all make excellent party games and can be played by anyone regardless of age or skill level.
 ---
 
 ## 7 Wonders

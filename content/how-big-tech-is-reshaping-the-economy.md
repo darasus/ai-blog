@@ -1,7 +1,7 @@
 ---
 title: How big tech is reshaping the economy
 createdAt: 2022-07-08T06:06:13.446Z
-updatedAt: 2022-07-17T07:25:35.828Z
+updatedAt: 2022-07-17T15:00:31.480Z
 category: technology
 summary: "Most big tech companies are hardware companies that sell their
   products and services directly to consumers, not through wholesalers or
@@ -10,6 +10,16 @@ summary: "Most big tech companies are hardware companies that sell their
   economy in three ways: Fast growth creates jobs, boosts R&D spending, and
   generates profits for shareholders. It is investing heavily in new business
   ventures in a variety of sectors from retail to real estate."
+intro: >-
+  Today’s big tech companies are reshaping the economy. They are growing
+  fast, investing heavily, and creating new markets. And they’re doing it in
+  broad sectors of the economy like retail, transportation, real estate, media,
+  and financial services. Big tech is increasingly making things go — rather
+  than just selling them to consumers. 
+
+  And there’s more to come. The rise of big tech signals a structural shift in the economy that will have lasting consequences for many industries and workers. 
+
+  The term “big tech” usually refers to a group of nine tech companies whose market capitalization exceeds $200 billion or has grown rapidly in recent years: Amazon, Apple, Facebook, Google parent Alphabet (the parent company of Google), Netflix, Tesla, Alibaba Group (the parent company of Ali Baba), and Microsoft.
 ---
 
 ## What is big tech?

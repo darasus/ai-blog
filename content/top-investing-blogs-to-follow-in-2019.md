@@ -1,7 +1,7 @@
 ---
 title: Top Investing Blogs to Follow in 2019
 createdAt: 2022-07-17T11:48:18.396Z
-updatedAt: 2022-07-17T11:48:18.396Z
+updatedAt: 2022-07-17T15:00:31.118Z
 category: investing
 summary: Dividend investing is a popular strategy for people who want to make
   money from stocks. The Motley Fool is a website that is focused on investing
@@ -10,6 +10,15 @@ summary: Dividend investing is a popular strategy for people who want to make
   and news that affects the financial markets. The Rich Life blog by
   Wealthsimple is a good resource for young people who are just getting started
   with investing and want a simple, straightforward way of learning the basics.
+intro: >-
+  If you’re interested in learning more about investing, there are a ton of
+  great blogs out there that can help you. These top investing blogs will help
+  keep you up-to-date with the latest information on financial markets as well
+  as tips on how to invest your money to get the best returns. 
+
+  The world of investing can be scary for those who are new to it, but these blog posts can give you some insight into what these professionals are thinking. There are so many options out there when it comes to investing money, and so many ways that money can grow over time.
+
+  These top investing blogs come from a variety of different sources and they all have something unique to offer readers. Whether you’re just getting started as an investor or want to take your knowledge further, these blogs cover lots of ground.
 ---
 
 ## Dividend Investing Blog

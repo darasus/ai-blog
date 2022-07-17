@@ -1,7 +1,7 @@
 ---
 title: Go language for artificial intelligence
 createdAt: 2022-07-09T06:29:19.734Z
-updatedAt: 2022-07-17T07:16:49.840Z
+updatedAt: 2022-07-17T15:00:30.688Z
 category: coding
 summary: Go is a general-purpose programming language that can be used to build
   software for almost all industries, including the AI sector. It is a simple
@@ -12,6 +12,17 @@ summary: Go is a general-purpose programming language that can be used to build
   machine learning libraries to implement and train artificial intelligence
   algorithms. Go is not great for building large-scale distributed systems, but
   it has some limitations.
+intro: >-
+  The artificial intelligence technology is growing rapidly in every
+  sector. Every major organization is looking to adopt AI technology to automate
+  processes, make their business more efficient, and improve their customer
+  experience. However, most of these enterprises struggle with picking the right
+  machine learning tools and frameworks for their AI projects, as there are
+  several options available in the market.
+
+  If you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development. 
+
+  Go is a programming language created by Google and it’s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let’s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.
 ---
 
 ## Why Go is the Right Choice for AI Development?

@@ -1,7 +1,7 @@
 ---
 title: 10 tips for getting a good night's sleep
 createdAt: 2022-07-07T06:05:41.050Z
-updatedAt: 2022-07-16T16:11:25.337Z
+updatedAt: 2022-07-17T15:00:31.556Z
 category: health
 summary: National Sleep Foundation recommend that the average person should
   spend about a third of their lives sleeping. Eating a large meal close to
@@ -10,6 +10,15 @@ summary: National Sleep Foundation recommend that the average person should
   diet all through the day. Don’t drink alcohol to help you fall asleep, but it
   will actually make it harder for you to fall asleep. Exercise during the day -
   not just at night - helps regulate your sleeping pattern.
+intro: >-
+  Getting enough sleep is one of the most important things you can do to
+  take care of yourself. Sleep is when your body and mind repair themselves from
+  the stresses of the day. It’s also when memories are consolidated and mental
+  performance improves. 
+
+  If you aren’t getting enough sleep, you might feel stressed or anxious, find it hard to concentrate or solve problems, and be more prone to memory lapses and minor cognitive errors. Not getting enough sleep can also increase your risk of high blood pressure, diabetes, heart disease, stroke, and obesity. The National Institute of Health reports that adults should get about 7-9 hours of sleep each night for optimum health. 
+
+  Getting a good night’s sleep isn’t always easy. But if you implement these ten tips into your routine you will be on your way to feeling rested and rejuvenated come morning time:
 ---
 
 ## Turn off the screens an hour before bedtime.

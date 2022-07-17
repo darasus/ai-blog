@@ -1,7 +1,7 @@
 ---
 title: Nutrient dense superfoods that improve overall health
 createdAt: 2022-07-09T06:41:50.812Z
-updatedAt: 2022-07-17T06:19:04.530Z
+updatedAt: 2022-07-17T15:00:29.504Z
 category: cooking
 summary: These superfoods are packed with vitamins and minerals, antioxidants,
   and other nutrients that help your body fight off diseases. Eating these foods
@@ -10,6 +10,15 @@ summary: These superfoods are packed with vitamins and minerals, antioxidants,
   eaten as a quick snack. Goji berries are a great source of antioxidants, amino
   acids, and iron. Hemp seeds have been around for hundreds of years, but only
   in the past decade have they become a more popular superfood.
+intro: >-
+  Superfoods are nutrient-dense foods that have a high concentration of
+  disease-fighting vitamins and minerals. They also tend to be high in
+  antioxidants, fiber, and other phytonutrients that help protect your body from
+  free radicals and diseases. These healthy, natural foods can be found in
+  almost any corner of the globe. Many indigenous cultures eat these as staples
+  because of their abundant benefits for the human body. 
+
+  Superfoods generally have impressive quantities of some or many nutrients, such as carotenoids (vitamin A), flavonoids, vitamins C and E, or omega-3 fatty acids (ALA). There are many types of superfoods; here is a list of 20 worth adding to your diet:
 ---
 
 ## Chia Seeds

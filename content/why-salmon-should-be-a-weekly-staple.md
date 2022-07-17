@@ -1,7 +1,7 @@
 ---
 title: Why salmon should be a weekly staple
 createdAt: 2022-07-09T06:38:47.021Z
-updatedAt: 2022-07-17T06:14:53.979Z
+updatedAt: 2022-07-17T15:00:29.370Z
 category: cooking
 summary: Salmon is an excellent source of omega-3 fatty acids, which have been
   shown to reduce the risk of heart disease. Salmon is also a good source of the
@@ -11,6 +11,17 @@ summary: Salmon is an excellent source of omega-3 fatty acids, which have been
   of the daily recommended amount of saturated fat per serving. A healthy diet
   rich in calcium can help you maintain strong bones and lower your risk of
   osteoporosis and fractures.
+intro: Did you grow up believing that eating fish at least once a week is good
+  for you? If so, you’re right! Eating fish has many health benefits, including
+  reducing your risk of heart disease and stroke. Eating fish is also one of the
+  best dietary sources of omega-3 fats, which your body can’t produce on its own
+  and must get from food. These fats have been shown to reduce your risk of
+  heart disease and may even help decrease inflammation and improve joint pain
+  in people who suffer from arthritis. A diet rich in omega-3 fats may also play
+  a role in preventing depression, ADLs (age-related decline in activities of
+  daily living), and Alzheimer’s disease. However, not all types of fish have
+  the same benefits. Here are some reasons why salmon should be a staple part of
+  your diet.
 ---
 
 ## It’s a lean protein source

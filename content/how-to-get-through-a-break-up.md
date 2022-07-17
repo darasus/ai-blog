@@ -1,7 +1,7 @@
 ---
 title: How to get through a break-up
 createdAt: 2022-07-07T06:05:40.438Z
-updatedAt: 2022-07-16T15:00:43.295Z
+updatedAt: 2022-07-17T15:00:29.768Z
 category: life
 summary: There is no question that break-ups can be painful, but there are ways
   to make the process easier. Talking to a trusted friend or family member can
@@ -11,6 +11,15 @@ summary: There is no question that break-ups can be painful, but there are ways
   is one of the best ways to process your emotions after a messy break up. You
   can also reconnect with friends and family to help you put things into
   perspective.
+intro: >-
+  Everyone knows break-ups are tough. Even if you know the relationship is
+  ending, the final moments can still be filled with pain and heartbreak.
+  However, a breakup doesn’t need to be final in every sense of the word. In
+  time, you will recover from your failed relationship and move on with your
+  life. Here are some effective ways to make this happen sooner rather than
+  later.
+
+  If you’ve recently broken up with your partner or dating partner, it can feel like the end of the world. But it’s not! A relationship coming to an end does not mean there is something wrong with you or that you aren’t good enough for anyone or that you will never find love again. Your heart is broken at this moment because you cared deeply about this person - now you just have to understand why and how things went south so that it doesn’t happen again in your future relationships
 ---
 
 ## Talk It Out

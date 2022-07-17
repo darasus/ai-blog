@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog Not to Chew on Household Items
 createdAt: 2022-07-08T06:27:15.424Z
-updatedAt: 2022-07-16T15:37:06.910Z
+updatedAt: 2022-07-17T15:00:29.909Z
 category: life
 summary: There are a few mistakes that dogs owners often make when trying to
   train their dogs not to chew. Before you start training your dog, make sure
@@ -11,6 +11,16 @@ summary: There are a few mistakes that dogs owners often make when trying to
   that he can only chew on his toys on the grass. Teach your dog the “Off”
   command to “off” items that you absolutely don't want your dog to chew on, but
   you might even be tempted to.
+intro: >-
+  Are you ready to give up chewing on household objects? How about your
+  dog? Dogs love to chew. It’s something that comes naturally for them, and
+  there are many things you can buy or make that will help satisfy their natural
+  instincts to chew. But as much as dogs love to have objects that they can gnaw
+  on, it’s not always safe – or advisable – to let them do it in the home. There
+  are plenty of household items that dogs shouldn’t be allowed to chew, because
+  it could lead to potential hazards or unsanitary conditions. 
+
+  Even if your dog has never chewed on inappropriate things before, a new puppy will almost certainly try out things beyond what is safe for him. How you train him from the very beginning will determine how much damage he can do if he goes after something he shouldn’t. So read on and learn how to stop your dog from chewing on anything other than his own toys.
 ---
 
 ## Before You Start Training

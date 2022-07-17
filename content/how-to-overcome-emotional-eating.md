@@ -1,7 +1,7 @@
 ---
 title: How to overcome emotional eating
 createdAt: 2022-07-07T06:05:41.453Z
-updatedAt: 2022-07-16T16:17:32.555Z
+updatedAt: 2022-07-17T15:00:31.668Z
 category: health
 summary: You can start by creating a daily meal ritual that helps you to break
   the cycle of emotional eating and put you in a better mindset for making
@@ -11,6 +11,16 @@ summary: You can start by creating a daily meal ritual that helps you to break
   digestive issues and reduce feelings of anxiety and make it more likely to
   turn to food again when you’re not hungry. Eating slowly can help you to
   savour your food, be more mindful and help prevent overeating.
+intro: >-
+  An emotional eater is someone who regularly overeats in response to
+  stress, anxiety or other negative emotions. Emotional eating can be a positive
+  thing if it’t used occasionally as a coping mechanism that helps us deal with
+  negative feelings. However, it becomes a negative habit when it’t overused to
+  cope with stressors in our lives.
+
+  Emotional eating can be especially common among those suffering from depression or those who have binge-eating disorder. But anyone can be prone to using food as an outlet for stress and other negative emotions, which is why knowing how to overcome emotional eating is so important. 
+
+  If you find yourself regularly turning to food when you’re feeling stressed out or anxious, read on for some useful tips on how to overcome emotional eating and break the cycle of unhealthy habits that may be sabotaging your health and happiness.
 ---
 
 ## Understand The Root Cause Of Your Emotional Eating

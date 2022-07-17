@@ -1,7 +1,7 @@
 ---
 title: Go language for database programming
 createdAt: 2022-07-09T06:30:13.850Z
-updatedAt: 2022-07-17T07:18:01.464Z
+updatedAt: 2022-07-17T15:00:30.701Z
 category: coding
 summary: Go is a programming language that is designed to be simple to use,
   secure, and efficient. It has been used to create applications such as
@@ -11,6 +11,15 @@ summary: Go is a programming language that is designed to be simple to use,
   with Go. The most commonly used databases for Go include Postgres, Oracle,
   Postgres and Oracle. There are few commercial databases with drivers available
   for Go.
+intro: >-
+  There are a number of programming languages available for creating
+  databases. You can create a database using simple file-based formats or you
+  can use more advanced options such as object-oriented database management
+  systems (ODBMS) or graph database management systems. Depending on what type
+  of database you want to create and your specific needs, there is likely an
+  ideal programming language for you.
+
+  The Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go’s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you’d like to learn more about this programming language and whether it’s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.
 ---
 
 ## What is Go?

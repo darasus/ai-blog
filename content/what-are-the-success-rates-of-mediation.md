@@ -1,7 +1,7 @@
 ---
 title: What are the success rates of mediation?
 createdAt: 2022-07-09T06:16:09.401Z
-updatedAt: 2022-07-16T15:51:37.546Z
+updatedAt: 2022-07-17T15:00:30.150Z
 category: life
 summary: Mediation is best used when parties want to resolve their dispute as
   quickly and inexpensively as possible. Mediation involves the participation of
@@ -11,6 +11,14 @@ summary: Mediation is best used when parties want to resolve their dispute as
   listening skills to help the parties clarify their needs, understand each
   other’s view, and reach a mutually satisfying solution. Mediated sessions
   happen informally and may last for just a few hours.
+intro: >-
+  Mediation is a dispute resolution process that involves the participation
+  of a neutral third party called a mediator. The parties to the dispute agree
+  to meet with the mediator and disclose facts, but not argue their case.
+  Instead, the goal is for both sides to listen carefully to what the other has
+  to say and explore possible compromises that are agreeable to both. 
+
+  Mediation can be used at any stage of a dispute, from resolving initial grievances through settlement or arbitration. It can be used instead of litigation when there’s no clear right or wrong side or when it’s more cost-effective than adversarial proceedings. Research shows mediation can also make disputes last much shorter and cheaper than trials, reduce risk of lawsuits being refilled after settlement, and increase the likelihood of reaching an agreement in principle between parties.
 ---
 
 ## What Are The Requirements For Mediation?

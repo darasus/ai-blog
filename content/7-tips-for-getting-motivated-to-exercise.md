@@ -1,7 +1,7 @@
 ---
 title: 7 Tips for Getting Motivated to Exercise
 createdAt: 2022-07-17T11:48:28.204Z
-updatedAt: 2022-07-17T11:48:28.204Z
+updatedAt: 2022-07-17T15:00:31.876Z
 category: health
 summary: Keeping a journal of your workouts is a great way to figure out what
   exercises work for you. Find your exercise “drug” and use it to motivate
@@ -9,6 +9,16 @@ summary: Keeping a journal of your workouts is a great way to figure out what
   Find a running buddy or partner who shares your interests and motivations. Set
   concrete goals to improve your health and fitness levels, but it’s also a goal
   in and of itself. Start small, work up a routine, and go from there.
+intro: >-
+  Exercising is definitely not everyone’s cup of tea. In fact, most of us
+  would rather stay indoors and avoid sweating at all costs. However, if you
+  want to lead a healthy lifestyle, exercising is an essential part of your
+  routine. But with so many excuses for not working out, how do you motivate
+  yourself to exercise? 
+
+  Citizens of the world are becoming lazier by the day. We spend more time watching TV, browsing the Internet, and playing video games than ever before. And it’s no wonder — these activities are incredibly sedentary and don’t exactly burn a lot of calories or leave you feeling very invigorated afterwards. 
+
+  Exercise can be a tricky thing to get motivated for. There might be days where you feel like nothing can get you off the couch and other days when it feels like the best thing in the world — but how do you find that happy medium between being active and a sloth?
 ---
 
 ## Know what works for you

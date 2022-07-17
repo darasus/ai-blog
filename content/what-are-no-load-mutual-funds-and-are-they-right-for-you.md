@@ -1,7 +1,7 @@
 ---
 title: What are no-load mutual funds and are they right for you?
 createdAt: 2022-07-07T16:53:11.164Z
-updatedAt: 2022-07-17T05:55:59.918Z
+updatedAt: 2022-07-17T15:00:31.115Z
 category: investing
 summary: 'A no-load fund is a mutual fund that doesn’t charge a sales fee, known
   as a "load" Front-end loads are usually charged when you purchase the fund,
@@ -10,6 +10,15 @@ summary: 'A no-load fund is a mutual fund that doesn’t charge a sales fee, kno
   The downsides include tax-efficiency, low-maintenance, professional management
   and lack of diversification in your portfolio. The downside: You must be
   willing to research and manage your own investments for signs of risk.'
+intro: >-
+  When you purchase a mutual fund, you typically pay an upfront cost (or
+  load) and annual fees. These are known as "loads" because they reduce your
+  return. A no-load fund has no upfront or hidden costs. These mutual funds have
+  a small initial investment requirement, which may be as little as $50.
+
+  These funds have other characteristics that make them different from those with load fees: No-load mutual funds generally don’t charge commissions or sales fees. They also don't offer special privileges for buying their stock, such as reserved shares or first dibs on new stocks coming public. There are no broker incentives like sales targets or bonus payments for selling certain shares. 
+
+  Keep reading to learn more about no-load mutual funds and whether they might be right for you.
 ---
 
 ## What you should know before buying a no-load fund

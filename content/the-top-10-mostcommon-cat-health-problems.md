@@ -1,7 +1,7 @@
 ---
 title: The Top 10 MostCommon Cat Health Problems
 createdAt: 2022-07-09T06:11:43.842Z
-updatedAt: 2022-07-16T15:41:58.166Z
+updatedAt: 2022-07-17T15:00:29.937Z
 category: life
 summary: Parasites are a very common cat health problem that can affect any
   species of animal. Watch out for signs of parasites like worms in the stool,
@@ -11,6 +11,17 @@ summary: Parasites are a very common cat health problem that can affect any
   change in your cat’s behavior. Feline Virus (FIVIV) is a commonly
   misconsticated disease that can cause kidney failure, diabetes and
   hyperthyroidism.
+intro: >-
+  When you first bring a new cat home, it seems like they’ll stay healthy
+  forever. After all, cats are known for being self-sufficient and able to fend
+  for themselves. They are also quite independent and can often hide any health
+  issues they have until they become quite serious. However, with time and
+  exposure to other cats, as well as the general stressors of everyday life,
+  even the happiest cat is bound to get sick once in a while. 
+
+  Whether your cat has just come home from the adoption center or has been living with you for years, there will come a time when it’s likely that your feline friend won’t feel so great. When this happens, you want to be prepared to take them to the vet immediately. 
+
+  Fortunately, there are many common cat health problems that can be easily avoided or resolved quickly with proper care. Here is our list of the top 10 most common cat health problems:
 ---
 
 ## Parasites

@@ -1,7 +1,7 @@
 ---
 title: "Zcash: The Private Crypto"
 createdAt: 2022-07-07T16:55:30.242Z
-updatedAt: 2022-07-17T07:23:44.156Z
+updatedAt: 2022-07-17T15:00:31.219Z
 category: crypto
 summary: ZCash is a decentralized cryptocurrency that aims to bring
   unprecedented privacy to the world of blockchain and cryptocurrency. ZCash was
@@ -12,6 +12,17 @@ summary: ZCash is a decentralized cryptocurrency that aims to bring
   permission to. Zcash is built on the blockchain provided by Proof of Work
   (PoW), which relies on miners solving complex mathematical problems to add
   transactions to the blockchain.
+intro: >-
+  ZCash is a digital currency that aims to bring unprecedented privacy to
+  the world of blockchain and cryptocurrency. If you’re reading this, you’re
+  likely aware that this is an area ripe with potential, but also rife with
+  risk. Crypto has been dogged by associations with black markets, hackers and
+  scams; as a result, adoption rates have been slow and regulators are keeping a
+  watchful eye on the market.
+
+  If you're interested in investing in ZCash or any other type of cryptocurrency, it’s important for you to understand what makes each token unique. While some tokens may be more profitable than others in the long-term, your own personal investment strategy should be at the forefront when making decisions like these. 
+
+  This blog post aims to provide insight into what makes ZCash stand out from other cryptocurrencies, why some might view that as a positive or negative thing and what implications it could have on its future value.
 ---
 
 ## What is ZCash?

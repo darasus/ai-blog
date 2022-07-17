@@ -1,7 +1,7 @@
 ---
 title: Python - An introduction
 createdAt: 2022-07-09T06:18:46.275Z
-updatedAt: 2022-07-17T06:36:05.078Z
+updatedAt: 2022-07-17T15:00:30.395Z
 category: coding
 summary: Python is a coding language that has been growing in popularity for
   several years. It is an open source programming language, which means that it
@@ -11,6 +11,15 @@ summary: Python is a coding language that has been growing in popularity for
   effort to do so, so try and practice it daily. You can choose from a range of
   Python projects, but we recommend selecting projects that involve creating a
   simple program or application.
+intro: >-
+  Are you looking to break into the world of coding, or perhaps you’re
+  simply curious about the different types of programming languages out there.
+  Whatever your reason for investigating coding, Python is an excellent place to
+  start learning about computer programming and creating your own programs.
+
+  Coding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn’t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn’t feel like a burdensome chore. 
+
+  If you’re ready to begin exploring the wonderful world of Python coding, read on to learn more.
 ---
 
 ## What is Python?

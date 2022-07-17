@@ -1,7 +1,7 @@
 ---
 title: "EOS: The Decentralized Operating System"
 createdAt: 2022-07-07T16:56:13.248Z
-updatedAt: 2022-07-17T07:22:47.222Z
+updatedAt: 2022-07-17T15:00:31.235Z
 category: crypto
 summary: EOS is a blockchain platform that allows developers to build and deploy
   decentralized applications (dApps) The EOS software is open source and
@@ -9,6 +9,13 @@ summary: EOS is a blockchain platform that allows developers to build and deploy
   tokens of the EOS blockchain. The main EOS token is on the Binance exchange
   where you can buy and sell it as much of it as long as you want. The platform
   is currently trading at $5.13 according to CoinMarketCap as of July 13, 2019.
+intro: >-
+  New technology is always built on old foundations, reacting to what came
+  before and building new ideas on top of it. 
+
+  EOS is a new blockchain operating system designed with neglected attributes in mind: speed, scalability, and user experience. It’s the fifth generation of blockchain technology, built to tackle the limitations of previous generations with an end goal of mass adoption.
+
+  EOS is not simply another cryptocurrency—it’s a third-generation blockchain that functions as a decentralized operating system, introducing new concepts and mechanics from software development as a service (SaaS) applications like Salesforce or Google Docs. In this article, we explore exactly what that means for you as an EOS token holder and potential investor.
 ---
 
 ## What is EOS?

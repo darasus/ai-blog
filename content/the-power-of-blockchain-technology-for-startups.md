@@ -1,7 +1,7 @@
 ---
 title: The Power of Blockchain Technology for Startups
 createdAt: 2022-07-07T17:00:50.191Z
-updatedAt: 2022-07-17T07:24:47.883Z
+updatedAt: 2022-07-17T15:00:31.382Z
 category: crypto
 summary: The investment in blockchain technology can be greater than other
   technologies when a business first implements it, but it’s not necessarily
@@ -12,6 +12,14 @@ summary: The investment in blockchain technology can be greater than other
   spread out over the network. However, a hacker is only able to access the data
   on one node on the blockchain, however, if the hacker gains access to 50% of
   the nodes, he/she can access 50% more of the data.
+intro: >-
+  The blockchain is a game-changing technology that has the potential to
+  transform businesses and industries. So, it’s no wonder that startups are
+  eager to leverage this technology and its various uses to their benefit. 
+
+  Moreover, with the growing number of emerging blockchain-based projects and ICOs, it’s evident that the adoption of this technology will only continue to grow in the foreseeable future. 
+
+  However, for many startups, implementing blockchain into new or existing products can seem like a challenging task. As such, there are a lot of myths about the use of blockchain for businesses that we often hear; either because they are believed to be true by many or because these theories make sense on the surface. But do they stand up to scrutiny? Let’s take a look at some of these popular misconceptions surrounding blockchain technology and see if there’s any validity to them:
 ---
 
 ## Blockchain is too expensive to implement.

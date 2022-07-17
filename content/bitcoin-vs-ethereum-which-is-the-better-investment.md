@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin vs. Ethereum: Which is the Better Investment?"
 createdAt: 2022-07-07T16:54:06.276Z
-updatedAt: 2022-07-17T07:22:44.293Z
+updatedAt: 2022-07-17T15:00:31.150Z
 category: crypto
 summary: Bitcoin is a type of “token” that is built on the “proof-of-work”
   network. Meanwhile, the "Eminium" network allows developers to build
@@ -10,6 +10,15 @@ summary: Bitcoin is a type of “token” that is built on the “proof-of-work�
   expected to be released over time. Bitcoin's price has been around since 2009,
   and its price has risen steadily since 2011. Bitcoin’s supply is fixed, which
   means that the token can be exchanged for a wide range of assets.
+intro: >-
+  Both Bitcoin and Ethereum are cryptocurrencies that have grown in
+  popularity, availability, and usefulness over the last few years. Both of
+  these digital assets have also proven to be profitable for investors. But
+  which is the better investment: Bitcoin or Ethereum?
+
+  With so many similarities between these two virtual currencies, it’s easy to see why some may wonder which one is more valuable. After all, both are built on blockchain technology; they are both available as a digital token; and they are both used as payment in some cases.
+
+  However, when we take a deeper look at how these two different types of tokens operate and what sort of potential they have long-term, it becomes clearer which one is likely to be worth more money.
 ---
 
 ## What is Bitcoin?

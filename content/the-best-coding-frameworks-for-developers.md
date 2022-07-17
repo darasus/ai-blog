@@ -1,7 +1,7 @@
 ---
 title: The best coding frameworks for developers
 createdAt: 2022-07-07T06:11:57.138Z
-updatedAt: 2022-07-17T06:31:13.596Z
+updatedAt: 2022-07-17T15:00:30.256Z
 category: coding
 summary: A coding framework is a library of pre-written code designed to assist
   developers in meeting multiple demands, including ease of use, efficiency, and
@@ -11,6 +11,12 @@ summary: A coding framework is a library of pre-written code designed to assist
   can use frameworks to create apps, build websites, and create software
   systems. Each coding framework has its own strengths and can be difficult to
   choose, so make sure you select the correct version for your project.
+intro: >-
+  Today’s app developers face intense pressure to develop high-quality
+  products that meet multiple user needs in the shortest amount of time and with
+  the fewest resources possible. 
+
+  The solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you’re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.
 ---
 
 ## What Is a Coding Framework?

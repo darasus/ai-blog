@@ -1,7 +1,7 @@
 ---
 title: 10 ways to increase your productivity
 createdAt: 2022-07-07T06:05:40.599Z
-updatedAt: 2022-07-16T15:58:21.424Z
+updatedAt: 2022-07-17T15:00:30.846Z
 category: business
 summary: The most important thing you can do to boost your productivity is to
   plan your day the night before. Don’t multitask — focus on one thing at a
@@ -10,6 +10,15 @@ summary: The most important thing you can do to boost your productivity is to
   headphones to block out distractions while working in busy rooms. Find a quiet
   room away from the hustle and bustle of life to create a healthy, productive
   environment and collaborate with your colleagues.
+intro: >-
+  Productivity is a measure of how much you achieve in a given time period.
+  If you can consistently and measurably increase your productivity, that means
+  you are getting more work done in the same amount of time. It may sound like
+  an unimportant concept to focus on, but the benefits of having high
+  productivity are clear: You produce more results and have more free time to do
+  other things you enjoy. 
+
+  If you’re constantly busy but don’t feel like you’re productive, it might be because your workload is too heavy or because your workflow isn’t optimized for peak performance. Luckily, there are plenty of ways to improve your productivity that are fairly easy to implement. Try these 10 tips to increase your productivity at work, home and everywhere in between!
 ---
 
 ## Plan your day the night before

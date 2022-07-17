@@ -1,7 +1,7 @@
 ---
 title: The best coding tools for developers
 createdAt: 2022-07-07T06:11:43.527Z
-updatedAt: 2022-07-17T06:31:12.951Z
+updatedAt: 2022-07-17T15:00:30.255Z
 category: coding
 summary: The first thing that every developer should know about is the
   importance of using a code editor. The goal of each is to help developers
@@ -11,6 +11,15 @@ summary: The first thing that every developer should know about is the
   Version control is a method of tracking and managing changes to code over
   time. The key to success when using version control is to make sure that you
   know how to use it properly.
+intro: >-
+  Developers do a lot of work. As with any job, coders have to balance the
+  amount of time spent coding as well as the quality and efficiency of that
+  coding. It is an ongoing challenge to stay organized and productive throughout
+  the day. The good news is that there are many tools out there that make the
+  lives of developers easier. These tools make tasks like code organization,
+  file sharing, debugging, and testing much simpler. 
+
+  Coding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let’s take a look at some of the best coding tools that every developer should know about!
 ---
 
 ## Code Editors

@@ -1,7 +1,7 @@
 ---
 title: How Self-Learning Can Help You Advance Your Career
 createdAt: 2022-07-09T06:35:29.282Z
-updatedAt: 2022-07-17T07:28:40.505Z
+updatedAt: 2022-07-17T15:00:32.207Z
 category: productivity
 summary: Self-learning can help you to improve your skill set, build a new
   career path, advance your career, or maintain professional certifications that
@@ -10,6 +10,15 @@ summary: Self-learning can help you to improve your skill set, build a new
   database of free classes and tutorials on a wide variety of topics — from
   coding to yoga. You can also use online courses, articles, and books that help
   you learn everything you need to know to excel in your new role.
+intro: >-
+  The modern worker is constantly adapting to new challenges in their
+  career, be it from changing responsibilities or switching job functions. There
+  are so many ways to learn and grow within your career — especially with the
+  help of technology.
+
+  Self-learning means different things to different people, but the general idea is that you’re able to learn something without relying on someone else teaching you or attending a formal class. 
+
+  It’s incredibly empowering to know that you can teach yourself practically anything at any time that suits you. The world of self-learning has opened up a lot of opportunities for anyone who wants to advance their career, get back into the workforce after taking time off, or simply explore new hobbies. Here are some tips on how self-learning can help you advance your career.
 ---
 
 ## Organise Your Learning

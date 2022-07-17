@@ -1,7 +1,7 @@
 ---
 title: How Blockchain Technology Can Improve Your Business
 createdAt: 2022-07-07T16:57:07.309Z
-updatedAt: 2022-07-17T07:23:28.306Z
+updatedAt: 2022-07-17T15:00:31.263Z
 category: crypto
 summary: A blockchain is a decentralized and distributed ledger that keeps track
   of transactions between parties. It’s a secure database because it isn’t kept
@@ -12,6 +12,18 @@ summary: A blockchain is a decentralized and distributed ledger that keeps track
   involved. When applied to supply chain management, blockchain technology can
   be used to track the movement of goods from suppliers, through the production
   process to the final customer.
+intro: The world of business is changing at a rapid pace, thanks to innovations
+  in technology and a growing digital presence. From e-commerce platforms to
+  social media, websites and apps, businesses can now market their services
+  digitally to potential customers around the globe — while also connecting with
+  vendors and partners virtually rather than in person.The emergence of
+  blockchain technology as an accessible way to keep track of these kinds of
+  interactions has led to its adoption in various industries. Blockchain for
+  business isn’t just about cryptocurrency like Bitcoin or Ethereum; it’s a way
+  to decentralize information so that it’s not stored in one place but instead
+  on many computers simultaneously. Understanding how blockchain technology can
+  improve your business requires knowing what blockchain is, how it works and
+  its potential applications — both current and future.
 ---
 
 ## What is Blockchain Technology?

@@ -1,7 +1,7 @@
 ---
 title: "Apple's iPhone addiction: How the tech giant's products keep us hooked"
 createdAt: 2022-07-08T06:04:46.582Z
-updatedAt: 2022-07-17T07:24:41.364Z
+updatedAt: 2022-07-17T15:00:31.445Z
 category: technology
 summary: The iPhone is the backbone of Apple’s services business. It generates
   massive amounts of revenue for the company and is an essential part of its
@@ -10,6 +10,14 @@ summary: The iPhone is the backbone of Apple’s services business. It generates
   stream. If the iPhone turns out to be a dud, Apple may have a serious problem
   on its hands. The company's executives have been talking up their flagship
   product so much that it almost seems like an unhealthy obsession.
+intro: >-
+  In its earnings call for the third quarter of 2018, Apple mentioned the
+  word “iPhone” more than 50 times. It was by far the most frequently discussed
+  topic on the earnings call — even more so than China and tariffs. 
+
+  Nearly everything Apple discussed on that call revolved around iPhone: When asked about concerns over weakness in Greater China, Apple execs responded by talking about how they were bullish on iPhone sales there long term. When asked about tariffs and their impact on prices, Apple executives again pivoted to discussing how much they loved iPhone and what a great product it was for customers.
+
+  That may sound weird for a company that makes a range of other products, but when you look at how much emphasis Apple has placed on its flagship smartphone in recent years, it starts to make sense. Let’s take a closer look at exactly how much power Apple has vested in its iPhone franchise…
 ---
 
 ## iPhone: A brief history

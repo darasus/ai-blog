@@ -1,7 +1,7 @@
 ---
 title: The best plant-based foods for optimal health
 createdAt: 2022-07-07T06:05:41.137Z
-updatedAt: 2022-07-16T16:12:04.323Z
+updatedAt: 2022-07-17T15:00:31.563Z
 category: health
 summary: A plant-based diet is any diet that emphasizes plants as the main
   source of nutrients. This can be achieved through a variety of ways, such as
@@ -10,6 +10,15 @@ summary: A plant-based diet is any diet that emphasizes plants as the main
   weight. Eating a diet rich in fiber, antioxidants, vitamins, and minerals can
   help to prevent chronic diseases, optimize your immune health, improve your
   mood, and improve your cognitive function.
+intro: >-
+  With so much conflicting information floating around the internet, it can
+  be hard to know exactly what we should and shouldn’t be eating. Thankfully,
+  there are plenty of scientific experts out there who have dedicated their
+  careers to researching the impact of food on our bodies.
+
+  Reducing the intake of animal products is one of the most effective ways to improve your health. There is strong evidence to suggest that a plant-based diet can reduce your risk for developing a variety of chronic diseases as well as increase your lifespan. The World Health Organization recommends an enhanced vegetarian diet (>200 g fruits and vegetables per day) with an abundance of plant-based foods for optimal health, disease prevention, and longevity.
+
+  In this blog post, you will learn about the benefits of a plant-based diet and which foods you should be adding into your diet if you want to optimize your health.
 ---
 
 ## What is a Plant-Based Diet?

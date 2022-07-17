@@ -1,7 +1,7 @@
 ---
 title: "\"A-Trak's 'In My Feelings' Is a Summer Bop You Need in Your Life\""
 createdAt: 2022-07-08T05:58:32.429Z
-updatedAt: 2022-07-17T07:26:11.774Z
+updatedAt: 2022-07-17T15:00:31.975Z
 category: culture
 summary: A-Trak's latest track, "In My Feelings," is a catchy pop tune about the
   feelings we get when love is in the air. It features vocals from Santigold and
@@ -9,6 +9,14 @@ summary: A-Trak's latest track, "In My Feelings," is a catchy pop tune about the
   tropical vibe of the track is a perfect fit for the Caribbean, a region that
   has inspired many a track. It's the perfect song to enjoy with a date of your
   own or with someone you're hoping to meet.
+intro: >-
+  A-Trak is back with something new. The Canadian DJ has been filling our
+  ears with dope beats for over 20 years, from his early days as a member of the
+  punk band Hellfyre Club to his most recent gig as global ambassador for
+  Reebok. But his latest release might be his catchiest track yet, one that he
+  worked on last year during a summer trip to Greece. 
+
+  A-Trak's latest song, "In My Feelings," is a catchy pop tune about the feelings we get when love is in the air. Featuring vocals from Santigold and collaborator AFEND, it's an upbeat track with a cool island vibe — perfect for listening while cruising down the coast or spending time on the beach. Listen below and read on to see what inspired A-Trak to create this summer jam.
 ---
 
 ## Why we're so obsessed with Drake's 'In My Feelings' right now

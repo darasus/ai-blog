@@ -1,7 +1,7 @@
 ---
 title: How to make your home a haven
 createdAt: 2022-07-07T06:05:41.072Z
-updatedAt: 2022-07-16T16:11:48.297Z
+updatedAt: 2022-07-17T15:00:31.558Z
 category: health
 summary: You deserve a home that makes you feel at ease, so take the time to
   really think about how you want your home to look and feel. Be sure to be
@@ -11,6 +11,16 @@ summary: You deserve a home that makes you feel at ease, so take the time to
   your home, or a more neutral color scheme. Wallpaper can be a great way to add
   some color and personality to your walls, whilst also protecting them from
   bumps and scrapes.
+intro: Creating a home is something that we all strive to achieve. For most,
+  this is somewhere to relax and unwind after a hard day’s work. It also needs
+  to be somewhere that feels safe, somewhere where we can shut out the troubles
+  of the world and just be ourselves. Creating a home is no easy feat though,
+  especially when you consider all the things you need to consider from
+  furnishing, decorating and creating spaces that feel like ours. That being
+  said, creating your perfect home doesn’t have to be as difficult as it sounds.
+  There are plenty of ways in which you can make your home your own personal
+  haven. Below are some tips on how you can transform your home into your very
+  own haven...
 ---
 
 ## Decorating Your Home

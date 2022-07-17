@@ -1,7 +1,7 @@
 ---
 title: How to resolve conflicts through mediation
 createdAt: 2022-07-09T06:13:03.747Z
-updatedAt: 2022-07-16T15:48:05.451Z
+updatedAt: 2022-07-17T15:00:30.029Z
 category: life
 summary: Mediation is a collaborative process where a neutral third party helps
   two disputants (or opposing parties) reach a mutually agreeable solution to
@@ -11,6 +11,14 @@ summary: Mediation is a collaborative process where a neutral third party helps
   track and understand each other's point of view, so they can agree on a
   solution that works for both sides. The right environment can make a big
   difference in terms of how productive mediation is.
+intro: >-
+  Mediation is a process in which an impartial third party helps two people
+  resolve their differences and reach an equitable solution to their conflict.
+  The mediator doesn’t take sides, but instead helps both parties understand
+  each other’s point of view. This way, the disputants can agree on a fair
+  outcome and put an end to their disagreements.
+
+  If you are part of an organization that is going through a lot of conflict right now (or any time soon), mediation might be a good solution for reducing tensions, smoothing things over and getting everyone back on track. Here we’ll explain what mediation is, why it works so well for resolving conflicts and how you can initiate it in your organization.
 ---
 
 ## What is Mediation?

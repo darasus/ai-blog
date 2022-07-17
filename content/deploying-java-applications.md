@@ -1,7 +1,7 @@
 ---
 title: Deploying Java applications
 createdAt: 2022-07-09T06:27:40.701Z
-updatedAt: 2022-07-17T07:15:20.956Z
+updatedAt: 2022-07-17T15:00:30.614Z
 category: coding
 summary: A staging environment is a replica of your production environment to
   test your software before you make it available to your users. Staging
@@ -12,6 +12,16 @@ summary: A staging environment is a replica of your production environment to
   kits and tools like Gradle, Maven, and Jenkins. Java applications excel at
   handling real-world problems and are widely used for enterprise-level
   applications and websites.
+intro: >-
+  Today’s enterprises demand more from their software. They demand that it
+  must be fast, secure, and scalable to support current and future users. They
+  also need deployment to be convenient, efficient, and fully automated.
+
+  With all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.
+
+  There are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don’t have services like StatsD, Datadog and Prometheus installed on your servers.
+
+  In this blog post we take a look at several different ways you can deploy Java applications.
 ---
 
 ## Manual Processes

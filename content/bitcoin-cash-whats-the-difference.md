@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Cash: What's the difference?"
 createdAt: 2022-07-07T16:54:17.335Z
-updatedAt: 2022-07-17T07:22:42.208Z
+updatedAt: 2022-07-17T15:00:31.161Z
 category: crypto
 summary: Bitcoin is a type of digital currency that can be “mined” by computers.
   Bitcoin has been criticized for its slow transaction times and high
@@ -10,6 +10,14 @@ summary: Bitcoin is a type of digital currency that can be “mined” by comput
   network is significantly larger than that of Bitcoin Cash. The main difference
   between the two currencies is their scalability. Bitcoin Cash is able to
   process a larger number of transactions per second than Bitcoin.
+intro: >-
+  The cryptocurrency world is growing fast, and there are so many different
+  digital tokens out there that it's becoming increasingly difficult for a new
+  investor to know where to start. 
+
+  Not all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).
+
+  But which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let’s take a look at two of the most popular alternative digital currencies and see what sets them apart.
 ---
 
 ## What is Bitcoin Cash?

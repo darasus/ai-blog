@@ -1,7 +1,7 @@
 ---
 title: Could veganism be the answer to climate change?
 createdAt: 2022-07-09T06:41:23.673Z
-updatedAt: 2022-07-17T06:19:00.483Z
+updatedAt: 2022-07-17T15:00:29.502Z
 category: cooking
 summary: Veganism is a lifestyle that seeks to exclude all forms of exploitation
   of, and cruelty to, the environment, animals, and humans. Vegans have a
@@ -10,6 +10,18 @@ summary: Veganism is a lifestyle that seeks to exclude all forms of exploitation
   planet as we know it. The damage caused by climate change is irreversible;
   it’s something that we can’t adapt to or recover from. Some would argue that
   veganism does more harm than good to the environment.
+intro: >-
+  Today, more than ever before, people are starting to take responsibility
+  for their actions as individuals and as a society. The phenomenon of social
+  consciousness is becoming more apparent and accessible to everyone, and it’s
+  now easier than ever to understand the ethical and environmental implications
+  of our actions.
+
+  Even though most people are now aware of the role that climate change plays in destroying the planet and reducing its biodiversity, very few are taking actionable steps to reduce their carbon footprint by reducing waste and using cleaner energy. In addition to this, there is no singular answer or solution to reversing the effects of pollution on our home planet; rather, it will require an amalgamation of many different initiatives working together simultaneously.
+
+  One such initiative is veganism. A plant-based diet has a number of positive benefits on the environment — mainly because raising livestock produces a substantial amount of greenhouse gas emissions. If we all stopped eating meat it would have a huge effect on carbon dioxide levels, deforestation rates, and natural water courses.
+
+  As you’ll discover from reading this article, veganism could be the answer to climate change; however, there are also some drawbacks. This article explores all angles so that you can make an informed decision whether you’d like to become vegan or not.
 ---
 
 ## What Is Veganism?

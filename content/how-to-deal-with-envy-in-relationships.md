@@ -1,7 +1,7 @@
 ---
 title: How to deal with envy in relationships
 createdAt: 2022-07-08T06:22:56.401Z
-updatedAt: 2022-07-16T15:06:12.178Z
+updatedAt: 2022-07-17T15:00:29.774Z
 category: life
 summary: Envy is one of the seven deadly sins, along with greed, lust, sloth,
   pride, gluttony and anger. Envy can arise from a variety of situations. It can
@@ -10,6 +10,15 @@ summary: Envy is one of the seven deadly sins, along with greed, lust, sloth,
   might want to go back to school to get a degree in something you’ve always
   wanted to study. If your partner is the cause of your envy, there are a few
   things that you should do.
+intro: >-
+  Being in a new relationship is exciting and often feels like a whirlwind.
+  You spend time getting to know each other and spending time together as much
+  as possible. But things can change once you enter a committed relationship or
+  get married. Stressors from work, family, friends and other responsibilities
+  may arise, putting stress on your relationship. This is when green-eyed
+  monster envy creeps in and can have a negative impact on your partner. 
+
+  There are many different types of relationships: friendships, casual dating or serious partners. Regardless of what type of relationships you have with another person, envy probably won’t be far behind if they are important to you. Envy is one of the seven deadly sins for good reason. When we experience envy in a relationship it creates distrust, resentment and can ultimately end things prematurely before they even really begin. However, there are ways to deal with this feeling so that it doesn’t get the better of you.
 ---
 
 ## What Is Envy?

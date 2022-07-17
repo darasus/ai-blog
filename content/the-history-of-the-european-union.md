@@ -1,7 +1,7 @@
 ---
 title: The History of the European Union
 createdAt: 2022-07-07T06:16:28.201Z
-updatedAt: 2022-07-17T05:49:14.545Z
+updatedAt: 2022-07-17T15:00:29.659Z
 category: politics
 summary: "The European Economic Community (EEC) was established with the signing
   of the Treaty of Rome (1957) by France, Italy, Belgium, the Netherlands, and
@@ -10,6 +10,18 @@ summary: "The European Economic Community (EEC) was established with the signing
   supranational organization in the world to have its own currency: the euro. To
   date, 19 EU member states have adopted the euro as the single currency of the
   EU."
+intro: >-
+  The European Union is a unique hybrid of intergovernmental and
+  supra-national institutions. Its origins lie in post-war cooperation between
+  governments centered on trade and the goal of a more peaceful, prosperous and
+  stable Europe. The EU has developed into a dynamic union with its own legal
+  personality, institutions and policies covering many areas such as: foreign
+  policy, competition policy, education, justice, agriculture and fisheries,
+  health services and research. This article explores the history of the
+  European Union and its continuing evolution as an ambitious supra-national
+  organization with global ambitions to become "a League of Nations." 
+
+  The European Union (EU) is an unique hybrid of intergovernmental and supra-national institutions. Its origins lie in post-war cooperation between governments centered on trade and the goal of a more peaceful, prosperous and stable Europe. The EU has developed into a dynamic union with its own legal personality, institutions and policies covering many areas such as: foreign policy, competition policy, education, justice, agriculture and fisheries, health services and research.
 ---
 
 ## Origins of EU Cooperation

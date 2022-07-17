@@ -1,7 +1,7 @@
 ---
 title: "\"Death Cab for Cutie's 'Thank You for Today' is a Delight\""
 createdAt: 2022-07-08T05:59:22.386Z
-updatedAt: 2022-07-17T07:26:35.203Z
+updatedAt: 2022-07-17T15:00:31.987Z
 category: culture
 summary: New Again is a synth-heavy throwback to the 80s pop era with a modern
   twist from lead singer and songwriter Ben Gibbard. Good Help is Hard to Find
@@ -9,6 +9,17 @@ summary: New Again is a synth-heavy throwback to the 80s pop era with a modern
   relationship. The album’s themes are family, the passing of loved ones, and
   appreciation for the loved ones we still have. It is great to see the band
   experimenting with new sounds and embracing their growth as musicians.
+intro: >-
+  Death Cab for Cutie has always defied labels. Their music defies genres,
+  too. The band’s ninth studio album, Thank You for Today, is no different.
+  Featuring 11 tracks in total, the album is a refreshing and unanticipated
+  listen.
+
+  This is not the same old Death Cab we all know and love. Lead singer and songwriter Ben Gibbard experiments with new sounds on this album. The opening track “New Again” is a synth-heavy throwback to the 80s pop era with a modern twist from lead singer and songwriter Ben Gibbard.
+
+  The second track “Northern Lights” takes us back to the indie rock sounds of Death Cab For Cutie that we know and love. This time, it has a small hint of country twang! 
+
+  In case you missed it: DCCF’s previous albums were known for their experimental sounds that strayed away from the usual indie rock we all know them for. The band’s eighth studio album, Transatlanticism (read our review of Transatlanticism here), featured experimental jazz songs like “Tiny Vessels” and “A Lack of Transparency”; their tenth studio album, Kintsugi (read our review of Kintsugi here), was largely made up of acoustic songs like “You above All Else” and “Everything’s Alright Forever”; and their eleventh studio album, Thank You For
 ---
 
 ## New Again

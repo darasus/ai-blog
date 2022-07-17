@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Private: The Privacy-Focused Bitcoin"
 createdAt: 2022-07-07T16:56:40.061Z
-updatedAt: 2022-07-17T07:22:54.427Z
+updatedAt: 2022-07-17T15:00:31.237Z
 category: crypto
 summary: Bitcoin Private is a decentralized peer-to-peer cryptocurrency that
   allows direct payments between two parties, private and secure, without the
@@ -11,6 +11,17 @@ summary: Bitcoin Private is a decentralized peer-to-peer cryptocurrency that
   ZClassic holders and gave them 1 BTCP for every 1 BTC and ZCL they held when
   the snapshot was taken. Bitcoin’s privacy issues are rooted in its scalability
   issues.
+intro: >-
+  Bitcoin has grown from a small network of geeks into the world’s leading
+  cryptocurrency. With a market capitalization of over $115 billion, Bitcoin has
+  come a long way. But it is not without its problems. The prevalence of
+  centralized exchanges and custodial services, as well as recent price
+  manipulation, have raised serious trust issues among users and potential users
+  of the virtual currency. 
+
+  Moreover, with institutions, governments and individuals increasingly recognizing the value of digital tokens, crypto-anarchists are becoming concerned that Bitcoin may not be sufficiently anonymous to protect against intrusion from authorities or intermediaries (e.g., exchanges and data brokers). This has led to an increase in demand for privacy-focused cryptocurrencies— known as ‘privacy coins’— like ZCash, Dash and Monero. 
+
+  Thankfully, there is also a solution within this problem: Bitcoin Private (BTCP).
 ---
 
 ## What is Bitcoin Private?

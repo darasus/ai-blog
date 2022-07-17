@@ -1,7 +1,7 @@
 ---
 title: The most popular coding languages
 createdAt: 2022-07-07T06:10:22.897Z
-updatedAt: 2022-07-17T06:29:43.267Z
+updatedAt: 2022-07-17T15:00:30.199Z
 category: coding
 summary: According to a report from the Cloud Native Computing Foundation, Java
   is one of the most popular programming languages to build cloud-computing
@@ -11,6 +11,14 @@ summary: According to a report from the Cloud Native Computing Foundation, Java
   by a group of engineers at a company called JetBrains in St. Petersburg,
   Russia. Android is also a growing language in the world of software
   development.
+intro: >-
+  Coding is a hot job right now and will continue to be so for the
+  foreseeable future. The demand for coders is growing, and not just in tech
+  companies. Companies of all types need programmers with different coding
+  skills to build their software and websites, which means that coders can find
+  jobs anywhere. 
+
+  Coding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there – from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...
 ---
 
 ## Java

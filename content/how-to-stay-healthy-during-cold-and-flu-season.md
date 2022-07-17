@@ -1,7 +1,7 @@
 ---
 title: How to stay healthy during cold and flu season
 createdAt: 2022-07-07T06:05:40.802Z
-updatedAt: 2022-07-16T16:09:53.663Z
+updatedAt: 2022-07-17T15:00:31.496Z
 category: health
 summary: Flu and cold viruses are sneaky and will use your body's defenses
   against you. Drinking water out of a straw ensures that you're staying
@@ -10,6 +10,15 @@ summary: Flu and cold viruses are sneaky and will use your body's defenses
   at bay include vitamins C, Eotot, zinc, zinc and iron. Washing your hands
   frequently and avoiding touching your face as much as possible. Getting enough
   sleep can help boost your immunity and your ability to fight off infections.
+intro: >-
+  Getting the flu or a cold is inevitable. In fact, you could get sick
+  around this time every year without fail. The only thing you can do is take
+  precautions and try to avoid catching a bug in the first place. However, even
+  with good intentions and best efforts, the odds are stacked against you. These
+  viruses are so common that virtually everyone has been exposed to them at some
+  point in their lives, generally during childhood. 
+
+  Thankfully there are ways to reduce your risk of contracting these viruses and being able to recover quickly if they manage to sneak through your defenses. Cold and flu season brings with it stressors like school, work, family obligations and end-of-year deadlines—not exactly ideal conditions for keeping your immune system strong!
 ---
 
 ## Stay hydrated

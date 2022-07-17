@@ -1,7 +1,7 @@
 ---
 title: 30 easy and healthy dinner recipes
 createdAt: 2022-07-07T06:05:39.702Z
-updatedAt: 2022-07-17T07:46:28.978Z
+updatedAt: 2022-07-17T15:00:29.176Z
 category: cooking
 summary: A vegetable-based diet is key to healthy living. Vegetables are low in
   fat and have few calories, yet they are high in fibre. People often assume
@@ -9,6 +9,14 @@ summary: A vegetable-based diet is key to healthy living. Vegetables are low in
   high in carbohydrates, which can be a good or bad thing depending on your diet
   and lifestyle. These recipes are easy to put together with ingredients you
   probably have in your kitchen, especially if you have a well-stocked pantry.
+intro: >-
+  Are there ever enough nights in the week to fit in all your
+  responsibilities? If you’re like most people, probably not. That leaves
+  finding time to make a healthy dinner a challenge. Fortunately, these quick
+  and easy healthy dinner recipes will help you get through the week without
+  stopping at a fast food drive-thru or breaking the bank on takeout again. 
+
+  These easy and healthy dinner ideas can be ready in as little as 30 minutes and cost no more than $10 per serving. That means they’re cheap, fast, and nutritious -- an unbeatable combination. Whether you’re after a one-pot supper, something for leftovers, or simple salads that can be quickly thrown together, we have you covered with these fantastic affordable and wholesome recipes.
 ---
 
 ## A vegetable-based diet is key to healthy living

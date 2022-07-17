@@ -1,7 +1,7 @@
 ---
 title: How to improve your coding skills
 createdAt: 2022-07-07T06:12:48.039Z
-updatedAt: 2022-07-17T06:32:02.283Z
+updatedAt: 2022-07-17T15:00:30.269Z
 category: coding
 summary: If you’re just starting out in the world of coding, it’s important to
   first get a handle on the basics. This includes basic programming language
@@ -10,6 +10,14 @@ summary: If you’re just starting out in the world of coding, it’s important 
   the basics of coding. Read and listen to articles, podcasts, books, and other
   resources designed to help you learn more about coding. Take online courses
   and participate in coding competitions.
+intro: >-
+  Whether you’ve just started in the field of coding or are just looking to
+  brush up on your skills, it can be a challenging and fast-growing field. New
+  innovations in technology arise all the time, making it so that one must stay
+  on top of their game to keep up. That being said, there are many different
+  ways to improve your coding skills. 
+
+  Coding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don’t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.
 ---
 
 ## Get to know the basics.

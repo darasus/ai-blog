@@ -1,7 +1,7 @@
 ---
 title: The Truth About carbs - good and bad
 createdAt: 2022-07-09T06:38:13.229Z
-updatedAt: 2022-07-17T06:04:39.823Z
+updatedAt: 2022-07-17T15:00:29.352Z
 category: cooking
 summary: Carbohydrates are one of the three macronutrients essential for human
   life. They’re found in starchy foods like bread, pasta, rice and potatoes. The
@@ -11,6 +11,16 @@ summary: Carbohydrates are one of the three macronutrients essential for human
   diabetes and heart disease, as well as bad breath and dental problems. The
   best sources of carbohydrates are fresh fruits and vegetables, whole grains,
   legumes, and nuts and seeds.
+intro: >-
+  High-carb foods such as pasta, potatoes and bread have long had a bad
+  reputation for making you fat. That’s because carbohydrates are a source of
+  sugars known as “simple carbs” (also called digestible or digestible natural
+  sugars). These simple carbs are quickly broken down by the body and raise your
+  blood sugar level quickly. 
+
+  If you consume more than 20g of carbohydrate per day, that’s considered high intake. High intake of carbohydrates can lead to an excess production of glycogen in the liver, which is converted to fat and stored in adipose tissue, particularly around the belly. Once these fats reach dangerous levels they trigger the production of stress hormones like cortisol which has been linked to insulin resistance, high cholesterol, obesity and fatty liver disease. 
+
+  However, not all carbs are bad for you – in fact some types are essential for good health. Here’s how to tell the difference...
 ---
 
 ## Good carbs vs bad carbs

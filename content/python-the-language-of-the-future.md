@@ -1,7 +1,7 @@
 ---
 title: Python - The language of the future
 createdAt: 2022-07-09T06:18:38.179Z
-updatedAt: 2022-07-17T06:36:02.133Z
+updatedAt: 2022-07-17T15:00:30.390Z
 category: coding
 summary: Python is the most popular programming language used in Data Science
   and Machine Learning. It is easy to learn, easy to read, and very versatile.
@@ -11,6 +11,13 @@ summary: Python is the most popular programming language used in Data Science
   is to learn the basics, then move on to the different data types, control
   flow, and functions and methods. Online courses and coding bootcamps are the
   best places to learn Python.
+intro: >-
+  The programming industry is changing rapidly. New languages keep popping
+  up and old ones go out of fashion faster than ever before. But Python remains
+  one of the most popular programming languages in the world, and its popularity
+  shows no signs of slowing down any time soon. 
+
+  If you’re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it’s so popular right now, and how you can get started learning it too.
 ---
 
 ## What is Python?

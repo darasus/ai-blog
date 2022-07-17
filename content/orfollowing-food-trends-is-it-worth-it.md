@@ -1,7 +1,7 @@
 ---
 title: "|Following food trends - is it worth it?"
 createdAt: 2022-07-09T06:41:08.008Z
-updatedAt: 2022-07-17T06:19:04.356Z
+updatedAt: 2022-07-17T15:00:29.501Z
 category: cooking
 summary: Food and beverage companies will typically follow trends closely as a
   way to better understand consumer tastes and preferences. Trend tracking
@@ -12,6 +12,14 @@ summary: Food and beverage companies will typically follow trends closely as a
   know when you should hold the bag on a trend is to look at how customers
   respond to it. If you’re following food trends, you might find yourself adding
   a couple of new menu items every month.
+intro: >-
+  Food trends seem to come and go with dizzying speed. What’s hot today
+  could be yesterday’s news tomorrow. But whether you follow food trends or not,
+  your customers will expect you to stay on top of what’s currently in vogue. So
+  how should you deal with food trends? Do we follow them? Ignore them? Or just
+  give them a lukewarm response?
+
+  Follow food trends if it makes sense for your business, and use them as a way to stay ahead of competitors and gain new customers. Following trends gives your business an opportunity to attract new customers by keeping your place relevant with the latest tastes and preferences. At the same time, ignoring popular foods can also be risky as that can alienate potential patrons who are looking for those options when they come to dine at your establishment.
 ---
 
 ## Understanding Food Trends

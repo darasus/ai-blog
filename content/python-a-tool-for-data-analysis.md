@@ -1,7 +1,7 @@
 ---
 title: Python - A tool for data analysis
 createdAt: 2022-07-09T06:18:57.232Z
-updatedAt: 2022-07-17T06:48:55.689Z
+updatedAt: 2022-07-17T15:00:30.403Z
 category: coding
 summary: Python is a general-purpose programming language that is commonly used
   for data analysis. It has an extensive library for data manipulation, allowing
@@ -10,6 +10,13 @@ summary: Python is a general-purpose programming language that is commonly used
   data and find any hidden trends or anomalies. While Python is ideal for data.
   analysis, it’s not great for other tasks such as website development. Python
   is also quite slow, so it takes longer to execute tasks than other languages.
+intro: >-
+  Data analysis is a crucial element of many fields today. With data being
+  collected from all sources, businesses need to use the data effectively in
+  order to drive their company forward. Organizations are turning to data
+  analysis software to process and understand the information they have stored. 
+
+  Analyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we’ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.
 ---
 
 ## What is Python?

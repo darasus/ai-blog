@@ -1,7 +1,7 @@
 ---
 title: How to make a long-distance relationship work
 createdAt: 2022-07-08T06:23:21.763Z
-updatedAt: 2022-07-16T15:08:36.181Z
+updatedAt: 2022-07-17T15:00:29.787Z
 category: life
 summary: The more you talk, the better you’ll be able to understand each other
   and deal with any issues that arise. The best way to stay in touch is to set a
@@ -11,6 +11,13 @@ summary: The more you talk, the better you’ll be able to understand each other
   making sure you visit your partner as often as possible. If you are a
   full-time student, you need to find time to study and give yourself time to
   look after yourself.
+intro: >-
+  Keeping a relationship going when you’re in different locations can be
+  challenging, but it doesn’t have to be impossible. Whether you and your
+  partner are separated by a few states, or even a few continents, there are
+  ways to make things work.
+   If you and your partner both want to make the long-distance relationship work, the two of you need to be willing and committed to making it happen. You will need to put in the effort required to see this through. Fortunately, with some planning and persistence, it is possible for most couples who are separated by distance to continue their relationship.
+  Preferably before moving away from each other, you and your partner should have open communication about where your relationship is heading. Are you ready for something serious? Are both of you ready for a long-distance relationship? Do you want the same things? If so, then let’s get started on how to make a long-distance relationship work!
 ---
 
 ## Talk Often

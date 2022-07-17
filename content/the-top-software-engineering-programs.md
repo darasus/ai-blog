@@ -1,7 +1,7 @@
 ---
 title: The Top Software Engineering Programs
 createdAt: 2022-07-09T06:18:08.080Z
-updatedAt: 2022-07-17T06:35:14.475Z
+updatedAt: 2022-07-17T15:00:30.370Z
 category: coding
 summary: The field of software engineering is one of the most important and
   fastest-growing in today’s economy. Software engineers can work with a variety
@@ -12,6 +12,16 @@ summary: The field of software engineering is one of the most important and
   foundation for a career in software engineering. Double-degree programs that
   combine a computer science degree with a software engineering degree offer
   more flexibility in pursuing specific software engineering specialties.
+intro: >-
+  Software engineering is a broad and fast-growing field. The market for
+  software engineers continues to grow at a rapid pace, with demand expected to
+  increase by another 280,000 jobs by 2022. Prospective software engineers
+  therefore have many options when it comes to pursuing their career. Computer
+  science programs generally provide an excellent foundation for those
+  interested in pursuing software engineering as a specific career path, but
+  these programs alone often aren’t enough.
+
+  Programs specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.
 ---
 
 ## Overview of Software Engineering

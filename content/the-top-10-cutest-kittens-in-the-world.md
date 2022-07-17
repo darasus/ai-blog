@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Cutest Kittens in the World
 createdAt: 2022-07-09T06:11:26.875Z
-updatedAt: 2022-07-16T15:40:08.808Z
+updatedAt: 2022-07-17T15:00:29.930Z
 category: life
 summary: Kittens are the best! They are only little for a short period of time.
   While they are cute and cuddly when they’re young, kittens really come into
@@ -9,6 +9,16 @@ summary: Kittens are the best! They are only little for a short period of time.
   that even the scroggiest person can’t help but be won over by them. If you're
   thinking about getting a new feline friend, make sure you choose the one that
   is right for you.
+intro: >-
+  There are so many different breeds of cats in the world and each one has
+  its own set of unique characteristics. Some cats are more like dogs, while
+  others act more like little lions. They’re all pretty much ADORABLE no matter
+  what type they are. But that isn’t to say that some cats aren’t cuter than
+  others. Some kittens take the cake when it comes to being as sweet and
+  adorable as possible. These top 10 cutest kittens in the world will leave you
+  wanting more. 
+
+  With a wide range of cat lovers out there, it was almost impossible not to find the best examples of these perfect little furballs available anywhere! Whether you have a soft spot for Persians or tend to lean towards something with a bit more attitude like a Siamese, you’ll find your new favorite kitten here!
 ---
 
 ## KITTENS ARE THE BEST!

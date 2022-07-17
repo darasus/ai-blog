@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog Not to Jump on People
 createdAt: 2022-07-08T06:26:33.559Z
-updatedAt: 2022-07-16T15:21:14.431Z
+updatedAt: 2022-07-17T15:00:29.897Z
 category: life
 summary: This training program is meant to help your dog get used to not jumping
   on people. It’s not a solution to teach them how to greet people
@@ -10,6 +10,17 @@ summary: This training program is meant to help your dog get used to not jumping
   methods. There are lots of ways to train dogs not to jump, but there are many
   ways to do it. Here are some things you can try if the program above doesn’t
   work for you and your dog.
+intro: >-
+  Do you have friends who are scared of dogs? Or perhaps you just don’t
+  want your dog jumping up on people. Whatever the case, teaching your dog to
+  not jump up on people is an essential skill. It can also be tricky because it
+  requires reading your dog and anticipating their behavior. If they haven’t
+  jumped yet, will they leap again? Will they creep towards you first or wait
+  for you to move closer first? The answer may be different every time and
+  that’s why it can feel like a constant guessing game. However, with
+  persistence and patience, you can train your dog to not jump on people.
+
+  If your dog is prone to jumping, it’s important to manage that behavior before moving onto this training program. Dogs commonly jump for one of three reasons: They are excited and overstimulated; they want something from you such as food or attention; or they see it as a way of getting nearer to something else (this could be either the person you don’t want them leaping at or something else nearby).
 ---
 
 ## The program

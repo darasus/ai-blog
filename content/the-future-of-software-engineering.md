@@ -1,7 +1,7 @@
 ---
 title: The Future of Software Engineering
 createdAt: 2022-07-09T06:17:30.397Z
-updatedAt: 2022-07-17T06:34:24.264Z
+updatedAt: 2022-07-17T15:00:30.355Z
 category: coding
 summary: Software engineers need to be able to design, analyze and develop
   software systems that meet clients’ needs. Software engineering degrees are
@@ -13,6 +13,14 @@ summary: Software engineers need to be able to design, analyze and develop
   economy that powers businesses, websites and apps. There is a shortage of
   skilled candidates, which has led to demand and high salaries for top software
   engineers.
+intro: >-
+  Software engineers are the engine of the digital economy. They create,
+  maintain and update the software that powers businesses, websites and apps.
+  And demand for software engineers continues to grow. Job postings for software
+  engineers have increased by 37 percent in the last five years, with an
+  additional 26 percent increase expected by 2024. 
+
+  Software engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let’s take a look at what you need to become a software engineer and what the future might hold for this field.
 ---
 
 ## What You Need To Become A Software Engineer

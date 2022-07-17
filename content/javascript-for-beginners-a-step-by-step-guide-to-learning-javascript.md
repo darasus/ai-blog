@@ -1,7 +1,7 @@
 ---
 title: "Javascript For Beginners: A Step-by-Step Guide To Learning Javascript"
 createdAt: 2022-07-17T07:19:32.829Z
-updatedAt: 2022-07-17T07:19:32.829Z
+updatedAt: 2022-07-17T15:00:30.811Z
 category: coding
 summary: Javascript is a dynamic, high-level programming language that allows
   you to create interactive content. It is used primarily to create and
@@ -11,6 +11,17 @@ summary: Javascript is a dynamic, high-level programming language that allows
   image carousels. This guide covers all you need to know about getting started
   with Javascript, including the history of Javascript, the impact of Javascript
   on the web, and the basics of syntax and grammar.
+intro: >-
+  Let’s face it: there are plenty of programming languages out there and
+  each one has its own unique features and quirks. So, which one should you
+  learn first? If you’re looking to get started in the world of coding,
+  Javascript is a fantastic place to start. In fact, it can be a great beginner
+  programming language for those who have little or no experience in this field.
+  Why is that? Well, as the most common language used for website creation,
+  learning Javascript helps you understand how websites operate on an individual
+  level. 
+
+  Let this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it’s important to mastering the fundamentals of coding like variables and conditional statements, we’ll walk you through everything you need to know about getting started with this dynamic programming language.
 ---
 
 ## What is Javascript?

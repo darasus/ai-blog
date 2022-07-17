@@ -1,7 +1,7 @@
 ---
 title: How to start investing in mutual funds
 createdAt: 2022-07-07T16:51:48.558Z
-updatedAt: 2022-07-17T05:56:00.253Z
+updatedAt: 2022-07-17T15:00:31.108Z
 category: investing
 summary: "\"I can't't't yet yet yet to be 'I've been so low to be be be
   'Pardardardy 'I'm going to be on 'Hardardeee\" and \"I'm not going to have
@@ -14,6 +14,16 @@ summary: "\"I can't't't yet yet yet to be 'I've been so low to be be be
   Wileeelylyly be be-Hi-Hon \"M. \"Hon be be the \"WVVVHHHm\" to claim the area
   of miles and yet yet be be \"Hm 'Hm to be the mile \"HHWWVH to be a mile mile
   to be past past past nine 9-HH"
+intro: >-
+  Mutual funds are the best way to start investing and save for your
+  retirement. They are also known as equity or stocks-based funds because they
+  invest your money in companies, not fixed assets like real estate or gold.
+
+  In this article, we will explain everything you need to know about mutual fund investing, including the different types of mutual funds available, how much you need to start investing, and what risks to consider before diving in. 
+
+  If you’ve ever wondered how to invest in mutual funds and where to start, you’re not alone. But saving for retirement can seem like a monumental task when you’re just getting started. 
+
+  Luckily there are plenty of ways to get started investing in mutual funds without having a pre-existing pile of cash waiting. Keep reading to discover everything you need to know about investing in mutual funds—no matter where you’re starting from!
 ---
 
 ## What is a mutual fund?

@@ -1,7 +1,7 @@
 ---
 title: How to deal with anxiety
 createdAt: 2022-07-07T06:05:41.027Z
-updatedAt: 2022-07-16T16:11:16.159Z
+updatedAt: 2022-07-17T15:00:31.556Z
 category: health
 summary: Anxiety is not a disease, but it can lead to other mental health
   issues, such as panic attacks, phobias, and OCD. Symptoms of anxiety include
@@ -11,6 +11,15 @@ summary: Anxiety is not a disease, but it can lead to other mental health
   use the following tips to help manage it and improve your quality of life.
   Learn how to manage your breathing and exercise regularly to help reduce
   anxiety. Meditation is another great way to help you manage your anxiety.
+intro: >-
+  When you’re anxious, you feel your heart pounding, and your palms get
+  sweaty. We’ve all experienced some level of anxiety from time to time — it can
+  be perfectly normal. However, for some people, anxiety can become debilitating
+  and start to have a negative impact on their everyday life. If you experience
+  social anxiety or general anxiety more often than not, read on to discover how
+  to deal with it effectively. 
+
+  If you struggle with anxiety frequently and strongly, you are certainly not alone. In fact, almost 20% of adults in the United States experience some form of anxiety or another on a regular basis. Although there is no magical cure for dealing with anxiety permanently, there are many things that you can do to manage your symptoms better and live a happier life as a result.
 ---
 
 ## What is Anxiety?

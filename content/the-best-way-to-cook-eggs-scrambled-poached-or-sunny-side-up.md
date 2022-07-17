@@ -1,7 +1,7 @@
 ---
 title: The best way to cook eggs - scrambled, poached or sunny side up?
 createdAt: 2022-07-07T06:05:39.870Z
-updatedAt: 2022-07-17T05:58:20.012Z
+updatedAt: 2022-07-17T15:00:29.189Z
 category: cooking
 summary: Using milk or water is the best way to cook scrambled eggs because it
   gives them a soft texture. Poached eggs should be kept at a low simmer, so you
@@ -11,6 +11,15 @@ summary: Using milk or water is the best way to cook scrambled eggs because it
   try adding some herbs or spices before you start whisking. To keep your eggs
   fresh and safe to eat, make sure to store them in their carton and not the egg
   container.
+intro: >-
+  When it comes to the best way to cook eggs, there are plenty of ways to
+  do it. After all, the humble egg is one of the most versatile and affordable
+  ingredients out there. Eggs can be used in almost any dish and offer a range
+  of benefits — from being packed with protein to being high in vitamin D.
+
+  However, some people find cooking eggs a challenge because they think there’s only a limited number of ways to cook them. But that’s not true! 
+
+  Whether you like your eggs fried, scrambled or poached, there are plenty of recipes that show you how to cook eggs in different ways. Once you know the basics, you can even experiment with different flavors and create your own unique dishes using eggs as their main ingredient. Here are some tips on the best way to cook each egg variety:
 ---
 
 ## Scrambled Eggs

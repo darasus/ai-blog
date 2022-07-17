@@ -1,7 +1,7 @@
 ---
 title: The basics of mediation
 createdAt: 2022-07-09T06:13:28.729Z
-updatedAt: 2022-07-16T15:50:28.062Z
+updatedAt: 2022-07-17T15:00:30.038Z
 category: life
 summary: "Mandatory mediation occurs when a contract or state law requires
   parties to try mediation before proceeding to litigation. In most states,
@@ -12,6 +12,18 @@ summary: "Mandatory mediation occurs when a contract or state law requires
   the process. Advantages of mediation: The parties involved in a mediation are
   more satisfied with their own solution as opposed to a solution imposed upon
   them by a judge."
+intro: >-
+  Mediation is a process that involves bringing together two opposing
+  parties to resolve a conflict. It is an alternative to going to court for
+  resolving disputes between parties, businesses, or individuals. Unlike
+  arbitration, mediation does not involve any third party whose decision becomes
+  final. Instead, it is a collaborative process where the mediator acts as a
+  neutral intermediary and assists the conflicting parties negotiate an
+  agreement that suits both of them. The mediator does not take sides and helps
+  the parties understand their own interests while also exploring opportunities
+  for a mutually beneficial resolution of the issues in conflict. 
+
+  Mediation can be helpful when you have a tricky situation with someone else that doesn’t involve crime or violence but still has the potential to get out of hand if left unresolved. Mediation might not be your first thought as an option in resolving conflict because of its non-adversarial nature. However, it can be a very useful tool and quite effective in most cases given its collaborative nature which gives both parties more input into finding a solution they are comfortable with and happy with at the same time.
 ---
 
 ## What is mandatory mediation?

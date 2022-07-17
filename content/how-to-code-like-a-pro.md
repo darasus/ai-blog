@@ -1,7 +1,7 @@
 ---
 title: How to code like a pro
 createdAt: 2022-07-07T06:11:09.634Z
-updatedAt: 2022-07-17T06:30:46.452Z
+updatedAt: 2022-07-17T15:00:30.248Z
 category: coding
 summary: The best way to get better at anything is to practice it over and over
   again. Practice something for 10,000 hours before it becomes second nature to
@@ -10,6 +10,17 @@ summary: The best way to get better at anything is to practice it over and over
   Participate in Code Practices to show off your skills to potential employers –
   especially if you’re applying for a high-level engineer position. Try new
   technologies and tools that you can use to boost your programming skills.
+intro: >-
+  Whether you’re just starting out or have been coding for years, there
+  will always be new things to learn and ways to grow as a programmer. Finding
+  that next challenge can seem challenging at first, but once you understand
+  your strengths, it becomes much easier. 
+
+  Coding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.
+
+  Unfortunately, there are too many coders who don’t know how to code like a pro – which means that these programmers aren’t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.
+
+  That doesn’t mean that these coders are bad or won’t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.
 ---
 
 ## Practice Makes Perfect

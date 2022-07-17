@@ -1,7 +1,7 @@
 ---
 title: Python - The language for software development
 createdAt: 2022-07-09T06:19:53.259Z
-updatedAt: 2022-07-17T06:52:54.157Z
+updatedAt: 2022-07-17T15:00:30.457Z
 category: coding
 summary: Python is a general-purpose programming language that was created in
   the late 1980s by a group of researchers at the University of California. It
@@ -11,6 +11,14 @@ summary: Python is a general-purpose programming language that was created in
   to understand, which makes it a great choice for those who are just beginning
   to learn how to code. It is easy to learn, versatile, and efficient for
   software development.
+intro: >-
+  Everyone knows that the software world is one of the fastest-growing
+  fields in the world right now. Those who are tech-savvy are constantly on the
+  lookout for new ways to grow their knowledge and advance their careers as
+  developers. However, this can be a daunting task for many people because there
+  are so many different programming languages available to learn. 
+
+  With so many options out there, how do you know which ones are worth your time? That’s why we’ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we’ll explore why Python is ideal for software development and why it sets itself apart from other options such
 ---
 
 ## What Is Python?

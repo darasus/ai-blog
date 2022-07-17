@@ -1,7 +1,7 @@
 ---
 title: How to make the perfect omelette
 createdAt: 2022-07-07T06:05:40.031Z
-updatedAt: 2022-07-17T06:00:59.926Z
+updatedAt: 2022-07-17T15:00:29.199Z
 category: cooking
 summary: An omelette is usually made with just eggs and cheese, or with a
   combination of cheese and ham or bacon. You can use any type or grade of eggs
@@ -11,6 +11,14 @@ summary: An omelette is usually made with just eggs and cheese, or with a
   that is easier to cut. A heavy pan will make it tougher, so only use it if you
   want a crisp texture. Add fillings such as cheese, meat, vegetables, or herbs
   and spices before flipping.
+intro: >-
+  What’s the perfect way to start your day? With a delicious omelette, of
+  course! You can also enjoy an omelette as a light dinner, or any time you get
+  hungry. Omelettes are easy to make and there are lots of ways to customize
+  them with different fillings and toppings. Here are some tips on how to make
+  the perfect omelette every time.
+
+  Whether you like yours with cheese or mushrooms, an omelette is one of the most versatile dishes out there. They’re fast and easy to prepare, but most importantly, they taste amazing. So if you’re ready to master this simple dish, keep reading for everything you need to know about making an omelette!
 ---
 
 ## Try a fluffy omelette for breakfast

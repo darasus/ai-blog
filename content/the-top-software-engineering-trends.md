@@ -1,7 +1,7 @@
 ---
 title: The Top Software Engineering Trends
 createdAt: 2022-07-09T06:17:37.252Z
-updatedAt: 2022-07-17T06:34:44.987Z
+updatedAt: 2022-07-17T15:00:30.367Z
 category: coding
 summary: Big data is a term used to describe the large quantities of data that
   are being collected on a global scale by enterprises. Machine learning is the
@@ -12,6 +12,15 @@ summary: Big data is a term used to describe the large quantities of data that
   applications, and building out new solutions. As IoT devices continue to grow
   in popularity, there will be an increased demand for engineers who specialize
   in IoT and data architecture.
+intro: >-
+  Software engineers are tasked with finding solutions to complex problems
+  every day. The software industry is constantly evolving, and engineers must
+  stay up-to-date on the latest trends and technologies in order to keep their
+  skills current and relevant.
+
+  Software engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it’s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work. 
+
+  Here are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.
 ---
 
 ## Big Data and Machine Learning

@@ -1,7 +1,7 @@
 ---
 title: Java security
 createdAt: 2022-07-09T06:27:48.960Z
-updatedAt: 2022-07-17T07:15:29.454Z
+updatedAt: 2022-07-17T15:00:30.638Z
 category: coding
 summary: "A comprehensive security program should cover several key areas
   including development practices, network isolation, user authentication and
@@ -13,6 +13,13 @@ summary: "A comprehensive security program should cover several key areas
   collected by IoT devices should be encrypted to protect against eavesdropping
   and tampering. Data should be stored in a secure data center that is regularly
   audited by a third party security auditor."
+intro: >-
+  Contemporary internet-connected devices are complex networked systems
+  with challenging security requirements. New IoT attack vectors and risks arise
+  from the convergence of digital, social, mobile, cloud, sensor, and other new
+  Internet services. 
+
+  Security is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:
 ---
 
 ## Development Practices

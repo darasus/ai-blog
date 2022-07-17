@@ -1,7 +1,7 @@
 ---
 title: How big tech is changing the way we live and work
 createdAt: 2022-07-08T06:05:32.760Z
-updatedAt: 2022-07-17T07:25:19.182Z
+updatedAt: 2022-07-17T15:00:31.464Z
 category: technology
 summary: Remote work has been around for decades, but as digital technology has
   advanced, more and more employers have invested in tools that allow them to
@@ -13,6 +13,16 @@ summary: Remote work has been around for decades, but as digital technology has
   will need to keep up with this growing trend. As the world of work becomes
   increasingly automated, soft skills like communication and collaboration
   become increasingly vital.
+intro: >-
+  Millennials are now the largest generation of workers in the U.S., and as
+  they advance their careers, they’ll continue to reshape how and where we work.
+  The digital age has made it possible for people to work from virtually
+  anywhere at any time. As a result, more people are leaving the office behind
+  and working remotely or taking up independent contracting gigs, which is why
+  we’re seeing so many young professionals ditch cubicles for coffee shops and
+  other remote-friendly offices. 
+
+  Working from home, going independent, or collaborating with coworkers online means millennials have given rise to what some have called “the gig economy.” It’s also prompted a shift in the types of companies people choose to work for and what skills they need to get hired in those roles — regardless of where they do that work. If you’re looking to join this world of work in 2020, here’s everything you need to know:
 ---
 
 ## The rise of remote work

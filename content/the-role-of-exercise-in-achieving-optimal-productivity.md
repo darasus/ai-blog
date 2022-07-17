@@ -1,7 +1,7 @@
 ---
 title: The Role of exercise in Achieving Optimal Productivity
 createdAt: 2022-07-07T16:44:00.596Z
-updatedAt: 2022-07-16T15:58:12.516Z
+updatedAt: 2022-07-17T15:00:30.898Z
 category: business
 summary: Eating well has a direct impact on your productivity by improving your
   energy levels and helping to reduce stress and anxiety. Eating well improves
@@ -13,6 +13,20 @@ summary: Eating well has a direct impact on your productivity by improving your
   they’re constantly connected and collaborative. That has meant that the
   ability to get things done quickly and efficiently is now a key marker of
   professional success.
+intro: The world of work has changed rapidly. People are no longer confined to
+  one desk or computer screen; they’re mobile, collaborative and constantly
+  connected. That shift has meant that the ability to get things done quickly
+  and efficiently is now a key marker of professional success.But what can you
+  do to reach peak performance at work? If you’ve read anything about
+  productivity in the last few years, you’ll probably know that it’s all about
+  working smarter rather than harder.As professionals continue to be pushed
+  further and faster by digital pressures, many are discovering that there is
+  little time for process-driven productivity activities like lengthy meetings,
+  email chains and excessive planning processes.Modern workplaces have responded
+  by introducing activities that improve output and effectiveness — particularly
+  in the areas of exercise, mindfulness and nutrition — as well as a range of
+  other measures designed to give people more control over their lives outside
+  of work.
 ---
 
 ## Exercise for productivity

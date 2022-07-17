@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Benefits of Owning a Cat
 createdAt: 2022-07-09T06:12:00.974Z
-updatedAt: 2022-07-16T15:43:45.894Z
+updatedAt: 2022-07-17T15:00:29.994Z
 category: life
 summary: Cat owners are less likely to suffer from Seasonal Affective Disorder
   (SAD) and the risk of developing a mental illness such as schizophrenia is
@@ -11,6 +11,14 @@ summary: Cat owners are less likely to suffer from Seasonal Affective Disorder
   pulse rate, and levels of the stress hormone cortisol. Cats are very good at
   reading human body language and they intuitively know when you are stressed or
   anxious.
+intro: When it comes to the topic of cats, a lot of people tend to have
+  preconceived ideas about what owning one entails. There is a general belief
+  that having a cat as a pet will cut down on your social life and limit your
+  ability to travel. While that may be true for some people, that generalization
+  doesn’t tell the whole story. Cats are fantastic pets, and if you choose the
+  right breed, they can bring many benefits to your life. Cat ownership offers
+  numerous positive benefits in many different areas of your life. These are
+  just some of the reasons why you should own a cat!
 ---
 
 ## Increased Mental Health

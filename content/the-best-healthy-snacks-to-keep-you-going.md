@@ -1,7 +1,7 @@
 ---
 title: The best healthy snacks to keep you going
 createdAt: 2022-07-07T06:05:41.587Z
-updatedAt: 2022-07-16T16:18:25.100Z
+updatedAt: 2022-07-17T15:00:31.672Z
 category: health
 summary: KIND bars are made with whole grains, nuts, fruits, and spices. Dark
   cocoa is great for boosting mood and energy, and nuts and sea salt have
@@ -10,6 +10,16 @@ summary: KIND bars are made with whole grains, nuts, fruits, and spices. Dark
   the day. Beans and legumes are one of the best sources of fiber that you can
   eat, and they’re also high in protein. Greek yogurt is a great option for
   snacking on the go, and it’s also good for the bones.
+intro: >-
+  Think about your typical work day. You probably spend the first few hours
+  of it at your desk, sipping on a cup of coffee, reading emails, and maybe even
+  taking a brief walk around the office to stretch your legs. Then you head back
+  to your desk, only to dive into an afternoon filled with more reading and
+  typing—no time for walking again. And by 5pm you’re ready to call it a day and
+  head home. However, in that short span of time, you need to find some way to
+  keep going through all those tasks. What do you do? 
+
+  The answer is simple: Healthy snacks! Think about how much time you spend away from home throughout the day – whether it’s at work or school, there are plenty of opportunities for snacking. In fact, keeping healthy snacks around can help boost your energy when you need it most. Check out these top-rated healthy snacks that will keep you going all day long…
 ---
 
 ## KIND Bars

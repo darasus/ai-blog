@@ -1,7 +1,7 @@
 ---
 title: The best coding plugins for developers
 createdAt: 2022-07-07T06:12:24.591Z
-updatedAt: 2022-07-17T06:31:40.815Z
+updatedAt: 2022-07-17T15:00:30.257Z
 category: coding
 summary: Code Runner lets you run your JavaScript code right inside your text
   editor. Double Check scans your code while you type and shows you any mistakes
@@ -10,6 +10,15 @@ summary: Code Runner lets you run your JavaScript code right inside your text
   your project and find the file you need to change. GitPlus - Sync, Review and
   Deploy With Git - sync, review and deploy your project with remote servers and
   collaborate with your team members.
+intro: >-
+  Software developers are some of the most valuable employees in many
+  companies. They can take an idea and turn it into a useful product that people
+  want to use. The best coders are constantly looking for ways to improve their
+  skills and find new ways to make their work easier and more efficient.
+  Fortunately, there are plugins available for almost any coding program out
+  there. 
+
+  Coding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here’s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:
 ---
 
 ## Code Runner

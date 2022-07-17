@@ -1,7 +1,7 @@
 ---
 title: What are the steps of mediation?
 createdAt: 2022-07-09T06:15:49.018Z
-updatedAt: 2022-07-16T15:50:23.921Z
+updatedAt: 2022-07-17T15:00:30.138Z
 category: life
 summary: The parties can discuss the issues and concerns they have with each
   other, and the mediator can help guide the discussion and suggest ways the two
@@ -12,6 +12,17 @@ summary: The parties can discuss the issues and concerns they have with each
   to reach an agreement. At the end of the session, the parties will usually
   agree on a written mediation agreement that will usually help the parties work
   together.
+intro: >-
+  Mediation is a type of alternative dispute resolution that utilizes a
+  neutral third party to help parties in a conflict reach an agreement. These
+  agreements are known as mediation agreements, and they are not legally
+  binding. However, if the parties choose to enter into such an agreement, it
+  can help them move past their differences and work together constructively
+  going forward.
+
+  Mediation is very different from other forms of ADR because there is no neutral third party adjudicator present during mediation sessions. Rather, both parties agree to let a neutral mediator facilitate their discussion and suggest ways the two sides might be able to settle on amicable terms that are mutually beneficial.
+
+  Furthermore, unlike arbitration, which uses a third party neutral arbitrator to resolve disputes privately with no input from either party, with mediation there’s no need for secret proceedings or winner take all outcomes. Instead, both sides come together in order to find the best possible outcome for everyone involved by working through issues towards an agreeable solution that works for everyone.
 ---
 
 ## What Are The Steps of Mediation?

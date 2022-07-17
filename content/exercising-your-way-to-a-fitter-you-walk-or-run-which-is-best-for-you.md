@@ -1,7 +1,7 @@
 ---
 title: "Exercising Your Way to a Fitter You: Walk or Run - Which is Best For You?"
 createdAt: 2022-07-17T11:48:26.460Z
-updatedAt: 2022-07-17T11:48:26.460Z
+updatedAt: 2022-07-17T15:00:31.876Z
 category: health
 summary: Walking is an aerobic activity, which means it helps your heart and
   lungs work better. It also increases your metabolism, helping you burn more
@@ -10,6 +10,15 @@ summary: Walking is an aerobic activity, which means it helps your heart and
   better choice for those who are new to exercise. The amount of running you
   should do depends on your fitness level and goals. If you want to lose weight,
   you’ll need to do more than one session per week.
+intro: "In today’s fast-paced world, we have less time to work out and still
+  keep up with all our responsibilities. But with the right plan, anyone can
+  make time for exercise. The question is: What type of exercise should you
+  focus on to get the best results in the shortest amount of time? Walking or
+  running may seem like two very different exercises, but when it comes to
+  burning fat and calories, your body responds in similar ways no matter which
+  one you choose. In this article, we’ll discuss the benefits of each one and
+  which is best for you based on your personal fitness level. Keep reading to
+  discover more!"
 ---
 
 ## The benefits of walking

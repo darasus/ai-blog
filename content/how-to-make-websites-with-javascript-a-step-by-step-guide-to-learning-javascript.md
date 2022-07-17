@@ -2,7 +2,7 @@
 title: "How To Make Websites With JavaScript: A Step-by-Step Guide To Learning
   Javascript"
 createdAt: 2022-07-17T07:19:11.564Z
-updatedAt: 2022-07-17T07:19:11.564Z
+updatedAt: 2022-07-17T15:00:30.814Z
 category: coding
 summary: JavaScript is a programming language that allows website designers to
   write code that interacts with the user’s browser. The language is used on
@@ -12,6 +12,16 @@ summary: JavaScript is a programming language that allows website designers to
   write. There are many different ways to go about learning JavaScript,
   including online courses, books and apps. The best way to start learning any
   new skill is to create a solid foundation.
+intro: >-
+  If you are interested in programming and website development, you have
+  probably heard of JavaScript and its role in creating websites. But how does
+  it work? How can you learn to use it? This article will introduce you to
+  JavaScript as a coding language and walk you through the process of learning
+  this important skill. 
+
+  Whether you’re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript. 
+
+  If you’re reading this article, then it means that you’ve already taken the first step towards becoming fluent in this coding language; You know there’s something called JavaScript and now you want to know more about it. Let’s get started!
 ---
 
 ## What is JavaScript?

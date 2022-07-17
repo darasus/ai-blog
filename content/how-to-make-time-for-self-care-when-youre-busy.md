@@ -1,7 +1,7 @@
 ---
 title: How to make time for self-care when you're busy
 createdAt: 2022-07-07T06:05:41.339Z
-updatedAt: 2022-07-16T16:14:02.777Z
+updatedAt: 2022-07-17T15:00:31.644Z
 category: health
 summary: The best way to start your day with self-care is to set the tone for
   it. Journaling is a great way to get your thoughts and emotions out of your
@@ -10,6 +10,14 @@ summary: The best way to start your day with self-care is to set the tone for
   number of different health issues and can greatly affect your ability to
   function throughout the day. Find small windows of time to devote to self care
   and find ways to fit them into your day.
+intro: >-
+  Self-care isn’t a once-in-a-blue moon thing. It’s not a luxury you can
+  only afford when life is going your way, and it’s definitely not something
+  that you should only do when you have time on your hands. 
+
+  Self-care is something we should practice every day; the moment we wake up and the moment we go to bed. In fact, self-care shouldn’t just be something that you do – it needs to become who you are. 
+
+  However, as most things in life go, self-care can be challenging to integrate into our busy schedules. Whether it’s because of work obligations, family commitments, schoolwork or any other number of reasons, many of us are left wondering how we can make time for self-care even when everything else in our lives feels like it’s getting in the way.
 ---
 
 ## Start your day with self-care

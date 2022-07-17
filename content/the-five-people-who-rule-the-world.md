@@ -1,7 +1,7 @@
 ---
 title: The Five People Who Rule the World
 createdAt: 2022-07-07T06:15:32.490Z
-updatedAt: 2022-07-17T05:49:16.599Z
+updatedAt: 2022-07-17T15:00:29.639Z
 category: politics
 summary: We're obsessed with fame, and that shapes everything in our lives. We
   pay attention to celebrities even when we don’t realize we’re doing it.
@@ -10,6 +10,15 @@ summary: We're obsessed with fame, and that shapes everything in our lives. We
   they're not a political or economic force. Actors are just slightly less
   important than musicians, but the power of actresses is growing rapidly. The
   most famous actors are also the best actors, but are not the best actresses.
+intro: >-
+  You probably think the world is run by politicians, businesses, and
+  technology companies. You’d be right—but you’d also be missing the most
+  important people. Because while those other people are all important, the real
+  rulers of this world are much more human: They’re celebrities. 
+
+  The way we see the world has changed dramatically over the past few decades. In part because of social media, but mostly because of the rise of celebrities as a fixture in our lives, almost every aspect of life has been reframed by who is watching. It used to be that if you wanted to become famous, you had to have something worth saying or do something exciting enough to get on TV. 
+
+  Now all you need is a million followers on Instagram and a sex tape with another famous person. It’s more than just a silly trend—it reveals something fundamental about how we now see the world.
 ---
 
 ## By the numbers: How Celebrities Rule the World

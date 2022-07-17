@@ -1,7 +1,7 @@
 ---
 title: 10 ways to get moving when you don't feel like it
 createdAt: 2022-07-07T06:05:40.981Z
-updatedAt: 2022-07-16T16:11:08.814Z
+updatedAt: 2022-07-17T15:00:31.555Z
 category: health
 summary: If you’re not feeling the workout on any given day, try to go with the
   flow. Reward yourself with a special snack or bubble bath afterward. Find a
@@ -10,6 +10,16 @@ summary: If you’re not feeling the workout on any given day, try to go with th
   Take a break and shake it off, even if you're feeling discouraged or
   discouraged, it can be helpful to do deep breathing exercises or take a break
   from your workout.
+intro: >-
+  New Year’s resolutions are the perfect time to start fresh, refocus our
+  efforts, and commit to a healthier lifestyle. Many of us make the common
+  resolution to exercise more. However, that can be easier said than done for
+  some people. If you don’t feel like working out one day, it doesn’t mean you
+  stop going to the gym or just give up entirely. It means you have to come up
+  with creative ways to stay motivated and get moving when you don’t feel like
+  it. 
+
+  Exercising is not always fun, but we need it to remain healthy and fit. While some people love sweating in their favorite gym class, others avoid workouts because they know how much they hate them. While exercise can be difficult at times, there are lots of different ways you can make moving more fun so that it becomes second nature and something you no longer dread.
 ---
 
 ## Go With The Flow

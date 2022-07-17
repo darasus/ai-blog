@@ -1,7 +1,7 @@
 ---
 title: The secrets of great coders
 createdAt: 2022-07-07T06:13:30.533Z
-updatedAt: 2022-07-17T06:32:55.783Z
+updatedAt: 2022-07-17T15:00:30.281Z
 category: coding
 summary: Programmers who get caught up in the details of the work often find
   that they are not able to see the big picture. Great coders write code with a
@@ -10,6 +10,17 @@ summary: Programmers who get caught up in the details of the work often find
   matter and which parts don’t. Being cocky without being cocky is difficult to
   walk the line to walk, but being confident is a key to being a great
   programmer.
+intro: "Great coders know how to see, think, and solve problems. They can also
+  master complex code and find solutions to difficult technical problems. But
+  beyond that, great coders bring something else to the table: they have a
+  unique combination of traits that make them productive and effective
+  programmers. The best coders have a set of common habits that allow them to
+  thrive in an often stressful environment. There are many pressures on software
+  engineers, from tight deadlines to the constant demand for new features. Great
+  coders are able to thrive in this pressure-filled environment because of their
+  ability to manage stress, focus intently, and think creatively about the
+  problem at hand. If you want to become a great coder, these are some secrets
+  you need to know…"
 ---
 
 ## Focus On What Matters

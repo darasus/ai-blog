@@ -1,7 +1,7 @@
 ---
 title: Python - The language of science
 createdAt: 2022-07-09T06:19:02.243Z
-updatedAt: 2022-07-17T06:48:50.288Z
+updatedAt: 2022-07-17T15:00:30.417Z
 category: coding
 summary: Python is an interactive, object-oriented, high-level programming
   language designed to be readable and flexible. It is mainly used for web
@@ -11,6 +11,15 @@ summary: Python is an interactive, object-oriented, high-level programming
   amounts of data quickly, which is important in the context of scientific
   computing. Python is easy to learn, easy to read, has a large community of
   users, and is open source.
+intro: >-
+  Scientists need to ask questions, find answers and recognize patterns to
+  uncover new knowledge. Python is a programming language that makes it easy for
+  anyone to do this type of analytical work. It also excels at processing data
+  faster than any other language. Because of these reasons, scientists are using
+  Python more and more in their work. In fact, Python has become the most
+  popular programming language used by scientists today. 
+
+  A scientific computing software package called “Orange” inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it “Python” after the British comedy group Monty Python – he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.
 ---
 
 ## What is Python?

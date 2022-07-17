@@ -7,11 +7,13 @@ export interface MDXPost {
   content: string;
   category: string;
   summary: string;
+  intro: string;
 }
 
 export interface TPost {
   title: string;
   summary: string;
+  intro: MDXRemoteSerializeResult<Record<string, unknown>>;
   category: string;
   createdAt: string;
   updatedAt: string;

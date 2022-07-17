@@ -1,7 +1,7 @@
 ---
 title: Go language for mobile development
 createdAt: 2022-07-09T06:28:38.665Z
-updatedAt: 2022-07-17T07:16:12.770Z
+updatedAt: 2022-07-17T15:00:30.670Z
 category: coding
 summary: Swift is a programming language developed by Apple Inc. for iOS, macOS,
   watchOS, and tvOS app development. Java is a general-purpose programming
@@ -10,6 +10,21 @@ summary: Swift is a programming language developed by Apple Inc. for iOS, macOS,
   and CSS3 are essential for designing mobile apps that can run on any device,
   regardless of the operating system or browser being used. Make sure your app
   is available on both iOS and Android.
+intro: >-
+  Today, mobile devices have become a part of our daily lives. Most people
+  use their phones for either calling, texting or browsing the Internet. The
+  world has moved on from feature phones to smartphones, which are more than
+  just mobile phones. Smartphones come with pre-installed apps such as cameras,
+  video players, and messaging services. Moreover, they also support third-party
+  apps like music streaming services and games. Today’s mobile users expect
+  their devices to be more than just communication tools; they want them to be
+  an extension of their digital lifestyle. Therefore, developers need to create
+  apps that take advantage of the smaller screen size and speed up load times by
+  storing data locally where possible. There are many different programming
+  languages used to make mobile applications; however, we will cover four of the
+  most commonly used ones: 
+
+  Software development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:
 ---
 
 ## Swift

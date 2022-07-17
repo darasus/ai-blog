@@ -1,7 +1,7 @@
 ---
 title: The benefits of a healthy diet - and how to stick to it
 createdAt: 2022-07-07T06:05:41.316Z
-updatedAt: 2022-07-16T16:13:43.343Z
+updatedAt: 2022-07-17T15:00:31.643Z
 category: health
 summary: Eating out is often a bad idea for those on a healthy diet, since it
   gives you very little control over your food choices. Plan your meals and
@@ -11,6 +11,14 @@ summary: Eating out is often a bad idea for those on a healthy diet, since it
   and cancer. Don’t forget fruit, but many people neglect their daily servings
   of fruit. Whole grains contain many essential vitamins and minerals and can be
   very helpful in your weight loss journey.
+intro: >-
+  A healthy diet is a significant part of any healthy lifestyle. It’s also
+  one of the most difficult to maintain. With all the tempting fast food,
+  vending machine snacks, and restaurants with cheap but high-calorie meals,
+  it’s not easy to eat right. Luckily, there are plenty of ways to make sticking
+  to a healthy diet easier.
+
+  If you want to improve your health, increase your energy, and lose weight—while still enjoying great food—a healthy diet is the way to do it. A healthy diet can help prevent disease and keep you feeling great. Following these tips can get you well on your way towards meeting your nutrition goals and eating a balanced diet that will keep you happy and healthy for life.
 ---
 
 ## Change Your Environment

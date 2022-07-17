@@ -1,7 +1,7 @@
 ---
 title: The Best Software Engineering Books
 createdAt: 2022-07-09T06:18:05.008Z
-updatedAt: 2022-07-17T06:35:00.367Z
+updatedAt: 2022-07-17T15:00:30.369Z
 category: coding
 summary: There are so many interesting topics within the software engineering
   world, so it’s really up to you where you want to focus your reading. Most of
@@ -11,6 +11,16 @@ summary: There are so many interesting topics within the software engineering
   behaves. Cryptography Engineering is one of the best software engineering
   books for learning about cryptography, including its history and application
   in security.
+intro: >-
+  Today, software engineers are playing a much more significant role in the
+  way businesses operate. Thanks to the growing importance of software and
+  digital services, software engineers are no longer just coders with a desk in
+  a back room somewhere. Instead, they’re now people who can influence entire
+  company strategies and help shape the future of an organization. As such,
+  software engineers need to have a wide range of technical skills and knowledge
+  in order to succeed. 
+
+  Software engineering books are an excellent way to learn more about this fast-growing profession, as well as expand your own knowledge and skills. Here we take a look at some of the best software engineering books you can read to supplement your existing education from university or other sources. Even if you don’t think you need them right now, keep reading for some great information about these essential books for software engineers…
 ---
 
 ## Why You Should Read Software Engineering Books

@@ -1,7 +1,7 @@
 ---
 title: The Power of Self-Learning
 createdAt: 2022-07-09T06:34:28.772Z
-updatedAt: 2022-07-17T07:28:13.967Z
+updatedAt: 2022-07-17T15:00:32.184Z
 category: productivity
 summary: Self-learning can be a useful skill at any stage of life - whether
   you’re a student, a parent, a business owner, or a retiree. It can help boost
@@ -10,6 +10,13 @@ summary: Self-learning can be a useful skill at any stage of life - whether
   including greater flexibility in terms of content and schedule, lower costs
   than traditional education, and minimal time commitment. You can learn a new
   language, brushing up on your business skills, or even how to code.
+intro: >-
+  In this digital age, the opportunities for self-education are endless.
+  From online learning platforms like edX and Coursera to business podcasts,
+  there is a vast array of ways that you can learn something new on almost any
+  subject. 
+
+  Learning something new is not only beneficial for personal growth, but it’s also necessary in today’s job market. In fact, recent research found that 75% of job candidates lack the skills necessary to succeed at their interview. It’s clear that to stand out from other applicants, you need more than just an impressive resume. You need a high level of proficiency in your chosen subject. Fortunately for you, there are a variety of self-learning resources available to help boost your knowledge and get you one step closer to landing that dream job.
 ---
 
 ## Why is Self-Learning so Important?

@@ -1,7 +1,7 @@
 ---
 title: The best coding shortcuts for beginners
 createdAt: 2022-07-07T06:14:13.983Z
-updatedAt: 2022-07-17T06:33:15.939Z
+updatedAt: 2022-07-17T15:00:30.304Z
 category: coding
 summary: Don’t become drowned in details when programming, and if you are a
   beginner, you will likely become lost in the details. As a beginner coder,
@@ -10,6 +10,15 @@ summary: Don’t become drowned in details when programming, and if you are a
   learn shortcuts, you’ll be able to type faster and more accurately, and you'll
   save a lot of time and energy in the process. Go Pro With Vim Shortcuts, you
   should learn a few Vim shortcuts.
+intro: >-
+  In the beginning, coding can feel like solving puzzles with red-hot
+  needles in your hands. Everything is new, nothing makes sense and you can’t
+  even tell if you are on the right track or not. It feels like one confusing
+  labyrinth with a lot of locked doors – every time you find an unlocked door,
+  it just leads to another locked door! How do we get out of this frustrating
+  loop? Coding shortcuts!
+
+  A lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn’t have time to invest in learning every last bit of it before they can start creating useful programs.
 ---
 
 ## Don’t Become Drowned In Details When Coding

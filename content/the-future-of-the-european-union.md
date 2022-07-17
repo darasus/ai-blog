@@ -1,7 +1,7 @@
 ---
 title: The Future of the European Union
 createdAt: 2022-07-07T06:16:50.531Z
-updatedAt: 2022-07-17T05:49:53.923Z
+updatedAt: 2022-07-17T15:00:29.663Z
 category: politics
 summary: The European project was under threat, but the European Union has
   rallied and is now stronger than ever. There is a real opportunity to deepen
@@ -11,6 +11,16 @@ summary: The European project was under threat, but the European Union has
   “comprehensive investment strategy for Europe’s future. The Paris Declaration
   on Integration and Human Rights and the Berlin Process on Security and
   Integration are all examples of this new phase of integration.
+intro: >-
+  European Union (EU) integration has been on a rollercoaster ride. After
+  the failure of the European Constitution in 2005, and following several years
+  of financial crisis, EU institutions and member states have recommitted to
+  strengthening the foundations of European integration. Indeed, a new wave of
+  integration has emerged.
+
+  In recent years, we have seen a renewed political will among EU member states to tackle common challenges together and further strengthen the European Union. The Paris Declaration on Integration and Human Rights; the Berlin Process on Security and Integration; the Malta Declaration on Social Compact and the Digital Future of Europe are all examples of this new phase of integration.
+
+  We take a closer look at where Europe is heading with its various endeavours towards greater unity.
 ---
 
 ## European Union integration: Where do we go from here?

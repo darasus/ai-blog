@@ -1,7 +1,7 @@
 ---
 title: The Future of Blockchain Technology in Business
 createdAt: 2022-07-07T16:58:35.480Z
-updatedAt: 2022-07-17T07:24:00.338Z
+updatedAt: 2022-07-17T15:00:31.327Z
 category: crypto
 summary: A blockchain is a decentralized and distributed digital ledger that
   uses tokens to represent people and assets that have been verified and placed
@@ -13,6 +13,15 @@ summary: A blockchain is a decentralized and distributed digital ledger that
   trade and interact without the need for intermediaries. The internet is
   currently controlled by a few large companies like Google, Amazon and
   Facebook.
+intro: >-
+  The world of technology is changing fast, and businesses need to adapt
+  quickly to stay ahead of the curve. New digital solutions are emerging almost
+  every day, from automated artificial intelligence (AI) systems and Internet of
+  Things (IoT) devices to virtual assistants and blockchain technology. 
+
+  Every business needs a strategy for dealing with tech disruption, but that's no easy task. New technologies emerge so quickly that it can be hard to know which ones are worth worrying about, let alone how you would adopt them in your own organization. 
+
+  However, the success of any business will always come down to its people and processes as much as its technology. The focus of this article isn’t just on the individual technologies themselves but how they could help your business in the future.
 ---
 
 ## What is Blockchain Technology?

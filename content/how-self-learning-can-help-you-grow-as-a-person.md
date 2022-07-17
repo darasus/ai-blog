@@ -1,7 +1,7 @@
 ---
 title: How Self-Learning Can Help You Grow as a Person
 createdAt: 2022-07-09T06:36:15.769Z
-updatedAt: 2022-07-17T07:28:44.398Z
+updatedAt: 2022-07-17T15:00:32.211Z
 category: productivity
 summary: Self-learning is an excellent way of getting to know yourself better
   and identifying your strengths and weaknesses. It gives you the opportunity to
@@ -11,6 +11,14 @@ summary: Self-learning is an excellent way of getting to know yourself better
   improve your literacy and grammar skills. Go on a digital decluttering mission
   to clean up your digital life and give yourself more time to focus on what
   matters most to you.
+intro: >-
+  One of the most beneficial things you can do for your personal growth is
+  learning by yourself. Self-learning involves reading, listening to audio
+  books, watching videos and courses online, as well as any other medium you can
+  use to get educated on different subjects. You can learn anything from a new
+  language to a new skill through self-learning. 
+
+  Self-learning is an excellent way of getting to know yourself better and identifying your strengths and weaknesses. It gives you the opportunity to discover your passions and interests, which in turn helps you figure out what career path is best for you or what tertiary education would be beneficial for you. It also allows you to reflect on your life experiences, as well Self-learning provides an accurate analysis of your strengths and weaknesses so that you can understand where improvements are needed.
 ---
 
 ## Why is Self-Learning Important for Personal Growth?

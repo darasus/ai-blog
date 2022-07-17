@@ -1,7 +1,7 @@
 ---
 title: "\"Eminem's 'Revival' is a Mess\""
 createdAt: 2022-07-08T05:59:32.384Z
-updatedAt: 2022-07-17T07:26:35.529Z
+updatedAt: 2022-07-17T15:00:31.988Z
 category: culture
 summary: Revival is a messy album with some highs and lows, but there are some
   tracks you must listen to again and again to grasp their true meaning. The
@@ -10,6 +10,18 @@ summary: Revival is a messy album with some highs and lows, but there are some
   Eminem details the struggles he has being a father and a husband.
   “Chloraseptic” details a conversation between Eminem and his ex-wife and
   current-girlfriend, Kim Scott.
+intro: >-
+  Eminem is the GOAT when it comes to rapping about pains of fame and being
+  a voice for the disenfranchised. However, that doesn’t mean he can’t also be a
+  mess. Eminem’s latest album Revival is a messy album with some highs and lows,
+  but there are some tracks you must listen to again and again to grasp their
+  true meaning. 
+
+  Eminem has been through his fair share of ups and downs in life. The rapper’s almost-breakdown after 2001, fall from grace with the media in 2003, drug addiction in 2005, and even his personal life with his ex-wife Kim Mathers has been made public knowledge thanks to tabloids. 
+
+  However, despite all this, Eminem remains one of the most prolific rappers out there. Despite releasing an album last year called RevivEND – ending it withEND – which was not an extended play or mixtape but actually just a re-release of his old work as if it were new material…And now he’s back with another self-titled album under the moniker of “Revival” in 2018. Yes, we know—it all sounds very confusing.
+
+  With over 100 million records sold worldwide and 15 Grammy Awards under his belt, Marshall Mathers remains one of the greatest rappers ever (no matter what Kendrick Lamar thinks). With that being said, here are 5 things you should know about Eminem’s ‘Rev
 ---
 
 ## “Revival” is a throwback to Eminem’s early work

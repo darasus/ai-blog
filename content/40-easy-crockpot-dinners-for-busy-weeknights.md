@@ -1,7 +1,7 @@
 ---
 title: 40 easy Crockpot Dinners For Busy Weeknights
 createdAt: 2022-07-09T06:43:47.230Z
-updatedAt: 2022-07-17T06:22:45.331Z
+updatedAt: 2022-07-17T15:00:29.532Z
 category: cooking
 summary: Chicken is a fantastic protein that can be used in so many ways to make
   tacos, burritos, salads, sandwiches, wraps, and more. There are tons of
@@ -10,6 +10,13 @@ summary: Chicken is a fantastic protein that can be used in so many ways to make
   tenderizing a cheaper cut of meat like brisket or chuck roast. Pork is another
   meat that is great for cooking with a slow cook time. Slow cooking brings out
   even more flavors than normal cooking.
+intro: >-
+  Did you know that January is the busiest time of year for many people?
+  It’s true! Between holiday bills, resolutions and general stress from the end
+  of a busy year, everyone is scrambling to get organized and start the new year
+  off right. 
+
+  Crockpots are great tools for getting dinner on the table without spending a lot of time thinking about it. Especially during peak busy season, having an easy way to cook delicious home-cooked meals at home can make all the difference in your quality of life. With these simple crockpot recipes, you don’t need to spend hours in the kitchen to have wholesome dinners ready when you get home from work or school.
 ---
 
 ## Chicken

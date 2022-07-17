@@ -1,7 +1,7 @@
 ---
 title: Investing for beginners - where to start
 createdAt: 2022-07-07T16:48:53.873Z
-updatedAt: 2022-07-17T05:53:08.472Z
+updatedAt: 2022-07-17T15:00:31.012Z
 category: investing
 summary: Every time you put your money into an investment, there is risk
   involved. The amount you make from each investment is not guaranteed. The best
@@ -11,6 +11,17 @@ summary: Every time you put your money into an investment, there is risk
   your investment as stocks do. Borrowing money for investment is risky and not
   recommended for beginners. Investing in stocks is a great way to make more
   money, but it's also a riskier investment.
+intro: You can either love it or hate it. But investing is something that we all
+  have to deal with at some point in our lives. If you’re someone who likes
+  math, logic, and problem-solving – and doesn’t shy away from risk – then maybe
+  investing is for you. For the rest of us, however, the idea of investing can
+  seem a little bit scary. But don’t worry; investing is much simpler than most
+  people think, especially if you have a basic understanding of how personal
+  finance works. Keeping a detailed record of your money isn’t difficult and
+  every person should invest their earnings for the future. Whether you have $5
+  or $500 to invest as a beginner, there are lots of great places to put that
+  money so that it can grow over time. The trick is knowing which investment
+  options are best for you and your circumstances...
 ---
 
 ## What is investing?

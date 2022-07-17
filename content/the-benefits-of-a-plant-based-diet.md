@@ -1,7 +1,7 @@
 ---
 title: The benefits of a plant-based diet
 createdAt: 2022-07-07T06:05:41.811Z
-updatedAt: 2022-07-16T16:20:05.808Z
+updatedAt: 2022-07-17T15:00:31.766Z
 category: health
 summary: A plant-based diet is a type of dietary pattern that focuses primarily
   on whole plants such as vegetables, legumes, fruits, nuts, seeds, and grains.
@@ -11,6 +11,15 @@ summary: A plant-based diet is a type of dietary pattern that focuses primarily
   heart diseases, and hypertension. An important advantage is that it can help
   people manage conditions such as gastrointestinal disorders and autoimmune
   diseases such as rheumatoid arthritis and multiple sclerosis.
+intro: >-
+  There is increasing awareness among people about the benefits of a
+  plant-based diet. Many people seem to be transitioning to a vegetarian or
+  vegan diet for health reasons. Some are also taking up this diet to offset the
+  effects of climate change and reduce their carbon footprint. 
+
+  A plant-based diet involves consuming plants as primary food sources rather than animal products. Apart from being rich in vitamins, minerals, and other nutrients, plant-based diets have been linked to numerous health benefits — lower risk of obesity, cardiovascular diseases, type 2 diabetes and cancer; higher intake of antioxidants and fiber; lower blood pressure and cholesterol levels; and better management of chronic conditions such as hypertension.
+
+  There are many advantages to switching to a plant-based diet — even if you’re not ready to become fully vegan. These benefits will probably make you think twice before reaching out for that next steak or chicken wing…
 ---
 
 ## An Introduction to a Plant-based diet

@@ -1,7 +1,7 @@
 ---
 title: The disadvantages of mediation
 createdAt: 2022-07-09T06:13:22.178Z
-updatedAt: 2022-07-16T15:48:20.065Z
+updatedAt: 2022-07-17T15:00:30.034Z
 category: life
 summary: Many cases are not resolved during the mediation process, and instead
   end up going to court. Mediation is not a magic wand that will make all your
@@ -12,6 +12,18 @@ summary: Many cases are not resolved during the mediation process, and instead
   documents if the case progresses to litigation. If you have concerns about
   disclosing sensitive information, mediation may not be the best option for
   you.
+intro: >-
+  Mediation is often considered a win-win solution for parties in a
+  dispute. It’ll help you find common ground, give you the opportunity to
+  resolve your issues and steer clear of the high cost and time consumption of
+  going to court. Sounds like a perfect solution, right? Well, nothing is
+  perfect — even mediation. While it does have many benefits, there are also
+  some drawbacks that you should consider carefully before deciding whether or
+  not to go ahead with mediation. 
+
+  There are pros and cons to any decision we make in life. Weighing up all the pros and cons of mediation will help you determine if the potential benefits outweigh the potential downsides of this dispute resolution technique. 
+
+  Keeping in mind what might go wrong at mediation can help you identify weaknesses in your case and prepare accordingly. After reading this article, if you feel more confident about proceeding with mediation as your first course of action, we suggest having an attorney review your documents before signing on the dotted line.
 ---
 
 ## Mediation Has A Low Success Rate

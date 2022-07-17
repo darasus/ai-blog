@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Exercise and How to Get Started
 createdAt: 2022-07-17T11:48:22.198Z
-updatedAt: 2022-07-17T11:48:22.198Z
+updatedAt: 2022-07-17T15:00:31.874Z
 category: health
 summary: There are some subtle differences in the types of exercise, and which
   is best for you will depend on your individual circumstances. Strengthening
@@ -12,6 +12,14 @@ summary: There are some subtle differences in the types of exercise, and which
   or dancing. Strength training increases the amount of calories you burn, and
   it makes your muscles bigger and more metabolically active, which makes them
   burn even more calories.
+intro: >-
+  You don’t have to be an athlete, or even remotely active, to see benefits
+  from exercising. Regular exercise not only makes you feel good, it can also
+  help you live a longer, healthier life.
+
+  We all know that regular physical activity helps reduce the risk of obesity, hypertension, diabetes and other conditions related to sedentary lifestyles and poor eating habits. These benefits can be seen almost immediately and continue over time with consistent exercise.
+
+  The many benefits of exercise include: reducing stress, improving your mood and confidence; lowering your risk of heart disease and stroke; strengthening your bones and muscles; improving your balance and coordination; raising your metabolism so you burn more calories at rest; lowering your blood pressure; relieving depression; increasing oxygen to your brain so you think more clearly; increasing endorphins which makes you happier; giving you a healthy glow by improving skin tone and complexion, reducing acne and pimples.
 ---
 
 ## What Kind of Exercise Is Best?

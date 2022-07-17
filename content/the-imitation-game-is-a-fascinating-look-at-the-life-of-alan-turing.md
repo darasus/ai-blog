@@ -1,7 +1,7 @@
 ---
 title: '"The Imitation Game" is a fascinating look at the life of Alan Turing'
 createdAt: 2022-07-08T05:57:10.678Z
-updatedAt: 2022-07-17T07:25:23.584Z
+updatedAt: 2022-07-17T15:00:31.903Z
 category: culture
 summary: "Alan Turing was a mathematician and computer scientist who broke the
   Enigma code. He was convicted of \"gross indecency\" for being gay and
@@ -11,6 +11,14 @@ summary: "Alan Turing was a mathematician and computer scientist who broke the
   oxygen in the brain. Turing's idea was a revolutionary idea that would later
   influence the creation of all modern computers. Two years later, he killed
   himself with cyanide."
+intro: >-
+  In 1937, Alan Turing was born in Northern England. He would go on to
+  become a war hero, pioneer of computer science, and one of the greatest minds
+  of the 20th century. In 1951, he was convicted of “gross indecency” and
+  chemically castrated as punishment. Two years later, he killed himself with
+  cyanide. This is his story.
+
+  Turing was a brilliant man with many interests that went beyond mathematics and computer science: chess, cryptography, music theory and programming computers to sing are just some examples. This diverse background helped him crack the Nazi Enigma code during World War II at Bletchley Park (which has been nicknamed "Codebreaking Castle"). This saved countless lives and accelerated the end of the war by two years. After the war ended in 1945, Turing continued working as an cryptanalyst for a few more years before turning his attention to other interests –- and it is these interests that led to his arrest and untimely death at age 41.
 ---
 
 ## Deciphering the Enigma

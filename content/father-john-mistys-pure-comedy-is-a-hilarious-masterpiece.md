@@ -1,7 +1,7 @@
 ---
 title: "\"Father John Misty's 'Pure Comedy' is a Hilarious Masterpiece\""
 createdAt: 2022-07-08T05:59:35.853Z
-updatedAt: 2022-07-17T07:26:38.586Z
+updatedAt: 2022-07-17T15:00:32.003Z
 category: culture
 summary: Pure Comedy is an ambitious, wide-ranging statement that is
   well-conceived, deftly executed and persistently compelling. The songs are
@@ -11,6 +11,20 @@ summary: Pure Comedy is an ambitious, wide-ranging statement that is
   driven by consumerism, vanity, and instant gratification. The album opens with
   the sound of a cash register and a voice intoning, “Welcome to the comedy
   show.” It’s a multi-genre parade of human absurdity.
+intro: It’s hard to know what to expect from Father John Misty. It’s not that J.
+  Tillman can’t be trusted to deliver an album full of his trademark wry, barbed
+  and acutely self-aware commentary; quite the opposite. It’s just that Tillman
+  has become so adept at subverting expectations that it feels like anything
+  could happen next. The peak of this particular Tillman arc came on the third
+  track of his second album as Father John Misty – “Holy Hell” – when he
+  introduced himself as a “self-loathing monk,” with “an unfortunate addiction
+  to cheap prose and even cheaper women…a meanspirited, sex-addicted martyr.”
+  That was 2015, though; since then, he married and divorced comedian and
+  podcaster Golightly (aka New York-based singer-songwriter Megan "Meg" Good) in
+  a ceremony officiated by their mutual friend Kurt Vile (and documented in a
+  subsequent video series). Not exactly something you’d expect from the guy who
+  recorded an infamous acoustic version of Taylor Swift's "Blank Space," but
+  there you have it.
 ---
 
 ## The best album of 2017?

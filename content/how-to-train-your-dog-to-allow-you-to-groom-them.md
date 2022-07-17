@@ -1,7 +1,7 @@
 ---
 title: How to Train Your Dog to Allow You to Groom Them
 createdAt: 2022-07-08T06:26:11.747Z
-updatedAt: 2022-07-16T15:19:41.346Z
+updatedAt: 2022-07-17T15:00:29.895Z
 category: life
 summary: The first step in grooming your dog is to brush out all of their fur
   with a regular touch-up brush. This will help to get out any mats or tangles
@@ -9,6 +9,15 @@ summary: The first step in grooming your dog is to brush out all of their fur
   bath to make sure they are clean and healthy. After you finish brushing out
   their fur, you can then use clippers to give them a short cut. You’ll also
   want to have the right shampoo and conditioner to clean your pet’s fur.
+intro: >-
+  Dogs are often seen as low-maintenance pets. While this is true in a lot
+  of cases, it’t necessarily the case all the time. Depending on your dog’s
+  breed and their natural instincts, you might find that grooming them can prove
+  to be a very tricky task. If you have struggled to get your dog used to being
+  groomed for some time now, there are several tips and tricks you can use to
+  help train them to allow you to do so. 
+
+  Dog grooming is something that many pet owners struggle with from time to time, especially if your pet has a specific type of fur that doesn’t grow too much like long hair or curly hair. It’s natural for dogs to dislike having their hair caught in things like bushes or trees while they hunt or run around outside; however, it can also be difficult when trying to keep their hair short and tidy at home.
 ---
 
 ## What you will need

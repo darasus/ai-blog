@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Gold: The Bitcoin Forks"
 createdAt: 2022-07-07T16:55:38.024Z
-updatedAt: 2022-07-17T07:22:44.725Z
+updatedAt: 2022-07-17T15:00:31.220Z
 category: crypto
 summary: Bitcoin Gold, or BTG, is a new cryptocurrency derived from the original
   Bitcoin blockchain. Bitcoin Gold was created with the goal of creating a more
@@ -11,6 +11,20 @@ summary: Bitcoin Gold, or BTG, is a new cryptocurrency derived from the original
   been growing in popularity over the past few years, but it has a scalability
   issue. The more data that each block can store, the more transactions the
   network can process.
+intro: "You may have heard of a fork before — as in, the idea of a software
+  developer making a copy or “fork” of another program’s code. In the world of
+  computer programs and coding, it isn’t uncommon for someone to make a modified
+  version of another person's code with the intention of adding some new feature
+  or fixing problems with the original. For example, one might see an error in
+  another programmer’s code and fix it to prevent other coders from encountering
+  that problem as well. This is essentially what a fork in programming terms is:
+  Take an old piece of code and make changes to improve it. A fork can happen
+  when developers disagree about how to deal with an issue (which is not
+  uncommon) or if there’s some other reason that makes them want to branch off
+  from the original source code and go their own separate way.  Moreover, there
+  are many different types of forks beyond just software! In this article we
+  will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin
+  Cash."
 ---
 
 ## What is a Bitcoin Fork?

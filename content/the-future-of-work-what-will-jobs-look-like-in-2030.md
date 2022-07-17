@@ -1,7 +1,7 @@
 ---
 title: "The future of work: what will jobs look like in 2030?"
 createdAt: 2022-07-07T06:05:40.578Z
-updatedAt: 2022-07-16T15:57:13.009Z
+updatedAt: 2022-07-17T15:00:30.838Z
 category: business
 summary: "The future of work will be more connected and collaborative than ever
   before, with new ways to work and new tools that make it easier to get things
@@ -11,6 +11,17 @@ summary: "The future of work will be more connected and collaborative than ever
   together. Future of work is likely to see the rise of automation and robotics,
   as machines are designed to perform more human tasks and take over the jobs
   that are either dangerous or that people don't want to do."
+intro: Today, most people visit their desk just two or three days a week,
+  spending the rest of the time working virtually from anywhere. The rise in
+  telecommuting has transformed workplaces by enabling employees to work from
+  home and eliminating the need to commute. But it’s also meant that the role of
+  work is changing faster than ever before. The future of work is changing fast
+  too. As we enter into the digital age, there are new opportunities and
+  challenges for jobs as we know them today. New jobs are being created, some
+  old ones are disappearing, and many more will be influenced by technology in
+  years to come. How will different industries adapt? What skills will be
+  required in 10 years’ time? And what implications does this have for education
+  today?
 ---
 
 ## What Will The Future Of Work Look Like?

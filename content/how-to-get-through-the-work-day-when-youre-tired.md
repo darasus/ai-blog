@@ -1,7 +1,7 @@
 ---
 title: How to get through the work day when you're tired
 createdAt: 2022-07-07T06:05:40.891Z
-updatedAt: 2022-07-16T16:10:40.866Z
+updatedAt: 2022-07-17T15:00:31.549Z
 category: health
 summary: These tips will help you stay alert and energized during your work day.
   Eating a small, but healthy meal before work is the best way to stay
@@ -10,6 +10,15 @@ summary: These tips will help you stay alert and energized during your work day.
   combat laziness and stay focused and motivated throughout the work day, no
   matter how early your shift starts or when you’re feeling fatigued, you can
   relax and enjoy your day with confidence.
+intro: >-
+  Fatigue at work can be a real struggle for some people, but luckily there
+  are ways to cope with the challenges of feeling tired at work. 
+
+  It’s not uncommon for employees to feel exhausted and unmotivated during the work day. Whether you have a long commute, stressful workload or unforgiving managers, being tired at your job is something that many workers deal with on a daily basis.
+
+  Unsurprisingly, research shows that when you’re tired at work it has a negative effect on your efficiency and performance. It also makes you more prone to making mistakes and forgetting things. 
+
+  Fortunately, there are ways to help manage these struggles and get through your work day when you’re tired. Here are some helpful tips that can make all the difference:
 ---
 
 ## Make your mornings count

@@ -1,7 +1,7 @@
 ---
 title: "Learn Javascript The Right Way: 10 Steps To Mastering Javascript"
 createdAt: 2022-07-17T07:19:33.667Z
-updatedAt: 2022-07-17T07:19:33.667Z
+updatedAt: 2022-07-17T15:00:30.790Z
 category: coding
 summary: With JavaScript, you can create interactive and responsive websites, as
   well as apps. With the rise of chatbots and voice assistants, it’s more
@@ -10,6 +10,16 @@ summary: With JavaScript, you can create interactive and responsive websites, as
   ES6 and ES7. There are other ways to improve your coding skills and boost your
   resume by joining a coding bootcamp where you’re serious about landing a job
   at a tech company.
+intro: >-
+  Did you know that Javascript is the most popular programming language in
+  the world? Did you also know that it’s one of the easiest programming
+  languages to learn? That means more and more people are picking up this skill
+  at lightning speed. It makes sense, considering how in-demand coding skills
+  are right now. And with so many introductory resources available, why not pick
+  up this skill sooner rather than later? After all, there’s no time like the
+  present to take your career to new heights. 
+
+  With that in mind, we’re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we’ve broken this guide down into easy-to-digest sections. If you’re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.
 ---
 
 ## Grab a copy of the fundamentals
