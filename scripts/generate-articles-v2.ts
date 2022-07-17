@@ -44,7 +44,11 @@ async function main() {
         post.createdAt = metadata.createdAt;
         post.updatedAt = metadata.updatedAt;
         post.category = metadata.category;
+        post.summary = metadata.summary;
         post.content = content;
+        if (!metadata.summary && response.summary) {
+          post.summary = response.summary;
+        }
       } else {
         if (metadata?.title && metadata?.createdAt) {
           post.title = metadata?.title;
@@ -57,6 +61,7 @@ async function main() {
         post.updatedAt = new Date();
         post.category = category;
         post.content = response?.content;
+        post.summary = response?.summary;
       }
 
       const formattedPost = formatMarkdown(post as MDXPost);

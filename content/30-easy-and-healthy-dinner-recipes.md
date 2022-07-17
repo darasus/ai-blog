@@ -1,8 +1,14 @@
 ---
 title: 30 easy and healthy dinner recipes
 createdAt: 2022-07-07T06:05:39.702Z
-updatedAt: 2022-07-17T05:58:16.322Z
+updatedAt: 2022-07-17T07:46:28.978Z
 category: cooking
+summary: A vegetable-based diet is key to healthy living. Vegetables are low in
+  fat and have few calories, yet they are high in fibre. People often assume
+  that vegetables are a source of protein, but this isn’t the case. They’re also
+  high in carbohydrates, which can be a good or bad thing depending on your diet
+  and lifestyle. These recipes are easy to put together with ingredients you
+  probably have in your kitchen, especially if you have a well-stocked pantry.
 ---
 
 ## A vegetable-based diet is key to healthy living

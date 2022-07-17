@@ -1,8 +1,16 @@
 ---
 title: How to make the perfect roast chicken
 createdAt: 2022-07-07T06:05:39.730Z
-updatedAt: 2022-07-17T05:58:31.185Z
+updatedAt: 2022-07-17T07:46:28.985Z
 category: cooking
+summary: The perfect roast chicken is a juicy, flavoursome chicken roasted to
+  perfection. Rely on a trusted source of meat that’s free-range and organic if
+  possible. Dry-brining will help your skin to crisp up during the roasting
+  process. Roasted garlic is delicious, and the flavour will permeate your
+  chicken with a subtle, but delicious aroma. Roast vegetables and aromatics can
+  be roasted with your chicken for a delicious and nutritious side dish that
+  goes perfectly with chicken. Flavour balance with herbs and spices, such as
+  spices, also has its own natural flavour.
 ---
 
 ## The perfect roast chicken

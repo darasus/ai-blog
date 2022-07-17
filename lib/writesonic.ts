@@ -33,6 +33,17 @@ axiosRetry(client, {
 export class Writesonic {
   private cache = new CacheService();
 
+  private handleError =
+    (type: "content" | "summary" | "outlines" | "intro") => (error: any) => {
+      const e = {
+        code: error?.code,
+        status: error?.response?.status,
+        message: error?.response?.statusText,
+      };
+      console.log("Error generating content: ", e);
+      throw e;
+    };
+
   private generateIntro = async ({
     title,
   }: {
@@ -46,15 +57,7 @@ export class Writesonic {
             blog_title: title,
           })
           .then((response) => response.data[0].text)
-          .catch((error) => {
-            const e = {
-              code: error?.code,
-              status: error?.response?.status,
-              message: error?.response?.statusText,
-            };
-            console.log("Error generating intro: ", e);
-            throw e;
-          }),
+          .catch(this.handleError("intro")),
       3650
     );
 
@@ -75,15 +78,7 @@ export class Writesonic {
           })
           .then((response) => response.data[0].text)
           .then((text) => text.split("\n").map((line: string) => line.trim()))
-          .catch((error) => {
-            const e = {
-              code: error?.code,
-              status: error?.response?.status,
-              message: error?.response?.statusText,
-            };
-            console.log("Error generating outlines: ", e);
-            throw e;
-          }),
+          .catch(this.handleError("outlines")),
       3650
     );
 
@@ -106,27 +101,44 @@ export class Writesonic {
             article_sections: outlines,
           })
           .then((response) => response.data.data[0].content)
-          .catch((error) => {
-            const e = {
-              code: error?.code,
-              status: error?.response?.status,
-              message: error?.response?.statusText,
-            };
-            console.log("Error generating content: ", e);
-            throw e;
-          }),
+          .catch(this.handleError("content")),
       3650
     );
+
+  private generateSummary = async ({
+    content,
+  }: {
+    content: string;
+  }): Promise<string> => {
+    return this.cache.fetch(
+      stringToHash(JSON.stringify({ type: "summary", content })),
+      () =>
+        client
+          .post("/summary", {
+            article_text: content,
+          })
+          .then((response) => {
+            const summary = response.data?.[0]?.summary.trim();
+            if (!summary) {
+              throw new Error("No summary found");
+            }
+            return summary;
+          })
+          .catch(this.handleError("summary")),
+      3650
+    );
+  };
 
   public generateArticle = async ({
     title,
   }: {
     title: string;
-  }): Promise<{ title: string; content: string }> => {
+  }): Promise<{ title: string; content: string; summary: string }> => {
     const intro = await this.generateIntro({ title });
     const outlines = await this.generateOutlines({ title, intro });
     const content = await this.generateContent({ title, intro, outlines });
+    const summary = await this.generateSummary({ content });
 
-    return { title, content };
+    return { title, content, summary };
   };
 }
