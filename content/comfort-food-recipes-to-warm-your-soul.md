@@ -1,58 +1,60 @@
 ---
 title: Comfort food recipes to warm your soul
 createdAt: 2022-07-07T06:05:39.824Z
-updatedAt: 2022-07-16T13:53:27.637Z
+updatedAt: 2022-07-17T06:21:43.992Z
 category: cooking
 ---
 
-## 1. Chicken and Rice Casserole
+## Taco Soup
 
-This dish is pure comfort, with a creamy sauce and hearty rice. Casseroles are a great choice for cold weather, because they are a one-pot meal. Chicken and rice is a classic combo, and a great source of protein and B vitamins. For the best nutrition, choose whole grain rice, which is high in fiber and other important nutrients. Like other grains, rice is high in complex carbohydrates – a key source of energy because it helps your body break down other foods and makes them more digestible.
+Who doesn’t love a warm bowl of taco soup? It’s like a hearty stew in the form of a taco – what’s not to love? Loaded with delicious taco-flavored goodness like beans, tomatoes, corn, and ground beef, this rich and spicy soup is sure to become a new family favorite.
+This recipe is also super-convenient for busy weeknights. All you need to do is dump all the ingredients into a slow cooker and let it do the work for you. With minimal prep and a minimal number of steps, this taco soup recipe is perfect for a quick and easy dinner. Plus, it’s kid-friendly and easily adaptable for vegetarians or vegans – just use vegetable broth instead of beef broth and skip the meat, and you’re good to go!
 
-This recipe is also great for families, and can be easily adapted to make enough to last through the week. To make it a little more healthy, swap out the full-fat canned soup for low-fat varieties, and substitute vegetable or chicken stock for the water in the rice.
+## Chicken Tortilla Casserole
 
-## 2. Baked Mac and Cheese
+Tortilla casseroles are a popular Mexican dish, but they don’t have to be reserved just for Taco Tuesdays – they’re also perfect for a cozy and comforting winter meal. This particular recipe is made with tender chicken, corn, black beans, and plenty of cheese.
+This dish is a great option if you’re in need of a few easy comfort food recipes. It’s simple to make and only requires a few ingredients. Plus, it’s versatile enough that you can use it as a side dish or even a main course. This dish is best served topped with a dollop of sour cream and a sprinkling of sliced green onions. It’s also great served with a salad or some crunchy tortilla chips.
 
-Macaroni and cheese is one of those foods that makes people happy just thinking about it. This classic comfort food is easy to make and so delicious. You can make it healthier by using whole wheat pasta, reduced fat cheese and low-fat milk. You can even get crazy with the ingredients and add broccoli, cauliflower or even spinach for a Popeye twist!
+## Baked Mac and Cheese
 
-For the best nutrition, choose whole wheat pasta. Unlike white pasta, whole wheat pasta is high in fiber, which is important for your health because it keeps your digestive system healthy. People often eat pasta for comfort, but the high amount of calories and carbohydrates can make you feel tired and bloated. Whole wheat pasta is a better option because it has fewer calories and more fiber.
+Mac and cheese is a childhood classic, but it also makes for a great grown-up comfort food recipe. This creamy and cheesy baked macaroni and cheese is made with plenty of butter and a rich and creamy cheese sauce – no squirty cheese packets required!
+This mac and cheese recipe is similar to a classic stovetop mac and cheese, but it’s baked instead. It’s also made with a combination of cheddar and Parmesan cheeses for a nutty and slightly tangy flavor. Regular mac and cheese is certainly delicious, but baking it gives it a texture that’s slightly more like a baked pasta dish.
+This baked mac and cheese recipe is super-simple to make and is the perfect choice when you’re craving something warm and gooey. You can even make it ahead of time and reheat it when you’re ready to eat – it only gets better after a few hours in the oven!
 
-## 3. Cheesy Corn Chowder
+## Crockpot Rotisserie Chicken
 
-When the weather is cold outside, it’s nice to have a warm and comforting soup. This one combines and blends together different flavors, most of which should be in your kitchen already. The cheese, corn and tomatoes give the chowder a very distinct taste. This is one of those recipes that can be modified to fit your tastes and nutritional needs.
+Have you ever made a whole rotisserie chicken in the crockpot? It’s incredible. This recipe uses a whole chicken to make a hearty and delicious homemade chicken stock. Then, you can use that chicken stock to make tons of different recipes – like this rich and creamy chicken tortilla soup!
+This recipe is super-versatile and great for using up leftovers. You can serve the soup as is, or you can add in chopped veggies to bulk it up and make it a bit more like a chili. This recipe is also a great choice for using up any leftover rotisserie chicken you might have hanging around. You can shred the chicken and add it to the soup or use the shredded chicken in something else entirely. With all the uses you can get out of one rotisserie chicken, why not keep one in the fridge at all times?
 
-For the best nutrition, choose low-fat or non-dairy cheese. Cheese is a classic comfort food – a nice bit of gooey goodness that will put a smile on anyone’s face. It’s also incredibly high in calories, but low in nutrition, so if you want to stay healthy, you should pick low-fat or non-dairy cheese. These varieties won’t have as many calories and fat as regular cheese, but will still have the same flavor and texture.
+## Slow Cooker Beef Stew
 
-## 4. Shepherd’s Pie
+A warm and hearty bowl of slow cooker beef stew is the perfect storm of convenience and comfort food. This recipe makes use of a few simple tricks and shortcuts to get the stew bubbling away in the slow cooker in no time.
+This recipe is also a great way to repurpose leftover roast beef. You can use any cut of beef you have, but a tougher or cheaper cut will take longer to cook. Potatoes and carrots round out the stew and give it a classic flavour. Once the stew is done cooking, top it with a few slices of crusty bread for a truly drool-worthy meal.
 
-This British classic is easy to make, warm and full of hearty vegetables. It’s a great choice for winter when fresh vegetables are harder to come by. This dish is a lot easier to make than a classic shepherd’s pie, which usually calls for mashed potatoes. This vegan version calls for mashed sweet potatoes, making it easier to prepare.
+## Cheesy Corn and Bean Bowl
 
-For the best nutrition, choose sweet potatoes over regular potatoes. Potatoes are often used as a side dish in many comfort food recipes, like shepherd’s pie. Sweet potatoes have more nutrients than regular potatoes, including fiber, vitamin C, vitamin B6 and potassium. They also have less calories than regular potatoes because they are generally bigger.
+This quick and easy cheesy corn and bean bowl is a one-bowl meal that’s equally delicious for breakfast or dinner. This meal is a great choice if you’re looking for some easy comfort food recipes to make on a weekday night.
+This recipe makes use of a few simple ingredients like corn, black beans, salsa, cheese, and eggs. You can decide how much or how little of each ingredient you want to use. The bowls are made by mixing everything together and topping them with cilantro and scallions.
+While these bowls are delicious as-is, you can also add in some cooked meat or veggies for a heartier meal. The bowls are great for using up leftovers and are easily customized to your taste.
 
-## 5. Beef Stew
+## Comforting Noodle Bowl with Chicken
 
-This stew is chock-full of vegetables, spices and tender pieces of beef. You can make it on a lazy Sunday and have it stored away in the fridge for the rest of the week. It’s a good choice for winter, because it’s warm and hearty and can help you fight cold.
+This comforting noodle bowl is a great way to warm up on a chilly night. It’s easy to make and requires few ingredients, so it’s a great choice for busy weeknights.
+This recipe uses shiritaki noodles, which are a type of low-calorie and low-carb noodle made from a type of mushroom. You can also use regular noodles or rice instead to make the dish a bit more filling.
+This recipe takes the idea of a classic Asian chicken and rice bowl and elevates it with the addition of roasted broccoli and red peppers. If you’re in a rush, you can skip roasting the vegetables, but roasting brings out the flavour in the broccoli and peppers.
 
-For the best nutrition, choose beef that is 95% lean. Stew is a classic comfort food, and you can make it even healthier by choosing lower-fat beef or using fewer vegetables. The flavor of a stew is determined by the amount of vegetables used, but if you want to cut down on calories, try using fewer vegetables.
+## Stuffed Acorn Squash Casserole
 
-## 6. Baked Salmon with Sweet Potatoes
+Acorn squash is a versatile food that can be used in a variety of recipes. This stuffed acorn squash casserole is a perfect example. This casserole uses acorn squash halves to create a tasty and hearty casserole.
+This casserole has a few different components: a cheddar filling, a creamy sauce, and a crunchy topping. It’s an excellent option if you’re looking for lots of easy comfort food recipes to make during the winter months. This casserole makes enough to feed a family and can be eaten for both lunch and dinner.
+You can easily modify this casserole to suit your tastes. You can also make the casserole ahead of time and heat it up when you’re ready to eat. This casserole is excellent served with a side salad or some soup.
 
-Salmon and rice is a classic seafood and rice pairing. It’s also perfect for cold weather, because you can make it in the oven. It’s a great source of omega-3 fatty acids, which help lower cholesterol. Sweet potatoes are a source of vitamin A, which is important for eye health.
+## Rainbow Rotini Pasta with Vegetables and Meatballs
 
-For the best nutrition, choose wild salmon. Salmon is a great source of proteins and omega-3 fatty acids. The best salmon to eat is wild salmon, as opposed to farmed salmon, which is raised in fish farms where they are fed pollution and are given antibiotics. Wild salmon is lower in toxins and higher in omega-3 fatty acids.
+Pasta is one of the easiest and quickest things to make. It’s also one of the most comforting foods out there, making it a great choice for an easy comfort food recipe. This rainbow rotini pasta dish takes the classic mac and cheese and kicks it up a notch with the addition of veggies.
+This recipe uses a simple béchamel sauce to coat the pasta, which makes it rich and creamy. Vegetarians can omit the meatballs and just add more veggies, but omnivores can enjoy meatballs and pasta together.
+This recipe makes a lot of pasta, so you can either serve it for dinner with a salad or save it for leftovers. This meal is also easy to modify to suit your tastes. You can use any type of pasta and any type of vegetables you like.
 
-## 7. Brown Rice and Tuna Bowl
+## Conclusion
 
-This is a quick and easy recipe that can be prepared in just minutes. It’s a good choice for busy people who don’t have time to cook a complicated meal. It’s a great source of omega-3 fatty acids and protein.
-
-For the best nutrition, choose low-sodium tuna. Tuna is a great source of protein and omega-3 fatty acids. It’s a very common and simple recipe, but it’s important to choose low-sodium varieties. Sodium is a major cause of high blood pressure, so choosing low-sodium varieties can help reduce your risks.
-
-## 8. Tofu Scramble with Mixed veggies
-
-This is a great recipe for vegetarians who are craving a comforting and hearty meal. This is a great recipe for vegetarians who are craving a comforting and hearty meal. It’s a great source of protein and calcium. This is the perfect recipe for people who are trying to eat less meat.
-
-For the best nutrition, choose reduced fat tofu. Tofu is made from soybeans and is a great source of protein. It’s also low in calories, but it’s important to choose reduced fat varieties to reduce your daily fat intake.
-
-## 9. Conclusion
-
-These are just a few recipes that will help you get through the winter blues. Comfort foods usually aren’t the healthiest choices, but they can be very helpful in certain situations. When the weather is cold and gloomy, and you’re feeling tired, it can be difficult to stay motivated. Remember that you can always choose what you eat. Stay away from processed foods and make your own meals to save money and improve your health!
+These 15 yummy comfort food recipes are perfect for cold winter days and will make you feel warm and

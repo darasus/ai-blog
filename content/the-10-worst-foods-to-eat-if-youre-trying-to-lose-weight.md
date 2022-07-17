@@ -1,42 +1,58 @@
 ---
 title: The 10 Worst Foods to Eat if You're Trying to Lose Weight
 createdAt: 2022-07-09T06:37:54.079Z
-updatedAt: 2022-07-16T14:08:16.153Z
+updatedAt: 2022-07-17T06:04:46.417Z
 category: cooking
 ---
 
-## Bacon
+## Beans and legumes
 
-Bacon is often touted as being a “healthy” food because it’s low in carbs. But what about the high amount of fat, sodium, and calories from fat? That’s a lot of bad stuff packed into one slice of bacon. If you’re trying to watch your weight, bacon is not the best choice for a snack. It’s also not very nutritious, so if you’re not eating it for the flavor, there are better, more filling choices out there. If you’re craving bacon, you could try making a healthier version at home.
+Beans and legumes are high in fibre, which is great for weight loss, but they also have a lot of calories and not much protein. If you’re trying to lose weight, you should eat them in moderation. Otherwise, you may not get enough protein, which can lead to muscle loss, particularly while you’re strength training. You’ll also be less likely to build muscle, which helps boost your metabolism, the rate at which your body burns calories. Other problematic issues with eating beans and legumes include the fact that they contain oligosaccharides, which are indigestible carbohydrates that can cause gas, and sapiens, which can trigger a insulin response, leading to weight gain.
 
-## Doughnuts
+## Beef
 
-Doughnuts are often associated with our childhoods — maybe a birthday, or maybe even getting a doughnut while we were in the car with our parents. But if you’re trying to lose weight, those doughnuts aren’t doing you any favors. Doughnuts are high in calories, sodium, and fat, and they’re also pretty low in protein and fiber. You could make a healthier version at home by baking some donuts with a low-fat glaze or icing.
+Beef is a great source of protein, but with its high saturated fat content, which is linked to weight gain and cardiovascular disease, it’s not the best choice for people trying to lose weight. Not to mention that eating a lot of red meat can also increase your risk of colorectal cancer.
+If you do eat beef, try to eat it in moderation, or better yet, choose lean cuts like flank steak, top loin or sirloin, which contain less than 2 grams of saturated fat per serving. If you prefer ground beef, opt for 96/4, which has less than 2 grams of saturated fat per serving, as well.
 
-## Potato Chips
+## Cheese
 
-Potato chips are delicious, salty, crunchy snacks — but they’re also one of the worst foods to eat if you’re trying to lose weight. Potato chips are loaded with calories, sodium, and fat.  If you’re eating just a small serving (about 10 chips), that amount of chips is about 150 calories — and that’s without any dip. If you’re trying to lose weight, potato chips aren’t a very good choice. But you can make healthier versions at home. You can also try baked chips if you’re craving the crunch but not the fat.
+Although cheese is obviously high in fat, it also has a high amount of calories. Eating lots of cheese can set you up for weight gain because you’ll be consuming a lot of fat and very few nutrients, which will slow down your weight-loss progress.
+If you’re trying to lose weight and you love cheese, try to eat it in moderation. You can also opt for reduced-fat cheese, which has about half the fat of full-fat cheese.
+
+## Eggs
+
+Eggs are a high-quality protein that can help you lose weight, but they also contain a lot of fat and cholesterol. As with cheese, eating too many eggs can lead to weight gain.
+If you’re trying to lose weight, you should limit yourself to one egg every day. One egg has about 190 calories. If you eat two eggs in a day, you’ll consume 380 calories, whereas three eggs contain 510 calories.
+
+## Hot Dogs
+
+Hot dogs are often made with meat and fat, which means they’re high in calories, fat and sodium.
+If you’re trying to lose weight, you should avoid hot dogs since they’re high in calories and fat. Plus, they contain sodium nitrate, a preservative that may increase your risk of colorectal cancer. Even better, try to replace hot dogs with a healthier option, like an open-faced sandwich on whole grain bread, or scrambled eggs with spinach and tomatoes.
 
 ## Ice Cream
 
-Ice cream is a dessert that’s both decadent and delicious. It also happens to be one of the worst foods for losing weight. Ice cream is high in sugar, fat, and calories. A small bowl of ice cream with a few toppings has about 500 calories — which is a huge amount to eat in one sitting. If you’re trying to lose weight, it’s best to avoid ice cream. But hey, you don’t have to be deprived of creamy desserts! There are healthier alternatives out there. You could try making a low-sugar ice cream at home with a can of coconut milk.
+Ice cream is high in sugar, fat and calories. Plus, it contains very few nutrients that are helpful for losing weight.
+If you’re trying to lose weight, you should avoid ice cream since it’s high in calories and provides very few nutrients. Instead, try to find a healthier alternative. You can make frozen yogurts at home or buy some low-calorie frozen desserts.
 
-## Shrimp
+## Processed Meats
 
-Shrimp is often touted as a healthy seafood because it’s low in fat and calories. But it’s also low in protein, which means it’s not a very filling choice for a meal. Shrimp is also high in sodium, which can cause you to retain water, making you look bigger. If you’re trying to lose weight, shrimp isn’t the best choice. You could try other types of seafood, or use a low-fat sauce or dressing to flavor the shrimp and make it more filling.
+Processed meats like deli meats, bacon and sausage are high in salt and fat, which makes them a bad choice for people who are trying to lose weight.
+If you’re trying to lose weight, you should avoid processed meats like deli meats, bacon and sausage since they’re high in fat and sodium, and provide little nutritional value. Instead, try to find healthier alternatives, like turkey or chicken breast, which are lower in fat than bacon or sausage.
 
-## Cheese Fries
+## Pasta and White Bread
 
-Cheese fries are often served as appetizers in restaurants. With the melted cheese, they’re a delicious, gooey treat. But if you’re trying to lose weight, cheese fries are definitely one of the worst foods for you. They’re high in calories and fat, and they don’t fill you up for long. If you’re trying to lose weight, cheese fries aren’t a good choice. But if you’re craving them, you could try making them at home with a healthier cheese.
+White pasta and white bread are high in calories and aren’t good for people who are trying to lose weight. They also contain little protein and fibre.
+If you’re trying to lose weight, you should limit your intake of pasta and white bread, since they’re high in calories and provide very little nutritional value. Instead, try to find healthier alternatives, like whole-wheat pasta or bread, which are higher in fibre and protein.
 
-## Cake
+## Dried Fruit
 
-Cake is something we often associate with birthdays and celebrations. But if you’re trying to lose weight, cake isn’t the best choice. Cake is loaded with sugar and fat. A slice of cake can have around 500 calories — and that’s just one slice! If you’re trying to lose weight, cake is a treat that should be eaten rarely, if at all. But if you’re craving cake, you could try making a healthier version at home.
-
-## Corned Beef Sandwich
-
-If you love a good deli sandwich, you might be eating the worst foods to eat while trying to lose weight. Many deli meats are high in sodium and fat, and they’re not very filling. A corned beef sandwich can have as many as 900 calories! If you’re trying to lose weight, deli meats aren’t the best choice. You could try other types of meat or make a healthier version at home.
+Dried fruits, particularly raisins, are high in sugar and calories, which means they’re not a good choice for people who are trying to lose weight.
+If you’re trying to lose weight, you should avoid dried fruits since they’re high in sugar and calories. Plus, they provide very few nutrients that are helpful for losing weight. Instead, try to find healthier alternatives, like apples or bananas, which provide more nutrients like fibre that will help speed up your weight loss.
 
 ## Conclusion
 
-Everything in life is about balance. You shouldn’t try to be perfect 100% of the time. Instead, you should make the healthiest choices you can for the majority of the time. Then, you can make some exceptions every now and then. Eating badly every once in a while won’t harm you. In fact, it can help you reset your cravings and allow you to make better choices in the long run. The key is to not make a habit of it. Eating badly every day is one of the worst things you can do if you’re trying to lose weight.
+The most important thing about dieting is that you find a method that works for you. No two people are the same, so what works for your friend may not work for you. With that said, there are some foods that are universally bad for anyone trying to lose weight.
+
+That being said, there are some foods that are universally good for anyone trying to lose weight. For example, broccoli is packed with fibre, vitamins and minerals, and it’s a great choice for those who are trying to lose weight. With that in mind, it’s important to know the 10 worst foods to eat if you’re trying to lose weight.
+
+These foods are problematic because they are high in calories, fat or sugar, or they have very little nutritional value. If you’re trying to lose weight, it’s important to avoid these foods.

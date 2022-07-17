@@ -1,114 +1,49 @@
 ---
 title: Plant proteins vs animal proteins
 createdAt: 2022-07-09T06:39:52.028Z
-updatedAt: 2022-07-16T14:16:30.443Z
+updatedAt: 2022-07-17T06:17:20.097Z
 category: cooking
 ---
 
-## Instructions
+## What are protein sources?
 
-- It is important to keep track of your progress throughout this assignment, so please keep this document open at all times to track your progress as you go along. Please ensure that the document is saved regularly.
+Proteins are the building blocks of life. They are found in every cell of the body and serve a wide variety of functions.
+Most people associate proteins with muscle growth, but they are also important for the immune system, metabolic functions, blood clotting, hormone production, and tissue repair.
+The best sources of protein are plants such as legumes, grains, nuts, and seeds - especially hemp, chia, and flax seeds.
 
-- You will be expected to submit your completed article as a Microsoft Word file (.docx).
+Other plant-based sources of protein include soy products, legumes, and whole grains, Other plant-based foods that contain protein include broccoli, Brussel sprouts, cabbage, carrots, cauliflower, cucumber, garlic, kale, nuts, potatoes, pumpkin, squash, sweet potatoes, tomatoes, and zucchini.
 
-- The article should cover all the pros and cons of both, their nutrition value and the impacts on our body. It should have 3 - 5 subheadings with appropriate images and references.
+## Why is protein so important?
 
-- The keyword density for this article should be around 5-6% . The final document size after compression should not exceed 1 MB.
+Protein is an essential macronutrient that provides energy, immunity, and a feeling of fullness.
+People who lead an active lifestyle require more protein in their diet. It helps build muscle and repair tissue, which is essential for athletes and fitness enthusiasts.
+People who are recovering from an injury or are at risk of developing osteoporosis should also consume more protein. Protein can also help with weight management, especially when you consume it in combination with healthy fats.
 
-- This is an assignment to test your ability to work under pressure as well as measure your capacity to manage time efficiently and handle a new task from start to end.
+Protein is not just for building muscle - it's an essential part of a balanced diet. Your body needs it to stay healthy and function properly. Protein can be found in lots of different foods, including meat, fish, dairy products, beans, and legumes. It's important to eat a wide variety of proteins because each food offers a different mix of essential amino acids. Amino acids are the building blocks of protein and need to be present in the right amounts for the body to function properly.
 
-## Plant Proteins
+## The benefits of plant-based proteins
 
-- Proteins are macronutrients that are essential for growth and development of the human body. They are the building blocks of muscles, bones, blood, and skin. They aid the functioning of several organs such as the heart, liver, and kidneys.
+They are an excellent source of fibre. Fibre is essential for a healthy gut and can help prevent diseases like diabetes and heart disease. Plant-based sources also have very low amounts of saturated fats, which are linked to a higher risk of heart disease.
 
-- Proteins are made up of amino acids. Of these amino acids, 9 are essential amino acids that need to be taken in through food. There are 3 types of plant proteins -
+They are a good source of minerals, vitamins, and antioxidants. Most vitamins are water soluble, which means the body doesn’t store them. That’s why it’s important to consume enough vitamins through food every day. Minerals such as iron, zinc, and calcium can also be found in plant-based foods. Antioxidants are very helpful for the body. They can slow down the process of aging and fight certain diseases. Blueberries, spinach, and tomatoes are some examples of foods that contain a high amount of antioxidants.
 
-- The plant proteins found in legumes, grains, and nuts have all 9 essential amino acids, making it a complete protein source.
+## The benefits of animal-based proteins
 
-- The plant proteins found in soybeans and soy products are equivalent to animal proteins in the sense that they are high in quality.
+Animal proteins are an excellent source of essential amino acids. They can help reduce the risk of diseases such as osteoporosis, diabetes, and heart disease. They are also a good source of minerals and vitamins B and D.
 
-- The plant proteins found in vegetables, fruits, and grains are low in quality. This means they do not have all 9 essential amino acids, so they need to be supplemented with a complete protein like that in animal sources.
+They are a good source of saturated fats. While one should not over-consume saturated fats, they are an essential part of a balanced diet. They can be very helpful for the immune system and metabolic functions.
 
-## Animal Proteins
+They have a decent amount of cholesterol. A moderate amount of cholesterol is essential for the body. It can help with hormone production, improve the immune system, and protect the liver.
 
-- Proteins are macronutrients that are essential for growth and development of the human body. They are the building blocks of muscles, bones, blood, and skin. They aid the functioning of several organs such as the heart, liver, and kidneys.
+## Plant-based proteins for the Fitness enthusiast
 
-- Animal proteins are those taken from animals such as cows, goats, pigs, and sheep. They are high in quality and are the main source of dietary protein for many people.
+These should be the main source of protein in any fitness enthusiast’s diet. That’s because they are easily digested and contain all essential amino acids.
 
-- There are 2 types of animal proteins -
+They can help provide long-lasting energy. It’s important to eat enough carbohydrates, but not too many. Otherwise, you’ll get tired quickly, and your workouts will suffer.
 
-- The animal proteins found in fish and fish products are low in quality. They do not have all 9 essential amino acids so they need to be supplemented with a complete protein like that in plant sources.
-
-- The animal proteins found in milk, milk products, and eggs are a complete protein source.
-
-## Comparison between plant and animal protein
-
-- The main difference between plant and animal proteins is in their quality. There are 3 types of plant proteins that are low in quality, and 2 types of animal proteins that are high in quality.
-
-- Plant proteins are low in quality as they are missing 1 of the 9 essential amino acids.
-
-- Animal proteins are high in quality as they include all 9 essential amino acids.
-
-- Another difference between plant and animal proteins is that plant proteins are water soluble, while animal proteins dissolve in fats and cholesterol.
-
-## Pros of Plant Proteins
-
-- Plant proteins are low in quality, but their benefits include -
-
-- They are cheaper than animal proteins.
-
-- They are easily available in all parts of the world.
-
-- They are good for people with allergies as they contain no allergens.
-
-- They promote a healthy digestive system as they are good for the probiotic bacteria that promote good digestion.
-
-- They are easy to digest as they do not contain any allergens.
-
-- They are a good source of fiber that helps in healthy bowel movements and lowers cholesterol.
-
-- They are helpful in weight loss as they make you feel full and satiated for a long time.
-
-- They are helpful in managing blood pressure.
-
-## Cons of Plant Proteins
-
-- Even though plant proteins are low in quality, their cons include -
-
-- They are not as easily digestible as animal proteins.
-
-- They do not contain all 9 essential amino acids like animal proteins.
-
-- They are not helpful for people who have high blood pressure.
-
-## Pros of Animal Proteins
-
-- Animal proteins are high in quality, and their benefits include -
-
-- They are easily digestible.
-
-- They contain all 9 essential amino acids.
-
-- They are helpful for people who have high blood pressure.
-
-- They are good for people with allergies.
-
-- They promote a healthy digestive system.
-
-- They are a good source of protein.
-
-- They are helpful in weight loss.
-
-- They are helpful in managing blood pressure.
-
-## Cons of Animal Proteins
-
-- Animal proteins are good, but their cons include -
-
-- They are expensive.
-
-- They are not easily available in all parts of the world.
+They can reduce muscle soreness after a workout. If you exercise regularly, you know how sore you can get. Certain plant-based proteins can help reduce this pain.
 
 ## Conclusion
 
-- To conclude, plant and animal proteins are different in many ways. Plant proteins are low in quality as they are missing 1 of the 9 essential amino acids, but their benefits include being cheaper, easier to digest, and good for people with allergies. Animal proteins, on the other hand, are high in quality as they include all 9 essential amino acids, and their cons include being expensive and not easily available in all parts of the world.
+Protein is one of the most important nutrients for a balanced diet, and it can be found in both animal-based and plant-based foods.
+While there is no evidence that one is better for you than the other, a balanced diet with a wide variety of proteins can help you stay healthy and fit.

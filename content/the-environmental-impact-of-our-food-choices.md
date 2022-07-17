@@ -1,40 +1,39 @@
 ---
 title: The Environmental impact of our food choices
 createdAt: 2022-07-09T06:39:48.039Z
-updatedAt: 2022-07-16T14:15:43.643Z
+updatedAt: 2022-07-17T06:14:46.775Z
 category: cooking
 ---
 
-## What is Organic Food?
+## How does our diet affect the environment?
 
-Organic food is any food produced using organic agriculture practices that focus on ecological cycles and biodiversity. Organic food is produced without the use of synthetic pesticides, synthetic fertilizers, genetically modified organisms, antibiotics, and certain kinds of preservatives.
-Organic foods are also not processed using irradiation or modified industrial solvents. It is both an agricultural movement and a form of self-regulating marketing.
+You might wonder why we’re talking about the environment when discussing dietary choices. But the fact is that our diet has a huge impact on the environment. When we eat, we consume resources that are needed to grow our food: soil, water, energy. Food production also generates waste, which can be harmful to the natural environment.
+A healthy and sustainable diet is one that balances the amount of resources it uses with the nutrients it provides. A diet that provides too many calories but not enough nutrients is unsustainable. An unbalanced or unhealthful diet has too much of one or more nutrients.
+A disproportionate amount of calories and nutrients can have a significant environmental impact.
 
-As a general rule, the fewer ingredients a food contains, the fewer potential problems there are with it. So, look for foods that are as close to their natural state as possible, and make sure to keep an eye on the ingredients lists.
+## Producing food has an environmental impact
 
-## The Environmental Impact of Producing Meat
+The growing demand for food has led to increased production of crops and livestock. This causes environmental damage through deforestation, water consumption, and soil erosion.
+A person who eats an average of 2,000 calories per day will consume about 7,100 pounds of food each year. To grow that much food, we need to use more than 10,000 gallons of water, about 5,000 sq. ft. of land, and generate about 2,600 pounds of carbon dioxide.
 
-The production of meat has a serious and significant impact on the environment. The carbon footprint of meat is large, due to the methane released from livestock and the amount of water and feed needed to grow livestock feed.
-The impact of meat production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
-The environmental impact of meat is significant, both in terms of greenhouse gas emissions and in the amount of freshwater consumed.
+## Overfishing and loss of biodiversity
 
-## The Environmental Impact of Producing Dairy and Eggs
+Livestock production uses the majority of our agricultural land, freshwater, and energy. Reducing the amount of meat in our diet could help reduce the amount of resources used for agriculture, which could help reduce the amount of fish being harvested.
+When people eat more fish, they are consuming the eggs and larvae of marine organisms. Since wild fish populations are already declining due to overfishing, aquaculture is being used to meet the growing demand for fish. But aquaculture uses significant amounts of resources — especially in terms of water and feed.
 
-The environmental impact of producing dairy and eggs is significant, with the greenhouse gas emissions of the dairy industry being 17 times higher than that of vegetables, and the carbon footprint of eggs being five times greater than that of vegetables.
-The environmental impact of dairy and eggs production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+## Desertification and deforestation
 
-## The Environmental Impact of Beans and Grains
+Agriculture accounts for about 60% of global deforestation. It has reduced the amount of forested land by about half since the start of the industrial revolution. Forests provide us with many important goods and services such as clean air, clean water, wildlife habitat, and carbon storage.
+A healthy and sustainable diet is one that balances the amount of resources it uses with the nutrients it provides. A diet that provides too many calories but not enough nutrients is unsustainable. An unbalanced or unhealthful diet has too much of one or more nutrients.
+A disproportionate amount of calories and nutrients can have a significant environmental impact, such as deforestation and soil erosion.
 
-The environmental impact of producing legumes and grains is very low, with the legume carbon footprint being a third of that of vegetables, and the grain carbon footprint being half that of vegetables.
-The environmental impact of beans and grains production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+## Methane emissions from livestock
 
-## The Environmental Impact of Seafood
-
-The environmental impact of producing seafood is significant, with the carbon footprint of seafood being two times greater than that of vegetables, and the protein-to-fish ratio being 5:1.
-The environmental impact of seafood production is worsened by modern methods, such as the use of synthetic fertilizer, mechanized irrigation, and the application of synthetic pesticides.
+Livestock — especially cattle — produce methane, which is a greenhouse gas that contributes to climate change. The feed and animal production needed to raise livestock require significant amounts of resources such as pasture and water.
+The amount of greenhouse gases emitted by livestock is controversial. But these figures show that growing feed for livestock is a major source of carbon dioxide and methane emissions.
 
 ## Conclusion
 
-As you can see, there are many things to consider when deciding on the most environmentally friendly diet. But there’s also good news! Even small changes in your diet can have a huge impact. Whether you go vegan, vegetarian, or simply make small adjustments to what you eat, choosing an environmentally friendly diet can have a huge positive effect on the world around you.
+The modern diet has an important impact on the environment. Eating less meat and more vegetables could reduce global greenhouse gas emissions by up to two thirds and also reduce the amount of resources used for agriculture. Eating more local, seasonal foods could reduce food transportation and consequent carbon emissions, water use, and biodiversity loss due to monoculture. And eating more plant proteins instead of animal proteins could reduce the amount of land needed for agriculture.
 
-Now go make the world a better place with your food choices!
+Our food choices have the potential to help or harm the environment, depending on the choices we make. By making a few simple tweaks to our diets, we can reduce our carbon footprint and make a positive difference.

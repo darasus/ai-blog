@@ -1,250 +1,53 @@
 ---
 title: One pot wonders - easy recipes for busy weeknights
 createdAt: 2022-07-07T06:05:39.799Z
-updatedAt: 2022-07-16T13:52:33.789Z
+updatedAt: 2022-07-17T05:58:26.943Z
 category: cooking
 ---
 
-## Beef & Veggie Chili
+## ##
 
-If you love chili but don't have hours to spend in the kitchen, this one-pot wonder is the perfect solution. It uses ground beef, red kidney beans and a variety of veggies, so it's rich in both protein and fiber. Chili is a great warm-weather meal, so this recipe is perfect for those chilly evenings. Chili is also easy to make in large batches and freeze so you can enjoy a quick and easy meal any time.
+## ##
 
-Ingredients
+## 
 
-Serves 4
+## One pot dinners: rice dishes
 
-- 2 tbsp olive oil
+- One Pot Coconut Curry and Basmati Rice: This is an Indian-inspired dish. The basmati rice simmers in a fragrant coconut and turmeric-spiced broth. It is served with vegetables and chicken, and topped with a creamy coconut-yogurt sauce.
+- One Pot Mexican Chicken with Rice: This easy and flavorful one-pot meal is made with Mexican spices and chopped vegetables, along with sliced chicken breast. It is served with a scoop of guacamole.
+- One Pot Spicy Sausage and Brown Rice: This Italian-inspired meal combines spicy Italian sausages with brown rice and crunchy vegetables like broccoli and bell peppers. It is ideal for serving during the fall and winter months when you need some comfort food.
+- One Pot Pepper and Lime Chicken and Rice: This is a chicken and rice dish with a Southwestern twist. It is cooked in a savory and spicy broth that is enriched with chopped bell peppers and fresh lime juice.
+- One Pot Spanish Chicken and Rice: This Spanish-inspired chicken and rice dish is made with chicken thighs, smoked paprika, and chopped tomatoes. It is served with a side of Spanish olives, chopped bell peppers, and aromatic saffron basmati rice.
 
-- 1 large onion, chopped
+## 
 
-- 2 cloves garlic, minced
+## One pot dinners: pasta dishes
 
-- 1 tbsp ground cumin
+- One Pot Pasta and Smoked Salmon: This is a simple pasta dish, made with penne pasta, a creamy sauce made with crème fraîche and dill, and chunks of smoked salmon. It is great for serving when you have guests over, as it is easy to make and very pleasing to the eye.
+- One Pot Chicken and Broccoli Pasta: This is a pasta dish that’s creamy, savory, and full of nutrients thanks to the broccoli. It is made with tomato sauce and shredded chicken, and served with broccoli florets and spiralized pasta.
+- One Pot Pasta with Peas and Ham: This is a pasta dish that’s as comforting as it is easy to make. It is made with fresh peas and chopped ham, tossed in a creamy and slightly cheesy sauce made with crème fraîche.
+- One Pot Pasta with Butternut Squash and Crispy Sage: This is a gorgeous autumnal pasta dish that has a sweet and savory flavor thanks to the roasted butternut squash. It is a one pot meal that is super easy to make, especially if you buy a prepared butternut squash.
+- One Pot Pasta with Chicken, Sundried Tomatoes, and Spinach: This is an Italian-inspired pasta dish that’s made with broccoli, chicken, and pasta. It is cooked in a creamy and slightly cheesy sauce made with sundried tomatoes and fresh spinach.
 
-- 2 tsp dried oregano
+## 
 
-- 1/2 tsp ground coriander
+## One pot dinners: soups and stews
 
-- 2 chipotles in adobo sauce, chopped
+- One Pot Creamy Chicken and Wild Rice Soup: This is a soul-warming soup made with chicken and wild rice in a creamy broth. It is garnished with croutons and served with a side of sliced avocado.
+- One Pot Potato, Chorizo, and Carrot Soup: This is a hearty potato and carrot soup that’s enriched with chorizo and topped with crispy croutons. It is an ideal dish to make during the colder months, and it can be served as a main meal as well as a starter.
+- One Pot Thai Shrimp Soup with Rice Noodles: This is an Asian-inspired soup with shrimps, rice noodles, and vegetables. It is served with crispy toasted coconut flakes and garnished with chopped peanuts. It is extremely easy to make and requires just one pot.
+- One Pot Mushroom and Tofu Stroganoff Soup: This is a creamy and hearty soup that’s made with mushrooms, tofu, and a rich and creamy broth. It is garnished with crispy croutons and served with a side of sourdough bread.
+- One Pot Mexican Tortilla Soup: This is a spicy, hearty, and Mexican-inspired soup. It is made with vegetables, chicken, and tortillas, and served with sour cream and chopped coriander as garnishes.
 
-- 1 tbsp tomato paste
+## 
 
-- 2 bell peppers, chopped
+## Other one pot recipes
 
-- 2 tsp salt
-
-- 1 tsp pepper
-
-- 1 tbsp lime juice
-
-- 2 cups canned diced tomatoes
-
-- 1 cup canned red kidney beans, drained
-
-- 1 cup chicken stock
-
-- 1 cup basmati rice
-
-Instructions
-
-## Chicken & Rice Soup
-
-If you're looking for a hearty and healthy one-pot wonder, this soup is the perfect solution. It's packed with both vegetables and protein thanks to the chicken, so it's a complete meal in one bowl. If you're not a fan of rice, try using quinoa for a tasty change. This recipe is also flexible if you don't have any celery or carrots, so it's a great go-to recipe if you don't have any fresh vegetables in your fridge. You can also use pre-cooked chicken if you don't have time to cook it from scratch.
-
-Ingredients
-
-Serves 4
-
-- 1 tbsp olive oil
-
-- 1 large onion, chopped
-
-- 2 cloves garlic, minced
-
-- 2 tbsp fresh thyme leaves
-
-- 1 tsp salt
-
-- 1 tsp pepper
-
-- 2 strips bacon, chopped
-
-- 2 cups chicken stock
-
-- 2 cups water
-
-- 2 cups cooked white rice
-
-- 2 carrots, chopped
-
-- 2 ribs celery, chopped
-
-- 1 bay leaf
-
-- 2 cups chopped broccoli
-
-- 1 tbsp lemon juice
-
-- 1 tbsp lemon zest
-
-Instructions
-
-## Eggplant Parmesan Pasta
-
-If you're looking for a quick and easy one-pot wonder that's rich in flavor, this recipe is perfect for you. It uses eggplant and pasta so it's packed with both fiber and protein, making it a hearty and filling meal that the whole family will love. If you're not a fan of eggplant, try swapping it for zucchini. If you don't have any mozzarella, try grating Parmesan instead. You can also swap the spices in this recipe for a different flavor, depending on your taste.
-
-Ingredients
-
-Serves 4
-
-- 3 tbsp olive oil
-
-- 2 cloves garlic, minced
-
-- 1 large eggplant, sliced
-
-- 1/2 tsp salt
-
-- 1/2 tsp pepper
-
-- 2 tbsp Italian seasoning
-
-- 2 cups pasta of choice
-
-- 1 cup heavy cream
-
-- 1 cup mozzarella cheese, shredded
-
-- 1/4 cup Parmesan cheese, grated
-
-- 1 tbsp fresh basil, chopped
-
-Instructions
-
-## Kale & Chickpea Rotini
-
-If you're a fan of pasta but want to try something new, this one-pot wonder is a tasty and healthy alternative. It's packed with both fiber from the kale and protein from the chickpeas, so it's a complete meal. If you don't have any kale in your garden, try using spinach instead. You can also swap the spices in this recipe for a different flavor, depending on your taste. This recipe is also vegan if you use a vegan cheese.
-
-Ingredients
-
-Serves 4
-
-- 2 tbsp olive oil
-
-- 1 large onion, chopped
-
-- 2 cloves garlic, minced
-
-- 2 tbsp Italian seasoning
-
-- 1 tsp salt
-
-- 1 tsp pepper
-
-- 2 cups rotini pasta
-
-- 2 cups chickpeas, cooked
-
-- 1 cup kale, chopped
-
-- 1/2 cup Parmesan cheese, grated
-
-- 1 cup mozzarella cheese, shredded
-
-- 1 cup vegetable stock
-
-Instructions
-
-## Salmon & Vegetable Stew
-
-If you're a fan of salmon but don't have hours to spend in the kitchen, this one-pot wonder is the perfect solution. It uses salmon, vegetables and a rice and lentil mix, so it's a complete and healthy meal. If you're not a fan of salmon, try replacing it with another type of fish such as tilapia or cod. You can also try different vegetables such as asparagus or broccoli. You can also try different types of rice and lentils for a tasty change.
-
-Ingredients
-
-Serves 4
-
-- 2 tbsp olive oil
-
-- 1 large onion, chopped
-
-- 2 cloves garlic, minced
-
-- 1 tbsp fresh ginger, grated
-
-- 2 tbsp curry powder
-
-- 1/2 tsp cayenne pepper
-
-- 1 tsp cumin
-
-- 1/2 tsp turmeric
-
-- 1/2 tsp coriander
-
-- 1/2 tsp salt
-
-- 1/2 cup red lentils
-
-- 1 cup rice
-
-- 2 cups vegetable stock
-
-- 1 cup water
-
-- 1/2 cup green peas
-
-- 2 cups chopped salmon
-
-- 1 cup chopped broccoli
-
-- 1 tbsp lemon juice
-
-- 1 tbsp lemon zest
-
-Instructions
-
-## Sweet Potato & Tuna Bowl
-
-If you're looking for a quick and easy one-pot wonder, this recipe is perfect for you. It uses a variety of healthy ingredients, including sweet potato, tuna and quinoa so it's a complete and filling meal. You can also swap the spices in this recipe for a different flavor, depending on your taste. If you're not a fan of sweet potato, try using a potato or a different root vegetable. If you don't have any fresh herbs, dried herbs can be used instead.
-
-Ingredients
-
-Serves 4
-
-- 1 tbsp olive oil
-
-- 1 large onion, chopped
-
-- 2 cloves garlic, minced
-
-- 1 tbsp fresh ginger, grated
-
-- 1/2 tsp salt
-
-- 1/2 tsp pepper
-
-- 1 tbsp cumin
-
-- 1 cup quinoa
-
-- 2 cups water
-
-- 1 cup chopped sweet potato
-
-- 1 cup chopped canned tuna
-
-- 1 cup chopped broccoli
-
-- 1/4 cup fresh cilantro, chopped
-
-- 1/4 cup fresh parsley, chopped
-
-- 1/4 cup fresh mint, chopped
-
-- 1/2 cup Parmesan cheese, grated
-
-Instructions
+- One Pot Seafood Risotto: This is a creamy and comforting Italian-inspired dish made with Arborio rice, tomatoes, and a rich seafood broth. It is garnished with chopped parsley and served with a side of crusty bread.
+- One Pot Blender Shepherd’s Pie: This is a one pot recipe that’s made with mashed potatoes, caramelized onions, ground beef, and a creamy sauce. It is garnished with cheddar cheese and served with a side of peas.
+- One Pot Gnocchi and Red Peppers: This is a vegetarian dish made with fresh red peppers and creamy and soft potato gnocchi. It is garnished with parmesan cheese and served with a side of chopped Italian herbs.
+- One Pot Mexican Quinoa Bowls: This is a Mexican-inspired quinoa dish with corn, beans, and a creamy avocado dressing. It is garnished with chopped coriander and served with a side of sliced avocados.
 
 ## Conclusion
 
-These one-pot wonders are the perfect solution to your mid-week dinner dilemma. They offer a variety of tasty meal ideas that can be made in just one cooking vessel, so they’ll save you time. They're also simple enough for a quick dinner after a long day at work or school so they’ll save you stress too! These recipes are sure to spice up your dinner routine and they’re perfect for mid-week as they can be quickly and easily prepared after
+There is a common misconception that cooking a one-pot meal is a bit of a challenge. In reality, most one pot recipes are very straightforward and don’t need any fancy techniques or equipment – just a large pot and a wooden spoon. With these easy recipes and the convenience of cooking your entire meal in one vessel, your weekly dinner routine is sure to become much less stressful.

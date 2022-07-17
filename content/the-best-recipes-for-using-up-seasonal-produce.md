@@ -1,58 +1,47 @@
 ---
 title: The best recipes for using up seasonal produce
 createdAt: 2022-07-07T06:05:39.964Z
-updatedAt: 2022-07-16T13:58:12.790Z
+updatedAt: 2022-07-17T06:00:56.680Z
 category: cooking
 ---
 
-## Prepare your pantry and fridge
+## Plan your meals for the week.
 
-The key to using up seasonal produce is having the right equipment and ingredients on hand to put out creative new dishes. Because you’re likely to find yourself with more produce than you know what to do with, it’s important to be prepared.
+Before you start browsing recipes to make sure you use up all your veggies, take a few minutes to make a plan for what you’ll cook this week. Do you want to try out a new recipe every day or is there a dish you’d like to master? Maybe you want to use up your leftovers — those are always great opportunities to incorporate seasonal produce!
 
-Be sure to check the health of your baking supplies. If you bake often, you probably have baking supplies like baking sheets, measuring cups, and spatulas that are in need of a refresh. If these things are starting to look less than clean or are experiencing wear and tear, it’s time to give them a good scrubbing or replace them altogether.
+## Go with root vegetables.
 
-It’s also a good idea to make sure you have a well-stocked pantry. You can never have too many beans, but you can definitely have too little flour. If you don’t already have a systematic and well-managed pantry, now is a great time to start.
+Root vegetables are great in winter, but they can be enjoyed all year round. You can use them in soups, stews, and even desserts! Some good options are carrots, beets, celeriac, fennel, parsnips, potatoes, radishes, rutabaga, and turnips. Potatoes are especially versatile; you can boil, mash, roast, or French fry them.
 
-## Invest in good storage containers
+Root vegetables contain lots of vitamins and minerals, but don’t have as much fiber as leafy greens do. They can also be pretty high in carbs, so keep that in mind if you’re watching your diet.
 
-If you’re lucky enough to have a CSA box, you’ll notice that, while the produce may be awesome, the containers they come in are often not. They’re usually cheap, thin plastic bags that can tear or break easily, leaving your potatoes and carrots sprawled out on the floor.
-Most produce will last longest in a container made of paper or cardboard that can breathe. So before you dive in and start transferring veggies, make sure you have a few good paper or cardboard boxes on hand.
+## Cook up a big batch of grains & beans.
 
-When it comes to how long you should keep produce of different types, most vegetables and herbs will keep in your fridge (or outside in a cool, shady place) for a couple of weeks. But there are a few notable exceptions that you should be aware of. Tomatoes, bell peppers, and potatoes are good examples of longer-lasting produce. Lettuce, on the other hand, is highly perishable, so think about eating it sooner rather than later.
+This is a great option if you’re not a big fan of root vegetables; after all, they don’t really taste like anything other than, well, root vegetables! You can try out different recipes and pairings with grains, beans, and legumes.
+What’s great about grains and beans is that they’re very cheap, can be bought in bulk, and make a ton of food. They’re also a good source of fiber, protein, and vitamins and minerals.
 
-## Grow your own sprouts
+## Use up canned goods.
 
-Sprouts are incredibly easy to grow yourself, and they make for an excellent addition to any meal. You can toss them into a salad, sandwich, or wrap, or use them as the stars of any meal, like in a crunchy and colorful sprout bowl.
+Canned goods are very useful in the wintertime, because you can make stews, soups, and casseroles with them. They also usually come in BPA-free cans, so even though they’re not as healthy or good for the environment as fresh produce, they’re definitely better than nothing.
+Canned tomatoes, beans, and corn, for example, are good staples to have on hand. If you don’t have any canned goods in your pantry, you can also make a meal out of canned vegetables — like beans, corn, and tomatoes.
 
-All you need are seeds, water, and a little patience. Any kind of seed will work, but look for varieties that are cheap, easy to find, and require little-to-no prep beforehand. Some great options include alfalfa, radish, clover, lentils, and mung beans.
+## Preserve the fresh produce you have now.
 
-To start your sprout garden, all you need is a container with holes in the bottom, a paper towel, seeds, and some water. Simply put the seeds and paper towel in the container, add water, and put the whole thing in a warm place.
+You can save a few veggies by preserving them. For example, you can freeze broccoli, cabbage, carrots, and cauliflower, you can pickle cucumbers and peppers, and you can turn apples, pears, and tomatoes into jam. You can also make your own kimchi, pickles, or fermented vegetables.
 
-In a few days, they should be ready to eat. Depending on the variety, a single batch of sprouts will last anywhere from a few days and a few weeks. If you notice that they are growing mold, throw them out immediately.
+If you live in a warm climate, you can make your own water-simmered citric fruits like oranges, lemons, or limes. You can also make your own jam, sauce, and chutney, which you can use in winter when your fresh produce is limited.
 
-## Cook up a big pot of grains
+## Get creative with leftovers!
 
-Most people have rice in their pantry, but it’s easy to forget about other grains like quinoa, barley, and millet. These are some of the easiest ingredients to add to a meal, making them a great solution for boredom and a great option for feeding a group.
-When it comes to cooking grains, the rule of thumb is two parts water for every one part grain. So, for every cup of grain you want to prepare, you’ll need two cups of water.
+Leftovers are awesome, but they can also get boring. Make sure to keep them exciting by putting a creative twist on them. You can try out different recipes and then portion them out to have them for several days in a row.
 
-A good way to use up a bunch of grains is to double the recipe and store half in the fridge for later. This way you can quickly throw together a simple meal or snack in no time.
+You can also make sure to mix up your leftovers by incorporating seasonal produce. For example, you can make a quesadilla with tortillas, nacho cheese, and some cooked veggies — or make a stir-fry with seasonal produce, rice, and leftover meat. You can also make lasagna with seasonal produce and pasta or pizza slices with seasonal produce and bread.
 
-## Don’t be afraid to buy in bulk
+## What to do with all that cabbage?
 
-Many people avoid buying in bulk because they’re worried they won’t be able to use up all of their produce before it goes bad. This is a valid concern, but it’s important to remember that “bulk” doesn’t mean “inexpensive.”
-You can find wholesale produce wholesalers where you can buy produce in bulk and then re-sell it at a profit. You can also look for wholesale produce markets in your area where you can buy fruits and veggies in bulk directly from the growers.
+Cabbage is a quintessential seasonal food — but what to do with it when there’s too much of it? You can make kimchi with it, you can make sauerkraut with it, and you can make coleslaw with it.
+Cabbage can also be used in soups, stews, and casseroles, or you can fry or roast it. You can use it to make a creamed dish, a pie, or a quiche. You can also use it to make quick and easy desserts — like cabbage pancakes, cabbage cookies, or cabbage cake.
 
-In these scenarios, your produce will be priced according to the volume you buy, not just the weight. This makes it more cost-effective to buy larger amounts of produce that might not last as long but would otherwise be more expensive if bought in smaller portions.
+## Summary
 
-## Don’t forget about root vegetables
-
-Root vegetables like carrots, beets, sweet potatoes, and turnips may not be at the top of your list, but they’re a great way to use up a bunch of produce and add variety to your meals.
-Baking, roasting, or even simply boiling these veggies is a great way to make sure they don’t go to waste. They’re also fantastic for throwing into salads or simply mashing and serving up as is.
-
-Sweet potatoes are a particularly good option for using up a lot of produce since you can use them in so many different ways. Simply peel the skin, cut them up, and roast them in the oven with some olive oil, salt, and pepper, and you have a delicious side dish that goes with just about everything.
-
-## Bottom line
-
-Using up your seasonal produce can feel like a daunting task, but with the right preparation and approach, it’s not as hard as it might seem.
-
-First, make sure your kitchen is stocked with the essentials and you have plenty of space to store your produce. Next, create a plan that allows you to use all your produce while also keeping it fresh. Finally, put your plan into action and enjoy delicious and fresh meals all season long.
+As you can see, there are lots of ways to take advantage of seasonal produce. The best way to make sure you get the most out of it is to plan your meals for the week and go with root vegetables. You can use grains and beans to bulk up meals, and you can preserve the fresh produce that’s in season right now. Finally, you can get creative with leftovers, and you can use up all that cabbage!

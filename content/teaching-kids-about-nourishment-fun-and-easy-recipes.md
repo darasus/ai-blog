@@ -1,39 +1,42 @@
 ---
 title: Teaching kids about nourishment- fun and easy recipes
 createdAt: 2022-07-09T06:39:34.882Z
-updatedAt: 2022-07-16T14:15:16.051Z
+updatedAt: 2022-07-17T06:14:59.232Z
 category: cooking
 ---
 
-## Teaching kids about nutrition with food games
+## Don’t be afraid of vegetables!
 
-One fun way to teach your kids about the different types of nutrients in food is to use a food game. One example is to play a game of "go fish" with different foods. You can choose foods that have certain benefits, such as foods rich in iron for growing kids, or foods that are high in protein for active kids. You can also play a game with cards that have pictures of different types of nutrients on them, such as protein, carbohydrates, and fat. Another fun game to play is "edu-quiz", where you test your child on what they’ve learned about different foods and nutrients. You can also challenge your child to come up with their own questions about healthy eating, and see if they know the answers.
+Vegetables don’t have to be boring! With the right recipes, your kids will be requesting broccoli and cauliflower just as much as they do macaroni and cheese. Put vegetables on the kids’ menu once a week, and have them try a new recipe every time. For example, you could try baked zucchini, broccoli with cheese sauce, spinach with apples, and homemade coleslaw. Switch up the ingredients and the recipes all the time to keep things interesting and make vegetables a source of fun rather than a source of boredom.
 
-## Cookie dough bites
+If your child doesn’t like vegetables, you’ll need to make a few adjustments before you introduce them. Kids need to be exposed to vegetables as early as possible, but if you’re doing this at the wrong time or in the wrong way, it can actually make things worse. At the same time, you don’t want to wait too long or your child will never develop a taste for vegetables. In general, you should start feeding your baby vegetables sometime between the ages of 6 and 9 months (or as soon as you notice him/her showing interest in food).
 
-Next up, we have a recipe for cookie dough bites. While it’s probably not good to eat this all the time, kids will love the idea of making cookie dough without actually baking anything. This is a great recipe for kids who are interested in cooking, and want to try out new things in the kitchen. This is also a great recipe for kids who are curious about baking, but may not be old enough to actually do it yet.
-These bites are made with vanilla wafers and peanut butter, and you can switch up the flavour by using different types of cookies. The best part about this recipe, is that you can make them as big or as small as you want, so they’re perfect for kids of all ages.
+## Get the whole grains
 
-## Rainbow fruit fluff
+Whole grains contain more fiber than refined grains, and they also contain many vitamins, minerals, and antioxidants. Including a couple servings of whole grains in your child’s diet is an easy way to get more nutrition into their diet without them even realizing it. You can use whole grains to make a variety of different foods, including baked goods, casseroles, and even side dishes.
 
-Next up, we have a fun recipe for rainbow fruit fluff. This recipe is great for kids who are interested in making smoothies and trying out new healthy recipes. You can use whatever type of fruit your child likes best, but the best part of this recipe is that it uses every colour of the rainbow. This means that you’re getting a ton of different nutrients and vitamins out of one smoothie.
-This recipe also doesn’t require any cooking, and you can use frozen fruit to make it even easier to make. The best part is that you can change up the recipe based on the ages of your kids, and add more or less of each fruit based on what they like best.
+One easy way to get your child to eat more whole grains is to swap out white pasta for whole wheat pasta. Your child may not even notice the difference. You can also use whole wheat flour to make cookies and cakes, and you can serve whole grain rice or corn with meals. You can even use whole wheat pita pockets for sandwiches or pitas for tacos.
 
-## Pizza muffins
+## Healthy fats are important too
 
-Next up, we have a recipe for pizza muffins. These muffins are great for kids who love eating pizza, and they’re one of the easiest recipes you can make with your kids. This recipe is great for kids of all ages, and you can even let the younger ones help you put it together. This recipe is also a great way to use up leftover pizza, whether it be from the night before, or one you’ve frozen and are saving for another time.
-This recipe is super simple, and you can change the toppings depending on what your child likes best. It also doesn’t require any cooking, so it’s a great recipe for kids who want to make their own food, but can’t yet use the stove.
+Healthy fats, such as the fats found in lean meats, nuts, seeds, and avocados, are an essential part of a healthy diet. They are important for growth and development, and they help the body in many different ways. Healthy fats are an important part of any balanced diet, but it can be easy for kids to overlook them because they don’t come in the form of a tasty treat or snack.
 
-## Marshmallow rice crispy treats
+While you may not be able to get your kids to eat healthy fats in large amounts, you can add them to foods that your kids already love. For example, try mixing nuts into baked goods or topping tacos with avocado or guacamole. Another option is to use healthier fats to replace unhealthy fats in your child’s favorite recipes. For example, use olive oil instead of butter when you’re sautéing vegetables, or use low-fat dairy instead of whole milk or heavy cream in baked goods.
 
-Our next recipe is for marshmallow rice crispy treats. These treats are great for kids who love marshmallows and sweets, but also want to eat healthy foods too. This is a great recipe to make with your kids, and you can change up the ingredients to fit whatever you have in your household. This is also a great recipe to make with your kids, since it doesn’t require any baking.
-This recipe is also great if you want to get your kids interested in cooking, but aren’t quite sure what to let them make. It’s super simple and doesn’t require any fancy ingredients.
+## Play with protein
 
-## Mashed bean bowl
+Getting enough protein is important for growing kids, but it can be difficult to get enough in the diet. If your child is vegetarian, this can be especially tricky. One easy way to get protein into your child’s diet is to add beans to your diet. Kidney, black, and pinto beans are full of protein and are easy to add to any meal, especially chili and tacos.
 
-Finally, we have a recipe for mashed bean bowl. This recipe is great for kids who want to eat more vegetables and protein, and it’s another recipe that doesn’t require any cooking. This is a great recipe for kids who are transitioning to eating with a fork, since it has soft ingredients that they can mash up with a spoon.
-This recipe is also super cheap and easy to make. You can get the ingredients for this recipe at almost any grocery store or farmers market. The best part of this recipe is that you can change up the ingredients to fit whatever you have in your household.
+If your child is not a fan of beans, try loaves made with beans or lentils instead. You can also find protein-rich alternatives to your child’s favorite treats and snacks. For example, you could make protein bars or protein-packed muffins, add nuts and seeds to your child’s favorite trail mix, or top your child’s yogurt with nuts, seeds, or dried fruit.
+
+## Stay away from junk food
+
+Junk food does not have any nutritional value, which means that it has nothing for your child’s body. As a matter of fact, most junk foods are filled with preservatives and other chemicals that are very harmful to your child’s body. This type of food makes it even harder for your child to grow and stay healthy, so it’s important that you keep your child away from it as much as you can.
+
+If your child is old enough, you can have a real talk about the negative impact of junk food. If your child is a little too young for a serious talk, you can use more humorous and silly methods. You can also use positive reinforcement to help keep your child away from junk food. For example, you can let your child pick out their favorite toy or gift at the end of each week if they eat healthy all week long.
 
 ## Conclusion
 
-There are so many fun and easy recipes that you can make with your kids, that will help them learn more about nutrition. Not only is it a great way to get your kids interested in healthy eating, but it can also be a fun way to spend time with them. These recipes are also great for kids of all ages, so you can try them out with your kids at home, no matter how old they are.
+Kids are picky eaters by nature, and they can be reluctant to try new foods. That doesn’t mean that you can’t help your child learn about the benefits of healthy foods. In fact, even the littlest of kids are capable of grasping basic concepts about nutrition and how certain types of food make them feel.
+
+Whether or not your child is a picky eater, these nutrition tips will help them understand why it’s important to eat fruits, veggies, whole grains and other wholesome foods. You can also use these tips to come up with fun recipes they won’t soon forget.

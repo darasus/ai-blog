@@ -1,34 +1,52 @@
 ---
 title: 30 easy and healthy dinner recipes
 createdAt: 2022-07-07T06:05:39.702Z
-updatedAt: 2022-07-16T13:42:13.839Z
+updatedAt: 2022-07-17T05:58:16.322Z
 category: cooking
 ---
 
-## Beans and lentils
+## A vegetable-based diet is key to healthy living
 
-Beans and lentils are the ultimate source of protein. Also, they contain fibre and B vitamins. You can make a variety of healthy dinner recipes using beans and lentils, such as soups, curries and stews. Kidney beans and black beans are two of the most widely used beans in dinner recipes due to their mild flavour. Try this black bean and corn salad recipe, it tastes good and is extremely healthy.
+Vegetables are powerhouses of nutrients and antioxidants, and they can help prevent many diseases. They are a low-calorie food, meaning that they are low in fat and have few calories, yet they are high in fibre.
+It’s a misconception that vegetables are fattening. Actually, vegetables have little to no fat, and are low in calories. They’re also high in fibre, which means that they’ll help keep you fuller for longer.
 
-## Beef recipes
+Vegetables are also low in protein, which means that they shouldn’t be considered a source of protein. People often assume that vegetables are a source of protein, but this isn’t the case.
+Vegetables are also high in carbohydrates, which can be a good or bad thing depending on your diet and lifestyle. They’re low in sodium, which can be helpful for keeping blood pressure low and heart health in check.
 
-Beef is an excellent source of protein, zinc, iron and B vitamins. It contains lesser fat than other meats, making it an ideal option for a healthy dinner. It is also a great food source if you're following a vegetarian or vegan diet. You can make a wide variety of healthy dinner recipes using beef, such as stews, curries, stir fries and casseroles. This beef stroganoff recipe is a great choice if you're looking for something tasty, yet healthy.
+## Greek chicken and lentil salad
 
-## Chicken recipes
+The classic combination of chicken, lettuce, feta cheese, and Greek flavours come together in this quick and easy salad that’s not only filling but also incredibly healthy. This salad has all the makings of a hearty, wholesome meal that comes together in just under 30 minutes. You can find the bagged salad greens, legumes, and other salad ingredients at any grocery store and will only run you a few dollars. Serve this salad as is, or over a bed of whole grains like rice or quinoa. This salad also works well as a main dish for potlucks, casual get-togethers, or for taking to work for a healthy midday snack that’s good for you and easy on your wallet.
 
-Chicken is a common ingredient used in dinner recipes, but it is important to choose a healthy option. You can find organic or pasture-raised chicken in any grocery store, health food store or online. Organic chicken has no added antibiotics or hormones. This recipe for chicken with creamy mushroom sauce is both nutritious and delicious.
+## Rotisserie chicken tacos
 
-## Vegetable based dinner recipes
+There’s no better way to make tacos healthier than using rotisserie chicken. These tacos are easy to put together with ingredients you probably have in your kitchen, especially if you have a well-stocked pantry. You can throw this together as a quick lunch or as a light dinner that’s packed with protein and flavour. Make it a meal by serving it with a side of vegetables and a small salad of lettuce and tomatoes. This recipe makes enough for leftovers, so you can enjoy tacos two nights in a row.
 
-Now this is what we would call an interesting combination! This recipe for a quinoa and black bean salad with roasted vegetables is a healthy dinner recipe that is perfect for vegetarians. It's also a great option for people following the vegan diet.
+## Salmon with ginger and soy sauce
 
-## Rice and grains based dinner recipes
+Salmon is so versatile and can be prepared in so many different ways. This salmon recipe is quick and easy, but it still has all the great flavour and texture you want from this healthy fish. This dish only takes about 15 minutes to prep and cook, making it a great option for those busy weeknights where you just don’t have the time to spend a long time in the kitchen. This dish is best served over a bed of rice or quinoa, or over wilted greens like spinach or other leafy greens.
 
-Rice and grains are healthy sources of carbohydrates. They also contain vitamins and minerals. This recipe for roasted vegetable and brown rice pilaf is full of flavour and healthy goodness. 
+## Eggplant parmesan with marinara
 
-## Healthy Dinner Recipes for Vegans
+Eggplant parmesan is a hearty and filling Italian-inspired dish that’s great for a cold night. This healthier and vegetarian version still has that classic eggplant parmesan flavour and texture, but is low in fat and calories. This dish is both quick and easy to put together, and you can use store-bought marinara sauce to save even more time. Serve this with a simple side salad or steamed vegetables, and enjoy a meal that’s both delicious and nutritious.
 
-Many people following a vegan diet have a tendency to skip having dinner. This is because most ingredients and recipes are not vegan-friendly. However, there are several healthy dinner recipes that are vegan-friendly and can be easily made at home. This recipe for fettuccine alfredo is a rich dish that is vegan and can be made in less than 30 minutes.
+## Tofu and broccolini stir-fry
+
+This quick and easy stir-fry is a great way to enjoy tofu. Made with soy sauce, ginger, and sesame oil, you can expect this dish to have a flavourful, Asian-inspired flavour. Using fresh broccolini, or even frozen can also be substituted, this dish is a hearty and healthy meal perfect for any night of the week. This stir-fry is best served over a bed of rice, quinoa, or over noodles. It’s also a great option for meal prep, making enough for leftovers for lunch or a second dinner.
+
+## Moroccan chickpea stew
+
+This healthy, vegetarian Moroccan chickpea stew is an easy, one-pot meal. This stew is full of fibre and protein, making it a healthy and nutritious meal. This stew can be made vegan by using water or vegetable broth instead of chicken broth. Serve this with a side of couscous or rice. This meal can be made in under 30 minutes and is inexpensive to make. Use precut veggies to make this even easier.
+
+## Confetti rice and bean bowl
+
+This easy, healthy rice bowl is a great way to use up leftover rice and beans. It’s a simple one-bowl meal that’s quick, easy, and healthy. This bowl can be made vegetarian or vegan by using vegetable broth. This dish is best served warm, but it can also be eaten cold. This dish can be made in under 30 minutes and is great for meal prep. This can also be made with brown rice or quinoa instead of white rice to make it healthier.
+
+## Fruity baked salmon
+
+Salmon is one of the most nutritious and healthy fish out there, and it pairs beautifully with fruit. The sweetness of the fruit complements the salmon well, and this baked salmon is packed with flavour and easy to make. This dish can be made with fresh or frozen fruit, or even canned in a pinch. You can also use other citrus fruits, like oranges, limes, or grapefruit. Serve this baked salmon with a side of vegetables, like broccoli or carrots, or a simple salad. This will make enough for leftovers.
 
 ## Conclusion
 
-The article above is all about healthy dinner recipes. It is important to understand that having dinner at home is a great way to manage your diet and nutrition. Eating out every day can be bad for you when it comes to controlling what you eat. It is also important to note that these healthy dinner recipes are not only healthy but delicious as well!
+There’s no better way to end your busy day than with a healthy meal. It’s a great way to refuel and recharge for tomorrow, and it can help you make healthier and better dietary choices. Eating well doesn’t have to be difficult or expensive, but it does require some planning and time at the grocery store.
+
+These quick and easy healthy dinner recipes will help you get through the week without stopping at a fast food drive-thru or breaking the bank on takeout again. These dishes are cheap, fast, and nutritious -- an unbeatable combination.

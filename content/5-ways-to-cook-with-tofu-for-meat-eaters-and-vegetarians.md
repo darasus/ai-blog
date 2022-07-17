@@ -1,200 +1,47 @@
 ---
 title: 5 ways to cook with tofu - for meat-eaters and vegetarians
 createdAt: 2022-07-07T06:05:40.139Z
-updatedAt: 2022-07-16T14:04:58.928Z
+updatedAt: 2022-07-17T06:01:06.534Z
 category: cooking
 ---
 
-## Tofu is a versatile food that can be used in many ways.
+## Tofu is great when you want to add protein to a meal.
 
-The literal translation for tofu is “curdled milk” and is made by coagulating soy milk and pressing the resulting curds into soft white blocks. The texture of tofu is firm, smooth and bland and varies from brand to brand depending on how it’s been processed.
+Tofu is an excellent source of protein. In fact, it’s one of the best vegetarian sources of this macronutrient. Depending on the type of tofu you use, you can expect anywhere from 10 to 25 grams of protein per 100 grams of tofu.
+When you’re cooking, simply crumble or mash the tofu and mix it with any other ingredients you’re using. You can add it to stir-fried or scrambled eggs, or use it to make an omelet or frittata. If you’re making a stew or curry, crumble the tofu and add it to the mix for a burst of protein.
 
-Tofu is a rich source of protein and has no cholesterol. It is also a good source of iron, copper and zinc. The plant protein in tofu is complete, meaning it contains all the essential amino acids our bodies cannot produce. Tofu is also an excellent source of calcium.
+## Tofu is also a great meat substitute for vegetarians.
 
-It is best to store tofu in an airtight container or wrapped in paper towels in the fridge. It can be kept in the fridge for up to a week and in the freezer for up to three months.
+If you’re vegetarian but don’t want to give up the flavors that come with meat, try using tofu as a substitute.
+To make tofu taste like meat, you’ll have to use marinades. Simply coat a block of tofu with a spicy marinade, a garlicky marinade, or a sweet marinade. Then, bake or fry the coated tofu until it is crispy on the outside but still retains a soft interior.
 
-## Tofu Scramble
+If you want to go really bold with your meal, you could use tofu as a substitute for crab in a crab cake recipe. You can also use tofu to make a vegan version of an egg salad sandwich. In both cases, you’ll have to use marinades and seasonings that best suit the dish you’re making.
 
-A tofu scramble is a great one-dish meal that can be enjoyed as a breakfast, lunch or dinner. This dish is super-easy to make and is a great way to get kids to eat tofu. If you’re a vegetarian or vegan, you can substitute the eggs for tofu and get the same delicious result.
+## You can grill or broil tofu for added flavor and crunch.
 
-Ingredients:
+Grilling or broiling tofu will give it a nice crunch on the outside while keeping it soft and creamy on the inside. It also gives it a smoky taste that will pair well with many different sauces and seasonings.
+To grill or broil tofu, simply wrap it in aluminum foil and cook it for about 25 minutes. Alternatively, you can place it on a grill pan or a baking sheet and arrange the tofu so that it doesn’t fall through the gaps in the grill or grate.
 
-2 tbsp. olive oil
+## Marinating tofu before cooking it will make it even more flavorful.
 
-2 cloves of garlic, crushed
+You can also make marinated tofu taste even more delicious. Simply combine your favorite marinade ingredients—including oils, salts and spices, citrus, and herbs—in a bowl before tossing the tofu with the mixture. Then, cook the tofu in any way you prefer: on a grill, in the oven, or on a skillet.
 
-1 block of extra firm tofu, crumbled
+If you want to make your tofu taste like buffalo chicken, use a spicy marinade. If you’d rather have a barbecue-flavored tofu, combine a smoky marinade with a sweet one. You can also try marinating tofu in a teriyaki sauce to make it taste like a savory, sweet, and sticky stir-fry.
 
-2 handfuls of spinach leaves
+## Tofu is also delicious when simply seasoned and served with sauce.
 
-1 large tomato, chopped
+If you don’t have time to marinate your tofu, you can still make it flavorful by simply seasoning it with salt and pepper.
+You can also try flavoring it with your favorite herbs and spices. You can also try making a dry-rub with a mixture of sugar, salt, pepper, and whatever herbs you like best.
 
-1 handful of fresh cilantro, chopped
+Once you’ve seasoned your tofu, you can cut it into cubes or strips and serve it with a sauce. You can serve tofu with a variety of sauces, including barbecue sauce, teriyaki sauce, or a simple mixture of soy sauce and lemon or lime juice.
 
-A pinch of salt and pepper
+## The last way to enjoy cooking with tofu: use it as a vegan egg substitute.
 
-A few spoons of nutritional yeast
+Like vegetarians, vegans often have to rely on a variety of substitutes while cooking. Many of these substitutes are unhealthy, so tofu is a much better option. 
+To make tofu taste like an egg, whisk together 2 tablespoons of soy sauce, 1 tablespoon of water, 1 teaspoon of cornstarch, 1 teaspoon of nutritional yeast, and a pinch of turmeric. 
+You can use this mixture to make vegan scrambled eggs, omelets, frittatas, quiches, and more. 
+It’s important to note that this substitution is best used in savory dishes and shouldn’t be added to sweet dishes like cookies or cakes.
 
-1/2 tbsp. turmeric
+## Conclusion
 
-2 eggs
-
-Method:
-
-- Heat the olive oil in a pan and add the garlic.
-
-- After a minute, add the crumbled tofu and stir well.
-- Add the spinach and let it wilt.
-
-- Next, add the turmeric, tomatoes and cilantro.
-- Remove the pan from the heat, add the nutritional yeast, season with salt and pepper and set aside.
-- In another pan, add a few teaspoons of water and poach the eggs.
-
-- Again, remove from heat and set aside.
-
-- In a bowl, add the tofu scramble and top with a poached egg.
-
-- Serve hot with some freshly baked bread.
-
-## Tofu Frittata
-
-The word frittata comes from Italian and means “fried”. This makes for a great breakfast or brunch dish. You can also make a more filling meal out of this by adding vegetables, cheese, meat or a combination of all of these.
-
-Ingredients:
-
-1 block of extra firm tofu, crumbled
-
-1/2 cup onion, chopped
-
-2 cloves of garlic, chopped
-
-1 cup button mushrooms
-
-1 handful of spinach leaves
-
-2 spoons of vegan cheese (optional)
-
-3 spoons of olive oil
-
-1/2 tsp paprika
-
-A pinch of salt and pepper
-
-1/2 tbsp. nutritional yeast (optional)
-
-2 eggs
-
-Method:
-
-- Preheat the oven to 375°F and place an ovenproof pan on the stovetop on medium heat.
-- Add the olive oil and let it warm up.
-- Add the onion and garlic and saute until the onion is translucent.
-- Add the crumbled tofu and the mushrooms and let them cook for a few minutes.
-- Once the mushrooms are tender and the tofu is cooked, add the spinach and cook for a minute.
-
-- Add the cheese, paprika, salt, pepper and nutritional yeast and mix well. Let the ingredients sit for a few minutes.
-- Add the eggs and mix well.
-
-- Transfer the contents to an ovenproof dish and place in the oven.
-- Let it bake for 15 to 20 minutes until the top of the frittata is firm. 
-- You can garnish with some chopped cilantro or parsley and serve hot or cold.
-
-## Tofu Sautee
-
-Tofu saute is a quick and easy dish that can be used as a side or a main course. You can choose any vegetables from your kitchen and make this dish with ease. Its flavor and texture go well with rice or any other grain dish.
-
-Ingredients:
-
-1 block of extra firm tofu, cubed
-
-2 spoons of olive oil
-
-1/2 cup onion, chopped
-
-1 cup bell peppers, chopped
-
-3 cloves of garlic, chopped
-
-A pinch of salt and pepper
-
-2 spoons of soy sauce
-
-1/2 cup button mushrooms
-
-2 spoons of water
-
-Method:
-
-- In a pan, add the olive oil and let it warm up.
-- Add the garlic and saute until it turns golden brown.
-- Add the onions and bell peppers and saute until they are tender.
-- Add the soy sauce, mushrooms and tofu and let it cook until the mushrooms are tender and the tofu is cooked.
-- Add the water and let it simmer for a few minutes until the water evaporates and the sauce thickens.
-- Remove from heat and season with salt and pepper and serve hot.
-
-## Tofu Bowl With Rice
-
-Tofu bowls make for a quick, healthy and delicious meal. You can use a variety of vegetables and seasonings to make this dish your very own. You can enjoy this for lunch or as a side during a busy day at work.
-
-Ingredients:
-
-1 block of extra firm tofu, cubed
-
-1/2 cup broccoli, chopped
-
-2 spoons of olive oil
-
-1/2 cup onion, chopped
-
-1 cup mushrooms, chopped
-
-2 spoons of soy sauce
-
-A pinch of salt and pepper
-
-1/2 cup rice
-
-1 tbsp. sesame seeds
-
-Method:
-
-- In a pan, add the olive oil and let it warm up.
-- Add the onion and saute until softened.
-- Add the mushrooms and broccoli and saute until the vegetables are tender.
-- Add the tofu, salt, pepper and soy sauce and mix well.
-- Add the rice and sesame seeds and mix well.
-- Transfer the contents to a bowl, garnish with more sesame seeds and serve hot.
-- This dish can also be made with brown rice for a healthier option.
-
-## Tofu Steak Or Burgers
-
-There are many ways to make tofu taste like steak or burgers. The best way is to press it with firm pressure and then marinate it in soy sauce with a few herbs and spices. You can also use chickpeas or lentils to make a hearty vegetarian burger patty.
-
-Ingredients:
-
-2 blocks of extra firm tofu, cubed
-
-1 tbsp. soy sauce
-
-1 tbsp. lemon juice
-
-A pinch of salt
-
-A few sprigs of thyme or rosemary
-
-1/2 cup lettuce, chopped
-
-1/2 cup tomatoes, chopped
-
-1/2 cup onions, chopped
-
-2 tbsp. olive oil
-
-4 buns
-
-Method:
-
-- In a bowl, add the cubed tofu and add the soy sauce, lemon juice, salt and herbs. Mix well to coat the tofu.
-- Let the tofu marinate for a few hours or overnight in the refrigerator.
-- Place a few wooden skewers in a bowl of water.
-- Place the tofu on the skewers, make sure the cubes are tightly packed against each other.
+Tofu is an incredibly versatile food that can be used in a wide variety of recipes. Best of all, it's healthy and easy to cook with! Whether you want to use it as an alternative to meat, or to make a vegan dish, it's an ideal ingredient that you can use in many different ways.

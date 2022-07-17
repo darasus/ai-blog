@@ -1,42 +1,40 @@
 ---
 title: 5 Simple Tips for Eating healthier Every Day
 createdAt: 2022-07-09T06:37:57.664Z
-updatedAt: 2022-07-16T14:08:58.850Z
+updatedAt: 2022-07-17T06:04:34.576Z
 category: cooking
 ---
 
-## Stay Hydrated Every Day
+## Plan Your Meals
 
-One of the most important aspects of eating healthier every day is staying hydrated. In fact, many of the benefits of eating healthier – including better-looking skin and stronger hair – can be attributed to drinking more water. Drinking more water can also help you feel fuller faster, so it’s a great way to prevent overeating . You can also reap the benefits of water by making sure to drink it throughout the day. Avoid drinking water with your meals, as this can reduce the amount of enzymes your body can produce from your food.
-For most people, drinking six to eight glasses of water every day is sufficient. You can also tell you’re hydrated enough by paying attention to your urine. If it’s light-colored – or even clear – you’re good to go. If it’s dark yellow, on the other hand, you need to drink some more water!
+If you want to eat healthier, you first have to plan for it. And this isn’t about creating a detailed meal plan for each day of the week — though you can do that too if you want — it’s about making choices during the week that will make your desired diet easier to achieve. This will mean shopping for the right foods, making time to prepare meals, and finding ways to avoid unhealthy eating situations.
 
-## Don’t Forget the Fruits and Veggies
+Keeping healthy snacks on hand — like fruit, nuts, and veggies — will help you avoid making poor choices when you’re hungry. Avoiding situations where there will be unhealthy temptations will also make sticking to your eating goals easier. This doesn’t mean you have to avoid social situations entirely but it does mean being mindful of what’s available to eat and making the right choices.
 
-At the very least, you should aim to eat two servings of fruits and veggies every day. If you can do more, then even better. Eating more fruits and veggies can help you achieve a number of health benefits – including lower blood pressure, reduced risk of certain cancers, reduced risk of heart disease, and more! When deciding what fruits and veggies to eat, remember that variety is the spice of life – so try to eat a variety of different ones. If you eat the same ones each day, you’ll likely miss out on some of the benefits of eating healthier.
-Actually eating fruits and vegetables can be easier said than done, so make it easier on yourself with these tips:
-- Cut up a fruit bowl to have on your counter or at your desk.
-- Use vegetables to add flavor to other foods, such as dips or stir-fries.
-- Prepare fruits and veggies in advance so they’re more accessible when you’re hungry.
-- Pair fruits with other foods, such as yogurt or oatmeal.
+## Avoid processed foods
 
-## Watch Your Portions
+The less processed your food is, the better it is for your health. Simply put, processed foods are food products that have had some form of alteration in how they are made. This could include adding sugar, salt, and preservatives to food that doesn’t require them, or taking something like corn and making it into something like corn flakes.
 
-As you probably know, many foods are high in sodium – including most processed foods, like crackers and chips, as well as condiments like soy sauce. Eating large amounts of these foods can make your daily sodium intake soar. Excess sodium can lead to higher blood pressure, which is one of the leading causes of heart disease.
-While it’s important to keep an eye on your sodium intake, you shouldn’t avoid these foods altogether. Instead, focus on eating smaller portions of them and adding more fresh foods to your diet, like fruits, vegetables, and whole grains. You can also try baking your own pizza or making homemade chips with a low-sodium baking soda recipe!
+Processed foods are typically high in sugar, salt, and fat, which means they’re not exactly diet-friendly. Eating more whole foods is a simple way to ensure you’re eating healthier. This doesn’t mean you have to cut out all processed foods but it does mean making an effort to eat more unprocessed foods rather than buying the pre-made stuff.
 
-## Eat More Whole Grains
+## Stick to whole foods
 
-Whole grains, including oats, quinoa, and brown rice, are packed with vitamins and minerals that your body needs to stay healthy. Unfortunately, most people don’t consume enough whole grains. If you want to eat healthier every day, this is one of the best places to start.
+Whole foods are foods in their most natural state, meaning they haven’t been processed or refined in any way. This means they are packed with more nutrients than processed foods, which means they’re better for you in almost every way. If you ever find yourself wondering, “is this a whole food?” the answer will probably be yes.
 
-Whole grains are also high in fiber, which helps to keep your digestion regular and can even prevent certain cancers. Eating more whole grains is an easy way to add fiber to your diet without having to change your daily routine. You can easily add them to your morning breakfast, your afternoon snack, or even your dinner.
+Whole foods are better for your health, your weight, and your budget. They can be eaten as-is or added to recipes for an added nutritional punch. Whole foods are available in both fresh and dried forms. So, when you head to the grocery store, you’ll want to choose fresh whenever possible.
 
-If you’re not sure where to start, try adding a grain-based dish to your daily meal plan. You can cook a large batch of rice or quinoa and store the rest for future meals. You can also try baking granola for a quick, healthy snack.
+## Commit to exercise
 
-## Be Smart With your Proteins
+Eating healthier is a great first step to a healthier lifestyle but you can’t ignore the importance of exercise. You don’t have to be a gym-hopping fitness fanatic by any means but you should commit to doing something active every day — even if it’s just taking a walk or doing a few push-ups each day. This will help you stay healthy and will keep you feeling energized throughout the day.
 
-If you want to eat healthier every day, you should try to eat more plant-based proteins and fewer animal-based proteins. Animal proteins are generally higher in fats and cholesterol, although they are also a great source of vitamin B12. If you don’t get enough B12 in your diet, your health can suffer as a result.
-On the other hand, plant-based proteins are generally higher in fiber and minerals like iron. Plus, they’re a great source of vitamins, like vitamin C and vitamin E. By switching to more plant-based proteins, you’re likely to eat healthier every day.
+There are many different types of exercise you can try. You can go for a run, lift some weights, do yoga, take a brisk walk, or anything else that gets your heart rate up. Exercise will not only help you burn calories but it can also help you sleep better and improve your mood.
 
-## Conclusion
+## Don’t be afraid of healthy fats
 
-There are many benefits to eating healthier every day. You may even notice changes in your energy levels, skin, and hair. No matter what you eat or how much you change your diet, it’s not likely that you’ll notice a drastic change overnight. You should also remember that eating healthy isn’t about depriving yourself of the foods you love. It’s about making small changes every day to improve your health for the long haul.
+Fats get a bad reputation but not all fats are bad. In fact, some are actually essential for good health, like the omega-3 found in salmon or walnuts. But fats in general get a bad rap because they are high in calories, which means people tend to avoid them as much as possible. This can lead to an unhealthy diet if you aren’t careful.
+
+There are three main types of fat found in food — saturated fats, unsaturated fats, and trans fats — and they each have different effects on your health. While unsaturated fats are good for you, saturated fats aren’t entirely bad. Trans fats have been shown to have the most negative impact on your health.
+
+## Final Words
+
+When people think of eating healthy, they often think of it as a chore. Eating healthy doesn’t have to be a challenge, but it does require you to make certain dietary changes. What’s more, it’s not something that you can do for just a few weeks. Eating healthy is a lifestyle choice. And it’s one that can be achieved with a bit of planning and the right approach.

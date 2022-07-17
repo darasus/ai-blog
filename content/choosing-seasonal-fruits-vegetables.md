@@ -1,20 +1,53 @@
 ---
 title: Choosing seasonal fruits + vegetables
 createdAt: 2022-07-09T06:42:13.632Z
-updatedAt: 2022-07-09T06:42:13.632Z
+updatedAt: 2022-07-17T06:19:19.773Z
 category: cooking
 ---
 
-When it comes to choosing fruits and vegetables, it’s important to consider what’s in season. Seasonal produce is not only fresher, but it’s also more affordable. Here are some tips for choosing seasonal fruits and vegetables:
+## Vitamin A
 
-1. Check the calendar. Fruits and vegetables have seasons just like everything else. Knowing when produce is in season can help you make the best choices.
+One of the most important nutrients for health is vitamin A. Vitamin A promotes healthy vision, helps prevent infections, and also supports healthy skin. In fact, many people know vitamin A as the “anti-aging” vitamin. Most vitamin A is found in brightly colored fruits and vegetables like carrots, sweet potatoes, summer squash, spinach, cantaloupe, and mangoes. Vitamin A is also found in dark greens, like kale, romaine lettuce, and Swiss chard, as well as orange bell peppers and yellow peppers.
 
-2. Shop at farmers markets. Farmers markets are a great place to find seasonal produce. The farmers who sell their wares at these markets are typically more knowledgeable about what’s in season and can offer helpful advice.
+## Vitamin C
 
-3. Look for local produce. Buying local produce is a great way to support your community and get the freshest fruits and vegetables available.
+Vitamin C is an essential nutrient that helps your body fight infections, maintain healthy skin, and heal cuts and bruises. It also supports iron absorption and plays a role in your immune system. While you can find vitamin C in a number of fruits and vegetables, citrus fruits are the best source of this nutrient. Oranges, grapefruits, and other citrus fruits are a great way to start your day with a vitamin C boost. Other excellent sources of vitamin C include kiwis, strawberries, guavas, broccoli, red peppers, and broccoli.
 
-4. Be flexible. If you’re set on a particular fruit or vegetable, but it’s not in season, don’t be afraid to try something else. There are often many delicious options available, so be open to trying new things.
+## Vitamin K
 
-5. Enjoy the bounty of each season. Seasonal produce is a great way to enjoy the best that each season has to offer. From summer berries to winter squash, there are many delicious options to choose from.
+Vitamin K is important for bone health, blood clotting, and heart health. Vitamin K is found in many vegetables like spinach, kale, broccoli, Brussels sprouts, and lettuce. There are also many fruits that are good sources of vitamin K, including kiwis, oranges, bananas, and apples. Vitamin K is also found in green tea, but the vitamin K content varies depending on how long the tea is steeped.
 
- following these tips can help you make the best choices when it comes to choosing seasonal fruits and vegetables. Seasonal produce is fresher, more affordable, and supports your local community. So next time you’re at the grocery store or farmers market, keep these tips in mind and enjoy the bounty of each season.
+## Folate
+
+Folate helps prevent birth defects, heart disease, stroke, depression, and other diseases. Many people don’t get enough of this important nutrient, especially during their childbearing years. Eating more fruits and vegetables that are rich in folate can help you get more of this important nutrient. Folate is naturally found in many fruits and vegetables like broccoli, spinach, oranges, strawberries, and blueberries.
+
+## Calcium and magnesium
+
+Calcium and magnesium play many important roles in your body, including maintaining strong bones and teeth, regulating your heartbeat, and helping with muscle spasms and cramps. Calcium and magnesium are also essential for many other processes in your body, like regulating blood pressure and nerve transmission. Milk and dairy foods are often cited as the main sources of calcium and magnesium. However, there are many other great sources of these nutrients, including dark leafy greens and fruits like oranges, tangerines, figs, and kiwis.
+
+## Iron
+
+Iron is an essential mineral that cannot be synthesized by the human body. It is present in many types of foods, but some foods are better sources than others. Iron that comes from plant foods is called non-heme iron. Good plant sources of non-heme iron include legumes, nuts, seeds, and dark leafy greens. Other foods, like meat, contain a different type of iron called heme iron, which is the most easily absorbed form of iron. Iron is found in many vegetables such as spinach, broccoli, and tomatoes.
+
+## B vitamins
+
+B vitamins play many roles in your body, especially energy metabolism. Many people don’t get enough B vitamins, and this can lead to health issues over time. There are many foods rich in B vitamins, including beans, whole grains, fish, and many fruits and vegetables.
+
+## Other nutrients
+
+Fruits and vegetables are also packed with many other nutrients, including potassium, fiber, and iron. Eating a variety of fruits and vegetables can help you get enough of these nutrients.
+
+People often think of oranges when they think of potassium-rich foods, but there are many other excellent sources of potassium. Potatoes, avocados, bananas, cantaloupe, and sweet potatoes are just a few examples.
+Fiber is found in many fruits and vegetables, but especially berries, beans, peas, and nuts.
+
+## Environmental benefits of seasonal eating
+
+The environmental benefits of eating seasonally go beyond the nutritional advantages. Harvesting fruits and vegetables that are in season means that less energy is needed for both transportation and storage, saving resources and money in the long run. Eating seasonal foods can help reduce your carbon footprint, which can be especially important for people who are environmentally conscious.
+
+## Conclusion
+
+There are many reasons to choose seasonal fruits and vegetables. They are often cheaper and come from closer sources, making them more environmentally friendly. They are also naturally more nutritious, as they are picked at their peak. Additionally, they may be more flavorful and better tasting than out-of-season produce.
+
+Seasonal fruits and vegetables are a nutritious source of vitamins, minerals, fiber, and other nutrients. Eating fruits and veggies can help you meet your daily needs for vitamins, minerals, and other essential nutrients. They also provide antioxidants (which may reduce your risk of disease) and other phytonutrients (which may have additional health benefits).
+
+When you eat seasonally, you’re able to take advantage of produce when it’s at its freshest and most nutritious. Additionally, seasonal eating can be a great way to try new foods and experiment with different recipes.

@@ -3,17 +3,6 @@ import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
 import axiosRetry from "axios-retry";
 
-axiosRetry(axios, {
-  retries: 3,
-  retryCondition(error: any) {
-    console.log(error);
-    return error?.response?.status >= 500;
-  },
-  retryDelay: (retryCount) => {
-    return retryCount * 1000;
-  },
-});
-
 export class Writesonic {
   private client = axios.create({
     baseURL: "https://api.writesonic.com/v1/business/content",
@@ -30,6 +19,22 @@ export class Writesonic {
   });
   private cache = new CacheService();
 
+  constructor() {
+    axiosRetry(axios, {
+      retries: 3,
+      retryCondition(error: any) {
+        console.log("RETRY HERE");
+        return error?.status >= 500;
+      },
+      retryDelay: (retryCount) => {
+        return retryCount * 1000;
+      },
+      onRetry(_, error: any) {
+        console.warn(`Request to ${error.request.url} failed, retrying...`);
+      },
+    });
+  }
+
   private generateIntro = async ({
     title,
   }: {
@@ -44,7 +49,13 @@ export class Writesonic {
           })
           .then((response) => response.data[0].text)
           .catch((error) => {
-            console.log("Error generating intro: ", { code: error.code });
+            const e = {
+              code: error?.code,
+              status: error?.response?.status,
+              message: error?.response?.statusText,
+            };
+            console.log("Error generating intro: ", e);
+            throw e;
           }),
       3650
     );
@@ -67,7 +78,13 @@ export class Writesonic {
           .then((response) => response.data[0].text)
           .then((text) => text.split("\n").map((line: string) => line.trim()))
           .catch((error) => {
-            console.log("Error generating outlines: ", { code: error.code });
+            const e = {
+              code: error?.code,
+              status: error?.response?.status,
+              message: error?.response?.statusText,
+            };
+            console.log("Error generating outlines: ", e);
+            throw e;
           }),
       3650
     );
@@ -92,7 +109,13 @@ export class Writesonic {
           })
           .then((response) => response.data.data[0].content)
           .catch((error) => {
-            console.log("Error generating article: ", { code: error.code });
+            const e = {
+              code: error?.code,
+              status: error?.response?.status,
+              message: error?.response?.statusText,
+            };
+            console.log("Error generating content: ", e);
+            throw e;
           }),
       3650
     );

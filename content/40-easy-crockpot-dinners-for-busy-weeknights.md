@@ -1,28 +1,59 @@
 ---
 title: 40 easy Crockpot Dinners For Busy Weeknights
 createdAt: 2022-07-09T06:43:47.230Z
-updatedAt: 2022-07-09T06:43:47.230Z
+updatedAt: 2022-07-17T06:22:45.331Z
 category: cooking
 ---
 
-Slow cookers are a lifesaver on busy weeknights. You can throw all the ingredients in the crockpot in the morning and have a hot, delicious meal waiting for you when you get home from work. Here are 40 easy crockpot dinners that will make your weeknights a lot less stressful.
+## Chicken
 
-1. Crockpot Chicken Teriyaki: This easy chicken teriyaki recipe is made in the crockpot and only requires a few simple ingredients. Serve it over rice or quinoa for a complete meal.
+One of the best ways to make sure your family eats a healthy dinner is to have plenty of options for vegetarians and vegans. Chicken is a fantastic protein that can be used in so many ways! In addition to being a fantastic traditional entree, shredded chicken can also be used to make tacos, burritos, salads, sandwiches, wraps, and more. It’s also very inexpensive, making it a great choice for people who are trying to stick to a budget. There are tons of ways to cook chicken in a crockpot. Try one of these yummy chicken recipes!
 
-2. Crockpot Honey Garlic Pork Loin: This pork loin is cooked in the crockpot with a honey garlic sauce. It's an easy and delicious meal that the whole family will love.
+- Creamy Honey Garlic Chicken - This dish is so simple, but tastes absolutely amazing. The creamy honey sauce is a great change from the usual savory herbs and spices of most crockpot recipes. It’s also very easy to make dairy free with a few substitutions.
+- BBQ Chicken - This recipe is a perfect blend of sweet and savory. Switch it up by topping your chicken on a salad with a tangy dressing or by adding it to a sandwich along with a slice of melted cheddar. This is a great recipe for using up leftover chicken from another dinner.
+- Buffalo Chicken - If you’ve ever been to a wing joint, you’re probably familiar with the spiciness of Buffalo chicken. Buffalo chicken is great for when you want to switch up your usual dinner routine with a bolder flavor profile. It’s super easy to customize this recipe to make it hotter or milder depending on your preference.
 
-3. Crockpot Sesame Chicken: This crockpot sesame chicken is a healthier version of the takeout favorite. It's full of flavor and super easy to make.
+## Beef
 
-4. Crockpot Beef and Broccoli: This beef and broccoli recipe is made in the crockpot and is much healthier than takeout. It's an easy and delicious way to get your beef and broccoli fix.
+Crockpots are perfect for cooking large pieces of meat. Whether you are making pulled pork, shredded beef, or a roast, the slow and low heat of the crockpot is perfect for tenderizing a cheaper cut of meat like brisket or chuck roast. There are tons of delicious beef recipes that are perfect for dinner with a side of vegetables, rice, or potatoes. Try one of these beefy crockpot recipes!
 
-5. Crockpot Orange Chicken: This crockpot orange chicken is a healthier version of the takeout favorite. It's full of flavor and super easy to make.
+- Chili - Nothing is more hearty and delicious than a big bowl of chili. This recipe uses a combination of ground beef and beef kidney beans for a delicious pot of chili that can be served a number of ways. Chili is perfect for football season when people need a hearty meal that’s easy to eat with one hand.
+- Pot Roast - Another great one-pot meal, pot roast is fantastic for chilly fall and winter nights. A nice big roast and some potatoes or vegetables are a hearty meal that will warm you up from the inside out.
+- Herbed Roast - This recipe uses a dry rub to infuse a ton of flavor into a cheap cut of beef like chuck roast. It’s perfect for feeding a large group of people and is also great served over mashed potatoes. This is a great meal to make ahead of time and freeze for later in the month when things get super busy.
 
-6. Crockpot Honey Sriracha Chicken: This chicken is cooked in the crockpot with a honey sriracha sauce. It's an easy and delicious meal that the whole family will love.
+## Pork
 
-7. Crockpot General Tso's Chicken: This crockpot General Tso's chicken is a healthier version of the takeout favorite. It's full of flavor and super easy to make.
+Pork is another meat that is great for the slow and low cook time of a crockpot. With tons of different cuts of pork, it’s super easy to find something that isn’t too expensive while still providing a ton of flavor. Try one of these porky crockpot recipes to feed your family a tasty, nutritious dinner.
 
-8. Crockpot Sweet and Sour Chicken: This crockpot sweet and sour chicken is a healthier version of the takeout favorite. It's full of flavor and super easy to make.
+- Pulled Pork - This is a classic meal that is great for football season or a casual dinner party. It can be served on sandwiches or tacos for a casual meal, or on a plate with a side for a fancier dinner party. It’s quick to make and can be served a number of ways depending on your preferences.
+- Braised Pork - This recipe uses a dry rub to give the pork tons of flavor. It’s great for feeding a large family or for using up a larger pork roast or loin.
+- Pork Chile Verde - This Mexican-inspired dish is full of flavor and perfect for chilly fall and winter nights. It’s great served with a side of rice and beans.
 
-9. Crockpot Thai Peanut Chicken: This crockpot Thai peanut chicken is a healthier version of the takeout favorite. It's full of flavor and super easy to make.
+## Seafood
 
-10. Crockpot Chicken Tikka Masala: This crockpot chicken tikka masala is a healthier version of the takeout favorite. It's full of flavor and super easy to make.
+Crockpots are perfect for seafood. Slow cooking salmon, shrimp, or even scallops in the crockpot brings out even more delicious flavors than normal cooking methods. Seafood is a great way to add more protein to your diet while keeping your meals interesting and delicious. Try one of these seafood crockpot recipes to spice up your dinner game!
+
+- Shrimp Boil - A shrimp boil is a traditional seafood boil that uses a ton of different spices and flavors to create a delicious boil that’s perfect for summer or winter. This easy to make recipe is full of flavor and can be served with a side of cornbread.
+- Curried Salmon - Salmon is a great option for dinner. It’s full of protein and is versatile enough to serve in a variety of different dishes, including this curried recipe. It’s great served over a bed of rice or a brown rice crust.
+- Scallops and Potatoes - Scallops are a super tasty seafood option that can be used in a variety of different ways, including this one-pot recipe that also includes potatoes.
+
+## Vegans and vegetarians
+
+For those who don’t eat meat, there are still plenty of delicious crockpot recipes to choose from. The best thing about crockpot cooking is that it can be tweaked to fit any diet, lifestyle, or dietary need. Try one of these crockpot recipes if you don’t eat meat!
+
+- Stews - Stews are a great way to fill up bellies while making the most of cheaper cuts of meat. A stew is one of the best ways to use up vegetables that are turning in the fridge. It also works well to freeze a few containers for a rainy day.
+- Vegetarian Chili - Vegetarian chili is just as hearty and delicious as the meat-based variety. This recipe mixes a few different kinds of beans and a variety of vegetables for a chili that will keep bellies full and happy.
+- Potatoes and Greens - Potatoes and greens are a great way to use up any veggies that are turning and provide a hearty meal that’s perfect for a cold winter evening.
+
+## Pasta Dishes
+
+Pasta is incredibly delicious, but can be very heavy. The slow and low cooking of a crockpot is a perfect way to make a pasta dish that can be enjoyed without feeling overly full or weighed down. Try one of these pasta dishes for dinner!
+- Pasta and Vegetable Soup - Soup is a great way to make a comfort food like pasta much healthier. This recipe is super simple to make and can be eaten as a full meal, or as a side to a larger meal.
+- Spaghetti and Meat Sauce - This is a classic recipe that can be customized to fit any diet or taste preference. The simple recipe is easy to make and can be made ahead of time and frozen for later in the month when things get crazy.
+- Mac and Cheese - This recipe can be enjoyed as a side dish or a full meal with the addition of a few veggies on the side. It’s a creamy comfort food that most people can’t resist.
+
+## Desserts/Snacks
+
+Many people think of desserts being heavy and rich, but in reality they can also be light and refreshing. There are many easy to make desserts that can be enjoyed as a light snack or dessert after dinner. Try one of these easy desserts for dinner!
+
+- Fruit - This is a great option for a quick snack or dessert that is full of vitamins, fiber, and other nutrients that make a person feel full and

@@ -1,38 +1,46 @@
 ---
 title: The best recipes for using up leftover cooked
 createdAt: 2022-07-07T06:05:40.161Z
-updatedAt: 2022-07-16T14:05:43.494Z
+updatedAt: 2022-07-17T06:04:35.110Z
 category: cooking
 ---
 
-## Research is crucial
+## Chicken and Rice Casserole
 
-When it comes to writing an advice or tips article, the first step is always research. You need to be sure that your information is correct and up-to-date. It’s also important to know who your audience is, so that you can tailor your advice accordingly. If you don’t have a clear understanding of the problem you’re trying to solve, or if your information isn’t relevant to your target readership, any advice you give will be useless.
+If you love the classic chicken and rice casserole, this is the way to enjoy it even more, thanks to the addition of leftover cooked chicken.
+Baking the casserole in individual ramekins gives you smaller portions, so you can enjoy this as an appetizer, snack or even a light dinner, depending on how hungry you are.
+You can prepare this casserole in advance and then bake it just before your guests arrive. It’s also an excellent choice for when you’re home alone or you want to prepare something really tasty but you don’t want to eat leftovers again.
+This casserole is super simple to make and it is perfect served with a green salad.
 
-You may also want to consider the tone of your article. Is it going to be a list of do’s and don’ts, or a more casual approach? You don’t want to put off your readers by coming across too aggressively, or they’ll just stop reading.
+## Chicken Dump-and-Cook Soup
 
-## Write in the first person
+If the idea of having to create a new chicken recipe from scratch makes you feel really uninspired, then why not try this super simple and tasty dump-and-cook soup?
+You can use any type of leftover cooked chicken for this recipe, whether it’s dark or white meat, or even a combination of both.
+This is such a simple recipe that even the kids can help you make it. All you have to do is dump all the ingredients into a large saucepan, bring the soup to a boil, then reduce the heat and leave it to simmer for around 10 minutes.
+This soup makes a great lunch or dinner, particularly if you add a few extra ingredients like a sprinkling of cheese, some croutons or chopped nuts.
 
-When we say write in the first person, we mean write your article as if you’re talking to one person. If you’re tempted to jump right into the tips, resist the urge. Start by addressing your reader directly, especially if you’re writing an advice article. Let your reader know that you are talking to them, and why. You can also ask questions of your readers, which is a great way to get them more involved in the article. This is a very effective way to humanize your article, especially if you’re talking about a really dry topic.
+## Chicken, Broccoli and Brown Rice Bowls
 
-By writing in the first person, you can make your article more personable, engaging, and less likely to come across as preachy or pretentious. This is especially important for advice articles, where you want to avoid coming off as condescending or unhelpful.
+If you enjoy Asian inspired dishes, but you prefer to avoid eating rice as a staple part of your diet, then this chicken, broccoli and brown rice bowl is a great way to use up your leftover cooked chicken.
+This recipe is easy to prepare, especially if you use a combination of cooked brown rice and leftover cooked white rice. This way, you’re getting a great variety of nutrients from both types of rice in just one dish.
+You can enjoy this bowl for lunch or as a light dinner, accompanied by a fruit salad or a slice of fresh fruit. You can even freeze the leftovers for a quick and easy meal later on.
 
-## Lay out your points
+## Chicken Alfredo with Mushrooms and Spinach
 
-Once you’ve got your opening out of the way, it’s time to get down to the nitty-gritty of your tips and advice. Remember to write like you’re talking to a friend - not a textbook. Keep your language conversational and easy to understand. Your readers don’t need to know all the ins and outs of your topic, they just need enough information to take action. Keep your points short, clear, and to the point. A few bullet points, combined with a friendly tone, is all you need to get your advice across.
+If you love chicken Alfredo, but you want to switch things up a bit, this delicious chicken Alfredo with mushrooms and spinach is a must-try recipe.
+This is a really quick and easy recipe to make, and it tastes very similar to a classic chicken Alfredo. If you’re looking for something new to do with your leftover cooked chicken, this is a great choice.
+This chicken Alfredo with mushrooms and spinach dish is also an excellent choice if you’re planning a special occasion or having friends over for dinner. The recipe can easily be doubled if you are cooking for a big group.
 
-## Come up with some snappy titles
+## Cheesy Chicken, Broccoli and Rice Frittata
 
-When you’re brainstorming article titles, don’t settle for the first one that comes to mind. A strong, attention-grabbing title is the first thing your readers will see, so it’s worth taking a bit of time to come up with something snazzy. You don’t have to be silly or off-the-wall, but a bland, run-of-the-mill title won’t cut it. If you can’t come up with a title, go back to your research and see if there’s a topic that stands out as being more relevant.
+Frittatas are the perfect solution if you want to use up your leftover cooked chicken and have a tasty, nutritious and filling meal for lunch.
+You can experiment with different types of frittatas, but we particularly love this cheesy chicken, broccoli and rice version. It’s easy to make and it can be enjoyed warm or cold.
+Whisk the eggs and broccoli together, then add the rice and season with a few herbs. Finally, stir in the cooked and sliced chicken, plus a generous amount of grated cheese. You can sprinkle a little extra cheese on top, too, if you like.
 
-If you’re struggling to come up with a killer title, don’t be afraid to ask for help. Ask your friends what they think sounds good, or try a site like Title Generator for some inspiration.
+## Baked Teriyaki Chicken With String Beans
 
-## Don’t forget to include helpful resources and tips
+If you want a simple, hassle-free and nutritious way to use up your leftover cooked chicken, try this baked teriyaki chicken with string beans.
+This easy and fuss-free recipe takes just 20 minutes to prepare and is the perfect way to use up leftover cooked chicken without any effort.
+It is also an excellent choice if you’re trying to eat more greens, since it calls for cooked string beans. You can eat this with rice, noodles or even a simple side salad.
 
-Once you’ve got your reader’s attention and you’ve laid out your points, it’s time to back up your advice with solid resources. If you’re talking about using up leftover cooked meals, provide links to websites with delicious leftover recipe ideas. You can also include links to other guides and resources that might be helpful to your readers, like guides on how to store leftovers, or how to plan ahead to avoid cooking too much food.
-
-Your article should stand alone as one cohesive unit, but it’s also important to link to other helpful articles on your website or blog. This shows your readers that you’re not just in it for the quick buck - you’re in it for the long haul, and you want to provide as much value as possible.
-
-## Wrapping up
-
-Once you’ve written your article, it’s time to proofread it carefully. Look out for grammar mistakes, or sentences that don’t make sense. If you’ve been brainstorming in your notepad, go back and transcribe your article before you publish. This will give you a chance to read through your article again, and make sure everything is as good as it can be. Make sure that your article has a clear beginning, middle, and end. Give your readers a clear call-to-action at the end of your article - this will make it much easier for them to take action on your advice. Finally, make sure you publish your article. Don’t forget to promote it, too. High-quality advice articles are an excellent way to establish your authority in the industry, generate high-quality leads, and increase your website traffic.
+Whether you’re cooking for yourself, for friends or for family, it pays to have a few recipes on hand that use up leftovers. These dishes are quick, easy and delicious, and they are also perfect for feeding crowds.

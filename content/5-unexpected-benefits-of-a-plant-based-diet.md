@@ -1,44 +1,38 @@
 ---
 title: 5 Unexpected benefits of a Plant based diet
 createdAt: 2022-07-09T06:38:37.597Z
-updatedAt: 2022-07-16T14:12:07.272Z
+updatedAt: 2022-07-17T06:14:38.376Z
 category: cooking
 ---
 
-## What is a Plant Based Diet?
+## 5 Unexpected benefits of a Plant Based Diet
 
-A plant based diet or vegan diet is one that consists of a high intake of vegetables, fruit, legumes, nuts and grains with few or no animal products. Some people who follow a plant based diet will consume small amounts of dairy products, eggs or honey, and others follow a completely vegan diet which includes no animal products whatsoever. 
+## Improved digestion
 
-A plant based diet can provide all necessary nutrients, but attention should be given to iron, vitamin B12 and omega-3 fatty acids as these nutrients may be limited in a plant based diet. 
+The high fibre content in a plant-based diet helps to keep your digestive system working properly. Fibre adds bulk to your stool, which helps food to pass through your digestive system more quickly, reducing the time it takes to experience the symptoms of digestive disorders such as constipation and irritable bowel syndrome (IBS).
 
-Adults following a plant based diet can meet their daily protein needs by consuming plant foods that are rich in protein, like beans, lentils, tofu, and soy-based foods. 
+## Better Sleep
 
-## 5 Unexpected Benefits of a Plant Based Diet
+The high levels of magnesium found in nuts, seeds and green leafy vegetables such as spinach and broccoli can help you to fall asleep more easily and to sleep more soundly.
+You can also try incorporating other natural sleep aids into your diet such as chamomile tea, warm milk, a banana or an oat-based cookie.
 
-A plant based diet has several health benefits that are often overlooked and can be helpful for everyone. Let’s look at 5 unexpected benefits of a plant based diet. 
+## More Energy
 
-## 3 Tips to Stay on Track with a Plant Based Diet
+The high levels of vitamins, minerals and healthy fats found in a plant-based diet will give you lots of energy.
+You can also eat more smaller meals throughout the day to keep your energy levels high.
 
-Plant based diets are fantastic, but it's important to stay on track with them to achieve your desired health benefits. Here are 3 tips to stay on track with a plant based diet and maximize your health benefits. 
+## Better breath and skin
 
-## 2. Weight Loss/Management
+The high levels of vitamin C in a plant-based diet can help to improve your complexion by preventing wrinkles and fine lines from forming around your eyes, mouth and nose.
 
-One of the benefits of a plant based diet is weight loss. Plant based diets are generally high in fiber, which is great for your digestive system and also can help with weight loss.
-A plant based diet is rich in a type of soluble fiber called pectin, which is particularly helpful for weight loss because it can reduce appetite, cravings for high-calorie foods, and the amount of food that is being broken down and processed by the digestive system.
-A plant based diet can also help with weight management because it is generally low in fat and high in fiber, which can help with weight management.
+In addition, the high levels of iron found in plant-based foods can help to prevent an iron deficiency, which is common in people with poor diets. This can lead to brittle nails and hair, as well as a reduction in your skin’s elasticity.
 
-## 2. Environmental benefits
+## Weight loss
 
-A plant based diet is better for the environment as it has less of an impact on carbon emissions than eating meat. A vegan diet can reduce carbon emissions by up to 50% as compared to a meat eating diet.
-A vegan diet has been proven to be much better for the environment as it has less of an impact on carbon emissions than eating meat.
-A vegan diet has been shown to reduce carbon emissions by up to 50% as compared to a meat eating diet.
+A plant-based diet is low in fat so it can be helpful if you are trying to lose weight. The high levels of fibre found in plant-based foods can also make you feel full more quickly, which can be useful if you are trying to lose weight.
 
-## 2. Health Benefits
+The high levels of vitamins and minerals in a plant-based diet are very useful for maintaining a healthy weight. They can help to lower your cholesterol levels and decrease your risk of developing cardiovascular disease.
 
-A plant based diet can lead to improved gut health which can include reduced bloating, less abdominal pain, reduced risk of bowel disorders and improved regularity.
-A plant based diet can help to prevent and manage diseases such as heart disease, diabetes and certain types of cancers.
-A plant based diet can also lead to better mental health. Some people who suffer from depression have reported that a plant based diet has helped them to manage their symptoms.
+## Conclusion
 
-## 2. Conclusion
-
-In conclusion, a plant based diet can be great for your health and well-being. It can help you lose weight, prevent disease, improve mental health and be better for the environment. A plant based diet contains many different fruits and vegetables, legumes, nuts, seeds and grains. It’s important to make sure that you get enough protein, iron, calcium and vitamin B12 to support your health, particularly if you are vegan.
+A plant-based diet is extremely beneficial for your health and can reduce your risk of developing serious diseases such as diabetes and cardiovascular disease. The high levels of vitamins, minerals and healthy fats found in a plant-based diet will give you lots of energy, help to improve your complexion, and can help you to lose weight. In addition, the high fiber content in plant-based foods can help to keep your digestive system working properly. A plant-based diet has many well-documented benefits including lowering the risk of heart disease and stroke; reducing your risk of developing type 2 diabetes; helping to manage your weight; improving your blood sugar control; reducing your cholesterol levels; preventing certain cancers such as colon cancer; and lowering your risk of dying from any cause.

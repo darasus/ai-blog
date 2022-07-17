@@ -1,53 +1,46 @@
 ---
 title: Make your own - recipes for DIY condiments and sauces
 createdAt: 2022-07-07T06:05:39.940Z
-updatedAt: 2022-07-16T13:57:18.644Z
+updatedAt: 2022-07-17T06:21:44.173Z
 category: cooking
 ---
 
-## What is condiments and sauces?
-
-Condiments are ingredients added to food to enhance the flavor. It is like a garnish on a dish. It does not add nutritional value but makes the food taste better. Sauces are liquids that are served with food. They can be made of different ingredients like spices, fruits, or vegetables and are used to add flavor to food. When people refer to condiments, they usually mean the sauces or the liquids.
-
-Condiments and sauces are also used to enhance the texture and appearance of food. Some examples of foods that are commonly served with condiments or sauces are burgers, sandwiches, hot dogs, and salads.
-Most condiments and sauces can be homemade, and it is not difficult to prepare them.
-
 ## Ketchup
 
-Ketchup is a sauce made from tomatoes that is often used with many different types of dishes such as hot dogs, fries, and burgers. Most ketchup that you find in stores is made with a lot of sugar, but you can make your own ketchup that is much healthier for you by using a tomato-based sauce instead of using sugar to add sweetness. You can add other ingredients like herbs, spices, and even garlic to make a unique flavor of ketchup that you can use on your food.
-
-You can also make organic ketchup by using fresh tomatoes instead of canned ones. Fresh tomatoes can be hard to mash, but you can use a food processor to make the job easier. You can also use a blender, but remember to remove the lid while the blender is running because tomato seeds can fly out of the blender and get stuck in your eyes if you don’t do this.
+Ketchup is one of the most popular condiments in the world. It’s a sweet and tangy sauce that is generally tomato based and can contain loads of added sugar. While many commercial brands have too much sugar, salt and preservatives, homemade ketchup is a much healthier option. It’s also easy to make and can be made in large batches. To make homemade ketchup, all you need are ripe tomatoes, sugar, salt, onions, garlic, and a blender or food processor. You can also add a touch of vinegar for extra tanginess.
 
 ## Mayonnaise
 
-Mayonnaise is a type of sauce that is often used with sandwiches, salads, and other types of food. It is made of oil, eggs, and vinegar or lemon juice. When you make your own mayonnaise at home, you can use healthier oils than the ones used in commercially prepared mayonnaise. You can also use healthy ingredients like olive oil, coconut oil, or sunflower oil to make a healthier mayonnaise. You can also make homemade vegan mayonnaise by using soy milk or other plant-based milk instead of eggs.
-
-Making mayonnaise at home is easy, but you have to be careful not to let the oil in the mayonnaise get too hot because it can cause the mayonnaise to separate. To avoid this, you can make the mayonnaise in a slow cooker by placing the oil and other ingredients in the slow cooker and then heating it on low for 30 minutes. Make sure that the temperature does not go above 165 F.
+Mayonnaise is a creamy condiment made from oil, egg yolks, and vinegar or lemon juice. It’s a key ingredient in many salad dressings and sandwiches and can also be used in savoury dishes like chicken or fish salad. Most people don’t realise that mayonnaise can be made at home, but it’s actually super easy. You can make homemade mayo with just two ingredients – oil and either vinegar or lemon juice. If you want to make a healthy mayonnaise, use extra virgin olive oil and vinegar to make it. If you want it to be more like traditional mayo, use vegetable oil and lemon juice. Whichever ingredients you choose, you should let them sit for around 15 minutes before you start whisking, as this will help to emulsify the oil and vinegar/lemon juice mixture better.
 
 ## Mustard
 
-Mustard is a popular condiment that is often used in sandwiches, hot dogs, and other types of food. It is also used as a dipping sauce for some types of fish. There are many different types of mustard that you can buy in stores, but you can also make your own mustard at home. You can make different types of mustard by adding your favorite spices and herbs. You can also add other ingredients like wine and even vegetables to make distinct flavors of mustard.
+Mustard is a super simple condiment to make at home. To make mustard, you will need mustard seeds (either yellow or black), water, a jar, and a fridge. Simply add your mustard seeds to a jar and pour in just enough water to cover them. Leave the jar in a cool place for a few hours (or even overnight), then pour the mixture into a blender or food processor and blend into a smooth paste. You can add a bit of water if the mustard is too thick. Once done, transfer the mustard to a clean jar and keep it in the fridge for up to a month.
 
-There are many different recipes for making mustard at home, but the basic ingredients are mustard seeds, vinegar, and a sweetener. You can vary the ingredients depending on the type of mustard that you want to make. You can make different types of mustard for different occasions by using holiday spices like cinnamon and cloves for Christmas or even vegetables like beets and carrots for a birthday party.
+## Chilli sauce
 
-## Pesto
+Chilli sauce is a quick and easy condiment to make at home. It’s also much healthier than store-bought varieties, as you can control the amount of salt and preservatives. For a basic chilli sauce, you will need a few handfuls of fresh chillies, a few cloves of garlic, a small piece of ginger (optional), salt, and oil. Simply chop up all the ingredients and add them to a blender along with a splash of oil. Blend the mixture for a few minutes to create a smooth paste, then transfer the chilli sauce to a jar and keep it in the fridge for up to a month.
 
-Pesto is a sauce usually made with herbs like parsley, basil, and garlic blended together with olive oil. It is often used as a sauce on pasta, but you can also use it as a spread on sandwiches and other types of food. You can make your own pesto at home with fresh ingredients because most commercial varieties are made with preservatives. You can make different types of pesto by varying the ingredients. You can also add other ingredients to make a unique flavor of pesto.
+## BBQ sauce
 
-You can make pesto with fresh or dried herbs, but keep in mind that fresh herbs are stronger in flavor than dried herbs. Fresh herbs like basil, cilantro, and parsley can be chopped and used directly in the food processor. Dried herbs should be crushed with a mortar and pestle before using them in the food processor. You can also use a blender to make the pesto, but keep a close eye on it because the food can fly out of the blender if you don’t cover the blender while it is running.
+BBQ sauce is a sweet and tangy sauce that is perfect for meat or vegetables. You can make a basic BBQ sauce at home with tomato ketchup, vinegar, brown sugar, and seasoning. Simply mix the ingredients and pour them into a saucepan. Bring the mixture to a boil, then turn the heat down and let it simmer for 10 minutes, stirring occasionally. Once done, take the sauce off the heat and let it cool. Once cool, pour it into a jar and keep it in the fridge for up to a month.
 
-## Tzatziki sauce
+## Sriracha
 
-Tzatziki sauce is a sauce made with yogurt, cucumber, garlic, and other spices. It is often served as a side with gyros, but you can also use it as a sauce on sandwiches and other types of food. You can make your own tzatziki sauce at home with fresh ingredients. You can also make different types of tzatziki by varying the ingredients. You can also add other ingredients to make a unique flavor of tzatziki.
+Sriracha is a super-hot and spicy sauce that is used in many Asian dishes. It’s a great option if you want to add a kick to your meal but don’t want to use hot peppers. There are many recipes online for making your own sriracha sauce, but ours is simple and uses just three ingredients: chilies, vinegar, and sugar. First, you need to roast the chilies until they are nice and charred. You can do this over an open flame, in the oven, or even in a frying pan. Once roasted, simply add the chilies to a blender with a little vinegar and sugar. Let the mixture blend for a few minutes until it becomes a smooth sauce. You can keep the sauce in the fridge for up to a month.
 
-You can make tzatziki with plain yogurt or even Greek yogurt. You can also make vegan tzatziki by using soy yogurt or other plant-based yogurt. You can use a food processor to make tzatziki, but remember to remove the lid while the food processor is running so that the yogurt does not get stuck and cause the food processor to break.
+## Red chili paste/Samchur/Chillie-garlic paste
 
-## Thousand island dressing
+Red chili paste is a condiment that is commonly used in many Asian dishes. It’s made with red chilli peppers and garlic and can be super spicy. You can buy it at your local grocery store, but it is much healthier and cheaper to make it at home. It’s also very easy to make, especially if you use a food processor. Just add a handful of red chillies and a few cloves of garlic to the food processor. The amount of chillies you use will depend on how spicy you want your paste. For a milder paste, use fewer chillies. Let the food processor run for a few minutes until the chillies and garlic are minced and you have created a nice, smooth paste. You can store the paste in a jar for up to a month.
 
-Thousand island dressing is a type of sauce that is often served with salads and sandwiches. You can also use it as a dip for vegetables and chips. It is made with mayonnaise, ketchup, and other spices. You can make your own thousand island dressing at home with fresh ingredients. You can also make different types of thousand island dressing by varying the ingredients. You can also add other ingredients to make a unique flavor of thousand island dressing.
+## Sumac Hummus
 
-Enough to make a thousand island dressing at home. Put the ingredients in a bowl, mix, and enjoy!
+Hummus is a Middle Eastern dip that is made from chickpeas, garlic, and lemon. It’s a super healthy and nutritious snack that can be served with vegetables or crudités. It’s a great option for vegetarians as it has very few calories. You can buy store-bought hummus, but it’s much healthier (and cheaper) to make it at home. To make home-made hummus, you will need chickpeas, garlic, lemon, tahini, and extra virgin olive oil. Once you have the ingredients, all you have to do is blend them together until you have a smooth dip. You can store the hummus in the fridge for up to a week.
+
+## Tahini-based condiments and sauces: tahini, olive oil, lemon and garlic paste; hommus; and baba ganoush.
+
+Tahini is a seed-based paste that is commonly used in Middle Eastern and Mediterranean dishes. It is a simple paste made from sesame seeds, garlic, lemon, and olive oil. It’s very easy to make and great for a healthy lifestyle. All you need to do is add all the ingredients to a blender and blend until you have a smooth paste. You can store the tahini in a jar in the fridge for up to a month. Tahini can be used in salad dressings, as a sauce for vegetables, and as a spread for bread or crackers.
 
 ## Conclusion
 
-Condiments and sauces are important parts of a balanced diet, and you can easily make most of them at home so that you can control the ingredients that are added to them. You can also save money by making your own sauces and condiments at home, and you can use them in many different recipes. This will add variety to your diet, and you can make sure that you get the nutrients that you need each day.
+It’s amazing how something as simple as a homemade condiment or sauce can add so much flavor to your food and change things up from day to day. So why not spend a few hours on the weekend and make a few of your favorite sauces and condiments at home? You’ll not only save money on store-bought versions, but you’ll also know exactly what is in them and be able to control the amount of sodium, sugar, and preservatives. Not only that, but you’ll also be able to create your own unique flavor combinations and experiment with new things. So why not try making one of these homemade condiments and sauces today?

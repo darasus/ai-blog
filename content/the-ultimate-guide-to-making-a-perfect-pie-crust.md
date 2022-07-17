@@ -1,79 +1,59 @@
 ---
 title: The ultimate guide to making a perfect pie crust
 createdAt: 2022-07-07T06:05:39.754Z
-updatedAt: 2022-07-16T13:43:55.541Z
+updatedAt: 2022-07-17T05:58:30.058Z
 category: cooking
 ---
 
-## What is a Pie?
+## But first: Why is making a perfect pie crust so important?
 
-A pie is a baked dish made with a pastry crust that is filled with a sweet or savory filling. The term “pie” is believed to have first appeared in the 13th century, although the exact etymology of the word remains unclear. The earliest pie recipes were often sweetened starchy fillings such as peas, apples, and pears that were baked inside a pastry crust.
+When it comes to desserts, pies are probably one of the most iconic and recognizable classic dishes. There are tons of variations of the pie, but almost all of them (with the exception of the cheesecake) have the same main component: a crust.
+Of course, crusts are not just decorative. They are actually fundamental to the success of any pie. The crust acts as a wrapping for the filing, holding it in place as it bakes and keeping the pie together as you slice it at the end.
+The crust is also the part of the pie you taste first, so it needs to be delicious. Otherwise, you’ve just ruined what could have been a really great dessert!
+## The secrets to flaky perfection
 
-The crust on a pie acts as a barrier between the filling and the baking dish, preventing the juices in the filling from seeping into the dish and burning. The type of crust you use for your pie can also add a delicious texture and flavour to the overall dish.
+There are many different types of pie crusts you can make, but one of the most common and classic is the all-butter crust. You can use butter or a mixture of butter and shortening if you like, and the difference between the two is mostly in texture—shortening makes the crust a little more tender.
+It’s not just the type of fat in your crust that matters, but also how you mix and handle the dough. Achieving perfect flakiness is all about the dough-to-fat ratio, the temperature of the ingredients, and the way you work the dough.
 
-## Types of Pies
+## How to make a tender and flaky pie crust
 
-Apple - Apple pies are a classic autumn dessert that can be served at any occasion. Apples, cinnamon, and sugar are baked inside a flaky pastry crust to create a sweet and hearty treat.
+If the idea of making a homemade pie crust makes you nervous, all you need to do is follow a few simple steps. A well-made crust is all about the process.
+It’s easy enough to make a homemade crust, even if you have never done it before. You can make a sweet crust, or you can try baking a savory pie crust.
+The key to a really great crust is using a lot of butter in a ratio of 2 parts butter to 3 parts flour. You can also add a little bit of water.
 
-Banana - Banana cream pies are a classic American dessert. A banana cream pie is made with a crumbly pastry crust, a creamy banana filling, and a generous layer of whipped cream on top.
+## How to avoid shrinkage when baking a pie
 
-Custard - Custard pies are a classic British dessert that can be made with a variety of different fillings. Common custard pie fillings include lemon, blackberry, and raspberry.
+When a pie crust shrinks, it can make your pie look a little less than perfect. You can avoid this by making sure you use enough flour and butter in your dough. You can also add a little bit of sugar, which can help the crust stay in place better.
+Another trick to avoid shrinkage is to put the pie in the freezer for about 20 minutes before you bake it. This will help the crust stay in place, and will make sure that the butter doesn’t melt before you put the pie in the oven.
 
-Egg - An egg custard pie is an American baked dessert that is made with a flaky pastry crust, a creamy filling made with eggs, milk, and sugar, and a light dusting of nutmeg on top.
+## Tips for making the best savory pie crust
 
-## The Secret to a Good Pie Crust
+When baking savory pies, you can use almost any type of crust. It can be made from almost any type of flour (like rye or spelt), and most people like to add some sort of fat, like butter or shortening. Some recipes also call for a pinch of salt or a dash of olive oil.
+Some people like to add a little bit of water to their dough so that it can be easily rolled out. If you add too much water, however, your crust will be too soft and be difficult to work with.
 
-While the perfect pie crust is delicious in its own right, its primary function is to hold the filling in the crust and prevent it from burning. From a flavor perspective, the ingredients in the crust are usually subtle enough to allow the filling to stand out. That being said, there are a few tips and tricks to making the perfect pie crust every time.
+## Recipes for delicious sweet fillings
 
-- Use plenty of butter or shortening - The fat in the butter or shortening helps the crust hold together and taste delicious.
-- Use a flaky pastry flour - This contains a higher proportion of bran which creates the flaky texture you want in a pie crust.
-- Use ice water to bring the pastry together - Adding ice water to the pastry will help bring the crust together without making it tough.
-- Use a pastry blender or your hands to cut in the fat - This creates an even texture in the crust that will be flaky and delicious.
-- Roll the dough out from the centre - This will help the crust spread evenly in the baking dish.
-- Don’t overbake the crust - The crust should be a light golden brown, not dark brown or burnt.
-- Let the baked crust cool before filling - Filled crusts that are too warm will be gooey and messy.
+When it comes to sweet fillings, the only limit is your imagination. You can use almost any type of fruit, add some chocolate, or even try some savory combinations.
+Here are a few of our favorite ideas:
 
-## Key Ingredients for a Great Crust
+- Apple and blackberry: Apples and blackberries are a classic pairing, and in this recipe, you just need to add some cinnamon for a perfect combination of sweet and savory flavors.
+- Pecan and caramel: This is another classic flavor combo, and it’s perfect for anybody who loves a caramel apple.
+- Rhubarb: Rhubarb is something that very few people have ever tried, but it is a delicious, tart flavor that works great in a pie.
+- Nutella: Chocolate and hazelnut are a classic pairing, and this recipe is simple enough that even a beginner can make it.
+- Mascarpone: This rich and creamy Italian cheese makes for a perfect creamy filling for any pie.
 
-While there are some tricks to the best pie crust, the actual ingredients are pretty basic. Here are the ingredients you need to make a great pie crust every time.
-- Flour: Flour provides the base of your crust, so you want to make sure to use a high-quality brand. Whole wheat pastry flour is a good choice if you want a heartier crust, while all-purpose flour is perfect for a classic crust.
-- Fat: Fat is what makes a pie crust flaky and delicious. You can choose between butter and shortening, though shortening is cheaper and works just as well.
-- Salt: Salt brings out the flavour in the other ingredients, making them taste even better.
-- Water: You can use ice water or hot water to bring the dough together.
-- Sugar: Some people like to use granulated sugar for the crust, but it can make it a bit tough.
-- Vinegar: You can add a splash of vinegar to the dough to help it bind together. This is especially helpful if you are using whole wheat flour.
+## Recipe ideas for delicious savory fillings
 
-## How to Make the Perfect Pie Crust by Hand
+These savory fillings are made with a crust, but they are not sweet. You can experiment with any combination of these ingredients to make your own unique savory pie.
 
-If you don’t have a food processor or stand mixer, don’t worry! You can still make a flaky and delicious pie crust by hand. Here are the steps to follow.
-- Combine the flour, salt, and sugar in a large bowl.
-- Sprinkle the ice water over the flour mixture, 1 tablespoon at a time, until the dough comes together.
-- Sprinkle the vinegar over the dough and knead it in until it forms a soft, smooth ball.
-- Place the dough in a large, clean bowl. Cover it with a towel and let it rest in a warm place for an hour to let the starch in the flour expand and make the crust extra flaky.
-- Roll the dough out to fit the baking dish.
-- Place the crust in the pie dish and fill with the filling.
-- Bake the pie at 350 degrees for 1 hour.
+- Quiche: A quiche is basically a savory custard, and it is great for breakfast or brunch. You can put almost anything in a quiche, and it will taste great.
+- Potato and leek: This is a great winter pie that is surprisingly easy to make. It also happens to be very rich and hearty.
+- Corn and chorizo: This is a Mexican twist on a classic holiday pie. It’s easy to make and can be eaten warm or cold.
+- Vegetable and cheese: Vegetables like broccoli, zucchini, and carrots make great fillings for savory pies. You can add Parmesan or another type of cheese to make it even better.
 
-## How to Make a Perfect Pie Crust with a Food Processor
+## Ideas for tasty toppings
 
-Any kitchen can benefit from the fast and efficient work of a food processor. Here are the steps to follow.
-- Pulse the flour, salt, and sugar in the food processor until combined.
-- Sprinkle the fat over the flour mixture and pulse until the mixture resembles a coarse meal.
-- Sprinkle the ice water over the flour and pulse until the dough comes together.
-- Wrap the dough ball in plastic wrap and let it rest in the fridge for 1 hour.
-- Roll the dough out to fit the baking dish and fill with the filling.
-- Bake the pie at 350 degrees for 1 hour.
+There are tons of ways to top a pie, but when you’re making your own crust, there are only a few ways to do it effectively.
+You can use just about any type of fruit for a topping. Apples and pears are a classic choice, but you can also try peaches, plums, or even strawberries. If you’re feeling adventurous, you can top your pie with a handful of nuts or even some chocolate chips.
 
-## Variations on the Classic Pie Recipe
-
-The classic pie recipe can be used to make almost any type of pie. However, the ingredients and proportions will vary based on the flavour of the filling. Here are a few examples of classic pies and their variations.
-
-Apple pie - Apple pies can be made with a variety of different types of apples. Apples that have a higher sugar content, like Golden Delicious, are best for baking. Try experimenting with different apple varieties and adding spices like cardamom, cinnamon, or clove to give the pie a unique flavour.
-
-Banana cream pie - Banana cream pies are made with a banana filling, a crumbly pastry crust, and a generous layer of whipped cream on top. You can also try adding chocolate chips to the banana filling for a chocolate and banana combination.
-
-Custard pie - Custard pies are made with a combination of egg yolks, whole eggs, and milk. You can experiment with different flavour combinations, like vanilla and caramel, or add spices like cinnamon and nutmeg to give the pie filling a unique flavour.
-
-## Conclusion
-
-Pies are a classic dessert that can be made with a variety of different fruits and flavour combinations. The secret to a great pie crust is to start with a good recipe, use plenty of fat, and let the dough rest. You can make a pie crust by hand, in a food processor, or with a stand mixer. With these tips, you’ll be able to make an delicious pie every holiday.
+You can also make a simple glaze for your pie, or you can add some whipped cream for a creamier topping, or even ice cream for something even more indulgent. Whichever way you go, you’re sure to make your homemade pie look and taste great.

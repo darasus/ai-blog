@@ -1,48 +1,40 @@
 ---
 title: Sourdough starter - how to make your own
 createdAt: 2022-07-07T06:05:40.075Z
-updatedAt: 2022-07-16T14:02:25.948Z
+updatedAt: 2022-07-17T06:00:56.633Z
 category: cooking
 ---
 
-## What is SEO?
+## What you’ll need
 
-Search engine optimization (SEO) is the process of improving your website’s ranking so it appears higher in organic search engine results. SEO is made up of four factors: technical SEO, content SEO, backlinks, and social media. Technical SEO refers to making sure your website is optimized for search engines. For example, you may want to include your keyword in your page title, add alt text to images, and use your preferred font.
+For those of you who want to get started straight away, we recommend buying a starter kit that includes everything you’ll need to create your own healthy sourdough starter. Starter kits come with a glass jar and rubber seal, a measuring spoon and a fermentation guide to walk you through the process of creating a healthy and active sourdough starter. The starter kits are really easy to use, and make creating your very own sourdough starter a breeze. If you’d prefer to make your starter from scratch, you’ll need to purchase some sourdough starter powder or a live sourdough culture.
 
-Content SEO includes creating and publishing high-quality content on your website such as blog posts and articles. To rank higher in search engines, these pieces of content should be optimized for certain keywords and be between 80-500 words in length. Backlinks are hyperlinks that take people from one website to another. Some examples of backlinks include: linking to other websites, creating a blog, or writing a press release. Finally, social media can help you grow your brand and gain new followers. It’s important to note that not all social media platforms are created equal. For example, images and videos rank higher than just copy on Facebook.
+You can buy sourdough starter powders from baking supply stores and online. They will come with instructions on how to use them to make your starter. Alternatively, you can purchase a live sourdough culture online, which is a pea-sized piece of a mother sourdough starter. The mother will come in its own jar with a little bit of flour and water, ready for you to feed and grow.
 
-## Why is SEO important for businesses?
+## How to make sourdough starter
 
-First, we should understand the benefits of SEO, and why it’s essential for businesses to have a strong online presence. SEO brings in more leads and sales. This means that people will find your website through search engines, which will result in them clicking on your website and purchasing your products or services. More traffic to your website. As mentioned before, people will find your website through search engines.
-For example, if you have a bakery and you want to sell sourdough bread, you can create a blog post about sourdough starter. You can use keywords such as “sourdough starter” or “sourdough recipe.” This way, people will find your website through Google and click on the article to read it. This will result in more traffic to your website.
+The process for making sourdough starter is very similar to the method for creating a yeast-based starter. You’ll need a large jar – we recommend a 2-litre glass jar, and a wooden spoon or potato masher. You can use any type of jar, but try to make sure it’s large enough so that the starter doesn’t spill over as it expands. Make sure it is clean and dry, and that you sterilise it before you make your starter (see below for instructions).
+First, add half a cup of organic wholemeal flour and half a cup of water to your jar. Mix the contents of the jar together completely. Then, cover the jar with a tea towel and leave it somewhere warm – but not too hot – for 24 hours.
+Next, add another half a cup of flour and half a cup of water to your starter, replacing the tea towel and leaving it in the same warm spot.
+Repeat this process every day until the starter has doubled in size and it is bubbling away (this will take around 5 days).
+You can now use your starter to make sourdough bread, or keep feeding it and growing it until it is ready to be used as a mother starter.
 
-## Start with a plan
+## Store your sourdough starter
 
-Before diving into the nitty-gritty of SEO, you need to make sure that you have a solid plan in place. First, decide on your website’s purpose. What do you want people to take away from your site? Do you want your site to be informational? Or, do you want to drive people to a sales process?
-Once you’ve decided on your site’s purpose, make sure that you’re speaking to the right audience. If your goal is to create an informational website, try to avoid using jargon or words that are too technical. The best way to do this is by conducting some research on who your target audience is. You can also try surveying your friends and family to see what words they use when searching for information.
+The easiest way to store your sourdough starter is in the jar you made it in. If you don’t have the space for a 2-litre jar, you can transfer it to a smaller jar. Once it is fully mature, cover it with a tea towel, seal the jar with a lid or put it in a plastic bag, and store it on the fridge. Sourdough starter can be kept up to a few months, as long as it is fed regularly and kept out of direct sunlight.
 
-## Producing high-quality content
+If you have too much starter to fit in one jar, you can pour it into smaller mason jars, seal them and keep them in the fridge. When you want to use your starter again, take it out of the fridge and leave it on the counter for a few hours so it is nice and warm when you use it.
 
-Next, we’ll discuss how to create high-quality content for your website. First, you have to understand what makes a piece of content high-quality. This content must have a clear message, be engaging, and be easy to read.
-For example, if you own a bakery, creating a recipe article is a great way to create high-quality content. You can also create an article about the health benefits of eating sourdough bread.
+## How to use your sourdough starter
 
-Remember, you want to create content that is useful and relatable. Once you’ve determined what type of content you’d like to create, write down three topics that you would like to cover. Next, choose one topic and write a short paragraph about it. Try to use your keyword at least once per paragraph. This will help you keep track of your keyword so that you don’t overuse it.
+If you have been feeding your starter and growing it until it is ready to be used as a mother starter, you’re now ready to use it to make sourdough bread. If you have a ready-made starter, skip to the next section.
 
-## Keyword research
+To use a ready-made starter, you will need to ‘feed’ it regularly so that it remains active and healthy. If you have a live starter, keep feeding it with fresh flour and water as you did when you created it. Transfer a small amount of starter from the jar into a bowl and replace the jar with fresh flour and water. Feed the jar with starter every day until it has doubled in size again.
 
-Next, we will discuss keyword research. This is an essential part of creating high-quality content for your website. Keyword research is when you find the terms people are searching for online, and then create content around those terms.
-Some ways you can find these keywords are by using tools such as Google’s Keyword Planner or a keyword research tool such as Keyworddit.
+## Tips for making and storing a sourdough starter
 
-You can also use Google Trends to find out what people are currently searching for. The best time to do research is in the beginning stages of your website. This way, you have time to create content around your findings.
+- Make sure your starter has the correct level of acidity – You can test the pH level of your starter using a pH strip. Sourdough should be between a pH level of 4.6 and 5.6. If your starter is too acidic, you can add more flour to balance it out. If it is too alkaline, you’ll need to add more water.
+- Make sure your starter gets enough food and water – Feed your starter twice a day to keep it growing and healthy, and store it in a warm place.
+- Use the best quality ingredients you can – Sourdough starter is alive and active, so it needs the best possible food to grow. Use organic, wholemeal flour and filtered water when feeding your starter.
 
-## Imported Content and Authored Content
-
-Next, we will discuss imported content and authored content. Imported content is when you take an article or content from another website and repost it on your own website. This is a quick way to create content, but it’s not recommended because search engines don’t like it. They will see that you copied the content and may penalize your website.
-
-Authored Content is when you create unique content just for your website. This means that you are not copying any content from other websites and you are citing your sources. For example, if you are writing a recipe article, you should use your own ingredients and your own instructions for making the recipe.
-
-## Conclusion
-
-The digital world is constantly evolving, and the way that people find information online is changing too. If you want to keep up with this fast-paced world, you need to be continuously improving and growing your online presence.
-At their core, search engines are machines that are designed to make finding information easier. They are also designed to help you find the best content and resources out there. By optimizing your website, you can make sure that your content is seen by as many people as possible.
-For your business, achieving top search engine ranking is important because it will bring more customers and sales. By following these SEO tips, you can ensure that you are creating high-quality content that will rank at the top of search engine results.
+## FAQ

@@ -1,16 +1,30 @@
 ---
 title: Slow cooker suppers for chilly evenings
 createdAt: 2022-07-09T06:43:15.699Z
-updatedAt: 2022-07-09T06:43:15.699Z
+updatedAt: 2022-07-17T06:21:54.345Z
 category: cooking
 ---
 
-When the weather outside is frightful, there's nothing more comforting than a warm, hearty meal. And what could be easier than throwing everything into a slow cooker and letting it do its thing? Here are some of our favorite slow cooker suppers to get you through the winter.
+## What should you put in your slow cooker?
 
-Chili is always a good choice when it's cold outside. This Slow Cooker Turkey Chili is packed with flavor and perfect for a weeknight meal. Serve it with some cornbread or tortilla chips and you're good to go.
+The beauty of slow cookers is that you can put almost anything in it and it will be delicious at the end of the day. However, there are certain ingredients that work particularly well in a slow cooker, and it’s worth experimenting with these to find the best flavours for your taste buds.
 
-If you're looking for something a little lighter, this Slow Cooker Chicken and Rice Soup is just the ticket. It's packed with healthy ingredients and comes together quickly in the slow cooker.
+- Red meat - This is best cooked on low in the slow cooker, so it’s perfect for long, slow cooking to make tender and juicy meat dishes like stews and casseroles.
+- Poultry - Chicken and turkey also work well in the slow cooker, cooked on high to make dishes like curries, soups, and casseroles.
+- Beans and pulses - These are perfect for the slow cooker because they can sit in liquid for hours without becoming mushy or breaking down.
+- Vegetables and grains - Vegetable-based stews, puddings, and casseroles work well in the slow cooker, as do delicate grains like rice, barley, and quinoa.
 
-For a hearty beef dish, try this Slow Cooker Beef Stew. It's loaded with vegetables and chunks of tender beef, and it's the perfect thing to warm you up on a cold night.
+## The 10 best slow cooker suppers
 
-And finally, no winter meal would be complete without some sort of comfort food. This Slow Cooker Mac and Cheese is creamy, cheesy, and totally delicious. Serve it with a side of green beans or a salad for a complete meal.
+These slow cooker suppers are sure to keep your family warm and cosy on cold winter nights.
+
+- Chicken and rice dinner - This recipe is ultra-simple. Add chicken thighs and rice to your slow cooker with a bit of stock and seasoning. Leave for 6 hours on low, then remove the chicken and shred it with two forks. Stir the chicken back into the rice to make a chicken and rice casserole.
+- Beef and bean chili - This is a great recipe to make in larger batches and store in the freezer to use during the week. Simply cook the ingredients in a large pot before transferring to the slow cooker and cooking on low for 6–8 hours.
+- Healthy vegetarian chili - If you’re vegetarian, you can make chili in the slow cooker using black beans, sweet potatoes, and a delicious blend of spices.
+- Creamy chicken and vegetables - This recipe is a good one for introducing new vegetables to kids. Simply mix them into a creamy sauce with chicken thighs and leave in the slow cooker.
+- Beef stew with soft potatoes - Beef stew is the perfect fall recipe. Simply toss the ingredients into the slow cooker and let the flavors blend while you enjoy a long autumn walk.
+- Spicy pork with sweet potatoes - Pork and sweet potatoes are a classic pairing. Simply mix the ingredients into a spicy sauce and leave in the slow cooker to make a delicious and filling winter meal.
+- Salmon with ginger and green beans - If you’re looking for a lighter option, salmon and green beans are a classic slow cooker meal. Simply mix everything together in the slow cooker with a little ginger.
+- Conclusion
+
+These slow cooker suppers are sure to keep your family warm and cosy on cold winter nights. There’s something for everyone – from spicy chili to hearty stews and even salmon and beans for lighter meals. And the best part is that you can make them all with minimal effort and in just a few short hours.

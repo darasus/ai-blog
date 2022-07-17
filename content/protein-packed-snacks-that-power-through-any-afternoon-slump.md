@@ -1,20 +1,36 @@
 ---
 title: Protein packed snacks that Power through any afternoon slump
 createdAt: 2022-07-09T06:42:47.864Z
-updatedAt: 2022-07-09T06:42:47.864Z
+updatedAt: 2022-07-17T06:21:17.272Z
 category: cooking
 ---
 
-When it comes to snacks that will help power through an afternoon slump, there are few options better than those that are packed with protein. Not only will protein help to keep you feeling fuller for longer, but it will also give your body the energy it needs to make it through the rest of the day.
+## What is an afternoon slump and why do we get them?
 
-Some great protein-packed snacks that are perfect for an afternoon pick-me-up include:
+Melatonin is a hormone that helps regulate sleep. It is naturally produced in our brains when it gets dark outside, signaling for us to start winding down for the day. This hormone is also what causes us to feel tired and sleepy. During the day, melatonin is produced in the pineal gland in our brains. The pineal gland is responsible for regulating sleeping patterns and other hormones, including serotonin.
 
-1. Greek yogurt with berries and granola: This snack is packed with protein from the yogurt, as well as healthy carbohydrates from the berries and granola. The combination will give you sustained energy and help to keep your hunger at bay.
+We typically have high levels of serotonin throughout the day as it is responsible for regulating mood and appetite. As the sun starts to set, serotonin levels drop and melatonin begins to rise. This is what causes us to feel sleepy and crave foods high in carbohydrates, namely sugary or starchy foods.
 
-2. Peanut butter and jelly sandwich: A classic for a reason, this sandwich provides both protein and carbohydrates, making it a perfect snack for an afternoon slump. Just be sure to choose a whole grain bread and use natural peanut butter to keep it healthy.
+When it is dark outside and the sun isn’t providing us with the energy we need to stay active, serotonin levels are low, causing many of us to feel sluggish. If you find yourself craving sweets throughout the day or feeling lethargic, serotonin levels may be to blame. The best way to combat an afternoon slump is to eat foods that are high in tryptophan and protein.
 
-3. Trail mix: This snack is perfect for when you’re on the go and need something to tide you over until your next meal. Make your own mix with a variety of nuts, seeds, and dried fruit for a snack that’s both delicious and nutritious.
+## The importance of protein
 
-4. Hard-boiled eggs: A great source of protein, hard-boiled eggs make for a quick and easy snack that will help keep you feeling full until dinner. Add a little salt and pepper for extra flavor, or pair them with a piece of fruit for a complete snack.
+Eating high-protein snacks can help to regulate serotonin levels, keeping your mood up and curbing cravings for starchy or sugary foods. The more protein you consume, the fuller you will feel, reducing the urge to snack on foods that are high in sugar.
 
-5. Vegetables and dip: This may seem like a strange choice for a snack, but vegetables are actually a great source of protein. Pair them with a healthy dip like hummus or guacamole for a satisfying and nutritious snack that will help power through an afternoon slump.
+Not only does protein help to regulate serotonin, but it also boosts energy levels naturally. Proteins are the building blocks of muscles and many of our body’s internal organs. Eating protein-rich foods has many health benefits, including reducing the risk of heart disease and regulating metabolism.
+
+Boosting your protein intake is crucial if you are looking to lose weight, maintain a healthy weight or build muscle. While carbohydrates provide us with energy, they don’t offer much when it comes to keeping us full. Protein, on the other hand, takes longer to digest, keeping you feeling full for longer and helping to regulate serotonin levels.
+
+## 6 delicious snacks with lots of protein
+
+Hard-boiled eggs - One of the tastiest and most convenient ways to get more protein in your diet is to start eating more hard-boiled eggs. Hard-boiled eggs are a great source of protein, with one egg containing 6 grams of protein. This is more than enough to curb your cravings and prevent an afternoon slump.
+
+Hummus and veggie wrap - Vegetables and hummus are a delicious combination that are high in protein. One serving of vegetables, such as tomatoes, peppers, or lettuce, contains about 2 grams of protein. Combine these with 2 tablespoons of hummus for a delicious snack that is high in protein.
+
+Greek yogurt with berries - A classic snack that is excellent for regulating your mood and keeping you full is a bowl of Greek yogurt with berries. A single serving of Greek yogurt contains 8 grams of protein. Combine that with a few tablespoons of berries, which have 2 grams of protein per serving, and you have a delicious, high-protein snack.
+
+Nuts or trail mix - Nuts and trail mix are a great snack to have on hand during the day. They are full of protein and incredibly nutritious. Cashews, peanuts, and almonds all have 6 grams of protein per serving. Mix them with a few handfuls of raisins or dried cranberries for a sweet and satisfying afternoon snack.
+
+Conclusion - Snacking throughout the day is not only ideal for regulating your blood sugar, but it can also help keep you from overeating at meal times. By choosing snacks that are high in protein, you can prevent afternoon slumps and keep your mood up throughout the day.
+
+By choosing snacks that are high in protein, you can prevent afternoon slumps and keep your mood up throughout the day. Snacking throughout the day is ideal for regulating blood sugar and can also help you from overeating at meal times.
