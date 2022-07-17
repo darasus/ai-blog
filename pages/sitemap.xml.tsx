@@ -6,7 +6,7 @@ import { postFilePaths } from "../utils/mdxUtils";
 const Sitemap = () => {};
 
 export const getServerSideProps: GetServerSideProps = async ({ res }) => {
-  const BASE_URL = "https://theaipaper.com";
+  const BASE_URL = "https://www.theaipaper.com";
   const posts: TPost[] = [];
   const paths: { url: string; updatedAt: string }[] = [];
 
