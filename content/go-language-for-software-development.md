@@ -1,30 +1,47 @@
 ---
 title: Go language for software development
 createdAt: 2022-07-09T06:29:36.108Z
-updatedAt: 2022-07-09T06:29:36.108Z
+updatedAt: 2022-07-17T07:17:53.122Z
 category: coding
 ---
 
-Go is a programming language created at Google. It is a statically typed, compiled language with syntax loosely based on that of C, adding garbage collection, type safety, some dynamic-typing capabilities, additional built-in types such as variable-length arrays and key-value maps, and a large standard library.
+## Why Go?
 
-The language was announced in November 2009, and version 1.0 was released in March 2012. Version 1.13 added support for WebAssembly. Go is widely used in production at Google and in many other organizations and open-source projects.
+As we mentioned, programming languages are designed to facilitate software development. If a language is designed well, it should be easy to write correct code that is efficient and can be used to solve a variety of problems. A good programming language should also be easy to learn and understand.
+Here are some key characteristics of the Go programming language that make it an excellent choice for software development.
 
-The Go programming language was designed to be an efficient, concurrent, and safe language for systems programming. It is strongly typed and garbage-collected with an emphasis on simplicity and readability.
+- Simplicity - Go is designed to be simple and easy to learn. Its syntax is meant to be expressive enough to write complex algorithms and work with complex data structures but at the same time easy enough for a beginner to grasp the core concepts behind the language. This simplicity makes it an excellent choice for beginners and for companies that want to employ a team of programmers with varying levels of experience.
 
-The Go programming language was created by Robert Griesemer, Rob Pike, and Ken Thompson at Google in 2007. It was inspired by the programming language Limbo, which was designed by Pike while working on the Plan 9 operating system at Bell Labs.
+- Performance - Go is a compiled language that is statically typed. It also uses a technique called escape analysis to make sure that memory is managed efficiently. This makes it generally perform faster than a language like Python, which is interpreted, dynamically typed, and uses a reference counting system to manage memory.
 
-The name "Go" was chosen because of its similarity to the word "golf", which is a sport that the creators of the language enjoy. The logo for the language is a lowercase "g" inside of a circle.
+## Why not Go?
 
-The Go programming language is an open source project with an active community. The language is managed by a team at Google and the core team members are all employed by Google. The team members are:
+Now that we have established the many benefits of the Go programming language, it is also important to highlight its limitations and some aspects that might make it less desirable for certain types of projects.
 
-Rob Pike (robpike@google.com)
+- The Go Language doesn’t support functional programming. This means that some modern paradigms like lazy evaluation, error handling by retrying or a combination of both, and the creation of hierarchical data structures, which come with languages like Haskell, are not possible with Go.
 
-Robert Griesemer (gri@google.com)
+- The absence of generics in Go makes it difficult to write efficient code that works with a variety of data types. This is especially true when dealing with collections like maps and arrays that are optimized for specific types like string, int, etc. Languages like Java and C++ have worked around this limitation by implementing frameworks like Guava and a standard template library. However, there is no such framework or library with Go.
 
-Ian Lance Taylor (iant@google.com)
+## What’s next?
 
-Russ Cox (rsc@google.com)
+As we have seen, the Go programming language is a great solution for many software development problems. However, it is incomplete as a programming language without libraries, packages, and frameworks that can be used to extend its functionality.
 
-The Go programming language is available under the BSD license. The source code for the Go programming language is available at https://golang.org/. The Go programming language is also available for many different platforms, including Linux, macOS, Windows, and more.
+- Libraries - A library is a collection of prewritten code that can be used to solve specific problems. The advantage of using libraries with Go is that you can use code that has been written and tested by other developers and can be up and running with minimal effort. This makes libraries the perfect way to extend the functionality of the Go language with new standard functions and data structures, or add support for third-party services that don’t come with the language itself.
 
-The Go programming language has been used in production at Google since 2008 and has been used in many other organizations since then. The Go programming language has also been used to build many open source projects, including Docker, Kubernetes, and Terraform.
+- Packages - A package is a collection of related Go source code. This code can consist of a single source file or a group of files that are related to each other and that have been put together in a folder with a special name. Packages are the best way to organize and share reusable Go code with your team or with the larger programming community.
+
+## Go Language Basics
+
+Here are some of the core concepts behind the Go language that you should be familiar with if you plan on developing software with it.
+
+- Go is statically typed. This means that the language has a set of rules that defines what each variable is used for, what type it is, and what operation can be performed on it. This makes it easy to detect mistakes early in the development process when the compiler detects an error, like an attempt to add two numbers of different types.
+
+- Go has a couple of built-in types, like maps, slices, and channels, that are used for basic data structure operations. These can be extended to create custom types that can be used as parameters for functions, declarations for variables, etc.
+
+## Conclusion
+
+The Go programming language is the result of a collaboration between Google and a large team of open-source contributors. It was designed as an alternative to languages like C and C++ that have been around for a long time.
+This modern language is simple and easy to learn, but at the same time it is powerful enough to build complex, scalable software that can be used to solve a variety of business problems.
+
+For a business, choosing the right programming language is an important decision that will impact the way their software is built for years to come. 
+We hope that this article has helped you understand why Go is a modern programming language that is meant to be fast, efficient, and scalable. We also hope that you have gained an understanding of some of the key concepts behind the language and why it is a great choice for many businesses and software development projects

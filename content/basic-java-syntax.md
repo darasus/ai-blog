@@ -1,32 +1,40 @@
 ---
 title: Basic Java syntax
 createdAt: 2022-07-09T06:22:29.098Z
-updatedAt: 2022-07-09T06:22:29.098Z
+updatedAt: 2022-07-17T06:55:19.486Z
 category: coding
 ---
 
-In Java, a class is a template for creating objects. A class is like a blueprint for an object, and you can create a new object by using the class as a model. Every object has its own characteristics, which are called attributes. An object also has its own behavior, which is defined by the methods in the class. 
+## What is Java?
 
-When you create a new object, you are creating an instance of a class. The process of creating an object is called instantiation. You can create as many objects from a class as you want. Each object you create is called an instance of that class. 
+Java is a computer programming language. However, while that definition feels very general, it doesn’t really explain what Java is or why it is so important. At its core, Java is a programming language that can run on multiple devices and operating systems. This includes computers, smartphones, and web servers. Java is a language that is used to create apps, websites, software, and programs. It’s one of the most widely used languages in the world. In fact, it’s estimated that over 9 million programmers are using Java right now! That’s why it’s such a popular choice for beginners who are just getting started with coding. It’s a highly adaptable language that can be used in a variety of contexts.
 
-A class can contain any number of methods. A method is like a function, it has a name, and it has a body. The body of a method is the code that defines the behavior of the method. 
+## Java Vocabulary Basics
 
-You can use methods to get information about an object, or to change the state of an object. For example, you can use a method to calculate the area of a circle, or to set the color of a car. 
+Before we get into the specifics of how to write code in Java, let’s take a look at some of the most important vocabulary words. This will help you understand the basics of the language, and get you ready to move onto the next sections. If you’re already familiar with the basics of Java, you can skip ahead to the next section.
 
-Every class has a special method called a constructor. A constructor is used to create objects from a class. A constructor is like a method, but it does not have a return type. 
+- Programmer - A programmer is a person who writes code. They use programming languages to instruct computers to perform certain tasks. A programmer is also known as a coder. - Programming language - A programming language is a set of symbols and rules that programmers use to write instructions. These instructions tell computers what to do. There are thousands of different programming languages. Java is one of the most popular choices for beginners to learn. - Syntax - Syntax refers to the rules that dictate how a specific programming language should be written. It’s important to understand the syntax for any programming language you want to write in. This ensures that your code is written in the right way. - Byte- The smallest unit of data in a computer is called a byte. It’s often compared to the size of a letter in an alphabet. A letter in an alphabet can be any one of 26 letters, while a byte can be any one of 256 different combinations.
 
-When you create an object, you must specify the values for the attributes of the object. These values are called arguments. You can specify the values for the attributes when you create the object, or you can set the values for the attributes after you have created the object. 
+## Keywords
 
-Java is a powerful programming language that enables you to create complex applications. The Java syntax is similar to C++, but there are some important differences. 
+Keywords are special words in a programming language that have specific meanings, and can’t be used as normal words in your code. This is because they have specific functions that they need to perform. In Java, there are seven categories of keywords: data type, method, variable, exception, loop, try/catch/finally, and class. These are words that can’t be used as normal words in your code. Instead, you need to use their specific symbols. This is so that the computer will know what you are trying to do. It’s also a way to ensure that your code is consistent. If you use the keywords correctly, your code will be consistent with other Java programs.
 
-In Java, all code must be contained in classes. A class is like a template for creating objects. You can create as many objects from a class as you want. Each object you create is called an instance of that class. 
+## Variables and data types
 
-In C++, you can declare variables and functions outside of classes. In Java, all variables and functions must be declared inside a class. 
+A variable is a piece of data that is stored in your computer’s memory. It can be changed, depending on the situation. A variable can be a single piece of information, such as an employee’s name, or multiple pieces of information, such as an employee’s name, salary, and job title. Java uses variables to represent different types of information. The type of data that variables can be assigned is called a data type. The most common data types in Java include the following: - String – A string is a collection of characters. - Integer – An integer is a whole number without a decimal place. - Boolean – A boolean is either true or false. - Float – A float is a number with a decimal place. - Double – A double is a number with a decimal place. - Array – An array is a collection of data. - Long – A long is a big number.
 
-Java does not support multiple inheritance. This means that you can only inherit from one superclass. In C++, you can inherit from multiple superclasses. 
+## Conditional Statements
 
-Java does not support operator overloading. This means that you cannot define how operators work with your own data types. In C++, you can overload operators so that they work with your own data types. 
+A conditional statement is a type of code that tells a computer to do something based on a condition. Conditional statements are a fundamental part of programming. In Java, conditional statements are written with if, else, while, and switch keywords. The if keyword is used to write a conditional statement that has a single outcome. The else keyword is used to write a conditional statement that has two outcomes. The while keyword is used to write a conditional statement that is repeated. The switch keyword is used to write a conditional statement with multiple outcomes. Let’s break these down so you can understand how they work.
 
-Java does not support pointers. Pointers are variables that hold the address of another variable. In C++, pointers are used to access memory directly. Java uses references to access objects indirectly. 
+- The if keyword is used to write a conditional statement that has a single outcome. For example, if you want to run a piece of code if a specific condition is met, you write that condition in an if statement. If the condition is met, then the code will run. If the condition isn’t met, the code won’t run. - The else keyword is used to write a conditional statement that has two outcomes. If you want to write code that runs if a condition is met and code that runs if the condition isn’t met, you need to use an if statement and an else statement. - The while keyword is used to write a conditional statement that is repeated. If you want a piece of code to run multiple times, you write the code inside a while statement. While statements are useful for tasks that need to be repeated until a certain condition is met.
 
-The Java syntax is based on the C++ syntax. However, there are some important differences between the two languages. If you are familiar with C++, then you will find it easy to learn Java.
+## Loops
+
+Loops are a type of conditional statement that allows you to write code that repeats. This can be very useful when you want to run multiple tasks at once. In Java, loops are written with the for, do while, and while keywords. Let’s break down the different types of loops so you can understand how they work.
+
+- The for keyword is used to write a loop that repeats a set number of times. - The do while keyword is used to write a loop that repeats until a certain condition is met. - The while keyword is used to write a loop that repeats while a certain condition is met.
+
+## Conclusion
+
+When it comes to learning how to write code, understanding syntax is the most important first step. Without a basic understanding of how the language works and what you need to do to write code, you’ll get stuck very quickly. Once you have a basic understanding of the syntax, you can move on to more complex parts of coding. From there, it’s just a matter of practice and repetition until you start to feel more comfortable with the process of writing code. There’s a lot to keep track of and remember when learning to code. However, if you break it down into smaller parts, it’s easier to understand and remember what you need to do.

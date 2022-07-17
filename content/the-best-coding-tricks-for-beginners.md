@@ -1,12 +1,51 @@
 ---
 title: The best coding tricks for beginners
 createdAt: 2022-07-07T06:12:43.270Z
-updatedAt: 2022-07-07T16:41:49.859Z
+updatedAt: 2022-07-17T06:32:07.844Z
 category: coding
 ---
 
-Coding can seem like a daunting task for beginners, but there are a few tricks that can make the process a lot easier. One of the best coding tricks for beginners is to start with a simple task and then build up from there. Once you have a basic understanding of how coding works, you can then start to add more complex features to your code.
+## Read and understand the basics before you dive in.
 
-Another great coding trick for beginners is to use comments to help explain what your code does. This can be extremely helpful when you are trying to debug your code or when you are sharing your code with others. By adding comments, you can make it easier for others to understand what you are trying to accomplish with your code.
+Before you even touch a keyboard, you need to make sure you understand the basics of coding. What is a variable? How do you use comments? What’s a Boolean? You’ll also need to understand the principles of logic gates and Boolean logic gates if you want to understand how computers work.
+The good news is that you don’t need to know everything about coding before you even begin. You can start with a simple application like a calculator that asks you to type in mathematical equations like 2+3 to find out the answer of 5.
+You can also start with a program that allows you to create simple animations and graphics. These types of programs are excellent for beginners as they don’t require any knowledge of complex coding languages. Once you feel more confident and comfortable with the basics, you can move on to more heavy duty applications that require more advanced coding skills.
 
-Finally, one of the best coding tricks for beginners is to use online resources to help you learn. There are a number of great websites that offer tutorials and other resources that can help you learn the basics of coding. By using these resources, you can learn at your own pace and get a better understanding of how coding works.
+## Use a code debugger to fix errors.
+
+Every programmer makes mistakes, and if you’re just getting started you’re bound to make a few. But don’t worry, it’s completely normal. 
+The best way to find and fix errors in your code is to use a debugger. A debugger is a program that helps you work out where an error has occurred by allowing you to “pause” and “rewind” your code so you can see what it’s doing and where it’s going wrong.
+You should be able to find debuggers for any programming language you’re using online. If you’re having difficulties, it’s a great idea to ask other coders on online forums for advice. They’ll likely be happy to help.
+
+## Don’t be afraid to use comments when necessary.
+
+Humans are much better at reading plain English, than trying to decipher someone’s code. This is the reason why you should always comment your code. Commenting your code makes it much more readable and easy to follow, even for other coders.
+You should always comment the purpose of your code and what it does, as well as why you’ve done it a certain way. This shows that you’ve thought about your code and what it does, and will make it much easier for other people to use your code and update it at a later date.
+You should also comment if you’re using a complex piece of code to save yourself from having to re-write it in the future if you need to, or if you’re sharing your code with other people.
+
+## Try utilising conditionals when making decisions.
+
+This is a commonly used programming technique that allows you to make decisions based on certain values. 
+For example, if you’re making a game, you might want to use a conditional to check if the player has three lives left so they get the option to continue playing the game.
+If you’re building a website, you might want to use a conditional to see if a visitor is using an Apple device or a PC device so that you know which button to show them.
+Conditionals should be used in pretty much every application you create, as they are an extremely efficient and useful way of programming.
+Make sure you understand the difference between if-then statements and switch statements. If-then statements essentially check one variable and switch statements check for multiple variables.
+
+## Use for-loops when working with arrays or collections.
+
+An array is essentially a list of values that you store under one variable name. For example, you could have an array that stores your favorite colours. You could have an array with the colours red, blue and green under the variable name “Colours.”
+You can then access and manipulate these values as if they were stored under different variables, which they effectively are.
+You should use for-loops when you’re working with arrays or collections because they are much easier and more efficient than if-then-else statements.
+For example, if you’re trying to find out the highest number in a collection of numbers by adding them up, with a for-loop you can simply type in the name of the array plus the word “max.”
+
+## Be careful when using switch cases.
+
+Switch cases are perhaps one of the most commonly used programming techniques. You can use them to compare values or perform actions based on a value.
+For example, if you’re building a game and want to figure out how many points a player has, you can use a switch case to compare the number of points they have against a set number to find out how many points the player has.
+
+Switch cases are extremely useful and are one of the most commonly used programming techniques. However, it’s important to remember that you should only use them when a conditional isn’t necessary.
+Switch cases are good for comparing values or performing actions based on a value, but they aren’t good when you want to check if a value is true or false. You should use if-then statements when you want to check if something is true or false.
+
+## Conclusion
+
+Coding is a skill that's useful for many careers, and there are many ways to learn. While each person is different, there are a few tips that can help beginners get started. Once you understand these principles your code will become more readable and logical, and your programs will run more efficiently.

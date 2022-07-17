@@ -1,16 +1,53 @@
 ---
 title: The most common coding mistakes and how to avoid them
 createdAt: 2022-07-07T06:11:17.313Z
-updatedAt: 2022-07-07T16:41:49.696Z
+updatedAt: 2022-07-17T06:30:35.807Z
 category: coding
 ---
 
-Coding is a complex process, and even the most experienced developers make mistakes. However, there are some mistakes that are more common than others. In this article, we'll take a look at the most common coding mistakes and how to avoid them.
+## Don’t Know How To Check For Errors?
 
-One of the most common mistakes is forgetting to close brackets. This can cause all sorts of problems down the line, so it's important to remember to close all brackets, even if you think you don't need to. Another common mistake is using the wrong data type. This can lead to unexpected results and can be difficult to debug.
+Errors are a common problem when coding, but you can catch many of them before they become an issue—or before they cause your code to break completely. There are many ways to check for errors, such as the following:
 
-It's also important to be careful with variable names. Using descriptive names can help make your code more readable and easier to understand. However, using too long or too short variable names can make your code more difficult to read.
+- Using the “debugging” feature of your chosen programming language.
+- Using “assertions” to inform you when a condition is not met.
+- Using “logging” to store a record of errors in a file.
+- Using “error handling” to catch errors and handle them gracefully.
+- Using “unit testing” to check that every part of your code is correct.
 
-Finally, one of the most common mistakes is not commenting your code. This can make it difficult for others to understand what your code is doing and can make it more difficult to debug.
+Even if you do everything right, there’s still a chance that your code could break. You can only do so much to avoid errors, so it’s important to know how to identify and fix them with minimal disruption to your project.
 
-By avoiding these common mistakes, you can make your code more reliable and easier to work with.
+## Forget To Rename Or Re-scope Variables
+
+When coding, it’s best to create a variable for every element you want to represent. However, it’s also important to choose good variable names. If you don’t give your variables a new name or “re-scope” them, they will conflict with other variables, causing errors.
+
+If you use the wrong variable, the program won’t output the correct result. To avoid this, you must choose the right variable name. If you don’t give your variables a new name or “re-scope” them, they will conflict with other variables, causing errors. This may happen if you forget to change the name of a variable when you change its purpose in the code.
+
+Variable naming conventions are different for every language, but many programmers follow the “camel case” convention and add a prefix to each variable name. For example, you could use “firstName” for a person’s first name and “lastName” for their last name.
+
+## Confused About Scope?
+
+Scope refers to where a variable is visible and how long it lasts. Variables at the “top level” of a program aren’t limited to a specific part of the code. They can be accessed anywhere. Global variables are visible throughout the program. Local variables are only visible in one function or part of the code.
+
+Scope (or lack thereof) is often the reason for a lot of bugs and errors in programming. For example, a function that relies on a global variable might break when the value of that global variable changes. To avoid scope issues, it’s best to use “local” variables as much as possible, and avoid placing variables at the “top level” of the program. Scope issues are generally easy to spot. If your code doesn’t work correctly, it could be because of a scope issue.
+
+## Incorrect Usage Of Conditional Statements
+
+Conditional statements can be very helpful, but they should be used correctly. If you have a condition but don’t follow it with the correct subroutine, you could end up with an error.
+
+For example, if you have a condition that calls for “x > y” but you write “x  y,” the program won’t work correctly. To avoid this, you must be sure you know the difference between “greater than” and “less than,” as well as the difference between “equals” and “does not equal.” It’s important to know the order of operations for conditional statements too. If you put parentheses in the wrong order, you could break your entire statement.
+
+## Overuse Of Conditional Statements
+
+Conditional statements are incredibly useful, but overusing them can cause problems. If you use a conditional statement when you don’t need to or you use multiple conditions without combining them, you could create an error.
+
+For example, if you use a conditional statement to check for a valid user ID when you should be using a “regex” function instead, you might get an error. To avoid this, you should know the difference between valid and invalid inputs. You should also know when to use a conditional statement and when to use a “regex.”
+
+## Excessive Looping Without Conditions Or Regeneration
+
+Loops are great, but they shouldn’t be used incorrectly. For example, you shouldn’t use a loop without a condition. If you loop while a condition is false, the program will freeze. If you loop forever, the program will never finish.
+Loops are also helpful for regenerating data. If you have a list of data and you want to regenerate a new list with new data, a loop can help you do so. That said, loops should be used correctly and not excessively. You should know when you can use a loop and when you shouldn’t.
+
+## Conclusion
+
+Coding is challenging, but it’s also a skill that can be learned with practice and patience. However, it’s important to know about these common coding mistakes before they disrupt your project. If you’re careful about the way you write your code, you should be able to avoid these errors. It might be challenging in the beginning, but as you become more experienced, the process will become easier.

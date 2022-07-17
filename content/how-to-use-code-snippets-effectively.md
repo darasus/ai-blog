@@ -1,40 +1,40 @@
 ---
 title: How to use code snippets effectively
 createdAt: 2022-07-07T06:13:02.066Z
-updatedAt: 2022-07-07T16:41:49.905Z
+updatedAt: 2022-07-17T06:32:10.801Z
 category: coding
 ---
 
-When you are working on a project, you will often need to use code snippets. A code snippet is a piece of code that you can use to save time and improve your workflow.
+## Know When To Use Code Snippets
 
-There are a few things you should keep in mind when using code snippets:
+There are many situations where code snippets are a great tool to have at your disposal. They can be used to add in-line code comments, include commonly used code segments, format images, and insert frequently used code segments. Code snippets can also be used to help solve common problems like how to read a specific file type or how to write a specific file type. However, code snippets are not a one-size-fits-all solution. Generally speaking, you want to avoid using code snippets whenever possible. There are two main reasons for this. Firstly, code snippets take time to create and you’ll almost certainly find a better solution for your specific situation. Secondly, many code snippets are designed for specific programs.
 
-1. Make sure you understand the code snippet.
+## Think Before You Paste
 
-2. Don't use code snippets blindly.
+When you’re faced with a problem and the first thing you do is reach for the snippet menu, you’re not really solving the problem. Instead, you’re using someone else’s code as a crutch to get through the challenge as quickly as possible. This is not a sustainable approach to problem-solving. Instead, take the time to understand the problem. Why is it happening? What is the best solution? Also, take some time to learn the basics of different code languages. This will help you write code that is more efficient and effective. You’ll also avoid the frustration of using code snippets that don’t work in your situation.
 
-3. Use code snippets sparingly.
+## Don’t Rely On Auto-Complete
 
-4. Keep your code snippets organized.
+As you begin to build a library of code snippets, you may notice that many of them are created with auto-complete. This is a tool that allows you to insert commonly used code into your document by typing a few letters and then selecting the correct option from a drop-down menu. While this is certainly convenient, it’s easy to overuse this feature. Whenever you notice yourself typing a few letters and then selecting from the drop-down menu, take a step back and try to see if there’s a better solution for your specific situation.
 
-5. Share your code snippets with others.
+## Learn The Basics Of Code Languages
 
-1. Make sure you understand the code snippet.
+Even if you don’t plan on writing code yourself, it’s important to at least understand the basics of different code languages. This will help you to communicate more effectively with programmers, understand the issues they’re dealing with, and avoid unnecessary mistakes. 
+There are tons of different resources available to help you learn the basics of code languages. You can also find some recommended reading below. 
 
-This may seem like an obvious point, but it is important to make sure that you understand the code snippet before you use it. If you do not understand the code snippet, you may end up using it incorrectly and causing errors in your project.
+- Code Academy - This is a great tool for beginners to learn the basics of programming. It offers interactive tutorials that are easy to follow. Plus, it also has a helpful code editor that helps you practice what you’ve learned.
+- Free Code Camp - This is a great resource for those who want to get into web development. It features a series of courses that walk you through different topics and projects. However, it also has a community filled with helpful members who can answer your questions and provide feedback as you learn.
+- Read Books - While reading books may not be as interactive as other methods, it’s certainly one of the best ways to learn the basics of different code languages.
 
-2. Don't use code snippets blindly.
+## Understand What Code Snippets Do
 
-Just because a code snippet exists does not mean that you should use it. You should only use a code snippet if it will improve your workflow or save you time. If you use a code snippet without understanding it, you may cause errors in your project.
+Before you blindly insert code snippets into your document, take the time to understand how they work. What problems do they solve? What code languages are used? What is the correct way of inserting them into your document?
+- Some code snippets solve very specific problems. For example, some are designed to help you read files from a specific file type. Others are designed to help you write files to a specific file type.
+- Code snippets are often built to work in specific code languages. Code languages are what programmers use to write computer programs.
+- You can usually insert code snippets by pressing CTRL + K (or CMD + K if you’re on a Mac) and then typing “{ }”. You can then select the code snippet you want and the text editor will fill it in with the correct code.
 
-3. Use code snippets sparingly.
+## Conclusion
 
-Code snippets can be very helpful, but they should be used sparingly. If you use too many code snippets, your project will become difficult to maintain.
+The biggest takeaway is to not rely on code snippets as a crutch. Instead, use them as a tool to research new information, practice writing code, and help you solve problems. This will help you learn new skills, solve problems more efficiently, and avoid common mistakes.
 
-4. Keep your code snippets organized.
-
-If you have a lot of code snippets, it is important to keep them organized. This will help you find the code snippet you need when you need it.
-
-5. Share your code snippets with others.
-
-If you have created a code snippet that you think would be helpful to others, consider sharing it with the community. There are many ways to share code snippets, such as through blogs or social media.
+Keep in mind that while code snippets are a great tool, they aren’t always the best solution. Whenever possible, try to solve problems without relying on code snippets. This will help you gain a better understanding of how different programs function, avoid the frustrations associated with code snippets, and save time in the long run.

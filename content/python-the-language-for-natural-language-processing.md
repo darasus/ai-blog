@@ -1,34 +1,71 @@
 ---
 title: Python - The language for natural language processing
 createdAt: 2022-07-09T06:21:30.499Z
-updatedAt: 2022-07-09T06:21:30.499Z
+updatedAt: 2022-07-17T06:54:45.521Z
 category: coding
 ---
 
-Python is a versatile language that you can use for building all sorts of applications. But one area where Python really shines is natural language processing.
+## What is Python used for in Natural Language Processing?
 
-Natural language processing is a field of computer science and artificial intelligence that deals with the interactions between computers and human (natural) languages. It helps computers to understand, interpret and manipulate human language.
+Natural language processing can be performed using many different languages. The choice of language will depend on the type of processing being done, the availability of libraries, ease of use, and performance. Python is often used for natural language processing because of its simplicity, readability and ease of use.
 
-Python is a great language for natural language processing because it is easy to read and write. It has a large and active community. And it has many libraries and tools for NLP tasks.
+Python is used for Natural Language Processing because it is easy to learn, simple to implement, and has wide range of libraries available. Python is a high-level general purpose language and is programming language that can be used for any type of application. It has a wide variety of libraries that can be used for Natural Language Processing. Python is also open source which makes it a cheaper language to use compared to other commercial languages. Python’s syntax is easy to read and understand which makes it a good language for Natural Language Processing because it is easier to debug and fix errors in code. Python also has an extensive user community and is widely used amongst researchers and developers in the Natural Language Processing field.
 
-In this article, you will learn about some of the most popular Python libraries and tools for natural language processing.
+## Word Tokenization
 
-1. NLTK
+Tokenization is the process of breaking down sentences into “tokens” which are the smallest unit of language that has a meaning. A tokenization algorithm may identify punctuation marks as part of the tokens.
 
-NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
+There are different ways to tokenize text:
 
-2. spaCy
+- Word-based tokenization - This involves splitting the text at each word boundary.
+- Sentence-based tokenization - This involves splitting the text at each new line boundary.
+- Hybrid word and sentence based tokenization - This is a combination of word-based tokenization and sentence-based tokenization.
 
-spaCy is a library for advanced Natural Language Processing in Python. It was designed specifically for production use, and it excels at large-scale text classification and tokenization. spaCy comes with pre-trained statistical models and word vectors, and it also supports several languages including English, German, French, Spanish, Portuguese, Italian, Dutch, and more.
+These methods can be combined to provide more accurate results. For example, hybrid word and sentence based tokenization may be used to remove punctuation marks. This is an important step in many NLP tasks.
 
-3. Gensim
+## Part-of-speech Tagging
 
-Gensim is a library for topic modeling and document similarity. It can be used to train word embeddings from scratch or load pre-trained word vectors. It also supports several popular similarity measures such as cosine similarity, Jaccard similarity, and more.
+Part-of-speech tagging is the process of labeling words in a sentence with a part of speech such as Noun, Verb, Adjective, etc. Part-of-speech tagging is useful for many natural language tasks such as sentiment analysis and co-occurrence analysis.
 
-4. Pattern
+There are different algorithms for part-of-speech tagging:
 
-Pattern is a web mining module for the Python programming language. It has tools for data mining (Google, Twitter, and Wikipedia API, a web crawler), natural language processing (part-of-speech taggers, n-gram search, sentiment analysis, WordNet), machine learning (vector space model, clustering, SVM), network analysis (centrality measures, link analysis), and visualization.
+- Statistical taggers - These are rule-based taggers that use statistical models to determine the probabilities of different tags being applied to a word in a sentence.
+- Rule-based taggers - These use rules and dictionaries to determine the part of speech of a word.
 
-5. TextBlob
+Rule-based taggers are more accurate but slower than statistical taggers. Rule-based taggers are also easier to train and maintain than statistical taggers. Statistical taggers can be used as pre-processing step before the rule-based taggers. Pre-processing involves removing punctuation marks, removing stop words, etc.
 
-TextBlob is a Python library for processing textual data. It provides a simple API for diving into common natural language processing tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+## Morphological Analysis
+
+Morphological analysis is the process of identifying and classifying the root words within a sentence. This is used for tasks such as extracting keywords from a sentence, or extracting the root word from which a compound word is formed.
+
+There are many algorithms used for morphological analysis:
+
+- Finite-state-machine based - Finite-state-machine based algorithms are rule-based algorithms that rely on finite-state machines.
+- Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.
+- Statistical based - Statistical based algorithms use statistical models to calculate the probability of a word having a certain root.
+
+## Sentence Detection and Classification
+
+Sentence detection is the process of identifying the beginning and end of a sentence in a piece of text. Sentence detection is useful for many NLP tasks such as part-of-speech tagging, named entity recognition, semantic parsing, and sentiment analysis.
+
+There are different algorithms for sentence detection:
+
+- Finite-state-machine based - Finite-state-machine based algorithms are rule-based algorithms that rely on finite-state machines.
+- Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.
+- Statistical based - Statistical based algorithms use statistical models to calculate the probability of a word being at the start or end of a sentence.
+
+Sentence classification is the process of classifying the sentiment of a sentence. Sentence classification is used for sentiment analysis where the sentiment of the text is important. There are many algorithms used for sentence classification:
+
+- Rule-based - Rule-based algorithms use rules and dictionaries to determine the sentiment of a sentence.
+
+## Semantic Parsing
+
+Semantic parsing is the process of determining what the sentence is about. This is useful for finding the topic of a sentence.
+
+There are different algorithms for semantic parsing:
+
+- Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.
+
+## Summing up
+
+Choosing the correct language for Natural Language Processing is important because it can have a large impact on performance. Python is often chosen because of its simplicity, readability, and ease of use. It has many libraries available for Natural Language Processing. Python is open source and therefore cheaper to use than commercial languages such as Java and C++. The syntax is easy to read and understand which makes it easier to debug and fix errors in the code. The user community is also large which means you can find help when needed.

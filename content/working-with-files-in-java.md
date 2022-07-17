@@ -1,16 +1,234 @@
 ---
 title: Working with files in Java
 createdAt: 2022-07-09T06:23:46.511Z
-updatedAt: 2022-07-09T06:23:46.511Z
+updatedAt: 2022-07-17T06:56:28.211Z
 category: coding
 ---
 
-Working with files in Java is a relatively simple process. The most common way to work with files is to use the FileInputStream and FileOutputStream classes. These classes provide the basic functionality for reading and writing data to a file.
+## Create and Read Files
 
-Another way to work with files is to use the java.nio.file package. This package provides a more sophisticated set of classes for working with files. The java.nio.file.Path class is particularly useful for working with file paths.
+Before you can write to a file, you need to create it. The simplest way to do this is with the “New” command.
 
-When working with files, it is important to be aware of the different file encoding schemes. The most common encoding scheme is UTF-8, but there are others, such as ISO-8859-1 and Windows-1252. It is important to use the correct encoding when reading or writing data to a file.
+file = New>.../New>
 
-It is also important to be aware of the different file permissions that can be set on a file. The most common file permission is the read permission, which allows a user to read the contents of a file. Other permissions include the write permission, which allows a user to write to a file, and the execute permission, which allows a user to execute a file.
+Here, file is the variable that will reference the file in future. This can be any string that makes sense to you, e.g. “example.txt”. You can also assign a file path like this:
 
-When working with files, it is important to be aware of the different file formats that are available. The most common file format is the text file format. However, there are also binary file formats, such as the PDF file format. It is important to use the correct file format when working with files.
+file = New> C:/Users/Username/Desktop/example.txt
+
+The “New” command creates an empty file for you. If you want to create a file and fill it with some data, you can do so with the “Append” function.
+
+## Updating Files
+
+If you want to add more data to an existing file, you can use the “Write” function. The syntax for this is
+
+file.Write(String data)
+
+where “data” is the information you want to append.
+
+You can also update an existing file with a new version of itself, e.g. “example.txt” with new information. To do this, you will need to read the old file’s contents into a string and then write that data back to the file.
+
+## Deleting Files
+
+You can delete a file with the “Delete” function. Here’s how it works
+
+file.Delete()
+
+This will remove a file if it’s empty, or if it contains data, it will be marked for deletion. If the file is a “system file”, it cannot be deleted. Here’s a list of the files that cannot be deleted:
+
+- AppData/Oracle/Oracle_javavm_log/logging.properties
+
+- AppData/Oracle/javavm/logging.properties
+
+- AppData/Oracle/jvm.log
+
+- Boot/vmlinuz*
+
+- Boot/vmlinuz-*
+
+- Boot/vmlinu*
+
+- Boot/vmlinu-*
+
+- Boot/vmlinuz.old
+
+- Boot/vmlinuz.bak
+
+- Core/core-*.log
+
+- Core/*.log
+
+- Core/*.lgc
+
+- Core/hs_err_pid*
+
+- Core/hs_err_*
+
+- Core/hs_err_*
+
+- Core/hs_err_pid*
+
+- Core/System*
+
+- Core/System.log
+
+- Core/System.lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/ui_log
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerHolder/*.lgc
+
+- Core/System/ui_lgc
+
+- Core/System/LoggerHolder.log
+
+- Core/System/LoggerHolder/*.log
+
+- Core/System/LoggerH

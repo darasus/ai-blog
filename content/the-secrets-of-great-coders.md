@@ -1,12 +1,34 @@
 ---
 title: The secrets of great coders
 createdAt: 2022-07-07T06:13:30.533Z
-updatedAt: 2022-07-07T16:41:49.981Z
+updatedAt: 2022-07-17T06:32:55.783Z
 category: coding
 ---
 
-There are many secrets that great coders know that make them successful. One secret is that they are always learning. They are constantly reading books and articles, taking online courses, and attending conferences to stay up-to-date on the latest coding techniques. Great coders also have a strong work ethic and are always willing to put in the extra hours to get the job done right.
+## Focus On What Matters
 
-Another secret of great coders is that they are excellent communicators. They know how to explain complex technical concepts to non-technical people in a way that is easy to understand. They are also able to collaborate effectively with other developers on a project.
+Programmers who get caught up in the details of the work often find that they are not able to see the big picture. Programmers who are focused on the details of the work often find that they are not able to see the big picture. If you are always spending your time thinking about the low-level details of the code, you will never be able to achieve greatness. There are two things you need to do in order to focus on what matters. First, you need to have a vision for your code. What is the overall design? How do the modules fit together? How will the users interact with the code? Second, you must know how to prioritize your work. Some parts of the code will be more important than others. Great programmers know which parts of the work matter and which parts don’t.
 
-Finally, great coders are always looking for ways to improve their skills. They are constantly experimenting with new technologies and testing out new approaches to see what works best. By always striving to be better, they are able to stay ahead of the curve and deliver high-quality code.
+## Code With A Purpose
+
+Great coders are not just people who write code; they are people who write specific code for a specific purpose. Think about the goal of your code. You should be able to write out the goal of your code in one sentence or less. And that sentence should be clear enough that someone who doesn’t know anything about your project could understand it. So what is the goal of the code? What is the code supposed to do? If you don’t have a clear vision for the code, you may end up writing something that doesn’t work. Or, even worse, you may end up writing something that works against the rest of the code base. Great coders write code with a clear and specific purpose.
+
+## Be Passionate About Learning
+
+Most of the best coders are avid readers. They are constantly learning new things and improving their skills. If you want to become a great coder, you must be passionate about learning. Great coders are always reading about new technologies and new programming patterns. They never stop learning. If you want to become a great coder, you must be passionate about learning. You must want to become better every day. You must be excited to learn new things and experiment with new technologies. You must be excited to challenge yourself with difficult problems. Great coders are passionate about the process of learning. They want to learn everything they can about the technologies they are working with. They want to know what other people are doing in their field. They want to know why things work the way they do. This constant learning process is what allows great coders to adapt to new technologies quickly and solve complex problems.
+
+## Show Up And Don't Quit
+
+Great coders show up every day. They don’t quit when the going gets tough. They know that they need to push through the hard times in order to achieve their goals. There will always be hard times in software engineering. There will be days when you don’t know what you are doing. There will be deadlines that are looming over you. There will be coworkers who drive you crazy. There will be moments when you feel like everything is going wrong. If you want to become a great coder, you must show up for those hard days. You must push through the hard times and keep going. You must keep going even when it seems like everything is going wrong. It is easy to let go of the tough moments when everything is going right. But it takes real strength to keep going when everything is going wrong. This is the difference between the great coder and the average coder.
+
+## Know Your Tools
+
+Great coders know their tools inside and out. They know their tools so well that they can become creative with them. They understand the strengths and weaknesses of the languages they use. They know the best way to use debuggers and source code control systems. They know the best way to use their integrated development environments. They know the best way to use frameworks. Great coders know their tools inside and out. They don’t just know how to use the tools; they know why those tools are designed the way they are. They know the reasons why debuggers break at certain points in the code. They know the reasons why source code control systems behave the way they do. They know the reasons why integrated development environments have certain features. They know the reasons why frameworks are designed the way they are. If you want to become a great coder, you must know your tools.
+
+## Be Confident Without Being cocky
+
+Being confident without being cocky is a difficult line to walk. You want to be confident in your abilities, but you don’t want to be so arrogant that you are no longer likable. If you want to become a great coder, you must be confident without being cocky. If you constantly doubt your ability to get the job done, you will never be productive. If you constantly doubt your ability to get the job done, you will never be productive. If you constantly doubt your ability to get the job done, you will let other people get you down. Great coders are confident in their abilities without being cocky. They know they have weaknesses, but they also know they have strengths. They know they are good at certain things and they are okay at other things. They know their limitations and they know their strengths.
+
+## Conclusion
+
+Great coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know...

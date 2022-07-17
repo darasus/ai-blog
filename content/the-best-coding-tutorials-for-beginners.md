@@ -1,48 +1,38 @@
 ---
 title: The best coding tutorials for beginners
 createdAt: 2022-07-07T06:10:42.701Z
-updatedAt: 2022-07-07T16:41:49.628Z
+updatedAt: 2022-07-17T06:30:20.240Z
 category: coding
 ---
 
-Coding tutorials are a dime a dozen these days. But which ones are the best for beginners? Here are our top 10 picks:
+## HTML and CSS Basics
 
-1. Codecademy
+HTML stands for Hypertext Markup Language. It is the language used to create websites. Every code that you see on the internet, be it a blog post, a photo, or a page on your online shop, is created with HTML. Once you learn basic HTML and CSS, you will be able to design anything from a simple blog to an entire website.
 
-With over 25 million users, Codecademy is one of the most popular places to learn to code. And for good reason: their tutorials are well-made and easy to follow. They also have a handy cheatsheet that you can refer to as you work through the exercises.
+CSS stands for Cascading Style Sheets. It is a language used for creating styles and designing web pages. By learning about CSS, you can customize your website’s appearance in many different ways. You can change the font, color, image, or size of any element of your website with just few lines of code.
 
-2. Scratch
+## Python Basics
 
-Scratch is a visual programming language that's perfect for beginners. With Scratch, you can create your own interactive stories, games, and animations. And best of all, it's free!
+Python is a popular programming language used for a variety of purposes. You can use Python for website development, artificial intelligence, machine learning, and more. This language is easy to learn, which makes it a great language for beginners to start with.
 
-3. Code School
+The first step in learning Python is finding a good resource to get started. One great option is the Python Beginner Tutorial. This resource is a free, online course designed for total beginners. It is broken up into a number of different sections that walk you through the basics of Python. If you are looking for a paid resource, you can also try out the Python Standard Library. This is a printed book that works as an introduction to the language. It will walk you through the basics of coding in Python and give you a good foundation for future study.
 
-Code School offers interactive courses on a variety of programming languages. Their tutorials are engaging and well-produced. Plus, they have a handy progress tracker so you can keep track of your learning.
+## Basics of HTML and CSS
 
-4. Khan Academy
+When you are learning coding, it is important to start with the basics. This way you will understand the core concepts and have a strong foundation for future study. One of the best ways to do this is with a few simple tutorials on HTML and CSS. These two languages are essential for creating any web page or website. By learning the basics of these two languages, you will be able to create almost anything on the internet.
 
-Khan Academy is a non-profit organization with a mission to provide free, high-quality education for everyone, everywhere. They offer a variety of courses on computer programming, including an introductory course on HTML and CSS.
+When choosing a tutorial, make sure to find one that is tailored toward beginners. These languages are very easy to learn, but they can be overwhelming if you don’t understand them properly. A good starter tutorial is CSS for Beginners. It is a free online course that will walk you through the basics of CSS.
 
-5. The Coding Train
+## HTML and CSS for Beginners
 
-The Coding Train is a YouTube channel created by Daniel Shiffman, a professor at New York University's Interactive Telecommunications Program. The channel features a series of videos on programming topics, including an introductory series on Processing, a visual programming language.
+When learning the basics of coding, it is important to start with HTML and CSS. These two languages are essential for creating any web page or website. By learning the basics of these two languages, you will be able to create anything you want online.
 
-6. Udemy
+If you are new to coding, one of the best ways to learn is by creating a simple website. This will allow you to put the code you are learning into practice while also giving you an end result to look at and be proud of. A great way to start is by using one of the many website builder platforms. Try out Weebly or Wix to create a simple website in no time.
 
-Udemy is an online learning platform with over 80,000 courses on a variety of topics, including programming. Their courses are taught by expert instructors and include hours of video content.
+## Swift Basics
 
-7. Lynda.com
+Swift is a programming language that lets you create apps for iOS and macOS. This is one of the most in-demand languages at the moment thanks to the popularity of the Apple ecosystem. If you want to create iPhone or iPad apps, you will need to learn the basics of Swift. This language is similar to other programming languages, which makes it a great place to start for beginners. In addition, many online resources exist to help you learn. One great option is Swift for Beginners. This is an online course that will walk you through the basics of programming in Swift. You can also try out the Apple Swift Language Guide. This is a printed guide that will serve as an introduction to Swift. It will walk you through the basics of programming in this language and give you a good foundation for future study.
 
-Lynda.com is an online learning platform owned by LinkedIn. They offer thousands of courses on a variety of topics, including programming. Their courses are usually well-produced and include quizzes and exercises to help you learn the material.
+## Android Basics
 
-8. Treehouse
-
-Treehouse is an online learning platform that offers courses on web design, web development, and mobile development. Their courses are engaging and interactive, and they offer a 7-day free trial so you can try before you buy.
-
-9. FreeCodeCamp
-
-FreeCodeCamp is a non-profit organization that offers free online courses on web development. Their curriculum is divided into five sections: HTML/CSS, Responsive Design, JavaScript, Algorithms & Data Structures, and Information Security. Upon completion of all five sections, you'll receive a certificate of completion.
-
-10. Dash by General Assembly
-
-Dash is an online course offered by General Assembly that teaches the basics of web development through hands-on projects. It's perfect for beginners who want to learn by doing. Plus, it's free!
+The Android platform is one of the most popular operating systems in the world. There are millions of people using Android devices every day. One way to make money as a coder is through creating apps for Android. If you want to do this, you will need to learn the basics of Android programming. To do this, you can start by reading the Android documentation. This is a printed book that will serve as an introduction to the language. It will walk you through the basics of programming in Android and give you a good foundation for future study. You can also try out the Udacity course Building Android Apps. This is an online course designed for beginners that will teach you how to create your first app for Android.

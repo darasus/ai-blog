@@ -1,34 +1,52 @@
 ---
 title: Inheritance in Java
 createdAt: 2022-07-09T06:23:04.733Z
-updatedAt: 2022-07-09T06:23:04.733Z
+updatedAt: 2022-07-17T06:55:25.128Z
 category: coding
 ---
 
-Inheritance is a mechanism in Java that allows a class to inherit the attributes and behavior of another class. Inheritance is a powerful tool that can be used to extend the functionality of a class, or to create a more specialized version of a class.
+## Why Use Inheritance?
 
-Inheritance can be used to create a hierarchy of classes, where each class inherits from a superclass. The superclass is the parent class, and the subclass is the child class. A subclass can inherit from multiple superclasses, but a superclass can only have one subclass.
+It is important to understand why inheritance is used at all. If you want to reuse existing code, you can always do so without inheriting anything. However, the problem is that if two different classes need the same functionality, you’ll have to copy and paste that code in two different places. This is a bad practice and can lead to issues in the future.
+The only way to avoid this is to use inheritance. You can create a base class that has all the shared functionality and then have all the child classes extend that base class. This way, you’ll have a single point of code where that functionality is defined and you can reuse it as many times as you want.
 
-Inheritance is a powerful tool, but it should be used with caution. Inheritance can lead to code that is difficult to maintain and understand.
+## What is Inheritance in Java?
 
-When should inheritance be used?
+Inheritance is the process of taking one class and making it so that it extends the functionality of another. This means that the child class can use the parent class and vice versa.
+This means that the code that was implemented in the parent class can be used in the child class.
+In the end, this allows the creation of a “family tree” of classes, where a child class can extend a parent class and inherit all of its functionality.
 
-Inheritance should be used when there is a clear relationship between the superclass and the subclass. For example, if you have a class that represents a shape, and you want to create a subclass that represents a specific type of shape, such as a circle, then inheritance would be an appropriate choice.
+## When to Use Inheritance?
 
-Inheritance should also be used when you want to reuse code from a superclass. For example, if you have a superclass that represents a vehicle, and you want to create a subclass that represents a car, then you can reuse the code for the vehicle in the car subclass.
+If you want to reuse code that has been implemented in a different class, then you should use inheritance.
+However, this is just one of the reasons why you might want to take advantage of inheritance.
+Now that you know what inheritance is and why it’s used, it’s time to learn when to use it.
 
-What are the benefits of inheritance?
+- Code Reuse - When you have a parent class that has all the functionality that you need in your child class, you can inherit from it. This way, you’ll have a single point of code where that functionality is defined and you can reuse it as many times as you want.
 
-Inheritance can be used to extend the functionality of a class without having to rewrite the code for the class.
+- Extending Existing Code - What if you have a parent class that has all the functionality that you need, but it isn’t quite what you’re looking for? In this case, you can inherit from it and then change or extend that code. This way, you’ll have the best of both worlds. You’ll get the functionality that you need from the parent class and the ability to make modifications to it.
 
-Inheritance can also be used to create a more specialized version of a class. For example, if you have a class that represents a vehicle, you can create a subclass that represents a car. The car subclass can inherit the code for the vehicle, and then add code that is specific to cars.
+- Extendability - Inheritance is useful for more than just reusing code. It can also help you with your code’s extendability. This refers to the flexibility of extending a class to add new functionality later on. In other words, you can add functionality to an existing class by creating a new class that inherits from it.
 
-Inheritance can also make code more readable and easier to understand. For example, if you have a class that represents a shape, and you want to create a subclass that represents a circle, then the code for the circle would be easier to understand if it inherited from the shape class.
+## Java Built-in Types that can be used as Constant
 
-What are the disadvantages of inheritance?
+This is a list of the most common types that can be used as primitive constants.
 
-Inheritance can lead to code that is difficult to maintain and understand. This is because inheritance can create complex relationships between classes.
+- Boolean - This is the type that is used to represent true or false values.
 
-Inheritance can also make it difficult to change the behavior of a superclass. For example, if you have a superclass that represents a vehicle, and you want to create a subclass that represents a car, then you would have to change the code for the vehicle in order to change the behavior of the car.
+- Character - This type is used to represent one-letter strings.
 
-Inheritance should be used with caution, and only when it makes sense to do so. Inheritance should not be used just for the sake of reuse or for the sake of making code more readable.
+- Integer - This is the most common type used to represent whole numbers without decimals.
+
+- Long - This type is used to represent long numbers without decimals.
+
+- Float - This type is used to represent numbers with decimals.
+
+- Double - This is similar to float, but it has a slightly higher precision.
+
+- String - This type is used to represent strings of characters.
+
+## Conclusion
+
+Now you know the basics of inheritance, when and why you should use it. You’ve also learned what types can be used as constants and how inheritance can help you create extendable code.
+Of course, there’s more to inheritance than what’s been covered in this article. However, if you understand the basics, you’ll be able to grasp the rest of it easily.

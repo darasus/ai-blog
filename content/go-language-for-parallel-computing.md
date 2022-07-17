@@ -1,10 +1,38 @@
 ---
 title: Go language for parallel computing
 createdAt: 2022-07-09T06:31:07.364Z
-updatedAt: 2022-07-09T06:31:07.364Z
+updatedAt: 2022-07-17T07:18:00.700Z
 category: coding
 ---
 
-The Go programming language is ideal for parallel computing. It is easy to learn and has a simple syntax that makes it easy to read and understand. Go is also a compiled language, which means that it can be run on any platform without the need for a virtual machine.
+## What is Go?
 
-Go is a great choice for parallel computing because it is easy to use and has a simple syntax. It is also a compiled language, which means that it can be run on any platform without the need for a virtual machine. Go is a great choice for parallel computing because it is easy to use and has a simple syntax.
+The Go language is an open source programming language developed by Google. It was designed with the goal of making it easier to write software that takes advantage of parallel computing.
+The Go programming language was created by engineers at Google in 2007. These engineers were building a large-scale distributed system at the time. They discovered that the languages they were using at the time didn’t have the features they needed to scale up their system. So they built a new language with the features they needed.
+Go is a high-level programming language that is designed to be easy to use. It’s simple and straightforward, but also has powerful features that make it suitable for large-scale applications. It’s also designed to be fast and efficient, which is important for any language being used for parallel programming.
+
+## Why parallelize?
+
+Computer systems are comprised of many different components that work together to process data. You may have heard of terms like CPU, RAM, GPU, and hard drive. All these components play an important role in how quickly and efficiently your computer can handle tasks. Inside these components, there are thousands of tiny transistors that process data.
+The amount of data that can be processed at any given time is known as the processing capacity of the computer system. A typical computer has a processing capacity of about one or two instructions per second.
+Now imagine you have a large amount of data and need to process it. In this case, you’ll need to wait for the computer to finish processing the first piece of data before it can move onto the next one. This process is known as sequential processing. It’s what happens in the majority of computer systems.
+
+## Go for Parallel Computing
+
+In this section, we’ll examine why the Go language makes sense for parallel computing. Let’s first look at the basics of parallel computing.
+In parallel computing, you split the processing of data into multiple pieces, each of which is then processed simultaneously. Parallel computing is different from serial processing because it doesn’t require the computer to finish one piece of data before moving onto the next.
+
+This parallelizing of data processing can be done at different levels. One method is within a single program, where one or more instructions are executed at a time. Another method is to split the data into different programs that can be processed simultaneously by using multiple computers.
+
+## Limitations of Go for Parallel Computing
+
+Although the Go language does make sense for parallel computing, it does have a few limitations. One of the main issues for developers using Go for parallel computing is that it can be difficult to find enough computer systems to handle the load.
+The language also doesn’t have built-in features to make it easy to distribute data across multiple machines.
+For example, if you want to split a large dataset between two computers and then combine the results together again, you’ll have to write custom code to do this. This can make it challenging to work with large data sets in parallel.
+
+## Key takeaway
+
+The Go language is designed to make it easier to write software that takes advantage of parallel computing. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially.
+Go is a high-level programming language that is designed to be easy to use. It’s simple and straightforward, but also has powerful features that make it suitable for large-scale applications. It’s also designed to be fast and efficient, which is important for any language being used for parallel programming.
+
+While the Go language does make sense for parallel computing, it does have a few limitations. Computer systems are comprised of many different components that work together to process data. One method is to split the data into different programs that can be processed simultaneously by using multiple computers.

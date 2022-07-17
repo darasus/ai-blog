@@ -1,22 +1,40 @@
 ---
 title: Go language for embedded programming
 createdAt: 2022-07-09T06:32:23.223Z
-updatedAt: 2022-07-09T06:32:23.223Z
+updatedAt: 2022-07-17T07:19:18.182Z
 category: coding
 ---
 
-The Go programming language is an open source project created by Google. It is a compiled, statically typed language that feels like a dynamic language. Go is sometimes referred to as "golang" to distinguish it from the older Google App Engine runtime for the Java programming language.
+## What is Go?
 
-The Go programming language was created to address the problems that Google engineers were having with existing languages and tools for system programming. Go is a general-purpose language designed with systems programming in mind. The language was designed to be easy to read and write, and to be efficient and reliable.
+Another common question that you might be asking yourself after reading the title of this section is, “Is Go a programming language?”. Yes, it is, but what it really is, is a programming language with a different approach to language design. This means that Go has a different way of solving problems that are encountered in other programming languages. Go was released back in 2009 by Google. It was made with the intention of being a software engineering language, which means that it is mainly used for creating software systems. If you have heard of C, then you will have a good idea of what this language is all about.
 
-Go is a statically typed language, which means that variables have a specific type and that type cannot be changed. This can be seen as a disadvantage when compared to dynamically typed languages, which are more flexible. However, it also means that Go programs are more predictable and easier to debug.
+The idea behind designing Go was to build a language that would be fast, easy to use, and have a clean syntax. The fact that it was created by Google also proves that it is a language that is of a quality that is unrivalled by many other programming languages.
 
-Go is a compiled language, which means that it is converted into machine code that can be run on a computer. This is different from interpreted languages, which are not compiled and are run by an interpreter. Compiled languages generally run faster than interpreted languages.
+## Why use Go for embedded programming?
 
-Go is a garbage-collected language, which means that the Go runtime automatically manages memory for the programmer. This can be seen as an advantage over languages that do not have garbage collection, as it can make memory management simpler. However, it can also lead to programs that are slower and use more memory than they would if the programmer managed memory manually.
+When selecting a programming language for embedded programming, a number of factors have to be taken into account. Yes, you need to select a language that suits your project needs and also the device with which the software will be running on. In many cases, you might just be using the same programming language that was used to create the device’s firmware. However, in many other cases, you might want to use a different language because of the advantages that it offers. With that said, let’s take a look at some of the advantages of using Go for embedded programming:
 
-Go has a simple, clean syntax that makes it easy to read and write code. Go also has an extensive standard library that provides many useful features.
+- Robust ecosystem - There is no denying that the language’s robust ecosystem is one of the reasons why many developers are choosing to use Go for embedded programming. This ecosystem offers features such as a cross-compilation tool, an automatic memory management system, a large standard library, and much more.
+- Easy to scale - Another advantage associated with using Go for embedded programming is the fact that it is easy to scale. If you need to scale your project to more devices or add more functionality to an existing device, using Go will be the best choice.
+- Great documentation - Another factor that makes Go a good choice when selecting a language for embedded programming is the fact that it comes with great documentation. This documentation is easy to understand even if you are new to programming, which means that it is suitable for people of all skill levels.
+- Open source - Finally, another reason why you should use Go for embedded programming is the fact that it is an open source language. This means that you can benefit from its community as well as make changes or report bugs if required.
 
-Go is a cross-platform language that can be used on Windows, macOS, Linux, and other operating systems. Go programs can be compiled to run on any platform that supports the Go runtime.
+## Pros of Go for Embedded Programming
 
-Go is an open source project, which means that anyone can contribute to the development of the language. The Go team is responsible for maintaining the language specification and providing support for the language community.
+Here, we take a look at some of the main pros of using Go for embedded programming:
+
+- Easy to read and write - The syntax of Go is extremely simple, which means that it is easy to read and write code in this language. This makes it suitable for beginners and experienced programmers alike, giving them the advantage of completing projects much faster.
+- Simple concurrency model - Another advantage of using Go for embedded programming is that it has a simple concurrency model. This model is suitable for projects that involve working with multiple machines or devices and need to share data between them concurrently.
+- Robust toolchain - Go also has a robust toolchain that comes with features such as code coverage and other forms of analysis.
+- Great community support - The last advantage that we will discuss here is the fact that Go comes with great community support. This means that you can easily find help or get advice from other programmers if you are stuck at any point during the project.
+
+## Cons of Go for Embedded Programming
+
+Now that you know about the advantages of using Go for embedded programming, it is time to take a look at some of the disadvantages associated with this language:
+- Compiler is slow - While it is true that the compiler is robust and can help you deliver high-quality software, it is also slow. This means that you will have to wait a bit longer for the code to be compiled and ready for execution.
+- Non-deterministic resource consumption - The non-deterministic resource consumption that we refer to here is the fact that Go is a garbage collected language. This means that at any given time, it might decide to allocate more resources than required. This can affect the performance of your device, so it is important to keep this in mind.
+
+## Conclusion
+
+Finally, we have come to the end of this article. Now, you know everything there is to know about using Go for embedded programming. You also know what the advantages and disadvantages of this language are. Armed with this knowledge, you can now make an informed decision when selecting a programming language for your next project.

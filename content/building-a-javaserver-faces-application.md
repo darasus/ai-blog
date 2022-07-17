@@ -1,8 +1,38 @@
 ---
 title: Building a JavaServer Faces application
 createdAt: 2022-07-09T06:25:50.314Z
-updatedAt: 2022-07-09T06:25:50.314Z
+updatedAt: 2022-07-17T07:14:29.658Z
 category: coding
 ---
 
-Building a JavaServer Faces application is a simple process. First, you need to create a new project in your IDE. Once the project is created, you need to add the required libraries. These libraries can be found in the JSF Core and JSF API download pages. After the libraries are added, you need to create a faces-config.xml file. This file is used to configure the application. The next step is to create the managed beans. These beans are used to store the data that will be displayed in the application. Finally, you need to create the pages that make up the application. These pages are created using JSF tags.
+## Creating a New JavaServer Faces Project in IntelliJ IDEA
+
+As we know, to start creating a JavaServer Faces application using IntelliJ, the first thing we need to do is create a new project. To do that, choose File | New | Project from the menu. Then, select the Java category and on the next screen choose the JavaServer Faces category. In the ensuing dialog box, select the Basic (JSF 2.x) option and click Next. On the next screen, specify a suitable Java package, project name, and click Finish to create the project.
+
+For the purpose of this tutorial, we will create a simple JavaServer Faces application with a single view and a few managed beans. This application will contain a form that accepts a user input, and once submitted, the application will display the data entered by the user. ## Set up Java and Gradle
+
+In order to use JavaServer Faces in IntelliJ IDEA, we need to select the Java 9 runtime as the project's default JDK. This can be done in the Project Structure dialog box by adding a new JDK, selecting the desired version from the drop-down list, and clicking OK.
+
+We also need to configure the build tool and source control settings. To do that, open the Settings/Preferences dialog box, select Build, Execution, Deployment | Compilers, and click Java Compiler. From the Java Compiler dialog box, select the desired version, the source folder, and the Target folder. Then, select the Standard JVM Code Path.
+
+Next, select the Gradle version and choose the location of the Gradle wrapper. Finally, enable the Use Source and Target folders option and disable the Show only selected items option. ## Configuring JVM Options
+
+We will configure JVM options to enable the following options: -Xms512m -Xmx2048m -XX:PermSize=256m -XX:MaxPermSize=512m -Dsun.java2d.noddraw=false -Dorg.apache.logging.Log=org.apache.logging.log4j.Logger -Dlog4j.logger.org.apache.logging.log4j.LogManager=DEBUG,console -Dlog4j.logger.org.apache.logging.log4j.Logger=WARN,console -Dlog4j.logger.org.eclipse.jdt.core.compiler=WARN,console -Dlog4j.logger.com.intellij.util.logging.InternalLoggerFactory=DEBUG,console -Dorg.eclipse.jdt.core.compiler.source=1.9 -Dorg.eclipse.jdt.core.compiler.target=1.9 -Dorg.eclipse.jdt.core.compiler.misc=true ## Create Facelets Folder and Viewing Template
+
+As JavaServer Faces applications are built with Facelet files, we need to create a new folder named “web” in the root of our project and place the Facelet files there. For creating a new folder in the root of a project, we can use the “File | New | Folder” menu.
+
+We also need to create a template view for our application. In the “web” folder, create another folder named “faces” and place the view there. To create a view for our application, select the “faces” folder and choose “File | New | Other” from the menu. On the dialog box that opens, select JavaServer Faces view from the “Templates” drop-down list and click Next. In the “New JavaServer Faces View” dialog box, type the name of the view and the path where the view is saved. Confirm that the “View Root” field is set to “/”, the “Project” field is set to the current project, and the “View Engine” field is set to “No Engine”. Click Finish to create the template view. ## Define Application Beans and  View-scoped Beans
+
+For the purpose of this tutorial, we will define a simple managed bean with a single properties entry and a method. We will also define a view-scoped bean.
+
+Managed beans are Java classes that are used to handle the data that is passed between the application and the browser. The data can be stored in a JavaBeans-like field and it can be manipulated in the same way as regular JavaBeans are manipulated, using property editors and validators.
+
+To define managed beans, open the view that we created in the previous step and open the “Context” tab. Here, we can define managed beans, set the application's faces context, get the application's faces context, and change the application's faces context. ## Create Activities to Show Conditions and Commit Conclusion
+
+Now that we have set up the basic Facelet template, it is time to add logic. We can do this by creating activities that will show conditions and commit conclusion. We will define an activity to show “New Search” when the user clicks the “New Search” button. Another activity will show “Cancel” when the user clicks “Cancel”.
+
+An activity is a stateless, non-UI-driven, business process that executes outside the context of an HTTP request and is designed to orchestrate business process logic and/or utilize other services.
+
+In order to do this, open the view that we created earlier, choose the “Controls” tab, and choose “Insert View”. Select the “Activities” tab and select “New JavaServer Faces Activity”. In the “New JavaServer Faces Activity” dialog box, enter the name of the activity and select the method to trigger the activity. Click Finish to create the activity. ## Conclusion
+
+In this article, we went through what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA. We also discussed how to create Facelets, define managed beans, create activities, and concluded with a discussion about activities.

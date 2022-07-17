@@ -1,28 +1,58 @@
 ---
 title: The best coding plugins for developers
 createdAt: 2022-07-07T06:12:24.591Z
-updatedAt: 2022-07-07T16:41:49.813Z
+updatedAt: 2022-07-17T06:31:40.815Z
 category: coding
 ---
 
-There are a lot of great coding plugins out there for developers, but which ones are the best? Here are 10 of the best coding plugins for developers:
+## Code Runner
 
-1. JetBrains IntelliJ IDEA – This plugin is a must-have for Java developers, as it provides a powerful code editor with code completion, refactoring, and code analysis features.
+This is a really helpful plugin for JavaScript developers. Code Runner lets you run your JavaScript code right inside your text editor, so you can see how your code works without having to leave your editor to run it in a browser.
+This plugin is really helpful when you’re trying to debug code that’s not working correctly. Instead of having to jump between your code editor and a browser to see how the code changes when you use the debugger, Code Runner lets you see those changes instantly in your text editor.
 
-2. Eclipse IDE for Java Developers – This plugin is also a must-have for Java developers, as it provides an excellent development environment with many powerful features.
+## Double Check
 
-3. Apache Maven – This plugin is essential for developers who use Apache Maven for build automation and dependency management.
+If you work with code frequently, there’s a good chance you’ve forgotten to add a few semicolons or parenthesis or you’ve forgotten a bracket or two. These seemingly small mistakes can cause some serious problems down the road, especially when you’re trying to debug your code.
+That’s why it’s a good idea to install the Double Check plugin for your code editor. Double Check scans your code while you type and shows you any mistakes you’re making. It will even detect problems with your code that you didn’t know existed.
 
-4. Git – This plugin is essential for developers who use Git for version control. It provides a powerful graphical user interface for managing Git repositories.
+## Duet Display
 
-5. Jenkins – This plugin is essential for developers who use Jenkins for continuous integration and delivery. It provides a powerful web interface for managing Jenkins jobs and builds.
+Even if your team members are in the same room together, it can be helpful for one person to see what’s happening on another person’s computer screen. Using Duet Display, you can share the contents of your screen with another person’s computer instantly.
+Duet Display is not a video or audio call – it’s a plugin that uses your computer’s browser to share what’s on your computer screen with a remote computer. This plugin is helpful when you need to show someone how to do something on your computer but they aren’t physically with you.
 
-6. JUnit – This plugin is essential for developers who use JUnit for unit testing. It provides a powerful testing framework with many features.
+## ESLint
 
-7. Mockito – This plugin is essential for developers who use Mockito for mocking objects in unit tests. It provides a powerful mocking framework with many features.
+We’ve all worked with developers who have a really strict code formatting style. And we’ve also probably worked with people who aren’t concerned with how the code looks as long as it works.
+ESLint is a code linter that you can install in your code editor that will help you write code in the same format as your team members. This plugin will verify your code for syntax errors and potential problems like using too many curly brackets or forgetting to use a semicolon.
 
-8. Hamcrest – This plugin is essential for developers who use Hamcrest for assertion checking in unit tests. It provides a powerful assertion framework with many features.
+## Exposer
 
-9. FindBugs – This plugin is essential for developers who use FindBugs for static code analysis. It provides a powerful code analysis tool with many features.
+We all know that code doesn’t always get written perfectly the first time. Sometimes you have to make a change to code that already exists in your project. What happens if you need to change code in a file that’s several directories deep?
+Exposer is a code explorer that lets you navigate your project and find the file you need to change. You can search for a filename, partial or a variable name and this plugin will let you jump to the file in a split-screen explorer window so you can make your change.
+Exposer has a few other handy features, like being able to jump to a specific line of code so you don’t have to scroll through your project trying to find the right place to make your change.
 
-10. SonarQube – This plugin is essential for developers who use SonarQube for code quality management. It provides a powerful web interface for managing code quality metrics and issues.
+## #Task Runners: Tasks and Behaviors
+
+Task runners like Gulp, Grunt, and Webpack are incredibly helpful for automating the repetitive tasks you do while developing. You can use these task runners to do things like minify your CSS and minify and optimize your JavaScript.
+There are also plugins available that can help you add tasks and behaviors to your code editor. CodeWorld lets you set tasks and behaviors in your code editor and then have those features compiled into your build process.
+
+## GitPlus - Sync, Review and Deploy With Git
+
+Git is a powerful tool for managing code, but it can be difficult for developers to use.
+GitPlus takes the confusion out of Git so you can use it more effectively and efficiently. You can sync folders with remote servers, review the changes you’ve made recently and collaborate with your team members more easily.
+
+This plugin also allows you to use features like creating a branch and then merging it back into your main code branch and deploying your project live to a server with one simple click.
+
+## Grammarly Writing Tool
+
+Programming is a creative process and creativity is often associated with writing. Many programmers write code as if it were a written document.
+Grammarly can be helpful for any type of writer, but it can be especially helpful for programmers who write code. This plugin will check your code for grammar and syntax errors and make suggestions for how to improve your code’s readability and understandability.
+
+## LiveEditor – Real-time Coding Changes Previewer
+
+This is another helpful plugin for JavaScript developers. LiveEditor lets you change your code and see those changes instantly in the browser.
+You can also use this plugin to code with a team member who is remote. You can write the code in your editor and your partner can make changes to the code in their editor.
+
+When you’ve written the code, you can use LiveEditor to send it to your partner. They can then make changes to their code editor and send those changes back to you. This plugin makes it easier to code together remotely because you both see each other’s changes instantly.
+
+That’s a wrap for our list of the best coding plugins for developers. Hopefully you’ll find at least one of these plugins helpful in your day-to-day coding tasks. If you’d like to comment or recommend a plugin that we missed, we’d love to hear from you!

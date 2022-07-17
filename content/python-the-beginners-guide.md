@@ -1,14 +1,84 @@
 ---
 title: Python - The beginner's guide
 createdAt: 2022-07-09T06:18:34.396Z
-updatedAt: 2022-07-09T06:18:34.396Z
+updatedAt: 2022-07-17T06:52:28.022Z
 category: coding
 ---
 
-Python is a programming language with many characteristics, such as an intuitive syntax and powerful data structures, which can lead to efficient code. It's no wonder that this, as well as experienced developers, are benefitting. 
+## How to Install Python
 
-If you're new to Python, don't worry - the language is designed to be easy to read and write. In fact, one of Python's defining features is its readability. Python is also relatively simple, compared to other programming languages, which can make it a good choice for beginners. 
+Before diving into the details of the programming language, let’s start with how you can install Python on your computer. Like any other programming language, you can install Python on your computer. You can download the software from the official website of Python. You can also download it from any other trusted website.
 
-Of course, Python is not only a beginner's language. It's also used by some of the world's largest companies, including Google, Instagram, and Netflix. Experienced developers enjoy working with Python because it allows them to be productive and write code that is clear and maintainable. 
+Some of the most popular operating systems (OS) on which you can install Python are Windows, Mac OS X, and Linux. Once you have installed Python on your computer, you can write and run Python code directly from within the Python Integrated Development Environment (IDE) window.
 
-If you're thinking about learning Python, or if you're just curious about what the language has to offer, this guide is for you. We'll cover the basics of the language and its syntax, as well as some of the most popular Python libraries and frameworks. By the end of this guide, you'll have a good understanding of what Python is and how it can be used effectively.
+## What is Python?
+
+Developed in the 1990s, Python is a general-purpose, high-level programming language that can be used for a variety of applications, from web development to scientific computing. Because of its wide range of uses, Python is considered a “Swiss army knife” of programming languages. Python’s popularity has grown tremendously in recent years, and the language is now one of the most widely used in the world.
+
+According to the latest report of the TIOBE Index, the popularity of the Python programming language has increased by 2.47% compared to last month. Currently, the most widely used programming languages in the world are Java, with a share of 16.37%, C, with a share of 11.32%, and Python, with a share of 9.54%.
+
+## Data types
+
+An important aspect of any programming language is its data types, as they define how one can work with variables, functions, and all other elements of the language. Without data types, computer programs would be very limited in their functionality and usefulness. The following are some of the most common data types in Python.
+
+- Numbers: include integers (positive and negative numbers without a fractional part), real numbers (including decimals), and complex numbers (numbers containing imaginary components). Python also supports hexadecimal, octal, and binary numbers.
+
+- Strings: sequences of characters, including letters, numbers, and special symbols.
+
+- Lists: sequences of any data type, including other lists.
+
+- Dictionaries: two-dimensional tables that map unique keys to values.
+
+- Booleans: the only data type that can only have two values (true and false).
+
+## Operators
+
+Another important aspect of any programming language is its operators, which let you manipulate data and perform other operations. Python has a wide range of operators and supports most of the standard operators used in other programming languages. The following are some of the most common operators in Python.
+
+- Arithmetic operators: include addition ( + ), subtraction ( - ), multiplication ( * ), and division ( / ).
+
+- Comparison operators: include equality ( == ), inequality ( != ), greater than ( > ), less than (  ), greater than or equal to ( >= ), and less than or equal to ( = ).
+
+- Logical operators: include and ( && ), or ( || ), not ( ! ), and others.
+
+## Variables
+
+An important aspect of any programming language is its variables, as they let you store data in memory during the execution of a program, and they let you access this data at any time. You can write Python code to manipulate the data stored in variables, and you can also store your own data in them. There are two types of variables in Python: simple variables and complex variables.
+
+Simple variables are the simplest form of variables in Python. You must provide a name and a data type when defining a simple variable. The name cannot start with a number, and it must contain only letters, numbers, and underscores (_).
+
+## Strings
+
+Another important aspect of any programming language is its strings, which are sequences of characters. Python is a very powerful language; therefore, it offers many ways to manipulate strings. The following are some of the most common ways to manipulate strings in Python:
+
+- String concatenation: joining one string to another.
+
+- String iteration: reading through each character of a string.
+
+- String format: combining a string with a value (or values) to create a new string.
+
+- String slicing: extracting a portion of a string.
+
+## Lists and Dictionaries
+
+An important aspect of any programming language is its lists, as they let you group data items and operate on them as a group. Python supports many list-related operations, such as appending an item to a list, inserting an item into a list at a specified position, removing items from a list, and more. The following are some of the most common operations with lists in Python:
+
+- Creating lists: specifying the data items that a list should contain within square brackets.
+
+- Finding out the size of a list: counting the number of data items a list contains.
+
+- Finding out whether a list contains a specific data item: using the “in” keyword.
+
+- Finding out the location of a specific data item in a list: using the “index” keyword.
+
+## Functions
+
+An important aspect of any programming language is its functions, as they let you break your code into smaller, more manageable pieces and make your code easier to read and understand. You can write functions in Python in two ways: with “def” or “lambda”. The following are some of the most common ways to define functions in Python:
+
+- Using “def”: typing “def” followed by the name of the function and a colon (:).
+
+- Using “lambda”: typing “lambda” followed by a colon and the code of the function.
+
+## Conclusion
+
+Now that you have learned all about Python, you are ready to start learning how to code in Python. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. With this knowledge, you can dive into Python programming and start creating your own programs and applications.

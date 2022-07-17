@@ -1,56 +1,42 @@
 ---
 title: The best coding shortcuts for beginners
 createdAt: 2022-07-07T06:14:13.983Z
-updatedAt: 2022-07-07T16:41:50.049Z
+updatedAt: 2022-07-17T06:33:15.939Z
 category: coding
 ---
 
-Coding shortcuts are a great way to improve your productivity and efficiency when coding. Here are 10 of the best coding shortcuts for beginners:
+## Don’t Become Drowned In Details When Coding
 
-1. Use keyboard shortcuts.
+Programming is a detail-oriented craft, and if you are a beginner, you will likely become lost in the details. This is especially true if you try to learn every programming language or development environment as if you were studying for a degree.
+During your learning process, you’ll probably discover that even simple tasks are far more complex than you imagined. You’ll find that writing code can be a lot like solving a puzzle; you have to have the right pieces, put them in the right order, and use them in the right way to get the desired results.
+However, when you try to learn everything all at once, you’ll quickly become overwhelmed by the sheer mass of information. You will find it difficult to see the forest for the trees, and you won’t know where to start.
 
-There are many keyboard shortcuts that can save you time and help you be more productive when coding. Some of the most useful shortcuts include:
+## Master The Basics
 
-Ctrl + C to copy
-Ctrl + V to paste
-Ctrl + Z to undo
-Ctrl + Y to redo
-Ctrl + S to save
-2. Use code snippets.
+While it’s important to familiarize yourself with all of the different pieces and parts of programming, before you dive in and try to build a program from scratch, you should take the time to master the basics.
+As a beginner coder, it’s best to start with a simple language such as HTML or Python. You can also use a visual integrated development environment (IDE) such as scratch, which is designed for people just learning to code, so that you can focus on the basics without getting lost in the details.
+Once you’ve mastered the basics, you’ll be in a position to explore other languages and development environments. Until then, trying to do too much too soon will only lead to frustration.
 
-Code snippets are small pieces of code that can be reused in different situations. Using code snippets can save you a lot of time and help you avoid mistakes.
+## Mastering Typing Shortcuts
 
-3. Use a code editor with autocomplete.
+When you’re coding, you’ll come across all sorts of shortcuts. These are special sequences of keystrokes that let you execute a command using less typing. You can master the art of coding by learning as many shortcuts as you can. You’ll be able to type faster and more accurately, and you’ll save a lot of time and energy in the process.
+You might think that not knowing shortcuts will not affect your coding ability, but you’d be surprised. If you are not using shortcuts, you’ll spend time going back and retyping parts of your code that you missed the first time around. If you learn shortcuts, you’ll be able to type faster, which means you’ll be able to test your program more quickly. You’ll also be able to catch any mistakes you make more quickly, which is an important thing to keep in mind as a beginner coder.
 
-Autocomplete is a feature that suggests possible code completion options as you type. Using a code editor with autocomplete can save you time and help you avoid mistakes.
+## Use an Integrated Development Environment
 
-4. Use a linter.
+If you plan to spend much time coding, you should choose an integrated development environment (IDE) that best fits your needs. An IDE is basically a program that helps you write code, design programs, and test your code.
+An IDE can make the entire process of coding easier by providing you with a built-in code editor, debugging tools, visualizations, and more.
+You’ll want to choose an IDE that lets you program in the language you are studying, has an extensive code library, and offers various visualizations and debugging tools.
+If you can, test out different IDEs with a simple program to make sure it’s ideal for you before you spend lots of time coding.
 
-A linter is a tool that checks your code for errors. Using a linter can save you time and help you avoid mistakes.
+## Go Pro With Vim Shortcuts
 
-5. Use a version control system.
+If you want to go pro with your coding, you should learn a few Vim shortcuts. Vim is a code editor that lots of programmers use, and Vim shortcuts can really speed up your workflow and help you write code more efficiently.
+Vim has a seemingly endless list of shortcuts, and it can be hard to navigate through them all. That’s why you should check out the Vi Cheat Sheet.
+If you’re just getting started, it’s best to only focus on a few of the most common and helpful shortcuts. Once you’re comfortable with those, you can explore some of the others.
+For example, if you’re coding in Python, you can use a shortcut to run your program, search for a specific piece of code, or write a piece of code, among other things.
 
-A version control system is a tool that allows you to track changes to your code over time. Using a version control system can save you time and help you avoid mistakes.
+## Conclusion
 
-6. Use a debugging tool.
-
-A debugging tool is a tool that helps you find and fix errors in your code. Using a debugging tool can save you time and help you avoid mistakes.
-
-7. Use online resources.
-
-There are many online resources that can help you learn how to code faster and be more productive. Some of the best resources include:
-
-Stack Overflow
-Codecademy
-Udemy
-8. Use coding bootcamps.
-
-Coding bootcamps are intensive, immersive programs that teach you how to code in a short period of time. Coding bootcamps can be a great way to learn how to code quickly and be more productive.
-
-9. Use online courses.
-
-Online courses are a great way to learn how to code at your own pace. There are many online courses that can help you learn how to code quickly and be more productive.
-
-10. Hire a tutor.
-
-If you want to learn how to code quickly and be more productive, hiring a tutor can be a great option. A tutor can help you learn how to code faster and be more efficient.
+The road to becoming a successful coder is long, and the path isn’t always straightforward. However, if you are dedicated to your craft, you’ll make progress. With that in mind, you should keep in mind the most important tips for beginners: don’t become drowned in details, master the basics, master typing shortcuts, and use an IDE.
+Once you’ve mastered these tips and tricks, you’ll be well on your way to becoming a pro coder.

@@ -3,37 +3,35 @@ import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
 import axiosRetry from "axios-retry";
 
-export class Writesonic {
-  private client = axios.create({
-    baseURL: "https://api.writesonic.com/v1/business/content",
-    headers: {
-      accept: "application/json",
-      "X-API-KEY": "7bfde6b2-3a26-402b-9808-3f84640fadd4",
-      "Content-Type": "application/json",
-    },
-    params: {
-      end_user_id: "idarase@gmail.com",
-      engine: "business",
-      language: "en",
-    },
-  });
-  private cache = new CacheService();
+const client = axios.create({
+  baseURL: "https://api.writesonic.com/v1/business/content",
+  headers: {
+    accept: "application/json",
+    "X-API-KEY": "7bfde6b2-3a26-402b-9808-3f84640fadd4",
+    "Content-Type": "application/json",
+  },
+  params: {
+    end_user_id: "idarase@gmail.com",
+    engine: "business",
+    language: "en",
+  },
+});
 
-  constructor() {
-    axiosRetry(axios, {
-      retries: 3,
-      retryCondition(error: any) {
-        console.log("RETRY HERE");
-        return error?.status >= 500;
-      },
-      retryDelay: (retryCount) => {
-        return retryCount * 1000;
-      },
-      onRetry(_, error: any) {
-        console.warn(`Request to ${error.request.url} failed, retrying...`);
-      },
-    });
-  }
+axiosRetry(client, {
+  retries: 3,
+  retryCondition(error: any) {
+    return error?.response?.status >= 500;
+  },
+  retryDelay: (retryCount) => {
+    return retryCount * 1000;
+  },
+  onRetry(_, error: any) {
+    console.warn(`Request failed, retrying...`);
+  },
+});
+
+export class Writesonic {
+  private cache = new CacheService();
 
   private generateIntro = async ({
     title,
@@ -43,7 +41,7 @@ export class Writesonic {
     this.cache.fetch(
       stringToHash(JSON.stringify({ title })),
       () =>
-        this.client
+        client
           .post("/blog-intros", {
             blog_title: title,
           })
@@ -70,7 +68,7 @@ export class Writesonic {
     this.cache.fetch(
       stringToHash(JSON.stringify({ title, intro })),
       () =>
-        this.client
+        client
           .post("/blog-outlines", {
             blog_title: title,
             blog_intro: intro,
@@ -101,7 +99,7 @@ export class Writesonic {
     this.cache.fetch(
       stringToHash(JSON.stringify({ title, intro, outlines })),
       () =>
-        this.client
+        client
           .post("/ai-article-writer-v3", {
             article_title: title,
             article_intro: intro,

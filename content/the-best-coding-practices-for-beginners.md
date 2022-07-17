@@ -1,42 +1,30 @@
 ---
 title: The best coding practices for beginners
 createdAt: 2022-07-07T06:13:51.726Z
-updatedAt: 2022-07-07T16:41:50.005Z
+updatedAt: 2022-07-17T06:32:58.614Z
 category: coding
 ---
 
-Coding is a process of transforming computer instructions into a form a computer can understand. It is a process that started with manual coding to create useful, small programs to solve simple problems. Those days are gone. The modern-day coder has at their disposal an amazing suite of tools that allow them to create comprehensive solutions and systems.
+## Use meaningful variable names
 
-However, with great power comes great responsibility. The coder must use their powers for good and not for evil. In this article, we will explore some of the best coding practices for beginners. These practices will help you write clean, maintainable, and scalable code.
+One of the most important best practices for beginners is to use meaningful variable names. This may sound silly since the code is only visible to you, but you’ll be surprised at how much easier it will be to understand your code when you use descriptive variable names. For example, say you want to track the number of times a user clicks a button. You could name that variable something like “bClicks”, but that doesn’t really convey what the variable is used for. Instead, you could name that variable “clicks” and write a sentence about what the variable is being used for. You might say “tracks the number of times a user clicks a button”. That way, when you go back to your code months later, you’ll be able to understand what’s going on more easily.
 
-1. Write readable code
+## Comment your code
 
-One of the most important coding practices for beginners is to write readable code. This means code that is easy to understand and follow. When your code is easy to read, it is also easier to maintain and debug. There are a few things you can do to make your code more readable:
+Comments are lines of code that won’t be executed but are intended to provide more information about what’s happening in your code. Comments are one of the best practices for beginners who are learning to code. Every time you write code you should include a comment that describes what that code is doing. You’ll find that as you work through more advanced coding projects, you’ll be able to look back at your code and understand what’s happening more easily if you’ve used comments to explain everything.
 
-• Use clear and concise variable and function names: Avoid using single-letter variable names (i.e. x, y, z) or generic names (i.e. temp, data, info). Use names that describe what the variable or function contains or does.
+## Only use English in your code
 
-• Use white space: Use blank lines and indentations to group related code together and make your code easier to scan.
+Coding isn’t just about writing syntax or using loops and loops. It’s also about writing logic that computers can understand. When you write code, you’re writing a set of instructions that a computer can execute. For example, if you want to enable a feature, you can write code that says “if a user has a certain payment method, then enable that payment method.” These instructions are meant to be read and understood by a human, but they’re also meant to be read and understood by a computer. At the same time, there are certain things that are specific to the computer – things like the names of variables, loops, and functions. For example, the computer needs to know what “clicks” means, so you have to write that in code. But when you’re writing the code, you don’t want to use words that are specific to a human. You want to use words that are specific to the computer. When you write code, you can only use words that the computer understands. You can’t use any words that are specific to humans. That’s why when you write code, you have to only use English. You can’t use any other languages like Spanish, French, or Chinese.
 
-• Use comments: Comments are your friends. Use them to explain what your code is doing. This will be helpful to you when you come back to your code later and it will also help others who may need to work with your code.
+## Always use const unless you have a good reason not to
 
-2. Write modular code
+Constants are values that you don’t want to change, so you declare them as a constant. This lets the computer know that this value won’t change over time, so it can make some calculations easier. When you’re learning how to code, you’ll find that you’ll use constants quite often. You’ll use them for things like the number of days in a month, the number of hours in a day, or any other value that you know won’t change. When you’re first learning how to code, it’s important to always use const unless you have a good reason not to. The only time you would not use const is if you wanted a value to change over time. For example, if a button needs to change colour over time, you wouldn’t use a constant. If a number needs to change depending on what someone inputs, you wouldn’t use a constant. You would always use a constant unless you have a good reason not to.
 
-Modular code is code that is organized into small, self-contained modules. This is in contrast to monolithic code which is one large block of code with no clear boundaries between different parts of the code. Modular code is easier to understand, maintain, and reuse.
+## Make sure to stay on top of current programming practices and languages
 
-There are a few things you can do to write modular code:
+One of the best practices for beginners who are learning to code is making sure to stay on top of current programming practices and languages. Some languages, like Python, have been around for decades, while others like Rust are brand new. Some languages are trending upwards in popularity, while others are declining. No matter which language or programming practices you decide to learn, it’s important to keep on top of what’s happening in the industry. You never know when a programming skill will come in handy! You also don’t want to be caught off guard if a potential employer asks you about your knowledge of certain languages or practices. Keep an eye on industry publications for new programming languages and trends, and make sure to follow industry leaders on social media. This will help you stay up to date with everything that’s happening in the industry and make sure that you’re prepared for whatever the future may hold!
 
-• Keep your functions short: A good rule of thumb is to keep your functions to less than 10 lines of code. If you find yourself writing longer functions, consider breaking them up into smaller functions.
+## Conclusion
 
-• Avoid global variables: Global variables can be accessed and modified from anywhere in your code. This can lead to unexpected results and make your code difficult to debug. Instead, use local variables which are only accessible within the function they are defined in.
-
-• Avoid side effects: Side effects are changes in state that occur as a result of running a function. For example, a function that modifies a global variable has a side effect. Side effects can make your code difficult to understand and debug. Instead, try to write functions that only return a value and don’t have any side effects.
-
-3. Write testable code
-
-Testable code is code that can be easily tested to ensure it is working as expected. This is important because it allows you to catch bugs early and avoid costly mistakes. There are a few things you can do to make your code more testable:
-
-• Keep your functions small: Smaller functions are easier to test than large functions.
-
-• Avoid side effects: As we mentioned before, side effects can make your code difficult to test. Instead, try to write functions that only return a value and don’t have any side effects.
-
-• Isolate dependencies: Dependencies are external resources that your code relies on, such as databases or web services. Isolating dependencies makes your code easier to test because you can mock or stub out the dependencies instead of having to rely on the real thing. This allows you to test your code in isolation without worrying about the dependencies.
+As you can see, there are a lot of important best practices that you should follow as a beginner learning to code. It can seem overwhelming at first, but if you follow these best practices, you’ll be well on your way to becoming a successful coder!

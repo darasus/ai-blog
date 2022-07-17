@@ -1,20 +1,41 @@
 ---
 title: Go language for functional programming
 createdAt: 2022-07-09T06:31:36.434Z
-updatedAt: 2022-07-09T06:31:36.434Z
+updatedAt: 2022-07-17T07:18:05.854Z
 category: coding
 ---
 
-Functional programming is a programming paradigm that emphasizes the evaluation of functions rather than the execution of commands. It is a declarative programming style that is often used in mathematical and logical programming. Functional programming languages are often based on the lambda calculus, which is a formal system for representing and manipulating functions. The lambda calculus was developed by Alonzo Church in the 1930s as a way to describe the process of computation. Church's work on the lambda calculus laid the foundation for the development of functional programming languages.
+## Haskell
 
-The first functional programming language was LISP, which was developed in the late 1950s. LISP is still in use today, and it has been influential in the development of other functional programming languages. Scheme, another functional programming language, was developed in the 1970s. Scheme is a dialect of LISP, and it is used in many universities as an introductory programming language.
+Haskell is a pure functional programming language developed in the 1970's. A lot of modern functional programming languages have been inspired by Haskell, including Scala and Clojure.
+The biggest advantage to using Haskell for your next project is that you can scale that project to huge sizes without needing to change your programming language. Haskell is used for all kinds of large-scale projects, from web services to artificial intelligence research.
+The main reason for this is that the language has a strong, static type system. This means that the compiler can basically check your code at the level of "does this code even make sense?" This makes it much easier to catch bugs early in the process and prevent them from making it into production.
+Haskell also has a reputation of being a difficult language to learn, but once you are fluent, it will give you the power to build nearly anything.
+## Scale
 
- Haskell is a pure functional programming language that was developed in the 1990s. Haskell is based on the lambda calculus, and it is widely used in research and industry. Haskell has a strong type system, and it is known for its elegant syntax.
+Scale is an emerging functional programming language that aims to make it easy to write distributed, high-performance systems. The language currently targets the JVM and aims to run on the browser in the future.
+The advantages of Scale include the fact that it is a compiled language, which makes it perform faster than some other functional programming languages. It also has a strong type system, which makes it easier to write correct code.
+While Scale is still relatively new, it has a small but enthusiastic community and can run on a number of different backends which gives it lots of potential for future growth and use cases.
 
-Erlang is a functional programming language that was developed by Ericsson in the 1980s. Erlang was designed for concurrent and distributed systems. Erlang is used in many large-scale systems, such as WhatsApp and Facebook Messenger.
+## Clojure
 
-Scala is a hybrid functional programming language that combines features of both object-oriented and functional programming. Scala was developed by Martin Odersky in the early 2000s. Scala is used by many companies, including Twitter, LinkedIn, and Netflix.
+Clojure is a general-purpose programming language that is also widely used for functional programming. The language was created in 2007 by a member of the Lisp community, and it runs on the JVM and also in browser environments.
+Clojure is a dialect of Lisp, meaning that it has a lot in common with other Lisp programming languages. However, it’s also a modern language that has been designed to make it easy to use for modern projects.
+Clojure has a number of advantages for functional programming, including a flexible syntax and the ability to run on multiple platforms. It also has a large and growing community that makes it easy to find answers to questions about the language.
 
-Clojure is a dialect of LISP that was developed by Rich Hickey in the early 2000s. Clojure is a dynamic, functional programming language that runs on the Java Virtual Machine. Clojure is used by many companies, including Walmart and Amazon.
+## CoffeeScript
 
-Elixir is a functional programming language that was developed by Jose Valim in the early 2010s. Elixir is based on the Erlang VM, and it runs on the BEAM virtual machine. Elixir is used by many companies, including Discord and Slack.
+CoffeeScript is a little-known programming language that was designed to make it easier to write in the functional programming style. It has since evolved to support OOP and is used primarily for web-based projects.
+CoffeeScript was created in 2009 by a programmer named Jeremy Ashkenas. It was originally meant to be a way to write JavaScript in a more readable fashion, but it has evolved over the years to support functional programming as well.
+CoffeeScript still has some limitations as a functional programming language, but it is a great option for projects that need to run on the browser or be compatible with JavaScript. It is also easy to learn and has a small but growing community around it, which makes it easy to find help if necessary.
+
+## Prologue
+
+Functional programming is a growing trend in software development, but the languages that support this style of programming aren’t always easy to learn. Not only that, but there are many functional languages out there, many of which have somewhat similar features. This can make it difficult to choose which one will be the best fit for your project.
+CoffeeScript and Scale are fairly easy to learn and make it easy to adopt functional programming into your workflow. However, if you are looking for something that is more like a traditional Lisp, then Clojure might be a better option for you. And if you want to use a language that is as close to a real programming language as possible, then you should try Haskell.
+
+## Conclusion
+
+Functional programming is an approach to writing code that has become increasingly popular in recent years. It can help make code easier to read and understand, and it can also make certain types of projects easier to write.
+
+There are many functional programming languages out there, each with its own strengths and weaknesses. To choose the right one for you, you should consider your preferences for syntax, size of community support, and availability of libraries for the type of projects you are working on now or might work on in the future.

@@ -1,16 +1,36 @@
 ---
 title: Go language for data science
 createdAt: 2022-07-09T06:29:13.269Z
-updatedAt: 2022-07-09T06:29:13.269Z
+updatedAt: 2022-07-17T07:16:54.513Z
 category: coding
 ---
 
-Data science is a field of study that combines scientific methods, processes, and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.
+## What is Go?
 
-The Go programming language was created by Google in 2009. It is a statically typed, compiled language with garbage collection, memory safety, and structural typing. The language was designed to be easy to read, write, and maintain.
+Go is an open source programming language that was designed by Google engineers in 2009. It aims to solve the problems of large software projects, such as code maintenance and scalability, that developers faced when working in other languages. Go’s high-level standard libraries, designed for general-purpose programming, are easy to understand and follow standardized conventions. This makes it easy to read and understand other developers’ code. It also makes it easier to write quality code that is clear and concise.
 
-Go is an excellent choice for data science projects for a number of reasons. First, it is a fast language that can handle large amounts of data quickly. Second, it has excellent support for concurrent programming, which is important for data science applications that need to process data in parallel. Third, Go has good support for networking and I/O, which is important for data science applications that need to interact with databases or other services. Finally, Go is a free and open source language with a large and active community.
+Go has a static type system with no explicit types. This makes the language less error-prone, as it can catch bugs that might otherwise have gone unnoticed. A static type system is also helpful when integrating Go with other languages, as it can check and understand types from other languages. Go also has a very fast compilation time, making it a good choice when you need to deploy code often. It can also run on many different platforms, including Windows, Linux and macOS.
 
-There are a number of Go libraries and frameworks that can be used for data science projects. The most popular library for data science in Go is the gonum/mat64 package, which provides a wide variety of numerical methods for linear algebra, statistics, and more. Other popular libraries include the go-sqlite3 database driver and the gocv computer vision library.
+## Good for Data Science Beginners
 
-In conclusion, Go is an excellent choice for data science projects due to its speed, concurrency support, networking and I/O support, and large community.
+One of the reasons for data scientists to choose Go over other languages is its simplicity and straightforward syntax. This is a plus for new data scientists who are not used to writing code in other languages. A simpler language means less focus on syntax and more focus on the actual analysis. New data scientists can get up-and-running fast and focus on the important stuff.
+
+Go is also a compiled programming language and not a scripting language, like Python. This means that it is converted into machine code, which can run very fast. This is very helpful for data scientists who often work with large datasets, since it can process them much faster than a scripting language like Python.
+
+## Good for Engineers and Data Scientists
+
+Engineers who are familiar with programming in Go will be able to easily understand code written by other engineers who use it. This is an important benefit that makes it easier to collaborate across teams. It also makes it easier to onboard new engineers who can focus on the functionality of the code and not try to learn the language itself.
+
+Another reason why engineers and data scientists would choose Go is the fact that it can be used in many different fields. This makes it a versatile language that can be used with different tools and solutions.
+
+## Good for Fast Continuous Deployment
+
+Continuous Deployment, which means releasing new software on a very frequent basis, is the norm in modern software development. It has been proven that releasing more often is better for customer satisfaction and managing bugs. With Go, you can release code faster, since compilation is very quick and code changes are automatic. The fact that Go is compiled is also a positive, since compiled languages are generally faster than scripting languages.
+
+## Good for Collaboration and Sharing
+
+Since Go is statically typed and compiled, it is very easy to share libraries and code between developers. This is helpful when you have a data science team that needs to collaborate a lot, since it is easier to understand and use other people’s code. It is also easier for other teams to use your code, since it is available as a library.
+
+## Summary
+
+Go is a compiled language that is designed for general-purpose programming. It was created and designed by Google engineers, who wanted to solve the problems of large software projects, like code maintenance and scalability. One of the reasons why data scientists would choose Go is its simplicity and straightforward syntax. This is a plus for new data scientists who are not used to writing code in other languages. Go is also a compiled language and not a scripting language, like Python. This means that it is converted into machine code, which can run very fast. This is very helpful for data scientists who often work with large datasets. Engineers and data scientists who are familiar with programming in Go will be able to easily understand code written by other engineers who use it. This is an important benefit that makes it easier to collaborate across teams. Go is also versatile and can be used in many different fields, making it a useful language that can be used with different tools and solutions.
