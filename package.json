@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "generate-articles": "esno ./scripts/generate-articles.ts",
-    "generate-articles-v2": "esno ./scripts/generate-articles-v2.ts"
+    "generate-articles-v2": "esno ./scripts/generate-articles-v2.ts && yarn generate-sitemap",
+    "generate-sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
   },
   "dependencies": {
     "api": "^4.5.1",
