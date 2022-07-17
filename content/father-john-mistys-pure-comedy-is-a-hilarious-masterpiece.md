@@ -1,48 +1,64 @@
 ---
-title: "\"Father John Misty's 'Pure Comedy' is a Hilarious Masterpiece\""
+title: Father John Misty's 'Pure Comedy' is a Hilarious Masterpiece
 createdAt: 2022-07-08T05:59:35.853Z
-updatedAt: 2022-07-17T15:00:32.003Z
+updatedAt: 2022-07-17T18:30:16.019Z
 category: culture
-summary: Pure Comedy is an ambitious, wide-ranging statement that is
-  well-conceived, deftly executed and persistently compelling. The songs are
-  wonderfully varied and sonically expansive, thanks to the assistance of
-  producer Jonathan Wilson, and the lyrics are consistently incisive and
-  insightful. The music, on the other hand, reflects the chaos of an existence
-  driven by consumerism, vanity, and instant gratification. The album opens with
-  the sound of a cash register and a voice intoning, “Welcome to the comedy
-  show.” It’s a multi-genre parade of human absurdity.
-intro: It’s hard to know what to expect from Father John Misty. It’s not that J.
-  Tillman can’t be trusted to deliver an album full of his trademark wry, barbed
-  and acutely self-aware commentary; quite the opposite. It’s just that Tillman
-  has become so adept at subverting expectations that it feels like anything
-  could happen next. The peak of this particular Tillman arc came on the third
-  track of his second album as Father John Misty – “Holy Hell” – when he
-  introduced himself as a “self-loathing monk,” with “an unfortunate addiction
-  to cheap prose and even cheaper women…a meanspirited, sex-addicted martyr.”
-  That was 2015, though; since then, he married and divorced comedian and
-  podcaster Golightly (aka New York-based singer-songwriter Megan "Meg" Good) in
-  a ceremony officiated by their mutual friend Kurt Vile (and documented in a
-  subsequent video series). Not exactly something you’d expect from the guy who
-  recorded an infamous acoustic version of Taylor Swift's "Blank Space," but
-  there you have it.
+summary: Pure Comedy is almost 50 minutes long and features 16 tracks. Most of
+  the songs are soft and easy-going, almost like a lullaby. The album title is
+  such a bold statement that it serves as a perfect introduction to the record.
+  There are a lot of serious moments throughout the album, and one of the most
+  poignant is Lonely-Ass Eden. The darkest moment is When the Comedy’s Over,
+  which is perhaps the darkest moment on the album. It is both humorous and
+  chilling and perfectly captures the tone of the album as well as the tone.
+intro: >-
+  Father John Misty’s new album, Pure Comedy, comes at you fast and furious
+  in its opening moments. The title track opens the record with a mock-operatic
+  explosion of strings and piano that is as grandiose and sarcastic as anything
+  this singer-songwriter has released to date. It’s as if Father John Misty (aka
+  Josh Tillman) is speaking directly to us, the listener, right from the
+  beginning: pure comedy indeed. 
+
+  It’s a brilliant move on Tillman’s part to open an album with such a statement piece, because it sets the tone for what is to follow. Pure Comedy continues with a theatrical bombast that feels more inspired by Broadway than indie rock; there are even snippets of voiceover scattered throughout to help drive home Tillman’s point. But what exactly is his point? That human existence is absurd? Yes, that too. And also something about being terrified of artificial intelligence taking over the world (and rightfully so). 
+
+  This might all sound like some heavy stuff for a Father John Misty record, but trust us – it only gets heavier from here.
 ---
 
-## The best album of 2017?
+## A Comedy of Errors
 
-Pure Comedy is a hilarious masterpiece. It’s an ambitious, wide-ranging statement that is well-conceived, deftly executed and persistently compelling. The songs are wonderfully varied and sonically expansive, thanks to the assistance of producer Jonathan Wilson, and the lyrics are consistently incisive and insightful. But most impressively, this album is unapologetically funny. It’s dark, but not grim. It’s cynical, but not hopeless. It’s dramatic, but not overwrought. It’s clever, but not glib. It’s satirical, but not mean. It’s nuanced, but not pedantic. It’s insightful, but not pretentious. It’s critical, but not condemning. It’s challenging, but not didactic. It’s thoughtful, but not detached.
+Humor is always a tricky thing to discuss, but it’s especially difficult to pin down in music, since it’s so subjective. Everyone has their own idea of what is and isn’t humorous in music, and honestly, that’s what makes it great. With that in mind, we want to start by saying that Pure Comedy is an album full of hilarious moments. There are a lot of ridiculous scenarios painted throughout this record, many of which are undoubtedly hilarious in their absurdity.
 
-## A multi-genre parade of human absurdity
+That being said, we think the most humorous aspect of Pure Comedy is the fact that Tillman named the album Pure Comedy. The title is just so ridiculous and over-the-top; it’s the comedic equivalent of naming a movie The Greatest Film Ever Made. The album title is such a bold statement that it again serves as a perfect introduction to this record. It’s so silly and over-the-top that it’s impossible not to laugh.
 
-Father John Misty has the unique ability to make the absurd seem real and the real seem absurd. His lyrics speak with incisive clarity about the absurdity of modern life. The music, on the other hand, reflects the chaos of an existence driven by consumerism, vanity, and instant gratification. It’s a multi-genre parade of human absurdity. There’s country, there’s folk, there’s pop, there’s rock, there’s rhythm and blues, there’s jazz, there’s no wave, there’s electro-funk and there’s even a little hardcore. And somehow it all makes sense. The album opens with the sound of a cash register and a voice intoning, “Welcome to the comedy show.”
+## The Art of Idling
 
-## It’s an ambitious, wide-ranging statement
+Throughout the record, Tillman is also critical of the way people spend their time. While the tracklist paints a picture of the human race as a group of anxious, fearful beings, the music itself is often quite soothing. Most of the songs are soft and easy-going, almost like a lullaby. We’re not saying that lulling oneself to sleep is a bad thing, but there’s also nothing particularly productive about simply idling away one’s time.
 
-Father John Misty (aka former Fleet Foxes drummer-turned-singer-songwriter J. Tillman) has become the master of the catchy, scathing one-liner. He combines this with an expansive, exploratory and thoroughly contemporary sonic palette that’s not unlike what you’d hear on an LCD Soundsystem album. But where that band’s James Murphy might be content to let a single idea simmer for three or four minutes, Tillman is a more expansive and exploratory writer. Each song on this album is its own mini-concept album, but each one also contributes to the larger narrative arc that runs through the album. It’s an sprawling, ambitious, wide-ranging statement that is unrelenting in its pursuit of clarity.
+There’s also a strong element of irony to the way Pure Comedy is constructed. The record is almost 50 minutes long and features 16 tracks, so it’s definitely not short. Yet, many of these songs are rather easy-going and lack the intensity one might expect from a record this long. In this way, the album almost feels like a satire of the way pop music is constructed.
 
-## It’s a challenging, thoughtful and nuanced album
+## Hangout at the End of the World
 
-Father John Misty is playful, but not frivolous; challenging, but not pedantic; thoughtful, but not detached; critical, but not condemning; nuanced, but not pedantic. This album is also funny, but not glib; dramatic, but not overwrought; and satirical, but not mean. It’s an enjoyable and entertaining listen, but it’s also a challenging, thoughtful and nuanced album.
+Humans are an anxious bunch, and a large part of that anxiety stems from the way we consume our news. We’re constantly being fed information about what is happening in the world and being asked to react to it, but what if we don’t have the time or energy to process it all? What if we’re just too busy dealing with our own personal problems to care about the next election or refugee crisis?
+
+This is the sentiment explored in Hangout at the End of the World. It’s a tongue-in-cheek song that uses some exaggerated imagery to explore the idea that we all just need to calm down and relax a bit. It’s a message that is as relevant today as it was when the song was written.
+
+## Just a Normal Day
+
+On the other end of the spectrum, Just a Normal Day is a satirical take on the idealistic way we view our lives. We often look back on past days and wish we could be living in that moment again, but the truth is that most days are normal and average.
+
+The lyrics to Just a Normal Day paint a picture of a day that is so ordinary, so normal, that it’s almost boring. On paper, it’s not a particularly interesting or special day, but Tillman makes us wish we could experience it for ourselves. He makes us wish we could have a day that is so mundane and normal because there’s nothing better than a normal day.
+
+## Lonely-Ass Eden
+
+While the tracklist of Pure Comedy is littered with humorous moments, there are also a lot of serious themes explored here. People are not just idling away their time; they’re also consumed with fear and anxiety. There are a lot of serious moments throughout the album, and one of the most poignant is Lonely-Ass Eden.
+
+This is the sort of song that is as much about what is said as it is about what is not said. There are a lot of general statements and vague references made, but there’s also a distinct lack of specifics. This song is as much about what it doesn’t say as it is about what it does say, and we think that’s very clever.
+
+## When the Comedy’s Over
+
+Finally, Tillman ends the record with the track When the Comedy’s Over, which is perhaps the darkest moment on the album. This song talks about the way we perceive the universe and how we’re all trapped in our own bubbles. It’s a cynical take on the universe that again uses imagery that is both funny and a bit frightening.
+
+This song is definitely the most dramatic moment on Pure Comedy, and it’s a great way to wrap up the record. It’s both humorous and chilling, and it perfectly captures the tone of the album as a whole.
 
 ## Conclusion
 
-This is an album that demands to be listened to all the way through, and demands to be heard with attention and focus. And yet it’s also an album that rewards repeated listens. It’s the rare album that feels like a breath of fresh air upon first listen, but then becomes something even more significant upon subsequent listens. This is an album that will stand the test of time, and that will only grow in significance and stature with each successive year.
+To put it simply, Father John Misty’s new record, Pure Comedy, is a hilarious masterpiece. It’s a record that manages to be funny and depressing all at once, which is a really difficult thing to do. The album is beautifully constructed and masterfully written, and it’s an easy contender for the best album of 2017. If you’re not laughing, you’re probably crying, and that’s precisely the effect Father John Misty intended.

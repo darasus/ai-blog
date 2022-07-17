@@ -1,50 +1,59 @@
 ---
-title: "\"A-Trak's 'In My Feelings' Is a Summer Bop You Need in Your Life\""
+title: A-Trak's 'In My Feelings' Is a Summer Bop You Need in Your Life
 createdAt: 2022-07-08T05:58:32.429Z
-updatedAt: 2022-07-17T15:00:31.975Z
+updatedAt: 2022-07-17T18:30:11.195Z
 category: culture
-summary: A-Trak's latest track, "In My Feelings," is a catchy pop tune about the
-  feelings we get when love is in the air. It features vocals from Santigold and
-  collaborator AFEND, and is an upbeat track with a cool island vibe. The
-  tropical vibe of the track is a perfect fit for the Caribbean, a region that
-  has inspired many a track. It's the perfect song to enjoy with a date of your
-  own or with someone you're hoping to meet.
+summary: The Shiggy dance craze is based on a single dance move, based on the
+  lift-up-one-foot-and-hop-on-the-other-foot move. The dance is easy to learn,
+  requires no real skill and can be silly and ridiculous. Celebrities from Cardi
+  B to Will Smith have been dancing to this silly song. It's a great excuse to
+  get out of your house and enjoy some fresh air, too. It is also a way to
+  embrace your creativity and show off your personality.
 intro: >-
-  A-Trak is back with something new. The Canadian DJ has been filling our
-  ears with dope beats for over 20 years, from his early days as a member of the
-  punk band Hellfyre Club to his most recent gig as global ambassador for
-  Reebok. But his latest release might be his catchiest track yet, one that he
-  worked on last year during a summer trip to Greece. 
+  The Internet has been on fire with talk about the latest dance craze
+  sweeping the nation: The Shiggy. Thanks to social media stars like Instagram
+  comedian Shiggy, the “In My Feelings” challenge has taken off with a viral
+  fervor. But what is it exactly? Is it a dance? A game? An unhinged social
+  experiment?
 
-  A-Trak's latest song, "In My Feelings," is a catchy pop tune about the feelings we get when love is in the air. Featuring vocals from Santigold and collaborator AFEND, it's an upbeat track with a cool island vibe — perfect for listening while cruising down the coast or spending time on the beach. Listen below and read on to see what inspired A-Trak to create this summer jam.
+  Perhaps all of these things. Let’s break it down. 
+
+  The “In My Feelings” challenge basically involves someone standing in a public place and dancing along to Drake’s new song, “In My Feelings.” If they are not at home or in their own car, they will have to record this dance and post it online for all their followers to see. It is essentially just an excuse for people to shirk their responsibilities and have fun. Nothing wrong with that!
 ---
 
-## Why we're so obsessed with Drake's 'In My Feelings' right now
+## What you need to know about the Shiggy
 
-Drake's "In My Feelings" challenge is a craze that has taken over social media in recent weeks, inviting people to dance and lip-sync to the track while standing on their cars. It even inspired the mayor of New York City to get in on the fun, and it's something that has taken over our Instagram feeds — making it the perfect song to sing along to this summer.
+The first thing you need to know about the Shiggy is that it is named after Shiggy. Who is Shiggy? Shiggy is a comedian who found fame on Instagram for his hilarious videos. Shiggy used to be a dancer, and he can still be seen on Instagram dancing with his shirt off.
+For this dance craze, people are referring to his viral dance in the “In My Feelings” music video. He is the guy who climbs out of a window, grabs onto a branch and then launches back into the house while Drake raps, “Keke, do you love me?”
+The Internet is always up for being silly and having a good laugh, and Shiggy’s hilarious dance is the perfect material for such shenanigans.
 
-The "In My Feelings" challenge is a craze that has taken over social media in recent weeks, inviting people to dance and lip-sync to the track while standing on their cars. It even inspired the mayor of New York City, Bill De Blasio, to get in on the fun, and it’s something that has taken over our Instagram feeds — making it the perfect song to sing along to this summer.
+## How to do it: The Shiggy Dance Breakdown
 
-## The story behind A-Trak's new track, 'In My Feelings'
+The Shiggy dance is actually very simple. All you do is get out of your car and lift up one of your feet while keeping the other planted firmly on the ground. Then, while keeping your head down and your eyes on the planted foot, you hop on your lifted foot. Hop back down. Then hop back up again. It is that simple.
+In the “In My Feelings” music video, Shiggy’s dance is actually more complex than that. He does the simple lift-up-one-foot-and-hop-on-the-other-foot move, but he also does some sort of leg flailing that makes the dance a little more hectic.
 
-A-Trak's latest track, "In My Feelings," is a catchy pop tune about the feelings we get when love is in the air. It features vocals from Santigold and collaborator AFEND, and is an upbeat track with a cool island vibe — perfect for listening while cruising down the coast or spending time on the beach.
+## So why is everyone so crazy about this dance?
 
-For A-Trak, the inspiration behind the song came from his trip to Greece last summer with his family. The tropical vibes of the island made him want to create something with a summery feel, and "In My Feelings" was born. "I kind of wanted to make a summer song, like something you'd hear at a pool party," A-Trak told MTV News. "I was just in Greece this summer, and I just wanted to make a song with a really tropical, island vibe."
+The Shiggy dance craze is the perfect storm of silly, light-hearted fun. It is easy for anyone to do and doesn’t require any real skill or athleticism. Basically, anyone can do it.
+It is just so bizarre, too. No one really knows what they are doing while they do it. Plus, it is super silly. What is probably most impressive is that this whole social media craze is based on a single dance move. But it really is just one move.
+The Shiggy dance is easy to learn, requires no real skill and can be silly and ridiculous. There are few other things that can be as fun as this dance.
 
-## The Caribbean vibe that inspired A-Trak's latest track
+## But why should you care about the Shiggy?
 
-The tropical vibe of "In My Feelings" is a perfect fit for the Caribbean, a region that has inspired many a track. The Caribbean is full of lush landscapes and vibrant cultures, which is reflected in the music produced there.
+The Shiggy is basically a silly dance craze that is taking over the Internet. Celebrities are getting in on it, too. Everyone from Cardi B to Will Smith has been dancing to this silly song.
+But the Shiggy dance is more than just a silly dance craze. It is also a way to embrace your creativity and show off your personality. You can make this dance as silly or as serious as you want. You can do it in public or in your living room. You can do it by yourself or with your friends.
+You can even make up your own moves. The dance is a blank slate for you to do whatever you want with it.
+It’s a fantastic way to express yourself and have a good time with friends, family and anyone else who is silly enough to join in.
 
-This region is home to a variety of genres, including reggae, calypso, salsa, and Latin music. You can also find a healthy dose of pop music coming out of the Caribbean, as artists like Drake, Nicki Minaj, and Justin Bieber have roots in this part of the world.
+## Why are people participating in the Shiggy Challenge?
 
-## What to do when you can't decide if you're in or out
+This is a big question, and it may have no single answer. The Shiggy challenge is silly, fun and a great excuse to get out of your house and enjoy some fresh air. It is a great way to get some exercise, too.
+We are living in a time when social media is increasingly taking over our lives. We are always looking at our phones and computers, and we are making new friends online and shunning friendship in real life.
+But the Shiggy Challenge is bringing people back together again. It is getting people out of their houses and out of their phones. It is getting people to interact with each other.
+You don’t need to be famous or rich to participate in the Shiggy challenge. Anyone can do it, and anyone can join in on the fun.
 
-When all else fails, you can end the debate by playing both sides. "In My Feelings" is a track that can be enjoyed both with a significant other and on your own, making it a perfect track for those who are single but looking.
+## Final thoughts
 
-If you're feeling like you're ready to start dating again and want to go out and meet new people, this is the perfect song to play on your first date. "In My Feelings" will have you vibing and dancing with your date. It also has a catchy chorus that makes it easy to sing along to too. Enjoy this song while you're out with someone new to show them how you like to have fun.
-
-If you're in a relationship and want to add something new to your playlist, this is the perfect song. You can play it on dates or even at home with your partner. "In My Feelings" is a track that can be enjoyed by both people, making it a great track to add to your relationship playlist.
-
-## Conclusion
-
-A-Trak's "In My Feelings" is a summer bop you need in your life. It's the perfect song to enjoy with a date of your own or with someone you're hoping to meet. Enjoy the vibes of this Caribbean track with a loved one and dance the night away.
+The Shiggy is silly, fun and a great way to express yourself. You can do it with friends, family or even by yourself. It is a fantastic way to be creative and have a good time with people you care about.
+It is a great way to get people together and enjoying the company of others. It is a great way to get people out of their houses and off their phones. It is a great way to enjoy life again.
+So if you haven’t already, hop out of your window, grab onto a branch and launch back in. It is time to embrace your creativity and have a good time with your friends and family.

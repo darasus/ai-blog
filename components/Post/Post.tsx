@@ -16,7 +16,7 @@ export const Post: React.FC<Props> = ({ post }) => {
     <article className="post">
       <PostMeta items={[createdAt, capitalize.words(category)]} />
       <PostTitle>{title}</PostTitle>
-      <div className="border-l-4 pl-3 my-4 text-xl">
+      <div className="border-l-4 pl-4 my-4 text-2xl text-gray-500">
         <span className="font-bold">{`TL;DR: `}</span>
         <span>{summary}</span>
       </div>

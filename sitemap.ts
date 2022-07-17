@@ -1877,91 +1877,91 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
           
             <url>
               <loc>https://www.theaipaper.com/p/haims-something-to-tell-you-is-a-delightful-pop-album</loc>
-              <lastmod>2022-07-17T15:00:32.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:01.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/foster-the-peoples-sacred-hearts-club-is-a-fun-ride</loc>
-              <lastmod>2022-07-17T15:00:32.000Z</lastmod>
+              <lastmod>2022-07-17T18:31:16.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/father-john-mistys-pure-comedy-is-a-hilarious-masterpiece</loc>
-              <lastmod>2022-07-17T15:00:32.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:16.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/eminems-revival-is-a-mess</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:29:31.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/death-cab-for-cuties-thank-you-for-today-is-a-delight</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:19.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/chvrches-love-is-dead-is-a-pop-gem</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:29:55.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/charlie-puths-voicenotes-is-a-solid-effort</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:25.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/cardi-bs-invasion-of-privacy-is-a-game-changer</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:07.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/btss-love-yourself-tear-is-a-triumph</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:17.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/beach-houses-7-is-a-dreamy-masterpiece</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:12.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/all-time-lows-last-young-renegade-is-a-must-listen</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:31:17.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/a-traks-in-my-feelings-is-a-summer-bop-you-need-in-your-life</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:11.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/5-best-albums-of-2018-so-far</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-07-17T18:30:14.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>

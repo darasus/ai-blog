@@ -1,70 +1,52 @@
 ---
-title: "\"Beach House's '7' is a Dreamy Masterpiece\""
+title: Beach House's '7' is a Dreamy Masterpiece
 createdAt: 2022-07-08T05:58:51.462Z
-updatedAt: 2022-07-17T15:00:31.977Z
+updatedAt: 2022-07-17T18:30:12.116Z
 category: culture
-summary: The first track, 'Dark Spring', is a gentle and slow-moving start to
-  the record, full of dreamy sounds and rhythms that are almost indiscernible.
-  The focus is more on the rhythm section, creating a more electronic and
-  beat-driven sound. Victoria Legrand's voice floats above it all, creating that
-  familiar dreamy and melancholy mood that has become the band's signature
-  sound. The sound is both warm and inviting, but also bittersweet, melancholic
-  and even at times, somewhat haunting. It's a record that is perfect for rainy
-  days, and definitely for dreaming.
+summary: Elizabeth sings about reminiscing about that special moment when it all
+  began with lines like “Reminding you of something you forgot.” “Dark Spring”
+  is the perfect blend of the Beach House we know and love and the change we saw
+  on their last two albums. “Lemon Glow” carries some of the melodies from
+  “Bloom”, Beach House’s first album released in 2008. The sixth track on the
+  album is a beautiful love song that feels like the perfect end to the first
+  half of the album.
 intro: >-
-  There are certain albums that feel like a personal gift. Not because
-  they're about you, but because they give you something that you need at
-  exactly that moment in time. '7' is one of those albums for me this year.
+  Beach House’s seventh album, titled “7” after the number of tracks and
+  the band members, is a dreamy masterpiece. Not every song on the album is as
+  brilliant as its title track (see below), but it all creates an intriguing
+  listen as a whole.
 
-  This is the seventh release from the Baltimore-based band and is as much a departure from their earlier work as their previous album 'Depression Cherry' was from its predecessor 'Bloom'. Where the former was dark and sultry, the latter felt light and airy. And now with this new record, we get something in between...
+  If you're unfamiliar with Beach House, they're an indie rock duo from Baltimore, Maryland that have released six albums and numerous EPs since their debut in 2006. Their sound has evolved quite a bit over their last two records, 2015's "Thank Your Lucky Stars" and 2018's "6". Both experimental pop albums with heavy electronic influences. 
+
+  On "7", they go back to the basics of guitar-driven songs with Elizabeth and Alexis playing almost all instruments themselves once again (with help from some friends). This gives us a fresh take on their usual dreamy sound - intimate, raw and personal.
 ---
 
-## Musically, '7' is a departure from their earlier work
+## Track-by-Track Review
 
-Part of the reason that this feels like such a different album for the band is that there are no guitars on the record. That's probably not a surprise to those who have followed Beach House's work over the years - they've never been a guitar-heavy band. Their sound has always been more about texture, mood, and atmosphere.
+This album starts off on a high note with “Dark Spring”. This is track number one and the title track, a perfect introduction to Beach House’s take on dream pop on this record. It’s a song about the start of a relationship. Elizabeth sings about reminiscing about that special moment when it all began with lines like “Reminding you of something you forgot.” “Dark Spring” is the perfect blend of the Beach House we know and love and the change we saw on their last two albums.
 
-This time around, on '7', the focus is more on the rhythm section, creating a more electronic and beat-driven sound, while Victoria Legrand's voice floats above it all, creating that familiar dreamy and melancholy mood that has become the band's signature sound.
+The second track on the album is “Dive.” This is the first single from the album released back in October of 2018. “Dive” is one of the more upbeat songs on the album and one of the best as well. It’s a song about falling in love, with lyrics like “You fell in love with the sound of the ocean.” This song is a great example of how this album is both nostalgic and fresh at the same time. Something Beach House do so well.
 
-## Dreams and Solace
+The third track on the album is the second single released, “Lemon Glow”. This is one of the more electronic-sounding songs on the album and the first instance of Beach House’s trademark layered harmonies coming through. This is also the first hint of nostalgia that comes from this album, as “Lemon Glow” carries some of the melodies from “Bloom”, Beach House’s first album released in 2008.
 
-The first track, 'Dark Spring', is a gentle and slow-moving start to the record, full of dreamy sounds and rhythms that are almost indiscernible. This track gives us the sense that we are drifting and floating through the record, like we're in a dream.
-This feeling continues through the next track, 'Lemon Glow', which is as much a sonic collage as it is a song.
-This is followed by 'Dive', which, as the title suggests, feels like a descent into something warm, comforting and inviting.
+The fourth track on the album is “Skipping”. This is another one of the more upbeat songs and a return to the Beach House we know and love. This song isn’t about falling in love like others on the album, it’s about staying in love.
 
-These first three tracks on '7' really set the tone for the whole record. They feel like moments of solitude and introspection. In the middle of the day, when the sun shines bright, but there is a cool breeze, too. It's a moment when one can rest and feel calm, but also dream a little.
+The fifth track on the album is “Girl of the Year”. This is one of the more interesting choices of song order on the album. It’s one of the slower songs but it has a lot of energy. It’s about the anxiety of being in a relationship and feeling like you’re being held back by the girl you love.
 
-## Depression, Loss and Identity
+The sixth track on the album is “Drinking Coffee”. This is a beautiful love song that feels like the perfect end to the first half of the album. This song is about reminiscing on the moments that brought you together and feeling lucky someone is in your life. It’s a beautiful song with a catchy chorus, great guitar riffs and a simple yet effective drum beat.
 
-The next two tracks, ' Pink-Orange ' and ' Mine ', bring a shift in mood and tone, with 'Pink-Orange' being a more somber and thoughtful track, and 'Mine', offering a sense of closure and moving on.
-This is followed by ' Wedding Bell ' and ' Wishes ', which deal with loss, and a sense of mourning.
-This is continued by ' Morning Fog ', which is a beautiful, but sad track that finds Beach House once again creating a sonic collage. There are samples of what sounds like the ocean, a woman breathing, and even an insect flying by the microphone.
-This leads into ' Drunk Birds ', which is about the search for identity.
+The seventh track on the album is “Lurking”. This is one of the more “out there” tracks on the album, mostly thanks to the synthesizer-heavy instrumental. This song is about the moments that make you feel anxious, like waiting for a phone call or a text from someone.
 
-## Overall Recommendation: A Dreamy Masterpiece
+The eighth track on the album is “Tremendous Darkness”. This is a slower and more moody track about accepting the feelings we have that we aren’t always proud of. It’s a song about knowing that you can’t always hide from the things that make you feel bad, but you also can’t let them control you.
 
-' 7' is a masterpiece and a truly wonderful record. It is everything that Beach House fans have been waiting for, and is sure to win over many new converts to the band.
-This album is a remarkable achievement by an already great band, and feels like a gift. The sound is both warm and inviting, but also bittersweet, melancholic and even at times, somewhat haunting. It is also intensely beautiful.
+The ninth and final track on the album is “Days of Candy”. This is a softer and more minimal track compared to the rest of the album. It’s a song about the things you do to distract yourself from your own thoughts and how easy it is to forget how short life can be. It’s a very sweet and thoughtful way to end the album.
 
-This is a record that you can listen to over and over again, finding something new and interesting each time.
-This is a record that makes you feel something and takes you to another place. It's a record that is perfect for rainy days, and definitely for dreaming.
-
-## Track Recommendations:
-
-- Dark Spring
-- Lemon Glow
-- Pink-Orange
-- Morning Fog
-- Wishes
-- Wedding Bell
-- Drunk Birds
-- Mine
-- 7
-
-^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
-
-## Conclusion
-
-And so, the long wait for a new release from Beach House has finally come to an end. And it was well worth the wait. '7' is a beautiful, bittersweet and melancholic record that will bring solace to your heart and dreams to your mind. It's an album that is perfect for rainy days, and for dreaming. It's also an album that is perfect for all of those weird, off-days when you don't know what you're doing, but you want to feel something.
-
-If you've been a fan of Beach House's work in the past, then this new album is a must-hear. If you've never given them a listen before, then this would be a great place to start.
-This is an album that will make you feel something, and take you to another place. And it's sure to become one of your favourites.
+## “Dark Spring”
+## "Dive."
+## “Lemon Glow”
+## “Skipping”
+## “Girl of the Year”
+## “Drinking Coffee”
+## “Lurking”
+## “Tremendous Darkness”
+## “Days of Candy”

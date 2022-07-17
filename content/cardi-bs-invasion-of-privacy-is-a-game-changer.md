@@ -1,57 +1,42 @@
 ---
-title: "\"Cardi B's 'Invasion of Privacy' is a Game-Changer\""
+title: Cardi B's 'Invasion of Privacy' is a Game-Changer
 createdAt: 2022-07-08T05:59:06.208Z
-updatedAt: 2022-07-17T15:00:31.985Z
+updatedAt: 2022-07-17T18:30:07.277Z
 category: culture
-summary: Cardi B's new album, "Invasion of Privacy," is out now. The rapper is
-  not just a "rap artist," but she's more than just a rapper. The album's final
-  track, "Bartier Cardi," is a love letter to black women everywhere, and it is
-  a proud reclamation of the narrative. The song is a powerful reminder that
-  people in the spotlight are still human and experience criticism, but as fans,
-  we have a responsibility to be careful with how we speak about them.
+summary: The 14 tracks on this album have all the hallmarks of a great album.
+  While the hooks and chorus of each song are satisfyingly catchy, it’s the
+  verses where Cardi really excels. She uses her New York accent to full effect,
+  her words are staccato and rhythmic and every verse is packed with detail,
+  color and character. The stand out track is ‘Drip’ which features on fellow
+  New York rapper and friend, Demi Lovato.
 intro: >-
-  Cardi B is an artist with a game-changing voice, and her latest album,
-  "Invasion of Privacy," proves it. The album shifts the conversation regarding
-  what it means to be a woman with agency over her own body and narrative. She
-  doesn’t just tell us she has a pimp hand; she demonstrates it in a way that
-  only someone who’s lived it could know so intimately.
+  Cardi B has had a remarkable year, thanks to her love of dancing,
+  drinking and Instagram. In little over a year the former Vogue editrix from
+  New York has morphed into one of the world’s most famous female rappers with
+  hit singles, a number one album and now her second studio album. Cardi is on a
+  creative roll that only seems to be accelerating; Invasion of Privacy is an
+  album that proves she's exactly where she should be, doing exactly what she
+  should be doing. 
 
-  The former VH1 Love & Hip Hop star and social media sensation has been on our radar for almost two years now, ever since she made her first appearance as an uncredited cameo in the video for Fat New Yorker’s “Moof” back in March 2016. Since then, she has continued to build her presence as not just an artist but a cultural figurehead who represents those often overlooked by society—women of color from working class backgrounds, women who embrace their own versions of beauty without apology or filter. In doing so, Cardi B has created both new fans and new haters eager to speak up about either end of this spectrum.
-
-  In its entirety, “Invasion of Privacy” speaks directly to these experiences with unapologetic honesty and raw emotionality—a rawness that we rarely get to see even in today’s hyper-exposed culture. It is not just the story of one woman; it is the collective story of many women told with such clarity that you can hear their voices echoing proudly throughout every
+  With her debut album ‘Gangsta Vibes’ peaking at number 39 in the US Billboard 200 back in 2016, there were not many people ready for Cardi’s recent success. As an artist who was almost entirely unknown outside of New York just 12 months ago, it’s hard to imagine anyone seeing this coming. But as with all great artists it was always there lurking beneath the surface ready to burst and torment us all with its brilliance.
 ---
 
-## Cardi B Is More Than Just A “Rap Artist”
+## Cardi B’s artistry is all about the little things
 
-One of the first things that stands out about Cardi B is the fact that she raps. A lot. Not just sometimes, but every song on her new album is rapped. If you were to just skim the headlines about the release of this album, you’d see a lot of headlines describing Cardi B as a “rapper” or a “rap artist.” This is not entirely inaccurate. She does, in fact, rap. But there is so much more to Cardi B than just that one label.
-Cardi comes from a background in which the art form of hip hop thrives and is at its most raw and unfiltered form. She’s not just rapping; she’s spitting raw bars with unfiltered honesty, making it abundantly clear that she has lived the lives she describes through her music.
+When you look at the contents of ‘Invasion of Privacy’ it’s hard not to be impressed. The 14 tracks on this album have all the hallmarks of a great album; there’s some skits for the comedic value, a nice mix of thought provoking and fun tracks and a couple of songs that nod towards the sound and style of the past. However it’s the little things on each track that really make this album a standout. While the hooks and chorus of each song are satisfyingly catchy, it’s the verses where Cardi really excels. She uses her New York accent to full effect, her words are staccato and rhythmic and every verse is packed with detail, color and character.
 
-## "Be Careful"
+## The importance of keeping your head up
 
-One of the most striking tracks on “Invasion of Privacy” is “Be Careful,” in which Cardi B delivers a message of startlingly raw vulnerability. She opens the track with a declaration: “I’m sorry if you feel you’re not good enough.”
-Cardi B is no stranger to being criticized in the media, and she has said that this track was inspired by the people who have tried to put her down. It’s an important reminder that people in the spotlight are still human and experience criticism, but also that as fans, we have a responsibility to be careful with how we speak about them. One of the best ways to be careful is to remember that these are real people.
-Crushing someone’s ego is one thing. Crushing their spirit is something else entirely, and it’s something we all have the power to do, regardless of whether or not we are famous.
+‘I Like It’ is the type of song that can become an anthem if people let it; it’s a feel good track with a positive message and a killer hook. The lyrics are a reminder that no matter what you’re going through right now, one day you’ll be better and in a position to help others who are struggling as well. This is a track that can hit home with everyone, everyone has been through something and everyone will go through something again, some of those struggles are a lot more public than others. Keeping your head up and taking note of the things around you is important, it’s how you learn from your experiences, it’s how you grow and it’s how you help others.
 
-## "Bickenhead" feat. Kodack Black
+## A fully functioning and well-oiled machine
 
-This song is a love letter to black women everywhere, and it is a moment of proud reclamation. “Bickenhead” features Florida rapper Kodak Black, an artist currently serving a jail sentence for sexual assault who, in the past, has made problematic comments about consent and black women, as well as shown disrespect to women in general in his lyrics.
-The decision to include Kodak Black on this track is a bold one and speaks to the power of reclaiming the narrative and using it to create something meaningful. While some have criticized the decision due to Black’s history, Cardi B and the women featured on this track defiantly reclaim this narrative by highlighting their own beauty and power.
-As Cardi raps: “Bickenhead, come correct / I’m the baddest, black as the midnight / Snow white and the seven dwarfs / I’m shining like the beacon / You can’t see ‘cause you’re a black man / I’m bringing you bliss, see you with a bliss girl.”
+There’s something about the way Cardi B flows over her own beats that hints at her being a perfectionist. On ‘I Like It’, her and Bad Bunny incorporate Spanish and English into the verse, bringing an element of culture and ethnicity to the track. On the ‘Bartier Cardi’ she enlists the help of her husband Offset and delivers a track that could easily become a club and radio staple. However, the stand out track on this album is ‘Drip’ which features on fellow New York rapper and friend, Demi Lovato. The two songs were written separately but were both added to the album at the last minute and it really shows how well Cardi’s team works together. ‘Drip’ is a bouncy bop, but it doesn’t stand out alone.
 
-## "Drip" feat. Migos
+## ‘Bickenhead’ sounds like something from J. Cole's 2014 Forest Hills Drive
 
-As Cardi B’s fame has grown, she has become more and more involved with working with other artists. One of the most exciting collaborations on “Invasion of Privacy” is her pairing with Migos on “Drip.”
-Cardi B has been open about her appreciation for other artists and their work, but in this song, she comes out and really shows her love for Migos and their music. She raps: “I’m the one that’s in love with Migos.”
-
-## "Bartier Cardi" feat. 21 Savage
-
-By the time you get to “Bartier Cardi,” the final track on the album, you feel like you’ve been on a journey with Cardi B. The track begins as a conversation between a lover and their partner, but it quickly devolves into a conversation between two artists, two people who make their living by sharing their stories with the world.
-The song is packed with references to previous songs on the album, and as you listen, you can almost feel the narrative of the entire album coming to a head.
-And then, Cardi B ends this journey by sharing a final, raw, and brutally honest message with her fans: “I’m sorry if you feel like you’re not good enough / I know how you feel / You’re not alone / I’m here for you.”
+‘Bickenhead’ is the track on the album that nods most towards the past and where Cardi comes from. The track has a laid back feel, with a jazz sample and a soothing guitar riff. There’s a feeling of nostalgia as you listen to it; it’s reminiscent of J. Cole’s 2014 Forest Hills Drive album. The track name alone is a nod to the 90’s era when the ‘heavies’ including Puff Daddy, Jay-Z and Biggie Smalls were at their peak. It feels like a time when New York City was the epicentre of the music industry, when it was a clash of culture, fashion and attitude. There’s a feeling of nostalgia and longing for what once was.
 
 ## Final Thoughts
 
-One of the most fascinating things about “Invasion of Privacy” is how much it feels like an invasion.
-Of course, this isn’t an insult to the album; rather, it’s an observation about how Cardi B’s raw and unapologetic presence manages to invade our hearts, our minds, and our culture.
-She doesn’t tell us what to think or feel. Her words demand that we use them to reflect on our own lives, our own stories, and our own experiences.
-We are all invited to experience this invasion, and we are all invited to respond in whatever way we see fit.
+It seems that with ‘Invasion of Privacy’, Cardi B has finally found the perfect balance between what she was doing on her first album, and what she’s been doing since she exploded. There’s a fun and frivolous aspect to this album that wasn’t fully explored on her debut, but there’s also an insight, depth and maturity that wasn’t present before. This album is a game changer in the hip hop world and Cardi B is the artist ready to take her place as one of the most important figures in the genre right now.

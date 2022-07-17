@@ -1,66 +1,61 @@
 ---
-title: "\"BTS's 'Love Yourself: Tear' is a Triumph\""
+title: "BTS's 'Love Yourself: Tear' is a Triumph"
 createdAt: 2022-07-08T05:58:55.248Z
-updatedAt: 2022-07-17T15:00:31.979Z
+updatedAt: 2022-07-17T18:30:17.326Z
 category: culture
-summary: A lot of the Love Yourself series has focused on the idea of falling in
-  love with yourself and the beauty within each person. Lyrics about learning to
-  love yourself no matter what, about not needing anyone else’s approval to feel
-  good about yourself and about finding confidence in yourself. BTS have
-  referred to their past struggles with self-confidence, but now they’re
-  confident in their abilities. The new confidence has led to some really odd
-  and silly outfits, hairstyles and lyrics that make no sense whatsoever.
+summary: "“Love Yourself: Tear” is a reminder to K-pop fans that vocals can be
+  just as important as dance moves. BTS’s main vocalist, Kim Nam-joon, or RM,
+  has always been the strong point of the group but on “Tear’, he shines even
+  brighter. “Fake Love” and ‘Tear are the type of tracks that listeners might
+  not pick up on their first few listens but will appreciate once they've fully
+  digested the EP."
 intro: >-
-  BTS’s second album of this Love Yourself series is a triumph. It’s the
-  sound of seven young men pushing themselves to their limits, both vocally and
-  musically, to produce something raw and experimental yet also accessible and
-  highly listenable.
+  In a world where every band is a boy band, BTS stands out. The Korean
+  sextet has made a name for itself as not just another boy band but one that
+  plays its own instruments and has choreographed dance routines that are so
+  intricate they sometimes require special stage lighting.
 
-  The lead single “Fake Love” has a brilliant music video that is simultaneously disturbing, weird, funny and beautiful. It’s a very interesting song that has some fascinating elements — most notably, the spoken word part that one can easily imagine being recited in an audition for The Bachelor or some similar reality show.
+  Armed with these weapons, BTS has twice cracked the top 10 on the Billboard 200 album chart with its Love Yourself series. And the latest installment of this series — which doubles as its sixth EP — is no exception.
 
-  This album highlights the vocal strength of each member of BTS, who are now all equally comfortable singing ballads as fast-paced dance tracks. Their vocal abilities are contrasted with a range of musical styles from trap to EDM to psychedelic rock to country, all tied together with lyrics about love and self-love in their own unique way.
+  Furthermore, it’s the strongest of the bunch.
+
+  It’s impossible to talk about BTS without mentioning their massive following beyond Korea: Vivid, obsessive ARMYs (as they call them) who follow their every move and buy everything associated with them. This is why many people assume they are only famous because of social media and pandering ads (which is true). However, anyone who listens to their music will tell you that they deserve all this success. “Love Yourself: Tear” proves it once again.
 ---
 
-## Lyrics About Self-Love and Confidence
+## The Importance of ‘Tear’
 
-A lot of the Love Yourself series has focused on the idea of falling in love with yourself and the beauty within each person, and this album is no exception. There are lyrics about learning to love yourself no matter what, about not needing anyone else’s approval to feel good about yourself and about finding confidence in yourself.
-In “FAKE LOVE”, BTS ask themselves how to “heal the scars from the wounds that [they] don’t know [they] have” and “speak up” to say “I love myself.”
-In “I’m Fine”, BTS sing about “healing the scars” of their past and finding confidence in themselves. “I’m Fine” also has a spoken word part that the members say in English about how they used to hate themselves and their voices, but now they’re confident in their abilities.
+There are two songs on “Tear” that are called “Fake Love” and “Tear.” The connection between these two songs is not accidental: The tear is a sign of strength rather than weakness. As BTS lead vocalist Kim Nam-joon, known as RM, said in an interview with Billboard, “The difference between ‘Fake Love’ and ‘Tear’ is that in ‘Fake Love’, there was a lot of blame, there was a lot of ‘you did this wrong’, and ‘you did this wrong’. Whereas ‘Tear’ is really accepting the fact that it’s all your fault, and you have to go through it.”
 
-## Confidence Is A Double-Edged Sword
+## Prologue: Remember Yourself
 
-In the music business, it’s incredibly common for performers to hate themselves and their bodies. Being comfortable in your skin is essential to being a great singer, but it’s also essential to being a happy human being.
-BTS have referred to their past struggles with self-confidence. On their last album, they sang about struggling with their voices, with their bodies, with their self-esteem and with their mental health.
-That was last year. This year, they’ve talked about how they’ve learned to love themselves and to be confident in their abilities.
-That confidence is a double-edged sword.
-On the one hand, it’s great that they’ve found the confidence to sing, to dance and to be themselves.
-On the other hand, this new confidence has led to some really odd and silly outfits, hairstyles and lyrics that make no sense whatsoever.
+The first track on the EP — “Euphoria” — is a prelude to the rest of the album. It’s a brief, one-minute and 33-second-long jumble of sounds that act as a reminder of who BTS are and what first connected them to their fans.
+Dance breakers may enjoy this track the most because it’s a full-on mix of mechanically programmed sounds and rhythmic beats that are somewhat reminiscent of the ‘90s.
+It’s like a trip down memory lane for fans who remember the band’s roots. It’s like BTS is saying “Remember who we are? This is who we are.”
 
-## “Fake Love” and Tear-Dropping Vibes
+## Tear and the Importance of Vocals in K-pop
 
-“Fake Love” has an interesting combination of tear-dropping and aggressive vibes. The song begins with the members singing gently about needing to be loved and needing to be accepted, with a beautiful instrumental behind them.
-Then, about halfway through the track, it drops into a trap instrumental with aggressive lyrics about battling and fighting.
-The song ends again with tear-dropping lyrics about needing love and acceptance.
+The K-pop industry is primarily known for its dance routines and catchy hooks. “Love Yourself: Tear” is a reminder to K-pop fans that vocals can be just as important as dance moves.
+RM’s vocals on “Fake Love” are some of his strongest to date. He sings in both Korean and English throughout the track.
+BTS’s main vocalist, Kim Nam-joon, or RM, has always been the strong point of the group but on “Tear”, he shines even brighter.
+Namjoon sings with a certain amount of controlled emotion in both Korean and English on “Tear”.
 
-The song’s music video is a confusing but wonderful trip, with a dancing squid, a man turning into a car, BTS members falling apart, a terrifying dancing bear, a bizarre symbol and lots of other oddities. It’s a very strange but meaningful video.
-Parts of the video are tear-inducing, while others are laugh-inducing. It’s a strange mix, but somehow it works.
+## The Darker Side of Love
 
-## The Danger of Loving Someone Who Doesn’t Love Themselves
+The next two tracks — “Suga” and “Seesaw” — illustrate the darker side of love. They’re the type of tracks that listeners might not pick up on their first few listens but will appreciate once they’ve fully digested the EP. These tracks are less obvious than “Fake Love” and “Tear”. They aren’t supposed to be obvious; they’re supposed to be subtle and immersive.
 
-Unfortunately, the world is full of people who don’t love themselves — people who don’t appreciate their own beauty and don’t feel good about themselves.
-There are also people who don’t love the people around them, who don’t appreciate the people who love them and who don’t feel good about the people who love them.
-It’s incredibly difficult to love someone who doesn’t love themselves. It’s exhausting. You put all this love into them, and it just gets sucked out and thrown back at you.
-Whatever you do for that person, you’re just making them resent you. You can’t love someone into loving themselves.
-You can only love them until they’re ready.
-When they’re ready, they’ll love themselves. Until then, you have to be patient and wait. You have to love yourself, too.
+These two tracks are BTS’s way of saying that love isn’t all hearts and flowers. There are thorns and thistles that come from it, too.
+These tracks prove that BTS isn’t here for the sweet, saccharine love everyone talks about. They’re here for the more realistic and often more complicated side of love.
 
-## An Electronic Dance Music Track That Makes You Want to Move
+## BTS’s Vocals Are On Point in ‘Tear’
 
-On this track, BTS members rap and sing about having been cheated by love and wanting to be their best selves. Their lyrics encourage their listeners to love themselves and to find their true selves.
-There’s a lot of repetition and a lot of EDM beats in this song. It’s mostly about finding your true self and wanting to just dance and move and be yourself.
-This is a really fun track that’s pretty silly, but it’s a really fun, silly song that makes you want to move.
+If there was ever a time to be a BTS fan and a K-pop listener, it’s now. “Love Yourself: Tear” is a reminder that BTS is an actual band with real instruments and not just a group of people who dance and sing in unison.
+The drums, guitars, and pianos in these tracks are almost as important as the vocals. They aren’t just pretty pieces of music; they have a purpose.
+And BTS’s use of instruments and vocals all come together to create a masterpiece.
 
 ## Conclusion
 
-BTS’s second Love Yourself album is a triumph. It’s the sound of seven young men pushing themselves to their limits, both vocally and musically, to produce something raw and experimental yet also accessible and highly listenable.
-This album highlights the vocal strength of each member of BTS, who are now all equally comfortable singing ballads as fast-paced dance tracks. Their vocal abilities are contrasted with a range of musical styles from trap to EDM to psychedelic rock to country, all tied together with lyrics about love and self-love in their own unique way.
+What makes BTS’s “Love Yourself: Tear” so special is that it proves the band isn’t here to pander to their fans. They’re not going to spit out songs about falling in love, being in love, and being heartbroken. They’re here to make music that reflects their lives and how they feel about the world around them.
+
+BTS writes songs about the struggles that younger people face today. They write about growing pains, the pressures of university life, the difficulty of being in a relationship, and the difficulty of being alone. They write about the darker side of love — the side that isn’t all hearts and flowers. END
+
+In a world where every band is a boy band, BTS stands out. The Korean sextet has made a name for itself as not just another boy band but one that plays its own instruments and has choreographed dance routines that are so intricate they sometimes require special stage lighting.
