@@ -1,12 +1,38 @@
 ---
 title: '"The Theory of Everything" is a touching biopic of Stephen Hawking'
 createdAt: 2022-07-08T05:57:24.535Z
-updatedAt: 2022-07-08T05:57:24.535Z
+updatedAt: 2022-07-17T07:25:39.889Z
 category: culture
 ---
 
-The Theory of Everything is a touching biopic of Stephen Hawking, the world-renowned physicist who has battled ALS for most of his adult life. The film chronicles Hawking's early life, including his time as a student at Cambridge University, and his subsequent diagnosis of the disease.
+## Movie Review: “The Theory of Everything”
 
-The film follows Hawking as he continues to work on his groundbreaking theories despite his rapidly deteriorating health. It also chronicles his marriage to Jane Wilde, and the couple's struggle to maintain their relationship as Hawking's condition deteriorates.
+The Theory of Everything is a biographical drama film directed by James Marsh and written by Anthony McCarten. It is based on the memoir Travelling to Infinity: My Life with Stephen by Jane Hawking, the first wife of Stephen Hawking, and chronicles the marriage between Hawking and Jane. It stars Eddie Redmayne as Hawking, Felicity Jones as Jane, and Emily Watson as Hawking’s first wife, Margaret. The film had its world premiere at the London Film Festival on October 19, 2014, and was theatrically released in the U.K. on October 31 and the U.S. on November 7, 2014.
 
-The Theory of Everything is a moving and inspirational film that celebrates the human spirit. Hawking is an incredible man who has defied the odds and achieved great things despite his debilitating condition. The film is a must-see for anyone who is interested in Hawking's story or in the history of science.
+The film received critical acclaim and received Academy Award, Golden Globe, Screen Actors Guild, BAFTA, and Critics' Choice Awards nominations. It was also made into a short documentary called The Making of the Theory of Everything which discusses the film’s production.
+
+## What is the movie about?
+
+This is a biopic of Stephen Hawking, a renowned theoretical physicist. It chronicles his relationship with his first wife, Jane, and the onset of his motor neuron disease (ALS). The film begins in the early 1980s when Hawking was at the peak of his career. At this time he meets and marries Jane and they have three children together. The film details the struggles and hardships Hawking and his family encounter as he is diagnosed with ALS and eventually becomes almost entirely paralyzed. This is when Hawking begins to see ALS as something other than a curse, as it becomes a catalyst for him to leave behind a legacy of knowledge that would outlive him.
+
+The film also follows Jane’s experiences as a caregiver for her husband, and her efforts to have his condition recognized as a legitimate medical condition. Hawking himself makes a cameo appearance at the end of the film when he meets with the real-life Hawking for the first time.
+
+## Pros
+
+The film is visually pleasing and brings the audience back to a time when people had to write or type out all their thoughts. It is interesting to see the comparison between how people used to communicate versus how they communicate today.
+
+The film also gives an inside look into the life of a person with a physical disability. We get to see what everyday life is like for people with disabilities, including the various adaptations and accommodations they use in their daily life.
+
+The film also highlights the importance of having a supportive partner and family in one's life. It is important to have people surrounding you who support you and are willing to stand by you during both the good and bad times.
+
+## Cons
+
+The film is set in a different time when people communicated and shared their thoughts on paper and in books. While it may have been interesting for some people to see the differences between how people communicated in the past and now, others may have found this aspect of the film to be boring and unnecessary.
+
+The film does not talk about Hawking’s scientific discoveries or his perspectives on the universe and physics. While this may have been interesting to some people, it may have been disappointing to others who wanted to know more about Hawking’s work and his findings on the universe.
+
+The film is dramatized, and it does not talk about Hawking’s scientific discoveries or his perspectives on the universe and physics. It instead focuses on how Hawking’s life was and on his family.
+
+## Bottom line
+
+The Theory of Everything is a touching biopic of Stephen Hawking that brings his life to life on the big screen. It highlights a number of important themes, including the importance of having a supportive partner and family in one's life and the importance of adapting to/making accommodations for a physical disability. While the film does not talk about Hawking’s scientific discoveries or his perspectives on the universe and physics, it does bring to light how his life was as a person with a physical disability. The film is beautifully shot, has an excellent soundtrack and stars great actors. It is a must-watch for all cinema lovers, especially those who are fans of history or the sciences.

@@ -1,18 +1,54 @@
 ---
 title: The 5 most overrated games of the year
 createdAt: 2022-07-08T06:00:55.055Z
-updatedAt: 2022-07-08T06:00:55.055Z
+updatedAt: 2022-07-17T07:27:10.398Z
 category: gaming
 ---
 
-The 5 most overrated games of the year are: 
+## Crash Bandicoot N. Sane Trilogy
 
-1. "Assassin's Creed III"
+The Crash Bandicoot N. Sane Trilogy is one of the few games on this list that is almost universally loved. There are few games that have aged as well as this series, and modern audiences have been very receptive to it. 
+Unfortunately, the N. Sane Trilogy is also one of the most overrated games of 2018. As a collection of remastered games that have not been significantly updated since the original PlayStation release, it is not a very creative choice for 2018. 
+While it is easy to understand why people would love to play these games again, there are very few things that make this a better experience than the original PlayStation 1 versions. Despite the visual improvements, everything else about the remaster feels dated. The controls are exactly the same as the original PlayStation versions, so they feel clunky and unresponsive in a way that is especially noticeable in the third game. 
+There is also no real reason why this game needed to be released in 2018. Yes, it was fun to play it again and see how the series has aged, but it would have been just as fun to play versions of these games that had been updated for modern platforms. The N. Sane Trilogy is a great way to play these games again and experience their nostalgia, but it is not really any better than playing the originals.
 
-2. "Borderlands 2"
+## Dark Souls Remastered
 
-3. "Call of Duty: Black Ops II"
+There is no doubt that Dark Souls is a fantastic game and still holds up well after almost 8 years since its initial release. The problem is that Dark Souls Remastered is not a new game, it is a port featuring minor visual improvements and nothing more. 
+It is easy to see why people would love to play this game again, but it is still a very minor alteration of a game that came out over 10 years ago. 
+The core gameplay is the same and only the graphics have been updated. It is far from the best remaster that we have ever seen, and it does not seem worth it for new players to spend money on a game that came out over 10 years ago. 
+Even though it is a great game, it is not worth revisiting unless you are an absolute fan of the series. Dark Souls Remastered is certainly a worthy re-release, but it is not a game that people should be recommending to anyone who has never played a Souls game before. 
+It is worth replaying if you have already played the original game and are looking to replay it in a slightly better form, but it is far from an essential purchase for most people.
 
-4. "Halo 4"
+## Super Smash Bros. Ultimate
 
-5. "Mass Effect 3"
+There is no doubt that the Super Smash Bros. Ultimate is a fantastic game. It is one of the best fighting games of the year and will certainly be in contention for Game of the Year awards when they are given out in December. 
+That being said, it is an incredibly overrated game. Despite being the best fighting game released in 2018, it is not the best video game released in 2018. 
+It is certainly a great game, but there are numerous other games that are just as good or better. This is a game that people were so excited for that many were willing to overlook any flaws it might have. 
+It is easy to see why this game is overrated given that it is the first new entry in the series in 5 years, but there are just as many reasons why it should not be as praised as it is. 
+The game is undeniably fun, but it is also undeniably a shallow experience. It is not a game that people should be praising as being some sort of masterpiece. It is a game that will likely be forgotten in 5 years, and it is also a game that could easily have been a Wii U title as opposed to needing to be a system-seller on the Nintendo Switch.
+
+## Mario Tennis Aces
+
+Mario Tennis Aces has been widely praised for its unique twist on the traditional Mario Tennis formula and fun motion controls that make it feel like the best sports game in years. 
+Unfortunately, the game has been overrated from the moment that it was released. 
+Mario Tennis Aces does some new things with the series, and it is a great game for what it is. It is not, however, the groundbreaking game that many have claimed it to be. 
+Twists on the gameplay may make this a better version of the game, but it is still the same basic experience that it has always been. 
+Mario Tennis Aces is a great game, but it is only average when compared to other sports games. 
+It is certainly a better than average game, but it is not the overwhelming triumph that many have claimed it to be.
+
+## Shadow of the Tomb Raider
+
+Shadow of the Tomb Raider has been widely praised for its fantastic story, top-notch visuals, and strong gameplay, making it one of the best games of 2018. 
+This is an easy game, however, to be overrated given that it is the conclusion to a series that has been widely praised since the very beginning. 
+There is no doubt that this is a great game, but it is not quite as good as its predecessors. 
+This game does not quite reach the same heights of Lara’s first adventure in 2013 and fails to live up to the promise of the second game in 2016. There are far more memorable moments in those games than there are in the finale.
+This game is certainly worth playing, but it is not the perfect game that some have claimed it to be. 
+There are more interesting games on this list that deserve more praise than this one.
+
+## Conclusion
+
+This article has looked at 5 overrated games of 2018, and each one is certainly deserving of the title. These are games that have been widely praised, but they are not as good as many people claim they are. 
+This is not a list of games that have been overhyped and deserve the hate they have received. These are games that are overrated because people praise them too much. 
+These are games that have been overrated and deserve to be called out for it. These are games that are worth playing, but they are not worth playing as much as some people claim they are. 
+These are games that are overrated and deserve to be called out for it.

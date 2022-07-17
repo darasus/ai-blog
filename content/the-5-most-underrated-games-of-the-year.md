@@ -1,28 +1,48 @@
 ---
 title: The 5 most underrated games of the year
 createdAt: 2022-07-08T06:00:50.692Z
-updatedAt: 2022-07-08T06:00:50.692Z
+updatedAt: 2022-07-17T07:27:04.004Z
 category: gaming
 ---
 
-It's hard to keep track of all the great games that come out in a year. But it's even harder to keep track of the ones that don't get enough attention. Here are the five most underrated games of the year.
+## PlayerUnknown’s Battlegrounds
 
-1. "The Legend of Zelda: Breath of the Wild"
+The game that started it all, PlayerUnknown’s Battlegrounds is still one of the best shooter games available on the market. The game takes place on a massive island where 100 players are dropped to find weapons and fight in a last man standing deathmatch. The game is highly competitive, and getting good at it takes time and practice.
+Players can play alone or with a team of up to three other people. Battlegrounds also has daily and weekly challenges that players can complete to earn helpful items and rewards. The game is updated regularly with new content, including new weapons and cosmetics.
+If you’re a fan of shooter games, this one is a must-play. It’s the best of its kind, and the price tag makes it an even better deal. Players who are looking for an online shooter that offers endless hours of fun should definitely check out Battlegrounds. It’s a great game for both hardcore and casual gamers.
 
-This game was a masterpiece, and yet it didn't get nearly enough attention. It's one of the best "Zelda" games ever made, and it's a shame more people didn't play it.
+## Marvel's Spider-Man
 
-2. "NieR: Automata"
+Looking for a superhero game that’s more like an interactive movie? Then you definitely need to play Marvel’s Spider-Man. The game focuses on the iconic superhero and his alter ego Peter Parker. You’ll get to explore the streets of New York City as you find villains to fight.
+While it’s not the first Spider-Man game ever created, it’s definitely one of the best. That’s probably because it’s the first one created by Insomniac Games, the same company that made the Ratchet & Clank series.
+The visuals are stunning, and the game offers plenty of content to keep you hooked. If you’re a fan of superhero games, you really can’t go wrong with Marvel’s Spider-Man. It’s a modern masterpiece that will leave you feeling like you’re in an action movie.
 
-This game was a cult hit, and deservedly so. It's one of the most unique and interesting games of the year, and yet it didn't get nearly the attention it deserved.
+## Mario Tennis Aces
 
-3. "Super Mario Odyssey"
+Mario Tennis Aces is a delightful surprise from the Mario franchise. The game brings the series back to its roots with a retro tennis gameplay that feels like a throwback to the past. It features a robust single-player campaign, as well as a multiplayer mode.
+You can play the game in either single or doubles mode. Playing doubles is definitely a challenge, but it’s also a lot of fun. There are even special power-ups that you can trigger during a match.
+This is the best tennis game since the classic Nintendo 64 version of Mario Tennis. It’s also the best retro take on tennis since the Nintendo Labo VR game. If you’re looking for a fun, nostalgic game that’s also easy to pick up, Mario Tennis Aces is perfect.
 
-This game was a return to form for Mario, and yet it didn't get nearly the attention it deserved. It's one of the best Mario games in years, and yet it flew under the radar for many gamers.
+## Bombers B-game: Big Bombing Battles
 
-4. "Sonic Mania"
+Bombers B-game: Big Bombing Battles is a solid retro game that feels like a classic Nintendo title. The game puts you in control of a plane and tasks you with shooting enemies and dropping bombs on their bases. It’s a simple game that comes with a low price tag.
+The game features three different game modes, each with its own set of missions. There’s also a handy tutorial that teaches you how to play the game.
+The visuals are retro and pixelated, but they’re also charming in a way that only classic video games can be.
+If you liked Bomberman, you’ll probably like this game, too. It’s basically a modern version of that game, but with modern graphics and slightly different gameplay. It’s a fun and easy game to play, and it’s perfect for anyone who misses playing classic games from the ’80s and ’90s.
 
-This game was a love letter to Sonic fans, and yet it didn't get nearly the attention it deserved. It's one of the best Sonic games ever made, and yet it didn't get the love it deserved.
+## Overcooked! 2
 
-5. "Cuphead"
+Overcooked! 2 is a silly cooking game that’s great for parties and family gatherings. The gameplay is simple, but that’s what makes it so fun. You and up to three other players will have to work together to prepare meals in a short amount of time.
+The goal is to serve as many customers as possible. You can play alone if you want, but it’s way more fun to play with other people. This game is great for parties or family gatherings because anyone can play it and everyone will have a great time.
+If you want to play a silly game with family and friends, you can’t go wrong with Overcooked! 2. It’s tons of fun, and it’s even better when you play with other people. 
 
-This game was a work of art, and yet it didn't get nearly the attention it deserved. It's one of the most beautiful and unique games of the year, and yet it didn't get the recognition it deserved.
+## Shadow of the Colossus
+
+Shadow of the Colossus is an action-adventure game that definitely deserves more attention. The game is a remake of an older game of the same name. If you loved the original, you’ll love this version too.
+The game focuses on climbing giant, mystical creatures in order to defeat them. You’ll control a character as he explores a vast, open world and hunts down these massive creatures.
+The visuals are great, and the gameplay is intense. If you enjoy games that put you inside the main character, Shadow of the Colossus is for you.
+The game is a bit short, but it’s definitely worth the price. If you like adventure games, you can’t go wrong with this one.
+
+## Conclusion
+
+ Video games are a fun way to unwind, and they can also help you improve in other areas of your life. If you’re looking for a new game to play, check out these underrated games. These five games are definitely worth your time.

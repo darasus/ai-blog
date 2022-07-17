@@ -1,18 +1,49 @@
 ---
 title: How AI is changing the way we live and work
 createdAt: 2022-07-07T06:05:40.621Z
-updatedAt: 2022-07-07T17:00:50.214Z
+updatedAt: 2022-07-17T07:24:48.777Z
 category: technology
 ---
 
-AI is rapidly changing the way we live and work. Here are some of the ways AI is impacting our lives:
+## What is Artificial Intelligence?
 
-1. Communication: AI is changing the way we communicate with each other and with machines. We are now able to communicate with AI-powered chatbots and digital assistants in a more natural way, using our voice instead of typing.
+Artificial intelligence is the ability of a computer or machine to “think” and make decisions on its own. In the past, AI has been associated with robots taking over the world, but that’s not the case anymore. The truth is that AI is already changing many industries and will continue to grow in popularity.
 
-2. Transportation: AI is changing the way we get around. Self-driving cars and trucks are becoming more common, and they are getting better at avoiding accidents.
+AI is used to make predictions, solve problems and automate tasks that would typically require human intelligence. AI can be used to create personalized experiences, recommend products, predict customer churn and create virtual assistants like Siri and Alexa.
 
-3. Healthcare: AI is changing the way we diagnose and treat diseases. AI-powered chatbots can help us schedule appointments and find doctors. AI is also being used to develop new drugs and treatments.
+## How is AI changing our world today?
 
-4. Education: AI is changing the way we learn. AI-powered tutors can help us learn faster and retain information better. AI is also being used to develop new educational materials and methods.
+AI is being applied to a wide range of industries and use cases throughout the customer journey — from advertising, to customer service, to CRM, to sales. AI is being used to generate insights, create personalized experiences, automate processes and enable businesses to react faster to customer needs. AI is rapidly evolving and we are seeing significant developments in the following industries:
 
-5. Employment: AI is changing the way we work. AI can help us find jobs, apply for jobs, and even negotiate salaries. AI is also being used to automate tasks in many jobs, from customer service to data entry.
+- Advertising - AI is increasingly being used in advertising to optimize creatives and improve targeting.
+- Customer Service - Chatbots, virtual agents and other AI-enabled technologies are bringing voice-assisted customer service to new levels, helping to reduce wait times and present customers with a more personalized experience.
+- CRM - AI enables CRM systems to understand the context of customer interactions and identify prospects who may be a good fit for a particular product or service. This has the potential to reduce sales cycles and increase revenue.
+- Sales - AI is increasingly being used in sales to manage lead generation, identify new opportunities and help sales teams reach their targets. 
+
+## AI in the recruiting process
+
+One of the most immediate ways AI is being applied is in the recruiting process. AI has been used to screen resumes for some time, but now it’s also being used to help recruiters source candidates, create candidate search terms and find the best fit for a position. AI-enabled recruiting tools have the potential to significantly reduce the amount of time it takes to fill positions, while also improving the quality of hires. For example, AI can be used to identify patterns in resumes, scan social media for potential red flags and send a candidate’s information to the right person within the company. AI can also be used to help manage the entire recruiting lifecycle, from sourcing candidates to onboarding new hires. This can save time for internal employees and provide better service for candidates.
+
+## AI in Marketing and Advertising
+
+Marketers and advertisers are taking advantage of AI to create personalized content, improve customer experiences and create brand loyalty through chatbots. AI can easily interpret large amounts of data, so it’s no surprise that marketers are using AI to understand their customers better. AI-enabled solutions are able to interpret unstructured data, such as what customers are saying about a company online or the sentiment behind brand mentions. Marketers can use this insight to create personalized content, such as advertisements and product recommendations, based on what a specific customer needs. This is especially helpful when a customer is looking for a solution to a problem they don’t know they have, such as a new vacuum cleaner when they’re just trying to clean up after a pet.
+
+## AI in Manufacturing and Warehousing
+
+One of the most basic AI applications is in manufacturing. AI excels in predictable environments, and creating products on a consistent basis is one of those environments. Manufacturers can use AI to monitor equipment, manage resources and create predictive models to manage supply chains. Using AI, manufacturers can anticipate when equipment will need repair, optimize production and reduce costs.
+
+Similar to manufacturing, warehouses can use AI to predict inventory needs. Companies that ship products can also use AI to manage their relationship with delivery companies. In both environments, AI can be used to optimize space, create a safer work environment and reduce workers’ compensation. AI can also predict the best times to hire or lay off employees based on demand. 
+
+## AI in Smart Buildings and Homes
+
+AI can be used to create smart buildings and homes that are energy efficient, safe and easy to manage. Building and home management solutions that use AI are able to understand the context of situations, such as when a door has been left open and a person is away from home. AI-enabled solutions can take action in these situations, such as turning off the lights or locking the door. These solutions can also be used to manage utility costs by creating a more efficient building and using less energy. AI can also be used to create personalized experiences for residents, such
+
+as adjusting the thermostat based on residents’ locations or letting the lights turn on when residents are near the house. 
+
+## There’s still a way to go before we see true AI
+
+The evolution of AI is fascinating and there are many exciting applications of the technology. However, there is still a long way to go before we see true AI. There are many limitations to existing AI solutions, such as the inability to understand metaphors, the inability to learn new things or generalize knowledge across contexts and the inability to use abstract concepts. One of the biggest limitations is that AI cannot understand human emotions. While some of these limitations can be overcome given enough time, others are inherent to the technology. Regardless, it’s clear that AI is having a major impact on the world now, and it’s likely to have an even bigger impact in the future.
+
+## Wrapping up
+
+Artificial intelligence is already changing many industries, from manufacturing to marketing. As AI continues to evolve, we are likely to see more exciting applications, along with advancements in the technology itself. While there are many limitations to existing AI solutions, the technology is still progressing rapidly, and there’s no doubt it will continue to shape our world in the future.

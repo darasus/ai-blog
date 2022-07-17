@@ -1,44 +1,68 @@
 ---
 title: "Google's monopoly: How the tech giant controls our lives"
 createdAt: 2022-07-08T06:04:18.509Z
-updatedAt: 2022-07-08T06:04:18.509Z
+updatedAt: 2022-07-17T07:27:14.774Z
 category: technology
 ---
 
-Google's monopoly: How the tech giant controls our lives
+## Why does Google know so much about us?
 
-We all know Google as the world’s largest search engine. But what many of us don’t realize is that the tech giant has a monopoly on our lives. Google controls everything from the way we communicate, to the way we find information, to the way we shop. And it’s only getting bigger and more powerful.
+The short answer is that Google’s business is based on collecting as much information about its users as possible. This information serves many purposes, but the primary purpose is to allow advertisers to target specific users with highly effective ads. The more information Google has about us, the better it can tailor ads to our specific interests.
 
-How did Google become so big and so powerful? Well, it all started with search. Google quickly rose to dominance in the early 2000s as the go-to search engine for internet users. And as Google grew, so did its reach and its influence.
+Google’s first product was an online search engine. It was a breakthrough at the time because it allowed people to search for information on the internet instead of having to navigate to a bunch of individual websites. But Google soon realized that there was more money to be made in the ads tied to search results than in the search engine itself. So it began sharing those ads with other websites. 
 
-Today, Google is much more than just a search engine. It’s a tech giant that controls many aspects of our lives. Let’s take a look at some of the ways Google controls us:
+## Google knows when we’re most vulnerable.
 
-1. Communication
+One of the more disturbing facts about Google is that it knows when we’re most vulnerable to buying something. This may sound like an overstatement, but it’s actually true: Google has figured out the exact moments when we’re most vulnerable to making purchases — and those moments don’t always coincide with rational decision-making.
+The most common example cited in this case is when people are feeling depressed. It’s very easy to start clicking around on shopping websites when you’re feeling down, and this can quickly turn into impulse shopping.
+Let’s say you’re feeling pretty low one night. Maybe you got dumped by your boyfriend, or maybe you’re dealing with a run of bad luck. You’re alone in your apartment, and you’re feeling pretty blue. At that moment, Google knows that you’re more likely to click on ads for expensive products than you would be when you’re feeling happy and upbeat.
 
-Google owns two of the most popular communication platforms in the world: Gmail and Hangouts. Gmail is the world’s largest email service with over 1 billion users. And Hangouts is a popular messaging app that’s used by millions of people every day.
+## Google is watching everything you buy.
 
-By controlling these communication platforms, Google has a lot of power over the way we communicate with each other. And it’s not just personal communication that Google controls. The company also owns Google Apps for Business, which is used by millions of businesses around the world for communication and collaboration.
+Google is more than just an advertising company: It also has a robust e-commerce platform that allows people to sell products. The company’s e-commerce activities are powered by a service called Google Shopping that is, in many ways, more valuable than Google’s regular search engine.
+This is because Google Shopping shows ads based on your recent purchases. That means if you buy a new pair of running shoes, you’re likely to see ads for other running shoes in the Google Shopping section of your favorite websites.
+This is called “retargeting,” and it’s a powerful marketing tool. Retargeting ads are designed to show you products that you’ve previously shown an interest in.
+By tracking your shopping habits, Google can determine your preferences and show you ads for products that you might buy — even if you don’t actually click on the ads.
 
-2. Information
+## Google knows what you read.
 
-Google is also the world’s largest source of information. The company owns popular search engine and research tools like Google Scholar, Google Books, and Google News. And it’s not just text information that Google controls. The company also owns YouTube, the world’s largest video-sharing website.
+Google’s reach goes far beyond the products you buy online. It encompasses everything you read online, too.
+Google’s web crawler, an automated program that surfs the internet to figure out what pages are most relevant for particular searches, has a direct line to everything you read online. That means that when you read an article, Google knows about it.
 
-With all of these information sources under its control, Google has a lot of power over what we learn and how we learn it. The company can shape our understanding of the world in a very real way.
+Your browser automatically sends information about the pages you visit to Google, and that includes articles. Google includes that information in its database as part of its effort to show you results that you’ll find most relevant for any given search.
+By reading articles, you’re feeding Google data that allows the company to better tailor its results to your needs.
+The best example of this is Google’s timeline feature. If you click on the “Explore” tab at the top of the Google search page, you’ll be shown a timeline of events related to your search. You may see a timeline of related news stories or biographies of people who are relevant to your search.
+This timeline is filled with information that you’ve read in the past — whether you realized it or not.
 
-3. Shopping
+## Google is keeping track of your travels.
 
-Google is also a major player in the world of online shopping. The company owns popular shopping platforms like Google Shopping and Google Express. And it’s not just online shopping that Google controls. The company also has a hand in offline shopping through its Android Pay service.
+If you use Google Maps to track your daily travels, you may not realize that those movements are being recorded.
+When you use Google Maps to track your daily travels, the program keeps a record of your movements and places them on a map. This is most likely used for traffic reporting, but it also means that Google has a map with your travels on it.
+This data can then be used by other companies for a variety of purposes.
 
-By controlling these shopping platforms, Google has a lot of power over how we spend our money. The company can influence what we buy and how much we spend. And it can even track our spending habits to target us with ads for products and services that we’re more likely to buy.
+## Google has access to your conversations.
 
-4. Advertising
+Let’s say you use Google’s voice assistant to make a phone call. That call is recorded, and Google keeps the recording. Now, let’s say you use Google’s voice assistant to send a text message to one of your friends. That, too, is recorded and kept by Google.
+That’s right: Google has access to every conversation you have with a person — and it knows exactly who you’re talking to.
+This information is used by Google to improve its voice search, its translation services, and other products.
 
-Google is one of the world’s largest advertising companies. The company sells ads on its own websites and apps like Gmail, YouTube, and Google Search. But that’s not all. Google also sells ads on millions of other websites and apps through its AdSense program.
+## Google can see where you live and where you work.
 
-In total, Google sells ads on over 2 million websites and 650,000 apps. That’s a lot of power over the advertising industry. And it’s not just businesses that Google can influence with its ads. The company can also target ads to individuals based on their personal interests and habits.
+Google knows where you’re going and where you’ve been, but it can also see where you live and where you work.
+Google Maps allows you to mark where you live and work. When you do this, your home and workplace are added to a database of Google map locations.
+If you use Google’s Street View feature, you can also see images of your home and workplace.
+You may not realize it, but Google has a record of your home and where you work.
 
-5. Privacy
+## Is it possible to quit Google?
 
-Finally, there’s the issue of privacy. As we’ve seen, Google has a lot of information about us. And it uses this information to target ads, sell products, and even influence our behavior. This raises some serious privacy concerns.
+You can certainly reduce your Google dependence, but it’s nearly impossible to completely “quit” the company. One way to reduce your reliance on Google is to use alternative services as much as possible.
+If you can avoid using Google’s services, you’re less reliant on Google’s information. This means you should use Bing instead of Google for web searches, Yahoo for email, and so on.
+You should also avoid using Gmail as your primary email account and switch to a service like RiseUp or Tutanota that is not connected to Google.
 
-Fortunately, there are some steps you can take to protect your privacy from Google. But even if you take all of these steps, you’re still not completely safe from the tech giant’s reach. Google has too much power and too much control over our lives.
+Even if you do everything you can to minimize your reliance on Google, you won’t be able to completely escape the company’s grasp. That’s because when you use the internet, you’re still connected to Google.
+
+## Conclusion
+
+Google is far more than just a search engine. In fact, it has become so large that it is difficult to escape, even if you try. Google has a hand in everything from news to communications to travel, and while some of these services are useful, they can also be incredibly invasive. 
+This is not necessarily a bad thing, but it is important to remember that, whenever you use Google, you are putting a lot of yourself into the hands of a large, powerful company. 
+The good news is that Google is not just any company: It’s one of the most innovative and powerful companies the world has ever seen.

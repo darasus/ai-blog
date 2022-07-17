@@ -1,20 +1,67 @@
 ---
 title: The impact of AI on the workforce
 createdAt: 2022-07-07T06:05:40.687Z
-updatedAt: 2022-07-07T17:00:50.285Z
+updatedAt: 2022-07-17T07:24:43.445Z
 category: technology
 ---
 
-The impact of AI on the workforce is both significant and far-reaching. With the rapid expansion of AI capabilities, businesses are increasingly looking to adopt AI technologies in order to remain competitive. This is having a profound impact on the workforce, with many jobs being automated or replaced by AI.
+## What is AI?
 
-This trend is only set to continue, as AI technologies become more sophisticated and widespread. This will have major implications for the workforce, as well as the economy as a whole. It is therefore essential to understand the impact of AI on the workforce, in order to adapt and prepare for the future.
+Artificial Intelligence is the concept of a computer system performing tasks typical of human intelligence, such as understanding language, recognizing images, or making recommendations. The term is often used to refer to both narrow AI (narrowly focused human-like automation) and strong AI (human-level intelligence). AI has been around for decades, but has become a hot topic since the advent of cloud computing and the proliferation of open-source software.
 
-One of the most significant impacts of AI on the workforce is job loss. As AI technologies automate more and more tasks, there is less need for human workers to perform these tasks. This is already having a major impact on many industries, such as manufacturing and logistics. In the future, it is likely that even more jobs will be lost to automation.
+Computer programs have long been able to automate tasks that follow a set of rules, like trading stocks or sorting your email inbox. More recently, we’ve seen the rise of machines that can learn new skills on their own, without the need for a human to give the computer a set of instructions and then review its work to make corrections. This type of machine learning is what researchers mean when they talk about artificial intelligence being “more human-like.”
 
-This trend will have a number of consequences for the workforce. Firstly, it will lead to increased unemployment, as people lose their jobs to machines. Secondly, it will result in a decline in wages, as businesses seek to reduce costs by replacing human workers with cheaper AI alternatives. Finally, it will increase inequality, as those who lose their jobs to automation will find it increasingly difficult to find new employment.
+## How will AI affect the workforce?
 
-While job loss is one of the most significant impacts of AI on the workforce, it is not the only one. The rise of AI is also having a profound impact on the nature of work itself. As more tasks are automated, the need for human workers to perform them diminishes. This is leading to a decline in the number of hours worked, as well as a reduction in the quality of work.
+AI will impact all parts of organizations, including the way people work, how work is structured, and how work is done. 
+AI will impact each job differently, depending on the skills and tasks involved. Each employee should be mindful of their job risk and engage in continuous learning to stay relevant. AI will impact all types of organizations, from government, health care, education, and financial services, to manufacturing, retail, and hospitality.
+While AI will eliminate or restructure some jobs, it will also create new job opportunities. New jobs will require new competencies, skills, and mindsets. The shift in the workforce will happen gradually over a decade, as organizations adopt AI in stages. Businesses that eliminate low-skill jobs while creating high skill jobs will have a competitive advantage.
 
-In addition, the rise of AI is resulting in a change in the skills that are required for employment. As more jobs are automated, the need for human workers to possess specific skillsets declines. This means that those who are seeking employment will need to possess different skills than they did in the past.
+## Jobs that will be replaced by AI
 
-The impact of AI on the workforce is therefore both significant and far-reaching. It is essential to understand these impacts in order to adapt and prepare for the future.
+AI will replace jobs that are routine and predictable, such as data entry, scheduling, and rote analysis. AI will complement tasks that are unpredictable, such as sales, customer service, and product development.
+
+AI tools and algorithms can perform some tasks better than humans, such as diagnosing critical health conditions, managing large volumes of data, or making autonomous decisions. AI is not yet as good as humans at tasks that require creativity, empathy, or social skills.
+The following are jobs that are likely to be replaced by AI:
+
+- Data Entry: Machines can be programmed to quickly enter data into systems and detect and correct errors.
+- Operations and Scheduling: AI can suggest optimal schedules, manage inventory and staffing levels, and predict demand.
+- Customer Service: AI-enabled chatbots can answer simple questions and help resolve issues immediately.
+
+## Jobs that will be fundamentally changed by AI
+
+Jobs that rely on human creativity, problem-solving, and social intelligence are likely to be fundamentally changed. New AI capabilities will enable organizations to extract insights from massive amounts of unstructured data, optimize supply chains, and provide predictive maintenance. AI will also accelerate innovation by enabling organizations to access an expanded pool of experts and build new business models.
+
+The following are jobs that are likely to be fundamentally changed by AI:
+
+- Marketing: AI can analyze data to optimize content and drive real-time customer engagement.
+
+- Human Resources: AI can help onboard new employees, manage benefits, and identify and remove discriminatory practices.
+
+- Sales: AI can make targeted sales forecasts, schedule personalized sales calls, and identify potential customers.
+
+## New roles that will be created by AI
+
+As AI makes existing tasks easier, organizations will have the opportunity to expand their business and create new roles. AI will enable organizations to take on new challenges and drive societal impact.
+
+The following are new roles that will be created by AI:
+
+- AI Architect - An architect is responsible for developing an overall strategy for the use of AI.
+
+- AI Coach - An AI coach helps individuals and teams adopt and implement AI solutions.
+
+- AI CTO - An AI CTO is responsible for the entire AI initiative, from strategy to execution.
+
+- AI Ethicist - An AI ethicist is responsible for ensuring that AI is used for the greater good.
+
+- AI Guardian - An AI Guardian is responsible for managing risk, compliance, and security for AI projects.
+
+- AI Integrator - An AI integrator is responsible for planning and managing the implementation of AI solutions.
+
+- AI Manager - An AI manager is responsible for planning and prioritizing the work of AI-enabled people and teams.
+
+- AI Steward - An AI steward is responsible for optimizing the business results of AI and serving as the liaison between business and IT.
+
+## Bottom line
+
+Companies that adopt AI can increase productivity, reduce costs, and increase the quality of their products and services. The impact of AI is likely to vary among industries, companies, and individuals. Organizations that can develop an AI strategy and put in place an AI governance framework will increase their chances of successfully adopting AI. Employees should be aware of the impact of AI and how it will change the way they work.

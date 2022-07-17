@@ -1,30 +1,28 @@
 ---
 title: The best and worst games of the year
 createdAt: 2022-07-08T06:00:02.999Z
-updatedAt: 2022-07-08T06:00:02.999Z
+updatedAt: 2022-07-17T07:26:38.759Z
 category: gaming
 ---
 
-The best games of the year are those that manage to be both entertaining and challenging. They're the ones that make us think, "Just one more turn," while also providing enough of a sense of accomplishment that we feel like we've really accomplished something when we finally put them down. The worst games of the year, on the other hand, are those that are either too easy or too frustrating, offering little in the way of either enjoyment or satisfaction.
+## The Best
 
-This year, there were plenty of both good and bad games. For every masterpiece like The Witcher 3: Wild Hunt, there was a dud like Batman: Arkham Knight. Here are our picks for the best and worst games of 2015.
+Assassin’s Creed: Odyssey - It’s been a long time coming, but the long-running Assassin’s Creed franchise has finally found its footing again thanks to the decision to return to a more historical setting with Origins. Odyssey takes that formula and not only improves it but also transports it to an entirely new era.
 
-The best games of the year:
+Red Dead Redemption 2 - Rockstar Games is no stranger to long gaps between releases, and it’s been nearly eight years since the release of their last Western-style game, Red Dead Redemption. Thankfully, the sequel is well worth the wait, offering a vast open world, a massive amount of content, and a story that is just as compelling as it was back in 2010.
 
-The Witcher 3: Wild Hunt - There's a reason this game has won so many Game of the Year awards. It's simply one of the best RPGs ever made, with a vast open world to explore, hundreds of hours of side quests to complete, and a deeply engaging story that will keep you hooked until the very end.
+Halo Infinite - When a new console generation starts, it’s not uncommon for some of the biggest, most iconic franchises to sit out the initial release. Halo is one of these, and while it is a shame that we won’t see a new mainline entry this year, the next big thing in the series is looking exciting indeed.
 
-Bloodborne - From Software's latest game is a tough as nails action RPG that will test even the most hardcore gamers. It's not for the faint of heart, but those who persevere will be rewarded with one of the most satisfying gaming experiences of the year.
+Shadow of the Tomb Raider - The latest chapter in Lara Croft’s story is one that ends the trilogy on a high note. Taking inspiration from classic adventure games, the Tomb Raider series is at its best when it is focused on exploration, puzzle solving, and combat.
 
-Super Mario Maker - One of the most creative and innovative games of the year, Super Mario Maker allows players to create and share their own Mario levels. It's a must-play for any fan of the iconic platforming series.
+## The Worst
 
-Fallout 4 - Bethesda's latest open-world RPG is another massive game that will keep you busy for hundreds of hours. It's not without its flaws, but its vast world and wealth of content make it one of the best games of the year.
+Cyberpunk 2077 - This may seem like an odd choice given that Cyberpunk 2077 is still years off from release, but it’s hard to ignore the fact that the game’s original announcement was over a decade ago. Yes, CD Projekt Red has had their hands full creating a new game engine, but with the buzz and hype around this title, the developer has created a situation where the expectations are so high that anything short of amazing will be seen as a disappointment.
 
-The worst games of the year:
+Anthem - The idea behind BioWare making a multiplayer action-RPG has a lot of potential behind it. The execution, however, has proven to be a bit of a mess. With a smattering of bugs, a lack of content compared to other online games released this year, and online implementation that is a bit clunky, this title has a lot to be desired.
 
-Batman: Arkham Knight - A disappointing conclusion to Rocksteady's excellent Batman trilogy, Arkham Knight is marred by a number of technical issues and a frustratingly difficult Batmobile sections.
+Crackdown 3 - It’s tough to be a launch title, especially when you’re one of the very few games tied to the release of a brand new console. It’s even harder when your release date is pushed back because your development team was too ambitious, and that’s exactly what happened with Crackdown 3.
 
-Assassin's Creed: Syndicate - The latest Assassin's Creed game is a step backwards for the series, with a dull setting and uninspired gameplay. It's still worth playing if you're a fan of the franchise, but it's far from the best game in the series.
+## Conclusion
 
-Mortal Kombat X - A step down from the excellent Mortal Kombat 9, Mortal Kombat X is a disappointingly shallow fighting game that lacks the depth and variety of its predecessor.
-
-Tony Hawk's Pro Skater 5 - A complete mess of a game, Tony Hawk's Pro Skater 5 is plagued by technical issues, bad level design, and a general feeling of being unfinished. Avoid it at all cost.
+With all that being said, it has been a very good year for video games. Developers have pushed themselves to create something new and exciting while also giving players a chance to enjoy some of their favorite franchises from years past. Whether it be a brand new property or a return to an older title, there has been something for everyone this year. And with all the excellent titles that have already released, there’s plenty for gamers to look forward to in 2019.

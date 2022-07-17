@@ -1,20 +1,42 @@
 ---
 title: "The rise of the machines: how AI is changing the workforce"
 createdAt: 2022-07-07T06:05:40.643Z
-updatedAt: 2022-07-07T17:00:50.238Z
+updatedAt: 2022-07-17T07:24:41.407Z
 category: technology
 ---
 
-The rise of the machines: how AI is changing the workforce
+## What is artificial intelligence?
 
-The rise of the machines is upon us. With the advent of artificial intelligence (AI), the workforce is changing in ways we never thought possible.
+Artificial intelligence is the ability of machines to make good decisions. AI involves teaching machines to think like humans. It’s a broad term that describes many types of technology that are designed to imitate human behaviour. These technologies are used to solve problems that would take a lot of human effort, like making judgements about credit risk, or understanding language. It is a type of machine learning. AI has been around for decades, but recent advances in computing power have made it more realistic.
 
-Gone are the days when machines were solely used for manual labor. Now, they are increasingly being used for cognitive tasks such as decision-making and problem-solving. This is having a profound impact on the workforce, as businesses seek to harness the power of AI to gain a competitive edge.
+There are two different types of AI: general and narrow. General AI is the sci-fi idea of a machine that can do everything that a human can. That’s still a long way off, but narrow AI is already being used in our daily lives. Narrow AI is what you see in apps like Siri and Alexa – it’s designed to do one thing really well. Some examples of AI include speech recognition, machine learning, and robotics. The development of AI is likely to change all aspects of life, including the labour market and the way people earn their living.
 
-There are many different ways in which AI is changing the workforce. One of the most significant changes is the way in which businesses are organized. In the past, businesses were typically hierarchical, with a clear chain of command. However, with AI, businesses are starting to flatten out their organizational structures. This is because AI can be used to automate tasks and make decisions that would traditionally be made by human employees. As a result, businesses can operate with fewer layers of management, which can lead to increased efficiency and productivity.
+## How is AI changing the workforce?
 
-Another way in which AI is changing the workforce is by changing the nature of work itself. In the past, work was often repetitive and boring. However, with AI, work is becoming more creative and interesting. This is because AI is being used to automate routine tasks, freeing up employees to focus on more interesting and challenging work. This is leading to a more engaged and motivated workforce.
+AI is expected to affect all industries, occupations, and regions to varying degrees. In some cases, it will lead to a net increase in jobs, while in others, it may result in a net decrease. There are two key ways in which AI will impact the labour market:
 
-AI is also changing the way we interact with customers. In the past, businesses would typically interact with customers through face-to-face interactions or over the phone. However, with AI, businesses are now able to interact with customers through chatbots and other digital channels. This allows businesses to provide a more personalized and responsive service.
+- Jobs that can be automated will be automated - Certain jobs will be automated as the technology improves. This will lead to a net decrease in employment in those fields.
+- Certain jobs will become more valuable - Some jobs will become more valuable as new opportunities are created. This will lead to a net increase in employment in those fields.
+As AI technologies improve, they will affect more occupations and industries. The workers who will be affected are those in fields that are easily automated, such as service and sales. This is because these jobs consist of tasks that can be automated with current AI technology.
 
-Overall, the rise of the machines is having a profound impact on the workforce. With AI, businesses are able to operate more efficiently and effectively. Additionally, AI is changing the nature of work itself, making it more interesting and engaging. Finally, AI is changing the way businesses interact with customers, providing a more personalized and responsive service.
+## Good jobs will require more expertise
+
+As AI becomes more widespread, workers will have to become increasingly knowledgeable about AI in order to keep their jobs. This is because AI is often used to automate tasks. For example, if you work in sales and are responsible for making bids, an AI system may be able to take over this task. This is not necessarily a bad thing. It may free up your time to do other things that are more valuable to your company. Experts who understand AI can also help develop better AI technology.
+There will also be new jobs created as a result of AI technologies. These may include jobs in areas like programming, design, and consulting. While some experts are worried about their jobs becoming obsolete, others are confident that their expertise will keep them in work.
+
+## Bad jobs will require more skills
+
+Some low-wage jobs involve tasks that are easily automated. As a result, workers in those jobs will probably be displaced by AI.
+Some low-wage workers do jobs that require a lot of skill and training. As a result, they are not as likely to be replaced by AI. This is especially true for jobs that require social skills that AI is not designed to do, such as nursing or management.
+For example, a cashier at a grocery store who scans items that people purchase is a job that is easily automated. On the other hand, a professor who researches and teaches is a job that is not easily automated.
+Whether your job is more likely to be automated depends on your job duties. If your job is administrative or routine, such as bookkeeping, you are more likely to be replaced by AI. If your job requires a lot of creativity, new ideas, or social skills, you are less likely to be replaced by AI.
+
+## Jobs will be lost, but also gained
+
+As AI technologies become more widely used, some jobs will become unnecessary. People who do those jobs will probably be out of work as those jobs are automated. These jobs will be lost because they are not done by AI systems. Other jobs, however, will be created as a result of AI.
+This will lead to a net decrease in employment in some fields. And it will lead to a net increase in employment in other fields.
+These two effects will probably roughly cancel each other out in the end. It is unclear exactly how many jobs will be lost, how many will be gained, and how long it will take.
+
+## Conclusion
+
+The rise of the machines is here and has the potential to disrupt society in a lot of ways. While it’s not entirely certain how society will change as a result of AI, it’s clear that there will be significant implications for the workforce. AI has the potential to create new types of jobs and eliminate others. It may also change the way people work and learn.
