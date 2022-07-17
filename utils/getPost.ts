@@ -10,7 +10,12 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
   const source = fs.readFileSync(path.join(POSTS_PATH, filePath));
   if (!source) return null;
   const { content, data } = matter(source);
-  const mdxContent = await serialize(content);
+  const mdxContent = await serialize(content, {
+    parseFrontmatter: false,
+    mdxOptions: {
+      remarkRehypeOptions: {},
+    },
+  });
 
   return {
     content: mdxContent,
@@ -18,7 +23,7 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
     createdAt: data.createdAt.toDateString(),
     updatedAt: data.updatedAt.toDateString(),
     category: data.category,
+    summary: data.summary,
     slug: filePath.replace(/\.mdx?$/, ""),
-    description: `${content.replaceAll("#", "").trim().slice(0, 400)}...`,
   };
 };

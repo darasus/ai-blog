@@ -13,12 +13,15 @@ interface Props {
 }
 
 export default function Home({ post, posts }: Props) {
-  const { title, content, createdAt, description, category } = post;
+  const { title, content, createdAt, summary, category } = post;
 
   return (
     <>
       <div className="p-4">
-        <Meta title={title} description={description} />
+        <Meta
+          title={title}
+          description={`${summary.slice(0, 157).trim()}...`}
+        />
         <Post post={post} />
       </div>
       <div>

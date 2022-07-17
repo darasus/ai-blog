@@ -16,6 +16,5 @@ export interface TPost {
   createdAt: string;
   updatedAt: string;
   content: MDXRemoteSerializeResult<Record<string, unknown>>;
-  description: string;
   slug: string;
 }

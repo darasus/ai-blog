@@ -9,13 +9,13 @@ interface Props {
 }
 
 export const PostExcerpt: React.FC<Props> = ({ post }) => {
-  const { createdAt, category, title, description } = post;
+  const { createdAt, category, title, summary } = post;
 
   return (
     <>
       <PostMeta items={[createdAt, capitalize.words(category)]} />
       <PostTitle type="h2">{`${title}`}</PostTitle>
-      <div className="px-1">{description}</div>
+      <div className="px-1">{summary}</div>
     </>
   );
 };
