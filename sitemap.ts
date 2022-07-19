@@ -7,6 +7,230 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
       </url>
       
             <url>
+              <loc>https://www.theaipaper.com/p/the-ten-best-smartphones-on-the-market-today</loc>
+              <lastmod>2022-07-19T12:39:17.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/top-12-amazingly-low-cost-macbook-pro-alternatives</loc>
+              <lastmod>2022-07-19T12:39:12.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/making-apple-inc-great-again-how-to-make-the-most-of-your-apple-device</loc>
+              <lastmod>2022-07-19T12:38:57.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/top-10-mistakes-macbook-pro-owners-make</loc>
+              <lastmod>2022-07-19T12:34:46.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/smartphone-usage-statistics-that-you-need-to-know</loc>
+              <lastmod>2022-07-19T12:34:36.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/tips-for-buying-the-best-macbook-pro</loc>
+              <lastmod>2022-07-19T12:34:31.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/apple-airpods-the-best-apple-product-ever-made</loc>
+              <lastmod>2022-07-19T12:34:22.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/a-brief-history-of-apple-the-company-behind-your-favorite-gadgets</loc>
+              <lastmod>2022-07-19T12:33:54.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/10-essential-tips-for-writing-better-typescript-code</loc>
+              <lastmod>2022-07-19T12:33:42.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/5-reasons-why-you-need-a-macbook-pro</loc>
+              <lastmod>2022-07-19T12:33:39.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/3-reasons-why-your-macbook-pro-may-be-lying-to-you</loc>
+              <lastmod>2022-07-19T12:33:37.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/5-best-ai-applications-that-will-change-your-business</loc>
+              <lastmod>2022-07-19T12:33:36.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/apple-inc-what-you-need-to-know</loc>
+              <lastmod>2022-07-19T12:33:27.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/getting-the-most-out-of-your-smartphone-tips-and-tricks</loc>
+              <lastmod>2022-07-19T12:33:27.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/11-reasons-why-apple-is-the-best-company-in-the-world</loc>
+              <lastmod>2022-07-19T12:33:22.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/why-apple-inc-is-a-good-long-term-investment</loc>
+              <lastmod>2022-07-19T12:33:12.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/10-ways-artificial-intelligence-is-changing-marketing</loc>
+              <lastmod>2022-07-19T12:32:54.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/your-guide-to-the-best-smartphone-for-your-budget</loc>
+              <lastmod>2022-07-19T12:32:43.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/7-javascript-basics-every-typescript-developer-should-know</loc>
+              <lastmod>2022-07-19T12:32:40.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/elon-musks-grand-plan-to-take-over-the-world-the-master-plan</loc>
+              <lastmod>2022-07-19T12:32:37.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/the-future-of-ai-how-ai-will-shape-our-world-in-the-next-ten-years</loc>
+              <lastmod>2022-07-19T12:32:32.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/elon-musk-and-the-future-of-artificial-intelligence</loc>
+              <lastmod>2022-07-19T12:32:30.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/the-importance-of-artificial-intelligence-in-marketing-should-you-be-doing-it</loc>
+              <lastmod>2022-07-19T12:32:29.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/10-facts-you-need-to-know-about-elon-musk</loc>
+              <lastmod>2022-07-19T12:32:28.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/the-future-of-artificial-intelligence-what-it-means-for-us</loc>
+              <lastmod>2022-07-19T12:32:26.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app</loc>
+              <lastmod>2022-07-19T12:32:25.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/the-best-smartphones-of-2022-what-to-buy-and-why</loc>
+              <lastmod>2022-07-19T12:32:23.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/the-difference-between-javascript-and-typescript</loc>
+              <lastmod>2022-07-19T12:32:23.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/typescript-tutorial-a-beginners-guide-to-typescript</loc>
+              <lastmod>2022-07-19T12:32:20.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/how-to-use-graphql-in-your-next-project-a-beginners-guide</loc>
+              <lastmod>2022-07-19T12:32:15.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/why-there-is-no-gender-wage-gap</loc>
+              <lastmod>2022-07-19T12:32:13.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/typescript-a-beginners-guide-to-code-type-safety</loc>
+              <lastmod>2022-07-19T12:32:12.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
               <loc>https://www.theaipaper.com/p/10-rappers-that-will-make-you-want-to-get-out-on-the-floor-and-dance</loc>
               <lastmod>2022-07-17T15:00:32.000Z</lastmod>
               <changefreq>monthly</changefreq>
@@ -4139,6 +4363,34 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
           
             <url>
               <loc>https://www.theaipaper.com/posts/53</loc>
+              <lastmod>2022-07-17T15:00:29.176Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/posts/54</loc>
+              <lastmod>2022-07-17T15:00:29.176Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/posts/55</loc>
+              <lastmod>2022-07-17T15:00:29.176Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/posts/56</loc>
+              <lastmod>2022-07-17T15:00:29.176Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/posts/57</loc>
               <lastmod>2022-07-17T15:00:29.176Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>

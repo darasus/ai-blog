@@ -88,4 +88,5 @@ export const life = [
   "What Are The Benefits Of Mediation For Couples?",
   "What Are The Benefits Of Mediation For Individuals?",
   "How Can Mediation Help Businesses?",
+  "Why There Is No Gender Wage Gap",
 ];

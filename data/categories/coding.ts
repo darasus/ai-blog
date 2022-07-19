@@ -122,4 +122,10 @@ export const coding = [
   "Javascript For Beginners: A Step-by-Step Guide To Learning Javascript",
   "How To Make Websites With JavaScript: A Step-by-Step Guide To Learning Javascript",
   "Javascript For Beginners: A Quick Guide To Javascript",
+  "7 JavaScript Basics Every TypeScript Developer Should Know",
+  "TypeScript: A Beginner's Guide to Code Type Safety",
+  "The Difference Between JavaScript and TypeScript",
+  "Typescript Tutorial: A Beginner's Guide to TypeScript",
+  "GraphQL: Understanding How it Works and Why You Need it for Your App",
+  "How to Use GraphQL in Your Next Project: A Beginner's Guide",
 ];

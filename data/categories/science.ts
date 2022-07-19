@@ -19,4 +19,9 @@ export const science = [
   "Why Physics is the Most Important Science",
   "The World's Simplest Physics Tutorial: A Fun and Easy Introduction to the World of Physics",
   "Einstein's Theory of General Relativity - A Brief Overview",
+  "What is Biology?",
+  "The Secret Lives of Cells: 10 Fascinating Facts About the Biology of Life",
+  "The Fascinating History of Biology",
+  "Understanding The Basics of Biology to Dominate Your Class",
+  "The In-Depth Guide to Understanding Biology",
 ];
