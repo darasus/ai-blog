@@ -21,6 +21,7 @@ intro: >-
 
   But where should you start? Fortunately, there are plenty of accessible resources that can get you off on the right foot with your investments. Here we take a look at some of the basics of investing – what you need to know before getting started.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is investing?

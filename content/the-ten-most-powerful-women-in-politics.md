@@ -23,6 +23,7 @@ intro: >-
 
   As a result, when it comes to women in politics we often see a lopsided list that skews toward white cisgender able-bodied wealthy educated privileged women who look very little like the rest of us. And while we’re happy to see these women rising up as leaders within government — they are after all our representatives — we can do better…and we must do better if we want our democracy back from the patriarchy that currently controls it so thoroughly.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## 10. Nina Turner

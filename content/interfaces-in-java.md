@@ -22,6 +22,7 @@ intro: >-
 
   When we use interfaces, we are creating contracts between our classes that they will behave in a certain way—that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why use interfaces?

@@ -21,6 +21,7 @@ intro: >-
 
   These top rated games are some of the most fun and engaging ways to play this classic card game. Whether you prefer an easy version with higher rewards or something more strategic and challenging, these solitaire games will keep your interest from start to finish!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Tunes of Glory

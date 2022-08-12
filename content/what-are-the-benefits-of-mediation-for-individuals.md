@@ -23,6 +23,7 @@ intro: In today’s world, there is an increasing number of individuals who are
   discusses the benefits of mediation for individuals as well as how it can be
   implemented in one’s life.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Reduce Stress And Anxiety

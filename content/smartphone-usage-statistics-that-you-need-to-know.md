@@ -20,6 +20,7 @@ intro: >-
 
   With over half of all Americans owning a smartphone, it’s important that you are aware of the latest trends with regards to usage. This article will outline some useful stats about smartphone usage so that you can plan your marketing strategy accordingly.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## 30% of smartphone users only use their device to talk and text.

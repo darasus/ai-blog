@@ -22,6 +22,7 @@ intro: 5G is the next iteration of mobile network technology. It will enable
   just yet – but there are some excellent reasons why you should get excited
   about this future standard.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## 5G: What does it mean for us?

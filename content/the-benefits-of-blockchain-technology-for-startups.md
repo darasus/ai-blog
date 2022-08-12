@@ -23,6 +23,7 @@ intro: >-
 
   Do you need a complex network of nodes and miners to verify transactions? How about consortiums of pre-approved users who can access different levels of information based on their membership? Are you trying to avoid a third party intermediary like banks or brokers? If any of these apply to you and your business, then blockchain technology might just be what you’re looking for!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is blockchain?

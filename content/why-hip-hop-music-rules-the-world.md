@@ -24,6 +24,7 @@ intro: >-
 
   Let's take a look at why Hip Hop rules the world…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Wordplay is at the heart of hip-hop

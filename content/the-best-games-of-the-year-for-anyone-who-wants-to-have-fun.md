@@ -19,6 +19,7 @@ intro: >-
 
   With so many video games out there right now it can be difficult to know which are worth your time, especially if you want a game that has less stress and more fun than most others available today. So if you want some great ideas of where to start on your search for the best new games out there today read on!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

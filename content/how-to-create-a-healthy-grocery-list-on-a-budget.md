@@ -17,6 +17,7 @@ intro: >-
 
   Instead of making weekly trips to multiple stores and markets, plan a shopping day and hit one store at a time. Look for sales in that store before you go and stock up on foods that are good value. You might even consider investing in a membership card or becoming an insider or club member so you get vouchers or other discounts. Adding your own spin on some classic cheap meals will also help you save money without sacrificing nutrition. It just takes some planning and research to make it work!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Build a Basic Food Item Grocery List

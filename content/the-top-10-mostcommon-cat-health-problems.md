@@ -23,6 +23,7 @@ intro: >-
 
   Fortunately, there are many common cat health problems that can be easily avoided or resolved quickly with proper care. Here is our list of the top 10 most common cat health problems:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Parasites

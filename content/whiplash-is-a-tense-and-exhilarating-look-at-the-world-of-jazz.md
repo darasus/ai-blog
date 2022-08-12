@@ -22,6 +22,7 @@ intro: >-
    And yet, Whiplash is neither of those things if you don't have ears to hear and eyes to see what director Damien Chazelle so expertly puts right in front of us. Coming out of Sundance with the Audience Award and Best Director laurels, this indie has been getting rave reviews for all the right reasons — which we’ll get into in just a bit -- but it took me two viewings to figure out why that was the case.
   Read on to know why Whiplash is one of the best films on jazz and performance released this year:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Sound Mix is a Game-Changer

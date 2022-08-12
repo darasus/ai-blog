@@ -17,6 +17,7 @@ intro: >-
 
   There are many different types of sugars out there, but common table sugar or sucrose is the one you need to cut back on. Eating too much sugar can lead to weight gain, high blood pressure and other health problems. If you’ve read any articles about how bad sugar is for you, then you probably already know this. However, cutting back on sugar isn’t always easy. Sugar is in almost everything! Luckily, we’ve compiled a list of 10 super helpful tips that will teach you how to cut back on your intake of this not-so-nice white substance…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Change what’s in your coffee

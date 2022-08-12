@@ -21,6 +21,7 @@ intro: Gaming is an activity that has been enjoyed by kids for many years and it
   home with your child or let them play on their own to help develop their
   skills.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Lego DC Super-Villains

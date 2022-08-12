@@ -26,6 +26,7 @@ intro: >-
 
   An added benefit of mediation is that it allows people on opposing sides of a dispute see each other as human beings with needs, wants and concerns just like they have. They learn cooperation instead of confrontation…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Happens in Mediation?

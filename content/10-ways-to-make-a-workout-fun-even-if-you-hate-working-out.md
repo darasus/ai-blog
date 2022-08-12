@@ -21,6 +21,7 @@ intro: The unfortunate reality is that not everyone loves working out, and many
   strategies and techniques, which we’ve outlined below as our top 10 ways to
   make a workout fun again, no matter how much you hate working out!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Try a New Exercise Class

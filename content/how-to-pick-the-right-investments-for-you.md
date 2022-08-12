@@ -21,6 +21,7 @@ intro: >-
 
   One of the main reasons why many people don’t invest is because they don’t know where to start or are afraid they might make a mistake if they dive in too fast. Luckily, there are several different ways you can get started investing without breaking the bank or feeling overwhelmed by all the information out there.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Assessing your risk tolerance

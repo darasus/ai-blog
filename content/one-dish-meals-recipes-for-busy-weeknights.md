@@ -21,6 +21,7 @@ intro: >-
 
   One-dest meals are an excellent way to get back to basics and prepare wholesome home-cooked meals that don’t take long to make or leave you with lots of dirty dishes afterwards. Read on for some great tips on how you can make one-dish chicken recipes part of your weekly routine once again…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Make a plan

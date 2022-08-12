@@ -1,6 +1,6 @@
 import capitalize from "capitalize";
 import { MDXRemote } from "next-mdx-remote";
-import Image from "next/future/image";
+import Image from "next/image";
 import React from "react";
 import { TPost } from "../../types/Post";
 import { PostMeta } from "./PostMeta";
@@ -11,20 +11,29 @@ interface Props {
 }
 
 export const Post: React.FC<Props> = ({ post }) => {
-  const { createdAt, title, category, intro, content, summary, imageSrc } =
-    post;
+  const {
+    createdAt,
+    title,
+    category,
+    intro,
+    content,
+    summary,
+    imageSrc,
+    imageSrcBase64,
+  } = post;
 
   return (
     <article className="post">
       {imageSrc && (
         <div className="flex justify-center mb-4">
           <Image
+            blurDataURL={imageSrcBase64}
             className="object-center object-cover"
             src={imageSrc}
             height={500}
             width={500}
             alt={title}
-            loading="eager"
+            placeholder="blur"
           />
         </div>
       )}

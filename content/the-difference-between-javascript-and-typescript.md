@@ -22,6 +22,7 @@ intro: >-
 
   Both JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## JavaScript

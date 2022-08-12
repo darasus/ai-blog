@@ -20,6 +20,7 @@ intro: >-
 
   To help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you’re working on a project involving one or more of the following scenarios:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Data Cleaning and Preprocessing

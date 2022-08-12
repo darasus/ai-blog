@@ -12,7 +12,7 @@ interface Props {
 }
 
 export const PostExcerpt: React.FC<Props> = ({ post }) => {
-  const { createdAt, category, title, intro, slug, imageSrc } = post;
+  const { createdAt, category, title, intro, imageSrc, imageSrcBase64 } = post;
 
   return (
     <div
@@ -29,11 +29,13 @@ export const PostExcerpt: React.FC<Props> = ({ post }) => {
           )}
         >
           <Image
+            blurDataURL={imageSrcBase64}
             className="object-center object-cover"
             src={imageSrc}
             height={400}
             width={400}
             alt={title}
+            placeholder="blur"
           />
         </div>
       )}

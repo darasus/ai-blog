@@ -25,6 +25,7 @@ intro: >-
 
   Keeping in mind what might go wrong at mediation can help you identify weaknesses in your case and prepare accordingly. After reading this article, if you feel more confident about proceeding with mediation as your first course of action, we suggest having an attorney review your documents before signing on the dotted line.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Mediation Has A Low Success Rate

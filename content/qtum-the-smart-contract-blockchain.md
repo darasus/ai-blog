@@ -22,6 +22,7 @@ intro: >-
 
   Ethereum offers an accessible platform for developers who want to build smart contracts or other applications that run on top of a blockchain network. On the other hand, Bitcoin serves as a digital currency that can be sent through the internet directly from one user to another with no third party or intermediary.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Ethereum?​

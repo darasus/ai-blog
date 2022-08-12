@@ -28,6 +28,7 @@ intro: The world of work has changed rapidly. People are no longer confined to
   other measures designed to give people more control over their lives outside
   of work.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Exercise for productivity

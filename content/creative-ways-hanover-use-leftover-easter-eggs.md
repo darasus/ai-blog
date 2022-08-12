@@ -20,6 +20,7 @@ intro: >-
 
   There’s nothing like hiding eggs for children to bring out their sense of wonder again, and it doesn’t cost much to set up an egg hunt in your own backyard or garden. Read on for some creative uses for those leftover Easter eggs that require very little effort.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Creative Ways to Use Leftover Easter Eggs

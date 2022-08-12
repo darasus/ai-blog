@@ -22,6 +22,7 @@ intro: >-
 
   If you look at any list of popular programming languages, you’ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there’s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why is Go good for system programming?

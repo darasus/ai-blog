@@ -19,6 +19,7 @@ intro: >-
 
   Working feels like a burden and every task seems like an uphill struggle. You hate yourself for putting off something that is so beneficial for your future and your career. You’re also terrified about what will happen if you don’t finish this assignment by tomorrow. You don’t want to fail the course, lose your scholarship and end up homeless somewhere in a strange city where none of your friends live. However, all of this seems much more appealing than getting back to work on the project again; it’s even more appealing than thinking about how difficult life will be without the degree or scholarship at home.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Procrastination Equation

@@ -21,6 +21,7 @@ intro: >-
 
   With so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Language support: An essential tool for developers

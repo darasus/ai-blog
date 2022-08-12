@@ -23,6 +23,7 @@ intro: >-
 
   If you have not started testing your Java applications yet, we suggest you start soon!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Is Java Application Testing Important?

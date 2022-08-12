@@ -21,6 +21,7 @@ intro: >-
 
   There are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You’ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know When To Use Code Snippets

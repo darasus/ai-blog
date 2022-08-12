@@ -24,6 +24,7 @@ intro: >-
 
   This blog post aims to provide insight into what makes ZCash stand out from other cryptocurrencies, why some might view that as a positive or negative thing and what implications it could have on its future value.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is ZCash?

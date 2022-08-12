@@ -21,6 +21,7 @@ intro: >-
 
   If that sounds like you, don’t worry! You aren’t alone. Many people today find it difficult to carve out some time for themselves. Thankfully, it is possible to balance a busy schedule and make time for yourself. Here are some helpful suggestions on how you can make time for yourself even when you feel like there isn’t any left in the world.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Plan Ahead

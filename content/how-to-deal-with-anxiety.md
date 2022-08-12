@@ -21,6 +21,7 @@ intro: >-
 
   If you struggle with anxiety frequently and strongly, you are certainly not alone. In fact, almost 20% of adults in the United States experience some form of anxiety or another on a regular basis. Although there is no magical cure for dealing with anxiety permanently, there are many things that you can do to manage your symptoms better and live a happier life as a result.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Anxiety?

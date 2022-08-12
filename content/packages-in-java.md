@@ -18,6 +18,7 @@ intro: >-
 
   A package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they’re easier to find later on. Let’s take a look at some common Java packages:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## JDK (Java Development Kit)

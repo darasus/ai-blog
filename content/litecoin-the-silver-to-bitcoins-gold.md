@@ -22,6 +22,7 @@ intro: >-
 
   Red hot at present is Litecoin – an alternative version of Bitcoin with some key differences. Let’s take a deeper look at how this newer cryptocurrency stacks up against its older brother...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Litecoin?

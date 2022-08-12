@@ -20,6 +20,7 @@ intro: >-
 
   There are many things you should know about being with someone who travels a lot for work. Here are some tips to help you get past the difficulties and stay positive about your relationship as a whole.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Communicate Often

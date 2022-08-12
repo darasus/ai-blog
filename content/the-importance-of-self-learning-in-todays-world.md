@@ -19,6 +19,7 @@ intro: >-
 
   This article will focus on why you should invest in your own learning, what self-learning looks like today, the benefits of self-learning from an occupational standpoint, as well
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why is Self-Learning so Important?

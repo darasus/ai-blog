@@ -21,6 +21,7 @@ intro: >-
 
   In this article, we take a look at some of the top health benefits of meditation and how you can get started today.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Reduce Stress And Anxiety

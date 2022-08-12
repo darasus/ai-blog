@@ -21,6 +21,7 @@ intro: >-
 
   Yes, this is Eminem’s worst album ever; even worse than "The Marshall Mathers LP 2", "Recovery", and even "Recovery" again (sorry). Keep reading to see why
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 Click to jump

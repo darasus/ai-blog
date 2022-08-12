@@ -22,6 +22,7 @@ intro: "Everyone has to start somewhere. Whether you want to launch a small side
   always the same. Here are some tips on how you can create an effective small
   business budget on a shoestring budget:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Define your business goals

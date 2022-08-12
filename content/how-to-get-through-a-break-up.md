@@ -21,6 +21,7 @@ intro: >-
 
   If you’ve recently broken up with your partner or dating partner, it can feel like the end of the world. But it’s not! A relationship coming to an end does not mean there is something wrong with you or that you aren’t good enough for anyone or that you will never find love again. Your heart is broken at this moment because you cared deeply about this person - now you just have to understand why and how things went south so that it doesn’t happen again in your future relationships
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Talk It Out

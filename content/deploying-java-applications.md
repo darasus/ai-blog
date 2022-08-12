@@ -23,6 +23,7 @@ intro: >-
 
   In this blog post we take a look at several different ways you can deploy Java applications.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Manual Processes

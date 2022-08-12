@@ -19,6 +19,7 @@ intro: >-
 
   Read ahead to know about 9 of the Best Hip Hop Songs for Your Next Workout
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Jumping Jack

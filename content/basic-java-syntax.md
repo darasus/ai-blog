@@ -20,6 +20,7 @@ intro: >-
 
   If you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren’t necessarily common words in English. However, once you get past the unusual appearance of these words, you’ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Java?

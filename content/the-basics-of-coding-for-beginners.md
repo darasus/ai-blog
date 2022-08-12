@@ -21,6 +21,7 @@ intro: >-
 
   Coding is becoming one of the most important skills in today’s job market. Even if you don’t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis — often involving advanced software or artificial intelligence systems.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is Coding?

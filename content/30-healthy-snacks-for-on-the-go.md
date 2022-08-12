@@ -23,6 +23,7 @@ intro: "You’ve probably heard it before: When you’re busy, you need healthy
   perfect for keeping in your purse, desk drawer, locker, or anywhere else you
   might find yourself hungry and without access to a full meal."
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Greek yogurt with berries and granola

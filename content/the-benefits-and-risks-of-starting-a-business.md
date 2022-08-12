@@ -24,6 +24,7 @@ intro: >-
 
   Read on to learn more about the benefits and risks of starting a business so you can make the right choice for your personal situation
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Benefits Of Starting A Business

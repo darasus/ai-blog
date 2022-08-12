@@ -21,6 +21,7 @@ intro: >-
 
   There are many ways you can keep yourself on track and maintain concentration even when there are so many distractions coming at you from all angles. The trick is in knowing what they are and where they tend to come from — and then arranging your environment accordingly to prevent them before they have a chance to catch you unawares.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Have A Plan

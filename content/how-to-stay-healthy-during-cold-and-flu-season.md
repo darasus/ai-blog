@@ -20,6 +20,7 @@ intro: >-
 
   Thankfully there are ways to reduce your risk of contracting these viruses and being able to recover quickly if they manage to sneak through your defenses. Cold and flu season brings with it stressors like school, work, family obligations and end-of-year deadlines—not exactly ideal conditions for keeping your immune system strong!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Stay hydrated

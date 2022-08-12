@@ -22,6 +22,7 @@ intro: Software development is a challenging field. Even experienced developers
   the best IDEs for coding that you can use if you’re a developer or planning on
   becoming one in the future.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why is a good IDE so important for developers?

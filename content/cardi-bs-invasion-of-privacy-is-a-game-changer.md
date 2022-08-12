@@ -20,6 +20,7 @@ intro: >-
 
   With her debut album ‘Gangsta Vibes’ peaking at number 39 in the US Billboard 200 back in 2016, there were not many people ready for Cardi’s recent success. As an artist who was almost entirely unknown outside of New York just 12 months ago, it’s hard to imagine anyone seeing this coming. But as with all great artists it was always there lurking beneath the surface ready to burst and torment us all with its brilliance.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Cardi B’s artistry is all about the little things

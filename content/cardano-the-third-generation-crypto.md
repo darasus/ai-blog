@@ -24,6 +24,7 @@ intro: >-
 
   This is why Cardano has introduced a new second generation proof-of-stake (POS) consensus algorithm called Ouroboros that allows miners to also act as transaction validators. This creates a system where no single party can control majority stakeholder voting rights or tamper with transaction histories to double spend their digital assets.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Cardano?

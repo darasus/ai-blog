@@ -21,6 +21,7 @@ intro: >-
 
   There are various reasons why a dog may stop using the indoor toilet. It may be as simple as them not liking it because of its location or smell or because there’s another person or animal living in the house now who they don’t like seeing when they do their business.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Consistent Training

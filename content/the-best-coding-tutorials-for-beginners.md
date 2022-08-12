@@ -20,6 +20,7 @@ intro: Do you want to learn how to code but don’t know where to start? There a
   - you can learn all the essential skills of programming from these great
   resources. Try them out and become a coding pro in no time!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## HTML and CSS Basics

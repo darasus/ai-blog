@@ -29,6 +29,7 @@ intro: "It’s been more than a century since the fight for voting rights was so
   gas, billy clubs, and bull whips), leaving many injured and 26 hospitalized
   (Voting Rights Timeline)."
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Synopsis

@@ -20,6 +20,7 @@ intro: >-
 
   It’s incredibly empowering to know that you can teach yourself practically anything at any time that suits you. The world of self-learning has opened up a lot of opportunities for anyone who wants to advance their career, get back into the workforce after taking time off, or simply explore new hobbies. Here are some tips on how self-learning can help you advance your career.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Organise Your Learning

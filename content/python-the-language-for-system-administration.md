@@ -25,6 +25,7 @@ intro: >-
 
   There are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we’ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Python for System Administration

@@ -21,6 +21,7 @@ intro: Are you struggling to stay motivated to eat healthy? In our fast-paced
   takes time and effort but it’t possible if you don’t make small changes in
   your daily routine that support your goals. Here are
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Create a habit

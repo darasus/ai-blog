@@ -21,6 +21,7 @@ intro: >-
 
   Unfortunately, that last part is not hyperbole. The actions of unscrupulous financial engineers — colloquially known as “bankers” — led directly to the Great Recession in 2008, which cost millions their jobs and homes, while triggering widespread deflation and anemic growth throughout much of the developed world for years thereafter.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Big Short is a searing indictment of the financial industry

@@ -21,6 +21,7 @@ intro: >-
 
   These are the worst games of 2018, broken down by category and listed in no particular order. Some might have had good intentions or interesting concepts, but fell short in their execution. If you’re looking for something new to play this year, stay away from these titles as they won’t give you your money’s worth or much satisfaction beyond finishing them once (if that).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Action Games

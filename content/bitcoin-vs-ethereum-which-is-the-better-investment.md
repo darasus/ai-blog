@@ -20,6 +20,7 @@ intro: >-
 
   However, when we take a deeper look at how these two different types of tokens operate and what sort of potential they have long-term, it becomes clearer which one is likely to be worth more money.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Bitcoin?

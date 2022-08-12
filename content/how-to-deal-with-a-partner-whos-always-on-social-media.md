@@ -21,6 +21,7 @@ intro: >-
 
   On top of all this, many couples now meet their partners online – a third of marriages in the U.S. start with either partner meeting their future spouse through an online dating site or app. While it’s easy to feel pressured into signing up for these services if you don’t have friends who are single and looking for love, being in a relationship with someone who does use them regularly can be challenging at times.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What’s so frustrating about dating apps?

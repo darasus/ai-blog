@@ -21,6 +21,7 @@ intro: >-
 
   To remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is Go?

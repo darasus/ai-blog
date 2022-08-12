@@ -21,6 +21,7 @@ intro: >-
 
   Whether they’re old enough to understand or not, children need to understand that green leaves are not just something funny that vines climb on. They’re also packed with vitamins and minerals which will keep your little one healthy if they eat more of them. Here are some tips on how you can do exactly that...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Find The Right Veggies

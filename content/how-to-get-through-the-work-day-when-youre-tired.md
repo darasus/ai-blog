@@ -20,6 +20,7 @@ intro: >-
 
   Fortunately, there are ways to help manage these struggles and get through your work day when you’re tired. Here are some helpful tips that can make all the difference:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Make your mornings count

@@ -20,6 +20,7 @@ intro: "In today’s fast-paced world, we have less time to work out and still
   which is best for you based on your personal fitness level. Keep reading to
   discover more!"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The benefits of walking

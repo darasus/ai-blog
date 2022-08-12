@@ -21,6 +21,7 @@ intro: >-
 
   But like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Keep a Javascript Cheatsheet By Your Side

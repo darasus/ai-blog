@@ -21,6 +21,7 @@ intro: >-
 
   With JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you’re interested in learning more about its benefits and implementation details, keep reading!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is JavaFX?

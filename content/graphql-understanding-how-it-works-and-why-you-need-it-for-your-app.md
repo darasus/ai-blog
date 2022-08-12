@@ -19,6 +19,7 @@ intro: >-
 
   Let’s see what makes GraphQL so useful in the world of mobile apps.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is GraphQL?

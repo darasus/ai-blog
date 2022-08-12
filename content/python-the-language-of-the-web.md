@@ -24,6 +24,7 @@ intro: >-
 
   Keep reading to discover everything you need to know about Python and why you should learn it!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## How To Learn Python: A Step-By-Step Guide

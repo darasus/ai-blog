@@ -20,6 +20,7 @@ intro: >-
 
   Cats have been a constant companion of humans for thousands of years. They’re enigmatic creatures with a reputation for being aloof and independent; they don’t ask for much and they keep very little as repayment. But cats demand something intangible from their owners: companionship. As a result, there are many famous cats in history whose exploits have become the stuff of legend…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Sick-n’-twisted feline antics

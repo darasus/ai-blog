@@ -20,6 +20,7 @@ intro: >-
 
   Superfoods generally have impressive quantities of some or many nutrients, such as carotenoids (vitamin A), flavonoids, vitamins C and E, or omega-3 fatty acids (ALA). There are many types of superfoods; here is a list of 20 worth adding to your diet:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Chia Seeds

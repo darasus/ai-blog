@@ -23,6 +23,7 @@ intro: >-
 
   There are many things you can do as an individual to help you stay productive throughout the day no matter what your circumstances are. Keep reading for some great tips!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Morning routine

@@ -23,6 +23,7 @@ intro: >-
 
   There are potential risks when adopting new technologies such as blockchain; however, implementing it correctly can help your business thrive by streamlining processes and reducing costs. This article explains the risks of blockchain technology and how you can mitigate them before implementation.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Loss of Confidentiality

@@ -20,6 +20,7 @@ intro: >-
 
   Processing can take many forms. Some examples of processed foods include canned goods, frozen meals, packaged snacks, oils that have been refined or hydrogenated (as in Crisco), salt, sugar and starch that has been extracted from its original source (as in corn syrup or white sugar), spices that have been ground up, protein that has had artificial flavors or preservatives added to it (as in MSG), or food that has had artificial colors added to it (such as Red 40).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why You Should Ditch The Processed Foods

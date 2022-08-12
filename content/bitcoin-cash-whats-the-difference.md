@@ -19,6 +19,7 @@ intro: >-
 
   But which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let’s take a look at two of the most popular alternative digital currencies and see what sets them apart.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Bitcoin Cash?

@@ -20,6 +20,7 @@ intro: >-
 
   Programming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Go?

@@ -21,6 +21,7 @@ intro: >-
 
   The tips below will help you make better decisions when eating out.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Go for protein and fiber

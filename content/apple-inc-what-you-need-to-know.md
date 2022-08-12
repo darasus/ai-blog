@@ -21,6 +21,7 @@ intro: >-
 
   What follows is a detailed look into the history of Apple Inc., including details about key executives and any relevant organizational changes.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## 1980: The Birth of Apple Computer Inc.

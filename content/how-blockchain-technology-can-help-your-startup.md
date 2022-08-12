@@ -24,6 +24,7 @@ intro: In today’s digital age, it’s hard not to be impressed by the potentia
   the latest technological advancements into your business model, read on to
   understand how blockchain can help.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is blockchain?

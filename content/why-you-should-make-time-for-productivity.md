@@ -20,6 +20,7 @@ intro: >-
 
   But being busy isn’t always a good thing. It often means that we aren’t making time for things that are actually important, like building new relationships or dedicating time to personal development. Without making time for these things, we get caught up in the whirlwind of our everyday lives and don’t spend nearly as much time as we should focused on what matters most.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Productivity Isn’t Just About Being “Busy”

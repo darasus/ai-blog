@@ -22,6 +22,7 @@ intro: Web scraping is the practice of extracting data from websites. In this
   started with web scraping! This blog will cover why you should learn Python
   for web scraping and offer useful resources to get started learning it.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why learn Python for Web Scraping?

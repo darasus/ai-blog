@@ -23,6 +23,7 @@ intro: >-
 
   However, the success of any business will always come down to its people and processes as much as its technology. The focus of this article isn’t just on the individual technologies themselves but how they could help your business in the future.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Blockchain Technology?

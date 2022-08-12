@@ -23,6 +23,7 @@ intro: Looking to upgrade your software development skills and learn a new
   we will cover introduction to Spring and help you understand what it can do
   for you as a developer.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Spring?

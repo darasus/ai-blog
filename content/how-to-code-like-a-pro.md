@@ -22,6 +22,7 @@ intro: >-
 
   That doesn’t mean that these coders are bad or won’t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Practice Makes Perfect

@@ -20,6 +20,7 @@ intro: >-
 
   We had so many great games this year that choosing our top 10 was incredibly difficult. But we managed it! Here are the best games for newbies in 2019:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Sea of Thieves

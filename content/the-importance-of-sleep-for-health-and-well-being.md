@@ -20,6 +20,7 @@ intro: >-
 
   We will look into the importance of sleep for health and well-being as well as its benefits and why you should spend more time sleeping if you aren’t already doing so. Read on to find out everything you need to know about getting enough shut eye.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Sleep and Why is it so Important?

@@ -21,6 +21,7 @@ intro: >-
 
   When evaluating a cryptocurrency for long-term investment, we ask ourselves: How does this token solve a real problem? Does it have the potential to be adopted by many users? Is there an opportunity for this coin to appreciate in value? If you can answer yes to all of these questions, you may be interested in investing in Stellar — here’s why:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Stellar?

@@ -22,6 +22,7 @@ intro: "As hip-hop continues to shed its once-maligned reputation and become
   the floor with one of these 10 amazing rappers who will make you want to
   dance:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Lecrae

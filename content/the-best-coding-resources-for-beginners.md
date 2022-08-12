@@ -20,6 +20,7 @@ intro: >-
 
   Coding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn’t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you’re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Codecademy

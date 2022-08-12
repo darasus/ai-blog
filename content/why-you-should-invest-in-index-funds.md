@@ -19,6 +19,7 @@ intro: >-
 
   It is natural to have some fear or apprehension about putting your hard-earned money at risk by investing in the stock market. After all, many people witnessed the bursting of the dotcom bubble first hand and saw their retirement accounts plummet as a result. However, that does not mean you should avoid investing in stocks altogether—not even with recent recession still fresh on everyone’s mind.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is an index fund?

@@ -24,6 +24,7 @@ intro: "You probably don’t need anyone to tell you that the modern Western die
   goes into the meals you cook at home and the ones that you buy. Here are some
   tips on how you can do just that:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Change what you buy

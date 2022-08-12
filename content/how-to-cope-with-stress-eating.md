@@ -21,6 +21,7 @@ intro: >-
 
   In addition to mindfulness, these strategies will help you cope with stress eating while also reducing its likelihood in the future.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Plan Your Meals

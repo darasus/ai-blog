@@ -21,6 +21,7 @@ intro: >-
 
   However, if you look a little deeper into how Amazon operates as a business, you’ll discover some pretty sinister things about them – many of which you won’t read about in their press releases or see on their “About Us” pages. Here are some of the darker sides of this well-loved brand:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Amazon pays employees 15% less than the minimum wage

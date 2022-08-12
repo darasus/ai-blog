@@ -18,6 +18,7 @@ intro: >-
 
   Crockpots are great tools for getting dinner on the table without spending a lot of time thinking about it. Especially during peak busy season, having an easy way to cook delicious home-cooked meals at home can make all the difference in your quality of life. With these simple crockpot recipes, you don’t need to spend hours in the kitchen to have wholesome dinners ready when you get home from work or school.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Chicken

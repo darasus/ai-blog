@@ -20,6 +20,7 @@ intro: >-
 
   Coding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it’s the right career path for you:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## You’ll Gain Confidence In Your Abilities

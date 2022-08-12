@@ -23,6 +23,7 @@ intro: If you’ve read up on the world of parallel computing, you’ll know tha
   this purpose. The Go language is one such example. In this article, we will
   explain what Go is and its benefits for parallel computing.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Go?

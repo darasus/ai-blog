@@ -18,6 +18,7 @@ intro: >-
 
   Learning something new is not only beneficial for personal growth, but it’s also necessary in today’s job market. In fact, recent research found that 75% of job candidates lack the skills necessary to succeed at their interview. It’s clear that to stand out from other applicants, you need more than just an impressive resume. You need a high level of proficiency in your chosen subject. Fortunately for you, there are a variety of self-learning resources available to help boost your knowledge and get you one step closer to landing that dream job.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why is Self-Learning so Important?

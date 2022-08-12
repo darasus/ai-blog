@@ -22,6 +22,7 @@ intro: >-
 
   We take a closer look at where Europe is heading with its various endeavours towards greater unity.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## European Union integration: Where do we go from here?

@@ -20,6 +20,7 @@ intro: >-
 
   More specifically, where will blockchain go from here? What new implementations of blockchain technologies will we see in the near future? And what effects will these new innovations have on our day-to-day lives? These are all questions that many people are asking right now. Luckily, we have answers! Keep reading to learn more about the future of blockchain technology!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is blockchain?

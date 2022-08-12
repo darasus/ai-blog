@@ -13,6 +13,7 @@ import { getArticleData } from "./shared/getArticleData";
 import { formatMarkdown } from "./shared/formatMarkdown";
 import { Writesonic } from "../lib/writesonic";
 import { allConcurrent } from "./shared/allConcurrent";
+import sharp from "sharp";
 
 const spinner = ora("Start generating articles...");
 
@@ -69,9 +70,13 @@ async function main() {
       const image = readArticleImageFile(basename + ".png");
 
       if (image) {
+        const img = sharp(image).resize(50);
+        const base64url = (await img.toBuffer()).toString("base64");
         post.imageSrc = "/articles/" + basename + ".png";
+        post.imageSrcBase64 = "data:" + base64url + ";base64,";
       } else {
         post.imageSrc = "";
+        post.imageSrcBase64 = "";
       }
 
       const formattedPost = formatMarkdown(post as MDXPost);

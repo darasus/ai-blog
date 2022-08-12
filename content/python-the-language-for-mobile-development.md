@@ -21,6 +21,7 @@ intro: >-
 
   If you’re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we’ll cover why this is good choice—and why other options may not be ideal in certain situations.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Python?

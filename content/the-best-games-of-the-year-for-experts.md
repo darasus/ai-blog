@@ -20,6 +20,7 @@ intro: >-
 
   So if you think you have what it takes to make this list of the top expert games of 2018, check out these top-tier titles for some expert-level fun:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Hearthstone

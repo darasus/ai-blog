@@ -21,6 +21,7 @@ intro: >-
 
   In mediation, both parties together with their respective attorneys choose from various options to settle the case outside of court. The goal of mediation is to find solutions that are agreeable to both parties. It’s about finding win-win solutions instead of win-lose outcomes. It’s about exploring solutions that may not have been considered had the parties not been under the guidance of a mediator who has no stake in either outcome of the dispute other than seeing it resolved amicably and fairly so that everyone walks away feeling like they have gained something from it rather than having given up something they would rather have kept.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Are The Implications Of Filing For Divorce?

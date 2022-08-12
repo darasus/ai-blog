@@ -20,6 +20,7 @@ intro: >-
 
   That’s because by the time most people reach their late teens, their bodies have developed an increasing need for more complex nutrients to fuel our minds and bodies throughout the day. Instead of drinking glasses of juice and eating crackers with cheese in the morning, most adults need to eat something that is substantial enough to keep them going until lunchtime. Thankfully, there are plenty of easy ways to accomplish this feat while also saving time and money at the same time! Here are 50 ideas that will make mornings infinitely better…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Greek yogurt and fruit bowl

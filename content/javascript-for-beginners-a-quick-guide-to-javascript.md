@@ -21,6 +21,7 @@ intro: >-
 
   If you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let’s get started!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Javascript?

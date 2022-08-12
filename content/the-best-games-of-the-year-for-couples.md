@@ -19,6 +19,7 @@ intro: >-
 
   With so many different board games available on the market, it can be challenging to figure out which ones are worth investing in. Thankfully, this list features some of the best games perfect for couples this holiday season. Whether you’re looking for a light-hearted romp or an intense challenge that brings you closer as partners, these games have you covered.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Cards Against Humanity

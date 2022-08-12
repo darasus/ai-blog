@@ -20,6 +20,7 @@ intro: >-
 
   Now all you need is a million followers on Instagram and a sex tape with another famous person. It’s more than just a silly trend—it reveals something fundamental about how we now see the world.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## By the numbers: How Celebrities Rule the World

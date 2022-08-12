@@ -23,6 +23,7 @@ intro: >-
 
   There are many ways you can access local farmers’ market produce year round! Even if you don't live in an area with a traditional farmers' market or choose not to drive there each week, there's
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## SUPERMARKETS

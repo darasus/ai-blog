@@ -24,6 +24,7 @@ intro: >-
 
   Software engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Tasks And Responsibilities Of A Software Engineer

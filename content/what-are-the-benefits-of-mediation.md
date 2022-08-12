@@ -22,6 +22,7 @@ intro: >-
 
   Additionally, mediation allows you to keep control over your situation by avoiding court and practically ending your dispute faster than going to trial. If you’re interested in learning more about this resolution process as a way to manage your own conflict or as an advisor if you are working with someone who needs help resolving their dispute, read on. Here we will explore some benefits of mediation:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## It Helps You Understand The Situation From All Angles

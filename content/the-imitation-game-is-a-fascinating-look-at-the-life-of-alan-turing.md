@@ -20,6 +20,7 @@ intro: >-
 
   Turing was a brilliant man with many interests that went beyond mathematics and computer science: chess, cryptography, music theory and programming computers to sing are just some examples. This diverse background helped him crack the Nazi Enigma code during World War II at Bletchley Park (which has been nicknamed "Codebreaking Castle"). This saved countless lives and accelerated the end of the war by two years. After the war ended in 1945, Turing continued working as an cryptanalyst for a few more years before turning his attention to other interests –- and it is these interests that led to his arrest and untimely death at age 41.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Deciphering the Enigma

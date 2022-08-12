@@ -19,6 +19,7 @@ intro: >-
 
   Training your dog doesn’t have to be difficult or stressful – it just requires commitment and patience from both of you. The more straightforward training techniques like marker words, positive reinforcement and treat rewards should get your dog responding obediently within a few weeks.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Step 1: Pick A Marker Word

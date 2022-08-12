@@ -20,6 +20,7 @@ intro: >-
 
   Add variety to your diet with these ideas for main dishes, snacks, sides, sauces, and drinks all based on common ingredients found in most kitchens. Preparing your own food instead of eating out or buying pre-made meals saves money while also helping you eat better. You may not think it now but these concepts are simple and will be very helpful when you are preparing your own food instead of eating outside or pre-made meal packs consistently after reading this article .
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Beans

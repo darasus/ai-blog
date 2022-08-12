@@ -21,6 +21,7 @@ intro: >-
 
   Whether you like your eggs fried, scrambled or poached, there are plenty of recipes that show you how to cook eggs in different ways. Once you know the basics, you can even experiment with different flavors and create your own unique dishes using eggs as their main ingredient. Here are some tips on the best way to cook each egg variety:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Scrambled Eggs

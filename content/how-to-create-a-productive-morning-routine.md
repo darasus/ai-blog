@@ -20,6 +20,7 @@ intro: >-
 
   If this sounds like something you’ve experienced before, read on as we explore how to create a productive morning routine so that every single day of your working week runs smoothly and efficiently...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Productivity Doesn’t Happen Overnight

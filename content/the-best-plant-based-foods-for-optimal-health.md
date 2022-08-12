@@ -20,6 +20,7 @@ intro: >-
 
   In this blog post, you will learn about the benefits of a plant-based diet and which foods you should be adding into your diet if you want to optimize your health.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is a Plant-Based Diet?

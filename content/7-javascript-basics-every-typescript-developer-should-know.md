@@ -20,6 +20,7 @@ intro: >-
 
   In this blog post, we’ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you’ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Introduction to JavaScript

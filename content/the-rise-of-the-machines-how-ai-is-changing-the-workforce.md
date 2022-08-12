@@ -22,6 +22,7 @@ intro: Today’s workforce is undergoing a transformation unlike any in the past
   positively and other negatively. Keep reading to learn more about how AI is
   changing the workforce and what you can do to stay ahead of the curve.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is artificial intelligence?

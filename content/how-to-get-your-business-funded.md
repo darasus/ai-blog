@@ -22,6 +22,7 @@ intro: >-
 
   Whether you’re launching a side gig as a consultant, starting a bespoke clothing line, or opening a neighborhood cafe, researching potential business funding options early will pay dividends later. Business funding can take many forms: Small business loans, angel investments, grants from non-profit organizations and trusts, friends and family members willing to invest in your idea – all these different sources can provide capital necessary to launch your business.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Small Business Loans

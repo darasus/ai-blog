@@ -26,6 +26,7 @@ intro: >-
 
   Here’s a brief breakdown of what big tech companies and the future of the internet look like today:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Google

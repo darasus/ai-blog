@@ -18,6 +18,7 @@ intro: >-
 
   To help you out, we’ve listed some of our favorite quick pasta recipes here – along with tips on how to streamline your process even further. We hope this guide will turn you into an expert at making fast pasta dishes that everyone in the house will love.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Tips for quick pasta dinner recipes

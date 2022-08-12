@@ -20,6 +20,7 @@ intro: >-
 
   A well-diversified portfolio includes numerous asset classes such as stocks, bonds and cash; several sizes and types of companies; and perhaps even real estate and alternative assets like private equity or venture capital trusts. Read on to learn more about how to build a diversified investment portfolio.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Asset Allocation: The key to effective diversification

@@ -17,6 +17,7 @@ intro: >-
 
   EOS is not simply another cryptocurrency—it’s a third-generation blockchain that functions as a decentralized operating system, introducing new concepts and mechanics from software development as a service (SaaS) applications like Salesforce or Google Docs. In this article, we explore exactly what that means for you as an EOS token holder and potential investor.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is EOS?

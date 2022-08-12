@@ -22,6 +22,7 @@ intro: >-
 
   However, not all carbs are bad for you – in fact some types are essential for good health. Here’s how to tell the difference...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Good carbs vs bad carbs

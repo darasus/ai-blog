@@ -22,6 +22,7 @@ intro: >-
 
   Small businesses often face unique challenges when it comes to growing and expanding. As an entrepreneur, you might be juggling a lot of responsibilities as well as managing multiple tasks in order to keep your company running smoothly on a daily basis. However, as an employer and manager of several other people who are working towards achieving common goals; there are also different responsibilities that come with these roles. Here are some tips for growing your small business:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Have a Clear Vision

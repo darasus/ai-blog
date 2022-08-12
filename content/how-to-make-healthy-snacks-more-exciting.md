@@ -20,6 +20,7 @@ intro: >-
 
   The good news is that this is not an impossible task. With the right balance of encouragement, support, and guidance from trusted parenting sources, we can all help our kids grow up with healthier habits than we currently have as adults. Here are some ways you can make healthy snacks more exciting for your child:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Don’t Shout, Don’t Shame, And Don’t Threaten

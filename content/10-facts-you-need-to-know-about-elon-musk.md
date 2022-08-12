@@ -19,6 +19,7 @@ intro: >-
 
   But how much do you know about Elon Musk as a person? Do you know where he came from? Do you know what makes him tick? If not, read on for 10 facts about Elon Musk that you probably don’t know...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## He’s the founder of SpaceX and co-founder of Tesla Motors.

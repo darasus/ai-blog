@@ -23,6 +23,7 @@ intro: Given the current state of the economy, it’s never been a better time t
   dedication to not only come up with a good idea but also see that idea through
   to the end and make it successful.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know Your Business Plan Inside and Out

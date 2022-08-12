@@ -20,6 +20,7 @@ intro: >-
 
   It can be difficult to keep up with a regular exercise routine, especially when you’re feeling unmotivated. Even the most dedicated workout enthusiasts can struggle with keeping their routines fresh and exciting. If you feel like you’ve hit a wall when it comes to keeping up a healthy routine, here are some tips that will help you get back on track:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Set small, attainable goals

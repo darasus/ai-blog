@@ -19,6 +19,7 @@ intro: >-
 
   There are a wide range of different breeds of cat but generally speaking there are two main categories; longhaired and shorthaired cats. Within these two groups there are numerous sub-groups and hybrids with specific traits from different types of cat – check out this article to learn more about the basic types of cat!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The adorably cute Persian

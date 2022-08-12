@@ -23,6 +23,7 @@ intro: >-
 
   Programs specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Overview of Software Engineering

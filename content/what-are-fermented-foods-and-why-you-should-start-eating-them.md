@@ -22,6 +22,7 @@ intro: "Fermented foods are having a moment. Everywhere you look, you see
   fermented foods are, why they’re so good for us and how to incorporate them
   into your diet."
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What are fermented foods?

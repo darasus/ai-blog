@@ -21,6 +21,7 @@ intro: >-
 
   Luckily there are ways to make ahead freezer meals that are simple and stress-free. You don’t have to feel like a failure every day as a parent if you take some time now to prepare these dishes.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why make ahead freezer meals?

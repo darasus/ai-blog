@@ -22,6 +22,7 @@ intro: >-
 
   But that doesn’t mean it’s the end of road for blockchain technology in startups. In this blog post, we will explore why investors are skittish about blockchain-based startups right now and how you can help change that trend by launching one yourself. Read on to find out more.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Blockchain Technology?

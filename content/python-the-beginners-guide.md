@@ -25,6 +25,7 @@ intro: Looking for a way to start your career as a software engineer or data
   career further as an intermediate programmer with this skill set than keep
   reading!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## How to Install Python

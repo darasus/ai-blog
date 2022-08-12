@@ -25,6 +25,7 @@ intro: Automating tasks is a way of making your life easier. Imagine this, you
   how it can be used to automate simple repetitive tasks in your organization.
   Let’s get started
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Python?

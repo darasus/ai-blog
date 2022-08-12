@@ -23,6 +23,7 @@ intro: >-
 
   Keep reading to learn more about mediation and why it works so well for resolving conflicts.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is mediation?

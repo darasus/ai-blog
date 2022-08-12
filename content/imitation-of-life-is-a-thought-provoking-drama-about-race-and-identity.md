@@ -23,6 +23,7 @@ intro: >-
 
   Imitation of Life offers commentary on racial identity, classism and even pansexuality through these characters, providing insight into their experiences and highlighting inequality wherever it exists.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Importance of Identity

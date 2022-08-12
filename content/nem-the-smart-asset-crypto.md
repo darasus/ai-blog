@@ -25,6 +25,7 @@ intro: New Economy Movement or NEM is a new blockchain technology that aims to
   car, boat – anything you can think of! Let’s take a look at what exactly makes
   this crypto so special...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## NEM: What is it?

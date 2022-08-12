@@ -22,6 +22,7 @@ intro: >-
 
   If you’re thinking about starting your own business and feel like your idea could be a profitable business venture in the long-term, read on to discover some common reasons why startups fail so that you can take measures to avoid those pitfalls in your business plan before it’s too late.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Out of Pocket Money

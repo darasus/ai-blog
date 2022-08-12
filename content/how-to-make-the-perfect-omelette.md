@@ -20,6 +20,7 @@ intro: >-
 
   Whether you like yours with cheese or mushrooms, an omelette is one of the most versatile dishes out there. They’re fast and easy to prepare, but most importantly, they taste amazing. So if you’re ready to master this simple dish, keep reading for everything you need to know about making an omelette!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Try a fluffy omelette for breakfast

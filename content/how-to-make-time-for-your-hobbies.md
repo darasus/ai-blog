@@ -23,6 +23,7 @@ intro: When you love something, it feels like there’s not enough time in the d
   measure right now, there are always little cracks of space that can grow and
   expand into larger windows of opportunity.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Cut Out Tasks That Don’t Contribute to Meaning and Happiness

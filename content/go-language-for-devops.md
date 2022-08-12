@@ -21,6 +21,7 @@ intro: >-
 
   If you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Go?

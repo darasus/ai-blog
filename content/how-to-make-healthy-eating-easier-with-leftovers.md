@@ -23,6 +23,7 @@ intro: >-
 
   A meal made from scratch is an excellent way to ensure that you’re staying on track with your New Year’s resolutions. However, cooking every night is not realistic for most people. That doesn’t mean you can’t enjoy home-cooked meals without going through all the stressors of making them yourself – leftover cooking is your solution!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why should you care about leftovers?

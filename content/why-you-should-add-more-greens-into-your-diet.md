@@ -20,6 +20,7 @@ intro: "Greens are packed with nutrients and fiber, but we don’t usually think
   calories. Here are some ways to make your greens even healthier — without
   sacrificing taste!"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Add more vegetables to your diet

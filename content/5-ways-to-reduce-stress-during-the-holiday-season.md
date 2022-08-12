@@ -19,6 +19,7 @@ intro: >-
 
   Fortunately, there are some things you can do to make the season less stressful. Stress is a natural response when we feel like our safety is threatened or our personal space has been invaded. When it comes to the holiday season, however, just about everything invokes stress as a response. So if you want to reduce the stress of this festive time of year, here are five ways you can do so:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Plan ahead

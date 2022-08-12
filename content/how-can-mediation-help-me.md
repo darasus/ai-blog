@@ -21,6 +21,7 @@ intro: >-
 
   Mediation is a confidential process and there are many types of mediation depending on the nature of conflict. For example, dispute resolution could be focusing on specific issues such as environmental concerns or human resources issues; it could be between two parties such as divorce mediation or landlord-tenant mediation; it could be on a particular topic like civil rights mediation or criminal mediation; or it could be based on certain factors like age, gender, sexual orientation or physical ability. The following article explores the ways in which mediation can help you.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Understanding the Basics of Mediation

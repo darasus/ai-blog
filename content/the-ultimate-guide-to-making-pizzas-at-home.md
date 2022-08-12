@@ -21,6 +21,7 @@ intro: When it comes to eating out, the humble pizza remains one of the most
   crust or super thick pan or even cauliflower crust – this guide will show you
   how.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What’s the secret to a great home-cooked pizza?

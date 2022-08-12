@@ -23,6 +23,7 @@ intro: Now that the world of game development is becoming increasingly more
   development then keep reading. In this blog post, we’ll be covering all you
   need to know about Go and why it’s a great language for game development
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Go?

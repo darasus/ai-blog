@@ -26,6 +26,7 @@ intro: In the world of cryptocurrency, there are many different digital tokens
   Dash, an emerging crypto known as Digital Cash, if you’re looking for a more
   private crypto investment option.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Dash?

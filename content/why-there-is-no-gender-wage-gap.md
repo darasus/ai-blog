@@ -21,6 +21,7 @@ intro: >-
 
   If you read or listen to much mainstream media coverage on this topic, you would likely come away with the belief that there is a veritable conspiracy among employers to pay women less than men for doing the same job because of their gender.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is The Gender Wage Gap?

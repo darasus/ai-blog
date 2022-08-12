@@ -25,6 +25,7 @@ intro: >-
 
   Read on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Interactive Programming and Scripting

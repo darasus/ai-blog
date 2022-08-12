@@ -20,6 +20,7 @@ intro: >-
 
   Below, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Create a workflow that is catered to you

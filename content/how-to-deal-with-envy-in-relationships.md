@@ -20,6 +20,7 @@ intro: >-
 
   There are many different types of relationships: friendships, casual dating or serious partners. Regardless of what type of relationships you have with another person, envy probably won’t be far behind if they are important to you. Envy is one of the seven deadly sins for good reason. When we experience envy in a relationship it creates distrust, resentment and can ultimately end things prematurely before they even really begin. However, there are ways to deal with this feeling so that it doesn’t get the better of you.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is Envy?

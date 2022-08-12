@@ -23,6 +23,7 @@ intro: >-
 
   Let this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it’s important to mastering the fundamentals of coding like variables and conditional statements, we’ll walk you through everything you need to know about getting started with this dynamic programming language.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Javascript?

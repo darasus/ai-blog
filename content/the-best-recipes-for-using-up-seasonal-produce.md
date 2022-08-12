@@ -20,6 +20,7 @@ intro: >-
 
   However, there are plenty of upsides too! Eating seasonally means that you get to enjoy different flavors throughout the year — which is something many people don’t tend to do.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Plan your meals for the week.

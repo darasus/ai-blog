@@ -22,6 +22,7 @@ intro: >-
 
   To understand how our diet impacts the environment, we first need to understand what differentiates healthy diets from unhealthy ones. A healthy diet is one that balances calories with nutrition, ensuring adequate intake of vitamins and minerals. An unbalanced or unhealthful diet has too much or too little of one or more nutrients.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## How does our diet affect the environment?

@@ -21,6 +21,7 @@ intro: >-
 
   DBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Go is Good for Database Administration?

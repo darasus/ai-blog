@@ -20,6 +20,7 @@ intro: >-
 
   We all know that a tidy home is a happy one. Keeping a tidy household at all times can be challenging. The pressures of work and other responsibilities often get in the way of keeping things clean and organized. But with some preparation and planning you can make spring home cleaning your primary focus instead of an afterthought. Here’s how…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Choose a date and invite your friends

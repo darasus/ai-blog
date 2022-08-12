@@ -22,6 +22,7 @@ intro: >-
 
   If you’re looking for ways to reduce your red meat intake without sacrificing taste or variety in your diet, consider instituting Meatless Mondays at your place of business as well as at home.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is a meatless Monday?

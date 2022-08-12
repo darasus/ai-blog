@@ -20,6 +20,7 @@ intro: >-
 
   Many people struggle with their eating habits because they lack structure or fail to plan ahead. That’s why creating a strategy is essential if you want to maintain this commitment for good. Whether it’s going on a diet, cutting out certain foods or reducing your intake of fats, proteins or carbs – there are different ways how you can achieve your goals. Here are some helpful tips:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Make a plan

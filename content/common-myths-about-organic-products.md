@@ -23,6 +23,7 @@ intro: >-
 
   But don’t worry — we’re here to set the record straight!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Organic food is more nutritious than conventional food.

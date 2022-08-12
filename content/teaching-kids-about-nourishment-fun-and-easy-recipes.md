@@ -21,6 +21,7 @@ intro: >-
 
   Whether or not your child is a picky eater, these nutrition tips will help them understand why it’s important to eat fruits, veggies, whole grains and other wholesome foods. Whether you’re just starting out or continuing on with this wholesome eating plan for kids with more advanced challenges, the advice here will help you come up with fun recipes they won’t soon forget.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Don’t be afraid of vegetables!

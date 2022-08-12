@@ -22,6 +22,7 @@ intro: >-
 
   The best thing you can do is arm yourself with snacks that will keep your energy up so you’re not tempted to take a nap after dinner or give in to cravings for sweets. Protein-packed snacks are an excellent way of keeping your energy levels high and reducing stress eating from boredom or fatigue.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is an afternoon slump and why do we get them?

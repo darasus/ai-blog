@@ -20,6 +20,7 @@ intro: >-
 
   On the other hand, plant proteins are an important source of essential amino acids that cannot be produced by the human body. These compounds are found abundantly in plant foods such as beans, lentils, chickpeas, soybeans, peas, and other nuts and seeds.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What are protein sources?

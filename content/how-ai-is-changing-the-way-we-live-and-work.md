@@ -19,6 +19,7 @@ intro: New artificial intelligence (AI) technologies are automating tasks once
   guide covers everything you need to know about how artificial intelligence is
   changing the way we live and work.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Artificial Intelligence?

@@ -22,6 +22,7 @@ intro: >-
 
   This article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why is Java Still Relevant After 25 Years?

@@ -21,6 +21,7 @@ intro: >-
 
   With these tips and tricks, your next grilled cheese will be perfect!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Add a slice of bread to the grilling surface

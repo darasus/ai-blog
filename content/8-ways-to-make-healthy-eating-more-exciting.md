@@ -22,6 +22,7 @@ intro: >-
 
   If you’re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you’re putting in your body.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Do Something That Makes You Happy

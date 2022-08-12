@@ -18,6 +18,7 @@ intro: >-
 
   These easy and healthy dinner ideas can be ready in as little as 30 minutes and cost no more than $10 per serving. That means they’re cheap, fast, and nutritious -- an unbeatable combination. Whether you’re after a one-pot supper, something for leftovers, or simple salads that can be quickly thrown together, we have you covered with these fantastic affordable and wholesome recipes.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## A vegetable-based diet is key to healthy living

@@ -22,6 +22,7 @@ intro: >-
 
   Here are some of the best places and ways that you can start learning more about anything from coding to art history…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Audible

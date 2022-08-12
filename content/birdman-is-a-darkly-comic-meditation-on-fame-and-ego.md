@@ -23,6 +23,7 @@ intro: >-
 
   In exploring these themes of egotism and desperation in a celebrity-obsessed world, "Birdman" is an interesting exploration of what it means to be famous and why we allow others to have such power over us.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Importance of Being Famous

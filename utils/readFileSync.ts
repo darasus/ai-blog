@@ -18,7 +18,10 @@ export const readArticleImageFile = (
   encoding?: BufferEncoding
 ) => {
   try {
-    return fs.readFileSync(path.join(POST_IMAGES_PATH, basename), "binary");
+    return fs.readFileSync(
+      path.join(POST_IMAGES_PATH, basename)
+      // encoding || "binary"
+    );
   } catch (error) {
     return null;
   }

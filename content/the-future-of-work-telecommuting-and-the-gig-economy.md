@@ -19,6 +19,7 @@ intro: >-
 
   Both trends impact how and where we work, who is looking for work, and what skills are needed to succeed in this environment. Are you ready to adapt your career in response to these trends? END
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Telecommuting

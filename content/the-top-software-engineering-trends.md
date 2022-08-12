@@ -22,6 +22,7 @@ intro: >-
 
   Here are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Big Data and Machine Learning

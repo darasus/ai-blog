@@ -22,6 +22,7 @@ intro: >-
 
   That is why it’s essential that we understand the benefits of a healthy diet as it can help to improve your mood and tackle any issues you may be having with your mental health as a result of your eating habits.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is A Healthy Diet?

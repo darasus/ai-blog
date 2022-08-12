@@ -19,6 +19,7 @@ intro: >-
 
   Fortunately, there are some simple strategies you can implement to make eating healthy easier. Batch cooking is one of the best ways to make healthy eating easier and more convenient. Read on to learn more about how batch cooking can help you eat healthier without breaking your routine too much!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is batch cooking?

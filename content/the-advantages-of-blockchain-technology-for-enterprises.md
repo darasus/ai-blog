@@ -23,6 +23,7 @@ intro: >-
 
   Whether you’re just starting to learn about blockchain or you want to dive deeper into its potential applications, this blog post will help you understand why so many companies view blockchain as a game-changing innovation. It also explains how blockchain can be used to add trust and transparency to everything from supply chains to digital advertising and much more...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is blockchain?

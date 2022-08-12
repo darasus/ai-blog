@@ -24,6 +24,7 @@ intro: >-
 
   Furthermore, unlike arbitration, which uses a third party neutral arbitrator to resolve disputes privately with no input from either party, with mediation there’s no need for secret proceedings or winner take all outcomes. Instead, both sides come together in order to find the best possible outcome for everyone involved by working through issues towards an agreeable solution that works for everyone.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Are The Steps of Mediation?

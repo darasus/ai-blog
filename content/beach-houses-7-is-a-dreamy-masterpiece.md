@@ -20,6 +20,7 @@ intro: >-
 
   On "7", they go back to the basics of guitar-driven songs with Elizabeth and Alexis playing almost all instruments themselves once again (with help from some friends). This gives us a fresh take on their usual dreamy sound - intimate, raw and personal.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Track-by-Track Review

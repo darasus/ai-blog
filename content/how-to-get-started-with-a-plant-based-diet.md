@@ -22,6 +22,7 @@ intro: >-
 
   Many simply like the taste of plants more than meat. Whatever your reason for trying a plant- A great first step is learning how to start with these tips!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What You Need To Know Before Going Plant-Based

@@ -19,6 +19,7 @@ intro: >-
 
   Let’s be real: Most people think about breakfast as cereal or oatmeal as their go-to meal. Why? Because these are easy to prepare and serve when we rush out of the house to catch our bus or school shuttle in the morning. But there are other ways to eat a good breakfast that won’t take up too much of your time or space in the kitchen. Here are some ideas for eating a healthy breakfast every day that doesn’t involve cereal or oatmeal…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Eggs: The best breakfast food

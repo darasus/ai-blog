@@ -22,6 +22,7 @@ intro: >-
 
   Unfortunately, most of us don’t read user agreements or privacy policies until something goes wrong—and that’s too bad, because those documents often contain important information about how your personal information is going to be used by that service provider. In many cases, you’ll see an “OK” button beside the user agreement, meaning you must agree to continue using the app or site if you want to proceed any further.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Facebook’s business model

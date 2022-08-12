@@ -22,6 +22,7 @@ intro: There are plenty of reasons to learn how to code. This digital skill
   skills over time. The following article highlights some of the best tips for
   beginners who want to learn how to code in 2018 and beyond.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Learn how to code with the basics first

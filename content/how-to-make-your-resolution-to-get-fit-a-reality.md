@@ -21,6 +21,7 @@ intro: >-
 
   A lot of people give up on their New Year’s resolutions before they even begin, because they don’t have a plan of action and fail to consider what will keep them motivated along the way. Let us take a look at how you can make your resolution work:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Resolutions Fail

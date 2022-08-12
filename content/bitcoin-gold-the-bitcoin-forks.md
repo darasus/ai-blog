@@ -26,6 +26,7 @@ intro: "You may have heard of a fork before — as in, the idea of a software
   will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin
   Cash."
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is a Bitcoin Fork?

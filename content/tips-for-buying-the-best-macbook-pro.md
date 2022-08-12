@@ -20,6 +20,7 @@ intro: >-
 
   If you’re thinking about buying a Macbook Pro, here are some helpful tips to make sure you get the best model for your needs. The Macbook Pro comes in 13-inch, 15-inch and 17-inch screens, so that’s the first thing to consider when buying one. You also want to decide whether you need an integrated GPU (not all models have them) and how much storage space you want.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## 13-inch Screen Macbook Pro

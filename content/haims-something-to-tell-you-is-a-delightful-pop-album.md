@@ -23,6 +23,7 @@ intro: >-
 
   Luckily for us, they stuck to their word and released the nine-track EP on Sept. 14, just in time for our listening pleasure. Here are some of our favorite tracks from HAIM's 'Something To Tell You' Album:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Something to Tell You

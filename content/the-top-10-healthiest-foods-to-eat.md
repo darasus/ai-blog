@@ -21,6 +21,7 @@ intro: Keeping a balanced diet is essential for leading a healthy lifestyle. It
   might think. This article will teach you everything you need to know about
   eating healthily and getting the right balance of nutrients in your body.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is a Balanced Diet?

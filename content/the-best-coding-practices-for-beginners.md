@@ -22,6 +22,7 @@ intro: When you take your first coding class, you’ll quickly realize just how
   development. In this blog post, we’ll explore some of the most important best
   practices for beginners who are learning to code.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Use meaningful variable names

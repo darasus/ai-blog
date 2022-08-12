@@ -23,6 +23,7 @@ intro: Today, most people visit their desk just two or three days a week,
   required in 10 years’ time? And what implications does this have for education
   today?
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Will The Future Of Work Look Like?

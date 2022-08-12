@@ -21,6 +21,7 @@ intro: >-
 
   There are a number of factors that could continue to drive demand for Bitcoin, Ethereum, and other cryptocurrencies. Here’s what you need to know about investing in these assets:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Bitcoin?

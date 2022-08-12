@@ -24,6 +24,7 @@ intro: Starting a business can be an exciting challenge. Passion and drive are
   while also keeping in mind the realities of operating your own company, so
   that you plan accordingly from the start.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Define Your Company’s Mission And Goals

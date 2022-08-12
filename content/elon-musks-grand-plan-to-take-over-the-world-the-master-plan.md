@@ -22,6 +22,7 @@ intro: >-
 
   If you’re an Elon fan — or a potential job applicant — here’s everything you need to know about his companies and plans for the future:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## SpaceX

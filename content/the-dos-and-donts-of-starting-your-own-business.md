@@ -19,6 +19,7 @@ intro: >-
 
   Unfortunately, the reality is somewhat different. As with any job, starting your own business involves a significant amount of hard work and dedication. It isn’t easy, and many prospective entrepreneurs give up before they even begin. However, with the right guidance and support network in place, it also doesn’t need to be as difficult as most people imagine. To that end, if you’re currently exploring the idea of starting your own business - either as a sole proprietor or as part of an organisation - we have some handy advice on what not to do:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Don’t try to do everything yourself

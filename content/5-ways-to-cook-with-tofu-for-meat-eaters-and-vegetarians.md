@@ -20,6 +20,7 @@ intro: >-
 
   For those who don’t eat much meat or fish but still want to enjoy the flavors they bring to a meal, cooking with tofu is an excellent idea. Here are five ways you can use this versatile bean as a primary ingredient in your next home-cooked meal…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Tofu is great when you want to add protein to a meal.

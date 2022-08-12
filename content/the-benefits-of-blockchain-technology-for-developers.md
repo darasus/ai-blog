@@ -23,6 +23,7 @@ intro: >-
 
   Let’s take a look at some examples of how you can use blockchain technology for development either now or in the future.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Smart Contracts

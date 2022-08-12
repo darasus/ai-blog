@@ -21,6 +21,7 @@ intro: >-
 
   Training sessions should be fun for both you and your dog. They should never involve negative reinforcement or fear-inducing techniques like alpha roles or growling at them. To get started, read our helpful tips below on how to train your puppy to walk on a leash:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What You’ll Need

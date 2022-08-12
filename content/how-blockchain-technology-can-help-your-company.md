@@ -23,6 +23,7 @@ intro: >-
 
   If you are considering introducing blockchain technology into your company, keep reading! We have compiled a list of the top 5 reasons why your business should adopt blockchain technology today. You will also learn about the different types of blockchain solutions available and see some examples of how companies are currently implementing this transformative new technology.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Decentralized Data

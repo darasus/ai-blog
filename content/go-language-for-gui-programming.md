@@ -21,6 +21,7 @@ intro: >-
 
   In this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Easy to Learn and Maintain

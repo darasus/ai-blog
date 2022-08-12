@@ -19,6 +19,7 @@ intro: >-
 
   Self-learning is an individualized learning process in which students learn directly from sources such as books, audio or video recordings, computer programs, and virtual libraries. It is an independent study that takes place outside of a traditional classroom setting and often at an learner's own pace. Self-learning involves structured activities in which individuals plan their own learning experiences, monitor their progress, set goals and follow a detailed program of readings and practice assignments.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Achieve Your Goals

@@ -21,6 +21,7 @@ intro: >-
 
   With this blog post, you will discover everything you need to know about the future of AI – its benefits, limitations, current uses, and potential applications. You will also learn about the scope of AI technology today as well as its evolution over the next ten years.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is AI?

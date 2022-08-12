@@ -21,6 +21,7 @@ intro: >-
 
   We present you with the best family-friendly games released in 2018: Word games, puzzles and board games. These are some of the most engaging titles we’ve played all year long. These are not educational or just slightly wholesome—these are the best family-friendly games released this year that we think everyone should own as soon as possible!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Word Games

@@ -19,6 +19,7 @@ intro: >-
 
   With so many different morning routines out there, it can be difficult to know which one is right for you. There are those that are super long and involved, and others that are much shorter and simpler. Whether you’re looking for something simple or something a little more intense, we’ve got you covered with this ultimate guide on how to start your day with a healthy routine.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is a Morning Routine?

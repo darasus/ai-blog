@@ -9,6 +9,7 @@ export interface MDXPost {
   summary: string;
   intro: string;
   imageSrc: string;
+  imageSrcBase64: string;
 }
 
 export interface TPost {
@@ -21,4 +22,5 @@ export interface TPost {
   content: MDXRemoteSerializeResult<Record<string, unknown>>;
   slug: string;
   imageSrc: string;
+  imageSrcBase64: string;
 }

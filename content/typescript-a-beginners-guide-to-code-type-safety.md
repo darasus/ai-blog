@@ -21,6 +21,7 @@ intro: >-
 
   In this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Learn TypeScript?

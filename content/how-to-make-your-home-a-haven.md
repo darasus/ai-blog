@@ -22,6 +22,7 @@ intro: Creating a home is something that we all strive to achieve. For most,
   haven. Below are some tips on how you can transform your home into your very
   own haven...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Decorating Your Home

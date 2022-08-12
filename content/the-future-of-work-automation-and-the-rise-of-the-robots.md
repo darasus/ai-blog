@@ -25,6 +25,7 @@ intro: "Digital transformation is a sweeping trend that is reshaping businesses.
   countries where youth unemployment remains high. But how will this impact work
   in factories change? Let’s explore the future of work: automation and robots"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is automation?

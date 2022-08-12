@@ -19,6 +19,7 @@ intro: >-
 
   If you’re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it’s so popular right now, and how you can get started learning it too.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Python?

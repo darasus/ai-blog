@@ -23,6 +23,7 @@ intro: Being able to invest is one of the best things about being an adult. It
   everything you need to know about investing in stocks. If you need more detail
   or have specific questions that we haven’t covered here, please visit
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is stock investing?

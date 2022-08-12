@@ -23,6 +23,7 @@ intro: >-
 
   If you’re ready to learn more about how coding can help your kid grow as a person and as a future adult—as well as why it’s important for kids—read on!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Exactly Is Coding?

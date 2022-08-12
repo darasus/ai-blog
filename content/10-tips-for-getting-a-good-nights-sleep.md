@@ -20,6 +20,7 @@ intro: >-
 
   Getting a good night’s sleep isn’t always easy. But if you implement these ten tips into your routine you will be on your way to feeling rested and rejuvenated come morning time:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Turn off the screens an hour before bedtime.

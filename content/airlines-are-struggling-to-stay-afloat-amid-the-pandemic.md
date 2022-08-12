@@ -21,6 +21,7 @@ intro: >-
 
   The global pandemic has impacted all airlines, not just those directly affected regions. Regardless of where you’re flying from or to, here’s what you need to know about your flight during this turbulent time:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What’s Causing The Pandemic?

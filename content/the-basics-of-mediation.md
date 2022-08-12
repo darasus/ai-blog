@@ -25,6 +25,7 @@ intro: >-
 
   Mediation can be helpful when you have a tricky situation with someone else that doesn’t involve crime or violence but still has the potential to get out of hand if left unresolved. Mediation might not be your first thought as an option in resolving conflict because of its non-adversarial nature. However, it can be a very useful tool and quite effective in most cases given its collaborative nature which gives both parties more input into finding a solution they are comfortable with and happy with at the same time.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is mandatory mediation?

@@ -22,6 +22,7 @@ intro: >-
 
   For those who eat a lot of fast food or find themselves eating unhealthy because it’s cheaper than buying wholesome foods, these tips will help you make healthier choices while saving money at the same time.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Plan Your Meals

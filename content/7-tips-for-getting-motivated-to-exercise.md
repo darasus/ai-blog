@@ -20,6 +20,7 @@ intro: >-
 
   Exercise can be a tricky thing to get motivated for. There might be days where you feel like nothing can get you off the couch and other days when it feels like the best thing in the world — but how do you find that happy medium between being active and a sloth?
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know what works for you

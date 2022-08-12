@@ -20,6 +20,7 @@ intro: When you’ve cooked a batch of rice and there’s just a little bit left
   some leftovers again! Luckily, these ideas will help you make the most of your
   leftover rice.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Chicken and rice casserole

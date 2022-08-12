@@ -22,6 +22,7 @@ intro: >-
 
   These subtexts have been explored time and time again throughout history through literature such as The Bible
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Apocalypse as a lens to examine the human condition

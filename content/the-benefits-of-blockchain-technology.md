@@ -21,6 +21,7 @@ intro: The world is full of digital solutions that solve problems. But few
   blockchain represents a major innovation in computer science, with
   implications for almost every industry sector — including insurance.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Blockchain?

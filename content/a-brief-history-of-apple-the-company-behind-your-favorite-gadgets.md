@@ -21,6 +21,7 @@ intro: >-
 
   With this blog post, you will learn everything you need to know about Apple — from its history and key figures to its latest innovations and future endeavors. So whether you’re an Apple enthusiast or just want to know more about your favorite brand, read on to discover everything you need to know about Apple.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Company History

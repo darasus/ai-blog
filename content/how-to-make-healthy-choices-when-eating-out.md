@@ -22,6 +22,7 @@ intro: >-
 
   However, with some knowledge about what to look for when dining out, you can make healthy choices that support your diet and lifestyle goals while still enjoying yourself at the same time.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know The Basics Before Going Out To Eat

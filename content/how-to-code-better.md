@@ -20,6 +20,7 @@ intro: >-
 
   Learning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it’s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Plan Before You Code

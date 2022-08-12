@@ -22,6 +22,7 @@ intro: "The road to becoming an expert coder is long and challenging. In fact,
   willing to work hard at it and adopt some good habits along the way. Here are
   some tips on how you can get started today:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Learn the basics FIRST

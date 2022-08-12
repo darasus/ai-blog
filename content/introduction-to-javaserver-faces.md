@@ -23,6 +23,7 @@ intro: >-
 
   In this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is JavaServer Faces?

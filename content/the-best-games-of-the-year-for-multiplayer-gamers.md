@@ -21,6 +21,7 @@ intro: >-
 
   There are plenty of ways to enjoy playing video games as a group, whether that be at home with friends over drinks or even as part of an organized club. Here are some of the best multiplayer games out there if you want to team up and take on challenges together as well as compete against your pals for bragging rights.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Halo 5: Guardians

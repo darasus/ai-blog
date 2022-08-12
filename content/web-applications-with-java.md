@@ -20,6 +20,7 @@ intro: >-
 
   That doesn’t mean there aren’t plenty of frameworks and libraries to choose from – there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let’s take a look at some of your best options for building web apps with Java.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Spring MVC

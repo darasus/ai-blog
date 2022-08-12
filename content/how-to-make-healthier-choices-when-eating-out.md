@@ -21,6 +21,7 @@ intro: >-
 
   Eatting out at restaurants, cafes, fast food chains, or any other eatery requires some advance planning if you want to keep your diet in check. The primary considerations involve choosing places that offer healthy menu offerings as well as ordering smartly once you get there. This article will assist you in making wiser decisions the next time you eat out by identifying the pitfalls of most eating establishments and providing tips on how to navigate them with less of an impact on your waistline.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know the menu selection options in advance

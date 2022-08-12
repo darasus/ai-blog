@@ -19,6 +19,7 @@ intro: >-
 
   On-the-go food isn’t always healthy and nutritious. With more fast food chains popping up everywhere, it’s becoming increasingly difficult for us to find healthy meals that are also quick and convenient to eat. If you find yourself caught off guard by these circumstances often, here are some tips on how you can eat healthy while traveling or commuting.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Pack your own food

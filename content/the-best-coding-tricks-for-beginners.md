@@ -19,6 +19,7 @@ intro: >-
 
   Coding isn’t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Read and understand the basics before you dive in.

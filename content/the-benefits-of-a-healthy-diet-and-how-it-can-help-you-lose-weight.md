@@ -20,6 +20,7 @@ intro: >-
 
   You might be wondering why this information is important. There are so many different diets out there because people have different preferences for tastes and textures when it comes to food. But there are general principles that apply to all healthy diets – whether they involve cutting certain foods out or focusing on eating them in specific ways.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is A Healthy Diet?

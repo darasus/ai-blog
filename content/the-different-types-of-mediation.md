@@ -22,6 +22,7 @@ intro: >-
 
   Each type of mediation has its own set of rules and requirements. In this blog post we’ll explore some of the most common forms of mediation, including general mediation, third-party neutral mediation, guided collaborative mediation, hybrid collaborative-neutral mediation and expert team services (ETS).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is General Mediation?

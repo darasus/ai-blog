@@ -21,6 +21,7 @@ intro: >-
 
   If you’re ready to begin exploring the wonderful world of Python coding, read on to learn more.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Python?

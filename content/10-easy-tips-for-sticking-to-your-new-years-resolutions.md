@@ -22,6 +22,7 @@ intro: "New Year’s resolutions are like a clean slate for the coming year. Wha
   that add up over time and become second nature. Here are 10 easy tips for
   sticking to your New Year’s resolutions:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Change your environment

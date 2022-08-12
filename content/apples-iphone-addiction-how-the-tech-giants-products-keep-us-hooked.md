@@ -19,6 +19,7 @@ intro: >-
 
   That may sound weird for a company that makes a range of other products, but when you look at how much emphasis Apple has placed on its flagship smartphone in recent years, it starts to make sense. Let’s take a closer look at exactly how much power Apple has vested in its iPhone franchise…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## iPhone: A brief history

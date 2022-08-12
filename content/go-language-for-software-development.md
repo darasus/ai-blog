@@ -21,6 +21,7 @@ intro: >-
 
   Go is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Go?

@@ -21,6 +21,7 @@ intro: >-
 
   This article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Reduced Development Time

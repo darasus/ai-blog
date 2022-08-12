@@ -21,6 +21,7 @@ intro: EOS and TRON have both recently gained a lot of attention from the
   another. Let’s take a closer look at NEO and its competition with EOS and
   TRON.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is NEO?

@@ -24,6 +24,7 @@ intro: "Starting your own business is a challenging and rewarding experience.
   competitors, finding funding sources and creating an exit strategy are all
   essential steps to starting a successful business ("
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know Your Audience Before Starting A Business

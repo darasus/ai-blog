@@ -21,6 +21,7 @@ intro: >-
 
   Even adults prefer different methods of learning such as reading books on their own instead of listening to lectures or attending group classes. There are numerous ways through which you can tap into your inherent abilities and cater to your specific needs as an adult learner. These tips will help you hack your self-learning skills in no time.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Build your vocabulary.

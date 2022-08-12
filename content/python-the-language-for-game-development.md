@@ -22,6 +22,7 @@ intro: >-
 
   This article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is Python?

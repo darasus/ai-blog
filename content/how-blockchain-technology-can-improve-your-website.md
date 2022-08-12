@@ -22,6 +22,7 @@ intro: >-
 
   But what exactly is blockchain technology? In a nutshell, it’s a decentralized ledger that stores information in places called blocks. Whenever someone wants to add information or a transaction to the ledger, they first need to verify themselves by supplying proof of identity. Each block also has its own unique identifier known as a hash. These identifiers help track information easily without having to store an entire copy of each block, which reduces space significantly and speeds up data transfer speeds significantly.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is blockchain technology and why should you care?

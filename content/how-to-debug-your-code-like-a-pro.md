@@ -23,6 +23,7 @@ intro: "Are you an exceptional programmer? Sure, you can code in multiple
   doesn’t need to be a painful process. Here are some helpful tips on how to
   debug your code like a pro:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Kano Analysis

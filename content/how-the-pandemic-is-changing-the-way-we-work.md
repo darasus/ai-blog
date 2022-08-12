@@ -22,6 +22,7 @@ intro: >-
 
   In many ways, today’s workplace is very different from that of a century ago. Technology has advanced; office structures are more open and collaborative; and workers are expected to demonstrate self-motivation and flexibility in order to thrive in an ever-changing workplace environment.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Value of Time

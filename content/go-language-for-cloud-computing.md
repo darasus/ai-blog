@@ -20,6 +20,7 @@ intro: >-
 
   A majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Language selection process

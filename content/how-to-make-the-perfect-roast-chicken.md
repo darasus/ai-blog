@@ -20,6 +20,7 @@ intro: >-
 
   With this recipe for roast chicken, you can enjoy roast chicken at home again and again. Keep reading for some great tips on how to make the perfect roast chicken every time!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The perfect roast chicken

@@ -20,6 +20,7 @@ intro: >-
 
   However, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you’ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Introduction to Hibernate

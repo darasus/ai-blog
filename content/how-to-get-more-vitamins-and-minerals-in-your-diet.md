@@ -24,6 +24,7 @@ intro: >-
 
   What are vitamins and minerals? They are nutrients that our bodies need in small amounts for everyday processes. While deficiency can lead to some serious problems, getting too much of certain nutrients is also unhealthy. Here is everything you need to know about vitamins and minerals:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What are vitamins?

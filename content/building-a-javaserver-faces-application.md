@@ -21,6 +21,7 @@ intro: >-
 
   In this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Creating a New JavaServer Faces Project in IntelliJ IDEA

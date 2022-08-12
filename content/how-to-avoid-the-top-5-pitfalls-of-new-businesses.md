@@ -25,6 +25,7 @@ intro: >-
 
   Here we look at the top 5 pitfalls to avoid if you want to launch a successful business:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Not Testing Your Product Or Service Before Launch

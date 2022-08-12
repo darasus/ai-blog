@@ -23,6 +23,7 @@ intro: >-
 
   You might not know this if you live, work, and play exclusively online — as many people now do — but Google realizes more about you than any other company on earth.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why does Google know so much about us?

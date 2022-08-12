@@ -22,6 +22,7 @@ intro: >-
 
   It is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why learn Javascript?

@@ -19,6 +19,7 @@ intro: >-
 
   Any cat lover will tell you that cats have a way of making their presence known in an almost ethereal manner. Perhaps it is because cats are so often independent and solitary creatures who keep to themselves when they wish to remain undetected; or maybe it is because as fellow feline lovers know personally, there is something about these sly little creatures that seem to tap into some strange wavelength only accessible to them. Whatever the reason may be, there’s no denying that cats have left an everlasting mark on society through their ability to conquer our imaginations with just a simple look or gesture.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## With that being said, we wanted to take a moment today to pay homage to the kitty-world by taking a look back at some of the most iconic cat photos in history.

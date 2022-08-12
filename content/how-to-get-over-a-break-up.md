@@ -20,6 +20,7 @@ intro: >-
 
   When you experience a break-up, whether it’s from a partner, friend or family member, it leaves you with an empty feeling. It hurts so much because you placed so many emotions into the relationship that it now feels like a part of who you are has been taken from you. Even though the person who broke up with you may have been oblivious to the pain they were causing by ending things, that doesn’t make breaking up any easier for anyone involved.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Talk to Someone

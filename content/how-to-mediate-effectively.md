@@ -21,6 +21,7 @@ intro: >-
 
   Mediation can be used at any stage of conflict -- before litigation begins or during settlement discussions after lawsuit is filed. If you’re considering implementing mediation in your organization, here are some helpful tips on how to effectively mediate an employee dispute:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Establish a mediation program and educate employees on its benefits.

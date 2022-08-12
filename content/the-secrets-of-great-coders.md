@@ -22,6 +22,7 @@ intro: "Great coders know how to see, think, and solve problems. They can also
   problem at hand. If you want to become a great coder, these are some secrets
   you need to know…"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Focus On What Matters

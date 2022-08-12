@@ -20,6 +20,7 @@ intro: >-
 
   Did you know that the average video game player is getting older? According to recent data, the average age of video gamers is now 35 years old! That means most gaming enthusiasts probably won’t find as many underrated games as they would have when they were younger. However, there are still plenty of underrated gems out there that are well worth checking out this year! Here are the top 5 underrated video games of 2018:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## PlayerUnknown’s Battlegrounds

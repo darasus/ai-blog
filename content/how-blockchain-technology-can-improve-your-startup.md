@@ -22,6 +22,7 @@ intro: >-
 
   Unfortunately, many people still don’t fully understand what blockchain is or why it matters. But regardless of where you stand on this technology, you should know that blockchain isn’t just useful for cryptocurrency anymore—it can be used to improve almost any business model.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Blockchain Technology?

@@ -20,6 +20,7 @@ intro: >-
 
   With the rise in popularity of home gyms and personal training, more people than ever before are getting fit without stepping foot into a gym. In this article, we explore five ways you can get fit without joining a gym or purchasing an expensive home setup. Whether you have a small apartment or live in an area with limited outdoor activities, there are many different ways you can stay active and get fit without spending money on a gym membership or personal trainer.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Run Or Walk Outside

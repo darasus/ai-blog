@@ -21,6 +21,7 @@ intro: >-
 
   That’s why we’ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Why Go?

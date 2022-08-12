@@ -20,6 +20,7 @@ intro: >-
 
   The good news is that this time around, it looks like Mr. Musk has learned from his past mistakes and will be getting back on track soon enough. But until then, let’s take a moment to review all the recent drama with Artificial Intelligence, as well as what we can expect from AI in the future…
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What’s going on with Artificial Intelligence?

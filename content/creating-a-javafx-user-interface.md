@@ -21,6 +21,7 @@ intro: >-
 
   If you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Creating a JavaFX User Interface: The Basics

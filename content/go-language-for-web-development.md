@@ -22,6 +22,7 @@ intro: >-
 
   There is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Go?

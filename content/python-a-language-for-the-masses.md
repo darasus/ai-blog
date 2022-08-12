@@ -23,6 +23,7 @@ intro: Python is a general-purpose programming language that was created in
   coding language, and provide some resources for getting started. So keep
   reading to discover more about this awesome programming
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What can you do with Python?

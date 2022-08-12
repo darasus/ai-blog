@@ -19,6 +19,7 @@ intro: >-
 
   Meal prep doesn’t have to be expensive or time-consuming. With some planning and a few simple tricks, you can save money while also streamlining your food preparation routine.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Commit to the weekend

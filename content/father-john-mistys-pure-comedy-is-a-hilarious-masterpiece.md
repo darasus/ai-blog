@@ -22,6 +22,7 @@ intro: >-
 
   This might all sound like some heavy stuff for a Father John Misty record, but trust us – it only gets heavier from here.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## A Comedy of Errors

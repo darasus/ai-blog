@@ -19,6 +19,7 @@ intro: >-
 
   However, as most things in life go, self-care can be challenging to integrate into our busy schedules. Whether it’s because of work obligations, family commitments, schoolwork or any other number of reasons, many of us are left wondering how we can make time for self-care even when everything else in our lives feels like it’s getting in the way.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Start your day with self-care

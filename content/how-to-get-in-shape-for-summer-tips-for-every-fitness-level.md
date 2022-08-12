@@ -19,6 +19,7 @@ intro: >-
 
   Whether you’re looking for ways to get back in shape after a long winter hibernation or just hoping to avoid ending up in an unflattering bathing suit this summer, hitting the gym as often as possible is essential. But what if you don’t have a gym membership? Or what if you can only commit to working out at home? Luckily we have some great tips for how you can get in shape for summer no matter where you are.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know Your Limits

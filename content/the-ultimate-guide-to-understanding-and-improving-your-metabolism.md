@@ -21,6 +21,7 @@ intro: "Your metabolism is essentially the rate at which your body burns
   everything you do from breathing to blinking. Metabolism has several
   components that work together to help maintain it:"
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Basal Metabolic Rate (BMR)

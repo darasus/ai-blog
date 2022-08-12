@@ -22,6 +22,7 @@ intro: Natural language processing is the ability of a computer program to
   natural language processing such Artificial Intelligence, Machine Learning,
   Computer Vision, Information Retrieval, and Computer Speech Recognition.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Python used for in Natural Language Processing?

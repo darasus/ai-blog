@@ -24,6 +24,7 @@ intro: >-
 
   Mediation is one of the oldest dispute resolution methods on record; it probably existed even before the invention of formal courts. Keep reading and learn more about mediation, its history, and how it can help you resolve conflicts at work or in your personal life.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Mediation?

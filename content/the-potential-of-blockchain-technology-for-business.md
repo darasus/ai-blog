@@ -24,6 +24,7 @@ intro: >-
 
   Blockchain technology has the potential to streamline almost any industry, from finance to retail to even healthcare. If you want to know more about how blockchain can upgrade your business, keep reading for insight on the potential of blockchain technology for business.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Blockchain and How Does it Work?

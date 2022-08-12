@@ -23,6 +23,7 @@ intro: "Today, just about everyone has a smartphone. If you’re reading this bl
   features, customizing it to fit your needs, and keeping track of everything
   important in one place."
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Basics

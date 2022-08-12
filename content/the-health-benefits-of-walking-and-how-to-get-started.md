@@ -20,6 +20,7 @@ intro: It’s the perfect way to be active without having to think too much abou
   accessible and enjoyable for you. Here are some tips on how you can get
   started on that walking routine and keep it going...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Make the most of your commute.

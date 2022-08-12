@@ -24,6 +24,7 @@ intro: New technologies and breakthroughs in semiconductor fabrication have
   systems. The latest technology being adopted by both enterprises and
   developers is the Internet of Things (IoT).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is the Internet of Things?

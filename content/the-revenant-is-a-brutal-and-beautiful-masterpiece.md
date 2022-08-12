@@ -21,6 +21,7 @@ intro: >-
 
   The movie almost plays like a spiritual successor to “Inception” – it’s filled with symbolism, meaning, and philosophy. The only difference being this movie feels much more grounded in reality than anything else Inception had to offer. It may be due to the fact that it takes place in such an unforgiving environment; but regardless it does what Inception did not: create a story that makes you care about its characters in such an intimate way that you feel their pain just as much as their joys.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The art of filming in the wild

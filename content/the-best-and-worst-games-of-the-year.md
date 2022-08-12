@@ -20,6 +20,7 @@ intro: >-
 
   That being said, not all games are created equal. There are excellent games and then there are... others less so. To help you sort through the deluge of new releases this year, Gamers Central has compiled a list of our top ten favorite titles coupled with an even longer list of disappointments that you may want to avoid entirely or at least wait for a sale before picking up.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Best

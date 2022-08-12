@@ -24,6 +24,7 @@ intro: >-
 
   With self-learning, you are your own best teacher. You don’t need to rely on anyone else to understand something and retain that information. With some strategic planning, learning how to learn new things on your own can not only make you more efficient as an individual, but also help you build a foundation of knowledge that will last through almost any career change or advancement. Here are some ways to use self-learning to stay ahead of the curve:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Know what you need to learn

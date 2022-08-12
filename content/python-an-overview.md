@@ -25,6 +25,7 @@ intro: In this digital age, data is everywhere. Whether you’re using the
   article, we will explore what makes Python unique and discuss why it’s such a
   popular choice for programmers today.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Python?

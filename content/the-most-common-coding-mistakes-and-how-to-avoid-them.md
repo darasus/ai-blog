@@ -20,6 +20,7 @@ intro: No matter how many tutorials or articles you read, coding is always
   your project. Read on to find out more about these coding mistakes and how to
   avoid them when coding your next software project.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Don’t Know How To Check For Errors?

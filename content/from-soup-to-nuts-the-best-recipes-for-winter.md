@@ -20,6 +20,7 @@ intro: "When the temperature drops, and the leaves fall from the trees, we know
   things you can do with ingredients that are perfect for the colder months.
   Here is our list of the very best recipes for winter."
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Baked Mac and Cheese

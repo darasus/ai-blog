@@ -21,6 +21,7 @@ intro: >-
 
   If you’re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Read The Recipe Thoroughly Before You Start Cooking

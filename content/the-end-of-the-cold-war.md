@@ -20,6 +20,7 @@ intro: >-
 
   As a reformer rather than an ideologue like his predecessors, Gorbachev understood that continuing on this path could lead to catastrophe for his country. In December 1985, he traveled to New York City for a summit with U.S. President Ronald Reagan. At their first meeting, which took place in a small purple room at the UN headquarters, they began what would become a fundamental shift in international relations.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Happened at the Summit?

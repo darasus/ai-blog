@@ -25,6 +25,7 @@ intro: The world of business is changing at a rapid pace, thanks to innovations
   improve your business requires knowing what blockchain is, how it works and
   its potential applications — both current and future.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Blockchain Technology?

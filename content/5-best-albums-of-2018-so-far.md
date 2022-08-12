@@ -20,6 +20,7 @@ intro: While there has been some great music released this year, the first half
   mentioning. There may not be many great new albums out at the moment – but
   these five are definitely among the best.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Kendrick Lamar - "Damn."

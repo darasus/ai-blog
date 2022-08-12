@@ -25,6 +25,7 @@ intro: >-
 
   In this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Haskell

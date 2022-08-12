@@ -20,6 +20,7 @@ intro: >-
 
   Keep reading to learn more about no-load mutual funds and whether they might be right for you.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What you should know before buying a no-load fund

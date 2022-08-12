@@ -21,6 +21,7 @@ intro: >-
 
   Exercising is not always fun, but we need it to remain healthy and fit. While some people love sweating in their favorite gym class, others avoid workouts because they know how much they hate them. While exercise can be difficult at times, there are lots of different ways you can make moving more fun so that it becomes second nature and something you no longer dread.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Go With The Flow

@@ -20,6 +20,7 @@ intro: >-
 
   Mediation can be used at any stage of a dispute, from resolving initial grievances through settlement or arbitration. It can be used instead of litigation when there’s no clear right or wrong side or when it’s more cost-effective than adversarial proceedings. Research shows mediation can also make disputes last much shorter and cheaper than trials, reduce risk of lawsuits being refilled after settlement, and increase the likelihood of reaching an agreement in principle between parties.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Are The Requirements For Mediation?

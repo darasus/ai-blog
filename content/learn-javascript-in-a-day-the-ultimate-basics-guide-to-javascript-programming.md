@@ -21,6 +21,7 @@ intro: >-
 
   We have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What Is Javascript?

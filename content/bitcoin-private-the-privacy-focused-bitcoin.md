@@ -23,6 +23,7 @@ intro: >-
 
   Thankfully, there is also a solution within this problem: Bitcoin Private (BTCP).
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Bitcoin Private?

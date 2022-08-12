@@ -20,6 +20,7 @@ intro: >-
 
   This article discusses why self-learning is so beneficial, different methods of self-learning, as well as examples of how it can be incorporated into your life in order to improve your performance at work or school and expand upon your knowledge about things that interest you.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## The Benefits of Self-Learning

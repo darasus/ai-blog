@@ -20,6 +20,7 @@ intro: >-
 
   The answer is yes – provided you choose the right stocks. In fact, investing in stocks can be one of the safest ways to build your wealth over time. So if you’re wary about putting your money in individual companies or prefer less risky investments, ETFs may be an ideal option for you. Read on to learn more about these exchange-traded funds and whether or not they could be good for you.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is an ETF?

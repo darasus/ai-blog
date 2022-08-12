@@ -23,6 +23,7 @@ intro: >-
 
   With all those elements combined into one production you have something like “Them” from 2013 or any number of other films where monsters are revealed to be aliens or humans who were exposed to some sort of virus that turned them into beasts. But then again… The Babadook doesn’t exactly follow the same formulaic structure either.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## A Babadook by any other name would be just as frightening

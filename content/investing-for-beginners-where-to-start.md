@@ -23,6 +23,7 @@ intro: You can either love it or hate it. But investing is something that we all
   money so that it can grow over time. The trick is knowing which investment
   options are best for you and your circumstances...
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is investing?

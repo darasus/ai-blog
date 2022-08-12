@@ -23,6 +23,7 @@ intro: >-
 
   Read on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## Editor’s note: At the time of writing this, all of the recommendations below are free to read for anyone. However, it’s worth noting that some of these publications do have paid subscriptions with additional benefits like access to their vast digital libraries and automatic downloads of articles for reading off-line. If you want to read more about software engineering journals in general, check out the “Why You Should Read Scientific Journals” section at the end of this article. END editor's note>

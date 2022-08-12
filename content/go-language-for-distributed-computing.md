@@ -22,6 +22,7 @@ intro: >-
 
   A great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it’s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## What is Go Language?

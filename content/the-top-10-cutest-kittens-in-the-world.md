@@ -20,6 +20,7 @@ intro: >-
 
   With a wide range of cat lovers out there, it was almost impossible not to find the best examples of these perfect little furballs available anywhere! Whether you have a soft spot for Persians or tend to lean towards something with a bit more attitude like a Siamese, you’ll find your new favorite kitten here!
 imageSrc: ""
+imageSrcBase64: ""
 ---
 
 ## KITTENS ARE THE BEST!
