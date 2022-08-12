@@ -19,6 +19,7 @@ intro: >-
   Addressing their senses is a good place to start. The sense of smell and taste are the primary drivers of our desire to eat one thing or another. Kids love things that look, smell, feel and taste good. The trick is finding ways to incorporate these elements into nutritious meals so they want to eat them.
 
   One way parents have been able to do this is by using smoothies as an opportunity to add hidden veggies into their kid’s diets without them knowing it. And, since you’ll be using green smoothies as the base for your drink—not just any old sweet smoothie—it won’t add any sugar or calories that you don’t want in there.
+imageSrc: ""
 ---
 
 ## Why Kids Don’t Like Veggies

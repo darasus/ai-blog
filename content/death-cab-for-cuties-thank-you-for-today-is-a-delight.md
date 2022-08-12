@@ -17,6 +17,7 @@ intro: >-
   bands in indie rock. 
 
   After their last album, Codes and Keys (2012), frontman Ben Gibbard announced that he was working on a solo project called The New Age. It was something he had been thinking about for some time but wasn’t sure when or if it would come to fruition. Fortunately, after meeting with producer Rich Costey (M83, Blond Redhead) who helped him record some demos, things fell into place. The album came out as a collaborative release between Ben Gibbard and Nathan Wiley under the name The Further Adventures of New Age. And three years later Death Cab For Cutie released Thank You For Today.
+imageSrc: ""
 ---
 
 ## Track Review:

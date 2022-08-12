@@ -21,6 +21,7 @@ intro: >-
   But with so many different learning resources available today, it can feel overwhelming when trying to decide how and where you should begin this self-guided journey. 
 
   Here are some of the best places and ways that you can start learning more about anything from coding to art history…
+imageSrc: ""
 ---
 
 ## Audible

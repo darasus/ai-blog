@@ -20,6 +20,7 @@ intro: >-
 
 
   With careful planning and smart shopping, however, it needn’t break the bank. Eating well on a budget isn’t about cutting out all the things you love or pretending that you live in famine conditions; it’s about knowing how to save money while accessing healthy food that gives you energy and happiness in your life. Check out these tips and recipes so that eating healthy on a budget becomes easier than ever before!
+imageSrc: ""
 ---
 
 ## Plan your meals

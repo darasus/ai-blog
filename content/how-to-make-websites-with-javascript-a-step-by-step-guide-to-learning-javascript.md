@@ -22,6 +22,7 @@ intro: >-
   Whether you’re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript. 
 
   If you’re reading this article, then it means that you’ve already taken the first step towards becoming fluent in this coding language; You know there’s something called JavaScript and now you want to know more about it. Let’s get started!
+imageSrc: ""
 ---
 
 ## What is JavaScript?

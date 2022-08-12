@@ -19,6 +19,7 @@ intro: >-
   there. 
 
   Coding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here’s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:
+imageSrc: ""
 ---
 
 ## Code Runner

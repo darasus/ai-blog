@@ -16,6 +16,7 @@ intro: >-
   transactions. But that’s where the similarities end. 
 
   Monero has one of the largest communities of any cryptocurrency project, with over 16,000 active members on its forum and over 2,000 subscribers on its main Reddit page. These users are not just passive observers; they drive the future development of Monero by voicing their opinions and giving input on new ideas or potential changes to existing ones. This article takes into account all these aspects when explaining why you should consider investing in Monero.
+imageSrc: ""
 ---
 
 ## Monero is digital cash

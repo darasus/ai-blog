@@ -20,6 +20,7 @@ intro: >-
   ways we think about apps, projects, and processes moving forward. 
 
   With so many different factors at play, it can be difficult for startups to know where they should focus their efforts first. Many companies have taken an interest in blockchain technology recently because its decentralized nature makes it an appealing option for creating secure online communities without the risk of a single entity having too much control over members or their data.
+imageSrc: ""
 ---
 
 ## What is Blockchain Technology?

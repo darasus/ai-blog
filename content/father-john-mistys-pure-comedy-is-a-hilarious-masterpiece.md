@@ -21,6 +21,7 @@ intro: >-
   It’s a brilliant move on Tillman’s part to open an album with such a statement piece, because it sets the tone for what is to follow. Pure Comedy continues with a theatrical bombast that feels more inspired by Broadway than indie rock; there are even snippets of voiceover scattered throughout to help drive home Tillman’s point. But what exactly is his point? That human existence is absurd? Yes, that too. And also something about being terrified of artificial intelligence taking over the world (and rightfully so). 
 
   This might all sound like some heavy stuff for a Father John Misty record, but trust us – it only gets heavier from here.
+imageSrc: ""
 ---
 
 ## A Comedy of Errors

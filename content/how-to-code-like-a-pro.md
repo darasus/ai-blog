@@ -21,6 +21,7 @@ intro: >-
   Unfortunately, there are too many coders who don’t know how to code like a pro – which means that these programmers aren’t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.
 
   That doesn’t mean that these coders are bad or won’t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.
+imageSrc: ""
 ---
 
 ## Practice Makes Perfect

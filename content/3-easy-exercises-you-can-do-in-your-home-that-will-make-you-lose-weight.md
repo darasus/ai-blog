@@ -19,6 +19,7 @@ intro: >-
   look at these easy ways you can get moving in the comfort of your own home. 
 
   Working out at home has many benefits; it’s convenient, cheap, private, and most importantly—you can do it whenever you want! It’s also a great way to strengthen your body without needing to leave the house or spend a lot of money on expensive gym memberships or personal trainers. Working out in your home not only saves you time but is also a convenient way to keep yourself motivated to stay active every day.
+imageSrc: ""
 ---
 
 ## Strength training

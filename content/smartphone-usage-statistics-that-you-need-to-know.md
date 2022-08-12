@@ -19,6 +19,7 @@ intro: >-
   The usage of smartphones for email, texting and browsing the internet has declined slightly in recent years. But there has been a significant uptick in the number of people using their phones for uber-personal activities like taking selfies and streaming music.
 
   With over half of all Americans owning a smartphone, it’s important that you are aware of the latest trends with regards to usage. This article will outline some useful stats about smartphone usage so that you can plan your marketing strategy accordingly.
+imageSrc: ""
 ---
 
 ## 30% of smartphone users only use their device to talk and text.

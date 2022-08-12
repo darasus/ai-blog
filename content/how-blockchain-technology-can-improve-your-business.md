@@ -24,6 +24,7 @@ intro: The world of business is changing at a rapid pace, thanks to innovations
   on many computers simultaneously. Understanding how blockchain technology can
   improve your business requires knowing what blockchain is, how it works and
   its potential applications — both current and future.
+imageSrc: ""
 ---
 
 ## What is Blockchain Technology?

@@ -18,6 +18,7 @@ intro: >-
   Working from home, also known as telecommuting, has been around for decades but was only adopted by a small group of people because it was not widely accepted or understood. In the gig economy, workers find short-term jobs with different companies instead of working as an employee with one company for a long period.
 
   Both trends impact how and where we work, who is looking for work, and what skills are needed to succeed in this environment. Are you ready to adapt your career in response to these trends? END
+imageSrc: ""
 ---
 
 ## Telecommuting

@@ -21,6 +21,7 @@ intro: >-
   A poor diet can lead to obesity, heart disease and other serious conditions. It can also increase your risk of developing certain mental illnesses such as depression and anxiety. 
 
   That is why it’s essential that we understand the benefits of a healthy diet as it can help to improve your mood and tackle any issues you may be having with your mental health as a result of your eating habits.
+imageSrc: ""
 ---
 
 ## What Is A Healthy Diet?

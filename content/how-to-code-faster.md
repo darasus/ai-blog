@@ -19,6 +19,7 @@ intro: >-
   Working efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they’re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster. 
 
   Below, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able
+imageSrc: ""
 ---
 
 ## Create a workflow that is catered to you

@@ -20,6 +20,7 @@ intro: >-
   If you’re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases — all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That’s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency. 
 
   With so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE
+imageSrc: ""
 ---
 
 ## Language support: An essential tool for developers

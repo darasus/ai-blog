@@ -19,6 +19,7 @@ intro: >-
   add to your endless list of responsibilities and obligations.
 
   But making great food choices doesn’t have to take up a lot of time or feel like a chore. There are lots of simple things you can do every day that will help you make eating well a top priority. Even if your schedule seems packed, these small changes will help you get the nutrition your body needs without taking up too much of your time or energy.
+imageSrc: ""
 ---
 
 ## Make Eating Well A Ritual

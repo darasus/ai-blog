@@ -22,6 +22,7 @@ intro: >-
   Coding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand. 
 
   If you’re ready to learn more about how coding can help your kid grow as a person and as a future adult—as well as why it’s important for kids—read on!
+imageSrc: ""
 ---
 
 ## What Exactly Is Coding?

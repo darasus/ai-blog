@@ -20,6 +20,7 @@ intro: >-
   season it properly or add the right ingredients. 
 
   This doesn’t mean you shouldn’t make pasta at home again ever again. In fact, with the right tips and tricks, you can make amazing pasta dishes in your own kitchen once again! The key here is to experiment and explore different alternatives for creating that perfect pasta dish you’ve been craving for so long. Here are some simple tips that will help you achieve exactly that:
+imageSrc: ""
 ---
 
 ## Use good quality ingredients

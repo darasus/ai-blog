@@ -19,6 +19,7 @@ intro: >-
   Self-learning is actually a perfect way to accomplish this important skill upgrade. Self-learning is essentially learning by exploring topics on your own, rather than within the confines of a traditional school or course. It involves studying subjects that interest you, reading books or other materials related to those interests, and completing assignments or activities to gauge your progress. 
 
   This article discusses why self-learning is so beneficial, different methods of self-learning, as well as examples of how it can be incorporated into your life in order to improve your performance at work or school and expand upon your knowledge about things that interest you.
+imageSrc: ""
 ---
 
 ## The Benefits of Self-Learning

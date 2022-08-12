@@ -20,6 +20,7 @@ intro: >-
   If you have some money saved and want to get started investing, now is the perfect time to do so. The sooner you begin investing, the more time your investment will have to grow over time. However, many people procrastinate when it comes to their financial future because they think investing is complicated or requires a lot of money upfront. But that doesn’t have to be the case.
 
   One of the main reasons why many people don’t invest is because they don’t know where to start or are afraid they might make a mistake if they dive in too fast. Luckily, there are several different ways you can get started investing without breaking the bank or feeling overwhelmed by all the information out there.
+imageSrc: ""
 ---
 
 ## Assessing your risk tolerance

@@ -21,6 +21,7 @@ intro: >-
   If you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python — the primary programming language for game development. 
 
   This article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.
+imageSrc: ""
 ---
 
 ## What Is Python?

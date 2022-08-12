@@ -16,6 +16,7 @@ intro: >-
   work or school as a time for peace and quiet. After all, what could possibly
   be stressful about getting from point A to point B?
    It’s true that your commute isn’t inherently stressful. In theory, it’s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!
+imageSrc: ""
 ---
 
 ## Plan your route in advance

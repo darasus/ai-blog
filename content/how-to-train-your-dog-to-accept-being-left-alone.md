@@ -20,6 +20,7 @@ intro: As much as we love our dogs, and vice versa, no one likes the dreaded
   like turning off the light as meaning that you won’t be coming back home
   tonight. They have instinctual fear responses that need to be addressed
   specifically with training and care before leaving them alone.
+imageSrc: ""
 ---
 
 ## Set ground rules while you’re home

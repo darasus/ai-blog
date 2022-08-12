@@ -1,4 +1,4 @@
 import path from "node:path";
 
-// POSTS_PATH is useful when you want to get the path to a specific file
 export const POSTS_PATH = path.join(process.cwd(), "content");
+export const POST_IMAGES_PATH = path.join(process.cwd(), "public/articles");

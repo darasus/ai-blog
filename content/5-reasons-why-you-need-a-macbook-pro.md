@@ -18,6 +18,7 @@ intro: >-
   downside to MacBooks: they’re not as powerful as Macbook Pros. 
 
   If you want to get more from your laptop — especially if you plan on using it for intensive tasks such as photo editing or video editing — you need a Macbook Pro. The difference between the two models isn’t large enough to be noticeable unless you really dig into their specs. The Macbook is better suited for casual users because of its lower price tag and reduced weight. But if you’re considering buying a new laptop anytime soon, read these 5 reasons why You Need A Macbook Pro instead of the standard one.
+imageSrc: ""
 ---
 
 ## Macbook Pro laptop is more powerful

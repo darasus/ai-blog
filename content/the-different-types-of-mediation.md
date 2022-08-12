@@ -21,6 +21,7 @@ intro: >-
   Mediation can be broadly divided into two categories: third-party mediation, where an impartial mediator helps parties reach agreement; and collaborative or problem-solving mediation, where the mediator acts as a guide who helps both parties negotiate in good faith and move towards a mutually beneficial solution. 
 
   Each type of mediation has its own set of rules and requirements. In this blog post we’ll explore some of the most common forms of mediation, including general mediation, third-party neutral mediation, guided collaborative mediation, hybrid collaborative-neutral mediation and expert team services (ETS).
+imageSrc: ""
 ---
 
 ## What Is General Mediation?

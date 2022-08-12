@@ -23,6 +23,7 @@ intro: Starting a business can be an exciting challenge. Passion and drive are
   some of the practical steps you need to take if you want to launch a business,
   while also keeping in mind the realities of operating your own company, so
   that you plan accordingly from the start.
+imageSrc: ""
 ---
 
 ## Define Your Company’s Mission And Goals

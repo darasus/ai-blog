@@ -23,6 +23,7 @@ intro: In today’s digital age, it’s hard not to be impressed by the potentia
   this in mind, if you are launching your own startup and want to incorporate
   the latest technological advancements into your business model, read on to
   understand how blockchain can help.
+imageSrc: ""
 ---
 
 ## What is blockchain?

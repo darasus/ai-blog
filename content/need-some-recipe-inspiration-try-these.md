@@ -18,6 +18,7 @@ intro: >-
   Prue, Noel and Sandi testing their skills in the kitchen.
 
   For those who aren’t familiar with the show, The Great British Bake Off is a contest where amateur bakers are tested on their baking skills. Contestants are asked to make pastry-based dishes that often feature unusual or difficult techniques, and are judged on appearance, taste and originality. In each episode they face two different challenges: a Signature Bake where they must create something using a specific ingredient or theme as inspiration; and a Technical Challenge which might see them making croquembouche or another difficult dish.
+imageSrc: ""
 ---
 
 ## The Great British Bake Off — Episode 1

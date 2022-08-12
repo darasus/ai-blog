@@ -21,6 +21,7 @@ intro: Creating a home is something that we all strive to achieve. For most,
   There are plenty of ways in which you can make your home your own personal
   haven. Below are some tips on how you can transform your home into your very
   own haven...
+imageSrc: ""
 ---
 
 ## Decorating Your Home

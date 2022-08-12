@@ -17,6 +17,7 @@ intro: >-
   bed, or isn’t home until after you’re already in bed, things can get tricky.
 
   Working from home, flexible hours and remote working are all buzzwords in today’s labor market. Companies are becoming increasingly aware that it isn’t just about how much time employees spend at the desk but also about what they achieve during that time. A Gallup poll found that telecommuting or working from home is growing in popularity among professionals across most industries. Working remotely makes it easier to find jobs, negotiate schedules and live without a commute.
+imageSrc: ""
 ---
 
 ## What Is Co-Working?

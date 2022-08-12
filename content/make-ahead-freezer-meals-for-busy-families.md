@@ -20,6 +20,7 @@ intro: >-
   It’s not uncommon to come home after a long day at work, pick up your kid from after-school activities, rush them both inside so you can drive them somewhere else, then back home again just in time for dinner — if you can make it before bedtime!
 
   Luckily there are ways to make ahead freezer meals that are simple and stress-free. You don’t have to feel like a failure every day as a parent if you take some time now to prepare these dishes.
+imageSrc: ""
 ---
 
 ## Why make ahead freezer meals?

@@ -21,6 +21,7 @@ intro: >-
   With AI, marketers have new ways to analyze customer data and pinpoint which marketing strategies are most effective. It’s even easier for marketers to find out which marketing efforts drive sales with chatbots and virtual assistants powered by AI. 
 
   These new marketing tools are making it easier than ever before for marketers to increase ROI on their marketing campaigns, drive customer loyalty, and optimize every aspect of their brand’s presence online and off. Here’s how artificial intelligence is changing marketing today.
+imageSrc: /articles/10-ways-artificial-intelligence-is-changing-marketing.png
 ---
 
 ## AI is making marketing more effective.

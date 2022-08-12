@@ -63,13 +63,6 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
             </url>
           
             <url>
-              <loc>https://www.theaipaper.com/p/10-essential-tips-for-writing-better-typescript-code</loc>
-              <lastmod>2022-07-19T12:33:42.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
               <loc>https://www.theaipaper.com/p/5-reasons-why-you-need-a-macbook-pro</loc>
               <lastmod>2022-07-19T12:33:39.000Z</lastmod>
               <changefreq>monthly</changefreq>
@@ -4384,13 +4377,6 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
           
             <url>
               <loc>https://www.theaipaper.com/posts/56</loc>
-              <lastmod>2022-07-17T15:00:29.176Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
-              <loc>https://www.theaipaper.com/posts/57</loc>
               <lastmod>2022-07-17T15:00:29.176Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>

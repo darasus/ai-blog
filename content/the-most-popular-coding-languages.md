@@ -19,6 +19,7 @@ intro: >-
   jobs anywhere. 
 
   Coding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there – from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...
+imageSrc: ""
 ---
 
 ## Java

@@ -20,6 +20,7 @@ intro: >-
   Apple Inc., a U.S.-based technology company founded by Steve Jobs, Steve Wozniak and Ronald Wayne in 1976, is widely renowned for its innovative products as well as its business practices. 
 
   With this blog post, you will learn everything you need to know about Apple — from its history and key figures to its latest innovations and future endeavors. So whether you’re an Apple enthusiast or just want to know more about your favorite brand, read on to discover everything you need to know about Apple.
+imageSrc: ""
 ---
 
 ## Company History

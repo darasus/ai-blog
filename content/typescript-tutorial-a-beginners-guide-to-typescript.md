@@ -21,6 +21,7 @@ intro: >-
   phase. 
 
   This article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.
+imageSrc: ""
 ---
 
 ## What Is TypeScript?

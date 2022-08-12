@@ -21,6 +21,7 @@ intro: >-
   or services. 
 
   The process of launching a new business can seem overwhelming at first glance. Fortunately, there are resources to help you take the first steps towards opening your own company. In this article, we’ll explain everything you need to know about how to turn your idea into a successful business .
+imageSrc: ""
 ---
 
 ## Step One: Conduct Research

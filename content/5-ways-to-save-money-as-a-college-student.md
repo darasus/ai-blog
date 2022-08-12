@@ -25,6 +25,7 @@ intro: >-
   -END-
 
   There are so many things to consider when entering the next phase of your life. You'll be faced with many decisions that will impact you for years to come. One of those being where to attend school and what major or program to choose? While it might seem easy on the surface, these factors can have a huge impact on your future career opportunities and success. Read on for some useful tips on how to choose between different colleges and programs as a student...
+imageSrc: ""
 ---
 
 ## Research The Schools & Degrees You’re Considering

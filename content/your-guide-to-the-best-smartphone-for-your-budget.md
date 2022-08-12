@@ -20,6 +20,7 @@ intro: >-
   With so many different smartphone manufacturers and models out there it can be hard to know which one is right for you. Do you want a high end phone with all the bells and whistles? Or would a cheaper option suit your needs just fine?
 
   If you’re looking to buy a new smartphone in 2019 but aren’t sure where to start, read on to discover our guide to the best smartphones in 2019, broken down by budget.
+imageSrc: ""
 ---
 
 ## What to Look for When Buying a New Smartphone

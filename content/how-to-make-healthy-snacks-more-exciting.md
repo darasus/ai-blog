@@ -19,6 +19,7 @@ intro: >-
   There’s nothing like the love and trust of a child to make you reassess everything you do as a parent, and unfortunately most of us have let our kids down when it comes to feeding them in a way that benefits their health. It is not easy raising healthy kids when almost everywhere we look there are temptations around every corner trying their best to get us to buy something else instead. 
 
   The good news is that this is not an impossible task. With the right balance of encouragement, support, and guidance from trusted parenting sources, we can all help our kids grow up with healthier habits than we currently have as adults. Here are some ways you can make healthy snacks more exciting for your child:
+imageSrc: ""
 ---
 
 ## Don’t Shout, Don’t Shame, And Don’t Threaten

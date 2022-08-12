@@ -22,6 +22,7 @@ intro: >-
   Moreover, with institutions, governments and individuals increasingly recognizing the value of digital tokens, crypto-anarchists are becoming concerned that Bitcoin may not be sufficiently anonymous to protect against intrusion from authorities or intermediaries (e.g., exchanges and data brokers). This has led to an increase in demand for privacy-focused cryptocurrencies— known as ‘privacy coins’— like ZCash, Dash and Monero. 
 
   Thankfully, there is also a solution within this problem: Bitcoin Private (BTCP).
+imageSrc: ""
 ---
 
 ## What is Bitcoin Private?

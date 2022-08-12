@@ -21,6 +21,7 @@ intro: >-
   Not just because their track record so far has not been great but also because these new ventures face an uphill battle to get funded and succeed. The existing capital is mostly going towards internet of things (IoT) startups, artificial intelligence (AI), virtual reality (VR), and drones. 
 
   But that doesn’t mean it’s the end of road for blockchain technology in startups. In this blog post, we will explore why investors are skittish about blockchain-based startups right now and how you can help change that trend by launching one yourself. Read on to find out more.
+imageSrc: ""
 ---
 
 ## What is Blockchain Technology?

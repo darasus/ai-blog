@@ -19,6 +19,7 @@ intro: >-
   There are so many things that need to be taught to keep your dog safe and secure around you at all times. One of these essential training methods is how to train your dog to heel. Heeling is a very useful command because it teaches a dog how not to run away from their owner but rather stay by their side. This helps prevent them getting in danger or running after something they shouldn’t eat. 
 
   Training your dog to heel is not hard and should only take a few sessions with the right techniques. Let us take look at some of the tips that will help you train your dog in no time:
+imageSrc: ""
 ---
 
 ## Start With The Basics

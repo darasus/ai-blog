@@ -19,6 +19,7 @@ intro: >-
   easier than having to constantly chase after your pet. 
 
   But perhaps the most important reason why you should train your dog to come when called is because it might just save his life one day. In many cases, dogs that run away don’t get lost, they are just trying to find a way back home. Therefore, knowing how to train your dog to come when called can be the difference between him coming home safe and sound or getting lost forever. And let’s face it – nobody wants that!
+imageSrc: ""
 ---
 
 ## How To Train Your Dog To Come When Called – The Basics

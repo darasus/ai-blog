@@ -19,6 +19,7 @@ intro: >-
   Reducing the intake of animal products is one of the most effective ways to improve your health. There is strong evidence to suggest that a plant-based diet can reduce your risk for developing a variety of chronic diseases as well as increase your lifespan. The World Health Organization recommends an enhanced vegetarian diet (>200 g fruits and vegetables per day) with an abundance of plant-based foods for optimal health, disease prevention, and longevity.
 
   In this blog post, you will learn about the benefits of a plant-based diet and which foods you should be adding into your diet if you want to optimize your health.
+imageSrc: ""
 ---
 
 ## What is a Plant-Based Diet?

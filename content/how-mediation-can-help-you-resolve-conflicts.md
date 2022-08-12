@@ -22,6 +22,7 @@ intro: >-
   Mediation is an excellent technique for ending disputes between friends, colleagues, family members or any party involved in a conflict. It involves bringing neutral third-party mediators into the conflict and having them help both sides understand and work through their issues so they can resolve the problems on their own from there moving forward. 
 
   Keep reading to learn more about mediation and why it works so well for resolving conflicts.
+imageSrc: ""
 ---
 
 ## What is mediation?

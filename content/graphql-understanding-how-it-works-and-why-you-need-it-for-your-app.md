@@ -18,6 +18,7 @@ intro: >-
   One such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.
 
   Let’s see what makes GraphQL so useful in the world of mobile apps.
+imageSrc: ""
 ---
 
 ## What is GraphQL?

@@ -18,6 +18,7 @@ intro: >-
   hoped.
    Self-learning is the act of continuously learning outside of a formal education or training program; it can be done on your own or in groups. It involves regularly reading books and articles, listening to podcasts, watching online lectures, taking online courses, or spending time with people who are knowledgeable about a subject that interests you. 
   This article will introduce you to self-learning and its benefits, how to get started with self-learning, and tips from experts on how to make the most out of this practice.
+imageSrc: ""
 ---
 
 ## What is Self-Learning?

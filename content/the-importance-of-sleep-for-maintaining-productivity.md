@@ -21,6 +21,7 @@ intro: >-
   mental health? 
 
   That might be a little bit scary for some people, but the truth is: You need to make sure you’re getting enough rest if you want to remain productive throughout your workday. Unfortunately many people underestimate the importance of sleeping well, but this also means they’re not aware of all the ways that lack of sleep can impact them both physically and mentally.
+imageSrc: ""
 ---
 
 ## The Health Risks of Lack of Sleep

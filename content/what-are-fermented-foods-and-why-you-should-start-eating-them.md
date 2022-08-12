@@ -21,6 +21,7 @@ intro: "Fermented foods are having a moment. Everywhere you look, you see
   healthy diet for years now. In this article, we’ll take a look at what exactly
   fermented foods are, why they’re so good for us and how to incorporate them
   into your diet."
+imageSrc: ""
 ---
 
 ## What are fermented foods?

@@ -27,6 +27,7 @@ intro: The world of work has changed rapidly. People are no longer confined to
   in the areas of exercise, mindfulness and nutrition — as well as a range of
   other measures designed to give people more control over their lives outside
   of work.
+imageSrc: ""
 ---
 
 ## Exercise for productivity

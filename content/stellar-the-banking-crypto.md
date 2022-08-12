@@ -20,6 +20,7 @@ intro: >-
   We know it’s still early days for crypto, but we think there’s also genius insight locked away in these digital tokens. So much of what makes a coin great doesn’t come from its technology or usage as much as its real-world potential. 
 
   When evaluating a cryptocurrency for long-term investment, we ask ourselves: How does this token solve a real problem? Does it have the potential to be adopted by many users? Is there an opportunity for this coin to appreciate in value? If you can answer yes to all of these questions, you may be interested in investing in Stellar — here’s why:
+imageSrc: ""
 ---
 
 ## What is Stellar?

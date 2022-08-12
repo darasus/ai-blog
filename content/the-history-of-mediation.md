@@ -23,6 +23,7 @@ intro: >-
   Mediation is not just for divorce — this neutral third party helps people with any kind of dispute find solutions that work for them and avoid going to court or ending their relationship.
 
   Mediation is one of the oldest dispute resolution methods on record; it probably existed even before the invention of formal courts. Keep reading and learn more about mediation, its history, and how it can help you resolve conflicts at work or in your personal life.
+imageSrc: ""
 ---
 
 ## What is Mediation?

@@ -20,6 +20,7 @@ intro: >-
   ideal programming language for you.
 
   The Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go’s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you’d like to learn more about this programming language and whether it’s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.
+imageSrc: ""
 ---
 
 ## What is Go?

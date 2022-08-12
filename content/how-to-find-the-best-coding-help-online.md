@@ -18,6 +18,7 @@ intro: >-
   are plenty of great resources out there if you know where to look. 
 
   In this blog post, we’ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!
+imageSrc: ""
 ---
 
 ## Finding coding help online: Why is it important?

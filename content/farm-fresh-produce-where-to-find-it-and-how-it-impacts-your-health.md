@@ -22,6 +22,7 @@ intro: >-
   END OF SEASON SALE – Many grocery stores will host sales around the end of each season’s crops: Winter squash, apples, cauliflower, etc. These are also good times to purchase things like onions (which stay fresh longer than other root veggies) and garlic (which lasts longer if stored In a dry location).
 
   There are many ways you can access local farmers’ market produce year round! Even if you don't live in an area with a traditional farmers' market or choose not to drive there each week, there's
+imageSrc: ""
 ---
 
 ## SUPERMARKETS

@@ -20,6 +20,7 @@ intro: >-
   continue learning what you need to know. 
 
   These days it doesn’t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.
+imageSrc: ""
 ---
 
 ## CodeAcademy

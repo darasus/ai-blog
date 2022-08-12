@@ -21,6 +21,7 @@ intro: >-
   Emotional eating can be especially common among those suffering from depression or those who have binge-eating disorder. But anyone can be prone to using food as an outlet for stress and other negative emotions, which is why knowing how to overcome emotional eating is so important. 
 
   If you find yourself regularly turning to food when you’re feeling stressed out or anxious, read on for some useful tips on how to overcome emotional eating and break the cycle of unhealthy habits that may be sabotaging your health and happiness.
+imageSrc: ""
 ---
 
 ## Understand The Root Cause Of Your Emotional Eating

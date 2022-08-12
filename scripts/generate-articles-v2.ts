@@ -8,7 +8,7 @@ import path from "node:path";
 import fs from "node:fs";
 import { MDXPost } from "../types/Post";
 import parseMD from "parse-md";
-import { readArticleFile } from "../utils/readFileSync";
+import { readArticleFile, readArticleImageFile } from "../utils/readFileSync";
 import { getArticleData } from "./shared/getArticleData";
 import { formatMarkdown } from "./shared/formatMarkdown";
 import { Writesonic } from "../lib/writesonic";
@@ -30,7 +30,7 @@ async function main() {
       let post: Partial<MDXPost> = {};
       const basename = slugify(title, { strict: true, lower: true });
       // existing content
-      const originalSource = readArticleFile(basename + ".md", "utf8");
+      const originalSource = readArticleFile(basename + ".md");
       const { metadata, content } = parseMD(
         typeof originalSource !== "string" ? "" : originalSource
       ) as { metadata: MDXPost; content: string };
@@ -64,6 +64,14 @@ async function main() {
         post.content = response?.content;
         post.summary = response?.summary;
         post.intro = response?.intro;
+      }
+
+      const image = readArticleImageFile(basename + ".png");
+
+      if (image) {
+        post.imageSrc = "/articles/" + basename + ".png";
+      } else {
+        post.imageSrc = "";
       }
 
       const formattedPost = formatMarkdown(post as MDXPost);

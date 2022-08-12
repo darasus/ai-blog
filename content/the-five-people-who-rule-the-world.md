@@ -19,6 +19,7 @@ intro: >-
   The way we see the world has changed dramatically over the past few decades. In part because of social media, but mostly because of the rise of celebrities as a fixture in our lives, almost every aspect of life has been reframed by who is watching. It used to be that if you wanted to become famous, you had to have something worth saying or do something exciting enough to get on TV. 
 
   Now all you need is a million followers on Instagram and a sex tape with another famous person. It’s more than just a silly trend—it reveals something fundamental about how we now see the world.
+imageSrc: ""
 ---
 
 ## By the numbers: How Celebrities Rule the World

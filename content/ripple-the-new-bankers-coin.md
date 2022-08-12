@@ -19,6 +19,7 @@ intro: >-
   transactions as a global society.
 
   If you have been looking into getting involved in the cryptocurrency market, you may have noticed that there are hundreds - perhaps even thousands - of different coins available. Most of them have weird names, strange logos, and even stranger marketing tactics. It’s enough to drive anyone mad. But don’t worry; we’re here to help get you up to speed on one of the most talked-about cryptocurrencies out there: Ripple (also known as XRP).
+imageSrc: ""
 ---
 
 ## What is Ripple?

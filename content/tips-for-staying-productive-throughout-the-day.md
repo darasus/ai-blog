@@ -22,6 +22,7 @@ intro: >-
   Recovering from an exhausting day may be challenging but staying productive throughout the day is not impossible! Even with a busy schedule and limited time, anyone can become more focused and efficient in their day-to-day activities. The key is learning how to stay productive through small changes and habits that can make a big difference over time. 
 
   There are many things you can do as an individual to help you stay productive throughout the day no matter what your circumstances are. Keep reading for some great tips!
+imageSrc: ""
 ---
 
 ## Morning routine

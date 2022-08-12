@@ -20,6 +20,7 @@ intro: >-
   Even before listening to the album, one can tell something is off by looking at the tracklist: It feels like a third mixtape with a few token hits tacked on at the end and no real identity or direction. There are multiple songs that are clearly just first takes (with fluffed vocals from a producer), and several tracks are so lazily produced that they sound like demos recorded over basic beats in GarageBand on someone’s laptop in their bedroom. 
 
   Yes, this is Eminem’s worst album ever; even worse than "The Marshall Mathers LP 2", "Recovery", and even "Recovery" again (sorry). Keep reading to see why
+imageSrc: ""
 ---
 
 Click to jump

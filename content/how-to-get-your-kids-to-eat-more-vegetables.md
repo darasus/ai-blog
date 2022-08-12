@@ -20,6 +20,7 @@ intro: >-
   However, being a parent also gives you some advantages. You know your kid better than anyone else – probably even better than they know themselves – and you won’t hesitate to use that knowledge to get them eating veggies once and for all. 
 
   Whether they’re old enough to understand or not, children need to understand that green leaves are not just something funny that vines climb on. They’re also packed with vitamins and minerals which will keep your little one healthy if they eat more of them. Here are some tips on how you can do exactly that...
+imageSrc: ""
 ---
 
 ## Find The Right Veggies

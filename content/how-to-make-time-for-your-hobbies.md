@@ -22,6 +22,7 @@ intro: When you love something, it feels like there’s not enough time in the d
   right now—but trust us, it’s possible! Even if your schedule feels full beyond
   measure right now, there are always little cracks of space that can grow and
   expand into larger windows of opportunity.
+imageSrc: ""
 ---
 
 ## Cut Out Tasks That Don’t Contribute to Meaning and Happiness

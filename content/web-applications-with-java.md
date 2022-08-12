@@ -19,6 +19,7 @@ intro: >-
   Working with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java – that it’s both stable and powerful.
 
   That doesn’t mean there aren’t plenty of frameworks and libraries to choose from – there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let’s take a look at some of your best options for building web apps with Java.
+imageSrc: ""
 ---
 
 ## Spring MVC

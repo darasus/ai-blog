@@ -18,6 +18,7 @@ intro: >-
   in popularity of games with an adult aesthetic.
    The best rated adult games have left behind the cartoonish characters and storylines of old, instead focusing on darker storylines and character development to keep players coming back for more. 
   That being said, there are plenty of great games out there that don’t shy away from their adult nature. If you’re looking for something new and exciting in 2019, check out these amazingly reviewed titles:
+imageSrc: ""
 ---
 
 ## The Last of Us Remastered

@@ -19,6 +19,7 @@ intro: "Do you feel like your diet just isn’t cutting it? Maybe it’s time to
   that fats, proteins, and carbs all play an important role in your diet. But
   how do you actually make sure that your diet reflects those principles? Here
   are some tips and tricks on how you can make your diet more nutritious:"
+imageSrc: ""
 ---
 
 ## Eat breakfast

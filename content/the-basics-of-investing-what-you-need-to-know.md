@@ -20,6 +20,7 @@ intro: >-
   Even when money is tight, it doesn’t mean that young people can’t invest for the future. In fact, investing as soon as possible is one of the best things you can do to secure your financial future. The sooner you begin investing for retirement or another long-term goal, the sooner your portfolio will grow and help you achieve your goals. 
 
   But where should you start? Fortunately, there are plenty of accessible resources that can get you off on the right foot with your investments. Here we take a look at some of the basics of investing – what you need to know before getting started.
+imageSrc: ""
 ---
 
 ## What is investing?

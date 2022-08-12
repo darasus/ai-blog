@@ -19,6 +19,7 @@ intro: >-
   Citizens of the world are becoming lazier by the day. We spend more time watching TV, browsing the Internet, and playing video games than ever before. And it’s no wonder — these activities are incredibly sedentary and don’t exactly burn a lot of calories or leave you feeling very invigorated afterwards. 
 
   Exercise can be a tricky thing to get motivated for. There might be days where you feel like nothing can get you off the couch and other days when it feels like the best thing in the world — but how do you find that happy medium between being active and a sloth?
+imageSrc: ""
 ---
 
 ## Know what works for you

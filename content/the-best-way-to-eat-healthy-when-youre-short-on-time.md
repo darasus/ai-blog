@@ -18,6 +18,7 @@ intro: >-
   We all lead busy lives with lots of obligations outside of work or school: we have friends, family members, and partners that we need to spend time with on a regular basis. It doesn’t leave much room for eating right.
 
   Fortunately, there are lots of ways to keep your diet in check while also fitting in your hectic schedule. Keeping healthy snacks like fruits and nuts stocked at home can help you avoid getting hungry at the worst possible moment. Eating smaller meals more frequently throughout the day is another great approach that can help you feel fuller faster without overloading your system with calories at one sitting. Eating well when you’re busy isn’t impossible; it just takes some planning ahead.
+imageSrc: ""
 ---
 
 ## Plan Your Meals Ahead of Time

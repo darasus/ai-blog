@@ -19,6 +19,7 @@ intro: >-
   meals or less will have you back on track in no time! 
 
   If you don’t have much time to spend in the kitchen after work or school, but want to eat healthy without picking up fast food, we’ve got your back. These quick and easy meals take 30 minutes or less from prep to finish. Each one is also perfect for busy weeknights when you don’t have much time for elaborate dinners or lengthy prep sessions. From sheet pan suppers to skillet dinners and more, there are plenty of affordable and accessible ideas here so you can get a home-cooked meal on the table lickety-split…
+imageSrc: ""
 ---
 
 ## 30-minute meals or less

@@ -17,6 +17,7 @@ intro: >-
   can resist the wholesome aroma of a slow-cooked dish? Not us! 
 
   These dishes are filled with rich and savory ingredients that warm you from the inside out. They’re also easy to make in large batches, which means you can enjoy them for dinner for several nights in a row without getting bored. And because these comforting meals are easy to double or triple, they’re also excellent ideas for homesick college students or anyone who misses mom’s home cooking. So, don your stretchy pants and get ready to dive into these 15 yummy comfort food recipes this season has to offer…
+imageSrc: ""
 ---
 
 ## Taco Soup

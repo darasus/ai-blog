@@ -19,6 +19,7 @@ intro: >-
   If you're unfamiliar with Beach House, they're an indie rock duo from Baltimore, Maryland that have released six albums and numerous EPs since their debut in 2006. Their sound has evolved quite a bit over their last two records, 2015's "Thank Your Lucky Stars" and 2018's "6". Both experimental pop albums with heavy electronic influences. 
 
   On "7", they go back to the basics of guitar-driven songs with Elizabeth and Alexis playing almost all instruments themselves once again (with help from some friends). This gives us a fresh take on their usual dreamy sound - intimate, raw and personal.
+imageSrc: ""
 ---
 
 ## Track-by-Track Review

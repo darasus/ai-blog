@@ -19,6 +19,7 @@ intro: >-
   Working out regularly requires motivation and perseverance. It’s not easy to find the time or motivation to hit the gym day after day. And while some people might thrive off having someone tell them what to do, other people need help in order to keep going. 
 
   It can be difficult to keep up with a regular exercise routine, especially when you’re feeling unmotivated. Even the most dedicated workout enthusiasts can struggle with keeping their routines fresh and exciting. If you feel like you’ve hit a wall when it comes to keeping up a healthy routine, here are some tips that will help you get back on track:
+imageSrc: ""
 ---
 
 ## Set small, attainable goals

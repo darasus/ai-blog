@@ -21,6 +21,7 @@ intro: >-
   This rise in popularity of meatless Mondays is not surprising given how many people now choose to eat less meat, fish, or any animal products on Tuesdays, Wednesdays, Thursdays, Fridays or Saturdays. 
 
   If you’re looking for ways to reduce your red meat intake without sacrificing taste or variety in your diet, consider instituting Meatless Mondays at your place of business as well as at home.
+imageSrc: ""
 ---
 
 ## What is a meatless Monday?

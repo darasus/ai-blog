@@ -21,6 +21,7 @@ intro: >-
   In fact, many restaurants serve high-calorie foods that aren’t particularly good for you. The mammoth size of most restaurant portions is also concerning, as it can lead to overeating and unnecessary intake of saturated fats, sodium and added sugars.
 
   However, with some knowledge about what to look for when dining out, you can make healthy choices that support your diet and lifestyle goals while still enjoying yourself at the same time.
+imageSrc: ""
 ---
 
 ## Know The Basics Before Going Out To Eat

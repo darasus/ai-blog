@@ -18,6 +18,7 @@ intro: >-
   ways to improve your coding skills. 
 
   Coding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don’t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.
+imageSrc: ""
 ---
 
 ## Get to know the basics.

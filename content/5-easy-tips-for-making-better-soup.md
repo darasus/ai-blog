@@ -18,6 +18,7 @@ intro: >-
   Making great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren’t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.
 
   If you’ve only ever made soup as an afterthought—something to keep in the pantry when you don’t feel like eating leftovers—it might be time to give it another look. Making great soup isn’t difficult once you know how. Here are 5 easy tips for making better soup:
+imageSrc: ""
 ---
 
 ## Use quality ingredients

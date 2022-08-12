@@ -20,6 +20,7 @@ intro: >-
   long-term and not just for one fleeting moment? 
 
   If the past several years have shown us anything, it’s that eating clean is here to stay. So instead of feeling like you’re trying on another new fad diet or eating trend, let this be your guidepost back to the basics of eating wholesome food that helps your body in the long run. Clean eating is not about perfection or cutting out entire food groups at all; it’s about making more informed choices about the things you put into your body on a daily basis. Read further to learn more…
+imageSrc: ""
 ---
 
 ## Decide what “eating clean” means to you.

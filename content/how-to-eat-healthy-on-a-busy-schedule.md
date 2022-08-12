@@ -19,6 +19,7 @@ intro: >-
   are ready to take control of your diet, then read on…
 
   If you feel like your life is always in hyper-speed and there’s never enough hours in the day to get everything done, then you know exactly how these pressures can lead to unhealthy eating habits. But that doesn’t have to be the case forever. Even with a busy schedule, it is totally possible for anyone to eat healthy meals regularly.
+imageSrc: ""
 ---
 
 ## Make A Plan

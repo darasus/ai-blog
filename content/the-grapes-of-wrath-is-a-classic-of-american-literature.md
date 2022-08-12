@@ -21,6 +21,7 @@ intro: >-
   The Great Depression started in 1929 with the stock market crash and lasted until 1939. This resulted in about 15 million people losing their jobs and having no income or access to food or shelter. It also led to bankruptcy for many farmers as crop prices fell significantly. As a result, many people had no choice but to leave their homes, towns, and cities to look for work elsewhere.
 
   This book describes this period through the Joad family – impoverished tenant farmers from Oklahoma who are forced by circumstances to travel westward in search of new opportunities along with thousands of other displaced persons also seeking new beginnings. Although fictional, Steinbeck creates characters that are very much human with their fears, hopes and desires – struggling against a harsh world that is indifferent to their plights.
+imageSrc: ""
 ---
 
 ## Author

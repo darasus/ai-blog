@@ -22,6 +22,7 @@ intro: Are you the type of person who can get things done without keeping track
   accountable to yourself and identify your weak spots for future reference.
   Read on to learn about the benefits of keeping a productivity journal and how
   keeping one can improve your life.
+imageSrc: ""
 ---
 
 ## Know What Gets in the Way of Being Productive

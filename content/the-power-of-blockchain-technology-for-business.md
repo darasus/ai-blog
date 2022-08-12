@@ -21,6 +21,7 @@ intro: >-
   processes.
 
   With so much noise about blockchain as the next big thing for businesses, it’s natural for companies to ask if this is something they should explore. After all, it seems like every press release mentions “blockchain” these days. But what exactly is a blockchain? And how could it help your business? It might not be as new as you think. Let’s take a look at how businesses around the world are using blockchain technology to build trust and transparency in their processes.
+imageSrc: ""
 ---
 
 ## What is blockchain technology?

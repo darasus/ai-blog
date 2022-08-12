@@ -19,6 +19,7 @@ intro: It’s the perfect way to be active without having to think too much abou
   well-being in the long run, there are plenty of ways to make walking more
   accessible and enjoyable for you. Here are some tips on how you can get
   started on that walking routine and keep it going...
+imageSrc: ""
 ---
 
 ## Make the most of your commute.

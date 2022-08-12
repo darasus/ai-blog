@@ -18,6 +18,7 @@ intro: >-
   lovable felines into superstardom. 
 
   Cats are a part of Internet Culture in ways that other animals just aren’t. They also have unique features that make them much easier to anthropomorphize and create humorous images with. This has led to an explosion in popularity among cats of all kinds, but especially hilarious ones like Grumpy Cat, Henrietta, and Lil Bub. Now let’s take a look at the Top 10 Famous Cats In The World:
+imageSrc: ""
 ---
 
 ## Grumpy Cat

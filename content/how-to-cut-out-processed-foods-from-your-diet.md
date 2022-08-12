@@ -19,6 +19,7 @@ intro: >-
   Processed foods almost always have a shorter shelf life than their unprocessed counterparts. This is because they have been altered in some way to make them last longer and to make them more convenient to consume. Processed foods are not necessarily unhealthy and unprocessed foods aren’t always healthy. 
 
   Processing can take many forms. Some examples of processed foods include canned goods, frozen meals, packaged snacks, oils that have been refined or hydrogenated (as in Crisco), salt, sugar and starch that has been extracted from its original source (as in corn syrup or white sugar), spices that have been ground up, protein that has had artificial flavors or preservatives added to it (as in MSG), or food that has had artificial colors added to it (such as Red 40).
+imageSrc: ""
 ---
 
 ## Why You Should Ditch The Processed Foods

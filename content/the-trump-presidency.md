@@ -19,6 +19,7 @@ intro: >-
   Strictly speaking, celebrities are not a new phenomenon in American politics. From actor-turned-politician Ronald Reagan to singer-turned-first lady Eleanor Roosevelt, famous faces have been making waves in Washington for over a century.
 
   However, thanks to an ever-growing digital age and social media influencers such as Paris Hilton or Kim Kardashian, pop culture figures are now coming out as political activists with a voice and stake in current affairs. Once relegated to red carpet interviews or gossip magazines, these celebrities are now using their platforms for public advocacy.
+imageSrc: ""
 ---
 
 ## Trump’s Celebrity Status

@@ -20,6 +20,7 @@ intro: >-
   Dog training is not strictly for competitive dogs or breeds with inherent instincts, such as hunting or herding dogs. Any dog can be trained and even smaller puppies can be socialized from an early age. With patience, dedication and the right strategies, anyone can train their dog. 
 
   Training sessions should be fun for both you and your dog. They should never involve negative reinforcement or fear-inducing techniques like alpha roles or growling at them. To get started, read our helpful tips below on how to train your puppy to walk on a leash:
+imageSrc: ""
 ---
 
 ## What You’ll Need

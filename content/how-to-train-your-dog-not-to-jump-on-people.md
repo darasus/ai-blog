@@ -21,6 +21,7 @@ intro: >-
   persistence and patience, you can train your dog to not jump on people.
 
   If your dog is prone to jumping, it’s important to manage that behavior before moving onto this training program. Dogs commonly jump for one of three reasons: They are excited and overstimulated; they want something from you such as food or attention; or they see it as a way of getting nearer to something else (this could be either the person you don’t want them leaping at or something else nearby).
+imageSrc: ""
 ---
 
 ## The program

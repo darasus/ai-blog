@@ -20,6 +20,7 @@ intro: >-
   Go is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It’s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding. 
 
   In this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.
+imageSrc: ""
 ---
 
 ## Easy to Learn and Maintain

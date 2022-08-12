@@ -21,6 +21,7 @@ intro: >-
   tub. 
 
   However, there’s no reason why salads have to be boring, sad excuses for food. In fact, a good salad can be one of the healthiest and most satisfying ways to eat greens – as long as you know how make it taste great without making it worse for you.
+imageSrc: ""
 ---
 
 ## By now you’re probably thinking, “Great! But how?”

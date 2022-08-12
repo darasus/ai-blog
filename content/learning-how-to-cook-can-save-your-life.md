@@ -19,6 +19,7 @@ intro: >-
   how to cook will be essential. 
 
   Luckily, this is not just some random article about how cooking can save your life someday. This article will actually teach you how to cook! Cooking is not as difficult as many people think. Anyone can do it; you just need a little guidance at first until you get the hang of it. In fact, once you read through this article and practice the techniques a few times, you’ll probably be able to cook like a pro in no time. So let’s get started!
+imageSrc: ""
 ---
 
 ## What is Cooking?

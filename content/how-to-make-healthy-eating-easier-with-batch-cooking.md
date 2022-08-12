@@ -18,6 +18,7 @@ intro: >-
   Unhealthy foods are extremely easy to grab and go when you need something fast. However, these foods are not the kind of things you want to be consuming regularly. Most of them are loaded with sugars and sodium and have almost no vitamins or minerals.
 
   Fortunately, there are some simple strategies you can implement to make eating healthy easier. Batch cooking is one of the best ways to make healthy eating easier and more convenient. Read on to learn more about how batch cooking can help you eat healthier without breaking your routine too much!
+imageSrc: ""
 ---
 
 ## What is batch cooking?

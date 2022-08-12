@@ -20,6 +20,7 @@ intro: >-
   Mediation allows you to resolve your dispute with another party in a private and confidential setting that’s neutral and objective. In mediation, a neutral third-party mediator facilitates discussions between the two parties involved in an irreconcilable dispute. Mediators do not take sides; they remain neutral while guiding the discussion toward a resolution that both parties can accept. 
 
   A successful mediation process allows both parties to save face by avoiding public disclosure of their personal information or confidential information about their business dealings. A mediated settlement is binding and requires no further action from either party after reaching an agreement. If you’re currently involved in a legal dispute, here are three reasons why mediation may be beneficial for you:
+imageSrc: ""
 ---
 
 ## Mediation Can Help You Save Time and Money

@@ -19,6 +19,7 @@ intro: >-
   That doesn’t sound too tricky, does it? Yet we all know that feeling when you look back at the end of the day and wonder where the hours went! What was even more frustrating is that you knew exactly what went wrong. It was something simple like not having prepped your desk with everything you need, or spending too much time browsing social media sites before launching into your work for the day.
 
   If this sounds like something you’ve experienced before, read on as we explore how to create a productive morning routine so that every single day of your working week runs smoothly and efficiently...
+imageSrc: ""
 ---
 
 ## Productivity Doesn’t Happen Overnight

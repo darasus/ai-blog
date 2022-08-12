@@ -16,6 +16,7 @@ intro: >-
   EOS is a new blockchain operating system designed with neglected attributes in mind: speed, scalability, and user experience. It’s the fifth generation of blockchain technology, built to tackle the limitations of previous generations with an end goal of mass adoption.
 
   EOS is not simply another cryptocurrency—it’s a third-generation blockchain that functions as a decentralized operating system, introducing new concepts and mechanics from software development as a service (SaaS) applications like Salesforce or Google Docs. In this article, we explore exactly what that means for you as an EOS token holder and potential investor.
+imageSrc: ""
 ---
 
 ## What is EOS?

@@ -22,6 +22,7 @@ intro: >-
   In Alejandro González Iñárritu’s darkly comic film “Birdman,” the lead character—an arrogant actor named Riggan Thomson—is simultaneously tormented by his past success as the superhero Birdman but also driven by the desire for fame again. As a result, he devises a plan to create publicity for his production of The Birdman by playing both roles in the same play and switching back and forth in front of an audience. He also moves into the derelict theater with his daughter where he will perform as part of his preparations on getting back into shape.
 
   In exploring these themes of egotism and desperation in a celebrity-obsessed world, "Birdman" is an interesting exploration of what it means to be famous and why we allow others to have such power over us.
+imageSrc: ""
 ---
 
 ## The Importance of Being Famous

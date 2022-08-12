@@ -19,6 +19,7 @@ intro: >-
   That’s right—the same guy who previously gave us PayPal (which was later succeeded by and then purchased by ), Tesla Motors, SolarCity and SpaceX has now been left holding the bag on another one of his ventures: Artificial Intelligence firm “Neuralink”. 
 
   The good news is that this time around, it looks like Mr. Musk has learned from his past mistakes and will be getting back on track soon enough. But until then, let’s take a moment to review all the recent drama with Artificial Intelligence, as well as what we can expect from AI in the future…
+imageSrc: ""
 ---
 
 ## What’s going on with Artificial Intelligence?

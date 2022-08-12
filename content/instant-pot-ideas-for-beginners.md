@@ -17,6 +17,7 @@ intro: >-
   ideas for beginner Instant Pot users that will get you inspired! 
 
   If you’re new to the world of pressure cooking, the idea of an “instant” pot may seem a little strange at first. However, using an Instant Pot (or any electric pressure cooker) can save you time while also preserving more nutrients in your food. So let’s take a look at some simple ideas for beginners who are just getting started with their Instant Pot and want to try some easy recipes!
+imageSrc: ""
 ---
 
 ## Basics of Using an Instant Pot

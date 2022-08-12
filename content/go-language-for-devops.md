@@ -20,6 +20,7 @@ intro: >-
   Since its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it “the new old thing”. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time. 
 
   If you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:
+imageSrc: ""
 ---
 
 ## What is Go?

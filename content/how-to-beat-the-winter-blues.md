@@ -21,6 +21,7 @@ intro: >-
   from your friends and some lifestyle changes. 
 
   Whether you have or have had the winter blues in the past, there are ways to boost your spirits when those long, dreary days of January creep up on you like an old friend you don’t want to see again. Here are some ways to beat those pesky winter blues and get back to your happy self!
+imageSrc: ""
 ---
 
 ## Exercise

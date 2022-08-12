@@ -22,6 +22,7 @@ intro: Given the current state of the economy, it’s never been a better time t
   With that said, starting your own business isn’t easy. It takes hard work and
   dedication to not only come up with a good idea but also see that idea through
   to the end and make it successful.
+imageSrc: ""
 ---
 
 ## Know Your Business Plan Inside and Out

@@ -19,6 +19,7 @@ intro: Do you want to learn how to code but don’t know where to start? There a
   efficiently. From beginner level Python to intermediate HTML and CSS tutorials
   - you can learn all the essential skills of programming from these great
   resources. Try them out and become a coding pro in no time!
+imageSrc: ""
 ---
 
 ## HTML and CSS Basics

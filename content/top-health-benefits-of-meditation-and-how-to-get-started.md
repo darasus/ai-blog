@@ -20,6 +20,7 @@ intro: >-
   oxytocin (a “love hormone”). 
 
   In this article, we take a look at some of the top health benefits of meditation and how you can get started today.
+imageSrc: ""
 ---
 
 ## Reduce Stress And Anxiety

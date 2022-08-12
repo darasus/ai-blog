@@ -19,6 +19,7 @@ intro: >-
   in which you can use Python for database programming. 
 
   This blog post is part of our ongoing “Coding in CV” series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.
+imageSrc: ""
 ---
 
 ## What is Python?

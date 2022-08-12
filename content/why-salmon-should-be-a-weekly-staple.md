@@ -22,6 +22,7 @@ intro: Did you grow up believing that eating fish at least once a week is good
   daily living), and Alzheimer’s disease. However, not all types of fish have
   the same benefits. Here are some reasons why salmon should be a staple part of
   your diet.
+imageSrc: ""
 ---
 
 ## It’s a lean protein source

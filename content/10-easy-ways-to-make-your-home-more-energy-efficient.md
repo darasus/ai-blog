@@ -17,6 +17,7 @@ intro: >-
   no one wants to feel like they’re drowning in bills every month. 
 
   To that end, everyone could probably stand to tighten their belts a little bit when it comes to their day-to-day expenses; after all, there are several small things we can do on a daily basis that will collectively add up and help us save money in the long run. In this blog post, we’ll cover everything you need to know about energy efficiency at home and how you can start saving money by making your house more efficient today!
+imageSrc: ""
 ---
 
 ## How To Make Your Home More Energy Efficient

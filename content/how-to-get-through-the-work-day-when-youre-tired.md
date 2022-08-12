@@ -19,6 +19,7 @@ intro: >-
   Unsurprisingly, research shows that when you’re tired at work it has a negative effect on your efficiency and performance. It also makes you more prone to making mistakes and forgetting things. 
 
   Fortunately, there are ways to help manage these struggles and get through your work day when you’re tired. Here are some helpful tips that can make all the difference:
+imageSrc: ""
 ---
 
 ## Make your mornings count

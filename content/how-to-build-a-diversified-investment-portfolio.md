@@ -19,6 +19,7 @@ intro: >-
   If you invest your money in only one stock, mutual fund or exchange-traded fund (ETF), you’re exposed to the risk that comes with putting all your eggs in one basket. If that stock plunges in value, so does your entire investment. But if you diversify across different types of investments, it’s more likely that at least some of your holdings will not suffer a similar fate.
 
   A well-diversified portfolio includes numerous asset classes such as stocks, bonds and cash; several sizes and types of companies; and perhaps even real estate and alternative assets like private equity or venture capital trusts. Read on to learn more about how to build a diversified investment portfolio.
+imageSrc: ""
 ---
 
 ## Asset Allocation: The key to effective diversification

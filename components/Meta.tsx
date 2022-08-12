@@ -4,11 +4,14 @@ import React from "react";
 interface Props {
   title: string;
   description: string;
+  imageSrc?: string;
 }
 
-export const Meta: React.FC<Props> = ({ title, description }) => {
+export const Meta: React.FC<Props> = ({ title, description, imageSrc }) => {
   const actualTitle = `${title} | The AI Paper`;
-  const imgSrc = "https://www.theaipaper.com/thumbnail.png";
+  const imgSrc = imageSrc
+    ? `https://www.theaipaper.com${imageSrc}`
+    : `https://www.theaipaper.com/thumbnail.png`;
   return (
     <Head>
       <title>{actualTitle}</title>

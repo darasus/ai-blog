@@ -20,6 +20,7 @@ intro: >-
   where to look. 
 
   Investing for income can be a challenging endeavor, but with the right knowledge you can achieve your goal. If you’re looking for some steady returns on your investment, check out our guide on how to invest for income in a variety of ways that won’t leave you out of pocket and will allow you to continue growing your wealth over time.
+imageSrc: ""
 ---
 
 ## Basics of Investing for Income

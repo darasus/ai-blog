@@ -25,6 +25,7 @@ intro: Mediation is a process that helps people resolve conflicts and find
   as nonprofit community mediation centers or faith-based centers that offer
   these services pro bono publico, which means “for the good of the public”
   without charge.
+imageSrc: ""
 ---
 
 ## Why Mediation Works

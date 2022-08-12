@@ -22,6 +22,7 @@ intro: >-
   Every business needs a strategy for dealing with tech disruption, but that's no easy task. New technologies emerge so quickly that it can be hard to know which ones are worth worrying about, let alone how you would adopt them in your own organization. 
 
   However, the success of any business will always come down to its people and processes as much as its technology. The focus of this article isn’t just on the individual technologies themselves but how they could help your business in the future.
+imageSrc: ""
 ---
 
 ## What is Blockchain Technology?

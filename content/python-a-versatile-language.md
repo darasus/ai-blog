@@ -16,6 +16,7 @@ intro: >-
   purpose than others; some are more suited to specific tasks.
 
   This article will explore the Python programming language and why it’s so useful to know if you’re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.
+imageSrc: ""
 ---
 
 ## What is Python?

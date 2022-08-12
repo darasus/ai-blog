@@ -23,6 +23,7 @@ intro: >-
   You will have to set aside some time to think about what type of business you want to start and why you want to do it. This article will help you answer those questions and determine if starting a business is right for you at this point in your life.
 
   Read on to learn more about the benefits and risks of starting a business so you can make the right choice for your personal situation
+imageSrc: ""
 ---
 
 ## The Benefits Of Starting A Business

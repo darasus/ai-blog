@@ -20,6 +20,7 @@ intro: >-
   Go has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don’t want to spend a lot of time learning new syntax and semantics. 
 
   This article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.
+imageSrc: ""
 ---
 
 ## Reduced Development Time

@@ -20,6 +20,7 @@ intro: >-
   To reduce the risk of stress eating in the future, consider setting aside time every day to practice mindfulness. Mindfulness involves present-moment awareness and acknowledging your thoughts and feelings without judgment. Practicing mindfulness helps you become more aware of what you’re feeling so that you can identify the first signs of stress eating before it gets out of hand.
 
   In addition to mindfulness, these strategies will help you cope with stress eating while also reducing its likelihood in the future.
+imageSrc: ""
 ---
 
 ## Plan Your Meals

@@ -16,6 +16,7 @@ intro: >-
   save money or reduce time spent in the kitchen. 
 
   A nutritious diet doesn’t have to be expensive or time-consuming. With some planning and preparation, you can make home-cooked meals that are both cheap and healthy. Healthy eating is more than just counting calories; it’s about focusing on foods that are unprocessed and rich in vitamins, minerals, and other nutrients. Eating well helps keep you lean, boost your immune system, manage your weight, and prevent chronic diseases like heart disease and type 2 diabetes. Focusing on the right foods will help get you there. Let’s take a look at some tips on how to cook healthier meals at home!
+imageSrc: ""
 ---
 
 ## Plan your meals

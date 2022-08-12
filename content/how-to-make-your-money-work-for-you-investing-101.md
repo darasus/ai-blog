@@ -22,6 +22,7 @@ intro: People have many different reasons for saving money. Some are very frugal
   build wealth sooner rather than later. Investing isn’t complicated; even with
   its fancy words like “asset allocation” and “beta coefficient.” Here are some
   helpful investing tips to get started...
+imageSrc: ""
 ---
 
 ## Know the difference between investing and speculation

@@ -20,6 +20,7 @@ intro: >-
   We have probably all come across developers who don’t share our passions — those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes — in short, system administration tasks— rather than creating user interfaces or artificial intelligence algorithms.
 
   That’s why we’ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).
+imageSrc: ""
 ---
 
 ## Why Go?

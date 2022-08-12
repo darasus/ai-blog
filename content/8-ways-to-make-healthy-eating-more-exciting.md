@@ -21,6 +21,7 @@ intro: >-
   you bring your A-game to the table. 
 
   If you’re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you’re putting in your body.
+imageSrc: ""
 ---
 
 ## Do Something That Makes You Happy

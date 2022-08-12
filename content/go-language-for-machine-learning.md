@@ -19,6 +19,7 @@ intro: >-
   Luckily, some of these tools have become so popular that you won’t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities. 
 
   To help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you’re working on a project involving one or more of the following scenarios:
+imageSrc: ""
 ---
 
 ## Data Cleaning and Preprocessing

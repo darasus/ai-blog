@@ -20,6 +20,7 @@ intro: >-
   We all know that grilled cheese can be made in different ways with different ingredients. But there is more than one way to prepare it so that it's not soggy or too dry or burnt on the outside but not quite melted enough on the inside.
 
   With these tips and tricks, your next grilled cheese will be perfect!
+imageSrc: ""
 ---
 
 ## Add a slice of bread to the grilling surface

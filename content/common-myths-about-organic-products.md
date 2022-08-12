@@ -22,6 +22,7 @@ intro: >-
   However, the introduction of any new trend or product often leads to unnecessary confusion and false information. When it comes to buying and using organic products, there are some common myths that might seem like red flags:
 
   But don’t worry — we’re here to set the record straight!
+imageSrc: ""
 ---
 
 ## Organic food is more nutritious than conventional food.

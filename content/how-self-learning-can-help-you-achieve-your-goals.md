@@ -20,6 +20,7 @@ intro: >-
   almost anything you want online – from coding to foreign languages, history,
   science, art, and even computer gaming tips!
    Self-learning has several benefits that go beyond acquiring new knowledge or skills. It helps you gain clarity about your career goals and build a strong sense of self. It also makes you more adaptable in your personal and professional life so that you are able to deal with challenges confidently. Here is how self-learning can help you achieve your goals:
+imageSrc: ""
 ---
 
 ## Build Confidence

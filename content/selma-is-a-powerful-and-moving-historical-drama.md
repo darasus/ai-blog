@@ -28,6 +28,7 @@ intro: "It’s been more than a century since the fight for voting rights was so
   marching were violently attacked by law enforcement officers (including tear
   gas, billy clubs, and bull whips), leaving many injured and 26 hospitalized
   (Voting Rights Timeline)."
+imageSrc: ""
 ---
 
 ## Synopsis

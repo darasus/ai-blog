@@ -19,6 +19,7 @@ intro: >-
   To make things even more challenging, sleep is one of those things we cannot replace with anything else. Sleep cannot be replaced by vitamins, exercise, meditation or any other supplement. It’s essential to our health as well as our happiness.
 
   We will look into the importance of sleep for health and well-being as well as its benefits and why you should spend more time sleeping if you aren’t already doing so. Read on to find out everything you need to know about getting enough shut eye.
+imageSrc: ""
 ---
 
 ## What is Sleep and Why is it so Important?

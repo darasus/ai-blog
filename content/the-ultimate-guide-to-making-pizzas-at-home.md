@@ -20,6 +20,7 @@ intro: When it comes to eating out, the humble pizza remains one of the most
   sauce; classic Italian toppings or something more exotic; traditional thin
   crust or super thick pan or even cauliflower crust – this guide will show you
   how.
+imageSrc: ""
 ---
 
 ## What’s the secret to a great home-cooked pizza?

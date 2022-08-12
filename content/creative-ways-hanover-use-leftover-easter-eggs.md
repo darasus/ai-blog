@@ -19,6 +19,7 @@ intro: >-
   There are more than 321 million people in the world who identify as Christian, which means there’s a pretty decent chance you know someone who celebrates Easter this time of year. That means now is your opportunity to bring some sunshine and happiness into the lives of your fellow humans by giving them something unexpected. An egg basket!
 
   There’s nothing like hiding eggs for children to bring out their sense of wonder again, and it doesn’t cost much to set up an egg hunt in your own backyard or garden. Read on for some creative uses for those leftover Easter eggs that require very little effort.
+imageSrc: ""
 ---
 
 ## Creative Ways to Use Leftover Easter Eggs

@@ -24,6 +24,7 @@ intro: >-
   There are many reasons why new businesses fail. The failure rate for new companies is very high because many entrepreneurs make one or more critical mistakes when setting up their businesses, such as investing too little capital or not testing their market properly beforehand. 
 
   Here we look at the top 5 pitfalls to avoid if you want to launch a successful business:
+imageSrc: ""
 ---
 
 ## Not Testing Your Product Or Service Before Launch

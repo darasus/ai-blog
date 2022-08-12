@@ -20,6 +20,7 @@ intro: EOS and TRON have both recently gained a lot of attention from the
   are clear differences between these two projects that set them apart from one
   another. Let’s take a closer look at NEO and its competition with EOS and
   TRON.
+imageSrc: ""
 ---
 
 ## What is NEO?

@@ -25,6 +25,7 @@ intro: "You may have heard of a fork before — as in, the idea of a software
   are many different types of forks beyond just software! In this article we
   will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin
   Cash."
+imageSrc: ""
 ---
 
 ## What is a Bitcoin Fork?

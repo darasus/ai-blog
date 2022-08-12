@@ -23,6 +23,7 @@ intro: >-
   However, this should not stop you from exploring this option further. 
 
   Mediation has many benefits over other methods of dispute resolution, such as negotiation and arbitration. However, every type of settlement has its drawbacks. Read on to learn more about the pros and cons of mediation as a dispute resolution technique:
+imageSrc: ""
 ---
 
 ## Mediation takes time to complete.

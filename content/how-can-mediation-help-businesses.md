@@ -22,6 +22,7 @@ intro: >-
   involves multiple sessions. 
 
   Mediation can be used in all kinds of relationships where there is an opportunity to explore different ways of dealing with conflict and find win-win solutions without having to go to court or some other expensive third party adjudication. These include disputes between partners, shareholders, suppliers, customers, tenants, employees, suppliers and competitors; labor/management; landlord/tenant; divorcing spouses; members of nonprofit boards; roommates; feuding neighbours; business partners (and service providers); vendors (and clients); owners and real estate developers; executors and beneficiaries of trusts; owners and local governments etc.
+imageSrc: ""
 ---
 
 ## What is Mediation and How Does it Help Businesses?

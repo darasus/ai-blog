@@ -21,6 +21,7 @@ intro: >-
   A plant-based diet is one that focuses on plants for your main sources of food. This means lots of fruits, vegetables, nuts, seeds and plants like lettuce, onion and garlic. In contrast, a diet that focuses on animal-based foods is what most people eat now – lots of red meat, chicken, eggs and dairy products like milk and cheese.
 
   A plant based diet has many well-documented benefits including lowering the risk of heart disease and stroke; reducing your risk of developing type 2 diabetes; helping to manage your weight; improving your blood sugar control; reducing your cholesterol levels; preventing certain cancers such as colon cancer; and lowering your risk of dying from any cause.
+imageSrc: ""
 ---
 
 ## 5 Unexpected benefits of a Plant Based Diet

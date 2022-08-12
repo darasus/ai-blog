@@ -20,6 +20,7 @@ intro: >-
   In light of this increased access to education among women, it’s no surprise that more and more women are moving into professions once dominated by men. The unfortunate consequence is that we are now seeing widespread misrepresentation of facts related to gender wage gaps, particularly when it comes to the so-called “gender wage gap” as it applies to compensation for work done by men versus women.
 
   If you read or listen to much mainstream media coverage on this topic, you would likely come away with the belief that there is a veritable conspiracy among employers to pay women less than men for doing the same job because of their gender.
+imageSrc: ""
 ---
 
 ## What Is The Gender Wage Gap?

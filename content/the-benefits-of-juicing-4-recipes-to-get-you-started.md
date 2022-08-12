@@ -18,6 +18,7 @@ intro: >-
   We love juicing because it gives us an easy way to get lots of vitamins and minerals that we might not be getting from our other meals. The best part? Juicing is cheap (or free if you grow your own produce), easy and fast. You can make a glass of juice in less than 5 minutes without much prep work involved. 
 
   Juicing also means that you’ll probably consume more fruits and vegetables than you would in any other form. This article covers everything you need to know about juicing including why it’s good for you, the different kinds of juicers available on the market today, how many calories are in different types of juices, and some awesome recipes to get you started!
+imageSrc: ""
 ---
 
 ## What are the benefits of juicing?

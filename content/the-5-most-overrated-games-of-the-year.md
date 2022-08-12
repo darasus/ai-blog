@@ -21,6 +21,7 @@ intro: >-
   answers. 
 
   There is also no standard definition for what qualifies as an “overrated” game. Some people might interpret it to mean any game that received generally positive reviews but has little chance of winning a Game of the Year award. Others assume it must be a high-profile title that almost everyone agrees is terrible but continues to sell well because it has been overhyped by gaming journalists and analysts. In this article we will look at five overrated video games from 2018 that were widely praised, but do not measure up to their reputation.
+imageSrc: ""
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

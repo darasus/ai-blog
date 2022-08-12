@@ -22,6 +22,7 @@ intro: >-
   companies’: Google, Amazon, Facebook and Apple. 
 
   These firms represent a very recent type of business model. Most obviously, they are all technology companies (they sell software and hardware). They are also all data companies – their products all rely on collecting, storing and processing huge quantities of user data. Finally, they are what can be called ‘closed loop’ businesses: They tend to operate closed systems that lock users into using their services exclusively; for example by locking users into using their search engine rather than other search engines or by locking users into using their social network rather than others such
+imageSrc: ""
 ---
 
 ## Google

@@ -17,6 +17,7 @@ intro: >-
   selection of decadent dessert recipes that are as healthy as they are tasty.
 
   If losing weight is one of your New Year resolutions, it might seem like all desserts are off-limits. However, this isn’t the case at all. Even if you follow a stricter eating plan, there’s no reason why you can’t treat yourself to a sweet treat once in a while. The trick is knowing which ones aren’t going to derail your diet and which ones will do exactly that. That’s why we’re sharing these 15 scrumptious dessert recipes that won't derail your diets.
+imageSrc: ""
 ---
 
 ## Blueberry Pancakes With Whipped Cream

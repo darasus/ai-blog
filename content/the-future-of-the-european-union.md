@@ -21,6 +21,7 @@ intro: >-
   In recent years, we have seen a renewed political will among EU member states to tackle common challenges together and further strengthen the European Union. The Paris Declaration on Integration and Human Rights; the Berlin Process on Security and Integration; the Malta Declaration on Social Compact and the Digital Future of Europe are all examples of this new phase of integration.
 
   We take a closer look at where Europe is heading with its various endeavours towards greater unity.
+imageSrc: ""
 ---
 
 ## European Union integration: Where do we go from here?

@@ -23,6 +23,7 @@ intro: >-
   Whether or not this is an intentional trend remains up for debate. But what’t clear is that there’s nothing wrong with artists taking a left turn after releasing something different than what they’ve done before. In fact, it can be incredibly exciting when musicians dig into who they were as teenagers, young adults and beyond.
 
   If you need convincing, just take a listen to Foster the People’s latest album – ‘Sacred Hearts Club’ – which is Led Zeppelin meets Weezer with hints of Pink Floyd and other psychedelic influences. Here are five reasons why this LP is proof positive that going back home is the perfect way for any artist to get inspired again.
+imageSrc: ""
 ---
 
 ## Nostalgia can be a beautiful thing.

@@ -20,6 +20,7 @@ intro: >-
   Vegetables are an excellent source of many vitamins and minerals—especially vitamin C, beta-carotene, calcium, potassium, and iron. In addition to being an excellent source of vitamins A and K as well as several B vitamins, fruits are also a great source of fiber.
 
   In general the best time to eat seasonal fruits is during their peak season. Doing so helps reduce food waste while being better for the environment than importing them from faraway places at any time of the year.
+imageSrc: ""
 ---
 
 ## Vitamin A

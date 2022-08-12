@@ -18,6 +18,7 @@ intro: >-
   If you and your partner are feeling stressed out, argumentative, or disconnected from one another, consider giving mediation a try. The process helps partners understand each other better while creating new solutions to common issues they face as a couple.
 
   The benefits of mediation for couples are plentiful and will help both of you see each other in a new light. It’s not just about resolving conflicts but also creating a stronger connection moving forward into the future as partners and lovers. Let’s take a look at some of the wonderful things this process can do for you and your partner...
+imageSrc: ""
 ---
 
 ## Understanding

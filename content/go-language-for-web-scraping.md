@@ -16,6 +16,7 @@ intro: >-
   that leverage computer programs to automatically capture data.
 
   This article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.
+imageSrc: ""
 ---
 
 ## What is Web Scraping?

@@ -25,6 +25,7 @@ intro: Software engineering is the discipline of programming and designing
   the industry or just looking for some additional information to increase your
   knowledge even more, read on to discover why software engineering might be a
   great career choice for you.
+imageSrc: ""
 ---
 
 ## Tasks And Responsibilities Of Software Engineers

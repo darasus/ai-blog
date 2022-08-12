@@ -24,6 +24,7 @@ intro: When you are starting a small business, you probably don’t think of
   for yourself and others who might invest in your company. In this article we
   will discuss all the important points that would help you create an effective
   business plan for your small business.
+imageSrc: ""
 ---
 
 ## What is a business plan and why does it matter?

@@ -23,6 +23,7 @@ intro: >-
   If you're interested in investing in ZCash or any other type of cryptocurrency, it’s important for you to understand what makes each token unique. While some tokens may be more profitable than others in the long-term, your own personal investment strategy should be at the forefront when making decisions like these. 
 
   This blog post aims to provide insight into what makes ZCash stand out from other cryptocurrencies, why some might view that as a positive or negative thing and what implications it could have on its future value.
+imageSrc: ""
 ---
 
 ## What is ZCash?

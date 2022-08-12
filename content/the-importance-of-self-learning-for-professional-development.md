@@ -19,6 +19,7 @@ intro: >-
   career growth. 
 
   In today’s fast-paced world, professionals must constantly strive to keep their skills up-to-date as new technologies emerge and existing ones become obsolete. Whether you work in an office or from home, there are many benefits of self-learning that can help you achieve your personal and professional goals. This article explains the benefits of self-learning, what it is exactly, and how you can start integrating this skill into your daily routine.
+imageSrc: ""
 ---
 
 ## Why is Self-Learning Important?

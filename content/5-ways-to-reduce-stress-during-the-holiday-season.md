@@ -18,6 +18,7 @@ intro: >-
   The holiday season is packed with wonderful traditions like parties and family get-togethers. But it also brings its fair share of stressors, from spending time with extended relatives that you only see once a year to buying gifts for all those people and throwing together an elaborate party that your guests will talk about for years to come. 
 
   Fortunately, there are some things you can do to make the season less stressful. Stress is a natural response when we feel like our safety is threatened or our personal space has been invaded. When it comes to the holiday season, however, just about everything invokes stress as a response. So if you want to reduce the stress of this festive time of year, here are five ways you can do so:
+imageSrc: ""
 ---
 
 ## Plan ahead

@@ -21,6 +21,7 @@ intro: >-
   The world has come to know Musk as an inventor and investor who drives forward the future with ideas such as electric cars and Hyperloop trains. In fact, you may already be familiar with his other companies if you follow him on Twitter or Instagram. He’s also been hailed as a new version of Steve Jobs for his work overseeing so many different projects at once.
 
   If you’re an Elon fan — or a potential job applicant — here’s everything you need to know about his companies and plans for the future:
+imageSrc: ""
 ---
 
 ## SpaceX

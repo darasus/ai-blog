@@ -19,6 +19,7 @@ intro: >-
   However, with this increased usage of technology also comes some downsides. In particular, there has been growing concern regarding how big tech companies are using their vast quantities of data to manipulate users for their own gain. These companies are harvesting user information and using it to further their own business interests, often at the expense of user privacy and well-being. 
 
   These examples of how big tech is harming society will help you see these companies for what they really are: greedy corporations with little regard for consumer welfare other than how it impacts their bottom line.
+imageSrc: ""
 ---
 
 ## Facebook

@@ -20,6 +20,7 @@ intro: >-
   present to take your career to new heights. 
 
   With that in mind, we’re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we’ve broken this guide down into easy-to-digest sections. If you’re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.
+imageSrc: ""
 ---
 
 ## Grab a copy of the fundamentals

@@ -20,6 +20,7 @@ intro: >-
   If you manage your expectations going in, however, it’s possible to eat out healthfully—even if you do it often. The key is knowing how to order effectively when eating at restaurants. Make the right choices more often than not, and you can still enjoy eating out while keeping your diet in check. 
 
   The tips below will help you make better decisions when eating out.
+imageSrc: ""
 ---
 
 ## Go for protein and fiber

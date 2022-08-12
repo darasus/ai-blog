@@ -23,6 +23,7 @@ intro: Mediation is a great way for parties to resolve their disputes in an
   process. So if you are involved in a dispute and want to avoid the stress,
   expense, and time consuming legal proceedings while keeping your relationship
   with your family members intact then mediation may be right for you
+imageSrc: ""
 ---
 
 ## Find Out If Mediation Is Right For Your Situation

@@ -14,6 +14,7 @@ summary: Software engineering is a creative field that involves solving
 intro: The market for software engineers is growing fast. As businesses adopt
   cloud computing and other digital technologies, demand for software engineers
   is projected to grow by 22% from 2016 to 2026.
+imageSrc: ""
 ---
 
 ## What is a Software Engineering Degree?

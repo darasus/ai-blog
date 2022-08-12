@@ -20,6 +20,7 @@ intro: >-
   As technology continues to advance, so do the ways in which our kids can interact with it. From tablets and smart TVs to smartphones and video games, it seems as though there are more screens than ever before. This is especially true for younger children who have grown up with these devices as a normal part of their everyday life. 
 
   The pros and cons of screen time for kids can be debated endlessly but at the end of the day, your child will likely spend a lot of their time consuming some form of media in one way or another. As their parent, it’s important that you understand the benefits and risks associated with screen time so that you can make informed decisions about how much exposure they receive on a regular basis.
+imageSrc: ""
 ---
 
 ## What Are The Benefits Of Screen Time?

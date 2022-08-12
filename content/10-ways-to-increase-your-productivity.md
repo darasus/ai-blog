@@ -19,6 +19,7 @@ intro: >-
   other things you enjoy. 
 
   If you’re constantly busy but don’t feel like you’re productive, it might be because your workload is too heavy or because your workflow isn’t optimized for peak performance. Luckily, there are plenty of ways to improve your productivity that are fairly easy to implement. Try these 10 tips to increase your productivity at work, home and everywhere in between!
+imageSrc: ""
 ---
 
 ## Plan your day the night before

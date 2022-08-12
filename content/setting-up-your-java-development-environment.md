@@ -24,6 +24,7 @@ intro: >-
   coding as soon as possible. 
 
   If you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we’ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.
+imageSrc: ""
 ---
 
 ## How to set up your Java development environment?

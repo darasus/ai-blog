@@ -20,6 +20,7 @@ intro: >-
   via their own stupidity. But there’s more to it than that.
 
   In both book and film, the humanity of Watney comes out in everything he does to survive: logical thinking (how can I eat this potato again?), ingenuity (I need water; how do I distill it from our CO2 filters), courage (explore the abandoned outpost), and compassion (contact my family). He also has a lot of fun with his predicament, cracking jokes through his video log and even going disco.
+imageSrc: ""
 ---
 
 ## A brief primer on orbital mechanics

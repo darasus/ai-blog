@@ -23,6 +23,7 @@ intro: "You probably don’t need anyone to tell you that the modern Western die
   a daily basis, you can make your kitchen a healthier place by altering what
   goes into the meals you cook at home and the ones that you buy. Here are some
   tips on how you can do just that:"
+imageSrc: ""
 ---
 
 ## Change what you buy

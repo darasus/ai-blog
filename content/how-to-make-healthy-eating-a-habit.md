@@ -19,6 +19,7 @@ intro: >-
   We all know we should be eating more greens and protein and less carbs, sugar and fat… but then life happens. A busy schedule, cravings for unhealthy snacks or just the typical difficulties of adulting in general all contribute to the fact that we simply don’t eat as well as we know we should. 
 
   Luckily, making good eating habits stick isn’t impossible. It may seem like something you have to force on yourself every day, but there are things you can do to help make it easier over time. Here are some ways to help you develop healthy eating habits that last a lifetime.
+imageSrc: ""
 ---
 
 ## Commit to meal prep.

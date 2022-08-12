@@ -19,6 +19,7 @@ intro: >-
   A balanced diet is crucial if you want to stay fit and healthy. That’s because your body needs a variety of nutrients - such as vitamins, minerals, and fats - from different sources in order to function optimally. When one type of food is over- or under-consumed, the consequences can be negative.
 
   On the other hand, plant proteins are an important source of essential amino acids that cannot be produced by the human body. These compounds are found abundantly in plant foods such as beans, lentils, chickpeas, soybeans, peas, and other nuts and seeds.
+imageSrc: ""
 ---
 
 ## What are protein sources?

@@ -19,6 +19,7 @@ intro: "In today’s fast-paced world, we have less time to work out and still
   one you choose. In this article, we’ll discuss the benefits of each one and
   which is best for you based on your personal fitness level. Keep reading to
   discover more!"
+imageSrc: ""
 ---
 
 ## The benefits of walking

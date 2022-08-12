@@ -22,6 +22,7 @@ intro: >-
   As per a Statista article, the global blockchain market is expected to grow from $210 million in 2021 to $66 billion by 2026. This means there are ample opportunities for startups and businesses to leverage this technology and create innovative solutions for problems that can be solved using decentralized ledgers and smart contracts.
 
   If you are thinking about incorporating blockchain into your business model, you’ve come to the right place! In this blog post, we will discuss why you should use blockchain technology for your startup, what are the advantages of Blockchain Technology for Startups and how exactly can you implement it.
+imageSrc: ""
 ---
 
 ## How Blockchain Can Benefit Your Startup

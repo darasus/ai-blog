@@ -21,6 +21,7 @@ intro: Software development is a challenging field. Even experienced developers
   entire process more enjoyable at the same time. Today we will discuss some of
   the best IDEs for coding that you can use if you’re a developer or planning on
   becoming one in the future.
+imageSrc: ""
 ---
 
 ## Why is a good IDE so important for developers?

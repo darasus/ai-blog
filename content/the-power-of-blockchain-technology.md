@@ -21,6 +21,7 @@ intro: >-
   The digital transformation is moving businesses from operational excellence to strategic differentiation by integrating new digital technologies that are changing the way we do business in industries like healthcare, retail, logistics, etc. The pace of this change is accelerating with new software platforms fostering innovation — bringing us a world where artificial intelligence, virtual reality, and blockchain are commonplace. 
 
   These transformative technologies also open up opportunities for new collaborations between individuals and organizations at different scales. They empower people with new ways to directly exchange value between each other without intermediaries — in other words, peer-to-peer transactions. Here’s an overview of how blockchain technology can help you take your organization to the next level.
+imageSrc: ""
 ---
 
 ## Why is Blockchain Technology Important?

@@ -22,6 +22,7 @@ intro: "Learners of today are different from learners of yesterday. Today's
   a career they plan to enter. Many adults shy away from self-learning because
   they think it’te scary or difficult; it actually requires much less time than
   you might expect! Here’s how to get started with self-learning right now:"
+imageSrc: ""
 ---
 
 ## A Short Guide to Self-Learning

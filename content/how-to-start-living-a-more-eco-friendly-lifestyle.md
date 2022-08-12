@@ -14,6 +14,7 @@ summary: Climate Change is an increase in the world’s average temperature that
 intro: Did you know that a single person produces about 1.6 tons of CO2 per
   year? Did you also know that producing one cotton t-shirt uses almost 19
   gallons of water and produces 3.5lbs of CO2?
+imageSrc: ""
 ---
 
 ## What is Climate Change?

@@ -24,6 +24,7 @@ intro: Automating tasks is a way of making your life easier. Imagine this, you
   why Python is such a popular programming language for system automation and
   how it can be used to automate simple repetitive tasks in your organization.
   Let’s get started
+imageSrc: ""
 ---
 
 ## What is Python?

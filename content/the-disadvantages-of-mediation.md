@@ -24,6 +24,7 @@ intro: >-
   There are pros and cons to any decision we make in life. Weighing up all the pros and cons of mediation will help you determine if the potential benefits outweigh the potential downsides of this dispute resolution technique. 
 
   Keeping in mind what might go wrong at mediation can help you identify weaknesses in your case and prepare accordingly. After reading this article, if you feel more confident about proceeding with mediation as your first course of action, we suggest having an attorney review your documents before signing on the dotted line.
+imageSrc: ""
 ---
 
 ## Mediation Has A Low Success Rate

@@ -18,6 +18,7 @@ intro: >-
   the only difference is that their solutions work. 
 
   These people have their own rituals and habits when it comes to waking up in the morning. If these folks can do it then why can’t we? It’s because some of us are too comfortable, which means we need to shake things up! Do you want to be one of those people who gets out of bed with ease and has a productive day ahead of them? In this blog post, we’ll tell you 5 ways you can make your mornings easier.
+imageSrc: ""
 ---
 
 ## Plan The Night Before

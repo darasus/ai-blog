@@ -22,6 +22,7 @@ intro: You can either love it or hate it. But investing is something that we all
   or $500 to invest as a beginner, there are lots of great places to put that
   money so that it can grow over time. The trick is knowing which investment
   options are best for you and your circumstances...
+imageSrc: ""
 ---
 
 ## What is investing?

@@ -23,6 +23,7 @@ intro: >-
   other remote-friendly offices. 
 
   Working from home, going independent, or collaborating with coworkers online means millennials have given rise to what some have called “the gig economy.” It’s also prompted a shift in the types of companies people choose to work for and what skills they need to get hired in those roles — regardless of where they do that work. If you’re looking to join this world of work in 2020, here’s everything you need to know:
+imageSrc: ""
 ---
 
 ## The rise of remote work

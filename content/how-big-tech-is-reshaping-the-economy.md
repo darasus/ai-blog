@@ -20,6 +20,7 @@ intro: >-
   And there’s more to come. The rise of big tech signals a structural shift in the economy that will have lasting consequences for many industries and workers. 
 
   The term “big tech” usually refers to a group of nine tech companies whose market capitalization exceeds $200 billion or has grown rapidly in recent years: Amazon, Apple, Facebook, Google parent Alphabet (the parent company of Google), Netflix, Tesla, Alibaba Group (the parent company of Ali Baba), and Microsoft.
+imageSrc: ""
 ---
 
 ## What is big tech?

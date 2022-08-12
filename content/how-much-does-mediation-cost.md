@@ -21,6 +21,7 @@ intro: >-
   While some attorneys may offer their clients a choice between litigation and a certain number of hours of mediation at a reduced rate as an alternative to litigation, most attorneys charge their standard rates for mediation services. 
 
   The hourly rate for a private mediator may range from $100 per hour to $300 per hour or more; however, most mediators will have standard market rates that fall within that range. Many corporations and nonprofit organizations negotiate group discounts when contracting with third-party mediation services. In general, expect to spend $200 to $500 per party for a one-day mediation session with two neutral mediators and an independent arbiter.
+imageSrc: ""
 ---
 
 ## How Long Does Mediation Take?

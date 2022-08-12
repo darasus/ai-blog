@@ -22,6 +22,7 @@ intro: >-
   Almost everyone has heard about blockchain technology thanks to its usage in cryptocurrencies like Bitcoin . But what exactly is blockchain technology? A blockchain is a digital ledger that allows users to make secure transactions without the need for a third party or intermediary such as a bank or broker. 
 
   Let’s take a look at some examples of how you can use blockchain technology for development either now or in the future.
+imageSrc: ""
 ---
 
 ## Smart Contracts

@@ -18,6 +18,7 @@ intro: >-
   money while not actively working. It’s the ultimate goal for most investors.
 
   Researchers suggest that passive income will be the primary source of retirement funding for millennials. However, this financial strategy isn’t easy for everyone, especially with so many different ways to invest your money and get a return on your investment. If you’re considering starting your own business or launching a side hustle to generate passive income streams, here are some trusted strategies that may suit your risk profile and goals.
+imageSrc: ""
 ---
 
 ## Basics of Passive Income

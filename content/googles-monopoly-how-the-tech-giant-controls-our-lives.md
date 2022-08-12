@@ -22,6 +22,7 @@ intro: >-
   In real life, Google has become something similar: It’s a company whose purpose is to capture every moment of our lives for the entertainment of an audience watching from outside our world. 
 
   You might not know this if you live, work, and play exclusively online — as many people now do — but Google realizes more about you than any other company on earth.
+imageSrc: ""
 ---
 
 ## Why does Google know so much about us?

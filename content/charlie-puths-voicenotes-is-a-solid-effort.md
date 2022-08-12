@@ -17,6 +17,7 @@ intro: >-
   keeping Puth’s fun and lighthearted style. 
 
   At its core, Voicenotes is an acoustic pop album. However, it goes deeper than just putting electric guitars aside; these songs are stripped right down to the bare bones. There’s still plenty of production value—especially on the third track—but it feels like Puth made a conscious decision not to hide behind anything.
+imageSrc: ""
 ---
 
 ## Worth mentioning

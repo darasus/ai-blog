@@ -19,6 +19,7 @@ intro: >-
   If you’re thinking about starting to invest, understanding how stocks work and what the risks are can help you make an informed decision about whether or not you should invest your money in stocks. 
 
   This guide will walk you through everything you need to know about investing in stocks for beginners. It covers topics such as why investing in stocks is a good idea, some general risks of investing and how to get started.
+imageSrc: ""
 ---
 
 ## What is the Stock Market?

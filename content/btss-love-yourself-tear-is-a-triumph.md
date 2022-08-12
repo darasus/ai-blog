@@ -20,6 +20,7 @@ intro: >-
   Furthermore, it’s the strongest of the bunch.
 
   It’s impossible to talk about BTS without mentioning their massive following beyond Korea: Vivid, obsessive ARMYs (as they call them) who follow their every move and buy everything associated with them. This is why many people assume they are only famous because of social media and pandering ads (which is true). However, anyone who listens to their music will tell you that they deserve all this success. “Love Yourself: Tear” proves it once again.
+imageSrc: ""
 ---
 
 ## The Importance of ‘Tear’

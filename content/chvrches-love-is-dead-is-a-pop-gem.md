@@ -21,6 +21,7 @@ intro: >-
   death rather than dancing around in your bedroom to this record. 
 
   Chvrses has gained more popularity among a different group of fans by releasing this album than they ever did with their first two releases combined. This is partially because they have expanded their audience by collaborating on songs with Haim and Bleachers recently as well as making this change in sound so now they have crossover appeal to radio listeners too!
+imageSrc: ""
 ---
 
 ## Track-by-track Review of “Love Is Dead”

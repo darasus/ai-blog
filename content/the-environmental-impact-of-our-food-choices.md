@@ -21,6 +21,7 @@ intro: >-
   An increasing number of people consider their diet when making decisions about their future. Perhaps this is because we are learning more about the environmental implications of our food choices: Eating less meat is good for the planet; eating only local and seasonal food is good for the planet; eating plants instead of animals reduces your carbon footprint; you should avoid palm oil as it’s destroying the rainforests…
 
   To understand how our diet impacts the environment, we first need to understand what differentiates healthy diets from unhealthy ones. A healthy diet is one that balances calories with nutrition, ensuring adequate intake of vitamins and minerals. An unbalanced or unhealthful diet has too much or too little of one or more nutrients.
+imageSrc: ""
 ---
 
 ## How does our diet affect the environment?

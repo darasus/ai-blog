@@ -24,6 +24,7 @@ intro: "When you first start investing, the world of finance can feel like a
   financial strategy -- here are some useful tips for getting started in the
   world of investment and how you can get ahead sooner rather than later with
   these 5 investment strategies for beginners:"
+imageSrc: ""
 ---
 
 ## Diversification is your best friend

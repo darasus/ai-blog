@@ -21,6 +21,7 @@ export default function Home({ post, posts }: Props) {
         <Meta
           title={title}
           description={`${summary.slice(0, 157).trim()}...`}
+          imageSrc={post.imageSrc}
         />
         <Post post={post} />
       </div>

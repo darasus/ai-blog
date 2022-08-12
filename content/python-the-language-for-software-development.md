@@ -19,6 +19,7 @@ intro: >-
   are so many different programming languages available to learn. 
 
   With so many options out there, how do you know which ones are worth your time? That’s why we’ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we’ll explore why Python is ideal for software development and why it sets itself apart from other options such
+imageSrc: ""
 ---
 
 ## What Is Python?

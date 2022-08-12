@@ -21,6 +21,7 @@ intro: When you take your first coding class, you’ll quickly realize just how
   programming classes more easily but also prepare you for a career in software
   development. In this blog post, we’ll explore some of the most important best
   practices for beginners who are learning to code.
+imageSrc: ""
 ---
 
 ## Use meaningful variable names

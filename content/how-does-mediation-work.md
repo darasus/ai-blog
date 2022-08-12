@@ -25,6 +25,7 @@ intro: >-
   Mediation is confidential so that parties can speak openly about their concerns, fears, and desires without fear of retribution. The mediator does not take sides but rather assists the parties in exploring possible solutions to resolve the conflict in a way that works for both of them.
 
   An added benefit of mediation is that it allows people on opposing sides of a dispute see each other as human beings with needs, wants and concerns just like they have. They learn cooperation instead of confrontation…
+imageSrc: ""
 ---
 
 ## What Happens in Mediation?

@@ -19,6 +19,7 @@ intro: >-
   Roasting also makes it easier to eat than fried chicken as you don’t have to worry about excess oil or unhealthy fat dripping into your diet. Roast chicken is a great source of protein—and if you get your bird from the farmers market or an organic grocery store, it's probably even pasture-raised and much healthier than anything you find in a supermarket.
 
   With this recipe for roast chicken, you can enjoy roast chicken at home again and again. Keep reading for some great tips on how to make the perfect roast chicken every time!
+imageSrc: ""
 ---
 
 ## The perfect roast chicken

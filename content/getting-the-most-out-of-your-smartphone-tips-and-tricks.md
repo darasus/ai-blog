@@ -21,6 +21,7 @@ intro: >-
   phone can do even more than you think. 
 
   In this post, we will share some tips and tricks that will help you get the most out of your smartphone. Keeping reading for useful advice on how to use your smartphone more efficiently, how to store photos properly so they take up less space on your device, how to download apps that won’t chew up memory unnecessarily and many other helpful tricks you didn’t know about!
+imageSrc: ""
 ---
 
 ## Use Battery-Saving Apps

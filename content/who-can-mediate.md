@@ -18,6 +18,7 @@ intro: >-
   requirements that you meet to qualify as an eligible candidate. 
 
   Mediation eligibility can differ depending on whether the dispute resolution program requires participants to be from a certain income level or has other prerequisites such as being a homeowner or having a specific legal status. You should also keep in mind that some programs may require mediation only when parties can’t agree on a settlement and not necessarily as an initial step in their process for resolving disputes. Read on for more information about who can mediate and what factors may impact your ability to participate in this alternative dispute resolution process.
+imageSrc: ""
 ---
 
 ## What Can You Mediate?

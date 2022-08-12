@@ -21,6 +21,7 @@ intro: >-
   investing wisely the better off you’ll be in the long run. 
 
   We all want financial security and a comfortable retirement some day — but not many people are willing to put in the time and effort required to get there. That’s why we’ve got all the information you need right here so that you can start making smart decisions today and build a better financial future tomorrow.
+imageSrc: ""
 ---
 
 ## How To Invest Money: The Basics

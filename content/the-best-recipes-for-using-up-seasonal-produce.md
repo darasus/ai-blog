@@ -19,6 +19,7 @@ intro: >-
   And truth be told, there are some downsides involved with eating seasonally. For example, it might feel more expensive to buy vegetables only when they’re in season; that may not always be the case, but often the non-seasonal price is lower because they are grown more efficiently with fewer inputs on an industrial scale. 
 
   However, there are plenty of upsides too! Eating seasonally means that you get to enjoy different flavors throughout the year — which is something many people don’t tend to do.
+imageSrc: ""
 ---
 
 ## Plan your meals for the week.

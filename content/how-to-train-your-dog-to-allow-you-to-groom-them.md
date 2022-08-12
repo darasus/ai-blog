@@ -18,6 +18,7 @@ intro: >-
   help train them to allow you to do so. 
 
   Dog grooming is something that many pet owners struggle with from time to time, especially if your pet has a specific type of fur that doesn’t grow too much like long hair or curly hair. It’s natural for dogs to dislike having their hair caught in things like bushes or trees while they hunt or run around outside; however, it can also be difficult when trying to keep their hair short and tidy at home.
+imageSrc: ""
 ---
 
 ## What you will need

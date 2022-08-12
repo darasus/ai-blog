@@ -22,6 +22,7 @@ intro: Today, most people visit their desk just two or three days a week,
   years to come. How will different industries adapt? What skills will be
   required in 10 years’ time? And what implications does this have for education
   today?
+imageSrc: ""
 ---
 
 ## What Will The Future Of Work Look Like?

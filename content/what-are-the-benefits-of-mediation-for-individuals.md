@@ -22,6 +22,7 @@ intro: In today’s world, there is an increasing number of individuals who are
   on a single thought or idea with little external distraction.This article
   discusses the benefits of mediation for individuals as well as how it can be
   implemented in one’s life.
+imageSrc: ""
 ---
 
 ## Reduce Stress And Anxiety

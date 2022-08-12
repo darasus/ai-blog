@@ -21,6 +21,7 @@ intro: >-
   The popularity of the word “blockchain” has grown substantially over the last couple of years. For example, you might recall the crypto craze in late 2017 when Bitcoin prices skyrocketed. That’s because blockchain is what made cryptocurrencies possible in the first place, serving as a trustless digital ledger to track transactions without needing an intermediary like a bank or other third party.
 
   Unfortunately, many people still don’t fully understand what blockchain is or why it matters. But regardless of where you stand on this technology, you should know that blockchain isn’t just useful for cryptocurrency anymore—it can be used to improve almost any business model.
+imageSrc: ""
 ---
 
 ## What is Blockchain Technology?

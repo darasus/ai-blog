@@ -20,6 +20,7 @@ intro: >-
   Self-learning is a continuous process and not something that happens only once or twice in one’s lifetime. In fact, it is an ongoing, never-ending process. It is a way of thinking, an approach to learning and a set of strategies that can be used at any point in time. Self-learning is basically learning how to learn, so that we can continue to grow even after finishing school or university. 
 
   Even adults prefer different methods of learning such as reading books on their own instead of listening to lectures or attending group classes. There are numerous ways through which you can tap into your inherent abilities and cater to your specific needs as an adult learner. These tips will help you hack your self-learning skills in no time.
+imageSrc: ""
 ---
 
 ## Build your vocabulary.

@@ -19,6 +19,7 @@ intro: >-
   Perhaps all of these things. Let’s break it down. 
 
   The “In My Feelings” challenge basically involves someone standing in a public place and dancing along to Drake’s new song, “In My Feelings.” If they are not at home or in their own car, they will have to record this dance and post it online for all their followers to see. It is essentially just an excuse for people to shirk their responsibilities and have fun. Nothing wrong with that!
+imageSrc: ""
 ---
 
 ## What you need to know about the Shiggy

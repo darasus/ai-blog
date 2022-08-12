@@ -22,6 +22,7 @@ intro: >-
   sharing of data while also ensuring its confidentiality and integrity. 
 
   To that end, blockchain technology presents numerous opportunities for improving how we manage confidential data. In this blog post, we will explore how blockchain technology can help businesses reduce the risk of cyberattacks by securing user data on an individual level rather than a centralized server. Furthermore, we’ll discuss why blockchain technology is particularly well suited to meet this challenge with enhanced security measures and increased transparency.
+imageSrc: ""
 ---
 
 ## Blockchain Basics

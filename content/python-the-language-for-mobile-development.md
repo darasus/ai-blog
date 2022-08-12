@@ -20,6 +20,7 @@ intro: >-
   With so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what’s the best option?
 
   If you’re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we’ll cover why this is good choice—and why other options may not be ideal in certain situations.
+imageSrc: ""
 ---
 
 ## Why Python?

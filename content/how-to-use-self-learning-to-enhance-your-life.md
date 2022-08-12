@@ -20,6 +20,7 @@ intro: >-
   Self-learning involves seeking out knowledge rather than waiting for it to come to you. It is an active process of exploring potential areas of interest, testing your knowledge, and expanding your skillset through reading, lectures, tutorials, or even online classes like Lynda or Udemy.
 
   Self-learning can be used in almost any area of your life to gain new skills that will help you succeed in your career or personal life. With some self-discipline and persistence, almost anyone can become a self-learner.
+imageSrc: ""
 ---
 
 ## Why self-learning?

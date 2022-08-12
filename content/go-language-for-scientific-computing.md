@@ -21,6 +21,7 @@ intro: >-
   binaries or as packages (called packages in Go). 
 
   Go is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.
+imageSrc: ""
 ---
 
 ## Performance

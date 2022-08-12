@@ -20,6 +20,7 @@ intro: >-
   Airlines across the world have responded by reducing their service and capacity, which has led to a decrease in air travel demand and left many airlines with unprofitable operations. Some airlines have even ceased operations completely until demand returns or they see an opportunity for sustainable growth once the pandemic ends. 
 
   The global pandemic has impacted all airlines, not just those directly affected regions. Regardless of where you’re flying from or to, here’s what you need to know about your flight during this turbulent time:
+imageSrc: ""
 ---
 
 ## What’s Causing The Pandemic?

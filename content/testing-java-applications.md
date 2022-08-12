@@ -22,6 +22,7 @@ intro: >-
   That’s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it’s user authentication or any other feature of your application.
 
   If you have not started testing your Java applications yet, we suggest you start soon!
+imageSrc: ""
 ---
 
 ## Why Is Java Application Testing Important?

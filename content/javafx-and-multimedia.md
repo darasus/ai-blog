@@ -23,6 +23,7 @@ intro: New technologies and breakthroughs in semiconductor fabrication have
   edge computing and Machine Learning (ML) based artificial intelligence
   systems. The latest technology being adopted by both enterprises and
   developers is the Internet of Things (IoT).
+imageSrc: ""
 ---
 
 ## What is the Internet of Things?

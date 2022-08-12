@@ -32,5 +32,6 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
     summary: data.summary,
     slug: filePath.replace(/\.mdx?$/, ""),
     intro: mdxIntro,
+    imageSrc: data.imageSrc,
   };
 };

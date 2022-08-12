@@ -23,6 +23,7 @@ intro: >-
   Hip hop is a brilliant hybrid of different genres, with influences stemming from blues, gospel, jazz, reggae and rock. Its explosive popularity can be attributed to a number of factors: its wordplay ethos; its roots as an African-American art form; its non-commercial nature as an underground scene; and its potential as a unifying force for disenfranchised youth across the globe.
 
   Let's take a look at why Hip Hop rules the world…
+imageSrc: ""
 ---
 
 ## Wordplay is at the heart of hip-hop

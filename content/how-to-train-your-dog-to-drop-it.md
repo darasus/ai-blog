@@ -17,6 +17,7 @@ intro: >-
   If you want to train your dog to drop something on command, you’ll need to focus a bit on simple tricks like that. After all, it isn’t exactly the kind of thing they’re going to be motivated to do by instinct on their own. In addition, there are some pretty great benefits from training your dog this skill. 
 
   When you train your dog to drop something on command, it will help them in a number of areas later in life. For starters, teaching them how to put an object down gently as opposed readying it more often than not means they won’t hurt their teeth or gums when they chew on things later in life. It also makes things like vet checkups easier and even makes housebreaking much faster when combined with other tricks like ‘sit’ and ‘stay’.
+imageSrc: ""
 ---
 
 ## Step 1: Get your dog comfortable with the ‘drop’ command

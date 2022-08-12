@@ -18,6 +18,7 @@ intro: >-
   We live in a rapidly evolving world where information is constantly updated and available at the click of a button. The amount of content accessible online has exploded over the past few years, with more websites, blogs, videos, and social media feeds than anyone could keep up with. It has become essential for professionals to learn how to self-educate effectively in order to stay relevant and continue growing their careers and personal interests. 
 
   This article will focus on why you should invest in your own learning, what self-learning looks like today, the benefits of self-learning from an occupational standpoint, as well
+imageSrc: ""
 ---
 
 ## Why is Self-Learning so Important?

@@ -21,6 +21,7 @@ intro: >-
   You like keeping your things? Good luck with that. 
 
   But luckily, with some bit of training and persistence, you can teach your pup exactly what’s off limits and exactly where to leave it instead. Best of all, all these tricks take very little time and effort on our part. It doesn’t have to be hard! Let’s check out how!
+imageSrc: ""
 ---
 
 ## Rule 1: Have A Dinner Party

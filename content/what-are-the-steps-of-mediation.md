@@ -23,6 +23,7 @@ intro: >-
   Mediation is very different from other forms of ADR because there is no neutral third party adjudicator present during mediation sessions. Rather, both parties agree to let a neutral mediator facilitate their discussion and suggest ways the two sides might be able to settle on amicable terms that are mutually beneficial.
 
   Furthermore, unlike arbitration, which uses a third party neutral arbitrator to resolve disputes privately with no input from either party, with mediation there’s no need for secret proceedings or winner take all outcomes. Instead, both sides come together in order to find the best possible outcome for everyone involved by working through issues towards an agreeable solution that works for everyone.
+imageSrc: ""
 ---
 
 ## What Are The Steps of Mediation?

@@ -19,6 +19,7 @@ intro: >-
   can negatively impact performance. 
 
   We’ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application’s performance.
+imageSrc: ""
 ---
 
 ## Measure Before You Tune

@@ -25,6 +25,7 @@ intro: "Today’s small business owner faces an entirely different set of
   entity is one where shareholders report their shares on their personal tax
   returns rather than the company’s tax return. Here are ten helpful tips to
   managing your small business finances:"
+imageSrc: ""
 ---
 
 ## Know the difference between an S Corp and a C Corp

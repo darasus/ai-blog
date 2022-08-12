@@ -20,6 +20,7 @@ intro: >-
   A plant-based diet involves consuming plants as primary food sources rather than animal products. Apart from being rich in vitamins, minerals, and other nutrients, plant-based diets have been linked to numerous health benefits — lower risk of obesity, cardiovascular diseases, type 2 diabetes and cancer; higher intake of antioxidants and fiber; lower blood pressure and cholesterol levels; and better management of chronic conditions such as hypertension.
 
   There are many advantages to switching to a plant-based diet — even if you’re not ready to become fully vegan. These benefits will probably make you think twice before reaching out for that next steak or chicken wing…
+imageSrc: ""
 ---
 
 ## An Introduction to a Plant-based diet

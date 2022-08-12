@@ -21,6 +21,7 @@ intro: >-
   Are You Prepared For A New Dog? Read This Before Adopting One! 
 
   As we all know, puppies don’t come with instruction manuals. Even though they’re smart animals, they also have their own ways of doing things that can leave us scratching our heads at times. They are not always willing to do what we want them to do with ease and grace.
+imageSrc: ""
 ---
 
 ## The Basics of Teaching a Dog to Wait

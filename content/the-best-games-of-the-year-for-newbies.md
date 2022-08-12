@@ -19,6 +19,7 @@ intro: >-
   This may not come as a surprise if you’ve read even a single article about the current state of the video game industry, but 2018 was a rough year for gamers — especially those who are just dipping their toes into this whole “video games” thing. Many big-name titles such as Call of Duty and Assassin’s Creed were so filled with microtransactions and other unfair business practices that they were met with widespread criticism and even government intervention in some cases.
 
   We had so many great games this year that choosing our top 10 was incredibly difficult. But we managed it! Here are the best games for newbies in 2019:
+imageSrc: ""
 ---
 
 ## Sea of Thieves

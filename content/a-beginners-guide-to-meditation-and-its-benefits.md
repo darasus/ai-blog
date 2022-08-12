@@ -21,6 +21,7 @@ intro: The idea of sitting still and focusing on your breathing might sound a
   stress, lift our mood, increase self-awareness and make us more compassionate
   human beings. So if you’re ready to adopt the practice of meditation in your
   life on a regular basis, read on – we’ve got all the details you need!
+imageSrc: ""
 ---
 
 ## What is meditation?

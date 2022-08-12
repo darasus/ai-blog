@@ -20,6 +20,7 @@ intro: >-
   We all know that regular physical activity helps reduce the risk of obesity, hypertension, diabetes and other conditions related to sedentary lifestyles and poor eating habits. These benefits can be seen almost immediately and continue over time with consistent exercise.
 
   The many benefits of exercise include: reducing stress, improving your mood and confidence; lowering your risk of heart disease and stroke; strengthening your bones and muscles; improving your balance and coordination; raising your metabolism so you burn more calories at rest; lowering your blood pressure; relieving depression; increasing oxygen to your brain so you think more clearly; increasing endorphins which makes you happier; giving you a healthy glow by improving skin tone and complexion, reducing acne and pimples.
+imageSrc: ""
 ---
 
 ## What Kind of Exercise Is Best?

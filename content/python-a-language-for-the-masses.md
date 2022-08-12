@@ -22,6 +22,7 @@ intro: Python is a general-purpose programming language that was created in
   learn Python, teach you everything you need to know about this wonderful
   coding language, and provide some resources for getting started. So keep
   reading to discover more about this awesome programming
+imageSrc: ""
 ---
 
 ## What can you do with Python?

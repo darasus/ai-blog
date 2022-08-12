@@ -24,6 +24,7 @@ intro: In this digital age, data is everywhere. Whether you’re using the
   today, but one of the most popular among developers is Python. In this
   article, we will explore what makes Python unique and discuss why it’s such a
   popular choice for programmers today.
+imageSrc: ""
 ---
 
 ## What is Python?

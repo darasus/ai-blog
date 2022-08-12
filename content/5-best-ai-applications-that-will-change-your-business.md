@@ -20,6 +20,7 @@ intro: >-
   something. 
 
   However, AI isn’t solely limited to helpful sea creatures or talking speakers. In fact, AI is being used for all kinds of purposes – from self-driving cars to replacing call center agents with intelligent chatbots. Even businesses are seeing the value in incorporating AI into their day-to-day operations. From automating processes to making data-driven decisions faster, businesses of all sizes can leverage the benefits of AI in order to improve their services and workflows.
+imageSrc: ""
 ---
 
 ## What is artificial intelligence?

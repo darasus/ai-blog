@@ -20,6 +20,7 @@ intro: >-
   The latest version of Windows betrays user privacy by default, as well as through aggressive telemetry data collection, browser tracking, and ad injection. Users who upgrade to Windows 10 can no longer trust their computer or the software that runs on it. 
 
   When you use Windows 10, Microsoft collects personal information about you, your device usage habits, and apps that you install; all of which is transmitted back to the company in an unencrypted format. These practices are unacceptable and have triggered class-action lawsuits and government inquiries around the world.
+imageSrc: ""
 ---
 
 ## Windows 10: A loss of user trust

@@ -20,6 +20,7 @@ intro: >-
   The history of Apple goes back to 1981 when Steve Jobs founded the company at age 21. In that period there was a famous video game crash where Atari and other gaming companies made losses due to overproduction and in response many gamers stopped buying video games for almost four years. This led to Steve Wozniak (Steve Jobs’ friend) proposing that they start their own computer company – which became known as Apple Computer Inc.
 
   What follows is a detailed look into the history of Apple Inc., including details about key executives and any relevant organizational changes.
+imageSrc: ""
 ---
 
 ## 1980: The Birth of Apple Computer Inc.

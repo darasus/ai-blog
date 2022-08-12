@@ -20,6 +20,7 @@ intro: >-
   There are some people who have naturally high levels of productivity and others who struggle to manage their time. But regardless of where you fall on this spectrum, anyone can learn to become more productive by learning how to prioritize your time.
 
   It’t not just about finding ways to squeeze more hours into the day, but changing your habits so that they help you achieve more with less stress and strain.  In this blog post, we will explore why prioritizing your time is so important, the different types of time management out there, and what steps you can take today to become more productive tomorrow.
+imageSrc: ""
 ---
 
 ## What is the importance of prioritizing your time?

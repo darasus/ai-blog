@@ -20,6 +20,7 @@ intro: >-
   file sharing, debugging, and testing much simpler. 
 
   Coding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let’s take a look at some of the best coding tools that every developer should know about!
+imageSrc: ""
 ---
 
 ## Code Editors

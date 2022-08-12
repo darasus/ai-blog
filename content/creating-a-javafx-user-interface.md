@@ -20,6 +20,7 @@ intro: >-
   Even though JavaFX is a very powerful library, it doesn’t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls – there were a few controls which didn’t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).
 
   If you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND
+imageSrc: ""
 ---
 
 ## Creating a JavaFX User Interface: The Basics

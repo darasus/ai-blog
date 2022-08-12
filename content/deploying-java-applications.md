@@ -22,6 +22,7 @@ intro: >-
   There are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don’t have services like StatsD, Datadog and Prometheus installed on your servers.
 
   In this blog post we take a look at several different ways you can deploy Java applications.
+imageSrc: ""
 ---
 
 ## Manual Processes

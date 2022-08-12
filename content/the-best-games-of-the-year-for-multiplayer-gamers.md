@@ -20,6 +20,7 @@ intro: >-
   There are so many great multiplayer games out there, whether you’re aiming to save the world from aliens or simply just have some laughs with friends. The best multiplayer games offer an experience like no other and allow players to compete against one another while also teaming up to take on a greater challenge.
 
   There are plenty of ways to enjoy playing video games as a group, whether that be at home with friends over drinks or even as part of an organized club. Here are some of the best multiplayer games out there if you want to team up and take on challenges together as well as compete against your pals for bragging rights.
+imageSrc: ""
 ---
 
 ## Halo 5: Guardians

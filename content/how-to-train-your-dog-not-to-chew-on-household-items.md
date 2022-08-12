@@ -21,6 +21,7 @@ intro: >-
   it could lead to potential hazards or unsanitary conditions. 
 
   Even if your dog has never chewed on inappropriate things before, a new puppy will almost certainly try out things beyond what is safe for him. How you train him from the very beginning will determine how much damage he can do if he goes after something he shouldn’t. So read on and learn how to stop your dog from chewing on anything other than his own toys.
+imageSrc: ""
 ---
 
 ## Before You Start Training

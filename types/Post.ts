@@ -8,6 +8,7 @@ export interface MDXPost {
   category: string;
   summary: string;
   intro: string;
+  imageSrc: string;
 }
 
 export interface TPost {
@@ -19,4 +20,5 @@ export interface TPost {
   updatedAt: string;
   content: MDXRemoteSerializeResult<Record<string, unknown>>;
   slug: string;
+  imageSrc: string;
 }

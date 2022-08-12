@@ -22,6 +22,7 @@ intro: >-
   Whether your cat has just come home from the adoption center or has been living with you for years, there will come a time when it’s likely that your feline friend won’t feel so great. When this happens, you want to be prepared to take them to the vet immediately. 
 
   Fortunately, there are many common cat health problems that can be easily avoided or resolved quickly with proper care. Here is our list of the top 10 most common cat health problems:
+imageSrc: ""
 ---
 
 ## Parasites

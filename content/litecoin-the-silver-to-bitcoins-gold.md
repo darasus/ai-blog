@@ -21,6 +21,7 @@ intro: >-
   Armed with the knowledge that many industries will inevitably adopt blockchain technology, developers have created their own unique solutions to accelerate adoption of this exciting new technology. While most of these coins are little more than experimental testnets for improving upon existing blockchains like Ethereum – others are legitimate competitors to the market leaders.
 
   Red hot at present is Litecoin – an alternative version of Bitcoin with some key differences. Let’s take a deeper look at how this newer cryptocurrency stacks up against its older brother...
+imageSrc: ""
 ---
 
 ## What is Litecoin?

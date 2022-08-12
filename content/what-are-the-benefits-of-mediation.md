@@ -21,6 +21,7 @@ intro: >-
   Mediation is cost-effective and time-efficient, reducing the potential for long legal battles and the financial and emotional costs that go with them. In mediation, an impartial third party called a mediator meets separately with each person involved in the dispute. The mediator does not take sides but helps each person understand the other person’s point of view and find solutions they can agree on.
 
   Additionally, mediation allows you to keep control over your situation by avoiding court and practically ending your dispute faster than going to trial. If you’re interested in learning more about this resolution process as a way to manage your own conflict or as an advisor if you are working with someone who needs help resolving their dispute, read on. Here we will explore some benefits of mediation:
+imageSrc: ""
 ---
 
 ## It Helps You Understand The Situation From All Angles

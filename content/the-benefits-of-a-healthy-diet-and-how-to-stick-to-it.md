@@ -19,6 +19,7 @@ intro: >-
   to a healthy diet easier.
 
   If you want to improve your health, increase your energy, and lose weight—while still enjoying great food—a healthy diet is the way to do it. A healthy diet can help prevent disease and keep you feeling great. Following these tips can get you well on your way towards meeting your nutrition goals and eating a balanced diet that will keep you happy and healthy for life.
+imageSrc: ""
 ---
 
 ## Change Your Environment

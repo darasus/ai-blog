@@ -18,6 +18,7 @@ intro: >-
   difference in how we use our phones.
 
   Today’s best smartphones are fast and powerful, with high resolution cameras, long battery life, crisp displays and more. But by 2022, these devices may seem almost Stone Age in comparison to what comes after them. Read on to learn about some of the biggest upcoming changes in smartphone tech, along with details about which models you should consider buying if you’re shopping for a new phone in 2022.
+imageSrc: ""
 ---
 
 ## Big Screen Turns to Small Screen

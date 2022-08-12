@@ -21,6 +21,7 @@ intro: >-
   in order to succeed. 
 
   Software engineering books are an excellent way to learn more about this fast-growing profession, as well as expand your own knowledge and skills. Here we take a look at some of the best software engineering books you can read to supplement your existing education from university or other sources. Even if you don’t think you need them right now, keep reading for some great information about these essential books for software engineers…
+imageSrc: ""
 ---
 
 ## Why You Should Read Software Engineering Books

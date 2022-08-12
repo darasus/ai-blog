@@ -18,6 +18,7 @@ intro: >-
   Coding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as ‘code’ because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension. 
 
   Coding isn’t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.
+imageSrc: ""
 ---
 
 ## Read and understand the basics before you dive in.

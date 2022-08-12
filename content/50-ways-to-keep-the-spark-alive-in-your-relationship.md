@@ -20,6 +20,7 @@ intro: >-
   Whether you’ve been together for a few months or even several years, it can be easy to get into a rut when it comes to dating your significant other. With so much stress on our plates in everyday life, we don’t always have time to think about how we can keep the romance alive in our relationships. 
 
   But remember: You are not alone in this struggle! Many couples find themselves in the same position at one point or another. So take heart – whether you’re just starting out with someone new or are looking to reignite the passion in an old flame, read on for 50 ways you can keep the spark alive in your relationship!
+imageSrc: ""
 ---
 
 ## Go on a Date

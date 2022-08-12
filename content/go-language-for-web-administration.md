@@ -20,6 +20,7 @@ intro: >-
   for information technology (IT) departments.
 
   There are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you’re interested in working as an administrator in a company’s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.
+imageSrc: ""
 ---
 
 ## What is Go?

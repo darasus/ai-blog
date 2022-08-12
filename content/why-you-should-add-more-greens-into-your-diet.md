@@ -19,6 +19,7 @@ intro: "Greens are packed with nutrients and fiber, but we don’t usually think
   this nutrition, greens are also low in calories: one cup only has about 20
   calories. Here are some ways to make your greens even healthier — without
   sacrificing taste!"
+imageSrc: ""
 ---
 
 ## Add more vegetables to your diet

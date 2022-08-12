@@ -21,6 +21,7 @@ intro: >-
   and listening to lectures all by yourself. 
 
   Self-learning has many advantages over traditional learning methods because it means far more responsibility for your own advancement. You are in control of what you study, how fast or slow you proceed and how much time you devote to each subject. Here are some reasons why self-learning is so much better than traditional methods:
+imageSrc: ""
 ---
 
 ## You Control Your Learning

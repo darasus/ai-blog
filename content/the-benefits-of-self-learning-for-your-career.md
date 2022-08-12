@@ -19,6 +19,7 @@ intro: >-
   essential for professional development. 
 
   Self-learning is the process of acquiring new knowledge or skills independently through books, online courses, and other resources that don’t require an instructor or tutor. This blog post will explore how you can leverage self-learning to improve your career prospects as well as why it’s important to invest in your own learning now and forevermore.
+imageSrc: ""
 ---
 
 ## What is the Importance of Self-Learning?

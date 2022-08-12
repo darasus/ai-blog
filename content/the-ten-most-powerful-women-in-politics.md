@@ -22,6 +22,7 @@ intro: >-
   To make matters more challenging, this imbalance is not only apparent but also more pronounced in the political sphere than in any other industry. In business management, for example, women hold almost half (44%) of executive roles . But in government? They account for less than one-fifth (19%) of state legislators, city council members, and mayors combined.
 
   As a result, when it comes to women in politics we often see a lopsided list that skews toward white cisgender able-bodied wealthy educated privileged women who look very little like the rest of us. And while we’re happy to see these women rising up as leaders within government — they are after all our representatives — we can do better…and we must do better if we want our democracy back from the patriarchy that currently controls it so thoroughly.
+imageSrc: ""
 ---
 
 ## 10. Nina Turner

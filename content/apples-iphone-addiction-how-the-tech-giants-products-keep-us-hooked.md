@@ -18,6 +18,7 @@ intro: >-
   Nearly everything Apple discussed on that call revolved around iPhone: When asked about concerns over weakness in Greater China, Apple execs responded by talking about how they were bullish on iPhone sales there long term. When asked about tariffs and their impact on prices, Apple executives again pivoted to discussing how much they loved iPhone and what a great product it was for customers.
 
   That may sound weird for a company that makes a range of other products, but when you look at how much emphasis Apple has placed on its flagship smartphone in recent years, it starts to make sense. Let’s take a closer look at exactly how much power Apple has vested in its iPhone franchise…
+imageSrc: ""
 ---
 
 ## iPhone: A brief history

@@ -17,6 +17,7 @@ intro: >-
   to destress after a long day that don’t require much time. In fact, these
   techniques can be implemented in as little as 10 minutes.
    Destressin g is good for you and your mental health. When we’re stressed, our body interprets it as danger so it produces cortisol and other stress hormones to prepare us for fight or flight. These natural chemicals are useful in limited quantities but when they remain high for prolonged periods of time, they have negative effects on our health by increasing blood pressure and blood sugar levels, decreasing immune response, weakening bones, and increasing body fat storage. Stress also increases risk of heart disease and depression.
+imageSrc: ""
 ---
 
 ## Go for a walk

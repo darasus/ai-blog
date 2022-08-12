@@ -21,6 +21,7 @@ intro: Today’s workforce is undergoing a transformation unlike any in the past
   The rise of the machines will affect different people in different ways – some
   positively and other negatively. Keep reading to learn more about how AI is
   changing the workforce and what you can do to stay ahead of the curve.
+imageSrc: ""
 ---
 
 ## What is artificial intelligence?

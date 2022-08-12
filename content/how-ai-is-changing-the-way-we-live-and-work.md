@@ -18,6 +18,7 @@ intro: New artificial intelligence (AI) technologies are automating tasks once
   Whether you’re new to AI or want a refresher on the latest AI trends, this
   guide covers everything you need to know about how artificial intelligence is
   changing the way we live and work.
+imageSrc: ""
 ---
 
 ## What is Artificial Intelligence?

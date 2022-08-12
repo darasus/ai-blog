@@ -17,6 +17,7 @@ intro: >-
   has the time for that?
 
   However, the convenience of ready-made food comes at a price. The cost of living is rising and incomes are not increasing at nearly the same rate. Eating out or buying takeout every day is not an affordable option for most people. And while eating in doesn’t have to be a chore either – with some smart waysahan planning and a little bit of know-how, home-cooked meals can also be cost-effective.
+imageSrc: ""
 ---
 
 ## Use price comparison apps to find the best deals

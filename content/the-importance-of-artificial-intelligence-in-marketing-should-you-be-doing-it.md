@@ -22,6 +22,7 @@ intro: >-
   With so many different marketing tools available, it’s hard to know which ones are worth your time and money.
 
   We understand how difficult it is to whittle down all of these options when you’re trying to decide how best to invest in your business. As such, we’ve written this blog post with you in mind; we want to help you make the right decisions about these different marketing strategies.
+imageSrc: ""
 ---
 
 ## What is Marketing Automation?

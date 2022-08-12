@@ -19,6 +19,7 @@ intro: >-
   These funds have other characteristics that make them different from those with load fees: No-load mutual funds generally don’t charge commissions or sales fees. They also don't offer special privileges for buying their stock, such as reserved shares or first dibs on new stocks coming public. There are no broker incentives like sales targets or bonus payments for selling certain shares. 
 
   Keep reading to learn more about no-load mutual funds and whether they might be right for you.
+imageSrc: ""
 ---
 
 ## What you should know before buying a no-load fund

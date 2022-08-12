@@ -18,6 +18,7 @@ intro: >-
   how in order to land the job you want. 
 
   If you’re interested in becoming a software programmer and exploring new career opportunities, it’s important that you choose the right programming language from the get-go. The demand for skilled programmers is growing rapidly, so by choosing the right programming language now, you can set yourself up for success later on. Read on to learn more about Go programming and its potential as an object-oriented programming language.
+imageSrc: ""
 ---
 
 ## What is Go?

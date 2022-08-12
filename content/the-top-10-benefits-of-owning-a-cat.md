@@ -19,6 +19,7 @@ intro: When it comes to the topic of cats, a lot of people tend to have
   right breed, they can bring many benefits to your life. Cat ownership offers
   numerous positive benefits in many different areas of your life. These are
   just some of the reasons why you should own a cat!
+imageSrc: ""
 ---
 
 ## Increased Mental Health

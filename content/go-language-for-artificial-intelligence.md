@@ -23,6 +23,7 @@ intro: >-
   If you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development. 
 
   Go is a programming language created by Google and it’s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let’s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.
+imageSrc: ""
 ---
 
 ## Why Go is the Right Choice for AI Development?

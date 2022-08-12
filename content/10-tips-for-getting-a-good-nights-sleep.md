@@ -19,6 +19,7 @@ intro: >-
   If you aren’t getting enough sleep, you might feel stressed or anxious, find it hard to concentrate or solve problems, and be more prone to memory lapses and minor cognitive errors. Not getting enough sleep can also increase your risk of high blood pressure, diabetes, heart disease, stroke, and obesity. The National Institute of Health reports that adults should get about 7-9 hours of sleep each night for optimum health. 
 
   Getting a good night’s sleep isn’t always easy. But if you implement these ten tips into your routine you will be on your way to feeling rested and rejuvenated come morning time:
+imageSrc: ""
 ---
 
 ## Turn off the screens an hour before bedtime.

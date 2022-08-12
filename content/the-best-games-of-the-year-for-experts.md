@@ -19,6 +19,7 @@ intro: >-
   Experts want games with a variety of challenges and objectives that demand strategy, not just reaction time or hand-eye coordination. They want graphics and sounds that aren’t juvenile but instead sophisticated and immersive. And most importantly, they want to play against other experts rather than casual gamers who keep asking “Red or blue?”
 
   So if you think you have what it takes to make this list of the top expert games of 2018, check out these top-tier titles for some expert-level fun:
+imageSrc: ""
 ---
 
 ## Hearthstone

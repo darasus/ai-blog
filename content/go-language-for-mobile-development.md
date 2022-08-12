@@ -25,6 +25,7 @@ intro: >-
   most commonly used ones: 
 
   Software development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:
+imageSrc: ""
 ---
 
 ## Swift

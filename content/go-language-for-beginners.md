@@ -20,6 +20,7 @@ intro: >-
   But Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world – Google, Digital Ocean, Intuit, Wordpress.com and Heroku – for its ease of use, simple syntax and fast performance.
 
   Even though it’s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it’s worth learning for beginners .
+imageSrc: ""
 ---
 
 ## Why is Go language so popular?

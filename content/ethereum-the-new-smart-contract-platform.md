@@ -24,6 +24,7 @@ intro: >-
   its instruction sets and virtual machines. 
 
   Ethereum has become one of the most popular blockchain networks after Bitcoin because of its support for smart contracts, which make up a huge part of why blockchain technology is so revolutionary. In this article, you’ll learn more about what Ethereum is and its unique benefits as well as potential challenges it faces going forward in adoption and development.
+imageSrc: ""
 ---
 
 ## What is Ethereum?

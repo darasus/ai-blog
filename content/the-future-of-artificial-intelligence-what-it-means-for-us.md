@@ -21,6 +21,7 @@ intro: >-
   manner as observed in humans and animals. 
 
   AI has many practical applications, such as automatically tagging images on social media sites, detecting spam email filters, or self-driving cars. In this blog post, you will learn more about artificial intelligence, its implications on society and potential future implications of AI on jobs and everyday life.
+imageSrc: ""
 ---
 
 ## What is Artificial Intelligence?

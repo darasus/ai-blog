@@ -20,6 +20,7 @@ intro: >-
   AI enables computers to process data in ways that are comparable to human thinking. It’s especially useful when it comes to identifying patterns in large amounts of data and responding to new data with confidence and speed. As artificial intelligence continues to grow in popularity and usage, we’re seeing more AI applications integrated into everyday life.
 
   With this blog post, you will discover everything you need to know about the future of AI – its benefits, limitations, current uses, and potential applications. You will also learn about the scope of AI technology today as well as its evolution over the next ten years.
+imageSrc: ""
 ---
 
 ## What Is AI?

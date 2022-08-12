@@ -23,6 +23,7 @@ intro: "In recent years, Apple has become known for its beautiful designs and
   acting weird or giving you red flags about its performance, it’s probably time
   to take action sooner rather than later. Here are 3 reasons why your Macbook
   Pro may be lying to you:"
+imageSrc: /articles/3-reasons-why-your-macbook-pro-may-be-lying-to-you.png
 ---
 
 ## The battery may be dying

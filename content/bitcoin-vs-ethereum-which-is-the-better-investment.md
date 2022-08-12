@@ -19,6 +19,7 @@ intro: >-
   With so many similarities between these two virtual currencies, it’s easy to see why some may wonder which one is more valuable. After all, both are built on blockchain technology; they are both available as a digital token; and they are both used as payment in some cases.
 
   However, when we take a deeper look at how these two different types of tokens operate and what sort of potential they have long-term, it becomes clearer which one is likely to be worth more money.
+imageSrc: ""
 ---
 
 ## What is Bitcoin?

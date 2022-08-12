@@ -22,6 +22,7 @@ intro: >-
   However, many people struggle with self-learning because they aren’t sure where to begin or how to continue once they start learning something new. They might feel like they don’t have the time or resources available or simply find it too difficult to learn on their own .
 
   Self-learning is an extremely useful skill that can serve you for the rest of your life. Here are some of the top reasons why you should start self-learning today:
+imageSrc: ""
 ---
 
 ## You can advance your career

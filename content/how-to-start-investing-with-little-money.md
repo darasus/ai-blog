@@ -19,6 +19,7 @@ intro: >-
   You just need to know where to start. 
 
   Investing can be intimidating at first glance. Even high-net-worth individuals struggle finding trustworthy advisors who specialize in helping those with little capital get started in the market—until now. The following simple strategies will help any investor begin investing with little money and see returns over time. Keep reading for more details and examples of how much you could stand to gain from investing even a small amount now and maintaining that habit for the long term.
+imageSrc: ""
 ---
 
 ## Start with a small amount and invest regularly

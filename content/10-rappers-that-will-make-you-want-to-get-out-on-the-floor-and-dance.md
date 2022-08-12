@@ -21,6 +21,7 @@ intro: "As hip-hop continues to shed its once-maligned reputation and become
   larger audience. If you’re ready to put on your dancing shoes and get out on
   the floor with one of these 10 amazing rappers who will make you want to
   dance:"
+imageSrc: ""
 ---
 
 ## Lecrae

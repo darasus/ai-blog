@@ -22,6 +22,7 @@ intro: >-
   The plot follows the life and loves of two women; poor southern waitress Nora (Lilac) and her daughter Sarah who is being raised by her business-minded father George (Thomas). Nora’s light-skinned daughter falls for local boy Harry (Swayze), who does not know she also has darker blood. Meanwhile, George falls for Vida (Stapleton), a rich blonde socialite who will only marry him if he passes as white. 
 
   Imitation of Life offers commentary on racial identity, classism and even pansexuality through these characters, providing insight into their experiences and highlighting inequality wherever it exists.
+imageSrc: ""
 ---
 
 ## The Importance of Identity

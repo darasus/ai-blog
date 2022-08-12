@@ -21,6 +21,7 @@ intro: >-
   The reasons for going plant-based are as varied as the people who do it. Some people feel that this diet is the best way to reduce their carbon footprint and live in harmony with nature. Others see it as a healthier alternative to the Standard American Diet (SAD). 
 
   Many simply like the taste of plants more than meat. Whatever your reason for trying a plant- A great first step is learning how to start with these tips!
+imageSrc: ""
 ---
 
 ## What You Need To Know Before Going Plant-Based

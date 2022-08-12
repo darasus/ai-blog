@@ -25,6 +25,7 @@ intro: >-
   However, these languages make up what is known as web content management systems (WCMS). A WCMS is essentially software that allows developers to create websites of any kind without having to code each page from scratch every time they want to launch a new one.
 
   Here’s a brief breakdown of what big tech companies and the future of the internet look like today:
+imageSrc: ""
 ---
 
 ## Google

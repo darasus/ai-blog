@@ -21,6 +21,7 @@ intro: >-
   shopping cart and complete the purchase process.
 
   This article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you’re planning on creating one.
+imageSrc: ""
 ---
 
 ## What is an RIA?

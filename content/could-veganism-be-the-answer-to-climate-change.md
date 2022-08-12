@@ -22,6 +22,7 @@ intro: >-
   One such initiative is veganism. A plant-based diet has a number of positive benefits on the environment — mainly because raising livestock produces a substantial amount of greenhouse gas emissions. If we all stopped eating meat it would have a huge effect on carbon dioxide levels, deforestation rates, and natural water courses.
 
   As you’ll discover from reading this article, veganism could be the answer to climate change; however, there are also some drawbacks. This article explores all angles so that you can make an informed decision whether you’d like to become vegan or not.
+imageSrc: ""
 ---
 
 ## What Is Veganism?

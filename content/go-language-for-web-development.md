@@ -21,6 +21,7 @@ intro: >-
   Go’s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don’t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects. 
 
   There is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.
+imageSrc: ""
 ---
 
 ## What is Go?

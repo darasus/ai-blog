@@ -18,6 +18,7 @@ intro: >-
   Any time you make a conscious decision to spend your time and energy making food instead of buying it from a fast food joint, you’re doing something positive for your future. Meal prep allows us to take control over what we eat so that we’re not at the mercy of vending machines, drive-thru windows, or delivery options. 
 
   Meal prep doesn’t have to be expensive or time-consuming. With some planning and a few simple tricks, you can save money while also streamlining your food preparation routine.
+imageSrc: ""
 ---
 
 ## Commit to the weekend

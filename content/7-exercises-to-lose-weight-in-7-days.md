@@ -19,6 +19,7 @@ intro: >-
   body mass.
 
   Reducing fat from the body requires breaking down of fats in the body through physical activities. There are undoubtedly many reasons why people fail at losing weight, but most of them boil down to three simple things: lack of time, motivation, or knowledge. Fortunately, with these simple tricks you can lose weight in 7 days:
+imageSrc: ""
 ---
 
 ## Cardio workout

@@ -18,6 +18,7 @@ intro: >-
   Not all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).
 
   But which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let’s take a look at two of the most popular alternative digital currencies and see what sets them apart.
+imageSrc: ""
 ---
 
 ## What is Bitcoin Cash?

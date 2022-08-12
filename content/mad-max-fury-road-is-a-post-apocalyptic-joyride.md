@@ -21,6 +21,7 @@ intro: >-
   In these movies, there are also factions that have arisen to take advantage of these new conditions: In "Mad Max", we see gangs whose primary function is to steal fuel from other scavenger tribes; In "The Road Warrior", we see roving bands that are essentially highwaymen that prey upon small towns using their road-warrior combat skillset; And in both movies we see heroes who fight against evil not because they want to be evil but because they are good people trying to save those they love in terrible times.
 
   These subtexts have been explored time and time again throughout history through literature such as The Bible
+imageSrc: ""
 ---
 
 ## The Apocalypse as a lens to examine the human condition

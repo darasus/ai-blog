@@ -18,6 +18,7 @@ intro: >-
   special... 
 
   No other global technology company has reached the pinnacle that Apple has in the last 30 years. From being an almost bankrupt tech firm in the late ‘90s to becoming the most valuable company in the world today, Apple has come a long way. Here is why Apple is indeed the best company in the world right now:
+imageSrc: /articles/11-reasons-why-apple-is-the-best-company-in-the-world.png
 ---
 
 ## Apple is one of the most innovative companies in the world

@@ -19,6 +19,7 @@ intro: >-
   The IoT is made up of all the connected devices that monitor data such as operational parameters, performance, usage, etc. It allows users to interact with these connected devices through virtual applications or digital user interfaces.
 
   Users and businesses can use the internet of things to track the locations of their assets, monitor usage patterns and detect problems before they become serious problems. This article explains why you should invest in Iota and its pros and cons as an investment opportunity.
+imageSrc: ""
 ---
 
 ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

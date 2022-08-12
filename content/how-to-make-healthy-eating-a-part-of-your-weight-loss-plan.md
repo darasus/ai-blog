@@ -19,6 +19,7 @@ intro: >-
   nutritious whole foods that boost your metabolism and maintain energy levels.
 
   Even with the constant bombardment of pro-fad diet messages in the media, most people understand that cutting calories alone is not an effective weight loss strategy. In fact, research shows that for lasting weight loss, dieters need to adopt healthy habits that they can sustain for life—like eating more fruits and vegetables, whole grains, lean protein sources, and other low-fat or non-fat sources of nutrients. But even setting this as our goal doesn’t guarantee we’ll achieve it. Here are some tips to help you put healthy eating at the center of your weight loss plan so you get results you can keep forever:
+imageSrc: ""
 ---
 
 ## Start with protein.

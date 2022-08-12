@@ -20,6 +20,7 @@ intro: >-
   As we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements. 
 
   In this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA
+imageSrc: ""
 ---
 
 ## Creating a New JavaServer Faces Project in IntelliJ IDEA

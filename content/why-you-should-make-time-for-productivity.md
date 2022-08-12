@@ -19,6 +19,7 @@ intro: >-
   That’s because it probably is. Many of us lead fast-paced and hectic lives where there never seems to be enough time in the day. We are constantly on the go, juggling various responsibilities and appointments. In fact, for many people, “busy” has become a badge of honor—a sign that they are so important and indispensable that they can’t even spare an hour to Netflix or take out the trash without an appointment.
 
   But being busy isn’t always a good thing. It often means that we aren’t making time for things that are actually important, like building new relationships or dedicating time to personal development. Without making time for these things, we get caught up in the whirlwind of our everyday lives and don’t spend nearly as much time as we should focused on what matters most.
+imageSrc: ""
 ---
 
 ## Productivity Isn’t Just About Being “Busy”

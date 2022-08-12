@@ -22,6 +22,7 @@ intro: >-
   The monster movie sub-genre is especially thin on fresh ideas these days. From vampires to werewolves to Frankenstein’s monster and his re-imagined counterpart, Victor Frankenstein, there isn’t much left that hasn’t already been done multiple times before. In addition to those staples we’ve also seen zombie apocalypse stories (that often include some variation of vampirism), ghostly apparitions, hillbillies with cannibalistic tendencies, possessed dolls, insane asylum inmates and even extraterrestrial parasites that take over human hosts as their source of food on earth.
 
   With all those elements combined into one production you have something like “Them” from 2013 or any number of other films where monsters are revealed to be aliens or humans who were exposed to some sort of virus that turned them into beasts. But then again… The Babadook doesn’t exactly follow the same formulaic structure either.
+imageSrc: ""
 ---
 
 ## A Babadook by any other name would be just as frightening

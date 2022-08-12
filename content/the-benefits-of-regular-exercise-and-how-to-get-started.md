@@ -22,6 +22,7 @@ intro: "Getting into a regular workout routine is something that’s a lot easie
   life, adding exercise to your routine is a great place to start. Here are some
   reasons why getting your sweat on regularly could be exactly what you need
   right now:"
+imageSrc: ""
 ---
 
 ## Stress Can Have A Negative Impact On Your Health

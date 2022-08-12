@@ -18,6 +18,7 @@ intro: >-
   meals. 
 
   We can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you’re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.
+imageSrc: ""
 ---
 
 ## Why meal plan?

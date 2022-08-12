@@ -20,6 +20,7 @@ intro: "Games are a major part of our lives. We spend lots of time playing them,
   great ones out there and they come in all shapes and sizes: Action-adventure,
   shooters, RPGs; you name it! Here is a list of the top 5 games this year that
   you must play if you haven’t already:"
+imageSrc: ""
 ---
 
 ## 5. Horizon Zero Dawn

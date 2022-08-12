@@ -24,6 +24,7 @@ intro: >-
   A variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others. 
 
   In this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:
+imageSrc: ""
 ---
 
 ## Haskell

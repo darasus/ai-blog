@@ -20,6 +20,7 @@ intro: >-
   Mediation is a collaborative negotiation process with a neutral third party known as a mediator who helps individuals or parties in conflict reach an agreement that's fair to all involved. Mediators do not take sides; they do not give advice; and they don’t recommend what a person should do. Instead, the mediator facilitates communication between two or more parties by encouraging them to share their ideas and feelings honestly and constructively.
 
   Mediation can be used at any stage of conflict -- before litigation begins or during settlement discussions after lawsuit is filed. If you’re considering implementing mediation in your organization, here are some helpful tips on how to effectively mediate an employee dispute:
+imageSrc: ""
 ---
 
 ## Establish a mediation program and educate employees on its benefits.

@@ -20,6 +20,7 @@ intro: >-
   This has led to a culture where people tend to eat whenever and wherever they can, almost irrespective of what they are consuming or how healthy it is. However, while being hungry is never a bad thing, overeating at any time – let alone all of them – isn’t great either.
 
   If you’re reading this article right now because you struggle with hunger often and want some ideas on how to make healthier food choices when you’re hungry, we think you’ll find some useful pointers here.
+imageSrc: ""
 ---
 
 ## Plan Your Meals Ahead Of Time

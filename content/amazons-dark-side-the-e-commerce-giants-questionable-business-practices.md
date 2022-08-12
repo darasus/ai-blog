@@ -20,6 +20,7 @@ intro: >-
   e-Commerce giant Amazon recently opened its 10th fulfillment center in New Hampshire. The company now employs more than 7,000 people in New Hampshire and has invested over $300 million in the state. With over 566 million active users worldwide, it’s safe to say that Amazon is a well-known and trusted brand. 
 
   However, if you look a little deeper into how Amazon operates as a business, you’ll discover some pretty sinister things about them – many of which you won’t read about in their press releases or see on their “About Us” pages. Here are some of the darker sides of this well-loved brand:
+imageSrc: ""
 ---
 
 ## Amazon pays employees 15% less than the minimum wage

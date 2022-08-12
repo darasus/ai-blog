@@ -20,6 +20,7 @@ intro: >-
   The creation of Bitcoin led to the emergence of many other cryptocurrencies (known as altcoins) with their own unique features and uses. As they are essentially software programs, new cryptocurrencies can be created at any time by anyone with the knowledge required to do so. These can range from small changes to major updates like Ethereum's switch from Proof-of-Work to Proof-of-Stake mining.
 
   There are a number of factors that could continue to drive demand for Bitcoin, Ethereum, and other cryptocurrencies. Here’s what you need to know about investing in these assets:
+imageSrc: ""
 ---
 
 ## What is Bitcoin?

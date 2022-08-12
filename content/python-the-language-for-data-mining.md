@@ -16,6 +16,7 @@ intro: >-
   so adaptable – you can use it for almost any purpose. Let’s take a look at
   some of the reasons why you should consider using Python for data mining. 
    With the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.
+imageSrc: ""
 ---
 
 ## Why You Should Use Python For Data Mining

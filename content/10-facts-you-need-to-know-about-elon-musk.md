@@ -18,6 +18,7 @@ intro: >-
   Elon Musk has become almost a household name thanks to his work with Tesla Motors, SpaceX and SolarCity. These ventures aren’t small, either; they’re some of the biggest companies in the world right now. 
 
   But how much do you know about Elon Musk as a person? Do you know where he came from? Do you know what makes him tick? If not, read on for 10 facts about Elon Musk that you probably don’t know...
+imageSrc: ""
 ---
 
 ## He’s the founder of SpaceX and co-founder of Tesla Motors.

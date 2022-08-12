@@ -21,6 +21,7 @@ intro: "New Year’s resolutions are like a clean slate for the coming year. Wha
   crazy day in January. It takes small but deliberate changes in everyday life
   that add up over time and become second nature. Here are 10 easy tips for
   sticking to your New Year’s resolutions:"
+imageSrc: ""
 ---
 
 ## Change your environment

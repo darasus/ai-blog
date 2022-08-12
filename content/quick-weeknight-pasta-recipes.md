@@ -17,6 +17,7 @@ intro: >-
   Even when time is limited and stress from work or school is high, put your trust in pasta! There are so many ways to make quick pasta recipes that will take you no more than 30 minutes from start to finish. 
 
   To help you out, we’ve listed some of our favorite quick pasta recipes here – along with tips on how to streamline your process even further. We hope this guide will turn you into an expert at making fast pasta dishes that everyone in the house will love.
+imageSrc: ""
 ---
 
 ## Tips for quick pasta dinner recipes

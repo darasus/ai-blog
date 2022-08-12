@@ -22,6 +22,7 @@ intro: >-
   and causes through their music. 
 
   If you spend any time listening to rap or hip-hop music, you’ve probably noticed how many songs are about money, sex, drugs, partying—basically all the things you can do when you’re rich and famous. But there are some rappers who are using their fame to make a difference in the world by speaking out about problems that need to be addressed: social injustice, poverty, drug abuse, child exploitation and other serious issues. These artists are making a conscious effort to use their music to make a positive impact on society rather than just focusing on things like materialism or promiscuity.
+imageSrc: ""
 ---
 
 ## The Importance of Awareness in Society

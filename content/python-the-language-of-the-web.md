@@ -23,6 +23,7 @@ intro: >-
   Python is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java. 
 
   Keep reading to discover everything you need to know about Python and why you should learn it!
+imageSrc: ""
 ---
 
 ## How To Learn Python: A Step-By-Step Guide

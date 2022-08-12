@@ -21,6 +21,7 @@ intro: >-
   If you consume more than 20g of carbohydrate per day, that’s considered high intake. High intake of carbohydrates can lead to an excess production of glycogen in the liver, which is converted to fat and stored in adipose tissue, particularly around the belly. Once these fats reach dangerous levels they trigger the production of stress hormones like cortisol which has been linked to insulin resistance, high cholesterol, obesity and fatty liver disease. 
 
   However, not all carbs are bad for you – in fact some types are essential for good health. Here’s how to tell the difference...
+imageSrc: ""
 ---
 
 ## Good carbs vs bad carbs

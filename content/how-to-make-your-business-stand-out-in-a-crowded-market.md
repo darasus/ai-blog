@@ -22,6 +22,7 @@ intro: >-
   in terms of your marketing strategy and the design of your products. 
 
   To succeed in such a saturated marketplace, you need to make sure that your brand is memorable and unique; something that sets you apart from other businesses selling similar products. This article will provide some useful tips on how you can do this when creating your business’ identity and designing your products, as well as some ideas on how you can set yourself up for success from the offset by choosing the right name for your company and making sure all of your promotional materials work together towards a single goal.
+imageSrc: ""
 ---
 
 ## Know Your Audience

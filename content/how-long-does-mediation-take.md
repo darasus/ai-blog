@@ -22,6 +22,7 @@ intro: >-
   Mediation can take as long as each party needs it to take and no longer than that. Depending on the case, mediation sessions can last anywhere from one hour to multiple days. The time frame will depend largely on multiple factors including:
 
   Mediation sessions are confidential, so there isn’t a set end time like you might experience in court or arbitration proceedings. Instead, parties can chose to end mediation at any point if they feel they’ve reached the best possible outcome for themselves and the other party involved. Here are some general guidelines regarding how long mediation takes:
+imageSrc: ""
 ---
 
 ## Mediation for simple cases

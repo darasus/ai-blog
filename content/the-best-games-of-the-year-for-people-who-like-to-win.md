@@ -18,6 +18,7 @@ intro: >-
   Scrubs, control-freaks, cautious nerds— there are as many types of board gamers as there are games. It turns out there’s even more diversity than that. There are people who love word puzzles ( Codenames ), people who prefer their games fast and furious ( Smash Up ), and everyone in between.
 
   If you know someone who loves Pandemic but isn’t so fond of losing, this list is for you. Here we have compiled some of the best strategy games released this year.
+imageSrc: ""
 ---
 
 ## Cavern Co-op

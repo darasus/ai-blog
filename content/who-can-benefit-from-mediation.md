@@ -21,6 +21,7 @@ intro: Mediation is a neutral and confidential process that can help people in
   mediation gives each side the opportunity to advocate for themselves and their
   interests while listening respectfully to the other party’s concerns as well.
   Read on to learn more about who can benefit from mediation
+imageSrc: ""
 ---
 
 ## Individuals Going Through Divorce

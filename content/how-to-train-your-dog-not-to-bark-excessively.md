@@ -20,6 +20,7 @@ intro: >-
   barking or cries whenever you leave the house. 
 
   There are many reasons why dogs bark, but one thing is certain – excessive barking can be annoying and stressful for both dogs and their owners. Fortunately, there are ways to train your dog not to bark so frequently and effectively. Read on to discover how you can curb your dog’s excessive barking quickly and easily!
+imageSrc: ""
 ---
 
 ## What Causes Dogs To Bark Excessively?

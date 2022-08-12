@@ -19,6 +19,7 @@ intro: The risk of falling into a style rut is something we all have to deal
   on the same theme for several weeks in a row, everyone gets stuck in a rut now
   and again. Thankfully there are ways to get out of it and discover a new lease
   on your personal style once again.
+imageSrc: ""
 ---
 
 ## Change up your wardrobe

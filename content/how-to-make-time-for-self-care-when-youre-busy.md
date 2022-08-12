@@ -18,6 +18,7 @@ intro: >-
   Self-care is something we should practice every day; the moment we wake up and the moment we go to bed. In fact, self-care shouldn’t just be something that you do – it needs to become who you are. 
 
   However, as most things in life go, self-care can be challenging to integrate into our busy schedules. Whether it’s because of work obligations, family commitments, schoolwork or any other number of reasons, many of us are left wondering how we can make time for self-care even when everything else in our lives feels like it’s getting in the way.
+imageSrc: ""
 ---
 
 ## Start your day with self-care

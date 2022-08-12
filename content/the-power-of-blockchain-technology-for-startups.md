@@ -20,6 +20,7 @@ intro: >-
   Moreover, with the growing number of emerging blockchain-based projects and ICOs, it’s evident that the adoption of this technology will only continue to grow in the foreseeable future. 
 
   However, for many startups, implementing blockchain into new or existing products can seem like a challenging task. As such, there are a lot of myths about the use of blockchain for businesses that we often hear; either because they are believed to be true by many or because these theories make sense on the surface. But do they stand up to scrutiny? Let’s take a look at some of these popular misconceptions surrounding blockchain technology and see if there’s any validity to them:
+imageSrc: ""
 ---
 
 ## Blockchain is too expensive to implement.

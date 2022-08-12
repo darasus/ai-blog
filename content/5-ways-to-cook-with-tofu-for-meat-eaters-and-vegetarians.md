@@ -19,6 +19,7 @@ intro: >-
   That said, tofu offers a number of benefits: it’s high in protein and low in calories and saturated fat. In addition, depending on how you prepare it, tofu has no taste or texture that might put off anyone who’s wary of the stuff. 
 
   For those who don’t eat much meat or fish but still want to enjoy the flavors they bring to a meal, cooking with tofu is an excellent idea. Here are five ways you can use this versatile bean as a primary ingredient in your next home-cooked meal…
+imageSrc: ""
 ---
 
 ## Tofu is great when you want to add protein to a meal.

@@ -19,6 +19,7 @@ intro: >-
   places often offer unhealthy food loaded with salt and fat. 
 
   Fortunately, there are more healthy options out there than you might think. These days there are many drive-through restaurants that serve much healthier versions of the standard fast food menu items. Cafeterias in offices, schools, libraries and other public places also tend to offer healthy choices as well as salad bars and other stations where you can make your own healthy salads or sandwiches.
+imageSrc: ""
 ---
 
 ## The best part? You can make a healthy lunch in only five minutes.

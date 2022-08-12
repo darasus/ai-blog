@@ -17,6 +17,7 @@ intro: >-
   workers rather than simply complement their work. 
 
   AI-enabled processes are eliminating some jobs and creating others. The result is a transformation of the entire labor market, not just specific industries. The adoption of AI is also opening up opportunities for new business models and cooperation between humans and machines to tackle complex problems. This article discusses how AI will affect the future of work, describe various roles that will be created or become irrelevant as a result of AI, and provide tips on how you can thrive in this new world of work.
+imageSrc: ""
 ---
 
 ## What is AI?

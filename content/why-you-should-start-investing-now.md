@@ -18,6 +18,7 @@ intro: >-
   over time. 
 
   Investing even a small amount of money now can have a big impact on your long-term financial success. Time is your greatest ally when it comes to growing your money — the earlier you begin investing, the greater potential return you will see later in life. At Intrinzik we believe that everyone should learn about personal finance and invest responsibly for their future. With this article we want to give you some insights about why you should start investing now and what are the best ways to do it:
+imageSrc: ""
 ---
 
 ## Why you should start investing now

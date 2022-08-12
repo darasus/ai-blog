@@ -20,6 +20,7 @@ intro: >-
   or so. 
 
   And while we all have our moments when we crave junk food or a big greasy meal after a stressful day, making healthy eating a part of your everyday life can have profound benefits. A balanced diet filled with lots of fruits and vegetables lowers risk for almost every disease and helps you feel better mentally and physically. Follow these tips to help you integrate healthy eating into your daily routine as seamlessly as possible.
+imageSrc: ""
 ---
 
 ## Plan ahead

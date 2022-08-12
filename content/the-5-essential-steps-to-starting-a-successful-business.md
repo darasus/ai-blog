@@ -23,6 +23,7 @@ intro: "Starting your own business is a challenging and rewarding experience.
   chances of success: creating a plan, developing a pitch, researching
   competitors, finding funding sources and creating an exit strategy are all
   essential steps to starting a successful business ("
+imageSrc: ""
 ---
 
 ## Know Your Audience Before Starting A Business

@@ -21,6 +21,7 @@ intro: >-
   Software engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it’s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work. 
 
   Here are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.
+imageSrc: ""
 ---
 
 ## Big Data and Machine Learning

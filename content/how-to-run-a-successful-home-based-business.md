@@ -19,6 +19,7 @@ intro: >-
   income. 
 
   Working from home gives you a lot of flexibility and can save you money on commuting, hotels and office space. However, there are also some downsides. Working from home means you are never really "off" as there will always be someone at home to answer calls, visitors knocking on the door or even delivery services coming to your address. It will also involve more responsibility than working for someone else as everything goes back to you. That’s why we have prepared this guide on how to run a successful home-based business so that you know what to expect when starting one of your own.
+imageSrc: ""
 ---
 
 ## Know Your Audience

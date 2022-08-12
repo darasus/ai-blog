@@ -21,6 +21,7 @@ intro: "The road to becoming an expert coder is long and challenging. In fact,
   great coders are made and not born. Anyone can learn how to code if they are
   willing to work hard at it and adopt some good habits along the way. Here are
   some tips on how you can get started today:"
+imageSrc: ""
 ---
 
 ## Learn the basics FIRST

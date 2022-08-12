@@ -19,6 +19,7 @@ intro: >-
   the parties are at loggerheads with each other forever.
 
   Instead of arguing back and forth, each side presents their case in a neutral environment. The mediator facilitates conversations by guiding participants through a series of questions and processes that lead to resolution. What we call mediation isn’t one single process but many variations of it. They can be broadly categorized into three types – Collaborative mediation, ADR (alternative dispute resolution) mediation or neutral third-party intervention; Family or couple mediation; And Tribal mediation.
+imageSrc: ""
 ---
 
 ## Collaborative Mediation

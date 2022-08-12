@@ -19,6 +19,7 @@ intro: >-
   We all have different priorities in a relationship, but sometimes those differences can put strain on your partnership. When one partner is always traveling for work, there will be some challenges. You have to figure out ways to keep the romance alive, even in difficult circumstances. 
 
   There are many things you should know about being with someone who travels a lot for work. Here are some tips to help you get past the difficulties and stay positive about your relationship as a whole.
+imageSrc: ""
 ---
 
 ## Communicate Often

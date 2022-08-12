@@ -20,6 +20,7 @@ intro: >-
   And so it is with All Time Low’s latest offering, ‘Last Young Renegade’. Following on from 2014 album ‘Future Hearts’, it is a record that sees the band in a brand-new light. Gone are the days of bouncy pop-punk anthems like ‘Crazy Endings’ or ‘Back Home Again’; instead we have a far more mature and atmospheric take on classic ATL songs like ‘Riot^^END^^END^^END^^END^^END^^END^^END^^END^^END^^END^^END^ 3>’ or ‘ Dark Side Of Your Own Atmosphere’. 
 
   In this article you will discover everything you need to know about All Time Low's 'Last Young Renegade'. From lyrics and themes, to production and official release date, we have got you covered!
+imageSrc: ""
 ---
 
 ## The Lyrics Are Darker Than Ever Before

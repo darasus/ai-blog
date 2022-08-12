@@ -19,6 +19,7 @@ intro: >-
   loop? Coding shortcuts!
 
   A lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn’t have time to invest in learning every last bit of it before they can start creating useful programs.
+imageSrc: ""
 ---
 
 ## Don’t Become Drowned In Details When Coding

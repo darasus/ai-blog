@@ -22,6 +22,7 @@ intro: Smartphones are a big part of our lives. They help us stay in touch with
   the most popular devices available as well as some up-and-coming models worth
   keeping an eye on. Let’s take a look at our top ten picks for the best
   smartphones on the market today
+imageSrc: ""
 ---
 
 ## Samsung Galaxy S7

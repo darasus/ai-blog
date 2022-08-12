@@ -19,6 +19,7 @@ intro: >-
   right away. 
 
   If you’re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more
+imageSrc: ""
 ---
 
 ## Python

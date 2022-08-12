@@ -20,6 +20,7 @@ intro: Gaming is an activity that has been enjoyed by kids for many years and it
   have put together our favorite kid-friendly video games that you can play at
   home with your child or let them play on their own to help develop their
   skills.
+imageSrc: ""
 ---
 
 ## Lego DC Super-Villains

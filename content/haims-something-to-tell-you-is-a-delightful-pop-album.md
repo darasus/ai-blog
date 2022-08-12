@@ -22,6 +22,7 @@ intro: >-
   And after a year-long hiatus following the release of these songs, HAIM announced via Instagram in June 2017 that they would finally be releasing their second studio album (and first extended play) later that year. 
 
   Luckily for us, they stuck to their word and released the nine-track EP on Sept. 14, just in time for our listening pleasure. Here are some of our favorite tracks from HAIM's 'Something To Tell You' Album:
+imageSrc: ""
 ---
 
 ## Something to Tell You

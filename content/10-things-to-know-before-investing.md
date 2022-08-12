@@ -20,6 +20,7 @@ intro: The stock market has been a great source of wealth creation for many
   were new to investing suffered significant losses when their investments
   tanked during that time. If you’re thinking about investing your money in
   stocks, here are 10 things you need to know before doing so.
+imageSrc: ""
 ---
 
 ## Know what you’re investing in

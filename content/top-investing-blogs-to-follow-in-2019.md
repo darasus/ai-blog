@@ -19,6 +19,7 @@ intro: >-
   The world of investing can be scary for those who are new to it, but these blog posts can give you some insight into what these professionals are thinking. There are so many options out there when it comes to investing money, and so many ways that money can grow over time.
 
   These top investing blogs come from a variety of different sources and they all have something unique to offer readers. Whether you’re just getting started as an investor or want to take your knowledge further, these blogs cover lots of ground.
+imageSrc: ""
 ---
 
 ## Dividend Investing Blog

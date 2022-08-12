@@ -19,6 +19,7 @@ intro: >-
   And that’s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.
 
   In this blog post, we’ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you’ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.
+imageSrc: ""
 ---
 
 ## Introduction to JavaScript

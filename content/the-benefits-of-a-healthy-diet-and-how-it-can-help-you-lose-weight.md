@@ -19,6 +19,7 @@ intro: >-
   It won’t come as a surprise to most of you, but the way you eat can have a big impact on how much weight you gain or lose, and what type of health risks you might face.  A healthy diet is one that is balanced, includes plenty of fruits and vegetables, whole grains, nuts and seeds, fish and other sources of protein, and limits saturated fats, sodium, sugar, and red meat.
 
   You might be wondering why this information is important. There are so many different diets out there because people have different preferences for tastes and textures when it comes to food. But there are general principles that apply to all healthy diets – whether they involve cutting certain foods out or focusing on eating them in specific ways.
+imageSrc: ""
 ---
 
 ## What Is A Healthy Diet?

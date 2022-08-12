@@ -21,6 +21,7 @@ intro: >-
   it just means we all need to get a little bit more creative. 
 
   Eating well on a budget can be challenging, but it isn’t impossible. Making smart choices about what you buy as well as how you cook your food can make a big difference in how much money you spend on food each month and how healthy your diet is at the same time.
+imageSrc: ""
 ---
 
 ## Plan Your Meals

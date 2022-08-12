@@ -18,6 +18,7 @@ intro: >-
   stark world where there are no easy answers.
 
   The 1980s was a peak moment in that tension—from Reagan’s “evil empire” speech and constant saber-rattling, to the U.S.-backed Contra War against Communist rebels in Nicaragua and an escalation of tensions between NATO and the USSR all around the globe. In brief: It was not a good time to be alive if you believed in world peace. Thankfully, Hollywood had spies as intrepid as Tom Hanks ready to leap into action against those dastardly Soviet Commies whenever they needed someone captured or rescued from behind enemy lines.
+imageSrc: ""
 ---
 
 ## “Bridge of Spies” is a beautiful and restrained spy thriller

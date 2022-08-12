@@ -22,6 +22,7 @@ intro: >-
   That last category is where you might find yourself when looking for a new language for network programming. These are programming languages that have been designed with specific domains in mind, such as networking or computer telephony. You might think there isn’t much scope for differentiation between these specialist programming languages, but there’s plenty out there!
 
   If you’re still struggling to decide which is the best Go Programming Language for Networking, don’t worry! We have created this short blog post with all the information you need to make an informed decision about your future studies! Read on to get acquainted with five of the most common network programming languages and their unique benefits:
+imageSrc: ""
 ---
 
 ## What is a programming language for networking?

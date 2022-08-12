@@ -22,6 +22,7 @@ intro: "You’ve probably heard it before: When you’re busy, you need healthy
   veggies even when you’re on the go. These 30 healthy snacks for on-the-go are
   perfect for keeping in your purse, desk drawer, locker, or anywhere else you
   might find yourself hungry and without access to a full meal."
+imageSrc: ""
 ---
 
 ## Greek yogurt with berries and granola

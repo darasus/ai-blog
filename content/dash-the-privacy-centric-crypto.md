@@ -25,6 +25,7 @@ intro: In the world of cryptocurrency, there are many different digital tokens
   purpose of this article is to explain why you should consider investing in
   Dash, an emerging crypto known as Digital Cash, if you’re looking for a more
   private crypto investment option.
+imageSrc: ""
 ---
 
 ## What is Dash?

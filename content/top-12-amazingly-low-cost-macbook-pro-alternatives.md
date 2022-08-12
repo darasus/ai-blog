@@ -22,6 +22,7 @@ intro: >-
   But many users were disappointed to learn that Apple has ditched standard USB ports for USB-C – meaning you'll need adapters for most existing devices and accessories. And the price tag is hefty as well – starting at $1,799 for the base variant of the 13-inch model with 8GB RAM and 256GB storage (and going up to $3199 for the top version). 
 
   So if you’re on a budget but want something better than basic Chromebooks or Windows machines, here are our picks for The Top 12 Amazingly Low-Cost MacBook Pro Alternatives in 2019.
+imageSrc: ""
 ---
 
 ## ASUS Chromebook Flip C302

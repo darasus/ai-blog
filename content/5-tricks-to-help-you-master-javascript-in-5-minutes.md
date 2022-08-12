@@ -20,6 +20,7 @@ intro: >-
   The scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it’s also a great first programming language because of its simplicity, accessibility, and ease of availability online. 
 
   But like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.
+imageSrc: ""
 ---
 
 ## Keep a Javascript Cheatsheet By Your Side

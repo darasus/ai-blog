@@ -20,6 +20,7 @@ intro: >-
   Delving into themes of man vs nature, “The Revenant” features amazing performances from a cast that spends most of their screen time fighting the elements. Leonardo DiCaprio gives his best performance to date as Hugh Glass, a real-life explorer who was mauled by a bear while exploring the wilds of Montana in 1823. When he doesn’t die from his injuries, Glass embarks on an epic journey to find the men who left him for dead and exact justice upon them with his own hands.
 
   The movie almost plays like a spiritual successor to “Inception” – it’s filled with symbolism, meaning, and philosophy. The only difference being this movie feels much more grounded in reality than anything else Inception had to offer. It may be due to the fact that it takes place in such an unforgiving environment; but regardless it does what Inception did not: create a story that makes you care about its characters in such an intimate way that you feel their pain just as much as their joys.
+imageSrc: ""
 ---
 
 ## The art of filming in the wild

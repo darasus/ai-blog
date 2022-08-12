@@ -22,6 +22,7 @@ intro: "Today, just about everyone has a smartphone. If you’re reading this bl
   show you how to make the most of your Apple device by accessing its hidden
   features, customizing it to fit your needs, and keeping track of everything
   important in one place."
+imageSrc: ""
 ---
 
 ## The Basics

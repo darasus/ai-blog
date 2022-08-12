@@ -20,6 +20,7 @@ intro: >-
   Self-learning bots are designed to learn from their own datasets as well as user input without any external assistance. This makes them different from supervised learning algorithms or even reinforcement learning bots, which both require a human operator or some sort of rewards system to determine whether the AI is performing optimally or not. 
 
   Further, Self-learning algorithms are particularly useful for applications which have large datasets with many variables and little pre-existing knowledge about how those variables impact one another – such as stock market analysis, speech recognition, image recognition, natural language processing, and computer vision.
+imageSrc: ""
 ---
 
 ## Why is Self-Learning Important?
