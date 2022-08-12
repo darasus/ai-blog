@@ -24,6 +24,7 @@ export const Post: React.FC<Props> = ({ post }) => {
             height={500}
             width={500}
             alt={title}
+            loading="eager"
           />
         </div>
       )}
