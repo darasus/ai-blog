@@ -21,8 +21,8 @@ intro: >-
   phone can do even more than you think. 
 
   In this post, we will share some tips and tricks that will help you get the most out of your smartphone. Keeping reading for useful advice on how to use your smartphone more efficiently, how to store photos properly so they take up less space on your device, how to download apps that won’t chew up memory unnecessarily and many other helpful tricks you didn’t know about!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/getting-the-most-out-of-your-smartphone-tips-and-tricks.png
+imageSrcBase64: data:UklGRoQEAABXRUJQVlA4IHgEAADQFgCdASoyADIAPm0skUYkIjIhMBgLAkANiWwAuzMl/jeq/lB7IFSfuf4R5Q0/dgT/VeyjbieYj9lfVk9GPnVdSJ6AH7Aemp7Nf7ZULjmv8w+yOVibqO9n1Au4HmP+av+A8QnxL+q+nb/b+kd9H+gP6Z/6PuDfq71hA5EwDg8RczWkC4LqK9JHa4T3MuGzANu43RbGlhLlwGP0Pn2n00R68ktgisjPReLFAQRqg/q54mXtsonwJ6sPcvsVwDVwgAD+9fTm0M7E+QqmaxtWdyt1prXR00TtyulvepvdI7NDb8d38NP1XBJCwd31mPpnYj2k0//x3/47MnZwJlm16gvX9VQBbex9lTm5L7g9FlJoktoEumENY00pN3b2D9YFIfpDA2A/4beFR//ic4X/B4sOPZZCC+nqLb53UqMIH/JFUQLTmUS2qx9NCj6X9YdQrIQzQT8LJthQWWt3Q4bzQYxQfXkE7eoKOLZzNjUjPmykxXkcLf85U7gJO4DebGnd+yH5xeaHkLi1H1YJsersz8Ew2Gls6228+EjvA7y7/jFL1aQV4ZPyfy5dJQ9xFb20pvUU86TZz3Xm7d6hqrbFrHtFib9AE+Y9oe8KrJSYbhk1E0zPJKrdVKLEoFCy88jtCz3pdTH5almk0ORZOwQflqMcJdMfm+p5Z9MJE0C2hVMiCl/xh/kOG/WP2S1Kb9BJ8EGlohGvwbqopD5Bu++FCKUIBIu1vBSvi4G9uJW7jF369KJwZnks8MlNCn6R3u1e7kTYF/kC0jYPKWP8e8FUzygenPO25D+3/xSlfopfpIUc/jL0hNnryBdnjDlYsPJYJ+KZGKSfLNmjNVnmzdH+tB2wVuEPKRTMn9uXjmLi5R/+mBoo35q+LPgubEG8y8Ioahdbwt75MZzySxko/pwdIOuUcrZm42WghtpN1udVjh3knUN4+tMZWaBsW5FJK8oRnh5YUMD+amu++f7PO8Id2Xo29TUZTuP5VV4mgDYtCpfLQPVC+zcpwbAopn5aa1ImCvd4ZqbHasdD1GuTMjh6w0dqqhW6PwSXsq2bP87WIb3YGR5/zX7+f+G+BPidn7S/e4b5Yv4gS08RO/YjylIwYPNvhF9un+a0ruXgttt/xmyKXUWeRoFryJLuIlCQ4jEGkyn4SQCk0j9xLumJtCNFoOpOpX5CYEvIUfhhv+Dnj88y32FhWtGlvV2++Mg/2Zl/WBnQpa8AbrDuPctqJaHZTohBgyJhcL+j5nzkET+alWlwVxj2I013+45Y5Wk96fO7025aHhy9K9g0CDBHVTkzkOhF17Ajw5fFkeSCLMRVvo8imaHnpYvdj3M5/JltbDlLcGP0ga6OE350rK8Qz85Y9Ps/RsDZgvFhjv3PgQ0lKhp+jbPhtbKoQGBcxSYye6dURDv1vnAYvGudq2685vONtwyPvXw2pf/+aC/BeLL6SrJQQDsQW/3j/lKGKxGw1avXcZI0Uhu6zT1apQMy9rvUAQoCBI0R+PYRLTeEFQsu9zdlEmBNgAzUGsAA;base64,
 ---
 
 ## Use Battery-Saving Apps

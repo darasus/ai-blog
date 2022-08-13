@@ -21,8 +21,8 @@ intro: "Fermented foods are having a moment. Everywhere you look, you see
   healthy diet for years now. In this article, we’ll take a look at what exactly
   fermented foods are, why they’re so good for us and how to incorporate them
   into your diet."
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/what-are-fermented-foods-and-why-you-should-start-eating-them.png
+imageSrcBase64: data:UklGRkoEAABXRUJQVlA4ID4EAACwFQCdASoyADIAPm0wlEckIqIhLBVZmIANiWwAtvwYRTegfjN+R3Uf81d1cnX+n7dv953CPpa8wH6dfrd77WmAegB5YP7GfCz5QFL5uRf5Lwn9tH7Hn93HP5d/lu/j1AlTbwjzh+c7/of3Dzp/TXoydYz0VR3hJn9zJULUxk5/Q/MEXbqNPbJiTWLjU0Ecx3SV8/XE5UgyYhWHUHAXKl+gncX3CIk2AfAugpZoyS30OMnNpPmEAAD+77wvNdmieOP44XmNuWGJrbP/fH+f30JAN8yasSXfn7euomL6/92OU/z0GkhyfPWaTU5Qg2aW0Hld3/TT+mfbhnXdMAv+of2Jv1NF3BdK3OYNzHF+8fcCzXxGq95BBcMIuN/1VtLmPLjmD69lZt//7W8or3NfRSJf72ftqKz/dyVM37z/cjTfcsgz9YMZ5pN/fgenFQGV7V0cvxlx7gaGPpvtESSid9nOiQdUGT4fDlFZNinDjLws8vBmzMFLQsZUqe8te/QisZqHIh2jQ9ffaRgvyYS+bHwZG5T4sMz/NYQsFVQby1ABn/PdMlSsrt+ie51PJb0s4KCGzcOVg7j/eAQAgvY15GNKTEr10M9Zf2HKi8NmvMSe8oTYLOtBARN/k/5di3MbP3fksbn1Xmhrjow3bnHSm5dwxe2LQNDyR4ZasYEBjwxKzPee1kgwR2vhysv+L/ECysv+L/7T7RxUvxEu3bY56da4VSkPNMU1W6HV9RwV29xvorfhNXu4XpGkvWqRMN+4lm+EtX/64S9Q3OC+MK+LpiuihbctLM2e5vh8xLCPLDcgp1iBet92+LlbvTdt3gG4WwjgrPlQ/BmZCNTwZmQpHZF481OyRhwTd3Ys9sjPe9TxewkGwLj1PhpMb7TfqNvfzv7isF3G9+Qs46enz6KSbwnREmyTf/sNfMLgqx2MSKXAz22TrRhYaZU6ClK3QQ9W0Pvzq+JOUhV4o1XwuuAC6XWB/rLWp0G+HWFTebmczmiAmDZs1T8oc+wssqSOmwe7VO1cfkuKvj/t8n/yzwHc+ebJWb/yeQS8mveAk8+wMLNlCKMLKvCKK4AaYX5PIRvkAUD6XgABSjHXelCiu/WYPgN/lTun+7Frc0OdlwbnBcbf7FJwljf2KTS7dPeE41brkjlart3xNxJxfPJDMRVwDM2aFZFi+xkoSUbwOrIO7BfkbDEgNsn7FRYG4nVegdxgcG4SIn25XhEyZe254dLQbqa63Gf4WkTcAXWQ8iogfioESScP3V29U9sVQgL28eqf43s86nfDBHMVM5HdLSNpFtKnGNNuMv5veyneq6kf5O6YpEi844GoT1tyF/ytfz/7V9QysCyABeAKltcilM+1rgMKxD0Q25sMoKD1dHmUHSDxyE4DZiRFpeFQJ4NG4Ab4pxIV/iGpWu0MyJyclk+G+EofB7fg564I/2LAEmrUAAA=;base64,
 ---
 
 ## What are fermented foods?

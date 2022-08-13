@@ -17,8 +17,8 @@ intro: >-
   your evenings cozier by turning to your trusty slow cooker. 
 
   With a slow cooker, you can come home to a warm meal after a long day at work or school. The appliance is perfect for preparing supper when you don’t want to spend a lot of time cooking in the evening. Preparing these slow-cooked suppers takes only a few minutes during the afternoon or early in the morning – then you can leave them alone while they cook!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/slow-cooker-suppers-for-chilly-evenings.png
+imageSrcBase64: data:UklGRiAEAABXRUJQVlA4IBQEAADQFQCdASoyADIAPm0qkkYkIiGhLhtqqIANiWQAzXw0xFF79D9uXzw+m5byX5QFzH8IfBZ7BPmPym4ufxHkb/yPkxeL/zX/Z8ZnbVemfeDeD+ol/evPZ+dvPd9B/9D+8/AJ/L/6x/wPWq9k/oV/sygu1lxii4vkSSxa0PR+V/IepAWurmJC8NLQNep34qthSDjwXc24yP7KgyoOMHQV6D73op8UG2gD0Zr2zv5wzTiUmTWArtkwXmAA/v7hrSrzqjT5aI+Ytfu0cjTluvvJdaY0Hj0Uf96rR4v/pWzRy1EvWP+fuhnn/wuB6zX3/ZRKxV9fjSSS7NLUV5E/j3H0v9z/IfeYrPEeerQsKA02/pZ8H0vgZtprHX1VxjuWKwWnm9Gjdvl27a+K0qP/CpYbo7q0tVC2IEpNH3KvcPCZ7/6Rvi4sUh4pdcmzkWejFu9GY0e/9btYcpOoTUvaR335b1VW1JCWjnxGSwHGEzvCRns0n/MWHkChTHipMvtA7Zg/+/2TFH+rsfpV1adAdDAbbXOS68qhFQ9GR9zQH8oVQhIvBVYR/gferefUxBHigxH3K+Fu3t9D+8Uf0TcyiUnuF6c/Z4YbnpZgGSnhoa60XtYj/2lk+ymFjd+b9zPb3rzEz+13x1ORBbS8eJ+8BV9+ZEpEhI/p9HstxCO3FdTouWibIJDXDqXj5yb7+C9M5Se+C/e3iN1khNwGHP1tDQ57BFP8Sjw+rrq2CJAVTVrdrLfxHas1Cyg7n1Gdj+zTFpJZKo9WwV9TVKASL/69k1kZch8VAXiK3kOXrNJH+njxP3nK0I89oyP6H/H/KKabOD0+L1Ek641a0/RDqAyED3fQ8gVuARouuIE2pl0r8rGahjhyO0YKbOZdQsORXljV8fQAiCcm0X7ffEUScLxsk06wHfNCRAbzwPE+s4tj6CqXqHmA6hRZIR9xPuWn6hLcksAYygzYwI5V8x9Q0zCUeFNO/fU1qtsO2HOo1XQumb+ETvNyRUL1WwzhO1Rn6zNfQ3AEraYIlEnsIad2d08HpwLDVKn9Ls7ZBInCd6Gmtxkw1R5kqXqNnyB3NYRIVEGXJQraRtRewFptl9cDB+S8TBFJtpzfCwsoIf9cHwYwInQK2c0yko9jHtBM9sG+N41YsjuLHe7QmTEozPOJjHeJ2E6qogh2gLuV412bS2gAz9e5ed27PuE1QvSt0pfxBU8C9js2dEDu8VXc90qXWgCrDK+URWQLVu5Vpau5R4Lk2v4KOa2qVFe3z+/ovnlfQdCiS85XWDc061lQV32FhDB5W4e7LeIrzfm8+Qq1eXOP20/e+FciTBTXtAxynamGFuKKIHyjCY7kkzSbCVJ2lJAq8RvfExUjkZLBAqWspqtykpt2AHNlrOAAAAA=;base64,
 ---
 
 ## What should you put in your slow cooker?

@@ -22,8 +22,8 @@ intro: >-
   With so many different marketing tools available, it’s hard to know which ones are worth your time and money.
 
   We understand how difficult it is to whittle down all of these options when you’re trying to decide how best to invest in your business. As such, we’ve written this blog post with you in mind; we want to help you make the right decisions about these different marketing strategies.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-importance-of-artificial-intelligence-in-marketing-should-you-be-doing-it.png
+imageSrcBase64: data:UklGRrwDAABXRUJQVlA4ILADAAAQDwCdASoyADIAPm0ulkekIiIhJhVbsIANiWUAzP/scJbaqbw/e3135DnfX+R7zZUD9HIRzAo9f948NHunzgett/c+P3+c/0fsBdK4rI+XBGJYrLHSngX36CCGaICzH75CdeobHqWdffvd54DV++zUwPGQCkuhhuwvPeQ6Fc5r1hQA/vvJ8sOzerXilh1DJ49llyn0gNjDqZeaHXK7H0O5CjA/3P2s3HTytrI69jZHL9PMLTtwgMYIu6vyPf19dmGUbu/kYysKKjh9nAQRyRjg75agq24m5zXMgWxQq7niHS1cF/mkx1Uh9DtLMrDz+nMkMKqylTZ6NypnDc7tqWEL66NJ0bGZFsZhglBxIn3/cXtQLcWBDONzc+xPsmnsOuP6eXRPlY0hVhJkSl3pKLLyRYg7TLx8xZnkqTEuENQQfer53vW/vTz0ZP2wKv2ILgVYsm3Wfo/l00UPOnJcvYQiHQl+wTvm38vVtp7Hryqadg+oG6CQ/YPtTZgHsURIQXNP9d1/mPUtHE/k+DZ8gXYfLnX2DqQzpcL25GAc69/6gyR7esy5M26ykJs4T+/UZ/1nm6pq/zV3nCRF3G0S4yLJDQLB5J2GDF4bIr6VHQ+YrAUqeSg3+wYrrv+DX/rN5uyWP4bTpKVfoslboqr1sBPIcC5BtxJ2LOTeLtPNXwjQPwGKUPOW3vcswIcfqYjlo4iKjrUpHyZTQtUszCz8bg9Nk85vGY0I3kdk96pBOetGo3GqVAezX9qv9bjQk0SA3GfPeVowm4EcT443Ad52ZKSda0YwarnX3dNyL8L34XJypPCcQxl1f/Qji94/TJoutE/pG8VaoY/0//eFR/wF+zZv6x2xZW69ldpEjIFh3NuJZh/EWR2DTohgXYC+QlYHAkd78mT7Z4Cz0WQMdT+sbnjC31FeIlRJBYjE77YDDg/gJs5j+x4dvicxay8sjk9WcDfGTsGa1JoHVgN8JEzSZF/SduTHPDGz6N34Rj/HX5o8mBFaUbC/zWwBKNsCpEKPrd4+P0vWlvFaEDWjFQTIxhO6yQDqZ4ZQRzGoYG2kruXVWxixoxeV0HOkqZUP+NM58VGCaIBrd4nuFMULTCE9/1RDzZBt36lb59Xm/FvaITPKUE1vmkI9mKmGJ6y6gfaFTf0/cx6dRgBILkvsh1/+USNYU7Axg0pX8ZpD5SXzWECA+ja2AfGKzOiUtzgvEVrP77sZrlG8fuQFwRthH9M0LQjJ9hF9qYwVHdfHWJEF8AAAAA==;base64,
 ---
 
 ## What is Marketing Automation?

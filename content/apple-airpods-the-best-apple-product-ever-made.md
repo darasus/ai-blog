@@ -20,8 +20,8 @@ intro: >-
   And do you know why most people will keep buying Apple products? Because they can’t stand the sight of anything else.
 
   If you think this is a general statement about Apple consumers and not something specific to their products, let us rephrase it for you with further details: Nobody on this planet buys more Apple products than the combined population of China and India. That’s right: The same countries that are portrayed as being obsessed with everything Apple also happen to be home to more poor people than anywhere else in the world.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/apple-airpods-the-best-apple-product-ever-made.png
+imageSrcBase64: data:UklGRgwDAABXRUJQVlA4IAADAACQEQCdASoyADIAPmUskUWkIqYXDJeMYAZEsoBmge9gcZxw/7DXvWnJ4PlvJX+m1BH+Sf7T8o/Ji/SeKk4wbs31CP6x/kfSv7APbF86/9P3CP5B/Q/+L1uf2k9i39kg8dlwn+7fwHzf6qHDVtz9/Evkbgfs3nOMlpas/xtH+I72HThbi4cm7rKDyTSq1nqSMp06eAqFgAD+/SFYIxYSyJ4numSldtDHBzab1Z9O8TaJk8YX4ytE1CdD07P/5LfuYf817gh9Vl0n+QRu7cN4zYLOREinDbpRY07ItX/p6Gfpq8MT6KGfbUKAJnmwyMBd/zdjw5mZsVV4hHK0ZZdDFU+/8aNT7Lh/ypJ6EvWeqr6IVbk/04on9Zu6FXBcc0OEgzxB1ZK5Y0aX80B/pcIU1p8YvifWW/WAKzVI9z9vb4Jy1aujI/BphW7QSrAmC9Dh/hmSOzZYBPxhQ0L8b9WnMrtH/+Vj/e2MbfJttEbbuPtoVCCvsVKcffcFkLwHm5lggENkC4B9j0wmRfjnJgIPAuQYntGcoMxCVOfiUjtoyGZc99Yv9IOY1vqsChtteOk3/ncDOUre+RCjCggPJ9hgXl++X3BaI92ZRdjT2WF5SdbSXrtpuvfxHhqsuTyV/+8S73193dAoo0xu01/ED3/806JkStYChDrNCPpeb051ty8A/RNJl0XW3310J2UFaANNEtpDruRiboxCjzlqPjM9ROBfBq4zC14QimV8ab+N3Sfcnezx2yPDglu3PBGkKQy4XC77ZfGL8bpthRwFZo6KNzk5udbqaZABFrQZE+Ar55Cy4BT2UsNTjc+ghy9hlAUni1eIKfM3lcapEii2WpyeikuI0i7PfwwlZX6BDUMkZMl/KpFdA+5G8crOFkuZqVXf2WZu4uooyu833DOk1tvXNRs7HIYomq67PIlYjgCPkI+f8Yu48gDXNIyG/lsXKq/owdsRsDwfWDGv1YEwvlCwTayILE+XXgmNjL5X2csFypjn+ODID/RunSCgeUtW0sAAAAA=;base64,
 ---
 
 ## Airpods: The Best Apple Product Ever Made

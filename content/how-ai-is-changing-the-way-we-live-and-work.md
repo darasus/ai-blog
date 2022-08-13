@@ -18,8 +18,8 @@ intro: New artificial intelligence (AI) technologies are automating tasks once
   Whether you’re new to AI or want a refresher on the latest AI trends, this
   guide covers everything you need to know about how artificial intelligence is
   changing the way we live and work.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-ai-is-changing-the-way-we-live-and-work.png
+imageSrcBase64: data:UklGRqgDAABXRUJQVlA4IJwDAACwEACdASoyADIAPm0wk0ckIqGhLBK7MIANiWgvvq8AHnWgLjPDztzINNqH6L/EayTH+W/7f2APKq/bv4S/2t9ISKWujLiKZI6gSq9HZ6JehtzwAyKCpQYtfbnlMopw3x7YGcGnh/I2ZEHgmXrxvPlExpC/d8NAGCKr8k07DM8dWefQa0FmPcgYXofUIK5AAP78NVOck3jD5wy+ALsrVYlfscCcaib/e83kj4Io1/SHF7OnLwrySetnrCOhz3Gx1jp/v4DzFIptx8hqZ5x6U3T9eS1gygnp+fzAa4CFMmyhAi/mxT0Cs1GdCsNiMkQ1dAJNlHcw3Ql2nsrRgLzNgU4C8v/24Y9WGJf//MYAAL5E+NlqH/Hfd4Jf5YTdctzhFcZdYChNsIf0an9G2HvaQ+V0FArtwYPW+07oUi8JNs0NbcBvQbtjiE7PpCCv/Od53r5x0ye6dL6dNWLXnHQ7Dp4keDt+ys1wkT9ZHTdP09kSguWo1YvvhCvVGP3SDtdqTK8i+lH6JKydnErJ82ddcWnofVgFIlx90ViJsU2dvzUTSVjFHtIl8paKvsq4lgqL47zJwozlNBjvCfvKX6mWM8KBXY5IT/lSl/j9ZqVWfq9W2zuA3u0j5deiYjnYvu9jmbJP23GcWI6X6hPBWHmE0JXY5nylf4ra1k8nlr5azgml2E57PH0ZVPHjL64xCBf4DmOD0TfwfwyFbUXDjsTwS+b/0aP5i3wIBJ+rnFqyk+z8adxVnWFsfVExK7wyhe0RSCI3ZAiZ6mn7wJ/iYNKJf17XQNZsY10im0BMyuSVCOv2mQy3NZENy7ZEQ95TkyHlwZDgrg7fmoGggtwOZhnL/UBQPsAoGdYax+Vckbvq88fIYnO1Gkz+y3fvtX3yy7Ejh9/AZ+JC+R5dSdXutgz+J2KAYeP6mbmsOVB24VcB1fwZbPACGbDyJbBaCAbr0/kSXNYJS908O5yc3t9C4HA+JSNde6ewYY2q2mpKICjSZ8cp+QI13mzFADjvE+Qqds12jEu7XJoe9AswqMV5bDWyae6EYniPJK63NQq8B/+0/0JNimODbb/jvld3eV9R8yYy+j0LAPjFenfRl1Z/5krEyWNiNy62WoGrNQvqSeUaeXFLqqzyX7EE+NOIEOwP3vLxlqAMyY2Y0dRMav6pJmtRtI2lBloOVbrFHvb/CfL4pa4yr8wIkbdFAFv9jr3BOtv/bzLvy1kGUUgA6N4AAAA=;base64,
 ---
 
 ## What is Artificial Intelligence?

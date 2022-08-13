@@ -20,8 +20,8 @@ intro: >-
   Apple Inc., a U.S.-based technology company founded by Steve Jobs, Steve Wozniak and Ronald Wayne in 1976, is widely renowned for its innovative products as well as its business practices. 
 
   With this blog post, you will learn everything you need to know about Apple — from its history and key figures to its latest innovations and future endeavors. So whether you’re an Apple enthusiast or just want to know more about your favorite brand, read on to discover everything you need to know about Apple.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/a-brief-history-of-apple-the-company-behind-your-favorite-gadgets.png
+imageSrcBase64: data:UklGRnQDAABXRUJQVlA4IGgDAACQEQCdASoyADIAPm0ulUckIiIhKBQMAIANiUAaAXYZtQpUI/mMf2b1j+YDziPQjvAG8gf4Kvifrng31bT5L8Xwg7R/9d3wLjv9A4je8R/KuMJjY8+X/c8t3097Bf6z9YYyo+bJsAjVoik8m79JAraeEdiLlck7b/PYx46tCZsLUobPDw78JQzQV/snN3+aOceMN0ftoAD+/sIS22aw4B4abrFKtsHeH/pL9/sk5SfKwh7GErVEu1JKuc/iMf4hhWcm39MgaPWOEuqf0ZlLyCSRF7d/grnsw1FAVSuQtR0Ny57bJ0/as/3Zazg2Is4afF1utQd2Hl8Xay8KvbhKONQ5iSn5/7jUytREcSRj8yP+yUo9tEV2mLilzn5ryWvmKvCKQjV7A9sf90D8H5akNiPKYJnz+Xl8AdwGn2dsYrf5ltlipLCnRRKDY2Xp665oaDfa051fWFc3zL2EHeXE11TjgA/SYp7T4LYJSjSXI+BccScsmhT90sqo2ANFZSbFgIFoJBQfD+rpGX6hv2hRGZdmyuzzOehNleieLzt2DafV2iUx8oBIClAXy3t5vQcB1lQ+xAuCLt+/fv8DomgvCd0if0dwcgi/8y72pqQ28RpvY5jmF+aS1Xe+VPKjBRYDzdIDYgJlTfNekTayRLnLbcjBpKaerA/N73Mf8EWH1Wh9tUUMWJDBdd4wxy4BCCfA/Qzzfffj/iUUyfw7/+hAu9ZKxBbxX8YgPlI4vlL3xylT/m9JCrXN5TOr6ZTPOqsUD5zuNtaJZnEm1AzlBvX6ou/h8lBDsYuwFmsi3lwnt9tXRMS9MRfjTmkLZg4HNeMjYogx+NK6c1M7ESZ6GscQ9E8LTKJ3YinjGH4IqN5E2Z00PRyEQS9OPaaTyyBOHpaltRf4/4yfMn9KZ09npNd4IgHy7VVK+h4xAo/82y78WRGLeQNi6p5hpb7Lyt09w369lff0ZvHmwyhVZQ317/7Rhz0+E76u0SrJZ9n4ksUd3HhROB+E/s17FeJXZwKsfvZHaXRcnuX/ffmPlK8zULQ75RODpv615PMczXgLsfEO37/yN++MW/+G+1eM9/r+keW6v7zkX3bUyfVIk2Y6l6n+5FTi+aF1lKPWJXT/j/TvZVHThs3thL0dz2SkFGQDqU6RkkR3EW/bgAAAAA==;base64,
 ---
 
 ## Company History

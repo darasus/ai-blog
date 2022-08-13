@@ -20,8 +20,8 @@ intro: >-
   2014 to just above $90 per share by June 2016.
 
   But this is how investing works — when an investment falls too much and it becomes cheap relative to its intrinsic value, it’s time to buy more shares! Consider this your ultimate guide on why Apple Inc is a good long-term investment. Keep reading to find out why you should consider buying more shares even though the stock price has fallen so much over such a short period of time.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/why-apple-inc-is-a-good-long-term-investment.png
+imageSrcBase64: data:UklGRhoEAABXRUJQVlA4IA4EAAAwFwCdASoyADIAPm0ukUakIiGhLBgMAIANiWwArZvaineq/iB0T26PgXDvOVXIl+Y79iPSQ/Wb3AeSr1ifoAfrp6Zfsk/aT7TNzV6KP0X7Hbmokx7XfI7/aN8M43/Tv7fxlfLBryXiXnM/1/qN57fpP/hf3P4BP5D/Tv+N/Xu0B6F/65I9PJYHrXMekvCuyqKwbdH6DJk96irdM64aEsvFwZ4vyhll0tScfgmx8e5oUPwCYSQyQvVd6rAlAL343Ck/AAD+73gb36pXJB//3IBsgGyANVP4hrxy8DgAXQp75OJ3HcZzOtZlCR0yxxGLwKLdHM2AKGlLX1vzk9pJc+tKvRQbApk4kdyLSjVfriH2LDMq7Q/z2QmnJh0N3t43NYde+HRe/G9tKqrXNTZefXJMztuFQiP8TsMcVCAbHNjn6j8QG39Z4Ro5Bql/Oh/y0SzD41lI3lwJrCjEwI++zg8Yfgq+L3CGwxifQMvKJ6cxsERrEmW1EY0L9g1jjZoS7Ai4RpkeXlHuGi4bglbXtiGrou+QcA0V3QlK0QF5IeZsyuR8BCs5mD+F1J28oOhWT8MPpOIfdBG7cSoU56JthJ+MYw5TGfvd9lQATvtGyPOD2TZ3f+dRW0Irvoh9Z//T1ALEj9mNFuB1Ji2wBtO4RgNfZWmXfvjWoBnzprbDBgGOlZaiuRKlIJJTjva6LxAi5i2q0v/U0POkdUopQmItu/P53fv/hk+2QfNB9g/9zYkiio8DeDacwsC49VWmYXosf8NkSm2AGyQ2I2EePyhYHr41Eeu0zJULnrdHXCBRB3k/TuNhZNellnyiH1i9WQTjhKMvZEzxd3/QaEHR9GCP1hXMYT5qRCExbVGPZvmndxS6H7ecz/GtDOvJrB+90XKaF7WuzzrHtmcS17AH6i9/qfsMdTfK7lfQ8g9ZZOzdew4l33+aak+WzmmHVf/Opf+bgDK0co4VifnrjUtzPNeW9XTwbn7cg4bdwHLO/o0DJhCzbN7ktj/UhNPTrvDFn+idc3tyrh49/NuwnEUbCY8t+MtKaZvmPZG9OVrSkLCqu8D1/x7IYpEZO5+okbFBoLKRWm9qZ0G8/x595ynKo84vESSbHzylj26yc8Zcs09ovWCFVDxuea8iWjfu4jnoeyzqSS21nN//wxJzvo2AB2fcBZ1loYp33/F/zc11fB5yaE1RZr0ahjL3/JO+Y8LqlGflt/8/Q/znJcXT3+e3vX/poosVmqRatP6dfMlBlan1y7w7pEhY8F9k/+6kAnFQdcBdUdx1W4gJzP9y3DVeNUX6JP7bqJgFIk6pPICPNr/6lhPDk3QnLWhso183nogb+Cr2fyrCf26cdm0LFZOBHveNL5cLOCq7jkXY0XAFEYgAAAA=;base64,
 ---
 
 ## iOS Continues to Dominate the Worldwide Market

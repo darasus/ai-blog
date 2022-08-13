@@ -18,8 +18,8 @@ intro: >-
   the day. 
 
   Let’s be real: Most people think about breakfast as cereal or oatmeal as their go-to meal. Why? Because these are easy to prepare and serve when we rush out of the house to catch our bus or school shuttle in the morning. But there are other ways to eat a good breakfast that won’t take up too much of your time or space in the kitchen. Here are some ideas for eating a healthy breakfast every day that doesn’t involve cereal or oatmeal…
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/breakfast-ideas-beyond-cereal-oatmeal.png
+imageSrcBase64: data:UklGRvYDAABXRUJQVlA4IOoDAAAwFACdASoyADIAPm0okEWkIiGYDf0AQAbEtgBhWZe8691/Hb8bvlFqv9i+/vFDlc7K/0X3AfB//AewD8Z+iR/jv4B1kP2Z9QH6m/6r/Je9P/d/Uz6AH9V/rnWZ+gB+uHpYfsz8IX7gftJ7QBgKWay45cF/t6QcxfONF3qVmKm9YoC0zJ1FvKGmg/eNRECLo+0jkh4kUAdlqCHmEOQmwqlljzbC5Xug+TmBkAD+8NNnVRoX9CQu+8v/Up+RGjhX0Wy2JO+NZj9rq/TY+0qXFFH/+3sD5b5dHzHXDl4xh8U1XiumrsoNXhdRU+40ZAooC1G+a0Hr4y5uERW6//gI+jJ78wmJ+ogoN+ripIa5901COAmndU8euA5F/Up/ft2n1aXInzX3EfpOAx0lTfo+SQQ/h4jvtSzi83mORcC5iFswBSvZi4us1gsqcudkTFB6sgEdtAMgVe7M97kwTZvg31+9JgzPyIP13uy34LL9aGxACi2i8fmT2ftrtogg08koHvI5VdnsSWCpo5V2QMNeBbmloN4FD8DCjgwe487x9GHbl4IRM3ha6bB3OZoeVD98Yu0r4FVXnA4ZliRsiMaAj+vQfPSevtURdPvNum0g6SROLjv/XJ1c1eNY3aeHnLZU4MyUereTdCnxXZf4Gt43FV6NCj+Okm1sxwv1ZnZPT19dvIbBnWRWIWUcyPF7b7To8tlHmMF0UThPS0c1kGSD3rdU2jbmnilr4hpxww6MZLXHCFw1H94uYFjeoZYZrWL1HMQzJ/Pf2D3NAiaQJdnfiS645bZYBJMaMEpOoZ+64joeX9M8tYSaW2fAvjJoZ1MHDCa/Fzzpr9lXu6FIBe7LsY5OVxp4vSwNbq++NUytoYAT2ZNwa0/z9bCCJJV5JcUd7jPf3r1o6HgyFA8ABV58FJK6eSDwVIsHhBU0ANihAAaMNvlOY+BhoF0jPr6ZuC3SOKuwqMPqjHP56EmxkJZvIyhGlGJEektXo60EeBF9l9CTh9XKuX3PIVojsNjjPhVMaw2oyf9wkq38Cvoi2BmJxdIXtwVP1PFvxLHXmrjWeoGt8U9F2nLwpuIRa7wSWqBWXhb5rSVyVgFyYKFxfy2hdTgq0c5lL5JJnvuo3VpcSvgI78OZ2KQ6ToU05pdcg2Ed9X4nul8Mue1V+64HLpYatQusTDtx3Ig9qY5hkG1Bj7rt6E8OMTMPV/yoau1pTDb8SxZ7YpXpMDecz3CaXgmxLIgCwdP8ARwoWCDKbCSJKu64zRiQFsJhvQCjBMjHo7JrTAWAFJPlji0RtV9qBOZ0mFoUX81MlwwXvTpVms+Zd6dKspAAYwAAmxnQAAA=;base64,
 ---
 
 ## Eggs: The best breakfast food

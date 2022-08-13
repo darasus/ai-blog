@@ -24,8 +24,8 @@ intro: "Digital transformation is a sweeping trend that is reshaping businesses.
   easing recruitment challenges that many manufacturers face in developing
   countries where youth unemployment remains high. But how will this impact work
   in factories change? Let’s explore the future of work: automation and robots"
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-future-of-work-automation-and-the-rise-of-the-robots.png
+imageSrcBase64: data:UklGRrwDAABXRUJQVlA4ILADAACQEgCdASoyADIAPm0ukkckIiGhKhma6IANiWURTwQ5HIDbJ8+Tple88z6/l58yez3IXZYfls5F/dt6Uxv/o/DKvQPUd/K/9F57cE//Yf1r8gPiR/2Ptg92H0X7An6r/8/sADmnDDGJdcRjoreuHt1Neu0fJZJDMMBslyfQdu5m2XDrA2H/dcEBufGIzk5ld/WR93nZkTxt6inAvADwAP79QxMgMT/Th8Z+SnetdV2WbvfIsvxDOyb7BzVdPtlJ/LjaMuZ/unD/Cnd55Co6le9fUH+ZzdUXhpk8HtjD6UPzTMfCrYn2izOojjQ/8M12YlG5WoXVXNVN0fS3vX1lOQQ9uSww5/4t+GoDXppa9hbRemOz4u3/A9sEzHOs95eY64VBzVv9+EM4d//2EN+R7m+yJNt3VfpTgFVGQfTnN07hti/v9guheXi24m0V2aQRNy75wPTdiH/doc2s38DS4f/5uwPiuSehSscWvvVjkD0ii51qGDKgwVl7icHlDvJDgMJt0U3xB3XA2m4MwlZwZ0c1EdXBP8vvFN28u9yHH/VHWg6OYm3xDZuEdCyA4+X+9xSsGHIlOS84piZAfzxtSXg43wRFAqz3JtRLOWppSkM9IH7xFklnF4zA0KGE16y6PyW/d7lE2nxA+J40sPM+OhqaMiKYVIga3Kw+INkIVezi93sXALc5vrzqAGw3q0TtPRtMx+ovUAGPrZh7/hoiX5Tp+ndMWddzHbHRaAyfnEzAkIBS/1YOLTcJkG7n5/SeKEPHG2QFKMGBZSnwpP3/7evTQ5WSj2eftxfE4Uqo2Ca0WRTg86qj++6fuLOour/+91pJW9t1y09PZEpZ59H/0vFHk4QyZPs9XqOTY1hhDwipbp7kvv6QhcfSCBjPxjKFiirLg4+EwsVSU9kqsrCH68FdUdgtmYADhjn/apwfO1ZteZ5ZAP0yUaOa6SNKVS/OacDfgDATnC8ncNgPw1R/cTZsefn+j28nkMpdFba490oFfeVuGyvCssocgy31bph4+5LZPaoVftw6EitCCg71VpafqED0K/1wfSR/T+n51nHCDq7HW4Iw+XgnNy+gPennWfz/MZOdHBkMvCSfp8SV/+HUk+035plL+14BecSMY6U3zAYvLcdPzMKfma4X+MqhcWHYuSKWLQalTHsVBcfmK2hcbIH3RwMUz9rnVJqQNlpT4rk97Cqq8gfMCAFCSBJR0FF0VjcCQycwAJ+hXlb+sJ3+V6zgiv+iNRAjTIgAfTgAAA==;base64,
 ---
 
 ## What is automation?

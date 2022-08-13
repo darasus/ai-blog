@@ -22,8 +22,8 @@ intro: Smartphones are a big part of our lives. They help us stay in touch with
   the most popular devices available as well as some up-and-coming models worth
   keeping an eye on. Let’s take a look at our top ten picks for the best
   smartphones on the market today
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-ten-best-smartphones-on-the-market-today.png
+imageSrcBase64: data:UklGRvgDAABXRUJQVlA4IOwDAADQEwCdASoyADIAPm0qk0WkIqGWDq4AQAbEtgBBmSgveuS05tjhvIWt/UB9AHoAdZ7zAftd+x3vUehvnmfYN/YD2AOk+/wX+v9gC5m/rXg/VzeB/yPlt3gypPs3mL9dNYG7c833/G+2bqSr2v0JgkulJLFX/quVZM5qLURSDpIxLO4XldvQeJJYfIqHRliiUnAJBUN4qRF/3aQC9YbBKr9go0vjDIWyAAD+/i7H8BPRQSNRmNyRvbNp8fxvjGRLo8GvQiBv9bxXHnhg9mBuiYm1eRgIdL4tznp8CVlI0VnL7S3VulmA2rglgqkIAYz/9CseiWX1ls456s0c7sl4tBFURBLLe0FkYZA0fwtRm/9x5WnPyaXnOZfrn9Q8U/PmyUCvM7n8hTVYDixz/lGv/d26WKZGA6pMKoHk7VJOclEXu909eD8Af3JmGg/ipngORdajvRVjXT+loIuJ0q57AZNBKpGcSpM+jBrbDE0MTD93o02yXF9gYtv/J933hHdhf82f32WBhAo5Mpm3mz1PJgH+lpf14ShnUkq+K0vOzs7ZTuW1n6IVruNgxNmqgxvpcA+1SgeiwwRbs7qiEjPCnIr42cynWDrFuBZNK7Y2PeiZJfEhNXWMDjoOOTJMtTBMfFd8SE1dYmNl6lPfw0TAqTcTsWV9BEP3ur1evtVHvs4rOmE1d4XeGWjyGu5tNO07QiWYrf39AhjLFx8mczfkAzIynP3n1TCbyUZNZjcb+mHqtvwNe9b3bZg1XfrHaXc0J0wgA0zj1+Qb8ESHx0L05QAk2f1PxbwNx4Z4ap+d4BucZf8I7bYw8Ue4nJPb1BOs+/oFt+BXqmtX/WYVrDVsZ42SU1wNy2LcMEGwCWw6W/Vy0xCwW3Y5oKLK+3AG9EyjZdpObw9AqlAItG9jIJqEElD+JU/J/349S930ME1QfwfrK+vQjSWte6n+MM108rM+Zb4LhnhLzHM6o9FFcPZdwibiAdQowRuEbhvB4fNYQJ6iE0zWvfBtzBxe83tA+p5vO/WG4Z0EnHtH43VGRTOpFZDLEnEu3/VQ34ZYzcr73ioQuaZPFwRYOIOy7EXV+TzS/ki7RC7vkA08yAAJkjNcQE0feAxv5gP0PmpoAa04vG3y6d/kV+k9hTTjkulelxwMQmVepQN3QRYKT/SQU43shbxSEih4u7d/yKepNRGkyzM3UnMC3gKRzUD0LdgAhhtj+D6elyCX2Ibe0rRZtXZxWOJ/H/Nz9kNLwKkf1fnfP/N78Hodf71Rd4oSxDSAjUVdst/wx7mcgbw4B2nard14e/ufy6qLUrTDjgi/RDRSvH/1HwCq3hIp5ZDAAAAAAA==;base64,
 ---
 
 ## Samsung Galaxy S7

@@ -21,8 +21,8 @@ intro: 5G is the next iteration of mobile network technology. It will enable
   it’s still early days for this technology. You may not see the benefits of 5G
   just yet – but there are some excellent reasons why you should get excited
   about this future standard.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-5g-will-change-the-way-we-live-and-work.png
+imageSrcBase64: data:UklGRuYEAABXRUJQVlA4INoEAAAQGACdASoyADIAPmksj0WkIqEY/jUkQAaEtgBfQIAdBdB/xnmbXL+4/gDi+T39Wf5j0HerPxQ+ln5gP16/Yz3bvQB6AH+A9IX/O+wB+yHsQeWB+2vwi/37/mfsZ7WN3H/ZPBXw8wFsG86wOLek3kjk/9a783UC7s8+ngWfTv9d55PPH/5fKn9WewV0nfRcPGa2Mx2Q6UmHqWj50yUCbe5nW3ukThoQdRhl3a3GRvEev6SL6zImx5Zuisb3E/SrKwdgWLs3JQVq05gA/vpcJfFuRXQ0Swbtb6SP7jSEIM2PBMhRbbOh2tghpmGreUj+p8fyAI5d/HWsmzgYb8Gs8Jl8HJIVs0fX/ahW1A+cftq1Ej31f438tLesPDzvBuOFA9OepH7RtmL2cQMx4f0+C57lcCE2PD2zbCJjpvIJfSsGY7QmFNtjquA+ZajNiDvzn2+RloB5joCtVioburrsXuM7oFnF/VwS7N/eBs/Ayz1S3L/Xsai9rtAd/yR1ewad12tCYqaGK038EN1c/Uck6jq0fSJuGo6F+48mZg9shNf4EVQ5y+H3Fooko1MnsYvX47EturUTB4PW9w2dlNr7rhLM3Cc56RIDN59IudGi8y27S73ZCWGvv/trBTFhgMzuXLx7tHuX3kb1LCOcw2+WOfotP/pMb7/ZDRkM2C/zBsL0i9q/f874mPl+FGMoJow4wprHF5fWKgkhMSeMa3AXvir+jBE+p8engzZDt22FZ1ef0gF36BsSOTMjl/uLa/NtlCyRRF2yP/fLvyBT/gHiBfqZO+qhd8z8aEZJznr/9I5IqzHkjiybY6LH90uIGO1r5T1Lz/zvc7zo/OjxDSv1Qyu8aZfi6IBzS+X873XdLzW3mjOnGqXLB+0KnbtkeDoyR5/is3/HJNs/7gxwh9jzO/ENjtD5cHqNrSDnQgVSwuyETqEYMzeUQ8jGHX4+9m4T5UtUEHMTgGpGVDgPg9X5AhLEw4cO97J5/SgMZibGcuEk9HLGYBLShNAg6Pn+0ppsrr8R5ELef+AwVIEilDk7/2L8371Bw90KoXCD5/G47LmQemsT9xdcqjxpXtb4K5pbu3IQPzHizrC/pAlt8E/8sCJ+gxXJO8JcpreyTCWJw1Uhqqhu2wEVhUe/xU3SQ8WajV5+N/KHpFDXXGf4mOysBeecMHPYVM4MZ/54DBlrYrstugqjj+Mx5awhVCxIJRkFUHPg8djOVUD90y0rVl9z8tGfxP0FU+r2Wzob8MJ1osEl8D/jqVOmdThmvulbF+9Ny35xReIuBNnfh1B3y3vipbdV7+CszBXoX8JxMjZdmU9A3e7Pk6XEvCOcGDg6++WaB4FctvPpuNNHmaH9bBm3fHMWTWZs+MDb7XHW37zPAlw9WRwv6jfDAoIkU0dEMmeI3vcnHlksyScJGiRPz1uDeKTl2CjmEv827AQ/1VjqH1ar4Efhk6CZCgDMQw4fpiEs9x/YTSfP/aF/v8cav3qUsSGw+b+j4/gdwUgwocJO2pd8IMhyPLxa7i2k6dsZAts0eSdGP0IzsxDSv9YpdJ/GBBjx9PWpGUWyOUjTlYwZhtwS9HVL7QoAuIH/0O7yna9bWj/y3ieT3RWwsU5fepO8SUZwcJ4f2vbcR/sxOivHxEzN+ifIAG0AglLAAAA=;base64,
 ---
 
 ## 5G: What does it mean for us?

@@ -19,8 +19,8 @@ intro: >-
   However, with this increased usage of technology also comes some downsides. In particular, there has been growing concern regarding how big tech companies are using their vast quantities of data to manipulate users for their own gain. These companies are harvesting user information and using it to further their own business interests, often at the expense of user privacy and well-being. 
 
   These examples of how big tech is harming society will help you see these companies for what they really are: greedy corporations with little regard for consumer welfare other than how it impacts their bottom line.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-dark-side-of-big-tech-how-these-companies-are-harming-our-society.png
+imageSrcBase64: data:UklGRpgDAABXRUJQVlA4IIwDAABwEwCdASoyADIAPm0wk0akIqGhKhma6IANiUAZw6kfgcADbZ8/BpgG821lXwV8C/kn2Z3HG/jvt/yXgDtN/0zwga419M/23fVf1X5Ac5H+bcWjQA/Mnm4fRHoz+hPYP/V3/edgAytrr89cOiqslVKfi5E5H+sMvXTIBhDqzMJzAOR+7nbATRThK3VgfoKj9j7t7msV1CCXxAmM+64U5ISSvMGtAAD+/vW8Lz92t6nZFAoFQW0q5S2LQ6u3PObgJf6QfFdOTayL8h2AB/F+qKwzu1EF9L4jjx4/i+rxmNzLjrcOxioDiqWs0lNnbfEnKfdMzp3ukUyZYE6ZBv1K0pRyN5cm55f6Y4qtS5dviOCbnKvQW2YhWnqwUFc/WCwVc6ciN67PWFnpZrIPfeh02qgnmW/LQli3ad/J7kNjNFfm+eKDaPZafOIEA2NtmcKEVPlFE5juCrIPv/i1WynhhHHzur2B6oKzIcbhzExRox2eEu14TWoevUXlDgOapfiyl6JuUuDMUEcVcKDLX4WjSvXiLK/hbcSAVQMfZixxKpt6cz8681k5USuEeR6+Skits//NMfnL34nd0ZJn9N21kqMGi6zTZPqPdeNmBL093QqMN9DdV7KxeyNhnATknResfoWo3l9nJiNgL+LP161w035tK5/4ci16+Hf9IvbAKbOd6Obc+KeyedKy+uz3TKP1+jUXm2JGrU6+4KiBXfh0o7SRYKEk/Tma0PLu4AP/xQGyCMwdHNMD4pnOVRkbDzwwwBl/+ILwT6PNlvpWd/kQYIS64G8FT8t+ial/E0ib3QNmcDjcSLXC47Bups9NP2OX6Zbb0CHzUW5CEINvbo3645IYU5PIXUNe8oC0G1pmdOLr3668xnd5bfGfpFzrFYOp/0gV+xrG9zW9RLkHPn1jZ53YeU2uQ5wKCHP5aLG6I+JHriWf+JQLRX2TH6nIPz8bQkq4A9K76QS2VsxS6cqb0+X+m8Bxqbo0td1x/rk3VqMfWI6hbP0Tdis4Re1Q4LvAV3H0g9Pn3/j2z1vzdZc5L54TN0bGGKqTpyrVf/FMKTxkWvltvO1f+FHvnt9YWU/kr/e2OjG/2LfGEI/1tGZbRgSn7/87QEcu2OHb7F+8rsrT9CMCvJx7AvMu7QxtYJ0qHGkSOAORvAGq6E0vZwGjRatBL3dD7PwIBNABLsUQTQw0bie3ADnmAcZ/wAAAAA==;base64,
 ---
 
 ## Facebook

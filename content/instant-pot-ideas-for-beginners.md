@@ -17,8 +17,8 @@ intro: >-
   ideas for beginner Instant Pot users that will get you inspired! 
 
   If you’re new to the world of pressure cooking, the idea of an “instant” pot may seem a little strange at first. However, using an Instant Pot (or any electric pressure cooker) can save you time while also preserving more nutrients in your food. So let’s take a look at some simple ideas for beginners who are just getting started with their Instant Pot and want to try some easy recipes!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/instant-pot-ideas-for-beginners.png
+imageSrcBase64: data:UklGRiIEAABXRUJQVlA4IBYEAADQFgCdASoyADIAPm0ukkckIiGhMBIKAIANiUAZUzBf/+VPAa2+Pizfqr75OmVx8x9u5/TxdkBMt/4DxA3F3+L8EHYE8O/kP+q4wPld9Sn8s/zvnz3g3Z/sAfxz+Z/5n8oPku/a/+z5LPx7+v/83+6fAF/JP6d/yv7n2Vf3G9kL9eiHWH6d4K/ul4I3pphYzAl4F9F1DWwzKzLCqzG1uNvxjT0HLSKBvrGdE4x0tI52BnghnhzIhka0VISiqbh8AAD+/fgDZ8Zl2WA3odPSFVOHDd1Dv45p6Net/SgsJ9z39KhzVrdK5EsJtQ30Rgpf+37+wikbyvvQ6Qbm9UPR2vt8C/J5o0JMo53xsigDZwX+nLk/akT1u++OChp3E+BqmBLhOJj2FFYTZWFRauKwm1ngM9Zw74PFr97sV0j4vHKo9KBGkSt2QHMP9n1nc3N5MNTrN3MDy29t6ZTf3R5r8B6hkByO5/4MI90UpT3sbODt2+3pXG7zHU9jRinWZGUf5ILlZhySrGR9fthLK5QJ+JRCAL+n5vZdFGy4k70c/cYRidKiiRhQXCXUT6JY4fSRt3ZEh/zV8r2bRKejeCvzp7Y2VZ8KAFM/NDjyjjVDC18Tu53sNqYdf/6ifdKhaIo0nSb1hs8bkcHBSVtvV1y6OuVwnmtd/AZ3RrsM9fO8SXY/rySFv//W91gnHUxaAU+Gr690Fte/z4zL6PY9j5DmNnAznsH+HRIZjHjSCDN5WrC62fg5biGHIXNJ/qStJAX4sGL//gytIXreO4M+3/IMPpcx8dElBIQd2BYmIcG43Mmg4NkIPDY5lOyMlZ0pd3aU8fmFpyhNocUpUaofR+s2nTXBqo5i4LjNEv1kfX1mKmO8f3CyDgznefFAN8ky/zsXLbLnqO3ftHtECcWvps7hWvyHlrm7D8MxHilvv2KZCd4K7mQwHC9syOx8cpc5o8dukrVfKYeiyQL8nKWPankZ7TUmk6eIqQ9IRoIWtenZbzcsKz6vEFKGGo6aswUccAQRPbkGB26tCY6GBt2+/5lrmKfV0HbkvlV8WJQB6On6/IQncfdj2pcnx5aNFOEeyIcb1HjvHlDuIn0PZoxesj++5Brq2mkfplAYs/1JU4jO+Og6AoYi2Hbf+LGdHD4eGNH8/Z2y6qW+/vQXoTzjsfRPSEEQwr7HMpZJ0t3YFtxzzv+UKspLvPzgNKg1zkHWOPOn+Qmf5yWOTyIbO6x6ZaH4S+LaWoHBYVPIWBjVWnn2X3w10Md/M8/+MUwS+r1968Cx0jz/MB/+DTlT2xob6mxHY5XFf8FwDUvNhPh+DiNK/7mwW12KSRfJkXwkEy2Y2kCVS6Ts14+gjeIxV//z/2//H/PsNRhIvE/6f9v/x/09hVpHsMLwAAAAAA==;base64,
 ---
 
 ## Basics of Using an Instant Pot

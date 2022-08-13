@@ -21,8 +21,8 @@ intro: >-
   If you consume more than 20g of carbohydrate per day, that’s considered high intake. High intake of carbohydrates can lead to an excess production of glycogen in the liver, which is converted to fat and stored in adipose tissue, particularly around the belly. Once these fats reach dangerous levels they trigger the production of stress hormones like cortisol which has been linked to insulin resistance, high cholesterol, obesity and fatty liver disease. 
 
   However, not all carbs are bad for you – in fact some types are essential for good health. Here’s how to tell the difference...
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-truth-about-carbs-good-and-bad.png
+imageSrcBase64: data:UklGRp4DAABXRUJQVlA4IJIDAABQEgCdASoyADIAPm0skkYkIiGhMfOaSIANiWYAhOxQXs345YMdr5+F2+vUBtj/2V9QH63eulpgHPo/qr8MddB/XMau2Jw3coh1bpw1IFQSOX0M87P0p7A/SbJsneHykrmdol0ANQGeDb6e/S5hgzSLGD/r5G5ZyHQqVGyka2QDbIRyu4UDFj/lkt2F3Y+GljqkkR8lSnyZIovgAAD+/quGWXKEbJS+CP68/IP/0l5Xg1pdFlIpP/RYgNuoeX+Z1ch59xb0W00r4X+Ft7fmWF5ylqTl0wbqEV3a5yzP8epeplqCxpnaTnghnh8f5izmpH/oXorvEGn5ZlwpfnfLRi+ok9eJGkXWTVre/2m+eA8FV4LywG8azPwHH8aWvz9J2Up+pg1y0Wj1DA9HDjtIezNSXdWW/haV67qLQyusfMwX6qJZGoMw8B7PivYvat5zvnRu1oe/mEJJ3m5ye60EIeRTUclcMf4NZ/vg5wScyXxJ5UcXLi9LMa+0me+Af9OwylNhmfl3b5XB5bRs9TO0Lw7rKT8kPwEjitt89q1HBb934Yrp0gMb7dq5hzAX1UR0QG/ysjBSUsw15tNeSkrQkwiCtN4XARIC1cB7d87Hs8ALeUUeb6fJ9xSMRHRL4E/+zreUUhPKr5QJeTvNZRv2uCr66/scWuvvx5YFP+X/4X/NlrFxYlOQTxul+uCTYyole/9ev26GIZsJk00rEtFIJ3SXTLr888JjryVqGH0eI+8QO996c2QX6AuvZdPnf55l+xpcZytoVTbBj0AP5/5Pe3qMnfv7R8kR/afYtL9xOR/6QxnFp79pAhtHzwwuMCbMMSoZDXbkKt/xS9h5iaVoZ4B9sVPVH4kf6a+QOxuZlYi9ZNzId+ak3bKW54E7TdiFelDD6M4R2ZwZKe2RAxbJ0tKkW+MDTKVoWhYOWttwTZ4lwUc9IcBazI/wFLNjnm1LtsA5oDjRmvbjcz8bg6ljBpu24+L8rhCEH0+Ho3t9i3+u1ACx+kfBtDeqyXZU5oS1nlmjCSJ/x4ewFnimRioBD9KCgpgEXCxh1o27nKntJpbmoEP1YGUrM5+Tn5jzrPfw2KjAb3I7agEsX9NZV5yMDlzdTTZlZztGiFWfSNME8T94IUKKH7e6yJFyG2PBwlTiZARN41PbE6qLH/Pkdw25ziwS63rs3kBDL4UB+8dXf9UBcv/yfzPq0g7hYUigQEZFoAAAAA==;base64,
 ---
 
 ## Good carbs vs bad carbs

@@ -21,8 +21,8 @@ intro: >-
   manner as observed in humans and animals. 
 
   AI has many practical applications, such as automatically tagging images on social media sites, detecting spam email filters, or self-driving cars. In this blog post, you will learn more about artificial intelligence, its implications on society and potential future implications of AI on jobs and everyday life.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-future-of-artificial-intelligence-what-it-means-for-us.png
+imageSrcBase64: data:UklGRj4EAABXRUJQVlA4IDIEAABwFACdASoyADIAPm0wlUckIyIhKhM66IANiWIA0MRHPo0f+fEJj0AbevnzrJ0ny/NGFA4L7K9gT0KoAS0r5VxKcYn+Q8kvubz0/7P1QtBz017B365dYr9qvYA/YAW4dSN0R7o1BwlaroWDuPgXz6wEkQe1MZD9KqXsw13fv5FBN0wMNm27T7S0OaYT0r87QC5/pn0tzjWvvlLI/U9QRQ7dAMwCT4a/o1b/2izEAP78Di1ICs5FUZPeSyr/wKfcl7y3Te1oZ5zVsc+4lipwyZYjT5o/bUepUydeoqeDdT/h9B2VlYTeQF+UXw/jU/z+6MVT6xyzQ01qfdfts7f0T/2eNgIL90f0eGdf+Pxrd8f1y03tjFC9d+xwENWWXSaQ0A+EE9Ua/xoor6jFGLgwC7pYU/CoODW7u5/E4yS7DoKjdM9TsvSWAMad4p2kLCuIJP3W4ahSErG/6hW30dv6ZC92hfSRgNnSNyDz2Es+mDH1FLtq6en+fRRfCC13O/Gke7FJU0kmhnLsRAO9whemqvK/VxfqhgjLveJRGrah7E/L90xy6loHuX9U/ebA+uUIeXeESoKlcUIFvS+NY2SUNX9FHC7Q1790KC7oROcLWdu070pW2CD6RKyHn+bWIW3NSIIOGzps1d6b/5n79W/xRE4sciOlsdTSs6diZ6IMx+vxohsk+zbM8CVQPNLK36C013bSPSNNMjZt3e3Y8wmx8JUyWVguFBvjU5D1Lj1XA94UONzjcawzM0W5xef/4wVva3tSXdG5/WKfIIQmR8vSg9DNgeJIqUp1pJGtb8UDJBLyzevNA+pAwPiaevUn8FKC8j/fjli1nsynMe5EdhMEXM/u0DMpIFTJbBLJMeybCg048L22RTO9MaLvdkt1bin7yiS3s/U3IXyBtnEU1s62lghwatV2v/XMvu2CM0/hcSM3wN7EQfeJF1+t6WdgvlIS+fgA+Wd7MpS4/TLjAXVJMrG9AQnFz0B+BaXVSeD/SbrZDsmkHMwnooJJ/fP+q0WiDdXVLv3HxTyc4yL64P60/Yk5zkoTm7dB7zwfAw7x6noB+w0MF+TT//VTZMwPH94j/7yh3p8lsOw/jkivGBtb4ab/7QSChWEsv9EJGOWcLFaIlws9I+nWMPN/ZzcGByk8DI8nyNJ5mn43Gg0Aaa2IqkFyfB3ogZSWd6PQcLbqK+EgEAVRpWJRFvzQN3/YHTwgwG4OsgordswVkZrZEErdT3ceVLTuSXj8hqY/lHdt6EU80xE+wc7FDPjs6/XLuT3jVPDS9DSPAFidKSK6w7ySdvqch5hgKcTVP6hdzpEEj4IEM+kY1/lOcTld/dhnPe7z5WnCR7YMOiE69moJ4Jyhw7RxYc6DnyLqd/O5dP62AU9H+pg8L/1z0IP469GRGYKw4Dg/elhq1lqN/kcwAEPvb6AAAAA=;base64,
 ---
 
 ## What is Artificial Intelligence?

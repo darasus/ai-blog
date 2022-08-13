@@ -20,8 +20,8 @@ intro: >-
   give them a lukewarm response?
 
   Follow food trends if it makes sense for your business, and use them as a way to stay ahead of competitors and gain new customers. Following trends gives your business an opportunity to attract new customers by keeping your place relevant with the latest tastes and preferences. At the same time, ignoring popular foods can also be risky as that can alienate potential patrons who are looking for those options when they come to dine at your establishment.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/orfollowing-food-trends-is-it-worth-it.png
+imageSrcBase64: data:UklGRjIBAABXRUJQVlA4ICYBAACwBwCdASoyADIAPm0ylkakIyIhKBv6qIANiWUAeQM+jGkGrwYovAReZOusM9RqjxVw+P0tlHd9OtyoJcDE/HnjjGRcFQgAAP77D0Vsn3lB5Sffs907FjmY+20e2x/yGe5J/5INJ3olzrkDgf4QU9UJBFv0Bjfw7Xc2PjtUuqj6NBsgQ3BJjHLX0MX7dN5HWoVDgBWValHqLKAbl7peMhddD5tNHcFZSZCj19S1Q9mFi1s4BgDTLLxiIDdSeNldOMRTm8ql1MS1Oevh7hHXTJPvx97BZVlXMBxo7C+zfOj3f0TKFD7a6rFT1MmrSn5THePp8dV8y0lZMcK7jj9k2NRnlpLsXBikOOvXulN1ZVtgUvg6queI1Fe6FiCVZ15iNpSSahAAAAA=;base64,
 ---
 
 ## Understanding Food Trends

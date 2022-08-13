@@ -17,8 +17,8 @@ intro: >-
   workers rather than simply complement their work. 
 
   AI-enabled processes are eliminating some jobs and creating others. The result is a transformation of the entire labor market, not just specific industries. The adoption of AI is also opening up opportunities for new business models and cooperation between humans and machines to tackle complex problems. This article discusses how AI will affect the future of work, describe various roles that will be created or become irrelevant as a result of AI, and provide tips on how you can thrive in this new world of work.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-impact-of-ai-on-the-workforce.png
+imageSrcBase64: data:UklGRiQEAABXRUJQVlA4IBgEAADQEwCdASoyADIAPm0ukkYkIqGhKA34gA2JYjxGH1MlehM+P4DBjYq6DPnhNN39ADpcJ9ltESSpzf5FfIL7ivDeXgcV/on+M+zvnA+lf9V+03ceYsv8J9qvyVZ/3pX2CP1e/5nXoNwg21Zg+01z5J//2KAzQga3MgXQ44C8oXzD5ePF56CPRtnxEr0E6lsuKqZI+aiIGdGug2vjF4diF41XoPONBPjwagD+/Ll9BP7mjSogD/ZHiHBpTKEb8msVg/lLVATAXN+vLxrBpuRokZG4NWbX9i/Au776XbZtg2ePJ6vYjcRLGISRSVD1dz6IFE3evM+BeSKExOjdJhGv1e2GOf8MlJ0Lr51QT3CLnInsJliiq9M/K9SP3F7sPwApbGM/qd9vJ7JJk4HtorXyvZS+61HFMFsY7mu1tTYMKYmbhAyE+bJip7eB+GeDHOhtE9AGvFpi+FZsgre5/BPXZz1MBbBdXVGeGaEQb3AbnhxM518DxotyBT2q60P2hzVnAtKPhjceFhIL59ehjG6IBOCftY+Xn+2IUY0TEI7DYvGVa7lGIzb0ges1LOBCucpW2fmYjsdnpCOwBecjC6HKBaGDBWujM4UIuYvjaDpgjGlBI5d4ViM4uJr6oS9fuf8663C86WA+Tm5OkQDQo9D6ym0lWuvTHylEext9bINEWRoqfxAT/re+zK87lyTX8TTrkaW9PxEUXlL6bElVxBP8hAYo4ib2qCRH2yiEtGzqKL+V24I1uOYwbNdFWeBwrQyy5CAugCTmQDggFSVIM5X9mCaOt5ive9e9bw7OggAPfPWjV2HACMgFxCV1bj9Myu4i8OLTUByxAKCMRiqkP9Eb8Cat2POmNArGSS8pPM7Gljy/BVI4fCfr57IOvUbnYoUdTtBICFzDmlvXbVDxcami5xyViNPO0ZF5Pi+yfQ29YOMsSd7D5eCqoicOcTtEI6K+Naw/2/lTx5ZdVVby0bmrwgoB7ntVa7qe19RZgOUmR5g7l59065hVe/AhRle9P8lCq1Euv8f2CPb67yyKTpVWY3e1st1VNrO+e2jDyFwdLxMljbXPyrnfG1tbvW47Id/OGOcKJIuefRnB7lRYRTG2+1l1DU2hNQ88V1gVzgBdj6nBImb0plxFHfJ2zx5j8yd4LhtaFyd49WCxXM7w5hl8tUICny/j37zx5N8YVGBjjh3U0rihA9JjUPr9Ffp9Ky8M4d7GHScbTaiE7GezmSslfUcIRWx6CqFUuSwTvnGpRtggeMlEDkthrZ5P7XgxqbJFV2zoMP7diyeeVW5hsAfCsrkR3/xYexaw+auSGPMlCThXSydP/PYQjTzs56mqqB7U5J1uwdaL5WwHSao3lQG2YLhw0zRhb/oBCjpLu/9Zfbj1tYKAmbGDNmAA;base64,
 ---
 
 ## What is AI?
