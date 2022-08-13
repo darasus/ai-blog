@@ -2,7 +2,6 @@ import * as dotenv from "dotenv";
 
 dotenv.config();
 
-import ora from "ora";
 import slugify from "slugify";
 import path from "node:path";
 import fs from "node:fs";
@@ -16,19 +15,17 @@ import { allConcurrent } from "./shared/allConcurrent";
 import sharp from "sharp";
 import { Dalle } from "../lib/dalle";
 
-const spinner = ora("Start generating articles...");
-
 const postsDir = path.join(__dirname, "../content");
 const imagesDir = path.join(__dirname, "../public/articles");
 
 async function main() {
-  spinner.start();
-  spinner.text = "Generating articles...";
+  console.log("Generating articles...");
   const ai = new Writesonic();
   const titlesAndCategories = getArticleData();
   const promises = [];
 
   for (const [i, { title, category }] of titlesAndCategories.entries()) {
+    console.log(`Generating article title: ${title}`);
     const promise = async () => {
       let post: Partial<MDXPost> = {};
       const basename = slugify(title, { strict: true, lower: true });
@@ -81,15 +78,20 @@ async function main() {
         const base64String = await dalle.generateImage(
           `Intro image for article titled "${post.title}", pixel art`
         );
-        fs.writeFileSync(
-          path.join(imagesDir, `${basename}.png`),
-          base64String,
-          "base64"
-        );
-        post.imageSrc = "/articles/" + basename + ".png";
-        const img = sharp(Buffer.from(base64String, "base64")).resize(50);
-        const imageSrcBase64 = (await img.toBuffer()).toString("base64");
-        post.imageSrcBase64 = "data:" + imageSrcBase64 + ";base64,";
+        if (base64String) {
+          fs.writeFileSync(
+            path.join(imagesDir, `${basename}.png`),
+            base64String,
+            "base64"
+          );
+          post.imageSrc = "/articles/" + basename + ".png";
+          const img = sharp(Buffer.from(base64String, "base64")).resize(50);
+          const imageSrcBase64 = (await img.toBuffer()).toString("base64");
+          post.imageSrcBase64 = "data:" + imageSrcBase64 + ";base64,";
+        } else {
+          post.imageSrc = "";
+          post.imageSrcBase64 = "";
+        }
       }
 
       const formattedPost = formatMarkdown(post as MDXPost);
@@ -102,8 +104,7 @@ async function main() {
 
   await allConcurrent(1, promises);
 
-  spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
-  spinner.stopAndPersist();
+  console.log(`Done generating ${titlesAndCategories.length} articles!`);
   process.exit(0);
 }
 

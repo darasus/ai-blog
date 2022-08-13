@@ -8,7 +8,7 @@ export class Dalle {
   private url = "https://labs.openai.com/api/labs";
   private cache = new CacheService();
 
-  public async generateImage(prompt: string): Promise<string> {
+  public async generateImage(prompt: string): Promise<string | null> {
     const hash = stringToHash(prompt);
     const existing: string | null = await this.cache.get(hash);
 
@@ -17,9 +17,16 @@ export class Dalle {
     }
 
     const generation: any = await this.generate(prompt);
+    const imageUrl = generation?.data[0]?.generation?.image_path;
+
+    if (!imageUrl) {
+      await this.cache.setString(hash, "", 3650);
+
+      return "";
+    }
 
     const response = await axios.request<ArrayBuffer>({
-      url: generation.data[0].generation.image_path,
+      url: imageUrl,
       responseType: "arraybuffer",
     });
 
@@ -58,7 +65,8 @@ export class Dalle {
             return resolve(task.generations);
           case "rejected":
             clearInterval(refreshIntervalId);
-            throw new Error(task);
+            console.log(`Prompt "${prompt}" was rejected`);
+            return resolve(null);
           case "pending":
         }
       }, 2000);
