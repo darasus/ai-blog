@@ -20,8 +20,8 @@ intro: >-
   However, some people find cooking eggs a challenge because they think there’s only a limited number of ways to cook them. But that’s not true! 
 
   Whether you like your eggs fried, scrambled or poached, there are plenty of recipes that show you how to cook eggs in different ways. Once you know the basics, you can even experiment with different flavors and create your own unique dishes using eggs as their main ingredient. Here are some tips on the best way to cook each egg variety:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-best-way-to-cook-eggs-scrambled-poached-or-sunny-side-up.png
+imageSrcBase64: data:UklGRjQEAABXRUJQVlA4ICgEAABwEwCdASoyADIAPm0ukUYkIqGhLhSccIANiWQAlQOhfyNtsJFtqPMB53Pow3iv0AOla/x9fl1dXwX5HZw77JfpuFWWQyZ+Tp9F4iuLf/M+CZ3z55fPT/z/Lv9Ff9v3B/5b/ZP+d2DkMiFfo6a7+O3u+dF0A7Rq2St9880qCVr4WiVk6BtVDrusZUWo7fxi8yAd0bchVsPiycsUD9yTpLGCs9IDAAD+/b+Quf/iwKaW+QY+OpUnSMcP+cKu+jafjtZ9V4V//t+O/39i/6kXf98+c0Q0g/FV5nfXvh4uFpDkuCTShMc6pFvrZBoKF5aBk907+fh4lff5EfZRs9GegD+PKk4EVZ95pYb92VFqq0DA58ZyYHq/K8Lnc9UBvRqKc1cdZjz1S/fRFPku/7/CflM4eOUI5cg13ffwIN/xbuCOX18Zuu0nsfsm5Z/6IRQkwJv8H6M1/mQlmP8eaLKaSNdnXLfN+F5oo4D9PdH7xoL49G8iMPH1vmqzYMGZgO7BJig6rIBK0ohjVfn9MVb9FGS/O+IeWFtCTa+XvTG/2Dw9dVtXMfwLrwCqTdNQnD/hhiH+b/tskEX/qcMnUnnGe4qg8wt76qfzD4WxAZYdZbdJjrd+1xulzQOBkQdAyo/N7xxixz1r15hfWEe36aKvlrDxniEAfBThYHi1GxBAxTpy111VDX4EX3Igezo2MujJRMC7RwudJc9ipt2Vo+H1fsQ3es8fHQGbW19wHS1fqU81F0nRtlR1gnTRmpe+LwvKSb/L6RbK/8s0TwqjDP+dPf3dLgz2rCVWMtylh/2bqUiTD4g/MQH671SZxutJY9r/h72//xb/z9/GAcEHD+O//Vx/n6rh0WghYFoclyV/hPOXDOi1NB33oX/ECLWV7WAdnmC9tZRNxPJtmAGZgf/HthBY2EJECketmEogHCRzv49pG/WTHWgWcfixrzS5THVNrY8r/gPYcVIH+e/zpH50LH1S878o1z3wmHzDMJVxJPrDUHzY7rmjY5/dO3ncbyaWI8KQJjT39X3yD8Dg+7GF7P6OjAxUOhfGobPLy+/1RYOT7YpLlE6Y5axvAohw+zHIYmCs9RUYQ9mWGjhQ8/cSUfW7aWZjtYKFrg/8lbunPKsovwXBc+VRHJ2CtnPPyem0Rb7QX9lIcqZaVQg+ormIscb4tVhsT4vcuF6sFae5w1DiYrOzLFe1OAyXcCMtsWRUdv7Fan4RlwLW/xxoHL86+srf130r7hSBoiyRm7dlzrws7CsVbo8mXsnK+4Fo3+lEgwBJJTv0Kmv1Y8VRhK7AA0jutubU3TIbIFgopDtdjjA2sqDKI4JOq1dJrwno/F+CQ6J/Q6+PuFps4lYiAsOZ8YcEn67n20c9/Vu4O2HS2xl+IHwNTlmBl9QvMBgeaQDb1g2TfD+wAAAAAA==;base64,
 ---
 
 ## Scrambled Eggs

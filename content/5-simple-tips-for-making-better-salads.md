@@ -21,8 +21,8 @@ intro: >-
   tub. 
 
   However, there’s no reason why salads have to be boring, sad excuses for food. In fact, a good salad can be one of the healthiest and most satisfying ways to eat greens – as long as you know how make it taste great without making it worse for you.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/5-simple-tips-for-making-better-salads.png
+imageSrcBase64: data:UklGRgwEAABXRUJQVlA4IAAEAAAwFACdASoyADIAPm0wlEakIyIhrBgKaIANiWoAwq6jU3vAA2wHPJegD0AP8B/gOsA9ADyy/2g+Db90/2Z9pKsU8ifoI/pRTbsBkfiA4se9M8c89voE5tvpj2BP1o9Kr15fsz7MZBvTWhI+h0Y8d4FYcF+0Bgso59ROayn+P4lTneFw+uk0UeajhOT994FPyeqojriwNq041/nUKKf4WXfSnyeUKEosmgtnAAD++QR3V8W86UAH57l6w43qQU1bMGpT3fCi/mAIZZuB40LgBXg7g+oBHOs7OT7d/6TCVk9esrHgNf3N3ft3X1fwSqUxMUtrEGiIWt8Nw1H2h+cfh+tcS1hlh8FEjW/HUw1r//F91SE/XTgF+CO67EbT72aY7oZwNRHponHkSExQuGvT7QRLZT6pzEXyg/T4KfQeE4fcZ4nUY++BZaPJMbPv+oBol0xLpNFzzk4DSoNT9+wqTv2tc02TImWv3hEWtCZbjp+fOBgb8pk9/foEGfWbd/+FR1zp0p/sBPkLiQIvBfr/VW4zbmKJzzCNhrCnoca32ahobPon5epE/r+TvdO8hXTXPIr/TbEDHplUWNFtz3ECE3hpS/+zubpwvjybz8H4tC3QEey/791rhaSXoFC9vk/Mwj18LzQUFZZKZ4g2+1rN2T7Vvit3KYfZqDAAvZOsMg22tL2mTk8rnUsfeHNf/CmXk6Hh2L/xMk/1X2GFYSgTSbOCdbQw4D4ezUmtwkZzn00jDifd2em2fx17Ey+yD8yEKtoMc2B+f1NqFPJeojJ8tJ1CuvcC4uzJ/qDflOppi+Tud7z0graa6wZ8hyazx3yFrxJliyhHeyzwtx0EXrYy27KguEs2d895fW+u2gHhXjHBKhiU+/EtjRE04fz2UADXmZO/TxAB/PRFduvKdRaqEyIE+M/XTXSC3d3p3xmZcmid21o4YnVneDqxreQPID8by26uZC3kQTcBdBOq1g2x/loXO8o0w2cWGOHc31UTEOztcQ2BIIKUkZE1kheK3lRSfzK0MUnLI4YjOOuwQHGKc4enyINMI/ZMXq0sVYxJ58SzPWbsPEb1j8pieFE/ZEGAV1o4RdZKB4aenZuGlsnaHdB6OyyTnzhFmLIqnEk3WW7mepD8U8pdSejqm62DKm2PEo6U0p1rBBU7KBF3JFG8rMiyFNU6i2TjVc2Uz/ZwE+D0wr9b+mKofJ+ugqMhB8kvdlLsvfT8Hdv2lTq9re+gs+31+/CoyzU62f19EM77iVsLrcPnc8IBRIuTl7XS8/elbg6ulGtJSLYfB+nxll6rs7U918HKvzbGF7aOk9YstO2vL5r2sp1ukiiJ0UBhqfnxI5vSrE48cbajCQAswAZnyAAA;base64,
 ---
 
 ## By now you’re probably thinking, “Great! But how?”

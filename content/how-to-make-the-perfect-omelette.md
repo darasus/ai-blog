@@ -19,8 +19,8 @@ intro: >-
   the perfect omelette every time.
 
   Whether you like yours with cheese or mushrooms, an omelette is one of the most versatile dishes out there. They’re fast and easy to prepare, but most importantly, they taste amazing. So if you’re ready to master this simple dish, keep reading for everything you need to know about making an omelette!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-make-the-perfect-omelette.png
+imageSrcBase64: data:UklGRi4EAABXRUJQVlA4ICIEAADwEQCdASoyADIAPm0uk0YkIqGhLhtpyIANiWI9wB+2CT7gG2Auyv0K+lL/b2wifwHhP4gAI7QOz92Mygf0PmB9MOgrVS89v1b7B/R89ED9gBJI2PS2Iw933x1LjAFpfjB3A3TQbmi6HbCY68EgYdBO1GJ+f6D6QCn24y2gsW5jamq4dWLLVvamyly77+5vU+xmDAtwwa1DAAD+/Nx13cfIk4NEH9Q+rF79qfRf8HV8DWQ+TRXnbFsnz8bMyt20l8LGqBJ/UxI5cs7h1dW5+dVdXzxfPHxj0PZtx46ll2x8udqV47bJneJYV/j0A10Wcv3Ixt1Rz6D4h5apHuWTrDuST+UG72nMMSczDUix2AjbJeQPaxGu4ZZbFjSRHKncnqmcPvCpRUJVfo9MFF9LoBWWd2aIrZo29HG5pz73So3ket3/6U5eFNlrizGMec3N/i+6XZi8WXC/Ohfws1f/GixZf1Q4BE3lIqidVuWyeW9Zeok9emVtCqS1sPRjR/sAwBw5hsHozaB0Cit3nuRj/sWOnkPWTsB1Ut1BNHNJ5d892G/qxDfe7HAg0nmjpnihNdAnKmLf/4HBQPbNOjufaWhM465mTiPvriC7EDyPoHprKNvn2Jt8huiVZZbybaknmwc8G0XN4hLfk/fmHy1HkZ2S1lvQwAhFAHDZEdFWzpPlM30zQzWf4jAh/+dYxXH0TYpzZGc6Q9v/F+RwIE/ur8HjBRjpKWC7nPjJeXM5BzYwqNA4yyu9SxhrPvNRAvXSuj3Qy/SnzeLJjDyr7iw9xq2SBEz/bpU4dBcQr+Jn0Kd6q3tu5YKhCfBi5S8HYbk/yr+zybTyS7Fn/6t7sjKP/moc/zL5gq1bMV6mV3+It+VuusVecYYkwJ47nZ8ufICZ5HqzGOTQqX5GG7jUOPCUxw7Ersc/SkuONU5lu1tofiqU9XyHrFrrO+d+VI0vEF6wx8AFu26Vra1UcIUAvTkds6iYAJWkecK69f9EZwhYXek5nn29ibrnZqJbArPbbhdlkIQpNQzXYytP9/8sG2/EkIB0bXrFU+5IAGirndsT/C/LoYjO88/8W0f+Pup8wnGXM13m98towBbP4WDuHMSwBCeHu2iWDxdNq0jLZc+wknfu+mrkr6UZTMJHRqYDaBzfZG81E/MfgynUXGkBOuJC6h1iDjML3myGk7QQnhBLLzZZyy3HQgjxCXz3ud2z2K6/t4+L/cWYYtfvdhIOEX709/LLQGb+AwbN4x2rOgiTrSFAGVUzLW+YkO+bAOQz9Th+WOOiY41s5RTuMuU073XKoOMXzWWFP+HrsY7C2QFebC9p7Jr5Inos+yvmlNNeatUcrFE81KytjvUTbTjHoMuu9HKeRYbzrzzE5M8rBzQsbPxFF+LuoCpaLQ4dmPIcaAAAAAAAAA==;base64,
 ---
 
 ## Try a fluffy omelette for breakfast

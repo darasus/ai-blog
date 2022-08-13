@@ -20,8 +20,8 @@ intro: >-
   straightforward and once you get the hang of it, an easy routine to keep up. 
 
   Sourdough has numerous benefits over other kinds of bread. It is easier for your body to digest than white bread because it doesn’t have any gluten in it (gluten can be challenging for people with a sensitivity or intolerance). Sourdough doesn’t have any added sugars either; just natural sugars from the fermentation process. It also has more protein than standard breads, which means it keeps you feeling fuller for longer.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/sourdough-starter-how-to-make-your-own.png
+imageSrcBase64: data:UklGRgoEAABXRUJQVlA4IP4DAAAwFgCdASoyADIAPm0qkUckIiGhLBgLMIANiUAX7QVeCOyq7kz5/7tI/w34MdWj4N9nPMA1fn4Lys/ungD7PsjP9byTj5f/quMDvNf0n/Ucb74N6i39I/vn9E/cD+q/ST/Q+NP8w/u//e9wP+Xf1j/netj7Dv3A9jz9dgqRsvsVHz+3YQqQogbBNzJ5rmrfXkh5eupxGiDGoCie6jMcBNUJ67+uSIEDZt4E6pGKY/MRBee6DfW9A3CwDgAA/gPNDu9fCeMm7Aq11vB983Rx+35yFU+75mrF3W0dq+H32JKS/zAPvmb3H04G8LzuWCb7d4U66dPgsUudT4bCqUAoyVx55zLlZE5ZdQsc5+EBKETvj4u0qBPyu/hH10tpQiIz230LeiKcyeQrDhZucYYUradr27BIG23VyJJ6kI/lwO9sXh45pYhwwP7vgTylWi3v9iAp5+TsVU+m7Tv/sUsJBrdvfLSEKDR/57gOtDxz6KMZW04m6NSRsEeZ8MDvLio0V8oBkwHsGaDvcpPpr/nl3hCvcSsNc/30Ace05vyCoXVk2LcbBjK+6iQGy5sIFvad9s4m6p7l54trKy31p98gEfppiWrCc9qX9HdPBxpcczPkC923vbkvrY5MgkYwYpEKQGTt3ufpmaA8dNvnqiwoiD4E+gYr//MNNwclKkueaT+pPm/qkk1PNCkLbhN/EHbctTMlRbfBMQ+DWqABTVIB8Kpy3yGMZUjZR6am+P3Tz0LTsnEr2Xcn3f5P2OSSF4emBGyQKWpQXarNmSd3VjKxB4FdSNd57lEEDf8wdKC/OH7sMX57dTWBV/KtiP5dShJjBf96tecY+vYYyBnh3bDUFrXAhCNN1fHCePpcxRC6gtCImuo316ZL/ErcPPM+cSdHoF1td4yZ+vaIwWJViw9AMkg254/hxUsvfcJYHgJgKvkNXgr2rsBiSJAkbqI9OXSlnJXdHk1e1V95FMD4kXAca4DjMQGKALkC0J37VUUy6rhKjm3ob2uSeUm3MzEcO9i+BEOnH2e7aHCRyh7+3m6HvvnY7Hsh4Mbnn0//Le4X59eLBRprv90LReHUy2cTe3goldX8e9L3rlT5IMS2mgqLy5ru8A5baUcmbbpxqCdK8d2UyrGUOUr+ZueZ8Xefjv0/c/8WyANeAgvMXWZDY81a9OReu7qYf/9o46LJGLjU0Rk0FU2h+4aTNhWCjvdTWFnAFYbhQSCpv6JAV5VZY6Gfpm75TwKqjQSW8hGMV3YpkjQNdOAXrDd3EkQBeRYzlJ4GT7H/5V94ALL1IV3Va/h8BZ9l2XAhw+1aDdFUv/SKgAx+qXAdmgOGEJxruJ0sIh0F+/o6+Jjjn08Hmibc6wAAAA==;base64,
 ---
 
 ## What you’ll need

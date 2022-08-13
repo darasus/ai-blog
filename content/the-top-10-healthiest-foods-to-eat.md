@@ -20,8 +20,8 @@ intro: Keeping a balanced diet is essential for leading a healthy lifestyle. It
   what the right kind of healthy is and how to achieve it isn’t as hard as you
   might think. This article will teach you everything you need to know about
   eating healthily and getting the right balance of nutrients in your body.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-top-10-healthiest-foods-to-eat.png
+imageSrcBase64: data:UklGRugEAABXRUJQVlA4INwEAAAwGgCdASoyADIAPm0sk0YkIqGhLB1bMIANiWwvvcmUWx/XvlA6crc4xr7Gfz3mt/tnsA+2D1NukB5gP4//OP9h/Zvdx/m/909gH6k/5n3AP1E6wD0AP2d9Kb9nfgi/bL91PaE/8Vap5o/O3srlQo1O1T4t/Ov9rxpaZXGN/sPsz+QnQS9BewN+sfV79E0Sj9YBnsTj/LnRtIU0Ne1BxzvpT646fUfzsJDhBUw++826RTfexsz359fneP+yZirYL+jlVWxyMLS7cnvYG6J6C+NLmJXHzC5QgOTUAAD+8dagW2Bgsa+OTjhrfEBHFdxd0/Vej2P9h/BJcwrWMD+Qv2v8kp4GczsT2kuyTgltZNjvklYU9NG/+GcpUo7eLiyjqesG5zc3NutuRdzk3jW9eY842QxxsWhf1Yb4mfH9dha85SbilFo8GSL+G05UNUXA/5pYTs1SoyrZcFgXZcG8H/SPbKvsrtiv/0cFybOeJcSHonU4ObaM4XrNxhqH6dcuZP59Z4ZswuNwqdFz8u+f+hpn/xPlzv3rBXJI/LEIiiT/h2dXdD57rTx0r55sMMl1H47T+1Sb/XN9mW8pKTrQmKquI/IUgEoF8g0N9eUIn95V3e9nDibVJ7dk7PuaYtHfFtvMaFfBaAuVQ7Rcseq0foWcyME6fcJ4klCZ+SaOadkOcWlt1I3DctH/OaaGa+SHq94q2k+3/SrOMIJxZ3v7/43jpVWb/MiG22mHkU7nQCsk/KzHjSTqvkvMcf1YIHxz/NYsGywxy5sXylHfgAcdktOWJl4dNVuxIO/4NpqPOzQQWD6/uJbAA3OPHy5gbxepeevKgUEffmKcxNE//xzxgIjI2XnP/E3PJsPcuhKut53twxkyMVLwek+/fuJq7ldSa5beekC/SQ4y2Ixw+Q8aYID4L52wplfFwCRs415uXKDsu0L1NElHp4/uRxOppxp8WCh2hlWbxLOfcinqvv6/EbyKWJqayFuk4C43HC7mi+L3kTOXNhPcNoRMhiF1Lh2dljCgvnp4DE1XHjWtwjYXslkId1KapnCgVvoj0rEuYE05RbxRAHpjTcDOPmP7hGAb2Pu3pifjmUry8Lw2wdvJ7oTqpjIsm6+PhLJQVzr829gQymBRXPyIimZw3woTnIF89YjitLz3z4vXkbJeFS2CaeCUIfo33gSlGuKgs0O+/fXImKbjkLWgSFG7s4fF/nMTu/bxgfSUGisLO7snt3ZptwGN+qEfi9xn40r3EWUyXI82vIwoofI4UGzYFZlfD/NnLZwCV8fmuuCCYSBEvgV4PCf/zJ85SoPU1GLdOzdl+HYfhcZ2BvWgHjlj171DeYm8MDY+HmllKztKWXK/YEbEi/7BmB7J50f77/s+hKmmXMAUhmP0I+VnRZ4/iZk9K9I583m2Ho58DjXYcTjvis0aGP+fjz97pS7Q1IJgR66jK02hS5XJq1jUVTIPHY/VatEJvPQr/HsIP/cjDzhxBPQ/vbVmHCcjMBtFNgtJ8LckxxHb0uAsNavJcyksMC2S5R9B2KnjGk+jb5Df8fmrT+CPIy3siwTjbg6JjgLznzSmibrMnH1eKekpybPhuo20ybo7hYImMuRaOR1wxwVEpQ1F5AZ6rGx6b8E7w8poSmQn3lf+MxnEphr1MHhW9LAAAA==;base64,
 ---
 
 ## What Is a Balanced Diet?

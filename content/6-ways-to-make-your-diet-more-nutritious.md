@@ -19,8 +19,8 @@ intro: "Do you feel like your diet just isn’t cutting it? Maybe it’s time to
   that fats, proteins, and carbs all play an important role in your diet. But
   how do you actually make sure that your diet reflects those principles? Here
   are some tips and tricks on how you can make your diet more nutritious:"
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/6-ways-to-make-your-diet-more-nutritious.png
+imageSrcBase64: data:UklGRpIEAABXRUJQVlA4IIYEAACQFgCdASoyADIAPmkqj0WkIqEYDf58QAaEtgBdmd8A29S/Hf2Sqt/Z/w9zHpy67vqA/J36Aewh5t3qA/gH+V9QH6s/tV7TnqA9AD9qvQA9gD9r/Yi8sr9zvgd/u//H/cb2rqZd+I4bDQeI13xqB7gJVZjo9DbPb9Q+wX0oBSSLDo+tyD21AWT19o12ovAl4OqKtD+3kxSwb7lP3IjEHtM9jmfc24I+MaZXdVGTzxR+AtoYhRoJrh7Os09sPMAA/cxBulG69u2kSi1VrQ7YR9PkT6mUV98oyVff9fCJwuLleHfbh//khf0K/8uA0X4pHuL0pVG8AMKONFeZVWd73mtZ9w1m/oZML3yyk3Wlcf/o7zmJ39yapEmCb71ZWeIkfFAFsiH/+yBPlCH1dh58/kPxn6bPs/8P6G0ZdsFMJ03MRq5u430sC6ZLQJovtHvpxovHWVtR7Xw2giq88/kZ39Lm6jGyO7jz/725KFPuVgiT/63PvJ3+ekM5MbHrrX1uOUerr1k8vhwT4xp2zehf1ARjNXqLVcs+c14KBZvwmCI26r5KN85H2ZtlsKDbGTO2r3ABf+DWQzeA5P4NCnMnHbTzHvIaOGxmZe1ftK+Rd7sVsZwHav04ld82JzIMyCtwRtKOvFIazXSNI7ARgh89KGgWw8OJexaX5BD56FdgJNTZ4kbJvcG9tS3Vq44UG5dbtn3ZxKxouxEzLdUdYs++8GMdk6qHgwyH7Kd9/oVMdS7D0XYFHtCx3WLc/2KnhhG9Gp7uYYfLGb8h8r20IrpoIBq6QtfZQcZkDeo3rCJIbFOd4OeyzKdQLjWa6EmZKyTjPjLmhAfbI7X4LL3LcOb8OCdlID5hD/y5l9V8cXG3U5oBpY++Z5Yo6LWF4xi1xX+PHGo4p/Z/bW2nLWrOikSIjHvil9a/81h5w4Z1K65vTYDPpEhW/q7Y2h8cPnnk7juzuNpFdjaFzA4ealPzxfLdAgmR6/m1jEwth60BttmLv6+8wq/Zmn5wQmG0wr2ApxL/Ui6ohDQZDVtujimu1MeCBo86CSv8SCWTc5wvxxJ7Ty0UcapR07l2J30ROO2gtDya3FUTm1IOczvkgWgK47GCig2KlYniKEHLRVyUuhbgFQ/nxwzDB/O38WQAxFAUEG1iawxx/wlb/Ds/SCm3r/1Uww3RB0FbZysk9W5FVKCaR8lzVrAnLPT8gbDa1WTlYbO/2/Dk/KzkMA1ad2mM6stRlXRcEMYaLSxHZw1WTIHwKHbZKKDSb0nZYkseN9+EdbTX+PPkD2fI954IolUHqmgMqg17myBj5QRVFi/x8XAIpEUpOcefDIpXnOONa7sfyeLqgYACji9IylXotX+nOzvTXrQiyP94KYq5W21T6QFAPSPQQghYRjKxjKsQ3/rV719ucffDAtIeevr5hymCB6y2k1Mby9J++LroxJ//eCi7FCiPV1yf+pIokRwKp4sfRz/97FWdXdHrTKxwKzqygzIljaDbthQ6yjjL92CEq55qbDItWHZ4hBEOMrsKI0AytKZP4MZiogAAAAA=;base64,
 ---
 
 ## Eat breakfast
