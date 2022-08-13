@@ -18,8 +18,8 @@ intro: >-
   over time. 
 
   Investing even a small amount of money now can have a big impact on your long-term financial success. Time is your greatest ally when it comes to growing your money — the earlier you begin investing, the greater potential return you will see later in life. At Intrinzik we believe that everyone should learn about personal finance and invest responsibly for their future. With this article we want to give you some insights about why you should start investing now and what are the best ways to do it:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/why-you-should-start-investing-now.png
+imageSrcBase64: data:UklGRvQDAABXRUJQVlA4IOgDAAAQFACdASoyADIAPm0uk0YkIqGhLhSbiIANiWoAxcRANls6r+JvEGmZ1fD1AbaXzL/q9+zPvO6Y1vJ/7b+lVmAGo++4/5K7YPgdsb6keErGz/qvTo/wPNP9MewV+n//A/qfCZ/qAihrdMdlaO+bkhcQC+YWI2ZZfOP8sSjnV3kkITJfiffFqmgUqRWWnJoSZ8wl0sdJWVLcfBKDD4Rp3LG1w9ms/S1D8qcAAP5nJZt++B5SyHB2o/hzXK2NInDrL3GcSWc5LH96U1GipLZLB6ytLTzcf2B/WcHi6/iMB3xFPv+J33yA9NNG42/pO/38j/f6F+fub/SFrwISurKZf3o2xtCaErj2pnBo6i1k2cqqC/f3qczjl6ZAo8IMraHE681fdxhxsXO3cl+Xf/mn/aTxJhPBZUyr0xkyEblryidUigx3y0T4dapB5XS/lH2Ngj6RcLKa/qOME/4UNmj3Pq6/6XKOzTjeX3StdqUNb+80/sYgVHco4Y86hR7bwt/uoCD6yWxWrGPn/DhK5epj2ZJ6y3nMKBUY+3aYk8oIaIfvPJ0WOTsz0JlTWyfph9c+HXd+A8tz/t5l+zT6i2/qnh/8X+gJM6nO4YlV2+mrEb9vpsbbZP1tzjjys3YX3GdjqJIC/3NX5B98v9narPsA7ahMRcZR4tistXOs1xzZAM8uQ7vUJYpjDf/TXWpcx2cz/d8gUc8l+HRJ0EmjXqv9J8JG98DUjATM6IFk1KT1lFL/c8pEphHK7oVGMsAhuS/WxqQyprAgSjoKQIBxG3pH4jXFqpzt+ZmRfcrZAmO5QkS68I2pSH8WWRf6aw/2Lfxq5G5LMCn8nQ8anmSfjYbSluKoE722nghC4ACixWIq4aAzdRkfHdKLnthmVJBG9XE8TTxQR7Jm9zpGEiOUjMmKRlhTA10SBWZvZFli0OQpod4mvis8QN4Az9BFVVYWFqzvgNKyW+CUV6+GSQHzEu1dvpGKcKDUn2RARxj1fXTcGBAmGAT3kb25X9eTl+QszmnUAxQZ5+/W/X9nRMP9nRKlc/OSQ19++yAxpMO2y/IiPtSvDN0VXxzyLD8m3WV1ncSaKcBJypEzhlDgVGrC3J0l7CTme5+pl4cyvF05S/e76qqITMJ2pn5i1g4pEbnrq00e116I/xlNt6w8GEvJhUfvQY/h7Fyhg/6+eMHLRMuuZHCWtbSBnTGqguemd/bT7FktnvXcRY8QvUo/jJnM0I2iw322t441f2nvv//mn6flBn78txt4mLGL1ZppSePgsgzktuJ1c1mA0/LNCC4pVlqiugjzNDYfwAI/bxXF6vk4apY+ZRJxh/B2wAAA;base64,
 ---
 
 ## Why you should start investing now

@@ -22,8 +22,8 @@ intro: Being able to invest is one of the best things about being an adult. It
   right decision for you and your personal circumstances. This article covers
   everything you need to know about investing in stocks. If you need more detail
   or have specific questions that we haven’t covered here, please visit
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-ins-and-outs-of-investing-in-stocks.png
+imageSrcBase64: data:UklGRhAEAABXRUJQVlA4IAQEAABwEwCdASoyADIAPm0skkYkIiGhLhbccIANiWoNt24wCWLVfYNhGjyjQZw/9Y+o1/nPNA6x30APLW/Y74TPK7u637F0JHkyPRSDv0ymy3vjA4ru+Zjl8/rPR9Cf9L3Bv1P/5nYJ9HclzWV6fdiDJBlIp7RFrciJ+yv2t1aGLv9kKu8SDQp9qRpnhFkr2F3FmGPUKD05IZy22wuQ2YvqqtlfSTrsAAD++bzzigwFdbpxYVcJS0O9zlz0jDfjAuaiGLUZ1wgzzqVGpruPZ0/gftO+Z2B+6yQfz8/ct/wVCCLSkU3mXy1snEE20//yef82jYoLBrza8YsS4Wm/Ow14woN+8Dz9Rv17qY9hzSeIr/Euc2flrLRzD71Z+1zSHEwHykCc9n97w9VzEviOpe1jq/Hb40FT0kl9hjW+//dr+e7BnX/PGPhOWq74sD4LjTz+DKZwrrmH1xfG8EeA9S0qurO9FRi3rqwp+Q/0VOgKHMFsO2YiI/7bkmuI5rS+TBavtFqtfN05Y/cB/5li/eTbtOzHONCEMyRf4Rox5wGpvX9Kk2vBLnTks7W5Nn/+KD/T6v7CFV8OpSY2j+tPK0vuqj2fMoX0wgP+zmRXWR1b+XXKTi39hDVDti0gb4g0SsmkVUXeYSEytM6Bo/erlfpVtAuSRTABEqhg42Q/ZTSQgQ5jmjsaqzjDk8isev9QwZ50t57rQv9sdRj3fe+El1kjGIzu86yPnXIvSJuKC6ethLfiufrE3cIirFRT+50TfNKsy+bnX+nBEw4a85WDKsP3tsKJEshK77gSshHTmrfaO6ZNpvUHSemnNWwjD7jeUm1r30RnNvRuSo0ak69o+u+wGkLsJlc/UYKpqXCtDpHcH4ov4rIq/sjJq3kAML09m2CvPERz+Ui7zPMWfr+Pvvy6iBvQtpi0PvK1z5C/XuDj4jn7xFzZpP6bRpY8WnD5nr+aTBJZ+gdiwh9oI4qqftnlN1PO+Wv2UejvPgeBurJfTxb3H47qlKTAyc3wuDXZ7CUpV84OXph/VB3F9zUDJLhBqLkyt/IpVtyhffWR94/VLhYHNV377aZoJVZnZe/8VctN/erlrAPEiCPY50jSH3Npa31r97fhRTXU9yxtJ5Rz+TUPREBJeaXdjz3SMF9NfVMwPslNUeoY06mJBJED/CWsME3A87oEKL32xbP19wH00cUQg0S+t1OUCcgp+0F9sgHh+mtDuBf/1f7B37k87aB5oEVW/7ri7+Xo3Z0+lVdvWp5Zv9KoqBbf3BJ5dGTebr7JidnfTuJPK41oZwQSnRwGlAp+R23o6p7/n8QExbh+RLROyOt8TZN4c35svyNOhz8Om4GwqnrEZgZ0nXz4LWHeOG4ixQAAAA==;base64,
 ---
 
 ## What is stock investing?

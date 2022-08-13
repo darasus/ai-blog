@@ -20,8 +20,8 @@ intro: The stock market has been a great source of wealth creation for many
   were new to investing suffered significant losses when their investments
   tanked during that time. If you’re thinking about investing your money in
   stocks, here are 10 things you need to know before doing so.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/10-things-to-know-before-investing.png
+imageSrcBase64: data:UklGRuoDAABXRUJQVlA4IN4DAACwFACdASoyADIAPm0ylEckIyIhKhZq6IANiWIAziwGLHunnKvrIc6r1gHoAdLB+13ou3K/wP7+niL1ayhf2vxd/sHgDtT/0/eCON/0X/bbqr6D/+m42+gB/If7h/ofZG/mv+55XPoP/p+4P+p//C7BPoJ/tia5wzycj94fZSXeAAjjUW3eWxCc8bmrTwPDpI0trPdmZR5htybp/xPQv7TIWTVa8u1OQpQ/8fbAVQAA/voWn/posaPZcOPo8HaRiqmEI/4kC/5gPds4ty5z3CZzSqZmaP/6ANoFp88fPXuthr9d5qR/E4xfArFz+b/q7wozQfWu5xdIVP+vsBEdfiOo80Nx6Ui3I8GOfMnE7I8AYL0Nb6nWVQ4Qw6/ITSwiqME9BKdqVVXuf47rb6/4f85AehtuaPZYgEoup5SVaDpXlmN0FmxNBWPj46KnKsxPLd6EMnrL6tljoXxVh1jd5rn8kQCr2vCHLA8xQKeZVpgv3fDwiD26rjr8sWkj6HncgPgVbCum9R0h6vrNtskVwKsb9k/SyAVkNl13pRePlhPAU5lmgsNld6J4KRM6zeOrcE37DbsHLUJrqBTJ78Garn3C+j+PNPvfWXMItx9g0ikIHaDpWGnp4zS/49hSkIatam7f3j+/PP7NG89U5zNBuqeb/Rd6AI3C1aVZDczPqSxXDNzUJUyOMjvCODEbJafkWO8A+jCVlnCpRQ4//M/5pkTYbSWIJLmTlpkUc9oY7BTbgq0rZ9eelqu2FKnkUMmMDrIFCLGKIGoehZ85lpbr+11a0NqaReNpb+erMB+JeTXWnH3uMKMR1iGi/uARM7gOw4Bwb5knIe455U6tAxKS1gYuoorjfTM7ILrT482H9bc/U0Hv1VTH/ShOXqxP8OJv/uTA+h7/0B7p35FsUdl4SC95o+HJi23h1UUK4F6KhqAmwQth+kXNLZuOhgW5srAdlkEWPDJdC4dVg/nS/iFai1dZriJQ6ivtkX+EUI9coMkSirxM+TEd2Uyn7vFt7lHAe5Av4zxVXXuG7pcktN3He25JI3Xu/U3W95CHvntJMYph5UNvMQykUro38S8kGyaen0l1XRPOf5DhQJkEtbRADaOYaG9BVfq82hDsOfd3quD6rh39MVCBRyeG1SkRY/7opZHosMgX1fAL/i0MH6mXQIx8vv5lAg6nFiefGL2OJVcnu8P8r/FbYVv+OSc/sFvcYkzP137/DerraPnobzI5nRplTK6xOSoJBA2bS/GFp8FivNiYn/8NTN39f8ajrcJLcS6xP85aFT0jWsfR0m4sq2SivoHZmpaIxw4sGgAAAAA=;base64,
 ---
 
 ## Know what you’re investing in

@@ -18,8 +18,8 @@ intro: >-
   investing for your future, the better off you’ll be. 
 
   Working with as little as $10 per month or an initial investment of $100 per month, you can begin to invest for your future. While it’s not necessarily easy to become a successful investor (it does take time and effort), there are simple things you can do to get started on the right foot with minimum risk. Below are 10 investing tips for beginners that will help set you on the right path toward achieving great returns on your savings:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/10-investing-tips-for-beginners.png
+imageSrcBase64: data:UklGRn4DAABXRUJQVlA4IHIDAAAQEgCdASoyADIAPm0ulEckIiIhKhmaMIANiWoA01hpBofAcb5wzGRzP9QGcA/VH9Td8z6xD0AP2A6zPyo6w60SZAcgRwNmf3sO8B1ArobzW/l/gDdzeav/XelN9B+az579gj9ZOsf+0fsc/sAZG5izCIODWcnQ+vfH3XEs+dWe2c6M5NcbkvrtwDy1gGOsvqVyBd8/ygHQcRAA/q7sfDvmg1doUQcOXzHNXvi+v4ocruBZo/1jC8boeGRS/X6bUTGE+HP2soxKNEJRLeLWif/+hJ/wR1H21sikpD3Ae8y5//8OU/w5TyHmKRPzY7O/K/3X74jX4ubT5Gc3NXrUWwoy0MThZNEBMLRPAx+KuCtiElGf9WFhGnTkD2XFRbvQLmI4ECehIt28vSpHCvLxAZxYYtOFWVTrtsYTNl6wGelo1BmRjHjEnbjY5Cqb1pp/pmv9jvhDi5cxFg4RESfhO3A96LjNG5eyHLtGuq1pwzup8nVCl2hdbXcglrQcNzb3O+f63rq/g2+8LrCXcqfaGiJeIY9nJMMEcRd0rT6Hr4z+r+OSjNKWBiofQ1zRIZ9SwMaHrFdM7GnOhvEDDpHG+Fx85mHQZDqajfBCwOEhs/OICdck9P9Bo7KQjMPdPOm2xPcPhsS99Qcv+kMH5tkU8yj3rgWi0N/U9Zpke9YY+e6OT0R4cIUw8nAcN1Da65P4OcBD26tJaJWX+X0ZYeM4cN1LhZ29UZ+6j/8tUr2XxxGnn2LOF5yFnweHPgpEL2Xq4M/RW6q/TZDIg3R9zSC9v1gdZs/CJl9TEKLFsL1UYHe8GDJ05bocx8CaWKkD9ie6go5SVSaCq7LQUwRlYf1HNP4nca5wxfwn69tgZKhN7J/fzKhpLl8zdPrF8EOJRk2hTyh8Kq7H46DZ7O8BIhrQHNz4MOojZt2WpLbI71ntdPedAHBVo/GbUC1oZQ1zsFf3yjW7F+aGL8gsLyHy1vfi6ZLJad7QCU72J4bRty7T6txw8OT8PLu8qPSZ5tWjvyo11h7ZCqIcqb1/i3+k2cxXx+9kbnLQWpxtpjbENWA4ABxb7avJHafA3uyECeSU9+Z1s7ubzBaL6LLOnwb8ZpZgpTLoBh4qRM0j4T4yIkPgBwV/YSb/fMo8WZ52nfJ1fNLtF840yno8//N/JbaBFpvnhykAAAA=;base64,
 ---
 
 ## Diversification is key

@@ -22,8 +22,8 @@ intro: You can either love it or hate it. But investing is something that we all
   or $500 to invest as a beginner, there are lots of great places to put that
   money so that it can grow over time. The trick is knowing which investment
   options are best for you and your circumstances...
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/investing-for-beginners-where-to-start.png
+imageSrcBase64: data:UklGRkIEAABXRUJQVlA4IDYEAADwFwCdASoyADIAPm0ykUWkI6GWDVZkQAbEtgBcMdDBL9O/ID2O6n/YN7ANJbb/sfqN+271AP6B6N3q38VX9gPeW/tP6ge4Dybus39ET9gPSs/Wn4fP29/YD2e9W5T65ZzS0fzOgGci/nnfBakEjh+q/4DyVo3PPo/1/MH9Mb970a/1uJk/bGqrv+diiVG/1+3OYmT6Oc3+MvMyVhMfzKTif+DkT7F2vy3Ux0vaOr61naCHVf9rBcu9Lb1uMPgywcLCOJJhBeGlgAD+/JTKRO38Gz28b1brtGCz/Yl/V7PUHHa5Nr04pFslcmEp40ZByUIWNees1wKsrads/9dHwdY/FwjJ8axYHsYxcFbWu5eDiv/4eooZjKlY+Xg3//w2zKED4Lrij98X8ZK+FTfOH7+jq9DfcHYYWuCPYZnMK2mNXKhcHhJmGgP3fsrJchbOl/R/sYmxDwmaoYG5UXocsOmlEsYIVnAOL8AEPkhbnn7A7DQsnRvbMVWZrafDQ4lSuGUunHNxkN5QJCAQZYchKHl5hAX3d1FUdjr7FF64YZWf5PN/45V6v5qd/5KqKdUWD3v4avwxxQVSjNi0B8rQQ3yk1c3hle1qJdniL0/omawYkv9ROm1q6gpBNkpuT/6mn/gA6AoYER1cG1Wq9Y4O2To/jTkYR4NrA6fdBiKnAzGKBSTXECvFwFgY7crOtPiHmGxpq4ZiHaUS2kub3V9LalvKQ0PjLDeiTSL3I5374sPRTj4GRvTAWHbGDD88R+l1J319X6FZdpsghZ2beDgxZscg+qamzlAY0YtuLab6n7bguGxXYsNyFVOa+zgPSJT+Kp8MiExw+5tYnXmRIhuSVTjwyMwdzp5jhi+V0yauDjncko8CMus+8vO+cDofjt9nrSW1ekOyEc7mdJxr0HQSzZnJ1j0m75PGzc3zXRGxgPiuifpKo7oPnj1wZMM2upbpbz1CNHlb4898R1r3AYZl/AN9+KTRDQs8zue5rCMSlFlB9twvVVX0fnrZpfMZ27Tzuad/9s0x0/3l1UknvTSg7EDF8z7fK/2Tx/hm3rOYGdCGQomRHvaRZIGw4KNZw/yz6/mTK2KavnhQfh78YvH6DQ8ZBT4VwRcTw3vuRk3EWZwjd0BI/kz7Pf8XMxnxEVHmAGeG+RFTj2SjAJWjJ0CKIVOt9y/3j5ZSTMDriCEZMNfavVpoqYBk+nkruNFZw7SBGOp/MOlz4fpAD/W1DRXSkNseqPuiAYgyDxUEdb3tPOPOtRnZs+8XlXiqXn+/97ea8laJHxzJEqlZR9AtTxg7Tvwb0AsWuVgCwNk6M3dDAD5VeW6eBfhflV1wL/VF13udqqWp2GzlKEIQTT6f3Cosg4Fe9JNBVWHBulGm34i+gWVEG+ucTipq7855ecUp3AccvAWQUAO7mcmra1XGLVWh0rV59S4DZCgA;base64,
 ---
 
 ## What is investing?
