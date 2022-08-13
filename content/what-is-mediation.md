@@ -20,8 +20,8 @@ intro: >-
   it’s about finding peace so everyone can go forward with their lives. 
 
   Mediation has been used as an alternative to litigation for more than 2,500 years. The practice of mediation has continued to evolve over time and today there are many different types, including: family mediation, dispute resolution, community mediation, transformative mediation and collaborative law. However, they all have the same core elements and are intended to achieve the same goals: finding common ground between two parties in conflict; preserving personal relationships; and resolving problems constructively by using active listening techniques.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/what-is-mediation.png
+imageSrcBase64: data:UklGRjYDAABXRUJQVlA4ICoDAADwEACdASoyADIAPm0ukkckIiGhKhM9yIANiWwAyMuOgX+yfi77G1n/uX4UyY+sj6wPxniOWoAegB+mfWz/t16Ud4VaBIspGvf2v7Zvk/z8/vAqbXX6i/pKgmVp2qp3HA6QVs1Bi5IeVzkKyuukDhtosA9xFcyDomRlHcJM7C0ctquHHhzH0wGAOHaMVFVvqUgA/vvnool/RK5tROocHwMQq+oln9Rn4fthO/RgeXZsIWBJg+4jTzlgE5LVTU/wE14gb+/4a5d135el7tNbjiLKvP75qUff//uYVZXtr2mkwFn4h1sWGJKIv1RUP8H2Us2d4i3LltxMes3u5MEJQUhfdP9vWq/tR8gcHTikbnbbx6Wj1Sr/jnCHpFefPmcrHCDSdWPAVMVENvdpVKZ5ANqH+rOzLL2f+zv8Qy02epL5fxdvKv48lvHrfvYQPZf4ovgtjFF66jFAEsH2oqWwp16k9WPvM47LQlOEE0WJVq2oWMbQPjLYnAAbY9Cv3gHUFIzFS9/6jFZjywsrI2ApiAbaTUR8xpnkvjekW8LSNP++LfT/n4039tAkcF4pFeYj/ko7LLpznD/k+8iknd6kcApy4sCw0Fj23XXUFeI8oFV97jaB16W6FN4y7N2cK5xJ79Z/2NbdlVxL2NWK8Thqem1jwsLRWfJDmXcrED0NcBlitD6J5oFk0IppuFmvDvE79N+OBhAcG3ksEOIy0dN3WZUNdjUDqVwTrMs/ztjAQmzX+dVZisfcq+v+/Ls/M4a5yWWv6ynDm/iZHetHtU3YOdQmyNgJTL4Uhq9CvJJkas4810q3da+hHbvgzMZTDmjH6fy/SSQVYFiK6xPujujlxwv/A9wpu6tF7bCqe7rcJ4d3K0M4T/AJJo6tYqzEHBzES+MmVYhs+u9MZLsPcmMfqGfTD9LZQ2881w0hU/0lZrC4PjGDWbKknMYxlEkgDPM3FrXvlMdsWAIWB1lh4jEVbzhbd6lQTnTqzox4ACZbuqhzw/epjEW0O5b9u01CcdmbPXuFA4nWx4evZfCE5bviYO849WkpntxUIfX5e3KV4/1xjoEQWAbfkAMgAAA=;base64,
 ---
 
 ## Understanding the Basics of Mediation

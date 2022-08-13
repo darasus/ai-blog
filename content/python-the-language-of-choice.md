@@ -18,8 +18,8 @@ intro: >-
   for your next project. 
 
   There are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there’s every indication that Python will continue to grow in popularity for years to come.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-of-choice.png
+imageSrcBase64: data:UklGRg4DAABXRUJQVlA4IAIDAACQDwCdASoyADIAPm0ylUckIyIhKhmZcIANiWQA0ewg1gNsB5gP2A3YDrFuWA+EzygLuq+q8nx7D5Ot8Z4594O0vuhGObVfMU/5Plo+ffYE/lH9P6vHoUFvNZ+eeXIi17HFMnHLav0tWajJkMiHxKMFZsmby9roGn5wuZRjgJRrYJJLccYAAP7YkD+GogeMm1hfZ5F//6o2vJPi5kXrmpN+y0N7f7ldojhuqjs7Fpl3ghM795XheG4xsfP/RL0oyt/8W9bfrw3cOVfpnYFGqd3/+0s//qWN/wnKfv1ksL5nT7gfAZw3PiI+xumm5p7sQSs+LdLs586W/teJD/hk2T8IFRm1B409cxZH0AeR0I9jP7suCkAh8k8EqLe5blwMmKbz8XXWpySVMHrszqHQkCSdheFmS+f6zUBowMq1Z6fj7qC4769exHNh9uk7D60Q1vjaI7SqC/X3LPu62jvPbut+eUx/+AlWwhM6DwZQgJsFS4DhoN73IwHX//VIOmcGLg0Suqeyv/5jHsMWiNuUDoL5lN2CVYidvyJv5egf78+ydhs1/1Iu/7RNaphLdQjiYGrjsCnt8oFnP+nIYJDFt4MQojveOqW55SCZLP1Vj/wt8GUolHNOtilz6wLHLWTGme4q1prdxjejl8j/B9+H8HE5NGa9wiR3cLmPq+2gMD+mfKwfsL8eNvbOEL/e9+HhvVTXnmF/1MLCTBL0LCKGmp5PP/4Uo8pe/8M4dluJ5S98ZKsFNM0GfAtkSMVCU3xXuuNdSVRycgGshpAAFxwBODQDZ3Q2/jW3a0q9f+lv4ELAhGEYHuf07wfdSSRvwev+GnHT5QSIQLH9Fifcahf5DTe1uK1iDPk0i9xpXj68kbUVcQU4TFOqlyI1yhpSKPEJpGMB1b1p9zLeAJQncIF7TD958ncsy6CI5XGd3yC8T0qq9h4mC8lePgJbnlcEXJV3IZPPoHVdADVu5sAi6SnLWKrotYLN7keAfkO9xNkEoV9LynJLrYcJ0BiyywRQhj5pAAAAAA==;base64,
 ---
 
 ## What is Python?

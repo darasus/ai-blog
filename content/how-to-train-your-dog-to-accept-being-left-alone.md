@@ -20,8 +20,8 @@ intro: As much as we love our dogs, and vice versa, no one likes the dreaded
   like turning off the light as meaning that you won’t be coming back home
   tonight. They have instinctual fear responses that need to be addressed
   specifically with training and care before leaving them alone.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-accept-being-left-alone.png
+imageSrcBase64: data:UklGRswCAABXRUJQVlA4IMACAABQDwCdASoyADIAPm0ylEckIyIhKBQLUIANiWUAzYt/XOBeTzhvkB3g7QGQg/J/9J3sX7d6AdsNxg3YHqKf2j/Gendmveh/YD/lX9e6tn7d+ySJa4mxfVY/8VpYjbApLS1NWqPPvPv+YBh8lr78HvfejYokdV4nELbMZCBxmfBzuEkZgAD++jXFVhUN9hK+OdQe0M8aH4Zq/mUTmbJ9+oDHt2tl6e2wnbITNVwU0sRySIiSX7jHJfvslY2UdUp+fSiohNa/rabrybmBvPSNW4bfkAo01as4MrwGcH8ZN2j+ycF5l4+mglDYu4PC4buulSB90ZdYUkFR7kQVaAs1Lf9MeN9h6oo0s5sF7VxKDVmC7/Kg49vCwn5l0qqbocgnJyUQHOW/+InpCVq/TOCn44JuCvVjIHHXJD7Gf4rx1DtW95/C7C4TMYR3/woWp822AYBty6ApNUpLt5kxp+uhpD6LJbfiZocQxA376f5vKev1aLTiQ5RXfM2lhC3q8Xcu/1WPL1VQOxiachocPq12S5d9UsLAI/hX7Z7mVwN5nmWfxVe6+OcRB97P+4/WOxRVK0gJvpfp0cEe3zNjxiNyHAyUzU/L7oKqO+EgfUCX9DLnwO1P/QIrp43RuULL9yn/6Ef/ZZnyzsvnVVcuNmQG18WMU/a/Pigxtrsf9rjB4cukeb5an0jUrqATD/lKf4aJ4c8rt9t2gAiNgmy3jLJXfFeI/Pb+TNiy+Zet3uCi601A41UFUhZk8dIvt3mftAAZ9x2Bl1FZr4yWJlI08jymPXGz2o5Zw95HnfLJp1nP7mng9xI3/kiRfuzxib5o7eL9o+I/QeQu94fWc24oRojQ63l5rWNq8W9tHI5wOEQmyckDjV1K2Os8hRr/soDB2H5vSgN2v3Y6xjCRifUTgRMNaV42Z0ZDaMbXuTy1+Z8KwAAAAA==;base64,
 ---
 
 ## Set ground rules while you’re home

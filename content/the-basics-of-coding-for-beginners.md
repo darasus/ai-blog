@@ -20,8 +20,8 @@ intro: >-
   prior knowledge or not. 
 
   Coding is becoming one of the most important skills in today’s job market. Even if you don’t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis — often involving advanced software or artificial intelligence systems.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-basics-of-coding-for-beginners.png
+imageSrcBase64: data:UklGRuQCAABXRUJQVlA4INgCAACQDwCdASoyADIAPmkqkUWkIqGa/FwAQAaEsQBfPbkGb+Uk6vqA2wF2LbyVWZuU0PgPtm4BYWcdJid/03jCv5T/kvtA+Jr/I+2b2p/L3/C9wT+P/1H/e9dz0bv1gFrJS713e/x+MxCCHkKdK5bdNKOnhSK60YoIAQddlMxo8J5msHsUaw4AAP7SoTCHD9m5CE/5tOR2ZY8xV9BQ6p6O9faFj5k2Oa6TJPfk+yuZo/fzGRjsK7JzoVZ6LSiySCW4aI5cMtJrMkLgRmdYEJBujvxVJgLD7/+Lw2mlGebKwDzFP/u8W7/ww/vpeBq+G35PjUGkhsvn1MMiodWXlTQIFSfQsWf6xqpI/bPFCn17pJ9Qf/nu9nsa+xE2ScvrobpZcMmnFyOwbkS3vICIt/b9c74S0V36L/XAAGcYtBk6Qn/n0ZOb3pW4/8AqbbTjmHIvnJWxqdp4DqljXrQjD2MPfxkD3D+/pryO5DPpQr/2xSKPCxN86QC5uO0h5qaTnGABoVZgMn8E0X3Kc56Sejp69o9nDqXn/iUOjDOt4oOYcyn+fx5WQZiLtutM0Gn/JbF++HrmP5fJr//mLzHFTw7ntz+G8KvN3+YYw40Yt/iqXLa7bkal0wcgv+R373SdAb5gKkxsZv3wTjWb/R+Emuxsq27jSu2PoeHD1rp9X8nWMWGJD96n/56c3m/jHIsxPxcta2eFYPhA3w0a4GCsbZP9MO2Gs8FIeYqxdWdeIkTvivNMfZxvlw/V/8QConhDPGRsPm3ANv3QKF2bEkKC2xyVFZ0yiY3ykwbDQobRIbmWSWpt3tVI+Kc1D6NcrvYHYK8WZL9gq+QsIz/5Mb88L+iRs7I3/0kEIMemBqAlLFWUlM4pWqX/7/nOyTttBrUHbzmYFHxUjI7WESRVF3VUb01/QvHxPcekRM8pA/g/cBakxFLuizG2M4cPvzyo1VRr15cZ4+My5ZYg1RQAAA==;base64,
 ---
 
 ## What Is Coding?

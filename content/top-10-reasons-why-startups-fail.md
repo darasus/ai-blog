@@ -21,8 +21,8 @@ intro: >-
   Startup failure is an unfortunate but inevitable part of the startup process. Even if you have great ideas and the best team possible, not every company is going to succeed. In fact, according to research from Harvard Business School, about two-thirds of all startups fail within the first five years. However, that doesn’t mean that launching a startup is a risky venture that you should avoid at all costs.
 
   If you’re thinking about starting your own business and feel like your idea could be a profitable business venture in the long-term, read on to discover some common reasons why startups fail so that you can take measures to avoid those pitfalls in your business plan before it’s too late.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/top-10-reasons-why-startups-fail.png
+imageSrcBase64: data:UklGRoYDAABXRUJQVlA4IHoDAABwFACdASoyADIAPm0ukkYkIqGhLBqrMIANiWwAy5w0wbe5/jpzwG9kW/fTyuOO+cB+N/YA/Qj9LutB+qv9A9gH67f8P/Ae0R+qvue/VX2AP5t/eesA/VX2AP1A9VD/ZftD8Ef7J/tT8BH7Bf+VpXbY0Fpe+s+9vdb1lEydcpgHILj7k33I7cC6FmLQ05rlAiLfQ+SFqeF5F2XE0hBBpAtZKjjhOBcVDOwSY9DgAP70yWNNp8PUEcr8uSWkV1fed6YM0tf/8rcS6NiqBTHHqDqDLQl//5RB+XUff/g9torW7/3TjO0vZG1bG3nJ65kL3nCC2iBszSzygfNvZj/oxuh6F9hdM4AboVFL6Lj6Db/Mr7tbP4iLsGrLteXQMMlQNQT8f4ojBrRUhR+zwbf4IEwPVUaROXd9i0S2QGgwuG1T5LkqoPqDzq7e+yVcfUeFAgVcgW7qxcYwXh/l2CsBnNvtSZt7w08H1qVzDsWcwdaFa5VHjIroNO1h1MFRkB6GrFFcGcfdjvNEI33RhCCU784Bt+Xrpsg2Nn0Xf2H79irrguMP5qoStNNwdsB1CfmvB1Z6WDtXM1pgMncRt3bVmVG8LUdfZEhzI1B86glsA+oBBebDA730UctRso9SRDpmQqt8v3Ox2//zakwWLHOOutuePiKciZrg2iKvc70mR9yQL2brWP+lypj9pS6OwE1yRtLeX/rIRfkrO/L0Pu63b0pUa5P0Nj8jvjr8p1nlSs4nX78FBls3AHa5fp1mpf2LlFeCqkbuXTR7efPwtxVH703q+P+Kh0UOYnLfg9jXd2NuN195QXV/GbgTNhAwVMAA8rNfQrcuaMVJlQqCLVQZBE3K/5/afjhts/RiFNy4ecbmR/xt3O0hycm4toj/5sSq2T6q2WKh74oO6MRuf8AIDp/s1KBRu0wt9grYwvfMOKCFAuFPnyzKc0iNMDadekDFX7u2WwPG9yG28W4AcG0iK49uLRa6bSNrc5nHh+lG/OipYoX12R8+vyA+sOteImAYLbFeQOAHQHF5ipizAew7XFBaQsN98/jLWuZ0Msm+yYS7HNmll7Mqd5Hj7ZikL9wzaMcbk8kjuTkSJwXkvo7fkHsO5n8+e5Lg8Hx2eZsE1+WSglmA5gJOi9RTSFsavFyzigBRzIBymU7FLOX/ghMzx+OlMWb34oS9zuAAAA==;base64,
 ---
 
 ## Out of Pocket Money

@@ -18,8 +18,8 @@ intro: >-
   or jumping up to get snacks. 
 
   Luckily, it’s not hard to train your dog to stop begging at the table and other bad habits. They just take some patience and dedication to follow through on commands until your dog gets it. With these tips, you can crack down on those weird doggy habits and help them learn new things that will last a lifetime. Read on for advice on how to train your dog to stop begging at the table and other tricks as well as tricks from nutritionist Victoria SchENDler
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-not-beg-at-the-table.png
+imageSrcBase64: data:UklGRgIEAABXRUJQVlA4IPYDAAAwEwCdASoyADIAPmUmkEWkIiGY/VbYQAZEswBm3CsGiIzC62i9QG3M8wHnR6a5vP37Z2Gd9l/GnrgPTR+j+Q4WZQPADjT733wjzpefp/t+Xr6e9gj9af95wHf6mnB4bvVd3THKXnMv/S08FuHnI18Q//6m0CRozwXt7Qhf4flDj0wiNaO9qN1WR6EHCpUPbunt9AGqdAgY9bZ3pZMR1neotAAA/vx2p6bn7r+Ob22Kk251wwEjkVd9ivfjs3uC179uKCOEh9j1hElNiTd1jUhtVerWZC6AYIaUXql/8YHfmuknr+AYH4L/5BPWz8O//KZUGlP5laN2vchYoDe4B8+Vrr/LGkIsY8Q0vNZTEIlq8Ks9l/lFEeWmTUx/WNvRlLzA+MI73rppNQquHvaB//g1mum68aV17/tWjtvI9NlvUZLuZfQ3n4NLWudxsW3yw7wB4+UqSA1Ff5AhXKh448BtZbdsdQA3gu+R+iPE9kN6ohbYG3zEiBe9MqtiupNsB/7MyNBHwAY/ox8qzgWjUVmX/LIkChlelRzi/2n/bzjeD3Owsw475IZGM3b8sx5miwF4nLpmIBpqHLaIrTAnqLdFQcB5sGsxGpMFoPyN9kVQ8Rie5I366NpNOupF1ddphAUWjuF3U2hPFCfe0rxuo9QupVbRj2dxXPvZniDw8npDJhn9/nPvYLkv9VQ7gOyO85n+mM+0k7lAJsgvnEiZQihwt3StsG8/Un8TroEdE7ZO3QOiMmbdxMp1+fTbi09IFhdnc+xQdyXgP+gJ6EgCd9QY/DImj5gDdXPA6if0NkNzO5qBe2f8cAEygBsSfZI2aLRp+L9WYMop6+SvVcZ3MFQGRziVQUgmDdwlBFpmvSk8MzFdyV1uKmyhW/6q8JDhgvc2gZHvcq0r7hgBoEBI/j8b85JBgOu/gidcZDqHfpU6Cz6Dbkoh1UkrmjzAGVBLx0TbTACAmd/ekf+zPxNOwJZpJvy9uFgmJUkGEGSurMl3ZtHo5/yE1YDlYTwRpryE/bt2Z072cI8VENmhoftxuyCYI1ifIMPUWYiZHEZHSJE/lPl0fElN4UO0Ql3wx8Mk6naar88DpkZ8cZ4yEINK9hs6wTo9Fu3qmfX5zHLkCL4443vnX6f79aFS1kbB3+MtFmkr9+jD/TyclShM29KnR7MBlEpz5MiElVTmwMz07Lfb4BwUh05mofEZ5LhFCqsf2N7zUU5H5rmpYNl7OQ5GI83gNejv8ePmPDEHGg7q0Ypc7v086LlcdCZ1p1eZEg0YIeZEJ22ICsyNA9PvA2NY4EHl2TShXcBNjnWWjowF/KzbPurGWJ+xxJUPop5Iy2yjZZgR2AAAAAA=;base64,
 ---
 
 ## Establish rules and boundaries with your dog.

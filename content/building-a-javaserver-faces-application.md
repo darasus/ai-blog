@@ -20,8 +20,8 @@ intro: >-
   As we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements. 
 
   In this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/building-a-javaserver-faces-application.png
+imageSrcBase64: data:UklGRgAEAABXRUJQVlA4IPQDAACQEwCdASoyADIAPmUoj0WkIqEY/VdsQAZEsQBg5OBtz0XKAc4f1XDAfwD/IfqT72emm7z5Xdn0jogAF53GE3lW6kPIx/e96ey9xMcZHfvnUv7TyVfVHsE/q/1mRUjzGVgFLRVmLWkPm3vEiR+S+cV2VzJA/n/iPWUv9fsJTqUxu5q1IenUAeqaAWJyqMo7QYt773IeB1VOEE4kis1MIbgLE6px0pAA/OM/bpUN7i8fPeWL26C9RxWl9p1xb+v/U+u0rjV9P5nUaMnf7h2S3F6r1Z4DBZyD6d4WNQCvJbhf2bsXdsbW71HwXXhqPqemnOvcbXwhb4zP00aQUc6//ob5i/69r/5w/HHxP7Kbnzwb8aM8pm97K/U0htMIGtbwrY5cu8OZFNeJV88VA2l6M7yL5aH/12S/vibXuvQmPAYhrfyNtYeUs9i8q3uRcBN8WD5YQucWbjR+KFfpw+9LO811RhLtUF5+w4vh4IL+8eebnbPecT/07+yR81cwxvrxVtpydse2+V2U3exBmGvadZnl+n5tJhFuTMkXjLfqRDalm/xEio5bNJAKQ+7OUIeOwUzKz0RxfbsRzKGxbVCd0jwKQT+OEXNP8X+1KYihmdm1BJrO7HU/hPrvsr7Du5TwT1nKK8pY8PTRHCdaoXhMHD5Yj98AY6Z99ICJsEObBKCAH86huk2dDg4zmWtemkuxFsfpKOMU7W6Qq25+IDvlg1P1DPjWsX2eBQNLf9srZnP76hxuLP/AE19nijgkv3vv07298gueoAnO0Aj87OsWvyEHYphzWMUOHQH+5TzSTQjdVvBuMi9l9Oga6hCMMAJLHYy6/1cR/WsSkWKPm6FJ6tgg7YhrMeKJfnQKEB205e+I/NC8wiybOHf8can9F8UUMfNdefBZkJREUCmj1cA+2FKYNuqxr8T+ThRLhoRkEsufEnbTES3rvUYO8aBrgc4sJiDf9Fls/8+weisat4vHBfsnKIDGGgTCXHX1f10DU1Q66BqamYbO04qSmas+la0eAwSr/7GWudRXHQUUcUzE/BZyd0aRkdod1NRwr+waemGrXNVtS/bywk+RQdctVv5vAtRGTKKpx4NLNjRtVQSBHc3bm8UesLAQ4+PSSil1zjD0QM5dhLJSUmKUUNHeyTv2zTqJ6TAGF1ZVcEPaHD6T1tWh7NLUYMv8SVMCytEmEvK8vNTNCTkY4A9tz3MrtQbdmxerduBkkHyVjubsngduWm+/bgGRmN/dx7wiQ+Z0QfX9dS4ivxrB5PiVS5M8jioAS/dgZYp9e8HAnpw1Fm+v5w3G4XUt8jrRNm25iYD78cIkuqcbkRnLKUa0wrAQWF/BMtL+oAAA;base64,
 ---
 
 ## Creating a New JavaServer Faces Project in IntelliJ IDEA

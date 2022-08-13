@@ -21,8 +21,8 @@ intro: Natural language processing is the ability of a computer program to
   well as written words. It involves the techniques and algorithms related to
   natural language processing such Artificial Intelligence, Machine Learning,
   Computer Vision, Information Retrieval, and Computer Speech Recognition.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-natural-language-processing.png
+imageSrcBase64: data:UklGRhADAABXRUJQVlA4IAQDAABQEQCdASoyADIAPm0yk0akIyGhLBK7MIANiUAZvDRpAMLM9AF6ey1/8h8o0wQawDxTfjfdW6gXZTzKP7pqXf8l9x3xBf2nlf+YPYE/lX9Y/3/YH9If9jj1Nbgl0aH66hGJ4stwvgiv+O7fRqPKLZMCnagOZchfD7nYYaNWIHp60+Kyx0TVri5fNOF2CfOSA1m5OgAA/vz/Jb71//DMStxkniq6RoPXx2qfP783/JU55NPgqA5zG//uh76vKlvfkc70pipZYDomcbO7pGpYbAfhx/RM/7Va3SKduLXzRkSruqQhRqrYjdODMYLyRj+K+/J5/58lriV7NQ6b/xHgO4KmXRMz7uuNuirFLvosZWlnna5jvRYBeJ1XSpldMhwrsmT7oQMa4W5cSRtA9onDt9Gu2QuDNyrIS5fAZwlHQkeNr7644hfts4EL4Y+15/PQ1K05/hGM3xN8fovtPfoCUCo5kANP2Zx98FvfSSeiUcPrFy1wSFj1Zyr6c9BFJFvXKkgMhMLx7mNt39F8Dr/rbbCf5zcav9tpylodxg0v5m1jUng621sJtZPxwT151uVDp5JU1VBUYN8i/oF9C4yVydyAEPPwvL+V21lVP/V5XbKon8Gzfhp7oRfqGoS6Xam6fJamAiR2ISutTsoszdgqF+rVf+KH+q2n395id/RxV/o4cgwnDqBLj+OVuD25tK4lLjeCHkQJv8tWedThRIJTD1b6lp68QmHsnzcwepgW3bBJjnMz+tYnU63XLUuJ804jLBQS8gWtgsmN6tlOwA+Vx6xoR4XDXA1cWyyXmm/pdj73/PbSwo4HFW3kv9T6JjZjCe+bG5Ei8MiEz9JWD/N4WzdXC7lFYEzr8lMXA4PSLswPf0cgpdKS5QWoyZSRKFHU0w3wUDMN7rX7fd7pfDUUV5BpfAF7WDkbXKbPx1/JzfBremIg1oMxjPI89rtVvjW96gA9M70KtKMoPk42m9IxZp7OfFX1hKr3PJ7WPcZLt3HToJrIASIfo0XmB0GKAzwCVSuAAAAA;base64,
 ---
 
 ## What is Python used for in Natural Language Processing?

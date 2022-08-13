@@ -24,8 +24,8 @@ intro: >-
   There are pros and cons to any decision we make in life. Weighing up all the pros and cons of mediation will help you determine if the potential benefits outweigh the potential downsides of this dispute resolution technique. 
 
   Keeping in mind what might go wrong at mediation can help you identify weaknesses in your case and prepare accordingly. After reading this article, if you feel more confident about proceeding with mediation as your first course of action, we suggest having an attorney review your documents before signing on the dotted line.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-disadvantages-of-mediation.png
+imageSrcBase64: data:UklGRrwDAABXRUJQVlA4ILADAABQEwCdASoyADIAPm0wlEakIyIhLBgJmIANiWIAeNMnXg5yxQlvw7vTfMB+0HrgdEz1AG8wf4ytq9CD5JUAuwvA/+5eAPp08i39wx2/EBpPvbXnu/2Hpg/3nl0+hPYG/WX/fdeb9lfY8/Z0gUBDoOmPhDyqJMDswkHucqIR7AT4+afQZJwmpdmZHxAdfKk0bL6q48GsFwOXUrM9bvzkMNaYj4UAAP7nqsX5LLpFsaf/l5XrDOPJCHXm34yrXeXFX+VkBpthOZfJA+J2IFabNzE+x73Z4f4BuXTgUoud6Gcb6k2uJ/JML50EWKXm5w6/LvckVZ7DxCiRQWVj3//xz83P2z8jv3T+dsYC9f3pv88PpxHnL/88Pi8X8RKMLAfqGHQjFOFezk99C/VEcYUz1cvPAzhIudAHmz53Zss5JlZMyVoB0+JMLElJAn3BUpGj9IImlCmeozCmLSi/fMgxjwb9okTrAjxaYFrpNcTX9myt95bLYObxn/0vRyffFxj+QVZbw0bvyfSB9Pudw30i1EaVeTN4TkqH0T//Puq9WJiH+M2PV8XI2kdm+qT4yPG+YeTFLVTacazFsdl6YQLYrfpHv5/rRY7fuLtBZDscfLKB5HbL8G1wiDkxWnsrljm+3nNDSVrjkJbYPqgV85zVD9WOv5vJK68CVK6XVYRP5KtDEZjrVZiMmEhM/lZLbmjhep+9DS9gI929P1eYM5XgKu6RquVD6/HMeMA2HRPDes7o5wsyVhHZeehqkgSvMmDyKcwIEpg32nrl6todydbYLc1DqFD6b34QP3XJjl0/CnwJ+Cqjs77RGs/jD/8Zz5ffB2yJ1PuURNsf1G8Q9edyujujZIz857rqudr3dB9uSwolp4w/jU9OowgNaeTdm2PC9fF6QpDC+qdTpISa8JJ2dALGUpDygOs2uPEf/DgxAOyxX5OZUEInZXPpX4gHDpVhcD8NAgaa9TLPflwutUlRnGR/xNdr9PWvKjyf8N/kStJvJqLbp6IKNcG+umGs+QZbREQ8+Y+AbnY/jL4NQp3h7P3GnSeNPhR8zZXM7I9Q8HhvRkkTCK/Ypcly/tkhyhjvHaRQ0ueQ601+UFI3Mdtf/BSl8oHSTxRfcGj0U08CugVs+3mM/7IGs3EwNufASYKLo2huG2PiYS9EY0GE3yyzv+dJPa+AqpzSmiQftjm93Kdhy04N4oE1dyJ0sW7xuF7wwYNRbQpvl9E7kndkIe6qX1AP9Lw5/lX7guTntuYAAAAAAA==;base64,
 ---
 
 ## Mediation Has A Low Success Rate

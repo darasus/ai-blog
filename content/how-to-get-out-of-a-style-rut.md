@@ -19,8 +19,8 @@ intro: The risk of falling into a style rut is something we all have to deal
   on the same theme for several weeks in a row, everyone gets stuck in a rut now
   and again. Thankfully there are ways to get out of it and discover a new lease
   on your personal style once again.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-get-out-of-a-style-rut.png
+imageSrcBase64: data:UklGRtQDAABXRUJQVlA4IMgDAACwEwCdASoyADIAPm0ulEckIiIhLBVaaIANiUAZbAQQgBAOdv0zP0AOlO/3da5/CXzX8Fnj3134qjGX8LnHv7vvRVvng24O/8B9gHwZf5b8quYGjY/uP3K/Ej/v/4nzv/Pv/O9wX9S/932APRJOTazZYbCx+/OtffadAztf1hvxQFg/ERDe0VMN3SPFfgptzv0O1dQA1Fcm4y6sKxLZBKiSredecamgAP78d1R/a4/2h+dWnHuT24HF/9obcZI5ObmW01tmX1EA5nXKr/sHpg7neIu7//AfiX7AZUJI/Oydd7OKQ/Ps5MorHOONi+JzPCscoci9BuSxSQLg5D10vkS4CCse3+qZSXze//+zXEzUvgXkZSddrtBfP+LwVI3HLAR8uP24iDKTso2q+9dE3wHnL+kwEnxYSkWop7ivtorzDoAdj7bQ77SOwiFVOlzwNVcjBTIdtIy5wEWKSqbNXFsXlj9n2dxYmW+fElU0/+BmqUJUbWuYM4t1rLBit3zdMFghMOdXTk/s7hynk5HEwX9t9ilexeaOO0yIzIDk3/sHAf84/xTrsrwtTRw5/UvRd21Zx1W8TtwjzbXcOOhpdrsv1b8f8k5r33B0HYYdVe4fb/q+hTfAinzx5+y/k3MBjG6Nn843Co11/qsJGD+oljVump1psNqqivbjJMO5u1JvED2WDNlHX/4vM/9MsleMFnG3aZ+EfaQ+SP5Y/lxJyRmOSCW1oVoqrpZJlbUII0LrzvuOcbJCSlYY8jhAf/Mu0Em4q7Aj1wAzeZOp9dNQbysJtWK1y8aKIagKJQvhsJVlq+3rd2qF7j6A05up4jcObhTGBJ3zufNhVw62LK4sUf7RLuDcFAietGjweh2ZpZtzgXGeaowUbWC1yn+708gcKXdpFnOfkUUQpAXQqPTf7+AMCcEJlCMUuu9+5BxUgCVYzdnayuOkvvQTjhr1SFTVYHxlbfwSHfuNs2oXoIdd0rriXFTkOPgnZJW7D6PWwQp/Ay9JtGSz/fBwuA4l89qSSE00j8dn88l/mSH+ovPzadxi37zM8MLn1eHlm3g97MeNRnv/W72TtcUzkEm9/TWFmJZqk+9LUCyW0LkvYaNb13XxcfCfQ7JZ5yX9vpBrJZLGJjXwIY38/4hfFN+/FnDey/g4pd82wWZhOo5V6MpD7xgkVYonjE/f+hRKxNh//Tvii8YW2HDxfT/78sL1DjZe6z1VyvXmxj3W/h4FrxXNn/Gtl/1sU70yIg+kVtt7lOQkpo9BGN/LsMXMox0hzLErYBlZ50FvaewAAA==;base64,
 ---
 
 ## Change up your wardrobe

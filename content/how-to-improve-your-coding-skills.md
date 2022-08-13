@@ -18,8 +18,8 @@ intro: >-
   ways to improve your coding skills. 
 
   Coding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don’t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-improve-your-coding-skills.png
+imageSrcBase64: data:UklGRugDAABXRUJQVlA4INwDAABwFwCdASoyADIAPm00kkckIyGhKBv8AIANiWMAz/13u29wX/K6LPzAfrl+mfvQ6YpvLf+qr3T6z0IPkON9YQ+zf6D+ecQPtE/RvI3/kfyUy1D6H/hu/CwO+Z1/pfJV/qvdA/qvsQf0P/S/lH8oH67/sf77+UXs1+bf+R7gf8s/qv+//t3Zt/bz2Of2ACjiAO5Q7Dk23RBDKY5vQzOZUOqaafnNGgxdgkuM+g6dMCZffTHD6AYQLkGyCZILq1MYRPpZw3IAAP79vhfqU27SeXyNOcZjjoN1N8IhAbtnp4DbxvpCy4BrhtlFvwxjHPHTnPaqcL+4aivSmWtKo36Xi/IggQiULIYMWfyP3hcI1ZDgruw0D547pHm1r5o/x/M81Z2RihfiGGVfqAqJNEwHuzDJQMoBMLfliwXt8EUgt/GJ2hpWMDEhHfj81+ilpN24d7QfahKz64W8BG3kzvzCATpB5bnz4KZEmRf03n/Mjgr2Cv/6gDK3DbUXIve3XMcJKYm4g9lsS5xvPgjc+ulRZdNTPlMyxXpF8gybdLhX1se+zBzs906vf2srUB2+a/WUKpEfMESXcyV1907dE6LYyY0USIwMM5uYkfGXhIcMjkuBisg7ySgzYmHEjdve/gY79sc1/24PaOpDee0bOk3zr+VrJBJ6wiZIL8mXs354VymlnA9ENnteXjAH5aS5ffjto8HcWMh3Wa2pOjUe+QlubtlzbFz5N70NKpKmUraXpGoyfsvwk7U9SQfrJEEZU37MRiXHbCLIUZp3iiXEUtbk/PKrxhnr/NNXV3apTAm4lx+YM2ab7Fjrnv57fKH+B7JUtHSeM5W2VZqmau2nJd+yzOXjgbbXQN5uFdJCpyzFrf+TyJCaxwPSVoSfEr197vLZXRYKz7scjgcKd/ik/xY3yDa+wD/EeP6DmUfDlgg+Y/XHmFXWrp8H285R/pylLUzNo7/sH18q8avohBWLal0qrrSoXHzOYK3WWIyi+iS3kTgOmh5WsY1U03C3qga9qcsLhdN/1Xh2/X2SIPK5ldBva+Tfm6K1fWBOYZIwuovBCC1LePKIB4/4CfdUoCUSdq2zHM5hjSHXBWLLD1BYK4VI4D5wLfW1SP2J+ypYP6I/Zvt75y3qCGG+gLUBV5gAFgZmvXYk7uHfgAlfUoNiEHsU+j2S5/pmHo/MtZD6ZZ08p5fP8xKJ9Zg7Ru/T/CLHCgiyi6jLLgMcWvrJYG+MFLZHgSEWKtCuVoL1Yg3pI+W7TqETMOcWnNwPLUs7FLYljjL4v2dkXJN91VAAwGVKqQ2hPgidUj1N/srLvLkWAAAA;base64,
 ---
 
 ## Get to know the basics.

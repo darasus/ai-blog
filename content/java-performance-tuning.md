@@ -19,8 +19,8 @@ intro: >-
   can negatively impact performance. 
 
   We’ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application’s performance.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/java-performance-tuning.png
+imageSrcBase64: data:UklGRsoCAABXRUJQVlA4IL4CAAAQDQCdASoyADIAPm0ylUckIyIhJAwAgA2JZwDUrSI+LFDW8Y/6dxM8Q/c/4gNJBmIf0v/XeoNnt+nfYG/WTrFegB+sxWT/Ffi/P4Z0z0UyDL1i9KbTCnwEKkTS2ylDUvRiz2+7rxxCE1D73RlMPreYAAD+/tZen91FJUAM5pkjmYaQLsLb9Fu+8Rw4+9sv/5AH/s3P90lEyr8x6H4GxjupmVPLkuT+p4RV657R/uRMMtJn5sc0k3aRbrhIydk1Hpcd3Zy+JkzjPWWP2nlz9o/9H96zdMBxE2qxmATcwDSM//kpm5yav+n9l13+qYZ5UCNnlqwk/A33KNUF91D9c2MycMskR8WGsMZM/a/MuePmi4Y7UtoZGWCgesYJn/V+uAptkaUfjKT1oAUiPZ6vBz37GyFcVswx9n8oseISH11VZJ/luHlag8c63ZozJ7XyLrzkDeRmcdhkheJb6En/tf8Cz90+55DosmNYhkHviaXG0DVD9Hp3ybfxDMK4qCzmpv9/3YmA4NOEvB2UrnMpBsx1+Tai4f4wMpAKB3EoY4Y8zjI3rIbxzqE+O6VmfduRNgcY9GHVkuIkUDpBZheCCN3TIGHbIag5Zjk0WnoHHqyKUFGFPxxpVyddg6kubg0bY1Cww4BydeTNccls2L9xBypmPj25b+TP+q4jmr4ev9l1QELkGyK5jdh1c2Y/7Kco5GlBWNaiqSoA6/jW26dCboZqNcxAgsVFdaVgDGuOxUGRfzt589Wb5EaR4Oja0kpJniFc5Sqy/0CFY8Uj9hpEsPJ5Wbhg+DhcCxD36x4MpVY4sYwMulV+2h7ZBpF9Sfv4S7+qMWMMlX5Zw68ycaWq5vR/qwJArgv5cl/vdVufq0cyK+tN7Q6ZegA8G1vWFcds4ZIA2wnhEltjtagH+ZRAzo8zp84Bd5HXSIcgrmAAAAA=;base64,
 ---
 
 ## Measure Before You Tune

@@ -19,8 +19,8 @@ intro: >-
   in which you can use Python for database programming. 
 
   This blog post is part of our ongoing “Coding in CV” series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-database-programming.png
+imageSrcBase64: data:UklGRtYDAABXRUJQVlA4IMoDAAAQEgCdASoyADIAPm0uk0WkIqGY+4wAQAbEtABm+iih19p/IDncIG4AG298wH7IekB6j/yA9qDqKfQz/aP02/Yw/dv0t6Ptjy5hndp+teYHbH8ddC09kP+K8cX0P7Av5adiT0ZjCkPe6WS+RRx1vADiD8PhGBmohJVrccZuDK5h2T53obI4UnHfGk5vg2ONgo1Br+RbMxMZEAAA/vpdhjsmWGJxGNCntpMU0GhIm4jJKvwr8RTMmrXqsfVwxdm9xlJw3rYYfzYSJMgN4HhNewd2D7A0mjdONBCYrJVjH//IlnbIvFoL01IlffU1PqEf6HJRf8FIk/t1Pye8/+Bfc7onPy5PMljBFkWK7dTst5lNKeey50YSIOjO2DXKmXe+B5aU1a2RbrzFCKAbHootu93YAPtfGhYu2q+VjguJzzBsqFatYtt8+IggbhJPtjNfjqL0VyjUvJee2wKdR4OwL2+iIgvqEqxP1KOv50PnTq+LxXNiuPoy1Y0fSACPatixNKl+rur5s3A6qnzQ9q3D3bKbztopY9VkvGGpBWPyMPjx8KqosrkQ5jRSauefl4TW3PiuFFyf6MCstRRw3qk7nTscqsEie3xHfNikuiDZ57kiYBrz4b2jsEUAO0utnDGHw6yMxLIYvFz18xYhrp7//5nSeTe7C7wrYMI8amZn69Abdx3blGCxeq7LmLj9v8lqnl4QrEyvDrk6FUurtT3tXz9+Dq9/CPKv9sLfkF5wSeUkU0v/iJEcBar3fM8zbkumTmE4KVGWRhbEucoY2lFdalv9UNx3NQELhkGND+uaNkDsMgfHsqcstud13xUWtduGXE7ii4JJg+ixy6QYpJ5y/alhnCg5Qn1Dnh9L//6MCkyscpxzZIoh0+/Pz1lH9Cl7ASafPe0KWiXEQMa2jAW21PRgOUrG8UjxNzdn9d/4QiVkAsAdv/e+8tw2lPAtOX6M8J9N8I2AiUTxqE7aWc4fd9aalPt8P+DkVjQKXbKQQrLgPSXL9w3MIfgvw8RsuNQAkdmPGjkMhzCO19xM6OC2cVd0Yp7jxgxd/2BsD/LWD65L3KU3rhqIYSGMiRqeC+yrYptnZqL4acycUvTzSNW3VQE6dKPPlPuCicNBGWpiXd7ZKpmYC57GrUMSmoGRd+QJVX162HGrJW/1gVGTc3h3A/DEIt5nBS81lv68UPuHfC/vKATVVSbbma0JpJj52IlDIYoQlk94LP3JyiluO49kX8O+b+RqaSP81PU9mYR6d3YAUX1bpm4MKPqTbwzLlFNBUwNe1BGuAFIAAAAA;base64,
 ---
 
 ## What is Python?

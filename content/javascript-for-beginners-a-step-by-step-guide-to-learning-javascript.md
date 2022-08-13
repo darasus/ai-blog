@@ -22,8 +22,8 @@ intro: >-
   level. 
 
   Let this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it’s important to mastering the fundamentals of coding like variables and conditional statements, we’ll walk you through everything you need to know about getting started with this dynamic programming language.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png
+imageSrcBase64: data:UklGRvwDAABXRUJQVlA4IPADAAAwFQCdASoyADIAPmUqkUWkIqGZ/M1UQAZEsgBCKCT5Y9jnqA27PPb9GB1DXPs+yD5MF3W/VefR8A+ymUf+3+Mv+A8AdqvdCMXfcZwxPMy/y3Gw93eo5/N/+T/RfWj/y/K/9Gf8v3Bf1N/6P9k7VXo0/rMK9qxc92jMPynJIbkTFS6ESTkYHeS7KtizzVlPTpztTEFwJyHfswIPX3RvYpI0TGamroXTyWURnH1s+xCW8+wAAP79Ko0+ACVKkgrozB1MqVL2jeH3yr2so6sOwFjFhJ+WmoLJ51V+VmvsEC9n8hpdl4LYb/DNhJ6SCFn46sdI8PprD/IbEWtGE7PJCdj51m9yg0n/zmXQjxCGf//AdkVw7dLPXzH5jOnu8aTi5vWs60sfe3ZBEz0GfcYJ82LPkT0qZNToCuP8yn+QM23i9odr+6WKpNLnhUiR1N4WMK5Y8VAJdM6fO61ouy118oo1UmtC7k/4JNAwAuBRpYS88nFSLM286iaFXPf0OUifkJgxOX/0KdezQv/19TCoLBd+Rr4e959NUkQ09c3H0uXjcN7aIioJy3eNHmn70aHazIiDG+ph0nwtctTAvL1q/3olqKu3ZMcLAoai5mHX7Mi2amha2P/g7p/QE7EA+7R36cayyYYEoUMsvRsDObfiF5NwX+fJtPHjNK1hUa4OKSYBvZb9AYOn2+ejEHLxfH7kgqkCUkFE4cpsRtb2kCMEPtJH1R9n/OwXQGeDyiBcy7GrNaGJaUB09FUrPrI4Wre2nxwD2UfrGy+6fTSh/xmsy+sJaQo8P/4MPGy75eMmqoP8LBya95KnEmD92E6CW2O75uLjl4o9zNzlbA1ExfUSjtYjVa+5/X6o7NYmYz9CqnQf4H2PDhFaMwWMfr5j/Is5YB0uGx+tZ1s2rcXlpuVvY9J5t0AlJDxwzE1m3PSnfKhxFEjJ/dy5cnwQJIpm8+n/4zReEPmgmX/Qz8XZchkSL8pwXugEbNxXopLxxT/mVl+kjdNfbIyUgcGm+7flKcjvFhVFjLuEuoWrXgAiVqGbI9NFl8sJWE+r+1ibsoTGAJsb8xNLReWr7Rb68vd14xo/ld3ILY8Z8+wMzH7PrlR6whYC9dJyv/+Vo6nPu/i/xVSAxQS+6hwpXH1JgAFNrWczxp3Y2r/qTZCpfNC0IDO6TccBZTDH/9s2t5TmCX3yPr9lkw/rRVaCJrvS5WoanMNdJ+6QBehu8OxqMd8A7dtJlMp/fhpyNxlJ2hFeHVID/Bc/73NwuJwrkLfa9S+UvmUaKdvBU+DUSZ9kHmfl70q7W1TtE7iUki2Kr/cDsqaqkmO41vrT0TOHMJ0m9wqAAAAAAAA=;base64,
 ---
 
 ## What is Javascript?

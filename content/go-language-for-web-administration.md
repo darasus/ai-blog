@@ -20,8 +20,8 @@ intro: >-
   for information technology (IT) departments.
 
   There are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you’re interested in working as an administrator in a company’s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-web-administration.png
+imageSrcBase64: data:UklGRh4EAABXRUJQVlA4IBIEAACwFwCdASoyADIAPm0sk0akIiGhKBgNUIANiWoAeef3b8JfKssy/LeoDbFfzD/Gepf9gP1J98b0I7wh6AHlnftv8In+B/33pmXNrwZ6pPsNyEmTf5XbdPJR/fN4Ix7/oeMvtnPTPvaPAPNB/m/6X+OXx0f633Ae2X6K/7vuCfy7+s/9L1mfXd6PP7Mn83L3m/aXDochuUyD/CBVFdxGYe3P8n58WEwTA5MWQ0P1YULHcXNT8opFUQgwUeOa8fT3Hu6/cuZTrmAA/vhHxucHzRoevPEf87QnmTYc0ZkYFfkaEZjxNQG5DTmoganHKnxfiVL2XY084V//+JC+JC+BiLbe/g+fo7CeyQEf//zBGgsuDen8tRaJMNsd5weP+rXRfbXAQClqBcrutnyME5lD/r/ld57klYpp+GDp+4l/ulgoKCA6+lamv81YQ+c3//ow5Ih/GdXvLDXvbd6/6dtoUyrHqJvb/hr/hNpmO5gj9MPDllLs34ac3PhgvzkihTDfc1JLPAd69724M+MVDENF4Jnlpk2II8/+XM8MGUk9YPNE5KjSfc5H3w0ZuTCQsPM5x4nfaYooxlI07fvHOI/y8N5I8z1Y47XieHx6LaY0rbFk7vxj3OTzPpj+wR5yGJdIZZe48iElCoCxgHn4HfWepWGLlIQSlV56tSPS5JhK0rjHNmckSeTsswS2Drs3lLtDX5so4CH2KP0HEy/e11zI9u3Vw/mW1t2f6LGYigEf7l8OvZN67rIjYBYg08VHE8XCcEYd8IyeTuDpu3fjPy57+TkIf9+XwCEbbp3HrP6Xcvbdwvh3BEMnAmujiwRkyDkNpbxAAWCgEhwHoJfPK9uFKHJe/sb0J9zrV3cKftngaYEyeQGmvd/TxfTlCnlDCa5WdrtlcUwtqBur+kjbGliIHj+M92hGXsQLeYVomW5j700LGNf1kv9NI/xFJehX12Tr9XyKfCaIWcVgFgBZd+CJdigv+A8mIbcwNE1aZxZKbee7j0YEUVt8YBYH6m8190sGLl56qWj0EjOslaXRGBmV3J3PtBd+YcE9UIg/WV97UBDUArLu1EfOfWhkU/A6Er7YG6Er4IalK7Yi6hk/AFlCVvp25IIvzwf23exk9KwD3VZfsY9G+/KBt+W0u0lFI1Wr9/RatMlFNrlFsdRYwPanZgVOVujdVBv+1oDrO57x1dGm/BVlAKzj+U2ImZGqw/uoVO/OS90E8m/Ym6j3QTPy8C7OU6VFfrnfv4lfj2d0ONKpUEZQawh0OMWcFCfIGr4zxWkwjbQ6tfw+fOoqmXjQ14rju/oX54N8dGIhRaZccKYlCOkNjgjlj3d/+vKzJmUlAareTamEPUm33JnQZusDzRTJlcFs8mjYbaDfcFLK5c/HgAAA;base64,
 ---
 
 ## What is Go?

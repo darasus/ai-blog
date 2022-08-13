@@ -23,8 +23,8 @@ intro: >-
   Mediation is not just for divorce — this neutral third party helps people with any kind of dispute find solutions that work for them and avoid going to court or ending their relationship.
 
   Mediation is one of the oldest dispute resolution methods on record; it probably existed even before the invention of formal courts. Keep reading and learn more about mediation, its history, and how it can help you resolve conflicts at work or in your personal life.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-history-of-mediation.png
+imageSrcBase64: data:UklGRlYEAABXRUJQVlA4IEoEAACwFQCdASoyADIAPm0wlUckIqIhKBQLUIANiWMAxJQSSnGMHrW493pD0AOltrrz7z0Mnhn2myiH4zM173JxX+ed4D/AegHeF/k3+542+OL/Yfar9Jn8Z/zP8P+WPtc+e/+l7gf8s/pX+17Bn7M+y7+25i0caXAb14SyndP52fCAhK9rZaKsQQ0up/XvLbtcvsWHIPq9NqcaZzojfgda4OyYYg8RFuhAAt1kI7RxmSfLhKlsoq+rQAD+/Hx4oSc08ywBLZ85qAO1Xv4Uw/qVi8wE/Gw7mkkP3lH3WnztaDY4bqEaFjcJqboUg27+Y94LUUCuoOc4rJXawBl1ChpFFIqTxA13avGhOLkqfB/IfbZOJqEEH7p2wtTAzXbl3Lm5henRNdQBGqa1QFxMQsFddlzZ53n+KbtTDPgdgWjKJUBfTLR7allfxXOs1Z3VpbFYmLVvDx43xk/5isMrjYQ84mOTEQhT5Ndhbz79xdqm+WMIlPWwgsVSwMaVrGpF+ijCK194WQRPF1SKLVfR9BNfIlwwTHacj1seJnRgyE8o4OMV/T7lMRkXJWNDSC0Hqc9i3+gS1E00lbhuX+w/lsDea1hfj+g+NVxyhKDNW+RTGM7F/CZSVJQsZl/NOd4f1KfJLLYIK0y54+yRcOSGbvpyrYmSI+2F3E0+dt2wwUawnJe/6qggL2OT2RW3PFBfJ7+HfABUaz0hMJBAjbaTUe26Yfd3N67BV6OYL96EQKB6n2eY2q+W67+BmCSGWqd3y8DbP296yqlCnicDeHUMW6aVteeZFxflBkZly6/SN+uKC0CUNsV968Qe9z6sPXbaZbjTos0/531qmMDfF8KWFVyvaybKY7vPoO6cvRQykWweeST84x7O8287/GKSFReXxBJAlIsNyH1NgMvT50Ba60mRiqhbv23VeaU2FWBziv5Gb/C0vKsKZv75G9/yxaXQQtgqO5lCDU89XVgZ82znsJY8PS1UO+OrkC+BOZTNqMJSpd4lf3L+A7F4f8XOEkw7UQTIBBt9DT930evlxWPKaf/77Ov4F9w4MHhngXnW9iuSDevdqvmTNKMeLxouxuiil4HnhlPYD/7FiAquIn/+En265uXzOAL/mBo/hIn8UzRmsE5mr1VorHze2TwgEIffsR0rV1Wkv/nAvjaHTTTv3rI3AXnM54g0Q0kJIzIF0NyNrzspxSXJ1JxrxyYCIlpHWdXCsa0wlKyvgT/EOgZpXvuIoZSESv75xAFX/hvgt6WDJzrOvzRJsgQJcm2jEmvy/jPZTjYdz2K1uPOSpmbOHSiEAkqBdCMUoVCB9c5uTdX2wozGkr9uNTRTM52uWSCB2gcL0nmf48KfMm9WI6lXpOZwAAYmJ7i71c5AnvMZEjxCfy7dAR/ydGOWrsh+Ult/B4YjGU+iTY9fz92TgwdN0K5Tum6HV1wrGaFDgA0DQKI1S9KqRHcOllNsz631oAA=;base64,
 ---
 
 ## What is Mediation?

@@ -20,8 +20,8 @@ intro: >-
   Even though JavaFX is a very powerful library, it doesn’t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls – there were a few controls which didn’t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).
 
   If you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/creating-a-javafx-user-interface.png
+imageSrcBase64: data:UklGRogCAABXRUJQVlA4IHwCAADwDACdASoyADIAPm0ylUekIyIhKBgKAIANiUAaa7G38/0283OAbc/n1fQBvFe8w/6KtgSIJtJzwYYL3Nz4P+d5Qfpz2Bv1V6w4rtrN1ttH5TzAV+by1UX321nhnc9OgSi1bIJplRRd+I26nVhlZWCAAP7eTNvNyBXXf/jEmXHBKkTL39cAdzPYIZftXQD47C1lDiUFizK1lSoV2FIhy7w973qPd2qdPLHX8q28SP+F7VG2J8/4XZqa/Ir3cbf9icxzLZ6yBQbf+k2f4myv7t6q9+W44g1feyrbh416J0FG2vaT0hz3JOrq3zWXnTj/xJf7yd2+p128pLk/vUW/vn4v50n/v6E5yNg/F8eNL/kw7e2Zuo6Ts0cbxpqBz4h5AeiRFhve5ov7JuP/v+SIhakswAU7aXND8lgyjqdpQC6exEM+gkrLLMvjgPRf4L59MU2KUuKgUHycyOA80deM59bQ55P67DOwdDUz3YakfkPhqIYW1PdNzj+DYkUkoZJKjJ8vqWlAxJT5zdEQB+/H+ZQTGm6+tuwhUG9L0pCntv3XFaIaWuqwUvcvIGUcAL0EOymqLb1Zu7bPp+3ndb9VL3LNQAH7dZt6LYudnH+NG0bPKH3rsLni2J4HmA2kiXAN6fsWfjuUlwAIdlL+ZPUlLvdLqL7eIQ8a1XXl2V/ksRHvCXxwfzV3rWel25jpsVkOviM4ad2HFmjkqjLydf1VjYgSwuyL9jp+v/vShHceseyixXNKyNo/+5CEau33ZuXZ/796ktzXLNkp/NkfEMBXceEIQCHw4+O2fRxhbrDupUVYsFdJPgQfLobeqsYhns5H6wlHTtf4EVGLjAAAAAA=;base64,
 ---
 
 ## Creating a JavaFX User Interface: The Basics

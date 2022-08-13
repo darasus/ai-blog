@@ -20,8 +20,8 @@ intro: >-
   is all about and why it’s useful. 
 
   We often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question – can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/inheritance-in-java.png
+imageSrcBase64: data:UklGRiwEAABXRUJQVlA4ICAEAADwFgCdASoyADIAPm0ukkWkIqGWDAbMQAbEsQBmKtdHbs+hOOuz9B/APd1zbfQi5oX9sdYp/mHqn/qB1rVdZ/OfxJ6yXylIZo8/tOcm/s35AcL/xv+jf5/wFtSDuX6Ef5v/hPzA5sOYp/Wf+B/YPYn/x/Lv9JewP/K/6v/wuBu/YAgeLHz+rtbaNhaX0zfZNqPkwiuikIgQEjNVq9ELaL+Z8CFzpJ8YOifVD0aBuRVF782AW152AsBWUwmzFy8k4AAA/v6suGmnU+mQAVipm6Kd2xVKmorb4nTcc4OsD3/EUhAXOsyWGoQLjNCcetrkOnqqIDjY/OK97EeWA7L9P8OU5uf60Ib2UGXR18ZyP6pCYgeaXsdj87r0bSiHTgv/2Yh/w7n+52Rtb6+/8QrgINetSrJ8U1m4gUjxfiNOyzIbzf+VdlPqgbX/0ref/HrULnC3y1pP8ajfRQH3TjYbM1OHdfowrNgPDjzYa6uHNZfT3+9BP/eNyKcCf+2gZUyjHfHcXFULL8onjTsb8KW3zMMwLfLjDeKh/tT5sxfGQfznCnFwKDJjxp+5/9REiEvt4xFgc2j2xLhz4dn/dTsKCL7WP1T1bQxfe/ypJaT1m6vtT+oq/RiFxo6cRfwX9nToDja2fux+ZD+YE0OTYH21ov7DN9T3R+a9DcihcjTseES0bbLT9BJdU2DppGXrx+DVpPWAA6G1CiQCyB6Pf81/pv39vCNZSFQQMC1nvjoy/3+/2h97QmTNvd9jKQJ//9q/eEeip6a/ma/37pRnSmh80hToft1Xyw98UKWfvowe4lXB0++4ZTrxhZIU7dHSbj22wIhnsIgB4rOKVIo7aC+Txfc4twdxvt+KesDZPHXn77l6vVP9HEAez4njZMaHOnmJAxRSSbayDv6VcPr5SB34KlijhwKbRno2APaQLBej6KXsAykFoeW0XwL2F8hH5E1JvCeD2J5/Qt6nZVaCgpoEwM+j1SzGY8p2eQryRforPYnqUwzUquKQECXSTEHH2GNvdDhJ0GnoNmpUaGFyaG7/ppabbv0lgOa6d+ATxmFtmKJHYeMRRBVe9W1Br3mvB2qtqo+VN6vCnP9iNVin1YaP0p8+Z4mSKNwFma1EWD7iRNtdoZuwZqOrZP1VFCuRxOOY5fwdJA1j/OhB/0xj8mLVrbmEek+7JPL+iXRlcMkNoru9b5Tru6tS4q8Eih/fd2nmpQdflWavROxBA+6ngtgCvfhE6VvY1zh7Tv2e5JwCRwB7Rqkb0ZZu9jF1aX51ELbLE3TjDGBUuNT9aY10lumDxqGpdwAGmkPiRUhjp2RZig864e0b5zrh7RdvoDyxL772cr5xKKGXYyvuKWbfaLb7rr66ze32MOSRSFQjndGCCNqXhoN9uB3R8j40HD8aPCiVoAA=;base64,
 ---
 
 ## Why Use Inheritance?

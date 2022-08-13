@@ -21,8 +21,8 @@ intro: Web scraping is the practice of extracting data from websites. In this
   individually. Luckily for you, Python is a perfect language for getting
   started with web scraping! This blog will cover why you should learn Python
   for web scraping and offer useful resources to get started learning it.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-web-scraping.png
+imageSrcBase64: data:UklGRtADAABXRUJQVlA4IMQDAABQFACdASoyADIAPm0ykkckIyGhLBK8AIANiWQAw6A1rduqRCtsd5jfOS9GO8W7y5XLn0Tn2PBp9h9z8Xf6B4A7Rn9i/JTJX/5PjA+kH+S85TWHP8H/pvSO/0fKn87f9b3Bf5h/Vv9z2Ff2A9jb9REEIk1Qp4H9r/eohNd8oEjk6WhZN2g+PF88jPK8Do1ofps4RDxDZQr6tHYWT50OvfdlQp5gZBT14kCtpDAA/vz/TZFr6WmZJ+f1bp/Bs8qkophZ63+KrMVlEzLUeYoEMzlY5l4Gc+A+zkr//QrQPJG3OVij/ub565tktJ2Wynh9rZyQE9LU6jdNlq+WK5HnLj5fo/x8/CB9BjNmKQD4pG6rSO2/bRKP0rIj7onTbnvJsYFWsuIt+i2cQOeqeTtqpO51lhTc8svzOtQ15g4t6zOmOTLweY35T4nYmg8jZHiOBDFcSohMJP//IzlhGMWJDynv7DvItk/xQ+1srmr0gXmXrrr+UMBlpf3gIxl2yCiaRwTuB4cpWsyILAFNofipJPS596l9937ZOYMdQGy0+xCarVhBaRKj74yIsuHecrmG6RMSnYAuciBMXOnRYQ+psyCG/XfpASiHFGdcASQZtZb/t8vfsESRduA83Y4ghNMOGeXkA8HUYLXpoZIps6Cs2YStZky375qhQxyy3Yy2f5qDrwfZaQ9H7by0albnYPQhOyEe3gAzb/V0Y6k7IyBr3Ym7oxTHy04DPd0iID6as6pplTlazg2am85/iM0KtB+GDBqIFZ/RP9SZhTR8vPmOMMNkhtkNNsH4rAG/q1wQ8pEce56ErmJMp7cA/Vt80giEe63tSuY74DzPlkgC78jrT7yfu28x54WzGAAAf3XY7HyuxhUw4z9/fAWKUhMPP7+0pvqwlY/M8shWX//io9L5USFQOhg/7BsxCC3Q1ORO4+fvzB3zZz3evyv1duVE9tPB9n6fGdOxQDmk8Q0NrCUc2H/qJT5IxM1mMnbAeALpbFsVO7VPjjraFW0fmZrrsoz8Jljdn/Gmxox8QPaIpf20/9zZQ6B9Px6vDCxi+6L7+yt2DuEvNzKxBR57ZxCtkRzwpE8OkOp0qe8U4YXjL396LwV04HD71Y5T62eXkGxuMWpSUrt3Qib/atL/L2NJ2vXLzjLLIm+6le8eqoEAbc/5m4+7BQT6plwIray2AHAWXpwGitybwZsZH/NAU9la1PvMivvLXSbWHpdfavFWXCPWI2QSWhrlpBekAV+dO8e/RgA7q3b7SPJ4XSZW7ad3qQ+98rierwAA;base64,
 ---
 
 ## Why learn Python for Web Scraping?

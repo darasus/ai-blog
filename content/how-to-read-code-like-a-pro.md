@@ -19,8 +19,8 @@ intro: >-
   nuances that are beyond your current understanding. 
 
   Reading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-read-code-like-a-pro.png
+imageSrcBase64: data:UklGRpwDAABXRUJQVlA4IJADAACQFACdASoyADIAPm0qk0ckIiGhKhZsWIANiWUA1HE/+qOfV0wCPofofQg+Q/XvJx4an7B4A+knyJ/1XeCOMf03/AeClga8zn/M8bf3H7AH8i/nH/H/svuh/xH69+bX53/5nuBfzT+09WH9p/ZE/Vw/ZRtFGjRZEi4hGk4wADx3/vRY7rcngR+tyxcs1irsV3wCsAv+HcLru0Cbkt/ePmUtevGWpI09CN9/VORoAAD+/keHfTXblVWMnqGLZBwIbDRpZt/nllae//SvIkLBnK9hC7Dcs4Et3yJc7XTPYICty3f4NlcTtletkMd/2lh/Dn/PJDAzUZP2u1czEt6ZiN6eXcd/R80rPnOBUlra68uJP+9yBQQAaNJUKvWbotzDmc7vjalqTssKW8OHxN5GAop4Xwmv6iuz2sVpREWSvsmt/BAiiRnNMXI6zBSSC8Sss1UR42GcVZ7NWx6XQPpOv/RkN2qWtpCwTt4ffj/h0tPQGJeNu2NLbra/bMsmLFyNbAqqZMQ0MReQXH9eZfM3N37sk4x6ACGSds9vYFhX6/M7IGAcn/1G+Rd2nP4C2T14kCW50b55efsopKuLd4PMhCXuVf2eB4d71k25Xx32xooUye7Pe+PkbMtcqtRTbufLj3JOxs/SXr1utyBOxKXkstcG8nlPdiafnd6B/ci2c3bQn1rnGqSOe3kk8bJcbCfqM13VhJm9x+GvXST07RubrXm8V+CZ/DtbLmqJUY4sDXwZNP4h1RN4HloDOazIzrOKd3NRPAn3yb8LypzbcesuNes+rD9tLlKX34suxHj9EbRSdMRP2rWnUaunH6ELwBGPjHHFkUatfT6zQJgdqkPrsD8kUsmeENg502y1Csq2yNU2TS89KaGGllH86eoWalRhumhz5BjXqyTfM5tfMpzV47qXS+3+3uFOzeintobJtQ8o5iJitMJbQjtmXbu+tnRU6bM1BBiIWTijNMYh8OXiiIpiFYLpG3Bpj9W89XzXpJB05oPKk2MuhylAsp8C5pqQHxSkkxvI1t6fXcfKf1LyTQP/DW+T69zfWJaN8VB+dgtHmKpgd04D8ncwcUdbiUwap1IHzUzC4ayMGB9S1gsS78RmX60WdejQJXUxpxPtM92o5z7mOZ9G7FuftWoBz8IkXSupkn/749Tiw9wiUR/ID44ARnug7vVkNTebB6m5iFT7WJdTuz7e9Tv8Q88ysxoOAAA=;base64,
 ---
 
 ## Don’t Be Disappointed By What You See

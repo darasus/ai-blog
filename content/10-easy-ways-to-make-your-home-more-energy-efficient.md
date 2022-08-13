@@ -17,8 +17,8 @@ intro: >-
   no one wants to feel like they’re drowning in bills every month. 
 
   To that end, everyone could probably stand to tighten their belts a little bit when it comes to their day-to-day expenses; after all, there are several small things we can do on a daily basis that will collectively add up and help us save money in the long run. In this blog post, we’ll cover everything you need to know about energy efficiency at home and how you can start saving money by making your house more efficient today!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/10-easy-ways-to-make-your-home-more-energy-efficient.png
+imageSrcBase64: data:UklGRiQEAABXRUJQVlA4IBgEAAAwEwCdASoyADIAPm0skEWkIqGXDJcYQAbEswBdmegqaeu+624HmA85L0W7yJvLldtVO/vePvvg7W+6E1k76vET9SPM//zvpp/lvCgoAfcB7I/9P/5fM39R+wT+tXRAJiQdLTu4kZQBwlO4idvlMde5jaiFfWDgbW3BSOCZ+II7air4XFKJKqpwgCCiVVnHVfIxhGAx4YJBl5NhJKoPwZHJGAAA/v7/YnyL813FbiemQa17fZKo/rprl/uYe6ClcpZSJqsBCLE7KMEGp9coz4GOchiL0CIFv3bRf5jH2S6igGLilk9Do+OsfLbyYST3LoQJFjZtLZ/6EUD/kT5XFWTatJTpl3DkKcA+1p/6nVD1V7PcipMUFZWnCM5PCTKTDa/r/NFeSKMJw7G8Dz1LFj1H6MjZbZTt7vzfc7spTFmz3hTqv3B5tqQ5rIhDVoO8II8yg/E8yoLw8PmmEfJUlV97whf1AmZQRF7Py3+/YByevbZudPSP9zPO5GzC6womB3P+Haua4I5luJ1D2t2XlOPuWl+R9WvQj8axu7CndqauW0hXBT6XbsEsL9+bZY1GPuH3j/UJ6m1w7lY/WVK3uoYKRjMW/ubfeO2kH124PQUI2E4MGE8xDWv9PHzTb68Acmonga+A62VSjSDvHAY4aa47eojICIZFX2y+yw3XaXqxc9KYlIJ6tyy8hEXN8NtBB6xQiVVWt9SfKms7qTYPOYVEmi+2bv0L3bdUEnKInogh5Dr6wruTg9AnRoQ1oGjj3APz4OduC8O3Eheooztfi5fyyLYdD4XYFhCQba3GBcpK8v2H9/Pzx4wb74Izhn7q1PEGEPBN5xk4UZyejhlmgsXJVKcvgUrABNFMH4zuGBLfRGkOCUwdCA54V/RSrKVrf3yQ4bNwNyXYfjs9ObGf/oPV5FQJCt5Pfo1HsyroQo/BJRZZU8fgnIQmcN6eR5XHM4wSIPnw2kn6ZMl4AYzoKPLxy+VTV4L+XUZ6mYlWj8naHx/AtzdW8EMRG2lSlJxociHcnFC/XY01mQKnGf8P3/wba1laMw3AZirEOi6/miOgtV88Ini0b8JLWCPvJA/gQwq+riwj8jT1NTHjzfuA98vhciadJjkMMKl3JhSundqVj9WYB7NiH7YvEX0P9kgFxhgzNp298i9489W4e2Tjglm1yzaepahsJQXRfchYEMCH8/lG4jif2eDuRWTGPCH+pDg/qc7WhewZvwf8CkI8xeWKySTFRtmYnNwlahQrltlLs07Ajfj/OpX2h3/J7Pc45zfxWuThJ7La/Eo6aVzdRBblBiAYv7jzDqjGUIiDJedBJraBvFLBixZAg+ZZEiEKJC62iFxchBvyACRKajHHFZ73OZ0J8XLLAAwZ4GyHIBypoTAQQkyoh4AA;base64,
 ---
 
 ## How To Make Your Home More Energy Efficient

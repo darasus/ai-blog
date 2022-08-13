@@ -20,8 +20,8 @@ intro: >-
   If you are a programmer or planning to become one, it’s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.
 
   In this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-web-development.png
+imageSrcBase64: data:UklGRrwDAABXRUJQVlA4ILADAABQFACdASoyADIAPm0qkkakIiGhLBVdmIANiUAYoY0f2fnnudtnz3mmO7zJXPv2Dnyu/HsPk9/zP45aJf+9fkZwYnE/5t/nPzA8xb9V/FXmMf8RrCP9U/5f2AfDV/sfbN7aPn7/p+4R/Mf6p/v+BkUlU1WOGpV9QHGtAlwxGek9B9D6uoJQi5qDwmo2Qo2jMWxdPMphYp9G5XrxNbn/oMTOrG+OTHBeOggZNmAA/vtMY//CtdgflavG/bvgb//bXX8kfttBhdczjUpOsPIHo0jSOVvl1Otd3iwOt8oc94B0hi8iBtjvNyjscHq5sQhU8hA1yZqc8Uw7mz+UYJCaFqsX5n11IrtrCS+H2Tma6KT96o/Me+o4Lm7NU9qjMe11adOCplJjL76jk7vUeSIw20FpGCH/kj0oQ3HmQi1Tv+lwrpk5VobYVtN7v92u+kjaSDieatGGdk/5iJvS7DX3jNNE27uJBj1mF22J6/5Ag6dfgsYogKD3+BO0d1/k+2+3/+Wo/wnjNTZbR8UhrHLgtl+K3oAA1MdgMN++LNFAKPh6XeI9zXTOmx6uAEErt/qaHqrfGQ1IKk8z4sdlSfEG71z3Fua7UWuetNZYd/KOvug+T/2i2W7SqFBpjjCqiCxOD855zKPNIX91kafEcy6ebyD2MlI72iGS8Q9jC3+i+vGmlsVzFpUb6qT4iSKj2GTHRxgrDXQCxDREWHuDd6pEeyQXnX73uLWmveoBvI5VcMX/i9P6h0osOOkQNo36/2UKBHb40gbm9Kq0+/DgYj/3x6XM2rrm/lhf29Z+PgMTbc9YBAFzajmlzo/wUngvajzQeTVEqKMZUtPs+2fLIHqlLEag4i9cp2fPSKLoVmdCLkg96sv3uis2Nj6nIf3izGi20E6LA06cgTP8u7gKYvZ0f4XRL8jNKQmaQqDBaEwXr6E3vmNQsHBgFY/GEs3jZ9AhI8YdWNbO8oLYw48v4i5HWQfh0YcblgL1ax61RFCguxv0TMIO/ef0oXM0vswXn0lnrqlv49M+0mDyJz/hT+WOoTudAyAMF2t7BHQyQFjv2N8oDL4TQHWU601HbL2rqZ0pQjkwO8QaumFAWIzDqSM0nWKXV1fuqMXDnRZWmK1//Qht5Yowla0808W8UAHgjZWjfBumvzNYqaEdXX0MeAh87Pkb7cKvza1WYiox/wUS1Nzgs6OW4WaQZrIR+vwaejDPBsZiU4L8UlOIOr/pVbYyjKBmcqCF3/gSbyABMWttAAAAAA==;base64,
 ---
 
 ## What is Python?

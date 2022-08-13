@@ -20,8 +20,8 @@ intro: >-
   Coding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn’t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn’t feel like a burdensome chore. 
 
   If you’re ready to begin exploring the wonderful world of Python coding, read on to learn more.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-an-introduction.png
+imageSrcBase64: data:UklGRuoDAABXRUJQVlA4IN4DAAAQFgCdASoyADIAPm0skkakIiGhMBIM+IANiWQAzfAy0kJdIQG2t54f+5foBrAHoAfrl1nPlHXfT9659jyx7C7gFe3/Z/yd/KrUW/1/eCOMf03vAZBv/AedP+A8AaY7/YP9d6OH+f5X/lD/df374CP5N/Tv+L14PRkIZZYoh257eR6fjRqAxOUmehFPiiYRXQwCJ5ul4/Sa4RjrBSNrm/RDDHE+Gs0IyKGCnzeusyjNikvM4vZA97rFcAD+/uIJ+/n3s3vpfg3boMHh++BjmIqFn/HofV/qt/ueYzsgLah1uqR326+7Jf/520PrEB7GTxicf/xXxX7wdYUqg1FC251PQ+FHkz0kK7LEf1oUyq/Daz1az8b8CItoGOQTyndnGENBAJjP7j2lINQdp58yrAhFXtPDv48PT66If58E1j1DvKtMzxqLbT31H/m/Y87kxtFhoWtPMbnQqDzttV8rV3QbDMlsfnaD7fNKoQQIya0sfNXlOxQmVEbakyN+RBYi3yS7nn5u+YOqd+LBzfGChwDIbJqj79lQ7/9/BKeZCLph4KzxAaXWbsg/oK/x2EmDoimc0iefOQw9iriA+WXusEWwMgB83tVn+/5QF/DnPHmyD/974uMm3DNX1VIm/O/yxSCl+2Hu8GvzGcRYjKGH0Kjqg44MnaQiMXTbNYs6lNN5JUp38Yo//vr2N3xjBKL2pShdQJBFqyo8lFCEfExB38etr5q4xwkx0ir8iFLmDTjp7iWR1TvzOjszpLjMi78XHXaqyBcW0kq1jirXmsjdPU888qb97b86tkGTn/AH1XqISLMkJ215yQvzxuVuuMNbsbB96mzDbzQZjPSfF0oYbc3Dggb19z1rfyCnzxJHgGLAH0mPI/IDuR/K+uoFJ9eSXDLFakyX7VFkSe2h1KlaH4mOYQ4fBysPwAgPWw2UrhgeE7xtWlHyA1oNmMOJUwOUCbaD5UJgcP2nqnNT8VCJigh85mwKFVQOC2cBlk1Su/Q86erczvEkynzRiWiEoH4O+MqmCMivSpeikAqXAO9aUEt14mirvf/7sN1H4NlZ+hgHRk5tkIf4fhMVz1dgdxtGbA0VYAzBnNtP5RN5v/61/llGRx/macDsqOcqKY1wDfhJO3d+7H8P3z+Z3Orgzl2iRrh9fnhkmJKjpC7Ub3/a8BQuflAsTYIgOk9v84yN0vFRrBEGSF9H31L3X9mSWI/KCek00LFVCO/KdWdZdpVfjn7bxz98Lx59+yiviWdufTJ+exRM4hiVtVJGZ8ghCAoGpmjdQxnYbOlRZyVgPcNrkrEeplFnewam9o0PQAAAAAA=;base64,
 ---
 
 ## What is Python?

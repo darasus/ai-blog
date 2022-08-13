@@ -20,8 +20,8 @@ intro: >-
   barking or cries whenever you leave the house. 
 
   There are many reasons why dogs bark, but one thing is certain – excessive barking can be annoying and stressful for both dogs and their owners. Fortunately, there are ways to train your dog not to bark so frequently and effectively. Read on to discover how you can curb your dog’s excessive barking quickly and easily!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-not-to-bark-excessively.png
+imageSrcBase64: data:UklGRtQDAABXRUJQVlA4IMgDAACQEQCdASoyADIAPm0skEYkIqGhMBgLAIANiWwAzQQYQ3fPcbB/N6IMByu36ze4DzAfsB6tfSAf0n0WfUx9ADy1/Y+/dH0prnhz66Tt8HX23xWAHzAa7D4V50P8B6b+cX6L/5/uD/rB6QHr5DfaaH5xKobswwI6U6EY2/IqbxnHUA5cSg80jC3rHU7mV2d//cNsBkj3gAD+9Wef83eHtBftaOF5kS7oHt3+afLz2o2/q7Q5/ZqXE/U+/t0BD4VMJg7YcS8lx/V5aORW+P0FfR9s5KsjIebcZ3j02Oecf/5kFp+ok/pDTVV//uHed+uVD9f+w74TJV8Nn/ccdeX15fvsh8P5zx1j3kS1XRz4e6lV5Dlt2v3+sG4iu6jtPP/kg8J8yUmcLgLXwb8wKC2DQ6T8DBvrHPfUOd752BDadM1wsAyh++mO9It/giw3H0/7/Wu7n8W/cMQWgLGzsrb0dN+fjnu+1MrygjyOIkGatKA+o2uY3WGrNvA7Jb5CtFk8wX/LlCGpfbxoFEzJLa0JBQCB6l2qIKmJVtf9B5igH3u97kyrmZK2JDv9t+e0AHZO45P6967TW4jWslDf/xd85/2QV3NgKU8MniBtEafktJ9IyngdatRdF7s/ULP2nkXDQoTFEdnUUGD6h02IrGu+7VmV6Dbp4uVUtujSNrZDhvk2jbwMxdPTIL3+Ym1XxWGHZW1FoT6YuduF49HQd6CpjMylDiH0UnQiuJXPfaojCiXe7AUK+U6lXe36JgH13r12/qI3l/sxKp87OlOTW3z1rguoi3kkrFO8/e4J1DjIQ3v2xm1TXm0obL6CJkWeUfEoWuX+gb/iArJuedhNv8Kopa8UQksRpmb0cd2S9SODqJeFBzWMVjWFNcvRgbXitD2M4sLcMyfKzH/mJFMcglTS4d3ILHXGyy+neyhqA1DU3B+AT99GmqlHj5KgqjTzP4y+JxqDF0xefsqnR6rXvdJURaw4fLEHjdCVPAFoANtq6HdDJ5kaLJWYcN/WbIs9/uLTdX+Fuo9qR4x+Bh1sIK6FAPOk4xuyhlmyX432S09cOtN61ZfByijzWBPHMc6FDNydoMqVlwsGivu0IASqB6Oz69svTZcBchkrlgZvJD3d3wvcS+TsBcqEJgXP+IpFN6hZWlOwaDU41JJAbe9hCA+A/tuRHaHIG7NMb0uYqDO7xHIanGuJ2Dcrn/DzlAgQsTbZHdfSNQu3k5tPwkvEvuFnxJjg5983rRbftcvzjd0diCr5ijCFRm8ARdb+VehYLPaAzXBMWmlOAAAAAA==;base64,
 ---
 
 ## What Causes Dogs To Bark Excessively?

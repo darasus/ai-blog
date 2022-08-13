@@ -21,8 +21,8 @@ intro: >-
   It’s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it’s still going strong. There are many good reasons for this, but one of the most important is that Java doesn’t try to be everything to everyone. Its scope is limited, but its potential is vast.
 
   This article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/introduction-to-java.png
+imageSrcBase64: data:UklGRgoDAABXRUJQVlA4IP4CAAAwDgCdASoyADIAPm0wlUckIyIhKhZqMIANiWQvvcn3lJ0FPD/IB1mOXucA6AG8QegB+wHWNtORFAUe6we8wn0n7ApVQ73QX8iT5LmTrkR7b0MhUE9xo+g26j5rZCruhlelehN3as30j/PzTJuGcs85+O5tszhcKFnbeADv0WLP+CAxYn1JO4GHBHO+WN/THUuszLKgtH/+xm3nbSdX7zegP+LH/+2h7CK6SdN9zKPXKt039/fooWEYgmcSmbsFnWzvcrbmFwg5vRu01fjK3TajoDHI9i3EvawmCB0tdeSV+9NG8xSWvg7U0mu5rS54kQvkEMGUWaxm6QFL4TCIZLVlspgEx2qm/aL3Hw4v9jAqf7qqX/9B9uLQtCVFYDD+6koCwQRdXEY6Bbbfp/eLgGa76WiWS99di/GDd32/3XmVPsV4QB9ZW7R3yXyZ8uFoTABxqgdvpHrtBGQSfQmxlMtgMHwobI4cz/yTBtXDdly1xs2x05wEwhf2u7qxFN801bQX8B/15kqWik0e9VTC+UMQ2AaC5XW/JZTjitcxacbi9qV7xWPc+SCvd1+t0aQiS8mqy7rUO9+YK+F1lfsY1qsbP6t9h6tlpfXP37iPjxlTPcQj1UcpJO7duUc2UFSnqgn3nX2X4VyLvRavuKY7OuL/1PChNmXBeko6VCwlZ764Jp2CWwupQw/oMtAn3wfZuo+I00F4dzTJpQ7oAMN0J20J8+/OkcBvutV+wMvwcd/i4ave9nHoTQCoqwiL46g88FU9bxf85C/1axlnjfZjJtXWH001TroRQFJn78O/p0U4JM1mNeF0VrP8E47Y0qFdDFh5P+YOFnpS1Jht+bqE+702wA8PpboXVJmasyrxcXbV6AkI6AHKjt5gZE9CCGB+xc8n6Csr7t8D++indiAKSHAB/OPIj3WR7lr4k8d0DQz0vypgWziYBeVkJOq0A1Q10bBW3H8ta7gzV8nICvl5cA8lIJYibdXnA9Oec8NnitmBhqV925kxZjUtW9igAAAA;base64,
 ---
 
 ## Why is Java Still Relevant After 25 Years?

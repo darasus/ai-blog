@@ -18,8 +18,8 @@ intro: >-
   how in order to land the job you want. 
 
   If you’re interested in becoming a software programmer and exploring new career opportunities, it’s important that you choose the right programming language from the get-go. The demand for skilled programmers is growing rapidly, so by choosing the right programming language now, you can set yourself up for success later on. Read on to learn more about Go programming and its potential as an object-oriented programming language.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-object-oriented-programming.png
+imageSrcBase64: data:UklGRq4DAABXRUJQVlA4IKIDAACwEgCdASoyADIAPm0skkYkIqGhLBgMyIANiWwAd+P47zSrV15A2ddP/VewDbbeZP9vvWn9FPQ9+op6AH6zem37HtZV6Gv0EfU7o3Gv+Y79TUCvMuIGjm9UX+x/63l3+kPYA/WzrRIFHy/Z8ObfrmalV+TSRVRF+YWWN0pB/XuWJCqbFFtRCLK9l12taE7Rhj+ORG4BbhBQpXnB3VPQAAD++QposmZ1W/DB0+NKCA0fMpR8vtAjXkcngG///+XieGPfQDlfpS8yb/+ujCphdDQGXSXeNQZWjZpKdDizKkjwGTkwSpTiBklFT3g6/pIPSm6ziR1eZTEuWTY6jaOfj36gPozrM6OWKtwXx8r54JYJ9F8ijHhe8i2vU74pama2NaidwHMTeq5ICWdum7+6CfsLxr7T758dl4/qnLoEX3GfBniySjdq0vXpD2cYliOm1tJ3umWDnpZsvrh+JU84pQjmXCwbtHnGPgUoYbH+SeJ1fqqqZpkCyGuDPUf7x7WZ6AmUTrmntJ2uz+j/yi2UHts1uAlcVANYXEP9uI9C7m+tccpuX7tzSufq3zna+fxghKMXF8yhi3cMEcvJMevUATJbE90Vst/UnfayYhLr2kyuc6eqoM3TriEIGM++Aw4QgTBW84VnjY6f/4CzO8gfM7jskjq+d+SnffDIsyjVifTP8izFgjW9yMlR2lGvemw2OaEAH1wrBRtfIxKSnzNjNKfCpNdDtvTajOp1V0kjKNtxPW+HybeZIf9jWbgiLHBlqHE1/lYQqEJH+gE/gSRW9Z8DjjiUQll4fwRYAytPMPWn5lerkV2Htzy2oEQp/vFrfTiSH4lA5WtJE42e5qW2Wq0Ivs+iCjkEqT9+uqg52w+fdPuK1GDcVf1uKvyEDOEAXWRNHXt1cePwQdPlcQE/pIZT/TRjk9PmtThP/IYloxb5w6xvve9mvTFgPYw3mEej/urR+V+LzTTOB3OWGUrnHyUi/Cam30O1RWt6dqK1yOa5KwJ1y5Yzivv+KJ3Aj+MPBR3+xVfYxXPTz/8yKqq8yhbk+5Gak6cUr5wQt0Q1yuKMz8/OfnHYaL/uX3FLFyDT7FwOVoPQMYC0mit0uj/NEvnBOV43BHpHOPI2T342NSCw0AmgC354efCCA4Kg+pZo9ZcJ90Ba8zdMUcGtTdkr9aJKKlNO1bJZbJOoc4TTTaGCVqL/c45G6ZU7NkVXYqGaim+tJg8vQDUAFM05IadaYb3QAAA=;base64,
 ---
 
 ## What is Go?

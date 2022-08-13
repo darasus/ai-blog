@@ -20,8 +20,8 @@ intro: >-
   Go is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It’s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding. 
 
   In this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-gui-programming.png
+imageSrcBase64: data:UklGRjYDAABXRUJQVlA4ICoDAADwEACdASoyADIAPm0yk0ekIqGhJA0ggA2JZQDVHaA2wHP/2TRMV3s2Pl/mOEHak/rWSX/O/8j+YHCa8z3iBo0f879wH0V/uv/Z8oPy7/2/cF/k/9P/5XASfsyc2++rdmBmciqchD13EVeMUNXbintFkLwv0b2Sfh+tgxna3m+zpdWy54QEsGh138dTyZ194AAA/vzY+JP0Z11UD3m/alnL//qLt0hQkk9pFTE/5Udb/tH8Ivvsz9F2E10cY+Y4HZK09b5P55SdC6CxXYJjS4ViDkNoLdgHeiSpDq//5n8ROjgNskvaWk0OlQjpnSvMJR1/8EHQ9G1kb3qsEp1xqHcnJoDlNG/8DHgZdfnuyUtX2J8y3/R9mmIghLM73yKWd0B4Izf1a0f7N48o/7hBXj/8fOD3TuClz5HrtiyB7ZEq1nXCLp//xx0WO3h2lLf6mlZYlo/E4EQ8jro5SzEGGN8Yp/F60UsIj/vRqmoELlQe+qKWgoPnt7HG1LjepfaNU+57I7yAwO5CSZmiTiuzEIwZ+XRSmYZhqQJ+k+LMusvzza2mAdxzVhXkg5vbjz5cskNS9N0U3Mevs57tdq/HgwiDWzktjmMjL9w0LMmsWbgECkjTSXev/hkNK//tbcLZ7KcUbOS6M/qKUY/SUqIwju1CsQetdDa3rzdl+f9cr10P5UM6A+3f8/jnfP9CU/oHIm3vsE7RDxQhFf40wWCvNdXJd6IDwnuiwsO1bVvtVRLqbzTu77fJRNK1KenHPpwj0A0IiVV911qYxOQPhpaQUOlrb0zQoOlkdPSQvwXYVJRrP43O5wm7hXe/65hXg1Rtol5L8YRja0L6vxnCjUAo6iteZJ8BGeKDkkdbKZpl6VUf4zSs8vQi5ftehCS98p4UnyQLtfJTQHjDMaWozY8LVAJoWhKuIxesbgQoYnCwpxtD2305hdP1oppnplWdwVoTyNXiDmMPoTP1TRkD++//lJXvpqHy6zor5xvlkvEG3YSr+LW7SUALJ0SfrRW3BG6hICiqHI+TQiBhnXebKvNsjPAe5s4FTH3zv/f1A+AyJjbdz2Rl8T1nYED4AAA=;base64,
 ---
 
 ## Easy to Learn and Maintain

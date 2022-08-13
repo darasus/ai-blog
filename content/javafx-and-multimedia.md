@@ -23,8 +23,8 @@ intro: New technologies and breakthroughs in semiconductor fabrication have
   edge computing and Machine Learning (ML) based artificial intelligence
   systems. The latest technology being adopted by both enterprises and
   developers is the Internet of Things (IoT).
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/javafx-and-multimedia.png
+imageSrcBase64: data:UklGRhIDAABXRUJQVlA4IAYDAABwDwCdASoyADIAPm0wk0ckIqGhKhZq6IANiWUA0vd8DSivZHrqqsI+JyD98H01+G/fFse/4TjA4IDwyu5vPv/u/Tr/0fLv9Kf9f3CP1l60AyLV0xDOGcceCMBhmidycxJDmyaay9ckfoybLFGdMkvHk1FOH4f4vqAe8lRc1pidwfe2iAAA/lv/xdNQdCggo6J4rmP5A1nJowbGpvh59R/N0SsudHdKG068B7Z2VExDWTt56/iylvn9vvsEJ8rW0ecKoKNvbh2bfjfTz+rNsX11hgbMC+/IEaplYZFZAvaP8f+QftAYZihv7c/5jGX5/6otnRe+x/Fm8vfCVEZCwg43q3tX7WKniZUjGkZ+5eUs03JdIZ0iNc9CcN5iSYw9rnoZFI6a7JeNKxuKUo6XD84r/o8iQAEfkkpH5Qp6sm7R0W/ODabEMZg04NNqkE3YT0KUMhyfTIA3CvBpS3p8P1u/+anvWpqlupu5SUg/hORWhL7QUOyH4oiz22YYa64sJAsrh+zM0pe0BHcrmfvYhuGNMS794IyxIXDdYjkOv5IXOAHdh3pkaEed/4q8bv6Gob09P+lzT8S7huUlK5DJ9o0LO6ryWJ5qtaz5h/25OGGO8SXc+ojLmpj+ow1t/Zv9Lk93sP4/ZV/V0G2espYs+z3/pXF9Xnp+vsHd/BKBvC+uvkNoSmvLdoYNQRsFslOSbfzlZEPm20c7Jm2F5/km3L5Mw5EwEMJs9gA4aV+OVtBrWaj1KRn1qSTwdQFk38IzivGaf/jDCN/TaR7WoHvulPli+yS6rq27RT8Ps/76m/zb33b8a4TjkEj1H12LlHPYUkB6xV/nFUDcmTte54aOnjH/+JdP9WCw0n2qeofp2h7QitCXCvPDDv67bI45KzMbj/waev2aFMF2G1CZ7V1AZcNrgZ468j7kkGo33FEe+I9fFsP14yLuhlI7K8ly+akTvAaRMwZ9wZuI7wGQ3a9+NLb/ZK3ilKR+l8ODPGCiuwhzahCy+e90KMbbPvREAfYmgUwiAYcAAAA=;base64,
 ---
 
 ## What is the Internet of Things?

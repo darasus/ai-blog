@@ -23,8 +23,8 @@ intro: >-
   Python is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java. 
 
   Keep reading to discover everything you need to know about Python and why you should learn it!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-of-the-web.png
+imageSrcBase64: data:UklGRpoDAABXRUJQVlA4II4DAACQEwCdASoyADIAPm0uk0akIqGhKhZsWIANiWwAyrGuvA/x3IKJm9QG2Q8YD1afQB6AHSX+gB+oHWhfud6N13MfVeWLPffwGcn/wE2Sf6T8jtkb/onn0Z2fov/se4d/Kv7F/xOA7/YA87W1+/CaaUl6m5KljQnZvmAxTHbqw85XsJRGC9bo2/k5bEf29H+Db/6xTh760DXF+3vvhSjkFkoC+LrpLwAA/vtls8wN5XBAXvfDhTf+ok5vFy+dsBE7QFPrCkpfEmVRbqapvoitXkBjoHpX/j+PFp81mx7rM8WHmt1nYnOpljbKr/wrWCXkn7AyR5RXef3A5rr3YjMkZOmOJTrpW/Y5Gk9fWMtqS+8Op/8z76W3qkrX9F0iX7mr0p7FMqDceLvXGO2yYv+krFFpyQJYjircawWpctFs/4u0CTUOTBnxJqIqyWNihORDLWHEs/Gh/9XcNv4XG8qX+XFmF/7+9CkcRbQ+9Cen/PyJ6khSAkme58vSFUYX3YP42ZWggwb4E/X0NNQJcw7KZYOTipJE9IlwbKIa4jOWwbmL+cfD+iOpRwqwp1jrEiB/IdNUbPR+fP2MbVP/TZwgvG/Z/WEbK9XEDjEre1mornQZyvUO4lEp2ci+SkJFvwRC+9vvJGj1Koopx6uOZY2xOmMQ6OlClhDWyDd2HF9fAS7RT1gGSjNHjEGO5HwqflsBA+mMBEamiNg84LAOXEK3um5mikxStQ6gHWcdz1Z+hp2ywtZTN/v2X4amcoJ/JZn5EzM2PhE63n2//P2TCaUu8WppgR4lkMbAEO0g3IG78x46pZT+49hfhMgEGjJmNavCE4Nf/+J60h2SpE+H1YdXoP8DrWIdX+CS4pF3PZKx6B8LMs0FybrQ9uQNEM2m94ZK83eqyADIzY76/X+ZC0UHgWqPgZ3iD6ZogmNDcj19z4cXVRvlzNxQj7zEEYFoZv4onufgWeB49RWaF48dEWgAmTTJS7p8uU9qKh04cAifZ28XZU7ZcixmQ+KKB1AB8kXNwOoZqm4qV/V4H4Xt+eaz1sIspZ8Orl/qO04AGY5th+vGEeCrVh6Sx49suY4JHW+6WOUDaTU+wdWx8FE6M2bF43qzhnxwvn6WuzDr6JcKJbvW40wS0o9+u38DBL3XOihK0y1lgC6QnKcpfPfhV6YjWo+NT3e6ZH+qgWdmfTuH2w6F3D0bVu1/Pc1JjgAAAAAA;base64,
 ---
 
 ## How To Learn Python: A Step-By-Step Guide

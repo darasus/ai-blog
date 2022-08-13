@@ -22,8 +22,8 @@ intro: >-
   involves multiple sessions. 
 
   Mediation can be used in all kinds of relationships where there is an opportunity to explore different ways of dealing with conflict and find win-win solutions without having to go to court or some other expensive third party adjudication. These include disputes between partners, shareholders, suppliers, customers, tenants, employees, suppliers and competitors; labor/management; landlord/tenant; divorcing spouses; members of nonprofit boards; roommates; feuding neighbours; business partners (and service providers); vendors (and clients); owners and real estate developers; executors and beneficiaries of trusts; owners and local governments etc.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-can-mediation-help-businesses.png
+imageSrcBase64: data:UklGRpADAABXRUJQVlA4IIQDAABQEwCdASoyADIAPm0uk0akIqGhLhJLiIANiWoAxFhMhofDfib+JPVNcRdxMnb3q9KvKAN9V6zn9ZvYA8sz2Sf259JC7s/wvQVo1/y+ci/wmSm/Nv8jjNd7sYz+YvPF9DewF+r++cjWdRt68lxopi2IeL8NXS7YoUx3+xe5AUEBeQm1Cbr7rBWqavCp+zW8CfgpG++1K34gtDUfkQuI4r2ENwnoAP79BYRIukKm/SSEX0P5A54re9L3joM/blCU/2lgJxqjha2D/5AnDJ3aRz32fbo8f762N8aTU0eYXzRc8kCnGKcd9mRAG2UxzsajCiqTZ893X/6eBiXNZMxMPW1pUy///dr+4P+QSlif9hf/4I7NKSah7oe34ZEJVu5A+m9FFhpaz/i7JHn1oCS1aS1Ca72ZDsP0LYYucI70q9UHzAgJqCi8TbQhmc2nE3bmtiru1LMD6d6zx8drzzfpe/wMD0HmnQHvhjgb9evl78Nyc1lkkjP/gBbHq8eNGiL6B1ASN+gEC0grwgn/8vLGsqwerVrU5L3mXWCLp2p9+QLU/4S64X6bff2fSHAErPKw0xnd52YmD938clpMpxAn0I4Vv3E/nov/Ex/gxgW56SdIbuwkwpaR5l4QSZa7ecvdeLT+4eVEXbQ7bTXp5xFmDNV+WGtqyYTBbTRjZqVFIWqh7/rZXvTZZgyV7r/+P+WjFEjtafmkI+5iRGdif/li38VdOmW710rzEev7KctLSjwLDVXwziSafYIxcFJ36IwDyunftoN8SvvwZT+eMv3rEGtBmz/yJBGNfRK1DiihKoI8LABYh2DN4awerLJxe62vbBj/5o+iVOdf8Gj3IymoPM2sm+Fg2TRIjROTYJ7+M7ZuYwxwcs3GaVaMW0cRzHykXiqigiTo7pxKCLI2tqSWnYsNt/Vf2ZZoWbIlkUVIb6PDnFeAInH55sVyzEX+gXT5/mf5DzDP6j7yodmlJeHzzklJlMtL0azg1zehy6Zymbo6jz0hglPWxYxe/jXOSOwUE1q7v6/7Oq/rXVfi5ghSPqK9Wdd/z9wYouT7j60DjcXH4L54T5xB7K7QZ1DrA9PI4KvZjMKF4w66sxw9Wz4nXaqdSECck3qpK7yo9aqOwt/j5daYYkuvqighuVhaIhAPoZqji9PNCarNGXpnfZ7jLD61z4HRM425GckkZKDj3dgxoAAAAAA=;base64,
 ---
 
 ## What is Mediation and How Does it Help Businesses?

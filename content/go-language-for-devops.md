@@ -20,8 +20,8 @@ intro: >-
   Since its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it “the new old thing”. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time. 
 
   If you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-devops.png
+imageSrcBase64: data:UklGRtQDAABXRUJQVlA4IMgDAACQEgCdASoyADIAPm0wk0ckIqGhJgzogA2JZgDD1RoAA86rTM+fF9i79m/Ruo8f5MZQv8nmgMeTxGdxr/oeQJiz/yXsif1vjK+hf2L+AX+Uf2j/nddX0YP2qNOM2AxiiQ0WiU+JMfAQ99KL5UELAWiPEFWGURHBVxWuH3rxCw6K1qbRm/ymJsEpcDKyivd8WkuyR8JmfgTWOMvH+M6AAP662EXAdT7ibsOYK4vdQaaW6E8uApVh5hkgKblF//nb+IL1H7a+rz8s5vd8ln87bsJctt9zE2GTMOq5JEbv+bQRN+Y6kubfmRiJq5muR+a9I0elxRVNU3wFDHAbVQIP8izYin0ic+oaAXEUSy6qD1HnVRc6mrMSFmoJVlQjeoqnh4CAmqT0h5pFDM6x1zq36u7BCN7/y4CLxeZFgQ1NDDS2lv1MRexawedE/xziPCGSpxDJzlW07A2OBnkcYqL3E4SMuI0MVWB4dVAOZrd+Rtr8dR/QebGudK4dX4EA/T1ptMv4Zq1J1g2j8ZClsyxewhR37BzEQNGORb6fnUeQ7F9YLOJbDQXmFM7yhZgyCZu+9ByDVcpeEk2NpG76lZMRwU/HpQWxBH0GKuTdj20nvTco2n4ApBAD87jbh08Oi/XDe7fvwHWrVlngLCHFX/VHNX456v7zVakDhX0bxQBacvcPGjvg8XMyi28fdcPR5fEdrcRByasvIBkWDNe123SY/yzsUr8dkK1Olo7UE9ntJRj39Q/17Fe6n4pW3Vkgy8e7nnEV8HgZZhJ3F4SpVB4seMQknz2OsReNNygwx4pPSLvsZ7ALdpwxlr21nN15+2UFIAx2hE5NV3wjsZ5vxtcZnodisdgdIfQQ9cek0GvZqQER3fD14y0mYoJib9xg9x7I3yVdVPtvG82RLKaWsdf8nTxI2Gtv5wvGJRyyo3welvEtZtFLVsKiCQPX5GhHV1DC7647RruSCO4HL7MGEY3pxPguPO5o/BgTbydQw/6d00ZMVQ7CCtKPpBrvw1Mya/KguDA+44O/sq5KD/HjLDidVfyKRp2EbnQ2Z70A/xmF5YV3+o3jpHyiKg78Tchp5D+r4IJZP3eZpG1u8/w/+WJB/UR5cUz/nQn4xcbib8yR0i/6szobLywKh6X/q64+Jaa9hY7JoHA+0aRQg8OgtveePffYvRxy6O512EynpEvuf+cARNM9IYI9fj9kp7T6pBJNbXmUsntvZR0TPDTQuUkaAq1mSzkwf6gsdF/c+fu5l+78e/WMJdLNZkSSCmnJCm708dkspTo+YAAAAA==;base64,
 ---
 
 ## What is Go?

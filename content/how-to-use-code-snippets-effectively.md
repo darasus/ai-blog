@@ -20,8 +20,8 @@ intro: >-
   and effort in the long run. 
 
   There are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You’ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-use-code-snippets-effectively.png
+imageSrcBase64: data:UklGRlQEAABXRUJQVlA4IEgEAAAQFgCdASoyADIAPm0wkkYkIyGhMBQLAIANiWIAw6QwCZOdlXe5+OF/MyAOVV9ePPLehjeD95V/2Nbi6EHznI1o68NO8GUE5h3JP8fxkdx1/pfSLvBvnX9g9gD+Ff1//MfbH9KH9b4vvqT2Af5p/cer16LX7RktZTDX+c95VWaDX1P+hy4f0h4/J4SWm9/twFLXvva9sGhwDP63/R8DI3fqXsgFAtensCiuvmsK2tGa9CKI1i6JRU9vgAD+/dxl/fNyQJ/Bo0v7Ql6LLvR+U2NtbZ4rNkXnbkaSH76qiDU67ff3/n2v8PWBAC01hIlGiTrbc9Qfyw2apKPWwl2QtJfhXlv4Fce6JyQIqVche0zFGOhW9NcOZB3H5f8I3TXAvTJ6YPPMqy/9Do2ltPhTN1rRT7IQdrSAyTkk4f/xijreNNaBV1xLDCjt9EDt//xMHa5DWHzoz4uqrlM85bJbWL4eky25xz+NxV8iU4ZWqntrdS8ev7nxFxS3+s+BJf2tRFY9zdsdD/jOAU6xrKAJwum426ZOsmzrOSDay+QzIq2GmfpCHnrD6ZouUzm0bwj+xtflV+Nj336PbU7WwQgN+UHyrH/CpP3odetqvPfhCQ5bc5XECYY7S2W/G/iT/NXehOuwHNP/wJ5KdRG3QA4HZaXdz31dgLhtRdgaYcKyJIPNN/XtFLmtVHx+dqFCzbIu4UFqLQPGYPuMHWCRUJob1t6RufO+ngbekPECI9WPVoZIf5tjkyEpDU8DjbfPK8ffdnrMeADr9K+u74o/RhQZ++iVS+9K+GkbqdK4xsuNTlMhbyHIxNzYGuHha2rwfrtlDjME91b6C42G8HWjc07+a3i5k+hZUFH4zRZaTj4r9LfSN2XuGpgkGuRKWAu5jNx2dKqFeE2KJPjieRfaER+azqpWbRGhq07k5L4/3vDCKEGyzv5V8HeeTwq1Hqq1MvNgoN4gd3VXggsFg6LRLkToh79ivXK+jvu9fzsFVB5VrvQOPsnvM09SJ3nnpXcR8lZRQrFiTsw2AiMx/5RA/lo8AvNBtMRGgTpoNGTdCadHocqpImg31/sdfOnWs4IMqKCw4OGHPaw6/33TFlK50xYXe6GnvN2SP6dbvzmN/wG8S8iiUnEVYSFLZSvB2nirN64WoRaV5981cXOxNLA53OfJBiJJ5kmS0QESCdP37a2zWwfSfdjajP+PGd2a9J/bRRdNBFeSOLUsLTl7J9gtbkM2kfu86WADzxSd5eXyfYapsHs6sU7WvKf6tTlG47lA2Ve6n1zaClc2SHY/KkC/O0XkDyI919kKL3rvIvm9NFo9bLPWC/Qu9XDNqF4uRHbjpq+HWusyWfQcMLqUSVjx3jcJ6QYNKdVBev/ZnA6SG4agqwl8TtZeKagfrb4H7jtiM+mpa7NrxEAi1fv10csOWHRMeE64f6RIAQ4QbEuG+a5+x4wFFCwrFkKAAAAA;base64,
 ---
 
 ## Know When To Use Code Snippets

@@ -21,8 +21,8 @@ intro: >-
   of each. 
 
   Whether you’re launching a side gig as a consultant, starting a bespoke clothing line, or opening a neighborhood cafe, researching potential business funding options early will pay dividends later. Business funding can take many forms: Small business loans, angel investments, grants from non-profit organizations and trusts, friends and family members willing to invest in your idea – all these different sources can provide capital necessary to launch your business.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-get-your-business-funded.png
+imageSrcBase64: data:UklGRmIEAABXRUJQVlA4IFYEAAAQFwCdASoyADIAPm0uk0WkIqGYDAUAQAbEtQBkSC+/i+X/lH65c356ffv0AfjP0MOlR5gP1k/0fta+gDycus79ADy1PYy/dL9qvaFu92qytSYamQLp28QG8Ecb/o3eIagXTX6GX+y4wagB/Jf6r/2PS4/3fJf9G+wN+rfVx/bf2Yv2xLc3lIn04GyV+NTq3HnNxliYs7symi2tnfHlUuYFogPocn3BIpJc6U9rnm2BZVVQ5tBi58aGnzXNjcl3eSUAAP77KaS6l4HBciurEwZaEYbifH88A/Gn2IEN+Ex6Su0XrGyb+qeSudMXJem+TjUf+vgVdYdiPqHcXg+T1tHtD9xlQXPgDmCuf/cvj7ztf6zL6v/+MQbxaHdpbXmn52u/06498nnEdRfhotRybDjWJo0xIu6YukQBn3atytdb7vNIiX7pgG+udaExsbnu3HJP/8pGlITsQl1mu3hZsg+B0uoFsz6fuvPDiyKBoPb4Aukch5U5ufkrS1MUksl0TOemMynCf3ys3e5KsgQ6/4QqBpGnrXi00DfSmCLLKPybR+aGduNsajc0Xfhvk2+t184eCHCwMuHY/yV8LBGmmEw4503tQS1m0Uocme1FIA8OvCLIM99Xvya3zmVgnpQgG/361p/UW/vvEwBLqZSrEbhO6Dbz9W2QG+UqBwq/Zn33NjCQe773Us5zBzzzmO0jQub1NP3qLhK1Dy1LGIynVje1PMFkHe6ar9nXugd60MryauuXr9eF44+iRptMpCpRjN3uERSvsf2OblQF6abEQ4oJ/A7z//o5c9WOdNvWuvILZV2E2dUR97ydk1RajBsUmuYAJlyQIK/iH0JJdp1xH6KovyM8K2Z63j3Vj+q8fkV7/hyZduR/X1aEnFwpL89bRkAzw10tICEO0JC11Yso84+8OvIz42BFj4AGxnhNoGk1+6l0zXIgy66FWkN9aJCyug/Ph4IJmX9aHPLI4Zwq6F6Vg7/6Bv2ZeEP17TqpMltPM3RsaGxtaBJL1tj5W+lwc0fkiO4T+JRPyr3bUVgq+42SE1m0fU+GmjnwVw/KOvCRBgCvBiAonFaLggUQNOq/DZfN39lib+b+HX3ckughFVwT1AjKaSs1OQH9HDRi4/MFOgkxXICq3oYWq4MgQJsFdKJoiIZJ7YiD8G/CQa4ulp9puJUDZjdyp/fpcNHSonMRva4LoXyRraBCsp+oqk5HfVf1Qb+zrPGB5pJqEBgERMgp+96DW/mVWOvhc16BOdl0m8QO6uuzy0TqiXw1mJ78RUFII/en/JJ9f4yoFrXmaiGx+cyPETq7cjWF/Z1uG7t5bSzW/96oKlXK++v0sMLe5o9qGrRP6hGbshFJ/7YDybdsI5q2jhr2PgET9VWgPx68aPVbl363RlDnzeWrxf5ajyFrG0G9NTkOo7/3fuYODYVrkha/sLM8kqITkoB0DCY6GZ+RmHE4u9oqKvghNvWk/bIIZcAAAAA=;base64,
 ---
 
 ## Small Business Loans

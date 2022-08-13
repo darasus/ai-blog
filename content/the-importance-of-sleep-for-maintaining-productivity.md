@@ -21,8 +21,8 @@ intro: >-
   mental health? 
 
   That might be a little bit scary for some people, but the truth is: You need to make sure you’re getting enough rest if you want to remain productive throughout your workday. Unfortunately many people underestimate the importance of sleeping well, but this also means they’re not aware of all the ways that lack of sleep can impact them both physically and mentally.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-importance-of-sleep-for-maintaining-productivity.png
+imageSrcBase64: data:UklGRgwEAABXRUJQVlA4IAAEAAAwFACdASoyADIAPm0wlEakIyIhLhko4IANiWwAzIxpBMe2cfJzVDbzu9QHiW9IDzAfsB6w3og9AD9gOsA9AD9VfTK/a/4Of25/Y72jbnz0QyRP85w0yorJXE13GXE0du+eP/eepDnSegf+D7g/8u/rPpM+w30Rg6s8t53OKFbwmn/RBtmC6w/Now50SrSNQP83jp+Xj8iiSlMa4R+K2fe2kUVRzVjgnV5iAAD+7T4HFvRscfBD4YvKDYep4h6VTodLanrJp3q19Sh/1P6jH8JO7q3x5a/48Vylo2zQMzasa6YxrJiZnic/kNoCXfo/P/8ETqb5pR5Hc0lMFCj//vx/71ZdAB/7fD5XTcua/H/f4VkeNQW76qi2JOAOsdXa5asbeYj6DgIQN7DLfhifD+XRcXhvxPmOPwC9J/npgYc+nrPBwne1pocojzj3n3J2Lzijhc8/ea+fG3EyyFAMe81XY7EJY7SRImB8Y6nuyI76mkWYxHBV3ba/mTur0F7rqQw/9pKC8Jxpqh7AI+gTBr+E1xzGeNaGhjiVt4/ahuHP31i5eEPSWsPfTshBevs7uyt2cALYT2jovNO0EFV3BmkN/LjGlvgldnhem5fSSoW/meoX23g+ibRFTiB9hCtyv/5jsxgyVSdUFJXw24RavSKqMIuBS3VIGbR/IczTXQ67YD/+MX8vu8w/qSZ/fb5YXrGWS3baauf/zMTf/jyUaxloo4zMuh0Cp53Vp3u5gbAPqeQXsgYA/tzD6metFX41Hmedknxta1RrBbdiGmJykXSuvSHHxkf/5bPj4ZyHOHyD7+nb74i2Mh97YMH8I9+dINk77+JcFzSIpsttWQ+2l2q9N739jdAsg+5B1bBBPxD/3WNoOHptPfOpzsudcYbDQ2pei5mUrC/1mx96oYzqr12oOV1Ns2u3JOm1lkAjYXOV2K6a5BwKjU5K7DxWaThm6bHuYX6dkbn/q3Chr+6vrDPyAohTkGdTPefTM06Ahv1fK+gFc29nGfWZmium0Cpkd2So1p8+UNHU45pDiwt9OR8HE0mJe2E6k9b5jMh1Ke9478KYtcG0tCBNCzcAwmErl75UIVvSPE4drRoYjlMQIEPG+zXLRVF1yPh8DPatrd1Vhs+OUNP0sl00k1nI70GoqMN/Zu6M30ANLG0g3YZyu/48ngkJvef6UHOsDxFwOU0kMEx95hgeUAby3rsDStlf/7rj52vd0huUV6nmld+32ZBnYdP3yb8lf+1hlEcB/Put8e13frMaiH34u4L+nficjDNSPpNhIaa1bZ+gBewV3v2ERUY2wVzf4NqdwJi7OUgIxEb4R7txajK/mOJh6XEcQuEYBBvpEB7IB7JwVL9AAAAA;base64,
 ---
 
 ## The Health Risks of Lack of Sleep

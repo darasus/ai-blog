@@ -20,8 +20,8 @@ intro: >-
   developing such apps.
 
   With JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you’re interested in learning more about its benefits and implementation details, keep reading!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/introducing-javafx.png
+imageSrcBase64: data:UklGRsoDAABXRUJQVlA4IL4DAADwEwCdASoyADIAPm0qk0ckIiGhLBgKaIANiWwNu0WX4L/on4u81Hxj3p4tM5fEn7ZvgB6gNth4xHrPehjeAPQA8tj2RvJu1bieX4T9pcmph3wIMZ1/peMD6b+ZDxAx0j+Q8afzt7AX6qdZL0Zv2ZObay0EbmkxQpdOocUaXajGuTZYzY5xibScXPJGS55rrtzIM2TO+/ux/7gy5M/7rcWpeIGAJxpJDAAA/v7rVpKmn+choQNIpu7kVD90cNzRhkoUX5P//ktvywH4zEaiWY8J9OfJ8l//y8pAynJ2zTzWdx/0HrAdLGtE9/V3X+V5GkAX5Y2N3LR3SxS4qvXdPS03lN+blVPVTEpWnze34j6stJ+UXtQ8IEKEg1qAdPAIq22I5W9P98j67Sj7o5a1xXYgG3mlFg/aB3nHYmwKXsqJLAe1zTttLCi4tmv7qLPA6KRSKCp19uZn5KJNp4YKdSLYPuZrXOkZCNuWpfmitDJOkD67E6Y/SLwpu+bEOFu9M4YX4TPYqAt4N8hUvq8c/7cRXzChNcGWBvwafWV8WXGYD6YmK11puTIMlLLfvmRpMK0qrk0DYhbjw7EkAaTiOk1ImmmqV+vjaf/5h1hlIv3ur8cPhJUM37elUCuF7iBNk6oZaR0VMf6pZSptZBAAneDa+Gw1DTLRCc9VluflpPhLj3t8WoL2tVMzd8nsqabVVC8JiKzV8CDjyEjc1IzTa2kEA9+Z2x/8InJjQ1GleuOpL58JdCKMdNp9h3me05euqvZrG3zehr8pUYKUuTdM5KYKD6DXTD7ZTakQweNzLD4DSvuOFueZFHsWieR91ccJOeEYLFYpfkN3f4MK2lqB95DkhfQOGResSCmfuYe6SDE2Zlwg7ofgQc1YyYVYAbyhcrY+8gYn353w59VU+1TZPLQwBV2wByz31XyM7ZuIsR3B6rkS8PM09JWqUzuzh7UwcS+TgVzKSBjBd/uQUvGt2uos6BIVShhzsZAtNjAK1pkRVzlfIe+Fv6cs/b5K0ZMsGyFsoL3WX5Li/4oJyMm4c+5SE00af9T81S3Cmhqt8mfidh528YZqHX/FlA+CH8YG8X8LOPlJ/cv4X9bvYrg+3I2aeXkH7axtEHB1jVC7/osZilfb9OD9pvEQlPn+eOe/vqZD0Fsdb/R/vCuOx/9K1CjNtrzQYGAMh62+mmMjSN5Mqzf5g/+sozOj2cGrby4JUUZUiNGTBGaYJwMlCNFtlDcPdx0TMIf5CAqURODxEfEviRdE0opO5F+oDAAAAAAA;base64,
 ---
 
 ## What is JavaFX?

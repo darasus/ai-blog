@@ -21,8 +21,8 @@ intro: >-
   direction? 
 
   Small businesses often face unique challenges when it comes to growing and expanding. As an entrepreneur, you might be juggling a lot of responsibilities as well as managing multiple tasks in order to keep your company running smoothly on a daily basis. However, as an employer and manager of several other people who are working towards achieving common goals; there are also different responsibilities that come with these roles. Here are some tips for growing your small business:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/10-tips-for-growing-your-small-business.png
+imageSrcBase64: data:UklGRhgEAABXRUJQVlA4IAwEAACQFACdASoyADIAPm0qkUYkIiGhLhkriIANiWYAvJx2CEnAbeXno/Qn5AHAS9LrXU/4roSPJ/s7lE3x3kX3g7Vu7Kcm/mX+e7/jUC7pcrl4A3iXsAfmT/geyT/Of8j7sfaJ9RewH+rX/L9a/2S+haHUqPq/kU5eHBSEeW+VLuBKySB7nfDJJYLmNdaO/Q9QqUrUwlGQGylRfvU5QqqnSoI97T54aOZ2vTQ0JEnogAD+6E0sb+pLKhwFnW1zm7eLJW76gVVsUrHfHKq32K0/eofn+5+hiRcO0niXVlM/t4dAfOYKz6W/84bQ7i8aRzFnJDg0ErtPKwtORoiCxkJ3yx7g7/WIM3SurmDFvrK+n1qbB/h9hM5MfZi9reAozYMfIam1nvXTxtJVBLk+df7Lqn14Wch7g0Ev4SimdpC6rriAvx+tlwYegl5scVDOfAlnJ6ip/3ZPnlSS13x/4J+UZhQehC41La1OFcEBvj02zwsdxBtrVntyiRa0iESGyqew1RqL2QI3u9jPeW+005D08yskI903f+L10v5m2Nf4x41HmAabX+VXt7PPb67bQGEYwDmrOyB+2UsQX9EOpyHknqokSE7xzzQv1+5KfKi8+DCfcbs8u6MWnbjcRlF70WR68NizSoWIKoF+/nNZxfQ3VZTO34khPuYV0BV5/81IPpaid5KwFVzCs9QkkRjqA7q83Y427oq38bWkWBLKaOPrSeU2wAUx0lmJ/Kh3WhZD5opAutgilypifpZ+yadSxNHVP2+73beu5bZhaDe/vtYlwsS3LWxwZM5iwE8KoVfD6zfbx3dECDVHiOv6G+saAAmXEW8cv+tzIp7u0aYYy6B1cu/9EZ1/KttHPByI2Ti/6JtQ9TPrHpfElB82NNXGbD7wHHlsAD0rAHqh4rS+mmyWb53jY+TZdDRhR7NCgGxvT3X43kBAU/T5FG6KEhzTFuwWmFy+LLB7paO5MHPVDG3n255Rb+x+jHndhvL/WlXfzKDY5jETIp/zvIWHOpQXCcdtlS+iU92mu1O/8+9eOQRJGsraXtYNGlX4bjb5CC15GnQiwZcSjxgYoNzowcVgPIPuyR+IdYJQaMn0O1cE+kNinG1Y1GQDqFBl7We9NzyW6d05r4A5p/prixOzX/+JRsf/0Vf+URf9/8Tlcn/07/8e/8q4eP32Ub9hW07xC1p7PkiVijYOBerQ2T+paqfb0i1P/qMbVjnORwoIVEROXVPD577nNvnGIYRfc1fPFks/ozacT/Wbn7ZXhtX4TpYf750x8Pyr9XnELdIs9MTLts2KA3oURRkTOLFkppFgp55/VpmDFkO1U7wRgVfpGD6+HrZhRJLNfPFrqqKCu7TCAHLqKwuj9r3ueO+Su0IFAAAA;base64,
 ---
 
 ## Have a Clear Vision

@@ -24,8 +24,8 @@ intro: >-
   A variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others. 
 
   In this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-functional-programming.png
+imageSrcBase64: data:UklGRsQDAABXRUJQVlA4ILgDAACwFACdASoyADIAPm0wlEckIyIhJA0ggA2JYwDI9YJIBtgNwB0MHqRby1/oa8yqT/SPx5yeX4n8jfRT+19YF+q+Rn+md4BsAXxL+0fcB5JP4zeJn5x35Ve8HeDRkf5H0Rv7H7bvbF9Df8r3Cf1C/0/9n7SpckAZbAnjCSYL2hijTZIf/rhQXrR9iEag9r/gsUaJR2MoEZRt7PiSjZ2QVYFmiFf9bIR6uS/op2SRCgAA/v7Mt/8uvDruaUfV+gleFxzTn+Ke6C95nRxeIkw5TmgJDOQ9CSIaKBYQIVPR65v/+Ic/ly/NuU/gTSyeWmen+RRT+5JXkc7Jo8Jc9ReAgomwtk9B4SczdgtiMWOyG8IGnuarm5KL+Bt/zFavhW9UDIJHS6OXmGaq2JCFmuLogwFZ0MSwSAp/llLc1iLf/skpqIXYcaXGZdSBJjLOXKBpQ6BD//GmREiIF/CM917KK3BDdeQL8BDChr3+mEn/8ej2+kuVv+K+IJmMAlVCHatG6azYpRyzHKgm+8IFdlPY3hHRycrJUP4HjOqiyuVBtVYqe2PxWhPVXcYGyOi1Oc08ptAlesR/auQspaDx/Q515Ujcuq8YP5RHzQoTH4gssnpaeGlJS/atz+bny2tgPsfpxKa9mo4NgvbsGLByZRfugqY1X2dqrA7rMtyfLDAUFjM2tcesm7FJ8nljL//puVXsrNX+RVS6aLXuzvAbt3Z4jY9ZTvP2L0e5P1Qfs8xGPp7N/9zJvCLL/ShsgE6k3JSA/1wDA8P6dALMQDd/m4Y8ftnwsugwqZhCjnRPPneBeUt7UmDSr0XEmMZcZT+BaxLhh30rgCL6zFCr8GDWRgfp5EjopBOIlZQU0CaXCdsOK4zch5rWwbAK+oPJsZBqzw5u/UAv5ax02RIwcG977L1xrWJgp9P+9tSOChwBQug6Nunr2uqtUL8tz4LVX5tmvp+DQXmwEP9exFTTDinPARGgT9pim/lttQe27G4etUDI2THx7Iw7H+dc/TEltCaLReHlW7wJJS90E/69lNECkGfj26cAX4EbMCUdRlO7CsI7RrNtyYO6SA2iGSNA53KwAImMxy4OwCKm299hWJ2m20RSKXe/DuLp4nfPmZu3VAeCie8AY+4b7vrxP4aNFFu8Fcfc2u6LcnFCAWw9efjoUmZZ0O/fdOM2oxrkLHicYLOnls8xcJeqIJkL1ZGsnp4mUFCe9mk05fd5gA2wDH7/P7/229aAi2wYOYlycqnLokij/BqlAWCvAf6AAAAA;base64,
 ---
 
 ## Haskell

@@ -21,8 +21,8 @@ intro: >-
   But first, before we dive into the details of each programming language, let’s understand what they both have in common. 
 
   Both JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-difference-between-javascript-and-typescript.png
+imageSrcBase64: data:UklGRugCAABXRUJQVlA4INwCAAAQEACdASoyADIAPm0ylEckIyIhJA0ggA2JYwDQcYBngGSAegB+oHWs+UzmgHTV5V4+nw4/4DwB9pWQrIFPpNqvxn+dfm5eeP+p7g/6tf8/sAegB+nJhv4DecBeW/gPXlQTcN4s0cgVw4nlSDDdqJhkFd/d+P+bXBSb6Rmv4gsHrQNDE9yncRbCKAD++ZI+zzoEnov9kEgPMijhJI0icy5eXYpBnMnxzPkwjj7i3talrwTDfRtti8oO/adY+ePbokcaal6x6FpeCrI66o1ALfoQjSqDvanI+Ona5ATeCtzQ7Y6iur6Q8AKV77HkgyNdc9PO9wb9vsoeCTKeC+wIomXrQvvP8CHz82azjoIJczxn6kP+5BhjkmUSMvrS0g/tflA+9udi+CghC6M6a3GwNTX6toa/H/EQVyzIez9WSkH0KwP41766arP8RjxaCdGg2K1iftZB2Z59mOaKtZ4noqhaBBX7i9K3uEBwqf3Hs5JkmzC1n/3zYdU2LgbPkB5ZmKozS+x6XqKP828x3Q4jL+VOpnhJv9DAaGzVvF7NYFrj3/berOpXTy4ZcttvuF4Bzd2BtlMcLx1+RuS3L5yqnYJbMnqvoZoEwXzOjSEhgJNHF2QVLxKduHdUdyMePHsvj6ediG6D/Hv80tkzajV86lo1/yhkEZD02w7YJE/lIJ2+5OigM7xfUIbdB0/PRJoXQnc0WAH/1gNuzuxa8rHadgHq6Z6YMrd+e8BcP/xyPy/ZAfdk3iUTx1688xT8WTOMFneg/hpoawBQqjvmjh4lI/Fx/70s51zNLPXrHlM1jPmhEp3zj/OoZDYskB9Zd6BskaEn0OwlvJP/jt6rcW03qdecqomgP9ukKkeUXZvCx5uuafw8ZgLqqcEltU91Dssf/1w4/kEqe2LNYtwP+xhXdFx5uD261karjyx4+/pWEVn3sNtLaWXbbDaXkUb0j5L2fthCO7oS5BfUCI0AAAA=;base64,
 ---
 
 ## JavaScript

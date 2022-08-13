@@ -19,8 +19,8 @@ intro: >-
   reflectivity from typical road markings. 
 
   This article covers Python, an increasingly popular language for image processing tasks. It’s a dynamic language like Ruby, which makes it easier to read and write programs. Furthermore, Python includes several useful libraries for image processing such as OpenCV (Computer Vision) and PIL (Python Imaging Library). If you’re new to programming, check out our article on Why Python is a Great First Programming Language.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-image-processing.png
+imageSrcBase64: data:UklGRgQDAABXRUJQVlA4IPgCAACwDwCdASoyADIAPm0wlUakIyIhLBVaaIANiUAZoAmxpfik1ENXc31HlED6G9JqDP7M9wB6AaQL3p6i39Q/xno1ZtHyn/I/r38A/8k/rX+77Efo4frkPJNjdgS0qtmgfWl9f2b5i1XVSn8+V4Dkpb0tbvZsTdr1wvgCD9LnY3JniRvw60rXwAD+8p3yK/8NNHMA+J6ei59vyABXIvctW/KVFmVSOPOAeIcUNQUyPFfj2U//yfh8HId+0/D4OQ4+OHhiLRF2lDdQ8N2aJE4G+qmWWlitLToVVKgSN/eNw3Mn/5NptmLhTadMYP/4lun8ljWf3nUQxB55ddMSIeMLC9SIpcHDvg8OkPz4BQ0b+j+G1O6p83+LGzuNMXiG/74f/w/VkWOUq5slHstd7bsP2VLL4un0UeZ50Apm4GzRll1CbV36Crx7otX/ImOKLcVRTH/FKUNM9E77a/ZF95DL+D/J0vd2yMb6yi0dbDttAo2QZbwtXylholfrv9q80+HP1z3yau9OJMdOPboy/Urn5/yBVdd0w2I148pkPRZD4YYFKX9clLHUlCATJ5uoB5X/JL/S/B6KPJR+F0kAPkKRsrvTQIHodob92VD64USF8t3XIe/uJjjb3ILjYSoWWYFkqgGhf6OsvKeS+Z3RyhICEQIE4sINNhdzwTAWrzJVi5GHJ/hAp7OIHj8ui6Y1N7FYVaivchiX/qJxZS416Y3qdQKy+QcESbLgZH5Kec7R+Cn45gedlsE8IRyuPi5IdY/6Bb/1ffDVBdT9xT/HH9cD+JjsXVnYsEkRncRvT7+nQsU9mUAyTxag7zsK/zLIZrdrm4oL/INv/OIaOYdbjjfegB7XNL2RAjgBo6M86fFnX6AKHZH8k1D15lJlU+oN4VdT8JfOeTsPdQ4jVWHCO2UU/eDINVtD7lXT1v63Fd9iEr7JJ8GYgSoOR5MzHjkB6gtNmYltkJf1bNANChnpfvteJNNF2UkXW4LUac/hpLCvAeqET4dzbogAAAAA;base64,
 ---
 
 ## Introduction to Image Processing

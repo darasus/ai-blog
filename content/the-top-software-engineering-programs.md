@@ -22,8 +22,8 @@ intro: >-
   these programs alone often aren’t enough.
 
   Programs specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-top-software-engineering-programs.png
+imageSrcBase64: data:UklGRt4CAABXRUJQVlA4INICAABQDgCdASoyADIAPm0sk0akIiGhLBgKaIANiWYAeBP178a+aUnNoloEOfX9DG8AegB0sMxRsgHiDLDMa9z1qTKghzj+a8Zv0x7BHR3OiD2CmblIMVFlhIRr3VQ4jH4uy/BkR5WcocqmgwskhOiL5JA+NALLmHUmxHnkwAAA/vSj7//7Wh6tD1aH4hP//maGUwOZCoxz2eU+6NTvggA/sY6JzXDaBTxRhulM8lGFtpOS+bIyK/OP5y222RP8/SGzZe4bfPgLLEPL2p0JLc7Y2MbQpavTV7WlVBL9KKOQiZybP2TCEZ3QDn7OYcFYiI3exZLOVtKDukusfdGk4r6h8ypUfgu+F2kB+YLsnOP6tC1GHk6Urury45R5X/6p109dp8/QNkU+osXAwEsOTKXMHdTcLyx/71eKk7Yb4PqeMVZlEvqmb9hS0JaWiYyL6PMeIIB1gPZc5xF6Ge556oNjnayx3llgO1hMgSAPUPLidsFg8Cq/64DVayxyu/mu/dP+PblyUTyccmFMr89e7/fhAR/GOVYNN/19U7WPMXHAgdNZ/Nx/FJdrhJu+Z1dZV+k+DCyhPuwb84AS4eewBeU+LGmz0LYvigRatiTSLEvSf5TFF/sZu/XvqiZ/OCNEoT1bjxJLQMmMjFRymresY1zLNR5c2Ku4V9MaOQtjBQp+mL/Mz+Ouk7U96hjmrJP5kdP4n73lj7X4rJ99wi+lN+0ilLC6qHg8iQW+uaEEuZ62et005cMZ+ApqE2Tbk8Jjzk7aZ9jrE3vWF81DH4I/sRMfI/ikqmZhNTAZzekzTgnssjwXQyebSdQNC6ITW0p156so3F7svlcMDwbPdtUsnd1ipxaq6IjTi7fSx3fhItchqN2TLtdzdx6B79yI0Lx/eT+L/u9Jne7cWBNKCW53q1Z6BfYjI+BH5YZXU39zovzP8WsQ3ow9ztUGCAHFlGDCM0+lKEKAAA==;base64,
 ---
 
 ## Overview of Software Engineering

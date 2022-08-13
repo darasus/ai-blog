@@ -23,8 +23,8 @@ intro: Starting a business can be an exciting challenge. Passion and drive are
   some of the practical steps you need to take if you want to launch a business,
   while also keeping in mind the realities of operating your own company, so
   that you plan accordingly from the start.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-turn-your-passion-into-a-profitable-business.png
+imageSrcBase64: data:UklGRgADAABXRUJQVlA4IPQCAADwDwCdASoyADIAPm0ylUckIyIhJhqrsIANiWIAzBnRP0/le+MbgHiAbTBumfWS+gB5Wf7AfBh+3Po5Uff8cMfjwsygeBukmxI/271G87ioN+s3WH9B0ypbkJnRNFgsVkJ8a7AYA9DooBheXxHlLraVdDkKTdqv/J5PcvM2RO1f/hGguP5juZwAAP75vkvl71W7+e8i7//sfiSsTR8KOqoZtNFm3j9L0ajX+9rWsDf8DwU/uQWzut1tyzalyiSbDi9OG7RQWUTv4xVSKtrxtgL54mBSkPOVratf9oHmo+6bcUfG+/+LD/w1ffPZoWdZQGQIcal61FLZ4PqvW1r9vxozbmdPDzHsfLR/47UPO3bdX3wdYbHxvHtunj0cKobnGw5U/6jvZPblcoUf18DuA+IBwrxQuSjlO8EL1wPnnTPkDDyjLUDdA8Wv73p/bHV9so5ao6Q2lluAFAAozWGGX0LzdqmVaK3v20R/1SO+oc63ezKkJ0QKyVIv+7P1oqFxi+sPfuefMiXE2y0Ulilw9D/3r26vQnQgDVA7o02lXT1tVte2HqGvjALxY5ywrfWhMtHo2G8CvZTTunAGRDbFBECfhW9xXBg6/qE1/PHZSmX/LeElyno75Uj+RPiX+4fpYyjtW8gzyfyNmol//jVFA5vTNjGNX7s1th2Vf2yNf2qYsIh12S15Vw9drrpxEL9mAPK/uBqHyFUiuUXJWWZEONmOpgid3/huhWL3y1U3+FDP1GPNZIJO1ZIV5cKrepgAdZ2lGpsAb2J5u3j+G/98plPLPEsVatMhNdUJRF6pf4Cms9uYHKPgB8+0AzwpJMZzqcniMbNHVrafA4R+DQY1jlaTz4CxVk7//TpMyIFs7k6DOsyl19aAs+ODLHpJfhqmZZU5b+g0qU5n7QEukry87N8Yq9136/iq22iF1+um+7qGz5AoGlrI1DObS/JY+I7yhPzp+25Pg4MFpvYfkptsT/sPU+tO8JgeD2OYw48wIF9YAkgAAAA=;base64,
 ---
 
 ## Define Your Company’s Mission And Goals

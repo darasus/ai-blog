@@ -19,8 +19,8 @@ intro: >-
   loop? Coding shortcuts!
 
   A lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn’t have time to invest in learning every last bit of it before they can start creating useful programs.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-best-coding-shortcuts-for-beginners.png
+imageSrcBase64: data:UklGRtwCAABXRUJQVlA4INACAADwDwCdASoyADIAPm0yk0ekIqGhJguwgA2JQBKgabl2T8jMDtrlmAHTq6YBz4n7M/C9/spedUgjlraLIf/MP8p4C38d6AfTfTk+a7z7vmTz+/Rv/K9wbozeiaaS4ZtR2Y48llgkR1pMAzbDg6UwhjTNmMuR0IzyiKw+CNKY2FPP6rO/EfiMId8AAP72E1//jKnjKnjKn/GVPzPAhUgQwBkjEq0xwnvxC86zRuvThqXGv5D5+R+O7bTPmHfPbzT3wnZ42/FJt61bwCS+NcWmqhd8IoDJ60s1W0IABlr7w+v0vfxsH5+64/dQOgVsXk/42pCfVFjZSOvWp+5A65NGEa//VwUWq644tmPBQuHP+Cb/pcdMpdiN8yW4/7VYp8D/1I0/9on/1I0rpGiDn0B8pO+oYGknbUg/HINWe6GrKP4ZrwmYI9du+uHzo50pOFGt1RPwS5WCma/iw9/fPGCpyBOW4Z8fp3vCcfubnYPOfEhVmyDl0xPSKccD359qGgq2zLHn/vHedJ8CRzEkvRSyuj0D9G+ybm30lSi08pb8X7CX0KZ1ZNZbl5XLjX4Rw54Y61ZMgMqfi6J8cj10hj4LMyfmuJ5rT8PhRSeollq+uINcBatVihnp/AMrQG+W0FaaSWEX/cpiD4XW4uvI8xlUnUQUAWCw/35HHLKv/GWlVWtMiGTuACe9cpvkbQyWfYatAZfPOieW8AsGcwf8o2Hu8V1auEapSTTTEG/GLp88Q8osDss9EFlqqwu/7FEWAg3/Yoijii3BGTTanuDjW2VSsOi8aSJiaP0Nudj0mctnPmEXN2TCANoD9bd0kNbqN+yFNBAmhrkH7qwnxiH2wnWeJvp1nLRYksCv6ctmUdVnLqlymwouuK3t0T527Vfcz27cQYUediFoQtWy5FjrOX37+P+XRzCy8s0CwJjFCI66j5rj3U+XnQsZP1gOVRXiOdoYAAA=;base64,
 ---
 
 ## Don’t Become Drowned In Details When Coding

@@ -27,8 +27,8 @@ intro: The world of work has changed rapidly. People are no longer confined to
   in the areas of exercise, mindfulness and nutrition — as well as a range of
   other measures designed to give people more control over their lives outside
   of work.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-role-of-exercise-in-achieving-optimal-productivity.png
+imageSrcBase64: data:UklGRrYCAABXRUJQVlA4IKoCAADQDACdASoyADIAPm0wlUYkIyIjLhbZyIANiUAZyIKH+uTXf697HV21eZ95YPp72B/1S6GYkMx00KH9T/qV+oXgNndAKQ5kUROYqk1J/lGAFfs4yn8EGrPb2mrfc04G+aBaTcFORehjKDGcPYoyDgAA/v37yZKJGM5bYP/1j/9Yf4swYBI/NpDSJvZV3WxEh99c3BNB98X211sUXjxW7FsLpVem0D7a5v3//+DX5VFx0H/7zaf+ateH/aBhn9ZNm3oFbhldy0EhCURpIPpsK7MnulQF16Tm2HVfpbprfgJ2NC2gH/ulmnvXPNOoP3LBf4i/I4fWEPkpvuKkxOKfu8yS84tt3Z38hjp1ys1QDrrgBEutQPia1GXXXKxC1OX3tacs3CnrlZOiGYxbIhFfrfD6dqM3IzNej7fiGRsRiyIkcxhxwOHS5YfQtxkxlF9D9nCQoWcoKFGPJ3BXr/xMDC9/dNuWeKYmimvORCZVsw19ovaniMg2l0QbuTZgTzKgfl/xWVT7LynKCbfTIVPmlMbG1zUf6r3VFoT264s/Umn0UauT/oYb9UqshPBz/sca2mKqK/4fu6ZnpZ7MtZTcdiTyf/DyS89pKNrB6sH0QpXqGx0uJ9bZEv6E9BuZ7+/+WwJBDLdyqnkXP3PrLHSms+OJj0KTJkFsoJmPZ5PFS4pbdCF60hWoi2733dTrGbHf1n+daKR6jZSeX9jJaeV/WfNue98qhN0jaz0yflN1FScUaVFWk9k8sWTR54IZKqvfusjpkVxhjJSk/+/767wj6WZ7lI7XIx7mCKbfvhQGkX4cESklorsGzKflYGZIzD/qLQVDikDAeYYeZHJad+DghTFBzVzCAlvVGD2dL3HZi4mPBKUr/fQqbniF+PSbRLCdKmzdQ+hcE/KuOAAA;base64,
 ---
 
 ## Exercise for productivity

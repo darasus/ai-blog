@@ -21,8 +21,8 @@ intro: >-
   If you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python — the primary programming language for game development. 
 
   This article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-game-development.png
+imageSrcBase64: data:UklGRhIEAABXRUJQVlA4IAYEAACQEwCdASoyADIAPm0slEakIiIhLBgKaIANiWwAxE0ve74r3z8foulRnAP1u/VXsAegB+qvWI/tH7AH6u+md7GH7Tejz//6aL9u/ITKHPiZp3xAfR3zM/7v+XevV/0Ho8/7vl0+fP9r7h360/8rsRm0j5dfeRqr7YrNpFyh6FlVBGO4dVHe8WswqIkAwnPxJgE4KC90t6wkFHAgrgBAaMClfdjR3QAA/v5H0/bfphNliDkvtJPfshgdpS0gYOHwfP8Jl/ZT+aEj10XEn2omy0Mu1kTZv6YXAMRd2qff/gu1G//82/+C6ew/7ruvmxL5XL6f49+s3nGSOntZ69Zp3fapmAVsahuz/yPiwDFdBu3h90K0h87Wpbg2+VeWITQ3I2MNifX+SbegYsBHnusgr6oUsc3qOdCmIddR8Fv/djDBca4v/JV9uZXgjrBvTXIIoom8ao1j/n17W2XSWxKY01Qg+SUOUsI4L3qULtvIdSx/3ZdePgB5zQ3qQB2jMX65bwfFM05Xsi5wya5AeSrqfLpiC5jLLhmkAf3/DY4H+7FFm2xJaREKUfu048eizdSSz+I88NWPOg67sTT3DVC/6OejS5XhJsX22Yl/D8FPD28aYRYFFED4Sv+8B+Y+m58UhsXMkF78jQc3j389qh3p2gQDFAof/ww7V2+WbNFC14nnLJTRgmgP3wTcdLp6+R48TJmeTx1OoSd+IxdHLVvwx4o5IGYYjQjO7atmbM1HEaNnTh7V/NfDyqlQ9HHSA6Kl38C4Vf/Ne1BZC//8ueVLNtVzwwOamGP7hjVdXD5+fvNd2NT34fxPO7aN8DGEr5xDxMvv4pQ32flEuth7rxBWiqPxhP1e0xmYaEz5R9H3lbjRoj0zNFaiZqgP/Sixd1eD/3+gjUZD/YZYs8gwwUK3Qk35v+M+MZFUmYXA7TwDVhgdmdE9MuEyR8PoJxZ2GW9IHBXwnZnEneeuLc4iPJCMf9QoB4U+AQ/+8GTqfB+OsVBKxoKlLZeK0Xd/wyrJrwGCaBT72kfEpOV3AwF7p+luxOqoClzRHxRfN3/vArQnDDvysSnyY2TGr4oKOwD+79KcidM1HXNb6U4XpQXC7LPCoWqxgR21A6Kr/YPCbY8P8mg4CvGr+6l54m6z8PO090N4oerfYZkC4fLxb+vp5wmJog956/HwPnbki1cabuZDWjUWN5XVmF/JOErDP6yOsa8WVUzlhjQJsY9Lm+h+Rc5kCXZ/AI1yXGy3yBqu7TKdleqC6iAGgDvSPN69FUT2yT0tfizV8xQhfIsYXVmvWq5QxSBl6Q73oT/+UC+8MQPj5ce7XHcH+X6ic2DKf1B5nW5ixnHAN0ZBUcN/NoBxogpR1KLrrQsAAAAA;base64,
 ---
 
 ## What Is Python?

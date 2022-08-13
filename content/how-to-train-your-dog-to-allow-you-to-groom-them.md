@@ -18,8 +18,8 @@ intro: >-
   help train them to allow you to do so. 
 
   Dog grooming is something that many pet owners struggle with from time to time, especially if your pet has a specific type of fur that doesn’t grow too much like long hair or curly hair. It’s natural for dogs to dislike having their hair caught in things like bushes or trees while they hunt or run around outside; however, it can also be difficult when trying to keep their hair short and tidy at home.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-allow-you-to-groom-them.png
+imageSrcBase64: data:UklGRsADAABXRUJQVlA4ILQDAABQEQCdASoyADIAPm0skUakIiGhLhSdUIANiWgAzIw5jilQjSwA4Fe2z59D0AbwBvNExmey5B2+rtPf3zeiuIfy3iA0n2OH/e/cB8fuch6K9gf9YN8vIenuHPzWYaoJJBq8w3/C+WrIKBEgM7VAt6zBgljMPsdFvC7yDEw0M9LQHnAuiDRUDuEoelPQgrta2EVCvwAA/vzWCyN8i9HJ/s3MQ5Sf9chd+Ghjv1POD8/hwaTMNv0k1n2yTIB90fNbPIJ2fxbR47Y/6Vobe/ELyaKdnDthXLKK4ss5+17/0SV3YR//VO5Hvs2/57O2vM2Ds4vsC/6/rju1RQRyyvfOf9zHPjkhkmA/+AD7DS8U4tB4H8xAp2X0juOcjBSIlRML1pljW81843vdW9dWKs7bsgI/bmsr8uue7B75LUw3bPYTCsdQksin2FvI5PW0Ws5sd1pWjjJ7//tejasWU2m6p11GOapZoeAxIrq4aC2pIt1fQEYjONnT6g2b1GVvgyqVWxEMROKgLp7Lc4HiPOLj+SzSE+utd+ks6/YY9VsEao+fRJxrYRBQbxtHeyl2cA++0Zv/5/4A6pfKgeOP38NeSFEwDR9tY+23pC2c/NpRr+CIrn5SHdD/+BE502kHuaLgrhopFDCAkPXpIYvDiZPbTd+FOh1WhecZs2hI8Z2ZPDFsvuCM3yLSh6ixoY2JdVbV5d8rz7Pt/tE/tce4rqLCHIBNqDMn1F9zueL5Js0lKdtXvAKzyiL4bQ1f1nvc5joi/Ip0wCz6Nt0u5GVlaSfV7WmvxldCBEK7ulIdUoBhk3wmCk3LJG+biNmJeNVCnfOrBwwK88VaLElG0bKucJP40s1uUT95wNbKcnk4SW7pEBIa3oSLjSgg7zQxHUauM7c0bfS45OVZyrzcsMPmc7wg4Ua/Gb7Vo/vIMeDVZF+43ZPz8sYNt+eMQ3LJ35QnWSQ1TJjv7HQbeVsMfdpqfCcVegZHJ5pAM6ZFHNWdgm05NP8njoVbIW0L8pV2eElyMS28HQfEEUR9wUa+VYbmrB1WshPx4sXLiamGDsOtIns+QkEYvMtJPIcwyicjkVdoJuqyj5R6y7AIqu/VivfJ7hvT0aB7+fmj+z16gubJAtPbfS8ikpiWQ01FL3zAXtvTTu+5+twkuucqc2qvP6/9fdHFU03UrxVAq+6MDZzTtZrbs8pOmtcQQWqgbIxAignqbY65aNn54SjEW7PZdXbJS7XjWjlE09/GyMyH64j6ZiJeDISYA64AAAA=;base64,
 ---
 
 ## What you will need

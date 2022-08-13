@@ -20,8 +20,8 @@ intro: >-
   Airlines across the world have responded by reducing their service and capacity, which has led to a decrease in air travel demand and left many airlines with unprofitable operations. Some airlines have even ceased operations completely until demand returns or they see an opportunity for sustainable growth once the pandemic ends. 
 
   The global pandemic has impacted all airlines, not just those directly affected regions. Regardless of where you’re flying from or to, here’s what you need to know about your flight during this turbulent time:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/airlines-are-struggling-to-stay-afloat-amid-the-pandemic.png
+imageSrcBase64: data:UklGRuADAABXRUJQVlA4INQDAABQEwCdASoyADIAPm0wk0akIyGhLBqqaIANiWwAwRUAOgY1z4D8Zuhd6CkEvPxgOVu9TfmA/Yv9cve19FvoAfsB1gHoAeW3+1Xwe/u76UVIH4N1gPsr3mmoEqCduee/zss170r+vnwB/rV1ivRE/W49gFQEOct3q0FsB3nQr3g5eCiZefLI8VLZZ48+fhQlzBsIs6JUUYz1UfFinj1g8QA7ANgAAP7v7mPze5Y0J0N/8/P+fn/Pz/8+viJx2GJfgmFQW0zMEg0X/7aXyN2Az4Md4k8wRkH8zDEAxNuMqTv9FSf3lJPLQwHa1YDN7DH2s/bdre7RZ3GYu+nEy40zj+drYzyOlXx0JivCv/e0x9uL79I+98CYeiNsM1XlphfsLEoiPzaHpLEshlnZzr0i4k1CVHJVE4DRBYa2Bky4ZZLqRAF/HZ1+Z6fqb1Kxm8xr+wB00SxAIP7ndHSh72GuzfAeH4MgxvX6DN/XPq6ZkMLWMol1prf0s0Rw2VCXDDcCn3oWvn6ZgN/bm78vCHDmLX2oZnOm0zvqSUQxGC+r5zuHqaeS/Kr56lq72sE5kPV7eBbK/9iesbaGrQPsSLVEnEjGVwtd34qAH7E6qZVY4Asg+T9J75UEL8CZ0nuzWQ7TVazAqa/0Duy0NAq7uWRM7pSlm7DE/55ee536CgR9LVkufKnxnLBWO/L3Xax1Fg9bc6Ik5XzKn+dMRJLwByMZO267JjDbOIAoW3a2Twb716s0/llQEmFjrh8tNSs89Vxps7GPYllULvcrN0skBW1VxBHCO0/uKDohpOVOWcRHrHNC5wwP4PesyJXKiELPHyWVWDdFcr7vRYaY4druQBSKhHv/uwccCD2G5yBbLX97YN4V9gGNW3GggLQWiCuTwBnjJ8ObX5BsQq3yRDwxiqMuYLU3eVYQHmAdsURDU2ifMFQFl/SsnFJfbWw1UHIrexv4f4yu+GOpxO5Qy5uzjGxdmw7SIZY9weTmm+DvMXhcY52C2QBwYhYGoUQJ27+XjUcA8oeeonYzgm7g7wthmX/jneZ3E9PjHkWtLFsU0V/56WasXT2ACj7HIzlzR67NeTNXhoY7LPFxLOQ5VT/iXKsAnO9gFTa1CeAlWkp91z760GQbrWdMR7rIwfPmSfpVY4TZ49Jt48mDiyIKDTdhEPs3Cu3RpGYPDLECFl9qL3Cgh9DoAJQxawMuFdeZ7Hithzq70WMMlhrynfQw2N5ri2GSOZ5jv+n0T8eh2YjR1uiCf8vUsSyKeFWJwGddhuRtiE6vpi8fDA6I5meHnz7HXCmEl1rrRgAAAA==;base64,
 ---
 
 ## What’s Causing The Pandemic?

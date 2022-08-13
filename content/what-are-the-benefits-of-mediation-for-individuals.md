@@ -22,8 +22,8 @@ intro: In today’s world, there is an increasing number of individuals who are
   on a single thought or idea with little external distraction.This article
   discusses the benefits of mediation for individuals as well as how it can be
   implemented in one’s life.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/what-are-the-benefits-of-mediation-for-individuals.png
+imageSrcBase64: data:UklGRvoBAABXRUJQVlA4IO4BAAAQCgCdASoyADIAPm00lUgkIqIhJBgLaIANiUAYfMJn84QVK/FMzfCDAo8L9y4dPKZZYJLICvyHUYCshhNu9PHXFpE3B3eWVE94ASZId0IR/fMmDex5E6IroAD++MsVO5HnbtWqOZTwrRmi0dRiJvXMdJ4TRzJJgpdVSxPsIQNl6ladNjQTfiSDVPw5PBrFBlW+TjL1RDY6tO5W1vWCvvPSG9r/hdleIv6PlvwndRGgmjtWYD9UQOxlpmmuRAnZfNC17x8cd2T3HFoJy8OrgEVmVOLkCimSK5f1OebP9mPSKk1173svwq9HgFAWsWfYqwTdfn/1M2ncHV4tca7vX8cI/pGP6+KCAj+jaIcHWtyClPsu4YvmRWG1/Vn5UQEw2pfVuykh8kp6QF4ptcrrcA0J0avWeVsVajVAZwOGn7Ql71yVW6qsbl/sNP8Jw8U0FkCfFpzNO17hlufrJ+ReII9+woGEY4IxHoTu8QF01Riu82bBEcVlL3xYc1NDSnbLabnIM76fpd2ADaa68D8RK6ZnIVf/0C8O1CxA2oyRrG5sPxoHANmfXvOQCltCj/r/x8tQ2AmwAwvx/ZbX3T7ff8d2fm0unoYxd4RqrMg4t34JY1IoSPCw676rwhxkR/Na63owt4UeyT/oTB+kz9IAAA==;base64,
 ---
 
 ## Reduce Stress And Anxiety

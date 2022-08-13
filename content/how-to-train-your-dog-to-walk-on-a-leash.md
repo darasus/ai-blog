@@ -20,8 +20,8 @@ intro: >-
   Dog training is not strictly for competitive dogs or breeds with inherent instincts, such as hunting or herding dogs. Any dog can be trained and even smaller puppies can be socialized from an early age. With patience, dedication and the right strategies, anyone can train their dog. 
 
   Training sessions should be fun for both you and your dog. They should never involve negative reinforcement or fear-inducing techniques like alpha roles or growling at them. To get started, read our helpful tips below on how to train your puppy to walk on a leash:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-walk-on-a-leash.png
+imageSrcBase64: data:UklGRqADAABXRUJQVlA4IJQDAACQEgCdASoyADIAPm0wlEekIqIhKBQLUIANiWwAwzEAOnQ1z5H8Zudm4rkBPdm7/8V7GvEi/se6A/Wv/Jf2D3o+kA/oH+Z6wD0AP2A9J72Kv2E/Z/2d//rFeqfd8GWZwA4mO+LMYaCd3rEBR4339zKS3vK50aBO5L6ELrwT4ebixcEyew9G4K330rqsqRKGgQuiSxkgXJamIj2hycQoAP7emd4DDu/eszBaMh5kqzhru9FXIVjbyy5XoszZ591ChKNZU6xqC7w/zv/B6BK0bM8M7TPeUyfNzNl4w4hW6P4aL93qc4mh2LtRXDsVoTJdOSTa2gmyp8+3AW1efm2qn7HbwMN5feK2t1W02p2A8qWyAoyusbXEv+EzVFhxufD98hSQOl+HN8LZR98op487Di9JnEdYFLi4CSvby6rxbeicNBxN8Zz1fmVmtdFatlL7n1l5gf/ME6KVQF3fo+dB7o0QpYeFUPUxaqLhhqV/Mq/LNwPz/vTs8tgi97prtzKZ8vw2wjqxfuBSprAdMVyp5lZRyb6zlsVqz+TKZwR6iSUlweAssMEWcP4GGc+F2lN0XyjsAOSTNtP8a2Z2xAvrJKaZZyARCeqOwka9FEB99j4mx85UKGHn/xyTucC6LWQLp2nXMaYq8uW8JOS5XZTYmb4WaTzkfaDzKD5LtXGKsvOg/0jf+X1f99mriK0EuuRtX+WNoXMYlTc34x2I+7cO/xvCnePCjt6wivRk633uVEwQcgaHNcjQpJWWNbNuKgzQHnox+45f5eUTuAFLmJv99ul/Hb9w2Vb4AaUqpXQDQ0spd52ijTkr7OGmRPai9d4kmqMa9mOfMzul2+kimWzy0vXGJ6g7A27DI51s8jOkl+7WhH4s2yBFixLKVMXt6+QEweTcUOAbE/XhPeC5DnMsUN9s/4at7rwEJfSFSsF2XTdZSg9UluLsEQ08/1dALygozqKmRYaWK6SeaTKOjmQI0gZuWrsZAPJkv2Y25fvfUVnXxE5KCGkXot4DjIfz7pm+6YOSfDZCzVHU5B1XK3qsGn34C9M1PTATGmIV6WSoM3zVhhtVHjqLreHJZtYTWuJAenhG3XXdYxyhp4DWp/RZ6vImujTHRBaH9IT678P/GifpyQuMvLhvBQv3le474JMhrECPpEbNfWM+nYDmguF9iJ72N6RPXolI1f1WM4tdWzBvgG+e1DaCsYClOvi0wsCJAKI4AAAA;base64,
 ---
 
 ## What You’ll Need

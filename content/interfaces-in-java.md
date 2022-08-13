@@ -21,8 +21,8 @@ intro: >-
   An interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.
 
   When we use interfaces, we are creating contracts between our classes that they will behave in a certain way—that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/interfaces-in-java.png
+imageSrcBase64: data:UklGRmICAABXRUJQVlA4IFYCAABwDACdASoyADIAPm0slUYkIqIhLhbaqIANiWMAyqx7U5u9PAbfG7K3xRuOpt35D/oP2CP1j6GY+EfLsHd3m98FuuNYPAFDFWAWw+TwqUpvxjNqwR/dcQPQuS8uY7n5uuber/+2davq+r9wjNAA/v7CdcKN8PjEQOm/9nS3BHRASdbnU8oxajmQKL/dd0ZEt/+kuHggzHzkkUsQkwQ5zrPs4HSvkllVUhSdUoNd38MOsccTakf/x/1lFVz2fvMKCvfj82I5Wu9PPX4RYa9hNYD9OZpIxuedenFS+1fBz5OuaoYOF8vQyTvFMtC30Gt5U6hQ4EshlU/wv83sYl2cXRKX8ZwpSXAa/+N0tAhXakEPt/KUdf2TnlKxCadqt2/eVqMicRlo5FK5GGMgcaXmcZGyRHFB5wqFn6a9mM9HNQHat9N87un1BkswCwPZIGz2upHb/tITK6u75g4G3agJR1leP4PjLc1XEOZ+snpB9yYb4bYMYn+rTZWR4b9jQr+9Ptokode63vs38Po2Hih/wHcPip5DtaPu7WjIJya11iYRpCFQtjMtbtFllKvycA6DsN5hGjR8HO8eS50eLj81o/bgKk8rxpQrv+sFL+WwDk/d8rWlmu2vwzEp0blyY+zPVvMioPGC8gOIjAslQa4IgCUWA1PG+iHHNFR5qE7EUXGGHeT9bmiAJnnfKcW8KHeRDlguveOUa8+8WXFDgO+gQ5d0TgfCO4v/+byYC/eGQz2xWmZtSWU8syJCNL9rDDNord7Ot+32zVz3qGmrWn/GVVbLABHAAAAA;base64,
 ---
 
 ## Why use interfaces?

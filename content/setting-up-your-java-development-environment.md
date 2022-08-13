@@ -24,8 +24,8 @@ intro: >-
   coding as soon as possible. 
 
   If you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we’ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/setting-up-your-java-development-environment.png
+imageSrcBase64: data:UklGRpIDAABXRUJQVlA4IIYDAACwFACdASoyADIAPm0ukkWkIqGXC244QAbEoAlQNRYQBYXPUBtgPMB+qH6u++3pgG8s12XWYe4fkvlOwwR5P+7fk9wg2P/9bxgds/xg3c3qGfyz/af0D2Ic67zX/0v798Af8s/qv/P7Bf7R+w7+4BNYFkHcphlANmbP4VJrc7oq+TuCLzVaWSK6YHHolr93z6H2irc8OhlHAO4fogUSjSJgH66b+ki1Ov1By7sOZOAA/v7jN9Cl1aZ7TqcJV/xrGm+3/ZwWh+rvMgffqBRH2QBwTgNCiZECbZY59UdlgJzovU6rL2BUOJVk/P5dJw+m1VMc13YWJNezdVFxsFRrWTZ75IJWZqIEWAc+S5FGh9I8zs7RYWnFk8YvE9ZHhT4wH/kqrQBJvICn0ZM0orgm+dNBQ/KBItUlOxHa+II7yGOqURlH8uIDMl9DfAwc2B23a8sxFR3YtiBLSHv0wOOYu2HZ0OPHMl/b8Vo/kMPcuiHQMYXkKevarloP+wo3kfQu9u9ar6BhL54W+9SYp0M5zrJ0zrvT6Mm0Y0OJK7VESU/RtooVZ/9F/80CXxXUKXONullR+jfL97Qux9pv5eGi8nNTenzr7qrw4jaKGkk+pZ77o90eCXdRPiXLKMiNWX0uCkjf+zIuq3bIsSP9MVWZj3OJpHr6YJfS7eOzxtFfK5tFsp0aHeX8aOefOpw6xbdv1GlI/5WKvm8FST0q8Yxfk1/k5TKmcxqaHolMXT0qr1Ak72Ds+hGQB+BSqs3vo9ILN8Xel5zcpgjXoVXK7mfB/8B3fm/36WqMACjIiP0K2D+LfLCF/kmPvZUdbQG0RANgLWPPF2ucY3/yqNBh+Czq+WPdl8G3h3M/wignhRmptJj4VSbys/Nlhz3+0fu6iPhe9gdvA+XfH3CDxiub79lqs1HLR1jKAPe+1a4uRs9fjx48vtiEuSWGoosNQ+NFqi3/q33/wjj2mPeF/mI+tMDIvPxalKmOJ2cakSeK5Ur5FshLFJTPO2/v9h/89VHGhdFSZqgv+XOz01XDtQRQTCxvXZlHtef4ov4gxwjlV/86hC8HG3aZEV/YIz8uAk2YB9Lh1YQDOKhH+jhgUnDMcw0GBzxTUFjnEwHvwH57aPtjoZcL/cAx/yvtF/WQWwwhVy014k1Pxe0wFGNShdkCGDa7VRMjisvmvnXzYfXg0g24ySwyNe4kAAAAAA==;base64,
 ---
 
 ## How to set up your Java development environment?

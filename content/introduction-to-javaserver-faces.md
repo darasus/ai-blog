@@ -22,8 +22,8 @@ intro: >-
   A user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.
 
   In this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/introduction-to-javaserver-faces.png
+imageSrcBase64: data:UklGRswCAABXRUJQVlA4IMACAACQDQCdASoyADIAPm0ukkakIqGhLBVcyIANiUAYzo0hvR354vI1H5W6YyZjC/3bwBo1fQGz2/VXsF9IvyQEcNhYIz7EunmBFjDQ27W2XBN6idOvjg3AtnMejUM/Ht2bEjk67xNhU/D5SJR3T9axfMK2moLBbAAA/v8JMr/x4l2fvvpmZcqwdBZ4jsBYfpv8uKFh1oFNTDmEiJpFf9wb9IGQ9MNS6hFyd79jeHnWdQ+ueQun+HAjqV6Pi8Q/m6K4CO4ars/+rs936eIISeG3ZylKF5vtIHEz1U/HaczVPeEPB4Ovx07F8oCEaWuBn1A68/Ftd1ukJbPsuAnyPyRVJUtLO/GY5CuXycSU/eDCeRyT7il8Tt/adF+sFxiXxvUSANPIW1eDY9IZ3/R+APt/dg9fTIMFuRn0efVLwTwiYFS40GaxR09vgG41vil26o8G85rJ7RhXEr53dlJdfP2eD4QryddCUIJ8Kj7nwkQjtjyTIe02tVkKKtXnooMriOTva35w7BIzSJ3rZ7/DgOf8XLpgvC7/n4o8AZEl2ASRDQy3dMIgorACLzuTyhkZbDlS1Vd7g8L1Hck3BCRPmrDylVziK2Br4ne0rPadAAxY/GgtcQajsXuV2vDWY7I8PA0lT2IokQH3qWVmQz7tiwtnbbtiRz5PpwQfcucTtpn+OApRiocUjArw3j30KGz250A2wCwoJChq5O/wRQZYe6+lIX3ls7NOFnxhhdWiQVWRGGgS6AHgU08mWTdAXZxb/k3GD3z1B344RdN9Z9l65bAlL9bneZtu0f3ZMt4NzEMp9JJBMLW/h0pa+L1VnJEDhTHDp+BZeuuUdkSGIUrTRFyW9z1mjY/F6BVQxIiNnXhrRUH0DaJoADiOdjHTJ8PiZLRcZFoap5byXyTVungQnpFS67sRF8nuIuS2TiQKn89ilgAAAA==;base64,
 ---
 
 ## What is JavaServer Faces?

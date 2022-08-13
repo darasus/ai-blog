@@ -23,8 +23,8 @@ intro: >-
   Mediation is very different from other forms of ADR because there is no neutral third party adjudicator present during mediation sessions. Rather, both parties agree to let a neutral mediator facilitate their discussion and suggest ways the two sides might be able to settle on amicable terms that are mutually beneficial.
 
   Furthermore, unlike arbitration, which uses a third party neutral arbitrator to resolve disputes privately with no input from either party, with mediation there’s no need for secret proceedings or winner take all outcomes. Instead, both sides come together in order to find the best possible outcome for everyone involved by working through issues towards an agreeable solution that works for everyone.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/what-are-the-steps-of-mediation.png
+imageSrcBase64: data:UklGRkwDAABXRUJQVlA4IEADAACwEACdASoyADIAPm0wk0akIyGhKhZroIANiWgAx5vAevb4D3ujzP1geYD9YP1m98DTAOfO9jD9zrBH+q/iTZBeAFKj/2HGBpAsYHqlf0XkA+kvYI/WLrMmv5lXIz4QXtr5cj6NP4M0Dg3zslyMXMV6HmnBWe3kfgu/xS210ZJ8SOxS3j0R4T1TpJJQF0QAAP72gI5mdJQOpzzzJw/zVX86Wcs784iwF/LqHxDmJVpnTkuhHNb//Cmv8Ka/uUA2NzipKy56MvAB8X48U+KzBudf96orcVqPAELo3+d/pZ9cYFtN298OjuXhl5diXH+B3+s0sqRBVC/BRzug08jK669hWP7BpdQL6oeSqmZPod/7Aj2iON638dRf+COgKdFP30H9lYRS8mdShfDiuWCPghd1LAe9p/x7b0uEHjbpHpRlH+G1rlU7v1n+ku6wNXAEH/Uct7NYs+cjncKL16dhh9v0E9qdP35WxRxWzWjyu/MV13ut/Fvq2jz25xgzo+WCc3zMfyyHFn8Qj+eNC+iiIMr9VWfx5axaoSPP54oJ5T+Y5kz4piPD7hiuBP/4EdISsLpL/S/C6wey6alWnbyKGESYibqruPckAiycdBGyzCE+WeNfnhHJjt+Rhx9AGo03qRkpkvTOTcK2KJTQsVpwDQVh6fzp+8mTOujGu4l5qzaT+WDkIzs6BUH2a6xem3s9MoVTd7EmJEvh+uMPwOWkDlfLhqQ7KLyj/NJwMRR6Syl6oFbIg/MXvhOA5fhBnQuc4YReW60rgI/1Xv5pY6ipL5z15mYN3K9/xKmcu5SAvk7tNFi+ntyifYlBhEhI1O3+5Vmbw5PyM7E6+LwnxSwkINLql1EWn+KzA6aRrT5qrESrFtSsVJlSohbTmgDG3JlqUr6h/LUixfBvFkz3ycOK3JDeo+mvXAJE/K5fcmuy0qpfQZDqr+5egtfyGDICqXn/IJg4l1oxMTkiVjrMrSL3c/hGm7UQwRTXi+kvybSlaqJxg3gVdIc2l1cqm61UagORVLqpNqjZzhRQBGefqljNSr/M9unoTk5s+Eucl4jL/P9lt3IvW6vLivZx6lJBJmcXXrjF44lvH82LwxyEVtAAAAAA;base64,
 ---
 
 ## What Are The Steps of Mediation?

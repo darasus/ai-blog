@@ -17,8 +17,8 @@ intro: >-
   recovered. Nowhere is this more apparent than today. 
 
   For the past few centuries, China has slowly but surely been climbing back from a period of relative obscurity. Today, it is once again one of the most powerful countries on Earth, with an economy larger than that of India and a population bigger than any other country except for India and Nigeria. Moreover, as numerous industry analysts and experts predict even further growth in the coming decades. So what exactly has led to this massive resurgence?
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-rise-of-china.png
+imageSrcBase64: data:UklGRqwCAABXRUJQVlA4IKACAABQDACdASoyADIAPm0wkkWkIyGYDAUAQAbEsQCDAMSj3ePeMftm/MB53Po53iveY1+BwM3hhmSM8QMO51WyErKSJw4V6724xh/cGHZ5zCXFnsDx9g3ygRoWk25Cc9UiklBiveNBieC/W/KlQAD+/PxM4LukuQD3/9XPryfS3xf6B0nvllsvnl/f5VxYPC3KgnUOMsxDrwHTAVOHOAEeARtLPv/7P4aqoHw/Tlg9y9//Hbnw0L4oA/GGk7sn0Y/5732+u5AxoFmuAijYf3ez3DOv8RIaf81ksQhzBxFc2SzTAh6Ev/tDMTL/YZzbIBDE9x7c3d2xdgllV56fqZ/9DjYiTnsVpzo3CqnZV46f32BFOGqKIgCVDQc/ud3N43Dm83TlnkLvHeMAmahSQtTRG/ESCikq1FPCbxOr15wmrBzpqFaSJxtMjPJ0zd6LaV8Qq73t0Ld5EFZi3bt5/T7ZLnDOhnhJQ/JzC4PuGbknCTixhDIHvU8nhmkqOs8j3pfv/uqiRhGhw7oTB17I/UX1EhKY3vsvOF7tPpr9L8HYCgCt45TksTTpUpIvQmxRLvEHmZSLQunljfbd7sksiLFgLvReRxugxq7ANyj0SgHtN1Ldbc9R+zsKp3uh/Ldjuv6+Ws9eJlNW3IPK7QwPy3reKIhD+LFdrSTJ7RurJxEgSdqPkZSwLutanM6Zev0UHXYX04ARpi2gqPRGRmLgPsEu/m98kKgP2kHdsQ1C18kEYLsMwIr7v2X+CE/mHo2Aje8Q3vxBgzQNT/hbOrFmIH4by6ea701x4oiY2p0iT6owBUREjqnJkpeTVils7Z0TLo42+DxTvxhbjgRPVZkO3ZyXM5eNyeW+NavB1Op4OValgY2HvGPc56TnkXbmyNoUAAAAAAA=;base64,
 ---
 
 ## A brief history of China

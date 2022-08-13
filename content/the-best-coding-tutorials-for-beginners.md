@@ -19,8 +19,8 @@ intro: Do you want to learn how to code but don’t know where to start? There a
   efficiently. From beginner level Python to intermediate HTML and CSS tutorials
   - you can learn all the essential skills of programming from these great
   resources. Try them out and become a coding pro in no time!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-best-coding-tutorials-for-beginners.png
+imageSrcBase64: data:UklGRgoDAABXRUJQVlA4IP4CAACQDgCdASoyADIAPm0ylEekIqIhJgpwgA2JYizAA1zGjfIBi52gjfnqA/EW8d8wHnmeg/eAPQA6WN8jmAdgQYFFAeAMY80IfT2oVksSu36kWCX+KBpr6FVAVLL+aPJC033axoVvtqpko+LhzmpUsKUCXvKMT9xjXPliIAsLkAD+uN3br4Bl4TqW08D5dve0/KlXyNC3DD//b6UP6w0n4ZVr+vLof/2aIF9L/j7I63/HuUr6PAWzizjXgVdoOIwZhbSGAGpKC83dFxZck5JM3r+qkO5ghJYwoRR+dtT7iaK8MYKqzXX6O9k+H0ybXexK8WC8JVvH4WWRtivUAXmJ2K4CAXvQZOg2rs1ajEVv1n3YCEh+XcA//es9EPzooc5g3etPfI9xvb+t7YjZv7Jf4EtJq3Dl/+xbAJDneI7KnEFPTykm2lMFX+XcS6asX7C/zO7vn2mk7w5d3v3UyVm0C58utnz6KXUTehwPbrm6rbGwKJkgerHNCJCSnITPOryKxdGeYymu827eXfxX9zpwi+3DKV3rA7cHYz7OmND0UZryqmb8D7YPu0pwP3er5tkP67jh//09ct0skUufTCuacQizI73xnpemv1xgY3llr3y5JiJHVnCJ3EAS7qV/+4IA7TZyk2lCGLcogqRnyukfS941cNvYgre+umAf4W0Wnk2by8KDn/61Azz1LrIuU4eyDjxRistOKAN1/uHLeoXqx8xk1/UXHUvpnLT3Z4RZ2usLFw8fzCB/UbTIPSPbZt4nfaRUJtXKkOUohbG9WP5lZU12EKs/Y1MGd/9DRLe+lEeHAicYJFF08AtyNy1mFoYniJYKgWp3kP5MVsKqtn938x2FQG5rj32ewQnEFzPSOOU6AHzoiRjI+gHxtbMcFqouQkewhOJbySVqu8qtKTLyM2bL3YwXfGIMaR0KV19zWqg0ujhw5mbb1v5jtzMHzoOCNpctptmqe4FiyTsDa0HAnEO26L+JHJXPkSgsrRqNcZmTQZV5cEGBOAIZ+uT8AAAA;base64,
 ---
 
 ## HTML and CSS Basics

@@ -22,8 +22,8 @@ intro: When you love something, it feels like there’s not enough time in the d
   right now—but trust us, it’s possible! Even if your schedule feels full beyond
   measure right now, there are always little cracks of space that can grow and
   expand into larger windows of opportunity.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-make-time-for-your-hobbies.png
+imageSrcBase64: data:UklGRoADAABXRUJQVlA4IHQDAABQEwCdASoyADIAPm0okEWkIiGYDP4AQAbEtgBfeiGBL+e5Q/peNq8c5T8bvqP2wHmA/Yb1pPRL6AH9V/s3pR+xb6AH7Ael5+z3wd/tp+xvtC//+L+2BmDemYaSDs4xz3H7Ji0/MW+Dw1scxWSTsaocQvXLi7ksChYngqWFO4Dj4iXz0V27KchSSa+oa7tz2DLPTODQc96UCVQRPLubesB4qeCAAP75xRjfjeDV7PQcKXe6SH6OUf2x1cPVzNxcuKuhbXETbf1XMG9YuB+SxQZ08Eu6zmZSVC+RB3l58SGD++qMe8hPkCYN1JbOvM1jVksaPHfgkep8BGL1QTXygkOcHKQkkyrKPrZE6Yca7pOO78PU9ctx1rv+bxT003giu4NkP/22d6t65belaYTrify4xu3Tk1e9iw87cnFXcVEl4rvHjzeBp9sRrzRdmAGWWB6XJGV2y+9ydJ5S/fv1vSacZSdcpXkEY4jmomzeb3UYkBtcP9pNBMK0DliqPQB80Icpq08ev0+s5LH4fNYcZsEejZU4HVVoWh5Ie3/wABClaq0Ucc478Ufu+BppEu+ctJ3b+lGaj5rqMFHiBXXoQaqCTL/t2ZbFEx9izq+ESWop9fnn0Jv6LA+mXcl03+E7NRTp31blq56SBF9j9m1EkBmw7Tcgk1TFTELE8zq8jjbwjvrMeSljJMAP4BlrcZSDI008Fml/nycaTpa+gM/pGYBFP5HlL292e4SL5v8lydd0LCERRJepSdvo0w7U3IaHyHMk1mDmGZmGtggLZZqgGfdOOP18aS3aPsT7ouZtyO+dt94NAiLsZ+KQEo9x8mqrt0S3wOhVaJS8HSYnjfm//Dyj6RtgXBrrALX+yf0Q7n4eyA57wTn33f95NKXWsO1R65y9p+S/pk5zCGS013/ll8GbPFuRsXtndP783dbX0b0Ht4ygvZgdwAplG/Y+kKU7+N6pWa3hOqAhh8sbhmEPlkhcqMk8vmOmjerCNL9G9GGVYDej6i6Rq+7RziJySNjlWfMDsO5yhorV5c8B6NQ4gnEofSKgHTTgO53ZS9KuC6VVrRZYl2JjLaT3nJR2REHLsE59qwe34Hi/+1TuAl8qgNUinEYXjYtM5e3cj/V+/8nyGD/9T5K6hlWYdATi6GJN3xbOQdnqcVfDPs/44AuPfNtwHaIAAA==;base64,
 ---
 
 ## Cut Out Tasks That Don’t Contribute to Meaning and Happiness

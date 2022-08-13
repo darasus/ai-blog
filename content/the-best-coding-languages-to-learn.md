@@ -22,8 +22,8 @@ intro: >-
   for you.
 
   Coding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-best-coding-languages-to-learn.png
+imageSrcBase64: data:UklGRlIEAABXRUJQVlA4IEYEAAAwFwCdASoyADIAPm0sk0akIiGhKhmcWIANiWwAx16m/gBywvKXgzJe6pH+q9iH47/s2+A81f6xfsB73foA8gD1Pf+B7AHoAfsB6W37R/Bb+5H7b+05//61Zyw+eZAjIDkd7qskGNG/zPgA6gXdHWro9P9z7I39X4yvpn2Cf1Z6uvowHjazMwpWacueRmkfRRhO9Gf1fqCBMS6yOAeLTSsvpIpDTRiCdHNcJFxV9dodZfPa/7YpzTFziZIZz64e0eyRAAD++bxd6D45P2y32osgK6b3zepJHD+1rlp8zTAD2ONQ7//HqP8eo/qP1y7OQjAKur8/waMifWRA3xOf/5zt5frc+TFL/we90jTwLPR8uAdT1tP7gNM6wjVbVryCfcJ3bXLdY7fdiKnZ1A2fTgZFoZ/VM/OpPEXwR+kt0zrECRaRaGXKo27grbbKhtyCgyghmYGbPjsZXA2EbKPUsW51Gfh1RmFulZsyeZFvTSkSV8XDG5ZlyoLK2X4WcJpvm5a5lve0RZTNBfEo+QlSE3v0J0xyFghm0dTN9ZrHuTTxKt9/83h/NP9rg4iUHkLv14kn9V5BC1DCfziF9W9GCAOPu3hLkOuJtxVmgOz1xtDZ/zKZ9/6GZI+OeZcMut8wggyQLJ+See8eOYPTOaCLwxS5pH87tt877C/FOKMJRCpPUsIKSOFaPXhGn2eCfCjT3Hk6iR5uutPo8qGNLjtxBexojBH4xm9OljpOPZQJVk3/AQN0XnHIDNn6R5u+3DUVKPa7/krJxHOKBUZX1tMQ7pBd2qlAtndfDdlu8Bc9UFDsXrFvKWxvzRnaQmpIq9b5Or7+a+Mm/kBsgSR/4tSbmbhgdbSY1sHL1kUlmv2+V5vrelj5po6n2EGrDB0GweI+Qc/02fbAT4u4WSfQRrKac1WxhC2AdMlgX/GRRsvk76mYo67vyxK6gGy+jvkW92H4GUf3/syWog4F8Radx9/NK1irYqGGueFJxdLw7dgjXdTOXum2/V6tL/3+hBrc9hGCte/chjETa98Jc8Zx2s+Gz7Wxrb+ERne3SreEdyxVZ3Q4TB6J2clH/l5nRQuAIAF8UMwlYeE48ohLk2TJ7aWUjHGdVwGw596H6xkWFuc9ZILQ4muScxhekjsx+fNls0hq4xu7+OvB3yR+hz4PX/S1hai5aQ1audVvs6aUawuUp8DPLTYlBoM/qnRLM8J3+3/206KbU6b0slSs4FCWI76MTxQY3Lgy02zAfxX65bskt660WOlwTpzzbB/y/15MDqXZmbLjq8XbilI+niI/ZfaabT6ZmoA/StoPzSVtCDjptw0fnWhTElsJ7+I8ff3DW7G8ec3QOPn7abHPJO+x3SfqmMrGu0zIY1MhzSbNbmtXs8dNi0/OC8b0VzmjyBVEq2qhPePruMqg4VBJ/s5ljsDFYo2S6RzGV695YoV0mi0cxrQJML09gAAAAA==;base64,
 ---
 
 ## Which Is The Best Programming Language To Learn?

@@ -19,8 +19,8 @@ intro: >-
   Working with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java – that it’s both stable and powerful.
 
   That doesn’t mean there aren’t plenty of frameworks and libraries to choose from – there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let’s take a look at some of your best options for building web apps with Java.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/web-applications-with-java.png
+imageSrcBase64: data:UklGRkADAABXRUJQVlA4IDQDAAAQEQCdASoyADIAPm0ylEckIyIhqhZqMIANiUAaaonfVdk7ytS6f5niAPOz5wDrAPQA8rf/Ae5+4E6gfsZl1hQ+QFJfZKnenne9AzSU89ewf+qvV09ED9VRq54+Q8i6cjBrMvauuxopvMaX3Mq7D9r/pDigTVfUcoCw37kzmvDldHlWCakxfQPlHS4fJ1Nr7xYAAP75y73+7MYnb4+GkmWOHBkP03O2Apslty35lSrHZnDgFxQJjUP/JiJRIBjA/L/Hj/8Tvqi5vmXeSfwmn2gvu1nvY/ftE7dY3/JDTo3+xwejGf4HILPh2lggkU2H+fHzLBlm57i462wXgQuLo2TltsAMJQqYKiUEM5O11iq7UBeNWiWefkvBryt/PJMXs3CJQPcCQnsH5cs/E0h/dc2FIovTpzsYefvE398PXeLiZob9zFHjy/2UHyRbZv3ixzEauX2KlFkxqEocV5h5F2Hkiok72Ak+O8oYiCt7Ris7Bf+2C5g0+N6N3pw4uD0Hx68FgogxjqV54CZwln11LQ9hxHa7Or8yx3/82IGH2TgqI3ZOHl/6v/tGxVz96G/gSQfJA+Bwk001uEtvyCmOcrWqsugTcf9qtpB3+f3O0rOv/UoqB7TujHbVl1j5cU8T8kza4RxnuHZk8r4rVDUev8mSuFd/yZmMjmtMvCs3ueUHKCr0m+e+9WHnKN83HKn/BCJKnHJ5KtB4tQOdGdY5l7qLLlxPbty92j7Ws0IuQqadXqK2Wq7PZWJGjgGNattANFbhB5H5VgaRb+M2I2jsgby5rQ1oH8HxcLgmHLIwODNjboqxyhZIT34EwBhEkz90q/Sgfmh336KN6FDE/WYXUdFZx6SHDaGBCYf0X0KhP4WPsp/k4Oqbe5vZi66kVhdBOaoJLvN/RESPK2wvgIFc7EQB3zi3PBkvOPZ3tZ/UC3Wpva0/k74TColer57ll53szvMO/f8WwKDnoIpEoq+e/3nbPZewmfpHKkfAgvxO/f53pGQ6aIdvOV68Qjn0Uv27EIzWWPyQD0KrXT4KDHSbb80Pe6z/dqK9ByZuJ091KJYS64PC551Bizup5qtqkd/0eMO5kAAA;base64,
 ---
 
 ## Spring MVC

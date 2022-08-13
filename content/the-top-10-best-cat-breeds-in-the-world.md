@@ -18,8 +18,8 @@ intro: >-
   denying that cats make wonderful pets. 
 
   There are a wide range of different breeds of cat but generally speaking there are two main categories; longhaired and shorthaired cats. Within these two groups there are numerous sub-groups and hybrids with specific traits from different types of cat – check out this article to learn more about the basic types of cat!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-top-10-best-cat-breeds-in-the-world.png
+imageSrcBase64: data:UklGRp4EAABXRUJQVlA4IJIEAACQFwCdASoyADIAPm0skkWkIqGYDAYAQAbEswBa5VJ5Y/mDriA70SbbjnafRLvFHoAdLb/hq9l+99HF469d+Nmzp/Dfy/iB9MfiD3wOufiv/PO7C/qvQvuG/895KvGS/1v/W/aB8Ynzp51vzL+9f9f/H/AJ/Mv6z/0OwR+2/stJL2V0K8xK5Ps5may/7zeQ3W3v9ZJJGMpqrVypnScK1MZGj6tX/N4zmfHrUxepJmgdIqctrXLXY1qgBv+fD5MtP7q1JqKQIAD+/yttl/4ef69tvDwfDl6JUjVGtPrLqLGDMSl/safDy05zujl/84NLq9IZduy8ROfm5jMWBa4m7/ze29Xb59X2MSmrbECUbPOvsfd54RJPSXI69E6KwnOGdg3U0hOiQidpQ1hLBhyXcgp8znihI/3tpSxh/NNf+bG21/zGtGZ9r/HLm8th4o744USjS29//6VVomj4x4YLe/ZhOtBjXconAoGSNKKNZN21bsesewmb0BxaeB2sQHKc50FXMq0DP4MjH9ec02dVGFbGPHUUDusPGrNDzhumhesLLhlVru16Ck3r3Q2mqcQOnsJj4U28zUone2f371ehzbvO5Pk1/4RawZlF20tCptEAmXC1QmnMvOazPyXzYobCko8WoClslF2Pom/Ki4OJg7BbBgSbvFA9d3aBwyPprlFFV4fvCM40GA+aa3XYwv9MM6BR2lxNq1oM+hpgsHAdzyW2oqYPWLmdeW3oeU8R5jE5RABb98vf2m/yYFL9zOxqIxA6zHV5QRH1FkcqovI3OeoIxrt1UxlEPCLKN2YtogMWunFTIUrIArI7Pux8j8eOLYnZk3m1OK8Hz8TTH0WGbVmDINQ+NE9EuU4OacpWqAlngd+NAWEaCnDy8WO3SQWpcUoiXRx7q2vH979n4luzMEkPZIgpgKwdzG7POB9tmDBb32ADShE7d78K2UnzFx8wZ4KOZCwmG47BxrFc9yTWC7PQ9V7kLuWtcYYlvWY2x8RTw9gAVNmsmoEL/b2emxYJLT843eHt92XQeT8lF32e5IrPCfD+p3+6Vuiv0X4EyCl5Znz+dMHf6ifhTvb9M/K0KIpAZ9gKtmUi3/vh3ml2Ms4p/Eo+Q8TaA/xJGTfjaobmt8vzb1wCnjhhC6dDHK0y1fP5oeNfmdFv/CxnzLxq/GdL12hXx4QDDXEHXFOEsB2Lw7cASfaZqSf4pxhg8bDsiTKMNdIkIyj23peanz3VwM0V/uVttpB8RDYfsOb6tUEX+4z9HCMs28BmhHcD/AbWrXNZhbjliin7TVkh7oLSFJ2Luv6d+M58HllUwyWVrIoItEqUCXEwvMruwS7cMOad2+/n/j/FCAS8GgqmyvaYVjnjl76tHLNpzP4Ljr5tS0MPySiDzj/rzD7VrsWiLKuSUCZUCkQIUtzjRw/rh/HJTc8Dbt3FaS8EO15iKRt1oDIRW/8lPJL+L/M28qv3BIXsRRl7gQJ935++VadRMDzvuV8ckfxqu7QuEIhK2C/tGbeGN4nq/jnB4BlQSU5/ggsFufWB8EFgtzbgL7R0X8sjomgAAAA=;base64,
 ---
 
 ## The adorably cute Persian

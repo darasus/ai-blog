@@ -19,8 +19,8 @@ intro: No matter how many tutorials or articles you read, coding is always
   know about the most common errors before they become a serious problem for
   your project. Read on to find out more about these coding mistakes and how to
   avoid them when coding your next software project.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png
+imageSrcBase64: data:UklGRtYCAABXRUJQVlA4IMoCAAAwEACdASoyADIAPm0yk0ckIyGhJgxIgA2JZQDSBBPsjVSg/FzoK/BHKzPhM0BvVHE/4d/iuMD6Y6oB/kvOJ/o/tA+HDNe+Sf4X/r/2/4Bv5V/Zf9z2BvQzMJVi1/MNzYJaZaYzzxD022E/Jo2esLy5vJ9EKWLQU2BdLzv0Q6pLDRa1SZ9s4fzGWWAA/v+522A8AFYP/PX2uJvqT18IljFcNj5i9ZHf4Ukq2u8Hahnq///ho0wSIuWrs/3ZrBlKa6GleX2UoXqcnh9EoCAGs+8D/1PaF1/tRWeA/IFeT5VyVQePMq7GDAy/ooVp4tz43qe2n/w0v4rp/5Ffcy2vc/xhv+1G2Q6fwnP83dS4b+vjhndImx/6tT+iqXslqa8M2sjjK6bBjUSBFpJheEF/zuRDEj9o7os4hcHzpEHTmaas4O9Xala9hPMc6RomPuPzyt72vVN3iVDq2+H3H3G/62i9leQBXivEyqXImCb1yWFHgo9CjfFBDlK2F1eFzbV+NfNnAqDnwugdYL3Zaq9pPFKLv4H+NJii4u2iFA9MwAZ08iZA2KNuGQLlNMWWMh2TkTtGFr8fgP8OYEo6h/bIyebf4KZB/2NJIU/d0Jw1Hypo7WNZ92Hfr85SaT5xEBvQBNmnjK9878A51qf4aRRMotv89fpJmtNZumqFlRjdQ8cEmMctxbzWyDe03/QY2uM5rBtG0ub3jBL9FJ23e/v+rwqhe8O2FaTMvIVUX+diRDgrog5z8OtJTv8MbMOkeP+Z8wj+bfWk2WczAm3WGRLN6WbCKoRYiF9vPsgJXxSPR94+QbE8zSrlYDHX/bDn7iVAV6HmjxwCOaUjfm+Cw7D7x9XszwzlL1VJkLJu+Xq+axmzn3sKeBRkDENf2QSUf/D+VykiEeZZv+scEo/KNfd8bxcc7uiJJbHVMF+/0C1bMk63vlq9a13dZJeAAAA=;base64,
 ---
 
 ## Don’t Know How To Check For Errors?

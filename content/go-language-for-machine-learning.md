@@ -19,8 +19,8 @@ intro: >-
   Luckily, some of these tools have become so popular that you won’t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities. 
 
   To help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you’re working on a project involving one or more of the following scenarios:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-machine-learning.png
+imageSrcBase64: data:UklGRr4DAABXRUJQVlA4ILIDAABwEwCdASoyADIAPm0sk0akIiGhLBVcAIANiWoA0Egfe73l7IT1AbZ3zAfrJ60e62eoB6AHlmft38G39+/4eVYzWfCB9J9l3ErDjvBGSOID6V/2b0Hv9Vxg0bX/A9jr+M+mb20fPnsB/yv+n/87gHUBolAU68l5IHgn3ksg2GQFyNQCeRm5+vV977EwwfKoIxJV1UO4JZBzS+ieNdM5qSTLj20/0AD+/3EifdH2+El7khVh9jcU5mxeTGt5P/0JInq04puj8qSRif/9Wh/zgP+rQ/TtoVOedcYP/b0sZX9qIBLxhtBtj89w2E+m24kePLRDkhnUkYpeooacK4ThAoSfhDIEvarx4Nc43wO+5vK/dX2v+3iCgBIE01VVO1T/Tn/bto0EZzzPikemnlHTFeGwHqz+lzGyif4WNY3LfAzKBwFvCovr9KdmX0994bflUw8UFh8c6RjfSVZeF/TW6/Dt+abvyf0zN35f0e2uNOcfg/8ASeocGtSU2qm857+xXLi6F9XgZ0J8Zvr1FcwW1bjNms5o+CGwsPUzgZbtLf3Fk+phWpTH+K6ICo1Vh12xeGhSMd6TjPVavFg6DZSXqLq4PjE6dybJqXheKPR4LLlAgCC0GNIOWS8OLQW89b4l8+sTooSKefyMxLZ/4qh1eBqbcEJJxY/tEs1foE14d5lNX7GyWS6vOoRTvCvVZshX+4TiMplzL5Ik/rR49lhZSzyabgfUC/HGDo3NrDv6Zhp2yS/Mmc7f95Lf+TsId5guZt/Apep3qN4Ha7f6xaxf3I3INqrp2fb/3YxWZw1/5E3auT9BLaMCnOD/d85xM/KRGqrhtyK82cvcI/JZFCimDee2AOefWZpqQN4ouEAt3swvvuZRuGGbECVS0AX8ltUMNkYYVPltBwLaLfiPKP4pW0W+4QNIuaNdwAHOfuKuqbK1Y0cY/44fS1H4ToK87CZlEqyC2szDkHbu8nsNqpc3FiLgj6Rn2p041+GUo8BqhTBDvcFstc0VF21P1LLCqwKxaP8Gquv3n56x+78EAdd5GnnFFuR5/4/HZwHPU/WRp9BPX3spz68PEETtwQVvyf7ceB9XB284IFU5ByAgLzEvyh26TbzqWN+xwRVzTq/yXlr5bpBKtDOhWHPQKZa0xd8kUHHUN/2ha/QzdfaqVNkYSZr6HXAQyrTBO93tP6g8GFloC45ETAJ+42FT1id/7FZWd7+fX5tO8L9vFQFQ/oV5yiKF9CvN3xaGBAhkEJijhPB/4AAA;base64,
 ---
 
 ## Data Cleaning and Preprocessing

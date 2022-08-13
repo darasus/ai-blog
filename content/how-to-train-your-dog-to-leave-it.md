@@ -21,8 +21,8 @@ intro: >-
   You like keeping your things? Good luck with that. 
 
   But luckily, with some bit of training and persistence, you can teach your pup exactly what’s off limits and exactly where to leave it instead. Best of all, all these tricks take very little time and effort on our part. It doesn’t have to be hard! Let’s check out how!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-leave-it.png
+imageSrcBase64: data:UklGRhQEAABXRUJQVlA4IAgEAAAQFgCdASoyADIAPm0ukkYkIqGhKhzNEIANiWUAVvp5rbgbgDeIN5lrq35L+OXWIeNPZjJ/vd+EH06egZ/Ff8Jkr/0n/AcZXeT/l3+i/Lv1YPCL7u9gD8kf5X8sf8d8UHqH6VvoX/s/4T4BP5X/V/9//cfag9ifoyIAq84HGL4PfK7VmVyN9nCYYF2cojGp6EY8XfAQUMrnx4RCgcgdPv+M3cPCulti7WvD0FSxUMzr+/SZjaBbm03WAAD+/v93f6zevDH/5bf2lfxsCRKbSc/TMxW/+bbg9hCS2eC/ifdP3898z0as/kn+gOc06V0C5kV0sf/PHCqyIbzRdfdHx7drF9zBcQUHT49QQ48iL0SD/xDP/5+8/T//mW2pfH7DjTBATsWXymfy+f1Cnwrwi0fBdfzfzDg/shY2XuXl43J/+yD39phggHwE9ODMNgN4JTKM0zr6DpMfHp9m+tl4NEET5+S0dsXg6BSz1M2NtGS6ukWjUMMBxL1jy/5YGIfAVBWr156Y9roP5mgb8/RbmYaedh6Lul+KZ/5k0HnEwOvuP/6eXE1h6Jps6YAKgJRyqCyJC7Z1LK1Al8brCLIjWqdaQ/77t6WtQFNOJIXgjQBpc/I6mptmapDXdUSz88fJahmUcNjEvOVWnxK7+n4eOi3IJNayckYRneBqHstCeYmCLo171SPLEDZ3v2n1mOhdHKRfli7zrq8nVgy6tVODFhtYNjunU6fLyyMO7ET90cW7N9cZTOcli3p3RLb4kpw2BX6+k86VH5Dfvi1lSlbXA/U/+bYYdN816ZvNSZdosN/uIfXms2J7ezdbGx5uzO0PBiL87PAVH1S5HLy+8PDcLlroMZV1uYz0kHqp7p3aNDofBLZ5N6tnTFbA2NRFFIn/+LuL4qU3OqgDXPru2ZbHvM4KPa8d39QmAZ6IZ9Yc6JPvT/tCLbjA5Zvq7hd/LKcKc5Dv+CykoItbVYeaxwx3YUdUtXGcsh0Hfmp1+3wyf6z+wjRQL/77cy25JYuRr4eyAkOSfFeUEeXKibmU9X2R/2y3bG38lM4oYs3DdI8KJzVsQY8gCuNmASSMGYlLb9M7XX1q2MC6xgFq7yRSU1W8g3k5Q3v6fZpWtFCD7sVdaDiDKFud3orDW/PfZqWG3tHKa8J2FjGKm+FH42mg0wsol8IL+VNBWYlsiQkFilgqxIAVheBezrSUsZpEaT/pCoBtjwhQjUOitqD3KWj+XRfSaW/1JxEB8jmCNPDzrHt4CJHAuF4Znowh40377nNYDrAzG36sKf/CajMuUo9cGo9Vof+/S6M8qvo0oB/u0Fplx52VxK9J+kWpvC4y/XIOYBY7uvymoydIbuuP7GQq/aojBADA1vI+aDRwAAA=;base64,
 ---
 
 ## Rule 1: Have A Dinner Party

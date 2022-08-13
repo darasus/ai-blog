@@ -22,8 +22,8 @@ intro: "Are you an exceptional programmer? Sure, you can code in multiple
   why. However, with the right strategies and techniques, debugging your code
   doesn’t need to be a painful process. Here are some helpful tips on how to
   debug your code like a pro:"
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-debug-your-code-like-a-pro.png
+imageSrcBase64: data:UklGRvIDAABXRUJQVlA4IOYDAADQEwCdASoyADIAPm0wlEakIyIhKhZroIANiUAJdKhMbbfxcvXg9CO8AbyD+41hDfdeh59XnzH5TwSd0z/ffyL4AnGP+V+2DzrdQK6S4waO3/OeyP/Jf+D/AfkB7TfoH/ve4N/LP6p/z+xV6Rg0oHMkOc4LtExx/XyS61MARdIPnaVvjAt0M+Nn0REbxdIETvtYQjvjmvleDDar9nk1ErNz+FJ5GiZjOAD+/dotMJkecVNS8Y3Efqon+8LVV2h9LV5cwByVNKG/gG4hM0fzzx2BPnnPzmbV5Zg0959unHXLLEcK/2BD8rQo0YqoyKIPdqk5s38XXe9/uUL9gaduZGhos7aHN0RX2ymqGbUU3Jn+6OVUb0o+3olB7jc7mEOeV+wPfxu/AmyQkZkhtXPx/TgALd7Q8pGyB/Bl8JN7v9Hyu+g43jl+kPbNLcwSOEsqcZZB/+bWXfU2CiUbB/Nz/OTqYD1nGpNymGU878gA8JEyE92mnbBf8V0r2MA5/ONLP3ny9E+MX3+sFepf4LoDXGXZqOkFaqkq/Eb18zf/t2qGWE5lcv9OjzYFVK3fI/K/6CP/mj/ndU/9vyv4leoaI2oYe4PIwevVfMHc4LQ1I1SYt6r9efc4ZEtETtjjFj6xGRfwT40dzRp+oQgk+7FU7fjfOb8iqPra5NCjUsGZnAXjyE1L7V8R89T0PXxCplZAR4yFaD3G69RXZL7BDZyJP9OXvmobiWpXEBrosbtlWLHHM5SGEN7sF3P8wx/9Wq5MSlrQvB/n+f559pzLIu7NVV3YTnRQyn+ouXO+P+LVXHAbF/3P/5ugEsv7YkySaj3EoqcSQU9Iz+kv9NBuDdR/V59j4xuCO+sFGRp16kTX9aLtMfn9aoJqK/TPORmLv5RZle98nnUdgQ8WBjMcdi0PSNkrqE084viDmdo5KCGgY9dkCmmImey9jDSGnyTfRDpplkZcow7VUsB8622W0nC287kc6o31Ndx/z7fOUDE8/cn6V/ukH/TUuIT9KrroCbBfeo29HMNXY/heIa/34JasHG+1So/ovXc1EaPokCqIIvPWI87rxYeEc24zt9PuNd0ugAuaVg965MUx7M8XhZ3sFa4PXzkMFTarNEmj+/DVxRZ1MPk1whQALxcFoJ0V7t5t2UKrbCEnN8jY7plwNqt/qWW3oP8k5VTa+vfnJBCG4WM53o6VDWJ4gTz3LsKUu7mVvy1GEDnVZ+8YZY1y293+GyUl8d+30Bi+ilbPcIhDZfubL+FYmfNsHC0kIjg9vr+ZPLxY6Y/ohhN15teEkpDbH8e7zc95Z4hOfRS0d1HVM7tY8qp+pf7QAA==;base64,
 ---
 
 ## Kano Analysis

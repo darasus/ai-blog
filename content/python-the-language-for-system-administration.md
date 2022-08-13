@@ -24,8 +24,8 @@ intro: >-
   (SDN) controllers if you know where to look. 
 
   There are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we’ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-system-administration.png
+imageSrcBase64: data:UklGRg4EAABXRUJQVlA4IAIEAADwFACdASoyADIAPm0skkckIiGhLBVcAIANiUAYe/vpDhdHn/2ncb0AHPF6aJvQH+vngn0D9y/JHJs/gvZR9lf4Z8Bz+sZKV8//1vcQdyT6C3945EHwj+3ekL/UfoB7b/+P9sHuJ+dP+V/d/gF/Vb/adgb0UEBok4yw24FiWpIwZOHo39fupWdiVz2LIG5Hq1NTgT68cbjes1HAHXPwSCBmhuKLW6PUQXkmGZxGhaX9OAD+/h7VhVidmSozQCwqIx/TnCz/QwJciXP8YaZbmX2zeQWLaDa6fp278+CWap9tOlLCTUCqm83KtToyE2sTRI1dHSplJlrBd72Ky4l0K//VfvFS8U0RG2k397Xy8/DaRwz/xrolCQXK7O7o0rWZ/B7O8bwf7Nhkrd8qZzEE0r/zWYyuF6nhyJQhmODWitZ0CKHHz+9P+ztljhwDLuXLwJ+bckezEqzwgeU8iT/JhRO2WSPUy5VNLyseRhknQfsZg2dq2c+FOmK8XGUrNH7uS/cyu7wYjS5vU7vZxVHlwZJvYN+iygmXXQwpNf87375vDrwC6Ej76//Q5cD5YTrtZxysxawte8yZDH6651r8ixy7C7RgmncnFF7OibFSmkm4KhopKARIM7yNMSH3jQpKFjyOwCCiSplWXhSpQo4+5Lozu1TOqgX/4Cf/hji1neM4WiNa97ruyAKadTOcc24hIjJM1ubn0kWhHTvTGXQbgSbRqUmbkWqHkeZnApY3YQHGlKqOvqz/k4hWOjYSUzIP88+mtI9xTARdAFNFjzjijLhJyPmDdGRQVY0NT8GjYVA4nkMAC+LF+CyK2rF7jXM0SsnHlra2jUfSXDsedl8awyxrqh130iHYKXe5Ek/GRDCV8Z8estEp74LVXUyAXlkPlNsVYTTtm+ARbNpHDVM+PvoGhT5mAzWJ16BxSw6BaN3Alm8/FkdqbEvBRoFSV4VzM/h8OzV8p7RJI+wLz5WUBCf+K8P/nXtotjYzmluZzH+htrW8K4IF+4EPTTJ/+bmVLS6GqMWk+zOcI+scFKBwk8dcWOn6TkU9pt3oPVafrpjv8PDfNazV9I87REQS2geLjtPUXXerqOmlNxMLQICP7VwMo1rjRpIo0y1BOP9pimz79R4V3t/uNezL2vKS+ylh9N71he2gu8LSm2N62SE/OU+mVNIH+r2jlbyp49lJPAGXZ2e6moeEHhWTFR2HXEJtwCVb0R+B2obUxSiZed8LTTdJwdh/4g1tY1zbxI+OnGsrPoywKbNVLAIhDrUS+GXdZ9vk6EGwUgy19r+wM78r2NPyzSH136bwPkHMBqpnKiM+zV5Q7gaaFn5RF7jVo5mBtzS/yWG4On7GVOlCMk9kMmAAAAA=;base64,
 ---
 
 ## Python for System Administration

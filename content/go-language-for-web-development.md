@@ -21,8 +21,8 @@ intro: >-
   Go’s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don’t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects. 
 
   There is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/go-language-for-web-development.png
+imageSrcBase64: data:UklGRpQDAABXRUJQVlA4IIgDAADQEwCdASoyADIAPm0sk0YkIqGhMBn5AIANiWQAyuhWC4/D02/AAzgH7HesR0YHUMfsB7AHlkexN/hvxm9sC56c/34KPwogVp/dCOO/zb/UcYHeL/nP+o4waYr/W/8/9uX0b/wnis/K/9D7Av8s/snWXD6pTCgkWBRe0DRCkL6dyh6RsG7ET5uOAaZLhABUUzSsYRZ4F2AfnJrjuKMJ4leSJaHALk6eoAD++yISjTubKC93HzFbqUpJrD9JcnTQgOouwAydtBWqWO41QVqrI/ZRfF0218e69kQpWSfQfKpHenxhDxCJHS8geqf/7l+7+1fos7GhO0YrpW02tNvSxbMbv/+M64aomJ3q+fmntRYC8PDRpE9RgjoD5D7cU4eTGXfE8Yvn3GioCPHmZ4pRyB+mCRM0yXuSqT0z4Nkn5gW1x436ozxZs6Hc77SMOR/c/IU19f4gKN1c720nDdOy7nLXyDbh3/Re3hnyNkA8Ccf5jHC+dKKBF9Z432pQ3zXFwAgjHyHCjGQbTs6+9fp76nEtuVLBoAkch9M9SGSgRPJ6N4OdsBu59lnTsW34kavlf3Ghuy0f2Xgfuj24u+Bp21rg/iRPem3RulE/6WkCB75n/OpJJDMvW/+7V1TvnBISxLwvEfmowSQKmdj3qb7I1f/JoO7+4tx0V0utBpvmRZWFJiSbbGFGd3qF7rjqahvPEZPrScxK2UuRVs5Sts4bUc8/c8URdKlChkaDkBFCZUc6SZRvfp2zNf/7LuQciexDtN7//4ziPYTlCMIav3wjcneRHt5uoP38MWzuf2AbBuXE7ClKM8ekEuy+60DZDGp7WdbSLOutyOU0j8xvyxOgc9GJMyJN2p+d1iRXOKkQwCwl5aVCrmafLSZmiZt01tKVGZObyyc8uNp1OsHWi81BxMe4//a/mOTEms1/Zw7f48xSDH7Kb2e5O94wOrOqX6hN8xqDzfAtDYrVvzOTXGwcK2cZUjKwIgf+40ZYgNAL1DcE9P5RB+tAv4A561CtaHfUqjdIU5QjmPBhxU1deb1kUmjz/v0s53cSLK9SrnjfG/+8L1e09Xfxy/bL3AVt2x2/xZ28FhR+ZSw0pqw4O+W35Pb8FGq6LJsNc+bUf9Kzrp2Rxs+9Mb/VaTHf01Mp4IaaRly2CYBxZlQNC8B/RqkG65wT34IWMn8E9+ANzVg93B/Bag6o4Pq9WAAA;base64,
 ---
 
 ## What is Go?

@@ -18,8 +18,8 @@ intro: >-
   If you're willing to put in the time and effort, almost any dog can be trained to sit on command. It's just a matter of identifying your dog’s motivation and rewarding him for the behaviors that you like. With consistent training sessions every day or two, your dog will learn how to sit in no time at all.
 
   Training your dog doesn’t have to be difficult or stressful – it just requires commitment and patience from both of you. The more straightforward training techniques like marker words, positive reinforcement and treat rewards should get your dog responding obediently within a few weeks.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-sit.png
+imageSrcBase64: data:UklGRv4CAABXRUJQVlA4IPICAACQDwCdASoyADIAPm00lEckIyIhKhmZcIANiWUAd7HEDeNXYBvItc1/Ueg5RB/es5FuhGMP9fxgdsfxu0xT+i/737QPjozd/P//b9wD+Xf1n/h8DYFDEVktrLymnSUqI+fq4nN755WSaHMUIqPC9g0vEXBPDXBRSUXnyewLuiryPWpG1QAAAP77HYhb8694oxHOMlFxM2H1hdG29zn9Jiw5HOaPFRYe0Bqqlk/FUwCPuSB38SR/uL2jNnIlBqQXpxdnbj/uDnspy6UCLqw/nCC3yI7EhlCr1PubroY799lc8uRHoRGvqoR4cvxtJSxZLwwjj4pM6Gsxaf8k71QWUEbJ4LWVIdzGUs90Qju8Xi/77pIj+r8SkmCFyz6/74jKLTgL/GdvZvF/3+c5jY2wU/4clbX3Ov7tj8XedjZm/x7QWB//zIfg1XtwTQ70KjuH/A0s78mtrr73lSU4i5d/Ghu0g/MglYFuMLlQl/g0bJktMmV9E+8++Ezg8hn5RyFn0dAs4G15OGz1gI3vXGE8M6+p/KClKN/Cbd8gyq7JZzp+2JnZ7GgoYEg1EQn1G+YH3TiWsW7T6pMgGjES+2EVY0Z58Wq7kr8tl8CmnP/ChkY3aRshV9JBcNWPEr+OVI3+Zo84vzPNZG/2dbC8reVqgYq2tHmi7XHLwgVdUB96xD8z5yAqtCAxbJyf7kWduzKX9aaxKGHs0N72cEsc+5+NL8qNA6hMlKIWj7fZ59rt7/z4OTBWjYKYpbkADWPINBMjjSydpIe5j7oh0qEDLn//9+QRSmIY3S3dYy19/liexNDn/zE4PtOwgRpsrwJcMhKAoZG5AnFFGsgjyo3VjX/Jyh9Ld8YIMZWBCB2rWABhXxlK2pdVmeeXVYXiELHjmZv4cEBMASrnmcGZEebRKN4ml4WS73/ybvtPfjs0y34WzUnDRocD2+7iW1Y+gys1+QlZBSPjp/3vkBOVdoIbmNmVrwEIQGLpXmy1A2GoArfT6KCkAAAA;base64,
 ---
 
 ## Step 1: Pick A Marker Word

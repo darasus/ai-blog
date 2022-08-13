@@ -25,8 +25,8 @@ intro: Mediation is a process that helps people resolve conflicts and find
   as nonprofit community mediation centers or faith-based centers that offer
   these services pro bono publico, which means “for the good of the public”
   without charge.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-future-of-mediation.png
+imageSrcBase64: data:UklGRrQCAABXRUJQVlA4IKgCAADQDQCdASoyADIAPm0wlUckIqIhKBgLUIANiWYAyi6S8VzFzKGuynmA/Vz1sPQBvAHoAfsB6Z37AfBv+4PpKUwGS3W9h2Zknjpbqw5WWy6CtU3/IUgGQgT3iyNtGXMkSljHBvcCMJav+W25lRNFhTiYLZwjyQc/kAD+rg9g946QJIvGVnQ7Ou7je5ui3eujOf7Xj3ROFlH+e9/m4q+3xtm0dPulfanlFhCe0I+1ZLd22qsi1mYh+k4mquUomE0eEyLAUkQGVevC3//Kv03/8RBsMlAVEP/tTvmRGjMNVdIFW4/d/Ws0FUKY/7sxt5CqY1Pj5bLh55O4MvvU5pFMfxYbyW7gbX6MHOG/niOP/mJvpOcF572QDjXyjA+/k6vqVbiyZEBFxfwtcUW7Y3xRSFwir51yT6GfEviE2eeG1vMiiF2BmyqkoOhZYkf1LJ81E/eyNSEyF5uhpJPuL9dzu9fmdR0WU7KDSh9aXcpesgk7RxmBvyesM8WaTknyVqk6sZX1mm8yk2O9wq72nkRn8iCPJscqQRdHphnqCpdx981jEpQBCF6qSXDU2ZDepbHGSwoejrYO4bA38GSjpU34cBw0WJNlsif9bT/xWmgvOLQ5PNytHK911jqgi+kZiuWCYxD41bPHeqOrPdsIj9v+tgoAzLrxTPC2iXIso3vJCMHcOIGbm2jzqjuMduYwHDRJttxuNKXf9dL0P/daWwORcLhXRiXGUqRZstaevCQFEObgcfxoAhx6QfufL15j+987v7B3MLFvpake/e1uPfB0otaazXyoQ+oLpttrapfmEGfX2n/k2OaoxasNCWVomSRua9Xe4txokrwmUz6ejM2iyw8bVtzSN0E3lVZSMQfoHkdmuGNid1qKdU5uxJeAzLnIz0vh4S9QTAAAAA==;base64,
 ---
 
 ## Why Mediation Works

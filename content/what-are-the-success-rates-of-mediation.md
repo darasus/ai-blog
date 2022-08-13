@@ -19,8 +19,8 @@ intro: >-
   to say and explore possible compromises that are agreeable to both. 
 
   Mediation can be used at any stage of a dispute, from resolving initial grievances through settlement or arbitration. It can be used instead of litigation when there’s no clear right or wrong side or when it’s more cost-effective than adversarial proceedings. Research shows mediation can also make disputes last much shorter and cheaper than trials, reduce risk of lawsuits being refilled after settlement, and increase the likelihood of reaching an agreement in principle between parties.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/what-are-the-success-rates-of-mediation.png
+imageSrcBase64: data:UklGRsYDAABXRUJQVlA4ILoDAACQEQCdASoyADIAPm0uk0akIqGhKAyogA2JbD6EEiQAa38M7KTdf9KrxBsjp5q3voQPNJ+s3r3dDN1DXPreyh+3cx9u4FG87YD0A4pvCOjO/wHpd/5nnR+gPYG/WbqzGuQcBM+AujzXbtXSCT0B8FcXQe1zGTYe3XkmnEJJZAFu0JrBDvfGVRXeNuCsXlLcWxl/0Gq5iAD++z4sdeuKwe0QXs9ShUDSxqPH9tifIJ9jwqCGOBg7nmP/z+rFAw01o8WP9JHXEqjUf8bPT//l3f/mmX/kl8RPHYv92b8gdyXMPP/AZ60uJJkg0RjBKh9jtoXAnmByir9/SAga97Xb6eCs6/S6wL+O+Sn7f8v7+3dwQ5fwF2rMV/X6cae7Nkjs9exIJ3sXsKKH/ke7Z0z7Co7NjoxxAit1+OE5/6+RDsT7joU8th/UZ5VoStYJEzjmEYl3+CF6oayK1RNDLEd8pvtipXWzN1EZnzyKGr1P6DY2qU05CDAN962Dqk79ibEve/DymXTOC9g29xjsZ71P0nruo68hOHv+fOkBP9ipd6WvHhfyNOnh7YznJNGNy0zStt/ItR/QK0HhSPWrspkjMIdfG85dRgKich8oe5Lp+n9EKiZWQAx6DlE2IXe5wDFST3CbIlKS8p9z7LCW1mNqFhX5xHfWRRw0WejDHBKbA3dZcmuPNYsU0gdOiQkBq/4c5+31xdCz0kN6mE2Bh9srA/qwbS/4Rk6M2X+b2ocJs5nIX7dHq0M6hLbdc0UcSJZYtOgMiVV6GtVzJml0QALbOP83rZgwXlKhhLWEAAoIrJ7BrTbMcOnplhP5W1knz/K9JjQYwAwiDa7krZyUafx/89AIrqBs3OvK1Dn3xwspy8o/1MlZJpZLAyO/0uapuUghtck5df3k7EAFkJHxXp1COf+zARe+hgLBkiBPDWLALb5LYQrFWpL5aHcTCGhWzsrj6Eagfl2kMKri0nd+BQJ5AU5iFffSv9JkEm2N0060upThKghuIuXnQBEGC/bIND+FB8wcavxjZ5x+Ya60o+YZ+srVTjMw6NQNHRzRpRKE6tfWlVXQCxrvtofYDSpz5zt+5cWNw5Q5+Izrj/xB2mz/FvxHv/p7gry5Jf880do6fCGhPH2j5Tsdx7uIvpOyvTd7qvieH+yYdeDvDRT1JXnrB5hsUjJ6HOD8d/oLYF8w10pv1BFYB3ID9jzGuRyFEvA+k9kiogtEDaN8iayp8hG9Xe3ST9WATwafSrR3bfOTvH+1Mo2SYXtgCRmgAAA=;base64,
 ---
 
 ## What Are The Requirements For Mediation?

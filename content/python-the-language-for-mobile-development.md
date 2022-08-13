@@ -20,8 +20,8 @@ intro: >-
   With so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what’s the best option?
 
   If you’re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we’ll cover why this is good choice—and why other options may not be ideal in certain situations.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/python-the-language-for-mobile-development.png
+imageSrcBase64: data:UklGRiAEAABXRUJQVlA4IBQEAACQFACdASoyADIAPm0ukkYkIqGhKhmdEIANiWwXgAI5NAcL53zAt6GtsB5gPtA92T0H7xx6AHlt/sB8In99/ID2htXqXB/SfxV6xf01GDJA3wWyV9X/0fea6n3dLWb/j3+I88n0gfSJ/G+O76C9gX9ZusB6Ng8zbK9UtDcHTcZiZhRbw9Cb8VW6nG0mvtENtlEx6lPMrCz+DyFBJI9AoZYnaynpDMnLSCPHvhSOAAD+/+HzW36Z24yYZG3pBew1VaCFlU1V+/tmSbabOZNT0zb0SJ9/IZtW1H2W4y/fJXefgjoycvjFQ7/9EeI7/ZJ7Mon8orzTr7bB+9HAA/N7xf8Cdu9aKH4Y+8me0bHkKVj/JiP+jT5MfwH4eJZ72phHwPYYe0ekWgT6F3Blp87ICyKTstPPt6/dfxV10v4kHDCMiTv3RL9kQZAroZlIULGUpxPuQz+tssEMgllCzDDiqLwNtG2GxLr/3a+kz/rJNNmC4KbN3eqs2DmuzVQemTwU+znkLRQ3GCfJuFUmNSwG97I/8TzWyydoVxVpnD8c6aRRKAcJeprutSFuXVE4M+I92TxL5MZayzDaclrRxWXd32f9GE/c/ckSvPHNlmrmn8pIGVnH5ra2Akz5MxdazzCqgvuRar3F16Czd5aE0MaHRenbEQPSmQ2T65b7//HOFxP5malq6Y4Xd/9LEJd0frkqSL1k85DhXqsldH1RE+JAl5BRcatsCWYf1aR28rKJUR8khtWAM/7h4UNPcIOQo3l/oc87liVxIGOiICQc49JjyiTME6o9eifEVGAC/aanw3tBRc9vde0sOc30/JtfnUKd/zJB+667O840ZkYa9cDxDx/QPxdeSXPGWep0Qe6yIBRi1fqgNgL8zzjWsLZ1I82hPo1N5qgiM8SA/q8j5UZeeECsqvdEW3rm5liQKRX/4lcQFS0CVr7ZraVfInnRo2ZfJZGmnMfGv0HSdz3y6tfqWbrsqJ9SbdtREuj1m72o/BMXQ/dKk0BoW9Pi0fxysgpDP7quUsDhWnE+C1hEVthZ/vOZteisc9/8zzsIV/GAcRBfBoJg6q9YFkRCo8gC8koBuaPaiY1Xaik7YbrwWf+z0eg0elfSW+ZUFP4ZanMeQ/10s4MnxC9pq+5oqrLMlTeUqXOcZjIGUxjyGlADmXZCJWRoHMLkPzLHTVMLnQxcEkbXy/8+6PiAg/9s8BXA+o+Z3OjVwhC9OXq/mdtoulfOO33+vtrl/qXFaph0cqe/InmxgXBQV767kb/5Nnqo2RLtf7GLexAxoXkqKeveF9EEoXHnzkRXhW+KkSYT7kbnaQwCO/DFGy+q8o3zKOK8mF/suqXpsZvqj96JJw5mvBNXmXg06ZvDVQ0ZdG9N1aVi0GeGgZ1wAAA=;base64,
 ---
 
 ## Why Python?

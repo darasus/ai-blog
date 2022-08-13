@@ -21,8 +21,8 @@ intro: >-
   physical health. 
 
   If you want to give your dog a happy and healthy life, teaching them to go to bed is an excellent first step. All dogs have instincts which tell them when it’s time to rest and regenerate energy for another day out in the wild. But domesticated dogs have lost some of these instincts as a result of living in human company. Fortunately, training your dog to go to bed is fairly easy with some dedication from you!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-train-your-dog-to-go-to-bed.png
+imageSrcBase64: data:UklGRvADAABXRUJQVlA4IOQDAABwFACdASoyADIAPm00k0akIyGhJhqtiIANiUAYoYEX6TfzgHqA22HmN83DzzN9u3oSs6dE555P2vvPkb3t7Tu7Acf/o3+m4zO4l/xfG3xW/4D8pP8d8fv+N5nvoL/n+4R+r3+69WD2C+hydxifTwb26T13gjjfrLMjphemNUh+xClGUISN0o2ghGYMQQO1OueUpoqUtCynqyKePdGSG4tX/4FRhwPv+++t8fGAAP7/CLV+yvTXiHKDMYvb5OoBufsbeTX6V/Ab/XJi3O+aS2y811YOb03dmWt69FvULa1ftAf18a/pttx9l2nuoWs+6T3nLug/fZbt4D8GWPrcP9tN+LdSrWumyd36QMOW88SfaP/g2KrL1/mB+pfGINfedswlT+5A7/c5n6OBiYJmRlNJEDlUTcvbsvctVwvEnYeX8M3YD7X+aY99XTS1JuoA2jpTHf/U1DwHCn+MzgvdkITsDil/5H/+COHhIrSFM6BUXi5ohHRebQhp0mZpzlRdG+iq9WzwW3flhRdAd60MktyilMrEUAdISvwQIYg2BcbdX1Z5c7RPuENsAmHhg34huBof/MRRkvrysSG9S/4PhhhKDFNZVsot8rApQv4XPwen+5v7y+ztkVfI2nPuDvS1JYJdBGKw73K61szORbw2OefpH1gWXcaW0DoUDP/6KD9HsBBD2atHWVek1965uYv5POE/B2XYOVuqYlSqKPJJ+NopbAdeCg0JAlKrtP8tNlZvFIcKxkePRK5lzw+1D/W4Q1R2dn+e05QJ+aXTCZfHkhKZ/Svxbjrtt1Cgt0ZInJKrQDSrnqIJUHeWigfSdUgDS30JS5XE8u0Koe8CKzgYNOEQAPGHt6czRE6Fqh+rSEDzM+z67xQ7OtoMdmHuu8ktPrMgDTAmEqS+HWvpuwhGDiN6l2dnoUrYxG4ikCUzBfz1hXYlAJNfMOLSO/ECXwpbMx7YV+cxirGZ2smyPvSakIdSmfPi+recCYNs5qpeQp1GysalqN+m4hr+NDTyiL0qu/dZsDDgX8id5LJXv3I5xY8MfffcrkiMYQO7Fc3b9311BCq3PvE4EdsNbwUji1Ey8KeU5HzG3wlaQRvffPplibU5VVkeAv8oTKLYwvo7KHSTRFYp5pndbmdlJyvI3mFMs9f9jSkOtru50PN7RoTyi28hiYOU5tIVTe4Mc1zz2MTQugfv78Pmk2EwnP3LBpX9TYaxR8ORdGDq8ycQwdXoU/nqM8++DQ7L6jPPvgFL+Cb6QDbxpPzSEUYNeIhx8w/rN9lNxA0tBkGczHfhqBJUbYnj6AnkNivGSg5BPbh2ZwDExou4AAA=;base64,
 ---
 
 ## What’s so bad about dogs staying up all night?
