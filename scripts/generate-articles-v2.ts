@@ -14,10 +14,12 @@ import { formatMarkdown } from "./shared/formatMarkdown";
 import { Writesonic } from "../lib/writesonic";
 import { allConcurrent } from "./shared/allConcurrent";
 import sharp from "sharp";
+import { Dalle } from "../lib/dalle";
 
 const spinner = ora("Start generating articles...");
 
 const postsDir = path.join(__dirname, "../content");
+const imagesDir = path.join(__dirname, "../public/articles");
 
 async function main() {
   spinner.start();
@@ -75,8 +77,19 @@ async function main() {
         post.imageSrc = "/articles/" + basename + ".png";
         post.imageSrcBase64 = "data:" + base64url + ";base64,";
       } else {
-        post.imageSrc = "";
-        post.imageSrcBase64 = "";
+        const dalle = new Dalle();
+        const base64String = await dalle.generateImage(
+          `Intro image for article titled "${post.title}", pixel art`
+        );
+        fs.writeFileSync(
+          path.join(imagesDir, `${basename}.png`),
+          base64String,
+          "base64"
+        );
+        post.imageSrc = "/articles/" + basename + ".png";
+        const img = sharp(Buffer.from(base64String, "base64")).resize(50);
+        const imageSrcBase64 = (await img.toBuffer()).toString("base64");
+        post.imageSrcBase64 = "data:" + imageSrcBase64 + ";base64,";
       }
 
       const formattedPost = formatMarkdown(post as MDXPost);
@@ -87,7 +100,7 @@ async function main() {
     promises.push(promise);
   }
 
-  await allConcurrent(20, promises);
+  await allConcurrent(1, promises);
 
   spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
   spinner.stopAndPersist();
