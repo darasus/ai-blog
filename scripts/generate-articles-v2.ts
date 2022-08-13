@@ -25,8 +25,8 @@ async function main() {
   const promises = [];
 
   for (const [i, { title, category }] of titlesAndCategories.entries()) {
-    console.log(`Generating article title: ${title}`);
     const promise = async () => {
+      console.log(`Generating article titled: ${title}`);
       let post: Partial<MDXPost> = {};
       const basename = slugify(title, { strict: true, lower: true });
       // existing content
