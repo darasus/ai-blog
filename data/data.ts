@@ -21,7 +21,7 @@ export const data = {
   crypto: [...new Set(crypto)],
   technology: [...new Set(technology)],
   health: [...new Set(health)],
-  culture: [...new Set(culture)],
-  gaming: [...new Set(gaming)],
-  productivity: [...new Set(productivity)],
+  // culture: [...new Set(culture)],
+  // gaming: [...new Set(gaming)],
+  // productivity: [...new Set(productivity)],
 } as const;

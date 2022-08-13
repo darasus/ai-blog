@@ -133,13 +133,6 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
             </url>
           
             <url>
-              <loc>https://www.theaipaper.com/p/elon-musks-grand-plan-to-take-over-the-world-the-master-plan</loc>
-              <lastmod>2022-07-19T12:32:37.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
               <loc>https://www.theaipaper.com/p/the-future-of-ai-how-ai-will-shape-our-world-in-the-next-ten-years</loc>
               <lastmod>2022-07-19T12:32:32.000Z</lastmod>
               <changefreq>monthly</changefreq>
@@ -147,22 +140,8 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
             </url>
           
             <url>
-              <loc>https://www.theaipaper.com/p/elon-musk-and-the-future-of-artificial-intelligence</loc>
-              <lastmod>2022-07-19T12:32:30.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
               <loc>https://www.theaipaper.com/p/the-importance-of-artificial-intelligence-in-marketing-should-you-be-doing-it</loc>
               <lastmod>2022-07-19T12:32:29.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
-              <loc>https://www.theaipaper.com/p/10-facts-you-need-to-know-about-elon-musk</loc>
-              <lastmod>2022-07-19T12:32:28.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
@@ -2961,13 +2940,6 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
             </url>
           
             <url>
-              <loc>https://www.theaipaper.com/p/the-trump-presidency</loc>
-              <lastmod>2022-07-17T15:00:29.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
               <loc>https://www.theaipaper.com/p/the-united-kingdoms-withdrawal-from-the-european-union</loc>
               <lastmod>2022-07-17T15:00:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
@@ -4382,4 +4354,4 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
               <priority>1.0</priority>
             </url>
           
-      </urlset>`
+      </urlset>`;

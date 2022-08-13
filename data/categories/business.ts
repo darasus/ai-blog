@@ -32,7 +32,4 @@ export const business = [
   "The 5 Essential Steps To Starting A Successful Business",
   "How To Create A Business Plan That Works",
   "How To Get Funding For Your Startup",
-  "10 Facts You Need To Know About Elon Musk",
-  "Elon Musk's grand plan to take over the world: The Master Plan",
-  "Elon Musk and the Future of Artificial Intelligence",
 ];

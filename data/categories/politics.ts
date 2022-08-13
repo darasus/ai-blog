@@ -6,7 +6,6 @@ export const politics = [
   "The End of the Cold War",
   "The History of the European Union",
   "The United Kingdom's withdrawal from the European Union",
-  "The Trump Presidency",
   "The Rise of China",
   "The Future of the European Union",
 ];
