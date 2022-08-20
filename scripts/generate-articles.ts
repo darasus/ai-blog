@@ -10,10 +10,10 @@ import parseMD from "parse-md";
 import { readArticleFile, readArticleImageFile } from "../utils/readFileSync";
 import { getArticleData } from "./shared/getArticleData";
 import { formatMarkdown } from "./shared/formatMarkdown";
-import { Writesonic } from "../lib/writesonic";
+import { Writesonic } from "./lib/writesonic";
 import { allConcurrent } from "./shared/allConcurrent";
 import sharp from "sharp";
-import { Dalle } from "../lib/dalle";
+import { Dalle } from "./lib/dalle";
 
 const postsDir = path.join(__dirname, "../content");
 const imagesDir = path.join(__dirname, "../public/articles");
