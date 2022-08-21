@@ -4354,4 +4354,4 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
               <priority>1.0</priority>
             </url>
           
-      </urlset>`;
+      </urlset>`
