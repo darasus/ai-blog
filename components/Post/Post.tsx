@@ -1,6 +1,6 @@
 import capitalize from "capitalize";
 import { MDXRemote } from "next-mdx-remote";
-import Image from "next/image";
+import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types/Post";
 import { PostMeta } from "./PostMeta";
@@ -34,6 +34,7 @@ export const Post: React.FC<Props> = ({ post }) => {
             width={500}
             alt={title}
             placeholder="blur"
+            priority
           />
         </div>
       )}
