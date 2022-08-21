@@ -25,8 +25,8 @@ intro: "You may have heard of a fork before — as in, the idea of a software
   are many different types of forks beyond just software! In this article we
   will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin
   Cash."
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/bitcoin-gold-the-bitcoin-forks.png
+imageSrcBase64: data:UklGRkYDAABXRUJQVlA4IDoDAADwDwCdASoyADIAPm0slUckIiIhKhmaMIANiWoA0TgzegfiriJ28owG2z8wH6b+t16IN4W3kb/C+eBS2fvNv35ArTWQrfT+IDSBfJuepzaPQPsC/qx1iv2q9m4Ln6QDxCtvtOBKWDoA9valyJop25iv+RaDIWLGhMAakwYBMY3JX+KlP2HdLaIAAP7z8SO7vEnrgUuPSRhN59Q+uNOJsW1VCEkbJki7zxL1AL35oPOGKDAWVGpb2aVFn4BEh1Y9zH89LyH3yKb09gkWZHduCnPtnSZf//rLpV48yK9cLE8HCoZ6B2X+UYlJB3f/8a0aMkKfATxUcosfSRC/DadbQ3M+IEbwKFaXGA7VJ6Hsd6JKZKtszh2O7q4VF2LYLyFfcvXVr/FfrPtDzAR0Cw27Q6mIXUjmowEO1asMNjXUwK9wPzypt/J+U/DgAdVv8Mme7F6HrL6BViu43tf8uSyo0/+UP1qsdIsk59Ee/g+nUu4exJHxdDWyLti3Gr/KndyMeWeE+0M1//GvYd+6sLO3f5YjEc5IBYHOEWaxJfy+M6xxzbCE6RMuSzGiTxv4AtUufeIVi428gtJNK1oSb5Qf7VDoDHNofj1oyj1fA/MDu7qW5LigepE12ri1vmaontMCWJ0N0Oak7K4okoHl3M0qHIZq2aZC8QoJUnX+faf8Iv3W2L/JsHroRmo71t3fsygnvnLepc6a/9rhEDppROyioxSX1id9/8Qkb+kvo0ekOdb7okGsL8C+OO0CeBWhETgO2LVONsUw2DHeRk18i99bPvsY5lVQrlqpjX6zo0abV7PswTnE+xaX5kAbziQhioWrXf6joO4vlQo6pb0M3YMjNa0vL+eAqgXK2LvN4f/MSYTg0Tio0kCGy5NiW/l9DSCpvUi2a2eISPbdYWg/gasTG/BpoWvx1DNTE3kmOYnYeK4FZEBf7Gwz5DvV8Lg/kPb8oZhgnqJFhCt7RB7Ur+u7hKXcHl5YL8daRvZmaTMjbs/z5OQ8ktMPX6k3p6WeeHGKavQmJwyJndmfr4T9Xbcr2rkf/W3999xviREz+SGgto0A5BKBNT37/lB4314U/A+oIDE8SPXtkkZHSgAA;base64,
 ---
 
 ## What is a Bitcoin Fork?

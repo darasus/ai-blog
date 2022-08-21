@@ -23,8 +23,8 @@ intro: >-
   Furthermore, there are issues with mining centralization that could lead to 51% attacks on smaller coins using PoW consensus algorithms alone. 
 
   This is why Cardano has introduced a new second generation proof-of-stake (POS) consensus algorithm called Ouroboros that allows miners to also act as transaction validators. This creates a system where no single party can control majority stakeholder voting rights or tamper with transaction histories to double spend their digital assets.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/cardano-the-third-generation-crypto.png
+imageSrcBase64: data:UklGRnoDAABXRUJQVlA4IG4DAACQFACdASoyADIAPm0wk0ckIqGhJgxIgA2JaQDKfrj/pr2WynH3bOW/3HJRPlf+U+1rhYPsA96f0L7JvqN/0L/KeyP/L+M35o/5n+A+AX9Vf+N62PrqLkiUG16LP/2DSnI8N43xbmsTVWiaw41z+r2DR7HV0hqG8lR6ry0VHdCfrcUcseWZYpLvHQfXlZQz1HAi5Iy+r4JptqtvMHjBPucM0dVm478H3Q63XhxMAAD+/nNtq2CwAlU1u67dfL1/aVoQq1TOmfjODKGr2o1ZjURqhjeVvDiiKtviEFFFSR6mvbG7N1QfYqwnGDjJ+Z/4wEnZum6rvnPr4tGA3Tc8GeO//Q62Ljnnf5HbYYbVXW8g84ASVTcwEjEuk5AH6J4/2nQJHzQS7j/j/H9bDvct/8KHLapF7hC8fWjLcveREcXvfD92ZuyWj9N/jT9e34RtSC9Bhk9pGT5zSamVtymyIDsSlrUOg/kdbzAcBrIB36iH2pwsR097amL6gYnZaa0aG0K2MgosNr/Vz+YnaPWVRAC4av/hieFZFYaAINVYHjxeNCRx9iJNgcasQ+9Y+d6TuH+06aUtfRcUZ2qy0ZLOGCet260V6UEVLdb1+rJeLlnldZcaxRQ/yzS60UaPiJ6ALbsNaVi59lSRKsa4HzPj+ZX1G56Exoaq97vaXYz7PsJeMoMWadgpKIPbrZDX6F8UDUN+Kl192Ej2J+Mvjo5SlkfvIq1G/KVKdMWNiAz+4XUSF+g/6zQ0YWOZBK5tKm+Rhg3LHjutkJrw/CTk/0i/OWbnZF4tgWAR/ME+O7crwiHxcbhRAPB2Fo0lBFKsILr4jYe2AhjRYaeytNVQPMI768jYSSymWIxlbNT5EzHIzLH2MDeNydZgLpJkDloR84ytxeP8lzw1ERx8vFBO2oZvzEfxZB//yZhNhRTOtcnz8gAokcIkCGEwA6V38H4/ZL8tXiQX/bBtW4988tiEfwymxUgXqHLMme/TeCXqh5qgLT8yBbDt+fiSecc7RCRofzn1w+C+OensRF+xXrvDuHScv8UwfgbW8dU6XrBIzEUPCTJdKPzxD8JH/vN6/ZBU0jFI49FkCT6ySL/GlIQGnbkt+Ha9IYCnReI8zS7Jd6MAGoRX6FYiUHxLg4yiqIhR6Uwxt7xuY30YBxU4jVHs1dAAAA==;base64,
 ---
 
 ## What is Cardano?

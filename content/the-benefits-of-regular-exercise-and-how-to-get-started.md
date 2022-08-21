@@ -22,8 +22,8 @@ intro: "Getting into a regular workout routine is something that’s a lot easie
   life, adding exercise to your routine is a great place to start. Here are some
   reasons why getting your sweat on regularly could be exactly what you need
   right now:"
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-benefits-of-regular-exercise-and-how-to-get-started.png
+imageSrcBase64: data:UklGRroDAABXRUJQVlA4IK4DAADwEgCdASoyADIAPm0wk0akIyGhLhbY4IANiWQvvcmakP77vUBtz/MB+uHrVc6r1jHoAdJl+2vpAUgr2hC2/OdYgOKDxBfHOfT+cPR59H/9b3Bv1d60fo1/qSFf0HCCd90DE2s+kV0E3V77KcRv4fufsO+CpYcx/OBGz/tlzCEg3pp49WGixJf4Onhp9eYQTLz9fGBsGuGPG0JDE+Y3ivAAAN5nDw6L0sU1UETPXMaf/sKs8EefioCGvcaQUY6uY9zJwCi1mb4JzjHsvgLJ23h++z3xtyo1D07u68q+CgC6WdvCTp+qvagkNuTDsuDdcTyJto9//s9i9sb2j7//1bwMpp6//tb4/cHhz/10zwtkVzSalzFwaO/bZZmujEODwOkhJqqYOWMJjjr4iyMfaQjaDkbSR4If27Zk1B+GNcvxrzogDGoht1Tm1ATsxv8o94BLnRxeRC8+yz4bRuik3+hXd5B6hzW+LOSVZyD0XLkoYtJIj7XQ1T4M8K2jJ73qnVvN7GUKIX8nT7gSmOeyttbO1j/lLxtTqCuh+2X/55Hy3v2/MyZu/GuwLw7htu5yBAO8/qxm/aQO7Utsk07hbloz0J2ycVro0//YtpZFQruIm18GKhxpKGWS7jvU/oYTvLTJ6dpt3xsX/HPsoEQNUSK5Z8DYOD1C7S4aC+cEk+mIKTzDKNS2Sy9Mee1a/3UU+p/u67EsbWC7nLoujUG/7Qzk+9xEXIh0zSQPT72KZ4bo9FPXnZYTBnJAIQ22A98T+PfyzVFCnpmTdjeg1atp/GF0i+eMzELWoj3O/fNfCzYrI7rx/B6dQbWMd4tzH5MNapnDiuJkPrFP8ivWuzB3xHZz3j/xaTpVjeod9YfiJK4BhJaVk0nkZvXRvdDXfsLrs0f9iqgcxdR24Pm8t8SNFP0Tw/p5kn9IfIOQarIHZx6Z1/8SPXkjx+g5IUG+T/CF3pFAVM+UMwDarv51zFz9WEfO9g+7IpI4YID2UwC28z+AT1qF0vrLIWe794+n/zpbXDh7xvjwQjovYXBSQ0HpMzB8ieCtj6pViphe/dKmWHe4Ki9z7UsbMZwl1HNURoTk8H90MDlUtXfViG3SLgP9+22A7ZX26+EddR021hscnJwYS6ru2NefNqp5jHhzhxm5V1U27qHgpIbZBNytxBfRB+QbJfj/5RY6RNp840LhDBxT1ZhxG/QW/0e2gg1xYoqUauPVsqgmSbRLi9jG6YaNsueIATZBXooCclneaQAAAAA=;base64,
 ---
 
 ## Stress Can Have A Negative Impact On Your Health

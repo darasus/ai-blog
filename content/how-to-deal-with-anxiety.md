@@ -20,8 +20,8 @@ intro: >-
   to deal with it effectively. 
 
   If you struggle with anxiety frequently and strongly, you are certainly not alone. In fact, almost 20% of adults in the United States experience some form of anxiety or another on a regular basis. Although there is no magical cure for dealing with anxiety permanently, there are many things that you can do to manage your symptoms better and live a happier life as a result.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-deal-with-anxiety.png
+imageSrcBase64: data:UklGRmQEAABXRUJQVlA4IFgEAADwFQCdASoyADIAPm0sk0YkIiGhLhbbiIANiWwAwrQwAC+ffkPzf28Hfvkrbo/xnSA/AHrM+Ur6gP1J9QH6iekz+nPuA3h30Jf1V9ND2Pf279Jm5j9AT5ePifzH5D+qG4q3Qjh/8y0J3jBvAPUb/kvnEZ2fn72C/1g/23qq+xYjhR006NjuH9WE5tsU4A87VmVJVCDkin14lvnYbup95OEd/ggszzM0bP9vyKSGi3nWrdS1SqvkxTAAAP7vw5TK2XNtH5vwqnp8VP/JzP8LtPxRQPLYb240PWMSeomki6l4ZrUHMHIhhqwCeUINYKPnPOgu8TnYhASpadaf4ofu/wkldmbf/yTYgVYbbhD1TMj//5gBukqDjkf5EeJD0HzXYsdaZzlJfDrccAZL9SPLwSU3HQe8g3/YYL/Poz49AzoLtBMzHuSVmXwxkMfVYvZ+b9azSU/C8wa/EapiIOAz09wzC0KZdE/FiklrUc+nr9ztM2FuHNLU/5hRfDLEDAimfL1i4SYQ/1EmlME/OaGRUd5T7lO6+LiL9nIfZnNy/oujNHmkuU22Gz10Qg3eesEx6kIPcNRpsRsz9kZ+pmVji4l+NRSuwFhkSgJNnarqKGMHM4/K/zGtwlP8GajF6yHw/k13QXyJfgnb2e7sk07hEiv8jbREyp+fuu7bZPVT91VjF6ZZT62nks/t/WkOaEgsT91Ng6Emm/Id64PoWlDONJYdznI39YuT9T1az6rqFlYYJFuS3hkdDZlK/Oi8frqsQhEA9TD8C9roP3AZY7/1MdCM3V0Tpl9CuOLS42qwVpiworMsKiRDaKNA1rR2Xmo8hpW7/Hxz/7xWYcSd8JW+ZHgIrXYBvTJ2orXBdh2xWbYXGY5feghw/rsqeHfT194rwnYo6nb6t5JtyT3149X6BIf2amrpb/yOjGVu+Yr+1r+1j0kX/Nxqu3v7zan/6xJEIDhhs/ZWZ04Z1WgEt64h1MRxrHEMLCqDH1y0MTYkV6A6A+6P6PNxc2/mKfMBcZvum4yj6mhruLrg++QzAsrOxVN3Z+GMln7MSxeKC8YmcSlKYxk7idbN4z4Em0hXfZdF0ewDkjCqQdPf/+ijYfKCrMbK1kN19zo+CQDWJ1e866nZzbM3QpGbScnCnbVtbIK08lO3w+vK+0EJ/XC43CZVBDyogDVgttqgl2HE+o6YNcfAMgtiAaQNhOAFCHWS2AN5qHQRKP6Dln9ymU61zu0DAwB0UKerKdYmKSDNrnSk12xZ40JtEkNDOC4bw42QwMEWUinE9HjqkJDh9r7uIT4oiaOxfIJzsTtyJ8+OHlHT46/1aCYkhNKUSxm5wh2Gf0R71aMTcR0Qjo3g6Hw8nHR6mu/7mZRmNvszuGkaA2HVvzH+9et1ZO2stb6q4Ak8Hp1lFpzjoud/uaev+KDzMQ+5Yf4cUb2/be1NY2r2JdR6pSnVhMc+IUjK0C9qnWwB1DHIXpFFX+GwwAAAAA==;base64,
 ---
 
 ## What is Anxiety?

@@ -20,8 +20,8 @@ intro: >-
   signed up for last October but never went to again.
 
   And yet so many of us do manage to get moving. Yes, it might involve setting your alarm an hour earlier than usual, waking up on Saturday morning instead of Friday night and putting in some serious dedication — but it is possible. So if you’re struggling to find time for the gym here are some creative ways how you can get moving when you don’t have time for the gym:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-get-moving-when-you-dont-have-time-for-the-gym.png
+imageSrcBase64: data:UklGRrwDAABXRUJQVlA4ILADAABwEQCdASoyADIAPm0qkkakIiGhLhtpyIANiWMAI8l3jKus8S/JX5JkXUhf6fhB2nt0I49/Kv9VxgcQ/+K8AbwDz7f7f7ZvpM/l/Gt9K+wJ+t/WSEVzSAyui679ppBCGsLHl8KHyIVqSFM1nbZM/UigL0130qimpxtUssp0hUwiLKJVjb2Qb1XGjkuXz1oo0eH0M3KAAP78fbaZtqQPi0ZRfTCPxmh41Ko5nLe8Gri9WHxdIxMa8UUnF9R2fn0i37k/t4NNnDHG8IhXFTxBSbBdSVXTqeGazjlV034Ht1IeXpo6tm6Wt99vUcn/LoqZlRXvf/BqhAAyNXKikm4txGq6z1f3PygN0H51o/KfUF1PGsEBIQ6GDILP5IxVt61IX5Gkf59QNcj7K34VFyDw4uN8df482iM0N5V3SZ5/sFPfaiuX9cPVJbTXqdh99up2DfEE7tkbdHsjQ8ls+f6yqUk11XT/4VCZJ/l5OF3/J6tBaOud8TiNtW8lenHDCgiBPiQidN10G3aT/zmzxqrqjtHIdeo5AH72/D/dH8a19s5zS0Dd2ZDa5vqgafL6G099RwkrM/EI/benzPqSgkPrF8P/4wV1fCfBpKPNs1aRSgYM/SJkH4p5snwRd8bMYC3R8Mwi5ofyHwmgxnQaTtFmofXymE6r04WdWIcVRuLty24H4PY7iYSuFqPEZlqZCwXyv8s73V6RWHrvSBgQZqJwC8Nrdv9+iWuisrvsVAaG/4jc4WuQuPz/bCBUbg9YvU0sghiCPDjSVH22v76qYkcL8+gt95KkctInT3zsKklTygDFsE88qQDf28AOdLBDBHAYeQYKbcozBv9Anf+Oyh+Y0QzER+iOOdUa0D43JckVLbf4/4/49//X/nQnwMFJ9aMkqOswI9vfzUo9hfXN1leAS4jTxdxQdfBWTWYpUdX80hwpfefExf9cLrp05vdsAbj2BPvLX/GtP3b4Cmd5M1rPuTN16sVFOvsC/P3x/vKRt1cS2OSv+b+yb5ChG09yFE57JFcnuDze5jiEyLHmZbkuJeLarUD0mv+/6OFInKOoND94mZ+7IifHtiVR/5FdIqLayUxqhlOZcm+QTHfMuVYiZvoWshGPwNVA4JTEfeNKKt/w7XZitg+0HVznfcOk5/zfpJ+uxQERqn4A19f+zKVVcMn+ve5zlnlZvXuf2DVB5lLQyKmvRIfJKX2BUx+jP806+cRqiVN0oQ6yVBqpQVf3XsCD2LixzEQZsoHZErGKmr4AAA==;base64,
 ---
 
 ## Run On The Treadmill

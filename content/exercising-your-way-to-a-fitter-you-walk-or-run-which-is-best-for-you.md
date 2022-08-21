@@ -19,8 +19,8 @@ intro: "In today’s fast-paced world, we have less time to work out and still
   one you choose. In this article, we’ll discuss the benefits of each one and
   which is best for you based on your personal fitness level. Keep reading to
   discover more!"
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/exercising-your-way-to-a-fitter-you-walk-or-run-which-is-best-for-you.png
+imageSrcBase64: data:UklGRtAEAABXRUJQVlA4IMQEAACQGQCdASoyADIAPmkmkUWkIiGY/VW0QAaEtgBjWqC/AOkK6lAB8k9Kfsf4byefJV95H+q9gH4l/1XSd+qvzAfyb+zf8P+4e9V6E/QA/ZnrMfQA8sD9jPhE/az9uPai/+dNhe25BXgH3g+5vD5vT3J/6T3SWpNeZ8QNMX/uH+99Pr/R8wf0d7BP6xf8rsFeg7+wAriXIWsK63V8t485M9875/YvUoTXVgoWaM5Ix2QhAch6zTNy8FHjZW54FallQmWdV3flknr5tg3Ak2n147LuqY7EV8AA/vYFyLMBHLK/m41tr80jvs8Tj3lyUsXovX3h/zOEa2z+K9uY4rQKzxvB5J5RboZUFkrr+MIGzApaHtYlMkGDPg2XcOzL/xty/rLSdqZ+egutnbXaqiBOmKXdGrXq7xKxtAWv2fqQg4WL84vodaJkN/VaVq7jaZL6bvFwZP5T4VFH5tn6OVXn9oe2YccpiZZCpqhP823FqfW5vCA5Xes8F0AK5LLN7/HDeS+U5jYZjlh/Rwyw/X6/cn/CZf9oD1/05E2gYe6l+t7VPmXn1fY/8uwenGc6uytwq0W1f/SxUcK6tF7lDH5oFJzprXAsRV+dh/Y22IKDAQ7AIjgLUgmLtZK5stix7WtTPBf/vZ/E+QT+clFZy7UaIKNKgTbrzPcR+egYCD75DyKhpg2qSrEAQk2wf/luQaqCr/Q2kB9A+aXFw37VyVeRPRl3nm2kRI62FbJ/adiDeYtT4Pz+BInrZEcVIgsYFD+WOQWCMuYmi26C12/R1QyECvmQZQadt8sphqvu6NCZA5yVOJ/pGeibcGTQIakHlb/6qQGsr+k77L5c8KeEAsU8IDNQAX6dSL2k+nUjVmxedhuDyNLkw99rCFJV624lE05IU39M47lTgbmJ1Kh58+OFnurEjAr31CY72aityV0VQvzzIUBUzIi8RNpL/JhLHH/vmHwYOkrOlfFwx/nWwhY8PghhnwlF8Plcat5TNM8vy1TnFc+YO8S14PohmPd4QyXqjh/WGfFkURWVEgs0exfLPtPjaJeHCho8Wl+w1IjB3wrV1L96JudBgy8I4GuzaAeuFfjbS3tcDEtO71IDg7nNB1v/LFLP2T4TJ4zK0cmMSn7omMZiznjnlpdznm7ozn8e1WT8cg+yZWx+SBUrJAo6Kb59+Lbo2iWj8X/6UTR1z0W4rTsLJ7PvvXv/9V6v+npGWZm0iIrxAyjXKnnwrL0+To/BrFuE9LNTPx/0b9jepGq8HxltiMSVujbknk8Fom3X6eaz+hfwQaqtey3GArTmf/oDxXuUVv+trL7Ngix2VBmA6qCHiy0AfeU5kDT7/gSs1FxxeF7/ZeXNRee3m9KVg8MqUjbrZSPFjFRBE9n7RDUbik3K+wwtIzJ0ZLLeZE8ze/XJTAA74a9e/AeOhZAcudT9QNgrtDZGHTIqZk8SdG7xy+nTmqoNGUZbFTYfA0fQl2eYT0OylB9J3s7Jb2SbQXxBcZ5R2U6XAEpcdWyg8q6gRnPX7jyaYRnLvSEKdJfL+7z7aosAA+zD8Z2yFDmiWerz3VyJpFaxs5k0SFcxZ5F+phsxCyNVkI9i/Cbjr8JuFOMXLmCeRoPIpjwGg6BeApJloAAAAA==;base64,
 ---
 
 ## The benefits of walking

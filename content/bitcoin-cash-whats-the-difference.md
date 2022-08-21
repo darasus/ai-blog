@@ -18,8 +18,8 @@ intro: >-
   Not all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).
 
   But which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let’s take a look at two of the most popular alternative digital currencies and see what sets them apart.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/bitcoin-cash-whats-the-difference.png
+imageSrcBase64: data:UklGRkIEAABXRUJQVlA4IDYEAAAwFwCdASoyADIAPm0uk0YkIqGhMBYKAIANiWwAxnRkRve4fir+KvWocmeAOboJfmAfA/1AbYj9qvUB+yH6k+8R6HvJm6xj0AP2A60z9w/2k9oT//3jL9V/HLojpEFJnhB3g7Uv933gjj38o7sLUv7pazD1z54f9l7Jn9b4vvpb2Cf1k/5vYb9FUpaL1jlkjmGJuf9Q0x87/QqeUg29+XSKDUpgiWJH43togIxVVxm3r6HMx4+ansQ+SYkkm8JpOw9WgAD+82v/5JJ/ZPyHlH/alQf9BmYa0hU/lTIfjjLIuVlYXp5yiRmcjDJlgkB2ppB6PE+P6tf7nuLNHpwoP//uUZdebb9FhHww/cwIvpnC6MV//8sdMdTkXJHoo9uPZ7at9pZVNgijwpppd/9NG+KUhTEcrdCr9xv2ihny7s/lkWzFcTnvAmKRogr4Rba//N+zxSqZvBXzYOgHK7CJRM2fcrmN9xmFW8lhJ6+SVtqrQLuqWNZ4a5+vcfD8XHzU9LwBS/U//lPfPvT/Pupo1VJa9moM/z+hHmf1jcLkDzzDa1y1ZRNY+JGDM+NfXtbKltKJ2aGRhdIrIrKEZlFCOesTLq1wRAlXyveDD7Grnk1Tnjn7k1/VuT1K7rZ+uctQRmHEY6uBfPtKnpkkpuzld1EjT1RmkT/sUOR/JTmYEgK13kJMcuREwgF4T5BAt4Y3uTN91B3Ha2mfy3MQgwfqUj96RwEG8cijkSYWmbWO8DFHb0SnYkf+M/+/LZ/84TyYhT4C/ch5yaWSDvPaPBFK943GiL3H7zuVzuZLcE8L+JvMJOLycnk7914qoZ3rXzmCMdRGd8++SFSIxZ5PXIwOQzXnQbXVLcHUfLBxrwsfD5Z2EOAX2DeZGBimMvaRPI+Fjq9EplD+jZtz9ypkOEK7Pge/UgqtfYWH72CR5J2r4O595r4o15d1pWVPn7XHMX46f5RaeYuTsuN6RB61a65WlF8fnU7zX6N/9MD0u9gIY99zfY/D2vcExK797flsqZrvBnxo/4PPyJc8KZkqTsOg1M9pfkKQSNhx/QPNhyd4ejYnTl+Cqmf5Q789lMmtoxpgLetdFyzlKiDJe4dVrZCZRzcWU7CEVzRGy8s0c3VQEWx81B+FMDlAdnPOdNlRPYSptQdWaPL0Ah5Tu5SjnHCJ7irl4Ew0Hw2IxNSpW4KEk/ZT6gXYx/v5Yr5m/DOdWiQwIaKa04Y5gWuZvztec7X+OWqdxPWv/x9m/6MXXSZnBKfAmX0JwzN60EX/faW26aP5BrIFBTIlI/qIEkrsw+0qEjZo1/uNpGcOu75BiSk2Lhb+/EPg+usFl7ghDV5CWz9RSj3OY3+5n76yN+1m0DcdaVO9VFfVtJ66j10BtjIW/pF4ynCBay+YFxBEc/z0uhSEquPTybxPMqPmvQoLJmQsGwAhonBjRwAA;base64,
 ---
 
 ## What is Bitcoin Cash?

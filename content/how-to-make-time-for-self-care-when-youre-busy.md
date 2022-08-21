@@ -18,8 +18,8 @@ intro: >-
   Self-care is something we should practice every day; the moment we wake up and the moment we go to bed. In fact, self-care shouldn’t just be something that you do – it needs to become who you are. 
 
   However, as most things in life go, self-care can be challenging to integrate into our busy schedules. Whether it’s because of work obligations, family commitments, schoolwork or any other number of reasons, many of us are left wondering how we can make time for self-care even when everything else in our lives feels like it’s getting in the way.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-make-time-for-self-care-when-youre-busy.png
+imageSrcBase64: data:UklGRkgDAABXRUJQVlA4IDwDAADwEACdASoyADIAPm0ulEakIiIhKhZroIANiWYAxrB8Di7M+IZMaKjP2AbdHzAfoj+2PvAaaB6AHhAfCd5M1H92e+/usxsLGoEre4APjB6Aefz6Q9gnbMzlolRpG0DTRxn++lUuq8adZv7chrVakkJMRf3Q1s7vJiRReJM7T865rhmIBpLIySNLRNX5ktpQD2wA/v5gPDAsDs2ykTkGin3o7yutr6UN0naWuYX//eeGfLauF1iiSCha6G+VhUN6asevt+IBynG3JR1yECTSH6ROyFTwReFtVLs9j6dFe8cz7pxgyMpAM36LwMBM7kHoUV7LnrnT89I21HFsw9GLVLNllY9l/iUahserW6ZJ9x0inmfP+c7+63CcH4ZvzxaHxFbVOzUMbygDWBLzjrvtU//smmM3CdBgfcjAIyxdz9EOXpKMnsxGal3xJVT8jeZHAyO6W78CPdS+1bIPWdr3GqFb/+xR4fU9I9XGvP/CEwHyVm+Xs1caOi712Px62nUD/+jJwN8yDVDaSwKfuuygC4Ayz6rdRYBpuXEUgVuSjXBFtPsO/iOH5sPAa1U22bC7K+grscdiDHw44CcSsXarjqZ/5bZ7pBA6Wkf0cv+WMnMO6myk3+gU5Cqg4kXax/VpR9i7O8j/+qeIo/WJ+6sqiqxC+tn3p3Svm6+ptTO33x1FjEF6/EvvXsikrOF8OqDzSVUm2qME/wQ9hqVy5ANDCNcW12CopkhDWDBiCuZD6Ah0Rb/rR9zM5L55zIMxWIYnz8pJoXCwx/+A23tGh1Uas6CNy6Th6Ut4e/avmt6H/DWAJ2G/cuq45J/i2A1Gz+3GPbeizk/29f/ExtQsHscbbzFUOvTxY4vtjSqHSOpeG+jeJtHJqiTMnwRSyc//8dfAywNA5Zj7e9Z8Gw6ZuIooOy9FbwvQ/mHEgf/rkHBWl1snhj9PYIPdR+AH114mlAqXhfwO7nFQ4mFja/Kgk94kdBa4N0ABnI/CWRFEGr860jCM1i1WklsLk95lEokxVdaSt5cNha1w++RA4IAtopzzCDWpJ6jUjQmNCgU3ZTQf2QN10t/sgbrZ2e+StZ/FjPiodtBiAGi/a7ThdTC8AAA=;base64,
 ---
 
 ## Start your day with self-care

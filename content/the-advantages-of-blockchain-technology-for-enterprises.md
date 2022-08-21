@@ -22,8 +22,8 @@ intro: >-
   chain processes to enabling token-based rewards programs. 
 
   Whether you’re just starting to learn about blockchain or you want to dive deeper into its potential applications, this blog post will help you understand why so many companies view blockchain as a game-changing innovation. It also explains how blockchain can be used to add trust and transparency to everything from supply chains to digital advertising and much more...
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-advantages-of-blockchain-technology-for-enterprises.png
+imageSrcBase64: data:UklGRvYDAABXRUJQVlA4IOoDAABQFACdASoyADIAPm0slEakIiIhKBv8AIANiWYAzxwr+zXw5wD7AN9Lz4foU/4G+O7zB/p6Bxssb1169pN2A7SG8LcR/m3+l4wO4p9DPEojb/zPtR/3nkG+kP13+AX9bOtb6Hf6ZjXSAXLvnbW6Beu9y+sRBiH5QZ1EJ1n3DSAPnQlaIgtUuFbw2XpUXB7u8A4Ofz55Fl89l9LfO+vQytROzKpajSkkZmJ/pJAA/u6oXKYHCdETEleKEc3czHhKa/r1oSq4lrtz5ZJt3/mdTnHaT/MHUrPMYsHjgZ/wyTH5f1+n//+7J/9sn/1Q737/mUfM2U/Nac0A7oI8//lK+wW0Clfzhk+tgRIOiCCiFrGA+lLWOosfFoM66fVDj7ChZ/9axuX+Dbkb9ToJHvs/Uao9P8PfTjKDDAI3dIi0z7qz9b37NGcuzkQIQuxLOZab9l/RGkxCppEuPKX52p64m7ba1uD5YwYUIUJjvzeCfwiFBOgDJfSRza91MnvpY7b1Nj7Svwlj8cbFu6E/BzK+sWtszzrsRx/G9F3w4OIYwCtgxv1/v+014DwjP3wr1Urg2n+YDmeiklfpYv+hmFeSczmhwY5XYM++6mpctCTGQUsSEG+S4lYY+kto3ZsK6DXgYgU3NeD0e7uqurjLj9NhighSmzcSDL9N669abiYStrWnYw9NqGVuDgnzXb0x6e4/fWxqi33HjvUNFdDcYRyffM9U7Ytb59umHYWOK6qbyphyBk2QJf08drDTCgHXJvlB3m57UBY/PQSaSdwNf6bLgE23DFdp3iHTxzKfp2HCKYvNiSyZ97HUtAzJTebwTlp4D9k0yztw4OxsLVw+9g8cP8Zx9FRcZhCcDf95gy+93ruRoQyrk1SJpbiBnnox0+1MmGDeDVu2JJ9fMpI+d5dxxR+9ApjqS0i39OL2qezl25fw+bZyLmKVEkRgScjX7jeZDE5TdG4N6G7zIxGnS2P4b6HTyB6UyDHPub7v3XAZVdXayOFvsYVQxht0sbUH/uwYn/yrCte8qHmt7EVRN2/Ed1lO747pRYKkR9kW/fGNkTBAbsLqt6lpqG+h+ZLsPr7cAi2HFUvOQPXSbQIwjoRpNUiSBu4Dvs0H+G2VOD+fuxQ5ryYTtTrbXM5n7odRlKr8PQZxCfqiTaV2KVehT0s8Xd8y3YBtmosOf2PcbTAt8mBanx34Y/aGjHai8VH7ym8Nw+7KkHp3W3yB/gL1zGgO/b6St2ooOU1ScOuTOWSMnnrhLHozHpjy4coACTpU3N8dfLZ5m2J615lBzJQIk7geAUBvJANb6AbjwOT2FI3SNn8lv9x7KHejAAAAAAA=;base64,
 ---
 
 ## What is blockchain?

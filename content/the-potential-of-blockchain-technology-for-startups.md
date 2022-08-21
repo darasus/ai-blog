@@ -20,8 +20,8 @@ intro: >-
   ways we think about apps, projects, and processes moving forward. 
 
   With so many different factors at play, it can be difficult for startups to know where they should focus their efforts first. Many companies have taken an interest in blockchain technology recently because its decentralized nature makes it an appealing option for creating secure online communities without the risk of a single entity having too much control over members or their data.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-potential-of-blockchain-technology-for-startups.png
+imageSrcBase64: data:UklGRkgEAABXRUJQVlA4IDwEAAAwFQCdASoyADIAPm0okUakIiGhMfVaSIANiWwAvYv2/xe6fiB7IFXfqX4e4Kw3/KD7Ve0x5aXlVeq79mfUB50H+A9Ru8O/rl7AHlX/uR8GX7LfujYROf01AVYK0fjQu8u1Ao7P+A/s3iDYAPjN/jvTf/y/755yvpL2A+kB+wBWR4Ce+Sj0Y9cqZ681dm328NnaK0slgnCmFWAhRhWoqYgOceVxDquZIMQdIEaDdi2WjpcAAP7xypjI5+39Qy0dWg/cbIL533h7GkQeqa0//DrEsk6d///vi7e9Zf+tFdqxKusomDex+Sf8VIV288BTxPj7qoQ4MubUYdGdqmdrImk5UnxD2ubrr0yrpH48/8ETgXpS0Zo7L5UsuTF9P8qQoaxVrMHxdePVSffS5hNSNn9z7t5bntTxreSBE/+HQ3FzZnGtUaAhZ+Z7Dy/P/b/5H6hk8rgwfGA9r4sN8sOB5gPK9hDYcM2X7/Yso473mo0zpNI+P3m/a5st1y/+3jZgCDrH81AIb+a6IRaBViy8hzkx2g+96IeCFofHdgbgYK2MlvKa2kZxRLb0YKIMk6hh/N2MDBYwaSHBq0TNpwl/tLxhUr2g/5TLFk/Sg/UUQp0/UGfLhNvlp9ld3g6G2nQFZA2vi+3X7OOJz/L8ezIO+oGLxN7FHvBwdmw9dAkVCnHpBS/4WPkGL/GGlqihqkcWgJrlLaHivuKbi4Xn1DC8Wyfe1evrsNbfedBHC9Bwaw+v3O7fWxQeN3XfCxlzk/O6VXQn1sf5YTFs1DyHE9LDPh2aZMCCU+WYLGTokpXlBZNXvqz7X/FoCzFYE5WWJ/E8/I6uoq38D3ug4RvVn+MfH01NpCPnRPNM+Wu57/Ax/xT9lrY/uVdSm4joKLiRkGMdDTtbRczdwlcRe8aXVsFHFMv3K2jj8Lb/Se2TCM5lzk1QICDM8cXSBOA51/SNwiMM6AqVZ9wFlaWsZdJ71Ti5+VFS+wJozFF9LafKEer/jMYj3dOaf3/+CV148pyX1/8eB1r39r9vivxeyMCBjK7t5b424P7XC+S65HAIPH6vB9zPim8lwVw7IK/u9EsC+xYwRWhNFSuI2m3lr86vFU0X1e2vNIo/c0BO8FJBYqxVjVn1uYyCwOKFAm4GgLwVNeYbs8K9syEhJ234igQNd/OIm1I00hoHkZF6z4R6ApVZiUdnTSwHvcHPv2Ft6+m2n33K03szF1IBSuXXAuuAWMDUxRbBGVMOp8GzxXkdg8OlXJa0zq749MnFSF7jXhV5F+pVuRA85AAALhHBYK4KjFGOFDjB3YYY8PzbuqF84BQYDxfFXq5c4z7J7iM5wBoIqtzgCoc6GHi7df9jQWtGi6/7FnrkfEPBwG28N10Pbgyx1K61O3CqAGCF/mEJIRYySKdZeAhpM/aznf1v9SqTEE7/eS3U3uS/LX+iK4I0AAAA;base64,
 ---
 
 ## What is Blockchain Technology?

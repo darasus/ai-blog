@@ -20,8 +20,8 @@ intro: The unfortunate reality is that not everyone loves working out, and many
   dread or look forward to only once in awhile. You just need the right
   strategies and techniques, which we’ve outlined below as our top 10 ways to
   make a workout fun again, no matter how much you hate working out!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/10-ways-to-make-a-workout-fun-even-if-you-hate-working-out.png
+imageSrcBase64: data:UklGRoQEAABXRUJQVlA4IHgEAACwGACdASoyADIAPm0okUWkIiGY+q7YQAbEtgBiiKC8AOomoB2H8gOYH4Q8N8pmd3rg/IflJ/jvfh6gPxf7AHi5f2b2AeYD+Mfyz/Vf8D3hv8z+pPYAfsl6sf+Q9iL9sfYA/Wv0pf2n+D3+4/7D9ovaF//N5zfeeic9A7gZZT0/zA+rXOb/gPBvjT/0/qPZ3HqH2C/1sJsl1QZK027r0E9Y9/L4bdiDENrV+Knf2FKCDKIsVR2jqpgmSzMSFHfjsKKvfIBgH3loQ6Ki6oraAAD+8dLQH32uCNF4u0rBTzT5tA2EsNQrdumDNdT33S4Alh4ILgl4anWvx28n84fA93gQJnselxk9uSnuFfz9XtBbfqQ96PLn75HVWOaXg7CaV4Q+x7It1inayLYl833l2gnbfyZCNla6baTTi1R3xcfqKwQdGS8X7I2yuCL4ETr/YKQIvr6BUho3ehd55bMOVskDV27wa3F5B7DS+X2XfOkgt94ycjsd0q52QOeI3gA+W/cZ3ERILx/b9z8g3kqf9MaS5Bjuyg7MNLFvWKfiUGXU86+ev69OJ6YUb0zWM4UnArctq5u5DVRXD92rza769AKzKZ+fCtghaBBilf41Qlbfhs+vPzgNKADqOUsQGgOkFhl/WGfVsUh3+eLrH6VfBP1pPC88jLkqaluM+vR5c/fJBWr8RAkda3Q1/997u6XK+qsNyjJN6iKqRmBYbx9N00IBI+1gOMwfWisHFNjc8QXsSMfxtcaVtz0oToFUKKWY33jjDwcBAW3U7gNPg/9dvi5MZ4C0rwEO6kdM95+GLGsD32Aty3rgmp7iAx6XHC+45l9R1lJv26Cimjny/f+XJzA4UmMtP2Jw2YcX5GigY331IRfdFzar2Z3N8ufrnUXiq0xMNeF+GtGDbac9OV6VgRx1onyzbcvnzfnuGgAhFXjBMz+ZckRVhHwe5trQYcoWBSEEQN/lJrYqSZoiuxYqwW6JnYG7R7dLGnTON4B2fdfN1MTvYNLaQkr/gsCnatejN/b+HoA0celXT0rFtBNTfNedr1u/3QrKqmPfxHppOyFseeggGIav/z/j0jmOIk2vRbefjI6eEDffPoL+C4HjQwf7UVHK2gX/qnHX3734ZsVl/lc2PxwujTgxTRHWJFYJOt43t+Xes+2n5nPywneY2pBJHVlNY8g+pgwcZriw+iEBYL/2Ps3HbsRfc4He6nmuVpuwXynZA/K8JcFZkwjOgCap5vo2h87IqYLIhEb1qzELYLOcw54r/w5kdloa7xH2xmuCvz3rTTO7NHnFD64Lhtxn0NGSt5e6aPIn1fgwuYlfuPeFId2dIfDcHbAzXX6euU59tfNE/6CFTqj45Ov/fga6AiT2L3OLXUESrU/hruoUir9/3X1yvC6UEvFT0JaiimGRChFBxO//STL2ssTkSnPJOrO4HsW56R3u4TY3QAlGovVSDXsO1CzGMCsRYdEVgD7PJWYZvND/KzmaEads1Ei/ZsjZ1ssrRtQMK9aoX2eYE5cWem+AAAAA;base64,
 ---
 
 ## Try a New Exercise Class

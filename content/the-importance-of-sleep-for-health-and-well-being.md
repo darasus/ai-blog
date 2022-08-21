@@ -19,8 +19,8 @@ intro: >-
   To make things even more challenging, sleep is one of those things we cannot replace with anything else. Sleep cannot be replaced by vitamins, exercise, meditation or any other supplement. It’s essential to our health as well as our happiness.
 
   We will look into the importance of sleep for health and well-being as well as its benefits and why you should spend more time sleeping if you aren’t already doing so. Read on to find out everything you need to know about getting enough shut eye.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-importance-of-sleep-for-health-and-well-being.png
+imageSrcBase64: data:UklGRjIEAABXRUJQVlA4ICYEAADQFgCdASoyADIAPm0ukkWkIqGXDJXEQAbEsYBmvgnGhDL3o9HO3L55nTQN58ron6T4L97Xw57R5Nd8X+UPm5bqb/Aa7n+3eSD81/w35XeVP/GchP+bf6/+b8jDQA/i/9G/5Ho+f3/3Se1/8k/w3/b9wn+X/0P/rdgD0Vf2qDsz0+fQZoJBHVeJRjZHwCqyhnmFaP2x0EaZ+WRZfbd5JB6frQDK8YK/nmkrC6Vnj4ww+sws2UJIYVUVR0HGDVy5oAD+/EXaA3odDHtF3j4s+OgSOyeaLqkn5NeCWpG89wzo0KOJBym/Zw1e2mSvhlJg5RRTK5e+Qd5l5hmXsiVbdKeHaid+j1UVxzIBnWKCSZrfWYklb7rFR2Uw6KIAfvd0xqC3z+vCkNsR5eOHsZ48AP97L7nvF1rAfmun2gaMXfb//dlycH/9NLNyBheCWAv787dV92YgfsWdus6xD2CGQgeepBqkA5ZpZdso2iUI/uvcXANk1tEjxWpvKbvPq7neCOuW4kYH43i7PfsTi61eKvDaHd5suAnZC1nen2j/xVr9TCaA+yekyid0HoaXOuioWF524ivjluhKrisdvQtZ6sbocaGubbKgCLBg/z3jouqLfJ5JRz22vmLa+iuy8aS7qX5QAuwGwv/xj+OLKe0rKPYOuj6Je1bB2l2yDnz0RIHkPsod3TTUQoC5hrvMFNDa6HUwTHXuwOhtlq6UzxH1xFuRA7qXCOAeksj2H8f3OO6F9UKhwIJUHkgbypt/dC7UofAanVJgfpDjqROgjoyn0Zmsb3zRTf5gwK3RywoC1nHXiZjtUCFFmjM5D+MbuxMhc6wqp6y6QoUH7t71t673n68vL9FQi+v4EsGpm1BqRgyP9VNDeVGGphGtKI8prSIKlHFkHqWLeTeuF+TI5nXb2hK4EKdTHzGeR+4svXjC47+rYh915W2TK2AubyEW9MeIJIbWxq5bR/APi95vkD+OsKqFyRCUSfduCbp+sLLkuQkmSHp3LL8uddF2LY/KKHhBfDrmQn+20zbwhxkqzVG6l0Js7T/Nua654xz9Q6jzbTBYycEQMvtI183WWVe2zjOWkg0ywP+L7V82UXkksg9rxGBOq12YxBG99Qf4oFTH6mz3JxN/IKFvuzJQ1XkeMLECNrUQY4Jhs7LLXu4O7W+rpQUI7/S504lVJOccTBo4GZtfq05bRiwHS8ut5/C/HNpGXjCuWj241mX4VL/WkBplvkzXzKpUfOi5SiYKHl/8b5JMzIFQc6Cr8f/k0jOACsGVhd3SRk+0akaoE/ZOIBvwc6XP8AjJhScZgXc2DpbBPpIm9vEW0jBpuwDP8/RHCgbviZDH6LaIN+fO/DSvspM5YRVZa/vauMhLz6w2+ibUirbtQm9v+4WKyCocBOGq+CswNLllTlwAAAA=;base64,
 ---
 
 ## What is Sleep and Why is it so Important?

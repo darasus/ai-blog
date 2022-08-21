@@ -19,8 +19,8 @@ intro: >-
   With so many similarities between these two virtual currencies, it’s easy to see why some may wonder which one is more valuable. After all, both are built on blockchain technology; they are both available as a digital token; and they are both used as payment in some cases.
 
   However, when we take a deeper look at how these two different types of tokens operate and what sort of potential they have long-term, it becomes clearer which one is likely to be worth more money.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/bitcoin-vs-ethereum-which-is-the-better-investment.png
+imageSrcBase64: data:UklGRogDAABXRUJQVlA4IHwDAACwEgCdASoyADIAPm0qkkckIiGhMfHLaIANiWoAt+wrQs/AYG9vVsB9mfwN/zvMq9W/zAfrv+sHvTc5z1xXoAeVx+2/wsfs/6PVzVrQHDb7ksMVxI/tfcwYxf663+H5evpP2CP1f34D9gCTTAg2RdZnx8n0ysaJnl7rsiFcHR4XNKn9a3cD7gpHLg0z9uZAYXaSQ9RcxcuNOAiOv0ygAAD++Q5jGvb02/utOAqpRXExM1NDW5vQqH8FbDvDVA7ZDq74xfTSwK82X+yEd4yICCVqMo1q+NfGVTJb16N8hlT9jn6de+4p0kP/0j9iTXh/wMGH9/9j8Hgc/QOv7RfwS6FLAaSJqV/Goz85tyXO3U0YmvWwOepwNpGkO4PJl/V+cZSg6MS4/4WovYCIhK1JPraQqpVE0h5vl3jCd7KtaXho0fNqMvBSJn6lHoL3fPtL7mnFctCc9HQPRp7FMTlw8M9Tk1sd2r8IMF6k4+6TR2nJxFO70ju/IZkcjEyFj6PzpkctUyIWmvSP2Y7+J/L1ydYV68Z/2FOmlidf75pp5W42OK4umBb3pL+dH91ve/Ik+5MLWeq7WbVYus2j4p5uVv495FABM+H9LpaTD+RjhcLBWsx/Gyzr6vy4/EqwKu5zI83P916cS+lU2sZg8gSIUmEgyg32PXWNAfaZ+jNq0BtpyoMwkMyAer3W1M9cInw0JfvXP2G0+9X8cw3aVEVqLzgIJ0ReWoji8Gy/sB3QqfYbpTgomcSZttfpFUdt2unJHv8ThGzi4SuTslVDfG+51nzdvzpE/B6cYsdyjTc1kktHt+Bfy9xBvPj+2YDW8KGMNjeJdvw4mxuiLszUtHvbJPXIJs0+QdfFXSz9RKfe+mDp927SfAizIyicnu67nSQBA00T+SR/9Dp//9Pd8YNevhBETXK2Xaf6xxQWMtyAUP+PHqoV5f+CzkbiSyaUHiBhAfomR+s3v8WkVWmvThO7CPAya56eoJXOKPSLgVvtH/8SHTlebNfv75L/4ytcmN3fKFA/DcjX+bF59wWuEGicBH2ljtCTpjFp+o1yu4h5QH/r7Jv/7x2xS1Gc0X2t5wUwP8qhnV9+hul/fQp8VabhYWyf+/XQIjxhLmH7VWMGfIXP0d/6pwf/oFTbG1yCWNakF736TroTSQ8oBlJuiYNj0ionmrp0b/VCefKMsAAA;base64,
 ---
 
 ## What is Bitcoin?

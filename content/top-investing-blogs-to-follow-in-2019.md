@@ -19,8 +19,8 @@ intro: >-
   The world of investing can be scary for those who are new to it, but these blog posts can give you some insight into what these professionals are thinking. There are so many options out there when it comes to investing money, and so many ways that money can grow over time.
 
   These top investing blogs come from a variety of different sources and they all have something unique to offer readers. Whether you’re just getting started as an investor or want to take your knowledge further, these blogs cover lots of ground.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/top-investing-blogs-to-follow-in-2019.png
+imageSrcBase64: data:UklGRvAAAABXRUJQVlA4IOQAAAAQBwCdASoyADIAPm02lUckI6IhLBgIAIANiWcA0yQnJ+Ookln+hsCxjF6fsRzYOmsUc5FWl5G6jlug3Ev4WZg2wAD+/fnQ4LkaGhzPJP0PJox3QnSSaIR/j8+1nZ8CvOC1DGBqybLkIB9Xty9/2W8xzUq3pU21qGddaTY3mxOK6ZntHnsn3hCwLW2uSR9J9rwfut3JE/+oSKtKE7TCSNBddcEp2BDUTTarejPbc10+8ICQ8YOGjq+cb4laLZ3+jGWMurIw/P+7YfP/IIydmpepsPZKiGH8+MMzYwpG2sWxcAAAAAA=;base64,
 ---
 
 ## Dividend Investing Blog

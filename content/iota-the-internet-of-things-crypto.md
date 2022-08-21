@@ -19,8 +19,8 @@ intro: >-
   The IoT is made up of all the connected devices that monitor data such as operational parameters, performance, usage, etc. It allows users to interact with these connected devices through virtual applications or digital user interfaces.
 
   Users and businesses can use the internet of things to track the locations of their assets, monitor usage patterns and detect problems before they become serious problems. This article explains why you should invest in Iota and its pros and cons as an investment opportunity.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/iota-the-internet-of-things-crypto.png
+imageSrcBase64: data:UklGRqgDAABXRUJQVlA4IJwDAACQEgCdASoyADIAPm00lEekIyIhJBgNIIANiWcswFIAC1REAOkOmRz138iMo6+M4QfcHoDfxX+zY6L/F6SJ4qv9V8kGMr/e/aT8M/9n9yHti/Kv8B/zP7j8A/8r/oP/E9aP18eiaFuZ96zeufth6uI9fCDsOPTf5YpX4TGMB4YgCwEtJbhQ0bzEM7JaFBSxXg6pqbpP1DqIVfRVmcZgAP79LANmaf6jM26HDqIkxRwfMEMzacBXS8/g4UCh6k4GoqJ/ygez0I3mRufQ2JpbRAhfbfsR88oGVSbTUDVTSe5cevdMGFils+8ZqWW4rGzMHG77E07KyVe3MHmr9awlx3GVrfqd3bdWtP/+nTnFaIW/3P2NS4v4e08WfSSf1LwHIBDb9EBOYugbuILBzmghgZe8sch9IRhUNN1BBaTMR5a9TBb/pWdDezPBlnrf/lVP/gsR8861UP/2EtFzXuQXAP/cPwsnPz4M4c0UFZx9LpWyessu5/YnlPxHgxuNJe/Fripvj52BUmzEaT2eLjH+EHp+WIg9R1/fr5RRJ7YCqnOs/mzmPR/9uBhKJ02pp4n9FepCfBwf1Prts2X7mnqtphg4wtWtRdC9L9IRv4afrST/mizJnwvNJe1VR5uqSninHfU6Kf9SIMi+t/70st981SvNZVgTrUx+/xuTcTqrc4ZCV/BNp3eBo/yvy4gl1F25LIW1hgqWEWQb4oHi79nQXk5fDQuGqIa32kb3hi9tOwCmGGm0bmalmdUXPpJevezJHdeAw9x4z/6jTuL0wXSNQA+KhY52XSbky0/2uwqGXj7pVh1l+lqIFAvvt0eWlfTb1Ia+/PnvItSrHqwIWfmgv0P1X0R8ZXrfCvuZHRqNT/moQC/DupPk0lzp1/JMKCC32iL/RtYVcEcMWfvSaPAvkeD3YiNaK2qNsEPz3KZfeRYfpzO6qmEdx1FWDotwsJtgttgArf5Tr0e9EHq5p4CAphaRfEm/mJcxvjwneAncMWrfei4T+2Vl9rmOk8GjG9tDFa+NnmmHgKKI93/4CH4tzv1UKCjM4zur/uRyalJquImOfzg3sYZOM+/FWZ1uMldMUjRb9brYvkpfNBTp8s0DpKTmQ50wYNcaqpem5zQRzf0KzEJQpYj6Q/mb2NefvP2lNM2yd+XlveY6scPRqqLTb4gZDmYEKtc6Evazwx+NMTP92eW1iBe85ss1Y0jo5tJ7j+vbJLa4UJYQWRqwAAA=;base64,
 ---
 
 ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

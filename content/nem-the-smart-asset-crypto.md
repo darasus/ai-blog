@@ -24,8 +24,8 @@ intro: New Economy Movement or NEM is a new blockchain technology that aims to
   asset” system that can be used on almost any business, organization, house,
   car, boat – anything you can think of! Let’s take a look at what exactly makes
   this crypto so special...
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/nem-the-smart-asset-crypto.png
+imageSrcBase64: data:UklGRrADAABXRUJQVlA4IKQDAACQEQCdASoyADIAPm0ylEckIyIhJgsQgA2JZgDFC/JPsBVjCPJuSfQJ6ANtbzw2mjfrN7FfSvfs/+2/tAUhD8VcgX7CrgwiU9VfQD6W9BvBV/3PqT6O3pb2Bek96HJS0SYULg4oXXBAciuWJ04U6rQd1HpIT6Fnsjkd/eNEusSK+H5u9N8/lVJ1uTyZfZYkjdAIaeGo3AD++wjPC2YIH6WA5hGiMvw1kKqO7T1s4bJjo7m8mv/+Ijbf/iFn/8Qs/xCz/+PuX/HEb84NnHFSg4bjpq+pRPU6XZ4YPy33pxFUrGABRzhnXxmjsx6J/87/2HF+rADGGFBbU8IqyUoulPYb1eL3acVeGqB3JJPUyt2n8oZPRwquYzUyZGBgxIr9o8GmZqfAPgW1e+jfQPPPyP4XglqtTvvEslt2We3xMAi/n00lgT4FViaHhVNSn0ciTEcm9CWgfLquPF2SR01Z9qIDvf25bnY40q9swEV7A1hZm8VWJ9WZmQt00bvEhe5TYSHH+u/V+nmJQ3Bzrv1fS4/ic7A9KF14rkz76/3g8TfvBbo3QR/jx8nyix+CUhsKLXNwk1fZYm5cSCJO2GO5XAeYRcxp3Toi0htFQag2VeT37rbO/JR4BlPp+ylcjwZadVOZxQf5zNEoWlrAGdUhi0UltTUrzW/6b1Cf/EFrS5N8jNUfhT++f/6aC7f818Ofc98YtP/mM+TckozU3eS18497N9DqCpTWnPsx1hWpYRu+KutS5a7cP0fzDvzhEYFESbPKP+txIyiY0WZjwHGjBrNYILJkFlMqpTDepftEMCtr09aKZ8xJJtXtS3cl42CA/Nid9oSfugr619bzpHL9JtvcBCIkN6NZqlJVUCAiUyrL3P8/RqSuddM/x/N+/yip3msPt5i3WakwTCO/uTfVNVcQI9Qqt47r05FTauVyO9qhj+0ytN1ItNn717MT595BDr5kk85De6LvDi736OB27DiYB1sfkhWV7PyJ63+TjsYyQ1kem/A4BJbnGxn2CysSrCaUQz19eRvVA/Q7h7d+7CafIA9viK3E+sHxy25Wh3fxY+rBe6pDDPAXvtUOAAz9aUnHL5ykxeqsd6zFwDP1eAxXDOZQOLVYdLzIi86DvHoFnax0DnIH9Ni08YupQroKTRxpZPlZ/BygtJSHzZA9NJnxCXuGcUf4gR2YoN49AvLElxXEYQmJu8t8SkS2LAwE3+4PNfJ+becngRm7FNAAKHu7fwAAAA==;base64,
 ---
 
 ## NEM: What is it?

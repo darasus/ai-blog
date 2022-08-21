@@ -22,8 +22,8 @@ intro: >-
   make eating well a piece of cake. Leftovers are one of those ways! 
 
   A meal made from scratch is an excellent way to ensure that you’re staying on track with your New Year’s resolutions. However, cooking every night is not realistic for most people. That doesn’t mean you can’t enjoy home-cooked meals without going through all the stressors of making them yourself – leftover cooking is your solution!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-make-healthy-eating-easier-with-leftovers.png
+imageSrcBase64: data:UklGRngEAABXRUJQVlA4IGwEAADQFQCdASoyADIAPm0ylEckIyIhKhZqMIANiWwAuzQ+SZfARID7Zs4Ayzv0APK+/YD4I/2zrsfhD4JfNXtHoCfP98l/Rs9F/i8dz/l9In/wf5ec3pGx/j/uA+Kz+8/vv5K+3r6Z/6nuD/yX+mf67+3dp/9o/Yw/WMuVpNmpxhgZNiYKwl/y9wP3ME6jsXuI/cL9RNlKiGNQt2Zv4o7tizDi6x3B9jzvop2LI++hdxglu3cK/3McZ4AA9seY3m9aqwK/uFXTCG5kTMgNcPsDeGuOX3/grp/d0Lz+ExYj5uNQmbCWH8ImJf4X9aauqGPjfva5+C8ZdNxmYXBsvYp0GvG+7SzM/xvkFYfVN+f8yTyinTb1btPKZIpdSY2GWBTgmGteOhvPP21+xtZHu7v5yyr5y+noyuiB+gRlGs5C/AqjCd7l9u9TEpeqWZCztvSf9ShHaQ97+J1Ywfm+oHdrjn/ET4lOf1FTjN28Bj+wf9ncMf3fyrq7NwCHYCNVKgUf8l4s0spbDvgNDq/5K4Ql7w1tdmj8XoKFQZ/J9fZ//LM46Cjyzgnkap2//3I3WF2LyaWhsgxgdzlOGyjOtlFggKSXCrx/n0rDyZEdja79j5xc/4qha3YHrYlsqDQVNXdpxVSU9deiwcsku3BG2PfEylI76ykbbd3iRSf5xI9Z3BaujDdJC6/+N9BU7d1m/HsEMkfrrO/RU6yY/VpObuZx82sBB4GSgFMugmvhX5zPpjPN+eLfCodsh11cfm4ZouRl9OU09dvHqn+KO10wPy8Zt8NpP3KKg3CnftfpiWyvuVNjghXa7Searg/11XnNrlvuHkv2jiCZNkvyxpbaA/dfjIKc1iwga1KLNvaGAq3bneu+osSBRbtuJTfv10PVu9Sct1X4c8RY/bWxWlfEIwgiY2b8wWeZ2fEBOMx/hAPFG1v+2u7vZ7NLSP/5rnIZfw6x9MyPjEeYt6NHKfQ95iU7viNtJWpUBz8hzZO4kOBlYdiDDwzS8n24/P3H7qMhJtDGmwOJTLcbs9RBBTAD/TXabGi9vbEcKgLq6csGiAp5Sok0ZeuVyxFpcMOq39A2WF8TW5yx1KwuwFlrhDoZxYPMtBAE/nP8c+GODb4UUpsxYAU9ndIuUNfvTEQEz/2pz63tGO+ws/cCP2i/EaBnI07Ilo0FV9dw/LoW9wC4E/gnVgbPJhY8Xn7zBJZEdaAJvbR4Lbkkpr+2Ahi5fj0bx6THU3ryU/i0fKTHNshovJLoxT16L9kc/qDshCpcyZag85cT8YtIEvYWT7zcUtJ0XrtxWAmXXPuAsz+Z3T/Y3+JUV9wXoKH4fTFsGOdP9hm/t5MxUs/8e2mthAEweKCNl+P92uEyT8PE91HYgX+5RBjGRKrOf5TsbDa2M0GM363w5Gc0yhwkUtz96KXyjNptmsNf3eqVbp5llfkcqqBFTV/GKZdAPmzMs0a9dHBtnNqfGBPECYeAEpeFpfTgZES3rZR5TWsd1xaE0sS4X0ztagAA;base64,
 ---
 
 ## Why should you care about leftovers?

@@ -22,8 +22,8 @@ intro: >-
   Almost everyone has heard about blockchain technology thanks to its usage in cryptocurrencies like Bitcoin . But what exactly is blockchain technology? A blockchain is a digital ledger that allows users to make secure transactions without the need for a third party or intermediary such as a bank or broker. 
 
   Let’s take a look at some examples of how you can use blockchain technology for development either now or in the future.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-benefits-of-blockchain-technology-for-developers.png
+imageSrcBase64: data:UklGRjwEAABXRUJQVlA4IDAEAAAQFgCdASoyADIAPm0qkEWkIiGY+45IQAbEtgBA1hTPOfxu9kWxP4D8JcNGcj8bwv/3D0q87H+wHuZ8wH7XetZphvoAeW77Pvn43WR+An3bI706aAFxT+ocQH1g5WbwkvnP+u8+voW55nqj2Cujx6HJhS3T6fATqsD6oTI4i8uybnVed0fK3SlCg0NTShMp7rTSac4d5M5XPlqfIs8R3Db+shWasYx8lJB8c+mtXuUls7J8qTH+Vp1zYAD+ELNtFDm/kHzbc+HrE4x+OpUz+f4h8GKWO0gWHbQ+Emoys6iH7FzHzKE4DW2KfjKoYLiMMdszGHLA8e+hZjcdgm2///tjnWNibdSTXIwv//50VhEItu7PGLQ0Piup+93qpw2mKGX3GSEJiqbwvf/d3XEdBXBO2C5KTPzzjaUd95n/Lrw5uL8UovsX32fTrJJ/Xk33uvYl6//8UIvam+eGXYvJfFyZ5w3O47b+OGl0hIw8H5bdeMpiP5tFkdxoFonTNfB8Exe+3MAyS178ZrR48S70F6P6Hmiepge+506+oIWvY5ofvIc7Uf/D3/eZfWDWj9lgd9w8s2LYdRPhUZ8ceW2stmmcwcVvC2OVqcslIp1Lq4Iyal0rXH8UxdTWdMSy0jvI27W9z3ZZrSndpeiaW5OMNvcRwvHT15eE52dkQ8y72qtXQ/PMKyYN0rTlrlHm+GWc8FAsdUV3v9Us5eruxTgRf+BL8b8J7p9gJyOIwbcNEfOHpET76blqWi6fObd37vNWbfPcEJw/l7gHS4PonnqY8wcKcW3vAtj3RUX1G/LF0LANnuBvpOb598/9ejduFndR6ICNhA1ZJS3WTsYbvWVG4DM+MwTDp54AnnMkV5Q+HcjopPsP2H7Pn7n7hd7adK18XHfloANVhdFv2YwSznpfx+BpWR8CUtexfy/mfyOZx/iTcMiPrm4PZkT/PBO3/Bv+kJ5HDTGKO1fBBh5Ij1Zkbce215y2YQkrK/G0KOVNfQqXxgzzNvEbrxmesD4wUY1hxcY/eNu8uYYGU0o8+nPEVrfHwtae+3/UAdCsvDsXbvcBaCkogtGnQRVVbxf9rjNVEN6UTuxhWejmJ8+PIRGbH7gYWs7Pp/BkRN6FoRpHAf7uNIQvkks/n3M15xLQ4E5x2ONCxxUxlp2Gqn/vx9WhfnuXJy0Js78xBYvZuEt1kTz9+F+HENJl5e9dP1qe+El0Kpqc9j+qz8zKx+YpQLLPc4ikvvZSD8BdcadiNvC37VJkzs4ntAPv1e81bPh4LbyTyoItSXB9wsP2AAk2/AF67YTkNvroXROzVfCRsAEljaR/32EKOx/8zcHk2IG7uPW1kkWxYJH1Jcic3GEAdjszT+akjTiMI7/0Bz7KJgE1c89OJJtp1cPn/pHmB2fWsCsO6xeZ3B8nTYBC5tx0uE+mAAAA;base64,
 ---
 
 ## Smart Contracts

@@ -20,8 +20,8 @@ intro: >-
   potential applications. 
 
   However, with any new technology there are risks as well as rewards. The risks of blockchain technology for your business are numerous, but by being aware of them you can ensure that you mitigate any potential downsides and take full advantage of the benefits it offers. Let’s take a look at some cautionary advice regarding implementing blockchain in your company.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-risks-of-blockchain-technology-for-business.png
+imageSrcBase64: data:UklGRkoDAABXRUJQVlA4ID4DAADwEwCdASoyADIAPm0wk0ckIqGhJhqtiIANiWkAE9c1dXuv445NT8B+UHox/Td8K/jX9h/JvgCeG/xb/BfbZ5Kvet/wHoe/4DjBuwPYA/lH9G/0H3R/Rl++f937gPZH82/8j+2fAD/Iv6R/v+vp+w/sUfqkcb9+i6ZzJ0cwMxGypuClQpsTt+HA3ElHb47WnwGrA1AainJeVdhNWJWZtJvKgdrVHqw95wAA/v7/SjSx6rxd9q9PAHn3P82IPClamqmtE6sf5u7CDX8C1jBQMBJJzWRG10iDRjv4WJdzeKctCCFd8V/SSc9Fra0OjWvM1nUPTmpd7g897IHsHaiN+zaGQ0tqvrOrS7H/K8v8SRv/RkJSh3ndTzVcVbPNwu4MClKXo/qZLuGtYb8zAOxTyjl7KA8OODxEVvEI/ujqYSCjMuoePN4ubX0GWicpN5VU7ftswPFyh/EDbHyHR5p40B8ShQwKLIQS1wPX8OWfJDfzX219nf1JAtYNi6nJs6F6hY4XSAT3Thkb+KG0od+JUjB5qeqQFzVSdZFSWA68GwW7NvVpsN19tDjbiBIbWRQi1/vSBybxL7NpcIsUsSJp3iE25q2Ej8UuI+lDw9+JypJY2KmtSPSvCcHHLBZZ6lBRUN49vokET24AnEaN1qXMSCKrY7EZyZEZadutOYhpx9ToGpZf+zpa2Sgk4kgr54mRt1bJKP3JKFxY+pg1Mi64X3RueW8LNANuWz//ugJbF4rE+f66qpqRjsE5YPqN454MSHLQmwAJij1KfFEZzQz9ihlFgSToApNsriJgjsIDsvC58QEhU2E//cWF8NHatl5HaOZx/uAI1ADwtXAqos8UlnaiyERwa9I//racyj8xChl2zU3bq7jNUk309aEl7L6vBpyyLYve71pmX7pySZCl04jiio9xKt8ob06N9iH58JbIaoff8Wyd9AwMYbwQj6VVOnGnegiZLmMLWODcKI8lJvIZwcfG4c/OMoci9itNfVBdAe4xsG/bZ6JXjSQu3iJa6Yj2+fb82WGowDjTsS3BOD+XyESae/fT/sd7YINnUyE4Y3MeO0+gW8sX0V/eLN5k/ewRL8tJz6cAMgsiYAAAAA==;base64,
 ---
 
 ## Blockchain is still in its infancy

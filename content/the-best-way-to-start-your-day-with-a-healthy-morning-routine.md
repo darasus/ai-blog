@@ -18,8 +18,8 @@ intro: >-
   make or break your day from start to finish. 
 
   With so many different morning routines out there, it can be difficult to know which one is right for you. There are those that are super long and involved, and others that are much shorter and simpler. Whether you’re looking for something simple or something a little more intense, we’ve got you covered with this ultimate guide on how to start your day with a healthy routine.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-best-way-to-start-your-day-with-a-healthy-morning-routine.png
+imageSrcBase64: data:UklGRioEAABXRUJQVlA4IB4EAADQFQCdASoyADIAPm0ylUakIyIhKhM66IANiWoAtvrLws7K/Yx57yVFmX1nA76FNtD4pv6ze+Fuv3/O9kf9o/YA/QD1t/+1+wHxP/62gfbR3tJdLAdCxZ+W/6PjA+qvQJ4UfxP/H+cD/h+mto7elvYP/Vj0bvXZ+xhmCjHyE2xSQHDQn4auW23Xwxzvz07OXTtm+EZhPfBJoP93FJ3Cdx87ZcDVpxpFfj5JQpXff/dxH6rNAw17MJwA/vPiHs92Nx/wUOJKUu0GYWHSOo0sdPf6lRVlGbKzVukwuL9jtXP/zFotJCFwFXJY2mpOfDSz/v/xmi08PvAoAzZgZG//yRMir4/KP8m738WCs0aB//7/p19YjHj6NpDRMJQR+sC7hBhy1QjYKB1MV0RdP8Unocy4wvaxmf2EH9As5uT38TOf31SCI1r/f1/qKLCwisKRgba5t1OdlMcppWuiXcsI9LP8zE6jMSpqRgYovKKgwco/n0isx4jv8NfJz7enqnEgrA/mZ/uCD1v1tjQtdRVE+Irvt8tCXnsd6pI/dDDI1jqvgvedJucue9OB9/NpbzYAVVv3tJOTGQ7hOkfJCQdLkHXFtIWyuw1mVqa06EEfZbykTrhx3WBng+/F97oQn21cl7hdXmFk1sKP+8An8Hoqu8K4bs75ik66xHk8+5eETB7SdAxIxDFhknLQcToH4quVb9ojVA8fhLJRs3BxT0xjz5Sn4C+dQSdMJuz/8JZceksLB4Ufb/gQjKgz5vzbtIhpNMUWb13OCCVeCLU4WKfhxTxUg+4W3LCUQpdZGOaimKtQ3o/8AmUuz/wmWobUmMOXwncM/eGU7xzTiMPDKx3de0wnhnQHYje6stQPLgGTflRd3V5hfgiwrj4OJ1L9gXyfC22dSwqN40DvnwOVoUruRTS9iF6zFPI/FOUH/z4TWlO1WAZXdt1eoiXVN+EeZT3abPvWW2moafWMYWK6v5p7He0K8YN8ojhi+c17r8fa3jWMSY5vw8i/jYF/E0ziGzhy9YgGeX9fiTSYKueLquoGvUaj8rKUYq+pJ6FULFS0nlB621hSb37388XZwF3sAjthE6v/It/nlOtgHuv4FvTnb1UXWKVDFZAYtKbqfA2azxq7jpFblokoAafsU0GS2SsH9osxgTtWIntdrcvT9tvPrt6CkH5fYift7M5uElx9gCi0V4sVuuW1XdD0mJp5xA6ZQZ7nALJP05IiQ/A88usrVJVCwJcGiNc+ktrfpkQS2hShY8tLOkevtZIYqWZSdztymNnsK9Q9LO1FMiVt3+rT6BGhsXWdfI25c+KRHORGpPx5Xmaolquw5HYPwFnH4ZBoLVrovh/XI6mcyYsDJllw2tI/oTdJ0nThSO07gA8ZlcN8iJZkSVklOcFDOBfxAAAA;base64,
 ---
 
 ## What is a Morning Routine?

@@ -23,8 +23,8 @@ intro: In today’s digital age, it’s hard not to be impressed by the potentia
   this in mind, if you are launching your own startup and want to incorporate
   the latest technological advancements into your business model, read on to
   understand how blockchain can help.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-blockchain-technology-can-help-your-startup.png
+imageSrcBase64: data:UklGRlADAABXRUJQVlA4IEQDAABQEACdASoyADIAPm0wlUYkIyIhLBqqaIANiWwAz5fthk+0/hn0ezv8AD7md8t5gP2R/Zn3h/Rx6AH7K9YZ6AHlveyT+3/7D+2AikXEV9OeVA8AbuDpQv5Hxa/RXsCeUZ7BzaR83f7w1SIIiqZIe+3duNDqwhIgRMamUsWMSPDgF2VxD5rmFAKdy6qAAP7tMcHJrHZkphqUL1DOR9DBcKG6aXqsmXSdAif0vmV0Ju9M6fSIIvlZuHNg//5j6EhBz9tpUIt//5o580c+O2K4+FXMf75o/qlecEtSftflH+/iL6sNfe+3xHW/zTySHW/NOuE8yDeuZJNkh2kcQpraI2bX/44xTNbTmpkCZHCo4Ibjvv4OFCa12ri7llAYpD3taF7t24aMuu56PRWZ0IXs4/YubszP5ep8Ey5/S/A1Iafpxu7qmG6jf5No9O/4giaWTqp1Od/K454Mtd0F6AYd4O0YH4VIDYUCPDHHZI6Ka+c/oWOD+i1NM1Zzlc6Oy5d63Kq6x7zvzC1W3iKllQLMm/jSjlatmKBeToFqxB5i4baEOyGRwPO2+N+Q9z1u0cnyui6LqCcev1cBViANcnr+997BwwEvwTH/CayRLCp74q4dDvixwDbaxhF31W6DtuY94Wl6M5Ou40b/w9+xnZRYQ4KQ+xhBYd/WbCgF/N1Nv67y7xZIrro9fncyC/8S1x9bVn+wJYWvxedPldgXTqp/Dqqfz9SJhuw0xUeizmjNvBR8ITZd/kDOxW2yf+RQ2WJV557Mt5a4FWv/IMaEL5ln9dnC8LYggUPYr+svsDPGPgdCxzFr3vhxrOtNlRdkCfWudtycpW7/JqYAio3EpCIvT6iusyIPVYhmo74Odv3f6AV5b7YWDPD2QOMHEmLEeEPFW2aS2aPoABtbNu7Y9X2byZedxFJ0pIaRGtdKLBQHZd+1Mv1OwJpP086plvNiAj6hYvAmrYUT9y9OsUfXeRouA60utAGaiWLPnm2vA1Z1jeGWCI7Crl1N2NJMhq0yP6Fmh3tIhXMLpJ+pDzVw6w6WvnNxiDPT5tgH0nZt06DX+cTGDWJ+kw7u2bQ5ARaV+l3Y+PiljTgiV0EwWJNcXEOiV5unT2AAAA==;base64,
 ---
 
 ## What is blockchain?

@@ -19,8 +19,8 @@ intro: It’s the perfect way to be active without having to think too much abou
   well-being in the long run, there are plenty of ways to make walking more
   accessible and enjoyable for you. Here are some tips on how you can get
   started on that walking routine and keep it going...
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-health-benefits-of-walking-and-how-to-get-started.png
+imageSrcBase64: data:UklGRuYDAABXRUJQVlA4INoDAACQEwCdASoyADIAPm0okkWkIiGY+45IQAbEtgBYksD8AOrW092T8RvZetj96/AHK2H766cEnRU+YD9XPV76HL+zdar6AHlp/tV8GH95/53pLNG0b/LK0x7OO8qLnzJEXv6vyJ84s0JsZxyq086uEC5PdoyGCN3DT0boq1Psb73zNgmcAxsKnsnVQkkHywHmW8t9j5KKRSv3rPMEkdPB8iNAQA/873AA/vHOF0PKz/iAJquGx4d4NayQZGY/ZziUruRuLMWGFhVh3ie8B+cWdXCBp45F05nVR4QzvP2/h9+LYKnSngCXVmDhYHp6w7tSK8D1mjvTtZ3uqa1Aly9TZ5wIJezdZ6vOyL2NebKNWAJ6aZbiYBxiAzoaBTLMnfN1K1PglcpxcxuakxADigsrX0T2QFY3IGL9unqjZMwT2YH/pcT9txPhnWJXLAgjPhfMwmf7I8K5ChvEugTCobg2nCDB3H3EKiJIQXj8FLrr0VZyLImRsOBEWy7ZTRvCDuuHIU3jTeQIi0ewsA2M7qfDBmJcICFPruY0W+XoMRjlv8VgIf+Qr6YfbF3/j9yGgfZEEWgml+DC7XPjDeHT5qT0XX6Kv92ezTk4DJ9zJlLf6ibsR+cjmr/I0/jE2n42pxAQI/iv48Cx0knd79xeqB3Lldfe87s5qShVRF0lRl1me7B7ZT67YNKAX2unPqL/dcybLnAbN3D/87dhoPf4NlMdD83YEhNxGsCDWV9mBlp8DuFOBPmT7gIwFU/1tvN1pD1GisNqV18sY9ah8JqHkfDZdH8mSM62vU6z7XFIZij2xvjr+cYGc1z+T1lQN+vg81HTss00NTVVT/RpXsuYznKOoqY+eHpg1xGUexEHhFwRP68UGrTdYGdJHMZJFOHuOcVTK24Y3o/ZkNGdDBX6CQ8a7D0HHiREEIsv3cjO1VYxHUFM/lxccGqx3zIBkLjEUc4L/l81VU4FhMKSC3nBkyYkUhNljX7Qn0XBrEfp/WWDas8oOEpm2WbxFqfhonIbKukXCQos0AnxVlz0//VYNBb7oWo6D7G6Zcp/gg4uUulEl7BJRX+U34ZuHyS5bufyRN5sWw7nz2b1YGAQ0li5iDypdVD/BSMuLk0PUMb31tqYqG0ZprAVNQjGwHo1+T+0bV9ttcs1IHu0RtUAALD9fOFjJosSrULKOgf8k/7A/u9bmSDMO14LkhnqZgRVe2AsiiKJoS6JU6+SQIC95fXDMK7GlpjEua8pJJWqRux6xBHqWdPmm+gEHCF+WvTfmcg17nZRD1LyBDoqRFO838mAwfv21+tND8HXbho22AAAAA==;base64,
 ---
 
 ## Make the most of your commute.

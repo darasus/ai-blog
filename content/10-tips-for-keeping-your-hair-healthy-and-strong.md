@@ -18,8 +18,8 @@ intro: >-
   tips you can make things much easier on your locks long term.
 
   Learn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/10-tips-for-keeping-your-hair-healthy-and-strong.png
+imageSrcBase64: data:UklGRq4DAABXRUJQVlA4IKIDAAAwEgCdASoyADIAPm0wkkYkIyGhLhkqqIANiWwAwRXA136d/h+Tz+M6LgD9AHMo/wH7He5v9gPUZ+yX7Ae9z6Hd4d9ADyzPZQ/xnnAXcr9L6H7JFkgOuiI8qRnj+nSITQmCVRSyYbKTaA1ve4XupEpTHdKTDVENP1FwPkgoKtG6DGjHgKpz395N3nvJd3FNPd9Xn3RBzmR7TLoAAP73dLHmmiuxHIloEeR+Gmax98VpJIUcat27QiVkZ7MiA6+ieOuLv2szdQijNNTx5E+MXiQodvA1NNwnXf17P/c9UzH69EP1S5fLNQI7M+IuC/b1TVzC2y99yGsQE3oP/dok1l62129D4Nl94vwpuMgA/eiDP6JUJ7DbV0BtO3rp3zj/byIRLG3tDwv3ePn1PF64UpAxTuaif4DAzPtVgDfW6a0ge/4FN2pCcCi5uOYn4Gpkqv8E8Qj74giZTd+oTSXlcwz2eSdREr1AOr8EFVhMxvUEa5BA4RIHzbo7vfB+SjaQql9K8OdJdApZW71dBS21ENqQGfFVR/XoZxAbmkjCiiWpN92soBlsRNCAcztikaM7AAVTWALd3s5HMUjpB4LSfxnTxV8Z6Nh6QpvdVXNokMJIwEuH88CuiidR5f4PjiyawvasDDwPYJ7XIfvdl7Hz9GIEoY07T+QvrF0W9e8Z/R+ltZl0ZeDRQyQ0JncrT6Y6nZW7pQCn/qiLfJ+7NxTDJFVovLbqWjwdpTV9BZhP5RiLzy6JmYEynoSk0wZlP52W2XXUFqKDp2KecH+RMPVnppVHqae37cboOB8tfnnkF03TVWzn7BEaj09pIlK1j/iJvO8DGX8TAABkCB0zxS0mjBjRHqzl9vMtwYIF1sFs8NSumU61iCAXj6jTjDA9tYLSJ1L0wg69swNquIESZ3ENs9OfLrn307QLgDnbuLMBN0cgx1fZuQ9zUdt2Lv35JbLabadb7WG47CG1X2B3HiFpAraouS46NEvWTsRta/fVNlefSEWQxmEJRomfPZbren3lLDcIukhMrxwJL8qqRvC4YThiRTbbX5lsaAUQS/A2tj/KcND3pGWNj2S5qGdcz6xctzIFlI35eZX5EfR6dos3eN4bqiIq6RQDQSlgucLYENL0kW55P5AeXWNfJP6gg4suxlT66qWLy7RdEtdlYYfU6YJ5kZ6NtW7hs0sH4KnS+8dmW4iPzGkgcCEhHKTD0e3z3sPBAlT1SPfrJSaYIB6ngSAAAAA=;base64,
 ---
 
 ## Basically, don't over-wash

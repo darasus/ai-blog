@@ -19,8 +19,8 @@ intro: >-
   Unsurprisingly, research shows that when you’re tired at work it has a negative effect on your efficiency and performance. It also makes you more prone to making mistakes and forgetting things. 
 
   Fortunately, there are ways to help manage these struggles and get through your work day when you’re tired. Here are some helpful tips that can make all the difference:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/how-to-get-through-the-work-day-when-youre-tired.png
+imageSrcBase64: data:UklGRtQDAABXRUJQVlA4IMgDAACwEQCdASoyADIAPm0ulEakIqIhLhbZyIANiWwAtRsEy1SXq2/kMXTgkbcDzG/q5+x3vR+gDogPVg3mD/AedJd7X4au2mjP9E/0m8r1tiObzjs8f0D7Av8o/rm+iEua1AqmjOQdtSmnNVoPvbfTVWh5tlqLE4egYqPoEvhnGXTyvTjWn1Krao4Qgn7q1z6HUi0u0Qd272AA/vpfJC4e+kevmyScdbPfs7XrMX2f+rcOvfk+tfyonSb2xNa7mgLrOjjhVX1c5Nr/WgeGOey+37kul81xqmD/+9h5RyMZ/7mipNVa3P/eZLz5rOGXn//CSP1NPyWiRthNa/HAyGQ7Rh//mGPOfwIG/gS02INWHNN+7Ws5Tnj20JxCEEkKozND80YeekqqULLxF+dY7fGqKyV8koG2ZjlpQ8c3i6M60W/b/n0/MtVOv2kTOcfLRjFkTOKU/9aQACY1Vqq315Apa4WS0mvxYf+k+EpyLCRQz0reDlDzckkvfPcbr3lZs30b4ge3sIyjwAN64oJTq4XQkQ93xOaA/Ws4yfQiLLL3K3ahoTnnkzDJZC8Z/q2iW3FTWDWOIfScekHKZszlREWEgJtagRmls0Knx6oeAI6Yo0YPgm6wOL4oL8iQCI0L3eR/vz0ssT7eT9W08bR8hbskSQDThAlyDhqkcC3L4KaYNgxl9Zwvz2sdp2Kk71DU16//jb7nroxPCMi4b35Rq36lXzrONIruVxejUWTu+MZFOzw8H+Uie/s7rDju8iySFpfr8RT30qwcVjXUivSkCcS7BOuX+IDacKGxQA/bf/w0FpX5AMW6TqKdmKpm5egzULdoJFG/hvUxUDBQAHeA4g025Z0iyKdHB2xteP/4z3/i6p1zZ87gG6xizvWF6ZojwxtmL80gvzjV8I5ORKsMxtWMFmYWi+EqRKonJB6/YHqohSZ4sOa34GW/6cQhp7UTv+jP1ktohUlWggVNlqZxfk9/GHoz5JSNLTT+0fP8MEy1OSJqA70VznZnCf4d2qlUOX4Qpv2ycPKx0xJ8K04sslZTgdvdHJuvnJbn7CvhLhzb4VX8arEU4du1KsB4GeuK8M45JVJTmb3D54xv/xtVcufAwfX+/iHiiX5kqpZpthBe8oUHrvDgY2kbJF53zOzdeRZZNKvS7rA7ITaWcqNcNxJiGE9T45eNwPSyqKXXgZhxzLY+tk0rSNblgvA6Q5EXXRRo1URby+jmLbt+/D4p9bjz6K9YLJ90urStADkgt+jPIqM9T0Dlbux64T/N3npdL2bYwdtG7F5gAAAAAA==;base64,
 ---
 
 ## Make your mornings count
