@@ -5,13 +5,40 @@ interface Props {
   title: string;
   description: string;
   imageSrc?: string;
+  structured?: {
+    datePublished: string;
+    dateModified: string;
+    image?: string[];
+  };
 }
 
-export const Meta: React.FC<Props> = ({ title, description, imageSrc }) => {
+export const Meta: React.FC<Props> = ({
+  title,
+  description,
+  imageSrc,
+  structured,
+}) => {
   const actualTitle = `${title} | The AI Paper`;
   const imgSrc = imageSrc
     ? `https://www.theaipaper.com${imageSrc}`
     : `https://www.theaipaper.com/thumbnail.png`;
+  const structuredData = structured
+    ? {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        headline: actualTitle,
+        image: structured.image,
+        datePublished: structured.datePublished,
+        dateModified: structured.dateModified,
+        author: [
+          {
+            "@type": "Organization",
+            name: "The AI Paper",
+            url: "https://www.theaipaper.com/",
+          },
+        ],
+      }
+    : null;
   return (
     <Head>
       <title>{actualTitle}</title>
@@ -29,6 +56,13 @@ export const Meta: React.FC<Props> = ({ title, description, imageSrc }) => {
       <meta property="twitter:title" content={actualTitle} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={imgSrc} />
+
+      {structuredData && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
+      )}
     </Head>
   );
 };

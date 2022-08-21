@@ -22,6 +22,13 @@ export default function Home({ post, posts }: Props) {
           title={title}
           description={`${summary.slice(0, 157).trim()}...`}
           imageSrc={post.imageSrc}
+          structured={{
+            ...(post.imageSrc
+              ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
+              : {}),
+            datePublished: post.createdAt,
+            dateModified: post.updatedAt,
+          }}
         />
         <Post post={post} />
       </div>
