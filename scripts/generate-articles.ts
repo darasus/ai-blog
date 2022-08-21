@@ -2,6 +2,7 @@ import * as dotenv from "dotenv";
 
 dotenv.config();
 
+import ora from "ora";
 import slugify from "slugify";
 import path from "node:path";
 import fs from "node:fs";
@@ -18,19 +19,18 @@ import { Dalle } from "./lib/dalle";
 const postsDir = path.join(__dirname, "../content");
 const imagesDir = path.join(__dirname, "../public/articles");
 
+const spinner = ora("Start generating articles...").start();
+
 async function main() {
-  console.log("Generating articles...");
   const ai = new Writesonic();
   const titlesAndCategories = getArticleData();
   const promises = [];
 
   for (const [i, { title, category }] of titlesAndCategories.entries()) {
     const promise = async () => {
-      console.log(
-        `Generating article titled: ${title} (${i + 1}/${
-          titlesAndCategories.length
-        })`
-      );
+      spinner.text = `Generating article titled(${i + 1}/${
+        titlesAndCategories.length
+      }): ${title}`;
       let post: Partial<MDXPost> = {};
       const basename = slugify(title, { strict: true, lower: true });
       // existing content
@@ -108,7 +108,7 @@ async function main() {
 
   await allConcurrent(1, promises);
 
-  console.log(`Done generating ${titlesAndCategories.length} articles!`);
+  spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
   process.exit(0);
 }
 
