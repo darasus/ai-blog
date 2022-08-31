@@ -1,9 +1,9 @@
-import capitalize from "capitalize";
 import clsx from "clsx";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types/Post";
+import { capitalize } from "../../utils/capitalize";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
@@ -44,7 +44,7 @@ export const PostExcerpt: React.FC<Props> = ({ post }) => {
           "sm:col-span-12": !imageSrc,
         })}
       >
-        <PostMeta items={[createdAt, capitalize.words(category)]} />
+        <PostMeta items={[createdAt, capitalize(category)]} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <div className="px-1">
           <MDXRemote {...intro} />

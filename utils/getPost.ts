@@ -1,9 +1,9 @@
 import fs from "fs";
 import matter from "gray-matter";
-import capitalize from "capitalize";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
 import { TPost } from "../types/Post";
+import { capitalize } from "./capitalize";
 import { POSTS_PATH } from "./paths";
 
 export const getPost = async (filePath: string): Promise<TPost | null> => {
@@ -25,7 +25,7 @@ export const getPost = async (filePath: string): Promise<TPost | null> => {
 
   return {
     content: mdxContent,
-    title: capitalize.words(data.title),
+    title: capitalize(data.title),
     createdAt: data.createdAt.toDateString(),
     updatedAt: data.updatedAt.toDateString(),
     category: data.category,

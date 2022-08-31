@@ -13,7 +13,6 @@
   "dependencies": {
     "axios": "^0.27.2",
     "axios-retry": "^3.3.1",
-    "capitalize": "^2.0.4",
     "clsx": "^1.2.1",
     "dotenv": "^16.0.1",
     "esno": "^0.16.3",
@@ -30,15 +29,16 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "slugify": "^1.6.5",
+    "title": "^3.5.3",
     "yaml": "^2.1.1"
   },
   "devDependencies": {
-    "@types/capitalize": "^2.0.0",
     "@types/node": "18.0.0",
     "@types/ramda": "^0.28.14",
     "@types/react": "18.0.14",
     "@types/react-dom": "18.0.5",
     "@types/sharp": "^0.30.5",
+    "@types/title": "^3.4.1",
     "autoprefixer": "^10.4.7",
     "eslint": "8.19.0",
     "eslint-config-next": "12.2.0",

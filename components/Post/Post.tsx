@@ -1,8 +1,8 @@
-import capitalize from "capitalize";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types/Post";
+import { capitalize } from "../../utils/capitalize";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
@@ -38,7 +38,7 @@ export const Post: React.FC<Props> = ({ post }) => {
           />
         </div>
       )}
-      <PostMeta items={[createdAt, capitalize.words(category)]} />
+      <PostMeta items={[createdAt, capitalize(category)]} />
       <PostTitle>{title}</PostTitle>
       <div className="border-l-4 pl-4 my-4 text-2xl text-gray-500">
         <span className="font-bold">{`TL;DR: `}</span>
