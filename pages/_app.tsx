@@ -1,6 +1,6 @@
 import "../styles/globals.css";
 import type { AppProps } from "next/app";
-import Layout from "../components/Layout";
+import * as Layouts from "../components/Layout";
 import Head from "next/head";
 import * as Fathom from "fathom-client";
 import { useRouter } from "next/router";
@@ -8,6 +8,8 @@ import { useEffect } from "react";
 
 function MyApp({ Component, pageProps }: AppProps) {
   const router = useRouter();
+  const Layout =
+    router.asPath === "/" ? Layouts.HomeLayout : Layouts.PageLayout;
 
   useEffect(() => {
     Fathom.load("UYYOEIHH", {
