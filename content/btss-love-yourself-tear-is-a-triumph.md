@@ -20,8 +20,8 @@ intro: >-
   Furthermore, it’s the strongest of the bunch.
 
   It’s impossible to talk about BTS without mentioning their massive following beyond Korea: Vivid, obsessive ARMYs (as they call them) who follow their every move and buy everything associated with them. This is why many people assume they are only famous because of social media and pandering ads (which is true). However, anyone who listens to their music will tell you that they deserve all this success. “Love Yourself: Tear” proves it once again.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/btss-love-yourself-tear-is-a-triumph.png
+imageSrcBase64: data:UklGRsgDAABXRUJQVlA4ILwDAACQEgCdASoyADIAPm0skUWkIqGYCwZ8QAbEoAvNfcoM7tm9ADpfJjM90yAP9Vwp7Wtuaal8k7/KeGxGd/yPtm+UXPR9Q+wd0mUvcSk0EaTWp6YWd7oj401pHtBaOvMo7tdzYAusdPB4VELsWONCDxbz2tYBQsnMlVXXXReMeMot6cXEQqp9BHT1312y4jQmlMrLbF8yWQCLlNTBIewAAP7DkesQIsOYKnsNBYiy1MCpWf80IiXT2rZzcr8f/maP+W//AW6nVPk1o6PfVBf3kX9T8YUm67vVZ1Lx0njalkrFQ/Ht7HS77+s2LmatkpZdxD21I6Ow7rHDY0c5/b+f5PKF+PkTQOb6fcXE4wIyKIQWpMGddxn7ZJ+HJ13GVRNfA2AR2+nsZeYYsHsOxnYHGUfbnFJuZz0hGkw0kHxI8/slKg6xntOp2+EIcyd+m+ONX0RCZMAgxWO959xugr+XvGt00CLd2obgNNewv761gfX9XORbgy64PNBPxSw4i07KLDQHSFdpofOgwgZAlU+cLoM2tVgBnlkdMBicxdvBSSfqmF4TGrwtJnMo947KS+6rl7xfP6DjaounZG/GDfnNZe1dyvKdpjw1RguO/AOMNSpxZ92idPd+R8u9KF4FS1EVCRZ2g7ggZ6hTZYoY+ONvOqPKJxdiPpXAHBbzZWhFKajj/v+5H1vWZWO9fF7ha35GxZ3Mea/RQPiYOv+UP//u/yIeldkzXUCcBZOMDmlI88/x6fGlMCkSZDFxZSrMGIgrXcnursrG/8jtiQExmU/v20Uv1uW1ribcTVHaPsaR/j9meLHFkzDfAcb66Rr3D9BWW6InQfaK5TnfW77bkUmLgQpvC/l7G7dL6IcaHwvVa7Vj95NNqANtsCGZ+vcxcTYAgryttEd385L41z/7Kia5Sm6/DWm4uiepeH+R+Fq1w8x0i/Yot/ir2bXW16Uwj93CdnYL/d3AITWY8mmiPpd4/SIClyRiNENj+XGl6bF6iHTYxFdU0vRG/GUPDeuZjLZQ/YalVYhb4C3zqUxekwzXLJ1Iq6BtiNU4WOjwgEltRP86tbS66mpW/hjlqiycPtpzShR8/V1pXNuJZbGe9+T3xkGZpm5RZvjZyYTpbWs/dup+klK7zuC3KR/XBMMmmo8+n94FnntBMzh6GTVs1/PSMcVZAyh7kWg9h4p4yz3zlrEjeXZxBOjm4B8T8rpMH6VyXH+S7A9i7TYltfZI0O5oGnfx4DbT/CRXQtQaRZW+f+xSAK3z/2J4N4h63e2AAA==;base64,
 ---
 
 ## The Importance of ‘Tear’

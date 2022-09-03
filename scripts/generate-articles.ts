@@ -80,7 +80,7 @@ async function main() {
       } else {
         const dalle = new Dalle();
         const base64String = await dalle.generateImage(
-          `Intro image for article titled "${post.title}", pixel art`
+          `Intro image for article titled "${post.title}", digital art`
         );
         if (base64String) {
           fs.writeFileSync(

@@ -22,8 +22,8 @@ intro: >-
   And after a year-long hiatus following the release of these songs, HAIM announced via Instagram in June 2017 that they would finally be releasing their second studio album (and first extended play) later that year. 
 
   Luckily for us, they stuck to their word and released the nine-track EP on Sept. 14, just in time for our listening pleasure. Here are some of our favorite tracks from HAIM's 'Something To Tell You' Album:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/haims-something-to-tell-you-is-a-delightful-pop-album.png
+imageSrcBase64: data:UklGRhIDAABXRUJQVlA4IAYDAAAQDgCdASoyADIAPm0wk0akIyIhKhM9EIANiUAYbPQxyv8MIDdL/WAfJ/4LLH/cj87AjqyJGF/p/VCz4PUPAA9CsDRL9hEQK43v8DlkwvZgnrkX/wJ9eWpR6Zwaiu2qpBqu6x5eYud3dhkNHOKN1NtUoA1NU4IoJXtwAP76SJkxot7exekN/r13viOSbP/mkf6ZDqAFc5BJ9uAr5n31/t3u5ke+QVbNozpoOcrN8x1wRlFlOovgUqVAkPysE87uL6A/COzZ/7A5r9dijDvxapp6rotPz+bPrePgfbyMQB5gc2ERLUN1+8M8+wgbxf9AzeutSScfxgcv/jHFdBZXHsAup9vtJYEwMNCeSChX+r/vR077yRUSzoPQoYdErlgrcnSArYdyK9WPuAoRJbaOapDZ0qyVQJKvShW4EVdiDDGpBTJ0o5jWu/7K6y7cU5FHZTXXpTqsc/v3sJefxNlFhx33+K56lm8PP3bbNe22b2G3NooKZpe4HDMO4TtJ87tqmX6vG8ZzjVjnzn2ekp/lp5N6DCoaniBD6+D00MwXIHcBG6nSLVvOxX86eqKuhQJHu4w+Au+P35k/rUI+SG8WvHKJUsWdeYoRtFZKpOirxHgRLoe4G25CqFi+XYC5wKMM985sUAAEVwEZYCDOZwI/f/2Z+zKAx9HpUuAq9YYMcARGpEmINW4ofRGH5aSfTwAeJVTZv7OunbiPBbfIXNDNxJABbrUShd8ovXtorFfh+dAMWYbixmXAe9rNSwBZYqT5WygruWzABr9Kf9euXjvOzopV84zYZwUzVZuyOUVXRsIcFVSloFE11MyGmM9nnwJbuMzksCsdnuP0r1Rs8jkr9an1HiUlVN/kXtGF5EZa3pEKYJb6FOXYDoUySRiFiUXerb4orjuc+IoHw5qtxcZEU6gfkuVUBT0ReXwytiC3RhktXZPLjqY5manC7IlY9wBikSsfT0uXwVsT6yp4K2JxFnEIbY88yzyz/6DGCkdIIQYEpgqy4QNQkQXqgs/ED0HCIcD5tboAAAA=;base64,
 ---
 
 ## Something to Tell You

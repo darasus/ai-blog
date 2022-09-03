@@ -17,8 +17,8 @@ intro: >-
   bands in indie rock. 
 
   After their last album, Codes and Keys (2012), frontman Ben Gibbard announced that he was working on a solo project called The New Age. It was something he had been thinking about for some time but wasn’t sure when or if it would come to fruition. Fortunately, after meeting with producer Rich Costey (M83, Blond Redhead) who helped him record some demos, things fell into place. The album came out as a collaborative release between Ben Gibbard and Nathan Wiley under the name The Further Adventures of New Age. And three years later Death Cab For Cutie released Thank You For Today.
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/death-cab-for-cuties-thank-you-for-today-is-a-delight.png
+imageSrcBase64: data:UklGRuQDAABXRUJQVlA4INgDAACwEgCdASoyADIAPm0ulEekIiIhKhM66IANiWQAuzLtCxyQLK3Zw4UMDb4eJn6uGmX+gB0sH+EmDu0egq7dw1a1YGYv/W+VzRRijZ7XS28QasFfn50kEPbrnIaJ0gD3sj01ckIyFC2qqZjGkZz3vI643UR1ENyNJhpdMo8j7KjfbrOp6aKFdYvgBxIIEY3KpYgd9UWBLlY5FJvE0c2OAAD+9Zf1wZckTQdxft9cGpE6kAFX05WcyvQej2EvUf8o9mWumrwPh3ZmDj8G79KH8UWf8Hda7vYc8gsjl9/hLIObOmJ7+eATq9I73W0FORCnAsTgE1O8eHXkcg7wxQmuxqGTKZiGvvbmbcSq2wdLzOlrP1r2i9bUSxBDi+PtUrDKa6LGnEboB+FGu7UdAzQyh85rfqxXnu6ajzmUulY1FzJdIZALnB8u1T6H2nQ5fEpRlvydEWIrtzS/icpbjgXQBq867tJ6BHkhKO35z5jcN35fqFx3gEys3G9tMxbNhjRy+TuFLhQGn/yjaehCxk1vt0jjYRI2C8UI84HL981ktCHBRR/2fFGj9qyf7eoEP++n4fObNHlPJmzB4+ac5vnXGSXmyKUb/BnKxMjuW8FwogyK/2j0ri44VxSq/mvGn7hRWywNOUPf/Wog3Cejk8pztx5Z16BRU/Bs5YGgPW9H8eTVDGI5gmXMLZVo7T5sHJs1UA04hZUUb/TbyPp23UN96kvISXpWmXanZQ+x32nbqbc6TjUVK0zHrs/8U/6cC+gcu5LH8QK++sN8JkalDM9/JdxVcI5amPgwrh6PfFSK8/TwJCdVjyTggGb12ne9RECpOFszYNmZikZr00wK2f3xoRCm7ueR9PAbDtYb7alPWNdFqggSwsmxyrL8PTIqqTHt2cl/j/g1jTRnTFRsbAC9mjp31OQCLj5hvtS7/vlRDuoMxW1bn695TxhSFMa2ttLT0UHqIs37XvBg9XFaz8JQL3ERCBWWffRQepPNt/stNf/+0VCi9XwKvePY8/LNj4M0zy37X/jZiPsQZHW5eF0gFp7m9dtAJ2ZAX/DW59IGULpAtBzT92sNsLIZc9EQ35bi/DZhtZA78YmkeVj+TIWzEIfbR+c8uo1e/6dJENjPrvYqHqLe6CRDSEkGpgjmxMDGhdZYRAHvvudEGorcrQlj1GrCYI63bzfH5DfFcOlK+elfCNc4mWxJLQwvAJiaPHOtsM8a8ScaPdU+GYkuS9mv7eX5gc6vKW6uzBkvwK6gilvPO53IbCeEmLArCUpGjV1Em8jJrz/MF1tgy5qBXtgQhXr17+OeJAAAAAA=;base64,
 ---
 
 ## Track Review:

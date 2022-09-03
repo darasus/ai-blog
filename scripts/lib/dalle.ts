@@ -1,7 +1,35 @@
 import axios from "axios";
+// import axiosRetry from "axios-retry";
 import got from "got";
 import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
+
+// const client = axios.create({
+//   baseURL: "https://api.writesonic.com/v1/business/content",
+//   headers: {
+//     accept: "application/json",
+//     "X-API-KEY": "7bfde6b2-3a26-402b-9808-3f84640fadd4",
+//     "Content-Type": "application/json",
+//   },
+//   params: {
+//     end_user_id: "idarase@gmail.com",
+//     engine: "business",
+//     language: "en",
+//   },
+// });
+
+// axiosRetry(client, {
+//   retries: 3,
+//   retryCondition(error: any) {
+//     return error?.response?.status >= 500;
+//   },
+//   retryDelay: (retryCount) => {
+//     return retryCount * 1000;
+//   },
+//   onRetry(_, error: any) {
+//     console.warn(`Request failed, retrying...`);
+//   },
+// });
 
 export class Dalle {
   private bearerToken = process.env.DALLE_TOKEN;

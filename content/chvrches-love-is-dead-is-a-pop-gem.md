@@ -21,8 +21,8 @@ intro: >-
   death rather than dancing around in your bedroom to this record. 
 
   Chvrses has gained more popularity among a different group of fans by releasing this album than they ever did with their first two releases combined. This is partially because they have expanded their audience by collaborating on songs with Haim and Bleachers recently as well as making this change in sound so now they have crossover appeal to radio listeners too!
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/chvrches-love-is-dead-is-a-pop-gem.png
+imageSrcBase64: data:UklGRiACAABXRUJQVlA4IBQCAAAQDACdASoyADIAPm0ykUakIyGhLBVbMIANiWQAw23RW95dUiQ476AHSX/tl6QFHa/HarA3ALgwzle3uqAH/1E4q5e4t/CF1uX9notCuzebCnVvA3dTPYl2vK6Bn7mxlil13KkuA1IkH7QA/tyk+1a9kWIjtd9v+7J//dk//uyf9xhN9mTI1DdBxZ49ylKt80upHL7Xf/xxuiAFnBYqTOBxVL/kJJxx+JRZ5LypQy+XnvBHNIW4+JsPzdsqpfMyfjgaUflkzvC0JcdkXhGAzYXcQkub0+OVqD3qNUme1In++KQe9S0ZHXVZcNw57JsCNil+wzdQA+z01oHV/+S7c5E1vvT0UU+2bjMiW/uObWj8zndZiW3iPEz5E/J1yR60vrE4PVt3/WMAmKESPRVy9kfdVKHkJXZEoUoYc5Fcm9id4ZR7/U/Wf8lnD5cRN5R8jl39l39tN4N5moFutUS4e4UpENsIbTIhuQcndgR4d3/1p0B/6RnHpShoxfE2nfNfEE8GnvvYtkPNVMYPnPcgrrrclsTFYiKmd9cWo05kf6NGfwBsvwl3KkOwgJ4/a9/BDHdWu7+vLWv5uSyfi8Td0tkP86cnCOYHFqGa8+dgNHCgkSjJraTHY2I3oQwx1xlN1Lj2Coix6n7FPthX60salLteZjYQUaF4u4/pnuxyRAFEPtlT0KuZyjIUGF5Bb/ZtUMAAAAAA;base64,
 ---
 
 ## Track-by-track Review of “Love Is Dead”

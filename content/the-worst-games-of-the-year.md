@@ -20,8 +20,8 @@ intro: >-
   standard of quality. 
 
   These are the worst games of 2018, broken down by category and listed in no particular order. Some might have had good intentions or interesting concepts, but fell short in their execution. If you’re looking for something new to play this year, stay away from these titles as they won’t give you your money’s worth or much satisfaction beyond finishing them once (if that).
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-worst-games-of-the-year.png
+imageSrcBase64: data:UklGRnwDAABXRUJQVlA4IHADAACwEgCdASoyADIAPm0qk0ckIiGhKhmboIANiWMAuzQNiRkLW2VpgG9Af7ivPvqvg73hPF3snk8vuPg6firwJf67vBHHf6P/rd0r9DLz6/wHg3x8/7z0686T0F/z/cI/Wf/gdig1/Ipi0edw20W2aM1art7+oJu5+HciEaeizz2GXL0o/eVXFR1gYxkwDGTX/l0SUAcL0FKf/qXz5gFQ0AD+/fiw4thPkaP5kGgba0BexoVjVOP5LLkpOTwCM33waYCabbAj/P//2L0K9htkSs8N452TrXKLvv4j67qMUQJvthvHJlzQ456Nx1hoYenyn1RGx6qyUcsU81B0UB1IHWELJr09DXVp2TTf9O0OPwa36Yt4kdR5v/oePuFB6iBckLZPZzXrVHdRoVJj4mduY5Tva1p91Eq19bZt/PzOXFXCBOohD2wRwLlmbiGGnGt2NsEWcv/KNYrQupS9ma3vYkpOXvuquozeGoF6IncYVRE64zMpWpfXVypdZbx6XJPGrrC3MBnCdSK0mSZ0gnDz8H014i2YfLPqs3HlagSXGHEM65Q8e8knKRvNhdrIYu6sQhReaUOSoB/yHpeQf1PtV/LTXXOMUDbRzPIcW2Hl3ymj+WyOhHv0SN9UTJggJXIO8NaE3DcUTdqNrpf6xIYI/cnakEkix3P3eGzDr6ZwOLZmCU/f+4DCNUGzzmSeLGJL4J+sSm4OQbXh18fzeB2lsFT9PK7F3bBtbl3dU84jBi2O/fXN/syEBisVOVoTBGIoK3TjSekyGFsZbvC6V4z9rUmOytFfVQQe2fL7kN3wpp2z6DJaPUvE9vu0WpCy2vdT+jBAarxulySHC8u0ezDPfjVbAhb0L+V9FkqBmkkWilUcn2+fiDWj2nletodKSwN8hX0adQSX6KT19BBK2oCmT1MwTjyvqEsgi/Mw+c/mNfRHKeG+mFfu5f3YIlsfqqXoZJ7+IFGP+u/yR+IdUMhvO+SRC8qOR9wiF3p68h3WW/2pFD9+l55XcPqRPRbZLb0NxONuU03u38HUhN/KjD2/CRsO006y/Upo9XyyNXb4I4tkb+0/qqLvECZfTJ+eUc13d1F6vAAyhvmCsG17HFcj4C/kkEI8/WtG//s/ZHt+YkMBR1wxa3bcgANsV125goNnirAWh6RGCFJAinjdle7psAAA;base64,
 ---
 
 ## Action Games

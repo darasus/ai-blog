@@ -22,8 +22,8 @@ intro: >-
   However, many people struggle with self-learning because they aren’t sure where to begin or how to continue once they start learning something new. They might feel like they don’t have the time or resources available or simply find it too difficult to learn on their own .
 
   Self-learning is an extremely useful skill that can serve you for the rest of your life. Here are some of the top reasons why you should start self-learning today:
-imageSrc: ""
-imageSrcBase64: ""
+imageSrc: /articles/the-top-reasons-to-start-self-learning-today.png
+imageSrcBase64: data:UklGRqQDAABXRUJQVlA4IJgDAADQEACdASoyADIAPm0ukkakIiGhMBQKAIANiWwAgbk2FDJS7AHrMer7b0c9p6D94o9ADy2f2j+Fv/E/7KvC9IYDGMXtBlj8a/fJeO7K4LGmr4woZ/8uC0B/wXO2ncTCMEYNWZrGbLnxrXQFpZ3o2atC4c/DR3sdBmOk2Q1Qj6Np5HtsWJltJQ2EN9qbDPmz4AD8/W0Ai9KuvUvYJ9BPdYh/8jvMizm8hwLJPf9Enf4RDERBfBWrxbVmTrDagTEdNcDwQ+j7VYkb0GDui0z//8Sn+uHw4R0eRFkdGkNMTf+qX5atkbGkFWxyZS+b8hdxvP/dciFy1jvs5A82gcq5h/DUfUkQ6hRnP7ID+YlpiEU2cb994fr8+nAbka+D0Bj20VZGGIrF8BFZ1dylEJgCwNA2Rm9ihCnh/KUXgE+Y9IEZ+eKbFNFp/Vy8/EjBd335fgqK9ecN1RYDAse9RzSk9wtEulh8UyLNAa8GFKWhNHJQorvPhZu1haWqs1vzrPW48H1auoHJh97OErrnX158H9YVt58V71bvcsqzloxKkTK3XOwBoN7RtMLPwLEfYnShIFB56sCyF1nCpjDSsTBpCbDXC4TU+RRC79oHop3sElFA7ct84UGD3/BaZlb1Rwe5a1pOA89f5y9+G8tBX949Xe6S2IcYf5cK2RQu7oEW//SKW4sgkzpgCEfN7mj3b3omUvWeq8qFd+Cy45bUebRLJo0ujnvnvlt+0UG6/5qsIPNg7D8mEcbvUvPwIfu79/wjl+1lHWYI87Za/ARh9yirDjyp9ujp8o/oetOneHEimG+WvGcZwdFHh67oecRJgWzvpphtWrw/2WxkdH5jwvJgSsK5vDJaSj4i378NVggnwdbrO6L7MrEIIx9uzggvv87Cv4IU3srJu6/rn6OkEqaFNYYRvvWYMEuZTyN29ZN7HnpnmbpJxJ7zLQQR7iSxtAbTRo/wsMLdyiLPasyDn2q9e8aJgjB+owhrOjU51eXHafYPnGKYIS05YVfQM6/WN/wAFa/7TM4vBIfGgV5xrx2wNh8yMBhuV8JF8eZUGXx3Wo5mJipf5dNp3PaGS+7QBkGF3ViytR8s9IyUGZpv2pGj2+HS6+qJUXO8jKBLEEN5m2JHexjQKrad+r6gqcdh0qQQcLVV3wmOaSVubbIBrNkgOn/3vQFL/RzGxDm4dYMbM78+tqyxXoN2a+jdrHxkHqx8Y/YXBEATY2AAAA==;base64,
 ---
 
 ## You can advance your career
