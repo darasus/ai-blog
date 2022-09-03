@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-articles": "esno ./scripts/generate-articles.ts && yarn generate-sitemap",
-    "generate-sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
+    "generate": "yarn generate:articles && yarn generate:sitemap",
+    "generate:articles": "esno ./scripts/generate-articles.ts --tsconfig ./tsconfig.json",
+    "generate:sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
   },
   "dependencies": {
     "axios": "^0.27.2",

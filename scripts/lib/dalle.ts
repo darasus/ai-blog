@@ -1,39 +1,29 @@
 import axios from "axios";
-// import axiosRetry from "axios-retry";
-import got from "got";
+import axiosRetry from "axios-retry";
 import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
 
-// const client = axios.create({
-//   baseURL: "https://api.writesonic.com/v1/business/content",
-//   headers: {
-//     accept: "application/json",
-//     "X-API-KEY": "7bfde6b2-3a26-402b-9808-3f84640fadd4",
-//     "Content-Type": "application/json",
-//   },
-//   params: {
-//     end_user_id: "idarase@gmail.com",
-//     engine: "business",
-//     language: "en",
-//   },
-// });
+const client = axios.create({
+  baseURL: "https://labs.openai.com/api/labs",
+  headers: {
+    Authorization: `Bearer ${process.env.DALLE_TOKEN}`,
+  },
+});
 
-// axiosRetry(client, {
-//   retries: 3,
-//   retryCondition(error: any) {
-//     return error?.response?.status >= 500;
-//   },
-//   retryDelay: (retryCount) => {
-//     return retryCount * 1000;
-//   },
-//   onRetry(_, error: any) {
-//     console.warn(`Request failed, retrying...`);
-//   },
-// });
+axiosRetry(client, {
+  retries: 3,
+  retryCondition(error: any) {
+    return error?.response?.status >= 500;
+  },
+  retryDelay: (retryCount) => {
+    return retryCount * 1000;
+  },
+  onRetry(_, error: any) {
+    console.warn(`Request failed, retrying...`);
+  },
+});
 
 export class Dalle {
-  private bearerToken = process.env.DALLE_TOKEN;
-  private url = "https://labs.openai.com/api/labs";
   private cache = new CacheService();
 
   public async generateImage(prompt: string): Promise<string | null> {
@@ -68,20 +58,15 @@ export class Dalle {
   }
 
   private async generate(prompt: string) {
-    let task: any = await got
-      .post(`${this.url}/tasks`, {
-        json: {
-          task_type: "text2im",
-          prompt: {
-            caption: prompt,
-            batch_size: 4,
-          },
+    let task: any = await axios.post("/tasks", {
+      json: {
+        task_type: "text2im",
+        prompt: {
+          caption: prompt,
+          batch_size: 4,
         },
-        headers: {
-          Authorization: `Bearer ${this.bearerToken}`,
-        },
-      })
-      .json();
+      },
+    });
 
     return await new Promise((resolve) => {
       const refreshIntervalId = setInterval(async () => {
@@ -102,37 +87,18 @@ export class Dalle {
   }
 
   private async getTask(taskId: string) {
-    return await got
-      .get(`${this.url}/tasks/${taskId}`, {
-        headers: {
-          Authorization: "Bearer " + this.bearerToken,
-        },
-      })
-      .json();
+    return await axios.get(`/tasks/${taskId}`);
   }
 
   private async list(options = { limit: 50, fromTs: 0 }) {
-    return await got
-      .get(
-        `${this.url}/tasks?limit=${options.limit}${
-          options.fromTs ? `&from_ts=${options.fromTs}` : ""
-        }`,
-        {
-          headers: {
-            Authorization: "Bearer " + this.bearerToken,
-          },
-        }
-      )
-      .json();
+    return await axios.get(
+      `/tasks?limit=${options.limit}${
+        options.fromTs ? `&from_ts=${options.fromTs}` : ""
+      }`
+    );
   }
 
   private async getCredits() {
-    return await got
-      .get(`${this.url}/billing/credit_summary`, {
-        headers: {
-          Authorization: "Bearer " + this.bearerToken,
-        },
-      })
-      .json();
+    return await axios.get("/billing/credit_summary", {});
   }
 }
