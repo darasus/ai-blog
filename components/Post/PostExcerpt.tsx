@@ -25,22 +25,22 @@ export const PostExcerpt: React.FC<Props> = ({ post }) => {
         <div
           className={clsx(
             "aspect-w-2 aspect-h-2 col-span-12 flex justify-center",
-            "sm:col-span-4"
+            "sm:col-span-5"
           )}
         >
           <Image
             blurDataURL={imageSrcBase64}
             className="object-center object-cover"
             src={imageSrc}
-            height={400}
-            width={400}
+            height={600}
+            width={600}
             alt={title}
             placeholder="blur"
           />
         </div>
       )}
       <div
-        className={clsx("col-span-12", "sm:col-span-8", {
+        className={clsx("col-span-12", "sm:col-span-7", {
           "sm:col-span-12": !imageSrc,
         })}
       >

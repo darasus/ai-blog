@@ -6,13 +6,13 @@ export function Layout({ children }: React.PropsWithChildren<{}>) {
   return (
     <div className="bg-gray-100 min-h-screen flex flex-col justify-start">
       <div className="bg-dark">
-        <div className="max-w-5xl m-auto px-4 flex">
+        <div className="max-w-6xl m-auto px-4 flex">
           <div className="shrink">
             <Navbar />
           </div>
         </div>
       </div>
-      <div className="max-w-5xl w-full mx-auto mb-4 mt-4">
+      <div className="max-w-6xl w-full mx-auto mb-4 mt-4">
         <div className="p-4 bg-yellow-500 border border-yellow-600 text-gray-50 mx-4 lg:mx-0">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -31,10 +31,10 @@ export function Layout({ children }: React.PropsWithChildren<{}>) {
           {`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}
         </div>
       </div>
-      <div className="max-w-5xl w-full mx-auto bg-white border-y lg:border-x border-gray-200">
+      <div className="max-w-6xl w-full mx-auto bg-white border-y lg:border-x border-gray-200">
         <main className="w-full">{children}</main>
       </div>
-      <div className="max-w-5xl w-full mx-auto my-4">
+      <div className="max-w-6xl w-full mx-auto my-4">
         <Footer />
       </div>
     </div>
