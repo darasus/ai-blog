@@ -7,10 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-articles": "esno ./scripts/generate-articles.ts && yarn generate-sitemap",
-    "generate-sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
+    "generate": "yarn generate:articles && yarn generate:sitemap",
+    "generate:articles": "esno ./scripts/generate-articles.ts --tsconfig ./tsconfig.json",
+    "generate:sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
   },
   "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2",
     "axios": "^0.27.2",
     "axios-retry": "^3.3.1",
     "clsx": "^1.2.1",
@@ -24,6 +26,7 @@
     "next-mdx-remote": "^4.0.3",
     "openai": "^3.0.0",
     "ora": "^6.1.2",
+    "paginate-array-ts": "^1.0.0",
     "parse-md": "^3.0.3",
     "ramda": "^0.28.0",
     "react": "^18.2.0",

@@ -228,6 +228,11 @@
   dependencies:
     defer-to-connect "^2.0.1"
 
+"@tailwindcss/line-clamp@^0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/line-clamp/-/line-clamp-0.4.2.tgz#f353c5a8ab2c939c6267ac5b907f012e5ee130f9"
+  integrity sha512-HFzAQuqYCjyy/SX9sLGB1lroPzmcnWv1FHkIpmypte10hptf4oPUfucryMKovZh2u0uiS9U5Ty3GghWfEJGwVw==
+
 "@types/acorn@^4.0.0":
   version "4.0.6"
   resolved "https://registry.yarnpkg.com/@types/acorn/-/acorn-4.0.6.tgz#d61ca5480300ac41a7d973dd5b84d0a591154a22"
@@ -3067,6 +3072,11 @@ p-try@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-1.0.0.tgz#cbc79cdbaf8fd4228e13f621f2b1a237c1b207b3"
   integrity sha512-U1etNYuMJoIz3ZXSrrySFjsXQTWOx2/jdi86L+2pRvph/qMKL6sbcCYdH23fqsbm8TH2Gn0OybpT4eSFlCVHww==
+
+paginate-array-ts@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/paginate-array-ts/-/paginate-array-ts-1.0.0.tgz#be5931d9e8014c6a41b2eb08c7d2c1a66900f223"
+  integrity sha512-GKvNq0oQKlT1BgroLwoyOkkmN2iJRJ9eCLPTrdCwS4fcJD6ysDgnBoUpX+vizhuohZXtOS81v39AKejt04f8fw==
 
 parent-module@^1.0.0:
   version "1.0.1"
