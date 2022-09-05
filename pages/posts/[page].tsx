@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Meta } from "../../components/Meta";
 import { Pagination } from "../../components/Pagination";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
-import { getPosts, PageInfo } from "../../utils/orderPosts";
+import { getPosts, PageInfo } from "../../utils/getPosts";
 
 export default function Posts({ data, totalPages }: PageInfo) {
   return (

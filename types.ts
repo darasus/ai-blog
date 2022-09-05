@@ -1,3 +1,4 @@
+import { data } from "./data/data";
 import { MDXRemoteSerializeResult } from "next-mdx-remote";
 
 export interface MDXPost {
@@ -16,7 +17,7 @@ export interface TPost {
   title: string;
   summary: string;
   intro: MDXRemoteSerializeResult<Record<string, unknown>>;
-  category: string;
+  category: Category;
   createdAt: string;
   updatedAt: string;
   content: MDXRemoteSerializeResult<Record<string, unknown>>;
@@ -24,3 +25,5 @@ export interface TPost {
   imageSrc: string;
   imageSrcBase64: string;
 }
+
+export type Category = keyof typeof data;

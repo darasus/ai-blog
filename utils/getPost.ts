@@ -2,7 +2,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
-import { TPost } from "../types/Post";
+import { TPost } from "../types";
 import { capitalize } from "./capitalize";
 import { POSTS_PATH } from "./paths";
 

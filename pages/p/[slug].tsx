@@ -2,18 +2,18 @@ import Link from "next/link";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
-import { TPost } from "../../types/Post";
+import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
 import { getPost } from "../../utils/getPost";
+import { getPosts, PageInfo } from "../../utils/getPosts";
 import { postFilePaths } from "../../utils/mdxUtils";
 
-interface Props {
+interface Props extends PageInfo {
   post: TPost;
-  posts: TPost[];
 }
 
-export default function Home({ post, posts }: Props) {
-  const { title, content, createdAt, summary, category } = post;
+export default function Home({ post, data }: Props) {
+  const { title, content, createdAt, summary, category, slug } = post;
 
   return (
     <>
@@ -22,6 +22,7 @@ export default function Home({ post, posts }: Props) {
           title={title}
           description={`${summary.slice(0, 157).trim()}...`}
           imageSrc={post.imageSrc}
+          slug={slug}
           structured={{
             ...(post.imageSrc
               ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
@@ -36,7 +37,7 @@ export default function Home({ post, posts }: Props) {
         <div className="border-y border-gray-200 p-4 uppercase font-bold text-lg text-gray-500">
           {`Other in ${capitalize(category)}`}
         </div>
-        {posts.map((post, i: number) => (
+        {data.map((post, i: number) => (
           <Link href={`/p/${post.slug}`} key={i}>
             <a className="pointer block border-b last:border-none border-gray-200 p-4">
               <PostExcerpt post={post} />
@@ -51,25 +52,17 @@ export default function Home({ post, posts }: Props) {
 export const getStaticProps = async ({ params }: any) => {
   const post = await getPost(`${params.slug}.md`);
 
-  const posts = [];
+  if (!post) return { props: {} };
 
-  for (const filePath of postFilePaths) {
-    const post = await getPost(filePath);
-    posts.push(post);
-  }
-
-  const preparedPosts = posts
-    .map((post) => ({ ...post, sort: Math.random() }))
-    .sort((a, b) => a.sort - b.sort)
-    .filter((p) => p?.slug !== post?.slug)
-    .filter((p) => p?.category === post?.category)
-    .map((post) => ({ ...post, date: new Date(post?.createdAt as string) }))
-    .sort((a, b) => b.date.getTime() - a.date.getTime())
-    .map(({ date, sort, ...post }) => ({ ...post }))
-    .slice(0, 10);
+  const posts = await getPosts({
+    category: post?.category,
+    excludeBySlug: [post?.slug],
+    order: "random",
+    numberOfItems: 10,
+  });
 
   return {
-    props: { post, posts: preparedPosts },
+    props: { post, ...posts },
   };
 };
 

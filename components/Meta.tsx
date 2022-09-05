@@ -10,6 +10,7 @@ interface Props {
     dateModified: string;
     image?: string[];
   };
+  slug?: string;
 }
 
 export const Meta: React.FC<Props> = ({
@@ -17,11 +18,13 @@ export const Meta: React.FC<Props> = ({
   description,
   imageSrc,
   structured,
+  slug,
 }) => {
+  const baseUrl = "https://www.theaipaper.com";
   const actualTitle = `${title} | The AI Paper`;
   const imgSrc = imageSrc
-    ? `https://www.theaipaper.com${imageSrc}`
-    : `https://www.theaipaper.com/thumbnail.png`;
+    ? `${baseUrl}${imageSrc}`
+    : `${baseUrl}/thumbnail.png`;
   const structuredData = structured
     ? {
         "@context": "https://schema.org",
@@ -34,11 +37,13 @@ export const Meta: React.FC<Props> = ({
           {
             "@type": "Organization",
             name: "The AI Paper",
-            url: "https://www.theaipaper.com/",
+            url: "${baseUrl}/",
           },
         ],
       }
     : null;
+  const url = `${baseUrl}/p/${slug}`;
+
   return (
     <Head>
       <title>{actualTitle}</title>
@@ -46,13 +51,13 @@ export const Meta: React.FC<Props> = ({
       <meta name="description" content={description} />
 
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://www.theaipaper.com/" />
+      <meta property="og:url" content={slug ? url : `${baseUrl}/`} />
       <meta property="og:title" content={actualTitle} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={imgSrc} />
 
       <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:url" content="https://www.theaipaper.com/" />
+      <meta property="twitter:url" content={slug ? url : `${baseUrl}/`} />
       <meta property="twitter:title" content={actualTitle} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={imgSrc} />

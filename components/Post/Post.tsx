@@ -1,7 +1,7 @@
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/future/image";
 import React from "react";
-import { TPost } from "../../types/Post";
+import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";

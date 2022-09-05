@@ -6,7 +6,7 @@ import ora from "ora";
 import slugify from "slugify";
 import path from "node:path";
 import fs from "node:fs";
-import { MDXPost } from "../types/Post";
+import { MDXPost } from "../types";
 import parseMD from "parse-md";
 import { readArticleFile, readArticleImageFile } from "../utils/readFileSync";
 import { getArticleData } from "./shared/getArticleData";
