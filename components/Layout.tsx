@@ -51,7 +51,7 @@ export function HomeLayout({ children }: React.PropsWithChildren<{}>) {
           </div>
         </div>
       </div>
-      {/* <div className="w-full mx-auto mb-4 mt-4">
+      <div className="mb-4 mx-4">
         <div className="p-4 bg-yellow-500 border border-yellow-600 text-gray-50 mx-4 lg:mx-0">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -69,7 +69,7 @@ export function HomeLayout({ children }: React.PropsWithChildren<{}>) {
           </svg>
           {`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}
         </div>
-      </div> */}
+      </div>
       <div className="w-full">
         <main className="mx-4">{children}</main>
       </div>
