@@ -32,8 +32,8 @@ export const PostExcerpt: React.FC<Props> = ({ post }) => {
             blurDataURL={imageSrcBase64}
             className="object-center object-cover"
             src={imageSrc}
-            height={600}
-            width={600}
+            height={460}
+            width={460}
             alt={title}
             placeholder="blur"
           />
