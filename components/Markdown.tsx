@@ -1,7 +1,11 @@
-import { Text } from "@chakra-ui/react";
+import { List, ListIcon, ListItem, Text } from "@chakra-ui/react";
 import { MDXRemote, MDXRemoteProps } from "next-mdx-remote";
 import * as mdx from "@mdx-js/react";
 import { headingSizeMap } from "../theme";
+import {
+  ArrowSmallRightIcon,
+  ChevronDoubleRightIcon,
+} from "@heroicons/react/24/solid";
 
 type Props = MDXRemoteProps;
 
@@ -20,6 +24,7 @@ const components: Components = {
     <Text
       as="h2"
       fontWeight={"bold"}
+      mt={4}
       fontSize={headingSizeMap["h2"]}
       {...props}
     />
@@ -28,6 +33,7 @@ const components: Components = {
     <Text
       as="h3"
       fontWeight={"bold"}
+      mt={4}
       fontSize={headingSizeMap["h3"]}
       {...props}
     />
@@ -36,11 +42,27 @@ const components: Components = {
     <Text
       as="h4"
       fontWeight={"bold"}
+      mt={4}
       fontSize={headingSizeMap["h4"]}
       {...props}
     />
   ),
-  p: (props) => <Text {...props} py={2} fontSize={"lg"} />,
+  p: (props) => <Text {...props} my={2} fontSize={"lg"} />,
+  ul: (props) => <List spacing={3} {...props} />,
+  li: (props) => (
+    <ListItem {...props}>
+      <ListIcon
+        as={ChevronDoubleRightIcon}
+        w={5}
+        h={5}
+        color="gray.500"
+        mr={1}
+      />
+      <Text as="span" fontSize={"lg"}>
+        {props.children}
+      </Text>
+    </ListItem>
+  ),
 };
 
 export function Markdown(props: Props) {

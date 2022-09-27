@@ -19,22 +19,20 @@ export default function Home({ post, data }: Props) {
 
   return (
     <>
-      <Box p={4}>
-        <Meta
-          title={title}
-          description={`${summary.slice(0, 157).trim()}...`}
-          imageSrc={post.imageSrc}
-          slug={slug}
-          structured={{
-            ...(post.imageSrc
-              ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
-              : {}),
-            datePublished: post.createdAt,
-            dateModified: post.updatedAt,
-          }}
-        />
-        <Post post={post} />
-      </Box>
+      <Meta
+        title={title}
+        description={`${summary.slice(0, 157).trim()}...`}
+        imageSrc={post.imageSrc}
+        slug={slug}
+        structured={{
+          ...(post.imageSrc
+            ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
+            : {}),
+          datePublished: post.createdAt,
+          dateModified: post.updatedAt,
+        }}
+      />
+      <Post post={post} />
       <Divider />
       <PostListSection
         title={`Other in ${capitalize(category)}`}

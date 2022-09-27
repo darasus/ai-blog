@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@chakra-ui/icons': ^2.0.10
   '@chakra-ui/react': ^2.3.4
   '@emotion/react': ^11
   '@emotion/styled': ^11
+  '@heroicons/react': ^2.0.11
   '@mdx-js/react': ^2.1.3
   '@tailwindcss/line-clamp': ^0.4.2
   '@types/node': 18.0.0
@@ -40,10 +40,10 @@ specifiers:
   yaml: ^2.1.1
 
 dependencies:
-  '@chakra-ui/icons': 2.0.10_react@18.2.0
   '@chakra-ui/react': 2.3.4_wcbo5zsdvkvvteeo7mhmlp7qhm
   '@emotion/react': 11.10.4_luyos4mouogwq6z3wafb3re4ce
   '@emotion/styled': 11.10.4_zihtkqst7yq25r5a7lby6nwrdu
+  '@heroicons/react': 2.0.11_react@18.2.0
   '@mdx-js/react': 2.1.3_react@18.2.0
   '@tailwindcss/line-clamp': 0.4.2
   axios: 0.27.2
@@ -393,26 +393,6 @@ packages:
     dependencies:
       '@chakra-ui/shared-utils': 2.0.1
       '@chakra-ui/system': 2.2.11_hfzxdiydbrbhhfpkwuv3jhvwmq
-      react: 18.2.0
-    dev: false
-
-  /@chakra-ui/icon/3.0.10_react@18.2.0:
-    resolution: {integrity: sha512-utO569d9bptEraJrEhuImfNzQ8v+a8PsQh8kTsodCzg8B16R3t5TTuoqeJqS6Nq16Vq6w87QbX3/4A73CNK5fw==}
-    peerDependencies:
-      '@chakra-ui/system': '>=2.0.0'
-      react: '>=18'
-    dependencies:
-      '@chakra-ui/shared-utils': 2.0.1
-      react: 18.2.0
-    dev: false
-
-  /@chakra-ui/icons/2.0.10_react@18.2.0:
-    resolution: {integrity: sha512-hxMspvysOay2NsJyadM611F/Y4vVzJU/YkXTxsyBjm6v/DbENhpVmPnUf+kwwyl7dINNb9iOF+kuGxnuIEO1Tw==}
-    peerDependencies:
-      '@chakra-ui/system': '>=2.0.0'
-      react: '>=18'
-    dependencies:
-      '@chakra-ui/icon': 3.0.10_react@18.2.0
       react: 18.2.0
     dev: false
 
@@ -1357,6 +1337,14 @@ packages:
     transitivePeerDependencies:
       - supports-color
     dev: true
+
+  /@heroicons/react/2.0.11_react@18.2.0:
+    resolution: {integrity: sha512-bASjOgSSaYj8HqXWsOqaBiB6ZLalE/g90WYGgZ5lPm4KCCG7wPXntY4kzHf5NrLh6UBAcnPwvbiw1Ne9GYfJtw==}
+    peerDependencies:
+      react: '>= 16'
+    dependencies:
+      react: 18.2.0
+    dev: false
 
   /@humanwhocodes/config-array/0.9.5:
     resolution: {integrity: sha512-ObyMyWxZiCu/yTisA7uzx81s40xR2fD5Cg/2Kq7G02ajkNubJf6BopgDTmDyc3U7sXpNKM8cYOw7s7Tyr+DnCw==}

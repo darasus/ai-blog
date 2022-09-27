@@ -1,4 +1,4 @@
-import { WarningIcon, WarningTwoIcon } from "@chakra-ui/icons";
+import { ExclamationTriangleIcon } from "@heroicons/react/24/solid";
 import { Box, Flex, Text } from "@chakra-ui/react";
 import React from "react";
 import { Footer } from "./Footer";
@@ -27,7 +27,9 @@ export function Layout({ children }: Props) {
           alignItems={"center"}
         >
           <Box mr={2}>
-            <WarningTwoIcon display={"block"} w={6} h={6} color="yellow.300" />
+            <Text color="yellow.300">
+              <ExclamationTriangleIcon width={22} height={22} />
+            </Text>
           </Box>
           <Box>
             <Text color="gray.700">{`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}</Text>

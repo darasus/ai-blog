@@ -15,7 +15,7 @@ export default function Posts({ data, totalPages }: PageInfo) {
       />
       {data.map((post, i: number) => {
         return (
-          <Link href={`/p/${post.slug}`} key={i}>
+          <Link hoverStyles={false} href={`/p/${post.slug}`} key={i}>
             <PostExcerpt post={post} />
             <Divider />
           </Link>

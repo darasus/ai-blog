@@ -1,4 +1,4 @@
-import { Box, Flex, Text } from "@chakra-ui/react";
+import { Box, Divider, Flex, Grid, GridItem, Text } from "@chakra-ui/react";
 import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types";
@@ -25,20 +25,32 @@ export function Post({ post }: Props) {
 
   return (
     <article>
-      <Flex mb={4}>
-        <Image
-          blurDataURL={imageSrcBase64}
-          src={imageSrc}
-          height={500}
-          width={500}
-          alt={title}
-          placeholder="blur"
-          priority
-        />
-      </Flex>
-      <PostMeta items={[createdAt, capitalize(category)]} />
-      <PostTitle>{title}</PostTitle>
-      <Box borderLeftWidth={4} pl={4} my={4}>
+      <Grid templateColumns="repeat(2, 1fr)" gap={4} p={4}>
+        <GridItem colSpan={1}>
+          <Image
+            blurDataURL={imageSrcBase64}
+            src={imageSrc}
+            height={600}
+            width={600}
+            alt={title}
+            placeholder="blur"
+            priority
+          />
+        </GridItem>
+        <GridItem colSpan={1}>
+          <Flex
+            h={"full"}
+            alignItems={"start"}
+            justifyContent="center"
+            flexDirection="column"
+          >
+            <PostMeta items={[createdAt, capitalize(category)]} />
+            <PostTitle>{title}</PostTitle>
+          </Flex>
+        </GridItem>
+      </Grid>
+      <Divider />
+      <Box borderLeftWidth={4} px={4} m={4}>
         <Text
           as="span"
           fontSize={"2xl"}
@@ -49,8 +61,11 @@ export function Post({ post }: Props) {
           {summary}
         </Text>
       </Box>
-      <Markdown {...intro} />
-      <Markdown {...content} />
+      <Divider />
+      <Box p={4}>
+        <Markdown {...intro} />
+        <Markdown {...content} />
+      </Box>
     </article>
   );
 }

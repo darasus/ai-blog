@@ -7,7 +7,7 @@ interface Props {
 
 export const PostMeta: React.FC<Props> = ({ items }) => {
   return (
-    <Text color="gray.400" fontSize="sm">
+    <Text color="gray.700" fontSize="sm">
       {items.join(" • ")}
     </Text>
   );
