@@ -1,4 +1,4 @@
-import clsx from "clsx";
+import { Box, Grid, GridItem } from "@chakra-ui/react";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/future/image";
 import React from "react";
@@ -11,45 +11,28 @@ interface Props {
   post: TPost;
 }
 
-export const PostExcerpt: React.FC<Props> = ({ post }) => {
+export function PostExcerpt({ post }: Props) {
   const { createdAt, category, title, intro, imageSrc, imageSrcBase64 } = post;
 
   return (
-    <div
-      className={clsx(
-        "w-full grid gap-6 items-start grid-cols-12",
-        "lg:gap-x-5"
-      )}
-    >
-      {imageSrc && (
-        <div
-          className={clsx(
-            "aspect-w-2 aspect-h-2 col-span-12 flex justify-center",
-            "sm:col-span-5"
-          )}
-        >
-          <Image
-            blurDataURL={imageSrcBase64}
-            className="object-center object-cover"
-            src={imageSrc}
-            height={460}
-            width={460}
-            alt={title}
-            placeholder="blur"
-          />
-        </div>
-      )}
-      <div
-        className={clsx("col-span-12", "sm:col-span-7", {
-          "sm:col-span-12": !imageSrc,
-        })}
-      >
+    <Grid templateColumns="repeat(12, 1fr)" gap={5}>
+      <GridItem colSpan={5}>
+        <Image
+          blurDataURL={imageSrcBase64}
+          src={imageSrc}
+          height={460}
+          width={460}
+          alt={title}
+          placeholder="blur"
+        />
+      </GridItem>
+      <GridItem colSpan={7}>
         <PostMeta items={[createdAt, capitalize(category)]} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
-        <div className="px-1">
+        <Box px={"1"}>
           <MDXRemote {...intro} />
-        </div>
-      </div>
-    </div>
+        </Box>
+      </GridItem>
+    </Grid>
   );
-};
+}

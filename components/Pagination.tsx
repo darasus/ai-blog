@@ -1,6 +1,7 @@
+import { Box, Flex } from "@chakra-ui/react";
 import { useRouter } from "next/router";
 import React from "react";
-import { LinkButton } from "./LinkButton";
+import { Link } from "./Link";
 
 interface Props {
   totalPages: number;
@@ -11,16 +12,16 @@ export const Pagination: React.FC<Props> = ({ totalPages }) => {
   const currentPage = Number(router.query.page);
 
   return (
-    <div className="bg-white p-4 flex items-center">
-      <div className="flex-1 flex">
+    <Flex bg={"white"} p={4} alignItems="center">
+      <Flex flexGrow={"1"}>
         {currentPage !== 1 && (
-          <LinkButton href={`/posts/${currentPage - 1}`}>Previous</LinkButton>
+          <Link href={`/posts/${currentPage - 1}`}>Previous</Link>
         )}
-        <div className="flex-1" />
+        <Box flexGrow={1} />
         {currentPage !== totalPages && (
-          <LinkButton href={`/posts/${currentPage + 1}`}>Next</LinkButton>
+          <Link href={`/posts/${currentPage + 1}`}>Next</Link>
         )}
-      </div>
-    </div>
+      </Flex>
+    </Flex>
   );
 };

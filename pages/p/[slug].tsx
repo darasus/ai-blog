@@ -1,3 +1,4 @@
+import { Box } from "@chakra-ui/react";
 import Link from "next/link";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
@@ -17,7 +18,7 @@ export default function Home({ post, data }: Props) {
 
   return (
     <>
-      <div className="p-4">
+      <Box p={4}>
         <Meta
           title={title}
           description={`${summary.slice(0, 157).trim()}...`}
@@ -32,14 +33,20 @@ export default function Home({ post, data }: Props) {
           }}
         />
         <Post post={post} />
-      </div>
+      </Box>
       <div>
-        <div className="border-y border-gray-200 p-4 uppercase font-bold text-lg text-gray-500">
+        <Box
+          borderBottomWidth={"1px"}
+          borderTopWidth={"1px"}
+          borderColor="gray.200"
+          p={4}
+          fontWeight="bold"
+        >
           {`Other in ${capitalize(category)}`}
-        </div>
+        </Box>
         {data.map((post, i: number) => (
           <Link href={`/p/${post.slug}`} key={i}>
-            <a className="pointer block border-b last:border-none border-gray-200 p-4">
+            <a>
               <PostExcerpt post={post} />
             </a>
           </Link>
