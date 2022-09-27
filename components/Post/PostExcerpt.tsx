@@ -1,9 +1,9 @@
 import { Box, Grid, GridItem } from "@chakra-ui/react";
-import { MDXRemote } from "next-mdx-remote";
 import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
+import { Markdown } from "../Markdown";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
@@ -15,7 +15,7 @@ export function PostExcerpt({ post }: Props) {
   const { createdAt, category, title, intro, imageSrc, imageSrcBase64 } = post;
 
   return (
-    <Grid templateColumns="repeat(12, 1fr)" gap={5}>
+    <Grid templateColumns="repeat(12, 1fr)" gap={5} p={4}>
       <GridItem colSpan={5}>
         <Image
           blurDataURL={imageSrcBase64}
@@ -30,7 +30,7 @@ export function PostExcerpt({ post }: Props) {
         <PostMeta items={[createdAt, capitalize(category)]} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <Box px={"1"}>
-          <MDXRemote {...intro} />
+          <Markdown {...intro} />
         </Box>
       </GridItem>
     </Grid>

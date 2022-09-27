@@ -1,8 +1,9 @@
-import { Box } from "@chakra-ui/react";
+import { Box, Divider } from "@chakra-ui/react";
 import Link from "next/link";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
+import { PostListSection } from "../../components/Post/PostListSection";
 import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
 import { getPost } from "../../utils/getPost";
@@ -34,24 +35,11 @@ export default function Home({ post, data }: Props) {
         />
         <Post post={post} />
       </Box>
-      <div>
-        <Box
-          borderBottomWidth={"1px"}
-          borderTopWidth={"1px"}
-          borderColor="gray.200"
-          p={4}
-          fontWeight="bold"
-        >
-          {`Other in ${capitalize(category)}`}
-        </Box>
-        {data.map((post, i: number) => (
-          <Link href={`/p/${post.slug}`} key={i}>
-            <a>
-              <PostExcerpt post={post} />
-            </a>
-          </Link>
-        ))}
-      </div>
+      <Divider />
+      <PostListSection
+        title={`Other in ${capitalize(category)}`}
+        posts={data}
+      />
     </>
   );
 }

@@ -1,3 +1,4 @@
+import { WarningIcon, WarningTwoIcon } from "@chakra-ui/icons";
 import { Box, Flex, Text } from "@chakra-ui/react";
 import React from "react";
 import { Footer } from "./Footer";
@@ -16,36 +17,22 @@ export function Layout({ children }: Props) {
         </Box>
       </Box>
       <Box mb="4" mt="4">
-        <Box
+        <Flex
           maxW="6xl"
           m="0 auto"
           p="4"
-          bg="yellow.500"
-          borderColor={"yellow.600"}
+          bg="white"
+          borderColor={"gray.200"}
           borderWidth="1px"
+          alignItems={"center"}
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            style={{
-              height: "1.5rem",
-              width: "1.5rem",
-              display: "inline-block",
-            }}
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-            strokeWidth={2}
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
-            />
-          </svg>
-          <Text
-            colorScheme={"whiteAlpha"}
-          >{`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}</Text>
-        </Box>
+          <Box mr={2}>
+            <WarningTwoIcon display={"block"} w={6} h={6} color="yellow.300" />
+          </Box>
+          <Box>
+            <Text color="gray.700">{`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}</Text>
+          </Box>
+        </Flex>
       </Box>
       <Box
         maxW="6xl"

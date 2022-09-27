@@ -1,9 +1,10 @@
-import { Box, Flex } from "@chakra-ui/react";
+import { Box, Divider, Flex } from "@chakra-ui/react";
 import { GetStaticProps } from "next";
-import NextLink from "next/link";
 import { Link } from "../components/Link";
+import { LinkButton } from "../components/LinkButton";
 import { Meta } from "../components/Meta";
 import { PostExcerpt } from "../components/Post/PostExcerpt";
+import { PostListSection } from "../components/Post/PostListSection";
 import { getPosts, PageInfo } from "../utils/getPosts";
 
 export default function Home({ data }: PageInfo) {
@@ -13,23 +14,9 @@ export default function Home({ data }: PageInfo) {
         title="Latest"
         description="All articles from The AI Paper are carefully crafted by GPT-3"
       />
-      <Box
-        borderBottomWidth={"1px"}
-        p={4}
-        textTransform={"uppercase"}
-        fontWeight="bold"
-      >
-        Latest articles
-      </Box>
-      {data.map((post, i: number) => {
-        return (
-          <Link href={`/p/${post.slug}`} key={i}>
-            <PostExcerpt post={post} />
-          </Link>
-        );
-      })}
+      <PostListSection title={"Latest articles"} posts={data} />
       <Flex justifyContent={"center"} py={5}>
-        <Link href="/posts/2">See more</Link>
+        <LinkButton href="/posts/2">See more</LinkButton>
       </Flex>
     </>
   );

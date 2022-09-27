@@ -1,9 +1,9 @@
 import { Box, Flex, Text } from "@chakra-ui/react";
-import { MDXRemote } from "next-mdx-remote";
 import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
+import { Markdown } from "../Markdown";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
@@ -49,8 +49,8 @@ export function Post({ post }: Props) {
           {summary}
         </Text>
       </Box>
-      <MDXRemote {...intro} />
-      <MDXRemote {...content} />
+      <Markdown {...intro} />
+      <Markdown {...content} />
     </article>
   );
 }

@@ -11,6 +11,13 @@ const token = {
   },
 };
 
+export const headingSizeMap = {
+  h1: "6xl",
+  h2: "4xl",
+  h3: "4xl",
+  h4: "4xl",
+};
+
 export const theme = extendTheme({
   config,
   shadows: {
