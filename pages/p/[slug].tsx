@@ -1,7 +1,9 @@
+import { Box, Divider } from "@chakra-ui/react";
 import Link from "next/link";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
+import { PostListSection } from "../../components/Post/PostListSection";
 import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
 import { getPost } from "../../utils/getPost";
@@ -17,34 +19,25 @@ export default function Home({ post, data }: Props) {
 
   return (
     <>
-      <div className="p-4">
-        <Meta
-          title={title}
-          description={`${summary.slice(0, 157).trim()}...`}
-          imageSrc={post.imageSrc}
-          slug={slug}
-          structured={{
-            ...(post.imageSrc
-              ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
-              : {}),
-            datePublished: post.createdAt,
-            dateModified: post.updatedAt,
-          }}
-        />
-        <Post post={post} />
-      </div>
-      <div>
-        <div className="border-y border-gray-200 p-4 uppercase font-bold text-lg text-gray-500">
-          {`Other in ${capitalize(category)}`}
-        </div>
-        {data.map((post, i: number) => (
-          <Link href={`/p/${post.slug}`} key={i}>
-            <a className="pointer block border-b last:border-none border-gray-200 p-4">
-              <PostExcerpt post={post} />
-            </a>
-          </Link>
-        ))}
-      </div>
+      <Meta
+        title={title}
+        description={`${summary.slice(0, 157).trim()}...`}
+        imageSrc={post.imageSrc}
+        slug={slug}
+        structured={{
+          ...(post.imageSrc
+            ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
+            : {}),
+          datePublished: post.createdAt,
+          dateModified: post.updatedAt,
+        }}
+      />
+      <Post post={post} />
+      <Divider />
+      <PostListSection
+        title={`Other in ${capitalize(category)}`}
+        posts={data}
+      />
     </>
   );
 }

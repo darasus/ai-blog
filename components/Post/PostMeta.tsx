@@ -1,3 +1,4 @@
+import { Text } from "@chakra-ui/react";
 import React from "react";
 
 interface Props {
@@ -5,5 +6,9 @@ interface Props {
 }
 
 export const PostMeta: React.FC<Props> = ({ items }) => {
-  return <span className="text-gray-400 text-xs">{items.join(" • ")}</span>;
+  return (
+    <Text color="gray.700" fontSize="sm">
+      {items.join(" • ")}
+    </Text>
+  );
 };

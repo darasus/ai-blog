@@ -1,42 +1,53 @@
+import { ExclamationTriangleIcon } from "@heroicons/react/24/solid";
+import { Box, Flex, Text } from "@chakra-ui/react";
 import React from "react";
 import { Footer } from "./Footer";
 import { Navbar } from "./Navbar";
 
-export function Layout({ children }: React.PropsWithChildren<{}>) {
+type Props = React.PropsWithChildren<{}>;
+
+export function Layout({ children }: Props) {
   return (
-    <div className="bg-gray-100 min-h-screen flex flex-col justify-start">
-      <div className="bg-dark">
-        <div className="max-w-6xl m-auto px-4 flex">
-          <div className="shrink">
+    <Flex bg="gray.100" minH="100vh" direction="column">
+      <Box bg="gray.900">
+        <Box px="4" maxW="6xl" m="0 auto">
+          <Box>
             <Navbar />
-          </div>
-        </div>
-      </div>
-      <div className="max-w-6xl w-full mx-auto mb-4 mt-4">
-        <div className="p-4 bg-yellow-500 border border-yellow-600 text-gray-50 mx-4 lg:mx-0">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6 inline-block mr-1"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-            strokeWidth={2}
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
-            />
-          </svg>
-          {`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}
-        </div>
-      </div>
-      <div className="max-w-6xl w-full mx-auto bg-white border-y lg:border-x border-gray-200">
-        <main className="w-full">{children}</main>
-      </div>
-      <div className="max-w-6xl w-full mx-auto my-4">
+          </Box>
+        </Box>
+      </Box>
+      <Box mb="4" mt="4">
+        <Flex
+          maxW="6xl"
+          m="0 auto"
+          p="4"
+          bg="white"
+          borderColor={"gray.200"}
+          borderWidth="1px"
+          alignItems={"center"}
+        >
+          <Box mr={2}>
+            <Text color="yellow.300">
+              <ExclamationTriangleIcon width={22} height={22} />
+            </Text>
+          </Box>
+          <Box>
+            <Text color="gray.700">{`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}</Text>
+          </Box>
+        </Flex>
+      </Box>
+      <Box
+        maxW="6xl"
+        m="0 auto"
+        bg="white"
+        borderWidth={"1px"}
+        borderColor="gray.200"
+      >
+        <main>{children}</main>
+      </Box>
+      <Flex alignItems={"center"}>
         <Footer />
-      </div>
-    </div>
+      </Flex>
+    </Flex>
   );
 }

@@ -1,19 +1,13 @@
-import clsx from "clsx";
-import Link, { LinkProps } from "next/link";
+import NextLink, { LinkProps } from "next/link";
+import { Button } from "@chakra-ui/react";
 import React from "react";
 
 type Props = React.PropsWithChildren<LinkProps>;
 
-export const LinkButton: React.FC<Props> = ({ children, ...props }) => {
+export function LinkButton({ children, ...props }: Props) {
   return (
-    <Link {...props}>
-      <a
-        className={clsx(
-          "relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"
-        )}
-      >
-        {children}
-      </a>
-    </Link>
+    <NextLink {...props}>
+      <Button variant={"outline"}>{children}</Button>
+    </NextLink>
   );
-};
+}

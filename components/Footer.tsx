@@ -1,7 +1,12 @@
+import { Flex, Text } from "@chakra-ui/react";
+
 export const Footer = () => {
   return (
-    <footer className="flex justify-center">
-      <span className="text-gray-400 text-sm">{`The AI Paper © ${new Date().getFullYear()}`}</span>
-    </footer>
+    <Flex justifyContent={"center"} alignItems="center" w="full" p={4}>
+      <Text
+        color="gray.700"
+        fontSize={"sm"}
+      >{`The AI Paper © ${new Date().getFullYear()}`}</Text>
+    </Flex>
   );
 };

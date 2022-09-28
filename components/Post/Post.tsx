@@ -1,8 +1,9 @@
-import { MDXRemote } from "next-mdx-remote";
+import { Box, Divider, Flex, Grid, GridItem, Text } from "@chakra-ui/react";
 import Image from "next/future/image";
 import React from "react";
 import { TPost } from "../../types";
 import { capitalize } from "../../utils/capitalize";
+import { Markdown } from "../Markdown";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
@@ -10,7 +11,7 @@ interface Props {
   post: TPost;
 }
 
-export const Post: React.FC<Props> = ({ post }) => {
+export function Post({ post }: Props) {
   const {
     createdAt,
     title,
@@ -23,29 +24,60 @@ export const Post: React.FC<Props> = ({ post }) => {
   } = post;
 
   return (
-    <article className="post">
-      {imageSrc && (
-        <div className="flex justify-center mb-4">
+    <article>
+      <Grid
+        templateColumns={["repeat(1, 1fr)", "repeat(1, 1fr)", "repeat(2, 1fr)"]}
+        gap={4}
+        p={4}
+      >
+        <GridItem colSpan={1}>
           <Image
             blurDataURL={imageSrcBase64}
-            className="object-center object-cover"
             src={imageSrc}
-            height={500}
-            width={500}
+            height={800}
+            width={800}
             alt={title}
             placeholder="blur"
             priority
           />
-        </div>
-      )}
-      <PostMeta items={[createdAt, capitalize(category)]} />
-      <PostTitle>{title}</PostTitle>
-      <div className="border-l-4 pl-4 my-4 text-2xl text-gray-500">
-        <span className="font-bold">{`TL;DR: `}</span>
-        <span>{summary}</span>
-      </div>
-      <MDXRemote {...intro} />
-      <MDXRemote {...content} />
+        </GridItem>
+        <GridItem colSpan={1}>
+          <Flex
+            h={"full"}
+            alignItems={"start"}
+            justifyContent="center"
+            flexDirection="column"
+          >
+            <PostMeta items={[createdAt, capitalize(category)]} />
+            <PostTitle>{title}</PostTitle>
+          </Flex>
+        </GridItem>
+      </Grid>
+      <Divider />
+      <Box borderLeftWidth={4} px={4} m={4}>
+        <Text
+          as="span"
+          fontSize={"2xl"}
+          color="gray.700"
+          fontWeight={"bold"}
+          fontStyle={"italic"}
+          lineHeight="1.2"
+        >{`TL;DR: `}</Text>
+        <Text
+          fontSize={"2xl"}
+          color="gray.700"
+          as="span"
+          fontStyle={"italic"}
+          lineHeight="1.2"
+        >
+          {summary}
+        </Text>
+      </Box>
+      <Divider />
+      <Box p={4}>
+        <Markdown {...intro} />
+        <Markdown {...content} />
+      </Box>
     </article>
   );
-};
+}

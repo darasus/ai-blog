@@ -1,5 +1,6 @@
+import { Divider } from "@chakra-ui/react";
 import { GetStaticPaths, GetStaticProps } from "next";
-import Link from "next/link";
+import { Link } from "../../components/Link";
 import { Meta } from "../../components/Meta";
 import { Pagination } from "../../components/Pagination";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
@@ -14,10 +15,9 @@ export default function Posts({ data, totalPages }: PageInfo) {
       />
       {data.map((post, i: number) => {
         return (
-          <Link href={`/p/${post.slug}`} key={i}>
-            <a className="pointer block border-b border-gray-200 p-4">
-              <PostExcerpt post={post} />
-            </a>
+          <Link hoverStyles={false} href={`/p/${post.slug}`} key={i}>
+            <PostExcerpt post={post} />
+            <Divider />
           </Link>
         );
       })}
