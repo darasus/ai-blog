@@ -21,7 +21,7 @@ intro: >-
 
   If that sounds like you, don’t worry! You aren’t alone. Many people today find it difficult to carve out some time for themselves. Thankfully, it is possible to balance a busy schedule and make time for yourself. Here are some helpful suggestions on how you can make time for yourself even when you feel like there isn’t any left in the world.
 imageSrc: /articles/how-to-make-time-for-yourself-when-you-have-a-busy-schedule.png
-imageSrcBase64: data:image/png;base64,UklGRqoCAABXRUJQVlA4IJ4CAADwDgCdASoyADIAPm0ukUakIqGhLBVdmIANiWIAwQ+X5d/CXAnuIYF/Q7xoHvp58L+wepPeAN6EfS9c9ghpQWiRh9FWk5yd9toOkW3LcKZWqn3rYaKfsrHNTKixXfF0uHBAM1NgqNAY01u4yTtgCPqadD5s5O227a9zCB68EZuoAAD+82yyyWcT1MZsZ/MyB/1RuqqXZUdD8j2GS3ra8X/yERybyz///RKvi9Fs03fOsTd//mR0keGA35Q2HEHwTDgArJSRJmqRpXlzSr25Fe1YEFJ87r7amxkI6L4OXRy2iH+NKh3wyMVhrrOJ5o03xHMqD3yzMLLhhuKpTKYF5JwCs5pYpsHrrS+DYLrTyjCoHtv+Kt4qMtYWV0f5iG8RaHS3BlRU4vWq2p/bWiA+LH3d/uJQbz4r0Bvfb1bqL3nI93IwdGTPObmpRrOQOfQbidcweN0sWSmgYvOvnlTSfpzvygG7fXBwko6cSH/ZK9u3WzZkjSS6WPlT/yqR5bdI8H9jDZ2R4S4NPRLtNyz8ZLpBkAPntL2XCAdnfY82KYXjddQGpEQNLfC6pvvG3Uv4LrnkgrEuaGGEl0wXeiKBxsWCF39MX/uiVm93Qzk5Z/g+uIo4u662JHcxnwJ2picSAg0jzQznx4miSyBM4YgOi2BiKvkzrIie8V4WMFMBgMvDNKV2UIWdMlEmcr8jH/AVZhDaxe/9CzLl21RToFTBCNVjoah3oQWDm+lYDE5sz+rdU6CONDRzBG6OfLkpBi1kB7171v9xPaIy1xka3QEAhhBE+6vK77IWDMaPBGF8rlJLi0piK+Q4iMNU0XL7BPs6a3S/YoKE20t6CPxlmx45ehnXci9h+qNiBQ42lMjQF1tqN9dLrvfgbASuJKmAAAAA
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkPp5MAAAD+9Of5nu6bGAOi+AVU5b+7chtIV/OS6GbXL1itVZ/53xjKtKm/40tufobuyn91P/5NMwOs19lfFRtQgMyjAAA=
 ---
 
 ## Plan Ahead

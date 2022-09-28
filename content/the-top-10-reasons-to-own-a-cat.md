@@ -24,7 +24,7 @@ intro: "When you think of cats, you probably picture a feline that’s aloof,
   attention and money to keep one as a pet? Let's check out these top ten
   reasons why owning a cat is awesome!"
 imageSrc: /articles/the-top-10-reasons-to-own-a-cat.png
-imageSrcBase64: data:image/png;base64,UklGRmwCAABXRUJQVlA4IGACAAAwDQCdASoyADIAPm0yk0ckIyGhKhM7oIANiWcA0aGVib/+giISlFz/1TCbeDhRlmhbkiNAQc2JPz6QAyM74TlJYoizunUhOnUlr4UWobkRabozK18pejrmlO71Tsj+/9Uj3p+K/qhSNm3YD0VIhM1TCEAA/uca//WH7Neun6yfGOvRzvw1iV9qCBPjMTwYjX4QWvYWFd0fVjT9Ck5NZBudsRDxhvd6EzVaEhQ8+7RL/TtXTeeMP5vx6PrUs1IFRIUZfN63at1ISr1HA8r6e8aZuE4QpS/a7na1KewHJEeImWa8lEuJa1OGbya0jv9p3ZUzuu/P0HWcEKbkrcvzLFmvxOGMGyjYRWOE9CpWo9KkiL+h9oPJov54188qkPXipTcn7mEeAEJx+RO3hqInIFpIznp6S7RX+PAnjAaVMEIQe2PKIj8L9kJ6zYOAHODN0thLS/W0XkMH5UCZBDVbRz5QnK7tlA1yc31me89ljC2HM66PIqCocaKYDe2g3p1Ko3N+DYYHMjMqQi2zFTIAAjBA2LW8bfyQLjQL2gDtVo5H8dLqKxboov/xB7+Molyn0ZGhBnK5eEIhSmsZFAGi88iZ/6npi6PPjbc810jhJkg+65pgZvuh7Zuc6jqJY8Qm/gGFPnarNB8AOJ7W+d5bHUrb5QOkspqPZiqt0/5sVY98gETnphPU1af75s5/Xx9WkZMkh99o2ZQ1COeMaAYVHYciMcBAAiJrt/xb18HlE7YDtFlTAKp3Vwa5h89Oc0Jl5uXlvkkf4+ytE0Oyd1b+WblVxkbyiNTSpj0vKLHvg8YYAA==
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoKAAoAAUAmJQBOgCKmEhQOgAD++i35zsSAes8mpTMneyymVcXnbIaiudNy/29c+lxHw6y+C5qtLi3j7GX4leevqSxqPlqSAPAAAA==
 ---
 
 ## They are Self-Cleaning

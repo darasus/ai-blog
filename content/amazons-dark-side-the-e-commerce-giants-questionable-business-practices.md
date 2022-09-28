@@ -21,7 +21,7 @@ intro: >-
 
   However, if you look a little deeper into how Amazon operates as a business, you’ll discover some pretty sinister things about them – many of which you won’t read about in their press releases or see on their “About Us” pages. Here are some of the darker sides of this well-loved brand:
 imageSrc: /articles/amazons-dark-side-the-e-commerce-giants-questionable-business-practices.png
-imageSrcBase64: data:image/png;base64,UklGRt4CAABXRUJQVlA4INICAACwDwCdASoyADIAPm0ulEekIiIhKhM66IANiWQS4AK3TR0dvgGSC8wbV9Xm3L8wHnVaYpvLn+k/zh/L7WnM88g2oP+oe+d/sya5quFFZSr/lkpsePbi8G2w3g5ldDlyNa9t+EbmYzlxel784uDmsGNea/yvg3npTUvBzfNXvwG5uAlmyW56gAD+/vYyjgbCtK05906D0l7jEfPec4aUlugiRzUltv1Y52Nq7/9s7CLaJCfoFXj+CnFWFUooEHpl5FdXxvqfvkxUZSJCQS1D1S9W1+JeOiceYXdGp7rw7PeU+dl5PrYMzbdtydLx2B85uzTcDISSS0gfWvYqyff+95spizB1i3rx2ezU5kVssOhquH1vj+CvbnvCwVC4NCNyi/bRMbDdnxv+TebxchXmv1SpEgKekygwHPQpHSUBjSTmIC2crfoMCWnLs+VqcA/XtELXrKD8hAkI/ZYe057ScL5AqIy5//YvlTMAHmnHoniFamECkdhP/pZfmr8zBHzS6P/Ml39EKOfTKfbTv/cAeefulML+FUrTWk4ng9cI+A38/Lr0FmwQXmYZY+MCbESQznvVtgzhXuXLf9Z3H1Eu+VxhVbLx7Fc8s8M4IdTrB7s5MDfCNuS5/EanCmGVHEVpG2oFZRvrJ04104gQf/H2HH+iXsLhYUAJMAbxia6wjZ/6n4Wfb33NOcdv/F+/K4LrOJdWP2RIsR7fmLVUNM6QcXL+Xn91AfRVn+rE/n6NlPXS+KX0HVTtkz8X3sQItOCAikj4BEdfpxny2H2g6f5lDFDD2nFTRw+j4oP4Eb2LlxKtnbEJjHIcIXlhhA74DOUEOcpSGvb0MWGNxk193h79M68EYacrnVclYp/1RfyfNnorFVNsmNOgtMOa7S6SmbiCnpgtYHRq5DfBrkedhRatcPsbwQiRS66AeeoMJ3vBG/12ei12d5UVMARV8ZW0koxl3YAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJagCdDBAAWlX38y1ONYAAP7+1ZKeWJTsczL8em1JrKPRH7mfn8K0cEdwwu+KY9fDBeHm+jBAhn1WKgZYIlA6vJT5PVjfsn0ibvFx+SiEbrkHsjDeCUE9A/06u8rtqaNAAA==
 ---
 
 ## Amazon pays employees 15% less than the minimum wage

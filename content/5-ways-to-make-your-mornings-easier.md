@@ -19,7 +19,7 @@ intro: >-
 
   These people have their own rituals and habits when it comes to waking up in the morning. If these folks can do it then why can’t we? It’s because some of us are too comfortable, which means we need to shake things up! Do you want to be one of those people who gets out of bed with ease and has a productive day ahead of them? In this blog post, we’ll tell you 5 ways you can make your mornings easier.
 imageSrc: /articles/5-ways-to-make-your-mornings-easier.png
-imageSrcBase64: data:image/png;base64,UklGRsACAABXRUJQVlA4ILQCAABQDwCdASoyADIAPmkskUWkIqGY/HW0QAaEsoBmp7eH4c9dQsDsxLlPAuLb8hj+veg9n8+q/YJ6S3oZhhpVP8QuWlkvV0yl9em0pL2zDP90BIngCBiccDLG7jcnhrQvbqn9orib3ai1prc1c1zJAjjPNgT/iKhKGd8dLj2YQR3y6WsAgAD+8j5+O+NPTmTHWSoE/hEx2uhWXy/FoPpfetflsheG/QR6Wn+KcwR78cQ1OnnBzuOTGZfZeVETOJyFw2z+QHVLn+h8MeV3Wmtxmxd4MttVJUDxrSxtgR/49jheXSYJ+Qt1ls5Oy9luNbikUEBzsxoeH/hTouERn+coqiXdv733/SE6GfQOpeDq91rvGvylF1w7a11P9S90ltuFBUxQVwWdTtfkwj9dO69iFrLnPFg7YaecAsi7wxNeNbb0LfDxZL26LxRa/vyfjhfDAqvMTTJ7gEc1bw8X0FOtc+4wsf55+mUlrjN2EVvRysRvM3MlevaaP9qf5/MXpggLeX0LykZfl/7VtH/d0QOLt64WJpTo/ES+RE9UZwV0dU8m1D5lkE5+41RCZVk/xF0nrgbIpZ+Uxg+2FoIGkGAnwx83iFvrY0K8S0WApqfDu3ZXlFKNebKD3p1wG7UUXa02GyvvjEwaZQpPDIQP8tIkG2Z87FlADtuntXtrYGGbLRam85eqlNT9GQBzW8n4+0EeOPNFeq0EcXe7RVrT5bFsBGe05q6hINpqgDsLtxP/wo0/zlb/goOpok4fOzDVbEyMmyskfXeZ9foiWIgaexPPbGM9BAadgIGqEp2U1ZEWfIDD1QUcazVMaKTnxSA4bhziGXy12Hc7fjr48Wh1AsSGwbZQ6o2yj1Y6FaFcZxnR6IFMZZFJBHBXJGiKbH2AlHJfcjQ4OicYr/6p+THTZJ4gALdsCyQAAA==
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoKAAoAAUAmJQBdgCHe6B5TAAD+/DhZqNgtEWmHF4rxLXUSqZKr4LmAwfRjj1ONckI71k7Ed5RDmPU9t1xX5O96QEMCF2pkDTwAAA==
 ---
 
 ## Plan The Night Before

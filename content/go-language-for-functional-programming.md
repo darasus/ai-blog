@@ -25,7 +25,7 @@ intro: >-
 
   In this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:
 imageSrc: /articles/go-language-for-functional-programming.png
-imageSrcBase64: data:image/png;base64,UklGRvACAABXRUJQVlA4IOQCAACwDwCdASoyADIAPm0wk0ekIqGhJhqsSIANiUAX3oEZdc4FkqzD559+S+TrfCZwD+u5Jr8j/19sC9zecv9O/Wj/wvKV9D/9D3Bv5R/R/+Z0wHsx/sAYqrEyZXMLwYREeIeqLx9K9Cltm3I0DFob0GR6Qzb+dAbAQIPyx+pxUBXwpQYL0mcZAAD+/Xgdvsl4ilA+zZcsANsGQByDl4xI0Tun/XG43/EKajp/4GnUK0XpSo7QOHCSUbUPMHg8sJTSKZtVfle9gfkEVah0Az/uL6a/GZFA2Tbutpg+ZqTO/3wVFosG6q5Xm+6tq5fPg+bPewm8oZ64SjLo3RwHpElfs7PhYU0lX/rwoolVMPIc2X9VBT2LeCXnht8+gIKgLYJl3LRekSPP/46jPv2igYdnlPejakj3xTRIEJLuJg8tu8Es/7BS6UnKr7bIoydLX2MkJhYXcZC+x5It9JeGnnE/+8gqncDS+80ghhB0rPNMYCvmE/8Ep75cHbQvpBWJpDf4rK+q3RS/9uBoSwixMtE1UXcZd8iEOy4/ipXBKRSF+YFJNzBXvGmGSVfyyCJXumiruT77kT3S8MSvH+PVggz5HDwaRh4LDAqt8/wwh+fCstuRg4dthFMdN/R5Bsk8mBroqn2FTH/7vZwVtE4p2fOulGbrdM6TBlOqaUxBns9g640tP5KgbQ/QVsOspO3OHBOWvdCN5v20dk2gOFEwEVzduAnhTD80uH/1Uo4V/lPbZgGVOqFD6XfJomQ+PpH+hw+ePzFIra7DNmA0Rwt+93rCN3m8MH3Hhp+UceXr/nnH/bXCnRzaewHfgSdlekP0QXBQCvuP4LYPjuQELj3KiNXwvf2Zn56UX7iFNCRTZqv3g7B0+OH16lxs1cWsDj/TP/dZzxYaIRzMP7hych/+DX/rDEnjrFfvwcoY5KNQoI5ShZSvg/1pJ6PmxcQrEKYQg2o+/FeIp3oyCqQ70ahuIMpjmVkj4AAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJagCsAEO9DwAwGAA/vrcAZTMYIsg0uKZM2X5fRfYCj5fWBh+ijP97mV5i9xi5+l1P88Mm+vXyEEFn92AXP/URdg/+0nf++RSgAAA
 ---
 
 ## Haskell

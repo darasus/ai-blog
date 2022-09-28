@@ -19,7 +19,7 @@ intro: >-
 
   A few years after his divorce, in 2003, Hawking had been able to complete ‘A Brief History of Time’ which became an international bestseller with over 10 million copies sold. In 2014, the film ‘The Theory of Everything’ was released based on the book by Jane Hawking about her marriage with Stephen which further cemented his fame as one of the most brilliant minds in history today.
 imageSrc: /articles/the-theory-of-everything-is-a-touching-biopic-of-stephen-hawking.png
-imageSrcBase64: data:image/png;base64,UklGRhoCAABXRUJQVlA4IA4CAACQCgCdASoyADIAPm0ylUekIyIhJAwAgA2JZwDPZdzdfcnSDe1lqbZGky+J+p9WIhsgI3mhJlNi5MkUd025Ent0d11FWMqPhxLJKvfHsmETj0mJY7CiJJW1/8Cq+HgA/v7htNN7gUiGUioM57+DLbYpwTWaGOiljaXiINAIr793FEMqSwxfGc1WC/lzjQPmE6IGyBWE25FfdlPZYHH8kxZhZNSQXYHy4EUpTfKNDzIdPSVqKba6m3AjqZp5gmGCX32mL52CieSafmpRX6dp/Zeu3Zj7du+tN4jKl7iGl9TFX/iblJBng5b9Xhu13jMYDaaeRlEZR0kgV88EJq7Zxg7pXZYroCnsHLoFAZ5zHw2h3KkjmqtvcayqJa5qykvYhmLVgiDVB1aR1JDkf9+o3TMwZHZM6YAxNPIp0lpVZi8AUnOZJ1jHQDN1E7VFZG0Y3HcrgMrN0Hv/vKiQBsK/COUloFNG+3HRXCWo1jhmC4kOIiUJ5rIN1aKiEN93hWsT+sZjrZytoPhXTiHJFvcrxMQhKfcWcCUU4aYt0Kfb1sX9g6/+cKOdwKAtgsekQ++csbPHNs7qnjncsF47P1kHTsJ3A/NZhOO1+PUCL/ZwA6Wm5il+WpgUDterZrnxltJtOmzjNpzNQrmTYCKRhfKveOQGIfrf1acVP9WKOJ39fL+GZcPsbvFzzIp17j1YAAAA
+imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoKAAoAAUAmJZQCdAEPehnEAAD+/tZGlHYHPB87WnYFFnyTeYG4JaH3+CEy1uwhceHd+QHqoxV8zVUPp/xJyr6x/nBs7HoXKvV5kGjAAAA=
 ---
 
 ## Movie Review: “The Theory of Everything”

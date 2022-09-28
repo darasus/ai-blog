@@ -20,7 +20,7 @@ intro: >-
 
   Keep reading to learn more about no-load mutual funds and whether they might be right for you.
 imageSrc: /articles/what-are-no-load-mutual-funds-and-are-they-right-for-you.png
-imageSrcBase64: data:image/png;base64,UklGRoQBAABXRUJQVlA4IHgBAACwCACdASoyADIAPm00lkgkIyIhJhqpOIANiWkAE84/QIxV8KDzdfqJ6leZP5m9gboq/rAP2TdQ7jr1BFG16g5pOhtcP9X7ZS/PksCtGuAA/voWNvym9+TS2JgsKbOxnH/mY8/BhMfo2a+gT8Jc9zcnYdYvb/3Qrzt3Bn+6rLTin1qGTJXop+q9XkVO8+eD9n/MFzGSc2l/RMjAH3rp9hc19wILiKMlZmcuyVFV0U9/6gt/T2RglxXMcc6/52Q5NzpRY4VDUYTcm6xXcl/2cLFpTTR4c/240X0cmEfkuxfH5MznS/6KLkQmXi++SJR4CtB4Sh2XOHNzpm5gDW5NDjR7t1svsZ/2eGjNE5cUn0Drpp9p2zpc2/igFk3K9CdQal7qAxz0NMm3/vjnJrdYG6JOhVYMeREB/4lxfaXnZLIHWfWLW+vsHOXTbwNDe8Z9R2I4Uw3yK/1hZIU/MEm7plSAtEefexLxR/4KAhezUh/9pE8CqDxgAAAA
+imageSrcBase64: data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoKAAoAAUAmJaQAAu178QWYAAD+/OW7X9T429zH7WcG73SuedjkOMmBMoA1X7Ax/YyQAAAA
 ---
 
 ## What you should know before buying a no-load fund

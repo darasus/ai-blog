@@ -20,7 +20,7 @@ intro: >-
 
   That’s because by the time most people reach their late teens, their bodies have developed an increasing need for more complex nutrients to fuel our minds and bodies throughout the day. Instead of drinking glasses of juice and eating crackers with cheese in the morning, most adults need to eat something that is substantial enough to keep them going until lunchtime. Thankfully, there are plenty of easy ways to accomplish this feat while also saving time and money at the same time! Here are 50 ideas that will make mornings infinitely better…
 imageSrc: /articles/breakfast-ideas-that-will-make-mornings-infinitely-better-50-packable-lunch-ideas-for-work-or-school.png
-imageSrcBase64: data:image/png;base64,UklGRoQBAABXRUJQVlA4IHgBAACwBwCdASoyADIAPm02lUikIqIhIgswgA2JZQA1DXPdWSWRGfoAdFUl56o3HRSNbcrUMOnCRFL7fSzJDcILSGm+33DglWAgAP78ZI94/2AYaUNkzynF/hGNp/8NjxAr0Jut676x8rdWZc9xhxLBrvPLaBX+AvOKW3/YDunI3FD+0soJ9+OBNoKtvV2Ewtw8yGUgBr+VoObWzvyJ6Yae7CvQVHLmPv+0ifJ4+uK005nF7JMCXFQeUyhZ3ntZX6rzVxisSqPTaUN3+fIbUQ2SQ2HpA905Oh8LjTd8NIHFe6L3Hv4wsijvzfKXuwWrJ4NWx/5sqN/3jGNFuS4UkA47wA2mJyWD//25PD/jXTlaxqhrjaJ31G+Uyk9/7V249vYamP90nC5+iFJqWEHTkTQj/KQNv1bQ4eDJZYVUx5i97kh3dzMZmpAMb1Z9yfCivnsyEa4cBNE3jn3vb/wzIqm7gp87JLlvsKJaH5egzSESy9t4VXGlgKJR4QAA
+imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwCw7ELY0xBtIAA/v62I+zzd/Wquu2Jqo+nwRzjO6/8kC5G+Nhy0SCTpzjsA8OJRboUSwvgs5MGwYIy2OiAAAA=
 ---
 
 ## Greek yogurt and fruit bowl

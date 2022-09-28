@@ -20,7 +20,7 @@ intro: >-
 
   Coding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn’t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you’re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.
 imageSrc: /articles/the-best-coding-resources-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRrwCAABXRUJQVlA4ILACAACwDQCdASoyADIAPm0yk0gkIqGhJhVcSIANiUAQWm7/7lltd7efG01XefJh/bMtAOoEqCRtf4r1DM5r0t7Av6vdacuSBGryZz27PNL4CgmdHIWAISHgFMe+NC0TrV8gQ1B8ujZ1+zS0kyfkG447NcQ0ZWYExXEAAP7/Gob9pjfM+V7mWJgkKGU5chhVS7NN6xfgak0BO6NzI58mgCbpVSumhVKpejeTl2/FVrdHyOnqL7/V8RrnQRtF228PoXb9+EoFaHrgpWGnlOPu6MzoBDHsKRg+72XMpK9kqkjwdi9yveLn71018g8NoKnwpfeboZgvu5aGqMpFpzEQ1jOyF9hTx1y/Gw32G6FFI7fVsg/Gycj0zLgmP74Tv+5/NMl8DrMfUPzaNyEfqlhiAEq+Dbfgd1o5TLgVNruZ1vtGpePUpIZUZa8Q+ZRoz/YOG1qTSwQtyDvmIfHBMn90N23GHoI27PPOM1yguNcYOKRcO3kdisWvzxqC7Frx3QeZSFCY9bq/1JJ31LezUpLkvAsmfpqvDRDliDWdr0gw4EslTeHp/sjGmhfJ96IIXYkJvNGZKwwbGVmWvYYYB1gxZU28wHfg6rJt7k4bYKmm2eH4Y0I5pAi8HA2nB6065oSyfl/l931zpG5bsep6W2KC6volPdqS9EsATCgU4pAT3Qq8agEodm69VBe4827sDYzNQf3fPqtrOIg/RqSPFIWggXnQBOJxvH1i69tgUHEeHIGhvpoIPg5yVkEEApYCpBQT2YYX/24PPpBoXdqQE9YNz55JuGmoiuuJwQnm13/bASvXGqS4sjIajPg3s9ygrx6VV/bv4h+w6/phBE3Irkds7aJJiQwfloZoTgU8tnax7RkHjR/NKcf8jjhdiwPyvb4DcXHPxQSkHmyLRsylOyyUM4LJAAAA
+imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoKAAoAAUAmJagCdAEQ/Gs462AA/v7APLCIA4g+D0FBl1OT5x99uXsqNkY3muXgJ8+wu+X+XqKI3F9ZkehyaE1soQpL/+xC7Z0/FdLN0oAAAA==
 ---
 
 ## Codecademy

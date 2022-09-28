@@ -22,7 +22,7 @@ intro: >-
 
   With so many different versions of the Macbook Pro available on the market right now, it’s easy to get confused about which features you need as an owner of this device and which ones you don’t. Here are some tips and tricks to keep in mind if you own a Macbook Pro:
 imageSrc: /articles/top-10-mistakes-macbook-pro-owners-make.png
-imageSrcBase64: data:image/png;base64,UklGRq4CAABXRUJQVlA4IKICAADQDQCdASoyADIAPm02lEekIyIhJhVbEIANiWcAyjRnxTes3QdeXdwMrvxnuW96xqBSOf8B4c0bv+39O75289f0p7BPSA9E0paJMbmCU8mYYPUoWwicFuiFQHPHubVrsdfn/1avDatxcYvOJCJMcdPLZE7g4FyaCAD++lqyuonudPZf+id218CHpqfFP3s6v3s0e5N0Emcf4FrdkCBwAtUKm0broeCRwGHxf/v6IML5uZWjKTfL+CE7Wbp52jWw8A8Zo8Zhr2UQWiX1wO/Mz5/e7U3TnM+yOID0Jnd711ky+W0xu1/JwTqys9263SofWrfaG5/i3rjES1Vh+dexYIOVwkueRBq2N7O8NT08FvTs0hAWaSxHiu02yiR7f/rPUEPyeZ1NeSvcYTEUEpH9NhH+IRs5qbwcL71NCJkjzf72kkZYtB93Idf7EqTe8/oe5hOXJdpFnF9v9HWujba/rX8P2aug3B3v1C5MQECHjVQ08nZ7OyuxI0UXtlfgIlvhr3GmQBfmZY/EPpnAj8L1vajx+n42YWxmi7Rn6/KmTrH0VBTPHz79CW/i/CaADMxRKBLgOY3rAcbSVKFpVVy77Eeii06Qv98zJDhSl11ZDEVz6/zPnwLeaesf7AnZwP4rxFF0xWW3TNLvS1fRzEHhmhCCWbtnnmL0nZOsNUGvqfnvHzrv8/Ye4d7oW9/U9OEM/FH9vf59u32TQv2guv+c6AkSQhtPUx0atjJLzJt9ye5mC8dciKwE7+RQGE2rpVeAt8Mc+Uq0LZeRgLHDs4H6h+KX3v/XGhEb8FK0Jf806Jn61zHHfiyIUeYYTJaeeH2p810pju2XLdQpny6IDSc7yTmTFx7b8lHT1c8SOJM4nrti30WHqeUxJyUe+IDZB1ExxoAAAA==
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJYwCdAELT3wd+VAAAP76gQuLbbUm+CejLu9iu7NN+11y+bqxgnNQMpaLtO62Y75epUXeJ3jZBKx+1new8pDX7epgAA==
 ---
 
 ## Don’t store your laptop in sleep mode

@@ -73,7 +73,7 @@ async function main() {
       const image = readArticleImageFile(basename + ".png");
 
       if (image) {
-        const img = sharp(image).resize(50);
+        const img = sharp(image).resize(10);
         const base64url = (await img.toBuffer()).toString("base64");
         post.imageSrc = "/articles/" + basename + ".png";
         post.imageSrcBase64 = "data:image/png;base64," + base64url;
@@ -89,7 +89,7 @@ async function main() {
             "base64"
           );
           post.imageSrc = "/articles/" + basename + ".png";
-          const img = sharp(Buffer.from(base64String, "base64")).resize(50);
+          const img = sharp(Buffer.from(base64String, "base64")).resize(10);
           const imageSrcBase64 = (await img.toBuffer()).toString("base64");
           post.imageSrcBase64 = "data:image/png;base64," + imageSrcBase64;
         } else {

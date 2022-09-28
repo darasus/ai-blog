@@ -22,7 +22,7 @@ intro: >-
 
   Self-learning has many advantages over traditional learning methods because it means far more responsibility for your own advancement. You are in control of what you study, how fast or slow you proceed and how much time you devote to each subject. Here are some reasons why self-learning is so much better than traditional methods:
 imageSrc: /articles/the-advantages-of-self-learning-over-traditional-learning.png
-imageSrcBase64: data:image/png;base64,UklGRvQCAABXRUJQVlA4IOgCAACwDwCdASoyADIAPm0ylEekIyIhKBgKAIANiWUA0BAqAh5/+jAbzsfkRArTX9ox3f+q4wOCA8AbvLzgf7n0x85D0J/2PcF/Wz/l+sZ68v2A9lAp9rIk6E3QEQzbESdFuhPKMbhISvu+Nui9gsuT5pufRaRgYeKbFDvx+B6gcy6Sb2Lgl4X1IAD+/mATT7BOP8aFxBJCtSW/04uPSbRJouQjhRVcHNK3/Wruv4BXAXfpmIA7gs0XWFyTgMHLxyZf4cAhxijLHJwK56XJ2mrMxiXHAf+x0vdckF6nlW11CdM8jCvEpeVB+UUdYSPjAtUUOk64Y4UPo3/T/95FlCo78bXs53/x6TNJbvcA03/qvbS2r/PSRTOw5T8O5H1FiOMLW+Q6tHeuzCFSPnUf/tuV5q3vrtEo7mTWEnoprFgX73qxqaGXHSB2eMPTJ7vQ55wNzReo3GJaVWRhZsKtpGL7so4kfkV7kAQ5T/u7rZ/k4EuAPgsK/QaCvL/xU372D4jTYnovkZHVgthL/8C1X/Hxn7h20/9xLR+9dbSuIkreixVvL7qQkA3OSgGPFppvTQn/D8NzOLoiArb5XHF8M0KE5sklQlnpZnaZjp63D6OwNpYeV6FT+5EQw4S7m7jN//38floR8+KVHaL/yR55gT1B2qoPjx/7mkfzM/+rTp3ltXu0SEOZtGlq+YgzJFlpb56KOvMIHxSfon1y7k4U/VJarGri7jIPTaH1iWKFzlZiX6k31jmYZL0tgNPooq0Aoxb67sBnfmIRd5E5O0M4ALivT+Fyp4mT73hkc8CNqsakep03b4NUKZoZAyDqWpTwzMztTILyHhyVYwXb30aB4/mtmDy1C4O5ronxhFJTzJdTwdQEZDwqNXuZjnC/vlUrwUkDcaZjVqNKGWfhzjx+6U9rnnMdv/79eRJjp+cvz6uyfuLlODclt1ehGjxhmTX132+XNPVUMe9ZNhvRsxqcJxMoq/0g6Q8keQeAAAA=
+imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoKAAoAAUAmJYgCdAERHsueB/wAAP790n3CXv8tIWboxLAVleMx++gAh523/po1S7WfHw3xUwp/U3RNPOP9tVNGzReThaitTh+LUa91/RuwAAAA
 ---
 
 ## You Control Your Learning

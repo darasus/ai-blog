@@ -20,7 +20,7 @@ intro: >-
 
   However, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you’ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!
 imageSrc: /articles/building-a-hibernate-application.png
-imageSrcBase64: data:image/png;base64,UklGRkICAABXRUJQVlA4IDYCAAAQDACdASoyADIAPm0sk0YkIqGhLhkqqIANiWMA1EOy6u/0a9wGcA5/8/E13SZdrekGwW8ZKOd0T5W8X5rADDHQCoGaCHiqm98qi96adyO4Cgl9i8M91FQWj+bCF7AMdQfda0iuW4UVhCAA/vpxoWBIOMHRCCmm7mlqDCLnql3adTAjqmrBJythn2alZNa3GQfTwR+LuT4Pro+sVNCiLJBAeDzMh+9xQu3aE6Egl57vAg+cbfZ58VYP9A/x0g56gNHFyIgzj5zEgT7iSPexak/Kh1mjLzQsDHt9vqELTBp08WV1/YWNdJdrO+14SJ+OfbvUmNW3Uag8mDomey7UM7JbmAwjTlT9Nq/cCDqXwt8vfckjqnbt9zl1wfBNkIO3sNw99xvlsHuJ0It3ax/eBiBV+hMlY6uxXPramvBEoIjU7XpDvTso6FZSJaUWhLiHqA9CPwL2Qs1azJUvzYvkP757U4GDHfgvLqzOdZe9PGyeghUgh1HTLrqwYt9Mf/vSlu1aqI5B0dPJDctRVlEbw39/4bq/34QXv/iV3/b42vmd/Bw2q7w4dX4KJ/ghCsZH/P9FxCc/4mia6Bq34k31b0+p1ugbT91ZdGOkLzqruv8KVNxTv3EYNVzWwYT4HiSaPrMCa0gGwISnJ/31kjFNHX7R6EXXPhgAs95QMfIRH0EbCZmt2TlEodQmnOlmM7CgNBsHO+Ww9U79195Gm1Eq5nA4J312wOqjZD4RwAuh9PITyDQ/ZGwAAA==
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoKAAoAAUAmJagCdAEPh9ZiVBAA/vsU6UG1dRPqvdXi8eoqg7qAcvrKjKesUy8Dcym/f0jMVhEj1U27cgIDmvwhgwLAjhQS2AAAAA==
 ---
 
 ## Introduction to Hibernate

@@ -18,7 +18,7 @@ intro: >-
    It’s also an effective way of steering your investment dollars toward asset classes that are likely to outperform over the long term — essentially, away from the dangers of company specific risk and toward safer but higher-yield stocks with broader market potential. 
   While there are many different types of indexes, generally speaking, an index is a statistical measure of market performance for a given group of companies or other type of asset. An index fund is an investment that aims to track the performance of one or more indexes by holding securities that meet certain criteria as closely as possible.
 imageSrc: /articles/the-basics-of-index-investing.png
-imageSrcBase64: data:image/png;base64,UklGRuIBAABXRUJQVlA4INYBAABwCgCdASoyADIAPm02l0ekIyIhKBgIqIANiWUAzBRpDc9wAnQTsDzb/4z7Zvj0z1vPuoV/pmRaH0UAag7O5o3WSBEqM4m2N2rH+ClmWGNwYMB+kezBC5aR9GVaaAD+/Z1xWZwXjDYMRyrofFB1vI/wxBNBpqDNTs3qwHhFgM3XbCZK5JJzctzkf88y5COlfBvC2i/1xtYRgbtzGXsKm5yZjSn1N55c/mmUgeh5XCj0robWsbaVB1cr0vNEOA4r8Aur2Y2Iuy95GvqWE/3f+nLWTdgcSIjfVJKr+l8/XlM/8QeYJw//Nac7PcGCCtF7iebAi1zqLQOEzeGlbnW1/EdBbzBUA8abCa1E0ctFiXY9L20IqD7yk3nq/n6RUn4nRMeAUBX9N0P8CHti4enWqKjcpFCqgEsJ7SOq6rKVlVV3AORev/hR1Cbz/Jc/82prhx7mxQo+KmK/rprhz/YvNzP3Oj/u31xzUeb1EC7/1W0V9P/+b/ncFJCineBSCufiPlaYHYbIPQvr4kTVhnPyx7OzNvah2ahd/xK4O+ptGyiT9nPfj9x+ntPrOjPpbav/hi1qLDCRnlcjXuzsgcg0ksPQIPjMI98faHURUQJOw4p8oLAAgrkAAA==
+imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAAUAmJYwCdAELYXFSFQQAAP7+W62uPsAFe5LsSrPPQNNYPnlkVTnT/dUd4bq4wxCbmwNnqxRapkahiNT3abbaHJ8AAAA=
 ---
 
 ## What is passive investing?

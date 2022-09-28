@@ -21,7 +21,7 @@ intro: >-
 
   But this is how investing works — when an investment falls too much and it becomes cheap relative to its intrinsic value, it’s time to buy more shares! Consider this your ultimate guide on why Apple Inc is a good long-term investment. Keep reading to find out why you should consider buying more shares even though the stock price has fallen so much over such a short period of time.
 imageSrc: /articles/why-apple-inc-is-a-good-long-term-investment.png
-imageSrcBase64: data:image/png;base64,UklGRtYBAABXRUJQVlA4IMoBAAAwCwCdASoyADIAPm0wlUakIyIjLBgJmIANiUAZbKgrE9AvxzjUc8VpnJH7W7oTKvF/hix/d4bAyUs06MariXUOi1pD/AhL4HqkpuA0FjcSyWuJaWH7N96fgJBEWJEoUYIaAAD+1Zgdlm0kzTOdZ0dAgIN1yCAq5RLtp0ktl3ey06McumQvvth/i0MFbrR/LyYEc6sD/pNn8tD/SnC/89lDdbij+BR/49TJ4ZdOhzgeTuVbTq5yuPy6Vv1zgwv1tr3QTgqwutTGj4+YfZpu7fUwHyzN7sWLHnVm2W/LUQd31xhjsf26Mr6p+D33NMZsyDZusVFQF+btWELlJZUIMNRxR2EWOraLX/9L4hIvE1+y05o//wjpMazWVY6ClnwuWJ/nnFeRKBluh9Rs5lCVpamMX8axyp5XSPEWce7vRRg38SxP5GGGlgDupmv879WeKEwpG+trAqCaAabdqPwyoyrMEPHGDsuF4MSTH1y4eyJ08PdBl6niPQGiI+ExUp9vq4ufej+ZUyDYDfS8Nt4/rWpdl+hJdbXWqJg0lt0/VxJTixVFh6rUSXUqkouiPujjJPZ8qNVpqgP05TBKFRBKtjGJhr13dcoQ0AAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoKAAoAAUAmJbACdLoAAne1f4yIAAD+1599hv/9XbWmvUKe7px/41CF9CPT3GvlKTfYKFWqoB7HmHg0X56P/hcYdrX2fNXiv/0npurLmP/BQr/xTL44AAAA
 ---
 
 ## iOS Continues to Dominate the Worldwide Market

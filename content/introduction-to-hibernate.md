@@ -19,7 +19,7 @@ intro: >-
 
   This blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.
 imageSrc: /articles/introduction-to-hibernate.png
-imageSrcBase64: data:image/png;base64,UklGRgIDAABXRUJQVlA4IPYCAACwDgCdASoyADIAPm0skUWkIqGY+40kQAbEoAvj/yTMEXmOr/gJGetEO5eZOmtx2eiXn8+mPYJ6MxWlCUO45I7kuQbWkKACjlC2xA440gE5lELovEsHmLr4tOznblNar/JcLNOk3AmEFVfVjPLlWXVBlCqRDtqmV7/lphis4mAA/v5vFL73hvX6KgCAtPrHIjVYWEIhR/+0pYU/4rMvgemm981Pa+aPKOdmm25fSh08x/0M/qWqELdLtJEJuALvhy4freNi9U+BMP8xsv4fN0awkar7x1u+0am7i4PTzd/+nZUrLDibX5WlHSUgE/7EugzfR5BH8i1ORTsnGs5rP8KG2LSmWJ7dQYwfo+T7OW9eRmvW6KLP72HcO3eI7keJhccazxJEJOzpzQADU0Nh6+ZM6ur+LUDEXn9m0suwkR00ovFyXBYFYm1gARYRxXQY0D0xFhimv5DEO2EkVLKGCW7K9Zywcain4EO0Icl3H3oGgSfF54tZ7ciFr/iMXQFHrUGB1kfNOmL25iWnj2IJ2+OXViUrUvKP+0y8xmK4ERkEoUW4PF6sghVqttho2BarjlH/U8IMIuw+afvTqxac8iWShf2Q0E+36UEcHBW2TJ8s8HVWGAQeW1uJ3GeZV92sND+wJOPp+P4fIciy/DAPyM9kXBe21fWUruDT/O6OfHygPCc/l86Xgv8y7OVKIrc1OsfueyNS/w0lUR4/KrWebnbzWp5FCS4IRaPSM+We6qz1oVybxH+vgsYbRPU/OqcHxfVfzkA4ALrtw1tIT8jkJDm0/q2ij6dBM7V+lTXdHVhd4OnFOwsJAElQ0NskPYuH+N0BGmlpyyCqPcXKxF8HywdZpWAp5Bt81zuuEucy3DgFG5e0T43YcIWjEfVppT9FRNQQrILyerLeqKqWHRp9xPfXC2V9hXMTp3ayJ8WkYGG33xOEhpmGE70NC/0n4PF9NAIBRymcyIPx5fUejtzvF05sIj6T8CMMb5RNBCrT6YxbdXgDiIAAAA==
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJYwCw7ELY60ET3AA9r5q3t/f/wzc+dydeKKfO7RQ9fNTv4Du9P6D/sfhhNvved9IqhMU/nzImNdTlU6HoB1uCvdh1PLW9999eAnoAzONRRcpWCuAAA==
 ---
 
 ## What is Hibernate?

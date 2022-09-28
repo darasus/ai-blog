@@ -25,7 +25,7 @@ intro: >-
 
   Mediation can be helpful when you have a tricky situation with someone else that doesn’t involve crime or violence but still has the potential to get out of hand if left unresolved. Mediation might not be your first thought as an option in resolving conflict because of its non-adversarial nature. However, it can be a very useful tool and quite effective in most cases given its collaborative nature which gives both parties more input into finding a solution they are comfortable with and happy with at the same time.
 imageSrc: /articles/the-basics-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRp4CAABXRUJQVlA4IJICAAAQDQCdASoyADIAPm02lUekIyIhJhqrEIANiUAaEIL/duPriq+aTkgG8pTH97pkD1kKAE7A88X+x9PrOp9P+wJ0h/QzL3/t8G3510eajdIfizuVHPumUrLGXyOMutxIWcbd0qHtXKbPguH7vrBxr8ZYAAD++ziDf7pZ9/Jdf90vK0qDr7BwaUsR/q7VGUErpXCcGaNFtWgfrfp/NBgfFy82O2d0THEfW0D+c81CxrWNUDTTTTF9qi6ODYqgCOCVnurpAWdCtqr3ubmjpoR6UNkY5cgokmlUgJz5SQe5oSd8eKS8c5uOW51/zNXfm9Q19veXdscxjbc3OLnZQT/BrMN2h+l+mYqkfGKYWxvzfV8r/f+JFPijbjD8cH+uG474O2xLa/e6gKKTuq84tunRY7AcsFDkHlLyleV1w5sWYSVs0zOXSANKr74jd/abTeSmsHH2obN+7tNt33YP/SexvhvB0PWke5oV0xI5lRULzUfcivwfUS7152FT5y+blgVvId4D7iHzi3j5wFuD/3LaOwPVZ9vCeMHqre60KYNBJyTZINTKs7iQHjMZa4F8S9OQxcjZ1CBU/5SmK14Ny5VDNe+H5BQ8CLzHB/W2oDgZz5hrM6bOZnE5I3uWR7HVRz5uxy8ftumOkhQLvFwFEQVvFbWYfohKg9vcHQCgDXWw/F/b4PxRsNP8JriD+W73qtlA7LxXjVDhpfXFgPT2BngV25R6KEXMYYLA+WeHtU9RAsYoW155CmKaWrC7sparQ5Pj04FRiqXDSHo9CYb0FsE2eFSGE1ZNz9iADhLbXjlGm+5xf/uVJP51vUlW42YRQovz//yaqkzxTJbTgcz/iqcciEsf14CPwGVhL44+XO81RKIAAAAA
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAQCdASoKAAoAAUAmJZgCdAEQEp8FAAD+/U6JFczZzWw4jhq+zXV9hMOzPj4pAMfYLihh8kuhB50Er6rYcLqX31ESWhHowcru7URfXsmJb+8/D/k5M/hGX9Ap/7nJion5B1xubXnwAA==
 ---
 
 ## What is mandatory mediation?

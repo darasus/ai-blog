@@ -21,7 +21,7 @@ intro: "Games are a major part of our lives. We spend lots of time playing them,
   shooters, RPGs; you name it! Here is a list of the top 5 games this year that
   you must play if you haven’t already:"
 imageSrc: /articles/the-top-5-games-of-the-year.png
-imageSrcBase64: data:image/png;base64,UklGRu4CAABXRUJQVlA4IOICAACwDgCdASoyADIAPm0ulEckIiIhJhqsSIANiUAXQFM+T0Fs8Dgu9Ge2A52bTdN52mNv4DIArIbDbhL5z/AlMW58vqj2CCntQLZKZQ1A4SEjASWG5orDFYgIZzgKxbH20GqeBS4Q1DEUfgGjQ1w5ZXipSD/zA3Fr+l/l9YVNirAA/vtoErWE279OH+V/lGQ1ZjrKRtUykbSf/mXvQc+V7qL9BjJjcvzffP/h0/gq9jVeqHScf7s8ruQgF4NY5nIVE80wkKibVexeaQt95TCv55qFHzBlzh7eVa6x6wt/SoCAxpoYt2ILDwVEOh7RH29NSAixIGXEHzjaLJkqvAC5hm0QlF3b0Ihh7kDCXtrCvz4R+Vgx/92Js+rVOVZu116gBKRtBcY9Z1ypx97dKQpBf8nCC3/jFfyasY2Ph2crNhH1R3enTojc0K7xp35GBfRJ6yGt5itC19fVFQ63vlZzBDqVfxJh76rvwyk48j0/XCPYA3lhr/2SKqRSnht+uKYMVNZuSv8wIVjwBgAadQfDJ1TvQeR1D9Xq3r+vxpf68388Vjq4d4SQvU2cZoJd9Rkl6kUGv+5pyLTsGU9Rba7IywV0QHXTmIynhx8T+NeoZNmWjb8cxtXkuwIkgGVtjL8KLuGmUR8UcPYg4oSAcNmI2oCwael+SDxypVXdgwhy0FZ45a+GnZ2SDbaL/+nQQq4bl8BESCQ3Rlcahl0Q02RY06/a3z6T3NRnhppDjVulLDPgNb254niD86T46fRjGnju6YEmzVXLruYk8+5DcQk2wiWKoImR2v0ZbfBBXm8DVMVYQ1YQO854x98CfbxtURSc79r9n6pMnUj2y63v27/hkgIX3a3BdWbFmcv6hkhtc3FO4xSF9ihm3ZMrokDXkJhk/GAdxnSkXvQzrd5oOVuz88/VuCrRzR3G8Z3APE/zclvOZGJ5tdENtdirnss/mgxhMPnqzGqp+NeFRD1+fqYEMnAAAAA=
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAw994T24AP75ZewHbGuAVTFPFQu0HaTv6VKZ8g/kiBXoeXHKsWN0hQNu4j+3blLvrqn+/607jatL0r6j2Pjnxkp7n+4vMAAAAA==
 ---
 
 ## 5. Horizon Zero Dawn

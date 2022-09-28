@@ -20,7 +20,7 @@ intro: >-
 
   If you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren’t necessarily common words in English. However, once you get past the unusual appearance of these words, you’ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!
 imageSrc: /articles/basic-java-syntax.png
-imageSrcBase64: data:image/png;base64,UklGRnwCAABXRUJQVlA4IHACAABQDgCdASoyADIAPmkskUWkIqGZ/MwAQAaEtIBoLbdNdJmH/7nWAXcDydvPnvb+lP1N9Xn+c9Iv/L8lPz17An65ell63vQl/VUV7W3mNKqWSJR/7qPSZbmXCS7/RMWChp7ak/kwFAtoNHbNMb3n0FnaGKFaoVtNTsFC3gAA/v6Hfif++RjA4e72V9zWmJ4YYGCXkcK1U5PeJrs+/5ZQUS3qrtFpon/sXzlj8hORBkuBleuqu3/k62MeXqMOwveMf3IURLAzDrdlaiA4mRN9Fyii26dUOxzkHVYfza+ZtCIsr2VBTIv2q8YFJNNuiTtSRXQi32XpHrbGffSSIb/FPhqshwKVKzYiOEovyMPo7E7VzbOUleDc8UJCkKMNChSPHcoHjEvpZ6xyIUzWMmcXvdGn7YkoiEa/9wRCN48Tak3XQFJMUl6zW/XPcfkB1d/xd1gqi5d+KmS+Tgz295rWPCo7e0D4rS52EwHe8eQG+Ed4lEsnP0pQ1VoVfH5hKnLw0BP06DqEgLAuIvPJVX35ue5jNLuxac6eXh2wtIbegq969QZ+INsf7nDJXw0mmqYdVcIPH0uZ98CzIa9T2baT7joE8QsSkweitjEwigRQz7v0fvsXza4rBB7fVmrIu6sDbw3tKdDHQS3X2IEzeAy4Z/NxBCDnI60iI7+sf7IUVHFyJFg80u8ZwwSBoor7Flm5FX2GtnLwRDtqROVyy9CFpqZxvaWSUx9StNE9X/t1QgwUVjxf9KcSuCyOf9lNKafs/1jqUYe8AAnCVfoPRSt/m6wd7ztrT6INt+AqYFGEYWhWFp5En3Ih2JATuGzlG9gAAAA=
+imageSrcBase64: data:image/png;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoKAAoAAUAmJaQAAudl+kcAAP7+Wpn51d92OD3KAW53JZ4xopNZPabApelwRzbDQf8TDX3MI4AAAA==
 ---
 
 ## What is Java?

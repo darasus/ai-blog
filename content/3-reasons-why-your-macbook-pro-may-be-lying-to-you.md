@@ -24,7 +24,7 @@ intro: "In recent years, Apple has become known for its beautiful designs and
   to take action sooner rather than later. Here are 3 reasons why your Macbook
   Pro may be lying to you:"
 imageSrc: /articles/3-reasons-why-your-macbook-pro-may-be-lying-to-you.png
-imageSrcBase64: data:image/png;base64,UklGRtICAABXRUJQVlA4IMYCAACQDQCdASoyADIAPmkqkEWkIqGa+jWYQAaEoAt+tfCufL4W//+ka2/fPsEYBRQHiEmPNEP7p6ABoNrWHINDSXxDM7T5o79DZLWz1iN4dmjPzIv75sei6YvqKkCzwEdWh6zNMvdjpZqZ0r8FuZjkFS4ianCx4oAA/vNz7K3LyBJ9Gz/hnwLlyxwVuwnTP/1Tz/rGSdM/336okZ5WUmZ6yYMFvq6n6ccwJZgx//ENrbX7dxhj5GZQPeG6pEKPQ9tWjKmZfCnlJnOmFYDel6a6F7lYz/hEisdZMotZJK0OADbHgvVoPce2jRB/tv8iswP/NF//QH8/M/Yb3IHkmyRZKKXKndfkOLEu20mmaZ2a5BHFCi7dDTUlIpspb8LUhKCXGP7k1hlCdzwF0mBlDLA5qKXV5I+BP+vqip96K95Xrjp7ctF/eYBsj6n3wVcbm7f64S6Z09ZKpy+7bsS5+6zlX+qkxWftuTgPVLlTQQmCvBX/JmCKKjwPyAi1CSm2h+Fsz/7X/E/+icRNPF5yjizPxhKAdVYJqJjseSnnQJv2/jxJVsJbQ22R2wNFNH5eIc3/NjEllblzv/yvvHVAaeHZP3IDiPDkqDmxSEP9ytFNRjAEGlyKEu8Y+O8o8Wuvzbt2sbr3wv/HsPZKzYldk5B7kfkBUwat5bXnC21Vm+UlBYk8S3NYUWbyzcZBCxTwTIz7zfAPiYGZC3G0DddE6Tb2qcu6bxotOmz/tr+8BLALMDxxLl7LMqtZ5MMxMB8JD6eMpSDsEbhbIrMGH055OXOY7X2SPSg4IdnPCZ+Ns4od/YtRmlGf/c+iRVTTgDHcSnoGoyeRxfa8OvtLUoS5/xhNwU/ORc9LGnI+bQW5mil9g2aO8kudCIjCMtYOQePk3dRxXVmWDCbZtE+r7npcco6O3s/6iJf+j+5gCyEMob2wnmQYXcf/GDwQAA==
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJZgCdAELQW+fMAD+8pEwwnjfIJ1t0unrrScnyA+bH16Nqq+A36Y/Z8jR822/fwi/15GiFzgNbFIWgbEdyZoVbNYPec72LPVH5WMhjnJgDiEPF0tAFgAA
 ---
 
 ## The battery may be dying

@@ -20,7 +20,7 @@ intro: While there has been some great music released this year, the first half
   mentioning. There may not be many great new albums out at the moment – but
   these five are definitely among the best.
 imageSrc: /articles/5-best-albums-of-2018-so-far.png
-imageSrcBase64: data:image/png;base64,UklGRgADAABXRUJQVlA4IPQCAADQDgCdASoyADIAPm02k0ekIyGhJhVcSIANiUAZAvTJKhCMLdhwRvOcG/y3/J232Yn/3PLp9O+wH+sPWO9EAyMem8XzAoEpZmy+CXms+judg++xGBoAp4BqFMUcswDbJU4Tokd2SukkOCUD4lVPIScoEiu9v2pnvow4dXrDItoAAP7sIbWw+y61nf241+cqZAA8k483M0U+vwqbpSbB8b28RaGTqdv1Jvv/8z3r92MD1AXWaU222Y7Cw0tmganzCTOn3IjiEGh2qAgGQ1WGNIzOjI5irxnTJ/l2l0wIRR920XZK6/7//CcfU7ilEN4AjDqelYAsvMBKqDSBsYnL7E+y1/1whW2KY8Q9kunNqlnI9c6PvvG4TfOx1vsmsfzDyGj7EdgLDc9/79sYX5PrQ/WB+YCwovWaHp9a2yXFR5cIlQcn9OPKlQO6unRlQNuWgH/URMuXvdSFUuXhhP1n9+q7gHwkkQpGwwi/vQCt7/Nid/hHkrodtkzm6T8ujB5ILyR2jFjeL8FK3W5GWvkYRXOo7p1uj/Ggxeup27njlTA909PBfh5RS4Kfd299cj72VZnUr20oc/ZWZbLA5iFxb2XSMhYRgu/HmeGxUjTdh5rxQe3p4RIrXXCWekJBYCJodcAym3RC8rPsUOgoS96K6PRmjSwlOAc3XLsY+5uWOP+QkRxPqWjOX+MZjCLODQON7xudsDq/Tvo9nwPj6OQy9kqRQZDA6U0Y0rSF/57aN7hBLrZTX6XC3s+PCaDz6PSymJdAqk2D7ryRso/1iZ7xcJSyOPlT5E2qu2lfVT0b5RwMZsF5hlJ/z71Ky2K3jQTxrxe/Y94d6HoliRwiLRalj8YA2Kx5Q9K2ZX6g8/DQ5eNioV5deBR49VLHU8+sMqiuL0z3yz5Afrn5v27jqgMi7x5ImxIyjLmM9ql1zF938TrhI9avmDR5CnXFdjsOUe+d3mqt/4thlEkkASOYAuYSAFct/F+Thz3pMJdv01TE3BYy0AAAAAA=
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJaACdAEUo4Re/IAA/vMRSuKNjpUjFvyIf3+XT6vtxsISCv6KcVWbiNZAAuKIPnHXF/tlJI3wU5fyy67E+/M/3W2dKsbXoi+XmEYZESlhSA9O8DAAAA==
 ---
 
 ## Kendrick Lamar - "Damn."

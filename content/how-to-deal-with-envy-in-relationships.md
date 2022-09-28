@@ -20,7 +20,7 @@ intro: >-
 
   There are many different types of relationships: friendships, casual dating or serious partners. Regardless of what type of relationships you have with another person, envy probably won’t be far behind if they are important to you. Envy is one of the seven deadly sins for good reason. When we experience envy in a relationship it creates distrust, resentment and can ultimately end things prematurely before they even really begin. However, there are ways to deal with this feeling so that it doesn’t get the better of you.
 imageSrc: /articles/how-to-deal-with-envy-in-relationships.png
-imageSrcBase64: data:image/png;base64,UklGRnoCAABXRUJQVlA4IG4CAADQDgCdASoyADIAPm0ylEckIyIhJhqsSIANiWwAyBP5+4cPTv938ylPJA93fqR2y3mA/Wv14/Qt6AH9E/unWAegB5X/sa/tP+2ns0GA+Z/J6PlscqbmoIrVjxWDojOQnhhdMGZ/D4QJ8L1n5oWarbzSJlvLvM7JNAByKTi7UUUAAP70yIHfGH+o3ilCrLz4Rx+1z/DaKHX//FLv+KXf7/7fKJI6YC38yNdeAHoWzsIIIC+RG0qHzq2eaV0FmknTgfw9a01WGImYV0tX0mP5EbU3ZY7xBOu7zkywPVhoa6j2DneWy3VPe30PycKIeeEDTLGuRLtJs/sD6eOMhy6qWx5KpN6go6+OGCdhOv97QNt1lcZv/BWffZWGBueml/sAQlEEw3QPFyertrm8deize4kl/OLVtCw8thKhmrpD3/GAig+mvWcEZ1vjq1/976cx9hfAkV4RWyYQ7ptV17wRvxcrZwdZRCK9k13qIkEPJYGz75u/+wx0TvzG/+cjlDGHSc3wdMtt9YYIy78PANdkY+d/hM27A05Zmkzgbzf215Q3hv/WKWl/bTHKs+QhFkgwvXvJSAZEdLy+anyechkMke+qp+AKcPO2rB+NE78Zmf1TNib8DY8o8TCFmSvPryvGCByUR8GDQUp/e/HrEVaRm+tyhZ2M/yBSEIq/kCkBcASykMdRyWUh3cGfB43SLpzv4m2xp0xM8az3DF0Hg10fphCz5flMyv8andTc6ojbjKMOF+6K/7/AFF5u/imd647bVwdhDi4MYWcQNuWhXyvCFoOolbJMifqUE4PCB1flqFSq4vOXxQY4eyuPQFN3qAAA
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJbACdDKbv1ABgPHNwYAA/vTgA6xi1Sjz4ICrD4sOwOm4OVvSyexg4L/soJCEn2hFABrPhueRr1/9Hmf6v/yd0/8m02yuPpQX/91Ie//7ORgP//I4/+QyAAA=
 ---
 
 ## What Is Envy?
