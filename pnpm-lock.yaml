@@ -19,7 +19,6 @@ specifiers:
   eslint: 8.19.0
   eslint-config-next: 12.2.0
   esno: ^0.16.3
-  fathom-client: ^3.5.0
   framer-motion: ^6
   got: ^12.3.1
   gray-matter: ^4.0.3
@@ -50,7 +49,6 @@ dependencies:
   axios-retry: 3.3.1
   dotenv: 16.0.2
   esno: 0.16.3
-  fathom-client: 3.5.0
   framer-motion: 6.5.1_biqbaboplfbrettd7655fr4n2y
   got: 12.5.0
   gray-matter: 4.0.3
@@ -3056,10 +3054,6 @@ packages:
     dependencies:
       reusify: 1.0.4
     dev: true
-
-  /fathom-client/3.5.0:
-    resolution: {integrity: sha512-BiRDS9Q9a8Zma0H717FWC5cvf545K/CsxBpxKT22TcSl1EbRhhlHWIJgrdeiQUfdorBK2ppy09TwMOhRsbos/A==}
-    dev: false
 
   /file-entry-cache/6.0.1:
     resolution: {integrity: sha512-7Gps/XWymbLk2QLYK4NzpMOrYjMhdIxXuIvy2QBsLE6ljuodKvdkWs/cpyJJ3CVIVpH0Oi1Hvg1ovbMzLdFBBg==}
