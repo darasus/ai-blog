@@ -3,7 +3,7 @@ import matter from "gray-matter";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
 import { TPost } from "../types";
-import { capitalize } from "./capitalize";
+import { capitalize } from "../isomorphic-utils/capitalize";
 import { POSTS_PATH } from "./paths";
 
 export const getPost = async (filePath: string): Promise<TPost | null> => {

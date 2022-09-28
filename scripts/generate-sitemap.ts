@@ -5,8 +5,8 @@ dotenv.config();
 
 import fs from "node:fs";
 import path from "node:path";
-import { postFilePaths } from "../utils/mdxUtils";
-import { POSTS_PATH } from "../utils/paths";
+import { postFilePaths } from "../node-utils/postFilePaths";
+import { POSTS_PATH } from "../node-utils/paths";
 
 const getPost = (filePath: string) => {
   const source = fs.readFileSync(path.join(POSTS_PATH, filePath));

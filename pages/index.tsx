@@ -5,7 +5,7 @@ import { LinkButton } from "../components/LinkButton";
 import { Meta } from "../components/Meta";
 import { PostExcerpt } from "../components/Post/PostExcerpt";
 import { PostListSection } from "../components/Post/PostListSection";
-import { getPosts, PageInfo } from "../utils/getPosts";
+import { getPosts, PageInfo } from "../node-utils/getPosts";
 
 export default function Home({ data }: PageInfo) {
   return (

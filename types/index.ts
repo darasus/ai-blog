@@ -1,4 +1,4 @@
-import { data } from "./data/data";
+import { data } from "../data/data";
 import { MDXRemoteSerializeResult } from "next-mdx-remote";
 
 export interface MDXPost {

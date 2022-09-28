@@ -1,4 +1,4 @@
-import { MDXPost } from "../../types";
+import { MDXPost } from "../types";
 import yaml from "yaml";
 
 export function formatMarkdown(post: MDXPost) {

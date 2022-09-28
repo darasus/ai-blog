@@ -5,10 +5,10 @@ import { Post } from "../../components/Post/Post";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
 import { PostListSection } from "../../components/Post/PostListSection";
 import { TPost } from "../../types";
-import { capitalize } from "../../utils/capitalize";
-import { getPost } from "../../utils/getPost";
-import { getPosts, PageInfo } from "../../utils/getPosts";
-import { postFilePaths } from "../../utils/mdxUtils";
+import { capitalize } from "../../isomorphic-utils/capitalize";
+import { getPost } from "../../node-utils/getPost";
+import { getPosts, PageInfo } from "../../node-utils/getPosts";
+import { postFilePaths } from "../../node-utils/postFilePaths";
 
 interface Props extends PageInfo {
   post: TPost;

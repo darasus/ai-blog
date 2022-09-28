@@ -1,3 +1,7 @@
+import * as dotenv from "dotenv";
+
+dotenv.config();
+
 import Redis from "ioredis";
 
 export class CacheService {

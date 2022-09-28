@@ -3,7 +3,7 @@ import { numberOfPostsPerPage } from "../constants";
 import { Category } from "../types";
 import { TPost } from "../types";
 import { getPost } from "./getPost";
-import { postFilePaths } from "./mdxUtils";
+import { postFilePaths } from "./postFilePaths";
 
 export type PageInfo = ReturnType<typeof paginateArray<TPost>>;
 
