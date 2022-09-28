@@ -1,7 +1,7 @@
 ---
 title: '"The Revenant" is a brutal and beautiful masterpiece'
 createdAt: 2022-07-08T05:56:29.740Z
-updatedAt: 2022-07-17T15:00:31.880Z
+updatedAt: 2022-09-28T12:54:29.023Z
 category: culture
 summary: ‘The Revenant’ is a brutal and violent film, but it is also a beautiful
   tale that shows us that we must always always win the battle. Leonardo

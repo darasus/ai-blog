@@ -1,7 +1,7 @@
 ---
 title: '"The Martian" is a triumph of science fiction'
 createdAt: 2022-07-08T05:56:23.082Z
-updatedAt: 2022-07-17T15:00:31.878Z
+updatedAt: 2022-09-28T12:54:28.898Z
 category: culture
 summary: "The Martian surface is an extreme environment: the temperature
   fluctuates wildly, the CO2 in the air is unbreathable, the UV is intense, and

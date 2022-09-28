@@ -1,15 +1,15 @@
-import { business } from "./categories/business";
-import { coding } from "./categories/coding";
-import { cooking } from "./categories/cooking";
-import { crypto } from "./categories/crypto";
-import { culture } from "./categories/culture";
-import { gaming } from "./categories/gaming";
-import { health } from "./categories/health";
-import { investing } from "./categories/investing";
-import { life } from "./categories/life";
-import { politics } from "./categories/politics";
-import { productivity } from "./categories/productivity";
-import { technology } from "./categories/technology";
+import business from "./categories/business.json";
+import coding from "./categories/coding.json";
+import cooking from "./categories/cooking.json";
+import crypto from "./categories/crypto.json";
+import culture from "./categories/culture.json";
+import gaming from "./categories/gaming.json";
+import health from "./categories/health.json";
+import investing from "./categories/investing.json";
+import life from "./categories/life.json";
+import politics from "./categories/politics.json";
+import productivity from "./categories/productivity.json";
+import technology from "./categories/technology.json";
 
 export const data = {
   cooking: [...new Set(cooking)],

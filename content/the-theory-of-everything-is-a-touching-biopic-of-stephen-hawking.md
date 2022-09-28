@@ -1,7 +1,7 @@
 ---
 title: '"The Theory of Everything" is a touching biopic of Stephen Hawking'
 createdAt: 2022-07-08T05:57:24.535Z
-updatedAt: 2022-07-17T15:00:31.910Z
+updatedAt: 2022-09-28T12:54:30.205Z
 category: culture
 summary: "The Theory of Everything is a biopic of Stephen Hawking, a renowned
   theoretical physicist. It chronicles his relationship with his first wife,

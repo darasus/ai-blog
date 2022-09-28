@@ -1,7 +1,7 @@
 ---
 title: '"Whiplash" is a tense and exhilarating look at the world of jazz'
 createdAt: 2022-07-08T05:57:35.353Z
-updatedAt: 2022-07-17T15:00:31.925Z
+updatedAt: 2022-09-28T12:54:30.329Z
 category: culture
 summary: The sound mix on this film is something to behold. J.K. Simmons plays
   the ruthless Terence Fletcher, the "bad-ass motherfucker" who heads up the

@@ -1,7 +1,7 @@
 ---
 title: '"Bridge of Spies" is a masterful Cold War thriller'
 createdAt: 2022-07-08T05:57:01.690Z
-updatedAt: 2022-07-17T15:00:31.901Z
+updatedAt: 2022-09-28T12:54:29.769Z
 category: culture
 summary: The author of this article has been asked to share his knowledge of the
   events in the U.S. to share with the public. The group has been involved in a

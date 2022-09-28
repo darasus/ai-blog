@@ -1,7 +1,7 @@
 ---
 title: '"The Hateful Eight" is a Quentin Tarantino tour de force'
 createdAt: 2022-07-08T05:56:34.659Z
-updatedAt: 2022-07-17T15:00:31.881Z
+updatedAt: 2022-09-28T12:54:29.205Z
 category: culture
 summary: There are only a handful of scenes with any action in them, three of
   which are significant for the context of one of the film’s themes, a fourth of

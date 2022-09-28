@@ -1,7 +1,7 @@
 ---
 title: '"The Imitation Game" is a fascinating look at the life of Alan Turing'
 createdAt: 2022-07-08T05:57:10.678Z
-updatedAt: 2022-07-17T15:00:31.903Z
+updatedAt: 2022-09-28T12:54:29.888Z
 category: culture
 summary: "Alan Turing was a mathematician and computer scientist who broke the
   Enigma code. He was convicted of \"gross indecency\" for being gay and

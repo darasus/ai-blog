@@ -1,7 +1,7 @@
 ---
 title: '"Mad Max: Fury Road" is a post-apocalyptic joyride'
 createdAt: 2022-07-08T05:56:45.850Z
-updatedAt: 2022-07-17T15:00:31.881Z
+updatedAt: 2022-09-28T12:54:29.319Z
 category: culture
 summary: The end of the world is a harsh but beautiful metaphor for the
   destruction of a person’s ego and the rebuilding of their psychological self.

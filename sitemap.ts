@@ -2206,70 +2206,70 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
           
             <url>
               <loc>https://www.theaipaper.com/p/whiplash-is-a-tense-and-exhilarating-look-at-the-world-of-jazz</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:30.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/the-theory-of-everything-is-a-touching-biopic-of-stephen-hawking</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:30.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/selma-is-a-powerful-and-moving-historical-drama</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:30.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/the-imitation-game-is-a-fascinating-look-at-the-life-of-alan-turing</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/bridge-of-spies-is-a-masterful-cold-war-thriller</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/the-big-short-is-a-searing-indictment-of-the-financial-industry</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/mad-max-fury-road-is-a-post-apocalyptic-joyride</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/the-hateful-eight-is-a-quentin-tarantino-tour-de-force</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/the-revenant-is-a-brutal-and-beautiful-masterpiece</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:29.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
           
             <url>
               <loc>https://www.theaipaper.com/p/the-martian-is-a-triumph-of-science-fiction</loc>
-              <lastmod>2022-07-17T15:00:31.000Z</lastmod>
+              <lastmod>2022-09-28T12:54:28.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>

@@ -1,7 +1,7 @@
 ---
 title: '"Selma" is a powerful and moving historical drama'
 createdAt: 2022-07-08T05:57:20.311Z
-updatedAt: 2022-07-17T15:00:31.905Z
+updatedAt: 2022-09-28T12:54:30.024Z
 category: culture
 summary: '"Selma" is a powerful and moving historical drama that is as relevant
   today as it was in the 1960s. The film is recommended for viewers 13 years and
