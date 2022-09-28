@@ -2,7 +2,6 @@ import { extendTheme, ThemeConfig } from "@chakra-ui/react";
 
 const config: ThemeConfig = {
   useSystemColorMode: true,
-  initialColorMode: "dark",
 };
 
 const token = {
@@ -40,61 +39,6 @@ export const theme = extendTheme({
     },
   },
   styles: {
-    global: (props: any) => ({
-      "html, body": {
-        color: props.colorMode === "dark" ? "white" : "black",
-        background: props.colorMode === "dark" ? "black" : "white",
-      },
-      ".markdown > *:first-of-type, .markdown > *:last-child": {
-        marginBottom: 0,
-      },
-    }),
     focusBorderColor: "brand.500",
-  },
-  components: {
-    Heading: {
-      baseStyle: {
-        fontFamily: "Fira Code, monospace",
-      },
-    },
-    Button: {
-      variants: {
-        cta: {
-          bg: `${token.color.brand}CC`,
-          color: "white",
-          _hover: {
-            bg: `${token.color.brand}`,
-          },
-        },
-        red: {
-          bg: "red.500",
-          color: "white",
-          // _hover: {
-          //   bg: `${token.color.brand}`,
-          // },
-        },
-      },
-    },
-    Menu: {
-      baseStyle: (props: any) => ({
-        list: {
-          bg: props.colorMode === "dark" ? "black" : "white",
-          borderColor: props.colorMode === "dark" ? "gray.900" : "gray.200",
-        },
-        item: {
-          fontSize: "sm",
-        },
-      }),
-    },
-    Input: {
-      defaultProps: {
-        focusBorderColor: token.color.brand + "50",
-      },
-    },
-    Textarea: {
-      defaultProps: {
-        focusBorderColor: token.color.brand + "50",
-      },
-    },
   },
 });
