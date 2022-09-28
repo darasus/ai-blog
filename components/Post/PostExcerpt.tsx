@@ -15,18 +15,22 @@ export function PostExcerpt({ post }: Props) {
   const { createdAt, category, title, intro, imageSrc, imageSrcBase64 } = post;
 
   return (
-    <Grid templateColumns="repeat(12, 1fr)" gap={5} p={4}>
-      <GridItem colSpan={5}>
+    <Grid
+      templateColumns={["repeat(1, 1fr)", "repeat(1, 1fr)", "repeat(2, 1fr)"]}
+      gap={5}
+      p={4}
+    >
+      <GridItem colSpan={1}>
         <Image
           blurDataURL={imageSrcBase64}
           src={imageSrc}
-          height={460}
-          width={460}
+          height={800}
+          width={800}
           alt={title}
           placeholder="blur"
         />
       </GridItem>
-      <GridItem colSpan={7}>
+      <GridItem colSpan={1}>
         <PostMeta items={[createdAt, capitalize(category)]} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <Box px={"1"}>

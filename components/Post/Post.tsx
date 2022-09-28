@@ -25,13 +25,17 @@ export function Post({ post }: Props) {
 
   return (
     <article>
-      <Grid templateColumns="repeat(2, 1fr)" gap={4} p={4}>
+      <Grid
+        templateColumns={["repeat(1, 1fr)", "repeat(1, 1fr)", "repeat(2, 1fr)"]}
+        gap={4}
+        p={4}
+      >
         <GridItem colSpan={1}>
           <Image
             blurDataURL={imageSrcBase64}
             src={imageSrc}
-            height={600}
-            width={600}
+            height={800}
+            width={800}
             alt={title}
             placeholder="blur"
             priority
@@ -54,10 +58,18 @@ export function Post({ post }: Props) {
         <Text
           as="span"
           fontSize={"2xl"}
-          color="gray.500"
+          color="gray.700"
           fontWeight={"bold"}
+          fontStyle={"italic"}
+          lineHeight="1.2"
         >{`TL;DR: `}</Text>
-        <Text fontSize={"2xl"} color="gray.500" as="span">
+        <Text
+          fontSize={"2xl"}
+          color="gray.700"
+          as="span"
+          fontStyle={"italic"}
+          lineHeight="1.2"
+        >
           {summary}
         </Text>
       </Box>

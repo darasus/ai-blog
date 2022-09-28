@@ -17,6 +17,7 @@ const components: Components = {
       as="h1"
       fontWeight={"bold"}
       fontSize={headingSizeMap["h1"]}
+      lineHeight={1}
       {...props}
     />
   ),
@@ -26,6 +27,7 @@ const components: Components = {
       fontWeight={"bold"}
       mt={4}
       fontSize={headingSizeMap["h2"]}
+      lineHeight={1}
       {...props}
     />
   ),
@@ -35,6 +37,7 @@ const components: Components = {
       fontWeight={"bold"}
       mt={4}
       fontSize={headingSizeMap["h3"]}
+      lineHeight={1}
       {...props}
     />
   ),
@@ -44,6 +47,7 @@ const components: Components = {
       fontWeight={"bold"}
       mt={4}
       fontSize={headingSizeMap["h4"]}
+      lineHeight={1}
       {...props}
     />
   ),
