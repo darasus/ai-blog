@@ -7,6 +7,27 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
       </url>
       
             <url>
+              <loc>https://www.theaipaper.com/p/the-ultimate-guide-to-dog-grooming-tips-tricks-and-more</loc>
+              <lastmod>2022-09-28T10:12:48.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/top-new-woodworking-projects-to-keep-you-busy-this-winter</loc>
+              <lastmod>2022-09-28T10:11:40.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
+              <loc>https://www.theaipaper.com/p/6-tips-for-woodworking-beginners</loc>
+              <lastmod>2022-09-28T10:10:38.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
               <loc>https://www.theaipaper.com/p/the-ten-best-smartphones-on-the-market-today</loc>
               <lastmod>2022-07-19T12:39:17.000Z</lastmod>
               <changefreq>monthly</changefreq>

@@ -64,16 +64,15 @@ export class Dalle {
   private async generate(prompt: string) {
     let task: any = await client
       .post("/tasks", {
-        json: {
-          task_type: "text2im",
-          prompt: {
-            caption: prompt,
-            batch_size: 4,
-          },
+        task_type: "text2im",
+        prompt: {
+          caption: prompt,
+          batch_size: 4,
         },
       })
+      .then((res) => res.data)
       .catch((error) => {
-        console.log("/tasks", error);
+        console.error("[DALLE] Error getting tasks", error);
       });
 
     return await new Promise((resolve) => {
@@ -86,7 +85,7 @@ export class Dalle {
             return resolve(task.generations);
           case "rejected":
             clearInterval(refreshIntervalId);
-            console.log(`Prompt "${prompt}" was rejected`);
+            console.error(`Prompt "${prompt}" was rejected`);
             return resolve(null);
           case "pending":
         }
@@ -95,9 +94,12 @@ export class Dalle {
   }
 
   private async getTask(taskId: string) {
-    return await client.get(`/tasks/${taskId}`).catch((error) => {
-      console.log("/tasks", error);
-    });
+    return await client
+      .get(`/tasks/${taskId}`)
+      .then((res) => res.data)
+      .catch((error) => {
+        console.error("[DALLE] Error getting task by id", error);
+      });
   }
 
   private async list(options = { limit: 50, fromTs: 0 }) {

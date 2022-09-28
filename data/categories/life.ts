@@ -89,4 +89,7 @@ export const life = [
   "What Are The Benefits Of Mediation For Individuals?",
   "How Can Mediation Help Businesses?",
   "Why There Is No Gender Wage Gap",
+  "6 Tips For Woodworking Beginners",
+  "Top New Woodworking Projects to Keep You Busy This Winter",
+  "The Ultimate Guide to Dog Grooming: Tips, Tricks and More!",
 ];

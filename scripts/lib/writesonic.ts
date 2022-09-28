@@ -35,13 +35,12 @@ export class Writesonic {
 
   private handleError =
     (type: "content" | "summary" | "outlines" | "intro") => (error: any) => {
-      console.log(error);
       const e = {
         code: error?.code,
         status: error?.response?.status,
         message: error?.response?.statusText,
       };
-      console.log("Error generating content: ", e);
+      console.error("[WRITESONIC] Error generating content: ", e);
       throw e;
     };
 
