@@ -1,3 +1,7 @@
+import * as dotenv from "dotenv";
+
+dotenv.config();
+
 import axios from "axios";
 import axiosRetry from "axios-retry";
 import { CacheService } from "./cache";
@@ -58,15 +62,19 @@ export class Dalle {
   }
 
   private async generate(prompt: string) {
-    let task: any = await axios.post("/tasks", {
-      json: {
-        task_type: "text2im",
-        prompt: {
-          caption: prompt,
-          batch_size: 4,
+    let task: any = await client
+      .post("/tasks", {
+        json: {
+          task_type: "text2im",
+          prompt: {
+            caption: prompt,
+            batch_size: 4,
+          },
         },
-      },
-    });
+      })
+      .catch((error) => {
+        console.log("/tasks", error);
+      });
 
     return await new Promise((resolve) => {
       const refreshIntervalId = setInterval(async () => {
@@ -87,11 +95,13 @@ export class Dalle {
   }
 
   private async getTask(taskId: string) {
-    return await axios.get(`/tasks/${taskId}`);
+    return await client.get(`/tasks/${taskId}`).catch((error) => {
+      console.log("/tasks", error);
+    });
   }
 
   private async list(options = { limit: 50, fromTs: 0 }) {
-    return await axios.get(
+    return await client.get(
       `/tasks?limit=${options.limit}${
         options.fromTs ? `&from_ts=${options.fromTs}` : ""
       }`
@@ -99,6 +109,6 @@ export class Dalle {
   }
 
   private async getCredits() {
-    return await axios.get("/billing/credit_summary", {});
+    return await client.get("/billing/credit_summary", {});
   }
 }

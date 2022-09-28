@@ -25,7 +25,7 @@ intro: In this digital age, data is everywhere. Whether you’re using the
   article, we will explore what makes Python unique and discuss why it’s such a
   popular choice for programmers today.
 imageSrc: /articles/python-an-overview.png
-imageSrcBase64: data:UklGRjoBAABXRUJQVlA4IC4BAADQBgCdASoyADIAPm0ymEgkIqKhJhqooIANiWkGcA1mGn6ZzbXdfEfK1IGCFHf5RsxKs1LtDyXODKCJLnA9cgAA/vp/E+mAGc+8vKZPgXk2NISxg/1xNw/9pw/fuxboo8EBjv1BPv+5VWQVRy4M0dr8PIYSF0j/7IsoGwHGNB8ZZKDDITDZ2yN9eQBt1Izz/U3oZM7BLGETV+PVVxP9JCNE3I/X/WyfzLAfqs3h/ddzV5/B7XFNthc2+PhOJs2qG1hBJjMN9vT1GwjgsL96Vr37v40hmGNMtIzYzYlfu0ACdfv05RisM3LeU8diOrKdHhqmh4G+V27W2eA+Zk9au/yP7JO66jbSZCk6OreLc3K4JvnmlCktB2bqKEpdzKGoTPLTOEhBF5f1yifQAegAAA==;base64,
+imageSrcBase64: data:image/png;base64,UklGRjoBAABXRUJQVlA4IC4BAADQBgCdASoyADIAPm0ymEgkIqKhJhqooIANiWkGcA1mGn6ZzbXdfEfK1IGCFHf5RsxKs1LtDyXODKCJLnA9cgAA/vp/E+mAGc+8vKZPgXk2NISxg/1xNw/9pw/fuxboo8EBjv1BPv+5VWQVRy4M0dr8PIYSF0j/7IsoGwHGNB8ZZKDDITDZ2yN9eQBt1Izz/U3oZM7BLGETV+PVVxP9JCNE3I/X/WyfzLAfqs3h/ddzV5/B7XFNthc2+PhOJs2qG1hBJjMN9vT1GwjgsL96Vr37v40hmGNMtIzYzYlfu0ACdfv05RisM3LeU8diOrKdHhqmh4G+V27W2eA+Zk9au/yP7JO66jbSZCk6OreLc3K4JvnmlCktB2bqKEpdzKGoTPLTOEhBF5f1yifQAegAAA==
 ---
 
 ## What is Python?

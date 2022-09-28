@@ -35,6 +35,7 @@ export class Writesonic {
 
   private handleError =
     (type: "content" | "summary" | "outlines" | "intro") => (error: any) => {
+      console.log(error);
       const e = {
         code: error?.code,
         status: error?.response?.status,

@@ -2093,13 +2093,6 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
             </url>
           
             <url>
-              <loc>https://www.theaipaper.com/p/eminems-revival-is-a-mess</loc>
-              <lastmod>2022-07-17T18:29:31.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
               <loc>https://www.theaipaper.com/p/death-cab-for-cuties-thank-you-for-today-is-a-delight</loc>
               <lastmod>2022-07-17T18:30:19.000Z</lastmod>
               <changefreq>monthly</changefreq>
@@ -2116,13 +2109,6 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
             <url>
               <loc>https://www.theaipaper.com/p/charlie-puths-voicenotes-is-a-solid-effort</loc>
               <lastmod>2022-07-17T18:30:25.000Z</lastmod>
-              <changefreq>monthly</changefreq>
-              <priority>1.0</priority>
-            </url>
-          
-            <url>
-              <loc>https://www.theaipaper.com/p/cardi-bs-invasion-of-privacy-is-a-game-changer</loc>
-              <lastmod>2022-07-17T18:30:07.000Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>

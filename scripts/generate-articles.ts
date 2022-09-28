@@ -76,7 +76,7 @@ async function main() {
         const img = sharp(image).resize(50);
         const base64url = (await img.toBuffer()).toString("base64");
         post.imageSrc = "/articles/" + basename + ".png";
-        post.imageSrcBase64 = "data:" + base64url + ";base64,";
+        post.imageSrcBase64 = "data:image/png;base64," + base64url;
       } else {
         const dalle = new Dalle();
         const base64String = await dalle.generateImage(
@@ -91,7 +91,7 @@ async function main() {
           post.imageSrc = "/articles/" + basename + ".png";
           const img = sharp(Buffer.from(base64String, "base64")).resize(50);
           const imageSrcBase64 = (await img.toBuffer()).toString("base64");
-          post.imageSrcBase64 = "data:" + imageSrcBase64 + ";base64,";
+          post.imageSrcBase64 = "data:image/png;base64," + imageSrcBase64;
         } else {
           post.imageSrc = "";
           post.imageSrcBase64 = "";
