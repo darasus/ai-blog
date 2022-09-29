@@ -7,6 +7,13 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
       </url>
       
             <url>
+              <loc>https://www.theaipaper.com/p/adopting-a-pet-and-what-to-know-about-australian-labradoodles</loc>
+              <lastmod>2022-09-29T18:27:03.000Z</lastmod>
+              <changefreq>monthly</changefreq>
+              <priority>1.0</priority>
+            </url>
+          
+            <url>
               <loc>https://www.theaipaper.com/p/the-ultimate-guide-to-dog-grooming-tips-tricks-and-more</loc>
               <lastmod>2022-09-28T10:12:48.000Z</lastmod>
               <changefreq>monthly</changefreq>
