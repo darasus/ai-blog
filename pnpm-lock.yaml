@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@builder.io/partytown': ^0.7.0
   '@chakra-ui/react': ^2.3.4
   '@emotion/react': ^11
   '@emotion/styled': ^11
@@ -39,6 +40,7 @@ specifiers:
   yaml: ^2.1.1
 
 dependencies:
+  '@builder.io/partytown': 0.7.0
   '@chakra-ui/react': 2.3.4_wcbo5zsdvkvvteeo7mhmlp7qhm
   '@emotion/react': 11.10.4_luyos4mouogwq6z3wafb3re4ce
   '@emotion/styled': 11.10.4_zihtkqst7yq25r5a7lby6nwrdu
@@ -148,6 +150,11 @@ packages:
       '@babel/helper-string-parser': 7.18.10
       '@babel/helper-validator-identifier': 7.19.1
       to-fast-properties: 2.0.0
+    dev: false
+
+  /@builder.io/partytown/0.7.0:
+    resolution: {integrity: sha512-Mw2KeiPglCZujE99ntbJfZq52dJktzhfifWav4UJYgDx81L/hWMQXg/bNqsYlz9cnopDBqYewy+6qbv3b1DcyQ==}
+    hasBin: true
     dev: false
 
   /@chakra-ui/accordion/2.1.0_lxt6xsomoiertofq7olx66eb4q:

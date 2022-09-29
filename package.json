@@ -12,6 +12,7 @@
     "generate:sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
   },
   "dependencies": {
+    "@builder.io/partytown": "^0.7.0",
     "@chakra-ui/react": "^2.3.4",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
