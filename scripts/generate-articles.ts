@@ -16,9 +16,7 @@ import { allConcurrent } from "../node-utils/allConcurrent";
 import sharp from "sharp";
 import { Dalle } from "../lib/dalle";
 import { readArticleImageFile } from "../node-utils/readArticleImageFile";
-
-const postsDir = path.join(__dirname, "../content");
-const imagesDir = path.join(__dirname, "../public/articles");
+import { imagesPath, postsPath } from "../node-utils/paths";
 
 const spinner = ora("Start generating articles...").start();
 
@@ -85,7 +83,7 @@ async function main() {
         );
         if (base64String) {
           fs.writeFileSync(
-            path.join(imagesDir, `${basename}.png`),
+            path.join(imagesPath, `${basename}.png`),
             base64String,
             "base64"
           );
@@ -100,7 +98,7 @@ async function main() {
       }
 
       const formattedPost = formatMarkdown(post as MDXPost);
-      const filePath = path.join(postsDir, `${basename}.md`);
+      const filePath = path.join(postsPath, `${basename}.md`);
       fs.writeFileSync(filePath, formattedPost);
     };
 

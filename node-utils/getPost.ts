@@ -4,10 +4,10 @@ import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
 import { TPost } from "../types";
 import { capitalize } from "../isomorphic-utils/capitalize";
-import { POSTS_PATH } from "./paths";
+import { postsPath } from "./paths";
 
 export const getPost = async (filePath: string): Promise<TPost | null> => {
-  const source = fs.readFileSync(path.join(POSTS_PATH, filePath));
+  const source = fs.readFileSync(path.join(postsPath, filePath));
   if (!source) return null;
   const { content, data } = matter(source);
   const mdxContent = await serialize(content, {

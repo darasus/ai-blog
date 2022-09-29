@@ -1,8 +1,8 @@
 import fs from "node:fs";
-import { POSTS_PATH } from "./paths";
+import { postsPath } from "./paths";
 
-// postFilePaths is the list of all mdx files inside the POSTS_PATH directory
+// postFilePaths is the list of all mdx files inside the postsPath directory
 export const postFilePaths = fs
-  .readdirSync(POSTS_PATH)
+  .readdirSync(postsPath)
   // Only include md(x) files
   .filter((path) => /\.mdx?$/.test(path));
