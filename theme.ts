@@ -11,7 +11,7 @@ const token = {
 };
 
 export const headingSizeMap = {
-  h1: "6xl",
+  h1: ["4xl", "6xl", "6xl"],
   h2: "4xl",
   h3: "4xl",
   h4: "4xl",
