@@ -19,7 +19,7 @@ const getPost = (filePath: string) => {
   };
 };
 
-async function main() {
+export async function generateSitemap() {
   const BASE_URL = "https://www.theaipaper.com";
   const posts = [];
   const paths: { url: string; updatedAt: string }[] = [];
@@ -83,5 +83,3 @@ async function main() {
   const filePath = path.join(__dirname, "../sitemap.ts");
   fs.writeFileSync(filePath, `export const sitemap = \`${sitemap}\``);
 }
-
-main();

@@ -7,9 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate": "pnpm generate:articles && pnpm generate:sitemap",
-    "generate:articles": "esno ./scripts/generate-articles.ts --tsconfig ./tsconfig.json",
-    "generate:sitemap": "esno ./scripts/generate-sitemap.ts --tsconfig ./tsconfig.json"
+    "generate": "esno ./scripts/generate.ts --tsconfig ./tsconfig.json"
   },
   "dependencies": {
     "@builder.io/partytown": "^0.7.0",

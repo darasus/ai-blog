@@ -20,7 +20,7 @@ import { imagesPath, postsPath } from "../node-utils/paths";
 
 const spinner = ora("Start generating articles...").start();
 
-async function main() {
+export async function generateArticles() {
   const ai = new Writesonic();
   const titlesAndCategories = getArticleData();
   const promises = [];
@@ -110,5 +110,3 @@ async function main() {
   spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
   process.exit(0);
 }
-
-main();
