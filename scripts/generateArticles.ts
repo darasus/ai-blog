@@ -18,9 +18,7 @@ export async function generateArticles(spinner: Ora) {
 
   const posts = [];
 
-  for (const [i, { title, category }] of titlesAndCategories
-    .slice(0, 10)
-    .entries()) {
+  for (const [i, { title, category }] of titlesAndCategories.entries()) {
     spinner.prefixText = "✏️";
     spinner.text = `Generating article titled(${i + 1}/${
       titlesAndCategories.length
