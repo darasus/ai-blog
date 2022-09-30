@@ -10,6 +10,12 @@ export function Navbar() {
           <Image src={"/logo.svg"} width={154} height={30.8} alt="logo" />
         </a>
       </Link>
+      <Link href="/" locale="en">
+        en
+      </Link>
+      <Link href="/" locale="es">
+        es
+      </Link>
     </Flex>
   );
 }

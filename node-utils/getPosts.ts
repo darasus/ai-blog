@@ -1,16 +1,15 @@
 import { paginateArray } from "paginate-array-ts";
 import { numberOfPostsPerPage } from "../constants";
-import { Category } from "../types";
+import { Category, Locale } from "../types";
 import { TPost } from "../types";
-import { getPost } from "./getPost";
-import { postFilePaths } from "./postFilePaths";
 import postsData from "../data.json";
 import { serialize } from "next-mdx-remote/serialize";
+import { capitalize } from "../isomorphic-utils/capitalize";
 
 export type PageInfo = ReturnType<typeof paginateArray<TPost>>;
 
 export const getPosts = async (options: {
-  locale: "en" | "es";
+  locale: Locale | "all";
   page?: number;
   numberOfItems?: number;
   order?: "desc" | "asc" | "random";
@@ -37,7 +36,9 @@ export const getPosts = async (options: {
     }) as TPost[]
   );
 
-  posts = posts.filter((post) => post.locale === options.locale);
+  if (options.locale !== "all") {
+    posts = posts.filter((post) => post.locale === options.locale);
+  }
 
   if (!options?.order || options?.order === "desc") {
     posts = posts
@@ -68,6 +69,13 @@ export const getPosts = async (options: {
   if (options?.excludeBySlug) {
     posts = posts.filter((p) => !options?.excludeBySlug?.includes(p?.slug));
   }
+
+  posts = posts.map((post) => ({
+    ...post,
+    createdAt: new Date(post.createdAt).toDateString(),
+    updatedAt: new Date(post.updatedAt).toDateString(),
+    title: capitalize(post.title),
+  }));
 
   return paginateArray<TPost>(
     posts,

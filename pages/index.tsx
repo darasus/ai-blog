@@ -6,6 +6,7 @@ import { Meta } from "../components/Meta";
 import { PostExcerpt } from "../components/Post/PostExcerpt";
 import { PostListSection } from "../components/Post/PostListSection";
 import { getPosts, PageInfo } from "../node-utils/getPosts";
+import { Locale } from "../types";
 
 export default function Home({ data }: PageInfo) {
   return (
@@ -22,9 +23,9 @@ export default function Home({ data }: PageInfo) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async (ctx) => {
   const props = await getPosts({
-    locale: "en",
+    locale: ctx.locale as Locale,
     page: 1,
   });
 

@@ -1,6 +1,8 @@
 import { data } from "../data/data";
 import { MDXRemoteSerializeResult } from "next-mdx-remote";
 
+export type Locale = "en" | "es";
+
 export interface MDXPost {
   title: string;
   createdAt: Date;
@@ -16,7 +18,7 @@ export interface MDXPost {
 export interface TPost {
   title: string;
   summary: string;
-  locale: "en" | "es";
+  locale: Locale;
   intro: MDXRemoteSerializeResult<Record<string, unknown>>;
   category: Category;
   categoryLocal: string;

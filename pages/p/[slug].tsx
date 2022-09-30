@@ -4,11 +4,13 @@ import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
 import { PostListSection } from "../../components/Post/PostListSection";
-import { TPost } from "../../types";
+import { Locale, TPost } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
 import { postFilePaths } from "../../node-utils/postFilePaths";
+import { GetStaticPaths, GetStaticProps } from "next";
+import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 
 interface Props extends PageInfo {
   post: TPost;
@@ -42,13 +44,20 @@ export default function Home({ post, data }: Props) {
   );
 }
 
-export const getStaticProps = async ({ params }: any) => {
-  const post = await getPost(params.slug);
+export const getStaticPaths: GetStaticPaths = async () => {
+  return {
+    paths: generatePostPageStaticPaths(),
+    fallback: false,
+  };
+};
+
+export const getStaticProps: GetStaticProps = async (ctx) => {
+  const post = await getPost(ctx.params?.slug as string);
 
   if (!post) return { props: {} };
 
   const posts = await getPosts({
-    locale: "en",
+    locale: ctx.locale as Locale,
     category: post?.category,
     excludeBySlug: [post?.slug],
     order: "random",
@@ -57,16 +66,5 @@ export const getStaticProps = async ({ params }: any) => {
 
   return {
     props: { post, ...posts },
-  };
-};
-
-export const getStaticPaths = async () => {
-  const paths = postFilePaths
-    .map((path) => path.replace(/\.md?$/, ""))
-    .map((slug) => ({ params: { slug } }));
-
-  return {
-    paths,
-    fallback: false,
   };
 };
