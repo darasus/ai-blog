@@ -1,38 +1,27 @@
-import fs from "fs";
-import matter from "gray-matter";
 import { serialize } from "next-mdx-remote/serialize";
-import path from "path";
 import { TPost } from "../types";
 import { capitalize } from "../isomorphic-utils/capitalize";
-import { postsPath } from "./paths";
+import postsData from "../data.json";
 
-export const getPost = async (filePath: string): Promise<TPost | null> => {
-  const source = fs.readFileSync(path.join(postsPath, filePath));
-  if (!source) return null;
-  const { content, data } = matter(source);
-  const mdxContent = await serialize(content, {
-    parseFrontmatter: false,
-    mdxOptions: {
-      remarkRehypeOptions: {},
-    },
-  });
-  const mdxIntro = await serialize(data.intro, {
-    parseFrontmatter: false,
-    mdxOptions: {
-      remarkRehypeOptions: {},
-    },
-  });
+export const getPost = async (slug: string): Promise<TPost | null> => {
+  const rawPost = (postsData as any).find((post: any) => post.slug === slug);
 
   return {
-    content: mdxContent,
-    title: capitalize(data.title),
-    createdAt: data.createdAt.toDateString(),
-    updatedAt: data.updatedAt.toDateString(),
-    category: data.category,
-    summary: data.summary,
-    slug: filePath.replace(/\.mdx?$/, ""),
-    intro: mdxIntro,
-    imageSrc: data.imageSrc,
-    imageSrcBase64: data.imageSrcBase64,
+    ...rawPost,
+    content: await serialize(rawPost.content, {
+      parseFrontmatter: false,
+      mdxOptions: {
+        remarkRehypeOptions: {},
+      },
+    }),
+    intro: await serialize(rawPost.intro, {
+      parseFrontmatter: false,
+      mdxOptions: {
+        remarkRehypeOptions: {},
+      },
+    }),
+    createdAt: new Date(rawPost.createdAt).toDateString(),
+    updatedAt: new Date(rawPost.updatedAt).toDateString(),
+    title: capitalize(rawPost.title),
   };
 };

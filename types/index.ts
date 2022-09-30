@@ -16,8 +16,10 @@ export interface MDXPost {
 export interface TPost {
   title: string;
   summary: string;
+  locale: "en" | "es";
   intro: MDXRemoteSerializeResult<Record<string, unknown>>;
   category: Category;
+  categoryLocal: string;
   createdAt: string;
   updatedAt: string;
   content: MDXRemoteSerializeResult<Record<string, unknown>>;

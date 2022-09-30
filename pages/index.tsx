@@ -24,6 +24,7 @@ export default function Home({ data }: PageInfo) {
 
 export const getStaticProps: GetStaticProps = async () => {
   const props = await getPosts({
+    locale: "en",
     page: 1,
   });
 

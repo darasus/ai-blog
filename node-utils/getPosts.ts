@@ -4,24 +4,40 @@ import { Category } from "../types";
 import { TPost } from "../types";
 import { getPost } from "./getPost";
 import { postFilePaths } from "./postFilePaths";
+import postsData from "../data.json";
+import { serialize } from "next-mdx-remote/serialize";
 
 export type PageInfo = ReturnType<typeof paginateArray<TPost>>;
 
-export const getPosts = async (options?: {
+export const getPosts = async (options: {
+  locale: "en" | "es";
   page?: number;
   numberOfItems?: number;
   order?: "desc" | "asc" | "random";
   category?: Category;
   excludeBySlug?: string[];
 }): Promise<PageInfo> => {
-  let posts: TPost[] = [];
+  let posts: TPost[] = await Promise.all(
+    (postsData as any).map(async (post: any) => {
+      return {
+        ...post,
+        content: await serialize(post.content, {
+          parseFrontmatter: false,
+          mdxOptions: {
+            remarkRehypeOptions: {},
+          },
+        }),
+        intro: await serialize(post.intro, {
+          parseFrontmatter: false,
+          mdxOptions: {
+            remarkRehypeOptions: {},
+          },
+        }),
+      };
+    }) as TPost[]
+  );
 
-  for (const filePath of postFilePaths) {
-    const post = await getPost(filePath);
-    if (post) {
-      posts.push(post);
-    }
-  }
+  posts = posts.filter((post) => post.locale === options.locale);
 
   if (!options?.order || options?.order === "desc") {
     posts = posts

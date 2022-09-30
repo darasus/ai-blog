@@ -28,6 +28,7 @@ export default function Posts({ data, totalPages }: PageInfo) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const { totalPages } = await getPosts({
+    locale: "en",
     page: 1,
   });
   const paths = Array.from({ length: totalPages }).map((_, i) => ({
@@ -43,6 +44,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const page = Number(params?.page as string);
   const props = await getPosts({
+    locale: "en",
     page,
   });
 

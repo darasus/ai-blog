@@ -12,7 +12,7 @@ import { readArticleFile } from "../node-utils/readArticleFile";
 import { getArticleData } from "../node-utils/getArticleData";
 import { formatMarkdown } from "../node-utils/formatMarkdown";
 import { Writesonic } from "../lib/writesonic";
-import { allConcurrent } from "../node-utils/allConcurrent";
+import { concurrently } from "../node-utils/concurrently";
 import sharp from "sharp";
 import { Dalle } from "../lib/dalle";
 import { readArticleImageFile } from "../node-utils/readArticleImageFile";
@@ -30,13 +30,17 @@ export async function generateArticles() {
       spinner.text = `Generating article titled(${i + 1}/${
         titlesAndCategories.length
       }): ${title}`;
+
       let post: Partial<MDXPost> = {};
+
       const basename = slugify(title, { strict: true, lower: true });
+
       // existing content
       const originalSource = readArticleFile(basename + ".md");
       const { metadata, content } = parseMD(
         typeof originalSource !== "string" ? "" : originalSource
       ) as { metadata: MDXPost; content: string };
+
       // new content
       const response = await ai.generateArticle({
         title,
@@ -78,9 +82,8 @@ export async function generateArticles() {
         post.imageSrcBase64 = "data:image/png;base64," + base64url;
       } else {
         const dalle = new Dalle();
-        const base64String = await dalle.generateImage(
-          `Intro image for article titled "${post.title}", digital art`
-        );
+        const base64String = await dalle.generateImage(post.title);
+
         if (base64String) {
           fs.writeFileSync(
             path.join(imagesPath, `${basename}.png`),
@@ -105,7 +108,7 @@ export async function generateArticles() {
     promises.push(promise);
   }
 
-  await allConcurrent(1, promises);
+  await concurrently(promises, 1);
 
   spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
   process.exit(0);

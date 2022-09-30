@@ -43,11 +43,12 @@ export default function Home({ post, data }: Props) {
 }
 
 export const getStaticProps = async ({ params }: any) => {
-  const post = await getPost(`${params.slug}.md`);
+  const post = await getPost(params.slug);
 
   if (!post) return { props: {} };
 
   const posts = await getPosts({
+    locale: "en",
     category: post?.category,
     excludeBySlug: [post?.slug],
     order: "random",
