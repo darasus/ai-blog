@@ -7,9 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate": "esno ./scripts/generate.ts --tsconfig ./tsconfig.json",
-    "generate-v2": "esno ./scripts/generateArticles-v2.ts --tsconfig ./tsconfig.json",
-    "translate": "esno ./scripts/translate.ts --tsconfig ./tsconfig.json"
+    "generate": "esno ./scripts/generate.ts --tsconfig ./tsconfig.json"
   },
   "dependencies": {
     "@builder.io/partytown": "^0.7.0",
@@ -28,7 +26,7 @@
     "gray-matter": "^4.0.3",
     "ioredis": "^5.1.0",
     "next": "^12.3.1",
-    "next-mdx-remote": "^4.0.3",
+    "next-mdx-remote": "3.0.8",
     "openai": "^3.0.0",
     "paginate-array-ts": "^1.0.0",
     "ramda": "^0.28.0",

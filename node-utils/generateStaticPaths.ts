@@ -1,11 +1,19 @@
 import data from "../data.json";
+import { Locale } from "../types";
 import { getPosts } from "./getPosts";
 
+type Res = Array<{
+  params: { [key: string]: string };
+  locale: Locale;
+}>;
+
 export function generatePostPageStaticPaths() {
-  return (data as any).map((post: any) => ({
-    params: { slug: post.slug },
+  const res = (data as any[]).map((post: any) => ({
+    params: { slug: post.slug as string },
     locale: post.locale,
   }));
+
+  return res as Res;
 }
 
 export async function generatePostsPageStaticPaths() {
@@ -26,5 +34,5 @@ export async function generatePostsPageStaticPaths() {
     locale: "es",
   }));
 
-  return [...enPaths, ...esPaths];
+  return [...enPaths, ...esPaths] as Res;
 }

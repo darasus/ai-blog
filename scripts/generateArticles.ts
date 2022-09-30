@@ -1,115 +1,113 @@
-import * as dotenv from "dotenv";
-
-dotenv.config();
-
-import ora from "ora";
-import slugify from "slugify";
-import path from "node:path";
-import fs from "node:fs";
-import { MDXPost } from "../types";
-import parseMD from "parse-md";
-import { readArticleFile } from "../node-utils/readArticleFile";
-import { getArticleData } from "../node-utils/getArticleData";
-import { formatMarkdown } from "../node-utils/formatMarkdown";
+import path from "path";
+import fs from "fs";
 import { Writesonic } from "../lib/writesonic";
-import { concurrently } from "../node-utils/concurrently";
+import { getArticleData } from "../node-utils/getArticleData";
+import { readArticleImageFile } from "../node-utils/readArticleImageFile";
+import slugify from "slugify";
 import sharp from "sharp";
 import { Dalle } from "../lib/dalle";
-import { readArticleImageFile } from "../node-utils/readArticleImageFile";
-import { imagesPath, postsPath } from "../node-utils/paths";
+import { imagesPath } from "../node-utils/paths";
+import { Translate } from "../lib/translate";
+import { Ora } from "ora";
 
-const spinner = ora("Start generating articles...").start();
+const ai = new Writesonic();
+const translateAPI = new Translate();
 
-export async function generateArticles() {
-  const ai = new Writesonic();
+export async function generateArticles(spinner: Ora) {
   const titlesAndCategories = getArticleData();
-  const promises = [];
 
-  for (const [i, { title, category }] of titlesAndCategories.entries()) {
-    const promise = async () => {
-      spinner.text = `Generating article titled(${i + 1}/${
-        titlesAndCategories.length
-      }): ${title}`;
+  const posts = [];
 
-      let post: Partial<MDXPost> = {};
+  for (const [i, { title, category }] of titlesAndCategories
+    .slice(0, 10)
+    .entries()) {
+    spinner.prefixText = "✏️";
+    spinner.text = `Generating article titled(${i + 1}/${
+      titlesAndCategories.length
+    }): ${title}`;
 
-      const basename = slugify(title, { strict: true, lower: true });
+    const response = await ai.generateArticle({
+      title,
+    });
+    const { imageSrc, imageSrcBase64 } = await generateAndWriteImage(title);
 
-      // existing content
-      const originalSource = readArticleFile(basename + ".md");
-      const { metadata, content } = parseMD(
-        typeof originalSource !== "string" ? "" : originalSource
-      ) as { metadata: MDXPost; content: string };
-
-      // new content
-      const response = await ai.generateArticle({
-        title,
-      });
-
-      if (content.trim() === response.content.trim()) {
-        post.title = metadata.title;
-        post.createdAt = metadata.createdAt;
-        post.updatedAt = metadata.updatedAt;
-        post.category = metadata.category;
-        post.summary = metadata.summary;
-        post.intro = metadata.intro;
-        post.content = content;
-        if (!metadata.summary && response.summary) {
-          post.summary = response.summary;
-        }
-      } else {
-        if (metadata?.title && metadata?.createdAt) {
-          post.title = metadata?.title;
-          post.createdAt = metadata?.createdAt;
-        } else {
-          post.title = title;
-          post.createdAt = new Date();
-        }
-
-        post.updatedAt = new Date();
-        post.category = category;
-        post.content = response?.content;
-        post.summary = response?.summary;
-        post.intro = response?.intro;
-      }
-
-      const image = readArticleImageFile(basename + ".png");
-
-      if (image) {
-        const img = sharp(image).resize(10);
-        const base64url = (await img.toBuffer()).toString("base64");
-        post.imageSrc = "/articles/" + basename + ".png";
-        post.imageSrcBase64 = "data:image/png;base64," + base64url;
-      } else {
-        const dalle = new Dalle();
-        const base64String = await dalle.generateImage(post.title);
-
-        if (base64String) {
-          fs.writeFileSync(
-            path.join(imagesPath, `${basename}.png`),
-            base64String,
-            "base64"
-          );
-          post.imageSrc = "/articles/" + basename + ".png";
-          const img = sharp(Buffer.from(base64String, "base64")).resize(10);
-          const imageSrcBase64 = (await img.toBuffer()).toString("base64");
-          post.imageSrcBase64 = "data:image/png;base64," + imageSrcBase64;
-        } else {
-          post.imageSrc = "";
-          post.imageSrcBase64 = "";
-        }
-      }
-
-      const formattedPost = formatMarkdown(post as MDXPost);
-      const filePath = path.join(postsPath, `${basename}.md`);
-      fs.writeFileSync(filePath, formattedPost);
+    const basePost = {
+      category,
+      imageSrc,
+      imageSrcBase64,
+      createdAt: new Date(),
+      updatedAt: new Date(),
     };
 
-    promises.push(promise);
+    const postEn: any = {
+      ...basePost,
+      categoryLocal: category,
+      slug: slugify(title, { strict: true, lower: true }),
+      locale: "en",
+      title: response.title,
+      summary: response.summary,
+      intro: response.intro,
+      content: response.content,
+    };
+
+    const postEs: any = {
+      ...basePost,
+      slug: slugify(await translateAPI.translate(response.title), {
+        strict: true,
+        lower: true,
+      }),
+      locale: "es",
+      categoryLocal: await translateAPI.translate(category),
+      title: await translateAPI.translate(response.title),
+      summary: await translateAPI.translate(response.summary),
+      intro: await translateAPI.translate(response.intro),
+      content: await translateAPI.translate(response.content),
+    };
+
+    posts.push(postEn);
+    posts.push(postEs);
   }
 
-  await concurrently(promises, 1);
-
+  const filePath = path.join(path.join(__dirname, "../"), `data.json`);
+  fs.writeFileSync(filePath, JSON.stringify(posts, null, 2));
+  spinner.stopAndPersist();
+  spinner.start();
+  spinner.prefixText = "✅";
   spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
-  process.exit(0);
+  spinner.stopAndPersist();
+}
+
+async function generateAndWriteImage(title: string) {
+  const basename = slugify(title, { strict: true, lower: true });
+  const image = readArticleImageFile(basename + ".png");
+
+  let imageSrc = "";
+  let imageSrcBase64 = "";
+
+  if (image) {
+    const img = sharp(image).resize(10);
+    const base64url = (await img.toBuffer()).toString("base64");
+    imageSrc = "/articles/" + basename + ".png";
+    imageSrcBase64 = "data:image/png;base64," + base64url;
+  } else {
+    const dalle = new Dalle();
+    const base64String = await dalle.generateImage(title);
+
+    if (base64String) {
+      fs.writeFileSync(
+        path.join(imagesPath, `${basename}.png`),
+        base64String,
+        "base64"
+      );
+      imageSrc = "/articles/" + basename + ".png";
+      const img = sharp(Buffer.from(base64String, "base64")).resize(10);
+      const srcBase64 = (await img.toBuffer()).toString("base64");
+      imageSrcBase64 = "data:image/png;base64," + srcBase64;
+    } else {
+      imageSrc = "";
+      imageSrcBase64 = "";
+    }
+  }
+
+  return { imageSrc, imageSrcBase64 };
 }

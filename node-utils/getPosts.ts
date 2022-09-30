@@ -2,7 +2,7 @@ import { paginateArray } from "paginate-array-ts";
 import { numberOfPostsPerPage } from "../constants";
 import { Category, Locale } from "../types";
 import { TPost } from "../types";
-import postsData from "../data.json";
+import postsData from "../data.json" assert { type: "json" };
 import { serialize } from "next-mdx-remote/serialize";
 import { capitalize } from "../isomorphic-utils/capitalize";
 
