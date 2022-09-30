@@ -6,7 +6,7 @@ import { theme } from "../theme";
 class MyDocument extends Document {
   render() {
     return (
-      <Html lang="en">
+      <Html>
         <Head>
           <link rel="icon" type="image/png" href="/favicon.png" />
         </Head>

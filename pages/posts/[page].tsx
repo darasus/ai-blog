@@ -4,7 +4,9 @@ import { Link } from "../../components/Link";
 import { Meta } from "../../components/Meta";
 import { Pagination } from "../../components/Pagination";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
+import { generatePostsPageStaticPaths } from "../../node-utils/generateStaticPaths";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
+import { Locale } from "../../types";
 
 export default function Posts({ data, totalPages }: PageInfo) {
   return (
@@ -26,23 +28,17 @@ export default function Posts({ data, totalPages }: PageInfo) {
   );
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
-  const { totalPages } = await getPosts({
-    page: 1,
-  });
-  const paths = Array.from({ length: totalPages }).map((_, i) => ({
-    params: { page: `${i + 1}` },
-  }));
-
+export const getStaticPaths: GetStaticPaths = async (ctx) => {
   return {
     fallback: false,
-    paths,
+    paths: await generatePostsPageStaticPaths(),
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const page = Number(params?.page as string);
+export const getStaticProps: GetStaticProps = async (ctx) => {
+  const page = Number(ctx.params?.page as string);
   const props = await getPosts({
+    locale: ctx.locale as Locale,
     page,
   });
 
