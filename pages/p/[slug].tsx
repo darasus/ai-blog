@@ -1,23 +1,30 @@
-import { Box, Divider } from "@chakra-ui/react";
-import Link from "next/link";
+import { Box, Divider, Text } from "@chakra-ui/react";
 import { Meta } from "../../components/Meta";
 import { Post } from "../../components/Post/Post";
-import { PostExcerpt } from "../../components/Post/PostExcerpt";
 import { PostListSection } from "../../components/Post/PostListSection";
 import { Locale, TPost } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
-import { postFilePaths } from "../../node-utils/postFilePaths";
 import { GetStaticPaths, GetStaticProps } from "next";
-import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
+import { useRouter } from "next/router";
 
 interface Props extends PageInfo {
   post: TPost;
 }
 
 export default function Home({ post, data }: Props) {
-  const { title, content, createdAt, summary, category, slug } = post;
+  const router = useRouter();
+
+  if (router.isFallback) {
+    return (
+      <Box p={4}>
+        <Text>Loading...</Text>
+      </Box>
+    );
+  }
+
+  const { title, summary, category, slug } = post;
 
   return (
     <>
@@ -46,25 +53,29 @@ export default function Home({ post, data }: Props) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    paths: generatePostPageStaticPaths(),
-    fallback: false,
+    paths: [],
+    fallback: true,
   };
 };
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
-  const post = await getPost(ctx.params?.slug as string);
+  try {
+    const post = await getPost(ctx.params?.slug as string);
 
-  if (!post) return { props: {} };
+    if (!post) return { props: { notFound: false } };
 
-  const posts = await getPosts({
-    locale: ctx.locale as Locale,
-    category: post?.category,
-    excludeBySlug: [post?.slug],
-    order: "random",
-    numberOfItems: 10,
-  });
+    const posts = await getPosts({
+      locale: ctx.locale as Locale,
+      category: post?.category,
+      excludeBySlug: [post?.slug],
+      order: "random",
+      numberOfItems: 10,
+    });
 
-  return {
-    props: { post, ...posts },
-  };
+    return {
+      props: { post, ...posts },
+    };
+  } catch (error) {
+    return { notFound: true };
+  }
 };
