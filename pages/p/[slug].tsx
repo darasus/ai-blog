@@ -1,4 +1,4 @@
-import { Divider } from "@chakra-ui/react";
+import { Box, Divider, Text } from "@chakra-ui/react";
 import { Meta } from "../../components/Meta";
 import { DetailedPost } from "../../components/Post/DetailedPost";
 import { PostListSection } from "../../components/Post/PostListSection";
@@ -7,15 +7,24 @@ import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
 import { GetStaticPaths, GetStaticProps } from "next";
-import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
+import { useRouter } from "next/router";
 
 interface Props extends PageInfo {
   post: Post;
 }
 
 export default function Home({ post, data }: Props) {
-  const { title, content, createdAt, summary, category, slug } = post;
+  const router = useRouter();
 
+  if (router.isFallback) {
+    return (
+      <Box p={4}>
+        <Text>Loading...</Text>
+      </Box>
+    );
+  }
+
+  const { title, content, createdAt, summary, category, slug } = post;
   return (
     <>
       <Meta
@@ -43,15 +52,16 @@ export default function Home({ post, data }: Props) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    paths: await generatePostPageStaticPaths(),
-    fallback: false,
+    // paths: await generatePostPageStaticPaths(),
+    paths: [],
+    fallback: "blocking",
   };
 };
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
   const post = await getPost(ctx.params?.slug as string);
 
-  if (!post) return { props: {} };
+  if (!post) return { notFound: true };
 
   const posts = await getPosts({
     locale: ctx.locale as Locale,
@@ -63,5 +73,6 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 
   return {
     props: { post, ...posts },
+    revalidate: 60,
   };
 };
