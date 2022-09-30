@@ -21,15 +21,15 @@ export const getPosts = async (options: {
       return {
         ...post,
         content: await serialize(post.content, {
-          parseFrontmatter: false,
+          // parseFrontmatter: false,
           mdxOptions: {
-            remarkRehypeOptions: {},
+            // remarkRehypeOptions: {},
           },
         }),
         intro: await serialize(post.intro, {
-          parseFrontmatter: false,
+          // parseFrontmatter: false,
           mdxOptions: {
-            remarkRehypeOptions: {},
+            // remarkRehypeOptions: {},
           },
         }),
       };

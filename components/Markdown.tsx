@@ -1,5 +1,5 @@
 import { List, ListIcon, ListItem, Text } from "@chakra-ui/react";
-import { MDXRemote, MDXRemoteProps } from "next-mdx-remote";
+import { MDXRemote } from "next-mdx-remote";
 import * as mdx from "@mdx-js/react";
 import { headingSizeMap } from "../theme";
 import {
@@ -7,7 +7,7 @@ import {
   ChevronDoubleRightIcon,
 } from "@heroicons/react/24/solid";
 
-type Props = MDXRemoteProps;
+type Props = any;
 
 type Components = React.ComponentProps<typeof mdx.MDXProvider>["components"];
 

@@ -9,15 +9,15 @@ export const getPost = async (slug: string): Promise<TPost | null> => {
   return {
     ...rawPost,
     content: await serialize(rawPost.content, {
-      parseFrontmatter: false,
+      // parseFrontmatter: false,
       mdxOptions: {
-        remarkRehypeOptions: {},
+        // remarkRehypeOptions: {},
       },
     }),
     intro: await serialize(rawPost.intro, {
-      parseFrontmatter: false,
+      // parseFrontmatter: false,
       mdxOptions: {
-        remarkRehypeOptions: {},
+        // remarkRehypeOptions: {},
       },
     }),
     createdAt: new Date(rawPost.createdAt).toDateString(),
