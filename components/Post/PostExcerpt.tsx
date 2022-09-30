@@ -1,14 +1,14 @@
 import { Box, Grid, GridItem } from "@chakra-ui/react";
 import Image from "next/future/image";
 import React from "react";
-import { TPost } from "../../types";
+import { Post } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { Markdown } from "../Markdown";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
 interface Props {
-  post: TPost;
+  post: Post;
 }
 
 export function PostExcerpt({ post }: Props) {

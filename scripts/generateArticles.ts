@@ -9,6 +9,7 @@ import { Dalle } from "../lib/dalle";
 import { imagesPath } from "../node-utils/paths";
 import { Translate } from "../lib/translate";
 import { Ora } from "ora";
+import { Locale, RawPost } from "../types";
 
 const ai = new Writesonic();
 const translateAPI = new Translate();
@@ -33,41 +34,48 @@ export async function generateArticles(spinner: Ora) {
       category,
       imageSrc,
       imageSrcBase64,
-      createdAt: new Date(),
-      updatedAt: new Date(),
+      createdAt: new Date().toISOString(),
+      updatedAt: new Date().toISOString(),
     };
 
-    const postEn: any = {
-      ...basePost,
-      categoryLocal: category,
-      slug: slugify(title, { strict: true, lower: true }),
-      locale: "en",
-      title: response.title,
-      summary: response.summary,
-      intro: response.intro,
-      content: response.content,
+    const post: Record<Locale, RawPost> = {
+      en: {
+        ...basePost,
+        categoryLocal: category,
+        slug: slugify(title, { strict: true, lower: true }),
+        locale: "en",
+        title: response.title,
+        summary: response.summary,
+        intro: response.intro,
+        content: response.content,
+      },
+      es: {
+        ...basePost,
+        slug: slugify(await translateAPI.translate(response.title), {
+          strict: true,
+          lower: true,
+        }),
+        locale: "es",
+        categoryLocal: await translateAPI.translate(category),
+        title: await translateAPI.translate(response.title),
+        summary: await translateAPI.translate(response.summary),
+        intro: await translateAPI.translate(response.intro),
+        content: await translateAPI.translate(response.content),
+      },
     };
 
-    const postEs: any = {
-      ...basePost,
-      slug: slugify(await translateAPI.translate(response.title), {
-        strict: true,
-        lower: true,
-      }),
-      locale: "es",
-      categoryLocal: await translateAPI.translate(category),
-      title: await translateAPI.translate(response.title),
-      summary: await translateAPI.translate(response.summary),
-      intro: await translateAPI.translate(response.intro),
-      content: await translateAPI.translate(response.content),
-    };
+    const contentPath = path.join(__dirname, "../content");
 
-    posts.push(postEn);
-    posts.push(postEs);
+    fs.writeFileSync(
+      path.join(contentPath, `${post.en.slug}.json`),
+      JSON.stringify(post.en, null, 2)
+    );
+    fs.writeFileSync(
+      path.join(contentPath, `${post.es.slug}.json`),
+      JSON.stringify(post.es, null, 2)
+    );
   }
 
-  const filePath = path.join(path.join(__dirname, "../"), `data.json`);
-  fs.writeFileSync(filePath, JSON.stringify(posts, null, 2));
   spinner.stopAndPersist();
   spinner.start();
   spinner.prefixText = "✅";

@@ -1,12 +1,14 @@
 import { paginateArray } from "paginate-array-ts";
 import { numberOfPostsPerPage } from "../constants";
-import { Category, Locale } from "../types";
-import { TPost } from "../types";
-import postsData from "../data.json" assert { type: "json" };
+import { Category, Locale, RawPost } from "../types";
+import { Post } from "../types";
 import { serialize } from "next-mdx-remote/serialize";
 import { capitalize } from "../isomorphic-utils/capitalize";
+import { readdir, readFileSync } from "fs";
+import { postsPath } from "./paths";
+import path, { resolve } from "path";
 
-export type PageInfo = ReturnType<typeof paginateArray<TPost>>;
+export type PageInfo = ReturnType<typeof paginateArray<Post>>;
 
 export const getPosts = async (options: {
   locale: Locale | "all";
@@ -16,8 +18,9 @@ export const getPosts = async (options: {
   category?: Category;
   excludeBySlug?: string[];
 }): Promise<PageInfo> => {
-  let posts: TPost[] = await Promise.all(
-    (postsData as any).map(async (post: any) => {
+  const rawPosts = await getRawPosts();
+  let posts: Post[] = await Promise.all(
+    rawPosts.map(async (post) => {
       return {
         ...post,
         content: await serialize(post.content, {
@@ -33,7 +36,7 @@ export const getPosts = async (options: {
           },
         }),
       };
-    }) as TPost[]
+    })
   );
 
   if (options.locale !== "all") {
@@ -77,9 +80,29 @@ export const getPosts = async (options: {
     title: capitalize(post.title),
   }));
 
-  return paginateArray<TPost>(
+  return paginateArray<Post>(
     posts,
     options?.page ?? 1,
     options?.numberOfItems ?? numberOfPostsPerPage
   );
+};
+
+export const getRawPosts = (): Promise<RawPost[]> => {
+  return new Promise((resolve, reject) => {
+    const posts: RawPost[] = [];
+
+    readdir(postsPath, (err, files) => {
+      if (err) {
+        return reject(new Error("Unable to scan directory: " + err));
+      }
+
+      for (const file of files) {
+        const data = readFileSync(path.join(postsPath, file), "utf8");
+
+        posts.push(JSON.parse(data));
+      }
+
+      return resolve(posts);
+    });
+  });
 };

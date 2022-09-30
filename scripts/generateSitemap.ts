@@ -1,8 +1,7 @@
-import postsData from "../data.json" assert { type: "json" };
 import fs from "node:fs";
 import path from "node:path";
-import { Locale, TPost } from "../types";
-import { getPosts } from "../node-utils/getPosts";
+import { Locale, Post } from "../types";
+import { getPosts, getRawPosts } from "../node-utils/getPosts";
 import { Ora } from "ora";
 
 export async function generateSitemap(spinner: Ora) {
@@ -10,7 +9,7 @@ export async function generateSitemap(spinner: Ora) {
   spinner.prefixText = "🗺";
   spinner.text = `Start generating sitemap...`;
   const BASE_URL = "https://www.theaipaper.com";
-  const posts = postsData as any;
+  const posts = await getRawPosts();
   const paths: { url: string; updatedAt: string; locale: Locale }[] = [];
 
   const orderedPosts = posts

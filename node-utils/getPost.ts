@@ -1,10 +1,12 @@
 import { serialize } from "next-mdx-remote/serialize";
-import { TPost } from "../types";
+import { Post } from "../types";
 import { capitalize } from "../isomorphic-utils/capitalize";
-import postsData from "../data.json";
+import { getRawPosts } from "./getPosts";
 
-export const getPost = async (slug: string): Promise<TPost | null> => {
-  const rawPost = (postsData as any).find((post: any) => post.slug === slug);
+export const getPost = async (slug: string): Promise<Post | null> => {
+  const rawPost = (await getRawPosts()).find((post: any) => post.slug === slug);
+
+  if (!rawPost) return null;
 
   return {
     ...rawPost,

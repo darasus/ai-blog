@@ -1,10 +1,10 @@
 import { Box, Divider } from "@chakra-ui/react";
-import { TPost } from "../../types";
+import { Post } from "../../types";
 import { Link } from "../Link";
 import { PostExcerpt } from "./PostExcerpt";
 
 interface Props {
-  posts: TPost[];
+  posts: Post[];
   title?: string;
 }
 

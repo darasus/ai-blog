@@ -1,19 +1,16 @@
-import { Box, Divider } from "@chakra-ui/react";
-import Link from "next/link";
+import { Divider } from "@chakra-ui/react";
 import { Meta } from "../../components/Meta";
-import { Post } from "../../components/Post/Post";
-import { PostExcerpt } from "../../components/Post/PostExcerpt";
+import { DetailedPost } from "../../components/Post/DetailedPost";
 import { PostListSection } from "../../components/Post/PostListSection";
-import { Locale, TPost } from "../../types";
+import { Locale, Post } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
-import { postFilePaths } from "../../node-utils/postFilePaths";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 
 interface Props extends PageInfo {
-  post: TPost;
+  post: Post;
 }
 
 export default function Home({ post, data }: Props) {
@@ -34,7 +31,7 @@ export default function Home({ post, data }: Props) {
           dateModified: post.updatedAt,
         }}
       />
-      <Post post={post} />
+      <DetailedPost post={post} />
       <Divider />
       <PostListSection
         title={`Other in ${capitalize(category)}`}
@@ -46,7 +43,7 @@ export default function Home({ post, data }: Props) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    paths: generatePostPageStaticPaths(),
+    paths: await generatePostPageStaticPaths(),
     fallback: false,
   };
 };

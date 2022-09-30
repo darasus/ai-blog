@@ -1,5 +1,3 @@
-import { TPost } from "../types";
-
 export function concurrently(
   list: Array<() => Promise<void>>,
   n: number | undefined = 5
