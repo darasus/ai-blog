@@ -22,7 +22,7 @@ intro: >-
 
   A plant based diet has many well-documented benefits including lowering the risk of heart disease and stroke; reducing your risk of developing type 2 diabetes; helping to manage your weight; improving your blood sugar control; reducing your cholesterol levels; preventing certain cancers such as colon cancer; and lowering your risk of dying from any cause.
 imageSrc: /articles/5-unexpected-benefits-of-a-plant-based-diet.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJQBOgMWq33fO6TiZMAD+7QneaX4+m5xjg2zpZf9twKljyTU2j/DaKXLyWjxqkye6w7Wnx18bbzZfKrFf288rlg2o0oDl05oLvOH0aqflkskGeizccVzIAAA=
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJbACdDBLwUeKwwLlWUpAAP718lS2Z5zAL6Bd+FqQuto07O+l/+CE8Cstv0ZPj2B4P1Bw//Qe1TO2OAvP3hNkkPet9sVZ1FgXE9/afLY/93IXebuzjI702fmLdOwW57/y1L9q3sfV+03C2Z8oD33wAx6hwn6v127Wm7oQAAA=
 ---
 
 ## 5 Unexpected benefits of a Plant Based Diet

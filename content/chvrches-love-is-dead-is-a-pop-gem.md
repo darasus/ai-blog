@@ -22,7 +22,7 @@ intro: >-
 
   Chvrses has gained more popularity among a different group of fans by releasing this album than they ever did with their first two releases combined. This is partially because they have expanded their audience by collaborating on songs with Haim and Bleachers recently as well as making this change in sound so now they have crossover appeal to radio listeners too!
 imageSrc: /articles/chvrches-love-is-dead-is-a-pop-gem.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoKAAoAAUAmJbACdACRJcAAAP1HFpzXAMMkE4xMykEOmjJmv2CBAz2E/jxY6i9o7UDr2n7wH0VTJ78q80/+e/90OO1/3rO8cp3/Mxcf6OST//c/5PNL9hAA
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJbACdLoAAnVMgpEAAP7pB2tWqAD9ulwnb6PrRn7eOiYGZ2vaZBKDdd//+1YbzhHlMhrOHUGxYRRuzeSrfV8tuzx2CT/YqDZ9FLXJddh59f/tREDjV+v/id+fapXG3f/y0L/u2chbof4uYAA=
 ---
 
 ## Track-by-track Review of “Love Is Dead”

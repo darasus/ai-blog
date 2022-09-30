@@ -19,7 +19,7 @@ intro: >-
 
   However, as most things in life go, self-care can be challenging to integrate into our busy schedules. Whether it’s because of work obligations, family commitments, schoolwork or any other number of reasons, many of us are left wondering how we can make time for self-care even when everything else in our lives feels like it’s getting in the way.
 imageSrc: /articles/how-to-make-time-for-self-care-when-youre-busy.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJZgCdAYs3wkCWchxWQ4A/vZ7fird3m/3vu74/sZZ42hTxJVZew+XHeBa2ZcFXv9sFw69BiKe3n/4wpM4aLyyHr54LLfyuLB8+nawqjem/65XsNwNwbEluan7dBm4V7WH+2B98ZOAW7NnZr+O1ZK2ppdxrG2g3HQAAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJbACdAELYy3EDKiLoAAA/vz699q9sjnBeQZKZkovn0MAIwwKLoSOAWEVnvJJtks3+jPBS6wmH+RfTP/jAOcFU9C7fl3YOMniP0t+s99/MwRzdyWquTQaH9Tka//+huH+RLAA
 ---
 
 ## Start your day with self-care

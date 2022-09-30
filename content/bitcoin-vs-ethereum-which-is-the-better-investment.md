@@ -20,7 +20,7 @@ intro: >-
 
   However, when we take a deeper look at how these two different types of tokens operate and what sort of potential they have long-term, it becomes clearer which one is likely to be worth more money.
 imageSrc: /articles/bitcoin-vs-ethereum-which-is-the-better-investment.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJYgCdADdpuNWiv4AAP7804ioNHIG12UUOd3wmU2+Yv2czJ8Vtmhs+A/5J+UJjvW+q4mxV+T3FeccsX3nldaj/7TbXlXGa6NODDDt2Yv400+HtA/wRW/7N3oesdaSKIAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdADdbyl67uAAAP7zRZFEVzK34ss8iNJ52rDfyBNRpB/+DSaBnd8Izur/+ous/XdLK4Q5p8zV12FVRji5niYzA/89cLX8C8UXABK0eJMBBePhz4AwvkZkKJYW9KLcpPKITAAAAA==
 ---
 
 ## What is Bitcoin?

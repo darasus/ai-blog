@@ -21,7 +21,7 @@ intro: >-
 
   With these tips and tricks, your next grilled cheese will be perfect!
 imageSrc: /articles/how-to-make-the-perfect-grilled-cheese-sandwich.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoKAAoAAUAmJQBOhgjREHl7GsZbcXHe4AD+74WW/E70kBOnMXzmcnM5Liim65TmF/cxT27wNbl4TsdPrdTZ2IAs/4i/7r6of9fDnR0Lt/8L8ksBmtV4Ulk/i0+LScDS18cnJEON+2trp8GYURn1LdF8iD8AAA==
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoA4AADleg3NJ4A8AD2POhcXKf70P7gnAhuxpVuTbltAH+s/WGLBY++AdPwOaso/W4o++Ch23asEH6hYU7krH177tNUzRkV8le/lTrCl/7PNW311yuv/sbzaDBJ9/YwwHlU1/gaE6OwAAAA
 ---
 
 ## Add a slice of bread to the grilling surface

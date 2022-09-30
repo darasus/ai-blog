@@ -20,7 +20,7 @@ intro: >-
 
   That being said, not all games are created equal. There are excellent games and then there are... others less so. To help you sort through the deluge of new releases this year, Gamers Central has compiled a list of our top ten favorite titles coupled with an even longer list of disappointments that you may want to avoid entirely or at least wait for a sale before picking up.
 imageSrc: /articles/the-best-and-worst-games-of-the-year.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJZgCdAELZNw7ZN0dIAD++JhP+bXgzv+/o/gAJFSS7SVJ1Pnu6/+ECA2XuCl4TBqZOF2Rmv3FbIDQK9gCpBLzjziidbzu/GwXshDdw0PN9o6Dzj1oQN5pSpX1xQXByut+9rCwsQAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoKAAoAAUAmJaACdAYpRzDJWeAB7rgAAP72//Yy7ogbQjv56Z2Mr+9HyPbqQnqgT+rerVn4EZm5TgTHHVLMJmfUOpEdz8z/04//fAqOGtCaasmVyo/5ggNBkn39oOpHdZx5OOfRfJZ/4Nf+lJ0J+3Gr9fkD/Q7vx8dxoPnO+WeAAA==
 ---
 
 ## The Best

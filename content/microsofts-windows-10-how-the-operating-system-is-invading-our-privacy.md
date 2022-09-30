@@ -21,7 +21,7 @@ intro: >-
 
   When you use Windows 10, Microsoft collects personal information about you, your device usage habits, and apps that you install; all of which is transmitted back to the company in an unencrypted format. These practices are unacceptable and have triggered class-action lawsuits and government inquiries around the world.
 imageSrc: /articles/microsofts-windows-10-how-the-operating-system-is-invading-our-privacy.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJagCdLoAArdp0oAA/vhwepQbR2cPW8kkjt+Pc1JpO8X3TUJNqASwhy94TL9T0ZSg/jBNCXz3/Nm1/sb9i4I/+LQ/6bGp38HJn8m/rQzpAAAA
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoKAAoAAUAmJbACdLoAArsLqlJRQAD++6Fr5fz9pdzD6bqxtIfZ2Zf6u1O/Vf+UERmSD4vGvdN3K1ddAFL4f/sxXDtJPHtPo3/3Hd3/ffy/yYdef3bhukAA
 ---
 
 ## Windows 10: A loss of user trust

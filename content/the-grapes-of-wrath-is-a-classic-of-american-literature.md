@@ -22,7 +22,7 @@ intro: >-
 
   This book describes this period through the Joad family – impoverished tenant farmers from Oklahoma who are forced by circumstances to travel westward in search of new opportunities along with thousands of other displaced persons also seeking new beginnings. Although fictional, Steinbeck creates characters that are very much human with their fears, hopes and desires – struggling against a harsh world that is indifferent to their plights.
 imageSrc: /articles/the-grapes-of-wrath-is-a-classic-of-american-literature.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZACdADbVEDJzwwAAPzmAf/XxghK1/4Bx+wt+cAH+ovvzQYUR4+Xd1qKOcgT+h40iK71vvsSwd6vCc1fyufNzf7Dy7pU/1xjaRDQKr9IJQjMGWEpf8f77PiB2AShn7wn113441AAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJZACdAEDfIx64hHFAAD+id5kto72vp0AL5nHGLR2KGIjpccXr7aYXIadOIohrUdbUPdMnpylZaNRmmBOZ8H1idfrj4Iur8xph3GWp0fAEF5z2P6WOyFp6yw7itqit38vfeyPsd3dd2BKZXs+a5EkAAA=
 ---
 
 ## Author

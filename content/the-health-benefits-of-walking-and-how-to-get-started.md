@@ -20,7 +20,7 @@ intro: It’s the perfect way to be active without having to think too much abou
   accessible and enjoyable for you. Here are some tips on how you can get
   started on that walking routine and keep it going...
 imageSrc: /articles/the-health-benefits-of-walking-and-how-to-get-started.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/ZZDet2cAP73aW4kTWGfwi0+Qyqg1Udr/4xGKV20Bd31BJukwCMkgposW0KU9O4GxSOSTDKK3T4zrXjFCDfflX1kgGJMeThoX8cfST0b8+jb/G7+OF/I6cmSqJ/vd3XCZfn7SsaAAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJYgCdAEQELefLmQAAP7KpoQ5A2R43tn/XfoEu/W+KlMbmkv0h1zdveX9jlFpnHfi+B1Iz+iCgaqPZ0uB6R287NodACkrbGyUlZPz+IA+9KvpQlnRYttEqh/SD77/f30f8QGcvRWe9bEn9Up+t+fq1KlAAA==
 ---
 
 ## Make the most of your commute.

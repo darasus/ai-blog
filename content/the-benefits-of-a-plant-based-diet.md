@@ -21,7 +21,7 @@ intro: >-
 
   There are many advantages to switching to a plant-based diet — even if you’re not ready to become fully vegan. These benefits will probably make you think twice before reaching out for that next steak or chicken wing…
 imageSrc: /articles/the-benefits-of-a-plant-based-diet.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJZgCdDBLwZIcYkputYAA/vrhySYO5BQVjSOO2tBmeceEOGZVMPYESya+c3BZuasHU02TPmNTPH8VaP38cMqKMnfXAwj9KqeI+X5nhTuX2PlxJwp/QP5vDeK+I+RavfFAq78mSAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJbACdAYt9uKzFDy3MBAA/tgj8hvndaIs3VP858VOpKbYXFiDY8DAxg8je571Anv41CJ+XhmFT1w5xaR2YvO3Jip+rhLYO2L/NAuV0JKEQHHf96ET+f+f4Q97/Qyzv4OTFR/7Ynvhvw/b8+6+9CrlZiugAA==
 ---
 
 ## An Introduction to a Plant-based diet

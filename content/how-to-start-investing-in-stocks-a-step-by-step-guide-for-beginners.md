@@ -20,7 +20,7 @@ intro: >-
 
   This guide will walk you through everything you need to know about investing in stocks for beginners. It covers topics such as why investing in stocks is a good idea, some general risks of investing and how to get started.
 imageSrc: /articles/how-to-start-investing-in-stocks-a-step-by-step-guide-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJQBOl0AAZErBO36CQAD+3flZSSO9u84cS7UQnuc5u89Ut8b2ZQcqI0dxUo0jK0+XaH9wQDFsZqyjX0hTeR5LgvUMAAAA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdAYt9vt2eA1IaAD++2EiRjER5o8oCux70kt4OQzQUfhD/0vnuhakB/qhwVV//0PJyxz/lNfh6mc1oY5wcsOC//DO2/d5wbcf9jccg/Zegsj2RpAXdoKniPAaa4SwAAAA
 ---
 
 ## What is the Stock Market?

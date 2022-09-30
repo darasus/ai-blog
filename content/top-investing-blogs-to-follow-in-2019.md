@@ -20,7 +20,7 @@ intro: >-
 
   These top investing blogs come from a variety of different sources and they all have something unique to offer readers. Whether you’re just getting started as an investor or want to take your knowledge further, these blogs cover lots of ground.
 imageSrc: /articles/top-investing-blogs-to-follow-in-2019.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJYwCdAEOsGrvoAAA/voI0QoGcyLVKEA9B2O78s481HGABLObJIYN2Pl6/bTEg5ZRTpIW/0pMArdXSWjzr+VGN2HvI3/7XDB/WYxdAepCGzYOhkkRYyP3i28QWnUpW/jWI/k1pAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdAEQzJwd6QsLAAD+CRYUXI90BCS234CMESqM6BqXTNKyXx4hdwHlIFhBiGbw6HGw8admVhj/KNdCxPMk3lnBPgBDX0l0uQ3/6chg5//TYd4DSX/8nH9D4AAA
 ---
 
 ## Dividend Investing Blog

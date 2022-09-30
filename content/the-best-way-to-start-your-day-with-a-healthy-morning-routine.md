@@ -19,7 +19,7 @@ intro: >-
 
   With so many different morning routines out there, it can be difficult to know which one is right for you. There are those that are super long and involved, and others that are much shorter and simpler. Whether you’re looking for something simple or something a little more intense, we’ve got you covered with this ultimate guide on how to start your day with a healthy routine.
 imageSrc: /articles/the-best-way-to-start-your-day-with-a-healthy-morning-routine.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdDKVQYHD49WpvIAA/vYze/S1uQVzcyN9ZHbeb8vNjuHO/bZpe7sl/eFC0i8i1SprsgbbyFTMSyURbB3bx2Y5xEt8EIUF9RpZd3/yrrflf82S0N+D8X/1Vf5HNReCH//vS7Vb/+NXAAA=
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJZQCdH8AE68LBfSwAP77TFsew+JU7cGXlp/3ZfeDYoXantUY//dwGdNq8q+Lv/Y6SfYsywRN0OVfoKuXL1f+GatWhf/s57TDyRH0K4XUve1L8n8FNv/2sfQpWH/JE3iRk08sJEDFbMgztNAxyX511gAAAA==
 ---
 
 ## What is a Morning Routine?

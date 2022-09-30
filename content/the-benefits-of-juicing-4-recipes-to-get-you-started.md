@@ -19,7 +19,7 @@ intro: >-
 
   Juicing also means that you’ll probably consume more fruits and vegetables than you would in any other form. This article covers everything you need to know about juicing including why it’s good for you, the different kinds of juicers available on the market today, how many calories are in different types of juices, and some awesome recipes to get you started!
 imageSrc: /articles/the-benefits-of-juicing-4-recipes-to-get-you-started.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJagCdDKQP2ABOyAPqq0AAP64Oz9IC7fqTgofNATzAQe/nAYlAgs6mBGJKnc91g+u3Zd+jqQvxxroMT1FbT58nWXK0UJKtqlcvwWO/+tr/5iUTJwa7Hv/k4ywAFj7Ux+/+P+uSp/nF/IH13/Ki0A/dhPRQAAA
+imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAABQAgCdASoKAAoAAUAmJaACdAEfA67tRDw7lgAA/v3GQk1HBhknyx33dmN8qVY6Cfk/IWFMn2379uHwv/0qGkTnwDNzL/lbCmmn8X/bV6RzB11oafB+nebwts60aOnz1SgjCMPMaedi4KjHoWUzHpvvHhOJ7vOv6qdIW6yc9zUJ/itlCbi13aKsravMANefewk4AAAA
 ---
 
 ## What are the benefits of juicing?

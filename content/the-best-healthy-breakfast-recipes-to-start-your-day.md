@@ -19,7 +19,7 @@ intro: >-
 
   Incorporating healthy breakfasts every day will help keep your metabolism running more efficiently and reduce cravings later on in the day. High-protein breakfasts are especially helpful if you’re trying to lose weight or build muscle. Here are some great ideas for incorporating healthy breakfasts into your regular routine.
 imageSrc: /articles/the-best-healthy-breakfast-recipes-to-start-your-day.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYgCdAYtLwTA5GnFCAAA/cWginpZv1xz8fXvP2EWieT66vkyng89w5Y92gbRVOT9UFYvo/tcdebVvGnvSw9up7zB66erV91HLoNgZN+ys6wYiNYxZqy752dZ+KeJj/NCaVJSgAA=
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQAgCdASoKAAoAAUAmJbACdAD0g06CtQ4AAP7KvuvP7E1lqpXxWIQUlkOH7r1Odi2t/8Xns1yHXoljb5EDlMRicMKQ2viVHwSsysQi+HvjA5rDuVBYjLtVbMNpe/xTenyWFPWumTDV5YLo+oGJ3a2ioyD07RX94azub3G1Cf6PPrv8m+isNwAA
 ---
 
 ## Eggs

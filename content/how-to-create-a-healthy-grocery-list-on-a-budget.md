@@ -17,7 +17,7 @@ intro: >-
 
   Instead of making weekly trips to multiple stores and markets, plan a shopping day and hit one store at a time. Look for sales in that store before you go and stock up on foods that are good value. You might even consider investing in a membership card or becoming an insider or club member so you get vouchers or other discounts. Adding your own spin on some classic cheap meals will also help you save money without sacrificing nutrition. It just takes some planning and research to make it work!
 imageSrc: /articles/how-to-create-a-healthy-grocery-list-on-a-budget.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJYgCdAYtVwn2VyImH0IAAP77WoPydxaP8OwSkvBSFGn1H/X7Vl2Hqknlx1uqmBOSN6JT+8bWprsNl7azqD1agzFZ13ZhSz6gMdhhelo83bxNLjlcbVZr58jAAA==
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJbACdAELYOXGEXoAAP76y1hKvJKf6Vxlgzsj8qbez++0j4Z3H8jOjWL8Q8T+CqeGOV4S+ig3wGoo8eHX/mogVhArtXahU5+0UzPSX/u1t9z4dGErrZkSWPGzgR6/8glvxcMG/7p919qYfIN1nLj/H+hJIAAA
 ---
 
 ## Build a Basic Food Item Grocery List

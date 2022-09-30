@@ -23,7 +23,7 @@ intro: >-
 
   You might not know this if you live, work, and play exclusively online — as many people now do — but Google realizes more about you than any other company on earth.
 imageSrc: /articles/googles-monopoly-how-the-tech-giant-controls-our-lives.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOgMXX327qdCgfAAD+9WPvbVE/EAhvlC8JxpdqlaDCOIP9CJEjXuK/MzbfqjukYMpfTJiP+OwNzXpVdiT82V2oD9aLNb2K92X4Cy5pAs61IzImRwAA
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJbACdDBKCIgL/Er7UzuAAP78oT3/CIrfo/U1PO0sdD0YksxhvAWHnYdhtvX6Ec1rLaFAwS+5eBoMY+qBjMPTHn8S1WlxsYR1M9tR/JWdN0Kg/tWCVa5nx99x6/kv8oOcP8JqHMcFkr6NAAA=
 ---
 
 ## Why does Google know so much about us?

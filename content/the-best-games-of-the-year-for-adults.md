@@ -19,7 +19,7 @@ intro: >-
    The best rated adult games have left behind the cartoonish characters and storylines of old, instead focusing on darker storylines and character development to keep players coming back for more. 
   That being said, there are plenty of great games out there that don’t shy away from their adult nature. If you’re looking for something new and exciting in 2019, check out these amazingly reviewed titles:
 imageSrc: /articles/the-best-games-of-the-year-for-adults.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEOzC13u8oAAP76D2npTw/97kyFNr/PSuHHhFqy3TvWJvVDgvIaZ6FpD/MiSRTlc6WGx7IXZtp2IaFESPjx1KCp/9jet8zG8Ju/+z77BEi0N1//hpGA8n4P/PM1AxAlf2CwboAA
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJQBdgMWC3Eo0ZniVHAD+/cc+uh1c26dKbTH14YZC/eCBf7fS/+D2/JvxOpkUl83srY91/SYfv+mDTd0GqiUtP5L2FLuTFOH//u5dvMlQqaiP5ukRakkb2DhPs1onAZ8QdtZmRMbnfQMRmwAAAA==
 ---
 
 ## The Last of Us Remastered

@@ -19,7 +19,7 @@ intro: >-
 
   Working feels like a burden and every task seems like an uphill struggle. You hate yourself for putting off something that is so beneficial for your future and your career. You’re also terrified about what will happen if you don’t finish this assignment by tomorrow. You don’t want to fail the course, lose your scholarship and end up homeless somewhere in a strange city where none of your friends live. However, all of this seems much more appealing than getting back to work on the project again; it’s even more appealing than thinking about how difficult life will be without the degree or scholarship at home.
 imageSrc: /articles/how-to-overcome-procrastination-and-boost-productivity.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJZwC7AYu5vu6JyXPdeAA/vti+f0y1l/Cx4nfV9VowO/Ck+3CY978VbahHo++RvoxOwSx6+xE6OjcXP9nyIdW1L1i5+VOxxwIkPz514k1dJj3eggtSRI/2GGCsch3HDHIYp6zzwfdmdLZ9YMAAA==
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJZwCdAYtLmvyTMchAAD++8KyBEOYccdkGCtuIdOVVdbynzONefff9qicMvmq6BWFrHzKdwis+OLNwe1qxzaeaGMYYCGPvHJ699VzZAA=
 ---
 
 ## The Procrastination Equation

@@ -20,7 +20,7 @@ intro: >-
 
   If you feel like your life is always in hyper-speed and there’s never enough hours in the day to get everything done, then you know exactly how these pressures can lead to unhealthy eating habits. But that doesn’t have to be the case forever. Even with a busy schedule, it is totally possible for anyone to eat healthy meals regularly.
 imageSrc: /articles/how-to-eat-healthy-on-a-busy-schedule.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJQBOgCHhNw0UUAAA/v1BPt86b50nwa+pux/1xdWhfgrrCPt055+NeBmN4mYrvVtz3wcAbPixC99l8nvjwYmuce7zJxzEO7NYrUdmu93Atlj9GmHFbn2NthgAAA==
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdLoAEI+VnoVNMn4AAP70DL/xQDScmJeiv2n3SNiYt7xFPVJxvpc3K+b4sZnjVNkTSYdrDp7WQVn5/7DwMfK+C/Mj2ArdBkzWQ/yNf/df81wFjGnNBv2mD/zvou79C78oD0w/wFwbsPmpL5Ms39MYaBd5AAA=
 ---
 
 ## Make A Plan

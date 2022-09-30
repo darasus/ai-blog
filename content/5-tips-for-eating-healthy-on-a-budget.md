@@ -22,7 +22,7 @@ intro: >-
 
   Eating well on a budget can be challenging, but it isn’t impossible. Making smart choices about what you buy as well as how you cook your food can make a big difference in how much money you spend on food each month and how healthy your diet is at the same time.
 imageSrc: /articles/5-tips-for-eating-healthy-on-a-budget.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoAhoAF6Z7LLgdgAP7yastf/c0GxX3Xp8ld8f8xsm2Dhw/PLTdEw8tb7f9WPPzfR15Nljd4VWSf97AUOOv0PWYsXH2l5yTT7fP4mnkXDLDvrNavJF/+2GVb9xgtVjf5euM//8bG02iqXmLPG7gAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAQCdASoKAAoAAUAmJQBOgBuxrboa2AD+wod1eIj+pHmLRxPhfLCV7kgPCUDLpLM3VIRlHT83JuTsAZih58qrQqL5rdq+KgKJuoBHVcVuKfelu2lHf3zb1C8mu0+/uv/Hs82NdmmAAA==
 ---
 
 ## Plan Your Meals

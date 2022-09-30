@@ -22,7 +22,7 @@ intro: >-
 
   Like so many movies about kids growing up, "Boyhood" begins with young Mason being uprooted from his home in Texas and forced to migrate to new cities as he grows older. What makes this movie unique, however, is that all these major events occur over an 11-year period while Linklater was filming with the same actors at different points in their lives. The result is something like a documentary on human development — funny, sad, awkward, and everything in between — presented through the lens of an intimate cinematic experience.
 imageSrc: /articles/boyhood-is-a-coming-of-age-story-like-no-other.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJQBOgMXm5Ac3V+ZzAAD+/qrRhwv2bUD9M62RLocMnf1GxKfvgYp79D5cXbukzllsfxofjNY+2ae//8754r1GObqDkhiit3lTl+uw7kztN1ndHVfj4u35woEAWzS+IXDYmlB0AAA=
+imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJQBOgNJ6GAP1APtnPiepsAAA/v0pmAumyC5dJZBL879giCJidTd5UxwnL3B2xmmYL7O8asv0Ar9gsxl7+/cbKdCmgFIZHHkvSoZHSJfTn3ZnHem9/yaYoQgYJTv24/zWl+DrNMvLbBvKMTkiuPREc/WyeXmG7VN9ZjaNQivMh1F+vsgAAA==
 ---
 
 ## A coming-of-age story told from the inside out

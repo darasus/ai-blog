@@ -22,7 +22,7 @@ intro: "Fermented foods are having a moment. Everywhere you look, you see
   fermented foods are, why they’re so good for us and how to incorporate them
   into your diet."
 imageSrc: /articles/what-are-fermented-foods-and-why-you-should-start-eating-them.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJbACdFKATgwDFh+GvmOQAP74Ru8jNhakv50DOBy+XXOqluuq9A/74sUBRSRH2URiL9kn/ZtuXrsy6S0IOXQfb7lqa/6P/QzUcQ5+U2wLTkJnH/82/y+5/tcD2gSj/xw3/o5M/wQ/2zz/pwo/nWAsEx//2d62LZtvaWm2AAA=
+imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwAgCdASoKAAoAAUAmJZgCdAYvXbHl+lpAQAD+7R7sP0cSQYTJprm7T/Ga04EIOcDokaOlNb13n8y//eRf5/hhyXezIe9YQ5vJm3tM22f6oewN2D6v64/0IDxlXx5heFhZb6Zkvh6lZxjxlMZDkRR47p399zvBuAD7BH5+q68Ysn/+b+ymTrvuwBQx3gOdggAAAA==
 ---
 
 ## What are fermented foods?

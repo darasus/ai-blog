@@ -20,7 +20,7 @@ intro: >-
 
   Learning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it’s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.
 imageSrc: /articles/how-to-code-better.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoKAAoAAUAmJbACdAEUo6OJhIAA/mtjm80RYQ4VCTrC0UDtOq1yMf+An6M6R3v7fvxWKu3/9XmbQu6HYf/2Ds9Uf/96Af4v+vi4AshvAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoKAAoAAUAmJaQAAuc8UPd+AAD+/PiNd0p7K5IjvzUvngRgOPI0Dc/an0aP2LCcW+c1Y0J2nU6Lr2/H8JlHV0A9CrDD7/F/iH5yTck0om39qtzWYcONAAAA
 ---
 
 ## Plan Before You Code

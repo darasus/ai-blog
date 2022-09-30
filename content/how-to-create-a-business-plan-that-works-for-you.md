@@ -25,7 +25,7 @@ intro: When you are starting a small business, you probably don’t think of
   will discuss all the important points that would help you create an effective
   business plan for your small business.
 imageSrc: /articles/how-to-create-a-business-plan-that-works-for-you.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoKAAoAAUAmJYwCdAYrJyit1YGYirQAAP7hq/8dSzXN9QgI1Ov9C7RlNb3kb7Tx/SWtrYY3L74vdyIwBd8fzRSXt78OucU/ioc3erqLw67sjAH6kRLsAKK3FIVtmZygWnxmBCEJacgELbhhAIlQAAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJbACdAtEkXRaFnQRvcAA/vj7nv7gbsF901lPmm69HJ4wpzsloAu0DLjBXf/kDtO9C7r83FrtNHOO+LKb/erKOzu53FE3dvC/evo/szDhmGK+Tuu15vw2nz5JTdJiFvW7eFHwpy73xmM5gK8/1Wkm12yqgKmrYBjVH8LunWAAAA==
 ---
 
 ## What is a business plan and why does it matter?

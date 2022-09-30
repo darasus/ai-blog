@@ -23,7 +23,7 @@ intro: >-
 
   If you have not started testing your Java applications yet, we suggest you start soon!
 imageSrc: /articles/testing-java-applications.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJbACdFkACcvL+4jIBAAA/vj1f/j483DDtiP4ibvuO/T2p/LCWG/qmc//ZzoePS/aTPk+edNQ33urzF2v644NJ/e9SiJU30uBD+fzR+DScRaP3H57XQ8BktaZzigXS1szEpJE8G/xhjgxfdsnuw076KH8oF82bNfv31LyhlgAAA==
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJYwCsDBACIcL7fBzBIAA/uivzLybaGSP6XHtU/0MMeDzOjI9tpoFz/0oqf40tww+Sx5dYRjmR99GYvc7CjnKTArOvYgC/e/u8REnxb9jQAAA
 ---
 
 ## Why Is Java Application Testing Important?

@@ -18,7 +18,7 @@ intro: >-
 
   If losing weight is one of your New Year resolutions, it might seem like all desserts are off-limits. However, this isn’t the case at all. Even if you follow a stricter eating plan, there’s no reason why you can’t treat yourself to a sweet treat once in a while. The trick is knowing which ones aren’t going to derail your diet and which ones will do exactly that. That’s why we’re sharing these 15 scrumptious dessert recipes that won't derail your diets.
 imageSrc: /articles/decadent-desserts-that-wont-derail-your-diets.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJYwCdMn8Bi1SzPOGkAAA/vZJ/6vMItOrBqFJXb4WT4oU52evfU6mKD0PXjRx7yebau9URl+wxrPVtIoe0kI0ZA/V4Ehk9d0VlU6yUjUv64xVY0UULTkJ9GCys0iaqeH+TMMOPThGGwivEk/+DOkAAAA=
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJaACdAYt925ExAo/4AD2v/ws6d/3h8ii87V5nfc/ljVdTwMLBbFmpKLcof/FZ81PfeeSrwKpB3r9j7Id/kZdCOv5zF9PSVeZwbw7qoQCLGeJVL+3zJzVWn8+6KlCfw063ecfWsbbn74t6J+vpH4amwAAAA==
 ---
 
 ## Blueberry Pancakes With Whipped Cream

@@ -21,7 +21,7 @@ intro: >-
 
   This article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.
 imageSrc: /articles/go-language-for-image-processing.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJaQAD4rwg1l55tK2AAD+++9+GQgE7XB/VnhfF9Ii1YRbtT4WOFiT7PlWMc2qzaPRnNnNb7LX6awPx/t/9gezwc10dSLrO94zIMUAAAA=
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoKAAoAAUAmJQBYdiPqG/qQAAD+/pblnAfW1hqtUll/qOH8ypF4c6BxjmDPnS2ZqLOuXIyvnap9LtyKUBrpqMoEylU58l46kXP9ax/qBFTVeLQP+M2f4tfwAAA=
 ---
 
 ## Reduced Development Time

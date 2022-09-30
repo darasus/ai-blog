@@ -21,7 +21,7 @@ intro: >-
 
   These top rated games are some of the most fun and engaging ways to play this classic card game. Whether you prefer an easy version with higher rewards or something more strategic and challenging, these solitaire games will keep your interest from start to finish!
 imageSrc: /articles/the-best-games-of-the-year-for-solitaire-players.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJQBOgCFmRahMggAA/vuhQiV4ixugrPRwTY9u2WG7fplHEQfAdn+dWqv9mkkrgOatKm/gcVJtVUgCRZHy7NCMg49OKu80mD78jbk3AAA=
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJbACdLoB+AADJSySymAAzj5/+Guzevbr5Hy82bXQ5GTrrZTw/P131/S6lkeLkpPSVsIAP/Wsp5K0rOWKnJyah9Gzfi//6GP7vBpDpn9CJ14zX1OQfqef9qJUDeR+A85v65AA
 ---
 
 ## Tunes of Glory

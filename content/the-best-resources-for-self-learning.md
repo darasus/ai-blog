@@ -22,7 +22,7 @@ intro: >-
 
   Here are some of the best places and ways that you can start learning more about anything from coding to art history…
 imageSrc: /articles/the-best-resources-for-self-learning.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJbACdAYsjvtp04iBNrAA/vb62mIeN9gW6IEoEA646BF/6xCbds1BKKG0Sir/jJP3cqmpBhen6za1O+f6MdHon/1LR+tyg1Fm7Dq3UuaiVejZ1KUiv/M+Ttof58xt/+pGm0Ul/2n/z9t0IVofCT6YAAA=
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJQBOgCFr8zFzFCAAAP75uywk0vJ5aOa3FUtdtEQtHyW6eD8473d4ad1iYuycMl1aEfyBhAXHU3yvK8SqtwQl/+Jo+XZp/ZVbr7XHItEOYv0fG+B1jKjDgAA=
 ---
 
 ## Audible

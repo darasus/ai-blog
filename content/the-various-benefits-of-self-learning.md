@@ -20,7 +20,7 @@ intro: >-
 
   Whether you want to work in research, education, industry or another science-related field, self-learning can help you reach your goals. It gives you flexibility in where and when you study, so it fits with your schedule and other commitments. You also have more control over what you learn and how fast you progress. The result is greater confidence in your abilities and an increased ability to tackle challenges. Read on for details about why self-learning might be right for you and some examples of how it could be useful if you work as a scientist.
 imageSrc: /articles/the-various-benefits-of-self-learning.png
-imageSrcBase64: data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoKAAoAAUAmJZgCdLoAAwgml2AAAP76Hz6s/+hGm025N0vlNRilDF8pu+uW118c3vs/sJbT0/8b4g3em37Y64Pmd8AAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJZACdAYpvyn835mYhYAA/vgK9mWcdQL7QYM6fBmDiG3UtqHfGl4QHV3buTiFzPbYZzrm7ExH5uRat1hS/dBceEv9XoCRAbUS+45cq9/+OsO6Pvg+njxnwy5ohe6lFOjyJfkVlvKHDl22Qmr46ffrgAA=
 ---
 
 ## You Can Learn the Skills You Need for Your Job

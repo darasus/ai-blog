@@ -20,7 +20,7 @@ intro: While there has been some great music released this year, the first half
   mentioning. There may not be many great new albums out at the moment – but
   these five are definitely among the best.
 imageSrc: /articles/5-best-albums-of-2018-so-far.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJaACdAEUo4Re/IAA/vMRSuKNjpUjFvyIf3+XT6vtxsISCv6KcVWbiNZAAuKIPnHXF/tlJI3wU5fyy67E+/M/3W2dKsbXoi+XmEYZESlhSA9O8DAAAA==
+imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAACQAgCdASoKAAoAAUAmJbACdLoAd6qDZICm3zedQAD+C/dqIUTGn+4PlsKtieA3Vi4FKt7r4v7O+gDAIGI0712Ea2BmYagvgkr0H2nFf9YELsWkj5/Dcu3UViLOLBZ95v9E4Y+JSP8H1xXr/r/mrP/zv/+z//eMG//5s6Nj42lr/6e20f6nJJ/8XLjMvb/8G//akAAA
 ---
 
 ## Kendrick Lamar - "Damn."

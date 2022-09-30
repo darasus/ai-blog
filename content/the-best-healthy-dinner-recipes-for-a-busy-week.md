@@ -20,7 +20,7 @@ intro: >-
 
   Add variety to your diet with these ideas for main dishes, snacks, sides, sauces, and drinks all based on common ingredients found in most kitchens. Preparing your own food instead of eating out or buying pre-made meals saves money while also helping you eat better. You may not think it now but these concepts are simple and will be very helpful when you are preparing your own food instead of eating outside or pre-made meal packs consistently after reading this article .
 imageSrc: /articles/the-best-healthy-dinner-recipes-for-a-busy-week.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJQBOj+ADAz8DgOMlAAD+92xQHJZ4YGtX/ICrlcqv/rTUGoSmxVP8xh0JyzJ3PyaJaokOCSnf87rmDYAvvUp4y92uavV/3OlOnUNU40hnrjDoX71g1vr2BVK0BPaCbdJ52s/BFuhipkAA
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJQBOgB8wvaKId+gA/vhFvK69dBHo5e/jW0DuAoZPuXDqwSbjkdKXUE3uf4vFU88DBZAusTebcWeUTOz/Z8MaHMmVPF/cWSfr2ZZvKI/DLnsx51AgWOt5FHqtgAAA
 ---
 
 ## Beans

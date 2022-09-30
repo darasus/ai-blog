@@ -23,7 +23,7 @@ intro: >-
 
   Mediation can be used in all kinds of relationships where there is an opportunity to explore different ways of dealing with conflict and find win-win solutions without having to go to court or some other expensive third party adjudication. These include disputes between partners, shareholders, suppliers, customers, tenants, employees, suppliers and competitors; labor/management; landlord/tenant; divorcing spouses; members of nonprofit boards; roommates; feuding neighbours; business partners (and service providers); vendors (and clients); owners and real estate developers; executors and beneficiaries of trusts; owners and local governments etc.
 imageSrc: /articles/how-can-mediation-help-businesses.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYgCdDKbvYABiwXVn7nIAP72/+Ne9qI9dRF1RSzIw4wVdPrxrHEm/KxCFo4vAdd8aCZz3p6rT9pqDnqNxIODuyGlwwgh/+UnEBROxK8evQjFzi/ZUi8COl76eiEwDZ6yKZrY4AA=
+imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADQAgCdASoKAAoAAUAmJbACdDiACAAa6IbHKb2AY5HgAP7imqjvwk7+lcmcXQI4JUlk0T9GKca8//2xRwQdvgNfmu41Pz6Jid0PTqb8nWeTFt5kRGrA3fO7gbkzwkyYHdZf0pAIP8dLCCCjmH1Qt22AxZeuP4aKUqbm7MID/6ld06XUYU9GT4tx7cmmooLcS4Mqr4Bsf68lAAAA
 ---
 
 ## What is Mediation and How Does it Help Businesses?

@@ -21,7 +21,7 @@ intro: >-
 
   Fortunately, eating right doesn’t have to be an expensive proposition. With some planning and diligence, you can create cheap grocery lists on a regular basis and keep your household in peak nutritional condition while doing so. The first step is making smart shopping choices when you go to the store. Here are some tips to help you stock up on cheap groceries:
 imageSrc: /articles/how-to-make-a-healthy-grocery-list-on-a-budget.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJZACdAERFd+HYAAA/vpXw3ni4W/eMB+fSLh1Y4jIp/Pt7y8deZmgNdIOn4/CVNYL7YfGD8PZQFbjvBJS3Tky75loTfiX0Ffuh/rqzd4OGc9ZgHo84++6VHvZZzit1qfMAAAA
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJagCdAEevq0tvx+kAP70EJ/FJ/jEaFNvWPZOoHSJKGciZJcsDqkibiIHwf7HoklCNgimDJf3gfTx3zOTHDHhqhABME3q5frfZv/mA95yw5evD3rvivPg//HrfU5CP3Jm1wERh0gETGzAAAA=
 ---
 
 ## Know Where To Shop

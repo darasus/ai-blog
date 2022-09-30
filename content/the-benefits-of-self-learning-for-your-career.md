@@ -20,7 +20,7 @@ intro: >-
 
   Self-learning is the process of acquiring new knowledge or skills independently through books, online courses, and other resources that don’t require an instructor or tutor. This blog post will explore how you can leverage self-learning to improve your career prospects as well as why it’s important to invest in your own learning now and forevermore.
 imageSrc: /articles/the-benefits-of-self-learning-for-your-career.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQUKG+jFfQAP7WK3DbS++fw9/3RbLy/wfG6KWeS/6whHyIMMskUf2Tn/UySdiQqMGO4FWmszZQXv4ASi/94qYyL9nNUn6MV0VI/lnT3//g1pTb+mTbDneF/9L2EQSSV5BpAAAA
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/q1L05AAAP78QANHX3ZQGk3wvALeBsC2R2ejGDYd6fcF48s3f3ChvC7NXb6vBYdq15ZwOSfqacFd7+2PsUpi17RmCNbw5LjZ3NDIQ+Af5yehgUDWNszH8EYAAA==
 ---
 
 ## What is the Importance of Self-Learning?

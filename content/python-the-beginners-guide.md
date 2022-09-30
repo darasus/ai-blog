@@ -25,7 +25,7 @@ intro: Looking for a way to start your career as a software engineer or data
   career further as an intermediate programmer with this skill set than keep
   reading!
 imageSrc: /articles/python-the-beginners-guide.png
-imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJbACdLoAEhuLIiYBqYYA/uiJKOj4fNVYIrH8NVPvWlOAN6wyXj75pZjybN4igVU4MCygD//3NTJavaSbGmXJaqj4pP13mD3dWkvKlVq0MINC71FQiMTflHlP/3Jb5w/b+zZ/Dnq//e/98B5TP/2v9X6x/cT/XYKQwP9BuIEf2orNdoAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoKAAoAAUAmJbACdLoB+AAREBfv3wzVMAD+tCJUiv/xZC3EpDNRXPvqv10O74KraGI/1bXtyKPxFWI6w1dfJqIQ47Y/6vqDQxRQ//dWgyNmViIS97/2AV56hCQX3/+hv/4cp/4kGLftsrfMCjPtfHV+YAAAAA==
 ---
 
 ## How to Install Python

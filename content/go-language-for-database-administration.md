@@ -21,7 +21,7 @@ intro: >-
 
   DBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).
 imageSrc: /articles/go-language-for-database-administration.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoKAAoAAUAmJbACdLcAAYrBjGm8QAD+9dyL6ThclsffxoAwEKykRKoy9o9T9Y72PthYUkdbolRPKxEqtq7vRYBlq6K8vRA24P/GF1hv2d65ncXKopL/RnK35XAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAgCdASoKAAoAAUAmJbACdLoB+ADN/wPCu1rmIAD+8oVfOK8jL0NNGPW0+D0kamkHWKE80oHjdehfs6+H99hHYcoHMLrloiB8EFrj4M2//a/bU6xjV7ZF6e289/lJf8qH9/rL/hyn/iRS0b730h6ctf+pvHzxAAA=
 ---
 
 ## Why Go is Good for Database Administration?

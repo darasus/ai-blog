@@ -23,7 +23,7 @@ intro: >-
 
   If you’re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you’ve come to the right place! In this blog post, we’ll go over exactly what the video processing industry is and why it needs AI. Additionally, we’ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!
 imageSrc: /articles/go-language-for-video-processing.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJZgCdAELYWvsKFwAAP7+v2gU9cQpGeqTHS0xjnt7GY3+BVwgl/utyB1/V6Fs6377vnfQI+JMuNPdjWlKeu/fDZMEWGCPLOaX+O3YjNwX+w2vqnXM71I6G1I2gd7dl/vWQAAA
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoKAAoAAUAmJQBOgB6CXGKGdgAA/vP7uWhJEFvrn7FYgTVBU2GJ7nF23b/vylzv/Pdo+ERNnyQYx8fkz3rS02g5p3lmcnN3Typ8/qPxKQaJ7ijYD/Vlfr8NlCR38/ORFpdeHUVr4RHF8mj4idkrVZ+01dlKQwAA
 ---
 
 ## What is the Video Processing Industry?

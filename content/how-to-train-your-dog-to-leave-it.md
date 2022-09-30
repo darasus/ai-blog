@@ -22,7 +22,7 @@ intro: >-
 
   But luckily, with some bit of training and persistence, you can teach your pup exactly what’s off limits and exactly where to leave it instead. Best of all, all these tricks take very little time and effort on our part. It doesn’t have to be hard! Let’s check out how!
 imageSrc: /articles/how-to-train-your-dog-to-leave-it.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZgCdAEDfGvRe7oAAPvO2wIfoKnDmTKCWt4MUuvev86eh6x/+Mho4tqlope/QPEyeCOX+xM3868ySBKaLsPJo/HfT8RfBRkklPVwUB0sVyz5vtCU48vT/+Tf42nh7/F2RU9ZGl5C+bvrE4MAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgCBUiJho5AAA/vNmaiLTNZoOX8+1DfFT8nteB9bO0evETtOnAoOSc1Ve2WH5/C3//kU3m+bxUwqn0L9XIeR1VyYiXZijsALw2sN+mDFQPZkoVVZh5w9gz1b4C50lt1urAtv71910Vt7lfIAAAAA=
 ---
 
 ## Rule 1: Have A Dinner Party

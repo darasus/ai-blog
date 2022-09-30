@@ -22,7 +22,7 @@ intro: >-
 
   If you find yourself regularly turning to food when you’re feeling stressed out or anxious, read on for some useful tips on how to overcome emotional eating and break the cycle of unhealthy habits that may be sabotaging your health and happiness.
 imageSrc: /articles/how-to-overcome-emotional-eating.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdLoAEI6TkQ4E96cAAP73aZlwineeSfCrGJ8GBprx/uPPaQRZ6X6ylNz92isoDK8kSauiPggTbM/64ZZPdv1C/Aofvx+zXsuo3URxFEr/5t4ROoAJ+9P+Sl/ppIdzfP9/+cby4htY/YNyFwU6yOE5ZiMAAAA=
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoKAAoAAUAmJagCdAELMgPFJxrpAAD+9y59uanYvFPdeYvkD0iSPvQP1gvv59u062ua+X4eBKd1KaG7Up/Z/kwQvmnhIfjwPflD4EZqFAUMoCP+8rU89f6k5JQAAA==
 ---
 
 ## Understand The Root Cause Of Your Emotional Eating

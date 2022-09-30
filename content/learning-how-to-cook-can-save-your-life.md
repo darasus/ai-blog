@@ -20,7 +20,7 @@ intro: >-
 
   Luckily, this is not just some random article about how cooking can save your life someday. This article will actually teach you how to cook! Cooking is not as difficult as many people think. Anyone can do it; you just need a little guidance at first until you get the hang of it. In fact, once you read through this article and practice the techniques a few times, you’ll probably be able to cook like a pro in no time. So let’s get started!
 imageSrc: /articles/learning-how-to-cook-can-save-your-life.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAYvDDq9kx5AAP7tLg4GHdH2pvhh6QZXykWY++ZVI0Gea+LS9t12unvFL79L1R553I+7BKLMO17Go+8mCZtxNtwrH2mLW4Ysh1T2DU/+Z+5hjhlktayTXJOOAg+vJK2JiO/ns5BL5axN3Sf1T/RySfGKy9NAAA==
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAgCdASoKAAoAAUAmJbACdLoB+AASk3xtQ61lwRzpgAD+rXOw/Ce/0y/on/7c6QZpaxutkb3rvRdef6YfzU16xpWpX1FAvgsq8H3tB3dzY/RjOvfMe1jhvdLkXzqjpe9WjSq97eNS0tHzF1yiiq7X+Z5Q8afMjtQqXNE11fv2+ml7reHDPChaftxNM9Crzw6XZ8d/rKAAAA==
 ---
 
 ## What is Cooking?

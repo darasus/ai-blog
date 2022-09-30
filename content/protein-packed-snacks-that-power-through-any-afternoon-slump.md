@@ -22,7 +22,7 @@ intro: >-
 
   The best thing you can do is arm yourself with snacks that will keep your energy up so you’re not tempted to take a nap after dinner or give in to cravings for sweets. Protein-packed snacks are an excellent way of keeping your energy levels high and reducing stress eating from boredom or fatigue.
 imageSrc: /articles/protein-packed-snacks-that-power-through-any-afternoon-slump.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJZACdAEO91h6QQAA/vhDyIW/1MhesdOsg+zCaObsjLv6N/RZQSSEXz9qteqh0Ko5/oDGVoRVh1k5Bf3PH05zBK9hFJ9BG/whNmPR50kEYf25XZ++3wa/ntGFsYV9SmgAAA==
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdLoAAzia8G6fuehAAP73Ln8NANi+cmafivxwLLeUvBJYKe/jktI6s3RttaiAyHkTPmB80WsVTe1m/cKtsaqPVvc0ejvbn6NbPG8eGjyxzo8ovQ4dTOVvH8xU+Hpvnlf/Z6CdadVoJ+bB8A/jR2XYDP/bA8TC1GzYTxeCjhUAAAA=
 ---
 
 ## What is an afternoon slump and why do we get them?

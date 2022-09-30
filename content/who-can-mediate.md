@@ -19,7 +19,7 @@ intro: >-
 
   Mediation eligibility can differ depending on whether the dispute resolution program requires participants to be from a certain income level or has other prerequisites such as being a homeowner or having a specific legal status. You should also keep in mind that some programs may require mediation only when parties can’t agree on a settlement and not necessarily as an initial step in their process for resolving disputes. Read on for more information about who can mediate and what factors may impact your ability to participate in this alternative dispute resolution process.
 imageSrc: /articles/who-can-mediate.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJbACdAEQ/dV8vz0AAP7+kujy+lcfJcNp2//v0sEr7W450804KT2p/pA0G3uW8uxkC+mdcYFkOpL6sFr8KRE1oJBlKd3RvQe6gOgW5P6kIn/8c9e90RAA
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAgCdASoKAAoAAUAmJYwCdAaZk4PXFfCWAAD+9WNAbj+kY37TVvQCQ++K9iGzYpL9tF2oH/9qI8YuO6r6W3Qj8b23zDov8ympT/cGLn1u/vqfeT5sSkKDAHj+5v/K81TeOI1PjX4/rLmH/UbEO0Fd2ysipP29Ejxacpdz2aSOm3d+RjK9PVxfEN5PhgaHVej4cg+i8AAAAA==
 ---
 
 ## What Can You Mediate?

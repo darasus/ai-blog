@@ -21,7 +21,7 @@ intro: >-
 
   Cat videos are one of the most popular video niches online today. There are several channels on YouTube that are dedicated only to cat videos and nothing else. In this post we’ll look at some of the best channels that feature nothing but cat content – be it funny cat vines or cute cat compilations – as well as some of our favorite individual clips from these creators.
 imageSrc: /articles/the-top-10-funniest-cat-videos-on-youtube.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAEPB3q3SekAAP78m1xeMju8OBJY/s1BEwXJ4AAvVAzPGRMUwWsO0R8Mxf+rT2pwOVX9f/UQhuHsg+Y4TkZ5i7sVu5XUv1qlOUNqwJitA8DEJoAA
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJZACdAacvnS6Ps/7X0AA/vWjoWZr8rM+S9zB5X44zNmjPi41Fv28dSvsI1/+0KS/zFnvPj/54Oj7I7wmd3wP50e3nUa2mCWPyBJt0tOsvkB4HsLPmneJOA6e5RYopjEr3uZRSrh9fyyndR44IDid6pyp8AAA
 ---
 
 ## The Best Funny Cat Channels on YouTube

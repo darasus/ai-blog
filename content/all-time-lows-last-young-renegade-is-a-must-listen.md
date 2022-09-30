@@ -21,7 +21,7 @@ intro: >-
 
   In this article you will discover everything you need to know about All Time Low's 'Last Young Renegade'. From lyrics and themes, to production and official release date, we have got you covered!
 imageSrc: /articles/all-time-lows-last-young-renegade-is-a-must-listen.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdAYtBkyQ8yQvgAD++5S+9cQCxhuKQWsnw3U85Pw1wxRhyJL8bP1Yxci36tUCbQUf48yrzPf7/n0XLE2Zb46UN4KvThzzMtvo1UMl9ox83LeJTEb/jjzg5H/oKcxmre6DuzAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAQCdASoKAAoAAUAmJZACdAEOuJusoAD++bvuHv4Nhzw10wTTlPq+sX3CeXJxPl/G7fiXc/3Qm3m59S/+YFCEhaf65kMrJvQ2A+OVjes0zQ4ossog7jVf82/Gjk2Eod8+7ePZ9DiW35s7wza5Z8vMwu/+t+baqzksT3/9fRd8/AAAAAA=
 ---
 
 ## The Lyrics Are Darker Than Ever Before

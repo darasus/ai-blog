@@ -22,7 +22,7 @@ intro: >-
 
   If you’re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you’re putting in your body.
 imageSrc: /articles/8-ways-to-make-healthy-eating-more-exciting.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJaACdAYqrvu1+ic4rQAA/vtkwTSQDX14EMW7Im/VSVe9vlbkcMd6nwphpzzoCAPqXzSOd03Vjt40hSLgYPidunXnHaNc5QZDuJ167LtuZt1RVmVdwrfTNeF+/kowGJMhA+Jhjm6IE2AAAAA=
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAgCdASoKAAoAAUAmJbACdAYsZa3I5Zn+AAD+67kaeIx8As121e/TW2fV/uDWYCpfAn+9jD1ikJs0l4f+K/BdFpf7cM3IaP/h85Km8KP8jlcbVaZP0tT+C4uQXdC4AmEo09anE+DzUuRGNQmNMdbtcv5XyKQ/SbVH+iZvCvOwCb/k3wAQTKv2PXRwDy+FNqD0Q4TZ8IAAAA==
 ---
 
 ## Do Something That Makes You Happy

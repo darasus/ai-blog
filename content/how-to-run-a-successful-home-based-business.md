@@ -20,7 +20,7 @@ intro: >-
 
   Working from home gives you a lot of flexibility and can save you money on commuting, hotels and office space. However, there are also some downsides. Working from home means you are never really "off" as there will always be someone at home to answer calls, visitors knocking on the door or even delivery services coming to your address. It will also involve more responsibility than working for someone else as everything goes back to you. That’s why we have prepared this guide on how to run a successful home-based business so that you know what to expect when starting one of your own.
 imageSrc: /articles/how-to-run-a-successful-home-based-business.png
-imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJbACdDBQCIeL/PqnHRmwAP71YxCv5z/+oR0dl/27xxxE2i6vohI9l/dkTZKLr7/5gpp6cbzXFj7Hzsj/K1xNBMrp8/WlnsT5/i2/GEkt0B8MWJfH2NwfB9/dIKLeyzv4OPv2flrfqX/8NaTavh/4tUp//rvh/qcWf4yQc79aQAAA
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdADdjVQNG/Q0AAD+93D8pVI+6XmcYVc9GSF5WE5/2f/7N3BS21A+HP2KMr7mmYW48P/fudNPCOd4P/0z2t6b9u9n9cj2C4YYHP9i2HiUcP+yLE02gQ8K2P976xgosRkST/60H8xef3mkoUKS/cM+1hwA
 ---
 
 ## Know Your Audience

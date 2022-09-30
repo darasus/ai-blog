@@ -19,7 +19,7 @@ intro: >-
 
   There are a wide range of different breeds of cat but generally speaking there are two main categories; longhaired and shorthaired cats. Within these two groups there are numerous sub-groups and hybrids with specific traits from different types of cat – check out this article to learn more about the basic types of cat!
 imageSrc: /articles/the-top-10-best-cat-breeds-in-the-world.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAELYNsD9qwA/vG6MThiBfCUB9YCWsQOYzkJ/hr/Oz9ZGhl4F7+Uvctk/MCJf9M7D+BqpZ8MSVYX8KHotBqVfpOG185SAAAA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJYwCdADdJ0IkA7YAAP70F9iQDYKtMKy/O/n6LSaXh+doc3sj+wjlVq2yY7RhB62+XB4Rz6QQSKykZ7Q/f+2yOkrRQmZ8PQz1NP4UG2I3aPzKKqJ1sbgsG2HMgkkBe8YFYAAA
 ---
 
 ## The adorably cute Persian

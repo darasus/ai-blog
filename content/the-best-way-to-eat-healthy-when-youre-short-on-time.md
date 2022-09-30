@@ -19,7 +19,7 @@ intro: >-
 
   Fortunately, there are lots of ways to keep your diet in check while also fitting in your hectic schedule. Keeping healthy snacks like fruits and nuts stocked at home can help you avoid getting hungry at the worst possible moment. Eating smaller meals more frequently throughout the day is another great approach that can help you feel fuller faster without overloading your system with calories at one sitting. Eating well when you’re busy isn’t impossible; it just takes some planning ahead.
 imageSrc: /articles/the-best-way-to-eat-healthy-when-youre-short-on-time.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJZACdDBLwWkKDNk9yAD9AseRl8GZjLZ1fojYLinVmV6CCAPEEn3KFiK1GN/fvrWsDjefns9jUXKE5nNHya68uH60UpGY3woDqJNkA8ew4u3x7DU183QgOyj3ZhrZvYn335qjNB56//k3GQAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwAgCdASoKAAoAAUAmJagCdAD8LMm26I4pwAD++Qho0wTwRtMsHpNd2ayuzxVuNMH+3VlHSRwm+WlifAHJ9Qdi4WLri+8TYT9xzn3TC2UC/A3c8GJBwJcsGgdzkus9xc2H3zjob2dxv7sL/TcuwLH/Fo1jb+8Edxuft9mh/v4g6HZfP4C0PIHAAAA=
 ---
 
 ## Plan Your Meals Ahead of Time

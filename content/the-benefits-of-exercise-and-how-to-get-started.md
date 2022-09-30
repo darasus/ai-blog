@@ -21,7 +21,7 @@ intro: >-
 
   The many benefits of exercise include: reducing stress, improving your mood and confidence; lowering your risk of heart disease and stroke; strengthening your bones and muscles; improving your balance and coordination; raising your metabolism so you burn more calories at rest; lowering your blood pressure; relieving depression; increasing oxygen to your brain so you think more clearly; increasing endorphins which makes you happier; giving you a healthy glow by improving skin tone and complexion, reducing acne and pimples.
 imageSrc: /articles/the-benefits-of-exercise-and-how-to-get-started.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJYwCdH8AgqC/4dXVQ9TgAP75trxBgd4CY6f3uHN8doTOKeFduLViJerVisb81oTH+OXZ+ae7Wm6+ts630GlDNSEYL40tOfTmxef7WQcIFEl38U5zAUEUoXDsN4hNbq4qZljbu9AwAA==
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAQCdASoKAAoAAUAmJZgCdADcWquI5AAA/vIR3+neavO3qb2UUfZ/35NKW8mc316cmd+GmQVjz1SW2BGo8UBW83OI3/vzi7mE7AMF+tYA45rBq1N2iAwcoXOHP6+OWKhL9/8eiIJR5TMLdc1UMvRbzlQJ09CjfiFfgWv4N7GsC1f+6DtFAAAA
 ---
 
 ## What Kind of Exercise Is Best?

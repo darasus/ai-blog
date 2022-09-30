@@ -17,7 +17,7 @@ intro: >-
 
   Working out can be a great way to relieve stress, increase your energy, and even improve your mental well-being. Don’t let a hectic schedule or fear of getting started stop you from exercising. There are many ways to maximize your exercise routine to make the most out of every workout session. If you want to see an improvement in how fast you can run, how many pushups you can do, or how many times you can climb stairs without getting winded, read on for some great tips on how to make that happen!
 imageSrc: /articles/10-ways-to-maximize-your-exercise.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJbACdLoB+ADN/wPQT2NsgAD+7bNjLHZSl2GFlKFs0DumUS+kaCpvp63tjhWGKER+r40gUjTk12OdaqRwf+jQ7rF+TkM18nH9yX/43k+kJNlDUPvcAAAA
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJZQCdAEPDpxb0RCAAP7q8/of7LDKcsimnqqUK9/4ond7D+uzMQmntCUGMDCOn7t/sUwBn0NXsOebVI1CG/hnqV+iO6N9otlTOdlooAA=
 ---
 
 ## Mix Up Your Exercise

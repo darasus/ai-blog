@@ -22,7 +22,7 @@ intro: >-
 
   Fans of rap music are undoubtedly aware that this style of music has origins in New York City during the 1970s and 1980s, but there is much more to know about how exactly it came about and how it evolved over time. From breakdancing to rapping, we’ll explore all of the elements that blended together to form what we now call “hip-hop” today.
 imageSrc: /articles/the-history-of-hip-hop-music-the-influential-years.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJZACdAackxchoMjbTAD++wz9fHSPpBXcCXzQgPr7wh5gMDy03UxtjeM/onJOOETG72yHzmD5BcyqO1xFhb/HMstkCOIntdYoXIhbs1qvP1WyVRoZwC/f2Fb/GuZvyj64P+Nckof/BbNfee/2cmf5UPJWwAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoKAAoAAUAmJYgCdAacAxUr6FX8AAD++5/5rX3yN3R7jONR/4JnnbqyA0KxDu5WkgvzQnReDOUez+Xtf+ID/pb3Qb3+aP3zAyShPP3zyFWf+ArnbSTomTEBJJ30YBl9NYe9lP17jjmOD3CZJi8FTfAjnTImUAsfrExj+P7f8Wzv+S4TlnYAAA==
 ---
 
 ## The Beginnings of Hip Hop

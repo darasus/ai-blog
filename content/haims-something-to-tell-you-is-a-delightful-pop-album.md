@@ -23,7 +23,7 @@ intro: >-
 
   Luckily for us, they stuck to their word and released the nine-track EP on Sept. 14, just in time for our listening pleasure. Here are some of our favorite tracks from HAIM's 'Something To Tell You' Album:
 imageSrc: /articles/haims-something-to-tell-you-is-a-delightful-pop-album.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJaACdAEYH/xy2nAAAP7Cvj+pf3Jd4u2fRm8x+75f7fw8h1MIKVXWAI8CfqHqQim91FBV+qes3qP+6jPe5EC//Ha4lTudum7hjQ/D3PXZJ9Gliv3lTl1ot5008w/pdqAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJYgCdLoAAnYVPZZeQAD+/fsYHniz+ODjN8CNeKaKJoSCPfMdHHWvWxXtxuwyqgmdLGaqEXZ4ogv6/153cy2OL5GT+qOIwAA=
 ---
 
 ## Something to Tell You

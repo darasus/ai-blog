@@ -21,7 +21,7 @@ intro: >-
 
   In addition to mindfulness, these strategies will help you cope with stress eating while also reducing its likelihood in the future.
 imageSrc: /articles/how-to-cope-with-stress-eating.png
-imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwAgCdASoKAAoAAUAmJYgCdDKMwXx5xu8tQAD+/v4tyaqThJQ5AP1FYN+Ha282h4iu38qCMWoTn8//dPyB/3zguyZssk7ZTWI/2A1u4UvRCXdwHoU+6O5lL7b7aD+lM1WqqGrP7teG/qM8uJY1n4WjErxyjVf0kY+H3f3sopofGta7/kQ1bXRbs3v+8rfwVwAAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJQBOgnAC5ZYBZ8JxJp9EskQA/PBvze9PGUSvceZtU5VzKviEjCuj8Fie5sToCQ8v+fv8wgdCHi8mkyaJdkrCC+JM/+fGPf1TJHFsA4euZb+WFyAdiAJ2iz38YiKDyMmk7JJib7k+yzY49VxESLAAAAA=
 ---
 
 ## Plan Your Meals

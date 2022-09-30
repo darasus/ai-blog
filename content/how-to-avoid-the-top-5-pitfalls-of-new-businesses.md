@@ -25,7 +25,7 @@ intro: >-
 
   Here we look at the top 5 pitfalls to avoid if you want to launch a successful business:
 imageSrc: /articles/how-to-avoid-the-top-5-pitfalls-of-new-businesses.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAAs3UraOwejn8AAD+9lqSNzyo+l9IMmI5WociIpwJ+mb6/utwx16690OFnB19865W2W17fy9BHP7ONfjvKbjpfDLqhBfNlkYU4ESyPG9KXQ3Q9746Qz8e/lHwf8mYDQE7xKiSrF7YTY5Uwz+OAAAA
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJbACdLoAAwjvkPfrgADgN8hIT5oExpB12pbfraN7c5e2BD71DGUZqIR7MT0h+aPv2f1218D6zqTfITDH0N/8nylkWMI+htaJfjX11XS2I8PRv/myoX9ezhfPhdiBjVHn6+3t1X/qIpHdH5yxp2f/yEy8ivmztLJ6cAAA
 ---
 
 ## Not Testing Your Product Or Service Before Launch

@@ -22,7 +22,7 @@ intro: Creating a home is something that we all strive to achieve. For most,
   haven. Below are some tips on how you can transform your home into your very
   own haven...
 imageSrc: /articles/how-to-make-your-home-a-haven.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoAytUDb9MODRIoAP7wtvI/X73q9Yl176LTjKZ/TqszVHAbAe8mD0abTyz6O+s8a21JgnMdqQxq54PkLOazHFQCzVAOoIj/8MVFUQCrq30n+o1MS6K1X/oeMjg28hL/lrV/7IzG3/rkX78m/5AAAA==
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAQCdASoKAAoAAUAmJZgCdADZjhcKAAD+/Tn+OcUTlWOPWcb+/tkbptdIm0LucskaON6G1gzaiCUUsk4JRnkexzCR/DkYzX4+lwklLi/NXW0VrNgtXDlVHnnQur6X4cmCr77pP6AKiott3c54gmV18AA=
 ---
 
 ## Decorating Your Home

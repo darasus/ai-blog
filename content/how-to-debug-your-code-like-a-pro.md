@@ -23,7 +23,7 @@ intro: "Are you an exceptional programmer? Sure, you can code in multiple
   doesn’t need to be a painful process. Here are some helpful tips on how to
   debug your code like a pro:"
 imageSrc: /articles/how-to-debug-your-code-like-a-pro.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJaACdAD0r0fjORh4AP76D6Vb8va4yRSZlXih+1xaonmaIRyhvrFfdZYfyfzVyh37/bWC8Qb+KYO6fL6xjLqrKk3+bZ/jCImt9ipwuTRZ/+B4rebVQ/bLJRvkFmR18OtFibiwAAA=
+imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoKAAoAAUAmJZwC7AE2VzuN7OAAAP7+DWH8Zpon5Eg/WP8LKevhJnR4RBY7nCUxPiffnqW2cFslxwibupeAU9tF4c6kM/WIzn/sAAAA
 ---
 
 ## Kano Analysis

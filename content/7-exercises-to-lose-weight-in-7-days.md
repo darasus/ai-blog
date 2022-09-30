@@ -20,7 +20,7 @@ intro: >-
 
   Reducing fat from the body requires breaking down of fats in the body through physical activities. There are undoubtedly many reasons why people fail at losing weight, but most of them boil down to three simple things: lack of time, motivation, or knowledge. Fortunately, with these simple tricks you can lose weight in 7 days:
 imageSrc: /articles/7-exercises-to-lose-weight-in-7-days.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJaACdAEP1Y9sv0AA/vhCg107HkZYI71PgdXkn/+NoXOgvd4Rhr1momscY+sQF1ah+b7JpDbPa+gjXoewSXO1vehyT0ZUMJ4Arz9AGOwcbGsd++TYBz7yIhvq+/g3xcAAAA==
+imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoKAAoAAUAmJYgCdLoAAwhBOx7QAP72S74f3I7PEMXaG0fUJ0HomP8Qthmb1Bq1fdcGDCL3noTjAe+KAUjhzv4rfUDQcAAA
 ---
 
 ## Cardio workout

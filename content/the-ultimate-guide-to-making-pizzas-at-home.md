@@ -21,7 +21,7 @@ intro: When it comes to eating out, the humble pizza remains one of the most
   crust or super thick pan or even cauliflower crust – this guide will show you
   how.
 imageSrc: /articles/the-ultimate-guide-to-making-pizzas-at-home.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJbACdAYpbwRu6YsmCoQAAP734Eh39nZs+/wxxNhZ00PFePkLGaeP1/80QXfmMs5+2nmfQefmf03YXowfjTJL/of5gM7Wi5z1qpwAuX/2fImc38lrgA4AIaiDdsvQv/hWB+br6jnmNScI728INHX/x1rL6jPA7PuV5J5wwAA=
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJZACdGuAAsxJMAk4AADN8W6akyfLtdBBQstG8+4ziybp3W/zPiNpMx45j2q+k+056S3UVOyoIbIdqAnWqv0jSzSGCyxqevfep5Wlo2tL8je9FJ4BsL7jahXvlECSco4SSEzO/AAAAA==
 ---
 
 ## What’s the secret to a great home-cooked pizza?

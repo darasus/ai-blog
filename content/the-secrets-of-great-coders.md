@@ -22,7 +22,7 @@ intro: "Great coders know how to see, think, and solve problems. They can also
   problem at hand. If you want to become a great coder, these are some secrets
   you need to know…"
 imageSrc: /articles/the-secrets-of-great-coders.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJZgCdAEPAu2krQAA/v0psqOarj4wPqOQLQs8AXeTIn7pk60XOxrPtC9Aogn+kjmufpduN+dkpEn80GRcMC7w998PPPtjyP/92AeBPj/8ervNYW+wAA==
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJZACdAYtBbP51s3q/AAA/vKTk/B9dDu2GV7+z9g3D+dQam/bwOGe78ZC7pcf9d+X30z03XPosCDV/+12WFMaAyXHk7q8WOXt8EHbRTRmWD/Ya4997U8uSYf6AvcA88U/6FwjQd+TcEsHJD4/+JJ8kVz/7ONyH6/P/4N2ZAA=
 ---
 
 ## Focus On What Matters

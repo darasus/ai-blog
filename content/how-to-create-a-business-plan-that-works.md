@@ -21,7 +21,7 @@ intro: >-
 
   A well-written business plan will not only help you get financing but can also assist you in operating your business more effectively once it is up and running. The process isn’t easy, but with the right tools and advice, it’s not as complicated as it may seem either. Let’s take a look at some useful advice on how to create a business plan that works for you
 imageSrc: /articles/how-to-create-a-business-plan-that-works.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJYwCdAEQ/h678PNWjgAA/cbamfE/OvnXm4wqLS6GQ7M2zm6TIEcPGa9fWuxX0vH9AMS7YbENrs3u+xPdS/7lWiEnk5HlGKEG6y+0JpuOvRt1zTpi+nydbq36v5XzC/8YwYumAfZX1ceh6WTlMJkAAAA=
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJYgCdGuAAtFogUWRQAD+Bi3SDCrtNFPMe0CYCNj+nqWW3eey2Jji/aeCHfGaTJKgIxsxayyOLDQ+Y6dZR1rwwzRw+OvaEyoaffRsVYx0tAyW9e/2Nj6sb822sVa6e//P8EPbYqsfEJ+O3xhKZxQXkrCa3IkQAAA=
 ---
 
 ## Know Your Audience

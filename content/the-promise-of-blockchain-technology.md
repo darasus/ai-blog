@@ -21,7 +21,7 @@ intro: >-
 
   Crypto-currencies like Bitcoin have received a lot of attention recently because they use blockchain technology as their foundation – something called a “proof-of-work” mechanism that validates transactions on the network through verification by many different users. The implications of blockchain go far beyond just these applications though, extending into almost every industry. In this blog post we will explore the opportunities that come from integrating blockchain in your business processes or software development life cycle (SDLC).
 imageSrc: /articles/the-promise-of-blockchain-technology.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdAEPAsCbcNegAP79s7/aHu1d4ncuZevpNmQ099GwdvS7/N/fCl3882KkPOdVKe88p/sS0H4szqW9cQtLfTsnDlYgxiB5f2IOs4kRLiVe9/NchmvlvPvw0n3/Cdu0twAA
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJZQCdAYqDuJKlANgAAD+3fqu3d5NsbDvw3KmYy9Zf94UdhNj+XmG2YZLF/p/zx1rguBcybcnz8h3/xBKf5KJ7W8vl7g0EXkWzdD6tpOBOV0AAAA=
 ---
 
 ## What is Blockchain?

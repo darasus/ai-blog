@@ -22,7 +22,7 @@ intro: >-
 
   Unfortunately, many people still don’t fully understand what blockchain is or why it matters. But regardless of where you stand on this technology, you should know that blockchain isn’t just useful for cryptocurrency anymore—it can be used to improve almost any business model.
 imageSrc: /articles/how-blockchain-technology-can-improve-your-startup.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJYgCdAELYeePoWGowAD+/W97eNLrpJy1NDRLJtVfRM9gLyp7FRKdh+uq/WB02C0qhkdo0b1QiSLehb792Y257GNYV5ZHQAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJQBOgB+AmbkESAD+/Yvytow78O+S5hBNb1zN/j3+5z+3X40kdcQ9ZueflxM1g9kyrzBIrtZr8UMp2P/QVZ2b24KYPr+dslewFUh9VpwVHPD+6djPdskPoiQfmlCs4snxAQ8EqijXwAAA
 ---
 
 ## What is Blockchain Technology?

@@ -20,7 +20,7 @@ intro: >-
 
   We all know that a tidy home is a happy one. Keeping a tidy household at all times can be challenging. The pressures of work and other responsibilities often get in the way of keeping things clean and organized. But with some preparation and planning you can make spring home cleaning your primary focus instead of an afterthought. Here’s how…
 imageSrc: /articles/the-ultimate-guide-to-spring-cleaning-your-home.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAACQAgCdASoKAAoAAUAmJbACdDKjvYABkihkGixCAAD+9hMUFkTEQjYcmkxEC+4ov3wr+5y2FA7KCPawqvnCp/gAttJBWSBAPnvVwHH1cRef/f8mfwcmZN/92UY+e/19v/mys9Y4mgIO+0l/F8BKj0vK+f/yZIAA
+imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJZgCdDBGiIkJwhgohBBBAAD+/KUBMX+W5VPZ+tvEJW6SyZjr+n6t8F2xtIt8744ZDjulVpnDY5T+7QrTK9XmNywwSbejeevhmqtxh/w35mphr8zuj9X8XgMk8pfNkzyrovjt/hfamc/xOnE3Wwath6Gu5IWDq9quZyqfjkNvmuE36QAAAA==
 ---
 
 ## Choose a date and invite your friends

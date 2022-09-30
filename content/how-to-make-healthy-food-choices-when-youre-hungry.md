@@ -21,7 +21,7 @@ intro: >-
 
   If you’re reading this article right now because you struggle with hunger often and want some ideas on how to make healthier food choices when you’re hungry, we think you’ll find some useful pointers here.
 imageSrc: /articles/how-to-make-healthy-food-choices-when-youre-hungry.png
-imageSrcBase64: data:image/png;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQAwCdASoKAAoAAUAmJQBOj+AQVH61+oX0yTkS2iosb4AA/upfp4/xFBP0YM643+2Leb6qCsMZ8oXKb7c8v7q/vb49b9R5jDlWzRT3pj//MiV/vtqUTE/bx32oGs9D9DprXzIQ64G3fp6tXX3jh/KVDm3voe4LpnzazurY+Fwg8spjCda1mh7/MTVcJsFhuNEBPES0hcbRF3sP7o+HLdlxpz/JqEAA
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJbACdAb4Arw+twd9nJgAzj73qzxGL/AGoe5XVb9jpvEnxLhJ/+kDT7RQeoc6nPtUAEJFh0/cfznkOGmEtplOSGjit8E+Owr3PYaAuIoeCMkfzsAkfplBSZ1Pn7SvUXX3TlD9oYz1lO+5noV6XT0wAAA=
 ---
 
 ## Plan Your Meals Ahead Of Time

@@ -19,7 +19,7 @@ intro: >-
 
   If you know someone who loves Pandemic but isn’t so fond of losing, this list is for you. Here we have compiled some of the best strategy games released this year.
 imageSrc: /articles/the-best-games-of-the-year-for-people-who-like-to-win.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoKAAoAAUAmJaACdAEOZ2RXYAD+/erfeuEHUafYisgZK+jr/lZAAh1nWcGzTnzd5rj58PitssQaE4/pD4/zsBCfmtln6PJ0Lvu8RsJAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAkpoRL4AAP7xvAd/q+3FaDjMNh0Rxv3/6hGR8uMSxO81Afd2wwL5Obmr98LvBsepSnU4/tAuzhEgwd2ygYL+WnphfeZ7FbxpnD3/0sNUF/M+YRkSr//ZwO6zsff/6m3MAAAA
 ---
 
 ## Cavern Co-op

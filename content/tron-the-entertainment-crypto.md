@@ -20,7 +20,7 @@ intro: >-
 
   Lately, there has been an explosion of decentralized blockchain-based services that cater to nearly every digital need. From investing and finance to social media and online storage, developers have created various solutions for a variety of needs — all through the lens of decentralization. The latest venture in this growing sector is Tron (TRX), an entertainment crypto that offers users a new way to experience entertainment like never before.
 imageSrc: /articles/tron-the-entertainment-crypto.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJYgCdEf/i1m9xR/Z1qwA/v4oeW5zxwmIUUFw1J+1alsMIZOJ86IgSCF67r/Q/Wnoo2/PHXt2nHHvx/fkMFGvJGOGu2pqqXS/lZr8j3s3y6udLMuNAAAA
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJZQCsAD0Ri+/YlAA/v7ZPCc4Ps4dt1Xbfgcbk9rbvuTrlVrKRUXV7g/o/r6ES4VtP04xI6j95YHLZuObH3tO1OO86f0vljc8yLpW0Mu4JjZAAAA=
 ---
 
 ## What is Tron?

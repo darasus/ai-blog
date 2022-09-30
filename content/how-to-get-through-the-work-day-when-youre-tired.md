@@ -20,7 +20,7 @@ intro: >-
 
   Fortunately, there are ways to help manage these struggles and get through your work day when you’re tired. Here are some helpful tips that can make all the difference:
 imageSrc: /articles/how-to-get-through-the-work-day-when-youre-tired.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoKAAoAAUAmJbACdLoAfgAREpiDHGygAAD+6J5buEqdWIJ1KXqBVXO94iyAM11WyAf/4U2fGZv83tHROLZLgysmLVG9nZq/RJfaL+W60btqrkc7bCnmjtiw/SPVkP/o8zZA8pWnP/z0rM8pnsXf3/896Z8lMFa//ienq9jaFK4AAA==
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJQBOgCLvegKU6JgA/vKRcdwnJdguAafRBzH/8a5ntWT2OSRsEHTfQZrufaEiU7NR73hV3Ten2C6EtGzjP9jKw/01pFjgV8iGg2re/7sPkt6MdOiNmDdqPmEKuGKfLvYV+TS0ufuqSdvuUCTpnSi+mK4gJKEAAAA=
 ---
 
 ## Make your mornings count

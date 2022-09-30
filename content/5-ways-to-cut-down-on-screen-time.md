@@ -21,7 +21,7 @@ intro: >-
 
   The pros and cons of screen time for kids can be debated endlessly but at the end of the day, your child will likely spend a lot of their time consuming some form of media in one way or another. As their parent, it’s important that you understand the benefits and risks associated with screen time so that you can make informed decisions about how much exposure they receive on a regular basis.
 imageSrc: /articles/5-ways-to-cut-down-on-screen-time.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJbACdAEPA8U7YSwgAP7X/1Km/4aPaI5ePymWR7ky6063P+sv0lcz+zb/klTfC/oTQciX7+lsm9Fn/ZcTWgnR//4LZp+IaYFD3/rszhNA78Jcg4tTFn8CjnkgdgEcP+eem3+5dpTX5iuiSnzAH+Df+i4AAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJbACdGuAwQADwL8NMo4AAP78oAHUj0dZLT363fzdSwkPQfgxU/nThR3hMmBgyHKvgy58UiQcxaPCTb9bZDt7OMFyNNypwYOZoO/Hh95OSZ1UT4//1kDNulFIOC4hzfohAAAA
 ---
 
 ## What Are The Benefits Of Screen Time?

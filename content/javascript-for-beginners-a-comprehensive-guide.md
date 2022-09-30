@@ -22,7 +22,7 @@ intro: >-
 
   It is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.
 imageSrc: /articles/javascript-for-beginners-a-comprehensive-guide.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJZQCdAEPD7n4ocAA/v243ysk6cDNH5bxoe6XIkNBOpS84AtcxfCFIxZaOlH/4S5tBhFKpjSbRfnNrOaX9cIHHD30KIBRYt8HbuAA
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdDBACIvMFFw35AUAAP79gdQ61/8jFcNFaDIm6ro2J3A952YoF7dTlujclxSodL2EnzW76bf9v5jrezi5Wer37ru964jcNHqn/Cohf/n6oTZaf4TmnB/8vX/3OTP8qH//qBj/EJKwVkieDclSCTbs3sNSAAA=
 ---
 
 ## Why learn Javascript?

@@ -19,7 +19,7 @@ intro: >-
 
   If you’ve only ever made soup as an afterthought—something to keep in the pantry when you don’t feel like eating leftovers—it might be time to give it another look. Making great soup isn’t difficult once you know how. Here are 5 easy tips for making better soup:
 imageSrc: /articles/5-easy-tips-for-making-better-soup.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJYgCdAEPDiaV/AAA/qzezL+z+O4m+3SQSJ+0apzrXVW1lR+LkTNYXq0PfHjHPec0uKuAeXQT23V1wxboS9fSDs32Z9fipChbyU8xO9e4a1F+y+Lin7P7CSOVwAAA
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABwAgCdASoKAAoAAUAmJagCdLoAAv4c9wd80OyAAP64XmX/M7qAUw4HR49VjP9/VQ2MmQGoX/XMr2Ez40+dUv+r6Y9LXTUyl3XlI9OP+FGSLvYXl+z/te/m0X6noT09AbPgxX1dDiYZGhY+lLyHYzwVm5CU/+OZ67MoLKUrx9wbihiUa7y+SM3/jJFD5cXCEiFju6gwAAA=
 ---
 
 ## Use quality ingredients

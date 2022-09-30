@@ -21,7 +21,7 @@ intro: EOS and TRON have both recently gained a lot of attention from the
   another. Let’s take a closer look at NEO and its competition with EOS and
   TRON.
 imageSrc: /articles/neo-the-chinese-ethereum.png
-imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJYgCdAEf/bY2qzJAAP7+1kVsT2dkj7bNvuorN47vkt+UcPADviikcbVc2MuFP9Ih4sDR+xR2Qvr72/FCx7d+vRAWYJrtboAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJZQAE+AJ/X22S9ky90gAAP7+Eq31a36fM7cp8///R8w03rjDSLyYE/M71HXT9HWZfgv7e46WYP/RhMNrNHNe5dY7k5Olf/TK9QX+Z335vUKw+6vtnj6CusAAAA==
 ---
 
 ## What is NEO?

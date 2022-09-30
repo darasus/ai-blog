@@ -23,7 +23,7 @@ intro: >-
 
   If you’re ready to learn more about how coding can help your kid grow as a person and as a future adult—as well as why it’s important for kids—read on!
 imageSrc: /articles/how-to-use-coding.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAgCdASoKAAoAAUAmJbACdLoB+AH4gIJEBRv1qike0AD+9f7lfn24nSJ0II/Yv8sQuRhq0+Btpoc/ZH3ugGX3eP88nRCCSdYWjIuvOr8UiX7qYXR20N4gTQMFf//MXjeHhkRrZk1xCkOlMeC/r1/9Xk4Nfu+JtdaKAwWnLibecv6NAAA=
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJYgCdAEUVDGQX4K0AP77VtzOz6Lbf3NSiYyJcQd/L/4P3iz003DY219Vx1pnnImKsx9rEtvb4bJNGQjUYIs+ybM3kwBu+lV9rMzZAYtzswYtxwc7wgX5nprYAAAA
 ---
 
 ## What Exactly Is Coding?

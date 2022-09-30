@@ -22,7 +22,7 @@ intro: >-
 
   Whether you’re launching a side gig as a consultant, starting a bespoke clothing line, or opening a neighborhood cafe, researching potential business funding options early will pay dividends later. Business funding can take many forms: Small business loans, angel investments, grants from non-profit organizations and trusts, friends and family members willing to invest in your idea – all these different sources can provide capital necessary to launch your business.
 imageSrc: /articles/how-to-get-your-business-funded.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEPAxMeXyfgAP76Sf7c9Egu4b1QYegkFQcWRiIniPSua38MljDShGhT3vn8kDItFIBLqEc2KOKc2WTmJAliaIh+aeKP92DIAVk+wBbwyqP9TMgs7FB8Et41LOPs+a/4BFV14gAA
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAACwAgCdASoKAAoAAUAmJZACdEf/jC/3xFHUEDjcZgAA/gqPzL6h5X8wLP+H2OILcogzx/wxNkh+H/NlEcpRnHGmHn1nAOetN2ZOUiSr5drPU+hf+0dnJD+9cR+qmv/L7TO5MX/8ijD6zzf3sJDPlPUGLizzu9Ffj0LDyw/NXSeO/YEsTum7KAF9NeN+ZAAA
 ---
 
 ## Small Business Loans

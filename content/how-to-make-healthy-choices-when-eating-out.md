@@ -22,7 +22,7 @@ intro: >-
 
   However, with some knowledge about what to look for when dining out, you can make healthy choices that support your diet and lifestyle goals while still enjoying yourself at the same time.
 imageSrc: /articles/how-to-make-healthy-choices-when-eating-out.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAgCdASoKAAoAAUAmJZQC7DBACIb/Vovo/hnqT9AAAP7+bLrBu7I+660XGGszmNxz/vhMle59/Nr3U0+XiT6slIyW6TMb9s8sUanFrGR2/+g6nPfcALvrbK++dP/1uVRMNVwlwAA=
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoKAAoAAUAmJbACdAYvXoC8MZZm8kAA9r7FC+2imwLPiF2reJFOm0l4l9RGoll75H3DUwdmHh9EX59WY9756JWU3x/tyJl2FKCIKV/I0bQ8ydLJW4grOst4+iCQMoT7DZmNFYHlwYJKSROZ3LJJ/OIqXfGYEDFS7l14mv/+jrsZ6HwA
 ---
 
 ## Know The Basics Before Going Out To Eat

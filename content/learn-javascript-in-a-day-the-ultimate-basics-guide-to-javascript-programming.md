@@ -21,7 +21,7 @@ intro: >-
 
   We have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.
 imageSrc: /articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png
-imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZwC7AaaU80VOOnMAP79i/7qCpvb/Un2LR6TIPe8gWP+ziCKaAt79+kQcMSfj4HQT1DksKCVjomEp6gcMIeiwRAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA
 ---
 
 ## What Is Javascript?

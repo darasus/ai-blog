@@ -19,7 +19,7 @@ intro: >-
 
   If you want to get more from your laptop — especially if you plan on using it for intensive tasks such as photo editing or video editing — you need a Macbook Pro. The difference between the two models isn’t large enough to be noticeable unless you really dig into their specs. The Macbook is better suited for casual users because of its lower price tag and reduced weight. But if you’re considering buying a new laptop anytime soon, read these 5 reasons why You Need A Macbook Pro instead of the standard one.
 imageSrc: /articles/5-reasons-why-you-need-a-macbook-pro.png
-imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAAUAmJYwCdAEQFGhAm6JwAP6KfT3jbFaPps7B6sT5ypJKFg985edHUuXLVLr245fJJzYPECRaYbw274bUHPPeqUvD8AA=
+imageSrcBase64: data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoKAAoAAUAmJZwAAuabNyQAAP73wc//IHoH/5PD9rW/ILDn/8c/vb/8N4xadJYydrQDp9O5ckK4MvAA
 ---
 
 ## Macbook Pro laptop is more powerful

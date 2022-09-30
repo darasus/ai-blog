@@ -20,7 +20,7 @@ intro: >-
 
   Users and businesses can use the internet of things to track the locations of their assets, monitor usage patterns and detect problems before they become serious problems. This article explains why you should invest in Iota and its pros and cons as an investment opportunity.
 imageSrc: /articles/iota-the-internet-of-things-crypto.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJZQCw7EO9dtMEpAA/vsYl//H1CxJR0+PX8Hqi62rE5cfjzySYOevyyQK1Plgl/WZ7ZJBCR5JfLJjHGZaKn/9ARrJ0pZr7QrBP58NXIFMBcL/yAA=
+imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAoAAUAmJZQAD5GwykVVFtAA/v7rjydgoXl4wIBsmH8Gil7N3NdYqPlE8gTVOtddwl/hcvi1L5QEp3rNRdc0oQYGkoRa6qvfgAAA
 ---
 
 ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

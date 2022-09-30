@@ -21,7 +21,7 @@ intro: >-
 
   If you read or listen to much mainstream media coverage on this topic, you would likely come away with the belief that there is a veritable conspiracy among employers to pay women less than men for doing the same job because of their gender.
 imageSrc: /articles/why-there-is-no-gender-wage-gap.png
-imageSrcBase64: data:image/png;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoKAAoAAUAmJZwC7AEf+8P3vgAA/v2XwLAh42ycOHczDr46wWSFrSSM5NRcDNTjc4dSzytpmwXNUuAAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJZQCdAYq1vunkRniQAD+8Kbv/2Ed//hdwcifosJrk7deH9qWUSgnOh+717uD6cwLcFb8y6DX4O70DNs3vjr4tvshT5jK5X43u3GtRdkHVl92Fhj1cJYhuo11vAOK+Bbsi/zH35vCYdkB8mUAAA==
 ---
 
 ## What Is The Gender Wage Gap?

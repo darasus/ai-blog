@@ -20,7 +20,7 @@ intro: >-
 
   In this blog post, you will learn about the benefits of a plant-based diet and which foods you should be adding into your diet if you want to optimize your health.
 imageSrc: /articles/the-best-plant-based-foods-for-optimal-health.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJYwCdH8D2KwWjb/O2swwAP72/+a7qn9qHqslVZZ/ePZ5yrXlb6C/Ivi6+f3k/Ewkf+4BWxCmiXcx+n1fYMvTcZyLUfrhSAI576vdpWl48oR4kURA1dtEpTeENkW/EDbtBVs5UxpB67Nk6aQMAAAA
+imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAACQAgCdASoKAAoAAUAmJZgCdDBACIiLHYRLaCz4AAD++HA364INTXjgcAg99kV7x5c/X8+Qn9oQ8i+P6CL5qDTY2ut0tJf+2f3FfgB7Dcf0tvR29ju3rUACNVp0JEqWdBf5cboeiyV/t5LN+fNBHHwOEKnhk5D/vsgwfa+IcZwVTr/Q3+PS+9/mvDWuMi4/h1jv/ymeh39/wAAA
 ---
 
 ## What is a Plant-Based Diet?

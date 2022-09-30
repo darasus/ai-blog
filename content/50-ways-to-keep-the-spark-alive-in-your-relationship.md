@@ -21,7 +21,7 @@ intro: >-
 
   But remember: You are not alone in this struggle! Many couples find themselves in the same position at one point or another. So take heart – whether you’re just starting out with someone new or are looking to reignite the passion in an old flame, read on for 50 ways you can keep the spark alive in your relationship!
 imageSrc: /articles/50-ways-to-keep-the-spark-alive-in-your-relationship.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJaACdAEO6D144AD+/iuR16hNb5F4OVo3HRREE2Wt+fWX5tq4QHrskIPzh/SYZOuZHIl/p84tup9I71MTaAioz/FP4AKGx6ff/gsqWTz/O39HQbseAAAA
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdAEOeISGfpQYAAD+9n+tbYLe/qRmvmFNUGgfuPsFSnmFYv8OshcSmXra7pnFcr+fk6LCUp2xNYnTHdwLZJWUm5T/8quZMcLI/Yu6POFkTutdn/xGCnALl9yDvCvP6YOLtLAAAA==
 ---
 
 ## Go on a Date

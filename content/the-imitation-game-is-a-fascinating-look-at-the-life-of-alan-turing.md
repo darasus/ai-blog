@@ -20,7 +20,7 @@ intro: >-
 
   Turing was a brilliant man with many interests that went beyond mathematics and computer science: chess, cryptography, music theory and programming computers to sing are just some examples. This diverse background helped him crack the Nazi Enigma code during World War II at Bletchley Park (which has been nicknamed "Codebreaking Castle"). This saved countless lives and accelerated the end of the war by two years. After the war ended in 1945, Turing continued working as an cryptanalyst for a few more years before turning his attention to other interests –- and it is these interests that led to his arrest and untimely death at age 41.
 imageSrc: /articles/the-imitation-game-is-a-fascinating-look-at-the-life-of-alan-turing.png
-imageSrcBase64: data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoKAAoAAUAmJZwC7ADdlEPr6hLgAP7+UU3u/lZPivKmT6Om3NlFzfvaZ6j/qJ+X9uT9BcgYRMexQ5/2Q+ADUe4OIAA=
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoKAAoAAUAmJZQCdAYuvqc45dgzIlwA/voOuBY5HsB0gUyMS1kPaOD/a5PO5GAMHpg+njIECxos2nOSA6pmY/GhZ54kUbcBavf5KmUaBbX3c9M9aMwjyyQTSymhDFXgKiVzn0KYoUCAAA==
 ---
 
 ## Deciphering the Enigma

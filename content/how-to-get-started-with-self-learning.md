@@ -23,7 +23,7 @@ intro: "Learners of today are different from learners of yesterday. Today's
   they think it’te scary or difficult; it actually requires much less time than
   you might expect! Here’s how to get started with self-learning right now:"
 imageSrc: /articles/how-to-get-started-with-self-learning.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJaACdLoAAwi/xIrwAP79s79qZNDa3UpYdT5cMFusvVDZpUGUDeF862ZQyQ+7vfNImT+NS1eOZieq1JukD26m/TolIfxciCxBM/8uuDhZ+5p6PJzPq712AAA=
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZgCdLoAEJOTgYPbRsQAAP78rxYSQCW+zLWUEQyo+7lnudKq0WFpNoMe7mjX0/gV3nfhfQLhozTlnUOLA9IcJfOHi+sF/zBO+PlNq+0cHTf0Mrb4fcR3hW+AyP7VKQYYVxHPy2S4oQgAAAA=
 ---
 
 ## A Short Guide to Self-Learning

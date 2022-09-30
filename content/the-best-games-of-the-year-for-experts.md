@@ -20,7 +20,7 @@ intro: >-
 
   So if you think you have what it takes to make this list of the top expert games of 2018, check out these top-tier titles for some expert-level fun:
 imageSrc: /articles/the-best-games-of-the-year-for-experts.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoKAAoAAUAmJagCdADcHiKavpEAAP799P04wnkp0+edkPhR5rUgMzfF3SYTc2CYe0vuge9aFJLcOsxW3fex71p/hGIFPSg+qd+f3EypuE1J9AAA
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdLoAEIsT9oskDgAA/vVha66x4IXjUUbgecajNtBdTY4JLr5wgO8FjVJ6bVDyv3/8YsTjhHN/46Ie+mqGPJ7cFwmq7BNs5zchiFhIm/+vYsyewwwPgWH7fVd2ehx/S4nopW+YYePkq/2EAAAA
 ---
 
 ## Hearthstone

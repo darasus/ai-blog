@@ -19,7 +19,7 @@ intro: >-
 
   This article will focus on why you should invest in your own learning, what self-learning looks like today, the benefits of self-learning from an occupational standpoint, as well
 imageSrc: /articles/the-importance-of-self-learning-in-todays-world.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoKAAoAAUAmJQBOgCK3kR7dzOAAAP7+cn+t6vBc+k99XbjuI1GSk/EvQq62UWblbGS/LQjBkmlwTe/fTzU6VGDR3Wby7wNtlLYkrHv7BE7qVWoA
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJYwCdADdb6JR3/gAAP786doLPbSqnr85DUg8KbpBhf/kvXPq1WSYzHLiW73zP8miv6i94COCwDa8z5uo9Z9HhFGM0F5eVv/RqDpRfqfMAIoMVolrBFbeKZvUAAAA
 ---
 
 ## Why is Self-Learning so Important?

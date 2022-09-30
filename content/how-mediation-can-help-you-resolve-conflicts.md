@@ -23,7 +23,7 @@ intro: >-
 
   Keep reading to learn more about mediation and why it works so well for resolving conflicts.
 imageSrc: /articles/how-mediation-can-help-you-resolve-conflicts.png
-imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJZACdAEQ+lv8OyxAAP75BxGdH92+f/v556bqO7nzxcd+P/Q/6+jS3/nPQLLTKZ3+/vdORVoXrv927NeRq/FMfH692fIXz9JbnATmXRvPxHgfEn/0n83JyNRVd5ouhv4NyjuZ89TQc//g5Ms3cRK/J38m4GMhOwb0QEwRISV8fOoAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJQBOgCILmr8EHIXWAAD+/EJcH6D31Eb3NnqolNot12PsaTY/1q0hZ9y091rXiXbzZ7uHh6J3L7L75al3Gao5GHvCSg+S7z2EnTYOLy4uacAlZJaUtB7fsI9HO/gW/fIIVopgohIAAA==
 ---
 
 ## What is mediation?

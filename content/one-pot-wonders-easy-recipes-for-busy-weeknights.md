@@ -18,7 +18,7 @@ intro: >-
 
   These super-simple dishes are the perfect solution to your end-of-the-weekend blues because they are quick, convenient, and require only one vessel for cooking and serving. One pot wonders can be made in less than 45 minutes, which is perfect for people who don’t have much free time on weekday evenings but still want to eat a wholesome meal at home.
 imageSrc: /articles/one-pot-wonders-easy-recipes-for-busy-weeknights.png
-imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwAgCdASoKAAoAAUAmJbACdAELVuTPqmjEAAD+2G3aYIy+FnOxwX/1+kUlX9UwBJ5X+RG4JEQ99xyv8dwIJeL/NyPs5pehJw/+wbwXxyEHM+n1A1nnaf8n4T7GC/usgUr0IajXs3AM2xjrJ//mId8wMomdP/8pcyEUlmhK4Tb/5cL9H4g//LJ+Nqf8fUfNlAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAACQAgCdASoKAAoAAUAmJbACdAabPm8cHyab/qgKAAD+9MXEq93XfboWBMmZi6j9Wh67QI75DHhPzHAOzMQMp/X0IFhYBdJh9zj8+VtOcsWGnrJZN2ZQfFahwhirqn7xO+lPowBfSc+Ymnqc8L09EVwti/1/3szZvwC16Ga/NKX/F6ZxgOzRKEQf/cuvQAAA
 ---
 
 ## ##

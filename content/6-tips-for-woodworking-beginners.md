@@ -19,7 +19,7 @@ intro: >-
 
   Not everyone is born with an innate ability to build things or repair structures. Some people need to learn new skills slowly and steadily before they feel ready to take on something new. Woodworking requires patience, precision, and attention to detail--all qualities that not everyone is born with. If you’re interested in learning how to work with wood but don’t know where to start, these 6 tips will get you on your way as a beginner woodworker:
 imageSrc: /articles/6-tips-for-woodworking-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoKAAoAAUAmJagCdLoAyv8D2H8TgtQAAP7oAM32H3L/oFYnnHSYgrO47O70GE5H8PMLItk1WPp5I81YRd7q4pAgb8H/3ImuLhutgXj/+IfEi1m9Ngq7TPxBWAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZACdAYsFnYy1v+g4AD+6uZpFTydJG36dsgKTBztdDCOM7vOrkpf3tSl9bGOE0aWY37JvjtxSLj4QPw8wM3c/6Pk8C7xHFG6jrsNq37e6UEEUVfkUfX1dAAAAA==
 ---
 
 ## Estimate your workspace and tool requirements

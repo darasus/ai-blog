@@ -22,7 +22,7 @@ intro: >-
 
   We take a closer look at where Europe is heading with its various endeavours towards greater unity.
 imageSrc: /articles/the-future-of-the-european-union.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoKAAoAAUAmJYwCdEf/geiaBn/35zwA/v5yfyvegYTueXuRYQ7el8qlfen99eX9nst8jk6nmfJlcUE08dS2ctZoNy/+DZq/Ol/Q2SQKMSeFmqx4AAA=
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAYSqYRASWKwAAD5fIemP+3ml/wbqi2pqrTlygiLIuPsCpTgRrQTFkjnuZ/D/9IfvHRka5T5xTd5/x7In92XfbwNn/xnz/tj+XCh/FPclN+3bUa//OSSXlpw1Ij//pQ5zAQf8nY4f4gT1IE7/ZWaizKkAAA=
 ---
 
 ## European Union integration: Where do we go from here?

@@ -20,7 +20,7 @@ intro: >-
 
   There are many things you should know about being with someone who travels a lot for work. Here are some tips to help you get past the difficulties and stay positive about your relationship as a whole.
 imageSrc: /articles/how-to-deal-with-a-partner-whos-always-travelling.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJbACdAEVc/et4GiAAM4/o2bc7kUX0zxVUdv8hs08aWdZtfZFFfbGzI2VbR+jFM/vP72P9HfsaH8OA12HUcAWLFdrhl2Fr19kn8QEPZhrB93q9v5MOv9jRH5/4//EBPbf8e6H7//xPKEIoZsL39jf1UAAAA==
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoKAAoAAUAmJQBOgMWb1ZZZsj2CcAD+/dj1Bdo3cvege89bnzyOdqQkE0ahejOg58xm18G1hDKkK4tsHKc6z4uJtLnNe5v9a+XrWfej0tv8NtD7TWz9n8XiS3tkE1pWlyaOphEyrK5OeCfkupewHcZAek9/IlgA
 ---
 
 ## Communicate Often

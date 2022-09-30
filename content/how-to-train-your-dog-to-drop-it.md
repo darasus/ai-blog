@@ -18,7 +18,7 @@ intro: >-
 
   When you train your dog to drop something on command, it will help them in a number of areas later in life. For starters, teaching them how to put an object down gently as opposed readying it more often than not means they won’t hurt their teeth or gums when they chew on things later in life. It also makes things like vet checkups easier and even makes housebreaking much faster when combined with other tricks like ‘sit’ and ‘stay’.
 imageSrc: /articles/how-to-train-your-dog-to-drop-it.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJZQCdAEPELiKkdG4AP78nlpe+QHnsexVzHalHX/Ms7UlgYSVK+KuKYGA3jXHX/8dSsXCQY32Pw+/8din66T9oWCCnQM+q56fMl3eT8//5Gm3Wns8yVoKgsPN3jlI4AA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJZACdAYsFy2DunrQ3GAA/vNnHclYCL5xyzWv3+ZWypPNiaK9sn9j48ujt/xOq6JQFgW7jZ6ZjLp25/s4NL2T+qpxJ9AxERqJzPMcN9uUv4wP5K2Q+AR2vzT2kvmBH7Z/MeNGaA79KwAA
 ---
 
 ## Step 1: Get your dog comfortable with the ‘drop’ command

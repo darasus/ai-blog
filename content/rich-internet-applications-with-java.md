@@ -22,7 +22,7 @@ intro: >-
 
   This article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you’re planning on creating one.
 imageSrc: /articles/rich-internet-applications-with-java.png
-imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABQAgCdASoKAAoAAUAmJbACdDBGAakovB90zQAA3mdmx7D2PKDNd/+mMbqU6/L6KQISsbkejLBsmHaIf1yFPlQE+36NXc+8mjriQ4nuEhZDktH6trjHzK7ZXnu22yti45xmlfuH8CMM/kRur/myXc671v+f2fX+hdH5iz5//Q3wA/JHuP+H+4JQ/CePxGVP9OGGACJyAAA=
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwAgCdASoKAAoAAUAmJZACdDBFgUTNIgsCAAD++P3X+Ha8ufJkrSz7fS57eN/0hdsatn+Jo9p19HvLnd2EEw/9FcfJ8y/hpG6ZZ/09TWn8++0+sFyXr0lXn8eH42u52FPV76dlVG56ZYUfa4GJXjxW/NhZE0rwTl7/xOz/AJiMuzjfVZ9Hg/f/HnOFe9yP/+MC2gAAAAA=
 ---
 
 ## What is an RIA?

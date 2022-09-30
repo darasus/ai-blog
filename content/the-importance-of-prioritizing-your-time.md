@@ -21,7 +21,7 @@ intro: >-
 
   It’t not just about finding ways to squeeze more hours into the day, but changing your habits so that they help you achieve more with less stress and strain.  In this blog post, we will explore why prioritizing your time is so important, the different types of time management out there, and what steps you can take today to become more productive tomorrow.
 imageSrc: /articles/the-importance-of-prioritizing-your-time.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdAYt9s8qIHOAAP75CWSdLxwuoe1dHU72x7NYJH0lupwkhAsx/sGfKXhcgT1xG9k1wQizsb58oqAfh9nY9UIAY5Iism6pjijbhOyPR46xzD234/n7kJ/6IwH3yb7gAAAA
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAEf3XPysJTwAP788+M6YzpcwT/7H42bO2VoD0enDp8TfmDhn9xWacFXyITBEz8WhvXzzfFXr7+arfaGjmeQ0JKdISR4fq2kQMB5++zZ7xecyFAA
 ---
 
 ## What is the importance of prioritizing your time?

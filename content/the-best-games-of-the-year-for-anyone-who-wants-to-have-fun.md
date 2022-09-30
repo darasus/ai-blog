@@ -19,7 +19,7 @@ intro: >-
 
   With so many video games out there right now it can be difficult to know which are worth your time, especially if you want a game that has less stress and more fun than most others available today. So if you want some great ideas of where to start on your search for the best new games out there today read on!
 imageSrc: /articles/the-best-games-of-the-year-for-anyone-who-wants-to-have-fun.png
-imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABwAgCdASoKAAoAAUAmJagCdAYrP8rLY7gOqTwAAM43xMT0GfPF4yj58FYHmiM7X8t06tIQF537qPyP20Jljk2MqbxNdBoHZgzunC2/O+F6X9/kvH/8xeWb8S8XuzQbp5T0Lq31wDKdzmtUxAgg/JLiD+7nkmNjG2mR+xl+HcxDY54fHDu6IAAA
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJZwC7AabLAXwB7EeJeAA/v6E8y9logpLMrKZtnaj57LGaJv4sLj/y2ik3NBaAdxDzPP7r+FXYqIwwv/ES18I2agrAv4/Hh7zkhPqeev7yOyapTm9mEAnaN/xpXbw6yzls07LHsAAAA==
 ---
 
 ## Crash Bandicoot N. Sane Trilogy

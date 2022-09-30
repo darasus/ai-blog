@@ -23,7 +23,7 @@ intro: In today’s world, there is an increasing number of individuals who are
   discusses the benefits of mediation for individuals as well as how it can be
   implemented in one’s life.
 imageSrc: /articles/what-are-the-benefits-of-mediation-for-individuals.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdAD1ezVvRRIYFQAA/q39I8/epn9oRCI+a+/M9oiKyNOVhqqAXerH+9n1FINTCWVIx5m7Pke0ObkK6/kjAwuYmgcr0dYYqR8XY3+73f810YOAj+A++uq9d5Af/R56bIfzH/5gP7/5VDer//q3rxUf6/mwvn7S/zQYAAA=
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJYgCdAYtfkbv5/6gAP73X2gI70m4U/493CasRbQUzf866rc1XXaP9D2NhmBh79ZuVkrXIFm6plp2bjubsrSxLvgPUQZiiD8fwTSP+pPWpO653jobbo7uCMs3HAI/XUK490GPpjdMIOFSfSDldYx+EL1O6AAA
 ---
 
 ## Reduce Stress And Anxiety

@@ -23,7 +23,7 @@ intro: >-
 
   Self-learning is an extremely useful skill that can serve you for the rest of your life. Here are some of the top reasons why you should start self-learning today:
 imageSrc: /articles/the-top-reasons-to-start-self-learning-today.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAgCdASoKAAoAAUAmJbACdLoB+ADN/wPl8Qg3fUAA/lYA43aTHg/41LzVci1D9WYMoYrYfRcWL1MvNAct7Vk4RDJwi//HE47O8HxIUi31W+3xvkOc6dnBPw9TJYr13eiQAA==
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJYgC7AYuv2XhEceYwAAA/vvVjiHcXclfo18o4pnhjN9VRR73f0D4ttmbyBccBavIubrsfmt5PO05AJZToHVc/7/a1JWUTQTJHfflxsJxPfegzHNlwR/Gbwc58HeBAAA=
 ---
 
 ## You can advance your career

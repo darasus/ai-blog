@@ -20,7 +20,7 @@ intro: >-
 
   In this blog post, we’ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you’ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.
 imageSrc: /articles/7-javascript-basics-every-typescript-developer-should-know.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJZQCdAEYEVtcgkAA/vwJbG2WWcb+Hs5qyFzKx77ChbX08VqmaF2myr3eJ3N3CW3LFrn+hDWb+9Uk5GAha1ib3/KFzl608wN//Re++IflLh4lOQZkCz/kyQ6aWY9vAILwAA==
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYwCdAabPnQduO3bLwAA/uuQxuxDnCbRZF9wtDUx6DCvHbO2hH1Lysi1EuK3Lv6RGBjg/9+P2eZfp/wWAA8ck25ABrZSNLH9L4fPyLbrJMm9flyhV0dxEa+GEmjRZsTdlNMAAAA=
 ---
 
 ## Introduction to JavaScript

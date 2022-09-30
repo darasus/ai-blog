@@ -23,7 +23,7 @@ intro: >-
 
   So if you’re on a budget but want something better than basic Chromebooks or Windows machines, here are our picks for The Top 12 Amazingly Low-Cost MacBook Pro Alternatives in 2019.
 imageSrc: /articles/top-12-amazingly-low-cost-macbook-pro-alternatives.png
-imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAACwAgCdASoKAAoAAUAmJbACdLoA1AAV25wKIL/91gAA/tKz/Jzs/WuiX611HQVOsOWvf75zPmON6i9KVAq5xw/XTqe8OUylOPunN91o7UUm1a98dW8Bb+Q2UDEguUHWBWxv7OvPPFyIPV6P+frA/n/X8aPzNTxUUewu3fX/8msm16XdLn8w/CIHdJyXgitqj/5aJqfcoAA=
+imageSrcBase64: data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoKAAoAAUAmJZwAAupo9cQAAP7+2Atin42WeU+61aNffuj7r3/b7u3zUPG/acBnLGRYv5//wMW+JybYMTGzgNAbIAA=
 ---
 
 ## ASUS Chromebook Flip C302

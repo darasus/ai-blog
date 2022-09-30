@@ -21,7 +21,7 @@ intro: >-
 
   Security is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:
 imageSrc: /articles/java-security.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJQBOhgigNSTCXaYAAP7+Wf8PKaF66Onp77Yn5V0tl84C4vbhFxXT3nb0p6TO/rShv8BFmVlc3Gh89S+VdXMyUIZNAk6WGfbQP7Gf9/L0OaOpkLsMyfAA
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJaQAAu0eaV0Rl5YAAP792OqxfBPaas4PIgckfNpf7ONNbebqXjvLrNQfpsjZ/MWHS6BNtvHteXTz8OagjzMPsbo//OWdyVTNvDMaEkOC8OAA
 ---
 
 ## Development Practices

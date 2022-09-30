@@ -23,7 +23,7 @@ intro: "You’ve probably heard it before: When you’re busy, you need healthy
   perfect for keeping in your purse, desk drawer, locker, or anywhere else you
   might find yourself hungry and without access to a full meal."
 imageSrc: /articles/30-healthy-snacks-for-on-the-go.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJaACdAEUmhJ4hgAA/vvMSjaxOMSzREEmq8jtEFChopuAeZQqTiYP2t9NSs2MZ7FF390EA6ZD1nYTo6X9vF4d+Q2NGb4vhFRcdeiQAAA=
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJbACdAEeh7uBc4dDAAD9wM/hHM5W5Y126l0C7T+7bkZP9McegZoU3ptf8feac+M+tEgrxcWG0duj1CLHe3P9JHZafxH9mahqQ+kMOhhsHEXvwQ//M2dED4hzl+Uw1s1tmp+S5D/lRyv8X8UMMx2jcWfNU/lIo9/gciAA
 ---
 
 ## Greek yogurt with berries and granola

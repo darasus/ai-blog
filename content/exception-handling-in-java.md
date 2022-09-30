@@ -22,7 +22,7 @@ intro: >-
 
   These exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has “exceptionally” failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.
 imageSrc: /articles/exception-handling-in-java.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJZwC7AYs3uV67y3hgAD+/GJeDQgkfpr8wqGk/7U25t1UX3KytbB0+eGN10JpF+gYMk+WhlL9ZWWCbEsTTcWeUDz64UbRGoi4z4OMAAA=
+imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoKAAoAAUAmJaQC7AYrdwRu++DnAAD+/p1eEF8vx+pA8rcI8rmOVyxbAlovAHrkTBq7LuFAEqrrOED7fEuVoPAc0JGrGENIAAA=
 ---
 
 ## What is Exception handling in Java?

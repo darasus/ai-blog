@@ -20,7 +20,7 @@ intro: >-
 
   Even with the constant bombardment of pro-fad diet messages in the media, most people understand that cutting calories alone is not an effective weight loss strategy. In fact, research shows that for lasting weight loss, dieters need to adopt healthy habits that they can sustain for life—like eating more fruits and vegetables, whole grains, lean protein sources, and other low-fat or non-fat sources of nutrients. But even setting this as our goal doesn’t guarantee we’ll achieve it. Here are some tips to help you put healthy eating at the center of your weight loss plan so you get results you can keep forever:
 imageSrc: /articles/how-to-make-healthy-eating-a-part-of-your-weight-loss-plan.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJbACdLoAAncLws89qAD+9AuD4SJ/s68bhuu93tAX5Sfb4d7hvVB/4c5qiK/xLg5ne8HQruCWTq6ILudQll/YB2gIbNXhaF789JnlAG+vzGU3yTT+bM38x94XPCn3BH/4v6Dvwb+JVBVZugHapgZpXcPfP/6m8BAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoKAAoAAUAmJZACdDBAAWji9HyvgAAA/v1IfH+ajJY73bvKuJFDNyCiuaK09eknHu3c74ADJMsz95UyOo2l+bhMbJ73uCNWSHENTd9ydjhJ5KJBICAAAA==
 ---
 
 ## Start with protein.

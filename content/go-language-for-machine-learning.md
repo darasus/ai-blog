@@ -20,7 +20,7 @@ intro: >-
 
   To help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you’re working on a project involving one or more of the following scenarios:
 imageSrc: /articles/go-language-for-machine-learning.png
-imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJYwCdAELMi1EHrSAAP7+wYkldzdd+ys82/3aK/8XO/Abspm1NidOFNzTEVvNXzebknwdNgnzSxrRktuzP5N3Lk+EIoOADC8AAA==
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgMVL33m9S4gAAP7+mn8a0M62pAIy8SQEZU4iyRqwMU3fpT9ru3P9Mu537S+kALrFSvVyj9evLLiPviRuQp4subevY5/s8/zAH+n/C7aL6Kv/3OTEjyOYy5JsAAA=
 ---
 
 ## Data Cleaning and Preprocessing

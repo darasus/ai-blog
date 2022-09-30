@@ -20,7 +20,7 @@ intro: >-
 
   But being busy isn’t always a good thing. It often means that we aren’t making time for things that are actually important, like building new relationships or dedicating time to personal development. Without making time for these things, we get caught up in the whirlwind of our everyday lives and don’t spend nearly as much time as we should focused on what matters most.
 imageSrc: /articles/why-you-should-make-time-for-productivity.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCPqPDgrLCAA/vtXt2qn4/NxSO8bpFd+eb7B5ID7hF/+W8o5N+WDPT1SmF76lURNKbGfec/p9X6099y4QGIrFV5ssgGr1/Vk3DlcVtI8tWjO94AA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJagCdAELTpE1oiAA/vvXTvTLmuTQa/TB3banntvu7oK0hnpfJmxFOkv74QZnfgvuM2UVxtnP5fLwuxOTivel3uXrx7fePWbqkQeGD4N9Hmy/TQxq3+TP822GCvv5bD9JIAAA
 ---
 
 ## Productivity Isn’t Just About Being “Busy”

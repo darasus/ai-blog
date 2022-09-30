@@ -21,7 +21,7 @@ intro: >-
 
   There are various reasons why a dog may stop using the indoor toilet. It may be as simple as them not liking it because of its location or smell or because there’s another person or animal living in the house now who they don’t like seeing when they do their business.
 imageSrc: /articles/how-to-train-your-dog-to-toilet-outside.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoKAAoAAUAmJbACdAYrTvvQXuTHYwAA/vdvl1Obr3/jRbZEtT9SscpI6QUlRtbDtzU/aaH31ynKyJ7SXx+a8L494mS/tci/DMxBa+31+IigOXjb34zb+jkxUf/80fvbeYziDxR5DscAAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJbACdH8CkAA/gyrZbcAA/v2ZLAlFx5OU8vqdeWlkx4oBVjEL2H+3wwrYJV3wf7tre3YIrX/5cblXP17fh92qrUt4Sc/82H6tUfhEZPgWeaIRNg2qnrnfXvaz0M+YN0wkBAAA
 ---
 
 ## Consistent Training

@@ -23,7 +23,7 @@ intro: Given the current state of the economy, it’s never been a better time t
   dedication to not only come up with a good idea but also see that idea through
   to the end and make it successful.
 imageSrc: /articles/10-must-know-tips-for-first-time-entrepreneurs.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAYr7LkbxAAA/uhRDAAVHCdt8Is+v3bekeC4lEBYQTiiX0/fKBFrytbherIfonHc65hBsJYC/f5X+7Afbn9lCIaWfkyWff7j3sQpN/uAqV5/85XychpmZ6mMhPqyilgA
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoKAAoAAUAmJaACdLoAAv4QXm2i3kgAAP72b2Q1B5RKnHw+3M7JNt8zcfIKtOwljZ0jeosXctw4KrTEZ7tpmp/i6s1i/6vBgadHu3qapvzfCIfaLVEVCm4sqGJyEkIJ/Km67GbkWNX7DsLdKUpxelxfrdny+XGQm27JJx0qlAAAAA==
 ---
 
 ## Know Your Business Plan Inside and Out

@@ -21,7 +21,7 @@ intro: >-
 
   If you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:
 imageSrc: /articles/go-language-for-devops.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJagCdAYuRzYkX9tzUOwAAP5PHgldLDUlH3/dgGfrYilnQuitECirrWn6Kr1bBwsdnye3rx4u7e7ECnWZqdqW3XKF5oh7XmdN96XgEm9T0ZKf1P+ED9v8f8I5f6WtzW7E6fO/745lA7/Uuzs2wAGEf34oAAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoKAAoAAUAmJZgCdDKciCML0edWgW9sAAD+/oYSFV0kB9fhfc97Od/9DDuBMOuXv2V2u+Ob05Dt498+6F7NflvQx33nENBKDMC49uoabm1heIPFlGs32/lQo+Rmoln5bz9tSHr5o1/+jkzZux7en37MMaReyPXdtKUqc/7C6SP5R/j69gAAAA==
 ---
 
 ## What is Go?

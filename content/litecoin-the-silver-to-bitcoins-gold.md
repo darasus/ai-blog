@@ -22,7 +22,7 @@ intro: >-
 
   Red hot at present is Litecoin – an alternative version of Bitcoin with some key differences. Let’s take a deeper look at how this newer cryptocurrency stacks up against its older brother...
 imageSrc: /articles/litecoin-the-silver-to-bitcoins-gold.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoKAAoAAUAmJZACdAEPCberskAA/vb6vPpUp8/zjNxz1wF5S9Q2mK9fO42ZrVgHW+8eeJB/8q/NYkc2EDx4cIbWB0p1Jh1PwW+cgm4XFFaEObt/H9O/4OX74u3I9d2P/LG1VTfVpMrZqoYoAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJYwCdADc+zZCzcwAAP7zY2B9on+s3fyp69l42okM3Z7XPVUBe7irwAMRyWRtY5fxiwL2a5+PBsEv/HG//ArwCD/wC2rKUjM25os+HvfF6wAA
 ---
 
 ## What is Litecoin?

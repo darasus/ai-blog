@@ -20,7 +20,7 @@ intro: >-
 
   You might be wondering why this information is important. There are so many different diets out there because people have different preferences for tastes and textures when it comes to food. But there are general principles that apply to all healthy diets – whether they involve cutting certain foods out or focusing on eating them in specific ways.
 imageSrc: /articles/the-benefits-of-a-healthy-diet-and-how-it-can-help-you-lose-weight.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdEf/gYNYXRYAAP77yTbOIs0/0Msqr1sfaX96J+x40ErNT3f5bRJ4JBpkvEGdK7HmOFo5/EY1edaKv/JW4zJP9cgPL+xvcnR5niVPhHnk0iQAAA==
+imageSrcBase64: data:image/png;base64,UklGRrAAAABXRUJQVlA4IKQAAAAQAgCdASoKAAoAAUAmJagCdAEP0R4z2i0AAP7zr/8QNj/8lC/9W0hv1rQvx/rlk958g/4qm1deXFh/g898a1Fwf1V9qifsm+Y/zz7lVlGdEWNBA7lKQ/e6Rv+N301hPup3gw8Tnv8TyJkvR2f8LSOq9KTuzYVN6dcdO+Xne/+bhc9m4Pkg2io+1+azl/kU5pv8QBe/KG/7kPPv8YFv+Tfi7VzgAA==
 ---
 
 ## What Is A Healthy Diet?

@@ -24,7 +24,7 @@ intro: Starting a business can be an exciting challenge. Passion and drive are
   while also keeping in mind the realities of operating your own company, so
   that you plan accordingly from the start.
 imageSrc: /articles/how-to-turn-your-passion-into-a-profitable-business.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJQBOgMUy5JSpCkRDKcAA/vNH3eNuPZsinVRPn+mWx/3MIWi+8S4SlwT5E5IUeroEL54sbHCSI4vkgC1dm+5cP+0s2ObFzBasOkcSdntWh/s8xj/VSz5Qz5bhTi3t47/rjhR9ewfn4ZjeDyOa8Hw/6CBnH3f/HhFBexL3bjAAAA==
+imageSrcBase64: data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAADQAgCdASoKAAoAAUAmJYgCdDBLyUx+Nd5scz16NlgAAP7B29r0wK6f0ZvmqN9f/itn/HMgFVMV+gBz817+LQ/z/uFFDGYDrH+gM65YdEtQPlsddud2Owthg/zdTSvTPnODUQv8TR9tzZC3/Br/v0uf6W+FowfzOt6vJf1MnTffmeVtenn64j3jU/4XfBz+tJl+y981yb9Jj9PRhg9K4tYAAAA=
 ---
 
 ## Define Your Company’s Mission And Goals

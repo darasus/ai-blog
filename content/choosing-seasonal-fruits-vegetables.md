@@ -21,7 +21,7 @@ intro: >-
 
   In general the best time to eat seasonal fruits is during their peak season. Doing so helps reduce food waste while being better for the environment than importing them from faraway places at any time of the year.
 imageSrc: /articles/choosing-seasonal-fruits-vegetables.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAgCdASoKAAoAAUAmJagCdLoAfgARFReocdD49UAA/vhEYvferVme9H/MOI/VyFqeJpHnH3GkBaC7DrO3fG1L+D9qERPe4yc1btF/1llGZ24DWZWHxswKeV9NYqnsGFTMl0lDfwcmf4v5j7Dyvj557Fsq22d2H+Tkz+DdZ0jpAAAA
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJagCdAYuRbJsfI+kCAD+64I4gM60IEDvhTBSDc2go5i6h9PaEqSkCQb9qFr9yleiq7AKEdLF28XJg/EPKldlztsLLC1Knv6hE5jGhhvptn38/8n4Os3x1Z09+INdXxvd4zVffncGgLkAAAA=
 ---
 
 ## Vitamin A

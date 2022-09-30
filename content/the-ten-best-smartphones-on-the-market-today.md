@@ -23,7 +23,7 @@ intro: Smartphones are a big part of our lives. They help us stay in touch with
   keeping an eye on. Let’s take a look at our top ten picks for the best
   smartphones on the market today
 imageSrc: /articles/the-ten-best-smartphones-on-the-market-today.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJYwCw90bgbAbLP05AAD+/czfWW/vt9dtefxHYLYwkNoOOapYSieeMfMgG/mm0X2gAGbyfO4z2vnvj/Z9voZ8YTYpj0K7Gefo8oJFzt0H/cwxwzTIlsJwe+4T/OP23kQAAA==
+imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAQCdASoKAAoAAUAmJZwAAlqTnQ9AAP75CdxvEUg/ew++Z1D+nE31//kYt5EysFM0LHkPxGr920qeahk6sk75kcvi+Q2TzEU/wlBd3QGjI54oP+EAAA==
 ---
 
 ## Samsung Galaxy S7

@@ -20,7 +20,7 @@ intro: No matter how many tutorials or articles you read, coding is always
   your project. Read on to find out more about these coding mistakes and how to
   avoid them when coding your next software project.
 imageSrc: /articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoKAAoAAUAmJZQCdAYuvwTOugSDPxAAAPlw/0uA+qO7miy7L243Th6phz0rLZN2dbKg1yG0IE8ky6Al0tvFybEYULF1dylVn+Ar1drMRn7cbGygT1uIwzrAAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJYgCdAEOyCoOJwAA/upJ33Kbkfm2QfRlEkL2YSd1kK07e49sTpf4PBcbtgZJqjjg2DATFeEo+hdHiafdwlIvqJ7CQQn0OJve7uuLmyLSAAAA
 ---
 
 ## Don’t Know How To Check For Errors?

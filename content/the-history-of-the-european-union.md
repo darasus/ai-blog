@@ -23,7 +23,7 @@ intro: >-
 
   The European Union (EU) is an unique hybrid of intergovernmental and supra-national institutions. Its origins lie in post-war cooperation between governments centered on trade and the goal of a more peaceful, prosperous and stable Europe. The EU has developed into a dynamic union with its own legal personality, institutions and policies covering many areas such as: foreign policy, competition policy, education, justice, agriculture and fisheries, health services and research.
 imageSrc: /articles/the-history-of-the-european-union.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQAgCdASoKAAoAAUAmJbACdAEDe8kWHXegAP76DAkRwK836zREePLFBsP7TfEVIGFhq5oytUjwo1/ef8/+rl/3dRz5HxWmfOlrdRh5AjP+FRL0w+Qj0C1w++v/5beXrZA56IabrOc/04pr/nS9Pr3/Bn/M1if7f8/yMntrVKAe7/9ZOhv9l3I0pJAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJYgCdAYrxavw2xAAAP7+qWvVGdWw8UcK0SMcDfj/gQyVN9su2TrRaUWIX757ZnUVk8j/RbetRZiKLIV/j+zO/gSvfzyK/K8hQhTn3m+6oG6iP4bdXPnxmfDUAAAA
 ---
 
 ## Origins of EU Cooperation

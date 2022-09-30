@@ -21,7 +21,7 @@ intro: >-
 
   The global pandemic has impacted all airlines, not just those directly affected regions. Regardless of where you’re flying from or to, here’s what you need to know about your flight during this turbulent time:
 imageSrc: /articles/airlines-are-struggling-to-stay-afloat-amid-the-pandemic.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAACQAgCdASoKAAoAAUAmJbACdLoB+AADFi/sf6R/4AD+yiAwUq0DB23pfD7NeMfrzPGVIRXwa4XP3/4MCkfXJ/mv/ltqq1y6B9IP/vyc2LnNfmedP+YK7f8wA/5ccAAA
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJbACdEf/geGGWwAA/pEqxa9YK4l/h4NGv1Xvygt+NA4wkfMzvUWSLlUfqmXWtL9jeyuqqmRzZ/+CzPwzSZEd/xhO7VN/7V/kFvQ+6W8f0jvYqYAAAA==
 ---
 
 ## What’s Causing The Pandemic?

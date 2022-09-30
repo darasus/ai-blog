@@ -21,7 +21,7 @@ intro: >-
 
   Whether or not your child is a picky eater, these nutrition tips will help them understand why it’s important to eat fruits, veggies, whole grains and other wholesome foods. Whether you’re just starting out or continuing on with this wholesome eating plan for kids with more advanced challenges, the advice here will help you come up with fun recipes they won’t soon forget.
 imageSrc: /articles/teaching-kids-about-nourishment-fun-and-easy-recipes.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJYwCdAYrJ25rZ9beAWAA/vQShANTa2JfbyVt72ogMNIcr3jxA+QhcfZ7s0B1cfvsfyr3LOu9A8iUKcw4/aA8xQfOs6bK+oP9ZbHGnmQ7m7lVQ60rniQKxiw59PdwYwAjgEAA
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoKAAoAAUAmJbACdLoAAnChL/nVQBAA/ut5/yqz/2x/9rnd1j/9uY6i/cH/1wa85JP6qinTEfHtAd+aQq9A9G2OTDoCa8zZk3zWtBLpw0nkPjW4y1nMUZQISckTTvHqDvvYTX+3xlH+Q+vl2x2b6Y4zvz50/XJM7nUm30DSkqzSzsAA
 ---
 
 ## Don’t be afraid of vegetables!

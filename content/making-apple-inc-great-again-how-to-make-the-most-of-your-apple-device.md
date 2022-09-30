@@ -23,7 +23,7 @@ intro: "Today, just about everyone has a smartphone. If you’re reading this bl
   features, customizing it to fit your needs, and keeping track of everything
   important in one place."
 imageSrc: /articles/making-apple-inc-great-again-how-to-make-the-most-of-your-apple-device.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJZgCdAEfUn6e2vEwAP78LqF/XvwLeaxh/9MIPTSn/3SY/D0l+APOnyueD0TB4Dhr3avgg/9jf5pHWDx9UVJH3D/S+DvupmvVAUSKIRcnvOxk2mt/a9Oerf8XiGerednZQAAA
+imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADQAgCdASoKAAoAAUAmJbACdAYrR5Z1AA+ZUnA7sNgAAP7KvsBjUp1cl635vcUxT54jr1T7wGJGF/b/7zLR/MbrMwL3cQADL/CZ/sIJMmVVL/cDzLLd9WIuJDqqR0LvQ+sydC9MoTp/+TtlfokHWW6LO0Gsg8njpVpFpnv5pc4kY6Ivdwe//jnKVR1Zqs09MT/3nG6zAjPn7+AA
 ---
 
 ## The Basics

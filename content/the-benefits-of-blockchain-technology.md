@@ -21,7 +21,7 @@ intro: The world is full of digital solutions that solve problems. But few
   blockchain represents a major innovation in computer science, with
   implications for almost every industry sector — including insurance.
 imageSrc: /articles/the-benefits-of-blockchain-technology.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACQAgCdASoKAAoAAUAmJZgCdAYrt8ALa2BS/iuMAAD+/XefIwsfHGLNvin+Uz9WkSd0K7fFCNzLxMDXxJlv9QEvGUY6JucE9Wia+r7T+vi1M4+GzpLsM/1XYBareg58BHB4jSZQLSt3+HQKG/EH6gwSpX2PXcfPHXFuH0wAAAA=
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJYwC7AELKMy9C4AA/v4sIp13a1Zdx5FcTkaIwfZMDzER7ha7KoiMAfpDl0NyJt3pZKh4wNx7J3YbaVszZ9YLrap+eVn8EJS3ztzxaYdX4UAyo69u6AAA
 ---
 
 ## What is Blockchain?

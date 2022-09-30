@@ -22,7 +22,7 @@ intro: >-
 
   The process of launching a new business can seem overwhelming at first glance. Fortunately, there are resources to help you take the first steps towards opening your own company. In this article, we’ll explain everything you need to know about how to turn your idea into a successful business .
 imageSrc: /articles/how-to-turn-your-idea-into-a-successful-business.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoAAv46OMkUGPwAAP7YX6Jo24iZUOO1rXtlcg2Q9wdUObtzEPDa/iLyqPPfylrmp2XBGGlLek4b/5uI/8a6XNXIvl/0niE/FJTPtfzp/+TWQBKY56GvDX0Qfx+E5bE3gAA=
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJZQCdAEPC4s+Ad0AAP7zOf8B9vg/GnNbG3j2WqepS7GPJyz3chrFdBVrrppjcR7/Crr2lL1vl29p97gIFw06j/qrclyZWtk8n+3sjHwj2taCkAA=
 ---
 
 ## Step One: Conduct Research

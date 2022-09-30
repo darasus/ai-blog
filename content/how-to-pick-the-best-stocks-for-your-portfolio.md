@@ -20,7 +20,7 @@ intro: >-
 
   Let’s take a look at some tips for picking the best stocks for your portfolio in any market. Your stock portfolio may seem like an unchangeable part of your financial plan, but it’s actually one of the most flexible components. Once you know what kind of risk profile you’re comfortable with and which industries or sectors you want to invest in, you’ll have a clearer picture of what kind of stocks to buy. Here’s what you need to know about picking the best stocks for your portfolio:
 imageSrc: /articles/how-to-pick-the-best-stocks-for-your-portfolio.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoKAAoAAUAmJQBOiyAANl4WAAD+/eU+67XpzE2MURFm23BcJZvWmL5H6iyL5ZO8n9a+rf7lLCtADKn++O/pEouNnwcA+WJp4GfvGP/kKlNuOSV+LpAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJbACdLoAAw17yxFN1AAA/v6YSdoj0b/Fki2caz/+gS7hZtsA63OfU95o7RGTpRHQ8BeiV6Vz2QVemPcTJvJrCPhajRzdugOtvkKDxpBzZfSOMYylwn+w4f/wxZ0urCp7iXJV/rPw7AW/4N/2nXt/vWhSo/8RcIyUEkryGAAAAA==
 ---
 
 ## Know your risk tolerance

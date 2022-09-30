@@ -21,7 +21,7 @@ intro: >-
 
   Exercising is not always fun, but we need it to remain healthy and fit. While some people love sweating in their favorite gym class, others avoid workouts because they know how much they hate them. While exercise can be difficult at times, there are lots of different ways you can make moving more fun so that it becomes second nature and something you no longer dread.
 imageSrc: /articles/10-ways-to-get-moving-when-you-dont-feel-like-it.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoKAAoAAUAmJbACdAEUnGh67PbQAP7yEzGLjED7qgDz219i5wL2PwdbrQ75FWAaHxakWL/8HkCO8Stit/kXky/b3xRHzxTfqXKLsYd/5ha6fX69Ze/YVMZ//1gbc9fxMQAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJagCdADcZ8/jpyAA/vyjlkFnNY/NVfia++PG5xqfG913M6doZNOcmPL+WITHnXvPDOiZh4K+AdPPaZFUflv/0CquaZC1rHRun6yTF7Tf3vohP723j3sZfdA9oAW7Y/4kZkgA
 ---
 
 ## Go With The Flow

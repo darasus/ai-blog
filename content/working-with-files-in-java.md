@@ -18,7 +18,7 @@ intro: >-
 
   Working with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new "File" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).
 imageSrc: /articles/working-with-files-in-java.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABwAgCdASoKAAoAAUAmJYwCdAaXPAJmZJ76HyUAAP7PfZR7nxV18ew+evuaxkW8YO21imp8WnHfp3YuwW3lNv33oiF3GS+p34Hah/FvXTIQ27M/kMVuV7e9LnxhDSAA
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoKAAoAAUAmJQBOhggBEAGXCVtLUH8AAP75Z/Tvn0b3g33u8luM6hOV5sL4MOZ0m4jBp5zPzOEzaNJnAH/3axz/9lr4T4//t5q/8rKOcszmHGlf6eot12/A/rV+LpmX3IOSxiqK8miUUGesHf8pNQaLcDJamqAQAAA=
 ---
 
 ## Create and Read Files

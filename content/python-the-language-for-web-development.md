@@ -21,7 +21,7 @@ intro: >-
 
   In this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.
 imageSrc: /articles/python-the-language-for-web-development.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJZQCw7YstvqiMNsgAP72zD2tX7IIQvslxkv19sixpU6Rrf7nKM/LNtU9QSJwjwL6f+Orc/fcrGicO0c6xfZyBltb0rH5ba9ZeckZHAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoKAAoAAUAmJbAC7AYp5vqq3qTjYAAA/v8AeoCjhp0byksOD6dy9AA+0h+vb0OEVSfnIoG0LFkB72dnDZpeUqtdS4bsosrZmKf/lL3f/QZ/ukZQAAA=
 ---
 
 ## What is Python?

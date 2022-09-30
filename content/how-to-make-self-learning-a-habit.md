@@ -21,7 +21,7 @@ intro: >-
 
   Even adults prefer different methods of learning such as reading books on their own instead of listening to lectures or attending group classes. There are numerous ways through which you can tap into your inherent abilities and cater to your specific needs as an adult learner. These tips will help you hack your self-learning skills in no time.
 imageSrc: /articles/how-to-make-self-learning-a-habit.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJbACdAYrdyn6FA2bSmAA/k+rSLuMNbLzj6P3lcN3eyaj78QdDI/amaPl5Okc7tDmv2/gM09LZmY1SrqruC+caSYBfc93vkJpB5TQTPAP/2f7ZDnmwf7jf/4IoP//oYn+I7u4xRome6J/5N/3thQAAAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAQCdASoKAAoAAUAmJQBOgB6OUPtkAAD+919t7sXH/pzS1/+KO3zGwzMIDraxH8/ngiBqrK94guJWX+P7yyrT07TYiZcTXVdgbcnzG4N2PFxfnP/7t0Q1nSSxDDy/d2p27gZai469F15/h6HkpbIAAAA=
 ---
 
 ## Build your vocabulary.

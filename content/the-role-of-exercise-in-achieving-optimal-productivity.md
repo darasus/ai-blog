@@ -28,7 +28,7 @@ intro: The world of work has changed rapidly. People are no longer confined to
   other measures designed to give people more control over their lives outside
   of work.
 imageSrc: /articles/the-role-of-exercise-in-achieving-optimal-productivity.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJQBOj+AQVBf7VITFEAD+/P22jLyDC4No7sGScYxsfaOdLOCZLz6JyQfYXLpYpOF2cD8H9kif6sEWDv+lSQlp4Inr3++5WouVBGo9r1MKkILiZ4V3VbehQeoqnDM7P7poXmR7gAA=
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAACQAgCdASoKAAoAAUAmJbACdDiANFuBjQ+Ii6vb4AD+1ir6HVlmmFzMZxM599Yn9Lt+tKLUVIYDkF/2i8W6asOov3mVrx8ClZPakHyCylZx6w2/ejgubD2vAe5pm9h+awtO5qTu/YLmaSFhbz9CXf/4exN8Iz6nvQP8qLNc0ExYF8Sv5KADsTrOPu//5s01/pqu8m/LwAA=
 ---
 
 ## Exercise for productivity

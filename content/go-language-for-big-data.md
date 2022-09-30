@@ -21,7 +21,7 @@ intro: >-
 
   To remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.
 imageSrc: /articles/go-language-for-big-data.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoKAAoAAUAmJZACdAYp5yn7pykawAD+/WDkhQ4mNUvvSwn9AAJ2sfUcmqaoQMqpk6c1kMEXJVHsdFQQoPsDclmcf5oeryc5s7fgPdut8RVBTPQA
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoKAAoAAUAmJZQCw7YplwfJs92LKEgAAP63e5vO0nING0ikNc0AdEVsayAFoS59WfiJY1E5TS2O1IN/vo29/P+PhK7u3IjgkTAXf97NFBcwymRb4oCj523uKmpySAAA
 ---
 
 ## What Is Go?

@@ -20,7 +20,7 @@ intro: "When the temperature drops, and the leaves fall from the trees, we know
   things you can do with ingredients that are perfect for the colder months.
   Here is our list of the very best recipes for winter."
 imageSrc: /articles/from-soup-to-nuts-the-best-recipes-for-winter.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJQBOgMVp3FVZC6AAAP7+3+Pn/eLOsWNnopJHfEc4PRIOpyOU8q4283qrhu5FWGmGOhP4IRb6duYrsTd9S9fa9cI/i+1iziPiBU7m4scV9T9ZPzQcQAAA
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJZACdADdYz0vVK4MAAD9A5he1ZHxozUN/BfB4fYp1+Lb5dirPONY3j4hIcx2nu7Jfrb2JQnVNfSfZeoROxTiKXDtqdz/5YB9sYMM5VVJ7F/8/y723RGIIDC5IP9Mov2v/n/SmhI68+Ft/yPGKD0mIix2uARW6bsAAA==
 ---
 
 ## Baked Mac and Cheese

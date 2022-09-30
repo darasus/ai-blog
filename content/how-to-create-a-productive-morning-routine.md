@@ -20,7 +20,7 @@ intro: >-
 
   If this sounds like something you’ve experienced before, read on as we explore how to create a productive morning routine so that every single day of your working week runs smoothly and efficiently...
 imageSrc: /articles/how-to-create-a-productive-morning-routine.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAEOz36cZgAA3jBczeZ0SF0ptV/sj1LcRGjfrbfbuz/Qga6lxhf1TvrjI6CoMhdcxLaQ4Rp4tnUVxE5Nns3uDJ1b/rtr9nmv+m2bwg/vxyVKHYhFBfPRi/EJrdoKgAAA
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhggBEUGV0ADbyAAA/vZ/6Y+rhP5RP/z+FFdzOULP7yurk7/GJ+NckesqyL29hj9sw0PJy9bKxh+QadpDHKYdUbr2/pf88a6AkDRAd+7zNuu/vJRafd0jrljNUickikpwkJKm9G4xE3jt7J5+v3/Ga9/a6j/BQU0K/jXBUAAA
 ---
 
 ## Productivity Doesn’t Happen Overnight

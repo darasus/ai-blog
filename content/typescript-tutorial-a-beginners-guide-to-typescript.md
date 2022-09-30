@@ -22,7 +22,7 @@ intro: >-
 
   This article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.
 imageSrc: /articles/typescript-tutorial-a-beginners-guide-to-typescript.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJbACdAEQzY6NvBW0AAD9wCr2yiinm9Ti0ktcucfdPvCpfHqD329oRV93Fqh+m/6anQtd3uvtuFWXydRl2Ojq6K4tOEbVsLV/+yd8KfLt77CvyKP//2Q6KgAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==
 ---
 
 ## What Is TypeScript?

@@ -21,7 +21,7 @@ intro: >-
 
   However, for many startups, implementing blockchain into new or existing products can seem like a challenging task. As such, there are a lot of myths about the use of blockchain for businesses that we often hear; either because they are believed to be true by many or because these theories make sense on the surface. But do they stand up to scrutiny? Let’s take a look at some of these popular misconceptions surrounding blockchain technology and see if there’s any validity to them:
 imageSrc: /articles/the-power-of-blockchain-technology-for-startups.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdLoAAnOBcPkj7FAA/vTGtSHjuNB3H0PL0G1T2HtH/kADxwqC2p3/2nVUnKmWLb0pDBRSLN/9MWftOakvmdwRVmu6pnY+dP5HRIbFp1DKof/xE+/EJ9E++8l3A//4YaSftPhZ6vMxnKdAAA==
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJQBOgMWWtrZDPG9QrAD++8KmhfIETuwvdGGyOLMdkWAPc5d8MmS7bPzezSyv3wSRpLp8sliE3ZAK4T/YmYjPHJXPeAAtC+4ic0yNpa81qwIGiRbPRRpHjrfud58bswAAAA==
 ---
 
 ## Blockchain is too expensive to implement.

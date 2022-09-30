@@ -22,7 +22,7 @@ intro: >-
 
   This article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.
 imageSrc: /articles/python-the-language-for-game-development.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwAAuskD4yVGuAA/v7BwZOQXwMCsZ9/ptE64WIuxwmtBALq+uySfxqQAZ1sO2vwDDtnJsB8r/rnx+7PKvCjWT+nPbr2atmzIg+J/wkhwAAA
+imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoKAAoAAUAmJaQAAu0dxd//PAAA/v60jZOE7OBmwDxMC/mvjAabBiN5ce4fnc8v1r/+LlUojE/PFXaFaef4UTWccsn/jJ2v/h9qBt6FThTgAA==
 ---
 
 ## What Is Python?

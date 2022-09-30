@@ -20,7 +20,7 @@ intro: >-
 
   If you’re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more
 imageSrc: /articles/python-the-language-for-artificial-intelligence.png
-imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoKAAoAAUAmJQBOgMVLs/2AguAA/v5ejvUOqOEPD+0k8AGK+9Yn93wU3sBkrAoEiaRPs+GyibjNQgZSaf9tBc+3tmyzLW0wT4AAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJbACdLoAAwggpUmAAPwTImav3M/Hn1JuVIaf8kHv6KeExKSLWo1FxTSV230YWP0a0pPEQgXPnsgteqI8DyLKSOvX/056XSiPf6m+0WuWM1/6g+q/1M//HOKX0DGp7Dwg/qc9+MgAAA==
 ---
 
 ## Python

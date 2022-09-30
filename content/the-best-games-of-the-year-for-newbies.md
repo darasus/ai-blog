@@ -20,7 +20,7 @@ intro: >-
 
   We had so many great games this year that choosing our top 10 was incredibly difficult. But we managed it! Here are the best games for newbies in 2019:
 imageSrc: /articles/the-best-games-of-the-year-for-newbies.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoKAAoAAUAmJZgCdAEPAXIIjQ0gAAD++i4EI+/XL6fwWoXgkrAffD+r9Hb0G6w9c+sCa3JhUR2mULAJh/YQ3vW78f1/atDrKv8Rf5O/HYs2NCDv2QsAAA==
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoKAAoAAUAmJagCdAYqhuFZrNs1UAD+/svWq0KXzSZMbdfoPjB5XP5//kbhCe/Z6HR7hg69qb617d6UmQip9BA6j8qwtua8kU5lW0kNtqsKOA1ppWW/fnx0E+XrRyVTbzAuYJGQc41240bge8oW31bxHeN6t12hVr+550xArH/RiP/c5MnwAA==
 ---
 
 ## Sea of Thieves

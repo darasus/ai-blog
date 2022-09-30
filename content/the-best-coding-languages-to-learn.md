@@ -23,7 +23,7 @@ intro: >-
 
   Coding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.
 imageSrc: /articles/the-best-coding-languages-to-learn.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJaACdAEVvOQp35tIAAD++4U3d37Tapm9XFcfva/42Ial0yDls+u6+XdjFbTtd5jL/QiabiDbHN+WOstMnkPBZ7WDKdH3jf8EYJX48/o3/VCn61Ag9s/VO+wGgAAA
+imageSrcBase64: data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAACwAgCdASoKAAoAAUAmJbACdAabbMRGzactfARks5AA4n/itdXhL/UfKSificGNs/Qv/Lxhvl/H28Lw6DIoeti+4RkyygwQEx4GL/+j4a38bU4Ef1zKJsZhjY9acIeR2hLZU05LJv+5H5TS5UO9+z5Iq9hnipZLzw77Ofd6/J//Dq6c53LYl5511X/5j7RyN+PX/98HXIr7M+kAAAA=
 ---
 
 ## Which Is The Best Programming Language To Learn?

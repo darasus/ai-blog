@@ -22,7 +22,7 @@ intro: >-
 
   There are many different types of animals that you can adopt as a pet. Read on to find out more about adopting an Australian labradoodle as your new pet!
 imageSrc: /articles/adopting-a-pet-and-what-to-know-about-australian-labradoodles.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJagCdAYqXuJSuqAbwAAA/uJXW+BMqH9Xja3cNQaZWGy1LNFt/Y/4Gw7n/AW944WdAmtG/RAjhW8vP/2VPoK0YLLSLpP/MVwTt68j5tQeRcKcPtticPScCOAcIJ5wLy8RVR+IM1E7fjw5DvRcR+STcGP+TZV2H8AAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAQCdASoKAAoAAUAmJQBOgCHa6DkwAAD+9WFq43u7P3ftp7sWN/PxRbJ344KCeQXtcbfckuyeme6e5Mf/fPW5K8q45dev/+2XlFC7/y7InEoh5tkoDh9hN2Rv3h3b1aiS+tS5r2AAAA==
 ---
 
 ## What's an Australian Labradoodle?

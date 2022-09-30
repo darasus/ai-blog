@@ -20,7 +20,7 @@ intro: >-
 
   Reading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!
 imageSrc: /articles/how-to-read-code-like-a-pro.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJYgCdAEVzrYtuv+EAAD+/fB/et6Min8a5b1oMCDWwXqDZD77q0yaC9Ac74JfG2bDnNtmWAXv6f7um8W/e/U9JZJQ2O9s7bI44CX9xmk48dOJrkytgAAA
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJZQCw7EekYBPogAA/vZ/fbIIxtdCWjwbfp/5EbRdD2wITTfj2SvPiZbr5hVC8qQVl7sLfqWSjeevW3/9CnfSXUsZ1ozLzFObpvP2TKu+YK9E5j/5bM4VEAwAAA==
 ---
 
 ## Don’t Be Disappointed By What You See

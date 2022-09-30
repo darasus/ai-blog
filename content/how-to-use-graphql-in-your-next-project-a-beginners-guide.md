@@ -19,7 +19,7 @@ intro: >-
 
   This is the promise of GraphQL. It’s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately — as though each piece was in its own locked room — you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> – all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.
 imageSrc: /articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJZACdAEOz39eluQAzh9//0/ERSAp+O/n1T8bM/O1K3yzr5iGM5xHPoLgzbaZ3v/lUSCsFRRAVB4eWKJg4/FjSQdS/Hx6giWN17eut4fsUVAewAA=
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==
 ---
 
 ## What is GraphQL?

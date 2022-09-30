@@ -25,7 +25,7 @@ intro: >-
 
   Luckily there are plenty of ways to get started investing in mutual funds without having a pre-existing pile of cash waiting. Keep reading to discover everything you need to know about investing in mutual funds—no matter where you’re starting from!
 imageSrc: /articles/how-to-start-investing-in-mutual-funds.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoKAAoAAUAmJbACdEf/gYfwwAD+7t66qPq54vCcRvfCjXKf1dVLioJPaff5NwMLv13+0l/s3/nW8H/zbucq/ko93/0kv9G///DD+8IAAAA=
+imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAAUAmJZwAD4uwNh3bOrJAAP7+DJxY/YT3856TnOV/DS+B1Pf/RBurZHo7/OqfL2+cn19ddP/jPpJ0xPnG/OH7cS8AAAA=
 ---
 
 ## What is a mutual fund?

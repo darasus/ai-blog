@@ -20,7 +20,7 @@ intro: >-
 
   Mediation can be used at any stage of a dispute, from resolving initial grievances through settlement or arbitration. It can be used instead of litigation when there’s no clear right or wrong side or when it’s more cost-effective than adversarial proceedings. Research shows mediation can also make disputes last much shorter and cheaper than trials, reduce risk of lawsuits being refilled after settlement, and increase the likelihood of reaching an agreement in principle between parties.
 imageSrc: /articles/what-are-the-success-rates-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoKAAoAAUAmJbACdLoAAvvswuy/tgAA/vcXXs2ferjS3HUCRd7IzygVB3Y+Zp6CQHWciOapLR9YgVsBFqVcv/i3BQIT9LDeQff7E/ZB+7mY6DtTVAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAgCdASoKAAoAAUAmJYgCdH8IwBggHr/geiEpEWy9AAD+8/0Zr5SpD+D+TI3LweMBTkt2IHYMFqkcXfnk7SH8YlhzAVCOiir+BL+xnrLH0gsOqlSiiWUlrR8ZKvC6/4r8mXPNRgAAAA==
 ---
 
 ## What Are The Requirements For Mediation?

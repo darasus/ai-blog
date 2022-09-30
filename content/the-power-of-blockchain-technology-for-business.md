@@ -22,7 +22,7 @@ intro: >-
 
   With so much noise about blockchain as the next big thing for businesses, it’s natural for companies to ask if this is something they should explore. After all, it seems like every press release mentions “blockchain” these days. But what exactly is a blockchain? And how could it help your business? It might not be as new as you think. Let’s take a look at how businesses around the world are using blockchain technology to build trust and transparency in their processes.
 imageSrc: /articles/the-power-of-blockchain-technology-for-business.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJZACdAEU+bYrgmWAAP78DtQ51BL7/7PKtefb+MvLUHuNt1d639P+GkTlXfl0hzIPr5HeQDj4DvutgX8ZeAk4eOqVfT1FbtDixJGPpmI9s2JjQfQd+lf/+JFG34i9dOVOx0D/Q5/ofs0e3Ht+Dnl2zeqpS/E79S7gAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAEO5lFS5cAA/vll/+dlB8B/v+n9/pPkz1ca/sHX3Mzx7SDAPD0kG3MWUgh2MSnkRop6xML5Rvt2H+V2bGtz2PaYtK4zt78/uwjw2gd/9Tpl1zT0dJk6XPtnnfoGAAAA
 ---
 
 ## What is blockchain technology?

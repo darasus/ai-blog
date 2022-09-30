@@ -20,7 +20,7 @@ intro: >-
 
   Many people struggle with their eating habits because they lack structure or fail to plan ahead. That’s why creating a strategy is essential if you want to maintain this commitment for good. Whether it’s going on a diet, cutting out certain foods or reducing your intake of fats, proteins or carbs – there are different ways how you can achieve your goals. Here are some helpful tips:
 imageSrc: /articles/how-to-stick-to-your-healthy-eating-goals.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJQBOgMV43EtfxgAAAP75CWQuhX33PED5X0YSAWPs5dPYfL3ObU4YNP5pHkm7XpQP8/KsLZlYHxxqu7m2P5XizEEfV1OR18ijuZNSXaGLSfC9DSoAAA==
+imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABwAgCdASoKAAoAAUAmJagCdDBFgZCULgxXvmAAAP740msqT0t1vrac4GJkN6bKlX+P/2WlPKmDE9ODn8YuD2UEJI6C3PB72IyfPyL9aitLxllc1Br1Or5Mro4jGsd5a2djv+gpT6eP51LLz8WC/4yMfwcmf2b9PdAiTICb1hOfK/zxnj/qcmf5UP9LO338j5AAAA==
 ---
 
 ## Make a plan

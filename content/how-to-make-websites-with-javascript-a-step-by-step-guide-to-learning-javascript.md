@@ -23,7 +23,7 @@ intro: >-
 
   If you’re reading this article, then it means that you’ve already taken the first step towards becoming fluent in this coding language; You know there’s something called JavaScript and now you want to know more about it. Let’s get started!
 imageSrc: /articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png
-imageSrcBase64: data:image/png;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAAUAmJZwAAueHumziAAD+/sA3j+LrsF1t0xixhNFRbsE9obCyXj8YTgLprRMyZpyri5D3c+XGGIAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==
 ---
 
 ## What is JavaScript?

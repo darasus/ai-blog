@@ -23,7 +23,7 @@ intro: People have many different reasons for saving money. Some are very frugal
   its fancy words like “asset allocation” and “beta coefficient.” Here are some
   helpful investing tips to get started...
 imageSrc: /articles/how-to-make-your-money-work-for-you-investing-101.png
-imageSrcBase64: data:image/png;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoKAAoAAUAmJaQAD4kQcMOY6oAA/vhwX+Nr339ehaxsT5h82hHcsHPMmDmp7PY/FeC4DzDvfcveNjXlGKAoAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYrnkgINnnIAAD+86r/2hUlzff8qisEEXHztFtmtqHYmhCbc5os7bXg5UrMlbl0BfcLI0+sq+vkaqjttHbrK9d3Fqxf/NpHrU2yjbnC8ecJoFb1vjiEjVv7KDLDX9/XKOo4PRSk5lPYXPMpCugAAA==
 ---
 
 ## Know the difference between investing and speculation

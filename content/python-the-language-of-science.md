@@ -21,7 +21,7 @@ intro: >-
 
   A scientific computing software package called “Orange” inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it “Python” after the British comedy group Monty Python – he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.
 imageSrc: /articles/python-the-language-of-science.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJQBOgMVz33ZtaPgA/vRf4wi0+4f+04i/itFYWIxCYwt4K4af0qTpWwrSOlrqZ7JwmkQm+wQ/ujPKlmMn8fHUp9pdA0rmK8VKKArdvBgAAA==
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACQAgCdASoKAAoAAUAmJagCdLoAAw1Qj0hOzFUMAAD+81FPq7WHPqfc9G7vBdGkd90dUXoirtSmIr/wbaeeKSMsN3+0HsGkM9v0voFfM2lNjU5L2ZSsiZpXP/hXFtgefa5QGNUeyTlsm3Whca5AAA==
 ---
 
 ## What is Python?

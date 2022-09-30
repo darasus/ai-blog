@@ -22,7 +22,7 @@ intro: >-
 
   In many ways, today’s workplace is very different from that of a century ago. Technology has advanced; office structures are more open and collaborative; and workers are expected to demonstrate self-motivation and flexibility in order to thrive in an ever-changing workplace environment.
 imageSrc: /articles/how-the-pandemic-is-changing-the-way-we-work.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdAYtB8E6u8kgAAD8P/1Ua9H/5NMf6/rHaYZgVJf8At5y5C3TcmoZQxgGp0h6IsbThQKWxSWOg0RfsdrFH46UPuBAg30Rs5+kvWf/rOA2uRoxHpyk43g8hOAA
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJagCdAEa1VOAC6wAAP7ub90Xs/+Tk3i09NROjf5fcTsBA2O/n9gtQAFc1ErYe5qn8I+sbHsffPIRqYi7uvnLjaEngmq8gc3/Ln9SbAgVy4/AU3/iWVu1KhTi6bJFavv/Yu/dbit/wSiIxINtfvHV0TuAAA==
 ---
 
 ## The Value of Time

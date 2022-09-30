@@ -21,7 +21,7 @@ intro: As much as we love our dogs, and vice versa, no one likes the dreaded
   tonight. They have instinctual fear responses that need to be addressed
   specifically with training and care before leaving them alone.
 imageSrc: /articles/how-to-train-your-dog-to-accept-being-left-alone.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJYgCdAD8Lgb86hbtqAD++lmlX9NS7/2U7cvIZ0+uWGCQOUGUARys3xiG/WuXrWw5lquAf8UAkF8nqFc/nXwMHKlmR/Fj+Roy40gKXe/VOkTn98GrEvSjInveNB2codjU7ogrMfc40AAA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdAEfUdFqwCgAAP79hMfzKHYrLNe6qBcV/qSifsqcdPBiBMatz+gVE+SxOQiHn74IXofMTMEOSQcLLWRLDQau6O2LmbwVS098h9jAPNsGvKmnKWr/3vKo5TPOiD8vpYAA
 ---
 
 ## Set ground rules while you’re home

@@ -22,7 +22,7 @@ intro: >-
 
   Unfortunately, most of us don’t read user agreements or privacy policies until something goes wrong—and that’s too bad, because those documents often contain important information about how your personal information is going to be used by that service provider. In many cases, you’ll see an “OK” button beside the user agreement, meaning you must agree to continue using the app or site if you want to proceed any further.
 imageSrc: /articles/facebooks-user-data-how-the-social-media-giant-collects-and-sells-our-information.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAEJUX+zePErn0AAD+9KzkEz8rw/nsdQrM8Jopz8fazcVi5NXtBAW07Z8xfBbnsmRL8wZ2NCtxkJrdfkhFSm71/AZvLswjsyHwe3/yaXCqjX+wlwG6+XDG+BTI5zQmz+OAAA==
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoKAAoAAUAmJbACdLoAAwkkmmwH/AAA/I55JRmuKKN/yoOtddhZC3zeal3Czjqp3LXz6Dh/vKFNwD7fni2KRAT//b2FLhIbf9kDMIvn/uk3oYP88QAAAA==
 ---
 
 ## Facebook’s business model

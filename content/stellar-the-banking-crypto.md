@@ -21,7 +21,7 @@ intro: >-
 
   When evaluating a cryptocurrency for long-term investment, we ask ourselves: How does this token solve a real problem? Does it have the potential to be adopted by many users? Is there an opportunity for this coin to appreciate in value? If you can answer yes to all of these questions, you may be interested in investing in Stellar — here’s why:
 imageSrc: /articles/stellar-the-banking-crypto.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJZQCdAD8LsVJgagAAP7+eSCKcxwP7IZO/SVPxZilV85+g4/yg3/RXn4j53+X76e/m6+pIwn8/68puoAY5LorK3zx4TUWXCnLyOzCjp0e/WDSaB6jxdSKy6kIZliAAAA=
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAACwAgCdASoKAAoAAUAmJZACdLoAEI4ZXQLIke0hikAA/vdvmBfQtjyRd9Hz54k+z3h3P/vYfjZxuoCRnoBO22zEOZDhz9Pvs2ZSXy7X8r+NfBU/GyBk1fWpGj9oP7lfGPi9RH9VxbhKH3pgGtnPP0atYTXTKsTfcx18flvAcTejNsOkGAA=
 ---
 
 ## What is Stellar?

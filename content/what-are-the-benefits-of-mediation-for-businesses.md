@@ -26,7 +26,7 @@ intro: >-
 
   Mediation helps resolve these issues in a constructive way by establishing a safe space where people can fully understand each other’s perspectives. Trust increases when people feel like they won’t be attacked or criticized for their ideas. Collaboration improves as everyone works together towards a common goal instead of against each other. And performance increases because people are more comfortable bringing up any problems so they can be fixed sooner rather than later - leading to better company growth and development.
 imageSrc: /articles/what-are-the-benefits-of-mediation-for-businesses.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAQCdASoKAAoAAUAmJaQAAp1mdfNewAD+/kUOBfG6ONrsttryu6PnXaUaXV/EPvgEz8+I8Xe/Yr7fuxnHz4Ztjmc/F9Hcf9QxhhRSf9ffsv180dmUf6LMX/QK3DwQnObMxqCA7gAAAA==
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJagCdLoAAwxRIiHgekwAAP73XozVLy7bbz/l+59lNNjbX3nhHThFgwLslK28J3gbbkA5D/HT7oJeiyN85IHE1H6LoQAQfvTbZHyDfm+DJOKz0U02hm/BConISj1x61Y2O7SPwAA=
 ---
 
 ## Mediation Helps Resolve Conflicts And Lead To Greater Collaboration

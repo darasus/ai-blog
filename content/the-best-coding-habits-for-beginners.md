@@ -22,7 +22,7 @@ intro: "The road to becoming an expert coder is long and challenging. In fact,
   willing to work hard at it and adopt some good habits along the way. Here are
   some tips on how you can get started today:"
 imageSrc: /articles/the-best-coding-habits-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoKAAoAAUAmJYwCdAD0Op/CNXEAAP79HbQ2XeRotHjVB2hcyidVNgZJDMVCFL25Z8//xkgVjSte/AkrVm522KvfgAA=
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJbACdAYrdbHp2fIdnkgA/vNm68ALiOYdzhant6hAYamz9627tfp2UrsnIqjZtI/7XK3GBfN38fH7K+up85nKNW1GvKcb4R0OP6+YjqUX1d+mZJs/jwaoxeeRsYFtB5kf3fj5d3qITPmbX7N/nKq33Q5zyLX0YP2A93t/FR49CSQAAAA=
 ---
 
 ## Learn the basics FIRST

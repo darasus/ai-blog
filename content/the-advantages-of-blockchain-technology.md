@@ -19,7 +19,7 @@ intro: >-
 
   This article delves into the advantages of blockchain technology and why it’s worth your time to learn more about it now instead of later. . You might not believe that this emerging technology is going to have such a big impact in your industry, but you may be surprised. There are many industries that could use it, from healthcare to real estate and even nonprofit organizations. Read on to find out how blockchain can make your organization better equipped to thrive in today’s fast-changing business environment, as well as how you can take advantage of it sooner rather than later.
 imageSrc: /articles/the-advantages-of-blockchain-technology.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoKAAoAAUAmJbACdLoAEhwKmpWjbK2AAP77oLvgm+FtOkLgT/zSqvmL14142E/jO85MKId0n7tds9w3KOt/XHI/0xWgN3bxq0xXrohdrH+4r3GytOVITOsL//JbjqIW8npWFefCbekH8ca+Bc/d0YAA
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZACdAEQFPq03w9wAP75ties7l/Jk03ew8Ayyb258NolYDhX6OUkLEe+7WQE96rkNvd/61UzZxv9i936xHUecBW9+saT8ZjH8+KXN8hk4+MQEHZ7LOq8Rhu7FAL704gXygZIzbQAAA==
 ---
 
 ## Blockchain Is Safe and Secure

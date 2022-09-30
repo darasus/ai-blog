@@ -23,7 +23,7 @@ intro: >-
 
   If you spend any time listening to rap or hip-hop music, you’ve probably noticed how many songs are about money, sex, drugs, partying—basically all the things you can do when you’re rich and famous. But there are some rappers who are using their fame to make a difference in the world by speaking out about problems that need to be addressed: social injustice, poverty, drug abuse, child exploitation and other serious issues. These artists are making a conscious effort to use their music to make a positive impact on society rather than just focusing on things like materialism or promiscuity.
 imageSrc: /articles/hip-hop-music-with-a-purpose-the-importance-of-awareness-in-the-music-industry.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAYt9n1JqDW5UAD+/XSdaHD7tzLEY+/IN7oVXavZ566P/uzmQ8ZN597L9rPwMvDFwNcebo9ksjaqA2V3CsAAxo/rbM4wO6B2gMZbvzT8QmwhgP3fIHlGJAAA
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJbACdLoAEJKX9xOYK+AAAP75U3VGaOFS8lXr2G0e6okrVvEwnfwiiATyzY4jWW+c/FhKlhrqWD+yI62om+BH/3DH3/3eLsHAq3/s5i/E3/wpr8eX7VAULvSM0sAA
 ---
 
 ## The Importance of Awareness in Society

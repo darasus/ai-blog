@@ -29,7 +29,7 @@ intro: "It’s been more than a century since the fight for voting rights was so
   gas, billy clubs, and bull whips), leaving many injured and 26 hospitalized
   (Voting Rights Timeline)."
 imageSrc: /articles/selma-is-a-powerful-and-moving-historical-drama.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJZQCdAEPBAYIpiZAAP7808JSSH6Y/VtLqgQOtok3UKV0o9eXoIqXkcQST7sLGGzA2SBIrOAsaoTt1MkZidrCY8mUAbjpdwB1agXewAA=
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJZgCdAYst2wfWSrCYAD+/iosNeWXNhKbqQ/rAi8M9me78wAhsCLr8Pr657xqycaj9PvBBV+RfAeL9lsTxXCqVf1rTdYfi0x+rjt4sxxoWc7IFb/fueCqJ8kCfAzzE86dMrsJz5UmWsxqjNCi8rcW7wAAAA==
 ---
 
 ## Synopsis

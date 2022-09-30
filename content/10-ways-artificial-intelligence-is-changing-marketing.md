@@ -22,7 +22,7 @@ intro: >-
 
   These new marketing tools are making it easier than ever before for marketers to increase ROI on their marketing campaigns, drive customer loyalty, and optimize every aspect of their brand’s presence online and off. Here’s how artificial intelligence is changing marketing today.
 imageSrc: /articles/10-ways-artificial-intelligence-is-changing-marketing.png
-imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAgCdASoKAAoAAUAmJbACdFkAbn+BwVgFDVpghAAA/vwO37pt9Mclid3TEP4/+mkzR5enYPVnKfLM5WochA+8A+t9ET7rn6J8sr63/4oyxOhxP+P0jfIYpGXZxC1udhFXX9YcrsLoRAVE1/yKYt3F+Mdl2dD7/4YdXh7jK32D/2FvhImtUYAA
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJZACdAEPAoN6fXeAAP78QmYL3N/wC2KC9JBKF8g0HYGpfMWqBgtu21YeffchSDsTw6YmUZDG0Zw/sYJ67z0UtFVu0Ml60SP0suCXX+0tm/Iu5ldwvfMbcAA=
 ---
 
 ## AI is making marketing more effective.

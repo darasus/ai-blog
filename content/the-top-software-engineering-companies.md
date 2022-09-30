@@ -23,7 +23,7 @@ intro: >-
 
   If you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it’s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:
 imageSrc: /articles/the-top-software-engineering-companies.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJYwCdAYvNvqrRG1U4AAA/v13n0NK/ba39PsPyMrocKFF1gzGynurz+vVpnmelX2LHyJ4SOCf/CZhL/QFmIi5/fSxpvip/8gIM8Uiso/IhD01LFlBQl+KKTUGXxljHEMtYtWlxi86VAAA
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=
 ---
 
 ## Google

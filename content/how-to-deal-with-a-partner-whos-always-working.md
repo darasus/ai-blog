@@ -18,7 +18,7 @@ intro: >-
 
   Working from home, flexible hours and remote working are all buzzwords in today’s labor market. Companies are becoming increasingly aware that it isn’t just about how much time employees spend at the desk but also about what they achieve during that time. A Gallup poll found that telecommuting or working from home is growing in popularity among professionals across most industries. Working remotely makes it easier to find jobs, negotiate schedules and live without a commute.
 imageSrc: /articles/how-to-deal-with-a-partner-whos-always-working.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJQBOgCKUq23hIxldAAD++PVOfwR8YP7ds+3gk4/jXxXRt1GN/tFrTJmKxrcqMh1GuT2xnd/9LOpSVq1cfMGB38hgfvfxOJv+OlJHDjEMIrS327F2ExkhMZM93PLqJ6OEwOOww0VlXYaYxfd+mdaHIbeaqAAA
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoKAAoAAUAmJZQCdAD7FmbrcZCBwAD+/dcJIIfcBjgUK8qNbjT++S7Y3aHzZZ/0fIjS1+zK1lP40UFJNlD8bgxp1Cg/8c8f7TYWzgAS+JbvXzY+qJQ92njYTgkgb8M8ANKL8Nk+zbDmLQ7+Z5yP+XfsYphOLWAA
 ---
 
 ## What Is Co-Working?

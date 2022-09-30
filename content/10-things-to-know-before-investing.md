@@ -21,7 +21,7 @@ intro: The stock market has been a great source of wealth creation for many
   tanked during that time. If you’re thinking about investing your money in
   stocks, here are 10 things you need to know before doing so.
 imageSrc: /articles/10-things-to-know-before-investing.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJagCdFkAfoABt8ZDA8AQAP78OF4qvS4+PIxw+cYX5iAFx8grf7F3RSIgHdpvD9MHJvzk73fqJEJmmeZmyb2xNupmIQA+cXEFbNav3Lk/4yakLRpH40qaa1+De2k831MGWvcv+83/01pnul8AAA==
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYgCdAEQXNAVQifDwAAA/vVjtbvTLrhNFdscH5fysn5ek9e0SUxMzTtMLkVIIVP3HcwzNs4TOORIRmcd3y347DVjGsv4lYWm1XaFXcq82KJwNHKv2L/CPGboLDOOWY7eWDyQAAA=
 ---
 
 ## Know what you’re investing in

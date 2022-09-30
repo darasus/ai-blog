@@ -20,7 +20,7 @@ intro: >-
 
   When you experience a break-up, whether it’s from a partner, friend or family member, it leaves you with an empty feeling. It hurts so much because you placed so many emotions into the relationship that it now feels like a part of who you are has been taken from you. Even though the person who broke up with you may have been oblivious to the pain they were causing by ending things, that doesn’t make breaking up any easier for anyone involved.
 imageSrc: /articles/how-to-get-over-a-break-up.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACwAgCdASoKAAoAAUAmJbACdLoAEI6WUz2bf1+MLgAA/vZjuD7nBNcAuo/isuW3Jb71vaufwvvkMfUCj76mtRqA9xPzkGY4ueeKnxru3RTBKCyVI0WHwfBj/2Lr79NYwjdOMPEgeq5cijQ/MsvftsM4Ysilr2aV/7Mmorcnm9OIAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJagCdEcAAeGw83G/UQAA/vjFn5P/1xc00d5bTP6ULth/K/YTU3dFx/+E3lpc6Kb3kcPrn2lRCymonzFy0PB3XX8oaP/IHryKd3w+64E/9D9xj+3shoHvVZ60FmQV2w0+EAAA
 ---
 
 ## Talk to Someone

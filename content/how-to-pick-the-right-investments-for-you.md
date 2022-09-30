@@ -21,7 +21,7 @@ intro: >-
 
   One of the main reasons why many people don’t invest is because they don’t know where to start or are afraid they might make a mistake if they dive in too fast. Luckily, there are several different ways you can get started investing without breaking the bank or feeling overwhelmed by all the information out there.
 imageSrc: /articles/how-to-pick-the-right-investments-for-you.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJbACdAYr7uJNqRdwAAD++V/UsGUWw8+DPz+tQnvW3rueiXPuQcFp2Ph1y83Y01OWLbcmsZmbswo7XOQWpInsvy25hB6csj5IntqH7kuNh/94JQtaMO61/+Oj0/fEgHbP2CmaAAA=
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJQBOgMVGwPdXN5t3wAD+/KPDRmFho/3yre2wcl+fljY9/pk9CfEiM1qvfY70LXsjoyb+xFUZ/7T0nkF3xJR8cAJ3H/6TYYzF3ybHF7ZRWRJtY0OKNsqR1pVxLxhYHDlwAA==
 ---
 
 ## Assessing your risk tolerance

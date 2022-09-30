@@ -21,7 +21,7 @@ intro: >-
 
   The movie almost plays like a spiritual successor to “Inception” – it’s filled with symbolism, meaning, and philosophy. The only difference being this movie feels much more grounded in reality than anything else Inception had to offer. It may be due to the fact that it takes place in such an unforgiving environment; but regardless it does what Inception did not: create a story that makes you care about its characters in such an intimate way that you feel their pain just as much as their joys.
 imageSrc: /articles/the-revenant-is-a-brutal-and-beautiful-masterpiece.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJZwAAvrfe5Vvs9QAAP77YTF/i0pKE/PcCGBmDQ9XxAC+I3Xf0RR6eImGPv6n+f+eSznoEf0ZxlnXatUjV8xbbDULsj5d27aLcyACOJehy8YWv5rp5Ub9RQ4Ub6FAAAA=
+imageSrcBase64: data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoKAAoAAUAmJaQAAueMrbIaAAD+9xoV7Pd28RjPKAxy49YNnne/d/mNxWzqe2x47kdVAAAA
 ---
 
 ## The art of filming in the wild

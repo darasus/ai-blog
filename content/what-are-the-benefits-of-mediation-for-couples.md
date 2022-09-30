@@ -19,7 +19,7 @@ intro: >-
 
   The benefits of mediation for couples are plentiful and will help both of you see each other in a new light. It’s not just about resolving conflicts but also creating a stronger connection moving forward into the future as partners and lovers. Let’s take a look at some of the wonderful things this process can do for you and your partner...
 imageSrc: /articles/what-are-the-benefits-of-mediation-for-couples.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJagCdAEPh59hZhrwAP787aw3rUaSVufmridw/Yi+UsK1U069bC6xO3a92UusQ8Smi2vy5DGgl1b4OdWMzYwmv3nmbH3gSVvwM+WygAA=
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJYgCdAYstuKyTRTzgAAA9q0yNTOer+qn9k9TTrXFaz2fmadvUqPtlFun19cU9KLui9HQrPdZ4q/P9UlYynw+ZOF9aRZBzK+7SddSr5O9LY3IT7NMc2e/W28f3PO2FWHljc0NZ7/rJAdYN/VtvA2Q5aWYAAAA
 ---
 
 ## Understanding

@@ -23,7 +23,7 @@ intro: >-
 
   As a result, when it comes to women in politics we often see a lopsided list that skews toward white cisgender able-bodied wealthy educated privileged women who look very little like the rest of us. And while we’re happy to see these women rising up as leaders within government — they are after all our representatives — we can do better…and we must do better if we want our democracy back from the patriarchy that currently controls it so thoroughly.
 imageSrc: /articles/the-ten-most-powerful-women-in-politics.png
-imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABwAgCdASoKAAoAAUAmJYgCdAaZXnc2z4oklUQAAP72//tPS19MvvVT5nPG6+n+PNS/7D5qQ4JXYvjZ8///HgO7b/lnIT4/b/ME/ppLp99H+v9Qv5dmwJKdUvMpnmLH38Gdv9f6afCXHIRmQ/jEqyoHAxTmqAyEMXEMPvfL9t/Maouba6K87WQrzhz/3xoff7PNbe+DAAA=
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAQCdASoKAAoAAUAmJQBWABujp8CQAP72f8CP3OQ38V28FacNA++xOf+XyqzHf7RyKgUtAdaDLyfVgbPpSC72fqmcI3VBJ6hfmzGsQbKX6idl8sT5RUaZjZ71D4sCTrije+Hzru57Pyt3qkh/sJHfwdZF6LM3PrxzGcUAs7IMfhhYNJagvCTrj3KrQii1AAA=
 ---
 
 ## 10. Nina Turner

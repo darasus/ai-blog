@@ -21,7 +21,7 @@ intro: >-
 
   Instead of splurging on a one-time membership or an expensive series of DVDs, why not invest in some home equipment that won’t cost you a fortune, but will help you get in great shape? Working out at home also has its advantages: no traffic jams and no gym membership fees! Here are 10 cheap home workout ideas for anyone who wants to slim down and tone up without breaking their budget.
 imageSrc: /articles/10-exercises-you-can-do-at-home-and-save-a-ton-of-money.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoKAAoAAUAmJbACdAYq/vrhSNL++SAA/u2qezxrl/CMSKuJD9Tt0zUfLpouKamjr0SXQunNjQi47pNnoLG3QyMnTRNK3y8P/0igsLjdNZSf/t5nUEvDdV6r//nt0f9Tf//umTL/v/AAAA==
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoKAAoAAUAmJQBOgCICgiO6NAD++ELZvTz/TJLFd9foQzhfxsovI68123dWktpgwPz8sKAJDc0/KUEelZ+W6UnP76ycNtLKMR2vtqhjUtqZB0W35HgAAA==
 ---
 
 ## Exercise While You’re Waiting For The Boiler To Heat Up

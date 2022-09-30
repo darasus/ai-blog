@@ -22,7 +22,7 @@ intro: >-
 
   Whether you have or have had the winter blues in the past, there are ways to boost your spirits when those long, dreary days of January creep up on you like an old friend you don’t want to see again. Here are some ways to beat those pesky winter blues and get back to your happy self!
 imageSrc: /articles/how-to-beat-the-winter-blues.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdFKAAcRyRk9dAAD+3iHjIEH+/JKH/N9S2TRNofgJdhqcjXxnnNX/iUjH8n1Cf+3Geo5iT2rkiTVXpeyUWq4L1DqJb//ahw7/j/mUcC4K///ePDEP//qiFS/1PvCvvfiVkZZWe5v+bmjAAA==
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJYwCdDiAByTno5bpq+ZgQAD+bSOTMUdyNBXvOL5t//6W7gciuc2DfqfbXH/V5f9qvDGxpsaAesurFYaYKExghqiLAS94kU/UecjvZsCX7y8EkuY3V5aInZs8/ufTg0M2MCiUkX9L+fX35sKXZ4AA
 ---
 
 ## Exercise

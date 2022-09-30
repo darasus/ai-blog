@@ -25,7 +25,7 @@ intro: >-
 
   Read on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!
 imageSrc: /articles/python-a-language-for-everyone.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoKAAoAAUAmJbACdAEu0VhH6zAAAP7zDiEMpbd99PKIA2jtv39n3JSFTobr/vJBL7WuZD9au+95AP+/U+J7b2lXwvmnWNu1Hp3/wMy//hclI9opeTGQeTdyE9+inPF83YIAAA==
+imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJZACdAD0uo7FvOgAAP78/Uyqbhg7KAzb9bilSvb8e1StrnNHX/zCEzNWvPcN6qtbJjc8H74qI8ikjyAN+trc+whCkvzlRJoAAA==
 ---
 
 ## Interactive Programming and Scripting

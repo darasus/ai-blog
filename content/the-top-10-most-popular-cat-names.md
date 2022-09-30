@@ -17,7 +17,7 @@ intro: >-
 
   The popularity of cats as house pets has helped create a thriving market for products and services geared specifically toward them. The internet is packed with websites, blogs, forums and other online resources that cater to cat lovers and cat owners. In addition to information about nutrition, vaccination and general care, these sites are full of useful tips regarding all aspects of owning a cat. One of the most common questions we see is related to naming new kittens. With so many different breeds and variations in color and pattern, it can sometimes be difficult coming up with names that fit your particular cat’s personality or heritage.
 imageSrc: /articles/the-top-10-most-popular-cat-names.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoKAAoAAUAmJZgCdAEf3CzqYYQAAP79MgquO2V7RL0yk9OeUzrBc5fqs145bYQq+JbvrsreEJCn3qnD0UKQrUpv9brJF8sO+hTIbp9srVfgAAAA
+imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJaQAD4uwcBPnEgAA/vtMUf7i5AP+eVhH0mQbfxU2avsB+f5ka35sk0kQOxBYG0NncHigXNC9t7gK7870GXT2yjratEca7CVsAAAA
 ---
 
 ## Introduction

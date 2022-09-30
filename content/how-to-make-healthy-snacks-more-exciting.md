@@ -20,7 +20,7 @@ intro: >-
 
   The good news is that this is not an impossible task. With the right balance of encouragement, support, and guidance from trusted parenting sources, we can all help our kids grow up with healthier habits than we currently have as adults. Here are some ways you can make healthy snacks more exciting for your child:
 imageSrc: /articles/how-to-make-healthy-snacks-more-exciting.png
-imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoKAAoAAUAmJQBdgCIj+rNtPAAA/v7cqvQrBpWrwRXQMAWfrwj5KoVJ/0rmK+VnTB9VP5all8YvoYXsYLKcCa8r3L4MHh9b/FgM6ezvzQAAAA==
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAwCdASoKAAoAAUAmJagCdDiAN47JTd4+Icwp1L4qY4AA/kUdbA/1GIJOwBqrX4LjBHvsBFXqz0DtXzeVHPkFDO90erIManjX6e0iT7RyErR/oV/ixz1j5XSKDM5bX2+lPBEJNwLb5EnxWf/e6o4nIorwDN+zyiRZXgMI/x+RXJvgB+ur6WlbyqoC4or869s4NQgAAAA=
 ---
 
 ## Don’t Shout, Don’t Shame, And Don’t Threaten

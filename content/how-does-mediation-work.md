@@ -26,7 +26,7 @@ intro: >-
 
   An added benefit of mediation is that it allows people on opposing sides of a dispute see each other as human beings with needs, wants and concerns just like they have. They learn cooperation instead of confrontation…
 imageSrc: /articles/how-does-mediation-work.png
-imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoKAAoAAUAmJbACdADO/8tJgYAA91B1ruRj/j1yyva0ZpV8gdnUiXGnh3Jc4H/huNtW8sMr6sjK9J8LkZ/nAjVLxJt/z5/8EeWgAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAACwAQCdASoKAAoAAUAmJQBOgCHSfMLQAP7+Ed5ZHojV/J2xGY/ErT7/mYtowOt5obKqElEANH5is5Ku4AHTRfxXHq+f4n8XzgGE/Ce8sLiY7c+etPlNt9wgaHOgQN1YgVv6MMFu7YAAAA==
 ---
 
 ## What Happens in Mediation?

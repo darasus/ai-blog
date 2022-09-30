@@ -18,7 +18,7 @@ intro: >-
 
   AI-enabled processes are eliminating some jobs and creating others. The result is a transformation of the entire labor market, not just specific industries. The adoption of AI is also opening up opportunities for new business models and cooperation between humans and machines to tackle complex problems. This article discusses how AI will affect the future of work, describe various roles that will be created or become irrelevant as a result of AI, and provide tips on how you can thrive in this new world of work.
 imageSrc: /articles/the-impact-of-ai-on-the-workforce.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZQCdAEfbofMqZL4AP7+Wp8DkVYF1jN+xcOGbSf+zJxmZJ63P1RauGKWYPAuPnLJPQXBnDsF7jJEDhTV9/ccF4fxcDuv+s2olbAFpRTvX9A2Al6hAsGgAnV1UEZKGMtgAA==
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJaACdAYuRaxnXf+olAAA/jQ8vzocVBT/1ZVMdZGjW02nIVztZMM6vQEoTC2O9ytr+1Oi9ufP+3QX/duYE9dYIJWDdm/7gP8D+ZJ/U1dFnZmJ4M4B/4/d7V9zffTFG3Kb/n9lGU9ycedA+4AAAA==
 ---
 
 ## What is AI?

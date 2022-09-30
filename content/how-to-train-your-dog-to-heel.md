@@ -20,7 +20,7 @@ intro: >-
 
   Training your dog to heel is not hard and should only take a few sessions with the right techniques. Let us take look at some of the tips that will help you train your dog in no time:
 imageSrc: /articles/how-to-train-your-dog-to-heel.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACwAgCdASoKAAoAAUAmJbACdGuAD0AwNkKJBMVKhAAA/rfhetkq3IDn9hp54ExpygQSi5584PvP2kVv3ydEvgUE1rF7pC4E/5//7w2xj7a8N79Z3/0+5S1YmP1KVdbwKL0RHvRw/zdv948ePgymv+9QPGQ7tkP8m7sP/kK5U/tJOtzv/XRRIS/4Z80AAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJYwCdAYubqybpVD5wAD+/KVMejD80mOtvZY9+ynUvd2j+KSlo7/KL7D+TcD1FaaZK1nSPc5ZL/tLbBV9rdHkj16w103zXx0cYkKlUr9v87G4249r2S/DfbOo6HB/K2iVDbWljEbukbnLcvmI4cfK+gAAAA==
 ---
 
 ## Start With The Basics

@@ -26,7 +26,7 @@ intro: "Today’s small business owner faces an entirely different set of
   returns rather than the company’s tax return. Here are ten helpful tips to
   managing your small business finances:"
 imageSrc: /articles/10-tips-for-managing-your-small-business-finances.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoKAAoAAUAmJQBOgMWR7LFQrh0cAAD8/hYBcL2QP+ntgOI3yKXztRHgshUL9zxtXx5w5vdAbnVqIJ9O9bB6L8frH9YL8t/x/GzI/v14obM/8N86VQCqsTIQNfxjbojdLLYfBh16/pYc40oZ6nuCo1BXxSUgJAAA
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdAYr72YEe6zBvNTAAP78ifWQ3PO3pA/KhhCEmxkT5zulAYo/DqW+N8//Ep16dyxyVFB+/xkvX7vfqicZNU84mlXb6ZGbP//t59otXerJrYg6cLvMcYTFb9pGztcHobDv/8xnHxauz/0//H/P+v0+lt//jY3xv+Df4Olfn/QwyAA=
 ---
 
 ## Know the difference between an S Corp and a C Corp

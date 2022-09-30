@@ -15,7 +15,7 @@ intro: The market for software engineers is growing fast. As businesses adopt
   cloud computing and other digital technologies, demand for software engineers
   is projected to grow by 22% from 2016 to 2026.
 imageSrc: /articles/the-benefits-of-a-software-engineering-degree.png
-imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADHp5QAAD+2i3sCvpDo381WekWmBmZ4KPLyi4f/aZ1f9ah7Tde4z/5ff/mCw9E1gMQI98pAAAA
+imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAgCdASoKAAoAAUAmJZwCdH8AGBxYj0c0EAAA/vw6G/pgMajtPxlnUqIPJB+FCN3QGnB+9Vd0KxlJdwsnuU6Q8j+T9HsAQdXC6MKKQXQaQAAA
 ---
 
 ## What is a Software Engineering Degree?

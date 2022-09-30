@@ -23,7 +23,7 @@ intro: >-
 
   Let’s take a look at some examples of how you can use blockchain technology for development either now or in the future.
 imageSrc: /articles/the-benefits-of-blockchain-technology-for-developers.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJZQCdAEfboUJSImAAPa/Fu2X6Sp//QEmvxYz7HL+xCdtp6isjrWaNWwIn3Rp5r8zaMKGl49UtbW54keD0CT+fCzEn6O+pEgyd/QsBT+lckY1vuzxBdVHrTr2cdxd8eG/PsvePT7m98eBKxg+JCyMAAA=
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJZACdAYtzqy4VhrLDZgA/vgLfnqIwla7tHcf7zZX4hoIXRl9wq0ZL2L0/xN036bM8FHe5g3u4WrflOkXZ8P3z60p/qjUIRH9n/pHXPriwkd55PApEcICLCGZLlppgDWiVqP5h01/k7VvmfRbKwb/m1G//Y8Sv/Q8H+aPUtAAAA==
 ---
 
 ## Smart Contracts

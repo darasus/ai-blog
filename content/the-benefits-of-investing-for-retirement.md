@@ -21,7 +21,7 @@ intro: >-
 
   An investment strategy that can be useful for helping you achieve your retirement goals is known as "retirement investing." This type of investing is geared toward enabling you to retire sooner with a more comfortable and secure standard of living. If you’re not quite ready to retire but would like to have more financial security once you do, it’s probably time to begin planning for your post-work life. A good place to start is by familiarizing yourself with the many different types of retirement investing available. Understanding these various options along with their pros and cons will help you determine which one(s) might be right for you.
 imageSrc: /articles/the-benefits-of-investing-for-retirement.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdH8A8AAZ8AVpsXwA/ule4FJWhvZM39DY7SGQshpwksEaiqDhYLPBbeU81K+6Thywgvr+E7WkXEof8sg+Y1gTDFelz5X6j6pIvvOLxU0CaUjgavvP/zm5/wb6jHkw7AP/Jf+/yb8YAAA=
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJZwCdAEPA58uvz4AAMtPwXKpj0VSTP0oMSw3puRY8KiR15ThlcDaEGzj9WZ8nIBYYjuzAWb2OT3N5p/pdNNBY/KxwBb0Y3tf+TLqr9uz/+JZG5oXqLAYMQor5C1oYodEwAAA
 ---
 
 ## What is the benefit of investing for retirement?

@@ -19,7 +19,7 @@ intro: >-
 
   Coding isn’t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.
 imageSrc: /articles/the-best-coding-tricks-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoKAAoAAUAmJbACdAEQEncW/cAA/v3Lj72l5swrz+7IcCSEG99VbfLj2rpin8n1BBXCvxMm5gYsG/xwNG9O0bU2UkcKg01xC8Akoyj/5CuNKS/yAMW1R+If9DcP8m/PM4ZEkdcDA75Md4IAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJbACdLoAAwxRbxqvVoAA/vg2ok4D/cfMiT3gpOMDzSXjnEZ7faXuJhv0fmIx4yWHMqTUkynhqT01RQyfBLAeCp3jf/Wk7N/D7dYo7/mbdoVM1/HUvvbv0Lv/iMR6D97yJBJM46/XaAAA
 ---
 
 ## Read and understand the basics before you dive in.

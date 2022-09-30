@@ -24,7 +24,7 @@ intro: >-
 
   This blog post aims to provide insight into what makes ZCash stand out from other cryptocurrencies, why some might view that as a positive or negative thing and what implications it could have on its future value.
 imageSrc: /articles/zcash-the-private-crypto.png
-imageSrcBase64: data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEf/1oXprwA/v6qeB1Wt7vxa0b5orecNSnXdeGJ1nscmyAQ6iB2Z9SZeets5tCT1+PNOUKXyPggAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJbACdADdSkFXgyogAP79T8jN9gM+U8eRAucPmdPZOXArjrq//ctPlgrtwoAtCsEHyPl/ZRCT+6u4nnbUf1UmhevBjBKFhRSVs/xsSkQHSz/4ai4k5jh480uSNN/Nb/PL5NRxewAAAA==
 ---
 
 ## What is ZCash?

@@ -23,7 +23,7 @@ intro: >-
 
   To succeed in such a saturated marketplace, you need to make sure that your brand is memorable and unique; something that sets you apart from other businesses selling similar products. This article will provide some useful tips on how you can do this when creating your business’ identity and designing your products, as well as some ideas on how you can set yourself up for success from the offset by choosing the right name for your company and making sure all of your promotional materials work together towards a single goal.
 imageSrc: /articles/how-to-make-your-business-stand-out-in-a-crowded-market.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJQBYdiB/r8KeGAAA/v7A9s9lR3xi/hcc75R5BT3JsmQLcSl6rPFXPJo6UEXzr/CmG4+07VukNoOyOs8eYMRmkAoDre/0jUHfaEDYxD573yv8d+VxET3GJoP14jgAAAA=
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJZQCdAEXtba7s4AA/uoBEjr87ntvZma3vwXFUDAoYwjwRg/jTrukRRXkDjaaSS671HVDr6aMXPuiYkreSPN9BvvxHamn+AZ8LMeR5TMJsfg+Xpa6LmMB+01xa3mkkAA=
 ---
 
 ## Know Your Audience

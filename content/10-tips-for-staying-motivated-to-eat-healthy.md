@@ -21,7 +21,7 @@ intro: Are you struggling to stay motivated to eat healthy? In our fast-paced
   takes time and effort but it’t possible if you don’t make small changes in
   your daily routine that support your goals. Here are
 imageSrc: /articles/10-tips-for-staying-motivated-to-eat-healthy.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJbACdAELYcbTD4HuIAD+0qaBYKL+LusvvBB4/kgNfEfrffFlebq03BL94Zy3aD/gw15He728/aYlI09xa3TDFeZ1TR9q+xl6Urz4vv5f6lS5cOL3shfBuOzzX/4+0D9zt3oQskF6mvmSQAA=
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJYwCdADdk9KJbUIAAP3GBEm+L3l19LSGV//+NMcJHaCzXZK+WYo9ryvm6e+Iz2/Os2T2lyoP3f9YqdM4n7uk8rf3C9XkAbbJHT+58vdgFLPcpgAAAA==
 ---
 
 ## Create a habit

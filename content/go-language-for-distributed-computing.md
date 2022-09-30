@@ -22,7 +22,7 @@ intro: >-
 
   A great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it’s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.
 imageSrc: /articles/go-language-for-distributed-computing.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoKAAoAAUAmJaQC7AELX84iI/AAAP7+wcFtJ2omEc7mBpAj7b+iVgSe6u6pL18xQBSyHtzrsuIFbFfE0YYlz9QHuxXcj13KAfIAUyRNgAA=
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJQBYfAm5EAE5vWpQptAAAP77ZAGbh6Jik2p1+v/6cqf3zwX0pyz/ioVxff8bX6eNzF+2NKzn2PAAm7Uz4R7dX8dEbO4wPVo4/cSj85UWAD2jd1l4+Z/qrEgAAA==
 ---
 
 ## What is Go Language?

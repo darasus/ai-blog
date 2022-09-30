@@ -22,7 +22,7 @@ intro: "Everyone has to start somewhere. Whether you want to launch a small side
   always the same. Here are some tips on how you can create an effective small
   business budget on a shoestring budget:"
 imageSrc: /articles/how-to-start-a-business-on-a-shoestring-budget.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAgCdASoKAAoAAUAmJagCdEyAfqAK9a3ElS4AgOkAAP6UQNlmRpWdBIxOuaSIMrbZ8K3st/peZomWul8XzWjnP224wzXeCEPURfvJIyz8SeFQ3RGyD1e7v2xg6j/o7CqXJsxQei7ubXkNvrNM51amcT3P+7Hg5eumX4g2ZWgCKAAA
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAQCdASoKAAoAAUAmJQBOgMXr3CAflAAA/qx14/xNN1A1mtX3o2N/xG/nCfwn7My/mmxedzK9/86078vbXmbnBySa4jvnlEEcaxQnwkAf1bXansTKUz9+QBSbNVkIEz8sOuNP66T0VK8uIDb0Hb7QZ7yEsyKnSGG/2Xu3mqW7oAAA
 ---
 
 ## Define your business goals

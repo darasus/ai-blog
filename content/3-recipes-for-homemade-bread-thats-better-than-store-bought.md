@@ -23,7 +23,7 @@ intro: "Homemade bread is one of life's greatest pleasures. The smell, the
   becomes second nature. Here are 3 different types of homemade bread that are
   better than store-best:"
 imageSrc: /articles/3-recipes-for-homemade-bread-thats-better-than-store-bought.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJYgCdDBUCIUI97koiAAA/pG/D8Jr+lZyiL8SL7SL0LGWRFexs6pOroGqP+Qc3YNymFPV90+SbO0k22LRlPZkE94/b4/pith/0PsH9meZTKQGiwHoDspJskg6fgAA
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdAYrTuKuOzKIzQAA4nqMT83us7jm4/21ucfkT0j9a/8d51GWviBRM6g6gwjtjVYtEv419atPH3LJ4f6A5fxkHZUNn7suX30KjYsCvYGp/SmoHiC19tyyr9LQCRf3hLrTpJh2aTFSE8XkzUH5zU4D2FgIIyFFb1WQAAA=
 ---
 
 ## Better than store-bought bread: Sourdough bread

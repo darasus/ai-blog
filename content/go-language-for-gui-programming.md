@@ -21,7 +21,7 @@ intro: >-
 
   In this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.
 imageSrc: /articles/go-language-for-gui-programming.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoKAAoAAUAmJbACdAYtBv77Rzjv+wCAAP7+kkhFkCKAIhXY1sJwCw9YUR/LqBfgP2rlbIxGmbfS60238uLsQnv5Z1Cb/8S4o+LXHi9SzfmCY/o3/4Tb9LnOhAA=
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAgCdASoKAAoAAUAmJbACdLoB+AH4ABGslarJzR4cAP7m8jPoMa2x7VYLgF7CtEBn3TCDKO45+8U6ClFli1Jn9AAzg8xc+5Aau/9K6elf7t/+PtP+Jdn9Zg/5fq5374N/+ZT/5iyphus9r8PoNwve+HsAAA==
 ---
 
 ## Easy to Learn and Maintain

@@ -23,7 +23,7 @@ intro: If you’ve read up on the world of parallel computing, you’ll know tha
   this purpose. The Go language is one such example. In this article, we will
   explain what Go is and its benefits for parallel computing.
 imageSrc: /articles/go-language-for-parallel-computing.png
-imageSrcBase64: data:image/png;base64,UklGRrIAAABXRUJQVlA4IKYAAADQAgCdASoKAAoAAUAmJbACdDVAOs3IhUyy4UV63x4AAP6KbPBsMKT2nuqAajzv3bm47FxUz4/+mN9Nd30AzE48eTsq58Jq4c+GCopu9hy5z/Dlc+AeS7+jLLPP+kXN/+Q91TlApu/3BmzPX61rVkFhdailbAsz/85jnx//f+t82yoviDU/3wduy+Of+0Zbv8Gf+dqWYzMbQK86/7HFik2B9fKJySAA
+imageSrcBase64: data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAACQAgCdASoKAAoAAUAmJbACdFkACcoK104DjRbAAAD+8pBr/lyno7DY5+5p+b5oFPja65f2kQdUcK99n10y0tiCHu++SeZfVCh3mhfAdBpTT0/Vl3tqWb7Px/MYGU5U/WAnVdfba/dPV8x8uja3Dwbf/1L2Pwzz3noX/oiPiJP2t//EhG+osO/WALs0/wb/9Ha/9hBeb78Pyin68CzwAAAA
 ---
 
 ## What is Go?

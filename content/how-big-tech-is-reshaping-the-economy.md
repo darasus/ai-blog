@@ -21,7 +21,7 @@ intro: >-
 
   The term “big tech” usually refers to a group of nine tech companies whose market capitalization exceeds $200 billion or has grown rapidly in recent years: Amazon, Apple, Facebook, Google parent Alphabet (the parent company of Google), Netflix, Tesla, Alibaba Group (the parent company of Ali Baba), and Microsoft.
 imageSrc: /articles/how-big-tech-is-reshaping-the-economy.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAwCdASoKAAoAAUAmJbACdLcAZQBlgH6gdaIDUuFDrKkmiAAA/vb/Ot/7qTGaIZAnzOLgCvwVFF9KfY3++d9vI+a6h81Zzmm+nr8O59wWZKmiDP/k2W7xXuWJ2P9u3GKLf/WtUbATNP1L+n8VmRZ/6y+H84x/84AAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAgCdASoKAAoAAUAmJbACdLoB+ACAAAYsZ58v/ggAAOI4bEPgml9pZmwInS6/+bmTnENe+9G130a5S+0L/OfKmzD7XW2RTxfpKiwNlSOv/+P9OQLECbh7MwB/8h5SloJJJXrBvIX/7bbntz2P3oXu6N5/fcB4t/nKp/6CQAA=
 ---
 
 ## What is big tech?

@@ -20,7 +20,7 @@ intro: The risk of falling into a style rut is something we all have to deal
   and again. Thankfully there are ways to get out of it and discover a new lease
   on your personal style once again.
 imageSrc: /articles/how-to-get-out-of-a-style-rut.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdAYtBmvx9UaAAP763UzVGTotqxlXe3AmB3Bbmj2i0H432JZZsq1/nFevR1R4ZdF6O8449vesTBe1XFv/oJXYiPp+ijdJlP7zOYLxVifQf+VsP1c6+KhfzQ9GPPUoKOnIAAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJQBOgMWq5wIuGAWv3RQA/v3HGxq2xcHBms4b0L8UO4RADg9pn+fCkvkk+nH0f+k2vgmc+PhInHJ7WKzf5O8B/NyMgszu4WEE/SQVVj0UdZRnt9Vy/3nLnJvId06jS9j7AmAAAAA=
 ---
 
 ## Change up your wardrobe

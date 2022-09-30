@@ -19,7 +19,7 @@ intro: >-
 
   We can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you’re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.
 imageSrc: /articles/how-to-make-healthy-eating-easier-with-meal-planning.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJYwCdAEPD38eYbqIAAD+9AyMZLtO7FOxBiYe3Dd0Pg4tPj7SLB2/+ZxdgH1r6pajroiNRC5+xn49KL/IkXPyBB40F+0+NLYWN8uiYXWZX76e6S5Haau9dGQYQm9Sh9zcl7A27MsvjYgAAAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYgCdAYt9yJYxt004ZwAAP78/EoTyoshut8z5uJj3v0FpR7emvB4K2p+GF84dNCKzB3i0J7oyf2O2sANfdekOrTWoAvnIBSWydqy8Nzg80d8qdY2v3+k44CySNLX+z5jrWmAAAA=
 ---
 
 ## Why meal plan?

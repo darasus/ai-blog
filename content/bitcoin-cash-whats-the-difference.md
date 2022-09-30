@@ -19,7 +19,7 @@ intro: >-
 
   But which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let’s take a look at two of the most popular alternative digital currencies and see what sets them apart.
 imageSrc: /articles/bitcoin-cash-whats-the-difference.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJagCdAELZPNnf4AA/vqjkjWPejXrSi56PPJjuo/n/jX/KNeAN6MZkappnFJnkb/xSSSvf9Q7h9WGA3+TXvz/d9+kA5sr6goAqj5e6v1li/7jBf/BFQrtRU3jeP2AAAA=
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJaACdAEPBZj+XPL0AADLJP/+kYFsWKU8FPvphYKk2MC/D052WOWjosglqmSWserp8I4ZhNk/W+hysadOYO73EEylztATzRTh74neFNjb0Rf+2buofSXIH7vylNvq/Gb8AAAA
 ---
 
 ## What is Bitcoin Cash?

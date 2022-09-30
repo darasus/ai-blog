@@ -24,7 +24,7 @@ intro: >-
 
   If you read through all the information on different types of organic foods and their benefits, you might be feeling a little overwhelmed right now. That’s totally normal! But don’t fret—we have you covered with everything you need to know about whether or not organic is worth its hefty price tag.
 imageSrc: /articles/is-organic-really-worth-the-extra-cost.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJZgCdAELz8L3TiEQOAD++le+e1I/g9czU48rySqvAaN1RodosxsjQ6277ljpjpBD6E+xLYSXyqEQwD/8HSV3iIrxb6E3enk+Cf+zz7hMX/0D31YblBHu/5qfWXgGP+eAAA==
+imageSrcBase64: data:image/png;base64,UklGRrgAAABXRUJQVlA4IKwAAADwAgCdASoKAAoAAUAmJbACdDBQCgAeXPFXmPm6ZrjyAAD5fjC/gHQEh39mBKM8VAermbGhtrL/Hys84r5GdL2Gjh0OslR4e9pM7c41r8sP0Vqnbjt2E58YzOZ/tbRuXMdavTDonh9tvXRJHLcSXYvorUOf2qdXHzF/5IC9ZarI4o/zRzae2Tpv8+5fhwn//4VUtLGPecs939oAEuvS5p/ovypq/4GY5RwwAAAA
 ---
 
 ## How do you know if an Organic Food is really Organic?

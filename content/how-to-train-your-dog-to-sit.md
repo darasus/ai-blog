@@ -19,7 +19,7 @@ intro: >-
 
   Training your dog doesn’t have to be difficult or stressful – it just requires commitment and patience from both of you. The more straightforward training techniques like marker words, positive reinforcement and treat rewards should get your dog responding obediently within a few weeks.
 imageSrc: /articles/how-to-train-your-dog-to-sit.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJaACdAEO5X3Rw/VQAP787P/9QEbtocY9kf77cEKjesGpi8dLJKA84Q9d6X82LX9F8eWs/pTeNWAY9zCVLtM4t8mCRf3xRZpYVl9xJ7Pa2rid1Zwf0rYxnyOXGUwA
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJYgCdAELXbLeWCAA/tcl/hUekPhwmNSuxfgbPXwp9O080cFZu38iwxr4MPlBtd1xXFkKI/1OqWYU4zTfpCAClI4p9ctsdTU+11H+Dkz+Dfwb+OeXO8yxGLDp0QAA
 ---
 
 ## Step 1: Pick A Marker Word

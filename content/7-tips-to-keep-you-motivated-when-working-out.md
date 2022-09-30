@@ -20,7 +20,7 @@ intro: >-
 
   It can be difficult to keep up with a regular exercise routine, especially when you’re feeling unmotivated. Even the most dedicated workout enthusiasts can struggle with keeping their routines fresh and exciting. If you feel like you’ve hit a wall when it comes to keeping up a healthy routine, here are some tips that will help you get back on track:
 imageSrc: /articles/7-tips-to-keep-you-motivated-when-working-out.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAQAgCdASoKAAoAAUAmJbACdAELW0HiB9fAAP73aD/2sV8/bwi5/qWIIpvKHaXjRr3MJr35HVegzih/XueVFX5RAifn/B7EamyLI2souLpSdi/c+9shm/XJbjbQsNUhoJWex/fXEtsRnz3xkdUrjiaga5HTBz319paKgAAA
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJbACdAEfn438bEUQAP6cOTx5SlJ7bQb/zvnwvnu7dkqYZR8/Q5oVDCsh2Uot3kSaaxs9emShkcQa3LQDio07nEVY9doNh9bLY/6I9/Nhf+XABo+R4JBdPfjVc/xgP7e1mkfiH4z/JxuvSUK/Jj+BwAA=
 ---
 
 ## Set small, attainable goals

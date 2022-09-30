@@ -22,7 +22,7 @@ intro: >-
 
   This article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.
 imageSrc: /articles/introduction-to-java.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdLoB+AADF3n1UdmAAP75AJkMbaqWXi+0Oup58PznHLp2XtRt1buS/YXfLYCjRICf9fYmHGVE7x5NK2H/74Th0Y1R+3wX0K3/Bv974dMH/ji0Mtf2OpdR15eUi4AAAA==
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJagC7AEfbjPa/gAA/v5/bCDW2/BrUvjrHmVP48/uiF1P/wCAVH130StT4fzXFCbdOzgyJ2qQGsMLeykd4ZG2sf0g9lGsHDA/pufp/xb/sAAA
 ---
 
 ## Why is Java Still Relevant After 25 Years?

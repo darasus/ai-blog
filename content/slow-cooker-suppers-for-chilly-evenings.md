@@ -18,7 +18,7 @@ intro: >-
 
   With a slow cooker, you can come home to a warm meal after a long day at work or school. The appliance is perfect for preparing supper when you don’t want to spend a lot of time cooking in the evening. Preparing these slow-cooked suppers takes only a few minutes during the afternoon or early in the morning – then you can leave them alone while they cook!
 imageSrc: /articles/slow-cooker-suppers-for-chilly-evenings.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJZgCdAD0kIR8ayGYAP77mLPRLmAaz3z4fMQClGr0jaaXxP/tWU/5k5bto7fYUxi18j0VdoDrD+2oKXB/2hSdMwhyPBzit9fhL//VM4Vx/xAafMzhU+eMMOGu47PNf0lYp8mY+zPeze0HfKj++U+QAAA=
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAQAgCdASoKAAoAAUAmJQBOgMWq1a3j4pwAAP39PUpDCYsqZTffEfcyWN/55qULVjd/UV2aMc4XfP146gQ/8wdE1+aXIv7SHn5gHygr0FQyLrpUjuzF19VlQyfYG16Joxr4pK8ZWUUe7a2RXyTXG08Hhkbu4EmL1TCjPQAA
 ---
 
 ## What should you put in your slow cooker?

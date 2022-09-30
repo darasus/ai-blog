@@ -20,7 +20,7 @@ intro: >-
 
   It’s easy to get jealous or resentful if your partner is always on their computer — but that doesn’t mean that there isn’t a reason for their constant use of it. It could be that they are really passionate about something they’re researching online or maybe they have an online business venture they’ve been working on for a while now. However, if this is causing tension between you two, speak up! They may not even realize how much time they spend on their computer and just how much of an impact it has on your relationship. Here are some ways to deal with a partner who's always on their computer:
 imageSrc: /articles/how-to-deal-with-a-partner-whos-always-on-their-computer.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJYwCdAD0RSeRLyoAAP716CbWWBCnF39Zf669xNHskzNz+qhTh+zvaZRe1Bf6Sf7kevluGUmhRMYKrPQSbFYcBwj7dpxVs4Ks9sKRmYwMPZPrvGzO2LJQOAA=
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoKAAoAAUAmJYgCdAYty7C/gAAA/D/NzrPXE45qJ36kX3gS5JPNMvm5S51A4eJHetTFunvh/IdrS2ywRj6sLc6d7TbaTDy2rzR/+EZAzygg7C6H4x5pz8gfossIoBT166kNUg2WRXWedwtf1JcPBgfcQPyQAAAA
 ---
 
 ## Communicate with your partner

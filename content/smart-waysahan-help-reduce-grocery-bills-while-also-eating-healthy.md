@@ -18,7 +18,7 @@ intro: >-
 
   However, the convenience of ready-made food comes at a price. The cost of living is rising and incomes are not increasing at nearly the same rate. Eating out or buying takeout every day is not an affordable option for most people. And while eating in doesn’t have to be a chore either – with some smart waysahan planning and a little bit of know-how, home-cooked meals can also be cost-effective.
 imageSrc: /articles/smart-waysahan-help-reduce-grocery-bills-while-also-eating-healthy.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJQBOhgmZERF6L9MWAP79T8kbxDHHSM/EfLseNY73PJJPT4CW27/B9uyHpiUyB2JR/5Eq+berjLc+KJddptiVDta+4iH+o22Ob34O1RpBP/It2/8zKO6/46EBHfWQaRr8P+2RZzGQa80AAAA=
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJQBOhggAMWOoIQk7uCAA/vcuelTdNMOkqLguFGjzjq76PomJKrB9SbWSdNMn9CetpEX9FIS/NPeIg/+vzTeeUOCcQ0twhbjisQj01qUcTfddH/WZ92wxSpuF0Uq2vAA=
 ---
 
 ## Use price comparison apps to find the best deals

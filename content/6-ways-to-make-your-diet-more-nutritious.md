@@ -20,7 +20,7 @@ intro: "Do you feel like your diet just isn’t cutting it? Maybe it’s time to
   how do you actually make sure that your diet reflects those principles? Here
   are some tips and tricks on how you can make your diet more nutritious:"
 imageSrc: /articles/6-ways-to-make-your-diet-more-nutritious.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJbACdDBKyIhMFEmkTAAAAP73bQDwWkjYcF2UDsfZYoOuV/Wrfulcg3zEcZLhKvPkvx8h/a01x61pUpctpGc4QOPbCZvGAzoL+Jv4w5PNUChe269f/cpsU0T0YEvLRBeZpvxVRPNAAA==
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJbACdAEOQc5V64AA/vyk4bscRqtftnqrzMwSLll4nanDzOmo6CmaErAs9/9Hnfp/p/h/9w2eX70f5t/xgW7N//0g/+8mXt/+g8fOjH4605h1acWXgAAA
 ---
 
 ## Eat breakfast

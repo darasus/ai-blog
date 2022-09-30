@@ -22,7 +22,7 @@ intro: >-
 
   This might all sound like some heavy stuff for a Father John Misty record, but trust us – it only gets heavier from here.
 imageSrc: /articles/father-john-mistys-pure-comedy-is-a-hilarious-masterpiece.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJbACdAYUAXMzfBlyAAD+9WPfwcpFojCF191E3sMUZi4CXzIHpOk2/dOwOs9TTrJETyuHgwauMn9Fy48/DULanUlR4bivTOHP+z58/sYXI+aTuzeie/+YQP8meGmFtyv9Papl+x9aOM/D/o3/7zfo4AA=
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACwAQCdASoKAAoAAUAmJbACdADZjbz0AP6bnosf9/9JyleklO5Vz8CMLDTdhRn8/cdbmX2j9q8/hBCx1fz4WtztSS03Jc5evQDUjo760/byHASA9JFEVHoAqNd3PNxX08w+gSMDzS1UYr/xIoHJn/MBdWEz/yuQkn/6a6j4AAAAAA==
 ---
 
 ## A Comedy of Errors

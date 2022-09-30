@@ -15,7 +15,7 @@ intro: Did you know that a single person produces about 1.6 tons of CO2 per
   year? Did you also know that producing one cotton t-shirt uses almost 19
   gallons of water and produces 3.5lbs of CO2?
 imageSrc: /articles/how-to-start-living-a-more-eco-friendly-lifestyle.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJagCdAEfhKLuqQAA/vrhSeAPMruySnecg//2f05OFYakpjBVVkedmhyba13f49W67CHN/HwlKyAF6H8w5Ituaxn/i2vAFJ/XBO/1oWaVysbUAAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJbACdAEXfM/hyfAjAAD+9JQWi71enRiz17Hhu2S4HbnPebaWu6fLMRke/6+8l3fh+vdir/3WsPhGKK7+a15LFqV/AK1S7b//GKxMGWykhb/Rt2Jw9/sb/6MWmDvkZ9rz0vkmQAA=
 ---
 
 ## What is Climate Change?

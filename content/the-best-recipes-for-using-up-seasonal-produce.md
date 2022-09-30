@@ -20,7 +20,7 @@ intro: >-
 
   However, there are plenty of upsides too! Eating seasonally means that you get to enjoy different flavors throughout the year — which is something many people don’t tend to do.
 imageSrc: /articles/the-best-recipes-for-using-up-seasonal-produce.png
-imageSrcBase64: data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAABwAgCdASoKAAoAAUAmJZACdAaZk+F5rfZFIh0AAP5FlUBv/fROrbpBs+dfwaWNxO+iFvlJt//OWHZyijc/GXgnKKj6/U4ST0wUv3VlZ+2xDB2SF3ZckzHXR6OA/Sf3xMNrQmSkXv7JqFvL/77vQzaz8tl5fFbTfTSRGeultKy/7+8DttCXzd/eCdhmvKBp++lrkltuIIxB7u1AAAA=
+imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJaACdAYtVa2+crCcgAD++btlRI8fTRyNFZUHor402KwyT5/sxU6eHXTjUZpMpPvkon4BohQUF/K6GIAcNk/j/DDT/nvJ+bYC6xvcTS4jc82Xr/+4T4vEkWhHAoGDnobejDv8xKP+zFeEfko57Imv2Q0Pj/9TDhxYNZB4868ZpBTn+DUIAAAA
 ---
 
 ## Plan your meals for the week.

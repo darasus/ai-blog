@@ -18,7 +18,7 @@ intro: >-
 
   Crockpots are great tools for getting dinner on the table without spending a lot of time thinking about it. Especially during peak busy season, having an easy way to cook delicious home-cooked meals at home can make all the difference in your quality of life. With these simple crockpot recipes, you don’t need to spend hours in the kitchen to have wholesome dinners ready when you get home from work or school.
 imageSrc: /articles/40-easy-crockpot-dinners-for-busy-weeknights.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJbACdAYsjwK9cZChlOAA/vB9t/Cn/1tF784H6DAuJeA0KH0tNDTeGNLTpfl4NOG0X99Dc40NUMuOHGCa/FS757yPUSq4cX7oU71CKb4fejB/8XMBBuK7/Cr5+qc18L9+fG3tMfTQfAAA
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAACwAgCdASoKAAoAAUAmJZACdEf/2RWRDZl054khx7oA/rZ5vV8ty/Q1/uQJfzYNO0OiOLv9ezvUIyJjx++rtG+d/RS9l6vH7nXvTvYm13/H9lDK5InJjhXGSFjxDKxXcotd8AqaDXbzToko4gDi+YMI9z/eV97n/h5iVvottLxrQXxvTpMftdvriTkogAAA
 ---
 
 ## Chicken

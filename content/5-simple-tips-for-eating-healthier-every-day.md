@@ -20,7 +20,7 @@ intro: >-
 
   It’t not crazy to think you can eat healthier every day. After all, you aren’t permanently locked into an unhealthy lifestyle. Your habits change over time, which means your diet can too! You just need a plan to get there, which is why we’ve outlined five simple tips that will help you eat healthier every day without feeling like a chore.
 imageSrc: /articles/5-simple-tips-for-eating-healthier-every-day.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJQBOiP1RayOTETh8TX4AAPvUXfSEOGZGPfLvfP/NWw/wdLF/8pqtw4Ro++IDvEpM3JsKPtFrHqPUN7PByb1r+jJZGLyZelAGtpKHtMJ5JTvGIINLCaQ6aQCMndEVKg4KDXgl8lnB+XHrUYoe8EPvvzBDkv9bXYZVHtjkIAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOj+AQWJeekczaHGgA/v1QxC1Sx570MMIvb/VTru4RgH7MD2jwfHVBfmngKhWTVdkZKYJgwa27rdVJTswWr82nWzp2ALKLKDtZE02k0+Eq787OT6lqR8XgwvlLgf/H/4Ms8AMOCXxcXrhWp4AA
 ---
 
 ## Plan Your Meals

@@ -19,7 +19,7 @@ intro: >-
 
   It is natural to have some fear or apprehension about putting your hard-earned money at risk by investing in the stock market. After all, many people witnessed the bursting of the dotcom bubble first hand and saw their retirement accounts plummet as a result. However, that does not mean you should avoid investing in stocks altogether—not even with recent recession still fresh on everyone’s mind.
 imageSrc: /articles/why-you-should-invest-in-index-funds.png
-imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFjpDlI7AAP2qTxbdahwB+cx0Nm5LJc511KqRie9OEuPHxFRp7/8ltH3fIfO1f/60nZG8aqfp+J4/RWAA
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJaQAAn+0UM10gwAA/vvXz3+g29awaRYZec1vsitf3/KbBZpoZeWOziNjRb/BQh6gJMPRGwA+dODqOG0XH+ps0PF3ut1gzj1LLVI/GbBwAAAA
 ---
 
 ## What is an index fund?

@@ -21,7 +21,7 @@ intro: >-
 
   But like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.
 imageSrc: /articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJbACdLoAfgoDILwrcPhwAP7KVwWwntBTdTebdezo64yBow+97Fewfq206jS6R9X7jZCLQAaJmp2TKckM9NOFFUyMGPedU3/rMaxy1wJrJND/+e00L1QE8Hf+QvMcv1N//UXdOMvpU/+f7v8jYcZcT9/vz/T9TLNus2/lYAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFg2tR+TgAP7YU3FZiwbFuBrV5bGmY3Oh2pqHn2vZPgLHpV+/Vsn0dqLzIwJXCrNxVtoT1cq2VkDad6a5+QZX/+7z903iq374LsArz1f6s1/g3/uB//HBH7CdcRBZA5LboAAAAA==
 ---
 
 ## Keep a Javascript Cheatsheet By Your Side

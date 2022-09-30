@@ -21,7 +21,7 @@ intro: >-
 
   If you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND
 imageSrc: /articles/creating-a-javafx-user-interface.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJZwAAznZC57bgAAA/v6/SWOn0LPOATXrbq/M3lKspwZQmrN6/sKgo/jtmHQ20VNE0UHzrJJMk6WnoH5bad7t43DDhHIcHwEMJEM+LkEOey0AAAA=
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJYwCdAEQNOmNm6YWAAD+/iwgba7+QMWc+lh5vr0bbWryByMUV3XmEBb7RXQV3fdajCESCM/W86pmiP01xe64ZLP7zzGWpgR0GaBw8ap5Fc8dkSQx6RAA
 ---
 
 ## Creating a JavaFX User Interface: The Basics

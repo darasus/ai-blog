@@ -22,7 +22,7 @@ intro: When you take your first coding class, you’ll quickly realize just how
   development. In this blog post, we’ll explore some of the most important best
   practices for beginners who are learning to code.
 imageSrc: /articles/the-best-coding-practices-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJQBOgCHglJN5567kAAD+/i3u7mH70f7nS9ki/Urx5ZrkGAgLvfQJCZ4/cOJDmvMc8ZRwx+Rrw1CLj3FeOs67o3+5iWkcWTATck5qB2ESbbvAJh+CZzfkdhDvM8V8jw1ggoAAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJagCdAECpSx02KAXAAD+/IkfI0mfOgpZOevSkdYz8L2szNv8w3eYk0+izZgM1nm40o2wht/G4kr5M5dN3VsAUH/gEd/A+XuxEMiocNZkK6/OO+D0b8FfbLC7e6crW/vqPsZv/q5zgAAA
 ---
 
 ## Use meaningful variable names

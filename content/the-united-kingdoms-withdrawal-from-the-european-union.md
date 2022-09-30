@@ -20,7 +20,7 @@ intro: >-
 
   With only a year left until the official exit date of March 29, 2019, many companies are taking action now to mitigate risks and take advantage of opportunities. The industry-specific challenges and potential opportunities regarding Brexit are different for every company. Some businesses may need to make changes to their products, services or supply chain; others may need to make strategic hires; while still others must manage employee anxiety about job security.
 imageSrc: /articles/the-united-kingdoms-withdrawal-from-the-european-union.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtfuKhxDoE3cFgAP78zfjkLPsK/+YPK6dZy8AMuC999LewOb6WH2NSV64c3Va58XmEJ/orrFlkYX2oPv8Y3SgCGIuG8VyzsaMZzdJjFelYrsPQx6aSVRBVlpF++WoAAAA=
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJbACdLoAAndlnOinG8AA/vb618MXnU8wYARmfb0/P4b42A4fKw9drQq6/EX+25PEM7e6j1ua/G0CG1Oa8gQFNyxsxXL8HTrZgtbbq8reqOIvRUUR47NPP/iMbH8XFFz/v/wfR/ZZmxv/2ppyt+VVvW/46ub/iagW5fyfJ0ydAAAA
 ---
 
 ## Supply Chain Risk Management

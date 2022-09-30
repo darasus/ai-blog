@@ -22,7 +22,7 @@ intro: >-
 
   AI has many practical applications, such as automatically tagging images on social media sites, detecting spam email filters, or self-driving cars. In this blog post, you will learn more about artificial intelligence, its implications on society and potential future implications of AI on jobs and everyday life.
 imageSrc: /articles/the-future-of-artificial-intelligence-what-it-means-for-us.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZACdAELXwcJODrAAP79utcy/Nph17fkcBo+NM77kI437DWzzXfxhTh7R2pAq+WH7CwEv7DnIp5pd/5vjb07MUDI+SJRWd/VcPrPiTFiwdL3/mgT/iA+P/y+3uNsBuAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZgCdAEWT0aSr8xAAP7xI/9MYZhvoFMFfvILv41qR4Imsjk+QShHmU6323GX+fbjyoZgXj4MPcnaITo6JX1rOK0+jIO/O7PdHwK4grtmOdNhuqBwkfuS/R7FvCK8/K1dFWR1gsjoAA==
 ---
 
 ## What is Artificial Intelligence?

@@ -22,7 +22,7 @@ intro: >-
 
   With so many emerging technologies, it can be challenging for businesses to know where best to focus their innovation efforts. Fortunately, there are plenty of potential areas for innovation that have the potential to have an impact on your business. After exploring several emerging technology trends and reviewing numerous outside sources, we found that blockchain technology stands out as one of the most promising innovations for businesses in almost any industry.
 imageSrc: /articles/the-promise-of-blockchain-technology-for-business.png
-imageSrcBase64: data:image/png;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQAgCdASoKAAoAAUAmJbACdLoAArrYT0XQGoAA/vG6eP/gp0EKyaRKB9y4dl5dC/GUv/2SXTs5mOvx3JCLnz2eS7ygEp4I/Gh5fcXK41V0k30/HFdifGlq0Z3q8XCPkEe1mJwQWjo1gF6QGp/80PvXXpj/UUVnFhv/4FHcdDtl/8hE4/vJ/xeJv2LcfsL5M+h/4N//aEeXV8faX8RgAA==
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJaACdLoAAxzvS9Mt1AAA/uiK9yUA/hBvreojYySCEMvY0lznKoPfYpktJi/cXrT6/LLdfzwpUh3Ht3VWfbNgjq710Cgr7IFMhaJNOw4cnSoNPiAWgP9H5Oy2ObxAAAA=
 ---
 
 ## What is Blockchain Technology?

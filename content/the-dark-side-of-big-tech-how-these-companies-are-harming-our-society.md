@@ -20,7 +20,7 @@ intro: >-
 
   These examples of how big tech is harming society will help you see these companies for what they really are: greedy corporations with little regard for consumer welfare other than how it impacts their bottom line.
 imageSrc: /articles/the-dark-side-of-big-tech-how-these-companies-are-harming-our-society.png
-imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJYwC7AEOuSF5XAAA/v8avOl6c+sECQ7TenHkdV9Py1H4lrUGPOKuEu8XXFQYNQHnBz7lQu7HCPjDXkD0G0QAAAA=
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAQCdASoKAAoAAUAmJaQAAud45g+PEAD+/qQPlVBF4ValfvNJIoe5uaJni4599pPjXTrsBP9QyT+stv+SOEpfvaj39LzevTY1n9/h/ahncSkIuxehkqwJ+ZtwVMqD++BM/WtDIV4KAAAA
 ---
 
 ## Facebook

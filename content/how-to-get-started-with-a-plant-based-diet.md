@@ -22,7 +22,7 @@ intro: >-
 
   Many simply like the taste of plants more than meat. Whatever your reason for trying a plant- A great first step is learning how to start with these tips!
 imageSrc: /articles/how-to-get-started-with-a-plant-based-diet.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACQAgCdASoKAAoAAUAmJbACdLcACUxlkUbiDCekQAD+9mJWh+of7Gv+pkmokQNvBX7Pz6noUWDnyHsMLBc8g4WwFAqN0cKmT+ryVxJZBKD3wbd//dDBrZ036LuxaY17Pmcmj/JySeLdRk6/vzAAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJbACdAEU6kRrlRAAAOA26Xn+hOKxR2xvtNULuwLVdr3HxC7fkySd1h5RehfPqwXhmP0avQT0b9f97lVkQmOqWWy/uINmRU9t8+u5s0fuXer6JXDrf8yGc1gAJ/K63Psv8R2KhfzVAVn7RqOD3faa4AA=
 ---
 
 ## What You Need To Know Before Going Plant-Based

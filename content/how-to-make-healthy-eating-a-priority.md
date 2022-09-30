@@ -20,7 +20,7 @@ intro: >-
 
   But making great food choices doesn’t have to take up a lot of time or feel like a chore. There are lots of simple things you can do every day that will help you make eating well a top priority. Even if your schedule seems packed, these small changes will help you get the nutrition your body needs without taking up too much of your time or energy.
 imageSrc: /articles/how-to-make-healthy-eating-a-priority.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoKAAoAAUAmJZACdAYrxuJJPzKswAD+/PU/9z+TyDzNwYMG0un7/bDe0p4O0P8e/8f9NFLo41BpcxnYIpvgY6n1/19OLxPGbVen93hH4HzCz79NPAxPx6ElosN67sShcnKzENjAZAGAsI9bGne5n89GB5RIgAAA
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoKAAoAAUAmJagCdEf/jDVndW/8ga+AAP7vowflE5cEKjCzX9VIcYld1rvhqu6VEMOe/BGeUlzF90lRKNdlgZf+h5JuRZXcfI/yjt8vbSjqaMz1h8SWKXPzkhlR7hsm9CHN4H7JlGjitnFdfGKwAAAA
 ---
 
 ## Make Eating Well A Ritual

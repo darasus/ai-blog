@@ -18,7 +18,7 @@ intro: >-
 
   These dishes are filled with rich and savory ingredients that warm you from the inside out. They’re also easy to make in large batches, which means you can enjoy them for dinner for several nights in a row without getting bored. And because these comforting meals are easy to double or triple, they’re also excellent ideas for homesick college students or anyone who misses mom’s home cooking. So, don your stretchy pants and get ready to dive into these 15 yummy comfort food recipes this season has to offer…
 imageSrc: /articles/comfort-food-recipes-to-warm-your-soul.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACQAgCdASoKAAoAAUAmJbACdApQCfbJz26jr2frgAD+/PT/Ft9duLmFnSjlbh9lK3aT1OwUKjj9Vb1H76eP1c9C0dpXa40cX/dc+isKfg/zBhVOF+s7Ll+x2y1Pz/trPpXXonuV1/tF+vAs+vnj8PuFeWdxxV4r8PVH1GNabW/k7oIWR1itY/iAAAA=
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJZQCdB2gDnZ87nNh3yXsLgAA/u5mZZ2Nmlx+4wnq+9Jezje17+vHoaLnnc3KnW/Jgekm0aD+3myX4VQ+IFzP9w53Bvk0KIxhHlwyvIEtmpAvJCa2hqHcTSNRmh9M59IsAvVnCmcNu2DuS1iv4nKoFZV/uclDOTl1g0ryYrR/zs5YAAA=
 ---
 
 ## Taco Soup

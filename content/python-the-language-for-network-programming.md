@@ -21,7 +21,7 @@ intro: The world of programming is constantly changing, and it’s a fluid space
   programming is, why you should learn Python for it, and how you can get
   started using it for networking functions.
 imageSrc: /articles/python-the-language-for-network-programming.png
-imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAAoAAUAmJagCdADcEoNJf4AA/v7Be8odzfvaaE7v68jDncL1ilUYrHw02BBH1PXmUKDfE4nUvzt9n/8o/pMY1t9gG+AA
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwk3HH/IAAD++M/rKptLLzWVG36xaCD3Gf5Bv+7vFflMQ3/3o1j/7sZR7+kH9d//94UV/7OTFR/+YAf8wA/1vsQdMeZnXoZryXadAAA=
 ---
 
 ## What is Network Programming?

@@ -22,7 +22,7 @@ intro: "As hip-hop continues to shed its once-maligned reputation and become
   the floor with one of these 10 amazing rappers who will make you want to
   dance:"
 imageSrc: /articles/10-rappers-that-will-make-you-want-to-get-out-on-the-floor-and-dance.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJYwCdAYst2zAlboZIAD+/HZQMBgdGibKOUf9+GQB/9dMsH/LZ2obMv6c9etEg5/F64adaCWt/EP9ZLy3Eh24hBGX0i2mXESAagu181Luvjv7hsw5OHxN5g3U9sUzyg3NRjAnaBiC3hOBLSqFvN/mn4AAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAgCdASoKAAoAAUAmJbACdLoB+AAREBgr5CZL9QAA/vVLHNx6JxJHU1vYxftTexDWnM5ukVlVD/HjduvYZElHTaWf9aI/By5GXB4ln/t7E0t37/fv6XiFHfg0HXFke98hOn/DlP/HFmSy73fxc5d9NAAAAA==
 ---
 
 ## Lecrae

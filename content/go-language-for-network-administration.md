@@ -23,7 +23,7 @@ intro: >-
 
   Go is not just a new tool but also a new way of writing code: It’s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you’re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!
 imageSrc: /articles/go-language-for-network-administration.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAACQAgCdASoKAAoAAUAmJYgCdAfwItkvY93dCLUwAAD+9+ExwExiIzUPw5x5zMMEe/bfwjyEvySrZyss0rGyrXM89O/Gw6Epsk1Nr/LROTKM6BI8k4VCP6Z/8mL5nLoi7idpixWI/3MHQ8YAAAA=
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdLoAfg75AAK78e97AAD+/Jsc6/mq8TNd31CsuyNtkt9B740rMjHlUCTYCqG4ycPG/8NCX/5DgOH6zGMkd+f+UrM/g3/9nd/bo/+L2N/3Ip+O9dv81HQJEX/1lf7uwAAA
 ---
 
 ## What Is Go?

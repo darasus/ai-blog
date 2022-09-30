@@ -25,7 +25,7 @@ intro: The world of business is changing at a rapid pace, thanks to innovations
   improve your business requires knowing what blockchain is, how it works and
   its potential applications — both current and future.
 imageSrc: /articles/how-blockchain-technology-can-improve-your-business.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoKAAoAAUAmJQBOgCFoU3UP6gAA/vfI0/h3vjPKSIi9ah70/xva11O/2DkkdbOfFKOSJQf6f/RkftlYi5x1v73riVjqL/9GVVz5vUUeCrnlUgHGlcnMAoTzULSsokI84BdNaaaXTo7thW7gAAA=
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAEU+XncLAZKAAD+/fRn4KOyhD7nyN1xniNDqaSzeqbJeQ0Jp+kgZv/LDbChwYuEoGCm+0tPOWC8SP3yNhhy/DEJGcbFOB/t1PfY/9zbwIHO8bd3t/3AAA==
 ---
 
 ## What is Blockchain Technology?

@@ -19,7 +19,7 @@ intro: >-
 
   Let’s see what makes GraphQL so useful in the world of mobile apps.
 imageSrc: /articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAzg+TmBIgAAA/rgmphY23jOGumU9s/QeJx3Z4z9u4ZMD86LIWX3bd1RTaSlm753h8C1aUl+sOurf/ns8iT61/+Wh/7aH/Nn/WmhSTHsPgILTVVAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==
 ---
 
 ## What is GraphQL?

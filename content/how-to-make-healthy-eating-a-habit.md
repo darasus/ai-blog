@@ -20,7 +20,7 @@ intro: >-
 
   Luckily, making good eating habits stick isn’t impossible. It may seem like something you have to force on yourself every day, but there are things you can do to help make it easier over time. Here are some ways to help you develop healthy eating habits that last a lifetime.
 imageSrc: /articles/how-to-make-healthy-eating-a-habit.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdLoAAv45f1iFk4AA/soJeg4k+eDInlwB0zqAzZ0Qs1f/wMkcQr2+PrV7tNDf+rAq9hWRPyqmBGcxPP9TleCibEKtrDXtslhCZj/5jNUqEOXcd/4YeqMMao/yHZ91b5nv/wZx+ERPJ7wNg64j4t2b5iql06AAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJQBOgCPQK+3/eZAA/PM8vj3x/+pJ/LcPuW1yiSSOEuCYtgXubink+h+XZS2lveZogLgRlaf56Z8KF5I82AN3QC6lj18TEN6/PEEGUBt/DOTWx1mNf8Ye+rh4AA==
 ---
 
 ## Commit to meal prep.

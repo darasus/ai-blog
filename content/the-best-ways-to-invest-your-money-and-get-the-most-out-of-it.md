@@ -22,7 +22,7 @@ intro: >-
 
   We all want financial security and a comfortable retirement some day — but not many people are willing to put in the time and effort required to get there. That’s why we’ve got all the information you need right here so that you can start making smart decisions today and build a better financial future tomorrow.
 imageSrc: /articles/the-best-ways-to-invest-your-money-and-get-the-most-out-of-it.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJQBOgMVf5JWg8F4AAP7kantz+b3eetcy4xd5fgLIJwXe9//Rp1vJIrgVrD1rRvXiCEG7aYRjZzHHPDa+VtVTmH5kT2X5FOltVFAAAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJZgCdLoAAw8YQJSfegAA/lv5PHIZeydr8sREz9UD0R3aJUuAfTeW9YGorvMcfr/7RT7aOt3dmf3jn0a9fRanrg/us3rMqW9+XyuLY2n8WgAA
 ---
 
 ## How To Invest Money: The Basics

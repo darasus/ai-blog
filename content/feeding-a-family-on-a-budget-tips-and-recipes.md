@@ -21,7 +21,7 @@ intro: >-
 
   With careful planning and smart shopping, however, it needn’t break the bank. Eating well on a budget isn’t about cutting out all the things you love or pretending that you live in famine conditions; it’s about knowing how to save money while accessing healthy food that gives you energy and happiness in your life. Check out these tips and recipes so that eating healthy on a budget becomes easier than ever before!
 imageSrc: /articles/feeding-a-family-on-a-budget-tips-and-recipes.png
-imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdDBHQWlsB4KNNLGAAPz8A/fVzOh9LL2vqUn5NrNIURFJfqu7Ye9Dx+86785QmTzzM/KEhqM97fn4ndt8ADpKTKMOMgGaMZHHcQpxHL2A0nH+EFtYXg8u0rAiCBni/+/LiZ7PtXm9//TR6//Rv/EWqf6m2IG/AD+Pm84h0Q1//Jv94EB/BqEAAA==
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYgCdGuAAs3Fda+/gAAA/vIQv/54wP/8lpks/8GfAibZkL62x+L2/bxRYn4yH48/eRUWX6P6/7RKQ7Lz1YH3Pn/qP+JcQLnHOu0oyOJzLfPt3Brq+eX2ziqn5qoh6ILTxcEAAAA=
 ---
 
 ## Plan your meals

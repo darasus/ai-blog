@@ -21,7 +21,7 @@ intro: >-
 
   In this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!
 imageSrc: /articles/typescript-a-beginners-guide-to-code-type-safety.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAABQAgCdASoKAAoAAUAmJZACdLoAyv8D0S3DgAAA/vRfxSyBfMMCBlPEAQ8QJ8u5Phl4jawUDssYEfkc0tuRaufkgU9UzYDwdyfoaJEqDZyJMhwAAAA=
+imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA
 ---
 
 ## Why Learn TypeScript?

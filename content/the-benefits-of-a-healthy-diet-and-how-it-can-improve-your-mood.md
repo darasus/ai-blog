@@ -22,7 +22,7 @@ intro: >-
 
   That is why it’s essential that we understand the benefits of a healthy diet as it can help to improve your mood and tackle any issues you may be having with your mental health as a result of your eating habits.
 imageSrc: /articles/the-benefits-of-a-healthy-diet-and-how-it-can-improve-your-mood.png
-imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJYgCdAYsZ2tq42ap8AD+9WM7q+mz8kNEDUbRpUjiSNXX/9BKLi50dhMhW21mb5fGSX6cOOcpwilLK2MHekgfDFP/vQUfk7fLjs5YWOQ7X7KjSrF3xU/Ur7e/5/uftr2fhyb1NyKhumFr4n3+zNyfMYt2UgAUNDhN4wAA
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdADcZTCrAcUAAMyj+/6F1HyXgfd1ueozb2adraKn7nIV83AbgHWeT9K+jNlKJUSYYvOP24oEz5lrass4K3nr/borgLcw8b63nYLTiywlCwsGPT+uXpOP9aet47/k04tQAAA=
 ---
 
 ## What Is A Healthy Diet?

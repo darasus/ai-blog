@@ -20,7 +20,7 @@ intro: When it comes to the topic of cats, a lot of people tend to have
   numerous positive benefits in many different areas of your life. These are
   just some of the reasons why you should own a cat!
 imageSrc: /articles/the-top-10-benefits-of-owning-a-cat.png
-imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAADQAQCdASoKAAoAAUAmJagCdAEO5ERTIAD+8+5/aff0E6kOXYZ22GlTPKwJcDdxpn+/4Agw6/++5PpJIB2nscQEh1FfCQrtGZMQlx/k3b+XWKeIn7Zd58/a/+k6GVnVXwTa4p/xEn218e48b5KEiHU3LTdSn9yGuumRFWJ3sexEy3vJvn4AAAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoKAAoAAUAmJZACdAEXtVWZUQVVkAD+98P6fqf/xc4D+KhLeHSFUV9BoTAk3JfqOtd/9lvk9CI4hC8+71Kazq5XjYErJDHjp/SBhHnh4kFAcZP5Pn+iPOtqOYVX1y4D8w5nxifqdv8tVnBhafD0zxrG3xt0iX1OLSPXIMB3/2AV5683TuwAAA==
 ---
 
 ## Increased Mental Health

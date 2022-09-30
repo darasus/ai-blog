@@ -21,7 +21,7 @@ intro: >-
 
   If you think this is a general statement about Apple consumers and not something specific to their products, let us rephrase it for you with further details: Nobody on this planet buys more Apple products than the combined population of China and India. That’s right: The same countries that are portrayed as being obsessed with everything Apple also happen to be home to more poor people than anywhere else in the world.
 imageSrc: /articles/apple-airpods-the-best-apple-product-ever-made.png
-imageSrcBase64: data:image/png;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoKAAoAAUAmJaQAAuUwbmiAAP7+gpinec1yGt1GTnGvzrRQAAA=
+imageSrcBase64: data:image/png;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAoAAUAmJaQAAl3YiqMgAP7lC5iFnit2vF9UtEhboiXctYFP6lR9p0HVqVuYcAA=
 ---
 
 ## Airpods: The Best Apple Product Ever Made

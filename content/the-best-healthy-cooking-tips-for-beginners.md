@@ -21,7 +21,7 @@ intro: >-
 
   If you’re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!
 imageSrc: /articles/the-best-healthy-cooking-tips-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAwAgCdASoKAAoAAUAmJbACdAYv/ySt9Oy2QAD+7SuRu7FWzdYT4GutmXXvivZMI4BQg2u4BJOvYNf9B+139xh0pASmdb26wCvdaWIjW5ZLcMVo2kF4uxV7HL/kVVclJkgNSNZNv5dA5u9VH+V3kDzxBl++5zf/MXjf3bfJdvSQf/wy327JLhMv5nfwa0gA
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJYgCdADyesP43wAA/uhOhTYDd9090uaLHcjsKQXDSYGG0tIto/yVnuEt9Ld6bMUBNfgzS+v9qpkFuc1OjlUWncd+mayfTcd5aOb4vRap3MJfBgAAAA==
 ---
 
 ## Read The Recipe Thoroughly Before You Start Cooking

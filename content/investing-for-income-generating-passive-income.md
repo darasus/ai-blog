@@ -21,7 +21,7 @@ intro: >-
 
   Investing for income can be a challenging endeavor, but with the right knowledge you can achieve your goal. If you’re looking for some steady returns on your investment, check out our guide on how to invest for income in a variety of ways that won’t leave you out of pocket and will allow you to continue growing your wealth over time.
 imageSrc: /articles/investing-for-income-generating-passive-income.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJYgCdAEPDxKRTejAAAD+/AZ7+jrcrhqH8CqjiuVRVPtHgLAVQQfy2zOa2Kf+oT4l88acJz7+OcLiio+aKnjGqL/r8bs+hXDDCSYioAA=
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJQBOgMWHtjuAd5OAAP79mPAFgtpcLKNSzg/+gP+R/fprwt4dm0jYANk6o5cVJB7Ce1r0vd5QjtciQ3YNFsxWdPv7Uu9iucYWtQXVVWYcB1FpxDIK9getui2cAAAA
 ---
 
 ## Basics of Investing for Income

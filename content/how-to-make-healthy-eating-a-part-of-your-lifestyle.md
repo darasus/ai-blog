@@ -21,7 +21,7 @@ intro: >-
 
   And while we all have our moments when we crave junk food or a big greasy meal after a stressful day, making healthy eating a part of your everyday life can have profound benefits. A balanced diet filled with lots of fruits and vegetables lowers risk for almost every disease and helps you feel better mentally and physically. Follow these tips to help you integrate healthy eating into your daily routine as seamlessly as possible.
 imageSrc: /articles/how-to-make-healthy-eating-a-part-of-your-lifestyle.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJZQCw7YsZ2uH7RSnEBgAAP79UMRmoUT//FkraX136u0/35Gow5UZyPzgBrsrnEjRf1lPQVkG7OP6r2AdHHhGwxncAfi3I56PwVcGpatkAvdoMK5BLS3KwALfwAAA
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAACQAgCdASoKAAoAAUAmJZACdAaYtmq9pb2OiashtAD++uVam9DXrM0bpgl7KezRAHC88kW+sJ6j2+KjSe9wgP2VSIsBIUT+6zcv89ZCVX3i8DWrozxbR3/kCH38Aal8v2yzVLVH7ED8B43a+vMoeoHfTWvC2yGRZ+vYvnmu9zuk76HMoLNwZUmMhRXq2SAA
 ---
 
 ## Plan ahead

@@ -22,7 +22,7 @@ intro: The idea of sitting still and focusing on your breathing might sound a
   human beings. So if you’re ready to adopt the practice of meditation in your
   life on a regular basis, read on – we’ve got all the details you need!
 imageSrc: /articles/a-beginners-guide-to-meditation-and-its-benefits.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAgCdASoKAAoAAUAmJbACdLoB+AADMS4GPZqgAAD+0q8aG4km4j+J2bnSj7m3C+2Md5WRp9yNRk8JKPxNVaFUxRo6r6JV3iX6Of85w633/H/T79fn4ezPs3fXXD+Xp/0X+/g3/8Cd/9KGdiTCXqYVeOVD3FwgAAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdAYuHkd8300bo4AA+XgX5Ti0i0DstvObHU+A+6XscR94Bx7h6+OvMeMv8ktX38fUkSdC6FHW6CTZHjlQ6dT9wcEGY3eXGLPL6PZdemLS5yHYxP79iEScJ7wZ2D79fcYhGWOCztYIqIAAAA==
 ---
 
 ## What is meditation?

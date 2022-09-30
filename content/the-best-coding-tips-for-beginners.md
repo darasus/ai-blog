@@ -22,7 +22,7 @@ intro: There are plenty of reasons to learn how to code. This digital skill
   skills over time. The following article highlights some of the best tips for
   beginners who want to learn how to code in 2018 and beyond.
 imageSrc: /articles/the-best-coding-tips-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoKAAoAAUAmJQBOgCHY0zRl/gAA/v6Nyk3+0CBX8aderchJwfEBw40lY94lwBnLY5s183kskYbE4AAA
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJYgCdAYuvvsnCclQAAD+/kHNPOJRkKdYwpK+/UnyRgApaqlResG19nGbZuUX1EYs8DLfDOw2s3PZO7Y0dZo6ki76XlU98K+lt4/54JoCI39oXg9cy5wW2l82chtNo5Dbw/exfP/5JIuAN4V3x/3tTwAAAA==
 ---
 
 ## Learn how to code with the basics first

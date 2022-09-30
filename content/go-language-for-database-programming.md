@@ -21,7 +21,7 @@ intro: >-
 
   The Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go’s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you’d like to learn more about this programming language and whether it’s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.
 imageSrc: /articles/go-language-for-database-programming.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AAMlxEUNCgAAzj5dnHuNYuIHqxCfgrPdaKiMEEOJaceR/erGDg5RS/iFba2lDLbb+2DmewzT//2YSm2zGcen3ySP/m3hE6T8jl2A4hfJuAA=
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJYgC7AELWEUKuQAA/v4SlVnRfRbypUVpS32BpMe1c1uP/LiPOdlWugH32/3NdB/Sra/Ov0DlvXvmWbs1WYRH08+AvcF0+rX4nVP4DJXAAA==
 ---
 
 ## What is Go?

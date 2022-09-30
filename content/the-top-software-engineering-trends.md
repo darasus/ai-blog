@@ -22,7 +22,7 @@ intro: >-
 
   Here are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.
 imageSrc: /articles/the-top-software-engineering-trends.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAQCdASoKAAoAAUAmJbACdEf/gYrYiLAA/vNDYNoWNrdmCHEu0gBwXbI5WI4lNHrgkJe9AL4Wzln5gjKF5he8NSUe7l9jiuwqd1ZL5TAr+MljfrItX+tN1b989/tJf5N/SmULx//mykhi39LHn39kl/o3/7UrCHOoAA==
+imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=
 ---
 
 ## Big Data and Machine Learning

@@ -22,7 +22,7 @@ intro: >-
 
   That doesn’t mean that these coders are bad or won’t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.
 imageSrc: /articles/how-to-code-like-a-pro.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoKAAoAAUAmJYwCdAYvXwVzPCJ4K1DAAP753nLr2C+eDJ9mw1f6d/2oqVeTQ63EjRfV+O2CBMVAUVn9qAlLTRa9hH4S9kw7gNwSVvReL78kKv0B5B8jx0ke5vDDKAAA
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJZACdAYuvuKVyFwvrrQAAP79Thk4f6T+GJ9V1j9xwtxdHd/ga+badg1BqKUCUIUKPOfnIkYk0jw9TIGW7Th2Xvo3Tf9IUgfggMCSAQJysZQHe8ef/MDDUtXS4ivAAAA=
 ---
 
 ## Practice Makes Perfect

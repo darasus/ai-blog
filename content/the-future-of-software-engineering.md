@@ -22,7 +22,7 @@ intro: >-
 
   Software engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let’s take a look at what you need to become a software engineer and what the future might hold for this field.
 imageSrc: /articles/the-future-of-software-engineering.png
-imageSrcBase64: data:image/png;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoKAAoAAUAmJZwCw7EQCtVA3AAA/v5ydkUqwknBlPiSeD+ZR+6/ArSKeV0NgAAA
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAwAgCdASoKAAoAAUAmJbACdAYtVbZrVTTbgAD+9fs9MR94EPluFhF8//J8NEHq166K0+f/kQ3J1DdAUQDoI0w3zE9VqWUlxCOB+hE2eGRbknUov9fOPb6+QxZsbwedjdL9u3d/oSDNJ1U9o2xtJCqGuLX//VY7kX7vfyYxri0D752Gey2IUo+Ar5sdAAAA
 ---
 
 ## What You Need To Become A Software Engineer

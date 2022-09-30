@@ -23,7 +23,7 @@ intro: >-
 
   There are many ways you can access local farmers’ market produce year round! Even if you don't live in an area with a traditional farmers' market or choose not to drive there each week, there's
 imageSrc: /articles/farm-fresh-produce-where-to-find-it-and-how-it-impacts-your-health.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdLoAAncV4RcvQAD+4oj7t+d9/lDt7nurqW409acf6ZeZ/9aDqElC33jgvo1xkI69fnLwnc0PWgOZuEwfvlG7y7G2vgULS51Gk1770+CS6sXO//nccORdR6/90/W4I/k355vBOqF3qKQcZ+Dke0Dw6AAA
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoKAAoAAUAmJaACdAEO/24InwAA/vrk4rDHbdggRFe15z08f72YmaU5cqRpQOjiO/LuGDr9nQSVQD/ZiqGtBK/wbh26sq51Bfj/iNYlVC6WQZg8QURX0NY6jcO7/87BZ9vtGw/amZfP/4AAAAA=
 ---
 
 ## SUPERMARKETS

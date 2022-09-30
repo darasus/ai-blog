@@ -26,7 +26,7 @@ intro: >-
 
   Here’s a brief breakdown of what big tech companies and the future of the internet look like today:
 imageSrc: /articles/big-tech-companies-and-the-future-of-the-internet.png
-imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAABwAgCdASoKAAoAAUAmJbACdLoAEhmLEkwbR3oAAP733XNsVax/J/ts716k5MzYwW24Csunkiz/NhpW8zY0Nw8Vz/MoXcz3PvQNLrIi9ZU3dw7r12hfBMI0DMixzLiBov9An/gfni1PU3GuKGTU3/8Loc/yogdp7Dh/6FE1MTf7cP+7P75rANO9vR5+9/0cmWao6V+v9D75gAAA
+imageSrcBase64: data:image/png;base64,UklGRqoAAABXRUJQVlA4IJ4AAACwAgCdASoKAAoAAUAmJZACdH8D2JSIdK1y1bhYRuAA/uitLq0GfLhtNA+9kg/uqYx2jXosIIsiMFp+gsge15Zh4n2eb/8+P2qKZ/wkTi9sZT4i8hMMwSyxEDH8f7HxPKOb7MuhgZN1y4SUnLh7bHOJ9w9wQuhz9P/nEmOR+WoF6KgysEbfGmfj/+L8B8Kn386veZTvoVrM0kxf6GdIAA==
 ---
 
 ## Google

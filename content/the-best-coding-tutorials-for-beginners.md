@@ -20,7 +20,7 @@ intro: Do you want to learn how to code but don’t know where to start? There a
   - you can learn all the essential skills of programming from these great
   resources. Try them out and become a coding pro in no time!
 imageSrc: /articles/the-best-coding-tutorials-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoKAAoAAUAmJbACdLoB+AACgP0kAAD+ZsJZu7aLn5UwCygBhMFUdd/C97AUUL2zkL7ZvEIAILy+vsoH/57uQaVSjevQmoSkJ+tmH+h3/5BrSljOeS4AAA==
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwAgCdASoKAAoAAUAmJbACdEyAAYbU4mKgwAD++8zxz3rbHR+Jk6a/hLrBw1mjdt5nNEMGUpa3uOQ8+uW9gxCk9Mls4IXI/725mt6rYXYG97FqtrxrwXOyA+t4h6w0qPWBggrWVf/yK33knq5s/t+x9YRf9eHvvsQf/rdC6f7uoUMbC7r65BuHo3+gbBrdAAA=
 ---
 
 ## HTML and CSS Basics

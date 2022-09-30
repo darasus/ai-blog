@@ -22,7 +22,7 @@ intro: >-
 
   Crazy, right? Well, it might come as a surprise to learn that the best foods for weight loss are actually unprocessed natural foods—not magical chemicals and supplements. Eating more fruits, vegetables, whole grains, lean proteins and healthy fats will help you lose weight faster than any fad diet or crash diet could ever dream of accomplishing. No matter which diet you choose, these are the best foods for weight loss.
 imageSrc: /articles/the-best-foods-to-eat-for-weight-loss.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoKAAoAAUAmJbACdLoAEJWTMgC8QAD+0PHPEUUs8OJh7BP71rbA9C18gHh9JzAf0GaMv9WijYBv1/vk6lOlnpa4h8+y8rEhHCSBPcSPZR//4f7b+r2z/6kcQQUJi6dudn/7TQM/uP+ffuqP/gou7/Snb8/aUkgA
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdDiAByh4fiOfduvKmAAA/uDIfOdGKqDbcUAG5XFXJDMsf+pSlVltxAs9jDd/9D+l5nKa7j906/CtGZwqCYS4SfUlHPcEHLPrbwP/qcI1/aWrHiWTmV4J/b/9Lg+M9FEPz2T7wFxwErpgov/xfLXeNV9e/ZgOwn5H072Nu52hQAA=
 ---
 
 ## What You Should Know About Calories Before Jumping to Any Conclusions

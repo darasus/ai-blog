@@ -23,7 +23,7 @@ intro: Are you the type of person who can get things done without keeping track
   Read on to learn about the benefits of keeping a productivity journal and how
   keeping one can improve your life.
 imageSrc: /articles/the-benefits-of-keeping-a-productivity-journal.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJYgCdAEf3OEmfZqEAAD+9BduK02qd9Eixd9vvx3y2gnycV4T7ZJzKPfhuYYrlLQesN8tD9UV/w7v3jzuw+d2jO0zqiMQlV7lLfJMK+niEZiUZ7jHkBuc3V/2UnrlAiJ50Y4AAAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYwCdAYuvqc6tSEP/vfziAD+90N0PLn1yrzukejQqcLxr0s7UKLe9Vs6qm+lJw02maVf5h2kRg038mWHpEFF1t6rMrQyRPkNAjlzy1i1NRKqe2QNFKEi6gwhN8YBXdLRXnwAAAA=
 ---
 
 ## Know What Gets in the Way of Being Productive

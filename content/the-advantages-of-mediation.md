@@ -21,7 +21,7 @@ intro: >-
 
   A successful mediation process allows both parties to save face by avoiding public disclosure of their personal information or confidential information about their business dealings. A mediated settlement is binding and requires no further action from either party after reaching an agreement. If you’re currently involved in a legal dispute, here are three reasons why mediation may be beneficial for you:
 imageSrc: /articles/the-advantages-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJbACdAYr78Mv04wyNwAA/p41vhr/MUpC3tJQ/ETtR/SCMoWT/4Yb9qGJ/05vD29ANL8iO2+ulbANUMJu7eAwhKTKdPewFCluh4/wirqptaAriELHFHQxf/Ire6L+P+P/u1JRLwW/2U6pz8f+Tft0AAA=
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoKAAoAAUAmJYwCdH8GJ/gep/DDXugAAP7617/ExZmnCmIh8QgIJMicgT60J6tjqXvVgzI1beTZ3tMu7bpKBuaumc1OwrVd9Kx64oQqGMO4UQxKI8099qaUxGFe5fXdgAA=
 ---
 
 ## Mediation Can Help You Save Time and Money

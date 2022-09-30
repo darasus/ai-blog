@@ -23,7 +23,7 @@ intro: Now that the world of game development is becoming increasingly more
   development then keep reading. In this blog post, we’ll be covering all you
   need to know about Go and why it’s a great language for game development
 imageSrc: /articles/go-language-for-game-development.png
-imageSrcBase64: data:image/png;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAAUAmJaQAD4WwkXDyAAD+/s4uUco2ss98dFrq/JgpkH+F4tRpLKe4vNJ72iaqV72LSLgAAA==
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwAgCdASoKAAoAAUAmJbACdAYtLyAt7wDOAAD++bvx/0H//gw4rC4nOlOe+p2XovoGpkWfzud7z/u3x7ywN8rw4cYOikX/yI8CwtL8/kXoBlpIrmKNr6xmG7n6h4lyB+Y9uyBO6TzSiWP7qh2O+0ZWSwi+BHPKFH0wi39rlkHTK7Cg1Erf221keAA=
 ---
 
 ## What is Go?

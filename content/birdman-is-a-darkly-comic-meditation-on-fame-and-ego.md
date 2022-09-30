@@ -23,7 +23,7 @@ intro: >-
 
   In exploring these themes of egotism and desperation in a celebrity-obsessed world, "Birdman" is an interesting exploration of what it means to be famous and why we allow others to have such power over us.
 imageSrc: /articles/birdman-is-a-darkly-comic-meditation-on-fame-and-ego.png
-imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAgCdASoKAAoAAUAmJZQCdAb4DkqPRyueRkkv/IAA9r/7Kq/8iv0U030qvsl/xPsOtm9I3rPJZP/62vi/e0vvcLfuv1c/6C4LWjP2P/2mSluNEyDO8B8n5HvDKtaE/G632bdxEk6PM6e/w8r4dELI+kDbRnWpTQHBPxBE1B50ViP7b7A+WwAA
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAwCdASoKAAoAAUAmJbACdDXAP1A6wDySQb6qQgEuV6sAAPRySXVqC4qFmOvZU72URyt2C1BwcpINqy7Y8u/Id5U8M7h5ND5n5eQHl4uPQCwGwzFMgZMzAYfBu3hlP3LAqH5UnSzdouV+9ntf+TkxUa/dfw7RVn/k9x/iw2t6YIsP1rZL/wW+ff4Irf8m/1mofs9CqLgAAA==
 ---
 
 ## The Importance of Being Famous

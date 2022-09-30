@@ -21,7 +21,7 @@ intro: >-
 
   Mediation has been used as an alternative to litigation for more than 2,500 years. The practice of mediation has continued to evolve over time and today there are many different types, including: family mediation, dispute resolution, community mediation, transformative mediation and collaborative law. However, they all have the same core elements and are intended to achieve the same goals: finding common ground between two parties in conflict; preserving personal relationships; and resolving problems constructively by using active listening techniques.
 imageSrc: /articles/what-is-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoKAAoAAUAmJQBOgBunWPgAAP7/DBWmdCi/7ArsEM/u6GjXs/ieJTbM8Tj/gSeb5SxBZ8fBdEPMf2AhO3vmFH7qY/YJY3veAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoKAAoAAUAmJQBOgCFsAJDIAAD+/EAy/t4uf88fu/Hlnj//i79nJ9/spwP8//0Y9azDSsB5OsRuNvvJotHuXn+1OdP9O3X9q29IZ2twHClY+rCz/JyOtAAA
 ---
 
 ## Understanding the Basics of Mediation

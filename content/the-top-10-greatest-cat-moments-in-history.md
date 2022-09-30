@@ -20,7 +20,7 @@ intro: >-
 
   Cats have been a constant companion of humans for thousands of years. They’re enigmatic creatures with a reputation for being aloof and independent; they don’t ask for much and they keep very little as repayment. But cats demand something intangible from their owners: companionship. As a result, there are many famous cats in history whose exploits have become the stuff of legend…
 imageSrc: /articles/the-top-10-greatest-cat-moments-in-history.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJZACdAEO6v/nl5eQAP78kqi7+2GPcAdQzJ6f9gQd/FA/3/E0ylrHazFeL+U39YO1vL5R9+918M+0eSs79oLiNa0hHy/ovy8X6Xv407f8shPpCB2S2P9Hm6yDOlT0ljWHsAvMAAA=
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAkwAEh9NlVSBGAAD+7dcAWaWymeJro0o9dIHX2XJ8Ha5sXsyQmTVLzRQN4WMOACYNoKeO6Y0K79OtjOQnZqA8EHzbiLRfyhlcLVYcHf43jdvAMhv1+X1/wbuwJWU9RrsOHnI1TxerVgX5/5NkAAAA
 ---
 
 ## Sick-n’-twisted feline antics

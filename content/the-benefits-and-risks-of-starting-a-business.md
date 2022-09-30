@@ -24,7 +24,7 @@ intro: >-
 
   Read on to learn more about the benefits and risks of starting a business so you can make the right choice for your personal situation
 imageSrc: /articles/the-benefits-and-risks-of-starting-a-business.png
-imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAADQAgCdASoKAAoAAUAmJYwCdAaMB5g/lEzKnbDB0HogAP7zVQv7zrMRMeS5+/63xGzM2eldna2+5fpD2S/JZEyz7VGYRPw29tgvn/zG0qe49k/O63XzZ/G0W0/R/0sI3Cge69drt2GHhx7wcwDKlWhGH7IP5rbxK6VYca0VkVQiqImwE5cLLm+s9Z+LH6EUAhvcapcQAAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdGuAdJSDIRgXgEOAAP7oqq7eK0/rv4QJEd5z69H+gpN0QkOrDz0j4QVLyMIMJ4iu0uP6//O0js7834OYx4T12lWX+9JTK3EJLxFrfXNYpr3SZNjLK3nxlNwXxvNUgJxQAAA=
 ---
 
 ## The Benefits Of Starting A Business

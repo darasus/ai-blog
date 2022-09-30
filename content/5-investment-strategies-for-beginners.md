@@ -25,7 +25,7 @@ intro: "When you first start investing, the world of finance can feel like a
   world of investment and how you can get ahead sooner rather than later with
   these 5 investment strategies for beginners:"
 imageSrc: /articles/5-investment-strategies-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFiwHNDsAAP76Sct64QMe5lP2Ak1LPNjA3KCdsFdl0X4NH/w1eD/+cBfwl3/42BvJx/gz/cnRN+WprL3OE74AAA==
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAgCdASoKAAoAAUAmJbACdLoBJgA87UIzW0jJUFwA/vdbF0ypLbi6h1B18iLq9pa07H8v7+c8xhAvrgf35Hj+d9tP2pYXyhDK5aKb76S/792vBIgo+dKxuw+lrJ1/44hL9rUZb/9kp7/Jw9Qdf/Ao5/1fIjvuS71BqjE2r/hNigAA
 ---
 
 ## Diversification is your best friend

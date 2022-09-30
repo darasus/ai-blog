@@ -22,7 +22,7 @@ intro: >-
 
   However, not all carbs are bad for you – in fact some types are essential for good health. Here’s how to tell the difference...
 imageSrc: /articles/the-truth-about-carbs-good-and-bad.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoKAAoAAUAmJQBOgMV43CKEGgAA/sp4JK3e+EaEymxtxZ3DuU/MYPv2rfBkcTlQ+4L3BmVko1p3NPj75K8nasqcUbeaM+6JrGFncdsAyBlkOD23lDRfh8dmZkGep6g3/ozvO2hPIW8hG7+AAAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAgCdASoKAAoAAUAmJaACdEyAfqATwBHxGBLrE1q4oAD++uGtcJZnJHpmifrpw3kDLXN0004AKMxPwdYYUQrVtYqgVEX/iv6Lvn60ydivtpR2Da/wxsvRP1VConr53/vNW6G1kFy8BZ4ePH1fqz2+k8X4z2gfrRQAAA==
 ---
 
 ## Good carbs vs bad carbs

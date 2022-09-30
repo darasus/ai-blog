@@ -21,7 +21,7 @@ intro: Keeping a balanced diet is essential for leading a healthy lifestyle. It
   might think. This article will teach you everything you need to know about
   eating healthily and getting the right balance of nutrients in your body.
 imageSrc: /articles/the-top-10-healthiest-foods-to-eat.png
-imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAACQAgCdASoKAAoAAUAmJZACdDBOyIRLKUTaLqjPgAD+uFe7oo/XChtp9l5o4O/LnZkvhdy4w1ApQZjfO/S0VuWPwJMGdRKN+vczGV+QeoBLqwC2MiZ9qkfgnzYYsKDX0TYjFaA9mGMjcAncxcfN3+UxkCx8E/EMaQorpMCfHeHoeOzKPDq+LfvQiimuksAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJQBOgNNlecoff2OzftAA/qN/ylt/JsQNwfr9x9YAwbjFjlRP1kpSZd3pxxsiARzoZ+7TMx/nKTcg/NB8kSH4+/mvv5K7zN2cXJeB+lDuhVcOCJcJ1OFdDNaEpjmR/VHv+f+3/P/UYSAANQCvEqe9cau1yb9tCjvfX3maZ2NwAA==
 ---
 
 ## What Is a Balanced Diet?

@@ -22,7 +22,7 @@ intro: >-
 
   Ethereum offers an accessible platform for developers who want to build smart contracts or other applications that run on top of a blockchain network. On the other hand, Bitcoin serves as a digital currency that can be sent through the internet directly from one user to another with no third party or intermediary.
 imageSrc: /articles/qtum-the-smart-contract-blockchain.png
-imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAADQAgCdASoKAAoAAUAmJbACdLoAyv8DxPzZHbHCES0AAP79dmVoZCc0/5/8oATfhL7aVy/5yE5InQpl/dzdp/tgOZx8JQNLA5P3j245yoQHnXJoX/niXx/gyllYT9LBmkbMD/E2qQ7mUn4sludRtdlwz3f/5mnaP2l/XGbVn/LjltPhFdiX4F68HVWN/+n4vDsb/tmAAAA=
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBtkb5a9QAAA/v2Yfdtu4XKVQVQJG75//ng6lXzP77NQLvpF/TDTb4jRPzoz+O2HwiBPEImuQ2kuQczByo5+kX0+1SHqPvvl8ZbNXljNsM8AAA==
 ---
 
 ## What is Ethereum?​

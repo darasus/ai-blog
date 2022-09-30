@@ -21,7 +21,7 @@ intro: >-
 
   If you’re ready to begin exploring the wonderful world of Python coding, read on to learn more.
 imageSrc: /articles/python-an-introduction.png
-imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoKAAoAAUAmJQBOgCPt0TnnEAAA/v4sINM+bd0fnICnmqDUYr9uH8//PCfUSeHrT3SBCgeZX1foMhSOI3Tp+T1b4pezYC8cC1EFkuvU8GkAAA==
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJaQAD4tQj8RYMxwAAP78DctskIgITVE+b55K4EaI132a14+5yB2uNEXFM8774QzOjusvnY3xFXPqjnydT941P9ieeXzyXL/bnolnC1GCOvbod5StgAAA
 ---
 
 ## What is Python?

@@ -22,7 +22,7 @@ intro: >-
 
   For those who eat a lot of fast food or find themselves eating unhealthy because it’s cheaper than buying wholesome foods, these tips will help you make healthier choices while saving money at the same time.
 imageSrc: /articles/how-to-eat-healthy-on-a-budget.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJZgCdDKZiCmL04AW/hgAAP78nbTys2eKJG6I4gTmfH/xMZtokbDagOTHoG+yRjpSPESYPlOh1uR7yuP8osO0kJfGG0j5QK1/e8uLTr1KIJu/0qoP16OoFogL83Zb68e7Pm/pTSMCLvxw7fxOGf9CRxeuPqyo1ga4OU4JCwAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoKAAoAAUAmJQBOgB6SqVIVoAD++19O8bBk3W+Hb9c3QbVo+eDseaHkFnjeJIs3sDmfs+3mbHW9zsbAyO4WuYXwkIhMZZwxv+RNFezV+wORBsj6dY+1wAAA
 ---
 
 ## Plan Your Meals

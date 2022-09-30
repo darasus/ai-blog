@@ -23,7 +23,7 @@ intro: Python is a general-purpose programming language that was created in
   coding language, and provide some resources for getting started. So keep
   reading to discover more about this awesome programming
 imageSrc: /articles/python-a-language-for-the-masses.png
-imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoKAAoAAUAmJaACdADyev98UADiD1OuZf3gTB3Y2TObJkA62P83n2i6V/jb6XBycPjktMO3Z85qvfsw/f/r6HApyphP+5DJ20laKfygAAA=
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADwAQCdASoKAAoAAUAmJbACdADcR+qYAgAA/vxr2ivnA+aUppg7jqt/995X6WFUyz8zXk29dsD58lnCl5fA3Wr9WWyZfC+W8u/XyaeiZJOceSpqWNy/elv+wtYXMVM/O9Bs9l8od//5FDZHf4glr5H/omfgIP/rQ0dd2awYHQAAAA==
 ---
 
 ## What can you do with Python?

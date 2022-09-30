@@ -20,7 +20,7 @@ intro: >-
 
   A majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:
 imageSrc: /articles/go-language-for-cloud-computing.png
-imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABwAgCdASoKAAoAAUAmJbACdLoA1ACoAAZkI4VYAPqavloJgefjheyAkDjUPNHKNbmXlaao3z+Pc5Npjf2MypP13Prp/tQcdVfkg/7imtASIHyEzBR1/5NkiYskSz2credvc6P4Irf+bL/rdqeB//zuUl5fjnd92u4fm3sQ1P93F/8nJqfbQAAA
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAADQAQCdASoKAAoAAUAmJbACdAD5hRUSAAD+/pg8m2CCCjyzu57f37h/Pr4V77iot1P9f+yPccuZFhfd/aXa39XvjK7eT6eAV0Im9iIlgRB+wvUf9w1Ddg+7nv8/9vv1+0wH9v+V3/L/+M/0j/Nm1/2AmzFJK/sWYkgAAA==
 ---
 
 ## Language selection process

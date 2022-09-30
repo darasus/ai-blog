@@ -22,7 +22,7 @@ intro: >-
 
   Go is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.
 imageSrc: /articles/go-language-for-scientific-computing.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJYgCdAEO4psWAAD+/r9+o3Lie/v2uEEftR1FTH+e3wWUoMHwYHg0OjDnGn/+H6lBTwSgPrZ/c7z+upSjf7f/gpf4vv2qYXLBnnEAz7pttUKrf0IR9z3+5xse+BOzormDzoFR/wROJQAA
+imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJaACdAYuRwLLdJ+3oAD+9BeMNkTm3vXmT0htQH1nG3i3ie7vkuIvfcSEtzsDZkpOYzETux8UIWR49/Y761b7/rj2Thnwuv3X/Agb3PTyv5/3GDvqeZgnbuv/0gYZbfG2CZNpPAZD7An6Uf9umD+X4msebn/7jP/542P8P9j2fffbP/BEwAAA
 ---
 
 ## Performance

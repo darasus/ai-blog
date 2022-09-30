@@ -21,7 +21,7 @@ intro: >-
 
   A lot of people give up on their New Year’s resolutions before they even begin, because they don’t have a plan of action and fail to consider what will keep them motivated along the way. Let us take a look at how you can make your resolution work:
 imageSrc: /articles/how-to-make-your-resolution-to-get-fit-a-reality.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJYgCdAabPm59tGDp7+YAAP709Ze7uy5cZWnn5lbo5dJvdZL/2tEW74Uve2e5hejUmn+Z/8rerbvnEp32LS993edGTvP0yckcikf9JcMlZYOdo1XuE2geTokagJQr0GvQq87Q6JVFzl9i97Pr/8HG3smAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJbACdDBKAZvXJtnSr9IAAP27uXV3kXRVF9bj8X95YtDrwe00P27ZWUIb56p6q2NYez4kFwqtbAosxbj7whQWf3NTPwIfc/zKe7DxEaxn3//YF4//mi9xvovaj826z3XwuH/t3z6AAA==
 ---
 
 ## Why Resolutions Fail

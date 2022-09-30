@@ -24,7 +24,7 @@ intro: >-
 
   Ethereum Classic is essentially the original Ethereum codebase but with unrestricted miner checks, increased gas costs, and general code optimisations. Think of ETC as the anti-ETH; a blockchain that allows developers to deploy applications without any possible malicious interference from miners or anyone else who may control ETH in the future. Below you will find all you need to know about Ethereum Classic, how it differs from "new" Ethereum, and how you can buy ETC.
 imageSrc: /articles/ethereum-classic-the-original-ethereum.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJZQCdAEDfc/rh0moAP78dl6wP1LG1+he13632/sHxvd/f9x8Wfx6xWLJpSzqv5/cO+e5vVsbdfZNNx3K+bYnN/UFmVEZoZE+fAxPwad/d48AAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJaQAD4zNWa/cnLoAAP7+taWF+qwHsvvINEX6qc/Q/x/+hmevvApdnhWKbQPDuJYfQeSx2iArEeYEDp+nZg5dHLiCM51o79INrrb656PI7ugA
 ---
 
 ## What is Ethereum Classic?

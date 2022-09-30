@@ -20,7 +20,7 @@ intro: >-
 
   Whether you have a small group or intend on playing with many more guests, there are plenty of games that will be enjoyable even with a large group of players. These board games all make excellent party games and can be played by anyone regardless of age or skill level.
 imageSrc: /articles/the-best-games-of-the-year-for-partygoers.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAQAgCdASoKAAoAAUAmJbACdAEf2f6B/LVAAP4JO5lF3srp8K8f9HbFuXA4RF8hNYh7wh9Hgy0EXaP/gun7szHjf4Bz+HLbLPeGeuGPKPZD3/VMPj2G3/dad3/8Ors7rTB+/Z25/m2fEr9/39zkvnCTv9/xFBfL67TrMAAA
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoKAAoAAUAmJbACdDBLyIrMSo1F+AgAAP7z/N7X/Tb38n415YvO+1sf3uLq7MXosDwXKcCo9andkL4eBPem54lElwijfOR9tPbl5myZP/kgh0azeA1xacqZXShc+OlmlKAd/SdPajg5cAthxvWQ6Fv/jijjn7GRu3AHi3/4iAAAAA==
 ---
 
 ## 7 Wonders

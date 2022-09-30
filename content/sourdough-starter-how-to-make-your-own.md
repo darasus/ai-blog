@@ -21,7 +21,7 @@ intro: >-
 
   Sourdough has numerous benefits over other kinds of bread. It is easier for your body to digest than white bread because it doesn’t have any gluten in it (gluten can be challenging for people with a sensitivity or intolerance). Sourdough doesn’t have any added sugars either; just natural sugars from the fermentation process. It also has more protein than standard breads, which means it keeps you feeling fuller for longer.
 imageSrc: /articles/sourdough-starter-how-to-make-your-own.png
-imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoKAAoAAUAmJZwCdAERH94MuAUAAP7+yoYd0OqMOxj0mBa8vcPrAwrwj8ilvHtfiDafUclZ122IiZrGz5YzppJQ6kgwAAAA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJaACdAYv1wfErS+8TAAA/vY0KaI/7ZNMUdCWjPpNttmzsy8JH7/50kND0q5VSdXPHle2NDOXmtwIvVCE/yBAQVeigjTEUKbNvIXSYo2/8Hd80QD7gIGUv1xGk3eEjl+VdcAA
 ---
 
 ## What you’ll need

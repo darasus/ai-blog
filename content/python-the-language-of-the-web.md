@@ -24,7 +24,7 @@ intro: >-
 
   Keep reading to discover everything you need to know about Python and why you should learn it!
 imageSrc: /articles/python-the-language-of-the-web.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoKAAoAAUAmJZACdAEsOY2YAAD+9vSJyyn3Izc1LfICm94UuxvofHhnLJaKiZ2yPzRp33atY1LBvHBGU3kUfpkuP9X92WFIT7r8HHgjvaNqAAAA
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAQCdASoKAAoAAUAmJbACdAEO/MXiQAD++87f8REXT85mfrb1qccnQp8W2feGrvFx5yL6RxNP2h3vv+96ZAqbzvg50jU6JnaeA5SV/cB/5st7/b9gsmqf7IP3v+DkxUP9h/wHzslgAA==
 ---
 
 ## How To Learn Python: A Step-By-Step Guide

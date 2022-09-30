@@ -26,7 +26,7 @@ intro: >-
 
   There are so many things to consider when entering the next phase of your life. You'll be faced with many decisions that will impact you for years to come. One of those being where to attend school and what major or program to choose? While it might seem easy on the surface, these factors can have a huge impact on your future career opportunities and success. Read on for some useful tips on how to choose between different colleges and programs as a student...
 imageSrc: /articles/5-ways-to-save-money-as-a-college-student.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJaACdAYs328L+S5wYd4AAP7woXq+28XIn00JEmjBvI8tB/MloUiaWU/xX4k1v+RHwgOKtzvg/EaseWsQM8AUzttwf69yXn7mt5Qp57LQgxO0miBSEKS+mXb8/ZzL1+EuAYzUcknOBGuGQAA=
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJbACdAELYHjbargA/vs0jazZuea8ljF7r/wLJZ0f/bjtXwXGvRikGJT22OjICG1oIYepftucn1JTM9XiNzPY/+1zU6e/slz+xTw3lLVC71JCKXlSTHOYAAA=
 ---
 
 ## Research The Schools & Degrees You’re Considering

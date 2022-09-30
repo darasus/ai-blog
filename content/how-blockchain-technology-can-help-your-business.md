@@ -22,7 +22,7 @@ intro: >-
 
   Indeed, businesses should use every tool possible to do business globally at lower costs, avoid intermediaries when possible and reduce risks as much as possible. The best way to achieve these objectives is through the use of disruptive technologies like blockchain. Let’s see how it can help your business grow faster and smarter by reading the following lines…
 imageSrc: /articles/how-blockchain-technology-can-help-your-business.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdAYuRkqa5GLpngAA/rYf4l63zBN9yUI9SH8FL8HXpR/nvTso41riml4rSaoWbK+t615WX8ynclxwIJe5AL/HGddtKtdsOcLlfrnNMqfx9fBYqFrPu9TMTEDCZQ3epaOdP/bp0ZDgOir7G9dH7bYJ/W7kH6DAAA==
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJaQC7AaMAX09i2wAAP762/FERZc9p831ziJfLbfUnvpe2DZIxpiNQElR9P/0vzPl+jg5RH+3+2cFb6yosPBjFgTyn8v0ohUqIZ/YgVL43AAA
 ---
 
 ## What is Blockchain?

@@ -20,7 +20,7 @@ intro: "In today’s fast-paced world, we have less time to work out and still
   which is best for you based on your personal fitness level. Keep reading to
   discover more!"
 imageSrc: /articles/exercising-your-way-to-a-fitter-you-walk-or-run-which-is-best-for-you.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACwAgCdASoKAAoAAUAmJbACdLoAyv8Wu5vu6biF0YwA/us2IDDyb6ivgK4p459rJhB66fX512SUuzMx2NW1udlFMS+YVsr22mdSW5J47fa/F/aFYO8xr//tb4asVeSGzf/J938Ur/zSBm5N/zPf/mbeDuFTAwnK9ickAAAA
+imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAAoAAUAmJQBOgCK4NVCFlvAA/fBvvb8UgByCLxpogb2zc9ZymGnwOBphMY5U+KgmZ9DC2UJstY/6etVdacVKIZragsQA
 ---
 
 ## The benefits of walking

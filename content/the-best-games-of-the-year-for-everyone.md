@@ -19,7 +19,7 @@ intro: >-
 
   There are so many excellent video games released every month that it can be overwhelming to keep track of them all. That’s why we’ve compiled a list of what we think are the best new games from the last few months of 2018 that everyone should play if they get the opportunity:
 imageSrc: /articles/the-best-games-of-the-year-for-everyone.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAACQAgCdASoKAAoAAUAmJbACdLoB+AADFjkNY67SgAD+1Qd3A8bpz61i8P93B4lPFwz3qrBhBWfpzZI9vjrNp2kBoG05GNHKlq//HBS+Nk0pQItlnXHA+f9A9//tb4zwV7a5o8bFGcVv+jf45/+h3fxO/Q3+UgAA
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJaQAAucSu35bI8AA/vmu2H5p9zaGKl5Xq822JsMrxf8qsl+6rtXEazipmFcGYgHPDFsEX1X2LMqVLcc39JeChSpMvIhBGruyQ1UcAAA=
 ---
 
 ## Super Smash Bros. Ultimate

@@ -22,7 +22,7 @@ intro: >-
 
   When we use interfaces, we are creating contracts between our classes that they will behave in a certain way—that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.
 imageSrc: /articles/interfaces-in-java.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAEI2YlpMg1skAAP7yarmfdHt7g436LCBlS3ZdFkH4QGxLvXoz0ZldxMM783wkXMRPPjkIEgRoRsYYCN/phQuf9P8/fzHufC+/95Q3TA2/Hz9pehN/9ynHh97ldaB/Bbzw//UI/7GW/E78m/9FwAAA
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJaACdAEQ+ljzZMwAAP78+Fm0Dw49+NHb1jIZ5n/u6u7A2nZyjoSdqBAzm1PG0oUcFXVY0F8Y2K6dEu2yYawpHuHmzALzVoPpcMe4t8TTMX9JR3hFNffv9d/k5M/wAAAAAA==
 ---
 
 ## Why use interfaces?

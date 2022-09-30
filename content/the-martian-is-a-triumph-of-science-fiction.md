@@ -21,7 +21,7 @@ intro: >-
 
   In both book and film, the humanity of Watney comes out in everything he does to survive: logical thinking (how can I eat this potato again?), ingenuity (I need water; how do I distill it from our CO2 filters), courage (explore the abandoned outpost), and compassion (contact my family). He also has a lot of fun with his predicament, cracking jokes through his video log and even going disco.
 imageSrc: /articles/the-martian-is-a-triumph-of-science-fiction.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJbACdADdav6BClAA/vLq8be1Q2JI7bFpjccrm0gq+KGrVtux47BrPebimamoCTrEB/sLZYWbdEP/4tMYdHz/scj8r/43resVw/+/2H3wAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJbACdGuAAsOypFkdD0AA/vkv+VZy5xsfYEYgkbesC5vCH7n+0Hl5BATsNiyaf2i2Z9R/qerWyvTdyDIcrtG1JPMLnb51oD4hEuox/6aNdVpM/x6sH/bD9dCZE0V5Qmn0MP6iyX+bY1vz1nUxl+XF7TVAAA==
 ---
 
 ## A brief primer on orbital mechanics

@@ -19,7 +19,7 @@ intro: >-
 
   That may sound weird for a company that makes a range of other products, but when you look at how much emphasis Apple has placed on its flagship smartphone in recent years, it starts to make sense. Let’s take a closer look at exactly how much power Apple has vested in its iPhone franchise…
 imageSrc: /articles/apples-iphone-addiction-how-the-tech-giants-products-keep-us-hooked.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoKAAoAAUAmJYgCdFkAbn+B6E2z/kWAAP7+ebslh0VslNWKz/E8llxgv94kQN9fZxrzUryWq0W3/szifq7XbVjYbEW93NBrluu7995U4ou6jTf/2UCdVQHfGYnZT/7Ies32h0tdfIjvhCt9vx8dirZgey9/+bm38AA=
+imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoKAAoAAUAmJZwAAvhnzIBLgAD+9ts6ZJgkPb54NJTBaNwvzcsJaY/4jw2xe5nUT104NS6tsSKTf+bwxrytLC17sEPKJeAA
 ---
 
 ## iPhone: A brief history

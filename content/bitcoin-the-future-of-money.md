@@ -21,7 +21,7 @@ intro: >-
 
   There are a number of factors that could continue to drive demand for Bitcoin, Ethereum, and other cryptocurrencies. Here’s what you need to know about investing in these assets:
 imageSrc: /articles/bitcoin-the-future-of-money.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoKAAoAAUAmJagCdAEXftg1/eQAAPa+9U21o/w1srRPUNx4iJ8/cW4IjYn4o1VnGOy1zn/xTaq/tdD2A3/yJpVZkJ70KKSIo/2F8h0d4Cyc2oAA
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJaACdAabQ2gHsl05RADLT99w6Rp35dN7VXuvw1G3rn/ZB2Ro1zLn7C339E+i/9b4yzwLS9joUPJy7dAI9/H+g3/ghd1qls31FWp/5BBSwKnaQTxn2d/hb70M24CWPr/k43tmN79pWqOX6G/Hnm1HDXWkl8mV/ZwAAA==
 ---
 
 ## What is Bitcoin?

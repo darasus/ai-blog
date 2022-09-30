@@ -24,7 +24,7 @@ intro: "You probably don’t need anyone to tell you that the modern Western die
   goes into the meals you cook at home and the ones that you buy. Here are some
   tips on how you can do just that:"
 imageSrc: /articles/how-to-make-your-kitchen-a-healthier-place.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJbACdAYqrknsWcmV4QAA/vtkwoLdKpGa3JhhM/Ko+tRHdznDrBx85436MGpCLnD2Ju/PZzoPHDWt5Emve4LKVisYvWbSD8HXLgy4huKFRMXqc3537dmdkokwOP/isY3+Mnv/nMCa/9rWQ8Bn1pzFn2+aCc4P8G/32MXx3+cYAA==
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJZACdH8D2KAYrnv6rVAAAP76WfMce9m/6yf/Zhng+5B7JDz//bwbmZt85MX3Bjj162N7AbpsvPWlPlEtAytwHaZbov27a6r9R7+GA/56TzoQdmKj764d2XVyuaLrb2KYC8M+AAA=
 ---
 
 ## Change what you buy

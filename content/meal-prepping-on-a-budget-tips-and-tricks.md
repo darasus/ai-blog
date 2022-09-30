@@ -19,7 +19,7 @@ intro: >-
 
   Meal prep doesn’t have to be expensive or time-consuming. With some planning and a few simple tricks, you can save money while also streamlining your food preparation routine.
 imageSrc: /articles/meal-prepping-on-a-budget-tips-and-tricks.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoKAAoAAUAmJQBOgMXI3FXvvJAA/vKR58IQ1cePQGHeX8Txcwly//zqduiP+u4ZAZ8xKvtR9/E5/GhYpoPHz/Bl7VGN2u7G4uBs2pX88T4vr/4VN5WHWeH/GiLULdKqSPnSy9g1PNQo6lzDDDthEoIA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQAgCdASoKAAoAAUAmJbACdAEQ/bOS4vg4AP74v1wk3rgrPmszHF5AwAyqkTspaFO3OICEEPqv8ovhSaOxhlMZHjLh77v+MOomutG4ZDznWAs99Nvk+Dye9NbPqECiWD+dHnWzvynchbZXyH09Axg8v/hob70d+jPOmH42UzPyi+T1AxJGrpw27tfAAA==
 ---
 
 ## Commit to the weekend

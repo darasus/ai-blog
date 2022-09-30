@@ -21,7 +21,7 @@ intro: >-
 
   If you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let’s get started!
 imageSrc: /articles/javascript-for-beginners-a-quick-guide-to-javascript.png
-imageSrcBase64: data:image/png;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAoAAUAmJZwAAudqsngAAP7+HQAZ3wEQQz8fwpUDEviUpvWMEdw2lgCwwsGyAAA=
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==
 ---
 
 ## What is Javascript?

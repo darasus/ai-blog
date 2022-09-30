@@ -20,7 +20,7 @@ intro: >-
 
   To train your dog means to instruct them in some behavior that you want them to repeat consistently in different situations. Training gives your dog a purpose, and it makes things easier on both of you when you have a well-trained pooch at home (or anywhere else). Training can be as simple as teaching your dog some basic commands like “sit” or “stay,” or it can be something much more advanced like teaching them to come when called from the other side of the yard. Whatever your level of experience, there are numerous benefits to training your dog.
 imageSrc: /articles/how-to-train-your-dog-to-stay.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACwAgCdASoKAAoAAUAmJbACdGuAt/8WuHj7A6f/IAAA/o+loWin2vDM/YNU0t47LnEvCpyv/va0ORH5LC9E9ja3S8Di4cQ9CDS8+5tIcnFN4EO7v0/9M/Bza4mQJrxP0zwefdeYJwov/5xt59aUssTP+gxxXMpawE//IVkIj90d/LmmdImarLwAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoKAAoAAUAmJbACdAYuH00AHx17E6JAAP62H0i8RLabc/RfDBvnmLT5xNm2Sf/yuhGJ9l4qmEcVt1wa5K5rMwfgOLjjO69G/5ZB3+ZW2bQF8wvifqyHODTxqJVrxTz9Q8n8wB2f5YlurcFpBngj7bAA
 ---
 
 ## It Helps Build A Strong Bond

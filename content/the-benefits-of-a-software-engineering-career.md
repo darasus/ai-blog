@@ -24,7 +24,7 @@ intro: >-
 
   Software engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.
 imageSrc: /articles/the-benefits-of-a-software-engineering-career.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJaQAD4yvKzJmsuUsBEAA/vugEo1gxbZe9bNE/9xm4syB75QQdx8C7SBAAI8L5yvl7BwN5D/2zLy/UK5qeCAYZLttxTn/D4KYqLkV3D1oCL78KC+xLspj76qPngi34TIt6gb2gfL+UYAAAAA=
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoKAAoAAUAmJaQAAudnEd58OAAA/v2TY8fH/9eD9zDT6+M2MnXxNgB/847nfLdzqMwfwR4+4mjcDf9E+mUqrSCSRy/eLIBvPyoAAA==
 ---
 
 ## Tasks And Responsibilities Of A Software Engineer

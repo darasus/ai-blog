@@ -22,7 +22,7 @@ intro: Mediation is a neutral and confidential process that can help people in
   interests while listening respectfully to the other party’s concerns as well.
   Read on to learn more about who can benefit from mediation
 imageSrc: /articles/who-can-benefit-from-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRrYAAABXRUJQVlA4IKoAAADwAgCdASoKAAoAAUAmJZACdDBGiIo/V0xWlof1I+qQAAD+2HwqOdPz+ZeXub8zxF2Fgvp6e/H87o2Z4Ujn42/PJnw2Xi/wLpll3w0N0UIZpHNZP7Y3tC38u4KEhf/+c6b2blJheOKdLeg/r+P6z2Q0Fr2Jt8I3Qn+8E02QdKrrn5zu/+n/Mo/+OJWpL4dD6txdO4ZsdR+j377r8sq2Vmo7dm54YPfyXcAAAA==
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAgCdASoKAAoAAUAmJbACdLoAEIYZd2cSItLbVzuAAP5b/z3gk6LplSmw7fVuqGXFwWKbd2Y8I9blHG685udmQWCuD4iyP+mQHvUypsPkhBD/IgaojaiEVUFmDURvpi82aOrKJYxJ/kuQ9JY5zeoKrMTA7qYGcVebUcwAAAA=
 ---
 
 ## Individuals Going Through Divorce

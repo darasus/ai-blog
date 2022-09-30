@@ -21,7 +21,7 @@ intro: >-
 
   In this article, we take a look at some of the top health benefits of meditation and how you can get started today.
 imageSrc: /articles/top-health-benefits-of-meditation-and-how-to-get-started.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAgCdASoKAAoAAUAmJbACdFKAfwADqBw84MjMwsCAAP70xBjX+NLFiQh+Z8A73r/FnxdKvi15gojzuJ3/3qyrLdwcE3pqQQzor01pwAmblk/5CFMobckA261raNRit+Z3WDdWMQDvKXSmWX1zrD9SNUHcvU2baxsw9S0nQAA=
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdAYtVknWdIHvFAAA/vm3RVhV3rYMv1mC72pzaB6BWviJMPKtfpJaAfH3nZR2Zp2n8UlF7snnoxDX9KtuKw0SNDfzg0eH9lfA5WNj8Men63FvXQcAw1f8ZsBY/bZb6xVYC/9gygNjvnu5f9czzZBJObMZ3QgAAA==
 ---
 
 ## Reduce Stress And Anxiety

@@ -26,7 +26,7 @@ intro: "You may have heard of a fork before — as in, the idea of a software
   will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin
   Cash."
 imageSrc: /articles/bitcoin-gold-the-bitcoin-forks.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJQBOgCPt1PZiFtwwAP7+eBnk/XPgPBA6/f9fx8jkVFM8n/yPGEV/GP7sbWIUcvu4jwZW4jWPjVv5//XqSmkJUIYD7kv6nrDydRK56sVQbuK2qPnkmboUvRNhQAAA
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoKAAoAAUAmJZwCdADckYhCgAD+/woPor+W/c0xFEHxc6f59AORnEtLZInHrGvcNI8ZHNHBhf8vxni2TK0DqNhLmSPm2MiJfAAAAA==
 ---
 
 ## What is a Bitcoin Fork?

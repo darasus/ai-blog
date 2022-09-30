@@ -21,7 +21,7 @@ intro: >-
 
   With so many different factors at play, it can be difficult for startups to know where they should focus their efforts first. Many companies have taken an interest in blockchain technology recently because its decentralized nature makes it an appealing option for creating secure online communities without the risk of a single entity having too much control over members or their data.
 imageSrc: /articles/the-potential-of-blockchain-technology-for-startups.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJYgCdAYtVvvLuFegAP7+ebn3YE84B0lYx97nb0m0Fw+C0GsZFCxC7gjgpSnuddjUzXl3tQOs0zgz8abR42ebTH2Gbn85b+4/vWngMhz46rhjKetETfb4sOwXIagUOubxO08AAAA=
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAQCdASoKAAoAAUAmJZgCdADdZGKDtQAA/vtbKrCra9+1Yb0h380vMSDhgp1KwpJ10Uxvr2dlJem4wjvzttlDfTjAy1M9e/qANFlvYAVvh/pAX550OrV+///pAIS303fKZM1YRPdrGtMAqb00rCAWykbgC+yEf8dx8RhRSM3//nO/0ayMPYvjmMAAAA==
 ---
 
 ## What is Blockchain Technology?

@@ -23,7 +23,7 @@ intro: "Getting into a regular workout routine is something that’s a lot easie
   reasons why getting your sweat on regularly could be exactly what you need
   right now:"
 imageSrc: /articles/the-benefits-of-regular-exercise-and-how-to-get-started.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAgCdASoKAAoAAUAmJagCdGuAwQD1/wPYgMlUvAAA/vtjKPCnTKEpWDc/ealrcI371eZQQa6nhrXn9XMxvsQD+UJbuveQzTlfHPDA9q2lcA3U0ONkJd9ln/KRO+BdykT/t511ROEiEX7Kj5OoAAAA
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJbACdLoAEJOVm0z2yqYAAP3jnpob8qWqOZuZXmZfyQYk1TuTxM0xConX4R89lUGlIBKSvBkvlpmN/VPwTd5u+577ro7HjAkm2d7ydff+2LhE7YpccBXmvuS/nv9KmDYRqFD6o4wa+NCarYnMYAAA
 ---
 
 ## Stress Can Have A Negative Impact On Your Health

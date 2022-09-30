@@ -23,7 +23,7 @@ intro: Did you grow up believing that eating fish at least once a week is good
   the same benefits. Here are some reasons why salmon should be a staple part of
   your diet.
 imageSrc: /articles/why-salmon-should-be-a-weekly-staple.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoKAAoAAUAmJYwCdDiAByXYHn9Ypa5sEAD+9v7kgzOIPyaB+tzMPRrhXsY/xtv0SXP1xzL7px8q3QzyyGe9U5sodiwWJhb3zPrcR9ywymnMj/id1YIyNUNKuLRu5ogW59kTiCiyyLVpfhaexgP5lQIUPYIAAA==
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoKAAoAAUAmJbACdLoAArpm0w1vVEAA/uuRpllstf0XzdD3uwpmadW7kiHIZ+SabBLKty0qe+pJ/n6S5gA7h7mFhtKvtcZfuCDazBOF/XjdQfZeTWu5UnpASLD2wqzWco/dO+f/ymeL7rrSzQrzWll+ftLxd/XQhtL2nwEG2OywcgAA
 ---
 
 ## It’s a lean protein source

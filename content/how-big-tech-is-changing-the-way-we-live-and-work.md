@@ -24,7 +24,7 @@ intro: >-
 
   Working from home, going independent, or collaborating with coworkers online means millennials have given rise to what some have called “the gig economy.” It’s also prompted a shift in the types of companies people choose to work for and what skills they need to get hired in those roles — regardless of where they do that work. If you’re looking to join this world of work in 2020, here’s everything you need to know:
 imageSrc: /articles/how-big-tech-is-changing-the-way-we-live-and-work.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAgCdASoKAAoAAUAmJbACdLoAkQDrAPJuBhOP2f6oAADyp8Rf4wVnCLID8f3RZSA2SA/TcTzhy/t5idRosR5zvhyj6TltlTI1sM7WC3DxSgc+E79Px89PjUbCUN/+tRPXf5OTLMxV0Hx8I35tnHa/3/+6L7f61/r8HP/+Gk/e/7OTLN/69yfh7AA=
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJZwCdAEfUqS3V9bcAAD++lKW2mUahKcI/2C3D8iZkui2QBQPzK//iw/qGY94QMjjP1mhJwf8wXimiADpMlbnf6cSQeLt8wx8fphfBsnAUtlTefHaKmzkAn8jzSF3ZaAq6/LuBbCPB85YYAA=
 ---
 
 ## The rise of remote work

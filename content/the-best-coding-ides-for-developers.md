@@ -22,7 +22,7 @@ intro: Software development is a challenging field. Even experienced developers
   the best IDEs for coding that you can use if you’re a developer or planning on
   becoming one in the future.
 imageSrc: /articles/the-best-coding-ides-for-developers.png
-imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoKAAoAAUAmJZACdAEPDGm1MAAA/vsMMPSCuZqy3Mh6vvDXV4TV0zdMissX9Yt3udI6FOt4CgCZ/9sPhJOzDWFeJov5gZa61GgAAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJbACdAYt928HWhT4R4AA/th7d4OfJ8n8Q1W7w9GQhaCq2QkySzOJeUxu5t7GgkRJyN0DvRwJs81li8ZBjV+bqvMQ30Zhvjp97rfiHz83YPZl5Zv+1bb5OAPf9xuZ/4UOQAAA
 ---
 
 ## Why is a good IDE so important for developers?

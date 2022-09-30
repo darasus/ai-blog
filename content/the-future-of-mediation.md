@@ -26,7 +26,7 @@ intro: Mediation is a process that helps people resolve conflicts and find
   these services pro bono publico, which means “for the good of the public”
   without charge.
 imageSrc: /articles/the-future-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJZgCdGuAAkZD/msEgAD+76/TrfZFKqRD0/zUm5+TWzMCRcv/Kfj+zGcDzaqd/k5/2oTbyk11pzDq5v4/0/e4MJ3TDQOiTLNKNj0UfDVdFWFnVsDS4AYwRf8jOQSj/4u7QEtf9hgVTCkAAAA=
+imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQAgCdASoKAAoAAUAmJQBOgCPgjmrv8hKAAP7yknfXGUOEW2zj2/5RXrUQy8pqDPr8FqfTZFbNaXzsCER9/Lb2gqQM9/0WFEvj9ML458lHZs0f/VtwQIL/1RT8hLIy+t3qA2Tv/srISE8XzJ1uzTjCJoX/XoixOVaiwgMnGIJX1FHK5P+YY+glFePozPM8qVWR4bTmJpQdAAAA
 ---
 
 ## Why Mediation Works

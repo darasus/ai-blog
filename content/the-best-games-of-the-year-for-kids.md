@@ -21,7 +21,7 @@ intro: Gaming is an activity that has been enjoyed by kids for many years and it
   home with your child or let them play on their own to help develop their
   skills.
 imageSrc: /articles/the-best-games-of-the-year-for-kids.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJbACdAELZCG2J1YAAP7XmgxdChfojrzPfCbNYxoneNxH+mxJHQhaSOpFTchCfti9lSCv0kq4PAS/nVVvWfNeMHs96w1o7nfPUrtYf7Q+0hwDLeqHmHSGrv/ByYqKdeWf/5ha6//L8U4P+/th+wf/53/IcAAA
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAgCdASoKAAoAAUAmJbACdAYstvseQ2MkAAD++k227Q5/SOuLYWOjNTf/lN+tZf1Rb7AX/b1jrqS//f/2QR37HiNRk2079J3+bCcf6jTv91y1T21SqSQPExo/smkoAP7F7x8hWTyA7889XQ0lC7j+vsUU0cN/XjWxQWUG+8hdWKSZXfk3/VS8kO0NLjW4NQ3e1he/U3GQAA==
 ---
 
 ## Lego DC Super-Villains

@@ -20,7 +20,7 @@ intro: >-
 
   If you are involved in a lawsuit or other legal conflict, mediation can be beneficial in several ways. It can help you resolve your dispute faster and cheaper than going to trial. Mediation also has the potential to preserve your relationship with the other party after the dispute is resolved, which may prove useful if you anticipate interacting with that person again in the future. Lastly, mediation may give you more control over how your dispute is resolved, as opposed to leaving that up to an unpredictable judge or jury.
 imageSrc: /articles/the-benefits-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAACwAgCdASoKAAoAAUAmJbACdLoAyv+7YAYHEMNOwhAA/pmKM/xJ+epIBt6YujHnXcOJY9Y52G04zimLiJfx/yP2d+ZejgWgF7Ovb+M3SLosZpIU0Zj9eAqx1YprDukpzYN+NzjdN/9fj7Kvcnc/9Ye8LCY5//+LF+7WZ/8/H/xpY9zf/0gAAA==
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJQBOgMWR33qWezDr4AD+/PTjvsv86k097ELT8bgnnBqYiWVvVju514pDN0vj3O+9Mfuqw+hHGik3L53SSVClM1YiaM7dM9LV2byhMKs8pGAZ4U+0H2HchK9gAAAA
 ---
 
 ## Ensuring that your dispute is resolved

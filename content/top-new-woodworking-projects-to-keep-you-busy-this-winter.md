@@ -19,7 +19,7 @@ intro: >-
 
   If you want to stay productive this winter and keep from going crazy from cabin fever, now is the perfect time to start focusing on different woodworking projects. Hopefully these will not only keep you busy but also help combat those seasonal blues. Check out these 5 popular new woodworking projects that are sure to keep you busy this winter!
 imageSrc: /articles/top-new-woodworking-projects-to-keep-you-busy-this-winter.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJQBOgCHZ+qHNwgAA/vyeSt5aK5aYj3g/K/Swvz+uARrf/ARFz8e3hzvqPvwS/2ZEaiO7XLI8fFcqhGFYsbkX/+qL5KtWf5SMeTxPKARK7/nM2vven6g/r7yh2IJ8fym+LHRxYAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJQBOgBttTNDEpoAAAP4LqZT/vJbYjtPg8aRpTm0teDu6mLdfGV1sYIiRPRGm/pXKIi+jPrqf7kx7QJido+eUrekHZxlwDVflRwmneZ447cY+c0oGsBSquEM/vT6iDL33t1IAMveTeNAJCZtikaUkSw7YAA==
 ---
 
 ## Winter is the perfect time to build a workbench

@@ -23,7 +23,7 @@ intro: >-
 
   A meal made from scratch is an excellent way to ensure that you’re staying on track with your New Year’s resolutions. However, cooking every night is not realistic for most people. That doesn’t mean you can’t enjoy home-cooked meals without going through all the stressors of making them yourself – leftover cooking is your solution!
 imageSrc: /articles/how-to-make-healthy-eating-easier-with-leftovers.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJZACdEyAAdWSKAtaEgAA/vm2GSIGYkAfq3ukLKgB1ccc9r+fcOa/pWM8d+Xy8xg/35L5GGZXnLOIifVZBCV+967lMDTrbEXgVbpdj66quHcpS6t/R2wuv28Pev5OTLMqBX8G2J4ZuZC3qinw7ByZ/Bufa/s9wAA=
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJaACdAYsta0q0sM5AAAA/vdf7KLtqG9jvxW5Ln2/5ezinG/f+mXcqdC/Ydl3enHaTnva8CjNlpy0V4t+GW2ELxt3ftrGc7MvMc663bJpHSRcaYNN43iADfTpRf2xXxiteUQJr9W7vvHMOKJnzJcQfsdJ/HcAAAA=
 ---
 
 ## Why should you care about leftovers?

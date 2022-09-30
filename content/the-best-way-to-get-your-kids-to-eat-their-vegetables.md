@@ -20,7 +20,7 @@ intro: >-
 
   One way parents have been able to do this is by using smoothies as an opportunity to add hidden veggies into their kid’s diets without them knowing it. And, since you’ll be using green smoothies as the base for your drink—not just any old sweet smoothie—it won’t add any sugar or calories that you don’t want in there.
 imageSrc: /articles/the-best-way-to-get-your-kids-to-eat-their-vegetables.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJaACdAYstvsXok/0DAAA/gYpczcDWUncp6zknrqUXO51BvbHOAGtor1ibqeZ2YkFLlahegSMajt0v81VHjEoYlOi/RMX44SBFPs/Tq4LZti07/vV9iS3WRf959evzRrG1XpqPWJxtsL46o/6nI60AAA=
+imageSrcBase64: data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAACwAgCdASoKAAoAAUAmJbACdLoAkwDpAAZImB9MlvgA/u5v/vk//9Q2MVsMQPXF+mgIfsv1FNwbpBP8j/6JVvhjVC3It2endHWuyXvmhzBpd8JzCwZ+o4NNJ+BFhA/0xfxHTlGiDvOthd9/Ay8StlM/ryLZ8sHF+ljf8QGdpVZrD5v9jbRbkv3JVJBm2Ge2Z3Tx50TFR5/NEewAAAA=
 ---
 
 ## Why Kids Don’t Like Veggies

@@ -23,7 +23,7 @@ intro: >-
 
   Whether you’re just starting to learn about blockchain or you want to dive deeper into its potential applications, this blog post will help you understand why so many companies view blockchain as a game-changing innovation. It also explains how blockchain can be used to add trust and transparency to everything from supply chains to digital advertising and much more...
 imageSrc: /articles/the-advantages-of-blockchain-technology-for-enterprises.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAgCdASoKAAoAAUAmJbACdLoB+AAC0hQfCirwAAD45eVsYYueeRofBbFf8YH8oO8j9xeYn2ahz+hoKNjb48XPNsAq8of/5KbC7cHa5/91IbR/HfW/+1IfPv8qLWNgdKFt/DEAAAA=
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJZQCdAYq/n1D21MtmAAA/vxCb9s4VfE+PPXoH0BDgepUhR5l2ukYsbGnjN+G1TC5XX8sQnXfmfunfdy6R/nYw466dO4IjScQPZeAnlNC3jVrP5xMpbWytlgiSAAA
 ---
 
 ## What is blockchain?

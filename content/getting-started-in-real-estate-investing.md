@@ -20,7 +20,7 @@ intro: >-
 
   This article will walk you through different types of real estate investments and reveal ways to get started in this market today. Even if you don’t have millions of dollars lying around, there are still plenty of ways for you to get your feet wet in the world of real estate investing without breaking the bank.
 imageSrc: /articles/getting-started-in-real-estate-investing.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAwCdASoKAAoAAUAmJbACdLoB+ADN/xatOfxaT5jbgAAA/sqU6fPJ2LXa3Ff5m8KcOOivxUTd9Ql8juLq8Ofs9wSCY08oHtPT+M7D61/jmpB/+dqXPcZknmPjHPKvpb/8zcn+AT5I8/IM/Y4AAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJQBOgMX/5T+b7Gks8QAA/vgv1266kAwmfn9j5qE3z2uxpQ/17WPO3HMsGLHvLO97vLwikFstUOLDRs0iBOv/B6lBivFh0TvfXYORcJKGQoKOP6v/hKGVz7JkMIjSkXLzRMNBP1vVcekp5vm3cjL/zAAgAA==
 ---
 
 ## What is Real Estate Investing?

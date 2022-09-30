@@ -21,7 +21,7 @@ intro: >-
 
   In this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA
 imageSrc: /articles/building-a-javaserver-faces-application.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoKAAoAAUAmJbACdLoB+AADOprtJAwAAP7m+D08W4lBCmOFfxu5OfW43v9tzn2h7AfIPIiZ8wP/KX4g/lO0XYuzFSdHtmcJN6ChIA3/xKy/SMr+gOqZpdkd7XP/tB+P/sG+quI09PMPYZlm/XZ/v5AA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJaACdAYq/wV0/10+9nQAAP78/bPcEjHTYf5AetGBfzQmHu2w/+ZrZIK6EoW/BAb7WOd20qT4qZzVXiY48IeIP25bLIJXLHVzG2B/52yivcW77SEWWEure+t/0QUDT8c4hr4e/YX/Aem1/zcW7TtS3LiZ91/wckn7kcr+o+QAAA==
 ---
 
 ## Creating a New JavaServer Faces Project in IntelliJ IDEA

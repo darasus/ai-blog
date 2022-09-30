@@ -18,7 +18,7 @@ intro: >-
 
   At its core, Voicenotes is an acoustic pop album. However, it goes deeper than just putting electric guitars aside; these songs are stripped right down to the bare bones. There’s still plenty of production value—especially on the third track—but it feels like Puth made a conscious decision not to hide behind anything.
 imageSrc: /articles/charlie-puths-voicenotes-is-a-solid-effort.png
-imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJbACdLoAAyNE4E747QAA/vNVF/NIezp26bjlVMxb0K4duhkaVvOpBloVXBvKkqxt+Vfn8qIq8PndBIs9VpQJ8Y2rT4/1hF3HXWTP9Gp/q5n/0OuH9sJ9fmKfmoTiPw99f/1GiWK7Mo/+H77nav/U0Hh3+VFrG3/qNN7F7X/cIAAA
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJaACdADdqqH3nbOdAAD++qP5za6hKj79x/t/CDQWZKPfP1/+hqV94W3sR3YI+2i2qn+1E6JrxZB3N6/tS1+5h83/tcoQYU/QT+DVtfyB7wnh/6Epl34uSpLjtix4/byK3IwfxFvgLaarBqLR+vkL52/YWQeAAAA=
 ---
 
 ## Worth mentioning

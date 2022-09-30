@@ -20,7 +20,7 @@ intro: >-
 
   Superfoods generally have impressive quantities of some or many nutrients, such as carotenoids (vitamin A), flavonoids, vitamins C and E, or omega-3 fatty acids (ALA). There are many types of superfoods; here is a list of 20 worth adding to your diet:
 imageSrc: /articles/nutrient-dense-superfoods-that-improve-overall-health.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJQBOgCHhhzKUv4AA/vqg0A3Ao+3mx4qCqYf+O2PfnUeVrZUXm96TF88vKyx+zpkec6o3n4TfgtHs+flNgQ8wDIVZki1+5drLT/+y2IZtCYeqKwL7E0tZaLaJkap/nW4Nw4DAX9sAAA==
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAgCdASoKAAoAAUAmJbACdAEU7/h7HqUAAP7GB9Vv1tfyuZvP3nCA1+Test77EweDvi0aDvrLaSgSQ+2XHGCyfukv5HdR3q/7ypxqSS3X4/qXP9yFdzdrmP1kVNjo+OOvLHizPPyt1PcpaUlBRCgyBc6SZj1fLZ+3CDIfe98eKXuBdkBGdGV0/P3y6i/DlO34+0ngAAA=
 ---
 
 ## Chia Seeds

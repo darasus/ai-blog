@@ -19,7 +19,7 @@ intro: >-
 
   Political scandals no longer come with codewords like “fraternizing with exotic dancers” or “excessive drinking.” Now they revolve around key issues such as corruption, racism, gender inequality and sexual assault. Many of these scandals also happened because politicians let their personal lives interfere with their public jobs. These are the top 10 political scandals of the 21st century so far:
 imageSrc: /articles/the-top-ten-political-scandals-of-the-21st-century.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJQBOgMW+3wC6VfAAAP7lO/m/vVA/uciCOrulvj5g/c8gNYxE7/3cB1pHJrFo+5D0ZWOwqbAWYFjBqEpeyHv1+B5QSI3hal7sYY17H+vQufY7nThEaRQtVIAqLguOiz8F4PEXJaaXg7gA
+imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAABwAgCdASoKAAoAAUAmJYgCdAXBwbGwZZLczbhgAP5b9v/mfZJWG8CR9P9oW3+4E///qcPAGebn+n/9Z5eiAee6eUNbT+p8dg//qxrBx/5/d/P0iZDDWHg4XmPb2Dt/72C6WUc6cgGS0/lylvt+t0m8t7PpQl6S/pRJh4asDuminziuXnKXy6zl/5/5/o9ghfPiLcAA
 ---
 
 ## The U.S. Senate’s “Memogate” Scandal

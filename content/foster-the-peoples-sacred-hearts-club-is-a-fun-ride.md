@@ -24,7 +24,7 @@ intro: >-
 
   If you need convincing, just take a listen to Foster the People’s latest album – ‘Sacred Hearts Club’ – which is Led Zeppelin meets Weezer with hints of Pink Floyd and other psychedelic influences. Here are five reasons why this LP is proof positive that going back home is the perfect way for any artist to get inspired again.
 imageSrc: /articles/foster-the-peoples-sacred-hearts-club-is-a-fun-ride.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdLoAArPGdQAA/uRpCjrso5scKkOYaQGz2Y4Dyp2YPbpBYiIg/z9w3G5wKWIGxxdMd0CptbUnuN4G1L8+RJMnY4f/dsW00WTx7yTbN/+Bd8/6OTLN/+QdiF/ytAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwAgCdASoKAAoAAUAmJbACdC/AAUwll5WUAAD9xhbv4y5GDSEeJgzulF6AXnMYDDY5peULVvpGCcKeE/oualKQMHpUWW6HGxYzN06/7/+y+D4A1lc1JufITuA9qy/7+cPWt0AGHU37sr+9zT3TKl3+SZ/KnHqLIzgj/OCzHkhlp0f8WS/D/Xjb2koz8P/BFbs3/2C0/P/7m/90wAA=
 ---
 
 ## Nostalgia can be a beautiful thing.

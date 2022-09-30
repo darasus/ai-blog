@@ -22,7 +22,7 @@ intro: 5G is the next iteration of mobile network technology. It will enable
   just yet – but there are some excellent reasons why you should get excited
   about this future standard.
 imageSrc: /articles/how-5g-will-change-the-way-we-live-and-work.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdAEYEY84HpAChIAA/ubKFiRVMYeuocui3fLdI3xMLNjC0GGTErxxpUlO7yXtFrzPzqD1MUf0SdVrwOgWqBgH+rkkGlPv4FQmjShmrF+4e4LdUGALf9zhf+Tkz+Te/u7LYn6I/1R+fJ0F+/LNCD1rBHuK/gAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaACdAEQD0lUxiAA/t2yTp4Rd44aZ1XzeICISXgHKVd6qCt9hJUno+ZkgUtRi6HB5vNNJywRAfubSYOVjG4Zr/5cWaHrFvIUa+s3OqSAAA==
 ---
 
 ## 5G: What does it mean for us?

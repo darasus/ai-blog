@@ -25,7 +25,7 @@ intro: Automating tasks is a way of making your life easier. Imagine this, you
   how it can be used to automate simple repetitive tasks in your organization.
   Let’s get started
 imageSrc: /articles/python-the-language-for-system-automation.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdLoAAzfX/o+OAADypWGHIEHv7iWDLVcRJvg4xS0F8S4g2fbvHDpr+8CeFbl+02bfzseptTpHR5jUN1d+/t9zpIvmID1pm48ED//r6y3s1BXF/gN5/pxa/3N//a+8IYP6mf/jepofB0z/ByYqPsWfdQAA
+imageSrcBase64: data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJaQAAuafOQgAAP789b9TdXnOzZCxa1bWUkOAcyBP0+YQXzL9QXvGdDnb17fyCoM/HfyjkRo/vmC/eXgAAA==
 ---
 
 ## What is Python?

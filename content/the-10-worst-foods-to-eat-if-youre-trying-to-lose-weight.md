@@ -21,7 +21,7 @@ intro: >-
 
   Such dietetic staples as broccoli and blueberries are great for losing weight. Other foods like chips and soda? Not so much. Keep reading to learn about the top 10 worst foods to eat if you’re trying to lose weight fast…
 imageSrc: /articles/the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdAYulSePw4RPrAAA/teR1bzoJSnCfUNwAD3y6h7FvopOdKgMoi1hGhZvsGuL1l+YzgJtv2qRt1l1F9XIDnMO3+/9PMU3sHxyWtntXWbAI/ffYCJo8O4Dg0M+zOQicuh4xWEAAA==
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoKAAoAAUAmJbACdADbmJdpVMPYAP7+OJlaGLH/Yxx5Xf/9xPfbvIWnLpuC0hmZUxwKxzrX9XoJznzBAb+IHwKcMYVufCV7p9qbI8P44zrkkvKCZhDv8dWLDixGG+OqU85WG4rp3ny1f/wRW1D0jU55vhf+v/P36r9V8/5pxv8YFv+TePO/OgAA
 ---
 
 ## Beans and legumes

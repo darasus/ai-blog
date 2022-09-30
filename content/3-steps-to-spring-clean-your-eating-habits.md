@@ -21,7 +21,7 @@ intro: >-
 
   If the past several years have shown us anything, it’s that eating clean is here to stay. So instead of feeling like you’re trying on another new fad diet or eating trend, let this be your guidepost back to the basics of eating wholesome food that helps your body in the long run. Clean eating is not about perfection or cutting out entire food groups at all; it’s about making more informed choices about the things you put into your body on a daily basis. Read further to learn more…
 imageSrc: /articles/3-steps-to-spring-clean-your-eating-habits.png
-imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJbACdAEPDI12Po9AAP77U43tsxTeDcXsiH+BLRh43S3LIVNGZ6RroE5vgUSjWHvUlteGeQp1F/qVQzgzeIg64BnV70HB4bU/K/0RcRJFebC+ftLeSnSUr4AXz6K89kAAAA==
+imageSrcBase64: data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJaACdLoAEI6Xp/+eTdN0UAD+6KT17xuJHXDN6b89ID1JzCNa6T/Dc5v3iXP/iBi4LEiaMlqjmH4w95FvUAd9nKRpdjPL/MfDkz/wSh5bqi5AV2XCvWU7yQbLhJ9lPQH5n5cOPJU9m7odnDgK8pZ2WwyhzBNHp/nmoyrgN1Oiv+fJumAAAA==
 ---
 
 ## Decide what “eating clean” means to you.

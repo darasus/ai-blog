@@ -20,7 +20,7 @@ intro: >-
 
   When you have a craving for something specific, there are ways to reduce its frequency or strength. Learning how to cope with cravings and temptations will help make your diet much easier to follow while also keeping you happy at the same time. This article explores some very helpful tips on dealing with cravings and temptations so that you can optimize your diet accordingly.
 imageSrc: /articles/how-to-deal-with-cravings-and-temptations.png
-imageSrcBase64: data:image/png;base64,UklGRqoAAABXRUJQVlA4IJ4AAADQAgCdASoKAAoAAUAmJaACdDBLz2K49gnKn0E3yfXgAP6t331VzdO7c/vNuTgr9+b9lIF7ar6ytv/3LNGN9Z2TWnVFR+mm1ow+S5v+Jj56r4mzv9pa5801UnoWlmtkP/yK37rPXqI+Eu2J/4YvV10k7d+ejZIHna+E/duruYHxt1plOLdJgIhflQrYs/OOZ6bsOT99oL+AZ/9gc+jAAA==
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJaACdGuAAtM+HmNUgnAA/vvub5wFqC+Yw4qqxSumEcZcW3GO0Qmvx4IMkRuDpFDj5j3pu6OaOUjhpDquppd5ryIhQZhdWu+LcDb/oFJf67eSf6OkC2Ku/XbqH+BqgAA=
 ---
 
 ## Don't Fear The Cravings

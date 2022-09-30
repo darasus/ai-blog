@@ -21,7 +21,7 @@ intro: >-
 
   If your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it’s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.
 imageSrc: /articles/go-language-for-data-science.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJQBOgMW+4SHJ8b8EgAD+/A8RqE3vu96MulfF4M0vV4tf/v4vDDf80sW3Opq/F+IMONPg/svgkFTNWY/o34BD5LdpjEnQN6jJRMKl9Tv2ZRv/4XXOL5EytNdEq9BvDjymMLwAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJbACdDBLyIN0gAwCZs6gAP74N4LkABDR7vdP/IhlS41FqxeGn/iCxZJqVXR51KGhie3STAOLLKU9fHFobdbNXDnspqs1VCkyWvvdlA5/P+oiYf/hRdvfwcmfyb/GGQ/yXe/SaTcVWzUSC3AAAA==
 ---
 
 ## What is Go?

@@ -23,7 +23,7 @@ intro: >-
 
   Imitation of Life offers commentary on racial identity, classism and even pansexuality through these characters, providing insight into their experiences and highlighting inequality wherever it exists.
 imageSrc: /articles/imitation-of-life-is-a-thought-provoking-drama-about-race-and-identity.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdLoAEJMYonx6ewvgAP5O1aKzfsNa4mE2rU0ryPLl3R2VKtVzc9NrnFnvJem+Q623j1MP79ay/Jr00viC5uHnO5MtF/0cwCMxZ0wqfX8zBmdsX+Teg//1Gc/9f7v/1VM2Ge/+44jt2SZ3zYX4nfob/7vAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJZQCsAEektPR/ILDQAD+8JAQJ17pXqsTNkd3bfz70ydOvUy/AV/zKC6aH/r2zfc+aecUff/wzsRL7IedHA2vehwX3kZwY/3OD/yr8PVhefYBfn/d/C+PFHuTXInrNUy89vE+eyiiN4yFeQAAAA==
 ---
 
 ## The Importance of Identity

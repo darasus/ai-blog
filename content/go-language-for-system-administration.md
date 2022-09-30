@@ -21,7 +21,7 @@ intro: >-
 
   That’s why we’ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).
 imageSrc: /articles/go-language-for-system-administration.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AIIABkDGnQAA/ltnsCiALLB6dq8soc129wLTrQDlENYoM3Lb5gL6fI/+jr+h4ZjjbelblP7OTP6N6EP6mf/pQzu8ilAARv4OTP5N0K/xUAA=
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJbACdAYrJ2XeiNQAuADeZ//BxCk9USbZrvUT5VxZGHju68Yv/iUiMURe44fbbiKIKeFln0rUu2iF2ypDPwN2XhRQtx1v+kuH/L764b/RP3/4Kk+CF9v5gg9Ps8z8/v78faDAAAA=
 ---
 
 ## Why Go?

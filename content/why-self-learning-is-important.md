@@ -21,7 +21,7 @@ intro: >-
 
   Further, Self-learning algorithms are particularly useful for applications which have large datasets with many variables and little pre-existing knowledge about how those variables impact one another – such as stock market analysis, speech recognition, image recognition, natural language processing, and computer vision.
 imageSrc: /articles/why-self-learning-is-important.png
-imageSrcBase64: data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoKAAoAAUAmJZACdGuAAsw1Nr4gAP77FTfgfk6MxmgPuQN54qoLfNRpqoUvzK6WpJeJuRf0h+jHZvlsf3Y3YAAA
+imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJZQAD5AwcEbRmoqQAP787a+R0QC/I2L/D0KqRwinOtLxzFmwHes2ry0UP3Co9dF3XzF6f81t2u0m2A6LsuWOaXexF7/91W6M1ZVySM3wAA==
 ---
 
 ## Why is Self-Learning Important?

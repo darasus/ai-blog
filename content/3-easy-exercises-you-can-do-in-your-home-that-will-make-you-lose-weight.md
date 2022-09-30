@@ -20,7 +20,7 @@ intro: >-
 
   Working out at home has many benefits; it’s convenient, cheap, private, and most importantly—you can do it whenever you want! It’s also a great way to strengthen your body without needing to leave the house or spend a lot of money on expensive gym memberships or personal trainers. Working out in your home not only saves you time but is also a convenient way to keep yourself motivated to stay active every day.
 imageSrc: /articles/3-easy-exercises-you-can-do-in-your-home-that-will-make-you-lose-weight.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJYwCdH8AGBpeknQAAP73bYvzDczb+ZYw9cVpu1YbN3eHyXmS+ooVtEa+0zq8/fdq2OsY9zizks+oMvxTf/gP8bA//MReOJgJpX2NrjdhdAdgAAA=
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJZQCdEf/i10t/YXbeSPYAP7+g0ToUDo/jWTlm6XufP1ujJvuJ4j0zzPnTe8gKCptCef6ODZTetDLyG7oQn2bx7OavEYIfoWiPc0BZV0Fge7HA+ALIjca9DuwAAAA
 ---
 
 ## Strength training

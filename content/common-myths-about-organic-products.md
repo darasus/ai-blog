@@ -23,7 +23,7 @@ intro: >-
 
   But don’t worry — we’re here to set the record straight!
 imageSrc: /articles/common-myths-about-organic-products.png
-imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAgCdASoKAAoAAUAmJbACdLoAfg6RF5gr/pnXbvkYqAD++uPoHehzxqAn225JNd9twb9Djvhb49/7LPSDk2H4HPjAWM5PXpNOSqf4wWt759Vea8VTRMw6eNFWPwOvt3P2//RpJuX+WqaqP/FtxEVUf/G68Xx3939Ng04kW2Plf+DkyzK/jUBAAAA=
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABwAgCdASoKAAoAAUAmJagCdAYt9wXP4eCmvvAAAP77191WddYMwjoG83aIjK/Yf9eyZnD1pNn/Q/pH7gD9cwS9CpS7T78syts6EWixjvaNsQ2Qy895+Z+A8zUaVoQA
 ---
 
 ## Organic food is more nutritious than conventional food.

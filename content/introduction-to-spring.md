@@ -23,7 +23,7 @@ intro: Looking to upgrade your software development skills and learn a new
   we will cover introduction to Spring and help you understand what it can do
   for you as a developer.
 imageSrc: /articles/introduction-to-spring.png
-imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkSqGfRUAD+/ZE8/lcLRoKCLilV1jayqzm2/kbz2fHy4ExFL7vN/yxLdWzFf3Q679rfpE0+JZpf6G+/AAAA
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAQCdASoKAAoAAUAmJZACdADZOh0RAAD7vQRAPmKyXAZVy/H7HCk41y4z5Nhskwa+Joz+ixC54FfDMLt4vTbtyAvzDLdSxM50uxF6EJ1Rh+UUtnd7U//4/vpcHpwj346fWwdXJr3D3S8m0UAAAA==
 ---
 
 ## What is Spring?

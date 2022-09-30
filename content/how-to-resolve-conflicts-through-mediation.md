@@ -20,7 +20,7 @@ intro: >-
 
   If you are part of an organization that is going through a lot of conflict right now (or any time soon), mediation might be a good solution for reducing tensions, smoothing things over and getting everyone back on track. Here we’ll explain what mediation is, why it works so well for resolving conflicts and how you can initiate it in your organization.
 imageSrc: /articles/how-to-resolve-conflicts-through-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJbACdADZo71TNgAA/sqd4P987DARqKfSgeMVHDjg83VNHX9kUoA9LgbIhnpaDGMOd4lNWq3Sf9IxG4+z/ODwcc0k2R0/kjDjcQJqbGVpav/5cL9Kr1nBe3wrc8QST/2ds1865AAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJQBOgCIOluB27nSawAD+8nrl3ezgtPHx+ekgkzfbIiWt9HbCm/qTUrYarb3nXId7TmMuZz/4vDCpdwqQxxnRiQbUQmWGdTZeBjFeC/LDYDxRTkHSru6BHrdy338mHD9mR811oGN9a3gAAAA=
 ---
 
 ## What is Mediation?

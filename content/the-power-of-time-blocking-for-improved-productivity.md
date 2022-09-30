@@ -20,7 +20,7 @@ intro: >-
 
   Time blocking isn’t just about scheduling your day with blocks of activities. It’s all about keeping track of the amount of time you spend on specific tasks throughout the day. To do so, you should list down all the tasks you need to complete during that specific day and allocate a dedicated time slot for each activity you want to finish by the end of that day.
 imageSrc: /articles/the-power-of-time-blocking-for-improved-productivity.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJYwCdAEPDKb/XugAAP772HRf1ky/SWSYae+/OvbhZbCyqX2Y65CjN/c6ERWTr8joneur4KDS+Z1Zbj3f6z/u+i5WIPOVE9SMp4GfpFHqnYAA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJYwCdAYsPmxiDZQLnfUAAP71B/skscvNUPFu43s26zP0iT0V7YvNzKMLeUt5y/aZDmf2mEI3f7KWczX45xqT4VdO6XSuVIWMdj74nrBuabiJl2BGJRgHBt9qtv85ATCGEyAA
 ---
 
 ## Why is time blocking so effective?

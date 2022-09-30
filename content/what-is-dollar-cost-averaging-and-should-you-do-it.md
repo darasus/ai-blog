@@ -22,7 +22,7 @@ intro: >-
 
   As an example, let’s assume an investor has $10,000 to invest in stocks and has been debating between two companies: ABC stock and XYZ stock. If they put all $10,000 into XYZ stock today, it will be worth $9,900 tomorrow because XYZ stock will likely fall that much in value by then. In contrast, investing all $10,000 in ABc today will mean that it will be worth $11,100 tomorrow because ABC stock is likely to rise that much by then. Hence the investor decides to dollar cost average by investing $5,000 today and another $5,000 10 days from now in order to invest the final $5,000 30 days from now – spending an equal dollar amount each time ($2,500 per investment). This way they can reduce their risk as well as smooth out the peaks and troughs of their returns.
 imageSrc: /articles/what-is-dollar-cost-averaging-and-should-you-do-it.png
-imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoKAAoAAUAmJQBOgCP7qPdj8AD+/NJpfaXdOMqZSZ4PJx0IizNxUhhqAuu4vQsSpaY0fP5VIvUcACpTfGUEZ2u/FUoCpbULuJgAAA==
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoKAAoAAUAmJZgCdBHAH/Uv3dxi+5yAAP76SfjT1x6gDTh5oEqVwFf2jNdPwjRPj7/m3mGIPG3CgWv0oSzntfeoTW0e5BxDnwzCpfG87UIoawtPLK/mYX9f8+/n4ErqqUf+mr5/xg/LitQNvenj3MAA
 ---
 
 ## How does dollar cost averaging work?

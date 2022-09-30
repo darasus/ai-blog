@@ -21,7 +21,7 @@ intro: >-
 
   With so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE
 imageSrc: /articles/the-top-software-engineering-tools.png
-imageSrcBase64: data:image/png;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAAoAAUAmJQBOgCP/m2UPtgD++51FOgTHSTRSTBKV7hJ7fdpfD8TdGjyvE9SBVR+ykL166e4erNuAAAA=
+imageSrcBase64: data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoKAAoAAUAmJZwC7AEfbk9QLAAA/v7IKuVQiUy5L6rraszYh52yQMGILgx/aO64pPWra/AA
 ---
 
 ## Language support: An essential tool for developers

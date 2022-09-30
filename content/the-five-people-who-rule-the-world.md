@@ -20,7 +20,7 @@ intro: >-
 
   Now all you need is a million followers on Instagram and a sex tape with another famous person. It’s more than just a silly trend—it reveals something fundamental about how we now see the world.
 imageSrc: /articles/the-five-people-who-rule-the-world.png
-imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoKAAoAAUAmJaACdDBMyIxNHeVOJvYdwAAA/vfgXTbXwb6GbUEfwObKPyVX5s+zguVOv7/vsReEr22hvflgEp5gTotqWp5S1B4SV1DY/fAPmjK33FmmeuEyQTgcoHKN7Rhc/SxIiXNKUE3ZP9eU1eADgAVg/1Bnp8YViMVV/4v28MU+7NC4v4dl97+TZAAA
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACwAQCdASoKAAoAAUAmJZgCdADZTghAAP4FySQ3Wz/C+A3ydVZjsKX/cCCT0mSZ3FElmhAjKRJVOr1omTv59kulOF2Y3oA64ldgfq+y4m8cH3/sRbFh4cBaA3ld+V12G1n9kKB4r6JWXCyL40pVljvKO3+G0QH5Unz4PvZyXEawXH/7OST2LHYAAAA=
 ---
 
 ## By the numbers: How Celebrities Rule the World

@@ -23,7 +23,7 @@ intro: An online business is a business that operates primarily on the internet.
   venture. This article will explain what an online business is, why start one
   now, what you need to get started, and how to begin your new venture.
 imageSrc: /articles/how-to-start-an-online-business.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAyv8DGZW9saIgAP7onnnurzHeHrRjlvxUam4I8WFm/f5/5YNadXwBndEVCuc3BV0iTPJB6I/GJFc72hZm0ga87/HSeU5fz/+PyN5sCw4bcQYLY3z25/5odYWiSLv4KP3f/KdSemBd7RJPqm5+2+AA
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJZgCdAEfpyiavZwAAP78Qqd3v3d/UC5Ov007T4pZWct3xb3tr/0xit2heMZL/MeLvFhLkpd77EbAbvYSTPHyIoAQ/PKCwStVwdYqJbqvMFXq8Sic8iGpQI3E1Yqj//doJavHfX6Q/M7+4xDjXt/hD45AAAAA
 ---
 
 ## What is an online business?

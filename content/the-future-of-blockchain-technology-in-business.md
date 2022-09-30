@@ -23,7 +23,7 @@ intro: >-
 
   However, the success of any business will always come down to its people and processes as much as its technology. The focus of this article isn’t just on the individual technologies themselves but how they could help your business in the future.
 imageSrc: /articles/the-future-of-blockchain-technology-in-business.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJQBOiP/wPYgrAdKeAAD+/eUXLLt/4l+T8hTTn0OZAXbawZ8qQ+dckN3wy424EcZ9H0GkewhKfRGSIek+j6uRheJmq0Cs3Tnivc1qHfluQrUAAAA=
+imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACQAgCdASoKAAoAAUAmJZQCdAYqp5rMzQce7TXnwAD+6lzv/jn+SF+1e+wANk9sTjjKenhpItFH8AFQ3LkwNIwfFVl3lFeswxH7kWi1+ItbZwnrLu7G3bfLKtcQnfvL8bj5r3/xyHqzL7NsO5bxe1qJFPDcd1wejIvSKugAAAA=
 ---
 
 ## What is Blockchain Technology?

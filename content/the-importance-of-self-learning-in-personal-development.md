@@ -21,7 +21,7 @@ intro: >-
 
   Self-learning involves taking control of your own knowledge and abilities and moving from a passive learner to an active one. It involves finding ways to learn more about yourself so that you may improve as a person, understand your strengths and weaknesses, recognize your beliefs, values and goals in life, be constantly aware of what triggers you the most so you can handle those situations better the next time, understand your fears so that you can tackle them head on instead of avoiding them all your life, etc.
 imageSrc: /articles/the-importance-of-self-learning-in-personal-development.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJbACdLoAAwh3xU8HaAD+9vran67+ErnXLSQ1DvV+9cxvIJxgem+34aezlw2vP6sUqbIv4l9N8L4//8/3cmbEyP8Ep38HG62AKf/1bf2UZr/0tH57Zv9bbdAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAADQAgCdASoKAAoAAUAmJbACdLoAVYBQLFvfVDMz1MgAAP7m/vmesePi+e/+P5YrsnRq8vi0hzhhbgx6rsIJe/cNzMrj4PM23/ARRT4+Ae9WHXSojkHpUUTQeCepZNnfqFiq9ha2KWBtgW/+RJQ0gZT5TO5XL/N/6G/Zn/8SsgHzxkenLh/bpK/qb+qgAA==
 ---
 
 ## Why is Self-Learning Important in Personal Development?

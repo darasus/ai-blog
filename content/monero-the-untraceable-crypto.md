@@ -17,7 +17,7 @@ intro: >-
 
   Monero has one of the largest communities of any cryptocurrency project, with over 16,000 active members on its forum and over 2,000 subscribers on its main Reddit page. These users are not just passive observers; they drive the future development of Monero by voicing their opinions and giving input on new ideas or potential changes to existing ones. This article takes into account all these aspects when explaining why you should consider investing in Monero.
 imageSrc: /articles/monero-the-untraceable-crypto.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAQCdASoKAAoAAUAmJQBOgBtqjIlgAAD+/XSHT2oWOFa9doXFb1LyaZ8NwR75pv/wVy77cGYSzac/4dlI/B5CZNKP8uT3kCiPzr162ysJvGWob1ffcqcm+2zeX3nGO7CujKQEVVOGAAAA
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJQBdgCFsGGnbeHkAAP79usS/vrcZqXfJuuGLahuMf/oAz4MQZ10TVfqa4Wce7RIjvhCB+LX+Jy0Y45tZZBcTMWNH73tu3g+lMVs0/F7Z64k4AAA=
 ---
 
 ## Monero is digital cash

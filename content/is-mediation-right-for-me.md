@@ -24,7 +24,7 @@ intro: Mediation is a great way for parties to resolve their disputes in an
   expense, and time consuming legal proceedings while keeping your relationship
   with your family members intact then mediation may be right for you
 imageSrc: /articles/is-mediation-right-for-me.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJQBOgBut7VihkvwAAP7tL6bP2Cd7+wjjsgYafjXxC+Gdgpv+Ny6XUoUo0oWX73nI86QgbJ8x8Uvqee/riUPzlxoLrrxgTRm/frKagy8nXD75NXqozfcSqGY6/Kq90+X5fYNLyF2GRxNXgAA=
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJZwCdAD7Fj1mUkX5EAD+9Ltlx5qlgEboA7WH3CNbvDTFqVCwOA7jqJzJaIeX4nkPrR/8OynwLwfTPQ12h7ptwWwVii+JBkH/20NltLUz3Oj6Lg1JbvF2tT+Yle9sfLhW304r2o1Uqu5xpu8BF+nIK6K9OPXQ5Ja+AAAA
 ---
 
 ## Find Out If Mediation Is Right For Your Situation

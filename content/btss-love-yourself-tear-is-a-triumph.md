@@ -21,7 +21,7 @@ intro: >-
 
   It’s impossible to talk about BTS without mentioning their massive following beyond Korea: Vivid, obsessive ARMYs (as they call them) who follow their every move and buy everything associated with them. This is why many people assume they are only famous because of social media and pandering ads (which is true). However, anyone who listens to their music will tell you that they deserve all this success. “Love Yourself: Tear” proves it once again.
 imageSrc: /articles/btss-love-yourself-tear-is-a-triumph.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJQBOgButtm/g7QAA/tg1D0WbRzH5+nIqX02f4LTTUNGPYUoEXQA1OTxrmTd31jvz+1Grk38RPoQP/vmuLi+Kf4H1dVX4ZSjIH8gBiuLRhoywS1XhJQT2rE/JM5P7c0S2ymkjiH0thNXzGAA=
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAQCdASoKAAoAAUAmJaQAAueL88sAAP7gC//kZ8CCGZ5n5cBmtJp/7FhS9+RH5/+GFP/ApTXfkxeD/ocs9KsP/jAtKTIM7x58ntWO65+Ag5c1jsbT9GEBKtwxktIAAAA=
 ---
 
 ## The Importance of ‘Tear’

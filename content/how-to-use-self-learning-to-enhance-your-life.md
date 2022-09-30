@@ -21,7 +21,7 @@ intro: >-
 
   Self-learning can be used in almost any area of your life to gain new skills that will help you succeed in your career or personal life. With some self-discipline and persistence, almost anyone can become a self-learner.
 imageSrc: /articles/how-to-use-self-learning-to-enhance-your-life.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoAd4ADCkJYhy49IAD+o0212A3+60lugM/whZqcCS56PTlRVqt0JPdW4Hxq4Or/8tn4oUa1g+u3d/BtvsrbydU2wKhvbH/M9L+1P/6PO5z/VyGfQuoEgTfZk7//Q5M/k3/E//j6y8+DeAgA
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJZQCdEfqi1oLZj9fPxugAP79N09hQh2TBWXn5xwwgI4xGHsY6Ntkue861gwOfx8W8MC4eqMknL0lXyYBSw5x93Ca8dcEPzN0Nvtiy26je3fDf01zA75JnIAAAA==
 ---
 
 ## Why self-learning?

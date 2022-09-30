@@ -23,7 +23,7 @@ intro: >-
 
   Do you need a complex network of nodes and miners to verify transactions? How about consortiums of pre-approved users who can access different levels of information based on their membership? Are you trying to avoid a third party intermediary like banks or brokers? If any of these apply to you and your business, then blockchain technology might just be what you’re looking for!
 imageSrc: /articles/the-benefits-of-blockchain-technology-for-startups.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdEf/gY15yRJJQADOK5SL9ncyY/2zkkgSOblal4ox/p/TSLwVJq2d7M18MOlsHb3nPVBGV9f/mSwvYLUiaN+mfG+oqRe3m+wcM3A8z71/8EKP/9v9AEY0H2oqxvaWmSF5fd+WHEL6l3kAAA==
+imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoKAAoAAUAmJZQCdAELXbDJx9oNAAD+/qhlPGXKBYIs/FIxfJsvKfnKnk7HCkovxfRv7md+jSqfCId1wpmROBYSHMXxBdkCbLs86TuUUQWbydwA
 ---
 
 ## What is blockchain?

@@ -20,7 +20,7 @@ intro: >-
 
   Below, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able
 imageSrc: /articles/how-to-code-faster.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoKAAoAAUAmJZwCxC8AgjS/38a6AAD++wD/gfwasbsizjY5ZZz7UHIcw8zNP+KTHeLOv9H7Xpo/NNDRzD+7qpO2F5/4/9S598J5KLxwfAPv7daJcAAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoKAAoAAUAmJQBOjXAAWbDPKAmIAP7+Akwthvkk82+DYlysOlZEbexuk6sv3BcPA/hEV2Q1h34Ijn0YCeA74x3zfjMXBD30HJwk4ZkvWGauL/+TkkrH//ycgptrq/V7s01AAA==
 ---
 
 ## Create a workflow that is catered to you

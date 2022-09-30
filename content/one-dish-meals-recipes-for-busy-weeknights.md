@@ -21,7 +21,7 @@ intro: >-
 
   One-dest meals are an excellent way to get back to basics and prepare wholesome home-cooked meals that don’t take long to make or leave you with lots of dirty dishes afterwards. Read on for some great tips on how you can make one-dish chicken recipes part of your weekly routine once again…
 imageSrc: /articles/one-dish-meals-recipes-for-busy-weeknights.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJQBOgB6TLjqTKAAA/vqYhnC5Y6y/w0FiAvilJCFxtZN+xe5OYvULwUttlSs1QvZ5lcJY/u/TF0kKm+Hm+240vEQn+LixXItdlFwAAAA=
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJbACdAYvXmuABwzPgAD++EaS0wzFfsTVY9UshqBu/MNa79s64kQA0gi/VV7qcnNA4MXrIvi7b9P5pAM6g0b1V5f6FZnXu3KetPqtr8YwKDpcqJ9zPevWf/4vktdOW42t0f9M/FRtHWKchA+L6uGxujHAv8E5VUMAAA==
 ---
 
 ## Make a plan

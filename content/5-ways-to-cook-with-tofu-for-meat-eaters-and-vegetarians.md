@@ -20,7 +20,7 @@ intro: >-
 
   For those who don’t eat much meat or fish but still want to enjoy the flavors they bring to a meal, cooking with tofu is an excellent idea. Here are five ways you can use this versatile bean as a primary ingredient in your next home-cooked meal…
 imageSrc: /articles/5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians.png
-imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAACwAgCdASoKAAoAAUAmJaACdEf/i1VEIBsPcWxlsYAA/upd4gIyvnULV45/ompezPltd7ExfueE9SJDPHQntkJ+VmeEBDEPiMnzqrJeoJvobv9j+FcgnzO+ID3ELgqQy2umHD4tU8Em0ddKr7JHgoycmV37iFp40Hh9LE4NwSwmwVbvaxm8/rbLCQ2JzAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACwAgCdASoKAAoAAUAmJaACdDiAByWnj0AfjnEbpIAAzjgxyHc94G1zuP8CzB/kGhgoNILhxnv4cHtvH2Zg5p5CVrYVxlOJiaQuVQa9IEa91m4OYQhv7uVKVt+IJfOlGrbMX4D9FsTyQ5cH9DELG/yheD9b/BVOB3yYsAnAHmcdg/I6sPEfDyPteKzAAA==
 ---
 
 ## Tofu is great when you want to add protein to a meal.

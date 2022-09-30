@@ -20,7 +20,7 @@ intro: >-
 
   With a wide range of cat lovers out there, it was almost impossible not to find the best examples of these perfect little furballs available anywhere! Whether you have a soft spot for Persians or tend to lean towards something with a bit more attitude like a Siamese, you’ll find your new favorite kitten here!
 imageSrc: /articles/the-top-10-cutest-kittens-in-the-world.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJZgCdAYqNaa5f4RAAP76D9dfor6aag1/3EAafLxMXCyQ4+3EJ7J8Nv7LhI+YfCGJtteexy9/1xQT6ejlfM5/v1+M17rb8yR3Y9HifH4b78CWpkMQy5vvRhMfJYOGNa9KDCTQAAA=
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJYwCdAYvDwTPBdNxW/s2kAD++JsUg4MKwh69IrGNEjF+zw8LdXld8NIohmW5JiodsxXUnfj5r7khv6c5Ci2ciYo2kjovamsadEcFGwZtD2Z32Z8ORAAA
 ---
 
 ## KITTENS ARE THE BEST!

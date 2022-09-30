@@ -23,7 +23,7 @@ intro: Today, most people visit their desk just two or three days a week,
   required in 10 years’ time? And what implications does this have for education
   today?
 imageSrc: /articles/the-future-of-work-what-will-jobs-look-like-in-2030.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoKAAoAAUAmJbACdGuAt/8D8LIQJO1/AAD+9Li7FY83bj/BnnAB3rX78S+nDi4eRSN/Cn8ENMEARIfedIoStXZk/j3g2fhr3eGpWlvL35KjEa1keY8X6PsraeIdYhCs8RP7aqlqEafgA0GF3oIcH+FFaX2dK0VFS+t9vfykqo/8kEpyb6HAAA==
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJZACdAEO/jmUGDwAAP77QP4LZ54kYQ+Vfg6uWcqikHnH1yHNFl8pxdqRsg/CIecqHzj5AH8ub2aKzZiHux+6fPel/a8gOULTRJ3BDAA=
 ---
 
 ## What Will The Future Of Work Look Like?

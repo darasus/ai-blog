@@ -23,7 +23,7 @@ intro: >-
 
   If you are thinking about incorporating blockchain into your business model, you’ve come to the right place! In this blog post, we will discuss why you should use blockchain technology for your startup, what are the advantages of Blockchain Technology for Startups and how exactly can you implement it.
 imageSrc: /articles/the-advantages-of-blockchain-technology-for-startups.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoAEI8TfOI6XBWJDAD8+p43LTAkElZvODbkfc8Dcb6L4uK8iQVy4YnZYBDz3uYmW8K69dhy8N7DjztUpPeNja+6b0qV3AtbkNC8+rUzZebBX5NCsH/rQDK9Ur//2N9iy/8pQH/n/tfzjAAA
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZwCdAYuv20d7N89YrOUAP7wtiVPIUd+DB6kr5ITMcHhEohm1rCBLfRnxNtn+XomN2TQZvo+oKQlcLPSim3FbRYIU7P60+j+RX73n7GkHvX5GoUIFgAg5ED9nob5AVYWLlAA
 ---
 
 ## How Blockchain Can Benefit Your Startup

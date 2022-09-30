@@ -21,7 +21,7 @@ intro: >-
 
   With this blog post, you will learn everything you need to know about Apple — from its history and key figures to its latest innovations and future endeavors. So whether you’re an Apple enthusiast or just want to know more about your favorite brand, read on to discover everything you need to know about Apple.
 imageSrc: /articles/a-brief-history-of-apple-the-company-behind-your-favorite-gadgets.png
-imageSrcBase64: data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAAUAmJYwCdADdGIw3gAD+0p3XR17k7BZ871R1S7fG9yAOY3nfX6+/ARnJnYgcg7P2NWoJJUkUC2aeV6lYqwAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJaQAAud2Xh2+ryAA/v6GOndEZybgUNn4+5ePNL1DXqwGMJdD6MLAX/4kCsyiyViqwXNExVA0xL7Mf/8khUqQHD21hYNhuYWWm4kQAAA=
 ---
 
 ## Company History

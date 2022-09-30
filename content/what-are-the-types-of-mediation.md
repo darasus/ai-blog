@@ -20,7 +20,7 @@ intro: >-
 
   Instead of arguing back and forth, each side presents their case in a neutral environment. The mediator facilitates conversations by guiding participants through a series of questions and processes that lead to resolution. What we call mediation isn’t one single process but many variations of it. They can be broadly categorized into three types – Collaborative mediation, ADR (alternative dispute resolution) mediation or neutral third-party intervention; Family or couple mediation; And Tribal mediation.
 imageSrc: /articles/what-are-the-types-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAgCdASoKAAoAAUAmJbACdLoB+AH4gM//A2/dftWAAN5noo54U2W1DnPf8SLdxPSWY26a/k8FlX6dF7dex59APQI/jWWfz4lP3NAFqJm51Ke//uQM/MgtaYkrQ9z8z7y/7uv/madk7JWvSC/P+0AAAAA=
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAgCdASoKAAoAAUAmJQBOjXAYIB6/4Hqfrl4jAAD++Puoy4yuoX0sWs8HQjPXIbQmtZBRWV6Se3lDzRqZ+PyEeSDN8ASONjcaXgVFOG9+Msvk4q9tgFYRw8w83LbRrOQOPEsgAAA=
 ---
 
 ## Collaborative Mediation

@@ -20,7 +20,7 @@ intro: >-
 
   Fortunately, there are more healthy options out there than you might think. These days there are many drive-through restaurants that serve much healthier versions of the standard fast food menu items. Cafeterias in offices, schools, libraries and other public places also tend to offer healthy choices as well as salad bars and other stations where you can make your own healthy salads or sandwiches.
 imageSrc: /articles/the-best-healthy-lunch-ideas-for-work-or-school.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEPDwexM4ngAP79hadJ+WvalfzvtMGwJVAWmEBtRUzpETbgbEYF8sE/mEcRzKsk8iAhF0Fj/Je/TFqm8eoF0GHW9QeX/ioF+/8S4KPxc+HIvxg+RJnxrt7a3xg1KJcczOh8AAAA
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABQAgCdASoKAAoAAUAmJbACdLoAAyMcZXfukIAA/sqRN8CrlMxUAHs/JTbMuvP0QMkv/SYZeN4jtwJfLbXPosiqyi/XbF7zmC9Yruv7/5feW9lt+ves5mrstQ7/iote5HUZJx//h8d3xrx6xpfTAcj/9fqWPSemviLevNDZ0TaO3/4lvL2N8//quMbKNfhkOIP58mFsAAA=
 ---
 
 ## The best part? You can make a healthy lunch in only five minutes.

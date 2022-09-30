@@ -23,7 +23,7 @@ intro: >-
 
   There are many things you can do as an individual to help you stay productive throughout the day no matter what your circumstances are. Keep reading for some great tips!
 imageSrc: /articles/tips-for-staying-productive-throughout-the-day.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJYwCdAC2h0yp8IAA/v3HMWGh3RRRzWs6v/o2xfb9f9+bsRH2SKHvMHqU78W8ZELrVIctFfp7sN/gIXoZc674RFzPfCc7fbkuo/eFoTGq1A6yFika/gEg7raEJMBGbAG4cdUiYE6oAA==
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEQ/fo8M6IAAP7il8sH5vG+7rlK+a6np60zxxJ1oQiFn/mShaY3tXzc0Aw/PsF2p//F36/1RA5VH0cJ6ouertLsFU6WpVzcF//RP0pmfC1F+TNl8Usi1VILPFL/JZeh1+/5kuIt/5OTP4JymUdbfcnwrKFWNVDTBgb/JumAAAA=
 ---
 
 ## Morning routine

@@ -20,7 +20,7 @@ intro: >-
 
   With this recipe for roast chicken, you can enjoy roast chicken at home again and again. Keep reading for some great tips on how to make the perfect roast chicken every time!
 imageSrc: /articles/how-to-make-the-perfect-roast-chicken.png
-imageSrcBase64: data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACQAgCdASoKAAoAAUAmJbACdLoAEJQajjnWFGTiYAD5ae5GOzI2ZIfFtiS/3zDGxL9QITeI1eBwxXIl7J1VkKP8mKrXCsI/e2Enr6RYZdI0DqIGDsCr2ja9JAD/+RUkf8PxMUw7hU1f4If5+oHh7ft/wRTyHcE/0XzMpnugwAA=
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAYstasLdWjGAAD+4KvkO8+IfW69txwGA8Mqe+iBnWbj1BKH7Ad+ZcTz74CqjztmaOyr7p2dLW/M/ubsndnUg1+Q7WX1HgqIQ9P8brN5op/fwPscdftZHjRP/5E7/bwt2O+Z3zJ7/2AY9JznvxUVwAAA
 ---
 
 ## The perfect roast chicken

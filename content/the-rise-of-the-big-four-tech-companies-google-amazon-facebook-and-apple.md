@@ -23,7 +23,7 @@ intro: >-
 
   These firms represent a very recent type of business model. Most obviously, they are all technology companies (they sell software and hardware). They are also all data companies – their products all rely on collecting, storing and processing huge quantities of user data. Finally, they are what can be called ‘closed loop’ businesses: They tend to operate closed systems that lock users into using their services exclusively; for example by locking users into using their search engine rather than other search engines or by locking users into using their social network rather than others such
 imageSrc: /articles/the-rise-of-the-big-four-tech-companies-google-amazon-facebook-and-apple.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoKAAoAAUAmJbACdAEXzQNtSIAA/rWrrWtoX/aDjD+T/56/mDrD3KmcJ7rh+FoCOngeCxl70wk+8TqvBJ+dgAwVQaW4Of1Yp3rKklE8HKoa7ef2j/5E1/uv/3AfP/5u8Mu7l//+1Icz//3SbvviAAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQAwCdASoKAAoAAUAmJbACdLoAkwDyK/YA/QAGbExUYyAA/vhC7d8mQ6N5mcrmPj35IO5eEih9/sn7i6Y8PBDThDwlFsnCpDIt1ceiKOsdCERcpKH3XADT95wyM3nPYX/qaD+b/2cmZN919vT+Tbg3/8ZU51QPf6uZQ4Dv9mTnsb2nr6y7/DXyb/cAAA==
 ---
 
 ## Google

@@ -20,7 +20,7 @@ intro: >-
 
   Whether you like yours with cheese or mushrooms, an omelette is one of the most versatile dishes out there. They’re fast and easy to prepare, but most importantly, they taste amazing. So if you’re ready to master this simple dish, keep reading for everything you need to know about making an omelette!
 imageSrc: /articles/how-to-make-the-perfect-omelette.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJZACdAEQ/ZQ/a66AAP79i2ia7b/Aex3H9AdVY864loIH1B9UyEofZUw4dNSr8yUnRwr03cUE1gzzEnWZu7Pm19I7OZ0Y30gUeAf6i7/jHnWcf2479dZVy3dEe3ei5zV5Gsk81FTlgAAA
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoAAwxRNXgdLKDAAP73WH4dHnLt+O7j7eiwFJLhPhqRa8nJ4SXpPC1Gipvj0Zqtme7Zgzzx0yaiiH7UBYsttG5//C6KDhchKWHyldyyM1krPsq/+CP85HAvKOo4LRgAAAA=
 ---
 
 ## Try a fluffy omelette for breakfast

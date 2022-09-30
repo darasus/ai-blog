@@ -21,7 +21,7 @@ intro: >-
 
   Since then, The Hateful Eight has been rediscovered as a fascinating film, almost certainly a deliberate commentary on the time we now view as its setting – post-Civil War America, somewhere in the middle of Reconstruction, with simmering tensions between the North and South still unresolved. The plot itself is somewhat secondary to those elements; that’s why rather than summarise the plot of The Hateful Eight once more (if you want that, see my original review below), we’re going to focus instead on what makes this such an intriguing and unusual movie.
 imageSrc: /articles/the-hateful-eight-is-a-quentin-tarantino-tour-de-force.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJQBOgMXX5AikVjY9QAD+2H9B5x3tmEO/r+SYoJuf81Np01v38GN++++aOXEjYUu18BcPP+I6GxdS7GD5KU4vhNfEhKP/r2nuOFqMbrP5mO6F3yYumh38LZCmZ34kdbJjfkjw9YFtr6zKipfs+NpZ5iIWxAAA
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJQBOgNMXfJI2FJ9LwAD++qPxwqz/V5/l9uDW16UDOK/+7I4MmciYt+Gb0tUJHOm61XRe3JwLnEH9NSM2pXqqqPyD3c+ThlMN3D8jveiz2cWsuOyPNVnQsyLy7OzdtztKv6td19oU96gAAAA=
 ---
 
 ## A movie about talking

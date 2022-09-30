@@ -20,7 +20,7 @@ intro: >-
 
   Coding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well
 imageSrc: /articles/how-to-get-started-with-coding.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJbACdLoAA2Fx5dpXNvoA/vxYr/0wXJn1X5OP5ZqBobAqYiwixxOT5B9fH45fWv0NJ3q1NVlsgW/0ecONRl0+Q5J0mazLZc5woSooQBqpajWD1xsvv/+JBXRN3Ultp3/ipeze5coYN/QA
+imageSrcBase64: data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMWq4PjUJkpAAP762qjifixmvWDDn4+Hl36AeLgjCYqRYEInZ1X3HB+Vyd89Nqif/nDjZKNivHfPZT4WrvrMxQRwH2OmCX1pYOL9fLPNehjixmAt7NyRWZr2JAAAAA==
 ---
 
 ## Why You Should Learn To Code

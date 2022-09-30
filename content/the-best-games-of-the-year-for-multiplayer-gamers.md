@@ -21,7 +21,7 @@ intro: >-
 
   There are plenty of ways to enjoy playing video games as a group, whether that be at home with friends over drinks or even as part of an organized club. Here are some of the best multiplayer games out there if you want to team up and take on challenges together as well as compete against your pals for bragging rights.
 imageSrc: /articles/the-best-games-of-the-year-for-multiplayer-gamers.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJbACdAYt9wkXzamgIAAA/v2zvx2N5p3CGuiPj4qmZ9Po4WVn/qUoX0/PztlsATwTEd1o48zhtjI4f4ehlS28rAlalacopQ+mUUIg//TOHRH4vbgAAA==
+imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJZwCdAEVjfoD3TsuAAD+C/z7+4bnWP2w/Y7Cqj+JtP/dztNtc3riJThWq+fhDOzzfFZb7HeP5q0VP/zQP+oBg9hrNlU+7/4/0/Sj6yD5SHDuxvemJnEvkbnfJMUaa3NgeuRnZMxJf9vM+qN/YpODbKi04gcdswAAAA==
 ---
 
 ## Halo 5: Guardians

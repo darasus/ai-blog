@@ -21,7 +21,7 @@ intro: >-
 
   Even though it’s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it’s worth learning for beginners .
 imageSrc: /articles/go-language-for-beginners.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJbACdLcACIeLKZak7uAwAP7XOkcvukLHlP76X8e3QoU3EBzA6cj/+lWJ5czkpolW/+rGB1Fv4q9GyuouwCEYeKulxtU35AzhmP/91R807tNI80mIf5OST/3jNkPF9pH/4H0vDi+dP2sAAAA=
+imageSrcBase64: data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZgCdAED9z9XE1AAAP77ZPJD+KocTfY63af69+wA2nz3ygQ1wEsvHtu1Ssd/jWG1oWP5X2hLL//Lw7NOfJn3XXQAAA==
 ---
 
 ## Why is Go language so popular?

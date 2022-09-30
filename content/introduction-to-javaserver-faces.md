@@ -23,7 +23,7 @@ intro: >-
 
   In this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.
 imageSrc: /articles/introduction-to-javaserver-faces.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJbACdDXAASRXSURyWhAA/vtk8x2e2MOtdxKDZ7li2Gt5sz5SkK/U7RWtiHoNel1YVnwW7nHk4sbCOP/xei5X4ME8Jr1AJMvHgdidSOJn3XZ/4/zE//kLyiTRnp6Wdi0//Wn/W8AmSH//ugXXeeadv5O4N/43gAA=
+imageSrcBase64: data:image/png;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoKAAoAAUAmJaQAAuY0sRwA/v6afesn/AmY1CLrc8HR1R9G2PN25iDZHUF8XcYr1R1zMDNkbQAAAA==
 ---
 
 ## What is JavaServer Faces?

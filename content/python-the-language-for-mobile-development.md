@@ -21,7 +21,7 @@ intro: >-
 
   If you’re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we’ll cover why this is good choice—and why other options may not be ideal in certain situations.
 imageSrc: /articles/python-the-language-for-mobile-development.png
-imageSrcBase64: data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdLoAAxoc8RS2AP7yhojDSVQSzZRRLpIyan8IE2h+s35Fm5CtvorHaJBFO/vEvRnjg+mvp+1EMR82NK5ZPQtyndMYQBNv/60//i3//7/5/6e9j/3/ylnf/vg0zZ9cz/+EBt96f/Ndv1YYnI4F5OaFkZt162UAAA==
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdBMACtPOE/ICbhAA/vtkdB/jhf823i8booyxPdqaVck456N+f97uL0y9wgbQUpjuc8oyMvGZUuA2xs/2vT/QoJ90k0WJeQonr0tsFs/+bi3NGOvzNX/LPXKN9ZWmzRl8FE5J6LjCb0QAAA==
 ---
 
 ## Why Python?

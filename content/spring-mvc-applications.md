@@ -24,7 +24,7 @@ intro: >-
 
   In this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that’s only available through an extension or plugin.
 imageSrc: /articles/spring-mvc-applications.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAQCdASoKAAoAAUAmJbACdAEWOjowAAD+/Inn5Fl9Dm7b/RMNlZzxk+7dE/rg0KyG99/03MlfTv5XGqpEesBu5/E6AZYeHvSwvoXY0Fta9/Z97OZNX+Lu5ov+MCQ/YAc6S/t0frtYfa7of0OTP6N3zwAAAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJYgCdAEQ/FsW4MAA/vwlOsdI7xrlXZbu3gKf0mWQr9+hop5hoJz+kgN/SW/ZIbPXPMXaARac7+u0onf8HEY2aZLZ/8nq/6PPUNgKPUdJJXEOdx/3HJn8efwvxFU/rdKAAAAA
 ---
 
 ## Spring MVC Based Desktop Applications

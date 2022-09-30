@@ -21,7 +21,7 @@ intro: >-
 
   We often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question – can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.
 imageSrc: /articles/inheritance-in-java.png
-imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoKAAoAAUAmJZgCdLoAAwqdKhwrQAD++psOy/L9lOjn+Xz29XymT52Q6DoytXqXMph7lLm7o1Yv/gN18WuX+MnxaEemwAAA
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJQBOgMXX3CvXqfLUAAD+t2UhFY5H+YSW5bYw1T8fYNT+frb4clZhI631zbvH1pG3gn+aG0Vd0AOew4wpk57IU3Fw/BaTv3VXXG9QexAcjrAW3oYX7/Tun6GIaTiBmugecj+ClHQ0CANN8DnAAA==
 ---
 
 ## Why Use Inheritance?

@@ -17,7 +17,7 @@ intro: >-
 
   And, when it comes to pies, nothing is more impressive than making your own crust. It’s easy enough that anyone can do it—you just need the right tips and tricks first. In this article, you’ll learn everything you need to know about pie crust from how to make it tender and flaky to how to avoid shrinkage during baking. You’ll also find great recipes for both sweet and savory fillings as well as ideas for different toppings that are perfect no matter what type of occasion calls for a homemade pie. So grab your notebook and get ready!
 imageSrc: /articles/the-ultimate-guide-to-making-a-perfect-pie-crust.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJQBOgMXD33n1DxtbKIAA/vz2kkHvpG/PM+eclV0IPSoSGZtucSYiYFde2N9eHT81c2SzqQ66u2C/z5AK/oM/VftDL/Ab6TPqnfD+33gju+UNYAJ1GljraLePRNVI4AA=
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoKAAoAAUAmJYgCdAacvnw9pTpfPNOzAAD8PGgT/4Nc53xQtvyNydCquhUyCKwG8dGmDKx/sME/44ARB8qRsswDMPcaIm+S0Wg8zK4jP+NIuLv2RZIaZEXhXzFJj+aDEy6iZugDiu9Jls266fZXf5h2gWDcVLNmg4zn9Y780ewNN18OAg7fEl2QAAA=
 ---
 
 ## But first: Why is making a perfect pie crust so important?

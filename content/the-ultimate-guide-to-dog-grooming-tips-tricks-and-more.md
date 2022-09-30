@@ -20,7 +20,7 @@ intro: >-
 
   The benefits of dog grooming go beyond a neatly trimmed coat and fresh smelling pet. Regular grooming helps to reduce the risk of infection from bacteria, decreases stress in the animal, stimulates blood circulation and improves self-confidence. The process is not only beneficial for the dog but also for you as an owner as it gives you time to build a stronger bond with your pet.
 imageSrc: /articles/the-ultimate-guide-to-dog-grooming-tips-tricks-and-more.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0euFwdgAA/thhnWDERO/FncMYXw/Dv/n76HfK5P9iM6itebySAYsgpiTsmzXkFn3ehcE//45RZLMToR3g/txWrbX6EnrLzXm6/coGfUiv9oz20PE72CLlJ++hsApnbdH3O93+xCcm/bU00v0HBW9AAAA=
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAADQAQCdASoKAAoAAUAmJZgCdADdCMLgAAD+93CLdb5x6CAjMj/7sM/70K4NKfq+nLjfsnOqG8p+bEXD3Pr3XHMhXvs5vu9/zfU5MjQO2cB/t/EyP/Sn48JilSalCA+Rd4duO36mjY/trR0MGRS130I9v3ITfLLfybpgAAAA
 ---
 
 ## Types of Dog Grooming

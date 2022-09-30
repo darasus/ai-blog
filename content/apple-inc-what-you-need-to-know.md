@@ -21,7 +21,7 @@ intro: >-
 
   What follows is a detailed look into the history of Apple Inc., including details about key executives and any relevant organizational changes.
 imageSrc: /articles/apple-inc-what-you-need-to-know.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoKAAoAAUAmJZQCdADdb2rKdooAAP75CfZpH9TnRw0DsuOH31vD8IuPeXdoX71Akn+q2l8sxwudjisNT43IfquE5YJnbdKnc58eXMlLfksaueflbv1cwLJDDsVYfTLRfiiAAA==
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJYwCdDKgCCkK1X88FGMAAP765VnBbZvuMFx7/Sb4Nx9+66h+DUFYhaPrV361vIrdP4/l2dqrr5OC7/K8T49oqIcMQVGJ/K6ATLIaY/TI4xk+c4EEREd0/tkMXuuh+jIBEznne9OVWd0vQHgAAA==
 ---
 
 ## 1980: The Birth of Apple Computer Inc.

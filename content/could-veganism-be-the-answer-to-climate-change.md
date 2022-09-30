@@ -23,7 +23,7 @@ intro: >-
 
   As you’ll discover from reading this article, veganism could be the answer to climate change; however, there are also some drawbacks. This article explores all angles so that you can make an informed decision whether you’d like to become vegan or not.
 imageSrc: /articles/could-veganism-be-the-answer-to-climate-change.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJbACdAEOuMLxPAAA/uCsP2Am5Te54meOZqgiUt+KmTzCH9lM7VvfbwJfzKK8U18Y2kvBmeMf/P2zmpg/7mteM1k0uf9hK/37+E4I///q0O+AAAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQzY3/lEJgAP70EHQfzvl5iVISgExrA31+1arjw6tkiimR/y2beaQfmvBc8HDEZknomc9ifZJDapw2FEublrhL0mwCAYX+c5gDquv1L6zyl/+hnz7/wqf4POcKfr2+f6ktr0AA
 ---
 
 ## What Is Veganism?

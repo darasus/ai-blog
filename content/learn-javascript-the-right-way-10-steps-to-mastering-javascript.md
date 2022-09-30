@@ -21,7 +21,7 @@ intro: >-
 
   With that in mind, we’re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we’ve broken this guide down into easy-to-digest sections. If you’re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.
 imageSrc: /articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png
-imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAgCdASoKAAoAAUAmJbACdDKMwYGP2XiwgAD+86/8KjXc+ftj91LTp/Lr1yPOTpzVFb89VP+Zr9rV2vj6fnmHzycawYivyvfjRqbCwfkpy/8IDeuoO/BbB/Ne7kb3E9idsxrzjZGX/6ci/vwXX97y5TznP/8bG/+GSI94v/wWk/r/+CBXiekYB4+Pdnk6X/7Jo/EmgwAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==
 ---
 
 ## Grab a copy of the fundamentals

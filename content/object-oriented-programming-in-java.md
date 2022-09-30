@@ -19,7 +19,7 @@ intro: >-
 
   Object-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let’s dive deeper into OOP in Java.
 imageSrc: /articles/object-oriented-programming-in-java.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAgCdASoKAAoAAUAmJbACdLoB+AH4gItuBWyEoOgAAP7ATeDs3WB/VLHgAs9QZmJ+XovFXql6q2tFYw9a3VpU7xH/53Jp/LM3BsXq4f8nJmjbBrG9Dv/q2/z7/Qp4m84gdS4F/YX+hRr7hzZ8GgX94AAAAA==
+imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoKAAoAAUAmJaQAAxeTfTrgwAD+/mshL4PimUZ48wJ7TM/46/UxAD0kSK227gQ79xshtB35FTX5zBVIV9CzcCpmf8+Xne0po2X0RYU30s8ND7L9uNarjlXMAAA=
 ---
 
 ## What is Object-Oriented Programming?

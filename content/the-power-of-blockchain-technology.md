@@ -22,7 +22,7 @@ intro: >-
 
   These transformative technologies also open up opportunities for new collaborations between individuals and organizations at different scales. They empower people with new ways to directly exchange value between each other without intermediaries — in other words, peer-to-peer transactions. Here’s an overview of how blockchain technology can help you take your organization to the next level.
 imageSrc: /articles/the-power-of-blockchain-technology.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJZACdAYu5bToHR15rwAA4np6DKB3w/lq2+MxpKwHshTidC6h1CkUljTqKn44PMbXkG7s+PniPD4BWWczFn2FELjTPQNvZN7DY4tt9kUGWq6GX+M+8S26g03uOZ7pAAA=
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoKAAoAAUAmJbACdAEOZlUEYAAA/vugvtqZDnfhv5eRia8PoNcZhgdT6G3zeLZZLIEQ4sSzh/dkMMBgTdvOe8aam34GNxNUVpxrdyH/gmtSgD7/rq5I3Xsex//53Kd//qA+P/z7q/Z8q/1zLR/git/2b1uG5hgA
 ---
 
 ## Why is Blockchain Technology Important?

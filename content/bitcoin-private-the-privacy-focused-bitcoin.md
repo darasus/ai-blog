@@ -23,7 +23,7 @@ intro: >-
 
   Thankfully, there is also a solution within this problem: Bitcoin Private (BTCP).
 imageSrc: /articles/bitcoin-private-the-privacy-focused-bitcoin.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJaACdAYqXuKbkhj/zngA/voPTg0rf/vEsRL9uRaquf0y36jcYMf/ndoWaI1JcKmAv720ZICe7BBSfm4pASfrHpu3/8BpsrWW56rPyEDH/3VL4Au27j4I2AAAAA==
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJQBOgMW5tZ3vSIAA/vTHqHc+ftSih1db3Xsa2yMQagoqH16LVv+4L0k0rzq/XP3+QsxAs1GBPY6Gk2NEREqu/klvtsMRC/22uSLoKV7fLM7fwwpwCere09r1wrfnpnELffbF9aCJ4huAAAA=
 ---
 
 ## What is Bitcoin Private?

@@ -20,7 +20,7 @@ intro: >-
 
   Exercise can be a tricky thing to get motivated for. There might be days where you feel like nothing can get you off the couch and other days when it feels like the best thing in the world — but how do you find that happy medium between being active and a sloth?
 imageSrc: /articles/7-tips-for-getting-motivated-to-exercise.png
-imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJbACdAEPDPzBH3CIAP7rvDzpCL73UqJpCSmE+4Y8vS/78vDVXca8PqJoVgvT9/XY4dtD/4oJrhcb+Ag/ASYmppv5Z/+KB/1hfvhtfd/+DJU+PftFUvf/8iayi2Xn/BZ4ST6a4fsAAA==
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJZgCdAYpvwD/h+bAAAD++1bsnzNC63lFDQv03128wf3FNio6TMtb/7A3/z0edkZhEph372Fpzp6Z1aqmgW5Tb8to152R60Tv+ZLosT7LtcSH+wDrDR+K+59zvG8URZOjhw2aHye7lka5lImGiBPosRSVGEzoJAA=
 ---
 
 ## Know what works for you

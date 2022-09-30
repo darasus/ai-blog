@@ -19,7 +19,7 @@ intro: >-
    If you and your partner both want to make the long-distance relationship work, the two of you need to be willing and committed to making it happen. You will need to put in the effort required to see this through. Fortunately, with some planning and persistence, it is possible for most couples who are separated by distance to continue their relationship.
   Preferably before moving away from each other, you and your partner should have open communication about where your relationship is heading. Are you ready for something serious? Are both of you ready for a long-distance relationship? Do you want the same things? If so, then let’s get started on how to make a long-distance relationship work!
 imageSrc: /articles/how-to-make-a-long-distance-relationship-work.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJbACdLoAAw8ZyYnM3SAA/vwerql2nJ/GHtS/Wi+lodQP3+C+b07e6ulPtHaYDJHnuBkOv5GaQyx9UciOG2rD+1AIOWf/pqzf1KH/Ro6ZQ3+yRfiybdfoLYhB2o1kAAA=
+imageSrcBase64: data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAADQAgCdASoKAAoAAUAmJbACdLoB+AARDJZQRF6OiStAAP4KBhZs8v3gPc/9U+p5XGOf6o/76flhz0N2KKv+i87mzHaEtbu0iPlk9cnYQj/VxIKKXunw7K9WHSx1eaA1L32k/7Q+R6f7vIyki1+kfycmKfb1Pu/Ts/LPOTTX9f/x/z/x7rhznBur/m/+CK3ZbatY98f4AAA=
 ---
 
 ## Talk Often

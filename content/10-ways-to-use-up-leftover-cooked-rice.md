@@ -20,7 +20,7 @@ intro: When you’ve cooked a batch of rice and there’s just a little bit left
   some leftovers again! Luckily, these ideas will help you make the most of your
   leftover rice.
 imageSrc: /articles/10-ways-to-use-up-leftover-cooked-rice.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJYwCdAYsZ2tsEgPBSmuAAP7p+lQ/j+uZB2Gf46q3l5pbc/d8sGaVanXRKWlwFmOsaf0qe+lWiuB/t/qyCJNSzubcCZnS4OIANJ28nNuHGj3YDqKsRrhP8DBCFNuAWU/1hJleXjURuZJyxWIDsbgA
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJZwCdIIjGZMTyWtb6wAA/u0rlt08YlGH5LNr5/pvE5F5X9Md3rfnFn+FQyWPTrvW/La/8zVQR1LHm05rPf+vtPjfv2IiTq9s7r3Gvn8gOpYzRXpi6wvWK8BI9tRwJLutSUJk2FY4AAAA
 ---
 
 ## Chicken and rice casserole

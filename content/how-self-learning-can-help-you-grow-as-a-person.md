@@ -20,7 +20,7 @@ intro: >-
 
   Self-learning is an excellent way of getting to know yourself better and identifying your strengths and weaknesses. It gives you the opportunity to discover your passions and interests, which in turn helps you figure out what career path is best for you or what tertiary education would be beneficial for you. It also allows you to reflect on your life experiences, as well Self-learning provides an accurate analysis of your strengths and weaknesses so that you can understand where improvements are needed.
 imageSrc: /articles/how-self-learning-can-help-you-grow-as-a-person.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdDXAB50YGw2VPUQ/AAD9wW3+vbzY897v61idMb6+18/iFkbn44OLz4iBGUpgwinBl73qir84eg3pw2b7QVKac+MwFMSdK5GK/7v186vX/n+vO3v/l2qo0y9gfdYP3z7v2v/H/F3h3n+FFDuKD8gmuqAA
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZQCdDBAAYsWqAPAAP7+bKcdD5ySrLTvhvpv//XWA/0Uas3d3Mx/+iOZKQgTM7wn/f9sRP7s5tbofoGmrXQ39CqqXI2H/uCPVYXOyTRKiF4d+tF3PeD/4AIl8ApZX7GTPRPu/IAAAA==
 ---
 
 ## Why is Self-Learning Important for Personal Growth?

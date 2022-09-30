@@ -19,7 +19,7 @@ intro: >-
 
   Luckily, it’s not hard to train your dog to stop begging at the table and other bad habits. They just take some patience and dedication to follow through on commands until your dog gets it. With these tips, you can crack down on those weird doggy habits and help them learn new things that will last a lifetime. Read on for advice on how to train your dog to stop begging at the table and other tricks as well as tricks from nutritionist Victoria SchENDler
 imageSrc: /articles/how-to-train-your-dog-to-not-beg-at-the-table.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdAYrTvuSVZDqQrgAAP78Ox0ZvMU1I3wNBs46swQu0Au5wy1bTc9+ozD4LRPdrlM/TtD8vERysQtu9fYkeP0kyU/ryUCvlVPQ9EbtTwZKcoBbz3sIM7X4kJpv44V63MF/+SJy360pAAA=
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJagCdAYsFlbr/5P+VYAA/u5jWaegL3XDyqBO9s/+Q0HbebkHmeBL0sF7xP6316Zm7YFtZLZmxCzuezvOxnqC6B/7Xvt/PtID/rbm1RrXmEgpRl4/9MD8G/pyBGjzO1bPy0obe4AAAA==
 ---
 
 ## Establish rules and boundaries with your dog.

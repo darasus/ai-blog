@@ -26,7 +26,7 @@ intro: Software engineering is the discipline of programming and designing
   knowledge even more, read on to discover why software engineering might be a
   great career choice for you.
 imageSrc: /articles/the-benefits-of-software-engineering.png
-imageSrcBase64: data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoKAAoAAUAmJagCdLoAAwd6KgAAAP7gCfP9R/sHpwPhoR2Q2RjL5hlazc5M3t8SXslGRVufmxkne32pglE8B//n5zrjsP7P/ww/okAA
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJaACdAYtpv75A2tmKAAA/v5nyiexoQImqX0FJPMFCXjhV83oqGj3TDWgcGHbg3D5CmQZ7x+xdf66uAORxvNXAvn+5hpcooPiMzkvu8+tl7C84r9Wcd44ALPTGAAA
 ---
 
 ## Tasks And Responsibilities Of Software Engineers

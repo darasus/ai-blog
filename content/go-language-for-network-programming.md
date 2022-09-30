@@ -23,7 +23,7 @@ intro: >-
 
   If you’re still struggling to decide which is the best Go Programming Language for Networking, don’t worry! We have created this short blog post with all the information you need to make an informed decision about your future studies! Read on to get acquainted with five of the most common network programming languages and their unique benefits:
 imageSrc: /articles/go-language-for-network-programming.png
-imageSrcBase64: data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoKAAoAAUAmJZwCdAEO98xzcAD+/nTw0iiORAygOUY50Dq1lRy4IANVRhJpzlXTl5q1behgOOfxTluM2sSh6HEgB5S/hEXAAAA=
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoKAAoAAUAmJbACdLoB+AARERCpl9T9YAD+tsu/plU3A2fv5/3CioO82Q9SqfFX8zREG/xl9NnKrmCnPnHk6R3PfjtlDYp++axoujhLdK9WYu9YcuE5oFUxL11JmkDfWF9SNclVqYmNmpcP/b2IbLSaenD+1IYb/+6L6Xyh/hyn/iRSzreB21DIGqN9QIS2J8cwAA==
 ---
 
 ## What is a programming language for networking?

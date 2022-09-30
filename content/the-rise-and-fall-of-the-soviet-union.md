@@ -22,7 +22,7 @@ intro: >-
 
   The rise and fall of the Soviet Union can be traced back to Vladimir Lenin and his Marxist ideology. In 1917, Lenin led the Bolshevik Revolution and gained control over Russia. At this time, he also introduced policies that would help establish communism throughout Russia and other areas – known as “the fourth partition” – controlled by his Red Army. These policies included state ownership of land and businesses; heavy taxes on landowners; centralization; and controls on trade, production, wages, prices, accounting, exchange rates and foreign currency transactions.
 imageSrc: /articles/the-rise-and-fall-of-the-soviet-union.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdAaX/AXvZyI/fAAA/vhE3l4MGSB+dhlPGSP5/h5NfP/by3708cbxo7vJE44Ry6dSXf3ej24Gr+1cfXsGSXA+d+gDU0ldsxiQnH9ms2A1f0FV26MqAvmmTEcXkP5F5zu9x9+hmXzyr2VTmv/9MY+f3TAA
+imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAADQAgCdASoKAAoAAUAmJQBOj+AR27yE+txj6bbVf57YAP7Pg/rWSL1u9bRvaCOPeSZkEoPXl3R/xCXfn/Qbn6lEeBomrHXE3vfI8dbB5Nto/nQvl/8kW4Q9Iemm5ecJkREPFjuUrWpXtrp7LGz8NIuoA079MBDLtbT+sOp+W2vK611Tmt3it8f/k2aGrcojjbZlQePHWQAAAA==
 ---
 
 ## The Soviet Union after Lenin

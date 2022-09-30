@@ -20,7 +20,7 @@ intro: >-
 
   If you want to improve your health, increase your energy, and lose weight—while still enjoying great food—a healthy diet is the way to do it. A healthy diet can help prevent disease and keep you feeling great. Following these tips can get you well on your way towards meeting your nutrition goals and eating a balanced diet that will keep you happy and healthy for life.
 imageSrc: /articles/the-benefits-of-a-healthy-diet-and-how-to-stick-to-it.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdLoAEJUba6AxRKAA9rl2wPcZNbuxpov3jD9xia/pBL+QCLt6Pq2nu/Hnf9Fvr6y/J+DFs+DQHp34vih7coA2lbN/+EI9dWIqinvAjGOuo3rS68ZnYxoFNAaFZR/8qS/z/zL/ijx/9+xz+qf6Nl+Wn9wA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAEQ/eWjGyyYFgAA/vdbF2nznelG7nsulsv3CwjAYRrL67e93ci/4nl8bTVt/2wSl+NovQ1No++UXJ8IOO9WVlPgyHk+/jJeLBWA/foqL29E9/9z1yrD4f1Dh/tmL/bi590HUICG29q/bis3NfwbVYvPn1wZu/6m6YAAAA==
 ---
 
 ## Change Your Environment

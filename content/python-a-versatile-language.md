@@ -17,7 +17,7 @@ intro: >-
 
   This article will explore the Python programming language and why it’s so useful to know if you’re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.
 imageSrc: /articles/python-a-versatile-language.png
-imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJbACdLoAAx8YgHSYQAD+2Hc2aaYNLukAT7MiyjKhousFrZBjmQaIZsXC/bAyQVl5bdLuoRqg5tup+3IR9I/6px71d99grX2pJ9vtz97D+xUYvUw0fAAA
+imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoKAAoAAUAmJbACdLoAAmq/Syb4AP7tEKLr6zzPCb89fwcKJB707eBeXBHW3E6+9B6YGzZSQ38hW9m3yzfRblP3iK4lIZJNr/6oh1mIP7reLf3bIZXXq5Fzp+XxK+QKEwaAAA==
 ---
 
 ## What is Python?

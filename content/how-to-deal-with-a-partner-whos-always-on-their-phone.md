@@ -21,7 +21,7 @@ intro: >-
 
   If your partner always seems to be on their phone, there could be several explanations — from an online affair to simply being an avid social media user. Regardless of the reasons why your partner might spend so much time on their phone, though, the way that you react definitely matters. Being insecure and accusatory about something as innocent as checking messages isn’t likely to lead anywhere positive, after all. Here are some tips for dealing with a partner who’s always on their phone:
 imageSrc: /articles/how-to-deal-with-a-partner-whos-always-on-their-phone.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJQBYdiL5oUAT9D4AAP70FIPRzV/uF6P2EHo5i6s+D1eMbtoeohTeJ4Ifh/wtPAkq0Bilb5ExKxOnGdaX0m7/e9oK/5QadSB7i+rhT8f0g8J55rsf9v/291l/5dpU+JemgAh4AAA=
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJZQCdAYvX2gpD9f/qAAA/vz5h7l97MBa/7zLf2+N8KtmVqmdsWlIXVeEq/NXbbhpx8t7B7Xd6XUEMN/66BlRC4YqRE8HK1gAKCRMKExutaQlz5+490OhmalyQQB99QLe7KwLHUFAgCAtAAA=
 ---
 
 ## Talk to Your Partner About It

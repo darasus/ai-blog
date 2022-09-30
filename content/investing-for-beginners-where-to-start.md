@@ -23,7 +23,7 @@ intro: You can either love it or hate it. But investing is something that we all
   money so that it can grow over time. The trick is knowing which investment
   options are best for you and your circumstances...
 imageSrc: /articles/investing-for-beginners-where-to-start.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdAYtBwkZFHI0YUMmwAD+/EADwvaM1ak8l7G0w6d+LfV+IRvc9PPKHJpv/PpH1gxO4Km4fq/bwuxi4laxkfo263kDaV4vWtIc7wiUpLbn+Jy+bcWCb//5H/miEzsyAAAA
+imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoKAAoAAUAmJYwCdH8AF8fqE9AcQAD+/oSNDAuAsTgc/j6GPdJao5MNj0TfYqwR2uiO8XayIZN7tfetFYDqbFeH6OnaObhJ55HUGZXoDp33EKFwrf4vceEH0KQAAA==
 ---
 
 ## What is investing?

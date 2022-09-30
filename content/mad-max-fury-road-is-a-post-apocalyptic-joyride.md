@@ -22,7 +22,7 @@ intro: >-
 
   These subtexts have been explored time and time again throughout history through literature such as The Bible
 imageSrc: /articles/mad-max-fury-road-is-a-post-apocalyptic-joyride.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoKAAoAAUAmJYgCdAEO/aaQAP7+Xv1eNGsERYKosR1CYv9vMmDNGLdGglg7cJLM5x8R5Hpg4ccf6yQpJ/acrgXYAA9djqjlBcMvuQPQrfEfP+v+5yZPgAAA
+imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJZQCdAbzNys4tI7F2BSAAP7+X2zIf2/I7j1En1dedaxD2d/hv6+kV6JRgjD9UP/DXl+zQDxvPijv7sXNVclab//8g94xerxpkPfIpWQurQl/8782xuLTffKrDdUf+9pfdv/DDk6rIpo81PpAAAAA
 ---
 
 ## The Apocalypse as a lens to examine the human condition

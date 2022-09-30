@@ -20,7 +20,7 @@ intro: >-
 
   That doesn’t mean there aren’t plenty of frameworks and libraries to choose from – there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let’s take a look at some of your best options for building web apps with Java.
 imageSrc: /articles/web-applications-with-java.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAEfA3NmscgA/uiHjDA5h288j3eNtvcXjf/xP2IlupzF//vm/msl0jf1EAT6Xfwm5eNVdU67/IR7JxgRY2Cd/TzzgjC2P3KV/+O5rIW1f/8WAR7ef1F3gub/OYUGAAAA
+imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJbACdDKbgVx2EjultIAA/vxDAfAz8f8KETwzQXuCuu+faxXquQa+/d0OBttOf2HF/4K8TXpHC0ys//CKtu0bVsE0J/2EOCFWnKHlFVfH1/hxqK/+biR3Ujtf+n268W4Gqm2zo0BjiIY4B+c78df6f8/bgen1g7/pHd//0cmYAAAA
 ---
 
 ## Spring MVC

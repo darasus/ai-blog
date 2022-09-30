@@ -20,7 +20,7 @@ intro: "Greens are packed with nutrients and fiber, but we don’t usually think
   calories. Here are some ways to make your greens even healthier — without
   sacrificing taste!"
 imageSrc: /articles/why-you-should-add-more-greens-into-your-diet.png
-imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJZACdAYuRkyAwQ4uEAAA/vrW2b0xC98wZU77vTyc4/ywJ9IZrxS0H9LDWl1tT7d+90pq9JgpK7im4u2jioFNSVjeN82BvF4YcmMieKf/mOMO/N0SdVtwZwFN4Ld5LAA=
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJagCdADJ1ew8E/IAAP7mrBJA8AfePCFG9f58I8d47+znO0LGLldgHJ/kWV8hnx09jbQzqJwO0svzZNRos3XKYyWXf89vsZ6k3lNWpP7Cl7gQF5O9ikwfwAA=
 ---
 
 ## Add more vegetables to your diet

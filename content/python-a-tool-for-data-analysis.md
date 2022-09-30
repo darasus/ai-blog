@@ -18,7 +18,7 @@ intro: >-
 
   Analyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we’ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.
 imageSrc: /articles/python-a-tool-for-data-analysis.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAD0mYxxTuUAAP780o1+9MdG27/eOPsmu5JaoV5SGReRSLZhedOOeXCUJegkLYNsY/8WwwVK+j85zzRSroj/rmQAKinSZllGUZBtVrOaHGMAAA==
+imageSrcBase64: data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoKAAoAAUAmJaQAAuc1XGlAAP7+tKMBaDLVDq5eUS73swLYc04rIQX/x060YMKr3tYwwQjbQRCAAAAA
 ---
 
 ## What is Python?

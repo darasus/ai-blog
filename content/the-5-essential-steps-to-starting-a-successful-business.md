@@ -24,7 +24,7 @@ intro: "Starting your own business is a challenging and rewarding experience.
   competitors, finding funding sources and creating an exit strategy are all
   essential steps to starting a successful business ("
 imageSrc: /articles/the-5-essential-steps-to-starting-a-successful-business.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCHh79U00wAA/vGGv1xRvCLZp6TSXProiALU9C4a5ZZju+72rcoWHVugk7ynrNDMhR6aoP8JT90lDl2HqMPLd/wasP0kWp0ywZexUAAA
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJQBOgCHMycQ8gAD+7irle9g2f7pnEh+d7Fq9faCIrfMgs31F/i96rUi/0InzeV/1cJP0vdKfJAZ+2tZC8NCQlnKhLQLCyIkrWMDRZ2mHTyn3FRUyIYAA
 ---
 
 ## Know Your Audience Before Starting A Business

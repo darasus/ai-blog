@@ -24,7 +24,7 @@ intro: >-
 
   Go is a programming language created by Google and it’s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let’s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.
 imageSrc: /articles/go-language-for-artificial-intelligence.png
-imageSrcBase64: data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJQBOgMVB7Yf6Iu7AAP78zF7F2yxt1PxtvsoTnVXnJkbfP5RfdHf2mlSywAYsr5QVP327y/MImRskGKjY7VW/rdMUlWLbsYCAAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADwAQCdASoKAAoAAUAmJZgCdAD0RXOD+iAA/vdDf+4VEYOf70Y/Y/kVno+Ip/PCtqtfixPrC9hIOekLfo5997EH/2mTJRCPDzQGOf7kxtfXkUxygiT/2FE2vIzBONhqBtd+H/LKZP8/weEn+a2xl7AcI3y+B2+qV2XD9ZOiH4AAAA==
 ---
 
 ## Why Go is the Right Choice for AI Development?

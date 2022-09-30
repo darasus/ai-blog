@@ -19,7 +19,7 @@ intro: >-
 
   Learn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...
 imageSrc: /articles/10-tips-for-keeping-your-hair-healthy-and-strong.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYwCdAYtBuK0Wt6YcuAA/v3YCEvyIIMg9FmcRd5Kd4Howoft/NlMqWjzz/8/+EM1fp/gWvgP5mwnJ5Kfr7Vk1ZEC95jS3nJ9x6AfzSgJxpWBLwaY51hZ2s6N1ZcmScofTbodgAA=
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJZQCdBoAAVI2NB5NPLhAAP77zPJqpDvy7uCqP/yHX/A1uHb0T7uP+me4bXBjpsR/uMzJg/xk2XIjjjso2deV8Htff+gYe+WC9NdvjUgu/Tq+UgXAYY5p1//g1+OMUelmkzkcZt7k5yusnoln3duy76AAAA==
 ---
 
 ## Basically, don't over-wash

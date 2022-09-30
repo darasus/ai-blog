@@ -20,7 +20,7 @@ intro: >-
 
   Even if you don’t trust someone right away, that doesn’t mean the trust issues don’t come up later on. It may take time for them to make you feel uneasy or distrustful of your partner. But it also could be something that crops up almost immediately – especially if you meet them in a place like a nightclub, bar or other place where people tend to hookup without much thought as to who they’re hooking up with! This article will offer some tips on how to deal with these trust issues in relationships and help resolve any problems from arising in the first place.
 imageSrc: /articles/how-to-deal-with-trust-issues-in-relationships.png
-imageSrcBase64: data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoKAAoAAUAmJbACdAYtpvoGDcPCAP7smtNBDP8gleekgmmcHFhi428475wjL9QNlafB32m12Vp5oiO2W/9Sjbcj7Ld488cTBsDmpXnec28NH86tGn/qf6w8G5foiW3/9mEv/rf7/f/VseX//QmcH+CK3/i///7oG0Z6d/+MGb5zUrQ8iRnbhEAA
+imageSrcBase64: data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZgCdAELYMJk86oAAP7ykmFe7nkcD2palh5s9bCEZg5q1bkK/ThPwMFjB5WRfKCmI/NyYLGvMVu+TuimmVvULZ/bj0m3Ga/AZPXu3Te9Wv3f/Jxuaug1QxIJei2wNz9U5pbmqoiAAA==
 ---
 
 ## Don’t Ignore Red Flags

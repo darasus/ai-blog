@@ -23,7 +23,7 @@ intro: >-
 
   We understand how difficult it is to whittle down all of these options when you’re trying to decide how best to invest in your business. As such, we’ve written this blog post with you in mind; we want to help you make the right decisions about these different marketing strategies.
 imageSrc: /articles/the-importance-of-artificial-intelligence-in-marketing-should-you-be-doing-it.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJQBOiOAMkABZtbP5efIAAP7eP+oPL6wnbGZfyB4r2bGVWI3HafoAFhFoc0724D/Ed8zENaxpNv87HY64UOj17X80z/zADZRj7pqWaLfynrFRxR73OpltAbf/xoAA
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJbACdAYs3ZyHqMxAAP78ojdkJ/kAdtP5w67oVKWl6AWoK5xA87kW8kZvupgQTrz455nnjCek7RI1tGfpu9m8dTOaNAYmQ+7fZP0n0XLH69fs5o3fklsm78cnqzJdSYe+lBKpi2uWMU1/puP/wb/1DXb6ygAA
 ---
 
 ## What is Marketing Automation?

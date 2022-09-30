@@ -25,7 +25,7 @@ intro: >-
 
   In this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:
 imageSrc: /articles/go-language-for-functional-programming.png
-imageSrcBase64: data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJagCsAEO9DwAwGAA/vrcAZTMYIsg0uKZM2X5fRfYCj5fWBh+ijP97mV5i9xi5+l1P88Mm+vXyEEFn92AXP/URdg/+0nf++RSgAAA
+imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAgCdASoKAAoAAUAmJbACdLoAEIgYKPazdEMEIoAA/vvCqUFJ6+edkFl1lM/NvYt1TRofbYkTuuPTC+o0sD/eGCIp/qNKzSzPetx5bnIbBX/19ZX7+x375/13Q/+98P84vIpuUyvgAAAA
 ---
 
 ## Haskell

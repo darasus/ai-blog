@@ -20,7 +20,7 @@ intro: >-
 
   Getting a good night’s sleep isn’t always easy. But if you implement these ten tips into your routine you will be on your way to feeling rested and rejuvenated come morning time:
 imageSrc: /articles/10-tips-for-getting-a-good-nights-sleep.png
-imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoKAAoAAUAmJbACdLoAEJYYKOGbDnww8gAA/vlA14it+dwRi+fQojgfP4RdL37Pa7aZmHAnjuEwQerFv/2noUgsLC0bXTU3G6VxwPj/Jcdi96giqSZL978Wu1WacSfKCoz9iu+wHDhdj8ItHZ85/8Gnd/8xKHLpylf1TZ5rtKaC/Ng5OQBams3Lh2ZvfAAA
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCFqqQj57AAA/voPvQzOWOnRbvGWUk+zN6JPVz9T/qMzijpT85En35IEodg91WUeHY9MAC99vah7v+6atOgv6DsKnEjPAu/uztFpl76TiCjoAAAA
 ---
 
 ## Turn off the screens an hour before bedtime.

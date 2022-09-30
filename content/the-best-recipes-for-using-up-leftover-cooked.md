@@ -19,7 +19,7 @@ intro: >-
 
   That’s why we’ve come up with this list of the best recipes for using up leftover cooked chicken. These recipes are quick and easy to make, but they also tick all the right boxes in terms of taste, nutrition and ease of preparation. In other words, not only do they all use up your leftovers in a delicious way, but they also make your life easier so you won’t feel like you have to avoid cooking another chicken dish again just because you’re fed up with leftovers!
 imageSrc: /articles/the-best-recipes-for-using-up-leftover-cooked.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAEJOX+Tv2JZFgAP74NE733SVEsa9J8rR7MWjtC9Fj4MJKjMjC5Jn59M/bcu9gZqibPrv7IWOFh8vbKrbu1+8NVJjwomB7Jv0TJWf/VDW7HbreTv+jXFkZr/mx0G/ccihrKKGrAZDuzTN/0NuYAAAA
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoKAAoAAUAmJZACdAYs3bHhFvZwQAD88vqP/3GodnzamvZL/sTzv3HaK+yv2/mqO1u5XMjSv84APvTwtpCXuavxQNa443PpcaMm27Iu86ItX8l/dO1DA/eH0N7OrMvoAbO6mHsK38ictl4er+dRvI+1+8ovj6s5iCxCNImf8nJn8m02YhGAAA==
 ---
 
 ## Chicken and Rice Casserole

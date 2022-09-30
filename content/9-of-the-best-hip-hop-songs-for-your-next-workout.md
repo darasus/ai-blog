@@ -19,7 +19,7 @@ intro: >-
 
   Read ahead to know about 9 of the Best Hip Hop Songs for Your Next Workout
 imageSrc: /articles/9-of-the-best-hip-hop-songs-for-your-next-workout.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJZQCsAEO9eoX5XYAAP77I9ti/XDQH3TaXse3fIIBn5rAW/oTF/gzv+uv7iOEHnXtk1jUcN8NXX4E8tXFskyHTnvrJqlzhkQLHTko1FxWF8fGvEAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAgCdASoKAAoAAUAmJYgCdAYp35AMGer3YTafqNAA/DQXb67UUAIJZVjZc2yfu7QiwH5RMu98v89AJWe9L6B9KwRzt8f9QgXoOlQGAT2GOcMnbibOZmm86o25RP4Fcit/Lg4BD8fW2B8BWFd4YMVlBVBu4fShP8ZZy6oQmEn/6m/z0XdMAAAA
 ---
 
 ## Jumping Jack

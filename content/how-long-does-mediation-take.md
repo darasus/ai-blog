@@ -23,7 +23,7 @@ intro: >-
 
   Mediation sessions are confidential, so there isn’t a set end time like you might experience in court or arbitration proceedings. Instead, parties can chose to end mediation at any point if they feel they’ve reached the best possible outcome for themselves and the other party involved. Here are some general guidelines regarding how long mediation takes:
 imageSrc: /articles/how-long-does-mediation-take.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJaACdLoAAwkSvez/PWAA/vnuFlec40wDJcX5kb5wfx8PX3gRI3zFo9ftuiM8OikVFvp/nPFWnOZAfFP7k8Uu7+CBQ00JA1cx7I5WWkXuCwUHk834J9qMe/5ILZFFv7CBOgAA
+imageSrcBase64: data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoKAAoAAUAmJZgCdAEQ/h8MCYAA/uAKj7QyuG7omrIT90Cl1EhkdyKJZ8pQ4Ju+NMxA0PKjF3BACy1N2FulOPIVbr7P3y+fF74ST+yLxAA=
 ---
 
 ## Mediation for simple cases

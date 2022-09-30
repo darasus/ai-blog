@@ -21,7 +21,7 @@ intro: >-
 
   The tips below will help you make better decisions when eating out.
 imageSrc: /articles/how-to-eat-healthy-when-eating-out.png
-imageSrcBase64: data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJYwAAt0A8OVtY2AA/vm6mKM6RI4IXO6z/TVf9OVMMLnTwrRIDoP2m+9g3mUNhEcPRpqdqjprf5SV72eNhmwEf+72u7ASW6qGw0CgEAA=
+imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJZACdAELh28yZ1ZUAP6t/PkX1dlE2PAg+siFVqRaVPH0PT9f/1t3vLDlYL03P+Ae28R9OujkKn/9QzrfDI98L54cfH/uBFUzDPZ/dNyuC+x7V1aHf+mUBvgmgf4cnKN6ORMJX0LUvfnFCPFHWavSUJfVI+/+bijnZ6accO//FsH8AAA=
 ---
 
 ## Go for protein and fiber

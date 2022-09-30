@@ -20,7 +20,7 @@ intro: >-
 
   This blog post is part of our ongoing “Coding in CV” series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.
 imageSrc: /articles/python-the-language-for-database-programming.png
-imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAwCdASoKAAoAAUAmJbACdLoB+AH4gTADBAPX/A8/AZ8AAP70AQB1Ad37Bcw4mxmqnQOBM9jGrkkYx2ookCUjnHKW/9yKTsqK+aNqj0h/t//+SuU1lRnmMU+1oAAA
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAxkuD6aO2MAA/uiJ7w3V9M03vbiDoGzO/bQpeKR0Umxxgk9SXJ47ktdhBP6mbOcXbfAdrH6nk8D7c+4LJW3UiScB+MseYB4vf/g6aecOk3q3/8G5cbr/vxDT38NH1GYOMIvNwAA=
 ---
 
 ## What is Python?

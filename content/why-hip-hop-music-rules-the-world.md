@@ -24,7 +24,7 @@ intro: >-
 
   Let's take a look at why Hip Hop rules the world…
 imageSrc: /articles/why-hip-hop-music-rules-the-world.png
-imageSrcBase64: data:image/png;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoKAAoAAUAmJaQAAty8mcAAAP77mJ8f3ZwbZYb4ywo+b0XsHtk3licF1rBqJvB2ncbffxJIAAA=
+imageSrcBase64: data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAgCdASoKAAoAAUAmJbACdDBE/2MI2owUeOTxKiKUAP7xglg4WTGI381jYVla05HtidEbUdBLwP6xfsvA+Hf6eKr60VnK/ThicnOBtfMW1jUbQA0xx1HIS6MSc11tRSvQBlRtGKryhLVYvQP6OTLN7mIb0hhn9j6z/z+tf8/8WqHAee/5s2v9Df7OQY+f/wb78AAA
 ---
 
 ## Wordplay is at the heart of hip-hop

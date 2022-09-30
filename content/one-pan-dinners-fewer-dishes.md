@@ -18,7 +18,7 @@ intro: >-
 
   Now that we’re all living together again after going off to college, we’ve introduced a lot of new habits as roommates. One of our favorites is learning how to make one pan dinners on nights when everyone has somewhere to be after dinner. It means less time in the kitchen and fewer dishes to clean later on!
 imageSrc: /articles/one-pan-dinners-fewer-dishes.png
-imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJbACdAYqDkoor1MaoAD+1hF3+W9g32EleAVMg48wGJ4xe4AAd4NLm45gglqk8jK99yRBSz5/y57gT0fWPgfQ+JJ/bNZwg3vt/52Mxgv6NpnjM8Ibf/iV/JtdA2/4NdBD2JmZQAA=
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJYgCdAYv1yeGxcwwW2AA/viqtTv30vzD5bc/n8ue38T2kzkU5Zkc/kWVlNqT48Hm/8aL8Wl5EK6V9Hm5rbOuUDGkHE9HAIBAuk/Zn5lbKHz/5KcCBH3Ox0bKMD2sV9cmTMX+9smWzeY3sfLfIahaSFtkwAAA
 ---
 
 ## Why we love one pan dinners

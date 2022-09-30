@@ -19,7 +19,7 @@ intro: >-
 
   Both trends impact how and where we work, who is looking for work, and what skills are needed to succeed in this environment. Are you ready to adapt your career in response to these trends? END
 imageSrc: /articles/the-future-of-work-telecommuting-and-the-gig-economy.png
-imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAACwAgCdASoKAAoAAUAmJagCdDBLyUxl4BBzm6y+HwAA/vNnx+p9tP5rxitQdwD5LqzxZcS1i4ex4ulgwF+fD/LNhvjr9nn/3n89n8//+ZJPcJMKV7/xckNeH4iG6H99C/0AQPLKnWr0Dr9gtLA3yoXysC3l1Cc2lJqiFOadB//BXqhqe3M/jg5SKyrwJ5Px3FHh2PzoYZJMgAAA
+imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAABQAgCdASoKAAoAAUAmJbACdLoAAx1mKVq5mYAA/vtjJ7Oulgi8uUSeVNc9IwacLxeDOT6Ey9zj+M3z8/2Don9n1pB/xTVercWvwCjJ9nXEdaMuX8mBgyDIvrp75lzrsoiCN1AlGxZUmWCot/+kv3/uMm/f2gIbqlj9Q/yckmDoMfP/4N/8J/m0ASB71hP3zomfybJIOOr7mAAA
 ---
 
 ## Telecommuting

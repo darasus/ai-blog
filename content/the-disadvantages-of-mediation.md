@@ -25,7 +25,7 @@ intro: >-
 
   Keeping in mind what might go wrong at mediation can help you identify weaknesses in your case and prepare accordingly. After reading this article, if you feel more confident about proceeding with mediation as your first course of action, we suggest having an attorney review your documents before signing on the dotted line.
 imageSrc: /articles/the-disadvantages-of-mediation.png
-imageSrcBase64: data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdLoAAzgdZinrHbAAAP7qyakUv/0Fa2L0/+Sncws9r9/jQVpNjqyeFlEiJpiDrez6Wz9lD+ehfKNSFzV3cbVhgtnfPbEAUO4o5YPwwd74t8p/+0IkAQDfnAS4xt7Bd/7OSTvHkpuqv/5nNZPkVV8kwaAdxUf/lQ/1J5nX+igAAAA=
+imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQAgCdASoKAAoAAUAmJZgCdAYs3kgF4G8AAP78/sx8sSFN0K98UXW/Fp08BH47bU367Pz/lSvKn1R3d9ZTuP1lE55MLz9f84I/MX/9GDiC/E+Z09UqTFqt4oiBE6OsJspxMCe0J+rCHHtpznWt2uomokDc9T0okIe2Spbvu8a5n7sncAA=
 ---
 
 ## Mediation Has A Low Success Rate

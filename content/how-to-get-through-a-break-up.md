@@ -21,7 +21,7 @@ intro: >-
 
   If you’ve recently broken up with your partner or dating partner, it can feel like the end of the world. But it’s not! A relationship coming to an end does not mean there is something wrong with you or that you aren’t good enough for anyone or that you will never find love again. Your heart is broken at this moment because you cared deeply about this person - now you just have to understand why and how things went south so that it doesn’t happen again in your future relationships
 imageSrc: /articles/how-to-get-through-a-break-up.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJZgCdAELKM0C6ZAAAP78QpX/tnLF5/lnY7xn9xn70sW9q4fp/Z5DQWfac4nItcWmHu48/v46p3edJ8fY0lf45yIbDm/iyvW7vkguTC93MEjOIMKlf+Pc2PgunxnCCDqt1v5SYOTXG6+0cM1bT++AdoAAAA==
+imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJYgCdAYvXuKPWDSItAAA/tc/5P1LIpMWriuJuY7qKCJh6yn99mmqO9pzxkZiMrCj1k73u/3yq/YBMvVOYjw+ec+3Ofml4lMpp7cpptl58t/ryn1SU5VY8FSaDGUTEzIhcR7lVknsgCbkU2JCWGFGQEeQAAAA
 ---
 
 ## Talk It Out

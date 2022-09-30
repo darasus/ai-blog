@@ -21,7 +21,7 @@ intro: >-
 
   There are many ways you can keep yourself on track and maintain concentration even when there are so many distractions coming at you from all angles. The trick is in knowing what they are and where they tend to come from — and then arranging your environment accordingly to prevent them before they have a chance to catch you unawares.
 imageSrc: /articles/how-to-say-no-to-distractions-and-stay-focused.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAQCdASoKAAoAAUAmJbACdAD0Zz/mmAAA9x8wXyQHMNco5T6rUGyihuKX2WpUl8en4brhG7bbE+hrVIi7yeoe/ZkryRwr/Yic2gCn22Y5tLG4v6hslvIYoEo9Fv/2Yb9zT8Bkts2JGPv9/lRa/0N//BVey78m/1AAAA==
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEXZvsW5JE2AP7okBET+MrPDONRFOsOzhj/iyvCNDe1xZMz1ETIL5WaudwVzXwh6aVPX5YIl13N53i7tf32S4/JvHXN9CBc3//TF8uH/uU627e+f31y//wbz1+/zeC9/JuzIAAA
 ---
 
 ## Have A Plan

@@ -20,7 +20,7 @@ intro: >-
 
   On "7", they go back to the basics of guitar-driven songs with Elizabeth and Alexis playing almost all instruments themselves once again (with help from some friends). This gives us a fresh take on their usual dreamy sound - intimate, raw and personal.
 imageSrc: /articles/beach-houses-7-is-a-dreamy-masterpiece.png
-imageSrcBase64: data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoKAAoAAUAmJQBOgCFsKh0B0AD+Ztw+W3Fto02MsTe3VompTdRIgG6lw23TPnNcNR3S73SOPgcLENysu/Tb49FPvlxLNgNtmVh3/wWtO4rGf2G35HgAAA==
+imageSrcBase64: data:image/png;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoKAAoAAUAmJaQAAudZ/WMQAAD+/qwqgKRq7K71mcin9tZ1P5AAAA==
 ---
 
 ## Track-by-Track Review

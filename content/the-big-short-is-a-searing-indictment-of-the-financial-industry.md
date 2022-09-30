@@ -21,7 +21,7 @@ intro: >-
 
   Unfortunately, that last part is not hyperbole. The actions of unscrupulous financial engineers — colloquially known as “bankers” — led directly to the Great Recession in 2008, which cost millions their jobs and homes, while triggering widespread deflation and anemic growth throughout much of the developed world for years thereafter.
 imageSrc: /articles/the-big-short-is-a-searing-indictment-of-the-financial-industry.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJZQCdAD8LuhbpDVAAP76n2dexO1//Stm9LEj+fST6bBDs4y3ENPn+GiwLinkVeNe/D3QeAhS3chkecmSBo1ZbAph06+Ho2YzAhKxNKWgX94gAAA=
+imageSrcBase64: data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJZwAAwFuO8UCtqAA/vBNSB+cO6f+NNSaf+w6+m86y/UJQBJpOvdS9ETv43le3LeTRCyWkV2ikWjnVzXtx8/bAP81qElj06Bs4gfoW/9xcVATnIVONxkgjRuI8hvcEAA=
 ---
 
 ## The Big Short is a searing indictment of the financial industry

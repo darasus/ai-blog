@@ -20,7 +20,7 @@ intro: >-
 
   Thankfully there are ways to reduce your risk of contracting these viruses and being able to recover quickly if they manage to sneak through your defenses. Cold and flu season brings with it stressors like school, work, family obligations and end-of-year deadlines—not exactly ideal conditions for keeping your immune system strong!
 imageSrc: /articles/how-to-stay-healthy-during-cold-and-flu-season.png
-imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJbACdAYs3kwrnmAAAP7CEvzPZIHkw9sWcOIvYf760OIezd3cZ1mBVfqqJ1TV69Zgl52FCxLJ37WUdT+FDS8YDQ6xi+ijFNPg4lf+aP3IYubGViAKIn3352eOKw3wro2q/7iUfv3+f8wyxif5P/k25gAAAA==
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwAgCdASoKAAoAAUAmJZACdAYs3bMZPSYggAD+bJRvcn/+jP5XC9zsklU9+lx6jIU3v0SShWgjScbI88+9F561qAkm1u3fIwqkqQU0e1J9Mfph72i6U9I1wj09yf3ZB11SVIK0L693TjNHKj+/rW3flDrtPl89fr0iWG89LY11IfBsSUjNmXn0AAA=
 ---
 
 ## Stay hydrated

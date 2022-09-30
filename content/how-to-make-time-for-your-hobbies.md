@@ -23,7 +23,7 @@ intro: When you love something, it feels like there’s not enough time in the d
   measure right now, there are always little cracks of space that can grow and
   expand into larger windows of opportunity.
 imageSrc: /articles/how-to-make-time-for-your-hobbies.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdAYt9vuOmCYaeAAA/vw67/lzjaA6ZJFJpMg3PxPegOMQL/+IbPt4fnlPpJcr5icbtmVH/Zux4FvZmLwZeiEvRPNiUsBz8PVb7xvoBUiM8/3cEud8v5QIv8G/94BDBl8Xd0t0QCZZqCCt9UAA
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJZACdDiAAUWQ/4j7WgD++Vavg490Q81VWVga3i62V6iiWTPyofVAfAk7DKF57k7hw9hez7T2unZEpFB1A//c2aNxb5vsJURzeNb38mYr9TJWv+TAz/mnwxLOmJJ24f9Tkkh0xOC/phjz2ssfOTeu4tgAAA==
 ---
 
 ## Cut Out Tasks That Don’t Contribute to Meaning and Happiness

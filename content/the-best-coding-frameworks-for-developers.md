@@ -18,7 +18,7 @@ intro: >-
 
   The solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you’re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.
 imageSrc: /articles/the-best-coding-frameworks-for-developers.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAQCdASoKAAoAAUAmJaQAAlnDS+mAAP7+kWtNRUjJ9e/5/xCATYiMhbgfI40KVrw3dkPjtK2nCzmRiu7/lU2nA5cHQk5vcGCgRzSo2e7TLZvznbtPwcylLCjJAAAeAAA=
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJYgC7ADdcB+zWgAA/v1BGXL18wcQIP+hNmHkUVKe+BrgmCiawrT34v398pwgZpPMTxofKZF+cV8b4q/O1J/F606gRfFt6Y8NmBlTEBWfsvK/D+4Y64AA
 ---
 
 ## What Is a Coding Framework?

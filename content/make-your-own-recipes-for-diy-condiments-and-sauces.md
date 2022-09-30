@@ -21,7 +21,7 @@ intro: >-
 
   However, we all know that homemade versions will be much healthier and fresher than anything you can buy from a store shelf, so why not take 30 minutes from your busy schedule to whip up some condiments? The good news is that many of these recipes are super easy to make – even if you’re a complete newbie in the kitchen. From sweet chili sauce to mayo, here are our top 10 homemade condiments and sauces you should try making today...
 imageSrc: /articles/make-your-own-recipes-for-diy-condiments-and-sauces.png
-imageSrcBase64: data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAgCdASoKAAoAAUAmJZACdAD8LixkTNb5wAD+76qEZdGs3njlz3dzRyfTvroG3TcAlQr2XWUgnP3Q2Gnv62rvxdHr3XqVwmbIfu/2XM8/uLQ+NPnyTHEdL8c3C9g0kNQsaVw/xMc69yCW5p6syy+/3zny9apdGiHiWI7COSAaRcWNa/z93vdGHv5n/r6+f5bz8QmJGZIAAA==
+imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACwAgCdASoKAAoAAUAmJaACdEf/i1bu2ZeX5T7D7AAA/vm5cUQExHKvIgAogo2pCcU4fSsaa4HMP6f7ePUoIj870lA1j3dpfx/Av5scyprHdgISVOghGvfvaaltoqwF+TRZK2CdEufufN77BNeYyfHdXfYAcK/bhPujfyaU9UZ+hFn+0lVH2E+HdAAAAA==
 ---
 
 ## Ketchup

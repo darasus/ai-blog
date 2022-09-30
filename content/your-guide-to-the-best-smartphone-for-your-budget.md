@@ -21,7 +21,7 @@ intro: >-
 
   If you’re looking to buy a new smartphone in 2019 but aren’t sure where to start, read on to discover our guide to the best smartphones in 2019, broken down by budget.
 imageSrc: /articles/your-guide-to-the-best-smartphone-for-your-budget.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoKAAoAAUAmJZAAAt469i5xoAD+/KPDfxQrc6Dm1THzv2+FnmY69KXvohhzGgZ+VDtb7pen4otdxs+jy7RpISgF8D1nUpLYeatpYh66WKZ//stfvKP+FS+wAAA=
+imageSrcBase64: data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwAgCdASoKAAoAAUAmJYwCdAEfn7eHlz3pFAD+/svuZf94WmP1+fiPl/OJwVLVnxnBkb3+pLv8d1JU/ni5zChmcTYPnL011v4/D5xZ3z0RZkfhAcKF9gD/xI+tL2o8+APfSmXxCoTpIp6k5i/fXS6fwv/n/i3EY+AQsc2btv/6f9X3i/zOyEzAAAA=
 ---
 
 ## What to Look for When Buying a New Smartphone

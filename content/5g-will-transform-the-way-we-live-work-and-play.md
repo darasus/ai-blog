@@ -17,7 +17,7 @@ intro: >-
 
   Even though 4G LTE coverage is widespread and newer 5G networks aren’t quite ready for large-scale implementation just yet, carriers around the world are already testing out pre-Release 15 5G network services. Several national operators have already begun deploying their 5G network infrastructure, while others are set to follow suit in the coming months. The race is on to lead the way in this cutting-edge technology and reap the benefits that come with it. It’s a fast-moving space, so here’s everything you need to know about 5G and when you can expect it to launch where you live.
 imageSrc: /articles/5g-will-transform-the-way-we-live-work-and-play.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJZACdAEOeqkk3PkAAP77DAbuUAIzCEGIXOQTdl5t4oByvt/zvIkecZnGy3SwvPth8ulA3w/rkPhqSHaAcO70hk/lKcr/2m/H+i6ef+/+PWhexaufU87WUQcPAgAA
+imageSrcBase64: data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAABQAgCdASoKAAoAAUAmJbACdDBAAUdwHoeFWgAA/vpZ0SI6Uzf/UO6rqMf6fcTG5Jev6/QI3m/X/smv5r1+9rOlilhsfZ+tOJc6fjs9yLxwFd9KPMOFCZnSJ/MBa+P/mZa7QqVas+TShtTZ33BHf4R1761yp/ZSWVpg1P4N/8Vc6c/1ign/z/B/n+3axtHT+Yl0P/JyZZvbCmAA
 ---
 
 ## What is 5G?

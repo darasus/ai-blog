@@ -22,7 +22,7 @@ intro: Today’s workforce is undergoing a transformation unlike any in the past
   positively and other negatively. Keep reading to learn more about how AI is
   changing the workforce and what you can do to stay ahead of the curve.
 imageSrc: /articles/the-rise-of-the-machines-how-ai-is-changing-the-workforce.png
-imageSrcBase64: data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJbACdLoAAwi2PxHgAP74p+5trBGQSNT4+AuHEtE70P/Kl79sOGNg+VeN3tNPz5jkiaMu3PuoY/ev76O1S++uLuUd20r2qvu7nrsRMrx9SjeGLrr82dTT7ob2YdVcI9//C6OM6rcDmicZwEH/9GcFfwb/6SAA
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJZACdAD5j17UZJ6WmAD+9WC66am6X7b1QgVa5qS0kBDgxe+ZQUYDDD15Yt1hDrC9mdP1/L+9P//iR9kS1It/8ssB9C6Lz5qg/97nV5/FALsDNqDb3A00/fS4DR8PgSJbI36DyqNdwAAA
 ---
 
 ## What is artificial intelligence?

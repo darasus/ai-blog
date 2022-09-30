@@ -21,7 +21,7 @@ intro: >-
 
   With this blog post, you will discover everything you need to know about the future of AI – its benefits, limitations, current uses, and potential applications. You will also learn about the scope of AI technology today as well as its evolution over the next ten years.
 imageSrc: /articles/the-future-of-ai-how-ai-will-shape-our-world-in-the-next-ten-years.png
-imageSrcBase64: data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwdHumh8AP71/3ni1P/z8LXU5LXbRyB9RyhDDL1WGqWDY/0LFXKeNeoR/k+SNyjzppKmLgfRVCzGDGpUM2Iy/2jPV2A1F5bmD5P/mex1v7/8KLRNfL7/t5/+QiQBhR+vKS676ZxNYAAA
+imageSrcBase64: data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdLoAAnHQAaIAAP77cai6y4xXdn+HNr501uT9GVM6AQfNrz7QTnyjOTyHtT4Y+T0ISuoCKG0Houfd56i7U3rH//rbvMNAADWefDBQL/+aEhS5LntSfFn1/xNPBFtj5k1KAAA=
 ---
 
 ## What Is AI?

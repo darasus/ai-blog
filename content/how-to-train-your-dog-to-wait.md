@@ -22,7 +22,7 @@ intro: >-
 
   As we all know, puppies don’t come with instruction manuals. Even though they’re smart animals, they also have their own ways of doing things that can leave us scratching our heads at times. They are not always willing to do what we want them to do with ease and grace.
 imageSrc: /articles/how-to-train-your-dog-to-wait.png
-imageSrcBase64: data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJQBOgCHpdXbdFsIAAN5iTbfcGIkyTiaK9aHuId0fkZGm0skj9Nx7FBdD/7q5Di+fxvqV62wX1wJU1CMSWOfDUEfWgeSfYKRNT18YJB3P5FBAAAA=
+imageSrcBase64: data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJaACdAYrxlHzTMoEsDgA+3PKFUN69XSPx5obemmhFH/TDnbOR6nBqivtD2R/pg5WJe/4Yfw734OgAHUBfR/P6LJPSfyPzRNq3T9hXGnlhofbXcd9mFQA
 ---
 
 ## The Basics of Teaching a Dog to Wait

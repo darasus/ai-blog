@@ -22,7 +22,7 @@ intro: >-
 
   In this post, we will share some tips and tricks that will help you get the most out of your smartphone. Keeping reading for useful advice on how to use your smartphone more efficiently, how to store photos properly so they take up less space on your device, how to download apps that won’t chew up memory unnecessarily and many other helpful tricks you didn’t know about!
 imageSrc: /articles/getting-the-most-out-of-your-smartphone-tips-and-tricks.png
-imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLcAAWl3uc1dTAAA/PWN8yG2oi4jcHH76Zi4ClsrqoYM414fw0I1wXNO3kzpUvn5GLwhW0LB9hj/DmnP3gS5rFdGFc2wiBHRdoEv3/v/8/+f6++/5gP5/59qL/PbGn2x5c//Jv/aWAA=
+imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJZQCdAYst1I6/KX+zjYA/v1Qn2Z+eNiMThV8SP6n95xTkkhr0n2n/1gn14f2Sf4n7uG9ehX0B+OKgURk7GW48fS025tq22Tx373FPq1rovk/AqmVpOyFMZXktVEy2kodVOKoja7WYZ/FZAAAAA==
 ---
 
 ## Use Battery-Saving Apps

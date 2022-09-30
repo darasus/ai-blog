@@ -19,7 +19,7 @@ intro: >-
 
   For those who aren’t familiar with the show, The Great British Bake Off is a contest where amateur bakers are tested on their baking skills. Contestants are asked to make pastry-based dishes that often feature unusual or difficult techniques, and are judged on appearance, taste and originality. In each episode they face two different challenges: a Signature Bake where they must create something using a specific ingredient or theme as inspiration; and a Technical Challenge which might see them making croquembouche or another difficult dish.
 imageSrc: /articles/need-some-recipe-inspiration-try-these.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAACQAgCdASoKAAoAAUAmJYwC7AaW7nGcFEaL+HBdAAD+8b/ijAKQk1JAS6Z2jaXtWkVi/l0+R//dzFv+ArYgSv+5w8ul8QacIoWNBn0agOPLCSXZGR2vumPS/418jCF4bLZkDjkErVNE91aXhKWtFasKjg8N4rnOqJcDOAY+7weNEJ8AAAA=
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJbACdDBKAZmOx8xeewAA/vdbFWN+8bocy0f5F9JG/HVqrmfnlq/SHf7NVLjhaEZS3gl7OoZ9y2hWK0fkQcYWaisK/WzpkFYKP8jSTHkQ3X/P/yTz+ygAAAA=
 ---
 
 ## The Great British Bake Off — Episode 1

@@ -21,7 +21,7 @@ intro: >-
 
   The answer is simple: Healthy snacks! Think about how much time you spend away from home throughout the day – whether it’s at work or school, there are plenty of opportunities for snacking. In fact, keeping healthy snacks around can help boost your energy when you need it most. Check out these top-rated healthy snacks that will keep you going all day long…
 imageSrc: /articles/the-best-healthy-snacks-to-keep-you-going.png
-imageSrcBase64: data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQAgCdASoKAAoAAUAmJbACdAELVnbx9b0AAPzvH8YtpS43BswStkDnANLde4BP4DueB+Y4jqjDbRKqFbV61SP0YMmz0KuuPkevDScjymRyasK4eRmV8TvjFMNwZ5zymscdFTfPsz4vKvn/9Dc3v/nco4S/wn7jL+L/wcklhV3/U35eAAA=
+imageSrcBase64: data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwAwCdASoKAAoAAUAmJYgCdGuAEGH5DLfADgke0Yo7f/wAAP7+xRkWZJfWWnk3io9NM1kadef/ROomelvmGQ9WGKgCPE95f9rZVMzAl3jXwK5so+FXYO7s6bPDXz5UFPfMNeNd7XhMSLw+53/tLdL650QTGqcYzoyg1z9TiyZHXkdOtdKhmBMnoHPO18fYve9Gg7c5MeHdDyeVAAA=
 ---
 
 ## KIND Bars

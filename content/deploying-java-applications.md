@@ -23,7 +23,7 @@ intro: >-
 
   In this blog post we take a look at several different ways you can deploy Java applications.
 imageSrc: /articles/deploying-java-applications.png
-imageSrcBase64: data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdLoAAw14v0qAAP75UyEZtQN052mR/+T9w2DE8UH7PfcaFXm8HoAFVw3rQX3/i+QNW3e3/U5JP1j7/f/u2Zl0Ud4zP/Win/6FGsbf/GVP+LmAAA==
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAELVwDGyogAAP7+nwtjfrCVY0iKfvCGpF+6a9p9cX/Nd7eYDaef/2uU4CjRAP3S65vqP7WsoMs61frLcVVFvmAQGCI4i+QCoBY0dEejsumbX7PNQeaawWNTvCKC+MV2XYsxAAAA
 ---
 
 ## Manual Processes

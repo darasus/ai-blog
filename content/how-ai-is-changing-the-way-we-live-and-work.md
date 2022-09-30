@@ -19,7 +19,7 @@ intro: New artificial intelligence (AI) technologies are automating tasks once
   guide covers everything you need to know about how artificial intelligence is
   changing the way we live and work.
 imageSrc: /articles/how-ai-is-changing-the-way-we-live-and-work.png
-imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJQBOl0AAYO7+HjgAAP77iV71cy31p4pH2ta8Ej4kCWaBYgsPyizJK6S0kMadic5E90R8ySWrAmKv8o8CnHqTT758DVjsPtD/xQmRfF6RH1z5P660q4YAAAA=
+imageSrcBase64: data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJbACdAEOPHdoqXIAAP70ByP7FCfPf4+GOd95aoPGErxiWSWbbGguxOk5qSLCNmoFn8ajBUs7Wy7MIW2TIxBDxo/5ldZuN3TzoPInXQtNmgjs/l+r/8FeZav5gAKh/98U9B/Xzuv5N6kAAAA=
 ---
 
 ## What is Artificial Intelligence?

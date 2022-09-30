@@ -21,7 +21,7 @@ intro: >-
 
   And yet so many of us do manage to get moving. Yes, it might involve setting your alarm an hour earlier than usual, waking up on Saturday morning instead of Friday night and putting in some serious dedication — but it is possible. So if you’re struggling to find time for the gym here are some creative ways how you can get moving when you don’t have time for the gym:
 imageSrc: /articles/how-to-get-moving-when-you-dont-have-time-for-the-gym.png
-imageSrcBase64: data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACwAgCdASoKAAoAAUAmJbACdLoAfgeRDZgceeDOUcAA/uidD2aqoFbASs1J63plk82FwIoSDl8RxgH+wSwP4XFbfCwElaqqjpt16OJf4C3xxfZmWwv4GjH/Zi0N32+Mqme0l3f0ZEYWJ2gjXfg38v//0dfmH6PIPkXf/p7aSzUVUf/Dpdnv6m/+kgAAAA==
+imageSrcBase64: data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJQBOgMWvwORtYXlGeAD+/p7hDf5DvdDNVaGb5n/917cl1mU/yUAh9yNCEyX4kcPqHs5Ouv9sHcerzCWOaTktAvqws+P5DNG6/9tVr7GVsni5q1iHlGxVpp3/HWACt2xymadRaXQkGQXboOlUkss9ZMAAAA==
 ---
 
 ## Run On The Treadmill

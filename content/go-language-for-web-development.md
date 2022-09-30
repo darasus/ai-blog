@@ -22,7 +22,7 @@ intro: >-
 
   There is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.
 imageSrc: /articles/go-language-for-web-development.png
-imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJbACdDBKwUdDgev0wAD+/iwg1I1rITetW/lQORJi8/Sp6n/+slhYfvQfsLcrjF6p2tt94fpjUsxq8PmA9Zh38ghIn3EJ8Estdscxq/dj/7jLmvxf8EIhYN8zYTW1/g7uZpeOlQEXAAAA
+imageSrcBase64: data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJbACw7ELYXBwrgAA/v6Bx5bmvUL+oKDvSJogdXwc7qyHq8cGnt2cK9zfeQm01AH/iGKy3JsWYaVsnv/kV+zE/8f9cn23zH6jU1NsRBRqQ+AA
 ---
 
 ## What is Go?

@@ -23,7 +23,7 @@ intro: >-
 
   With all those elements combined into one production you have something like “Them” from 2013 or any number of other films where monsters are revealed to be aliens or humans who were exposed to some sort of virus that turned them into beasts. But then again… The Babadook doesn’t exactly follow the same formulaic structure either.
 imageSrc: /articles/the-babadook-is-a-haunting-and-original-horror-film.png
-imageSrcBase64: data:image/png;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAAoAAUAmJZwC7AELM3YLwAD+/NP2IPuJ/JjFucNfuBMhrRdBwuG8X3+z8mX0GGc9NSh8iD76iS+AAAA=
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJaQAApzX9pK4sAD+9WC/7T2+m4BVmt/2ofzftFzoKuVTY/cGn/tq1lemEMQiyPsWg3Iav373NT9fmEub7Rzb8H+5r/q0D3Kn58G63Q/zzOx19ZnjX/NNII7H988lvzA5viaIQasqySAA
 ---
 
 ## A Babadook by any other name would be just as frightening

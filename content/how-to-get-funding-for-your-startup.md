@@ -22,7 +22,7 @@ intro: >-
 
   However, finding the right type of funding for your startup – and in the appropriate amount – can be tricky. There are many things to consider before committing equity to someone else’s idea or launching a crowdfunding campaign. Making the right decision upfront can make all the difference later on, which is why we’ve outlined some helpful information on how to get funding for your startup.
 imageSrc: /articles/how-to-get-funding-for-your-startup.png
-imageSrcBase64: data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJaAAD5JwbhCAtHAA/vz1v9Mfj6KX1r9BGms8wIyvec0iYvgv3Q2EoZSEdD4NkhXrqkUj4r17x2V3ushNTVecTz/w6PgpiTf/U1949NJOzY6khk7H/zrKyj9xAAAA
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJZwCw7YtBuKwVDLHm0AA/vZ+coK5z0SyJOeqv6RYy2K6597MD1Bb4pVk4FSX8eaZWGhLnNz/fE9JtbLoTRr46d/+OiZL+K7mUNd98UP8xLdkSCEZThEZrjEQFA34+rYoorAVeSZcAAAA
 ---
 
 ## What Is the Right Way to Get Funding for a Startup?

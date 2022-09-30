@@ -21,7 +21,7 @@ intro: >-
 
   But where should you start? Fortunately, there are plenty of accessible resources that can get you off on the right foot with your investments. Here we take a look at some of the basics of investing – what you need to know before getting started.
 imageSrc: /articles/the-basics-of-investing-what-you-need-to-know.png
-imageSrcBase64: data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJYgCdLoAAv4dYKknmAAA/u2qc2oLifTNefy5Y9nppuOJn67vlX5+GPb+0qQB/zixiUTU21ESISu6coaCHh8NjQNxu+2BnbmOc3K8udUmUw3W8OxA/Nr9J7iQAA==
+imageSrcBase64: data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoKAAoAAUAmJQBOgBuVMmRBGAAA/vQG79jD4iTg/1+l//afTbeHmcN5qb4CK59rrG/7jz4DlLa3/aa864ZLtu6nAa9ubyZ/8c0/1R+0AwkTd/KUZt4f8n+19GtVwi/2xylan2LI2cNIAFDQaZ8cAAAA
 ---
 
 ## What is investing?

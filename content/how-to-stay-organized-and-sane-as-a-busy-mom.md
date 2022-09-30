@@ -18,7 +18,7 @@ intro: >-
 
   Being organized doesn’t mean that everything has to be perfect and in its place all the time; it just means being intentional about keeping things tidy and streamlined so that you have fewer distractions and can get more done in less time. You see, staying organized isn’t about checking off boxes on an organizational checklist for your home or sharing with friends on social media; it’s about streamlining daily routines so that you have more time for what matters most.
 imageSrc: /articles/how-to-stay-organized-and-sane-as-a-busy-mom.png
-imageSrcBase64: data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAQCdASoKAAoAAUAmJbACdAD5hIkoCdAA/tc82douL/+cHEqr/fj/yD95b2FNGvnja626CRR76RxlpGZbhvKPtZN7dxQ0t11nRtW293GsQf9YoB0/r0i5T/asjP829Pl+1+/iufOw7viybZ3Cj6DxBINYfCnxR0AAAA==
+imageSrcBase64: data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoKAAoAAUAmJYwC7AEVjdEoYcnoAP7+Acpj0MsdB2vhERlXd5oks6m9sDQTohUXPRrG3IGtEcLkNGZEtHc6kZgT5ddxZHAA
 ---
 
 ## Weekly routines

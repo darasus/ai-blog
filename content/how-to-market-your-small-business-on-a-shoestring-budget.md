@@ -21,7 +21,7 @@ intro: >-
 
   The truth is that launching any kind of business – even one on a shoestring budget – requires some upfront investment. But don’t let that stop you from moving forward with your plans! There are plenty of ways to cut costs when starting a new business and still have everything you need to be successful. The trick is working smart rather than working hard. Here are some tips to help get your small business off the ground quickly and effectively while keeping costs as low as possible...
 imageSrc: /articles/how-to-market-your-small-business-on-a-shoestring-budget.png
-imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJYgAD46wgLVRWyAA/vTHb45TX0vl5jZ2w6VHoycPnP8WAbxyO1KYIBQ/f/f7OKgNXyS3eMvnbpmDgtNR2O9V5jlHWf5jwre4uXk6VU5YxfBRNl1D+f86wTAbR2GHsLp3NAAA
+imageSrcBase64: data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJZwCdAYvXyHvVRbnAAD+51h+OD5apxSn3angv/gm3ngvws76i7zIsqxhrlldeN2db5wafxYUVMvOCkEf3HnYj9b4pFfO93GNlY2CwRbEmAgAw9opfEAmwAA=
 ---
 
 ## Start With The Basics

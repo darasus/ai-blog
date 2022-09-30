@@ -25,7 +25,7 @@ intro: In this digital age, data is everywhere. Whether you’re using the
   article, we will explore what makes Python unique and discuss why it’s such a
   popular choice for programmers today.
 imageSrc: /articles/python-an-overview.png
-imageSrcBase64: data:image/png;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoKAAoAAUAmJZwCxC8AHIAA/vyciP4F4V+YKe/vxwcut9p9CYy/3Si6G2v+v4wVDfaAAA==
+imageSrcBase64: data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJYgCdAYrxbWMs9fsVAAA/k3mnIXfnkh33NUnFYgFFTw2+cEL8A5WyTsSzzVwIYxDH4XcSJ1lxrx7wiKiryHrP6/leg3/A57B3U7b+N/rCtxn0orez9nH7Sj5y2yEGvR8ugAA
 ---
 
 ## What is Python?
