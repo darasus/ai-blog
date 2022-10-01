@@ -13,7 +13,7 @@ interface Props extends PageInfo {
   post: Post;
 }
 
-export default function Home({ post, data }: Props) {
+export default function Home({ post }: Props) {
   const router = useRouter();
 
   if (router.isFallback) {
@@ -42,10 +42,10 @@ export default function Home({ post, data }: Props) {
       />
       <DetailedPost post={post} />
       <Divider />
-      <PostListSection
+      {/* <PostListSection
         title={`Other in ${capitalize(category)}`}
         posts={data}
-      />
+      /> */}
     </>
   );
 }
@@ -63,16 +63,16 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 
   if (!post) return { notFound: true };
 
-  const posts = await getPosts({
-    locale: ctx.locale as Locale,
-    category: post?.category,
-    excludeBySlug: [post?.slug],
-    order: "random",
-    numberOfItems: 10,
-  });
+  // const posts = await getPosts({
+  //   locale: ctx.locale as Locale,
+  //   category: post?.category,
+  //   excludeBySlug: [post?.slug],
+  //   order: "random",
+  //   numberOfItems: 10,
+  // });
 
   return {
-    props: { post, ...posts },
+    props: { post },
     revalidate: 60,
   };
 };
