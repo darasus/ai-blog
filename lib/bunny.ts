@@ -25,5 +25,5 @@ export async function uploadImage(basename: string) {
       },
       body: base64,
     }
-  ).then(console.log);
+  );
 }

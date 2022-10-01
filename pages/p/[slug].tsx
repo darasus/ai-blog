@@ -8,6 +8,7 @@ import { getPost } from "../../node-utils/getPost";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useRouter } from "next/router";
+import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 
 interface Props extends PageInfo {
   post: Post;
@@ -52,9 +53,9 @@ export default function Home({ post }: Props) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    paths: [],
-    // paths: await generatePostPageStaticPaths(),
-    fallback: true,
+    // paths: [],
+    paths: await generatePostPageStaticPaths(),
+    fallback: false,
   };
 };
 

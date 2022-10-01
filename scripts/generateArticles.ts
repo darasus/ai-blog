@@ -9,7 +9,10 @@ import { Dalle } from "../lib/dalle";
 import { imagesPath } from "../node-utils/paths";
 import { Translate } from "../lib/translate";
 import { Ora } from "ora";
-import { Locale, RawPost } from "../types";
+import { Locale, Post } from "../types";
+import { serializeMarkdown } from "../node-utils/serializeMarkdown";
+import { uploadImage } from "../lib/bunny";
+import fetch from "node-fetch";
 
 const ai = new Writesonic();
 const translateAPI = new Translate();
@@ -28,7 +31,7 @@ export async function generateArticles(spinner: Ora) {
     const response = await ai.generateArticle({
       title,
     });
-    const { imageSrc, imageSrcBase64 } = await generateAndWriteImage(title);
+    const { imageSrc, imageSrcBase64 } = await generateAndUploadImage(title);
 
     const basePost = {
       category,
@@ -38,7 +41,7 @@ export async function generateArticles(spinner: Ora) {
       updatedAt: new Date().toISOString(),
     };
 
-    const post: Record<Locale, RawPost> = {
+    const post: Record<Locale, Post> = {
       en: {
         ...basePost,
         categoryLocal: category,
@@ -46,8 +49,9 @@ export async function generateArticles(spinner: Ora) {
         locale: "en",
         title: response.title,
         summary: response.summary,
-        intro: response.intro,
-        content: response.content,
+        intro: await serializeMarkdown(response.intro),
+        content: await serializeMarkdown(response.content),
+        relatedArticles: [],
       },
       es: {
         ...basePost,
@@ -59,8 +63,13 @@ export async function generateArticles(spinner: Ora) {
         categoryLocal: await translateAPI.translate(category),
         title: await translateAPI.translate(response.title),
         summary: await translateAPI.translate(response.summary),
-        intro: await translateAPI.translate(response.intro),
-        content: await translateAPI.translate(response.content),
+        intro: await serializeMarkdown(
+          await translateAPI.translate(response.intro)
+        ),
+        content: await serializeMarkdown(
+          await translateAPI.translate(response.content)
+        ),
+        relatedArticles: [],
       },
     };
 
@@ -83,7 +92,7 @@ export async function generateArticles(spinner: Ora) {
   spinner.stopAndPersist();
 }
 
-async function generateAndWriteImage(title: string) {
+async function generateAndUploadImage(title: string) {
   const basename = slugify(title, { strict: true, lower: true });
   const image = readArticleImageFile(basename + ".png");
 
@@ -97,7 +106,9 @@ async function generateAndWriteImage(title: string) {
     imageSrcBase64 = "data:image/png;base64," + base64url;
   } else {
     const dalle = new Dalle();
+    console.log("before");
     const base64String = await dalle.generateImage(title);
+    console.log("after");
 
     if (base64String) {
       fs.writeFileSync(
@@ -105,6 +116,7 @@ async function generateAndWriteImage(title: string) {
         base64String,
         "base64"
       );
+
       imageSrc = process.env.BUNNY_CDN + "/articles/" + basename + ".png";
       const img = sharp(Buffer.from(base64String, "base64")).resize(10);
       const srcBase64 = (await img.toBuffer()).toString("base64");
