@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "https://theaipaper.b-cdn.net/articles/introducing-javafx.png",
   "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJbACdLoA1AADq4cU/2gAAP74cHBVebnhbHG6PWddW7uZz6b4fWmtcMi9Q+yxZMC+/BzYy2xSx/+2jW3Dib7E5WB/9KHfkzhON8T3hf9hNe3uVFr/U3/+TZf8mytp+/L88zjV5FkXMRkPf7yXAAAA",
-  "createdAt": "2022-10-01T11:15:05.875Z",
-  "updatedAt": "2022-10-01T11:15:05.875Z",
+  "createdAt": "2022-10-01T11:39:04.449Z",
+  "updatedAt": "2022-10-01T11:39:04.449Z",
   "categoryLocal": "coding",
   "slug": "introducing-javafx",
   "locale": "en",
@@ -16,5 +16,167 @@
   "content": {
     "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))n.call(a,o)&&l(e,o,a[o]);if(i)for(var o of i(a))r.call(a,o)&&l(e,o,a[o]);return e},p=(e,a)=>h(e,m(a));var c=(e,a)=>{var o={};for(var t in e)n.call(e,t)&&a.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&i)for(var t of i(e))a.indexOf(t)<0&&r.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,a=c(t,[\"components\"]);return mdx(MDXLayout,p(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is JavaFX?\"),mdx(\"p\",null,`JavaFX is a technology for creating rich client applications on different platforms, such as mobile devices and desktop computers. It is a scene-based, declarative programming language that is designed for composability, extensibility, and high performance.\nJavaFX can also be used to create applications for embedded systems, such as media players, digital signal processors, and medical instruments.`),mdx(\"p\",null,`As mentioned above, JavaFX is a technology for creating applications and user interfaces. It allows you to create GUIs and applications using a combination of visual tools and code. In other words, you can use a combination of code and visual tools to create GUIs and applications.\nAlthough the official term for this concept is a \\u201Cvisual GUI builder,\\u201D it has been widely criticized for being misleading. The idea behind visual GUI builders is to allow you to create the GUI for your application using a visual interface, rather than writing code.`),mdx(\"h2\",null,\"Why use JavaFX?\"),mdx(\"p\",null,`JavaFX is a modern and standardized UI framework, which empowers you to create simple and complex applications. JavaFX is a platform that allows you to create and deploy high-performance apps that run on different platforms, including desktop computers, mobile devices, and embedded systems.\nSince JavaFX is a standard Java technology, it enables portability and interoperability across various platforms, including iOS and Android. It is also compatible with other Java-based technologies, such as Java SE and Java ME.\nMoreover, JavaFX is built on the latest version of the Java platform, and it is completely open source. So, it is highly extensible and has a large ecosystem of tools and libraries that support it.`),mdx(\"h2\",null,\"Benefits of using JavaFX\"),mdx(\"p\",null,\"Greater control over the UI - You have full control over the UI components, and you can customize them as per your requirements. This is because JavaFX is a scene-based and declarative programming language.\"),mdx(\"p\",null,\"Consistent cross-platform experience - Users expect a consistent experience across platforms. JavaFX allows you to create a single application that provides the same experience across different platforms.\"),mdx(\"p\",null,\"Improved performance on mobile - JavaFX can help you improve the performance of your app on mobile devices by enabling you to offload complex operations to remote servers.\"),mdx(\"p\",null,\"Ease of deployment - Developers often face challenges while deploying apps across different devices. JavaFX simplifies the process of deploying apps and allows you to create mobile apps using standard Java APIs.\"),mdx(\"h2\",null,\"Limitations of JavaFX\"),mdx(\"p\",null,\"JavaFX is a mature technology that is well accepted in the developer community. However, it\\u2019s important to note that it has certain limitations, which are as follows\"),mdx(\"p\",null,`Limited support - The latest version of the JavaFX framework is version 2, which was released in 2014. There is no information available about the next version of JavaFX.\nJavaFX is compatible with the Java platform and runs on any platform where the Java platform is supported. However, it will be a challenge for the Java community to keep up with the latest UI trends and technologies.\nJavaFX is a declarative language, and as such, it is not a full-stack framework.`),mdx(\"h2\",null,\"Key takeaways\"),mdx(\"p\",null,\"JavaFX is a technology for creating rich client applications on different platforms. It is a scene-based, declarative programming language that is designed for composability, extensibility, and high performance.\"),mdx(\"p\",null,\"JavaFX allows you to create a single application that provides the same experience across different platforms. JavaFX is a mature technology that is well accepted in the developer community. It has certain limitations, however.\"),mdx(\"p\",null,\"Despite these limitations, JavaFX is a great option for developing cross-platform, modern applications. If you are looking for solutions to ease the UI development process and create consistent cross-platform apps, JavaFX can be a great option.\"),mdx(\"p\",null,\"Now that you know what JavaFX is and what it brings to the table, it\\u2019s time to explore where it\\u2019s being used. Stay tuned!\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
-  }
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJagCdAEPDvUn4xeAAP5BP7PPJWQa04IvAYq977NyflFNvdcbvfXBR8+H/06B7xqQUFpnSaZyvmEz/G1b0XR8OESztZig97VbOV9zpAC119/wS/ic4q8+W3nscBP//OA/hqAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
+      "summary": "Javascript is a language that is used to create interactive websites and create web applications. Javascript is one of the most in-demand skills in the programming industry. It is used in many industries and sectors including e-commerce, healthcare, education, travel, and many more sectors. There are lots of job opportunities for coders who are skilled in Javascript. You can learn Javascript by following different online courses or through books or through online communities. You should also find a mentor who can guide you along your journey to learning Javascript and help you progress faster.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var g=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&g(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&g(e,n,o[n]);return e},u=(e,o)=>l(e,h(o));var c=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoKAAoAAUAmJaACdLoAEEdl8g1hBIUwgAD+763PpUsEPy/Mqmuz0Slj4olqr3kdN4BHvAO4tJTbxpIqV/5T3+/IHbIOX1tvsfueR8VGjgVex/zxjvupvX/IWTpg/f/zZuEoo7IWBX8VsbvKQLCCrn/y3FA5g/5DcQI5YFxcmm8EvOoeFd/WIYG7AAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-scraping",
+      "locale": "en",
+      "title": "Python - The Language for Web Scraping",
+      "summary": "Python is a general-purpose language that can be used for a wide variety of functions. Python can handle many tasks that would require complex code in other languages. Python has a large community and a large and supportive community. Using web scraping can help you avoid this problem. Once Python is installed, you can use it to start web scraping. To begin, find a website that you want to scrape, find the URL for the data you’re looking for and print the data to the screen.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&h(e,o,t[o]);if(a)for(var o of a(t))i.call(t,o)&&h(e,o,t[o]);return e},u=(e,t)=>d(e,f(t));var l=(e,t)=>{var o={};for(var r in e)n.call(e,r)&&t.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&a)for(var r of a(e))t.indexOf(r)<0&&i.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,t=l(r,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Web scraping is the practice of extracting data from websites. In this blog, we\\u2019ll discuss why you should learn Python for web scraping, as well as provide examples, resources and suggestions for getting started. The world wide web has made it easier than ever to share information with one another. However, that same ease of access has also made it harder than ever to separate useful information from noise. Because of this, many developers have turned to web scraping in order to extract the information they need from websites without having to manually search or filter through everything individually. Luckily for you, Python is a perfect language for getting started with web scraping! This blog will cover why you should learn Python for web scraping and offer useful resources to get started learning it.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCw7EsTAW8AAD+/bpInbikdySjF438xr0S9xESa3mmfjXenv4wz9+3n+48ySau8EmHOvok/+u5FUBQU/1Cc/9GLj/VDB1hsAbY+BP737NFhKy5cn3AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "summary": "Python’s strong core library and massive third-party library support makes it an extremely powerful language. Shell scripts are another great option for system administrators. Using the language native to your operating system offers the most portability and flexibility. Monitoring and auditing are two critical aspects of system administration. There are many tools that can help you to install software on your systems. You should always think about how your software is organized and installed to make sure that it is easy to remove from your system.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(o,e,t)=>e in o?c(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,a=(o,e)=>{for(var t in e||(e={}))i.call(e,t)&&l(o,t,e[t]);if(s)for(var t of s(e))r.call(e,t)&&l(o,t,e[t]);return o},m=(o,e)=>d(o,h(e));var u=(o,e)=>{var t={};for(var n in o)i.call(o,n)&&e.indexOf(n)<0&&(t[n]=o[n]);if(o!=null&&s)for(var n of s(o))e.indexOf(n)<0&&r.call(o,n)&&(t[n]=o[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:o}=n,e=u(n,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJQBOgCHgsX8s91AAAP75WLnzB4u1AjPBDze/1FChU9tganN9P48aTRCJAiQX+xiduAkbbAecOoRBsqXlVv5H7gPBuskQFQAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-code-snippets-effectively",
+      "locale": "en",
+      "title": "How to Use Code Snippets Effectively",
+      "summary": "There are many situations where code snippets are a great tool to have at your disposal. They can be used to add in-line code comments, include code segments, format images, and insert frequently used code segments. Don’t rely on code snippets as a crutch to get through the challenge as quickly as possible. Take some time to learn the basics of different code languages to help you write code that is more efficient and effective. Learn how to read files from a specific file type and how to write a specific program.",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&u(e,n,t[n]);if(s)for(var n of s(t))r.call(t,n)&&u(e,n,t[n]);return e},p=(e,t)=>m(e,d(t));var c=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,p(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAwjmHRBD/6AA/tKByLt1hp4D28reVQVtH6xhve39uC+oAkXtV63q3x+FgJHMjVWjoukwqtkZiSAHM9yoqZqxqMbnLkMljO//Q8nPvf7fWLsi9zv7Pmv/TG+mr8nfybxl7+aMWx5KpF9aY/9nJJt+i189/ljAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
+      "locale": "en",
+      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
+      "summary": "TypeScript is a programming language that compiles to JavaScript. It is a superset of JavaScript that adds static typing to the language. TypeScript can be used to develop any kind of application, but it is most commonly used for web development. It lets you write more accurate code that is easier to debug and easier to scale up. It also allows you to choose between dynamic and static typing so that you can create an intuitive code that's easier to understand. It's a powerful language that can be combined with all modern tools, libraries, and frameworks.",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?y(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(s)for(var o of s(t))i.call(t,o)&&l(e,o,t[o]);return e},p=(e,t)=>c(e,h(t));var u=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJZQCw7EPCKqHJiAA/vazi/03h+b6Vl6VZefSq7uBLR4F4Tk/nhQMjn1u6GHNKlHN9fSWXGy/a5rDzu2zWP3+CHmO33Up5pMcoBBt4uAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "summary": "Kano Analysis is a 5-stage model of product satisfaction. It was developed by Professor Noriaki Kano as a way to organize customer expectations of what a product will do for them. Stage 1 - Basic requirements - These are the basic features that need to be implemented in order for the product to be considered useful. Stage 5 - Frustration - A feature that is missing, broken, or doesn’t work as expected. Stage 4 - Necessities - These. are features that are nice to have but not essential but help solve a specific problem.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&u(e,n,o[n]);if(t)for(var n of t(o))s.call(o,n)&&u(e,n,o[n]);return e},d=(e,o)=>c(e,h(o));var g=(e,o)=>{var n={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&t)for(var a of t(e))o.indexOf(a)<0&&s.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,o=g(a,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAAUAmJQBOgCHhuYTkgAD++8z7GSHsl8sTmh/RXv3yh96W4kOm0c/wb4jdmVfjgSoBfO1bH4IohjAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "summary": "There are many ways to check for errors using the “debugging” feature of your chosen programming language. It’s best to create a variable for every element you want to represent. If you don’t give your variables a new name or “re-scope” them, they will conflict with other variables, causing errors. Conditional statements can be very helpful, but overusing them can cause problems. You can only do so much to avoid errors with minimal disruption to your project.",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&c(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&c(e,t,o[t]);return e},m=(e,o)=>y(e,h(o));var l=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=l(r,[\"components\"]);return mdx(MDXLayout,m(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAELX9QvWjUQAP79KUwXfp/ymKskxIKjXp99l43/hwL3vSa6HV9bpoc8Lx+PYX/MGO2uIJu2uZYg+Q/h1ofZm7pXMb8NH3R8qh3B392/3cAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "summary": "A coding framework is a library of pre-written code designed to assist developers in meeting multiple demands, including ease of use, efficiency, and scalability. There are many types of coding frameworks available for coders working on software projects. Coding frameworks can be beneficial to companies of all sizes, as well as freelance developers and individual employees. You can use frameworks to create apps, build websites, and create software systems. Each coding framework has its own strengths and can be difficult to choose, so make sure you select the correct version for your project.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,f=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,r)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[o]=r,a=(e,o)=>{for(var r in o||(o={}))n.call(o,r)&&c(e,r,o[r]);if(t)for(var r of t(o))i.call(o,r)&&c(e,r,o[r]);return e},d=(e,o)=>f(e,u(o));var l=(e,o)=>{var r={};for(var s in e)n.call(e,s)&&o.indexOf(s)<0&&(r[s]=e[s]);if(e!=null&&t)for(var s of t(e))o.indexOf(s)<0&&i.call(e,s)&&(r[s]=e[s]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var s=r,{components:e}=s,o=l(s,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdLoAAwizdnaAAP74k0YCoDSgZNt8htwulGesezEJ1BMEHybklUFLHM3Fbm9cVFijgZaMTUgYqL/JGfB7BlVR8KdAz3eNHn+q1x/EB9ehOfv7XIf/gsNAp1kfMh28pfAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "summary": "Object-Oriented Programming is a programming paradigm based on the concept of \"objects\" An \"object\" is a combination of code and data, usually represented as a data structure that performs some useful function. In Java, the most popular language for web development, all code must be contained in a class. Java classes must follow specific rules to be considered \"object-oriented\" These rules are covered in this article. There are 7 major concepts in OOP in Java, as well as its pros and cons.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(a,e,t)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[e]=t,i=(a,e)=>{for(var t in e||(e={}))r.call(e,t)&&d(a,t,e[t]);if(n)for(var t of n(e))s.call(e,t)&&d(a,t,e[t]);return a},g=(a,e)=>c(a,l(e));var m=(a,e)=>{var t={};for(var o in a)r.call(a,o)&&e.indexOf(o)<0&&(t[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&s.call(a,o)&&(t[o]=a[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:a}=o,e=m(o,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdLoAEIwXpxFAzlGAAP7xukfoZHGfROt0fjzAUTNq5i8tSZRpvZ5ymU/aA/nOVu1Jmvuet5JYudWEy352559LERr86G0aprREJi3FBRqdfMqq36tO2V2ztm4Xu/ZrP/2Ftb82P9G87Qp/lln/uNN7irz/u1zsp/8ZU/HMpx2PQXmjMRbzL9UIAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "summary": "Go is a general-purpose programming language that can be used to build software for almost all industries, including the AI sector. It is a simple and straightforward programming language, which makes it easy for developers to understand the concepts and write code. The simplicity of the language reduces the learning curve for developers, making it an ideal option for enterprises with a limited AI team. The language comes with lightweight machine learning libraries to implement and train artificial intelligence algorithms. Go is not great for building large-scale distributed systems, but it has some limitations.",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,i)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[o]=i,n=(e,o)=>{for(var i in o||(o={}))r.call(o,i)&&l(e,i,o[i]);if(a)for(var i of a(o))s.call(o,i)&&l(e,i,o[i]);return e},p=(e,o)=>u(e,m(o));var c=(e,o)=>{var i={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(i[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(i[t]=e[t]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var t=i,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

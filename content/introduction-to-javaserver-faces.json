@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "https://theaipaper.b-cdn.net/articles/introduction-to-javaserver-faces.png",
   "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJZgCdAELX9N3InAAAP799thbLZPuCbR5/7h5SUAP/RhuFWQ/5q0QWwkTNYqZeFOYBiHCarwmVnPsH0/GT+XXRI80QtgD1CXvWHRkKTct5IeDGMy/rmtn6g/J2AG21Xwr/wAA",
-  "createdAt": "2022-10-01T11:15:06.786Z",
-  "updatedAt": "2022-10-01T11:15:06.786Z",
+  "createdAt": "2022-10-01T11:39:05.334Z",
+  "updatedAt": "2022-10-01T11:39:05.334Z",
   "categoryLocal": "coding",
   "slug": "introduction-to-javaserver-faces",
   "locale": "en",
@@ -16,5 +16,167 @@
   "content": {
     "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&c(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&c(e,a,t[a]);return e},d=(e,t)=>p(e,u(t));var l=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=l(n,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is JavaServer Faces?\"),mdx(\"p\",null,`JavaServer Faces (JSF) is a component-based UI framework for server-side applications written in Java. It is based on standard Java APIs and architecture that enables developers to build web applications more easily and efficiently.\nJSF is an implementation of the Model-View-Controller (MVC) architectural pattern. You write your user interface by combining UI components, mapping these components to the model data, and then defining the interactions between the UI components and the model data.\nJSF is predominantly used for building web applications that require heavy use of server-side services and dynamic user interface elements. It can also be used for building enterprise applications that are deployed in large-scale systems.`),mdx(\"h2\",null,\"Why use JavaServer Faces?\"),mdx(\"p\",null,`JAVA is one of the most popular programming languages used to create software and websites. One of the reasons why it has become so popular is that it has evolved over the years. One of the most significant evolutions of the language is the introduction of the JAVA Server Faces (JSF) technology.\nJAVA Server Faces (JSF) is a server-side UI technology that leverages Java\\u2019s flexibility and built-in features to provide powerful and richly featured user interfaces for applications.\nJAVA Server Faces (JSF) was added to the JAVA language in 2002. It was created as an alternative to Microsoft\\u2019s server-side UI technology \\u2013 ASP.NET. This was done to reduce dependency on Microsoft products and increase interoperability.\nJAVA Server Faces (JSF) is based on the standard JAVA APIs and architecture. It enables developers to build web applications more easily and efficiently.\nJAVA Server Faces (JSF) is an implementation of the Model-View-Controller (MVC) architectural pattern. You write your user interface by combining UI components, mapping these components to the model data, and then defining the interactions between the UI components and the model data.\nJAVA Server Faces (JSF) is predominantly used for building web applications that require heavy use of server-side services and dynamic user interface elements. It can also be used for building enterprise applications that are deployed in large-scale systems.`),mdx(\"h2\",null,\"Introduction to key concepts in JavaServer Faces\"),mdx(\"p\",null,`There are some key concepts in JSF worth understanding before going any further.\nThis section will provide an overview of these concepts and how they interact with each other.`),mdx(\"h2\",null,\"JSF Architecture\"),mdx(\"p\",null,`JSF is a component-based user interface (UI) framework that is built on standard Java APIs and architecture. It enables developers to build web applications easily and efficiently.\nJSF is an implementation of the Model-View-Controller (MVC) architectural pattern. You write your user interface by combining UI components, mapping these components to the model data, and then defining the interactions between the UI components and the model data.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"In this blog, we discussed what is JavaServer Faces and why you should use it. We also explored an introduction to key concepts in JavaServer Faces and its architecture. These concepts will help you to understand how JSF works.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
-  }
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADH0R/rAAA/vbL46Y0Cx22Lj2FuWnqa7LwVfv8oQpuNx9+s7eVPlmR3/su3k38eKXN8VZf1MK/+VFrG34yp/xlT/yFfV0VcCu6stbVG7XgAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "summary": "The best programming language to learn would be the one you like the most and can see yourself using. Java is one of the most popular programming languages in the world. Python is a very versatile language that can be used in many different fields. Swift is a great option if you are looking to get into app development or start a programming career. C++ is known for being very efficient, so it is great choice if you want to create advanced and resource-intensive programs. R or MATLAB are two other excellent options for programmers.",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&u(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&u(e,n,o[n]);return e},g=(e,o)=>y(e,h(o));var l=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAD5ieWIavXAAP7+ZUr9Db/RGe3yR0UXTt67e29qfRbAY4qVh3s03Bfwfkd53v0KXNjVrbGtIFBw+5cd3S39mcYPsOtjSbk0JXxrl6wN9ixqAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "summary": "Interfaces are used to specify an expected behavior of an object. Java does not support inheritance for Interfaces. Interfaces define only static fields, which belong to the interface and are the same for all instances of the same interface. Classes that implement the interfaces will inherit their functionality but not their implementation. This means that any code that implements an interface can change its implementation as much as it wants, as long as it follows the specification of the interface. Using interfaces is also a great way to break up your code into small, reusable pieces.",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,o=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&c(e,a,t[a]);if(i)for(var a of i(t))r.call(t,a)&&c(e,a,t[a]);return e},l=(e,t)=>p(e,d(t));var m=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=m(n,[\"components\"]);return mdx(MDXLayout,l(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdLoAAwiGPjUAAP723oHbb6/bReP/VPr1soo6jy77K1NX1XfLiCZa9OqjQ5bnUTKlYxw1C3vP+bozEMyqI3B0qNpwKhZD/7UOcv/b/n/t/+f+vuueswyP/wrj1/+Dkz+Df/1Brf35/DAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "java-security",
+      "locale": "en",
+      "title": "Java Security",
+      "summary": "A comprehensive security program should cover several key areas including development practices, network isolation, user authentication and data protection, and other core security components. The following list highlights some of the vulnerabilities that are commonly found in IoT devices: authentication / authorization Weaknesses: Lacking robust authentication and authorization mechanisms to control access to devices or data could allow an attacker to tamper with devices or access and steal sensitive data. The data collected by IoT devices should be encrypted to protect against eavesdropping and tampering. Data should be stored in a secure data center that is regularly audited by a third party security auditor.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,s,r)=>s in e?p(e,s,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[s]=r,a=(e,s)=>{for(var r in s||(s={}))n.call(s,r)&&c(e,r,s[r]);if(o)for(var r of o(s))i.call(s,r)&&c(e,r,s[r]);return e},u=(e,s)=>m(e,l(s));var d=(e,s)=>{var r={};for(var t in e)n.call(e,t)&&s.indexOf(t)<0&&(r[t]=e[t]);if(e!=null&&o)for(var t of o(e))s.indexOf(t)<0&&i.call(e,t)&&(r[t]=e[t]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var t=r,{components:e}=t,s=d(t,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),s),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagCdLoAAw9hAqnm+wAA/vufgCNkfzkBHP5WKLzL/j/zQr1NND3PWvfTum35FlumKPuf4xkm7861ngfms1fXYC/+CFHnFUPOKfK//8K1vZ4plsAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-coding",
+      "locale": "en",
+      "title": "How to Use Coding",
+      "summary": "Coding is the process of creating a set of instructions for a computer to follow. This is typically done with a computer programming language like Python, Java, or Ruby. It teaches your child to think critically, solve problems, and break down complex ideas into simpler, more manageable parts. The number of people interested in learning to code rising every year, coding is quickly becoming a marketable skill. It is an excellent skill to introduce your child at an early age. It challenges your child’s creative ideas and forces them to break down their ideas.",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,t,e)=>t in o?u(o,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[t]=e,a=(o,t)=>{for(var e in t||(t={}))r.call(t,e)&&l(o,e,t[e]);if(n)for(var e of n(t))s.call(t,e)&&l(o,e,t[e]);return o},c=(o,t)=>y(o,h(t));var d=(o,t)=>{var e={};for(var i in o)r.call(o,i)&&t.indexOf(i)<0&&(e[i]=o[i]);if(o!=null&&n)for(var i of n(o))t.indexOf(i)<0&&s.call(o,i)&&(e[i]=o[i]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var i=e,{components:o}=i,t=d(i,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),t),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJZAC7AaZS+RSlCxYHWAA/olF8zjxwmym9T3gLSD/xvxkur/QtpvRuDVN6d/ZzUHJ0bYoIJ9ZcLIpZx50P/ikeB+9LnvsKb8KUy4/PNZcaHlY0xNaK9O9lsi+qQuCH6Uaz2+I5K+4AA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-beginners-guide",
+      "locale": "en",
+      "title": "Python - The Beginner's Guide",
+      "summary": "Python is a general-purpose, high-level programming language that can be used for a variety of applications, from web development to scientific computing. Python’s popularity has grown tremendously in recent years, and the language is now one of the most widely used in the world. Python has a wide range of operators and supports most of the standard operators used in other programming languages. There are two types of variables in Python: simple variables and complex variables. Without data types, computer programs would be very limited in their functionality and usefulness.",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?g(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(o)for(var t of o(n))i.call(n,t)&&d(e,t,n[t]);return e},y=(e,n)=>u(e,c(n));var h=(e,n)=>{var t={};for(var a in e)s.call(e,a)&&n.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&o)for(var a of o(e))n.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,n=h(a,[\"components\"]);return mdx(MDXLayout,y(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdLoAAwcf+0AA/vbj+dIau8rd2jmXuyA0cBg48yl/d4ALq6h8QD0RMjPO1Qh29arqQ2AqVISPh5UH8JvKYYbowNp2YCJ3s3Vf9H+r+/0gAyp+wWJ4xqj+rQVDoAAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-data-science",
+      "locale": "en",
+      "title": "Go Language for Data Science",
+      "summary": "Go is an open source programming language that was designed by Google engineers in 2009. It aims to solve the problems of large software projects, such as code maintenance and scalability, that developers faced when working in other languages. Go’s high-level standard libraries, designed for general-purpose programming, are easy to understand and follow standardized conventions. Go has a static type system with no explicit types, making the language less error-prone. Go also has a very fast compilation time, making it a good choice when you need to deploy code often.",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&l(e,o,t[o]);if(s)for(var o of s(t))r.call(t,o)&&l(e,o,t[o]);return e},u=(e,t)=>m(e,p(t));var c=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=c(a,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAQCdASoKAAoAAUAmJZgCdADZW/FQMAD++qPw2+pBv8a/fnrtiF3ttlT1Vl84TaSOANsfn/9Pzl0iuwwN3J/ExufRBxkDm3/5vpOmcYm343Y5QXjJyeu89EU//BPz7/MD2vLn4D70LEzjytk6ZCfwV/rQ+/qbYAd+7q/g25gAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "summary": "Programmers who get caught up in the details of the work often find that they are not able to see the big picture. Great coders write code with a clear and specific purpose. If you want to become a great coder, you must be passionate about learning. Great programmers know which parts of their work matter and which parts don’t. Being cocky without being cocky is difficult to walk the line to walk, but being confident is a key to being a great programmer.",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&h(e,o,t[o]);if(a)for(var o of a(t))i.call(t,o)&&h(e,o,t[o]);return e},c=(e,t)=>l(e,u(t));var m=(e,t)=>{var o={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&i.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=m(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB8gADDBsHLZDUAADOMtjF6n03V+WyKX/UN6tNeRNRUdLUkKf0nT/okgtJ7BaMOZFkMEae1h0hRpvm8wAUospXYzv7f/7GP/1+Ls/8YD7tz/vHWdl3+oO+At/2b+87+OEAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "summary": "Many people wonder if they have what it takes to learn to code, and if they’re capable of picking up the skill. Learning to code is much like learning to ride a bicycle or play an instrument. Coding is a transferable skill that will allow you to work in a variety of different industries, allowing you to change your job or career path at any point in your life. There are many reasons why learning to code could be beneficial for you as a career. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope.",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,h=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?y(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,t=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&c(e,n,o[n]);if(a)for(var n of a(o))r.call(o,n)&&c(e,n,o[n]);return e},l=(e,o)=>h(e,u(o));var d=(e,o)=>{var n={};for(var i in e)s.call(e,i)&&o.indexOf(i)<0&&(n[i]=e[i]);if(e!=null&&a)for(var i of a(e))o.indexOf(i)<0&&r.call(e,i)&&(n[i]=e[i]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var i=n,{components:e}=i,o=d(i,[\"components\"]);return mdx(MDXLayout,l(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJagCdAYulwKImj/gXQAA/vqGHDrLfT3+697HnPv/z/i66v/HNBwX7aaPa89+JnGXG96mh1F+hnhDPLtX8hLbi3mAz/avWWjE3TIHgFPK+//DFcw4ez2vv/xGv9jfcgCwEc5QV9jaWqUgAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "summary": "Programs written in Go will typically be compiled to several times faster than programs written in languages like C/C++ or Fortran. Go is particularly suitable for computationally intensive tasks such as image processing, machine learning, and data analysis. The Go language is easy to read and maintain, which is ideal for collaborative projects. Go has built-in support for comments, error handling and flow control are among the language features that will make programming in Go an even better experience. The language is an excellent choice for any project that requires scientific computing.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,t=(e,o)=>{for(var a in o||(o={}))s.call(o,a)&&l(e,a,o[a]);if(i)for(var a of i(o))r.call(o,a)&&l(e,a,o[a]);return e},u=(e,o)=>d(e,g(o));var c=(e,o)=>{var a={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,u(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJaACdAEWX/4xXc5YAP70xBq+ITvtobok4z/4cq1Rbqf3LIQ8T9JRaar5d73uGefzbP1Xz6d9ZX7OPA27cQ/+mu36839McVf+/T6npYRbf9pBz1pT+/+qcFCGWjmEeqavOeGD1KBihwNdcSfOLnf298dz6FghNa7UAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-tools",
+      "locale": "en",
+      "title": "The Top Software Engineering Tools",
+      "summary": "Language support tools, such as linting and code analysis, help you write code that is more consistent, reusable, and standard in format. Version control software is an essential tool for managing changes to code, particularly on large, collaborative projects. API development tools help you create and manage APIs and ensure that your API is properly formatted and easy to navigate. When selecting a software engineering tool, it’s important to consider how it will fit into your existing workflow. You should also keep in mind how often use the tool is to integrate into your current processes.",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))r.call(t,n)&&l(e,n,t[n]);if(a)for(var n of a(t))s.call(t,n)&&l(e,n,t[n]);return e},c=(e,t)=>d(e,g(t));var f=(e,t)=>{var n={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=f(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

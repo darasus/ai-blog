@@ -31,9 +31,8 @@ export default function Posts({ data, totalPages }: PageInfo) {
 
 export const getStaticPaths: GetStaticPaths = async (ctx) => {
   return {
-    fallback: "blocking",
-    // paths: await generatePostsPageStaticPaths(),
-    paths: [],
+    fallback: false,
+    paths: await generatePostsPageStaticPaths(),
   };
 };
 

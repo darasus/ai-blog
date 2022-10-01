@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "https://theaipaper.b-cdn.net/articles/javascript-for-beginners-a-comprehensive-guide.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAQCdASoKAAoAAUAmJYwCdH8AE1t6mgD++pz34MG2fMD2fR8JxXl9Rv3x4T3zFx2eJhY/XUcwoj6/Xbyn4v8Hl5aOO2aysi+Bo3ZLd2PDg1jqjZXz6U1iBzPvYKOsIaCGgD0qZ3G9wx3B1HqBQo0xmsR/NfgAAAA=",
-  "createdAt": "2022-10-01T11:15:16.041Z",
-  "updatedAt": "2022-10-01T11:15:16.041Z",
+  "createdAt": "2022-10-01T11:39:14.510Z",
+  "updatedAt": "2022-10-01T11:39:14.510Z",
   "categoryLocal": "coding",
   "slug": "javascript-for-beginners-a-comprehensive-guide",
   "locale": "en",
@@ -16,5 +16,167 @@
   "content": {
     "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},h=(e,t)=>p(e,c(t));var u=(e,t)=>{var a={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Why learn Javascript?\"),mdx(\"p\",null,\"Javascript is the most widely used language in the world. 70% of websites make use of it, and it is only growing. Learning the basics of this language will help you transfer the knowledge into other programming environments such as Ruby on Rails, Python, C++, etc. Moreover, there are tons of job opportunities in the software development industry due to the growing demand for digital products. So if you\\u2019re looking to build a long-term career, then learning Javascript is the way to go.\"),mdx(\"p\",null,\"Javascript is the backbone of the internet. It is the core of the user experience on websites, apps and games. Learning Javascript will help you create more interactive and engaging experiences for the users. It is also a great language for beginners since it is easy to understand and easy to find help online.\"),mdx(\"h2\",null,\"How to get started with Javascript for beginners?\"),mdx(\"p\",null,\"As with any skill, learning to program takes a lot of practice and patience as you piece together new concepts and techniques. It is important to tackle each challenge with the right mindset from the start. Keep in mind that learning to code is a process, and you don\\u2019t need to be perfect at it straight away. Here are a few tips to get you started:\"),mdx(\"p\",null,\"Define your learning goals \\u2013 Before you start with any programming language, it is important to outline your goals so you can stay focused and motivated throughout the process. Think about what you want to achieve with programming and why you want to learn it. This will help you stay focused and keep you motivated on the long journey ahead.\"),mdx(\"p\",null,\"Set a schedule \\u2013 Once you know your goals, it is time to set a schedule and get started with your career in programming. It is important to set a schedule to keep yourself on track, and it will help you stay focused on your goals.\"),mdx(\"p\",null,\"Find a community of like-minded people \\u2013 With the rise of social media, it\\u2019s easier than ever to find like-minded people who can help you get started with your journey. You can find communities online such as CodeNewbies, HackerRank, Reddit, and many more.\"),mdx(\"h2\",null,\"Build a solid foundation with HTML and CSS\"),mdx(\"p\",null,\"Although you should start learning with Javascript, it is important to have a strong foundation in some of the basic programming concepts and languages. You need to understand the basics of HTML and CSS to be able to communicate with the browser. HTML is used to create websites and webpages, and CSS is used to style them. It is important to understand the basics of these two languages before moving on to Javascript.\"),mdx(\"p\",null,\"With the help of sites like Code School, you can learn HTML and CSS in a fun way. You can also read articles and books on the subject if you prefer a more traditional approach. Once you have a strong foundational knowledge in these languages, it will be much easier to move on to the next phase.\"),mdx(\"h2\",null,\"Get to know the fundamentals of Javascript\"),mdx(\"p\",null,\"The next step in your journey to learn Javascript is to get to know the fundamentals of the language. This is the place where you will start to see some actual results with the skills you are learning. You will start to write simple programs and understand how they work.\"),mdx(\"p\",null,\"Here are a few topics you need to understand before moving on to the next phase:\"),mdx(\"p\",null,\"Variables, data types, and expressions \\u2013 Variables are used to store data, and they have different types such as strings, numbers, arrays, booleans, etc. Expressions are used to perform operations on variables and data types.\"),mdx(\"p\",null,\"Control flow \\u2013 Control flow is the order in which your program runs and the decision-making logic behind it. It is important to understand how control flow works.\"),mdx(\"p\",null,\"Object-Oriented Programming \\u2013 OOP is a programming paradigm that allows you to group related pieces of code together, such as variables and functions, into one unit called a \\u201Cclass.\\u201D Classes help you organize your code better, and they are a necessary component of larger programs.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Javascript is one of the most popular programming languages out there. It is used in many websites and apps and is the backbone of the internet. Learning Javascript will help you create more interactive and engaging user experiences for the users. It is also a great language for beginners since it is easy to understand and easy to find help online.\"),mdx(\"p\",null,\"However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it! With the help of sites like Code School, you can learn HTML and CSS in a fun way. You can also read articles and books on the subject if you prefer a more traditional approach. Once you have a strong foundational knowledge in these languages, it will be much easier to move on to the next phase.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
-  }
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagC7AabK8z2340S2AAA/vm03Yehac7g/fSRXsm6+dzIX+Bmg9xG/1+5P6H7MSCC992qWMCPETX+wWcJ6kvOL7FQ9CL/yISY9v7DRFefyth3Mz/AAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-get-started-with-coding",
+      "locale": "en",
+      "title": "How to Get Started with Coding",
+      "summary": "There are thousands of different programming languages, and a few of the most common ones are listed below. Coding is an incredibly creative process, and once you get into it, you'll find there's almost no limit to what you can create. There are tons of free resources available online where you can start learning. Once you know which field interests you, you can use this list of top online courses to help you find the right course for you. The most common languages used in software development are Java, Ruby and Python, but many more exist.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},d=(e,o)=>u(e,y(o));var p=(e,o)=>{var t={};for(var a in e)r.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=p(a,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJYwC7AYUAV1LK9FfgAD+97R/X/36K4hzsn1CZJflT/4n32XzA0adF/G+Pm9Wa9/EbImSkjU+iNwNancnMSbSNUfp/z+go1//OraZWIx30doFT/HdhrQ1CXh+jdVwD6yZQUeA27MQlQQ3AAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "summary": "Python is a coding language that has been growing in popularity for several years. It is an open source programming language, which means that it is free to use and distribute. There are a number of different ways to learn the language, including self-guided tutorials, in-person classes, and even online courses. You will only truly master Python if you put in the time and effort to do so, so try and practice it daily. You can choose from a range of Python projects, but we recommend selecting projects that involve creating a simple program or application.",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))a.call(o,n)&&c(e,n,o[n]);if(r)for(var n of r(o))s.call(o,n)&&c(e,n,o[n]);return e},g=(e,o)=>d(e,y(o));var l=(e,o)=>{var n={};for(var t in e)a.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJagCdAYulwKImj/gXQAA/vqGHDrLfT3+697HnPv/z/i66v/HNBwX7aaPa89+JnGXG96mh1F+hnhDPLtX8hLbi3mAz/avWWjE3TIHgFPK+//DFcw4ez2vv/xGv9jfcgCwEc5QV9jaWqUgAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "summary": "Programs written in Go will typically be compiled to several times faster than programs written in languages like C/C++ or Fortran. Go is particularly suitable for computationally intensive tasks such as image processing, machine learning, and data analysis. The Go language is easy to read and maintain, which is ideal for collaborative projects. Go has built-in support for comments, error handling and flow control are among the language features that will make programming in Go an even better experience. The language is an excellent choice for any project that requires scientific computing.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,t=(e,o)=>{for(var a in o||(o={}))s.call(o,a)&&l(e,a,o[a]);if(i)for(var a of i(o))r.call(o,a)&&l(e,a,o[a]);return e},u=(e,o)=>d(e,g(o));var c=(e,o)=>{var a={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,u(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoKAAoAAUAmJbACdC0QCZjMRzZzz3P8gAD+9egTW8kmATb1FMQ9/n+1tlBgT4a8fumWf+P7G+qGj9f/IW513v9j75jpr+WUwB/aoWT96Fxxtr3fbrlR9wj4c/p+rCz/4wLf9x0xA+t9fRXijhqmqP6mtJvY3fjf63/8M0Y1R/r//NEJnnqIAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "summary": "Go is an open source programming language created by Google in 2007. It is compiled and compiled, and it targets a wide variety of platforms like Windows, Linux, Mac OS, and even mobile devices. Go has been gaining popularity over the last few years due to the increase in its adoption by tech companies. Some of the most notable companies that use Go include Google, Dropbox, and Uber. Go was designed to efficiently handle large data sets and work with unstructured data. Go introduces great flexibility in code structuring.",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,g=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},d=(e,t)=>g(e,p(t));var c=(e,t)=>{var a={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAQCdASoKAAoAAUAmJZACdADzbysAAP7c/03H3n4l4G+/+OuzFv6fahZG3/xZf7TpO5N9Tl+82AGkN+Fd6YILCBDtb3285A4rjJd9dATE/L/Cq13VlfARhRVvhDzIA01nr8wJ6Fb/sAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "summary": "Go is a programming language developed by Google in 2007. It is a general-purpose programming language designed with scalability, ease-of-use, and concurrency in mind. Go has many features that make it easier to write and read than other compiled languages such as C and C++. The language has been open-source since its inception, and has been highly praised by many developers. It's a language that was designed to be used in parallel programming, which means it’s optimized for working on many things at once.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&l(e,t,o[t]);if(a)for(var t of a(o))s.call(o,t)&&l(e,t,o[t]);return e},m=(e,o)=>u(e,c(o));var g=(e,o)=>{var t={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&a)for(var n of a(e))o.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=g(n,[\"components\"]);return mdx(MDXLayout,m(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAwCdASoKAAoAAUAmJbACdLoB+ADwABOMbqsyaJXSSX8AAP7nrb1cwc9jX2aX0ppy74XjVjDMayz8yvh0H/VkqRxHInQneCF8E8g3dWSUtUEAuVIQvqD/6pFjiNxb+el3ycmWb9qga3d/zW/4DhOreKYxaYqI+I49rQAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "summary": "Python is a general-purpose programming language that was created in 1991 by a Dutch programmer named Guido van Rossum. The language has been used in a wide variety of different industries through the years. One of the most common uses of Python is in the fields of data science and machine learning. There are several types of applications and web services that rely on Python for their functionality. We explored what Python is and why it’s so popular and how to learn the language in this article.",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,t)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,n=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&u(e,t,o[t]);if(r)for(var t of r(o))i.call(o,t)&&u(e,t,o[t]);return e},h=(e,o)=>l(e,d(o));var p=(e,o)=>{var t={};for(var a in e)s.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&r)for(var a of r(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=p(a,[\"components\"]);return mdx(MDXLayout,h(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoKAAoAAUAmJbACdLoAE4A1zgyh+CnCspATAAD+6l+PK42LPTV/hruMd631/z5V99FeqZ/tgMfP7B+yGuBv4PTLEGcY1ke/8Ddvzf+m/v4TCX2+luIFX7z8hB/LMDH9du4SM4yWlnLEWJW9I3catY8qwRhn0wk8SH/7X/o1Kvx/+P70JTf5HrqOD6S2JnNz4sNCGAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-game-development",
+      "locale": "en",
+      "title": "Python - The Language for Game Development",
+      "summary": "Python is a high-level programming language that is used to build software applications, websites, and games. It is a general-purpose language that can be used in many different sectors including business, science, mathematics, engineering, and game development. The global game development market will reach $137 billion by 2021, which shows the immense potential for growth for those who are interested in this field. The most important thing for a game developer is to talk to the customer and understand their needs. To become a successful game developer, you need to have more than just knowledge of Python.",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,o,a)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&p(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&p(e,a,o[a]);return e},l=(e,o)=>g(e,u(o));var m=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJZwC7H8AGBn4t00IAAD+/t+28B2pgLXKPvOXehTACnu0tH8RuoP/zgP9NQkMQvgghp63Y+43vg9y0zCmKdiYf0cD6gm+sIhSbwtz4AA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-gui-programming",
+      "locale": "en",
+      "title": "Go Language for Gui Programming",
+      "summary": "Go's simple syntax and readable code make it easier for developers to understand one another’s work and make changes as requirements change. The language has built-in support for both communications with other systems and data flow within the application. Go has a syntax that is similar to languages such as C and Java, which makes it easy for developers who have worked with these languages to transition to Go. Go is still in beta, so you should plan to keep up with new language features as they’re implemented.",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var p=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var i=(e,o,a)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))p.call(o,a)&&i(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&i(e,a,o[a]);return e},m=(e,o)=>l(e,u(o));var d=(e,o)=>{var a={};for(var r in e)p.call(e,r)&&o.indexOf(r)<0&&(a[r]=e[r]);if(e!=null&&t)for(var r of t(e))o.indexOf(r)<0&&s.call(e,r)&&(a[r]=e[r]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var r=a,{components:e}=r,o=d(r,[\"components\"]);return mdx(MDXLayout,m(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-tools-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJbACdLoAEJMX9t5TSSYgAP6ZRKBTEDyCd2ytne+G9oGhM43Liay+rcl2+90YeiciOVUi6GldzGdv2h3cb4LB+K3RQ9xCO/TXKMmSprdiwL7KzTRD4+qjZiwLA/26z0N11PPYK4UE/+18GaqwKXF/+Zt/SP4N//X4SjQL8pgAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tools-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Tools for Developers",
+      "summary": "The first thing that every developer should know about is the importance of using a code editor. The goal of each is to help developers write and edit code more efficiently. Code review is when you and your team members read through each other’s code to check for errors and issues. The most common version control systems are Git, Mercurial, and Subversion (SVN) Version control is a method of tracking and managing changes to code over time. The key to success when using version control is to make sure that you know how to use it properly.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&d(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&d(e,t,o[t]);return e},l=(e,o)=>u(e,g(o));var h=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=h(a,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Developers do a lot of work. As with any job, coders have to balance the amount of time spent coding as well as the quality and efficiency of that coding. It is an ongoing challenge to stay organized and productive throughout the day. The good news is that there are many tools out there that make the lives of developers easier. These tools make tasks like code organization, file sharing, debugging, and testing much simpler.\nCoding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let\\u2019s take a look at some of the best coding tools that every developer should know about!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJZACdAEOaRcVoAD+/bX26dt3YHu08BqTgsOfcLPLvO/sEOcacYuzbwtf6+6v/zxvdyikj8GFKBgtYvAxgZIHisIr2resMkxe6CZN/K0ZHp0DG+SCOD4TIAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "summary": "Software engineers need to be able to design, analyze and develop software systems that meet clients’ needs. Software engineering degrees are focused on the skills and knowledge you need to build and manage software systems. Computer science degrees focus on the theoretical concepts and technical skills needed to design and build software systems, but software engineering degrees emphasize the practical application of those skills in real-world situations. Software engineers are the engine of the digital economy that powers businesses, websites and apps. There is a shortage of skilled candidates, which has led to demand and high salaries for top software engineers.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,f=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,t,o)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&d(e,o,t[o]);if(a)for(var o of a(t))r.call(t,o)&&d(e,o,t[o]);return e},h=(e,t)=>f(e,g(t));var c=(e,t)=>{var o={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&r.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=c(n,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

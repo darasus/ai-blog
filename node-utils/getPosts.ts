@@ -1,12 +1,11 @@
 import { paginateArray } from "paginate-array-ts";
 import { numberOfPostsPerPage } from "../constants";
-import { Category, Locale, RawPost } from "../types";
+import { Category, Locale } from "../types";
 import { Post } from "../types";
-import { serialize } from "next-mdx-remote/serialize";
 import { capitalize } from "../isomorphic-utils/capitalize";
 import { readdir, readFileSync } from "fs";
 import { postsPath } from "./paths";
-import path, { resolve } from "path";
+import path from "path";
 
 export type PageInfo = ReturnType<typeof paginateArray<Post>>;
 
@@ -18,26 +17,7 @@ export const getPosts = async (options: {
   category?: Category;
   excludeBySlug?: string[];
 }): Promise<PageInfo> => {
-  const rawPosts = await getRawPosts();
-  let posts: Post[] = await Promise.all(
-    rawPosts.map(async (post) => {
-      return {
-        ...post,
-        content: await serialize(post.content, {
-          // parseFrontmatter: false,
-          mdxOptions: {
-            // remarkRehypeOptions: {},
-          },
-        }),
-        intro: await serialize(post.intro, {
-          // parseFrontmatter: false,
-          mdxOptions: {
-            // remarkRehypeOptions: {},
-          },
-        }),
-      };
-    })
-  );
+  let posts = await getRawPosts();
 
   if (options.locale !== "all") {
     posts = posts.filter((post) => post.locale === options.locale);
@@ -87,9 +67,9 @@ export const getPosts = async (options: {
   );
 };
 
-export const getRawPosts = (): Promise<RawPost[]> => {
+export const getRawPosts = (): Promise<Post[]> => {
   return new Promise((resolve, reject) => {
-    const posts: RawPost[] = [];
+    const posts: Post[] = [];
 
     readdir(postsPath, (err, files) => {
       if (err) {

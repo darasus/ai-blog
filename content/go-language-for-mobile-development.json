@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-mobile-development.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdAYpvvoF64AAAN5n7Aj2BvlN005bKvyDbLJUjKWNY/mGXYiX3ob9ZRMfrftrBHpxrr7keDzf9B3713qjfHVUWrWqC+//XFXvv9Tyoq/U3//5bf3//ZyZ/Jv99hie4J2bufmDEN1FJAAAAA==",
-  "createdAt": "2022-10-01T11:15:09.993Z",
-  "updatedAt": "2022-10-01T11:15:09.993Z",
+  "createdAt": "2022-10-01T11:39:08.452Z",
+  "updatedAt": "2022-10-01T11:39:08.452Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-mobile-development",
   "locale": "en",
@@ -16,5 +16,167 @@
   "content": {
     "compiledSource": "var h=Object.defineProperty,g=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,a,t)=>a in e?h(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))s.call(a,t)&&l(e,t,a[t]);if(n)for(var t of n(a))r.call(a,t)&&l(e,t,a[t]);return e},p=(e,a)=>g(e,u(a));var d=(e,a)=>{var t={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&r.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Swift\"),mdx(\"p\",null,\"Swift is a general-purpose programming language developed by Apple Inc. for iOS, macOS, watchOS, and tvOS app development. It is a simple, modern, and intuitive programming language used by programmers, designers, and developers alike. In fact, Swift is designed to solve many of the problems that have been inherent in other programming languages for a long time, like the excessive use of curly brackets. One of the benefits of choosing Swift for creating your next mobile app is that it\\u2019s lightweight. The language also compiles quickly, which is a really helpful feature when you\\u2019re developing a mobile app because there\\u2019s no longer a need to wait for the code to compile on your computer and then transfer it to the app. Swift runs on a system called \\u201CSwiftNets\\u201D that lets you quickly and easily build apps for both iOS and Android.\"),mdx(\"h2\",null,\"Java\"),mdx(\"p\",null,\"Java is a general-purpose programming language that is concurrent, class-based, and object-oriented. It was originally created by James Gosling at Sun Microsystems and released in 1995. One of the most important features of Java is that it is cross-platform, with a large number of systems having been written in Java. There are also a large number of third-party libraries available, making it an appealing option for many businesses. The language has a long history and has been used for creating a variety of applications, though it is particularly well suited to developing apps for computer networks. In the smartphone market, Java is mostly used for developing apps for Android. The language has a large and active developer community and is often chosen due to its simplicity and flexibility.\"),mdx(\"h2\",null,\"Kotlin\"),mdx(\"p\",null,\"Kotlin is a programming language that runs on the Java Virtual Machine and was created by JetBrains, the same company behind the IDE tool IntelliJ. This language was designed to be a more modern version of Java \\u2014 Kotlin compiles to bytecode, just like Java. It is a functional programming language, which means that every part of the program is a function. This makes it easier to create lightweight code that is easier to read and maintain. Kotlin was first released in 2011 and was developed by programmers who were tired of the verbosity and complexity of Java. Due to the fact that Android apps are primarily written in Java, developers who wanted to create Android apps more easily often turned to Kotlin. The language was officially supported by Google in 2017.\"),mdx(\"h2\",null,\"Python\"),mdx(\"p\",null,\"Python is a general-purpose programming language that can be applied to a multitude of different tasks, including mobile app development for Android. It is a widely used language that is simple, concise, and easy to read. Python is a versatile language that can be used to solve a wide range of problems. It runs on any computer system, has no restrictions on who can use it, and is open-source. One of the benefits of using Python for Android app development is that it can be used together with other frameworks and tools to make it more efficient. It is also easy to understand, even for people who have never worked with programming before.\"),mdx(\"h2\",null,\"HTML5 and CSS3\"),mdx(\"p\",null,\"HTML5 and CSS3 are essential for designing mobile apps. These languages make it possible for developers to design apps that can run on any device, regardless of the operating system or browser being used. These languages let you design full-featured apps that include animations, games, and other interactive content.\"),mdx(\"h2\",null,\"Final Words: Wrapping Up\"),mdx(\"p\",null,\"As you can see, there are many different programming languages that you can use to create mobile apps. You can choose any language that you\\u2019re most comfortable with, but make sure it will work on the platform(s) you\\u2019re targeting. For example, if you choose Swift, you\\u2019ll need to make sure your app is also available on Android. If you want to launch your app on the widest possible audience, it makes sense to choose a language that is used on both iOS and Android.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
-  }
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-tools-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJbACdLoAEJMX9t5TSSYgAP6ZRKBTEDyCd2ytne+G9oGhM43Liay+rcl2+90YeiciOVUi6GldzGdv2h3cb4LB+K3RQ9xCO/TXKMmSprdiwL7KzTRD4+qjZiwLA/26z0N11PPYK4UE/+18GaqwKXF/+Zt/SP4N//X4SjQL8pgAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tools-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Tools for Developers",
+      "summary": "The first thing that every developer should know about is the importance of using a code editor. The goal of each is to help developers write and edit code more efficiently. Code review is when you and your team members read through each other’s code to check for errors and issues. The most common version control systems are Git, Mercurial, and Subversion (SVN) Version control is a method of tracking and managing changes to code over time. The key to success when using version control is to make sure that you know how to use it properly.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&d(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&d(e,t,o[t]);return e},l=(e,o)=>u(e,g(o));var h=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=h(a,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Developers do a lot of work. As with any job, coders have to balance the amount of time spent coding as well as the quality and efficiency of that coding. It is an ongoing challenge to stay organized and productive throughout the day. The good news is that there are many tools out there that make the lives of developers easier. These tools make tasks like code organization, file sharing, debugging, and testing much simpler.\nCoding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let\\u2019s take a look at some of the best coding tools that every developer should know about!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAgCdASoKAAoAAUAmJbACdAELZMJ/u4SAAP7KKA859Fbjj3o2avxrnVVAZWqeaspy+H6eyOPr18/DU7zUvlBAiH/Ap6UHe/gFRl9pypTB0QZC0pJEAdL3el1fyP9YD5xGD/7exPxOrk+kKo//7fD6P/wQ//9Uz8E5W/bLO/7/9TtGP9/q3LW//dca/6cP+v8ZC2bAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "summary": "Java Application Testing is the most difficult, yet most critical part of software development. Testing your Java applications is recommended since it helps cut down on the number of bugs in your software. It also helps you release secure products into production faster by catching bugs before your customers do. Modern software is heavily dependent on third-party services, APIs, and libraries, which makes it difficult to predict all the scenarios that will be executed when users interact with your software, such as using third party services and libraries. Tests are primarily written in Java, though other programming languages are supported as well.",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&u(e,o,t[o]);if(a)for(var o of a(t))r.call(t,o)&&u(e,o,t[o]);return e},c=(e,t)=>d(e,f(t));var p=(e,t)=>{var o={};for(var s in e)n.call(e,s)&&t.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&a)for(var s of a(e))t.indexOf(s)<0&&r.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,t=p(s,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAQCdASoKAAoAAUAmJZgCdAEOlXuEbAD+/WD97vQ8f/+KDDtD7jn7wvf+ofNU5qS1quy5XnnUf+CggeTNnE1nzYtBuTea/Pq25g2BcDDwSr/nzLI+s3EnYl2Flm0WdTpxm3W87KyqH/LjRiJDSMlX1nYUi/0b1vD71nnYUvJG4AAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "summary": "Web scraping is the extraction of data from websites to retrieve specific data in a machine-readable format. Python is a general-purpose high-level programming language. Java’s reputation for scalability and its ability to run on most systems makes it a great candidate for web scraping. Node.js is a programming language that runs inside a web browser and is used to create and build web applications. Ruby is designed to simplify the process of programming and make it more accessible to new and experienced programmers.",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,n=Object.prototype.propertyIsEnumerable;var c=(a,e,t)=>e in a?m(a,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[e]=t,s=(a,e)=>{for(var t in e||(e={}))i.call(e,t)&&c(a,t,e[t]);if(o)for(var t of o(e))n.call(e,t)&&c(a,t,e[t]);return a},p=(a,e)=>l(a,u(e));var g=(a,e)=>{var t={};for(var r in a)i.call(a,r)&&e.indexOf(r)<0&&(t[r]=a[r]);if(a!=null&&o)for(var r of o(a))e.indexOf(r)<0&&n.call(a,r)&&(t[r]=a[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:a}=r,e=g(r,[\"components\"]);return mdx(MDXLayout,p(s(s({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagCdLoAAw9hAqnm+wAA/vufgCNkfzkBHP5WKLzL/j/zQr1NND3PWvfTum35FlumKPuf4xkm7861ngfms1fXYC/+CFHnFUPOKfK//8K1vZ4plsAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-coding",
+      "locale": "en",
+      "title": "How to Use Coding",
+      "summary": "Coding is the process of creating a set of instructions for a computer to follow. This is typically done with a computer programming language like Python, Java, or Ruby. It teaches your child to think critically, solve problems, and break down complex ideas into simpler, more manageable parts. The number of people interested in learning to code rising every year, coding is quickly becoming a marketable skill. It is an excellent skill to introduce your child at an early age. It challenges your child’s creative ideas and forces them to break down their ideas.",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,t,e)=>t in o?u(o,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[t]=e,a=(o,t)=>{for(var e in t||(t={}))r.call(t,e)&&l(o,e,t[e]);if(n)for(var e of n(t))s.call(t,e)&&l(o,e,t[e]);return o},c=(o,t)=>y(o,h(t));var d=(o,t)=>{var e={};for(var i in o)r.call(o,i)&&t.indexOf(i)<0&&(e[i]=o[i]);if(o!=null&&n)for(var i of n(o))t.indexOf(i)<0&&s.call(o,i)&&(e[i]=o[i]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var i=e,{components:o}=i,t=d(i,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),t),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADIAoGQAD+86/WKtNsCaNNZ7uAq/hKbh+svbMVlPnKsr3Yc13In/69safo3XerQ/pgf+OCl8AXXOR+TocAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-programs",
+      "locale": "en",
+      "title": "The Top Software Engineering Programs",
+      "summary": "The field of software engineering is one of the most important and fastest-growing in today’s economy. Software engineers can work with a variety of different types of systems, including computer systems, mobile device systems, and embedded systems that are used in everyday devices like cars, robots, and medical devices. Computer science programs generally focus on the theory and practice of computer programming and typically provide a strong foundation for a career in software engineering. Double-degree programs that combine a computer science degree with a software engineering degree offer more flexibility in pursuing specific software engineering specialties.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,n,o)=>n in e?c(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,r=(e,n)=>{for(var o in n||(n={}))i.call(n,o)&&p(e,o,n[o]);if(a)for(var o of a(n))s.call(n,o)&&p(e,o,n[o]);return e},g=(e,n)=>d(e,l(n));var f=(e,n)=>{var o={};for(var t in e)i.call(e,t)&&n.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&s.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,n=f(t,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFpxBypwAAP7vavLEy5KRLAPT4yZNsyIQT/4CGa9G2t9cG1dgbU9bH33x18w4T9TlrK/zG6P/4uPwFXwQmcff/nYdncymt+8IAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-software-development",
+      "locale": "en",
+      "title": "Go Language for Software Development",
+      "summary": "The Go programming language is designed to be simple and easy to learn and is powerful enough to build complex, complex, scalable software that can be used to solve a variety of business problems. Go is a compiled language that is statically typed and uses escape analysis to make sure that memory is managed efficiently. The absence of generics in Go makes it difficult to write efficient code that works with different data types. The Go language is incomplete as a programming language without libraries, packages, and frameworks that can extend its functionality.",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,c=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var m=(e,t,o)=>t in e?g(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&m(e,o,t[o]);if(r)for(var o of r(t))s.call(t,o)&&m(e,o,t[o]);return e},l=(e,t)=>c(e,u(t));var p=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&r)for(var a of r(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=p(a,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is a general purpose programming language. It was originally developed at Google to solve some of the problems with other programming languages like C and Python that made it difficult to write programs that are fast, small, and correct.\nGo makes it easy to capture the programmer\\u2019s intent in code and generate output directly from source - thanks to its lightweight syntax, concise statement, and built-in support for anonymous functions without the need for temporary variables or auxiliary arguments.\nGo is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJYwCw7Ypvvu6IuDKAAD+/U/OuZbOasd0xmIwp0Sk4L7cEb20a3COU+HFAHQn2i3q4pUPdROUP33T3gyXS3xDQlXW9nXrn/LkAaexBiicK9ldR5vWv3QeIAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "summary": "Go is a simple and straightforward language that is easy to read and write. The language is known for its speed and performance. It is open source and has a vibrant community of developers. It also has a number of other features that make it a great language for more than just programming. Go has no runtime, unlike most other programming languages, so it is a great fit for latency-sensitive applications. It uses a simple syntax that is very similar to most other languages. Go is widely available, has a lot of free resources online to help you learn to code.",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&g(e,o,a[o]);if(n)for(var o of n(a))i.call(a,o)&&g(e,o,a[o]);return e},d=(e,a)=>h(e,m(a));var u=(e,a)=>{var o={};for(var t in e)r.call(e,t)&&a.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&n)for(var t of n(e))a.indexOf(t)<0&&i.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,a=u(t,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZwC7AEQ/c9pFGYAAP7+Ld91k4CuTWLekqwAee8v9Jz16HjQngQDcCNwgw6K/2AMPsYKLLSo6txnXk076MriagAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "java-performance-tuning",
+      "locale": "en",
+      "title": "Java Performance Tuning",
+      "summary": "You should measure your application’s performance before tuning the JVM. The first thing we’ll discuss when it comes to tuning is heap size. Caching bytecode for your entire app can cause issues if two or more different classes need to be compiled at the same time. Adding fast-path code to your Java code can help improve performance by eliminating the overhead of creating a new thread for every call it’�s created. Use API'path code in Java code that will be used often, and others will only be used occasionally.",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,f=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var s=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&s(e,t,a[t]);if(n)for(var t of n(a))c.call(a,t)&&s(e,t,a[t]);return e},p=(e,a)=>f(e,h(a));var u=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&c.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAwCdASoKAAoAAUAmJbACdLoB+ACJVelgByxIYPfzPQAA/mbfkcFcIaT/J2j45XuMRQQB8Mn8MtNfmRZnLzm+EwD1q2+m+ynKfvIA2//a/9Cv/eYuVJ/CGbaa+DeVVEyvmAH/MAPgIy/0ff7oaJH5pM8u5YAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "summary": "Python is designed so that you don’t have to think about the rules and syntax of the language as you write your code. Python’s open-source nature made the language completely free to use. Python is currently the second most popular programming language (after the ever-present JavaScript), with a vast community of developers, tools, tutorials, and resources. Python offers a wide range of data types, including strings, numbers, lists, and dictionaries. Python also offers a whole host of services, including the ability to use various programming paradigms, and the ability. to use modules and packages.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,s=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&g(e,t,a[t]);if(n)for(var t of n(a))i.call(a,t)&&g(e,t,a[t]);return e},d=(e,a)=>h(e,l(a));var u=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&i.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/packages-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdAYtVyeEyPgStQAA/qx3aHsDf6Nmzh4+Qqw7PgyZv9EJ/q0Vtg3/OYf+disuquvnWRduh+0dZ2bu22l23EcnznTal/ydaysS8DZThT/Ngsvy54Ev/4Z95FcU2KJ+GO9nzCt2bRbxQ6L5FagA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "packages-in-java",
+      "locale": "en",
+      "title": "Packages in Java",
+      "summary": "The abbreviation “JDK” stands for Java Development Kit. It’s a software development kit that contains everything you need to run Java programs. The JDK contains the JVM (Java Virtual Machine), the core Java libraries and the tools to write, run and debug your code. The Java programming language is a versatile and powerful language that is used to run on a wide range of systems and platforms. By grouping related classes and sub-packages into a single definition, you can make your code easier to understand and reuse.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,g=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&c(e,o,a[o]);if(n)for(var o of n(a))i.call(a,o)&&c(e,o,a[o]);return e},l=(e,a)=>g(e,u(a));var d=(e,a)=>{var o={};for(var t in e)r.call(e,t)&&a.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&n)for(var t of n(e))a.indexOf(t)<0&&i.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,a=d(t,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In this digital world, everything is going digital. Even the field of programming is shifting towards more digitized platforms and solutions. In such a scenario, the need for compact programs that can be easily installed and used on any device arises. That\\u2019s where Java packages come into play.\nA package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they\\u2019re easier to find later on. Let\\u2019s take a look at some common Java packages:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

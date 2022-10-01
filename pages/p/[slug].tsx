@@ -43,17 +43,16 @@ export default function Home({ post }: Props) {
       />
       <DetailedPost post={post} />
       <Divider />
-      {/* <PostListSection
+      <PostListSection
         title={`Other in ${capitalize(category)}`}
-        posts={data}
-      /> */}
+        posts={post.relatedArticles}
+      />
     </>
   );
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    // paths: [],
     paths: await generatePostPageStaticPaths(),
     fallback: false,
   };
@@ -63,14 +62,6 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
   const post = await getPost(ctx.params?.slug as string);
 
   if (!post) return { notFound: true };
-
-  // const posts = await getPosts({
-  //   locale: ctx.locale as Locale,
-  //   category: post?.category,
-  //   excludeBySlug: [post?.slug],
-  //   order: "random",
-  //   numberOfItems: 10,
-  // });
 
   return {
     props: { post },

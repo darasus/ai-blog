@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
   "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJYgCdAYr7ko1Kao3AAD+mx+/gT7upJe0fv9UTY2jDkIe23Ff+0gxcl6Mh/xjBf9V9shv9FcGTyWGsl/C8z4uq1qe4DCw+Q2Ol82/JP1yporRN1l10rxxnMR2eApehVy3h1xb8v3Z8T2/oKRyxHvQq845IWAAAAA=",
-  "createdAt": "2022-10-01T11:15:18.975Z",
-  "updatedAt": "2022-10-01T11:15:18.975Z",
+  "createdAt": "2022-10-01T11:39:17.226Z",
+  "updatedAt": "2022-10-01T11:39:17.226Z",
   "categoryLocal": "coding",
   "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
   "locale": "en",
@@ -16,5 +16,167 @@
   "content": {
     "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&h(e,a,t[a]);if(n)for(var a of n(t))i.call(t,a)&&h(e,a,t[a]);return e},d=(e,t)=>l(e,c(t));var u=(e,t)=>{var a={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&i.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is GraphQL?\"),mdx(\"p\",null,\"GraphQL is a data querying language. It\\u2019s a way to request information from a server, usually in the form of a JSON payload. It\\u2019s been around for a while, growing in popularity every year since its introduction in 2015. It\\u2019s been used for everything from apps to websites, and is quickly becoming a standard for API development.\"),mdx(\"p\",null,\"All of that sounds pretty simple, but like any technology, it\\u2019s more complicated than it appears at first glance. So, let\\u2019s break it down. GraphQL is a data querying language. That means that you use this language to access data from a server. That data is stored in a database, and that database can be anywhere: a server on your company\\u2019s network, a cloud service like Amazon Web Services, or a third-party API.\"),mdx(\"h2\",null,\"Why Use GraphQL?\"),mdx(\"p\",null,\"GraphQL was created as an improvement over REST APIs and other tools used to communicate between front-end and back-end systems. Its aim is to simplify how data is requested and retrieved, making it easier to find exactly what you\\u2019re looking for and allowing the front-end to specify the exact data it needs. The front-end is usually the user\\u2019s browser, but it could be any app accessing data. If a company\\u2019s marketing team wants to see a list of current customers or current campaigns, they could use GraphQL to request that data with one call instead of logging into several different systems, each with its own interface and its own set of instructions for getting that data.\"),mdx(\"h2\",null,\"Why is GraphQL so great?\"),mdx(\"p\",null,\"One reason is that GraphQL minimizes the server calls needed for a given operation. If you access data using REST, you have to make one call for each thing you want. If you access that data using GraphQL, you only have to make one call for everything. On the surface, that doesn\\u2019t seem like a big difference \\u2013 but it changes everything behind the scenes. Imagine you have a website where the homepage has 10 different widgets: widgets that display data, widgets that let your visitors sign in, widgets that let them log out. With a REST API, your website has to go through 10 different endpoints to get all of those widgets. With GraphQL, it goes through one.\"),mdx(\"h2\",null,\"How to Learn More About GraphQL?\"),mdx(\"p\",null,\"The best way to get started with GraphQL is to use it. If you\\u2019re building a new site, try implementing GraphQL, or if you\\u2019re working with an existing project, try to see if you can integrate it. You can also check out GraphQL\\u2019s documentation, which is extensive and easy to navigate.\"),mdx(\"p\",null,\"You can also check out blog posts and videos from other developers who have learned about GraphQL, as well as podcasts and newsletters. You can also reach out to developer communities like GitHub, Reddit, and Stack Overflow for help.\"),mdx(\"h2\",null,\"Wrapping up\"),mdx(\"p\",null,\"GraphQL has been growing in popularity for years. It\\u2019s easy to understand, easy to use, and promises to remove many of the headaches inherent in working with data. This is a great time to start learning about GraphQL, whether you\\u2019re a developer or a product manager. It\\u2019s a tool that can make your job easier, and it\\u2019s an important part of the future of data management and retrieval.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
-  }
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCw7EsTAW8AAD+/bpInbikdySjF438xr0S9xESa3mmfjXenv4wz9+3n+48ySau8EmHOvok/+u5FUBQU/1Cc/9GLj/VDB1hsAbY+BP737NFhKy5cn3AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "summary": "Python’s strong core library and massive third-party library support makes it an extremely powerful language. Shell scripts are another great option for system administrators. Using the language native to your operating system offers the most portability and flexibility. Monitoring and auditing are two critical aspects of system administration. There are many tools that can help you to install software on your systems. You should always think about how your software is organized and installed to make sure that it is easy to remove from your system.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(o,e,t)=>e in o?c(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,a=(o,e)=>{for(var t in e||(e={}))i.call(e,t)&&l(o,t,e[t]);if(s)for(var t of s(e))r.call(e,t)&&l(o,t,e[t]);return o},m=(o,e)=>d(o,h(e));var u=(o,e)=>{var t={};for(var n in o)i.call(o,n)&&e.indexOf(n)<0&&(t[n]=o[n]);if(o!=null&&s)for(var n of s(o))e.indexOf(n)<0&&r.call(o,n)&&(t[n]=o[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:o}=n,e=u(n,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJYgCdADx9zeOAAD+6l3VV/Ib3QNOxsNfz/rnNt2+wN8qymH3Hw77b6LVcfWamT7K28Zx/hpN8tEDJaffoCoouqYfinkijsUfYnj/jvPjlTsjfnVTT9B92q6VoYPI8F+6MwN/exYgAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "summary": "Python is an interactive, object-oriented, high-level programming language designed to be readable and flexible. It is mainly used for web development, data analysis, artificial intelligence, scientific computing, and software engineering. Python code can be written in a way that is “human-readable” with proper indentation. It can be used to analyze large amounts of data quickly, which is important in the context of scientific computing. Python is easy to learn, easy to read, has a large community of users, and is open source.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,s=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(a)for(var n of a(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>h(e,y(t));var g=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=g(o,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABwAgCdASoKAAoAAUAmJbACdLoAEIeYls3otyEAAP73Q3+B5GTKpxBboLJFjskdP+qi2zrI8078JPC5gU3NeyO5//0dNthB/5R4TX/zR++CP2qAobajslrkgAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "summary": "Learning how to code gives you a ton of benefits that can affect your life beyond your career. It can also help you build problem-solving skills, which can be applied to almost any aspect of your life. The best language to start with depends on your learning style, goal, and what resources you have available. Find a community of coders to be a part of and connect with others online or in your area. Choose a language and a project to work on - It’s important to apply what you’ve learned and practice.",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,h=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?y(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&c(e,n,t[n]);if(i)for(var n of i(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>h(e,l(t));var d=(e,t)=>{var n={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&i)for(var o of i(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=d(o,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJQBOgMVk7YRw0rkUgAD++7h+QdxBox8aCU/1Vb1O2VDD0ENr/A1DsZ6uyKQmMJGSnkN6HBHI+29TDh6x/W2rk/8ZLhDMGkZBC01a0UlCL+Li/9zfL/fo3uKuulAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-habits-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Habits for Beginners",
+      "summary": "There is a lot to learn when it comes to coding, but you need to make sure you have a strong foundation in the basics before attempting to write your first full-fledged program. Find a study group that meets regularly is one of the best ways to ensure you are making the most out of your coding studies. Exercise regularly is scientifically proven to improve brain health and strengthen neural connections by as much as 10% when you exercise regularly. Don’t be afraid of Google and YouTube when you feel stuck.",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&c(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&c(e,t,o[t]);return e},h=(e,o)=>y(e,g(o));var d=(e,o)=>{var t={};for(var a in e)s.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=d(a,[\"components\"]);return mdx(MDXLayout,h(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJagCdAYtLvumSMW1wAD++PuvEzH2jd185FaEYP+5nRBVaR74kcaJwZwK8upG2vnfvr6BSdo7m75faE/DYx4aMka5q+oIYTt5zgD1fR/W2LSXTiSR81NRD0M5RIucN/36WX6/N2+iZn3sgAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "summary": "Inheritance is the process of taking one class and making it so that it extends the functionality of another. This means that the code that was implemented in the parent class can be used in the child class. This way, you’ll have a single point of code where that functionality is defined and you can reuse it as many times as you want. If you want to reuse code that has been implemented in a different class, then you should use inheritance. This is just one of the reasons why you might want to take advantage of inheritance.",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,n)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&h(e,n,t[n]);if(s)for(var n of s(t))r.call(t,n)&&h(e,n,t[n]);return e},u=(e,t)=>l(e,m(t));var d=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=d(o,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJZAC7AaZS+RSlCxYHWAA/olF8zjxwmym9T3gLSD/xvxkur/QtpvRuDVN6d/ZzUHJ0bYoIJ9ZcLIpZx50P/ikeB+9LnvsKb8KUy4/PNZcaHlY0xNaK9O9lsi+qQuCH6Uaz2+I5K+4AA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-beginners-guide",
+      "locale": "en",
+      "title": "Python - The Beginner's Guide",
+      "summary": "Python is a general-purpose, high-level programming language that can be used for a variety of applications, from web development to scientific computing. Python’s popularity has grown tremendously in recent years, and the language is now one of the most widely used in the world. Python has a wide range of operators and supports most of the standard operators used in other programming languages. There are two types of variables in Python: simple variables and complex variables. Without data types, computer programs would be very limited in their functionality and usefulness.",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?g(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(o)for(var t of o(n))i.call(n,t)&&d(e,t,n[t]);return e},y=(e,n)=>u(e,c(n));var h=(e,n)=>{var t={};for(var a in e)s.call(e,a)&&n.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&o)for(var a of o(e))n.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,n=h(a,[\"components\"]);return mdx(MDXLayout,y(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABQAgCdASoKAAoAAUAmJZACdATAAdhQXSnU5gAA/vNng0Gvc//Pr/6spkLa6FTlV7znNNPC7/5HxDKaduOc51z/l9g77H8yYKqMPgdMlb70Gme5Mf+rmxDefCZk2GbdtFFFJuHbZ/l/8EiX1U51o9ccjpE277p/dsL1+eiskF/XDD4zjn6v6mB1211j0G3vdIwKE3QNlX8mJSG5UrnM1dAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-tomorrow",
+      "locale": "en",
+      "title": "Python - The Language of Tomorrow",
+      "summary": "Python is one of the easiest programming languages to learn and is used in many industries. Python is a very flexible programming language that means that the code you write in Python is very easy to modify and adjust to do what you want it to do. Because Python is used to write code for many industries, it means that there are many different job opportunities for you when you graduate. Python developers love to hire Python developers when they need to hire someone new. It has great potential to work in finance, healthcare, technology, education, and science.",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?l(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,r=(t,e)=>{for(var o in e||(e={}))s.call(e,o)&&h(t,o,e[o]);if(n)for(var o of n(e))i.call(e,o)&&h(t,o,e[o]);return t},g=(t,e)=>m(t,y(e));var u=(t,e)=>{var o={};for(var a in t)s.call(t,a)&&e.indexOf(a)<0&&(o[a]=t[a]);if(t!=null&&n)for(var a of n(t))e.indexOf(a)<0&&i.call(t,a)&&(o[a]=t[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:t}=a,e=u(a,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAgCdASoKAAoAAUAmJbACdAELZMJ/u4SAAP7KKA859Fbjj3o2avxrnVVAZWqeaspy+H6eyOPr18/DU7zUvlBAiH/Ap6UHe/gFRl9pypTB0QZC0pJEAdL3el1fyP9YD5xGD/7exPxOrk+kKo//7fD6P/wQ//9Uz8E5W/bLO/7/9TtGP9/q3LW//dca/6cP+v8ZC2bAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "summary": "Java Application Testing is the most difficult, yet most critical part of software development. Testing your Java applications is recommended since it helps cut down on the number of bugs in your software. It also helps you release secure products into production faster by catching bugs before your customers do. Modern software is heavily dependent on third-party services, APIs, and libraries, which makes it difficult to predict all the scenarios that will be executed when users interact with your software, such as using third party services and libraries. Tests are primarily written in Java, though other programming languages are supported as well.",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&u(e,o,t[o]);if(a)for(var o of a(t))r.call(t,o)&&u(e,o,t[o]);return e},c=(e,t)=>d(e,f(t));var p=(e,t)=>{var o={};for(var s in e)n.call(e,s)&&t.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&a)for(var s of a(e))t.indexOf(s)<0&&r.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,t=p(s,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJbACdLoAAv3rPr8zAAD++yY0FUpnR3dw9DK5YfZxi/3r94vv1z61rdNoZRFcAIHHr1/MOK0O/9WpCZfwqKXLX/uLi/ZbR3GMBBycu//M0fpN9JvMAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "summary": "Go is a compiled programming language designed around simplicity, readability, and. It has a strong focus on concurrent programming and is commonly used for backend. The good news is that Go’s. concurrency support makes it easy to. handle these spikes. Go has a number of main reasons that Go is being. developed by major companies like Google, Netflix,. and. the other companies are using Go for their. back-to-back-front-front back-of-head services.",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))n.call(o,a)&&u(e,a,o[a]);if(r)for(var a of r(o))i.call(o,a)&&u(e,a,o[a]);return e},c=(e,o)=>m(e,d(o));var l=(e,o)=>{var a={};for(var t in e)n.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&i.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "https://theaipaper.b-cdn.net/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJaACdAYtpbHfWNA64AD+8BvR90hol1Xv91u1tvZ5/nGXpuYvn4naIkfsbTqOcbjtIs/HxaEf8NmCfjwr+bX8iy0HtdeXcejn1I/DP8n8mQfGuoqzavuzg/Rv82XuMP4Ctn5rNKOYhF0bQUU7+DkxUZ+ZuBgA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "rich-internet-applications-with-java",
+      "locale": "en",
+      "title": "Rich Internet Applications with Java",
+      "summary": "A rich internet application is a meaningful application running on the internet. These types of applications are highly interactive and have a more user-friendly interface than traditional websites. Java is platform independent, which means that a single piece of code can run on any device, regardless of the operating system. Java comes with built-in support for secure Sockets Layer (SSL) connections. Java has a reputation for being reliable, secure, and scalable, which makes it a great choice for developing RIAs.",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var p=(t,a,e)=>a in t?h(t,a,{enumerable:!0,configurable:!0,writable:!0,value:e}):t[a]=e,n=(t,a)=>{for(var e in a||(a={}))s.call(a,e)&&p(t,e,a[e]);if(i)for(var e of i(a))r.call(a,e)&&p(t,e,a[e]);return t},c=(t,a)=>l(t,d(a));var u=(t,a)=>{var e={};for(var o in t)s.call(t,o)&&a.indexOf(o)<0&&(e[o]=t[o]);if(t!=null&&i)for(var o of i(t))a.indexOf(o)<0&&r.call(t,o)&&(e[o]=t[o]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var o=e,{components:t}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),a),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Rich Internet applications, or RIAs, are web-based applications that feature greater interactivity than standard websites. Rather than simply enabling users to access information from a website, RIA applications typically provide users with the ability to take action on that content. For example, rather than simply providing users with information about a product and its price, an RIA application might enable users to add the product to a shopping cart and complete the purchase process.\nThis article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you\\u2019re planning on creating one.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

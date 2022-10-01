@@ -8,7 +8,7 @@ import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
 
 interface Props {
-  post: Post;
+  post: Omit<Post, "relatedArticles" | "content">;
 }
 
 export function PostExcerpt({ post }: Props) {

@@ -2,8 +2,8 @@
   "category": "cooking",
   "imageSrc": "https://theaipaper.b-cdn.net/articles/when-youre-short-on-time-30-minute-meals-or-less.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdDBHQWZbAcj2AAD+mx5UL30acKZ1foZ996BZR/jDLpMVYSkVpypnorUde6m9GNxX2/k+IQFXNIs/6GZn/gi+YIjpeSJZrXXWSOMp8f1TSh/8qrx8rH+YA/DHU2f//Xtqc25//j7JdRAAAA==",
-  "createdAt": "2022-10-01T11:14:19.878Z",
-  "updatedAt": "2022-10-01T11:14:19.878Z",
+  "createdAt": "2022-10-01T11:38:21.259Z",
+  "updatedAt": "2022-10-01T11:38:21.259Z",
   "categoryLocal": "cooking",
   "slug": "when-youre-short-on-time-30-minute-meals-or-less",
   "locale": "en",
@@ -16,5 +16,6 @@
   "content": {
     "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var h=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(n,e,s)=>e in n?l(n,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):n[e]=s,a=(n,e)=>{for(var s in e||(e={}))h.call(e,s)&&u(n,s,e[s]);if(t)for(var s of t(e))r.call(e,s)&&u(n,s,e[s]);return n},i=(n,e)=>m(n,c(e));var p=(n,e)=>{var s={};for(var o in n)h.call(n,o)&&e.indexOf(o)<0&&(s[o]=n[o]);if(n!=null&&t)for(var o of t(n))e.indexOf(o)<0&&r.call(n,o)&&(s[o]=n[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:n}=o,e=p(o,[\"components\"]);return mdx(MDXLayout,i(a(a({},layoutProps),e),{components:n,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"30-minute meals or less\"),mdx(\"h2\",null,\"Sheet pan suppers\"),mdx(\"h2\",null,\"Skillet soups\"),mdx(\"h2\",null,\"No-cook meals\"),mdx(\"h2\",null,\"Beans and grains\"),mdx(\"h2\",null,\"Vegetarian dinners\"),mdx(\"h2\",null,\"Non-vegetarian dinners\"),mdx(\"h2\",null,\"Bonus: Breakfast in 15 minutes or less\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
-  }
+  },
+  "relatedArticles": []
 }

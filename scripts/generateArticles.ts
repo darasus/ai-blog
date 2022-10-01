@@ -20,8 +20,6 @@ const translateAPI = new Translate();
 export async function generateArticles(spinner: Ora) {
   const titlesAndCategories = getArticleData();
 
-  const posts = [];
-
   for (const [i, { title, category }] of titlesAndCategories.entries()) {
     spinner.prefixText = "✏️";
     spinner.text = `Generating article titled(${i + 1}/${

@@ -16,7 +16,7 @@ export interface Post {
   imageSrcBase64: string;
   content: MDXRemoteSerializeResult<Record<string, unknown>>;
   intro: MDXRemoteSerializeResult<Record<string, unknown>>;
-  relatedArticles: Omit<Post, "relatedArticles">[];
+  relatedArticles: Omit<Post, "relatedArticles" | "content">[];
 }
 
 export type Category = keyof typeof data;

@@ -4,7 +4,7 @@ import { Link } from "../Link";
 import { PostExcerpt } from "./PostExcerpt";
 
 interface Props {
-  posts: Post[];
+  posts: Omit<Post, "relatedArticles" | "content">[];
   title?: string;
 }
 
