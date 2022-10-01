@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-system-automation.png",
+  "imageSrc": "/articles/python-the-language-for-system-automation.png",
   "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJZgCdAELz4HNovAA/upfJ+sJ9feHgByGQqjpP//YP3QSeJ+U9zMn92q47zyZCOAEMwRDWT4XqToghvYVywK9KUr/4t6U2+6ygLAenBbqizgrBfQwvvhPji6+DebcQAA=",
-  "createdAt": "2022-10-01T11:39:01.313Z",
-  "updatedAt": "2022-10-01T11:39:01.313Z",
+  "createdAt": "2022-10-01T12:13:30.929Z",
+  "updatedAt": "2022-10-01T12:13:30.929Z",
   "categoryLocal": "coding",
   "slug": "python-the-language-for-system-automation",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))r.call(t,o)&&h(e,o,t[o]);return e},u=(e,t)=>l(e,y(t));var c=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=c(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is Python?\"),mdx(\"p\",null,`Python is a general-purpose programming language that is used for many different types of applications, such as web development, data science, and automation. It is a popular programming language that has been around since the late 1980s. If you are interested in learning more about the history of Python, check out this article.\nPeople who learn Python can use it to create web applications or run system scripts, like those that control a computer\\u2019s operating system or handle other programming tasks on a computer.`),mdx(\"p\",null,\"Python\\u2019s use for system automation can be traced back to its syntax, which is simpler than other languages such as Java or C. This simplicity makes it easier for beginners to learn and gain experience in the field of automation.\"),mdx(\"h2\",null,\"Why use Python for system automation?\"),mdx(\"p\",null,\"As we have seen, Python is a simple programming language that can be used to automate even the most tedious tasks. And it is not just easier to learn, there are also many open source libraries that you can use. All this makes Python a great choice for automation scripting. Let\\u2019s look at a few reasons why Python is a popular choice for system automation.\"),mdx(\"h2\",null,\"How to Automate Tasks Using Python?\"),mdx(\"p\",null,\"As we mentioned earlier, the best way to understand how to use Python for system automation is to get your hands dirty. Code along with us and you will learn more about python for system automation.\"),mdx(\"h2\",null,\"How To Find And Run Scripts In Python?\"),mdx(\"p\",null,`Python comes with a built-in interpreter that can read and interpret Python code. You can find the interpreter on your computer by searching for \\u201Cpython\\u201D or \\u201Cpython interpreter\\u201D in your system\\u2019s search bar. You can also access the interpreter from within your preferred code editor or IDE.\nPython also comes with a built-in package manager that allows you to install third-party Python packages. To install a package, open your code editor and go to the \\u201CFile\\u201D menu. Then, click on \\u201CInstall Package\\u201D and search for the package you want to install. Select the package and click \\u201CInstall\\u201D. You can now use the package in your code.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"This blog has explored how Python is used to automate tasks and how it can benefit businesses. We have also explained why Python is a popular choice for automation scripting and how to code along with us to get started. If you want to streamline your business processes and automate tasks to increase efficiency and reduce costs, you should definitely consider Python.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAQCdASoKAAoAAUAmJZgCdAEOlXuEbAD+/WD97vQ8f/+KDDtD7jn7wvf+ofNU5qS1quy5XnnUf+CggeTNnE1nzYtBuTea/Pq25g2BcDDwSr/nzLI+s3EnYl2Flm0WdTpxm3W87KyqH/LjRiJDSMlX1nYUi/0b1vD71nnYUvJG4AAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,n=Object.prototype.propertyIsEnumerable;var c=(a,e,t)=>e in a?m(a,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[e]=t,s=(a,e)=>{for(var t in e||(e={}))i.call(e,t)&&c(a,t,e[t]);if(o)for(var t of o(e))n.call(e,t)&&c(a,t,e[t]);return a},p=(a,e)=>l(a,u(e));var g=(a,e)=>{var t={};for(var r in a)i.call(a,r)&&e.indexOf(r)<0&&(t[r]=a[r]);if(a!=null&&o)for(var r of o(a))e.indexOf(r)<0&&n.call(a,r)&&(t[r]=a[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:a}=r,e=g(r,[\"components\"]);return mdx(MDXLayout,p(s(s({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJbACdLoAAwjAJ+oNbAAA/vUj91v7R/bj5drQr8ptc0aV2b4nDKXmiTZTt377docWdv3eUBbP0gwsB25v7BWME8fQ395tLimZ8p7/mL/WW/TODOXjcVmtCZh0R383p88O2A2sbYpqI9+pvzzf+eKp9ZcKabxm3+MCD/K8Py79zf9+QAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-spring",
+      "locale": "en",
+      "title": "Introduction to Spring",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,a=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&l(e,n,o[n]);if(r)for(var n of r(o))i.call(o,n)&&l(e,n,o[n]);return e},u=(e,o)=>c(e,h(o));var d=(e,o)=>{var n={};for(var t in e)s.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&i.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=d(t,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AAMyzAznM+AA9j4Dewi45hdudRA4ZcLurolCQYR+rgFJfxWvz80RNDf/rNaYn5A84t/tw//ZdZzuoXKobSB375gA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-java",
+      "locale": "en",
+      "title": "Introduction to Java",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(a,t,e)=>t in a?p(a,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):a[t]=e,r=(a,t)=>{for(var e in t||(t={}))s.call(t,e)&&g(a,e,t[e]);if(n)for(var e of n(t))i.call(t,e)&&g(a,e,t[e]);return a},l=(a,t)=>h(a,m(t));var u=(a,t)=>{var e={};for(var o in a)s.call(a,o)&&t.indexOf(o)<0&&(e[o]=a[o]);if(a!=null&&n)for(var o of n(a))t.indexOf(o)<0&&i.call(a,o)&&(e[o]=a[o]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var o=e,{components:a}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADH0R/rAAA/vbL46Y0Cx22Lj2FuWnqa7LwVfv8oQpuNx9+s7eVPlmR3/su3k38eKXN8VZf1MK/+VFrG34yp/xlT/yFfV0VcCu6stbVG7XgAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&u(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&u(e,n,o[n]);return e},g=(e,o)=>y(e,h(o));var l=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADIAoGQAD+86/WKtNsCaNNZ7uAq/hKbh+svbMVlPnKsr3Yc13In/69safo3XerQ/pgf+OCl8AXXOR+TocAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-programs",
+      "locale": "en",
+      "title": "The Top Software Engineering Programs",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,n,o)=>n in e?c(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,r=(e,n)=>{for(var o in n||(n={}))i.call(n,o)&&p(e,o,n[o]);if(a)for(var o of a(n))s.call(n,o)&&p(e,o,n[o]);return e},g=(e,n)=>d(e,l(n));var f=(e,n)=>{var o={};for(var t in e)i.call(e,t)&&n.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&s.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,n=f(t,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoKAAoAAUAmJZwAAl1xD//EAAD++ng7B5o+7A33IM9m++1vGKLGSpiwn+CxrX5xswktkx2PPenx2b/CZkztyQzn+EL77C590AeL43AA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,y=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?h(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))i.call(n,t)&&d(e,t,n[t]);if(a)for(var t of a(n))s.call(n,t)&&d(e,t,n[t]);return e},c=(e,n)=>y(e,l(n));var u=(e,n)=>{var t={};for(var o in e)i.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&a)for(var o of a(e))n.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJZwC7H8AGBn4t00IAAD+/t+28B2pgLXKPvOXehTACnu0tH8RuoP/zgP9NQkMQvgghp63Y+43vg9y0zCmKdiYf0cD6gm+sIhSbwtz4AA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-gui-programming",
+      "locale": "en",
+      "title": "Go Language for Gui Programming",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var p=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var i=(e,o,a)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))p.call(o,a)&&i(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&i(e,a,o[a]);return e},m=(e,o)=>l(e,u(o));var d=(e,o)=>{var a={};for(var r in e)p.call(e,r)&&o.indexOf(r)<0&&(a[r]=e[r]);if(e!=null&&t)for(var r of t(e))o.indexOf(r)<0&&s.call(e,r)&&(a[r]=e[r]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var r=a,{components:e}=r,o=d(r,[\"components\"]);return mdx(MDXLayout,m(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJagCdAELVaFkGtQAAP5sntvpIL9ilkrS+9nAfva0LreRNNsxgytB+kVG7+IVW/+tdF9gbqddTtS235yE37Em5mg/p4lxtbJSMcjPal3pVcEZMCP1/nXD+MmdrRFZ674Hl/7k5wU3WDS/xhKdZ8Wd/Zbrv8BeBXAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-javaserver-faces-application",
+      "locale": "en",
+      "title": "Building a Javaserver Faces Application",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))r.call(a,n)&&c(e,n,a[n]);if(o)for(var n of o(a))s.call(a,n)&&c(e,n,a[n]);return e},l=(e,a)=>p(e,h(a));var d=(e,a)=>{var n={};for(var t in e)r.call(e,t)&&a.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&o)for(var t of o(e))a.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,a=d(t,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAgCdASoKAAoAAUAmJagCdLoB+AH4APIAA2gdIz6IAPKnt+zNH8FM+FIjW8fynSP673DZClJ0GQPZaMajL/9laKNbw+DesL+lr/7GfJZjlmmqiv6DAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&l(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&l(e,o,t[o]);return e},c=(e,t)=>u(e,y(t));var d=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJYgCdADx9zeOAAD+6l3VV/Ib3QNOxsNfz/rnNt2+wN8qymH3Hw77b6LVcfWamT7K28Zx/hpN8tEDJaffoCoouqYfinkijsUfYnj/jvPjlTsjfnVTT9B92q6VoYPI8F+6MwN/exYgAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,s=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(a)for(var n of a(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>h(e,y(t));var g=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=g(o,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

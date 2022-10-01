@@ -1,9 +1,9 @@
 {
   "category": "cooking",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/learning-how-to-cook-can-save-your-life.png",
+  "imageSrc": "/articles/learning-how-to-cook-can-save-your-life.png",
   "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdAYrdj6/6OYAAP5m1gTRPtkaow62A7pKWmtu0G5QhRCJJ2cYp14C+sIf8D/9zDSonVn0eWNxvJjMe3nskW0TYdZJc14leZV/8q9Q9dp/n6bU0/yn3/5qPxGPR//dPX9owAA=",
-  "createdAt": "2022-10-01T11:38:21.473Z",
-  "updatedAt": "2022-10-01T11:38:21.473Z",
+  "createdAt": "2022-10-01T12:12:38.817Z",
+  "updatedAt": "2022-10-01T12:12:38.817Z",
   "slug": "aprender-a-cocinar-puede-salvarte-la-vida",
   "locale": "es",
   "categoryLocal": "Cocinando",
@@ -20,119 +20,22 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/plant-proteins-vs-animal-proteins.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoKAAoAAUAmJYgCdAYub2XSZFf1RYAA/smGe3+YM3qaXwAdrqNoeIl+MWWquzWlBbEb3mz/BI/+hfnj9TmPYP4U01bdH7xeKy8GqBUn9cRt9f2nN/6Sfv+OhnzASMWCwMXDduC6tPq4rXVk1dUbgMQoXE+5g7vZZ1P/cckb0IO5KAAA",
+      "imageSrc": "/articles/3-steps-to-spring-clean-your-eating-habits.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJYgCdDBKAY9kQDWHAAD+6uWaXwTtoYJW3r/AecX1JqAx/2WdyWQdu121mpjw3Z8fK1J6LqBhUk5uww+LvzpYVTiZ/5OTP4N86IO7TY0ibFozzBtGKebEgAA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
-      "slug": "proteinas-vegetales-vs-proteinas-animales",
+      "slug": "3-pasos-para-limpiar-tus-habitos-alimenticios",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Proteínas Vegetales Vs Proteínas Animales",
-      "summary": "Las mejores fuentes de proteínas son las plantas como las legumbres, los cereales, los frutos secos y las semillas, especialmente las semillas de cáñamo, chía y lino. Los beneficios de las proteínas de origen vegetal no son solo para desarrollar músculo, sino que son una parte esencial de una dieta equilibrada. Las fuentes de origen vegetal también tienen cantidades muy bajas de grasas saturadas, que están relacionadas con un mayor riesgo de enfermedades del corazón. Son una excelente fuente de fibra y pueden ayudar a reducir el riesgo de enfermedades como la osteoporosis.",
+      "title": "3 Pasos Para Limpiar Tus Hábitos Alimenticios",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var i=(e,a,n)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,t=(e,a)=>{for(var n in a||(a={}))r.call(a,n)&&i(e,n,a[n]);if(o)for(var n of o(a))u.call(a,n)&&i(e,n,a[n]);return e},c=(e,a)=>m(e,p(a));var d=(e,a)=>{var n={};for(var s in e)r.call(e,s)&&a.indexOf(s)<0&&(n[s]=e[s]);if(e!=null&&o)for(var s of o(e))a.indexOf(s)<0&&u.call(e,s)&&(n[s]=e[s]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var s=n,{components:e}=s,a=d(s,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La gente ha cre\\xEDdo durante mucho tiempo que se debe comer m\\xE1s prote\\xEDna animal, especialmente carne roja, para desarrollar m\\xFAsculo y fuerza. Sin embargo, una dieta equilibrada con muchas prote\\xEDnas vegetales es esencial para cualquier persona preocupada por su salud.\nUna dieta equilibrada es crucial si desea mantenerse en forma y saludable. Esto se debe a que su cuerpo necesita una variedad de nutrientes, como vitaminas, minerales y grasas, de diferentes fuentes para funcionar de manera \\xF3ptima. Cuando un tipo de alimento se consume en exceso o en defecto, las consecuencias pueden ser negativas.\nPor otro lado, las prote\\xEDnas vegetales son una fuente importante de amino\\xE1cidos esenciales que el cuerpo humano no puede producir. Estos compuestos se encuentran abundantemente en alimentos vegetales como frijoles, lentejas, garbanzos, soja, guisantes y otros frutos secos y semillas.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,o,a)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&d(e,a,o[a]);if(n)for(var a of n(o))t.call(o,a)&&d(e,a,o[a]);return e},l=(e,o)=>c(e,p(o));var u=(e,o)=>{var a={};for(var s in e)i.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&t.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFPensando en la resoluci\\xF3n de A\\xF1o Nuevo de volver a comer m\\xE1s sano? Lo vemos todos los a\\xF1os, miles de personas prometiendo comer sano y en forma haciendo ejercicio despu\\xE9s de una temporada navide\\xF1a llena de excesos. Pero, \\xBFqu\\xE9 significa eso a\\xFAn m\\xE1s? Comer sano ya no es tan sencillo como lo era antes. Hay tantas dietas diferentes, tendencias alimentarias y filosof\\xEDas de nutrici\\xF3n flotando hoy en d\\xEDa, \\xBFc\\xF3mo se supone que debes saber qu\\xE9 funcionar\\xE1 para ti a largo plazo y no solo por un momento fugaz?\nSi los \\xFAltimos a\\xF1os nos han ense\\xF1ado algo, es que comer limpio lleg\\xF3 para quedarse. Entonces, en lugar de sentir que est\\xE1 probando otra nueva dieta de moda o una nueva tendencia alimentaria, deje que esta sea su gu\\xEDa de regreso a los conceptos b\\xE1sicos de comer alimentos saludables que ayuden a su cuerpo a largo plazo. Comer limpio no se trata de la perfecci\\xF3n o de eliminar grupos completos de alimentos; se trata de tomar decisiones m\\xE1s informadas sobre las cosas que pones en tu cuerpo a diario. Siga leyendo para obtener m\\xE1s informaci\\xF3n...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/quick-weeknight-pasta-recipes.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAACwAgCdASoKAAoAAUAmJaACdAtEmbu95KYDx/vupaAA/vWEP/xY5yuS++Rpx7m24bFXUjZhoymod5eeQrUL35xuodCaB9no6hUT41WVPtWdMH/477sgI5dVP8wKZ8VP2PKn96Z6aXCjX3ptufYCNRaN2fwwVrisr3fw/l9cCrHn/7wP9HMZ1XoVfDNLMOv5N7GvimIxB70mI/anf7+AAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "recetas-rapidas-de-pasta-entre-semana",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Recetas Rápidas De Pasta Entre Semana",
-      "summary": "Hay algunos consejos clave a tener en cuenta al cocinar cenas rápidas de pasta. No tenga miedo de mezclar su pasta, también puede usar penne, fusilli, rotini y más para poner su cena en la mesa más rápido. Elija ingredientes frescos si puede y asegúrese de que sean de la mejor calidad que pueda pagar. Una pasta de una sola olla con una salsa ligera es una idea de receta de pasta fácil que se puede preparar en solo unos minutos.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var p=(a,e,s)=>e in a?d(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,t=(a,e)=>{for(var s in e||(e={}))r.call(e,s)&&p(a,s,e[s]);if(n)for(var s of n(e))c.call(e,s)&&p(a,s,e[s]);return a},u=(a,e)=>l(a,m(e));var i=(a,e)=>{var s={};for(var o in a)r.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&c.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=i(o,[\"components\"]);return mdx(MDXLayout,u(t(t({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La pasta es una soluci\\xF3n perfecta entre semana para cocineros caseros ocupados. Es barato, se cocina r\\xE1pido y es muy f\\xE1cil de vestir con sabores audaces y salsas interesantes.\nIncluso cuando el tiempo es limitado y el estr\\xE9s del trabajo o la escuela es alto, \\xA1conf\\xEDe en la pasta! Hay tantas maneras de hacer recetas r\\xE1pidas de pasta que no te llevar\\xE1n m\\xE1s de 30 minutos de principio a fin.\nPara ayudarlo, hemos enumerado algunas de nuestras recetas de pasta r\\xE1pida favoritas aqu\\xED, junto con consejos sobre c\\xF3mo optimizar a\\xFAn m\\xE1s su proceso. Esperamos que esta gu\\xEDa lo convierta en un experto en la preparaci\\xF3n de platos r\\xE1pidos de pasta que encantar\\xE1n a todos en la casa.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/breakfast-ideas-beyond-cereal-oatmeal.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCST+hGiAAA/vNwLI1iPEwfjlUHkK1DA+iETt7uyWOYEIS+yFWr1B+os0/CddqPqk3cLgd7PwUWspi//R5v6XH5lH/1v92XmvWf/9nsvsH//eB9TB9//qb/+fUAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "ideas-para-el-desayuno-mas-alla-del-cereal-avena",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Ideas Para El Desayuno Más Allá Del Cereal + Avena",
-      "summary": "El mejor alimento para el desayuno está repleto de proteínas y otros nutrientes, como vitaminas B y D, colina y hierro. Los huevos son increíblemente versátiles y se pueden preparar de muchas maneras diferentes. Las bayas son ricas en antioxidantes y fibra y son el plato perfecto para el desayuno. Puede picar algunas frutas, como manzanas, peras o plátanos, para agregar a su tazón para obtener más fibra y dulzura. Los tazones de verduras mixtas están llenos de fibra, vitaminas y minerales que son esenciales para que tu cuerpo funcione correctamente.",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(a,e,o)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))u.call(e,o)&&i(a,o,e[o]);if(s)for(var o of s(e))t.call(e,o)&&i(a,o,e[o]);return a},l=(a,e)=>d(a,p(e));var m=(a,e)=>{var o={};for(var n in a)u.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&s)for(var n of s(a))e.indexOf(n)<0&&t.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=m(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando eres joven, realmente no piensas en cu\\xE1nto tiempo dedicas a la comida. Solo comes porque est\\xE1 ah\\xED y porque tu est\\xF3mago ruge. Pero, a medida que envejeces y las prioridades cambian, la forma en que ves los alimentos tambi\\xE9n cambia. El desayuno se convierte en una comida m\\xE1s importante del d\\xEDa ya que es la primera del d\\xEDa.\nSeamos realistas: la mayor\\xEDa de la gente piensa en el desayuno como cereal o avena como su comida favorita. \\xBFPor qu\\xE9? Porque son f\\xE1ciles de preparar y servir cuando salimos corriendo de la casa para tomar el autob\\xFAs o el autob\\xFAs escolar por la ma\\xF1ana. Pero hay otras formas de desayunar bien que no te quitar\\xE1n mucho tiempo ni espacio en la cocina. Aqu\\xED hay algunas ideas para comer un desayuno saludable todos los d\\xEDas que no involucre cereales o avena...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/10-ways-to-use-up-leftover-cooked-rice.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJzcwEe6AAP7wlPN/RTTTv3SPH872csOFyyrHtOr7aFt2d0yp8wm9JmBxV6EmwhbmPZvWlv/i0ctny9BxNEg1mf/zvVT+rfk29vf0gP4N/tQw++ZYbev9QwAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "10-maneras-de-usar-el-arroz-cocido-sobrante",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "10 Maneras De Usar El Arroz Cocido Sobrante",
-      "summary": "Usar el arroz sobrante en una cacerola es una excelente manera de usarlo, especialmente si está cocinando para un grupo de personas. El tazón de arroz con atún es una excelente manera de hacer tazones de arroz y bolas de arroz. Las bolas de arroz también se conocen como onigiri y son un refrigerio popular en Japón. Los pasteles de arroz horneados son suaves, masticables y pegajosos y están llenos de muchos nutrientes y también están llenos de ingredientes dulces o salados. Si te sobra algo de arroz, puedes convertirlo en un pastel de arroz. Las cazuelas de salmón y arroz son una gran fuente de proteínas y grasas omega-3.",
-      "intro": {
-        "compiledSource": "var i=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var d=(e,o,a)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))t.call(o,a)&&d(e,a,o[a]);if(s)for(var a of s(o))u.call(o,a)&&d(e,a,o[a]);return e},c=(e,o)=>l(e,m(o));var p=(e,o)=>{var a={};for(var n in e)t.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&u.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=p(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Cuando has cocinado un lote de arroz y solo queda un poco, puede ser decepcionante. Es posible que piense que no hay forma de usarlo y terminar\\xE1 estrope\\xE1ndose antes de encontrar otro uso para \\xE9l. Sin embargo, este no es el caso. Hay muchas maneras de usar el arroz cocido sobrante que son deliciosos y no se desperdiciar\\xE1n. De hecho, es posible que desee cocinar un segundo lote para que pueda tener algunas sobras nuevamente. Afortunadamente, estas ideas te ayudar\\xE1n a aprovechar al m\\xE1ximo el arroz sobrante.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/make-ahead-freezer-meals-for-busy-families.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoKAAoAAUAmJaACdAEOZst8+kAA/vi/X/q58Iqp1u/KuRLXfuXMlrlwHeWb1lCguMrkVX+mSjNbv0OT9/2uIWcHCpMzXLnQVP8rH1HWqySel0lLDwJLO5bUl/0P/OeeVfRMFmMhoW2ohe8757OZxAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "prepare-comidas-congeladas-con-anticipacion-para-familias-ocupadas",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Prepare Comidas Congeladas Con Anticipación Para Familias Ocupadas",
-      "summary": "Preparar comidas congeladas con anticipación es una excelente manera de ahorrar tiempo, dinero y crear comidas saludables que puede disfrutar cualquier día de la semana. Puede personalizar las comidas preparadas para satisfacer las necesidades dietéticas de su familia. Cuando prepare comidas congeladas a granel y las almacene en bolsas para congelar, no tendrá que luchar para encontrar comidas rápidas y fáciles cuando las necesite. Usando ingredientes listos para el congelador, puede preparar fácilmente un desayuno saludable que lo llevará a trabajar a tiempo.",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,p=Object.prototype.propertyIsEnumerable;var i=(a,e,o)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,n=(a,e)=>{for(var o in e||(e={}))t.call(e,o)&&i(a,o,e[o]);if(s)for(var o of s(e))p.call(e,o)&&i(a,o,e[o]);return a},c=(a,e)=>l(a,m(e));var d=(a,e)=>{var o={};for(var r in a)t.call(a,r)&&e.indexOf(r)<0&&(o[r]=a[r]);if(a!=null&&s)for(var r of s(a))e.indexOf(r)<0&&p.call(a,r)&&(o[r]=a[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:a}=r,e=d(r,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La idea de preparar comidas congeladas con anticipaci\\xF3n es genial. Es la soluci\\xF3n perfecta para los d\\xEDas ajetreados y agitados en los que simplemente no puede encontrar el tiempo para cocinar una comida decente para su familia. Estos d\\xEDas r\\xE1pidos y furiosos ocurren la mayor\\xEDa de las veces, y parece que no importa cu\\xE1nto tiempo tengamos para planificar o preparar nuestras comidas, la vida siempre se interpone en el camino.\nNo es raro volver a casa despu\\xE9s de un largo d\\xEDa de trabajo, recoger a su hijo de las actividades extracurriculares, apresurarlos a entrar para que pueda llevarlos a otro lugar y luego regresar a casa justo a tiempo para la cena, si puede hacerlo. \\xA1antes de la hora de dormir!\nAfortunadamente, hay formas de preparar comidas congeladas con anticipaci\\xF3n que son simples y sin estr\\xE9s. No tienes que sentirte como un fracaso todos los d\\xEDas como padre si te tomas un tiempo ahora para preparar estos platos.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-benefits-of-juicing-4-recipes-to-get-you-started.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABwAgCdASoKAAoAAUAmJbACdDBKyIa3QBvs4JyAAP39PUJYs39xTxLHnPa4SC2K4vbqAj+IxwbaumaEe8VSy51/b2Akxa9R+u9pEGfBKm4BrrZ3B2PJ5nOrui35nY1pA0LfdyIcm8KEE8HJqQ9/01ur37h/YETop+jdkJ9a+4pK/znH5/AAAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-beneficios-de-los-jugos-4-recetas-para-comenzar",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Los Beneficios De Los Jugos: 4 Recetas Para Comenzar",
-      "summary": "Los beneficios de los jugos son muchos, por lo que hay muchas razones por las que debería comenzar a hacerlo. Los jugos también son excelentes para los niños y se pueden usar como una forma de hacer que coman más frutas y verduras. Juic también es una excelente opción si no tiene mucho tiempo para pasar en la cocina o si desea eliminar las conjeturas al planificar las comidas. Obtener lo mejor de lo mejor para sus necesidades es extremadamente importante, y la elección correcta puede no durar mucho.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(e,o,s)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))u.call(o,s)&&i(e,s,o[s]);if(n)for(var s of n(o))t.call(o,s)&&i(e,s,o[s]);return e},c=(e,o)=>p(e,l(o));var m=(e,o)=>{var s={};for(var a in e)u.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&t.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los jugos tienen muchos beneficios, desde estimular su sistema inmunol\\xF3gico hasta aumentar su ingesta de vitaminas y minerales. Si est\\xE1 pensando en comenzar un r\\xE9gimen de jugos pero no est\\xE1 muy seguro de por d\\xF3nde empezar, tenemos lo que necesita.\nNos encantan los jugos porque nos brindan una manera f\\xE1cil de obtener muchas vitaminas y minerales que quiz\\xE1s no obtengamos de nuestras otras comidas. \\xBFLa mejor parte? Hacer jugo es barato (o gratis si cultivas tus propios productos), f\\xE1cil y r\\xE1pido. Puede hacer un vaso de jugo en menos de 5 minutos sin mucho trabajo de preparaci\\xF3n.\nJugo tambi\\xE9n significa que probablemente consumir\\xE1 m\\xE1s frutas y verduras que en cualquier otra forma. Este art\\xEDculo cubre todo lo que necesita saber sobre los jugos, incluido por qu\\xE9 es bueno para usted, los diferentes tipos de exprimidores disponibles en el mercado hoy en d\\xEDa, cu\\xE1ntas calor\\xEDas hay en los diferentes tipos de jugos y algunas recetas incre\\xEDbles para comenzar.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-make-the-perfect-roast-chicken.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJbACdDBHQWlLYFEsIAD++2LegHN9PwuBhdp6vGDH9Ox2ziLEoacQl0swRd2uvZ/fj8rRKfhXF8AOWUHoXWw+CNnzBgypJQ6XnB1w1Kr/v/ypKSvXKv4W/nMB2v+Lbxvl5nSycBikAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-hacer-el-pollo-asado-perfecto",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Cómo Hacer El Pollo Asado Perfecto",
-      "summary": "El pollo asado perfecto es un pollo jugoso y sabroso asado a la perfección. Confíe en una fuente confiable de carne que sea orgánica y de corral si es posible. La salmuera en seco ayudará a que la piel quede crujiente durante el proceso de tostado. El ajo asado es delicioso, y el sabor impregnará tu pollo con un aroma sutil pero delicioso. Las verduras asadas y los aromáticos se pueden asar con su pollo para obtener una guarnición deliciosa y nutritiva que combina perfectamente con el pollo. El equilibrio de sabor con hierbas y especias, como las especias, también tiene su propio sabor natural.",
-      "intro": {
-        "compiledSource": "var i=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,o,a)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,l=(e,o)=>{for(var a in o||(o={}))r.call(o,a)&&t(e,a,o[a]);if(n)for(var a of n(o))c.call(o,a)&&t(e,a,o[a]);return e},u=(e,o)=>p(e,m(o));var d=(e,o)=>{var a={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&c.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=d(s,[\"components\"]);return mdx(MDXLayout,u(l(l({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El pollo asado es una de las formas m\\xE1s vers\\xE1tiles y f\\xE1ciles de cocinar carne. Asado correctamente, con un equilibrio de sabrosos condimentos, el pollo puede ser jugoso, tierno y lleno de delicioso sabor.\nEl asado tambi\\xE9n hace que sea m\\xE1s f\\xE1cil de comer que el pollo frito, ya que no tiene que preocuparse por el exceso de aceite o la grasa no saludable que gotea en su dieta. El pollo asado es una excelente fuente de prote\\xEDnas, y si compra su ave en el mercado de agricultores o en una tienda de comestibles org\\xE1nica, es probable que incluso sea criada en pastos y mucho m\\xE1s saludable que cualquier cosa que encuentre en un supermercado.\nCon esta receta de pollo asado podr\\xE1s disfrutar del pollo asado en casa una y otra vez. \\xA1Sigue leyendo para obtener excelentes consejos sobre c\\xF3mo hacer el pollo asado perfecto cada vez!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/make-your-own-recipes-for-diy-condiments-and-sauces.png",
+      "imageSrc": "/articles/make-your-own-recipes-for-diy-condiments-and-sauces.png",
       "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdAYtVa02w3BZzQAA/vvY26vbNenDLNbVl9P53gDxd1xaN8aG/P/88B533uNajN/4OPxCcvkw8l6V83ClaQgaw0BMcfpVonql7Wz4wW3BBBe5zTEdcvd2arQKdFk/+FoMSUWn8z7fnu8YhzZcTNEMQAAA",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -140,7 +43,6 @@
       "locale": "es",
       "categoryLocal": "Cocinando",
       "title": "Haz Las Tuyas: Recetas De Condimentos Y Salsas Caseros",
-      "summary": "La mayoría de la gente no se da cuenta de que la mayonesa se puede hacer en casa, pero en realidad es muy fácil. Para hacer mostaza, necesitarás semillas de mostaza (ya sea amarilla o negra), agua, un frasco y una nevera. Puedes hacer una salsa BBQ básica en casa con salsa de tomate, vinagre, azúcar morena y condimentos. La salsa picante es un condimento rápido y fácil de hacer en casa. Sriracha es una salsa súper picante y picante que se usa en muchos platos asiáticos.",
       "intro": {
         "compiledSource": "var i=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var c=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var u=(a,e,s)=>e in a?i(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,r=(a,e)=>{for(var s in e||(e={}))c.call(e,s)&&u(a,s,e[s]);if(n)for(var s of n(e))t.call(e,s)&&u(a,s,e[s]);return a},d=(a,e)=>p(a,m(e));var l=(a,e)=>{var s={};for(var o in a)c.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&t.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=l(o,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El humilde condimento es uno de los h\\xE9roes m\\xE1s infravalorados de la cocina. Un poco de salsa por aqu\\xED, una cucharada de mayonesa por all\\xE1, \\xA1y listo! Has transformado pollo o hamburguesas aburridos en algo espectacular. Los condimentos son los potenciadores de sabor clave en nuestra comida y jugar con diferentes combinaciones puede animar tu paladar y cambiar las cosas d\\xEDa a d\\xEDa. Pero, \\xBFest\\xE1s usando estas gemas ocultas de la mejor manera posible? Muchas personas tienden a comprar salsas compradas en la tienda cuando podr\\xEDan prepararlas f\\xE1cilmente en casa a una fracci\\xF3n del costo.\nSin embargo, todos sabemos que las versiones caseras ser\\xE1n mucho m\\xE1s saludables y frescas que cualquier cosa que pueda comprar en el estante de una tienda, entonces, \\xBFpor qu\\xE9 no tomar 30 minutos de su apretada agenda para preparar algunos condimentos? La buena noticia es que muchas de estas recetas son muy f\\xE1ciles de preparar, incluso si eres un novato en la cocina. Desde salsa de chile dulce hasta mayonesa, estos son nuestros 10 mejores condimentos y salsas caseras que deber\\xEDa intentar preparar hoy...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
@@ -148,23 +50,7 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/instant-pot-ideas-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAQCdASoKAAoAAUAmJbACdAEQ+ltlY7AA/vm7I28ZmpkvR46a1Wisog7A0/YmhD+a+DHgP60xxbqC0cMPpfO1ewUqRojocU4SvA523uY3gpHOrji3vVytR1Nt3b/ffw89ke7b2YLMRWSZ5+7gx7OfJm0YryIzPm4sXKT6xxSgf9UPUvf/8GSAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "ideas-de-ollas-instantaneas-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Ideas De Ollas Instantáneas Para Principiantes",
-      "summary": "La cocción a presión utiliza vapor para cocinar los alimentos de forma rápida y eficiente, al tiempo que conserva los nutrientes de los alimentos. Las ollas a presión llegan a la presión cuando el agua en su interior alcanza un cierto punto de ebullición. Realmente no puede cocinar alimentos que deben \"hervirse\" en una olla a presión. La temperatura de la olla oscilará entre 100 y 390 F, que está por debajo de la temperatura de ebullición del agua. La olla dentro del aparato se llama olla de “doble presión”. Esto significa que puede cocinar alimentos tanto a baja presión como a alta presión.",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(a,e,n)=>e in a?l(a,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):a[e]=n,r=(a,e)=>{for(var n in e||(e={}))t.call(e,n)&&u(a,n,e[n]);if(o)for(var n of o(e))i.call(e,n)&&u(a,n,e[n]);return a},p=(a,e)=>m(a,d(e));var c=(a,e)=>{var n={};for(var s in a)t.call(a,s)&&e.indexOf(s)<0&&(n[s]=a[s]);if(a!=null&&o)for(var s of o(a))e.indexOf(s)<0&&i.call(a,s)&&(n[s]=a[s]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var s=n,{components:a}=s,e=c(s,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Instant Pot es una de las marcas m\\xE1s populares de ollas a presi\\xF3n el\\xE9ctricas. Los nuevos usuarios a menudo tienen muchas preguntas sobre c\\xF3mo usar mejor este aparato y qu\\xE9 tipo de recetas son las m\\xE1s adecuadas para \\xE9l. \\xA1Aqu\\xED hay algunas ideas para usuarios principiantes de Instant Pot que lo inspirar\\xE1n!\nSi eres nuevo en el mundo de la cocci\\xF3n a presi\\xF3n, la idea de una olla \\u201Cinstant\\xE1nea\\u201D puede parecer un poco extra\\xF1a al principio. Sin embargo, usar una olla instant\\xE1nea (o cualquier olla a presi\\xF3n el\\xE9ctrica) puede ahorrarle tiempo y al mismo tiempo conservar m\\xE1s nutrientes en sus alimentos. \\xA1As\\xED que echemos un vistazo a algunas ideas simples para principiantes que reci\\xE9n comienzan con su Instant Pot y quieren probar algunas recetas f\\xE1ciles!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/from-soup-to-nuts-the-best-recipes-for-winter.png",
+      "imageSrc": "/articles/from-soup-to-nuts-the-best-recipes-for-winter.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJagCdAYt9vu7t1wljAD+9Og9fHr2fZ12/9d8D4zIITR9DMAKshcWrVAC2/iHceXU0FD96+Lj6VaCmQpvywa5F+HPrM3KQclr/YcjB/OYr5ez95aTIr2UljaYEVr70uVQXz67hFv/e6n7sU4s9JHfPNdTjsoAAAA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -172,9 +58,113 @@
       "locale": "es",
       "categoryLocal": "Cocinando",
       "title": "De La Sopa a Las Nueces: Las Mejores Recetas Para El Invierno.",
-      "summary": "Los macarrones con queso horneados son fáciles de preparar y son perfectos para una cena de fin de semana cuando quieres descansar y relajarte. Un estofado de cerdo afrutado es ideal para una abundante comida de invierno. Los frijoles horneados son un excelente desayuno para el invierno y están llenos de proteínas. Puedes hacer una gran olla de chile que te durará unos días en los meses de invierno. Esta receta de pastel helado es excelente para todas las épocas del año y es excelente para comer durante el invierno. También es una excelente manera de usar el pollo sobrante que, de lo contrario, se tiraría.",
       "intro": {
         "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var u=(e,a,s)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,r=(e,a)=>{for(var s in a||(a={}))t.call(a,s)&&u(e,s,a[s]);if(n)for(var s of n(a))l.call(a,s)&&u(e,s,a[s]);return e},i=(e,a)=>d(e,m(a));var c=(e,a)=>{var s={};for(var o in e)t.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&l.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=c(o,[\"components\"]);return mdx(MDXLayout,i(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Cuando baja la temperatura y las hojas caen de los \\xE1rboles, sabemos que se acerca una cosa: el invierno. Es una \\xE9poca sombr\\xEDa del a\\xF1o que puede ser dif\\xEDcil de superar. Sin embargo, tambi\\xE9n hay algunas ventajas. Por ejemplo, puedes beber chocolate caliente y comer una canasta llena de galletas navide\\xF1as sin sentirte culpable por ello. Tambi\\xE9n hay algunas recetas maravillosas para el invierno que definitivamente deber\\xEDas agregar a tu libro de recetas. Desde ricas salsas y sustanciosos guisos hasta dulces y bebidas calientes, hay muchas cosas que puedes hacer con ingredientes que son perfectos para los meses m\\xE1s fr\\xEDos. Aqu\\xED est\\xE1 nuestra lista de las mejores recetas para el invierno.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/why-salmon-should-be-a-weekly-staple.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJaACdH8AGBwIURUGwAD+8YMdtOyC9DL6CnikAV0lOXk5AnyE6xNXe3/1UMOzz9vGd1EsmtiGz+U+aGkZu3zCOTojY1TpbrfllGyVS/7jpJ/q+3GL1fwcmf4v/1JP97f/8dXxf7Nj7L0P7nJn+hP/Qn7gAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "por-que-el-salmon-deberia-ser-un-alimento-basico-semanal",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Por Qué El Salmón Debería Ser Un Alimento Básico Semanal",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,a,s)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,r=(e,a)=>{for(var s in a||(a={}))d.call(a,s)&&c(e,s,a[s]);if(o)for(var s of o(a))i.call(a,s)&&c(e,s,a[s]);return e},u=(e,a)=>m(e,p(a));var t=(e,a)=>{var s={};for(var n in e)d.call(e,n)&&a.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&i.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,a=t(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"\\xBFCreciste creyendo que comer pescado al menos una vez a la semana es bueno para ti? Si es as\\xED, \\xA1tienes raz\\xF3n! Comer pescado tiene muchos beneficios para la salud, incluida la reducci\\xF3n del riesgo de enfermedad card\\xEDaca y accidente cerebrovascular. Comer pescado tambi\\xE9n es una de las mejores fuentes diet\\xE9ticas de grasas omega-3, que su cuerpo no puede producir por s\\xED mismo y debe obtener de los alimentos. Se ha demostrado que estas grasas reducen el riesgo de enfermedades card\\xEDacas e incluso pueden ayudar a disminuir la inflamaci\\xF3n y mejorar el dolor articular en personas que sufren de artritis. Una dieta rica en grasas omega-3 tambi\\xE9n puede desempe\\xF1ar un papel en la prevenci\\xF3n de la depresi\\xF3n, las AVD (disminuci\\xF3n de las actividades de la vida diaria relacionadas con la edad) y la enfermedad de Alzheimer. Sin embargo, no todos los tipos de pescado tienen los mismos beneficios. Aqu\\xED hay algunas razones por las que el salm\\xF3n debe ser una parte b\\xE1sica de su dieta.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/comfort-food-recipes-to-warm-your-soul.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAgCdASoKAAoAAUAmJagCdLoAEIrpAB3zV7CIdEI+IAD+82VM1LICvzy8DbPSnfYNbwxLOlVWtYi08mZVo4VLuEWq3ldd1Wj9LIONzU/WLN+mMV8n+ZmzSWqJBzkmdLU1PtuFlLst5HRN//0Yeb3kt3Wnql/N4OiXX2l3JemesgAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "recetas-de-comida-reconfortante-para-calentar-tu-alma",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Recetas De Comida Reconfortante Para Calentar Tu Alma",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,a,s)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,r=(e,a)=>{for(var s in a||(a={}))t.call(a,s)&&c(e,s,a[s]);if(n)for(var s of n(a))i.call(a,s)&&c(e,s,a[s]);return e},u=(e,a)=>p(e,m(a));var d=(e,a)=>{var s={};for(var o in e)t.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&i.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Es la \\xE9poca perfecta del a\\xF1o para acurrucarse con una manta y sumergirse en un taz\\xF3n de sopa humeante, guiso u otra comida reconfortante casera. \\xBFQui\\xE9n puede resistirse al aroma saludable de un plato cocinado a fuego lento? \\xA1Nosotros no!\nEstos platos est\\xE1n llenos de ingredientes ricos y sabrosos que lo calientan desde adentro hacia afuera. Tambi\\xE9n son f\\xE1ciles de hacer en lotes grandes, lo que significa que puedes disfrutarlos para la cena durante varias noches seguidas sin aburrirte. Y debido a que estas comidas reconfortantes son f\\xE1ciles de duplicar o triplicar, tambi\\xE9n son excelentes ideas para estudiantes universitarios nost\\xE1lgicos o cualquiera que extra\\xF1e la cocina casera de mam\\xE1. Entonces, p\\xF3ngase sus pantalones el\\xE1sticos y prep\\xE1rese para sumergirse en estas 15 deliciosas recetas de comida reconfortante que esta temporada tiene para ofrecer...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/one-pan-dinners-fewer-dishes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJZgCdAYu5wLLQ26m4QAA/q3HYJ4QzbwvW/hI58fenFSOK5QBCZAnCZkFveSFg/e1huzgt6Mp+SHVHVuz41syVjCAF7niljs9Cr+KRAG9OtJ7KP07kPpjF74p+7Sp6LWGPB6mAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "cenas-en-una-sarten-menos-platos",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Cenas En Una Sartén = Menos Platos",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var d=(e,o,s)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))t.call(o,s)&&d(e,s,o[s]);if(n)for(var s of n(o))u.call(o,s)&&d(e,s,o[s]);return e},i=(e,o)=>c(e,l(o));var m=(e,o)=>{var s={};for(var a in e)t.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&u.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,i(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si eres como nosotros, probablemente temes lavar los platos despu\\xE9s de un largo d\\xEDa. \\xBFPor qu\\xE9? Porque lavar los platos es una de las tareas m\\xE1s tediosas y que consumen m\\xE1s tiempo que tenemos en nuestros hogares. Es por eso que hemos descubierto formas de reducir esa temida tarea y hacerla lo menos dolorosa posible.\nAhora que todos estamos viviendo juntos nuevamente despu\\xE9s de irnos a la universidad, hemos introducido muchos h\\xE1bitos nuevos como compa\\xF1eros de cuarto. Uno de nuestros favoritos es aprender a hacer cenas en una sart\\xE9n en las noches en que todos tienen un lugar donde estar despu\\xE9s de la cena. \\xA1Significa menos tiempo en la cocina y menos platos para limpiar m\\xE1s tarde!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/the-best-recipes-for-using-up-leftover-cooked.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAYtpmxvvQw4CAD+4AuW0I36IOEqLw9H9UtVLbj/siCL1uv+sHDtQeydMQJqTMkTPln//GqUftcmt2jGe8ZDLLVy27j1PweoVOjgNudBvoh1iM8Ov4RPqqPCH3cP6JlmFHfy5b/3ON1/YjiX+pv/UeAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "las-mejores-recetas-para-aprovechar-sobras-de-cocido",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Las Mejores Recetas Para Aprovechar Sobras De Cocido",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var i=(a,e,s)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,n=(a,e)=>{for(var s in e||(e={}))t.call(e,s)&&i(a,s,e[s]);if(r)for(var s of r(e))l.call(e,s)&&i(a,s,e[s]);return a},c=(a,e)=>d(a,m(e));var p=(a,e)=>{var s={};for(var o in a)t.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&r)for(var o of r(a))e.indexOf(o)<0&&l.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=p(o,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFSab\\xEDas que las sobras son el secreto de las excelentes comidas caseras? Pi\\xE9nselo: los grandes cocineros caseros saben c\\xF3mo hacer que las sobras sepan a\\xFAn mejor. Los usan para crear comidas nuevas y diferentes que a todos les encantar\\xE1n, en lugar de comer lo mismo una y otra vez hasta que no lo soportan m\\xE1s.\nPor eso hemos elaborado esta lista de las mejores recetas para aprovechar los restos de pollo cocido. Estas recetas son r\\xE1pidas y f\\xE1ciles de preparar, pero tambi\\xE9n cumplen todos los requisitos en t\\xE9rminos de sabor, nutrici\\xF3n y facilidad de preparaci\\xF3n. En otras palabras, no solo utilizan las sobras de una manera deliciosa, sino que tambi\\xE9n te hacen la vida m\\xE1s f\\xE1cil para que no sientas que tienes que evitar cocinar otro plato de pollo solo porque est\\xE1s harto de las sobras. !`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/the-environmental-impact-of-our-food-choices.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADID4QGsAA/uAExXYdpn/c7awNs21S/hGPWV3p4JKPodqeQ/eMbfHFn+7pIJVbUYwoiLWozFjwZn4pF2UVjUVEH6f/NvD+J2BClrA3nqiZ/Zv8nJsNL2rv/lVz+J38Lv+ApiDx8O/wRW7NQUK+e+RYAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "el-impacto-ambiental-de-nuestras-elecciones-alimentarias",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "El Impacto Ambiental De Nuestras Elecciones Alimentarias",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var d=(e,a,s)=>a in e?c(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,t=(e,a)=>{for(var s in a||(a={}))i.call(a,s)&&d(e,s,a[s]);if(o)for(var s of o(a))l.call(a,s)&&d(e,s,a[s]);return e},r=(e,a)=>m(e,p(a));var u=(e,a)=>{var s={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&l.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,a=u(n,[\"components\"]);return mdx(MDXLayout,r(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy, somos testigos de una creciente conciencia del impacto que nuestras elecciones de alimentos tienen en el medio ambiente. Desde las emisiones de carbono hasta el uso del agua y la deforestaci\\xF3n, est\\xE1 claro que la dieta moderna tiene implicaciones para nuestro planeta.\nCada vez son m\\xE1s las personas que tienen en cuenta su alimentaci\\xF3n a la hora de tomar decisiones sobre su futuro. Quiz\\xE1s esto se deba a que estamos aprendiendo m\\xE1s sobre las implicaciones ambientales de nuestras elecciones de alimentos: comer menos carne es bueno para el planeta; comer solo comida local y de temporada es bueno para el planeta; comer plantas en lugar de animales reduce tu huella de carbono; debes evitar el aceite de palma ya que est\\xE1 destruyendo las selvas tropicales...\nPara comprender c\\xF3mo nuestra dieta afecta el medio ambiente, primero debemos entender qu\\xE9 diferencia las dietas saludables de las no saludables. Una dieta saludable es aquella que equilibra las calor\\xEDas con la nutrici\\xF3n, asegurando una ingesta adecuada de vitaminas y minerales. Una dieta desequilibrada o poco saludable tiene demasiado o muy poco de uno o m\\xE1s nutrientes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJZACdAYuRvtZV3PKAAD++2LH80hxrzJhWEtajSaZc26dD59tQUYzR2/duZnRY4oWP1MGK9ZvGfJhl7nMQZAKa/8LX3pVt1xwsjtq0/p/eUCYSzFWjbhImMMKf1q+uAGF8+yLFC1hjwgttAAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "5-formas-de-cocinar-con-tofu-para-carnivoros-y-vegetarianos",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "5 Formas De Cocinar Con Tofu - Para Carnívoros Y Vegetarianos",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))u.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))i.call(a,o)&&t(e,o,a[o]);return e},c=(e,a)=>p(e,m(a));var d=(e,a)=>{var o={};for(var n in e)u.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&i.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Independientemente de su dieta, el tofu puede ser una adici\\xF3n vers\\xE1til a su plan de comidas. Tambi\\xE9n es uno de los alimentos m\\xE1s incomprendidos. Todo el mundo sabe a qu\\xE9 nos recuerdan el queso, el pescado y el pollo, raz\\xF3n por la cual, para muchas personas, el tofu es un alimento extra\\xF1o, casi extra\\xF1o.\nDicho esto, el tofu ofrece una serie de beneficios: es rico en prote\\xEDnas y bajo en calor\\xEDas y grasas saturadas. Adem\\xE1s, dependiendo de c\\xF3mo lo prepares, el tofu no tiene sabor ni textura que pueda desanimar a cualquiera que desconf\\xEDe de las cosas.\nPara aquellos que no comen mucha carne o pescado pero a\\xFAn as\\xED quieren disfrutar de los sabores que aportan a una comida, cocinar con tofu es una excelente idea. Aqu\\xED hay cinco maneras en que puede usar este vers\\xE1til frijol como ingrediente principal en su pr\\xF3xima comida casera...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/the-ultimate-guide-to-making-a-perfect-pie-crust.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJZACdAYtLuKrf4Yu4oAA/vZ96IWzdDX71YHzPhdkpOU0b5hp/P/3n0mZhbXkAGIgcYUbHaDln6w8wYGiJ5iyAuQvvBZuQI5Ju3tA6z/vfoekbyK24EK1wovuX847v7rYwoAhP4HMcAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "la-guia-definitiva-para-hacer-una-masa-de-pastel-perfecta",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "La Guía Definitiva Para Hacer Una Masa De Pastel Perfecta",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var u=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&u(e,o,a[o]);if(r)for(var o of r(a))c.call(a,o)&&u(e,o,a[o]);return e},p=(e,a)=>l(e,m(a));var i=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&c.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=i(s,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando se trata de hornear, probablemente todos estemos un poco celosos de la facilidad con la que los chefs profesionales pueden preparar creaciones perfectas. Pero con el conocimiento adecuado, usted tambi\\xE9n puede dominar incluso las proezas gastron\\xF3micas m\\xE1s complicadas en casa.\nY, cuando se trata de tartas, nada es m\\xE1s impresionante que hacer tu propia masa. Es tan f\\xE1cil que cualquiera puede hacerlo, solo necesita los consejos y trucos correctos primero. En este art\\xEDculo, aprender\\xE1 todo lo que necesita saber sobre la masa para pastel, desde c\\xF3mo hacerla tierna y escamosa hasta c\\xF3mo evitar que se encoja durante el horneado. Tambi\\xE9n encontrar\\xE1 excelentes recetas para rellenos dulces y salados, as\\xED como ideas para diferentes ingredientes que son perfectos sin importar el tipo de ocasi\\xF3n que requiera un pastel casero. \\xA1As\\xED que toma tu cuaderno y prep\\xE1rate!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

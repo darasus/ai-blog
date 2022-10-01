@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/creating-a-javafx-user-interface.png",
+  "imageSrc": "/articles/creating-a-javafx-user-interface.png",
   "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoKAAoAAUAmJagCdLoAAv4K7UOlwAD45YePKl8kW428+pjjXd6h8lZx20a/WYE8bll/3QwbA6MMM//qDh6pmv/lo80K8/5wH9FAAA==",
-  "createdAt": "2022-10-01T11:39:04.668Z",
-  "updatedAt": "2022-10-01T11:39:04.668Z",
+  "createdAt": "2022-10-01T12:13:35.484Z",
+  "updatedAt": "2022-10-01T12:13:35.484Z",
   "categoryLocal": "coding",
   "slug": "creating-a-javafx-user-interface",
   "locale": "en",
@@ -20,39 +20,97 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagCdLoAAw9hAqnm+wAA/vufgCNkfzkBHP5WKLzL/j/zQr1NND3PWvfTum35FlumKPuf4xkm7861ngfms1fXYC/+CFHnFUPOKfK//8K1vZ4plsAAAA==",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJagCdEf/gbgFVftSwAD+9V2+ZZy+vb7ZXqTAy/CTv/VLgT8+/+JTW3lsM94zZC9mY534b/8ryah3AcH7y/Aehz9DSlT/QQZm2ovrlUYAYUf8kehJBZvwF7Ra+Z/8lOIwAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-use-coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
       "locale": "en",
-      "title": "How to Use Coding",
-      "summary": "Coding is the process of creating a set of instructions for a computer to follow. This is typically done with a computer programming language like Python, Java, or Ruby. It teaches your child to think critically, solve problems, and break down complex ideas into simpler, more manageable parts. The number of people interested in learning to code rising every year, coding is quickly becoming a marketable skill. It is an excellent skill to introduce your child at an early age. It challenges your child’s creative ideas and forces them to break down their ideas.",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,t,e)=>t in o?u(o,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[t]=e,a=(o,t)=>{for(var e in t||(t={}))r.call(t,e)&&l(o,e,t[e]);if(n)for(var e of n(t))s.call(t,e)&&l(o,e,t[e]);return o},c=(o,t)=>y(o,h(t));var d=(o,t)=>{var e={};for(var i in o)r.call(o,i)&&t.indexOf(i)<0&&(e[i]=o[i]);if(o!=null&&n)for(var i of n(o))t.indexOf(i)<0&&s.call(o,i)&&(e[i]=o[i]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var i=e,{components:o}=i,t=d(i,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),t),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&l(e,a,t[a]);if(o)for(var a of o(t))s.call(t,a)&&l(e,a,t[a]);return e},u=(e,t)=>d(e,p(t));var g=(e,t)=>{var a={};for(var n in e)r.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=g(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-code-snippets-effectively.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJQBOgCHgsX8s91AAAP75WLnzB4u1AjPBDze/1FChU9tganN9P48aTRCJAiQX+xiduAkbbAecOoRBsqXlVv5H7gPBuskQFQAAAA==",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJbACdLoAAv3rPr8zAAD++yY0FUpnR3dw9DK5YfZxi/3r94vv1z61rdNoZRFcAIHHr1/MOK0O/9WpCZfwqKXLX/uLi/ZbR3GMBBycu//M0fpN9JvMAAAA",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-use-code-snippets-effectively",
+      "slug": "go-language-for-web-development",
       "locale": "en",
-      "title": "How to Use Code Snippets Effectively",
-      "summary": "There are many situations where code snippets are a great tool to have at your disposal. They can be used to add in-line code comments, include code segments, format images, and insert frequently used code segments. Don’t rely on code snippets as a crutch to get through the challenge as quickly as possible. Take some time to learn the basics of different code languages to help you write code that is more efficient and effective. Learn how to read files from a specific file type and how to write a specific program.",
+      "title": "Go Language for Web Development",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&u(e,n,t[n]);if(s)for(var n of s(t))r.call(t,n)&&u(e,n,t[n]);return e},p=(e,t)=>m(e,d(t));var c=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,p(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))n.call(o,a)&&u(e,a,o[a]);if(r)for(var a of r(o))i.call(o,a)&&u(e,a,o[a]);return e},c=(e,o)=>m(e,d(o));var l=(e,o)=>{var a={};for(var t in e)n.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&i.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-an-overview.png",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZwC7AEQ/c9pFGYAAP7+Ld91k4CuTWLekqwAee8v9Jz16HjQngQDcCNwgw6K/2AMPsYKLLSo6txnXk076MriagAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "java-performance-tuning",
+      "locale": "en",
+      "title": "Java Performance Tuning",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,f=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var s=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&s(e,t,a[t]);if(n)for(var t of n(a))c.call(a,t)&&s(e,t,a[t]);return e},p=(e,a)=>f(e,h(a));var u=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&c.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoKAAoAAUAmJQAAW6FDOlsAAP77JpsbTLXVPyN8t2cEl6d97fDc/PVdwIyZ+5+oEhq7cbF99ppphjOpL8chwZv+wXz+7gDAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var g=(e,n,t)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))a.call(n,t)&&g(e,t,n[t]);if(i)for(var t of i(n))s.call(n,t)&&g(e,t,n[t]);return e},u=(e,n)=>l(e,p(n));var c=(e,n)=>{var t={};for(var o in e)a.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&i)for(var o of i(e))n.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=c(o,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJZAC7AaZS+RSlCxYHWAA/olF8zjxwmym9T3gLSD/xvxkur/QtpvRuDVN6d/ZzUHJ0bYoIJ9ZcLIpZx50P/ikeB+9LnvsKb8KUy4/PNZcaHlY0xNaK9O9lsi+qQuCH6Uaz2+I5K+4AA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-beginners-guide",
+      "locale": "en",
+      "title": "Python - The Beginner's Guide",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?g(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(o)for(var t of o(n))i.call(n,t)&&d(e,t,n[t]);return e},y=(e,n)=>u(e,c(n));var h=(e,n)=>{var t={};for(var a in e)s.call(e,a)&&n.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&o)for(var a of o(e))n.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,n=h(a,[\"components\"]);return mdx(MDXLayout,y(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJbACdLoA1AADq4cU/2gAAP74cHBVebnhbHG6PWddW7uZz6b4fWmtcMi9Q+yxZMC+/BzYy2xSx/+2jW3Dib7E5WB/9KHfkzhON8T3hf9hNe3uVFr/U3/+TZf8mytp+/L88zjV5FkXMRkPf7yXAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "introducing-javafx",
+      "locale": "en",
+      "title": "Introducing Javafx",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,u=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var p=(e,a,t)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))s.call(a,t)&&p(e,t,a[t]);if(o)for(var t of o(a))r.call(a,t)&&p(e,t,a[t]);return e},l=(e,a)=>u(e,h(a));var c=(e,a)=>{var t={};for(var n in e)s.call(e,n)&&a.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,a=c(n,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAEPDzVRP/mAAP7zR9zmLfwC//Dhdb4fj+E205yL8UzXx0wLHWrv6jojAPM4SCzzfP/3Udvu3/HEZuXcDz4CeNbzszAY/rDrKc1IpKg3TtTqYdujxHfAH/yFV/bwn/ofXf9gH/6HJn8G/1mUA1wgJ9ojegAAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -60,7 +118,6 @@
       "slug": "python-an-overview",
       "locale": "en",
       "title": "Python - An Overview",
-      "summary": "Python is an open source programming language that was designed to be readable and easy to understand. It is often used in data analysis, data visualization, web development, scientific computing, artificial intelligence, and robotics applications. Python’s use of English-like syntax and its simple structure make it easy to learn and understand for programmers of all skill levels. Python is free and open source, which makes it easier for a wide variety of users to take advantage of the language. Programmers cite its usefulness in a variety of industries and applications as well as its ease of use.",
       "intro": {
         "compiledSource": "var h=Object.defineProperty,g=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,t)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))n.call(o,t)&&u(e,t,o[t]);if(r)for(var t of r(o))i.call(o,t)&&u(e,t,o[t]);return e},p=(e,o)=>g(e,c(o));var m=(e,o)=>{var t={};for(var a in e)n.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&r)for(var a of r(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,p(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
@@ -68,113 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-network-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJaACdAEOz33Kf0QAAP76d/mmvgs8exkPo90lhnPUqv+g0PTc/5cOFfvQi9KFEQkf6GpAwG08hyUnfyN/4wp+jDDOVetE5QAAAA==",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJZwC7H8AGBn4t00IAAD+/t+28B2pgLXKPvOXehTACnu0tH8RuoP/zgP9NQkMQvgghp63Y+43vg9y0zCmKdiYf0cD6gm+sIhSbwtz4AA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-network-administration",
+      "slug": "go-language-for-gui-programming",
       "locale": "en",
-      "title": "Go Language for Network Administration",
-      "summary": "Go is an easy-to-use programming language that is a great choice for network administrators. The language has been designed to make it easier to write reliable code that can be read by anyone on the team. Go was designed by Google in 2007 as an alternative to more traditional languages such as C and C++. It was created as a response to the growing complexity of these languages and the difficulty of finding developers who could work in them. The main advantage that network administrators get from using Go is that it is easy to use reliable code.",
+      "title": "Go Language for Gui Programming",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))s.call(t,n)&&c(e,n,t[n]);return e},g=(e,t)=>m(e,p(t));var u=(e,t)=>{var n={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&s.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var g=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var p=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var i=(e,o,a)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))p.call(o,a)&&i(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&i(e,a,o[a]);return e},m=(e,o)=>l(e,u(o));var d=(e,o)=>{var a={};for(var r in e)p.call(e,r)&&o.indexOf(r)<0&&(a[r]=e[r]);if(e!=null&&t)for(var r of t(e))o.indexOf(r)<0&&s.call(e,r)&&(a[r]=e[r]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var r=a,{components:e}=r,o=d(r,[\"components\"]);return mdx(MDXLayout,m(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/object-oriented-programming-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdLoAAwizdnaAAP74k0YCoDSgZNt8htwulGesezEJ1BMEHybklUFLHM3Fbm9cVFijgZaMTUgYqL/JGfB7BlVR8KdAz3eNHn+q1x/EB9ehOfv7XIf/gsNAp1kfMh28pfAAAAA=",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLcA/AABk4+IvWagAAD+m66wtFjYxfXeoZrc1IH8SMwrTtBchHUIlTyp6vDo87sRWrqy6rV0eedm/VNH1fv/FO/6bDecmlF9Md/7Lo7RDPVM1t6+5/+x9y67K3eFeaoH0PgAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "object-oriented-programming-in-java",
+      "slug": "the-benefits-of-software-engineering",
       "locale": "en",
-      "title": "Object-Oriented Programming in Java",
-      "summary": "Object-Oriented Programming is a programming paradigm based on the concept of \"objects\" An \"object\" is a combination of code and data, usually represented as a data structure that performs some useful function. In Java, the most popular language for web development, all code must be contained in a class. Java classes must follow specific rules to be considered \"object-oriented\" These rules are covered in this article. There are 7 major concepts in OOP in Java, as well as its pros and cons.",
+      "title": "The Benefits of Software Engineering",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(a,e,t)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[e]=t,i=(a,e)=>{for(var t in e||(e={}))r.call(e,t)&&d(a,t,e[t]);if(n)for(var t of n(e))s.call(e,t)&&d(a,t,e[t]);return a},g=(a,e)=>c(a,l(e));var m=(a,e)=>{var t={};for(var o in a)r.call(a,o)&&e.indexOf(o)<0&&(t[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&s.call(a,o)&&(t[o]=a[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:a}=o,e=m(o,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var c=Object.defineProperty,g=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var u=(e,n,i)=>n in e?c(e,n,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[n]=i,s=(e,n)=>{for(var i in n||(n={}))r.call(n,i)&&u(e,i,n[i]);if(t)for(var i of t(n))a.call(n,i)&&u(e,i,n[i]);return e},d=(e,n)=>g(e,l(n));var f=(e,n)=>{var i={};for(var o in e)r.call(e,o)&&n.indexOf(o)<0&&(i[o]=e[o]);if(e!=null&&t)for(var o of t(e))n.indexOf(o)<0&&a.call(e,o)&&(i[o]=e[o]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var o=i,{components:e}=o,n=f(o,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Software engineering is the discipline of programming and designing software, as well as documenting and testing it to ensure that it meets user needs and functions correctly. Software engineering is a broad field that includes several sub-disciplines. Each of these areas has its own unique set of responsibilities and tasks. As an engineer, you might specialize in one or more of these disciplines, but regardless of your area of focus, every software engineer must have a solid understanding of all the different aspects in order to be successful in this exciting career. In this article, we\\u2019ll explore some of the many benefits of software engineering. If you\\u2019re reading this thinking \\u201CIs this article for me?\\u201D keep reading! Whether you are new to the industry or just looking for some additional information to increase your knowledge even more, read on to discover why software engineering might be a great career choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-find-the-best-coding-help-online.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJagCdFKACoad9A3OwMwA/nk//1CBGI/Fxipygt/CVGLZdpllv5Wf+V/5lr98kKUNa6lvFLZ7jPcos35tHQW26vPvGlmQHIHU452jeOvxFJ1ldbNg7Z1k0lThNdEXhkfY5MUOCDJn8G/7AMzCyN/Tjl/8o0MJDD/jAt/4v/+vWLPwAAA=",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoKAAoAAUAmJbACdLoB+AADT3Rw8UtvAAD+56ez7vuwQf5TgS8Tx0BFrFc2QzHL5I9vf8vHuDXo/cFJP/clNcJFBDfq0Prs/69v7fvxv8/8f7+LvCPEk/n5FjVHuYaBew0AAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-find-the-best-coding-help-online",
+      "slug": "exception-handling-in-java",
       "locale": "en",
-      "title": "How to Find the Best Coding Help Online",
-      "summary": "Finding help with coding online can be incredibly valuable for a number of reasons. It allows you to find the best coders in the business from the comfort of your home. This is especially true if you live in a remote location where there might be a lack of coding talent. It’s important to look for coders who are experienced and know what they’re doing. Hire a team of coders for a short-term project or a virtual assistant for your project.",
+      "title": "Exception Handling in Java",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&h(e,t,o[t]);if(s)for(var t of s(o))r.call(o,t)&&h(e,t,o[t]);return e},l=(e,o)=>p(e,u(o));var c=(e,o)=>{var t={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Did you know that finding help with computer coding is one of the fastest growing online industries? Did you also know that there\\u2019s an abundance of websites out there where you can find that very same coding help? With so many places to look for coding assistance, it makes sense why there are so many professionals who can\\u2019t seem to find the best options. But don\\u2019t worry! There are plenty of great resources out there if you know where to look.\nIn this blog post, we\\u2019ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-parallel-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJbACdLoAfh2DOp5vtljZAAD+bL/CZwN67RsnU03rJY8bTWtmj9xjZW6uAH/pgg+DsPsMVi0NULlJgcF9PnNRecVlQ5+kQdgB/rtoIm6f/i+BteGA177t7qPKq08+a/+5F2k7+vt0u+f/w0nzqUL/7gUUj+L3/4ies6Oe3+Ovy9yqW+VgAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-parallel-computing",
-      "locale": "en",
-      "title": "Go Language for Parallel Computing",
-      "summary": "The Go programming language was created by engineers at Google in 2007. It was designed with the goal of making it easier to write software that takes advantage of parallel computing. Go is a high-level programming language that is designed to be easy to use. It’s simple and straightforward, but also has powerful features that make it suitable for large-scale applications. While the Go language does make sense for parallel computing, it does have a few limitations. It doesn’t have built-in features to make it easy to distribute data across multiple machines.",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var s=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,l=(e,t)=>{for(var a in t||(t={}))n.call(t,a)&&s(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&s(e,a,t[a]);return e},p=(e,t)=>m(e,g(t));var u=(e,t)=>{var a={};for(var i in e)n.call(e,i)&&t.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&o)for(var i of o(e))t.indexOf(i)<0&&r.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,t=u(i,[\"components\"]);return mdx(MDXLayout,p(l(l({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-languages-to-learn.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADH0R/rAAA/vbL46Y0Cx22Lj2FuWnqa7LwVfv8oQpuNx9+s7eVPlmR3/su3k38eKXN8VZf1MK/+VFrG34yp/xlT/yFfV0VcCu6stbVG7XgAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-languages-to-learn",
-      "locale": "en",
-      "title": "The Best Coding Languages to Learn",
-      "summary": "The best programming language to learn would be the one you like the most and can see yourself using. Java is one of the most popular programming languages in the world. Python is a very versatile language that can be used in many different fields. Swift is a great option if you are looking to get into app development or start a programming career. C++ is known for being very efficient, so it is great choice if you want to create advanced and resource-intensive programs. R or MATLAB are two other excellent options for programmers.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&u(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&u(e,n,o[n]);return e},g=(e,o)=>y(e,h(o));var l=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-improve-your-coding-skills.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJYwCdAaVbm8ZNEyKtqmGAAD+9nvTSlKnXftAHn/sbPPMt7Qucj3PrxroGKlRG2pLv/n3OZvw1f0y+le8M4H7oDrIc5VsPvtRtij6Bf4VSZe09nWqQMAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-improve-your-coding-skills",
-      "locale": "en",
-      "title": "How to Improve Your Coding Skills",
-      "summary": "If you’re just starting out in the world of coding, it’s important to first get a handle on the basics. This includes basic programming language syntax, like what a class or variable is, and more general coding concepts. There are tons of great online resources that can help you get started with the basics of coding. Read and listen to articles, podcasts, books, and other resources designed to help you learn more about coding. Take online courses and participate in coding competitions.",
-      "intro": {
-        "compiledSource": "var g=Object.defineProperty,y=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,e,n)=>e in o?g(o,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):o[e]=n,a=(o,e)=>{for(var n in e||(e={}))r.call(e,n)&&l(o,n,e[n]);if(i)for(var n of i(e))s.call(e,n)&&l(o,n,e[n]);return o},d=(o,e)=>y(o,m(e));var u=(o,e)=>{var n={};for(var t in o)r.call(o,t)&&e.indexOf(t)<0&&(n[t]=o[t]);if(o!=null&&i)for(var t of i(o))e.indexOf(t)<0&&s.call(o,t)&&(n[t]=o[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:o}=t,e=u(t,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-of-choice.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkw7LosAAD+iJR8z2oni72WBtP38IcNO9vWz+t9OWWnT6LPcMuiiDLOstslCI+yo4ZaUekmzimfra3RNaIfyKP5VeCP/nvpn/p9vP+4VAT/xQ0b/BFb/s3/9czxL9UAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-of-choice",
-      "locale": "en",
-      "title": "Python - The Language of Choice",
-      "summary": "Python is a high-level programming language that was created in 1991. It is a general purpose language, which means it can be used to create any type of application. The language is easy to read and write, making it accessible to a wide range of developers. The main strengths of Python as a programming language are that it is readable, it is flexible, and it is general purpose. There are a number of reasons why Python has become so popular among programmers and organizations of all shapes and sizes.",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&h(e,t,a[t]);if(n)for(var t of n(a))s.call(a,t)&&h(e,t,a[t]);return e},l=(e,a)=>u(e,m(a));var c=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=c(o,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&c(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&c(e,a,t[a]);return e},p=(e,t)=>u(e,m(t));var l=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=l(n,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

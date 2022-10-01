@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/the-difference-between-javascript-and-typescript.png",
+  "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJYwCdAYoBvuM0Vf/MAAA/v5FHXfeN6LLiXkxNaaJUKWFb8lrG4fKlW759I3eUfTu8M0fmsN+7L/KBe5Kv8ch1rn9vnaaMv9cJ/9YKcv/x5B2dOx/5uK/m8NJaYb/o+3r88WWUAAAAA==",
-  "createdAt": "2022-10-01T11:39:16.542Z",
-  "updatedAt": "2022-10-01T11:39:16.542Z",
+  "createdAt": "2022-10-01T12:13:50.843Z",
+  "updatedAt": "2022-10-01T12:13:50.843Z",
   "categoryLocal": "coding",
   "slug": "the-difference-between-javascript-and-typescript",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var l=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,p=Object.prototype.propertyIsEnumerable;var s=(e,t,a)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,n=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&s(e,a,t[a]);if(o)for(var a of o(t))p.call(t,a)&&s(e,a,t[a]);return e},c=(e,t)=>y(e,h(t));var d=(e,t)=>{var a={};for(var i in e)r.call(e,i)&&t.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&o)for(var i of o(e))t.indexOf(i)<0&&p.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,t=d(i,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"JavaScript\"),mdx(\"p\",null,\"JavaScript is a programming language used for client-side web scripting. It was created in the early 1990s and has since undergone several major revisions. It is currently standardized as ECMAScript.\"),mdx(\"p\",null,\"JavaScript is one of the most popular programming languages in the world. It is used for many purposes, from website functionality to data analysis and artificial intelligence. JavaScript is a very easy language to learn, and you can find it in almost every computing device that is connected to the internet.\"),mdx(\"p\",null,\"JavaScript is commonly used to build dynamic web content and handle user actions on web pages by receiving input from the user. It can also be used to create desktop applications.\"),mdx(\"h2\",null,\"TypeScript\"),mdx(\"p\",null,\"TypeScript is a programming language that is designed to compile into JavaScript. It is a superset of the JavaScript language that can be used to write applications for any browser or host operating system.\"),mdx(\"p\",null,\"The TypeScript programming language is an open-source tool created by Microsoft that adds strong typing and object-oriented programming capabilities to JavaScript. TypeScript is a typed superset of JavaScript that compiles to unmodified JavaScript. It brings many of the programming benefits of languages like C++, Java, and C# to the world of JavaScript development. With TypeScript, software developers can write more reliable code, and improve the overall experience for their end users.\"),mdx(\"h2\",null,\"Differences between JavaScript and TypeScript\"),mdx(\"p\",null,\"Let\\u2019s start by looking at the key differences between JavaScript and TypeScript.\"),mdx(\"p\",null,\"Strong Typing : TypeScript adds strong typing to JavaScript. This means that it provides the developer with more information about the code, making it easier to fix potential bugs.\"),mdx(\"p\",null,\"Improved Code readability : TypeScript\\u2019s syntax is designed to improve code readability and avoid common syntax errors. As a result, TypeScript code is easier to understand and maintain.\"),mdx(\"p\",null,\"Improved Tooling : TypeScript provides better tooling support. With TypeScript, developers can use a number of tools for code analysis and visualization.\"),mdx(\"p\",null,\"Standards : TypeScript is compatible with ECMAScript standards. This means that the compiled code can be executed in any browser, and it is also easy to integrate with other JavaScript applications.\"),mdx(\"h2\",null,\"Benefits of Using TypeScript\"),mdx(\"p\",null,\"As mentioned above, TypeScript brings some key advantages to the JavaScript development ecosystem. To recap, these advantages include:\"),mdx(\"p\",null,\"Strong Typing - TypeScript uses static typing to give you meaningful error messages when you make a mistake. This enables you to catch bugs earlier and refactor code more confidently.\"),mdx(\"p\",null,\"Better Tooling - TypeScript is also compiled into JavaScript. This means that it plays well with other tools and can be used with any JavaScript code.\"),mdx(\"p\",null,\"Standards - TypeScript is a superset of JavaScript. This means that it\\u2019s easy to integrate with any other JavaScript libraries and frameworks, while still adding new functionality.\"),mdx(\"h2\",null,\"How to Use TypeScript?\"),mdx(\"p\",null,\"Now that we\\u2019ve explored the differences between JavaScript and TypeScript, it\\u2019s time to learn how to use TypeScript.\"),mdx(\"p\",null,`To use TypeScript, you first need to install a TypeScript compiler. This compiler will generate a JavaScript file from your TypeScript code. The easiest way to install a TypeScript compiler is to install an integrated development environment (IDE) such as Visual Studio.\nThere are many different features available in TypeScript. However, the most important ones are: Types, Functions, Classes, Modules, and Interfaces.`),mdx(\"p\",null,\"Types - Types provide the compiler with extra information about the variables. This enables the compiler to detect bugs and improve the tooling experience.\"),mdx(\"p\",null,\"Functions - Functions are a way to organize chunks of code and avoid code repetition. Functions can be used as a way to pass data to a piece of code and even return data from it.\"),mdx(\"h2\",null,\"Final Words\"),mdx(\"p\",null,\"Now that you know the differences between JavaScript and TypeScript, you can decide which language is best for your project!\"),mdx(\"p\",null,\"If you\\u2019re planning to build a large or complex application, then TypeScript is likely the right choice. It\\u2019s a more advanced version of JavaScript that adds strong typing, a larger set of built-in functions, and code validation to your application.\"),mdx(\"p\",null,\"Ready to dive into the differences between JavaScript and TypeScript? Read on to learn more about these two programming languages. Once you\\u2019re done, you\\u2019ll be ready to make an informed decision about which language is best for your project!\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAgCdASoKAAoAAUAmJYwCdAYtJ1u/EAyw0ipm83LAAP78/uVwAhDdmH3tbHLb2aKLzKoYmp4U6GltR5CxHAFz9gbyAhyp5qLnl2sHPZETkq0gdH/UV+Od34hHu3uNl1xK5y+Z5kYaXE3yzFcE2wFYNiy0OsAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
+      "locale": "en",
+      "title": "Learn JavaScript the Right Way: 10 Steps to Mastering JavaScript",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,a=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&h(e,o,t[o]);if(r)for(var o of r(t))s.call(t,o)&&h(e,o,t[o]);return e},l=(e,t)=>p(e,c(t));var u=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&r)for(var n of r(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Did you know that Javascript is the most popular programming language in the world? Did you also know that it\\u2019s one of the easiest programming languages to learn? That means more and more people are picking up this skill at lightning speed. It makes sense, considering how in-demand coding skills are right now. And with so many introductory resources available, why not pick up this skill sooner rather than later? After all, there\\u2019s no time like the present to take your career to new heights.\nWith that in mind, we\\u2019re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we\\u2019ve broken this guide down into easy-to-digest sections. If you\\u2019re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAoAAUAmJbACdAEO/9KnlAAA/vhkCxK+CGjI+EGECLR4FQdRkNZOdSzf/Vt/Q/8d+iG+wa//q2/of+DkxUf/+BO/8CdjCaSOwAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&u(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&u(e,o,t[o]);return e},l=(e,t)=>d(e,h(t));var g=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=g(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJQBOhgl5EFGLx/bCRgAA/vsn8xDP2qd42RDvv8/+HfD2FP+5DedHm6s79+wSbf/cW2kz754MIxshi7WIzwDX2SGuL7llNcl6dCg6j4SqbhQJctP+DZLAlgmTd6xW/1D9bHw43n1cMAtwAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-mobile-development",
+      "locale": "en",
+      "title": "Python - The Language for Mobile Development",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?g(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&l(e,o,t[o]);return e},p=(e,t)=>c(e,m(t));var h=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=h(a,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoKAAoAAUAmJbACdDBACItL/eYNWCcAAP7+GHfProcfxmoVzKjQqWU4//J3yJ4Lv4X+HPwilLz4o2qa9ntInhSn2Jy7jO8Ose9f+mQDj+tYmGjxP6hTp/cffjXLEyL/g7vx/+hcGVBTPZ/Rs66s3fP3Fv9TfQ4AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))a.call(o,n)&&d(e,n,o[n]);if(r)for(var n of r(o))s.call(o,n)&&d(e,n,o[n]);return e},u=(e,o)=>h(e,f(o));var c=(e,o)=>{var n={};for(var t in e)a.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJQBOgCHgsX8s91AAAP75WLnzB4u1AjPBDze/1FChU9tganN9P48aTRCJAiQX+xiduAkbbAecOoRBsqXlVv5H7gPBuskQFQAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-code-snippets-effectively",
+      "locale": "en",
+      "title": "How to Use Code Snippets Effectively",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&u(e,n,t[n]);if(s)for(var n of s(t))r.call(t,n)&&u(e,n,t[n]);return e},p=(e,t)=>m(e,d(t));var c=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,p(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCw7EsTAW8AAD+/bpInbikdySjF438xr0S9xESa3mmfjXenv4wz9+3n+48ySau8EmHOvok/+u5FUBQU/1Cc/9GLj/VDB1hsAbY+BP737NFhKy5cn3AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(o,e,t)=>e in o?c(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,a=(o,e)=>{for(var t in e||(e={}))i.call(e,t)&&l(o,t,e[t]);if(s)for(var t of s(e))r.call(e,t)&&l(o,t,e[t]);return o},m=(o,e)=>d(o,h(e));var u=(o,e)=>{var t={};for(var n in o)i.call(o,n)&&e.indexOf(n)<0&&(t[n]=o[n]);if(o!=null&&s)for(var n of s(o))e.indexOf(n)<0&&r.call(o,n)&&(t[n]=o[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:o}=n,e=u(n,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJbACdAD0MlfTYpQA/vigG6T4P0P5AR+rYYV3cUR866CuvpSWROCBbKdXLZQN3YrRJzrWvXN9/WAy+BoVzE89sV+zzXaK8WP4znFXVP3AAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "web-applications-with-java",
+      "locale": "en",
+      "title": "Web Applications with Java",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,a)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&h(e,a,o[a]);if(r)for(var a of r(o))s.call(o,a)&&h(e,a,o[a]);return e},l=(e,o)=>d(e,m(o));var p=(e,o)=>{var a={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=p(t,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdAYpvvoF64AAAN5n7Aj2BvlN005bKvyDbLJUjKWNY/mGXYiX3ob9ZRMfrftrBHpxrr7keDzf9B3713qjfHVUWrWqC+//XFXvv9Tyoq/U3//5bf3//ZyZ/Jv99hie4J2bufmDEN1FJAAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-mobile-development",
+      "locale": "en",
+      "title": "Go Language for Mobile Development",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var m=(e,o,a)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))n.call(o,a)&&m(e,a,o[a]);if(s)for(var a of s(o))i.call(o,a)&&m(e,a,o[a]);return e},p=(e,o)=>d(e,g(o));var l=(e,o)=>{var a={};for(var t in e)n.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&s)for(var t of s(e))o.indexOf(t)<0&&i.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkKnxsAAAD+3PeejsjztM2YfNTzDcFf9rPt2nvjKeVKDPP21LWft0XAn0yn/nBjdDDn5//hXSWc/nMofQ1ol9eQMy4FiBpAArhcgAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,c=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&h(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&h(e,a,t[a]);return e},l=(e,t)=>c(e,d(t));var g=(e,t)=>{var a={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=g(n,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkw7LosAAD+iJR8z2oni72WBtP38IcNO9vWz+t9OWWnT6LPcMuiiDLOstslCI+yo4ZaUekmzimfra3RNaIfyKP5VeCP/nvpn/p9vP+4VAT/xQ0b/BFb/s3/9czxL9UAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&h(e,t,a[t]);if(n)for(var t of n(a))s.call(a,t)&&h(e,t,a[t]);return e},l=(e,a)=>u(e,m(a));var c=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=c(o,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

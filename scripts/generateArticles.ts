@@ -100,7 +100,7 @@ async function generateAndUploadImage(title: string) {
   if (image) {
     const img = sharp(image).resize(10);
     const base64url = (await img.toBuffer()).toString("base64");
-    imageSrc = process.env.BUNNY_CDN + "/articles/" + basename + ".png";
+    imageSrc = "/articles/" + basename + ".png";
     imageSrcBase64 = "data:image/png;base64," + base64url;
   } else {
     const dalle = new Dalle();
@@ -115,7 +115,7 @@ async function generateAndUploadImage(title: string) {
         "base64"
       );
 
-      imageSrc = process.env.BUNNY_CDN + "/articles/" + basename + ".png";
+      imageSrc = "/articles/" + basename + ".png";
       const img = sharp(Buffer.from(base64String, "base64")).resize(10);
       const srcBase64 = (await img.toBuffer()).toString("base64");
       imageSrcBase64 = "data:image/png;base64," + srcBase64;

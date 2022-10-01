@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+  "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
   "imageSrcBase64": "data:image/png;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAAUAmJQBOgCHhuYTkgAD++8z7GSHsl8sTmh/RXv3yh96W4kOm0c/wb4jdmVfjgSoBfO1bH4IohjAAAA==",
-  "createdAt": "2022-10-01T11:38:49.884Z",
-  "updatedAt": "2022-10-01T11:38:49.884Z",
+  "createdAt": "2022-10-01T12:13:15.891Z",
+  "updatedAt": "2022-10-01T12:13:15.891Z",
   "slug": "los-errores-de-codificacion-mas-comunes-y-como-evitarlos",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -17,5 +17,156 @@
     "compiledSource": "var p=Object.defineProperty,t=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var l=(e,a,r)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[a]=r,i=(e,a)=>{for(var r in a||(a={}))s.call(a,r)&&l(e,r,a[r]);if(n)for(var r of n(a))c.call(a,r)&&l(e,r,a[r]);return e},u=(e,a)=>t(e,m(a));var d=(e,a)=>{var r={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(r[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&c.call(e,o)&&(r[o]=e[o]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var o=r,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"\\xBFNo sabe c\\xF3mo buscar errores?\"),mdx(\"p\",null,\"Los errores son un problema com\\xFAn al codificar, pero puede detectar muchos de ellos antes de que se conviertan en un problema, o antes de que provoquen que su c\\xF3digo se rompa por completo. Hay muchas formas de comprobar si hay errores, como las siguientes:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},'Usando la funci\\xF3n de \"depuraci\\xF3n\" de su lenguaje de programaci\\xF3n elegido.'),mdx(\"li\",{parentName:\"ul\"},\"Usar \\u201Cafirmaciones\\u201D para informarle cuando no se cumple una condici\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},'Uso de \"registro\" para almacenar un registro de errores en un archivo.'),mdx(\"li\",{parentName:\"ul\"},'Usar el \"manejo de errores\" para detectar errores y manejarlos con gracia.'),mdx(\"li\",{parentName:\"ul\"},'Usar \"pruebas unitarias\" para verificar que cada parte de su c\\xF3digo sea correcta.')),mdx(\"p\",null,\"Incluso si hace todo bien, todav\\xEDa existe la posibilidad de que su c\\xF3digo se rompa. No puede hacer mucho para evitar errores, por lo que es importante saber c\\xF3mo identificarlos y corregirlos con una interrupci\\xF3n m\\xEDnima para su proyecto.\"),mdx(\"h2\",null,\"Olv\\xEDdese de cambiar el nombre o cambiar el alcance de las variables\"),mdx(\"p\",null,'Al codificar, es mejor crear una variable para cada elemento que desee representar. Sin embargo, tambi\\xE9n es importante elegir buenos nombres de variables. Si no le da a sus variables un nuevo nombre o las \"re-aplica\", entrar\\xE1n en conflicto con otras variables, causando errores.'),mdx(\"p\",null,'Si usa la variable incorrecta, el programa no generar\\xE1 el resultado correcto. Para evitar esto, debe elegir el nombre de variable correcto. Si no le da a sus variables un nuevo nombre o las \"re-aplica\", entrar\\xE1n en conflicto con otras variables, causando errores. Esto puede suceder si olvida cambiar el nombre de una variable cuando cambia su prop\\xF3sito en el c\\xF3digo.'),mdx(\"p\",null,'Las convenciones de nomenclatura de variables son diferentes para cada idioma, pero muchos programadores siguen la convenci\\xF3n de \"caso de camello\" y agregan un prefijo a cada nombre de variable. Por ejemplo, podr\\xEDa usar \"firstName\" para el nombre de una persona y \"lastName\" para su apellido.'),mdx(\"h2\",null,\"\\xBFConfundido sobre el alcance?\"),mdx(\"p\",null,'El alcance se refiere a d\\xF3nde es visible una variable y cu\\xE1nto tiempo dura. Las variables en el \"nivel superior\" de un programa no se limitan a una parte espec\\xEDfica del c\\xF3digo. Se puede acceder a ellos desde cualquier lugar. Las variables globales son visibles en todo el programa. Las variables locales solo son visibles en una funci\\xF3n o parte del c\\xF3digo.'),mdx(\"p\",null,'El alcance (o la falta del mismo) es a menudo la raz\\xF3n de muchos errores y fallas en la programaci\\xF3n. Por ejemplo, una funci\\xF3n que se basa en una variable global puede fallar cuando cambia el valor de esa variable global. Para evitar problemas de alcance, es mejor usar variables \"locales\" tanto como sea posible y evitar colocar variables en el \"nivel superior\" del programa. Los problemas de alcance son generalmente f\\xE1ciles de detectar. Si su c\\xF3digo no funciona correctamente, podr\\xEDa deberse a un problema de alcance.'),mdx(\"h2\",null,\"Uso incorrecto de declaraciones condicionales\"),mdx(\"p\",null,\"Las declaraciones condicionales pueden ser muy \\xFAtiles, pero deben usarse correctamente. Si tiene una condici\\xF3n pero no la sigue con la subrutina correcta, podr\\xEDa terminar con un error.\"),mdx(\"p\",null,'Por ejemplo, si tiene una condici\\xF3n que exige \"x > y\" pero escribe \"x y\", el programa no funcionar\\xE1 correctamente. Para evitar esto, debe asegurarse de conocer la diferencia entre \"mayor que\" y \"menor que\", as\\xED como la diferencia entre \"igual\" y \"no igual\". Tambi\\xE9n es importante conocer el orden de las operaciones para las declaraciones condicionales. Si coloca los par\\xE9ntesis en el orden incorrecto, podr\\xEDa romper todo el enunciado.'),mdx(\"h2\",null,\"Uso excesivo de sentencias condicionales\"),mdx(\"p\",null,\"Las declaraciones condicionales son incre\\xEDblemente \\xFAtiles, pero su uso excesivo puede causar problemas. Si usa una declaraci\\xF3n condicional cuando no la necesita o si usa varias condiciones sin combinarlas, podr\\xEDa generar un error.\"),mdx(\"p\",null,'Por ejemplo, si usa una declaraci\\xF3n condicional para verificar una ID de usuario v\\xE1lida cuando deber\\xEDa usar una funci\\xF3n de \"regex\", es posible que obtenga un error. Para evitar esto, debe conocer la diferencia entre entradas v\\xE1lidas e inv\\xE1lidas. Tambi\\xE9n debe saber cu\\xE1ndo usar una declaraci\\xF3n condicional y cu\\xE1ndo usar una \"expresi\\xF3n regular\".'),mdx(\"h2\",null,\"Looping excesivo sin condiciones ni regeneraci\\xF3n\"),mdx(\"p\",null,`Los bucles son geniales, pero no deben usarse incorrectamente. Por ejemplo, no debe usar un bucle sin una condici\\xF3n. Si realiza un ciclo mientras una condici\\xF3n es falsa, el programa se congelar\\xE1. Si realiza un bucle para siempre, el programa nunca terminar\\xE1.\nLos bucles tambi\\xE9n son \\xFAtiles para regenerar datos. Si tiene una lista de datos y desea regenerar una nueva lista con nuevos datos, un ciclo puede ayudarlo a hacerlo. Dicho esto, los bucles deben usarse correctamente y no en exceso. Debe saber cu\\xE1ndo puede usar un bucle y cu\\xE1ndo no.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"La codificaci\\xF3n es un desaf\\xEDo, pero tambi\\xE9n es una habilidad que se puede aprender con pr\\xE1ctica y paciencia. Sin embargo, es importante conocer estos errores de codificaci\\xF3n comunes antes de que interrumpan su proyecto. Si tiene cuidado con la forma en que escribe su c\\xF3digo, deber\\xEDa poder evitar estos errores. Puede ser un desaf\\xEDo al principio, pero a medida que adquiera m\\xE1s experiencia, el proceso ser\\xE1 m\\xE1s f\\xE1cil.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAgCdASoKAAoAAUAmJbACdAELZMJ/u4SAAP7KKA859Fbjj3o2avxrnVVAZWqeaspy+H6eyOPr18/DU7zUvlBAiH/Ap6UHe/gFRl9pypTB0QZC0pJEAdL3el1fyP9YD5xGD/7exPxOrk+kKo//7fD6P/wQ//9Uz8E5W/bLO/7/9TtGP9/q3LW//dca/6cP+v8ZC2bAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "prueba-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Prueba De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(a,e,o)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,i=(a,e)=>{for(var o in e||(e={}))n.call(e,o)&&c(a,o,e[o]);if(r)for(var o of r(e))t.call(e,o)&&c(a,o,e[o]);return a},l=(a,e)=>u(a,m(e));var d=(a,e)=>{var o={};for(var s in a)n.call(a,s)&&e.indexOf(s)<0&&(o[s]=a[s]);if(a!=null&&r)for(var s of r(a))e.indexOf(s)<0&&t.call(a,s)&&(o[s]=a[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:a}=s,e=d(s,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El panorama digital actual es vertiginoso, cambiante y lleno de transformaciones digitales. Las empresas est\\xE1n aprovechando los servicios en la nube para acelerar su tiempo de comercializaci\\xF3n, mejorar la agilidad y reducir los costos.\nAdem\\xE1s, con la inteligencia artificial (IA), el aprendizaje autom\\xE1tico, IoT y otras tecnolog\\xEDas avanzadas que permiten a las empresas aprovechar los grandes datos para obtener informaci\\xF3n predictiva y procesos automatizados, el momento nunca ha sido m\\xE1s oportuno para que las empresas aprovechen estas tecnolog\\xEDas transformadoras.\nPor eso es tan importante probar sus aplicaciones Java. Un probador de software realiza pruebas para evaluar la calidad del software o las caracter\\xEDsticas del sitio web al brindar a los usuarios diferentes entradas posibles y medir las salidas contra una expectativa predeterminada. Los probadores de software intentan encontrar errores antes que los usuarios. Son como el control de calidad para el desarrollo de software. Su trabajo es asegurarse de que cada pieza de c\\xF3digo cumpla con sus especificaciones funcionales, ya sea la autenticaci\\xF3n del usuario o cualquier otra caracter\\xEDstica de su aplicaci\\xF3n.\nSi a\\xFAn no ha comenzado a probar sus aplicaciones Java, \\xA1le sugerimos que comience pronto!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJbACdLoA1AADq4cU/2gAAP74cHBVebnhbHG6PWddW7uZz6b4fWmtcMi9Q+yxZMC+/BzYy2xSx/+2jW3Dib7E5WB/9KHfkzhON8T3hf9hNe3uVFr/U3/+TZf8mytp+/L88zjV5FkXMRkPf7yXAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "introduccion-a-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Javafx",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var p=(e,a,s)=>a in e?c(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,o=(e,a)=>{for(var s in a||(a={}))t.call(a,s)&&p(e,s,a[s]);if(i)for(var s of i(a))r.call(a,s)&&p(e,s,a[s]);return e},l=(e,a)=>u(e,m(a));var d=(e,a)=>{var s={};for(var n in e)t.call(e,n)&&a.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&i)for(var n of i(e))a.indexOf(n)<0&&r.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,l(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy en d\\xEDa, con el predominio de los dispositivos m\\xF3viles e IoT, los usuarios esperan que las aplicaciones respondan r\\xE1pidamente y brinden una experiencia atractiva. Al mismo tiempo, las empresas exigen soluciones rentables para satisfacer estas demandas. Esto crea la necesidad de aplicaciones multiplataforma de alto rendimiento que se puedan implementar f\\xE1cilmente en varios dispositivos. JavaFX puede ser su mejor apuesta para desarrollar este tipo de aplicaciones.\nCon JavaFX, puede crear aplicaciones de cliente enriquecidas de alto rendimiento, receptivas y con una interfaz de usuario natural (NUI). En esta publicaci\\xF3n, explicaremos qu\\xE9 es JavaFX y qu\\xE9 aporta. Tambi\\xE9n veremos algunos ejemplos de d\\xF3nde se est\\xE1 utilizando esta tecnolog\\xEDa. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre sus beneficios y detalles de implementaci\\xF3n, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAoAAUAmJbACdAEO/9KnlAAA/vhkCxK+CGjI+EGECLR4FQdRkNZOdSzf/Vt/Q/8d+iG+wa//q2/of+DkxUf/+BO/8CdjCaSOwAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,r)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[a]=r,n=(e,a)=>{for(var r in a||(a={}))i.call(a,r)&&c(e,r,a[r]);if(s)for(var r of s(a))t.call(a,r)&&c(e,r,a[r]);return e},p=(e,a)=>l(e,m(a));var d=(e,a)=>{var r={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(r[o]=e[o]);if(e!=null&&s)for(var o of s(e))a.indexOf(o)<0&&t.call(e,o)&&(r[o]=e[o]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var o=r,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAQCdASoKAAoAAUAmJZgCdAEOlXuEbAD+/WD97vQ8f/+KDDtD7jn7wvf+ofNU5qS1quy5XnnUf+CggeTNnE1nzYtBuTea/Pq25g2BcDDwSr/nzLI+s3EnYl2Flm0WdTpxm3W87KyqH/LjRiJDSMlX1nYUi/0b1vD71nnYUvJG4AAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Web Scraping",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(a,e,o)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,t=(a,e)=>{for(var o in e||(e={}))n.call(e,o)&&d(a,o,e[o]);if(s)for(var o of s(e))i.call(e,o)&&d(a,o,e[o]);return a},c=(a,e)=>m(a,l(e));var p=(a,e)=>{var o={};for(var r in a)n.call(a,r)&&e.indexOf(r)<0&&(o[r]=a[r]);if(a!=null&&s)for(var r of s(a))e.indexOf(r)<0&&i.call(a,r)&&(o[r]=a[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:a}=r,e=p(r,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy en d\\xEDa, a medida que las empresas enfrentan una presi\\xF3n cada vez mayor para digitalizar los procesos y extraer valor de los datos, una amplia gama de organizaciones est\\xE1 explorando soluciones que aprovechan los programas inform\\xE1ticos para capturar datos autom\\xE1ticamente.\nEste art\\xEDculo enumera los lenguajes de programaci\\xF3n utilizados para el web scraping y la extracci\\xF3n de datos. El web scraping es el proceso de rastreo de sitios web para recuperar datos espec\\xEDficos en un formato legible por m\\xE1quina. Es un \\xE1rea de miner\\xEDa de datos que cubre programas de computadora que autom\\xE1ticamente leen y extraen informaci\\xF3n de sitios web o documentos. Estos programas se denominan scrapers o rastreadores. El raspado es una tarea que quiz\\xE1s deba completar como parte de su trabajo como comercializador digital, ingeniero de software, analista estad\\xEDstico o investigador.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJZACdAEUU9Zw/kGAAP78dOraa9k3sK2zaMBxJEa/fOJ+tlYjz8KH+PHPK/TpbP8c8zKZlAxoCrV+3W+4HyGRHsvrRtuvweypgFealH3DdIAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-la-administracion-del-sistema",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Administración Del Sistema",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&l(e,o,a[o]);if(n)for(var o of n(a))i.call(a,o)&&l(e,o,a[o]);return e},u=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&i.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=c(s,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`No es ning\\xFAn secreto que a los programadores les encanta programar. Pero no todos aman cosas similares. Aquellos que se sienten atra\\xEDdos por las ciencias de la computaci\\xF3n por su l\\xF3gica y los desaf\\xEDos de resoluci\\xF3n de problemas pueden encontrar que la codificaci\\xF3n es un lastre a veces, especialmente si su trabajo consiste principalmente en lidiar con API u otros componentes de software est\\xE1ndar.\nProbablemente todos nos hemos encontrado con desarrolladores que no comparten nuestras pasiones, aquellos que quedan atrapados en el glamour del t\\xEDtulo del trabajo en lugar de su sustancia. Y este tipo de personas tambi\\xE9n se sienten atra\\xEDdos por diferentes campos dentro de nuestra profesi\\xF3n. Por ejemplo, a algunos programadores les gusta escribir c\\xF3digo que controle m\\xE1quinas o procesos (en resumen, tareas de administraci\\xF3n de sistemas) en lugar de crear interfaces de usuario o algoritmos de inteligencia artificial.\nEs por eso que exploraremos Go como un lenguaje excelente para la administraci\\xF3n del sistema (o cualquier rol altamente orientado a tareas).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagC7AabK8z2340S2AAA/vm03Yehac7g/fSRXsm6+dzIX+Bmg9xG/1+5P6H7MSCC992qWMCPETX+wWcJ6kvOL7FQ9CL/yISY9v7DRFefyth3Mz/AAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-comenzar-con-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Comenzar Con La Codificación",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(a,e,i)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:i}):a[e]=i,c=(a,e)=>{for(var i in e||(e={}))n.call(e,i)&&d(a,i,e[i]);if(s)for(var i of s(e))r.call(e,i)&&d(a,i,e[i]);return a},t=(a,e)=>u(a,m(e));var l=(a,e)=>{var i={};for(var o in a)n.call(a,o)&&e.indexOf(o)<0&&(i[o]=a[o]);if(a!=null&&s)for(var o of s(a))e.indexOf(o)<0&&r.call(a,o)&&(i[o]=a[o]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var o=i,{components:a}=o,e=l(o,[\"components\"]);return mdx(MDXLayout,t(c(c({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La codificaci\\xF3n es una habilidad esencial que se puede aplicar a una variedad de roles, industrias y tama\\xF1os de empresas. Lo que comenz\\xF3 como una habilidad de nicho utilizada por los desarrolladores de software ahora es una habilidad comercializable y relevante para casi todas las industrias. Se ha vuelto tan omnipresente que incluso el Departamento de Trabajo ha destacado la codificaci\\xF3n como una de las habilidades de m\\xE1s r\\xE1pido crecimiento en demanda.\nLa codificaci\\xF3n se considera m\\xE1s com\\xFAnmente como la capacidad de crear sitios web, aplicaciones y software. Sin embargo, en realidad hay muchos tipos diferentes de codificaci\\xF3n. La programaci\\xF3n (o codificaci\\xF3n) de computadoras implica escribir instrucciones para que las computadoras realicen ciertas acciones o funciones. El tipo de codificaci\\xF3n que elija aprender puede tener diferentes aplicaciones seg\\xFAn sus intereses, trayectoria profesional y fortalezas personales. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los distintos tipos de codificaci\\xF3n, as\\xED como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJYgCdAYr7ko1Kao3AAD+mx+/gT7upJe0fv9UTY2jDkIe23Ff+0gxcl6Mh/xjBf9V9shv9FcGTyWGsl/C8z4uq1qe4DCw+Q2Ol82/JP1yporRN1l10rxxnMR2eApehVy3h1xb8v3Z8T2/oKRyxHvQq845IWAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-usar-graphql-en-su-proximo-proyecto-una-guia-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar GraphQL En Su Próximo Proyecto: Una Guía Para Principiantes",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var t=(a,e,s)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,i=(a,e)=>{for(var s in e||(e={}))n.call(e,s)&&t(a,s,e[s]);if(r)for(var s of r(e))u.call(e,s)&&t(a,s,e[s]);return a},d=(a,e)=>c(a,m(e));var l=(a,e)=>{var s={};for(var o in a)n.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&r)for(var o of r(a))e.indexOf(o)<0&&u.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=l(o,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFQu\\xE9 pasar\\xEDa si sus datos no tuvieran paredes? \\xBFY si pudiera responder exactamente a lo que necesita y nada m\\xE1s? \\xBFQu\\xE9 pasar\\xEDa si pudiera darte directamente lo que deseas en lugar de obligarte a pedirlo de formas complicadas y indirectas? Lo que es m\\xE1s importante, \\xBFqu\\xE9 pasar\\xEDa si sus usuarios pudieran ver todo sobre su sitio a la vez y encontrar lo que necesitan f\\xE1cilmente?\nEsta es la promesa de GraphQL. Es una alternativa a las API REST que abre conjuntos de datos completos en lugar de solo puntos finales individuales. Eso significa que en lugar de solicitar datos sobre los usuarios, su perfil o su cuenta por separado, como si cada parte estuviera en su propia habitaci\\xF3n cerrada, puede solicitar Usuarios> y recuperar a todos los usuarios en el sitio a la vez sin pasos adicionales. o barricadas. Usuarios > . . . y Perfil> . . . y Cuenta> \\u2013 todo desbloqueado a la vez. Y si bien eso suena como mucho m\\xE1s trabajo, en realidad significa menos trabajo en general porque el conjunto de datos es mucho m\\xE1s peque\\xF1o y simple que con las API tradicionales.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdLoAEJMXo9rZDAAA/vfJZZUeTdVIex/ZSMSM7OEXNDL75VVVo9ZSMfOcwCNDd1EUH/8Fg118FtHfyOdArprd47bw3NCE3ZVOM50J8Z5FnseYMd/5xV3/Tuw+ff8eqP6U3J8KXnsaGzneAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-integrada",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Integrada",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&c(e,o,a[o]);if(r)for(var o of r(a))d.call(a,o)&&c(e,o,a[o]);return e},i=(e,a)=>l(e,m(a));var p=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&d.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=p(s,[\"components\"]);return mdx(MDXLayout,i(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy en d\\xEDa, el mundo de la programaci\\xF3n es un dominio feroz. Hay tantos lenguajes de programaci\\xF3n disponibles en el mercado que puede parecer confuso para los programadores seleccionar el que mejor se adapte a sus necesidades y que tambi\\xE9n satisfaga las necesidades futuras.\nLa programaci\\xF3n no es tan simple como parece, especialmente cuando considera todos los diferentes aspectos involucrados. No se trata solo de aprender c\\xF3digo, sino tambi\\xE9n de comprender qu\\xE9 tipos de proyectos desea emprender y qu\\xE9 tipo de estructura tomar\\xE1 su carrera a partir de ahora. Entonces, al elegir un lenguaje de programaci\\xF3n, hay ciertos aspectos que debe tener en cuenta antes de tomar su decisi\\xF3n final. Para ayudarlo con esto, hemos resumido algunos de los principales pros y contras asociados con el uso de Go para la programaci\\xF3n integrada en este art\\xEDculo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoKAAoAAUAmJbACdDBACItL/eYNWCcAAP7+GHfProcfxmoVzKjQqWU4//J3yJ4Lv4X+HPwilLz4o2qa9ntInhSn2Jy7jO8Ose9f+mQDj+tYmGjxP6hTp/cffjXLEyL/g7vx/+hcGVBTPZ/Rs66s3fP3Fv9TfQ4AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "las-mejores-empresas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Empresas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,a,s)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,o=(e,a)=>{for(var s in a||(a={}))t.call(a,s)&&u(e,s,a[s]);if(n)for(var s of n(a))i.call(a,s)&&u(e,s,a[s]);return e},d=(e,a)=>m(e,l(a));var c=(e,a)=>{var s={};for(var r in e)t.call(e,r)&&a.indexOf(r)<0&&(s[r]=e[r]);if(e!=null&&n)for(var r of n(e))a.indexOf(r)<0&&i.call(e,r)&&(s[r]=e[r]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var r=s,{components:e}=r,a=c(r,[\"components\"]);return mdx(MDXLayout,d(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagCdLoAAw9hAqnm+wAA/vufgCNkfzkBHP5WKLzL/j/zQr1NND3PWvfTum35FlumKPuf4xkm7861ngfms1fXYC/+CFHnFUPOKfK//8K1vZ4plsAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-usar-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar La Codificación",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var c=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var t=(a,e,o)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,s=(a,e)=>{for(var o in e||(e={}))c.call(e,o)&&t(a,o,e[o]);if(n)for(var o of n(e))r.call(e,o)&&t(a,o,e[o]);return a},d=(a,e)=>l(a,m(e));var p=(a,e)=>{var o={};for(var i in a)c.call(a,i)&&e.indexOf(i)<0&&(o[i]=a[i]);if(a!=null&&n)for(var i of n(a))e.indexOf(i)<0&&r.call(a,i)&&(o[i]=a[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:a}=i,e=p(i,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

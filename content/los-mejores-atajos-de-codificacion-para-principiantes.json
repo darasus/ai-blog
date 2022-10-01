@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-shortcuts-for-beginners.png",
+  "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
   "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAAoAAUAmJbACdAERHzQ94YAA/vknzPwc15f2G0R+QIhuQBWf+7O0P9jkz+Tf//tne4/0cmfyb//+Mqf8gP4RKUkdOSAA",
-  "createdAt": "2022-10-01T11:38:53.261Z",
-  "updatedAt": "2022-10-01T11:38:53.261Z",
+  "createdAt": "2022-10-01T12:13:20.312Z",
+  "updatedAt": "2022-10-01T12:13:20.312Z",
   "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -17,5 +17,156 @@
     "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&c(e,o,a[o]);if(s)for(var o of s(a))d.call(a,o)&&c(e,o,a[o]);return e},t=(e,a)=>l(e,m(a));var p=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&d.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=p(r,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"No se ahogue en los detalles al programar\"),mdx(\"p\",null,`La programaci\\xF3n es un oficio orientado a los detalles, y si eres un principiante, es probable que te pierdas en los detalles. Esto es especialmente cierto si intenta aprender todos los lenguajes de programaci\\xF3n o entornos de desarrollo como si estuviera estudiando para obtener un t\\xEDtulo.\nDurante su proceso de aprendizaje, probablemente descubra que incluso las tareas simples son mucho m\\xE1s complejas de lo que imaginaba. Descubrir\\xE1 que escribir c\\xF3digo puede ser muy parecido a resolver un rompecabezas; debe tener las piezas correctas, ponerlas en el orden correcto y usarlas de la manera correcta para obtener los resultados deseados.\nSin embargo, cuando intenta aprender todo de una vez, r\\xE1pidamente se ver\\xE1 abrumado por la gran cantidad de informaci\\xF3n. Le resultar\\xE1 dif\\xEDcil ver el bosque por los \\xE1rboles, y no sabr\\xE1 por d\\xF3nde empezar.`),mdx(\"h2\",null,\"Domina los conceptos b\\xE1sicos\"),mdx(\"p\",null,`Si bien es importante familiarizarse con todas las diferentes piezas y partes de la programaci\\xF3n, antes de sumergirse e intentar construir un programa desde cero, debe tomarse el tiempo para dominar los conceptos b\\xE1sicos.\nComo programador principiante, es mejor comenzar con un lenguaje simple como HTML o Python. Tambi\\xE9n puede usar un entorno de desarrollo visual integrado (IDE) como Scratch, que est\\xE1 dise\\xF1ado para personas que reci\\xE9n est\\xE1n aprendiendo a codificar, para que pueda concentrarse en lo b\\xE1sico sin perderse en los detalles.\nUna vez que haya dominado los conceptos b\\xE1sicos, estar\\xE1 en condiciones de explorar otros lenguajes y entornos de desarrollo. Hasta entonces, tratar de hacer demasiado demasiado pronto solo conducir\\xE1 a la frustraci\\xF3n.`),mdx(\"h2\",null,\"Dominar los atajos de escritura\"),mdx(\"p\",null,`Cuando est\\xE9 programando, encontrar\\xE1 todo tipo de atajos. Estas son secuencias especiales de pulsaciones de teclas que le permiten ejecutar un comando escribiendo menos. Puedes dominar el arte de la codificaci\\xF3n aprendiendo tantos atajos como puedas. Podr\\xE1 escribir m\\xE1s r\\xE1pido y con mayor precisi\\xF3n, y ahorrar\\xE1 mucho tiempo y energ\\xEDa en el proceso.\nPuede pensar que no conocer los atajos no afectar\\xE1 su capacidad de codificaci\\xF3n, pero se sorprender\\xEDa. Si no est\\xE1 utilizando atajos, pasar\\xE1 tiempo volviendo y volviendo a escribir partes de su c\\xF3digo que se perdi\\xF3 la primera vez. Si aprende atajos, podr\\xE1 escribir m\\xE1s r\\xE1pido, lo que significa que podr\\xE1 probar su programa m\\xE1s r\\xE1pidamente. Tambi\\xE9n podr\\xE1 detectar cualquier error que cometa m\\xE1s r\\xE1pidamente, lo cual es algo importante a tener en cuenta como programador principiante.`),mdx(\"h2\",null,\"Utilice un entorno de desarrollo integrado\"),mdx(\"p\",null,`Si planea dedicar mucho tiempo a la codificaci\\xF3n, debe elegir un entorno de desarrollo integrado (IDE) que mejor se adapte a sus necesidades. Un IDE es b\\xE1sicamente un programa que lo ayuda a escribir c\\xF3digo, dise\\xF1ar programas y probar su c\\xF3digo.\nUn IDE puede facilitar todo el proceso de codificaci\\xF3n al proporcionarle un editor de c\\xF3digo integrado, herramientas de depuraci\\xF3n, visualizaciones y m\\xE1s.\nQuerr\\xE1 elegir un IDE que le permita programar en el idioma que est\\xE1 estudiando, tenga una biblioteca de c\\xF3digos extensa y ofrezca varias visualizaciones y herramientas de depuraci\\xF3n.\nSi puede, pruebe diferentes IDE con un programa simple para asegurarse de que sea ideal para usted antes de pasar mucho tiempo codificando.`),mdx(\"h2\",null,\"Vu\\xE9lvase profesional con los accesos directos de Vim\"),mdx(\"p\",null,`Si desea volverse profesional con su codificaci\\xF3n, debe aprender algunos atajos de Vim. Vim es un editor de c\\xF3digo que utilizan muchos programadores, y los accesos directos de Vim realmente pueden acelerar su flujo de trabajo y ayudarlo a escribir c\\xF3digo de manera m\\xE1s eficiente.\nVim tiene una lista aparentemente interminable de accesos directos, y puede ser dif\\xEDcil navegar por todos ellos. Es por eso que debe consultar la hoja de trucos de Vi.\nSi reci\\xE9n est\\xE1 comenzando, es mejor concentrarse solo en algunos de los atajos m\\xE1s comunes y \\xFAtiles. Una vez que se sienta c\\xF3modo con esos, puede explorar algunos de los otros.\nPor ejemplo, si est\\xE1 programando en Python, puede usar un atajo para ejecutar su programa, buscar una pieza de c\\xF3digo espec\\xEDfica o escribir una pieza de c\\xF3digo, entre otras cosas.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`El camino para convertirse en un codificador exitoso es largo y no siempre es sencillo. Sin embargo, si te dedicas a tu oficio, progresar\\xE1s. Con eso en mente, debe tener en cuenta los consejos m\\xE1s importantes para principiantes: no se ahogue en los detalles, domine los conceptos b\\xE1sicos, domine los atajos de escritura y use un IDE.\nUna vez que haya dominado estos consejos y trucos, estar\\xE1 bien encaminado para convertirse en un codificador profesional.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAELX9QvWjUQAP79KUwXfp/ymKskxIKjXp99l43/hwL3vSa6HV9bpoc8Lx+PYX/MGO2uIJu2uZYg+Q/h1ofZm7pXMb8NH3R8qh3B392/3cAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-mejores-marcos-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Marcos De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,t=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var i=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))d.call(a,o)&&i(e,o,a[o]);if(r)for(var o of r(a))c.call(a,o)&&i(e,o,a[o]);return e},l=(e,a)=>t(e,m(a));var u=(e,a)=>{var o={};for(var s in e)d.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&c.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=u(s,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los desarrolladores de aplicaciones de hoy en d\\xEDa se enfrentan a una intensa presi\\xF3n para desarrollar productos de alta calidad que satisfagan las m\\xFAltiples necesidades de los usuarios en el menor tiempo posible y con la menor cantidad de recursos posible.\nLa soluci\\xF3n son los marcos de codificaci\\xF3n, que son bibliotecas de c\\xF3digo preescrito dise\\xF1ado para ayudar a los desarrolladores a cumplir con estas demandas. Estos marcos de codificaci\\xF3n facilitan a los codificadores la creaci\\xF3n de aplicaciones que cumplen una funci\\xF3n espec\\xEDfica o un grupo de funciones, pero requieren mucho tiempo y esfuerzo para crearlas desde cero. Hay muchos marcos de codificaci\\xF3n disponibles para programadores que trabajan en proyectos de software. El marco que elija depender\\xE1 de lo que est\\xE9 desarrollando, su nivel de habilidad como codificador y sus objetivos a largo plazo como empleado o aut\\xF3nomo que desarrolla software para empresas u otros profesionales. Siga leyendo para obtener m\\xE1s detalles sobre algunos de los marcos de codificaci\\xF3n m\\xE1s comunes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJagCdAEPDvUn4xeAAP5BP7PPJWQa04IvAYq977NyflFNvdcbvfXBR8+H/06B7xqQUFpnSaZyvmEz/G1b0XR8OESztZig97VbOV9zpAC119/wS/ic4q8+W3nscBP//OA/hqAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))s.call(a,n)&&c(e,n,a[n]);if(r)for(var n of r(a))d.call(a,n)&&c(e,n,a[n]);return e},t=(e,a)=>m(e,l(a));var u=(e,a)=>{var n={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&d.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,t(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJagCdFKACoad9A3OwMwA/nk//1CBGI/Fxipygt/CVGLZdpllv5Wf+V/5lr98kKUNa6lvFLZ7jPcos35tHQW26vPvGlmQHIHU452jeOvxFJ1ldbNg7Z1k0lThNdEXhkfY5MUOCDJn8G/7AMzCyN/Tjl/8o0MJDD/jAt/4v/+vWLPwAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Encontrar La Mejor Ayuda De Codificación En Línea",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,r=(e,a)=>{for(var n in a||(a={}))i.call(a,n)&&c(e,n,a[n]);if(s)for(var n of s(a))t.call(a,n)&&c(e,n,a[n]);return e},u=(e,a)=>p(e,m(a));var d=(e,a)=>{var n={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))a.indexOf(o)<0&&t.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFSab\\xEDa que encontrar ayuda con la codificaci\\xF3n inform\\xE1tica es una de las industrias en l\\xEDnea de m\\xE1s r\\xE1pido crecimiento? \\xBFSab\\xEDa tambi\\xE9n que hay una gran cantidad de sitios web donde puede encontrar la misma ayuda de codificaci\\xF3n? Con tantos lugares para buscar ayuda con la codificaci\\xF3n, tiene sentido que haya tantos profesionales que no parecen encontrar las mejores opciones. \\xA1Pero no te preocupes! Hay un mont\\xF3n de grandes recursos por ah\\xED si sabe d\\xF3nde buscar.\nEn esta publicaci\\xF3n de blog, exploraremos algunos de los lugares m\\xE1s efectivos en l\\xEDnea para encontrar los mejores ayudantes de programaci\\xF3n. Estas plataformas facilitan que los codificadores se conecten y colaboren, al mismo tiempo que permiten a las empresas y a las personas encontrar asistentes virtuales de primer nivel cuando m\\xE1s los necesitan. \\xBFEntonces, Qu\\xE9 esperas? \\xA1Sigue leyendo y descubre tus nuevos lugares favoritos para obtener ayuda con la codificaci\\xF3n hoy mismo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAQCdASoKAAoAAUAmJZACdADzbysAAP7c/03H3n4l4G+/+OuzFv6fahZG3/xZf7TpO5N9Tl+82AGkN+Fd6YILCBDtb3285A4rjJd9dATE/L/Cq13VlfARhRVvhDzIA01nr8wJ6Fb/sAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-lenguaje-para-el-desarrollo-de-juegos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Lenguaje Para El Desarrollo De Juegos",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var i=(e,o,a)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))l.call(o,a)&&i(e,a,o[a]);if(s)for(var a of s(o))u.call(o,a)&&i(e,a,o[a]);return e},d=(e,o)=>p(e,m(o));var t=(e,o)=>{var a={};for(var r in e)l.call(e,r)&&o.indexOf(r)<0&&(a[r]=e[r]);if(e!=null&&s)for(var r of s(e))o.indexOf(r)<0&&u.call(e,r)&&(a[r]=e[r]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var r=a,{components:e}=r,o=t(r,[\"components\"]);return mdx(MDXLayout,d(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Ahora que el mundo del desarrollo de juegos se est\\xE1 volviendo cada vez m\\xE1s digital, tambi\\xE9n hay nuevos desaf\\xEDos que enfrentar. Ahora se espera que los desarrolladores de juegos presenten soluciones a problemas complejos en un tiempo r\\xE9cord. Y aqu\\xED es donde entran los lenguajes de programaci\\xF3n. Hacen posible que los desarrolladores resuelvan problemas creando programas directamente en lugar de escribir instrucciones palabra por palabra. Existen numerosos lenguajes de programaci\\xF3n, pero uno que se ha vuelto particularmente \\xFAtil para el desarrollo de juegos es Go. Tiene muchas caracter\\xEDsticas que lo convierten en una excelente opci\\xF3n para desarrollar videojuegos, incluida su simplicidad, inferencia de tipos y excelente compatibilidad con Unicode. Si est\\xE1 buscando comenzar a aprender sobre Go y sus beneficios para el desarrollo de juegos, siga leyendo. En esta publicaci\\xF3n de blog, cubriremos todo lo que necesita saber sobre Go y por qu\\xE9 es un excelente lenguaje para el desarrollo de juegos.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADQAgCdASoKAAoAAUAmJbACdLoAEIRuqzhICtrFBo4AAP7YcgmPM5OvuU+QwFJMvP3fMJOgYi6OFat71mTyP5Cm/kUg8rz7SZq7ElEXbRiy0dIU2b42X9JDnMKcRjByxiZlJ+TQdXK//b30FGkXoEr/uhboRwL/Jv/8P3Bs+P9D1dvmHHv7nIxw3NseHfycmKjdczx6//gSwAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo De Software",
+      "intro": {
+        "compiledSource": "var i=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var d=(e,o,a)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))t.call(o,a)&&d(e,a,o[a]);if(n)for(var a of n(o))u.call(o,a)&&d(e,a,o[a]);return e},p=(e,o)=>c(e,m(o));var l=(e,o)=>{var a={};for(var s in e)t.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&u.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=l(s,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Todo el mundo sabe que el mundo del software es uno de los campos de m\\xE1s r\\xE1pido crecimiento en el mundo en este momento. Aquellos que son expertos en tecnolog\\xEDa buscan constantemente nuevas formas de aumentar su conocimiento y avanzar en sus carreras como desarrolladores. Sin embargo, esta puede ser una tarea desalentadora para muchas personas porque hay tantos lenguajes de programaci\\xF3n diferentes disponibles para aprender.\nCon tantas opciones disponibles, \\xBFc\\xF3mo saber cu\\xE1les valen la pena? Es por eso que hemos compilado una lista de algunos de los lenguajes de programaci\\xF3n m\\xE1s populares que deber\\xEDas considerar aprender si quieres convertirte en desarrollador de software. Aunque pueda parecer que hay infinitas posibilidades, no todos los lenguajes de programaci\\xF3n valen su tiempo y esfuerzo. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 Python es ideal para el desarrollo de software y por qu\\xE9 se distingue de otras opciones como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoKAAoAAUAmJagCdLoAAv4K7UOlwAD45YePKl8kW428+pjjXd6h8lZx20a/WYE8bll/3QwbA6MMM//qDh6pmv/lo80K8/5wH9FAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var u=(a,e,o)=>e in a?l(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))i.call(e,o)&&u(a,o,e[o]);if(s)for(var o of s(e))t.call(e,o)&&u(a,o,e[o]);return a},c=(a,e)=>d(a,m(e));var p=(a,e)=>{var o={};for(var n in a)i.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&s)for(var n of s(a))e.indexOf(n)<0&&t.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=p(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoKAAoAAUAmJbACdLoAFyBF1E37JDVUAAD+814eBa5bXL6CQ+yRaktdW8hrEBlxCrcby3tev2fQEeLpU0i8Q4evoCaOk7ZqqVtJ5WQihKbuuQCkJKL/8m2n3j8/9f/xbi6Ru6nzZA3Xmrb8a0X7c9e3HstlrjcyP/1ON14K9cgAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-beneficios-de-una-carrera-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Una Carrera De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))t.call(a,o)&&d(e,o,a[o]);return e},u=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&t.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=c(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los ingenieros de software son responsables de desarrollar software nuevo o corregir el c\\xF3digo existente para asegurarse de que satisfaga las necesidades del usuario y funcione como se espera. Usan el pensamiento l\\xF3gico, habilidades para resolver problemas y una variedad de principios t\\xE9cnicos cuando crean y prueban aplicaciones de software. Como ingeniero de software, podr\\xEDa tener la oportunidad de trabajar en proyectos que resuelven problemas desafiantes. Esta carrera puede ayudarlo a adquirir nuevas habilidades, avanzar en su carrera y construir un futuro m\\xE1s estable para usted. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 deber\\xEDa considerar hacer una carrera en ingenier\\xEDa de software si est\\xE1 interesado en la inform\\xE1tica u otro campo STEM.\nLos ingenieros de software tienen algunos de los trabajos m\\xE1s din\\xE1micos en la actualidad porque la tecnolog\\xEDa est\\xE1 cambiando muy r\\xE1pidamente. Pero, \\xBFqu\\xE9 significa exactamente ser ingeniero? Bueno, un ingeniero es alguien que combina la ciencia con el pensamiento l\\xF3gico y la creatividad para producir nuevas ideas o innovaciones \\xFAtiles que satisfagan las necesidades y los desaf\\xEDos humanos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJaACdAYqXvuyioGAAP799FfzxrbGz3AWvn7eFtOSv84N7AnszXhqtnSM2hVALyHIybAV837qM8+Y1jL8L6SWeo3v7JrcoDbVjfhqv97KAPrsf8C7finH629HjCAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-funcional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Funcional",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?c(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))d.call(a,o)&&t(e,o,a[o]);return e},l=(e,a)=>u(e,m(a));var p=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&d.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La programaci\\xF3n funcional es un estilo de programaci\\xF3n que se enfoca en el uso de funciones para modelar y resolver problemas. Es un paradigma que le permite pensar en su c\\xF3digo en t\\xE9rminos de entrada, salida y operaciones en esas entradas y salidas. Las ventajas de usar programaci\\xF3n funcional son una mayor legibilidad del c\\xF3digo, facilidad de mantenimiento y prueba, y un tiempo de implementaci\\xF3n m\\xE1s corto para algoritmos complejos.\nUna variedad de lenguajes admiten caracter\\xEDsticas de programaci\\xF3n funcional. Cu\\xE1l es mejor para usted depende de sus necesidades espec\\xEDficas, as\\xED como de los otros lenguajes de programaci\\xF3n que ya conoce. Seg\\xFAn sus preferencias de sintaxis, el tama\\xF1o del soporte de la comunidad o la disponibilidad de bibliotecas para el tipo de proyectos en los que est\\xE1 trabajando ahora o en los que podr\\xEDa trabajar en el futuro, diferentes opciones pueden satisfacer sus necesidades mejor que otras.\nEn este art\\xEDculo, exploraremos algunas alternativas populares del lenguaje Go para la programaci\\xF3n funcional con ejemplos y ventajas y desventajas para cada una:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBKAYsWPZI1iwAA/k6Ox+AQSl1oD50/7j5fSkRLDEU3x9/8/+Gwb6u8lg9V5/4KX7TFE8wCub09ZRc/ghuWhCCNqDvjSLVIeRcsAvFjAeeAe1/+VUsvBzoD//gurX/WhjQ1PkEpW1+N17dVr6lrAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))u.call(a,o)&&d(e,o,a[o]);if(r)for(var o of r(a))c.call(a,o)&&d(e,o,a[o]);return e},i=(e,a)=>p(e,m(a));var t=(e,a)=>{var o={};for(var s in e)u.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&c.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=t(s,[\"components\"]);return mdx(MDXLayout,i(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-automation.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJZgCdAELz4HNovAA/upfJ+sJ9feHgByGQqjpP//YP3QSeJ+U9zMn92q47zyZCOAEMwRDWT4XqToghvYVywK9KUr/4t6U2+6ygLAenBbqizgrBfQwvvhPji6+DebcQAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-el-lenguaje-para-la-automatizacion-de-sistemas",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para La Automatización De Sistemas",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,n=Object.prototype.propertyIsEnumerable;var m=(a,e,o)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))i.call(e,o)&&m(a,o,e[o]);if(t)for(var o of t(e))n.call(e,o)&&m(a,o,e[o]);return a},u=(a,e)=>l(a,d(e));var p=(a,e)=>{var o={};for(var s in a)i.call(a,s)&&e.indexOf(s)<0&&(o[s]=a[s]);if(a!=null&&t)for(var s of t(a))e.indexOf(s)<0&&n.call(a,s)&&(o[s]=a[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:a}=s,e=p(s,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Automatizar tareas es una forma de hacer tu vida m\\xE1s f\\xE1cil. Imag\\xEDnese esto, necesita ejecutar un informe todos los d\\xEDas y toma 5 minutos cada vez. Puede configurar una alarma y regresar r\\xE1pidamente al escritorio en 5 minutos o crear un script para automatizar este proceso. Este \\xFAltimo te deja m\\xE1s tiempo para concentrarte en cosas m\\xE1s importantes. \\xBFQu\\xE9 pasar\\xEDa si pudieras automatizar incluso las tareas m\\xE1s simples? \\xBFNo liberar\\xEDa su tiempo para cosas mejores? Ah\\xED es donde entra en juego Python. Como lenguaje de secuencias de comandos de automatizaci\\xF3n, puede ayudarlo a automatizar incluso las tareas m\\xE1s simples y liberar m\\xE1s tiempo para el trabajo que importa. La automatizaci\\xF3n ayuda a las empresas de muchas maneras. Ahorra tiempo, aumenta la eficiencia y reduce los costos al eliminar los procesos manuales. En este blog, exploraremos por qu\\xE9 Python es un lenguaje de programaci\\xF3n tan popular para la automatizaci\\xF3n de sistemas y c\\xF3mo se puede utilizar para automatizar tareas simples y repetitivas en su organizaci\\xF3n. Empecemos\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

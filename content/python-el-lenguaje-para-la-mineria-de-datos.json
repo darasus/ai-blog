@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-data-mining.png",
+  "imageSrc": "/articles/python-the-language-for-data-mining.png",
   "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkKnxsAAAD+3PeejsjztM2YfNTzDcFf9rPt2nvjKeVKDPP21LWft0XAn0yn/nBjdDDn5//hXSWc/nMofQ1ol9eQMy4FiBpAArhcgAA=",
-  "createdAt": "2022-10-01T11:39:01.533Z",
-  "updatedAt": "2022-10-01T11:39:01.533Z",
+  "createdAt": "2022-10-01T12:13:31.223Z",
+  "updatedAt": "2022-10-01T12:13:31.223Z",
   "slug": "python-el-lenguaje-para-la-mineria-de-datos",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -17,5 +17,156 @@
     "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,a,s)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,n=(e,a)=>{for(var s in a||(a={}))i.call(a,s)&&t(e,s,a[s]);if(r)for(var s of r(a))d.call(a,s)&&t(e,s,a[s]);return e},u=(e,a)=>c(e,m(a));var l=(e,a)=>{var s={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&d.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=l(o,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Por qu\\xE9 deber\\xEDa usar Python para la miner\\xEDa de datos\"),mdx(\"p\",null,\"Cada proyecto es diferente y tambi\\xE9n lo es cada lenguaje de programaci\\xF3n. Dado el hecho de que existen cientos de lenguajes de programaci\\xF3n, puede ser dif\\xEDcil decidir cu\\xE1l ser\\xEDa el mejor para su proyecto. Pero cuando se trata de Python, hay muchas razones por las que deber\\xEDa elegirlo para sus proyectos de miner\\xEDa de datos. \\xC9stos son algunos de ellos.\"),mdx(\"p\",null,\"En primer lugar, Python es uno de los lenguajes de programaci\\xF3n m\\xE1s f\\xE1ciles de aprender. Esta es una de las razones por las que es tan popular entre los principiantes: cualquiera puede aprender Python y comenzar a escribir c\\xF3digo casi de inmediato.\"),mdx(\"p\",null,\"Otra gran raz\\xF3n para usar Python para sus proyectos de miner\\xEDa de datos es que es extremadamente legible. Esto significa que una vez que haya terminado con su c\\xF3digo, otros desarrolladores de su equipo lo entender\\xE1n sin esfuerzo.\"),mdx(\"h2\",null,\"F\\xE1cil de aprender y leer\"),mdx(\"p\",null,\"Otra excelente raz\\xF3n para usar Python para la miner\\xEDa de datos es que es extremadamente f\\xE1cil de aprender y leer. Dado que sigue una sintaxis muy simple y estandarizada, Python es uno de los lenguajes de programaci\\xF3n m\\xE1s accesibles que existen. Adem\\xE1s, Python admite el concepto de espacios en blanco, lo que significa que no es necesario escribir todo en may\\xFAsculas. En su lugar, puede usar letras min\\xFAsculas y sangr\\xEDas para agrupar su c\\xF3digo y hacerlo legible al mismo tiempo.\"),mdx(\"p\",null,\"Adem\\xE1s, Python est\\xE1 dise\\xF1ado para admitir la legibilidad en todas las etapas del ciclo de vida del desarrollo de software, desde el an\\xE1lisis de datos hasta la creaci\\xF3n y prueba de aplicaciones. Esto hace de Python un gran lenguaje para la extracci\\xF3n de datos, la visualizaci\\xF3n y mucho m\\xE1s.\"),mdx(\"h2\",null,\"R\\xE1pido y potente\"),mdx(\"p\",null,`Otra excelente raz\\xF3n para usar Python para la miner\\xEDa de datos es que es extremadamente r\\xE1pido y poderoso. En primer lugar, Python es extremadamente f\\xE1cil de leer y escribir, lo que significa que es sencillo crear c\\xF3digo y escribir programas. Adem\\xE1s, Python es un lenguaje muy eficiente. Esto significa que el c\\xF3digo que escriba se ejecutar\\xE1 de la mejor manera posible y sin desperdicios innecesarios.\nDado que Python es uno de los lenguajes de programaci\\xF3n m\\xE1s populares y m\\xE1s utilizados, tiene una comunidad masiva que ha creado miles de bibliotecas generadas por usuarios que puede usar en sus proyectos de miner\\xEDa de datos. Esto significa que puede encontrar lo que necesite o quiera usar para su proyecto.`),mdx(\"h2\",null,\"Python es de c\\xF3digo abierto\"),mdx(\"p\",null,`Otra gran raz\\xF3n para usar Python para sus proyectos de miner\\xEDa de datos es que es un lenguaje de c\\xF3digo abierto. Esto significa que el c\\xF3digo est\\xE1 disponible gratuitamente para todos y cualquiera puede modificarlo y usarlo como mejor le parezca. Esto tambi\\xE9n significa que todos pueden contribuir al idioma, lo que solo lo hace mejor y m\\xE1s fuerte.\nTener un lenguaje de c\\xF3digo abierto es especialmente importante para las empresas que emplean una estrategia basada en datos. De esta manera, puede evitar el bloqueo de proveedores y depender de un lenguaje que sea m\\xE1s flexible y escalable.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`Como puede ver, hay muchas razones por las que deber\\xEDa usar Python para la miner\\xEDa de datos. En primer lugar, Python es extremadamente f\\xE1cil de aprender y leer. Tambi\\xE9n es r\\xE1pido y poderoso y tiene una comunidad masiva. Adem\\xE1s, es un lenguaje de c\\xF3digo abierto que puede usar para varios prop\\xF3sitos.\nLo que hace que Python sea tan bueno es que es muy adaptable: puede usarlo para casi cualquier prop\\xF3sito. Es extremadamente vers\\xE1til, potente y simple al mismo tiempo. Con estas cualidades, Python es uno de los mejores lenguajes de programaci\\xF3n para usar en proyectos de miner\\xEDa de datos.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/packages-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdAYtVyeEyPgStQAA/qx3aHsDf6Nmzh4+Qqw7PgyZv9EJ/q0Vtg3/OYf+disuquvnWRduh+0dZ2bu22l23EcnznTal/ydaysS8DZThT/Ngsvy54Ev/4Z95FcU2KJ+GO9nzCt2bRbxQ6L5FagA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "paquetes-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Paquetes En Java",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var r=(e,a,s)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,t=(e,a)=>{for(var s in a||(a={}))i.call(a,s)&&r(e,s,a[s]);if(n)for(var s of n(a))u.call(a,s)&&r(e,s,a[s]);return e},c=(e,a)=>p(e,m(a));var d=(e,a)=>{var s={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&u.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`En este mundo digital, todo se est\\xE1 volviendo digital. Incluso el campo de la programaci\\xF3n se est\\xE1 desplazando hacia plataformas y soluciones m\\xE1s digitalizadas. En tal escenario, surge la necesidad de programas compactos que puedan instalarse y usarse f\\xE1cilmente en cualquier dispositivo. Ah\\xED es donde entran en juego los paquetes de Java.\nUn paquete en Java es una colecci\\xF3n de clases, interfaces, enumeraciones y subpaquetes relacionados bajo un mismo paraguas. Como ya habr\\xE1 entendido de la explicaci\\xF3n anterior, los paquetes son una excelente manera de organizar su c\\xF3digo en unidades l\\xF3gicas que se pueden reutilizar en todos los proyectos. Los paquetes lo ayudan a evitar conflictos de nombres con otras bibliotecas o programas y ayudan a mantener juntas las cosas relacionadas para que sean m\\xE1s f\\xE1ciles de encontrar m\\xE1s adelante. Echemos un vistazo a algunos paquetes comunes de Java:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJQBOgCHgsX8s91AAAP75WLnzB4u1AjPBDze/1FChU9tganN9P48aTRCJAiQX+xiduAkbbAecOoRBsqXlVv5H7gPBuskQFQAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var t=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,d=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&t(e,a,o[a]);if(r)for(var a of r(o))s.call(o,a)&&t(e,a,o[a]);return e},c=(e,o)=>u(e,l(o));var m=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&r)for(var n of r(e))o.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,c(d(d({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdLoAEJMXo9rZDAAA/vfJZZUeTdVIex/ZSMSM7OEXNDL75VVVo9ZSMfOcwCNDd1EUH/8Fg118FtHfyOdArprd47bw3NCE3ZVOM50J8Z5FnseYMd/5xV3/Tuw+ff8eqP6U3J8KXnsaGzneAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-integrada",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Integrada",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&c(e,o,a[o]);if(r)for(var o of r(a))d.call(a,o)&&c(e,o,a[o]);return e},i=(e,a)=>l(e,m(a));var p=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&d.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=p(s,[\"components\"]);return mdx(MDXLayout,i(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy en d\\xEDa, el mundo de la programaci\\xF3n es un dominio feroz. Hay tantos lenguajes de programaci\\xF3n disponibles en el mercado que puede parecer confuso para los programadores seleccionar el que mejor se adapte a sus necesidades y que tambi\\xE9n satisfaga las necesidades futuras.\nLa programaci\\xF3n no es tan simple como parece, especialmente cuando considera todos los diferentes aspectos involucrados. No se trata solo de aprender c\\xF3digo, sino tambi\\xE9n de comprender qu\\xE9 tipos de proyectos desea emprender y qu\\xE9 tipo de estructura tomar\\xE1 su carrera a partir de ahora. Entonces, al elegir un lenguaje de programaci\\xF3n, hay ciertos aspectos que debe tener en cuenta antes de tomar su decisi\\xF3n final. Para ayudarlo con esto, hemos resumido algunos de los principales pros y contras asociados con el uso de Go para la programaci\\xF3n integrada en este art\\xEDculo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-software-engineering-books.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdAYtBwn+2aQjvdeAAP76o8TnY/tsPSM+KQBGDQP4+LF5HeSqYk2OewUqfmO0K2xOgRqMmcq47nf8w/5xgvXYuW0gBfNNrgTnKfx/g3pxX4fMLeiXt81l+njvgD7cneDf+X6+gYVrtAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-mejores-libros-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Libros De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))t.call(a,o)&&d(e,o,a[o]);return e},l=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&t.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=c(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy en d\\xEDa, los ingenieros de software juegan un papel mucho m\\xE1s importante en la forma en que operan las empresas. Gracias a la creciente importancia del software y los servicios digitales, los ingenieros de software ya no son solo codificadores con un escritorio en una trastienda en alg\\xFAn lugar. En cambio, ahora son personas que pueden influir en las estrategias de toda la empresa y ayudar a dar forma al futuro de una organizaci\\xF3n. Como tal, los ingenieros de software deben tener una amplia gama de habilidades y conocimientos t\\xE9cnicos para tener \\xE9xito.\nLos libros de ingenier\\xEDa de software son una excelente manera de aprender m\\xE1s sobre esta profesi\\xF3n de r\\xE1pido crecimiento, as\\xED como de ampliar sus propios conocimientos y habilidades. Aqu\\xED echamos un vistazo a algunos de los mejores libros de ingenier\\xEDa de software que puede leer para complementar su educaci\\xF3n actual de la universidad u otras fuentes. Incluso si cree que no los necesita en este momento, siga leyendo para obtener informaci\\xF3n excelente sobre estos libros esenciales para ingenieros de software...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAAoAAUAmJbACdAERHzQ94YAA/vknzPwc15f2G0R+QIhuQBWf+7O0P9jkz+Tf//tne4/0cmfyb//+Mqf8gP4RKUkdOSAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Atajos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(n)for(var o of n(a))c.call(a,o)&&t(e,o,a[o]);return e},u=(e,a)=>l(e,m(a));var d=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&n)for(var r of n(e))a.indexOf(r)<0&&c.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=d(r,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoKAAoAAUAmJbACdLoA4AAC64AGvKIsAAD+0gRUCJzDocqa/OwP4KPzeZnsyNR3eIYUSIkT3U1sXFF+A76ZBKwemJo6aPpnWP81PCp3gL/Gg3nQVPzM83SK5ojLdtOPU4RgtPaos4o/+hj++730ZbXz/kMdf/o5M/k3/9tab+h3/yV+5x0geW8mo3sbf2V7ZUAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-la-administracion-de-la-base-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Administración De La Base De Datos",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var r=(e,a,s)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,n=(e,a)=>{for(var s in a||(a={}))i.call(a,s)&&r(e,s,a[s]);if(o)for(var s of o(a))t.call(a,s)&&r(e,s,a[s]);return e},c=(e,a)=>p(e,l(a));var u=(e,a)=>{var s={};for(var d in e)i.call(e,d)&&a.indexOf(d)<0&&(s[d]=e[d]);if(e!=null&&o)for(var d of o(e))a.indexOf(d)<0&&t.call(e,d)&&(s[d]=e[d]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var d=s,{components:e}=d,a=u(d,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La demanda de administradores de bases de datos capacitados est\\xE1 en aumento. A medida que las empresas contin\\xFAan adoptando soluciones basadas en la nube y tecnolog\\xEDas de big data, la necesidad de administradores de bases de datos capacitados nunca ha sido tan grande. La tasa de retenci\\xF3n promedio para los DBA es del 96 por ciento, lo que significa que este rol tiene una gran demanda y no hay muchas personas que quieran desempe\\xF1arlo.\nHay m\\xE1s de 20 idiomas que puede utilizar para crear bases de datos de aplicaciones. Cada uno tiene sus pros y sus contras cuando se trata de las diversas tareas involucradas en la administraci\\xF3n de bases de datos, como crear vistas y procedimientos almacenados, monitorear el rendimiento, crear \\xEDndices y auditar los privilegios de acceso de los usuarios.\nLos DBA deben tener un amplio conocimiento de los diferentes sistemas de administraci\\xF3n de bases de datos (DBMS) para que puedan identificar cu\\xE1l es el m\\xE1s adecuado para cada escenario. En general, hay tres tipos principales de DBMS: sistemas de gesti\\xF3n de bases de datos relacionales (RDMS), sistemas de gesti\\xF3n de bases de datos orientadas a documentos (DDMS) y sistemas de gesti\\xF3n de bases de datos h\\xEDbridas (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/basic-java-syntax.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAgCdASoKAAoAAUAmJYwCdAYoH9JOTn7RMwe4AAD+/U6KmSeAWjd3M+JHqd2evt5O/wYfo3zka3FmIffozl3/2T7ecJ2f75MbgVgVaPoWdenn/lsKxZGkPYIltkDtFn/v0b3KkQjEXAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "sintaxis-basica-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Sintaxis Básica De Java",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,n)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,r=(e,a)=>{for(var n in a||(a={}))i.call(a,n)&&d(e,n,a[n]);if(o)for(var n of o(a))c.call(a,n)&&d(e,n,a[n]);return e},t=(e,a)=>l(e,m(a));var u=(e,a)=>{var n={};for(var s in e)i.call(e,s)&&a.indexOf(s)<0&&(n[s]=e[s]);if(e!=null&&o)for(var s of o(e))a.indexOf(s)<0&&c.call(e,s)&&(n[s]=e[s]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var s=n,{components:e}=s,a=u(s,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando est\\xE1 aprendiendo a codificar, necesita aprender los conceptos b\\xE1sicos antes de poder pasar a temas m\\xE1s complejos. El lenguaje de programaci\\xF3n m\\xE1s fundamental es Java. Es uno de los lenguajes m\\xE1s importantes y ampliamente utilizados en el mundo de la inform\\xE1tica. Muchos otros lenguajes de programaci\\xF3n se basan en \\xE9l, lo que lo hace a\\xFAn m\\xE1s esencial para los programadores.\nSi desea aprender Java, primero debe comprender la sintaxis de codificaci\\xF3n b\\xE1sica. Mucha gente considera que la codificaci\\xF3n es un desaf\\xEDo porque requiere fluidez en una variedad de caracteres y s\\xEDmbolos que no son necesariamente palabras comunes en ingl\\xE9s. Sin embargo, una vez que supere la apariencia inusual de estas palabras, ver\\xE1 que en realidad son conceptos bastante simples cuando se dividen en partes m\\xE1s peque\\xF1as. Una vez que comprenda los conceptos b\\xE1sicos, \\xA1todo ser\\xE1 mucho m\\xE1s f\\xE1cil de ahora en adelante!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBKAYsWPZI1iwAA/k6Ox+AQSl1oD50/7j5fSkRLDEU3x9/8/+Gwb6u8lg9V5/4KX7TFE8wCub09ZRc/ghuWhCCNqDvjSLVIeRcsAvFjAeeAe1/+VUsvBzoD//gurX/WhjQ1PkEpW1+N17dVr6lrAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))u.call(a,o)&&d(e,o,a[o]);if(r)for(var o of r(a))c.call(a,o)&&d(e,o,a[o]);return e},i=(e,a)=>p(e,m(a));var t=(e,a)=>{var o={};for(var s in e)u.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&c.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=t(s,[\"components\"]);return mdx(MDXLayout,i(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB8gADDBsHLZDUAADOMtjF6n03V+WyKX/UN6tNeRNRUdLUkKf0nT/okgtJ7BaMOZFkMEae1h0hRpvm8wAUospXYzv7f/7GP/1+Ls/8YD7tz/vHWdl3+oO+At/2b+87+OEAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(a,e,i)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:i}):a[e]=i,r=(a,e)=>{for(var i in e||(e={}))s.call(e,i)&&d(a,i,e[i]);if(o)for(var i of o(e))c.call(e,i)&&d(a,i,e[i]);return a},t=(a,e)=>p(a,b(e));var l=(a,e)=>{var i={};for(var n in a)s.call(a,n)&&e.indexOf(n)<0&&(i[n]=a[n]);if(a!=null&&o)for(var n of o(a))e.indexOf(n)<0&&c.call(a,n)&&(i[n]=a[n]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var n=i,{components:a}=n,e=l(n,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoKAAoAAUAmJQAAW6FDOlsAAP77JpsbTLXVPyN8t2cEl6d97fDc/PVdwIyZ+5+oEhq7cbF99ppphjOpL8chwZv+wXz+7gDAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(a,e,r)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:r}):a[e]=r,n=(a,e)=>{for(var r in e||(e={}))s.call(e,r)&&c(a,r,e[r]);if(o)for(var r of o(e))t.call(e,r)&&c(a,r,e[r]);return a},u=(a,e)=>l(a,m(e));var d=(a,e)=>{var r={};for(var i in a)s.call(a,i)&&e.indexOf(i)<0&&(r[i]=a[i]);if(a!=null&&o)for(var i of o(a))e.indexOf(i)<0&&t.call(a,i)&&(r[i]=a[i]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var i=r,{components:a}=i,e=d(i,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

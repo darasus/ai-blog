@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-of-science.png",
+  "imageSrc": "/articles/python-the-language-of-science.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJYgCdADx9zeOAAD+6l3VV/Ib3QNOxsNfz/rnNt2+wN8qymH3Hw77b6LVcfWamT7K28Zx/hpN8tEDJaffoCoouqYfinkijsUfYnj/jvPjlTsjfnVTT9B92q6VoYPI8F+6MwN/exYgAAAA",
-  "createdAt": "2022-10-01T11:38:58.071Z",
-  "updatedAt": "2022-10-01T11:38:58.071Z",
+  "createdAt": "2022-10-01T12:13:26.640Z",
+  "updatedAt": "2022-10-01T12:13:26.640Z",
   "slug": "python-el-lenguaje-de-la-ciencia",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -17,5 +17,156 @@
     "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var c=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var t=(e,a,n)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,s=(e,a)=>{for(var n in a||(a={}))c.call(a,n)&&t(e,n,a[n]);if(o)for(var n of o(a))r.call(a,n)&&t(e,n,a[n]);return e},l=(e,a)=>p(e,m(a));var d=(e,a)=>{var n={};for(var i in e)c.call(e,i)&&a.indexOf(i)<0&&(n[i]=e[i]);if(e!=null&&o)for(var i of o(e))a.indexOf(i)<0&&r.call(e,i)&&(n[i]=e[i]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var i=n,{components:e}=i,a=d(i,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"\\xBFQu\\xE9 es Python?\"),mdx(\"p\",null,'Python es un lenguaje de programaci\\xF3n interactivo, orientado a objetos y de alto nivel dise\\xF1ado para ser legible y flexible. Se utiliza principalmente para desarrollo web, an\\xE1lisis de datos, inteligencia artificial, computaci\\xF3n cient\\xEDfica e ingenier\\xEDa de software. La sintaxis de este lenguaje permite a los usuarios expresar conceptos en menos l\\xEDneas de c\\xF3digo con menos elementos sint\\xE1cticos que otros lenguajes. Esto puede reducir el tiempo de lectura para las personas que est\\xE1n menos familiarizadas con el idioma. El c\\xF3digo de Python se puede escribir de una manera que sea \"legible por humanos\" con la sangr\\xEDa adecuada. El int\\xE9rprete del lenguaje est\\xE1 disponible en l\\xEDnea y se puede usar para escribir, ejecutar y probar c\\xF3digo en cualquier entorno de programaci\\xF3n. Esto hace que Python sea una excelente opci\\xF3n para los principiantes que quieren aprender a programar.'),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 usar Python para computaci\\xF3n cient\\xEDfica?\"),mdx(\"p\",null,\"Python es una excelente opci\\xF3n para la computaci\\xF3n cient\\xEDfica porque es f\\xE1cil de aprender, f\\xE1cil de leer, tiene una gran comunidad de usuarios y es de c\\xF3digo abierto. Estas caracter\\xEDsticas facilitan la colaboraci\\xF3n con otros, lo que la convierte en una buena opci\\xF3n para proyectos grandes. Si bien Python se usa principalmente para el an\\xE1lisis de datos, tambi\\xE9n se puede usar para desarrollar e implementar aplicaciones completas, como un sitio web o una aplicaci\\xF3n m\\xF3vil. Debido a que est\\xE1 dise\\xF1ado para fomentar la legibilidad, Python es una buena opci\\xF3n para los cient\\xEDficos que necesitan compartir su c\\xF3digo con otros. Este lenguaje se puede usar para analizar grandes cantidades de datos r\\xE1pidamente, lo cual es importante en el contexto de la computaci\\xF3n cient\\xEDfica.\"),mdx(\"h2\",null,\"Ventajas clave de Python para la computaci\\xF3n cient\\xEDfica\"),mdx(\"p\",null,\"C\\xF3digo legible: el c\\xF3digo de Python es f\\xE1cil de leer, lo que lo hace accesible para otras personas que est\\xE1n menos familiarizadas con el lenguaje. Esto es importante para la colaboraci\\xF3n en proyectos basados en equipos.\"),mdx(\"p\",null,\"Velocidad: se sabe que Python es un lenguaje de programaci\\xF3n r\\xE1pido, por lo que es una excelente opci\\xF3n para la computaci\\xF3n cient\\xEDfica, el an\\xE1lisis de datos y el aprendizaje autom\\xE1tico.\"),mdx(\"p\",null,\"Colaboraci\\xF3n: Python es una excelente opci\\xF3n para proyectos grandes que involucran la colaboraci\\xF3n entre cient\\xEDficos de diferentes disciplinas.\"),mdx(\"p\",null,\"An\\xE1lisis de datos: Python tiene muchas bibliotecas de an\\xE1lisis de datos, lo que lo convierte en una buena opci\\xF3n para los cient\\xEDficos que necesitan analizar grandes cantidades de datos r\\xE1pidamente.\"),mdx(\"h2\",null,\"an\\xE1lisis de los datos\"),mdx(\"p\",null,\"El an\\xE1lisis de datos con Python a menudo se realiza mediante Pandas, NumPy, SciPy y Scikit-Learn. Pandas es una biblioteca para el an\\xE1lisis y la visualizaci\\xF3n de datos. Est\\xE1 dise\\xF1ado para trabajar con grandes conjuntos de datos y hacerlos f\\xE1cilmente accesibles agregando estructura, reorganizando los datos y aplicando herramientas de visualizaci\\xF3n. NumPy es una biblioteca que proporciona computaci\\xF3n avanzada con grandes colecciones de datos num\\xE9ricos. Con SciPy, puede realizar c\\xE1lculos matem\\xE1ticos, cient\\xEDficos y de ingenier\\xEDa. Scikit-Learn es una biblioteca de aprendizaje autom\\xE1tico de c\\xF3digo abierto que facilita el an\\xE1lisis de datos. Tiene varios algoritmos, facilita la adici\\xF3n de nuevos algoritmos y tiene buenas capacidades de visualizaci\\xF3n.\"),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Python se ha convertido en el lenguaje de programaci\\xF3n m\\xE1s popular utilizado por los cient\\xEDficos en la actualidad. Esto se debe en gran parte a que es f\\xE1cil de aprender, f\\xE1cil de leer, tiene una gran comunidad de usuarios y es de c\\xF3digo abierto. Estas caracter\\xEDsticas facilitan la colaboraci\\xF3n con otros, lo que la convierte en una buena opci\\xF3n para proyectos grandes.\"),mdx(\"p\",null,\"Los cient\\xEDficos necesitan hacer preguntas, encontrar respuestas y reconocer patrones para descubrir nuevos conocimientos. Python es un lenguaje de programaci\\xF3n que facilita que cualquier persona realice este tipo de trabajo. Tambi\\xE9n sobresale en el procesamiento de datos m\\xE1s r\\xE1pido que cualquier otro idioma. Por estas razones, los cient\\xEDficos usan Python cada vez m\\xE1s en su trabajo.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAAUAmJbACdLoB+AADsAD+8WR94MXwRLVjDIzmXIrf/YXM9YLxB/Z9pHfsKHz7+pyYqP4E7/wJ3/zBK/IN1yAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-mejores-consejos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Consejos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))c.call(a,o)&&t(e,o,a[o]);return e},u=(e,a)=>p(e,m(a));var d=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&c.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Hay muchas razones para aprender a codificar. Esta habilidad digital te da el poder de crear sitios web, aplicaciones o videojuegos desde cero sin tener que pagarle a alguien m\\xE1s para que lo haga por ti. No solo eso, la codificaci\\xF3n se puede usar en muchas industrias y trabajos diferentes. Tambi\\xE9n es una excelente manera de ganar dinero en l\\xEDnea como un proyecto paralelo si tiene otras ambiciones. Sin embargo, si nunca ha codificado antes, puede parecer un desaf\\xEDo imposible. No es algo que puedas buscar en Google o Netflix, requiere dedicaci\\xF3n y pr\\xE1ctica. Afortunadamente, hay muchos recursos gratuitos disponibles en Internet que lo ayudar\\xE1n a comenzar con los conceptos b\\xE1sicos de codificaci\\xF3n y desarrollar sus habilidades con el tiempo. El siguiente art\\xEDculo destaca algunos de los mejores consejos para principiantes que quieren aprender a programar en 2018 y m\\xE1s all\\xE1.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJaACdAYtpbHfWNA64AD+8BvR90hol1Xv91u1tvZ5/nGXpuYvn4naIkfsbTqOcbjtIs/HxaEf8NmCfjwr+bX8iy0HtdeXcejn1I/DP8n8mQfGuoqzavuzg/Rv82XuMP4Ctn5rNKOYhF0bQUU7+DkxUZ+ZuBgA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "aplicaciones-ricas-de-internet-con-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Ricas De Internet Con Java",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,p=Object.prototype.propertyIsEnumerable;var l=(a,e,r)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:r}):a[e]=r,n=(a,e)=>{for(var r in e||(e={}))i.call(e,r)&&l(a,r,e[r]);if(s)for(var r of s(e))p.call(e,r)&&l(a,r,e[r]);return a},t=(a,e)=>d(a,m(e));var u=(a,e)=>{var r={};for(var o in a)i.call(a,o)&&e.indexOf(o)<0&&(r[o]=a[o]);if(a!=null&&s)for(var o of s(a))e.indexOf(o)<0&&p.call(a,o)&&(r[o]=a[o]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var o=r,{components:a}=o,e=u(o,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Las aplicaciones de Internet enriquecidas, o RIA, son aplicaciones basadas en web que presentan una mayor interactividad que los sitios web est\\xE1ndar. En lugar de simplemente permitir que los usuarios accedan a la informaci\\xF3n de un sitio web, las aplicaciones RIA generalmente brindan a los usuarios la capacidad de tomar medidas sobre ese contenido. Por ejemplo, en lugar de simplemente proporcionar a los usuarios informaci\\xF3n sobre un producto y su precio, una aplicaci\\xF3n RIA podr\\xEDa permitir a los usuarios agregar el producto a un carrito de compras y completar el proceso de compra.\nEste art\\xEDculo le presenta los RIA de Java para que pueda comprender por qu\\xE9 los desarrolladores de Java deber\\xEDan usarlo para desarrollar RIA. El objetivo de este art\\xEDculo es explicarle por qu\\xE9 Java es particularmente adecuado para desarrollar estas aplicaciones y por qu\\xE9 deber\\xEDa considerar usarlo si planea crear una.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJZACdAEUU9Zw/kGAAP78dOraa9k3sK2zaMBxJEa/fOJ+tlYjz8KH+PHPK/TpbP8c8zKZlAxoCrV+3W+4HyGRHsvrRtuvweypgFealH3DdIAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-la-administracion-del-sistema",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Administración Del Sistema",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&l(e,o,a[o]);if(n)for(var o of n(a))i.call(a,o)&&l(e,o,a[o]);return e},u=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&i.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=c(s,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`No es ning\\xFAn secreto que a los programadores les encanta programar. Pero no todos aman cosas similares. Aquellos que se sienten atra\\xEDdos por las ciencias de la computaci\\xF3n por su l\\xF3gica y los desaf\\xEDos de resoluci\\xF3n de problemas pueden encontrar que la codificaci\\xF3n es un lastre a veces, especialmente si su trabajo consiste principalmente en lidiar con API u otros componentes de software est\\xE1ndar.\nProbablemente todos nos hemos encontrado con desarrolladores que no comparten nuestras pasiones, aquellos que quedan atrapados en el glamour del t\\xEDtulo del trabajo en lugar de su sustancia. Y este tipo de personas tambi\\xE9n se sienten atra\\xEDdos por diferentes campos dentro de nuestra profesi\\xF3n. Por ejemplo, a algunos programadores les gusta escribir c\\xF3digo que controle m\\xE1quinas o procesos (en resumen, tareas de administraci\\xF3n de sistemas) en lugar de crear interfaces de usuario o algoritmos de inteligencia artificial.\nEs por eso que exploraremos Go como un lenguaje excelente para la administraci\\xF3n del sistema (o cualquier rol altamente orientado a tareas).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADQAgCdASoKAAoAAUAmJbACdLoAEIRuqzhICtrFBo4AAP7YcgmPM5OvuU+QwFJMvP3fMJOgYi6OFat71mTyP5Cm/kUg8rz7SZq7ElEXbRiy0dIU2b42X9JDnMKcRjByxiZlJ+TQdXK//b30FGkXoEr/uhboRwL/Jv/8P3Bs+P9D1dvmHHv7nIxw3NseHfycmKjdczx6//gSwAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo De Software",
+      "intro": {
+        "compiledSource": "var i=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var d=(e,o,a)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))t.call(o,a)&&d(e,a,o[a]);if(n)for(var a of n(o))u.call(o,a)&&d(e,a,o[a]);return e},p=(e,o)=>c(e,m(o));var l=(e,o)=>{var a={};for(var s in e)t.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&u.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=l(s,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Todo el mundo sabe que el mundo del software es uno de los campos de m\\xE1s r\\xE1pido crecimiento en el mundo en este momento. Aquellos que son expertos en tecnolog\\xEDa buscan constantemente nuevas formas de aumentar su conocimiento y avanzar en sus carreras como desarrolladores. Sin embargo, esta puede ser una tarea desalentadora para muchas personas porque hay tantos lenguajes de programaci\\xF3n diferentes disponibles para aprender.\nCon tantas opciones disponibles, \\xBFc\\xF3mo saber cu\\xE1les valen la pena? Es por eso que hemos compilado una lista de algunos de los lenguajes de programaci\\xF3n m\\xE1s populares que deber\\xEDas considerar aprender si quieres convertirte en desarrollador de software. Aunque pueda parecer que hay infinitas posibilidades, no todos los lenguajes de programaci\\xF3n valen su tiempo y esfuerzo. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 Python es ideal para el desarrollo de software y por qu\\xE9 se distingue de otras opciones como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJZACdAEUpOo8aYMpQAD++ng/p3ymOrgX48Tvb3Kt9+NMSvKoh/PaF81yF9yW93Lboi7P8J2nP/Mj9sW/n+vtv9Cax4NeIyQ837ArBetUZ15Jhtuz31drFNIv6MFcdNnOM/wbsyAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var p=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&p(e,o,a[o]);if(s)for(var o of s(a))t.call(a,o)&&p(e,o,a[o]);return e},c=(e,a)=>l(e,m(a));var d=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&t.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdLoAAwizdnaAAP74k0YCoDSgZNt8htwulGesezEJ1BMEHybklUFLHM3Fbm9cVFijgZaMTUgYqL/JGfB7BlVR8KdAz3eNHn+q1x/EB9ehOfv7XIf/gsNAp1kfMh28pfAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "programacion-orientada-a-objetos-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Programación Orientada a Objetos En Java",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&c(e,o,a[o]);if(s)for(var o of s(a))i.call(a,o)&&c(e,o,a[o]);return e},d=(e,a)=>p(e,l(a));var u=(e,a)=>{var o={};for(var n in e)t.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&i.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=u(n,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La programaci\\xF3n orientada a objetos es una forma de escribir c\\xF3digo que se enfoca en lo que hace el programa, y no solo en lo que sabe. Este art\\xEDculo cubre una descripci\\xF3n general de la programaci\\xF3n orientada a objetos en Java, as\\xED como sus ventajas y desventajas.\nSi est\\xE1 leyendo esto, probablemente est\\xE9 familiarizado con los lenguajes de programaci\\xF3n de procedimientos como C, C++ o Python. Todos estos son lenguajes de programaci\\xF3n imperativos que se enfocan en decirle a la computadora exactamente qu\\xE9 hacer y cu\\xE1ndo hacerlo.\nLa programaci\\xF3n orientada a objetos es diferente de los lenguajes imperativos en aspectos importantes. La programaci\\xF3n orientada a objetos es una forma de escribir programas que tiene como objetivo reducir la redundancia y aumentar la modularidad mediante el uso de objetos que tienen sus propios campos de datos y m\\xE9todos que act\\xFAan sobre esos campos en lugar de variables globales. Profundicemos m\\xE1s en OOP en Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABwAgCdASoKAAoAAUAmJbACdLoAEIeYls3otyEAAP73Q3+B5GTKpxBboLJFjskdP+qi2zrI8078JPC5gU3NeyO5//0dNthB/5R4TX/zR++CP2qAobajslrkgAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-fundamentos-de-la-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Fundamentos De La Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,c=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&d(e,o,a[o]);if(n)for(var o of n(a))r.call(a,o)&&d(e,o,a[o]);return e},t=(e,a)=>p(e,m(a));var u=(e,a)=>{var o={};for(var i in e)s.call(e,i)&&a.indexOf(i)<0&&(o[i]=e[i]);if(e!=null&&n)for(var i of n(e))a.indexOf(i)<0&&r.call(e,i)&&(o[i]=e[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:e}=i,a=u(i,[\"components\"]);return mdx(MDXLayout,t(c(c({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Incluso si no te consideras un genio de la tecnolog\\xEDa, es posible que descubras que la codificaci\\xF3n es tu vocaci\\xF3n. Este puede ser un tema complicado para comenzar y continuar, pero estamos aqu\\xED para pon\\xE9rtelo f\\xE1cil. La codificaci\\xF3n para principiantes no es tan dif\\xEDcil como podr\\xEDa creer, solo requiere algo de tiempo de estudio y pr\\xE1ctica. No ser\\xE1 f\\xE1cil al principio, pero con el tiempo y la cantidad adecuada de dedicaci\\xF3n, cualquiera puede aprender los fundamentos de la codificaci\\xF3n, ya sea que tenga conocimientos previos o no.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una de las habilidades m\\xE1s importantes en el mercado laboral actual. Incluso si no desea convertirse en ingeniero de software o similar, comprender los principios b\\xE1sicos de codificaci\\xF3n puede brindarle una ventaja en casi cualquier otro campo. Ver\\xE1, cualquier cosa, desde contabilidad hasta atenci\\xF3n m\\xE9dica, usa tecnolog\\xEDa a diario, a menudo involucrando software avanzado o sistemas de inteligencia artificial.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIRG63xAAAP7tKGb5R9tiqaI5JTqpkmqS5kZuY3N+X5Ppz15d0jFUfDXHxYOdFRnX/7oAe/cuwMAqWi39ahjf0cbr4kL/xIX/xheD2G0cW8wgAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-administracion-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración Web",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))c.call(a,o)&&d(e,o,a[o]);return e},t=(e,a)=>u(e,m(a));var l=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&c.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=l(r,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoKAAoAAUAmJQAAW6FDOlsAAP77JpsbTLXVPyN8t2cEl6d97fDc/PVdwIyZ+5+oEhq7cbF99ppphjOpL8chwZv+wXz+7gDAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(a,e,r)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:r}):a[e]=r,n=(a,e)=>{for(var r in e||(e={}))s.call(e,r)&&c(a,r,e[r]);if(o)for(var r of o(e))t.call(e,r)&&c(a,r,e[r]);return a},u=(a,e)=>l(a,m(e));var d=(a,e)=>{var r={};for(var i in a)s.call(a,i)&&e.indexOf(i)<0&&(r[i]=a[i]);if(a!=null&&o)for(var i of o(a))e.indexOf(i)<0&&t.call(a,i)&&(r[i]=a[i]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var i=r,{components:a}=i,e=d(i,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAwCdASoKAAoAAUAmJbACdLoB+ACJVelgByxIYPfzPQAA/mbfkcFcIaT/J2j45XuMRQQB8Mn8MtNfmRZnLzm+EwD1q2+m+ynKfvIA2//a/9Cv/eYuVJ/CGbaa+DeVVEyvmAH/MAPgIy/0ff7oaJH5pM8u5YAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-un-lenguaje-para-todos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Para Todos",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var t=(e,a,n)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))s.call(a,n)&&t(e,n,a[n]);if(r)for(var n of r(a))u.call(a,n)&&t(e,n,a[n]);return e},c=(e,a)=>l(e,m(a));var d=(e,a)=>{var n={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&u.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Un lenguaje de programaci\\xF3n es tan bueno como las personas que lo usan. No basta con que un lenguaje de programaci\\xF3n sea perfecto, completo y universal; si nadie lo usa, es in\\xFAtil. Es por eso que el dise\\xF1o de cualquier nuevo lenguaje de programaci\\xF3n implica mucha investigaci\\xF3n del usuario. Los creadores de Python, un lenguaje de programaci\\xF3n de prop\\xF3sito general de c\\xF3digo abierto lanzado por primera vez en 1991, reconocieron desde el principio que si quer\\xEDan tener \\xE9xito, necesitaban crear un lenguaje que fuera accesible y atractivo para una amplia audiencia. Y as\\xED, a pesar de sus muchas funciones avanzadas, Python sigue siendo transparente y sencillo, con una sintaxis que aborda directamente las necesidades y habilidades de la mayor\\xEDa de los programadores.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre esta brillante sintaxis de programaci\\xF3n y por qu\\xE9 deber\\xEDa tomarse un tiempo para familiarizarse con Python hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

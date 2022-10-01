@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-natural-language-processing.png",
+  "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
   "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoKAAoAAUAmJYgCdAELIWAAAP76CNDs0ZOZrQgKJtvHolfAfuTUxmU7I/5unHJ4j78YIfbWiLl/wYje4+hhKZ/IGM+VXrKXu6T9aXaAAAA=",
-  "createdAt": "2022-10-01T11:39:02.209Z",
-  "updatedAt": "2022-10-01T11:39:02.209Z",
+  "createdAt": "2022-10-01T12:13:32.135Z",
+  "updatedAt": "2022-10-01T12:13:32.135Z",
   "categoryLocal": "coding",
   "slug": "python-the-language-for-natural-language-processing",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var g=Object.defineProperty,d=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var o=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,a,t)=>a in e?g(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,n=(e,a)=>{for(var t in a||(a={}))o.call(a,t)&&l(e,t,a[t]);if(s)for(var t of s(a))r.call(a,t)&&l(e,t,a[t]);return e},c=(e,a)=>d(e,u(a));var h=(e,a)=>{var t={};for(var i in e)o.call(e,i)&&a.indexOf(i)<0&&(t[i]=e[i]);if(e!=null&&s)for(var i of s(e))a.indexOf(i)<0&&r.call(e,i)&&(t[i]=e[i]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var i=t,{components:e}=i,a=h(i,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is Python used for in Natural Language Processing?\"),mdx(\"p\",null,\"Natural language processing can be performed using many different languages. The choice of language will depend on the type of processing being done, the availability of libraries, ease of use, and performance. Python is often used for natural language processing because of its simplicity, readability and ease of use.\"),mdx(\"p\",null,\"Python is used for Natural Language Processing because it is easy to learn, simple to implement, and has wide range of libraries available. Python is a high-level general purpose language and is programming language that can be used for any type of application. It has a wide variety of libraries that can be used for Natural Language Processing. Python is also open source which makes it a cheaper language to use compared to other commercial languages. Python\\u2019s syntax is easy to read and understand which makes it a good language for Natural Language Processing because it is easier to debug and fix errors in code. Python also has an extensive user community and is widely used amongst researchers and developers in the Natural Language Processing field.\"),mdx(\"h2\",null,\"Word Tokenization\"),mdx(\"p\",null,\"Tokenization is the process of breaking down sentences into \\u201Ctokens\\u201D which are the smallest unit of language that has a meaning. A tokenization algorithm may identify punctuation marks as part of the tokens.\"),mdx(\"p\",null,\"There are different ways to tokenize text:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Word-based tokenization - This involves splitting the text at each word boundary.\"),mdx(\"li\",{parentName:\"ul\"},\"Sentence-based tokenization - This involves splitting the text at each new line boundary.\"),mdx(\"li\",{parentName:\"ul\"},\"Hybrid word and sentence based tokenization - This is a combination of word-based tokenization and sentence-based tokenization.\")),mdx(\"p\",null,\"These methods can be combined to provide more accurate results. For example, hybrid word and sentence based tokenization may be used to remove punctuation marks. This is an important step in many NLP tasks.\"),mdx(\"h2\",null,\"Part-of-speech Tagging\"),mdx(\"p\",null,\"Part-of-speech tagging is the process of labeling words in a sentence with a part of speech such as Noun, Verb, Adjective, etc. Part-of-speech tagging is useful for many natural language tasks such as sentiment analysis and co-occurrence analysis.\"),mdx(\"p\",null,\"There are different algorithms for part-of-speech tagging:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Statistical taggers - These are rule-based taggers that use statistical models to determine the probabilities of different tags being applied to a word in a sentence.\"),mdx(\"li\",{parentName:\"ul\"},\"Rule-based taggers - These use rules and dictionaries to determine the part of speech of a word.\")),mdx(\"p\",null,\"Rule-based taggers are more accurate but slower than statistical taggers. Rule-based taggers are also easier to train and maintain than statistical taggers. Statistical taggers can be used as pre-processing step before the rule-based taggers. Pre-processing involves removing punctuation marks, removing stop words, etc.\"),mdx(\"h2\",null,\"Morphological Analysis\"),mdx(\"p\",null,\"Morphological analysis is the process of identifying and classifying the root words within a sentence. This is used for tasks such as extracting keywords from a sentence, or extracting the root word from which a compound word is formed.\"),mdx(\"p\",null,\"There are many algorithms used for morphological analysis:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Finite-state-machine based - Finite-state-machine based algorithms are rule-based algorithms that rely on finite-state machines.\"),mdx(\"li\",{parentName:\"ul\"},\"Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.\"),mdx(\"li\",{parentName:\"ul\"},\"Statistical based - Statistical based algorithms use statistical models to calculate the probability of a word having a certain root.\")),mdx(\"h2\",null,\"Sentence Detection and Classification\"),mdx(\"p\",null,\"Sentence detection is the process of identifying the beginning and end of a sentence in a piece of text. Sentence detection is useful for many NLP tasks such as part-of-speech tagging, named entity recognition, semantic parsing, and sentiment analysis.\"),mdx(\"p\",null,\"There are different algorithms for sentence detection:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Finite-state-machine based - Finite-state-machine based algorithms are rule-based algorithms that rely on finite-state machines.\"),mdx(\"li\",{parentName:\"ul\"},\"Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.\"),mdx(\"li\",{parentName:\"ul\"},\"Statistical based - Statistical based algorithms use statistical models to calculate the probability of a word being at the start or end of a sentence.\")),mdx(\"p\",null,\"Sentence classification is the process of classifying the sentiment of a sentence. Sentence classification is used for sentiment analysis where the sentiment of the text is important. There are many algorithms used for sentence classification:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Rule-based - Rule-based algorithms use rules and dictionaries to determine the sentiment of a sentence.\")),mdx(\"h2\",null,\"Semantic Parsing\"),mdx(\"p\",null,\"Semantic parsing is the process of determining what the sentence is about. This is useful for finding the topic of a sentence.\"),mdx(\"p\",null,\"There are different algorithms for semantic parsing:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.\")),mdx(\"h2\",null,\"Summing up\"),mdx(\"p\",null,\"Choosing the correct language for Natural Language Processing is important because it can have a large impact on performance. Python is often chosen because of its simplicity, readability, and ease of use. It has many libraries available for Natural Language Processing. Python is open source and therefore cheaper to use than commercial languages such as Java and C++. The syntax is easy to read and understand which makes it easier to debug and fix errors in the code. The user community is also large which means you can find help when needed.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJaACdAEWX/4xXc5YAP70xBq+ITvtobok4z/4cq1Rbqf3LIQ8T9JRaar5d73uGefzbP1Xz6d9ZX7OPA27cQ/+mu36839McVf+/T6npYRbf9pBz1pT+/+qcFCGWjmEeqavOeGD1KBihwNdcSfOLnf298dz6FghNa7UAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-tools",
+      "locale": "en",
+      "title": "The Top Software Engineering Tools",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))r.call(t,n)&&l(e,n,t[n]);if(a)for(var n of a(t))s.call(t,n)&&l(e,n,t[n]);return e},c=(e,t)=>d(e,g(t));var f=(e,t)=>{var n={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=f(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIRG63xAAAP7tKGb5R9tiqaI5JTqpkmqS5kZuY3N+X5Ppz15d0jFUfDXHxYOdFRnX/7oAe/cuwMAqWi39ahjf0cbr4kL/xIX/xheD2G0cW8wgAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-administration",
+      "locale": "en",
+      "title": "Go Language for Web Administration",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&c(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&c(e,n,o[n]);return e},p=(e,o)=>u(e,m(o));var d=(e,o)=>{var n={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=d(t,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAD5ieWIavXAAP7+ZUr9Db/RGe3yR0UXTt67e29qfRbAY4qVh3s03Bfwfkd53v0KXNjVrbGtIFBw+5cd3S39mcYPsOtjSbk0JXxrl6wN9ixqAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,o=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&c(e,a,t[a]);if(i)for(var a of i(t))r.call(t,a)&&c(e,a,t[a]);return e},l=(e,t)=>p(e,d(t));var m=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=m(n,[\"components\"]);return mdx(MDXLayout,l(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJZACdAEUU9Zw/kGAAP78dOraa9k3sK2zaMBxJEa/fOJ+tlYjz8KH+PHPK/TpbP8c8zKZlAxoCrV+3W+4HyGRHsvrRtuvweypgFealH3DdIAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-administration",
+      "locale": "en",
+      "title": "Go Language for System Administration",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))n.call(o,t)&&l(e,t,o[t]);if(r)for(var t of r(o))i.call(o,t)&&l(e,t,o[t]);return e},h=(e,o)=>p(e,g(o));var m=(e,o)=>{var t={};for(var s in e)n.call(e,s)&&o.indexOf(s)<0&&(t[s]=e[s]);if(e!=null&&r)for(var s of r(e))o.indexOf(s)<0&&i.call(e,s)&&(t[s]=e[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:e}=s,o=m(s,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAELX9QvWjUQAP79KUwXfp/ymKskxIKjXp99l43/hwL3vSa6HV9bpoc8Lx+PYX/MGO2uIJu2uZYg+Q/h1ofZm7pXMb8NH3R8qh3B392/3cAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,f=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,r)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[o]=r,a=(e,o)=>{for(var r in o||(o={}))n.call(o,r)&&c(e,r,o[r]);if(t)for(var r of t(o))i.call(o,r)&&c(e,r,o[r]);return e},d=(e,o)=>f(e,u(o));var l=(e,o)=>{var r={};for(var s in e)n.call(e,s)&&o.indexOf(s)<0&&(r[s]=e[s]);if(e!=null&&t)for(var s of t(e))o.indexOf(s)<0&&i.call(e,s)&&(r[s]=e[s]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var s=r,{components:e}=s,o=l(s,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJagCdAEPDvUn4xeAAP5BP7PPJWQa04IvAYq977NyflFNvdcbvfXBR8+H/06B7xqQUFpnSaZyvmEz/G1b0XR8OESztZig97VbOV9zpAC119/wS/ic4q8+W3nscBP//OA/hqAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var g=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&g(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&g(e,n,o[n]);return e},u=(e,o)=>l(e,h(o));var c=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJagCdAEOfFErKJEAAP7PeB6jOtzeiw+szmh579E4BUGj5y374mlS4INdTkkwGslp/2eaAURmVjntI1dflxtr2sN2c5f+c3f7453N2rsv+jOnyzR5//KdMwSlS/0jCaMh/CIN2FHBNM5AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-future",
+      "locale": "en",
+      "title": "Python - The Language of the Future",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(o,n,e)=>n in o?l(o,n,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[n]=e,r=(o,n)=>{for(var e in n||(n={}))s.call(n,e)&&g(o,e,n[e]);if(t)for(var e of t(n))i.call(n,e)&&g(o,e,n[e]);return o},p=(o,n)=>h(o,m(n));var u=(o,n)=>{var e={};for(var a in o)s.call(o,a)&&n.indexOf(a)<0&&(e[a]=o[a]);if(o!=null&&t)for(var a of t(o))n.indexOf(a)<0&&i.call(o,a)&&(e[a]=o[a]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var a=e,{components:o}=a,n=u(a,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),n),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAQCdASoKAAoAAUAmJYwCdH8AE1t6mgD++pz34MG2fMD2fR8JxXl9Rv3x4T3zFx2eJhY/XUcwoj6/Xbyn4v8Hl5aOO2aysi+Bo3ZLd2PDg1jqjZXz6U1iBzPvYKOsIaCGgD0qZ3G9wx3B1HqBQo0xmsR/NfgAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,s=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>d(e,g(t));var l=(e,t)=>{var n={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&r.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAAUAmJQBOgCHhuYTkgAD++8z7GSHsl8sTmh/RXv3yh96W4kOm0c/wb4jdmVfjgSoBfO1bH4IohjAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&c(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&c(e,t,o[t]);return e},m=(e,o)=>y(e,h(o));var l=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=l(r,[\"components\"]);return mdx(MDXLayout,m(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJaACdAYqXbWyF1cDQSAA/vlflf61/f7PMlrGZnJaP5MyPkD2eFFG3/8kPp//FokL2wfegSp/lNPP4pl2Vpn6+Jj79sBwdvfEA/GM3jkYdNGZtZVcyTm0mf/5UOQECZzRrrFIr9Xfnb56LumAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-the-masses",
+      "locale": "en",
+      "title": "Python - A Language for the Masses",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,g=Object.prototype.propertyIsEnumerable;var i=(e,a,o)=>a in e?h(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&i(e,o,a[o]);if(n)for(var o of n(a))g.call(a,o)&&i(e,o,a[o]);return e},u=(e,a)=>p(e,d(a));var m=(e,a)=>{var o={};for(var t in e)s.call(e,t)&&a.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&n)for(var t of n(e))a.indexOf(t)<0&&g.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,a=m(t,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

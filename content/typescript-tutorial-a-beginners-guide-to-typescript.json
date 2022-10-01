@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+  "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
   "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAwjmHRBD/6AA/tKByLt1hp4D28reVQVtH6xhve39uC+oAkXtV63q3x+FgJHMjVWjoukwqtkZiSAHM9yoqZqxqMbnLkMljO//Q8nPvf7fWLsi9zv7Pmv/TG+mr8nfybxl7+aMWx5KpF9aY/9nJJt+i189/ljAAAA=",
-  "createdAt": "2022-10-01T11:39:16.781Z",
-  "updatedAt": "2022-10-01T11:39:16.781Z",
+  "createdAt": "2022-10-01T12:13:51.163Z",
+  "updatedAt": "2022-10-01T12:13:51.163Z",
   "categoryLocal": "coding",
   "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var p=(e,t,a)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))n.call(t,a)&&p(e,a,t[a]);if(i)for(var a of i(t))r.call(t,a)&&p(e,a,t[a]);return e},c=(e,t)=>l(e,y(t));var u=(e,t)=>{var a={};for(var o in e)n.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&i)for(var o of i(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What Is TypeScript?\"),mdx(\"p\",null,\"TypeScript is a programming language that compiles to JavaScript. JavaScript is the most popular language used in the development process of web applications and websites. You will often find it in front-end web development, mobile app development, and IoT development as well. So, TypeScript is a superset of JavaScript that adds static typing to the language. In other words, it is a programming language that can be compiled into JavaScript. TypeScript can be used to develop any kind of application, but it is most commonly used for web development.\"),mdx(\"p\",null,\"A lot of modern programming languages like C#, Java, and Go have static typing. This means that the type of data is determined before the program is executed. This is not the case with JavaScript. This language expects the user to specify the data types at runtime, which can make the code less accurate and more prone to bugs. TypeScript solves this issue by adding static typing to the JavaScript language.\"),mdx(\"h2\",null,\"How Does TypeScript Work?\"),mdx(\"p\",null,\"Let\\u2019s go over how TypeScript works. First, you will write code in a TypeScript file. Then, you will use a TypeScript compiler to generate JavaScript code. You can then run the generated JavaScript code in any browser or environment. When the TypeScript compiler compiles your code, it uses an online service such as an integrated development environment (IDE) or a cloud-based service. This is a great way to start using TypeScript since you don\\u2019t have to download and install any software.\"),mdx(\"p\",null,\"The TypeScript compiler analyses your code, then it compiles it into a regular JavaScript code. However, when you run the code, it will use a JavaScript engine to execute it. This means that static typing works only when the code is being compiled. In other words, the type annotations will not be available when the code executes.\"),mdx(\"h2\",null,\"Why Should You Use TypeScript?\"),mdx(\"p\",null,\"There are several reasons why you should use TypeScript. First, it lets you choose between dynamic and static typing. Using static typing, you can write more accurate code because the compiler will check it and indicate errors as soon as you make a mistake. On the other hand, if you use dynamic typing, you can write more intuitive code that is easier to understand.\"),mdx(\"p\",null,\"Second, static typing can help you avoid bugs and improve your development process. Debugging is often much easier when the code is compiled with static typing since the compiler will automatically check for typos and errors.\"),mdx(\"p\",null,\"Finally, static typing makes it much easier to scale up your projects and create code libraries that other developers can use as well.\"),mdx(\"h2\",null,\"The Advantages of Using TypeScript\"),mdx(\"p\",null,\"The advantages of using TypeScript are numerous. First, it is a simple way to start using static typing. If you usually write code without any type annotations, you will find that adding types to your projects is straightforward. This is because TypeScript lets you use a simple syntax to add types to your code.\"),mdx(\"p\",null,\"Second, it is an open-source language that is also free to use. By using an open-source language, you can make sure that the code is secure and safe to use. You also have access to the source code and can modify it to suit your needs if necessary.\"),mdx(\"p\",null,\"Third, TypeScript is supported by all major IDEs, including Visual Studio Code, Sublime Text, and Vim. This makes it easy to integrate TypeScript into your development process and use it for your future projects.\"),mdx(\"h2\",null,\"Wrapping Up\"),mdx(\"p\",null,\"Now that you know what TypeScript is and how it works, you can decide if it\\u2019s a good choice for your next project. TypeScript is a great language for beginners and experienced developers alike. It lets you write more accurate code that is easier to debug and scale up. It also allows you to choose between static and dynamic typing so that you can create an intuitive code that is easier to understand.\"),mdx(\"p\",null,\"If you have been looking for a new language to try out, or you want to upgrade your skills and move up to the next level, TypeScript is the best choice. It is a modern and powerful language that can be combined with lots of different tools, libraries, and frameworks. It is also easy to integrate with other languages and it is supported by all major IDEs.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAoAAUAmJbACdAEO/9KnlAAA/vhkCxK+CGjI+EGECLR4FQdRkNZOdSzf/Vt/Q/8d+iG+wa//q2/of+DkxUf/+BO/8CdjCaSOwAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&u(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&u(e,o,t[o]);return e},l=(e,t)=>d(e,h(t));var g=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=g(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJbACdAELS4dqAADeZH0wur2UjlNc3z4T0+++6ABSFOVT3H//0CvYUyPn53fc8GPt9F10p0bfSMf9cu3/6/2o6a07ROJ/8tX0k2p+NgAv+JyV5VTiYAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-hibernate-application",
+      "locale": "en",
+      "title": "Building a Hibernate Application",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&l(e,a,t[a]);return e},u=(e,t)=>d(e,b(t));var h=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=h(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoKAAoAAUAmJbACdLoAE4A1zgyh+CnCspATAAD+6l+PK42LPTV/hruMd631/z5V99FeqZ/tgMfP7B+yGuBv4PTLEGcY1ke/8Ddvzf+m/v4TCX2+luIFX7z8hB/LMDH9du4SM4yWlnLEWJW9I3catY8qwRhn0wk8SH/7X/o1Kvx/+P70JTf5HrqOD6S2JnNz4sNCGAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-game-development",
+      "locale": "en",
+      "title": "Python - The Language for Game Development",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,o,a)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&p(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&p(e,a,o[a]);return e},l=(e,o)=>g(e,u(o));var m=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-degree.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJbACdLoAEJWZcpR9weAA/upd0P+2SZX9NifSF/GEf6DDczEp83TOhSeLVK5y53SM0SbdIq8Dc2F9EAHM/UwXWRVttvw7wodZorvGwD3TKMd0f/miisP1/7ffv8J3+r/8v7T/7jy+7O/7s6XP9Tf+K9+SMKU5u4pTzhZDxWNuAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-a-software-engineering-degree",
+      "locale": "en",
+      "title": "The Benefits of a Software Engineering Degree",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(o,e,t)=>e in o?d(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,s=(o,e)=>{for(var t in e||(e={}))a.call(e,t)&&p(o,t,e[t]);if(r)for(var t of r(e))i.call(e,t)&&p(o,t,e[t]);return o},u=(o,e)=>g(o,f(e));var c=(o,e)=>{var t={};for(var n in o)a.call(o,n)&&e.indexOf(n)<0&&(t[n]=o[n]);if(o!=null&&r)for(var n of r(o))e.indexOf(n)<0&&i.call(o,n)&&(t[n]=o[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:o}=n,e=c(n,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAgCdASoKAAoAAUAmJbACdAELZMJ/u4SAAP7KKA859Fbjj3o2avxrnVVAZWqeaspy+H6eyOPr18/DU7zUvlBAiH/Ap6UHe/gFRl9pypTB0QZC0pJEAdL3el1fyP9YD5xGD/7exPxOrk+kKo//7fD6P/wQ//9Uz8E5W/bLO/7/9TtGP9/q3LW//dca/6cP+v8ZC2bAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&u(e,o,t[o]);if(a)for(var o of a(t))r.call(t,o)&&u(e,o,t[o]);return e},c=(e,t)=>d(e,f(t));var p=(e,t)=>{var o={};for(var s in e)n.call(e,s)&&t.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&a)for(var s of a(e))t.indexOf(s)<0&&r.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,t=p(s,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAoAAUAmJbACdLoB+AADID51BZAA/urz+I+RyI76lZ1Ls2D5W/e9ZqLzFj1DLTpFWOtn5eJ/gtR4KFJ/7q3t3/N95N7fDj/ucbr5HH/yOP/5miY8JeYAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,n=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(i)for(var t of i(o))a.call(o,t)&&l(e,t,o[t]);return e},p=(e,o)=>d(e,h(o));var u=(e,o)=>{var t={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(t[s]=e[s]);if(e!=null&&i)for(var s of i(e))o.indexOf(s)<0&&a.call(e,s)&&(t[s]=e[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdLoAEI4X+E+6+AAA/thJS7l6Lth6wxhcbbts7LrmipaZzvE+exvmkycrB+PXIUXnUEdhyp6P5/IohH9hwF7GdMItGgi/jQrNP6oCxn/7wMKX3t+QkP++Erjdf9rRifXv/yn7/4kONDG3gQp6fj7S16AA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,w=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(o,n,t)=>n in o?u(o,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[n]=t,i=(o,n)=>{for(var t in n||(n={}))r.call(n,t)&&h(o,t,n[t]);if(a)for(var t of a(n))s.call(n,t)&&h(o,t,n[t]);return o},p=(o,n)=>w(o,l(n));var g=(o,n)=>{var t={};for(var e in o)r.call(o,e)&&n.indexOf(e)<0&&(t[e]=o[e]);if(o!=null&&a)for(var e of a(o))n.indexOf(e)<0&&s.call(o,e)&&(t[e]=o[e]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var e=t,{components:o}=e,n=g(e,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),n),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdAaYu80VXnhlSSQAAP4FoPQ6TwvOHtf+f/UrlIfM8+Y/+NNuQf4ZN2l7+pT9bYn3Q8oH5M/VS35z9C9mfVL/c60j9U+Nxd0kEEa+j9r6rfXc6NRIE0q9nFdxd+2Eyc8rQQegfdMkoHu5RpZ+e6gyxp0X1MuGLI/Z0ln8m+/AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,i=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(s)for(var t of s(o))r.call(o,t)&&l(e,t,o[t]);return e},d=(e,o)=>p(e,u(o));var h=(e,o)=>{var t={};for(var n in e)a.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=h(n,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJaACdAEWX/4xXc5YAP70xBq+ITvtobok4z/4cq1Rbqf3LIQ8T9JRaar5d73uGefzbP1Xz6d9ZX7OPA27cQ/+mu36839McVf+/T6npYRbf9pBz1pT+/+qcFCGWjmEeqavOeGD1KBihwNdcSfOLnf298dz6FghNa7UAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-tools",
+      "locale": "en",
+      "title": "The Top Software Engineering Tools",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))r.call(t,n)&&l(e,n,t[n]);if(a)for(var n of a(t))s.call(t,n)&&l(e,n,t[n]);return e},c=(e,t)=>d(e,g(t));var f=(e,t)=>{var n={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=f(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoKAAoAAUAmJbACdDBACItL/eYNWCcAAP7+GHfProcfxmoVzKjQqWU4//J3yJ4Lv4X+HPwilLz4o2qa9ntInhSn2Jy7jO8Ose9f+mQDj+tYmGjxP6hTp/cffjXLEyL/g7vx/+hcGVBTPZ/Rs66s3fP3Fv9TfQ4AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))a.call(o,n)&&d(e,n,o[n]);if(r)for(var n of r(o))s.call(o,n)&&d(e,n,o[n]);return e},u=(e,o)=>h(e,f(o));var c=(e,o)=>{var n={};for(var t in e)a.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

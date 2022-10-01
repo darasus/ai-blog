@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/python-the-language-for-database-programming.png",
+  "imageSrc": "/articles/python-the-language-for-database-programming.png",
   "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBKAYsWPZI1iwAA/k6Ox+AQSl1oD50/7j5fSkRLDEU3x9/8/+Gwb6u8lg9V5/4KX7TFE8wCub09ZRc/ghuWhCCNqDvjSLVIeRcsAvFjAeeAe1/+VUsvBzoD//gurX/WhjQ1PkEpW1+N17dVr6lrAAAA",
-  "createdAt": "2022-10-01T11:39:00.108Z",
-  "updatedAt": "2022-10-01T11:39:00.108Z",
+  "createdAt": "2022-10-01T12:13:29.362Z",
+  "updatedAt": "2022-10-01T12:13:29.362Z",
   "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -17,5 +17,156 @@
     "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,a,s)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,i=(e,a)=>{for(var s in a||(a={}))n.call(a,s)&&t(e,s,a[s]);if(r)for(var s of r(a))d.call(a,s)&&t(e,s,a[s]);return e},c=(e,a)=>p(e,m(a));var l=(e,a)=>{var s={};for(var o in e)n.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&d.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=l(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"\\xBFQu\\xE9 es Python?\"),mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n de prop\\xF3sito general con una sintaxis simple y una potente biblioteca est\\xE1ndar. Es una excelente opci\\xF3n para los programadores principiantes debido a su relativa facilidad de uso en comparaci\\xF3n con otros lenguajes como Java, C/C++ o C#. Con esta simplicidad viene el poder, y Python se puede usar para casi cualquier tarea de programaci\\xF3n, desde desarrollo web hasta ciencia de datos.\"),mdx(\"p\",null,'El lenguaje fue desarrollado a fines de la d\\xE9cada de 1980 por un grupo de investigadores del Instituto Tecnol\\xF3gico de Massachusetts (MIT). Fue concebido como un \"mejor C\", un lenguaje que podr\\xEDa ser utilizado por personas que no son programadores, al tiempo que conserva el rendimiento y la potencia de los lenguajes de nivel inferior.'),mdx(\"p\",null,'La sintaxis de Python es m\\xEDnima, con muy poca puntuaci\\xF3n. Por ejemplo, los \"{}\" y \"()\" que normalmente rodean el c\\xF3digo en otros idiomas se reemplazan por \":\" en Python.'),mdx(\"p\",null,\"Debido a su sintaxis f\\xE1cil de usar, Python se ha convertido en un lenguaje popular para principiantes. Es uno de los lenguajes de programaci\\xF3n introductorios m\\xE1s populares, junto con Java y C++, y se ense\\xF1a com\\xFAnmente en escuelas y universidades.\"),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 usar Python para la programaci\\xF3n de bases de datos?\"),mdx(\"p\",null,\"Como sugiere el t\\xEDtulo, una de las principales razones por las que deber\\xEDa usar Python para la programaci\\xF3n de bases de datos es que es muy f\\xE1cil de hacer. La sintaxis es simple, por lo que es f\\xE1cil de entender lo que est\\xE1 escribiendo y es f\\xE1cil de leer lo que han escrito otras personas. Esto significa que es un c\\xF3digo r\\xE1pido de escribir y f\\xE1cil de mantener.\"),mdx(\"p\",null,\"Otra raz\\xF3n para elegir Python para la programaci\\xF3n de bases de datos es su flexibilidad. Las bibliotecas est\\xE1ndar son enormes, lo que permite a los programadores hacer todo tipo de cosas con su c\\xF3digo. Hay m\\xF3dulos para analizar y manipular datos, para trabajar con redes, para almacenar datos en varios formatos, para acceder a bases de datos y m\\xE1s.\"),mdx(\"p\",null,\"Python tambi\\xE9n es excelente para los cient\\xEDficos de datos. Muchas organizaciones lo utilizan para el aprendizaje autom\\xE1tico, las estad\\xEDsticas y el an\\xE1lisis de datos.\"),mdx(\"h2\",null,\"Usar Python para acceder a bases de datos\"),mdx(\"p\",null,\"Si ha decidido utilizar Python para la programaci\\xF3n de bases de datos, primero debe decidir qu\\xE9 tipo de base de datos desea utilizar. Hay muchas bases de datos relacionales diferentes en el mercado, cada una con sus propias fortalezas y debilidades.\"),mdx(\"p\",null,\"Python tiene bibliotecas para varias de las bases de datos relacionales m\\xE1s populares, incluidas MySQL, PostgreSQL, Oracle y SQL Server de Microsoft. Con estas bibliotecas, puede escribir c\\xF3digo de Python que se conecte a la base de datos y manipule sus datos.\"),mdx(\"p\",null,\"Si usa Python para acceder a MySQL, PostgreSQL o Microsoft SQL Server, puede escribir c\\xF3digo de Python para escribir datos en la base de datos. Muchas bases de datos tambi\\xE9n le permiten leer datos de la base de datos y escribirlos en otro formato.\"),mdx(\"h2\",null,\"Usar Python para manipular datos en bases de datos\"),mdx(\"p\",null,'Si decide usar Python para la programaci\\xF3n de bases de datos, tambi\\xE9n puede usarlo para manipular datos en bases de datos. Por ejemplo, puede usar las declaraciones \"select\" y \"where\" que forman parte de cualquier base de datos relacional para leer datos de las tablas y luego usar el ciclo \"for\" para iterar a trav\\xE9s de esos datos y manipularlos.'),mdx(\"p\",null,\"Otra forma de manipular datos en bases de datos es escribir c\\xF3digo Python que se ejecute como una funci\\xF3n. Luego puede escribir esta funci\\xF3n para que se ejecute en un horario regular o cuando ocurran ciertos eventos. Esto puede ser muy \\xFAtil en situaciones en las que una base de datos almacena grandes cantidades de datos, pero solo desea obtener un peque\\xF1o subconjunto de esos datos en un momento dado.\"),mdx(\"h2\",null,\"Uso de Python para crear aplicaciones de bases de datos\"),mdx(\"p\",null,\"Si decide usar Python para la programaci\\xF3n de bases de datos, puede usarlo para crear aplicaciones de bases de datos. Una aplicaci\\xF3n de base de datos es un programa completo que administra una o m\\xE1s bases de datos. Son muy \\xFAtiles en situaciones en las que necesita acceder o actualizar datos regularmente, o cuando desea automatizar tareas.\"),mdx(\"p\",null,\"Las aplicaciones de base de datos se crean en Python escribiendo c\\xF3digo que accede a la base de datos y llama a funciones escritas en otros lenguajes de programaci\\xF3n, como C/C++, Java o Rust. Python tiene bibliotecas para varios sistemas de administraci\\xF3n de bases de datos (DBMS), incluidos Oracle y PostgreSQL.\"),mdx(\"p\",null,\"Para crear aplicaciones de base de datos, debe elegir el idioma para las funciones en las que desea escribir. Luego, escribe el c\\xF3digo de Python que llama a estas funciones.\"),mdx(\"h2\",null,\"Resumen\"),mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n que se puede usar para casi cualquier tarea, incluida la programaci\\xF3n de bases de datos. Es poderoso y flexible, y tiene una sintaxis simple que es f\\xE1cil de entender y leer. Python tiene bibliotecas para varios sistemas de bases de datos, incluidos MySQL, PostgreSQL y SQL Server. Se puede utilizar para leer y manipular datos y crear aplicaciones de bases de datos.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJYgCdAYr7ko1Kao3AAD+mx+/gT7upJe0fv9UTY2jDkIe23Ff+0gxcl6Mh/xjBf9V9shv9FcGTyWGsl/C8z4uq1qe4DCw+Q2Ol82/JP1yporRN1l10rxxnMR2eApehVy3h1xb8v3Z8T2/oKRyxHvQq845IWAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-usar-graphql-en-su-proximo-proyecto-una-guia-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar GraphQL En Su Próximo Proyecto: Una Guía Para Principiantes",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var t=(a,e,s)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,i=(a,e)=>{for(var s in e||(e={}))n.call(e,s)&&t(a,s,e[s]);if(r)for(var s of r(e))u.call(e,s)&&t(a,s,e[s]);return a},d=(a,e)=>c(a,m(e));var l=(a,e)=>{var s={};for(var o in a)n.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&r)for(var o of r(a))e.indexOf(o)<0&&u.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=l(o,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFQu\\xE9 pasar\\xEDa si sus datos no tuvieran paredes? \\xBFY si pudiera responder exactamente a lo que necesita y nada m\\xE1s? \\xBFQu\\xE9 pasar\\xEDa si pudiera darte directamente lo que deseas en lugar de obligarte a pedirlo de formas complicadas y indirectas? Lo que es m\\xE1s importante, \\xBFqu\\xE9 pasar\\xEDa si sus usuarios pudieran ver todo sobre su sitio a la vez y encontrar lo que necesitan f\\xE1cilmente?\nEsta es la promesa de GraphQL. Es una alternativa a las API REST que abre conjuntos de datos completos en lugar de solo puntos finales individuales. Eso significa que en lugar de solicitar datos sobre los usuarios, su perfil o su cuenta por separado, como si cada parte estuviera en su propia habitaci\\xF3n cerrada, puede solicitar Usuarios> y recuperar a todos los usuarios en el sitio a la vez sin pasos adicionales. o barricadas. Usuarios > . . . y Perfil> . . . y Cuenta> \\u2013 todo desbloqueado a la vez. Y si bien eso suena como mucho m\\xE1s trabajo, en realidad significa menos trabajo en general porque el conjunto de datos es mucho m\\xE1s peque\\xF1o y simple que con las API tradicionales.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAgCdASoKAAoAAUAmJYwCdAYtJ1u/EAyw0ipm83LAAP78/uVwAhDdmH3tbHLb2aKLzKoYmp4U6GltR5CxHAFz9gbyAhyp5qLnl2sHPZETkq0gdH/UV+Od34hHu3uNl1xK5y+Z5kYaXE3yzFcE2wFYNiy0OsAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "aprenda-javascript-de-la-manera-correcta-10-pasos-para-dominar-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript De La Manera Correcta: 10 Pasos Para Dominar JavaScript",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,i=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&t(e,o,a[o]);if(n)for(var o of n(a))d.call(a,o)&&t(e,o,a[o]);return e},u=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var s in e)r.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&d.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=c(s,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFSab\\xEDas que Javascript es el lenguaje de programaci\\xF3n m\\xE1s popular del mundo? \\xBFSab\\xEDa tambi\\xE9n que es uno de los lenguajes de programaci\\xF3n m\\xE1s f\\xE1ciles de aprender? Eso significa que cada vez m\\xE1s personas adquieren esta habilidad a la velocidad del rayo. Tiene sentido, teniendo en cuenta la demanda de habilidades de codificaci\\xF3n en este momento. Y con tantos recursos introductorios disponibles, \\xBFpor qu\\xE9 no adquirir esta habilidad m\\xE1s temprano que tarde? Despu\\xE9s de todo, no hay mejor momento que el presente para llevar tu carrera a nuevas alturas.\nCon eso en mente, estamos aqu\\xED para ayudarlo a dominar este c\\xF3digo \\xFAtil. Entendemos que todos provienen de diferentes or\\xEDgenes, por lo que hemos dividido esta gu\\xEDa en secciones f\\xE1ciles de digerir. Si est\\xE1 listo para llevar sus habilidades de codificaci\\xF3n al siguiente nivel, siga leyendo para conocer nuestros consejos y trucos sobre c\\xF3mo puede aprender Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJYwCdAaVbm8ZNEyKtqmGAAD+9nvTSlKnXftAHn/sbPPMt7Qucj3PrxroGKlRG2pLv/n3OZvw1f0y+le8M4H7oDrIc5VsPvtRtij6Bf4VSZe09nWqQMAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-mejorar-tus-habilidades-de-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Mejorar Tus Habilidades De Codificación",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))d.call(a,o)&&c(e,o,a[o]);if(i)for(var o of i(a))r.call(a,o)&&c(e,o,a[o]);return e},t=(e,a)=>m(e,p(a));var u=(e,a)=>{var o={};for(var n in e)d.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&i)for(var n of i(e))a.indexOf(n)<0&&r.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=u(n,[\"components\"]);return mdx(MDXLayout,t(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Ya sea que reci\\xE9n haya comenzado en el campo de la codificaci\\xF3n o simplemente est\\xE9 buscando mejorar sus habilidades, puede ser un campo desafiante y de r\\xE1pido crecimiento. Las nuevas innovaciones en tecnolog\\xEDa surgen todo el tiempo, por lo que uno debe estar al tanto de su juego para mantenerse al d\\xEDa. Dicho esto, hay muchas maneras diferentes de mejorar tus habilidades de codificaci\\xF3n.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una habilidad cada vez m\\xE1s importante en todas las industrias. Desde desarrolladores e ingenieros de software hasta dise\\xF1adores de sitios web y programadores de videojuegos, cada vez m\\xE1s funciones requieren conocimientos de lenguajes de programaci\\xF3n. Incluso si no planea trabajar con el c\\xF3digo directamente en el d\\xEDa a d\\xEDa, tener conocimientos de c\\xF3digo puede abrirle oportunidades en casi cualquier industria. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo puede mejorar sus habilidades de codificaci\\xF3n y llevar sus habilidades tecnol\\xF3gicas al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJYwCdAYuRuJ3reVZiwAA/vZscuuxoMuZAEvi43WHxq5BG9+5+qHo3TNbGw3f/ln+3i5HoXEPL4cTmfWLzpycsLHWHBvtg4ghW2LZrNHjfGCY4rhkVMZN9LjqWOFfFId6/sWC78AAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "python-una-herramienta-para-el-analisis-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Una Herramienta Para El Análisis De Datos",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var l=(a,e,s)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,r=(a,e)=>{for(var s in e||(e={}))i.call(e,s)&&l(a,s,e[s]);if(n)for(var s of n(e))d.call(e,s)&&l(a,s,e[s]);return a},t=(a,e)=>c(a,m(e));var p=(a,e)=>{var s={};for(var o in a)i.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&d.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=p(o,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El an\\xE1lisis de datos es un elemento crucial de muchos campos en la actualidad. Dado que los datos se recopilan de todas las fuentes, las empresas deben usar los datos de manera efectiva para impulsar su empresa. Las organizaciones est\\xE1n recurriendo al software de an\\xE1lisis de datos para procesar y comprender la informaci\\xF3n que han almacenado.\nEl an\\xE1lisis de datos es un proceso complejo que implica limpiar, explorar, visualizar y comprender datos desde diferentes \\xE1ngulos. Python es una de las herramientas m\\xE1s poderosas para el an\\xE1lisis de datos debido a su versatilidad y amplias bibliotecas para la manipulaci\\xF3n de datos. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 tantas empresas eligen Python para el an\\xE1lisis de datos, qu\\xE9 puede hacer por usted y c\\xF3mo puede implementarlo en su propio negocio.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJQBOgMV9tdFD8BPAAP6JLor2QdL+6BiGnP/0FK2pOacvEFmKOaWU/GDo10+H6kICtWgO7H6M2KRmDWNfjtdyY4sjl805U5h9EXncWKV2f7OKIAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "idioma-go-para-devops",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Idioma Go Para Devops",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var i=(e,o,s)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))u.call(o,s)&&i(e,s,o[s]);if(a)for(var s of a(o))d.call(o,s)&&i(e,s,o[s]);return e},l=(e,o)=>p(e,m(o));var t=(e,o)=>{var s={};for(var n in e)u.call(e,n)&&o.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&a)for(var n of a(e))o.indexOf(n)<0&&d.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,o=t(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando pensamos en DevOps, pensamos en formas de hacer que las operaciones sean m\\xE1s s\\xF3lidas, eficientes y r\\xE1pidas. En t\\xE9rminos simples, queremos reducir el tiempo entre la escritura de un c\\xF3digo y su preparaci\\xF3n para la producci\\xF3n.\nA menudo vemos desarrolladores que escriben c\\xF3digos desordenados que son dif\\xEDciles de leer o comprender. Lo mismo ocurre con los ingenieros de operaciones a quienes les resulta dif\\xEDcil depurar diferentes errores en producci\\xF3n. Aqu\\xED es donde entra en juego el lenguaje Go.\nDesde su lanzamiento en 2009, Go ha ganado una inmensa popularidad entre los desarrolladores de software de todo el mundo, quienes incluso lo han denominado \"lo nuevo\". Fue desarrollado por Google como una alternativa a otros lenguajes que eran lentos y usaban mucha memoria en ese momento.\nSi es un desarrollador que desea implementar DevOps con la ayuda de Go, \\xA1este art\\xEDculo es para usted! Aqu\\xED encontrar\\xE1s todo lo que necesitas saber sobre Go y su uso en DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdAaYu80VXnhlSSQAAP4FoPQ6TwvOHtf+f/UrlIfM8+Y/+NNuQf4ZN2l7+pT9bYn3Q8oH5M/VS35z9C9mfVL/c60j9U+Nxd0kEEa+j9r6rfXc6NRIE0q9nFdxd+2Eyc8rQQegfdMkoHu5RpZ+e6gyxp0X1MuGLI/Z0ln8m+/AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-mejores-ide-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Ide De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var i=(e,o,a)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))t.call(o,a)&&i(e,a,o[a]);if(r)for(var a of r(o))d.call(o,a)&&i(e,a,o[a]);return e},u=(e,o)=>l(e,m(o));var p=(e,o)=>{var a={};for(var s in e)t.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&r)for(var s of r(e))o.indexOf(s)<0&&d.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=p(s,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"El desarrollo de software es un campo desafiante. Incluso los desarrolladores experimentados tienen que seguir aprendiendo constantemente cosas nuevas, porque cada d\\xEDa se inventan nuevas soluciones de software. Pero no siempre es f\\xE1cil ya que todo tiene sus propias complejidades y desaf\\xEDos. Todos los desarrolladores tienen sus propios problemas, especialmente cuando se trata de encontrar el mejor IDE para la codificaci\\xF3n. Es importante encontrar un entorno que sea c\\xF3modo y productivo, para que pueda realizar su trabajo m\\xE1s r\\xE1pido y con la mayor calidad posible. Un buen IDE proporciona accesos directos y otras herramientas para aumentar la productividad y, al mismo tiempo, hacer que todo el proceso sea m\\xE1s agradable. Hoy discutiremos algunos de los mejores IDE para la codificaci\\xF3n que puede usar si es un desarrollador o planea convertirse en uno en el futuro.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB8gADDBsHLZDUAADOMtjF6n03V+WyKX/UN6tNeRNRUdLUkKf0nT/okgtJ7BaMOZFkMEae1h0hRpvm8wAUospXYzv7f/7GP/1+Ls/8YD7tz/vHWdl3+oO+At/2b+87+OEAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(a,e,i)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:i}):a[e]=i,r=(a,e)=>{for(var i in e||(e={}))s.call(e,i)&&d(a,i,e[i]);if(o)for(var i of o(e))c.call(e,i)&&d(a,i,e[i]);return a},t=(a,e)=>p(a,b(e));var l=(a,e)=>{var i={};for(var n in a)s.call(a,n)&&e.indexOf(n)<0&&(i[n]=a[n]);if(a!=null&&o)for(var n of o(a))e.indexOf(n)<0&&c.call(a,n)&&(i[n]=a[n]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var n=i,{components:a}=n,e=l(n,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIRG63xAAAP7tKGb5R9tiqaI5JTqpkmqS5kZuY3N+X5Ppz15d0jFUfDXHxYOdFRnX/7oAe/cuwMAqWi39ahjf0cbr4kL/xIX/xheD2G0cW8wgAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-idioma-para-administracion-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración Web",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))c.call(a,o)&&d(e,o,a[o]);return e},t=(e,a)=>u(e,m(a));var l=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&c.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=l(r,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJQBOgCHgsX8s91AAAP75WLnzB4u1AjPBDze/1FChU9tganN9P48aTRCJAiQX+xiduAkbbAecOoRBsqXlVv5H7gPBuskQFQAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var t=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,d=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&t(e,a,o[a]);if(r)for(var a of r(o))s.call(o,a)&&t(e,a,o[a]);return e},c=(e,o)=>u(e,l(o));var m=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&r)for(var n of r(e))o.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,c(d(d({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJZgCdAEO1m1ggAD+/eU/J3hnq078wsxXSVmhWM0ctvAe9H89L2IT0SFmk5N/PbEawUJ8//EiN9yE8mfA+vkTf6OnMr4ujbd/bdmfwb+7DBkUYspvq0bQAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-concurrente",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Concurrente",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var u=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,c=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&u(e,o,a[o]);if(r)for(var o of r(a))t.call(a,o)&&u(e,o,a[o]);return e},i=(e,a)=>m(e,l(a));var p=(e,a)=>{var o={};for(var n in e)s.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&r)for(var n of r(e))a.indexOf(n)<0&&t.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,i(c(c({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si est\\xE1 leyendo este art\\xEDculo, supongo que tiene algo de experiencia en programaci\\xF3n y est\\xE1 interesado en ampliar su conocimiento del lenguaje de programaci\\xF3n Go. Es posible que ya conozca otros lenguajes o tenga experiencia con la concurrencia, por lo que probablemente se est\\xE9 preguntando c\\xF3mo ayuda el lenguaje de programaci\\xF3n Go con la programaci\\xF3n concurrente.\nSi reci\\xE9n est\\xE1 comenzando con Go, puede sentirse como una curva de aprendizaje empinada si nunca antes ha usado sus funciones. Sin embargo, tan pronto como aprende sobre los canales y ve lo f\\xE1cil que es implementarlos, las cosas comienzan a tener mucho m\\xE1s sentido. La programaci\\xF3n concurrente es un tema extremadamente complejo que requiere una planificaci\\xF3n cuidadosa para evitar condiciones de carrera y puntos muertos. Afortunadamente, Go ofrece un conjunto de paquetes de biblioteca est\\xE1ndar para tareas simult\\xE1neas, de modo que los desarrolladores puedan concentrarse en escribir c\\xF3digo en lugar de reinventar la rueda cada vez que crean un nuevo proyecto. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 necesitamos programas concurrentes y qu\\xE9 tiene que ofrecer Go a este respecto.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

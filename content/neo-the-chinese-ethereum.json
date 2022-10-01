@@ -1,9 +1,9 @@
 {
   "category": "crypto",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/neo-the-chinese-ethereum.png",
+  "imageSrc": "/articles/neo-the-chinese-ethereum.png",
   "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJZACdAEWPbMH5/1JTAAA/u0v4nlM/voFZx3jIq91J6p6CBL80n3WWc1VD9h8R1puMZ3SN+zOdfLlH2EBzIc08jRBRVV+NF42Mx6+nA9rLrEP9FRL+OWE9Wu7DAAA",
-  "createdAt": "2022-10-01T11:39:33.482Z",
-  "updatedAt": "2022-10-01T11:39:33.482Z",
+  "createdAt": "2022-10-01T12:14:13.116Z",
+  "updatedAt": "2022-10-01T12:14:13.116Z",
   "categoryLocal": "crypto",
   "slug": "neo-the-chinese-ethereum",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,n=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&h(e,a,t[a]);if(s)for(var a of s(t))i.call(t,a)&&h(e,a,t[a]);return e},l=(e,t)=>p(e,m(t));var c=(e,t)=>{var a={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&i.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is NEO?\"),mdx(\"p\",null,\"NEO is a smart contract platform that allows developers to create dApps similar to Ethereum. The NEO token is used to pay fees on the network, and GAS is used as a sort of fees for those making transactions on the network. NEO was developed by the Chinese startup called \\u201COnChain\\u201D, and it\\u2019s often referred to as \\u201Cthe Chinese Ethereum\\u201D since it can be used to build the same types of dApps. While NEO and Ethereum are both open-source blockchain platforms that are primarily used to create dApps, they both have some clear differences.\"),mdx(\"p\",null,\"NEO\\u2019s main function is as a smart contracts platform that enables decentralized processes like crowdfunding, voting, etc. Ethereum, on the other hand, has a wider range of uses including decentralized apps, token creation, and even managing other cryptocurrencies.\"),mdx(\"h2\",null,\"How NEO Works\"),mdx(\"p\",null,\"Similar to Ethereum, NEO enables developers to build decentralized applications and smart contracts on top of their blockchain. However, there are a few key differences between the two platforms. NEO is significantly faster than Ethereum, clocking in at about 10,000 transactions per second (tps) versus Ethereum\\u2019s 15 tps.\"),mdx(\"p\",null,\"NEO also has a different consensus mechanism than Ethereum, as well as a different fee structure. While Ethereum charges per transaction, NEO charges per amount of computing that is used to \\u201Crun\\u201D the distributed apps. NEO also uses a different mechanism for increasing the network\\u2019s capacity to handle more transactions.\"),mdx(\"h2\",null,\"EOS vs. NEO\"),mdx(\"p\",null,\"While EOS and NEO are both smart contract platforms that allow developers to build decentralized applications, they have a few key differences. For example, NEO has a more robust decentralized application ecosystem than EOS, with over 1,000 applications currently being built on their blockchain. EOS, on the other hand, only has 50 applications currently on their platform.\"),mdx(\"p\",null,\"In terms of speed, security, and scalability, EOS is significantly better than NEO. EOS is able to process thousands of transactions per second, making it one of the fastest blockchains in the world. Unlike NEO, EOS uses a delegated proof-of-stake (DPOS) consensus mechanism, which is viewed as more efficient than NEO\\u2019s delegated Byzantine Fault Tolerance (DBFT) consensus mechanism.\"),mdx(\"h2\",null,\"EOS Pros and Cons\"),mdx(\"p\",null,\"EOS is one of the fastest and most powerful blockchain networks in the world. It\\u2019s also packed with features that make it one of the most attractive blockchain networks for developers. However, EOS is also one of the most centralized blockchains in the world. The system is controlled by its 21 nodes, which are \\u201Celected\\u201D by token holders who hold at least 10 EOS.\"),mdx(\"p\",null,\"This situation has caused a lot of controversy, and it\\u2019s a big reason why NEO has recently been gaining popularity. As a \\u201Cdecentralized\\u201D platform, users are less concerned about centralized authorities controlling their data.\"),mdx(\"h2\",null,\"TRON vs. NEO\"),mdx(\"p\",null,\"TRON, which is another \\u201Cdecentralized\\u201D network, is aiming to compete with NEO as the Chinese Ethereum. While TRON doesn\\u2019t have the same dApp ecosystem as NEO, it\\u2019s more focused on becoming the largest decentralized media platform in the world. TRON\\u2019s goal is to provide users with unlimited content and a free internet.\"),mdx(\"p\",null,\"In terms of technology, TRON also has some key advantages over NEO. For example, TRON\\u2019s network can handle up to 10,000 transactions per second, which is about six times faster than NEO. TRON is also much cheaper than NEO, with TRON\\u2019s GAS token costing only fractions of a penny per token.\"),mdx(\"h2\",null,\"TRON Pros and Cons\"),mdx(\"p\",null,\"While TRON has a lot of potential in the long-term, it\\u2019s unclear if the network can ever catch up to NEO. While NEO has been around for over three years, TRON is still in development. NEO also has a bigger team of developers and is backed by the Chinese government, which could give it an edge in the long run.\"),mdx(\"p\",null,\"However, one advantage that TRON has over NEO is that it\\u2019s compatible with the Ethereum network, which could help TRON with adoption. With ETH\\u2019s scalability issues, TRON could potentially become more popular as users look for an alternative blockchain to launch their decentralized apps.\"),mdx(\"h2\",null,\"Final thoughts\"),mdx(\"p\",null,\"Overall, EOS and NEO are two of the leading smart contract platforms. Both platforms have a lot of potential, and it will be interesting to see which one ends up becoming more popular in the long run. While EOS and NEO are often referred to as \\u201Cthe Chinese Ethereum\\u201D, there are clear differences between these three projects. NEO is a smart contracts platform that\\u2019s been around for three years. EOS is a newer blockchain network that\\u2019s packed with features. And TRON is aiming to become the largest decentralized media platform in the world.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-help-your-startup.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAgCdASoKAAoAAUAmJbACdLoB+AACiywTZUAA/teaYdKDe0KM5DJzPEvx8+WboPf1zUD1kpnRJ+23/krzSSAHZd/+Ld7+mH+a8iL474P+QyAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "how-blockchain-technology-can-help-your-startup",
+      "locale": "en",
+      "title": "How Blockchain Technology Can Help Your Startup",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))r.call(t,n)&&c(e,n,t[n]);if(a)for(var n of a(t))s.call(t,n)&&c(e,n,t[n]);return e},h=(e,t)=>d(e,u(t));var l=(e,t)=>{var n={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=l(o,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"In today\\u2019s digital age, it\\u2019s hard not to be impressed by the potential of blockchain technology. In the last couple of years, there has been an increased adoption and development of distributed ledger technology (DLT) \\u2013 specifically, blockchain \\u2013 that has spurred innovative solutions in a variety of industries. The scope of blockchain extends far beyond being simply a mechanism for recording transactions securely. Blockchain enables trust without third parties, which makes it perfect for practically any application that requires keeping track of ownership or monitoring usage rights. Keeping this in mind, if you are launching your own startup and want to incorporate the latest technological advancements into your business model, read on to understand how blockchain can help.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/qtum-the-smart-contract-blockchain.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoKAAoAAUAmJbACdLoB+AAC/m2x8jGgAP7yV5G0NvADRJBmM5lR4tcbzRtd+6nEBjJ0GZl3eFb1mASUkqJsFzf/mbdXnpvg52f/vwaYh3Bf4dFvwe1a/27AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "qtum-the-smart-contract-blockchain",
+      "locale": "en",
+      "title": "Qtum: The Smart Contract Blockchain",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,u=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?m(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,a=(t,e)=>{for(var o in e||(e={}))i.call(e,o)&&h(t,o,e[o]);if(r)for(var o of r(e))s.call(e,o)&&h(t,o,e[o]);return t},c=(t,e)=>u(t,p(e));var l=(t,e)=>{var o={};for(var n in t)i.call(t,n)&&e.indexOf(n)<0&&(o[n]=t[n]);if(t!=null&&r)for(var n of r(t))e.indexOf(n)<0&&s.call(t,n)&&(o[n]=t[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:t}=n,e=l(n,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Qtum is a hybrid of two of the most prominent and promising blockchain projects currently available: Ethereum and Bitcoin. While both may seem like unrelated projects at first glance, they share some commonalities. Both offer different takes on blockchain technology with unique pros and cons\\u2014and Qtum manages to combine both while enhancing their benefits.\nWe\\u2019ll dive into more details about both of these projects in this article, but let\\u2019s start with a brief overview:\nEthereum offers an accessible platform for developers who want to build smart contracts or other applications that run on top of a blockchain network. On the other hand, Bitcoin serves as a digital currency that can be sent through the internet directly from one user to another with no third party or intermediary.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-gold-the-bitcoin-forks.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AOUAAzlRURAA/sj+bnLt+gAwg7mf0+7t55qdWmvvc05WwU7+6Fw/cc5LTP/2uusd7IVuGlWxf4N+rv+cX/z3YgrrVC/r8yzIGfdsAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "bitcoin-gold-the-bitcoin-forks",
+      "locale": "en",
+      "title": "Bitcoin Gold: The Bitcoin Forks",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,r)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[o]=r,a=(e,o)=>{for(var r in o||(o={}))i.call(o,r)&&h(e,r,o[r]);if(t)for(var r of t(o))s.call(o,r)&&h(e,r,o[r]);return e},m=(e,o)=>c(e,d(o));var f=(e,o)=>{var r={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(r[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&s.call(e,n)&&(r[n]=e[n]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var n=r,{components:e}=n,o=f(n,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"You may have heard of a fork before \\u2014 as in, the idea of a software developer making a copy or \\u201Cfork\\u201D of another program\\u2019s code. In the world of computer programs and coding, it isn\\u2019t uncommon for someone to make a modified version of another person's code with the intention of adding some new feature or fixing problems with the original. For example, one might see an error in another programmer\\u2019s code and fix it to prevent other coders from encountering that problem as well. This is essentially what a fork in programming terms is: Take an old piece of code and make changes to improve it. A fork can happen when developers disagree about how to deal with an issue (which is not uncommon) or if there\\u2019s some other reason that makes them want to branch off from the original source code and go their own separate way.  Moreover, there are many different types of forks beyond just software! In this article we will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin Cash.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ethereum-the-new-smart-contract-platform.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAELVY2j4ukgAP78Dr89KGpX/+/q8xw8SffeJEJSPqNCOMQOmch3R6DazNAWXTn+YIoUHhd+MasfKuyEQeVHyc/E/MFwhUNOl6XnZ7v/KkXHs3PfZtia4zbVjZv/gsoG+MLZ/uJnoUH/5epX38m+YqiifgAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "ethereum-the-new-smart-contract-platform",
+      "locale": "en",
+      "title": "Ethereum: The New Smart Contract Platform",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(t,e,o)=>e in t?p(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,i=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&c(t,o,e[o]);if(a)for(var o of a(e))s.call(e,o)&&c(t,o,e[o]);return t},h=(t,e)=>l(t,m(e));var u=(t,e)=>{var o={};for(var n in t)r.call(t,n)&&e.indexOf(n)<0&&(o[n]=t[n]);if(t!=null&&a)for(var n of a(t))e.indexOf(n)<0&&s.call(t,n)&&(o[n]=t[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:t}=n,e=u(n,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Ethereum is a decentralized computing network built on blockchain technology. It\\u2019s an open source software that operates smart contracts, decentralized apps (DApps), and other programs. Smart contracts are self-executing digital contracts with specific instructions that can be fulfilled when certain conditions are met. These contracts operate on the principles of if this, then that; if not, then this. This makes it so that once the pre-set conditions have been met, the contract will execute automatically without further input from any third party. Ethereum supports Turing complete programming and can execute code in any language because of its instruction sets and virtual machines.\nEthereum has become one of the most popular blockchain networks after Bitcoin because of its support for smart contracts, which make up a huge part of why blockchain technology is so revolutionary. In this article, you\\u2019ll learn more about what Ethereum is and its unique benefits as well as potential challenges it faces going forward in adoption and development.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-potential-of-blockchain-technology-for-business.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAEPBeuqh/2AAP75/ap3fW4//Y0e0UADzT6aaeyoDFQRNR3ugvXeSnouB6jRNW4H/3DL9T/HvsC2b+Cz//dkmA2v9Df//ybL/k2BBqUuIuAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-potential-of-blockchain-technology-for-business",
+      "locale": "en",
+      "title": "The Potential of Blockchain Technology for Business",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,n=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&c(e,a,t[a]);if(s)for(var a of s(t))i.call(t,a)&&c(e,a,t[a]);return e},l=(e,t)=>y(e,d(t));var h=(e,t)=>{var a={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&i.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=h(o,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the digital age, businesses need to create new digital assets faster and more efficiently than ever before. That\\u2019s because these assets are now the basis of most modern businesses and services. The value of these assets isn\\u2019t just in their practical use; it\\u2019s also in their resale potential, or secondary market value.\nUpgrading your business with blockchain technology can help you create, track, and resell your digital assets like never before. Blockchain is a decentralized network that creates a ledger of all transactions that are verified by members of the network. These networks are most commonly seen in cryptocurrencies like Bitcoin, but they have many other uses as well.\nBlockchain technology has the potential to streamline almost any industry, from finance to retail to even healthcare. If you want to know more about how blockchain can upgrade your business, keep reading for insight on the potential of blockchain technology for business.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/stellar-the-banking-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJbACdLoAAwi2dOstSAAA/vfeisJm9Q9/wLmGG8yukxC4zRc8xJenO/sR8HlS6andVY9+8/0MOas/zam/pCMkOloX+ncZ9QxJqRghYsol7e+x/+TQsljANpexCLPP6avyd/Jv8Zf/hiQNvqbvbncUHSiG8otoAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "stellar-the-banking-crypto",
+      "locale": "en",
+      "title": "Stellar: The Banking Crypto",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))i.call(t,o)&&l(e,o,t[o]);return e},h=(e,t)=>y(e,p(t));var c=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=c(a,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`With the first quarter of 2018 coming to a close, now is a good time to take stock of which coins are primed for growth in the coming year. In this post, we\\u2019ll take a look at Stellar, an under-the-radar crypto that could break out in Q2 and beyond.\nWe know it\\u2019s still early days for crypto, but we think there\\u2019s also genius insight locked away in these digital tokens. So much of what makes a coin great doesn\\u2019t come from its technology or usage as much as its real-world potential.\nWhen evaluating a cryptocurrency for long-term investment, we ask ourselves: How does this token solve a real problem? Does it have the potential to be adopted by many users? Is there an opportunity for this coin to appreciate in value? If you can answer yes to all of these questions, you may be interested in investing in Stellar \\u2014 here\\u2019s why:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/litecoin-the-silver-to-bitcoins-gold.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJQBOgMXSzgjBXiMAAAD++Wfr1vypid+e+FY+4Ob1MuCfwMBU/SORG5Pev6NgLfeu4G6gesA2x3LybkBXm/pnE/j/zcl2xn7/MA1CFqA+P/UHeNIhzb87KrjG5/gZFy2wEGvSIgyj5lRipX27x2fdPpz1ThUqBDWMAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "litecoin-the-silver-to-bitcoins-gold",
+      "locale": "en",
+      "title": "Litecoin: The Silver to Bitcoin's Gold",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))a.call(t,o)&&c(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&c(e,o,t[o]);return e},l=(e,t)=>p(e,d(t));var h=(e,t)=>{var o={};for(var i in e)a.call(e,i)&&t.indexOf(i)<0&&(o[i]=e[i]);if(e!=null&&n)for(var i of n(e))t.indexOf(i)<0&&s.call(e,i)&&(o[i]=e[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:e}=i,t=h(i,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`At the time of this writing, there are over 1,300 cryptocurrencies in existence. That might sound like a lot, but it\\u2019s just a drop in the bucket compared to what we will see in future. As we enter into a new age of digital currencies and blockchain technology, we have seen an explosion of new tokens rise up to challenge old favorites like Bitcoin and Ethereum.\nArmed with the knowledge that many industries will inevitably adopt blockchain technology, developers have created their own unique solutions to accelerate adoption of this exciting new technology. While most of these coins are little more than experimental testnets for improving upon existing blockchains like Ethereum \\u2013 others are legitimate competitors to the market leaders.\nRed hot at present is Litecoin \\u2013 an alternative version of Bitcoin with some key differences. Let\\u2019s take a deeper look at how this newer cryptocurrency stacks up against its older brother...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/zcash-the-private-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAgCdASoKAAoAAUAmJZACdAYs/1yMZLlHB/ts6cAA/vzP/GGCFTvuySnKmd59QUzba+be3F/euuDDL8k0mXej2w8tjE+v7Q6VMau9kqiBcuB2P+vKGcj9S7I9djrn+DwdI4wEQoULZ1gA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "zcash-the-private-crypto",
+      "locale": "en",
+      "title": "Zcash: The Private Crypto",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,y=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&h(e,o,t[o]);return e},u=(e,t)=>y(e,l(t));var c=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=c(a,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`ZCash is a digital currency that aims to bring unprecedented privacy to the world of blockchain and cryptocurrency. If you\\u2019re reading this, you\\u2019re likely aware that this is an area ripe with potential, but also rife with risk. Crypto has been dogged by associations with black markets, hackers and scams; as a result, adoption rates have been slow and regulators are keeping a watchful eye on the market.\nIf you're interested in investing in ZCash or any other type of cryptocurrency, it\\u2019s important for you to understand what makes each token unique. While some tokens may be more profitable than others in the long-term, your own personal investment strategy should be at the forefront when making decisions like these.\nThis blog post aims to provide insight into what makes ZCash stand out from other cryptocurrencies, why some might view that as a positive or negative thing and what implications it could have on its future value.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-risks-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJYwCdGuAAs0mAucwAAD++1e+9fzxRXiEIqf1eqtbW9k7hzpj6gkESestnW+so6t2C2/bRkIB2Y0Y+5nFxEtCNjk312r4V89Rt4q0QeXAXp8dQqcUF5iqZnGn3gAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-risks-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Risks of Blockchain Technology",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,y=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var r=(e,t,i)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[t]=i,a=(e,t)=>{for(var i in t||(t={}))s.call(t,i)&&r(e,i,t[i]);if(o)for(var i of o(t))c.call(t,i)&&r(e,i,t[i]);return e},h=(e,t)=>y(e,u(t));var l=(e,t)=>{var i={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(i[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&c.call(e,n)&&(i[n]=e[n]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var n=i,{components:e}=n,t=l(n,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The rise of blockchain technology has made it possible for digital data to be verified, stored, and accessed in a safe and secure way. Companies are beginning to use this technology to manage the digital certificates of their products and verify their authenticity. Because blockchain is widely known as the technology behind Bitcoin, many businesses are hesitant to adopt it because of its association with cryptocurrency. However, that reputation isn\\u2019t necessarily fair. The real risk lies in how companies implement blockchain instead of the technology itself.\nThere are potential risks when adopting new technologies such as blockchain; however, implementing it correctly can help your business thrive by streamlining processes and reducing costs. This article explains the risks of blockchain technology and how you can mitigate them before implementation.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-benefits-of-blockchain-technology-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAADwAQCdASoKAAoAAUAmJbACdAECpSNTgIgA/LSSux6a8bWpwftd/nf1VukUdN0VfztMf6eBErF46ONkMiKzuYP9zd6+Lqv1naGeUTmDpjKtal6wFAbdBIXoeCZfgLF3f9g3/2z3Dklvc8SgZGdFLRMquf/mi9kZy9e89Poqfm7//l318d+Tf2I/+/fnZzNVNX/HreFsAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-benefits-of-blockchain-technology-for-developers",
+      "locale": "en",
+      "title": "The Benefits of Blockchain Technology for Developers",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,u=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&l(e,o,t[o]);if(i)for(var o of i(t))r.call(t,o)&&l(e,o,t[o]);return e},h=(e,t)=>u(e,g(t));var c=(e,t)=>{var o={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&i)for(var a of i(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=c(a,[\"components\"]);return mdx(MDXLayout,h(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The world is quickly moving towards an age of digital everything. From e-books to login IDs, everything is becoming digital. Even things like contracts and document management systems are shifting to the cloud and becoming more digitized with each passing day.\nThe developers who can adapt to this new world will thrive in it. The ability to read and understand code as well as develop new software is a skill that won\\u2019t go out of fashion anytime soon. However, there are plenty of other skills that will be even more valuable in the coming years, such as the ability to use emerging technologies like blockchain and artificial intelligence (AI).\nAlmost everyone has heard about blockchain technology thanks to its usage in cryptocurrencies like Bitcoin . But what exactly is blockchain technology? A blockchain is a digital ledger that allows users to make secure transactions without the need for a third party or intermediary such as a bank or broker.\nLet\\u2019s take a look at some examples of how you can use blockchain technology for development either now or in the future.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

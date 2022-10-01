@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-software-engineering-books.png",
+  "imageSrc": "/articles/the-best-software-engineering-books.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdAYtBwn+2aQjvdeAAP76o8TnY/tsPSM+KQBGDQP4+LF5HeSqYk2OewUqfmO0K2xOgRqMmcq47nf8w/5xgvXYuW0gBfNNrgTnKfx/g3pxX4fMLeiXt81l+njvgD7cneDf+X6+gYVrtAA=",
-  "createdAt": "2022-10-01T11:38:55.798Z",
-  "updatedAt": "2022-10-01T11:38:55.798Z",
+  "createdAt": "2022-10-01T12:13:23.589Z",
+  "updatedAt": "2022-10-01T12:13:23.589Z",
   "categoryLocal": "coding",
   "slug": "the-best-software-engineering-books",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&h(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&h(e,o,t[o]);return e},p=(e,t)=>d(e,l(t));var g=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=g(n,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Why You Should Read Software Engineering Books\"),mdx(\"p\",null,\"The world of software engineering is constantly evolving. In order to keep up with the latest trends, tools and best practices, you have to keep reading and learning. There are so many interesting topics within the software engineering world, so it\\u2019s really up to you where you want to focus your reading. That\\u2019s why reading software engineering books is so important \\u2013 it allows you to thoroughly explore a specific topic in depth, allowing you to maximize the knowledge acquired. Most of the books on this list are also written by experienced professionals who have been in the field for years. This means you can get expert advice and insight on how to succeed with your career path.\"),mdx(\"p\",null,\"One of the best things about reading software engineering books is that you can do it anywhere and at any time. This makes it a great hobby to pursue while working a full-time job, or even while commuting or traveling. You can always use this down time to learn something new and improve your skills. And of course, reading software engineering books is also a great way for aspiring engineers to prepare for graduate school. These books can help you ace your entrance exams, and prepare you for your upcoming studies.\"),mdx(\"h2\",null,\"Algorithmics\"),mdx(\"p\",null,\"Algorithms have been a key part of software development since the very beginning, but many engineers don\\u2019t really know a lot about them. This can lead to inefficient code that runs slowly and crashes frequently \\u2013 not exactly good engineering. Algorithms also form the basis of machine learning, and while many engineers do understand the basics here, there are many more topics to explore. Algorithms in Programming Contests is a great book for learning more about algorithms and how they can affect the way your code behaves \\u2013 even if you don\\u2019t plan to enter programming contests.\"),mdx(\"h2\",null,\"Software Design and Architecture\"),mdx(\"p\",null,\"The design and architecture of your software can make or break an entire project. If your architecture is flawed, it can be incredibly difficult to fix and could even lead to code being rewritten from scratch. This is why it\\u2019s important for software engineers to fully understand the best practices around software design and architecture so they can make the right decisions for their team and company. The Architecture of Open Source Applications is a great software engineering book that explores many different open source projects to see how they were designed and built.\"),mdx(\"h2\",null,\"Computer Networking\"),mdx(\"p\",null,\"Computer networking is a core part of almost all modern software applications, so it\\u2019s important that engineers fully understand how it works. That\\u2019s why it\\u2019s essential to read up on computer networking software engineering books. Computer Networking: A Top-Down Approach is a great book for learning more about networks, along with their history and how they work. It\\u2019s a great general overview of this fascinating field that\\u2019s very relevant to software engineers.\"),mdx(\"h2\",null,\"Cryptography\"),mdx(\"p\",null,\"Cryptography is a fascinating engineering field that many software engineers may have little knowledge of. After all, most engineers don\\u2019t need to know how to create a cryptographic algorithm \\u2013 it would be far too difficult for them to implement it in their code. However, it\\u2019s important to understand the basics so you know how to apply it in your code and use it for security purposes. Cryptography Engineering is one of the best software engineering books for learning about cryptography, including its history and application in security.\"),mdx(\"h2\",null,\"Operations and Data Security\"),mdx(\"p\",null,\"While data security is an important topic for all engineers to understand, it\\u2019s especially important for those who are also responsible for operations. These engineers are responsible for creating the systems that are used to protect sensitive data and information within the application itself. It\\u2019s important to keep up with the latest best practices and standards regarding data security, which is exactly what you can do by reading operations and data security software engineering books.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Software engineering is a fascinating career path with a lot of room for growth and change. In order to succeed in this growing field, it\\u2019s important to keep up with the latest tools, trends and best practices. Reading software engineering books is a great way to do this, allowing you to thoroughly explore a specific topic in depth. These books are written by experienced professionals who have been in the field for years. This means you can get expert advice and insight on how to succeed in your career path.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoKAAoAAUAmJbACdLoAE4A1zgyh+CnCspATAAD+6l+PK42LPTV/hruMd631/z5V99FeqZ/tgMfP7B+yGuBv4PTLEGcY1ke/8Ddvzf+m/v4TCX2+luIFX7z8hB/LMDH9du4SM4yWlnLEWJW9I3catY8qwRhn0wk8SH/7X/o1Kvx/+P70JTf5HrqOD6S2JnNz4sNCGAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-game-development",
+      "locale": "en",
+      "title": "Python - The Language for Game Development",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,o,a)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&p(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&p(e,a,o[a]);return e},l=(e,o)=>g(e,u(o));var m=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJbACdLoAAv3rPr8zAAD++yY0FUpnR3dw9DK5YfZxi/3r94vv1z61rdNoZRFcAIHHr1/MOK0O/9WpCZfwqKXLX/uLi/ZbR3GMBBycu//M0fpN9JvMAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))n.call(o,a)&&u(e,a,o[a]);if(r)for(var a of r(o))i.call(o,a)&&u(e,a,o[a]);return e},c=(e,o)=>m(e,d(o));var l=(e,o)=>{var a={};for(var t in e)n.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&i.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJagCdAEPDD6TzZVgAP7+VfDOQ8UDjLqc0V5Uoh4fYX4aA6FoCawMyfcdkDTjzYw+wGP1sbZ/sUjGXRwzVSf/xDn59d4Qf/EEn/+Ov/7HJn8m/u5Fx1/MQAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-resources-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Resources for Beginners",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,n,o)=>n in e?h(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,i=(e,n)=>{for(var o in n||(n={}))r.call(n,o)&&c(e,o,n[o]);if(a)for(var o of a(n))s.call(n,o)&&c(e,o,n[o]);return e},d=(e,n)=>p(e,u(n));var g=(e,n)=>{var o={};for(var t in e)r.call(e,t)&&n.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&s.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,n=g(t,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJbACdAEWYVmAztwwAP7wsn0T/VSlZYH1iGK7kh/j06/Ua7G/Sk6JnafAsBSELQH/2P92J5mnvaX9VP+dk49bQu0Bp8+11+IZ8NH53sRhbHAAv53fwghxOFRVfX/PoChv8Fe07Ii3KxxiAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-image-processing",
+      "locale": "en",
+      "title": "Python - The Language for Image Processing",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,h=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,a,r)=>a in e?g(e,a,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[a]=r,o=(e,a)=>{for(var r in a||(a={}))s.call(a,r)&&c(e,r,a[r]);if(t)for(var r of t(a))i.call(a,r)&&c(e,r,a[r]);return e},m=(e,a)=>h(e,p(a));var u=(e,a)=>{var r={};for(var n in e)s.call(e,n)&&a.indexOf(n)<0&&(r[n]=e[n]);if(e!=null&&t)for(var n of t(e))a.indexOf(n)<0&&i.call(e,n)&&(r[n]=e[n]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var n=r,{components:e}=n,a=u(n,[\"components\"]);return mdx(MDXLayout,m(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Computer vision and image processing are key to enabling machines to understand the world. For example, modern cars can detect pedestrians with cameras rather than other sensors because the camera can identify them as non-moving objects that are smaller than usual trees and have different reflectivity from typical road markings.\nThis article covers Python, an increasingly popular language for image processing tasks. It\\u2019s a dynamic language like Ruby, which makes it easier to read and write programs. Furthermore, Python includes several useful libraries for image processing such as OpenCV (Computer Vision) and PIL (Python Imaging Library). If you\\u2019re new to programming, check out our article on Why Python is a Great First Programming Language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwbC06ruAAD+++9cdKVg9HnX4yT4RDKzgoN8uCQmUc77hCUSPql5GKUf2jHXS9BNx98zQx0m5DnYoXwXD9DSQZ2TxfJM82kaJ7BgfKWO/OGQ/qPLXz2SNf6Iuvwpfxf+Djdf9xD3lL/ytAAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&p(e,o,t[o]);if(r)for(var o of r(t))i.call(t,o)&&p(e,o,t[o]);return e},u=(e,t)=>m(e,h(t));var y=(e,t)=>{var o={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&r)for(var a of r(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=y(a,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJbACdLoAfh2DOp5vtljZAAD+bL/CZwN67RsnU03rJY8bTWtmj9xjZW6uAH/pgg+DsPsMVi0NULlJgcF9PnNRecVlQ5+kQdgB/rtoIm6f/i+BteGA177t7qPKq08+a/+5F2k7+vt0u+f/w0nzqUL/7gUUj+L3/4ies6Oe3+Ovy9yqW+VgAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-parallel-computing",
+      "locale": "en",
+      "title": "Go Language for Parallel Computing",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var s=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,l=(e,t)=>{for(var a in t||(t={}))n.call(t,a)&&s(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&s(e,a,t[a]);return e},p=(e,t)=>m(e,g(t));var u=(e,t)=>{var a={};for(var i in e)n.call(e,i)&&t.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&o)for(var i of o(e))t.indexOf(i)<0&&r.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,t=u(i,[\"components\"]);return mdx(MDXLayout,p(l(l({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADH0R/rAAA/vbL46Y0Cx22Lj2FuWnqa7LwVfv8oQpuNx9+s7eVPlmR3/su3k38eKXN8VZf1MK/+VFrG34yp/xlT/yFfV0VcCu6stbVG7XgAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&u(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&u(e,n,o[n]);return e},g=(e,o)=>y(e,h(o));var l=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoKAAoAAUAmJbACdC0QCZjMRzZzz3P8gAD+9egTW8kmATb1FMQ9/n+1tlBgT4a8fumWf+P7G+qGj9f/IW513v9j75jpr+WUwB/aoWT96Fxxtr3fbrlR9wj4c/p+rCz/4wLf9x0xA+t9fRXijhqmqP6mtJvY3fjf63/8M0Y1R/r//NEJnnqIAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,g=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},d=(e,t)=>g(e,p(t));var c=(e,t)=>{var a={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AAMyzAznM+AA9j4Dewi45hdudRA4ZcLurolCQYR+rgFJfxWvz80RNDf/rNaYn5A84t/tw//ZdZzuoXKobSB375gA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-java",
+      "locale": "en",
+      "title": "Introduction to Java",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(a,t,e)=>t in a?p(a,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):a[t]=e,r=(a,t)=>{for(var e in t||(t={}))s.call(t,e)&&g(a,e,t[e]);if(n)for(var e of n(t))i.call(t,e)&&g(a,e,t[e]);return a},l=(a,t)=>h(a,m(t));var u=(a,t)=>{var e={};for(var o in a)s.call(a,o)&&t.indexOf(o)<0&&(e[o]=a[o]);if(a!=null&&n)for(var o of n(a))t.indexOf(o)<0&&i.call(a,o)&&(e[o]=a[o]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var o=e,{components:a}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIRG63xAAAP7tKGb5R9tiqaI5JTqpkmqS5kZuY3N+X5Ppz15d0jFUfDXHxYOdFRnX/7oAe/cuwMAqWi39ahjf0cbr4kL/xIX/xheD2G0cW8wgAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-administration",
+      "locale": "en",
+      "title": "Go Language for Web Administration",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&c(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&c(e,n,o[n]);return e},p=(e,o)=>u(e,m(o));var d=(e,o)=>{var n={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=d(t,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

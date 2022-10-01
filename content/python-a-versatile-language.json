@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/python-a-versatile-language.png",
+  "imageSrc": "/articles/python-a-versatile-language.png",
   "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAwCdASoKAAoAAUAmJbACdLoB+ADwABOMbqsyaJXSSX8AAP7nrb1cwc9jX2aX0ppy74XjVjDMayz8yvh0H/VkqRxHInQneCF8E8g3dWSUtUEAuVIQvqD/6pFjiNxb+el3ycmWb9qga3d/zW/4DhOreKYxaYqI+I49rQAA",
-  "createdAt": "2022-10-01T11:38:58.312Z",
-  "updatedAt": "2022-10-01T11:38:58.312Z",
+  "createdAt": "2022-10-01T12:13:26.932Z",
+  "updatedAt": "2022-10-01T12:13:26.932Z",
   "categoryLocal": "coding",
   "slug": "python-a-versatile-language",
   "locale": "en",
@@ -17,5 +17,156 @@
     "compiledSource": "var d=Object.defineProperty,c=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&h(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&h(e,a,t[a]);return e},l=(e,t)=>c(e,g(t));var u=(e,t)=>{var a={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is Python?\"),mdx(\"p\",null,\"Let\\u2019s start off by taking a look at what Python is. Python is a general-purpose programming language that was created in 1991 by a Dutch programmer named Guido van Rossum. The language takes its name from the British comedy group Monty Python, whom van Rossum was a fan of. The language has come a long way since its creation, and it has been used in a wide variety of different industries through the years.\"),mdx(\"h2\",null,\"Why Is Python So Popular?\"),mdx(\"p\",null,`One of the reasons that Python is so popular is that it\\u2019s very readable and easy to understand. While it\\u2019s not the simplest language that exists, it falls somewhere in the middle \\u2013 meaning that it will be easier for a beginner to understand, but it\\u2019s also powerful enough for an experienced programmer to use.\nWhen you\\u2019re just getting started programming, you don\\u2019t want to have to deal with a language that\\u2019s overly complicated or confusing. You\\u2019re trying to learn the basics, and a complicated language will just make that more difficult.\nPython is a great language for beginners to start out with because it\\u2019s easy read and understand. When you\\u2019re ready to move on to other languages, you\\u2019ll already have a solid foundation that will make the transition easier.`),mdx(\"h2\",null,\"How to Learn Python\"),mdx(\"p\",null,`If you\\u2019re interested in learning Python, the first thing you should do is find a beginner\\u2019s Python tutorial. There are tons of free tutorials online that will help you get started.\nYou can also find tons of free ebooks that will walk you through the basics. If you prefer to read a physical book, you should be able to find one at your local bookstore.`),mdx(\"h2\",null,\"What Can You Build With Python?\"),mdx(\"p\",null,`A lot of people wonder what they can build with Python. The truth is that there are a lot of different things that you can create with Python.\nThere are several types of applications and web services that rely on Python for their functionality. Some of the most common are:`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Data Science and Machine Learning: One of the most common uses of Python is in the fields of data science and machine learning. These two fields involve lots of data analysis, statistics, and complex calculations. Because Python is such a versatile language, it\\u2019s well-suited to these tasks.\"),mdx(\"li\",{parentName:\"ul\"},\"Financial Services: Python is also commonly used in the field of financial services. This is because software developers can use Python to create software that accesses multiple financial services at once. This is called \\u201Cfinancial algorithm coding\\u201D, and it\\u2019s used for things like stock trading, foreign exchange, and more.\"),mdx(\"li\",{parentName:\"ul\"},\"Gaming: You might not think about it, but gaming companies use Python for a variety of different tasks. One of the most common uses of Python in the gaming industry is to create artificial intelligence characters. Python is also used for things like generating the graphics displayed in the game.\"),mdx(\"li\",{parentName:\"ul\"},\"Web Development: Web development is one of the most popular industries that uses Python. This is because it\\u2019s a general-purpose language and can be used to create both server-side and client-side applications.\")),mdx(\"h2\",null,\"Who Uses Python?\"),mdx(\"p\",null,\"As we discussed above, there are tons of different industries that use Python as a programming language. We\\u2019ve already gone over a few of them, but let\\u2019s take a look at the others.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Data Analysts: Data analysts are the people who sift through data, put it into charts and graphs, and try to determine what information is useful and what isn\\u2019t. Most data analysts use Python for their work because it makes data analysis much quicker and easier.\"),mdx(\"li\",{parentName:\"ul\"},\"Data Scientists: Data scientists are data analysts that focus more on the \\u201Cwhat does this mean?\\u201D aspect of data analysis. They use Python to find patterns and trends in the data, and then they interpret those patterns.\"),mdx(\"li\",{parentName:\"ul\"},\"Financial Analysts: Financial analysts use Python to create algorithms that help them predict future stock prices. Python can take into account a huge amount of different factors and create a model that helps predict the future.\"),mdx(\"li\",{parentName:\"ul\"},\"Web Developers: Web developers use Python to build websites, create databases, and more. Python can be used to create a wide variety of different things on a website, including things like the user interface, databases, and more.\")),mdx(\"h2\",null,\"Summing up\"),mdx(\"p\",null,`There are many different programming languages out there, and each one has its own unique set of features, strengths, and weaknesses. A lot of people tend to think that only developers get to use programming languages, but the truth is that there are many different uses for programming languages.\nThis article explored what Python is and why it\\u2019s so popular among a wide variety of industries. We also discussed how to learn Python if you\\u2019re interested in the language, and we took a look at what you can build with Python and who uses Python.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAEIeXpocU9oAA/vzR7ddgQQMcGxncC7bveJfwQDgusr3hXc3tT0FA7+QMf3HVT+yn2BC7f3Khqr/8q0CObAwLX+XRTC4abf/Sm/v/ITKV/y0P4AAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,n)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&l(e,n,o[n]);if(a)for(var n of a(o))r.call(o,n)&&l(e,n,o[n]);return e},h=(e,o)=>d(e,p(o));var c=(e,o)=>{var n={};for(var t in e)s.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&r.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJaQAD4AQj91Xf8AAAP7896fnxfubL/wVFfd/r6ic8hhRJ+2N/9RqOHC+vavivn/+i3+s8t/5zH9y+iBoZ9bWqU/+64qIPv4+YYYL78qN/8zpKp2DaLwKHAdtT9AA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-hibernate",
+      "locale": "en",
+      "title": "Introduction to Hibernate",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var c=(e,t,s)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[t]=s,r=(e,t)=>{for(var s in t||(t={}))i.call(t,s)&&c(e,s,t[s]);if(o)for(var s of o(t))a.call(t,s)&&c(e,s,t[s]);return e},l=(e,t)=>u(e,p(t));var d=(e,t)=>{var s={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&a.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,t=d(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdLoAAwizdnaAAP74k0YCoDSgZNt8htwulGesezEJ1BMEHybklUFLHM3Fbm9cVFijgZaMTUgYqL/JGfB7BlVR8KdAz3eNHn+q1x/EB9ehOfv7XIf/gsNAp1kfMh28pfAAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(a,e,t)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[e]=t,i=(a,e)=>{for(var t in e||(e={}))r.call(e,t)&&d(a,t,e[t]);if(n)for(var t of n(e))s.call(e,t)&&d(a,t,e[t]);return a},g=(a,e)=>c(a,l(e));var m=(a,e)=>{var t={};for(var o in a)r.call(a,o)&&e.indexOf(o)<0&&(t[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&s.call(a,o)&&(t[o]=a[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:a}=o,e=m(o,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdAaYu80VXnhlSSQAAP4FoPQ6TwvOHtf+f/UrlIfM8+Y/+NNuQf4ZN2l7+pT9bYn3Q8oH5M/VS35z9C9mfVL/c60j9U+Nxd0kEEa+j9r6rfXc6NRIE0q9nFdxd+2Eyc8rQQegfdMkoHu5RpZ+e6gyxp0X1MuGLI/Z0ln8m+/AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,i=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(s)for(var t of s(o))r.call(o,t)&&l(e,t,o[t]);return e},d=(e,o)=>p(e,u(o));var h=(e,o)=>{var t={};for(var n in e)a.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=h(n,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAELX5Rg/gAA/vS/h/dp/bmB6Lmu3PUV3mzI8P5jsScwr2T6Z9WA2xo+PSV14KVdwHXipjM3Gl53bVOoGIaPI7IFJDKYKtxjWuC5wsN4jBkNKFvD/3c0cuSL8/sgtYL5/thMg/moAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>p(e,g(o));var u=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=u(r,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJZgCdAEO1m1ggAD+/eU/J3hnq078wsxXSVmhWM0ctvAe9H89L2IT0SFmk5N/PbEawUJ8//EiN9yE8mfA+vkTf6OnMr4ujbd/bdmfwb+7DBkUYspvq0bQAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,t)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&u(e,t,o[t]);if(r)for(var t of r(o))i.call(o,t)&&u(e,t,o[t]);return e},c=(e,o)=>m(e,p(o));var g=(e,o)=>{var t={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&r)for(var n of r(e))o.indexOf(n)<0&&i.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=g(n,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJbACdLoAAwjAJ+oNbAAA/vUj91v7R/bj5drQr8ptc0aV2b4nDKXmiTZTt377docWdv3eUBbP0gwsB25v7BWME8fQ395tLimZ8p7/mL/WW/TODOXjcVmtCZh0R383p88O2A2sbYpqI9+pvzzf+eKp9ZcKabxm3+MCD/K8Py79zf9+QAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-spring",
+      "locale": "en",
+      "title": "Introduction to Spring",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,a=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&l(e,n,o[n]);if(r)for(var n of r(o))i.call(o,n)&&l(e,n,o[n]);return e},u=(e,o)=>c(e,h(o));var d=(e,o)=>{var n={};for(var t in e)s.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&i.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=d(t,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB8gADDBsHLZDUAADOMtjF6n03V+WyKX/UN6tNeRNRUdLUkKf0nT/okgtJ7BaMOZFkMEae1h0hRpvm8wAUospXYzv7f/7GP/1+Ls/8YD7tz/vHWdl3+oO+At/2b+87+OEAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,h=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?y(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,t=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&c(e,n,o[n]);if(a)for(var n of a(o))r.call(o,n)&&c(e,n,o[n]);return e},l=(e,o)=>h(e,u(o));var d=(e,o)=>{var n={};for(var i in e)s.call(e,i)&&o.indexOf(i)<0&&(n[i]=e[i]);if(e!=null&&a)for(var i of a(e))o.indexOf(i)<0&&r.call(e,i)&&(n[i]=e[i]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var i=n,{components:e}=i,o=d(i,[\"components\"]);return mdx(MDXLayout,l(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagC7AabK8z2340S2AAA/vm03Yehac7g/fSRXsm6+dzIX+Bmg9xG/1+5P6H7MSCC992qWMCPETX+wWcJ6kvOL7FQ9CL/yISY9v7DRFefyth3Mz/AAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-get-started-with-coding",
+      "locale": "en",
+      "title": "How to Get Started with Coding",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},d=(e,o)=>u(e,y(o));var p=(e,o)=>{var t={};for(var a in e)r.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=p(a,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/spring-mvc-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABwAgCdASoKAAoAAUAmJbACdAabRAafvr9Q/vwAAP78A/8PgnKZQ2W7iXf6Al2iGfO+V++e2XtvqGLs+uIjTMoXbsSmjJ4KqowM8gwzfZfAih38/+5Munm+ev+B0q1UnwPUZKNz7TiQNUeWNddW5o6KFpvbbfgGHd+2KvA3P1RyWjf/IqcW64xV+/mgU7sP4nPtk7AAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "spring-mvc-applications",
+      "locale": "en",
+      "title": "Spring Mvc Applications",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,c=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var r=(t,o,e)=>o in t?m(t,o,{enumerable:!0,configurable:!0,writable:!0,value:e}):t[o]=e,i=(t,o)=>{for(var e in o||(o={}))s.call(o,e)&&r(t,e,o[e]);if(a)for(var e of a(o))l.call(o,e)&&r(t,e,o[e]);return t},p=(t,o)=>c(t,g(o));var u=(t,o)=>{var e={};for(var n in t)s.call(t,n)&&o.indexOf(n)<0&&(e[n]=t[n]);if(t!=null&&a)for(var n of a(t))o.indexOf(n)<0&&l.call(t,n)&&(e[n]=t[n]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var n=e,{components:t}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),o),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

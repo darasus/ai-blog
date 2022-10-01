@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/interfaces-in-java.png",
+  "imageSrc": "/articles/interfaces-in-java.png",
   "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAD5ieWIavXAAP7+ZUr9Db/RGe3yR0UXTt67e29qfRbAY4qVh3s03Bfwfkd53v0KXNjVrbGtIFBw+5cd3S39mcYPsOtjSbk0JXxrl6wN9ixqAAAA",
-  "createdAt": "2022-10-01T11:39:03.551Z",
-  "updatedAt": "2022-10-01T11:39:03.551Z",
+  "createdAt": "2022-10-01T12:13:33.955Z",
+  "updatedAt": "2022-10-01T12:13:33.955Z",
   "categoryLocal": "coding",
   "slug": "interfaces-in-java",
   "locale": "en",
@@ -20,39 +20,7 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-network-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJaACdAEOz33Kf0QAAP76d/mmvgs8exkPo90lhnPUqv+g0PTc/5cOFfvQi9KFEQkf6GpAwG08hyUnfyN/4wp+jDDOVetE5QAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-network-administration",
-      "locale": "en",
-      "title": "Go Language for Network Administration",
-      "summary": "Go is an easy-to-use programming language that is a great choice for network administrators. The language has been designed to make it easier to write reliable code that can be read by anyone on the team. Go was designed by Google in 2007 as an alternative to more traditional languages such as C and C++. It was created as a response to the growing complexity of these languages and the difficulty of finding developers who could work in them. The main advantage that network administrators get from using Go is that it is easy to use reliable code.",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))s.call(t,n)&&c(e,n,t[n]);return e},g=(e,t)=>m(e,p(t));var u=(e,t)=>{var n={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&s.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-use-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagCdLoAAw9hAqnm+wAA/vufgCNkfzkBHP5WKLzL/j/zQr1NND3PWvfTum35FlumKPuf4xkm7861ngfms1fXYC/+CFHnFUPOKfK//8K1vZ4plsAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-use-coding",
-      "locale": "en",
-      "title": "How to Use Coding",
-      "summary": "Coding is the process of creating a set of instructions for a computer to follow. This is typically done with a computer programming language like Python, Java, or Ruby. It teaches your child to think critically, solve problems, and break down complex ideas into simpler, more manageable parts. The number of people interested in learning to code rising every year, coding is quickly becoming a marketable skill. It is an excellent skill to introduce your child at an early age. It challenges your child’s creative ideas and forces them to break down their ideas.",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,t,e)=>t in o?u(o,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[t]=e,a=(o,t)=>{for(var e in t||(t={}))r.call(t,e)&&l(o,e,t[e]);if(n)for(var e of n(t))s.call(t,e)&&l(o,e,t[e]);return o},c=(o,t)=>y(o,h(t));var d=(o,t)=>{var e={};for(var i in o)r.call(o,i)&&t.indexOf(i)<0&&(e[i]=o[i]);if(o!=null&&n)for(var i of n(o))t.indexOf(i)<0&&s.call(o,i)&&(e[i]=o[i]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var i=e,{components:o}=i,t=d(i,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),t),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/java-performance-tuning.png",
+      "imageSrc": "/articles/java-performance-tuning.png",
       "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZwC7AEQ/c9pFGYAAP7+Ld91k4CuTWLekqwAee8v9Jz16HjQngQDcCNwgw6K/2AMPsYKLLSo6txnXk076MriagAAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -60,7 +28,6 @@
       "slug": "java-performance-tuning",
       "locale": "en",
       "title": "Java Performance Tuning",
-      "summary": "You should measure your application’s performance before tuning the JVM. The first thing we’ll discuss when it comes to tuning is heap size. Caching bytecode for your entire app can cause issues if two or more different classes need to be compiled at the same time. Adding fast-path code to your Java code can help improve performance by eliminating the overhead of creating a new thread for every call it’�s created. Use API'path code in Java code that will be used often, and others will only be used occasionally.",
       "intro": {
         "compiledSource": "var m=Object.defineProperty,f=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var s=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&s(e,t,a[t]);if(n)for(var t of n(a))c.call(a,t)&&s(e,t,a[t]);return e},p=(e,a)=>f(e,h(a));var u=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&c.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
@@ -68,39 +35,97 @@
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/go-language-for-machine-learning.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAEIeXpocU9oAA/vzR7ddgQQMcGxncC7bveJfwQDgusr3hXc3tT0FA7+QMf3HVT+yn2BC7f3Khqr/8q0CObAwLX+XRTC4abf/Sm/v/ITKV/y0P4AAAAA==",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJbACdLoAAxzaHsJPWaIAAP71/zZDpSfSk3/Rt56yHo4Y/MOgrztyAbxft3dsm43VSENeNHS39esdfFfyZgmsG0dx9Qn+L+QYY8a9cFhVtH77LQWqa2V9LbH/0O3WP+Trf8N1za3mf/m4dYwO8A//cu/8QH1XTs3U+5l4AAA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-machine-learning",
+      "slug": "python-the-language-for-artificial-intelligence",
       "locale": "en",
-      "title": "Go Language for Machine Learning",
-      "summary": "Data cleaning and preprocessing, text analysis, regression and forecasting, machine learning and machine learning are all Go alternatives. Go is a great option for each of these scenarios, and we have explored the strengths and weaknesses of Go as a programming language. We have outlined the requirements for a tool that can be used to implement various machine learning algorithms, such as machine learning for computer vision, and the strengths of the language Go is best suited for these scenarios. We also have explored why Go is the perfect language for each scenario, and why we chose it.",
+      "title": "Python - The Language for Artificial Intelligence",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,n)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&l(e,n,o[n]);if(a)for(var n of a(o))r.call(o,n)&&l(e,n,o[n]);return e},h=(e,o)=>d(e,p(o));var c=(e,o)=>{var n={};for(var t in e)s.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&r.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))r.call(t,n)&&u(e,n,t[n]);if(i)for(var n of i(t))s.call(t,n)&&u(e,n,t[n]);return e},g=(e,t)=>c(e,p(t));var l=(e,t)=>{var n={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&i)for(var o of i(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=l(o,[\"components\"]);return mdx(MDXLayout,g(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJZQCw7EPCKqHJiAA/vazi/03h+b6Vl6VZefSq7uBLR4F4Tk/nhQMjn1u6GHNKlHN9fSWXGy/a5rDzu2zWP3+CHmO33Up5pMcoBBt4uAAAA==",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJYgCdADx9zeOAAD+6l3VV/Ib3QNOxsNfz/rnNt2+wN8qymH3Hw77b6LVcfWamT7K28Zx/hpN8tEDJaffoCoouqYfinkijsUfYnj/jvPjlTsjfnVTT9B92q6VoYPI8F+6MwN/exYgAAAA",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-debug-your-code-like-a-pro",
+      "slug": "python-the-language-of-science",
       "locale": "en",
-      "title": "How to Debug Your Code like a Pro",
-      "summary": "Kano Analysis is a 5-stage model of product satisfaction. It was developed by Professor Noriaki Kano as a way to organize customer expectations of what a product will do for them. Stage 1 - Basic requirements - These are the basic features that need to be implemented in order for the product to be considered useful. Stage 5 - Frustration - A feature that is missing, broken, or doesn’t work as expected. Stage 4 - Necessities - These. are features that are nice to have but not essential but help solve a specific problem.",
+      "title": "Python - The Language of Science",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&u(e,n,o[n]);if(t)for(var n of t(o))s.call(o,n)&&u(e,n,o[n]);return e},d=(e,o)=>c(e,h(o));var g=(e,o)=>{var n={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&t)for(var a of t(e))o.indexOf(a)<0&&s.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,o=g(a,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,s=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(a)for(var n of a(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>h(e,y(t));var g=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=g(o,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoKAAoAAUAmJZwAAl1xD//EAAD++ng7B5o+7A33IM9m++1vGKLGSpiwn+CxrX5xswktkx2PPenx2b/CZkztyQzn+EL77C590AeL43AA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,y=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?h(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))i.call(n,t)&&d(e,t,n[t]);if(a)for(var t of a(n))s.call(n,t)&&d(e,t,n[t]);return e},c=(e,n)=>y(e,l(n));var u=(e,n)=>{var t={};for(var o in e)i.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&a)for(var o of a(e))n.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAELX9QvWjUQAP79KUwXfp/ymKskxIKjXp99l43/hwL3vSa6HV9bpoc8Lx+PYX/MGO2uIJu2uZYg+Q/h1ofZm7pXMb8NH3R8qh3B392/3cAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,f=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,r)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[o]=r,a=(e,o)=>{for(var r in o||(o={}))n.call(o,r)&&c(e,r,o[r]);if(t)for(var r of t(o))i.call(o,r)&&c(e,r,o[r]);return e},d=(e,o)=>f(e,u(o));var l=(e,o)=>{var r={};for(var s in e)n.call(e,s)&&o.indexOf(s)<0&&(r[s]=e[s]);if(e!=null&&t)for(var s of t(e))o.indexOf(s)<0&&i.call(e,s)&&(r[s]=e[s]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var s=r,{components:e}=s,o=l(s,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJbACdAELS4dqAADeZH0wur2UjlNc3z4T0+++6ABSFOVT3H//0CvYUyPn53fc8GPt9F10p0bfSMf9cu3/6/2o6a07ROJ/8tX0k2p+NgAv+JyV5VTiYAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-hibernate-application",
+      "locale": "en",
+      "title": "Building a Hibernate Application",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&l(e,a,t[a]);return e},u=(e,t)=>d(e,b(t));var h=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=h(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAQCdASoKAAoAAUAmJYwCdH8AE1t6mgD++pz34MG2fMD2fR8JxXl9Rv3x4T3zFx2eJhY/XUcwoj6/Xbyn4v8Hl5aOO2aysi+Bo3ZLd2PDg1jqjZXz6U1iBzPvYKOsIaCGgD0qZ3G9wx3B1HqBQo0xmsR/NfgAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,s=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>d(e,g(t));var l=(e,t)=>{var n={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&r.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
       "imageSrcBase64": "data:image/png;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAAUAmJQBOgCHhuYTkgAD++8z7GSHsl8sTmh/RXv3yh96W4kOm0c/wb4jdmVfjgSoBfO1bH4IohjAAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -108,7 +133,6 @@
       "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
       "locale": "en",
       "title": "The Most Common Coding Mistakes and How to Avoid Them",
-      "summary": "There are many ways to check for errors using the “debugging” feature of your chosen programming language. It’s best to create a variable for every element you want to represent. If you don’t give your variables a new name or “re-scope” them, they will conflict with other variables, causing errors. Conditional statements can be very helpful, but overusing them can cause problems. You can only do so much to avoid errors with minimal disruption to your project.",
       "intro": {
         "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&c(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&c(e,t,o[t]);return e},m=(e,o)=>y(e,h(o));var l=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=l(r,[\"components\"]);return mdx(MDXLayout,m(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
@@ -116,65 +140,31 @@
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/building-a-javaserver-faces-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJagCdAELVaFkGtQAAP5sntvpIL9ilkrS+9nAfva0LreRNNsxgytB+kVG7+IVW/+tdF9gbqddTtS235yE37Em5mg/p4lxtbJSMcjPal3pVcEZMCP1/nXD+MmdrRFZ674Hl/7k5wU3WDS/xhKdZ8Wd/Zbrv8BeBXAAAA==",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCw7EsTAW8AAD+/bpInbikdySjF438xr0S9xESa3mmfjXenv4wz9+3n+48ySau8EmHOvok/+u5FUBQU/1Cc/9GLj/VDB1hsAbY+BP737NFhKy5cn3AAAA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "building-a-javaserver-faces-application",
+      "slug": "python-the-language-for-system-administration",
       "locale": "en",
-      "title": "Building a Javaserver Faces Application",
-      "summary": "In this tutorial, we will create a simple JavaServer Faces application with a single view and a few managed beans. This application will contain a form that accepts a user input, and once submitted, the application will display the data entered by the user. The data can be stored in JavaBeans-like fields and can be manipulated in the same way as regular editors and validators. We will also define a simple bean-scoped bean-managed bean-entry method and define a view.",
+      "title": "Python - The Language for System Administration",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))r.call(a,n)&&c(e,n,a[n]);if(o)for(var n of o(a))s.call(a,n)&&c(e,n,a[n]);return e},l=(e,a)=>p(e,h(a));var d=(e,a)=>{var n={};for(var t in e)r.call(e,t)&&a.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&o)for(var t of o(e))a.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,a=d(t,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(o,e,t)=>e in o?c(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,a=(o,e)=>{for(var t in e||(e={}))i.call(e,t)&&l(o,t,e[t]);if(s)for(var t of s(e))r.call(e,t)&&l(o,t,e[t]);return o},m=(o,e)=>d(o,h(e));var u=(o,e)=>{var t={};for(var n in o)i.call(o,n)&&e.indexOf(n)<0&&(t[n]=o[n]);if(o!=null&&s)for(var n of s(o))e.indexOf(n)<0&&r.call(o,n)&&(t[n]=o[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:o}=n,e=u(n,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/working-with-files-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJbACdLoB+AH4gAKURcDQAP6r5fkQZDHnJjPN3oz4ZkfChB9PcxrEwZmZpuH57KRrWUANvwvKUIbhPkm6dnmA//GJDf9wHz5gnemFD+rt/9DwAf+Z2/E2rOsuXr8KapD/rYAA",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJYwCdAaVbm8ZNEyKtqmGAAD+9nvTSlKnXftAHn/sbPPMt7Qucj3PrxroGKlRG2pLv/n3OZvw1f0y+le8M4H7oDrIc5VsPvtRtij6Bf4VSZe09nWqQMAA",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "coding",
-      "slug": "working-with-files-in-java",
+      "slug": "how-to-improve-your-coding-skills",
       "locale": "en",
-      "title": "Working with Files in Java",
-      "summary": "The “New” command creates an empty file for you. If you want to create a file and fill it with some data, you can do so with the “Append” function. You can also update an existing file with a new version of itself, e.g. “example.txt” If the file is a “system file”, it cannot be deleted. The syntax for this is “reconstructing’s” and “dealing’ing files is the same syntax.",
+      "title": "How to Improve Your Coding Skills",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,m=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))r.call(t,o)&&l(e,o,t[o]);return e},u=(e,t)=>m(e,c(t));var g=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=g(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Working with files is something that entry-level programmers don\\u2019t get to do very often. It\\u2019s not the most exciting part of software development, but it\\u2019s an important one. The file system is the cornerstone of almost every program you use on your computer. Working with files in Java can seem a little counterintuitive at first. Once you understand what makes it different from other programming languages, it becomes much clearer.\nWorking with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new \"File\" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-best-coding-tricks-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJZQC7AEPDU92kAAA/voKvFyRneM/qz8Qe+tof3HCgQVc/1hbfSWhpmkkxV6uee2S7RwH4yTFd3Zh6mONsjO3RJYRs2T0TgIwLJ64B5WngajGy2m/1Qq/6ppMMdYA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-tricks-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Tricks for Beginners",
-      "summary": "You don’t need to know everything about coding before you even begin. You can start with a simple application like a calculator that asks you to type in mathematical equations like 2+3 to find out the answer of 5+3. The best way to find and fix errors in your code is to use a debugger. Use for-loops when you’re working with arrays or collections because they are easier and more efficient than if-else statements. Use conditionals when making decisions based on certain values.",
-      "intro": {
-        "compiledSource": "var h=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&c(e,o,t[o]);if(s)for(var o of s(t))i.call(t,o)&&c(e,o,t[o]);return e},u=(e,t)=>l(e,y(t));var d=(e,t)=>{var o={};for(var a in e)n.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=d(a,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-secrets-of-great-coders.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAQCdASoKAAoAAUAmJZgCdADZW/FQMAD++qPw2+pBv8a/fnrtiF3ttlT1Vl84TaSOANsfn/9Pzl0iuwwN3J/ExufRBxkDm3/5vpOmcYm343Y5QXjJyeu89EU//BPz7/MD2vLn4D70LEzjytk6ZCfwV/rQ+/qbYAd+7q/g25gAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-secrets-of-great-coders",
-      "locale": "en",
-      "title": "The Secrets of Great Coders",
-      "summary": "Programmers who get caught up in the details of the work often find that they are not able to see the big picture. Great coders write code with a clear and specific purpose. If you want to become a great coder, you must be passionate about learning. Great programmers know which parts of their work matter and which parts don’t. Being cocky without being cocky is difficult to walk the line to walk, but being confident is a key to being a great programmer.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&h(e,o,t[o]);if(a)for(var o of a(t))i.call(t,o)&&h(e,o,t[o]);return e},c=(e,t)=>l(e,u(t));var m=(e,t)=>{var o={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&i.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=m(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var g=Object.defineProperty,y=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,e,n)=>e in o?g(o,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):o[e]=n,a=(o,e)=>{for(var n in e||(e={}))r.call(e,n)&&l(o,n,e[n]);if(i)for(var n of i(e))s.call(e,n)&&l(o,n,e[n]);return o},d=(o,e)=>y(o,m(e));var u=(o,e)=>{var n={};for(var t in o)r.call(o,t)&&e.indexOf(t)<0&&(n[t]=o[t]);if(o!=null&&i)for(var t of i(o))e.indexOf(t)<0&&s.call(o,t)&&(n[t]=o[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:o}=t,e=u(t,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

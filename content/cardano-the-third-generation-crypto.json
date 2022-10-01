@@ -1,9 +1,9 @@
 {
   "category": "crypto",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/cardano-the-third-generation-crypto.png",
+  "imageSrc": "/articles/cardano-the-third-generation-crypto.png",
   "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJaQAAvaf/w/bPwAA/v24H3n+EGR+ZR8AEX8zuMt8SEP8vS3qoSlrNz+Zbf/9Cawfh9Saveo09D/woVudRCkAbDWbvrpZ+RHiMPIAAAA=",
-  "createdAt": "2022-10-01T11:39:32.534Z",
-  "updatedAt": "2022-10-01T11:39:32.534Z",
+  "createdAt": "2022-10-01T12:14:11.902Z",
+  "updatedAt": "2022-10-01T12:14:11.902Z",
   "categoryLocal": "crypto",
   "slug": "cardano-the-third-generation-crypto",
   "locale": "en",
@@ -20,119 +20,7 @@
   "relatedArticles": [
     {
       "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-promise-of-blockchain-technology-for-business.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJbACdLoAAwxRZqP9AAD++KbTUa3gBfqX2WHRZX5/9Rv1fiRUuEdVHOhTUdMt3G8yLV8J/fid2k2hjct51VuLcQK3q47hrln/80VSih+n26yuf8tHmhbs3/2fnJ/3R/wGKutrcBSWwSy0RAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-promise-of-blockchain-technology-for-business",
-      "locale": "en",
-      "title": "The Promise of Blockchain Technology for Business",
-      "summary": "The concept of decentralized ledgers can be applied to many different industries and use cases. The technology is primarily used for peer-to-peer transactions. It is designed to be secure, transparent, and highly resistant to data modification. The distributed nature of blockchain networks makes them incredibly difficult to hack. With blockchain, companies can exchange sensitive data without relying on third parties. This can significantly reduce costs and increase trust. We expect blockchain technology to become widespread within the next decade as more businesses implement it and technological limitations are resolved.",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,n,o)=>n in e?l(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,i=(e,n)=>{for(var o in n||(n={}))a.call(n,o)&&h(e,o,n[o]);if(s)for(var o of s(n))r.call(n,o)&&h(e,o,n[o]);return e},u=(e,n)=>p(e,g(n));var c=(e,n)=>{var o={};for(var t in e)a.call(e,t)&&n.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&s)for(var t of s(e))n.indexOf(t)<0&&r.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,n=c(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`As the world becomes increasingly digital, businesses are facing new challenges and opportunities. From cyber threats to AI, there is no end to the stream of new technologies. As a result, businesses need to stay ahead of the curve by identifying which innovations could have a positive impact on their business, and how they can leverage them to optimise operations and drive value.\nWith so many emerging technologies, it can be challenging for businesses to know where best to focus their innovation efforts. Fortunately, there are plenty of potential areas for innovation that have the potential to have an impact on your business. After exploring several emerging technology trends and reviewing numerous outside sources, we found that blockchain technology stands out as one of the most promising innovations for businesses in almost any industry.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-promise-of-blockchain-technology.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdLoAAv4vZweKjpgAAPlp2nueUZonkoC3g7+wMx7KIDQQxMmeelXArK+XnmpOvgwBuoybTHAda6mvo/ne2nWeMTiH3T/44sJNq8Zqdl3J0OTP2d+wmrdsNgZCiKQAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-promise-of-blockchain-technology",
-      "locale": "en",
-      "title": "The Promise of Blockchain Technology",
-      "summary": "Blockchains are encrypted, distributed ledgers that use a consensus mechanism to verify and validate transactions. They can be open (public) or closed (private) Blockchains can be used to record financial transactions, or other types of transactions that require integrity and authentication. The decentralized networks of blockchain can process data significantly faster than traditional networks because it doesn’t have to be approved by a single authority. In order to realize these benefits, businesses will need to fully embrace blockchain as a core part of their operations.",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,s=(e,o)=>{for(var n in o||(o={}))a.call(o,n)&&c(e,n,o[n]);if(i)for(var n of i(o))r.call(o,n)&&c(e,n,o[n]);return e},l=(e,o)=>p(e,g(o));var h=(e,o)=>{var n={};for(var t in e)a.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&i)for(var t of i(e))o.indexOf(t)<0&&r.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=h(t,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The world is becoming increasingly digital and connected. As a result, businesses and consumers alike are recognizing the potential of Smart Technologies. Organizations are looking to implement new solutions that can streamline operations, cut costs, and drive innovation. In response to this growing demand for Smart Technology, blockchain is emerging as a promising solution.\nCrypto-currencies like Bitcoin have received a lot of attention recently because they use blockchain technology as their foundation \\u2013 something called a \\u201Cproof-of-work\\u201D mechanism that validates transactions on the network through verification by many different users. The implications of blockchain go far beyond just these applications though, extending into almost every industry. In this blog post we will explore the opportunities that come from integrating blockchain in your business processes or software development life cycle (SDLC).`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-blockchain-technology-can-improve-your-website.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAgCdASoKAAoAAUAmJbACdGuAwQD9ALMABgWsXwswiAD+0YfIXIx0drfZ+fXf99pe0Qh7vySBztBt6cYosJNZf1+D6laYLqeIc5n+0NmKiYk+cPBqLDNI3cQ7qhGD6Yr/bo0vJf2caQ5UisrT3/7G+xOubo3//68EpHKi10XQhP0ZAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "how-blockchain-technology-can-improve-your-website",
-      "locale": "en",
-      "title": "How Blockchain Technology Can Improve Your Website",
-      "summary": "A blockchain is a distributed ledger that enables people and organizations to collaborate and transact with each other in new ways. It’s a technology that can be applied and used in many different industries such as healthcare, financial services, transportation, logistics, supply chain and more. Blockchains are designed to be transparent and unchangeable, so that individuals can trust each other even if they don't know each other. The decentralized nature of the system means that no single entity controls the system. The system can’t be altered or hacked because each block is linked to the previous block.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,n)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&h(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&h(e,n,t[n]);return e},c=(e,t)=>p(e,u(t));var l=(e,t)=>{var n={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&r.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, businesses are struggling to keep up with the pace of digital transformation and the growing expectations of their customers. There is a general feeling that something big is about to happen. The Internet as we know it is changing, and new ways to use data are being invented every day. In this rapidly shifting landscape, blockchain technology stands out as one of the most disruptive innovations.\nBut what exactly is blockchain technology? In a nutshell, it\\u2019s a decentralized ledger that stores information in places called blocks. Whenever someone wants to add information or a transaction to the ledger, they first need to verify themselves by supplying proof of identity. Each block also has its own unique identifier known as a hash. These identifiers help track information easily without having to store an entire copy of each block, which reduces space significantly and speeds up data transfer speeds significantly.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-potential-of-blockchain-technology-for-startups.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFgzwbKQAAP7rjr08Z4QKDu8WsrWqGq39+4VpkcbNexeT/cUsCmfu3H/8Gg65VKh8WIsZD4s9/+F/AAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-potential-of-blockchain-technology-for-startups",
-      "locale": "en",
-      "title": "The Potential of Blockchain Technology for Startups",
-      "summary": "A company must create a network of computers that are linked together and accessible to one another via a shared digital ledger that records every transaction that takes place. This ensures that all computers can see the same information and that no single system is able to gain too much power or control over the networks that it’s linked to. There are blockchain services available that allow startups to harness the power of blockchain without needing to build their own infrastructure. These blockchain services can be used in a variety of different ways.",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&c(e,n,t[n]);return e},h=(e,t)=>p(e,f(t));var l=(e,t)=>{var n={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&r.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The past few years have been a time of massive shifts in the way we interact with technology and each other. Online communities have grown to be more accessible and responsive than ever before, leading to speedy innovations and a high level of trust among users. At the same time, new technologies such as artificial intelligence, blockchain, and virtual reality are changing the ways we think about apps, projects, and processes moving forward.\nWith so many different factors at play, it can be difficult for startups to know where they should focus their efforts first. Many companies have taken an interest in blockchain technology recently because its decentralized nature makes it an appealing option for creating secure online communities without the risk of a single entity having too much control over members or their data.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/eos-the-decentralized-operating-system.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJYwCdAEPDsFotVQAAP78C73+fs148HsVUoulaTgdwMv2fI54/aPftvJBNnV713elUkR8Zy/UuMPJ9op/8YhJuVXXgXVFTSCFotB/81vj5XNQiAAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "eos-the-decentralized-operating-system",
-      "locale": "en",
-      "title": "Eos: The Decentralized Operating System",
-      "summary": "EOS is a blockchain platform that allows developers to build and deploy decentralized applications (dApps) The EOS software is open source and developers can build on the platform for free. EOS tokens are the native tokens of the EOS blockchain. The main EOS token is on the Binance exchange where you can buy and sell it as much of it as long as you want. The platform is currently trading at $5.13 according to CoinMarketCap as of July 13, 2019.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var r=(e,t,o)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&r(e,o,t[o]);if(a)for(var o of a(t))c.call(t,o)&&r(e,o,t[o]);return e},l=(e,t)=>h(e,u(t));var p=(e,t)=>{var o={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&c.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=p(n,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`New technology is always built on old foundations, reacting to what came before and building new ideas on top of it.\nEOS is a new blockchain operating system designed with neglected attributes in mind: speed, scalability, and user experience. It\\u2019s the fifth generation of blockchain technology, built to tackle the limitations of previous generations with an end goal of mass adoption.\nEOS is not simply another cryptocurrency\\u2014it\\u2019s a third-generation blockchain that functions as a decentralized operating system, introducing new concepts and mechanics from software development as a service (SaaS) applications like Salesforce or Google Docs. In this article, we explore exactly what that means for you as an EOS token holder and potential investor.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/ethereum-classic-the-original-ethereum.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAgCdASoKAAoAAUAmJbACdLoB+AH4gIIWBkiWi31QQAD+6zbzmJh0/E8rie4rSPH/u9ceC9GZhvP2xTxmbDEnhoK2egsCTbo8GVW7aC9o0LeL//VL8Y/PpQsPoVHV7deCZ2zxz/+tOO6P6gPfxU/66N7bla/f7/Ki1jZno5f3SAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "ethereum-classic-the-original-ethereum",
-      "locale": "en",
-      "title": "Ethereum Classic: The Original Ethereum",
-      "summary": "ETC (ETC) is one of the top 10 cryptocurrencies on the market today, with a market cap of almost $6 billion. It's the world’s 14th most valuable digital asset, and the original Ethereum network. It is an excellent choice for investors who agree with the initial ETH developers’ decision to reverse the DAO hack. ETC supporters didn’t want to change the original blockchain because such an action would be a violation of blockchain principles. It operates on a different consensus mechanism, which is not as advanced or optimized.",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&l(e,o,t[o]);return e},c=(e,t)=>d(e,m(t));var h=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=h(a,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Ethereum is the world\\u2019s leading blockchain for smart contracts. It brought about a new wave of decentralized applications that no one could have imagined in the early days of cryptocurrency. Ethereum has also proven to be an invaluable source of inspiration for other projects that are trying to build similar platforms with different objectives and features. One such project is Ethereum Classic (ETC). Although it might sound like another version of Ethereum, it is actually a continuation of the original Ethereum software, which was later on referred to as \\u201CETH\\u201D when its token achieved its own market cap and ticker symbol.\nEthereum Classic is essentially the original Ethereum codebase but with unrestricted miner checks, increased gas costs, and general code optimisations. Think of ETC as the anti-ETH; a blockchain that allows developers to deploy applications without any possible malicious interference from miners or anyone else who may control ETH in the future. Below you will find all you need to know about Ethereum Classic, how it differs from \"new\" Ethereum, and how you can buy ETC.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/ripple-the-new-bankers-coin.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAADQAgCdASoKAAoAAUAmJbACdLoAEJL+shgaFjb1UhngAP6T2eOm9w8B41w8rYtKzmC5Iu3aYhZobtnTQNm7620q7sYeOn4VUC0JmVA/2blkad2vMQUDBHwCh6uGHhaL0+m8NgvMs2962rpas3J/rOvKN/B/eB43u8TWIOQAMr/6bG6//cB2zj/bb3wf+1IffFDdf998P7hAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "crypto",
-      "slug": "ripple-the-new-bankers-coin",
-      "locale": "en",
-      "title": "Ripple: The New Banker's Coin",
-      "summary": "Ripple is a real-time gross settlement system, currency exchange, and remittance network. It was created in 2012 to enable seamless, low-cost, global financial transactions between banks and financial institutions. At the time of writing, one Ripple coin is worth nearly $3.00 - up from just $0.006 in January 2017. The value of Ripple has grown tremendously over the past year and is showing no signs of slowing down. If you want to buy Ripple, you’ll need to first buy another cryptocurrency, like Bitcoin or Ethereum, and then trade it for Ripple.",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&h(e,t,o[t]);if(a)for(var t of a(o))s.call(o,t)&&h(e,t,o[t]);return e},c=(e,o)=>l(e,p(o));var y=(e,o)=>{var t={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&a)for(var n of a(e))o.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=y(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The world of cryptocurrency can be pretty overwhelming for newcomers. However, there are many reasons why this digital money is gaining popularity with investors and leading financial institutions. The blockchain-based token economy has the potential to revolutionize the way we handle money and make transactions as a global society.\nIf you have been looking into getting involved in the cryptocurrency market, you may have noticed that there are hundreds - perhaps even thousands - of different coins available. Most of them have weird names, strange logos, and even stranger marketing tactics. It\\u2019s enough to drive anyone mad. But don\\u2019t worry; we\\u2019re here to help get you up to speed on one of the most talked-about cryptocurrencies out there: Ripple (also known as XRP).`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-potential-of-blockchain-technology-for-business.png",
+      "imageSrc": "/articles/the-potential-of-blockchain-technology-for-business.png",
       "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAEPBeuqh/2AAP75/ap3fW4//Y0e0UADzT6aaeyoDFQRNR3ugvXeSnouB6jRNW4H/3DL9T/HvsC2b+Cz//dkmA2v9Df//ybL/k2BBqUuIuAAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -140,7 +28,6 @@
       "slug": "the-potential-of-blockchain-technology-for-business",
       "locale": "en",
       "title": "The Potential of Blockchain Technology for Business",
-      "summary": "A blockchain is a decentralized network of computers that record and verify transactions. Each computer has a list of all transactions that have occurred on the network since it was created. These computers also update everyone’s account balances to reflect the transaction. It can help businesses in essentially any industry track and resell their digital assets. There are many other ways to help businesses, including smart contracts, digital identity management, smart contracts and tracking assets with the help of the blockchain technology. The technology can help you create a decentralized database where you can track everything from items and software to employees and contractors.",
       "intro": {
         "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,n=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&c(e,a,t[a]);if(s)for(var a of s(t))i.call(t,a)&&c(e,a,t[a]);return e},l=(e,t)=>y(e,d(t));var h=(e,t)=>{var a={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&i.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=h(o,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the digital age, businesses need to create new digital assets faster and more efficiently than ever before. That\\u2019s because these assets are now the basis of most modern businesses and services. The value of these assets isn\\u2019t just in their practical use; it\\u2019s also in their resale potential, or secondary market value.\nUpgrading your business with blockchain technology can help you create, track, and resell your digital assets like never before. Blockchain is a decentralized network that creates a ledger of all transactions that are verified by members of the network. These networks are most commonly seen in cryptocurrencies like Bitcoin, but they have many other uses as well.\nBlockchain technology has the potential to streamline almost any industry, from finance to retail to even healthcare. If you want to know more about how blockchain can upgrade your business, keep reading for insight on the potential of blockchain technology for business.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
@@ -148,33 +35,136 @@
     },
     {
       "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/stellar-the-banking-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJbACdLoAAwi2dOstSAAA/vfeisJm9Q9/wLmGG8yukxC4zRc8xJenO/sR8HlS6andVY9+8/0MOas/zam/pCMkOloX+ncZ9QxJqRghYsol7e+x/+TQsljANpexCLPP6avyd/Jv8Zf/hiQNvqbvbncUHSiG8otoAAA=",
+      "imageSrc": "/articles/bitcoin-private-the-privacy-focused-bitcoin.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdLoAAuaAnbhmRAD5f0/DhuOz23YdhW1vC/8s1ob3WhfXtZ6eJvUx/lqtYddjo291LwUDIuOkQoaqyYf5Pp+P+drSt7Pw9+Bf3lSRapDPmXWEa8Mdo//U+wuK/g9b3/14F2Imv+6fBn7cfme2NZAAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "crypto",
-      "slug": "stellar-the-banking-crypto",
+      "slug": "bitcoin-private-the-privacy-focused-bitcoin",
       "locale": "en",
-      "title": "Stellar: The Banking Crypto",
-      "summary": "Stellar is a blockchain protocol that facilitates cross-border payments. The network is decentralized, meaning it is not owned or managed by any single authority. The protocol is designed to facilitate low-cost and quick transfers between two parties. Stellar can process about 1,000 transactions per second, making it one of the fastest decentralized exchanges in existence. It also supports the creation of “asset-backed” tokens that represent real-world assets like gold coins, company stock, or real estate. In 2015, Stellar was used to facilitate a $100 million payout from WalMart.",
+      "title": "Bitcoin Private: The Privacy-Focused Bitcoin",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))i.call(t,o)&&l(e,o,t[o]);return e},h=(e,t)=>y(e,p(t));var c=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=c(a,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`With the first quarter of 2018 coming to a close, now is a good time to take stock of which coins are primed for growth in the coming year. In this post, we\\u2019ll take a look at Stellar, an under-the-radar crypto that could break out in Q2 and beyond.\nWe know it\\u2019s still early days for crypto, but we think there\\u2019s also genius insight locked away in these digital tokens. So much of what makes a coin great doesn\\u2019t come from its technology or usage as much as its real-world potential.\nWhen evaluating a cryptocurrency for long-term investment, we ask ourselves: How does this token solve a real problem? Does it have the potential to be adopted by many users? Is there an opportunity for this coin to appreciate in value? If you can answer yes to all of these questions, you may be interested in investing in Stellar \\u2014 here\\u2019s why:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,n,i)=>n in e?h(e,n,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[n]=i,a=(e,n)=>{for(var i in n||(n={}))s.call(n,i)&&c(e,i,n[i]);if(t)for(var i of t(n))r.call(n,i)&&c(e,i,n[i]);return e},l=(e,n)=>d(e,p(n));var u=(e,n)=>{var i={};for(var o in e)s.call(e,o)&&n.indexOf(o)<0&&(i[o]=e[o]);if(e!=null&&t)for(var o of t(e))n.indexOf(o)<0&&r.call(e,o)&&(i[o]=e[o]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var o=i,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Bitcoin has grown from a small network of geeks into the world\\u2019s leading cryptocurrency. With a market capitalization of over $115 billion, Bitcoin has come a long way. But it is not without its problems. The prevalence of centralized exchanges and custodial services, as well as recent price manipulation, have raised serious trust issues among users and potential users of the virtual currency.\nMoreover, with institutions, governments and individuals increasingly recognizing the value of digital tokens, crypto-anarchists are becoming concerned that Bitcoin may not be sufficiently anonymous to protect against intrusion from authorities or intermediaries (e.g., exchanges and data brokers). This has led to an increase in demand for privacy-focused cryptocurrencies\\u2014 known as \\u2018privacy coins\\u2019\\u2014 like ZCash, Dash and Monero.\nThankfully, there is also a solution within this problem: Bitcoin Private (BTCP).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/bitcoin-vs-ethereum-which-is-the-better-investment.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoAAwh63f/DQAD+5nvfqtQzP666BMvQeLMuikSOKQgh+fUPjIFJ3+nUDsfrw1r8LpQSevAv9/Hv5OV/QfL/85YD134//Huv+cB/Lw5f+zhj/yb/+yshPH+mh7wj/01J1wAAAA==",
+      "imageSrc": "/articles/the-benefits-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJbACdLoAAw6FjHUk05gA/vfNMs/NsYFKbPSGPYsST5p80lxZ0DdGkoZPdqiX8+hwVRz7bQFyfhfvQhpnkIXxi7m63bSVDuEBEoX0h3NmSu4ZgBMv/uE84iZxNbf9aIAsj/rZiM2/vBeypfO2eg40MyQ4AA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "crypto",
-      "slug": "bitcoin-vs-ethereum-which-is-the-better-investment",
+      "slug": "the-benefits-of-blockchain-technology-for-startups",
       "locale": "en",
-      "title": "Bitcoin Vs Ethereum: Which Is the Better Investment?",
-      "summary": "Bitcoin is a type of “token” that is built on the “proof-of-work” network. Meanwhile, the \"Eminium\" network allows developers to build applications on the network. Both of these virtual currencies were created using blockchain technology. And they each have a finite supply that is expected to be released over time. Bitcoin's price has been around since 2009, and its price has risen steadily since 2011. Bitcoin’s supply is fixed, which means that the token can be exchanged for a wide range of assets.",
+      "title": "The Benefits of Blockchain Technology for Startups",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))i.call(t,o)&&h(e,o,t[o]);return e},l=(e,t)=>u(e,p(t));var y=(e,t)=>{var o={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=y(a,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Both Bitcoin and Ethereum are cryptocurrencies that have grown in popularity, availability, and usefulness over the last few years. Both of these digital assets have also proven to be profitable for investors. But which is the better investment: Bitcoin or Ethereum?\nWith so many similarities between these two virtual currencies, it\\u2019s easy to see why some may wonder which one is more valuable. After all, both are built on blockchain technology; they are both available as a digital token; and they are both used as payment in some cases.\nHowever, when we take a deeper look at how these two different types of tokens operate and what sort of potential they have long-term, it becomes clearer which one is likely to be worth more money.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,a=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&u(e,n,o[n]);if(i)for(var n of i(o))s.call(o,n)&&u(e,n,o[n]);return e},c=(e,o)=>p(e,d(o));var y=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&i)for(var t of i(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=y(t,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the past few years, we\\u2019ve seen a rapid increase in the number of businesses implementing blockchain technology. The benefits offered by this game-changing digital ledger and database are too numerous to ignore. However, with so many companies adopting blockchain technology, it can be difficult to keep track of all the different ways it can be used. If you\\u2019re currently working on your own business or startup idea, you might be wondering if blockchain is something you should aim to implement in your company.\nDo you need a complex network of nodes and miners to verify transactions? How about consortiums of pre-approved users who can access different levels of information based on their membership? Are you trying to avoid a third party intermediary like banks or brokers? If any of these apply to you and your business, then blockchain technology might just be what you\\u2019re looking for!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-potential-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFgzwbKQAAP7rjr08Z4QKDu8WsrWqGq39+4VpkcbNexeT/cUsCmfu3H/8Gg65VKh8WIsZD4s9/+F/AAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-potential-of-blockchain-technology-for-startups",
+      "locale": "en",
+      "title": "The Potential of Blockchain Technology for Startups",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&c(e,n,t[n]);return e},h=(e,t)=>p(e,f(t));var l=(e,t)=>{var n={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&r.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The past few years have been a time of massive shifts in the way we interact with technology and each other. Online communities have grown to be more accessible and responsive than ever before, leading to speedy innovations and a high level of trust among users. At the same time, new technologies such as artificial intelligence, blockchain, and virtual reality are changing the ways we think about apps, projects, and processes moving forward.\nWith so many different factors at play, it can be difficult for startups to know where they should focus their efforts first. Many companies have taken an interest in blockchain technology recently because its decentralized nature makes it an appealing option for creating secure online communities without the risk of a single entity having too much control over members or their data.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-cash-whats-the-difference.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdLoAAwkN7AFIqAAA/uiOXq/BiuaQ7HUeoRhBWuc+P87nLFo/7Xi8Aao8tLikzgAOQvbsvj/DHaG+PYdUQvuSlSg/uE9BbMpnzgyPf/93roI//7ecBB//XrJ4/U9/8RQOpf+FxQdrZL7pqWb8fZywAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "bitcoin-cash-whats-the-difference",
+      "locale": "en",
+      "title": "Bitcoin Cash: What's the Difference?",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))r.call(t,o)&&h(e,o,t[o]);return e},c=(e,t)=>y(e,p(t));var l=(e,t)=>{var o={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The cryptocurrency world is growing fast, and there are so many different digital tokens out there that it's becoming increasingly difficult for a new investor to know where to start.\nNot all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).\nBut which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let\\u2019s take a look at two of the most popular alternative digital currencies and see what sets them apart.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-help-your-company.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJbACdAELYcNXzN8wAP79dG4xKKaGAsB1DXjkIzSzUYcpKhD8+dFSIn4Xhypfmc+Gh2CH/7hl+p/r32BkLL//uzvZq//wuhKf+JCxcDlzMFgA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "how-blockchain-technology-can-help-your-company",
+      "locale": "en",
+      "title": "How Blockchain Technology Can Help Your Company",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,i=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&c(e,t,o[t]);if(s)for(var t of s(o))r.call(o,t)&&c(e,t,o[t]);return e},l=(e,o)=>y(e,h(o));var p=(e,o)=>{var t={};for(var n in e)a.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=p(n,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, almost every company is looking for ways to improve their business processes using innovative technologies. In the process, blockchain technology has grown immensely in popularity due to its potential use cases and applications across industries. Blockchain\\u2019s decentralized nature makes it especially useful for businesses that want to keep user data private, verify identities without third parties, or manage records efficiently.\nIf you are considering introducing blockchain technology into your company, keep reading! We have compiled a list of the top 5 reasons why your business should adopt blockchain technology today. You will also learn about the different types of blockchain solutions available and see some examples of how companies are currently implementing this transformative new technology.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-potential-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJbACdLoAAwxRaeTJTUAA/uhuGVMDki/pZWgocGZXrJSfjDuKzVH8FQKiQQH1yKr7pZz8Nbj2Zm/bxWaBiQzXJJSw5Xfnlf91S9bIYdbfU5/9vfg48PPU4ZBP++DTNm//DyA4f/n1AAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-potential-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Potential of Blockchain Technology",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,o=Object.prototype.propertyIsEnumerable;var l=(e,n,a)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[n]=a,s=(e,n)=>{for(var a in n||(n={}))r.call(n,a)&&l(e,a,n[a]);if(i)for(var a of i(n))o.call(n,a)&&l(e,a,n[a]);return e},c=(e,n)=>u(e,y(n));var h=(e,n)=>{var a={};for(var t in e)r.call(e,t)&&n.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&i)for(var t of i(e))n.indexOf(t)<0&&o.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,n=h(t,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In a world where cyberattacks are increasingly frequent and data breaches now make headlines on a near-daily basis, trust in digital intermediaries has hit an all-time low. Individuals, businesses and even governments are becoming increasingly wary of giving third parties access to their confidential information. This mistrust is understandable, given the potential for cybercriminals to monetize user data for nefarious purposes. As such, there has been a marked interest in technologies that can facilitate the storage and sharing of data while also ensuring its confidentiality and integrity.\nTo that end, blockchain technology presents numerous opportunities for improving how we manage confidential data. In this blog post, we will explore how blockchain technology can help businesses reduce the risk of cyberattacks by securing user data on an individual level rather than a centralized server. Furthermore, we\\u2019ll discuss why blockchain technology is particularly well suited to meet this challenge with enhanced security measures and increased transparency.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/nem-the-smart-asset-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB+AARBZfhmV4qgAD++VNpa76M/GFthLaW6NCCdNlsyp535XzEh/3Gu/oUxc5PTiFtOaVQlE1W4kpcB7/+7TTp/hO/H/5gDvf8wD2vwp1wfID/+QH//CuuNQKlbmL9jQAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "nem-the-smart-asset-crypto",
+      "locale": "en",
+      "title": "Nem: The Smart Asset Crypto",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,s=(e,a)=>{for(var t in a||(a={}))i.call(a,t)&&c(e,t,a[t]);if(n)for(var t of n(a))r.call(a,t)&&c(e,t,a[t]);return e},l=(e,a)=>p(e,y(a));var h=(e,a)=>{var t={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&r.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=h(o,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"New Economy Movement or NEM is a new blockchain technology that aims to revolutionize the way digital assets are managed and recorded. NEM\\u2019s goal is to build a new economy with new digital asset management principles. Different from other cryptocurrencies like Bitcoin, Ethereum, or Neo \\u2013 which use their blockchains primarily as a payment ledger - the NEM blockchain uses an advanced system of smart contracts CoIN tokens, and atomic swaps to manage almost any kind of commercial property. The scope of its potential applications extends far beyond financial transactions. The non-blockchain application of NEM goes much further than just providing another medium for buying and selling things online. Its developers have also created a \\u201Csmart asset\\u201D system that can be used on almost any business, organization, house, car, boat \\u2013 anything you can think of! Let\\u2019s take a look at what exactly makes this crypto so special...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/tron-the-entertainment-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAQCdASoKAAoAAUAmJYwCdADcDOoAAP7+wcKqlPBtS0UNSe/UH88v0b/aPpZ1B4P+TfJ1GeLKn/yqT/QwcDmdd1mjws9a7jRDP+74SX/ghLhBsuIkj2XESRwNbEHrJ7/m4FMPwEApAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "tron-the-entertainment-crypto",
+      "locale": "en",
+      "title": "Tron: The Entertainment Crypto",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))i.call(t,n)&&c(e,n,t[n]);return e},d=(e,t)=>u(e,y(t));var l=(e,t)=>{var n={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&i.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`As the digital world continues to grow and evolve, so, too, do the ways in which we entertain ourselves. Thanks to the Internet and a variety of streaming services, users can access content from almost anywhere\\u2014and at any time. Today\\u2019s entertainment is more accessible than ever before. But as this trend continues to expand, many users are beginning to wonder: Are there better ways to deliver and experience entertainment?\nLately, there has been an explosion of decentralized blockchain-based services that cater to nearly every digital need. From investing and finance to social media and online storage, developers have created various solutions for a variety of needs \\u2014 all through the lens of decentralization. The latest venture in this growing sector is Tron (TRX), an entertainment crypto that offers users a new way to experience entertainment like never before.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/neo-the-chinese-ethereum.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJZACdAEWPbMH5/1JTAAA/u0v4nlM/voFZx3jIq91J6p6CBL80n3WWc1VD9h8R1puMZ3SN+zOdfLlH2EBzIc08jRBRVV+NF42Mx6+nA9rLrEP9FRL+OWE9Wu7DAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "crypto",
+      "slug": "neo-the-chinese-ethereum",
+      "locale": "en",
+      "title": "Neo: The Chinese Ethereum",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&h(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&h(e,o,t[o]);return e},c=(e,t)=>d(e,m(t));var p=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=p(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"EOS and TRON have both recently gained a lot of attention from the cryptocurrency community. While both projects have done so for different reasons, it\\u2019s no secret that both EOS and TRON have been attempting to compete with Ethereum as potential alternatives for developers looking to build decentralized applications (dApps). Both EOS and TRON are often referred to as \\u201Cthe Chinese Ethereum\\u201D due to the similarities in their functionality as well as their focus on becoming the primary blockchain for dApps. However, there are clear differences between these two projects that set them apart from one another. Let\\u2019s take a closer look at NEO and its competition with EOS and TRON.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

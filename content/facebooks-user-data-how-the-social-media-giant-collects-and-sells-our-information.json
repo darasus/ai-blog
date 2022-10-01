@@ -1,9 +1,9 @@
 {
   "category": "technology",
-  "imageSrc": "https://theaipaper.b-cdn.net/articles/facebooks-user-data-how-the-social-media-giant-collects-and-sells-our-information.png",
+  "imageSrc": "/articles/facebooks-user-data-how-the-social-media-giant-collects-and-sells-our-information.png",
   "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJbACdAELzylNW6IAAP72/S3xM1wZz8vbY1hBpHcV98UEgZkzCT4L+O+cfF35M9ivyLhPNrZay+0cQkKe0j8Xi9v+PnpwFnANo+PpFPOSf+5/bt/7/8ZDQUd//vZJ4W4rf8m///By6D/c3/8tBtsAVAA=",
-  "createdAt": "2022-10-01T11:39:42.317Z",
-  "updatedAt": "2022-10-01T11:39:42.317Z",
+  "createdAt": "2022-10-01T12:14:24.497Z",
+  "updatedAt": "2022-10-01T12:14:24.497Z",
   "categoryLocal": "technology",
   "slug": "facebooks-user-data-how-the-social-media-giant-collects-and-sells-our-information",
   "locale": "en",
@@ -20,119 +20,37 @@
   "relatedArticles": [
     {
       "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-future-of-work-telecommuting-and-the-gig-economy.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJbACdAEOmf8OYuKgAP5qlD9w+f7JydD5tGgy4/Rmo9NTp4fy/US8Q6QXfs31vWenyQf8IMystV3+9J4y/l/UWfiE3P/Hzc3+G/M/fpSOX6khzBWy4P/P/x2v/GRi+uA6P/+xvbwEJ/09+Gn1+0vwxAA=",
+      "imageSrc": "/articles/the-future-of-artificial-intelligence-what-it-means-for-us.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoKAAoAAUAmJZACdAEQXMvePQGGKAD++qETTtXJGXygVUakSKhq9x7u2OI/LA59nQXxfLK5RU2Fdf7B+J603D83e6Ky/SuJ7o7HP6C6pmKoDFs4eNcI9u9nwZ/HIyzAgL5vfaMzgAA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "technology",
-      "slug": "the-future-of-work-telecommuting-and-the-gig-economy",
+      "slug": "the-future-of-artificial-intelligence-what-it-means-for-us",
       "locale": "en",
-      "title": "The Future of Work: Telecommuting and the Gig Economy",
-      "summary": "Telecommuting is an alternative work arrangement that allows employees to perform their work away from the company’s physical location. It is expected to grow even more in the future as companies look for ways to attract and retain employees who don’t want to commute or relocate for a job. Many telecommuters are self-employed, while others work as employees of large firms. With fewer cars on the road and less energy consumption, the environment will benefit from increased telecommuting.",
+      "title": "The Future of Artificial Intelligence: What It Means for Us",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,o,t)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&d(e,t,o[t]);if(r)for(var t of r(o))i.call(o,t)&&d(e,t,o[t]);return e},p=(e,o)=>u(e,m(o));var w=(e,o)=>{var t={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&r)for(var n of r(e))o.indexOf(n)<0&&i.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=w(n,[\"components\"]);return mdx(MDXLayout,p(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Telecommuting and the gig economy are two of the most talked about trends in the future of work. These are both new ways for people to find work that better fits their lifestyle and interests.\nWorking from home, also known as telecommuting, has been around for decades but was only adopted by a small group of people because it was not widely accepted or understood. In the gig economy, workers find short-term jobs with different companies instead of working as an employee with one company for a long period.\nBoth trends impact how and where we work, who is looking for work, and what skills are needed to succeed in this environment. Are you ready to adapt your career in response to these trends? END`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,m=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,t=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&l(e,o,a[o]);if(n)for(var o of n(a))r.call(a,o)&&l(e,o,a[o]);return e},c=(e,a)=>m(e,h(a));var y=(e,a)=>{var o={};for(var i in e)s.call(e,i)&&a.indexOf(i)<0&&(o[i]=e[i]);if(e!=null&&n)for(var i of n(e))a.indexOf(i)<0&&r.call(e,i)&&(o[i]=e[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:e}=i,a=y(i,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s world is driven by technology. Every operation we do in our daily lives involves some kind of technology. This can range from how we get to work, to the way we buy and sell goods and services, the sources we use for information and the way we stay in touch with friends and family. Everything has been made easier thanks to technology. Artificial intelligence is a branch of computer science that enables devices or algorithms to act in a human-like manner as observed in humans and animals.\nAI has many practical applications, such as automatically tagging images on social media sites, detecting spam email filters, or self-driving cars. In this blog post, you will learn more about artificial intelligence, its implications on society and potential future implications of AI on jobs and everyday life.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-ten-best-smartphones-on-the-market-today.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdAEQFKU0znAA/v1KwHsXNGUwncTWUfaxO/gilA486XkMtxDRbtkiDHFJa68LmecfXp/b+yLIz+WvgxNPbkhcrL91yDYT7CnBM28O2z/4Yqv6OX7vee5TxH+bEgAAAA==",
+      "imageSrc": "/articles/5g-will-transform-the-way-we-live-work-and-play.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJZACdAD6JDGOm5j2wAD+YW/mISFXYa8yA39tzs+n6722x/3ZsZZ+rC2r3PbyrqCWRgzp0Uuy0bpCfxHjZ2e3JzgWr+s3/gj38n1t9NDxGhBNbeTx95o/91/7iUOq+MTPcf+bNNJJpWTm/b//f6QATXgBdLAA",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "technology",
-      "slug": "the-ten-best-smartphones-on-the-market-today",
+      "slug": "5g-will-transform-the-way-we-live-work-and-play",
       "locale": "en",
-      "title": "The Ten Best Smartphones on the Market Today",
-      "summary": "The Samsung Galaxy S7 is one of the best smartphones we have ever seen. It’s an excellent choice for both business and personal use. The iPhone 7 Plus is the perfect device for just about anyone. The BlackBerry KeyOne is a stunning design, excellent sound quality and lots of useful and convenient features. The Google Pixel is the best smartphone we’ve ever tested. The Moto Z Droid is the most expensive smartphone we have tested, but is also well worth checking out.",
+      "title": "5g Will Transform the Way We Live, Work and Play",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))i.call(t,o)&&h(e,o,t[o]);return e},l=(e,t)=>y(e,c(t));var p=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=p(a,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Smartphones are a big part of our lives. They help us stay in touch with friends, family and colleagues; they give us access to the internet wherever we go; and they even let us take photos and videos of things that would otherwise be forgotten forever. Smartphones are everywhere these days, which makes choosing one a little challenging. There are so many different brands, operating systems, features, languages, etc. that it can all be quite overwhelming. Thankfully, there are plenty of great options out there today no matter your specific needs and preferences. If you\\u2019re looking for the best smartphone on the market today, this article is for you. In it we list some of the most popular devices available as well as some up-and-coming models worth keeping an eye on. Let\\u2019s take a look at our top ten picks for the best smartphones on the market today\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var c=Object.defineProperty,g=Object.defineProperties;var w=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&l(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&l(e,o,t[o]);return e},h=(e,t)=>g(e,w(t));var u=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,h(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`High-speed mobile internet is about to get a whole lot faster. The world is on the cusp of an exciting new era in wireless technology, as the rollout of fifth generation (5G) cellular networks begins across the globe.\nEven though 4G LTE coverage is widespread and newer 5G networks aren\\u2019t quite ready for large-scale implementation just yet, carriers around the world are already testing out pre-Release 15 5G network services. Several national operators have already begun deploying their 5G network infrastructure, while others are set to follow suit in the coming months. The race is on to lead the way in this cutting-edge technology and reap the benefits that come with it. It\\u2019s a fast-moving space, so here\\u2019s everything you need to know about 5G and when you can expect it to launch where you live.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/3-reasons-why-your-macbook-pro-may-be-lying-to-you.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoKAAoAAUAmJaQAAurZ+whcAAD++Qhkr1g7Nmt6it1o7KTTtUvxHfKuFVHLHwBjiqfXBRX1xgbAQNREsuTB2ZKwn0Z285X/VIGG0jMjGGWT8eV6qSwAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "technology",
-      "slug": "3-reasons-why-your-macbook-pro-may-be-lying-to-you",
-      "locale": "en",
-      "title": "3 Reasons Why Your Macbook Pro May Be Lying to You",
-      "summary": "The battery in your Macbook Pro is one component that you can’t replace is the battery. With regular use, your battery will start to degrade to the point where it’s no longer capable of holding a charge for very long at all. If your hard drive is failing, you might notice that your computer is taking longer than normal to boot up. If you’re prompted with a warning whenever you try to boot it up, it will say that it can't do so because of a lack of support. MacOS has stopped supporting your model that has outlived its usefulness.",
-      "intro": {
-        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&l(e,o,t[o]);if(r)for(var o of r(t))i.call(t,o)&&l(e,o,t[o]);return e},p=(e,t)=>d(e,y(t));var u=(e,t)=>{var o={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&r)for(var a of r(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"In recent years, Apple has become known for its beautiful designs and attention to detail. This is particularly true of the company\\u2019s laptop offerings, like the MacBook Pro. These computers are sleek, powerful, and packed with features that make them stand out from their Windows-based competitors. But as great as these features may be on paper, not all Macbook Pros are created equal. Even if you get a high-end model with all of the bells and whisters that you want and need, it won\\u2019t last forever. Even the sturdiest of laptops will break down eventually. What\\u2019s important is how well equipped you are to handle these breakdowns when they happen. If your computer starts acting weird or giving you red flags about its performance, it\\u2019s probably time to take action sooner rather than later. Here are 3 reasons why your Macbook Pro may be lying to you:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-dark-side-of-big-tech-how-these-companies-are-harming-our-society.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJZwCw7YqruIMhkAAAP78dPM7AT7ifO+CLj6th+oetm36//j5XbXqEJNhEL+XoKyGzni3tch9DbahqqjAMawFN/TSuKLzKz7v3/fK401ZGDtgDHFTxCpPgAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "technology",
-      "slug": "the-dark-side-of-big-tech-how-these-companies-are-harming-our-society",
-      "locale": "en",
-      "title": "The Dark Side of Big Tech: How These Companies Are Harming Our Society",
-      "summary": "The social media giant Facebook has been accused of harvesting user data and using it to target users with advertisements. Google uses your email address, interests, browsing history, and even your location to create an incredibly detailed profile of you. Amazon is accused of using data harvesting for bottomless profiling and leaving very little up to chance. Microsoft has also come under fire for forcing consumers to upgrade to Windows 10 and taking away control from consumers. Instagram has been criticized of scanning uploaded images for drugs, guns, and other illegal activities.",
-      "intro": {
-        "compiledSource": "var g=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,t)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&h(e,t,o[t]);if(i)for(var t of i(o))s.call(o,t)&&h(e,t,o[t]);return e},c=(e,o)=>m(e,p(o));var l=(e,o)=>{var t={};for(var n in e)r.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=l(n,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`There\\u2019s no denying the impact that technology has on our lives. From making communication easier and more accessible to improving productivity in the workplace, the advantages of technology are seemingly endless.\nHowever, with this increased usage of technology also comes some downsides. In particular, there has been growing concern regarding how big tech companies are using their vast quantities of data to manipulate users for their own gain. These companies are harvesting user information and using it to further their own business interests, often at the expense of user privacy and well-being.\nThese examples of how big tech is harming society will help you see these companies for what they really are: greedy corporations with little regard for consumer welfare other than how it impacts their bottom line.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/microsofts-windows-10-how-the-operating-system-is-invading-our-privacy.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwAgCdASoKAAoAAUAmJbACdAYqrkpdp/ewQAD++WQtXRfYj85+Rq+0v6mUIFB7uqRlVdTMChrmrsh/wba4r+/pQSYM5w5cucRvug7NmCxTvxURsS3V0Wz1TbxPCTPp1yUzprn/4mP/Do/+2H/md/SA/n/iAzS//5mivxFVH//bW4hRP1HfvA+8H0uT28BUk4AAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "technology",
-      "slug": "microsofts-windows-10-how-the-operating-system-is-invading-our-privacy",
-      "locale": "en",
-      "title": "Microsoft's Windows 10: How the Operating System Is Invading Our Privacy",
-      "summary": "Some users have complained that it’s not possible to opt out of all of the. Microsoft has implemented a.. the. company to take any action necessary to protect its business. The most recent Windows 10 October 2018 update caused so many problems that Microsoft had to halt its rollout due to. incompatibilities with. certain hardware and software. The problem is that the updates are not being tested thoroughly enough before release. Some users are not aware of this management console, and others don’t know how to navigate to it.",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(t,e,o)=>e in t?p(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,n=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&c(t,o,e[o]);if(s)for(var o of s(e))i.call(e,o)&&c(t,o,e[o]);return t},u=(t,e)=>d(t,h(e));var l=(t,e)=>{var o={};for(var a in t)r.call(t,a)&&e.indexOf(a)<0&&(o[a]=t[a]);if(t!=null&&s)for(var a of s(t))e.indexOf(a)<0&&i.call(t,a)&&(o[a]=t[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:t}=a,e=l(a,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Microsoft\\u2019s new Windows 10 operating system is the company\\u2019s attempt to reclaim market share lost to Apple and Google. It won\\u2019t succeed. Not because of technical superiority of other operating systems, but because Microsoft has betrayed user trust.\nThe latest version of Windows betrays user privacy by default, as well as through aggressive telemetry data collection, browser tracking, and ad injection. Users who upgrade to Windows 10 can no longer trust their computer or the software that runs on it.\nWhen you use Windows 10, Microsoft collects personal information about you, your device usage habits, and apps that you install; all of which is transmitted back to the company in an unencrypted format. These practices are unacceptable and have triggered class-action lawsuits and government inquiries around the world.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/the-future-of-work-automation-and-the-rise-of-the-robots.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJZgCdAEO+ePAAP75CQf+efaun2C3kvx/t5XNX+dF7RuU9XH27jC/bO8cKmuuIhWnXna0fPLJmKde3xnW3/c27kO1ACoU0P4v43/OXfmupdk7xAAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "technology",
-      "slug": "the-future-of-work-automation-and-the-rise-of-the-robots",
-      "locale": "en",
-      "title": "The Future of Work: Automation and the Rise of the Robots",
-      "summary": "Automation is the use of machines or computer-controlled equipment to perform operations normally done by humans. Automation can be used in any industry, including manufacturing, distribution, and healthcare. Robots are used to perform repetitive tasks in industries such as electronics, food and beverage, car manufacturing, healthcare, and electronics. The use of robots in factories solves the problem of finding specialized labor that is needed to operate highly technical machinery. Robots can also be programmed to do tasks with greater precision and consistency than humans.",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,o)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))a.call(t,o)&&c(e,o,t[o]);if(i)for(var o of i(t))r.call(t,o)&&c(e,o,t[o]);return e},u=(e,t)=>p(e,l(t));var h=(e,t)=>{var o={};for(var n in e)a.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&r.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=h(n,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Digital transformation is a sweeping trend that is reshaping businesses. The role of technology has shifted from being a support system to something that drives competitiveness and customer experience. In the new digital economy, businesses must focus on how technology can transform their current services and operations to meet the needs of their customers. The combination of artificial intelligence (AI) and robots are transforming the way we work \\u2014 especially in manufacturing and logistics operations. Automation and robotics have made it possible for manufacturers to produce more goods with fewer workers, while increasing production efficiency and accuracy at the same time. These technologies are also reducing labor costs, increasing output, and easing recruitment challenges that many manufacturers face in developing countries where youth unemployment remains high. But how will this impact work in factories change? Let\\u2019s explore the future of work: automation and robots\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/apple-inc-what-you-need-to-know.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoKAAoAAUAmJbACdAYplwLMi8ZXNgAA/vQU/L8e0avs3y5nQh4toqCfYmqR/GA/aShd8AmKeBTtg8Ntt3o78ZLy3hTe+iwSC36Jv//BrV4Qx/S0l5yK5jQu7K9H+Gv1Lsj10YA5j/x28+P/7/4/5/6zXvptOAALIAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "technology",
-      "slug": "apple-inc-what-you-need-to-know",
-      "locale": "en",
-      "title": "Apple Inc: What You Need to Know!",
-      "summary": "In April 1976, Steve Wozniak and Steve Jobs designed a small computer that could be used at home, like an arcade machine. In 1998, Apple introduced the iMac, a computer with a translucent “Bondi Blue” color finish and an intuitive “click and drag” interface. In 2001, Apple created “iTunes,” an online store that allowed users to purchase and download music. In 2010, Apple released the iPad, a tablet computer that featured a touchscreen display, a fully functional Web browser and the ability to download and store music.",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,n=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&p(e,t,o[t]);if(s)for(var t of s(o))i.call(o,t)&&p(e,t,o[t]);return e},l=(e,o)=>u(e,m(o));var h=(e,o)=>{var t={};for(var a in e)r.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&s)for(var a of s(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=h(a,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Apple is one of the most popular and well-known brands in the world. Its distinctive logo is recognized everywhere, from airports to hotels, from art galleries to aquariums. What\\u2019s more, Apple products are some of the most desirable on the market. Many people aspire to own a Mac, iPhone or iPad because they\\u2019re sleek and stylish, as well as packed with useful features.\nThe history of Apple goes back to 1981 when Steve Jobs founded the company at age 21. In that period there was a famous video game crash where Atari and other gaming companies made losses due to overproduction and in response many gamers stopped buying video games for almost four years. This led to Steve Wozniak (Steve Jobs\\u2019 friend) proposing that they start their own computer company \\u2013 which became known as Apple Computer Inc.\nWhat follows is a detailed look into the history of Apple Inc., including details about key executives and any relevant organizational changes.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/5-best-ai-applications-that-will-change-your-business.png",
+      "imageSrc": "/articles/5-best-ai-applications-that-will-change-your-business.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAADQAgCdASoKAAoAAUAmJbACdLoB+AH4gALgS/oPoh2gAPKn5rLaGvi2Q/mg7gBhZqrOuT3/z18ow/TAC/+/7+M3psSc5qNBMad49Ln+bSoDNekmtVzsyFFkaGeqbNutIH/3wh/+1kbbYEa0/qnXMwF3T/k3/J3/+qZkS/8/8yj/5S+zT8P/3nG4bepd9f+vIAA=",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
@@ -140,7 +58,6 @@
       "slug": "5-best-ai-applications-that-will-change-your-business",
       "locale": "en",
       "title": "5 Best AI Applications That Will Change Your Business",
-      "summary": "Artificial intelligence is the science of building machines that can do things that normally require human intellect. Natural language processing, computer vision, and machine learning are examples of AI. AI has the potential to change how we do our jobs, how we interact with businesses, and how businesses make money. Whether AI will help or harm humanity is a topic that has generated debate for decades. Some people have expressed concern that AI could end up controlling people. Others have argued that it could greatly increase human abilities and improve society.",
       "intro": {
         "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&l(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&l(e,a,t[a]);return e},h=(e,t)=>p(e,d(t));var u=(e,t)=>{var a={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you need proof that artificial intelligence has become ingrained in our daily lives, just look at the buzz around virtual assistants like Alexa, Siri, and Cortana. These AI helpers are no longer just for tech-savvy adults; now, kids as young as five are happily chattering away with cartoon characters like Waffle the Blue Whale or Hank the Crab whenever they need help with something.\nHowever, AI isn\\u2019t solely limited to helpful sea creatures or talking speakers. In fact, AI is being used for all kinds of purposes \\u2013 from self-driving cars to replacing call center agents with intelligent chatbots. Even businesses are seeing the value in incorporating AI into their day-to-day operations. From automating processes to making data-driven decisions faster, businesses of all sizes can leverage the benefits of AI in order to improve their services and workflows.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
@@ -148,33 +65,106 @@
     },
     {
       "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/apple-airpods-the-best-apple-product-ever-made.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJQBOgCFr/6MUS+AA/vNn3U/HVvpYCH1YDypkm+5yB0LXvoJfMoRL/nQY6HPv/Vh3A85A724b60KoKW8hbrJfOfQZvfrTefTHte+V4l/7spdrZ/U6AnwtK+aiMwNAAAA=",
+      "imageSrc": "/articles/microsofts-windows-10-how-the-operating-system-is-invading-our-privacy.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwAgCdASoKAAoAAUAmJbACdAYqrkpdp/ewQAD++WQtXRfYj85+Rq+0v6mUIFB7uqRlVdTMChrmrsh/wba4r+/pQSYM5w5cucRvug7NmCxTvxURsS3V0Wz1TbxPCTPp1yUzprn/4mP/Do/+2H/md/SA/n/iAzS//5mivxFVH//bW4hRP1HfvA+8H0uT28BUk4AAAA==",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "technology",
-      "slug": "apple-airpods-the-best-apple-product-ever-made",
+      "slug": "microsofts-windows-10-how-the-operating-system-is-invading-our-privacy",
       "locale": "en",
-      "title": "Apple Airpods: The Best Apple Product Ever Made",
-      "summary": "Apple's Airpods are the best Apple product ever made. They are easy to use, convenient and so fashionable that people can’t imagine living without them anymore. The company has built an ecosystem around its products, making it easy to interconnect and work with each other. The iPhone 8 is rumored to have wireless charging, but Apple has fallen behind in terms of wireless functionality, so it needs to catch up on this growing market. At $159, the AirPods are not exactly cheap, but the high price is expected because Apple prices its products higher than its competitors.",
+      "title": "Microsoft's Windows 10: How the Operating System Is Invading Our Privacy",
       "intro": {
-        "compiledSource": "var y=Object.defineProperty,d=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var h=Object.prototype.hasOwnProperty,p=Object.prototype.propertyIsEnumerable;var i=(e,t,o)=>t in e?y(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,a=(e,t)=>{for(var o in t||(t={}))h.call(t,o)&&i(e,o,t[o]);if(s)for(var o of s(t))p.call(t,o)&&i(e,o,t[o]);return e},u=(e,t)=>d(e,l(t));var r=(e,t)=>{var o={};for(var n in e)h.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))t.indexOf(n)<0&&p.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=r(n,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Do you know why most people buy iPhones? Because they can\\u2019t stand the sight of Android phones. Do you know why most people buy Macs? Because they can\\u2019t stand the sight of Windows PCs. Do you know why most people buy iPads? Because they can\\u2019t stand the sight of any other tablet.\nAnd do you know why most people will keep buying Apple products? Because they can\\u2019t stand the sight of anything else.\nIf you think this is a general statement about Apple consumers and not something specific to their products, let us rephrase it for you with further details: Nobody on this planet buys more Apple products than the combined population of China and India. That\\u2019s right: The same countries that are portrayed as being obsessed with everything Apple also happen to be home to more poor people than anywhere else in the world.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(t,e,o)=>e in t?p(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,n=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&c(t,o,e[o]);if(s)for(var o of s(e))i.call(e,o)&&c(t,o,e[o]);return t},u=(t,e)=>d(t,h(e));var l=(t,e)=>{var o={};for(var a in t)r.call(t,a)&&e.indexOf(a)<0&&(o[a]=t[a]);if(t!=null&&s)for(var a of s(t))e.indexOf(a)<0&&i.call(t,a)&&(o[a]=t[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:t}=a,e=l(a,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Microsoft\\u2019s new Windows 10 operating system is the company\\u2019s attempt to reclaim market share lost to Apple and Google. It won\\u2019t succeed. Not because of technical superiority of other operating systems, but because Microsoft has betrayed user trust.\nThe latest version of Windows betrays user privacy by default, as well as through aggressive telemetry data collection, browser tracking, and ad injection. Users who upgrade to Windows 10 can no longer trust their computer or the software that runs on it.\nWhen you use Windows 10, Microsoft collects personal information about you, your device usage habits, and apps that you install; all of which is transmitted back to the company in an unencrypted format. These practices are unacceptable and have triggered class-action lawsuits and government inquiries around the world.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "https://theaipaper.b-cdn.net/articles/how-big-tech-is-changing-the-way-we-live-and-work.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoKAAoAAUAmJbACdLoAEI4Xo/Obn6CsAAD+9v1QnLkIv9TVKx/jueCPXpyFvKN6PdkBk5GR6OPdBX/I7YLfcUpPSR+5iTfst8s4SdwWoXbbtc89Ncn7R3A7CmQM6FbsRNv72X/w9xBSvC+U6tzy0g9/k+2Gr0SNyD+8u17swAAAAA==",
+      "imageSrc": "/articles/getting-the-most-out-of-your-smartphone-tips-and-tricks.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAABQAwCdASoKAAoAAUAmJbACdLoB+ACWAP0A9G4Fcl1RbDYsAAD+5m93FRx9lS4yWier0oCHvPj38VahbVd+4w/thfSCcfVIPcPmhV54zfpkiiAw+tpg7V/jI25HC14Ec8qz7//y4fUn/pYjlAr0f4oc5gItaZ6xinvwP/UQqtbkNEaP+rXL8x9aTxu7qfuy1/XOAAAA",
       "createdAt": "Sat Oct 01 2022",
       "updatedAt": "Sat Oct 01 2022",
       "categoryLocal": "technology",
-      "slug": "how-big-tech-is-changing-the-way-we-live-and-work",
+      "slug": "getting-the-most-out-of-your-smartphone-tips-and-tricks",
       "locale": "en",
-      "title": "How Big Tech Is Changing the Way We Live and Work",
-      "summary": "Remote work has been around for decades, but as digital technology has advanced, more and more employers have invested in tools that allow them to manage teams across locations. With coworking spaces, virtual reality, and other remote work-friendly innovations, it’s clear that remote work has become an indispensable way of doing business. As more companies adopt remote work and on-demand employee policies, more people are turning to independent contractor roles. Employers who want to stay competitive in the hiring market will need to keep up with this growing trend. As the world of work becomes increasingly automated, soft skills like communication and collaboration become increasingly vital.",
+      "title": "Getting the Most Out of Your Smartphone: Tips and Tricks",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var w=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,n)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))a.call(o,n)&&h(e,n,o[n]);if(r)for(var n of r(o))s.call(o,n)&&h(e,n,o[n]);return e},l=(e,o)=>g(e,w(o));var p=(e,o)=>{var n={};for(var t in e)a.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=p(t,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Millennials are now the largest generation of workers in the U.S., and as they advance their careers, they\\u2019ll continue to reshape how and where we work. The digital age has made it possible for people to work from virtually anywhere at any time. As a result, more people are leaving the office behind and working remotely or taking up independent contracting gigs, which is why we\\u2019re seeing so many young professionals ditch cubicles for coffee shops and other remote-friendly offices.\nWorking from home, going independent, or collaborating with coworkers online means millennials have given rise to what some have called \\u201Cthe gig economy.\\u201D It\\u2019s also prompted a shift in the types of companies people choose to work for and what skills they need to get hired in those roles \\u2014 regardless of where they do that work. If you\\u2019re looking to join this world of work in 2020, here\\u2019s everything you need to know:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var y=Object.defineProperty,l=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(o,e,t)=>e in o?y(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,s=(o,e)=>{for(var t in e||(e={}))i.call(e,t)&&h(o,t,e[t]);if(n)for(var t of n(e))r.call(e,t)&&h(o,t,e[t]);return o},u=(o,e)=>l(o,c(e));var p=(o,e)=>{var t={};for(var a in o)i.call(o,a)&&e.indexOf(a)<0&&(t[a]=o[a]);if(o!=null&&n)for(var a of n(o))e.indexOf(a)<0&&r.call(o,a)&&(t[a]=o[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:o}=a,e=p(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Smartphones can do a lot more than most people think. Those tiny devices packed with a dizzying array of features are also virtual Swiss Army knives, able to adapt to almost any situation. That\\u2019s because your phone is actually an \\u201Cintelligent\\u201D device, as opposed to just being another way to check email or browse social media. Smartphones have the ability to learn and grow based on your usage habits, which means that if you know what you\\u2019re doing, your phone can do even more than you think.\nIn this post, we will share some tips and tricks that will help you get the most out of your smartphone. Keeping reading for useful advice on how to use your smartphone more efficiently, how to store photos properly so they take up less space on your device, how to download apps that won\\u2019t chew up memory unnecessarily and many other helpful tricks you didn\\u2019t know about!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrc": "/articles/the-best-smartphones-of-2022-what-to-buy-and-why.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgCIjuMqKQAD++5y+G3rfCfHppB6OrDYbaQsigK/Xz/+Rdo9/dfoqur/C0RDHwkrN57VXotU/s3J8XSjuR+/Kk5ZnDXpWAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "technology",
+      "slug": "the-best-smartphones-of-2022-what-to-buy-and-why",
+      "locale": "en",
+      "title": "The Best Smartphones of 2022: What to Buy and Why",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,h=Object.prototype.propertyIsEnumerable;var r=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&r(e,o,t[o]);if(a)for(var o of a(t))h.call(t,o)&&r(e,o,t[o]);return e},m=(e,t)=>p(e,g(t));var c=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&h.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=c(n,[\"components\"]);return mdx(MDXLayout,m(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Smartphone technology is constantly evolving, and the best smartphones of 2022 will be much different than even the most cutting-edge devices of today. These innovations won\\u2019t just be incremental improvements on the features we take for granted right now; they will be game-changing changes that make a big difference in how we use our phones.\nToday\\u2019s best smartphones are fast and powerful, with high resolution cameras, long battery life, crisp displays and more. But by 2022, these devices may seem almost Stone Age in comparison to what comes after them. Read on to learn about some of the biggest upcoming changes in smartphone tech, along with details about which models you should consider buying if you\\u2019re shopping for a new phone in 2022.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrc": "/articles/5-reasons-why-you-need-a-macbook-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACQAgCdASoKAAoAAUAmJZACdC0MyZfL/ZS725FIAAD+88kBZrXYAyX/ucMCfVGyt9mHGH7k+Dj9NFh/mqT5mGXQuTwF/3DddcQ7+P67YuhUNy43pjk6Gb72LC38Wf0/+/1v6gX9dYXaLdmnmgAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "technology",
+      "slug": "5-reasons-why-you-need-a-macbook-pro",
+      "locale": "en",
+      "title": "5 Reasons Why You Need a Macbook Pro",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(o,e,t)=>e in o?d(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,r=(o,e)=>{for(var t in e||(e={}))s.call(e,t)&&u(o,t,e[t]);if(n)for(var t of n(e))i.call(e,t)&&u(o,t,e[t]);return o},c=(o,e)=>l(o,y(e));var p=(o,e)=>{var t={};for(var a in o)s.call(o,a)&&e.indexOf(a)<0&&(t[a]=o[a]);if(o!=null&&n)for(var a of n(o))e.indexOf(a)<0&&i.call(o,a)&&(t[a]=o[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:o}=a,e=p(a,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`MacBooks are the best laptops in the world. They\\u2019re light, compact, and durable. You can use your MacBook for work, school, or play. You can also pair it with an Apple monitor for a dual-monitor setup. However, there is a downside to MacBooks: they\\u2019re not as powerful as Macbook Pros.\nIf you want to get more from your laptop \\u2014 especially if you plan on using it for intensive tasks such as photo editing or video editing \\u2014 you need a Macbook Pro. The difference between the two models isn\\u2019t large enough to be noticeable unless you really dig into their specs. The Macbook is better suited for casual users because of its lower price tag and reduced weight. But if you\\u2019re considering buying a new laptop anytime soon, read these 5 reasons why You Need A Macbook Pro instead of the standard one.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrc": "/articles/smartphone-usage-statistics-that-you-need-to-know.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJZACdAYrJa0kARqZUAAA/v1IdT0FOxPx5lb3q2/0duok8imQHS+Pbbb9wO/Hye/7mMhq/m9/IvFWHc1KPJG1G/+F/HdKpxv44WubsojdDnGEfZPpd3n5l9xa121xPF88ECI76t/LJ//iA+nvEu/PQ/8HJlmcMOQAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "technology",
+      "slug": "smartphone-usage-statistics-that-you-need-to-know",
+      "locale": "en",
+      "title": "Smartphone Usage Statistics That You Need to Know",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,g=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,n)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&h(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&h(e,n,t[n]);return e},u=(e,t)=>g(e,l(t));var p=(e,t)=>{var n={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&r.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=p(a,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Smartphone penetration is at a record high, with more than two-thirds of Americans now owning one. With adoption continuing to rise, businesses need to understand how smartphones are being used to reach their target audience.\nThe usage of smartphones for email, texting and browsing the internet has declined slightly in recent years. But there has been a significant uptick in the number of people using their phones for uber-personal activities like taking selfies and streaming music.\nWith over half of all Americans owning a smartphone, it\\u2019s important that you are aware of the latest trends with regards to usage. This article will outline some useful stats about smartphone usage so that you can plan your marketing strategy accordingly.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrc": "/articles/the-ten-best-smartphones-on-the-market-today.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdAEQFKU0znAA/v1KwHsXNGUwncTWUfaxO/gilA486XkMtxDRbtkiDHFJa68LmecfXp/b+yLIz+WvgxNPbkhcrL91yDYT7CnBM28O2z/4Yqv6OX7vee5TxH+bEgAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "technology",
+      "slug": "the-ten-best-smartphones-on-the-market-today",
+      "locale": "en",
+      "title": "The Ten Best Smartphones on the Market Today",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))i.call(t,o)&&h(e,o,t[o]);return e},l=(e,t)=>y(e,c(t));var p=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=p(a,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Smartphones are a big part of our lives. They help us stay in touch with friends, family and colleagues; they give us access to the internet wherever we go; and they even let us take photos and videos of things that would otherwise be forgotten forever. Smartphones are everywhere these days, which makes choosing one a little challenging. There are so many different brands, operating systems, features, languages, etc. that it can all be quite overwhelming. Thankfully, there are plenty of great options out there today no matter your specific needs and preferences. If you\\u2019re looking for the best smartphone on the market today, this article is for you. In it we list some of the most popular devices available as well as some up-and-coming models worth keeping an eye on. Let\\u2019s take a look at our top ten picks for the best smartphones on the market today\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrc": "/articles/how-ai-is-changing-the-way-we-live-and-work.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAABQAgCdASoKAAoAAUAmJbAC7AYqDq/vt+Dw+QAA/vkDwZS0KouBXeoNBQwlUjub91XEol+yEaGWiW4y0r2XHoKWIc/3vw/Xmw+cD//DFXzP/H8ZZe/IAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "technology",
+      "slug": "how-ai-is-changing-the-way-we-live-and-work",
+      "locale": "en",
+      "title": "How AI Is Changing the Way We Live and Work",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,h=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,n,t)=>n in e?g(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,a=(e,n)=>{for(var t in n||(n={}))r.call(n,t)&&c(e,t,n[t]);if(i)for(var t of i(n))s.call(n,t)&&c(e,t,n[t]);return e},l=(e,n)=>h(e,p(n));var u=(e,n)=>{var t={};for(var o in e)r.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&i)for(var o of i(e))n.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"New artificial intelligence (AI) technologies are automating tasks once reserved for humans, elevating the importance of thinking and creative problem-solving to stay relevant in the workplace. AI is also enabling businesses to reduce costs, drive revenue and increase efficiency. Emerging AI solutions are making it easier than ever before to use machine learning. Whether you\\u2019re new to AI or want a refresher on the latest AI trends, this guide covers everything you need to know about how artificial intelligence is changing the way we live and work.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }
