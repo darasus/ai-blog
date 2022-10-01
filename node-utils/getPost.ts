@@ -16,6 +16,5 @@ export const getPost = async (slug: string): Promise<Post | null> => {
     createdAt: new Date(post.createdAt).toDateString(),
     updatedAt: new Date(post.updatedAt).toDateString(),
     title: capitalize(post.title),
-    relatedArticles: [],
   };
 };
