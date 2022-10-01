@@ -7,7 +7,7 @@ export const readArticleImageFile = (
   encoding?: BufferEncoding
 ) => {
   try {
-    return fs.readFileSync(path.join(imagesPath, basename));
+    return fs.readFileSync(path.join(imagesPath, basename), encoding);
   } catch (error) {
     return null;
   }

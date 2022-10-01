@@ -1,7 +1,5 @@
-import { serialize } from "next-mdx-remote/serialize";
 import { Post } from "../types";
 import { capitalize } from "../isomorphic-utils/capitalize";
-import { getRawPosts } from "./getPosts";
 import { readFileSync } from "fs";
 import path from "path";
 import { postsPath } from "./paths";

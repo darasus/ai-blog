@@ -11,8 +11,6 @@ import { Translate } from "../lib/translate";
 import { Ora } from "ora";
 import { Locale, Post } from "../types";
 import { serializeMarkdown } from "../node-utils/serializeMarkdown";
-import { uploadImage } from "../lib/bunny";
-import fetch from "node-fetch";
 
 const ai = new Writesonic();
 const translateAPI = new Translate();
@@ -29,7 +27,7 @@ export async function generateArticles(spinner: Ora) {
     const response = await ai.generateArticle({
       title,
     });
-    const { imageSrc, imageSrcBase64 } = await generateAndUploadImage(title);
+    const { imageSrc, imageSrcBase64 } = await generateAndWriteImage(title);
 
     const basePost = {
       category,
@@ -90,7 +88,7 @@ export async function generateArticles(spinner: Ora) {
   spinner.stopAndPersist();
 }
 
-async function generateAndUploadImage(title: string) {
+async function generateAndWriteImage(title: string) {
   const basename = slugify(title, { strict: true, lower: true });
   const image = readArticleImageFile(basename + ".png");
 
