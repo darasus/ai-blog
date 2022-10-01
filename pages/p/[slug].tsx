@@ -1,13 +1,12 @@
-import { Box, Divider, Text } from "@chakra-ui/react";
+import { Divider } from "@chakra-ui/react";
 import { Meta } from "../../components/Meta";
 import { DetailedPost } from "../../components/Post/DetailedPost";
 import { PostListSection } from "../../components/Post/PostListSection";
-import { Locale, Post } from "../../types";
+import { Post } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
-import { getPosts, PageInfo } from "../../node-utils/getPosts";
+import { PageInfo } from "../../node-utils/getPosts";
 import { GetStaticPaths, GetStaticProps } from "next";
-import { useRouter } from "next/router";
 import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 
 interface Props extends PageInfo {
@@ -15,17 +14,7 @@ interface Props extends PageInfo {
 }
 
 export default function Home({ post }: Props) {
-  const router = useRouter();
-
-  if (router.isFallback) {
-    return (
-      <Box p={4}>
-        <Text>Loading...</Text>
-      </Box>
-    );
-  }
-
-  const { title, content, createdAt, summary, category, slug } = post;
+  const { title, summary, category, slug } = post;
   return (
     <>
       <Meta
@@ -65,6 +54,5 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 
   return {
     props: { post },
-    revalidate: 60,
   };
 };
