@@ -8,13 +8,16 @@ import { getPost } from "../../node-utils/getPost";
 import { PageInfo } from "../../node-utils/getPosts";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
+import { useIntl } from "react-intl";
 
 interface Props extends PageInfo {
   post: Post;
 }
 
 export default function Home({ post }: Props) {
+  const intl = useIntl();
   const { title, summary, category, slug } = post;
+
   return (
     <>
       <Meta
@@ -33,7 +36,12 @@ export default function Home({ post }: Props) {
       <DetailedPost post={post} />
       <Divider />
       <PostListSection
-        title={`Other in ${capitalize(category)}`}
+        title={intl.formatMessage(
+          {
+            defaultMessage: "Other in {category}",
+          },
+          { category: capitalize(category) }
+        )}
         posts={post.relatedArticles}
       />
     </>

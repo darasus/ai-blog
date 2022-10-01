@@ -3,10 +3,13 @@ import { Box, Flex, Text } from "@chakra-ui/react";
 import React from "react";
 import { Footer } from "./Footer";
 import { Navbar } from "./Navbar";
+import { useIntl } from "react-intl";
 
 type Props = React.PropsWithChildren<{}>;
 
 export function Layout({ children }: Props) {
+  const intl = useIntl();
+
   return (
     <Flex bg="gray.100" minH="100vh" direction="column">
       <Box bg="gray.900">
@@ -32,7 +35,11 @@ export function Layout({ children }: Props) {
             </Text>
           </Box>
           <Box>
-            <Text color="gray.700">{`All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`}</Text>
+            <Text color="gray.700">
+              {intl.formatMessage({
+                defaultMessage: `All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`,
+              })}
+            </Text>
           </Box>
         </Flex>
       </Box>

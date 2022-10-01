@@ -14,10 +14,20 @@ export default function Home({ data }: PageInfo) {
   return (
     <>
       <Meta
-        title="Latest"
-        description="All articles from The AI Paper are carefully crafted by GPT-3"
+        title={intl.formatMessage({
+          defaultMessage: "Latest",
+        })}
+        description={intl.formatMessage({
+          defaultMessage:
+            'All materials from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.',
+        })}
       />
-      <PostListSection title={"Latest articles"} posts={data} />
+      <PostListSection
+        title={intl.formatMessage({
+          defaultMessage: "Latest articles",
+        })}
+        posts={data}
+      />
       <Flex justifyContent={"center"} py={5}>
         <LinkButton href="/posts/2">
           {intl.formatMessage({
