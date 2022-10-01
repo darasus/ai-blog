@@ -2,13 +2,14 @@ import { Divider } from "@chakra-ui/react";
 import { Meta } from "../../components/Meta";
 import { DetailedPost } from "../../components/Post/DetailedPost";
 import { PostListSection } from "../../components/Post/PostListSection";
-import { Post } from "../../types";
+import { Locale, Post } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
 import { PageInfo } from "../../node-utils/getPosts";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 import { useIntl } from "react-intl";
+import { loadIntlMessages } from "../../isomorphic-utils/loadIntlMessages";
 
 interface Props extends PageInfo {
   post: Post;
@@ -56,11 +57,16 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
+  const locale = ctx.locale as Locale;
+  const defaultLocale = ctx.defaultLocale as Locale;
   const post = await getPost(ctx.params?.slug as string);
 
   if (!post) return { notFound: true };
 
   return {
-    props: { post },
+    props: {
+      post,
+      intlMessages: await loadIntlMessages(locale, defaultLocale),
+    },
   };
 };
