@@ -52,9 +52,9 @@ export default function Home({ post, data }: Props) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    // paths: await generatePostPageStaticPaths(),
     paths: [],
-    fallback: "blocking",
+    // paths: await generatePostPageStaticPaths(),
+    fallback: true,
   };
 };
 
