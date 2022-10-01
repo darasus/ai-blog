@@ -7,21 +7,25 @@ import { theme } from "../theme";
 import Script from "next/script";
 import { useEffect } from "react";
 import * as gtag from "../lib/gtag";
+import { IntlProvider } from "react-intl";
 
-function MyApp({ Component, pageProps }: AppProps) {
-  const router = useRouter();
+function MyApp({
+  Component,
+  pageProps,
+}: AppProps<{ intlMessages: Record<string, string> }>) {
+  const { events, locale, defaultLocale } = useRouter();
   useEffect(() => {
     const handleRouteChange = (url: string) => {
       gtag.pageview(url);
     };
 
-    router.events.on("routeChangeComplete", handleRouteChange);
-    router.events.on("hashChangeComplete", handleRouteChange);
+    events.on("routeChangeComplete", handleRouteChange);
+    events.on("hashChangeComplete", handleRouteChange);
     return () => {
-      router.events.off("routeChangeComplete", handleRouteChange);
-      router.events.off("hashChangeComplete", handleRouteChange);
+      events.off("routeChangeComplete", handleRouteChange);
+      events.off("hashChangeComplete", handleRouteChange);
     };
-  }, [router.events]);
+  }, [events]);
 
   return (
     <>
@@ -43,17 +47,23 @@ function MyApp({ Component, pageProps }: AppProps) {
           `,
         }}
       />
-      <ChakraProvider theme={theme}>
-        <Layout>
-          <Head>
-            <meta
-              name="viewport"
-              content="initial-scale=1.0, width=device-width"
-            />
-          </Head>
-          <Component {...pageProps} />
-        </Layout>
-      </ChakraProvider>
+      <IntlProvider
+        locale={locale as string}
+        defaultLocale={defaultLocale}
+        messages={pageProps.intlMessages}
+      >
+        <ChakraProvider theme={theme}>
+          <Layout>
+            <Head>
+              <meta
+                name="viewport"
+                content="initial-scale=1.0, width=device-width"
+              />
+            </Head>
+            <Component {...pageProps} />
+          </Layout>
+        </ChakraProvider>
+      </IntlProvider>
     </>
   );
 }

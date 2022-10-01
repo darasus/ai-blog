@@ -4,6 +4,7 @@ import { Link } from "../../components/Link";
 import { Meta } from "../../components/Meta";
 import { Pagination } from "../../components/Pagination";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
+import { loadIntlMessages } from "../../isomorphic-utils/loadIntlMessages";
 import { generatePostsPageStaticPaths } from "../../node-utils/generateStaticPaths";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
 import { Locale } from "../../types";
@@ -36,13 +37,18 @@ export const getStaticPaths: GetStaticPaths = async (ctx) => {
 };
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
+  const locale = ctx.locale as Locale;
+  const defaultLocale = ctx.defaultLocale as Locale;
   const page = Number(ctx.params?.page as string);
   const props = await getPosts({
-    locale: ctx.locale as Locale,
+    locale,
     page,
   });
 
   return {
-    props,
+    props: {
+      ...props,
+      intlMessages: await loadIntlMessages(locale, defaultLocale),
+    },
   };
 };
