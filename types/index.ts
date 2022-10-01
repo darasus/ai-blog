@@ -3,9 +3,8 @@ import { MDXRemoteSerializeResult } from "next-mdx-remote";
 
 export type Locale = "en" | "es";
 
-export interface Post {
+export interface BasePost {
   title: string;
-  summary: string;
   locale: Locale;
   category: Category;
   categoryLocal: string;
@@ -14,9 +13,13 @@ export interface Post {
   slug: string;
   imageSrc: string;
   imageSrcBase64: string;
-  content: MDXRemoteSerializeResult<Record<string, unknown>>;
   intro: MDXRemoteSerializeResult<Record<string, unknown>>;
-  relatedArticles: Omit<Post, "relatedArticles" | "content">[];
+}
+
+export interface Post extends BasePost {
+  content: MDXRemoteSerializeResult<Record<string, unknown>>;
+  relatedArticles: Omit<BasePost, "relatedArticles">[];
+  summary: string;
 }
 
 export type Category = keyof typeof data;

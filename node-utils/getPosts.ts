@@ -1,13 +1,13 @@
 import { paginateArray } from "paginate-array-ts";
 import { numberOfPostsPerPage } from "../constants";
-import { Category, Locale } from "../types";
+import { Category, Locale, BasePost } from "../types";
 import { Post } from "../types";
 import { capitalize } from "../isomorphic-utils/capitalize";
 import { readdir, readFileSync } from "fs";
 import { postsPath } from "./paths";
 import path from "path";
 
-export type PageInfo = ReturnType<typeof paginateArray<Post>>;
+export type PageInfo = ReturnType<typeof paginateArray<BasePost>>;
 
 export const getPosts = async (options: {
   locale: Locale | "all";
@@ -17,7 +17,9 @@ export const getPosts = async (options: {
   category?: Category;
   excludeBySlug?: string[];
 }): Promise<PageInfo> => {
-  let posts = await getRawPosts();
+  let posts = await (
+    await getRawPosts()
+  ).map(({ content, summary, relatedArticles, ...post }) => post);
 
   if (options.locale !== "all") {
     posts = posts.filter((post) => post.locale === options.locale);
@@ -60,7 +62,7 @@ export const getPosts = async (options: {
     title: capitalize(post.title),
   }));
 
-  return paginateArray<Post>(
+  return paginateArray<BasePost>(
     posts,
     options?.page ?? 1,
     options?.numberOfItems ?? numberOfPostsPerPage

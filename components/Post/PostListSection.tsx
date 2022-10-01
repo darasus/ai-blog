@@ -1,10 +1,10 @@
 import { Box, Divider } from "@chakra-ui/react";
-import { Post } from "../../types";
+import { Post, BasePost } from "../../types";
 import { Link } from "../Link";
 import { PostExcerpt } from "./PostExcerpt";
 
 interface Props {
-  posts: Omit<Post, "relatedArticles" | "content">[];
+  posts: BasePost[];
   title?: string;
 }
 

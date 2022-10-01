@@ -21,9 +21,7 @@ export async function generateRelatedArticles(spinner: Ora) {
 
     writeArticle({
       ...post,
-      relatedArticles: relatedPosts.data.map(
-        ({ relatedArticles, content, ...rest }) => rest
-      ),
+      relatedArticles: relatedPosts.data,
     });
   }
 
