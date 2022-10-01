@@ -12,7 +12,8 @@ interface Props {
 }
 
 export function PostExcerpt({ post }: Props) {
-  const { createdAt, category, title, intro, imageSrc, imageSrcBase64 } = post;
+  const { createdAt, categoryLocal, title, intro, imageSrc, imageSrcBase64 } =
+    post;
 
   return (
     <Grid
@@ -31,7 +32,7 @@ export function PostExcerpt({ post }: Props) {
         />
       </GridItem>
       <GridItem colSpan={1}>
-        <PostMeta items={[createdAt, capitalize(category)]} />
+        <PostMeta items={[createdAt, capitalize(categoryLocal)]} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <Box px={"1"}>
           <Markdown {...intro} />

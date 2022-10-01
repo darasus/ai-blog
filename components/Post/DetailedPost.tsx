@@ -15,7 +15,7 @@ export function DetailedPost({ post }: Props) {
   const {
     createdAt,
     title,
-    category,
+    categoryLocal,
     intro,
     content,
     summary,
@@ -48,7 +48,7 @@ export function DetailedPost({ post }: Props) {
             justifyContent="center"
             flexDirection="column"
           >
-            <PostMeta items={[createdAt, capitalize(category)]} />
+            <PostMeta items={[createdAt, capitalize(categoryLocal)]} />
             <PostTitle>{title}</PostTitle>
           </Flex>
         </GridItem>
