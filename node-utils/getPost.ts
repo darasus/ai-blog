@@ -13,6 +13,8 @@ export const getPost = async (slug: string): Promise<Post | null> => {
 
   return {
     ...post,
+    createdAt: new Date(post.createdAt).toDateString(),
+    updatedAt: new Date(post.updatedAt).toDateString(),
     title: capitalize(post.title),
     relatedArticles: [],
   };
