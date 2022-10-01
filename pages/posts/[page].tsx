@@ -1,6 +1,5 @@
 import { Divider } from "@chakra-ui/react";
 import { GetStaticPaths, GetStaticProps } from "next";
-import { useRouter } from "next/router";
 import { Link } from "../../components/Link";
 import { Meta } from "../../components/Meta";
 import { Pagination } from "../../components/Pagination";
@@ -31,9 +30,8 @@ export default function Posts({ data, totalPages }: PageInfo) {
 
 export const getStaticPaths: GetStaticPaths = async (ctx) => {
   return {
-    fallback: "blocking",
-    // paths: await generatePostsPageStaticPaths(),
-    paths: [],
+    paths: await generatePostsPageStaticPaths(),
+    fallback: false,
   };
 };
 

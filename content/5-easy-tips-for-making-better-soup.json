@@ -1,14 +1,172 @@
 {
   "category": "cooking",
   "imageSrc": "/articles/5-easy-tips-for-making-better-soup.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABwAgCdASoKAAoAAUAmJagCdLoAAv4c9wd80OyAAP64XmX/M7qAUw4HR49VjP9/VQ2MmQGoX/XMr2Ez40+dUv+r6Y9LXTUyl3XlI9OP+FGSLvYXl+z/te/m0X6noT09AbPgxX1dDiYZGhY+lLyHYzwVm5CU/+OZ67MoLKUrx9wbihiUa7y+SM3/jJFD5cXCEiFju6gwAAA=",
-  "createdAt": "2022-09-30T17:21:05.610Z",
-  "updatedAt": "2022-09-30T17:21:05.610Z",
+  "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAYsFvqZU9dIAP7Ks3U5e0TXLq/pcuN+Ib2DeLLKLfK56uV6kwR/OeV9C8+fP6xSGvdY/5iqvVNdEvmpGEKNS70uPiARK+VVE3xApOz6ShcK39vpFIXE70vSWN1W0la/H5z/+YWtOh0Or//hgq+PS++ftHugAA==",
+  "createdAt": "2022-10-01T12:12:31.110Z",
+  "updatedAt": "2022-10-01T12:12:31.110Z",
   "categoryLocal": "cooking",
   "slug": "5-easy-tips-for-making-better-soup",
   "locale": "en",
   "title": "5 easy tips for making better soup",
   "summary": "There are hundreds of recipes for every type of soup imaginable, but at the end of the day, the most important thing in any soup is the ingredients. If you start with low quality ingredients, your soup will taste like it came out of a can. If your soup is too thin, the best way to fix it is to reduce it on the stovetop for 10-15 minutes. Add your aromatics at the beginning of the pot from the very beginning. Slurp while you’re making it, it’s essential to creating delicious soup.",
-  "intro": "Making a pot of soup is one of the easiest home-cooked meals to make. You put some ingredients in a pot, bring it to a boil, and whirl it around for a while. There’s not much more to it than that. \nMaking great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren’t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.\nIf you’ve only ever made soup as an afterthought—something to keep in the pantry when you don’t feel like eating leftovers—it might be time to give it another look. Making great soup isn’t difficult once you know how. Here are 5 easy tips for making better soup:",
-  "content": "## Use quality ingredients\n\nThere are hundreds of recipes for every type of soup imaginable, but at the end of the day, the most important thing in any soup is the ingredients. If you start with low quality (or even just average quality) ingredients, your soup will taste like it came out of a can.\nIf you want to taste the freshness of your ingredients, you have to start with freshness. If you want your soup to be creamy without adding heavy cream, it’s essential that you use top quality butter. If you want your broth to be rich and deeply flavored, it needs to taste of chicken, not just water.\n\n## Always simmer your soup\n\nIf you want to make a delicious, rich soup, don’t bring it to a boil, bring it to a simmer. A boil is vigorous and chaotic, whereas a simmer is slow and controlled.\nA boil will cause your vegetables to break down and your broth to boil away into nothingness. A simmer, on the other hand, will slowly infuse your ingredients with flavor.\nIf your soup is too thin, the best way to fix it is to reduce it on the stovetop for 10-15 minutes—not to boil it harder.\n\n## Slurp while you’re simmering\n\nNot only is it polite to slurp your noodles when eating in Japan, it’s essential to creating delicious soup.\nIf you don’t taste your soup as you’re making it, you’re missing out on a huge part of the process. Taste your ingredients as they cook and adjust them to your liking.\nLet your taste buds help you create a soup that is perfectly seasoned and incredibly delicious.\n\n## Add your aromatics at the beginning\n\nNot all aromatics need to go in at the beginning, but most of them do. If you add onion and garlic at the end, they’ll lose their flavor.\nIf you want your soup to be rich and flavorful, add your aromatics to the pot from the very beginning.\nBy letting them simmer for the entire time your soup cooks, they’ll release tons of essential oils that will flavor your broth.\n\n## Don’t forget the garnishes!\n\nFresh herbs, croutons, grated cheese, and freshly ground pepper are just a few of the dozens of garnishes that make great soup even better.\nIf your soup is creamy and rich, a few fresh herbs will add a bright freshness.\nIf your soup is rich and hearty, a bit of brightness is just what it needs.\nIf your soup is rich and creamy, a bit of crunchy texture is just what it needs.\n\n## Conclusion\n\nSoup is the ultimate comfort food. It’s warm and nourishing, and it can be both hearty and light at the same time. It can be packed with lots of different ingredients or just one special ingredient, and it can be as simple or as complex as you want to make it.\nIf you want to make delicious, satisfying soup, these 5 easy tips are an excellent place to start!"
+  "intro": {
+    "compiledSource": "var y=Object.defineProperty,l=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?y(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,i=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&h(t,o,e[o]);if(a)for(var o of a(e))s.call(e,o)&&h(t,o,e[o]);return t},u=(t,e)=>l(t,f(e));var p=(t,e)=>{var o={};for(var n in t)r.call(t,n)&&e.indexOf(n)<0&&(o[n]=t[n]);if(t!=null&&a)for(var n of a(t))e.indexOf(n)<0&&s.call(t,n)&&(o[n]=t[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:t}=n,e=p(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Making a pot of soup is one of the easiest home-cooked meals to make. You put some ingredients in a pot, bring it to a boil, and whirl it around for a while. There\\u2019s not much more to it than that.\nMaking great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren\\u2019t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.\nIf you\\u2019ve only ever made soup as an afterthought\\u2014something to keep in the pantry when you don\\u2019t feel like eating leftovers\\u2014it might be time to give it another look. Making great soup isn\\u2019t difficult once you know how. Here are 5 easy tips for making better soup:`))}MDXContent.isMDXComponent=!0;\n",
+    "scope": {}
+  },
+  "content": {
+    "compiledSource": "var y=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(t,e,o)=>e in t?y(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,a=(t,e)=>{for(var o in e||(e={}))n.call(e,o)&&u(t,o,e[o]);if(s)for(var o of s(e))r.call(e,o)&&u(t,o,e[o]);return t},h=(t,e)=>d(t,p(e));var l=(t,e)=>{var o={};for(var i in t)n.call(t,i)&&e.indexOf(i)<0&&(o[i]=t[i]);if(t!=null&&s)for(var i of s(t))e.indexOf(i)<0&&r.call(t,i)&&(o[i]=t[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:t}=i,e=l(i,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Use quality ingredients\"),mdx(\"p\",null,`There are hundreds of recipes for every type of soup imaginable, but at the end of the day, the most important thing in any soup is the ingredients. If you start with low quality (or even just average quality) ingredients, your soup will taste like it came out of a can.\nIf you want to taste the freshness of your ingredients, you have to start with freshness. If you want your soup to be creamy without adding heavy cream, it\\u2019s essential that you use top quality butter. If you want your broth to be rich and deeply flavored, it needs to taste of chicken, not just water.`),mdx(\"h2\",null,\"Always simmer your soup\"),mdx(\"p\",null,`If you want to make a delicious, rich soup, don\\u2019t bring it to a boil, bring it to a simmer. A boil is vigorous and chaotic, whereas a simmer is slow and controlled.\nA boil will cause your vegetables to break down and your broth to boil away into nothingness. A simmer, on the other hand, will slowly infuse your ingredients with flavor.\nIf your soup is too thin, the best way to fix it is to reduce it on the stovetop for 10-15 minutes\\u2014not to boil it harder.`),mdx(\"h2\",null,\"Slurp while you\\u2019re simmering\"),mdx(\"p\",null,`Not only is it polite to slurp your noodles when eating in Japan, it\\u2019s essential to creating delicious soup.\nIf you don\\u2019t taste your soup as you\\u2019re making it, you\\u2019re missing out on a huge part of the process. Taste your ingredients as they cook and adjust them to your liking.\nLet your taste buds help you create a soup that is perfectly seasoned and incredibly delicious.`),mdx(\"h2\",null,\"Add your aromatics at the beginning\"),mdx(\"p\",null,`Not all aromatics need to go in at the beginning, but most of them do. If you add onion and garlic at the end, they\\u2019ll lose their flavor.\nIf you want your soup to be rich and flavorful, add your aromatics to the pot from the very beginning.\nBy letting them simmer for the entire time your soup cooks, they\\u2019ll release tons of essential oils that will flavor your broth.`),mdx(\"h2\",null,\"Don\\u2019t forget the garnishes!\"),mdx(\"p\",null,`Fresh herbs, croutons, grated cheese, and freshly ground pepper are just a few of the dozens of garnishes that make great soup even better.\nIf your soup is creamy and rich, a few fresh herbs will add a bright freshness.\nIf your soup is rich and hearty, a bit of brightness is just what it needs.\nIf your soup is rich and creamy, a bit of crunchy texture is just what it needs.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Soup is the ultimate comfort food. It\\u2019s warm and nourishing, and it can be both hearty and light at the same time. It can be packed with lots of different ingredients or just one special ingredient, and it can be as simple or as complex as you want to make it.\nIf you want to make delicious, satisfying soup, these 5 easy tips are an excellent place to start!`))}MDXContent.isMDXComponent=!0;\n",
+    "scope": {}
+  },
+  "relatedArticles": [
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/creative-ways-hanover-use-leftover-easter-eggs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJbACdC0QAVvI9nAA+U2TJpfM8RAvJedy1sYypRhB2tjOGr7JMOV1/98taXLJ3d/J6+/z5FYoak5/g0e//TVrM3/NnBOfJ9/6GTPRVR//4PbK/P/6G//hfwAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "creative-ways-hanover-use-leftover-easter-eggs",
+      "locale": "en",
+      "title": "Creative Ways Hanover Use Leftover Easter Eggs",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,g=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,o,t)=>o in e?y(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&h(e,t,o[t]);if(s)for(var t of s(o))i.call(o,t)&&h(e,t,o[t]);return e},l=(e,o)=>g(e,p(o));var u=(e,o)=>{var t={};for(var n in e)a.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&i.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Do you have a basket overflowing with leftover Easter eggs? Your family is probably not the only one. It\\u2019s no surprise that many people who love chocolate also love the holiday that revolves around it. However, what to do with all of those eggs once they are finished? Here are some creative ideas on how to use them up so they don\\u2019t go to waste.\nThere are more than 321 million people in the world who identify as Christian, which means there\\u2019s a pretty decent chance you know someone who celebrates Easter this time of year. That means now is your opportunity to bring some sunshine and happiness into the lives of your fellow humans by giving them something unexpected. An egg basket!\nThere\\u2019s nothing like hiding eggs for children to bring out their sense of wonder again, and it doesn\\u2019t cost much to set up an egg hunt in your own backyard or garden. Read on for some creative uses for those leftover Easter eggs that require very little effort.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/make-your-own-recipes-for-diy-condiments-and-sauces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdAYtVa02w3BZzQAA/vvY26vbNenDLNbVl9P53gDxd1xaN8aG/P/88B533uNajN/4OPxCcvkw8l6V83ClaQgaw0BMcfpVonql7Wz4wW3BBBe5zTEdcvd2arQKdFk/+FoMSUWn8z7fnu8YhzZcTNEMQAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "make-your-own-recipes-for-diy-condiments-and-sauces",
+      "locale": "en",
+      "title": "Make Your Own - Recipes for Diy Condiments and Sauces",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var h=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var i=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))h.call(o,t)&&i(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&i(e,t,o[t]);return e},u=(e,o)=>d(e,y(o));var m=(e,o)=>{var t={};for(var a in e)h.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The humble condiment is one of the most underrated heroes of the kitchen. A little bit of sauce here, a dollop of mayo there, and voila! You have transformed ho-hum chicken or burgers into something spectacular. Condiments are key flavor boosters in our food and playing around with different combinations can liven up your palate and change things up from day to day. But are you using these hidden gems in the best way possible? Many people tend to purchase store-bought sauces when they could easily make them at home at a fraction of the cost.\nHowever, we all know that homemade versions will be much healthier and fresher than anything you can buy from a store shelf, so why not take 30 minutes from your busy schedule to whip up some condiments? The good news is that many of these recipes are super easy to make \\u2013 even if you\\u2019re a complete newbie in the kitchen. From sweet chili sauce to mayo, here are our top 10 homemade condiments and sauces you should try making today...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/how-to-make-the-perfect-roast-chicken.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJbACdDBHQWlLYFEsIAD++2LegHN9PwuBhdp6vGDH9Ox2ziLEoacQl0swRd2uvZ/fj8rRKfhXF8AOWUHoXWw+CNnzBgypJQ6XnB1w1Kr/v/ypKSvXKv4W/nMB2v+Lbxvl5nSycBikAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "how-to-make-the-perfect-roast-chicken",
+      "locale": "en",
+      "title": "How to Make the Perfect Roast Chicken",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,f=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,a)=>o in e?y(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&c(e,a,o[a]);if(n)for(var a of n(o))s.call(o,a)&&c(e,a,o[a]);return e},u=(e,o)=>f(e,p(o));var h=(e,o)=>{var a={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&n)for(var t of n(e))o.indexOf(t)<0&&s.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=h(t,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Roast chicken is one of the most versatile and easy ways to cook meat. Roasted correctly, with a balance of flavourful seasonings, chicken can be juicy, tender and full of delicious flavour.\nRoasting also makes it easier to eat than fried chicken as you don\\u2019t have to worry about excess oil or unhealthy fat dripping into your diet. Roast chicken is a great source of protein\\u2014and if you get your bird from the farmers market or an organic grocery store, it's probably even pasture-raised and much healthier than anything you find in a supermarket.\nWith this recipe for roast chicken, you can enjoy roast chicken at home again and again. Keep reading for some great tips on how to make the perfect roast chicken every time!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/when-youre-short-on-time-30-minute-meals-or-less.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdDBHQWZbAcj2AAD+mx5UL30acKZ1foZ996BZR/jDLpMVYSkVpypnorUde6m9GNxX2/k+IQFXNIs/6GZn/gi+YIjpeSJZrXXWSOMp8f1TSh/8qrx8rH+YA/DHU2f//Xtqc25//j7JdRAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "when-youre-short-on-time-30-minute-meals-or-less",
+      "locale": "en",
+      "title": "When You're Short on Time: 30 Minute Meals or Less",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&l(e,t,o[t]);return e},h=(e,o)=>d(e,m(o));var u=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=u(a,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In an ideal world, you would be able to dedicate hours of your day to cooking and preparing wholesome meals. However, with busy work schedules and other obligations, it can be challenging to find the time to cook a healthy meal every night. To help you out in your time of need, we\\u2019ve compiled a list of quick and easy meals that take 30 minutes or less to make. These 30 minute meals or less will have you back on track in no time!\nIf you don\\u2019t have much time to spend in the kitchen after work or school, but want to eat healthy without picking up fast food, we\\u2019ve got your back. These quick and easy meals take 30 minutes or less from prep to finish. Each one is also perfect for busy weeknights when you don\\u2019t have much time for elaborate dinners or lengthy prep sessions. From sheet pan suppers to skillet dinners and more, there are plenty of affordable and accessible ideas here so you can get a home-cooked meal on the table lickety-split\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/could-veganism-be-the-answer-to-climate-change.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoBJADzMwYE24vQAAD+4NscrJzMlRdaky8JLye+2AkcWQqNLIdtWWSm41Xcvr4QXLK30lAS/v4LpAgRxKc3zbrW9fZmoujY+Kv8nJmjf4K8Af/uUK/Jw6/Ab08aKR/3oVszlmy/91yQfAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "could-veganism-be-the-answer-to-climate-change",
+      "locale": "en",
+      "title": "Could Veganism Be the Answer to Climate Change?",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,i=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>h(e,m(o));var u=(e,o)=>{var t={};for(var a in e)s.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=u(a,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, more than ever before, people are starting to take responsibility for their actions as individuals and as a society. The phenomenon of social consciousness is becoming more apparent and accessible to everyone, and it\\u2019s now easier than ever to understand the ethical and environmental implications of our actions.\nEven though most people are now aware of the role that climate change plays in destroying the planet and reducing its biodiversity, very few are taking actionable steps to reduce their carbon footprint by reducing waste and using cleaner energy. In addition to this, there is no singular answer or solution to reversing the effects of pollution on our home planet; rather, it will require an amalgamation of many different initiatives working together simultaneously.\nOne such initiative is veganism. A plant-based diet has a number of positive benefits on the environment \\u2014 mainly because raising livestock produces a substantial amount of greenhouse gas emissions. If we all stopped eating meat it would have a huge effect on carbon dioxide levels, deforestation rates, and natural water courses.\nAs you\\u2019ll discover from reading this article, veganism could be the answer to climate change; however, there are also some drawbacks. This article explores all angles so that you can make an informed decision whether you\\u2019d like to become vegan or not.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/is-organic-really-worth-the-extra-cost.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAgCdASoKAAoAAUAmJbACdLoBJgP4ABhV70sTP4oAAP7zjDbYfMwE+fZD8P8CUYX0hB4vvhOypcMd4BPqRmZWL3jyfWpDm0LoboJv9pQmJ7ScqI1a+oqZz4n//KYhAi2b9BaEz+Tf/2fi6f6G/+419EaDDMoFoBm4qfyb/9uv3vgA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "is-organic-really-worth-the-extra-cost",
+      "locale": "en",
+      "title": "Is Organic Really Worth the Extra Cost?",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,m=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,h=Object.prototype.propertyIsEnumerable;var s=(t,e,o)=>e in t?d(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,r=(t,e)=>{for(var o in e||(e={}))i.call(e,o)&&s(t,o,e[o]);if(a)for(var o of a(e))h.call(e,o)&&s(t,o,e[o]);return t},c=(t,e)=>m(t,y(e));var g=(t,e)=>{var o={};for(var n in t)i.call(t,n)&&e.indexOf(n)<0&&(o[n]=t[n]);if(t!=null&&a)for(var n of a(t))e.indexOf(n)<0&&h.call(t,n)&&(o[n]=t[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:t}=n,e=g(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`You can\\u2019t open a magazine or social media feed these days without seeing something about the organic food movement. In fact, the organic food market is growing faster than any other segment of the food industry. According to the Organic Trade Association, sales of organic foods increased by almost 10% in 2017 alone. And given that more and more consumers are becoming aware of what they\\u2019re eating and where it comes from, that isn\\u2019t going to change anytime soon. Which begs the question: Are all those new organic options worth it? Do they really taste better than conventional alternatives? Are they healthier for you? And most importantly, is the cost worth it?\nIf you read through all the information on different types of organic foods and their benefits, you might be feeling a little overwhelmed right now. That\\u2019s totally normal! But don\\u2019t fret\\u2014we have you covered with everything you need to know about whether or not organic is worth its hefty price tag.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/the-top-10-healthiest-foods-to-eat.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdDXAB5y4GKafAAD+1Qy78LVga9DVu22fRuzDI0RiTxr+oIWwpDDskDRMPnu1rHxy24OOAs5Cst7SfOdL/z/z/x/uwYBMF9g8Y35tfsAyb9SP/zGYr75j/v/v6N4REq//14J+8HFXn/9af8svuTf/xq4A",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "the-top-10-healthiest-foods-to-eat",
+      "locale": "en",
+      "title": "The Top 10 Healthiest Foods to Eat",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var h=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var r=(t,e,a)=>e in t?g(t,e,{enumerable:!0,configurable:!0,writable:!0,value:a}):t[e]=a,i=(t,e)=>{for(var a in e||(e={}))h.call(e,a)&&r(t,a,e[a]);if(n)for(var a of n(e))s.call(e,a)&&r(t,a,e[a]);return t},u=(t,e)=>l(t,d(e));var y=(t,e)=>{var a={};for(var o in t)h.call(t,o)&&e.indexOf(o)<0&&(a[o]=t[o]);if(t!=null&&n)for(var o of n(t))e.indexOf(o)<0&&s.call(t,o)&&(a[o]=t[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:t}=o,e=y(o,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Keeping a balanced diet is essential for leading a healthy lifestyle. It can be challenging to eat the right amount of nutrients every day, but with the right information it\\u2019s not as scary as you might think. Everyone has their own ideas about what healthy eating looks like, and that can make things confusing. You might have heard different things about what type of food is good for you and which ones should be avoided at all costs. But figuring out what the right kind of healthy is and how to achieve it isn\\u2019t as hard as you might think. This article will teach you everything you need to know about eating healthily and getting the right balance of nutrients in your body.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/30-easy-and-healthy-dinner-recipes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdDBOwZIk6gbZr+AA/vP3e/3I28jGJhtubEIDfEfT+YQeEFeFJ++o0kHL4vdw7FiIAu9unJ7d7Bb2AV3pOUz9x/7P/VIl1w9NX//jYxb//tJq2/7qA3uIz/Tsvw+UO8GxJdOrJwwmOAAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "30-easy-and-healthy-dinner-recipes",
+      "locale": "en",
+      "title": "30 Easy and Healthy Dinner Recipes",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,r=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&h(e,a,t[a]);if(o)for(var a of o(t))s.call(t,a)&&h(e,a,t[a]);return e},l=(e,t)=>y(e,d(t));var u=(e,t)=>{var a={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are there ever enough nights in the week to fit in all your responsibilities? If you\\u2019re like most people, probably not. That leaves finding time to make a healthy dinner a challenge. Fortunately, these quick and easy healthy dinner recipes will help you get through the week without stopping at a fast food drive-thru or breaking the bank on takeout again.\nThese easy and healthy dinner ideas can be ready in as little as 30 minutes and cost no more than $10 per serving. That means they\\u2019re cheap, fast, and nutritious -- an unbeatable combination. Whether you\\u2019re after a one-pot supper, something for leftovers, or simple salads that can be quickly thrown together, we have you covered with these fantastic affordable and wholesome recipes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/how-to-cut-out-processed-foods-from-your-diet.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAACwAgCdASoKAAoAAUAmJbACdLoAEhcLVcHTu4dl4kgA/B7843T8nnwObeJ96gnbf5l6ayF21fOMC4Z81D6ztchv/Kpbn2t/JV4NS+eXip6pwXcDV4WvouBGbXsna8n7s1wsoVKmS0SjVHcb1ePjvh3sF7eDfW6nrgoFBUOdSn9bXy1/vsZYaMCkcDMrHsmHDG/TrN/wb7RQRkPSWVxyIAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "how-to-cut-out-processed-foods-from-your-diet",
+      "locale": "en",
+      "title": "How to Cut Out Processed Foods from Your Diet",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,u=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var i=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&i(e,o,a[o]);if(t)for(var o of t(a))d.call(a,o)&&i(e,o,a[o]);return e},c=(e,a)=>u(e,f(a));var h=(e,a)=>{var o={};for(var s in e)r.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&t)for(var s of t(e))a.indexOf(s)<0&&d.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=h(s,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Processed foods are often vilified for being unhealthy and fattening. However, the word \\u2018processed\\u2019 can be misleading.\nProcessed foods almost always have a shorter shelf life than their unprocessed counterparts. This is because they have been altered in some way to make them last longer and to make them more convenient to consume. Processed foods are not necessarily unhealthy and unprocessed foods aren\\u2019t always healthy.\nProcessing can take many forms. Some examples of processed foods include canned goods, frozen meals, packaged snacks, oils that have been refined or hydrogenated (as in Crisco), salt, sugar and starch that has been extracted from its original source (as in corn syrup or white sugar), spices that have been ground up, protein that has had artificial flavors or preservatives added to it (as in MSG), or food that has had artificial colors added to it (such as Red 40).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/meal-prepping-on-a-budget-tips-and-tricks.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwCdAEQ/Ua/XuwAAP74N514WjUYv+nnIukv06cn8uXHJue1qafx54C9gDMkK0ArUDdWgzvbS5oR6lFQkxyhR0DmLgb8coROZNZGJ6YFdW3FzQumGanYdULSNP7D4ZD6LYxJIkAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "cooking",
+      "slug": "meal-prepping-on-a-budget-tips-and-tricks",
+      "locale": "en",
+      "title": "Meal Prepping on a Budget- Tips and Tricks",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,t)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&u(e,t,o[t]);if(i)for(var t of i(o))s.call(o,t)&&u(e,t,o[t]);return e},p=(e,o)=>y(e,d(o));var m=(e,o)=>{var t={};for(var n in e)r.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,p(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Meal prep is an essential part of staying on track with healthy eating and weight loss goals. It requires a time commitment, but it\\u2019s well worth it in the long run!\nAny time you make a conscious decision to spend your time and energy making food instead of buying it from a fast food joint, you\\u2019re doing something positive for your future. Meal prep allows us to take control over what we eat so that we\\u2019re not at the mercy of vending machines, drive-thru windows, or delivery options.\nMeal prep doesn\\u2019t have to be expensive or time-consuming. With some planning and a few simple tricks, you can save money while also streamlining your food preparation routine.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

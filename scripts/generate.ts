@@ -4,6 +4,7 @@ dotenv.config();
 
 import ora from "ora";
 import { generateArticles } from "./generateArticles";
+import { generateRelatedArticles } from "./generateRelatedArticles";
 import { generateSitemap } from "./generateSitemap";
 
 async function generate() {
@@ -15,6 +16,7 @@ async function generate() {
   spinner.start();
 
   await generateArticles(spinner);
+  await generateRelatedArticles(spinner);
   await generateSitemap(spinner);
 
   spinner.prefixText = "✅";

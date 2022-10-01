@@ -1,14 +1,172 @@
 {
   "category": "coding",
   "imageSrc": "/articles/go-language-for-web-scraping.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwAgCdASoKAAoAAUAmJbACdLoAAv2guM6LAAD+/YWv4es+2fLPFFV//RgVJ74259dCl4z4qokgfbp9dhWjHduHAB/nbq+DrtYI4OMI+H8sDtafk/mKcfwN7HljLLKp03/jF/8q7/4nXX/n/j/j3Xjqil2zSMxF+YfUXZ+o1HyNJ7De/xvjowMgAAA=",
-  "createdAt": "2022-09-30T17:22:10.280Z",
-  "updatedAt": "2022-09-30T17:22:10.280Z",
+  "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAQCdASoKAAoAAUAmJZgCdAEOlXuEbAD+/WD97vQ8f/+KDDtD7jn7wvf+ofNU5qS1quy5XnnUf+CggeTNnE1nzYtBuTea/Pq25g2BcDDwSr/nzLI+s3EnYl2Flm0WdTpxm3W87KyqH/LjRiJDSMlX1nYUi/0b1vD71nnYUvJG4AAA",
+  "createdAt": "2022-10-01T12:13:41.726Z",
+  "updatedAt": "2022-10-01T12:13:41.726Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-web-scraping",
   "locale": "en",
   "title": "Go Language For Web Scraping",
   "summary": "Web scraping is the extraction of data from websites to retrieve specific data in a machine-readable format. Python is a general-purpose high-level programming language. Java’s reputation for scalability and its ability to run on most systems makes it a great candidate for web scraping. Node.js is a programming language that runs inside a web browser and is used to create and build web applications. Ruby is designed to simplify the process of programming and make it more accessible to new and experienced programmers.",
-  "intro": "Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.",
-  "content": "## What is Web Scraping?\n\nWeb scraping is the process of crawling websites to retrieve specific data in a machine-readable format. Web scraping is the extraction of data from websites. It is an automated process that uses computer code to extract data from websites for analysis and research purposes. New technologies are bringing a fresh wave of opportunities for web scraping, but with new challenges as well.\n\nWeb scraping can be helpful for many reasons. It can be used to gather data for marketing purposes such as for analytics, product reviews, and competitor analysis. It can also be used to gather data for research purposes such as social media sentiment analysis, public health, and environmental studies.\n\n## 5 Best Programming Languages for Web Scraping\n\nThere are many programming languages used for web scraping and extracting data. But few of the programming languages are preferable for web scraping when compared with each other. Based on our research, these are the 5 best programming languages for web scraping.\n\nPython - Python is a general-purpose high-level programming language. It is designed to be highly readable and simple to learn and use. The language has very few concepts that are new to programming, and it is one of the easiest languages to learn. Python is also a language that is used for almost everything, ranging from data science to web scraping.\n\nJava - Java is a general-purpose programming language that can be used to create programs that run on the web, on computers, or in different types of devices, like mobile phones. This is one of the reasons why more people are using Java for web scraping. Java’s reputation for scalability and its ability to run on most systems makes it a great candidate for web scraping.\n\nNode.js - Node.js is a programming language that runs inside a web browser and is used to create and build web applications. This makes Node.js a good choice for web scraping since it’s useful for creating a variety of programs and websites.\n\nRuby - Ruby is a general-purpose, object-oriented programming language that is used in the creation of websites, applications, and software programs. It is designed to simplify the process of programming and make it more accessible to new and experienced programmers. Because of these reasons, Ruby is one of the best programming languages for web scraping.\n\n## Conclusion\n\nThe data you obtain from web scraping is not always 100% accurate and can sometimes be misleading. As a result, web scraping is a controversial practice and is often banned from websites. When used appropriately, however, web scraping is a powerful tool for collecting large amounts of data quickly and efficiently.\n\nBecause of the increasing popularity of artificial intelligence, we can expect more changes in the programming languages used for web scraping. The future of web scraping will be powered by machine learning, which will allow computers to become more intelligent and adaptable to different situations."
+  "intro": {
+    "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,n=Object.prototype.propertyIsEnumerable;var c=(a,e,t)=>e in a?m(a,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):a[e]=t,s=(a,e)=>{for(var t in e||(e={}))i.call(e,t)&&c(a,t,e[t]);if(o)for(var t of o(e))n.call(e,t)&&c(a,t,e[t]);return a},p=(a,e)=>l(a,u(e));var g=(a,e)=>{var t={};for(var r in a)i.call(a,r)&&e.indexOf(r)<0&&(t[r]=a[r]);if(a!=null&&o)for(var r of o(a))e.indexOf(r)<0&&n.call(a,r)&&(t[r]=a[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:a}=r,e=g(r,[\"components\"]);return mdx(MDXLayout,p(s(s({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+    "scope": {}
+  },
+  "content": {
+    "compiledSource": "var l=Object.defineProperty,u=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(e,a,s)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,o=(e,a)=>{for(var s in a||(a={}))t.call(a,s)&&p(e,s,a[s]);if(n)for(var s of n(a))i.call(a,s)&&p(e,s,a[s]);return e},g=(e,a)=>u(e,h(a));var c=(e,a)=>{var s={};for(var r in e)t.call(e,r)&&a.indexOf(r)<0&&(s[r]=e[r]);if(e!=null&&n)for(var r of n(e))a.indexOf(r)<0&&i.call(e,r)&&(s[r]=e[r]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var r=s,{components:e}=r,a=c(r,[\"components\"]);return mdx(MDXLayout,g(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"What is Web Scraping?\"),mdx(\"p\",null,\"Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. Web scraping is the extraction of data from websites. It is an automated process that uses computer code to extract data from websites for analysis and research purposes. New technologies are bringing a fresh wave of opportunities for web scraping, but with new challenges as well.\"),mdx(\"p\",null,\"Web scraping can be helpful for many reasons. It can be used to gather data for marketing purposes such as for analytics, product reviews, and competitor analysis. It can also be used to gather data for research purposes such as social media sentiment analysis, public health, and environmental studies.\"),mdx(\"h2\",null,\"5 Best Programming Languages for Web Scraping\"),mdx(\"p\",null,\"There are many programming languages used for web scraping and extracting data. But few of the programming languages are preferable for web scraping when compared with each other. Based on our research, these are the 5 best programming languages for web scraping.\"),mdx(\"p\",null,\"Python - Python is a general-purpose high-level programming language. It is designed to be highly readable and simple to learn and use. The language has very few concepts that are new to programming, and it is one of the easiest languages to learn. Python is also a language that is used for almost everything, ranging from data science to web scraping.\"),mdx(\"p\",null,\"Java - Java is a general-purpose programming language that can be used to create programs that run on the web, on computers, or in different types of devices, like mobile phones. This is one of the reasons why more people are using Java for web scraping. Java\\u2019s reputation for scalability and its ability to run on most systems makes it a great candidate for web scraping.\"),mdx(\"p\",null,\"Node.js - Node.js is a programming language that runs inside a web browser and is used to create and build web applications. This makes Node.js a good choice for web scraping since it\\u2019s useful for creating a variety of programs and websites.\"),mdx(\"p\",null,\"Ruby - Ruby is a general-purpose, object-oriented programming language that is used in the creation of websites, applications, and software programs. It is designed to simplify the process of programming and make it more accessible to new and experienced programmers. Because of these reasons, Ruby is one of the best programming languages for web scraping.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"The data you obtain from web scraping is not always 100% accurate and can sometimes be misleading. As a result, web scraping is a controversial practice and is often banned from websites. When used appropriately, however, web scraping is a powerful tool for collecting large amounts of data quickly and efficiently.\"),mdx(\"p\",null,\"Because of the increasing popularity of artificial intelligence, we can expect more changes in the programming languages used for web scraping. The future of web scraping will be powered by machine learning, which will allow computers to become more intelligent and adaptable to different situations.\"))}MDXContent.isMDXComponent=!0;\n",
+    "scope": {}
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZwC7AEQ/c9pFGYAAP7+Ld91k4CuTWLekqwAee8v9Jz16HjQngQDcCNwgw6K/2AMPsYKLLSo6txnXk076MriagAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "java-performance-tuning",
+      "locale": "en",
+      "title": "Java Performance Tuning",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,f=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var s=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&s(e,t,a[t]);if(n)for(var t of n(a))c.call(a,t)&&s(e,t,a[t]);return e},p=(e,a)=>f(e,h(a));var u=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&c.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJbACdGuAAs0l1tvNQAD++Jwg2Z3508MWfN9L+WQqlQCRbZ6z6F3qYpsnqphuI2J1YE5LPpIF1d93h78re4Po3J05ipDDnBAg+v9OVB6/yoM4P9iGp/oTYd//mFrhcvn/IJ2Bfwa3YAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-faster",
+      "locale": "en",
+      "title": "How to Code Faster",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(i)for(var t of i(o))s.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>u(e,d(o));var y=(e,o)=>{var t={};for(var n in e)r.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=y(n,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAD5ieWIavXAAP7+ZUr9Db/RGe3yR0UXTt67e29qfRbAY4qVh3s03Bfwfkd53v0KXNjVrbGtIFBw+5cd3S39mcYPsOtjSbk0JXxrl6wN9ixqAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,o=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&c(e,a,t[a]);if(i)for(var a of i(t))r.call(t,a)&&c(e,a,t[a]);return e},l=(e,t)=>p(e,d(t));var m=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=m(n,[\"components\"]);return mdx(MDXLayout,l(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCw7EsTAW8AAD+/bpInbikdySjF438xr0S9xESa3mmfjXenv4wz9+3n+48ySau8EmHOvok/+u5FUBQU/1Cc/9GLj/VDB1hsAbY+BP737NFhKy5cn3AAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(o,e,t)=>e in o?c(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,a=(o,e)=>{for(var t in e||(e={}))i.call(e,t)&&l(o,t,e[t]);if(s)for(var t of s(e))r.call(e,t)&&l(o,t,e[t]);return o},m=(o,e)=>d(o,h(e));var u=(o,e)=>{var t={};for(var n in o)i.call(o,n)&&e.indexOf(n)<0&&(t[n]=o[n]);if(o!=null&&s)for(var n of s(o))e.indexOf(n)<0&&r.call(o,n)&&(t[n]=o[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:o}=n,e=u(n,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkw7LosAAD+iJR8z2oni72WBtP38IcNO9vWz+t9OWWnT6LPcMuiiDLOstslCI+yo4ZaUekmzimfra3RNaIfyKP5VeCP/nvpn/p9vP+4VAT/xQ0b/BFb/s3/9czxL9UAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&h(e,t,a[t]);if(n)for(var t of n(a))s.call(a,t)&&h(e,t,a[t]);return e},l=(e,a)=>u(e,m(a));var c=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=c(o,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoKAAoAAUAmJQBOgCHZhtJigAD+/QZv0Nwb9NEvtjjpSgH6z8YLU6P2LNu+86WGJ+lCkjGv/ejnBhOnj7C1rq1lR+T8+gRzGBwr2prhEpwxjdEzyKP6Zq9QAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?l(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,a=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(r)for(var t of r(n))i.call(n,t)&&d(e,t,n[t]);return e},h=(e,n)=>p(e,g(n));var u=(e,n)=>{var t={};for(var o in e)s.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&r)for(var o of r(e))n.indexOf(o)<0&&i.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdLoAEIwXpxFAzlGAAP7xukfoZHGfROt0fjzAUTNq5i8tSZRpvZ5ymU/aA/nOVu1Jmvuet5JYudWEy352559LERr86G0aprREJi3FBRqdfMqq36tO2V2ztm4Xu/ZrP/2Ftb82P9G87Qp/lln/uNN7irz/u1zsp/8ZU/HMpx2PQXmjMRbzL9UIAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,i)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[o]=i,n=(e,o)=>{for(var i in o||(o={}))r.call(o,i)&&l(e,i,o[i]);if(a)for(var i of a(o))s.call(o,i)&&l(e,i,o[i]);return e},p=(e,o)=>u(e,m(o));var c=(e,o)=>{var i={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(i[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(i[t]=e[t]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var t=i,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAoAAUAmJbACdLoB+AADID51BZAA/urz+I+RyI76lZ1Ls2D5W/e9ZqLzFj1DLTpFWOtn5eJ/gtR4KFJ/7q3t3/N95N7fDj/ucbr5HH/yOP/5miY8JeYAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,n=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(i)for(var t of i(o))a.call(o,t)&&l(e,t,o[t]);return e},p=(e,o)=>d(e,h(o));var u=(e,o)=>{var t={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(t[s]=e[s]);if(e!=null&&i)for(var s of i(e))o.indexOf(s)<0&&a.call(e,s)&&(t[s]=e[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJYwCdAYuRuJ3reVZiwAA/vZscuuxoMuZAEvi43WHxq5BG9+5+qHo3TNbGw3f/ln+3i5HoXEPL4cTmfWLzpycsLHWHBvtg4ghW2LZrNHjfGCY4rhkVMZN9LjqWOFfFId6/sWC78AAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-tool-for-data-analysis",
+      "locale": "en",
+      "title": "Python - A Tool for Data Analysis",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,c=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(a,e,n)=>e in a?y(a,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):a[e]=n,s=(a,e)=>{for(var n in e||(e={}))i.call(e,n)&&l(a,n,e[n]);if(t)for(var n of t(e))r.call(e,n)&&l(a,n,e[n]);return a},d=(a,e)=>c(a,f(e));var u=(a,e)=>{var n={};for(var o in a)i.call(a,o)&&e.indexOf(o)<0&&(n[o]=a[o]);if(a!=null&&t)for(var o of t(a))e.indexOf(o)<0&&r.call(a,o)&&(n[o]=a[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:a}=o,e=u(o,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Data analysis is a crucial element of many fields today. With data being collected from all sources, businesses need to use the data effectively in order to drive their company forward. Organizations are turning to data analysis software to process and understand the information they have stored.\nAnalyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we\\u2019ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoKAAoAAUAmJZwC7H8AGBn4t00IAAD+/t+28B2pgLXKPvOXehTACnu0tH8RuoP/zgP9NQkMQvgghp63Y+43vg9y0zCmKdiYf0cD6gm+sIhSbwtz4AA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-gui-programming",
+      "locale": "en",
+      "title": "Go Language for Gui Programming",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var p=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var i=(e,o,a)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))p.call(o,a)&&i(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&i(e,a,o[a]);return e},m=(e,o)=>l(e,u(o));var d=(e,o)=>{var a={};for(var r in e)p.call(e,r)&&o.indexOf(r)<0&&(a[r]=e[r]);if(e!=null&&t)for(var r of t(e))o.indexOf(r)<0&&s.call(e,r)&&(a[r]=e[r]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var r=a,{components:e}=r,o=d(r,[\"components\"]);return mdx(MDXLayout,m(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

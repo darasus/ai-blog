@@ -1,30 +1,20 @@
-import { Box, Divider, Text } from "@chakra-ui/react";
+import { Divider } from "@chakra-ui/react";
 import { Meta } from "../../components/Meta";
 import { DetailedPost } from "../../components/Post/DetailedPost";
 import { PostListSection } from "../../components/Post/PostListSection";
-import { Locale, Post } from "../../types";
+import { Post } from "../../types";
 import { capitalize } from "../../isomorphic-utils/capitalize";
 import { getPost } from "../../node-utils/getPost";
-import { getPosts, PageInfo } from "../../node-utils/getPosts";
+import { PageInfo } from "../../node-utils/getPosts";
 import { GetStaticPaths, GetStaticProps } from "next";
-import { useRouter } from "next/router";
+import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 
 interface Props extends PageInfo {
   post: Post;
 }
 
-export default function Home({ post, data }: Props) {
-  const router = useRouter();
-
-  if (router.isFallback) {
-    return (
-      <Box p={4}>
-        <Text>Loading...</Text>
-      </Box>
-    );
-  }
-
-  const { title, content, createdAt, summary, category, slug } = post;
+export default function Home({ post }: Props) {
+  const { title, summary, category, slug } = post;
   return (
     <>
       <Meta
@@ -44,7 +34,7 @@ export default function Home({ post, data }: Props) {
       <Divider />
       <PostListSection
         title={`Other in ${capitalize(category)}`}
-        posts={data}
+        posts={post.relatedArticles}
       />
     </>
   );
@@ -52,9 +42,8 @@ export default function Home({ post, data }: Props) {
 
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
-    // paths: await generatePostPageStaticPaths(),
-    paths: [],
-    fallback: "blocking",
+    paths: await generatePostPageStaticPaths(),
+    fallback: false,
   };
 };
 
@@ -63,16 +52,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 
   if (!post) return { notFound: true };
 
-  const posts = await getPosts({
-    locale: ctx.locale as Locale,
-    category: post?.category,
-    excludeBySlug: [post?.slug],
-    order: "random",
-    numberOfItems: 10,
-  });
-
   return {
-    props: { post, ...posts },
-    revalidate: 60,
+    props: { post },
   };
 };

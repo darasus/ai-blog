@@ -1,14 +1,172 @@
 {
   "category": "coding",
   "imageSrc": "/articles/building-a-hibernate-application.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAACQAgCdASoKAAoAAUAmJagCdBOAFyLvc8UZm7TGAAD++P3pGy/wa/J/PadMQNTOE3zxuU/+4+AjWjS+P+h7/+DxnV3RcNSV5MJfPHd8e62HSGibfh6THWrf/AMFv2zw7bKOVfQgYmlwB1BWZRvv3H6xjOp94huH/j3WWBV/6EMCp/Jv5tle/gzF4vj+xwOzilRUYUp5gAA=",
-  "createdAt": "2022-09-30T17:22:06.782Z",
-  "updatedAt": "2022-09-30T17:22:06.782Z",
+  "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJbACdAELS4dqAADeZH0wur2UjlNc3z4T0+++6ABSFOVT3H//0CvYUyPn53fc8GPt9F10p0bfSMf9cu3/6/2o6a07ROJ/8tX0k2p+NgAv+JyV5VTiYAAA",
+  "createdAt": "2022-10-01T12:13:37.866Z",
+  "updatedAt": "2022-10-01T12:13:37.866Z",
   "categoryLocal": "coding",
   "slug": "building-a-hibernate-application",
   "locale": "en",
   "title": "Building A Hibernate Application",
   "summary": "Hibernate is an open source Object-Relational Mapping (ORM) library. It is the most widely used tool for mapping Java objects and database tables. It can be used in any type of application, but is particularly appealing to developers who use a Java-based programming language. The logic to retrieve data from a database is built into the library. In this article, we looked at the fundamentals of setting up a project, creating tables and handling user logins. We also discussed the best practices in setting up and creating a Java domain model.",
-  "intro": "In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you’ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!",
-  "content": "## Introduction to Hibernate\n\nHibernate is an open source Object-Relational Mapping (ORM) library. It is the most widely used tool for mapping Java objects and database tables.\nHibernate is designed to be independent of a particular database system. It is supported by many database vendors including Oracle, Microsoft, IBM, and PostgreSQL. It can be used in any type of application, but is particularly appealing to application developers who use a Java-based programming language.\n\nThe great advantage of Hibernate is that it relieves us from writing SQL statements. The logic to retrieve data from a database is built into the Hibernate library. This means you can focus more on the domain model of your application and leave the database-specific details to the Hibernate library.\n\n## Installing Hibernate in our Java Project\n\nFirst, we need to install Hibernate on our computer and set it up within our Java project. To do this, we need to download the latest version of Hibernate from the official Hibernate website.\n\nNext, we need to make sure that our build tool knows about the Hibernate libraries. To do this, we will modify the build.gradle file in our project directory.\n\nbuild.gradle \n\n## Creating and Running a Maven Project with Hibernate\n\nIf you haven’t yet created a Maven project, you can follow this Maven tutorial and create a new directory for your Hibernate project. Within this new directory, you can create a pom.xml file to define some information about our project and its dependencies. Now, we can add the Hibernate libraries to our dependencies and create a Java domain model.\n\npom.xml \n\n## Building the User table and persistence code\n\nAfter creating a simple Maven project and adding the Hibernate libraries, we can create a user table in our database. To do this, we need to create a class called User in our Java code and add fields for each of the columns in our table.\n\nAfter creating the class, we can call the save() method on the User instance to persist it to the database. If you are using PostgreSQL, you can use the create() method instead.\n\nUser.java \n\n## Conclusion\n\nIn this article, we looked at the fundamentals of setting up a project, creating tables and handling user logins. We also discussed the introduction to Hibernate and how to install it on our computer. We also discussed the best practices in setting up a Maven project and creating a Java domain model. Hibernate is an excellent tool to manage database tables and their contents and to easily persist objects to a database."
+  "intro": {
+    "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&l(e,a,t[a]);return e},u=(e,t)=>d(e,b(t));var h=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=h(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+    "scope": {}
+  },
+  "content": {
+    "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&d(e,t,a[t]);if(n)for(var t of n(a))s.call(a,t)&&d(e,t,a[t]);return e},l=(e,a)=>u(e,b(a));var c=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=c(o,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Introduction to Hibernate\"),mdx(\"p\",null,`Hibernate is an open source Object-Relational Mapping (ORM) library. It is the most widely used tool for mapping Java objects and database tables.\nHibernate is designed to be independent of a particular database system. It is supported by many database vendors including Oracle, Microsoft, IBM, and PostgreSQL. It can be used in any type of application, but is particularly appealing to application developers who use a Java-based programming language.`),mdx(\"p\",null,\"The great advantage of Hibernate is that it relieves us from writing SQL statements. The logic to retrieve data from a database is built into the Hibernate library. This means you can focus more on the domain model of your application and leave the database-specific details to the Hibernate library.\"),mdx(\"h2\",null,\"Installing Hibernate in our Java Project\"),mdx(\"p\",null,\"First, we need to install Hibernate on our computer and set it up within our Java project. To do this, we need to download the latest version of Hibernate from the official Hibernate website.\"),mdx(\"p\",null,\"Next, we need to make sure that our build tool knows about the Hibernate libraries. To do this, we will modify the build.gradle file in our project directory.\"),mdx(\"p\",null,\"build.gradle \"),mdx(\"h2\",null,\"Creating and Running a Maven Project with Hibernate\"),mdx(\"p\",null,\"If you haven\\u2019t yet created a Maven project, you can follow this Maven tutorial and create a new directory for your Hibernate project. Within this new directory, you can create a pom.xml file to define some information about our project and its dependencies. Now, we can add the Hibernate libraries to our dependencies and create a Java domain model.\"),mdx(\"p\",null,\"pom.xml \"),mdx(\"h2\",null,\"Building the User table and persistence code\"),mdx(\"p\",null,\"After creating a simple Maven project and adding the Hibernate libraries, we can create a user table in our database. To do this, we need to create a class called User in our Java code and add fields for each of the columns in our table.\"),mdx(\"p\",null,\"After creating the class, we can call the save() method on the User instance to persist it to the database. If you are using PostgreSQL, you can use the create() method instead.\"),mdx(\"p\",null,\"User.java \"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"In this article, we looked at the fundamentals of setting up a project, creating tables and handling user logins. We also discussed the introduction to Hibernate and how to install it on our computer. We also discussed the best practices in setting up a Maven project and creating a Java domain model. Hibernate is an excellent tool to manage database tables and their contents and to easily persist objects to a database.\"))}MDXContent.isMDXComponent=!0;\n",
+    "scope": {}
+  },
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJbACdLoAAv3rPr8zAAD++yY0FUpnR3dw9DK5YfZxi/3r94vv1z61rdNoZRFcAIHHr1/MOK0O/9WpCZfwqKXLX/uLi/ZbR3GMBBycu//M0fpN9JvMAAAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))n.call(o,a)&&u(e,a,o[a]);if(r)for(var a of r(o))i.call(o,a)&&u(e,a,o[a]);return e},c=(e,o)=>m(e,d(o));var l=(e,o)=>{var a={};for(var t in e)n.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&i.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdLoAEIwXpxFAzlGAAP7xukfoZHGfROt0fjzAUTNq5i8tSZRpvZ5ymU/aA/nOVu1Jmvuet5JYudWEy352559LERr86G0aprREJi3FBRqdfMqq36tO2V2ztm4Xu/ZrP/2Ftb82P9G87Qp/lln/uNN7irz/u1zsp/8ZU/HMpx2PQXmjMRbzL9UIAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,i)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[o]=i,n=(e,o)=>{for(var i in o||(o={}))r.call(o,i)&&l(e,i,o[i]);if(a)for(var i of a(o))s.call(o,i)&&l(e,i,o[i]);return e},p=(e,o)=>u(e,m(o));var c=(e,o)=>{var i={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(i[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(i[t]=e[t]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var t=i,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJYwC7AYUAV1LK9FfgAD+97R/X/36K4hzsn1CZJflT/4n32XzA0adF/G+Pm9Wa9/EbImSkjU+iNwNancnMSbSNUfp/z+go1//OraZWIx30doFT/HdhrQ1CXh+jdVwD6yZQUeA27MQlQQ3AAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))a.call(o,n)&&c(e,n,o[n]);if(r)for(var n of r(o))s.call(o,n)&&c(e,n,o[n]);return e},g=(e,o)=>d(e,y(o));var l=(e,o)=>{var n={};for(var t in e)a.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJQBOhxAAKKqiNnR8wAD+/P1u0WSrcV/kbzS2V/NM5mQSHSH8rYCJVknPV+rB7i55UYy3E/VnOSnS4lV3FW5y8bVoSe2aq7Qt8en/csaJhfmHgbNs/YdZ3aPJD597Xf6Fdg094yl0dwAA",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "5-tricks-to-help-you-master-javascript-in-5-minutes",
+      "locale": "en",
+      "title": "5 Tricks to Help You Master JavaScript in 5 Minutes",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var g=(e,a,i)=>a in e?c(e,a,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[a]=i,o=(e,a)=>{for(var i in a||(a={}))r.call(a,i)&&g(e,i,a[i]);if(n)for(var i of n(a))s.call(a,i)&&g(e,i,a[i]);return e},p=(e,a)=>l(e,d(a));var u=(e,a)=>{var i={};for(var t in e)r.call(e,t)&&a.indexOf(t)<0&&(i[t]=e[t]);if(e!=null&&n)for(var t of n(e))a.indexOf(t)<0&&s.call(e,t)&&(i[t]=e[t]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var t=i,{components:e}=t,a=u(t,[\"components\"]);return mdx(MDXLayout,p(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you\\u2019ve just started learning programming or are struggling to get a grasp of it, Javascript can be one tough nut to crack. This dynamic and functional programming language is used for creating interactive websites and applications.\nThe scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it\\u2019s also a great first programming language because of its simplicity, accessibility, and ease of availability online.\nBut like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAELX5Rg/gAA/vS/h/dp/bmB6Lmu3PUV3mzI8P5jsScwr2T6Z9WA2xo+PSV14KVdwHXipjM3Gl53bVOoGIaPI7IFJDKYKtxjWuC5wsN4jBkNKFvD/3c0cuSL8/sgtYL5/thMg/moAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>p(e,g(o));var u=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=u(r,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkw7LosAAD+iJR8z2oni72WBtP38IcNO9vWz+t9OWWnT6LPcMuiiDLOstslCI+yo4ZaUekmzimfra3RNaIfyKP5VeCP/nvpn/p9vP+4VAT/xQ0b/BFb/s3/9czxL9UAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))r.call(a,t)&&h(e,t,a[t]);if(n)for(var t of n(a))s.call(a,t)&&h(e,t,a[t]);return e},l=(e,a)=>u(e,m(a));var c=(e,a)=>{var t={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,a=c(o,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoKAAoAAUAmJbACdLoAFyBF1E37JDVUAAD+814eBa5bXL6CQ+yRaktdW8hrEBlxCrcby3tev2fQEeLpU0i8Q4evoCaOk7ZqqVtJ5WQihKbuuQCkJKL/8m2n3j8/9f/xbi6Ru6nzZA3Xmrb8a0X7c9e3HstlrjcyP/1ON14K9cgAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-a-software-engineering-career",
+      "locale": "en",
+      "title": "The Benefits of a Software Engineering Career",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,n,o)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,i=(e,n)=>{for(var o in n||(n={}))s.call(n,o)&&c(e,o,n[o]);if(a)for(var o of a(n))r.call(n,o)&&c(e,o,n[o]);return e},l=(e,n)=>p(e,g(n));var u=(e,n)=>{var o={};for(var t in e)s.call(e,t)&&n.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&r.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,n=u(t,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAoAAUAmJbACdLoB+AADID51BZAA/urz+I+RyI76lZ1Ls2D5W/e9ZqLzFj1DLTpFWOtn5eJ/gtR4KFJ/7q3t3/N95N7fDj/ucbr5HH/yOP/5miY8JeYAAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,n=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(i)for(var t of i(o))a.call(o,t)&&l(e,t,o[t]);return e},p=(e,o)=>d(e,h(o));var u=(e,o)=>{var t={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(t[s]=e[s]);if(e!=null&&i)for(var s of i(e))o.indexOf(s)<0&&a.call(e,s)&&(t[s]=e[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoKAAoAAUAmJQBOgCHZhtJigAD+/QZv0Nwb9NEvtjjpSgH6z8YLU6P2LNu+86WGJ+lCkjGv/ejnBhOnj7C1rq1lR+T8+gRzGBwr2prhEpwxjdEzyKP6Zq9QAAA=",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?l(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,a=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(r)for(var t of r(n))i.call(n,t)&&d(e,t,n[t]);return e},h=(e,n)=>p(e,g(n));var u=(e,n)=>{var t={};for(var o in e)s.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&r)for(var o of r(e))n.indexOf(o)<0&&i.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJbACdAELX9QvWjUQAP79KUwXfp/ymKskxIKjXp99l43/hwL3vSa6HV9bpoc8Lx+PYX/MGO2uIJu2uZYg+Q/h1ofZm7pXMb8NH3R8qh3B392/3cAAAA==",
+      "createdAt": "Sat Oct 01 2022",
+      "updatedAt": "Sat Oct 01 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,f=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,o,r)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[o]=r,a=(e,o)=>{for(var r in o||(o={}))n.call(o,r)&&c(e,r,o[r]);if(t)for(var r of t(o))i.call(o,r)&&c(e,r,o[r]);return e},d=(e,o)=>f(e,u(o));var l=(e,o)=>{var r={};for(var s in e)n.call(e,s)&&o.indexOf(s)<0&&(r[s]=e[s]);if(e!=null&&t)for(var s of t(e))o.indexOf(s)<0&&i.call(e,s)&&(r[s]=e[s]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var s=r,{components:e}=s,o=l(s,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }
