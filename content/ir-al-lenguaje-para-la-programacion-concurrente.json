@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es la Programaci\\xF3n Concurrente?\"),mdx(\"p\",null,\"La programaci\\xF3n concurrente es un tipo de programaci\\xF3n en la que se ejecutan m\\xFAltiples tareas durante el mismo per\\xEDodo de tiempo. En otras palabras, un programa puede ejecutarse en una computadora mientras otros programas tambi\\xE9n se ejecutan en esa computadora. La programaci\\xF3n concurrente tiene muchas aplicaciones en situaciones del mundo real porque permite realizar m\\xFAltiples tareas al mismo tiempo, lo que puede ahorrar una gran cantidad de tiempo.\"),mdx(\"p\",null,\"La programaci\\xF3n concurrente es particularmente \\xFAtil cuando una computadora requiere m\\xE1s tiempo del que est\\xE1 disponible en un momento dado. Por ejemplo, si una computadora tiene que realizar un proceso que toma cinco horas y esa computadora solo tiene una hora de tiempo disponible, entonces la programaci\\xF3n concurrente puede usarse para realizar otras tareas durante el resto del tiempo.\"),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 necesitamos programas concurrentes?\"),mdx(\"p\",null,\"El hardware de la computadora se est\\xE1 volviendo cada vez m\\xE1s poderoso, pero las limitaciones program\\xE1ticas no se mantienen al d\\xEDa. A medida que aumenta la cantidad de programas que estamos usando en un momento dado, m\\xE1s tiempo pasamos esperando que las computadoras completen las tareas. La programaci\\xF3n concurrente nos permite ejecutar tareas de larga duraci\\xF3n simult\\xE1neamente. Al aprovechar los n\\xFAcleos m\\xFAltiples, podemos acelerar la finalizaci\\xF3n de tareas que, de otro modo, tardar\\xEDan horas en procesarse.\"),mdx(\"p\",null,\"La programaci\\xF3n simult\\xE1nea tambi\\xE9n se puede utilizar para distribuir tareas entre varios servidores. Este enfoque se usa a menudo para tareas de gran volumen, como rastreadores de motores de b\\xFAsqueda, que de otro modo consumir\\xEDan una cantidad excesiva de ancho de banda. Al ejecutar programas simult\\xE1neos en varios servidores, podemos garantizar que los tiempos de espera se reduzcan al m\\xEDnimo.\"),mdx(\"h2\",null,\"Ir a la programaci\\xF3n concurrente\"),mdx(\"p\",null,\"Go fue dise\\xF1ado desde cero como un lenguaje de programaci\\xF3n concurrente. Tiene algunas caracter\\xEDsticas clave que hacen que sea muy f\\xE1cil crear c\\xF3digo concurrente. Nos centraremos en dos de estas caracter\\xEDsticas aqu\\xED: canales y rutinas.\"),mdx(\"p\",null,\"Los canales son un tipo especial de comunicaci\\xF3n entre hilos o procesos. Le permiten enviar y recibir datos entre esos subprocesos casi sin esfuerzo. Incluso puede usarlos para la comunicaci\\xF3n s\\xEDncrona, donde ambas partes esperan una respuesta antes de continuar.\"),mdx(\"p\",null,\"Goroutines son los componentes b\\xE1sicos del c\\xF3digo Go concurrente. Puede usarlos para dividir f\\xE1cilmente las tareas en partes m\\xE1s peque\\xF1as que se pueden ejecutar en paralelo. Si necesita esperar a que termine una parte del c\\xF3digo, puede usar un canal. Estas caracter\\xEDsticas hacen que la programaci\\xF3n simult\\xE1nea en Go sea extremadamente f\\xE1cil.\"),mdx(\"h2\",null,\"Ir a los canales para la comunicaci\\xF3n s\\xEDncrona\"),mdx(\"p\",null,\"La comunicaci\\xF3n sincr\\xF3nica es el tipo de comunicaci\\xF3n que tiene lugar cuando ambas partes esperan que la conversaci\\xF3n termine aproximadamente al mismo tiempo. En este caso, el remitente bloquear\\xE1 hasta que el receptor haya recibido y procesado el mensaje.\"),mdx(\"p\",null,\"Por ejemplo, supongamos que desea informar a un colega que ha comenzado a trabajar en un nuevo proyecto. Te acercas a su escritorio y se lo cuentas directamente. En este escenario, est\\xE1 bloqueando hasta que su colega haya terminado de procesar la informaci\\xF3n, ya sea reconociendo que lo escuch\\xF3 o solicitando m\\xE1s detalles. Mientras espera, no puede hacer nada m\\xE1s, por eso llamamos a esto comunicaci\\xF3n sincr\\xF3nica.\"),mdx(\"h2\",null,\"Ir a los canales para la comunicaci\\xF3n as\\xEDncrona\"),mdx(\"p\",null,\"La comunicaci\\xF3n asincr\\xF3nica es el tipo de comunicaci\\xF3n que se espera que finalice en diferentes momentos. En este caso, el remitente no espera a que el receptor termine de procesar el mensaje. En cambio, ponen el mensaje en un canal y el receptor puede tomarse su tiempo para recuperarlo.\"),mdx(\"p\",null,\"Supongamos que usted y su colega tienen la tarea de encontrar un nuevo espacio de oficina para su departamento. Su colega encuentra algunas oficinas prometedoras que deber\\xEDa consultar. En lugar de caminar hacia el escritorio de su colega y retrasar su trabajo, coloca la informaci\\xF3n en un canal. Luego pueden recuperar el mensaje cuando tengan tiempo para investigar las oficinas disponibles. Esto le permite a usted y a su colega evitar bloquearse entre s\\xED.\"),mdx(\"h2\",null,\"Vaya a Mutex para subprocesos coordinados\"),mdx(\"p\",null,\"Si bien los canales son una excelente manera de distribuir datos y permitir que varios subprocesos se esperen unos a otros, a veces se necesita una forma m\\xE1s estructurada de asegurarse de que varios subprocesos funcionen juntos. Un mutex es una estructura de datos segura para subprocesos que le permite controlar el acceso a un recurso compartido.\"),mdx(\"p\",null,\"Supongamos que est\\xE1 creando un sitio web que incluye una secci\\xF3n de comentarios. Los comentarios son enviados por los lectores y publicados en el sitio web, donde otros lectores pueden verlos. Tiene la tarea de desarrollar el algoritmo que mostrar\\xE1 los comentarios a los lectores y les permitir\\xE1 dejar nuevos comentarios. Para hacer esto, necesita dos hilos diferentes: uno que muestre comentarios y otro que permita a los lectores agregar nuevos comentarios. El problema es que ambos subprocesos intentar\\xE1n acceder a la base de datos y a otros recursos compartidos, por lo que podr\\xEDan interponerse entre s\\xED. Ah\\xED es donde un mutex es \\xFAtil.\"),mdx(\"h2\",null,\"Terminando\"),mdx(\"p\",null,\"Es importante tener en cuenta que la concurrencia no es una panacea para todos los problemas de programaci\\xF3n. Es m\\xE1s \\xFAtil para tareas que llevan mucho tiempo, como esperar a que un usuario responda a una consulta de b\\xFAsqueda o extraer datos de una base de datos remota. Si una tarea toma menos de unos pocos segundos, por lo general es mejor hacerla secuencialmente y dejar que el usuario contin\\xFAe con otras cosas.\"),mdx(\"p\",null,\"La programaci\\xF3n para la concurrencia es dif\\xEDcil porque tiene que tener en cuenta muchos factores diferentes. Estos incluyen tiempo, dependencias de datos y uso de recursos. Go simplifica estos problemas con funciones de lenguaje especiales y herramientas integradas que facilitan la escritura de c\\xF3digo simult\\xE1neo.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-del-lenguaje-natural",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento Del Lenguaje Natural",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El procesamiento del lenguaje natural es la capacidad de un programa de computadora para comprender el habla humana. El principal beneficio del procesamiento del lenguaje natural es que permite a los usuarios comunicarse con una m\\xE1quina de la forma en que se sienten m\\xE1s c\\xF3modos. Las computadoras ahora pueden entender, procesar y reaccionar al habla humana. El procesamiento del lenguaje natural (NLP) es un \\xE1rea de inteligencia artificial que permite a las computadoras detectar y comprender el habla humana, as\\xED como las palabras escritas. Involucra las t\\xE9cnicas y algoritmos relacionados con el procesamiento del lenguaje natural, como la inteligencia artificial, el aprendizaje autom\\xE1tico, la visi\\xF3n por computadora, la recuperaci\\xF3n de informaci\\xF3n y el reconocimiento de voz por computadora.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-consejos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Consejos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Hay muchas razones para aprender a codificar. Esta habilidad digital te da el poder de crear sitios web, aplicaciones o videojuegos desde cero sin tener que pagarle a alguien m\\xE1s para que lo haga por ti. No solo eso, la codificaci\\xF3n se puede usar en muchas industrias y trabajos diferentes. Tambi\\xE9n es una excelente manera de ganar dinero en l\\xEDnea como un proyecto paralelo si tiene otras ambiciones. Sin embargo, si nunca ha codificado antes, puede parecer un desaf\\xEDo imposible. No es algo que puedas buscar en Google o Netflix, requiere dedicaci\\xF3n y pr\\xE1ctica. Afortunadamente, hay muchos recursos gratuitos disponibles en Internet que lo ayudar\\xE1n a comenzar con los conceptos b\\xE1sicos de codificaci\\xF3n y desarrollar sus habilidades con el tiempo. El siguiente art\\xEDculo destaca algunos de los mejores consejos para principiantes que quieren aprender a programar en 2018 y m\\xE1s all\\xE1.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFg2tR+TgAP7YU3FZiwbFuBrV5bGmY3Oh2pqHn2vZPgLHpV+/Vsn0dqLzIwJXCrNxVtoT1cq2VkDad6a5+QZX/+7z903iq374LsArz1f6s1/g3/uB//HBH7CdcRBZA5LboAAAAA==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "5-trucos-para-ayudarte-a-dominar-javascript-en-5-minutos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "5 Trucos Para Ayudarte a Dominar JavaScript En 5 Minutos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si acaba de comenzar a aprender a programar o tiene dificultades para comprenderlo, Javascript puede ser un hueso duro de roer. Este lenguaje de programaci\\xF3n din\\xE1mico y funcional se utiliza para crear aplicaciones y sitios web interactivos.\nEl alcance de Javascript ha crecido exponencialmente en los \\xFAltimos a\\xF1os debido a su uso generalizado para dise\\xF1ar sitios web interactivos y desarrollar aplicaciones m\\xF3viles. Adem\\xE1s de eso, tambi\\xE9n es un excelente primer lenguaje de programaci\\xF3n debido a su simplicidad, accesibilidad y facilidad de disponibilidad en l\\xEDnea.\nPero como cualquier otra habilidad o conocimiento, dominarlo requiere pr\\xE1ctica y perseverancia. Si tiene dificultades con este lenguaje de programaci\\xF3n, siga leyendo para conocer nuestros 5 trucos para ayudarlo a dominar Javascript en 5 minutos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJbACdLoB+AARC5llxEIhYwAA/uhnVurOlaQ/z3wtKM/gWLP6TQ2cgSPKxu80JSwmR+kVQw5f0WKh0wP/5g3ePBo69avNyn+RiRPJ9bk7Y56b3f/3n2l71O8d+/xDWCP/as5/pW/+SpCwmQ+9prhAAAA=",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-la-ciencia",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje De La Ciencia",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los cient\\xEDficos necesitan hacer preguntas, encontrar respuestas y reconocer patrones para descubrir nuevos conocimientos. Python es un lenguaje de programaci\\xF3n que facilita que cualquier persona realice este tipo de trabajo anal\\xEDtico. Tambi\\xE9n sobresale en el procesamiento de datos m\\xE1s r\\xE1pido que cualquier otro idioma. Por estas razones, los cient\\xEDficos usan Python cada vez m\\xE1s en su trabajo. De hecho, Python se ha convertido en el lenguaje de programaci\\xF3n m\\xE1s popular utilizado por los cient\\xEDficos en la actualidad.\nUn paquete de software de computaci\\xF3n cient\\xEDfica llamado \"Orange\" inspir\\xF3 la creaci\\xF3n de Python porque su creador quer\\xEDa hacer algo m\\xE1s f\\xE1cil de usar. Otros lenguajes de programaci\\xF3n como MATLAB no eran lo suficientemente f\\xE1ciles de usar para la computaci\\xF3n cient\\xEDfica de prop\\xF3sito general, por lo que Guido van Rossum cre\\xF3 su propia versi\\xF3n. Lo llam\\xF3 \"Python\" en honor al grupo de comedia brit\\xE1nico Monty Python (era un fan\\xE1tico) y lo public\\xF3 como un proyecto de c\\xF3digo abierto en 1991 con el Laboratorio de IA de la Universidad de Nueva York como sus primeros usuarios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "configuracion-de-su-entorno-de-desarrollo-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Configuración De Su Entorno De Desarrollo De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es desarrollador, su trabajo requiere que use diferentes software y herramientas para crear aplicaciones. Hay diferentes lenguajes de programaci\\xF3n y marcos que necesita saber para hacer bien su trabajo. Con la creciente popularidad de las aplicaciones m\\xF3viles y el auge de la inteligencia artificial (IA), los desarrolladores ahora tienen m\\xFAltiples oportunidades en el campo del desarrollo de software. En esta publicaci\\xF3n de blog, le presentaremos Java como uno de los lenguajes de programaci\\xF3n m\\xE1s populares para los desarrolladores. Tambi\\xE9n aprender\\xE1 c\\xF3mo configurar su entorno de desarrollo de Java para que pueda comenzar a codificar lo antes posible.\nSi quieres convertirte en ingeniero de software, saber programar es solo la punta del iceberg. Tambi\\xE9n debe comprender tecnolog\\xEDas como HTML5, CSS3 y XML, que son un vocabulario est\\xE1ndar para el dise\\xF1o de sitios web y el almacenamiento de datos inform\\xE1ticos. En esta publicaci\\xF3n de blog, presentaremos algunos t\\xE9rminos comunes que usan los desarrolladores al hablar sobre la configuraci\\xF3n de sus entornos de desarrollo para diferentes lenguajes de programaci\\xF3n como Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-futuro",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Futuro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de la programaci\\xF3n est\\xE1 cambiando r\\xE1pidamente. Siguen apareciendo nuevos idiomas y los antiguos pasan de moda m\\xE1s r\\xE1pido que nunca. Pero Python sigue siendo uno de los lenguajes de programaci\\xF3n m\\xE1s populares del mundo, y su popularidad no muestra signos de desaceleraci\\xF3n en el corto plazo.\nSi est\\xE1 considerando una carrera en desarrollo de software, aprender Python puede abrirle una serie de oportunidades interesantes. La demanda de programadores calificados est\\xE1 creciendo a\\xF1o tras a\\xF1o, con la demanda m\\xE1s alta entre las peque\\xF1as empresas y las nuevas empresas. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre la historia y el uso de Python como lenguaje de programaci\\xF3n, por qu\\xE9 es tan popular en este momento y c\\xF3mo puede comenzar a aprenderlo tambi\\xE9n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADH0lMIAD970/UC/et1mciudnrQgkGB+dd2iPVamMHDUh7mdaC8G8P5X82xrJmLpm/aCpaKe2EDKZE8yPrpaHX/7eV4hc1UftQyoEVUfxZ7/8c2/8EGB1eOYrta97gAA==",
+      "createdAt": "Mon Jan 17 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Todo el mundo sabe que el mundo del software es uno de los campos de m\\xE1s r\\xE1pido crecimiento en el mundo en este momento. Aquellos que son expertos en tecnolog\\xEDa buscan constantemente nuevas formas de aumentar su conocimiento y avanzar en sus carreras como desarrolladores. Sin embargo, esta puede ser una tarea desalentadora para muchas personas porque hay tantos lenguajes de programaci\\xF3n diferentes disponibles para aprender.\nCon tantas opciones disponibles, \\xBFc\\xF3mo saber cu\\xE1les valen la pena? Es por eso que hemos compilado una lista de algunos de los lenguajes de programaci\\xF3n m\\xE1s populares que deber\\xEDas considerar aprender si quieres convertirte en desarrollador de software. Aunque pueda parecer que hay infinitas posibilidades, no todos los lenguajes de programaci\\xF3n valen su tiempo y esfuerzo. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 Python es ideal para el desarrollo de software y por qu\\xE9 se distingue de otras opciones como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

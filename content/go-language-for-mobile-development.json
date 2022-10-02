@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Swift\"),mdx(\"p\",null,\"Swift is a general-purpose programming language developed by Apple Inc. for iOS, macOS, watchOS, and tvOS app development. It is a simple, modern, and intuitive programming language used by programmers, designers, and developers alike. In fact, Swift is designed to solve many of the problems that have been inherent in other programming languages for a long time, like the excessive use of curly brackets. One of the benefits of choosing Swift for creating your next mobile app is that it\\u2019s lightweight. The language also compiles quickly, which is a really helpful feature when you\\u2019re developing a mobile app because there\\u2019s no longer a need to wait for the code to compile on your computer and then transfer it to the app. Swift runs on a system called \\u201CSwiftNets\\u201D that lets you quickly and easily build apps for both iOS and Android.\"),mdx(\"h2\",null,\"Java\"),mdx(\"p\",null,\"Java is a general-purpose programming language that is concurrent, class-based, and object-oriented. It was originally created by James Gosling at Sun Microsystems and released in 1995. One of the most important features of Java is that it is cross-platform, with a large number of systems having been written in Java. There are also a large number of third-party libraries available, making it an appealing option for many businesses. The language has a long history and has been used for creating a variety of applications, though it is particularly well suited to developing apps for computer networks. In the smartphone market, Java is mostly used for developing apps for Android. The language has a large and active developer community and is often chosen due to its simplicity and flexibility.\"),mdx(\"h2\",null,\"Kotlin\"),mdx(\"p\",null,\"Kotlin is a programming language that runs on the Java Virtual Machine and was created by JetBrains, the same company behind the IDE tool IntelliJ. This language was designed to be a more modern version of Java \\u2014 Kotlin compiles to bytecode, just like Java. It is a functional programming language, which means that every part of the program is a function. This makes it easier to create lightweight code that is easier to read and maintain. Kotlin was first released in 2011 and was developed by programmers who were tired of the verbosity and complexity of Java. Due to the fact that Android apps are primarily written in Java, developers who wanted to create Android apps more easily often turned to Kotlin. The language was officially supported by Google in 2017.\"),mdx(\"h2\",null,\"Python\"),mdx(\"p\",null,\"Python is a general-purpose programming language that can be applied to a multitude of different tasks, including mobile app development for Android. It is a widely used language that is simple, concise, and easy to read. Python is a versatile language that can be used to solve a wide range of problems. It runs on any computer system, has no restrictions on who can use it, and is open-source. One of the benefits of using Python for Android app development is that it can be used together with other frameworks and tools to make it more efficient. It is also easy to understand, even for people who have never worked with programming before.\"),mdx(\"h2\",null,\"HTML5 and CSS3\"),mdx(\"p\",null,\"HTML5 and CSS3 are essential for designing mobile apps. These languages make it possible for developers to design apps that can run on any device, regardless of the operating system or browser being used. These languages let you design full-featured apps that include animations, games, and other interactive content.\"),mdx(\"h2\",null,\"Final Words: Wrapping Up\"),mdx(\"p\",null,\"As you can see, there are many different programming languages that you can use to create mobile apps. You can choose any language that you\\u2019re most comfortable with, but make sure it will work on the platform(s) you\\u2019re targeting. For example, if you choose Swift, you\\u2019ll need to make sure your app is also available on Android. If you want to launch your app on the widest possible audience, it makes sense to choose a language that is used on both iOS and Android.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-administration",
+      "locale": "en",
+      "title": "Go Language for Database Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-habits-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Habits for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-javaserver-faces",
+      "locale": "en",
+      "title": "Introduction to Javaserver Faces",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-hibernate",
+      "locale": "en",
+      "title": "Introduction to Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "setting-up-your-java-development-environment",
+      "locale": "en",
+      "title": "Setting up Your Java Development Environment",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAE51lgqgWMkAAD5f/MFUcfnHXYRQiYbBID/kxBpNnzpd/DF564O6rAZ8Bj1SQ4uIGpn3+Qlf+VkOVZeRSW0nF1x1xaKCHKtYIKhIdSbodtws8zjVXC81TmvPM2os9P63Ft1qhk+f/2cbr7wom0k6AAA",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-programs",
+      "locale": "en",
+      "title": "The Top Software Engineering Programs",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

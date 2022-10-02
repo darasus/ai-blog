@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es la Programaci\\xF3n Orientada a Objetos?\"),mdx(\"p\",null,`La programaci\\xF3n orientada a objetos es un paradigma de programaci\\xF3n basado en el concepto de \"objetos\". Un \"objeto\" es una combinaci\\xF3n de c\\xF3digo y datos, generalmente representado como una estructura de datos, que realiza alguna funci\\xF3n \\xFAtil. En la programaci\\xF3n orientada a objetos, recopilamos todo el c\\xF3digo y los datos relacionados con un \"objeto\" espec\\xEDfico en un archivo de computadora y luego creamos tantas instancias de ese archivo como necesitemos para nuestro programa. Cada instancia se denomina \"objeto\" y tiene sus propios campos de datos y realiza sus propias funciones.\nLos diferentes lenguajes de programaci\\xF3n tienen diferentes reglas para los tipos de objetos que puede crear y c\\xF3mo los crea y usa. En Java, el lenguaje m\\xE1s popular para el desarrollo web, todo el c\\xF3digo debe estar contenido en una clase. Una clase es un tipo de objeto que contiene campos y m\\xE9todos que realizan alguna funci\\xF3n. Las clases de Java deben seguir reglas espec\\xEDficas para ser consideradas \"orientadas a objetos\". Estas reglas est\\xE1n cubiertas en este art\\xEDculo.`),mdx(\"h2\",null,\"Programaci\\xF3n Orientada a Objetos con Java\"),mdx(\"p\",null,'Java es un lenguaje de programaci\\xF3n orientado a objetos. Todo el c\\xF3digo en Java est\\xE1 contenido dentro de una clase, y todas las clases son instancias de una clase principal denominada \"java.lang.Object\". Las clases en Java deben seguir ciertas reglas para ser consideradas \"orientadas a objetos\". Estas reglas est\\xE1n cubiertas en este art\\xEDculo.'),mdx(\"p\",null,\"Clases: en Java, todo el c\\xF3digo est\\xE1 contenido dentro de una clase. Una clase es un tipo de objeto que contiene campos y m\\xE9todos que realizan alguna funci\\xF3n.\"),mdx(\"p\",null,\"Campos: un campo es una variable declarada en una clase que puede almacenar datos para el objeto.\"),mdx(\"p\",null,\"M\\xE9todos: un m\\xE9todo es una funci\\xF3n contenida dentro de una clase que realiza alguna acci\\xF3n en el objeto.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Encapsulaci\\xF3n: el proceso de combinar c\\xF3digo y datos en una sola unidad se denomina encapsulaci\\xF3n.\")),mdx(\"h2\",null,\"Descripci\\xF3n general de la programaci\\xF3n orientada a objetos en Java\"),mdx(\"p\",null,\"Hay 7 conceptos principales en OOP en Java. Una vez que comprenda estos conceptos, comprender\\xE1 mucho mejor c\\xF3mo escribir c\\xF3digo de una manera m\\xE1s orientada a objetos.\"),mdx(\"p\",null,\"Clases: una clase es un tipo de objeto que contiene campos y m\\xE9todos que realizan alguna funci\\xF3n. Campos: un campo es una variable declarada en una clase que puede almacenar datos para el objeto. Constructores: una clase puede tener varios constructores. Un constructor es un m\\xE9todo que se llama autom\\xE1ticamente cuando se crea una instancia de la clase. Objetos: cuando crea una instancia de una clase, crea un objeto. Los objetos contienen los datos de los campos y llaman a los m\\xE9todos de la clase. Herencia: un objeto puede heredar el c\\xF3digo y los datos de otro objeto. Polimorfismo: puede llamar al mismo m\\xE9todo con diferentes tipos de datos. Interfaces: una clase puede definir m\\xE9todos que otras clases deben implementar.\"),mdx(\"h2\",null,\"Ventajas de la programaci\\xF3n orientada a objetos en Java\"),mdx(\"p\",null,\"La programaci\\xF3n orientada a objetos tiene muchos beneficios. Estos son solo algunos de los muchos beneficios de usar este paradigma de programaci\\xF3n.\"),mdx(\"p\",null,\"Duplicaci\\xF3n de c\\xF3digo reducida: cuando usa OOP para escribir su c\\xF3digo, desea evitar la duplicaci\\xF3n en su c\\xF3digo tanto como sea posible. El c\\xF3digo duplicado puede causar errores y hace que su c\\xF3digo sea m\\xE1s dif\\xEDcil de mantener.\"),mdx(\"p\",null,\"Legibilidad mejorada: OOP hace que su c\\xF3digo sea m\\xE1s legible porque est\\xE1 escribiendo un c\\xF3digo que se enfoca en lo que hace el c\\xF3digo en lugar de lo que sabe. Esto facilita que otros programadores lean el c\\xF3digo y entiendan c\\xF3mo funciona.\"),mdx(\"p\",null,\"Ciclos de desarrollo m\\xE1s r\\xE1pidos: como se mencion\\xF3 anteriormente, OOP hace que el c\\xF3digo sea m\\xE1s legible. Esto hace que sea m\\xE1s f\\xE1cil encontrar y corregir errores en su c\\xF3digo.\"),mdx(\"h2\",null,\"Contras de programaci\\xF3n orientada a objetos en Java\"),mdx(\"p\",null,\"A pesar de todos los beneficios de OOP en Java, tambi\\xE9n hay algunas desventajas en este enfoque.\"),mdx(\"p\",null,\"M\\xE1s complejo: escribir c\\xF3digo de una manera m\\xE1s orientada a objetos puede hacer que su c\\xF3digo sea m\\xE1s complejo de escribir y comprender. Esto puede ser especialmente cierto cuando se escribe c\\xF3digo que usa herencia.\"),mdx(\"p\",null,\"M\\xE1s detallado: escribir c\\xF3digo de una manera m\\xE1s orientada a objetos hace que el c\\xF3digo sea m\\xE1s largo. Esto puede ser especialmente cierto cuando se escribe c\\xF3digo que usa herencia.\"),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"La programaci\\xF3n orientada a objetos es una forma de escribir c\\xF3digo que se centra en lo que hace el programa y no solo en lo que sabe. Este art\\xEDculo cubre una descripci\\xF3n general de OOP en Java, as\\xED como sus ventajas y desventajas. Si est\\xE1 leyendo esto, probablemente est\\xE9 familiarizado con los lenguajes de programaci\\xF3n de procedimientos como C, C++ o Python. Todos estos son lenguajes de programaci\\xF3n imperativos que se enfocan en decirle a la computadora exactamente qu\\xE9 hacer y cu\\xE1ndo hacerlo.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJaACdAYs32ZJkvDzowAA/vm699i8Ref+5sDm3/yFn7+ze/u7XrDaaPfMQf41a/5fsWfKo/xA/efzt3+13e+x222+ImpR9ZA5povx9P9nKfRv9gtNeyZOR6rn5skTKeaIuohp//xT5f7/9v/1gP212bu+Oy36R/jAt1C9fk3JOa476GAAAA==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-lenguaje-para-desarrollo-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Lenguaje Para Desarrollo Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n de c\\xF3digo abierto que permite crear software simple y confiable m\\xE1s r\\xE1pido. Se ha convertido en una de las alternativas m\\xE1s exitosas a los lenguajes heredados como C, C++ y Java en los \\xFAltimos a\\xF1os. Las principales empresas como Google, Dropbox, Netflix, Uber y muchas otras est\\xE1n adoptando Go para sus servicios de back-end, y no solo por su inusual car\\xE1cter de mascota.\nLa simplicidad de Go facilita la lectura y comprensi\\xF3n del c\\xF3digo. Sus bibliotecas est\\xE1ndar significan que los programadores no necesitan crear funciones comunes desde cero cada vez que escriben un programa. Su concurrencia incorporada permite un rendimiento r\\xE1pido para programas que realizan m\\xFAltiples solicitudes simult\\xE1neas. Y su soporte para interfaces significa que puede crear software flexible sin preocuparse por el tipo de datos que espera su c\\xF3digo.\nNo se puede negar que hay muchos beneficios al usar Go para desarrollar aplicaciones web. Aqu\\xED discutiremos por qu\\xE9 deber\\xEDa considerar usar este popular lenguaje de programaci\\xF3n para sus proyectos de desarrollo web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-mejorar-tus-habilidades-de-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Mejorar Tus Habilidades De Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que reci\\xE9n haya comenzado en el campo de la codificaci\\xF3n o simplemente est\\xE9 buscando mejorar sus habilidades, puede ser un campo desafiante y de r\\xE1pido crecimiento. Las nuevas innovaciones en tecnolog\\xEDa surgen todo el tiempo, por lo que uno debe estar al tanto de su juego para mantenerse al d\\xEDa. Dicho esto, hay muchas maneras diferentes de mejorar tus habilidades de codificaci\\xF3n.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una habilidad cada vez m\\xE1s importante en todas las industrias. Desde desarrolladores e ingenieros de software hasta dise\\xF1adores de sitios web y programadores de videojuegos, cada vez m\\xE1s funciones requieren conocimientos de lenguajes de programaci\\xF3n. Incluso si no planea trabajar con el c\\xF3digo directamente en el d\\xEDa a d\\xEDa, tener conocimientos de c\\xF3digo puede abrirle oportunidades en casi cualquier industria. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo puede mejorar sus habilidades de codificaci\\xF3n y llevar sus habilidades tecnol\\xF3gicas al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFg2tR+TgAP7YU3FZiwbFuBrV5bGmY3Oh2pqHn2vZPgLHpV+/Vsn0dqLzIwJXCrNxVtoT1cq2VkDad6a5+QZX/+7z903iq374LsArz1f6s1/g3/uB//HBH7CdcRBZA5LboAAAAA==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "5-trucos-para-ayudarte-a-dominar-javascript-en-5-minutos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "5 Trucos Para Ayudarte a Dominar JavaScript En 5 Minutos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si acaba de comenzar a aprender a programar o tiene dificultades para comprenderlo, Javascript puede ser un hueso duro de roer. Este lenguaje de programaci\\xF3n din\\xE1mico y funcional se utiliza para crear aplicaciones y sitios web interactivos.\nEl alcance de Javascript ha crecido exponencialmente en los \\xFAltimos a\\xF1os debido a su uso generalizado para dise\\xF1ar sitios web interactivos y desarrollar aplicaciones m\\xF3viles. Adem\\xE1s de eso, tambi\\xE9n es un excelente primer lenguaje de programaci\\xF3n debido a su simplicidad, accesibilidad y facilidad de disponibilidad en l\\xEDnea.\nPero como cualquier otra habilidad o conocimiento, dominarlo requiere pr\\xE1ctica y perseverancia. Si tiene dificultades con este lenguaje de programaci\\xF3n, siga leyendo para conocer nuestros 5 trucos para ayudarlo a dominar Javascript en 5 minutos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBuuYsoDooAA/tKOq5V/+Vh2Idh8D0hvcxmpvoiTzpcdPdTbBvzzHFjc8y1J/Ag0kEYwfFSV5PliwlkWw1pPfbeI3u+z548FId803Pu03VHAAA==",
+      "createdAt": "Wed Apr 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-la-primavera",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a La Primavera",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'\\xBFBusca mejorar sus habilidades de desarrollo de software y aprender un nuevo marco? Si es as\\xED, est\\xE1s de suerte. En los \\xFAltimos a\\xF1os, ha habido una explosi\\xF3n de nuevos marcos de desarrollo de software que han hecho que la codificaci\\xF3n sea mucho m\\xE1s f\\xE1cil para los desarrolladores. Estos marcos se conocen como soluciones de software \"sin c\\xF3digo\" o \"de c\\xF3digo bajo\" porque requieren mucho menos c\\xF3digo para implementar que los m\\xE9todos de programaci\\xF3n m\\xE1s antiguos. Uno de esos marcos es Spring, que actualmente es una de las plataformas de soluciones empresariales ligeras m\\xE1s utilizadas disponibles en la actualidad. Aunque se lanz\\xF3 por primera vez hace casi 15 a\\xF1os, Spring contin\\xFAa expandiendo su funcionalidad con cada nueva versi\\xF3n. En esta publicaci\\xF3n de blog, cubriremos la introducci\\xF3n a Spring y lo ayudaremos a comprender lo que puede hacer por usted como desarrollador.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-movil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo Móvil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con tantos lenguajes de programaci\\xF3n para elegir, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nCon tantos lenguajes de programaci\\xF3n disponibles, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nSi est\\xE1 desarrollando aplicaciones m\\xF3viles destinadas principalmente a tel\\xE9fonos y tabletas iPhone o Android, es posible que desee considerar el uso de Python como su idioma principal. En esta publicaci\\xF3n de blog, cubriremos por qu\\xE9 esta es una buena opci\\xF3n y por qu\\xE9 otras opciones pueden no ser ideales en ciertas situaciones.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "configuracion-de-su-entorno-de-desarrollo-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Configuración De Su Entorno De Desarrollo De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es desarrollador, su trabajo requiere que use diferentes software y herramientas para crear aplicaciones. Hay diferentes lenguajes de programaci\\xF3n y marcos que necesita saber para hacer bien su trabajo. Con la creciente popularidad de las aplicaciones m\\xF3viles y el auge de la inteligencia artificial (IA), los desarrolladores ahora tienen m\\xFAltiples oportunidades en el campo del desarrollo de software. En esta publicaci\\xF3n de blog, le presentaremos Java como uno de los lenguajes de programaci\\xF3n m\\xE1s populares para los desarrolladores. Tambi\\xE9n aprender\\xE1 c\\xF3mo configurar su entorno de desarrollo de Java para que pueda comenzar a codificar lo antes posible.\nSi quieres convertirte en ingeniero de software, saber programar es solo la punta del iceberg. Tambi\\xE9n debe comprender tecnolog\\xEDas como HTML5, CSS3 y XML, que son un vocabulario est\\xE1ndar para el dise\\xF1o de sitios web y el almacenamiento de datos inform\\xE1ticos. En esta publicaci\\xF3n de blog, presentaremos algunos t\\xE9rminos comunes que usan los desarrolladores al hablar sobre la configuraci\\xF3n de sus entornos de desarrollo para diferentes lenguajes de programaci\\xF3n como Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-automation.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdLoAAnLyX6vAAP77YMEPds0QUgz9vyZ15x0MQQ97ZJCyoB55yItbXzgTO51VuKe0/ay1OLjyEAV9OXyB/7Wr0PH/8W73gpANhbq/8qV8kmKj/8p+/5gB/M2rt2p4AAAA",
+      "createdAt": "Mon Feb 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-automatizacion-de-sistemas",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para La Automatización De Sistemas",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automatizar tareas es una forma de hacer tu vida m\\xE1s f\\xE1cil. Imag\\xEDnese esto, necesita ejecutar un informe todos los d\\xEDas y toma 5 minutos cada vez. Puede configurar una alarma y regresar r\\xE1pidamente al escritorio en 5 minutos o crear un script para automatizar este proceso. Este \\xFAltimo te deja m\\xE1s tiempo para concentrarte en cosas m\\xE1s importantes. \\xBFQu\\xE9 pasar\\xEDa si pudieras automatizar incluso las tareas m\\xE1s simples? \\xBFNo liberar\\xEDa su tiempo para cosas mejores? Ah\\xED es donde entra en juego Python. Como lenguaje de secuencias de comandos de automatizaci\\xF3n, puede ayudarlo a automatizar incluso las tareas m\\xE1s simples y liberar m\\xE1s tiempo para el trabajo que importa. La automatizaci\\xF3n ayuda a las empresas de muchas maneras. Ahorra tiempo, aumenta la eficiencia y reduce los costos al eliminar los procesos manuales. En este blog, exploraremos por qu\\xE9 Python es un lenguaje de programaci\\xF3n tan popular para la automatizaci\\xF3n de sistemas y c\\xF3mo se puede utilizar para automatizar tareas simples y repetitivas en su organizaci\\xF3n. Empecemos\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-futuro",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Futuro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de la programaci\\xF3n est\\xE1 cambiando r\\xE1pidamente. Siguen apareciendo nuevos idiomas y los antiguos pasan de moda m\\xE1s r\\xE1pido que nunca. Pero Python sigue siendo uno de los lenguajes de programaci\\xF3n m\\xE1s populares del mundo, y su popularidad no muestra signos de desaceleraci\\xF3n en el corto plazo.\nSi est\\xE1 considerando una carrera en desarrollo de software, aprender Python puede abrirle una serie de oportunidades interesantes. La demanda de programadores calificados est\\xE1 creciendo a\\xF1o tras a\\xF1o, con la demanda m\\xE1s alta entre las peque\\xF1as empresas y las nuevas empresas. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre la historia y el uso de Python como lenguaje de programaci\\xF3n, por qu\\xE9 es tan popular en este momento y c\\xF3mo puede comenzar a aprenderlo tambi\\xE9n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "herencia-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Herencia En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensas en clases y objetos, \\xBFqu\\xE9 te viene a la mente? Si sus pensamientos se dirigieron inmediatamente a la idea de clases para padres e hijos, entonces ha estudiado programaci\\xF3n orientada a objetos o comprende los matices del ingl\\xE9s. Sin embargo, si piensa en un padre que da a luz a un hijo, es evidente que no ha estudiado suficiente programaci\\xF3n orientada a objetos. Veamos de qu\\xE9 se trata la herencia en Java y por qu\\xE9 es \\xFAtil.\nA menudo nos encontramos reutilizando c\\xF3digo que ha sido implementado en alguna otra clase. Esto nos lleva a hacer una pregunta muy l\\xF3gica: \\xBFpodemos reutilizar el c\\xF3digo a\\xFAn m\\xE1s? \\xA1La respuesta es s\\xED! Podemos tomar una clase y hacerla para que ampl\\xEDe la funcionalidad de otra. Esto se llama herencia en Java. Es una de las piedras angulares de la programaci\\xF3n OOP y algo que todo programador serio deber\\xEDa saber bien.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Mide antes de afinar\"),mdx(\"p\",null,\"Antes de sumergirse en el ajuste, debe asegurarse de haberse tomado el tiempo para medir el rendimiento de su aplicaci\\xF3n. Este es especialmente el caso si tiene problemas de rendimiento. No desea comenzar a realizar cambios en su JVM que podr\\xEDan afectar negativamente el rendimiento de su aplicaci\\xF3n y luego no saber qu\\xE9 lo caus\\xF3. Tomarse el tiempo para establecer una l\\xEDnea de base lo ayudar\\xE1 a identificar cambios y sacar conclusiones sobre qu\\xE9 marc\\xF3 la diferencia.\"),mdx(\"p\",null,\"Puede usar una variedad de herramientas para medir el rendimiento de su aplicaci\\xF3n. Puede utilizar los generadores de perfiles integrados que se incluyen con su JVM. Tambi\\xE9n hay una serie de herramientas de c\\xF3digo abierto que pueden ayudarlo a medir su rendimiento y proporcionar informaci\\xF3n sobre los cuellos de botella.\"),mdx(\"h2\",null,\"Tama\\xF1o del almacenamiento din\\xE1mico de JVM y rendimiento de la plataforma\"),mdx(\"p\",null,\"Lo primero que discutiremos cuando se trata de ajustar la JVM es el tama\\xF1o del mont\\xF3n. El mont\\xF3n es el espacio que utiliza la JVM para almacenar objetos. A medida que su programa se ejecuta, crear\\xE1 nuevos objetos y liberar\\xE1 los antiguos. Estos objetos se almacenan en el mont\\xF3n. La JVM es responsable de decidir cu\\xE1ndo crear nuevos montones y qu\\xE9 tan grandes hacerlos.\"),mdx(\"p\",null,\"La mayor\\xEDa de las veces, este proceso funciona bien. Pero si el tama\\xF1o de su almacenamiento din\\xE1mico es demasiado peque\\xF1o o su sistema est\\xE1 bajo una gran carga, la JVM no puede seguir el ritmo y el rendimiento se ver\\xE1 afectado. Cuando su aplicaci\\xF3n est\\xE1 experimentando un bajo rendimiento y nota que la JVM est\\xE1 usando mucho tiempo de procesador y tarda mucho tiempo en completar las tareas, puede ser \\xFAtil aumentar el tama\\xF1o de almacenamiento din\\xE1mico.\"),mdx(\"h2\",null,\"Almacenamiento en cach\\xE9 de c\\xF3digo\"),mdx(\"p\",null,\"Uno de los primeros pasos en el ajuste del rendimiento de Java es observar c\\xF3mo usa el almacenamiento en cach\\xE9 de c\\xF3digo. El almacenamiento en cach\\xE9 de c\\xF3digo es cuando almacena en cach\\xE9 secciones de c\\xF3digo y no las vuelve a compilar cada vez que se necesitan. Esto generalmente es algo bueno, pero puede causar problemas con su aplicaci\\xF3n si no tiene cuidado. El almacenamiento en cach\\xE9 de c\\xF3digo tambi\\xE9n se puede denominar almacenamiento en cach\\xE9 de bytecode. Es importante tener en cuenta que el almacenamiento en cach\\xE9 de c\\xF3digo no es espec\\xEDfico de la JVM. Es una pr\\xE1ctica com\\xFAn utilizada en todos los lenguajes de programaci\\xF3n. Cuando compila su aplicaci\\xF3n, puede cargar el c\\xF3digo de bytes en su JVM y luego almacenarlo en cach\\xE9. Esto significa que la pr\\xF3xima vez que se ejecute ese c\\xF3digo en particular, el c\\xF3digo de bytes ya estar\\xE1 cargado y no tendr\\xE1 que volver a compilarse. Esto ahorra mucho tiempo al ejecutar su aplicaci\\xF3n.\"),mdx(\"p\",null,\"Pero hay formas de almacenar el c\\xF3digo en cach\\xE9 que pueden causar problemas. Un error com\\xFAn es almacenar en cach\\xE9 el c\\xF3digo de bytes de toda la aplicaci\\xF3n. El almacenamiento en cach\\xE9 del c\\xF3digo de bytes para toda su aplicaci\\xF3n puede causar problemas si es necesario compilar dos o m\\xE1s clases diferentes al mismo tiempo. Esto se debe a que solo se puede usar un compilador a la vez. Si se est\\xE1 compilando otra clase, el c\\xF3digo de bytes del resto de la aplicaci\\xF3n se almacena en cach\\xE9 y no est\\xE1 disponible para las otras clases. Si almacena en cach\\xE9 el c\\xF3digo de bytes para toda su aplicaci\\xF3n, puede causar problemas de rendimiento y dificultar la depuraci\\xF3n.\"),mdx(\"h2\",null,\"Opciones del compilador de Java\"),mdx(\"p\",null,\"Cuando est\\xE1 escribiendo c\\xF3digo Java, hay opciones de compilador que puede usar para cambiar la forma en que se compila su c\\xF3digo. Estas opciones del compilador pueden variar de una plataforma a otra y de un compilador a otro. Pero pueden tener un gran impacto en el rendimiento de su aplicaci\\xF3n Java. Hay dos opciones de compilador que tienen un impacto significativo en el rendimiento. Estas son las opciones -Xss y -Xmx. -Xss: esta opci\\xF3n controla la cantidad de memoria asignada a la pila de seguridad de subprocesos. La pila de seguridad de subprocesos se usa durante la ejecuci\\xF3n de subprocesos para garantizar que las interacciones de subprocesos sean seguras y no causen problemas para otros subprocesos en la JVM. Si establece el valor de esta opci\\xF3n en un valor demasiado bajo, es posible que tenga problemas con la JVM que genera excepciones de falta de memoria. Si lo establece demasiado alto, puede aumentar la sobrecarga de su JVM.\"),mdx(\"p\",null,\"-Xmx: esta opci\\xF3n controla la cantidad de memoria que puede usar la JVM. Si establece este valor demasiado bajo, tendr\\xE1 problemas con la JVM que genera excepciones de memoria. Si lo establece demasiado alto, aumentar\\xE1 la sobrecarga de su JVM.\"),mdx(\"h2\",null,\"Usar API con c\\xF3digo de v\\xEDa r\\xE1pida en ellas\"),mdx(\"p\",null,`Hay partes de su c\\xF3digo Java que se usar\\xE1n con frecuencia, y hay otras que solo se usar\\xE1n ocasionalmente. Si tiene una llamada API que se usa con frecuencia, puede acelerarla agregando un c\\xF3digo de ruta r\\xE1pida.\nSi est\\xE1 utilizando una API de Java y est\\xE1 creando un nuevo hilo para cada llamada, no est\\xE1 utilizando un c\\xF3digo de ruta r\\xE1pida y puede tener un impacto negativo en el rendimiento de su aplicaci\\xF3n. Agregar c\\xF3digo de ruta r\\xE1pida a estas llamadas API puede ayudar a mejorar el rendimiento al eliminar la sobrecarga de crear un nuevo hilo para cada llamada. Puede agregar c\\xF3digo de acceso r\\xE1pido mediante las herramientas de generaci\\xF3n de c\\xF3digo Java o mediante una API espec\\xEDfica de la plataforma.`),mdx(\"h2\",null,\"Use el modo de int\\xE9rprete para comprobar si hay cuellos de botella\"),mdx(\"p\",null,`El modo de int\\xE9rprete es una caracter\\xEDstica \\xFAtil de la JVM que puede usar para verificar cuellos de botella comunes. Para usar el modo de int\\xE9rprete, puede agregar el indicador \"-Xinterpreter\" a su JVM. Cuando usa el modo de int\\xE9rprete, la JVM no traduce su c\\xF3digo de bytes a lenguaje de m\\xE1quina. Mantiene su aplicaci\\xF3n en el lenguaje Java y, en su lugar, utiliza un solo hilo para ejecutar su aplicaci\\xF3n. Esto le permite ver si hay cuellos de botella en su aplicaci\\xF3n causados por la propia JVM.\nEl modo de int\\xE9rprete tambi\\xE9n puede ayudar a identificar llamadas API lentas y cualquier problema con el almacenamiento en cach\\xE9 del c\\xF3digo.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.\nAhora que est\\xE1 m\\xE1s familiarizado con estos conceptos, puede usarlos para optimizar mejor sus aplicaciones Java y mejorar su rendimiento.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZACw7YtzuIjmz2muQAA/v4Qnnu8GR4r4o98GJKK/WQo32ziJigBLJaNfUvGDRozFPNx23JW6cndoWkC/tLLi+rX+QfrJeyqgp1pIjmNfZL8d32g+GDnvF4QJn/zbwehi/5/3dGRe7M/+CKvKXzz7GcAAA==",
+      "createdAt": "Wed Jan 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La visi\\xF3n por computadora y el procesamiento de im\\xE1genes son clave para permitir que las m\\xE1quinas entiendan el mundo. Por ejemplo, los autom\\xF3viles modernos pueden detectar peatones con c\\xE1maras en lugar de otros sensores porque la c\\xE1mara puede identificarlos como objetos inm\\xF3viles que son m\\xE1s peque\\xF1os que los \\xE1rboles habituales y tienen una reflectividad diferente de las marcas viales t\\xEDpicas.\nEste art\\xEDculo cubre Python, un lenguaje cada vez m\\xE1s popular para tareas de procesamiento de im\\xE1genes. Es un lenguaje din\\xE1mico como Ruby, que facilita la lectura y escritura de programas. Adem\\xE1s, Python incluye varias bibliotecas \\xFAtiles para el procesamiento de im\\xE1genes, como OpenCV (Computer Vision) y PIL (Python Imaging Library). Si eres nuevo en la programaci\\xF3n, consulta nuestro art\\xEDculo sobre Por qu\\xE9 Python es un excelente primer lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-computacion-en-la-nube",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Language Para La Computación En La Nube",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La nube es el futuro de la inform\\xE1tica y su adopci\\xF3n contin\\xFAa creciendo a un ritmo acelerado. De hecho, IDC estima que los servicios de nube p\\xFAblica en todo el mundo crecer\\xE1n de $ 206 mil millones en ingresos en 2017 a $ 345 mil millones para 2021. Tambi\\xE9n surgen nuevos tipos de servicios de nube todos los d\\xEDas.\nLa mayor\\xEDa de las organizaciones ahora usan servicios en la nube como parte de su estrategia de TI. Desde el manejo de la demanda m\\xE1xima hasta la reducci\\xF3n de costos y la mejora de la disponibilidad, los servicios basados en la nube han demostrado su valor para muchas empresas. Aun as\\xED, dar el paso puede ser un desaf\\xEDo para los profesionales de TI y los desarrolladores de software. Hay varias consideraciones al elegir qu\\xE9 lenguaje de programaci\\xF3n es mejor para crear aplicaciones de software para la nube, incluidas las siguientes:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Language Para La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La tecnolog\\xEDa de inteligencia artificial est\\xE1 creciendo r\\xE1pidamente en todos los sectores. Todas las organizaciones importantes buscan adoptar tecnolog\\xEDa de inteligencia artificial para automatizar procesos, hacer que su negocio sea m\\xE1s eficiente y mejorar la experiencia de sus clientes. Sin embargo, la mayor\\xEDa de estas empresas luchan por elegir las herramientas y los marcos de trabajo de aprendizaje autom\\xE1tico adecuados para sus proyectos de IA, ya que hay varias opciones disponibles en el mercado.\nSi tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n o desarrollar una aplicaci\\xF3n que requiera algoritmos de inteligencia artificial, deber\\xEDa considerar usar Golang para su desarrollo de software.\nGo es un lenguaje de programaci\\xF3n creado por Google y es una de las opciones m\\xE1s populares para desarrollar una aplicaci\\xF3n de IA o implementar un sistema de IA en su organizaci\\xF3n debido a sus potentes funciones. Exploremos por qu\\xE9 Go es una excelente opci\\xF3n para desarrollar aplicaciones de inteligencia artificial y c\\xF3mo se puede usar para construir un sistema de IA estable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-las-caras-de-javaserver",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Las Caras De Javaserver",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, hemos visto un aumento en la popularidad del software y los sitios web f\\xE1ciles de usar. Una gran raz\\xF3n para esto es que los dise\\xF1adores de software est\\xE1n prestando m\\xE1s atenci\\xF3n a la experiencia de los usuarios. En lugar de dedicar horas a hacer dise\\xF1os, est\\xE1n invirtiendo m\\xE1s tiempo en dise\\xF1ar experiencias de usuario. Las interfaces de usuario desempe\\xF1an un papel fundamental en la forma en que el p\\xFAblico objetivo percibe una aplicaci\\xF3n.\nUna interfaz de usuario consta de varias pantallas o ventanas que brindan acceso a la informaci\\xF3n o permiten acciones como ver, crear, guardar y abrir archivos. Una interfaz de usuario tambi\\xE9n incluye las propiedades visuales (como colores, fuentes y gr\\xE1ficos) y los componentes de navegaci\\xF3n (como men\\xFAs, botones y pesta\\xF1as) que los usuarios ven e interact\\xFAan cuando usan un programa de computadora.\nEn esta publicaci\\xF3n de blog, aprenderemos sobre JavaServer Faces; lo que es; por qu\\xE9 podr\\xEDa usarlo; y finalmente una breve introducci\\xF3n a sus conceptos clave.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-una-carrera-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Una Carrera De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son responsables de desarrollar software nuevo o corregir el c\\xF3digo existente para asegurarse de que satisfaga las necesidades del usuario y funcione como se espera. Usan el pensamiento l\\xF3gico, habilidades para resolver problemas y una variedad de principios t\\xE9cnicos cuando crean y prueban aplicaciones de software. Como ingeniero de software, podr\\xEDa tener la oportunidad de trabajar en proyectos que resuelven problemas desafiantes. Esta carrera puede ayudarlo a adquirir nuevas habilidades, avanzar en su carrera y construir un futuro m\\xE1s estable para usted. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 deber\\xEDa considerar hacer una carrera en ingenier\\xEDa de software si est\\xE1 interesado en la inform\\xE1tica u otro campo STEM.\nLos ingenieros de software tienen algunos de los trabajos m\\xE1s din\\xE1micos en la actualidad porque la tecnolog\\xEDa est\\xE1 cambiando muy r\\xE1pidamente. Pero, \\xBFqu\\xE9 significa exactamente ser ingeniero? Bueno, un ingeniero es alguien que combina la ciencia con el pensamiento l\\xF3gico y la creatividad para producir nuevas ideas o innovaciones \\xFAtiles que satisfagan las necesidades y los desaf\\xEDos humanos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-automation.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdLoAAnLyX6vAAP77YMEPds0QUgz9vyZ15x0MQQ97ZJCyoB55yItbXzgTO51VuKe0/ay1OLjyEAV9OXyB/7Wr0PH/8W73gpANhbq/8qV8kmKj/8p+/5gB/M2rt2p4AAAA",
+      "createdAt": "Mon Feb 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-automatizacion-de-sistemas",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para La Automatización De Sistemas",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automatizar tareas es una forma de hacer tu vida m\\xE1s f\\xE1cil. Imag\\xEDnese esto, necesita ejecutar un informe todos los d\\xEDas y toma 5 minutos cada vez. Puede configurar una alarma y regresar r\\xE1pidamente al escritorio en 5 minutos o crear un script para automatizar este proceso. Este \\xFAltimo te deja m\\xE1s tiempo para concentrarte en cosas m\\xE1s importantes. \\xBFQu\\xE9 pasar\\xEDa si pudieras automatizar incluso las tareas m\\xE1s simples? \\xBFNo liberar\\xEDa su tiempo para cosas mejores? Ah\\xED es donde entra en juego Python. Como lenguaje de secuencias de comandos de automatizaci\\xF3n, puede ayudarlo a automatizar incluso las tareas m\\xE1s simples y liberar m\\xE1s tiempo para el trabajo que importa. La automatizaci\\xF3n ayuda a las empresas de muchas maneras. Ahorra tiempo, aumenta la eficiencia y reduce los costos al eliminar los procesos manuales. En este blog, exploraremos por qu\\xE9 Python es un lenguaje de programaci\\xF3n tan popular para la automatizaci\\xF3n de sistemas y c\\xF3mo se puede utilizar para automatizar tareas simples y repetitivas en su organizaci\\xF3n. Empecemos\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAE51lgqgWMkAAD5f/MFUcfnHXYRQiYbBID/kxBpNnzpd/DF564O6rAZ8Bj1SQ4uIGpn3+Qlf+VkOVZeRSW0nF1x1xaKCHKtYIKhIdSbodtws8zjVXC81TmvPM2os9P63Ft1qhk+f/2cbr7wom0k6AAA",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-programas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Programas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La ingenier\\xEDa de software es un campo amplio y de r\\xE1pido crecimiento. El mercado de ingenieros de software contin\\xFAa creciendo a un ritmo acelerado, y se espera que la demanda aumente en otros 280 000 puestos de trabajo para 2022. Por lo tanto, los futuros ingenieros de software tienen muchas opciones cuando se trata de seguir su carrera. Los programas de ciencias de la computaci\\xF3n generalmente brindan una base excelente para aquellos interesados en seguir la ingenier\\xEDa de software como una carrera profesional espec\\xEDfica, pero estos programas por s\\xED solos a menudo no son suficientes.\nLos programas dise\\xF1ados espec\\xEDficamente para la ingenier\\xEDa de software pueden ayudarlo a obtener las habilidades y la capacitaci\\xF3n que necesita para tener \\xE9xito en este campo. Hay muchos tipos diferentes de puestos de ingeniero de software disponibles en la actualidad, desde desarrollo front-end hasta miner\\xEDa de datos e inteligencia artificial (IA). Estos son algunos de los mejores programas de ingenier\\xEDa de software disponibles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-fundamentos-de-la-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Fundamentos De La Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Incluso si no te consideras un genio de la tecnolog\\xEDa, es posible que descubras que la codificaci\\xF3n es tu vocaci\\xF3n. Este puede ser un tema complicado para comenzar y continuar, pero estamos aqu\\xED para pon\\xE9rtelo f\\xE1cil. La codificaci\\xF3n para principiantes no es tan dif\\xEDcil como podr\\xEDa creer, solo requiere algo de tiempo de estudio y pr\\xE1ctica. No ser\\xE1 f\\xE1cil al principio, pero con el tiempo y la cantidad adecuada de dedicaci\\xF3n, cualquiera puede aprender los fundamentos de la codificaci\\xF3n, ya sea que tenga conocimientos previos o no.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una de las habilidades m\\xE1s importantes en el mercado laboral actual. Incluso si no desea convertirse en ingeniero de software o similar, comprender los principios b\\xE1sicos de codificaci\\xF3n puede brindarle una ventaja en casi cualquier otro campo. Ver\\xE1, cualquier cosa, desde contabilidad hasta atenci\\xF3n m\\xE9dica, usa tecnolog\\xEDa a diario, a menudo involucrando software avanzado o sistemas de inteligencia artificial.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El raspado web es la pr\\xE1ctica de extraer datos de sitios web. En este blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python para el web scraping, as\\xED como tambi\\xE9n proporcionaremos ejemplos, recursos y sugerencias para comenzar. La red mundial ha hecho que sea m\\xE1s f\\xE1cil que nunca compartir informaci\\xF3n entre s\\xED. Sin embargo, esa misma facilidad de acceso tambi\\xE9n ha hecho que sea m\\xE1s dif\\xEDcil que nunca separar la informaci\\xF3n \\xFAtil del ruido. Debido a esto, muchos desarrolladores han recurrido al web scraping para extraer la informaci\\xF3n que necesitan de los sitios web sin tener que buscar manualmente o filtrar todo individualmente. \\xA1Afortunadamente para ti, Python es un lenguaje perfecto para comenzar con el web scraping! Este blog cubrir\\xE1 por qu\\xE9 deber\\xEDa aprender Python para web scraping y ofrecer\\xE1 recursos \\xFAtiles para comenzar a aprenderlo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-empresas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Empresas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

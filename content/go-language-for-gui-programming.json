@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Easy to Learn and Maintain\"),mdx(\"p\",null,`One of the most important considerations when choosing a language for GUI programming is how easy it is to learn and maintain. Go\\u2019s simple syntax and readable code make it easier for developers to understand one another\\u2019s work and make changes as requirements change.\nGo has a syntax that is similar to languages such as C and Java, which makes it easy for developers who have worked with these languages to transition to Go.\nIf you have experience with languages such as Python or JavaScript, you\\u2019ll find Go\\u2019s braces and semicolons familiar, though it will take a little time to adjust to Go\\u2019s slightly different syntax and idioms.\nGo\\u2019s syntax has evolved over the years and has been influenced by the feedback of the programming community. This means that you can find lots of resources to help you learn how to use the language.`),mdx(\"h2\",null,\"Built-in Support for Networking\"),mdx(\"p\",null,`One area where people who have worked in C and C++ notice the difference is in the ease with which you can do networking with Go.\nThe networked applications that we write today are Go native. They\\u2019re built in from the word \\u201Cgo\\u201D, as the saying goes.\nBecause of the ease with which Go code can access the network and other computing systems, it\\u2019s a great choice for GUI applications that require communication with remote servers or with other systems on the network.\nGo has built-in support for HTTP and HTTPS, with support for other networking protocols such as FTP and SOCKS.\nSince the language was developed by Google, the company\\u2019s experience with distributed computing is evident in Go\\u2019s handling of networking.`),mdx(\"h2\",null,\"Built-in Concurrency Support\"),mdx(\"p\",null,`Another area where Go\\u2019s origins are evident is in its support for concurrency, or the ability to execute code simultaneously.\nWith GUI applications, concurrency can be important for managing the flow of data in and out of the application itself. You might, for example, want to retrieve data from a database and display it in a table while your application is also processing a user\\u2019s request to sort or filter the table\\u2019s data.\nFor this, you need a language that supports concurrency so that your program can process the user\\u2019s request and retrieve the data from the database at the same time.\nGo\\u2019s concurrency features make it an excellent choice for GUI applications. The language has built-in support for both communications with other systems and data flow within the application.\nYou can use channels to communicate with other parts of your application and to communicate with other systems such as databases or remote servers.`),mdx(\"h2\",null,\"Go is Still in Beta\"),mdx(\"p\",null,`One important thing to keep in mind when considering Go is that it\\u2019s still in beta. The language is under active development and has been since 2009, when it was first released as an experimental language.\nThis means that you can expect new features to be added to the language, and you should plan to keep up with those changes as you\\u2019re developing your GUI application.\nIf you\\u2019re working in a high-stakes environment, you may want to choose a language that\\u2019s out of beta and has a longer track record in production environments.\nHowever, if you\\u2019re working on an application that\\u2019s experimental in nature or is intended for internal use, you may want to use Go, as it will allow you to take advantage of new language features as they\\u2019re implemented.`),mdx(\"h2\",null,\"Go\\u2019s Packaging Problem\"),mdx(\"p\",null,`One disadvantage of Go is its lack of a standard packaging system, which is the way that programmers organize and distribute code.\nPackaging is an important part of any programming language and is one of the things that makes it easy to work with a language.\nIf you\\u2019ve worked with a language like Java or Python, you\\u2019ve probably used the language\\u2019s built-in packaging system.\nAs you\\u2019ve probably noticed, it makes it easy to import code from other sources and to use that code in your application.\nGo doesn\\u2019t have a standard packaging system, but there are a few different ways to address this problem. You may, for example, use a version control system such as Git to manage your code.\nOr you can use a package manager such as Godep or Glide to manage the code in your application.\nAny of these options will make it easy for you to use code written by other programmers.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Go is an excellent language for GUI programming with its simple syntax, built-in support for concurrency, and easy network access. If you choose to program in Go, however, be prepared to keep up with changes to the language and its associated tools.\nIf you\\u2019re working in a high-stakes environment where the software needs to be extremely reliable, you may want to choose a language that\\u2019s out of beta. When you make that decision, keep in mind that you can still use Go for your GUI.\nChoose the language that best meets the needs of your application, and you\\u2019ll be well on your way to creating an excellent GUI application.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJYwCdAEPChpfyVYAAP6t+3/8PPzEsJ015Z9eXxnwnKMXzv78iZ3fXMwFDqfAEQcpJA8dUc/khL/AudC/65gS4RifvMI8n/xYdlgV3qp68FcRMBPvGl+L4fma80n8ITK17rogwWZfP2FgAAA=",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-journals",
+      "locale": "en",
+      "title": "The Top Software Engineering Journals",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers constantly have to stay up-to-date with new research, trends, and techniques in their field. The most common way for software engineers to do this is by reading research papers published in journals. These journals are almost exclusively found online. Many of them are available for free, but some are behind paywalls for non-subscribers. Fortunately, you don\\u2019t need to subscribe to every single one of these journals if you\\u2019re a software engineer\\u2014just the ones that publish articles related to your specific interests and career goals as a software engineer.\nRead on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-devops",
+      "locale": "en",
+      "title": "Go Language for Devops",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-cloud-computing",
+      "locale": "en",
+      "title": "Go Language for Cloud Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-faster",
+      "locale": "en",
+      "title": "How to Code Faster",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
+      "createdAt": "Thu Jun 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/basic-java-syntax.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCdAEOO/OdAAD+/KQNkbv+XBr5lUSnWZef9yuaQ//PyA2NH6STUfxG8mLPO3LPOyHEGiQ5/6+8ud4yt3ttDZ7Bp+MoTmXSeX1XRLiNfuEy8E6y9uGAAAA=",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "basic-java-syntax",
+      "locale": "en",
+      "title": "Basic Java Syntax",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re learning to code, you need to learn the basics before you can move on to more complex topics. The most fundamental programming language is Java. It\\u2019s one of the most important and widely used languages in the world of computer science. Many other programming languages are built on top of it, making it even more essential for coders.\nIf you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren\\u2019t necessarily common words in English. However, once you get past the unusual appearance of these words, you\\u2019ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es GraphQL?\"),mdx(\"p\",null,\"GraphQL es un lenguaje de consulta para API. Le permite obtener datos de un \\xFAnico punto final, lo que facilita la creaci\\xF3n de aplicaciones. Con GraphQL, puede crear una sola API a la que se puede acceder desde una variedad de clientes, ya sea una aplicaci\\xF3n web, otra aplicaci\\xF3n m\\xF3vil o incluso un sistema empresarial interno.\"),mdx(\"p\",null,\"Supongamos que su empresa abre una nueva aplicaci\\xF3n interna que los empleados pueden usar para realizar un seguimiento de su tiempo y horas facturables. Decide utilizar GraphQL como la capa de datos para potenciar esta nueva aplicaci\\xF3n. Dado que GraphQL es una \\xFAnica API, no tiene que crear un nuevo punto final ni cambiar el existente. En cambio, su backend existente simplemente puede responder a la misma solicitud con una carga \\xFAtil diferente seg\\xFAn el nuevo cliente que realiza la solicitud.\"),mdx(\"h2\",null,\"Cree una \\xFAnica API con GraphQL\"),mdx(\"p\",null,\"Como dijimos antes, una de las mayores ventajas de GraphQL es la capacidad de crear una sola API a la que se puede acceder desde una variedad de clientes. Esto significa que, si su aplicaci\\xF3n usa una API de GraphQL y otra aplicaci\\xF3n tiene los mismos requisitos, puede reutilizar la misma API. Esto reduce el tiempo de desarrollo, reduce los costos y mejora la calidad general de su aplicaci\\xF3n.\"),mdx(\"p\",null,\"Suponga que est\\xE1 creando una aplicaci\\xF3n m\\xF3vil para una cadena hotelera. La aplicaci\\xF3n permite a los hu\\xE9spedes reservar habitaciones, verificar sus reservas y administrar su cuenta. Adem\\xE1s, la aplicaci\\xF3n permite a los hu\\xE9spedes ver sus pr\\xF3ximas reservas y realizar cambios en la reserva si es necesario. Para construir esta aplicaci\\xF3n, primero crea un servidor GraphQL que pueda manejar las solicitudes de datos. Luego, el servidor GraphQL devuelve una respuesta que contiene la informaci\\xF3n necesaria para que se ejecute la aplicaci\\xF3n.\"),mdx(\"h2\",null,\"Los problemas con las API de JSON\"),mdx(\"p\",null,`Sin embargo, a pesar de lo \\xFAtiles que pueden ser las API de JSON, tienen algunos inconvenientes. Una vez que se decide por una API JSON, debe construir toda su l\\xF3gica de acceso a datos a su alrededor. En otras palabras, debe codificar la capa de acceso a datos consultando la API directamente.\nEste enfoque tiene el potencial de crear algunos problemas.`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"No puede escalar: si codifica la l\\xF3gica de acceso a datos de su aplicaci\\xF3n, es dif\\xEDcil adaptarse a la creciente o decreciente demanda de los usuarios. Si tiene millones de usuarios, consultar su API directamente puede ser un proceso costoso y lento.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"No puede cambiar la API: otra desventaja de consultar la API directamente es que no puede cambiar los puntos finales de la API sin realizar cambios en su capa de datos. Esto puede significar un desastre si decide cambiar la API sin darse cuenta de las consecuencias.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Su l\\xF3gica de acceso a datos es dif\\xEDcil de mantener - Puede ser dif\\xEDcil mantener la l\\xF3gica de acceso a datos en su aplicaci\\xF3n. Si la l\\xF3gica es compleja, o si tiene varios desarrolladores trabajando en la aplicaci\\xF3n, todos deber\\xE1n consultar la documentaci\\xF3n original de la API.\"))),mdx(\"h2\",null,\"Beneficios de GraphQL\"),mdx(\"p\",null,\"Adem\\xE1s de poder construir una sola API a la que pueden acceder una variedad de clientes, GraphQL tambi\\xE9n ofrece algunas otras ventajas.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Comunicaci\\xF3n m\\xE1s s\\xF3lida: cuando los desarrolladores de su aplicaci\\xF3n usan GraphQL, pueden comunicar f\\xE1cilmente sus requisitos de datos al equipo de API. Esto reduce la falta de comunicaci\\xF3n y descubre problemas potenciales antes de que se conviertan en problemas mayores.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Mejor documentaci\\xF3n: dado que GraphQL funciona como una sola API, es m\\xE1s f\\xE1cil para los desarrolladores documentar su c\\xF3digo. Esto significa que puede crear componentes reutilizables y estandarizar su documentaci\\xF3n.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arquitectura m\\xE1s s\\xF3lida: la \\xFAnica API que ofrece GraphQL significa que su arquitectura de datos es m\\xE1s s\\xF3lida y m\\xE1s consistente. Esto facilita agregar nuevas funciones y escalar su arquitectura a medida que crece su aplicaci\\xF3n.\"))),mdx(\"h2\",null,\"C\\xF3mo implementar una API GraphQL en Android\"),mdx(\"p\",null,\"Con los beneficios de usar GraphQL en mente, veamos c\\xF3mo puede configurar su servidor GraphQL en Android. Para crear un servidor GraphQL, deber\\xE1 usar un cliente GraphQL y un servidor GraphQL.\"),mdx(\"p\",null,\"Puede usar el cliente Apollo GraphQL para construir el servidor GraphQL en Android. Apollo es un popular cliente de GraphQL compatible con Java, Android, JavaScript y Swift. Tambi\\xE9n puede usar el servidor GraphQL que est\\xE1 integrado en el marco React Native. Si est\\xE1 utilizando Java, puede utilizar la biblioteca GraphQL Java. Tambi\\xE9n puede usar el servidor GraphQL que est\\xE1 integrado en el marco Spring.\"),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"En este punto, debe tener una s\\xF3lida comprensi\\xF3n de qu\\xE9 es GraphQL, por qu\\xE9 es \\xFAtil y c\\xF3mo funciona.\"),mdx(\"p\",null,\"Una vez que implemente una API GraphQL en su aplicaci\\xF3n, puede concentrarse en crear mejores funciones y mejorar su experiencia de usuario, sabiendo que est\\xE1 utilizando una arquitectura s\\xF3lida.\"),mdx(\"p\",null,\"Combinados con las mejores pr\\xE1cticas para usar GraphQL, estos beneficios hacen que usar GraphQL en su aplicaci\\xF3n sea pan comido.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-programar-mejor",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Programar Mejor",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n puede ser un desaf\\xEDo a veces. Incluso si eres un codificador profesional, a veces la l\\xF3gica y los algoritmos simplemente no funcionan. Los mejores codificadores saben c\\xF3mo abordar esos puntos dif\\xEDciles investigando soluciones, estudiando las mejores pr\\xE1cticas e implementando nuevas t\\xE9cnicas.\nLa codificaci\\xF3n es una habilidad que requiere un refinamiento constante para seguir siendo relevante en el mundo tecnol\\xF3gico actual. Si bien la codificaci\\xF3n puede parecer una habilidad muy t\\xE9cnica, en realidad tiene muchos paralelismos con otros campos creativos como la escritura o la m\\xFAsica. Cuanto m\\xE1s codificas, mejor lo haces.\nAprender a codificar de manera efectiva y eficiente es un gran desaf\\xEDo para cualquier persona que trabaje en este campo o que busque incursionar en \\xE9l. Pero una vez que domina los conceptos b\\xE1sicos, se trata de refinar su t\\xE9cnica y aumentar su eficiencia para que pueda completar proyectos m\\xE1s r\\xE1pido y producir resultados de mayor calidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-un-lenguaje-para-todos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Para Todos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Un lenguaje de programaci\\xF3n es tan bueno como las personas que lo usan. No basta con que un lenguaje de programaci\\xF3n sea perfecto, completo y universal; si nadie lo usa, es in\\xFAtil. Es por eso que el dise\\xF1o de cualquier nuevo lenguaje de programaci\\xF3n implica mucha investigaci\\xF3n del usuario. Los creadores de Python, un lenguaje de programaci\\xF3n de prop\\xF3sito general de c\\xF3digo abierto lanzado por primera vez en 1991, reconocieron desde el principio que si quer\\xEDan tener \\xE9xito, necesitaban crear un lenguaje que fuera accesible y atractivo para una amplia audiencia. Y as\\xED, a pesar de sus muchas funciones avanzadas, Python sigue siendo transparente y sencillo, con una sintaxis que aborda directamente las necesidades y habilidades de la mayor\\xEDa de los programadores.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre esta brillante sintaxis de programaci\\xF3n y por qu\\xE9 deber\\xEDa tomarse un tiempo para familiarizarse con Python hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoKAAoAAUAmJbB8AAUxiAPwAAkGAAD+8lsokYpa6FDqS30it08lt6hPPg3aYIfrWpe8+qYqv/fgu2SwEafBuXG6+K3/8Vv/8s+/DEj7qAAAAA==",
+      "createdAt": "Tue Jan 12 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-el-desarrollo-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para El Desarrollo De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n de prop\\xF3sito general. Originalmente fue desarrollado en Google para resolver algunos de los problemas con otros lenguajes de programaci\\xF3n como C y Python que dificultaban la escritura de programas r\\xE1pidos, peque\\xF1os y correctos.\nGo facilita capturar la intenci\\xF3n del programador en el c\\xF3digo y generar resultados directamente desde la fuente, gracias a su sintaxis liviana, declaraci\\xF3n concisa y soporte integrado para funciones an\\xF3nimas sin la necesidad de variables temporales o argumentos auxiliares.\nGo generalmente se considera un lenguaje de programaci\\xF3n moderno, lo que significa que ha sido dise\\xF1ado teniendo en cuenta el rendimiento, viene con soporte para concurrencia e implementa nuevas caracter\\xEDsticas introducidas por otros lenguajes de programaci\\xF3n recientes como Rust y Swift. Los factores enumerados anteriormente hacen de Go una excelente opci\\xF3n para proyectos de desarrollo de software que involucran bases de c\\xF3digo de tama\\xF1o mediano a grande, optimizaci\\xF3n del rendimiento o compiladores de escritura.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hay varios lenguajes de programaci\\xF3n disponibles para crear bases de datos. Puede crear una base de datos usando formatos simples basados en archivos o puede usar opciones m\\xE1s avanzadas, como sistemas de administraci\\xF3n de bases de datos orientados a objetos (ODBMS) o sistemas de administraci\\xF3n de bases de datos gr\\xE1ficas. Seg\\xFAn el tipo de base de datos que desee crear y sus necesidades espec\\xEDficas, es probable que haya un lenguaje de programaci\\xF3n ideal para usted.\nEl lenguaje de programaci\\xF3n Go es una opci\\xF3n que vale la pena explorar si est\\xE1 buscando un excelente lenguaje de programaci\\xF3n de prop\\xF3sito general pero con un enfoque especial en la programaci\\xF3n de bases de datos. Muchos programadores valoran la sintaxis simple de Go, su soporte integrado especial para cadenas y sus poderosas primitivas de concurrencia integradas. Si desea obtener m\\xE1s informaci\\xF3n sobre este lenguaje de programaci\\xF3n y si es la opci\\xF3n correcta para crear bases de datos, contin\\xFAe leyendo para descubrir todo lo que necesita saber sobre Go y las bases de datos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-el-aprendizaje-automatico",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para El Aprendizaje Automático",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de la ciencia de datos est\\xE1 poblado con flujos aparentemente interminables de nuevas herramientas y soluciones de software. Ya sea que sea un principiante o un cient\\xEDfico de datos avanzado, esta abundancia de opciones puede resultar algo abrumadora.\nAfortunadamente, algunas de estas herramientas se han vuelto tan populares que no tendr\\xE1s que perder mucho tiempo busc\\xE1ndolas. La creciente popularidad del aprendizaje autom\\xE1tico ha llevado a la aparici\\xF3n de varios lenguajes de programaci\\xF3n dise\\xF1ados espec\\xEDficamente para ayudar a los ingenieros y analistas de ML en sus actividades diarias.\nPara ayudarlo a elegir la herramienta adecuada para sus necesidades, le presentaremos cinco alternativas de Go para el aprendizaje autom\\xE1tico que puede considerar si est\\xE1 trabajando en un proyecto que involucra uno o m\\xE1s de los siguientes escenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: existen muchos lenguajes de programaci\\xF3n y cada uno tiene sus propias caracter\\xEDsticas y peculiaridades \\xFAnicas. Entonces, \\xBFcu\\xE1l deber\\xEDas aprender primero? Si est\\xE1 buscando comenzar en el mundo de la codificaci\\xF3n, Javascript es un lugar fant\\xE1stico para comenzar. De hecho, puede ser un excelente lenguaje de programaci\\xF3n para principiantes para aquellos que tienen poca o ninguna experiencia en este campo. \\xBFPorqu\\xE9 es eso? Bueno, como el lenguaje m\\xE1s com\\xFAn utilizado para la creaci\\xF3n de sitios web, aprender Javascript lo ayuda a comprender c\\xF3mo funcionan los sitios web a nivel individual.\n\\xA1Deje que esta gu\\xEDa paso a paso para aprender Javascript lo ayude a llevar su nuevo conjunto de habilidades al siguiente nivel! Desde comprender qu\\xE9 es Javascript y por qu\\xE9 es importante hasta dominar los fundamentos de la codificaci\\xF3n, como variables y declaraciones condicionales, lo guiaremos a trav\\xE9s de todo lo que necesita saber para comenzar con este lenguaje de programaci\\xF3n din\\xE1mico.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
+      "createdAt": "Mon Mar 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

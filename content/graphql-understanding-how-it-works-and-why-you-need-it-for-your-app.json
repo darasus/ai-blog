@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is GraphQL?\"),mdx(\"p\",null,\"GraphQL is a query language for APIs. It allows you to fetch data from a single endpoint, which makes it easy to build applications. With GraphQL, you can build a single API which can be accessed from a variety of clients, whether that\\u2019s a web application, another mobile app, or even an internal business system.\"),mdx(\"p\",null,\"Let\\u2019s say your company opens up a new internal app that employees can use to track their time and billable hours. You decide to use GraphQL as the data layer to power this new app. Since GraphQL is a single API, you don\\u2019t have to create a new endpoint or change the existing one. Instead, your existing backend can simply respond to the same request with a different payload based on the new client that\\u2019s making the request.\"),mdx(\"h2\",null,\"Build a Single API with GraphQL\"),mdx(\"p\",null,\"As we said before, one of the biggest advantages of GraphQL is the ability to build a single API that can be accessed from a variety of clients. This means that, if your app uses a GraphQL API and another app has the same requirements, then you can reuse the same API. This cuts down development time, reduces costs, and improves the overall quality of your app.\"),mdx(\"p\",null,\"Suppose you\\u2019re building a mobile app for a hotel chain. The app lets guests book rooms, check out their reservations, and manage their account. In addition, the app allows guests to view their upcoming reservations and make changes to the booking if necessary. To build this app, you first create a GraphQL server that can handle the data requests. The GraphQL server then returns a response containing the information necessary for the app to run.\"),mdx(\"h2\",null,\"The Problems with JSON APIs\"),mdx(\"p\",null,`However, as useful as JSON APIs can be, they do have a few drawbacks. Once you decide on a JSON API, you have to build all your data access logic around it. In other words, you have to hardcode the data access layer by querying the API directly.\nThis approach has the potential to create a few issues.`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"You can\\u2019t Scale - If you hardcode your app\\u2019s data access logic, it\\u2019s difficult to adjust to growing or declining user demand. If you have millions of users, querying your API directly can be a costly and time-consuming process.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"You Can\\u2019t Change the API - Another downside of querying the API directly is that you can\\u2019t change the API\\u2019s endpoints without making changes to your data layer. This can spell disaster if you decide to change the API without realizing the consequences.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Your Data Access Logic is Hard to Maintain - It can be difficult to maintain the data access logic in your app. If the logic is complex, or if you have multiple developers working on the app, then everyone will have to refer back to the original API documentation.\"))),mdx(\"h2\",null,\"GraphQL Benefits\"),mdx(\"p\",null,\"Besides being able to build a single API that can be accessed by a variety of clients, GraphQL offers a few other advantages as well.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Stronger Communication - When your app developers use GraphQL, they can easily communicate their data requirements to the API team. This cuts down on miscommunication and uncovers potential issues before they can become major problems.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Better Documentation - Since GraphQL works as a single API, it\\u2019s easier for developers to document their code. This means you can build reusable components and standardize your documentation.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Stronger Architecture - The single API that GraphQL offers means that your data architecture is stronger and more consistent. This makes it easier to add new features and scale your architecture as your app grows.\"))),mdx(\"h2\",null,\"How to Implement a GraphQL API in Android\"),mdx(\"p\",null,\"With the benefits of using GraphQL in mind, let\\u2019s see how you can set up your GraphQL server in Android. To create a GraphQL server, you\\u2019ll need to use a GraphQL client and a GraphQL server.\"),mdx(\"p\",null,\"You can use the Apollo GraphQL client to build the GraphQL server in Android. Apollo is a popular GraphQL client that supports Java, Android, JavaScript, and Swift. You can also use the GraphQL server that\\u2019s built into the React Native framework. If you\\u2019re using Java, then you can use the GraphQL Java library. You can also use the GraphQL server that\\u2019s built into the Spring framework.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"At this point, you should have a strong understanding of what GraphQL is, why it is useful, and how it works.\"),mdx(\"p\",null,\"Once you implement a GraphQL API in your app, you can focus on building better features and improving your user experience, knowing that you\\u2019re using a strong architecture.\"),mdx(\"p\",null,\"Combined with the best practices for using GraphQL, these benefits make using GraphQL in your app a no-brainer.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/spring-mvc-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAEPALwdsYAA/v7GUZ5PlhJIBneoTV65URORmalMuDcdtHSSKoz4hxaAFL6i138Vg2XlfrW/GGmm1vqapr57Dduz2d6EdwAA",
+      "createdAt": "Thu Aug 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "spring-mvc-applications",
+      "locale": "en",
+      "title": "Spring Mvc Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
+      "createdAt": "Tue Feb 15 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-plugins-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Plugins for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software developers are some of the most valuable employees in many companies. They can take an idea and turn it into a useful product that people want to use. The best coders are constantly looking for ways to improve their skills and find new ways to make their work easier and more efficient. Fortunately, there are plugins available for almost any coding program out there.\nCoding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here\\u2019s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

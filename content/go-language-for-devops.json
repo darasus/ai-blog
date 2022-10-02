@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Go?\"),mdx(\"p\",null,\"Go is a general-purpose programming language developed by Google and was released as open source in 2009. Go is designed with simplicity and concurrency in mind and is known for its powerful type system. It is also a statically typed language.\"),mdx(\"p\",null,\"According to the Go user survey in 2018, the main use cases of Go are:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Web and HTTP services- Data processing and analytics- DevOps and CI/CD- Microservices- Network infrastructure- Robotics and autonomous vehicles- Serverless applications- System software\")),mdx(\"p\",null,\"The rules of simplicity and concurrency are what make Go that popular among developers. Additionally, some of the other benefits that come with using Go are:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"It is extremely fast as it compiles down to native code. This means it can run on a wide range of computer systems.\"),mdx(\"li\",{parentName:\"ul\"},\"It is easy to read and write code in Go.\"),mdx(\"li\",{parentName:\"ul\"},\"It has great tooling support.\"),mdx(\"li\",{parentName:\"ul\"},\"It is a strongly typed language.\"),mdx(\"li\",{parentName:\"ul\"},\"It has great support for multi-core systems.\"),mdx(\"li\",{parentName:\"ul\"},\"It is open source and has a large community.\"),mdx(\"li\",{parentName:\"ul\"},\"It is a great language to start your career with.\")),mdx(\"h2\",null,\"Why use Go for DevOps?\"),mdx(\"p\",null,\"If you are wondering why you should use the Go language for DevOps, here are 5 reasons you will love:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Go is easy to learn and use.\"),mdx(\"li\",{parentName:\"ul\"},\"Go is a type-safe language.\"),mdx(\"li\",{parentName:\"ul\"},\"Go is easy to debug.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has great concurrency.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has great error handling.\"),mdx(\"li\",{parentName:\"ul\"},\"Go is easy to parallelize and distribute.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has a simple syntax.\")),mdx(\"h2\",null,\"How to implement Go in your organization?\"),mdx(\"p\",null,\"There are two ways you can implement Go in your organization. If you are working in a startup, you can ask your team to learn this language. If you are working with an established company, you can push for adoption of Go within your organization.\"),mdx(\"p\",null,\"If you are part of a small team or startup, you can start with these simple steps:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Find out if there is a company-wide initiative or an individual who is interested in adopting Go.\"),mdx(\"li\",{parentName:\"ul\"},\"Learn the basics of Go and try building something.\"),mdx(\"li\",{parentName:\"ul\"},\"Start with something small, like creating a crawler or a small website.\"),mdx(\"li\",{parentName:\"ul\"},\"Once you are confident enough, start contributing to open source projects.\"),mdx(\"li\",{parentName:\"ul\"},\"Learn about the best practices and go architectural style. This will help you avoid common mistakes.\"),mdx(\"li\",{parentName:\"ul\"},\"Once your team is confident with Go, ask your organization to adopt it.\")),mdx(\"h2\",null,\"Pros of using Go in DevOps\"),mdx(\"p\",null,\"You must be wondering what the benefits of adopting Go are. Let\\u2019s find out!\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Simplicity: If you are new to this language, you will love its simplicity. It is easy to read, write, and understand the code. This makes it an ideal choice for newbies and experienced developers.\"),mdx(\"li\",{parentName:\"ul\"},\"Concurrency: This is one of the most important reasons to use Go for DevOps. The language is designed with concurrency in mind. This means that you can run multiple tasks at once. It also allows you to run the same program on multiple machines.\"),mdx(\"li\",{parentName:\"ul\"},\"Robustness: Go is extremely robust and scalable. This means that it can run on a wide range of computer systems, from small devices to large computer clusters.\"),mdx(\"li\",{parentName:\"ul\"},\"Performance: Go compiles to machine code that runs as fast as a program written in C or C++.\"),mdx(\"li\",{parentName:\"ul\"},\"Ease of Deployment: Go is designed to be easy to deploy. You can write code, compile it, and run it all in one step. This makes it very easy to deploy your code. There are no complicated language runtimes to install.\"),mdx(\"li\",{parentName:\"ul\"},\"Standard Libraries: Go comes with a standard library that has all the necessary building blocks for creating apps. This standard library is robust and has everything you need.\"),mdx(\"li\",{parentName:\"ul\"},\"Fault Tolerance: Go has great error handling mechanisms. If there is an error in your program, you can set a handler for that error and continue with the program.\"),mdx(\"li\",{parentName:\"ul\"},\"Easy to Scale: The language is designed to be easy to scale. You can run the same program on multiple machines and distribute the work.\"),mdx(\"li\",{parentName:\"ul\"},\"Simple to Read: Go is a simple language to read. It is easy to understand and doesn\\u2019t have complicated syntax. This makes it ideal for newbies.\"),mdx(\"li\",{parentName:\"ul\"},\"Easy to Understand: Go is simple to understand and has a small set of rules that make it predictable. This makes it easy to debug.\"),mdx(\"li\",{parentName:\"ul\"},\"Standard: Go is one of the most standard languages. This makes it easy to adopt within an organization.\")),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"If you are looking to bring DevOps in your organization, you should consider using the Go language. It is simple, easy to use, and best suited for DevOps. It has great concurrency and is robust enough to run on a wide range of computer systems. It can be used both in backend and frontend development.\"),mdx(\"p\",null,\"If you are thinking of adopting the Go language in your organization, the best time to do so is now. With the growing popularity of the language, it won\\u2019t be long before it becomes the standard programming language for software development.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJaACdAYs32ZJkvDzowAA/vm699i8Ref+5sDm3/yFn7+ze/u7XrDaaPfMQf41a/5fsWfKo/xA/efzt3+13e+x222+ImpR9ZA5povx9P9nKfRv9gtNeyZOR6rn5skTKeaIuohp//xT5f7/9v/1gP212bu+Oy36R/jAt1C9fk3JOa476GAAAA==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoKAAoAAUAmJaQAApwKk8QAAP7+OJxlkdnD8wwBlQIou3D4I6gU+/xdRq/at/uJWv/65PniOuL7DYCFq0gn4BVt4vZVcAAA",
+      "createdAt": "Tue Aug 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-gui-programming",
+      "locale": "en",
+      "title": "Go Language for Gui Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJagCdLoAEJMTYNgi24AA4lk6tpd3mbSDK7fU1vTesf970Y1Y1IRYmx9SL/i2zTzxlk6hmb/UyqlENf/U5Au7/k5eh/xpHuB+1bCAqBYnv8AA",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-the-masses",
+      "locale": "en",
+      "title": "Python - A Language for the Masses",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZwAD5AwhczLy9AZ4AAA/vb/6Y9PfxoP3X9HoI8Ceg5h7lZpD8R9cz8mb+//1p4pBTqLBvp+bvp0qEWK/imDV6A/xmjNys7umuX+j6V77j/4L++LzISh4eOm/H/wStucnqSqcAaWcEusX9CxLObOlAAAAA==",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-difference-between-javascript-and-typescript",
+      "locale": "en",
+      "title": "The Difference between JavaScript and TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-scraping",
+      "locale": "en",
+      "title": "Python - The Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Web scraping is the practice of extracting data from websites. In this blog, we\\u2019ll discuss why you should learn Python for web scraping, as well as provide examples, resources and suggestions for getting started. The world wide web has made it easier than ever to share information with one another. However, that same ease of access has also made it harder than ever to separate useful information from noise. Because of this, many developers have turned to web scraping in order to extract the information they need from websites without having to manually search or filter through everything individually. Luckily for you, Python is a perfect language for getting started with web scraping! This blog will cover why you should learn Python for web scraping and offer useful resources to get started learning it.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-parallel-computing",
+      "locale": "en",
+      "title": "Go Language for Parallel Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJbACdAEfbjEcZnoAAP7+RRpOxohNKxG9xyYQeGDRszqwYoWJj9wYKWaroL3rhtO2NC3jzOr3/KeUVfcQ3/F+H8KmGHaX/8W+kf0ce4Om1MLQAAA=",
+      "createdAt": "Tue Apr 13 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-development",
+      "locale": "en",
+      "title": "Python - The Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What is the best programming language for developing websites? If you\\u2019re looking to develop dynamic websites and integrate them with databases, Python might be the right choice for you.\nIf you are a programmer or planning to become one, it\\u2019s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.\nIn this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

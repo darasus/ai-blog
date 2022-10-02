@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Why Is Java Application Testing Important?\"),mdx(\"p\",null,`All software has bugs. It\\u2019s a fact of life. And different software has different rates of bugs. It is a fact I am not thrilled to acknowledge.\nAny industry study about software testing would show that testing is the most difficult, yet most critical part of software development.\nFor business-critical software, it is even more important.\nYou might be starting to see the pattern here. Business-critical software, or in other words, software that is mission-critical and plays a critical role in your business, needs to be tested extensively.\nThat\\u2019s why testing your Java applications is so important.`),mdx(\"h2\",null,\"What is Unit Testing?\"),mdx(\"p\",null,`You\\u2019re probably familiar with the term \\u201Creduce\\u201D. Unit testing is all about reducing bugs and errors in your code base.\nUnit testing is done on a segment of code or module and validates its functionality without the need for a complete application. It\\u2019s a method used to test individual units of code.\nUnit tests are primarily written and executed by developers. They are automated and executed by a continuous integration server as part of the build process.\nUnit tests are primarily written in Java, though other programming languages are supported as well.\nUnit test frameworks include JUnit, TestNG and Mockito.`),mdx(\"h2\",null,\"What is an Integration Test?\"),mdx(\"p\",null,`Integration testing focuses on testing and validating the integration of two or more components or modules of an application. If your application is made up of integrated components, like separate modules, services and APIs, then you need to perform integration testing. Integration tests are focused on validating the communication between the various modules, such that when the data is transferred, you can be sure it is accurate.\nIntegration testing is performed at the unit and API level. It validates that the API calls are being executed as planned by the API client or API test case. It also validates that the API server is functioning as expected by the API test case.\nThe results of the integration test are integrated with the unit test results to create a complete test report.`),mdx(\"h2\",null,\"What is a Functional Test?\"),mdx(\"p\",null,`Functional testing verifies that the application does what it is supposed to do.\nFunctional testing checks if the user can perform the required tasks with the application. It validates that all the functionality of the application is working as expected.\nFunctional testing is performed by testers and requires a detailed test plan and test cases.\nFunctional testing is done by using a wide range of automated tools and methodologies, including Acceptance Test Driven Development (ATDD), Behaviour Driven Development (BDD), User Interface Testing (UIT) and Load/Stress Testing.`),mdx(\"h2\",null,\"To Conclude\"),mdx(\"p\",null,\"Testing your Java applications is recommended since it helps cut down on the number of bugs in your software. It also helps you release secure products into production faster by catching bugs before your customers do.\"),mdx(\"p\",null,\"If you want to deliver high-quality software, you need to make sure that it works as expected. And for that, you need to conduct a thorough testing process. Modern software is heavily dependent on third-party services, APIs, and libraries, which makes it difficult to predict all the scenarios that will be executed when users are interacting with your software.\"),mdx(\"p\",null,\"However, by testing your Java applications, you can increase the likelihood of identifying and resolving issues before you release your software.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdAELZFMy9NAA/v4SfMLlX7MbISqYu6uZjOLo1P4iJVFp/YvULTB+RAk0vu+fRIXrA42XvrxPL+zmaL73XpLs4lpQIxyf/zccJ/9H+vkyIbRqqd+uS/AgrStbMkAAAA==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-embedded-programming",
+      "locale": "en",
+      "title": "Go Language for Embedded Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
+      "createdAt": "Wed May 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-data-science",
+      "locale": "en",
+      "title": "Go Language for Data Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-automation.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdLoAAnLyX6vAAP77YMEPds0QUgz9vyZ15x0MQQ97ZJCyoB55yItbXzgTO51VuKe0/ay1OLjyEAV9OXyB/7Wr0PH/8W73gpANhbq/8qV8kmKj/8p+/5gB/M2rt2p4AAAA",
+      "createdAt": "Mon Feb 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-automation",
+      "locale": "en",
+      "title": "Python - The Language for System Automation",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automating tasks is a way of making your life easier. Imagine this, you need to run a report every day and it takes 5 minutes each time. You could either set an alarm and rush back to the desk in 5 minutes or create a script to automate this process. The latter leaves more time for you to focus on more important things. What if you could automate even the simplest tasks? Wouldn\\u2019t it free up your time for better things? That\\u2019s where Python comes into play. As an automation scripting language, it can help you automate even the simplest of tasks and free up more time for work that matters. Automation helps businesses in many ways. It saves time, increases efficiency and decreases costs by eliminating manual processes. In this blog, we will explore why Python is such a popular programming language for system automation and how it can be used to automate simple repetitive tasks in your organization. Let\\u2019s get started\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

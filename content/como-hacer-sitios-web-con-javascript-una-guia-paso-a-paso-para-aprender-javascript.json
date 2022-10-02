@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es JavaScript?\"),mdx(\"p\",null,`JavaScript es un lenguaje de programaci\\xF3n que permite a los dise\\xF1adores de sitios web escribir c\\xF3digo que interact\\xFAa con el navegador del usuario. El lenguaje se usa en millones de sitios web, incluidos los populares como Google, YouTube y Facebook, as\\xED como en sitios web m\\xE1s peque\\xF1os.\nEs una de las tecnolog\\xEDas centrales que hace funcionar Internet y actualmente est\\xE1 siendo utilizada por m\\xE1s de mil millones de personas. En t\\xE9rminos de lenguajes de programaci\\xF3n, JavaScript es relativamente f\\xE1cil de aprender.\nEs un lenguaje popular para los desarrolladores web porque se usa tanto en la codificaci\\xF3n del lado del cliente como del lado del servidor. Esto significa que una vez que haya dominado JavaScript, podr\\xE1 crear sitios web incre\\xEDbles r\\xE1pidamente.`),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 deber\\xEDa aprender JavaScript?\"),mdx(\"p\",null,\"En la era de Internet, saber codificar se est\\xE1 volviendo cada vez m\\xE1s importante como una habilidad tanto para estudiantes como para profesionales empleados. Para los estudiantes: la capacidad de crear contenido digital, ya sea un sitio web, un videojuego o un ensayo interactivo, es una excelente manera de sobresalir entre la multitud en cualquier clase. Tambi\\xE9n podr\\xEDa ayudarlo a ingresar a la universidad de su elecci\\xF3n. Los empleadores buscan personas que puedan crear y dise\\xF1ar. Esto significa que quieren empleados que puedan hacer algo m\\xE1s que leer y escribir. La codificaci\\xF3n es una gran habilidad para tener en su curr\\xEDculum porque est\\xE1 en demanda. Se espera que el mercado laboral tenga una gran demanda de programadores en los pr\\xF3ximos a\\xF1os, lo que significa que los empleadores tienen que competir por trabajadores calificados ofreciendo salarios m\\xE1s altos. Saber programar puede ser una gran habilidad para su curr\\xEDculum si desea un trabajo en cualquiera de estas industrias: - Desarrollo de software - Desarrollo web - Dise\\xF1o gr\\xE1fico - Medios de comunicaci\\xF3n - Marketing - Recursos humanos - Administraci\\xF3n de empresas - Educaci\\xF3n\"),mdx(\"h2\",null,\"\\xBFC\\xF3mo hacer sitios web con JavaScript?\"),mdx(\"p\",null,`Lo primero que debe comprender acerca de la creaci\\xF3n de sitios web con JavaScript es que existe una codificaci\\xF3n del lado del cliente y del lado del servidor. La codificaci\\xF3n del lado del cliente es cuando el c\\xF3digo es ejecutado por la propia computadora del usuario. Ocurre en tiempo real y se utiliza para crear el dise\\xF1o del sitio web.\nLa codificaci\\xF3n del lado del servidor es cuando el c\\xF3digo es ejecutado por una computadora remota. Se utiliza para el \"back-end\" del sitio web, incluidas cosas como el inventario de productos y las cuentas de usuario.\nLo que hace que JavaScript sea tan \\xFAtil para crear sitios web es que se puede usar tanto para la codificaci\\xF3n del lado del cliente como del lado del servidor. Uno de los usos m\\xE1s comunes de JavaScript es un formulario en l\\xEDnea que los usuarios pueden completar. Supongamos que desea crear un formulario en un sitio web para preparar una taza de caf\\xE9.`),mdx(\"h2\",null,\"\\xBFDonde empezar?\"),mdx(\"p\",null,`La mejor manera de comenzar a aprender cualquier habilidad nueva es crear una base s\\xF3lida. Esto significa tener claro los objetivos que espera alcanzar y la mejor manera de llegar all\\xED. En este caso, el objetivo es dominar JavaScript y la mejor manera de lograrlo es utilizar un enfoque paso a paso.\nAhora es un buen momento para evaluar su nivel de habilidad y crear un plan para pasar de principiante a avanzado. Lo primero que debe hacer es determinar su nivel de habilidad actual realizando este cuestionario de JavaScript.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`Ahora que sabe qu\\xE9 es JavaScript, por qu\\xE9 deber\\xEDa aprenderlo y c\\xF3mo crear sitios web con \\xE9l, \\xA1es hora de comenzar! Este es solo el comienzo de su viaje. Invertir en su futuro aprendiendo una nueva habilidad es un proceso emocionante, pero tambi\\xE9n conlleva desaf\\xEDos.\nLo m\\xE1s importante es no desanimarse. La clave para aprender cualquier habilidad nueva es ser paciente contigo mismo y ser constante.\nCon el tiempo suficiente, puede pasar de no saber nada sobre JavaScript a poder crear sitios web incre\\xEDbles.\nHay muchas maneras diferentes de aprender JavaScript, incluidos cursos en l\\xEDnea, libros y aplicaciones. Cualquiera que sea el m\\xE9todo que elija, aseg\\xFArese de que sea uno que disfrute y que se adapte a su estilo de vida.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "manejo-de-excepciones-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Manejo De Excepciones En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En programaci\\xF3n, nada puede ser 100% perfecto. Siempre habr\\xE1 alg\\xFAn tipo de error o evento inesperado que pueda ocurrir durante la ejecuci\\xF3n de un programa. Estos problemas se conocen como \"excepciones\" y pueden tomar muchas formas. Por ejemplo, una excepci\\xF3n podr\\xEDa ser algo como leer una variable de cadena vac\\xEDa, intentar acceder al sexto elemento de una matriz con solo cinco elementos, o incluso algo tan simple como no tener suficiente memoria disponible para continuar ejecutando instrucciones.\nEstas circunstancias excepcionales se denominan excepciones porque son excepcionales y el controlador del programa no puede continuar con su ruta de ejecuci\\xF3n habitual m\\xE1s. Para el usuario, parece como si la aplicaci\\xF3n hubiera fallado \"excepcionalmente\" de alguna manera y necesita recuperarse de este estado. Por lo tanto, contamos con manejo de excepciones en Java para manejar estos casos extremos con gracia para que nuestras aplicaciones sigan funcionando correctamente a pesar de ellos. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre varios tipos de excepciones en Java y c\\xF3mo podemos manejarlas usando bloques try-catch de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
+      "createdAt": "Mon Mar 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/packages-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAsk/hKFyFAAA9438Qif7NTx4/XBGfvlPNqVZ278xZVveVdYm28CSe79qqrt6COwDPzbZqn42+4pPcjM1VxGEtpNgmo7e/9MwWmBePk/c23ff6zKbDrlj7KPV/xyO4cv/0YDVmJY2DhsPCaf2hlJDM7wBPGjAAAA=",
+      "createdAt": "Tue Mar 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "paquetes-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Paquetes En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este mundo digital, todo se est\\xE1 volviendo digital. Incluso el campo de la programaci\\xF3n se est\\xE1 desplazando hacia plataformas y soluciones m\\xE1s digitalizadas. En tal escenario, surge la necesidad de programas compactos que puedan instalarse y usarse f\\xE1cilmente en cualquier dispositivo. Ah\\xED es donde entran en juego los paquetes de Java.\nUn paquete en Java es una colecci\\xF3n de clases, interfaces, enumeraciones y subpaquetes relacionados bajo un mismo paraguas. Como ya habr\\xE1 entendido de la explicaci\\xF3n anterior, los paquetes son una excelente manera de organizar su c\\xF3digo en unidades l\\xF3gicas que se pueden reutilizar en todos los proyectos. Los paquetes lo ayudan a evitar conflictos de nombres con otras bibliotecas o programas y ayudan a mantener juntas las cosas relacionadas para que sean m\\xE1s f\\xE1ciles de encontrar m\\xE1s adelante. Echemos un vistazo a algunos paquetes comunes de Java:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
+      "createdAt": "Wed May 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-ciencia-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Ciencia De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los cient\\xEDficos de datos deben poder hacer frente a nuevos desaf\\xEDos r\\xE1pidamente. Si desea que su equipo pueda responder de inmediato y girar sin problemas, necesita que usen el mismo conjunto de herramientas, compartan bibliotecas y trabajen en una base de c\\xF3digo tanto como sea posible. Hay tantas herramientas diferentes para la ciencia de datos, desde bibliotecas de Python como pandas y NumPy hasta el lenguaje de programaci\\xF3n Scala para an\\xE1lisis estad\\xEDstico.\nSi su equipo est\\xE1 formado por ingenieros que tambi\\xE9n son cient\\xEDficos de datos experimentados, entonces puede elegir cualquier soluci\\xF3n que se ajuste a ambos requisitos. Sin embargo, si tiene cient\\xEDficos de datos que no son programadores o ingenieros que necesitan ponerse al d\\xEDa r\\xE1pidamente, es mejor elegir una soluci\\xF3n que ofrezca m\\xFAltiples beneficios a la vez. Go es una soluci\\xF3n cada vez m\\xE1s popular que combina la facilidad de los lenguajes de secuencias de comandos con el rendimiento de los lenguajes compilados. En este art\\xEDculo, aprenderemos por qu\\xE9 deber\\xEDa usar Go como lenguaje de ciencia de datos y cu\\xE1les son sus principales beneficios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, con el predominio de los dispositivos m\\xF3viles e IoT, los usuarios esperan que las aplicaciones respondan r\\xE1pidamente y brinden una experiencia atractiva. Al mismo tiempo, las empresas exigen soluciones rentables para satisfacer estas demandas. Esto crea la necesidad de aplicaciones multiplataforma de alto rendimiento que se puedan implementar f\\xE1cilmente en varios dispositivos. JavaFX puede ser su mejor apuesta para desarrollar este tipo de aplicaciones.\nCon JavaFX, puede crear aplicaciones de cliente enriquecidas de alto rendimiento, receptivas y con una interfaz de usuario natural (NUI). En esta publicaci\\xF3n, explicaremos qu\\xE9 es JavaFX y qu\\xE9 aporta. Tambi\\xE9n veremos algunos ejemplos de d\\xF3nde se est\\xE1 utilizando esta tecnolog\\xEDa. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre sus beneficios y detalles de implementaci\\xF3n, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
+      "createdAt": "Wed Sep 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Atajos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-lenguaje-para-el-desarrollo-de-juegos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Lenguaje Para El Desarrollo De Juegos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Ahora que el mundo del desarrollo de juegos se est\\xE1 volviendo cada vez m\\xE1s digital, tambi\\xE9n hay nuevos desaf\\xEDos que enfrentar. Ahora se espera que los desarrolladores de juegos presenten soluciones a problemas complejos en un tiempo r\\xE9cord. Y aqu\\xED es donde entran los lenguajes de programaci\\xF3n. Hacen posible que los desarrolladores resuelvan problemas creando programas directamente en lugar de escribir instrucciones palabra por palabra. Existen numerosos lenguajes de programaci\\xF3n, pero uno que se ha vuelto particularmente \\xFAtil para el desarrollo de juegos es Go. Tiene muchas caracter\\xEDsticas que lo convierten en una excelente opci\\xF3n para desarrollar videojuegos, incluida su simplicidad, inferencia de tipos y excelente compatibilidad con Unicode. Si est\\xE1 buscando comenzar a aprender sobre Go y sus beneficios para el desarrollo de juegos, siga leyendo. En esta publicaci\\xF3n de blog, cubriremos todo lo que necesita saber sobre Go y por qu\\xE9 es un excelente lenguaje para el desarrollo de juegos.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-computacion-paralela",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Computación Paralela",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Si ha le\\xEDdo sobre el mundo de la computaci\\xF3n paralela, sabr\\xE1 que es un campo que est\\xE1 creciendo r\\xE1pidamente en importancia. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente. Esta capacidad de ejecutar m\\xFAltiples procesos simult\\xE1neamente conduce a resultados m\\xE1s r\\xE1pidos y eficientes. Las aplicaciones como la inteligencia artificial, el reconocimiento de im\\xE1genes y el procesamiento del lenguaje natural son campos que pueden beneficiarse enormemente de las t\\xE9cnicas de computaci\\xF3n paralela. Debido a esta demanda de t\\xE9cnicas de computaci\\xF3n paralela, existen muchos lenguajes de programaci\\xF3n disponibles espec\\xEDficamente para este prop\\xF3sito. El lenguaje Go es uno de esos ejemplos. En este art\\xEDculo, explicaremos qu\\xE9 es Go y sus beneficios para la computaci\\xF3n paralela.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-consejos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Consejos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Hay muchas razones para aprender a codificar. Esta habilidad digital te da el poder de crear sitios web, aplicaciones o videojuegos desde cero sin tener que pagarle a alguien m\\xE1s para que lo haga por ti. No solo eso, la codificaci\\xF3n se puede usar en muchas industrias y trabajos diferentes. Tambi\\xE9n es una excelente manera de ganar dinero en l\\xEDnea como un proyecto paralelo si tiene otras ambiciones. Sin embargo, si nunca ha codificado antes, puede parecer un desaf\\xEDo imposible. No es algo que puedas buscar en Google o Netflix, requiere dedicaci\\xF3n y pr\\xE1ctica. Afortunadamente, hay muchos recursos gratuitos disponibles en Internet que lo ayudar\\xE1n a comenzar con los conceptos b\\xE1sicos de codificaci\\xF3n y desarrollar sus habilidades con el tiempo. El siguiente art\\xEDculo destaca algunos de los mejores consejos para principiantes que quieren aprender a programar en 2018 y m\\xE1s all\\xE1.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-habitos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Hábitos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El camino para convertirse en un codificador experto es largo y desafiante. De hecho, es uno de los campos tecnol\\xF3gicos m\\xE1s dif\\xEDciles para empezar como principiante. Pero tambi\\xE9n es una de las carreras m\\xE1s lucrativas que puede elegir seguir. El salario promedio de un ingeniero de software es de alrededor de $ 100K por a\\xF1o, lo que es a\\xFAn m\\xE1s impresionante cuando se considera que la edad promedio de los ingenieros de software es de solo 29 a\\xF1os. Si desea comenzar una nueva carrera en la codificaci\\xF3n pero siente que est\\xE1 comenzando desde cero, tenemos algunos consejos para usted. Como alguien que ha estado programando durante m\\xE1s de 10 a\\xF1os, puedo decirles con total certeza que los grandes programadores se hacen y no nacen. Cualquiera puede aprender a codificar si est\\xE1 dispuesto a trabajar duro y adoptar algunos buenos h\\xE1bitos en el camino. Aqu\\xED hay algunos consejos sobre c\\xF3mo puede comenzar hoy:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

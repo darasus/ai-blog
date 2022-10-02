@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...i}){return mdx(MDXLayout,{...layoutProps,...i,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Introduction to Image Processing\"),mdx(\"p\",null,\"Image processing is the science of manipulating images and the systems and computer software used for this purpose. It is a vast and interdisciplinary field with applications in many fields, including engineering, medicine, science, architecture, and visual arts.\"),mdx(\"p\",null,\"There are many different types of image processing. They can be grouped according to the type of image content being processed or the type of visualization desired. Some examples include image recognition, image reconstruction, image restoration, image retouching, image segmentation, image compression, image registration, and image sequence visualization.\"),mdx(\"p\",null,\"These techniques are typically used to create or enhance images. They can be used in security applications such as recognition of license plates or facial recognition, or in medical applications such as tomography or DNA analysis. Image processing can be applied to audio or text data as well as images.\"),mdx(\"h2\",null,\"What is Image Processing?\"),mdx(\"p\",null,\"Image processing is the process of applying computational image-analysis techniques to digital images to produce new images or image derivatives. Image processing is used for image/s that were previously taken by a camera.\"),mdx(\"p\",null,\"Image processing can be used for a wide variety of applications. Some examples include recognition of faces in pictures, change in buildings over time, analysis of geographical/topographical maps, analysis of satellites/climate data, etc.\"),mdx(\"h2\",null,\"Installing OpenCV in Python\"),mdx(\"p\",null,\"OpenCV is a popular open-source library for computer vision that can be used with Python. It includes hundreds of algorithms for image processing, machine learning, and computer vision. The installation instructions for OpenCV differ slightly for different operating systems (OS).\"),mdx(\"h2\",null,\"Running Python Scripts\"),mdx(\"p\",null,\"Python on its own doesn\\u2019t have a graphical user interface (GUI), but as it\\u2019s so popular, many different GUIs have been created that you can interface with Python through. These GUIs can use images to display the results of your programs.\"),mdx(\"p\",null,\"For example, you can create a GUI that allows you to click on images and run image recognition algorithms to see if the image is an image of a car, cat, or person. You can also create GUIs using libraries like Tkinter or WXPython, which allows you to create an application that can run on Windows, macOS, or Linux.\"),mdx(\"h2\",null,\"Wrapping up: Why you should use Python for Image Processing\"),mdx(\"p\",null,\"Computer vision is a very computationally intensive task, and Python makes it easier to process images with its simple syntax and available libraries for image processing.\"),mdx(\"p\",null,\"Image processing is not only useful for computer vision, but it can be used for many other tasks such as image recognition for identification of people, places, or things. The power of Python makes it a very good choice for image processing.\"),mdx(\"p\",null,\"Moreover, Python is easy to read and write, which makes it a good choice for beginners. If you need to analyze images, you should use Python for its simplicity and efficiency. You should also consider using Python as it\\u2019s a very popular language and is used by many industries.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-scraping",
+      "locale": "en",
+      "title": "Python - The Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Web scraping is the practice of extracting data from websites. In this blog, we\\u2019ll discuss why you should learn Python for web scraping, as well as provide examples, resources and suggestions for getting started. The world wide web has made it easier than ever to share information with one another. However, that same ease of access has also made it harder than ever to separate useful information from noise. Because of this, many developers have turned to web scraping in order to extract the information they need from websites without having to manually search or filter through everything individually. Luckily for you, Python is a perfect language for getting started with web scraping! This blog will cover why you should learn Python for web scraping and offer useful resources to get started learning it.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgMXN5D2aXoAA/v0gv8ReNXMb93cO5Q/ov5GW+7UomsDg6mSnJQvkaEun240Wqgz+5CmEmoM/q1u81sk/UMTGXZSeVY/Glg3jlie1VGogcLxCsY3jL3//dhp8z3wc//k5MszuVtPwxuDYhl4AAAA=",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-better",
+      "locale": "en",
+      "title": "How to Code Better",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-administration",
+      "locale": "en",
+      "title": "Go Language for Web Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJYwCdAEPChpfyVYAAP6t+3/8PPzEsJ015Z9eXxnwnKMXzv78iZ3fXMwFDqfAEQcpJA8dUc/khL/AudC/65gS4RifvMI8n/xYdlgV3qp68FcRMBPvGl+L4fma80n8ITK17rogwWZfP2FgAAA=",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-journals",
+      "locale": "en",
+      "title": "The Top Software Engineering Journals",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers constantly have to stay up-to-date with new research, trends, and techniques in their field. The most common way for software engineers to do this is by reading research papers published in journals. These journals are almost exclusively found online. Many of them are available for free, but some are behind paywalls for non-subscribers. Fortunately, you don\\u2019t need to subscribe to every single one of these journals if you\\u2019re a software engineer\\u2014just the ones that publish articles related to your specific interests and career goals as a software engineer.\nRead on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

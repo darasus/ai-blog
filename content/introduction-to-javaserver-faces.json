@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is JavaServer Faces?\"),mdx(\"p\",null,`JavaServer Faces (JSF) is a component-based UI framework for server-side applications written in Java. It is based on standard Java APIs and architecture that enables developers to build web applications more easily and efficiently.\nJSF is an implementation of the Model-View-Controller (MVC) architectural pattern. You write your user interface by combining UI components, mapping these components to the model data, and then defining the interactions between the UI components and the model data.\nJSF is predominantly used for building web applications that require heavy use of server-side services and dynamic user interface elements. It can also be used for building enterprise applications that are deployed in large-scale systems.`),mdx(\"h2\",null,\"Why use JavaServer Faces?\"),mdx(\"p\",null,`JAVA is one of the most popular programming languages used to create software and websites. One of the reasons why it has become so popular is that it has evolved over the years. One of the most significant evolutions of the language is the introduction of the JAVA Server Faces (JSF) technology.\nJAVA Server Faces (JSF) is a server-side UI technology that leverages Java\\u2019s flexibility and built-in features to provide powerful and richly featured user interfaces for applications.\nJAVA Server Faces (JSF) was added to the JAVA language in 2002. It was created as an alternative to Microsoft\\u2019s server-side UI technology \\u2013 ASP.NET. This was done to reduce dependency on Microsoft products and increase interoperability.\nJAVA Server Faces (JSF) is based on the standard JAVA APIs and architecture. It enables developers to build web applications more easily and efficiently.\nJAVA Server Faces (JSF) is an implementation of the Model-View-Controller (MVC) architectural pattern. You write your user interface by combining UI components, mapping these components to the model data, and then defining the interactions between the UI components and the model data.\nJAVA Server Faces (JSF) is predominantly used for building web applications that require heavy use of server-side services and dynamic user interface elements. It can also be used for building enterprise applications that are deployed in large-scale systems.`),mdx(\"h2\",null,\"Introduction to key concepts in JavaServer Faces\"),mdx(\"p\",null,`There are some key concepts in JSF worth understanding before going any further.\nThis section will provide an overview of these concepts and how they interact with each other.`),mdx(\"h2\",null,\"JSF Architecture\"),mdx(\"p\",null,`JSF is a component-based user interface (UI) framework that is built on standard Java APIs and architecture. It enables developers to build web applications easily and efficiently.\nJSF is an implementation of the Model-View-Controller (MVC) architectural pattern. You write your user interface by combining UI components, mapping these components to the model data, and then defining the interactions between the UI components and the model data.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"In this blog, we discussed what is JavaServer Faces and why you should use it. We also explored an introduction to key concepts in JavaServer Faces and its architecture. These concepts will help you to understand how JSF works.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/packages-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAsk/hKFyFAAA9438Qif7NTx4/XBGfvlPNqVZ278xZVveVdYm28CSe79qqrt6COwDPzbZqn42+4pPcjM1VxGEtpNgmo7e/9MwWmBePk/c23ff6zKbDrlj7KPV/xyO4cv/0YDVmJY2DhsPCaf2hlJDM7wBPGjAAAA=",
+      "createdAt": "Tue Mar 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "packages-in-java",
+      "locale": "en",
+      "title": "Packages in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this digital world, everything is going digital. Even the field of programming is shifting towards more digitized platforms and solutions. In such a scenario, the need for compact programs that can be easily installed and used on any device arises. That\\u2019s where Java packages come into play.\nA package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they\\u2019re easier to find later on. Let\\u2019s take a look at some common Java packages:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgMXN5D2aXoAA/v0gv8ReNXMb93cO5Q/ov5GW+7UomsDg6mSnJQvkaEun240Wqgz+5CmEmoM/q1u81sk/UMTGXZSeVY/Glg3jlie1VGogcLxCsY3jL3//dhp8z3wc//k5MszuVtPwxuDYhl4AAAA=",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-mobile-development",
+      "locale": "en",
+      "title": "Python - The Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYwCdAabPnQduO3bLwAA/uuQxuxDnCbRZF9wtDUx6DCvHbO2hH1Lysi1EuK3Lv6RGBjg/9+P2eZfp/wWAA8ck25ABrZSNLH9L4fPyLbrJMm9flyhV0dxEa+GEmjRZsTdlNMAAAA=",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "7-javascript-basics-every-typescript-developer-should-know",
+      "locale": "en",
+      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-javaserver-faces-application",
+      "locale": "en",
+      "title": "Building a Javaserver Faces Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-habits-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Habits for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

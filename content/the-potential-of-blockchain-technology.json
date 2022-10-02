@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Blockchain Basics\"),mdx(\"p\",null,`The foundation of blockchain technology is a decentralized network of computers that securely stores data in a manner that ensures confidentiality and integrity. This is achieved by first isolating the data in question, and then securing it with strong encryption algorithms and logging the data\\u2019s provenance.\nTo secure the data, the blockchain network uses a distributed ledger, which is an immutable record that keeps track of all transactions and data transfers that have ever been executed. The distributed ledger used in blockchain technology is distributed across thousands of computers that are geographically dispersed. This arrangement ensures that no single computer or entity has control over the information in the ledger. It also makes it virtually impossible for hackers to manipulate data within the ledger.`),mdx(\"h2\",null,\"The Trust Machine\"),mdx(\"p\",null,`Blockchain technology is sometimes referred to as a \\u201Ctrust machine\\u201D because it facilitates secure peer-to-peer interactions between parties that do not necessarily trust each other. This is made possible by the use of cryptographic keys that allow users to authenticate themselves. The keys authenticate users by confirming their identity based on unique identifiers such as their email address or phone number. Once a user has been authenticated, he or she can interact with the blockchain network to securely store data.\nThe blockchain network operates autonomously without an intermediary by using smart contracts to automatically execute the terms and conditions established by the parties involved in the transaction. The decentralized design of the blockchain network means that there is no single entity to whom users must outsource trust. As such, users can authenticate themselves and securely store data that is accessible only to those they wish to share it with.`),mdx(\"h2\",null,\"Why is Blockchain Technology so Important?\"),mdx(\"p\",null,`In addition to its ability to facilitate safe peer-to-peer interactions, blockchain technology can also be used to trigger automatic actions based on the terms and conditions specified by the parties involved in the transaction.\nFor example, a smart contract could be used by an insurance company to trigger an automatic payment to a policyholder whose car has been involved in an accident. This type of automation could save time and resources, as well as reduce opportunities for fraud.\nSimilarly, businesses can use blockchain technology to create smart contracts that manage confidential data. These contracts can specify the terms and conditions by which data owners can transmit their data to third parties. Smart contracts can also specify the terms and conditions by which data owners can request that third parties return their data.\nBy using blockchain technology to establish smart contracts that manage access to confidential data, businesses can provide assurances to their data owners that their information will be secure.`),mdx(\"h2\",null,\"Limiting Access to Confidential Data with Smart Contracts\"),mdx(\"p\",null,`When managing confidential data, businesses can use blockchain technology to create smart contracts that limit access to only those parties that have authenticated themselves. The contracts can also specify the terms and conditions under which those third parties can access the data.\nBy limiting access to only authenticated users, businesses can protect confidential data from malicious actors who may try to impersonate legitimate users. Furthermore, businesses can use blockchain technology to create smart contracts that unlock access to data once the parties involved have fulfilled the specified terms and conditions. For example, a healthcare company might use blockchain technology to create a smart contract that ensures that a computer at a specific location will only release a user\\u2019s medical data to a healthcare provider after the user has signed a consent form and paid their medical bill.`),mdx(\"h2\",null,\"Auditing and Tracking Confidential Data with Blockchains\"),mdx(\"p\",null,`Blockchain technology can also be used to audit and track the provenance of confidential data. This can be accomplished by logging every time that data is accessed, modified or transferred. This information is logged on the blockchain ledger and can be verified by anyone who has access to the ledger.\nBy logging the provenance of data, businesses can provide assurances to their clients that they are being transparent about how they are using the data. This could be especially important where sensitive data is concerned, such as in the healthcare sector, where consumers may be wary of giving out their data.\nBy auditing and tracking data, businesses can also be held accountable for their actions. If, for example, a healthcare company were to misuse a patient\\u2019s data, the blockchain ledger would make it clear when and how the data was accessed, as well as who accessed it.`),mdx(\"h2\",null,\"Shoring up Security with Strong Encryption Practices\"),mdx(\"p\",null,`Finally, blockchain technology can be used to strengthen the security of data by using strong encryption practices. The distributed ledger used in blockchain technology is distributed across thousands of computers that are geographically dispersed. This arrangement ensures that no single computer or entity has control over the information in the ledger. It also makes it virtually impossible for hackers to manipulate data within the ledger.\nMoreover, the decentralized nature of the blockchain network means that it is difficult for malicious actors to gain control of the entire network. As such, they would be unable to manipulate the data in the ledger even if they did manage to gain control of a portion of the network.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Although blockchain technology is still in its early stages, it is already proving to be a reliable and secure technology that can be used to manage confidential data. By leveraging the various strengths of blockchain technology, businesses can strengthen the security of their data and improve their customers\\u2019 trust in their services.\nBy using blockchain technology, businesses can improve how they manage confidential data by securing it with strong encryption practices and limiting access to only authenticated users. These efforts can help businesses reduce the risk of cyberattacks, as well as provide customers with greater transparency about how their data is being used.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-help-your-company.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMWq1OZnnEdgAAD+rT8uzPNibzHZItvX/4s+kv+a9bu9sE/Hxh9FWCkvgpOVIZXNbvv7b/DNrOazub5YS4ZHcG+2w1Ydrc34J8OGh3/px5TDdi9RPsJRT5x4DbLk4RFcFOj9ziI6l6L99LwAAAA=",
+      "createdAt": "Sun Apr 03 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "how-blockchain-technology-can-help-your-company",
+      "locale": "en",
+      "title": "How Blockchain Technology Can Help Your Company",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, almost every company is looking for ways to improve their business processes using innovative technologies. In the process, blockchain technology has grown immensely in popularity due to its potential use cases and applications across industries. Blockchain\\u2019s decentralized nature makes it especially useful for businesses that want to keep user data private, verify identities without third parties, or manage records efficiently.\nIf you are considering introducing blockchain technology into your company, keep reading! We have compiled a list of the top 5 reasons why your business should adopt blockchain technology today. You will also learn about the different types of blockchain solutions available and see some examples of how companies are currently implementing this transformative new technology.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-improve-your-website.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJYgCdLoAEIsYgruKgAAA/sj//+SEqfRyQ6fH793oK/cwN5RyDYHZvDW98PtbQjj2nr/wLuizUX+PYs9g70v4UaExvd42RM7+/l+RXW6jC7TFcHrz3KnMgAA=",
+      "createdAt": "Wed Jun 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "how-blockchain-technology-can-improve-your-website",
+      "locale": "en",
+      "title": "How Blockchain Technology Can Improve Your Website",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, businesses are struggling to keep up with the pace of digital transformation and the growing expectations of their customers. There is a general feeling that something big is about to happen. The Internet as we know it is changing, and new ways to use data are being invented every day. In this rapidly shifting landscape, blockchain technology stands out as one of the most disruptive innovations.\nBut what exactly is blockchain technology? In a nutshell, it\\u2019s a decentralized ledger that stores information in places called blocks. Whenever someone wants to add information or a transaction to the ledger, they first need to verify themselves by supplying proof of identity. Each block also has its own unique identifier known as a hash. These identifiers help track information easily without having to store an entire copy of each block, which reduces space significantly and speeds up data transfer speeds significantly.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-promise-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJZQCdAYqDuJKlANgAAD+3fqu3d5NsbDvw3KmYy9Zf94UdhNj+XmG2YZLF/p/zx1rguBcybcnz8h3/xBKf5KJ7W8vl7g0EXkWzdD6tpOBOV0AAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-promise-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Promise of Blockchain Technology",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world is becoming increasingly digital and connected. As a result, businesses and consumers alike are recognizing the potential of Smart Technologies. Organizations are looking to implement new solutions that can streamline operations, cut costs, and drive innovation. In response to this growing demand for Smart Technology, blockchain is emerging as a promising solution.\nCrypto-currencies like Bitcoin have received a lot of attention recently because they use blockchain technology as their foundation \\u2013 something called a \\u201Cproof-of-work\\u201D mechanism that validates transactions on the network through verification by many different users. The implications of blockchain go far beyond just these applications though, extending into almost every industry. In this blog post we will explore the opportunities that come from integrating blockchain in your business processes or software development life cycle (SDLC).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/nem-the-smart-asset-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJQBOgCIj5dN2juoAAP7+rRz6f1sYbCWvNErtBGkmgHb04gzLkE5jmoGaXxUN79OGQ58FSh6AoqhUeDKeenFawg7eHfmAHjvcIiSx2wAAAA==",
+      "createdAt": "Mon Apr 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "nem-the-smart-asset-crypto",
+      "locale": "en",
+      "title": "Nem: The Smart Asset Crypto",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New Economy Movement or NEM is a new blockchain technology that aims to revolutionize the way digital assets are managed and recorded. NEM\\u2019s goal is to build a new economy with new digital asset management principles. Different from other cryptocurrencies like Bitcoin, Ethereum, or Neo \\u2013 which use their blockchains primarily as a payment ledger - the NEM blockchain uses an advanced system of smart contracts CoIN tokens, and atomic swaps to manage almost any kind of commercial property. The scope of its potential applications extends far beyond financial transactions. The non-blockchain application of NEM goes much further than just providing another medium for buying and selling things online. Its developers have also created a \\u201Csmart asset\\u201D system that can be used on almost any business, organization, house, car, boat \\u2013 anything you can think of! Let\\u2019s take a look at what exactly makes this crypto so special...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ethereum-classic-the-original-ethereum.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJaQAD4zNWa/cnLoAAP7+taWF+qwHsvvINEX6qc/Q/x/+hmevvApdnhWKbQPDuJYfQeSx2iArEeYEDp+nZg5dHLiCM51o79INrrb656PI7ugA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "ethereum-classic-the-original-ethereum",
+      "locale": "en",
+      "title": "Ethereum Classic: The Original Ethereum",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum is the world\\u2019s leading blockchain for smart contracts. It brought about a new wave of decentralized applications that no one could have imagined in the early days of cryptocurrency. Ethereum has also proven to be an invaluable source of inspiration for other projects that are trying to build similar platforms with different objectives and features. One such project is Ethereum Classic (ETC). Although it might sound like another version of Ethereum, it is actually a continuation of the original Ethereum software, which was later on referred to as \\u201CETH\\u201D when its token achieved its own market cap and ticker symbol.\nEthereum Classic is essentially the original Ethereum codebase but with unrestricted miner checks, increased gas costs, and general code optimisations. Think of ETC as the anti-ETH; a blockchain that allows developers to deploy applications without any possible malicious interference from miners or anyone else who may control ETH in the future. Below you will find all you need to know about Ethereum Classic, how it differs from \"new\" Ethereum, and how you can buy ETC.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-advantages-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZwCdAYuv20d7N89YrOUAP7wtiVPIUd+DB6kr5ITMcHhEohm1rCBLfRnxNtn+XomN2TQZvo+oKQlcLPSim3FbRYIU7P60+j+RX73n7GkHvX5GoUIFgAg5ED9nob5AVYWLlAA",
+      "createdAt": "Wed Oct 13 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-advantages-of-blockchain-technology-for-startups",
+      "locale": "en",
+      "title": "The Advantages of Blockchain Technology for Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world is doubling down on blockchain technology. In the last couple of years, we have seen an exponential growth in businesses using the decentralized technology for various use cases across different industries. We also see a rise in new blockchain startups coming into the market with their new solutions based on this technology.\nAs per a Statista article, the global blockchain market is expected to grow from $210 million in 2021 to $66 billion by 2026. This means there are ample opportunities for startups and businesses to leverage this technology and create innovative solutions for problems that can be solved using decentralized ledgers and smart contracts.\nIf you are thinking about incorporating blockchain into your business model, you\\u2019ve come to the right place! In this blog post, we will discuss why you should use blockchain technology for your startup, what are the advantages of Blockchain Technology for Startups and how exactly can you implement it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ripple-the-new-bankers-coin.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJZwAD4WwNhw0I0OwAAD+/v7XE3qw52Jm07bZgsOoUX1+4+a6hHIEupKm92G/PiXuJ4BH/9E6aHH4+sDlgnIatbBko22/xQKphWjnyH58USGAAAA=",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "ripple-the-new-bankers-coin",
+      "locale": "en",
+      "title": "Ripple: The New Banker's Coin",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of cryptocurrency can be pretty overwhelming for newcomers. However, there are many reasons why this digital money is gaining popularity with investors and leading financial institutions. The blockchain-based token economy has the potential to revolutionize the way we handle money and make transactions as a global society.\nIf you have been looking into getting involved in the cryptocurrency market, you may have noticed that there are hundreds - perhaps even thousands - of different coins available. Most of them have weird names, strange logos, and even stranger marketing tactics. It\\u2019s enough to drive anyone mad. But don\\u2019t worry; we\\u2019re here to help get you up to speed on one of the most talked-about cryptocurrencies out there: Ripple (also known as XRP).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/neo-the-chinese-ethereum.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJZQAE+AJ/X22S9ky90gAAP7+Eq31a36fM7cp8///R8w03rjDSLyYE/M71HXT9HWZfgv7e46WYP/RhMNrNHNe5dY7k5Olf/TK9QX+Z335vUKw+6vtnj6CusAAAA==",
+      "createdAt": "Sun Dec 12 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "neo-the-chinese-ethereum",
+      "locale": "en",
+      "title": "Neo: The Chinese Ethereum",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"EOS and TRON have both recently gained a lot of attention from the cryptocurrency community. While both projects have done so for different reasons, it\\u2019s no secret that both EOS and TRON have been attempting to compete with Ethereum as potential alternatives for developers looking to build decentralized applications (dApps). Both EOS and TRON are often referred to as \\u201Cthe Chinese Ethereum\\u201D due to the similarities in their functionality as well as their focus on becoming the primary blockchain for dApps. However, there are clear differences between these two projects that set them apart from one another. Let\\u2019s take a closer look at NEO and its competition with EOS and TRON.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/dash-the-privacy-centric-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoB+ADjAAM4A2qK4AD+6gH9fdGKjOLnDWoHNLgzJ0h2sp0dRaFYpzBGU5pEU9M7eD6z1fYdVHtXmTvGVwtw9bfutSNsaXHs//zQppzDTM3WGR9Itm6v1OPf/zak9v4FVgP5TE3SCN+o4AAA",
+      "createdAt": "Sun Sep 25 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "dash-the-privacy-centric-crypto",
+      "locale": "en",
+      "title": "Dash: The Privacy-Centric Crypto",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In the world of cryptocurrency, there are many different digital tokens available. Each one has its own unique features and potential uses. There are thousands of different investors who have bought into the world of cryptocurrency, and each individual has their own reasons for investing in one coin or another. Some people invest in specific cryptocurrencies because they see a particular use case for that token; others invest in specific coins as a hedge against another token; and some invest based on the technical details and potential future use case for that token. There are many individuals who invest in specific tokens primarily because of their privacy features. Privacy is becoming a very important factor to consider when choosing which cryptocurrency to buy into, especially now that so many nefarious forces are targeting the cryptocurrency community with phishing attacks and hacks. The purpose of this article is to explain why you should consider investing in Dash, an emerging crypto known as Digital Cash, if you\\u2019re looking for a more private crypto investment option.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-risks-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAADQAQCdASoKAAoAAUAmJaQAAqsAWvXcAAD+/u1/uCAxeiQN1Rwg5N36uBbCjt6a90vaBphu5YV+8EFlf/bxB8oIvH8TnIP1/0+uACH5CkHDjvnIv7/68z7BuVlDQfHOKieTMoFPzt3vYO634f4s20Gry3/lUQUhDRuTKFAA",
+      "createdAt": "Tue Jun 01 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-risks-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Risks of Blockchain Technology",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The rise of blockchain technology has made it possible for digital data to be verified, stored, and accessed in a safe and secure way. Companies are beginning to use this technology to manage the digital certificates of their products and verify their authenticity. Because blockchain is widely known as the technology behind Bitcoin, many businesses are hesitant to adopt it because of its association with cryptocurrency. However, that reputation isn\\u2019t necessarily fair. The real risk lies in how companies implement blockchain instead of the technology itself.\nThere are potential risks when adopting new technologies such as blockchain; however, implementing it correctly can help your business thrive by streamlining processes and reducing costs. This article explains the risks of blockchain technology and how you can mitigate them before implementation.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

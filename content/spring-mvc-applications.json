@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Spring MVC Based Desktop Applications\"),mdx(\"p\",null,`Desktop applications that are built with the Spring MVC framework are typically web applications in nature and are intended to be run inside a desktop environment, such as on a Mac or Windows PC. They are usually accessed by the user through a browser, and then the desktop application is launched within the browser itself. This type of architecture allows the user to have access to the entire functionality of the desktop application, while only being constrained by the web browser they are using.\nFor example, let\\u2019s say you were building a desktop application that provides some sort of financial management functionality. With this type of desktop application, the user will be able to interact with all areas of the software from their browser, while having access to the data being managed in the desktop application as well. This would allow the user to add new transactions and financial information from their browser, as well as view it all from the same interface.`),mdx(\"h2\",null,\"Spring Boot Based Desktop GUI Apps\"),mdx(\"p\",null,\"If you are already familiar with developing desktop applications, but would like to take a shortcut to get to their core functionality, then the most straightforward route would be to build a \\u201CSpring Boot Based Desktop GUI Application.\\u201D The Desktop GUI application will be built using the default settings of a Spring Boot project and no configuration changes will be required.\"),mdx(\"p\",null,\"To begin, create a new Maven project using the \\u201CSpring Starter\\u201D credentials. Then, after your project is created, you will want to add the following dependencies to your project\\u2019s pom.xml file.\"),mdx(\"p\",null,\"The first dependencies listed above are the necessary dependencies for the sample. The next two are dependencies required by the sample itself. With these dependencies added to your project, you will be able to create a desktop application with a GUI.\"),mdx(\"h2\",null,\"Creating Web Applications with Spring MVC and Spring Boot\"),mdx(\"p\",null,`If you are looking to build a web application with Spring MVC, you will want to use a starter that\\u2019s meant for web applications. Depending on your preferred version of Java, there are multiple starter templates that can be used.\nThe templates that are available for the Java versions are listed below.`),mdx(\"p\",null,\"Java 8 - ha-spring-boot-starter-web, ha-spring-boot-starter-webfiler, ha-spring-boot-starter-thymeleaf, ha-spring-boot-starter-logging\"),mdx(\"p\",null,\"Java 11 - ha-spring-boot-starter-Web, ha-spring-boot-starter-thymeleaf\"),mdx(\"p\",null,\"In addition to the Java versions listed above, there are also Spring Boot starter templates available for other types of applications, such as those that are built using the Spring Integration framework.\"),mdx(\"h2\",null,\"Rich Internet Applications (RIA) with Spring MVC\"),mdx(\"p\",null,`If you are building a Rich Internet Application (RIA) with Spring MVC, you will want to make use of the Spring MVC RIA starter. This starter provides all the necessary dependencies and configurations needed to implement a RIA with Spring MVC.\nThe starter also provides the option of choosing between the JSP or Thymeleaf templating engine.`),mdx(\"p\",null,\"As you\\u2019re building your application with the RIA starter, keep in mind that you can also make use of the Spring Security functionality that\\u2019s built into the framework. This will allow you to easily secure your application with a variety of authentication methods, including authentication with credentials stored in a database, authentication with credentials stored in LDAP, or authentication with a simple username-password login process.\"),mdx(\"h2\",null,\"Mobile Apps with Spring MVC and Java\"),mdx(\"p\",null,\"Building a mobile application with the Spring MVC framework can be done in a couple of different ways.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"You can build the mobile application from scratch using the MVC pattern and writing all the code from scratch.\"),mdx(\"li\",{parentName:\"ul\"},\"You can make use of an existing mobile application framework and build a web application that will be used to interact with the mobile device.\")),mdx(\"p\",null,\"If you are building a mobile application from scratch, then you will want to make use of the \\u201CSpring MVC Mobile Application\\u201D starter, which is meant for developing applications for Android or iOS devices. This starter will provide the necessary dependencies and configurations for building a standalone mobile application that\\u2019s built around the MVC design pattern.\"),mdx(\"p\",null,\"If you are building a mobile application that will be used as a web application, then you will want to make use of the \\u201CSpring MVC REST Starter\\u201D that\\u2019s meant for creating RESTful web services. This starter provides the necessary dependencies and configurations for building web services.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"As you can see, the options for building applications with the Spring MVC framework are nearly limitless. The core of the framework can be used to run a simple application that\\u2019s meant for one user, or it can be used to build an application that\\u2019s built to scale by being easily deployable and having the ability to handle multiple users and traffic all at once.\"),mdx(\"p\",null,\"There are a multitude of starter templates that can be used to quickly get a project up and running with the necessary dependencies, configurations, and code needed to produce a fully-featured application, whether it be a desktop application or a web application.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwg5rQEAAP71+b2isyLTaXAYLXKLh7hgPvnF/Itv+Wbydcqf0Sv5do0L7+FLPB/50NQX/m0+/Jf0Zjqi45Z239normqQ+n0AAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-tomorrow",
+      "locale": "en",
+      "title": "Python - The Language of Tomorrow",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-better",
+      "locale": "en",
+      "title": "How to Code Better",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYsZvq/odm/E4AA/vwNux3JEbTeEOJZ9i1DRvY8VNcrRGqumjKvbRM+LF/M3x/i/8HnLeVgh+lAiHAJXDyY2j445+01HQTD5AnwU9XT/BlQ6Wrz0lkO6i2q4/Rsvkukqcw9f3f/gH8neJ4k24y9CcQk+ha7Y0q9AeAAAA==",
+      "createdAt": "Thu Jul 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
+      "locale": "en",
+      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJaACdAYrTkvy7OhwAP7+DL3G5B1Fvasbbu3eiP+OD56cz+2n8bLMjhy6bsxVss4/jD/2Pr6JcaQ02jfPyXVM/B4RDFMjs3ii+f/PPv79Mnm02910mVKW7SN/qm134lyb1zcXiBH/VbM9/V+9fvd/+45MQAAA",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-distributed-computing",
+      "locale": "en",
+      "title": "Go Language for Distributed Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-natural-language-processing",
+      "locale": "en",
+      "title": "Python - The Language for Natural Language Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Natural language processing is the ability of a computer program to understand human speech. The primary benefit of natural language processing is that it allows users to communicate with a machine in a way they are most comfortable with. Computers can now understand, process, and react to human speech.  Natural Language Processing (NLP) is an area of artificial intelligence that enables computers to detect and understand human speech as well as written words. It involves the techniques and algorithms related to natural language processing such Artificial Intelligence, Machine Learning, Computer Vision, Information Retrieval, and Computer Speech Recognition.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJYgCdAEWgbSTEm+LAAD+/vFQK39//4sPkV6Bi/vxcEPq11/w7j7b36dkQG2+M6yFgCF/ilhOhbqxU3/Jja0+WfgXzmRyyIjtv/gFsBaYMvqW756iWl2QCO81zZEr/4nY/49Cf98Bs8lif+TkjhJw08rjffR6JPwAAA==",
+      "createdAt": "Thu Jun 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-administration",
+      "locale": "en",
+      "title": "Go Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFPor qu\\xE9 Go es la opci\\xF3n correcta para el desarrollo de IA?\"),mdx(\"p\",null,`Antes de explorar los beneficios de usar Go para el desarrollo de IA, comprendamos por qu\\xE9 este lenguaje de programaci\\xF3n es una excelente opci\\xF3n para desarrollar aplicaciones de IA. Go es un lenguaje de programaci\\xF3n de prop\\xF3sito general que se puede usar para crear software para casi todas las industrias, incluido el sector de la IA.\nGo ha ido ganando popularidad para el desarrollo de IA en los \\xFAltimos a\\xF1os. La raz\\xF3n principal de esto es que Go es un lenguaje de programaci\\xF3n simple y directo, lo que facilita a los desarrolladores la comprensi\\xF3n de los conceptos y la escritura del c\\xF3digo. La simplicidad del lenguaje reduce la curva de aprendizaje de los desarrolladores, lo que lo convierte en una opci\\xF3n ideal para empresas con un equipo de IA limitado.\nUn desarrollador que conoce los conceptos b\\xE1sicos de Go puede entender f\\xE1cilmente c\\xF3mo implementar algoritmos de inteligencia artificial en el lenguaje. Adem\\xE1s, la simplicidad y el enfoque directo de Go han facilitado el mantenimiento del c\\xF3digo y la actualizaci\\xF3n de los algoritmos seg\\xFAn los requisitos comerciales.`),mdx(\"h2\",null,\"Ejecuci\\xF3n robusta y r\\xE1pida\"),mdx(\"p\",null,`El rendimiento de una aplicaci\\xF3n o software juega un papel crucial en el \\xE9xito de un proyecto de IA. Su aplicaci\\xF3n de IA debe poder procesar y ejecutar algoritmos dentro de un tiempo espec\\xEDfico para garantizar resultados consistentes. Go es un lenguaje de programaci\\xF3n de alto nivel que tiene un gran rendimiento.\nEl compilador Go compila el c\\xF3digo directamente en c\\xF3digo de m\\xE1quina, que se puede ejecutar m\\xE1s r\\xE1pido. Por lo tanto, su aplicaci\\xF3n de IA se ejecutar\\xE1 sin problemas y de manera eficiente sin fallas.\nEl tiempo de ejecuci\\xF3n de Go tambi\\xE9n permite la programaci\\xF3n concurrente en el lenguaje, lo que permite a los programadores escribir programas concurrentes con un m\\xEDnimo esfuerzo. Tambi\\xE9n puede usar las primitivas de simultaneidad integradas de Go, como canales, gorutinas y sem\\xE1foros, para escribir aplicaciones concurrentes y escalables.\nTambi\\xE9n puede usar los enlaces nativos de Go para integrarse con otro software y usar marcos de trabajo de aprendizaje autom\\xE1tico como TensorFlow, CNTK, Caffe, Torch y Theano para crear una aplicaci\\xF3n de IA robusta.`),mdx(\"h2\",null,\"Bibliotecas ligeras de aprendizaje autom\\xE1tico\"),mdx(\"p\",null,`Otra ventaja de usar Go para el desarrollo de IA es que el lenguaje viene con bibliotecas de aprendizaje autom\\xE1tico livianas que se pueden usar para implementar y entrenar algoritmos de inteligencia artificial.\nEstas bibliotecas ML est\\xE1n integradas en Go y son f\\xE1ciles de usar y f\\xE1ciles de integrar con otro software. Las bibliotecas tambi\\xE9n brindan una gran flexibilidad y le permiten escribir c\\xF3digo personalizado en lugar de usar un modelo predefinido.\nTambi\\xE9n puede usar estas bibliotecas para crear algoritmos NLP (procesamiento del lenguaje natural) para la comprensi\\xF3n del lenguaje y aplicaciones basadas en texto.`),mdx(\"h2\",null,\"Contras de usar Go para el desarrollo de IA\"),mdx(\"p\",null,`Si bien Go es un excelente lenguaje para crear aplicaciones de IA, tambi\\xE9n tiene algunas limitaciones.\nEn t\\xE9rminos de escalabilidad, Go no es ideal para construir sistemas distribuidos a gran escala. Si su aplicaci\\xF3n de IA necesita procesar grandes conjuntos de datos, es posible que le resulte dif\\xEDcil escalar el sistema y administrar los datos.`),mdx(\"h2\",null,\"Ultimas palabras\"),mdx(\"p\",null,\"Con todo, Go es un gran lenguaje de programaci\\xF3n para crear aplicaciones de IA debido a su simplicidad, eficiencia y robustez. Con el aumento de la popularidad de la tecnolog\\xEDa de IA, las empresas buscan automatizar sus procesos y mejorar la experiencia de sus clientes mediante la implementaci\\xF3n de sistemas de IA. Si tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n, deber\\xEDa considerar usar Go para su desarrollo de software.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-concurrente",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Concurrente",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 leyendo este art\\xEDculo, supongo que tiene algo de experiencia en programaci\\xF3n y est\\xE1 interesado en ampliar su conocimiento del lenguaje de programaci\\xF3n Go. Es posible que ya conozca otros lenguajes o tenga experiencia con la concurrencia, por lo que probablemente se est\\xE9 preguntando c\\xF3mo ayuda el lenguaje de programaci\\xF3n Go con la programaci\\xF3n concurrente.\nSi reci\\xE9n est\\xE1 comenzando con Go, puede sentirse como una curva de aprendizaje empinada si nunca antes ha usado sus funciones. Sin embargo, tan pronto como aprende sobre los canales y ve lo f\\xE1cil que es implementarlos, las cosas comienzan a tener mucho m\\xE1s sentido. La programaci\\xF3n concurrente es un tema extremadamente complejo que requiere una planificaci\\xF3n cuidadosa para evitar condiciones de carrera y puntos muertos. Afortunadamente, Go ofrece un conjunto de paquetes de biblioteca est\\xE1ndar para tareas simult\\xE1neas, de modo que los desarrolladores puedan concentrarse en escribir c\\xF3digo en lugar de reinventar la rueda cada vez que crean un nuevo proyecto. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 necesitamos programas concurrentes y qu\\xE9 tiene que ofrecer Go a este respecto.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "interfaces-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Interfaces En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La definici\\xF3n de una interfaz es casi la misma en Java que en cualquier otro lenguaje de programaci\\xF3n orientada a objetos (POO). Una interfaz, estrictamente hablando, es un tipo que especifica un conjunto de m\\xE9todos, pero no su implementaci\\xF3n. Esto significa que una interfaz puede tener m\\xE9todos est\\xE1ticos y propiedades accesibles, pero no m\\xE9todos o campos de instancia.\nUna interfaz es un tipo que especifica solo el comportamiento y no la implementaci\\xF3n de una operaci\\xF3n. Las clases que implementan esta interfaz deben proporcionar su propia implementaci\\xF3n para cada m\\xE9todo declarado en ella. Las interfaces se usan ampliamente en Java para proporcionar un terreno com\\xFAn para que las clases implementen alguna funcionalidad sin revelar los detalles de implementaci\\xF3n interna.\nCuando usamos interfaces, estamos creando contratos entre nuestras clases para que se comporten de cierta manera, que implementen ciertos m\\xE9todos y realicen tareas particulares cuando se les solicite. Exploremos c\\xF3mo podemos aprovechar las interfaces en nuestro c\\xF3digo para hacerlo m\\xE1s modular, reutilizable, comprobable y legible.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAwCdASoKAAoAAUAmJbACdLoB+AH4gBGvmIPd0DrFQBAA/tUVMaVKxDo1SikS7pTcoDKzgP3iMfK/GOrvpGww1FkX++/cjeWIhQd/7PZf6T/zAH+ips2bJng/5s2v+CHfEyn+Mv/56qG33+G8/1XYOmGxY/o5M/k2/yH74AAAAA==",
+      "createdAt": "Tue Mar 29 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "lenguaje-go-para-programacion-orientada-a-objetos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Lenguaje Go Para Programación Orientada a Objetos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, existe una gran demanda de desarrolladores de software que puedan crear programas y aplicaciones de \\xFAltima generaci\\xF3n. Gracias a la r\\xE1pida expansi\\xF3n de la tecnolog\\xEDa, hay muchos puestos de trabajo disponibles en este campo. Sin embargo, no cualquiera puede convertirse en programador; necesita tener habilidades espec\\xEDficas y saber c\\xF3mo conseguir el trabajo que desea.\nSi est\\xE1 interesado en convertirse en programador de software y explorar nuevas oportunidades profesionales, es importante que elija el lenguaje de programaci\\xF3n adecuado desde el principio. La demanda de programadores capacitados est\\xE1 creciendo r\\xE1pidamente, por lo que al elegir el lenguaje de programaci\\xF3n adecuado ahora, puede prepararse para el \\xE9xito en el futuro. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre la programaci\\xF3n Go y su potencial como lenguaje de programaci\\xF3n orientado a objetos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJbACdAEP1hNnwnSgAP78O3gp2U2JfyaY+DeGoJ9UNlv3HkYt9yBMvP1T+eNn4VFP+T5Knz6bXyNebVv1YnpOTvyPAh8pFGAqgz/+qn7kYAAA",
+      "createdAt": "Fri May 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Encontrar La Mejor Ayuda De Codificación En Línea",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDa que encontrar ayuda con la codificaci\\xF3n inform\\xE1tica es una de las industrias en l\\xEDnea de m\\xE1s r\\xE1pido crecimiento? \\xBFSab\\xEDa tambi\\xE9n que hay una gran cantidad de sitios web donde puede encontrar la misma ayuda de codificaci\\xF3n? Con tantos lugares para buscar ayuda con la codificaci\\xF3n, tiene sentido que haya tantos profesionales que no parecen encontrar las mejores opciones. \\xA1Pero no te preocupes! Hay un mont\\xF3n de grandes recursos por ah\\xED si sabe d\\xF3nde buscar.\nEn esta publicaci\\xF3n de blog, exploraremos algunos de los lugares m\\xE1s efectivos en l\\xEDnea para encontrar los mejores ayudantes de programaci\\xF3n. Estas plataformas facilitan que los codificadores se conecten y colaboren, al mismo tiempo que permiten a las empresas y a las personas encontrar asistentes virtuales de primer nivel cuando m\\xE1s los necesitan. \\xBFEntonces, Qu\\xE9 esperas? \\xA1Sigue leyendo y descubre tus nuevos lugares favoritos para obtener ayuda con la codificaci\\xF3n hoy mismo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJYgCdDKVQYo8QYUMP0AA/m0/fwp8BXZDJcg7VhhB8WRBkz0b8DrQQfmDp//oSUBvK3xt+nPvE/5V8u82rq/8mIA3Ol8+d9TJ39F7suqVqHf1xQPnlhGr9e0d/Hr13+zkNYt/K8i7wY/1jdcmuj/4OLXem5AogAA=",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-codificar-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Codificar Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que est\\xE9 comenzando o haya estado programando durante a\\xF1os, siempre habr\\xE1 cosas nuevas que aprender y formas de crecer como programador. Encontrar el pr\\xF3ximo desaf\\xEDo puede parecer desafiante al principio, pero una vez que comprende sus puntos fuertes, se vuelve mucho m\\xE1s f\\xE1cil.\nCodificar como un profesional no es una tarea f\\xE1cil. El mundo de la programaci\\xF3n tiene mucha competencia, por lo que los desarrolladores deben destacarse entre la multitud si quieren tener \\xE9xito y prosperar en esta industria.\nDesafortunadamente, hay demasiados programadores que no saben c\\xF3mo programar como un profesional, lo que significa que estos programadores no pueden alcanzar su potencial ni obtener trabajos en empresas donde puedan continuar su crecimiento como ingenieros de software.\nEso no significa que estos codificadores sean malos o que nunca ser\\xE1n buenos programadores; solo significa que tienen algunas \\xE1reas en las que podr\\xEDan mejorar en este momento. Si quieres saber c\\xF3mo puedes programar como un profesional, sigue leyendo nuestra publicaci\\xF3n de blog.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ajuste Del Rendimiento De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJZgCdAEQdtzGodj7TsAAAP75upQ9OL+nKPw7MVEin7Yi8qpGXTiK8sX/g8/pje8z7+jKAE2HWZe9batGjA3o/XYn+H3ZrfuH9rXqz+nFf1AKsBUF/j5B6zPaRrLW/Ygf+sz9SyxTIZjmn5hb27Hoh2YAAA==",
+      "createdAt": "Wed Aug 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-herramientas-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Herramientas De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores hacen mucho trabajo. Al igual que con cualquier trabajo, los codificadores deben equilibrar la cantidad de tiempo dedicado a la codificaci\\xF3n, as\\xED como la calidad y la eficiencia de esa codificaci\\xF3n. Mantenerse organizado y productivo durante todo el d\\xEDa es un desaf\\xEDo continuo. La buena noticia es que existen muchas herramientas que facilitan la vida de los desarrolladores. Estas herramientas simplifican tareas como la organizaci\\xF3n del c\\xF3digo, el uso compartido de archivos, la depuraci\\xF3n y las pruebas.\nLas herramientas de codificaci\\xF3n ayudan a los desarrolladores de m\\xFAltiples formas. Agilizan procesos como la codificaci\\xF3n, depuraci\\xF3n, prueba y gesti\\xF3n de bibliotecas de c\\xF3digos. Adem\\xE1s, estas herramientas reducen la redundancia y aumentan la eficiencia en todos los proyectos y equipos en su conjunto en lugar de individualmente. \\xA1Echemos un vistazo a algunas de las mejores herramientas de codificaci\\xF3n que todo desarrollador deber\\xEDa conocer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "implementacion-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Implementación De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
+      "createdAt": "Tue Feb 15 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-complementos-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Complementos De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de software son algunos de los empleados m\\xE1s valiosos en muchas empresas. Pueden tomar una idea y convertirla en un producto \\xFAtil que la gente quiera usar. Los mejores codificadores buscan constantemente formas de mejorar sus habilidades y encontrar nuevas formas de hacer su trabajo m\\xE1s f\\xE1cil y eficiente. Afortunadamente, hay complementos disponibles para casi cualquier programa de codificaci\\xF3n.\nLos complementos de codificaci\\xF3n pueden mejorar significativamente su productividad y efectividad como programador al hacer que su flujo de trabajo sea m\\xE1s r\\xE1pido y eficiente. Estos complementos cubren todo, desde la depuraci\\xF3n hasta la b\\xFAsqueda de fragmentos de c\\xF3digo que puede haber olvidado pero que agradecer\\xE1 tener nuevamente si los necesita nuevamente alg\\xFAn d\\xEDa. Aqu\\xED hay una lista de los mejores complementos de codificaci\\xF3n para desarrolladores que pueden ayudar a que su trabajo sea m\\xE1s f\\xE1cil, m\\xE1s simple y m\\xE1s productivo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

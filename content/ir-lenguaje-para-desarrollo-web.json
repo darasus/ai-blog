@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Go?\"),mdx(\"p\",null,\"Go es un lenguaje de programaci\\xF3n compilado dise\\xF1ado en torno a la simplicidad, la legibilidad y la escalabilidad. Tiene un fuerte enfoque en la programaci\\xF3n concurrente y se usa com\\xFAnmente para el desarrollo de servidores back-end, especialmente en \\xE1reas donde la solidez y la resiliencia son importantes.\"),mdx(\"p\",null,\"Como la mayor\\xEDa de los lenguajes de programaci\\xF3n modernos, la sintaxis de Go se compone principalmente de palabras clave y s\\xEDmbolos que se asemejan a la funcionalidad que se est\\xE1 realizando. Si bien esto es \\xFAtil para los nuevos programadores, puede ser un poco desalentador para aquellos que son nuevos en la codificaci\\xF3n.\"),mdx(\"p\",null,\"Hay muchos art\\xEDculos en l\\xEDnea que pueden ayudarlo a familiarizarse con la sintaxis. Vale la pena mencionar que la simplicidad de Go facilita la lectura y comprensi\\xF3n del c\\xF3digo. Esto puede ser incre\\xEDblemente \\xFAtil cuando trabaja con lenguajes de programaci\\xF3n que son nuevos para usted.\"),mdx(\"h2\",null,\"Soporte de concurrencia\"),mdx(\"p\",null,\"La programaci\\xF3n concurrente es una t\\xE9cnica que permite que las aplicaciones realicen m\\xFAltiples tareas al mismo tiempo. Esto es \\xFAtil cuando crea aplicaciones que tienen que lidiar con cargas pesadas, ya que pueden hacer m\\xE1s con menos recursos.\"),mdx(\"p\",null,\"La biblioteca est\\xE1ndar de Go facilita la implementaci\\xF3n de la concurrencia en sus aplicaciones. De hecho, esta es la raz\\xF3n clave por la que las principales empresas como Google, Netflix, Dropbox, Uber, New York Times y Cisco utilizan Go para sus servicios de backend.\"),mdx(\"p\",null,\"Si est\\xE1 creando una aplicaci\\xF3n web, es probable que desee estar preparado para un aumento en el tr\\xE1fico. Digamos que su aplicaci\\xF3n sirve videos en una plataforma de transmisi\\xF3n en vivo: tendr\\xE1 que manejar un volumen extremadamente alto de solicitudes simult\\xE1neas.\"),mdx(\"p\",null,\"La buena noticia es que el soporte de simultaneidad de Go facilita el manejo de estos picos. Por ejemplo, si su aplicaci\\xF3n recibe 1000 solicitudes simult\\xE1neas, a\\xFAn puede procesarlas todas incluso si su servidor solo est\\xE1 configurado para manejar 400 solicitudes.\"),mdx(\"h2\",null,\"La capacidad de Go para manejar grandes conjuntos de datos\"),mdx(\"p\",null,`Una de las mayores ventajas de Go es la capacidad del lenguaje para manejar grandes conjuntos de datos. Cuando tenga que trabajar con grandes conjuntos de datos, tendr\\xE1 que encontrar formas de procesarlos r\\xE1pidamente.\nUna de las principales razones por las que la mayor\\xEDa de las empresas est\\xE1n adoptando Go es su capacidad para procesar grandes conjuntos de datos. Go tiene una serie de caracter\\xEDsticas que facilitan el procesamiento de grandes conjuntos de datos. Por ejemplo, la funcionalidad mapear/reducir del lenguaje le permite procesar grandes conjuntos de datos utilizando un enfoque paralelo que divide los datos en partes m\\xE1s peque\\xF1as para su procesamiento.`),mdx(\"p\",null,\"El recolector de basura de Go es otra caracter\\xEDstica que facilita el manejo de grandes conjuntos de datos. Esta funci\\xF3n libera memoria autom\\xE1ticamente cuando los elementos ya no est\\xE1n en uso. Dado que las computadoras tienen memoria limitada, es importante que su c\\xF3digo se limpie despu\\xE9s de s\\xED mismo.\"),mdx(\"p\",null,\"Dado que el recolector de basura de Go limpia autom\\xE1ticamente la memoria que ya no est\\xE1 en uso, facilita el manejo de grandes conjuntos de datos, ya que la memoria no se utilizar\\xE1.\"),mdx(\"h2\",null,\"Herramientas de prueba integradas\"),mdx(\"p\",null,`La creaci\\xF3n de software robusto es un desaf\\xEDo, ya que debe tener en cuenta una serie de posibles errores que pueden afectar el resultado de su programa. Es importante escribir pruebas para asegurarse de que su c\\xF3digo funcione como deber\\xEDa. Es una tarea tediosa pero tambi\\xE9n muy importante.\nPuede hacer su vida m\\xE1s f\\xE1cil utilizando un lenguaje de programaci\\xF3n que facilita la creaci\\xF3n de pruebas.\nLa funcionalidad de prueba de Go est\\xE1 integrada en el lenguaje. Cuando crea un nuevo proyecto, Go crea un archivo que crea un entorno de prueba que es f\\xE1cil de usar y confiable.`),mdx(\"p\",null,\"La funcionalidad de prueba dentro de Go es lo suficientemente poderosa como para permitirle crear pruebas que simulen la forma en que su aplicaci\\xF3n funcionar\\xE1 cuando se implemente. Puede usar esta caracter\\xEDstica para encontrar problemas como la cantidad de tiempo que lleva completar una tarea determinada o si puede ocurrir un error en una situaci\\xF3n particular.\"),mdx(\"h2\",null,\"Estabilidad del idioma\"),mdx(\"p\",null,`Los nuevos lenguajes de programaci\\xF3n a menudo vienen con mucha publicidad y promesas. Sin embargo, muchos de ellos no sobreviven la prueba del tiempo y eventualmente se extinguen.\nEsto no significa que Go existir\\xE1 para siempre. Pero muestra que es un lenguaje maduro que ha existido por un tiempo y no es probable que desaparezca pronto.\nComo programador, no desea cambiar constantemente de idioma a medida que sale uno nuevo cada pocos meses. Desea elegir un idioma que sea estable y que dure mucho tiempo.`),mdx(\"h2\",null,\"Resumen\"),mdx(\"p\",null,\"Go es un lenguaje de programaci\\xF3n de c\\xF3digo abierto que permite crear software simple y confiable m\\xE1s r\\xE1pido. Se ha convertido en una de las alternativas m\\xE1s exitosas a los lenguajes heredados como C, C++ y Java en los \\xFAltimos a\\xF1os. Las principales empresas como Google, Dropbox, Netflix, Uber y muchas otras est\\xE1n adoptando Go para sus servicios de back-end, y no solo por su inusual car\\xE1cter de mascota. La simplicidad de Go facilita la lectura y comprensi\\xF3n del c\\xF3digo. Sus bibliotecas est\\xE1ndar significan que los programadores no necesitan crear funciones comunes desde cero cada vez que escriben un programa. Su concurrencia incorporada permite un rendimiento r\\xE1pido para programas que realizan m\\xFAltiples solicitudes simult\\xE1neas. Y su soporte para interfaces significa que puede crear software flexible sin preocuparse por el tipo de datos que espera su c\\xF3digo. No se puede negar que hay muchos beneficios al usar Go para desarrollar aplicaciones web. Aqu\\xED discutiremos por qu\\xE9 deber\\xEDa considerar usar este popular lenguaje de programaci\\xF3n para sus proyectos de desarrollo web.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje De La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La inteligencia artificial ya no es una tecnolog\\xEDa del futuro, sino algo que ha comenzado a alterar varias industrias en la actualidad. Existen numerosos roles, m\\xE1s all\\xE1 de los ingenieros de aprendizaje autom\\xE1tico obvios en los que puede especializarse para ayudar a dar vida a los proyectos de IA. Hemos enumerado los principales lenguajes de programaci\\xF3n para IA a continuaci\\xF3n, para que pueda elegir el correcto y comenzar su propio proyecto de IA de inmediato.\nSi reci\\xE9n est\\xE1 comenzando con la codificaci\\xF3n o planea sumergirse m\\xE1s profundamente en el futuro, este art\\xEDculo le dar\\xE1 una idea de los diferentes lenguajes de programaci\\xF3n disponibles. Cada uno de estos lenguajes tiene ciertas caracter\\xEDsticas que los hacen especialmente \\xFAtiles a la hora de crear aplicaciones de inteligencia artificial. Sigue leyendo para obtener m\\xE1s informaci\\xF3n sobre estos \\xFAtiles lenguajes de programaci\\xF3n y cu\\xE1l se adapta mejor a tus necesidades. Sigue leyendo para saber m\\xE1s`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/spring-mvc-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAEPALwdsYAA/v7GUZ5PlhJIBneoTV65URORmalMuDcdtHSSKoz4hxaAFL6i138Vg2XlfrW/GGmm1vqapr57Dduz2d6EdwAA",
+      "createdAt": "Thu Aug 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aplicaciones-spring-mvc",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Spring Mvc",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensa en una aplicaci\\xF3n, generalmente se refiere a un programa con alguna funcionalidad espec\\xEDfica que generalmente es independiente o algo a lo que varios usuarios deben acceder simult\\xE1neamente. En t\\xE9rminos de programaci\\xF3n, generalmente se les conoce como \"aplicaciones de escritorio\" y no se crean com\\xFAnmente utilizando los mismos marcos que se usan para sitios web o aplicaciones m\\xF3viles. Sin embargo, cuando se trata de crear una aplicaci\\xF3n con Spring MVC, las opciones son pr\\xE1cticamente ilimitadas.\nEn esta publicaci\\xF3n de blog, veremos varios ejemplos de aplicaciones Spring MVC. Estos pueden variar desde tutoriales simples sobre la creaci\\xF3n de sus propias aplicaciones de escritorio independientes con Spring Boot o la ampliaci\\xF3n de aplicaciones web existentes con alguna l\\xF3gica y funcionalidad personalizadas que solo est\\xE1n disponibles a trav\\xE9s de una extensi\\xF3n o complemento.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-las-caras-de-javaserver",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Las Caras De Javaserver",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, hemos visto un aumento en la popularidad del software y los sitios web f\\xE1ciles de usar. Una gran raz\\xF3n para esto es que los dise\\xF1adores de software est\\xE1n prestando m\\xE1s atenci\\xF3n a la experiencia de los usuarios. En lugar de dedicar horas a hacer dise\\xF1os, est\\xE1n invirtiendo m\\xE1s tiempo en dise\\xF1ar experiencias de usuario. Las interfaces de usuario desempe\\xF1an un papel fundamental en la forma en que el p\\xFAblico objetivo percibe una aplicaci\\xF3n.\nUna interfaz de usuario consta de varias pantallas o ventanas que brindan acceso a la informaci\\xF3n o permiten acciones como ver, crear, guardar y abrir archivos. Una interfaz de usuario tambi\\xE9n incluye las propiedades visuales (como colores, fuentes y gr\\xE1ficos) y los componentes de navegaci\\xF3n (como men\\xFAs, botones y pesta\\xF1as) que los usuarios ven e interact\\xFAan cuando usan un programa de computadora.\nEn esta publicaci\\xF3n de blog, aprenderemos sobre JavaServer Faces; lo que es; por qu\\xE9 podr\\xEDa usarlo; y finalmente una breve introducci\\xF3n a sus conceptos clave.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoKAAoAAUAmJaQAApwKk8QAAP7+OJxlkdnD8wwBlQIou3D4I6gU+/xdRq/at/uJWv/65PniOuL7DYCFq0gn4BVt4vZVcAAA",
+      "createdAt": "Tue Aug 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-de-gui",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación De Gui",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El lenguaje de programaci\\xF3n Go se ha convertido en una opci\\xF3n atractiva para los desarrolladores que trabajan en proyectos de software que requieren un rendimiento r\\xE1pido, facilidad de implementaci\\xF3n y c\\xF3digo compacto.\nGo fue desarrollado por Google como una alternativa a C ++ para programas que requieren mucha memoria y rendimiento. Su sintaxis simple y sus poderosas caracter\\xEDsticas lo han hecho especialmente popular entre los programadores que se especializan en construir compiladores e int\\xE9rpretes.\nGo es un lenguaje de programaci\\xF3n de prop\\xF3sito general con soporte para m\\xE9todos estructurados, calificadores de visibilidad y definiciones de tipo incrustadas. Es un lenguaje tipificado est\\xE1ticamente con soporte para interfaces, polimorfismo ad hoc e incrustaci\\xF3n de tipos.\nEn esta publicaci\\xF3n de blog, exploramos las consideraciones que debe tener al elegir un lenguaje de programaci\\xF3n para la programaci\\xF3n de GUI. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los pros y los contras de usar Go para su pr\\xF3ximo proyecto de GUI.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
+      "createdAt": "Mon Mar 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-programar-mejor",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Programar Mejor",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n puede ser un desaf\\xEDo a veces. Incluso si eres un codificador profesional, a veces la l\\xF3gica y los algoritmos simplemente no funcionan. Los mejores codificadores saben c\\xF3mo abordar esos puntos dif\\xEDciles investigando soluciones, estudiando las mejores pr\\xE1cticas e implementando nuevas t\\xE9cnicas.\nLa codificaci\\xF3n es una habilidad que requiere un refinamiento constante para seguir siendo relevante en el mundo tecnol\\xF3gico actual. Si bien la codificaci\\xF3n puede parecer una habilidad muy t\\xE9cnica, en realidad tiene muchos paralelismos con otros campos creativos como la escritura o la m\\xFAsica. Cuanto m\\xE1s codificas, mejor lo haces.\nAprender a codificar de manera efectiva y eficiente es un gran desaf\\xEDo para cualquier persona que trabaje en este campo o que busque incursionar en \\xE9l. Pero una vez que domina los conceptos b\\xE1sicos, se trata de refinar su t\\xE9cnica y aumentar su eficiencia para que pueda completar proyectos m\\xE1s r\\xE1pido y producir resultados de mayor calidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-empresas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Empresas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-hibernate",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La alta disponibilidad de servicios es un factor clave de \\xE9xito para las empresas y los proveedores de servicios. En el mundo actual, hay una mayor penetraci\\xF3n de dispositivos m\\xF3viles y otros dispositivos de usuarios finales que necesitan servicios siempre activos. Por lo tanto, se vuelve esencial para las empresas implementar sistemas que puedan manejar interrupciones frecuentes y que est\\xE9n siempre disponibles.\nEste blog es el primer art\\xEDculo de nuestra serie Hibernate donde cubriremos todos los conceptos relacionados con Hibernate. Aqu\\xED, comenzaremos por comprender \\xBFQu\\xE9 es Hibernate? \\xBFEn qu\\xE9 se diferencia de otras API? Y conozca las diferentes versiones de Hibernate. Tambi\\xE9n veremos una introducci\\xF3n a la arquitectura de Hibernate y sus componentes principales, como sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

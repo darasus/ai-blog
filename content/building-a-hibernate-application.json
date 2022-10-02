@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Introduction to Hibernate\"),mdx(\"p\",null,`Hibernate is an open source Object-Relational Mapping (ORM) library. It is the most widely used tool for mapping Java objects and database tables.\nHibernate is designed to be independent of a particular database system. It is supported by many database vendors including Oracle, Microsoft, IBM, and PostgreSQL. It can be used in any type of application, but is particularly appealing to application developers who use a Java-based programming language.`),mdx(\"p\",null,\"The great advantage of Hibernate is that it relieves us from writing SQL statements. The logic to retrieve data from a database is built into the Hibernate library. This means you can focus more on the domain model of your application and leave the database-specific details to the Hibernate library.\"),mdx(\"h2\",null,\"Installing Hibernate in our Java Project\"),mdx(\"p\",null,\"First, we need to install Hibernate on our computer and set it up within our Java project. To do this, we need to download the latest version of Hibernate from the official Hibernate website.\"),mdx(\"p\",null,\"Next, we need to make sure that our build tool knows about the Hibernate libraries. To do this, we will modify the build.gradle file in our project directory.\"),mdx(\"p\",null,\"build.gradle \"),mdx(\"h2\",null,\"Creating and Running a Maven Project with Hibernate\"),mdx(\"p\",null,\"If you haven\\u2019t yet created a Maven project, you can follow this Maven tutorial and create a new directory for your Hibernate project. Within this new directory, you can create a pom.xml file to define some information about our project and its dependencies. Now, we can add the Hibernate libraries to our dependencies and create a Java domain model.\"),mdx(\"p\",null,\"pom.xml \"),mdx(\"h2\",null,\"Building the User table and persistence code\"),mdx(\"p\",null,\"After creating a simple Maven project and adding the Hibernate libraries, we can create a user table in our database. To do this, we need to create a class called User in our Java code and add fields for each of the columns in our table.\"),mdx(\"p\",null,\"After creating the class, we can call the save() method on the User instance to persist it to the database. If you are using PostgreSQL, you can use the create() method instead.\"),mdx(\"p\",null,\"User.java \"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"In this article, we looked at the fundamentals of setting up a project, creating tables and handling user logins. We also discussed the introduction to Hibernate and how to install it on our computer. We also discussed the best practices in setting up a Maven project and creating a Java domain model. Hibernate is an excellent tool to manage database tables and their contents and to easily persist objects to a database.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJaACdAYs32ZJkvDzowAA/vm699i8Ref+5sDm3/yFn7+ze/u7XrDaaPfMQf41a/5fsWfKo/xA/efzt3+13e+x222+ImpR9ZA5povx9P9nKfRv9gtNeyZOR6rn5skTKeaIuohp//xT5f7/9v/1gP212bu+Oy36R/jAt1C9fk3JOa476GAAAA==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJaACdAYrTkvy7OhwAP7+DL3G5B1Fvasbbu3eiP+OD56cz+2n8bLMjhy6bsxVss4/jD/2Pr6JcaQ02jfPyXVM/B4RDFMjs3ii+f/PPv79Mnm02910mVKW7SN/qm134lyb1zcXiBH/VbM9/V+9fvd/+45MQAAA",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-distributed-computing",
+      "locale": "en",
+      "title": "Go Language for Distributed Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-improve-your-coding-skills",
+      "locale": "en",
+      "title": "How to Improve Your Coding Skills",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJaQAAu0ePvhjhZ4AAP7+x4hxeXw6dxYcl88AZjT2H15a9Z0CpcHW6h2UiEe3pRRbZeZflKo2+QLyvlWDkoZn2QAAAA==",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-tool-for-data-analysis",
+      "locale": "en",
+      "title": "Python - A Tool for Data Analysis",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data analysis is a crucial element of many fields today. With data being collected from all sources, businesses need to use the data effectively in order to drive their company forward. Organizations are turning to data analysis software to process and understand the information they have stored.\nAnalyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we\\u2019ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

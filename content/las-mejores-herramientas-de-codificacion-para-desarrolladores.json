@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Editores de c\\xF3digo\"),mdx(\"p\",null,\"Lo primero que todo desarrollador debe saber es la importancia de utilizar un editor de c\\xF3digo. Esta es la herramienta que los desarrolladores usar\\xE1n con m\\xE1s frecuencia y es importante tener una comprensi\\xF3n s\\xF3lida de las diferentes opciones disponibles.\"),mdx(\"p\",null,\"Hay dos tipos b\\xE1sicos de editores de c\\xF3digo: basados en texto y basados en GUI. Los editores de texto suelen tener un dise\\xF1o m\\xE1s simple, pero los editores de GUI tienden a presentar m\\xE1s herramientas de personalizaci\\xF3n para la codificaci\\xF3n. A pesar de las diferencias entre los tipos de editores de c\\xF3digo, el objetivo de cada uno es el mismo: ayudar a los desarrolladores a escribir y editar c\\xF3digo de manera m\\xE1s eficiente.\"),mdx(\"p\",null,\"Al elegir un editor de c\\xF3digo, debe tener en cuenta algunas cosas. Primero, querr\\xE1 asegurarse de que su editor de c\\xF3digo de elecci\\xF3n tenga la funcionalidad de resaltado de sintaxis. Tambi\\xE9n debe buscar integraciones con otras herramientas de codificaci\\xF3n. Por ejemplo, es importante seleccionar un editor de c\\xF3digo que admita el tipo de idioma en el que escribe con m\\xE1s frecuencia.\"),mdx(\"h2\",null,\"Ejecutores de tareas\"),mdx(\"p\",null,\"Los ejecutores de tareas son b\\xE1sicamente flujos de trabajo automatizados para desarrolladores. Le ayudan a ejecutar diferentes tareas mediante la combinaci\\xF3n de m\\xFAltiples herramientas y comandos durante el proceso de desarrollo. Por ejemplo, el ejecutor de tareas Gulp est\\xE1 dise\\xF1ado para automatizar la optimizaci\\xF3n de im\\xE1genes y el procesamiento de CSS. Este tipo de herramienta es especialmente \\xFAtil para equipos que trabajan en grandes proyectos.\"),mdx(\"p\",null,\"Hay dos tipos comunes de ejecutores de tareas: herramientas de compilaci\\xF3n y herramientas de integraci\\xF3n continua. Las herramientas de compilaci\\xF3n requieren que los desarrolladores escriban c\\xF3digo manualmente para configurar los procesos. Las herramientas de integraci\\xF3n continua, por otro lado, est\\xE1n preprogramadas para ejecutar autom\\xE1ticamente un conjunto espec\\xEDfico de herramientas.\"),mdx(\"h2\",null,\"Control de versiones\"),mdx(\"p\",null,\"La siguiente herramienta que todo desarrollador deber\\xEDa conocer es el control de versiones. Este es un m\\xE9todo de seguimiento y gesti\\xF3n de cambios en el c\\xF3digo a lo largo del tiempo. M\\xE1s importante a\\xFAn, el control de versiones ayuda a evitar la p\\xE9rdida de datos al proporcionar un sistema para revertir los cambios a versiones de c\\xF3digo anteriores.\"),mdx(\"p\",null,\"Hay toneladas de diferentes sistemas de control de versiones disponibles. Tendr\\xE1s que decidir cu\\xE1l se adapta mejor a las necesidades de tu equipo. Los sistemas de control de versiones m\\xE1s comunes son Git, Mercurial y Subversion (SVN). La mejor manera de elegir uno es averiguar qu\\xE9 sistema de control de versiones usan con m\\xE1s frecuencia otros desarrolladores en su campo.\"),mdx(\"p\",null,\"La clave del \\xE9xito al usar el control de versiones es asegurarse de que sabe c\\xF3mo usarlo correctamente. Esto significa seguir las mejores pr\\xE1cticas para el control de versiones. Si es nuevo en el control de versiones, tambi\\xE9n puede considerar tomar un curso sobre el tema.\"),mdx(\"h2\",null,\"Integraci\\xF3n continua\"),mdx(\"p\",null,\"La integraci\\xF3n continua es un proceso mediante el cual el equipo de desarrolladores escribe el c\\xF3digo y lo prueba. Una vez que la compilaci\\xF3n es exitosa, integran el c\\xF3digo actualizado con la versi\\xF3n anterior del c\\xF3digo. La integraci\\xF3n continua es una parte importante del desarrollo de software \\xE1gil y DevOps. Las herramientas de CI pueden ayudarlo a automatizar el proceso, administrar y monitorear su c\\xF3digo en todos los entornos.\"),mdx(\"p\",null,\"Hay toneladas de diferentes herramientas de CI disponibles. Tendr\\xE1s que decidir cu\\xE1l se adapta mejor a las necesidades de tu equipo. Las herramientas de CI m\\xE1s comunes son Jenkins, Travis CI y Codeship. La mejor manera de elegir una es averiguar qu\\xE9 herramienta de IC usan con m\\xE1s frecuencia otros desarrolladores en su campo.\"),mdx(\"p\",null,\"La clave del \\xE9xito al usar CI es asegurarse de configurarlo correctamente. Esto significa configurar correctamente las herramientas de IC y seguir las mejores pr\\xE1cticas para IC. Si es nuevo en CI, es posible que desee considerar tomar un curso sobre el tema tambi\\xE9n.\"),mdx(\"h2\",null,\"Revisi\\xF3n de c\\xF3digo y colaboraci\\xF3n\"),mdx(\"p\",null,\"La siguiente herramienta que todo desarrollador deber\\xEDa conocer es la revisi\\xF3n de c\\xF3digo. La revisi\\xF3n del c\\xF3digo es cuando usted y los miembros de su equipo leen el c\\xF3digo de cada uno para verificar si hay errores y problemas. Esta herramienta ayuda a evitar que se escapen errores simples.\"),mdx(\"p\",null,\"Hay toneladas de diferentes herramientas de revisi\\xF3n de c\\xF3digo disponibles. Tendr\\xE1s que decidir cu\\xE1l se adapta mejor a las necesidades de tu equipo. Las herramientas de revisi\\xF3n de c\\xF3digo m\\xE1s comunes son Github, PullReview y CodeCritic. La mejor manera de elegir una es averiguar qu\\xE9 herramienta de revisi\\xF3n de c\\xF3digo usan con m\\xE1s frecuencia otros desarrolladores en su campo.\"),mdx(\"p\",null,\"La clave del \\xE9xito al usar la revisi\\xF3n de c\\xF3digo es asegurarse de que todos sigan las mismas reglas. Tambi\\xE9n es importante mantenerse al d\\xEDa con las revisiones y asegurarse de que se completen a tiempo. Si es nuevo en la revisi\\xF3n de c\\xF3digo, entonces tambi\\xE9n puede considerar tomar un curso sobre el tema.\"),mdx(\"h2\",null,\"Herramientas de prueba\"),mdx(\"p\",null,\"La \\xFAltima herramienta que todo desarrollador deber\\xEDa conocer son las herramientas de prueba. Una de las formas m\\xE1s r\\xE1pidas de perder eficiencia es escribir c\\xF3digo no probado. Esto significa que solo escribe c\\xF3digo que sabe que funciona, sin tener que ejecutar el producto terminado. Esto le ahorra mucho tiempo que, de lo contrario, se dedicar\\xEDa a ejecutar y depurar el c\\xF3digo antes de que funcione.\"),mdx(\"p\",null,\"Hay toneladas de diferentes herramientas de prueba disponibles. Tendr\\xE1s que decidir cu\\xE1l se adapta mejor a las necesidades de tu equipo. Las herramientas de prueba m\\xE1s comunes son Jest, Selenium y Pytest. La mejor manera de elegir una es averiguar qu\\xE9 herramienta de prueba utilizan con m\\xE1s frecuencia otros desarrolladores en su campo.\"),mdx(\"p\",null,\"La clave del \\xE9xito al usar herramientas de prueba es asegurarse de que todos sigan las mismas reglas. Tambi\\xE9n es importante mantenerse al d\\xEDa con las pruebas y asegurarse de que se complete a tiempo. Si eres nuevo en las pruebas, quiz\\xE1s quieras considerar tomar un curso sobre el tema tambi\\xE9n.\"),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"La codificaci\\xF3n es una gran parte del trabajo de un desarrollador. Es importante conocer las mejores herramientas para hacer el trabajo m\\xE1s f\\xE1cil y eficiente. Las mejores herramientas son aquellas que son f\\xE1ciles de usar y pueden ayudarlo a colaborar con su equipo. Puede usar estas herramientas para realizar un seguimiento de su progreso en los proyectos, administrar su flujo de trabajo y mantener todo organizado.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
+      "createdAt": "Wed Sep 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Atajos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-computacion-en-la-nube",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Language Para La Computación En La Nube",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La nube es el futuro de la inform\\xE1tica y su adopci\\xF3n contin\\xFAa creciendo a un ritmo acelerado. De hecho, IDC estima que los servicios de nube p\\xFAblica en todo el mundo crecer\\xE1n de $ 206 mil millones en ingresos en 2017 a $ 345 mil millones para 2021. Tambi\\xE9n surgen nuevos tipos de servicios de nube todos los d\\xEDas.\nLa mayor\\xEDa de las organizaciones ahora usan servicios en la nube como parte de su estrategia de TI. Desde el manejo de la demanda m\\xE1xima hasta la reducci\\xF3n de costos y la mejora de la disponibilidad, los servicios basados en la nube han demostrado su valor para muchas empresas. Aun as\\xED, dar el paso puede ser un desaf\\xEDo para los profesionales de TI y los desarrolladores de software. Hay varias consideraciones al elegir qu\\xE9 lenguaje de programaci\\xF3n es mejor para crear aplicaciones de software para la nube, incluidas las siguientes:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJYgCdDKVQYo8QYUMP0AA/m0/fwp8BXZDJcg7VhhB8WRBkz0b8DrQQfmDp//oSUBvK3xt+nPvE/5V8u82rq/8mIA3Ol8+d9TJ39F7suqVqHf1xQPnlhGr9e0d/Hr13+zkNYt/K8i7wY/1jdcmuj/4OLXem5AogAA=",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-codificar-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Codificar Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que est\\xE9 comenzando o haya estado programando durante a\\xF1os, siempre habr\\xE1 cosas nuevas que aprender y formas de crecer como programador. Encontrar el pr\\xF3ximo desaf\\xEDo puede parecer desafiante al principio, pero una vez que comprende sus puntos fuertes, se vuelve mucho m\\xE1s f\\xE1cil.\nCodificar como un profesional no es una tarea f\\xE1cil. El mundo de la programaci\\xF3n tiene mucha competencia, por lo que los desarrolladores deben destacarse entre la multitud si quieren tener \\xE9xito y prosperar en esta industria.\nDesafortunadamente, hay demasiados programadores que no saben c\\xF3mo programar como un profesional, lo que significa que estos programadores no pueden alcanzar su potencial ni obtener trabajos en empresas donde puedan continuar su crecimiento como ingenieros de software.\nEso no significa que estos codificadores sean malos o que nunca ser\\xE1n buenos programadores; solo significa que tienen algunas \\xE1reas en las que podr\\xEDan mejorar en este momento. Si quieres saber c\\xF3mo puedes programar como un profesional, sigue leyendo nuestra publicaci\\xF3n de blog.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-aplicacion-de-hibernate",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Aplicación De Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJZgCdAYtpySk36ff46AA/vyPj46HGbvwaP7QtR2LcE4Frf8fcTJyPfw6X+jCEH3xlzvj3N9w9OqLUEbOz8p+N1JUg617sYrRR56iSQTDzbxK5Bj+8By6P5JoV6pb9bxlI68gWf1H5n3CDvhQAA==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar La Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-comenzar-con-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Comenzar Con La Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es una habilidad esencial que se puede aplicar a una variedad de roles, industrias y tama\\xF1os de empresas. Lo que comenz\\xF3 como una habilidad de nicho utilizada por los desarrolladores de software ahora es una habilidad comercializable y relevante para casi todas las industrias. Se ha vuelto tan omnipresente que incluso el Departamento de Trabajo ha destacado la codificaci\\xF3n como una de las habilidades de m\\xE1s r\\xE1pido crecimiento en demanda.\nLa codificaci\\xF3n se considera m\\xE1s com\\xFAnmente como la capacidad de crear sitios web, aplicaciones y software. Sin embargo, en realidad hay muchos tipos diferentes de codificaci\\xF3n. La programaci\\xF3n (o codificaci\\xF3n) de computadoras implica escribir instrucciones para que las computadoras realicen ciertas acciones o funciones. El tipo de codificaci\\xF3n que elija aprender puede tener diferentes aplicaciones seg\\xFAn sus intereses, trayectoria profesional y fortalezas personales. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los distintos tipos de codificaci\\xF3n, as\\xED como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJaAC7AYtBzobhHUYXVjAAP7+mC6P4T+fYqTzewRcuXQzscq+OOz1C3jG3zVnXcbM8Kq7okMaqEwyWS7xv1h80d9YhMRenNv3jfXEgZPuCauxWLJ8/E9irMoj6EefC3P54AAA",
+      "createdAt": "Fri Apr 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La historia de los lenguajes de programaci\\xF3n est\\xE1 plagada de ideas abandonadas e intentos fallidos. Eso es porque crear un nuevo lenguaje de programaci\\xF3n es un proceso desafiante. Crear un lenguaje que tenga su propia sintaxis, analizador, compilador y m\\xE1quina virtual no es f\\xE1cil.\nEs a\\xFAn m\\xE1s dif\\xEDcil crear un lenguaje de programaci\\xF3n que otras personas quieran usar. El lenguaje de programaci\\xF3n Java ha existido durante casi 25 a\\xF1os y todav\\xEDa se mantiene fuerte. Hay muchas buenas razones para esto, pero una de las m\\xE1s importantes es que Java no intenta ser todo para todos. Su alcance es limitado, pero su potencial es enorme.\nEste art\\xEDculo le presentar\\xE1 el lenguaje de programaci\\xF3n Java para que pueda comprender por qu\\xE9 sigue siendo uno de los lenguajes m\\xE1s populares del mundo en la actualidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-codificar-mas-rapido",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Codificar Más Rápido",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar como desarrollador nunca es f\\xE1cil. Tendr\\xE1s que enfrentar desaf\\xEDos y dificultades en tu trabajo casi todos los d\\xEDas. Para superar estos desaf\\xEDos, debe encontrar constantemente formas de mejorar su eficiencia y velocidad de codificaci\\xF3n.\nTrabajar de manera eficiente como ingeniero de software es un desaf\\xEDo para la mayor\\xEDa de las personas. La mayor\\xEDa de los desarrolladores tienen tantas cosas diferentes en mente en un momento dado que puede ser dif\\xEDcil hacer un seguimiento de todo simult\\xE1neamente. Como resultado, la mayor\\xEDa de los codificadores se desempe\\xF1an lentamente porque piensan demasiado en lo que est\\xE1n haciendo en lugar de simplemente hacerlo. Sin embargo, con pr\\xE1ctica y dedicaci\\xF3n, puedes aprender a codificar m\\xE1s r\\xE1pido.\nA continuaci\\xF3n, lo guiaremos a trav\\xE9s de algunos consejos que lo ayudar\\xE1n a ser m\\xE1s productivo con su codificaci\\xF3n y acelerar significativamente su flujo de trabajo. Con estos consejos podr\\xE1s`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-software-engineering-books.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoKAAoAAUAmJbACdGuAt/8WsjwLLfzezAD++ljJx4YFfq7ozi03eEZL23EP9QbSTjzCthIWZlpKP3eNUHDnc347Bw6qPj26aMWBazFiaDZNaoWzj4nf/my0/bYBb//DSV3+ElVHsLVcPqbSf2blz+DSXP8X//v95LgAAA==",
+      "createdAt": "Mon Apr 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-libros-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Libros De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, los ingenieros de software juegan un papel mucho m\\xE1s importante en la forma en que operan las empresas. Gracias a la creciente importancia del software y los servicios digitales, los ingenieros de software ya no son solo codificadores con un escritorio en una trastienda en alg\\xFAn lugar. En cambio, ahora son personas que pueden influir en las estrategias de toda la empresa y ayudar a dar forma al futuro de una organizaci\\xF3n. Como tal, los ingenieros de software deben tener una amplia gama de habilidades y conocimientos t\\xE9cnicos para tener \\xE9xito.\nLos libros de ingenier\\xEDa de software son una excelente manera de aprender m\\xE1s sobre esta profesi\\xF3n de r\\xE1pido crecimiento, as\\xED como de ampliar sus propios conocimientos y habilidades. Aqu\\xED echamos un vistazo a algunos de los mejores libros de ingenier\\xEDa de software que puede leer para complementar su educaci\\xF3n actual de la universidad u otras fuentes. Incluso si cree que no los necesita en este momento, siga leyendo para obtener informaci\\xF3n excelente sobre estos libros esenciales para ingenieros de software...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

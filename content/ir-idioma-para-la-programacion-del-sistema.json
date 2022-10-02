@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFPor qu\\xE9 Go es bueno para la programaci\\xF3n del sistema?\"),mdx(\"p\",null,`Los lenguajes de programaci\\xF3n del sistema est\\xE1n dise\\xF1ados para ser altamente eficientes y optimizados para el hardware en lugar de estar dise\\xF1ados para ser f\\xE1ciles de leer, escribir o mantener.\nGo fue dise\\xF1ado desde cero para ser excelente para la programaci\\xF3n del sistema porque fue dise\\xF1ado para optimizar la eficiencia.\nParte de lo que hace que Go sea una excelente opci\\xF3n para proyectos de programaci\\xF3n de sistemas es que est\\xE1 compilado y tipificado est\\xE1ticamente. Esto significa que es menos probable que el lenguaje produzca errores de tiempo de ejecuci\\xF3n, lo cual es extremadamente importante para la programaci\\xF3n del sistema. Por ejemplo, si est\\xE1 escribiendo una implementaci\\xF3n de criptograf\\xEDa, desea asegurarse de que no haya ning\\xFAn error que pueda llevar a que alguien rompa la criptograf\\xEDa y vea el contenido de sus datos.\nEl enfoque en la optimizaci\\xF3n significa que Go tambi\\xE9n es relativamente f\\xE1cil de escalar, lo cual es otro factor importante para la programaci\\xF3n del sistema. Es posible que deba optimizar su software para ejecutarlo en un servidor grande o ampliarlo para admitir miles de usuarios.`),mdx(\"h2\",null,\"La gesti\\xF3n de la memoria es clave para la programaci\\xF3n del sistema\"),mdx(\"p\",null,`La gesti\\xF3n de la memoria es uno de los aspectos m\\xE1s importantes de la programaci\\xF3n del sistema y destaca por qu\\xE9 Go es una buena opci\\xF3n para este tipo de proyectos.\nGo es un lenguaje de recolecci\\xF3n de basura, lo que significa que recuperar\\xE1 autom\\xE1ticamente la memoria que su software no est\\xE9 utilizando activamente.\nSeg\\xFAn el proyecto, es posible que deba usar una tecnolog\\xEDa de administraci\\xF3n de memoria espec\\xEDfica para manejar datos confidenciales. Por ejemplo, si est\\xE1 escribiendo una implementaci\\xF3n de criptograf\\xEDa, querr\\xE1 asegurarse de que est\\xE1 utilizando una tecnolog\\xEDa de administraci\\xF3n de memoria que no deje un rastro de datos que podr\\xEDan usarse para romper su criptograf\\xEDa.\nPara muchos proyectos, la recolecci\\xF3n de basura de Go es una buena opci\\xF3n porque es f\\xE1cil de configurar y no requiere mucho trabajo adicional de su parte.\nSin embargo, para proyectos que requieren datos extremadamente confidenciales como la criptograf\\xEDa, un lenguaje de recolecci\\xF3n de basura puede no ser la mejor opci\\xF3n porque deja un rastro de datos que alguien podr\\xEDa usar para romper la criptograf\\xEDa. Por ejemplo, la recolecci\\xF3n de basura de Go deja rastros que contienen informaci\\xF3n sobre cu\\xE1nto tiempo llev\\xF3 procesar diferentes partes del c\\xF3digo, lo que podr\\xEDa usarse para ayudar a descifrar la criptograf\\xEDa.`),mdx(\"h2\",null,\"Go tiene una s\\xF3lida administraci\\xF3n de paquetes\"),mdx(\"p\",null,`Una de las caracter\\xEDsticas m\\xE1s importantes de cualquier lenguaje de programaci\\xF3n es su sistema de gesti\\xF3n de paquetes. Un s\\xF3lido sistema de administraci\\xF3n de paquetes facilita la b\\xFAsqueda y el uso de paquetes de terceros escritos por otros desarrolladores. Esto es especialmente cierto si est\\xE1 trabajando en un equipo y necesita usar las herramientas que sus compa\\xF1eros de trabajo han elegido usar.\nEl sistema de administraci\\xF3n de paquetes de Go se llama \"Gorgoroh\" y facilita la b\\xFAsqueda y el uso de paquetes por parte de otros desarrolladores.\nPor ejemplo, si est\\xE1 trabajando en un proyecto que utiliza el aprendizaje autom\\xE1tico, es probable que necesite usar un paquete de terceros para implementar los algoritmos de ML. Dado que Go tiene un s\\xF3lido sistema de administraci\\xF3n de paquetes, es f\\xE1cil encontrar el paquete que necesita y comenzar a usarlo.\nEl sistema de administraci\\xF3n de paquetes de Go est\\xE1 integrado en el propio lenguaje, lo que significa que es f\\xE1cil de usar sin importar qu\\xE9 tipo de aplicaci\\xF3n est\\xE9 creando.`),mdx(\"h2\",null,\"Go tiene excelentes herramientas\"),mdx(\"p\",null,`Las buenas herramientas son importantes para cualquier lenguaje de programaci\\xF3n, pero son especialmente importantes para los lenguajes de programaci\\xF3n de sistemas.\nLos lenguajes de programaci\\xF3n del sistema est\\xE1n optimizados para ser eficientes y ejecutarse r\\xE1pidamente, lo cual es excelente si est\\xE1 escribiendo una aplicaci\\xF3n simple pero dificulta la depuraci\\xF3n de errores.\nSin embargo, Go tiene s\\xF3lidas herramientas de depuraci\\xF3n y creaci\\xF3n de perfiles que facilitan la optimizaci\\xF3n de su c\\xF3digo y aseguran que se ejecute r\\xE1pidamente.\nEl depurador Go est\\xE1 integrado en el lenguaje Go, lo que significa que es f\\xE1cil de usar y no requiere ning\\xFAn software adicional.\nLa herramienta de depuraci\\xF3n de Go es liviana, directa y f\\xE1cil de usar incluso para programadores que no est\\xE1n muy familiarizados con el lenguaje.`),mdx(\"h2\",null,\"El enfoque de Go en el alto rendimiento Y la limitaci\\xF3n del uso de RAM\"),mdx(\"p\",null,`El enfoque de Go en el alto rendimiento es una de las principales razones por las que es una buena opci\\xF3n para la programaci\\xF3n de sistemas. Sin embargo, este enfoque tambi\\xE9n lo hace ideal para proyectos que necesitan minimizar la cantidad de RAM utilizada por el programa.\nSin embargo, si su proyecto requiere una ejecuci\\xF3n de c\\xF3digo altamente eficiente pero tambi\\xE9n necesita minimizar el uso de RAM, es posible que deba usar una versi\\xF3n espec\\xEDfica del lenguaje.\nEsto se debe a que Google, la empresa que cre\\xF3 y mantiene Go, lanza peri\\xF3dicamente nuevas versiones del lenguaje con optimizaciones de velocidad y rendimiento.`),mdx(\"h2\",null,\"Especificaci\\xF3n de idioma de Go y bibliotecas est\\xE1ndar\"),mdx(\"p\",null,`Muchos lenguajes de programaci\\xF3n est\\xE1n dise\\xF1ados para uso general, pero Go fue dise\\xF1ado para ser utilizado para la programaci\\xF3n de sistemas y, por lo tanto, tiene un prop\\xF3sito muy espec\\xEDfico.\nEsto significa que el lenguaje est\\xE1 dise\\xF1ado para ser extremadamente eficiente y adecuado para tareas espec\\xEDficas, lo que le ahorra tiempo porque no tiene que aprender un lenguaje de prop\\xF3sito general que probablemente sea ineficiente para sus necesidades.\nPor ejemplo, si est\\xE1 escribiendo una implementaci\\xF3n de criptograf\\xEDa, es probable que solo use algunas caracter\\xEDsticas de un lenguaje. Esto significa que no necesita aprender un lenguaje de prop\\xF3sito general, lo que ahorra tiempo y hace que su c\\xF3digo sea m\\xE1s eficiente.`),mdx(\"h2\",null,\"Resumiendo\"),mdx(\"p\",null,`Go es un gran lenguaje para la programaci\\xF3n de sistemas porque fue dise\\xF1ado para optimizar la eficiencia y ser f\\xE1cil de escalar. Los lenguajes de programaci\\xF3n del sistema est\\xE1n optimizados para ejecutarse de manera r\\xE1pida, eficiente y usar la menor cantidad de memoria posible.\nEl enfoque de Go en el rendimiento y la eficiencia tambi\\xE9n lo hace ideal para proyectos que requieren un uso m\\xEDnimo de RAM. Adem\\xE1s, la especificaci\\xF3n de idioma de Go y las bibliotecas estandarizadas facilitan el inicio sin tener que aprender varios idiomas.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJZgCdAEQdtzGodj7TsAAAP75upQ9OL+nKPw7MVEin7Yi8qpGXTiK8sX/g8/pje8z7+jKAE2HWZe9batGjA3o/XYn+H3ZrfuH9rXqz+nFf1AKsBUF/j5B6zPaRrLW/Ygf+sz9SyxTIZjmn5hb27Hoh2YAAA==",
+      "createdAt": "Wed Aug 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-herramientas-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Herramientas De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores hacen mucho trabajo. Al igual que con cualquier trabajo, los codificadores deben equilibrar la cantidad de tiempo dedicado a la codificaci\\xF3n, as\\xED como la calidad y la eficiencia de esa codificaci\\xF3n. Mantenerse organizado y productivo durante todo el d\\xEDa es un desaf\\xEDo continuo. La buena noticia es que existen muchas herramientas que facilitan la vida de los desarrolladores. Estas herramientas simplifican tareas como la organizaci\\xF3n del c\\xF3digo, el uso compartido de archivos, la depuraci\\xF3n y las pruebas.\nLas herramientas de codificaci\\xF3n ayudan a los desarrolladores de m\\xFAltiples formas. Agilizan procesos como la codificaci\\xF3n, depuraci\\xF3n, prueba y gesti\\xF3n de bibliotecas de c\\xF3digos. Adem\\xE1s, estas herramientas reducen la redundancia y aumentan la eficiencia en todos los proyectos y equipos en su conjunto en lugar de individualmente. \\xA1Echemos un vistazo a algunas de las mejores herramientas de codificaci\\xF3n que todo desarrollador deber\\xEDa conocer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-una-descripcion-general",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Una Descripción General",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"En esta era digital, los datos est\\xE1n en todas partes. Ya sea que est\\xE9 utilizando Internet para navegar por sitios web, transmitir videos en YouTube o Instagram, cargar im\\xE1genes en Facebook o almacenar sus canciones favoritas en Spotify, es casi seguro que encontrar\\xE1 datos en alg\\xFAn momento. Con tanta informaci\\xF3n flotando en l\\xEDnea en estos d\\xEDas, no sorprende que los lenguajes de programaci\\xF3n se hayan vuelto tan esenciales en la industria tecnol\\xF3gica. Los programadores de computadoras usan varios lenguajes de programaci\\xF3n para crear software y otros programas que ayudan a los usuarios a realizar tareas espec\\xEDficas o cumplir objetivos dentro de un \\xE1mbito de trabajo particular. Hay muchos tipos diferentes de lenguajes de programaci\\xF3n disponibles en la actualidad, pero uno de los m\\xE1s populares entre los desarrolladores es Python. En este art\\xEDculo, exploraremos qu\\xE9 hace que Python sea \\xFAnico y discutiremos por qu\\xE9 es una opci\\xF3n tan popular para los programadores de hoy.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: existen muchos lenguajes de programaci\\xF3n y cada uno tiene sus propias caracter\\xEDsticas y peculiaridades \\xFAnicas. Entonces, \\xBFcu\\xE1l deber\\xEDas aprender primero? Si est\\xE1 buscando comenzar en el mundo de la codificaci\\xF3n, Javascript es un lugar fant\\xE1stico para comenzar. De hecho, puede ser un excelente lenguaje de programaci\\xF3n para principiantes para aquellos que tienen poca o ninguna experiencia en este campo. \\xBFPorqu\\xE9 es eso? Bueno, como el lenguaje m\\xE1s com\\xFAn utilizado para la creaci\\xF3n de sitios web, aprender Javascript lo ayuda a comprender c\\xF3mo funcionan los sitios web a nivel individual.\n\\xA1Deje que esta gu\\xEDa paso a paso para aprender Javascript lo ayude a llevar su nuevo conjunto de habilidades al siguiente nivel! Desde comprender qu\\xE9 es Javascript y por qu\\xE9 es importante hasta dominar los fundamentos de la codificaci\\xF3n, como variables y declaraciones condicionales, lo guiaremos a trav\\xE9s de todo lo que necesita saber para comenzar con este lenguaje de programaci\\xF3n din\\xE1mico.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJYgCdAEWgbSTEm+LAAD+/vFQK39//4sPkV6Bi/vxcEPq11/w7j7b36dkQG2+M6yFgCF/ilhOhbqxU3/Jja0+WfgXzmRyyIjtv/gFsBaYMvqW756iWl2QCO81zZEr/4nY/49Cf98Bs8lif+TkjhJw08rjffR6JPwAAA==",
+      "createdAt": "Thu Jun 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-la-administracion-del-sistema",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Administración Del Sistema",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`No es ning\\xFAn secreto que a los programadores les encanta programar. Pero no todos aman cosas similares. Aquellos que se sienten atra\\xEDdos por las ciencias de la computaci\\xF3n por su l\\xF3gica y los desaf\\xEDos de resoluci\\xF3n de problemas pueden encontrar que la codificaci\\xF3n es un lastre a veces, especialmente si su trabajo consiste principalmente en lidiar con API u otros componentes de software est\\xE1ndar.\nProbablemente todos nos hemos encontrado con desarrolladores que no comparten nuestras pasiones, aquellos que quedan atrapados en el glamour del t\\xEDtulo del trabajo en lugar de su sustancia. Y este tipo de personas tambi\\xE9n se sienten atra\\xEDdos por diferentes campos dentro de nuestra profesi\\xF3n. Por ejemplo, a algunos programadores les gusta escribir c\\xF3digo que controle m\\xE1quinas o procesos (en resumen, tareas de administraci\\xF3n de sistemas) en lugar de crear interfaces de usuario o algoritmos de inteligencia artificial.\nEs por eso que exploraremos Go como un lenguaje excelente para la administraci\\xF3n del sistema (o cualquier rol altamente orientado a tareas).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-un-lenguaje-versatil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Versátil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa existen muchos lenguajes de programaci\\xF3n. Cada uno tiene su propio conjunto \\xFAnico de caracter\\xEDsticas, fortalezas y debilidades. Algunos son de prop\\xF3sito m\\xE1s general que otros; algunos son m\\xE1s adecuados para tareas espec\\xEDficas.\nEste art\\xEDculo explorar\\xE1 el lenguaje de programaci\\xF3n Python y por qu\\xE9 es tan \\xFAtil saber si est\\xE1 interesado en convertirse en desarrollador de software. Despu\\xE9s de leer este art\\xEDculo, debe tener una comprensi\\xF3n s\\xF3lida de qu\\xE9 es Python y por qu\\xE9 se destaca de otros lenguajes de programaci\\xF3n populares como C ++, Java, JavaScript y otros.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-de-red",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración De Red",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-software-engineering-books.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoKAAoAAUAmJbACdGuAt/8WsjwLLfzezAD++ljJx4YFfq7ozi03eEZL23EP9QbSTjzCthIWZlpKP3eNUHDnc347Bw6qPj26aMWBazFiaDZNaoWzj4nf/my0/bYBb//DSV3+ElVHsLVcPqbSf2blz+DSXP8X//v95LgAAA==",
+      "createdAt": "Mon Apr 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-libros-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Libros De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, los ingenieros de software juegan un papel mucho m\\xE1s importante en la forma en que operan las empresas. Gracias a la creciente importancia del software y los servicios digitales, los ingenieros de software ya no son solo codificadores con un escritorio en una trastienda en alg\\xFAn lugar. En cambio, ahora son personas que pueden influir en las estrategias de toda la empresa y ayudar a dar forma al futuro de una organizaci\\xF3n. Como tal, los ingenieros de software deben tener una amplia gama de habilidades y conocimientos t\\xE9cnicos para tener \\xE9xito.\nLos libros de ingenier\\xEDa de software son una excelente manera de aprender m\\xE1s sobre esta profesi\\xF3n de r\\xE1pido crecimiento, as\\xED como de ampliar sus propios conocimientos y habilidades. Aqu\\xED echamos un vistazo a algunos de los mejores libros de ingenier\\xEDa de software que puede leer para complementar su educaci\\xF3n actual de la universidad u otras fuentes. Incluso si cree que no los necesita en este momento, siga leyendo para obtener informaci\\xF3n excelente sobre estos libros esenciales para ingenieros de software...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-big-data",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy vemos empresas de todo el mundo que luchan por adoptar tecnolog\\xEDa emergente y adaptarse a las condiciones cambiantes del mercado. Como resultado, muchas empresas se enfrentan a un per\\xEDodo de transformaci\\xF3n digital que las pondr\\xE1 en ventaja o las dejar\\xE1 obsoletas. En el mundo actual basado en datos, las empresas deben contar con la infraestructura tecnol\\xF3gica para recopilar, procesar, analizar y almacenar cantidades masivas de datos.\nPara seguir siendo competitivas, las organizaciones necesitan estrategias de desarrollo de software que puedan manejar big data de manera eficiente y mantener los costos bajos. Las organizaciones tambi\\xE9n deben tener la capacidad de implementar nuevas tecnolog\\xEDas r\\xE1pidamente e integrarlas en sus sistemas existentes. Este art\\xEDculo detalla la programaci\\xF3n de Go para ejemplos de big data y por qu\\xE9 deber\\xEDa considerarla para su pr\\xF3ximo proyecto.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Tareas y responsabilidades de un ingeniero de software\"),mdx(\"p\",null,\"Un ingeniero de software tiene muchas responsabilidades y tareas diferentes, pero la m\\xE1s importante es crear software de alta calidad. Idealmente, el software que cree debe ser f\\xE1cil de usar y capaz de resolver problemas para las empresas. Los ingenieros de software tambi\\xE9n crean nuevos programas o aplicaciones para el software existente. Pueden trabajar en equipos con otros ingenieros, dise\\xF1adores y gerentes de productos para decidir qu\\xE9 caracter\\xEDsticas necesita el software y encontrar soluciones para los problemas que experimenta el software.\"),mdx(\"p\",null,\"Tambi\\xE9n estar\\xE1 a cargo de probar los programas de software para asegurarse de que funcionen correctamente. Tambi\\xE9n es posible que deba probar el nuevo software para asegurarse de que sea compatible con diferentes sistemas operativos y sistemas inform\\xE1ticos. Tambi\\xE9n puede estar a cargo de solucionar problemas con el software existente.\"),mdx(\"h2\",null,\"Buenas habilidades para tener\"),mdx(\"p\",null,\"Querr\\xE1 poseer ciertas habilidades para volverse m\\xE1s contratable como ingeniero de software. La programaci\\xF3n de computadoras es una habilidad importante porque es una parte clave de este trabajo. Necesitar\\xE1 saber c\\xF3mo crear un c\\xF3digo que funcione, pero tambi\\xE9n debe saber c\\xF3mo escribirlo de una manera que sea f\\xE1cil de entender para que otros puedan modificarlo o solucionar problemas si es necesario.\"),mdx(\"p\",null,\"Tambi\\xE9n deber\\xEDa poder desglosar grandes problemas y encontrar soluciones que sean creativas pero tambi\\xE9n pr\\xE1cticas. Debe tener excelentes habilidades de resoluci\\xF3n de problemas para encontrar soluciones a los grandes desaf\\xEDos que enfrentar\\xE1 como ingeniero de software.\"),mdx(\"h2\",null,\"Avanza en tu carrera\"),mdx(\"p\",null,\"Si trabaja en ingenier\\xEDa de software, puede esperar avanzar en su carrera a medida que adquiera m\\xE1s experiencia y demuestre que tiene las habilidades necesarias para el trabajo. Muchos ingenieros de software ganan ingresos de seis cifras y algunos incluso ganan salarios de siete cifras. A medida que avance en su carrera, es posible que tenga m\\xE1s oportunidades de viajar por trabajo o asumir roles de liderazgo.\"),mdx(\"p\",null,\"Es posible que desee especializarse en un tipo espec\\xEDfico de ingenier\\xEDa de software, como inteligencia artificial o ciberseguridad. Esto puede hacerte m\\xE1s valioso para las empresas que necesitan ingenieros con esas especialidades y brindarte m\\xE1s opciones de carrera.\"),mdx(\"h2\",null,\"Prospectos de trabajos\"),mdx(\"p\",null,\"Aunque la perspectiva laboral para la ingenier\\xEDa de software no es tan s\\xF3lida como la de otros campos de la ingenier\\xEDa, a\\xFAn ofrece mucho potencial para quienes ingresan a la profesi\\xF3n. La Oficina de Estad\\xEDsticas Laborales de EE. UU. (BLS, por sus siglas en ingl\\xE9s) predice que las oportunidades laborales para los ingenieros de software aumentar\\xE1n aproximadamente un 12 por ciento hasta 2026. Esta tasa de crecimiento es m\\xE1s r\\xE1pida que el promedio para todas las ocupaciones.\"),mdx(\"p\",null,\"El BLS tambi\\xE9n informa que el salario anual promedio de los ingenieros de software supera los $ 100,000. Esto es significativamente m\\xE1s que el salario anual promedio para otras disciplinas de ingenier\\xEDa. En general, la ingenier\\xEDa de software es un campo profesional muy prometedor.\"),mdx(\"h2\",null,\"Ultimas palabras\"),mdx(\"p\",null,\"Si est\\xE1 interesado en la inform\\xE1tica o en el campo de la ingenier\\xEDa, la ingenier\\xEDa de software ofrece grandes oportunidades de progreso y estabilidad. Puede esperar ganar un buen salario y tener perspectivas laborales muy positivas. Trabajar como ingeniero de software puede brindarle la oportunidad de resolver problemas desafiantes y crear nuevas ideas e innovaciones \\xFAtiles.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "configuracion-de-su-entorno-de-desarrollo-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Configuración De Su Entorno De Desarrollo De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es desarrollador, su trabajo requiere que use diferentes software y herramientas para crear aplicaciones. Hay diferentes lenguajes de programaci\\xF3n y marcos que necesita saber para hacer bien su trabajo. Con la creciente popularidad de las aplicaciones m\\xF3viles y el auge de la inteligencia artificial (IA), los desarrolladores ahora tienen m\\xFAltiples oportunidades en el campo del desarrollo de software. En esta publicaci\\xF3n de blog, le presentaremos Java como uno de los lenguajes de programaci\\xF3n m\\xE1s populares para los desarrolladores. Tambi\\xE9n aprender\\xE1 c\\xF3mo configurar su entorno de desarrollo de Java para que pueda comenzar a codificar lo antes posible.\nSi quieres convertirte en ingeniero de software, saber programar es solo la punta del iceberg. Tambi\\xE9n debe comprender tecnolog\\xEDas como HTML5, CSS3 y XML, que son un vocabulario est\\xE1ndar para el dise\\xF1o de sitios web y el almacenamiento de datos inform\\xE1ticos. En esta publicaci\\xF3n de blog, presentaremos algunos t\\xE9rminos comunes que usan los desarrolladores al hablar sobre la configuraci\\xF3n de sus entornos de desarrollo para diferentes lenguajes de programaci\\xF3n como Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAoAAUAmJQBOilABUAG4ptMLs9gA/v6z+3tjhkrJYzvXDZvliG336jEAYFxyxA8PsN+jNJz/PNPQvWZvPhLPHijR6kYJDuNdLf8DI0LuIPjZMukX+QAAAAA=",
+      "createdAt": "Wed Feb 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-la-programacion-de-redes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Programación De Redes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que has decidido aprender un nuevo lenguaje de programaci\\xF3n, pero \\xBFcu\\xE1l? Existen literalmente miles de lenguajes de programaci\\xF3n en la actualidad. Algunos son lenguajes de programaci\\xF3n de prop\\xF3sito general que se pueden usar para una variedad de aplicaciones. Otros son m\\xE1s especializados y se enfocan en convertirse en un experto en un dominio en particular.\nEsa \\xFAltima categor\\xEDa es donde podr\\xEDa encontrarse cuando busque un nuevo lenguaje para la programaci\\xF3n de redes. Estos son lenguajes de programaci\\xF3n que han sido dise\\xF1ados con dominios espec\\xEDficos en mente, como redes o telefon\\xEDa inform\\xE1tica. Puede pensar que no hay mucho margen para la diferenciaci\\xF3n entre estos lenguajes de programaci\\xF3n especializados, \\xA1pero hay mucho por ah\\xED!\nSi todav\\xEDa tiene dificultades para decidir cu\\xE1l es el mejor lenguaje de programaci\\xF3n Go para redes, \\xA1no se preocupe! \\xA1Hemos creado esta breve publicaci\\xF3n de blog con toda la informaci\\xF3n que necesita para tomar una decisi\\xF3n informada sobre sus futuros estudios! Siga leyendo para familiarizarse con cinco de los lenguajes de programaci\\xF3n de red m\\xE1s comunes y sus beneficios \\xFAnicos:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "idioma-go-para-devops",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Idioma Go Para Devops",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando pensamos en DevOps, pensamos en formas de hacer que las operaciones sean m\\xE1s s\\xF3lidas, eficientes y r\\xE1pidas. En t\\xE9rminos simples, queremos reducir el tiempo entre la escritura de un c\\xF3digo y su preparaci\\xF3n para la producci\\xF3n.\nA menudo vemos desarrolladores que escriben c\\xF3digos desordenados que son dif\\xEDciles de leer o comprender. Lo mismo ocurre con los ingenieros de operaciones a quienes les resulta dif\\xEDcil depurar diferentes errores en producci\\xF3n. Aqu\\xED es donde entra en juego el lenguaje Go.\nDesde su lanzamiento en 2009, Go ha ganado una inmensa popularidad entre los desarrolladores de software de todo el mundo, quienes incluso lo han denominado \"lo nuevo\". Fue desarrollado por Google como una alternativa a otros lenguajes que eran lentos y usaban mucha memoria en ese momento.\nSi es un desarrollador que desea implementar DevOps con la ayuda de Go, \\xA1este art\\xEDculo es para usted! Aqu\\xED encontrar\\xE1s todo lo que necesitas saber sobre Go y su uso en DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "interfaces-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Interfaces En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La definici\\xF3n de una interfaz es casi la misma en Java que en cualquier otro lenguaje de programaci\\xF3n orientada a objetos (POO). Una interfaz, estrictamente hablando, es un tipo que especifica un conjunto de m\\xE9todos, pero no su implementaci\\xF3n. Esto significa que una interfaz puede tener m\\xE9todos est\\xE1ticos y propiedades accesibles, pero no m\\xE9todos o campos de instancia.\nUna interfaz es un tipo que especifica solo el comportamiento y no la implementaci\\xF3n de una operaci\\xF3n. Las clases que implementan esta interfaz deben proporcionar su propia implementaci\\xF3n para cada m\\xE9todo declarado en ella. Las interfaces se usan ampliamente en Java para proporcionar un terreno com\\xFAn para que las clases implementen alguna funcionalidad sin revelar los detalles de implementaci\\xF3n interna.\nCuando usamos interfaces, estamos creando contratos entre nuestras clases para que se comporten de cierta manera, que implementen ciertos m\\xE9todos y realicen tareas particulares cuando se les solicite. Exploremos c\\xF3mo podemos aprovechar las interfaces en nuestro c\\xF3digo para hacerlo m\\xE1s modular, reutilizable, comprobable y legible.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAE51lgqgWMkAAD5f/MFUcfnHXYRQiYbBID/kxBpNnzpd/DF564O6rAZ8Bj1SQ4uIGpn3+Qlf+VkOVZeRSW0nF1x1xaKCHKtYIKhIdSbodtws8zjVXC81TmvPM2os9P63Ft1qhk+f/2cbr7wom0k6AAA",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-programas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Programas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La ingenier\\xEDa de software es un campo amplio y de r\\xE1pido crecimiento. El mercado de ingenieros de software contin\\xFAa creciendo a un ritmo acelerado, y se espera que la demanda aumente en otros 280 000 puestos de trabajo para 2022. Por lo tanto, los futuros ingenieros de software tienen muchas opciones cuando se trata de seguir su carrera. Los programas de ciencias de la computaci\\xF3n generalmente brindan una base excelente para aquellos interesados en seguir la ingenier\\xEDa de software como una carrera profesional espec\\xEDfica, pero estos programas por s\\xED solos a menudo no son suficientes.\nLos programas dise\\xF1ados espec\\xEDficamente para la ingenier\\xEDa de software pueden ayudarlo a obtener las habilidades y la capacitaci\\xF3n que necesita para tener \\xE9xito en este campo. Hay muchos tipos diferentes de puestos de ingeniero de software disponibles en la actualidad, desde desarrollo front-end hasta miner\\xEDa de datos e inteligencia artificial (IA). Estos son algunos de los mejores programas de ingenier\\xEDa de software disponibles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/basic-java-syntax.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCdAEOO/OdAAD+/KQNkbv+XBr5lUSnWZef9yuaQ//PyA2NH6STUfxG8mLPO3LPOyHEGiQ5/6+8ud4yt3ttDZ7Bp+MoTmXSeX1XRLiNfuEy8E6y9uGAAAA=",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "sintaxis-basica-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Sintaxis Básica De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando est\\xE1 aprendiendo a codificar, necesita aprender los conceptos b\\xE1sicos antes de poder pasar a temas m\\xE1s complejos. El lenguaje de programaci\\xF3n m\\xE1s fundamental es Java. Es uno de los lenguajes m\\xE1s importantes y ampliamente utilizados en el mundo de la inform\\xE1tica. Muchos otros lenguajes de programaci\\xF3n se basan en \\xE9l, lo que lo hace a\\xFAn m\\xE1s esencial para los programadores.\nSi desea aprender Java, primero debe comprender la sintaxis de codificaci\\xF3n b\\xE1sica. Mucha gente considera que la codificaci\\xF3n es un desaf\\xEDo porque requiere fluidez en una variedad de caracteres y s\\xEDmbolos que no son necesariamente palabras comunes en ingl\\xE9s. Sin embargo, una vez que supere la apariencia inusual de estas palabras, ver\\xE1 que en realidad son conceptos bastante simples cuando se dividen en partes m\\xE1s peque\\xF1as. Una vez que comprenda los conceptos b\\xE1sicos, \\xA1todo ser\\xE1 mucho m\\xE1s f\\xE1cil de ahora en adelante!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-ide-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Ide De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El desarrollo de software es un campo desafiante. Incluso los desarrolladores experimentados tienen que seguir aprendiendo constantemente cosas nuevas, porque cada d\\xEDa se inventan nuevas soluciones de software. Pero no siempre es f\\xE1cil ya que todo tiene sus propias complejidades y desaf\\xEDos. Todos los desarrolladores tienen sus propios problemas, especialmente cuando se trata de encontrar el mejor IDE para la codificaci\\xF3n. Es importante encontrar un entorno que sea c\\xF3modo y productivo, para que pueda realizar su trabajo m\\xE1s r\\xE1pido y con la mayor calidad posible. Un buen IDE proporciona accesos directos y otras herramientas para aumentar la productividad y, al mismo tiempo, hacer que todo el proceso sea m\\xE1s agradable. Hoy discutiremos algunos de los mejores IDE para la codificaci\\xF3n que puede usar si es un desarrollador o planea convertirse en uno en el futuro.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-comenzar-con-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Comenzar Con La Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es una habilidad esencial que se puede aplicar a una variedad de roles, industrias y tama\\xF1os de empresas. Lo que comenz\\xF3 como una habilidad de nicho utilizada por los desarrolladores de software ahora es una habilidad comercializable y relevante para casi todas las industrias. Se ha vuelto tan omnipresente que incluso el Departamento de Trabajo ha destacado la codificaci\\xF3n como una de las habilidades de m\\xE1s r\\xE1pido crecimiento en demanda.\nLa codificaci\\xF3n se considera m\\xE1s com\\xFAnmente como la capacidad de crear sitios web, aplicaciones y software. Sin embargo, en realidad hay muchos tipos diferentes de codificaci\\xF3n. La programaci\\xF3n (o codificaci\\xF3n) de computadoras implica escribir instrucciones para que las computadoras realicen ciertas acciones o funciones. El tipo de codificaci\\xF3n que elija aprender puede tener diferentes aplicaciones seg\\xFAn sus intereses, trayectoria profesional y fortalezas personales. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los distintos tipos de codificaci\\xF3n, as\\xED como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-codificar-mas-rapido",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Codificar Más Rápido",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar como desarrollador nunca es f\\xE1cil. Tendr\\xE1s que enfrentar desaf\\xEDos y dificultades en tu trabajo casi todos los d\\xEDas. Para superar estos desaf\\xEDos, debe encontrar constantemente formas de mejorar su eficiencia y velocidad de codificaci\\xF3n.\nTrabajar de manera eficiente como ingeniero de software es un desaf\\xEDo para la mayor\\xEDa de las personas. La mayor\\xEDa de los desarrolladores tienen tantas cosas diferentes en mente en un momento dado que puede ser dif\\xEDcil hacer un seguimiento de todo simult\\xE1neamente. Como resultado, la mayor\\xEDa de los codificadores se desempe\\xF1an lentamente porque piensan demasiado en lo que est\\xE1n haciendo en lugar de simplemente hacerlo. Sin embargo, con pr\\xE1ctica y dedicaci\\xF3n, puedes aprender a codificar m\\xE1s r\\xE1pido.\nA continuaci\\xF3n, lo guiaremos a trav\\xE9s de algunos consejos que lo ayudar\\xE1n a ser m\\xE1s productivo con su codificaci\\xF3n y acelerar significativamente su flujo de trabajo. Con estos consejos podr\\xE1s`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

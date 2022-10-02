@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Lea y comprenda los conceptos b\\xE1sicos antes de sumergirse.\"),mdx(\"p\",null,`Antes de siquiera tocar un teclado, debe asegurarse de comprender los conceptos b\\xE1sicos de la codificaci\\xF3n. \\xBFQu\\xE9 es una variable? \\xBFC\\xF3mo usas los comentarios? \\xBFQu\\xE9 es un booleano? Tambi\\xE9n deber\\xE1 comprender los principios de las puertas l\\xF3gicas y las puertas l\\xF3gicas booleanas si desea comprender c\\xF3mo funcionan las computadoras.\nLa buena noticia es que no necesita saber todo acerca de la codificaci\\xF3n antes de comenzar. Puede comenzar con una aplicaci\\xF3n simple como una calculadora que le pide que escriba ecuaciones matem\\xE1ticas como 2+3 para encontrar la respuesta de 5.\nTambi\\xE9n puede comenzar con un programa que le permita crear animaciones y gr\\xE1ficos simples. Este tipo de programas son excelentes para principiantes, ya que no requieren ning\\xFAn conocimiento de lenguajes de codificaci\\xF3n complejos. Una vez que se sienta m\\xE1s seguro y c\\xF3modo con los conceptos b\\xE1sicos, puede pasar a aplicaciones m\\xE1s exigentes que requieren habilidades de codificaci\\xF3n m\\xE1s avanzadas.`),mdx(\"h2\",null,\"Use un depurador de c\\xF3digo para corregir errores.\"),mdx(\"p\",null,`Todos los programadores cometen errores, y si reci\\xE9n est\\xE1 comenzando, seguramente cometer\\xE1 algunos. Pero no te preocupes, es completamente normal.\nLa mejor manera de encontrar y corregir errores en su c\\xF3digo es usar un depurador. Un depurador es un programa que lo ayuda a determinar d\\xF3nde ocurri\\xF3 un error al permitirle \"pausar\" y \"rebobinar\" su c\\xF3digo para que pueda ver qu\\xE9 est\\xE1 haciendo y d\\xF3nde est\\xE1 fallando.\nDeber\\xEDa poder encontrar depuradores para cualquier lenguaje de programaci\\xF3n que est\\xE9 usando en l\\xEDnea. Si tiene dificultades, es una buena idea pedir consejo a otros codificadores en foros en l\\xEDnea. Es probable que est\\xE9n felices de ayudar.`),mdx(\"h2\",null,\"No tengas miedo de usar comentarios cuando sea necesario.\"),mdx(\"p\",null,`Los humanos son mucho mejores para leer en ingl\\xE9s simple que para tratar de descifrar el c\\xF3digo de alguien. Esta es la raz\\xF3n por la que siempre debes comentar tu c\\xF3digo. Comentar su c\\xF3digo lo hace mucho m\\xE1s legible y f\\xE1cil de seguir, incluso para otros programadores.\nSiempre debe comentar el prop\\xF3sito de su c\\xF3digo y lo que hace, as\\xED como por qu\\xE9 lo ha hecho de cierta manera. Esto demuestra que ha pensado en su c\\xF3digo y lo que hace, y har\\xE1 que sea mucho m\\xE1s f\\xE1cil para otras personas usar su c\\xF3digo y actualizarlo en una fecha posterior.\nTambi\\xE9n debe comentar si est\\xE1 utilizando un c\\xF3digo complejo para evitar tener que volver a escribirlo en el futuro si es necesario, o si est\\xE1 compartiendo su c\\xF3digo con otras personas.`),mdx(\"h2\",null,\"Intente utilizar condicionales al tomar decisiones.\"),mdx(\"p\",null,`Esta es una t\\xE9cnica de programaci\\xF3n de uso com\\xFAn que le permite tomar decisiones basadas en ciertos valores.\nPor ejemplo, si est\\xE1 creando un juego, es posible que desee usar un condicional para verificar si al jugador le quedan tres vidas para que tenga la opci\\xF3n de continuar jugando.\nSi est\\xE1 creando un sitio web, es posible que desee usar un condicional para ver si un visitante est\\xE1 usando un dispositivo Apple o un dispositivo de PC para que sepa qu\\xE9 bot\\xF3n mostrarle.\nLos condicionales deben usarse en casi todas las aplicaciones que cree, ya que son una forma de programaci\\xF3n extremadamente eficiente y \\xFAtil.\nAseg\\xFArese de comprender la diferencia entre las sentencias if-then y las sentencias switch. Las declaraciones if-then esencialmente verifican una variable y las declaraciones de cambio verifican m\\xFAltiples variables.`),mdx(\"h2\",null,\"Use bucles for cuando trabaje con arreglos o colecciones.\"),mdx(\"p\",null,`Una matriz es esencialmente una lista de valores que almacena bajo un nombre de variable. Por ejemplo, podr\\xEDa tener una matriz que almacene sus colores favoritos. Podr\\xEDa tener una matriz con los colores rojo, azul y verde bajo el nombre de variable \"Colores\".\nA continuaci\\xF3n, puede acceder a estos valores y manipularlos como si estuvieran almacenados en diferentes variables, lo que efectivamente es.\nDebe usar bucles for cuando trabaje con matrices o colecciones porque son mucho m\\xE1s f\\xE1ciles y eficientes que las declaraciones if-then-else.\nPor ejemplo, si est\\xE1 tratando de encontrar el n\\xFAmero m\\xE1s alto en una colecci\\xF3n de n\\xFAmeros al sumarlos, con un ciclo for puede simplemente escribir el nombre de la matriz m\\xE1s la palabra \"m\\xE1ximo\".`),mdx(\"h2\",null,\"Tenga cuidado al usar cajas de interruptores.\"),mdx(\"p\",null,`Los casos de cambio son quiz\\xE1s una de las t\\xE9cnicas de programaci\\xF3n m\\xE1s utilizadas. Puede usarlos para comparar valores o realizar acciones basadas en un valor.\nPor ejemplo, si est\\xE1 creando un juego y desea averiguar cu\\xE1ntos puntos tiene un jugador, puede usar un caso de cambio para comparar la cantidad de puntos que tiene con un n\\xFAmero establecido para averiguar cu\\xE1ntos puntos tiene el jugador.`),mdx(\"p\",null,`Los casos de interruptores son extremadamente \\xFAtiles y son una de las t\\xE9cnicas de programaci\\xF3n m\\xE1s utilizadas. Sin embargo, es importante recordar que solo debe usarlos cuando no es necesario un condicional.\nLos casos de cambio son buenos para comparar valores o realizar acciones en funci\\xF3n de un valor, pero no son buenos cuando desea verificar si un valor es verdadero o falso. Debe usar declaraciones si-entonces cuando desee verificar si algo es verdadero o falso.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"La codificaci\\xF3n es una habilidad que es \\xFAtil para muchas carreras y hay muchas maneras de aprender. Si bien cada persona es diferente, hay algunos consejos que pueden ayudar a los principiantes a comenzar. Una vez que comprenda estos principios, su c\\xF3digo se volver\\xE1 m\\xE1s legible y l\\xF3gico, y sus programas se ejecutar\\xE1n de manera m\\xE1s eficiente.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwg5rQEAAP71+b2isyLTaXAYLXKLh7hgPvnF/Itv+Wbydcqf0Sv5do0L7+FLPB/50NQX/m0+/Jf0Zjqi45Z239normqQ+n0AAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-manana",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Mañana",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que quieres entrar en la programaci\\xF3n, pero no est\\xE1s seguro de por d\\xF3nde empezar. Sabes que existen muchos lenguajes de programaci\\xF3n diferentes y que se pueden usar para diferentes cosas, pero \\xBFcu\\xE1l es el mejor para aprender primero? Bueno, te sorprender\\xE1 saber que es Python. \\xBFPor qu\\xE9? Porque es el lenguaje del ma\\xF1ana.\nAhora podr\\xEDas estar pensando: \\xBFPor qu\\xE9 eso lo convierte en el idioma del ma\\xF1ana? Despu\\xE9s de todo, \\xBFno deber\\xEDamos centrarnos en aprender lenguajes como COBOL que nos ayudar\\xE1n en nuestra futura carrera como contadores o algo as\\xED? Bueno... tal vez. Pero tal vez no tanto. Mira, mientras esos otros lenguajes de programaci\\xF3n son geniales para algunas cosas, no lo son tanto para otras. Y cuando echamos un vistazo a lo que otros lenguajes de programaci\\xF3n no podr\\xE1n hacer en el futuro debido a sus limitaciones (o tal vez solo a su edad), vemos por qu\\xE9 los programadores de hoy dicen que Python ser\\xE1 el lenguaje dominante de ma\\xF1ana. \\xA1Vamos a sumergirnos en por qu\\xE9 echando un vistazo a varias razones por las que Python es un primer lenguaje de programaci\\xF3n fant\\xE1stico para aprender hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/packages-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAsk/hKFyFAAA9438Qif7NTx4/XBGfvlPNqVZ278xZVveVdYm28CSe79qqrt6COwDPzbZqn42+4pPcjM1VxGEtpNgmo7e/9MwWmBePk/c23ff6zKbDrlj7KPV/xyO4cv/0YDVmJY2DhsPCaf2hlJDM7wBPGjAAAA=",
+      "createdAt": "Tue Mar 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "paquetes-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Paquetes En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este mundo digital, todo se est\\xE1 volviendo digital. Incluso el campo de la programaci\\xF3n se est\\xE1 desplazando hacia plataformas y soluciones m\\xE1s digitalizadas. En tal escenario, surge la necesidad de programas compactos que puedan instalarse y usarse f\\xE1cilmente en cualquier dispositivo. Ah\\xED es donde entran en juego los paquetes de Java.\nUn paquete en Java es una colecci\\xF3n de clases, interfaces, enumeraciones y subpaquetes relacionados bajo un mismo paraguas. Como ya habr\\xE1 entendido de la explicaci\\xF3n anterior, los paquetes son una excelente manera de organizar su c\\xF3digo en unidades l\\xF3gicas que se pueden reutilizar en todos los proyectos. Los paquetes lo ayudan a evitar conflictos de nombres con otras bibliotecas o programas y ayudan a mantener juntas las cosas relacionadas para que sean m\\xE1s f\\xE1ciles de encontrar m\\xE1s adelante. Echemos un vistazo a algunos paquetes comunes de Java:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJaQAAu0ePvhjhZ4AAP7+x4hxeXw6dxYcl88AZjT2H15a9Z0CpcHW6h2UiEe3pRRbZeZflKo2+QLyvlWDkoZn2QAAAA==",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-una-herramienta-para-el-analisis-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Una Herramienta Para El Análisis De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El an\\xE1lisis de datos es un elemento crucial de muchos campos en la actualidad. Dado que los datos se recopilan de todas las fuentes, las empresas deben usar los datos de manera efectiva para impulsar su empresa. Las organizaciones est\\xE1n recurriendo al software de an\\xE1lisis de datos para procesar y comprender la informaci\\xF3n que han almacenado.\nEl an\\xE1lisis de datos es un proceso complejo que implica limpiar, explorar, visualizar y comprender datos desde diferentes \\xE1ngulos. Python es una de las herramientas m\\xE1s poderosas para el an\\xE1lisis de datos debido a su versatilidad y amplias bibliotecas para la manipulaci\\xF3n de datos. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 tantas empresas eligen Python para el an\\xE1lisis de datos, qu\\xE9 puede hacer por usted y c\\xF3mo puede implementarlo en su propio negocio.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-una-carrera-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Una Carrera De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son responsables de desarrollar software nuevo o corregir el c\\xF3digo existente para asegurarse de que satisfaga las necesidades del usuario y funcione como se espera. Usan el pensamiento l\\xF3gico, habilidades para resolver problemas y una variedad de principios t\\xE9cnicos cuando crean y prueban aplicaciones de software. Como ingeniero de software, podr\\xEDa tener la oportunidad de trabajar en proyectos que resuelven problemas desafiantes. Esta carrera puede ayudarlo a adquirir nuevas habilidades, avanzar en su carrera y construir un futuro m\\xE1s estable para usted. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 deber\\xEDa considerar hacer una carrera en ingenier\\xEDa de software si est\\xE1 interesado en la inform\\xE1tica u otro campo STEM.\nLos ingenieros de software tienen algunos de los trabajos m\\xE1s din\\xE1micos en la actualidad porque la tecnolog\\xEDa est\\xE1 cambiando muy r\\xE1pidamente. Pero, \\xBFqu\\xE9 significa exactamente ser ingeniero? Bueno, un ingeniero es alguien que combina la ciencia con el pensamiento l\\xF3gico y la creatividad para producir nuevas ideas o innovaciones \\xFAtiles que satisfagan las necesidades y los desaf\\xEDos humanos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ajuste Del Rendimiento De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-codificar-mas-rapido",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Codificar Más Rápido",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar como desarrollador nunca es f\\xE1cil. Tendr\\xE1s que enfrentar desaf\\xEDos y dificultades en tu trabajo casi todos los d\\xEDas. Para superar estos desaf\\xEDos, debe encontrar constantemente formas de mejorar su eficiencia y velocidad de codificaci\\xF3n.\nTrabajar de manera eficiente como ingeniero de software es un desaf\\xEDo para la mayor\\xEDa de las personas. La mayor\\xEDa de los desarrolladores tienen tantas cosas diferentes en mente en un momento dado que puede ser dif\\xEDcil hacer un seguimiento de todo simult\\xE1neamente. Como resultado, la mayor\\xEDa de los codificadores se desempe\\xF1an lentamente porque piensan demasiado en lo que est\\xE1n haciendo en lugar de simplemente hacerlo. Sin embargo, con pr\\xE1ctica y dedicaci\\xF3n, puedes aprender a codificar m\\xE1s r\\xE1pido.\nA continuaci\\xF3n, lo guiaremos a trav\\xE9s de algunos consejos que lo ayudar\\xE1n a ser m\\xE1s productivo con su codificaci\\xF3n y acelerar significativamente su flujo de trabajo. Con estos consejos podr\\xE1s`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-computacion-paralela",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Computación Paralela",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Si ha le\\xEDdo sobre el mundo de la computaci\\xF3n paralela, sabr\\xE1 que es un campo que est\\xE1 creciendo r\\xE1pidamente en importancia. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente. Esta capacidad de ejecutar m\\xFAltiples procesos simult\\xE1neamente conduce a resultados m\\xE1s r\\xE1pidos y eficientes. Las aplicaciones como la inteligencia artificial, el reconocimiento de im\\xE1genes y el procesamiento del lenguaje natural son campos que pueden beneficiarse enormemente de las t\\xE9cnicas de computaci\\xF3n paralela. Debido a esta demanda de t\\xE9cnicas de computaci\\xF3n paralela, existen muchos lenguajes de programaci\\xF3n disponibles espec\\xEDficamente para este prop\\xF3sito. El lenguaje Go es uno de esos ejemplos. En este art\\xEDculo, explicaremos qu\\xE9 es Go y sus beneficios para la computaci\\xF3n paralela.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-consejos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Consejos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Hay muchas razones para aprender a codificar. Esta habilidad digital te da el poder de crear sitios web, aplicaciones o videojuegos desde cero sin tener que pagarle a alguien m\\xE1s para que lo haga por ti. No solo eso, la codificaci\\xF3n se puede usar en muchas industrias y trabajos diferentes. Tambi\\xE9n es una excelente manera de ganar dinero en l\\xEDnea como un proyecto paralelo si tiene otras ambiciones. Sin embargo, si nunca ha codificado antes, puede parecer un desaf\\xEDo imposible. No es algo que puedas buscar en Google o Netflix, requiere dedicaci\\xF3n y pr\\xE1ctica. Afortunadamente, hay muchos recursos gratuitos disponibles en Internet que lo ayudar\\xE1n a comenzar con los conceptos b\\xE1sicos de codificaci\\xF3n y desarrollar sus habilidades con el tiempo. El siguiente art\\xEDculo destaca algunos de los mejores consejos para principiantes que quieren aprender a programar en 2018 y m\\xE1s all\\xE1.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje De La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La inteligencia artificial ya no es una tecnolog\\xEDa del futuro, sino algo que ha comenzado a alterar varias industrias en la actualidad. Existen numerosos roles, m\\xE1s all\\xE1 de los ingenieros de aprendizaje autom\\xE1tico obvios en los que puede especializarse para ayudar a dar vida a los proyectos de IA. Hemos enumerado los principales lenguajes de programaci\\xF3n para IA a continuaci\\xF3n, para que pueda elegir el correcto y comenzar su propio proyecto de IA de inmediato.\nSi reci\\xE9n est\\xE1 comenzando con la codificaci\\xF3n o planea sumergirse m\\xE1s profundamente en el futuro, este art\\xEDculo le dar\\xE1 una idea de los diferentes lenguajes de programaci\\xF3n disponibles. Cada uno de estos lenguajes tiene ciertas caracter\\xEDsticas que los hacen especialmente \\xFAtiles a la hora de crear aplicaciones de inteligencia artificial. Sigue leyendo para obtener m\\xE1s informaci\\xF3n sobre estos \\xFAtiles lenguajes de programaci\\xF3n y cu\\xE1l se adapta mejor a tus necesidades. Sigue leyendo para saber m\\xE1s`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...l}){return mdx(MDXLayout,{...layoutProps,...l,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Create and Read Files\"),mdx(\"p\",null,\"Before you can write to a file, you need to create it. The simplest way to do this is with the \\u201CNew\\u201D command.\"),mdx(\"p\",null,\"file = New>.../New>\"),mdx(\"p\",null,\"Here, file is the variable that will reference the file in future. This can be any string that makes sense to you, e.g. \\u201Cexample.txt\\u201D. You can also assign a file path like this:\"),mdx(\"p\",null,\"file = New> C:/Users/Username/Desktop/example.txt\"),mdx(\"p\",null,\"The \\u201CNew\\u201D command creates an empty file for you. If you want to create a file and fill it with some data, you can do so with the \\u201CAppend\\u201D function.\"),mdx(\"h2\",null,\"Updating Files\"),mdx(\"p\",null,\"If you want to add more data to an existing file, you can use the \\u201CWrite\\u201D function. The syntax for this is\"),mdx(\"p\",null,\"file.Write(String data)\"),mdx(\"p\",null,\"where \\u201Cdata\\u201D is the information you want to append.\"),mdx(\"p\",null,\"You can also update an existing file with a new version of itself, e.g. \\u201Cexample.txt\\u201D with new information. To do this, you will need to read the old file\\u2019s contents into a string and then write that data back to the file.\"),mdx(\"h2\",null,\"Deleting Files\"),mdx(\"p\",null,\"You can delete a file with the \\u201CDelete\\u201D function. Here\\u2019s how it works\"),mdx(\"p\",null,\"file.Delete()\"),mdx(\"p\",null,\"This will remove a file if it\\u2019s empty, or if it contains data, it will be marked for deletion. If the file is a \\u201Csystem file\\u201D, it cannot be deleted. Here\\u2019s a list of the files that cannot be deleted:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"AppData/Oracle/Oracle_javavm_log/logging.properties\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"AppData/Oracle/javavm/logging.properties\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"AppData/Oracle/jvm.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boot/vmlinuz*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boot/vmlinuz-*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boot/vmlinu*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boot/vmlinu-*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boot/vmlinuz.old\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boot/vmlinuz.bak\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/core-*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/hs_err_pid*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/hs\",mdx(\"em\",{parentName:\"p\"},\"err\"),\"*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/hs\",mdx(\"em\",{parentName:\"p\"},\"err\"),\"*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/hs_err_pid*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Core/System/LoggerH\"))))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-cloud-computing",
+      "locale": "en",
+      "title": "Go Language for Cloud Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJagCdAEQD2Rd7IQAAP790mPps9hl3VCiK5WogAykPi06jEUy0T+Yw0ew4Fkz2mTdO8M3KpmUfnzMP4IimeRhY2ckCi/4h5/6WwK+gWLKosr892gAAA==",
+      "createdAt": "Thu Mar 31 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-security",
+      "locale": "en",
+      "title": "Java Security",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
+      "createdAt": "Sat Oct 02 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-future",
+      "locale": "en",
+      "title": "Python - The Language of the Future",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

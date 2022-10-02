@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Editor\\u2019s note: At the time of writing this, all of the recommendations below are free to read for anyone. However, it\\u2019s worth noting that some of these publications do have paid subscriptions with additional benefits like access to their vast digital libraries and automatic downloads of articles for reading off-line. If you want to read more about software engineering journals in general, check out the \\u201CWhy You Should Read Scientific Journals\\u201D section at the end of this article. END editor's note>\"),mdx(\"h2\",null,\"Software Engineering Conferences\"),mdx(\"p\",null,\"As you can see from the list of journals, conferences are probably a better way to go than journals for keeping up to date with the latest research in your field. Conferences are much more timely than journals, since they publish the papers delivered at their events fairly soon after the conferences conclude.\"),mdx(\"p\",null,\"There are many software engineering conferences all over the world, many of which are free to attend. Conferences are a great way to network with other software engineers in your field, as well as find out about interesting research going on in your field. You can also present your own research at conferences if you have any worth publishing!\"),mdx(\"h2\",null,\"IFIP International Conference on Software Engineering\"),mdx(\"p\",null,\"The IFIP Conference is held every two years in a different location all over the world. The conference has been published in a journal since its inception in 1970, with the first volume of the journal published in 1971. The journal is published by Springer, which means that it is accessible to most people online. The editors of the journal accept papers in a variety of topics related to software engineering, including business aspects of software engineering, formal methods, and requirements engineering.\"),mdx(\"h2\",null,\"IEEE International Conference on Software Engineering\"),mdx(\"p\",null,\"Unlike the IFIP conference, the IEEE conference is held annually. The conference has been published in a journal since the late 1980s. The journal is published by the IEEE Computer Society, which means that the journal is only accessible to subscribers to the society. The IEEE conference publishes papers on a variety of topics related to software engineering, with a special focus on systems engineering and software product engineering.\"),mdx(\"h2\",null,\"ACM SIGSOFT International Symposium on Software Engineering Practices\"),mdx(\"p\",null,\"The ACM SIGSOFT conference publishes papers every other year that focus on research in software engineering practices. The conference has been published in a journal since 2006, and is published by ACM. The journal is accessible to some people online, but the vast majority of readers must be subscribers to the journal. The journal publishes papers on a variety of topics related to software engineering practices.\"),mdx(\"h2\",null,\"IEEE International Conference on Software Quality, Reliability and Security\"),mdx(\"p\",null,\"The IEEE conference publishes papers every two years on a variety of topics related to software quality, reliability, and security. The conference has been published in a journal since 1992, and is published by IEEE. The journal is accessible to most people online. The journal publishes papers on a variety of topics related to software quality, reliability, and security.\"),mdx(\"h2\",null,\"IEEE Computer Software and Applications Conference (COMPSAC)\"),mdx(\"p\",null,\"The IEEE conference publishes papers every two years on a variety of topics related to computer software and applications. The conference has been published in a journal since its inception in 1960, and is published by IEEE. The journal is accessible to most people online, but it is behind a paywall. The journal publishes papers on a variety of topics related to computer software and applications.\"),mdx(\"h2\",null,\"IEEE International Conference on Dependable, Secure and Trustworthy Computing\"),mdx(\"p\",null,\"The IEEE conference publishes papers every two years on a variety of topics related to dependability, security, and trust in computing systems. The conference has been published in a journal since 1993, and is published by IEEE. The journal is accessible to most people online. The journal publishes papers on a variety of topics related to dependability, security, and trust in computing systems.\"),mdx(\"h2\",null,\"IEEE International Conference on Software Quality, Reliability and Security\"),mdx(\"p\",null,\"The IEEE conference publishes papers every two years on a variety of topics related to software quality, reliability, and security. The conference has been published in a journal since 1992, and is published by IEEE. The journal is accessible to most people online. The journal publishes papers on a variety of topics related to software quality, reliability, and security.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"As you can see, there are many software engineering journals out there. Each publishes papers related to a specific topic within software engineering. If you want to be a successful software engineer, you need to keep up with what\\u2019s going on in your field. One of the best ways to do that is to read articles published in journals related to software engineering.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "exception-handling-in-java",
+      "locale": "en",
+      "title": "Exception Handling in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-improve-your-coding-skills",
+      "locale": "en",
+      "title": "How to Improve Your Coding Skills",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
+      "locale": "en",
+      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-javaserver-faces-application",
+      "locale": "en",
+      "title": "Building a Javaserver Faces Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwg5rQEAAP71+b2isyLTaXAYLXKLh7hgPvnF/Itv+Wbydcqf0Sv5do0L7+FLPB/50NQX/m0+/Jf0Zjqi45Z239normqQ+n0AAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-tomorrow",
+      "locale": "en",
+      "title": "Python - The Language of Tomorrow",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "rich-internet-applications-with-java",
+      "locale": "en",
+      "title": "Rich Internet Applications with Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Rich Internet applications, or RIAs, are web-based applications that feature greater interactivity than standard websites. Rather than simply enabling users to access information from a website, RIA applications typically provide users with the ability to take action on that content. For example, rather than simply providing users with information about a product and its price, an RIA application might enable users to add the product to a shopping cart and complete the purchase process.\nThis article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you\\u2019re planning on creating one.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-database-programming",
+      "locale": "en",
+      "title": "Python - The Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an immensely powerful programming language that offers a variety of uses. It can be used for almost any task, from small one-off projects to large frameworks for server-side development, web applications, and even mobile apps. One area in which Python excels is database programming. In this article, we explain why that\\u2019s the case and explore the different ways in which you can use Python for database programming.\nThis blog post is part of our ongoing \\u201CCoding in CV\\u201D series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJbACdLoB+AARC5llxEIhYwAA/uhnVurOlaQ/z3wtKM/gWLP6TQ2cgSPKxu80JSwmR+kVQw5f0WKh0wP/5g3ePBo69avNyn+RiRPJ9bk7Y56b3f/3n2l71O8d+/xDWCP/as5/pW/+SpCwmQ+9prhAAAA=",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

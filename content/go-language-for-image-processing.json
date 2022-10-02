@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Reduced Development Time\"),mdx(\"p\",null,\"Writing code in Go is a relatively straightforward task, thanks to its clean syntax and lack of excessive syntax. This makes it easy for new developers to get up to speed with the language quickly and lets them focus on the functionality of the code rather than the syntax itself. This, in turn, cuts down on development time and leads to faster iterations during the development process.\"),mdx(\"p\",null,\"Another advantage of using Go is that it compiles to native code that can run on multiple platforms without needing to be rewritten. This native code has fewer dependencies than code written in other programming languages. Dependencies such as third-party libraries can slow down development and create additional maintenance burdens as those dependencies change over time. By using Go, you can sidestep these issues.\"),mdx(\"h2\",null,\"High Performance\"),mdx(\"p\",null,\"Developers often use Go for low-level systems where performance is a critical concern. Several factors contribute to Go\\u2019s high performance. First, the compiler used to create executable binaries from Go code is highly optimized for speed. Second, Go code compiles directly to machine code (native code) for each specific hardware platform. This means that Go programs don\\u2019t run in a virtual machine like other systems written in languages like Python or Ruby.\"),mdx(\"p\",null,\"Finally, Go\\u2019s runtime is lightweight, which means that it doesn\\u2019t use a lot of system resources even when running in a production environment. This is especially important for low-level systems that may need to process a huge amount of data.\"),mdx(\"h2\",null,\"Concurrency Support\"),mdx(\"p\",null,`Go\\u2019s built-in concurrency model lets developers write programs with many running processes. This is useful in production environments where multiple computers are processing the same data and it\\u2019s necessary to coordinate those processes to avoid data corruption.\nGo\\u2019s concurrency model is simple, and the language\\u2019s syntax lets you write programs that coordinate concurrent processes without getting too bogged down in the details of the model. This makes it easier to focus on the logic of your program rather than the low-level details of how to manage concurrent processes.`),mdx(\"p\",null,\"While concurrency is an important feature, it\\u2019s important to note that it\\u2019s not a silver bullet. Using concurrency is a complicated process, and it\\u2019s important to use it correctly to avoid data corruption and other issues.\"),mdx(\"h2\",null,\"Writing Image Processing Libraries in Go\"),mdx(\"p\",null,`Image processing libraries in Go are a popular use case for the language. Although Go doesn\\u2019t have built-in image processing capabilities, it\\u2019s easy to create libraries for manipulating images within the language.\nGo\\u2019s built-in libraries are lightweight, which means that image processing libraries can use as few resources as possible while still offering robust functionality. This makes Go an ideal language for writing image processing libraries that work across multiple platforms without requiring too much system resources.`),mdx(\"h2\",null,\"Webcam Streaming with Go\"),mdx(\"p\",null,`Webcam streaming is a popular use case for Go. Many companies use webcam streaming to let remote employees participate in virtual meetings. This might involve using a camera connected to a computer to stream video of employees at remote sites.\nGo has many built-in libraries that make it easy to interact with external devices like webcams, making it a good language for webcam streaming.`),mdx(\"p\",null,\"Another advantage of using Go for webcam streaming is that it\\u2019s easy to create a program that\\u2019s concurrent. This is important because it means that multiple processes can interact with the webcam at the same time. This is necessary for webcam streaming because multiple streams must be sent to different remote computers.\"),mdx(\"h2\",null,\"Photo Manipulation with Go\"),mdx(\"p\",null,`Go is an ideal language for performing image manipulation tasks. Go\\u2019s standard image library has many built-in functions for manipulating images. This makes it easy to perform basic tasks like resizing images or applying filters.\nThere are also several third-party libraries that provide additional functionality for image processing tasks such as GoImager and Goxer. These libraries let you perform more complex image manipulation tasks such as applying machine learning algorithms on images.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Go is an ideal language for image processing tasks because it\\u2019s easy to write code and there\\u2019s a built-in library for manipulating images. Many popular image processing functions are available in the standard library, and third-party libraries let you perform more complex image manipulation tasks.\"),mdx(\"p\",null,\"Go is also an ideal language for webcam streaming and photo manipulation because it\\u2019s easy to write code and there\\u2019s a built-in library for manipulating images. Finally, Go\\u2019s concurrency model is useful for programs that involve multiple processes.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
+      "createdAt": "Sat Jan 23 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "web-applications-with-java",
+      "locale": "en",
+      "title": "Web Applications with Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
+      "createdAt": "Thu Jun 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

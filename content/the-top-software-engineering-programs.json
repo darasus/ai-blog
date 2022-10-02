@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Overview of Software Engineering\"),mdx(\"p\",null,\"The field of software engineering is one of the most important and fastest-growing in today\\u2019s economy. Software has become an indispensable part of our daily lives, and the software engineering profession helps create and develop the systems and programs that run our computers and other digital technology. As a software engineer, you would be involved in every step of the process of designing and creating software systems, including designing the systems and how they will work, creating the system\\u2019s design and code, testing the code, and correcting any problems in the code. Software engineering is an extremely broad field, covering many different areas. Software engineers can work with a variety of different types of systems, including computer systems, mobile device systems, and embedded systems that are used in everyday devices like cars, robots, and medical devices. Software engineers can work in many different industries, including health care, transportation, public utilities, retail, and finance.\"),mdx(\"h2\",null,\"Computer Science Degree Programs\"),mdx(\"p\",null,`Computer science programs generally focus on the theory and practice of computer programming and typically provide a strong foundation for a career in software engineering. Graduates from computer science programs typically have a good understanding of both computer hardware and software systems. Computer science programs usually include courses in computer architecture, software design and programming, the engineering of computer systems, and mathematical foundations of computer science. Some schools also offer additional courses in computer engineering, data analytics, artificial intelligence, or software engineering. Computer science programs can be accredited by ABET.\nThere are many different types of computer science programs available, and they often offer different strengths in terms of the specific skills and training they provide. While most computer science programs can provide a strong foundation for a career in software engineering, you should research specific program offerings to find the one that provides the skills and training you need.`),mdx(\"h2\",null,\"Software Engineering Degree Programs\"),mdx(\"p\",null,`Software engineering degree programs provide a more focused education on the skills and training needed to succeed as a software engineer. These programs include more hands-on training in software engineering and specific computer science skills related to engineering software systems. Many software engineering programs include courses in computer architecture, operating systems, software engineering, and data analytics. In addition, some programs offer courses in specific computer science topics relevant to software engineering, including algorithms and data structures, computer programming languages, and software testing and quality assurance.\nMost software engineering degree programs require students to take both computer science and specific software engineering courses. For example, a computer science major who wants to become a software engineer would likely need to take some additional software engineering courses to get the training they need.`),mdx(\"h2\",null,\"Professional Certificates for Software Engineers\"),mdx(\"p\",null,\"While a computer science degree provides an excellent foundation for a software engineering career, it isn\\u2019t always necessary. A software engineer who already has a computer science degree may choose to earn a professional certificate in software engineering to strengthen their skills and make themselves more employable. A professional certificate in software engineering provides the training needed to become a software engineer while still providing opportunities to advance in the field.\"),mdx(\"p\",null,\"There are a variety of different types of software engineering professional certificates available, including those that specialize in mobile app engineering, cloud computing, or software testing. Some schools also offer joint certificates in software engineering and computer science.\"),mdx(\"h2\",null,\"Computer Science and Engineering Double-Degree Programs\"),mdx(\"p\",null,`Some schools also offer double-degree programs that combine a computer science degree with a software engineering degree. These programs combine the strengths of both types of degree programs to provide a comprehensive education on computer science and software engineering. Double-degree programs usually require students to complete both degrees within a specified time frame, often four to five years.\nThese programs can be very beneficial to students who are unsure whether they want to pursue a computer science or software engineering degree and want to experience both fields. They also provide students with more flexibility in terms of pursuing specific software engineering specialties.`),mdx(\"p\",null,\"These programs are generally more difficult to pursue than earning two separate degrees, and students should carefully research and weigh their options before making a decision.\"),mdx(\"h2\",null,\"Bachelor\\u2019s Degrees for Software Engineers\"),mdx(\"p\",null,`Some schools also offer bachelor\\u2019s degrees in software engineering. Bachelor\\u2019s degrees in software engineering provide a more in-depth education in software engineering and focus on training students to apply their skills in the real world. Bachelor\\u2019s degrees in software engineering often include a combination of computer science, software engineering, and business courses, and many also provide the option to focus on a specific software engineering specialty.\nBachelor\\u2019s degrees in software engineering can be very beneficial for students who want more in-depth training in software engineering and want to enter the job market with more applicable skills. Bachelor\\u2019s degrees also provide more flexibility in terms of pursuing specific software engineering specialties, and graduates may be more employable than those with a computer science degree.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Software engineering is a broad and growing field, and there are many different types of software engineering degree programs available. Students interested in pursuing a career as a software engineer should research computer science and software engineering degree programs and select one that provides the skills and training they need to succeed. Some schools also offer double-degree programs that provide students with an in-depth education in both computer science and software engineering. \"),mdx(\"p\",null,\"With the growing demand for software engineers, there have never been more opportunities for those interested in this field to pursue a fulfilling and rewarding career. There are also many different types of software engineering programs available, which means there is something for everyone.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-natural-language-processing",
+      "locale": "en",
+      "title": "Python - The Language for Natural Language Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Natural language processing is the ability of a computer program to understand human speech. The primary benefit of natural language processing is that it allows users to communicate with a machine in a way they are most comfortable with. Computers can now understand, process, and react to human speech.  Natural Language Processing (NLP) is an area of artificial intelligence that enables computers to detect and understand human speech as well as written words. It involves the techniques and algorithms related to natural language processing such Artificial Intelligence, Machine Learning, Computer Vision, Information Retrieval, and Computer Speech Recognition.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-security",
+      "locale": "en",
+      "title": "Java Security",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgMXN5D2aXoAA/v0gv8ReNXMb93cO5Q/ov5GW+7UomsDg6mSnJQvkaEun240Wqgz+5CmEmoM/q1u81sk/UMTGXZSeVY/Glg3jlie1VGogcLxCsY3jL3//dhp8z3wc//k5MszuVtPwxuDYhl4AAAA=",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "typescript-a-beginners-guide-to-code-type-safety",
+      "locale": "en",
+      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
+      "createdAt": "Tue Mar 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
+      "locale": "en",
+      "title": "Learn JavaScript the Right Way: 10 Steps to Mastering JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that Javascript is the most popular programming language in the world? Did you also know that it\\u2019s one of the easiest programming languages to learn? That means more and more people are picking up this skill at lightning speed. It makes sense, considering how in-demand coding skills are right now. And with so many introductory resources available, why not pick up this skill sooner rather than later? After all, there\\u2019s no time like the present to take your career to new heights.\nWith that in mind, we\\u2019re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we\\u2019ve broken this guide down into easy-to-digest sections. If you\\u2019re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJaACdAYrTkvy7OhwAP7+DL3G5B1Fvasbbu3eiP+OD56cz+2n8bLMjhy6bsxVss4/jD/2Pr6JcaQ02jfPyXVM/B4RDFMjs3ii+f/PPv79Mnm02910mVKW7SN/qm134lyb1zcXiBH/VbM9/V+9fvd/+45MQAAA",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-distributed-computing",
+      "locale": "en",
+      "title": "Go Language for Distributed Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

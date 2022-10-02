@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...i}){return mdx(MDXLayout,{...layoutProps,...i,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Go Language?\"),mdx(\"p\",null,`Go is a language used for general purpose programming and distributed computing. It was created at Google, and then open sourced to the public in 2009.\nGo is a compiled language, meaning that the code you write and the application you create are turned into machine code for the computer to read and then run. Code can be compiled for many different platforms, including Windows, Mac, Linux, Android, and iOS.\nGo is a high-level programming language, meaning that it is designed to be easy to read and write.\nIt is also considered a compiled, static language (meaning that it does not run on a runtime like Python does). This makes it more efficient as it does not have to parse and re-parse code at runtime like Python does.`),mdx(\"h2\",null,\"Why use Go for Distributed Computing?\"),mdx(\"p\",null,`Go is designed to be efficient in terms of memory use and speed. This makes it ideal for distributed computing because it relies on the collective processing power of many computers at once.\nGo is a compiled language, and compiled languages are generally more efficient than languages that are interpreted (like Python).\nDistributed computing involves breaking down tasks into parts that can be run on different machines at once. Go\\u2019s built-in concurrency features make this easy to do.\nGo was created by Google, and Google has years of experience with distributed computing. This means that Go is well-suited to distributed computing, and Google\\u2019s knowledge can be applied to various distributed computing tasks.`),mdx(\"h2\",null,\"Go for Machine Learning\"),mdx(\"p\",null,`Machine learning uses computer algorithms to process and analyze large amounts of data to make predictions or draw conclusions. Go\\u2019s efficient memory use and its built-in libraries for distributed processing make it a great language for machine learning.\nGo\\u2019s built-in libraries allow developers to build machine learning functionality into their apps, making the language ideal for use cases like image recognition, natural language processing, and more.\nComputer scientists can also use Go to create their own algorithms for machine learning. Since Go is open sourced, and the language is easily readable and understandable, anyone can examine the code and learn from it.\nGo\\u2019s efficient memory use and distributed processing also make it a great language for big data.`),mdx(\"h2\",null,\"Go for Natural Language Processing\"),mdx(\"p\",null,`Natural language processing is the study and implementation of computer algorithms that allow computers to interpret and analyze written human language like text and speech. Go\\u2019s efficient memory use and distributed processing make it a great language for natural language processing.\nGo\\u2019s built-in libraries make it easy to implement natural language processing functionality into apps.\nNatural language processing can be used for a variety of purposes, including speech recognition, text summarization, language translation, and more.\nThose who are creating their own algorithms for natural language processing can use Go to do so. The algorithms created in Go can then be applied to whatever problem the user is trying to solve.`),mdx(\"h2\",null,\"Go for Artificial Intelligence\"),mdx(\"p\",null,`Artificial intelligence is the simulation of human intelligence in machines through algorithms. Go can be used to create the algorithms for artificial intelligence.\nGo\\u2019s efficient memory use and distributed processing make it a great language for artificial intelligence.\nGo\\u2019s built-in libraries make it easy to create AI functionality into apps.\nArtificial intelligence can be used for a variety of different purposes, including image recognition, weather forecasting, stock market analysis, and more.`),mdx(\"h2\",null,\"Summary\"),mdx(\"p\",null,\"Distributed computing requires specific tools and technologies. Go is a great language to use for distributed computing because it is efficient in terms of memory use and speed. This makes it ideal for distributed computing because it relies on the collective processing power of many computers at once. Go is a compiled language, and compiled languages are generally more efficient than languages that are interpreted. Distributed computing involves breaking down tasks into parts that can be run on different machines at once. Go\\u2019s built-in concurrency features make this easy to do. Go was created by Google, and Google has years of experience with distributed computing. This means that Go is well-suited to distributed computing, and Google\\u2019s knowledge can be applied to distributed computing tasks.\"),mdx(\"p\",null,\"Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAYr7vtKwKgJ+AD+/dMt2lwUULDREX1J+IgQp0ozpvRc02wSfA8JxvQ12k5qhRNzMcFq/KPhvlZ7z4odbOX9/xoI0dCSFk8VlpRy7zhmecYccgVtaAAAAA==",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
+      "createdAt": "Wed May 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-data-science",
+      "locale": "en",
+      "title": "Go Language for Data Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADH0lMIAD970/UC/et1mciudnrQgkGB+dd2iPVamMHDUh7mdaC8G8P5X82xrJmLpm/aCpaKe2EDKZE8yPrpaHX/7eV4hc1UftQyoEVUfxZ7/8c2/8EGB1eOYrta97gAA==",
+      "createdAt": "Mon Jan 17 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-software-development",
+      "locale": "en",
+      "title": "Python - The Language for Software Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
+      "createdAt": "Sat Oct 02 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAreEru2AAP7zR9jGqPJGadLi9+v/tC82cNq9UFopDMSFDzK9Y+Efid49hRnu4PGnO2k2cc8Xc+0q6D+MFCcFuRmt0TXilwv/tQo3/TwE/8w3hGf/qYV4u5fub/+7J/6kAAAA",
+      "createdAt": "Tue Feb 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-image-processing",
+      "locale": "en",
+      "title": "Go Language for Image Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "creating-a-javafx-user-interface",
+      "locale": "en",
+      "title": "Creating a Javafx User Interface",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Almost every application needs a user interface. Applications with no user interface appear to be nothing more than programs running in the background on your computer.\nIt\\u2019s impossible to imagine any application that isn\\u2019t accessible through some sort of graphical user interface. JavaFX provides ways to build and implement interfaces that are engaging, dynamic, and responsive.\nEven though JavaFX is a very powerful library, it doesn\\u2019t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls \\u2013 there were a few controls which didn\\u2019t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).\nIf you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

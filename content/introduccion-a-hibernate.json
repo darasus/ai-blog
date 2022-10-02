@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Hibernate?\"),mdx(\"p\",null,`Hibernate es una implementaci\\xF3n de mapeo relacional de objetos (ORM) de c\\xF3digo abierto. El acr\\xF3nimo ORM significa Mapeo relacional de objetos. Es un paradigma de programaci\\xF3n que le permite acceder a los datos almacenados en una base de datos relacional utilizando las construcciones de programaci\\xF3n orientada a objetos (OOP) como clases, objetos, herencia, etc. En t\\xE9rminos simples, con esta API, puede escribir c\\xF3digo como si est\\xE1n trabajando con una estructura de datos local en memoria, pero su c\\xF3digo en realidad est\\xE1 accediendo a la base de datos.\nHibernate fue desarrollado inicialmente por Gavin King en 2001 y fue adquirido por Red Hat en 2007. Es uno de los marcos ORM m\\xE1s utilizados. Est\\xE1 disponible en forma de biblioteca que puede usar en Java, .NET, C++, etc. Hibernate es una herramienta extremadamente poderosa y flexible, pero tambi\\xE9n tiene una curva de aprendizaje pronunciada.`),mdx(\"h2\",null,\"Diferencias entre Hibernate, JDBC y JPA\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Hibernate vs JDBC - Hibernate es tanto una herramienta ORM como un envoltorio JDBC. Puede usarlo para asignar objetos administrados a tablas en una base de datos relacional. Por otro lado, JDBC es puramente una API de comunicaci\\xF3n de base de datos. No proporciona ninguna funcionalidad de mapeo.\"),mdx(\"li\",{parentName:\"ul\"},\"Hibernate vs JPA - JPA es un ecosistema de est\\xE1ndares y patrones de c\\xF3digo que facilitan el desarrollo de aplicaciones con un backend de persistencia (por ejemplo, una base de datos relacional). JPA especifica un mapeo est\\xE1ndar entre el lenguaje de programaci\\xF3n Java y una base de datos relacional. Hibern-ate es una herramienta ORM. No proporciona ninguna funcionalidad de mapeo. Debe usar un Object Relational Bridge (ORB) como Hiber-nate para acceder a los datos que residen en la base de datos relacional.\")),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 usar Hibernate?\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Es un marco de asignaci\\xF3n relacional de objetos (ORM) que simplifica el acceso a los datos en lenguajes de programaci\\xF3n modernos como Java, .NET, etc. Le permite escribir c\\xF3digo como si estuviera trabajando con una estructura de datos local en memoria, pero su c\\xF3digo es realmente accediendo a la base de datos.\"),mdx(\"li\",{parentName:\"ul\"},\"Facilita el desarrollo de aplicaciones empresariales robustas, de alto rendimiento y distribuibles.\"),mdx(\"li\",{parentName:\"ul\"},\"Hibernate es compatible con todas las principales bases de datos y se distribuye en entornos de nube.\"),mdx(\"li\",{parentName:\"ul\"},\"Es un marco de c\\xF3digo abierto que se usa ampliamente y tiene una comunidad activa.\"),mdx(\"li\",{parentName:\"ul\"},\"Facilita la comunicaci\\xF3n entre la aplicaci\\xF3n y la base de datos al mapear los tipos de datos.\"),mdx(\"li\",{parentName:\"ul\"},\"Proporciona un alto nivel de flexibilidad en el acceso y mapeo de datos.\")),mdx(\"h2\",null,\"Componentes principales de Hibernate\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Session: Es una instancia de SessionFactory que se encarga de administrar una transacci\\xF3n y un conjunto de objetos. Una sesi\\xF3n es una puerta de entrada a la fuente de datos subyacente. Es responsable de administrar un conjunto de objetos, ejecutar consultas SQL y asignar resultados a los objetos.\"),mdx(\"li\",{parentName:\"ul\"},\"SessionFactory: Es una instancia de SessionFactory que se encarga de crear una Sesi\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},\"Configuraci\\xF3n: Es una instancia de Configuraci\\xF3n que se encarga de gestionar los detalles de Configuraci\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},\"Tipos: Es una instancia de Tipo que se encarga de gestionar los metadatos de Tipo.\"),mdx(\"li\",{parentName:\"ul\"},\"Session Metadata: Es una instancia de SessionMetadata que se encarga de administrar los detalles de SessionMetadata.\"),mdx(\"li\",{parentName:\"ul\"},\"SQL Metadata: Es una instancia de SQLMetadata que se encarga de administrar los detalles de SQLMetadata.\")),mdx(\"h2\",null,\"Breve introducci\\xF3n al formato de mapeo\"),mdx(\"p\",null,\"El formato de mapeo entre objetos y tablas se define en el archivo hibernate .hbm.xml. El archivo de mapeo se crea en un formato jer\\xE1rquico donde el elemento ra\\xEDz es hibernate-mapping> y los elementos secundarios representan el mapeo entre los objetos y las tablas de la base de datos. Cada elemento de mapeo tiene un nombre definido usando la etiqueta name>. La etiqueta select> se usa para definir el mapeo entre las tablas result> y select>. La tabla select> es una representaci\\xF3n en memoria de la tabla de la base de datos. result> table es una tabla de mapeo que tiene la informaci\\xF3n de mapeo entre select> table y la tabla de la base de datos. La etiqueta where> se usa para definir la condici\\xF3n where. La etiqueta insert> se utiliza para insertar datos en la base de datos. La etiqueta delete> se utiliza para eliminar datos de la base de datos. La etiqueta update> se utiliza para actualizar datos en la base de datos.\"),mdx(\"h2\",null,\"Terminando\"),mdx(\"p\",null,\"Esto nos lleva al final de este blog. Esperamos que lo haya encontrado perspicaz y \\xFAtil. Estaremos subiendo con m\\xE1s blogs en esta serie. Mientras tanto, si tiene alguna pregunta o sugerencia, escr\\xEDbanos en la secci\\xF3n de comentarios a continuaci\\xF3n. \\xA1Mantente sintonizado para m\\xE1s!\"),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Hibernate es una implementaci\\xF3n de mapeo relacional de objetos (ORM) de c\\xF3digo abierto. El acr\\xF3nimo ORM significa Mapeo relacional de objetos. Es un paradigma de programaci\\xF3n que le permite acceder a los datos almacenados en una base de datos relacional utilizando las construcciones de la programaci\\xF3n orientada a objetos (POO) como clases, objetos, herencia, etc.\"),mdx(\"p\",null,\"Hibernate facilita el desarrollo de aplicaciones empresariales robustas, de alto rendimiento y distribuibles. Es una herramienta extremadamente poderosa y flexible, pero tambi\\xE9n tiene una curva de aprendizaje empinada.\"),mdx(\"h2\",null,\"\\xBFQu\\xE9 es Hibernate?\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwg5rQEAAP71+b2isyLTaXAYLXKLh7hgPvnF/Itv+Wbydcqf0Sv5do0L7+FLPB/50NQX/m0+/Jf0Zjqi45Z239normqQ+n0AAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-manana",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Mañana",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que quieres entrar en la programaci\\xF3n, pero no est\\xE1s seguro de por d\\xF3nde empezar. Sabes que existen muchos lenguajes de programaci\\xF3n diferentes y que se pueden usar para diferentes cosas, pero \\xBFcu\\xE1l es el mejor para aprender primero? Bueno, te sorprender\\xE1 saber que es Python. \\xBFPor qu\\xE9? Porque es el lenguaje del ma\\xF1ana.\nAhora podr\\xEDas estar pensando: \\xBFPor qu\\xE9 eso lo convierte en el idioma del ma\\xF1ana? Despu\\xE9s de todo, \\xBFno deber\\xEDamos centrarnos en aprender lenguajes como COBOL que nos ayudar\\xE1n en nuestra futura carrera como contadores o algo as\\xED? Bueno... tal vez. Pero tal vez no tanto. Mira, mientras esos otros lenguajes de programaci\\xF3n son geniales para algunas cosas, no lo son tanto para otras. Y cuando echamos un vistazo a lo que otros lenguajes de programaci\\xF3n no podr\\xE1n hacer en el futuro debido a sus limitaciones (o tal vez solo a su edad), vemos por qu\\xE9 los programadores de hoy dicen que Python ser\\xE1 el lenguaje dominante de ma\\xF1ana. \\xA1Vamos a sumergirnos en por qu\\xE9 echando un vistazo a varias razones por las que Python es un primer lenguaje de programaci\\xF3n fant\\xE1stico para aprender hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "programacion-orientada-a-objetos-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Programación Orientada a Objetos En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La programaci\\xF3n orientada a objetos es una forma de escribir c\\xF3digo que se enfoca en lo que hace el programa, y no solo en lo que sabe. Este art\\xEDculo cubre una descripci\\xF3n general de la programaci\\xF3n orientada a objetos en Java, as\\xED como sus ventajas y desventajas.\nSi est\\xE1 leyendo esto, probablemente est\\xE9 familiarizado con los lenguajes de programaci\\xF3n de procedimientos como C, C++ o Python. Todos estos son lenguajes de programaci\\xF3n imperativos que se enfocan en decirle a la computadora exactamente qu\\xE9 hacer y cu\\xE1ndo hacerlo.\nLa programaci\\xF3n orientada a objetos es diferente de los lenguajes imperativos en aspectos importantes. La programaci\\xF3n orientada a objetos es una forma de escribir programas que tiene como objetivo reducir la redundancia y aumentar la modularidad mediante el uso de objetos que tienen sus propios campos de datos y m\\xE9todos que act\\xFAan sobre esos campos en lugar de variables globales. Profundicemos m\\xE1s en OOP en Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El raspado web es la pr\\xE1ctica de extraer datos de sitios web. En este blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python para el web scraping, as\\xED como tambi\\xE9n proporcionaremos ejemplos, recursos y sugerencias para comenzar. La red mundial ha hecho que sea m\\xE1s f\\xE1cil que nunca compartir informaci\\xF3n entre s\\xED. Sin embargo, esa misma facilidad de acceso tambi\\xE9n ha hecho que sea m\\xE1s dif\\xEDcil que nunca separar la informaci\\xF3n \\xFAtil del ruido. Debido a esto, muchos desarrolladores han recurrido al web scraping para extraer la informaci\\xF3n que necesitan de los sitios web sin tener que buscar manualmente o filtrar todo individualmente. \\xA1Afortunadamente para ti, Python es un lenguaje perfecto para comenzar con el web scraping! Este blog cubrir\\xE1 por qu\\xE9 deber\\xEDa aprender Python para web scraping y ofrecer\\xE1 recursos \\xFAtiles para comenzar a aprenderlo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJYwCdAEPChpfyVYAAP6t+3/8PPzEsJ015Z9eXxnwnKMXzv78iZ3fXMwFDqfAEQcpJA8dUc/khL/AudC/65gS4RifvMI8n/xYdlgV3qp68FcRMBPvGl+L4fma80n8ITK17rogwWZfP2FgAAA=",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-revistas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Revistas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software deben mantenerse constantemente actualizados con nuevas investigaciones, tendencias y t\\xE9cnicas en su campo. La forma m\\xE1s com\\xFAn para que los ingenieros de software hagan esto es leyendo art\\xEDculos de investigaci\\xF3n publicados en revistas. Estas revistas se encuentran casi exclusivamente en l\\xEDnea. Muchos de ellos est\\xE1n disponibles de forma gratuita, pero algunos est\\xE1n detr\\xE1s de muros de pago para los no suscriptores. Afortunadamente, no necesita suscribirse a todas y cada una de estas revistas si es ingeniero de software, solo las que publican art\\xEDculos relacionados con sus intereses espec\\xEDficos y objetivos profesionales como ingeniero de software.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre las principales revistas de ingenier\\xEDa de software para que pueda elegir cu\\xE1les lo ayudar\\xE1n a sobresalir como ingeniero de software!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-la-programacion-del-sistema",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Programación Del Sistema",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aunque los ingenieros de software no lo piensen, casi todas las aplicaciones de su tel\\xE9fono, tableta o computadora port\\xE1til se ejecutan en un sistema operativo. Todo, desde su c\\xE1mara hasta las aplicaciones que usa para chatear con amigos, requiere un c\\xF3digo de software dise\\xF1ado espec\\xEDficamente para el sistema operativo y su arquitectura de hardware particular. Estos sistemas operativos a menudo se denominan \"lenguajes de programaci\\xF3n del sistema\" porque tienen un enfoque singular en el sistema subyacente en lugar de las aplicaciones del usuario final.\nSi observa cualquier lista de lenguajes de programaci\\xF3n populares, ver\\xE1 que Go es bastante poco com\\xFAn, especialmente como lenguaje principal utilizado por programadores y desarrolladores de sistemas. Sin embargo, tambi\\xE9n se ha hablado mucho recientemente sobre c\\xF3mo Go se ha convertido en una excelente opci\\xF3n para proyectos que requieren un rendimiento intensivo y un uso limitado de la memoria. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 este podr\\xEDa ser el caso, siga leyendo para saber por qu\\xE9 Go es una buena opci\\xF3n para los proyectos de programaci\\xF3n de sistemas.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-de-red",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración De Red",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-automation.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJbACdLoAAnLyX6vAAP77YMEPds0QUgz9vyZ15x0MQQ97ZJCyoB55yItbXzgTO51VuKe0/ay1OLjyEAV9OXyB/7Wr0PH/8W73gpANhbq/8qV8kmKj/8p+/5gB/M2rt2p4AAAA",
+      "createdAt": "Mon Feb 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-automatizacion-de-sistemas",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para La Automatización De Sistemas",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automatizar tareas es una forma de hacer tu vida m\\xE1s f\\xE1cil. Imag\\xEDnese esto, necesita ejecutar un informe todos los d\\xEDas y toma 5 minutos cada vez. Puede configurar una alarma y regresar r\\xE1pidamente al escritorio en 5 minutos o crear un script para automatizar este proceso. Este \\xFAltimo te deja m\\xE1s tiempo para concentrarte en cosas m\\xE1s importantes. \\xBFQu\\xE9 pasar\\xEDa si pudieras automatizar incluso las tareas m\\xE1s simples? \\xBFNo liberar\\xEDa su tiempo para cosas mejores? Ah\\xED es donde entra en juego Python. Como lenguaje de secuencias de comandos de automatizaci\\xF3n, puede ayudarlo a automatizar incluso las tareas m\\xE1s simples y liberar m\\xE1s tiempo para el trabajo que importa. La automatizaci\\xF3n ayuda a las empresas de muchas maneras. Ahorra tiempo, aumenta la eficiencia y reduce los costos al eliminar los procesos manuales. En este blog, exploraremos por qu\\xE9 Python es un lenguaje de programaci\\xF3n tan popular para la automatizaci\\xF3n de sistemas y c\\xF3mo se puede utilizar para automatizar tareas simples y repetitivas en su organizaci\\xF3n. Empecemos\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

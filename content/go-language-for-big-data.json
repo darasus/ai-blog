@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What Is Go?\"),mdx(\"p\",null,\"Go is an open source programming language created by Google in 2007. It is statically typed, compiled, and it targets a wide variety of platforms like Windows, Linux, Mac OS, and even mobile devices. Go is known for its simplicity, clarity, and efficiency. This made it a language of choice for many developers looking to create microservices or write backend applications that integrate with other systems. Go is a general-purpose programming language that can be applied to solve many problems. It\\u2019s not optimized for any particular use case. This makes it a great choice for a variety of applications. The language has been gaining popularity over the last few years due to the increase in its adoption by tech companies. Some of the most notable companies that use Go include Google, Dropbox, and Uber.\"),mdx(\"h2\",null,\"Why Go For Big Data?\"),mdx(\"p\",null,\"Companies that depend on large data sets to operate need software that can handle those data efficiently. This can be tricky since big data is often unstructured and changes frequently. Many programming languages were designed for smaller data sets and are not efficient for analyzing big data. Go was designed to efficiently handle large data sets and work with unstructured data. Go is compiled and statically typed, which means the compiler can catch errors earlier in the development process. This and its efficient use of resources makes the language well suited for the challenges of big data.\"),mdx(\"p\",null,\"Although Go has been used in the data science space for some time, it has recently seen an increase in adoption by data engineers. This is due to the language\\u2019s simplicity, performance, and its strong communities. These have made Go a great option for companies looking to create software that can handle large data sets.\"),mdx(\"h2\",null,\"How is go better for big data?\"),mdx(\"p\",null,\"To better understand how Go is better for big data, it\\u2019s important to first understand how languages work for big data. Larger data sets often require distributed systems built around a concept called parallel programming. Parallel programming is the concurrent execution of code across multiple processors. This is necessary to collect, process, and store large data sets efficiently. Parallel programming is usually achieved through specialized languages designed for distributed systems. These languages can be challenging to learn and implement in production. Go was designed for distributed systems from the start. This makes it an easy choice for companies looking for a language for big data.\"),mdx(\"p\",null,\"Go makes it easier to handle unstructured data, which is common in big data sets. With integrated support for things like Unicode and data structures, Go makes it much simpler to organize and interpret large amounts of data. This makes it easier to collect data and access it at the same time.\"),mdx(\"h2\",null,\"Go introduces great flexibility in code structuring\"),mdx(\"p\",null,\"This is one of the biggest advantages of choosing Go as a language for big data. Go offers a variety of ways to handle code structuring. This flexibility allows companies to adopt a style they feel is best for their team. Go\\u2019s approach to structuring code makes it easier to collect, process, and store large data sets.\"),mdx(\"p\",null,\"Go\\u2019s built-in support for concurrency makes it easier to handle large amounts of data at once. Concurrency allows you to run processes simultaneously and make use of more resources than one computer alone can provide. This is especially useful for tasks that need to process large amounts of data.\"),mdx(\"p\",null,\"Go\\u2019s built-in support for distributed systems makes it easier for companies to scale. Distributed systems make it possible to break large tasks into smaller parts and run them across multiple computers. This makes it easier to process large data sets without needing a supercomputer.\"),mdx(\"h2\",null,\"Go is fast, even for big data sets\"),mdx(\"p\",null,`Go\\u2019s performance has always been one of the languages biggest selling points. The language was made to be fast, even when dealing with large data sets.\nIn fact, Go\\u2019s creator has a benchmarking website where developers can test their code and compare it with other languages. The results show that Go is one of the fastest languages for processing big data.\nThis is due to the language\\u2019s simplicity, which removes unnecessary elements that make code slower.`),mdx(\"p\",null,\"The single-threaded nature of Go can be a downside for some organizations. However, this is not as big of a problem as it once was due to improvements in threading. Go 18 introduced an amazing new function to simplify concurrency called \\u201Cchannel\\u201D. Besides, the rise of cloud computing and serverless architecture has removed the need for parallel programming altogether. The fact that data is stored in the cloud means that it is a centralized location that can be accessed by one request at a time.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"The data-driven economy is a new reality in which businesses must collect, process, and store large amounts of data. Go was designed to handle these demands and can be a great choice for tackling big data.\"),mdx(\"p\",null,\"The flexibility in code structuring, built-in performance, and easy deployment make Go a great option for companies looking to collect, process, and store large data sets.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJaAC7AYtBzobhHUYXVjAAP7+mC6P4T+fYqTzewRcuXQzscq+OOz1C3jG3zVnXcbM8Kq7okMaqEwyWS7xv1h80d9YhMRenNv3jfXEgZPuCauxWLJ8/E9irMoj6EefC3P54AAA",
+      "createdAt": "Fri Apr 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-java",
+      "locale": "en",
+      "title": "Introduction to Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-hibernate-application",
+      "locale": "en",
+      "title": "Building a Hibernate Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-programming",
+      "locale": "en",
+      "title": "Go Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javafx-and-multimedia.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAAxyBd40kAiAAAP7lO+1qOmds/tJfZfljhV9fzqbZgCs/Jc52J4+ud6v4QeEqivOh6V1q1Ndcfh8cf6FsXcR2ffzM7aPlLnaDyeM0qxZcpTWvFeKMv/zv31cdnJt1g46NA8o5kyzfE2oj34N/0PgA",
+      "createdAt": "Tue Jul 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javafx-and-multimedia",
+      "locale": "en",
+      "title": "Javafx and Multimedia",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New technologies and breakthroughs in semiconductor fabrication have enabled the creation of advanced mobile devices. These mobile devices are not just used for voice calls or text messaging. They can now be used to capture images, record videos, and listen to music. Java has always been at the forefront of new technology adoption, thanks to its portability, consistency across various implementations, and large codebase. If you think that Java is just good for business applications and websites, then you need to think again. With the advent of Java 8 and Android apps based on this version of the language, there is a renewed focus on mobile development using Java. This has led to several innovations in the area of embedded devices with IoT-enabled edge computing and Machine Learning (ML) based artificial intelligence systems. The latest technology being adopted by both enterprises and developers is the Internet of Things (IoT).\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

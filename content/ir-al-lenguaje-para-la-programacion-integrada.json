@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Go?\"),mdx(\"p\",null,'Otra pregunta com\\xFAn que quiz\\xE1s te est\\xE9s haciendo despu\\xE9s de leer el t\\xEDtulo de esta secci\\xF3n es: \"\\xBFGo es un lenguaje de programaci\\xF3n?\". S\\xED, lo es, pero lo que realmente es, es un lenguaje de programaci\\xF3n con un enfoque diferente al dise\\xF1o de lenguajes. Esto significa que Go tiene una forma diferente de resolver problemas que se encuentran en otros lenguajes de programaci\\xF3n. Go fue lanzado en 2009 por Google. Se hizo con la intenci\\xF3n de ser un lenguaje de ingenier\\xEDa de software, lo que significa que se usa principalmente para crear sistemas de software. Si ha o\\xEDdo hablar de C, entonces tendr\\xE1 una buena idea de lo que se trata este lenguaje.'),mdx(\"p\",null,\"La idea detr\\xE1s del dise\\xF1o de Go era construir un lenguaje que fuera r\\xE1pido, f\\xE1cil de usar y tuviera una sintaxis limpia. El hecho de que haya sido creado por Google tambi\\xE9n demuestra que es un lenguaje de una calidad que no tiene rival en muchos otros lenguajes de programaci\\xF3n.\"),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 usar Go para la programaci\\xF3n integrada?\"),mdx(\"p\",null,\"Al seleccionar un lenguaje de programaci\\xF3n para la programaci\\xF3n integrada, se deben tener en cuenta una serie de factores. S\\xED, debe seleccionar un idioma que se adapte a las necesidades de su proyecto y tambi\\xE9n al dispositivo en el que se ejecutar\\xE1 el software. En muchos casos, es posible que solo est\\xE9 utilizando el mismo lenguaje de programaci\\xF3n que se utiliz\\xF3 para crear el firmware del dispositivo. Sin embargo, en muchos otros casos, es posible que desee utilizar un idioma diferente debido a las ventajas que ofrece. Dicho esto, echemos un vistazo a algunas de las ventajas de usar Go para la programaci\\xF3n integrada:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Ecosistema robusto: no se puede negar que el ecosistema robusto del lenguaje es una de las razones por las que muchos desarrolladores eligen usar Go para la programaci\\xF3n integrada. Este ecosistema ofrece funciones como una herramienta de compilaci\\xF3n cruzada, un sistema autom\\xE1tico de administraci\\xF3n de memoria, una gran biblioteca est\\xE1ndar y mucho m\\xE1s.\"),mdx(\"li\",{parentName:\"ul\"},\"F\\xE1cil de escalar: otra ventaja asociada con el uso de Go para la programaci\\xF3n integrada es el hecho de que es f\\xE1cil de escalar. Si necesita escalar su proyecto a m\\xE1s dispositivos o agregar m\\xE1s funciones a un dispositivo existente, usar Go ser\\xE1 la mejor opci\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},\"Gran documentaci\\xF3n - Otro factor que hace que Go sea una buena opci\\xF3n al seleccionar un lenguaje para la programaci\\xF3n integrada es el hecho de que viene con una gran documentaci\\xF3n. Esta documentaci\\xF3n es f\\xE1cil de entender incluso si eres nuevo en la programaci\\xF3n, lo que significa que es adecuada para personas de todos los niveles.\"),mdx(\"li\",{parentName:\"ul\"},\"C\\xF3digo abierto: finalmente, otra raz\\xF3n por la que debe usar Go para la programaci\\xF3n integrada es el hecho de que es un lenguaje de c\\xF3digo abierto. Esto significa que puede beneficiarse de su comunidad, as\\xED como realizar cambios o informar errores si es necesario.\")),mdx(\"h2\",null,\"Pros de Go para la programaci\\xF3n integrada\"),mdx(\"p\",null,\"Aqu\\xED, echamos un vistazo a algunas de las principales ventajas de usar Go para la programaci\\xF3n integrada:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"F\\xE1cil de leer y escribir: la sintaxis de Go es extremadamente simple, lo que significa que es f\\xE1cil leer y escribir c\\xF3digo en este lenguaje. Esto lo hace adecuado tanto para principiantes como para programadores experimentados, d\\xE1ndoles la ventaja de completar proyectos mucho m\\xE1s r\\xE1pido.\"),mdx(\"li\",{parentName:\"ul\"},\"Modelo de concurrencia simple: otra ventaja de usar Go para la programaci\\xF3n integrada es que tiene un modelo de concurrencia simple. Este modelo es adecuado para proyectos que implican trabajar con varias m\\xE1quinas o dispositivos y necesitan compartir datos entre ellos al mismo tiempo.\"),mdx(\"li\",{parentName:\"ul\"},\"Cadena de herramientas robusta: Go tambi\\xE9n tiene una cadena de herramientas robusta que viene con funciones como cobertura de c\\xF3digo y otras formas de an\\xE1lisis.\"),mdx(\"li\",{parentName:\"ul\"},\"Gran apoyo de la comunidad: la \\xFAltima ventaja que discutiremos aqu\\xED es el hecho de que Go viene con un gran apoyo de la comunidad. Esto significa que puede encontrar ayuda f\\xE1cilmente u obtener consejos de otros programadores si se queda atascado en alg\\xFAn momento del proyecto.\")),mdx(\"h2\",null,\"Contras de Go para la programaci\\xF3n integrada\"),mdx(\"p\",null,\"Ahora que conoce las ventajas de usar Go para la programaci\\xF3n integrada, es hora de echar un vistazo a algunas de las desventajas asociadas con este lenguaje:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"El compilador es lento: si bien es cierto que el compilador es robusto y puede ayudarlo a entregar software de alta calidad, tambi\\xE9n es lento. Esto significa que tendr\\xE1 que esperar un poco m\\xE1s para que el c\\xF3digo se compile y est\\xE9 listo para su ejecuci\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},\"Consumo de recursos no determinista: el consumo de recursos no determinista al que nos referimos aqu\\xED es el hecho de que Go es un lenguaje de recolecci\\xF3n de basura. Esto significa que, en un momento dado, podr\\xEDa decidir asignar m\\xE1s recursos de los necesarios. Esto puede afectar el rendimiento de su dispositivo, por lo que es importante tener esto en cuenta.\")),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Finalmente, hemos llegado al final de este art\\xEDculo. Ahora, sabe todo lo que hay que saber sobre el uso de Go para la programaci\\xF3n integrada. Tambi\\xE9n sabes cu\\xE1les son las ventajas y desventajas de este lenguaje. Armado con este conocimiento, ahora puede tomar una decisi\\xF3n informada al seleccionar un lenguaje de programaci\\xF3n para su pr\\xF3ximo proyecto.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "typescript-una-guia-para-principiantes-sobre-la-seguridad-de-los-tipos-de-codigo",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "TypeScript: Una Guía Para Principiantes Sobre La Seguridad De Los Tipos De Código",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript es un lenguaje de programaci\\xF3n de c\\xF3digo abierto desarrollado y mantenido por Microsoft, que ampl\\xEDa JavaScript. Agrega soporte para escribir variables y funciones, interfaces, clases con herencia y m\\xF3dulos. Este art\\xEDculo cubre todo lo que necesita saber sobre TypeScript y por qu\\xE9 deber\\xEDa usarlo como desarrollador.\nSeamos realistas: el mundo del desarrollo de software se ha vuelto extremadamente complejo en los \\xFAltimos a\\xF1os. Cada nuevo lenguaje de programaci\\xF3n tiene su propio conjunto \\xFAnico de reglas y m\\xE9todos para crear c\\xF3digo que finalmente termina convirti\\xE9ndose en un producto terminado que los usuarios pueden descargar desde una tienda de aplicaciones u otro sitio web.\nEn este art\\xEDculo, aprender\\xE1 sobre los beneficios de usar TypeScript como desarrollador, c\\xF3mo instalar TypeScript en su computadora, qu\\xE9 IDE es mejor para usarlo con editores populares como Visual Studio Code o Atom Text Editor, c\\xF3mo comenzar a codificar en TypeScript descargando proyectos repetitivos con c\\xF3digo de muestra, \\xA1y mucho m\\xE1s!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
+      "createdAt": "Tue Feb 15 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-complementos-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Complementos De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de software son algunos de los empleados m\\xE1s valiosos en muchas empresas. Pueden tomar una idea y convertirla en un producto \\xFAtil que la gente quiera usar. Los mejores codificadores buscan constantemente formas de mejorar sus habilidades y encontrar nuevas formas de hacer su trabajo m\\xE1s f\\xE1cil y eficiente. Afortunadamente, hay complementos disponibles para casi cualquier programa de codificaci\\xF3n.\nLos complementos de codificaci\\xF3n pueden mejorar significativamente su productividad y efectividad como programador al hacer que su flujo de trabajo sea m\\xE1s r\\xE1pido y eficiente. Estos complementos cubren todo, desde la depuraci\\xF3n hasta la b\\xFAsqueda de fragmentos de c\\xF3digo que puede haber olvidado pero que agradecer\\xE1 tener nuevamente si los necesita nuevamente alg\\xFAn d\\xEDa. Aqu\\xED hay una lista de los mejores complementos de codificaci\\xF3n para desarrolladores que pueden ayudar a que su trabajo sea m\\xE1s f\\xE1cil, m\\xE1s simple y m\\xE1s productivo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-aplicacion-de-hibernate",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Aplicación De Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-programar-mejor",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Programar Mejor",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n puede ser un desaf\\xEDo a veces. Incluso si eres un codificador profesional, a veces la l\\xF3gica y los algoritmos simplemente no funcionan. Los mejores codificadores saben c\\xF3mo abordar esos puntos dif\\xEDciles investigando soluciones, estudiando las mejores pr\\xE1cticas e implementando nuevas t\\xE9cnicas.\nLa codificaci\\xF3n es una habilidad que requiere un refinamiento constante para seguir siendo relevante en el mundo tecnol\\xF3gico actual. Si bien la codificaci\\xF3n puede parecer una habilidad muy t\\xE9cnica, en realidad tiene muchos paralelismos con otros campos creativos como la escritura o la m\\xFAsica. Cuanto m\\xE1s codificas, mejor lo haces.\nAprender a codificar de manera efectiva y eficiente es un gran desaf\\xEDo para cualquier persona que trabaje en este campo o que busque incursionar en \\xE9l. Pero una vez que domina los conceptos b\\xE1sicos, se trata de refinar su t\\xE9cnica y aumentar su eficiencia para que pueda completar proyectos m\\xE1s r\\xE1pido y producir resultados de mayor calidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-leer-codigo-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Leer Código Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "prueba-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Prueba De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El panorama digital actual es vertiginoso, cambiante y lleno de transformaciones digitales. Las empresas est\\xE1n aprovechando los servicios en la nube para acelerar su tiempo de comercializaci\\xF3n, mejorar la agilidad y reducir los costos.\nAdem\\xE1s, con la inteligencia artificial (IA), el aprendizaje autom\\xE1tico, IoT y otras tecnolog\\xEDas avanzadas que permiten a las empresas aprovechar los grandes datos para obtener informaci\\xF3n predictiva y procesos automatizados, el momento nunca ha sido m\\xE1s oportuno para que las empresas aprovechen estas tecnolog\\xEDas transformadoras.\nPor eso es tan importante probar sus aplicaciones Java. Un probador de software realiza pruebas para evaluar la calidad del software o las caracter\\xEDsticas del sitio web al brindar a los usuarios diferentes entradas posibles y medir las salidas contra una expectativa predeterminada. Los probadores de software intentan encontrar errores antes que los usuarios. Son como el control de calidad para el desarrollo de software. Su trabajo es asegurarse de que cada pieza de c\\xF3digo cumpla con sus especificaciones funcionales, ya sea la autenticaci\\xF3n del usuario o cualquier otra caracter\\xEDstica de su aplicaci\\xF3n.\nSi a\\xFAn no ha comenzado a probar sus aplicaciones Java, \\xA1le sugerimos que comience pronto!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
+      "createdAt": "Wed Sep 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Atajos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-redes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Redes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mundo de la programaci\\xF3n cambia constantemente y es un espacio fluido con nuevas tendencias e innovaciones que surgen todo el tiempo. La creaci\\xF3n de redes es una de esas \\xE1reas que ha visto una explosi\\xF3n en el crecimiento, con m\\xE1s personas que se conectan entre s\\xED en espacios virtuales que nunca. Esto tambi\\xE9n ha abierto una gran cantidad de oportunidades para los programadores que desean involucrarse en la programaci\\xF3n de redes con Python, un lenguaje de codificaci\\xF3n que se puede usar con fines de redes con facilidad. En este art\\xEDculo, hablaremos sobre qu\\xE9 es la programaci\\xF3n de red, por qu\\xE9 deber\\xEDa aprender Python y c\\xF3mo puede comenzar a usarlo para funciones de red.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-del-lenguaje-natural",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento Del Lenguaje Natural",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El procesamiento del lenguaje natural es la capacidad de un programa de computadora para comprender el habla humana. El principal beneficio del procesamiento del lenguaje natural es que permite a los usuarios comunicarse con una m\\xE1quina de la forma en que se sienten m\\xE1s c\\xF3modos. Las computadoras ahora pueden entender, procesar y reaccionar al habla humana. El procesamiento del lenguaje natural (NLP) es un \\xE1rea de inteligencia artificial que permite a las computadoras detectar y comprender el habla humana, as\\xED como las palabras escritas. Involucra las t\\xE9cnicas y algoritmos relacionados con el procesamiento del lenguaje natural, como la inteligencia artificial, el aprendizaje autom\\xE1tico, la visi\\xF3n por computadora, la recuperaci\\xF3n de informaci\\xF3n y el reconocimiento de voz por computadora.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

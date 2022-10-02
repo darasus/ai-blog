@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Python?\"),mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n de prop\\xF3sito general con una sintaxis simple y una potente biblioteca est\\xE1ndar. Es una excelente opci\\xF3n para los programadores principiantes debido a su relativa facilidad de uso en comparaci\\xF3n con otros lenguajes como Java, C/C++ o C#. Con esta simplicidad viene el poder, y Python se puede usar para casi cualquier tarea de programaci\\xF3n, desde desarrollo web hasta ciencia de datos.\"),mdx(\"p\",null,'El lenguaje fue desarrollado a fines de la d\\xE9cada de 1980 por un grupo de investigadores del Instituto Tecnol\\xF3gico de Massachusetts (MIT). Fue concebido como un \"mejor C\", un lenguaje que podr\\xEDa ser utilizado por personas que no son programadores, al tiempo que conserva el rendimiento y la potencia de los lenguajes de nivel inferior.'),mdx(\"p\",null,'La sintaxis de Python es m\\xEDnima, con muy poca puntuaci\\xF3n. Por ejemplo, los \"{}\" y \"()\" que normalmente rodean el c\\xF3digo en otros idiomas se reemplazan por \":\" en Python.'),mdx(\"p\",null,\"Debido a su sintaxis f\\xE1cil de usar, Python se ha convertido en un lenguaje popular para principiantes. Es uno de los lenguajes de programaci\\xF3n introductorios m\\xE1s populares, junto con Java y C++, y se ense\\xF1a com\\xFAnmente en escuelas y universidades.\"),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 usar Python para la programaci\\xF3n de bases de datos?\"),mdx(\"p\",null,\"Como sugiere el t\\xEDtulo, una de las principales razones por las que deber\\xEDa usar Python para la programaci\\xF3n de bases de datos es que es muy f\\xE1cil de hacer. La sintaxis es simple, por lo que es f\\xE1cil de entender lo que est\\xE1 escribiendo y es f\\xE1cil de leer lo que han escrito otras personas. Esto significa que es un c\\xF3digo r\\xE1pido de escribir y f\\xE1cil de mantener.\"),mdx(\"p\",null,\"Otra raz\\xF3n para elegir Python para la programaci\\xF3n de bases de datos es su flexibilidad. Las bibliotecas est\\xE1ndar son enormes, lo que permite a los programadores hacer todo tipo de cosas con su c\\xF3digo. Hay m\\xF3dulos para analizar y manipular datos, para trabajar con redes, para almacenar datos en varios formatos, para acceder a bases de datos y m\\xE1s.\"),mdx(\"p\",null,\"Python tambi\\xE9n es excelente para los cient\\xEDficos de datos. Muchas organizaciones lo utilizan para el aprendizaje autom\\xE1tico, las estad\\xEDsticas y el an\\xE1lisis de datos.\"),mdx(\"h2\",null,\"Usar Python para acceder a bases de datos\"),mdx(\"p\",null,\"Si ha decidido utilizar Python para la programaci\\xF3n de bases de datos, primero debe decidir qu\\xE9 tipo de base de datos desea utilizar. Hay muchas bases de datos relacionales diferentes en el mercado, cada una con sus propias fortalezas y debilidades.\"),mdx(\"p\",null,\"Python tiene bibliotecas para varias de las bases de datos relacionales m\\xE1s populares, incluidas MySQL, PostgreSQL, Oracle y SQL Server de Microsoft. Con estas bibliotecas, puede escribir c\\xF3digo de Python que se conecte a la base de datos y manipule sus datos.\"),mdx(\"p\",null,\"Si usa Python para acceder a MySQL, PostgreSQL o Microsoft SQL Server, puede escribir c\\xF3digo de Python para escribir datos en la base de datos. Muchas bases de datos tambi\\xE9n le permiten leer datos de la base de datos y escribirlos en otro formato.\"),mdx(\"h2\",null,\"Usar Python para manipular datos en bases de datos\"),mdx(\"p\",null,'Si decide usar Python para la programaci\\xF3n de bases de datos, tambi\\xE9n puede usarlo para manipular datos en bases de datos. Por ejemplo, puede usar las declaraciones \"select\" y \"where\" que forman parte de cualquier base de datos relacional para leer datos de las tablas y luego usar el ciclo \"for\" para iterar a trav\\xE9s de esos datos y manipularlos.'),mdx(\"p\",null,\"Otra forma de manipular datos en bases de datos es escribir c\\xF3digo Python que se ejecute como una funci\\xF3n. Luego puede escribir esta funci\\xF3n para que se ejecute en un horario regular o cuando ocurran ciertos eventos. Esto puede ser muy \\xFAtil en situaciones en las que una base de datos almacena grandes cantidades de datos, pero solo desea obtener un peque\\xF1o subconjunto de esos datos en un momento dado.\"),mdx(\"h2\",null,\"Uso de Python para crear aplicaciones de bases de datos\"),mdx(\"p\",null,\"Si decide usar Python para la programaci\\xF3n de bases de datos, puede usarlo para crear aplicaciones de bases de datos. Una aplicaci\\xF3n de base de datos es un programa completo que administra una o m\\xE1s bases de datos. Son muy \\xFAtiles en situaciones en las que necesita acceder o actualizar datos regularmente, o cuando desea automatizar tareas.\"),mdx(\"p\",null,\"Las aplicaciones de base de datos se crean en Python escribiendo c\\xF3digo que accede a la base de datos y llama a funciones escritas en otros lenguajes de programaci\\xF3n, como C/C++, Java o Rust. Python tiene bibliotecas para varios sistemas de administraci\\xF3n de bases de datos (DBMS), incluidos Oracle y PostgreSQL.\"),mdx(\"p\",null,\"Para crear aplicaciones de base de datos, debe elegir el idioma para las funciones en las que desea escribir. Luego, escribe el c\\xF3digo de Python que llama a estas funciones.\"),mdx(\"h2\",null,\"Resumen\"),mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n que se puede usar para casi cualquier tarea, incluida la programaci\\xF3n de bases de datos. Es poderoso y flexible, y tiene una sintaxis simple que es f\\xE1cil de entender y leer. Python tiene bibliotecas para varios sistemas de bases de datos, incluidos MySQL, PostgreSQL y SQL Server. Se puede utilizar para leer y manipular datos y crear aplicaciones de bases de datos.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "configuracion-de-su-entorno-de-desarrollo-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Configuración De Su Entorno De Desarrollo De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es desarrollador, su trabajo requiere que use diferentes software y herramientas para crear aplicaciones. Hay diferentes lenguajes de programaci\\xF3n y marcos que necesita saber para hacer bien su trabajo. Con la creciente popularidad de las aplicaciones m\\xF3viles y el auge de la inteligencia artificial (IA), los desarrolladores ahora tienen m\\xFAltiples oportunidades en el campo del desarrollo de software. En esta publicaci\\xF3n de blog, le presentaremos Java como uno de los lenguajes de programaci\\xF3n m\\xE1s populares para los desarrolladores. Tambi\\xE9n aprender\\xE1 c\\xF3mo configurar su entorno de desarrollo de Java para que pueda comenzar a codificar lo antes posible.\nSi quieres convertirte en ingeniero de software, saber programar es solo la punta del iceberg. Tambi\\xE9n debe comprender tecnolog\\xEDas como HTML5, CSS3 y XML, que son un vocabulario est\\xE1ndar para el dise\\xF1o de sitios web y el almacenamiento de datos inform\\xE1ticos. En esta publicaci\\xF3n de blog, presentaremos algunos t\\xE9rminos comunes que usan los desarrolladores al hablar sobre la configuraci\\xF3n de sus entornos de desarrollo para diferentes lenguajes de programaci\\xF3n como Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-secretos-de-los-grandes-programadores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Secretos De Los Grandes Programadores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Los grandes codificadores saben c\\xF3mo ver, pensar y resolver problemas. Tambi\\xE9n pueden dominar c\\xF3digos complejos y encontrar soluciones a problemas t\\xE9cnicos dif\\xEDciles. Pero m\\xE1s all\\xE1 de eso, los grandes codificadores aportan algo m\\xE1s a la mesa: tienen una combinaci\\xF3n \\xFAnica de caracter\\xEDsticas que los hacen programadores productivos y efectivos. Los mejores programadores tienen un conjunto de h\\xE1bitos comunes que les permiten prosperar en un entorno a menudo estresante. Hay muchas presiones sobre los ingenieros de software, desde plazos ajustados hasta la demanda constante de nuevas funciones. Los grandes codificadores pueden prosperar en este entorno lleno de presi\\xF3n debido a su capacidad para manejar el estr\\xE9s, concentrarse intensamente y pensar creativamente sobre el problema en cuesti\\xF3n. Si quieres convertirte en un gran programador, estos son algunos secretos que debes saber...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-las-caras-de-javaserver",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Las Caras De Javaserver",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, hemos visto un aumento en la popularidad del software y los sitios web f\\xE1ciles de usar. Una gran raz\\xF3n para esto es que los dise\\xF1adores de software est\\xE1n prestando m\\xE1s atenci\\xF3n a la experiencia de los usuarios. En lugar de dedicar horas a hacer dise\\xF1os, est\\xE1n invirtiendo m\\xE1s tiempo en dise\\xF1ar experiencias de usuario. Las interfaces de usuario desempe\\xF1an un papel fundamental en la forma en que el p\\xFAblico objetivo percibe una aplicaci\\xF3n.\nUna interfaz de usuario consta de varias pantallas o ventanas que brindan acceso a la informaci\\xF3n o permiten acciones como ver, crear, guardar y abrir archivos. Una interfaz de usuario tambi\\xE9n incluye las propiedades visuales (como colores, fuentes y gr\\xE1ficos) y los componentes de navegaci\\xF3n (como men\\xFAs, botones y pesta\\xF1as) que los usuarios ven e interact\\xFAan cuando usan un programa de computadora.\nEn esta publicaci\\xF3n de blog, aprenderemos sobre JavaServer Faces; lo que es; por qu\\xE9 podr\\xEDa usarlo; y finalmente una breve introducci\\xF3n a sus conceptos clave.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
+      "createdAt": "Tue Feb 15 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-complementos-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Complementos De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de software son algunos de los empleados m\\xE1s valiosos en muchas empresas. Pueden tomar una idea y convertirla en un producto \\xFAtil que la gente quiera usar. Los mejores codificadores buscan constantemente formas de mejorar sus habilidades y encontrar nuevas formas de hacer su trabajo m\\xE1s f\\xE1cil y eficiente. Afortunadamente, hay complementos disponibles para casi cualquier programa de codificaci\\xF3n.\nLos complementos de codificaci\\xF3n pueden mejorar significativamente su productividad y efectividad como programador al hacer que su flujo de trabajo sea m\\xE1s r\\xE1pido y eficiente. Estos complementos cubren todo, desde la depuraci\\xF3n hasta la b\\xFAsqueda de fragmentos de c\\xF3digo que puede haber olvidado pero que agradecer\\xE1 tener nuevamente si los necesita nuevamente alg\\xFAn d\\xEDa. Aqu\\xED hay una lista de los mejores complementos de codificaci\\xF3n para desarrolladores que pueden ayudar a que su trabajo sea m\\xE1s f\\xE1cil, m\\xE1s simple y m\\xE1s productivo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-habitos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Hábitos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El camino para convertirse en un codificador experto es largo y desafiante. De hecho, es uno de los campos tecnol\\xF3gicos m\\xE1s dif\\xEDciles para empezar como principiante. Pero tambi\\xE9n es una de las carreras m\\xE1s lucrativas que puede elegir seguir. El salario promedio de un ingeniero de software es de alrededor de $ 100K por a\\xF1o, lo que es a\\xFAn m\\xE1s impresionante cuando se considera que la edad promedio de los ingenieros de software es de solo 29 a\\xF1os. Si desea comenzar una nueva carrera en la codificaci\\xF3n pero siente que est\\xE1 comenzando desde cero, tenemos algunos consejos para usted. Como alguien que ha estado programando durante m\\xE1s de 10 a\\xF1os, puedo decirles con total certeza que los grandes programadores se hacen y no nacen. Cualquiera puede aprender a codificar si est\\xE1 dispuesto a trabajar duro y adoptar algunos buenos h\\xE1bitos en el camino. Aqu\\xED hay algunos consejos sobre c\\xF3mo puede comenzar hoy:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "implementacion-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Implementación De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

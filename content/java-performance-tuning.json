@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Measure Before You Tune\"),mdx(\"p\",null,\"Before you dive into tuning, you should make sure you\\u2019ve taken the time to measure your application\\u2019s performance. This is especially the case if you\\u2019re experiencing performance issues. You don\\u2019t want to start making changes to your JVM that could negatively impact your application\\u2019s performance and then not know what caused it. Taking the time to set up a baseline will help you identify changes and draw conclusions as to what made a difference.\"),mdx(\"p\",null,\"You can use a variety of tools to measure your app\\u2019s performance. You can use the built-in profilers that are included with your JVM. There are also a number of open-source tools that can help you measure your performance and provide insights into bottlenecks.\"),mdx(\"h2\",null,\"JVM heap size and platform performance\"),mdx(\"p\",null,\"The first thing we\\u2019ll discuss when it comes to tuning the JVM is heap size. The heap is the space that the JVM uses to store objects. As your program is running, it\\u2019ll create new objects and release old ones. These objects are stored in the heap. The JVM is responsible for deciding when to create new heaps and how large to make them.\"),mdx(\"p\",null,\"Most of the time, this process works well. But if your heap size is too small or your system is under heavy load, the JVM can\\u2019t keep up and performance will suffer. When your application is experiencing poor performance and you notice that the JVM is using a lot of processor time and taking a long time to complete tasks, increasing your heap size may help.\"),mdx(\"h2\",null,\"Code caching\"),mdx(\"p\",null,\"One of the first steps in Java performance tuning is to look at how you use code caching. Code caching is when you cache sections of code and don\\u2019t re-compile them each time they\\u2019re needed. This is generally a good thing, but it can cause issues with your app if you\\u2019re not careful. Code caching can also be referred to as bytecode caching. It\\u2019s important to note that code caching isn\\u2019t specific to the JVM. It\\u2019s a common practice used in all programming languages. When you compile your app, you can load the bytecode into your JVM and then cache it. This means that the next time that particular code is run, the bytecode is already loaded and doesn\\u2019t have to be compiled again. This saves a lot of time when running your application.\"),mdx(\"p\",null,\"But there are ways to go about code caching that can cause issues. One common mistake is caching the bytecode for your entire app. Caching bytecode for your entire app can cause issues if two or more different classes need to be compiled at the same time. This is because only one compiler can be used at a time. If another class is being compiled, the bytecode for the rest of the app is cached and isn\\u2019t available for the other classes. If you cache the bytecode for your entire app, it can cause performance issues and make debugging harder.\"),mdx(\"h2\",null,\"Java compiler options\"),mdx(\"p\",null,\"When you\\u2019re writing Java code, there are compiler options you can use to change the way your code is compiled. These compiler options can vary from platform to platform and from compiler to compiler. But they can have a big impact on the performance of your Java application. There are two compiler options that have a significant impact on performance. These are the -Xss and -Xmx options. -Xss : This option controls the amount of memory allocated to the thread-safety stack. The thread-safety stack is used during the thread execution to ensure that thread interactions are safe and don\\u2019t cause issues for other threads in the JVM. If you set the value for this option too low, you may run into issues with the JVM throwing out of memory exceptions. If you set it too high, you may increase your JVM\\u2019s overhead.\"),mdx(\"p\",null,\"-Xmx : This option controls how much memory the JVM can use. If you set this value too low, you\\u2019ll run into issues with the JVM throwing out of memory exceptions. If you set it too high, you\\u2019ll increase your JVM\\u2019s overhead.\"),mdx(\"h2\",null,\"Use API\\u2019s with fast-path code in them\"),mdx(\"p\",null,`There are parts of your Java code that will be used often, and there are others that will only be used occasionally. If you have an API call that\\u2019s used often, you may be able to speed it up by adding fast-path code.\nIf you\\u2019re using a Java API and it\\u2019s creating a new thread for every call, it\\u2019s not using fast-path code and it can have a negative impact on your application\\u2019s performance. Adding fast-path code to these API calls can help improve performance by eliminating the overhead of creating a new thread for every call. You can add fast-path code by using the Java code-generation tools or by using a platform-specific API.`),mdx(\"h2\",null,\"Use interpreter mode to check for bottlenecks\"),mdx(\"p\",null,`Interpreter mode is a handy feature of the JVM that you can use to check for common bottlenecks. To use interpreter mode, you can add the \"-Xinterpreter\" flag to your JVM. When you use interpreter mode, the JVM doesn\\u2019t translate your bytecode into machine language. It keeps your application in the Java language and instead uses a single thread to run your application. This allows you to see if there are any bottlenecks in your application that are caused by the JVM itself.\nInterpreter mode can also help identify slow API calls and any issues with code caching.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.\nNow that you\\u2019re more familiar with these concepts, you can use them to better optimize your Java applications and improve their performance.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-network-administration",
+      "locale": "en",
+      "title": "Go Language for Network Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJYgCdAEO/kOOAAD++jwC6sVnBPT6WwvL8iIUI2dl6DcrAvKtH4SZXG/BOc1hWPT8NuU2tHb2WQap5/XKFogRX6b6jofXzt3GMfH69j401+cgoEkkAAAA",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-web",
+      "locale": "en",
+      "title": "Python - The Language of the Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJYgCdDKVQYo8QYUMP0AA/m0/fwp8BXZDJcg7VhhB8WRBkz0b8DrQQfmDp//oSUBvK3xt+nPvE/5V8u82rq/8mIA3Ol8+d9TJ39F7suqVqHf1xQPnlhGr9e0d/Hr13+zkNYt/K8i7wY/1jdcmuj/4OLXem5AogAA=",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

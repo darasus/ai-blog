@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Why Use Inheritance?\"),mdx(\"p\",null,`It is important to understand why inheritance is used at all. If you want to reuse existing code, you can always do so without inheriting anything. However, the problem is that if two different classes need the same functionality, you\\u2019ll have to copy and paste that code in two different places. This is a bad practice and can lead to issues in the future.\nThe only way to avoid this is to use inheritance. You can create a base class that has all the shared functionality and then have all the child classes extend that base class. This way, you\\u2019ll have a single point of code where that functionality is defined and you can reuse it as many times as you want.`),mdx(\"h2\",null,\"What is Inheritance in Java?\"),mdx(\"p\",null,`Inheritance is the process of taking one class and making it so that it extends the functionality of another. This means that the child class can use the parent class and vice versa.\nThis means that the code that was implemented in the parent class can be used in the child class.\nIn the end, this allows the creation of a \\u201Cfamily tree\\u201D of classes, where a child class can extend a parent class and inherit all of its functionality.`),mdx(\"h2\",null,\"When to Use Inheritance?\"),mdx(\"p\",null,`If you want to reuse code that has been implemented in a different class, then you should use inheritance.\nHowever, this is just one of the reasons why you might want to take advantage of inheritance.\nNow that you know what inheritance is and why it\\u2019s used, it\\u2019s time to learn when to use it.`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Code Reuse - When you have a parent class that has all the functionality that you need in your child class, you can inherit from it. This way, you\\u2019ll have a single point of code where that functionality is defined and you can reuse it as many times as you want.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Extending Existing Code - What if you have a parent class that has all the functionality that you need, but it isn\\u2019t quite what you\\u2019re looking for? In this case, you can inherit from it and then change or extend that code. This way, you\\u2019ll have the best of both worlds. You\\u2019ll get the functionality that you need from the parent class and the ability to make modifications to it.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Extendability - Inheritance is useful for more than just reusing code. It can also help you with your code\\u2019s extendability. This refers to the flexibility of extending a class to add new functionality later on. In other words, you can add functionality to an existing class by creating a new class that inherits from it.\"))),mdx(\"h2\",null,\"Java Built-in Types that can be used as Constant\"),mdx(\"p\",null,\"This is a list of the most common types that can be used as primitive constants.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Boolean - This is the type that is used to represent true or false values.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Character - This type is used to represent one-letter strings.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Integer - This is the most common type used to represent whole numbers without decimals.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Long - This type is used to represent long numbers without decimals.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Float - This type is used to represent numbers with decimals.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Double - This is similar to float, but it has a slightly higher precision.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"String - This type is used to represent strings of characters.\"))),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Now you know the basics of inheritance, when and why you should use it. You\\u2019ve also learned what types can be used as constants and how inheritance can help you create extendable code.\nOf course, there\\u2019s more to inheritance than what\\u2019s been covered in this article. However, if you understand the basics, you\\u2019ll be able to grasp the rest of it easily.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-better",
+      "locale": "en",
+      "title": "How to Code Better",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJbACdLoB+AARC5llxEIhYwAA/uhnVurOlaQ/z3wtKM/gWLP6TQ2cgSPKxu80JSwmR+kVQw5f0WKh0wP/5g3ePBo69avNyn+RiRPJ9bk7Y56b3f/3n2l71O8d+/xDWCP/as5/pW/+SpCwmQ+9prhAAAA=",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-overview",
+      "locale": "en",
+      "title": "Python - An Overview",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJaACdAYs32ZJkvDzowAA/vm699i8Ref+5sDm3/yFn7+ze/u7XrDaaPfMQf41a/5fsWfKo/xA/efzt3+13e+x222+ImpR9ZA5povx9P9nKfRv9gtNeyZOR6rn5skTKeaIuohp//xT5f7/9v/1gP212bu+Oy36R/jAt1C9fk3JOa476GAAAA==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJbACdAEfbjEcZnoAAP7+RRpOxohNKxG9xyYQeGDRszqwYoWJj9wYKWaroL3rhtO2NC3jzOr3/KeUVfcQ3/F+H8KmGHaX/8W+kf0ce4Om1MLQAAA=",
+      "createdAt": "Tue Apr 13 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-development",
+      "locale": "en",
+      "title": "Python - The Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What is the best programming language for developing websites? If you\\u2019re looking to develop dynamic websites and integrate them with databases, Python might be the right choice for you.\nIf you are a programmer or planning to become one, it\\u2019s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.\nIn this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-future",
+      "locale": "en",
+      "title": "Python - The Language of the Future",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

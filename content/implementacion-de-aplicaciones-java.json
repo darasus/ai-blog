@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Procesos Manuales\"),mdx(\"p\",null,`Los procesos manuales son los m\\xE1s f\\xE1ciles de implementar, pero tambi\\xE9n ofrecen la menor cantidad de flexibilidad y escalabilidad. Como sugiere el nombre, usted inicia manualmente el proceso de implementaci\\xF3n desde su computadora port\\xE1til o de escritorio.\nNo hay implementaciones automatizadas en un proceso manual. Las implementaciones manuales son susceptibles a errores humanos y carecen de cualquier tipo de control de versiones. Es dif\\xEDcil realizar un seguimiento de los cambios realizados en cada versi\\xF3n implementada de su aplicaci\\xF3n. Las implementaciones manuales pueden llevar mucho tiempo y ser costosas si tiene un gran equipo de desarrolladores.`),mdx(\"h2\",null,\"Entorno de ensayo\"),mdx(\"p\",null,`Un entorno de ensayo es una r\\xE9plica de su entorno de producci\\xF3n. Se utiliza para probar su software antes de ponerlo a disposici\\xF3n de sus usuarios. Los entornos de ensayo pueden ser manuales o automatizados.\nSi la preparaci\\xF3n es manual, debe implementar manualmente una copia nueva de su software en un segmento de red o servidor diferente de manera regular. Tambi\\xE9n debe probar manualmente el software para asegurarse de que funciona como se esperaba.\nLos entornos de prueba proporcionan cierto nivel de escalabilidad, pero a\\xFAn son propensos a errores humanos. Son dif\\xEDciles de mantener y escalar porque hay que hacerlo manualmente.\nLos entornos de prueba son mejores para aplicaciones simples que no tienen requisitos de prueba rigurosos. No son adecuados para aplicaciones con requisitos de implementaci\\xF3n complejos.`),mdx(\"h2\",null,\"Servidor de integraci\\xF3n continua\"),mdx(\"p\",null,`Un servidor de integraci\\xF3n continua automatiza el proceso de creaci\\xF3n e implementaci\\xF3n. Por lo general, extrae el c\\xF3digo de un repositorio de c\\xF3digo como GitHub o Bitbucket a intervalos regulares y crea la aplicaci\\xF3n. Luego ejecuta pruebas unitarias que verifican que la aplicaci\\xF3n funciona como se esperaba.\nSi las pruebas fallan, el servidor de integraci\\xF3n continua detiene el proceso de implementaci\\xF3n. Si pasan las pruebas, el servidor de integraci\\xF3n continua implementa la \\xFAltima versi\\xF3n de la aplicaci\\xF3n en un entorno de prueba.\nSeg\\xFAn la configuraci\\xF3n, los servidores de integraci\\xF3n continua pueden enviar los archivos de implementaci\\xF3n al entorno de alojamiento. Algunos servidores de integraci\\xF3n continua le permiten seleccionar d\\xF3nde implementar su aplicaci\\xF3n y qu\\xE9 servidor usar.`),mdx(\"h2\",null,\"CDN\"),mdx(\"p\",null,`Los CDN ayudan a distribuir el contenido est\\xE1tico de su aplicaci\\xF3n, como im\\xE1genes y bibliotecas CSS/JS. Alojan el contenido est\\xE1tico de su aplicaci\\xF3n en una red global de servidores cerca de sus usuarios. Esto mejora la experiencia del usuario al disminuir los tiempos de descarga.\nLos CDN tambi\\xE9n pueden ayudar a distribuir el contenido din\\xE1mico de su aplicaci\\xF3n. Algunas CDN admiten arquitecturas de aplicaciones modernas, como microservicios y aplicaciones sin servidor.\nAlgunas CDN tambi\\xE9n proporcionan una API que puede usar para desencadenar compilaciones y desencadenar el proceso de implementaci\\xF3n. Esto le permite automatizar el proceso de compilaci\\xF3n e implementaci\\xF3n.\nSi utiliza una CDN para alojar su aplicaci\\xF3n, aseg\\xFArese de seleccionar un proveedor que admita Java. Tambi\\xE9n debe seleccionar un proveedor que admita su arquitectura de aplicaci\\xF3n preferida.`),mdx(\"h2\",null,\"Administrador de repositorios Bintray y Nexus\"),mdx(\"p\",null,`Bintray y Nexus Repository Manager le permiten alojar los activos est\\xE1ticos de su aplicaci\\xF3n en un servicio en la nube de terceros como AWS S3 y Azure Blob Storage. Puede configurar su aplicaci\\xF3n para recuperar los activos est\\xE1ticos de estos servicios utilizando variables de entorno.\nBintray y Nexus Repository Manager tambi\\xE9n le permiten implementar su aplicaci\\xF3n usando una API simple. Puede utilizar una clave de API para desencadenar el proceso de implementaci\\xF3n.\nAlgunos servicios de Bintray y Nexus Repository Manager admiten herramientas y kits de desarrollo de software como Gradle, Maven y Jenkins. Bintray y Nexus Repository Manager admiten una amplia variedad de lenguajes de programaci\\xF3n, incluido Java.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`Las aplicaciones Java se destacan en el manejo de problemas comerciales del mundo real y se usan ampliamente para aplicaciones y sitios web de nivel empresarial. Desde sus inicios, el lenguaje Java ha estado en constante crecimiento y evoluci\\xF3n junto con la industria de TI. Con cada nueva iteraci\\xF3n, el lenguaje trae nuevas funciones y herramientas innovadoras, lo que ayuda a los desarrolladores a crear un c\\xF3digo m\\xE1s s\\xF3lido y f\\xE1cil de mantener.\nEn estos d\\xEDas, con la creciente popularidad de los microservicios y las arquitecturas sin servidor, implementar aplicaciones Java es simple y flexible. Hay muchas formas de implementar aplicaciones Java, desde procesos manuales tradicionales hasta servidores de integraci\\xF3n continua completamente automatizados.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "el-futuro-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "El Futuro De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son el motor de la econom\\xEDa digital. Crean, mantienen y actualizan el software que impulsa las empresas, los sitios web y las aplicaciones. Y la demanda de ingenieros de software contin\\xFAa creciendo. Las ofertas de trabajo para ingenieros de software han aumentado un 37 % en los \\xFAltimos cinco a\\xF1os, y se espera un aumento adicional del 26 % para 2024.\nLa ingenier\\xEDa de software es tambi\\xE9n uno de los campos m\\xE1s competitivos para incursionar en este momento. Hay una escasez de candidatos calificados, lo que ha llevado a una gran demanda y altos salarios para los mejores ingenieros de software que pueden impulsar la innovaci\\xF3n en sus empresas. Para convertirse en ingeniero de software y obtener uno de esos trabajos codiciados, deber\\xE1 completar una licenciatura en inform\\xE1tica o tomar clases de codificaci\\xF3n. Echemos un vistazo a lo que necesita para convertirse en ingeniero de software y lo que podr\\xEDa deparar el futuro para este campo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-lenguajes-de-codificacion-para-aprender",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Lenguajes De Codificación Para Aprender",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener las habilidades para codificar puede ser un activo extremadamente \\xFAtil en su vida profesional y personal. Hay una gran demanda de codificadores en este momento, y seguir\\xE1 creciendo en el futuro. Algunas de las personas m\\xE1s exitosas de la actualidad llegaron all\\xED porque dominaron un lenguaje de codificaci\\xF3n y lo usaron para su beneficio. Ya sea que est\\xE9 buscando una nueva oportunidad profesional o algo que pueda usar a nivel personal, aprender a codificar es algo que no solo expandir\\xE1 su mente sino que tambi\\xE9n le abrir\\xE1 muchas puertas.\nLos lenguajes de codificaci\\xF3n pueden parecer intimidantes a primera vista, pero una vez que superas la rareza inicial de leer algo que parece un idioma extranjero, en realidad son bastante sencillos. Incluso si no tiene experiencia en programaci\\xF3n, este art\\xEDculo le brindar\\xE1 toda la informaci\\xF3n que necesita para comenzar su viaje de codificador y encontrar el lenguaje de codificaci\\xF3n perfecto para sus necesidades.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, con el predominio de los dispositivos m\\xF3viles e IoT, los usuarios esperan que las aplicaciones respondan r\\xE1pidamente y brinden una experiencia atractiva. Al mismo tiempo, las empresas exigen soluciones rentables para satisfacer estas demandas. Esto crea la necesidad de aplicaciones multiplataforma de alto rendimiento que se puedan implementar f\\xE1cilmente en varios dispositivos. JavaFX puede ser su mejor apuesta para desarrollar este tipo de aplicaciones.\nCon JavaFX, puede crear aplicaciones de cliente enriquecidas de alto rendimiento, receptivas y con una interfaz de usuario natural (NUI). En esta publicaci\\xF3n, explicaremos qu\\xE9 es JavaFX y qu\\xE9 aporta. Tambi\\xE9n veremos algunos ejemplos de d\\xF3nde se est\\xE1 utilizando esta tecnolog\\xEDa. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre sus beneficios y detalles de implementaci\\xF3n, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoKAAoAAUAmJbB8AAUxiAPwAAkGAAD+8lsokYpa6FDqS30it08lt6hPPg3aYIfrWpe8+qYqv/fgu2SwEafBuXG6+K3/8Vv/8s+/DEj7qAAAAA==",
+      "createdAt": "Tue Jan 12 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-el-desarrollo-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para El Desarrollo De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n de prop\\xF3sito general. Originalmente fue desarrollado en Google para resolver algunos de los problemas con otros lenguajes de programaci\\xF3n como C y Python que dificultaban la escritura de programas r\\xE1pidos, peque\\xF1os y correctos.\nGo facilita capturar la intenci\\xF3n del programador en el c\\xF3digo y generar resultados directamente desde la fuente, gracias a su sintaxis liviana, declaraci\\xF3n concisa y soporte integrado para funciones an\\xF3nimas sin la necesidad de variables temporales o argumentos auxiliares.\nGo generalmente se considera un lenguaje de programaci\\xF3n moderno, lo que significa que ha sido dise\\xF1ado teniendo en cuenta el rendimiento, viene con soporte para concurrencia e implementa nuevas caracter\\xEDsticas introducidas por otros lenguajes de programaci\\xF3n recientes como Rust y Swift. Los factores enumerados anteriormente hacen de Go una excelente opci\\xF3n para proyectos de desarrollo de software que involucran bases de c\\xF3digo de tama\\xF1o mediano a grande, optimizaci\\xF3n del rendimiento o compiladores de escritura.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-mejorar-tus-habilidades-de-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Mejorar Tus Habilidades De Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que reci\\xE9n haya comenzado en el campo de la codificaci\\xF3n o simplemente est\\xE9 buscando mejorar sus habilidades, puede ser un campo desafiante y de r\\xE1pido crecimiento. Las nuevas innovaciones en tecnolog\\xEDa surgen todo el tiempo, por lo que uno debe estar al tanto de su juego para mantenerse al d\\xEDa. Dicho esto, hay muchas maneras diferentes de mejorar tus habilidades de codificaci\\xF3n.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una habilidad cada vez m\\xE1s importante en todas las industrias. Desde desarrolladores e ingenieros de software hasta dise\\xF1adores de sitios web y programadores de videojuegos, cada vez m\\xE1s funciones requieren conocimientos de lenguajes de programaci\\xF3n. Incluso si no planea trabajar con el c\\xF3digo directamente en el d\\xEDa a d\\xEDa, tener conocimientos de c\\xF3digo puede abrirle oportunidades en casi cualquier industria. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo puede mejorar sus habilidades de codificaci\\xF3n y llevar sus habilidades tecnol\\xF3gicas al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "herencia-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Herencia En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensas en clases y objetos, \\xBFqu\\xE9 te viene a la mente? Si sus pensamientos se dirigieron inmediatamente a la idea de clases para padres e hijos, entonces ha estudiado programaci\\xF3n orientada a objetos o comprende los matices del ingl\\xE9s. Sin embargo, si piensa en un padre que da a luz a un hijo, es evidente que no ha estudiado suficiente programaci\\xF3n orientada a objetos. Veamos de qu\\xE9 se trata la herencia en Java y por qu\\xE9 es \\xFAtil.\nA menudo nos encontramos reutilizando c\\xF3digo que ha sido implementado en alguna otra clase. Esto nos lleva a hacer una pregunta muy l\\xF3gica: \\xBFpodemos reutilizar el c\\xF3digo a\\xFAn m\\xE1s? \\xA1La respuesta es s\\xED! Podemos tomar una clase y hacerla para que ampl\\xEDe la funcionalidad de otra. Esto se llama herencia en Java. Es una de las piedras angulares de la programaci\\xF3n OOP y algo que todo programador serio deber\\xEDa saber bien.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-ide-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Ide De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El desarrollo de software es un campo desafiante. Incluso los desarrolladores experimentados tienen que seguir aprendiendo constantemente cosas nuevas, porque cada d\\xEDa se inventan nuevas soluciones de software. Pero no siempre es f\\xE1cil ya que todo tiene sus propias complejidades y desaf\\xEDos. Todos los desarrolladores tienen sus propios problemas, especialmente cuando se trata de encontrar el mejor IDE para la codificaci\\xF3n. Es importante encontrar un entorno que sea c\\xF3modo y productivo, para que pueda realizar su trabajo m\\xE1s r\\xE1pido y con la mayor calidad posible. Un buen IDE proporciona accesos directos y otras herramientas para aumentar la productividad y, al mismo tiempo, hacer que todo el proceso sea m\\xE1s agradable. Hoy discutiremos algunos de los mejores IDE para la codificaci\\xF3n que puede usar si es un desarrollador o planea convertirse en uno en el futuro.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aplicaciones-ricas-de-internet-con-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Ricas De Internet Con Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las aplicaciones de Internet enriquecidas, o RIA, son aplicaciones basadas en web que presentan una mayor interactividad que los sitios web est\\xE1ndar. En lugar de simplemente permitir que los usuarios accedan a la informaci\\xF3n de un sitio web, las aplicaciones RIA generalmente brindan a los usuarios la capacidad de tomar medidas sobre ese contenido. Por ejemplo, en lugar de simplemente proporcionar a los usuarios informaci\\xF3n sobre un producto y su precio, una aplicaci\\xF3n RIA podr\\xEDa permitir a los usuarios agregar el producto a un carrito de compras y completar el proceso de compra.\nEste art\\xEDculo le presenta los RIA de Java para que pueda comprender por qu\\xE9 los desarrolladores de Java deber\\xEDan usarlo para desarrollar RIA. El objetivo de este art\\xEDculo es explicarle por qu\\xE9 Java es particularmente adecuado para desarrollar estas aplicaciones y por qu\\xE9 deber\\xEDa considerar usarlo si planea crear una.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

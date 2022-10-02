@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"How to set up your Java development environment?\"),mdx(\"p\",null,\"When you are developing an application, you need to set up your Java environment. This means that you need to install all of the tools and software required to get your computer ready to code. There are several ways to do this depending on the operating system you use and the version of Java that you want to use. You can use different combinations of software depending on your needs and the project you are working on. \"),mdx(\"p\",null,\"First, you need to determine where you want to store the code for your project. Your options include storing the code on your computer\\u2019s hard drive, using a code hosting service like GitHub, or using an internet-connected device like a Raspberry Pi. You also need to decide if you want to use open source or proprietary software for your development environment. Open source software is usually free to use and can usually be modified by the user. Proprietary software, on the other hand, is usually not free to use but comes with helpful support options. Finally, you need to decide what programming language you want to use.\"),mdx(\"h2\",null,\"Installing JDK on Windows\"),mdx(\"p\",null,\"If you are using Windows 10, then you have the advantage of installing the latest versions of Java straight from Microsoft's website. All you have to do is click the \\u201CDownload Windows 10\\u201D button and click JDK to install the right version of Java for your computer.\"),mdx(\"p\",null,\"If you are using Windows 7 or Windows 8, then you will need to download and install the latest versions of Java from Oracle's website. Click the \\u201CDownload Java\\u201D button and choose the \\u201CInstall for other software\\u201D option to install the right version of Java for your computer.\"),mdx(\"h2\",null,\"Installing JDK on Mac OS X\"),mdx(\"p\",null,\"If you are using Mac OS X, then you can install the latest version of Java by clicking the \\u201CApp Store\\u201D button on your computer. Then, click the \\u201CSearch\\u201D button on the App Store\\u2019s home page and type \\u201CJava\\u201D in the search bar. Select the \\u201CJava SE\\u201D app from the search results and click \\u201CInstall\\u201D to install the right version of Java for your computer.\"),mdx(\"p\",null,\"You can also install the latest version of Java by visiting Oracle's website. Click the \\u201CDownload\\u201D button and choose the \\u201CMac OS X 64-Bit \\u201C option from the \\u201CJava SE\\u201D section to install the right version of Java for your computer.\"),mdx(\"h2\",null,\"Installing JDK on Ubuntu\"),mdx(\"p\",null,\"If you are using Ubuntu, then you can install the latest version of Java by visiting Oracle's website. Click the \\u201CDownload\\u201D button and choose the \\u201CLinux 64-Bit \\u201C option from the \\u201CJava SE\\u201D section to install the right version of Java for your computer.\"),mdx(\"p\",null,\"You can also install the latest version of Java by visiting Ubuntu's website. Click the \\u201CInstall\\u201D button and click the \\u201CInstall Java\\u201D button to install the right version of Java for your computer.\"),mdx(\"h2\",null,\"Installing NetBeans IDE\"),mdx(\"p\",null,\"If you want to use an integrated development environment (IDE) for your Java development environment, then you can install the free NetBeans IDE. Click the \\u201CDownload\\u201D button on the website and click the \\u201CDownload the latest version\\u201D link on the Overview tab to install the latest version of the IDE. You can also visit Microsoft's website to download Visual Studio Code which is another popular IDE.\"),mdx(\"p\",null,\"You can also visit Oracle's website to download the latest version of the Java Development Kit for your computer. Click the \\u201CDownload\\u201D button and select the \\u201CLinux\\u201D option from the \\u201CLinux 64-Bit \\u201C section to download the latest version of the Java Development Kit for your computer.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Java is one of the oldest and most widely used programming languages. It is designed to be readable, compact, and simple to use so that developers can create programs quickly and efficiently. Setting up a development environment to code in Java is simple and can be done with a few clicks or downloads.\"),mdx(\"p\",null,\"Now that you know how to set up your Java development environment, you are ready to start coding. Whether you're building a website or an app, Java is a great programming language for beginners.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-future",
+      "locale": "en",
+      "title": "Python - The Language of the Future",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJYwCdAEPChpfyVYAAP6t+3/8PPzEsJ015Z9eXxnwnKMXzv78iZ3fXMwFDqfAEQcpJA8dUc/khL/AudC/65gS4RifvMI8n/xYdlgV3qp68FcRMBPvGl+L4fma80n8ITK17rogwWZfP2FgAAA=",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-journals",
+      "locale": "en",
+      "title": "The Top Software Engineering Journals",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers constantly have to stay up-to-date with new research, trends, and techniques in their field. The most common way for software engineers to do this is by reading research papers published in journals. These journals are almost exclusively found online. Many of them are available for free, but some are behind paywalls for non-subscribers. Fortunately, you don\\u2019t need to subscribe to every single one of these journals if you\\u2019re a software engineer\\u2014just the ones that publish articles related to your specific interests and career goals as a software engineer.\nRead on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADH0lMIAD970/UC/et1mciudnrQgkGB+dd2iPVamMHDUh7mdaC8G8P5X82xrJmLpm/aCpaKe2EDKZE8yPrpaHX/7eV4hc1UftQyoEVUfxZ7/8c2/8EGB1eOYrta97gAA==",
+      "createdAt": "Mon Jan 17 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-software-development",
+      "locale": "en",
+      "title": "Python - The Language for Software Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-programming",
+      "locale": "en",
+      "title": "Go Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJbACdAaLN5S4ZSKyNZqD1AAA/sYHo//+hxpetvtkSoyoiLV0Lieb3NvRLk2SsuD25lcaJHL78S5ZiV36k4f3ySR/B/IhP8d/RUgsF3rupU/z2h8s77xfl/8eqLG+Xj5RODOjEfrqB5PjRP5t1m7vnrY8pn4/0L/+33+1b0Dy3SfkTNcAAA==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-mobile-development",
+      "locale": "en",
+      "title": "Go Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

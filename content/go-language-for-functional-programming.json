@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Haskell\"),mdx(\"p\",null,`Haskell is a pure functional programming language developed in the 1970's. A lot of modern functional programming languages have been inspired by Haskell, including Scala and Clojure.\nThe biggest advantage to using Haskell for your next project is that you can scale that project to huge sizes without needing to change your programming language. Haskell is used for all kinds of large-scale projects, from web services to artificial intelligence research.\nThe main reason for this is that the language has a strong, static type system. This means that the compiler can basically check your code at the level of \"does this code even make sense?\" This makes it much easier to catch bugs early in the process and prevent them from making it into production.\nHaskell also has a reputation of being a difficult language to learn, but once you are fluent, it will give you the power to build nearly anything.`),mdx(\"h2\",null,\"Scale\"),mdx(\"p\",null,`Scale is an emerging functional programming language that aims to make it easy to write distributed, high-performance systems. The language currently targets the JVM and aims to run on the browser in the future.\nThe advantages of Scale include the fact that it is a compiled language, which makes it perform faster than some other functional programming languages. It also has a strong type system, which makes it easier to write correct code.\nWhile Scale is still relatively new, it has a small but enthusiastic community and can run on a number of different backends which gives it lots of potential for future growth and use cases.`),mdx(\"h2\",null,\"Clojure\"),mdx(\"p\",null,`Clojure is a general-purpose programming language that is also widely used for functional programming. The language was created in 2007 by a member of the Lisp community, and it runs on the JVM and also in browser environments.\nClojure is a dialect of Lisp, meaning that it has a lot in common with other Lisp programming languages. However, it\\u2019s also a modern language that has been designed to make it easy to use for modern projects.\nClojure has a number of advantages for functional programming, including a flexible syntax and the ability to run on multiple platforms. It also has a large and growing community that makes it easy to find answers to questions about the language.`),mdx(\"h2\",null,\"CoffeeScript\"),mdx(\"p\",null,`CoffeeScript is a little-known programming language that was designed to make it easier to write in the functional programming style. It has since evolved to support OOP and is used primarily for web-based projects.\nCoffeeScript was created in 2009 by a programmer named Jeremy Ashkenas. It was originally meant to be a way to write JavaScript in a more readable fashion, but it has evolved over the years to support functional programming as well.\nCoffeeScript still has some limitations as a functional programming language, but it is a great option for projects that need to run on the browser or be compatible with JavaScript. It is also easy to learn and has a small but growing community around it, which makes it easy to find help if necessary.`),mdx(\"h2\",null,\"Prologue\"),mdx(\"p\",null,`Functional programming is a growing trend in software development, but the languages that support this style of programming aren\\u2019t always easy to learn. Not only that, but there are many functional languages out there, many of which have somewhat similar features. This can make it difficult to choose which one will be the best fit for your project.\nCoffeeScript and Scale are fairly easy to learn and make it easy to adopt functional programming into your workflow. However, if you are looking for something that is more like a traditional Lisp, then Clojure might be a better option for you. And if you want to use a language that is as close to a real programming language as possible, then you should try Haskell.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Functional programming is an approach to writing code that has become increasingly popular in recent years. It can help make code easier to read and understand, and it can also make certain types of projects easier to write.\"),mdx(\"p\",null,\"There are many functional programming languages out there, each with its own strengths and weaknesses. To choose the right one for you, you should consider your preferences for syntax, size of community support, and availability of libraries for the type of projects you are working on now or might work on in the future.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-administration",
+      "locale": "en",
+      "title": "Go Language for Database Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAYr7vtKwKgJ+AD+/dMt2lwUULDREX1J+IgQp0ozpvRc02wSfA8JxvQ12k5qhRNzMcFq/KPhvlZ7z4odbOX9/xoI0dCSFk8VlpRy7zhmecYccgVtaAAAAA==",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-devops",
+      "locale": "en",
+      "title": "Go Language for Devops",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJaACdAYs32ZJkvDzowAA/vm699i8Ref+5sDm3/yFn7+ze/u7XrDaaPfMQf41a/5fsWfKo/xA/efzt3+13e+x222+ImpR9ZA5povx9P9nKfRv9gtNeyZOR6rn5skTKeaIuohp//xT5f7/9v/1gP212bu+Oy36R/jAt1C9fk3JOa476GAAAA==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-javaserver-faces",
+      "locale": "en",
+      "title": "Introduction to Javaserver Faces",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFg2tR+TgAP7YU3FZiwbFuBrV5bGmY3Oh2pqHn2vZPgLHpV+/Vsn0dqLzIwJXCrNxVtoT1cq2VkDad6a5+QZX/+7z903iq374LsArz1f6s1/g3/uB//HBH7CdcRBZA5LboAAAAA==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "5-tricks-to-help-you-master-javascript-in-5-minutes",
+      "locale": "en",
+      "title": "5 Tricks to Help You Master JavaScript in 5 Minutes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve just started learning programming or are struggling to get a grasp of it, Javascript can be one tough nut to crack. This dynamic and functional programming language is used for creating interactive websites and applications.\nThe scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it\\u2019s also a great first programming language because of its simplicity, accessibility, and ease of availability online.\nBut like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJYgCdAEO/kOOAAD++jwC6sVnBPT6WwvL8iIUI2dl6DcrAvKtH4SZXG/BOc1hWPT8NuU2tHb2WQap5/XKFogRX6b6jofXzt3GMfH69j401+cgoEkkAAAA",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-web",
+      "locale": "en",
+      "title": "Python - The Language of the Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

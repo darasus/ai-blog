@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What Is TypeScript?\"),mdx(\"p\",null,\"TypeScript is a programming language that compiles to JavaScript. JavaScript is the most popular language used in the development process of web applications and websites. You will often find it in front-end web development, mobile app development, and IoT development as well. So, TypeScript is a superset of JavaScript that adds static typing to the language. In other words, it is a programming language that can be compiled into JavaScript. TypeScript can be used to develop any kind of application, but it is most commonly used for web development.\"),mdx(\"p\",null,\"A lot of modern programming languages like C#, Java, and Go have static typing. This means that the type of data is determined before the program is executed. This is not the case with JavaScript. This language expects the user to specify the data types at runtime, which can make the code less accurate and more prone to bugs. TypeScript solves this issue by adding static typing to the JavaScript language.\"),mdx(\"h2\",null,\"How Does TypeScript Work?\"),mdx(\"p\",null,\"Let\\u2019s go over how TypeScript works. First, you will write code in a TypeScript file. Then, you will use a TypeScript compiler to generate JavaScript code. You can then run the generated JavaScript code in any browser or environment. When the TypeScript compiler compiles your code, it uses an online service such as an integrated development environment (IDE) or a cloud-based service. This is a great way to start using TypeScript since you don\\u2019t have to download and install any software.\"),mdx(\"p\",null,\"The TypeScript compiler analyses your code, then it compiles it into a regular JavaScript code. However, when you run the code, it will use a JavaScript engine to execute it. This means that static typing works only when the code is being compiled. In other words, the type annotations will not be available when the code executes.\"),mdx(\"h2\",null,\"Why Should You Use TypeScript?\"),mdx(\"p\",null,\"There are several reasons why you should use TypeScript. First, it lets you choose between dynamic and static typing. Using static typing, you can write more accurate code because the compiler will check it and indicate errors as soon as you make a mistake. On the other hand, if you use dynamic typing, you can write more intuitive code that is easier to understand.\"),mdx(\"p\",null,\"Second, static typing can help you avoid bugs and improve your development process. Debugging is often much easier when the code is compiled with static typing since the compiler will automatically check for typos and errors.\"),mdx(\"p\",null,\"Finally, static typing makes it much easier to scale up your projects and create code libraries that other developers can use as well.\"),mdx(\"h2\",null,\"The Advantages of Using TypeScript\"),mdx(\"p\",null,\"The advantages of using TypeScript are numerous. First, it is a simple way to start using static typing. If you usually write code without any type annotations, you will find that adding types to your projects is straightforward. This is because TypeScript lets you use a simple syntax to add types to your code.\"),mdx(\"p\",null,\"Second, it is an open-source language that is also free to use. By using an open-source language, you can make sure that the code is secure and safe to use. You also have access to the source code and can modify it to suit your needs if necessary.\"),mdx(\"p\",null,\"Third, TypeScript is supported by all major IDEs, including Visual Studio Code, Sublime Text, and Vim. This makes it easy to integrate TypeScript into your development process and use it for your future projects.\"),mdx(\"h2\",null,\"Wrapping Up\"),mdx(\"p\",null,\"Now that you know what TypeScript is and how it works, you can decide if it\\u2019s a good choice for your next project. TypeScript is a great language for beginners and experienced developers alike. It lets you write more accurate code that is easier to debug and scale up. It also allows you to choose between static and dynamic typing so that you can create an intuitive code that is easier to understand.\"),mdx(\"p\",null,\"If you have been looking for a new language to try out, or you want to upgrade your skills and move up to the next level, TypeScript is the best choice. It is a modern and powerful language that can be combined with lots of different tools, libraries, and frameworks. It is also easy to integrate with other languages and it is supported by all major IDEs.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
+      "createdAt": "Sat Jan 23 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "web-applications-with-java",
+      "locale": "en",
+      "title": "Web Applications with Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJbACdAEP1hNnwnSgAP78O3gp2U2JfyaY+DeGoJ9UNlv3HkYt9yBMvP1T+eNn4VFP+T5Knz6bXyNebVv1YnpOTvyPAh8pFGAqgz/+qn7kYAAA",
+      "createdAt": "Fri May 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-find-the-best-coding-help-online",
+      "locale": "en",
+      "title": "How to Find the Best Coding Help Online",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that finding help with computer coding is one of the fastest growing online industries? Did you also know that there\\u2019s an abundance of websites out there where you can find that very same coding help? With so many places to look for coding assistance, it makes sense why there are so many professionals who can\\u2019t seem to find the best options. But don\\u2019t worry! There are plenty of great resources out there if you know where to look.\nIn this blog post, we\\u2019ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introducing-javafx",
+      "locale": "en",
+      "title": "Introducing Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-natural-language-processing",
+      "locale": "en",
+      "title": "Python - The Language for Natural Language Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Natural language processing is the ability of a computer program to understand human speech. The primary benefit of natural language processing is that it allows users to communicate with a machine in a way they are most comfortable with. Computers can now understand, process, and react to human speech.  Natural Language Processing (NLP) is an area of artificial intelligence that enables computers to detect and understand human speech as well as written words. It involves the techniques and algorithms related to natural language processing such Artificial Intelligence, Machine Learning, Computer Vision, Information Retrieval, and Computer Speech Recognition.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-hibernate-application",
+      "locale": "en",
+      "title": "Building a Hibernate Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

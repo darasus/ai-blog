@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Go?\"),mdx(\"p\",null,\"Go is a compiled programming language designed around simplicity, readability, and scalability. It has a strong focus on concurrent programming and is commonly used for backend server development, especially in areas where robustness and resilience are important.\"),mdx(\"p\",null,\"Like most modern programming languages, Go\\u2019s syntax is mostly composed of keywords and symbols that resemble the functionality being performed. While this is helpful for new programmers, it can be a bit daunting for those who are new to coding.\"),mdx(\"p\",null,\"There are many articles online that can help you get comfortable with the syntax. It\\u2019s worth mentioning that Go\\u2019s simplicity makes it easier to read and understand code. This can be incredibly helpful when you\\u2019re working with programming languages that are new to you.\"),mdx(\"h2\",null,\"Concurrency support\"),mdx(\"p\",null,\"Concurrent programming is a technique that enables applications to perform multiple tasks at the same time. This is useful when you are building applications that have to deal with heavy loads since they can do more with fewer resources.\"),mdx(\"p\",null,\"Go\\u2019s standard library makes it easy to implement concurrency in your applications. In fact, this is the key reason why major companies like Google, Netflix, Dropbox, Uber, New York Times and Cisco are using Go for their backend services.\"),mdx(\"p\",null,\"If you\\u2019re building a web application, chances are you\\u2019ll want to be prepared for a spike in traffic. Say that your application serves videos on a live streaming platform\\u2014it will have to handle an extremely high volume of concurrent requests.\"),mdx(\"p\",null,\"The good news is that Go\\u2019s concurrency support makes it easy to handle these spikes. For example, if your application is getting 1,000 concurrent requests, it can still process them all even if your server is only set up to handle 400 requests.\"),mdx(\"h2\",null,\"Go\\u2019s ability to handle big data sets\"),mdx(\"p\",null,`One of the biggest advantages of Go is the language\\u2019s ability to handle big data sets. When you have to work with large data sets, you will have to find ways to quickly process them.\nOne of the main reasons that Go is being adopted by most companies is its ability to process big data sets. Go has a number of features that make it easy to process big data sets. For example, the language\\u2019s map/reduce functionality lets you process large data sets using a parallel approach that divides the data into smaller chunks for processing.`),mdx(\"p\",null,\"Go\\u2019s garbage collector is another feature that makes it easy to handle big data sets. This feature automatically frees up memory when items are no longer in use. Since computers have limited memory, it\\u2019s important that your code clean up after itself.\"),mdx(\"p\",null,\"Since Go\\u2019s garbage collector automatically cleans up memory that is no longer in use, it makes it easier to handle big data sets since memory won\\u2019t be used.\"),mdx(\"h2\",null,\"Built-in testing tools\"),mdx(\"p\",null,`Building robust software is challenging since you have to account for a number of potential bugs that can affect your program\\u2019s output. It\\u2019s important to write tests to make sure that your code is functioning as it should be. It is a tedious task but it\\u2019s also very important.\nYou can make your life easier by using a programming language that makes it easy to create tests.\nGo\\u2019s testing functionality is built into the language. When you create a new project, Go creates a file that creates a testing environment that is both simple to use and reliable.`),mdx(\"p\",null,\"The testing functionality within Go is powerful enough to allow you to create tests that simulate the way your application is going to work when deployed. You can use this feature to find issues such as the amount of time it takes to complete a given task or if an error can occur in a particular situation.\"),mdx(\"h2\",null,\"Language stability\"),mdx(\"p\",null,`New programming languages often come with a lot of hype and promise. However, many of them don\\u2019t survive the test of time and eventually die out.\nThis doesn\\u2019t mean that Go will be around forever. But it does show that it is a mature language that has been around for a while and is not likely to go away anytime soon.\nAs a programmer, you don\\u2019t want to be constantly switching languages as a new one comes out every few months. You want to pick a language that is stable and will be around for a long time.`),mdx(\"h2\",null,\"Summary\"),mdx(\"p\",null,\"Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character. Go\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects. There is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
+      "locale": "en",
+      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAreEru2AAP7zR9jGqPJGadLi9+v/tC82cNq9UFopDMSFDzK9Y+Efid49hRnu4PGnO2k2cc8Xc+0q6D+MFCcFuRmt0TXilwv/tQo3/TwE/8w3hGf/qYV4u5fub/+7J/6kAAAA",
+      "createdAt": "Tue Feb 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAE51lgqgWMkAAD5f/MFUcfnHXYRQiYbBID/kxBpNnzpd/DF564O6rAZ8Bj1SQ4uIGpn3+Qlf+VkOVZeRSW0nF1x1xaKCHKtYIKhIdSbodtws8zjVXC81TmvPM2os9P63Ft1qhk+f/2cbr7wom0k6AAA",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-programs",
+      "locale": "en",
+      "title": "The Top Software Engineering Programs",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAYr7vtKwKgJ+AD+/dMt2lwUULDREX1J+IgQp0ozpvRc02wSfA8JxvQ12k5qhRNzMcFq/KPhvlZ7z4odbOX9/xoI0dCSFk8VlpRy7zhmecYccgVtaAAAAA==",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJaACdAYrTkvy7OhwAP7+DL3G5B1Fvasbbu3eiP+OD56cz+2n8bLMjhy6bsxVss4/jD/2Pr6JcaQ02jfPyXVM/B4RDFMjs3ii+f/PPv79Mnm02910mVKW7SN/qm134lyb1zcXiBH/VbM9/V+9fvd/+45MQAAA",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-distributed-computing",
+      "locale": "en",
+      "title": "Go Language for Distributed Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-security",
+      "locale": "en",
+      "title": "Java Security",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJbACdAaLN5S4ZSKyNZqD1AAA/sYHo//+hxpetvtkSoyoiLV0Lieb3NvRLk2SsuD25lcaJHL78S5ZiV36k4f3ySR/B/IhP8d/RUgsF3rupU/z2h8s77xfl/8eqLG+Xj5RODOjEfrqB5PjRP5t1m7vnrY8pn4/0L/+33+1b0Dy3SfkTNcAAA==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-mobile-development",
+      "locale": "en",
+      "title": "Go Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

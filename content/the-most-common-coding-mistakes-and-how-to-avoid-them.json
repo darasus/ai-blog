@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Don\\u2019t Know How To Check For Errors?\"),mdx(\"p\",null,\"Errors are a common problem when coding, but you can catch many of them before they become an issue\\u2014or before they cause your code to break completely. There are many ways to check for errors, such as the following:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Using the \\u201Cdebugging\\u201D feature of your chosen programming language.\"),mdx(\"li\",{parentName:\"ul\"},\"Using \\u201Cassertions\\u201D to inform you when a condition is not met.\"),mdx(\"li\",{parentName:\"ul\"},\"Using \\u201Clogging\\u201D to store a record of errors in a file.\"),mdx(\"li\",{parentName:\"ul\"},\"Using \\u201Cerror handling\\u201D to catch errors and handle them gracefully.\"),mdx(\"li\",{parentName:\"ul\"},\"Using \\u201Cunit testing\\u201D to check that every part of your code is correct.\")),mdx(\"p\",null,\"Even if you do everything right, there\\u2019s still a chance that your code could break. You can only do so much to avoid errors, so it\\u2019s important to know how to identify and fix them with minimal disruption to your project.\"),mdx(\"h2\",null,\"Forget To Rename Or Re-scope Variables\"),mdx(\"p\",null,\"When coding, it\\u2019s best to create a variable for every element you want to represent. However, it\\u2019s also important to choose good variable names. If you don\\u2019t give your variables a new name or \\u201Cre-scope\\u201D them, they will conflict with other variables, causing errors.\"),mdx(\"p\",null,\"If you use the wrong variable, the program won\\u2019t output the correct result. To avoid this, you must choose the right variable name. If you don\\u2019t give your variables a new name or \\u201Cre-scope\\u201D them, they will conflict with other variables, causing errors. This may happen if you forget to change the name of a variable when you change its purpose in the code.\"),mdx(\"p\",null,\"Variable naming conventions are different for every language, but many programmers follow the \\u201Ccamel case\\u201D convention and add a prefix to each variable name. For example, you could use \\u201CfirstName\\u201D for a person\\u2019s first name and \\u201ClastName\\u201D for their last name.\"),mdx(\"h2\",null,\"Confused About Scope?\"),mdx(\"p\",null,\"Scope refers to where a variable is visible and how long it lasts. Variables at the \\u201Ctop level\\u201D of a program aren\\u2019t limited to a specific part of the code. They can be accessed anywhere. Global variables are visible throughout the program. Local variables are only visible in one function or part of the code.\"),mdx(\"p\",null,\"Scope (or lack thereof) is often the reason for a lot of bugs and errors in programming. For example, a function that relies on a global variable might break when the value of that global variable changes. To avoid scope issues, it\\u2019s best to use \\u201Clocal\\u201D variables as much as possible, and avoid placing variables at the \\u201Ctop level\\u201D of the program. Scope issues are generally easy to spot. If your code doesn\\u2019t work correctly, it could be because of a scope issue.\"),mdx(\"h2\",null,\"Incorrect Usage Of Conditional Statements\"),mdx(\"p\",null,\"Conditional statements can be very helpful, but they should be used correctly. If you have a condition but don\\u2019t follow it with the correct subroutine, you could end up with an error.\"),mdx(\"p\",null,\"For example, if you have a condition that calls for \\u201Cx > y\\u201D but you write \\u201Cx  y,\\u201D the program won\\u2019t work correctly. To avoid this, you must be sure you know the difference between \\u201Cgreater than\\u201D and \\u201Cless than,\\u201D as well as the difference between \\u201Cequals\\u201D and \\u201Cdoes not equal.\\u201D It\\u2019s important to know the order of operations for conditional statements too. If you put parentheses in the wrong order, you could break your entire statement.\"),mdx(\"h2\",null,\"Overuse Of Conditional Statements\"),mdx(\"p\",null,\"Conditional statements are incredibly useful, but overusing them can cause problems. If you use a conditional statement when you don\\u2019t need to or you use multiple conditions without combining them, you could create an error.\"),mdx(\"p\",null,\"For example, if you use a conditional statement to check for a valid user ID when you should be using a \\u201Cregex\\u201D function instead, you might get an error. To avoid this, you should know the difference between valid and invalid inputs. You should also know when to use a conditional statement and when to use a \\u201Cregex.\\u201D\"),mdx(\"h2\",null,\"Excessive Looping Without Conditions Or Regeneration\"),mdx(\"p\",null,`Loops are great, but they shouldn\\u2019t be used incorrectly. For example, you shouldn\\u2019t use a loop without a condition. If you loop while a condition is false, the program will freeze. If you loop forever, the program will never finish.\nLoops are also helpful for regenerating data. If you have a list of data and you want to regenerate a new list with new data, a loop can help you do so. That said, loops should be used correctly and not excessively. You should know when you can use a loop and when you shouldn\\u2019t.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Coding is challenging, but it\\u2019s also a skill that can be learned with practice and patience. However, it\\u2019s important to know about these common coding mistakes before they disrupt your project. If you\\u2019re careful about the way you write your code, you should be able to avoid these errors. It might be challenging in the beginning, but as you become more experienced, the process will become easier.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/spring-mvc-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAEPALwdsYAA/v7GUZ5PlhJIBneoTV65URORmalMuDcdtHSSKoz4hxaAFL6i138Vg2XlfrW/GGmm1vqapr57Dduz2d6EdwAA",
+      "createdAt": "Thu Aug 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "spring-mvc-applications",
+      "locale": "en",
+      "title": "Spring Mvc Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdDBACIvMFFw35AUAAP79gdQ61/8jFcNFaDIm6ro2J3A952YoF7dTlujclxSodL2EnzW76bf9v5jrezi5Wer37ru964jcNHqn/Cohf/n6oTZaf4TmnB/8vX/3OTP8qH//qBj/EJKwVkieDclSCTbs3sNSAAA=",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-better",
+      "locale": "en",
+      "title": "How to Code Better",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/packages-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAsk/hKFyFAAA9438Qif7NTx4/XBGfvlPNqVZ278xZVveVdYm28CSe79qqrt6COwDPzbZqn42+4pPcjM1VxGEtpNgmo7e/9MwWmBePk/c23ff6zKbDrlj7KPV/xyO4cv/0YDVmJY2DhsPCaf2hlJDM7wBPGjAAAA=",
+      "createdAt": "Tue Mar 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "packages-in-java",
+      "locale": "en",
+      "title": "Packages in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this digital world, everything is going digital. Even the field of programming is shifting towards more digitized platforms and solutions. In such a scenario, the need for compact programs that can be easily installed and used on any device arises. That\\u2019s where Java packages come into play.\nA package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they\\u2019re easier to find later on. Let\\u2019s take a look at some common Java packages:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-hibernate-application",
+      "locale": "en",
+      "title": "Building a Hibernate Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

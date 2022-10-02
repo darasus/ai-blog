@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Performance\"),mdx(\"p\",null,`Go is fast. Programs written in Go will typically be compiled to several times faster than equivalent programs written in languages like C/C++ or Fortran. Go achieves this speed-up by using a lightweight virtual machine (VM) that avoids addressing the complexities of a general-purpose CPU.\nThis means that Go is particularly suitable for computationally intensive tasks such as image processing, machine learning, and data analysis.`),mdx(\"h2\",null,\"Ease of use\"),mdx(\"p\",null,\"Go is a great language if you are new to coding or if you are trying to switch from another language such as C/C++. One of the reasons why Go is great for beginners is because the syntax is much simpler than other languages. The Go language is also easy to read and maintain, which is ideal for collaborative projects.\"),mdx(\"h2\",null,\"Standard Go libraries for scientific computing\"),mdx(\"p\",null,`For scientific computing, Go\\u2019s standard library includes packages such as image, io/ioutil, io/ioutil, math, and net. These packages allow Go programs to easily manipulate images, read/write files, do mathematical operations, and interact with the internet.\nThe image package is a robust package for image processing. It is able to read many common image formats, such as JPEG and PNG, and write them to different file formats, such as GIF and TIFF.\nThe math package provides many useful operations such as discrete Fourier transforms (DFT), basic statistical calculations, and random number generation.\nThe net package is useful for network programming and includes functionality to connect to remote servers, download files from the internet, and send emails.\nThe io/ioutil package is useful for reading from and writing to files. This package is particularly helpful for reading/writing text files and reading/writing data from Excel or Google Sheets.`),mdx(\"h2\",null,\"Language Feature Benefit For Scientific Computing\"),mdx(\"p\",null,\"If you are a programmer who has previously worked in C, C++, or Fortran, you\\u2019ll be at home with Go. However, there are some language features that will make programming in Go an even better experience.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Error handling and flow control are excellent. Go\\u2019s error handling is one of the best features of the language. Go forces you to explicitly declare all possible errors in your code. This helps programmers catch errors earlier and makes the code easier to read and maintain.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has great support for concurrent programming. If you are working on a project that requires creating multithreaded programs, you will be happy to know that Go excels at this.\"),mdx(\"li\",{parentName:\"ul\"},\"Go supports packages and has an excellent package management system. This allows you to organize your code into packages, which are like folders that contain related code. Packages are helpful if you are working on a collaborative project with other Go programmers.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has excellent standard library support. The standard library contains many useful functions for common programming tasks.\")),mdx(\"h2\",null,\"Go Code is Easy to Read and Maintain\"),mdx(\"p\",null,\"The best programming languages are readable, concise, and maintainable. Complicated code is difficult to read, understand, and update. Go\\u2019s simplicity makes it easy to read and maintain.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Go code uses very little curly brackets. This makes reading and understanding code much simpler.\"),mdx(\"li\",{parentName:\"ul\"},\"Semicolons are not required. This makes it easy to write code without having to worry about forgetting a semicolon.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has great support for code formatting. This means that you can write code in any format that you find easier to read. The Go compiler will ignore the formatting of the code.\"),mdx(\"li\",{parentName:\"ul\"},\"Go has built-in support for comments. Comments are helpful for explaining what the code is doing. This makes it easier to understand how the code works.\")),mdx(\"h2\",null,\"Go Supports Native C/C++ Code\"),mdx(\"p\",null,`One of the biggest advantages to Go is that you can use existing C/C++ code within a Go program. For example, you can use C/C++ functions as part of your Go program or create a C/C++ library and import it into your Go code.\nThis allows you to take advantage of existing C/C++ libraries and code. This is particularly helpful for scientific programming where many of the libraries are written in C/C++.`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"You can also mix C and Go code within the same program. This allows you to write code in the language that is most suitable for the task. For example, you may want to write your user interface in Go, but use C to write your image processing code.\"),mdx(\"li\",{parentName:\"ul\"},\"Go provides some functionality that is not provided in C/C++ such as automatic garbage collection, memory safety, and built-in concurrency.\")),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"The Go programming language is an excellent choice for any project that requires scientific computing. With its fast compilation times and lightweight VM, Go is well suited for computationally intensive tasks. It\\u2019s easy to read and maintain code and has built-in support for C/C++ code. Go is also great for beginners, has excellent error handling, and has a strong standard library for scientific computing.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-a-software-engineering-career",
+      "locale": "en",
+      "title": "The Benefits of a Software Engineering Career",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-mobile-development",
+      "locale": "en",
+      "title": "Python - The Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-hibernate",
+      "locale": "en",
+      "title": "Introduction to Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJagCdAEQD2Rd7IQAAP790mPps9hl3VCiK5WogAykPi06jEUy0T+Yw0ew4Fkz2mTdO8M3KpmUfnzMP4IimeRhY2ckCi/4h5/6WwK+gWLKosr892gAAA==",
+      "createdAt": "Thu Mar 31 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-overview",
+      "locale": "en",
+      "title": "Python - An Overview",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javafx-and-multimedia.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAAxyBd40kAiAAAP7lO+1qOmds/tJfZfljhV9fzqbZgCs/Jc52J4+ud6v4QeEqivOh6V1q1Ndcfh8cf6FsXcR2ffzM7aPlLnaDyeM0qxZcpTWvFeKMv/zv31cdnJt1g46NA8o5kyzfE2oj34N/0PgA",
+      "createdAt": "Tue Jul 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javafx-and-multimedia",
+      "locale": "en",
+      "title": "Javafx and Multimedia",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New technologies and breakthroughs in semiconductor fabrication have enabled the creation of advanced mobile devices. These mobile devices are not just used for voice calls or text messaging. They can now be used to capture images, record videos, and listen to music. Java has always been at the forefront of new technology adoption, thanks to its portability, consistency across various implementations, and large codebase. If you think that Java is just good for business applications and websites, then you need to think again. With the advent of Java 8 and Android apps based on this version of the language, there is a renewed focus on mobile development using Java. This has led to several innovations in the area of embedded devices with IoT-enabled edge computing and Machine Learning (ML) based artificial intelligence systems. The latest technology being adopted by both enterprises and developers is the Internet of Things (IoT).\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJbACdLoB+AARC5llxEIhYwAA/uhnVurOlaQ/z3wtKM/gWLP6TQ2cgSPKxu80JSwmR+kVQw5f0WKh0wP/5g3ePBo69avNyn+RiRPJ9bk7Y56b3f/3n2l71O8d+/xDWCP/as5/pW/+SpCwmQ+9prhAAAA=",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Why Learn TypeScript?\"),mdx(\"p\",null,`The programming languages that most developers use were created decades ago at a time when the Internet was in its infancy and when mobile devices were just a dream. Technology has come a long way since then, but languages like JavaScript and Java have been slow to evolve.\nThis has led to a lot of issues and challenges in modern software development since the same code is often used on multiple platforms. TypeScript is designed to address these issues and help developers create more robust and scalable software.`),mdx(\"p\",null,\"When you write code in TypeScript, it is compiled into plain JavaScript. This process allows TypeScript to inherit all JavaScript\\u2019s features while adding its own. This makes TypeScript useful for JavaScript developers who want to write better code that scales across platforms and browsers.\"),mdx(\"h2\",null,\"What is TypeScript?\"),mdx(\"p\",null,\"TypeScript is a programming language created by Microsoft in 2012. It is a typed, static-typing language that compiles to JavaScript. It is a superset of JavaScript that allows developers to write code with more clarity and precision and to create larger, more complex software systems. Because TypeScript is a compiled language, running it requires a tool to convert the code into normal JavaScript.\"),mdx(\"h2\",null,\"Installing TypeScript\"),mdx(\"p\",null,\"If you use a Mac or Linux computer, you can download and install TypeScript using the terminal or a command prompt. On Windows, you can download and install TypeScript from the Visual Studio Code website.\"),mdx(\"h2\",null,\"Hello World in TypeScript\"),mdx(\"p\",null,\"The classic \\u201CHello World!\\u201D program is used by developers to test newly learned programming skills. To create a Hello World program in TypeScript, open a text editor and begin by creating a new file. Name this file \\u201CHelloWorld.ts.\\u201D Open this file and type the following code:\"),mdx(\"p\",null,'console.log(\"Hello, World!\");'),mdx(\"h2\",null,\"Types in TypeScript\"),mdx(\"p\",null,\"TypeScript is a strongly typed programming language. This means that each programming variable or function must first be assigned a type. You can think of this type as a \\u201Clabel\\u201D that tells the program how to handle the data that is inputted into the program.\"),mdx(\"p\",null,\"To better understand this concept, let\\u2019s take a look at a few examples of types in TypeScript. Let\\u2019s say that you wanted to create a program that adds two numbers together and then outputs the result. The program code might look something like this:\"),mdx(\"p\",null,\"var answer = 12 + 9;\"),mdx(\"p\",null,\"In this example, the variables \\u201C12\\u201D and \\u201C9\\u201D are numbers. The variable \\u201Canswer\\u201D is a new variable that stores the results of adding \\u201C12\\u201D and \\u201C9\\u201D together.\"),mdx(\"h2\",null,\"Summary\"),mdx(\"p\",null,\"This article covered everything you need to know about TypeScript and why you should use it as a developer. You learned that TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. You also learned how to install TypeScript on your computer, create a Hello World program in TypeScript, and understand the types in TypeScript. Now that you\\u2019re armed with all the knowledge you need, go ahead and make the move to TypeScript!\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdDBACIvMFFw35AUAAP79gdQ61/8jFcNFaDIm6ro2J3A952YoF7dTlujclxSodL2EnzW76bf9v5jrezi5Wer37ru964jcNHqn/Cohf/n6oTZaf4TmnB/8vX/3OTP8qH//qBj/EJKwVkieDclSCTbs3sNSAAA=",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJagCdLoAEJMTYNgi24AA4lk6tpd3mbSDK7fU1vTesf970Y1Y1IRYmx9SL/i2zTzxlk6hmb/UyqlENf/U5Au7/k5eh/xpHuB+1bCAqBYnv8AA",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-the-masses",
+      "locale": "en",
+      "title": "Python - A Language for the Masses",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-database-programming",
+      "locale": "en",
+      "title": "Python - The Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an immensely powerful programming language that offers a variety of uses. It can be used for almost any task, from small one-off projects to large frameworks for server-side development, web applications, and even mobile apps. One area in which Python excels is database programming. In this article, we explain why that\\u2019s the case and explore the different ways in which you can use Python for database programming.\nThis blog post is part of our ongoing \\u201CCoding in CV\\u201D series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJYgCdAEWgbSTEm+LAAD+/vFQK39//4sPkV6Bi/vxcEPq11/w7j7b36dkQG2+M6yFgCF/ilhOhbqxU3/Jja0+WfgXzmRyyIjtv/gFsBaYMvqW756iWl2QCO81zZEr/4nY/49Cf98Bs8lif+TkjhJw08rjffR6JPwAAA==",
+      "createdAt": "Thu Jun 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-administration",
+      "locale": "en",
+      "title": "Go Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

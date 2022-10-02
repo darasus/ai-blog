@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...l}){return mdx(MDXLayout,{...layoutProps,...l,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Crear y leer archivos\"),mdx(\"p\",null,'Antes de poder escribir en un archivo, debe crearlo. La forma m\\xE1s sencilla de hacerlo es con el comando \"Nuevo\".'),mdx(\"p\",null,\"archivo = Nuevo>.../Nuevo>\"),mdx(\"p\",null,\"Aqu\\xED, archivo es la variable que har\\xE1 referencia al archivo en el futuro. Puede ser cualquier cadena que tenga sentido para usted, p. \\u201Cejemplo.txt\\u201D. Tambi\\xE9n puede asignar una ruta de archivo como esta:\"),mdx(\"p\",null,\"archivo = Nuevo> C:/Usuarios/Nombre de usuario/Escritorio/ejemplo.txt\"),mdx(\"p\",null,'El comando \"Nuevo\" crea un archivo vac\\xEDo para usted. Si desea crear un archivo y llenarlo con algunos datos, puede hacerlo con la funci\\xF3n \"Anexar\".'),mdx(\"h2\",null,\"Actualizaci\\xF3n de archivos\"),mdx(\"p\",null,'Si desea agregar m\\xE1s datos a un archivo existente, puede usar la funci\\xF3n \"Escribir\". La sintaxis para esto es'),mdx(\"p\",null,\"archivo.Escribir (datos de cadena)\"),mdx(\"p\",null,'donde \"datos\" es la informaci\\xF3n que desea agregar.'),mdx(\"p\",null,\"Tambi\\xE9n puede actualizar un archivo existente con una nueva versi\\xF3n de s\\xED mismo, p. \\u201Cejemplo.txt\\u201D con nueva informaci\\xF3n. Para hacer esto, deber\\xE1 leer el contenido del archivo anterior en una cadena y luego volver a escribir esos datos en el archivo.\"),mdx(\"h2\",null,\"Eliminaci\\xF3n de archivos\"),mdx(\"p\",null,'Puede eliminar un archivo con la funci\\xF3n \"Eliminar\". As\\xED es como funciona'),mdx(\"p\",null,\"archivo.Borrar()\"),mdx(\"p\",null,'Esto eliminar\\xE1 un archivo si est\\xE1 vac\\xEDo, o si contiene datos, se marcar\\xE1 para su eliminaci\\xF3n. Si el archivo es un \"archivo del sistema\", no se puede eliminar. Aqu\\xED hay una lista de los archivos que no se pueden eliminar:'),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"AppData/Oracle/Oracle_javavm_log/logging.properties\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"AppData/Oracle/javavm/logging.properties\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"AppData/Oracle/jvm.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arranque/vmlinuz*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arranque/vmlinuz-*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arranque/vmlinu*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arranque/vmlinu-*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arranque/vmlinuz.old\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Arranque/vmlinuz.bak\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/n\\xFAcleo-*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/*.registro\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/hs_err_pid*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/hs\",mdx(\"em\",{parentName:\"p\"},\"err\"),\"*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/hs\",mdx(\"em\",{parentName:\"p\"},\"err\"),\"*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/hs_err_pid*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Sistema central*\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/ui_lgc\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/LoggerHolder/*.log\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"N\\xFAcleo/Sistema/RegistradorH\"))))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJbACdAEfbjEcZnoAAP7+RRpOxohNKxG9xyYQeGDRszqwYoWJj9wYKWaroL3rhtO2NC3jzOr3/KeUVfcQ3/F+H8KmGHaX/8W+kf0ce4Om1MLQAAA=",
+      "createdAt": "Tue Apr 13 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFCu\\xE1l es el mejor lenguaje de programaci\\xF3n para desarrollar sitios web? Si est\\xE1 buscando desarrollar sitios web din\\xE1micos e integrarlos con bases de datos, Python podr\\xEDa ser la opci\\xF3n adecuada para usted.\nSi es programador o planea convertirse en uno, es importante saber qu\\xE9 tecnolog\\xEDas ser\\xE1n \\xFAtiles en su futura carrera. A medida que el mundo del desarrollo de software cambia de aplicaciones de escritorio independientes a servicios accesibles por Internet, surgen nuevos lenguajes de programaci\\xF3n casi todos los meses para satisfacer esta demanda.\nEn esta publicaci\\xF3n de blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python si desea convertirse en desarrollador web y qu\\xE9 tipo de oportunidades de trabajo le brinda. Adem\\xE1s, enumeraremos algunos ejemplos de empresas que utilizan Python en sus productos, as\\xED como algunos recursos sobre c\\xF3mo comenzar a aprender este lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, a medida que las empresas enfrentan una presi\\xF3n cada vez mayor para digitalizar los procesos y extraer valor de los datos, una amplia gama de organizaciones est\\xE1 explorando soluciones que aprovechan los programas inform\\xE1ticos para capturar datos autom\\xE1ticamente.\nEste art\\xEDculo enumera los lenguajes de programaci\\xF3n utilizados para el web scraping y la extracci\\xF3n de datos. El web scraping es el proceso de rastreo de sitios web para recuperar datos espec\\xEDficos en un formato legible por m\\xE1quina. Es un \\xE1rea de miner\\xEDa de datos que cubre programas de computadora que autom\\xE1ticamente leen y extraen informaci\\xF3n de sitios web o documentos. Estos programas se denominan scrapers o rastreadores. El raspado es una tarea que quiz\\xE1s deba completar como parte de su trabajo como comercializador digital, ingeniero de software, analista estad\\xEDstico o investigador.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-utilizar-los-recursos-de-codificacion-en-linea",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Utilizar Los Recursos De Codificación En Línea",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo cada vez m\\xE1s digital, la demanda de codificadores calificados solo est\\xE1 creciendo. Ahora hay m\\xE1s recursos de codificaci\\xF3n que nunca; sin embargo, esto puede dificultar saber d\\xF3nde comenzar a aprender y desarrollar sus habilidades. Si est\\xE1 interesado en la codificaci\\xF3n pero no est\\xE1 seguro de por d\\xF3nde empezar, no est\\xE1 solo. Muchas personas sienten lo mismo que usted acerca de la codificaci\\xF3n. Afortunadamente, hay muchos recursos excelentes para comenzar con la codificaci\\xF3n y continuar aprendiendo lo que necesita saber.\nEn estos d\\xEDas, no se necesita mucho dinero ni tiempo para aprender a codificar en l\\xEDnea, ya sea en casa o como parte de un programa de educaci\\xF3n formal. Puedes encontrar tutoriales gratuitos en sitios web como Codecademy o Treehouse, o completar cursos en plataformas como Udemy o Alison. Si bien puede parecer abrumador con tantas opciones diferentes disponibles y sin una sola respuesta correcta sobre cu\\xE1l es mejor para usted personalmente, la verdad es que todos estos recursos son excelentes de diferentes maneras.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-mejorar-tus-habilidades-de-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Mejorar Tus Habilidades De Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que reci\\xE9n haya comenzado en el campo de la codificaci\\xF3n o simplemente est\\xE9 buscando mejorar sus habilidades, puede ser un campo desafiante y de r\\xE1pido crecimiento. Las nuevas innovaciones en tecnolog\\xEDa surgen todo el tiempo, por lo que uno debe estar al tanto de su juego para mantenerse al d\\xEDa. Dicho esto, hay muchas maneras diferentes de mejorar tus habilidades de codificaci\\xF3n.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una habilidad cada vez m\\xE1s importante en todas las industrias. Desde desarrolladores e ingenieros de software hasta dise\\xF1adores de sitios web y programadores de videojuegos, cada vez m\\xE1s funciones requieren conocimientos de lenguajes de programaci\\xF3n. Incluso si no planea trabajar con el c\\xF3digo directamente en el d\\xEDa a d\\xEDa, tener conocimientos de c\\xF3digo puede abrirle oportunidades en casi cualquier industria. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo puede mejorar sus habilidades de codificaci\\xF3n y llevar sus habilidades tecnol\\xF3gicas al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que hoy en d\\xEDa hay m\\xE1s de 5000 lenguajes de programaci\\xF3n en el mundo? Y de esos, solo un pu\\xF1ado ha obtenido una adopci\\xF3n generalizada. Cada d\\xEDa se crean lenguajes de programaci\\xF3n m\\xE1s nuevos y oscuros. De hecho, parece que el mercado est\\xE1 sobresaturado con ellos.\nPero Go se distingue de todos los dem\\xE1s lenguajes de programaci\\xF3n por su simplicidad y facilidad de uso. Ha sido adoptado por algunas de las firmas de tecnolog\\xEDa m\\xE1s grandes del mundo (Google, Digital Ocean, Intuit, Wordpress.com y Heroku) por su facilidad de uso, sintaxis simple y rendimiento r\\xE1pido.\nAunque es uno de los lenguajes de programaci\\xF3n m\\xE1s nuevos en la actualidad, Go est\\xE1 creciendo constantemente en popularidad entre los desarrolladores y las empresas. En este art\\xEDculo, exploraremos qu\\xE9 hace que este idioma sea tan \\xFAnico y por qu\\xE9 vale la pena aprenderlo para los principiantes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "herencia-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Herencia En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensas en clases y objetos, \\xBFqu\\xE9 te viene a la mente? Si sus pensamientos se dirigieron inmediatamente a la idea de clases para padres e hijos, entonces ha estudiado programaci\\xF3n orientada a objetos o comprende los matices del ingl\\xE9s. Sin embargo, si piensa en un padre que da a luz a un hijo, es evidente que no ha estudiado suficiente programaci\\xF3n orientada a objetos. Veamos de qu\\xE9 se trata la herencia en Java y por qu\\xE9 es \\xFAtil.\nA menudo nos encontramos reutilizando c\\xF3digo que ha sido implementado en alguna otra clase. Esto nos lleva a hacer una pregunta muy l\\xF3gica: \\xBFpodemos reutilizar el c\\xF3digo a\\xFAn m\\xE1s? \\xA1La respuesta es s\\xED! Podemos tomar una clase y hacerla para que ampl\\xEDe la funcionalidad de otra. Esto se llama herencia en Java. Es una de las piedras angulares de la programaci\\xF3n OOP y algo que todo programador serio deber\\xEDa saber bien.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "implementacion-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Implementación De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

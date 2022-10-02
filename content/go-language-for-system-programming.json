@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Why is Go good for system programming?\"),mdx(\"p\",null,`System programming languages are designed to be highly efficient and optimized for hardware as opposed to being designed to be easy to read, easy to write, or easy to maintain.\nGo was designed from the ground up to be great for system programming because it was designed to optimize for efficiency.\nPart of what makes Go a great choice for system programming projects is that it\\u2019s compiled and statically typed. This means that the language is less likely to produce runtime errors, which is extremely important for system programming. For example, if you\\u2019re writing a cryptography implementation, you want to make sure that there aren\\u2019t any bugs that could lead to someone breaking the cryptography and seeing the contents of your data.\nThe focus on optimization means that Go is also relatively easy to scale up, which is another important factor for system programming. You may need to optimize your software to run on a large server or scale it up to support thousands of users.`),mdx(\"h2\",null,\"Memory Management Is Key For System Programming\"),mdx(\"p\",null,`Memory management is one of the most important aspects of system programming, and highlights why Go is a good fit for such projects.\nGo is a garbage collected language, which means that it will automatically reclaim the memory that your software is not actively using.\nDepending on the project, you may need to use a specific memory management technology to handle sensitive data. For example, if you\\u2019re writing a cryptography implementation, you\\u2019ll want to make sure that you\\u2019re using a memory management technology that doesn\\u2019t leave behind a trail of data that could be used to break your cryptography.\nFor many projects, Go\\u2019s garbage collection is a good fit because it\\u2019s easy to set up and doesn\\u2019t require a lot of extra work on your end.\nHowever, for projects that require extremely sensitive data such as cryptography, a garbage collected language may not be the best choice because it leaves behind a trail of data that someone could potentially use to break the cryptography. For example, Go\\u2019s garbage collection leaves behind traces that contain information about how long it took to process different parts of the code, which could be used to help break the cryptography.`),mdx(\"h2\",null,\"Go Has A Robust Package Management\"),mdx(\"p\",null,`One of the most important features of any programming language is its package management system. A robust package management system makes it easy to find and utilize third party packages written by other developers. This is especially true if you\\u2019re working on a team and need to use the tools your co-workers have chosen to use.\nGo\\u2019s package management system is called \\u201CGorgoroh\\u201D and makes it easy to find and use packages by other developers.\nFor example, if you\\u2019re working on a project that uses machine learning, you\\u2019ll likely need to use a third party package to implement the ML algorithms. Since Go has a robust package management system, it\\u2019s easy to find the package you need and start using it.\nGo\\u2019s package management system is built into the language itself, which means that it\\u2019s easy to use no matter what sort of application you\\u2019re building.`),mdx(\"h2\",null,\"Go Has Great Tooling\"),mdx(\"p\",null,`Good tooling is important for any programming language, but it\\u2019s especially important for system programming languages.\nSystem programming languages are optimized to be efficient and run quickly, which is great if you\\u2019re writing a simple app but makes it difficult to debug errors.\nHowever, Go has robust debugging and profiling tools that make it easy to optimize your code and make sure it runs quickly.\nThe Go debugger is built into the Go language, which means that it\\u2019s easy to use and doesn\\u2019t require any additional software.\nGo\\u2019s debugging tool is lightweight, straightforward, and easy to use even for programmers that aren\\u2019t super familiar with the language.`),mdx(\"h2\",null,\"Go\\u2019s Focus On High Performance AND Limiting RAM Usage\"),mdx(\"p\",null,`Go\\u2019s focus on high performance is a major reason why it\\u2019s a good fit for system programming. However, this focus also makes it ideal for projects that need to minimize the amount of RAM used by the program.\nHowever, if your project requires highly efficient code execution but also needs to minimize RAM usage, you may need to use a specific version of the language.\nThis is because Google, the company that created and maintains Go, regularly releases new versions of the language with optimizations for speed and performance.`),mdx(\"h2\",null,\"Go\\u2019s Language Specification And Standard Libraries\"),mdx(\"p\",null,`Many programming languages are designed for general purpose use, but Go was designed to be used for system programming and thus has a very specific purpose.\nThis means that the language is designed to be extremely efficient and suited for specific tasks, which saves you time because you don\\u2019t have to learn a general purpose language that\\u2019s likely to be inefficient for your needs.\nFor example, if you\\u2019re writing a cryptography implementation, you\\u2019ll likely only use a few features of a language. This means that you don\\u2019t need to learn a general purpose language, which saves time and makes your code more efficient.`),mdx(\"h2\",null,\"Summing Up\"),mdx(\"p\",null,`Go is a great language for system programming because it was designed to optimize for efficiency and be easy to scale up. System programming languages are optimized to run quickly, efficiently, and use as little memory as possible.\nGo\\u2019s focus on performance and efficiency also makes it ideal for projects that require minimal RAM usage. Additionally, Go\\u2019s language specification and standardized libraries make it easy to get started without having to learn multiple languages.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
+      "createdAt": "Sat Oct 02 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJaQAAu0ePvhjhZ4AAP7+x4hxeXw6dxYcl88AZjT2H15a9Z0CpcHW6h2UiEe3pRRbZeZflKo2+QLyvlWDkoZn2QAAAA==",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-tool-for-data-analysis",
+      "locale": "en",
+      "title": "Python - A Tool for Data Analysis",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data analysis is a crucial element of many fields today. With data being collected from all sources, businesses need to use the data effectively in order to drive their company forward. Organizations are turning to data analysis software to process and understand the information they have stored.\nAnalyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we\\u2019ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-administration",
+      "locale": "en",
+      "title": "Go Language for Database Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJQBOhgjoMhJW1pqZ0AAA/vsmUD4oEAf5e8EEQAuNd5f2lUdeTv/05nXET+xr+Z7ZHZYboFNSvYqZp6730pbnKL5W/yhee1Wzxxmg9YslAz/Zb1QO5a792Yv64+S8/fe+xwAA",
+      "createdAt": "Fri Jun 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-beginners-guide",
+      "locale": "en",
+      "title": "Python - The Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAreEru2AAP7zR9jGqPJGadLi9+v/tC82cNq9UFopDMSFDzK9Y+Efid49hRnu4PGnO2k2cc8Xc+0q6D+MFCcFuRmt0TXilwv/tQo3/TwE/8w3hGf/qYV4u5fub/+7J/6kAAAA",
+      "createdAt": "Tue Feb 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-database-programming",
+      "locale": "en",
+      "title": "Python - The Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an immensely powerful programming language that offers a variety of uses. It can be used for almost any task, from small one-off projects to large frameworks for server-side development, web applications, and even mobile apps. One area in which Python excels is database programming. In this article, we explain why that\\u2019s the case and explore the different ways in which you can use Python for database programming.\nThis blog post is part of our ongoing \\u201CCoding in CV\\u201D series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

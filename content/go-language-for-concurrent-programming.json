@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Concurrent Programming?\"),mdx(\"p\",null,\"Concurrent programming is a type of programming in which multiple tasks are executed during the same time period. In other words, a program can be executed on a computer while other programs are also executing on that computer. Concurrent programming has many applications in real-world situations because it allows multiple tasks to be carried out at the same time, which can save a large amount of time.\"),mdx(\"p\",null,\"Concurrent programming is particularly useful when a computer requires more time than is available at one time. For example, if a computer has to carry out a process that takes five hours and that computer only has one hour of time available, then concurrent programming can be used to carry out other tasks during the rest of the time.\"),mdx(\"h2\",null,\"Why do we need concurrent programs?\"),mdx(\"p\",null,\"Computer hardware is only getting more powerful, but programmatic limitations are not keeping up with the times. As the number of programs we\\u2019re using at any given moment increases, the more time we spend waiting for computers to complete tasks. Concurrent programming allows us to execute long-running tasks simultaneously. By taking advantage of multiple cores, we can speed up the completion of tasks that would otherwise take hours to process.\"),mdx(\"p\",null,\"Concurrent programming can also be used to distribute tasks across several servers. This approach is often used for high volume tasks like search engine crawlers that would otherwise eat up an inordinate amount of bandwidth. By executing concurrent programs across multiple servers, we can ensure that waiting times are kept to a minimum.\"),mdx(\"h2\",null,\"Go For Concurrent Programming\"),mdx(\"p\",null,\"Go was designed from the ground up as a concurrent programming language. It has a few key features that make it very easy to create concurrent code. We\\u2019ll focus on two of these features here: channels and goroutines.\"),mdx(\"p\",null,\"Channels are a special type of communication between threads or processes. They let you send and receive data between those threads almost effortlessly. You can even use them for synchronous communication, where both parties are waiting on a response before continuing.\"),mdx(\"p\",null,\"Goroutines are the building blocks of concurrent Go code. You can use them to easily break down tasks into smaller chunks that can be executed in parallel. If you need to wait for a chunk of code to finish, you can use a channel. These features make concurrent programming in Go extremely easy.\"),mdx(\"h2\",null,\"Go Channels for Synchronous Communication\"),mdx(\"p\",null,\"Synchronous communication is the type of communication that takes place when both parties expect the conversation to finish at roughly the same time. In this case, the sender will block until the receiver has received and processed the message.\"),mdx(\"p\",null,\"For example, let\\u2019s say that you want to inform a colleague that you have started working on a new project. You walk over to their desk and tell them about it directly. In this scenario, you are blocking until your colleague has finished processing the information, either by acknowledging that they\\u2019ve heard you or asking for more details. While you\\u2019re waiting, you\\u2019re not able to do anything else, which is why we call this synchronous communication.\"),mdx(\"h2\",null,\"Go Channels for Asynchronous Communication\"),mdx(\"p\",null,\"Asynchronous communication is the type of communication that is expected to finish at different times. In this case, the sender doesn\\u2019t wait for the receiver to finish processing the message. Instead, they put the message into a channel and the receiver can take their time retrieving it.\"),mdx(\"p\",null,\"Let\\u2019s say that you and your colleague have been tasked with finding a new office space for your department. Your colleague finds a few promising offices that you should check out. Instead of walking over to your colleague\\u2019s desk and holding up their work, you put the information in a channel. They can then retrieve the message when they\\u2019ve got time to research the available offices. This allows you and your colleague to avoid blocking each other.\"),mdx(\"h2\",null,\"Go Mutex for Coordinated Threads\"),mdx(\"p\",null,\"While channels are a great way to distribute data and let multiple threads wait for each other, sometimes you need a more structured way to ensure that multiple threads are working together. A mutex is a thread-safe data structure that allows you to control access to a shared resource.\"),mdx(\"p\",null,\"Let\\u2019s say that you\\u2019re building a website that includes a comments section. Comments are submitted by readers and posted to the website, where other readers can see them. You\\u2019re tasked with developing the algorithm that will show comments to readers and let them leave new comments. To do this, you need two different threads: one that shows comments and one that lets readers add new comments. The problem is that both threads will be trying to access the database and other shared resources, so they could potentially get in each other\\u2019s way. That\\u2019s where a mutex comes in handy.\"),mdx(\"h2\",null,\"Wrapping Up\"),mdx(\"p\",null,\"It\\u2019s important to note that concurrency isn\\u2019t a panacea for all programming problems. It\\u2019s most useful for tasks that take a long time, like waiting for a user to respond to a search query or pulling data from a remote database. If a task takes less than a few seconds, it\\u2019s usually better to just do it sequentially and let the user get on with other things.\"),mdx(\"p\",null,\"Programming for concurrency is difficult because you have to account for lots of different factors. These include timing, data dependencies, and resource usage. Go simplifies these issues with special language features and built-in tools that make it easier to write concurrent code.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJZgCdAYtpySk36ff46AA/vyPj46HGbvwaP7QtR2LcE4Frf8fcTJyPfw6X+jCEH3xlzvj3N9w9OqLUEbOz8p+N1JUg617sYrRR56iSQTDzbxK5Bj+8By6P5JoV6pb9bxlI68gWf1H5n3CDvhQAA==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-coding",
+      "locale": "en",
+      "title": "How to Use Coding",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-programming",
+      "locale": "en",
+      "title": "Go Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJbACdAEPDmRyPxAAAP799ci2CEwAClmvh+LYJCDlI5D8XnKI36JhP707Hs2lDfrPtafdp8NzP/Lk9Sf/3H/P/UJff+FLz3+TeN+xIAA=",
+      "createdAt": "Sun Apr 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-game-development",
+      "locale": "en",
+      "title": "Python - The Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-javaserver-faces",
+      "locale": "en",
+      "title": "Introduction to Javaserver Faces",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-faster",
+      "locale": "en",
+      "title": "How to Code Faster",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

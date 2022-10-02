@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Hibernate?\"),mdx(\"p\",null,`Hibernate is an open source, object-relational mapping (ORM) implementation. The acronym ORM stands for Object-Relational Mapping. It\\u2019s a programming paradigm that allows you to access data stored in a relational database using the constructs of object-oriented programming (OOP) like classes, objects, inheritance, etc. In simple terms, using this API, you can write code as if you are working with a local in-memory data structure but your code is actually accessing the database.\nHibernate was initially developed by Gavin King in 2001 and was acquired by Red Hat in 2007. It\\u2019s one of the most widely used ORM frameworks. It is available in the form of a library that you can use in Java, .NET, C++, etc. Hibernate is an extremely powerful and flexible tool, but it also has a steep learning curve.`),mdx(\"h2\",null,\"Differences between Hibernate, JDBC and JPA\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Hibernate vs JDBC - Hibernate is both an ORM tool and a JDBC wrapper. You can use it to map managed objects to tables in a relational database. On the other hand, JDBC is purely a database communication API. It doesn\\u2019t provide any mapping functionality.\"),mdx(\"li\",{parentName:\"ul\"},\"Hibernate vs JPA - JPA is an ecosystem of standards and code patterns that facilitate the development of applications with a persistence backend (e.g. relational database). JPA specifies a standard mapping between the Java programming language and a relational database. Hibern-ate is an ORM tool. It doesn\\u2019t provide any mapping functionality. You need to use an Object Relational Bridge (ORB) like Hiber-nate to access data residing in the relational database.\")),mdx(\"h2\",null,\"Why use Hibernate?\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"It is an Object-Relational Mapping (ORM) framework that simplifies data access in modern programming language like Java, .NET etc. It allows you to write code as if you are working with a local in-memory data structure but your code is actually accessing the database.\"),mdx(\"li\",{parentName:\"ul\"},\"It facilitates the development of robust, high-performance, and distributable enterprise applications.\"),mdx(\"li\",{parentName:\"ul\"},\"Hibernate supports all major databases and is distributed across cloud environments.\"),mdx(\"li\",{parentName:\"ul\"},\"It is an open-source framework that is widely used and has an active community.\"),mdx(\"li\",{parentName:\"ul\"},\"It eases the communication between the application and the database by mapping the data types.\"),mdx(\"li\",{parentName:\"ul\"},\"It provides a high level of flexibility in data access and mapping.\")),mdx(\"h2\",null,\"Hibernate Core Components\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Session: It is an instance of SessionFactory which is responsible for managing a transaction and a set of objects. A Session is a gateway to the underlying data source. It is responsible for managing a set of objects, executing SQL queries, and mapping results to the objects.\"),mdx(\"li\",{parentName:\"ul\"},\"SessionFactory: It is an instance of SessionFactory which is responsible for creating a Session.\"),mdx(\"li\",{parentName:\"ul\"},\"Configuration: It is an instance of Configuration which is responsible for managing the Configuration details.\"),mdx(\"li\",{parentName:\"ul\"},\"Types: It is an instance of Type which is responsible for managing the Type metadata.\"),mdx(\"li\",{parentName:\"ul\"},\"Session Metadata: It is an instance of SessionMetadata which is responsible for managing the SessionMetadata details.\"),mdx(\"li\",{parentName:\"ul\"},\"SQL Metadata: It is an instance of SQLMetadata which is responsible for managing the SQLMetadata details.\")),mdx(\"h2\",null,\"Brief Introduction To Mapping Format\"),mdx(\"p\",null,\"The mapping format between objects and tables is defined in the hibernate .hbm.xml file. The mapping file is created in a hierarchical format where the root element is hibernate-mapping> and the child elements represent the mapping between the objects and the database tables. Each mapping element has a name defined using the name> tag. The select> tag is used to define the mapping between result> and select> tables. The select> table is an in-memory representation of the database table. result> table is a mapping table that has the mapping information between select> table and the database table. The where> tag is used to define the where condition. The insert> tag is used to insert data into the database. The delete> tag is used to delete data from the database. The update> tag is used to update data in the database.\"),mdx(\"h2\",null,\"Wrapping up\"),mdx(\"p\",null,\"This brings us to the end of this blog. We hope that you have found it insightful and useful. We will be coming up with more blogs in this series. In the meantime, if you have any questions or suggestions, do drop us a line in the comments section below. Stay tuned for more! \"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Hibernate is an open source, object-relational mapping (ORM) implementation. The acronym ORM stands for Object-Relational Mapping. It\\u2019s a programming paradigm that allows you to access data stored in a relational database using the constructs of object-oriented programming (OOP) like classes, objects, inheritance, etc.\"),mdx(\"p\",null,\"Hibernate facilitates the development of robust, high-performance, and distributable enterprise applications. It is an extremely powerful and flexible tool, but it also has a steep learning curve.\"),mdx(\"h2\",null,\"What is Hibernate?\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javafx-and-multimedia.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAAxyBd40kAiAAAP7lO+1qOmds/tJfZfljhV9fzqbZgCs/Jc52J4+ud6v4QeEqivOh6V1q1Ndcfh8cf6FsXcR2ffzM7aPlLnaDyeM0qxZcpTWvFeKMv/zv31cdnJt1g46NA8o5kyzfE2oj34N/0PgA",
+      "createdAt": "Tue Jul 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javafx-and-multimedia",
+      "locale": "en",
+      "title": "Javafx and Multimedia",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New technologies and breakthroughs in semiconductor fabrication have enabled the creation of advanced mobile devices. These mobile devices are not just used for voice calls or text messaging. They can now be used to capture images, record videos, and listen to music. Java has always been at the forefront of new technology adoption, thanks to its portability, consistency across various implementations, and large codebase. If you think that Java is just good for business applications and websites, then you need to think again. With the advent of Java 8 and Android apps based on this version of the language, there is a renewed focus on mobile development using Java. This has led to several innovations in the area of embedded devices with IoT-enabled edge computing and Machine Learning (ML) based artificial intelligence systems. The latest technology being adopted by both enterprises and developers is the Internet of Things (IoT).\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-devops",
+      "locale": "en",
+      "title": "Go Language for Devops",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJQBOhgjoMhJW1pqZ0AAA/vsmUD4oEAf5e8EEQAuNd5f2lUdeTv/05nXET+xr+Z7ZHZYboFNSvYqZp6730pbnKL5W/yhee1Wzxxmg9YslAz/Zb1QO5a792Yv64+S8/fe+xwAA",
+      "createdAt": "Fri Jun 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-beginners-guide",
+      "locale": "en",
+      "title": "Python - The Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoKAAoAAUAmJbB8AAUxiAPwAAkGAAD+8lsokYpa6FDqS30it08lt6hPPg3aYIfrWpe8+qYqv/fgu2SwEafBuXG6+K3/8Vv/8s+/DEj7qAAAAA==",
+      "createdAt": "Tue Jan 12 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-software-development",
+      "locale": "en",
+      "title": "Go Language for Software Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is a general purpose programming language. It was originally developed at Google to solve some of the problems with other programming languages like C and Python that made it difficult to write programs that are fast, small, and correct.\nGo makes it easy to capture the programmer\\u2019s intent in code and generate output directly from source - thanks to its lightweight syntax, concise statement, and built-in support for anonymous functions without the need for temporary variables or auxiliary arguments.\nGo is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

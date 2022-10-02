@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Cardano?\"),mdx(\"p\",null,\"Cardano es un proyecto p\\xFAblico descentralizado de blockchain y criptomonedas que presenta un nuevo algoritmo de consenso de prueba de participaci\\xF3n. Cardano es un proyecto de c\\xF3digo abierto, con algunas partes bajo la licencia Apache 2.0 y otras partes bajo la licencia del Cardano Settlement Fund. El proyecto Cardano y el desarrollo de su software comenzaron en 2015 con una serie de art\\xEDculos acad\\xE9micos escritos por dos cient\\xEDficos e ingenieros que tambi\\xE9n fueron cofundadores del proyecto: Charles Hoskinson y Jeremy Wood. El tercer cofundador y director general tambi\\xE9n particip\\xF3, pero trabajaba desde Suiza.\"),mdx(\"h2\",null,\"\\xBFQui\\xE9n cre\\xF3 Cardano?\"),mdx(\"p\",null,`Charles Hoskinson es el CEO de IOHK, la empresa de ingenier\\xEDa contratada para trabajar en el dise\\xF1o e implementaci\\xF3n de Cardano. Tambi\\xE9n es uno de los fundadores de Ethereum y se desempe\\xF1\\xF3 como cofundador y director ejecutivo. Jeremy Wood es el director de estrategia de IOHK. Tiene experiencia trabajando en TI para el cuidado de la salud.\nCharles Hoskinson \\u2009- CEO de IOHK, fundador de Cardano, fundador de Ethereum`),mdx(\"h2\",null,\"Historia de Cardano\"),mdx(\"p\",null,`El 19 de octubre de 2015, la empresa IOHK de Hoskinson, que se especializa en ingenier\\xEDa, investigaci\\xF3n y dise\\xF1o de criptomonedas y cadenas de bloques, celebr\\xF3 un contrato para dise\\xF1ar, dise\\xF1ar y construir la cadena de bloques de Cardano.\nLa empresa suiza detr\\xE1s de la Fundaci\\xF3n Cardano, EMURGO, supervisa la inversi\\xF3n y el desarrollo empresarial.\nLa cadena de bloques de contrato inteligente compatible con humanos de tercera generaci\\xF3n con el primer protocolo probado seguro. Las dos primeras generaciones son Bitcoin y Ethereum.`),mdx(\"p\",null,\"##Arquitectura Cardano\"),mdx(\"p\",null,`Como se se\\xF1al\\xF3 anteriormente, Cardano es un proyecto de criptomoneda de tercera generaci\\xF3n y, como tal, est\\xE1 construido con dos capas. La primera capa es la Capa de liquidaci\\xF3n (SL), que es la misma para todas las criptomonedas.\nLa segunda capa es la capa computacional (CL) donde se pueden construir diferentes cadenas de bloques sobre la SL.\nEl Cardano SL es un libro de contabilidad o blockchain con la misma funcionalidad que la blockchain de Bitcoin.\nEl CL es donde se utiliza la novedosa tecnolog\\xEDa \"IOHK Blockchain\" de Cardano. Esta capa es donde se ejecutan las aplicaciones descentralizadas o contratos inteligentes.`),mdx(\"h2\",null,\"\\xBFQu\\xE9 problemas busca resolver Cardano?\"),mdx(\"p\",null,\"Estos son algunos de los desaf\\xEDos que enfrentan las criptomonedas de primera y segunda generaci\\xF3n que Cardano pretende resolver.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Escalabilidad: c\\xF3mo acelerar la verificaci\\xF3n de transacciones para permitir una mayor cantidad de transacciones por segundo.\"),mdx(\"li\",{parentName:\"ul\"},\"Interoperabilidad: c\\xF3mo conectar diferentes cadenas de bloques, as\\xED como varias aplicaciones (dApps) creadas en diferentes protocolos de cadenas de bloques.\"),mdx(\"li\",{parentName:\"ul\"},\"Regulaci\\xF3n - C\\xF3mo cumplir con diversas pol\\xEDticas y regulaciones regulatorias, as\\xED como con las normas de auditor\\xEDa.\"),mdx(\"li\",{parentName:\"ul\"},\"Estandarizaci\\xF3n: c\\xF3mo crear una comunidad grande e inclusiva para reunir a diferentes partes interesadas.\")),mdx(\"h2\",null,\"\\xBFC\\xF3mo logra Cardano estos objetivos?\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Prueba de participaci\\xF3n: la cadena de bloques de Cardano utiliza un innovador protocolo de consenso de prueba de participaci\\xF3n llamado Ouroboros. Este algoritmo fue desarrollado por un cient\\xEDfico y cript\\xF3grafo llamado Prof. Aggelos Kiayias de la Universidad de California, Berkeley. El protocolo Ouroboros reduce el riesgo de centralizaci\\xF3n, ya que permite que tanto los mineros (PoW) como los verificadores de transacciones (PoS) est\\xE9n en una sola red.\"),mdx(\"li\",{parentName:\"ul\"},'Escalabilidad: lograr la escalabilidad es crucial para que la tecnolog\\xEDa blockchain se generalice. La capa de liquidaci\\xF3n de Cardano utiliza un algoritmo de consenso de prueba de participaci\\xF3n delegado en el que los titulares de fichas eligen delegados para verificar las transacciones y recibir recompensas. La capa computacional utiliza un innovador algoritmo de prueba de trabajo llamado \"IOHK-Blockchain\", un protocolo de consenso empleado por Cardano SL.'),mdx(\"li\",{parentName:\"ul\"},\"Interoperabilidad: Cardano tiene un software de c\\xF3digo abierto y utiliza un modelo de gobierno descentralizado para fomentar la interoperabilidad.\"),mdx(\"li\",{parentName:\"ul\"},'Regulaci\\xF3n - Cardano tiene una organizaci\\xF3n independiente autofinanciada llamada The Cardano Foundation para actuar como un organismo de est\\xE1ndares y ser la \"voz de Cardano\".'),mdx(\"li\",{parentName:\"ul\"},\"Estandarizaci\\xF3n: Cardano tiene un software de c\\xF3digo abierto, un modelo de gobierno descentralizado y la Fundaci\\xF3n Cardano como organismo de est\\xE1ndares.\")),mdx(\"h2\",null,\"\\xBFC\\xF3mo comprar y almacenar Ada?\"),mdx(\"p\",null,\"El primer paso es configurar una billetera para almacenar sus tokens ADA. Esto se puede hacer de las siguientes maneras:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Google Authenticator: esta es la billetera m\\xE1s segura.\"),mdx(\"li\",{parentName:\"ul\"},\"Ledger Nano: esta es una billetera de hardware que protege sus tokens criptogr\\xE1ficos de virus inform\\xE1ticos y de Internet.\"),mdx(\"li\",{parentName:\"ul\"},\"Trezor: esta es una billetera de hardware que protege sus tokens criptogr\\xE1ficos de virus inform\\xE1ticos.\"),mdx(\"li\",{parentName:\"ul\"},\"Coinbase: esta es la billetera m\\xE1s f\\xE1cil de configurar.\"),mdx(\"li\",{parentName:\"ul\"},\"Una vez que haya configurado su billetera, puede comprar tokens ADA visitando un intercambio de cifrado como Bittrex, Binance o Kraken.\")),mdx(\"h2\",null,\"Conclusi\\xF3n: \\xBFVale la pena ver Cardano en el futuro?\"),mdx(\"p\",null,\"Cardano es el primer proyecto de cadena de bloques que utiliza una filosof\\xEDa cient\\xEDfica y un enfoque basado en la investigaci\\xF3n para construir una cadena de bloques p\\xFAblica y una criptomoneda descentralizadas. Solo eso hace que valga la pena verlo, ya que podr\\xEDa convertirse en el est\\xE1ndar de la industria. El equipo detr\\xE1s de este proyecto est\\xE1 compuesto por algunas de las mejores mentes en los campos de investigaci\\xF3n criptogr\\xE1fica y cient\\xEDfica. Tambi\\xE9n han asegurado algunas asociaciones importantes y este proyecto tambi\\xE9n ha sido ampliamente cubierto por los medios de comunicaci\\xF3n.\"),mdx(\"p\",null,\"Con una fuerte misi\\xF3n de convertirse en una plataforma blockchain de tercera generaci\\xF3n y resolver el problema de escalabilidad que enfrentan las criptomonedas existentes, Cardano seguramente ser\\xE1 uno de los que observar\\xE1 en el futuro.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-gold-the-bitcoin-forks.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoKAAoAAUAmJZwCdADckYhCgAD+/woPor+W/c0xFEHxc6f59AORnEtLZInHrGvcNI8ZHNHBhf8vxni2TK0DqNhLmSPm2MiJfAAAAA==",
+      "createdAt": "Sat Jan 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "bitcoin-gold-las-bifurcaciones-de-bitcoin",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Bitcoin Gold: Las Bifurcaciones De Bitcoin",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,'Es posible que haya o\\xEDdo hablar de una bifurcaci\\xF3n antes, como la idea de que un desarrollador de software haga una copia o una \"bifurcaci\\xF3n\" del c\\xF3digo de otro programa. En el mundo de los programas inform\\xE1ticos y la codificaci\\xF3n, no es raro que alguien haga una versi\\xF3n modificada del c\\xF3digo de otra persona con la intenci\\xF3n de agregar alguna caracter\\xEDstica nueva o solucionar problemas con el original. Por ejemplo, uno podr\\xEDa ver un error en el c\\xF3digo de otro programador y corregirlo para evitar que otros codificadores tambi\\xE9n encuentren ese problema. Esto es esencialmente lo que es una bifurcaci\\xF3n en t\\xE9rminos de programaci\\xF3n: tomar un c\\xF3digo antiguo y realizar cambios para mejorarlo. Una bifurcaci\\xF3n puede ocurrir cuando los desarrolladores no est\\xE1n de acuerdo sobre c\\xF3mo lidiar con un problema (lo cual no es poco com\\xFAn) o si hay alguna otra raz\\xF3n que les hace querer separarse del c\\xF3digo fuente original e ir por su propio camino. Adem\\xE1s, \\xA1hay muchos tipos diferentes de bifurcaciones m\\xE1s all\\xE1 del software! En este art\\xEDculo exploraremos las bifurcaciones de Bitcoin: m\\xE1s espec\\xEDficamente, Bitcoin Gold y Bitcoin Cash.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-cash-whats-the-difference.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJaACdAEPBZj+XPL0AADLJP/+kYFsWKU8FPvphYKk2MC/D052WOWjosglqmSWserp8I4ZhNk/W+hysadOYO73EEylztATzRTh74neFNjb0Rf+2buofSXIH7vylNvq/Gb8AAAA",
+      "createdAt": "Wed Apr 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "bitcoin-cash-cual-es-la-diferencia",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Bitcoin Cash: ¿cuál Es La Diferencia?",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de las criptomonedas est\\xE1 creciendo r\\xE1pidamente y hay tantos tokens digitales diferentes que cada vez es m\\xE1s dif\\xEDcil para un nuevo inversor saber por d\\xF3nde empezar.\nNo todas las monedas son tan accesibles como otras; algunos tienen disponibilidad limitada y solo se pueden comprar directamente de la empresa que vende el token. Otros se pueden comprar a trav\\xE9s de un intercambio en l\\xEDnea (como Binance o Coinbase) o un servicio intermediario (como Changelly o ShapeShift).\nPero, \\xBFen cu\\xE1l de estas monedas deber\\xEDas invertir? \\xBFCu\\xE1l es m\\xE1s probable que tenga \\xE9xito? \\xBFCu\\xE1l tiene el mejor potencial a largo plazo? Echemos un vistazo a dos de las monedas digitales alternativas m\\xE1s populares y veamos qu\\xE9 las distingue.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-benefits-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJYwC7AELKMy9C4AA/v4sIp13a1Zdx5FcTkaIwfZMDzER7ha7KoiMAfpDl0NyJt3pZKh4wNx7J3YbaVszZ9YLrap+eVn8EJS3ztzxaYdX4UAyo69u6AAA",
+      "createdAt": "Sun Jul 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-tecnologia-blockchain",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Los Beneficios De La Tecnología Blockchain",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mundo est\\xE1 lleno de soluciones digitales que resuelven problemas. Pero pocas soluciones digitales son tan efectivas y revolucionarias como la tecnolog\\xEDa blockchain. Blockchain es un libro mayor descentralizado y seguro que registra las transacciones de forma cronol\\xF3gica y p\\xFAblica, para que los usuarios puedan verificarlas. Este proceso elimina la necesidad de intermediarios como bancos o corredores. La tecnolog\\xEDa Blockchain tambi\\xE9n tiene otros beneficios, incluidas transacciones m\\xE1s r\\xE1pidas y una mayor transparencia. Adem\\xE1s, tiene el potencial de remodelar las industrias, desde las finanzas hasta la log\\xEDstica, la atenci\\xF3n m\\xE9dica y m\\xE1s. La adopci\\xF3n generalizada de blockchain representa una gran innovaci\\xF3n en inform\\xE1tica, con implicaciones para casi todos los sectores de la industria, incluidos los seguros.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ethereum-classic-the-original-ethereum.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJaQAD4zNWa/cnLoAAP7+taWF+qwHsvvINEX6qc/Q/x/+hmevvApdnhWKbQPDuJYfQeSx2iArEeYEDp+nZg5dHLiCM51o79INrrb656PI7ugA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ethereum-classic-el-ethereum-original",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Ethereum Classic: El Ethereum Original",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es la cadena de bloques l\\xEDder en el mundo para contratos inteligentes. Provoc\\xF3 una nueva ola de aplicaciones descentralizadas que nadie podr\\xEDa haber imaginado en los primeros d\\xEDas de la criptomoneda. Ethereum tambi\\xE9n ha demostrado ser una fuente invaluable de inspiraci\\xF3n para otros proyectos que intentan construir plataformas similares con diferentes objetivos y caracter\\xEDsticas. Uno de esos proyectos es Ethereum Classic (ETC). Aunque puede parecer otra versi\\xF3n de Ethereum, en realidad es una continuaci\\xF3n del software Ethereum original, que m\\xE1s tarde se denomin\\xF3 \"ETH\" cuando su token alcanz\\xF3 su propia capitalizaci\\xF3n de mercado y s\\xEDmbolo de cotizaci\\xF3n.\nEthereum Classic es esencialmente el c\\xF3digo base original de Ethereum, pero con verificaciones de mineros sin restricciones, mayores costos de gasolina y optimizaciones generales de c\\xF3digo. Piense en ETC como el anti-ETH; una cadena de bloques que permite a los desarrolladores implementar aplicaciones sin ninguna posible interferencia maliciosa de los mineros o cualquier otra persona que pueda controlar ETH en el futuro. A continuaci\\xF3n, encontrar\\xE1 todo lo que necesita saber sobre Ethereum Classic, en qu\\xE9 se diferencia del \"nuevo\" Ethereum y c\\xF3mo puede comprar ETC.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/dash-the-privacy-centric-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoB+ADjAAM4A2qK4AD+6gH9fdGKjOLnDWoHNLgzJ0h2sp0dRaFYpzBGU5pEU9M7eD6z1fYdVHtXmTvGVwtw9bfutSNsaXHs//zQppzDTM3WGR9Itm6v1OPf/zak9v4FVgP5TE3SCN+o4AAA",
+      "createdAt": "Sun Sep 25 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "dash-la-criptografia-centrada-en-la-privacidad",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Dash: La Criptografía Centrada En La Privacidad",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"En el mundo de las criptomonedas, hay muchos tokens digitales diferentes disponibles. Cada uno tiene sus propias caracter\\xEDsticas \\xFAnicas y usos potenciales. Hay miles de inversores diferentes que han comprado en el mundo de las criptomonedas, y cada individuo tiene sus propias razones para invertir en una moneda u otra. Algunas personas invierten en criptomonedas espec\\xEDficas porque ven un caso de uso particular para ese token; otros invierten en monedas espec\\xEDficas como cobertura contra otro token; y algunos invierten en funci\\xF3n de los detalles t\\xE9cnicos y el posible caso de uso futuro de ese token. Hay muchas personas que invierten en tokens espec\\xEDficos principalmente por sus caracter\\xEDsticas de privacidad. La privacidad se est\\xE1 convirtiendo en un factor muy importante a considerar al elegir qu\\xE9 criptomoneda comprar, especialmente ahora que tantas fuerzas nefastas est\\xE1n atacando a la comunidad de criptomonedas con ataques de phishing y hacks. El prop\\xF3sito de este art\\xEDculo es explicar por qu\\xE9 deber\\xEDa considerar invertir en Dash, una criptomoneda emergente conocida como Digital Cash, si est\\xE1 buscando una opci\\xF3n de inversi\\xF3n en criptomonedas m\\xE1s privada.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ripple-the-new-bankers-coin.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJZwAD4WwNhw0I0OwAAD+/v7XE3qw52Jm07bZgsOoUX1+4+a6hHIEupKm92G/PiXuJ4BH/9E6aHH4+sDlgnIatbBko22/xQKphWjnyH58USGAAAA=",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ripple-la-moneda-del-nuevo-banquero",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Ripple: La Moneda Del Nuevo Banquero",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de las criptomonedas puede ser bastante abrumador para los reci\\xE9n llegados. Sin embargo, hay muchas razones por las que este dinero digital est\\xE1 ganando popularidad entre los inversores y las principales instituciones financieras. La econom\\xEDa de fichas basada en blockchain tiene el potencial de revolucionar la forma en que manejamos el dinero y realizamos transacciones como sociedad global.\nSi ha estado buscando involucrarse en el mercado de criptomonedas, es posible que haya notado que hay cientos, tal vez incluso miles, de monedas diferentes disponibles. La mayor\\xEDa de ellos tienen nombres extra\\xF1os, logotipos extra\\xF1os y t\\xE1cticas de marketing a\\xFAn m\\xE1s extra\\xF1as. Es suficiente para volver loco a cualquiera. Pero no te preocupes; estamos aqu\\xED para ayudarlo a ponerse al d\\xEDa con una de las criptomonedas m\\xE1s comentadas: Ripple (tambi\\xE9n conocida como XRP).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-power-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJQBOgMWWtrZDPG9QrAD++8KmhfIETuwvdGGyOLMdkWAPc5d8MmS7bPzezSyv3wSRpLp8sliE3ZAK4T/YmYjPHJXPeAAtC+4ic0yNpa81qwIGiRbPRRpHjrfud58bswAAAA==",
+      "createdAt": "Sun Oct 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "el-poder-de-la-tecnologia-blockchain-para-startups",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "El Poder De La Tecnología Blockchain Para Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La cadena de bloques es una tecnolog\\xEDa revolucionaria que tiene el potencial de transformar empresas e industrias. Por lo tanto, no es de extra\\xF1ar que las nuevas empresas est\\xE9n ansiosas por aprovechar esta tecnolog\\xEDa y sus diversos usos para su beneficio.\nAdem\\xE1s, con el creciente n\\xFAmero de proyectos e ICO emergentes basados en blockchain, es evidente que la adopci\\xF3n de esta tecnolog\\xEDa seguir\\xE1 creciendo en el futuro previsible.\nSin embargo, para muchas empresas emergentes, implementar blockchain en productos nuevos o existentes puede parecer una tarea desafiante. Como tal, hay muchos mitos sobre el uso de blockchain para empresas que escuchamos a menudo; ya sea porque muchos creen que son ciertas o porque estas teor\\xEDas tienen sentido en la superficie. \\xBFPero resisten el escrutinio? Echemos un vistazo a algunos de estos conceptos err\\xF3neos populares en torno a la tecnolog\\xEDa blockchain y veamos si tienen alguna validez:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/monero-the-untraceable-crypto.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJQBdgCFsGGnbeHkAAP79usS/vrcZqXfJuuGLahuMf/oAz4MQZ10TVfqa4Wce7RIjvhCB+LX+Jy0Y45tZZBcTMWNH73tu3g+lMVs0/F7Z64k4AAA=",
+      "createdAt": "Thu Jun 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "monero-la-criptomoneda-imposible-de-rastrear",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Monero: La Criptomoneda Imposible De Rastrear",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Monero es una criptomoneda centrada en la privacidad que se lanz\\xF3 en 2014. Al igual que Bitcoin, es una moneda digital descentralizada con usuarios y transacciones an\\xF3nimos. Pero ah\\xED es donde terminan las similitudes.\nMonero tiene una de las comunidades m\\xE1s grandes de cualquier proyecto de criptomonedas, con m\\xE1s de 16\\xA0000 miembros activos en su foro y m\\xE1s de 2000 suscriptores en su p\\xE1gina principal de Reddit. Estos usuarios no son solo observadores pasivos; impulsan el desarrollo futuro de Monero al expresar sus opiniones y dar su opini\\xF3n sobre nuevas ideas o posibles cambios a las existentes. Este art\\xEDculo tiene en cuenta todos estos aspectos a la hora de explicar por qu\\xE9 deber\\xEDas considerar invertir en Monero.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/neo-the-chinese-ethereum.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJZQAE+AJ/X22S9ky90gAAP7+Eq31a36fM7cp8///R8w03rjDSLyYE/M71HXT9HWZfgv7e46WYP/RhMNrNHNe5dY7k5Olf/TK9QX+Z335vUKw+6vtnj6CusAAAA==",
+      "createdAt": "Sun Dec 12 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "neo-el-ethereum-chino",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Neo: El Ethereum Chino",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'EOS y TRON han ganado recientemente mucha atenci\\xF3n por parte de la comunidad de criptomonedas. Si bien ambos proyectos lo han hecho por diferentes razones, no es ning\\xFAn secreto que tanto EOS como TRON han intentado competir con Ethereum como posibles alternativas para los desarrolladores que buscan crear aplicaciones descentralizadas (dApps). Tanto EOS como TRON a menudo se denominan \"el Ethereum chino\" debido a las similitudes en su funcionalidad, as\\xED como a su enfoque en convertirse en la principal cadena de bloques para dApps. Sin embargo, existen claras diferencias entre estos dos proyectos que los diferencian entre s\\xED. Echemos un vistazo m\\xE1s de cerca a NEO y su competencia con EOS y TRON.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ethereum-the-new-smart-contract-platform.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoKAAoAAUAmJYwC7AEfbncvXXLUxgAA/v2EYTDdp/j6Rn2R2s+LmDrrOhgSsc3NqY8R/FHnoPYsa/xeIiqmUUaq/RMvAZwY3eyzv6OTK9SoLwqAAAA=",
+      "createdAt": "Mon Feb 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ethereum-la-nueva-plataforma-de-contratos-inteligentes",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Ethereum: La Nueva Plataforma De Contratos Inteligentes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es una red inform\\xE1tica descentralizada basada en la tecnolog\\xEDa blockchain. Es un software de c\\xF3digo abierto que opera contratos inteligentes, aplicaciones descentralizadas (DApps) y otros programas. Los contratos inteligentes son contratos digitales autoejecutables con instrucciones espec\\xEDficas que se pueden cumplir cuando se cumplen ciertas condiciones. Estos contratos operan sobre los principios de si esto, entonces aquello; si no, entonces esto. Esto hace que una vez que se hayan cumplido las condiciones preestablecidas, el contrato se ejecutar\\xE1 autom\\xE1ticamente sin m\\xE1s intervenci\\xF3n de ning\\xFAn tercero. Ethereum es compatible con la programaci\\xF3n completa de Turing y puede ejecutar c\\xF3digo en cualquier idioma debido a sus conjuntos de instrucciones y m\\xE1quinas virtuales.\nEthereum se ha convertido en una de las redes de cadenas de bloques m\\xE1s populares despu\\xE9s de Bitcoin debido a su soporte para contratos inteligentes, que constituyen una gran parte de por qu\\xE9 la tecnolog\\xEDa de cadenas de bloques es tan revolucionaria. En este art\\xEDculo, obtendr\\xE1 m\\xE1s informaci\\xF3n sobre qu\\xE9 es Ethereum y sus beneficios \\xFAnicos, as\\xED como los posibles desaf\\xEDos que enfrenta en el futuro en cuanto a adopci\\xF3n y desarrollo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

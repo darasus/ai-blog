@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Conceptos b\\xE1sicos de la cadena de bloques\"),mdx(\"p\",null,`La base de la tecnolog\\xEDa blockchain es una red descentralizada de computadoras que almacena datos de manera segura de manera que se garantiza la confidencialidad y la integridad. Esto se logra aislando primero los datos en cuesti\\xF3n y luego asegur\\xE1ndolos con fuertes algoritmos de encriptaci\\xF3n y registrando la procedencia de los datos.\nPara proteger los datos, la red blockchain utiliza un libro mayor distribuido, que es un registro inmutable que realiza un seguimiento de todas las transacciones y transferencias de datos que se han ejecutado alguna vez. El libro mayor distribuido utilizado en la tecnolog\\xEDa blockchain se distribuye en miles de computadoras que est\\xE1n geogr\\xE1ficamente dispersas. Este arreglo asegura que ninguna computadora o entidad tenga control sobre la informaci\\xF3n en el libro mayor. Tambi\\xE9n hace que sea pr\\xE1cticamente imposible que los piratas inform\\xE1ticos manipulen los datos dentro del libro mayor.`),mdx(\"h2\",null,\"La m\\xE1quina de la confianza\"),mdx(\"p\",null,`La tecnolog\\xEDa Blockchain a veces se denomina \"m\\xE1quina de confianza\" porque facilita interacciones seguras entre pares entre partes que no necesariamente conf\\xEDan entre s\\xED. Esto es posible gracias al uso de claves criptogr\\xE1ficas que permiten a los usuarios autenticarse. Las claves autentican a los usuarios al confirmar su identidad en funci\\xF3n de identificadores \\xFAnicos, como su direcci\\xF3n de correo electr\\xF3nico o n\\xFAmero de tel\\xE9fono. Una vez que un usuario ha sido autenticado, puede interactuar con la red blockchain para almacenar datos de forma segura.\nLa red blockchain opera de forma aut\\xF3noma sin intermediario mediante el uso de contratos inteligentes para ejecutar autom\\xE1ticamente los t\\xE9rminos y condiciones establecidos por las partes involucradas en la transacci\\xF3n. El dise\\xF1o descentralizado de la red blockchain significa que no existe una \\xFAnica entidad a la que los usuarios deban subcontratar la confianza. Como tal, los usuarios pueden autenticarse y almacenar de forma segura datos a los que solo pueden acceder aquellos con quienes desean compartirlos.`),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 es tan importante la tecnolog\\xEDa Blockchain?\"),mdx(\"p\",null,`Adem\\xE1s de su capacidad para facilitar interacciones seguras entre pares, la tecnolog\\xEDa blockchain tambi\\xE9n se puede utilizar para desencadenar acciones autom\\xE1ticas basadas en los t\\xE9rminos y condiciones especificados por las partes involucradas en la transacci\\xF3n.\nPor ejemplo, una compa\\xF1\\xEDa de seguros podr\\xEDa utilizar un contrato inteligente para activar un pago autom\\xE1tico a un titular de p\\xF3liza cuyo autom\\xF3vil haya estado involucrado en un accidente. Este tipo de automatizaci\\xF3n podr\\xEDa ahorrar tiempo y recursos, as\\xED como reducir las oportunidades de fraude.\nDe manera similar, las empresas pueden usar la tecnolog\\xEDa blockchain para crear contratos inteligentes que administren datos confidenciales. Estos contratos pueden especificar los t\\xE9rminos y condiciones por los cuales los propietarios de datos pueden transmitir sus datos a terceros. Los contratos inteligentes tambi\\xE9n pueden especificar los t\\xE9rminos y condiciones mediante los cuales los propietarios de datos pueden solicitar que terceros devuelvan sus datos.\nMediante el uso de la tecnolog\\xEDa blockchain para establecer contratos inteligentes que gestionen el acceso a datos confidenciales, las empresas pueden garantizar a los propietarios de sus datos que su informaci\\xF3n estar\\xE1 segura.`),mdx(\"h2\",null,\"Limitaci\\xF3n del acceso a datos confidenciales con contratos inteligentes\"),mdx(\"p\",null,`Al administrar datos confidenciales, las empresas pueden usar la tecnolog\\xEDa blockchain para crear contratos inteligentes que limitan el acceso solo a aquellas partes que se han autenticado. Los contratos tambi\\xE9n pueden especificar los t\\xE9rminos y condiciones bajo los cuales esos terceros pueden acceder a los datos.\nAl limitar el acceso solo a los usuarios autenticados, las empresas pueden proteger los datos confidenciales de actores malintencionados que pueden intentar hacerse pasar por usuarios leg\\xEDtimos. Adem\\xE1s, las empresas pueden usar la tecnolog\\xEDa blockchain para crear contratos inteligentes que desbloqueen el acceso a los datos una vez que las partes involucradas hayan cumplido con los t\\xE9rminos y condiciones especificados. Por ejemplo, una empresa de atenci\\xF3n m\\xE9dica podr\\xEDa usar la tecnolog\\xEDa blockchain para crear un contrato inteligente que garantice que una computadora en una ubicaci\\xF3n espec\\xEDfica solo divulgar\\xE1 los datos m\\xE9dicos de un usuario a un proveedor de atenci\\xF3n m\\xE9dica despu\\xE9s de que el usuario haya firmado un formulario de consentimiento y pagado su factura m\\xE9dica.`),mdx(\"h2\",null,\"Auditor\\xEDa y seguimiento de datos confidenciales con cadenas de bloques\"),mdx(\"p\",null,`La tecnolog\\xEDa Blockchain tambi\\xE9n se puede utilizar para auditar y rastrear la procedencia de datos confidenciales. Esto se puede lograr registrando cada vez que se accede, modifica o transfiere datos. Esta informaci\\xF3n se registra en el libro mayor de blockchain y puede ser verificada por cualquier persona que tenga acceso al libro mayor.\nAl registrar la procedencia de los datos, las empresas pueden garantizar a sus clientes que est\\xE1n siendo transparentes sobre c\\xF3mo est\\xE1n utilizando los datos. Esto podr\\xEDa ser especialmente importante cuando se trata de datos confidenciales, como en el sector de la salud, donde los consumidores pueden desconfiar de dar sus datos.\nMediante la auditor\\xEDa y el seguimiento de los datos, las empresas tambi\\xE9n pueden rendir cuentas por sus acciones. Si, por ejemplo, una empresa de atenci\\xF3n m\\xE9dica hiciera un uso indebido de los datos de un paciente, el libro mayor de blockchain dejar\\xEDa en claro cu\\xE1ndo y c\\xF3mo se accedi\\xF3 a los datos, as\\xED como qui\\xE9n accedi\\xF3 a ellos.`),mdx(\"h2\",null,\"Reforzando la seguridad con s\\xF3lidas pr\\xE1cticas de cifrado\"),mdx(\"p\",null,`Finalmente, la tecnolog\\xEDa blockchain se puede utilizar para fortalecer la seguridad de los datos mediante el uso de pr\\xE1cticas s\\xF3lidas de encriptaci\\xF3n. El libro mayor distribuido utilizado en la tecnolog\\xEDa blockchain se distribuye en miles de computadoras que est\\xE1n geogr\\xE1ficamente dispersas. Este arreglo asegura que ninguna computadora o entidad tenga control sobre la informaci\\xF3n en el libro mayor. Tambi\\xE9n hace que sea pr\\xE1cticamente imposible que los piratas inform\\xE1ticos manipulen los datos dentro del libro mayor.\nAdem\\xE1s, la naturaleza descentralizada de la red blockchain significa que es dif\\xEDcil para los actores maliciosos obtener el control de toda la red. Como tal, no podr\\xEDan manipular los datos en el libro mayor incluso si lograran obtener el control de una parte de la red.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`Aunque la tecnolog\\xEDa blockchain a\\xFAn se encuentra en sus primeras etapas, ya est\\xE1 demostrando ser una tecnolog\\xEDa confiable y segura que se puede usar para administrar datos confidenciales. Al aprovechar las diversas fortalezas de la tecnolog\\xEDa blockchain, las empresas pueden fortalecer la seguridad de sus datos y mejorar la confianza de sus clientes en sus servicios.\nMediante el uso de la tecnolog\\xEDa blockchain, las empresas pueden mejorar la forma en que administran los datos confidenciales protegi\\xE9ndolos con s\\xF3lidas pr\\xE1cticas de encriptaci\\xF3n y limitando el acceso solo a los usuarios autenticados. Estos esfuerzos pueden ayudar a las empresas a reducir el riesgo de ciberataques, as\\xED como brindar a los clientes una mayor transparencia sobre c\\xF3mo se utilizan sus datos.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ethereum-the-new-smart-contract-platform.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoKAAoAAUAmJYwC7AEfbncvXXLUxgAA/v2EYTDdp/j6Rn2R2s+LmDrrOhgSsc3NqY8R/FHnoPYsa/xeIiqmUUaq/RMvAZwY3eyzv6OTK9SoLwqAAAA=",
+      "createdAt": "Mon Feb 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ethereum-la-nueva-plataforma-de-contratos-inteligentes",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Ethereum: La Nueva Plataforma De Contratos Inteligentes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es una red inform\\xE1tica descentralizada basada en la tecnolog\\xEDa blockchain. Es un software de c\\xF3digo abierto que opera contratos inteligentes, aplicaciones descentralizadas (DApps) y otros programas. Los contratos inteligentes son contratos digitales autoejecutables con instrucciones espec\\xEDficas que se pueden cumplir cuando se cumplen ciertas condiciones. Estos contratos operan sobre los principios de si esto, entonces aquello; si no, entonces esto. Esto hace que una vez que se hayan cumplido las condiciones preestablecidas, el contrato se ejecutar\\xE1 autom\\xE1ticamente sin m\\xE1s intervenci\\xF3n de ning\\xFAn tercero. Ethereum es compatible con la programaci\\xF3n completa de Turing y puede ejecutar c\\xF3digo en cualquier idioma debido a sus conjuntos de instrucciones y m\\xE1quinas virtuales.\nEthereum se ha convertido en una de las redes de cadenas de bloques m\\xE1s populares despu\\xE9s de Bitcoin debido a su soporte para contratos inteligentes, que constituyen una gran parte de por qu\\xE9 la tecnolog\\xEDa de cadenas de bloques es tan revolucionaria. En este art\\xEDculo, obtendr\\xE1 m\\xE1s informaci\\xF3n sobre qu\\xE9 es Ethereum y sus beneficios \\xFAnicos, as\\xED como los posibles desaf\\xEDos que enfrenta en el futuro en cuanto a adopci\\xF3n y desarrollo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-future-of-blockchain-technology-in-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJQBOjXAB5zoNyziCcR0AAP6+j/xLPp6tkZbxLwzmLuZcdD6//T8K9sM0TFV3CBBPy++6sSkkvqhs+n+P8g0d6qW66FLn5cb0CoBR/9UD9UcZBOvSoB8prFuulNtCDDLI7qh/ul28+yi38eGLbc3bCwBwo74rxywFg45WAAA=",
+      "createdAt": "Sat Jun 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "el-futuro-de-la-tecnologia-blockchain-en-las-startups",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "El Futuro De La Tecnología Blockchain En Las Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En los \\xFAltimos a\\xF1os, ha habido mucho revuelo en torno a la tecnolog\\xEDa blockchain y sus posibles casos de uso. Hemos visto a numerosas empresas lanzar productos basados en blockchain en diversas industrias, como atenci\\xF3n m\\xE9dica, cadena de suministro, educaci\\xF3n, bienes ra\\xEDces y m\\xE1s. Si bien esta es una gran noticia para la adopci\\xF3n de esta tecnolog\\xEDa disruptiva, los inversores son cautelosos con las nuevas empresas basadas en blockchain.\nNo solo porque su historial hasta ahora no ha sido excelente, sino tambi\\xE9n porque estas nuevas empresas enfrentan una batalla cuesta arriba para obtener fondos y tener \\xE9xito. El capital existente se destina principalmente a nuevas empresas de Internet de las cosas (IoT), inteligencia artificial (AI), realidad virtual (VR) y drones.\nPero eso no significa que sea el final del camino para la tecnolog\\xEDa blockchain en las nuevas empresas. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 los inversionistas est\\xE1n asustados con las nuevas empresas basadas en blockchain en este momento y c\\xF3mo puede ayudar a cambiar esa tendencia al lanzar una usted mismo. Sigue leyendo para saber m\\xE1s.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-help-your-company.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMWq1OZnnEdgAAD+rT8uzPNibzHZItvX/4s+kv+a9bu9sE/Hxh9FWCkvgpOVIZXNbvv7b/DNrOazub5YS4ZHcG+2w1Ydrc34J8OGh3/px5TDdi9RPsJRT5x4DbLk4RFcFOj9ziI6l6L99LwAAAA=",
+      "createdAt": "Sun Apr 03 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-la-tecnologia-blockchain-puede-ayudar-a-su-empresa",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Cómo La Tecnología Blockchain Puede Ayudar a Su Empresa",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, casi todas las empresas buscan formas de mejorar sus procesos comerciales utilizando tecnolog\\xEDas innovadoras. En el proceso, la tecnolog\\xEDa blockchain ha crecido enormemente en popularidad debido a sus posibles casos de uso y aplicaciones en todas las industrias. La naturaleza descentralizada de Blockchain lo hace especialmente \\xFAtil para las empresas que desean mantener la privacidad de los datos de los usuarios, verificar identidades sin terceros o administrar registros de manera eficiente.\nSi est\\xE1 considerando introducir la tecnolog\\xEDa blockchain en su empresa, \\xA1siga leyendo! Hemos compilado una lista de las 5 razones principales por las que su empresa deber\\xEDa adoptar la tecnolog\\xEDa blockchain hoy. Tambi\\xE9n aprender\\xE1 sobre los diferentes tipos de soluciones de cadena de bloques disponibles y ver\\xE1 algunos ejemplos de c\\xF3mo las empresas est\\xE1n implementando actualmente esta nueva tecnolog\\xEDa transformadora.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-improve-your-website.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoKAAoAAUAmJYgCdLoAEIsYgruKgAAA/sj//+SEqfRyQ6fH793oK/cwN5RyDYHZvDW98PtbQjj2nr/wLuizUX+PYs9g70v4UaExvd42RM7+/l+RXW6jC7TFcHrz3KnMgAA=",
+      "createdAt": "Wed Jun 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-la-tecnologia-blockchain-puede-mejorar-su-sitio-web",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Cómo La Tecnología Blockchain Puede Mejorar Su Sitio Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, las empresas luchan por mantenerse al d\\xEDa con el ritmo de la transformaci\\xF3n digital y las crecientes expectativas de sus clientes. Hay una sensaci\\xF3n general de que algo grande est\\xE1 por suceder. Internet, tal como la conocemos, est\\xE1 cambiando y cada d\\xEDa se inventan nuevas formas de utilizar los datos. En este panorama que cambia r\\xE1pidamente, la tecnolog\\xEDa blockchain se destaca como una de las innovaciones m\\xE1s disruptivas.\nPero, \\xBFqu\\xE9 es exactamente la tecnolog\\xEDa blockchain? En pocas palabras, es un libro mayor descentralizado que almacena informaci\\xF3n en lugares llamados bloques. Siempre que alguien quiera agregar informaci\\xF3n o una transacci\\xF3n al libro mayor, primero debe verificarse proporcionando una prueba de identidad. Cada bloque tambi\\xE9n tiene su propio identificador \\xFAnico conocido como hash. Estos identificadores ayudan a rastrear informaci\\xF3n f\\xE1cilmente sin tener que almacenar una copia completa de cada bloque, lo que reduce significativamente el espacio y acelera significativamente las velocidades de transferencia de datos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-benefits-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoKAAoAAUAmJZQCdAELXbDJx9oNAAD+/qhlPGXKBYIs/FIxfJsvKfnKnk7HCkovxfRv7md+jSqfCId1wpmROBYSHMXxBdkCbLs86TuUUQWbydwA",
+      "createdAt": "Thu Oct 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-tecnologia-blockchain-para-startups",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Los Beneficios De La Tecnología Blockchain Para Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En los \\xFAltimos a\\xF1os, hemos visto un r\\xE1pido aumento en la cantidad de empresas que implementan la tecnolog\\xEDa blockchain. Los beneficios que ofrece este libro de contabilidad y base de datos digitales que cambian el juego son demasiado numerosos para ignorarlos. Sin embargo, con tantas empresas que adoptan la tecnolog\\xEDa blockchain, puede ser dif\\xEDcil hacer un seguimiento de las diferentes formas en que se puede usar. Si actualmente est\\xE1 trabajando en su propio negocio o idea de inicio, es posible que se pregunte si blockchain es algo que deber\\xEDa intentar implementar en su empresa.\n\\xBFNecesita una red compleja de nodos y mineros para verificar las transacciones? \\xBFQu\\xE9 hay de los consorcios de usuarios preaprobados que pueden acceder a diferentes niveles de informaci\\xF3n en funci\\xF3n de su membres\\xEDa? \\xBFEst\\xE1 tratando de evitar un tercero intermediario como bancos o corredores? Si alguno de estos se aplica a usted y a su negocio, \\xA1entonces la tecnolog\\xEDa blockchain podr\\xEDa ser lo que est\\xE1 buscando!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/ethereum-classic-the-original-ethereum.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJaQAD4zNWa/cnLoAAP7+taWF+qwHsvvINEX6qc/Q/x/+hmevvApdnhWKbQPDuJYfQeSx2iArEeYEDp+nZg5dHLiCM51o79INrrb656PI7ugA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ethereum-classic-el-ethereum-original",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Ethereum Classic: El Ethereum Original",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es la cadena de bloques l\\xEDder en el mundo para contratos inteligentes. Provoc\\xF3 una nueva ola de aplicaciones descentralizadas que nadie podr\\xEDa haber imaginado en los primeros d\\xEDas de la criptomoneda. Ethereum tambi\\xE9n ha demostrado ser una fuente invaluable de inspiraci\\xF3n para otros proyectos que intentan construir plataformas similares con diferentes objetivos y caracter\\xEDsticas. Uno de esos proyectos es Ethereum Classic (ETC). Aunque puede parecer otra versi\\xF3n de Ethereum, en realidad es una continuaci\\xF3n del software Ethereum original, que m\\xE1s tarde se denomin\\xF3 \"ETH\" cuando su token alcanz\\xF3 su propia capitalizaci\\xF3n de mercado y s\\xEDmbolo de cotizaci\\xF3n.\nEthereum Classic es esencialmente el c\\xF3digo base original de Ethereum, pero con verificaciones de mineros sin restricciones, mayores costos de gasolina y optimizaciones generales de c\\xF3digo. Piense en ETC como el anti-ETH; una cadena de bloques que permite a los desarrolladores implementar aplicaciones sin ninguna posible interferencia maliciosa de los mineros o cualquier otra persona que pueda controlar ETH en el futuro. A continuaci\\xF3n, encontrar\\xE1 todo lo que necesita saber sobre Ethereum Classic, en qu\\xE9 se diferencia del \"nuevo\" Ethereum y c\\xF3mo puede comprar ETC.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-gold-the-bitcoin-forks.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoKAAoAAUAmJZwCdADckYhCgAD+/woPor+W/c0xFEHxc6f59AORnEtLZInHrGvcNI8ZHNHBhf8vxni2TK0DqNhLmSPm2MiJfAAAAA==",
+      "createdAt": "Sat Jan 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "bitcoin-gold-las-bifurcaciones-de-bitcoin",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Bitcoin Gold: Las Bifurcaciones De Bitcoin",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,'Es posible que haya o\\xEDdo hablar de una bifurcaci\\xF3n antes, como la idea de que un desarrollador de software haga una copia o una \"bifurcaci\\xF3n\" del c\\xF3digo de otro programa. En el mundo de los programas inform\\xE1ticos y la codificaci\\xF3n, no es raro que alguien haga una versi\\xF3n modificada del c\\xF3digo de otra persona con la intenci\\xF3n de agregar alguna caracter\\xEDstica nueva o solucionar problemas con el original. Por ejemplo, uno podr\\xEDa ver un error en el c\\xF3digo de otro programador y corregirlo para evitar que otros codificadores tambi\\xE9n encuentren ese problema. Esto es esencialmente lo que es una bifurcaci\\xF3n en t\\xE9rminos de programaci\\xF3n: tomar un c\\xF3digo antiguo y realizar cambios para mejorarlo. Una bifurcaci\\xF3n puede ocurrir cuando los desarrolladores no est\\xE1n de acuerdo sobre c\\xF3mo lidiar con un problema (lo cual no es poco com\\xFAn) o si hay alguna otra raz\\xF3n que les hace querer separarse del c\\xF3digo fuente original e ir por su propio camino. Adem\\xE1s, \\xA1hay muchos tipos diferentes de bifurcaciones m\\xE1s all\\xE1 del software! En este art\\xEDculo exploraremos las bifurcaciones de Bitcoin: m\\xE1s espec\\xEDficamente, Bitcoin Gold y Bitcoin Cash.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-risks-of-blockchain-technology-for-business.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJYwCsADyh4/5nQAA/v4x4/5pf41pfSpcgymkX6fnqHS4MunohrOx8wMXjS+C0P3g34clbACe4d/sM8w8/+kBJ/z+0pOL15fQV4BpjeCed/4KXZX4vFI60zJ3yQSkWC72YAAA",
+      "createdAt": "Wed Mar 30 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-riesgos-de-la-tecnologia-blockchain-para-las-empresas",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Los Riesgos De La Tecnología Blockchain Para Las Empresas",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, han surgido numerosas tecnolog\\xEDas nuevas para desafiar la forma en que hacemos negocios. Una de ellas es la tecnolog\\xEDa blockchain. Es una tecnolog\\xEDa innovadora que tiene el potencial de transformar todo, desde las finanzas hasta las cadenas de suministro, la atenci\\xF3n m\\xE9dica, los bienes ra\\xEDces e incluso la votaci\\xF3n. Es dif\\xEDcil no entusiasmarse con esta tecnolog\\xEDa y sus posibles aplicaciones.\nSin embargo, con cualquier nueva tecnolog\\xEDa hay riesgos as\\xED como recompensas. Los riesgos de la tecnolog\\xEDa blockchain para su negocio son numerosos, pero si los conoce, puede asegurarse de mitigar cualquier posible inconveniente y aprovechar al m\\xE1ximo los beneficios que ofrece. Echemos un vistazo a algunos consejos de precauci\\xF3n sobre la implementaci\\xF3n de blockchain en su empresa.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-advantages-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZACdAEQFPq03w9wAP75ties7l/Jk03ew8Ayyb258NolYDhX6OUkLEe+7WQE96rkNvd/61UzZxv9i936xHUecBW9+saT8ZjH8+KXN8hk4+MQEHZ7LOq8Rhu7FAL704gXygZIzbQAAA==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-ventajas-de-la-tecnologia-blockchain",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Las Ventajas De La Tecnología Blockchain",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo est\\xE1 comenzando lentamente a comprender el alcance del potencial que tiene la tecnolog\\xEDa blockchain. Se puede utilizar para mucho m\\xE1s que monedas digitales. De hecho, sus usos se extienden mucho m\\xE1s all\\xE1 del sector financiero. Las posibilidades de blockchain parecen casi infinitas en este punto.\nEste art\\xEDculo profundiza en las ventajas de la tecnolog\\xEDa blockchain y por qu\\xE9 vale la pena aprender m\\xE1s sobre ella ahora y no m\\xE1s tarde. . Puede que no crea que esta tecnolog\\xEDa emergente va a tener un impacto tan grande en su industria, pero puede que se sorprenda. Hay muchas industrias que podr\\xEDan usarlo, desde atenci\\xF3n m\\xE9dica hasta bienes ra\\xEDces e incluso organizaciones sin fines de lucro. Siga leyendo para descubrir c\\xF3mo blockchain puede hacer que su organizaci\\xF3n est\\xE9 mejor equipada para prosperar en el entorno empresarial cambiante de hoy, y c\\xF3mo puede aprovecharlo m\\xE1s temprano que tarde.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-private-the-privacy-focused-bitcoin.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJQBOgMW5tZ3vSIAA/vTHqHc+ftSih1db3Xsa2yMQagoqH16LVv+4L0k0rzq/XP3+QsxAs1GBPY6Gk2NEREqu/klvtsMRC/22uSLoKV7fLM7fwwpwCere09r1wrfnpnELffbF9aCJ4huAAAA=",
+      "createdAt": "Mon Jul 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "bitcoin-private-el-bitcoin-centrado-en-la-privacidad",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Bitcoin Private: El Bitcoin Centrado En La Privacidad",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Bitcoin ha pasado de ser una peque\\xF1a red de geeks a convertirse en la principal criptomoneda del mundo. Con una capitalizaci\\xF3n de mercado de m\\xE1s de $115 mil millones, Bitcoin ha recorrido un largo camino. Pero no est\\xE1 exento de problemas. El predominio de intercambios centralizados y servicios de custodia, as\\xED como la reciente manipulaci\\xF3n de precios, han planteado serios problemas de confianza entre los usuarios y usuarios potenciales de la moneda virtual.\nAdem\\xE1s, dado que las instituciones, los gobiernos y las personas reconocen cada vez m\\xE1s el valor de los tokens digitales, a los criptoanarquistas les preocupa que Bitcoin no sea lo suficientemente an\\xF3nimo para protegerse contra la intrusi\\xF3n de autoridades o intermediarios (por ejemplo, intercambios y corredores de datos). Esto ha llevado a un aumento en la demanda de criptomonedas centradas en la privacidad, conocidas como \"monedas de privacidad\", como ZCash, Dash y Monero.\nAfortunadamente, tambi\\xE9n hay una soluci\\xF3n para este problema: Bitcoin Private (BTCP).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

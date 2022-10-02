@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Go?\"),mdx(\"p\",null,`El lenguaje Go es un lenguaje de programaci\\xF3n de c\\xF3digo abierto desarrollado por Google. Fue dise\\xF1ado con el objetivo de facilitar la escritura de software que aproveche la computaci\\xF3n paralela.\nEl lenguaje de programaci\\xF3n Go fue creado por ingenieros de Google en 2007. Estos ingenieros estaban construyendo un sistema distribuido a gran escala en ese momento. Descubrieron que los lenguajes que estaban usando en ese momento no ten\\xEDan las funciones que necesitaban para escalar su sistema. As\\xED que crearon un nuevo lenguaje con las funciones que necesitaban.\nGo es un lenguaje de programaci\\xF3n de alto nivel que est\\xE1 dise\\xF1ado para ser f\\xE1cil de usar. Es simple y directo, pero tambi\\xE9n tiene caracter\\xEDsticas poderosas que lo hacen adecuado para aplicaciones a gran escala. Tambi\\xE9n est\\xE1 dise\\xF1ado para ser r\\xE1pido y eficiente, lo cual es importante para cualquier lenguaje que se utilice para la programaci\\xF3n paralela.`),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 paralelizar?\"),mdx(\"p\",null,`Los sistemas inform\\xE1ticos se componen de muchos componentes diferentes que trabajan juntos para procesar datos. Es posible que haya o\\xEDdo hablar de t\\xE9rminos como CPU, RAM, GPU y disco duro. Todos estos componentes juegan un papel importante en la rapidez y eficiencia con la que su computadora puede manejar tareas. Dentro de estos componentes, hay miles de peque\\xF1os transistores que procesan datos.\nLa cantidad de datos que se pueden procesar en un momento dado se conoce como la capacidad de procesamiento del sistema inform\\xE1tico. Una computadora t\\xEDpica tiene una capacidad de procesamiento de aproximadamente una o dos instrucciones por segundo.\nAhora imagine que tiene una gran cantidad de datos y necesita procesarlos. En este caso, deber\\xE1 esperar a que la computadora termine de procesar el primer dato antes de poder pasar al siguiente. Este proceso se conoce como procesamiento secuencial. Es lo que sucede en la mayor\\xEDa de los sistemas inform\\xE1ticos.`),mdx(\"h2\",null,\"Apueste por la computaci\\xF3n en paralelo\"),mdx(\"p\",null,`En esta secci\\xF3n, examinaremos por qu\\xE9 el lenguaje Go tiene sentido para la computaci\\xF3n paralela. Primero veamos los conceptos b\\xE1sicos de la computaci\\xF3n paralela.\nEn la computaci\\xF3n paralela, divide el procesamiento de datos en varias partes, cada una de las cuales se procesa simult\\xE1neamente. La computaci\\xF3n paralela es diferente del procesamiento en serie porque no requiere que la computadora termine un dato antes de pasar al siguiente.`),mdx(\"p\",null,\"Esta paralelizaci\\xF3n del procesamiento de datos se puede realizar en diferentes niveles. Un m\\xE9todo est\\xE1 dentro de un solo programa, donde se ejecutan una o m\\xE1s instrucciones a la vez. Otro m\\xE9todo es dividir los datos en diferentes programas que se pueden procesar simult\\xE1neamente usando varias computadoras.\"),mdx(\"h2\",null,\"Limitaciones de Go for Parallel Computing\"),mdx(\"p\",null,`Aunque el lenguaje Go tiene sentido para la computaci\\xF3n paralela, tiene algunas limitaciones. Uno de los principales problemas para los desarrolladores que usan Go para la computaci\\xF3n paralela es que puede ser dif\\xEDcil encontrar suficientes sistemas inform\\xE1ticos para manejar la carga.\nEl lenguaje tampoco tiene caracter\\xEDsticas integradas para facilitar la distribuci\\xF3n de datos en varias m\\xE1quinas.\nPor ejemplo, si desea dividir un gran conjunto de datos entre dos computadoras y luego combinar los resultados nuevamente, deber\\xE1 escribir un c\\xF3digo personalizado para hacerlo. Esto puede dificultar el trabajo con grandes conjuntos de datos en paralelo.`),mdx(\"h2\",null,\"Conclusiones clave\"),mdx(\"p\",null,`El lenguaje Go est\\xE1 dise\\xF1ado para facilitar la escritura de software que aprovecha la computaci\\xF3n paralela. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente.\nGo es un lenguaje de programaci\\xF3n de alto nivel que est\\xE1 dise\\xF1ado para ser f\\xE1cil de usar. Es simple y directo, pero tambi\\xE9n tiene caracter\\xEDsticas poderosas que lo hacen adecuado para aplicaciones a gran escala. Tambi\\xE9n est\\xE1 dise\\xF1ado para ser r\\xE1pido y eficiente, lo cual es importante para cualquier lenguaje que se utilice para la programaci\\xF3n paralela.`),mdx(\"p\",null,\"Si bien el lenguaje Go tiene sentido para la computaci\\xF3n paralela, tiene algunas limitaciones. Los sistemas inform\\xE1ticos se componen de muchos componentes diferentes que trabajan juntos para procesar datos. Un m\\xE9todo consiste en dividir los datos en diferentes programas que se pueden procesar simult\\xE1neamente mediante el uso de varias computadoras.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-popular-coding-languages.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOhgl5ESmHT/xSQreAAP76We2k8WMXPadRnwbJVZRD+9jyJfUhyLWRN5vzT0NxIE9sh+cwn2Ctb4rbuH9OfL8eZecIQQNJLfeynisY2AF38BfIUnV7eHqv5/5/+sN/U6SFywAAAA==",
+      "createdAt": "Fri Dec 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-lenguajes-de-codificacion-mas-populares",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Lenguajes De Codificación Más Populares",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es un trabajo candente en este momento y seguir\\xE1 si\\xE9ndolo en el futuro previsible. La demanda de codificadores est\\xE1 creciendo, y no solo en las empresas de tecnolog\\xEDa. Las empresas de todo tipo necesitan programadores con diferentes habilidades de codificaci\\xF3n para crear su software y sitios web, lo que significa que los programadores pueden encontrar trabajo en cualquier lugar.\nLa codificaci\\xF3n es tambi\\xE9n uno de los mercados laborales de m\\xE1s r\\xE1pido crecimiento en este momento. A medida que las empresas contin\\xFAan digitalizando y automatizando procesos, tambi\\xE9n aumenta la necesidad de desarrolladores que puedan crear programas. La explosi\\xF3n de nuevos lenguajes de programaci\\xF3n ha hecho que este sea un momento emocionante para ser programador. Hay tantas opciones disponibles, desde las tradicionales como Java y Python hasta reproductores m\\xE1s nuevos como Go y Kotlin. \\xBFCu\\xE1l crees que hace una carrera m\\xE1s prometedora como programador? Siga leyendo para averiguar qu\\xE9 lenguajes de codificaci\\xF3n tienen m\\xE1s demanda en este momento...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-futuro",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Futuro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de la programaci\\xF3n est\\xE1 cambiando r\\xE1pidamente. Siguen apareciendo nuevos idiomas y los antiguos pasan de moda m\\xE1s r\\xE1pido que nunca. Pero Python sigue siendo uno de los lenguajes de programaci\\xF3n m\\xE1s populares del mundo, y su popularidad no muestra signos de desaceleraci\\xF3n en el corto plazo.\nSi est\\xE1 considerando una carrera en desarrollo de software, aprender Python puede abrirle una serie de oportunidades interesantes. La demanda de programadores calificados est\\xE1 creciendo a\\xF1o tras a\\xF1o, con la demanda m\\xE1s alta entre las peque\\xF1as empresas y las nuevas empresas. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre la historia y el uso de Python como lenguaje de programaci\\xF3n, por qu\\xE9 es tan popular en este momento y c\\xF3mo puede comenzar a aprenderlo tambi\\xE9n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-lenguaje-para-computacion-cientifica",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Lenguaje Para Computación Científica",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El lenguaje de programaci\\xF3n Go ha ganado popularidad en la comunidad de ingenier\\xEDa de software en los \\xFAltimos a\\xF1os. A muchos desarrolladores les ha gustado Go debido a su simplicidad, legibilidad y tiempo de compilaci\\xF3n m\\xE1s r\\xE1pido. Otros beneficios incluyen tener poca o ninguna sobrecarga de tiempo de ejecuci\\xF3n, ser seguro para la memoria de forma predeterminada y poder compilar el c\\xF3digo Go como archivos binarios independientes o como paquetes (llamados paquetes en Go).\nGo es un lenguaje ideal para la inform\\xE1tica cient\\xEDfica debido a su rendimiento, facilidad de uso y bibliotecas est\\xE1ndar. Este blog describir\\xE1 las razones por las que deber\\xEDa considerar usar Go para su pr\\xF3ximo proyecto que involucre computaci\\xF3n cient\\xEDfica pesada.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
+      "createdAt": "Tue Nov 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "tutorial-de-typescript-una-guia-para-principiantes-de-typescript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Tutorial De TypeScript: Una Guía Para Principiantes De TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si ha estado siguiendo el mundo de la programaci\\xF3n durante los \\xFAltimos a\\xF1os, probablemente ya haya o\\xEDdo hablar de TypeScript. Esto se debe a que es una de las formas m\\xE1s interesantes y accesibles de comenzar con los lenguajes de programaci\\xF3n modernos. Desde su lanzamiento en 2014, TypeScript se ha vuelto extremadamente popular entre los desarrolladores de todo el mundo, incluidos aquellos que generalmente evitan cualquier software o herramienta nueva que a\\xFAn se encuentre en la fase de prueba beta.\nEste art\\xEDculo cubrir\\xE1 todo lo que necesita saber sobre TypeScript y por qu\\xE9 exactamente este lenguaje ha llamado la atenci\\xF3n de tantos programadores. Tambi\\xE9n incluye una lista de tutoriales sobre c\\xF3mo comenzar a usar TypeScript lo m\\xE1s r\\xE1pido posible para que tambi\\xE9n pueda usarlo de manera efectiva en sus proyectos futuros.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-lenguajes-de-codificacion-para-aprender",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Lenguajes De Codificación Para Aprender",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener las habilidades para codificar puede ser un activo extremadamente \\xFAtil en su vida profesional y personal. Hay una gran demanda de codificadores en este momento, y seguir\\xE1 creciendo en el futuro. Algunas de las personas m\\xE1s exitosas de la actualidad llegaron all\\xED porque dominaron un lenguaje de codificaci\\xF3n y lo usaron para su beneficio. Ya sea que est\\xE9 buscando una nueva oportunidad profesional o algo que pueda usar a nivel personal, aprender a codificar es algo que no solo expandir\\xE1 su mente sino que tambi\\xE9n le abrir\\xE1 muchas puertas.\nLos lenguajes de codificaci\\xF3n pueden parecer intimidantes a primera vista, pero una vez que superas la rareza inicial de leer algo que parece un idioma extranjero, en realidad son bastante sencillos. Incluso si no tiene experiencia en programaci\\xF3n, este art\\xEDculo le brindar\\xE1 toda la informaci\\xF3n que necesita para comenzar su viaje de codificador y encontrar el lenguaje de codificaci\\xF3n perfecto para sus necesidades.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJaAC7AYtBzobhHUYXVjAAP7+mC6P4T+fYqTzewRcuXQzscq+OOz1C3jG3zVnXcbM8Kq7okMaqEwyWS7xv1h80d9YhMRenNv3jfXEgZPuCauxWLJ8/E9irMoj6EefC3P54AAA",
+      "createdAt": "Fri Apr 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La historia de los lenguajes de programaci\\xF3n est\\xE1 plagada de ideas abandonadas e intentos fallidos. Eso es porque crear un nuevo lenguaje de programaci\\xF3n es un proceso desafiante. Crear un lenguaje que tenga su propia sintaxis, analizador, compilador y m\\xE1quina virtual no es f\\xE1cil.\nEs a\\xFAn m\\xE1s dif\\xEDcil crear un lenguaje de programaci\\xF3n que otras personas quieran usar. El lenguaje de programaci\\xF3n Java ha existido durante casi 25 a\\xF1os y todav\\xEDa se mantiene fuerte. Hay muchas buenas razones para esto, pero una de las m\\xE1s importantes es que Java no intenta ser todo para todos. Su alcance es limitado, pero su potencial es enorme.\nEste art\\xEDculo le presentar\\xE1 el lenguaje de programaci\\xF3n Java para que pueda comprender por qu\\xE9 sigue siendo uno de los lenguajes m\\xE1s populares del mundo en la actualidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: existen muchos lenguajes de programaci\\xF3n y cada uno tiene sus propias caracter\\xEDsticas y peculiaridades \\xFAnicas. Entonces, \\xBFcu\\xE1l deber\\xEDas aprender primero? Si est\\xE1 buscando comenzar en el mundo de la codificaci\\xF3n, Javascript es un lugar fant\\xE1stico para comenzar. De hecho, puede ser un excelente lenguaje de programaci\\xF3n para principiantes para aquellos que tienen poca o ninguna experiencia en este campo. \\xBFPorqu\\xE9 es eso? Bueno, como el lenguaje m\\xE1s com\\xFAn utilizado para la creaci\\xF3n de sitios web, aprender Javascript lo ayuda a comprender c\\xF3mo funcionan los sitios web a nivel individual.\n\\xA1Deje que esta gu\\xEDa paso a paso para aprender Javascript lo ayude a llevar su nuevo conjunto de habilidades al siguiente nivel! Desde comprender qu\\xE9 es Javascript y por qu\\xE9 es importante hasta dominar los fundamentos de la codificaci\\xF3n, como variables y declaraciones condicionales, lo guiaremos a trav\\xE9s de todo lo que necesita saber para comenzar con este lenguaje de programaci\\xF3n din\\xE1mico.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "seguridad-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Seguridad Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los dispositivos conectados a Internet contempor\\xE1neos son sistemas en red complejos con requisitos de seguridad desafiantes. Los nuevos vectores de ataque y riesgos de IoT surgen de la convergencia de servicios digitales, sociales, m\\xF3viles, en la nube, de sensores y otros nuevos servicios de Internet.\nLa seguridad es una de las principales preocupaciones tanto para los fabricantes de dispositivos como para los usuarios. Muchos consumidores tienen reservas sobre la seguridad de los dispositivos y servicios de IoT debido a experiencias pasadas con virus inform\\xE1ticos, software esp\\xEDa, conexiones Wi-Fi inseguras, violaci\\xF3n de informaci\\xF3n personal de bases de datos y otros incidentes causados por sistemas no seguros. La seguridad debe abordarse desde el comienzo de cada ciclo de vida del producto. Cada fase requiere un conjunto adecuado de medidas de seguridad para proteger los datos contra el robo o el sabotaje, as\\xED como contra las amenazas internas, como los malintencionados o los empleados deshonestos con acceso privilegiado. Un programa de seguridad integral debe cubrir varias \\xE1reas clave, que incluyen:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-empresas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Empresas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

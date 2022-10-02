@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Data Cleaning and Preprocessing\"),mdx(\"p\",null,`Let\\u2019s start with data cleaning. This is the process of converting your original data into a form that is suitable for modeling. Depending on the data source, this might involve filtering, transforming, and/or converting your data into a standardized format.\nThis is particularly important for unstructured data like text and images. For example, if you want to train a model to detect spam emails, you will need to preprocess your email dataset and remove any features that aren\\u2019t relevant for classifying emails as spam or non-spam emails.`),mdx(\"p\",null,\"Go is particularly well-suited for this type of processing due to its rich standard library. In fact, it is one of the most comprehensive collections of data cleaning and data transformation tools in any programming language. You will find everything you need to get your data ready for modeling, including tools that convert between different file formats, clean your text data, and apply appropriate formatting.\"),mdx(\"h2\",null,\"Text Analysis\"),mdx(\"p\",null,\"Now let\\u2019s look at text analysis. This is the process of converting unstructured text into a standardized form that is easy to process and analyze. In general, this requires the following steps:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Data cleaning and preprocessing - Obtain raw text data - Convert raw text data into a standardized format - Discretize continuous variables - Partition categorical variables\")),mdx(\"p\",null,\"While all these steps are important, discretization is particularly crucial for text analysis, as it is the process of converting continuous variables into categorical variables.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"String variables that contain text data are continuous variables. This means that for two strings that appear identical, it is possible to measure the exact difference in their length.\"),mdx(\"li\",{parentName:\"ul\"},\"Discretization converts continuous variables into categorical variables based on their length. Thus, when you discretize string variables, you create a number of discrete categories based on the length of each string. This allows you to convert text analysis models from continuous variables to categorical variables.\"),mdx(\"li\",{parentName:\"ul\"},\"Go is particularly well-suited for text data preprocessing and analysis due to its rich standard library. In fact, it is one of the best programming languages for text analysis and data mining.\"),mdx(\"li\",{parentName:\"ul\"},\"You will find everything you need to get your raw text data ready for modeling, including tools that convert between different file formats, clean your text data, and apply appropriate formatting. You will also find tools that can be used to discretize string variables.\")),mdx(\"h2\",null,\"Regression and Forecasting\"),mdx(\"p\",null,\"Let\\u2019s now turn to regression and forecasting. This is the process of creating mathematical models that can be used to predict future outcomes based on current data.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Regression models can be used to forecast continuous variables, such as the sales of a product, or the temperature of a specific location in the future.\"),mdx(\"li\",{parentName:\"ul\"},\"Forecasting models, on the other hand, can be used to predict discrete variables, such as the outcome of an election or the stock market.\")),mdx(\"p\",null,\"These models are usually trained on a large dataset that contains past values of the continuous or discrete variables you plan to forecast.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Go is a great choice for regression and forecasting models due to its simplicity and ease of use. You will find a wide variety of libraries for regression and forecasting, as well as several integrated modeling frameworks that can be used to build sophisticated models for your data.\")),mdx(\"h2\",null,\"Machine Learning for Computer Vision\"),mdx(\"p\",null,\"Next, let\\u2019s look at machine learning for computer vision. This is the process of creating mathematical models that can be used to identify and classify objects in images and videos, as well as detect abnormalities in security footage.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Computer vision models can be trained on image datasets that contain labeled images.\"),mdx(\"li\",{parentName:\"ul\"},\"These images contain the objects that you want your model to learn to identify, as well as information about their location and other factors that can influence the model\\u2019s accuracy.\"),mdx(\"li\",{parentName:\"ul\"},\"Go is a great choice for computer vision due to its simplicity and ease of use. You will find libraries that can be used to build models for image recognition, object detection, and image segmentation, as well as tools to deploy and optimize your models for production.\")),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"We have explored five Go alternatives for machine learning. These include data cleaning and preprocessing, text analysis, regression and forecasting, machine learning for computer vision, and the strengths of Go as a programming language.\"),mdx(\"p\",null,\"For each scenario, we have outlined the requirements for a tool that can be used to implement the various machine learning algorithms. Following this, we have explored each language in detail and explained why Go is a great option for each of these scenarios.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-habits-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Habits for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoKAAoAAUAmJbACdLoB+AADFg2tR+TgAP7YU3FZiwbFuBrV5bGmY3Oh2pqHn2vZPgLHpV+/Vsn0dqLzIwJXCrNxVtoT1cq2VkDad6a5+QZX/+7z903iq374LsArz1f6s1/g3/uB//HBH7CdcRBZA5LboAAAAA==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "5-tricks-to-help-you-master-javascript-in-5-minutes",
+      "locale": "en",
+      "title": "5 Tricks to Help You Master JavaScript in 5 Minutes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve just started learning programming or are struggling to get a grasp of it, Javascript can be one tough nut to crack. This dynamic and functional programming language is used for creating interactive websites and applications.\nThe scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it\\u2019s also a great first programming language because of its simplicity, accessibility, and ease of availability online.\nBut like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
+      "createdAt": "Wed Sep 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-shortcuts-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Shortcuts for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the beginning, coding can feel like solving puzzles with red-hot needles in your hands. Everything is new, nothing makes sense and you can\\u2019t even tell if you are on the right track or not. It feels like one confusing labyrinth with a lot of locked doors \\u2013 every time you find an unlocked door, it just leads to another locked door! How do we get out of this frustrating loop? Coding shortcuts!\nA lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn\\u2019t have time to invest in learning every last bit of it before they can start creating useful programs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+      "createdAt": "Wed Mar 24 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-resources-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Resources for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAYr7vtKwKgJ+AD+/dMt2lwUULDREX1J+IgQp0ozpvRc02wSfA8JxvQ12k5qhRNzMcFq/KPhvlZ7z4odbOX9/xoI0dCSFk8VlpRy7zhmecYccgVtaAAAAA==",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/spring-mvc-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAEPALwdsYAA/v7GUZ5PlhJIBneoTV65URORmalMuDcdtHSSKoz4hxaAFL6i138Vg2XlfrW/GGmm1vqapr57Dduz2d6EdwAA",
+      "createdAt": "Thu Aug 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "spring-mvc-applications",
+      "locale": "en",
+      "title": "Spring Mvc Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-a-software-engineering-career",
+      "locale": "en",
+      "title": "The Benefits of a Software Engineering Career",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

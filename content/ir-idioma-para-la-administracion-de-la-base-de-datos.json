@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFPor qu\\xE9 Go es bueno para la administraci\\xF3n de bases de datos?\"),mdx(\"p\",null,\"Go tiene una serie de beneficios que lo convierten en una buena opci\\xF3n para los administradores de bases de datos. En primer lugar, es f\\xE1cil de aprender y leer. Dado que los DBA necesitan leer y comprender el c\\xF3digo escrito por otros desarrolladores, es \\xFAtil si el lenguaje es sencillo. Otro beneficio es que Go facilita que los DBA concatenen cadenas. Otra caracter\\xEDstica importante para los administradores de bases de datos es la compatibilidad integrada con la depuraci\\xF3n y el registro. Esto puede ser \\xFAtil cuando se trata de averiguar por qu\\xE9 una consulta puede ser lenta o por qu\\xE9 una tabla est\\xE1 llena.\"),mdx(\"h2\",null,\"6 Razones para usar Go para DBA\"),mdx(\"p\",null,`Go es un lenguaje de tipado est\\xE1tico, lo que significa que se debe especificar el tipo de datos esperados en cada l\\xEDnea de c\\xF3digo. Esto ayuda a identificar errores antes. Tambi\\xE9n significa que los DBA no tienen que preocuparse por qu\\xE9 tipo de datos utilizar al crear tablas. Go tiene un buen soporte integrado para la programaci\\xF3n concurrente. Esto lo convierte en una buena opci\\xF3n para escalar aplicaciones para admitir una gran cantidad de usuarios.\nTiene soporte integrado para el an\\xE1lisis JSON y el uso de puntos finales HTTP, que son importantes para las aplicaciones web modernas. Go tiene un buen soporte para big data. Esto se debe en parte a que Go facilita la distribuci\\xF3n de datos entre varias m\\xE1quinas, as\\xED como la ampliaci\\xF3n a sistemas m\\xE1s potentes si es necesario.\nGo admite la interoperabilidad con otros idiomas a trav\\xE9s de su biblioteca est\\xE1ndar y su sintaxis tipo C. Esto facilita que los DBA se integren con otras tecnolog\\xEDas como Apache Spark y Apache Kafka.`),mdx(\"h2\",null,\"Go tiene un buen soporte para big data\"),mdx(\"p\",null,\"Si bien todos los lenguajes de programaci\\xF3n modernos afirman ser buenos para big data, Go realmente cumple esta promesa. La biblioteca est\\xE1ndar de Go tiene un conjunto de herramientas que facilita el procesamiento de grandes conjuntos de datos y los ampl\\xEDa para aprovechar el procesamiento distribuido. La biblioteca est\\xE1ndar viene con una implementaci\\xF3n de Hadoop MapReduce que puede procesar datos en paralelo en un grupo de m\\xE1quinas.\"),mdx(\"p\",null,\"La biblioteca est\\xE1ndar de Go tambi\\xE9n contiene herramientas cr\\xEDticas, como el paquete Hashing y el paquete de la biblioteca est\\xE1ndar, que facilitan la implementaci\\xF3n de estructuras de datos comunes, como un \\xE1rbol binario o una tabla hash. Finalmente, a diferencia de otros idiomas, la biblioteca est\\xE1ndar de Go no requiere el uso de una base de datos. Esto facilita el procesamiento de conjuntos de datos muy grandes que no caben en la memoria o que no necesitan almacenarse de forma permanente.\"),mdx(\"h2\",null,\"Go tiene un buen soporte para la interoperabilidad\"),mdx(\"p\",null,\"Si una empresa utiliza m\\xFAltiples proveedores de servicios y herramientas, es posible que deba integrar los datos de estos sistemas con sus propios datos. Go ofrece una buena opci\\xF3n para la integraci\\xF3n con varias bases de datos, incluidas las utilizadas por otras aplicaciones. Esto puede ser \\xFAtil si una empresa quiere hacer uso de los datos almacenados en una base de datos heredada o si quiere ingerir datos de otro sistema. Go tambi\\xE9n facilita el acceso a los servicios web. Esto lo convierte en un buen lenguaje para crear microservicios.\"),mdx(\"h2\",null,\"Go tiene soporte incorporado para concurrencia\"),mdx(\"p\",null,\"Si bien todos los lenguajes de programaci\\xF3n modernos ofrecen cierto soporte para la concurrencia, Go lo hace particularmente f\\xE1cil y eficiente de implementar. En la mayor\\xEDa de los lenguajes de programaci\\xF3n, los desarrolladores tienen que administrar la forma en que los diferentes procesos pueden acceder y modificar los datos. Este puede ser un proceso complejo y propenso a errores. En Go, el lenguaje gestiona esto para el desarrollador. Esto puede reducir significativamente la complejidad de escribir c\\xF3digo concurrente.\"),mdx(\"h2\",null,\"Go tiene buen soporte para SQL\"),mdx(\"p\",null,\"La mayor\\xEDa de los sistemas de administraci\\xF3n de bases de datos admiten SQL como una forma estandarizada de recuperar y administrar datos. En algunos sistemas de bases de datos, la sintaxis SQL puede variar ligeramente entre proveedores. Esto puede dificultar que un DBA cambie entre diferentes sistemas si no conoce la sintaxis de todos ellos.\"),mdx(\"p\",null,\"Go ofrece una sintaxis SQL est\\xE1ndar que todos los DBMS deben cumplir. Esto significa que un DBA que conoce la sintaxis de Go SQL podr\\xE1 cambiar a otro DBMS con un esfuerzo m\\xEDnimo. Tambi\\xE9n significa que el c\\xF3digo SQL escrito en Go se puede transferir f\\xE1cilmente a otros sistemas.\"),mdx(\"h2\",null,\"Resumen\"),mdx(\"p\",null,\"Este art\\xEDculo explor\\xF3 por qu\\xE9 Go es una buena opci\\xF3n para la administraci\\xF3n de bases de datos. Go es f\\xE1cil de aprender y leer, y tiene soporte integrado para concurrencia. Tambi\\xE9n tiene un buen soporte para big data y un buen soporte para SQL. Con todos estos beneficios, Go facilita que los DBA administren bases de datos a escala.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/working-with-files-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
+      "createdAt": "Thu Aug 11 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "trabajar-con-archivos-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Trabajar Con Archivos En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar con archivos es algo que los programadores de nivel de entrada no pueden hacer muy a menudo. No es la parte m\\xE1s emocionante del desarrollo de software, pero es importante. El sistema de archivos es la piedra angular de casi todos los programas que usa en su computadora. Trabajar con archivos en Java puede parecer un poco contradictorio al principio. Una vez que comprende qu\\xE9 lo hace diferente de otros lenguajes de programaci\\xF3n, se vuelve mucho m\\xE1s claro.\nTrabajar con archivos en Java implica crear, leer, actualizar y eliminar archivos. Los archivos se almacenan como cadenas o bytes. Si ha utilizado otros lenguajes de programaci\\xF3n antes, esto le resultar\\xE1 familiar. En Java, hay dos formas distintas de trabajar con archivos: secuencias est\\xE1ndar y la nueva clase \"Archivo\" introducida en la versi\\xF3n 1.1 del lenguaje. Este art\\xEDculo explica c\\xF3mo trabajar con archivos utilizando ambos m\\xE9todos y tambi\\xE9n aborda algunos temas relacionados, como etiquetas New>.../New> y archivos Jar (paquetes autoejecutables).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-big-data",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy vemos empresas de todo el mundo que luchan por adoptar tecnolog\\xEDa emergente y adaptarse a las condiciones cambiantes del mercado. Como resultado, muchas empresas se enfrentan a un per\\xEDodo de transformaci\\xF3n digital que las pondr\\xE1 en ventaja o las dejar\\xE1 obsoletas. En el mundo actual basado en datos, las empresas deben contar con la infraestructura tecnol\\xF3gica para recopilar, procesar, analizar y almacenar cantidades masivas de datos.\nPara seguir siendo competitivas, las organizaciones necesitan estrategias de desarrollo de software que puedan manejar big data de manera eficiente y mantener los costos bajos. Las organizaciones tambi\\xE9n deben tener la capacidad de implementar nuevas tecnolog\\xEDas r\\xE1pidamente e integrarlas en sus sistemas existentes. Este art\\xEDculo detalla la programaci\\xF3n de Go para ejemplos de big data y por qu\\xE9 deber\\xEDa considerarla para su pr\\xF3ximo proyecto.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJbACdAaLN5S4ZSKyNZqD1AAA/sYHo//+hxpetvtkSoyoiLV0Lieb3NvRLk2SsuD25lcaJHL78S5ZiV36k4f3ySR/B/IhP8d/RUgsF3rupU/z2h8s77xfl/8eqLG+Xj5RODOjEfrqB5PjRP5t1m7vnrY8pn4/0L/+33+1b0Dy3SfkTNcAAA==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-lenguaje-para-desarrollo-movil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Lenguaje Para Desarrollo Móvil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, los dispositivos m\\xF3viles se han convertido en parte de nuestra vida diaria. La mayor\\xEDa de las personas usan sus tel\\xE9fonos para llamar, enviar mensajes de texto o navegar por Internet. El mundo ha pasado de los tel\\xE9fonos b\\xE1sicos a los tel\\xE9fonos inteligentes, que son m\\xE1s que simples tel\\xE9fonos m\\xF3viles. Los tel\\xE9fonos inteligentes vienen con aplicaciones preinstaladas, como c\\xE1maras, reproductores de video y servicios de mensajer\\xEDa. Adem\\xE1s, tambi\\xE9n admiten aplicaciones de terceros, como servicios de transmisi\\xF3n de m\\xFAsica y juegos. Los usuarios m\\xF3viles de hoy esperan que sus dispositivos sean m\\xE1s que simples herramientas de comunicaci\\xF3n; quieren que sean una extensi\\xF3n de su estilo de vida digital. Por lo tanto, los desarrolladores deben crear aplicaciones que aprovechen el tama\\xF1o de pantalla m\\xE1s peque\\xF1o y aceleren los tiempos de carga almacenando datos localmente cuando sea posible. Hay muchos lenguajes de programaci\\xF3n diferentes que se utilizan para hacer aplicaciones m\\xF3viles; sin embargo, cubriremos cuatro de los m\\xE1s utilizados:\nLas empresas de desarrollo de software generalmente tienen un conjunto est\\xE1ndar de lenguajes de programaci\\xF3n con los que prefieren trabajar. Cuando se trata del desarrollo de aplicaciones m\\xF3viles, es posible que un idioma supere al resto en funci\\xF3n de su popularidad entre los desarrolladores, as\\xED como de otros factores, como la demanda laboral de ese idioma espec\\xEDfico. Siga leyendo para conocer algunos de los lenguajes de programaci\\xF3n m\\xE1s comunes para desarrollar aplicaciones m\\xF3viles:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El raspado web es la pr\\xE1ctica de extraer datos de sitios web. En este blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python para el web scraping, as\\xED como tambi\\xE9n proporcionaremos ejemplos, recursos y sugerencias para comenzar. La red mundial ha hecho que sea m\\xE1s f\\xE1cil que nunca compartir informaci\\xF3n entre s\\xED. Sin embargo, esa misma facilidad de acceso tambi\\xE9n ha hecho que sea m\\xE1s dif\\xEDcil que nunca separar la informaci\\xF3n \\xFAtil del ruido. Debido a esto, muchos desarrolladores han recurrido al web scraping para extraer la informaci\\xF3n que necesitan de los sitios web sin tener que buscar manualmente o filtrar todo individualmente. \\xA1Afortunadamente para ti, Python es un lenguaje perfecto para comenzar con el web scraping! Este blog cubrir\\xE1 por qu\\xE9 deber\\xEDa aprender Python para web scraping y ofrecer\\xE1 recursos \\xFAtiles para comenzar a aprenderlo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJYgCdAEO/kOOAAD++jwC6sVnBPT6WwvL8iIUI2dl6DcrAvKtH4SZXG/BOc1hWPT8NuU2tHb2WQap5/XKFogRX6b6jofXzt3GMfH69j401+cgoEkkAAAA",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-la-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje De La Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con el r\\xE1pido crecimiento del mercado de Internet y aplicaciones m\\xF3viles, no es de extra\\xF1ar que los desarrolladores tengan una demanda tan alta. Como resultado, m\\xE1s personas que nunca est\\xE1n aprendiendo a codificar como una opci\\xF3n profesional secundaria o como un medio para ingresar a la industria tecnol\\xF3gica.\nDesafortunadamente, existen tantos lenguajes de codificaci\\xF3n que puede ser dif\\xEDcil saber por d\\xF3nde empezar. \\xA1Afortunadamente, estamos aqu\\xED para ayudar!\nPython es uno de los lenguajes de programaci\\xF3n m\\xE1s populares que existen hoy en d\\xEDa con una gran demanda de programadores calificados. Y como uno de los lenguajes de programaci\\xF3n m\\xE1s utilizados para el an\\xE1lisis estad\\xEDstico y la ciencia de datos, Python tambi\\xE9n es extremadamente \\xFAtil para los desarrolladores web que buscan expandirse desde otros lenguajes de codificaci\\xF3n como JavaScript o Java.\n\\xA1Sigue leyendo para descubrir todo lo que necesitas saber sobre Python y por qu\\xE9 deber\\xEDas aprenderlo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ajuste Del Rendimiento De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje De La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La inteligencia artificial ya no es una tecnolog\\xEDa del futuro, sino algo que ha comenzado a alterar varias industrias en la actualidad. Existen numerosos roles, m\\xE1s all\\xE1 de los ingenieros de aprendizaje autom\\xE1tico obvios en los que puede especializarse para ayudar a dar vida a los proyectos de IA. Hemos enumerado los principales lenguajes de programaci\\xF3n para IA a continuaci\\xF3n, para que pueda elegir el correcto y comenzar su propio proyecto de IA de inmediato.\nSi reci\\xE9n est\\xE1 comenzando con la codificaci\\xF3n o planea sumergirse m\\xE1s profundamente en el futuro, este art\\xEDculo le dar\\xE1 una idea de los diferentes lenguajes de programaci\\xF3n disponibles. Cada uno de estos lenguajes tiene ciertas caracter\\xEDsticas que los hacen especialmente \\xFAtiles a la hora de crear aplicaciones de inteligencia artificial. Sigue leyendo para obtener m\\xE1s informaci\\xF3n sobre estos \\xFAtiles lenguajes de programaci\\xF3n y cu\\xE1l se adapta mejor a tus necesidades. Sigue leyendo para saber m\\xE1s`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAwCdASoKAAoAAUAmJbACdLoB+AH4gBGvmIPd0DrFQBAA/tUVMaVKxDo1SikS7pTcoDKzgP3iMfK/GOrvpGww1FkX++/cjeWIhQd/7PZf6T/zAH+ips2bJng/5s2v+CHfEyn+Mv/56qG33+G8/1XYOmGxY/o5M/k2/yH74AAAAA==",
+      "createdAt": "Tue Mar 29 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "lenguaje-go-para-programacion-orientada-a-objetos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Lenguaje Go Para Programación Orientada a Objetos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, existe una gran demanda de desarrolladores de software que puedan crear programas y aplicaciones de \\xFAltima generaci\\xF3n. Gracias a la r\\xE1pida expansi\\xF3n de la tecnolog\\xEDa, hay muchos puestos de trabajo disponibles en este campo. Sin embargo, no cualquiera puede convertirse en programador; necesita tener habilidades espec\\xEDficas y saber c\\xF3mo conseguir el trabajo que desea.\nSi est\\xE1 interesado en convertirse en programador de software y explorar nuevas oportunidades profesionales, es importante que elija el lenguaje de programaci\\xF3n adecuado desde el principio. La demanda de programadores capacitados est\\xE1 creciendo r\\xE1pidamente, por lo que al elegir el lenguaje de programaci\\xF3n adecuado ahora, puede prepararse para el \\xE9xito en el futuro. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre la programaci\\xF3n Go y su potencial como lenguaje de programaci\\xF3n orientado a objetos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAYr7vtKwKgJ+AD+/dMt2lwUULDREX1J+IgQp0ozpvRc02wSfA8JxvQ12k5qhRNzMcFq/KPhvlZ7z4odbOX9/xoI0dCSFk8VlpRy7zhmecYccgVtaAAAAA==",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-errores-de-codificacion-mas-comunes-y-como-evitarlos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Errores De Codificación Más Comunes Y Cómo Evitarlos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No importa cu\\xE1ntos tutoriales o art\\xEDculos lea, la codificaci\\xF3n siempre es un desaf\\xEDo. Incluso los desarrolladores experimentados a veces cometen errores. Los programadores nuevos pueden sentir que cometen errores constantemente, pero todo es parte del proceso de aprendizaje. Los errores son inevitables y beneficiosos siempre y cuando aprendas de ellos. Cuanta m\\xE1s experiencia de codificaci\\xF3n tenga, con menos frecuencia se producir\\xE1n estos errores. Sin embargo, si reci\\xE9n est\\xE1 comenzando a codificar, es mejor conocer los errores m\\xE1s comunes antes de que se conviertan en un problema grave para su proyecto. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos errores de codificaci\\xF3n y c\\xF3mo evitarlos al codificar su pr\\xF3ximo proyecto de software.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

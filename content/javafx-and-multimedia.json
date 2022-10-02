@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is the Internet of Things?\"),mdx(\"p\",null,\"The Internet of Things (IoT) is a network of devices that are connected to each other via the internet. These devices may be sensors, actuators, or apparatuses that collect data and send it to a computer system. The computer system processes the data and sends instructions back to the devices. The devices can be remotely controlled by the computer. The term \\u201CInternet of Things\\u201D was coined by Kevin Ashton in 1999. He was the founder and executive editor of Wired Magazine's \\u201CInterrogator\\u2019s\\u201D section. Ashton is also the founder of the Auto-ID Center at the Massachusetts Institute of Technology (MIT).\"),mdx(\"p\",null,\"According to Gartner, the IoT is expected to be worth $3.9 trillion by the year 2020. This is because as we are moving towards an era of smart cities and smart homes, where our appliances and devices are connected to the internet and controlled by computer systems. This enables us to remotely control these appliances and devices, and also collect data from them.\"),mdx(\"h2\",null,\"Java and the Internet of Things\"),mdx(\"p\",null,\"Java is one of the most powerful and popular programming languages in the world. In recent years, Java has gained popularity in the field of embedded devices, thanks to the introduction of Java 8 and its support for the Internet of Things. Java has been a popular choice for enterprise computing for over two decades. The language and its ecosystem provide a robust and scalable platform for software development, as well as implementation on various platforms such as desktop/laptop computers, mobile devices, virtual machines, and cloud environments. With the introduction of Java 8, there has been renewed interest in Java from the developer community. This is owing to the wide range of features that were introduced in this version of the language. Some of these features are lambda expressions, streams, and enhanced support for concurrent programming. These features make it easier for developers to write code that is concise and low on bugs. They can also be easily implemented on various platforms such as embedded devices running Linux. Java has been used to develop embedded systems since its early days. But, with the advent of Java 8 and its support for IoT devices, Java has gained a new significance.\"),mdx(\"h2\",null,\"JavaFX and the Internet of Things\"),mdx(\"p\",null,\"JavaFX is a platform-agnostic graphical user interface (GUI) framework that is part of the Java Standard Edition (Java SE). It was first introduced in Java SE 9 and has continued to be a part of Java SE 10. The JavaFX framework is primarily used for developing desktop applications, web applications, and mobile applications. But, with the growing popularity of the Internet of Things, there has been renewed interest in using JavaFX for embedded devices. This is because the JavaFX framework is hardware-agnostic, and can easily run on embedded hardware without requiring any changes. It can also be used for communicating with IoT devices via gateways, and for rendering data onto visualizations.\"),mdx(\"p\",null,\"JavaFX, as a rich client-side application framework, enables building Graphical User Interfaces (GUIs) that are scalable and can be deployed across various platforms. It has a built-in support for web browsers and mobile devices. This makes it a perfect choice for developing IoT applications. JavaFX has a wide range of visual controls that can be used to develop applications. It also has support for multimedia such as audio and video.\"),mdx(\"h2\",null,\"Leveraging JavaFX for the IoT\"),mdx(\"p\",null,\"JavaFX is a great choice for developing IoT applications. This is because it is a cross-platform framework that can easily be used to write applications for IoT devices running Linux. JavaFX applications can run on any hardware, irrespective of its type or operating system. This makes it a perfect choice for embedded devices that are used in IoT applications. With the increasing popularity of IoT devices, developers now have an option to use JavaFX for developing user interfaces (UI) for their applications. This enables them to create rich and engaging applications that are scalable and can be deployed across various hardware. Also, by using JavaFX, developers can leverage the benefits of the rich features and ecosystem offered by the language to develop their applications. This makes the development process easier, faster, and less error-prone.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"The Internet of Things is a network of interconnected devices that can communicate and exchange data with each other. These devices can be anything from sensors, actuators, or appliances that collect data and send it to a computer system. The computer system processes the data and sends instructions back to the devices.\"),mdx(\"p\",null,`Java has been a popular choice for enterprise computing for over two decades. It has gained popularity in the field of embedded devices owing to the introduction of Java 8 and its support for the Internet of Things. Java has been used to develop embedded systems since its early days but, with the advent of Java 8 and its support for IoT devices, Java has gained a new significance.\nJavaFX is a cross-platform framework that can easily be used to write applications for IoT devices running Linux. With the increasing popularity of IoT devices, developers now have an option to use JavaFX for developing user interfaces for their applications.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-javaserver-faces-application",
+      "locale": "en",
+      "title": "Building a Javaserver Faces Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJbACdLoB+AARC5llxEIhYwAA/uhnVurOlaQ/z3wtKM/gWLP6TQ2cgSPKxu80JSwmR+kVQw5f0WKh0wP/5g3ePBo69avNyn+RiRPJ9bk7Y56b3f/3n2l71O8d+/xDWCP/as5/pW/+SpCwmQ+9prhAAAA=",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "exception-handling-in-java",
+      "locale": "en",
+      "title": "Exception Handling in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-code-snippets-effectively",
+      "locale": "en",
+      "title": "How to Use Code Snippets Effectively",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
+      "createdAt": "Thu Jun 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-habits-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Habits for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

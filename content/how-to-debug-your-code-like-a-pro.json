@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Kano Analysis\"),mdx(\"p\",null,`This is a great way to understand what\\u2019s broken in your code. It also helps you to determine which things are important to fix and which ones aren\\u2019t as urgent.\nThis is a 5-stage model of product satisfaction. It was developed by Professor Noriaki Kano as a way to organize customer expectations of what a product will do for them.`),mdx(\"p\",null,\"Stage 1 - Basic requirements - These are the basic features that need to be implemented in order for the product to be considered useful. For example, a calculator needs to perform calculations, an alarm needs to sound, a door needs to keep the weather out, a computer needs to store and access data.\"),mdx(\"p\",null,\"Stage 2 - Delighters - Delighters are additional features that surpass customer expectations and make the product more useful. A calculator that can store all the equations you\\u2019ve used in a session is a delighter. An alarm that can be snoozed and reminds you of a meeting is a delighter. A door that can be opened remotely is a delighter. A computer that can sync between multiple devices and has a built-in spell checker is a delighter.\"),mdx(\"p\",null,\"Stage 3 - Necessities - These are features that help solve a specific problem. For example, a calculator that can save past calculations, a calculator with a history feature, is a necessity. An alarm that can be set to go off at a specific time is a necessity. A door that can be locked and unlocked remotely is a necessity. A computer that can run multiple programs at once is a necessity.\"),mdx(\"p\",null,\"Stage 4 - Wants - These are features that are nice to have but aren\\u2019t essential. For example, an alarm that can play music, a calculator that can perform advanced functions, a door that can change colors according to the season, a computer that can predict the weather.\"),mdx(\"p\",null,\"Stage 5 - Frustration - A feature that is missing, broken, or doesn\\u2019t work as expected.\"),mdx(\"h2\",null,\"Read The Logs\"),mdx(\"p\",null,\"Debugging is the process of finding and resolving issues in your code. However, before you can fix it, you must know what\\u2019s broken and why. This is where reading the logs comes in.\"),mdx(\"p\",null,`When errors occur, your code generates logs using console.log() or another logging method. These are useful because they tell you what has gone wrong. The logs also include information on how to fix it.\nThe conventional way to retrieve logs is to open a browser and view the browser console. But there are multiple ways to do this. You can use console logging software like Tailor or Logging You can also use an app on your phone or computer.`),mdx(\"h2\",null,\"Divide And Conquer\"),mdx(\"p\",null,`This is a powerful method of problem-solving that can also be used to debug your code.\nIn debugging, you need to break your code into small, isolated tasks that can easily be tested. Once you have implemented a few smaller segments of code, you can test them one at a time to see how they work together and if they are complete.\nOnce you\\u2019ve confirmed that these segments work, you can link them together to form the full code. This is an effective strategy for debugging your code because it keeps you from getting overwhelmed and stressed.`),mdx(\"h2\",null,\"Black Box Testing\"),mdx(\"p\",null,\"When debugging your code, you must take into account all aspects of your code \\u2014 inputs, processing, and outputs. You must test to ensure that all of these are functioning correctly.\"),mdx(\"p\",null,\"Inputs are any information that your code is receiving from an external source. For example, you can input a value into your code to see if it is accurate. You can also input values that make sense but are outside the expected range to see if your code will handle those correctly.\"),mdx(\"p\",null,\"Processing is the way your code takes this input and uses it to produce an output. You can test your processing by providing inputs that make sense and valid ones to see if they are being processed correctly.\"),mdx(\"p\",null,\"Outputs are the final state of your code once it has processed the inputs. Again, you can test the outputs by providing inputs that make sense and valid ones to see if they are being processed correctly.\"),mdx(\"h2\",null,\"Bottom-Up Debugging\"),mdx(\"p\",null,\"This is a great strategy for debugging your code. You can also use it for testing your code to ensure that it\\u2019s working correctly.\"),mdx(\"p\",null,\"Debugging and testing your code from the bottom up means starting from the most basic components of your code and building up from there. This is the opposite of top-down debugging, which starts from the top of the code and works down to the basic components.\"),mdx(\"p\",null,\"This is a particularly useful strategy for debugging complex code. It gives you a better understanding of how each section of your code works and how it affects the rest of the code.\"),mdx(\"p\",null,\"This debugging strategy is also helpful for testing your code, as it gives you a better understanding of how your code works and what it is supposed to do.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Debugging your code can be a frustrating and challenging process \\u2014 especially if you\\u2019re not sure how to get started. To debug your code like a pro, it\\u2019s important to know what to look for and what to do when you encounter issues.\"),mdx(\"p\",null,\"Debugging is the process of identifying and resolving issues in your code. To debug your code, you must first break your code into smaller segments, test them, and then link them together to form the full code.\"),mdx(\"p\",null,\"Knowing what to look for and how to identify issues in your code is the first step to debugging. Once you know what\\u2019s broken, you can implement strategies and techniques to fix it.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-programming",
+      "locale": "en",
+      "title": "Go Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYsZvq/odm/E4AA/vwNux3JEbTeEOJZ9i1DRvY8VNcrRGqumjKvbRM+LF/M3x/i/8HnLeVgh+lAiHAJXDyY2j445+01HQTD5AnwU9XT/BlQ6Wrz0lkO6i2q4/Rsvkukqcw9f3f/gH8neJ4k24y9CcQk+ha7Y0q9AeAAAA==",
+      "createdAt": "Thu Jul 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "creating-a-javafx-user-interface",
+      "locale": "en",
+      "title": "Creating a Javafx User Interface",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Almost every application needs a user interface. Applications with no user interface appear to be nothing more than programs running in the background on your computer.\nIt\\u2019s impossible to imagine any application that isn\\u2019t accessible through some sort of graphical user interface. JavaFX provides ways to build and implement interfaces that are engaging, dynamic, and responsive.\nEven though JavaFX is a very powerful library, it doesn\\u2019t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls \\u2013 there were a few controls which didn\\u2019t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).\nIf you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwg5rQEAAP71+b2isyLTaXAYLXKLh7hgPvnF/Itv+Wbydcqf0Sv5do0L7+FLPB/50NQX/m0+/Jf0Zjqi45Z239normqQ+n0AAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-tomorrow",
+      "locale": "en",
+      "title": "Python - The Language of Tomorrow",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-hibernate-application",
+      "locale": "en",
+      "title": "Building a Hibernate Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

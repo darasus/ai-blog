@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Why Go?\"),mdx(\"p\",null,`For starters, it\\u2019s a compiled language, which is great for large-scale systems. It\\u2019s also portable, which is great for distributed systems. And it\\u2019s supported on all major operating systems, which is great for remote system administration.\nThere are lots of other great reasons for choosing Go for system administration. Like the fact that it has a flexible type system that makes it easier to write and maintain code. Or the fact that it has great support for concurrency, which makes it a natural choice for multi-core machines.\nAnd let\\u2019s not forget that Go is a relatively new language (it was released in 2009), which means it can be expected to evolve and mature over the next few years.`),mdx(\"h2\",null,\"Go Is Incredibly Easy To Learn\"),mdx(\"p\",null,`Given the diversity of programming languages out there, it\\u2019s hard to find one that\\u2019s not only suitable for your specific tasks, but also easy enough to learn. Most of the time, it\\u2019s not the difficulty of the language that makes it hard to learn\\u2014it\\u2019s the barrier to entry imposed by the vast range of tutorials, books, and other materials.\nIn the case of Go, the barrier to entry is low enough that you can often find experienced system administrators who learned the language on their own. This is thanks to the fact that Go\\u2019s syntax is simple and easy to understand, and most online tutorials use real-world examples that you can relate to.`),mdx(\"h2\",null,\"Go Is Blazingly Fast\"),mdx(\"p\",null,`While many programming languages encourage developers to write clean code, Go actually forces you to write efficient code. The language\\u2019s strict type system is designed to make it impossible to write certain kinds of code, like type conversions that consume unnecessary CPU cycles.\nThis forces you to think about your code in a different way, which can be frustrating at first, but pays off in the long run. Go\\u2019s strict type system allows you to write code that\\u2019s faster, more reliable, and easier to maintain.\nThe fact that Go\\u2019s compiler performs static analysis means it can catch errors that other languages can\\u2019t. This makes it easier to maintain code as it grows\\u2014you don\\u2019t have to worry as much about hidden bugs or other issues.`),mdx(\"h2\",null,\"Go Has Great Support For Networking\"),mdx(\"p\",null,`If you want to create distributed systems, or even just maintain remote servers, you need a language that\\u2019s flexible enough to deal with different types of networks. Like most modern languages, Go has a built-in network package for working with TCP-based networks. But it also has support for other network types, including Unix sockets, memory-based networks, and more.\nThis is helpful not just for distributed systems, but for any application that needs to communicate with remote machines, or talk to multiple processes that might be running locally.\nYou can also use Go to create APIs, which is helpful for system administration tasks that involve managing third-party integrations.`),mdx(\"h2\",null,\"Go Has Great Support For Testing\"),mdx(\"p\",null,`System administrators don\\u2019t just write code; they also write documentation, create config files, and automate tasks\\u2014all of which is best done with unit tests.\nGo has built-in support for unit testing thanks to the go test command, which runs a single test and fails if it fails. With this, you can be sure that changes to your code don\\u2019t break existing functionality.\nWith the help of Go\\u2019s built-in testing packages, you can also test your code while it\\u2019s running. This is useful not just for testing functionality, but also for finding bugs or other issues that only appear in production.\nThis is important because it allows you to focus on your code\\u2019s functionality, rather than its side effects. Whereas if you\\u2019re manually testing your code, you have to consider what it does to the rest of the system.`),mdx(\"h2\",null,\"Go\\u2019s Importance In System Administration\"),mdx(\"p\",null,`System administrators do a lot of things, but one of the most important is keeping track of their servers. This means monitoring things like memory, CPU usage, disk space, and network bandwidth. Fortunately, Go has support for a wide range of metrics and monitoring systems, including third-party services like Datadog and New Relic.\nThis is especially important when it comes to distributed systems. Distributed metrics give you insight into how your system is behaving, and help you understand and troubleshoot issues before they affect your users.\nWith distributed metrics, you can track the performance of every server within a distributed system, using a single dashboard. This allows you to spot bottlenecks, latency issues, and other problems before they affect your end users.`),mdx(\"h2\",null,\"Summing Up\"),mdx(\"p\",null,`System administration is a diverse profession that requires a diverse skill set. It is not just about installing and configuring software, but also about deploying and securing networks, managing databases, and even optimizing server performance.\nThis is why choosing the right programming language is important\\u2014it can make or break a system administrator\\u2019s career.\nGo is an excellent choice for system administrators. It has a flexible type system, is blazingly fast, and has great support for testing and distributed metrics. You can also use it to create distributed systems, and it\\u2019s supported on all major operating systems.\nThis is why we recommend that all system administrators learn Go. It\\u2019s an excellent language for any role, and especially system administration.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwAgCdASoKAAoAAUAmJbACdAE51lgqgWMkAAD5f/MFUcfnHXYRQiYbBID/kxBpNnzpd/DF564O6rAZ8Bj1SQ4uIGpn3+Qlf+VkOVZeRSW0nF1x1xaKCHKtYIKhIdSbodtws8zjVXC81TmvPM2os9P63Ft1qhk+f/2cbr7wom0k6AAA",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-programs",
+      "locale": "en",
+      "title": "The Top Software Engineering Programs",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-mobile-development",
+      "locale": "en",
+      "title": "Python - The Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-a-software-engineering-career",
+      "locale": "en",
+      "title": "The Benefits of a Software Engineering Career",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJYgCdAEO/kOOAAD++jwC6sVnBPT6WwvL8iIUI2dl6DcrAvKtH4SZXG/BOc1hWPT8NuU2tHb2WQap5/XKFogRX6b6jofXzt3GMfH69j401+cgoEkkAAAA",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-web",
+      "locale": "en",
+      "title": "Python - The Language of the Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-future",
+      "locale": "en",
+      "title": "Python - The Language of the Future",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

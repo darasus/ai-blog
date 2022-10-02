@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Read and understand the basics before you dive in.\"),mdx(\"p\",null,`Before you even touch a keyboard, you need to make sure you understand the basics of coding. What is a variable? How do you use comments? What\\u2019s a Boolean? You\\u2019ll also need to understand the principles of logic gates and Boolean logic gates if you want to understand how computers work.\nThe good news is that you don\\u2019t need to know everything about coding before you even begin. You can start with a simple application like a calculator that asks you to type in mathematical equations like 2+3 to find out the answer of 5.\nYou can also start with a program that allows you to create simple animations and graphics. These types of programs are excellent for beginners as they don\\u2019t require any knowledge of complex coding languages. Once you feel more confident and comfortable with the basics, you can move on to more heavy duty applications that require more advanced coding skills.`),mdx(\"h2\",null,\"Use a code debugger to fix errors.\"),mdx(\"p\",null,`Every programmer makes mistakes, and if you\\u2019re just getting started you\\u2019re bound to make a few. But don\\u2019t worry, it\\u2019s completely normal.\nThe best way to find and fix errors in your code is to use a debugger. A debugger is a program that helps you work out where an error has occurred by allowing you to \\u201Cpause\\u201D and \\u201Crewind\\u201D your code so you can see what it\\u2019s doing and where it\\u2019s going wrong.\nYou should be able to find debuggers for any programming language you\\u2019re using online. If you\\u2019re having difficulties, it\\u2019s a great idea to ask other coders on online forums for advice. They\\u2019ll likely be happy to help.`),mdx(\"h2\",null,\"Don\\u2019t be afraid to use comments when necessary.\"),mdx(\"p\",null,`Humans are much better at reading plain English, than trying to decipher someone\\u2019s code. This is the reason why you should always comment your code. Commenting your code makes it much more readable and easy to follow, even for other coders.\nYou should always comment the purpose of your code and what it does, as well as why you\\u2019ve done it a certain way. This shows that you\\u2019ve thought about your code and what it does, and will make it much easier for other people to use your code and update it at a later date.\nYou should also comment if you\\u2019re using a complex piece of code to save yourself from having to re-write it in the future if you need to, or if you\\u2019re sharing your code with other people.`),mdx(\"h2\",null,\"Try utilising conditionals when making decisions.\"),mdx(\"p\",null,`This is a commonly used programming technique that allows you to make decisions based on certain values.\nFor example, if you\\u2019re making a game, you might want to use a conditional to check if the player has three lives left so they get the option to continue playing the game.\nIf you\\u2019re building a website, you might want to use a conditional to see if a visitor is using an Apple device or a PC device so that you know which button to show them.\nConditionals should be used in pretty much every application you create, as they are an extremely efficient and useful way of programming.\nMake sure you understand the difference between if-then statements and switch statements. If-then statements essentially check one variable and switch statements check for multiple variables.`),mdx(\"h2\",null,\"Use for-loops when working with arrays or collections.\"),mdx(\"p\",null,`An array is essentially a list of values that you store under one variable name. For example, you could have an array that stores your favorite colours. You could have an array with the colours red, blue and green under the variable name \\u201CColours.\\u201D\nYou can then access and manipulate these values as if they were stored under different variables, which they effectively are.\nYou should use for-loops when you\\u2019re working with arrays or collections because they are much easier and more efficient than if-then-else statements.\nFor example, if you\\u2019re trying to find out the highest number in a collection of numbers by adding them up, with a for-loop you can simply type in the name of the array plus the word \\u201Cmax.\\u201D`),mdx(\"h2\",null,\"Be careful when using switch cases.\"),mdx(\"p\",null,`Switch cases are perhaps one of the most commonly used programming techniques. You can use them to compare values or perform actions based on a value.\nFor example, if you\\u2019re building a game and want to figure out how many points a player has, you can use a switch case to compare the number of points they have against a set number to find out how many points the player has.`),mdx(\"p\",null,`Switch cases are extremely useful and are one of the most commonly used programming techniques. However, it\\u2019s important to remember that you should only use them when a conditional isn\\u2019t necessary.\nSwitch cases are good for comparing values or performing actions based on a value, but they aren\\u2019t good when you want to check if a value is true or false. You should use if-then statements when you want to check if something is true or false.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Coding is a skill that's useful for many careers, and there are many ways to learn. While each person is different, there are a few tips that can help beginners get started. Once you understand these principles your code will become more readable and logical, and your programs will run more efficiently.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-get-started-with-coding",
+      "locale": "en",
+      "title": "How to Get Started with Coding",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-faster",
+      "locale": "en",
+      "title": "How to Code Faster",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "testing-java-applications",
+      "locale": "en",
+      "title": "Testing Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "setting-up-your-java-development-environment",
+      "locale": "en",
+      "title": "Setting up Your Java Development Environment",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYsZvq/odm/E4AA/vwNux3JEbTeEOJZ9i1DRvY8VNcrRGqumjKvbRM+LF/M3x/i/8HnLeVgh+lAiHAJXDyY2j445+01HQTD5AnwU9XT/BlQ6Wrz0lkO6i2q4/Rsvkukqcw9f3f/gH8neJ4k24y9CcQk+ha7Y0q9AeAAAA==",
+      "createdAt": "Thu Jul 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

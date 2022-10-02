@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"JDK (Kit de desarrollo de Java)\"),mdx(\"p\",null,'El JDK es la implementaci\\xF3n oficial del lenguaje de programaci\\xF3n Java. La abreviatura \"JDK\" significa Java Development Kit. Es un kit de desarrollo de software que contiene todo lo necesario para ejecutar programas Java. El JDK contiene la JVM (Java Virtual Machine), las bibliotecas principales de Java y las herramientas para escribir, ejecutar y depurar su c\\xF3digo. Dependiendo del sistema operativo en el que est\\xE9, normalmente encontrar\\xE1 el JDK ya instalado. Por ejemplo, si est\\xE1 en una Mac con macOS, haga clic en \"App Store\" y busque \"Java\". Haga clic en \"Obtener\" para el JDK y siga los pasos para instalarlo. Si est\\xE1 en Windows, puede obtener el JDK del sitio web de Oracle.'),mdx(\"h2\",null,\"java.idioma\"),mdx(\"p\",null,\"El paquete java.lang contiene tipos b\\xE1sicos y clases de soporte para el lenguaje Java. Contiene la clase java.lang.Object, que es la ra\\xEDz de la jerarqu\\xEDa de herencia para todos los objetos en el lenguaje de programaci\\xF3n Java. Algunas de las clases importantes en este paquete son String, Integer y Boolean. Tambi\\xE9n contiene la clase java.lang.System, que proporciona m\\xE9todos est\\xE1ticos para controlar el funcionamiento de la m\\xE1quina virtual Java.\"),mdx(\"h2\",null,\"java.io\"),mdx(\"p\",null,\"El paquete java.io proporciona soporte para entrada y salida basadas en secuencias. Contiene clases para leer y escribir en archivos binarios y para convertir entre diferentes codificaciones de caracteres. Tambi\\xE9n contiene clases para trabajar con sockets de red y la capacidad de leer y escribir en sockets sin formato.\"),mdx(\"h2\",null,\"java.util\"),mdx(\"p\",null,\"El paquete java.util contiene estructuras de datos y algoritmos de uso com\\xFAn y brinda soporte para calendarios y fechas. El paquete tambi\\xE9n contiene las clases Pattern y Matcher para encontrar y extraer subcadenas espec\\xEDficas del texto, y las clases Stack y Queue para implementar algoritmos concurrentes b\\xE1sicos.\"),mdx(\"h2\",null,\"java.matem\\xE1ticas\"),mdx(\"p\",null,\"El paquete java.math contiene clases para realizar operaciones num\\xE9ricas b\\xE1sicas como suma, resta, multiplicaci\\xF3n, divisi\\xF3n, redondeo y detecci\\xF3n de errores.\"),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`El lenguaje de programaci\\xF3n Java es un lenguaje vers\\xE1til y poderoso que se utiliza para ejecutarse en una amplia gama de sistemas y plataformas. Parte del poder de Java proviene del hecho de que es un lenguaje de alto nivel que puede ejecutarse en casi cualquier hardware.\nEsto significa que puede escribir c\\xF3digo una vez y ejecutarlo casi en cualquier lugar. Tambi\\xE9n significa que debe tener cuidado con la forma en que organiza su c\\xF3digo para que pueda reutilizarse.\nAqu\\xED es donde entran los paquetes de Java.\nAl agrupar clases y subpaquetes relacionados en una sola definici\\xF3n y espacio de nombres, puede hacer que su c\\xF3digo sea m\\xE1s f\\xE1cil de entender y reutilizar. Tambi\\xE9n puede evitar conflictos de nombres con otras bibliotecas o programas.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-computacion-paralela",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Computación Paralela",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Si ha le\\xEDdo sobre el mundo de la computaci\\xF3n paralela, sabr\\xE1 que es un campo que est\\xE1 creciendo r\\xE1pidamente en importancia. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente. Esta capacidad de ejecutar m\\xFAltiples procesos simult\\xE1neamente conduce a resultados m\\xE1s r\\xE1pidos y eficientes. Las aplicaciones como la inteligencia artificial, el reconocimiento de im\\xE1genes y el procesamiento del lenguaje natural son campos que pueden beneficiarse enormemente de las t\\xE9cnicas de computaci\\xF3n paralela. Debido a esta demanda de t\\xE9cnicas de computaci\\xF3n paralela, existen muchos lenguajes de programaci\\xF3n disponibles espec\\xEDficamente para este prop\\xF3sito. El lenguaje Go es uno de esos ejemplos. En este art\\xEDculo, explicaremos qu\\xE9 es Go y sus beneficios para la computaci\\xF3n paralela.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJYwCdAEPChpfyVYAAP6t+3/8PPzEsJ015Z9eXxnwnKMXzv78iZ3fXMwFDqfAEQcpJA8dUc/khL/AudC/65gS4RifvMI8n/xYdlgV3qp68FcRMBPvGl+L4fma80n8ITK17rogwWZfP2FgAAA=",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-revistas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Revistas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software deben mantenerse constantemente actualizados con nuevas investigaciones, tendencias y t\\xE9cnicas en su campo. La forma m\\xE1s com\\xFAn para que los ingenieros de software hagan esto es leyendo art\\xEDculos de investigaci\\xF3n publicados en revistas. Estas revistas se encuentran casi exclusivamente en l\\xEDnea. Muchos de ellos est\\xE1n disponibles de forma gratuita, pero algunos est\\xE1n detr\\xE1s de muros de pago para los no suscriptores. Afortunadamente, no necesita suscribirse a todas y cada una de estas revistas si es ingeniero de software, solo las que publican art\\xEDculos relacionados con sus intereses espec\\xEDficos y objetivos profesionales como ingeniero de software.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre las principales revistas de ingenier\\xEDa de software para que pueda elegir cu\\xE1les lo ayudar\\xE1n a sobresalir como ingeniero de software!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYsZvq/odm/E4AA/vwNux3JEbTeEOJZ9i1DRvY8VNcrRGqumjKvbRM+LF/M3x/i/8HnLeVgh+lAiHAJXDyY2j445+01HQTD5AnwU9XT/BlQ6Wrz0lkO6i2q4/Rsvkukqcw9f3f/gH8neJ4k24y9CcQk+ha7Y0q9AeAAAA==",
+      "createdAt": "Thu Jul 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-una-introduccion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Una Introducción",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando ingresar al mundo de la codificaci\\xF3n, o tal vez simplemente tiene curiosidad acerca de los diferentes tipos de lenguajes de programaci\\xF3n que existen? Cualquiera que sea su raz\\xF3n para investigar la codificaci\\xF3n, Python es un excelente lugar para comenzar a aprender sobre programaci\\xF3n de computadoras y crear sus propios programas.\nLa codificaci\\xF3n es a menudo una habilidad aparentemente inaccesible, reservada para aquellos con una habilidad especial para las matem\\xE1ticas o las ciencias. Sin embargo, aprender a codificar no es tan dif\\xEDcil como podr\\xEDa parecer inicialmente. De hecho, incluso si no tiene experiencia en los campos STEM (ciencia, tecnolog\\xEDa, ingenier\\xEDa y matem\\xE1ticas), a\\xFAn puede dominar los conceptos b\\xE1sicos de la codificaci\\xF3n. La clave es encontrar los recursos adecuados y un proceso de aprendizaje paso a paso que no se sienta como una tarea onerosa.\nSi est\\xE1 listo para comenzar a explorar el maravilloso mundo de la codificaci\\xF3n de Python, siga leyendo para obtener m\\xE1s informaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
+      "createdAt": "Sat Jan 23 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aplicaciones-web-con-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Web Con Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que sea un desarrollador nuevo o tenga algo de experiencia, es muy probable que est\\xE9 trabajando con aplicaciones web m\\xE1s temprano que tarde. De hecho, la demanda de este tipo de aplicaciones est\\xE1 creciendo todo el tiempo, y los desarrolladores de Java que pueden crearlas tienen una gran demanda.\nTrabajar con un lenguaje de programaci\\xF3n como Java, que ha existido durante tanto tiempo y ha demostrado su poder de permanencia una y otra vez, es tanto una oportunidad como un desaf\\xEDo. Porque todos los dem\\xE1s programadores tambi\\xE9n han descubierto lo mismo sobre Java: que es estable y potente.\nEso no significa que no haya muchos marcos y bibliotecas para elegir: \\xA1hay opciones m\\xE1s que suficientes para elegir! Estas bibliotecas y marcos facilitan la creaci\\xF3n de sitios web con Java sin tener que preocuparse por el c\\xF3digo repetitivo o los detalles de la sintaxis. Entonces, echemos un vistazo a algunas de sus mejores opciones para crear aplicaciones web con Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-movil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo Móvil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con tantos lenguajes de programaci\\xF3n para elegir, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nCon tantos lenguajes de programaci\\xF3n disponibles, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nSi est\\xE1 desarrollando aplicaciones m\\xF3viles destinadas principalmente a tel\\xE9fonos y tabletas iPhone o Android, es posible que desee considerar el uso de Python como su idioma principal. En esta publicaci\\xF3n de blog, cubriremos por qu\\xE9 esta es una buena opci\\xF3n y por qu\\xE9 otras opciones pueden no ser ideales en ciertas situaciones.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-mineria-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Minería De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje extremadamente vers\\xE1til y sus aplicaciones van desde el desarrollo web hasta el aprendizaje autom\\xE1tico. Lo que hace que Python sea tan bueno es que es muy adaptable: puede usarlo para casi cualquier prop\\xF3sito. Echemos un vistazo a algunas de las razones por las que deber\\xEDa considerar usar Python para la miner\\xEDa de datos.\nCon el creciente volumen de datos en el mundo, encontrar ideas y descubrir nuevos conocimientos a partir de los datos se ha convertido en un desaf\\xEDo. Pero gracias a las tecnolog\\xEDas de punta como la Inteligencia Artificial, el Procesamiento del Lenguaje Natural y el Aprendizaje Autom\\xE1tico, este proceso se ha vuelto mucho m\\xE1s f\\xE1cil de manejar con Python como una de las principales herramientas utilizadas para tales prop\\xF3sitos. Con esta publicaci\\xF3n de blog, aprender\\xE1 por qu\\xE9 Python es el mejor lenguaje de programaci\\xF3n para tareas de miner\\xEDa de datos, c\\xF3mo puede comenzar con \\xE9l y ver algunos ejemplos de uso, as\\xED como respuestas a preguntas frecuentes sobre este tema.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
+      "createdAt": "Tue Mar 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aprenda-javascript-de-la-manera-correcta-10-pasos-para-dominar-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript De La Manera Correcta: 10 Pasos Para Dominar JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que Javascript es el lenguaje de programaci\\xF3n m\\xE1s popular del mundo? \\xBFSab\\xEDa tambi\\xE9n que es uno de los lenguajes de programaci\\xF3n m\\xE1s f\\xE1ciles de aprender? Eso significa que cada vez m\\xE1s personas adquieren esta habilidad a la velocidad del rayo. Tiene sentido, teniendo en cuenta la demanda de habilidades de codificaci\\xF3n en este momento. Y con tantos recursos introductorios disponibles, \\xBFpor qu\\xE9 no adquirir esta habilidad m\\xE1s temprano que tarde? Despu\\xE9s de todo, no hay mejor momento que el presente para llevar tu carrera a nuevas alturas.\nCon eso en mente, estamos aqu\\xED para ayudarlo a dominar este c\\xF3digo \\xFAtil. Entendemos que todos provienen de diferentes or\\xEDgenes, por lo que hemos dividido esta gu\\xEDa en secciones f\\xE1ciles de digerir. Si est\\xE1 listo para llevar sus habilidades de codificaci\\xF3n al siguiente nivel, siga leyendo para conocer nuestros consejos y trucos sobre c\\xF3mo puede aprender Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-de-red",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración De Red",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-big-data",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy vemos empresas de todo el mundo que luchan por adoptar tecnolog\\xEDa emergente y adaptarse a las condiciones cambiantes del mercado. Como resultado, muchas empresas se enfrentan a un per\\xEDodo de transformaci\\xF3n digital que las pondr\\xE1 en ventaja o las dejar\\xE1 obsoletas. En el mundo actual basado en datos, las empresas deben contar con la infraestructura tecnol\\xF3gica para recopilar, procesar, analizar y almacenar cantidades masivas de datos.\nPara seguir siendo competitivas, las organizaciones necesitan estrategias de desarrollo de software que puedan manejar big data de manera eficiente y mantener los costos bajos. Las organizaciones tambi\\xE9n deben tener la capacidad de implementar nuevas tecnolog\\xEDas r\\xE1pidamente e integrarlas en sus sistemas existentes. Este art\\xEDculo detalla la programaci\\xF3n de Go para ejemplos de big data y por qu\\xE9 deber\\xEDa considerarla para su pr\\xF3ximo proyecto.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

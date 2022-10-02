@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"JDK (Java Development Kit)\"),mdx(\"p\",null,\"The JDK is the official implementation of the Java programming language. The abbreviation \\u201CJDK\\u201D stands for Java Development Kit. It\\u2019s a software development kit that contains everything you need to run Java programs. The JDK contains the JVM (Java Virtual Machine), the core Java libraries and the tools to write, run and debug your code. Depending on the operating system you\\u2019re on, you\\u2019ll typically find the JDK installed already. For example, if you\\u2019re on a Mac running macOS, click \\u201CApp Store\\u201D and search for \\u201CJava\\u201D. Click \\u201CGet\\u201D for the JDK and follow the steps to install it. If you\\u2019re on Windows, you can get the JDK from Oracle\\u2019s website.\"),mdx(\"h2\",null,\"java.lang\"),mdx(\"p\",null,\"The java.lang package contains basic types and support classes for the Java language. It contains the java.lang.Object class, which is the root of the inheritance hierarchy for all objects in the Java programming language. Some of the important classes in this package are String, Integer, and Boolean. It also contains the java.lang.System class, which provides static methods for controlling the operation of the Java virtual machine.\"),mdx(\"h2\",null,\"java.io\"),mdx(\"p\",null,\"The java.io package provides support for stream-based input and output. It contains classes for reading and writing to binary files, and for converting between different character encodings. It also contains classes for working with network sockets, and the ability to read from and write to raw sockets.\"),mdx(\"h2\",null,\"java.util\"),mdx(\"p\",null,\"The java.util package contains commonly used data structures and algorithms, and provides support for calendars and dates. The package also contains the Pattern and Matcher classes for finding and extracting specified substrings from text, and the Stack and Queue classes for implementing basic concurrent algorithms.\"),mdx(\"h2\",null,\"java.math\"),mdx(\"p\",null,\"The java.math package contains classes for performing basic numeric operations such as addition, subtraction, multiplication, division, rounding, and error detection.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`The Java programming language is a versatile and powerful language that is used to run on a wide range of systems and platforms. Part of the power of Java comes from the fact that it is a high-level language that can run on almost any hardware.\nThis means that you can write code once and run it almost anywhere. It also means that you have to be careful about how you organize your code so it can be reused.\nThis is where Java packages come in.\nBy grouping related classes and sub-packages into a single definition and name space, you can make your code easier to understand and reuse. You can also avoid naming conflicts with other libraries or programs.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/working-with-files-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
+      "createdAt": "Thu Aug 11 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "working-with-files-in-java",
+      "locale": "en",
+      "title": "Working with Files in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working with files is something that entry-level programmers don\\u2019t get to do very often. It\\u2019s not the most exciting part of software development, but it\\u2019s an important one. The file system is the cornerstone of almost every program you use on your computer. Working with files in Java can seem a little counterintuitive at first. Once you understand what makes it different from other programming languages, it becomes much clearer.\nWorking with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new \"File\" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-database-programming",
+      "locale": "en",
+      "title": "Python - The Language for Database Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an immensely powerful programming language that offers a variety of uses. It can be used for almost any task, from small one-off projects to large frameworks for server-side development, web applications, and even mobile apps. One area in which Python excels is database programming. In this article, we explain why that\\u2019s the case and explore the different ways in which you can use Python for database programming.\nThis blog post is part of our ongoing \\u201CCoding in CV\\u201D series. These shorter articles cover individual technical skills you may want to include in your resume or CV as a programmer or software developer - or indeed as anything with a computer in it! We look at everything from Java to cryptography and beyond.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-administration",
+      "locale": "en",
+      "title": "Go Language for Database Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZACw7YtzuIjmz2muQAA/v4Qnnu8GR4r4o98GJKK/WQo32ziJigBLJaNfUvGDRozFPNx23JW6cndoWkC/tLLi+rX+QfrJeyqgp1pIjmNfZL8d32g+GDnvF4QJn/zbwehi/5/3dGRe7M/+CKvKXzz7GcAAA==",
+      "createdAt": "Wed Jan 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-image-processing",
+      "locale": "en",
+      "title": "Python - The Language for Image Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Computer vision and image processing are key to enabling machines to understand the world. For example, modern cars can detect pedestrians with cameras rather than other sensors because the camera can identify them as non-moving objects that are smaller than usual trees and have different reflectivity from typical road markings.\nThis article covers Python, an increasingly popular language for image processing tasks. It\\u2019s a dynamic language like Ruby, which makes it easier to read and write programs. Furthermore, Python includes several useful libraries for image processing such as OpenCV (Computer Vision) and PIL (Python Imaging Library). If you\\u2019re new to programming, check out our article on Why Python is a Great First Programming Language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "createdAt": "Sat Nov 21 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-habits-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Habits for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoKAAoAAUAmJZwC7AEfbk9QLAAA/v7IKuVQiUy5L6rraszYh52yQMGILgx/aO64pPWra/AA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-tools",
+      "locale": "en",
+      "title": "The Top Software Engineering Tools",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJaAC7AYtBzobhHUYXVjAAP7+mC6P4T+fYqTzewRcuXQzscq+OOz1C3jG3zVnXcbM8Kq7okMaqEwyWS7xv1h80d9YhMRenNv3jfXEgZPuCauxWLJ8/E9irMoj6EefC3P54AAA",
+      "createdAt": "Fri Apr 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-java",
+      "locale": "en",
+      "title": "Introduction to Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

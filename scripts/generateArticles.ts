@@ -11,21 +11,22 @@ import { Ora } from "ora";
 import { Locale, Post } from "../types";
 import { serializeMarkdown } from "../node-utils/serializeMarkdown";
 import { omit } from "ramda";
+import { performance } from "perf_hooks";
 
 const isEqual = require("lodash/isEqual");
 
 const ai = new Writesonic();
 const translateAPI = new Translate();
 
-export async function generateArticles(spinner: Ora) {
+export async function generateArticles() {
+  const start = performance.now();
   const titlesAndCategories = getArticleData();
 
-  for (const [i, { title, category }] of titlesAndCategories.entries()) {
-    spinner.prefixText = "✏️";
-    spinner.text = `Generating article titled(${i + 1}/${
-      titlesAndCategories.length
-    }): ${title}`;
+  console.log(
+    `✏️  Generating article ${titlesAndCategories.length} articles...`
+  );
 
+  for (const [i, { title, category }] of titlesAndCategories.entries()) {
     const slug: Record<Locale, string> = {
       en: slugify(title, { strict: true, lower: true }),
       es: slugify(await translateAPI.translate(title), {
@@ -108,12 +109,12 @@ export async function generateArticles(spinner: Ora) {
       }
     }
   }
-
-  spinner.stopAndPersist();
-  spinner.start();
-  spinner.prefixText = "✅";
-  spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
-  spinner.stopAndPersist();
+  const end = performance.now();
+  console.log(
+    `✅ Done generating ${titlesAndCategories.length} articles in ${
+      (start - end) / 1000
+    } seconds!`
+  );
 }
 
 async function generateAndWriteImage(title: string) {

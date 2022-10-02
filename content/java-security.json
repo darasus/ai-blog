@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Development Practices\"),mdx(\"p\",null,\"Developers must follow secure coding practices such as input validation, output encoding and boundary testing. Additionally, access control and authentication methods must be implemented at the application level to prevent unauthorized users from accessing the devices.\"),mdx(\"p\",null,\"Ongoing security testing and vulnerability scans are critical for identifying and addressing any issues that arise during development. Test and staging environments should have real-time monitoring and auditing to identify and address issues before production.\"),mdx(\"p\",null,\"Device manufacturers can also take advantage of open source components to reduce development costs and accelerate time to market. However, security should be a key part of the selection process and due diligence should be conducted to ensure that open source components are secure, legally acceptable, and compatible with other system components.\"),mdx(\"h2\",null,\"Device updating and patching\"),mdx(\"p\",null,\"Embedded devices may not be able to be updated, and in some cases, the manufacturer may no longer support the device. In these cases, communication with the vendor to determine the risks and the feasibility of patching is important. While major vendors will provide patches for critical issues, it may take time for the patches to be released.\"),mdx(\"p\",null,\"Devices with an internet connection should be able to download updates from the vendor\\u2019s servers. This allows manufacturers to regularly push updates to address newly discovered flaws or patch known vulnerabilities.\"),mdx(\"p\",null,\"The following list highlights some of the vulnerabilities that are commonly found in IoT devices:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Authentication / authorization Weaknesses : Lacking robust authentication and authorization mechanisms to control access to devices or data could allow an attacker to tamper with devices or access and steal sensitive data.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Code injection flaws : Compromised devices can be used as a launching point for attacks against other devices or data storage systems.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Data transmission eavesdropping : Weak encryption algorithms or poor implementation of TLS / HTTPS could allow an attacker to eavesdrop on network traffic and steal sensitive data.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Insecure cloud storage : IoT devices often store data in the cloud. Cloud providers should use strong security practices and regularly patch vulnerabilities. Cloud providers should also have a public and verifiable security posture.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Insecure software updates : Devices should regularly download software updates from the vendor\\u2019s servers to address newly discovered flaws or patch known vulnerabilities. If updates are not automatic or there is no way to download updates from a secure server, the device could remain unsecured and vulnerable to attack.\"))),mdx(\"h2\",null,\"Network isolation and segmentation\"),mdx(\"p\",null,\"Device manufacturers should segment networks and devices to prevent the spread of malicious code or hacker attacks from one device to another. The internet protocol (IP) address of IoT devices should not be in the same IP range as the server hosting the cloud service. Network segmentation can also help protect sensitive data by keeping IoT devices separated from other data systems.\"),mdx(\"h2\",null,\"User authentication and access control\"),mdx(\"p\",null,\"IoT devices often collect and store sensitive data such as health information and financial data. As a result, it\\u2019s critical that access to these devices be restricted to authorized users and that the data be properly encrypted and secured.\"),mdx(\"p\",null,\"Authentication mechanisms such as two-factor authentication (e.g. using a mobile application or a one-time password (OTP) sent via an email) can also be leveraged to provide additional security. Password policies can be used to limit password types, length, and reuse.\"),mdx(\"p\",null,\"Password managers can be used to store and manage passwords across various devices, thereby increasing the overall security posture of the system.\"),mdx(\"h2\",null,\"Data storage and data protection\"),mdx(\"p\",null,\"The data collected by IoT devices should be encrypted to protect against eavesdropping and tampering. Encryption should be deployed at the device level, not just at the network level. Data should be stored in a secure data center that is regularly audited by a third-party security auditor. The security posture of the data center should include physical security, network security, and operational security.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Security is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases, and other incidents caused by unsecured systems.\"),mdx(\"p\",null,\"A comprehensive security program should cover several key areas including development practices, device updating and patching, network isolation and segmentation, user authentication and access control, data storage and data protection, and other core security components.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "locale": "en",
+      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdAELZFMy9NAA/v4SfMLlX7MbISqYu6uZjOLo1P4iJVFp/YvULTB+RAk0vu+fRIXrA42XvrxPL+zmaL73XpLs4lpQIxyf/zccJ/9H+vkyIbRqqd+uS/AgrStbMkAAAA==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-embedded-programming",
+      "locale": "en",
+      "title": "Go Language for Embedded Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgMXN5D2aXoAA/v0gv8ReNXMb93cO5Q/ov5GW+7UomsDg6mSnJQvkaEun240Wqgz+5CmEmoM/q1u81sk/UMTGXZSeVY/Glg3jlie1VGogcLxCsY3jL3//dhp8z3wc//k5MszuVtPwxuDYhl4AAAA=",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "exception-handling-in-java",
+      "locale": "en",
+      "title": "Exception Handling in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-future",
+      "locale": "en",
+      "title": "Python - The Language of the Future",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEfhzEuWsgAAP78iej+mZU65vIG0J/8ef4J5aTYN1qvvWnP//X6IDmh0a7zmp4pFMvWI/gdcipT45r/1D347/GGIcv/4Z2onpxNio9608Rd95/lbY+3qlns8r3cHnqibLuv/zO5/8Tb/85EeXZ7/7/uOTLN//0xkRfyYjgAAAA=",
+      "createdAt": "Sat Feb 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tricks-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tricks for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
+      "createdAt": "Thu Jun 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYwCdAabPnQduO3bLwAA/uuQxuxDnCbRZF9wtDUx6DCvHbO2hH1Lysi1EuK3Lv6RGBjg/9+P2eZfp/wWAA8ck25ABrZSNLH9L4fPyLbrJMm9flyhV0dxEa+GEmjRZsTdlNMAAAA=",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "7-javascript-basics-every-typescript-developer-should-know",
+      "locale": "en",
+      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "setting-up-your-java-development-environment",
+      "locale": "en",
+      "title": "Setting up Your Java Development Environment",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

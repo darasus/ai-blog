@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Language selection process\"),mdx(\"p\",null,\"The first step when deciding which language to use is to understand what you\\u2019re trying to accomplish. What business problems do you want to solve with cloud applications? What are the requirements for your project? Which languages are best suited to solve your business problems?\"),mdx(\"p\",null,\"Armed with this information, you can create a short list of languages that you\\u2019ll then need to consider in more detail. You\\u2019ll want to take into account the characteristics and qualities of each language, as well as the feasibility of learning it and hiring developers to create applications.\"),mdx(\"h2\",null,\"What to look for in a cloud programming language\"),mdx(\"p\",null,\"When evaluating languages for use in the cloud, there are several factors to consider. Each plays an important role in helping you decide on the best cloud language for your project.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"TCO: Total cost of ownership\")),mdx(\"p\",null,\"This refers to the initial investment required to create the application as well as ongoing costs. These include the cost of development, training, maintenance, and support.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Scalability and reliability\")),mdx(\"p\",null,\"This refers to the ability of the language to handle sudden increases in demand for your application as well as issues with availability.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Speed and performance\")),mdx(\"p\",null,\"This refers to the speed at which your application runs. It also refers to the overall performance of the language.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Conclusion\")),mdx(\"p\",null,\"The choice of language for your cloud application must be carefully considered. While certain languages might be a better fit for certain types of applications, you should always choose the language that best solves your business problem.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZACw7YtzuIjmz2muQAA/v4Qnnu8GR4r4o98GJKK/WQo32ziJigBLJaNfUvGDRozFPNx23JW6cndoWkC/tLLi+rX+QfrJeyqgp1pIjmNfZL8d32g+GDnvF4QJn/zbwehi/5/3dGRe7M/+CKvKXzz7GcAAA==",
+      "createdAt": "Wed Jan 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-image-processing",
+      "locale": "en",
+      "title": "Python - The Language for Image Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Computer vision and image processing are key to enabling machines to understand the world. For example, modern cars can detect pedestrians with cameras rather than other sensors because the camera can identify them as non-moving objects that are smaller than usual trees and have different reflectivity from typical road markings.\nThis article covers Python, an increasingly popular language for image processing tasks. It\\u2019s a dynamic language like Ruby, which makes it easier to read and write programs. Furthermore, Python includes several useful libraries for image processing such as OpenCV (Computer Vision) and PIL (Python Imaging Library). If you\\u2019re new to programming, check out our article on Why Python is a Great First Programming Language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "typescript-a-beginners-guide-to-code-type-safety",
+      "locale": "en",
+      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "building-a-javaserver-faces-application",
+      "locale": "en",
+      "title": "Building a Javaserver Faces Application",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJZgCdAYtpySk36ff46AA/vyPj46HGbvwaP7QtR2LcE4Frf8fcTJyPfw6X+jCEH3xlzvj3N9w9OqLUEbOz8p+N1JUg617sYrRR56iSQTDzbxK5Bj+8By6P5JoV6pb9bxlI68gWf1H5n3CDvhQAA==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-coding",
+      "locale": "en",
+      "title": "How to Use Coding",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJagCdAEQD2Rd7IQAAP790mPps9hl3VCiK5WogAykPi06jEUy0T+Yw0ew4Fkz2mTdO8M3KpmUfnzMP4IimeRhY2ckCi/4h5/6WwK+gWLKosr892gAAA==",
+      "createdAt": "Thu Mar 31 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
+      "createdAt": "Tue Mar 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
+      "locale": "en",
+      "title": "Learn JavaScript the Right Way: 10 Steps to Mastering JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that Javascript is the most popular programming language in the world? Did you also know that it\\u2019s one of the easiest programming languages to learn? That means more and more people are picking up this skill at lightning speed. It makes sense, considering how in-demand coding skills are right now. And with so many introductory resources available, why not pick up this skill sooner rather than later? After all, there\\u2019s no time like the present to take your career to new heights.\nWith that in mind, we\\u2019re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we\\u2019ve broken this guide down into easy-to-digest sections. If you\\u2019re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-scraping",
+      "locale": "en",
+      "title": "Python - The Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Web scraping is the practice of extracting data from websites. In this blog, we\\u2019ll discuss why you should learn Python for web scraping, as well as provide examples, resources and suggestions for getting started. The world wide web has made it easier than ever to share information with one another. However, that same ease of access has also made it harder than ever to separate useful information from noise. Because of this, many developers have turned to web scraping in order to extract the information they need from websites without having to manually search or filter through everything individually. Luckily for you, Python is a perfect language for getting started with web scraping! This blog will cover why you should learn Python for web scraping and offer useful resources to get started learning it.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

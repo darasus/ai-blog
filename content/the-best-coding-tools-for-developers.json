@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Code Editors\"),mdx(\"p\",null,\"The first thing that every developer should know about is the importance of using a code editor. This is the tool that developers will use most frequently, and it\\u2019s important to have a strong understanding of the different options available.\"),mdx(\"p\",null,\"There are two basic types of code editors: text-based and GUI-based. Text editors are often simpler in design, but GUI editors tend to feature more customization tools for coding. Despite the differences between the types of code editors, the goal of each is the same: to help developers write and edit code more efficiently.\"),mdx(\"p\",null,\"When choosing a code editor, you should keep a few things in mind. First, you will want to make sure that your code editor of choice has syntax highlighting functionality. You should also look for integrations with other coding tools. For example, it\\u2019s important to select a code editor that supports the type of language that you write in most frequently.\"),mdx(\"h2\",null,\"Task Runners\"),mdx(\"p\",null,\"Task runners are basically automated workflows for developers. They help you to run different tasks by combining multiple tools and commands during the development process. For example, the task runner Gulp is designed to automate image optimization and CSS processing. This type of tool is especially useful for teams working on large projects.\"),mdx(\"p\",null,\"There are two common types of task runners: build tools and continuous integration tools. Build tools require developers to manually write code in order to set up processes. Continuous integration tools, on the other hand, are pre-programmed to run a specified set of tools automatically.\"),mdx(\"h2\",null,\"Version Control\"),mdx(\"p\",null,\"The next tool that every developer should know about is version control. This is a method of tracking and managing changes to code over time. More importantly, version control helps to prevent the loss of data by providing a system for rolling back changes to previous code versions.\"),mdx(\"p\",null,\"There are tons of different version control systems available. You will have to decide which one best fits your team\\u2019s needs. The most common version control systems are Git, Mercurial, and Subversion (SVN). The best way to choose one is to find out which version control system other developers in your field use most frequently.\"),mdx(\"p\",null,\"The key to success when using version control is to make sure that you know how to use it properly. This means following the best practices for version control. If you are new to version control, then you may want to consider taking a course on the subject as well.\"),mdx(\"h2\",null,\"Continuous Integration\"),mdx(\"p\",null,\"Continuous integration is a process whereby the developer team writes the code and tests it. Once the build is successful, they integrate the updated code with the previous version of the code. Continuous integration is an important part of agile software development and DevOps. CI tools can help you automate the process, managing and monitoring your code across all environments.\"),mdx(\"p\",null,\"There are tons of different CI tools available. You will have to decide which one best fits your team\\u2019s needs. The most common CI tools are Jenkins, Travis CI, and Codeship. The best way to choose one is to find out which CI tool other developers in your field use most frequently.\"),mdx(\"p\",null,\"The key to success when using CI is to make sure that you set it up properly. This means setting up the CI tools correctly and following the best practices for CI. If you are new to CI, then you may want to consider taking a course on the subject as well.\"),mdx(\"h2\",null,\"Code Review and Collaboration\"),mdx(\"p\",null,\"The next tool that every developer should know about is code review. Code review is when you and your team members read through each other\\u2019s code to check for errors and issues. This tool helps to prevent simple mistakes from slipping past.\"),mdx(\"p\",null,\"There are tons of different code review tools available. You will have to decide which one best fits your team\\u2019s needs. The most common code review tools are Github, PullReview, and CodeCritic. The best way to choose one is to find out which code review tool other developers in your field use most frequently.\"),mdx(\"p\",null,\"The key to success when using code review is to make sure that everyone follows the same rules. It\\u2019s also important to keep up with the reviews and make sure that they are completed on time. If you are new to code review, then you may want to consider taking a course on the subject as well.\"),mdx(\"h2\",null,\"Testing Tools\"),mdx(\"p\",null,\"The last tool that every developer should know about is testing tools. One of the fastest ways to lose efficiency is to write untested code. This means that you only write code that you know works, without having to run the finished product. This saves you a lot of time that would otherwise be spent running and debugging the code before it\\u2019s working.\"),mdx(\"p\",null,\"There are tons of different testing tools available. You will have to decide which one best fits your team\\u2019s needs. The most common testing tools are Jest, Selenium, and Pytest. The best way to choose one is to find out which testing tool other developers in your field use most frequently.\"),mdx(\"p\",null,\"The key to success when using testing tools is to make sure that everyone follows the same rules. It\\u2019s also important to keep up with the testing and make sure that it is completed on time. If you are new to testing, then you may want to consider taking a course on the subject as well.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Coding is a huge part of a developer\\u2019s job. It\\u2019s important to know the best tools to use to make the job easier and more efficient. The best tools are those that are easy to use and can help you to collaborate with your team. You can use these tools to track your progress on projects, manage your workflow, and keep everything organized.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-software-engineering-books.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoKAAoAAUAmJbACdGuAt/8WsjwLLfzezAD++ljJx4YFfq7ozi03eEZL23EP9QbSTjzCthIWZlpKP3eNUHDnc347Bw6qPj26aMWBazFiaDZNaoWzj4nf/my0/bYBb//DSV3+ElVHsLVcPqbSf2blz+DSXP8X//v95LgAAA==",
+      "createdAt": "Mon Apr 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-software-engineering-books",
+      "locale": "en",
+      "title": "The Best Software Engineering Books",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, software engineers are playing a much more significant role in the way businesses operate. Thanks to the growing importance of software and digital services, software engineers are no longer just coders with a desk in a back room somewhere. Instead, they\\u2019re now people who can influence entire company strategies and help shape the future of an organization. As such, software engineers need to have a wide range of technical skills and knowledge in order to succeed.\nSoftware engineering books are an excellent way to learn more about this fast-growing profession, as well as expand your own knowledge and skills. Here we take a look at some of the best software engineering books you can read to supplement your existing education from university or other sources. Even if you don\\u2019t think you need them right now, keep reading for some great information about these essential books for software engineers\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAreEru2AAP7zR9jGqPJGadLi9+v/tC82cNq9UFopDMSFDzK9Y+Efid49hRnu4PGnO2k2cc8Xc+0q6D+MFCcFuRmt0TXilwv/tQo3/TwE/8w3hGf/qYV4u5fub/+7J/6kAAAA",
+      "createdAt": "Tue Feb 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-system-administration",
+      "locale": "en",
+      "title": "Python - The Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-cloud-computing",
+      "locale": "en",
+      "title": "Go Language for Cloud Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoKAAoAAUAmJaQAApwKk8QAAP7+OJxlkdnD8wwBlQIou3D4I6gU+/xdRq/at/uJWv/65PniOuL7DYCFq0gn4BVt4vZVcAAA",
+      "createdAt": "Tue Aug 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-gui-programming",
+      "locale": "en",
+      "title": "Go Language for Gui Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-network-administration",
+      "locale": "en",
+      "title": "Go Language for Network Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-popular-coding-languages.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOhgl5ESmHT/xSQreAAP76We2k8WMXPadRnwbJVZRD+9jyJfUhyLWRN5vzT0NxIE9sh+cwn2Ctb4rbuH9OfL8eZecIQQNJLfeynisY2AF38BfIUnV7eHqv5/5/+sN/U6SFywAAAA==",
+      "createdAt": "Fri Dec 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-popular-coding-languages",
+      "locale": "en",
+      "title": "The Most Popular Coding Languages",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
+      "createdAt": "Sat Oct 02 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

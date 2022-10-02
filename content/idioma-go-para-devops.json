@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es Go?\"),mdx(\"p\",null,\"Go es un lenguaje de programaci\\xF3n de prop\\xF3sito general desarrollado por Google y fue lanzado como c\\xF3digo abierto en 2009. Go est\\xE1 dise\\xF1ado teniendo en cuenta la simplicidad y la concurrencia y es conocido por su poderoso sistema de tipos. Tambi\\xE9n es un lenguaje tipificado est\\xE1ticamente.\"),mdx(\"p\",null,\"Seg\\xFAn la encuesta de usuarios de Go en 2018, los principales casos de uso de Go son:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Servicios web y HTTP- Procesamiento y an\\xE1lisis de datos- DevOps y CI/CD- Microservicios- Infraestructura de red- Rob\\xF3tica y veh\\xEDculos aut\\xF3nomos- Aplicaciones sin servidor- Software del sistema\")),mdx(\"p\",null,\"Las reglas de simplicidad y concurrencia son las que hacen que Go sea tan popular entre los desarrolladores. Adem\\xE1s, algunos de los otros beneficios que vienen con el uso de Go son:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Es extremadamente r\\xE1pido ya que se compila en c\\xF3digo nativo. Esto significa que puede ejecutarse en una amplia gama de sistemas inform\\xE1ticos.\"),mdx(\"li\",{parentName:\"ul\"},\"Es f\\xE1cil leer y escribir c\\xF3digo en Go.\"),mdx(\"li\",{parentName:\"ul\"},\"Tiene un gran soporte de herramientas.\"),mdx(\"li\",{parentName:\"ul\"},\"Es un lenguaje fuertemente tipado.\"),mdx(\"li\",{parentName:\"ul\"},\"Tiene un gran soporte para sistemas multin\\xFAcleo.\"),mdx(\"li\",{parentName:\"ul\"},\"Es de c\\xF3digo abierto y tiene una gran comunidad.\"),mdx(\"li\",{parentName:\"ul\"},\"Es un gran idioma para comenzar tu carrera.\")),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 usar Go para DevOps?\"),mdx(\"p\",null,\"Si se pregunta por qu\\xE9 deber\\xEDa usar el lenguaje Go para DevOps, aqu\\xED hay 5 razones que le encantar\\xE1n:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Go es f\\xE1cil de aprender y usar.\"),mdx(\"li\",{parentName:\"ul\"},\"Go es un lenguaje de tipo seguro.\"),mdx(\"li\",{parentName:\"ul\"},\"Go es f\\xE1cil de depurar.\"),mdx(\"li\",{parentName:\"ul\"},\"Go tiene una gran concurrencia.\"),mdx(\"li\",{parentName:\"ul\"},\"Go tiene un gran manejo de errores.\"),mdx(\"li\",{parentName:\"ul\"},\"Go es f\\xE1cil de paralelizar y distribuir.\"),mdx(\"li\",{parentName:\"ul\"},\"Go tiene una sintaxis simple.\")),mdx(\"h2\",null,\"\\xBFC\\xF3mo implementar Go en su organizaci\\xF3n?\"),mdx(\"p\",null,\"Hay dos formas de implementar Go en su organizaci\\xF3n. Si est\\xE1s trabajando en una startup, puedes pedirle a tu equipo que aprenda este idioma. Si est\\xE1 trabajando con una empresa establecida, puede impulsar la adopci\\xF3n de Go dentro de su organizaci\\xF3n.\"),mdx(\"p\",null,\"Si formas parte de un equipo peque\\xF1o o de una startup, puedes comenzar con estos sencillos pasos:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Averig\\xFCe si existe una iniciativa de toda la empresa o una persona que est\\xE9 interesada en adoptar Go.\"),mdx(\"li\",{parentName:\"ul\"},\"Aprenda los conceptos b\\xE1sicos de Go e intente construir algo.\"),mdx(\"li\",{parentName:\"ul\"},\"Comience con algo peque\\xF1o, como crear un rastreador o un sitio web peque\\xF1o.\"),mdx(\"li\",{parentName:\"ul\"},\"Una vez que tenga la confianza suficiente, comience a contribuir a proyectos de c\\xF3digo abierto.\"),mdx(\"li\",{parentName:\"ul\"},\"Aprende sobre las mejores pr\\xE1cticas y ve al estilo arquitect\\xF3nico. Esto le ayudar\\xE1 a evitar errores comunes.\"),mdx(\"li\",{parentName:\"ul\"},\"Una vez que su equipo est\\xE9 seguro de Go, p\\xEDdale a su organizaci\\xF3n que lo adopte.\")),mdx(\"h2\",null,\"Ventajas de usar Go en DevOps\"),mdx(\"p\",null,\"Debe estar pregunt\\xE1ndose cu\\xE1les son los beneficios de adoptar Go. \\xA1Vamos a averiguar!\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Simplicidad: Si eres nuevo en este lenguaje, te encantar\\xE1 su sencillez. Es f\\xE1cil de leer, escribir y entender el c\\xF3digo. Esto lo convierte en una opci\\xF3n ideal para novatos y desarrolladores experimentados.\"),mdx(\"li\",{parentName:\"ul\"},\"Simultaneidad: esta es una de las razones m\\xE1s importantes para usar Go for DevOps. El lenguaje est\\xE1 dise\\xF1ado teniendo en cuenta la concurrencia. Esto significa que puede ejecutar varias tareas a la vez. Tambi\\xE9n le permite ejecutar el mismo programa en varias m\\xE1quinas.\"),mdx(\"li\",{parentName:\"ul\"},\"Robustez: Go es extremadamente robusto y escalable. Esto significa que puede ejecutarse en una amplia gama de sistemas inform\\xE1ticos, desde peque\\xF1os dispositivos hasta grandes grupos inform\\xE1ticos.\"),mdx(\"li\",{parentName:\"ul\"},\"Rendimiento: Go compila en c\\xF3digo de m\\xE1quina que se ejecuta tan r\\xE1pido como un programa escrito en C o C++.\"),mdx(\"li\",{parentName:\"ul\"},\"Facilidad de implementaci\\xF3n: Go est\\xE1 dise\\xF1ado para ser f\\xE1cil de implementar. Puede escribir c\\xF3digo, compilarlo y ejecutarlo todo en un solo paso. Esto hace que sea muy f\\xE1cil implementar su c\\xF3digo. No hay tiempos de ejecuci\\xF3n de lenguaje complicados para instalar.\"),mdx(\"li\",{parentName:\"ul\"},\"Bibliotecas est\\xE1ndar: Go viene con una biblioteca est\\xE1ndar que tiene todos los componentes b\\xE1sicos necesarios para crear aplicaciones. Esta biblioteca est\\xE1ndar es robusta y tiene todo lo que necesita.\"),mdx(\"li\",{parentName:\"ul\"},\"Tolerancia a fallas: Go tiene excelentes mecanismos de manejo de errores. Si hay un error en su programa, puede configurar un controlador para ese error y continuar con el programa.\"),mdx(\"li\",{parentName:\"ul\"},\"F\\xE1cil de escalar: el lenguaje est\\xE1 dise\\xF1ado para que sea f\\xE1cil de escalar. Puede ejecutar el mismo programa en varias m\\xE1quinas y distribuir el trabajo.\"),mdx(\"li\",{parentName:\"ul\"},\"F\\xE1cil de leer: Go es un lenguaje simple de leer. Es f\\xE1cil de entender y no tiene una sintaxis complicada. Esto lo hace ideal para los novatos.\"),mdx(\"li\",{parentName:\"ul\"},\"F\\xE1cil de entender: Go es f\\xE1cil de entender y tiene un peque\\xF1o conjunto de reglas que lo hacen predecible. Esto facilita la depuraci\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},\"Est\\xE1ndar: Go es uno de los lenguajes m\\xE1s est\\xE1ndar. Esto hace que sea f\\xE1cil de adoptar dentro de una organizaci\\xF3n.\")),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Si est\\xE1 buscando llevar DevOps a su organizaci\\xF3n, deber\\xEDa considerar usar el lenguaje Go. Es simple, f\\xE1cil de usar y m\\xE1s adecuado para DevOps. Tiene una gran concurrencia y es lo suficientemente robusto como para ejecutarse en una amplia gama de sistemas inform\\xE1ticos. Se puede utilizar tanto en desarrollo backend como frontend.\"),mdx(\"p\",null,\"Si est\\xE1 pensando en adoptar el lenguaje Go en su organizaci\\xF3n, el mejor momento para hacerlo es ahora. Con la creciente popularidad del lenguaje, no pasar\\xE1 mucho tiempo antes de que se convierta en el lenguaje de programaci\\xF3n est\\xE1ndar para el desarrollo de software.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
+      "createdAt": "Mon Mar 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ajuste Del Rendimiento De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-utilizar-los-recursos-de-codificacion-en-linea",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Utilizar Los Recursos De Codificación En Línea",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo cada vez m\\xE1s digital, la demanda de codificadores calificados solo est\\xE1 creciendo. Ahora hay m\\xE1s recursos de codificaci\\xF3n que nunca; sin embargo, esto puede dificultar saber d\\xF3nde comenzar a aprender y desarrollar sus habilidades. Si est\\xE1 interesado en la codificaci\\xF3n pero no est\\xE1 seguro de por d\\xF3nde empezar, no est\\xE1 solo. Muchas personas sienten lo mismo que usted acerca de la codificaci\\xF3n. Afortunadamente, hay muchos recursos excelentes para comenzar con la codificaci\\xF3n y continuar aprendiendo lo que necesita saber.\nEn estos d\\xEDas, no se necesita mucho dinero ni tiempo para aprender a codificar en l\\xEDnea, ya sea en casa o como parte de un programa de educaci\\xF3n formal. Puedes encontrar tutoriales gratuitos en sitios web como Codecademy o Treehouse, o completar cursos en plataformas como Udemy o Alison. Si bien puede parecer abrumador con tantas opciones diferentes disponibles y sin una sola respuesta correcta sobre cu\\xE1l es mejor para usted personalmente, la verdad es que todos estos recursos son excelentes de diferentes maneras.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aplicaciones-ricas-de-internet-con-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Ricas De Internet Con Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las aplicaciones de Internet enriquecidas, o RIA, son aplicaciones basadas en web que presentan una mayor interactividad que los sitios web est\\xE1ndar. En lugar de simplemente permitir que los usuarios accedan a la informaci\\xF3n de un sitio web, las aplicaciones RIA generalmente brindan a los usuarios la capacidad de tomar medidas sobre ese contenido. Por ejemplo, en lugar de simplemente proporcionar a los usuarios informaci\\xF3n sobre un producto y su precio, una aplicaci\\xF3n RIA podr\\xEDa permitir a los usuarios agregar el producto a un carrito de compras y completar el proceso de compra.\nEste art\\xEDculo le presenta los RIA de Java para que pueda comprender por qu\\xE9 los desarrolladores de Java deber\\xEDan usarlo para desarrollar RIA. El objetivo de este art\\xEDculo es explicarle por qu\\xE9 Java es particularmente adecuado para desarrollar estas aplicaciones y por qu\\xE9 deber\\xEDa considerar usarlo si planea crear una.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJbACdAEPDmRyPxAAAP799ci2CEwAClmvh+LYJCDlI5D8XnKI36JhP707Hs2lDfrPtafdp8NzP/Lk9Sf/3H/P/UJff+FLz3+TeN+xIAA=",
+      "createdAt": "Sun Apr 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-de-juegos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo De Juegos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, hay mucha demanda de desarrolladores de juegos. El juego se ha convertido en una de las actividades m\\xE1s populares entre personas de todas las edades.\nCon la creciente popularidad de las aplicaciones m\\xF3viles, los juegos se han vuelto accesibles para muchas personas en todo el mundo. Como resultado, ha habido un aumento en la demanda de desarrolladores de juegos que puedan desarrollar juegos emocionantes que los usuarios quieran jugar una y otra vez.\nSi est\\xE1 interesado en trabajar como desarrollador de juegos o aspira a crear su propio videojuego alg\\xFAn d\\xEDa, necesita saber sobre Python, el lenguaje de programaci\\xF3n principal para el desarrollo de juegos.\nEste art\\xEDculo le presentar\\xE1 qu\\xE9 es Python y c\\xF3mo puede ayudarlo a conseguir el trabajo de sus sue\\xF1os como desarrollador de juegos o crear su propio videojuego alg\\xFAn d\\xEDa.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-comenzar-con-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Comenzar Con La Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es una habilidad esencial que se puede aplicar a una variedad de roles, industrias y tama\\xF1os de empresas. Lo que comenz\\xF3 como una habilidad de nicho utilizada por los desarrolladores de software ahora es una habilidad comercializable y relevante para casi todas las industrias. Se ha vuelto tan omnipresente que incluso el Departamento de Trabajo ha destacado la codificaci\\xF3n como una de las habilidades de m\\xE1s r\\xE1pido crecimiento en demanda.\nLa codificaci\\xF3n se considera m\\xE1s com\\xFAnmente como la capacidad de crear sitios web, aplicaciones y software. Sin embargo, en realidad hay muchos tipos diferentes de codificaci\\xF3n. La programaci\\xF3n (o codificaci\\xF3n) de computadoras implica escribir instrucciones para que las computadoras realicen ciertas acciones o funciones. El tipo de codificaci\\xF3n que elija aprender puede tener diferentes aplicaciones seg\\xFAn sus intereses, trayectoria profesional y fortalezas personales. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los distintos tipos de codificaci\\xF3n, as\\xED como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgMXN5D2aXoAA/v0gv8ReNXMb93cO5Q/ov5GW+7UomsDg6mSnJQvkaEun240Wqgz+5CmEmoM/q1u81sk/UMTGXZSeVY/Glg3jlie1VGogcLxCsY3jL3//dhp8z3wc//k5MszuVtPwxuDYhl4AAAA=",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-eleccion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje De Elección",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el mundo del software, no es frecuente que un lenguaje de programaci\\xF3n se vuelva tan popular que se considere el est\\xE1ndar. Sin embargo, eso es exactamente lo que sucedi\\xF3 con Python, por lo que en este art\\xEDculo aprender\\xE1 todo lo que necesita saber sobre este lenguaje de programaci\\xF3n y por qu\\xE9 es la mejor opci\\xF3n para su pr\\xF3ximo proyecto.\nHay muchos lenguajes de programaci\\xF3n disponibles en este momento, cada uno con sus propias ventajas y desventajas. Sin embargo, no todos logran capturar corazones y mentes como lo ha hecho Python. Este din\\xE1mico lenguaje de programaci\\xF3n de prop\\xF3sito general se ha convertido en uno de los m\\xE1s utilizados desde su lanzamiento en 1991 y lo sigue siendo en la actualidad. De hecho, a medida que observamos las tendencias en IA, ciencia de datos y aprendizaje autom\\xE1tico, todo indica que Python seguir\\xE1 creciendo en popularidad en los pr\\xF3ximos a\\xF1os.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Language Para La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La tecnolog\\xEDa de inteligencia artificial est\\xE1 creciendo r\\xE1pidamente en todos los sectores. Todas las organizaciones importantes buscan adoptar tecnolog\\xEDa de inteligencia artificial para automatizar procesos, hacer que su negocio sea m\\xE1s eficiente y mejorar la experiencia de sus clientes. Sin embargo, la mayor\\xEDa de estas empresas luchan por elegir las herramientas y los marcos de trabajo de aprendizaje autom\\xE1tico adecuados para sus proyectos de IA, ya que hay varias opciones disponibles en el mercado.\nSi tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n o desarrollar una aplicaci\\xF3n que requiera algoritmos de inteligencia artificial, deber\\xEDa considerar usar Golang para su desarrollo de software.\nGo es un lenguaje de programaci\\xF3n creado por Google y es una de las opciones m\\xE1s populares para desarrollar una aplicaci\\xF3n de IA o implementar un sistema de IA en su organizaci\\xF3n debido a sus potentes funciones. Exploremos por qu\\xE9 Go es una excelente opci\\xF3n para desarrollar aplicaciones de inteligencia artificial y c\\xF3mo se puede usar para construir un sistema de IA estable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-de-red",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración De Red",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

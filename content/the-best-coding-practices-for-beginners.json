@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Use meaningful variable names\"),mdx(\"p\",null,\"One of the most important best practices for beginners is to use meaningful variable names. This may sound silly since the code is only visible to you, but you\\u2019ll be surprised at how much easier it will be to understand your code when you use descriptive variable names. For example, say you want to track the number of times a user clicks a button. You could name that variable something like \\u201CbClicks\\u201D, but that doesn\\u2019t really convey what the variable is used for. Instead, you could name that variable \\u201Cclicks\\u201D and write a sentence about what the variable is being used for. You might say \\u201Ctracks the number of times a user clicks a button\\u201D. That way, when you go back to your code months later, you\\u2019ll be able to understand what\\u2019s going on more easily.\"),mdx(\"h2\",null,\"Comment your code\"),mdx(\"p\",null,\"Comments are lines of code that won\\u2019t be executed but are intended to provide more information about what\\u2019s happening in your code. Comments are one of the best practices for beginners who are learning to code. Every time you write code you should include a comment that describes what that code is doing. You\\u2019ll find that as you work through more advanced coding projects, you\\u2019ll be able to look back at your code and understand what\\u2019s happening more easily if you\\u2019ve used comments to explain everything.\"),mdx(\"h2\",null,\"Only use English in your code\"),mdx(\"p\",null,\"Coding isn\\u2019t just about writing syntax or using loops and loops. It\\u2019s also about writing logic that computers can understand. When you write code, you\\u2019re writing a set of instructions that a computer can execute. For example, if you want to enable a feature, you can write code that says \\u201Cif a user has a certain payment method, then enable that payment method.\\u201D These instructions are meant to be read and understood by a human, but they\\u2019re also meant to be read and understood by a computer. At the same time, there are certain things that are specific to the computer \\u2013 things like the names of variables, loops, and functions. For example, the computer needs to know what \\u201Cclicks\\u201D means, so you have to write that in code. But when you\\u2019re writing the code, you don\\u2019t want to use words that are specific to a human. You want to use words that are specific to the computer. When you write code, you can only use words that the computer understands. You can\\u2019t use any words that are specific to humans. That\\u2019s why when you write code, you have to only use English. You can\\u2019t use any other languages like Spanish, French, or Chinese.\"),mdx(\"h2\",null,\"Always use const unless you have a good reason not to\"),mdx(\"p\",null,\"Constants are values that you don\\u2019t want to change, so you declare them as a constant. This lets the computer know that this value won\\u2019t change over time, so it can make some calculations easier. When you\\u2019re learning how to code, you\\u2019ll find that you\\u2019ll use constants quite often. You\\u2019ll use them for things like the number of days in a month, the number of hours in a day, or any other value that you know won\\u2019t change. When you\\u2019re first learning how to code, it\\u2019s important to always use const unless you have a good reason not to. The only time you would not use const is if you wanted a value to change over time. For example, if a button needs to change colour over time, you wouldn\\u2019t use a constant. If a number needs to change depending on what someone inputs, you wouldn\\u2019t use a constant. You would always use a constant unless you have a good reason not to.\"),mdx(\"h2\",null,\"Make sure to stay on top of current programming practices and languages\"),mdx(\"p\",null,\"One of the best practices for beginners who are learning to code is making sure to stay on top of current programming practices and languages. Some languages, like Python, have been around for decades, while others like Rust are brand new. Some languages are trending upwards in popularity, while others are declining. No matter which language or programming practices you decide to learn, it\\u2019s important to keep on top of what\\u2019s happening in the industry. You never know when a programming skill will come in handy! You also don\\u2019t want to be caught off guard if a potential employer asks you about your knowledge of certain languages or practices. Keep an eye on industry publications for new programming languages and trends, and make sure to follow industry leaders on social media. This will help you stay up to date with everything that\\u2019s happening in the industry and make sure that you\\u2019re prepared for whatever the future may hold!\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"As you can see, there are a lot of important best practices that you should follow as a beginner learning to code. It can seem overwhelming at first, but if you follow these best practices, you\\u2019ll be well on your way to becoming a successful coder!\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
+      "createdAt": "Sat Jan 23 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "web-applications-with-java",
+      "locale": "en",
+      "title": "Web Applications with Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "typescript-a-beginners-guide-to-code-type-safety",
+      "locale": "en",
+      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
+      "createdAt": "Wed Sep 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-shortcuts-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Shortcuts for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the beginning, coding can feel like solving puzzles with red-hot needles in your hands. Everything is new, nothing makes sense and you can\\u2019t even tell if you are on the right track or not. It feels like one confusing labyrinth with a lot of locked doors \\u2013 every time you find an unlocked door, it just leads to another locked door! How do we get out of this frustrating loop? Coding shortcuts!\nA lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn\\u2019t have time to invest in learning every last bit of it before they can start creating useful programs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
+      "locale": "en",
+      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-overview",
+      "locale": "en",
+      "title": "Python - An Overview",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-get-started-with-coding",
+      "locale": "en",
+      "title": "How to Get Started with Coding",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

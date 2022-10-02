@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Python?\"),mdx(\"p\",null,\"Python is a general-purpose programming language with a simple syntax and powerful standard library. It is a great choice for beginner programmers due to its relative ease of use compared to other languages such as Java, C/C++, or C#. With this simplicity comes power, and Python can be used for almost any programming task, from web development to data science.\"),mdx(\"p\",null,\"The language was developed in the late 1980s by a group of researchers at the Massachusetts Institute of Technology (MIT). It was conceived as a \\u201Cbetter C\\u201D - a language that could be used by non-programmers, while retaining the performance and power of lower-level languages.\"),mdx(\"p\",null,\"Python\\u2019s syntax is minimal, with very little punctuation. For example, the \\u201C{}\\u201D and \\u201C()\\u201D that usually surround code in other languages are replaced by \\u201C:\\u201D in Python.\"),mdx(\"p\",null,\"Due to its easy-to-use syntax, Python has become a popular language for beginners. It is one of the most popular introductory programming languages, along with Java and C++, and is commonly taught in schools and universities.\"),mdx(\"h2\",null,\"Why use Python for database programming?\"),mdx(\"p\",null,\"As the title suggests, one of the main reasons you should use Python for database programming is that it\\u2019s really easy to do! The syntax is simple, so it\\u2019s easy to understand what you are writing and it\\u2019s easy to read what other people have written. This means it\\u2019s quick to write and easy to maintain code. \"),mdx(\"p\",null,\"Another reason for choosing Python for database programming is its flexibility. The standard libraries are huge, allowing programmers to do all sorts of things with their code. There are modules for parsing and manipulating data, for working with networks, for storing data in various formats, for accessing databases, and more.\"),mdx(\"p\",null,\"Python is also great for data scientists. It is used by many organizations for machine learning, statistics, and data analysis.\"),mdx(\"h2\",null,\"Using Python to access databases\"),mdx(\"p\",null,\"If you have decided to use Python for database programming, you first need to decide what type of database you want to use. There are many different relational databases on the market, each with their own strengths and weaknesses.\"),mdx(\"p\",null,\"Python has libraries for a number of the most popular relational databases, including MySQL, PostgreSQL, Oracle, and Microsoft\\u2019s SQL Server. Using these libraries, you can write Python code that connects to the database and manipulates its data. \"),mdx(\"p\",null,\"If you are using Python to access MySQL, PostgreSQL, or Microsoft SQL Server, you can write Python code to write data to the database. Many databases also allow you to read data from the database and write it to another format.\"),mdx(\"h2\",null,\"Using Python to manipulate data in databases\"),mdx(\"p\",null,\"If you decide to use Python for database programming, you can also use it to manipulate data in databases. For example, you can use the \\u201Cselect\\u201D and \\u201Cwhere\\u201D statements that are part of any relational database to read data from tables, and then use the \\u201Cfor\\u201D loop to iterate through that data and manipulate it. \"),mdx(\"p\",null,\"Another way to manipulate data in databases is to write Python code that runs as a function. You can then write this function to run on a regular schedule, or when certain events occur. This can be very useful in situations where a database store huge amounts of data, but you only want to get a small subset of that data at any given time.\"),mdx(\"h2\",null,\"Using Python to build database applications\"),mdx(\"p\",null,\"If you decide to use Python for database programming, you can use it to build database applications. A database application is a complete program that manages one or more databases. They are very useful in situations where you need to regularly access or update data, or when you want to automate tasks.\"),mdx(\"p\",null,\"Database applications are created in Python by writing code that accesses the database and calls functions written in other programming languages, such as C/C++, Java, or Rust. Python has libraries for a number of database management systems (DBMS), including Oracle and PostgreSQL.\"),mdx(\"p\",null,\"To create database applications, you need to choose the language for the functions in which you want to write. You then write Python code that calls these functions.\"),mdx(\"h2\",null,\"Summary\"),mdx(\"p\",null,\"Python is a programming language that can be used for almost any task, including database programming. It is powerful and flexible, and has a simple syntax that is easy to understand and read. Python has libraries for a number of database systems, including MySQL, PostgreSQL, and SQL Server. It can be used to read and manipulate data, and build database applications.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-performance-tuning",
+      "locale": "en",
+      "title": "Java Performance Tuning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-administration",
+      "locale": "en",
+      "title": "Go Language for Database Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJQBOiP/wPRNCNqZ78AD6n/wNac/TcfA754JFm2HyD/OS8M7xw0g7PW04HUkSKnZjS/VRMF9ouBfCUh4jEKJTDiLxgc2f56wynboK7GzEG9AM0ZYuQAAA",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJbACdAEP1hNnwnSgAP78O3gp2U2JfyaY+DeGoJ9UNlv3HkYt9yBMvP1T+eNn4VFP+T5Knz6bXyNebVv1YnpOTvyPAh8pFGAqgz/+qn7kYAAA",
+      "createdAt": "Fri May 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-find-the-best-coding-help-online",
+      "locale": "en",
+      "title": "How to Find the Best Coding Help Online",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that finding help with computer coding is one of the fastest growing online industries? Did you also know that there\\u2019s an abundance of websites out there where you can find that very same coding help? With so many places to look for coding assistance, it makes sense why there are so many professionals who can\\u2019t seem to find the best options. But don\\u2019t worry! There are plenty of great resources out there if you know where to look.\nIn this blog post, we\\u2019ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
+      "createdAt": "Thu Jun 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-video-processing",
+      "locale": "en",
+      "title": "Go Language for Video Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAACwAgCdASoKAAoAAUAmJbACdLoB+AARC5llxEIhYwAA/uhnVurOlaQ/z3wtKM/gWLP6TQ2cgSPKxu80JSwmR+kVQw5f0WKh0wP/5g3ePBo69avNyn+RiRPJ9bk7Y56b3f/3n2l71O8d+/xDWCP/as5/pW/+SpCwmQ+9prhAAAA=",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-science",
+      "locale": "en",
+      "title": "Python - The Language of Science",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEfhzEuWsgAAP78iej+mZU65vIG0J/8ef4J5aTYN1qvvWnP//X6IDmh0a7zmp4pFMvWI/gdcipT45r/1D347/GGIcv/4Z2onpxNio9608Rd95/lbY+3qlns8r3cHnqibLuv/zO5/8Tb/85EeXZ7/7/uOTLN//0xkRfyYjgAAAA=",
+      "createdAt": "Sat Feb 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tricks-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tricks for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Python para la administraci\\xF3n del sistema\"),mdx(\"p\",null,\"Python es uno de los lenguajes de programaci\\xF3n m\\xE1s utilizados en el mundo, y por una buena raz\\xF3n. Es un lenguaje conciso y legible que es tanto legible como escrito por humanos y m\\xE1quinas. La s\\xF3lida biblioteca central de Python y el soporte masivo de bibliotecas de terceros lo convierten en un lenguaje extremadamente poderoso. Adem\\xE1s es multiplataforma y se puede utilizar en pr\\xE1cticamente cualquier ordenador.\"),mdx(\"p\",null,\"Una de las mejores razones para usar Python para la administraci\\xF3n del sistema es su gran ecosistema de bibliotecas. Como desarrollador de Python, tiene acceso a una gran cantidad de bibliotecas est\\xE1ndar que le permiten hacer cosas como escribir y leer archivos, acceder y manipular p\\xE1ginas web y descargar y analizar fuentes RSS. Tambi\\xE9n hay una enorme cantidad de bibliotecas de terceros disponibles, y cada d\\xEDa se desarrollan m\\xE1s.\"),mdx(\"h2\",null,\"Secuencias de comandos de Shell\"),mdx(\"p\",null,`Los scripts de shell son otra excelente opci\\xF3n para los administradores de sistemas. Estos son archivos de texto sin formato que contienen comandos que ejecuta el kernel del sistema operativo. Si bien puede escribir scripts de shell en una amplia variedad de idiomas, usar el idioma nativo de su sistema operativo ofrece la mayor portabilidad y flexibilidad.\nUn script de shell puede ser tan simple como unas pocas l\\xEDneas de c\\xF3digo que se utilizan para automatizar un proceso, o puede ser tan complejo como una aplicaci\\xF3n completa. Cualquiera que sea el alcance de sus scripts de shell, pueden ahorrarle una gran cantidad de tiempo y esfuerzo si se usan correctamente.`),mdx(\"h2\",null,\"Instalaci\\xF3n y administraci\\xF3n de software\"),mdx(\"p\",null,`Si trabaja como administrador del sistema, sabe que la instalaci\\xF3n del software es parte del trabajo. A menudo tendr\\xE1 que instalar y administrar software tanto en sus propios sistemas como en los sistemas de otros que podr\\xEDa estar administrando de forma remota. Afortunadamente, existen herramientas disponibles para hacer que este proceso sea lo m\\xE1s f\\xE1cil posible.\nExisten muchas herramientas que pueden ayudarlo a instalar software en sus sistemas. Puede usar herramientas tradicionales como apt-get y yum, pero tambi\\xE9n hay soluciones m\\xE1s modernas como Chocolatey y Homebrew. Estas herramientas tienen una variedad de beneficios sobre las utilidades de l\\xEDnea de comandos est\\xE1ndar.\nSi bien estas herramientas facilitan el proceso de instalaci\\xF3n y administraci\\xF3n de software, a\\xFAn deber\\xE1 tener cuidado con la forma en que administra su software. Siempre debe pensar en c\\xF3mo se organiza e instala su software para asegurarse de que sea f\\xE1cil de eliminar.`),mdx(\"h2\",null,\"Monitoreo y Auditor\\xEDa\"),mdx(\"p\",null,`El monitoreo y la auditor\\xEDa son dos aspectos cr\\xEDticos de la administraci\\xF3n del sistema. Ya sea que est\\xE9 monitoreando sus sistemas para asegurarse de que funcionen sin problemas o audit\\xE1ndolos para asegurarse de que sean seguros, puede utilizar muchas herramientas para hacer el trabajo.\nHay una variedad de herramientas de monitoreo y auditor\\xEDa disponibles. Algunos est\\xE1n dise\\xF1ados para monitorear una tecnolog\\xEDa espec\\xEDfica, como monitorear una aplicaci\\xF3n en busca de problemas de rendimiento o depuraci\\xF3n. Otros est\\xE1n dise\\xF1ados para monitorear la informaci\\xF3n general del sistema, como la CPU y la utilizaci\\xF3n de la memoria.\nTambi\\xE9n hay herramientas disponibles que se pueden usar tanto para monitorear como para auditar. Estas herramientas se pueden usar para monitorear la salud de su sistema y para auditar la seguridad de su sistema.`),mdx(\"h2\",null,\"herramientas de monitoreo basadas en python para administradores de sistemas\"),mdx(\"p\",null,\"Hay muchas herramientas de monitoreo basadas en Python para administradores de sistemas. En esta secci\\xF3n, nos sumergiremos en algunos de los m\\xE1s comunes.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},`Estad\\xEDsticas y Grafito\nStatsd y Graphite son dos herramientas de monitoreo escritas en Python. Estas herramientas funcionan bien juntas y se pueden usar para monitorear una variedad de m\\xE9tricas del sistema.`),mdx(\"li\",{parentName:\"ul\"},`Nueva reliquia\nNew Relic es una herramienta de monitoreo de aplicaciones web. Est\\xE1 escrito en Python y se puede usar para monitorear sitios web y aplicaciones web escritas en una variedad de lenguajes, incluido Python.`),mdx(\"li\",{parentName:\"ul\"},`Din\\xE1mica de la aplicaci\\xF3n\nApp Dynamics es otra herramienta de monitoreo de aplicaciones web. Tambi\\xE9n est\\xE1 escrito en Python y se puede usar para monitorear aplicaciones escritas en cualquier lenguaje, incluido Python.`),mdx(\"li\",{parentName:\"ul\"},`Nagios\nNagios es una herramienta de monitoreo que se puede usar para monitorear una variedad de m\\xE9tricas y servicios del sistema.`),mdx(\"li\",{parentName:\"ul\"},`Tibur\\xF3n de alambre\nWireshark es una herramienta de an\\xE1lisis de red. Se puede usar para monitorear el tr\\xE1fico de red y detectar problemas de red, as\\xED como para inspeccionar y decodificar paquetes de red.`)),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Hay muchas razones para usar Python como administrador del sistema. Tiene una amplia variedad de bibliotecas disponibles, f\\xE1cil instalaci\\xF3n y administraci\\xF3n de software y herramientas de monitoreo y auditor\\xEDa dise\\xF1adas para administradores de sistemas. Python se puede usar para muchas tareas diferentes, lo que lo convierte en un lenguaje de programaci\\xF3n valioso para los administradores de sistemas.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-empresas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Empresas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "typescript-una-guia-para-principiantes-sobre-la-seguridad-de-los-tipos-de-codigo",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "TypeScript: Una Guía Para Principiantes Sobre La Seguridad De Los Tipos De Código",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript es un lenguaje de programaci\\xF3n de c\\xF3digo abierto desarrollado y mantenido por Microsoft, que ampl\\xEDa JavaScript. Agrega soporte para escribir variables y funciones, interfaces, clases con herencia y m\\xF3dulos. Este art\\xEDculo cubre todo lo que necesita saber sobre TypeScript y por qu\\xE9 deber\\xEDa usarlo como desarrollador.\nSeamos realistas: el mundo del desarrollo de software se ha vuelto extremadamente complejo en los \\xFAltimos a\\xF1os. Cada nuevo lenguaje de programaci\\xF3n tiene su propio conjunto \\xFAnico de reglas y m\\xE9todos para crear c\\xF3digo que finalmente termina convirti\\xE9ndose en un producto terminado que los usuarios pueden descargar desde una tienda de aplicaciones u otro sitio web.\nEn este art\\xEDculo, aprender\\xE1 sobre los beneficios de usar TypeScript como desarrollador, c\\xF3mo instalar TypeScript en su computadora, qu\\xE9 IDE es mejor para usarlo con editores populares como Visual Studio Code o Atom Text Editor, c\\xF3mo comenzar a codificar en TypeScript descargando proyectos repetitivos con c\\xF3digo de muestra, \\xA1y mucho m\\xE1s!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJagCdLoAEJMTYNgi24AA4lk6tpd3mbSDK7fU1vTesf970Y1Y1IRYmx9SL/i2zTzxlk6hmb/UyqlENf/U5Au7/k5eh/xpHuB+1bCAqBYnv8AA",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-un-lenguaje-para-las-masas",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Para Las Masas",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n de prop\\xF3sito general que se cre\\xF3 en 1991. Es f\\xE1cil de leer y comprender y tiene una sintaxis mucho m\\xE1s simple que otros lenguajes de programaci\\xF3n como C o Java. Su sintaxis simple, legibilidad y facilidad de uso general han hecho de Python una opci\\xF3n extremadamente popular para los nuevos programadores. Seg\\xFAn el censo de lenguajes de programaci\\xF3n de PYPL, Python es el tercer lenguaje de programaci\\xF3n m\\xE1s utilizado a nivel mundial con un uso de alrededor del 20 %. Adem\\xE1s, Python tambi\\xE9n fue identificado como uno de los 10 lenguajes inform\\xE1ticos de m\\xE1s r\\xE1pido crecimiento. Esta publicaci\\xF3n explicar\\xE1 por qu\\xE9 deber\\xEDa aprender Python, le ense\\xF1ar\\xE1 todo lo que necesita saber sobre este maravilloso lenguaje de codificaci\\xF3n y le brindar\\xE1 algunos recursos para comenzar. As\\xED que sigue leyendo para descubrir m\\xE1s sobre esta incre\\xEDble programaci\\xF3n.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "graphql-comprender-como-funciona-y-por-que-lo-necesita-para-su-aplicacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "GraphQL: Comprender Cómo Funciona Y Por Qué Lo Necesita Para Su Aplicación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google ha introducido una variedad de herramientas y marcos para que los desarrolladores de aplicaciones m\\xF3viles hagan su vida m\\xE1s f\\xE1cil y la experiencia de los usuarios sea mejor.\nUna de esas herramientas es GraphQL, que ahora se est\\xE1 volviendo cada vez m\\xE1s popular entre los desarrolladores de aplicaciones m\\xF3viles. \\xBFPor qu\\xE9? Porque ofrece muchos beneficios sobre otras API JSON. Los desarrolladores ya no necesitan codificar puntos finales o consultar datos directamente desde una API; GraphQL abstrae esa l\\xF3gica, lo que permite a los desarrolladores centrarse en su c\\xF3digo en lugar de en la capa de acceso a los datos.\nVeamos qu\\xE9 hace que GraphQL sea tan \\xFAtil en el mundo de las aplicaciones m\\xF3viles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-movil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo Móvil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con tantos lenguajes de programaci\\xF3n para elegir, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nCon tantos lenguajes de programaci\\xF3n disponibles, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nSi est\\xE1 desarrollando aplicaciones m\\xF3viles destinadas principalmente a tel\\xE9fonos y tabletas iPhone o Android, es posible que desee considerar el uso de Python como su idioma principal. En esta publicaci\\xF3n de blog, cubriremos por qu\\xE9 esta es una buena opci\\xF3n y por qu\\xE9 otras opciones pueden no ser ideales en ciertas situaciones.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-futuro",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Futuro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de la programaci\\xF3n est\\xE1 cambiando r\\xE1pidamente. Siguen apareciendo nuevos idiomas y los antiguos pasan de moda m\\xE1s r\\xE1pido que nunca. Pero Python sigue siendo uno de los lenguajes de programaci\\xF3n m\\xE1s populares del mundo, y su popularidad no muestra signos de desaceleraci\\xF3n en el corto plazo.\nSi est\\xE1 considerando una carrera en desarrollo de software, aprender Python puede abrirle una serie de oportunidades interesantes. La demanda de programadores calificados est\\xE1 creciendo a\\xF1o tras a\\xF1o, con la demanda m\\xE1s alta entre las peque\\xF1as empresas y las nuevas empresas. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre la historia y el uso de Python como lenguaje de programaci\\xF3n, por qu\\xE9 es tan popular en este momento y c\\xF3mo puede comenzar a aprenderlo tambi\\xE9n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ajuste Del Rendimiento De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJagCdAYt9vu4ZYwQAP7qHn6i/H9DfHi7fIb1BgjftSqvNw57bwB/v3lj8bf8bj9UQCEGD8BURi/2dWUhAx/NmaIfyKM3vd/zosC0AWS/f/zZbD/rJ+rF/68OH/rBJtz3+xc7+AAAAA==",
+      "createdAt": "Fri Apr 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El raspado web es la pr\\xE1ctica de extraer datos de sitios web. En este blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python para el web scraping, as\\xED como tambi\\xE9n proporcionaremos ejemplos, recursos y sugerencias para comenzar. La red mundial ha hecho que sea m\\xE1s f\\xE1cil que nunca compartir informaci\\xF3n entre s\\xED. Sin embargo, esa misma facilidad de acceso tambi\\xE9n ha hecho que sea m\\xE1s dif\\xEDcil que nunca separar la informaci\\xF3n \\xFAtil del ruido. Debido a esto, muchos desarrolladores han recurrido al web scraping para extraer la informaci\\xF3n que necesitan de los sitios web sin tener que buscar manualmente o filtrar todo individualmente. \\xA1Afortunadamente para ti, Python es un lenguaje perfecto para comenzar con el web scraping! Este blog cubrir\\xE1 por qu\\xE9 deber\\xEDa aprender Python para web scraping y ofrecer\\xE1 recursos \\xFAtiles para comenzar a aprenderlo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQue es Java?\"),mdx(\"p\",null,\"Java es un lenguaje de programaci\\xF3n de computadoras. Sin embargo, aunque esa definici\\xF3n parece muy general, en realidad no explica qu\\xE9 es Java o por qu\\xE9 es tan importante. En esencia, Java es un lenguaje de programaci\\xF3n que puede ejecutarse en m\\xFAltiples dispositivos y sistemas operativos. Esto incluye computadoras, tel\\xE9fonos inteligentes y servidores web. Java es un lenguaje que se utiliza para crear aplicaciones, sitios web, software y programas. Es uno de los idiomas m\\xE1s utilizados en el mundo. De hecho, se estima que m\\xE1s de 9 millones de programadores est\\xE1n usando Java en este momento. Es por eso que es una opci\\xF3n tan popular para los principiantes que reci\\xE9n comienzan con la codificaci\\xF3n. Es un lenguaje altamente adaptable que se puede utilizar en una variedad de contextos.\"),mdx(\"h2\",null,\"Conceptos b\\xE1sicos del vocabulario de Java\"),mdx(\"p\",null,\"Antes de entrar en los detalles de c\\xF3mo escribir c\\xF3digo en Java, echemos un vistazo a algunas de las palabras de vocabulario m\\xE1s importantes. Esto lo ayudar\\xE1 a comprender los conceptos b\\xE1sicos del idioma y lo preparar\\xE1 para pasar a las siguientes secciones. Si ya est\\xE1 familiarizado con los conceptos b\\xE1sicos de Java, puede pasar directamente a la siguiente secci\\xF3n.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Programador - Un programador es una persona que escribe c\\xF3digo. Usan lenguajes de programaci\\xF3n para instruir a las computadoras para que realicen ciertas tareas. Un programador tambi\\xE9n se conoce como codificador. - Lenguaje de programaci\\xF3n: un lenguaje de programaci\\xF3n es un conjunto de s\\xEDmbolos y reglas que los programadores usan para escribir instrucciones. Estas instrucciones le dicen a las computadoras qu\\xE9 hacer. Hay miles de lenguajes de programaci\\xF3n diferentes. Java es una de las opciones m\\xE1s populares para que los principiantes aprendan. - Sintaxis - La sintaxis se refiere a las reglas que dictan c\\xF3mo se debe escribir un lenguaje de programaci\\xF3n espec\\xEDfico. Es importante comprender la sintaxis de cualquier lenguaje de programaci\\xF3n en el que desee escribir. Esto garantiza que su c\\xF3digo est\\xE9 escrito de la manera correcta. - Byte: la unidad m\\xE1s peque\\xF1a de datos en una computadora se llama byte. A menudo se compara con el tama\\xF1o de una letra en un alfabeto. Una letra en un alfabeto puede ser cualquiera de las 26 letras, mientras que un byte puede ser cualquiera de las 256 combinaciones diferentes.\")),mdx(\"h2\",null,\"Palabras clave\"),mdx(\"p\",null,\"Las palabras clave son palabras especiales en un lenguaje de programaci\\xF3n que tienen significados espec\\xEDficos y no se pueden usar como palabras normales en su c\\xF3digo. Esto se debe a que tienen funciones espec\\xEDficas que deben realizar. En Java, hay siete categor\\xEDas de palabras clave: tipo de datos, m\\xE9todo, variable, excepci\\xF3n, bucle, prueba/captura/finalmente y clase. Estas son palabras que no se pueden usar como palabras normales en su c\\xF3digo. En su lugar, debe utilizar sus s\\xEDmbolos espec\\xEDficos. Esto es para que la computadora sepa lo que est\\xE1 tratando de hacer. Tambi\\xE9n es una forma de asegurarse de que su c\\xF3digo sea consistente. Si usa las palabras clave correctamente, su c\\xF3digo ser\\xE1 consistente con otros programas Java.\"),mdx(\"h2\",null,\"Variables y tipos de datos\"),mdx(\"p\",null,\"Una variable es un dato que se almacena en la memoria de su computadora. Se puede cambiar, dependiendo de la situaci\\xF3n. Una variable puede ser una sola pieza de informaci\\xF3n, como el nombre de un empleado, o varias piezas de informaci\\xF3n, como el nombre, el salario y el cargo de un empleado. Java usa variables para representar diferentes tipos de informaci\\xF3n. El tipo de datos que se pueden asignar a las variables se denomina tipo de datos. Los tipos de datos m\\xE1s comunes en Java incluyen los siguientes: - Cadena: una cadena es una colecci\\xF3n de caracteres. - N\\xFAmero entero: un n\\xFAmero entero es un n\\xFAmero entero sin decimales. - Booleano: un booleano es verdadero o falso. - Flotante: un flotador es un n\\xFAmero con un lugar decimal. - Doble: un doble es un n\\xFAmero con un lugar decimal. - Matriz: una matriz es una colecci\\xF3n de datos. - Largo: un largo es un n\\xFAmero grande.\"),mdx(\"h2\",null,\"Declaraciones condicionales\"),mdx(\"p\",null,\"Una declaraci\\xF3n condicional es un tipo de c\\xF3digo que le dice a una computadora que haga algo basado en una condici\\xF3n. Las declaraciones condicionales son una parte fundamental de la programaci\\xF3n. En Java, las sentencias condicionales se escriben con las palabras clave if, else, while y switch. La palabra clave if se usa para escribir una declaraci\\xF3n condicional que tiene un solo resultado. La palabra clave else se usa para escribir una declaraci\\xF3n condicional que tiene dos resultados. La palabra clave while se usa para escribir una declaraci\\xF3n condicional que se repite. La palabra clave switch se usa para escribir una declaraci\\xF3n condicional con m\\xFAltiples resultados. Vamos a desglosarlos para que puedas entender c\\xF3mo funcionan.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"La palabra clave if se usa para escribir una declaraci\\xF3n condicional que tiene un solo resultado. Por ejemplo, si desea ejecutar un fragmento de c\\xF3digo si se cumple una condici\\xF3n espec\\xEDfica, escriba esa condici\\xF3n en una declaraci\\xF3n if. Si se cumple la condici\\xF3n, el c\\xF3digo se ejecutar\\xE1. Si no se cumple la condici\\xF3n, el c\\xF3digo no se ejecutar\\xE1. - La palabra clave else se usa para escribir una declaraci\\xF3n condicional que tiene dos resultados. Si desea escribir c\\xF3digo que se ejecute si se cumple una condici\\xF3n y c\\xF3digo que se ejecute si no se cumple la condici\\xF3n, debe usar una instrucci\\xF3n if y una instrucci\\xF3n else. - La palabra clave while se usa para escribir una declaraci\\xF3n condicional que se repite. Si desea que un fragmento de c\\xF3digo se ejecute varias veces, escriba el c\\xF3digo dentro de una instrucci\\xF3n while. Las declaraciones while son \\xFAtiles para tareas que deben repetirse hasta que se cumpla una determinada condici\\xF3n.\")),mdx(\"h2\",null,\"Bucles\"),mdx(\"p\",null,\"Los bucles son un tipo de declaraci\\xF3n condicional que le permite escribir c\\xF3digo que se repite. Esto puede ser muy \\xFAtil cuando desea ejecutar varias tareas a la vez. En Java, los bucles se escriben con las palabras clave for, do while y while. Analicemos los diferentes tipos de bucles para que pueda comprender c\\xF3mo funcionan.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"La palabra clave for se usa para escribir un bucle que se repite un n\\xFAmero determinado de veces. - La palabra clave do while se utiliza para escribir un bucle que se repite hasta que se cumple una determinada condici\\xF3n. - La palabra clave while se utiliza para escribir un bucle que se repite mientras se cumple una determinada condici\\xF3n.\")),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Cuando se trata de aprender a escribir c\\xF3digo, comprender la sintaxis es el primer paso m\\xE1s importante. Sin una comprensi\\xF3n b\\xE1sica de c\\xF3mo funciona el lenguaje y lo que debe hacer para escribir c\\xF3digo, se quedar\\xE1 atascado muy r\\xE1pidamente. Una vez que tenga una comprensi\\xF3n b\\xE1sica de la sintaxis, puede pasar a partes m\\xE1s complejas de la codificaci\\xF3n. A partir de ah\\xED, solo es cuesti\\xF3n de pr\\xE1ctica y repetici\\xF3n hasta que empieces a sentirte m\\xE1s c\\xF3modo con el proceso de escribir c\\xF3digo. Hay mucho de lo que hacer un seguimiento y recordar cuando se aprende a codificar. Sin embargo, si lo divide en partes m\\xE1s peque\\xF1as, es m\\xE1s f\\xE1cil de entender y recordar lo que debe hacer.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-aplicacion-de-hibernate",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Aplicación De Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-utilizar-los-recursos-de-codificacion-en-linea",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Utilizar Los Recursos De Codificación En Línea",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo cada vez m\\xE1s digital, la demanda de codificadores calificados solo est\\xE1 creciendo. Ahora hay m\\xE1s recursos de codificaci\\xF3n que nunca; sin embargo, esto puede dificultar saber d\\xF3nde comenzar a aprender y desarrollar sus habilidades. Si est\\xE1 interesado en la codificaci\\xF3n pero no est\\xE1 seguro de por d\\xF3nde empezar, no est\\xE1 solo. Muchas personas sienten lo mismo que usted acerca de la codificaci\\xF3n. Afortunadamente, hay muchos recursos excelentes para comenzar con la codificaci\\xF3n y continuar aprendiendo lo que necesita saber.\nEn estos d\\xEDas, no se necesita mucho dinero ni tiempo para aprender a codificar en l\\xEDnea, ya sea en casa o como parte de un programa de educaci\\xF3n formal. Puedes encontrar tutoriales gratuitos en sitios web como Codecademy o Treehouse, o completar cursos en plataformas como Udemy o Alison. Si bien puede parecer abrumador con tantas opciones diferentes disponibles y sin una sola respuesta correcta sobre cu\\xE1l es mejor para usted personalmente, la verdad es que todos estos recursos son excelentes de diferentes maneras.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-hibernate",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La alta disponibilidad de servicios es un factor clave de \\xE9xito para las empresas y los proveedores de servicios. En el mundo actual, hay una mayor penetraci\\xF3n de dispositivos m\\xF3viles y otros dispositivos de usuarios finales que necesitan servicios siempre activos. Por lo tanto, se vuelve esencial para las empresas implementar sistemas que puedan manejar interrupciones frecuentes y que est\\xE9n siempre disponibles.\nEste blog es el primer art\\xEDculo de nuestra serie Hibernate donde cubriremos todos los conceptos relacionados con Hibernate. Aqu\\xED, comenzaremos por comprender \\xBFQu\\xE9 es Hibernate? \\xBFEn qu\\xE9 se diferencia de otras API? Y conozca las diferentes versiones de Hibernate. Tambi\\xE9n veremos una introducci\\xF3n a la arquitectura de Hibernate y sus componentes principales, como sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hay varios lenguajes de programaci\\xF3n disponibles para crear bases de datos. Puede crear una base de datos usando formatos simples basados en archivos o puede usar opciones m\\xE1s avanzadas, como sistemas de administraci\\xF3n de bases de datos orientados a objetos (ODBMS) o sistemas de administraci\\xF3n de bases de datos gr\\xE1ficas. Seg\\xFAn el tipo de base de datos que desee crear y sus necesidades espec\\xEDficas, es probable que haya un lenguaje de programaci\\xF3n ideal para usted.\nEl lenguaje de programaci\\xF3n Go es una opci\\xF3n que vale la pena explorar si est\\xE1 buscando un excelente lenguaje de programaci\\xF3n de prop\\xF3sito general pero con un enfoque especial en la programaci\\xF3n de bases de datos. Muchos programadores valoran la sintaxis simple de Go, su soporte integrado especial para cadenas y sus poderosas primitivas de concurrencia integradas. Si desea obtener m\\xE1s informaci\\xF3n sobre este lenguaje de programaci\\xF3n y si es la opci\\xF3n correcta para crear bases de datos, contin\\xFAe leyendo para descubrir todo lo que necesita saber sobre Go y las bases de datos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-una-descripcion-general",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Una Descripción General",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"En esta era digital, los datos est\\xE1n en todas partes. Ya sea que est\\xE9 utilizando Internet para navegar por sitios web, transmitir videos en YouTube o Instagram, cargar im\\xE1genes en Facebook o almacenar sus canciones favoritas en Spotify, es casi seguro que encontrar\\xE1 datos en alg\\xFAn momento. Con tanta informaci\\xF3n flotando en l\\xEDnea en estos d\\xEDas, no sorprende que los lenguajes de programaci\\xF3n se hayan vuelto tan esenciales en la industria tecnol\\xF3gica. Los programadores de computadoras usan varios lenguajes de programaci\\xF3n para crear software y otros programas que ayudan a los usuarios a realizar tareas espec\\xEDficas o cumplir objetivos dentro de un \\xE1mbito de trabajo particular. Hay muchos tipos diferentes de lenguajes de programaci\\xF3n disponibles en la actualidad, pero uno de los m\\xE1s populares entre los desarrolladores es Python. En este art\\xEDculo, exploraremos qu\\xE9 hace que Python sea \\xFAnico y discutiremos por qu\\xE9 es una opci\\xF3n tan popular para los programadores de hoy.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZwAD5AwhczLy9AZ4AAA/vb/6Y9PfxoP3X9HoI8Ceg5h7lZpD8R9cz8mb+//1p4pBTqLBvp+bvp0qEWK/imDV6A/xmjNys7umuX+j6V77j/4L++LzISh4eOm/H/wStucnqSqcAaWcEusX9CxLObOlAAAAA==",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "la-diferencia-entre-javascript-y-typescript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "La Diferencia Entre JavaScript Y TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 confundido acerca de las diferencias entre JavaScript y TypeScript? \\xBFSabes cu\\xE1l de estos lenguajes de programaci\\xF3n es el adecuado para tu proyecto? Si es as\\xED, \\xA1sigue leyendo para obtener m\\xE1s informaci\\xF3n!\nEn esta publicaci\\xF3n de blog, repasaremos todo lo que necesita saber sobre TypeScript frente a JavaScript. Ambos lenguajes de programaci\\xF3n son populares en la industria del desarrollo de software. Sin embargo, tienen algunas diferencias sutiles pero importantes que los distinguen entre s\\xED.\nPero primero, antes de sumergirnos en los detalles de cada lenguaje de programaci\\xF3n, entendamos qu\\xE9 tienen en com\\xFAn.\nTanto JavaScript como TypeScript son lenguajes de programaci\\xF3n din\\xE1micos y orientados a objetos dise\\xF1ados para crear sitios web y otras aplicaciones interactivas. Ambos admiten la sintaxis de corchetes con punto y coma opcionales, as\\xED como operadores > para verificaci\\xF3n de tipos y declaraciones condicionales if-else. Ambos admiten variables, tipos de datos (cadena, booleano, n\\xFAmero) y llamadas a funciones con argumentos opcionales y valores de retorno.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBuuYsoDooAA/tKOq5V/+Vh2Idh8D0hvcxmpvoiTzpcdPdTbBvzzHFjc8y1J/Ag0kEYwfFSV5PliwlkWw1pPfbeI3u+z548FId803Pu03VHAAA==",
+      "createdAt": "Wed Apr 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "introduccion-a-la-primavera",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a La Primavera",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'\\xBFBusca mejorar sus habilidades de desarrollo de software y aprender un nuevo marco? Si es as\\xED, est\\xE1s de suerte. En los \\xFAltimos a\\xF1os, ha habido una explosi\\xF3n de nuevos marcos de desarrollo de software que han hecho que la codificaci\\xF3n sea mucho m\\xE1s f\\xE1cil para los desarrolladores. Estos marcos se conocen como soluciones de software \"sin c\\xF3digo\" o \"de c\\xF3digo bajo\" porque requieren mucho menos c\\xF3digo para implementar que los m\\xE9todos de programaci\\xF3n m\\xE1s antiguos. Uno de esos marcos es Spring, que actualmente es una de las plataformas de soluciones empresariales ligeras m\\xE1s utilizadas disponibles en la actualidad. Aunque se lanz\\xF3 por primera vez hace casi 15 a\\xF1os, Spring contin\\xFAa expandiendo su funcionalidad con cada nueva versi\\xF3n. En esta publicaci\\xF3n de blog, cubriremos la introducci\\xF3n a Spring y lo ayudaremos a comprender lo que puede hacer por usted como desarrollador.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/working-with-files-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
+      "createdAt": "Thu Aug 11 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "trabajar-con-archivos-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Trabajar Con Archivos En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar con archivos es algo que los programadores de nivel de entrada no pueden hacer muy a menudo. No es la parte m\\xE1s emocionante del desarrollo de software, pero es importante. El sistema de archivos es la piedra angular de casi todos los programas que usa en su computadora. Trabajar con archivos en Java puede parecer un poco contradictorio al principio. Una vez que comprende qu\\xE9 lo hace diferente de otros lenguajes de programaci\\xF3n, se vuelve mucho m\\xE1s claro.\nTrabajar con archivos en Java implica crear, leer, actualizar y eliminar archivos. Los archivos se almacenan como cadenas o bytes. Si ha utilizado otros lenguajes de programaci\\xF3n antes, esto le resultar\\xE1 familiar. En Java, hay dos formas distintas de trabajar con archivos: secuencias est\\xE1ndar y la nueva clase \"Archivo\" introducida en la versi\\xF3n 1.1 del lenguaje. Este art\\xEDculo explica c\\xF3mo trabajar con archivos utilizando ambos m\\xE9todos y tambi\\xE9n aborda algunos temas relacionados, como etiquetas New>.../New> y archivos Jar (paquetes autoejecutables).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-principales-tendencias-en-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Principales Tendencias En Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software tienen la tarea de encontrar soluciones a problemas complejos todos los d\\xEDas. La industria del software est\\xE1 en constante evoluci\\xF3n y los ingenieros deben mantenerse actualizados sobre las \\xFAltimas tendencias y tecnolog\\xEDas para mantener sus habilidades actualizadas y relevantes.\nLos ingenieros de software deben esperar ver una afluencia de nuevas tendencias de ingenier\\xEDa de software en el pr\\xF3ximo a\\xF1o. Los ingenieros deben estar preparados para adaptar sus habilidades y dominar nuevas t\\xE9cnicas a medida que el mundo del software contin\\xFAa cambiando r\\xE1pidamente. A medida que la tecnolog\\xEDa avanza a un ritmo acelerado, es importante que los ingenieros sean conscientes de s\\xED mismos y aprendan constantemente sobre nuevas formas de hacer las cosas para que puedan seguir proporcionando valor a trav\\xE9s de su trabajo.\nAqu\\xED hay algunas tendencias de ingenier\\xEDa de software que debe conocer en 2019 y m\\xE1s all\\xE1. Siga leyendo y prep\\xE1rese para un futuro lleno de oportunidades para quienes puedan mantenerse al d\\xEDa con estos cambios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-de-red",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Administración De Red",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

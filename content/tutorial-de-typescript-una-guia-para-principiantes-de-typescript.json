@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es mecanografiado?\"),mdx(\"p\",null,\"TypeScript es un lenguaje de programaci\\xF3n que compila en JavaScript. JavaScript es el lenguaje m\\xE1s popular utilizado en el proceso de desarrollo de aplicaciones web y sitios web. A menudo lo encontrar\\xE1 en el desarrollo web front-end, el desarrollo de aplicaciones m\\xF3viles y el desarrollo de IoT tambi\\xE9n. Entonces, TypeScript es un superconjunto de JavaScript que agrega escritura est\\xE1tica al lenguaje. En otras palabras, es un lenguaje de programaci\\xF3n que se puede compilar en JavaScript. TypeScript se puede usar para desarrollar cualquier tipo de aplicaci\\xF3n, pero se usa m\\xE1s com\\xFAnmente para el desarrollo web.\"),mdx(\"p\",null,\"Muchos lenguajes de programaci\\xF3n modernos como C#, Java y Go tienen escritura est\\xE1tica. Esto significa que el tipo de datos se determina antes de ejecutar el programa. Este no es el caso con JavaScript. Este lenguaje espera que el usuario especifique los tipos de datos en tiempo de ejecuci\\xF3n, lo que puede hacer que el c\\xF3digo sea menos preciso y m\\xE1s propenso a errores. TypeScript resuelve este problema al agregar escritura est\\xE1tica al lenguaje JavaScript.\"),mdx(\"h2\",null,\"\\xBFC\\xF3mo funciona TypeScript?\"),mdx(\"p\",null,\"Repasemos c\\xF3mo funciona TypeScript. Primero, escribir\\xE1 c\\xF3digo en un archivo TypeScript. Luego, utilizar\\xE1 un compilador TypeScript para generar c\\xF3digo JavaScript. A continuaci\\xF3n, puede ejecutar el c\\xF3digo JavaScript generado en cualquier navegador o entorno. Cuando el compilador de TypeScript compila su c\\xF3digo, utiliza un servicio en l\\xEDnea, como un entorno de desarrollo integrado (IDE) o un servicio basado en la nube. Esta es una excelente manera de comenzar a usar TypeScript ya que no tiene que descargar e instalar ning\\xFAn software.\"),mdx(\"p\",null,\"El compilador de TypeScript analiza su c\\xF3digo y luego lo compila en un c\\xF3digo JavaScript normal. Sin embargo, cuando ejecute el c\\xF3digo, utilizar\\xE1 un motor de JavaScript para ejecutarlo. Esto significa que la escritura est\\xE1tica solo funciona cuando se est\\xE1 compilando el c\\xF3digo. En otras palabras, las anotaciones de tipo no estar\\xE1n disponibles cuando se ejecute el c\\xF3digo.\"),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 deber\\xEDa usar TypeScript?\"),mdx(\"p\",null,\"Hay varias razones por las que deber\\xEDa usar TypeScript. Primero, le permite elegir entre escritura din\\xE1mica y est\\xE1tica. Usando escritura est\\xE1tica, puede escribir c\\xF3digo m\\xE1s preciso porque el compilador lo verificar\\xE1 e indicar\\xE1 errores tan pronto como cometa un error. Por otro lado, si usa escritura din\\xE1mica, puede escribir un c\\xF3digo m\\xE1s intuitivo que es m\\xE1s f\\xE1cil de entender.\"),mdx(\"p\",null,\"En segundo lugar, la escritura est\\xE1tica puede ayudarlo a evitar errores y mejorar su proceso de desarrollo. La depuraci\\xF3n suele ser mucho m\\xE1s f\\xE1cil cuando el c\\xF3digo se compila con escritura est\\xE1tica, ya que el compilador verificar\\xE1 autom\\xE1ticamente los errores tipogr\\xE1ficos y los errores.\"),mdx(\"p\",null,\"Finalmente, la escritura est\\xE1tica hace que sea mucho m\\xE1s f\\xE1cil escalar sus proyectos y crear bibliotecas de c\\xF3digo que otros desarrolladores tambi\\xE9n pueden usar.\"),mdx(\"h2\",null,\"Las ventajas de usar TypeScript\"),mdx(\"p\",null,\"Las ventajas de usar TypeScript son numerosas. En primer lugar, es una forma sencilla de empezar a utilizar la escritura est\\xE1tica. Si normalmente escribe c\\xF3digo sin anotaciones de tipo, encontrar\\xE1 que agregar tipos a sus proyectos es sencillo. Esto se debe a que TypeScript le permite usar una sintaxis simple para agregar tipos a su c\\xF3digo.\"),mdx(\"p\",null,\"En segundo lugar, es un lenguaje de c\\xF3digo abierto que tambi\\xE9n es de uso gratuito. Al usar un lenguaje de c\\xF3digo abierto, puede asegurarse de que el c\\xF3digo sea seguro y seguro de usar. Tambi\\xE9n tiene acceso al c\\xF3digo fuente y puede modificarlo para adaptarlo a sus necesidades si es necesario.\"),mdx(\"p\",null,\"En tercer lugar, TypeScript es compatible con todos los principales IDE, incluidos Visual Studio Code, Sublime Text y Vim. Esto facilita la integraci\\xF3n de TypeScript en su proceso de desarrollo y su uso para sus proyectos futuros.\"),mdx(\"h2\",null,\"Terminando\"),mdx(\"p\",null,\"Ahora que sabe qu\\xE9 es TypeScript y c\\xF3mo funciona, puede decidir si es una buena opci\\xF3n para su pr\\xF3ximo proyecto. TypeScript es un gran lenguaje tanto para principiantes como para desarrolladores experimentados. Le permite escribir un c\\xF3digo m\\xE1s preciso que es m\\xE1s f\\xE1cil de depurar y escalar. Tambi\\xE9n le permite elegir entre escritura est\\xE1tica y din\\xE1mica para que pueda crear un c\\xF3digo intuitivo que sea m\\xE1s f\\xE1cil de entender.\"),mdx(\"p\",null,\"Si ha estado buscando un nuevo idioma para probar, o si desea mejorar sus habilidades y pasar al siguiente nivel, TypeScript es la mejor opci\\xF3n. Es un lenguaje moderno y poderoso que se puede combinar con muchas herramientas, bibliotecas y marcos diferentes. Tambi\\xE9n es f\\xE1cil de integrar con otros lenguajes y es compatible con todos los principales IDE.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-leer-codigo-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Leer Código Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: existen muchos lenguajes de programaci\\xF3n y cada uno tiene sus propias caracter\\xEDsticas y peculiaridades \\xFAnicas. Entonces, \\xBFcu\\xE1l deber\\xEDas aprender primero? Si est\\xE1 buscando comenzar en el mundo de la codificaci\\xF3n, Javascript es un lugar fant\\xE1stico para comenzar. De hecho, puede ser un excelente lenguaje de programaci\\xF3n para principiantes para aquellos que tienen poca o ninguna experiencia en este campo. \\xBFPorqu\\xE9 es eso? Bueno, como el lenguaje m\\xE1s com\\xFAn utilizado para la creaci\\xF3n de sitios web, aprender Javascript lo ayuda a comprender c\\xF3mo funcionan los sitios web a nivel individual.\n\\xA1Deje que esta gu\\xEDa paso a paso para aprender Javascript lo ayude a llevar su nuevo conjunto de habilidades al siguiente nivel! Desde comprender qu\\xE9 es Javascript y por qu\\xE9 es importante hasta dominar los fundamentos de la codificaci\\xF3n, como variables y declaraciones condicionales, lo guiaremos a trav\\xE9s de todo lo que necesita saber para comenzar con este lenguaje de programaci\\xF3n din\\xE1mico.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "el-futuro-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "El Futuro De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son el motor de la econom\\xEDa digital. Crean, mantienen y actualizan el software que impulsa las empresas, los sitios web y las aplicaciones. Y la demanda de ingenieros de software contin\\xFAa creciendo. Las ofertas de trabajo para ingenieros de software han aumentado un 37 % en los \\xFAltimos cinco a\\xF1os, y se espera un aumento adicional del 26 % para 2024.\nLa ingenier\\xEDa de software es tambi\\xE9n uno de los campos m\\xE1s competitivos para incursionar en este momento. Hay una escasez de candidatos calificados, lo que ha llevado a una gran demanda y altos salarios para los mejores ingenieros de software que pueden impulsar la innovaci\\xF3n en sus empresas. Para convertirse en ingeniero de software y obtener uno de esos trabajos codiciados, deber\\xE1 completar una licenciatura en inform\\xE1tica o tomar clases de codificaci\\xF3n. Echemos un vistazo a lo que necesita para convertirse en ingeniero de software y lo que podr\\xEDa deparar el futuro para este campo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+      "createdAt": "Wed Mar 24 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-recursos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Recursos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFNuevo en la codificaci\\xF3n? Hay muchos recursos disponibles, pero pueden ser abrumadores. \\xBFCu\\xE1les valen la pena? \\xBFC\\xF3mo encuentras los mejores? El espacio de codificaci\\xF3n est\\xE1 en constante crecimiento y cambio. Todos los d\\xEDas aparecen nuevas herramientas, sitios y conceptos. Navegar por este paisaje como principiante puede ser dif\\xEDcil.\nLa codificaci\\xF3n es una habilidad en demanda que ha estado creciendo r\\xE1pidamente en demanda en los \\xFAltimos a\\xF1os. Cada vez m\\xE1s personas quieren aprender a codificar, pero no siempre hay un recurso f\\xE1cil para los principiantes que buscan comenzar. Con tantas opciones disponibles, puede ser dif\\xEDcil saber por d\\xF3nde empezar a aprender los conceptos b\\xE1sicos de la codificaci\\xF3n. Incluso si no es un principiante completo, estos son excelentes lugares para continuar aprendiendo sobre codificaci\\xF3n e incluso avanzar en su conocimiento sobre temas espec\\xEDficos que m\\xE1s le interesen.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-secretos-de-los-grandes-programadores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Secretos De Los Grandes Programadores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Los grandes codificadores saben c\\xF3mo ver, pensar y resolver problemas. Tambi\\xE9n pueden dominar c\\xF3digos complejos y encontrar soluciones a problemas t\\xE9cnicos dif\\xEDciles. Pero m\\xE1s all\\xE1 de eso, los grandes codificadores aportan algo m\\xE1s a la mesa: tienen una combinaci\\xF3n \\xFAnica de caracter\\xEDsticas que los hacen programadores productivos y efectivos. Los mejores programadores tienen un conjunto de h\\xE1bitos comunes que les permiten prosperar en un entorno a menudo estresante. Hay muchas presiones sobre los ingenieros de software, desde plazos ajustados hasta la demanda constante de nuevas funciones. Los grandes codificadores pueden prosperar en este entorno lleno de presi\\xF3n debido a su capacidad para manejar el estr\\xE9s, concentrarse intensamente y pensar creativamente sobre el problema en cuesti\\xF3n. Si quieres convertirte en un gran programador, estos son algunos secretos que debes saber...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-un-lenguaje-para-todos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Para Todos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Un lenguaje de programaci\\xF3n es tan bueno como las personas que lo usan. No basta con que un lenguaje de programaci\\xF3n sea perfecto, completo y universal; si nadie lo usa, es in\\xFAtil. Es por eso que el dise\\xF1o de cualquier nuevo lenguaje de programaci\\xF3n implica mucha investigaci\\xF3n del usuario. Los creadores de Python, un lenguaje de programaci\\xF3n de prop\\xF3sito general de c\\xF3digo abierto lanzado por primera vez en 1991, reconocieron desde el principio que si quer\\xEDan tener \\xE9xito, necesitaban crear un lenguaje que fuera accesible y atractivo para una amplia audiencia. Y as\\xED, a pesar de sus muchas funciones avanzadas, Python sigue siendo transparente y sencillo, con una sintaxis que aborda directamente las necesidades y habilidades de la mayor\\xEDa de los programadores.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre esta brillante sintaxis de programaci\\xF3n y por qu\\xE9 deber\\xEDa tomarse un tiempo para familiarizarse con Python hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
+      "createdAt": "Sat Oct 02 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-tutoriales-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Tutoriales De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFQuieres aprender a programar pero no sabes por d\\xF3nde empezar? Hay tantos tutoriales de codificaci\\xF3n que es f\\xE1cil perderse. Algunos de ellos son demasiado b\\xE1sicos y otros demasiado avanzados. Encontrar el equilibrio adecuado entre demasiado f\\xE1cil y demasiado dif\\xEDcil es complicado. Por eso, en este art\\xEDculo encontrar\\xE1s los mejores tutoriales de codificaci\\xF3n para principiantes. Hemos investigado varios recursos en l\\xEDnea y elegimos los 10 principales que lo ayudar\\xE1n a dominar la codificaci\\xF3n de manera r\\xE1pida y eficiente. Desde Python de nivel principiante hasta tutoriales intermedios de HTML y CSS: puede aprender todas las habilidades esenciales de programaci\\xF3n con estos excelentes recursos. \\xA1Pru\\xE9belos y convi\\xE9rtase en un profesional de la codificaci\\xF3n en muy poco tiempo!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/working-with-files-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
+      "createdAt": "Thu Aug 11 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "trabajar-con-archivos-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Trabajar Con Archivos En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar con archivos es algo que los programadores de nivel de entrada no pueden hacer muy a menudo. No es la parte m\\xE1s emocionante del desarrollo de software, pero es importante. El sistema de archivos es la piedra angular de casi todos los programas que usa en su computadora. Trabajar con archivos en Java puede parecer un poco contradictorio al principio. Una vez que comprende qu\\xE9 lo hace diferente de otros lenguajes de programaci\\xF3n, se vuelve mucho m\\xE1s claro.\nTrabajar con archivos en Java implica crear, leer, actualizar y eliminar archivos. Los archivos se almacenan como cadenas o bytes. Si ha utilizado otros lenguajes de programaci\\xF3n antes, esto le resultar\\xE1 familiar. En Java, hay dos formas distintas de trabajar con archivos: secuencias est\\xE1ndar y la nueva clase \"Archivo\" introducida en la versi\\xF3n 1.1 del lenguaje. Este art\\xEDculo explica c\\xF3mo trabajar con archivos utilizando ambos m\\xE9todos y tambi\\xE9n aborda algunos temas relacionados, como etiquetas New>.../New> y archivos Jar (paquetes autoejecutables).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

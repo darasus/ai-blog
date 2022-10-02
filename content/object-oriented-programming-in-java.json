@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Object-Oriented Programming?\"),mdx(\"p\",null,`Object-oriented programming is a programming paradigm based on the concept of \"objects\". An \"object\" is a combination of code and data, usually represented as a data structure, that performs some useful function. In object-oriented programming, we collect all the related code and data for a specific \"object\" into one computer file, and then create as many instances of that file as we need for our program. Each instance is called an \"object\" and has its own data fields and performs its own functions.\nDifferent programming languages have different rules for the types of objects you can create and how you create and use them. In Java, the most popular language for web development, all code must be contained in a class. A class is a type of object that contains fields and methods that perform some function. Java classes must follow specific rules to be considered \"object-oriented\". These rules are covered in this article.`),mdx(\"h2\",null,\"Object Oriented Programming With Java\"),mdx(\"p\",null,'Java is an object-oriented programming language. All code in Java is contained within a class, and all classes are instances of a parent class called \"java.lang.Object\". Classes in Java must follow certain rules to be considered \"object oriented\". These rules are covered in this article.'),mdx(\"p\",null,\"Classes - In Java, all code is contained within a class. A class is a type of object that contains fields and methods that perform some function.\"),mdx(\"p\",null,\"Fields - A field is a variable declared in a class that can store data for the object.\"),mdx(\"p\",null,\"Methods - A method is a function contained within a class that performs some action on the object.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Encapsulation - The process of combining code and data into a single unit is called encapsulation.\")),mdx(\"h2\",null,\"Overview of OOP in Java\"),mdx(\"p\",null,\"There are 7 major concepts in OOP in Java. Once you understand these concepts, you will have a much better understanding of how to write code in a more object-oriented way.\"),mdx(\"p\",null,\"Classes - A class is a type of object that contains fields and methods that perform some function. Fields - A field is a variable declared in a class that can store data for the object. Constructors - A class can have multiple constructors. A constructor is a method that is automatically called when an instance of the class is created. Objects - When you create an instance of a class, you create an object. Objects contain the data from the fields and call the methods of the class. Inheritance - An object can inherit the code and data from another object. Polymorphism - You can call the same method with different data types. Interfaces - A class can define methods that other classes must implement.\"),mdx(\"h2\",null,\"Pros of OOP in Java\"),mdx(\"p\",null,\"Object-oriented programming has many benefits. Here are just a few of the many benefits of using this programming paradigm.\"),mdx(\"p\",null,\"Reduced Code Duplication - When you use OOP to write your code, you want to avoid duplication in your code as much as possible. Duplicate code can cause bugs, and it makes your code more difficult to maintain.\"),mdx(\"p\",null,\"Improved Readability - OOP makes your code more readable because you are writing code that focuses on what the code is doing instead of what it knows. This makes it easier for other programmers to read the code and understand how it works.\"),mdx(\"p\",null,\"Faster Development Cycles - As mentioned above, OOP makes code more readable. This makes it easier to find and fix bugs in your code.\"),mdx(\"h2\",null,\"Cons of OOP in Java\"),mdx(\"p\",null,\"Despite all the benefits of OOP in Java, there are some cons to this approach as well.\"),mdx(\"p\",null,\"More Complex - Writing code in a more object-oriented way can make your code more complex to write and understand. This can be especially true when writing code that uses inheritance.\"),mdx(\"p\",null,\"More Verbose - Writing code in a more object-oriented way makes the code longer. This can be especially true when writing code that uses inheritance.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Object-oriented programming is a way of writing code that focuses on what the program is doing and not just what it knows. This article covers an overview of OOP in Java, as well as its pros and cons. If you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-performance-tuning",
+      "locale": "en",
+      "title": "Java Performance Tuning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoKAAoAAUAmJZwC7AEfbk9QLAAA/v7IKuVQiUy5L6rraszYh52yQMGILgx/aO64pPWra/AA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-tools",
+      "locale": "en",
+      "title": "The Top Software Engineering Tools",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introducing-javafx",
+      "locale": "en",
+      "title": "Introducing Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-a-software-engineering-career",
+      "locale": "en",
+      "title": "The Benefits of a Software Engineering Career",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJagCdLoAEJMTYNgi24AA4lk6tpd3mbSDK7fU1vTesf970Y1Y1IRYmx9SL/i2zTzxlk6hmb/UyqlENf/U5Au7/k5eh/xpHuB+1bCAqBYnv8AA",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-the-masses",
+      "locale": "en",
+      "title": "Python - A Language for the Masses",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJbACdAEPDmRyPxAAAP799ci2CEwAClmvh+LYJCDlI5D8XnKI36JhP707Hs2lDfrPtafdp8NzP/Lk9Sf/3H/P/UJff+FLz3+TeN+xIAA=",
+      "createdAt": "Sun Apr 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-game-development",
+      "locale": "en",
+      "title": "Python - The Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

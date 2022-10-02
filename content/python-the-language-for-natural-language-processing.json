@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Python used for in Natural Language Processing?\"),mdx(\"p\",null,\"Natural language processing can be performed using many different languages. The choice of language will depend on the type of processing being done, the availability of libraries, ease of use, and performance. Python is often used for natural language processing because of its simplicity, readability and ease of use.\"),mdx(\"p\",null,\"Python is used for Natural Language Processing because it is easy to learn, simple to implement, and has wide range of libraries available. Python is a high-level general purpose language and is programming language that can be used for any type of application. It has a wide variety of libraries that can be used for Natural Language Processing. Python is also open source which makes it a cheaper language to use compared to other commercial languages. Python\\u2019s syntax is easy to read and understand which makes it a good language for Natural Language Processing because it is easier to debug and fix errors in code. Python also has an extensive user community and is widely used amongst researchers and developers in the Natural Language Processing field.\"),mdx(\"h2\",null,\"Word Tokenization\"),mdx(\"p\",null,\"Tokenization is the process of breaking down sentences into \\u201Ctokens\\u201D which are the smallest unit of language that has a meaning. A tokenization algorithm may identify punctuation marks as part of the tokens.\"),mdx(\"p\",null,\"There are different ways to tokenize text:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Word-based tokenization - This involves splitting the text at each word boundary.\"),mdx(\"li\",{parentName:\"ul\"},\"Sentence-based tokenization - This involves splitting the text at each new line boundary.\"),mdx(\"li\",{parentName:\"ul\"},\"Hybrid word and sentence based tokenization - This is a combination of word-based tokenization and sentence-based tokenization.\")),mdx(\"p\",null,\"These methods can be combined to provide more accurate results. For example, hybrid word and sentence based tokenization may be used to remove punctuation marks. This is an important step in many NLP tasks.\"),mdx(\"h2\",null,\"Part-of-speech Tagging\"),mdx(\"p\",null,\"Part-of-speech tagging is the process of labeling words in a sentence with a part of speech such as Noun, Verb, Adjective, etc. Part-of-speech tagging is useful for many natural language tasks such as sentiment analysis and co-occurrence analysis.\"),mdx(\"p\",null,\"There are different algorithms for part-of-speech tagging:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Statistical taggers - These are rule-based taggers that use statistical models to determine the probabilities of different tags being applied to a word in a sentence.\"),mdx(\"li\",{parentName:\"ul\"},\"Rule-based taggers - These use rules and dictionaries to determine the part of speech of a word.\")),mdx(\"p\",null,\"Rule-based taggers are more accurate but slower than statistical taggers. Rule-based taggers are also easier to train and maintain than statistical taggers. Statistical taggers can be used as pre-processing step before the rule-based taggers. Pre-processing involves removing punctuation marks, removing stop words, etc.\"),mdx(\"h2\",null,\"Morphological Analysis\"),mdx(\"p\",null,\"Morphological analysis is the process of identifying and classifying the root words within a sentence. This is used for tasks such as extracting keywords from a sentence, or extracting the root word from which a compound word is formed.\"),mdx(\"p\",null,\"There are many algorithms used for morphological analysis:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Finite-state-machine based - Finite-state-machine based algorithms are rule-based algorithms that rely on finite-state machines.\"),mdx(\"li\",{parentName:\"ul\"},\"Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.\"),mdx(\"li\",{parentName:\"ul\"},\"Statistical based - Statistical based algorithms use statistical models to calculate the probability of a word having a certain root.\")),mdx(\"h2\",null,\"Sentence Detection and Classification\"),mdx(\"p\",null,\"Sentence detection is the process of identifying the beginning and end of a sentence in a piece of text. Sentence detection is useful for many NLP tasks such as part-of-speech tagging, named entity recognition, semantic parsing, and sentiment analysis.\"),mdx(\"p\",null,\"There are different algorithms for sentence detection:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Finite-state-machine based - Finite-state-machine based algorithms are rule-based algorithms that rely on finite-state machines.\"),mdx(\"li\",{parentName:\"ul\"},\"Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.\"),mdx(\"li\",{parentName:\"ul\"},\"Statistical based - Statistical based algorithms use statistical models to calculate the probability of a word being at the start or end of a sentence.\")),mdx(\"p\",null,\"Sentence classification is the process of classifying the sentiment of a sentence. Sentence classification is used for sentiment analysis where the sentiment of the text is important. There are many algorithms used for sentence classification:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Rule-based - Rule-based algorithms use rules and dictionaries to determine the sentiment of a sentence.\")),mdx(\"h2\",null,\"Semantic Parsing\"),mdx(\"p\",null,\"Semantic parsing is the process of determining what the sentence is about. This is useful for finding the topic of a sentence.\"),mdx(\"p\",null,\"There are different algorithms for semantic parsing:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Pattern matching based - Pattern matching based algorithms are rule-based algorithms that match patterns within words.\")),mdx(\"h2\",null,\"Summing up\"),mdx(\"p\",null,\"Choosing the correct language for Natural Language Processing is important because it can have a large impact on performance. Python is often chosen because of its simplicity, readability, and ease of use. It has many libraries available for Natural Language Processing. Python is open source and therefore cheaper to use than commercial languages such as Java and C++. The syntax is easy to read and understand which makes it easier to debug and fix errors in the code. The user community is also large which means you can find help when needed.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "deploying-java-applications",
+      "locale": "en",
+      "title": "Deploying Java Applications",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+      "createdAt": "Wed Mar 24 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-resources-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Resources for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-image-processing",
+      "locale": "en",
+      "title": "Go Language for Image Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBuuYsoDooAA/tKOq5V/+Vh2Idh8D0hvcxmpvoiTzpcdPdTbBvzzHFjc8y1J/Ag0kEYwfFSV5PliwlkWw1pPfbeI3u+z548FId803Pu03VHAAA==",
+      "createdAt": "Wed Apr 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-spring",
+      "locale": "en",
+      "title": "Introduction to Spring",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"No te decepciones por lo que ves\"),mdx(\"p\",null,\"Cuando abre un archivo y encuentra un mont\\xF3n de l\\xEDneas de c\\xF3digo que parecen no tener ning\\xFAn sentido, recuerde que est\\xE1 leyendo el c\\xF3digo de adentro hacia afuera. Cuando un programador escribe un fragmento de c\\xF3digo, lo est\\xE1 escribiendo para s\\xED mismo ante todo. Est\\xE1n usando su propia taquigraf\\xEDa y abreviaturas para mantener las cosas ordenadas y f\\xE1ciles de entender por s\\xED mismos. Esto es especialmente cierto en lenguajes como JavaScript que son m\\xE1s indulgentes que otros lenguajes de programaci\\xF3n. El c\\xF3digo que parece un absoluto galimat\\xEDas al principio es a menudo una se\\xF1al de que el programador ha estado manteniendo las cosas ordenadas por s\\xED mismo. Tambi\\xE9n es una se\\xF1al de que necesitas seguir leyendo para entender lo que est\\xE1 pasando.\"),mdx(\"h2\",null,\"Lea la declaraci\\xF3n (el encabezado)\"),mdx(\"p\",null,'Lo primero que debe hacer al leer c\\xF3digo es abrir la declaraci\\xF3n y leer el c\\xF3digo como si estuviera leyendo un libro. La secci\\xF3n de declaraci\\xF3n generalmente contendr\\xE1 toda la informaci\\xF3n que necesita saber sobre c\\xF3mo se escribe el c\\xF3digo y qu\\xE9 hace realmente. Es el equivalente a leer la secci\\xF3n \"acerca de\" o \"resumen\" de un libro. Si hay algo que no entiende, puede estar seguro de que se explicar\\xE1 en esta primera secci\\xF3n. A menudo es donde podr\\xE1 encontrar el nombre del programador que escribi\\xF3 el c\\xF3digo, en qu\\xE9 idioma se escribi\\xF3 y una descripci\\xF3n general de lo que pretende hacer el c\\xF3digo. Mientras lee la declaraci\\xF3n, aseg\\xFArese de estar atento a las palabras que no entienda. Si hay una palabra que no conoce, aseg\\xFArese de buscarla y escribirla. Esto te ayudar\\xE1 a recordar lo que significa cada palabra y c\\xF3mo se usa en el c\\xF3digo.'),mdx(\"h2\",null,\"No le tengas miedo al vocabulario\"),mdx(\"p\",null,\"Una de las cosas m\\xE1s grandes que pueden hacer tropezar a un codificador principiante que intenta leer c\\xF3digo es tener miedo de ciertas palabras o t\\xE9rminos. Si ve una l\\xEDnea de c\\xF3digo que tiene muchas abreviaturas, acr\\xF3nimos o palabras con las que no est\\xE1 familiarizado, no se asuste. En su lugar, intente leer esa l\\xEDnea de c\\xF3digo como si estuviera leyendo una oraci\\xF3n en ingl\\xE9s. Div\\xEDdelo en sus componentes y trata de entender lo que significa cada parte. A menudo encontrar\\xE1 que las l\\xEDneas de c\\xF3digo misteriosas y aterradoras son realmente d\\xF3ciles cuando las desglosa. Son solo palabras que transmiten un significado ligeramente diferente al de las palabras a las que est\\xE1s acostumbrado.\"),mdx(\"h2\",null,\"No seas t\\xEDmido con el skimming\"),mdx(\"p\",null,\"Todos estamos ocupados y, a veces, simplemente no puede sentarse y leer un archivo de principio a fin. Si ese es el caso, no se sienta mal por hojear el archivo para obtener la informaci\\xF3n que necesita. Si sabe que necesitar\\xE1 comprender una funci\\xF3n o un m\\xF3dulo, no se sienta mal por solo leer las partes del c\\xF3digo que pertenecen a esa funci\\xF3n. Especialmente cuando reci\\xE9n comienza, es normal que solo quiera saber las cosas que se relacionan directamente con su trabajo. No siempre es necesario leer el archivo completo, y no debe sentirse mal por hojear si no tiene tiempo para leerlo en su totalidad.\"),mdx(\"h2\",null,\"Realice un seguimiento de las palabras clave\"),mdx(\"p\",null,\"Los lenguajes de codificaci\\xF3n a menudo est\\xE1n llenos de abreviaturas y acr\\xF3nimos, por lo que definitivamente querr\\xE1 realizar un seguimiento de los t\\xE9rminos que ve con m\\xE1s frecuencia mientras lee el c\\xF3digo. Puede hacer esto manteniendo un diccionario de t\\xE9rminos de c\\xF3digo o abreviaturas a su lado mientras lee. Esto te ayudar\\xE1 a recordar lo que significa cada palabra para que no tengas que volver al diccionario cada pocos segundos. Tambi\\xE9n har\\xE1 que sea mucho m\\xE1s f\\xE1cil para usted comprender qu\\xE9 est\\xE1 haciendo cada l\\xEDnea de c\\xF3digo.\"),mdx(\"p\",null,\"Hacer un seguimiento de las palabras m\\xE1s comunes en el idioma de su elecci\\xF3n le facilitar\\xE1 mucho la comprensi\\xF3n de lo que sucede en el c\\xF3digo de otras personas. Nunca es divertido estar leyendo el c\\xF3digo de otra persona y no entender lo que est\\xE1 haciendo. Esto es particularmente cierto si eres un codificador principiante y est\\xE1s tratando de comprender el c\\xF3digo escrito por un experto. Tener un diccionario a tu lado te ayudar\\xE1 a evitar ese problema y te permitir\\xE1 leer el c\\xF3digo tan f\\xE1cilmente como si hubiera sido escrito para ti.\"),mdx(\"h2\",null,\"Leer el c\\xF3digo\"),mdx(\"p\",null,\"Una vez que haya le\\xEDdo la declaraci\\xF3n y haya entendido las abreviaturas y los t\\xE9rminos que se utilizan, podr\\xE1 leer el c\\xF3digo. Sin embargo, esto no significa leer el c\\xF3digo de arriba a abajo. En su lugar, deber\\xEDa leer el c\\xF3digo de adentro hacia afuera.\"),mdx(\"p\",null,\"Cuando lee de adentro hacia afuera, est\\xE1 leyendo el c\\xF3digo como un todo en lugar de leer cada l\\xEDnea en secuencia. Esto lo ayudar\\xE1 a comprender todo el flujo y el prop\\xF3sito del c\\xF3digo para que pueda comprender mejor c\\xF3mo funciona. Esto es particularmente importante cuando se lee c\\xF3digo escrito por un experto. Cuando lees el c\\xF3digo de adentro hacia afuera, puedes ver todo lo que sucede de una sola vez. Esto lo ayudar\\xE1 a comprender qu\\xE9 est\\xE1 haciendo el c\\xF3digo en su conjunto, as\\xED como tambi\\xE9n d\\xF3nde encaja cada l\\xEDnea de c\\xF3digo en la imagen general.\"),mdx(\"h2\",null,\"Toma descansos y ayuda a tu cerebro\"),mdx(\"p\",null,\"Si bien leer c\\xF3digo puede ser abrumador y dif\\xEDcil a veces, es importante no darse por vencido. Si siente que simplemente no lo est\\xE1 entendiendo, t\\xF3mese un descanso y vuelva al c\\xF3digo m\\xE1s tarde cuando se sienta fresco. Tambi\\xE9n es importante recordar que no se espera que lea y comprenda perfectamente el c\\xF3digo en el primer intento. Incluso si est\\xE1 leyendo c\\xF3digo escrito por un experto, no espere entenderlo perfectamente la primera vez que lo lea. En su lugar, ac\\xE9rquese a la lectura de c\\xF3digo con una actitud paciente y humilde. No se espera que entiendas todo de inmediato, pero s\\xED que hagas tu mejor esfuerzo y sigas intent\\xE1ndolo hasta que lo entiendas.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZACw7YtzuIjmz2muQAA/v4Qnnu8GR4r4o98GJKK/WQo32ziJigBLJaNfUvGDRozFPNx23JW6cndoWkC/tLLi+rX+QfrJeyqgp1pIjmNfZL8d32g+GDnvF4QJn/zbwehi/5/3dGRe7M/+CKvKXzz7GcAAA==",
+      "createdAt": "Wed Jan 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La visi\\xF3n por computadora y el procesamiento de im\\xE1genes son clave para permitir que las m\\xE1quinas entiendan el mundo. Por ejemplo, los autom\\xF3viles modernos pueden detectar peatones con c\\xE1maras en lugar de otros sensores porque la c\\xE1mara puede identificarlos como objetos inm\\xF3viles que son m\\xE1s peque\\xF1os que los \\xE1rboles habituales y tienen una reflectividad diferente de las marcas viales t\\xEDpicas.\nEste art\\xEDculo cubre Python, un lenguaje cada vez m\\xE1s popular para tareas de procesamiento de im\\xE1genes. Es un lenguaje din\\xE1mico como Ruby, que facilita la lectura y escritura de programas. Adem\\xE1s, Python incluye varias bibliotecas \\xFAtiles para el procesamiento de im\\xE1genes, como OpenCV (Computer Vision) y PIL (Python Imaging Library). Si eres nuevo en la programaci\\xF3n, consulta nuestro art\\xEDculo sobre Por qu\\xE9 Python es un excelente primer lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
+      "createdAt": "Mon Mar 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZQCdIExgpiciz8fPagA/vkJ5SxPYwOOTUXTCm09ZIix9hDddPl1b6h2BM99LgtBOJBrWpP+E6cfzEvclIiD29lL1+T/35uWD8HaMFBJVwmimWWDAAAA",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-programar-mejor",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Programar Mejor",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n puede ser un desaf\\xEDo a veces. Incluso si eres un codificador profesional, a veces la l\\xF3gica y los algoritmos simplemente no funcionan. Los mejores codificadores saben c\\xF3mo abordar esos puntos dif\\xEDciles investigando soluciones, estudiando las mejores pr\\xE1cticas e implementando nuevas t\\xE9cnicas.\nLa codificaci\\xF3n es una habilidad que requiere un refinamiento constante para seguir siendo relevante en el mundo tecnol\\xF3gico actual. Si bien la codificaci\\xF3n puede parecer una habilidad muy t\\xE9cnica, en realidad tiene muchos paralelismos con otros campos creativos como la escritura o la m\\xFAsica. Cuanto m\\xE1s codificas, mejor lo haces.\nAprender a codificar de manera efectiva y eficiente es un gran desaf\\xEDo para cualquier persona que trabaje en este campo o que busque incursionar en \\xE9l. Pero una vez que domina los conceptos b\\xE1sicos, se trata de refinar su t\\xE9cnica y aumentar su eficiencia para que pueda completar proyectos m\\xE1s r\\xE1pido y producir resultados de mayor calidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-marcos-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Marcos De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de aplicaciones de hoy en d\\xEDa se enfrentan a una intensa presi\\xF3n para desarrollar productos de alta calidad que satisfagan las m\\xFAltiples necesidades de los usuarios en el menor tiempo posible y con la menor cantidad de recursos posible.\nLa soluci\\xF3n son los marcos de codificaci\\xF3n, que son bibliotecas de c\\xF3digo preescrito dise\\xF1ado para ayudar a los desarrolladores a cumplir con estas demandas. Estos marcos de codificaci\\xF3n facilitan a los codificadores la creaci\\xF3n de aplicaciones que cumplen una funci\\xF3n espec\\xEDfica o un grupo de funciones, pero requieren mucho tiempo y esfuerzo para crearlas desde cero. Hay muchos marcos de codificaci\\xF3n disponibles para programadores que trabajan en proyectos de software. El marco que elija depender\\xE1 de lo que est\\xE9 desarrollando, su nivel de habilidad como codificador y sus objetivos a largo plazo como empleado o aut\\xF3nomo que desarrolla software para empresas u otros profesionales. Siga leyendo para obtener m\\xE1s detalles sobre algunos de los marcos de codificaci\\xF3n m\\xE1s comunes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-aplicacion-javaserver-faces",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Aplicación Javaserver Faces",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) es una implementaci\\xF3n de la arquitectura est\\xE1ndar del componente de interfaz de usuario del lado del servidor llamada \"Facelets\". Esto convierte a JSF en un marco que utiliza marcado XML en lugar de c\\xF3digo para crear y representar interfaces de usuario.\nUna aplicaci\\xF3n JavaServer Faces b\\xE1sicamente es una colecci\\xF3n de vistas, administrada por un controlador, almacenada en un archivo de almacenamiento e implementada en un contenedor de servlets. Estas aplicaciones se conocen como \"peso pesado\" porque hay muchas piezas diferentes involucradas para construirlo.\nComo sabemos, la tecnolog\\xEDa JavaServer Faces viene con varias bibliotecas de etiquetas integradas y bibliotecas predeterminadas, como el mensaje de acci\\xF3n est\\xE1ndar, la regla de navegaci\\xF3n, el controlador de enfoque, etc. Cada biblioteca ofrece controladores o acciones que le permiten usar diferentes componentes en su aplicaci\\xF3n. Estos componentes se pueden combinar de cualquier manera que desee para cumplir con sus requisitos espec\\xEDficos.\nEn este art\\xEDculo, repasaremos lo que necesita para comenzar a crear un nuevo proyecto de aplicaci\\xF3n JavaServer Faces en IntelliJ IDEA.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "implementacion-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Implementación De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aplicaciones-ricas-de-internet-con-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Ricas De Internet Con Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las aplicaciones de Internet enriquecidas, o RIA, son aplicaciones basadas en web que presentan una mayor interactividad que los sitios web est\\xE1ndar. En lugar de simplemente permitir que los usuarios accedan a la informaci\\xF3n de un sitio web, las aplicaciones RIA generalmente brindan a los usuarios la capacidad de tomar medidas sobre ese contenido. Por ejemplo, en lugar de simplemente proporcionar a los usuarios informaci\\xF3n sobre un producto y su precio, una aplicaci\\xF3n RIA podr\\xEDa permitir a los usuarios agregar el producto a un carrito de compras y completar el proceso de compra.\nEste art\\xEDculo le presenta los RIA de Java para que pueda comprender por qu\\xE9 los desarrolladores de Java deber\\xEDan usarlo para desarrollar RIA. El objetivo de este art\\xEDculo es explicarle por qu\\xE9 Java es particularmente adecuado para desarrollar estas aplicaciones y por qu\\xE9 deber\\xEDa considerar usarlo si planea crear una.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-computacion-paralela",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Computación Paralela",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Si ha le\\xEDdo sobre el mundo de la computaci\\xF3n paralela, sabr\\xE1 que es un campo que est\\xE1 creciendo r\\xE1pidamente en importancia. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente. Esta capacidad de ejecutar m\\xFAltiples procesos simult\\xE1neamente conduce a resultados m\\xE1s r\\xE1pidos y eficientes. Las aplicaciones como la inteligencia artificial, el reconocimiento de im\\xE1genes y el procesamiento del lenguaje natural son campos que pueden beneficiarse enormemente de las t\\xE9cnicas de computaci\\xF3n paralela. Debido a esta demanda de t\\xE9cnicas de computaci\\xF3n paralela, existen muchos lenguajes de programaci\\xF3n disponibles espec\\xEDficamente para este prop\\xF3sito. El lenguaje Go es uno de esos ejemplos. En este art\\xEDculo, explicaremos qu\\xE9 es Go y sus beneficios para la computaci\\xF3n paralela.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
+      "createdAt": "Tue Nov 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "tutorial-de-typescript-una-guia-para-principiantes-de-typescript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Tutorial De TypeScript: Una Guía Para Principiantes De TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si ha estado siguiendo el mundo de la programaci\\xF3n durante los \\xFAltimos a\\xF1os, probablemente ya haya o\\xEDdo hablar de TypeScript. Esto se debe a que es una de las formas m\\xE1s interesantes y accesibles de comenzar con los lenguajes de programaci\\xF3n modernos. Desde su lanzamiento en 2014, TypeScript se ha vuelto extremadamente popular entre los desarrolladores de todo el mundo, incluidos aquellos que generalmente evitan cualquier software o herramienta nueva que a\\xFAn se encuentre en la fase de prueba beta.\nEste art\\xEDculo cubrir\\xE1 todo lo que necesita saber sobre TypeScript y por qu\\xE9 exactamente este lenguaje ha llamado la atenci\\xF3n de tantos programadores. Tambi\\xE9n incluye una lista de tutoriales sobre c\\xF3mo comenzar a usar TypeScript lo m\\xE1s r\\xE1pido posible para que tambi\\xE9n pueda usarlo de manera efectiva en sus proyectos futuros.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

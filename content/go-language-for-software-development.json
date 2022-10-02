@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Why Go?\"),mdx(\"p\",null,`As we mentioned, programming languages are designed to facilitate software development. If a language is designed well, it should be easy to write correct code that is efficient and can be used to solve a variety of problems. A good programming language should also be easy to learn and understand.\nHere are some key characteristics of the Go programming language that make it an excellent choice for software development.`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Simplicity - Go is designed to be simple and easy to learn. Its syntax is meant to be expressive enough to write complex algorithms and work with complex data structures but at the same time easy enough for a beginner to grasp the core concepts behind the language. This simplicity makes it an excellent choice for beginners and for companies that want to employ a team of programmers with varying levels of experience.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Performance - Go is a compiled language that is statically typed. It also uses a technique called escape analysis to make sure that memory is managed efficiently. This makes it generally perform faster than a language like Python, which is interpreted, dynamically typed, and uses a reference counting system to manage memory.\"))),mdx(\"h2\",null,\"Why not Go?\"),mdx(\"p\",null,\"Now that we have established the many benefits of the Go programming language, it is also important to highlight its limitations and some aspects that might make it less desirable for certain types of projects.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"The Go Language doesn\\u2019t support functional programming. This means that some modern paradigms like lazy evaluation, error handling by retrying or a combination of both, and the creation of hierarchical data structures, which come with languages like Haskell, are not possible with Go.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"The absence of generics in Go makes it difficult to write efficient code that works with a variety of data types. This is especially true when dealing with collections like maps and arrays that are optimized for specific types like string, int, etc. Languages like Java and C++ have worked around this limitation by implementing frameworks like Guava and a standard template library. However, there is no such framework or library with Go.\"))),mdx(\"h2\",null,\"What\\u2019s next?\"),mdx(\"p\",null,\"As we have seen, the Go programming language is a great solution for many software development problems. However, it is incomplete as a programming language without libraries, packages, and frameworks that can be used to extend its functionality.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Libraries - A library is a collection of prewritten code that can be used to solve specific problems. The advantage of using libraries with Go is that you can use code that has been written and tested by other developers and can be up and running with minimal effort. This makes libraries the perfect way to extend the functionality of the Go language with new standard functions and data structures, or add support for third-party services that don\\u2019t come with the language itself.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Packages - A package is a collection of related Go source code. This code can consist of a single source file or a group of files that are related to each other and that have been put together in a folder with a special name. Packages are the best way to organize and share reusable Go code with your team or with the larger programming community.\"))),mdx(\"h2\",null,\"Go Language Basics\"),mdx(\"p\",null,\"Here are some of the core concepts behind the Go language that you should be familiar with if you plan on developing software with it.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Go is statically typed. This means that the language has a set of rules that defines what each variable is used for, what type it is, and what operation can be performed on it. This makes it easy to detect mistakes early in the development process when the compiler detects an error, like an attempt to add two numbers of different types.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Go has a couple of built-in types, like maps, slices, and channels, that are used for basic data structure operations. These can be extended to create custom types that can be used as parameters for functions, declarations for variables, etc.\"))),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`The Go programming language is the result of a collaboration between Google and a large team of open-source contributors. It was designed as an alternative to languages like C and C++ that have been around for a long time.\nThis modern language is simple and easy to learn, but at the same time it is powerful enough to build complex, scalable software that can be used to solve a variety of business problems.`),mdx(\"p\",null,`For a business, choosing the right programming language is an important decision that will impact the way their software is built for years to come.\nWe hope that this article has helped you understand why Go is a modern programming language that is meant to be fast, efficient, and scalable. We also hope that you have gained an understanding of some of the key concepts behind the language and why it is a great choice for many businesses and software development projects`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoKAAoAAUAmJbACdFkAAbdJX3NBm/GgAP78+H5fOKERbjKsSQ9P4h/dFmm9gchXpTW/Wb51qoe0KPzf59y8/DXS0/YcQo9/+d6C//M7jJt1/ui49P/3tz9CiZthfimPPjNTd8JP5AAAAA==",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-hibernate",
+      "locale": "en",
+      "title": "Introduction to Hibernate",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-everyone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-everyone",
+      "locale": "en",
+      "title": "Python - A Language for Everyone",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJbACdAaLN5S4ZSKyNZqD1AAA/sYHo//+hxpetvtkSoyoiLV0Lieb3NvRLk2SsuD25lcaJHL78S5ZiV36k4f3ySR/B/IhP8d/RUgsF3rupU/z2h8s77xfl/8eqLG+Xj5RODOjEfrqB5PjRP5t1m7vnrY8pn4/0L/+33+1b0Dy3SfkTNcAAA==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-mobile-development",
+      "locale": "en",
+      "title": "Go Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-scraping",
+      "locale": "en",
+      "title": "Go Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoKAAoAAUAmJZwC7AEfbk9QLAAA/v7IKuVQiUy5L6rraszYh52yQMGILgx/aO64pPWra/AA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-tools",
+      "locale": "en",
+      "title": "The Top Software Engineering Tools",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZwAD5AwhczLy9AZ4AAA/vb/6Y9PfxoP3X9HoI8Ceg5h7lZpD8R9cz8mb+//1p4pBTqLBvp+bvp0qEWK/imDV6A/xmjNys7umuX+j6V77j/4L++LzISh4eOm/H/wStucnqSqcAaWcEusX9CxLObOlAAAAA==",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-difference-between-javascript-and-typescript",
+      "locale": "en",
+      "title": "The Difference between JavaScript and TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

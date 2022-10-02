@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is JavaFX?\"),mdx(\"p\",null,`JavaFX is a technology for creating rich client applications on different platforms, such as mobile devices and desktop computers. It is a scene-based, declarative programming language that is designed for composability, extensibility, and high performance.\nJavaFX can also be used to create applications for embedded systems, such as media players, digital signal processors, and medical instruments.`),mdx(\"p\",null,`As mentioned above, JavaFX is a technology for creating applications and user interfaces. It allows you to create GUIs and applications using a combination of visual tools and code. In other words, you can use a combination of code and visual tools to create GUIs and applications.\nAlthough the official term for this concept is a \\u201Cvisual GUI builder,\\u201D it has been widely criticized for being misleading. The idea behind visual GUI builders is to allow you to create the GUI for your application using a visual interface, rather than writing code.`),mdx(\"h2\",null,\"Why use JavaFX?\"),mdx(\"p\",null,`JavaFX is a modern and standardized UI framework, which empowers you to create simple and complex applications. JavaFX is a platform that allows you to create and deploy high-performance apps that run on different platforms, including desktop computers, mobile devices, and embedded systems.\nSince JavaFX is a standard Java technology, it enables portability and interoperability across various platforms, including iOS and Android. It is also compatible with other Java-based technologies, such as Java SE and Java ME.\nMoreover, JavaFX is built on the latest version of the Java platform, and it is completely open source. So, it is highly extensible and has a large ecosystem of tools and libraries that support it.`),mdx(\"h2\",null,\"Benefits of using JavaFX\"),mdx(\"p\",null,\"Greater control over the UI - You have full control over the UI components, and you can customize them as per your requirements. This is because JavaFX is a scene-based and declarative programming language.\"),mdx(\"p\",null,\"Consistent cross-platform experience - Users expect a consistent experience across platforms. JavaFX allows you to create a single application that provides the same experience across different platforms.\"),mdx(\"p\",null,\"Improved performance on mobile - JavaFX can help you improve the performance of your app on mobile devices by enabling you to offload complex operations to remote servers.\"),mdx(\"p\",null,\"Ease of deployment - Developers often face challenges while deploying apps across different devices. JavaFX simplifies the process of deploying apps and allows you to create mobile apps using standard Java APIs.\"),mdx(\"h2\",null,\"Limitations of JavaFX\"),mdx(\"p\",null,\"JavaFX is a mature technology that is well accepted in the developer community. However, it\\u2019s important to note that it has certain limitations, which are as follows\"),mdx(\"p\",null,`Limited support - The latest version of the JavaFX framework is version 2, which was released in 2014. There is no information available about the next version of JavaFX.\nJavaFX is compatible with the Java platform and runs on any platform where the Java platform is supported. However, it will be a challenge for the Java community to keep up with the latest UI trends and technologies.\nJavaFX is a declarative language, and as such, it is not a full-stack framework.`),mdx(\"h2\",null,\"Key takeaways\"),mdx(\"p\",null,\"JavaFX is a technology for creating rich client applications on different platforms. It is a scene-based, declarative programming language that is designed for composability, extensibility, and high performance.\"),mdx(\"p\",null,\"JavaFX allows you to create a single application that provides the same experience across different platforms. JavaFX is a mature technology that is well accepted in the developer community. It has certain limitations, however.\"),mdx(\"p\",null,\"Despite these limitations, JavaFX is a great option for developing cross-platform, modern applications. If you are looking for solutions to ease the UI development process and create consistent cross-platform apps, JavaFX can be a great option.\"),mdx(\"p\",null,\"Now that you know what JavaFX is and what it brings to the table, it\\u2019s time to explore where it\\u2019s being used. Stay tuned!\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-network-administration",
+      "locale": "en",
+      "title": "Go Language for Network Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdDBACIvMFFw35AUAAP79gdQ61/8jFcNFaDIm6ro2J3A952YoF7dTlujclxSodL2EnzW76bf9v5jrezi5Wer37ru964jcNHqn/Cohf/n6oTZaf4TmnB/8vX/3OTP8qH//qBj/EJKwVkieDclSCTbs3sNSAAA=",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-beginners",
+      "locale": "en",
+      "title": "Go Language for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBuuYsoDooAA/tKOq5V/+Vh2Idh8D0hvcxmpvoiTzpcdPdTbBvzzHFjc8y1J/Ag0kEYwfFSV5PliwlkWw1pPfbeI3u+z548FId803Pu03VHAAA==",
+      "createdAt": "Wed Apr 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-spring",
+      "locale": "en",
+      "title": "Introduction to Spring",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-big-data",
+      "locale": "en",
+      "title": "Go Language for Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-code-snippets-effectively",
+      "locale": "en",
+      "title": "How to Use Code Snippets Effectively",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJQBOhgjoMhJW1pqZ0AAA/vsmUD4oEAf5e8EEQAuNd5f2lUdeTv/05nXET+xr+Z7ZHZYboFNSvYqZp6730pbnKL5W/yhee1Wzxxmg9YslAz/Zb1QO5a792Yv64+S8/fe+xwAA",
+      "createdAt": "Fri Jun 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-beginners-guide",
+      "locale": "en",
+      "title": "Python - The Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-gui-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoKAAoAAUAmJaQAApwKk8QAAP7+OJxlkdnD8wwBlQIou3D4I6gU+/xdRq/at/uJWv/65PniOuL7DYCFq0gn4BVt4vZVcAAA",
+      "createdAt": "Tue Aug 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-gui-programming",
+      "locale": "en",
+      "title": "Go Language for Gui Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has become an attractive option for developers working on software projects that require fast performance, ease of deployment, and compact code.\nGo was developed by Google as an alternative to C++ for programs that are memory- and performance-intensive. Its simple syntax and powerful features have made it especially popular among programmers who specialize in building compilers and interpreters.\nGo is a general-purpose programming language with support for structured methods, visibility qualifiers, and embedded type definitions. It\\u2019s a statically typed language with support for interfaces,Ad hoc polymorphism, and type embedding.\nIn this blog post, we explore the considerations you need to make when choosing a programming language for GUI programming. Read on to learn more about the pros and cons of using Go for your next GUI project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

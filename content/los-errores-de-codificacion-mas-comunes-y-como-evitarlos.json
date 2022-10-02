@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFNo sabe c\\xF3mo buscar errores?\"),mdx(\"p\",null,\"Los errores son un problema com\\xFAn al codificar, pero puede detectar muchos de ellos antes de que se conviertan en un problema, o antes de que provoquen que su c\\xF3digo se rompa por completo. Hay muchas formas de comprobar si hay errores, como las siguientes:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},'Usando la funci\\xF3n de \"depuraci\\xF3n\" de su lenguaje de programaci\\xF3n elegido.'),mdx(\"li\",{parentName:\"ul\"},\"Usar \\u201Cafirmaciones\\u201D para informarle cuando no se cumple una condici\\xF3n.\"),mdx(\"li\",{parentName:\"ul\"},'Uso de \"registro\" para almacenar un registro de errores en un archivo.'),mdx(\"li\",{parentName:\"ul\"},'Usar el \"manejo de errores\" para detectar errores y manejarlos con gracia.'),mdx(\"li\",{parentName:\"ul\"},'Usar \"pruebas unitarias\" para verificar que cada parte de su c\\xF3digo sea correcta.')),mdx(\"p\",null,\"Incluso si hace todo bien, todav\\xEDa existe la posibilidad de que su c\\xF3digo se rompa. No puede hacer mucho para evitar errores, por lo que es importante saber c\\xF3mo identificarlos y corregirlos con una interrupci\\xF3n m\\xEDnima para su proyecto.\"),mdx(\"h2\",null,\"Olv\\xEDdese de cambiar el nombre o cambiar el alcance de las variables\"),mdx(\"p\",null,'Al codificar, es mejor crear una variable para cada elemento que desee representar. Sin embargo, tambi\\xE9n es importante elegir buenos nombres de variables. Si no le da a sus variables un nuevo nombre o las \"re-aplica\", entrar\\xE1n en conflicto con otras variables, causando errores.'),mdx(\"p\",null,'Si usa la variable incorrecta, el programa no generar\\xE1 el resultado correcto. Para evitar esto, debe elegir el nombre de variable correcto. Si no le da a sus variables un nuevo nombre o las \"re-aplica\", entrar\\xE1n en conflicto con otras variables, causando errores. Esto puede suceder si olvida cambiar el nombre de una variable cuando cambia su prop\\xF3sito en el c\\xF3digo.'),mdx(\"p\",null,'Las convenciones de nomenclatura de variables son diferentes para cada idioma, pero muchos programadores siguen la convenci\\xF3n de \"caso de camello\" y agregan un prefijo a cada nombre de variable. Por ejemplo, podr\\xEDa usar \"firstName\" para el nombre de una persona y \"lastName\" para su apellido.'),mdx(\"h2\",null,\"\\xBFConfundido sobre el alcance?\"),mdx(\"p\",null,'El alcance se refiere a d\\xF3nde es visible una variable y cu\\xE1nto tiempo dura. Las variables en el \"nivel superior\" de un programa no se limitan a una parte espec\\xEDfica del c\\xF3digo. Se puede acceder a ellos desde cualquier lugar. Las variables globales son visibles en todo el programa. Las variables locales solo son visibles en una funci\\xF3n o parte del c\\xF3digo.'),mdx(\"p\",null,'El alcance (o la falta del mismo) es a menudo la raz\\xF3n de muchos errores y fallas en la programaci\\xF3n. Por ejemplo, una funci\\xF3n que se basa en una variable global puede fallar cuando cambia el valor de esa variable global. Para evitar problemas de alcance, es mejor usar variables \"locales\" tanto como sea posible y evitar colocar variables en el \"nivel superior\" del programa. Los problemas de alcance son generalmente f\\xE1ciles de detectar. Si su c\\xF3digo no funciona correctamente, podr\\xEDa deberse a un problema de alcance.'),mdx(\"h2\",null,\"Uso incorrecto de declaraciones condicionales\"),mdx(\"p\",null,\"Las declaraciones condicionales pueden ser muy \\xFAtiles, pero deben usarse correctamente. Si tiene una condici\\xF3n pero no la sigue con la subrutina correcta, podr\\xEDa terminar con un error.\"),mdx(\"p\",null,'Por ejemplo, si tiene una condici\\xF3n que exige \"x > y\" pero escribe \"x y\", el programa no funcionar\\xE1 correctamente. Para evitar esto, debe asegurarse de conocer la diferencia entre \"mayor que\" y \"menor que\", as\\xED como la diferencia entre \"igual\" y \"no igual\". Tambi\\xE9n es importante conocer el orden de las operaciones para las declaraciones condicionales. Si coloca los par\\xE9ntesis en el orden incorrecto, podr\\xEDa romper todo el enunciado.'),mdx(\"h2\",null,\"Uso excesivo de sentencias condicionales\"),mdx(\"p\",null,\"Las declaraciones condicionales son incre\\xEDblemente \\xFAtiles, pero su uso excesivo puede causar problemas. Si usa una declaraci\\xF3n condicional cuando no la necesita o si usa varias condiciones sin combinarlas, podr\\xEDa generar un error.\"),mdx(\"p\",null,'Por ejemplo, si usa una declaraci\\xF3n condicional para verificar una ID de usuario v\\xE1lida cuando deber\\xEDa usar una funci\\xF3n de \"regex\", es posible que obtenga un error. Para evitar esto, debe conocer la diferencia entre entradas v\\xE1lidas e inv\\xE1lidas. Tambi\\xE9n debe saber cu\\xE1ndo usar una declaraci\\xF3n condicional y cu\\xE1ndo usar una \"expresi\\xF3n regular\".'),mdx(\"h2\",null,\"Looping excesivo sin condiciones ni regeneraci\\xF3n\"),mdx(\"p\",null,`Los bucles son geniales, pero no deben usarse incorrectamente. Por ejemplo, no debe usar un bucle sin una condici\\xF3n. Si realiza un ciclo mientras una condici\\xF3n es falsa, el programa se congelar\\xE1. Si realiza un bucle para siempre, el programa nunca terminar\\xE1.\nLos bucles tambi\\xE9n son \\xFAtiles para regenerar datos. Si tiene una lista de datos y desea regenerar una nueva lista con nuevos datos, un ciclo puede ayudarlo a hacerlo. Dicho esto, los bucles deben usarse correctamente y no en exceso. Debe saber cu\\xE1ndo puede usar un bucle y cu\\xE1ndo no.`),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"La codificaci\\xF3n es un desaf\\xEDo, pero tambi\\xE9n es una habilidad que se puede aprender con pr\\xE1ctica y paciencia. Sin embargo, es importante conocer estos errores de codificaci\\xF3n comunes antes de que interrumpan su proyecto. Si tiene cuidado con la forma en que escribe su c\\xF3digo, deber\\xEDa poder evitar estos errores. Puede ser un desaf\\xEDo al principio, pero a medida que adquiera m\\xE1s experiencia, el proceso ser\\xE1 m\\xE1s f\\xE1cil.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAreEru2AAP7zR9jGqPJGadLi9+v/tC82cNq9UFopDMSFDzK9Y+Efid49hRnu4PGnO2k2cc8Xc+0q6D+MFCcFuRmt0TXilwv/tQo3/TwE/8w3hGf/qYV4u5fub/+7J/6kAAAA",
+      "createdAt": "Tue Feb 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-administracion-de-sistemas",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para La Administración De Sistemas",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los administradores de sistemas de hoy tienen muchas herramientas a su disposici\\xF3n. Cuando se trata de administraci\\xF3n y monitoreo de sistemas, la lista de soluciones disponibles es casi interminable. Existen numerosas ofertas basadas en la nube que facilitan el monitoreo del uso de recursos y el tiempo de actividad. Para la supervisi\\xF3n y el an\\xE1lisis del rendimiento, existen soluciones espec\\xEDficas de la plataforma, como New Relic o App Dynamics para aplicaciones escritas en Python u otros lenguajes populares. Tambi\\xE9n existen soluciones generales como Statsd y Prometheus para recopilar m\\xE9tricas de rendimiento de cualquier programa en su red. La lista contin\\xFAa: puede encontrar cualquier cosa, desde utilidades de registro est\\xE1ndar hasta controladores de redes definidas por software (SDN), si sabe d\\xF3nde buscar.\nHay tantas herramientas diferentes que elegir una para aprender como administrador del sistema puede ser un desaf\\xEDo. En este art\\xEDculo, exploraremos algunas de las opciones m\\xE1s relevantes cuando se trata de tareas de administraci\\xF3n del sistema y sus necesidades \\xFAnicas como administradores del sistema con un enfoque en Python debido a su uso entre SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJbACdAEP1hNnwnSgAP78O3gp2U2JfyaY+DeGoJ9UNlv3HkYt9yBMvP1T+eNn4VFP+T5Knz6bXyNebVv1YnpOTvyPAh8pFGAqgz/+qn7kYAAA",
+      "createdAt": "Fri May 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Encontrar La Mejor Ayuda De Codificación En Línea",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDa que encontrar ayuda con la codificaci\\xF3n inform\\xE1tica es una de las industrias en l\\xEDnea de m\\xE1s r\\xE1pido crecimiento? \\xBFSab\\xEDa tambi\\xE9n que hay una gran cantidad de sitios web donde puede encontrar la misma ayuda de codificaci\\xF3n? Con tantos lugares para buscar ayuda con la codificaci\\xF3n, tiene sentido que haya tantos profesionales que no parecen encontrar las mejores opciones. \\xA1Pero no te preocupes! Hay un mont\\xF3n de grandes recursos por ah\\xED si sabe d\\xF3nde buscar.\nEn esta publicaci\\xF3n de blog, exploraremos algunos de los lugares m\\xE1s efectivos en l\\xEDnea para encontrar los mejores ayudantes de programaci\\xF3n. Estas plataformas facilitan que los codificadores se conecten y colaboren, al mismo tiempo que permiten a las empresas y a las personas encontrar asistentes virtuales de primer nivel cuando m\\xE1s los necesitan. \\xBFEntonces, Qu\\xE9 esperas? \\xA1Sigue leyendo y descubre tus nuevos lugares favoritos para obtener ayuda con la codificaci\\xF3n hoy mismo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+      "createdAt": "Wed Mar 24 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-recursos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Recursos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFNuevo en la codificaci\\xF3n? Hay muchos recursos disponibles, pero pueden ser abrumadores. \\xBFCu\\xE1les valen la pena? \\xBFC\\xF3mo encuentras los mejores? El espacio de codificaci\\xF3n est\\xE1 en constante crecimiento y cambio. Todos los d\\xEDas aparecen nuevas herramientas, sitios y conceptos. Navegar por este paisaje como principiante puede ser dif\\xEDcil.\nLa codificaci\\xF3n es una habilidad en demanda que ha estado creciendo r\\xE1pidamente en demanda en los \\xFAltimos a\\xF1os. Cada vez m\\xE1s personas quieren aprender a codificar, pero no siempre hay un recurso f\\xE1cil para los principiantes que buscan comenzar. Con tantas opciones disponibles, puede ser dif\\xEDcil saber por d\\xF3nde empezar a aprender los conceptos b\\xE1sicos de la codificaci\\xF3n. Incluso si no es un principiante completo, estos son excelentes lugares para continuar aprendiendo sobre codificaci\\xF3n e incluso avanzar en su conocimiento sobre temas espec\\xEDficos que m\\xE1s le interesen.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJbACdAEfbjEcZnoAAP7+RRpOxohNKxG9xyYQeGDRszqwYoWJj9wYKWaroL3rhtO2NC3jzOr3/KeUVfcQ3/F+H8KmGHaX/8W+kf0ce4Om1MLQAAA=",
+      "createdAt": "Tue Apr 13 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFCu\\xE1l es el mejor lenguaje de programaci\\xF3n para desarrollar sitios web? Si est\\xE1 buscando desarrollar sitios web din\\xE1micos e integrarlos con bases de datos, Python podr\\xEDa ser la opci\\xF3n adecuada para usted.\nSi es programador o planea convertirse en uno, es importante saber qu\\xE9 tecnolog\\xEDas ser\\xE1n \\xFAtiles en su futura carrera. A medida que el mundo del desarrollo de software cambia de aplicaciones de escritorio independientes a servicios accesibles por Internet, surgen nuevos lenguajes de programaci\\xF3n casi todos los meses para satisfacer esta demanda.\nEn esta publicaci\\xF3n de blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python si desea convertirse en desarrollador web y qu\\xE9 tipo de oportunidades de trabajo le brinda. Adem\\xE1s, enumeraremos algunos ejemplos de empresas que utilizan Python en sus productos, as\\xED como algunos recursos sobre c\\xF3mo comenzar a aprender este lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "idioma-go-para-devops",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Idioma Go Para Devops",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando pensamos en DevOps, pensamos en formas de hacer que las operaciones sean m\\xE1s s\\xF3lidas, eficientes y r\\xE1pidas. En t\\xE9rminos simples, queremos reducir el tiempo entre la escritura de un c\\xF3digo y su preparaci\\xF3n para la producci\\xF3n.\nA menudo vemos desarrolladores que escriben c\\xF3digos desordenados que son dif\\xEDciles de leer o comprender. Lo mismo ocurre con los ingenieros de operaciones a quienes les resulta dif\\xEDcil depurar diferentes errores en producci\\xF3n. Aqu\\xED es donde entra en juego el lenguaje Go.\nDesde su lanzamiento en 2009, Go ha ganado una inmensa popularidad entre los desarrolladores de software de todo el mundo, quienes incluso lo han denominado \"lo nuevo\". Fue desarrollado por Google como una alternativa a otros lenguajes que eran lentos y usaban mucha memoria en ese momento.\nSi es un desarrollador que desea implementar DevOps con la ayuda de Go, \\xA1este art\\xEDculo es para usted! Aqu\\xED encontrar\\xE1s todo lo que necesitas saber sobre Go y su uso en DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Language Para La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La tecnolog\\xEDa de inteligencia artificial est\\xE1 creciendo r\\xE1pidamente en todos los sectores. Todas las organizaciones importantes buscan adoptar tecnolog\\xEDa de inteligencia artificial para automatizar procesos, hacer que su negocio sea m\\xE1s eficiente y mejorar la experiencia de sus clientes. Sin embargo, la mayor\\xEDa de estas empresas luchan por elegir las herramientas y los marcos de trabajo de aprendizaje autom\\xE1tico adecuados para sus proyectos de IA, ya que hay varias opciones disponibles en el mercado.\nSi tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n o desarrollar una aplicaci\\xF3n que requiera algoritmos de inteligencia artificial, deber\\xEDa considerar usar Golang para su desarrollo de software.\nGo es un lenguaje de programaci\\xF3n creado por Google y es una de las opciones m\\xE1s populares para desarrollar una aplicaci\\xF3n de IA o implementar un sistema de IA en su organizaci\\xF3n debido a sus potentes funciones. Exploremos por qu\\xE9 Go es una excelente opci\\xF3n para desarrollar aplicaciones de inteligencia artificial y c\\xF3mo se puede usar para construir un sistema de IA estable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
+      "createdAt": "Mon Mar 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-un-lenguaje-versatil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Versátil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa existen muchos lenguajes de programaci\\xF3n. Cada uno tiene su propio conjunto \\xFAnico de caracter\\xEDsticas, fortalezas y debilidades. Algunos son de prop\\xF3sito m\\xE1s general que otros; algunos son m\\xE1s adecuados para tareas espec\\xEDficas.\nEste art\\xEDculo explorar\\xE1 el lenguaje de programaci\\xF3n Python y por qu\\xE9 es tan \\xFAtil saber si est\\xE1 interesado en convertirse en desarrollador de software. Despu\\xE9s de leer este art\\xEDculo, debe tener una comprensi\\xF3n s\\xF3lida de qu\\xE9 es Python y por qu\\xE9 se destaca de otros lenguajes de programaci\\xF3n populares como C ++, Java, JavaScript y otros.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "implementacion-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Implementación De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

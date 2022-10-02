@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFQu\\xE9 es ir?\"),mdx(\"p\",null,\"Go es un lenguaje de programaci\\xF3n de c\\xF3digo abierto creado por Google en 2007. Se escribe y compila est\\xE1ticamente y se dirige a una amplia variedad de plataformas como Windows, Linux, Mac OS e incluso dispositivos m\\xF3viles. Go es conocido por su simplicidad, claridad y eficiencia. Esto lo convirti\\xF3 en el lenguaje elegido por muchos desarrolladores que buscan crear microservicios o escribir aplicaciones de back-end que se integren con otros sistemas. Go es un lenguaje de programaci\\xF3n de prop\\xF3sito general que se puede aplicar para resolver muchos problemas. No est\\xE1 optimizado para ning\\xFAn caso de uso en particular. Esto lo convierte en una excelente opci\\xF3n para una variedad de aplicaciones. El lenguaje ha ido ganando popularidad en los \\xFAltimos a\\xF1os debido al aumento de su adopci\\xF3n por parte de las empresas tecnol\\xF3gicas. Algunas de las compa\\xF1\\xEDas m\\xE1s notables que usan Go incluyen Google, Dropbox y Uber.\"),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 elegir Big Data?\"),mdx(\"p\",null,\"Las empresas que dependen de grandes conjuntos de datos para operar necesitan un software que pueda manejar esos datos de manera eficiente. Esto puede ser complicado ya que los grandes datos a menudo no est\\xE1n estructurados y cambian con frecuencia. Muchos lenguajes de programaci\\xF3n se dise\\xF1aron para conjuntos de datos m\\xE1s peque\\xF1os y no son eficientes para analizar big data. Go fue dise\\xF1ado para manejar de manera eficiente grandes conjuntos de datos y trabajar con datos no estructurados. Go est\\xE1 compilado y tipificado est\\xE1ticamente, lo que significa que el compilador puede detectar errores antes en el proceso de desarrollo. Esto y su uso eficiente de los recursos hacen que el lenguaje sea muy adecuado para los desaf\\xEDos de los grandes datos.\"),mdx(\"p\",null,\"Aunque Go se ha utilizado en el espacio de la ciencia de datos durante alg\\xFAn tiempo, recientemente ha visto un aumento en la adopci\\xF3n por parte de los ingenieros de datos. Esto se debe a la simplicidad, el rendimiento y las comunidades s\\xF3lidas del lenguaje. Esto ha convertido a Go en una excelente opci\\xF3n para las empresas que buscan crear software que pueda manejar grandes conjuntos de datos.\"),mdx(\"h2\",null,\"\\xBFC\\xF3mo es ir mejor para big data?\"),mdx(\"p\",null,\"Para comprender mejor c\\xF3mo Go es mejor para big data, es importante comprender primero c\\xF3mo funcionan los lenguajes para big data. Los conjuntos de datos m\\xE1s grandes a menudo requieren sistemas distribuidos creados en torno a un concepto llamado programaci\\xF3n paralela. La programaci\\xF3n paralela es la ejecuci\\xF3n simult\\xE1nea de c\\xF3digo a trav\\xE9s de m\\xFAltiples procesadores. Esto es necesario para recopilar, procesar y almacenar grandes conjuntos de datos de manera eficiente. La programaci\\xF3n paralela generalmente se logra a trav\\xE9s de lenguajes especializados dise\\xF1ados para sistemas distribuidos. Estos lenguajes pueden ser dif\\xEDciles de aprender e implementar en la producci\\xF3n. Go fue dise\\xF1ado para sistemas distribuidos desde el principio. Esto lo convierte en una opci\\xF3n f\\xE1cil para las empresas que buscan un lenguaje para big data.\"),mdx(\"p\",null,\"Go facilita el manejo de datos no estructurados, lo cual es com\\xFAn en grandes conjuntos de datos. Con soporte integrado para cosas como Unicode y estructuras de datos, Go simplifica mucho la organizaci\\xF3n e interpretaci\\xF3n de grandes cantidades de datos. Esto facilita la recopilaci\\xF3n de datos y el acceso a ellos al mismo tiempo.\"),mdx(\"h2\",null,\"Go introduce una gran flexibilidad en la estructuraci\\xF3n del c\\xF3digo\"),mdx(\"p\",null,\"Esta es una de las mayores ventajas de elegir Go como lenguaje para big data. Go ofrece una variedad de formas de manejar la estructuraci\\xF3n del c\\xF3digo. Esta flexibilidad permite a las empresas adoptar el estilo que consideren mejor para su equipo. El enfoque de Go para estructurar el c\\xF3digo facilita la recopilaci\\xF3n, el procesamiento y el almacenamiento de grandes conjuntos de datos.\"),mdx(\"p\",null,\"El soporte incorporado de Go para la concurrencia facilita el manejo de grandes cantidades de datos a la vez. La concurrencia le permite ejecutar procesos simult\\xE1neamente y hacer uso de m\\xE1s recursos de los que puede proporcionar una sola computadora. Esto es especialmente \\xFAtil para tareas que necesitan procesar grandes cantidades de datos.\"),mdx(\"p\",null,\"El soporte integrado de Go para sistemas distribuidos facilita la escalabilidad de las empresas. Los sistemas distribuidos permiten dividir tareas grandes en partes m\\xE1s peque\\xF1as y ejecutarlas en varias computadoras. Esto facilita el procesamiento de grandes conjuntos de datos sin necesidad de una supercomputadora.\"),mdx(\"h2\",null,\"Go es r\\xE1pido, incluso para grandes conjuntos de datos\"),mdx(\"p\",null,`El rendimiento de Go siempre ha sido uno de los puntos de venta m\\xE1s importantes de los idiomas. El lenguaje se hizo para ser r\\xE1pido, incluso cuando se trata de grandes conjuntos de datos.\nDe hecho, el creador de Go tiene un sitio web de evaluaci\\xF3n comparativa donde los desarrolladores pueden probar su c\\xF3digo y compararlo con otros lenguajes. Los resultados muestran que Go es uno de los lenguajes m\\xE1s r\\xE1pidos para procesar big data.\nEsto se debe a la simplicidad del lenguaje, que elimina elementos innecesarios que hacen que el c\\xF3digo sea m\\xE1s lento.`),mdx(\"p\",null,'La naturaleza de subproceso \\xFAnico de Go puede ser una desventaja para algunas organizaciones. Sin embargo, esto no es un problema tan grande como lo fue antes debido a las mejoras en el subprocesamiento. Go 18 introdujo una nueva funci\\xF3n sorprendente para simplificar la concurrencia llamada \"canal\". Adem\\xE1s, el auge de la computaci\\xF3n en la nube y la arquitectura sin servidor ha eliminado por completo la necesidad de la programaci\\xF3n paralela. El hecho de que los datos se almacenen en la nube significa que es una ubicaci\\xF3n centralizada a la que se puede acceder mediante una solicitud a la vez.'),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"La econom\\xEDa basada en datos es una nueva realidad en la que las empresas deben recopilar, procesar y almacenar grandes cantidades de datos. Go fue dise\\xF1ado para manejar estas demandas y puede ser una excelente opci\\xF3n para abordar grandes datos.\"),mdx(\"p\",null,\"La flexibilidad en la estructuraci\\xF3n del c\\xF3digo, el rendimiento integrado y la f\\xE1cil implementaci\\xF3n hacen de Go una excelente opci\\xF3n para las empresas que buscan recopilar, procesar y almacenar grandes conjuntos de datos.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-del-futuro",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Futuro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de la programaci\\xF3n est\\xE1 cambiando r\\xE1pidamente. Siguen apareciendo nuevos idiomas y los antiguos pasan de moda m\\xE1s r\\xE1pido que nunca. Pero Python sigue siendo uno de los lenguajes de programaci\\xF3n m\\xE1s populares del mundo, y su popularidad no muestra signos de desaceleraci\\xF3n en el corto plazo.\nSi est\\xE1 considerando una carrera en desarrollo de software, aprender Python puede abrirle una serie de oportunidades interesantes. La demanda de programadores calificados est\\xE1 creciendo a\\xF1o tras a\\xF1o, con la demanda m\\xE1s alta entre las peque\\xF1as empresas y las nuevas empresas. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre la historia y el uso de Python como lenguaje de programaci\\xF3n, por qu\\xE9 es tan popular en este momento y c\\xF3mo puede comenzar a aprenderlo tambi\\xE9n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-marcos-de-codificacion-para-desarrolladores",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Marcos De Codificación Para Desarrolladores",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de aplicaciones de hoy en d\\xEDa se enfrentan a una intensa presi\\xF3n para desarrollar productos de alta calidad que satisfagan las m\\xFAltiples necesidades de los usuarios en el menor tiempo posible y con la menor cantidad de recursos posible.\nLa soluci\\xF3n son los marcos de codificaci\\xF3n, que son bibliotecas de c\\xF3digo preescrito dise\\xF1ado para ayudar a los desarrolladores a cumplir con estas demandas. Estos marcos de codificaci\\xF3n facilitan a los codificadores la creaci\\xF3n de aplicaciones que cumplen una funci\\xF3n espec\\xEDfica o un grupo de funciones, pero requieren mucho tiempo y esfuerzo para crearlas desde cero. Hay muchos marcos de codificaci\\xF3n disponibles para programadores que trabajan en proyectos de software. El marco que elija depender\\xE1 de lo que est\\xE9 desarrollando, su nivel de habilidad como codificador y sus objetivos a largo plazo como empleado o aut\\xF3nomo que desarrolla software para empresas u otros profesionales. Siga leyendo para obtener m\\xE1s detalles sobre algunos de los marcos de codificaci\\xF3n m\\xE1s comunes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
+      "createdAt": "Tue Nov 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "tutorial-de-typescript-una-guia-para-principiantes-de-typescript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Tutorial De TypeScript: Una Guía Para Principiantes De TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si ha estado siguiendo el mundo de la programaci\\xF3n durante los \\xFAltimos a\\xF1os, probablemente ya haya o\\xEDdo hablar de TypeScript. Esto se debe a que es una de las formas m\\xE1s interesantes y accesibles de comenzar con los lenguajes de programaci\\xF3n modernos. Desde su lanzamiento en 2014, TypeScript se ha vuelto extremadamente popular entre los desarrolladores de todo el mundo, incluidos aquellos que generalmente evitan cualquier software o herramienta nueva que a\\xFAn se encuentre en la fase de prueba beta.\nEste art\\xEDculo cubrir\\xE1 todo lo que necesita saber sobre TypeScript y por qu\\xE9 exactamente este lenguaje ha llamado la atenci\\xF3n de tantos programadores. Tambi\\xE9n incluye una lista de tutoriales sobre c\\xF3mo comenzar a usar TypeScript lo m\\xE1s r\\xE1pido posible para que tambi\\xE9n pueda usarlo de manera efectiva en sus proyectos futuros.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYwCdAabPnQduO3bLwAA/uuQxuxDnCbRZF9wtDUx6DCvHbO2hH1Lysi1EuK3Lv6RGBjg/9+P2eZfp/wWAA8ck25ABrZSNLH9L4fPyLbrJMm9flyhV0dxEa+GEmjRZsTdlNMAAAA=",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "7-conceptos-basicos-de-javascript-que-todo-desarrollador-de-typescript-debe-saber",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "7 Conceptos Básicos De JavaScript Que Todo Desarrollador De TypeScript Debe Saber",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, la mayor\\xEDa de los desarrolladores utilizan m\\xFAltiples lenguajes de programaci\\xF3n para diferentes proyectos y prop\\xF3sitos. Y con las nuevas tecnolog\\xEDas que surgen casi todos los d\\xEDas, los desarrolladores deben mantenerse al tanto de su juego para seguir siendo relevantes en su campo.\nY es por eso que aprender m\\xFAltiples lenguajes de programaci\\xF3n es tan importante. No importa cu\\xE1l sea su especialidad o qu\\xE9 tipo de software desee desarrollar como carrera, conocer m\\xE1s de un lenguaje de programaci\\xF3n lo ayudar\\xE1 a ver las cosas desde diferentes perspectivas, reconocer patrones y resolver problemas de manera m\\xE1s eficiente.\nEn esta publicaci\\xF3n de blog, veremos 7 conceptos b\\xE1sicos de JavaScript que todo desarrollador de TypeScript deber\\xEDa saber. Al final de esta publicaci\\xF3n, habr\\xE1 obtenido una base s\\xF3lida en varias \\xE1reas clave del desarrollo de TypeScript y estar\\xE1 listo para profundizar en \\xE9l.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "graphql-comprender-como-funciona-y-por-que-lo-necesita-para-su-aplicacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "GraphQL: Comprender Cómo Funciona Y Por Qué Lo Necesita Para Su Aplicación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google ha introducido una variedad de herramientas y marcos para que los desarrolladores de aplicaciones m\\xF3viles hagan su vida m\\xE1s f\\xE1cil y la experiencia de los usuarios sea mejor.\nUna de esas herramientas es GraphQL, que ahora se est\\xE1 volviendo cada vez m\\xE1s popular entre los desarrolladores de aplicaciones m\\xF3viles. \\xBFPor qu\\xE9? Porque ofrece muchos beneficios sobre otras API JSON. Los desarrolladores ya no necesitan codificar puntos finales o consultar datos directamente desde una API; GraphQL abstrae esa l\\xF3gica, lo que permite a los desarrolladores centrarse en su c\\xF3digo en lugar de en la capa de acceso a los datos.\nVeamos qu\\xE9 hace que GraphQL sea tan \\xFAtil en el mundo de las aplicaciones m\\xF3viles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdDBACIvMFFw35AUAAP79gdQ61/8jFcNFaDIm6ro2J3A952YoF7dTlujclxSodL2EnzW76bf9v5jrezi5Wer37ru964jcNHqn/Cohf/n6oTZaf4TmnB/8vX/3OTP8qH//qBj/EJKwVkieDclSCTbs3sNSAAA=",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-completa",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Completa",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Todo el mundo ama un desaf\\xEDo. El camino hacia el \\xE9xito nunca es f\\xE1cil, y lo mismo ocurre con el aprendizaje de nuevas habilidades. Si ha estado pensando en aprender Javascript pero no est\\xE1 seguro de por d\\xF3nde empezar, esta publicaci\\xF3n lo guiar\\xE1 a trav\\xE9s del proceso y lo ayudar\\xE1 a llegar all\\xED.\nEl lenguaje de programaci\\xF3n Javascript se usa m\\xE1s com\\xFAnmente para agregar funciones interactivas y contenido din\\xE1mico a las p\\xE1ginas de sitios web y aplicaciones de Internet. Sin embargo, muchas personas piensan que es dif\\xEDcil de entender debido a su extra\\xF1a sintaxis y extra\\xF1as convenciones de nombres. \\xA1Pero eso no significa que no puedas aprenderlo!\nEs un lenguaje de programaci\\xF3n de alto nivel que se puede usar para crear sitios web interactivos, videojuegos, programas de computadora, sistemas de inteligencia artificial y m\\xE1s. Fue inventado por Netscape en 1995 para que sus programadores pudieran documentar mejor su c\\xF3digo y hacer que su sitio web fuera m\\xE1s r\\xE1pido al eliminar la necesidad de complementos de navegador como ActiveX o applets de Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "manejo-de-excepciones-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Manejo De Excepciones En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En programaci\\xF3n, nada puede ser 100% perfecto. Siempre habr\\xE1 alg\\xFAn tipo de error o evento inesperado que pueda ocurrir durante la ejecuci\\xF3n de un programa. Estos problemas se conocen como \"excepciones\" y pueden tomar muchas formas. Por ejemplo, una excepci\\xF3n podr\\xEDa ser algo como leer una variable de cadena vac\\xEDa, intentar acceder al sexto elemento de una matriz con solo cinco elementos, o incluso algo tan simple como no tener suficiente memoria disponible para continuar ejecutando instrucciones.\nEstas circunstancias excepcionales se denominan excepciones porque son excepcionales y el controlador del programa no puede continuar con su ruta de ejecuci\\xF3n habitual m\\xE1s. Para el usuario, parece como si la aplicaci\\xF3n hubiera fallado \"excepcionalmente\" de alguna manera y necesita recuperarse de este estado. Por lo tanto, contamos con manejo de excepciones en Java para manejar estos casos extremos con gracia para que nuestras aplicaciones sigan funcionando correctamente a pesar de ellos. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre varios tipos de excepciones en Java y c\\xF3mo podemos manejarlas usando bloques try-catch de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZACw7YtzuIjmz2muQAA/v4Qnnu8GR4r4o98GJKK/WQo32ziJigBLJaNfUvGDRozFPNx23JW6cndoWkC/tLLi+rX+QfrJeyqgp1pIjmNfZL8d32g+GDnvF4QJn/zbwehi/5/3dGRe7M/+CKvKXzz7GcAAA==",
+      "createdAt": "Wed Jan 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La visi\\xF3n por computadora y el procesamiento de im\\xE1genes son clave para permitir que las m\\xE1quinas entiendan el mundo. Por ejemplo, los autom\\xF3viles modernos pueden detectar peatones con c\\xE1maras en lugar de otros sensores porque la c\\xE1mara puede identificarlos como objetos inm\\xF3viles que son m\\xE1s peque\\xF1os que los \\xE1rboles habituales y tienen una reflectividad diferente de las marcas viales t\\xEDpicas.\nEste art\\xEDculo cubre Python, un lenguaje cada vez m\\xE1s popular para tareas de procesamiento de im\\xE1genes. Es un lenguaje din\\xE1mico como Ruby, que facilita la lectura y escritura de programas. Adem\\xE1s, Python incluye varias bibliotecas \\xFAtiles para el procesamiento de im\\xE1genes, como OpenCV (Computer Vision) y PIL (Python Imaging Library). Si eres nuevo en la programaci\\xF3n, consulta nuestro art\\xEDculo sobre Por qu\\xE9 Python es un excelente primer lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-paso-a-paso-para-aprender-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "JavaScript Para Principiantes: Una Guía Paso a Paso Para Aprender JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: existen muchos lenguajes de programaci\\xF3n y cada uno tiene sus propias caracter\\xEDsticas y peculiaridades \\xFAnicas. Entonces, \\xBFcu\\xE1l deber\\xEDas aprender primero? Si est\\xE1 buscando comenzar en el mundo de la codificaci\\xF3n, Javascript es un lugar fant\\xE1stico para comenzar. De hecho, puede ser un excelente lenguaje de programaci\\xF3n para principiantes para aquellos que tienen poca o ninguna experiencia en este campo. \\xBFPorqu\\xE9 es eso? Bueno, como el lenguaje m\\xE1s com\\xFAn utilizado para la creaci\\xF3n de sitios web, aprender Javascript lo ayuda a comprender c\\xF3mo funcionan los sitios web a nivel individual.\n\\xA1Deje que esta gu\\xEDa paso a paso para aprender Javascript lo ayude a llevar su nuevo conjunto de habilidades al siguiente nivel! Desde comprender qu\\xE9 es Javascript y por qu\\xE9 es importante hasta dominar los fundamentos de la codificaci\\xF3n, como variables y declaraciones condicionales, lo guiaremos a trav\\xE9s de todo lo que necesita saber para comenzar con este lenguaje de programaci\\xF3n din\\xE1mico.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

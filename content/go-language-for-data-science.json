@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Go?\"),mdx(\"p\",null,\"Go is an open source programming language that was designed by Google engineers in 2009. It aims to solve the problems of large software projects, such as code maintenance and scalability, that developers faced when working in other languages. Go\\u2019s high-level standard libraries, designed for general-purpose programming, are easy to understand and follow standardized conventions. This makes it easy to read and understand other developers\\u2019 code. It also makes it easier to write quality code that is clear and concise.\"),mdx(\"p\",null,\"Go has a static type system with no explicit types. This makes the language less error-prone, as it can catch bugs that might otherwise have gone unnoticed. A static type system is also helpful when integrating Go with other languages, as it can check and understand types from other languages. Go also has a very fast compilation time, making it a good choice when you need to deploy code often. It can also run on many different platforms, including Windows, Linux and macOS.\"),mdx(\"h2\",null,\"Good for Data Science Beginners\"),mdx(\"p\",null,\"One of the reasons for data scientists to choose Go over other languages is its simplicity and straightforward syntax. This is a plus for new data scientists who are not used to writing code in other languages. A simpler language means less focus on syntax and more focus on the actual analysis. New data scientists can get up-and-running fast and focus on the important stuff.\"),mdx(\"p\",null,\"Go is also a compiled programming language and not a scripting language, like Python. This means that it is converted into machine code, which can run very fast. This is very helpful for data scientists who often work with large datasets, since it can process them much faster than a scripting language like Python.\"),mdx(\"h2\",null,\"Good for Engineers and Data Scientists\"),mdx(\"p\",null,\"Engineers who are familiar with programming in Go will be able to easily understand code written by other engineers who use it. This is an important benefit that makes it easier to collaborate across teams. It also makes it easier to onboard new engineers who can focus on the functionality of the code and not try to learn the language itself.\"),mdx(\"p\",null,\"Another reason why engineers and data scientists would choose Go is the fact that it can be used in many different fields. This makes it a versatile language that can be used with different tools and solutions.\"),mdx(\"h2\",null,\"Good for Fast Continuous Deployment\"),mdx(\"p\",null,\"Continuous Deployment, which means releasing new software on a very frequent basis, is the norm in modern software development. It has been proven that releasing more often is better for customer satisfaction and managing bugs. With Go, you can release code faster, since compilation is very quick and code changes are automatic. The fact that Go is compiled is also a positive, since compiled languages are generally faster than scripting languages.\"),mdx(\"h2\",null,\"Good for Collaboration and Sharing\"),mdx(\"p\",null,\"Since Go is statically typed and compiled, it is very easy to share libraries and code between developers. This is helpful when you have a data science team that needs to collaborate a lot, since it is easier to understand and use other people\\u2019s code. It is also easier for other teams to use your code, since it is available as a library.\"),mdx(\"h2\",null,\"Summary\"),mdx(\"p\",null,\"Go is a compiled language that is designed for general-purpose programming. It was created and designed by Google engineers, who wanted to solve the problems of large software projects, like code maintenance and scalability. One of the reasons why data scientists would choose Go is its simplicity and straightforward syntax. This is a plus for new data scientists who are not used to writing code in other languages. Go is also a compiled language and not a scripting language, like Python. This means that it is converted into machine code, which can run very fast. This is very helpful for data scientists who often work with large datasets. Engineers and data scientists who are familiar with programming in Go will be able to easily understand code written by other engineers who use it. This is an important benefit that makes it easier to collaborate across teams. Go is also versatile and can be used in many different fields, making it a useful language that can be used with different tools and solutions.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
+      "createdAt": "Wed Mar 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-debug-your-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Debug Your Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-software-engineering-books.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoKAAoAAUAmJbACdGuAt/8WsjwLLfzezAD++ljJx4YFfq7ozi03eEZL23EP9QbSTjzCthIWZlpKP3eNUHDnc347Bw6qPj26aMWBazFiaDZNaoWzj4nf/my0/bYBb//DSV3+ElVHsLVcPqbSf2blz+DSXP8X//v95LgAAA==",
+      "createdAt": "Mon Apr 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-software-engineering-books",
+      "locale": "en",
+      "title": "The Best Software Engineering Books",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, software engineers are playing a much more significant role in the way businesses operate. Thanks to the growing importance of software and digital services, software engineers are no longer just coders with a desk in a back room somewhere. Instead, they\\u2019re now people who can influence entire company strategies and help shape the future of an organization. As such, software engineers need to have a wide range of technical skills and knowledge in order to succeed.\nSoftware engineering books are an excellent way to learn more about this fast-growing profession, as well as expand your own knowledge and skills. Here we take a look at some of the best software engineering books you can read to supplement your existing education from university or other sources. Even if you don\\u2019t think you need them right now, keep reading for some great information about these essential books for software engineers\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-get-started-with-coding",
+      "locale": "en",
+      "title": "How to Get Started with Coding",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
+      "createdAt": "Tue Nov 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
+      "locale": "en",
+      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-performance-tuning",
+      "locale": "en",
+      "title": "Java Performance Tuning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+      "createdAt": "Wed Mar 24 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-resources-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Resources for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Python?\"),mdx(\"p\",null,\"Let\\u2019s start off by taking a look at what Python is. Python is a general-purpose programming language that was created in 1991 by a Dutch programmer named Guido van Rossum. The language takes its name from the British comedy group Monty Python, whom van Rossum was a fan of. The language has come a long way since its creation, and it has been used in a wide variety of different industries through the years.\"),mdx(\"h2\",null,\"Why Is Python So Popular?\"),mdx(\"p\",null,`One of the reasons that Python is so popular is that it\\u2019s very readable and easy to understand. While it\\u2019s not the simplest language that exists, it falls somewhere in the middle \\u2013 meaning that it will be easier for a beginner to understand, but it\\u2019s also powerful enough for an experienced programmer to use.\nWhen you\\u2019re just getting started programming, you don\\u2019t want to have to deal with a language that\\u2019s overly complicated or confusing. You\\u2019re trying to learn the basics, and a complicated language will just make that more difficult.\nPython is a great language for beginners to start out with because it\\u2019s easy read and understand. When you\\u2019re ready to move on to other languages, you\\u2019ll already have a solid foundation that will make the transition easier.`),mdx(\"h2\",null,\"How to Learn Python\"),mdx(\"p\",null,`If you\\u2019re interested in learning Python, the first thing you should do is find a beginner\\u2019s Python tutorial. There are tons of free tutorials online that will help you get started.\nYou can also find tons of free ebooks that will walk you through the basics. If you prefer to read a physical book, you should be able to find one at your local bookstore.`),mdx(\"h2\",null,\"What Can You Build With Python?\"),mdx(\"p\",null,`A lot of people wonder what they can build with Python. The truth is that there are a lot of different things that you can create with Python.\nThere are several types of applications and web services that rely on Python for their functionality. Some of the most common are:`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Data Science and Machine Learning: One of the most common uses of Python is in the fields of data science and machine learning. These two fields involve lots of data analysis, statistics, and complex calculations. Because Python is such a versatile language, it\\u2019s well-suited to these tasks.\"),mdx(\"li\",{parentName:\"ul\"},\"Financial Services: Python is also commonly used in the field of financial services. This is because software developers can use Python to create software that accesses multiple financial services at once. This is called \\u201Cfinancial algorithm coding\\u201D, and it\\u2019s used for things like stock trading, foreign exchange, and more.\"),mdx(\"li\",{parentName:\"ul\"},\"Gaming: You might not think about it, but gaming companies use Python for a variety of different tasks. One of the most common uses of Python in the gaming industry is to create artificial intelligence characters. Python is also used for things like generating the graphics displayed in the game.\"),mdx(\"li\",{parentName:\"ul\"},\"Web Development: Web development is one of the most popular industries that uses Python. This is because it\\u2019s a general-purpose language and can be used to create both server-side and client-side applications.\")),mdx(\"h2\",null,\"Who Uses Python?\"),mdx(\"p\",null,\"As we discussed above, there are tons of different industries that use Python as a programming language. We\\u2019ve already gone over a few of them, but let\\u2019s take a look at the others.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Data Analysts: Data analysts are the people who sift through data, put it into charts and graphs, and try to determine what information is useful and what isn\\u2019t. Most data analysts use Python for their work because it makes data analysis much quicker and easier.\"),mdx(\"li\",{parentName:\"ul\"},\"Data Scientists: Data scientists are data analysts that focus more on the \\u201Cwhat does this mean?\\u201D aspect of data analysis. They use Python to find patterns and trends in the data, and then they interpret those patterns.\"),mdx(\"li\",{parentName:\"ul\"},\"Financial Analysts: Financial analysts use Python to create algorithms that help them predict future stock prices. Python can take into account a huge amount of different factors and create a model that helps predict the future.\"),mdx(\"li\",{parentName:\"ul\"},\"Web Developers: Web developers use Python to build websites, create databases, and more. Python can be used to create a wide variety of different things on a website, including things like the user interface, databases, and more.\")),mdx(\"h2\",null,\"Summing up\"),mdx(\"p\",null,`There are many different programming languages out there, and each one has its own unique set of features, strengths, and weaknesses. A lot of people tend to think that only developers get to use programming languages, but the truth is that there are many different uses for programming languages.\nThis article explored what Python is and why it\\u2019s so popular among a wide variety of industries. We also discussed how to learn Python if you\\u2019re interested in the language, and we took a look at what you can build with Python and who uses Python.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEfhzEuWsgAAP78iej+mZU65vIG0J/8ef4J5aTYN1qvvWnP//X6IDmh0a7zmp4pFMvWI/gdcipT45r/1D347/GGIcv/4Z2onpxNio9608Rd95/lbY+3qlns8r3cHnqibLuv/zO5/8Tb/85EeXZ7/7/uOTLN//0xkRfyYjgAAAA=",
+      "createdAt": "Sat Feb 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tricks-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tricks for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-functional-programming",
+      "locale": "en",
+      "title": "Go Language for Functional Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "createdAt": "Tue Apr 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-frameworks-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Frameworks for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAwCdASoKAAoAAUAmJbACdLoB+AH4gBGvmIPd0DrFQBAA/tUVMaVKxDo1SikS7pTcoDKzgP3iMfK/GOrvpGww1FkX++/cjeWIhQd/7PZf6T/zAH+ips2bJng/5s2v+CHfEyn+Mv/56qG33+G8/1XYOmGxY/o5M/k2/yH74AAAAA==",
+      "createdAt": "Tue Mar 29 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-object-oriented-programming",
+      "locale": "en",
+      "title": "Go Language for Object-Oriented Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a huge demand for software developers who can create cutting-edge programs and applications. Thanks to the rapid expansion of technology, there are plenty of jobs available in this field. However, not just anyone can become a programmer; you need to have specific skills and know how in order to land the job you want.\nIf you\\u2019re interested in becoming a software programmer and exploring new career opportunities, it\\u2019s important that you choose the right programming language from the get-go. The demand for skilled programmers is growing rapidly, so by choosing the right programming language now, you can set yourself up for success later on. Read on to learn more about Go programming and its potential as an object-oriented programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-administration",
+      "locale": "en",
+      "title": "Go Language for Web Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZwAD5AwhczLy9AZ4AAA/vb/6Y9PfxoP3X9HoI8Ceg5h7lZpD8R9cz8mb+//1p4pBTqLBvp+bvp0qEWK/imDV6A/xmjNys7umuX+j6V77j/4L++LzISh4eOm/H/wStucnqSqcAaWcEusX9CxLObOlAAAAA==",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-difference-between-javascript-and-typescript",
+      "locale": "en",
+      "title": "The Difference between JavaScript and TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-security",
+      "locale": "en",
+      "title": "Java Security",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

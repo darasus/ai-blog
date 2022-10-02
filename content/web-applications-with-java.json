@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Spring MVC\"),mdx(\"p\",null,\"The Spring Framework is, hands down, one of the most popular Java web frameworks available today. Part of that popularity is based on its history: it\\u2019s been around for a long time and has a great history behind it.\"),mdx(\"p\",null,\"But it\\u2019s also a great framework for building modern websites and applications, with all the latest and greatest frameworks and libraries built in. Spring JMS, Spring Security, and Spring Data are all part of the Spring family and can be used together, or independently, in any application.\"),mdx(\"p\",null,\"From the start, the Spring Framework designed itself to be modular and extensible. That means that you can start out with just the pieces that you need, and add new modules as your application grows and requires more functionality. And when you do add something new, you can be sure that it will work with the rest of your application.\"),mdx(\"h2\",null,\"Java Servlet and JavaServer Pages\"),mdx(\"p\",null,\"Java is an incredibly versatile programming language, and one of the reasons for its success is its ability to be used in many different environments and contexts. The same Java code can be used to build desktop applications (like Windows or Mac applications), mobile apps, web applications, and much more. Java is also open source, which means that anyone can use it for free.\"),mdx(\"p\",null,\"Java is used to build the front end of many web applications, and JavaServer Pages (JSP) is one of the languages used to build web apps. JSP is a server-side language that allows you to create static HTML pages that are stored in a server database and are sent to the browser as plain text.\"),mdx(\"h2\",null,\"Struts 2 Framework\"),mdx(\"p\",null,\"The open source Struts framework is designed to make developing web apps easier by providing a structured way to organize your code and make it reusable. Struts is an excellent Java web development framework for building robust web applications and is one of the first tools new developers are introduced to when learning Java.\"),mdx(\"p\",null,\"As with most Java frameworks, it makes use of as much open source software as possible, including Apache Commons and Apache Jakarta libraries. It also has a large online community that benefits from the collaborative nature of open source work.\"),mdx(\"p\",null,\"One of the best things about Struts is the fact that it\\u2019s categorized as a Model-View-Controller (MVC) framework. MVC frameworks allow you to separate the different parts of your app into different sections. In this case, the model is the database, the view is the web page, and the controller is the code that manages the communication between the two.\"),mdx(\"h2\",null,\"Grails With Groovy\"),mdx(\"p\",null,\"Grails is another Java web development framework that has been around since 2005 and is written in the Groovy language. It was designed to be an easy way to create data-driven websites and apps, and it takes full advantage of the Java platform.\"),mdx(\"p\",null,\"Grails was created with the intention of making it easier for developers to work with Java. It uses convention over configuration, which means that the framework uses rules and assumptions to make decisions for you, such as naming conventions, environment settings, etc. This makes configuration easy and less time-consuming.\"),mdx(\"p\",null,\"Grails is a powerful framework that makes it easy to build web applications and websites using Java. It supports many different databases, including Oracle, PostgreSQL, MySQL, and SQL Server. It also comes with a number of built-in features that make it easy to create, maintain, and add new content to your website.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"The Java programming language has been around for a long time, but it\\u2019s still one of the most popular languages used today. And those who know how to use it best are in high demand among employers.\"),mdx(\"p\",null,\"That means that the best developers out there who know how to work with Java are well-paid, happy individuals who love what they do. And the great news is that learning how to build web applications with Java is easier than ever thanks to the many different frameworks and libraries available.\"),mdx(\"p\",null,\"We hope you\\u2019ve enjoyed this article and have discovered a new library or framework that will make your life as a Java developer easier and more productive.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-devops",
+      "locale": "en",
+      "title": "Go Language for Devops",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-code-snippets-effectively",
+      "locale": "en",
+      "title": "How to Use Code Snippets Effectively",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introducing-javafx",
+      "locale": "en",
+      "title": "Introducing Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-mobile-development",
+      "locale": "en",
+      "title": "Python - The Language for Mobile Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+      "createdAt": "Wed Mar 24 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-resources-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Resources for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
+      "createdAt": "Tue Nov 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
+      "locale": "en",
+      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
+      "createdAt": "Tue Mar 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
+      "locale": "en",
+      "title": "Learn JavaScript the Right Way: 10 Steps to Mastering JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that Javascript is the most popular programming language in the world? Did you also know that it\\u2019s one of the easiest programming languages to learn? That means more and more people are picking up this skill at lightning speed. It makes sense, considering how in-demand coding skills are right now. And with so many introductory resources available, why not pick up this skill sooner rather than later? After all, there\\u2019s no time like the present to take your career to new heights.\nWith that in mind, we\\u2019re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we\\u2019ve broken this guide down into easy-to-digest sections. If you\\u2019re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-image-processing",
+      "locale": "en",
+      "title": "Go Language for Image Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

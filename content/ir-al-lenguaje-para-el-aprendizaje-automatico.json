@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Limpieza y preprocesamiento de datos\"),mdx(\"p\",null,`Comencemos con la limpieza de datos. Este es el proceso de convertir sus datos originales en una forma adecuada para el modelado. Dependiendo de la fuente de datos, esto podr\\xEDa implicar filtrar, transformar y/o convertir sus datos a un formato estandarizado.\nEsto es particularmente importante para datos no estructurados como texto e im\\xE1genes. Por ejemplo, si desea entrenar un modelo para detectar correos electr\\xF3nicos no deseados, deber\\xE1 procesar previamente su conjunto de datos de correo electr\\xF3nico y eliminar cualquier caracter\\xEDstica que no sea relevante para clasificar los correos electr\\xF3nicos como correo no deseado o correo no deseado.`),mdx(\"p\",null,\"Go es particularmente adecuado para este tipo de procesamiento debido a su rica biblioteca est\\xE1ndar. De hecho, es una de las colecciones m\\xE1s completas de herramientas de limpieza y transformaci\\xF3n de datos en cualquier lenguaje de programaci\\xF3n. Encontrar\\xE1 todo lo que necesita para preparar sus datos para el modelado, incluidas herramientas que convierten entre diferentes formatos de archivo, limpian sus datos de texto y aplican el formato adecuado.\"),mdx(\"h2\",null,\"An\\xE1lisis de texto\"),mdx(\"p\",null,\"Ahora veamos el an\\xE1lisis de texto. Este es el proceso de convertir texto no estructurado en una forma estandarizada que sea f\\xE1cil de procesar y analizar. En general, esto requiere los siguientes pasos:\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Limpieza y preprocesamiento de datos - Obtener datos de texto sin procesar - Convertir datos de texto sin procesar a un formato estandarizado - Discretizar variables continuas - Particionar variables categ\\xF3ricas\")),mdx(\"p\",null,\"Si bien todos estos pasos son importantes, la discretizaci\\xF3n es particularmente crucial para el an\\xE1lisis de texto, ya que es el proceso de convertir variables continuas en variables categ\\xF3ricas.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Las variables de cadena que contienen datos de texto son variables continuas. Esto significa que para dos cadenas que parecen id\\xE9nticas, es posible medir la diferencia exacta en su longitud.\"),mdx(\"li\",{parentName:\"ul\"},\"La discretizaci\\xF3n convierte variables continuas en variables categ\\xF3ricas en funci\\xF3n de su longitud. Por lo tanto, cuando discretiza variables de cadena, crea una serie de categor\\xEDas discretas basadas en la longitud de cada cadena. Esto le permite convertir modelos de an\\xE1lisis de texto de variables continuas a variables categ\\xF3ricas.\"),mdx(\"li\",{parentName:\"ul\"},\"Go es particularmente adecuado para el preprocesamiento y an\\xE1lisis de datos de texto debido a su rica biblioteca est\\xE1ndar. De hecho, es uno de los mejores lenguajes de programaci\\xF3n para an\\xE1lisis de texto y miner\\xEDa de datos.\"),mdx(\"li\",{parentName:\"ul\"},\"Encontrar\\xE1 todo lo que necesita para preparar sus datos de texto sin procesar para el modelado, incluidas herramientas que convierten entre diferentes formatos de archivo, limpian sus datos de texto y aplican el formato adecuado. Tambi\\xE9n encontrar\\xE1 herramientas que se pueden usar para discretizar variables de cadena.\")),mdx(\"h2\",null,\"Regresi\\xF3n y pron\\xF3stico\"),mdx(\"p\",null,\"Pasemos ahora a la regresi\\xF3n y la previsi\\xF3n. Este es el proceso de creaci\\xF3n de modelos matem\\xE1ticos que se pueden usar para predecir resultados futuros basados en datos actuales.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Los modelos de regresi\\xF3n se pueden utilizar para pronosticar variables continuas, como las ventas de un producto o la temperatura de una ubicaci\\xF3n espec\\xEDfica en el futuro.\"),mdx(\"li\",{parentName:\"ul\"},\"Los modelos de pron\\xF3stico, por otro lado, pueden usarse para predecir variables discretas, como el resultado de una elecci\\xF3n o el mercado de valores.\")),mdx(\"p\",null,\"Estos modelos generalmente se entrenan en un gran conjunto de datos que contiene valores pasados de las variables continuas o discretas que planea pronosticar.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Go es una excelente opci\\xF3n para modelos de regresi\\xF3n y pron\\xF3stico debido a su simplicidad y facilidad de uso. Encontrar\\xE1 una amplia variedad de bibliotecas para regresi\\xF3n y pron\\xF3stico, as\\xED como varios marcos de modelado integrados que se pueden usar para crear modelos sofisticados para sus datos.\")),mdx(\"h2\",null,\"Aprendizaje autom\\xE1tico para visi\\xF3n artificial\"),mdx(\"p\",null,\"A continuaci\\xF3n, veamos el aprendizaje autom\\xE1tico para la visi\\xF3n artificial. Este es el proceso de creaci\\xF3n de modelos matem\\xE1ticos que se pueden utilizar para identificar y clasificar objetos en im\\xE1genes y videos, as\\xED como para detectar anomal\\xEDas en las im\\xE1genes de seguridad.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},\"Los modelos de visi\\xF3n por computadora se pueden entrenar en conjuntos de datos de im\\xE1genes que contienen im\\xE1genes etiquetadas.\"),mdx(\"li\",{parentName:\"ul\"},\"Estas im\\xE1genes contienen los objetos que desea que su modelo aprenda a identificar, as\\xED como informaci\\xF3n sobre su ubicaci\\xF3n y otros factores que pueden influir en la precisi\\xF3n del modelo.\"),mdx(\"li\",{parentName:\"ul\"},\"Go es una excelente opci\\xF3n para la visi\\xF3n por computadora debido a su simplicidad y facilidad de uso. Encontrar\\xE1 bibliotecas que se pueden usar para crear modelos para reconocimiento de im\\xE1genes, detecci\\xF3n de objetos y segmentaci\\xF3n de im\\xE1genes, as\\xED como herramientas para implementar y optimizar sus modelos para producci\\xF3n.\")),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,\"Hemos explorado cinco alternativas de Go para el aprendizaje autom\\xE1tico. Estos incluyen la limpieza y el preprocesamiento de datos, el an\\xE1lisis de texto, la regresi\\xF3n y la previsi\\xF3n, el aprendizaje autom\\xE1tico para la visi\\xF3n por computadora y las fortalezas de Go como lenguaje de programaci\\xF3n.\"),mdx(\"p\",null,\"Para cada escenario, hemos descrito los requisitos de una herramienta que se puede utilizar para implementar los diversos algoritmos de aprendizaje autom\\xE1tico. A continuaci\\xF3n, exploramos cada idioma en detalle y explicamos por qu\\xE9 Go es una excelente opci\\xF3n para cada uno de estos escenarios.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
+      "createdAt": "Sun Jul 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJYgCdAEO/kOOAAD++jwC6sVnBPT6WwvL8iIUI2dl6DcrAvKtH4SZXG/BOc1hWPT8NuU2tHb2WQap5/XKFogRX6b6jofXzt3GMfH69j401+cgoEkkAAAA",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-de-la-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje De La Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con el r\\xE1pido crecimiento del mercado de Internet y aplicaciones m\\xF3viles, no es de extra\\xF1ar que los desarrolladores tengan una demanda tan alta. Como resultado, m\\xE1s personas que nunca est\\xE1n aprendiendo a codificar como una opci\\xF3n profesional secundaria o como un medio para ingresar a la industria tecnol\\xF3gica.\nDesafortunadamente, existen tantos lenguajes de codificaci\\xF3n que puede ser dif\\xEDcil saber por d\\xF3nde empezar. \\xA1Afortunadamente, estamos aqu\\xED para ayudar!\nPython es uno de los lenguajes de programaci\\xF3n m\\xE1s populares que existen hoy en d\\xEDa con una gran demanda de programadores calificados. Y como uno de los lenguajes de programaci\\xF3n m\\xE1s utilizados para el an\\xE1lisis estad\\xEDstico y la ciencia de datos, Python tambi\\xE9n es extremadamente \\xFAtil para los desarrolladores web que buscan expandirse desde otros lenguajes de codificaci\\xF3n como JavaScript o Java.\n\\xA1Sigue leyendo para descubrir todo lo que necesitas saber sobre Python y por qu\\xE9 deber\\xEDas aprenderlo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJQBOgCKULeVggQAA/vPuf/+JCCvbye+XzPUrMkpDHB9sd39ePdCeV5oKkAbPvbHM1DFdKm9BvXXWoqALW2IyEP1qBGrhgBlN8H+J9ZafGa5OM1AXj7LfqHJE0PzAiPMT9AAA",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
+      "createdAt": "Wed May 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-ciencia-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Ciencia De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los cient\\xEDficos de datos deben poder hacer frente a nuevos desaf\\xEDos r\\xE1pidamente. Si desea que su equipo pueda responder de inmediato y girar sin problemas, necesita que usen el mismo conjunto de herramientas, compartan bibliotecas y trabajen en una base de c\\xF3digo tanto como sea posible. Hay tantas herramientas diferentes para la ciencia de datos, desde bibliotecas de Python como pandas y NumPy hasta el lenguaje de programaci\\xF3n Scala para an\\xE1lisis estad\\xEDstico.\nSi su equipo est\\xE1 formado por ingenieros que tambi\\xE9n son cient\\xEDficos de datos experimentados, entonces puede elegir cualquier soluci\\xF3n que se ajuste a ambos requisitos. Sin embargo, si tiene cient\\xEDficos de datos que no son programadores o ingenieros que necesitan ponerse al d\\xEDa r\\xE1pidamente, es mejor elegir una soluci\\xF3n que ofrezca m\\xFAltiples beneficios a la vez. Go es una soluci\\xF3n cada vez m\\xE1s popular que combina la facilidad de los lenguajes de secuencias de comandos con el rendimiento de los lenguajes compilados. En este art\\xEDculo, aprenderemos por qu\\xE9 deber\\xEDa usar Go como lenguaje de ciencia de datos y cu\\xE1les son sus principales beneficios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAoAAUAmJQBOilABUAG4ptMLs9gA/v6z+3tjhkrJYzvXDZvliG336jEAYFxyxA8PsN+jNJz/PNPQvWZvPhLPHijR6kYJDuNdLf8DI0LuIPjZMukX+QAAAAA=",
+      "createdAt": "Wed Feb 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-la-programacion-de-redes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para La Programación De Redes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que has decidido aprender un nuevo lenguaje de programaci\\xF3n, pero \\xBFcu\\xE1l? Existen literalmente miles de lenguajes de programaci\\xF3n en la actualidad. Algunos son lenguajes de programaci\\xF3n de prop\\xF3sito general que se pueden usar para una variedad de aplicaciones. Otros son m\\xE1s especializados y se enfocan en convertirse en un experto en un dominio en particular.\nEsa \\xFAltima categor\\xEDa es donde podr\\xEDa encontrarse cuando busque un nuevo lenguaje para la programaci\\xF3n de redes. Estos son lenguajes de programaci\\xF3n que han sido dise\\xF1ados con dominios espec\\xEDficos en mente, como redes o telefon\\xEDa inform\\xE1tica. Puede pensar que no hay mucho margen para la diferenciaci\\xF3n entre estos lenguajes de programaci\\xF3n especializados, \\xA1pero hay mucho por ah\\xED!\nSi todav\\xEDa tiene dificultades para decidir cu\\xE1l es el mejor lenguaje de programaci\\xF3n Go para redes, \\xA1no se preocupe! \\xA1Hemos creado esta breve publicaci\\xF3n de blog con toda la informaci\\xF3n que necesita para tomar una decisi\\xF3n informada sobre sus futuros estudios! Siga leyendo para familiarizarse con cinco de los lenguajes de programaci\\xF3n de red m\\xE1s comunes y sus beneficios \\xFAnicos:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "implementacion-de-aplicaciones-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Implementación De Aplicaciones Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-del-lenguaje-natural",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento Del Lenguaje Natural",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El procesamiento del lenguaje natural es la capacidad de un programa de computadora para comprender el habla humana. El principal beneficio del procesamiento del lenguaje natural es que permite a los usuarios comunicarse con una m\\xE1quina de la forma en que se sienten m\\xE1s c\\xF3modos. Las computadoras ahora pueden entender, procesar y reaccionar al habla humana. El procesamiento del lenguaje natural (NLP) es un \\xE1rea de inteligencia artificial que permite a las computadoras detectar y comprender el habla humana, as\\xED como las palabras escritas. Involucra las t\\xE9cnicas y algoritmos relacionados con el procesamiento del lenguaje natural, como la inteligencia artificial, el aprendizaje autom\\xE1tico, la visi\\xF3n por computadora, la recuperaci\\xF3n de informaci\\xF3n y el reconocimiento de voz por computadora.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJZgCdAYtpySk36ff46AA/vyPj46HGbvwaP7QtR2LcE4Frf8fcTJyPfw6X+jCEH3xlzvj3N9w9OqLUEbOz8p+N1JUg617sYrRR56iSQTDzbxK5Bj+8By6P5JoV6pb9bxlI68gWf1H5n3CDvhQAA==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar La Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZACw7YtzuIjmz2muQAA/v4Qnnu8GR4r4o98GJKK/WQo32ziJigBLJaNfUvGDRozFPNx23JW6cndoWkC/tLLi+rX+QfrJeyqgp1pIjmNfZL8d32g+GDnvF4QJn/zbwehi/5/3dGRe7M/+CKvKXzz7GcAAA==",
+      "createdAt": "Wed Jan 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: El Lenguaje Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La visi\\xF3n por computadora y el procesamiento de im\\xE1genes son clave para permitir que las m\\xE1quinas entiendan el mundo. Por ejemplo, los autom\\xF3viles modernos pueden detectar peatones con c\\xE1maras en lugar de otros sensores porque la c\\xE1mara puede identificarlos como objetos inm\\xF3viles que son m\\xE1s peque\\xF1os que los \\xE1rboles habituales y tienen una reflectividad diferente de las marcas viales t\\xEDpicas.\nEste art\\xEDculo cubre Python, un lenguaje cada vez m\\xE1s popular para tareas de procesamiento de im\\xE1genes. Es un lenguaje din\\xE1mico como Ruby, que facilita la lectura y escritura de programas. Adem\\xE1s, Python incluye varias bibliotecas \\xFAtiles para el procesamiento de im\\xE1genes, como OpenCV (Computer Vision) y PIL (Python Imaging Library). Si eres nuevo en la programaci\\xF3n, consulta nuestro art\\xEDculo sobre Por qu\\xE9 Python es un excelente primer lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

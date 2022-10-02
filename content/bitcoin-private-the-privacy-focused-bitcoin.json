@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"What is Bitcoin Private?\"),mdx(\"p\",null,\"Bitcoin Private is a decentralized peer-to-peer cryptocurrency that allows direct payments between two parties, private and secure, without the need for a trusted third party. The open-source project is fully decentralized and was built using the same open-source codebase that is used by Bitcoin. It was forked from the Bitcoin blockchain at block height 499800 (around February or March 2018, exact date is unknown because of a bug in their code), and by combining its code with ZClassic (another open-source fork of Zcash that also fixed the privacy issue), it also fixed privacy issues of both Bitcoin and ZClassic.\"),mdx(\"p\",null,\"The fork was airdropped to Bitcoin and ZClassic holders and gave them 1 BTCP for every 1 BTC and ZCL they held when the snapshot was taken.\"),mdx(\"h2\",null,\"A short history of Bitcoin and the privacy problem\"),mdx(\"p\",null,\"The idea behind Bitcoin was to create a decentralized digital cash system that could make online payments more convenient, cheaper and more accessible. But as the network and virtual currency grew, Bitcoin\\u2019s lack of privacy became a problem.\"),mdx(\"p\",null,\"A lack of privacy is a serious threat to all financial networks, but it is especially dangerous in a decentralized system like Bitcoin. With no controlling authority, the network must rely on users to report malicious activities. However, if users\\u2019 identities can be linked to their actions, reporting becomes much more difficult.\"),mdx(\"p\",null,\"In Bitcoin, privacy is achieved by obscuring both the sender and recipient of every transaction. Unfortunately, this is not done by default. Instead, it relies on certain precautions being taken, such as using a wallet that obscures IP addresses and using a special protocol that mixes the user\\u2019s \\u2018tumbler\\u2019 inputs with the inputs of other users. Unfortunately, these precautions are not foolproof. While they are enough to remain largely anonymous in casual use, they are insufficient for frequent use. As a result, frequent Bitcoin users\\u2014such as those who use it for online purchases\\u2014have had their identities and wallets linked to their activities.\"),mdx(\"h2\",null,\"Why is Bitcoin not private by default?\"),mdx(\"p\",null,\"Bitcoin was originally created to be a decentralized, peer-to-peer digital cash system that could make online payments more convenient, cheaper and more accessible. Privacy was important to the original creators of Bitcoin, but the lack of privacy was not intended to be a design flaw. It was a compromise. A compromise between scalability, decentralization, and privacy.\"),mdx(\"p\",null,\"Bitcoin\\u2019s privacy issues are rooted in its scalability issues. As discussed in the Scalability and decentralization section, Bitcoin has a hard time scaling to meet the demands of a growing user base. This problem is further exacerbated by the fact that Bitcoin transactions need to be verified by a network of distributed nodes, many of which are not incentivized to do so. In order to incentivize more nodes to join the network and process transactions, block size limits and transaction fees were added as throttles to manage the flow of data. The throttles, however, also made it harder for nodes to process transactions in a timely manner. To compensate, the system was programmed to include a feature called \\u201Cpartial fungibility\\u201D: transactions with smaller fees would be processed after the others and given less priority. This had the added effect of making the system less private without any added benefit.\"),mdx(\"h2\",null,\"How does Bitcoin Private fix the privacy problem?\"),mdx(\"p\",null,\"Bitcoin Private was forked from the Bitcoin blockchain at block height 499800 (around February or March 2018, exact date is unknown because of a bug in their code), and by combining its code with ZClassic (another open-source fork of Zcash that also fixed the privacy issue), it also fixed privacy issues of both Bitcoin and ZClassic.\"),mdx(\"p\",null,\"Similar to Zcash, Bitcoin Private uses a \\u201Czk-SNARK\\u201D type of proof-of-work consensus mechanism. In this system, each node is given a unique \\u201Ckey\\u201D that they use to generate \\u201Caddresses\\u201D (which are just numbers). Instead of the node\\u2019s IP address being tied to its unique \\u201Ckey\\u201D, it is tied to the IP address of the node that is hosting it.\"),mdx(\"h2\",null,\"Is BTCP an improvement over BTC and BCH?\"),mdx(\"p\",null,\"The developers of Bitcoin Private claim that the currency offers a \\u201Cgenuine\\u201D and \\u201Cprivacy-focused\\u201D alternative to both Bitcoin and ZCash, but it is difficult to say if it is an improvement over both.\"),mdx(\"p\",null,\"Bitcoin is the most widely adopted cryptocurrency, with $116 billion market cap and a price of $5800. It is the most decentralized cryptocurrency, with thousands of nodes and miners in hundreds of countries. It has the strongest network effect and the largest user base.\"),mdx(\"p\",null,\"ZCash is the second most popular privacy coin, with a $1.9 billion market cap and a price of $75. It is the least decentralized cryptocurrency among the top 10 coins by market cap. There are only 10 nodes and they are all controlled by the company that created it. It has a strong focus on privacy, but is criticized by the crypto-anarchists for relying on a trusted \\u201Cblack box\\u201D (i.e., the centralization of nodes and the \\u201Czk-SNARK\\u201D consensus mechanism).\"),mdx(\"p\",null,\"Bitcoin Private is the newest privacy coin and has the least user base among the three. Its market cap is currently $346 million and its price is $64. It is the most decentralized privacy coin among the top 10 coins by market cap. It is also the only privacy coin that is not criticized for relying on a \\u201Cblack box\\u201D for privacy. It has the strongest focus on the crypto-anarchist community.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Bitcoin and other cryptocurrencies have come a long way since their inception in 2009. The original Bitcoin has grown to become the most popular and valuable cryptocurrency, having a market capitalization of around $115 billion. However, it is not without its problems. The prevalence of centralized exchanges, as well as price manipulation, have raised serious trust issues among users and potential users of the virtual currency.\nThe high demand for more private cryptocurrencies has led to an increase in the value of privacy coins like ZCash and Monero. But there is also a solution within this problem: Bitcoin Private.\nThis new privacy coin is a fork of the Bitcoin and ZClassic blockchains with a \\u201Czk-SNARK\\u201D type of consensus mechanism. It is the most decentralized privacy coin among the top 10 coins by market cap, and it has the strongest focus on the crypto-anarchist community.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-advantages-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJZACdAEQFPq03w9wAP75ties7l/Jk03ew8Ayyb258NolYDhX6OUkLEe+7WQE96rkNvd/61UzZxv9i936xHUecBW9+saT8ZjH8+KXN8hk4+MQEHZ7LOq8Rhu7FAL704gXygZIzbQAAA==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-advantages-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Advantages of Blockchain Technology",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world is slowly beginning to understand the extent of the potential that blockchain technology has. It can be used for so much more than just digital currencies. In fact, its uses extend far beyond the financial sector. The possibilities for blockchain seem almost endless at this point.\nThis article delves into the advantages of blockchain technology and why it\\u2019s worth your time to learn more about it now instead of later. . You might not believe that this emerging technology is going to have such a big impact in your industry, but you may be surprised. There are many industries that could use it, from healthcare to real estate and even nonprofit organizations. Read on to find out how blockchain can make your organization better equipped to thrive in today\\u2019s fast-changing business environment, as well as how you can take advantage of it sooner rather than later.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-benefits-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoKAAoAAUAmJZQCdAELXbDJx9oNAAD+/qhlPGXKBYIs/FIxfJsvKfnKnk7HCkovxfRv7md+jSqfCId1wpmROBYSHMXxBdkCbLs86TuUUQWbydwA",
+      "createdAt": "Thu Oct 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-benefits-of-blockchain-technology-for-startups",
+      "locale": "en",
+      "title": "The Benefits of Blockchain Technology for Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the past few years, we\\u2019ve seen a rapid increase in the number of businesses implementing blockchain technology. The benefits offered by this game-changing digital ledger and database are too numerous to ignore. However, with so many companies adopting blockchain technology, it can be difficult to keep track of all the different ways it can be used. If you\\u2019re currently working on your own business or startup idea, you might be wondering if blockchain is something you should aim to implement in your company.\nDo you need a complex network of nodes and miners to verify transactions? How about consortiums of pre-approved users who can access different levels of information based on their membership? Are you trying to avoid a third party intermediary like banks or brokers? If any of these apply to you and your business, then blockchain technology might just be what you\\u2019re looking for!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-benefits-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJYwC7AELKMy9C4AA/v4sIp13a1Zdx5FcTkaIwfZMDzER7ha7KoiMAfpDl0NyJt3pZKh4wNx7J3YbaVszZ9YLrap+eVn8EJS3ztzxaYdX4UAyo69u6AAA",
+      "createdAt": "Sun Jul 18 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-benefits-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Benefits of Blockchain Technology",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world is full of digital solutions that solve problems. But few digital solutions are as effective and game-changing as blockchain technology. Blockchain is a decentralized and secure ledger that records transactions chronologically and publicly, so that users can verify them. This process eliminates the need for intermediaries such as banks or brokers. Blockchain technology also has other benefits, including faster transactions and greater transparency.  Moreover, it has the potential to reshape industries from finance to logistics, healthcare and beyond. The widespread adoption of blockchain represents a major innovation in computer science, with implications for almost every industry sector \\u2014 including insurance.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-power-of-blockchain-technology-for-business.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAEO5lFS5cAA/vll/+dlB8B/v+n9/pPkz1ca/sHX3Mzx7SDAPD0kG3MWUgh2MSnkRop6xML5Rvt2H+V2bGtz2PaYtK4zt78/uwjw2gd/9Tpl1zT0dJk6XPtnnfoGAAAA",
+      "createdAt": "Wed Jun 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-power-of-blockchain-technology-for-business",
+      "locale": "en",
+      "title": "The Power of Blockchain Technology for Business",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are many applications of blockchain technology beyond digital currencies and fintech. The distributed ledger, trust machine, and triple bookkeeping innovator can be applied to almost any business or organization to increase efficiency, security, and trust. Regardless of the size of your company, there are ways that blockchain technology can improve your business processes.\nWith so much noise about blockchain as the next big thing for businesses, it\\u2019s natural for companies to ask if this is something they should explore. After all, it seems like every press release mentions \\u201Cblockchain\\u201D these days. But what exactly is a blockchain? And how could it help your business? It might not be as new as you think. Let\\u2019s take a look at how businesses around the world are using blockchain technology to build trust and transparency in their processes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-power-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoKAAoAAUAmJbACdAEOZlUEYAAA/vugvtqZDnfhv5eRia8PoNcZhgdT6G3zeLZZLIEQ4sSzh/dkMMBgTdvOe8aam34GNxNUVpxrdyH/gmtSgD7/rq5I3Xsex//53Kd//qA+P/z7q/Z8q/1zLR/git/2b1uG5hgA",
+      "createdAt": "Thu Oct 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-power-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Power of Blockchain Technology",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world is changing fast. Digital transformation of businesses and the digital revolution are here to stay. New technologies such as artificial intelligence (AI), Internet of Things (IoT), blockchain, and virtual reality are reshaping the way we live, work, and conduct business.\nThe digital transformation is moving businesses from operational excellence to strategic differentiation by integrating new digital technologies that are changing the way we do business in industries like healthcare, retail, logistics, etc. The pace of this change is accelerating with new software platforms fostering innovation \\u2014 bringing us a world where artificial intelligence, virtual reality, and blockchain are commonplace.\nThese transformative technologies also open up opportunities for new collaborations between individuals and organizations at different scales. They empower people with new ways to directly exchange value between each other without intermediaries \\u2014 in other words, peer-to-peer transactions. Here\\u2019s an overview of how blockchain technology can help you take your organization to the next level.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/bitcoin-cash-whats-the-difference.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJaACdAEPBZj+XPL0AADLJP/+kYFsWKU8FPvphYKk2MC/D052WOWjosglqmSWserp8I4ZhNk/W+hysadOYO73EEylztATzRTh74neFNjb0Rf+2buofSXIH7vylNvq/Gb8AAAA",
+      "createdAt": "Wed Apr 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "bitcoin-cash-whats-the-difference",
+      "locale": "en",
+      "title": "Bitcoin Cash: What's the Difference?",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cryptocurrency world is growing fast, and there are so many different digital tokens out there that it's becoming increasingly difficult for a new investor to know where to start.\nNot all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).\nBut which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let\\u2019s take a look at two of the most popular alternative digital currencies and see what sets them apart.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/how-blockchain-technology-can-improve-your-business.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJZgCdAEU+XncLAZKAAD+/fRn4KOyhD7nyN1xniNDqaSzeqbJeQ0Jp+kgZv/LDbChwYuEoGCm+0tPOWC8SP3yNhhy/DEJGcbFOB/t1PfY/9zbwIHO8bd3t/3AAA==",
+      "createdAt": "Wed Mar 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "how-blockchain-technology-can-improve-your-business",
+      "locale": "en",
+      "title": "How Blockchain Technology Can Improve Your Business",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:n,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:n,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of business is changing at a rapid pace, thanks to innovations in technology and a growing digital presence. From e-commerce platforms to social media, websites and apps, businesses can now market their services digitally to potential customers around the globe \\u2014 while also connecting with vendors and partners virtually rather than in person.The emergence of blockchain technology as an accessible way to keep track of these kinds of interactions has led to its adoption in various industries. Blockchain for business isn\\u2019t just about cryptocurrency like Bitcoin or Ethereum; it\\u2019s a way to decentralize information so that it\\u2019s not stored in one place but instead on many computers simultaneously. Understanding how blockchain technology can improve your business requires knowing what blockchain is, how it works and its potential applications \\u2014 both current and future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-future-of-blockchain-technology.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJQBOgCP7rvIGMXMgAAD+/pJlueOi4q/gISedu+pePofRL6BGH7hSdJZgEpEnDV0/zEW47tWLYPBEkcQNKMw6VgL5v++NkFT+TeN8kAHCp5GRf6Nmw//JyZ/gftwA",
+      "createdAt": "Sat Apr 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-future-of-blockchain-technology",
+      "locale": "en",
+      "title": "The Future of Blockchain Technology",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of technology is always changing and growing. New ideas, inventions, and innovations are introduced on a regular basis. In today\\u2019s world, you might be wondering what the future holds for blockchain technology.\nMore specifically, where will blockchain go from here? What new implementations of blockchain technologies will we see in the near future? And what effects will these new innovations have on our day-to-day lives? These are all questions that many people are asking right now. Luckily, we have answers! Keep reading to learn more about the future of blockchain technology!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-future-of-blockchain-technology-in-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABwAgCdASoKAAoAAUAmJQBOjXAB5zoNyziCcR0AAP6+j/xLPp6tkZbxLwzmLuZcdD6//T8K9sM0TFV3CBBPy++6sSkkvqhs+n+P8g0d6qW66FLn5cb0CoBR/9UD9UcZBOvSoB8prFuulNtCDDLI7qh/ul28+yi38eGLbc3bCwBwo74rxywFg45WAAA=",
+      "createdAt": "Sat Jun 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-future-of-blockchain-technology-in-startups",
+      "locale": "en",
+      "title": "The Future of Blockchain Technology in Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last couple of years, there has been a lot of buzz around blockchain technology and its potential use cases. We have seen numerous companies launch blockchain-based products in various industries such as healthcare, supply chain, education, real estate and more. While this is great news for the adoption of this disruptive technology, investors are cautious about blockchain-based startups.\nNot just because their track record so far has not been great but also because these new ventures face an uphill battle to get funded and succeed. The existing capital is mostly going towards internet of things (IoT) startups, artificial intelligence (AI), virtual reality (VR), and drones.\nBut that doesn\\u2019t mean it\\u2019s the end of road for blockchain technology in startups. In this blog post, we will explore why investors are skittish about blockchain-based startups right now and how you can help change that trend by launching one yourself. Read on to find out more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrc": "/articles/the-power-of-blockchain-technology-for-startups.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKAAoAAUAmJQBOgMWWtrZDPG9QrAD++8KmhfIETuwvdGGyOLMdkWAPc5d8MmS7bPzezSyv3wSRpLp8sliE3ZAK4T/YmYjPHJXPeAAtC+4ic0yNpa81qwIGiRbPRRpHjrfud58bswAAAA==",
+      "createdAt": "Sun Oct 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "crypto",
+      "slug": "the-power-of-blockchain-technology-for-startups",
+      "locale": "en",
+      "title": "The Power of Blockchain Technology for Startups",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The blockchain is a game-changing technology that has the potential to transform businesses and industries. So, it\\u2019s no wonder that startups are eager to leverage this technology and its various uses to their benefit.\nMoreover, with the growing number of emerging blockchain-based projects and ICOs, it\\u2019s evident that the adoption of this technology will only continue to grow in the foreseeable future.\nHowever, for many startups, implementing blockchain into new or existing products can seem like a challenging task. As such, there are a lot of myths about the use of blockchain for businesses that we often hear; either because they are believed to be true by many or because these theories make sense on the surface. But do they stand up to scrutiny? Let\\u2019s take a look at some of these popular misconceptions surrounding blockchain technology and see if there\\u2019s any validity to them:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

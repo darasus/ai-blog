@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Python for System Administration\"),mdx(\"p\",null,\"Python is one of the most commonly used programming languages in the world, and with good reason. It is a concise, readable language that is both readable and writable by humans and machines. Python\\u2019s strong core library and massive third-party library support makes it an extremely powerful language. It is also cross-platform and can be used on practically any computer.\"),mdx(\"p\",null,\"One of the best reasons to use Python for system administration is its large ecosystem of libraries. As a Python developer, you have access to a large number of standard libraries that allow you to do things like write to and read from files, access and manipulate web pages, and download and parse RSS feeds. There are also an enormous number of third-party libraries available, with more being developed every day.\"),mdx(\"h2\",null,\"Shell Scripting\"),mdx(\"p\",null,`Shell scripts are another great option for system administrators. These are plain text files that contain commands that are executed by the operating system kernel. While you can write shell scripts in a wide variety of languages, using the language native to your operating system offers the most portability and flexibility.\nA shell script can be as simple as a few lines of code that are used to automate a process, or it can be as complex as a full-blown application. Whatever the scope of your shell scripts, they can save you a tremendous amount of time and effort if used correctly.`),mdx(\"h2\",null,\"Installing and Managing Software\"),mdx(\"p\",null,`If you work as a system administrator, you know that software installation is part of the job. You will often have to install and manage software on both your own systems and on others\\u2019 systems that you might be administrating remotely. Fortunately, there are tools available to make this process as easy as possible.\nThere are many tools that can help you to install software on your systems. You can use traditional tools like apt-get and yum, but there are also more modern solutions like Chocolatey and Homebrew. These tools have a variety of benefits over the standard command-line utilities.\nWhile these tools make the process of installing and managing software easier, you\\u2019ll still have to be careful about how you manage your software. You should always think about how your software is organized and installed to make sure that it is easy to remove.`),mdx(\"h2\",null,\"Monitoring and Auditing\"),mdx(\"p\",null,`Monitoring and auditing are two critical aspects of system administration. Whether you are monitoring your systems to make sure they are running smoothly or auditing them to make sure they are secure, you can make use of many tools to get the job done.\nThere are a variety of monitoring and auditing tools available. Some are designed to monitor a specific technology, such as monitoring an application for performance issues or debugging. Others are designed to monitor general system information like cpu and memory utilization.\nThere are also tools available that can be used for both monitoring and auditing. These tools can be used to monitor the health of your system and to audit the security of your system.`),mdx(\"h2\",null,\"python-based monitoring tools for system administrators\"),mdx(\"p\",null,\"There are many python-based monitoring tools for system administrators. In this section, we\\u2019ll dive into a few of the most common ones.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},`Statsd and Graphite\nStatsd and Graphite are two monitoring tools that are written in Python. These tools work well together and can be used to monitor a variety of system metrics.`),mdx(\"li\",{parentName:\"ul\"},`New Relic\nNew Relic is a web application monitoring tool. It is written in Python and can be used to monitor websites and web applications written in a variety of languages, including Python.`),mdx(\"li\",{parentName:\"ul\"},`App Dynamics\nApp Dynamics is another web application monitoring tool. It is also written in Python and can be used to monitor applications written in any language, including Python.`),mdx(\"li\",{parentName:\"ul\"},`Nagios\nNagios is a monitoring tool that can be used to monitor a variety of system metrics and system services.`),mdx(\"li\",{parentName:\"ul\"},`Wireshark\nWireshark is a network analysis tool. It can be used to monitor network traffic and detect network issues, as well as inspect and decode network packets.`)),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"There are many reasons to use Python as a system administrator. It has a wide variety of available libraries, easy installation and management of software, and monitoring and auditing tools that are designed for system administrators. Python can be used for many different tasks, making it a valuable programming language for system administrators.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-get-started-with-coding.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
+      "createdAt": "Thu Jun 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-get-started-with-coding",
+      "locale": "en",
+      "title": "How to Get Started with Coding",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "exception-handling-in-java",
+      "locale": "en",
+      "title": "Exception Handling in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introducing-javafx",
+      "locale": "en",
+      "title": "Introducing Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBt1aG/PaAAA/v6V5FgO0P7po3cvPpn23MfP/wx/ZOoO3UguDH1SjvqpF91/H/AILDrGs8GbhYLHvjWtGqOpuncAXk0XL6SDFEpguDHqN8jAAA==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-programming",
+      "locale": "en",
+      "title": "Go Language for System Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJbACdAEPDmRyPxAAAP799ci2CEwAClmvh+LYJCDlI5D8XnKI36JhP707Hs2lDfrPtafdp8NzP/Lk9Sf/3H/P/UJff+FLz3+TeN+xIAA=",
+      "createdAt": "Sun Apr 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-game-development",
+      "locale": "en",
+      "title": "Python - The Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/basic-java-syntax.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCdAEOO/OdAAD+/KQNkbv+XBr5lUSnWZef9yuaQ//PyA2NH6STUfxG8mLPO3LPOyHEGiQ5/6+8ud4yt3ttDZ7Bp+MoTmXSeX1XRLiNfuEy8E6y9uGAAAA=",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "basic-java-syntax",
+      "locale": "en",
+      "title": "Basic Java Syntax",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re learning to code, you need to learn the basics before you can move on to more complex topics. The most fundamental programming language is Java. It\\u2019s one of the most important and widely used languages in the world of computer science. Many other programming languages are built on top of it, making it even more essential for coders.\nIf you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren\\u2019t necessarily common words in English. However, once you get past the unusual appearance of these words, you\\u2019ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdDBACIvMFFw35AUAAP79gdQ61/8jFcNFaDIm6ro2J3A952YoF7dTlujclxSodL2EnzW76bf9v5jrezi5Wer37ru964jcNHqn/Cohf/n6oTZaf4TmnB/8vX/3OTP8qH//qBj/EJKwVkieDclSCTbs3sNSAAA=",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-an-overview.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-overview",
+      "locale": "en",
+      "title": "Python - An Overview",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

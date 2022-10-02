@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Interactive Programming and Scripting\"),mdx(\"p\",null,\"The two basic modes of programming in Python are interactive programming and scripting. As an interactive language, Python is useful for running one or a few lines of code as a test. Interactive code might be used to test out a particular procedure, or to try out a new technique that you\\u2019re trying to learn. Python can also be used for scripting \\u2014 running a series of code in a desired order. You might use scripting if you want to automate a task that you run frequently, or to create a program for a computer that doesn\\u2019t have an equivalent in Python. For example, you might write a script to send regular emails, or to access and alter data on a website.\"),mdx(\"h2\",null,\"Simple By Design\"),mdx(\"p\",null,\"Simple, elegant and accessible. These are the sorts of adjectives we use to describe the best tools and languages that we use daily. Python\\u2019s syntax is unobtrusive and helpful, making it a joy to use. Unlike many other programming languages, you don\\u2019t have to memorize a thousand rules in order to understand and create code in Python. In fact, Python is designed so that you don\\u2019t even have to think about the rules and syntax of the language as you write your code. Instead, Python\\u2019s syntax is so straightforward that it feels like you\\u2019re simply writing words. Python\\u2019s open-source nature made the language completely free to use and, as such, it\\u2019s a good choice to learn as a beginner. Simply put, you can\\u2019t go wrong with Python and there isn\\u2019t much to go wrong in the first place!\"),mdx(\"h2\",null,\"Easy to Read and Write\"),mdx(\"p\",null,`Besides being straightforward, Python\\u2019s syntax is also extremely readable, making it a pleasure to read and write code. For example, when you have to create a conditional statement that checks for a certain condition, then executes a certain block of code if the condition is true, Python\\u2019s syntax makes it easy to understand what\\u2019s happening. In Python, you can simply write the following code: if condition:\nWhile many other programming languages would require you to write that same code like this: if condition then\nend if\nLoops are similarly simple and straightforward in Python. To create a for loop that runs five times, you simply write the following code: for i in range(5):\nFor many programming languages, this same code would require you to write it like this: for i = 0; i  5; i++\nend\nLoops and conditionals in Python are clear and understandable, while many other programming languages require an unnecessary amount of effort to both read and write.`),mdx(\"h2\",null,\"Built-in Data Types and Services\"),mdx(\"p\",null,\"One of the most important aspects of any programming language is the data types it offers and the services it provides. If a language doesn\\u2019t offer the features and services you need, you\\u2019ll never use it. Fortunately, Python offers a wide range of data types, including strings, numbers, lists, and dictionaries. Python also offers a whole host of services, including the ability to read and write from various data sources, the ability to use various programming paradigms, and the ability to use modules and packages.\"),mdx(\"p\",null,\"While not every language has to offer the same services and data types, the fact that Python does is a huge plus for the language. If you want to create a piece of software or a website, you need to know what data types and services your programming language offers so that you can use them effectively.\"),mdx(\"h2\",null,\"Python Is Widely Used\"),mdx(\"p\",null,\"As we\\u2019ve seen, Python is a simple, straightforward, and readable programming language that offers a wide range of features. However, there is one more thing that makes Python so appealing: it\\u2019s one of the most widely used programming languages in the world. Python is currently the second most popular programming language (after the ever-present JavaScript), with a vast community of developers, tools, tutorials, and resources.\"),mdx(\"p\",null,\"If you ever run into a problem while learning or using Python, rest assured that you\\u2019re not alone \\u2014 there\\u2019s a good chance that someone else has already been there, done that, and left a solution behind. Python has been around for a long time, and there are plenty of examples of how to use Python for all kinds of tasks. You can also use Python for websites and data analysis, making it a very versatile programming language indeed.\"),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,\"Python is a simple, straightforward, and readable programming language designed for a wide audience. Despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\"),mdx(\"p\",null,\"If you\\u2019re looking for a programming language that is accessible, simple, and easy to understand, then Python is the perfect choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJYgCdAEWgbSTEm+LAAD+/vFQK39//4sPkV6Bi/vxcEPq11/w7j7b36dkQG2+M6yFgCF/ilhOhbqxU3/Jja0+WfgXzmRyyIjtv/gFsBaYMvqW756iWl2QCO81zZEr/4nY/49Cf98Bs8lif+TkjhJw08rjffR6JPwAAA==",
+      "createdAt": "Thu Jun 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-administration",
+      "locale": "en",
+      "title": "Go Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
+      "createdAt": "Tue Feb 15 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-plugins-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Plugins for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software developers are some of the most valuable employees in many companies. They can take an idea and turn it into a useful product that people want to use. The best coders are constantly looking for ways to improve their skills and find new ways to make their work easier and more efficient. Fortunately, there are plugins available for almost any coding program out there.\nCoding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here\\u2019s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-parallel-computing",
+      "locale": "en",
+      "title": "Go Language for Parallel Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "java-security",
+      "locale": "en",
+      "title": "Java Security",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwiNu7bIgAD+63XeGv8Ro+Oel9PImDXE2JjEGTqv5wmb9yZpDwduSPUAoEWUgdpc+Y+dCopy2nEE75zVIo85Rr/3+tcbIdv/ivzf/8Vv/45t/cUvTtIHFPjoAAAA",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJaAC7AYtBzobhHUYXVjAAP7+mC6P4T+fYqTzewRcuXQzscq+OOz1C3jG3zVnXcbM8Kq7okMaqEwyWS7xv1h80d9YhMRenNv3jfXEgZPuCauxWLJ8/E9irMoj6EefC3P54AAA",
+      "createdAt": "Fri Apr 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-java",
+      "locale": "en",
+      "title": "Introduction to Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }

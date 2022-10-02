@@ -17,5 +17,156 @@
     "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"\\xBFPor qu\\xE9 ir?\"),mdx(\"p\",null,`Como mencionamos, los lenguajes de programaci\\xF3n est\\xE1n dise\\xF1ados para facilitar el desarrollo de software. Si un lenguaje est\\xE1 bien dise\\xF1ado, deber\\xEDa ser f\\xE1cil escribir un c\\xF3digo correcto que sea eficiente y pueda usarse para resolver una variedad de problemas. Un buen lenguaje de programaci\\xF3n tambi\\xE9n debe ser f\\xE1cil de aprender y comprender.\nEstas son algunas caracter\\xEDsticas clave del lenguaje de programaci\\xF3n Go que lo convierten en una excelente opci\\xF3n para el desarrollo de software.`),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Simplicidad - Go est\\xE1 dise\\xF1ado para ser simple y f\\xE1cil de aprender. Su sintaxis pretende ser lo suficientemente expresiva para escribir algoritmos complejos y trabajar con estructuras de datos complejas, pero al mismo tiempo lo suficientemente f\\xE1cil para que un principiante capte los conceptos b\\xE1sicos detr\\xE1s del lenguaje. Esta simplicidad lo convierte en una excelente opci\\xF3n para principiantes y para empresas que desean emplear un equipo de programadores con diferentes niveles de experiencia.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Rendimiento: Go es un lenguaje compilado que se escribe est\\xE1ticamente. Tambi\\xE9n utiliza una t\\xE9cnica llamada an\\xE1lisis de escape para asegurarse de que la memoria se administre de manera eficiente. Esto hace que, en general, funcione m\\xE1s r\\xE1pido que un lenguaje como Python, que se interpreta, se escribe din\\xE1micamente y utiliza un sistema de conteo de referencias para administrar la memoria.\"))),mdx(\"h2\",null,\"\\xBFPor qu\\xE9 no ir?\"),mdx(\"p\",null,\"Ahora que hemos establecido los muchos beneficios del lenguaje de programaci\\xF3n Go, tambi\\xE9n es importante resaltar sus limitaciones y algunos aspectos que podr\\xEDan hacerlo menos deseable para ciertos tipos de proyectos.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"El lenguaje Go no es compatible con la programaci\\xF3n funcional. Esto significa que algunos paradigmas modernos como la evaluaci\\xF3n perezosa, el manejo de errores mediante reintentos o una combinaci\\xF3n de ambos, y la creaci\\xF3n de estructuras de datos jer\\xE1rquicas, que vienen con lenguajes como Haskell, no son posibles con Go.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"La ausencia de gen\\xE9ricos en Go dificulta la escritura de c\\xF3digo eficiente que funcione con una variedad de tipos de datos. Esto es especialmente cierto cuando se trata de colecciones como mapas y arreglos que est\\xE1n optimizados para tipos espec\\xEDficos como string, int, etc. Los lenguajes como Java y C++ han solucionado esta limitaci\\xF3n al implementar marcos como Guava y una biblioteca de plantillas est\\xE1ndar. Sin embargo, no existe tal marco o biblioteca con Go.\"))),mdx(\"h2\",null,\"\\xBFQue sigue?\"),mdx(\"p\",null,\"Como hemos visto, el lenguaje de programaci\\xF3n Go es una gran soluci\\xF3n para muchos problemas de desarrollo de software. Sin embargo, est\\xE1 incompleto como lenguaje de programaci\\xF3n sin bibliotecas, paquetes y marcos que puedan usarse para ampliar su funcionalidad.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Bibliotecas: una biblioteca es una colecci\\xF3n de c\\xF3digo preescrito que se puede utilizar para resolver problemas espec\\xEDficos. La ventaja de usar bibliotecas con Go es que puede usar c\\xF3digo que ha sido escrito y probado por otros desarrolladores y puede estar en funcionamiento con un esfuerzo m\\xEDnimo. Esto hace que las bibliotecas sean la manera perfecta de ampliar la funcionalidad del lenguaje Go con nuevas funciones est\\xE1ndar y estructuras de datos, o agregar soporte para servicios de terceros que no vienen con el lenguaje en s\\xED.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Paquetes: un paquete es una colecci\\xF3n de c\\xF3digo fuente de Go relacionado. Este c\\xF3digo puede consistir en un solo archivo fuente o en un grupo de archivos que est\\xE1n relacionados entre s\\xED y que se han reunido en una carpeta con un nombre especial. Los paquetes son la mejor manera de organizar y compartir c\\xF3digo Go reutilizable con su equipo o con la comunidad de programaci\\xF3n m\\xE1s grande.\"))),mdx(\"h2\",null,\"Ir a conceptos b\\xE1sicos del idioma\"),mdx(\"p\",null,\"Estos son algunos de los conceptos b\\xE1sicos detr\\xE1s del lenguaje Go con los que deber\\xEDa estar familiarizado si planea desarrollar software con \\xE9l.\"),mdx(\"ul\",null,mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Go se escribe est\\xE1ticamente. Esto significa que el lenguaje tiene un conjunto de reglas que definen para qu\\xE9 se usa cada variable, de qu\\xE9 tipo es y qu\\xE9 operaci\\xF3n se puede realizar sobre ella. Esto facilita la detecci\\xF3n temprana de errores en el proceso de desarrollo cuando el compilador detecta un error, como un intento de sumar dos n\\xFAmeros de diferentes tipos.\")),mdx(\"li\",{parentName:\"ul\"},mdx(\"p\",{parentName:\"li\"},\"Go tiene un par de tipos integrados, como mapas, sectores y canales, que se utilizan para operaciones b\\xE1sicas de estructura de datos. Estos se pueden ampliar para crear tipos personalizados que se pueden usar como par\\xE1metros para funciones, declaraciones para variables, etc.\"))),mdx(\"h2\",null,\"Conclusi\\xF3n\"),mdx(\"p\",null,`El lenguaje de programaci\\xF3n Go es el resultado de una colaboraci\\xF3n entre Google y un gran equipo de colaboradores de c\\xF3digo abierto. Fue dise\\xF1ado como una alternativa a lenguajes como C y C++ que existen desde hace mucho tiempo.\nEste lenguaje moderno es simple y f\\xE1cil de aprender, pero al mismo tiempo es lo suficientemente potente como para crear software complejo y escalable que se puede usar para resolver una variedad de problemas comerciales.`),mdx(\"p\",null,`Para una empresa, elegir el lenguaje de programaci\\xF3n correcto es una decisi\\xF3n importante que afectar\\xE1 la forma en que se construye su software en los a\\xF1os venideros.\nEsperamos que este art\\xEDculo lo haya ayudado a comprender por qu\\xE9 Go es un lenguaje de programaci\\xF3n moderno que debe ser r\\xE1pido, eficiente y escalable. Tambi\\xE9n esperamos que haya adquirido una comprensi\\xF3n de algunos de los conceptos clave detr\\xE1s del lenguaje y por qu\\xE9 es una excelente opci\\xF3n para muchas empresas y proyectos de desarrollo de software.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": []
+  "relatedArticles": [
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
+      "createdAt": "Tue Mar 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aprenda-javascript-de-la-manera-correcta-10-pasos-para-dominar-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript De La Manera Correcta: 10 Pasos Para Dominar JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que Javascript es el lenguaje de programaci\\xF3n m\\xE1s popular del mundo? \\xBFSab\\xEDa tambi\\xE9n que es uno de los lenguajes de programaci\\xF3n m\\xE1s f\\xE1ciles de aprender? Eso significa que cada vez m\\xE1s personas adquieren esta habilidad a la velocidad del rayo. Tiene sentido, teniendo en cuenta la demanda de habilidades de codificaci\\xF3n en este momento. Y con tantos recursos introductorios disponibles, \\xBFpor qu\\xE9 no adquirir esta habilidad m\\xE1s temprano que tarde? Despu\\xE9s de todo, no hay mejor momento que el presente para llevar tu carrera a nuevas alturas.\nCon eso en mente, estamos aqu\\xED para ayudarlo a dominar este c\\xF3digo \\xFAtil. Entendemos que todos provienen de diferentes or\\xEDgenes, por lo que hemos dividido esta gu\\xEDa en secciones f\\xE1ciles de digerir. Si est\\xE1 listo para llevar sus habilidades de codificaci\\xF3n al siguiente nivel, siga leyendo para conocer nuestros consejos y trucos sobre c\\xF3mo puede aprender Javascript.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "interfaces-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Interfaces En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La definici\\xF3n de una interfaz es casi la misma en Java que en cualquier otro lenguaje de programaci\\xF3n orientada a objetos (POO). Una interfaz, estrictamente hablando, es un tipo que especifica un conjunto de m\\xE9todos, pero no su implementaci\\xF3n. Esto significa que una interfaz puede tener m\\xE9todos est\\xE1ticos y propiedades accesibles, pero no m\\xE9todos o campos de instancia.\nUna interfaz es un tipo que especifica solo el comportamiento y no la implementaci\\xF3n de una operaci\\xF3n. Las clases que implementan esta interfaz deben proporcionar su propia implementaci\\xF3n para cada m\\xE9todo declarado en ella. Las interfaces se usan ampliamente en Java para proporcionar un terreno com\\xFAn para que las clases implementen alguna funcionalidad sin revelar los detalles de implementaci\\xF3n interna.\nCuando usamos interfaces, estamos creando contratos entre nuestras clases para que se comporten de cierta manera, que implementen ciertos m\\xE9todos y realicen tareas particulares cuando se les solicite. Exploremos c\\xF3mo podemos aprovechar las interfaces en nuestro c\\xF3digo para hacerlo m\\xE1s modular, reutilizable, comprobable y legible.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-degree.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJYwCdAEPA7MnnEAA/v05/j1V6kDOzLB5kloydPFNh8bTnjkP63m4BVYnKGzJIDkgMq8C9JW8P5jtwsyE6u/Fxf8tOZtu1rcquTKGV+pVawhvXC5VGYJNe8FISEdWVy1PAAAA",
+      "createdAt": "Tue May 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-un-titulo-en-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Un Título En Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mercado de los ingenieros de software est\\xE1 creciendo r\\xE1pidamente. A medida que las empresas adopten la computaci\\xF3n en la nube y otras tecnolog\\xEDas digitales, se prev\\xE9 que la demanda de ingenieros de software crezca un 22 % entre 2016 y 2026.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJQBOgMVf3FHga5AAAP7+2hUCXel9/jUR+SSXBhfP/64xlbn+7/O2PlSXpByJr6LFNvrR4cSUWRg+2nLrd0omcCakZR1HzS31Pq92GYp8agH8Djh23WZ6+ryyYp8afeAAAA==",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-usar-graphql-en-su-proximo-proyecto-una-guia-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar GraphQL En Su Próximo Proyecto: Una Guía Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFQu\\xE9 pasar\\xEDa si sus datos no tuvieran paredes? \\xBFY si pudiera responder exactamente a lo que necesita y nada m\\xE1s? \\xBFQu\\xE9 pasar\\xEDa si pudiera darte directamente lo que deseas en lugar de obligarte a pedirlo de formas complicadas y indirectas? Lo que es m\\xE1s importante, \\xBFqu\\xE9 pasar\\xEDa si sus usuarios pudieran ver todo sobre su sitio a la vez y encontrar lo que necesitan f\\xE1cilmente?\nEsta es la promesa de GraphQL. Es una alternativa a las API REST que abre conjuntos de datos completos en lugar de solo puntos finales individuales. Eso significa que en lugar de solicitar datos sobre los usuarios, su perfil o su cuenta por separado, como si cada parte estuviera en su propia habitaci\\xF3n cerrada, puede solicitar Usuarios> y recuperar a todos los usuarios en el sitio a la vez sin pasos adicionales. o barricadas. Usuarios > . . . y Perfil> . . . y Cuenta> \\u2013 todo desbloqueado a la vez. Y si bien eso suena como mucho m\\xE1s trabajo, en realidad significa menos trabajo en general porque el conjunto de datos es mucho m\\xE1s peque\\xF1o y simple que con las API tradicionales.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
+      "createdAt": "Wed May 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-ciencia-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Ciencia De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los cient\\xEDficos de datos deben poder hacer frente a nuevos desaf\\xEDos r\\xE1pidamente. Si desea que su equipo pueda responder de inmediato y girar sin problemas, necesita que usen el mismo conjunto de herramientas, compartan bibliotecas y trabajen en una base de c\\xF3digo tanto como sea posible. Hay tantas herramientas diferentes para la ciencia de datos, desde bibliotecas de Python como pandas y NumPy hasta el lenguaje de programaci\\xF3n Scala para an\\xE1lisis estad\\xEDstico.\nSi su equipo est\\xE1 formado por ingenieros que tambi\\xE9n son cient\\xEDficos de datos experimentados, entonces puede elegir cualquier soluci\\xF3n que se ajuste a ambos requisitos. Sin embargo, si tiene cient\\xEDficos de datos que no son programadores o ingenieros que necesitan ponerse al d\\xEDa r\\xE1pidamente, es mejor elegir una soluci\\xF3n que ofrezca m\\xFAltiples beneficios a la vez. Go es una soluci\\xF3n cada vez m\\xE1s popular que combina la facilidad de los lenguajes de secuencias de comandos con el rendimiento de los lenguajes compilados. En este art\\xEDculo, aprenderemos por qu\\xE9 deber\\xEDa usar Go como lenguaje de ciencia de datos y cu\\xE1les son sus principales beneficios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "programacion-orientada-a-objetos-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Programación Orientada a Objetos En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La programaci\\xF3n orientada a objetos es una forma de escribir c\\xF3digo que se enfoca en lo que hace el programa, y no solo en lo que sabe. Este art\\xEDculo cubre una descripci\\xF3n general de la programaci\\xF3n orientada a objetos en Java, as\\xED como sus ventajas y desventajas.\nSi est\\xE1 leyendo esto, probablemente est\\xE9 familiarizado con los lenguajes de programaci\\xF3n de procedimientos como C, C++ o Python. Todos estos son lenguajes de programaci\\xF3n imperativos que se enfocan en decirle a la computadora exactamente qu\\xE9 hacer y cu\\xE1ndo hacerlo.\nLa programaci\\xF3n orientada a objetos es diferente de los lenguajes imperativos en aspectos importantes. La programaci\\xF3n orientada a objetos es una forma de escribir programas que tiene como objetivo reducir la redundancia y aumentar la modularidad mediante el uso de objetos que tienen sus propios campos de datos y m\\xE9todos que act\\xFAan sobre esos campos en lugar de variables globales. Profundicemos m\\xE1s en OOP en Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-principales-tendencias-en-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Principales Tendencias En Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software tienen la tarea de encontrar soluciones a problemas complejos todos los d\\xEDas. La industria del software est\\xE1 en constante evoluci\\xF3n y los ingenieros deben mantenerse actualizados sobre las \\xFAltimas tendencias y tecnolog\\xEDas para mantener sus habilidades actualizadas y relevantes.\nLos ingenieros de software deben esperar ver una afluencia de nuevas tendencias de ingenier\\xEDa de software en el pr\\xF3ximo a\\xF1o. Los ingenieros deben estar preparados para adaptar sus habilidades y dominar nuevas t\\xE9cnicas a medida que el mundo del software contin\\xFAa cambiando r\\xE1pidamente. A medida que la tecnolog\\xEDa avanza a un ritmo acelerado, es importante que los ingenieros sean conscientes de s\\xED mismos y aprendan constantemente sobre nuevas formas de hacer las cosas para que puedan seguir proporcionando valor a trav\\xE9s de su trabajo.\nAqu\\xED hay algunas tendencias de ingenier\\xEDa de software que debe conocer en 2019 y m\\xE1s all\\xE1. Siga leyendo y prep\\xE1rese para un futuro lleno de oportunidades para quienes puedan mantenerse al d\\xEDa con estos cambios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoKAAoAAUAmJZwC7AEfbk9QLAAA/v7IKuVQiUy5L6rraszYh52yQMGILgx/aO64pPWra/AA",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-herramientas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Herramientas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La ingenier\\xEDa de software es un campo din\\xE1mico con una amplia gama de herramientas disponibles para optimizar los procesos y acelerar la productividad. Los ingenieros de software necesitan estar constantemente en busca de nuevas herramientas que les hagan la vida m\\xE1s f\\xE1cil y su trabajo m\\xE1s eficiente.\nSi es ingeniero de software, es probable que con frecuencia haga malabarismos con varios proyectos, aplicaciones y bases de c\\xF3digo, todo mientras realiza un seguimiento de detalles espec\\xEDficos como n\\xFAmeros de versi\\xF3n, dependencias y API. Puede ser un desaf\\xEDo mantener todos esos detalles en tu cabeza, y mucho menos encontrarlos cuando los necesites m\\xE1s adelante. Es por eso que muchos ingenieros de software recurren a herramientas de ingenier\\xEDa de software especializadas que optimizan los procesos cotidianos y aceleran la eficiencia.\nCon tantas opciones disponibles, puede ser un desaf\\xEDo determinar qu\\xE9 herramientas de ingenier\\xEDa de software ayudar\\xE1n a optimizar su flujo de trabajo de manera m\\xE1s eficiente. Este art\\xEDculo cubre algunas de las principales herramientas de ingenier\\xEDa de software de varias categor\\xEDas, incluido IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKAAoAAUAmJbACdADz2eVFAAD+6zMUXjc2tOcwjmnUaE/4IEg/Yns/n5n4+i7VoDP9AGk+Lk43hBPkiv/+DeMLlbV//eErkz+Tf//w+JKf+QyAAAA=",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-big-data",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para Big Data",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy vemos empresas de todo el mundo que luchan por adoptar tecnolog\\xEDa emergente y adaptarse a las condiciones cambiantes del mercado. Como resultado, muchas empresas se enfrentan a un per\\xEDodo de transformaci\\xF3n digital que las pondr\\xE1 en ventaja o las dejar\\xE1 obsoletas. En el mundo actual basado en datos, las empresas deben contar con la infraestructura tecnol\\xF3gica para recopilar, procesar, analizar y almacenar cantidades masivas de datos.\nPara seguir siendo competitivas, las organizaciones necesitan estrategias de desarrollo de software que puedan manejar big data de manera eficiente y mantener los costos bajos. Las organizaciones tambi\\xE9n deben tener la capacidad de implementar nuevas tecnolog\\xEDas r\\xE1pidamente e integrarlas en sus sistemas existentes. Este art\\xEDculo detalla la programaci\\xF3n de Go para ejemplos de big data y por qu\\xE9 deber\\xEDa considerarla para su pr\\xF3ximo proyecto.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    }
+  ]
 }
