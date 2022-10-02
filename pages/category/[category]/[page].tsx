@@ -5,6 +5,7 @@ import { Link } from "../../../components/Link";
 import { LinkButton } from "../../../components/LinkButton";
 import { Meta } from "../../../components/Meta";
 import { PostExcerpt } from "../../../components/Post/PostExcerpt";
+import { useTranslations } from "../../../hooks/useTranslations";
 import { loadIntlMessages } from "../../../isomorphic-utils/loadIntlMessages";
 import { generateCategoryPageStaticPaths } from "../../../node-utils/generateStaticPaths";
 import { getPosts, PageInfo } from "../../../node-utils/getPosts";
@@ -14,12 +15,13 @@ export default function CategoryPosts({ data, totalPages }: PageInfo) {
   const router = useRouter();
   const currentPage = Number(router.query.page);
   const category = String(router.query.category);
+  const translations = useTranslations();
 
   return (
     <>
       <Meta
-        title="Latest"
-        description="All articles from The AI Paper are carefully crafted by GPT-3"
+        title={translations.latest()}
+        description={translations.siteDescription()}
       />
       {data.map((post, i: number) => {
         return (

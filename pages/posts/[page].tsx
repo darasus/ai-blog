@@ -4,17 +4,20 @@ import { Link } from "../../components/Link";
 import { Meta } from "../../components/Meta";
 import { Pagination } from "../../components/Pagination";
 import { PostExcerpt } from "../../components/Post/PostExcerpt";
+import { useTranslations } from "../../hooks/useTranslations";
 import { loadIntlMessages } from "../../isomorphic-utils/loadIntlMessages";
 import { generatePostsPageStaticPaths } from "../../node-utils/generateStaticPaths";
 import { getPosts, PageInfo } from "../../node-utils/getPosts";
 import { Locale } from "../../types";
 
 export default function Posts({ data, totalPages }: PageInfo) {
+  const translations = useTranslations();
+
   return (
     <>
       <Meta
-        title="Latest"
-        description="All articles from The AI Paper are carefully crafted by GPT-3"
+        title={translations.latest()}
+        description={translations.siteDescription()}
       />
       {data.map((post, i: number) => {
         return (

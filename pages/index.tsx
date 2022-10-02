@@ -1,39 +1,25 @@
 import { Flex } from "@chakra-ui/react";
 import { GetStaticProps } from "next";
-import { useIntl } from "react-intl";
 import { LinkButton } from "../components/LinkButton";
 import { Meta } from "../components/Meta";
 import { PostListSection } from "../components/Post/PostListSection";
+import { useTranslations } from "../hooks/useTranslations";
 import { loadIntlMessages } from "../isomorphic-utils/loadIntlMessages";
 import { getPosts, PageInfo } from "../node-utils/getPosts";
 import { Locale } from "../types";
 
 export default function Home({ data }: PageInfo) {
-  const intl = useIntl();
+  const translations = useTranslations();
 
   return (
     <>
       <Meta
-        title={intl.formatMessage({
-          defaultMessage: "Latest",
-        })}
-        description={intl.formatMessage({
-          defaultMessage:
-            'All materials from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.',
-        })}
+        title={translations.latest()}
+        description={translations.siteDescription()}
       />
-      <PostListSection
-        title={intl.formatMessage({
-          defaultMessage: "Latest articles",
-        })}
-        posts={data}
-      />
+      <PostListSection title={translations.latestArticles()} posts={data} />
       <Flex justifyContent={"center"} py={5}>
-        <LinkButton href="/posts/2">
-          {intl.formatMessage({
-            defaultMessage: "See more",
-          })}
-        </LinkButton>
+        <LinkButton href="/posts/2">{translations.seeMore()}</LinkButton>
       </Flex>
     </>
   );
