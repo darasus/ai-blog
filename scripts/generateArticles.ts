@@ -86,6 +86,10 @@ export async function generateArticles(spinner: Ora) {
       },
     };
 
+    console.log(
+      "IS same? " + JSON.stringify(originalPost.en) === JSON.stringify(post.en)
+    );
+
     const contentPath = path.join(__dirname, "../content");
 
     fs.writeFileSync(
