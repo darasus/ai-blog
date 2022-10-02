@@ -6,6 +6,7 @@ import axios from "axios";
 import axiosRetry from "axios-retry";
 import { CacheService } from "./cache";
 import { stringToHash } from "./hash";
+import ms from "ms";
 
 const client = axios.create({
   baseURL: "https://labs.openai.com/api/labs",
@@ -15,12 +16,12 @@ const client = axios.create({
 });
 
 axiosRetry(client, {
-  retries: 3,
+  retries: 5,
   retryCondition(error: any) {
     return error?.response?.status >= 500;
   },
   retryDelay: (retryCount) => {
-    return retryCount * 1000;
+    return retryCount * ms("10s");
   },
   onRetry(_, error: any) {
     console.warn(`Request failed, retrying...`);

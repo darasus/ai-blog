@@ -2,7 +2,6 @@ import path from "path";
 import fs, { readFileSync } from "fs";
 import { Writesonic } from "../lib/writesonic";
 import { getArticleData } from "../node-utils/getArticleData";
-import { readArticleImageFile } from "../node-utils/readArticleImageFile";
 import slugify from "slugify";
 import sharp from "sharp";
 import { Dalle } from "../lib/dalle";
@@ -119,35 +118,27 @@ export async function generateArticles(spinner: Ora) {
 
 async function generateAndWriteImage(title: string) {
   const basename = slugify(title, { strict: true, lower: true });
-  const image = readArticleImageFile(basename + ".png");
 
   let imageSrc = "";
   let imageSrcBase64 = "";
 
-  if (image) {
-    const img = sharp(image).resize(10);
-    const base64url = (await img.toBuffer()).toString("base64");
+  const dalle = new Dalle();
+  const base64String = await dalle.generateImage(title);
+
+  if (base64String) {
+    fs.writeFileSync(
+      path.join(imagesPath, `${basename}.png`),
+      base64String,
+      "base64"
+    );
+
     imageSrc = "/articles/" + basename + ".png";
-    imageSrcBase64 = "data:image/png;base64," + base64url;
+    const img = sharp(Buffer.from(base64String, "base64")).resize(10);
+    const srcBase64 = (await img.toBuffer()).toString("base64");
+    imageSrcBase64 = "data:image/png;base64," + srcBase64;
   } else {
-    const dalle = new Dalle();
-    const base64String = await dalle.generateImage(title);
-
-    if (base64String) {
-      fs.writeFileSync(
-        path.join(imagesPath, `${basename}.png`),
-        base64String,
-        "base64"
-      );
-
-      imageSrc = "/articles/" + basename + ".png";
-      const img = sharp(Buffer.from(base64String, "base64")).resize(10);
-      const srcBase64 = (await img.toBuffer()).toString("base64");
-      imageSrcBase64 = "data:image/png;base64," + srcBase64;
-    } else {
-      imageSrc = "";
-      imageSrcBase64 = "";
-    }
+    imageSrc = "";
+    imageSrcBase64 = "";
   }
 
   return { imageSrc, imageSrcBase64 };
