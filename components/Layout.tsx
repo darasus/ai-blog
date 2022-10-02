@@ -3,70 +3,30 @@ import { Box, Button, Flex, Stack, Text } from "@chakra-ui/react";
 import React from "react";
 import { Footer } from "./Footer";
 import { Navbar } from "./Navbar";
-import { useIntl } from "react-intl";
-import { data } from "../data/data";
 import { Link } from "./Link";
 import { Category } from "../types";
 import { useRouter } from "next/router";
+import { useTranslations } from "../hooks/useTranslations";
 
 type Props = React.PropsWithChildren<{}>;
 
 export function Layout({ children }: Props) {
   const router = useRouter();
-  const intl = useIntl();
+  const translations = useTranslations();
 
-  const categoryLabel: Record<
-    Category,
-    ReturnType<typeof intl.formatMessage>
-  > = {
-    politics: intl.formatMessage({
-      id: "category.politics",
-      defaultMessage: "Politics",
-    }),
-    business: intl.formatMessage({
-      id: "category.business",
-      defaultMessage: "Business",
-    }),
-    investing: intl.formatMessage({
-      id: "category.investing",
-      defaultMessage: "Investing",
-    }),
-    productivity: intl.formatMessage({
-      id: "category.productivity",
-      defaultMessage: "Productivity",
-    }),
-    technology: intl.formatMessage({
-      id: "category.technology",
-      defaultMessage: "Technology",
-    }),
-    crypto: intl.formatMessage({
-      id: "category.crypto",
-      defaultMessage: "Crypto",
-    }),
-    coding: intl.formatMessage({
-      id: "category.coding",
-      defaultMessage: "Coding",
-    }),
-    gaming: intl.formatMessage({
-      id: "category.gaming",
-      defaultMessage: "Gaming",
-    }),
-    health: intl.formatMessage({
-      id: "category.health",
-      defaultMessage: "Health",
-    }),
-    culture: intl.formatMessage({
-      id: "category.culture",
-      defaultMessage: "Culture",
-    }),
-    cooking: intl.formatMessage({
-      id: "category.cooking",
-      defaultMessage: "Cooking",
-    }),
-    life: intl.formatMessage({
-      id: "category.life",
-      defaultMessage: "Life",
-    }),
+  const categoryLabel: Record<Category, string> = {
+    politics: translations.categoryPolitics(),
+    business: translations.categoryBusiness(),
+    investing: translations.categoryInvesting(),
+    productivity: translations.categoryProductivity(),
+    technology: translations.categoryTechnology(),
+    crypto: translations.categoryCrypto(),
+    coding: translations.categoryCoding(),
+    gaming: translations.categoryGaming(),
+    health: translations.categoryHealth(),
+    culture: translations.categoryCulture(),
+    cooking: translations.categoryCooking(),
+    life: translations.categoryLife(),
   };
 
   return (
@@ -117,11 +77,7 @@ export function Layout({ children }: Props) {
             </Text>
           </Box>
           <Box>
-            <Text color="gray.700">
-              {intl.formatMessage({
-                defaultMessage: `All articles from "The AI Paper" are carefully crafted by advanced Artificial Intelligence models and should not be taken as truth.`,
-              })}
-            </Text>
+            <Text color="gray.700">{translations.introWarning()}</Text>
           </Box>
         </Flex>
       </Box>
