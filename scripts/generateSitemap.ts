@@ -1,13 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
-import { Locale, Post } from "../types";
+import { Locale } from "../types";
 import { getPosts, getRawPosts } from "../node-utils/getPosts";
-import { Ora } from "ora";
 
-export async function generateSitemap(spinner: Ora) {
-  spinner.start();
-  spinner.prefixText = "🗺";
-  spinner.text = `Start generating sitemap...`;
+export async function generateSitemap() {
+  console.log(`🗺 Start generating sitemap...`);
   const BASE_URL = "https://www.theaipaper.com";
   const posts = await getRawPosts();
   const paths: { url: string; updatedAt: string; locale: Locale }[] = [];
@@ -98,8 +95,5 @@ export async function generateSitemap(spinner: Ora) {
 
   const filePath = path.join(__dirname, "../sitemap.ts");
   fs.writeFileSync(filePath, `export const sitemap = \`${sitemap}\``);
-  spinner.stopAndPersist();
-  spinner.start();
-  spinner.prefixText = "✅";
-  spinner.text = `Done generating sitemap.`;
+  console.log(`✅ Done generating sitemap.`);
 }

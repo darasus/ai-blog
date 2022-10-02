@@ -2,169 +2,169 @@
   "category": "culture",
   "imageSrc": "/articles/the-imitation-game-is-a-fascinating-look-at-the-life-of-alan-turing.png",
   "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoKAAoAAUAmJZQCdAYuvqc45dgzIlwA/voOuBY5HsB0gUyMS1kPaOD/a5PO5GAMHpg+njIECxos2nOSA6pmY/GhZ54kUbcBavf5KmUaBbX3c9M9aMwjyyQTSymhDFXgKiVzn0KYoUCAAA==",
-  "createdAt": "2022-10-01T12:14:56.614Z",
-  "updatedAt": "2022-10-01T12:14:56.614Z",
+  "createdAt": "2021-11-25T00:57:40.944Z",
+  "updatedAt": "2022-10-02T09:37:30.304Z",
   "categoryLocal": "culture",
   "slug": "the-imitation-game-is-a-fascinating-look-at-the-life-of-alan-turing",
   "locale": "en",
   "title": "\"The Imitation Game\" is a fascinating look at the life of Alan Turing",
   "summary": "Alan Turing was a mathematician and computer scientist who broke the Enigma code. He was convicted of \"gross indecency\" for being gay and chemically castrated as punishment. Turing created the first “artificial intelligence” machine: a computer that could simulate a person’s intelligence. He also created machines that could play music and measure the amount of oxygen in the brain. Turing's idea was a revolutionary idea that would later influence the creation of all modern computers. Two years later, he killed himself with cyanide.",
   "intro": {
-    "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,o=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&c(e,n,t[n]);if(r)for(var n of r(t))i.call(t,n)&&c(e,n,t[n]);return e},h=(e,t)=>l(e,u(t));var d=(e,t)=>{var n={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&r)for(var a of r(e))t.indexOf(a)<0&&i.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=d(a,[\"components\"]);return mdx(MDXLayout,h(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In 1937, Alan Turing was born in Northern England. He would go on to become a war hero, pioneer of computer science, and one of the greatest minds of the 20th century. In 1951, he was convicted of \\u201Cgross indecency\\u201D and chemically castrated as punishment. Two years later, he killed himself with cyanide. This is his story.\nTuring was a brilliant man with many interests that went beyond mathematics and computer science: chess, cryptography, music theory and programming computers to sing are just some examples. This diverse background helped him crack the Nazi Enigma code during World War II at Bletchley Park (which has been nicknamed \"Codebreaking Castle\"). This saved countless lives and accelerated the end of the war by two years. After the war ended in 1945, Turing continued working as an cryptanalyst for a few more years before turning his attention to other interests \\u2013- and it is these interests that led to his arrest and untimely death at age 41.`))}MDXContent.isMDXComponent=!0;\n",
+    "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In 1937, Alan Turing was born in Northern England. He would go on to become a war hero, pioneer of computer science, and one of the greatest minds of the 20th century. In 1951, he was convicted of \\u201Cgross indecency\\u201D and chemically castrated as punishment. Two years later, he killed himself with cyanide. This is his story.\nTuring was a brilliant man with many interests that went beyond mathematics and computer science: chess, cryptography, music theory and programming computers to sing are just some examples. This diverse background helped him crack the Nazi Enigma code during World War II at Bletchley Park (which has been nicknamed \"Codebreaking Castle\"). This saved countless lives and accelerated the end of the war by two years. After the war ended in 1945, Turing continued working as an cryptanalyst for a few more years before turning his attention to other interests \\u2013- and it is these interests that led to his arrest and untimely death at age 41.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
   "content": {
-    "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,o=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&h(e,a,t[a]);if(i)for(var a of i(t))s.call(t,a)&&h(e,a,t[a]);return e},c=(e,t)=>l(e,d(t));var u=(e,t)=>{var a={};for(var n in e)r.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,c(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Deciphering the Enigma\"),mdx(\"p\",null,`In the early 20th century, the German military used Enigma machines to encrypt secret communications. They used the machines to send messages and orders to commanders and soldiers at all fronts -- so that, in theory, the British couldn\\u2019t intercept the messages. But Turing and his colleagues in the \\u201CCryptanalytic\\u201D department at Bletchley Park were able to crack the code.\nMost of Turing\\u2019s team worked with machines that had been modified from commercial typewriters. Through trial-and-error, they discovered that the types of letters and spacing on the Enigma machine were identical to those of the typewriter. So, the team used a machine that could type letters on a paper \\u201Cband\\u201D and then lift them off one-by-one for analysis.`),mdx(\"h2\",null,\"Artificial Intelligence\"),mdx(\"p\",null,`As part of his work, Turing created the first \\u201Cartificial intelligence\\u201D machine: a computer that could simulate a person\\u2019s intelligence.\nBy feeding this machine information about a person, he could then feed it information about another person and have it simulate how the first person would react to the second.`),mdx(\"h2\",null,\"Music and the Brain\"),mdx(\"p\",null,`One of the most interesting aspects of Turing\\u2019s life was his interest in music and how it affects the brain.\nDuring the war, Turing created machines that could play music automatically. These machines were designed to help create music by following a set of instructions. Turing also created a machine that could scan a person\\u2019s brain and measure the amount of oxygen in their blood. He used this machine to detect whether a person was experiencing a headache or other pain.`),mdx(\"h2\",null,\"The Computing Machine That Is \\u201CTuring\\u201D\"),mdx(\"p\",null,`The Turing machine is a concept that combines a computing machine and a programming language. The idea is that the user writes a program on paper by creating a series of boxes for each step.\nUsing this programming language, you can program a computer to perform a task and then repeat it as many times as needed. Turing\\u2019s machine was a revolutionary idea that would later influence the creation of all modern computers.`),mdx(\"h2\",null,\"Turing\\u2019s Test for Human Consciousness\"),mdx(\"p\",null,`In 1950, Turing published \\u201CComputing machinery and intelligence,\\u201D in which he famously proposed a test to determine whether a computer or human was expressing genuine intelligence.\nIf a human was talking to a computer and was unable to distinguish whether it was a computer or human being on the other side of the conversation, Turing believed it would be proof that the computer was intelligent. This has been called \\u201CTuring\\u2019s test.\\u201D`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`In 1936, Alan Turing was born in the UK. He was a brilliant mathematician and computer scientist who broke the Enigma code during WWII. During the 1950s, he was convicted of \"gross indecency\" for being gay and chemically castrated as punishment. Two years later, he killed himself with cyanide.\nThis is his story.`))}MDXContent.isMDXComponent=!0;\n",
+    "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Deciphering the Enigma\"),mdx(\"p\",null,`In the early 20th century, the German military used Enigma machines to encrypt secret communications. They used the machines to send messages and orders to commanders and soldiers at all fronts -- so that, in theory, the British couldn\\u2019t intercept the messages. But Turing and his colleagues in the \\u201CCryptanalytic\\u201D department at Bletchley Park were able to crack the code.\nMost of Turing\\u2019s team worked with machines that had been modified from commercial typewriters. Through trial-and-error, they discovered that the types of letters and spacing on the Enigma machine were identical to those of the typewriter. So, the team used a machine that could type letters on a paper \\u201Cband\\u201D and then lift them off one-by-one for analysis.`),mdx(\"h2\",null,\"Artificial Intelligence\"),mdx(\"p\",null,`As part of his work, Turing created the first \\u201Cartificial intelligence\\u201D machine: a computer that could simulate a person\\u2019s intelligence.\nBy feeding this machine information about a person, he could then feed it information about another person and have it simulate how the first person would react to the second.`),mdx(\"h2\",null,\"Music and the Brain\"),mdx(\"p\",null,`One of the most interesting aspects of Turing\\u2019s life was his interest in music and how it affects the brain.\nDuring the war, Turing created machines that could play music automatically. These machines were designed to help create music by following a set of instructions. Turing also created a machine that could scan a person\\u2019s brain and measure the amount of oxygen in their blood. He used this machine to detect whether a person was experiencing a headache or other pain.`),mdx(\"h2\",null,\"The Computing Machine That Is \\u201CTuring\\u201D\"),mdx(\"p\",null,`The Turing machine is a concept that combines a computing machine and a programming language. The idea is that the user writes a program on paper by creating a series of boxes for each step.\nUsing this programming language, you can program a computer to perform a task and then repeat it as many times as needed. Turing\\u2019s machine was a revolutionary idea that would later influence the creation of all modern computers.`),mdx(\"h2\",null,\"Turing\\u2019s Test for Human Consciousness\"),mdx(\"p\",null,`In 1950, Turing published \\u201CComputing machinery and intelligence,\\u201D in which he famously proposed a test to determine whether a computer or human was expressing genuine intelligence.\nIf a human was talking to a computer and was unable to distinguish whether it was a computer or human being on the other side of the conversation, Turing believed it would be proof that the computer was intelligent. This has been called \\u201CTuring\\u2019s test.\\u201D`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`In 1936, Alan Turing was born in the UK. He was a brilliant mathematician and computer scientist who broke the Enigma code during WWII. During the 1950s, he was convicted of \"gross indecency\" for being gay and chemically castrated as punishment. Two years later, he killed himself with cyanide.\nThis is his story.`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
   "relatedArticles": [
     {
       "category": "culture",
-      "imageSrc": "/articles/beach-houses-7-is-a-dreamy-masterpiece.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoKAAoAAUAmJaQAAudZ/WMQAAD+/qwqgKRq7K71mcin9tZ1P5AAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "beach-houses-7-is-a-dreamy-masterpiece",
-      "locale": "en",
-      "title": "Beach House's '7' Is a Dreamy Masterpiece",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,d=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var o=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))o.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},u=(e,t)=>d(e,c(t));var h=(e,t)=>{var a={};for(var s in e)o.call(e,s)&&t.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))t.indexOf(s)<0&&r.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,t=h(s,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Beach House\\u2019s seventh album, titled \\u201C7\\u201D after the number of tracks and the band members, is a dreamy masterpiece. Not every song on the album is as brilliant as its title track (see below), but it all creates an intriguing listen as a whole.\nIf you're unfamiliar with Beach House, they're an indie rock duo from Baltimore, Maryland that have released six albums and numerous EPs since their debut in 2006. Their sound has evolved quite a bit over their last two records, 2015's \"Thank Your Lucky Stars\" and 2018's \"6\". Both experimental pop albums with heavy electronic influences.\nOn \"7\", they go back to the basics of guitar-driven songs with Elizabeth and Alexis playing almost all instruments themselves once again (with help from some friends). This gives us a fresh take on their usual dreamy sound - intimate, raw and personal.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/death-cab-for-cuties-thank-you-for-today-is-a-delight.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJQBOgCFr9Lq6DIAA/vll/Yb7j/lLU34l4EOaD7ei/eFXQ9lp4E9ns9eKJdvUU/2r2xXHmZPgQ6fYl8mGj97+iDUAegzXNaAsDAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "death-cab-for-cuties-thank-you-for-today-is-a-delight",
-      "locale": "en",
-      "title": "Death Cab for Cutie's 'Thank You for Today' Is a Delight",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,c=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,t,o)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&d(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&d(e,o,t[o]);return e},h=(e,t)=>c(e,b(t));var l=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=l(a,[\"components\"]);return mdx(MDXLayout,h(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Thank You for Today is the sixth album from Seattle indie rockers Death Cab for Cutie. Released on August 31, 2018, it\\u2019s also the band\\u2019s final record with their original label Atlantic Records. After two decades in the music business, Death Cab for Cutie have developed into one of the most beloved bands in indie rock.\nAfter their last album, Codes and Keys (2012), frontman Ben Gibbard announced that he was working on a solo project called The New Age. It was something he had been thinking about for some time but wasn\\u2019t sure when or if it would come to fruition. Fortunately, after meeting with producer Rich Costey (M83, Blond Redhead) who helped him record some demos, things fell into place. The album came out as a collaborative release between Ben Gibbard and Nathan Wiley under the name The Further Adventures of New Age. And three years later Death Cab For Cutie released Thank You For Today.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/boyhood-is-a-coming-of-age-story-like-no-other.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJQBOgNJ6GAP1APtnPiepsAAA/v0pmAumyC5dJZBL879giCJidTd5UxwnL3B2xmmYL7O8asv0Ar9gsxl7+/cbKdCmgFIZHHkvSoZHSJfTn3ZnHem9/yaYoQgYJTv24/zWl+DrNMvLbBvKMTkiuPREc/WyeXmG7VN9ZjaNQivMh1F+vsgAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "boyhood-is-a-coming-of-age-story-like-no-other",
-      "locale": "en",
-      "title": "\"Boyhood\" Is a Coming-Of-Age Story like No Other",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,a=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&h(e,o,t[o]);if(i)for(var o of i(t))s.call(t,o)&&h(e,o,t[o]);return e},d=(e,t)=>m(e,c(t));var u=(e,t)=>{var o={};for(var n in e)r.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=u(n,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The coming-of-age trope is one of the most frequently used narrative devices in modern film. From \"Stand by Me\" to \"Superbad,\" there are countless stories about adolescents transitioning from innocent children into independent adults. However, it is almost unheard of for a film to capture the nuances and absurdities of growing up as effectively as Richard Linklater\\u2019s \\u201CBoyhood.\\u201D The movie documents 12 years in the life of Mason (played by Ellar Coltrane) and his family through a series of carefully crafted vignettes that document the everyday minutiae of life without being clich\\xE9 or cloying.\nLike so many movies about kids growing up, \"Boyhood\" begins with young Mason being uprooted from his home in Texas and forced to migrate to new cities as he grows older. What makes this movie unique, however, is that all these major events occur over an 11-year period while Linklater was filming with the same actors at different points in their lives. The result is something like a documentary on human development \\u2014 funny, sad, awkward, and everything in between \\u2014 presented through the lens of an intimate cinematic experience.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/the-hateful-eight-is-a-quentin-tarantino-tour-de-force.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJQBOgNMXfJI2FJ9LwAD++qPxwqz/V5/l9uDW16UDOK/+7I4MmciYt+Gb0tUJHOm61XRe3JwLnEH9NSM2pXqqqPyD3c+ThlMN3D8jveiz2cWsuOyPNVnQsyLy7OzdtztKv6td19oU96gAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "the-hateful-eight-is-a-quentin-tarantino-tour-de-force",
-      "locale": "en",
-      "title": "\"The Hateful Eight\" Is a Quentin Tarantino Tour De Force",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,c=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,n)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&h(e,n,t[n]);if(o)for(var n of o(t))r.call(t,n)&&h(e,n,t[n]);return e},m=(e,t)=>c(e,d(t));var l=(e,t)=>{var n={};for(var i in e)s.call(e,i)&&t.indexOf(i)<0&&(n[i]=e[i]);if(e!=null&&o)for(var i of o(e))t.indexOf(i)<0&&r.call(e,i)&&(n[i]=e[i]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var i=n,{components:e}=i,t=l(i,[\"components\"]);return mdx(MDXLayout,m(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Hateful Eight is a magnificent movie. It is also a somewhat odd one, in that it has some dissonant notes which are not quite what you might expect from Quentin Tarantino.\nA critical darling and an audience-pleaser on its original release, it was soon eclipsed by the #MeToo moment when a few unfortunate and probably inadvertent misogynistic undertones came to light.\nSince then, The Hateful Eight has been rediscovered as a fascinating film, almost certainly a deliberate commentary on the time we now view as its setting \\u2013 post-Civil War America, somewhere in the middle of Reconstruction, with simmering tensions between the North and South still unresolved. The plot itself is somewhat secondary to those elements; that\\u2019s why rather than summarise the plot of The Hateful Eight once more (if you want that, see my original review below), we\\u2019re going to focus instead on what makes this such an intriguing and unusual movie.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/imitation-of-life-is-a-thought-provoking-drama-about-race-and-identity.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJZQCsAEektPR/ILDQAD+8JAQJ17pXqsTNkd3bfz70ydOvUy/AV/zKC6aH/r2zfc+aecUff/wzsRL7IedHA2vehwX3kZwY/3OD/yr8PVhefYBfn/d/C+PFHuTXInrNUy89vE+eyiiN4yFeQAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "imitation-of-life-is-a-thought-provoking-drama-about-race-and-identity",
-      "locale": "en",
-      "title": "\"Imitation of Life\" Is a Thought-Provoking Drama about Race and Identity",
-      "intro": {
-        "compiledSource": "var f=Object.defineProperty,p=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,a,o)=>a in e?f(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&h(e,o,a[o]);if(t)for(var o of t(a))s.call(a,o)&&h(e,o,a[o]);return e},l=(e,a)=>p(e,c(a));var d=(e,a)=>{var o={};for(var i in e)r.call(e,i)&&a.indexOf(i)<0&&(o[i]=e[i]);if(e!=null&&t)for(var i of t(e))a.indexOf(i)<0&&s.call(e,i)&&(o[i]=e[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:e}=i,a=d(i,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Released in the year of cinema\\u2019s first black Best Actor winner, and with a title referencing a popular Hollywood film about passing as white, Imitation of Life is a thought-provoking melodrama about passing as a marker of authenticity. Rather than any superficial discussion of how many different kinds of people there are or whether one kind is better than another, it is an examination of what it means to be an individual in society by exploring the challenges that arise when one appears to be something they are not.\nThe plot follows the life and loves of two women; poor southern waitress Nora (Lilac) and her daughter Sarah who is being raised by her business-minded father George (Thomas). Nora\\u2019s light-skinned daughter falls for local boy Harry (Swayze), who does not know she also has darker blood. Meanwhile, George falls for Vida (Stapleton), a rich blonde socialite who will only marry him if he passes as white.\nImitation of Life offers commentary on racial identity, classism and even pansexuality through these characters, providing insight into their experiences and highlighting inequality wherever it exists.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/chvrches-love-is-dead-is-a-pop-gem.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJbACdLoAAnVMgpEAAP7pB2tWqAD9ulwnb6PrRn7eOiYGZ2vaZBKDdd//+1YbzhHlMhrOHUGxYRRuzeSrfV8tuzx2CT/YqDZ9FLXJddh59f/tREDjV+v/id+fapXG3f/y0L/u2chbof4uYAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "chvrches-love-is-dead-is-a-pop-gem",
-      "locale": "en",
-      "title": "Chvrches' 'Love Is Dead' Is a Pop Gem",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&h(e,a,t[a]);if(n)for(var a of n(t))i.call(t,a)&&h(e,a,t[a]);return e},l=(e,t)=>c(e,u(t));var d=(e,t)=>{var a={};for(var o in e)r.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&i.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=d(o,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In today\\u2019s musical landscape, popular electronic music has taken over the pop world. But there are still some great pop albums that aren\\u2019t filled with auto-tune and EDM drops.On May 25th, the Scottish band Chvrches released their third album called \\u201C Love is Dead.\\u201D The synth-pop band has lots of happy vibes and catchy hooks on their new album. It\\u2019s a pleasant listen but might not be what you expect if you only know them from their first two albums. The band took a left turn creatively, covering topics like technology, isolation and death rather than dancing around in your bedroom to this record.\nChvrses has gained more popularity among a different group of fans by releasing this album than they ever did with their first two releases combined. This is partially because they have expanded their audience by collaborating on songs with Haim and Bleachers recently as well as making this change in sound so now they have crossover appeal to radio listeners too!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/a-traks-in-my-feelings-is-a-summer-bop-you-need-in-your-life.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAABQAgCdASoKAAoAAUAmJbACdAYuvk0mykwFXPgA9rhYWQwKj+J8+V6V9H7Yvzq3qWF9jnruRveH+SWa3HrwW68ovv7g5aEzyJ9LX6+bFsrNSRG2n/RejzTkO3Wf4MkxMdGuMZIc/8Nt97OmRGjzD/vXv/fO3viTFi/68ODovdxAb/ybSF502kv/+0bNShn7u+G9wAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "a-traks-in-my-feelings-is-a-summer-bop-you-need-in-your-life",
-      "locale": "en",
-      "title": "A-Trak's 'in My Feelings' Is a Summer Bop You Need in Your Life",
-      "intro": {
-        "compiledSource": "var g=Object.defineProperty,p=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var h=(e,n,t)=>n in e?g(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,o=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&h(e,t,n[t]);if(i)for(var t of i(n))l.call(n,t)&&h(e,t,n[t]);return e},r=(e,n)=>p(e,y(n));var c=(e,n)=>{var t={};for(var a in e)s.call(e,a)&&n.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&i)for(var a of i(e))n.indexOf(a)<0&&l.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,n=c(a,[\"components\"]);return mdx(MDXLayout,r(o(o({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Internet has been on fire with talk about the latest dance craze sweeping the nation: The Shiggy. Thanks to social media stars like Instagram comedian Shiggy, the \\u201CIn My Feelings\\u201D challenge has taken off with a viral fervor. But what is it exactly? Is it a dance? A game? An unhinged social experiment?\nPerhaps all of these things. Let\\u2019s break it down.\nThe \\u201CIn My Feelings\\u201D challenge basically involves someone standing in a public place and dancing along to Drake\\u2019s new song, \\u201CIn My Feelings.\\u201D If they are not at home or in their own car, they will have to record this dance and post it online for all their followers to see. It is essentially just an excuse for people to shirk their responsibilities and have fun. Nothing wrong with that!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
-      "imageSrc": "/articles/birdman-is-a-darkly-comic-meditation-on-fame-and-ego.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwAwCdASoKAAoAAUAmJbACdDXAP1A6wDySQb6qQgEuV6sAAPRySXVqC4qFmOvZU72URyt2C1BwcpINqy7Y8u/Id5U8M7h5ND5n5eQHl4uPQCwGwzFMgZMzAYfBu3hlP3LAqH5UnSzdouV+9ntf+TkxUa/dfw7RVn/k9x/iw2t6YIsP1rZL/wW+ff4Irf8m/1mofs9CqLgAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "culture",
-      "slug": "birdman-is-a-darkly-comic-meditation-on-fame-and-ego",
-      "locale": "en",
-      "title": "\"Birdman\" Is a Darkly Comic Meditation on Fame and Ego",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&h(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&h(e,a,t[a]);return e},l=(e,t)=>c(e,m(t));var d=(e,t)=>{var a={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=d(o,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In a city that\\u2019s been taken over by media, sports and finance moguls, the theater community is feeling squeezed out. As the struggle to find funding and recognition continues, an aging actor challenges his fellow actors to step out of their comfort zone and audition for a new play that he\\u2019s producing called \\u201CThe Birdman.\\u201D But as they say, beware of Greeks bearing gifts because this one is also an insider who has ulterior motives.\nIn Alejandro Gonz\\xE1lez I\\xF1\\xE1rritu\\u2019s darkly comic film \\u201CBirdman,\\u201D the lead character\\u2014an arrogant actor named Riggan Thomson\\u2014is simultaneously tormented by his past success as the superhero Birdman but also driven by the desire for fame again. As a result, he devises a plan to create publicity for his production of The Birdman by playing both roles in the same play and switching back and forth in front of an audience. He also moves into the derelict theater with his daughter where he will perform as part of his preparations on getting back into shape.\nIn exploring these themes of egotism and desperation in a celebrity-obsessed world, \"Birdman\" is an interesting exploration of what it means to be famous and why we allow others to have such power over us.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "culture",
       "imageSrc": "/articles/hip-hop-music-with-a-purpose-the-importance-of-awareness-in-the-music-industry.png",
       "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJbACdLoAEJKX9xOYK+AAAP75U3VGaOFS8lXr2G0e6okrVvEwnfwiiATyzY4jWW+c/FhKlhrqWD+yI62om+BH/3DH3/3eLsHAq3/s5i/E3/wpr8eX7VAULvSM0sAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Sat Jun 25 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "culture",
       "slug": "hip-hop-music-with-a-purpose-the-importance-of-awareness-in-the-music-industry",
       "locale": "en",
       "title": "Hip Hop Music with a Purpose: The Importance of Awareness in the Music Industry",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,s,t)=>s in e?h(e,s,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[s]=t,n=(e,s)=>{for(var t in s||(s={}))a.call(s,t)&&u(e,t,s[t]);if(o)for(var t of o(s))r.call(s,t)&&u(e,t,s[t]);return e},c=(e,s)=>d(e,m(s));var p=(e,s)=>{var t={};for(var i in e)a.call(e,i)&&s.indexOf(i)<0&&(t[i]=e[i]);if(e!=null&&o)for(var i of o(e))s.indexOf(i)<0&&r.call(e,i)&&(t[i]=e[i]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var i=t,{components:e}=i,s=p(i,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),s),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The music industry is vast, expansive, and unending. The number of subgenres and variations within the larger genres is innumerable. It\\u2019s also an industry that has recently come under fire for its lack of diversity and representation in regards to gender, sexuality, religion, race, and so much more. As a result of these issues becoming more apparent and publicized, artists have been producing music with a purpose; focusing on important topics and causes through their music.\nIf you spend any time listening to rap or hip-hop music, you\\u2019ve probably noticed how many songs are about money, sex, drugs, partying\\u2014basically all the things you can do when you\\u2019re rich and famous. But there are some rappers who are using their fame to make a difference in the world by speaking out about problems that need to be addressed: social injustice, poverty, drug abuse, child exploitation and other serious issues. These artists are making a conscious effort to use their music to make a positive impact on society rather than just focusing on things like materialism or promiscuity.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The music industry is vast, expansive, and unending. The number of subgenres and variations within the larger genres is innumerable. It\\u2019s also an industry that has recently come under fire for its lack of diversity and representation in regards to gender, sexuality, religion, race, and so much more. As a result of these issues becoming more apparent and publicized, artists have been producing music with a purpose; focusing on important topics and causes through their music.\nIf you spend any time listening to rap or hip-hop music, you\\u2019ve probably noticed how many songs are about money, sex, drugs, partying\\u2014basically all the things you can do when you\\u2019re rich and famous. But there are some rappers who are using their fame to make a difference in the world by speaking out about problems that need to be addressed: social injustice, poverty, drug abuse, child exploitation and other serious issues. These artists are making a conscious effort to use their music to make a positive impact on society rather than just focusing on things like materialism or promiscuity.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "culture",
-      "imageSrc": "/articles/charlie-puths-voicenotes-is-a-solid-effort.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJaACdADdqqH3nbOdAAD++qP5za6hKj79x/t/CDQWZKPfP1/+hqV94W3sR3YI+2i2qn+1E6JrxZB3N6/tS1+5h83/tcoQYU/QT+DVtfyB7wnh/6Epl34uSpLjtix4/byK3IwfxFvgLaarBqLR+vkL52/YWQeAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/haims-something-to-tell-you-is-a-delightful-pop-album.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJYgCdLoAAnYVPZZeQAD+/fsYHniz+ODjN8CNeKaKJoSCPfMdHHWvWxXtxuwyqgmdLGaqEXZ4ogv6/153cy2OL5GT+qOIwAA=",
+      "createdAt": "Fri Nov 26 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "culture",
-      "slug": "charlie-puths-voicenotes-is-a-solid-effort",
+      "slug": "haims-something-to-tell-you-is-a-delightful-pop-album",
       "locale": "en",
-      "title": "Charlie Puth's 'Voicenotes' Is a Solid Effort",
+      "title": "Haim's 'Something to Tell You' Is a Delightful Pop Album",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?p(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,i=(t,e)=>{for(var o in e||(e={}))a.call(e,o)&&h(t,o,e[o]);if(n)for(var o of n(e))r.call(e,o)&&h(t,o,e[o]);return t},l=(t,e)=>c(t,d(e));var u=(t,e)=>{var o={};for(var s in t)a.call(t,s)&&e.indexOf(s)<0&&(o[s]=t[s]);if(t!=null&&n)for(var s of n(t))e.indexOf(s)<0&&r.call(t,s)&&(o[s]=t[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:t}=s,e=u(s,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Charlie Puth has been on a roll lately, with three top 40 hits in the last two years. He\\u2019s also worked with some pretty big names (including one we\\u2019ll get to shortly). Now, he\\u2019s back with another new album, titled \\u201CVoicenotes.\\u201D It\\u2019s a solid effort that shows growth and maturity, as well as keeping Puth\\u2019s fun and lighthearted style.\nAt its core, Voicenotes is an acoustic pop album. However, it goes deeper than just putting electric guitars aside; these songs are stripped right down to the bare bones. There\\u2019s still plenty of production value\\u2014especially on the third track\\u2014but it feels like Puth made a conscious decision not to hide behind anything.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s been almost three years since we heard new music from HAIM, the sister trio from Calabasas that burst onto the music scene in 2014 with their debut album \\u2018Days Are Gone.\\u2019\nWith their sophomore album, \\u2018Something to Tell You,\\u2019 HAIM continues to be optimistic and uplifting with their new music. The album is a mix of upbeat pop tracks and slower ballads that showcase the sisters\\u2019 harmony and vocals. Even if you aren't a fan of pop music, it's worth giving this album a listen.\nThe trio had been working on this album for some time before releasing it. In September 2016, they released three singles; \\u201CRight Now,\\u201D \\u201CNew York Excuse\\u201D and \\u201CSentimentality.\\u201D\nAnd after a year-long hiatus following the release of these songs, HAIM announced via Instagram in June 2017 that they would finally be releasing their second studio album (and first extended play) later that year.\nLuckily for us, they stuck to their word and released the nine-track EP on Sept. 14, just in time for our listening pleasure. Here are some of our favorite tracks from HAIM's 'Something To Tell You' Album:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/9-of-the-best-hip-hop-songs-for-your-next-workout.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAACwAgCdASoKAAoAAUAmJYgCdAYp35AMGer3YTafqNAA/DQXb67UUAIJZVjZc2yfu7QiwH5RMu98v89AJWe9L6B9KwRzt8f9QgXoOlQGAT2GOcMnbibOZmm86o25RP4Fcit/Lg4BD8fW2B8BWFd4YMVlBVBu4fShP8ZZy6oQmEn/6m/z0XdMAAAA",
+      "createdAt": "Mon Sep 06 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "9-of-the-best-hip-hop-songs-for-your-next-workout",
+      "locale": "en",
+      "title": "9 of the Best Hip Hop Songs for Your Next Workout",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working out is the best way to get your body in shape. It helps you lose fat, gain muscle and feel great about yourself. But, it can be a little tough to get started on your routine if you don\\u2019t have the right kind of songs playing in the background.\nIt doesn\\u2019t matter what type of exercise you do \\u2014 be it cycling, running, or another form of physical activity \\u2014 music can make your workout much more enjoyable and productive. Not only will it help you keep rhythm while exercising, but also help you stay motivated throughout your workout routine. If you are struggling to find the right hip hop songs for your next workout session, we have got you covered!\nRead ahead to know about 9 of the Best Hip Hop Songs for Your Next Workout`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/the-big-short-is-a-searing-indictment-of-the-financial-industry.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJZwAAwFuO8UCtqAA/vBNSB+cO6f+NNSaf+w6+m86y/UJQBJpOvdS9ETv43le3LeTRCyWkV2ikWjnVzXtx8/bAP81qElj06Bs4gfoW/9xcVATnIVONxkgjRuI8hvcEAA=",
+      "createdAt": "Sat Jan 11 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "the-big-short-is-a-searing-indictment-of-the-financial-industry",
+      "locale": "en",
+      "title": "\"The Big Short\" Is a Searing Indictment of the Financial Industry",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The film version of The Big Short hits theaters this Friday, and it\\u2019s not subtle. Its tagline is \\u201CThere\\u2019s a sucker born every minute. But they don\\u2019t grow up thinking they can be con men. They get taught to be one.\\u201D And its trailer goes on to say, \\u201CThe housing bubble was about to burst\\u2026 And a group of misfits saw it coming. Now these unlikely heroes must band together and bring down the greedy villains who crashed the world economy\\u2026 Before anyone else gets hurt.\\u201D\nUnfortunately, that last part is not hyperbole. The actions of unscrupulous financial engineers \\u2014 colloquially known as \\u201Cbankers\\u201D \\u2014 led directly to the Great Recession in 2008, which cost millions their jobs and homes, while triggering widespread deflation and anemic growth throughout much of the developed world for years thereafter.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/the-grapes-of-wrath-is-a-classic-of-american-literature.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJZACdAEDfIx64hHFAAD+id5kto72vp0AL5nHGLR2KGIjpccXr7aYXIadOIohrUdbUPdMnpylZaNRmmBOZ8H1idfrj4Iur8xph3GWp0fAEF5z2P6WOyFp6yw7itqit38vfeyPsd3dd2BKZXs+a5EkAAA=",
+      "createdAt": "Sun Jan 31 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "the-grapes-of-wrath-is-a-classic-of-american-literature",
+      "locale": "en",
+      "title": "\"The Grapes of Wrath\" Is a Classic of American Literature",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Grapes of Wrath (1940) by John Steinbeck is a novel that describes the displacement of farmers and the poor working class during the Great Depression. The book was first published as a serial in an American magazine and then as a book. In fact, it is not an understatement to say that it became one of the most popular books in the United Sates at that time.\nThe Great Depression started in 1929 with the stock market crash and lasted until 1939. This resulted in about 15 million people losing their jobs and having no income or access to food or shelter. It also led to bankruptcy for many farmers as crop prices fell significantly. As a result, many people had no choice but to leave their homes, towns, and cities to look for work elsewhere.\nThis book describes this period through the Joad family \\u2013 impoverished tenant farmers from Oklahoma who are forced by circumstances to travel westward in search of new opportunities along with thousands of other displaced persons also seeking new beginnings. Although fictional, Steinbeck creates characters that are very much human with their fears, hopes and desires \\u2013 struggling against a harsh world that is indifferent to their plights.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/5-best-albums-of-2018-so-far.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAABQAgCdASoKAAoAAUAmJbACdAECptIuY8f7ZsAA/vvQMQmH+w/yqqgxdYrtZMtOQYSuf5VQ0yJZfdTviF4A8v5jatr3TfPexcxov2+aRiumx/z+f5/2kYV9uOyundIaum1fXx4O9RQFkhf/neW3+kB7+i7/lUOGf8df/4Irf+bL//16yf/6G/8Gf486I87w5qz7PNf8anM/k25gAAA=",
+      "createdAt": "Thu Dec 02 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "5-best-albums-of-2018-so-far",
+      "locale": "en",
+      "title": "5 Best Albums of 2018 (So Far)",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`While there has been some great music released this year, the first half of 2018 has not been an exceptional one for new releases. However, that doesn\\u2019t mean there hasn\\u2019t been some brilliant albums released so far this year. While last year had some incredible albums (like Kendrick Lamar\\u2019s \\u201CDamn,\\u201D Lorde\\u2019s \\u201CMelodrama,\\u201D and Noel Gallagher\\u2019s High Flying Birds' \"Who Built the Moon?\"), this year hasn\\u2019t quite matched up to those standards. However, we are only halfway through the year and as such, we have also seen some fantastic new albums released in the last few months that are worth mentioning. There may not be many great new albums out at the moment \\u2013 but these five are definitely among the best.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/beach-houses-7-is-a-dreamy-masterpiece.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoKAAoAAUAmJaQAAudZ/WMQAAD+/qwqgKRq7K71mcin9tZ1P5AAAA==",
+      "createdAt": "Thu Jan 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "beach-houses-7-is-a-dreamy-masterpiece",
+      "locale": "en",
+      "title": "Beach House's '7' Is a Dreamy Masterpiece",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Beach House\\u2019s seventh album, titled \\u201C7\\u201D after the number of tracks and the band members, is a dreamy masterpiece. Not every song on the album is as brilliant as its title track (see below), but it all creates an intriguing listen as a whole.\nIf you're unfamiliar with Beach House, they're an indie rock duo from Baltimore, Maryland that have released six albums and numerous EPs since their debut in 2006. Their sound has evolved quite a bit over their last two records, 2015's \"Thank Your Lucky Stars\" and 2018's \"6\". Both experimental pop albums with heavy electronic influences.\nOn \"7\", they go back to the basics of guitar-driven songs with Elizabeth and Alexis playing almost all instruments themselves once again (with help from some friends). This gives us a fresh take on their usual dreamy sound - intimate, raw and personal.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/selma-is-a-powerful-and-moving-historical-drama.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJZgCdAYst2wfWSrCYAD+/iosNeWXNhKbqQ/rAi8M9me78wAhsCLr8Pr657xqycaj9PvBBV+RfAeL9lsTxXCqVf1rTdYfi0x+rjt4sxxoWc7IFb/fueCqJ8kCfAzzE86dMrsJz5UmWsxqjNCi8rcW7wAAAA==",
+      "createdAt": "Thu May 12 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "selma-is-a-powerful-and-moving-historical-drama",
+      "locale": "en",
+      "title": "\"Selma\" Is a Powerful and Moving Historical Drama",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"It\\u2019s been more than a century since the fight for voting rights was so prominent in American society. Films like \\u201CSelma\\u201D are necessary to remind viewers of this period in our history and the crucial role that certain people played in ensuring voting rights are protected. Before many others, Dr. Martin Luther King, Jr., along with other civil rights leaders, attempted to register African-Americans to vote in Selma, Alabama. It was here where police brutality and attacks on protesters were prevalent and where media attention centered around televised trials of two men accused of murdering local Black residents. The town was also home to Selma\\u2019s most famous resident at the time: Collin W. Lewis, also known as \\u201Cthe Lion of Selma\\u201D \\u2013 a prominent civil rights leader who had grown up there after his family fled Greenwood as part of the Great Migration from 1916-1921. In 1965, Lewis recruited Dr. King to come speak at Selma High School about voting rights. It was here where their partnership began and culminated in the historic march across the Edmund Pettus Bridge on March 7th, 1965 \\u2013 known today as Bloody Sunday because those marching were violently attacked by law enforcement officers (including tear gas, billy clubs, and bull whips), leaving many injured and 26 hospitalized (Voting Rights Timeline).\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/all-time-lows-last-young-renegade-is-a-must-listen.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAQCdASoKAAoAAUAmJZACdAEOuJusoAD++bvuHv4Nhzw10wTTlPq+sX3CeXJxPl/G7fiXc/3Qm3m59S/+YFCEhaf65kMrJvQ2A+OVjes0zQ4ossog7jVf82/Gjk2Eod8+7ePZ9DiW35s7wza5Z8vMwu/+t+baqzksT3/9fRd8/AAAAAA=",
+      "createdAt": "Wed Mar 23 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "all-time-lows-last-young-renegade-is-a-must-listen",
+      "locale": "en",
+      "title": "All Time Low's 'Last Young Renegade' Is a Must-Listen",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There\\u2019s something special about third albums. Maybe it\\u2019s the pressure to impress both new listeners and old fans, or simply the natural progression of any band that leaves them feeling eager to experiment. Whatever the reason, some of our favourite bands have produced some of their very best work with third albums.\nAnd so it is with All Time Low\\u2019s latest offering, \\u2018Last Young Renegade\\u2019. Following on from 2014 album \\u2018Future Hearts\\u2019, it is a record that sees the band in a brand-new light. Gone are the days of bouncy pop-punk anthems like \\u2018Crazy Endings\\u2019 or \\u2018Back Home Again\\u2019; instead we have a far more mature and atmospheric take on classic ATL songs like \\u2018Riot^^END^^END^^END^^END^^END^^END^^END^^END^^END^^END^^END^ 3>\\u2019 or \\u2018 Dark Side Of Your Own Atmosphere\\u2019.\nIn this article you will discover everything you need to know about All Time Low's 'Last Young Renegade'. From lyrics and themes, to production and official release date, we have got you covered!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "culture",
+      "imageSrc": "/articles/father-john-mistys-pure-comedy-is-a-hilarious-masterpiece.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAACwAQCdASoKAAoAAUAmJbACdADZjbz0AP6bnosf9/9JyleklO5Vz8CMLDTdhRn8/cdbmX2j9q8/hBCx1fz4WtztSS03Jc5evQDUjo760/byHASA9JFEVHoAqNd3PNxX08w+gSMDzS1UYr/xIoHJn/MBdWEz/yuQkn/6a6j4AAAAAA==",
+      "createdAt": "Tue Feb 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "culture",
+      "slug": "father-john-mistys-pure-comedy-is-a-hilarious-masterpiece",
+      "locale": "en",
+      "title": "Father John Misty's 'Pure Comedy' Is a Hilarious Masterpiece",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Father John Misty\\u2019s new album, Pure Comedy, comes at you fast and furious in its opening moments. The title track opens the record with a mock-operatic explosion of strings and piano that is as grandiose and sarcastic as anything this singer-songwriter has released to date. It\\u2019s as if Father John Misty (aka Josh Tillman) is speaking directly to us, the listener, right from the beginning: pure comedy indeed.\nIt\\u2019s a brilliant move on Tillman\\u2019s part to open an album with such a statement piece, because it sets the tone for what is to follow. Pure Comedy continues with a theatrical bombast that feels more inspired by Broadway than indie rock; there are even snippets of voiceover scattered throughout to help drive home Tillman\\u2019s point. But what exactly is his point? That human existence is absurd? Yes, that too. And also something about being terrified of artificial intelligence taking over the world (and rightfully so).\nThis might all sound like some heavy stuff for a Father John Misty record, but trust us \\u2013 it only gets heavier from here.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

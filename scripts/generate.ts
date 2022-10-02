@@ -8,20 +8,13 @@ import { generateRelatedArticles } from "./generateRelatedArticles";
 import { generateSitemap } from "./generateSitemap";
 
 async function generate() {
-  let spinner = ora({
-    text: "Start generating...",
-    prefixText: "🚀",
-  }).start();
-  spinner.stopAndPersist();
-  spinner.start();
+  console.log("🚀 Start generating...");
 
-  await generateArticles(spinner);
-  await generateRelatedArticles(spinner);
-  await generateSitemap(spinner);
+  await generateArticles();
+  await generateRelatedArticles();
+  await generateSitemap();
 
-  spinner.prefixText = "✅";
-  spinner.text = `All done!`;
-  spinner.stopAndPersist();
+  console.log("✅ All done!");
   process.exit(0);
 }
 

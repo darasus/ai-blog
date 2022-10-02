@@ -4,7 +4,7 @@ import { readFileSync } from "fs";
 import path from "path";
 import { postsPath } from "./paths";
 
-export const getPost = async (slug: string): Promise<Post | null> => {
+export const getPost = (slug: string): Post | null => {
   const post = JSON.parse(
     readFileSync(path.join(postsPath, `${slug}.json`), "utf8")
   ) as Post;

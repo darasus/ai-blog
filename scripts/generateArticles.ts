@@ -1,49 +1,68 @@
 import path from "path";
-import fs from "fs";
+import fs, { readFileSync } from "fs";
 import { Writesonic } from "../lib/writesonic";
 import { getArticleData } from "../node-utils/getArticleData";
-import { readArticleImageFile } from "../node-utils/readArticleImageFile";
 import slugify from "slugify";
 import sharp from "sharp";
 import { Dalle } from "../lib/dalle";
-import { imagesPath } from "../node-utils/paths";
+import { imagesPath, postsPath } from "../node-utils/paths";
 import { Translate } from "../lib/translate";
 import { Ora } from "ora";
 import { Locale, Post } from "../types";
 import { serializeMarkdown } from "../node-utils/serializeMarkdown";
+import { omit } from "ramda";
+import { performance } from "perf_hooks";
+
+const isEqual = require("lodash/isEqual");
 
 const ai = new Writesonic();
 const translateAPI = new Translate();
 
-export async function generateArticles(spinner: Ora) {
+export async function generateArticles() {
+  const start = performance.now();
   const titlesAndCategories = getArticleData();
 
-  for (const [i, { title, category }] of titlesAndCategories.entries()) {
-    spinner.prefixText = "✏️";
-    spinner.text = `Generating article titled(${i + 1}/${
-      titlesAndCategories.length
-    }): ${title}`;
+  console.log(
+    `✏️  Generating article ${titlesAndCategories.length} articles...`
+  );
 
+  for (const [i, { title, category }] of titlesAndCategories.entries()) {
+    const slug: Record<Locale, string> = {
+      en: slugify(title, { strict: true, lower: true }),
+      es: slugify(await translateAPI.translate(title), {
+        strict: true,
+        lower: true,
+      }),
+    };
     const response = await ai.generateArticle({
       title,
     });
+    const originalPost: Record<Locale, Post | null> = {
+      en: JSON.parse(
+        readFileSync(path.join(postsPath, `${slug.en}.json`), "utf8")
+      ) as Post,
+      es: JSON.parse(
+        readFileSync(path.join(postsPath, `${slug.es}.json`), "utf8")
+      ) as Post,
+    };
+
     const { imageSrc, imageSrcBase64 } = await generateAndWriteImage(title);
 
     const basePost = {
       category,
       imageSrc,
       imageSrcBase64,
-      createdAt: new Date().toISOString(),
-      updatedAt: new Date().toISOString(),
     };
 
     const post: Record<Locale, Post> = {
       en: {
         ...basePost,
+        createdAt: originalPost.en?.createdAt ?? new Date().toISOString(),
+        updatedAt: originalPost.en?.updatedAt ?? new Date().toISOString(),
         categoryLocal: category,
-        slug: slugify(title, { strict: true, lower: true }),
+        slug: slug.en,
         locale: "en",
-        title: response.title,
+        title,
         summary: response.summary,
         intro: await serializeMarkdown(response.intro),
         content: await serializeMarkdown(response.content),
@@ -51,10 +70,9 @@ export async function generateArticles(spinner: Ora) {
       },
       es: {
         ...basePost,
-        slug: slugify(await translateAPI.translate(response.title), {
-          strict: true,
-          lower: true,
-        }),
+        createdAt: originalPost.es?.createdAt ?? new Date().toISOString(),
+        updatedAt: originalPost.es?.updatedAt ?? new Date().toISOString(),
+        slug: slug.es,
         locale: "es",
         categoryLocal: await translateAPI.translate(category),
         title: await translateAPI.translate(response.title),
@@ -69,58 +87,59 @@ export async function generateArticles(spinner: Ora) {
       },
     };
 
+    const isSameAsOriginal = isEqual(
+      omit(["relatedArticles"], originalPost.en),
+      omit(["relatedArticles"], post.en)
+    );
+
     const contentPath = path.join(__dirname, "../content");
 
-    fs.writeFileSync(
-      path.join(contentPath, `${post.en.slug}.json`),
-      JSON.stringify(post.en, null, 2)
-    );
-    fs.writeFileSync(
-      path.join(contentPath, `${post.es.slug}.json`),
-      JSON.stringify(post.es, null, 2)
-    );
+    if (!isSameAsOriginal) {
+      const updatedAt = new Date().toISOString();
+      const newPost: Record<Locale, Post> = {
+        en: { ...post.en, updatedAt },
+        es: { ...post.es, updatedAt },
+      };
+      for (const locale of Object.keys(newPost)) {
+        const post = newPost[locale as Locale];
+        fs.writeFileSync(
+          path.join(contentPath, `${post.slug}.json`),
+          JSON.stringify(post, null, 2)
+        );
+      }
+    }
   }
-
-  spinner.stopAndPersist();
-  spinner.start();
-  spinner.prefixText = "✅";
-  spinner.text = `Done generating ${titlesAndCategories.length} articles!`;
-  spinner.stopAndPersist();
+  const end = performance.now();
+  console.log(
+    `✅ Done generating ${titlesAndCategories.length} articles in ${
+      (start - end) / 1000
+    } seconds!`
+  );
 }
 
 async function generateAndWriteImage(title: string) {
   const basename = slugify(title, { strict: true, lower: true });
-  const image = readArticleImageFile(basename + ".png");
 
   let imageSrc = "";
   let imageSrcBase64 = "";
 
-  if (image) {
-    const img = sharp(image).resize(10);
-    const base64url = (await img.toBuffer()).toString("base64");
+  const dalle = new Dalle();
+  const base64String = await dalle.generateImage(title);
+
+  if (base64String) {
+    fs.writeFileSync(
+      path.join(imagesPath, `${basename}.png`),
+      base64String,
+      "base64"
+    );
+
     imageSrc = "/articles/" + basename + ".png";
-    imageSrcBase64 = "data:image/png;base64," + base64url;
+    const img = sharp(Buffer.from(base64String, "base64")).resize(10);
+    const srcBase64 = (await img.toBuffer()).toString("base64");
+    imageSrcBase64 = "data:image/png;base64," + srcBase64;
   } else {
-    const dalle = new Dalle();
-    console.log("before");
-    const base64String = await dalle.generateImage(title);
-    console.log("after");
-
-    if (base64String) {
-      fs.writeFileSync(
-        path.join(imagesPath, `${basename}.png`),
-        base64String,
-        "base64"
-      );
-
-      imageSrc = "/articles/" + basename + ".png";
-      const img = sharp(Buffer.from(base64String, "base64")).resize(10);
-      const srcBase64 = (await img.toBuffer()).toString("base64");
-      imageSrcBase64 = "data:image/png;base64," + srcBase64;
-    } else {
-      imageSrc = "";
-      imageSrcBase64 = "";
-    }
+    imageSrc = "";
+    imageSrcBase64 = "";
   }
 
   return { imageSrc, imageSrcBase64 };
