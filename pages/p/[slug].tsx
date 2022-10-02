@@ -59,7 +59,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async (ctx) => {
   const locale = ctx.locale as Locale;
   const defaultLocale = ctx.defaultLocale as Locale;
-  const post = await getPost(ctx.params?.slug as string);
+  const post = getPost(ctx.params?.slug as string);
 
   if (!post) return { notFound: true };
 
