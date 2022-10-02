@@ -1,14 +1,24 @@
-import { Text } from "@chakra-ui/react";
+import { Badge, Box, Flex, Text } from "@chakra-ui/react";
 import React from "react";
+import { Category } from "../../types";
 
 interface Props {
-  items: string[];
+  date: string;
+  category: string;
 }
 
-export const PostMeta: React.FC<Props> = ({ items }) => {
+export const PostMeta: React.FC<Props> = ({ date, category }) => {
   return (
-    <Text color="gray.700" fontSize="sm">
-      {items.join(" • ")}
-    </Text>
+    <Flex alignItems={"center"}>
+      <Badge mr={2}>{category}</Badge>
+      <Text
+        color="gray.700"
+        fontSize="xs"
+        textTransform={"uppercase"}
+        fontWeight="bold"
+      >
+        {date}
+      </Text>
+    </Flex>
   );
 };

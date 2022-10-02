@@ -32,7 +32,7 @@ export function PostExcerpt({ post }: Props) {
         />
       </GridItem>
       <GridItem colSpan={1}>
-        <PostMeta items={[createdAt, capitalize(categoryLocal)]} />
+        <PostMeta category={categoryLocal} date={createdAt} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <Box px={"1"}>
           <Markdown {...intro} />

@@ -6,6 +6,7 @@ import { capitalize } from "../../isomorphic-utils/capitalize";
 import { Markdown } from "../Markdown";
 import { PostMeta } from "./PostMeta";
 import { PostTitle } from "./PostTitle";
+import { create } from "domain";
 
 interface Props {
   post: Post;
@@ -48,7 +49,7 @@ export function DetailedPost({ post }: Props) {
             justifyContent="center"
             flexDirection="column"
           >
-            <PostMeta items={[createdAt, capitalize(categoryLocal)]} />
+            <PostMeta date={createdAt} category={categoryLocal} />
             <PostTitle>{title}</PostTitle>
           </Flex>
         </GridItem>
