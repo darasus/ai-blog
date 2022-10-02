@@ -3,170 +3,19 @@
   "imageSrc": "/articles/5-easy-tips-for-making-better-soup.png",
   "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAYsFvqZU9dIAP7Ks3U5e0TXLq/pcuN+Ib2DeLLKLfK56uV6kwR/OeV9C8+fP6xSGvdY/5iqvVNdEvmpGEKNS70uPiARK+VVE3xApOz6ShcK39vpFIXE70vSWN1W0la/H5z/+YWtOh0Or//hgq+PS++ftHugAA==",
   "createdAt": "2020-09-09T23:25:13.021Z",
-  "updatedAt": "2022-10-02T06:20:10.181Z",
+  "updatedAt": "2022-10-02T09:35:04.632Z",
   "categoryLocal": "cooking",
   "slug": "5-easy-tips-for-making-better-soup",
   "locale": "en",
   "title": "5 easy tips for making better soup",
   "summary": "There are hundreds of recipes for every type of soup imaginable, but at the end of the day, the most important thing in any soup is the ingredients. If you start with low quality ingredients, your soup will taste like it came out of a can. If your soup is too thin, the best way to fix it is to reduce it on the stovetop for 10-15 minutes. Add your aromatics at the beginning of the pot from the very beginning. Slurp while you’re making it, it’s essential to creating delicious soup.",
   "intro": {
-    "compiledSource": "var y=Object.defineProperty,l=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?y(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,i=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&h(t,o,e[o]);if(a)for(var o of a(e))s.call(e,o)&&h(t,o,e[o]);return t},u=(t,e)=>l(t,f(e));var p=(t,e)=>{var o={};for(var n in t)r.call(t,n)&&e.indexOf(n)<0&&(o[n]=t[n]);if(t!=null&&a)for(var n of a(t))e.indexOf(n)<0&&s.call(t,n)&&(o[n]=t[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:t}=n,e=p(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Making a pot of soup is one of the easiest home-cooked meals to make. You put some ingredients in a pot, bring it to a boil, and whirl it around for a while. There\\u2019s not much more to it than that.\nMaking great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren\\u2019t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.\nIf you\\u2019ve only ever made soup as an afterthought\\u2014something to keep in the pantry when you don\\u2019t feel like eating leftovers\\u2014it might be time to give it another look. Making great soup isn\\u2019t difficult once you know how. Here are 5 easy tips for making better soup:`))}MDXContent.isMDXComponent=!0;\n",
+    "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Making a pot of soup is one of the easiest home-cooked meals to make. You put some ingredients in a pot, bring it to a boil, and whirl it around for a while. There\\u2019s not much more to it than that.\nMaking great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren\\u2019t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.\nIf you\\u2019ve only ever made soup as an afterthought\\u2014something to keep in the pantry when you don\\u2019t feel like eating leftovers\\u2014it might be time to give it another look. Making great soup isn\\u2019t difficult once you know how. Here are 5 easy tips for making better soup:`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
   "content": {
-    "compiledSource": "var y=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(t,e,o)=>e in t?y(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,a=(t,e)=>{for(var o in e||(e={}))n.call(e,o)&&u(t,o,e[o]);if(s)for(var o of s(e))r.call(e,o)&&u(t,o,e[o]);return t},h=(t,e)=>d(t,p(e));var l=(t,e)=>{var o={};for(var i in t)n.call(t,i)&&e.indexOf(i)<0&&(o[i]=t[i]);if(t!=null&&s)for(var i of s(t))e.indexOf(i)<0&&r.call(t,i)&&(o[i]=t[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:t}=i,e=l(i,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"h2\",null,\"Use quality ingredients\"),mdx(\"p\",null,`There are hundreds of recipes for every type of soup imaginable, but at the end of the day, the most important thing in any soup is the ingredients. If you start with low quality (or even just average quality) ingredients, your soup will taste like it came out of a can.\nIf you want to taste the freshness of your ingredients, you have to start with freshness. If you want your soup to be creamy without adding heavy cream, it\\u2019s essential that you use top quality butter. If you want your broth to be rich and deeply flavored, it needs to taste of chicken, not just water.`),mdx(\"h2\",null,\"Always simmer your soup\"),mdx(\"p\",null,`If you want to make a delicious, rich soup, don\\u2019t bring it to a boil, bring it to a simmer. A boil is vigorous and chaotic, whereas a simmer is slow and controlled.\nA boil will cause your vegetables to break down and your broth to boil away into nothingness. A simmer, on the other hand, will slowly infuse your ingredients with flavor.\nIf your soup is too thin, the best way to fix it is to reduce it on the stovetop for 10-15 minutes\\u2014not to boil it harder.`),mdx(\"h2\",null,\"Slurp while you\\u2019re simmering\"),mdx(\"p\",null,`Not only is it polite to slurp your noodles when eating in Japan, it\\u2019s essential to creating delicious soup.\nIf you don\\u2019t taste your soup as you\\u2019re making it, you\\u2019re missing out on a huge part of the process. Taste your ingredients as they cook and adjust them to your liking.\nLet your taste buds help you create a soup that is perfectly seasoned and incredibly delicious.`),mdx(\"h2\",null,\"Add your aromatics at the beginning\"),mdx(\"p\",null,`Not all aromatics need to go in at the beginning, but most of them do. If you add onion and garlic at the end, they\\u2019ll lose their flavor.\nIf you want your soup to be rich and flavorful, add your aromatics to the pot from the very beginning.\nBy letting them simmer for the entire time your soup cooks, they\\u2019ll release tons of essential oils that will flavor your broth.`),mdx(\"h2\",null,\"Don\\u2019t forget the garnishes!\"),mdx(\"p\",null,`Fresh herbs, croutons, grated cheese, and freshly ground pepper are just a few of the dozens of garnishes that make great soup even better.\nIf your soup is creamy and rich, a few fresh herbs will add a bright freshness.\nIf your soup is rich and hearty, a bit of brightness is just what it needs.\nIf your soup is rich and creamy, a bit of crunchy texture is just what it needs.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Soup is the ultimate comfort food. It\\u2019s warm and nourishing, and it can be both hearty and light at the same time. It can be packed with lots of different ingredients or just one special ingredient, and it can be as simple or as complex as you want to make it.\nIf you want to make delicious, satisfying soup, these 5 easy tips are an excellent place to start!`))}MDXContent.isMDXComponent=!0;\n",
+    "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"h2\",null,\"Use quality ingredients\"),mdx(\"p\",null,`There are hundreds of recipes for every type of soup imaginable, but at the end of the day, the most important thing in any soup is the ingredients. If you start with low quality (or even just average quality) ingredients, your soup will taste like it came out of a can.\nIf you want to taste the freshness of your ingredients, you have to start with freshness. If you want your soup to be creamy without adding heavy cream, it\\u2019s essential that you use top quality butter. If you want your broth to be rich and deeply flavored, it needs to taste of chicken, not just water.`),mdx(\"h2\",null,\"Always simmer your soup\"),mdx(\"p\",null,`If you want to make a delicious, rich soup, don\\u2019t bring it to a boil, bring it to a simmer. A boil is vigorous and chaotic, whereas a simmer is slow and controlled.\nA boil will cause your vegetables to break down and your broth to boil away into nothingness. A simmer, on the other hand, will slowly infuse your ingredients with flavor.\nIf your soup is too thin, the best way to fix it is to reduce it on the stovetop for 10-15 minutes\\u2014not to boil it harder.`),mdx(\"h2\",null,\"Slurp while you\\u2019re simmering\"),mdx(\"p\",null,`Not only is it polite to slurp your noodles when eating in Japan, it\\u2019s essential to creating delicious soup.\nIf you don\\u2019t taste your soup as you\\u2019re making it, you\\u2019re missing out on a huge part of the process. Taste your ingredients as they cook and adjust them to your liking.\nLet your taste buds help you create a soup that is perfectly seasoned and incredibly delicious.`),mdx(\"h2\",null,\"Add your aromatics at the beginning\"),mdx(\"p\",null,`Not all aromatics need to go in at the beginning, but most of them do. If you add onion and garlic at the end, they\\u2019ll lose their flavor.\nIf you want your soup to be rich and flavorful, add your aromatics to the pot from the very beginning.\nBy letting them simmer for the entire time your soup cooks, they\\u2019ll release tons of essential oils that will flavor your broth.`),mdx(\"h2\",null,\"Don\\u2019t forget the garnishes!\"),mdx(\"p\",null,`Fresh herbs, croutons, grated cheese, and freshly ground pepper are just a few of the dozens of garnishes that make great soup even better.\nIf your soup is creamy and rich, a few fresh herbs will add a bright freshness.\nIf your soup is rich and hearty, a bit of brightness is just what it needs.\nIf your soup is rich and creamy, a bit of crunchy texture is just what it needs.`),mdx(\"h2\",null,\"Conclusion\"),mdx(\"p\",null,`Soup is the ultimate comfort food. It\\u2019s warm and nourishing, and it can be both hearty and light at the same time. It can be packed with lots of different ingredients or just one special ingredient, and it can be as simple or as complex as you want to make it.\nIf you want to make delicious, satisfying soup, these 5 easy tips are an excellent place to start!`))}MDXContent.isMDXComponent=!0;\n",
     "scope": {}
   },
-  "relatedArticles": [
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/orfollowing-food-trends-is-it-worth-it.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoKAAoAAUAmJYwAAveDE44AAP7+lRXh3t200yjR8Xv8bsNoC93blZ9P74ELa/4VEoAAAA==",
-      "createdAt": "Thu Sep 01 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "orfollowing-food-trends-is-it-worth-it",
-      "locale": "en",
-      "title": "|following Food Trends - Is It Worth It?",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(o,e,t)=>e in o?d(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,a=(o,e)=>{for(var t in e||(e={}))r.call(e,t)&&u(o,t,e[t]);if(n)for(var t of n(e))i.call(e,t)&&u(o,t,e[t]);return o},l=(o,e)=>h(o,p(e));var y=(o,e)=>{var t={};for(var s in o)r.call(o,s)&&e.indexOf(s)<0&&(t[s]=o[s]);if(o!=null&&n)for(var s of n(o))e.indexOf(s)<0&&i.call(o,s)&&(t[s]=o[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:o}=s,e=y(s,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Food trends seem to come and go with dizzying speed. What\\u2019s hot today could be yesterday\\u2019s news tomorrow. But whether you follow food trends or not, your customers will expect you to stay on top of what\\u2019s currently in vogue. So how should you deal with food trends? Do we follow them? Ignore them? Or just give them a lukewarm response?\nFollow food trends if it makes sense for your business, and use them as a way to stay ahead of competitors and gain new customers. Following trends gives your business an opportunity to attract new customers by keeping your place relevant with the latest tastes and preferences. At the same time, ignoring popular foods can also be risky as that can alienate potential patrons who are looking for those options when they come to dine at your establishment.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/make-your-own-recipes-for-diy-condiments-and-sauces.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdAYtVa02w3BZzQAA/vvY26vbNenDLNbVl9P53gDxd1xaN8aG/P/88B533uNajN/4OPxCcvkw8l6V83ClaQgaw0BMcfpVonql7Wz4wW3BBBe5zTEdcvd2arQKdFk/+FoMSUWn8z7fnu8YhzZcTNEMQAAA",
-      "createdAt": "Thu Aug 27 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "make-your-own-recipes-for-diy-condiments-and-sauces",
-      "locale": "en",
-      "title": "Make Your Own - Recipes for Diy Condiments and Sauces",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var h=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var i=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))h.call(o,t)&&i(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&i(e,t,o[t]);return e},u=(e,o)=>d(e,y(o));var m=(e,o)=>{var t={};for(var a in e)h.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The humble condiment is one of the most underrated heroes of the kitchen. A little bit of sauce here, a dollop of mayo there, and voila! You have transformed ho-hum chicken or burgers into something spectacular. Condiments are key flavor boosters in our food and playing around with different combinations can liven up your palate and change things up from day to day. But are you using these hidden gems in the best way possible? Many people tend to purchase store-bought sauces when they could easily make them at home at a fraction of the cost.\nHowever, we all know that homemade versions will be much healthier and fresher than anything you can buy from a store shelf, so why not take 30 minutes from your busy schedule to whip up some condiments? The good news is that many of these recipes are super easy to make \\u2013 even if you\\u2019re a complete newbie in the kitchen. From sweet chili sauce to mayo, here are our top 10 homemade condiments and sauces you should try making today...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/decadent-desserts-that-wont-derail-your-diets.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdBXACVmLfsA6mAAA/sYFfLozNp/P26xOS1heTtgY/vnHCV4vbtMj90oLiL8dk41fhTzozHr3A+lxVDxVbspJGxVQPA95vvM66ZfKrN5dHxUgiXY3k4GoO0Sg4N/fj/9TDr/45xqgf7/Z1af7lZCiOgAA",
-      "createdAt": "Wed Sep 30 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "decadent-desserts-that-wont-derail-your-diets",
-      "locale": "en",
-      "title": "Decadent Desserts That Won't Derail Your Diets",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,y=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&h(e,o,t[o]);if(s)for(var o of s(t))r.call(t,o)&&h(e,o,t[o]);return e},l=(e,t)=>y(e,f(t));var u=(e,t)=>{var o={};for(var a in e)n.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you think dieting means sacrificing your favorite foods, you\\u2019ll be happy to know that nothing could be further from the truth. Instead of being left with bland and boring meals, our team of expert chefs have come up with a selection of decadent dessert recipes that are as healthy as they are tasty.\nIf losing weight is one of your New Year resolutions, it might seem like all desserts are off-limits. However, this isn\\u2019t the case at all. Even if you follow a stricter eating plan, there\\u2019s no reason why you can\\u2019t treat yourself to a sweet treat once in a while. The trick is knowing which ones aren\\u2019t going to derail your diet and which ones will do exactly that. That\\u2019s why we\\u2019re sharing these 15 scrumptious dessert recipes that won't derail your diets.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/one-pan-dinners-fewer-dishes.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJZgCdAYu5wLLQ26m4QAA/q3HYJ4QzbwvW/hI58fenFSOK5QBCZAnCZkFveSFg/e1huzgt6Mp+SHVHVuz41syVjCAF7niljs9Cr+KRAG9OtJ7KP07kPpjF74p+7Sp6LWGPB6mAAA=",
-      "createdAt": "Thu Feb 10 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "one-pan-dinners-fewer-dishes",
-      "locale": "en",
-      "title": "One Pan Dinners = Fewer Dishes",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,o,t)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&h(e,t,o[t]);if(a)for(var t of a(o))r.call(o,t)&&h(e,t,o[t]);return e},d=(e,o)=>m(e,y(o));var u=(e,o)=>{var t={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&a)for(var n of a(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you\\u2019re anything like us, you probably dread doing the dishes after a long day. Why? Because doing the dishes is one of the most time-consuming and tedious chores we have in our homes. That\\u2019s why we\\u2019ve discovered ways to reduce that dreaded task and make it as painless as possible.\nNow that we\\u2019re all living together again after going off to college, we\\u2019ve introduced a lot of new habits as roommates. One of our favorites is learning how to make one pan dinners on nights when everyone has somewhere to be after dinner. It means less time in the kitchen and fewer dishes to clean later on!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/need-some-recipe-inspiration-try-these.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdEf/i19eBu+MXPAA/vgKOzSfvd2zyQUpVnUHCDt8MJBXq9s/yhC0eE7wrXdbeP03wsLaU+PwHXxmlK0v4QB5LE/LYPGRoXvnwct5fm4o616viXADWJIB76d2pQf+7cP/3/r/q1gANf9mTff2kT/prdnBvbsAAA==",
-      "createdAt": "Fri Oct 30 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "need-some-recipe-inspiration-try-these",
-      "locale": "en",
-      "title": "Need Some Recipe Inspiration? Try These",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,f=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,o=Object.prototype.propertyIsEnumerable;var h=(e,t,a)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&h(e,a,t[a]);if(n)for(var a of n(t))o.call(t,a)&&h(e,a,t[a]);return e},c=(e,t)=>f(e,l(t));var u=(e,t)=>{var a={};for(var i in e)r.call(e,i)&&t.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&n)for(var i of n(e))t.indexOf(i)<0&&o.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,t=u(i,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Time to fire up that stove again, because this time it\\u2019s for cooking! The Great British Bake Off is back with a brand new batch of amateur bakers ready to tackle tricky challenges. Instead of the usual judges, this time we have Prue, Noel and Sandi testing their skills in the kitchen.\nFor those who aren\\u2019t familiar with the show, The Great British Bake Off is a contest where amateur bakers are tested on their baking skills. Contestants are asked to make pastry-based dishes that often feature unusual or difficult techniques, and are judged on appearance, taste and originality. In each episode they face two different challenges: a Signature Bake where they must create something using a specific ingredient or theme as inspiration; and a Technical Challenge which might see them making croquembouche or another difficult dish.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/learning-how-to-cook-can-save-your-life.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoKAAoAAUAmJbACdAYrdj6/6OYAAP5m1gTRPtkaow62A7pKWmtu0G5QhRCJJ2cYp14C+sIf8D/9zDSonVn0eWNxvJjMe3nskW0TYdZJc14leZV/8q9Q9dp/n6bU0/yn3/5qPxGPR//dPX9owAA=",
-      "createdAt": "Thu Apr 28 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "learning-how-to-cook-can-save-your-life",
-      "locale": "en",
-      "title": "Learning How to Cook Can save Your Life",
-      "intro": {
-        "compiledSource": "var y=Object.defineProperty,h=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(o,e,t)=>e in o?y(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,i=(o,e)=>{for(var t in e||(e={}))r.call(e,t)&&u(o,t,e[t]);if(n)for(var t of n(e))s.call(e,t)&&u(o,t,e[t]);return o},l=(o,e)=>h(o,d(e));var c=(o,e)=>{var t={};for(var a in o)r.call(o,a)&&e.indexOf(a)<0&&(t[a]=o[a]);if(o!=null&&n)for(var a of n(o))e.indexOf(a)<0&&s.call(o,a)&&(t[a]=o[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:o}=a,e=c(a,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Did you have to learn how to cook in order to become an adult? Did you learn it from your parents or grandparents? Perhaps you\\u2019re one of those people who could never get the hang of it and has resorted to eating take-out or frozen meals for years. Either way, if you find yourself in a situation where your only option for food is what you can make with limited resources, knowing how to cook will be essential.\nLuckily, this is not just some random article about how cooking can save your life someday. This article will actually teach you how to cook! Cooking is not as difficult as many people think. Anyone can do it; you just need a little guidance at first until you get the hang of it. In fact, once you read through this article and practice the techniques a few times, you\\u2019ll probably be able to cook like a pro in no time. So let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJZACdAYuRvtZV3PKAAD++2LH80hxrzJhWEtajSaZc26dD59tQUYzR2/duZnRY4oWP1MGK9ZvGfJhl7nMQZAKa/8LX3pVt1xwsjtq0/p/eUCYSzFWjbhImMMKf1q+uAGF8+yLFC1hjwgttAAAAA==",
-      "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians",
-      "locale": "en",
-      "title": "5 Ways to Cook with Tofu - For Meat-Eaters and Vegetarians",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(o,e,t)=>e in o?d(o,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[e]=t,i=(o,e)=>{for(var t in e||(e={}))s.call(e,t)&&u(o,t,e[t]);if(n)for(var t of n(e))r.call(e,t)&&u(o,t,e[t]);return o},f=(o,e)=>l(o,y(e));var h=(o,e)=>{var t={};for(var a in o)s.call(o,a)&&e.indexOf(a)<0&&(t[a]=o[a]);if(o!=null&&n)for(var a of n(o))e.indexOf(a)<0&&r.call(o,a)&&(t[a]=o[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:o}=a,e=h(a,[\"components\"]);return mdx(MDXLayout,f(i(i({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Regardless of your diet, tofu can be a versatile addition to your meal plan. It\\u2019s also one of the most misunderstood foods. Everyone knows what cheese, fish, and chicken remind us of\\u2014which is why for many people, tofu is an odd, almost alien food.\nThat said, tofu offers a number of benefits: it\\u2019s high in protein and low in calories and saturated fat. In addition, depending on how you prepare it, tofu has no taste or texture that might put off anyone who\\u2019s wary of the stuff.\nFor those who don\\u2019t eat much meat or fish but still want to enjoy the flavors they bring to a meal, cooking with tofu is an excellent idea. Here are five ways you can use this versatile bean as a primary ingredient in your next home-cooked meal\\u2026`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/make-ahead-freezer-meals-for-busy-families.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoKAAoAAUAmJaACdAEOZst8+kAA/vi/X/q58Iqp1u/KuRLXfuXMlrlwHeWb1lCguMrkVX+mSjNbv0OT9/2uIWcHCpMzXLnQVP8rH1HWqySel0lLDwJLO5bUl/0P/OeeVfRMFmMhoW2ohe8757OZxAAA",
-      "createdAt": "Fri Sep 10 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "make-ahead-freezer-meals-for-busy-families",
-      "locale": "en",
-      "title": "Make Ahead Freezer Meals for Busy Families",
-      "intro": {
-        "compiledSource": "var f=Object.defineProperty,y=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var m=(e,t,o)=>t in e?f(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&m(e,o,t[o]);if(n)for(var o of n(t))i.call(t,o)&&m(e,o,t[o]);return e},h=(e,t)=>y(e,c(t));var u=(e,t)=>{var o={};for(var a in e)s.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,h(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The idea of making ahead freezer meals is genius. It\\u2019s the perfect solution for busy, hectic days when you just cannot find the time to cook a decent meal for your family. These fast and furious days happen more often than not, and it feels like no matter how much time we have to plan or prep our meals, life always gets in the way.\nIt\\u2019s not uncommon to come home after a long day at work, pick up your kid from after-school activities, rush them both inside so you can drive them somewhere else, then back home again just in time for dinner \\u2014 if you can make it before bedtime!\nLuckily there are ways to make ahead freezer meals that are simple and stress-free. You don\\u2019t have to feel like a failure every day as a parent if you take some time now to prepare these dishes.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/when-youre-short-on-time-30-minute-meals-or-less.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdDBHQWZbAcj2AAD+mx5UL30acKZ1foZ996BZR/jDLpMVYSkVpypnorUde6m9GNxX2/k+IQFXNIs/6GZn/gi+YIjpeSJZrXXWSOMp8f1TSh/8qrx8rH+YA/DHU2f//Xtqc25//j7JdRAAAA==",
-      "createdAt": "Sat May 15 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "when-youre-short-on-time-30-minute-meals-or-less",
-      "locale": "en",
-      "title": "When You're Short on Time: 30 Minute Meals or Less",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&l(e,t,o[t]);return e},h=(e,o)=>d(e,m(o));var u=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=u(a,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In an ideal world, you would be able to dedicate hours of your day to cooking and preparing wholesome meals. However, with busy work schedules and other obligations, it can be challenging to find the time to cook a healthy meal every night. To help you out in your time of need, we\\u2019ve compiled a list of quick and easy meals that take 30 minutes or less to make. These 30 minute meals or less will have you back on track in no time!\nIf you don\\u2019t have much time to spend in the kitchen after work or school, but want to eat healthy without picking up fast food, we\\u2019ve got your back. These quick and easy meals take 30 minutes or less from prep to finish. Each one is also perfect for busy weeknights when you don\\u2019t have much time for elaborate dinners or lengthy prep sessions. From sheet pan suppers to skillet dinners and more, there are plenty of affordable and accessible ideas here so you can get a home-cooked meal on the table lickety-split\\u2026`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/6-ways-to-make-your-diet-more-nutritious.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAwCdASoKAAoAAUAmJbACdLoB+AH4AJYAHq5gcMTxNAgA/vVBnIaV7npYb95eFK44mTLe6+sAVUhCW2A4KZyem9U4/oJyIxBCiv/WkgXjWOKpqcQjxR3+2//2p//ZBQPddn6C4fgsqSgQTLNWO0y9fwY//E4gAAA=",
-      "createdAt": "Sat Mar 28 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "6-ways-to-make-your-diet-more-nutritious",
-      "locale": "en",
-      "title": "6 Ways to Make Your Diet More Nutritious ",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(t,o,e)=>o in t?p(t,o,{enumerable:!0,configurable:!0,writable:!0,value:e}):t[o]=e,i=(t,o)=>{for(var e in o||(o={}))r.call(o,e)&&u(t,e,o[e]);if(n)for(var e of n(o))s.call(o,e)&&u(t,e,o[e]);return t},c=(t,o)=>y(t,d(o));var m=(t,o)=>{var e={};for(var a in t)r.call(t,a)&&o.indexOf(a)<0&&(e[a]=t[a]);if(t!=null&&n)for(var a of n(t))o.indexOf(a)<0&&s.call(t,a)&&(e[a]=t[a]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var a=e,{components:t}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),o),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Do you feel like your diet just isn\\u2019t cutting it? Maybe it\\u2019s time to amp things up a notch. A good diet is essential to a healthy life, and with so many different diets being promoted these days, it can be hard to separate fact from fiction. When it comes to nutrition, there are so many factors to take into account. You might know that vitamins and minerals are important and that fats, proteins, and carbs all play an important role in your diet. But how do you actually make sure that your diet reflects those principles? Here are some tips and tricks on how you can make your diet more nutritious:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    }
-  ]
+  "relatedArticles": []
 }

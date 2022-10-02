@@ -27,9 +27,6 @@ export async function generateArticles(spinner: Ora) {
       titlesAndCategories.length
     }): ${title}`;
 
-    const response = await ai.generateArticle({
-      title,
-    });
     const slug: Record<Locale, string> = {
       en: slugify(title, { strict: true, lower: true }),
       es: slugify(await translateAPI.translate(title), {
@@ -37,6 +34,9 @@ export async function generateArticles(spinner: Ora) {
         lower: true,
       }),
     };
+    const response = await ai.generateArticle({
+      title,
+    });
     const originalPost: Record<Locale, Post | null> = {
       en: JSON.parse(
         readFileSync(path.join(postsPath, `${slug.en}.json`), "utf8")

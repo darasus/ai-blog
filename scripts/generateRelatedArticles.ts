@@ -11,6 +11,9 @@ export async function generateRelatedArticles(spinner: Ora) {
     spinner.text = `Generating related articles for post titled (${i + 1}/${
       oldPosts.length
     }): ${post.title}`;
+    if (post.relatedArticles.length === 0) {
+      break;
+    }
     const relatedPosts = await getPosts({
       locale: post.locale,
       category: post.category,
