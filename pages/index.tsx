@@ -45,6 +45,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
   const props = await getPosts({
     locale,
     page: 1,
+    numberOfItems: 10,
   });
 
   return {
