@@ -32,7 +32,7 @@ export class Dalle {
 
   public async generateImage(prompt: string): Promise<string | null> {
     const hash = stringToHash(prompt);
-    const existing: string | null = await this.cache.get(hash);
+    const existing: string | null = await this.cache.getString(hash);
 
     if (existing) {
       return existing;

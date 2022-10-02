@@ -131,9 +131,7 @@ async function generateAndWriteImage(title: string) {
     imageSrcBase64 = "data:image/png;base64," + base64url;
   } else {
     const dalle = new Dalle();
-    console.log("before");
     const base64String = await dalle.generateImage(title);
-    console.log("after");
 
     if (base64String) {
       fs.writeFileSync(

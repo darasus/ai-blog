@@ -2402,12 +2402,12 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
               <priority>1.0</priority>
             </url><url>
               <loc>https://www.theaipaper.com/es/p/como-superar-una-ruptura</loc>
-              <lastmod>2022-10-02T09:37:08.802Z</lastmod>
+              <lastmod>2022-10-02T10:10:30.770Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url><url>
               <loc>https://www.theaipaper.com/p/how-to-get-over-a-break-up</loc>
-              <lastmod>2022-10-02T09:37:08.802Z</lastmod>
+              <lastmod>2022-10-02T10:10:30.770Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url><url>
@@ -2692,12 +2692,12 @@ export const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
               <priority>1.0</priority>
             </url><url>
               <loc>https://www.theaipaper.com/p/airlines-are-struggling-to-stay-afloat-amid-the-pandemic</loc>
-              <lastmod>2022-10-02T09:36:24.302Z</lastmod>
+              <lastmod>2022-10-02T10:21:11.315Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url><url>
               <loc>https://www.theaipaper.com/es/p/las-aerolineas-luchan-por-mantenerse-a-flote-en-medio-de-la-pandemia</loc>
-              <lastmod>2022-10-02T09:36:24.302Z</lastmod>
+              <lastmod>2022-10-02T10:21:11.315Z</lastmod>
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url><url>

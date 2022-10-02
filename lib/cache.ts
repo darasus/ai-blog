@@ -29,6 +29,11 @@ export class CacheService {
     }
   };
 
+  getString = async (key: string): Promise<string | null> => {
+    const value = await this.redis.get(key);
+    return value;
+  };
+
   getBuffer = async (key: string) => {
     const value = await this.redis.getBuffer(key);
     if (value === null) return null;
@@ -36,7 +41,7 @@ export class CacheService {
   };
 
   setString = async (key: string, value: string, expires: number) => {
-    await this.redis.set(key, JSON.stringify(value), "EX", expires * 1000);
+    await this.redis.set(key, value, "EX", expires * 1000);
     return value;
   };
 
