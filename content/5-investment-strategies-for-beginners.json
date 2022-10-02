@@ -2,8 +2,8 @@
   "category": "investing",
   "imageSrc": "/articles/5-investment-strategies-for-beginners.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJQBOj+ACd+O2S4S+IAD+4d4CzVAveWdnQzT3PhWT74n3ywb01Orf5bFX8z9Y2Qd/KvQZLfVHy3ldpGhzfhwkoFPkxnF5wCRn3ZKy23ThWMeEcIwMj+DVi6c1/pkvfic/zfu8VXYAAA==",
-  "createdAt": "2022-10-01T12:14:08.401Z",
-  "updatedAt": "2022-10-01T12:14:08.401Z",
+  "createdAt": "2021-09-21T08:57:27.950Z",
+  "updatedAt": "2022-10-02T06:21:59.919Z",
   "categoryLocal": "investing",
   "slug": "5-investment-strategies-for-beginners",
   "locale": "en",
@@ -20,16 +20,16 @@
   "relatedArticles": [
     {
       "category": "investing",
-      "imageSrc": "/articles/what-is-dollar-cost-averaging-and-should-you-do-it.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdDXAASRaqb9DGAAA/vkH/Fpsh1ChYdqDQzyGbcDNVel3w4fcVOkikBL98exu1xlIIg5WhGONKPgh2Q62RV862n3pWEnK1SCF6/wHDPZYExr6EbzUJ8PotfPWP/8NWofx/2/6/af5j6wnI/5LT/6ydRUfiHZ/+v/IAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/the-basics-of-index-investing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJaAAAtzlYQKjuAAA/v4R4TRBEuyXNqfopv32tb8BrUh5Eo0x9HI/SVsdN+LVmzI2crFWcNRrxPH+g6jyd+PYTv//tX+lzg8JiYQE/9p/o3i3Zvk+4AAA",
+      "createdAt": "Wed Sep 01 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
-      "slug": "what-is-dollar-cost-averaging-and-should-you-do-it",
+      "slug": "the-basics-of-index-investing",
       "locale": "en",
-      "title": "What Is Dollar Cost Averaging and Should You Do It?",
+      "title": "The Basics of Index Investing",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},h=(e,t)=>y(e,d(t));var c=(e,t)=>{var a={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Dollar cost averaging is a strategy that investors use to reduce the risk of investing in a particular asset. It involves investing a fixed amount of money at different times\\u2014not just once. This way, you buy more shares when prices are low and fewer shares when prices are high. As a result, your average cost per share is lower than if you had invested the entire amount at once.\nAs an example, let\\u2019s assume an investor has $10,000 to invest in stocks and has been debating between two companies: ABC stock and XYZ stock. If they put all $10,000 into XYZ stock today, it will be worth $9,900 tomorrow because XYZ stock will likely fall that much in value by then. In contrast, investing all $10,000 in ABc today will mean that it will be worth $11,100 tomorrow because ABC stock is likely to rise that much by then. Hence the investor decides to dollar cost average by investing $5,000 today and another $5,000 10 days from now in order to invest the final $5,000 30 days from now \\u2013 spending an equal dollar amount each time ($2,500 per investment). This way they can reduce their risk as well as smooth out the peaks and troughs of their returns.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var y=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?y(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,o=(e,t)=>{for(var a in t||(t={}))r.call(t,a)&&c(e,a,t[a]);if(s)for(var a of s(t))i.call(t,a)&&c(e,a,t[a]);return e},f=(e,t)=>d(e,m(t));var l=(e,t)=>{var a={};for(var n in e)r.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&s)for(var n of s(e))t.indexOf(n)<0&&i.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=l(n,[\"components\"]);return mdx(MDXLayout,f(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Index investing is a strategy that\\u2019s gained a lot of attention in recent years. It\\u2019s been proven by research to be a more cost-effective way to invest than buying individual stocks. In fact, most index funds charge significantly less than the average mutual fund.\nIt\\u2019s also an effective way of steering your investment dollars toward asset classes that are likely to outperform over the long term \\u2014 essentially, away from the dangers of company specific risk and toward safer but higher-yield stocks with broader market potential.\nWhile there are many different types of indexes, generally speaking, an index is a statistical measure of market performance for a given group of companies or other type of asset. An index fund is an investment that aims to track the performance of one or more indexes by holding securities that meet certain criteria as closely as possible.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -37,8 +37,8 @@
       "category": "investing",
       "imageSrc": "/articles/how-to-pick-the-right-investments-for-you.png",
       "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAACQAgCdASoKAAoAAUAmJQBOhgnZEP7qs3xFPOzqAAD++bsu6v0p1xpk7/5N75e9qE8f+72m8ioKuaIHrkHaYP9NraigujTPmCzac7F5XZMCDzPtgr1Cxey6F/mZYYkvmz3OTMgO/P0RncSxPKyXbRE4ggdMlUeYejXMFbr/8eOPE6f1ooisk/kAgTsfbig5yabqsafryNPp/+SuAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
       "slug": "how-to-pick-the-right-investments-for-you",
       "locale": "en",
@@ -50,31 +50,16 @@
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/why-you-should-start-investing-now.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADwAgCdASoKAAoAAUAmJbACdLoB+AARCpgZSoYWHxaeAAD+9RdwwyZZ83G1UAfqf9QAn+P+Z3RAeBBJFeQR92emHrOuu0Ls4WHvlIoS9ShNyJv4hb/NH4yYHAubNodk8LP/3i2/0PK49PVDvE1QUHO1n/6/Hkr/x2fn/8/6/a4CaxB+3wX0K3Zvy0P27AAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/10-things-to-know-before-investing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoKAAoAAUAmJZgCdLoAAv4snjgvqAD+8JAXxRvP/kJW9+LQy1XeL2rLqmqH7hsUvdtsdsxUMDRbUwEIpUFhCrIRHXs03FjK/8w49P+v9RZsrkKDz88uriqAZlRIAA==",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
-      "slug": "why-you-should-start-investing-now",
+      "slug": "10-things-to-know-before-investing",
       "locale": "en",
-      "title": "Why You Should Start Investing Now",
+      "title": "10 Things to Know before Investing",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,c=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&u(e,n,t[n]);if(a)for(var n of a(t))r.call(t,n)&&u(e,n,t[n]);return e},l=(e,t)=>c(e,g(t));var y=(e,t)=>{var n={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=y(o,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`As a millennial, you may feel like your future is bleak because of student loan debt, limited job prospects and stagnant wages. But the reality is that your financial future can be bright if you take action now. Investing as early as possible is perhaps the most effective way to grow your wealth over time.\nInvesting even a small amount of money now can have a big impact on your long-term financial success. Time is your greatest ally when it comes to growing your money \\u2014 the earlier you begin investing, the greater potential return you will see later in life. At Intrinzik we believe that everyone should learn about personal finance and invest responsibly for their future. With this article we want to give you some insights about why you should start investing now and what are the best ways to do it:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/10-investing-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADIS94yoAA/sOa/IMSOby/9WXudXjJuOH/x1p5qf0Xe745TP5Bn5+//2ft53+bGV3jn49/iHMBb/g3/HNv+NXAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "investing",
-      "slug": "10-investing-tips-for-beginners",
-      "locale": "en",
-      "title": "10 Investing Tips for Beginners",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,f=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))a.call(t,n)&&u(e,n,t[n]);if(i)for(var n of i(t))s.call(t,n)&&u(e,n,t[n]);return e},y=(e,t)=>f(e,g(t));var h=(e,t)=>{var n={};for(var o in e)a.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&i)for(var o of i(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=h(o,[\"components\"]);return mdx(MDXLayout,y(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`There\\u2019s a lot of mystery and fear around investing your hard-earned money. For many people, that means they never get started. But investing your money instead of just saving it can have a big impact on your financial future. In fact, time is the enemy of your money -- the sooner you begin investing for your future, the better off you\\u2019ll be.\nWorking with as little as $10 per month or an initial investment of $100 per month, you can begin to invest for your future. While it\\u2019s not necessarily easy to become a successful investor (it does take time and effort), there are simple things you can do to get started on the right foot with minimum risk. Below are 10 investing tips for beginners that will help set you on the right path toward achieving great returns on your savings:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,g=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,i=(e,t)=>{for(var n in t||(t={}))a.call(t,n)&&h(e,n,t[n]);if(s)for(var n of s(t))r.call(t,n)&&h(e,n,t[n]);return e},c=(e,t)=>g(e,m(t));var u=(e,t)=>{var n={};for(var o in e)a.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"The stock market has been a great source of wealth creation for many investors. Over the past decade, the S&P 500 index alone has created more than 200% value appreciation for its long-term investors. However, investing in the stock market is not as simple as buying stocks and forgetting about them for 10 or 20 years. It requires constant monitoring, research, and analysis to identify the right opportunities and manage risk. The Great Recession of 2007-08 is a perfect example of how risky investing can be. Many people who were new to investing suffered significant losses when their investments tanked during that time. If you\\u2019re thinking about investing your money in stocks, here are 10 things you need to know before doing so.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -82,8 +67,8 @@
       "category": "investing",
       "imageSrc": "/articles/how-to-build-a-diversified-investment-portfolio.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAQAgCdASoKAAoAAUAmJbACdAEf2w6GbPyAAP76VWjFiVqbX7SBdKAadVa18Pckze+66r+hRVnqUdtrSwh34SdUlE0o/Y58AbibtY9gmfpCund57CUOlyB1IinIgf5fn9n7+H7r3P4GoqPvsBeUKOv/Ev8O/wck/6j/sf1lY/ab7e/yotf9OGvsoZ5n0AAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
       "slug": "how-to-build-a-diversified-investment-portfolio",
       "locale": "en",
@@ -95,16 +80,31 @@
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/exchange-traded-funds-a-beginners-guide.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AIIaBkDo3AAA/rI+Ykl+gC/TENtStAE75MAeU+RDmw1LtZWwpa+l5Pa8jn/6PE+PhO8DLqT4s2SH/uo//X4LX+4/z6O5jaRsF5Fjs0xPlP68gAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/how-to-start-investing-in-stocks-a-step-by-step-guide-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJbACdAEO0k6vXKwAAP76vv2e8uNir1G193i0grLemzzYd2Xav/JxA1IBwMEX4BdApMg/LQzn/1DXkDiIRVyhfbOBA3X8rV436pZtEf4lG//TgTnH+TkxUf/+DO/8TiAAAA==",
+      "createdAt": "Mon Feb 22 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
-      "slug": "exchange-traded-funds-a-beginners-guide",
+      "slug": "how-to-start-investing-in-stocks-a-step-by-step-guide-for-beginners",
       "locale": "en",
-      "title": "Exchange Traded Funds - A Beginner's Guide",
+      "title": "How to Start Investing in Stocks: A Step by Step Guide for Beginners!",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&l(e,t,o[t]);return e},h=(e,o)=>y(e,d(o));var c=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=c(a,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The global financial crisis, which began in 2007 and is still lingering almost a decade later, has left many investors wary of stocks as an asset class. The collapse of several large banks and financial institutions, coupled with the housing market crash, has led many to question whether the stock market is a safe place for their money.\nThe answer is yes \\u2013 provided you choose the right stocks. In fact, investing in stocks can be one of the safest ways to build your wealth over time. So if you\\u2019re wary about putting your money in individual companies or prefer less risky investments, ETFs may be an ideal option for you. Read on to learn more about these exchange-traded funds and whether or not they could be good for you.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var y=Object.defineProperty,k=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?y(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,i=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&h(t,o,e[o]);if(s)for(var o of s(e))a.call(e,o)&&h(t,o,e[o]);return t},u=(t,e)=>k(t,c(e));var g=(t,e)=>{var o={};for(var n in t)r.call(t,n)&&e.indexOf(n)<0&&(o[n]=t[n]);if(t!=null&&s)for(var n of s(t))e.indexOf(n)<0&&a.call(t,n)&&(o[n]=t[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:t}=n,e=g(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`With the stock market hitting new highs almost every day, investing in stocks might seem like a risky proposition. However, as with any investment, there are risks involved in buying stocks. However, the stock market is a great place to grow your money over the long term.\nIf you\\u2019re thinking about starting to invest, understanding how stocks work and what the risks are can help you make an informed decision about whether or not you should invest your money in stocks.\nThis guide will walk you through everything you need to know about investing in stocks for beginners. It covers topics such as why investing in stocks is a good idea, some general risks of investing and how to get started.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrc": "/articles/what-is-dollar-cost-averaging-and-should-you-do-it.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdDXAASRaqb9DGAAA/vkH/Fpsh1ChYdqDQzyGbcDNVel3w4fcVOkikBL98exu1xlIIg5WhGONKPgh2Q62RV862n3pWEnK1SCF6/wHDPZYExr6EbzUJ8PotfPWP/8NWofx/2/6/af5j6wnI/5LT/6ydRUfiHZ/+v/IAAA=",
+      "createdAt": "Sun Jan 30 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "investing",
+      "slug": "what-is-dollar-cost-averaging-and-should-you-do-it",
+      "locale": "en",
+      "title": "What Is Dollar Cost Averaging and Should You Do It?",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?u(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,s=(e,t)=>{for(var a in t||(t={}))i.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},h=(e,t)=>y(e,d(t));var c=(e,t)=>{var a={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Dollar cost averaging is a strategy that investors use to reduce the risk of investing in a particular asset. It involves investing a fixed amount of money at different times\\u2014not just once. This way, you buy more shares when prices are low and fewer shares when prices are high. As a result, your average cost per share is lower than if you had invested the entire amount at once.\nAs an example, let\\u2019s assume an investor has $10,000 to invest in stocks and has been debating between two companies: ABC stock and XYZ stock. If they put all $10,000 into XYZ stock today, it will be worth $9,900 tomorrow because XYZ stock will likely fall that much in value by then. In contrast, investing all $10,000 in ABc today will mean that it will be worth $11,100 tomorrow because ABC stock is likely to rise that much by then. Hence the investor decides to dollar cost average by investing $5,000 today and another $5,000 10 days from now in order to invest the final $5,000 30 days from now \\u2013 spending an equal dollar amount each time ($2,500 per investment). This way they can reduce their risk as well as smooth out the peaks and troughs of their returns.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -112,8 +112,8 @@
       "category": "investing",
       "imageSrc": "/articles/investing-for-income-generating-passive-income.png",
       "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAgCdASoKAAoAAUAmJbACdLoB+AH4gAMPzEpzIAD3huXzFyfjirwML86Kp14P3jGtvrlSWA2kuJcROGoc3Pph7LfY8DN3jI13yH/535R+avXWKHRoEJMaSn8EP/zv78q/qfU5/n/iA+UBuRUTLMo/exfPf/hfwAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Mon May 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
       "slug": "investing-for-income-generating-passive-income",
       "locale": "en",
@@ -125,31 +125,16 @@
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/how-to-make-your-money-work-for-you-investing-101.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdAEO4e8SsmAA/vAb+q+f/l0hWRKsambfSuXjH/S49FXRZpAvqDY3v4qFjgH+qVUQ1S0UV2GiAWjlCBRbTrwgibKJqeyp4t49zH/5Dy/k7/T7A1owf+zI//gitz4AAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/getting-started-in-real-estate-investing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoKAAoAAUAmJbACdLoAAnGYuqyWQAD+nAUW85OVKByO3lgpV4wf/+/0j0c7QDbaqGNxWcasrJhZ0lCl0okYGJFi5hErnPpb4fS5bUEz3MLmdCXq+KpgQ6m/8w/BZxhKd/JxuiqQfRFj/d+HpL5o5/JPWhwyAAAA",
+      "createdAt": "Mon Feb 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
-      "slug": "how-to-make-your-money-work-for-you-investing-101",
+      "slug": "getting-started-in-real-estate-investing",
       "locale": "en",
-      "title": "How to Make Your Money Work for You - Investing 101",
+      "title": "Getting Started in Real Estate Investing",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var y=(e,t,n)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&y(e,n,t[n]);if(a)for(var n of a(t))s.call(t,n)&&y(e,n,t[n]);return e},h=(e,t)=>d(e,u(t));var l=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&a)for(var o of a(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=l(o,[\"components\"]);return mdx(MDXLayout,h(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"People have many different reasons for saving money. Some are very frugal and use every spare penny to pay down debt, buy a home, or fund retirement plans. However, many people simply stash away their cash in a bank account hoping it will grow over time. While this is the tried-and-true method of savings, it won\\u2019t help you get rich. To grow your wealth instead of simply preserving it, you need to invest your cash and work on growing that money over time. Even if you\\u2019re young and have an extended road toward retirement ahead of you, there are still smart investing strategies that can help you build wealth sooner rather than later. Investing isn\\u2019t complicated; even with its fancy words like \\u201Casset allocation\\u201D and \\u201Cbeta coefficient.\\u201D Here are some helpful investing tips to get started...\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/the-benefits-of-investing-for-retirement.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAwAgCdASoKAAoAAUAmJbACdAEPSpKTBQFu+AD++baAUzn18abXj340rorTlUqTyesghgHfOIr68xjkXO7LuKpi0c/6lX8PmbTfdr7/vr4fl/yQfvF/AQjpZa95B9cRnYrcePxvHy//fZHcnyCoC1Z9nzQcCWs//DTA//S5n/ekKXF/2Yz/6ONzUfX3EHAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "investing",
-      "slug": "the-benefits-of-investing-for-retirement",
-      "locale": "en",
-      "title": "The Benefits of Investing for Retirement",
-      "intro": {
-        "compiledSource": "var h=Object.defineProperty,g=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))a.call(t,o)&&l(e,o,t[o]);if(i)for(var o of i(t))s.call(t,o)&&l(e,o,t[o]);return e},u=(e,t)=>g(e,m(t));var y=(e,t)=>{var o={};for(var n in e)a.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=y(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The quality of life for most people in their golden years is directly correlated to how well they prepared for retirement. According to a recent report by the National Institute on Retirement Security, as many as one-third of Americans are at risk of being unable to maintain their current standard of living in retirement. That\\u2019s because many are not putting away enough money on a regular basis.\nAn investment strategy that can be useful for helping you achieve your retirement goals is known as \"retirement investing.\" This type of investing is geared toward enabling you to retire sooner with a more comfortable and secure standard of living. If you\\u2019re not quite ready to retire but would like to have more financial security once you do, it\\u2019s probably time to begin planning for your post-work life. A good place to start is by familiarizing yourself with the many different types of retirement investing available. Understanding these various options along with their pros and cons will help you determine which one(s) might be right for you.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var y=Object.defineProperty,d=Object.defineProperties;var w=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(t,e,o)=>e in t?y(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,i=(t,e)=>{for(var o in e||(e={}))r.call(e,o)&&l(t,o,e[o]);if(n)for(var o of n(e))s.call(e,o)&&l(t,o,e[o]);return t},u=(t,e)=>d(t,w(e));var h=(t,e)=>{var o={};for(var a in t)r.call(t,a)&&e.indexOf(a)<0&&(o[a]=t[a]);if(t!=null&&n)for(var a of n(t))e.indexOf(a)<0&&s.call(t,a)&&(o[a]=t[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:t}=a,e=h(a,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Real estate investing can be a very lucrative career or side gig. It may seem like a lot of work, but the truth is that it\\u2019s not as difficult as you think. You\\u2019ll be surprised at how simple real estate investing can be if you know what to do and where to start. If you\\u2019re new to the world of real estate investing, then this blog post will help get you started down the right path.\nThis article will walk you through different types of real estate investments and reveal ways to get started in this market today. Even if you don\\u2019t have millions of dollars lying around, there are still plenty of ways for you to get your feet wet in the world of real estate investing without breaking the bank.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -157,14 +142,29 @@
       "category": "investing",
       "imageSrc": "/articles/the-best-ways-to-invest-your-money-and-get-the-most-out-of-it.png",
       "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAQCdASoKAAoAAUAmJbACdADdOWTKAADJ7dFpqEU3t/tcuN7hoK5QB1lKbHS8YS0cZ1lZP04yR/0IVu6ErCdb2dHGaNzme0d8Gw/M+hP+lq7Ts2xqjOAX9/463/zC1LA32//f2gn/bt9zTHZv/K8P38y79hQA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Thu Jul 14 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "investing",
       "slug": "the-best-ways-to-invest-your-money-and-get-the-most-out-of-it",
       "locale": "en",
       "title": "The Best Ways to Invest Your Money and Get the Most Out of It",
       "intro": {
         "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,t,o)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&h(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&h(e,o,t[o]);return e},u=(e,t)=>d(e,m(t));var y=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=y(a,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`When it comes to money, everyone has something to say. Everyone also has a different opinion on how you should spend, save and invest it. Let\\u2019s face it \\u2013 with so much advice out there, it can be hard to know what to do with your cash. But when you think about it, that\\u2019s exactly why we\\u2019re here \\u2013 to help you find the best way forward for your needs. Because whether you have a small amount or a larger sum of money available right now, the sooner you start investing wisely the better off you\\u2019ll be in the long run.\nWe all want financial security and a comfortable retirement some day \\u2014 but not many people are willing to put in the time and effort required to get there. That\\u2019s why we\\u2019ve got all the information you need right here so that you can start making smart decisions today and build a better financial future tomorrow.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrc": "/articles/10-investing-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADIS94yoAA/sOa/IMSOby/9WXudXjJuOH/x1p5qf0Xe745TP5Bn5+//2ft53+bGV3jn49/iHMBb/g3/HNv+NXAAA==",
+      "createdAt": "Tue Mar 16 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "investing",
+      "slug": "10-investing-tips-for-beginners",
+      "locale": "en",
+      "title": "10 Investing Tips for Beginners",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,f=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,t,n)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))a.call(t,n)&&u(e,n,t[n]);if(i)for(var n of i(t))s.call(t,n)&&u(e,n,t[n]);return e},y=(e,t)=>f(e,g(t));var h=(e,t)=>{var n={};for(var o in e)a.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&i)for(var o of i(e))t.indexOf(o)<0&&s.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=h(o,[\"components\"]);return mdx(MDXLayout,y(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`There\\u2019s a lot of mystery and fear around investing your hard-earned money. For many people, that means they never get started. But investing your money instead of just saving it can have a big impact on your financial future. In fact, time is the enemy of your money -- the sooner you begin investing for your future, the better off you\\u2019ll be.\nWorking with as little as $10 per month or an initial investment of $100 per month, you can begin to invest for your future. While it\\u2019s not necessarily easy to become a successful investor (it does take time and effort), there are simple things you can do to get started on the right foot with minimum risk. Below are 10 investing tips for beginners that will help set you on the right path toward achieving great returns on your savings:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

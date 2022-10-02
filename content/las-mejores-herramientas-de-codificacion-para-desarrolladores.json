@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
   "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJbACdLoAEJMX9t5TSSYgAP6ZRKBTEDyCd2ytne+G9oGhM43Liay+rcl2+90YeiciOVUi6GldzGdv2h3cb4LB+K3RQ9xCO/TXKMmSprdiwL7KzTRD4+qjZiwLA/26z0N11PPYK4UE/+18GaqwKXF/+Zt/SP4N//X4SjQL8pgAAA==",
-  "createdAt": "2022-10-01T12:13:16.484Z",
-  "updatedAt": "2022-10-01T12:13:16.484Z",
+  "createdAt": "2021-08-04T04:54:52.221Z",
+  "updatedAt": "2022-10-02T06:21:01.084Z",
   "slug": "las-mejores-herramientas-de-codificacion-para-desarrolladores",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,70 +20,10 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-system-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwbC06ruAAD+++9cdKVg9HnX4yT4RDKzgoN8uCQmUc77hCUSPql5GKUf2jHXS9BNx98zQx0m5DnYoXwXD9DSQZ2TxfJM82kaJ7BgfKWO/OGQ/qPLXz2SNf6Iuvwpfxf+Djdf9xD3lL/ytAAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "ir-idioma-para-la-programacion-del-sistema",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Ir Idioma Para La Programación Del Sistema",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var u=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&u(e,o,a[o]);if(n)for(var o of n(a))t.call(a,o)&&u(e,o,a[o]);return e},p=(e,a)=>d(e,m(a));var c=(e,a)=>{var o={};for(var s in e)i.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&t.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=c(s,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Aunque los ingenieros de software no lo piensen, casi todas las aplicaciones de su tel\\xE9fono, tableta o computadora port\\xE1til se ejecutan en un sistema operativo. Todo, desde su c\\xE1mara hasta las aplicaciones que usa para chatear con amigos, requiere un c\\xF3digo de software dise\\xF1ado espec\\xEDficamente para el sistema operativo y su arquitectura de hardware particular. Estos sistemas operativos a menudo se denominan \"lenguajes de programaci\\xF3n del sistema\" porque tienen un enfoque singular en el sistema subyacente en lugar de las aplicaciones del usuario final.\nSi observa cualquier lista de lenguajes de programaci\\xF3n populares, ver\\xE1 que Go es bastante poco com\\xFAn, especialmente como lenguaje principal utilizado por programadores y desarrolladores de sistemas. Sin embargo, tambi\\xE9n se ha hablado mucho recientemente sobre c\\xF3mo Go se ha convertido en una excelente opci\\xF3n para proyectos que requieren un rendimiento intensivo y un uso limitado de la memoria. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 este podr\\xEDa ser el caso, siga leyendo para saber por qu\\xE9 Go es una buena opci\\xF3n para los proyectos de programaci\\xF3n de sistemas.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJagCdFKACoad9A3OwMwA/nk//1CBGI/Fxipygt/CVGLZdpllv5Wf+V/5lr98kKUNa6lvFLZ7jPcos35tHQW26vPvGlmQHIHU452jeOvxFJ1ldbNg7Z1k0lThNdEXhkfY5MUOCDJn8G/7AMzCyN/Tjl/8o0MJDD/jAt/4v/+vWLPwAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Cómo Encontrar La Mejor Ayuda De Codificación En Línea",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,r=(e,a)=>{for(var n in a||(a={}))i.call(a,n)&&c(e,n,a[n]);if(s)for(var n of s(a))t.call(a,n)&&c(e,n,a[n]);return e},u=(e,a)=>p(e,m(a));var d=(e,a)=>{var n={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))a.indexOf(o)<0&&t.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFSab\\xEDa que encontrar ayuda con la codificaci\\xF3n inform\\xE1tica es una de las industrias en l\\xEDnea de m\\xE1s r\\xE1pido crecimiento? \\xBFSab\\xEDa tambi\\xE9n que hay una gran cantidad de sitios web donde puede encontrar la misma ayuda de codificaci\\xF3n? Con tantos lugares para buscar ayuda con la codificaci\\xF3n, tiene sentido que haya tantos profesionales que no parecen encontrar las mejores opciones. \\xA1Pero no te preocupes! Hay un mont\\xF3n de grandes recursos por ah\\xED si sabe d\\xF3nde buscar.\nEn esta publicaci\\xF3n de blog, exploraremos algunos de los lugares m\\xE1s efectivos en l\\xEDnea para encontrar los mejores ayudantes de programaci\\xF3n. Estas plataformas facilitan que los codificadores se conecten y colaboren, al mismo tiempo que permiten a las empresas y a las personas encontrar asistentes virtuales de primer nivel cuando m\\xE1s los necesitan. \\xBFEntonces, Qu\\xE9 esperas? \\xA1Sigue leyendo y descubre tus nuevos lugares favoritos para obtener ayuda con la codificaci\\xF3n hoy mismo!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJbACdEf/gfL0jcgA/vXd2uJ9Km1R7XQ6A20Av/lrDqV/+cY+2ittu97VqnCI/pYcrISl/5K1rXpP6OlPf/0NbeuLN+xXr1OtAvYbfd9wAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "lenguaje-go-para-programacion-orientada-a-objetos",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Lenguaje Go Para Programación Orientada a Objetos",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var p=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&p(e,o,a[o]);if(n)for(var o of n(a))d.call(a,o)&&p(e,o,a[o]);return e},t=(e,a)=>l(e,m(a));var c=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&n)for(var r of n(e))a.indexOf(r)<0&&d.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=c(r,[\"components\"]);return mdx(MDXLayout,t(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy en d\\xEDa, existe una gran demanda de desarrolladores de software que puedan crear programas y aplicaciones de \\xFAltima generaci\\xF3n. Gracias a la r\\xE1pida expansi\\xF3n de la tecnolog\\xEDa, hay muchos puestos de trabajo disponibles en este campo. Sin embargo, no cualquiera puede convertirse en programador; necesita tener habilidades espec\\xEDficas y saber c\\xF3mo conseguir el trabajo que desea.\nSi est\\xE1 interesado en convertirse en programador de software y explorar nuevas oportunidades profesionales, es importante que elija el lenguaje de programaci\\xF3n adecuado desde el principio. La demanda de programadores capacitados est\\xE1 creciendo r\\xE1pidamente, por lo que al elegir el lenguaje de programaci\\xF3n adecuado ahora, puede prepararse para el \\xE9xito en el futuro. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre la programaci\\xF3n Go y su potencial como lenguaje de programaci\\xF3n orientado a objetos.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJYwCw7Ypvvu6IuDKAAD+/U/OuZbOasd0xmIwp0Sk4L7cEb20a3COU+HFAHQn2i3q4pUPdROUP33T3gyXS3xDQlXW9nXrn/LkAaexBiicK9ldR5vWv3QeIAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "ir-idioma-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Ir Idioma Para Principiantes",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var i=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,d=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&i(e,o,a[o]);if(n)for(var o of n(a))u.call(a,o)&&i(e,o,a[o]);return e},l=(e,a)=>c(e,m(a));var t=(e,a)=>{var o={};for(var s in e)r.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&u.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=t(s,[\"components\"]);return mdx(MDXLayout,l(d(d({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFSab\\xEDas que hoy en d\\xEDa hay m\\xE1s de 5000 lenguajes de programaci\\xF3n en el mundo? Y de esos, solo un pu\\xF1ado ha obtenido una adopci\\xF3n generalizada. Cada d\\xEDa se crean lenguajes de programaci\\xF3n m\\xE1s nuevos y oscuros. De hecho, parece que el mercado est\\xE1 sobresaturado con ellos.\nPero Go se distingue de todos los dem\\xE1s lenguajes de programaci\\xF3n por su simplicidad y facilidad de uso. Ha sido adoptado por algunas de las firmas de tecnolog\\xEDa m\\xE1s grandes del mundo (Google, Digital Ocean, Intuit, Wordpress.com y Heroku) por su facilidad de uso, sintaxis simple y rendimiento r\\xE1pido.\nAunque es uno de los lenguajes de programaci\\xF3n m\\xE1s nuevos en la actualidad, Go est\\xE1 creciendo constantemente en popularidad entre los desarrolladores y las empresas. En este art\\xEDculo, exploraremos qu\\xE9 hace que este idioma sea tan \\xFAnico y por qu\\xE9 vale la pena aprenderlo para los principiantes.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
       "imageSrc": "/articles/python-the-language-of-the-web.png",
       "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJbACdAYtLvZn5/tAAP7lO9bnnO9rmnlm2cHP9Gu3QOlRH3cAUYeJzYsP/pkkJxtMfzcIEAESgmzq39w1Y29IWYDPsqh9f3LSf+txaURIIYVf/kK9wMG+J5n++9KjlM/+X9fqOvudvI19hZzGsbR6UR1wAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "python-el-lenguaje-de-la-web",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -95,16 +35,16 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoKAAoAAUAmJbACdLoAAv3rPr8zAAD++yY0FUpnR3dw9DK5YfZxi/3r94vv1z61rdNoZRFcAIHHr1/MOK0O/9WpCZfwqKXLX/uLi/ZbR3GMBBycu//M0fpN9JvMAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "ir-lenguaje-para-desarrollo-web",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIRG63xAAAP7tKGb5R9tiqaI5JTqpkmqS5kZuY3N+X5Ppz15d0jFUfDXHxYOdFRnX/7oAe/cuwMAqWi39ahjf0cbr4kL/xIX/xheD2G0cW8wgAA==",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-administracion-web",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Lenguaje Para Desarrollo Web",
+      "title": "Ir Idioma Para Administración Web",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var u=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,i=(e,a)=>{for(var o in a||(a={}))n.call(a,o)&&u(e,o,a[o]);if(s)for(var o of s(a))c.call(a,o)&&u(e,o,a[o]);return e},p=(e,a)=>l(e,m(a));var t=(e,a)=>{var o={};for(var r in e)n.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&c.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=t(r,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n de c\\xF3digo abierto que permite crear software simple y confiable m\\xE1s r\\xE1pido. Se ha convertido en una de las alternativas m\\xE1s exitosas a los lenguajes heredados como C, C++ y Java en los \\xFAltimos a\\xF1os. Las principales empresas como Google, Dropbox, Netflix, Uber y muchas otras est\\xE1n adoptando Go para sus servicios de back-end, y no solo por su inusual car\\xE1cter de mascota.\nLa simplicidad de Go facilita la lectura y comprensi\\xF3n del c\\xF3digo. Sus bibliotecas est\\xE1ndar significan que los programadores no necesitan crear funciones comunes desde cero cada vez que escriben un programa. Su concurrencia incorporada permite un rendimiento r\\xE1pido para programas que realizan m\\xFAltiples solicitudes simult\\xE1neas. Y su soporte para interfaces significa que puede crear software flexible sin preocuparse por el tipo de datos que espera su c\\xF3digo.\nNo se puede negar que hay muchos beneficios al usar Go para desarrollar aplicaciones web. Aqu\\xED discutiremos por qu\\xE9 deber\\xEDa considerar usar este popular lenguaje de programaci\\xF3n para sus proyectos de desarrollo web.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))c.call(a,o)&&d(e,o,a[o]);return e},t=(e,a)=>u(e,m(a));var l=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&c.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=l(r,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -112,8 +52,8 @@
       "category": "coding",
       "imageSrc": "/articles/python-an-introduction.png",
       "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJYwC7AYUAV1LK9FfgAD+97R/X/36K4hzsn1CZJflT/4n32XzA0adF/G+Pm9Wa9/EbImSkjU+iNwNancnMSbSNUfp/z+go1//OraZWIx30doFT/HdhrQ1CXh+jdVwD6yZQUeA27MQlQQ3AAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Thu Jul 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "python-una-introduccion",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -125,46 +65,106 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/java-security.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdLoAAwiGPjUAAP723oHbb6/bReP/VPr1soo6jy77K1NX1XfLiCZa9OqjQ5bnUTKlYxw1C3vP+bozEMyqI3B0qNpwKhZD/7UOcv/b/n/t/+f+vuueswyP/wrj1/+Dkz+Df/1Brf35/DAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "seguridad-java",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoKAAoAAUAmJZQCw7EPDKKF+AD+9aP6BYL4zWkSYfacr4z0N/Jn8flb6ioK5Itl1auCTu1mse1agMU85rkromAAAAA=",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-codificar-como-un-profesional",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Seguridad Java",
+      "title": "Cómo Codificar Como Un Profesional",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,s,o)=>s in e?l(e,s,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[s]=o,n=(e,s)=>{for(var o in s||(s={}))r.call(s,o)&&t(e,o,s[o]);if(i)for(var o of i(s))d.call(s,o)&&t(e,o,s[o]);return e},c=(e,s)=>p(e,m(s));var u=(e,s)=>{var o={};for(var a in e)r.call(e,a)&&s.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&i)for(var a of i(e))s.indexOf(a)<0&&d.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,s=u(a,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),s),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los dispositivos conectados a Internet contempor\\xE1neos son sistemas en red complejos con requisitos de seguridad desafiantes. Los nuevos vectores de ataque y riesgos de IoT surgen de la convergencia de servicios digitales, sociales, m\\xF3viles, en la nube, de sensores y otros nuevos servicios de Internet.\nLa seguridad es una de las principales preocupaciones tanto para los fabricantes de dispositivos como para los usuarios. Muchos consumidores tienen reservas sobre la seguridad de los dispositivos y servicios de IoT debido a experiencias pasadas con virus inform\\xE1ticos, software esp\\xEDa, conexiones Wi-Fi inseguras, violaci\\xF3n de informaci\\xF3n personal de bases de datos y otros incidentes causados por sistemas no seguros. La seguridad debe abordarse desde el comienzo de cada ciclo de vida del producto. Cada fase requiere un conjunto adecuado de medidas de seguridad para proteger los datos contra el robo o el sabotaje, as\\xED como contra las amenazas internas, como los malintencionados o los empleados deshonestos con acceso privilegiado. Un programa de seguridad integral debe cubrir varias \\xE1reas clave, que incluyen:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(e,o,a)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))u.call(o,a)&&t(e,a,o[a]);if(n)for(var a of n(o))i.call(o,a)&&t(e,a,o[a]);return e},c=(e,o)=>m(e,l(o));var p=(e,o)=>{var a={};for(var r in e)u.call(e,r)&&o.indexOf(r)<0&&(a[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(a[r]=e[r]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var r=a,{components:e}=r,o=p(r,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Ya sea que est\\xE9 comenzando o haya estado programando durante a\\xF1os, siempre habr\\xE1 cosas nuevas que aprender y formas de crecer como programador. Encontrar el pr\\xF3ximo desaf\\xEDo puede parecer desafiante al principio, pero una vez que comprende sus puntos fuertes, se vuelve mucho m\\xE1s f\\xE1cil.\nCodificar como un profesional no es una tarea f\\xE1cil. El mundo de la programaci\\xF3n tiene mucha competencia, por lo que los desarrolladores deben destacarse entre la multitud si quieren tener \\xE9xito y prosperar en esta industria.\nDesafortunadamente, hay demasiados programadores que no saben c\\xF3mo programar como un profesional, lo que significa que estos programadores no pueden alcanzar su potencial ni obtener trabajos en empresas donde puedan continuar su crecimiento como ingenieros de software.\nEso no significa que estos codificadores sean malos o que nunca ser\\xE1n buenos programadores; solo significa que tienen algunas \\xE1reas en las que podr\\xEDan mejorar en este momento. Si quieres saber c\\xF3mo puedes programar como un profesional, sigue leyendo nuestra publicaci\\xF3n de blog.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJagCdAELVaFkGtQAAP5sntvpIL9ilkrS+9nAfva0LreRNNsxgytB+kVG7+IVW/+tdF9gbqddTtS235yE37Em5mg/p4lxtbJSMcjPal3pVcEZMCP1/nXD+MmdrRFZ674Hl/7k5wU3WDS/xhKdZ8Wd/Zbrv8BeBXAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "creacion-de-una-aplicacion-javaserver-faces",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJZACdAEUpOo8aYMpQAD++ng/p3ymOrgX48Tvb3Kt9+NMSvKoh/PaF81yF9yW93Lboi7P8J2nP/Mj9sW/n+vtv9Cax4NeIyQ837ArBetUZ15Jhtuz31drFNIv6MFcdNnOM/wbsyAAAA==",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Creación De Una Aplicación Javaserver Faces",
+      "title": "Ir Idioma Para El Procesamiento De Imágenes",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(e,a,n)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,c=(e,a)=>{for(var n in a||(a={}))s.call(a,n)&&i(e,n,a[n]);if(r)for(var n of r(a))t.call(a,n)&&i(e,n,a[n]);return e},d=(e,a)=>p(e,m(a));var l=(e,a)=>{var n={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&t.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=l(o,[\"components\"]);return mdx(MDXLayout,d(c(c({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`JavaServer Faces (JSF) es una implementaci\\xF3n de la arquitectura est\\xE1ndar del componente de interfaz de usuario del lado del servidor llamada \"Facelets\". Esto convierte a JSF en un marco que utiliza marcado XML en lugar de c\\xF3digo para crear y representar interfaces de usuario.\nUna aplicaci\\xF3n JavaServer Faces b\\xE1sicamente es una colecci\\xF3n de vistas, administrada por un controlador, almacenada en un archivo de almacenamiento e implementada en un contenedor de servlets. Estas aplicaciones se conocen como \"peso pesado\" porque hay muchas piezas diferentes involucradas para construirlo.\nComo sabemos, la tecnolog\\xEDa JavaServer Faces viene con varias bibliotecas de etiquetas integradas y bibliotecas predeterminadas, como el mensaje de acci\\xF3n est\\xE1ndar, la regla de navegaci\\xF3n, el controlador de enfoque, etc. Cada biblioteca ofrece controladores o acciones que le permiten usar diferentes componentes en su aplicaci\\xF3n. Estos componentes se pueden combinar de cualquier manera que desee para cumplir con sus requisitos espec\\xEDficos.\nEn este art\\xEDculo, repasaremos lo que necesita para comenzar a crear un nuevo proyecto de aplicaci\\xF3n JavaServer Faces en IntelliJ IDEA.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var p=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&p(e,o,a[o]);if(s)for(var o of s(a))t.call(a,o)&&p(e,o,a[o]);return e},c=(e,a)=>l(e,m(a));var d=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&t.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-system-automation.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJZgCdAELz4HNovAA/upfJ+sJ9feHgByGQqjpP//YP3QSeJ+U9zMn92q47zyZCOAEMwRDWT4XqToghvYVywK9KUr/4t6U2+6ygLAenBbqizgrBfQwvvhPji6+DebcQAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "python-el-lenguaje-para-la-automatizacion-de-sistemas",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJaACdAYqXbWyF1cDQSAA/vlflf61/f7PMlrGZnJaP5MyPkD2eFFG3/8kPp//FokL2wfegSp/lNPP4pl2Vpn6+Jj79sBwdvfEA/GM3jkYdNGZtZVcyTm0mf/5UOQECZzRrrFIr9Xfnb56LumAAA==",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-un-lenguaje-para-las-masas",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python: El Lenguaje Para La Automatización De Sistemas",
+      "title": "Python: Un Lenguaje Para Las Masas",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,n=Object.prototype.propertyIsEnumerable;var m=(a,e,o)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))i.call(e,o)&&m(a,o,e[o]);if(t)for(var o of t(e))n.call(e,o)&&m(a,o,e[o]);return a},u=(a,e)=>l(a,d(e));var p=(a,e)=>{var o={};for(var s in a)i.call(a,s)&&e.indexOf(s)<0&&(o[s]=a[s]);if(a!=null&&t)for(var s of t(a))e.indexOf(s)<0&&n.call(a,s)&&(o[s]=a[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:a}=s,e=p(s,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Automatizar tareas es una forma de hacer tu vida m\\xE1s f\\xE1cil. Imag\\xEDnese esto, necesita ejecutar un informe todos los d\\xEDas y toma 5 minutos cada vez. Puede configurar una alarma y regresar r\\xE1pidamente al escritorio en 5 minutos o crear un script para automatizar este proceso. Este \\xFAltimo te deja m\\xE1s tiempo para concentrarte en cosas m\\xE1s importantes. \\xBFQu\\xE9 pasar\\xEDa si pudieras automatizar incluso las tareas m\\xE1s simples? \\xBFNo liberar\\xEDa su tiempo para cosas mejores? Ah\\xED es donde entra en juego Python. Como lenguaje de secuencias de comandos de automatizaci\\xF3n, puede ayudarlo a automatizar incluso las tareas m\\xE1s simples y liberar m\\xE1s tiempo para el trabajo que importa. La automatizaci\\xF3n ayuda a las empresas de muchas maneras. Ahorra tiempo, aumenta la eficiencia y reduce los costos al eliminar los procesos manuales. En este blog, exploraremos por qu\\xE9 Python es un lenguaje de programaci\\xF3n tan popular para la automatizaci\\xF3n de sistemas y c\\xF3mo se puede utilizar para automatizar tareas simples y repetitivas en su organizaci\\xF3n. Empecemos\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var t=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var u=(e,o,a)=>o in e?t(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&u(e,a,o[a]);if(r)for(var a of r(o))d.call(o,a)&&u(e,a,o[a]);return e},c=(e,o)=>p(e,m(o));var l=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&r)for(var n of r(e))o.indexOf(n)<0&&d.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=l(n,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n de prop\\xF3sito general que se cre\\xF3 en 1991. Es f\\xE1cil de leer y comprender y tiene una sintaxis mucho m\\xE1s simple que otros lenguajes de programaci\\xF3n como C o Java. Su sintaxis simple, legibilidad y facilidad de uso general han hecho de Python una opci\\xF3n extremadamente popular para los nuevos programadores. Seg\\xFAn el censo de lenguajes de programaci\\xF3n de PYPL, Python es el tercer lenguaje de programaci\\xF3n m\\xE1s utilizado a nivel mundial con un uso de alrededor del 20 %. Adem\\xE1s, Python tambi\\xE9n fue identificado como uno de los 10 lenguajes inform\\xE1ticos de m\\xE1s r\\xE1pido crecimiento. Esta publicaci\\xF3n explicar\\xE1 por qu\\xE9 deber\\xEDa aprender Python, le ense\\xF1ar\\xE1 todo lo que necesita saber sobre este maravilloso lenguaje de codificaci\\xF3n y le brindar\\xE1 algunos recursos para comenzar. As\\xED que sigue leyendo para descubrir m\\xE1s sobre esta incre\\xEDble programaci\\xF3n.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdLoAEIwXpxFAzlGAAP7xukfoZHGfROt0fjzAUTNq5i8tSZRpvZ5ymU/aA/nOVu1Jmvuet5JYudWEy352559LERr86G0aprREJi3FBRqdfMqq36tO2V2ztm4Xu/ZrP/2Ftb82P9G87Qp/lln/uNN7irz/u1zsp/8ZU/HMpx2PQXmjMRbzL9UIAA==",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-inteligencia-artificial",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Go Language Para La Inteligencia Artificial",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&c(e,o,a[o]);if(i)for(var o of i(a))t.call(a,o)&&c(e,o,a[o]);return e},l=(e,a)=>d(e,m(a));var p=(e,a)=>{var o={};for(var r in e)s.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&i)for(var r of i(e))a.indexOf(r)<0&&t.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=p(r,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La tecnolog\\xEDa de inteligencia artificial est\\xE1 creciendo r\\xE1pidamente en todos los sectores. Todas las organizaciones importantes buscan adoptar tecnolog\\xEDa de inteligencia artificial para automatizar procesos, hacer que su negocio sea m\\xE1s eficiente y mejorar la experiencia de sus clientes. Sin embargo, la mayor\\xEDa de estas empresas luchan por elegir las herramientas y los marcos de trabajo de aprendizaje autom\\xE1tico adecuados para sus proyectos de IA, ya que hay varias opciones disponibles en el mercado.\nSi tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n o desarrollar una aplicaci\\xF3n que requiera algoritmos de inteligencia artificial, deber\\xEDa considerar usar Golang para su desarrollo de software.\nGo es un lenguaje de programaci\\xF3n creado por Google y es una de las opciones m\\xE1s populares para desarrollar una aplicaci\\xF3n de IA o implementar un sistema de IA en su organizaci\\xF3n debido a sus potentes funciones. Exploremos por qu\\xE9 Go es una excelente opci\\xF3n para desarrollar aplicaciones de inteligencia artificial y c\\xF3mo se puede usar para construir un sistema de IA estable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/basic-java-syntax.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAgCdASoKAAoAAUAmJYwCdAYoH9JOTn7RMwe4AAD+/U6KmSeAWjd3M+JHqd2evt5O/wYfo3zka3FmIffozl3/2T7ecJ2f75MbgVgVaPoWdenn/lsKxZGkPYIltkDtFn/v0b3KkQjEXAAA",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "sintaxis-basica-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Sintaxis Básica De Java",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,n)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,r=(e,a)=>{for(var n in a||(a={}))i.call(a,n)&&d(e,n,a[n]);if(o)for(var n of o(a))c.call(a,n)&&d(e,n,a[n]);return e},t=(e,a)=>l(e,m(a));var u=(e,a)=>{var n={};for(var s in e)i.call(e,s)&&a.indexOf(s)<0&&(n[s]=e[s]);if(e!=null&&o)for(var s of o(e))a.indexOf(s)<0&&c.call(e,s)&&(n[s]=e[s]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var s=n,{components:e}=s,a=u(s,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando est\\xE1 aprendiendo a codificar, necesita aprender los conceptos b\\xE1sicos antes de poder pasar a temas m\\xE1s complejos. El lenguaje de programaci\\xF3n m\\xE1s fundamental es Java. Es uno de los lenguajes m\\xE1s importantes y ampliamente utilizados en el mundo de la inform\\xE1tica. Muchos otros lenguajes de programaci\\xF3n se basan en \\xE9l, lo que lo hace a\\xFAn m\\xE1s esencial para los programadores.\nSi desea aprender Java, primero debe comprender la sintaxis de codificaci\\xF3n b\\xE1sica. Mucha gente considera que la codificaci\\xF3n es un desaf\\xEDo porque requiere fluidez en una variedad de caracteres y s\\xEDmbolos que no son necesariamente palabras comunes en ingl\\xE9s. Sin embargo, una vez que supere la apariencia inusual de estas palabras, ver\\xE1 que en realidad son conceptos bastante simples cuando se dividen en partes m\\xE1s peque\\xF1as. Una vez que comprenda los conceptos b\\xE1sicos, \\xA1todo ser\\xE1 mucho m\\xE1s f\\xE1cil de ahora en adelante!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-functional-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJaACdAYqXvuyioGAAP799FfzxrbGz3AWvn7eFtOSv84N7AnszXhqtnSM2hVALyHIybAV837qM8+Y1jL8L6SWeo3v7JrcoDbVjfhqv97KAPrsf8C7finH629HjCAA",
+      "createdAt": "Wed Mar 02 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-funcional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Funcional",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?c(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))d.call(a,o)&&t(e,o,a[o]);return e},l=(e,a)=>u(e,m(a));var p=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&d.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La programaci\\xF3n funcional es un estilo de programaci\\xF3n que se enfoca en el uso de funciones para modelar y resolver problemas. Es un paradigma que le permite pensar en su c\\xF3digo en t\\xE9rminos de entrada, salida y operaciones en esas entradas y salidas. Las ventajas de usar programaci\\xF3n funcional son una mayor legibilidad del c\\xF3digo, facilidad de mantenimiento y prueba, y un tiempo de implementaci\\xF3n m\\xE1s corto para algoritmos complejos.\nUna variedad de lenguajes admiten caracter\\xEDsticas de programaci\\xF3n funcional. Cu\\xE1l es mejor para usted depende de sus necesidades espec\\xEDficas, as\\xED como de los otros lenguajes de programaci\\xF3n que ya conoce. Seg\\xFAn sus preferencias de sintaxis, el tama\\xF1o del soporte de la comunidad o la disponibilidad de bibliotecas para el tipo de proyectos en los que est\\xE1 trabajando ahora o en los que podr\\xEDa trabajar en el futuro, diferentes opciones pueden satisfacer sus necesidades mejor que otras.\nEn este art\\xEDculo, exploraremos algunas alternativas populares del lenguaje Go para la programaci\\xF3n funcional con ejemplos y ventajas y desventajas para cada una:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJZQC7AEPDU92kAAA/voKvFyRneM/qz8Qe+tof3HCgQVc/1hbfSWhpmkkxV6uee2S7RwH4yTFd3Zh6mONsjO3RJYRs2T0TgIwLJ64B5WngajGy2m/1Qq/6ppMMdYA",
+      "createdAt": "Sat Feb 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-trucos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Trucos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var c=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var u=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,i=(e,a)=>{for(var o in a||(a={}))n.call(a,o)&&u(e,o,a[o]);if(c)for(var o of c(a))r.call(a,o)&&u(e,o,a[o]);return e},d=(e,a)=>p(e,m(a));var t=(e,a)=>{var o={};for(var s in e)n.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&c)for(var s of c(e))a.indexOf(s)<0&&r.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=t(s,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Debes haber o\\xEDdo hablar de la codificaci\\xF3n antes. Incluso puede saber que es algo que los desarrolladores de software usan para crear aplicaciones y otros productos digitales. Lo que quiz\\xE1s no sepa es que la codificaci\\xF3n puede ser muy divertida.\nLa codificaci\\xF3n es esencialmente el proceso de crear instrucciones para una computadora, de modo que pueda entender lo que usted quiere que haga. Estas instrucciones se conocen com\\xFAnmente como \"c\\xF3digo\" porque son cadenas de caracteres, palabras, frases y s\\xEDmbolos que aparecen en archivos de texto con una extensi\\xF3n .txt.\nLa codificaci\\xF3n no es una habilidad f\\xE1cil de dominar y lleva muchos a\\xF1os a los codificadores perfeccionar sus habilidades. Sin embargo, hay algunos consejos y trucos b\\xE1sicos que todos los nuevos en la codificaci\\xF3n deber\\xEDan saber. Una vez que comprenda estos principios, su c\\xF3digo se volver\\xE1 m\\xE1s legible y l\\xF3gico, lo que har\\xE1 que sea mucho m\\xE1s f\\xE1cil para otros seguir su l\\xF3gica, lo que finalmente hace que sus programas sean m\\xE1s eficientes y f\\xE1ciles de actualizar para otros codificadores en el futuro si es necesario.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

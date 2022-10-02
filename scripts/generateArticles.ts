@@ -11,6 +11,13 @@ import { Translate } from "../lib/translate";
 import { Ora } from "ora";
 import { Locale, Post } from "../types";
 import { serializeMarkdown } from "../node-utils/serializeMarkdown";
+import { getPost } from "../node-utils/getPost";
+
+// function randomDate(start: Date, end: Date) {
+//   return new Date(
+//     start.getTime() + Math.random() * (end.getTime() - start.getTime())
+//   );
+// }
 
 const ai = new Writesonic();
 const translateAPI = new Translate();
@@ -27,21 +34,33 @@ export async function generateArticles(spinner: Ora) {
     const response = await ai.generateArticle({
       title,
     });
+    const slug: Record<Locale, string> = {
+      en: slugify(title, { strict: true, lower: true }),
+      es: slugify(await translateAPI.translate(title), {
+        strict: true,
+        lower: true,
+      }),
+    };
+    const originalPost: Record<Locale, Post | null> = {
+      en: await getPost(slug.en),
+      es: await getPost(slug.en),
+    };
+
     const { imageSrc, imageSrcBase64 } = await generateAndWriteImage(title);
 
     const basePost = {
       category,
       imageSrc,
       imageSrcBase64,
-      createdAt: new Date().toISOString(),
       updatedAt: new Date().toISOString(),
     };
 
     const post: Record<Locale, Post> = {
       en: {
         ...basePost,
+        createdAt: originalPost.en?.createdAt ?? new Date().toISOString(),
         categoryLocal: category,
-        slug: slugify(title, { strict: true, lower: true }),
+        slug: slug.en,
         locale: "en",
         title: response.title,
         summary: response.summary,
@@ -51,10 +70,8 @@ export async function generateArticles(spinner: Ora) {
       },
       es: {
         ...basePost,
-        slug: slugify(await translateAPI.translate(response.title), {
-          strict: true,
-          lower: true,
-        }),
+        createdAt: originalPost.es?.createdAt ?? new Date().toISOString(),
+        slug: slug.es,
         locale: "es",
         categoryLocal: await translateAPI.translate(category),
         title: await translateAPI.translate(response.title),

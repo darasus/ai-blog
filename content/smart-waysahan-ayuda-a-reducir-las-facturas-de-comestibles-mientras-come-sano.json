@@ -2,8 +2,8 @@
   "category": "cooking",
   "imageSrc": "/articles/smart-waysahan-help-reduce-grocery-bills-while-also-eating-healthy.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdC0ZgbAZYfApakAA8D//xd1zcKOryIG/6+Issq8aAm2ZCwcqLh8c7Gt3jcEJE6liNRkDo8K17QVk6oFDiUtjU0LNLvvXJx2gwjH/Vn/47Et//FgwrrtABkx/uk+f/wcmWb/bbetvkAAAAA==",
-  "createdAt": "2022-10-01T12:12:40.660Z",
-  "updatedAt": "2022-10-01T12:12:40.660Z",
+  "createdAt": "2020-07-18T03:17:38.323Z",
+  "updatedAt": "2022-10-02T06:20:20.866Z",
   "slug": "smart-waysahan-ayuda-a-reducir-las-facturas-de-comestibles-mientras-come-sano",
   "locale": "es",
   "categoryLocal": "Cocinando",
@@ -20,46 +20,136 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "/articles/one-pan-dinners-fewer-dishes.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJZgCdAYu5wLLQ26m4QAA/q3HYJ4QzbwvW/hI58fenFSOK5QBCZAnCZkFveSFg/e1huzgt6Mp+SHVHVuz41syVjCAF7niljs9Cr+KRAG9OtJ7KP07kPpjF74p+7Sp6LWGPB6mAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "cenas-en-una-sarten-menos-platos",
+      "imageSrc": "/articles/quick-weeknight-pasta-recipes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAACwAgCdASoKAAoAAUAmJaACdAtEmbu95KYDx/vupaAA/vWEP/xY5yuS++Rpx7m24bFXUjZhoymod5eeQrUL35xuodCaB9no6hUT41WVPtWdMH/477sgI5dVP8wKZ8VP2PKn96Z6aXCjX3ptufYCNRaN2fwwVrisr3fw/l9cCrHn/7wP9HMZ1XoVfDNLMOv5N7GvimIxB70mI/anf7+AAAAA",
+      "createdAt": "Sat Aug 15 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "recetas-rapidas-de-pasta-entre-semana",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Cenas En Una Sartén = Menos Platos",
+      "title": "Recetas Rápidas De Pasta Entre Semana",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var d=(e,o,s)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))t.call(o,s)&&d(e,s,o[s]);if(n)for(var s of n(o))u.call(o,s)&&d(e,s,o[s]);return e},i=(e,o)=>c(e,l(o));var m=(e,o)=>{var s={};for(var a in e)t.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&u.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,i(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si eres como nosotros, probablemente temes lavar los platos despu\\xE9s de un largo d\\xEDa. \\xBFPor qu\\xE9? Porque lavar los platos es una de las tareas m\\xE1s tediosas y que consumen m\\xE1s tiempo que tenemos en nuestros hogares. Es por eso que hemos descubierto formas de reducir esa temida tarea y hacerla lo menos dolorosa posible.\nAhora que todos estamos viviendo juntos nuevamente despu\\xE9s de irnos a la universidad, hemos introducido muchos h\\xE1bitos nuevos como compa\\xF1eros de cuarto. Uno de nuestros favoritos es aprender a hacer cenas en una sart\\xE9n en las noches en que todos tienen un lugar donde estar despu\\xE9s de la cena. \\xA1Significa menos tiempo en la cocina y menos platos para limpiar m\\xE1s tarde!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var p=(a,e,s)=>e in a?d(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,t=(a,e)=>{for(var s in e||(e={}))r.call(e,s)&&p(a,s,e[s]);if(n)for(var s of n(e))c.call(e,s)&&p(a,s,e[s]);return a},u=(a,e)=>l(a,m(e));var i=(a,e)=>{var s={};for(var o in a)r.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&c.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=i(o,[\"components\"]);return mdx(MDXLayout,u(t(t({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La pasta es una soluci\\xF3n perfecta entre semana para cocineros caseros ocupados. Es barato, se cocina r\\xE1pido y es muy f\\xE1cil de vestir con sabores audaces y salsas interesantes.\nIncluso cuando el tiempo es limitado y el estr\\xE9s del trabajo o la escuela es alto, \\xA1conf\\xEDe en la pasta! Hay tantas maneras de hacer recetas r\\xE1pidas de pasta que no te llevar\\xE1n m\\xE1s de 30 minutos de principio a fin.\nPara ayudarlo, hemos enumerado algunas de nuestras recetas de pasta r\\xE1pida favoritas aqu\\xED, junto con consejos sobre c\\xF3mo optimizar a\\xFAn m\\xE1s su proceso. Esperamos que esta gu\\xEDa lo convierta en un experto en la preparaci\\xF3n de platos r\\xE1pidos de pasta que encantar\\xE1n a todos en la casa.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/choosing-seasonal-fruits-vegetables.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoKAAoAAUAmJQBOgMVfyXDpbsF0NAAA/vQSg5rvJdN7FIQgeY95+ExDzTrGT4pfcYfscf2u8/GzJhtLXNl9yPgJplUMa9viOvwcXMA7/14f3LXeU1GbphbaQTNDETmBYsbiujTd+TQGk/CVQPPq5mIBRTfsna4RvkG/dEpkJ8G/eMAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "elegir-frutas-verduras-de-temporada",
+      "imageSrc": "/articles/breakfast-ideas-that-will-make-mornings-infinitely-better-50-packable-lunch-ideas-for-work-or-school.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJbACdAEPDwGSBAAA/vhE2Md4g05loP400t+FEqdhnj0dKNSdsF6WElt06OL7Dr9I38XdJQkxRI7lDHSuMMruMOADHP874j+of//i+WIq1O5H/BSLe4RJ/g3GQAAA",
+      "createdAt": "Sat Nov 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ideas-para-el-desayuno-que-haran-que-las-mananas-sean-infinitamente-mejores-50-ideas-para-el-almuerzo-empacable-para-el-trabajo-o-la-escuela",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Elegir Frutas + Verduras De Temporada",
+      "title": "Ideas Para El Desayuno Que Harán Que Las Mañanas Sean Infinitamente Mejores 50 Ideas Para El Almuerzo Empacable Para El Trabajo O La Escuela",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var o=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,a,n)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,t=(e,a)=>{for(var n in a||(a={}))o.call(a,n)&&u(e,n,a[n]);if(s)for(var n of s(a))i.call(a,n)&&u(e,n,a[n]);return e},d=(e,a)=>c(e,p(a));var m=(e,a)=>{var n={};for(var r in e)o.call(e,r)&&a.indexOf(r)<0&&(n[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&i.call(e,r)&&(n[r]=e[r]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var r=n,{components:e}=r,a=m(r,[\"components\"]);return mdx(MDXLayout,d(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Las frutas y verduras son una fuente nutritiva de vitaminas, minerales, fibra y otros nutrientes. Comer frutas y verduras puede ayudarlo a satisfacer sus necesidades diarias de vitaminas, minerales y otros nutrientes esenciales. Tambi\\xE9n proporcionan antioxidantes (que pueden reducir el riesgo de enfermedades) y otros fitonutrientes (que pueden tener beneficios adicionales para la salud).\nLas verduras son una excelente fuente de muchas vitaminas y minerales, especialmente vitamina C, betacaroteno, calcio, potasio y hierro. Adem\\xE1s de ser una excelente fuente de vitaminas A y K, as\\xED como varias vitaminas B, las frutas tambi\\xE9n son una gran fuente de fibra.\nEn general, el mejor momento para comer frutas de temporada es durante su temporada alta. Hacerlo ayuda a reducir el desperdicio de alimentos y es mejor para el medio ambiente que importarlos de lugares lejanos en cualquier \\xE9poca del a\\xF1o.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,i=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var u=(a,e,o)=>e in a?d(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))l.call(e,o)&&u(a,o,e[o]);if(n)for(var o of n(e))t.call(e,o)&&u(a,o,e[o]);return a},m=(a,e)=>i(a,p(e));var c=(a,e)=>{var o={};for(var s in a)l.call(a,s)&&e.indexOf(s)<0&&(o[s]=a[s]);if(a!=null&&n)for(var s of n(a))e.indexOf(s)<0&&t.call(a,s)&&(o[s]=a[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:a}=s,e=c(s,[\"components\"]);return mdx(MDXLayout,m(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando \\xE9ramos ni\\xF1os, probablemente a nuestros padres les resultaba m\\xE1s f\\xE1cil prepararnos para la escuela por la ma\\xF1ana. Bebimos vaso tras vaso de jugo de naranja, comimos una tostada con mantequilla de man\\xED y tal vez incluso tragamos un taz\\xF3n de cereal o unas cuantas galletas con queso. Pero una vez que llegamos a la escuela secundaria, las cosas comenzaron a complicarse un poco m\\xE1s.\nEsto se debe a que, cuando la mayor\\xEDa de las personas llegan a la adolescencia, sus cuerpos han desarrollado una necesidad cada vez mayor de nutrientes m\\xE1s complejos para alimentar nuestras mentes y cuerpos durante todo el d\\xEDa. En lugar de beber vasos de jugo y comer galletas saladas con queso por la ma\\xF1ana, la mayor\\xEDa de los adultos necesitan comer algo que sea lo suficientemente sustancioso como para mantenerse activos hasta la hora del almuerzo. \\xA1Afortunadamente, hay muchas maneras f\\xE1ciles de lograr esta haza\\xF1a y al mismo tiempo ahorrar tiempo y dinero! Aqu\\xED hay 50 ideas que har\\xE1n que las ma\\xF1anas sean infinitamente mejores...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/how-to-make-the-perfect-grilled-cheese-sandwich.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJagCdDBGAZCGkbkaRAAA/vkHFEWubm56CSYJaf2AuzSzbOnhlal4v0V85DWLFdMWjw3PXQr3IQUz4UEDpi19RSvzuHPd+z/x/6v1soOWDEnfcs7Wav+7/singAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-hacer-el-sandwich-de-queso-a-la-parrilla-perfecto",
+      "imageSrc": "/articles/the-best-recipes-for-using-up-seasonal-produce.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQAgCdASoKAAoAAUAmJbACdAEUUrfWv28AAP7ReeEURSBpbvXXha8230Ggyy4QBWRHeYLXOgCe6jqTbpFoxXjUaFFgnjd2Uq5O3iVqlLsHCY1HzOTKVp5ZqeAniSWGL/+mIC3/Zv4cb/66+/1kcZ/k89GmYCQ2r6Fb/wQ/r6BMeBgAAAA=",
+      "createdAt": "Thu Sep 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-recetas-para-aprovechar-los-productos-de-temporada",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Cómo Hacer El Sándwich De Queso a La Parrilla Perfecto",
+      "title": "Las Mejores Recetas Para Aprovechar Los Productos De Temporada",
       "intro": {
-        "compiledSource": "var i=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var p=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var u=(e,o,s)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,n=(e,o)=>{for(var s in o||(o={}))p.call(o,s)&&u(e,s,o[s]);if(r)for(var s of r(o))l.call(o,s)&&u(e,s,o[s]);return e},t=(e,o)=>c(e,m(o));var d=(e,o)=>{var s={};for(var a in e)p.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&r)for(var a of r(e))o.indexOf(a)<0&&l.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=d(a,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El queso a la parrilla es uno de los s\\xE1ndwiches m\\xE1s reconfortantes y deliciosos que puedes comer. Es universalmente amado, y por una buena raz\\xF3n: es c\\xE1lido, pegajoso y perfecto para los d\\xEDas fr\\xEDos o para los refrigerios despu\\xE9s de la escuela.\nEste queso a la parrilla tambi\\xE9n resulta ser el mejor s\\xE1ndwich de queso a la parrilla que jam\\xE1s haya probado. Con unos simples consejos, puede convertir este cl\\xE1sico s\\xE1ndwich de soso a brillante en solo unos pocos pasos.\nTodos sabemos que el queso a la parrilla se puede hacer de diferentes maneras con diferentes ingredientes. Pero hay m\\xE1s de una manera de prepararlo para que no quede empapado, demasiado seco o quemado por fuera pero no lo suficientemente derretido por dentro.\nCon estos consejos y trucos, \\xA1tu pr\\xF3ximo queso a la parrilla ser\\xE1 perfecto!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var i=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?i(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))d.call(a,o)&&c(e,o,a[o]);if(r)for(var o of r(a))u.call(a,o)&&c(e,o,a[o]);return e},t=(e,a)=>m(e,l(a));var p=(e,a)=>{var o={};for(var s in e)d.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&u.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=p(s,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando comes en temporada, puedes aprovechar los mejores productos locales para aprovecharlos al m\\xE1ximo y reducir el desperdicio de alimentos. Sin embargo, a veces tambi\\xE9n puede parecer un desaf\\xEDo: cuando no hay nada en su caja de CSA m\\xE1s que papas por tercera semana consecutiva u otra r\\xE1faga \\xE1rtica ha llegado y se ha ido sin dejar calabazas de invierno... \\xBFQu\\xE9 se supone que debe hacer?\nY la verdad sea dicha, hay algunas desventajas relacionadas con comer seg\\xFAn la temporada. Por ejemplo, puede parecer m\\xE1s caro comprar verduras solo cuando est\\xE1n en temporada; Puede que no siempre sea as\\xED, pero a menudo el precio no estacional es m\\xE1s bajo porque se cultivan de manera m\\xE1s eficiente con menos insumos a escala industrial.\nSin embargo, \\xA1tambi\\xE9n hay muchas ventajas! Comer en temporada significa que puedes disfrutar de diferentes sabores durante todo el a\\xF1o, algo que muchas personas no suelen hacer.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/sourdough-starter-how-to-make-your-own.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJQBOgCBvqXtXqigA/u+sLrm/ebpvzmGuVWUDly6T//ipptrIGurZzfuQ/5e9TZXVA7/YPNtcI/s506UVw21PLBl18zv22G4lOOCu0P4RJPK0maIGP1SHPL6YfrvR4CyfsPPcAgAAAA==",
+      "createdAt": "Mon Jan 25 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "arrancador-de-masa-fermentada-como-hacer-el-tuyo-propio",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Arrancador De Masa Fermentada: Cómo Hacer El Tuyo Propio",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,a,n)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))s.call(a,n)&&d(e,n,a[n]);if(r)for(var n of r(a))t.call(a,n)&&d(e,n,a[n]);return e},u=(e,a)=>c(e,m(a));var l=(e,a)=>{var n={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&t.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=l(o,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La masa madre madre es una mezcla de harina y agua que se ha dejado fermentar. Se utiliza para catalizar el proceso de fermentaci\\xF3n al hornear pan de masa fermentada, lo que le da un sabor agrio distintivo. Tradicionalmente, se tarda semanas en preparar el iniciador, pero existen m\\xE9todos mucho m\\xE1s r\\xE1pidos que utilizan levadura envasada; consulte a continuaci\\xF3n. Independientemente de c\\xF3mo elija hacer su propio iniciador, el proceso es relativamente sencillo y, una vez que lo domina, es una rutina f\\xE1cil de seguir.\nLa masa madre tiene numerosos beneficios sobre otros tipos de pan. Es m\\xE1s f\\xE1cil de digerir para su cuerpo que el pan blanco porque no contiene gluten (el gluten puede ser un desaf\\xEDo para las personas con sensibilidad o intolerancia). La masa madre tampoco tiene az\\xFAcares a\\xF1adidos; solo az\\xFAcares naturales del proceso de fermentaci\\xF3n. Tambi\\xE9n tiene m\\xE1s prote\\xEDna que los panes est\\xE1ndar, lo que significa que te mantiene lleno por m\\xE1s tiempo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/30-easy-and-healthy-dinner-recipes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdDBOwZIk6gbZr+AA/vP3e/3I28jGJhtubEIDfEfT+YQeEFeFJ++o0kHL4vdw7FiIAu9unJ7d7Bb2AV3pOUz9x/7P/VIl1w9NX//jYxb//tJq2/7qA3uIz/Tsvw+UO8GxJdOrJwwmOAAAAA==",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "30-recetas-de-cenas-faciles-y-saludables",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "30 Recetas De Cenas Fáciles Y Saludables",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(a,e,s)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,r=(a,e)=>{for(var s in e||(e={}))t.call(e,s)&&l(a,s,e[s]);if(o)for(var s of o(e))i.call(e,s)&&l(a,s,e[s]);return a},u=(a,e)=>d(a,m(e));var p=(a,e)=>{var s={};for(var n in a)t.call(a,n)&&e.indexOf(n)<0&&(s[n]=a[n]);if(a!=null&&o)for(var n of o(a))e.indexOf(n)<0&&i.call(a,n)&&(s[n]=a[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:a}=n,e=p(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFHay alguna vez suficientes noches en la semana para cumplir con todas sus responsabilidades? Si eres como la mayor\\xEDa de las personas, probablemente no. Eso hace que encontrar tiempo para preparar una cena saludable sea un desaf\\xEDo. Afortunadamente, estas recetas r\\xE1pidas y f\\xE1ciles para la cena saludable lo ayudar\\xE1n a pasar la semana sin detenerse en un autoservicio de comida r\\xE1pida o volver a gastar dinero en comida para llevar.\nEstas ideas f\\xE1ciles y saludables para cenar pueden estar listas en tan solo 30 minutos y no cuestan m\\xE1s de $10 por porci\\xF3n. Eso significa que son baratos, r\\xE1pidos y nutritivos, una combinaci\\xF3n imbatible. Ya sea que est\\xE9 buscando una cena de una sola olla, algo para las sobras o ensaladas simples que se pueden preparar r\\xE1pidamente, lo tenemos cubierto con estas fant\\xE1sticas recetas asequibles y saludables.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/the-benefits-of-juicing-4-recipes-to-get-you-started.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABwAgCdASoKAAoAAUAmJbACdDBKyIa3QBvs4JyAAP39PUJYs39xTxLHnPa4SC2K4vbqAj+IxwbaumaEe8VSy51/b2Akxa9R+u9pEGfBKm4BrrZ3B2PJ5nOrui35nY1pA0LfdyIcm8KEE8HJqQ9/01ur37h/YETop+jdkJ9a+4pK/znH5/AAAAAA",
+      "createdAt": "Sun Aug 08 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-beneficios-de-los-jugos-4-recetas-para-comenzar",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Los Beneficios De Los Jugos: 4 Recetas Para Comenzar",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(e,o,s)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))u.call(o,s)&&i(e,s,o[s]);if(n)for(var s of n(o))t.call(o,s)&&i(e,s,o[s]);return e},c=(e,o)=>p(e,l(o));var m=(e,o)=>{var s={};for(var a in e)u.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&t.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los jugos tienen muchos beneficios, desde estimular su sistema inmunol\\xF3gico hasta aumentar su ingesta de vitaminas y minerales. Si est\\xE1 pensando en comenzar un r\\xE9gimen de jugos pero no est\\xE1 muy seguro de por d\\xF3nde empezar, tenemos lo que necesita.\nNos encantan los jugos porque nos brindan una manera f\\xE1cil de obtener muchas vitaminas y minerales que quiz\\xE1s no obtengamos de nuestras otras comidas. \\xBFLa mejor parte? Hacer jugo es barato (o gratis si cultivas tus propios productos), f\\xE1cil y r\\xE1pido. Puede hacer un vaso de jugo en menos de 5 minutos sin mucho trabajo de preparaci\\xF3n.\nJugo tambi\\xE9n significa que probablemente consumir\\xE1 m\\xE1s frutas y verduras que en cualquier otra forma. Este art\\xEDculo cubre todo lo que necesita saber sobre los jugos, incluido por qu\\xE9 es bueno para usted, los diferentes tipos de exprimidores disponibles en el mercado hoy en d\\xEDa, cu\\xE1ntas calor\\xEDas hay en los diferentes tipos de jugos y algunas recetas incre\\xEDbles para comenzar.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/the-environmental-impact-of-our-food-choices.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdLoB+AADID4QGsAA/uAExXYdpn/c7awNs21S/hGPWV3p4JKPodqeQ/eMbfHFn+7pIJVbUYwoiLWozFjwZn4pF2UVjUVEH6f/NvD+J2BClrA3nqiZ/Zv8nJsNL2rv/lVz+J38Lv+ApiDx8O/wRW7NQUK+e+RYAA==",
+      "createdAt": "Wed Feb 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "el-impacto-ambiental-de-nuestras-elecciones-alimentarias",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "El Impacto Ambiental De Nuestras Elecciones Alimentarias",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var d=(e,a,s)=>a in e?c(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,t=(e,a)=>{for(var s in a||(a={}))i.call(a,s)&&d(e,s,a[s]);if(o)for(var s of o(a))l.call(a,s)&&d(e,s,a[s]);return e},r=(e,a)=>m(e,p(a));var u=(e,a)=>{var s={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&l.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,a=u(n,[\"components\"]);return mdx(MDXLayout,r(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hoy, somos testigos de una creciente conciencia del impacto que nuestras elecciones de alimentos tienen en el medio ambiente. Desde las emisiones de carbono hasta el uso del agua y la deforestaci\\xF3n, est\\xE1 claro que la dieta moderna tiene implicaciones para nuestro planeta.\nCada vez son m\\xE1s las personas que tienen en cuenta su alimentaci\\xF3n a la hora de tomar decisiones sobre su futuro. Quiz\\xE1s esto se deba a que estamos aprendiendo m\\xE1s sobre las implicaciones ambientales de nuestras elecciones de alimentos: comer menos carne es bueno para el planeta; comer solo comida local y de temporada es bueno para el planeta; comer plantas en lugar de animales reduce tu huella de carbono; debes evitar el aceite de palma ya que est\\xE1 destruyendo las selvas tropicales...\nPara comprender c\\xF3mo nuestra dieta afecta el medio ambiente, primero debemos entender qu\\xE9 diferencia las dietas saludables de las no saludables. Una dieta saludable es aquella que equilibra las calor\\xEDas con la nutrici\\xF3n, asegurando una ingesta adecuada de vitaminas y minerales. Una dieta desequilibrada o poco saludable tiene demasiado o muy poco de uno o m\\xE1s nutrientes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/3-steps-to-spring-clean-your-eating-habits.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJYgCdDBKAY9kQDWHAAD+6uWaXwTtoYJW3r/AecX1JqAx/2WdyWQdu121mpjw3Z8fK1J6LqBhUk5uww+LvzpYVTiZ/5OTP4N86IO7TY0ibFozzBtGKebEgAA=",
+      "createdAt": "Fri Aug 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "3-pasos-para-limpiar-tus-habitos-alimenticios",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "3 Pasos Para Limpiar Tus Hábitos Alimenticios",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,o,a)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&d(e,a,o[a]);if(n)for(var a of n(o))t.call(o,a)&&d(e,a,o[a]);return e},l=(e,o)=>c(e,p(o));var u=(e,o)=>{var a={};for(var s in e)i.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&t.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFPensando en la resoluci\\xF3n de A\\xF1o Nuevo de volver a comer m\\xE1s sano? Lo vemos todos los a\\xF1os, miles de personas prometiendo comer sano y en forma haciendo ejercicio despu\\xE9s de una temporada navide\\xF1a llena de excesos. Pero, \\xBFqu\\xE9 significa eso a\\xFAn m\\xE1s? Comer sano ya no es tan sencillo como lo era antes. Hay tantas dietas diferentes, tendencias alimentarias y filosof\\xEDas de nutrici\\xF3n flotando hoy en d\\xEDa, \\xBFc\\xF3mo se supone que debes saber qu\\xE9 funcionar\\xE1 para ti a largo plazo y no solo por un momento fugaz?\nSi los \\xFAltimos a\\xF1os nos han ense\\xF1ado algo, es que comer limpio lleg\\xF3 para quedarse. Entonces, en lugar de sentir que est\\xE1 probando otra nueva dieta de moda o una nueva tendencia alimentaria, deje que esta sea su gu\\xEDa de regreso a los conceptos b\\xE1sicos de comer alimentos saludables que ayuden a su cuerpo a largo plazo. Comer limpio no se trata de la perfecci\\xF3n o de eliminar grupos completos de alimentos; se trata de tomar decisiones m\\xE1s informadas sobre las cosas que pones en tu cuerpo a diario. Siga leyendo para obtener m\\xE1s informaci\\xF3n...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/5-easy-tips-for-making-better-soup.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAYsFvqZU9dIAP7Ks3U5e0TXLq/pcuN+Ib2DeLLKLfK56uV6kwR/OeV9C8+fP6xSGvdY/5iqvVNdEvmpGEKNS70uPiARK+VVE3xApOz6ShcK39vpFIXE70vSWN1W0la/H5z/+YWtOh0Or//hgq+PS++ftHugAA==",
+      "createdAt": "Thu Sep 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "5-sencillos-consejos-para-hacer-una-mejor-sopa",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "5 Sencillos Consejos Para Hacer Una Mejor Sopa",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var u=(a,e,o)=>e in a?d(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))l.call(e,o)&&u(a,o,e[o]);if(n)for(var o of n(e))c.call(e,o)&&u(a,o,e[o]);return a},t=(a,e)=>p(a,m(e));var i=(a,e)=>{var o={};for(var s in a)l.call(a,s)&&e.indexOf(s)<0&&(o[s]=a[s]);if(a!=null&&n)for(var s of n(a))e.indexOf(s)<0&&c.call(a,s)&&(o[s]=a[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:a}=s,e=i(s,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hacer una olla de sopa es una de las comidas caseras m\\xE1s f\\xE1ciles de hacer. Pones algunos ingredientes en una olla, la llevas a ebullici\\xF3n y le das vueltas por un rato. No hay mucho m\\xE1s que eso.\nHacer una gran sopa, sin embargo, es otra historia. Las mejores sopas tienen capas de sabor que estallan en la boca. No son delgados y acuosos, ni est\\xE1n tan llenos de ingredientes densos que apenas puedas meter la cuchara en el taz\\xF3n sin pescar primero media zanahoria.\nSi solo ha hecho sopa como una ocurrencia tard\\xEDa, algo para guardar en la despensa cuando no tiene ganas de comer las sobras, podr\\xEDa ser el momento de darle otra mirada. Hacer una gran sopa no es dif\\xEDcil una vez que sabes c\\xF3mo hacerlo. Aqu\\xED hay 5 consejos f\\xE1ciles para hacer una mejor sopa:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -67,104 +157,14 @@
       "category": "cooking",
       "imageSrc": "/articles/the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight.png",
       "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJbACdDXAOkvIh0wJiofIAAD+7jI+mDFSfXxx3hPbzFm/j0i+SC/YBUK/BkenxkW9GqcNl9b1jb+GkMkkDH+PqxTzGgR02Oa3DO4cJjiunAZSgAIwsfa0dRybfJEXx3Df/X4N53fswD9mAns8pr/9DLz3/Yhqf5UP//UIwEvn/g3/8L+AAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Thu Jan 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "los-10-peores-alimentos-para-comer-si-estas-tratando-de-perder-peso",
       "locale": "es",
       "categoryLocal": "Cocinando",
       "title": "Los 10 Peores Alimentos Para Comer Si Estás Tratando De Perder Peso",
       "intro": {
         "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(e,o,a)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))r.call(o,a)&&p(e,a,o[a]);if(t)for(var a of t(o))i.call(o,a)&&p(e,a,o[a]);return e},c=(e,o)=>d(e,m(o));var u=(e,o)=>{var a={};for(var n in e)r.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&i.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Es un hecho bien conocido que la forma en que comes puede tener un gran impacto en la cantidad de peso que pierdes. Pero lo que comes tambi\\xE9n juega un papel muy importante en la rapidez o la lentitud con la que pierdes peso. Lo que pones en tu plato es fundamental porque cada alimento tiene una cantidad determinada de calor\\xEDas y nutrientes espec\\xEDficos; no todos los alimentos son iguales. Algunos alimentos lo ayudan a perder peso m\\xE1s r\\xE1pido y no recuperarlo, mientras que otros tienen el efecto contrario, ya sea porque tienen un alto contenido de az\\xFAcar, grasa o calor\\xEDas, o porque tienen muy poco valor nutricional.\nLos alimentos b\\xE1sicos diet\\xE9ticos como el br\\xF3coli y los ar\\xE1ndanos son excelentes para perder peso. \\xBFOtros alimentos como papas fritas y refrescos? No tanto. Siga leyendo para conocer los 10 peores alimentos para comer si est\\xE1 tratando de perder peso r\\xE1pidamente...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/creative-ways-hanover-use-leftover-easter-eggs.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJbACdC0QAVvI9nAA+U2TJpfM8RAvJedy1sYypRhB2tjOGr7JMOV1/98taXLJ3d/J6+/z5FYoak5/g0e//TVrM3/NnBOfJ9/6GTPRVR//4PbK/P/6G//hfwAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "maneras-creativas-de-usar-los-huevos-de-pascua-sobrantes-en-hanover",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Maneras Creativas De Usar Los Huevos De Pascua Sobrantes En Hanover",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,u=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&d(e,o,a[o]);if(n)for(var o of n(a))i.call(a,o)&&d(e,o,a[o]);return e},c=(e,a)=>p(e,m(a));var t=(e,a)=>{var o={};for(var s in e)r.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&i.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=t(s,[\"components\"]);return mdx(MDXLayout,c(u(u({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFTienes una canasta llena de huevos de Pascua sobrantes? Su familia probablemente no sea la \\xFAnica. No sorprende que a muchas personas que aman el chocolate tambi\\xE9n les encante la festividad que gira en torno a \\xE9l. Sin embargo, \\xBFqu\\xE9 hacer con todos esos huevos una vez que est\\xE9n terminados? Aqu\\xED hay algunas ideas creativas sobre c\\xF3mo usarlos para que no se desperdicien.\nHay m\\xE1s de 321 millones de personas en el mundo que se identifican como cristianas, lo que significa que existe una gran posibilidad de que conozcas a alguien que celebra la Pascua en esta \\xE9poca del a\\xF1o. Eso significa que ahora es tu oportunidad de traer un poco de sol y felicidad a la vida de tus cong\\xE9neres d\\xE1ndoles algo inesperado. \\xA1Una cesta de huevos!\nNo hay nada como esconder huevos para que los ni\\xF1os recuperen su sentido de la maravilla, y no cuesta mucho organizar una b\\xFAsqueda de huevos en su propio patio trasero o jard\\xEDn. Siga leyendo para conocer algunos usos creativos de esos huevos de Pascua sobrantes que requieren muy poco esfuerzo.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/rising-popularity-of-meatless-mondays.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoKAAoAAUAmJbACdLoAEJUXqGiPhxOAAP5ouIZZ8e7l2oXK5wkutA161qSDi8XZ6blzy+pHsdQF47htdP6rWfl7IsBknQgxa9xRf/lXWKPj853ia2/4aSZ4zVQTL89+C3zP/dt/3Rf7//6/8f8Ltn3sXcP/GBXnaubfPfskAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "creciente-popularidad-de-los-lunes-sin-carne",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Creciente Popularidad De Los Lunes Sin Carne",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(e,a,s)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,r=(e,a)=>{for(var s in a||(a={}))d.call(a,s)&&t(e,s,a[s]);if(o)for(var s of o(a))i.call(a,s)&&t(e,s,a[s]);return e},c=(e,a)=>m(e,p(a));var u=(e,a)=>{var s={};for(var n in e)d.call(e,n)&&a.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&i.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,a=u(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Millennials y Gen Zers han estado impulsando la demanda de alimentos de origen vegetal. M\\xE1s consumidores hoy en d\\xEDa est\\xE1n adoptando un estilo de vida que se centra en dietas equilibradas y saludables en lugar de dietas de moda restrictivas.\nEn respuesta a estas preferencias cambiantes, las empresas de todo el mundo han comenzado a ofrecer m\\xE1s opciones vegetarianas. De hecho, incluso las cadenas de comida r\\xE1pida como McDonald's y Burger King han comenzado a agregar productos sin carne a sus men\\xFAs en un esfuerzo por atender a este segmento de mercado en crecimiento. Y con buena raz\\xF3n. Solo los millennials representan casi un tercio de la fuerza laboral, una presencia masiva que seguir\\xE1 creciendo en los pr\\xF3ximos a\\xF1os.\nEste aumento en la popularidad de los lunes sin carne no es sorprendente dada la cantidad de personas que ahora eligen comer menos carne, pescado o cualquier producto animal los martes, mi\\xE9rcoles, jueves, viernes o s\\xE1bados.\nSi est\\xE1 buscando formas de reducir su consumo de carne roja sin sacrificar el sabor o la variedad en su dieta, considere instituir los lunes sin carne en su lugar de trabajo y en su hogar.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/common-myths-about-organic-products.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACQAgCdASoKAAoAAUAmJbACdLoAd4ADYAcqXBKWAAD+8/V9ubBMWP7wPocvo055wzOZ8PQL0u7alyoDnMd7mA+q7uWSn7Wghb9mjbA7nl/bJfb4JH7kaJjnVzd/7QpeM/s81/8brv/8m/6+3/yKcSxa0NP/EzrbMF/5PvzThJPYvwZfj/+L/2NAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "mitos-comunes-sobre-los-productos-organicos",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Mitos Comunes Sobre Los Productos Orgánicos",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var c=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(e,o,a)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))c.call(o,a)&&t(e,a,o[a]);if(s)for(var a of s(o))i.call(o,a)&&t(e,a,o[a]);return e},u=(e,o)=>p(e,m(o));var d=(e,o)=>{var a={};for(var n in e)c.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&i.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=d(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los productos org\\xE1nicos tienden a ser m\\xE1s caros que sus contrapartes no org\\xE1nicos. Esto ha llevado a la creencia de que los alimentos org\\xE1nicos son \\u201Ccaros\\u201D y no muy accesibles para el p\\xFAblico en general. Sin embargo, los alimentos org\\xE1nicos no se tratan solo de precio; \\xA1tambi\\xE9n se trata de calidad!\nAunque los alimentos org\\xE1nicos son un segmento de mercado de alto nivel con un precio superior, en los \\xFAltimos a\\xF1os ha habido una creciente demanda de este tipo de productos. Esto se debe principalmente a los numerosos beneficios de cambiar de alimentos convencionales a org\\xE1nicos.\nSin embargo, la introducci\\xF3n de cualquier nueva tendencia o producto a menudo genera confusi\\xF3n innecesaria e informaci\\xF3n falsa. Cuando se trata de comprar y usar productos org\\xE1nicos, existen algunos mitos comunes que pueden parecer se\\xF1ales de alerta:\nPero no se preocupe, \\xA1estamos aqu\\xED para dejar las cosas claras!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/one-dish-meals-recipes-for-busy-weeknights.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACwAgCdASoKAAoAAUAmJaACdDBRCIi0gA2BG6V4FMAA/u+er/vc+8o91mJ9Sx/VhE2qWu2PxLeheVog14FjhZr2aset7rGCRVAQlboGtVzjN5bTiz+Oo3D+qcY1Fdi9MLwrj1YEHPAOXZmDLRmXX0H3ro76knia5P9Gk4Vs+Dabk10O+/P+C9smgAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "comidas-de-un-plato-recetas-para-noches-ocupadas-entre-semana",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Comidas De Un Plato: Recetas Para Noches Ocupadas Entre Semana",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&d(e,o,a[o]);if(n)for(var o of n(a))c.call(a,o)&&d(e,o,a[o]);return e},u=(e,a)=>m(e,p(a));var i=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&c.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=i(s,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Es casi un clich\\xE9 en este punto, pero muchos de nosotros estamos ocupados en estos d\\xEDas. Parece que todos se apresuran de una actividad a otra y luego registran largas horas en el trabajo o la escuela. Como resultado, ansiamos comida r\\xE1pida y comida para llevar m\\xE1s que nunca.\nAfortunadamente, las comidas caseras est\\xE1n volviendo a estar de moda. La gente quiere saber de d\\xF3nde viene su comida y c\\xF3mo se prepara. Tambi\\xE9n se hace hincapi\\xE9 en reducir los niveles de estr\\xE9s creando m\\xE1s tiempo en nuestros d\\xEDas con menos obligaciones fuera del hogar.\nEn resumen, las personas se est\\xE1n volviendo m\\xE1s conscientes de su salud y est\\xE1n haciendo cambios en consecuencia: \\xA1excelentes noticias para las familias de todo el mundo!\nLas comidas de un solo destino son una excelente manera de volver a lo b\\xE1sico y preparar comidas caseras saludables que no toman mucho tiempo para hacer o te dejan con muchos platos sucios despu\\xE9s. Siga leyendo para obtener excelentes consejos sobre c\\xF3mo puede hacer que las recetas de pollo de un solo plato formen parte de su rutina semanal una vez m\\xE1s...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/need-some-recipe-inspiration-try-these.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdEf/i19eBu+MXPAA/vgKOzSfvd2zyQUpVnUHCDt8MJBXq9s/yhC0eE7wrXdbeP03wsLaU+PwHXxmlK0v4QB5LE/LYPGRoXvnwct5fm4o616viXADWJIB76d2pQf+7cP/3/r/q1gANf9mTff2kT/prdnBvbsAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "necesitas-inspiracion-para-recetas-prueba-estos",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "¿necesitas Inspiración Para Recetas? Prueba Estos",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))u.call(a,o)&&t(e,o,a[o]);return e},c=(e,a)=>p(e,f(a));var d=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&u.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xA1Es hora de volver a encender esa estufa, porque esta vez es para cocinar! The Great British Bake Off est\\xE1 de vuelta con un nuevo lote de panaderos aficionados listos para enfrentar desaf\\xEDos dif\\xEDciles. En lugar de los jueces habituales, esta vez tenemos a Prue, Noel y Sandi probando sus habilidades en la cocina.\nPara aquellos que no est\\xE1n familiarizados con el programa, The Great British Bake Off es un concurso en el que los panaderos aficionados prueban sus habilidades para hornear. Se pide a los concursantes que elaboren platos a base de pasteler\\xEDa que a menudo presentan t\\xE9cnicas inusuales o dif\\xEDciles, y se juzgan por su apariencia, sabor y originalidad. En cada episodio se enfrentan a dos desaf\\xEDos diferentes: un Signature Bake en el que deben crear algo usando un ingrediente o tema espec\\xEDfico como inspiraci\\xF3n; y un Desaf\\xEDo T\\xE9cnico que podr\\xEDa verlos hacer croquembouche u otro plato dif\\xEDcil.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/breakfast-ideas-beyond-cereal-oatmeal.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCST+hGiAAA/vNwLI1iPEwfjlUHkK1DA+iETt7uyWOYEIS+yFWr1B+os0/CddqPqk3cLgd7PwUWspi//R5v6XH5lH/1v92XmvWf/9nsvsH//eB9TB9//qb/+fUAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "ideas-para-el-desayuno-mas-alla-del-cereal-avena",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Ideas Para El Desayuno Más Allá Del Cereal + Avena",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(a,e,o)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))u.call(e,o)&&i(a,o,e[o]);if(s)for(var o of s(e))t.call(e,o)&&i(a,o,e[o]);return a},l=(a,e)=>d(a,p(e));var m=(a,e)=>{var o={};for(var n in a)u.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&s)for(var n of s(a))e.indexOf(n)<0&&t.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=m(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Cuando eres joven, realmente no piensas en cu\\xE1nto tiempo dedicas a la comida. Solo comes porque est\\xE1 ah\\xED y porque tu est\\xF3mago ruge. Pero, a medida que envejeces y las prioridades cambian, la forma en que ves los alimentos tambi\\xE9n cambia. El desayuno se convierte en una comida m\\xE1s importante del d\\xEDa ya que es la primera del d\\xEDa.\nSeamos realistas: la mayor\\xEDa de la gente piensa en el desayuno como cereal o avena como su comida favorita. \\xBFPor qu\\xE9? Porque son f\\xE1ciles de preparar y servir cuando salimos corriendo de la casa para tomar el autob\\xFAs o el autob\\xFAs escolar por la ma\\xF1ana. Pero hay otras formas de desayunar bien que no te quitar\\xE1n mucho tiempo ni espacio en la cocina. Aqu\\xED hay algunas ideas para comer un desayuno saludable todos los d\\xEDas que no involucre cereales o avena...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

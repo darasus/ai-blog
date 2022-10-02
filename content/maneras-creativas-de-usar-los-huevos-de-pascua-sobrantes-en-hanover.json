@@ -2,8 +2,8 @@
   "category": "cooking",
   "imageSrc": "/articles/creative-ways-hanover-use-leftover-easter-eggs.png",
   "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJbACdC0QAVvI9nAA+U2TJpfM8RAvJedy1sYypRhB2tjOGr7JMOV1/98taXLJ3d/J6+/z5FYoak5/g0e//TVrM3/NnBOfJ9/6GTPRVR//4PbK/P/6G//hfwAAAA==",
-  "createdAt": "2022-10-01T12:12:43.976Z",
-  "updatedAt": "2022-10-01T12:12:43.976Z",
+  "createdAt": "2022-05-25T01:22:57.900Z",
+  "updatedAt": "2022-10-02T06:20:24.555Z",
   "slug": "maneras-creativas-de-usar-los-huevos-de-pascua-sobrantes-en-hanover",
   "locale": "es",
   "categoryLocal": "Cocinando",
@@ -20,16 +20,61 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "/articles/why-you-should-add-more-greens-into-your-diet.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJbACdLoAEJQVrrP2MgIgAP6JIu7Sim/ItPIGT7YNp7CEJe8gjz8f0LdBf6RbKA5Z6EDP+u0XrmNou8VvGkv4XNCfdqoU5dEVCts3acvD2YcBR/+bLanhdu4x5OTK2y+P/1D//8xVHjxzOLnnm0gA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "por-que-deberias-anadir-mas-verduras-a-tu-dieta",
+      "imageSrc": "/articles/meal-prepping-on-a-budget-tips-and-tricks.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwCdAEQ/Ua/XuwAAP74N514WjUYv+nnIukv06cn8uXHJue1qafx54C9gDMkK0ArUDdWgzvbS5oR6lFQkxyhR0DmLgb8coROZNZGJ6YFdW3FzQumGanYdULSNP7D4ZD6LYxJIkAAAA==",
+      "createdAt": "Wed Aug 17 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "preparacion-de-comidas-con-un-presupuesto-consejos-y-trucos",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Por Qué Deberías Añadir Más Verduras a Tu Dieta",
+      "title": "Preparación De Comidas Con Un Presupuesto: Consejos Y Trucos",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(a,e,s)=>e in a?c(a,e,{enumerable:!0,configurable:!0,writable:!0,value:s}):a[e]=s,r=(a,e)=>{for(var s in e||(e={}))t.call(e,s)&&l(a,s,e[s]);if(n)for(var s of n(e))i.call(e,s)&&l(a,s,e[s]);return a},u=(a,e)=>m(a,p(e));var d=(a,e)=>{var s={};for(var o in a)t.call(a,o)&&e.indexOf(o)<0&&(s[o]=a[o]);if(a!=null&&n)for(var o of n(a))e.indexOf(o)<0&&i.call(a,o)&&(s[o]=a[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:a}=o,e=d(o,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Las verduras est\\xE1n repletas de nutrientes y fibra, pero no solemos pensar en ellas como s\\xFAper saludables. Otros alimentos como la col rizada, las espinacas y la lechuga a menudo se relegan a guarniciones o aderezos para ensaladas, no como platos principales. Sin embargo, las verduras son algunos de los alimentos m\\xE1s nutritivos que puede comer. Tienen un alto contenido de vitaminas K, A y C, as\\xED como hierro, potasio, calcio y betacaroteno; tambi\\xE9n tienen una gran cantidad de antioxidantes. Adem\\xE1s de toda esta nutrici\\xF3n, las verduras tambi\\xE9n son bajas en calor\\xEDas: una taza solo tiene alrededor de 20 calor\\xEDas. Aqu\\xED hay algunas maneras de hacer que sus verduras sean a\\xFAn m\\xE1s saludables, \\xA1sin sacrificar el sabor!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,p=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,i=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&t(e,o,a[o]);if(r)for(var o of r(a))p.call(a,o)&&t(e,o,a[o]);return e},c=(e,a)=>l(e,m(a));var d=(e,a)=>{var o={};for(var n in e)s.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&r)for(var n of r(e))a.indexOf(n)<0&&p.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La preparaci\\xF3n de comidas es una parte esencial para mantenerse al d\\xEDa con los objetivos de alimentaci\\xF3n saludable y p\\xE9rdida de peso. Requiere un compromiso de tiempo, \\xA1pero vale la pena a largo plazo!\nCada vez que tomas una decisi\\xF3n consciente de gastar tu tiempo y energ\\xEDa en hacer comida en lugar de comprarla en un restaurante de comida r\\xE1pida, est\\xE1s haciendo algo positivo para tu futuro. La preparaci\\xF3n de comidas nos permite controlar lo que comemos para no estar a merced de las m\\xE1quinas expendedoras, las ventanillas de autoservicio o las opciones de entrega.\nLa preparaci\\xF3n de comidas no tiene por qu\\xE9 ser costosa ni llevar mucho tiempo. Con un poco de planificaci\\xF3n y algunos trucos simples, puede ahorrar dinero y al mismo tiempo simplificar su rutina de preparaci\\xF3n de alimentos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/protein-packed-snacks-that-power-through-any-afternoon-slump.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoKAAoAAUAmJbACdAEUUr1/OJsAAP7ubxr/lFDvJs2IeuP/H+3xMNa+P6Rt6yJVv1ddhmrkC5w5Y69ONfYXwj+F3uvYVh/5Xw5WyafWa52k+PhdFG/8nN7wd/Ucj/oWz42rnnXx65k044/x7/+qNpYFFPt76DiIAAA=",
+      "createdAt": "Sun Sep 27 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "bocadillos-llenos-de-proteinas-que-potencian-cualquier-depresion-de-la-tarde",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Bocadillos Llenos De Proteínas Que Potencian Cualquier Depresión De La Tarde",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,a,n)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,s=(e,a)=>{for(var n in a||(a={}))t.call(a,n)&&d(e,n,a[n]);if(r)for(var n of r(a))i.call(a,n)&&d(e,n,a[n]);return e},c=(e,a)=>m(e,p(a));var u=(e,a)=>{var n={};for(var o in e)t.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&i.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Es bien sabido que el ejercicio regular ayuda a mantener el cuerpo en forma y saludable. Sin embargo, no siempre es f\\xE1cil encontrar la motivaci\\xF3n para ir al gimnasio despu\\xE9s de un largo d\\xEDa de trabajo.\nYa sea que trabaje en un escritorio o simplemente se quede en casa todo el d\\xEDa, puede ser un desaf\\xEDo encontrar formas de mantenerse activo durante todo el d\\xEDa.\nEncontrar la motivaci\\xF3n para hacer ejercicio no es f\\xE1cil. Puede ser dif\\xEDcil encontrar tiempo para una rutina de ejercicios y a\\xFAn m\\xE1s dif\\xEDcil mantenerla durante un per\\xEDodo prolongado.\nLo mejor que puedes hacer es armarte de snacks que te mantengan con energ\\xEDa para que no caigas en la tentaci\\xF3n de dormir una siesta despu\\xE9s de la cena o ceder a los antojos de dulces. Los refrigerios llenos de prote\\xEDnas son una excelente manera de mantener altos los niveles de energ\\xEDa y reducir el estr\\xE9s al comer por aburrimiento o fatiga.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/need-some-recipe-inspiration-try-these.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoKAAoAAUAmJbACdEf/i19eBu+MXPAA/vgKOzSfvd2zyQUpVnUHCDt8MJBXq9s/yhC0eE7wrXdbeP03wsLaU+PwHXxmlK0v4QB5LE/LYPGRoXvnwct5fm4o616viXADWJIB76d2pQf+7cP/3/r/q1gANf9mTff2kT/prdnBvbsAAA==",
+      "createdAt": "Fri Oct 30 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "necesitas-inspiracion-para-recetas-prueba-estos",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "¿necesitas Inspiración Para Recetas? Prueba Estos",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var f=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))u.call(a,o)&&t(e,o,a[o]);return e},c=(e,a)=>p(e,f(a));var d=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&u.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xA1Es hora de volver a encender esa estufa, porque esta vez es para cocinar! The Great British Bake Off est\\xE1 de vuelta con un nuevo lote de panaderos aficionados listos para enfrentar desaf\\xEDos dif\\xEDciles. En lugar de los jueces habituales, esta vez tenemos a Prue, Noel y Sandi probando sus habilidades en la cocina.\nPara aquellos que no est\\xE1n familiarizados con el programa, The Great British Bake Off es un concurso en el que los panaderos aficionados prueban sus habilidades para hornear. Se pide a los concursantes que elaboren platos a base de pasteler\\xEDa que a menudo presentan t\\xE9cnicas inusuales o dif\\xEDciles, y se juzgan por su apariencia, sabor y originalidad. En cada episodio se enfrentan a dos desaf\\xEDos diferentes: un Signature Bake en el que deben crear algo usando un ingrediente o tema espec\\xEDfico como inspiraci\\xF3n; y un Desaf\\xEDo T\\xE9cnico que podr\\xEDa verlos hacer croquembouche u otro plato dif\\xEDcil.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/how-to-make-the-perfect-grilled-cheese-sandwich.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoKAAoAAUAmJagCdDBGAZCGkbkaRAAA/vkHFEWubm56CSYJaf2AuzSzbOnhlal4v0V85DWLFdMWjw3PXQr3IQUz4UEDpi19RSvzuHPd+z/x/6v1soOWDEnfcs7Wav+7/singAAA",
+      "createdAt": "Wed Sep 16 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-el-sandwich-de-queso-a-la-parrilla-perfecto",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Cómo Hacer El Sándwich De Queso a La Parrilla Perfecto",
+      "intro": {
+        "compiledSource": "var i=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var p=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var u=(e,o,s)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,n=(e,o)=>{for(var s in o||(o={}))p.call(o,s)&&u(e,s,o[s]);if(r)for(var s of r(o))l.call(o,s)&&u(e,s,o[s]);return e},t=(e,o)=>c(e,m(o));var d=(e,o)=>{var s={};for(var a in e)p.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&r)for(var a of r(e))o.indexOf(a)<0&&l.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=d(a,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El queso a la parrilla es uno de los s\\xE1ndwiches m\\xE1s reconfortantes y deliciosos que puedes comer. Es universalmente amado, y por una buena raz\\xF3n: es c\\xE1lido, pegajoso y perfecto para los d\\xEDas fr\\xEDos o para los refrigerios despu\\xE9s de la escuela.\nEste queso a la parrilla tambi\\xE9n resulta ser el mejor s\\xE1ndwich de queso a la parrilla que jam\\xE1s haya probado. Con unos simples consejos, puede convertir este cl\\xE1sico s\\xE1ndwich de soso a brillante en solo unos pocos pasos.\nTodos sabemos que el queso a la parrilla se puede hacer de diferentes maneras con diferentes ingredientes. Pero hay m\\xE1s de una manera de prepararlo para que no quede empapado, demasiado seco o quemado por fuera pero no lo suficientemente derretido por dentro.\nCon estos consejos y trucos, \\xA1tu pr\\xF3ximo queso a la parrilla ser\\xE1 perfecto!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -37,8 +82,8 @@
       "category": "cooking",
       "imageSrc": "/articles/what-are-fermented-foods-and-why-you-should-start-eating-them.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdDVAOsA8jMG51ykzILZAAP75rmY0ioh4/nSrMA9u0nMm004AQmIoQlN3oSOt9DU5GougfN0RC3t6eunPMZAyr9YNDjBFamC0Y9nJ5n7jllt9hSfuQfcNtwb6+qZJD/6+x+f5jbh7q9738MG//7Ix8+/xf/+q0vv3Xqg/7fgA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Sat Mar 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "que-son-los-alimentos-fermentados-y-por-que-deberias-empezar-a-comerlos",
       "locale": "es",
       "categoryLocal": "Cocinando",
@@ -50,61 +95,61 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/how-to-make-the-perfect-roast-chicken.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJbACdDBHQWlLYFEsIAD++2LegHN9PwuBhdp6vGDH9Ox2ziLEoacQl0swRd2uvZ/fj8rRKfhXF8AOWUHoXWw+CNnzBgypJQ6XnB1w1Kr/v/ypKSvXKv4W/nMB2v+Lbxvl5nSycBikAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-hacer-el-pollo-asado-perfecto",
+      "imageSrc": "/articles/instant-pot-ideas-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAQCdASoKAAoAAUAmJbACdAEQ+ltlY7AA/vm7I28ZmpkvR46a1Wisog7A0/YmhD+a+DHgP60xxbqC0cMPpfO1ewUqRojocU4SvA523uY3gpHOrji3vVytR1Nt3b/ffw89ke7b2YLMRWSZ5+7gx7OfJm0YryIzPm4sXKT6xxSgf9UPUvf/8GSAAAA=",
+      "createdAt": "Thu Mar 26 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "ideas-de-ollas-instantaneas-para-principiantes",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Cómo Hacer El Pollo Asado Perfecto",
+      "title": "Ideas De Ollas Instantáneas Para Principiantes",
       "intro": {
-        "compiledSource": "var i=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,o,a)=>o in e?i(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,l=(e,o)=>{for(var a in o||(o={}))r.call(o,a)&&t(e,a,o[a]);if(n)for(var a of n(o))c.call(o,a)&&t(e,a,o[a]);return e},u=(e,o)=>p(e,m(o));var d=(e,o)=>{var a={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&c.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=d(s,[\"components\"]);return mdx(MDXLayout,u(l(l({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El pollo asado es una de las formas m\\xE1s vers\\xE1tiles y f\\xE1ciles de cocinar carne. Asado correctamente, con un equilibrio de sabrosos condimentos, el pollo puede ser jugoso, tierno y lleno de delicioso sabor.\nEl asado tambi\\xE9n hace que sea m\\xE1s f\\xE1cil de comer que el pollo frito, ya que no tiene que preocuparse por el exceso de aceite o la grasa no saludable que gotea en su dieta. El pollo asado es una excelente fuente de prote\\xEDnas, y si compra su ave en el mercado de agricultores o en una tienda de comestibles org\\xE1nica, es probable que incluso sea criada en pastos y mucho m\\xE1s saludable que cualquier cosa que encuentre en un supermercado.\nCon esta receta de pollo asado podr\\xE1s disfrutar del pollo asado en casa una y otra vez. \\xA1Sigue leyendo para obtener excelentes consejos sobre c\\xF3mo hacer el pollo asado perfecto cada vez!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(a,e,n)=>e in a?l(a,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):a[e]=n,r=(a,e)=>{for(var n in e||(e={}))t.call(e,n)&&u(a,n,e[n]);if(o)for(var n of o(e))i.call(e,n)&&u(a,n,e[n]);return a},p=(a,e)=>m(a,d(e));var c=(a,e)=>{var n={};for(var s in a)t.call(a,s)&&e.indexOf(s)<0&&(n[s]=a[s]);if(a!=null&&o)for(var s of o(a))e.indexOf(s)<0&&i.call(a,s)&&(n[s]=a[s]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var s=n,{components:a}=s,e=c(s,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Instant Pot es una de las marcas m\\xE1s populares de ollas a presi\\xF3n el\\xE9ctricas. Los nuevos usuarios a menudo tienen muchas preguntas sobre c\\xF3mo usar mejor este aparato y qu\\xE9 tipo de recetas son las m\\xE1s adecuadas para \\xE9l. \\xA1Aqu\\xED hay algunas ideas para usuarios principiantes de Instant Pot que lo inspirar\\xE1n!\nSi eres nuevo en el mundo de la cocci\\xF3n a presi\\xF3n, la idea de una olla \\u201Cinstant\\xE1nea\\u201D puede parecer un poco extra\\xF1a al principio. Sin embargo, usar una olla instant\\xE1nea (o cualquier olla a presi\\xF3n el\\xE9ctrica) puede ahorrarle tiempo y al mismo tiempo conservar m\\xE1s nutrientes en sus alimentos. \\xA1As\\xED que echemos un vistazo a algunas ideas simples para principiantes que reci\\xE9n comienzan con su Instant Pot y quieren probar algunas recetas f\\xE1ciles!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/why-salmon-should-be-a-weekly-staple.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJaACdH8AGBwIURUGwAD+8YMdtOyC9DL6CnikAV0lOXk5AnyE6xNXe3/1UMOzz9vGd1EsmtiGz+U+aGkZu3zCOTojY1TpbrfllGyVS/7jpJ/q+3GL1fwcmf4v/1JP97f/8dXxf7Nj7L0P7nJn+hP/Qn7gAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "por-que-el-salmon-deberia-ser-un-alimento-basico-semanal",
+      "imageSrc": "/articles/nutrient-dense-superfoods-that-improve-overall-health.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJYgCdAabVnLcCmbvhOAAAP7xuUD/3uttBe5SwWau2DM3eZtDwAGy0cgPG/m+TPvKjs1ltrP4ffQhUBg1haTXP6m9C8C3P/Ni6u6xPV+fa+/UtVUuWg/3/Y5/48Zr2e1/5NyHRshnWsYe9Rx/F90c9f5tvNk+ewNf6G9bhv8AAAAA",
+      "createdAt": "Sat Apr 30 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "superalimentos-densos-en-nutrientes-que-mejoran-la-salud-en-general",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Por Qué El Salmón Debería Ser Un Alimento Básico Semanal",
+      "title": "Superalimentos Densos En Nutrientes Que Mejoran La Salud En General",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,a,s)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,r=(e,a)=>{for(var s in a||(a={}))d.call(a,s)&&c(e,s,a[s]);if(o)for(var s of o(a))i.call(a,s)&&c(e,s,a[s]);return e},u=(e,a)=>m(e,p(a));var t=(e,a)=>{var s={};for(var n in e)d.call(e,n)&&a.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&i.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,a=t(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"\\xBFCreciste creyendo que comer pescado al menos una vez a la semana es bueno para ti? Si es as\\xED, \\xA1tienes raz\\xF3n! Comer pescado tiene muchos beneficios para la salud, incluida la reducci\\xF3n del riesgo de enfermedad card\\xEDaca y accidente cerebrovascular. Comer pescado tambi\\xE9n es una de las mejores fuentes diet\\xE9ticas de grasas omega-3, que su cuerpo no puede producir por s\\xED mismo y debe obtener de los alimentos. Se ha demostrado que estas grasas reducen el riesgo de enfermedades card\\xEDacas e incluso pueden ayudar a disminuir la inflamaci\\xF3n y mejorar el dolor articular en personas que sufren de artritis. Una dieta rica en grasas omega-3 tambi\\xE9n puede desempe\\xF1ar un papel en la prevenci\\xF3n de la depresi\\xF3n, las AVD (disminuci\\xF3n de las actividades de la vida diaria relacionadas con la edad) y la enfermedad de Alzheimer. Sin embargo, no todos los tipos de pescado tienen los mismos beneficios. Aqu\\xED hay algunas razones por las que el salm\\xF3n debe ser una parte b\\xE1sica de su dieta.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var r=(e,n,a)=>n in e?l(e,n,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[n]=a,t=(e,n)=>{for(var a in n||(n={}))i.call(n,a)&&r(e,a,n[a]);if(o)for(var a of o(n))u.call(n,a)&&r(e,a,n[a]);return e},d=(e,n)=>m(e,p(n));var c=(e,n)=>{var a={};for(var s in e)i.call(e,s)&&n.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&o)for(var s of o(e))n.indexOf(s)<0&&u.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,n=c(s,[\"components\"]);return mdx(MDXLayout,d(t(t({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los superalimentos son alimentos ricos en nutrientes que tienen una alta concentraci\\xF3n de vitaminas y minerales que combaten enfermedades. Tambi\\xE9n tienden a tener un alto contenido de antioxidantes, fibra y otros fitonutrientes que ayudan a proteger su cuerpo de los radicales libres y las enfermedades. Estos alimentos saludables y naturales se pueden encontrar en casi cualquier rinc\\xF3n del mundo. Muchas culturas ind\\xEDgenas los comen como alimentos b\\xE1sicos debido a sus abundantes beneficios para el cuerpo humano.\nLos superalimentos generalmente tienen cantidades impresionantes de algunos o muchos nutrientes, como carotenoides (vitamina A), flavonoides, vitaminas C y E, o \\xE1cidos grasos omega-3 (ALA). Hay muchos tipos de superalimentos; aqu\\xED hay una lista de 20 que vale la pena agregar a su dieta:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/5-easy-tips-for-making-better-soup.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAYsFvqZU9dIAP7Ks3U5e0TXLq/pcuN+Ib2DeLLKLfK56uV6kwR/OeV9C8+fP6xSGvdY/5iqvVNdEvmpGEKNS70uPiARK+VVE3xApOz6ShcK39vpFIXE70vSWN1W0la/H5z/+YWtOh0Or//hgq+PS++ftHugAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "5-sencillos-consejos-para-hacer-una-mejor-sopa",
+      "imageSrc": "/articles/3-steps-to-spring-clean-your-eating-habits.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoKAAoAAUAmJYgCdDBKAY9kQDWHAAD+6uWaXwTtoYJW3r/AecX1JqAx/2WdyWQdu121mpjw3Z8fK1J6LqBhUk5uww+LvzpYVTiZ/5OTP4N86IO7TY0ibFozzBtGKebEgAA=",
+      "createdAt": "Fri Aug 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "3-pasos-para-limpiar-tus-habitos-alimenticios",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "5 Sencillos Consejos Para Hacer Una Mejor Sopa",
+      "title": "3 Pasos Para Limpiar Tus Hábitos Alimenticios",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var u=(a,e,o)=>e in a?d(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))l.call(e,o)&&u(a,o,e[o]);if(n)for(var o of n(e))c.call(e,o)&&u(a,o,e[o]);return a},t=(a,e)=>p(a,m(e));var i=(a,e)=>{var o={};for(var s in a)l.call(a,s)&&e.indexOf(s)<0&&(o[s]=a[s]);if(a!=null&&n)for(var s of n(a))e.indexOf(s)<0&&c.call(a,s)&&(o[s]=a[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:a}=s,e=i(s,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Hacer una olla de sopa es una de las comidas caseras m\\xE1s f\\xE1ciles de hacer. Pones algunos ingredientes en una olla, la llevas a ebullici\\xF3n y le das vueltas por un rato. No hay mucho m\\xE1s que eso.\nHacer una gran sopa, sin embargo, es otra historia. Las mejores sopas tienen capas de sabor que estallan en la boca. No son delgados y acuosos, ni est\\xE1n tan llenos de ingredientes densos que apenas puedas meter la cuchara en el taz\\xF3n sin pescar primero media zanahoria.\nSi solo ha hecho sopa como una ocurrencia tard\\xEDa, algo para guardar en la despensa cuando no tiene ganas de comer las sobras, podr\\xEDa ser el momento de darle otra mirada. Hacer una gran sopa no es dif\\xEDcil una vez que sabes c\\xF3mo hacerlo. Aqu\\xED hay 5 consejos f\\xE1ciles para hacer una mejor sopa:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,o,a)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&d(e,a,o[a]);if(n)for(var a of n(o))t.call(o,a)&&d(e,a,o[a]);return e},l=(e,o)=>c(e,p(o));var u=(e,o)=>{var a={};for(var s in e)i.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&t.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFPensando en la resoluci\\xF3n de A\\xF1o Nuevo de volver a comer m\\xE1s sano? Lo vemos todos los a\\xF1os, miles de personas prometiendo comer sano y en forma haciendo ejercicio despu\\xE9s de una temporada navide\\xF1a llena de excesos. Pero, \\xBFqu\\xE9 significa eso a\\xFAn m\\xE1s? Comer sano ya no es tan sencillo como lo era antes. Hay tantas dietas diferentes, tendencias alimentarias y filosof\\xEDas de nutrici\\xF3n flotando hoy en d\\xEDa, \\xBFc\\xF3mo se supone que debes saber qu\\xE9 funcionar\\xE1 para ti a largo plazo y no solo por un momento fugaz?\nSi los \\xFAltimos a\\xF1os nos han ense\\xF1ado algo, es que comer limpio lleg\\xF3 para quedarse. Entonces, en lugar de sentir que est\\xE1 probando otra nueva dieta de moda o una nueva tendencia alimentaria, deje que esta sea su gu\\xEDa de regreso a los conceptos b\\xE1sicos de comer alimentos saludables que ayuden a su cuerpo a largo plazo. Comer limpio no se trata de la perfecci\\xF3n o de eliminar grupos completos de alimentos; se trata de tomar decisiones m\\xE1s informadas sobre las cosas que pones en tu cuerpo a diario. Siga leyendo para obtener m\\xE1s informaci\\xF3n...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-benefits-of-juicing-4-recipes-to-get-you-started.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAABwAgCdASoKAAoAAUAmJbACdDBKyIa3QBvs4JyAAP39PUJYs39xTxLHnPa4SC2K4vbqAj+IxwbaumaEe8VSy51/b2Akxa9R+u9pEGfBKm4BrrZ3B2PJ5nOrui35nY1pA0LfdyIcm8KEE8HJqQ9/01ur37h/YETop+jdkJ9a+4pK/znH5/AAAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-beneficios-de-los-jugos-4-recetas-para-comenzar",
+      "imageSrc": "/articles/one-pan-dinners-fewer-dishes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJZgCdAYu5wLLQ26m4QAA/q3HYJ4QzbwvW/hI58fenFSOK5QBCZAnCZkFveSFg/e1huzgt6Mp+SHVHVuz41syVjCAF7niljs9Cr+KRAG9OtJ7KP07kPpjF74p+7Sp6LWGPB6mAAA=",
+      "createdAt": "Thu Feb 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "cenas-en-una-sarten-menos-platos",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Los Beneficios De Los Jugos: 4 Recetas Para Comenzar",
+      "title": "Cenas En Una Sartén = Menos Platos",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(e,o,s)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))u.call(o,s)&&i(e,s,o[s]);if(n)for(var s of n(o))t.call(o,s)&&i(e,s,o[s]);return e},c=(e,o)=>p(e,l(o));var m=(e,o)=>{var s={};for(var a in e)u.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&t.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los jugos tienen muchos beneficios, desde estimular su sistema inmunol\\xF3gico hasta aumentar su ingesta de vitaminas y minerales. Si est\\xE1 pensando en comenzar un r\\xE9gimen de jugos pero no est\\xE1 muy seguro de por d\\xF3nde empezar, tenemos lo que necesita.\nNos encantan los jugos porque nos brindan una manera f\\xE1cil de obtener muchas vitaminas y minerales que quiz\\xE1s no obtengamos de nuestras otras comidas. \\xBFLa mejor parte? Hacer jugo es barato (o gratis si cultivas tus propios productos), f\\xE1cil y r\\xE1pido. Puede hacer un vaso de jugo en menos de 5 minutos sin mucho trabajo de preparaci\\xF3n.\nJugo tambi\\xE9n significa que probablemente consumir\\xE1 m\\xE1s frutas y verduras que en cualquier otra forma. Este art\\xEDculo cubre todo lo que necesita saber sobre los jugos, incluido por qu\\xE9 es bueno para usted, los diferentes tipos de exprimidores disponibles en el mercado hoy en d\\xEDa, cu\\xE1ntas calor\\xEDas hay en los diferentes tipos de jugos y algunas recetas incre\\xEDbles para comenzar.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var d=(e,o,s)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,r=(e,o)=>{for(var s in o||(o={}))t.call(o,s)&&d(e,s,o[s]);if(n)for(var s of n(o))u.call(o,s)&&d(e,s,o[s]);return e},i=(e,o)=>c(e,l(o));var m=(e,o)=>{var s={};for(var a in e)t.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&u.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=m(a,[\"components\"]);return mdx(MDXLayout,i(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si eres como nosotros, probablemente temes lavar los platos despu\\xE9s de un largo d\\xEDa. \\xBFPor qu\\xE9? Porque lavar los platos es una de las tareas m\\xE1s tediosas y que consumen m\\xE1s tiempo que tenemos en nuestros hogares. Es por eso que hemos descubierto formas de reducir esa temida tarea y hacerla lo menos dolorosa posible.\nAhora que todos estamos viviendo juntos nuevamente despu\\xE9s de irnos a la universidad, hemos introducido muchos h\\xE1bitos nuevos como compa\\xF1eros de cuarto. Uno de nuestros favoritos es aprender a hacer cenas en una sart\\xE9n en las noches en que todos tienen un lugar donde estar despu\\xE9s de la cena. \\xA1Significa menos tiempo en la cocina y menos platos para limpiar m\\xE1s tarde!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -112,59 +157,14 @@
       "category": "cooking",
       "imageSrc": "/articles/feeding-a-family-on-a-budget-tips-and-recipes.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoKAAoAAUAmJZACdAYsPvugEopvIAD+8ZggvbIm1Xi7dfIj46is7DxetszTXE4Jn6IGC8WeiyGg9nbMGT5O98KkSvtv5DcEwP5ri7KfxUszOKfvyFNC/kwUs4XVHq25sw2zcmEzXX+SeeK8aPGmhBc8b2ga6qmawbn2acR8V55V6fr/AwAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Mon May 23 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "alimentar-a-una-familia-con-un-presupuesto-consejos-y-recetas",
       "locale": "es",
       "categoryLocal": "Cocinando",
       "title": "Alimentar a Una Familia Con Un Presupuesto: Consejos Y Recetas",
       "intro": {
         "compiledSource": "var m=Object.defineProperty,d=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var t=(e,a,n)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))r.call(a,n)&&t(e,n,a[n]);if(s)for(var n of s(a))u.call(a,n)&&t(e,n,a[n]);return e},c=(e,a)=>d(e,l(a));var p=(e,a)=>{var n={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))a.indexOf(o)<0&&u.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=p(o,[\"components\"]);return mdx(MDXLayout,c(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Cuando tienes un presupuesto limitado, comer sano puede parecer una tarea imposible. La sabidur\\xEDa convencional dice que comer bien es caro y que comer mal es barato. Pero este no es siempre el caso. Puede comer bien incluso si tiene un presupuesto peque\\xF1o para alimentos, siempre que planifique con anticipaci\\xF3n y sepa d\\xF3nde buscar gangas. Una alimentaci\\xF3n saludable no tiene por qu\\xE9 ser costosa; puede que no sea barato.\"),mdx(\"p\",null,\"Sin embargo, con una planificaci\\xF3n cuidadosa y compras inteligentes, no es necesario que rompa el banco. Comer bien con un presupuesto no se trata de eliminar todas las cosas que amas o fingir que vives en condiciones de hambruna; se trata de saber c\\xF3mo ahorrar dinero mientras accedes a alimentos saludables que te den energ\\xEDa y felicidad en tu vida. \\xA1Mira estos consejos y recetas para que comer saludablemente con un presupuesto sea m\\xE1s f\\xE1cil que nunca!\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/smart-waysahan-help-reduce-grocery-bills-while-also-eating-healthy.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoKAAoAAUAmJbACdC0ZgbAZYfApakAA8D//xd1zcKOryIG/6+Issq8aAm2ZCwcqLh8c7Gt3jcEJE6liNRkDo8K17QVk6oFDiUtjU0LNLvvXJx2gwjH/Vn/47Et//FgwrrtABkx/uk+f/wcmWb/bbetvkAAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "smart-waysahan-ayuda-a-reducir-las-facturas-de-comestibles-mientras-come-sano",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Smart Waysahan Ayuda a Reducir Las Facturas De Comestibles Mientras Come Sano",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,u=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(a,e,o)=>e in a?m(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))i.call(e,o)&&t(a,o,e[o]);if(s)for(var o of s(e))c.call(e,o)&&t(a,o,e[o]);return a},p=(a,e)=>u(a,l(e));var d=(a,e)=>{var o={};for(var n in a)i.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&s)for(var n of s(a))e.indexOf(n)<0&&c.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=d(n,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Las facturas de los supermercados son motivo de preocupaci\\xF3n para muchos hogares. Hoy en d\\xEDa, las personas llevan vidas extremadamente ocupadas y tienen muy poco tiempo para dedicar a la preparaci\\xF3n de alimentos, raz\\xF3n por la cual cada vez m\\xE1s personas eligen comidas listas para comer en lugar de cocinar desde cero todos los d\\xEDas. Despu\\xE9s de todo, \\xBFqui\\xE9n tiene tiempo para eso?\nSin embargo, la comodidad de la comida preparada tiene un precio. El costo de vida est\\xE1 aumentando y los ingresos no aumentan casi al mismo ritmo. Salir a comer o comprar comida para llevar todos los d\\xEDas no es una opci\\xF3n asequible para la mayor\\xEDa de las personas. Y aunque comer en casa tampoco tiene por qu\\xE9 ser una tarea ardua, con una planificaci\\xF3n inteligente y un poco de conocimiento, las comidas caseras tambi\\xE9n pueden ser rentables.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/5-simple-tips-for-eating-healthier-every-day.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKAAoAAUAmJbACdAEK+DbvcgAA+C/dmqz9/OThGIk6uvlDjeYljyK9qvcpc1BDkWeHxCJ1TcSJqR+hWz+w9HkSnwkCXRbbV+/+jztj/3wH3/+kB/H/OAntf/7IucP/89JZfqaAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "5-sencillos-consejos-para-comer-mas-sano-todos-los-dias",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "5 Sencillos Consejos Para Comer Más Sano Todos Los Días",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var l=(e,o,a)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,t=(e,o)=>{for(var a in o||(o={}))r.call(o,a)&&l(e,a,o[a]);if(n)for(var a of n(o))d.call(o,a)&&l(e,a,o[a]);return e},u=(e,o)=>c(e,p(o));var i=(e,o)=>{var a={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&d.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=i(s,[\"components\"]);return mdx(MDXLayout,u(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Lo ves en todas partes en estos d\\xEDas: personas hablando de comer alimentos m\\xE1s saludables, limpios y nutritivos. Incluso los atletas famosos se est\\xE1n sumando a la acci\\xF3n. Superestrellas como LeBron James y Tom Brady son conocidas tanto por su alto rendimiento el d\\xEDa del partido como por su dieta fuera de temporada. El \\xFAnico problema con todas estas modas de alimentaci\\xF3n saludable es que pueden sentirse como un gran desaf\\xEDo para seguir todos los d\\xEDas. Pero, \\xBFy si pudieras hacerlo m\\xE1s f\\xE1cil?\nNo es una locura pensar que puedes comer m\\xE1s sano todos los d\\xEDas. Despu\\xE9s de todo, no est\\xE1s encerrado permanentemente en un estilo de vida poco saludable. \\xA1Tus h\\xE1bitos cambian con el tiempo, lo que significa que tu dieta tambi\\xE9n puede cambiar! Solo necesita un plan para llegar all\\xED, por lo que hemos esbozado cinco consejos simples que lo ayudar\\xE1n a comer de manera m\\xE1s saludable todos los d\\xEDas sin sentirse como una tarea.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJbACdDXAOkvIh0wJiofIAAD+7jI+mDFSfXxx3hPbzFm/j0i+SC/YBUK/BkenxkW9GqcNl9b1jb+GkMkkDH+PqxTzGgR02Oa3DO4cJjiunAZSgAIwsfa0dRybfJEXx3Df/X4N53fswD9mAns8pr/9DLz3/Yhqf5UP//UIwEvn/g3/8L+AAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-10-peores-alimentos-para-comer-si-estas-tratando-de-perder-peso",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Los 10 Peores Alimentos Para Comer Si Estás Tratando De Perder Peso",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(e,o,a)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,s=(e,o)=>{for(var a in o||(o={}))r.call(o,a)&&p(e,a,o[a]);if(t)for(var a of t(o))i.call(o,a)&&p(e,a,o[a]);return e},c=(e,o)=>d(e,m(o));var u=(e,o)=>{var a={};for(var n in e)r.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&i.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Es un hecho bien conocido que la forma en que comes puede tener un gran impacto en la cantidad de peso que pierdes. Pero lo que comes tambi\\xE9n juega un papel muy importante en la rapidez o la lentitud con la que pierdes peso. Lo que pones en tu plato es fundamental porque cada alimento tiene una cantidad determinada de calor\\xEDas y nutrientes espec\\xEDficos; no todos los alimentos son iguales. Algunos alimentos lo ayudan a perder peso m\\xE1s r\\xE1pido y no recuperarlo, mientras que otros tienen el efecto contrario, ya sea porque tienen un alto contenido de az\\xFAcar, grasa o calor\\xEDas, o porque tienen muy poco valor nutricional.\nLos alimentos b\\xE1sicos diet\\xE9ticos como el br\\xF3coli y los ar\\xE1ndanos son excelentes para perder peso. \\xBFOtros alimentos como papas fritas y refrescos? No tanto. Siga leyendo para conocer los 10 peores alimentos para comer si est\\xE1 tratando de perder peso r\\xE1pidamente...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

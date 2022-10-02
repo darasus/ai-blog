@@ -2,8 +2,8 @@
   "category": "life",
   "imageSrc": "/articles/the-history-of-mediation.png",
   "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAADQAgCdASoKAAoAAUAmJZgCdAb4DkiPADhIq4xiTzd4AP7YfBn+H2YSJJ1pbAz/nt/T3gkuDWCkY8CCeemX+kJXnhJ3vVT//EeT2Da/yhn8yf1Ed9tLfzufh06K2+FAjoiQLet03jvhR1C9vnIi+pSYFwA9rvpxGU4laSt1gD/EC+GQ5zR8AAAA",
-  "createdAt": "2022-10-01T12:13:06.062Z",
-  "updatedAt": "2022-10-01T12:13:06.062Z",
+  "createdAt": "2021-02-17T15:43:26.323Z",
+  "updatedAt": "2022-10-02T06:20:49.328Z",
   "slug": "la-historia-de-la-mediacion",
   "locale": "es",
   "categoryLocal": "vida",
@@ -20,61 +20,91 @@
   "relatedArticles": [
     {
       "category": "life",
-      "imageSrc": "/articles/the-future-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoKAAoAAUAmJbACdAYoBwURwg8n679oAPlz+oU8XtHTKyuDV2yVDyKrOdW5q4Ei4BDKzlvf5rWpR2KgVtBKf494n/PO5dLlIje60/9zSG/1xf/Fkbmz2/0Uv69j/N0wAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "el-futuro-de-la-mediacion",
+      "imageSrc": "/articles/how-can-mediation-help-businesses.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJbACdAtAAUojGIYAAP6cKZovigPdQ9kpbInl0r+EGWJEIavsH37GX5YJmy+XVfoFaLVB4H2O4kmE/Hzxs7n/rWPf5o47/10FLDG+IP7N5vtH/+2on1Eqf0b//9xn/y8DPigDfI7wAA==",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-puede-la-mediacion-ayudar-a-las-empresas",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "El Futuro De La Mediación",
+      "title": "¿Cómo Puede La Mediación Ayudar a Las Empresas?",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,o,s)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,a=(e,o)=>{for(var s in o||(o={}))i.call(o,s)&&t(e,s,o[s]);if(r)for(var s of r(o))c.call(o,s)&&t(e,s,o[s]);return e},l=(e,o)=>p(e,m(o));var u=(e,o)=>{var s={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&r)for(var n of r(e))o.indexOf(n)<0&&c.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"La mediaci\\xF3n es un proceso que ayuda a las personas a resolver conflictos y encontrar soluciones a problemas dif\\xEDciles. No es lo mismo que arbitraje o negociaci\\xF3n. La mediaci\\xF3n es un proceso voluntario en el que un tercero neutral, el mediador, ayuda a otros a explorar problemas, manejar conflictos y resolver problemas en un esfuerzo por resolver el conflicto y avanzar. Las partes involucradas en la disputa mantienen el control sobre su propio destino en todo momento. Son libres de retirarse de la mediaci\\xF3n en cualquier momento sin consecuencias. El objetivo de la mediaci\\xF3n no es el compromiso sino la resoluci\\xF3n. No es ganar-ganar o perder-perder, sino encontrar un lugar entre esos dos extremos donde ambas partes puedan sentirse satisfechas con el resultado de su disputa. Los servicios de mediaci\\xF3n suelen ser proporcionados por organizaciones privadas, como centros de mediaci\\xF3n comunitarios sin fines de lucro o centros religiosos que ofrecen estos servicios pro bono publico, lo que significa \\u201Cpor el bien del p\\xFAblico\\u201D sin cargo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,o,s)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[o]=s,n=(e,o)=>{for(var s in o||(o={}))r.call(o,s)&&t(e,s,o[s]);if(i)for(var s of i(o))c.call(o,s)&&t(e,s,o[s]);return e},d=(e,o)=>p(e,m(o));var u=(e,o)=>{var s={};for(var a in e)r.call(e,a)&&o.indexOf(a)<0&&(s[a]=e[a]);if(e!=null&&i)for(var a of i(e))o.indexOf(a)<0&&c.call(e,a)&&(s[a]=e[a]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var a=s,{components:e}=a,o=u(a,[\"components\"]);return mdx(MDXLayout,d(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La mediaci\\xF3n es una propuesta en la que todos ganan para las empresas. Es un proceso imparcial y confidencial que ayuda a individuos, empresas y organizaciones a alcanzar soluciones mutuamente beneficiosas para sus conflictos. Estas soluciones suelen adoptar la forma de acuerdos denominados \"acuerdos de mediaci\\xF3n\" o \"acuerdos de mediaci\\xF3n colaborativa\". La mediaci\\xF3n no es un evento de una sola vez, sino m\\xE1s bien un proceso continuo y una colaboraci\\xF3n entre las partes en disputa que involucra m\\xFAltiples sesiones.\nLa mediaci\\xF3n se puede utilizar en todo tipo de relaciones en las que existe la oportunidad de explorar diferentes formas de lidiar con el conflicto y encontrar soluciones beneficiosas para todos sin tener que ir a los tribunales o alguna otra adjudicaci\\xF3n costosa de terceros. Estos incluyen disputas entre socios, accionistas, proveedores, clientes, inquilinos, empleados, proveedores y competidores; gesti\\xF3n laboral; propietario/inquilino; c\\xF3nyuges que se divorcian; miembros de juntas sin fines de lucro; compa\\xF1eros de cuarto; vecinos enemistados; socios comerciales (y proveedores de servicios); proveedores (y clientes); propietarios y promotores inmobiliarios; ejecutores y beneficiarios de fideicomisos; propietarios y gobiernos locales, etc.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-make-your-resolution-to-get-fit-a-reality.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoKAAoAAUAmJbACdLoAEJkVpRSIXeUAAP70BZsm57PWbvWUfXzAyf+Lz0srNVWBC9/vt6Wir9OwtTgJk9OB0+rjVN2Rd8tM4D4tXeVBeMJqzIQ4MiyZdppWNfNIpn+pr/7rmCA4Kr/ubuJEc1nP8Cp/9jiaJI2Vn/gh6Q1Y+FIAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-hacer-realidad-tu-resolucion-de-ponerte-en-forma",
+      "imageSrc": "/articles/what-are-the-benefits-of-mediation-for-couples.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoKAAoAAUAmJbACdBOAA2N0bsEt/AD+t+uUv8ioEmfi4+vEjJ7OYm33pGZ+ceWi9WslReXRoFcxLwtJSAMNqjC80F0KVSO7iIGqwddI4m875nUkk5ZYrb/u7RacH0x/tUq0Bct/b6Qx9/Fu8ijVOBm13v/avDhr/qeuvi//wRxxVHgISAAAAA==",
+      "createdAt": "Wed May 06 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "cuales-son-los-beneficios-de-la-mediacion-para-parejas",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Cómo Hacer Realidad Tu Resolución De Ponerte En Forma",
+      "title": "¿cuáles Son Los Beneficios De La Mediación Para Parejas?",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var r=(e,n,o)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,i=(e,n)=>{for(var o in n||(n={}))u.call(n,o)&&r(e,o,n[o]);if(s)for(var o of s(n))c.call(n,o)&&r(e,o,n[o]);return e},t=(e,n)=>m(e,p(n));var l=(e,n)=>{var o={};for(var a in e)u.call(e,a)&&n.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))n.indexOf(a)<0&&c.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,n=l(a,[\"components\"]);return mdx(MDXLayout,t(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Las resoluciones son desafiantes. Requieren un esfuerzo sostenido, fuerza de voluntad y coraje para llevarlos a cabo. El hecho de que se cumplan tan pocas resoluciones muestra lo dif\\xEDcil que es para la mayor\\xEDa de nosotros dar el primer paso y poner nuestras intenciones en acci\\xF3n.\nVivimos en un mundo lleno de tentaciones en cada esquina. Incluso si no le gusta salir o conocer gente nueva, existen infinitas oportunidades en l\\xEDnea, lo que hace que mantenerse en forma sea a\\xFAn m\\xE1s dif\\xEDcil. Mantenerse en forma no es una tarea f\\xE1cil en este mundo moderno, \\xA1pero eso no significa que sea imposible! Solo necesita encontrar la motivaci\\xF3n adecuada para comenzar y continuar.\nMucha gente se da por vencida con sus resoluciones de A\\xF1o Nuevo incluso antes de que comiencen, porque no tienen un plan de acci\\xF3n y no consideran qu\\xE9 los mantendr\\xE1 motivados a lo largo del camino. Echemos un vistazo a c\\xF3mo puede hacer que su resoluci\\xF3n funcione:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,s)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,r=(e,a)=>{for(var s in a||(a={}))u.call(a,s)&&c(e,s,a[s]);if(n)for(var s of n(a))t.call(a,s)&&c(e,s,a[s]);return e},i=(e,a)=>d(e,m(a));var l=(e,a)=>{var s={};for(var o in e)u.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&t.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=l(o,[\"components\"]);return mdx(MDXLayout,i(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La mediaci\\xF3n de pareja es una excelente opci\\xF3n para la mayor\\xEDa de las parejas que buscan fortalecer su relaci\\xF3n. Tambi\\xE9n es una buena manera para que los socios resuelvan el conflicto antes de que se vuelva irreparable.\nSi usted y su pareja se sienten estresados, discuten o est\\xE1n desconectados el uno del otro, considere probar la mediaci\\xF3n. El proceso ayuda a los socios a entenderse mejor mientras crea nuevas soluciones a los problemas comunes que enfrentan como pareja.\nLos beneficios de la mediaci\\xF3n para parejas son abundantes y ayudar\\xE1n a que ambos se vean bajo una nueva luz. No se trata solo de resolver conflictos, sino tambi\\xE9n de crear una conexi\\xF3n m\\xE1s fuerte para avanzar hacia el futuro como socios y amantes. Echemos un vistazo a algunas de las cosas maravillosas que este proceso puede hacer por usted y su pareja...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-the-pandemic-is-changing-the-way-we-work.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAgCdASoKAAoAAUAmJbACdLoAEI2YdQAiZk8vIAAA/q3fcVfhCcLIg6MCLylC+hj1iaQV8C2GwwFoulWDI16SjAzcSlT0MehmAQ0idddZZakxN7/+VJSPjgPVqFIf/F8lDApFp0uSzdRwZpCOMAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-la-pandemia-esta-cambiando-la-forma-en-que-trabajamos",
+      "imageSrc": "/articles/how-much-does-mediation-cost.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACQAgCdASoKAAoAAUAmJbACdDBKyIuL/iCDBXgnAAD+920y/Jk5fj4Ij6bj2oc5XZn7BdZo8UpES7RTkhwiiT9EfvwPU/1INpw+Dt7Xou/imvjjejJhXVOiJSjO1gnkdBfpv/ipx6uj6vx1WnUCbaBv8Gj3/6n0JW+Cvl//zNk6i//28vf3N/OoAAA=",
+      "createdAt": "Wed Jul 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "cuanto-cuesta-la-mediacion",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Cómo La Pandemia Está Cambiando La Forma En Que Trabajamos",
+      "title": "¿cuánto Cuesta La Mediación?",
       "intro": {
-        "compiledSource": "var m=Object.defineProperty,u=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,t=(e,a)=>{for(var o in a||(a={}))r.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))i.call(a,o)&&d(e,o,a[o]);return e},l=(e,a)=>u(e,p(a));var c=(e,a)=>{var o={};for(var n in e)r.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&i.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=c(n,[\"components\"]);return mdx(MDXLayout,l(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El tiempo es dinero, como dice el refr\\xE1n. Y cuando est\\xE1s lidiando con una enfermedad pand\\xE9mica y un brote global, el tiempo que pasas en el trabajo tiene un conjunto completamente diferente de implicaciones.\nLas cepas de gripe pand\\xE9mica han diezmado las poblaciones humanas desde la primera pandemia registrada en el a\\xF1o 541 d.C. A lo largo de los siglos, los brotes han sido lo suficientemente frecuentes como para infundir miedo incluso en los m\\xE1s estoicos de nosotros.\nHoy nos enfrentamos a otra amenaza de pandemia con el potencial de ser a\\xFAn m\\xE1s devastadora que las anteriores. Una cepa altamente virulenta del virus de la influenza A conocida como pandemia de influenza ha comenzado a propagarse r\\xE1pidamente por gran parte del mundo.\nEn muchos sentidos, el lugar de trabajo actual es muy diferente al de hace un siglo. La tecnolog\\xEDa ha avanzado; las estructuras de oficina son m\\xE1s abiertas y colaborativas; y se espera que los trabajadores demuestren automotivaci\\xF3n y flexibilidad para prosperar en un entorno laboral en constante cambio.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var t=(a,e,o)=>e in a?l(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,d=(a,e)=>{for(var o in e||(e={}))i.call(e,o)&&t(a,o,e[o]);if(n)for(var o of n(e))s.call(e,o)&&t(a,o,e[o]);return a},c=(a,e)=>p(a,m(e));var u=(a,e)=>{var o={};for(var r in a)i.call(a,r)&&e.indexOf(r)<0&&(o[r]=a[r]);if(a!=null&&n)for(var r of n(a))e.indexOf(r)<0&&s.call(a,r)&&(o[r]=a[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:a}=r,e=u(r,[\"components\"]);return mdx(MDXLayout,c(d(d({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La mediaci\\xF3n, como otras formas de resoluci\\xF3n de disputas, no es gratuita. Lo paga directamente pagando al mediador o indirectamente pagando a los abogados. Pero, \\xBFcu\\xE1nto cuesta la mediaci\\xF3n?\nLos costos de la mediaci\\xF3n variar\\xE1n seg\\xFAn el lugar donde viva, la naturaleza de su disputa y la reputaci\\xF3n del mediador o la firma que elija para llevar su caso.\nSi bien algunos abogados pueden ofrecer a sus clientes la opci\\xF3n entre litigar y una cierta cantidad de horas de mediaci\\xF3n a un precio reducido como alternativa al litigio, la mayor\\xEDa de los abogados cobran sus tarifas est\\xE1ndar por los servicios de mediaci\\xF3n.\nLa tarifa por hora de un mediador privado puede oscilar entre $100 por hora y $300 por hora o m\\xE1s; sin embargo, la mayor\\xEDa de los mediadores tendr\\xE1n tasas de mercado est\\xE1ndar que se encuentran dentro de ese rango. Muchas corporaciones y organizaciones sin fines de lucro negocian descuentos grupales cuando contratan servicios de mediaci\\xF3n de terceros. En general, espere gastar de $200 a $500 por parte para una sesi\\xF3n de mediaci\\xF3n de un d\\xEDa con dos mediadores neutrales y un \\xE1rbitro independiente.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-top-10-benefits-of-owning-a-cat.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAgCdASoKAAoAAUAmJbACdLoB+AARCZS+8v2HnkoAAP7yjRzAOcG7p4QwIPJeYss/nTCqAcWr5PxacCxo1umo6Vgde/YyBv9a117fP1FtAd+yv7TnVpf/krRWx1nAH/dMSQkyAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-10-principales-beneficios-de-tener-un-gato",
+      "imageSrc": "/articles/how-to-get-out-of-a-style-rut.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoKAAoAAUAmJaACdAYoBuJ6F7I0AAD+928YbzcBti40kDCz0tplT3ycLfg6r8zUe0207ijrT1Tf9VTV/zB32YPwyOH7zV9FefYQf2BeP437sHFdN8AAAA==",
+      "createdAt": "Sat Jan 09 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-salir-de-una-rutina-de-estilo",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Los 10 Principales Beneficios De Tener Un Gato",
+      "title": "Cómo Salir De Una Rutina De Estilo",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,a,s)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[a]=s,t=(e,a)=>{for(var s in a||(a={}))r.call(a,s)&&u(e,s,a[s]);if(n)for(var s of n(a))i.call(a,s)&&u(e,s,a[s]);return e},c=(e,a)=>l(e,m(a));var d=(e,a)=>{var s={};for(var o in e)r.call(e,o)&&a.indexOf(o)<0&&(s[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&i.call(e,o)&&(s[o]=e[o]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var o=s,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Cuando se trata del tema de los gatos, muchas personas tienden a tener ideas preconcebidas sobre lo que implica tener uno. Existe la creencia general de que tener un gato como mascota reducir\\xE1 su vida social y limitar\\xE1 su capacidad para viajar. Si bien eso puede ser cierto para algunas personas, esa generalizaci\\xF3n no cuenta toda la historia. Los gatos son mascotas fant\\xE1sticas y, si eliges la raza adecuada, pueden traer muchos beneficios a tu vida. Tener un gato ofrece numerosos beneficios positivos en muchas \\xE1reas diferentes de su vida. \\xA1Estas son solo algunas de las razones por las que deber\\xEDas tener un gato!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,t=(e,a)=>{for(var o in a||(a={}))u.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))r.call(a,o)&&d(e,o,a[o]);return e},i=(e,a)=>l(e,c(a));var p=(e,a)=>{var o={};for(var n in e)u.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&r.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,i(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"El riesgo de caer en una rutina de estilo es algo con lo que todos tenemos que lidiar de vez en cuando. Le sucede incluso a las personas m\\xE1s confiadas y atrevidas, por lo que ciertamente no est\\xE1s solo si sientes que tu estilo se est\\xE1 estancando y no puedes pensar en nada nuevo o emocionante para usar. Ya sea porque no has encontrado una nueva prenda que te emocione en meses, o porque simplemente no sabes qu\\xE9 ponerte despu\\xE9s de usar variaciones sobre el mismo tema durante varias semanas seguidas, todo el mundo queda atrapado en la rutina. ahora y de nuevo. Afortunadamente, hay formas de salir de eso y descubrir una nueva oportunidad para tu estilo personal una vez m\\xE1s.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrc": "/articles/the-top-10-greatest-cat-moments-in-history.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAADQAQCdASoKAAoAAUAmJagCdAELWy1tfAD+/eOuhLM7k2FLMw1+vf090NhX/69fmBz7g6+v/7eXM/dbS3fa1ubk7Ecf686d/oAfhn4/0x1y3YCg124laRTLfi7R2EXF/Ol5/JzbdLCG7JkAAAA=",
+      "createdAt": "Fri Jul 17 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-10-mejores-momentos-felinos-de-la-historia",
+      "locale": "es",
+      "categoryLocal": "vida",
+      "title": "Los 10 Mejores Momentos Felinos De La Historia",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var i=(o,e,a)=>e in o?l(o,e,{enumerable:!0,configurable:!0,writable:!0,value:a}):o[e]=a,t=(o,e)=>{for(var a in e||(e={}))r.call(e,a)&&i(o,a,e[a]);if(n)for(var a of n(e))u.call(e,a)&&i(o,a,e[a]);return o},c=(o,e)=>m(o,p(e));var d=(o,e)=>{var a={};for(var s in o)r.call(o,s)&&e.indexOf(s)<0&&(a[s]=o[s]);if(o!=null&&n)for(var s of n(o))e.indexOf(s)<0&&u.call(o,s)&&(a[s]=o[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:o}=s,e=d(s,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Entonces crees que tu gato es lindo, y eso es algo maravilloso. Despu\\xE9s de todo, los gatos son criaturas esponjosas y adorables que tambi\\xE9n son calmantes naturales para el estr\\xE9s. \\xBFPero crees que tu gato es lo suficientemente lindo como para aparecer en los libros de historia? Probablemente no. Lamento reventar tu burbuja, pero incluso el gato m\\xE1s lindo del mundo tendr\\xEDa dificultades para competir con algunos de estos amigos felinos cuando se trata de tener un impacto en la historia humana...\nLos gatos han sido un compa\\xF1ero constante de los humanos durante miles de a\\xF1os. Son criaturas enigm\\xE1ticas con reputaci\\xF3n de ser distantes e independientes; no piden mucho y se quedan con muy poco como pago. Pero los gatos exigen algo intangible de sus due\\xF1os: compa\\xF1\\xEDa. Como resultado, hay muchos gatos famosos en la historia cuyas haza\\xF1as se han convertido en leyendas...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrc": "/articles/top-new-woodworking-projects-to-keep-you-busy-this-winter.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAgCdASoKAAoAAUAmJQBOgBttTNDEpoAAAP4LqZT/vJbYjtPg8aRpTm0teDu6mLdfGV1sYIiRPRGm/pXKIi+jPrqf7kx7QJido+eUrekHZxlwDVflRwmneZ447cY+c0oGsBSquEM/vT6iDL33t1IAMveTeNAJCZtikaUkSw7YAA==",
+      "createdAt": "Fri Sep 25 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-nuevos-proyectos-de-carpinteria-para-mantenerlo-ocupado-este-invierno",
+      "locale": "es",
+      "categoryLocal": "vida",
+      "title": "Los Mejores Nuevos Proyectos De Carpintería Para Mantenerlo Ocupado Este Invierno",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,a,o)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,t=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&u(e,o,a[o]);if(r)for(var o of r(a))i.call(a,o)&&u(e,o,a[o]);return e},c=(e,a)=>m(e,d(a));var l=(e,a)=>{var o={};for(var n in e)s.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&r)for(var n of r(e))a.indexOf(n)<0&&i.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=l(n,[\"components\"]);return mdx(MDXLayout,c(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Seamos realistas: la temporada de invierno puede volverse bastante mon\\xF3tona y solitaria. Cuando la temperatura desciende y la nieve comienza a acumularse, puede ser f\\xE1cil que su hogar se sienta como una prisi\\xF3n fr\\xEDa e implacable. Por mucho que nos guste acurrucarnos junto al fuego con chocolate caliente y mantas, tiene que haber algo m\\xE1s constructivo que puedas hacer para salir de este miedo invernal.\nSi desea mantenerse productivo este invierno y evitar volverse loco por la claustrofobia, ahora es el momento perfecto para comenzar a concentrarse en diferentes proyectos de carpinter\\xEDa. Con suerte, esto no solo lo mantendr\\xE1 ocupado, sino que tambi\\xE9n lo ayudar\\xE1 a combatir la tristeza estacional. \\xA1Mira estos 5 nuevos y populares proyectos de carpinter\\xEDa que seguramente te mantendr\\xE1n ocupado este invierno!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -82,8 +112,8 @@
       "category": "life",
       "imageSrc": "/articles/from-first-date-to-soulmate-how-to-know-if-youre-on-the-right-track.png",
       "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJYwCdAEPCLAB9CgA/v6X+Yle+39/hdX8NycbFU0Kwn5FIzPoq57wR4S1hubZZJz1To2OG1NsYGXq7XbiuDrE/oYUm4uNKcBMKOYxlMYaAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Thu Oct 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "de-la-primera-cita-al-alma-gemela-como-saber-si-estas-en-el-camino-correcto",
       "locale": "es",
       "categoryLocal": "vida",
@@ -95,76 +125,46 @@
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-not-to-jump-on-people.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAAAwAgCdASoKAAoAAUAmJbACdAabK94Lzx7tQAD+a1jPDUyBJA3wNiEzc2Ft+3RZsCOdpCvh53PKmffTfjm/GAVpbGILivnNm6EmGsYjOAX6JosE6oaJPbNnBxiLMF/pAharP87/jNAgmKj//jnaRuw/d/96WyP91/49/vZrO//vg11/+Dkz+zfOiBhcAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-entrenar-a-tu-perro-para-que-no-salte-sobre-las-personas",
+      "imageSrc": "/articles/what-are-the-success-rates-of-mediation.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoKAAoAAUAmJbACdLoAAwqe95+/sIAA/vdfbo2cV6fKsU/fL7+JYHOojnz7P4kF8wMn7g1gb4uarYCTXYNtxg6kCX7T/8WKPnSOm3/xzmeaZD/ibL39Df9yX/cGaUW3YHb76m/qoAA=",
+      "createdAt": "Thu Feb 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "cuales-son-las-tasas-de-exito-de-la-mediacion",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Cómo Entrenar a Tu Perro Para Que No Salte Sobre Las Personas",
+      "title": "¿cuáles Son Las Tasas De Éxito De La Mediación?",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,p=Object.prototype.propertyIsEnumerable;var i=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&i(e,o,a[o]);if(s)for(var o of s(a))p.call(a,o)&&i(e,o,a[o]);return e},u=(e,a)=>m(e,d(a));var c=(e,a)=>{var o={};for(var r in e)t.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&p.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=c(r,[\"components\"]);return mdx(MDXLayout,u(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFTienes amigos que le tienen miedo a los perros? O tal vez simplemente no quieras que tu perro salte sobre las personas. En cualquier caso, ense\\xF1arle a tu perro a no saltar sobre las personas es una habilidad esencial. Tambi\\xE9n puede ser complicado porque requiere leer a tu perro y anticipar su comportamiento. Si no han saltado todav\\xEDa, \\xBFvolver\\xE1n a saltar? \\xBFSe arrastrar\\xE1n hacia ti primero o esperar\\xE1n a que te acerques primero? La respuesta puede ser diferente cada vez y es por eso que puede parecer un juego de adivinanzas constante. Sin embargo, con persistencia y paciencia, puedes entrenar a tu perro para que no salte sobre las personas.\nSi su perro es propenso a saltar, es importante controlar ese comportamiento antes de pasar a este programa de entrenamiento. Los perros suelen saltar por una de estas tres razones: est\\xE1n excitados y sobreestimulados; quieren algo de ti como comida o atenci\\xF3n; o lo ven como una forma de acercarse a otra cosa (puede ser la persona sobre la que no quieres que salten o algo m\\xE1s cercano).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))u.call(a,o)&&t(e,o,a[o]);if(r)for(var o of r(a))i.call(a,o)&&t(e,o,a[o]);return e},c=(e,a)=>p(e,m(a));var d=(e,a)=>{var o={};for(var s in e)u.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&i.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=d(s,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La mediaci\\xF3n es un proceso de resoluci\\xF3n de disputas que involucra la participaci\\xF3n de un tercero neutral llamado mediador. Las partes en la disputa acuerdan reunirse con el mediador y revelar los hechos, pero no discutir su caso. En cambio, el objetivo es que ambas partes escuchen atentamente lo que el otro tiene que decir y exploren posibles compromisos que sean aceptables para ambos.\nLa mediaci\\xF3n se puede utilizar en cualquier etapa de una disputa, desde la resoluci\\xF3n de las quejas iniciales hasta el arreglo o el arbitraje. Se puede usar en lugar del litigio cuando no hay un lado correcto o incorrecto claro o cuando es m\\xE1s rentable que los procedimientos contradictorios. La investigaci\\xF3n muestra que la mediaci\\xF3n tambi\\xE9n puede hacer que las disputas duren mucho m\\xE1s y sea m\\xE1s barata que los juicios, reduce el riesgo de que las demandas se vuelvan a presentar despu\\xE9s de un acuerdo y aumenta la probabilidad de llegar a un acuerdo en principio entre las partes.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-different-types-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoKAAoAAUAmJYgCdAEOzC1UcgAA/vRdvL481qCNxNLokHrEkzfqCaclCOY/zXVR3x/9znMOpkwmsjrbxT/vENKHyaYAXPJllfA0MUuXeDf6W87bUAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-diferentes-tipos-de-mediacion",
+      "imageSrc": "/articles/how-to-train-your-dog-to-accept-being-left-alone.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoKAAoAAUAmJYgCdAEOI/yAAP5sv2/vBm0P+quM/+LDdy2+H7s99IVjAfFExKvUiYy5dDBApHZAKuYV7UeVfRzx+TPgLJ/lYTvKTeugAAA=",
+      "createdAt": "Sat May 21 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-entrenar-a-tu-perro-para-que-acepte-que-lo-dejen-solo",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Los Diferentes Tipos De Mediación",
+      "title": "Cómo Entrenar a Tu Perro Para Que Acepte Que Lo Dejen Solo",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var c=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var s=(a,e,o)=>e in a?l(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,d=(a,e)=>{for(var o in e||(e={}))c.call(e,o)&&s(a,o,e[o]);if(n)for(var o of n(e))r.call(e,o)&&s(a,o,e[o]);return a},t=(a,e)=>p(a,m(e));var u=(a,e)=>{var o={};for(var i in a)c.call(a,i)&&e.indexOf(i)<0&&(o[i]=a[i]);if(a!=null&&n)for(var i of n(a))e.indexOf(i)<0&&r.call(a,i)&&(o[i]=a[i]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var i=o,{components:a}=i,e=u(i,[\"components\"]);return mdx(MDXLayout,t(d(d({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La mediaci\\xF3n es la pr\\xE1ctica de resolver conflictos y negociar soluciones con la ayuda de un tercero neutral. Hay muchos tipos diferentes de mediaci\\xF3n, cada uno con su propio conjunto de reglas y expectativas para los participantes. Comprender estas variaciones es fundamental para elegir el proceso de mediaci\\xF3n adecuado para sus necesidades espec\\xEDficas.\nLa mediaci\\xF3n se puede dividir ampliamente en dos categor\\xEDas: mediaci\\xF3n de terceros, donde un mediador imparcial ayuda a las partes a llegar a un acuerdo; y la mediaci\\xF3n colaborativa o de resoluci\\xF3n de problemas, donde el mediador act\\xFAa como un gu\\xEDa que ayuda a ambas partes a negociar de buena fe y avanzar hacia una soluci\\xF3n mutuamente beneficiosa.\nCada tipo de mediaci\\xF3n tiene su propio conjunto de reglas y requisitos. En esta publicaci\\xF3n de blog, exploraremos algunas de las formas m\\xE1s comunes de mediaci\\xF3n, incluida la mediaci\\xF3n general, la mediaci\\xF3n neutral de terceros, la mediaci\\xF3n colaborativa guiada, la mediaci\\xF3n neutral colaborativa h\\xEDbrida y los servicios de equipo de expertos (ETS).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,o,a)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&c(e,a,o[a]);if(n)for(var a of n(o))t.call(o,a)&&c(e,a,o[a]);return e},u=(e,o)=>l(e,m(o));var p=(e,o)=>{var a={};for(var s in e)i.call(e,s)&&o.indexOf(s)<0&&(a[s]=e[s]);if(e!=null&&n)for(var s of n(e))o.indexOf(s)<0&&t.call(e,s)&&(a[s]=e[s]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var s=a,{components:e}=s,o=p(s,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,'Por mucho que amemos a nuestros perros, y viceversa, a nadie le gusta el temido sentimiento de \"mierda, tengo que volver al trabajo\". Poner a su perro en una pensi\\xF3n o perrera no es una decisi\\xF3n f\\xE1cil para la mayor\\xEDa de los due\\xF1os de mascotas, especialmente si tiene una raza sensible (es decir, muchos ladridos = perros infelices). Entonces, \\xBFc\\xF3mo puedes preparar a tu cachorro para que est\\xE9 solo? No es tan simple como encerrarlos en un armario durante unas horas una o dos veces y luego esperar que est\\xE9n bien con eso. Los perros no piensan como las personas; no entienden que las acciones simb\\xF3licas como apagar la luz significan que no volver\\xE1s a casa esta noche. Tienen respuestas de miedo instintivas que deben abordarse espec\\xEDficamente con entrenamiento y cuidado antes de dejarlos solos.'))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-walk-on-a-leash.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAENyxaxdqgAAP7WDTPT7V81yA90EYZlcbdQCuOt3W+BPaB1nNin18DcSLhWBst3LoRcdSb6Kl7v7fv8/+0Iyt4/Eo8NIyVf/9Pbee/wcmKj//lIg70eAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-entrenar-a-tu-perro-para-que-camine-con-correa",
+      "imageSrc": "/articles/how-to-start-living-a-more-eco-friendly-lifestyle.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAACwAgCdASoKAAoAAUAmJZACdEf/jBZvI3A2VmpLf9AA/vKPXCAzR6z5eqr7UVsbcWWXjFxsD+b3h6P+pgEsuEGxmT8BuTg0amdDUx3OT/qxF+wBbIQkohr8yegFDvaPUqeGR6eBlbcu+VUFdMqPVSf9FFFID5OnrISPjDfl1+w/foPwEDyyo8hdgAA=",
+      "createdAt": "Fri Jul 10 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-empezar-a-vivir-un-estilo-de-vida-mas-ecologico",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Cómo Entrenar a Tu Perro Para Que Camine Con Correa",
+      "title": "Cómo Empezar a Vivir Un Estilo De Vida Más Ecológico",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var i=(e,a,r)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[a]=r,s=(e,a)=>{for(var r in a||(a={}))t.call(a,r)&&i(e,r,a[r]);if(n)for(var r of n(a))c.call(a,r)&&i(e,r,a[r]);return e},u=(e,a)=>l(e,m(a));var p=(e,a)=>{var r={};for(var o in e)t.call(e,o)&&a.indexOf(o)<0&&(r[o]=e[o]);if(e!=null&&n)for(var o of n(e))a.indexOf(o)<0&&c.call(e,o)&&(r[o]=e[o]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var o=r,{components:e}=o,a=p(o,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFSab\\xEDas que tu perro es capaz de aprender trucos y \\xF3rdenes? Si est\\xE1 listo para llevar su relaci\\xF3n con su perro al siguiente nivel, es hora de comenzar a entrenar. El entrenamiento de perros crear\\xE1 una conexi\\xF3n m\\xE1s fuerte entre ustedes dos y puede ayudarlos a lograr una relaci\\xF3n m\\xE1s gratificante con su perro. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo entrenar a su perro para que camine con correa.\nEl adiestramiento canino no es estrictamente para perros competitivos o razas con instintos inherentes, como perros de caza o de pastoreo. Cualquier perro puede ser entrenado e incluso los cachorros m\\xE1s peque\\xF1os pueden socializarse desde una edad temprana. Con paciencia, dedicaci\\xF3n y las estrategias adecuadas, cualquiera puede entrenar a su perro.\nLas sesiones de entrenamiento deben ser divertidas tanto para ti como para tu perro. Nunca deben involucrar refuerzos negativos o t\\xE9cnicas que induzcan miedo, como roles alfa o gru\\xF1irles. Para comenzar, lea nuestros \\xFAtiles consejos a continuaci\\xF3n sobre c\\xF3mo entrenar a su cachorro para que camine con correa:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/5-ways-to-cut-down-on-screen-time.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRrIAAABXRUJQVlA4IKYAAADQAgCdASoKAAoAAUAmJbACdDVAOsYIh8y5gNEEHfYgAP7VECMTHclhYge+bh2jaTLotfe2TAgGS8ma8dfHv8iXwvwybRYx8oPvVhfnPnXtFc/T/XDAHm+J0iOKoNj6dCzhZx/Dhf/u1QBYBZOW4xSgRuzv/vZ/kz/Ki1/ob6Pfcenyif9jv/yr/Bwn9/8f9/re5eY/bNPXf7OTLN//3AGJslX9tYAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "5-formas-de-reducir-el-tiempo-frente-a-la-pantalla",
-      "locale": "es",
-      "categoryLocal": "vida",
-      "title": "5 Formas De Reducir El Tiempo Frente a La Pantalla",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,t=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(s)for(var o of s(a))r.call(a,o)&&d(e,o,a[o]);return e},l=(e,a)=>c(e,m(a));var p=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&r.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,l(t(t({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La era digital ha tra\\xEDdo consigo una gran cantidad de problemas nuevos que los padres deben abordar. Desde preocupaciones sobre la seguridad en l\\xEDnea hasta la cantidad de tiempo que los ni\\xF1os pasan mirando pantallas, la crianza digital presenta su propio conjunto \\xFAnico de desaf\\xEDos.\nA medida que la tecnolog\\xEDa contin\\xFAa avanzando, tambi\\xE9n lo hacen las formas en que nuestros hijos pueden interactuar con ella. Desde tabletas y televisores inteligentes hasta tel\\xE9fonos inteligentes y videojuegos, parece que hay m\\xE1s pantallas que nunca. Esto es especialmente cierto para los ni\\xF1os m\\xE1s peque\\xF1os que han crecido con estos dispositivos como parte normal de su vida cotidiana.\nLos pros y los contras del tiempo de pantalla para los ni\\xF1os se pueden debatir interminablemente, pero al final del d\\xEDa, es probable que su hijo pase mucho tiempo consumiendo alg\\xFAn tipo de medios de una forma u otra. Como padre, es importante que comprenda los beneficios y riesgos asociados con el tiempo frente a la pantalla para que pueda tomar decisiones informadas sobre cu\\xE1nta exposici\\xF3n reciben regularmente.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-to-deal-with-a-partner-whos-always-travelling.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRrIAAABXRUJQVlA4IKYAAADQAgCdASoKAAoAAUAmJbACdDKM/Ya/TMGZZP9gu5AAAPwqDGAp/LdfxTSnO0ZG5RAjMbw3ven/nHdwjH5nn8a6y9K/Qtqi2yzvPqNj+Cffx/ZbKjH/S6il/loIE+vLfSkcGmbtirMqNqeUwOZKVul+dGPv5+rjvx7xqSkzJv9B39SfsU/+biE9yn/zrbElLRln/+mrXi7ltTP/+af8svz/+Tf/xOIA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "como-tratar-con-una-pareja-que-siempre-esta-de-viaje",
-      "locale": "es",
-      "categoryLocal": "vida",
-      "title": "Cómo Tratar Con Una Pareja Que Siempre Está De Viaje",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&c(e,o,a[o]);if(s)for(var o of s(a))u.call(a,o)&&c(e,o,a[o]);return e},t=(e,a)=>l(e,m(a));var p=(e,a)=>{var o={};for(var r in e)i.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&u.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=p(r,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`\\xBFAnhelas los d\\xEDas en que tu pareja se acurrucaba a tu lado y miraba Netflix en lugar de viajar por trabajo? Si est\\xE1s saliendo con alguien que viaja con frecuencia, esos d\\xEDas podr\\xEDan haber terminado. Pero no te preocupes, no ha terminado para siempre. Este tipo de relaciones son especiales a su manera.\nTodos tenemos diferentes prioridades en una relaci\\xF3n, pero a veces esas diferencias pueden ejercer presi\\xF3n sobre su relaci\\xF3n. Cuando un socio siempre viaja por trabajo, habr\\xE1 algunos desaf\\xEDos. Tienes que encontrar formas de mantener vivo el romance, incluso en circunstancias dif\\xEDciles.\nHay muchas cosas que debe saber acerca de estar con alguien que viaja mucho por trabajo. Aqu\\xED hay algunos consejos para ayudarlo a superar las dificultades y mantenerse positivo acerca de su relaci\\xF3n en general.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,i=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(a,o,e)=>o in a?l(a,o,{enumerable:!0,configurable:!0,writable:!0,value:e}):a[o]=e,u=(a,o)=>{for(var e in o||(o={}))r.call(o,e)&&d(a,e,o[e]);if(t)for(var e of t(o))s.call(o,e)&&d(a,e,o[e]);return a},p=(a,o)=>i(a,y(o));var c=(a,o)=>{var e={};for(var n in a)r.call(a,n)&&o.indexOf(n)<0&&(e[n]=a[n]);if(a!=null&&t)for(var n of t(a))o.indexOf(n)<0&&s.call(a,n)&&(e[n]=a[n]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var n=e,{components:a}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,p(u(u({},layoutProps),o),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"\\xBFSab\\xEDas que una sola persona produce alrededor de 1,6 toneladas de CO2 al a\\xF1o? \\xBFSab\\xEDa tambi\\xE9n que producir una camiseta de algod\\xF3n usa casi 19 galones de agua y produce 3.5 libras de CO2?\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

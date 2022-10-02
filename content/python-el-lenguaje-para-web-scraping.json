@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "/articles/python-the-language-for-web-scraping.png",
   "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACQAgCdASoKAAoAAUAmJaACdLoAEEdl8g1hBIUwgAD+763PpUsEPy/Mqmuz0Slj4olqr3kdN4BHvAO4tJTbxpIqV/5T3+/IHbIOX1tvsfueR8VGjgVex/zxjvupvX/IWTpg/f/zZuEoo7IWBX8VsbvKQLCCrn/y3FA5g/5DcQI5YFxcmm8EvOoeFd/WIYG7AAA=",
-  "createdAt": "2022-10-01T12:13:30.585Z",
-  "updatedAt": "2022-10-01T12:13:30.585Z",
+  "createdAt": "2020-04-17T03:28:05.854Z",
+  "updatedAt": "2022-10-02T06:21:16.451Z",
   "slug": "python-el-lenguaje-para-web-scraping",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,106 +20,91 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJbACdH8AGEieY/xgAAD+/M/zjfqYo/+1kwb75Kj+tv/qXOLXf4/9T/r4gZnLstkAZ/0VXeHVpfqgZ94yqgdZjbITDffqfhiMeQ/6/xzxZEyIJygMh/W4rcHAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "configuracion-de-su-entorno-de-desarrollo-de-java",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJagCdAYulwKImj/gXQAA/vqGHDrLfT3+697HnPv/z/i66v/HNBwX7aaPa89+JnGXG96mh1F+hnhDPLtX8hLbi3mAz/avWWjE3TIHgFPK+//DFcw4ez2vv/xGv9jfcgCwEc5QV9jaWqUgAAA=",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-lenguaje-para-computacion-cientifica",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Configuración De Su Entorno De Desarrollo De Java",
+      "title": "Go Lenguaje Para Computación Científica",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))l.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))i.call(a,o)&&t(e,o,a[o]);return e},d=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var r in e)l.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&s)for(var r of s(e))a.indexOf(r)<0&&i.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=c(r,[\"components\"]);return mdx(MDXLayout,d(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si es desarrollador, su trabajo requiere que use diferentes software y herramientas para crear aplicaciones. Hay diferentes lenguajes de programaci\\xF3n y marcos que necesita saber para hacer bien su trabajo. Con la creciente popularidad de las aplicaciones m\\xF3viles y el auge de la inteligencia artificial (IA), los desarrolladores ahora tienen m\\xFAltiples oportunidades en el campo del desarrollo de software. En esta publicaci\\xF3n de blog, le presentaremos Java como uno de los lenguajes de programaci\\xF3n m\\xE1s populares para los desarrolladores. Tambi\\xE9n aprender\\xE1 c\\xF3mo configurar su entorno de desarrollo de Java para que pueda comenzar a codificar lo antes posible.\nSi quieres convertirte en ingeniero de software, saber programar es solo la punta del iceberg. Tambi\\xE9n debe comprender tecnolog\\xEDas como HTML5, CSS3 y XML, que son un vocabulario est\\xE1ndar para el dise\\xF1o de sitios web y el almacenamiento de datos inform\\xE1ticos. En esta publicaci\\xF3n de blog, presentaremos algunos t\\xE9rminos comunes que usan los desarrolladores al hablar sobre la configuraci\\xF3n de sus entornos de desarrollo para diferentes lenguajes de programaci\\xF3n como Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var d=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,a)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))d.call(o,a)&&c(e,a,o[a]);if(n)for(var a of n(o))s.call(o,a)&&c(e,a,o[a]);return e},t=(e,o)=>u(e,m(o));var p=(e,o)=>{var a={};for(var i in e)d.call(e,i)&&o.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&n)for(var i of n(e))o.indexOf(i)<0&&s.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,o=p(i,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`El lenguaje de programaci\\xF3n Go ha ganado popularidad en la comunidad de ingenier\\xEDa de software en los \\xFAltimos a\\xF1os. A muchos desarrolladores les ha gustado Go debido a su simplicidad, legibilidad y tiempo de compilaci\\xF3n m\\xE1s r\\xE1pido. Otros beneficios incluyen tener poca o ninguna sobrecarga de tiempo de ejecuci\\xF3n, ser seguro para la memoria de forma predeterminada y poder compilar el c\\xF3digo Go como archivos binarios independientes o como paquetes (llamados paquetes en Go).\nGo es un lenguaje ideal para la inform\\xE1tica cient\\xEDfica debido a su rendimiento, facilidad de uso y bibliotecas est\\xE1ndar. Este blog describir\\xE1 las razones por las que deber\\xEDa considerar usar Go para su pr\\xF3ximo proyecto que involucre computaci\\xF3n cient\\xEDfica pesada.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-data-mining.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoKAAoAAUAmJbACdLoAAwkKnxsAAAD+3PeejsjztM2YfNTzDcFf9rPt2nvjKeVKDPP21LWft0XAn0yn/nBjdDDn5//hXSWc/nMofQ1ol9eQMy4FiBpAArhcgAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "python-el-lenguaje-para-la-mineria-de-datos",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADIAoGQAD+86/WKtNsCaNNZ7uAq/hKbh+svbMVlPnKsr3Yc13In/69safo3XerQ/pgf+OCl8AXXOR+TocAAAA=",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "los-mejores-programas-de-ingenieria-de-software",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para La Minería De Datos",
+      "title": "Los Mejores Programas De Ingeniería De Software",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var t=Object.prototype.hasOwnProperty,u=Object.prototype.propertyIsEnumerable;var l=(e,a,o)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))t.call(a,o)&&l(e,o,a[o]);if(n)for(var o of n(a))u.call(a,o)&&l(e,o,a[o]);return e},c=(e,a)=>p(e,m(a));var i=(e,a)=>{var o={};for(var s in e)t.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&u.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=i(s,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Python es un lenguaje extremadamente vers\\xE1til y sus aplicaciones van desde el desarrollo web hasta el aprendizaje autom\\xE1tico. Lo que hace que Python sea tan bueno es que es muy adaptable: puede usarlo para casi cualquier prop\\xF3sito. Echemos un vistazo a algunas de las razones por las que deber\\xEDa considerar usar Python para la miner\\xEDa de datos.\nCon el creciente volumen de datos en el mundo, encontrar ideas y descubrir nuevos conocimientos a partir de los datos se ha convertido en un desaf\\xEDo. Pero gracias a las tecnolog\\xEDas de punta como la Inteligencia Artificial, el Procesamiento del Lenguaje Natural y el Aprendizaje Autom\\xE1tico, este proceso se ha vuelto mucho m\\xE1s f\\xE1cil de manejar con Python como una de las principales herramientas utilizadas para tales prop\\xF3sitos. Con esta publicaci\\xF3n de blog, aprender\\xE1 por qu\\xE9 Python es el mejor lenguaje de programaci\\xF3n para tareas de miner\\xEDa de datos, c\\xF3mo puede comenzar con \\xE9l y ver algunos ejemplos de uso, as\\xED como respuestas a preguntas frecuentes sobre este tema.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(n)for(var o of n(a))t.call(a,o)&&d(e,o,a[o]);return e},c=(e,a)=>l(e,m(a));var p=(e,a)=>{var o={};for(var s in e)i.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&t.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=p(s,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La ingenier\\xEDa de software es un campo amplio y de r\\xE1pido crecimiento. El mercado de ingenieros de software contin\\xFAa creciendo a un ritmo acelerado, y se espera que la demanda aumente en otros 280 000 puestos de trabajo para 2022. Por lo tanto, los futuros ingenieros de software tienen muchas opciones cuando se trata de seguir su carrera. Los programas de ciencias de la computaci\\xF3n generalmente brindan una base excelente para aquellos interesados en seguir la ingenier\\xEDa de software como una carrera profesional espec\\xEDfica, pero estos programas por s\\xED solos a menudo no son suficientes.\nLos programas dise\\xF1ados espec\\xEDficamente para la ingenier\\xEDa de software pueden ayudarlo a obtener las habilidades y la capacitaci\\xF3n que necesita para tener \\xE9xito en este campo. Hay muchos tipos diferentes de puestos de ingeniero de software disponibles en la actualidad, desde desarrollo front-end hasta miner\\xEDa de datos e inteligencia artificial (IA). Estos son algunos de los mejores programas de ingenier\\xEDa de software disponibles.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-future-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJZACdAEOaRcVoAD+/bX26dt3YHu08BqTgsOfcLPLvO/sEOcacYuzbwtf6+6v/zxvdyikj8GFKBgtYvAxgZIHisIr2resMkxe6CZN/K0ZHp0DG+SCOD4TIAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "el-futuro-de-la-ingenieria-de-software",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdLoAEIwXpxFAzlGAAP7xukfoZHGfROt0fjzAUTNq5i8tSZRpvZ5ymU/aA/nOVu1Jmvuet5JYudWEy352559LERr86G0aprREJi3FBRqdfMqq36tO2V2ztm4Xu/ZrP/2Ftb82P9G87Qp/lln/uNN7irz/u1zsp/8ZU/HMpx2PQXmjMRbzL9UIAA==",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "go-language-para-la-inteligencia-artificial",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "El Futuro De La Ingeniería De Software",
+      "title": "Go Language Para La Inteligencia Artificial",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&c(e,o,a[o]);if(s)for(var o of s(a))t.call(a,o)&&c(e,o,a[o]);return e},d=(e,a)=>m(e,p(a));var l=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&t.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=l(n,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los ingenieros de software son el motor de la econom\\xEDa digital. Crean, mantienen y actualizan el software que impulsa las empresas, los sitios web y las aplicaciones. Y la demanda de ingenieros de software contin\\xFAa creciendo. Las ofertas de trabajo para ingenieros de software han aumentado un 37 % en los \\xFAltimos cinco a\\xF1os, y se espera un aumento adicional del 26 % para 2024.\nLa ingenier\\xEDa de software es tambi\\xE9n uno de los campos m\\xE1s competitivos para incursionar en este momento. Hay una escasez de candidatos calificados, lo que ha llevado a una gran demanda y altos salarios para los mejores ingenieros de software que pueden impulsar la innovaci\\xF3n en sus empresas. Para convertirse en ingeniero de software y obtener uno de esos trabajos codiciados, deber\\xE1 completar una licenciatura en inform\\xE1tica o tomar clases de codificaci\\xF3n. Echemos un vistazo a lo que necesita para convertirse en ingeniero de software y lo que podr\\xEDa deparar el futuro para este campo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))s.call(a,o)&&c(e,o,a[o]);if(i)for(var o of i(a))t.call(a,o)&&c(e,o,a[o]);return e},l=(e,a)=>d(e,m(a));var p=(e,a)=>{var o={};for(var r in e)s.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&i)for(var r of i(e))a.indexOf(r)<0&&t.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=p(r,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La tecnolog\\xEDa de inteligencia artificial est\\xE1 creciendo r\\xE1pidamente en todos los sectores. Todas las organizaciones importantes buscan adoptar tecnolog\\xEDa de inteligencia artificial para automatizar procesos, hacer que su negocio sea m\\xE1s eficiente y mejorar la experiencia de sus clientes. Sin embargo, la mayor\\xEDa de estas empresas luchan por elegir las herramientas y los marcos de trabajo de aprendizaje autom\\xE1tico adecuados para sus proyectos de IA, ya que hay varias opciones disponibles en el mercado.\nSi tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n o desarrollar una aplicaci\\xF3n que requiera algoritmos de inteligencia artificial, deber\\xEDa considerar usar Golang para su desarrollo de software.\nGo es un lenguaje de programaci\\xF3n creado por Google y es una de las opciones m\\xE1s populares para desarrollar una aplicaci\\xF3n de IA o implementar un sistema de IA en su organizaci\\xF3n debido a sus potentes funciones. Exploremos por qu\\xE9 Go es una excelente opci\\xF3n para desarrollar aplicaciones de inteligencia artificial y c\\xF3mo se puede usar para construir un sistema de IA estable.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB8gADDBsHLZDUAADOMtjF6n03V+WyKX/UN6tNeRNRUdLUkKf0nT/okgtJ7BaMOZFkMEae1h0hRpvm8wAUospXYzv7f/7GP/1+Ls/8YD7tz/vHWdl3+oO+At/2b+87+OEAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-beneficios-de-aprender-a-programar",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAELX5Rg/gAA/vS/h/dp/bmB6Lmu3PUV3mzI8P5jsScwr2T6Z9WA2xo+PSV14KVdwHXipjM3Gl53bVOoGIaPI7IFJDKYKtxjWuC5wsN4jBkNKFvD/3c0cuSL8/sgtYL5/thMg/moAAA=",
+      "createdAt": "Thu Mar 31 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "las-mejores-practicas-de-codificacion-para-principiantes",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Beneficios De Aprender a Programar",
+      "title": "Las Mejores Prácticas De Codificación Para Principiantes",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var d=(a,e,i)=>e in a?u(a,e,{enumerable:!0,configurable:!0,writable:!0,value:i}):a[e]=i,r=(a,e)=>{for(var i in e||(e={}))s.call(e,i)&&d(a,i,e[i]);if(o)for(var i of o(e))c.call(e,i)&&d(a,i,e[i]);return a},t=(a,e)=>p(a,b(e));var l=(a,e)=>{var i={};for(var n in a)s.call(a,n)&&e.indexOf(n)<0&&(i[n]=a[n]);if(a!=null&&o)for(var n of o(a))e.indexOf(n)<0&&c.call(a,n)&&(i[n]=a[n]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var n=i,{components:a}=n,e=l(n,[\"components\"]);return mdx(MDXLayout,t(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,c=Object.prototype.propertyIsEnumerable;var t=(e,a,r)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[a]=r,n=(e,a)=>{for(var r in a||(a={}))i.call(a,r)&&t(e,r,a[r]);if(s)for(var r of s(a))c.call(a,r)&&t(e,r,a[r]);return e},d=(e,a)=>m(e,l(a));var p=(e,a)=>{var r={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(r[o]=e[o]);if(e!=null&&s)for(var o of s(e))a.indexOf(o)<0&&c.call(e,o)&&(r[o]=e[o]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var o=r,{components:e}=o,a=p(o,[\"components\"]);return mdx(MDXLayout,d(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Cuando tome su primera clase de codificaci\\xF3n, r\\xE1pidamente se dar\\xE1 cuenta de cu\\xE1nto tiempo se necesita para escribir c\\xF3digo. Desde convenciones de nomenclatura hasta est\\xE1ndares de formato, hay un mont\\xF3n de reglas y mejores pr\\xE1cticas que los programadores experimentados siguen para asegurarse de que su c\\xF3digo sea limpio y f\\xE1cil de leer para los dem\\xE1s. Esto puede sentirse abrumador al principio. Puede parecer que hay un mill\\xF3n de cosas que debe saber antes de comenzar con su primer proyecto de codificaci\\xF3n. Sin embargo, conf\\xEDe en nosotros, \\xA1no es tan aterrador como parece! Seguir las mejores pr\\xE1cticas de codificaci\\xF3n no solo lo ayudar\\xE1 a superar las futuras clases de programaci\\xF3n con mayor facilidad, sino que tambi\\xE9n lo preparar\\xE1 para una carrera en desarrollo de software. En esta publicaci\\xF3n de blog, exploraremos algunas de las mejores pr\\xE1cticas m\\xE1s importantes para los principiantes que est\\xE1n aprendiendo a codificar.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJQBOgNOVgL0eDca4AAD+63m9mdwg/j+1/7opKP9y7lfZQ7uD3iJIj4yNCxF1jhEJzv5T6Sw/7F/+c84mXz/5ZxFslEVYqdQPefqvBUrR9Cx1DCAw7sIGCzDqjfWPZ2m5lXi4oMC+D26ZWbPCRNx6/qR6vDu4rc+AAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "graphql-comprender-como-funciona-y-por-que-lo-necesita-para-su-aplicacion",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdLoAAwiGPjUAAP723oHbb6/bReP/VPr1soo6jy77K1NX1XfLiCZa9OqjQ5bnUTKlYxw1C3vP+bozEMyqI3B0qNpwKhZD/7UOcv/b/n/t/+f+vuueswyP/wrj1/+Dkz+Df/1Brf35/DAAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "seguridad-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "GraphQL: Comprender Cómo Funciona Y Por Qué Lo Necesita Para Su Aplicación",
+      "title": "Seguridad Java",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,n=(e,a)=>{for(var o in a||(a={}))l.call(a,o)&&d(e,o,a[o]);if(r)for(var o of r(a))i.call(a,o)&&d(e,o,a[o]);return e},t=(e,a)=>p(e,m(a));var c=(e,a)=>{var o={};for(var s in e)l.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&r)for(var s of r(e))a.indexOf(s)<0&&i.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=c(s,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Google ha introducido una variedad de herramientas y marcos para que los desarrolladores de aplicaciones m\\xF3viles hagan su vida m\\xE1s f\\xE1cil y la experiencia de los usuarios sea mejor.\nUna de esas herramientas es GraphQL, que ahora se est\\xE1 volviendo cada vez m\\xE1s popular entre los desarrolladores de aplicaciones m\\xF3viles. \\xBFPor qu\\xE9? Porque ofrece muchos beneficios sobre otras API JSON. Los desarrolladores ya no necesitan codificar puntos finales o consultar datos directamente desde una API; GraphQL abstrae esa l\\xF3gica, lo que permite a los desarrolladores centrarse en su c\\xF3digo en lugar de en la capa de acceso a los datos.\nVeamos qu\\xE9 hace que GraphQL sea tan \\xFAtil en el mundo de las aplicaciones m\\xF3viles.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,s,o)=>s in e?l(e,s,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[s]=o,n=(e,s)=>{for(var o in s||(s={}))r.call(s,o)&&t(e,o,s[o]);if(i)for(var o of i(s))d.call(s,o)&&t(e,o,s[o]);return e},c=(e,s)=>p(e,m(s));var u=(e,s)=>{var o={};for(var a in e)r.call(e,a)&&s.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&i)for(var a of i(e))s.indexOf(a)<0&&d.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,s=u(a,[\"components\"]);return mdx(MDXLayout,c(n(n({},layoutProps),s),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Los dispositivos conectados a Internet contempor\\xE1neos son sistemas en red complejos con requisitos de seguridad desafiantes. Los nuevos vectores de ataque y riesgos de IoT surgen de la convergencia de servicios digitales, sociales, m\\xF3viles, en la nube, de sensores y otros nuevos servicios de Internet.\nLa seguridad es una de las principales preocupaciones tanto para los fabricantes de dispositivos como para los usuarios. Muchos consumidores tienen reservas sobre la seguridad de los dispositivos y servicios de IoT debido a experiencias pasadas con virus inform\\xE1ticos, software esp\\xEDa, conexiones Wi-Fi inseguras, violaci\\xF3n de informaci\\xF3n personal de bases de datos y otros incidentes causados por sistemas no seguros. La seguridad debe abordarse desde el comienzo de cada ciclo de vida del producto. Cada fase requiere un conjunto adecuado de medidas de seguridad para proteger los datos contra el robo o el sabotaje, as\\xED como contra las amenazas internas, como los malintencionados o los empleados deshonestos con acceso privilegiado. Un programa de seguridad integral debe cubrir varias \\xE1reas clave, que incluyen:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABQAgCdASoKAAoAAUAmJZACdATAAdhQXSnU5gAA/vNng0Gvc//Pr/6spkLa6FTlV7znNNPC7/5HxDKaduOc51z/l9g77H8yYKqMPgdMlb70Gme5Mf+rmxDefCZk2GbdtFFFJuHbZ/l/8EiX1U51o9ccjpE277p/dsL1+eiskF/XDD4zjn6v6mB1211j0G3vdIwKE3QNlX8mJSG5UrnM1dAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "python-el-lenguaje-del-manana",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAoAAUAmJbACdAEO/9KnlAAA/vhkCxK+CGjI+EGECLR4FQdRkNZOdSzf/Vt/Q/8d+iG+wa//q2/of+DkxUf/+BO/8CdjCaSOwAAA",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Del Mañana",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?l(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,s=(e,a)=>{for(var o in a||(a={}))u.call(a,o)&&d(e,o,a[o]);if(n)for(var o of n(a))t.call(a,o)&&d(e,o,a[o]);return e},p=(e,a)=>m(e,c(a));var i=(e,a)=>{var o={};for(var r in e)u.call(e,r)&&a.indexOf(r)<0&&(o[r]=e[r]);if(e!=null&&n)for(var r of n(e))a.indexOf(r)<0&&t.call(e,r)&&(o[r]=e[r]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var r=o,{components:e}=r,a=i(r,[\"components\"]);return mdx(MDXLayout,p(s(s({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`As\\xED que quieres entrar en la programaci\\xF3n, pero no est\\xE1s seguro de por d\\xF3nde empezar. Sabes que existen muchos lenguajes de programaci\\xF3n diferentes y que se pueden usar para diferentes cosas, pero \\xBFcu\\xE1l es el mejor para aprender primero? Bueno, te sorprender\\xE1 saber que es Python. \\xBFPor qu\\xE9? Porque es el lenguaje del ma\\xF1ana.\nAhora podr\\xEDas estar pensando: \\xBFPor qu\\xE9 eso lo convierte en el idioma del ma\\xF1ana? Despu\\xE9s de todo, \\xBFno deber\\xEDamos centrarnos en aprender lenguajes como COBOL que nos ayudar\\xE1n en nuestra futura carrera como contadores o algo as\\xED? Bueno... tal vez. Pero tal vez no tanto. Mira, mientras esos otros lenguajes de programaci\\xF3n son geniales para algunas cosas, no lo son tanto para otras. Y cuando echamos un vistazo a lo que otros lenguajes de programaci\\xF3n no podr\\xE1n hacer en el futuro debido a sus limitaciones (o tal vez solo a su edad), vemos por qu\\xE9 los programadores de hoy dicen que Python ser\\xE1 el lenguaje dominante de ma\\xF1ana. \\xA1Vamos a sumergirnos en por qu\\xE9 echando un vistazo a varias razones por las que Python es un primer lenguaje de programaci\\xF3n fant\\xE1stico para aprender hoy!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-most-popular-coding-languages.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoKAAoAAUAmJQBOgCHe35dQAAD+/ddZ0ugkR0Jf3pyekZNVgPQDRUWIoTLlooEmK8lf/CbLPh2w5yx66DpN+mbPmtOrgAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-lenguajes-de-codificacion-mas-populares",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Lenguajes De Codificación Más Populares",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var t=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&t(e,o,a[o]);if(s)for(var o of s(a))d.call(a,o)&&t(e,o,a[o]);return e},c=(e,a)=>p(e,l(a));var m=(e,a)=>{var o={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&d.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,a=m(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La codificaci\\xF3n es un trabajo candente en este momento y seguir\\xE1 si\\xE9ndolo en el futuro previsible. La demanda de codificadores est\\xE1 creciendo, y no solo en las empresas de tecnolog\\xEDa. Las empresas de todo tipo necesitan programadores con diferentes habilidades de codificaci\\xF3n para crear su software y sitios web, lo que significa que los programadores pueden encontrar trabajo en cualquier lugar.\nLa codificaci\\xF3n es tambi\\xE9n uno de los mercados laborales de m\\xE1s r\\xE1pido crecimiento en este momento. A medida que las empresas contin\\xFAan digitalizando y automatizando procesos, tambi\\xE9n aumenta la necesidad de desarrolladores que puedan crear programas. La explosi\\xF3n de nuevos lenguajes de programaci\\xF3n ha hecho que este sea un momento emocionante para ser programador. Hay tantas opciones disponibles, desde las tradicionales como Java y Python hasta reproductores m\\xE1s nuevos como Go y Kotlin. \\xBFCu\\xE1l crees que hace una carrera m\\xE1s prometedora como programador? Siga leyendo para averiguar qu\\xE9 lenguajes de codificaci\\xF3n tienen m\\xE1s demanda en este momento...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var c=(e,a,r)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[a]=r,n=(e,a)=>{for(var r in a||(a={}))i.call(a,r)&&c(e,r,a[r]);if(s)for(var r of s(a))t.call(a,r)&&c(e,r,a[r]);return e},p=(e,a)=>l(e,m(a));var d=(e,a)=>{var r={};for(var o in e)i.call(e,o)&&a.indexOf(o)<0&&(r[o]=e[o]);if(e!=null&&s)for(var o of s(e))a.indexOf(o)<0&&t.call(e,o)&&(r[o]=e[o]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var o=r,{components:e}=o,a=d(o,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -127,8 +112,8 @@
       "category": "coding",
       "imageSrc": "/articles/the-benefits-of-a-software-engineering-degree.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJbACdLoAEJWZcpR9weAA/upd0P+2SZX9NifSF/GEf6DDczEp83TOhSeLVK5y53SM0SbdIq8Dc2F9EAHM/UwXWRVttvw7wodZorvGwD3TKMd0f/miisP1/7ffv8J3+r/8v7T/7jy+7O/7s6XP9Tf+K9+SMKU5u4pTzhZDxWNuAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Tue May 04 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "slug": "los-beneficios-de-un-titulo-en-ingenieria-de-software",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -140,31 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AAMyzAznM+AA9j4Dewi45hdudRA4ZcLurolCQYR+rgFJfxWvz80RNDf/rNaYn5A84t/tw//ZdZzuoXKobSB375gA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "introduccion-a-java",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJagCdAEPDvUn4xeAAP5BP7PPJWQa04IvAYq977NyflFNvdcbvfXBR8+H/06B7xqQUFpnSaZyvmEz/G1b0XR8OESztZig97VbOV9zpAC119/wS/ic4q8+W3nscBP//OA/hqAA",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Introducción a Java",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
       "intro": {
-        "compiledSource": "var l=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var u=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var i=(a,e,n)=>e in a?l(a,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):a[e]=n,r=(a,e)=>{for(var n in e||(e={}))u.call(e,n)&&i(a,n,e[n]);if(s)for(var n of s(e))t.call(e,n)&&i(a,n,e[n]);return a},p=(a,e)=>c(a,m(e));var d=(a,e)=>{var n={};for(var o in a)u.call(a,o)&&e.indexOf(o)<0&&(n[o]=a[o]);if(a!=null&&s)for(var o of s(a))e.indexOf(o)<0&&t.call(a,o)&&(n[o]=a[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:a}=o,e=d(o,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La historia de los lenguajes de programaci\\xF3n est\\xE1 plagada de ideas abandonadas e intentos fallidos. Eso es porque crear un nuevo lenguaje de programaci\\xF3n es un proceso desafiante. Crear un lenguaje que tenga su propia sintaxis, analizador, compilador y m\\xE1quina virtual no es f\\xE1cil.\nEs a\\xFAn m\\xE1s dif\\xEDcil crear un lenguaje de programaci\\xF3n que otras personas quieran usar. El lenguaje de programaci\\xF3n Java ha existido durante casi 25 a\\xF1os y todav\\xEDa se mantiene fuerte. Hay muchas buenas razones para esto, pero una de las m\\xE1s importantes es que Java no intenta ser todo para todos. Su alcance es limitado, pero su potencial es enorme.\nEste art\\xEDculo le presentar\\xE1 el lenguaje de programaci\\xF3n Java para que pueda comprender por qu\\xE9 sigue siendo uno de los lenguajes m\\xE1s populares del mundo en la actualidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,d=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))s.call(a,n)&&c(e,n,a[n]);if(r)for(var n of r(a))d.call(a,n)&&c(e,n,a[n]);return e},t=(e,a)=>m(e,l(a));var u=(e,a)=>{var n={};for(var o in e)s.call(e,o)&&a.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&d.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,a=u(o,[\"components\"]);return mdx(MDXLayout,t(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-programs.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADIAoGQAD+86/WKtNsCaNNZ7uAq/hKbh+svbMVlPnKsr3Yc13In/69safo3XerQ/pgf+OCl8AXXOR+TocAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "slug": "los-mejores-programas-de-ingenieria-de-software",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoKAAoAAUAmJYgCdAELIWAAAP76CNDs0ZOZrQgKJtvHolfAfuTUxmU7I/5unHJ4j78YIfbWiLl/wYje4+hhKZ/IGM+VXrKXu6T9aXaAAAA=",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-del-lenguaje-natural",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Mejores Programas De Ingeniería De Software",
+      "title": "Python: El Lenguaje Para El Procesamiento Del Lenguaje Natural",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,t=Object.prototype.propertyIsEnumerable;var d=(e,a,o)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[a]=o,r=(e,a)=>{for(var o in a||(a={}))i.call(a,o)&&d(e,o,a[o]);if(n)for(var o of n(a))t.call(a,o)&&d(e,o,a[o]);return e},c=(e,a)=>l(e,m(a));var p=(e,a)=>{var o={};for(var s in e)i.call(e,s)&&a.indexOf(s)<0&&(o[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&t.call(e,s)&&(o[s]=e[s]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var s=o,{components:e}=s,a=p(s,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`La ingenier\\xEDa de software es un campo amplio y de r\\xE1pido crecimiento. El mercado de ingenieros de software contin\\xFAa creciendo a un ritmo acelerado, y se espera que la demanda aumente en otros 280 000 puestos de trabajo para 2022. Por lo tanto, los futuros ingenieros de software tienen muchas opciones cuando se trata de seguir su carrera. Los programas de ciencias de la computaci\\xF3n generalmente brindan una base excelente para aquellos interesados en seguir la ingenier\\xEDa de software como una carrera profesional espec\\xEDfica, pero estos programas por s\\xED solos a menudo no son suficientes.\nLos programas dise\\xF1ados espec\\xEDficamente para la ingenier\\xEDa de software pueden ayudarlo a obtener las habilidades y la capacitaci\\xF3n que necesita para tener \\xE9xito en este campo. Hay muchos tipos diferentes de puestos de ingeniero de software disponibles en la actualidad, desde desarrollo front-end hasta miner\\xEDa de datos e inteligencia artificial (IA). Estos son algunos de los mejores programas de ingenier\\xEDa de software disponibles.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var l=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var t=(a,e,o)=>e in a?p(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,c=(a,e)=>{for(var o in e||(e={}))l.call(e,o)&&t(a,o,e[o]);if(r)for(var o of r(e))i.call(e,o)&&t(a,o,e[o]);return a},u=(a,e)=>m(a,d(e));var s=(a,e)=>{var o={};for(var n in a)l.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&r)for(var n of r(a))e.indexOf(n)<0&&i.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=s(n,[\"components\"]);return mdx(MDXLayout,u(c(c({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"El procesamiento del lenguaje natural es la capacidad de un programa de computadora para comprender el habla humana. El principal beneficio del procesamiento del lenguaje natural es que permite a los usuarios comunicarse con una m\\xE1quina de la forma en que se sienten m\\xE1s c\\xF3modos. Las computadoras ahora pueden entender, procesar y reaccionar al habla humana. El procesamiento del lenguaje natural (NLP) es un \\xE1rea de inteligencia artificial que permite a las computadoras detectar y comprender el habla humana, as\\xED como las palabras escritas. Involucra las t\\xE9cnicas y algoritmos relacionados con el procesamiento del lenguaje natural, como la inteligencia artificial, el aprendizaje autom\\xE1tico, la visi\\xF3n por computadora, la recuperaci\\xF3n de informaci\\xF3n y el reconocimiento de voz por computadora.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoKAAoAAUAmJQBOhxAAKKqiNnR8wAD+/P1u0WSrcV/kbzS2V/NM5mQSHSH8rYCJVknPV+rB7i55UYy3E/VnOSnS4lV3FW5y8bVoSe2aq7Qt8en/csaJhfmHgbNs/YdZ3aPJD597Xf6Fdg094yl0dwAA",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "slug": "5-trucos-para-ayudarte-a-dominar-javascript-en-5-minutos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "5 Trucos Para Ayudarte a Dominar JavaScript En 5 Minutos",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var c=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var d=(e,a,i)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[a]=i,n=(e,a)=>{for(var i in a||(a={}))c.call(a,i)&&d(e,i,a[i]);if(r)for(var i of r(a))s.call(a,i)&&d(e,i,a[i]);return e},t=(e,a)=>u(e,m(a));var l=(e,a)=>{var i={};for(var o in e)c.call(e,o)&&a.indexOf(o)<0&&(i[o]=e[o]);if(e!=null&&r)for(var o of r(e))a.indexOf(o)<0&&s.call(e,o)&&(i[o]=e[o]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var o=i,{components:e}=o,a=l(o,[\"components\"]);return mdx(MDXLayout,t(n(n({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Si acaba de comenzar a aprender a programar o tiene dificultades para comprenderlo, Javascript puede ser un hueso duro de roer. Este lenguaje de programaci\\xF3n din\\xE1mico y funcional se utiliza para crear aplicaciones y sitios web interactivos.\nEl alcance de Javascript ha crecido exponencialmente en los \\xFAltimos a\\xF1os debido a su uso generalizado para dise\\xF1ar sitios web interactivos y desarrollar aplicaciones m\\xF3viles. Adem\\xE1s de eso, tambi\\xE9n es un excelente primer lenguaje de programaci\\xF3n debido a su simplicidad, accesibilidad y facilidad de disponibilidad en l\\xEDnea.\nPero como cualquier otra habilidad o conocimiento, dominarlo requiere pr\\xE1ctica y perseverancia. Si tiene dificultades con este lenguaje de programaci\\xF3n, siga leyendo para conocer nuestros 5 trucos para ayudarlo a dominar Javascript en 5 minutos.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

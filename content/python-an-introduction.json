@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "/articles/python-an-introduction.png",
   "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJYwC7AYUAV1LK9FfgAD+97R/X/36K4hzsn1CZJflT/4n32XzA0adF/G+Pm9Wa9/EbImSkjU+iNwNancnMSbSNUfp/z+go1//OraZWIx30doFT/HdhrQ1CXh+jdVwD6yZQUeA27MQlQQ3AAA=",
-  "createdAt": "2022-10-01T12:13:25.742Z",
-  "updatedAt": "2022-10-01T12:13:25.742Z",
+  "createdAt": "2020-07-09T19:04:00.402Z",
+  "updatedAt": "2022-10-02T06:21:11.225Z",
   "categoryLocal": "coding",
   "slug": "python-an-introduction",
   "locale": "en",
@@ -20,85 +20,10 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJQBOhgl5EFGLx/bCRgAA/vsn8xDP2qd42RDvv8/+HfD2FP+5DedHm6s79+wSbf/cW2kz754MIxshi7WIzwDX2SGuL7llNcl6dCg6j4SqbhQJctP+DZLAlgmTd6xW/1D9bHw43n1cMAtwAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-for-mobile-development",
-      "locale": "en",
-      "title": "Python - The Language for Mobile Development",
-      "intro": {
-        "compiledSource": "var g=Object.defineProperty,c=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?g(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&l(e,o,t[o]);return e},p=(e,t)=>c(e,m(t));var h=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=h(a,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAELX5Rg/gAA/vS/h/dp/bmB6Lmu3PUV3mzI8P5jsScwr2T6Z9WA2xo+PSV14KVdwHXipjM3Gl53bVOoGIaPI7IFJDKYKtxjWuC5wsN4jBkNKFvD/3c0cuSL8/sgtYL5/thMg/moAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-practices-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Practices for Beginners",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>p(e,g(o));var u=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=u(r,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/spring-mvc-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAABwAgCdASoKAAoAAUAmJbACdAabRAafvr9Q/vwAAP78A/8PgnKZQ2W7iXf6Al2iGfO+V++e2XtvqGLs+uIjTMoXbsSmjJ4KqowM8gwzfZfAih38/+5Munm+ev+B0q1UnwPUZKNz7TiQNUeWNddW5o6KFpvbbfgGHd+2KvA3P1RyWjf/IqcW64xV+/mgU7sP4nPtk7AAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "spring-mvc-applications",
-      "locale": "en",
-      "title": "Spring Mvc Applications",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,c=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,l=Object.prototype.propertyIsEnumerable;var r=(t,o,e)=>o in t?m(t,o,{enumerable:!0,configurable:!0,writable:!0,value:e}):t[o]=e,i=(t,o)=>{for(var e in o||(o={}))s.call(o,e)&&r(t,e,o[e]);if(a)for(var e of a(o))l.call(o,e)&&r(t,e,o[e]);return t},p=(t,o)=>c(t,g(o));var u=(t,o)=>{var e={};for(var n in t)s.call(t,n)&&o.indexOf(n)<0&&(e[n]=t[n]);if(t!=null&&a)for(var n of a(t))o.indexOf(n)<0&&l.call(t,n)&&(e[n]=t[n]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var n=e,{components:t}=n,o=u(n,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),o),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAQCdASoKAAoAAUAmJZACdADzbysAAP7c/03H3n4l4G+/+OuzFv6fahZG3/xZf7TpO5N9Tl+82AGkN+Fd6YILCBDtb3285A4rjJd9dATE/L/Cq13VlfARhRVvhDzIA01nr8wJ6Fb/sAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-game-development",
-      "locale": "en",
-      "title": "Go Language for Game Development",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,u=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&l(e,t,o[t]);if(a)for(var t of a(o))s.call(o,t)&&l(e,t,o[t]);return e},m=(e,o)=>u(e,c(o));var g=(e,o)=>{var t={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&a)for(var n of a(e))o.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=g(n,[\"components\"]);return mdx(MDXLayout,m(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIRG63xAAAP7tKGb5R9tiqaI5JTqpkmqS5kZuY3N+X5Ppz15d0jFUfDXHxYOdFRnX/7oAe/cuwMAqWi39ahjf0cbr4kL/xIX/xheD2G0cW8wgAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-web-administration",
-      "locale": "en",
-      "title": "Go Language for Web Administration",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?l(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&c(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&c(e,n,o[n]);return e},p=(e,o)=>u(e,m(o));var d=(e,o)=>{var n={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=d(t,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
       "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoKAAoAAUAmJbACdLoAFyBF1E37JDVUAAD+814eBa5bXL6CQ+yRaktdW8hrEBlxCrcby3tev2fQEeLpU0i8Q4evoCaOk7ZqqVtJ5WQihKbuuQCkJKL/8m2n3j8/9f/xbi6Ru6nzZA3Xmrb8a0X7c9e3HstlrjcyP/1ON14K9cgAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
       "slug": "the-benefits-of-a-software-engineering-career",
       "locale": "en",
@@ -110,46 +35,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoKAAoAAUAmJagCdAEPDD6TzZVgAP7+VfDOQ8UDjLqc0V5Uoh4fYX4aA6FoCawMyfcdkDTjzYw+wGP1sbZ/sUjGXRwzVSf/xDn59d4Qf/EEn/+Ov/7HJn8m/u5Fx1/MQAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/deploying-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACQAgCdASoKAAoAAUAmJbACdLoB+AADFjmK0y08qAD9cH2n45Z+PgJ7i7WhwDv9+vnOgjqW/1fY0F7big0fskwis8+O0lnh+A/zptQks2IE//EtbCP2KCokN+GQ9Kx5Af+8x4zz/c7Wv3zK/RUAAA==",
+      "createdAt": "Tue Sep 07 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-resources-for-beginners",
+      "slug": "deploying-java-applications",
       "locale": "en",
-      "title": "The Best Coding Resources for Beginners",
+      "title": "Deploying Java Applications",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,n,o)=>n in e?h(e,n,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[n]=o,i=(e,n)=>{for(var o in n||(n={}))r.call(n,o)&&c(e,o,n[o]);if(a)for(var o of a(n))s.call(n,o)&&c(e,o,n[o]);return e},d=(e,n)=>p(e,u(n));var g=(e,n)=>{var o={};for(var t in e)r.call(e,t)&&n.indexOf(t)<0&&(o[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&s.call(e,t)&&(o[t]=e[t]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var t=o,{components:e}=t,n=g(t,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,s=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&l(e,o,t[o]);if(n)for(var o of n(t))r.call(t,o)&&l(e,o,t[o]);return e},u=(e,t)=>c(e,y(t));var d=(e,t)=>{var o={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&r.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=d(a,[\"components\"]);return mdx(MDXLayout,u(s(s({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJZQCw7EPCKqHJiAA/vazi/03h+b6Vl6VZefSq7uBLR4F4Tk/nhQMjn1u6GHNKlHN9fSWXGy/a5rDzu2zWP3+CHmO33Up5pMcoBBt4uAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJYwCdAaVbm8ZNEyKtqmGAAD+9nvTSlKnXftAHn/sbPPMt7Qucj3PrxroGKlRG2pLv/n3OZvw1f0y+le8M4H7oDrIc5VsPvtRtij6Bf4VSZe09nWqQMAA",
+      "createdAt": "Sun Feb 27 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-debug-your-code-like-a-pro",
+      "slug": "how-to-improve-your-coding-skills",
       "locale": "en",
-      "title": "How to Debug Your Code like a Pro",
+      "title": "How to Improve Your Coding Skills",
       "intro": {
-        "compiledSource": "var p=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&u(e,n,o[n]);if(t)for(var n of t(o))s.call(o,n)&&u(e,n,o[n]);return e},d=(e,o)=>c(e,h(o));var g=(e,o)=>{var n={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&t)for(var a of t(e))o.indexOf(a)<0&&s.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,o=g(a,[\"components\"]);return mdx(MDXLayout,d(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var g=Object.defineProperty,y=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,e,n)=>e in o?g(o,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):o[e]=n,a=(o,e)=>{for(var n in e||(e={}))r.call(e,n)&&l(o,n,e[n]);if(i)for(var n of i(e))s.call(e,n)&&l(o,n,e[n]);return o},d=(o,e)=>y(o,m(e));var u=(o,e)=>{var n={};for(var t in o)r.call(o,t)&&e.indexOf(t)<0&&(n[t]=o[t]);if(o!=null&&i)for(var t of i(o))e.indexOf(t)<0&&s.call(o,t)&&(n[t]=o[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:o}=t,e=u(t,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-network-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdLoAEI4X+E+6+AAA/thJS7l6Lth6wxhcbbts7LrmipaZzvE+exvmkycrB+PXIUXnUEdhyp6P5/IohH9hwF7GdMItGgi/jQrNP6oCxn/7wMKX3t+QkP++Erjdf9rRifXv/yn7/4kONDG3gQp6fj7S16AA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAD5ieWIavXAAP7+ZUr9Db/RGe3yR0UXTt67e29qfRbAY4qVh3s03Bfwfkd53v0KXNjVrbGtIFBw+5cd3S39mcYPsOtjSbk0JXxrl6wN9ixqAAAA",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-network-programming",
+      "slug": "interfaces-in-java",
       "locale": "en",
-      "title": "Python - The Language for Network Programming",
+      "title": "Interfaces in Java",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,w=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(o,n,t)=>n in o?u(o,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[n]=t,i=(o,n)=>{for(var t in n||(n={}))r.call(n,t)&&h(o,t,n[t]);if(a)for(var t of a(n))s.call(n,t)&&h(o,t,n[t]);return o},p=(o,n)=>w(o,l(n));var g=(o,n)=>{var t={};for(var e in o)r.call(o,e)&&n.indexOf(e)<0&&(t[e]=o[e]);if(o!=null&&a)for(var e of a(o))n.indexOf(e)<0&&s.call(o,e)&&(t[e]=o[e]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var e=t,{components:o}=e,n=g(e,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),n),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,p=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,a)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,o=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&c(e,a,t[a]);if(i)for(var a of i(t))r.call(t,a)&&c(e,a,t[a]);return e},l=(e,t)=>p(e,d(t));var m=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=m(n,[\"components\"]);return mdx(MDXLayout,l(o(o({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJbACdLoAEJMXo9rZDAAA/vfJZZUeTdVIex/ZSMSM7OEXNDL75VVVo9ZSMfOcwCNDd1EUH/8Fg118FtHfyOdArprd47bw3NCE3ZVOM50J8Z5FnseYMd/5xV3/Tuw+ff8eqP6U3J8KXnsaGzneAAAA",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-embedded-programming",
+      "locale": "en",
+      "title": "Go Language for Embedded Programming",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,c=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,t,o)=>t in e?d(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&u(e,o,t[o]);if(n)for(var o of n(t))s.call(t,o)&&u(e,o,t[o]);return e},m=(e,t)=>c(e,p(t));var h=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&n)for(var a of n(e))t.indexOf(a)<0&&s.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=h(a,[\"components\"]);return mdx(MDXLayout,m(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -157,14 +97,74 @@
       "category": "coding",
       "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
       "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAABwAgCdASoKAAoAAUAmJbACdLoAEIeYls3otyEAAP73Q3+B5GTKpxBboLJFjskdP+qi2zrI8078JPC5gU3NeyO5//0dNthB/5R4TX/zR++CP2qAobajslrkgAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
       "slug": "the-basics-of-coding-for-beginners",
       "locale": "en",
       "title": "The Basics of Coding for Beginners",
       "intro": {
         "compiledSource": "var y=Object.defineProperty,h=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?y(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))s.call(t,n)&&c(e,n,t[n]);if(i)for(var n of i(t))r.call(t,n)&&c(e,n,t[n]);return e},u=(e,t)=>h(e,l(t));var d=(e,t)=>{var n={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&i)for(var o of i(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=d(o,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoKAAoAAUAmJYgCdAELIWAAAP76CNDs0ZOZrQgKJtvHolfAfuTUxmU7I/5unHJ4j78YIfbWiLl/wYje4+hhKZ/IGM+VXrKXu6T9aXaAAAA=",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-natural-language-processing",
+      "locale": "en",
+      "title": "Python - The Language for Natural Language Processing",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,a,t)=>a in e?p(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,r=(e,a)=>{for(var t in a||(a={}))i.call(a,t)&&c(e,t,a[t]);if(o)for(var t of o(a))s.call(a,t)&&c(e,t,a[t]);return e},u=(e,a)=>h(e,m(a));var l=(e,a)=>{var t={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&s.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,a=l(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Natural language processing is the ability of a computer program to understand human speech. The primary benefit of natural language processing is that it allows users to communicate with a machine in a way they are most comfortable with. Computers can now understand, process, and react to human speech.  Natural Language Processing (NLP) is an area of artificial intelligence that enables computers to detect and understand human speech as well as written words. It involves the techniques and algorithms related to natural language processing such Artificial Intelligence, Machine Learning, Computer Vision, Information Retrieval, and Computer Speech Recognition.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJEIpuAPAAPhj8PiFufRh50npKG/fqJu4k+mH9j5CvvBdocp3DIC8dCMjBCpQm8fJ2aVrWkmMSaPc7eBOqGOFXrL57a+EZ//gsq4igFvOAG4iU5f//jCjC/vqx8DMxk+WgAA=",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-journals",
+      "locale": "en",
+      "title": "The Top Software Engineering Journals",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,y=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&u(e,n,o[n]);if(a)for(var n of a(o))i.call(o,n)&&u(e,n,o[n]);return e},l=(e,o)=>y(e,p(o));var h=(e,o)=>{var n={};for(var t in e)s.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&i.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=h(t,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers constantly have to stay up-to-date with new research, trends, and techniques in their field. The most common way for software engineers to do this is by reading research papers published in journals. These journals are almost exclusively found online. Many of them are available for free, but some are behind paywalls for non-subscribers. Fortunately, you don\\u2019t need to subscribe to every single one of these journals if you\\u2019re a software engineer\\u2014just the ones that publish articles related to your specific interests and career goals as a software engineer.\nRead on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoB8gADDBsHLZDUAADOMtjF6n03V+WyKX/UN6tNeRNRUdLUkKf0nT/okgtJ7BaMOZFkMEae1h0hRpvm8wAUospXYzv7f/7GP/1+Ls/8YD7tz/vHWdl3+oO+At/2b+87+OEAAA==",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "var y=Object.defineProperty,h=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,o,n)=>o in e?y(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,t=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&c(e,n,o[n]);if(a)for(var n of a(o))r.call(o,n)&&c(e,n,o[n]);return e},l=(e,o)=>h(e,u(o));var d=(e,o)=>{var n={};for(var i in e)s.call(e,i)&&o.indexOf(i)<0&&(n[i]=e[i]);if(e!=null&&a)for(var i of a(e))o.indexOf(i)<0&&r.call(e,i)&&(n[i]=e[i]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var i=n,{components:e}=i,o=d(i,[\"components\"]);return mdx(MDXLayout,l(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJZACdAEUpOo8aYMpQAD++ng/p3ymOrgX48Tvb3Kt9+NMSvKoh/PaF81yF9yW93Lboi7P8J2nP/Mj9sW/n+vtv9Cax4NeIyQ837ArBetUZ15Jhtuz31drFNIv6MFcdNnOM/wbsyAAAA==",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-image-processing",
+      "locale": "en",
+      "title": "Go Language for Image Processing",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,u=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,o=(e,a)=>{for(var t in a||(a={}))i.call(a,t)&&l(e,t,a[t]);if(s)for(var t of s(a))r.call(a,t)&&l(e,t,a[t]);return e},g=(e,a)=>u(e,d(a));var p=(e,a)=>{var t={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,g(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "/articles/how-to-use-online-coding-resources.png",
   "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJaACdLoAAwg6O1AAAP72mr/oO3shtDjs/8+0NPmXyl5aKOZIjVq/KgX4R2evfrswcCoovu2zZPnvdRP2b33ybpJdK/FskH4dzL/3/wrWerh02AA=",
-  "createdAt": "2022-10-01T12:13:21.186Z",
-  "updatedAt": "2022-10-01T12:13:21.186Z",
+  "createdAt": "2020-05-28T13:25:20.132Z",
+  "updatedAt": "2022-10-02T06:21:06.300Z",
   "categoryLocal": "coding",
   "slug": "how-to-use-online-coding-resources",
   "locale": "en",
@@ -20,130 +20,10 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAELX5Rg/gAA/vS/h/dp/bmB6Lmu3PUV3mzI8P5jsScwr2T6Z9WA2xo+PSV14KVdwHXipjM3Gl53bVOoGIaPI7IFJDKYKtxjWuC5wsN4jBkNKFvD/3c0cuSL8/sgtYL5/thMg/moAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-practices-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Practices for Beginners",
-      "intro": {
-        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>p(e,g(o));var u=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=u(r,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoKAAoAAUAmJQAAW6FDOlsAAP77JpsbTLXVPyN8t2cEl6d97fDc/PVdwIyZ+5+oEhq7cbF99ppphjOpL8chwZv+wXz+7gDAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
-      "locale": "en",
-      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,l=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var g=(e,n,t)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))a.call(n,t)&&g(e,t,n[t]);if(i)for(var t of i(n))s.call(n,t)&&g(e,t,n[t]);return e},u=(e,n)=>l(e,p(n));var c=(e,n)=>{var t={};for(var o in e)a.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&i)for(var o of i(e))n.indexOf(o)<0&&s.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=c(o,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAwjmHRBD/6AA/tKByLt1hp4D28reVQVtH6xhve39uC+oAkXtV63q3x+FgJHMjVWjoukwqtkZiSAHM9yoqZqxqMbnLkMljO//Q8nPvf7fWLsi9zv7Pmv/TG+mr8nfybxl7+aMWx5KpF9aY/9nJJt+i189/ljAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
-      "locale": "en",
-      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
-      "intro": {
-        "compiledSource": "var y=Object.defineProperty,c=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?y(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,n=(e,t)=>{for(var o in t||(t={}))r.call(t,o)&&l(e,o,t[o]);if(s)for(var o of s(t))i.call(t,o)&&l(e,o,t[o]);return e},p=(e,t)=>c(e,h(t));var u=(e,t)=>{var o={};for(var a in e)r.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJZgCdAELX9N3InAAAP799thbLZPuCbR5/7h5SUAP/RhuFWQ/5q0QWwkTNYqZeFOYBiHCarwmVnPsH0/GT+XXRI80QtgD1CXvWHRkKTct5IeDGMy/rmtn6g/J2AG21Xwr/wAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "introduction-to-javaserver-faces",
-      "locale": "en",
-      "title": "Introduction to Javaserver Faces",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var o=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,n,s)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[n]=s,i=(e,n)=>{for(var s in n||(n={}))o.call(n,s)&&c(e,s,n[s]);if(a)for(var s of a(n))r.call(n,s)&&c(e,s,n[s]);return e},u=(e,n)=>h(e,l(n));var p=(e,n)=>{var s={};for(var t in e)o.call(e,t)&&n.indexOf(t)<0&&(s[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&r.call(e,t)&&(s[t]=e[t]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var t=s,{components:e}=t,n=p(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoKAAoAAUAmJbACdLoA1AADq4cU/2gAAP74cHBVebnhbHG6PWddW7uZz6b4fWmtcMi9Q+yxZMC+/BzYy2xSx/+2jW3Dib7E5WB/9KHfkzhON8T3hf9hNe3uVFr/U3/+TZf8mytp+/L88zjV5FkXMRkPf7yXAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "introducing-javafx",
-      "locale": "en",
-      "title": "Introducing Javafx",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,u=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var p=(e,a,t)=>a in e?d(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,i=(e,a)=>{for(var t in a||(a={}))s.call(a,t)&&p(e,t,a[t]);if(o)for(var t of o(a))r.call(a,t)&&p(e,t,a[t]);return e},l=(e,a)=>u(e,h(a));var c=(e,a)=>{var t={};for(var n in e)s.call(e,n)&&a.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&o)for(var n of o(e))a.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,a=c(n,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-network-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdLoAEI4X+E+6+AAA/thJS7l6Lth6wxhcbbts7LrmipaZzvE+exvmkycrB+PXIUXnUEdhyp6P5/IohH9hwF7GdMItGgi/jQrNP6oCxn/7wMKX3t+QkP++Erjdf9rRifXv/yn7/4kONDG3gQp6fj7S16AA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-for-network-programming",
-      "locale": "en",
-      "title": "Python - The Language for Network Programming",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,w=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(o,n,t)=>n in o?u(o,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):o[n]=t,i=(o,n)=>{for(var t in n||(n={}))r.call(n,t)&&h(o,t,n[t]);if(a)for(var t of a(n))s.call(n,t)&&h(o,t,n[t]);return o},p=(o,n)=>w(o,l(n));var g=(o,n)=>{var t={};for(var e in o)r.call(o,e)&&n.indexOf(e)<0&&(t[e]=o[e]);if(o!=null&&a)for(var e of a(o))n.indexOf(e)<0&&s.call(o,e)&&(t[e]=o[e]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var e=t,{components:o}=e,n=g(e,[\"components\"]);return mdx(MDXLayout,p(i(i({},layoutProps),n),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABQAgCdASoKAAoAAUAmJZACdATAAdhQXSnU5gAA/vNng0Gvc//Pr/6spkLa6FTlV7znNNPC7/5HxDKaduOc51z/l9g77H8yYKqMPgdMlb70Gme5Mf+rmxDefCZk2GbdtFFFJuHbZ/l/8EiX1U51o9ccjpE277p/dsL1+eiskF/XDD4zjn6v6mB1211j0G3vdIwKE3QNlX8mJSG5UrnM1dAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-of-tomorrow",
-      "locale": "en",
-      "title": "Python - The Language of Tomorrow",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var h=(t,e,o)=>e in t?l(t,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):t[e]=o,r=(t,e)=>{for(var o in e||(e={}))s.call(e,o)&&h(t,o,e[o]);if(n)for(var o of n(e))i.call(e,o)&&h(t,o,e[o]);return t},g=(t,e)=>m(t,y(e));var u=(t,e)=>{var o={};for(var a in t)s.call(t,a)&&e.indexOf(a)<0&&(o[a]=t[a]);if(t!=null&&n)for(var a of n(t))e.indexOf(a)<0&&i.call(t,a)&&(o[a]=t[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:t}=a,e=u(a,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),e),{components:t,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-most-popular-coding-languages.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoKAAoAAUAmJQBOgCHe35dQAAD+/ddZ0ugkR0Jf3pyekZNVgPQDRUWIoTLlooEmK8lf/CbLPh2w5yx66DpN+mbPmtOrgAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-most-popular-coding-languages",
-      "locale": "en",
-      "title": "The Most Popular Coding Languages",
-      "intro": {
-        "compiledSource": "var c=Object.defineProperty,g=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,o,n)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,s=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&d(e,n,o[n]);if(a)for(var n of a(o))r.call(o,n)&&d(e,n,o[n]);return e},h=(e,o)=>g(e,l(o));var m=(e,o)=>{var n={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&r.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=m(t,[\"components\"]);return mdx(MDXLayout,h(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
       "imageSrc": "/articles/interfaces-in-java.png",
       "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoKAAoAAUAmJZQCdAD5ieWIavXAAP7+ZUr9Db/RGe3yR0UXTt67e29qfRbAY4qVh3s03Bfwfkd53v0KXNjVrbGtIFBw+5cd3S39mcYPsOtjSbk0JXxrl6wN9ixqAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
       "slug": "interfaces-in-java",
       "locale": "en",
@@ -155,16 +35,136 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-beginners-guide.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJZAC7AaZS+RSlCxYHWAA/olF8zjxwmym9T3gLSD/xvxkur/QtpvRuDVN6d/ZzUHJ0bYoIJ9ZcLIpZx50P/ikeB+9LnvsKb8KUy4/PNZcaHlY0xNaK9O9lsi+qQuCH6Uaz2+I5K+4AA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/go-language-for-big-data.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoKAAoAAUAmJbACdC0QCZjMRzZzz3P8gAD+9egTW8kmATb1FMQ9/n+1tlBgT4a8fumWf+P7G+qGj9f/IW513v9j75jpr+WUwB/aoWT96Fxxtr3fbrlR9wj4c/p+rCz/4wLf9x0xA+t9fRXijhqmqP6mtJvY3fjf63/8M0Y1R/r//NEJnnqIAA==",
+      "createdAt": "Fri May 21 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-beginners-guide",
+      "slug": "go-language-for-big-data",
       "locale": "en",
-      "title": "Python - The Beginner's Guide",
+      "title": "Go Language for Big Data",
       "intro": {
-        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?g(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,r=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(o)for(var t of o(n))i.call(n,t)&&d(e,t,n[t]);return e},y=(e,n)=>u(e,c(n));var h=(e,n)=>{var t={};for(var a in e)s.call(e,a)&&n.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&o)for(var a of o(e))n.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,n=h(a,[\"components\"]);return mdx(MDXLayout,y(r(r({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,g=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?m(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(n)for(var a of n(t))r.call(t,a)&&l(e,a,t[a]);return e},d=(e,t)=>g(e,p(t));var c=(e,t)=>{var a={};for(var o in e)s.call(e,o)&&t.indexOf(o)<0&&(a[o]=e[o]);if(e!=null&&n)for(var o of n(e))t.indexOf(o)<0&&r.call(e,o)&&(a[o]=e[o]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var o=a,{components:e}=o,t=c(o,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJZgCdAEOdOnVZQAA/vzS/sYVUZOP10yOGO95fkDHkK+48N33SA0KpqfwMeNhYs4T/7My9mfvPuOQJLEdPor9nTAV0+r+PewQ/5IRv6N/1PqXiRfXIi3K2AAAAA==",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-database-programming",
+      "locale": "en",
+      "title": "Go Language for Database Programming",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(a,e,o)=>e in a?m(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))s.call(e,o)&&g(a,o,e[o]);if(t)for(var o of t(e))i.call(e,o)&&g(a,o,e[o]);return a},u=(a,e)=>l(a,d(e));var p=(a,e)=>{var o={};for(var n in a)s.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&t)for(var n of t(a))e.indexOf(n)<0&&i.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=p(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJagCdAYulwKImj/gXQAA/vqGHDrLfT3+697HnPv/z/i66v/HNBwX7aaPa89+JnGXG96mh1F+hnhDPLtX8hLbi3mAz/avWWjE3TIHgFPK+//DFcw4ez2vv/xGv9jfcgCwEc5QV9jaWqUgAAA=",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,a)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,t=(e,o)=>{for(var a in o||(o={}))s.call(o,a)&&l(e,a,o[a]);if(i)for(var a of i(o))r.call(o,a)&&l(e,a,o[a]);return e},u=(e,o)=>d(e,g(o));var c=(e,o)=>{var a={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,u(t(t({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdAYpvvoF64AAAN5n7Aj2BvlN005bKvyDbLJUjKWNY/mGXYiX3ob9ZRMfrftrBHpxrr7keDzf9B3713qjfHVUWrWqC+//XFXvv9Tyoq/U3//5bf3//ZyZ/Jv99hie4J2bufmDEN1FJAAAAA==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-mobile-development",
+      "locale": "en",
+      "title": "Go Language for Mobile Development",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,d=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var m=(e,o,a)=>o in e?h(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))n.call(o,a)&&m(e,a,o[a]);if(s)for(var a of s(o))i.call(o,a)&&m(e,a,o[a]);return e},p=(e,o)=>d(e,g(o));var l=(e,o)=>{var a={};for(var t in e)n.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&s)for(var t of s(e))o.indexOf(t)<0&&i.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJZACdAEUpOo8aYMpQAD++ng/p3ymOrgX48Tvb3Kt9+NMSvKoh/PaF81yF9yW93Lboi7P8J2nP/Mj9sW/n+vtv9Cax4NeIyQ837ArBetUZ15Jhtuz31drFNIv6MFcdNnOM/wbsyAAAA==",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-image-processing",
+      "locale": "en",
+      "title": "Go Language for Image Processing",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,u=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,o=(e,a)=>{for(var t in a||(a={}))i.call(a,t)&&l(e,t,a[t]);if(s)for(var t of s(a))r.call(a,t)&&l(e,t,a[t]);return e},g=(e,a)=>u(e,d(a));var p=(e,a)=>{var t={};for(var n in e)i.call(e,n)&&a.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))a.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,a=p(n,[\"components\"]);return mdx(MDXLayout,g(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoKAAoAAUAmJagCdAYtLvumSMW1wAD++PuvEzH2jd185FaEYP+5nRBVaR74kcaJwZwK8upG2vnfvr6BSdo7m75faE/DYx4aMka5q+oIYTt5zgD1fR/W2LSXTiSR81NRD0M5RIucN/36WX6/N2+iZn3sgAA=",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "var c=Object.defineProperty,l=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,t,n)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,a=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&h(e,n,t[n]);if(s)for(var n of s(t))r.call(t,n)&&h(e,n,t[n]);return e},u=(e,t)=>l(e,m(t));var d=(e,t)=>{var n={};for(var o in e)i.call(e,o)&&t.indexOf(o)<0&&(n[o]=e[o]);if(e!=null&&s)for(var o of s(e))t.indexOf(o)<0&&r.call(e,o)&&(n[o]=e[o]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var o=n,{components:e}=o,t=d(o,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAELX5Rg/gAA/vS/h/dp/bmB6Lmu3PUV3mzI8P5jsScwr2T6Z9WA2xo+PSV14KVdwHXipjM3Gl53bVOoGIaPI7IFJDKYKtxjWuC5wsN4jBkNKFvD/3c0cuSL8/sgtYL5/thMg/moAAA=",
+      "createdAt": "Thu Mar 31 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(n)for(var t of n(o))i.call(o,t)&&l(e,t,o[t]);return e},c=(e,o)=>p(e,g(o));var u=(e,o)=>{var t={};for(var r in e)a.call(e,r)&&o.indexOf(r)<0&&(t[r]=e[r]);if(e!=null&&n)for(var r of n(e))o.indexOf(r)<0&&i.call(e,r)&&(t[r]=e[r]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var r=t,{components:e}=r,o=u(r,[\"components\"]);return mdx(MDXLayout,c(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJQBdgMWMzYfUWCTw4AD+/UE/jnyqJx3XIFf0WuBNp5nOvv+d9nva3c4bbn/wyrIpvaf9kZlXSn+7SLM4p/ENbf1BDDDBX/yaWeaSIxQQtxKRcc92kG3vS01+qtfveilD61MAtKeLGL/gPWX/vuLfn/ojkxVJ2WPYAAAA",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "7-javascript-basics-every-typescript-developer-should-know",
+      "locale": "en",
+      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,y=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&p(e,t,o[t]);if(n)for(var t of n(o))s.call(o,t)&&p(e,t,o[t]);return e},l=(e,o)=>y(e,g(o));var d=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&s.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=d(a,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJZACdAEOaRcVoAD+/bX26dt3YHu08BqTgsOfcLPLvO/sEOcacYuzbwtf6+6v/zxvdyikj8GFKBgtYvAxgZIHisIr2resMkxe6CZN/K0ZHp0DG+SCOD4TIAA=",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-future-of-software-engineering",
+      "locale": "en",
+      "title": "The Future of Software Engineering",
+      "intro": {
+        "compiledSource": "var p=Object.defineProperty,f=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,t,o)=>t in e?p(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,i=(e,t)=>{for(var o in t||(t={}))s.call(t,o)&&d(e,o,t[o]);if(a)for(var o of a(t))r.call(t,o)&&d(e,o,t[o]);return e},h=(e,t)=>f(e,g(t));var c=(e,t)=>{var o={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&r.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=c(n,[\"components\"]);return mdx(MDXLayout,h(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

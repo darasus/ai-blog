@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "/articles/python-the-language-for-system-administration.png",
   "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCw7EsTAW8AAD+/bpInbikdySjF438xr0S9xESa3mmfjXenv4wz9+3n+48ySau8EmHOvok/+u5FUBQU/1Cc/9GLj/VDB1hsAbY+BP737NFhKy5cn3AAAA=",
-  "createdAt": "2022-10-01T12:13:29.028Z",
-  "updatedAt": "2022-10-01T12:13:29.028Z",
+  "createdAt": "2020-02-11T11:14:20.357Z",
+  "updatedAt": "2022-10-02T06:21:14.850Z",
   "categoryLocal": "coding",
   "slug": "python-the-language-for-system-administration",
   "locale": "en",
@@ -20,10 +20,70 @@
   "relatedArticles": [
     {
       "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoKAAoAAUAmJbACdH8AGEieY/xgAAD+/M/zjfqYo/+1kwb75Kj+tv/qXOLXf4/9T/r4gZnLstkAZ/0VXeHVpfqgZ94yqgdZjbITDffqfhiMeQ/6/xzxZEyIJygMh/W4rcHAAA==",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "setting-up-your-java-development-environment",
+      "locale": "en",
+      "title": "Setting up Your Java Development Environment",
+      "intro": {
+        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&l(e,t,o[t]);if(a)for(var t of a(o))i.call(o,t)&&l(e,t,o[t]);return e},u=(e,o)=>g(e,m(o));var p=(e,o)=>{var t={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&a)for(var n of a(e))o.indexOf(n)<0&&i.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=p(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJbACdAD0MlfTYpQA/vigG6T4P0P5AR+rYYV3cUR866CuvpSWROCBbKdXLZQN3YrRJzrWvXN9/WAy+BoVzE89sV+zzXaK8WP4znFXVP3AAAAA",
+      "createdAt": "Sat Jan 23 2021",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "web-applications-with-java",
+      "locale": "en",
+      "title": "Web Applications with Java",
+      "intro": {
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,a)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&h(e,a,o[a]);if(r)for(var a of r(o))s.call(o,a)&&h(e,a,o[a]);return e},l=(e,o)=>d(e,m(o));var p=(e,o)=>{var a={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=p(t,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJZQC7AEPDU92kAAA/voKvFyRneM/qz8Qe+tof3HCgQVc/1hbfSWhpmkkxV6uee2S7RwH4yTFd3Zh6mONsjO3RJYRs2T0TgIwLJ64B5WngajGy2m/1Qq/6ppMMdYA",
+      "createdAt": "Sat Feb 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tricks-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tricks for Beginners",
+      "intro": {
+        "compiledSource": "var h=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&c(e,o,t[o]);if(s)for(var o of s(t))i.call(t,o)&&c(e,o,t[o]);return e},u=(e,t)=>l(e,y(t));var d=(e,t)=>{var o={};for(var a in e)n.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=d(a,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJbACdAEUmcEMwIAA/vgIf8Ef/+mxSns/N/rq47J+S0xxCtWeZ3MCi/SVNBANJn/5j5vpmhdPe9NC9kZyz+nnEYzcd9nwY3NZ7Vw57/8vFaw3aBbQ/7buI//5deXbiP/W+HzV8AAAAA==",
+      "createdAt": "Tue Feb 15 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-plugins-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Plugins for Developers",
+      "intro": {
+        "compiledSource": "var m=Object.defineProperty,y=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var u=(e,o,a)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&u(e,a,o[a]);if(n)for(var a of n(o))s.call(o,a)&&u(e,a,o[a]);return e},l=(e,o)=>y(e,d(o));var p=(e,o)=>{var a={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&n)for(var t of n(e))o.indexOf(t)<0&&s.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=p(t,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software developers are some of the most valuable employees in many companies. They can take an idea and turn it into a useful product that people want to use. The best coders are constantly looking for ways to improve their skills and find new ways to make their work easier and more efficient. Fortunately, there are plugins available for almost any coding program out there.\nCoding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here\\u2019s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
       "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJQBdgMWMzYfUWCTw4AD+/UE/jnyqJx3XIFf0WuBNp5nOvv+d9nva3c4bbn/wyrIpvaf9kZlXSn+7SLM4p/ENbf1BDDDBX/yaWeaSIxQQtxKRcc92kG3vS01+qtfveilD61MAtKeLGL/gPWX/vuLfn/ojkxVJ2WPYAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
       "slug": "7-javascript-basics-every-typescript-developer-should-know",
       "locale": "en",
@@ -35,136 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-hibernate-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJbACdAELS4dqAADeZH0wur2UjlNc3z4T0+++6ABSFOVT3H//0CvYUyPn53fc8GPt9F10p0bfSMf9cu3/6/2o6a07ROJ/8tX0k2p+NgAv+JyV5VTiYAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJagCdAEOfFErKJEAAP7PeB6jOtzeiw+szmh579E4BUGj5y374mlS4INdTkkwGslp/2eaAURmVjntI1dflxtr2sN2c5f+c3f7453N2rsv+jOnyzR5//KdMwSlS/0jCaMh/CIN2FHBNM5AAAA=",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "building-a-hibernate-application",
+      "slug": "python-the-language-of-the-future",
       "locale": "en",
-      "title": "Building a Hibernate Application",
+      "title": "Python - The Language of the Future",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var b=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,i=(e,t)=>{for(var a in t||(t={}))s.call(t,a)&&l(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&l(e,a,t[a]);return e},u=(e,t)=>d(e,b(t));var h=(e,t)=>{var a={};for(var n in e)s.call(e,n)&&t.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&r.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,t=h(n,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var l=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(o,n,e)=>n in o?l(o,n,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[n]=e,r=(o,n)=>{for(var e in n||(n={}))s.call(n,e)&&g(o,e,n[e]);if(t)for(var e of t(n))i.call(n,e)&&g(o,e,n[e]);return o},p=(o,n)=>h(o,m(n));var u=(o,n)=>{var e={};for(var a in o)s.call(o,a)&&n.indexOf(a)<0&&(e[a]=o[a]);if(o!=null&&t)for(var a of t(o))n.indexOf(a)<0&&i.call(o,a)&&(e[a]=o[a]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var a=e,{components:o}=a,n=u(a,[\"components\"]);return mdx(MDXLayout,p(r(r({},layoutProps),n),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAgCdASoKAAoAAUAmJagCdLoB+AH4APIAA2gdIz6IAPKnt+zNH8FM+FIjW8fynSP673DZClJ0GQPZaMajL/9laKNbw+DesL+lr/7GfJZjlmmqiv6DAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJbACdLoAAwiGPjUAAP723oHbb6/bReP/VPr1soo6jy77K1NX1XfLiCZa9OqjQ5bnUTKlYxw1C3vP+bozEMyqI3B0qNpwKhZD/7UOcv/b/n/t/+f+vuueswyP/wrj1/+Dkz+Df/1Brf35/DAAAA==",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tutorials-for-beginners",
+      "slug": "java-security",
       "locale": "en",
-      "title": "The Best Coding Tutorials for Beginners",
+      "title": "Java Security",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))i.call(t,o)&&l(e,o,t[o]);if(a)for(var o of a(t))s.call(t,o)&&l(e,o,t[o]);return e},c=(e,t)=>u(e,y(t));var d=(e,t)=>{var o={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(o[n]=e[n]);if(e!=null&&a)for(var n of a(e))t.indexOf(n)<0&&s.call(e,n)&&(o[n]=e[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:e}=n,t=d(n,[\"components\"]);return mdx(MDXLayout,c(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,m=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,s,r)=>s in e?p(e,s,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[s]=r,a=(e,s)=>{for(var r in s||(s={}))n.call(s,r)&&c(e,r,s[r]);if(o)for(var r of o(s))i.call(s,r)&&c(e,r,s[r]);return e},u=(e,s)=>m(e,l(s));var d=(e,s)=>{var r={};for(var t in e)n.call(e,t)&&s.indexOf(t)<0&&(r[t]=e[t]);if(e!=null&&o)for(var t of o(e))s.indexOf(t)<0&&i.call(e,t)&&(r[t]=e[t]);return r};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(r){var t=r,{components:e}=t,s=d(t,[\"components\"]);return mdx(MDXLayout,u(a(a({},layoutProps),s),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-hibernate.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJaQAD4AQj91Xf8AAAP7896fnxfubL/wVFfd/r6ic8hhRJ+2N/9RqOHC+vavivn/+i3+s8t/5zH9y+iBoZ9bWqU/+64qIPv4+YYYL78qN/8zpKp2DaLwKHAdtT9AA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoKAAoAAUAmJagCdFKACoad9A3OwMwA/nk//1CBGI/Fxipygt/CVGLZdpllv5Wf+V/5lr98kKUNa6lvFLZ7jPcos35tHQW26vPvGlmQHIHU452jeOvxFJ1ldbNg7Z1k0lThNdEXhkfY5MUOCDJn8G/7AMzCyN/Tjl/8o0MJDD/jAt/4v/+vWLPwAAA=",
+      "createdAt": "Fri May 28 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "introduction-to-hibernate",
+      "slug": "how-to-find-the-best-coding-help-online",
       "locale": "en",
-      "title": "Introduction to Hibernate",
+      "title": "How to Find the Best Coding Help Online",
       "intro": {
-        "compiledSource": "var h=Object.defineProperty,u=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var c=(e,t,s)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[t]=s,r=(e,t)=>{for(var s in t||(t={}))i.call(t,s)&&c(e,s,t[s]);if(o)for(var s of o(t))a.call(t,s)&&c(e,s,t[s]);return e},l=(e,t)=>u(e,p(t));var d=(e,t)=>{var s={};for(var n in e)i.call(e,n)&&t.indexOf(n)<0&&(s[n]=e[n]);if(e!=null&&o)for(var n of o(e))t.indexOf(n)<0&&a.call(e,n)&&(s[n]=e[n]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var n=s,{components:e}=n,t=d(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var h=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&h(e,t,o[t]);if(s)for(var t of s(o))r.call(o,t)&&h(e,t,o[t]);return e},l=(e,o)=>p(e,u(o));var c=(e,o)=>{var t={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,l(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Did you know that finding help with computer coding is one of the fastest growing online industries? Did you also know that there\\u2019s an abundance of websites out there where you can find that very same coding help? With so many places to look for coding assistance, it makes sense why there are so many professionals who can\\u2019t seem to find the best options. But don\\u2019t worry! There are plenty of great resources out there if you know where to look.\nIn this blog post, we\\u2019ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-parallel-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJbACdLoAfh2DOp5vtljZAAD+bL/CZwN67RsnU03rJY8bTWtmj9xjZW6uAH/pgg+DsPsMVi0NULlJgcF9PnNRecVlQ5+kQdgB/rtoIm6f/i+BteGA177t7qPKq08+a/+5F2k7+vt0u+f/w0nzqUL/7gUUj+L3/4ies6Oe3+Ovy9yqW+VgAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/the-best-software-engineering-books.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdAYtBwn+2aQjvdeAAP76o8TnY/tsPSM+KQBGDQP4+LF5HeSqYk2OewUqfmO0K2xOgRqMmcq47nf8w/5xgvXYuW0gBfNNrgTnKfx/g3pxX4fMLeiXt81l+njvgD7cneDf+X6+gYVrtAA=",
+      "createdAt": "Mon Apr 20 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-parallel-computing",
+      "slug": "the-best-software-engineering-books",
       "locale": "en",
-      "title": "Go Language for Parallel Computing",
+      "title": "The Best Software Engineering Books",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var s=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,l=(e,t)=>{for(var a in t||(t={}))n.call(t,a)&&s(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&s(e,a,t[a]);return e},p=(e,t)=>m(e,g(t));var u=(e,t)=>{var a={};for(var i in e)n.call(e,i)&&t.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&o)for(var i of o(e))t.indexOf(i)<0&&r.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,t=u(i,[\"components\"]);return mdx(MDXLayout,p(l(l({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var w=Object.defineProperty,c=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var u=(e,o,n)=>o in e?w(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))s.call(o,n)&&u(e,n,o[n]);if(a)for(var n of a(o))i.call(o,n)&&u(e,n,o[n]);return e},g=(e,o)=>c(e,d(o));var l=(e,o)=>{var n={};for(var t in e)s.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&i.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=l(t,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, software engineers are playing a much more significant role in the way businesses operate. Thanks to the growing importance of software and digital services, software engineers are no longer just coders with a desk in a back room somewhere. Instead, they\\u2019re now people who can influence entire company strategies and help shape the future of an organization. As such, software engineers need to have a wide range of technical skills and knowledge in order to succeed.\nSoftware engineering books are an excellent way to learn more about this fast-growing profession, as well as expand your own knowledge and skills. Here we take a look at some of the best software engineering books you can read to supplement your existing education from university or other sources. Even if you don\\u2019t think you need them right now, keep reading for some great information about these essential books for software engineers\\u2026`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJQBOgNOVgL0eDca4AAD+63m9mdwg/j+1/7opKP9y7lfZQ7uD3iJIj4yNCxF1jhEJzv5T6Sw/7F/+c84mXz/5ZxFslEVYqdQPefqvBUrR9Cx1DCAw7sIGCzDqjfWPZ2m5lXi4oMC+D26ZWbPCRNx6/qR6vDu4rc+AAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdAaYu80VXnhlSSQAAP4FoPQ6TwvOHtf+f/UrlIfM8+Y/+NNuQf4ZN2l7+pT9bYn3Q8oH5M/VS35z9C9mfVL/c60j9U+Nxd0kEEa+j9r6rfXc6NRIE0q9nFdxd+2Eyc8rQQegfdMkoHu5RpZ+e6gyxp0X1MuGLI/Z0ln8m+/AAAA=",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
+      "slug": "the-best-coding-ides-for-developers",
       "locale": "en",
-      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
+      "title": "The Best Coding Ides for Developers",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var p=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))n.call(o,t)&&p(e,t,o[t]);if(r)for(var t of r(o))i.call(o,t)&&p(e,t,o[t]);return e},l=(e,o)=>h(e,u(o));var c=(e,o)=>{var t={};for(var a in e)n.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&r)for(var a of r(e))o.indexOf(a)<0&&i.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=c(a,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-use-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoKAAoAAUAmJagCdLoAAw9hAqnm+wAA/vufgCNkfzkBHP5WKLzL/j/zQr1NND3PWvfTum35FlumKPuf4xkm7861ngfms1fXYC/+CFHnFUPOKfK//8K1vZ4plsAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-use-coding",
-      "locale": "en",
-      "title": "How to Use Coding",
-      "intro": {
-        "compiledSource": "var u=Object.defineProperty,y=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,t,e)=>t in o?u(o,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):o[t]=e,a=(o,t)=>{for(var e in t||(t={}))r.call(t,e)&&l(o,e,t[e]);if(n)for(var e of n(t))s.call(t,e)&&l(o,e,t[e]);return o},c=(o,t)=>y(o,h(t));var d=(o,t)=>{var e={};for(var i in o)r.call(o,i)&&t.indexOf(i)<0&&(e[i]=o[i]);if(o!=null&&n)for(var i of n(o))t.indexOf(i)<0&&s.call(o,i)&&(e[i]=o[i]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var i=e,{components:o}=i,t=d(i,[\"components\"]);return mdx(MDXLayout,c(a(a({},layoutProps),t),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAABwAgCdASoKAAoAAUAmJbACdLoAEIwXpxFAzlGAAP7xukfoZHGfROt0fjzAUTNq5i8tSZRpvZ5ymU/aA/nOVu1Jmvuet5JYudWEy352559LERr86G0aprREJi3FBRqdfMqq36tO2V2ztm4Xu/ZrP/2Ftb82P9G87Qp/lln/uNN7irz/u1zsp/8ZU/HMpx2PQXmjMRbzL9UIAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-artificial-intelligence",
-      "locale": "en",
-      "title": "Go Language for Artificial Intelligence",
-      "intro": {
-        "compiledSource": "var g=Object.defineProperty,u=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(e,o,i)=>o in e?g(e,o,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[o]=i,n=(e,o)=>{for(var i in o||(o={}))r.call(o,i)&&l(e,i,o[i]);if(a)for(var i of a(o))s.call(o,i)&&l(e,i,o[i]);return e},p=(e,o)=>u(e,m(o));var c=(e,o)=>{var i={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(i[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(i[t]=e[t]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var t=i,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/introduction-to-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAgCdASoKAAoAAUAmJbACdLoB+AH4AAMyzAznM+AA9j4Dewi45hdudRA4ZcLurolCQYR+rgFJfxWvz80RNDf/rNaYn5A84t/tw//ZdZzuoXKobSB375gA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "introduction-to-java",
-      "locale": "en",
-      "title": "Introduction to Java",
-      "intro": {
-        "compiledSource": "var p=Object.defineProperty,h=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(a,t,e)=>t in a?p(a,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):a[t]=e,r=(a,t)=>{for(var e in t||(t={}))s.call(t,e)&&g(a,e,t[e]);if(n)for(var e of n(t))i.call(t,e)&&g(a,e,t[e]);return a},l=(a,t)=>h(a,m(t));var u=(a,t)=>{var e={};for(var o in a)s.call(a,o)&&t.indexOf(o)<0&&(e[o]=a[o]);if(a!=null&&n)for(var o of n(a))t.indexOf(o)<0&&i.call(a,o)&&(e[o]=a[o]);return e};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(e){var o=e,{components:a}=o,t=u(o,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),t),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAAUAmJbACdLoB+AADsAD+8WR94MXwRLVjDIzmXIrf/YXM9YLxB/Z9pHfsKHz7+pyYqP4E7/wJ3/zBK/IN1yAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-tips-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Tips for Beginners",
-      "intro": {
-        "compiledSource": "var d=Object.defineProperty,u=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,a=(e,o)=>{for(var t in o||(o={}))s.call(o,t)&&l(e,t,o[t]);if(i)for(var t of i(o))r.call(o,t)&&l(e,t,o[t]);return e},h=(e,o)=>u(e,y(o));var c=(e,o)=>{var t={};for(var n in e)s.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&i)for(var n of i(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=c(n,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var c=Object.defineProperty,p=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var a=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,i=(e,o)=>{for(var t in o||(o={}))a.call(o,t)&&l(e,t,o[t]);if(s)for(var t of s(o))r.call(o,t)&&l(e,t,o[t]);return e},d=(e,o)=>p(e,u(o));var h=(e,o)=>{var t={};for(var n in e)a.call(e,n)&&o.indexOf(n)<0&&(t[n]=e[n]);if(e!=null&&s)for(var n of s(e))o.indexOf(n)<0&&r.call(e,n)&&(t[n]=e[n]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var n=t,{components:e}=n,o=h(n,[\"components\"]);return mdx(MDXLayout,d(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

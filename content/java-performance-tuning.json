@@ -2,8 +2,8 @@
   "category": "coding",
   "imageSrc": "/articles/java-performance-tuning.png",
   "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJZwC7AEQ/c9pFGYAAP7+Ld91k4CuTWLekqwAee8v9Jz16HjQngQDcCNwgw6K/2AMPsYKLLSo6txnXk076MriagAAAA==",
-  "createdAt": "2022-10-01T12:13:38.441Z",
-  "updatedAt": "2022-10-01T12:13:38.441Z",
+  "createdAt": "2020-03-02T05:22:00.842Z",
+  "updatedAt": "2022-10-02T06:21:24.920Z",
   "categoryLocal": "coding",
   "slug": "java-performance-tuning",
   "locale": "en",
@@ -20,106 +20,91 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-network-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoKAAoAAUAmJZgCdLoAAwku0rrgAAD+/MneBz0FzbJDvF8dznqx+bsjE0usFI+t70L7/WGqAtLccdbtAonZ9ciYGZP3DNadAASxqH/4ie4oPnOTZ8U/5mtjZ4/AAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/web-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJbACdAD0MlfTYpQA/vigG6T4P0P5AR+rYYV3cUR866CuvpSWROCBbKdXLZQN3YrRJzrWvXN9/WAy+BoVzE89sV+zzXaK8WP4znFXVP3AAAAA",
+      "createdAt": "Sat Jan 23 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-network-programming",
+      "slug": "web-applications-with-java",
       "locale": "en",
-      "title": "Go Language for Network Programming",
+      "title": "Web Applications with Java",
       "intro": {
-        "compiledSource": "var m=Object.defineProperty,p=Object.defineProperties;var c=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,g=Object.prototype.propertyIsEnumerable;var s=(e,o,n)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,r=(e,o)=>{for(var n in o||(o={}))i.call(o,n)&&s(e,n,o[n]);if(a)for(var n of a(o))g.call(o,n)&&s(e,n,o[n]);return e},u=(e,o)=>p(e,c(o));var h=(e,o)=>{var n={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&g.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=h(t,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`So you\\u2019ve decided to learn a new programming language, but which one? There are literally thousands of programming languages in existence today. Some are general-purpose programming languages that can be used for a variety of applications. Others are more niche, focusing on becoming an expert in one particular domain.\nThat last category is where you might find yourself when looking for a new language for network programming. These are programming languages that have been designed with specific domains in mind, such as networking or computer telephony. You might think there isn\\u2019t much scope for differentiation between these specialist programming languages, but there\\u2019s plenty out there!\nIf you\\u2019re still struggling to decide which is the best Go Programming Language for Networking, don\\u2019t worry! We have created this short blog post with all the information you need to make an informed decision about your future studies! Read on to get acquainted with five of the most common network programming languages and their unique benefits:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,a)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&h(e,a,o[a]);if(r)for(var a of r(o))s.call(o,a)&&h(e,a,o[a]);return e},l=(e,o)=>d(e,m(o));var p=(e,o)=>{var a={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=p(t,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJagCdAELVaFkGtQAAP5sntvpIL9ilkrS+9nAfva0LreRNNsxgytB+kVG7+IVW/+tdF9gbqddTtS235yE37Em5mg/p4lxtbJSMcjPal3pVcEZMCP1/nXD+MmdrRFZ674Hl/7k5wU3WDS/xhKdZ8Wd/Zbrv8BeBXAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJZgCdAELX9N3InAAAP799thbLZPuCbR5/7h5SUAP/RhuFWQ/5q0QWwkTNYqZeFOYBiHCarwmVnPsH0/GT+XXRI80QtgD1CXvWHRkKTct5IeDGMy/rmtn6g/J2AG21Xwr/wAA",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "building-a-javaserver-faces-application",
+      "slug": "introduction-to-javaserver-faces",
       "locale": "en",
-      "title": "Building a Javaserver Faces Application",
+      "title": "Introduction to Javaserver Faces",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,p=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,a,n)=>a in e?u(e,a,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[a]=n,i=(e,a)=>{for(var n in a||(a={}))r.call(a,n)&&c(e,n,a[n]);if(o)for(var n of o(a))s.call(a,n)&&c(e,n,a[n]);return e},l=(e,a)=>p(e,h(a));var d=(e,a)=>{var n={};for(var t in e)r.call(e,t)&&a.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&o)for(var t of o(e))a.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,a=d(t,[\"components\"]);return mdx(MDXLayout,l(i(i({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var d=Object.defineProperty,h=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var o=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var c=(e,n,s)=>n in e?d(e,n,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[n]=s,i=(e,n)=>{for(var s in n||(n={}))o.call(n,s)&&c(e,s,n[s]);if(a)for(var s of a(n))r.call(n,s)&&c(e,s,n[s]);return e},u=(e,n)=>h(e,l(n));var p=(e,n)=>{var s={};for(var t in e)o.call(e,t)&&n.indexOf(t)<0&&(s[t]=e[t]);if(e!=null&&a)for(var t of a(e))n.indexOf(t)<0&&r.call(e,t)&&(s[t]=e[t]);return s};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(s){var t=s,{components:e}=t,n=p(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABwAgCdASoKAAoAAUAmJbACdLoAEJMX9t5TSSYgAP6ZRKBTEDyCd2ytne+G9oGhM43Liay+rcl2+90YeiciOVUi6GldzGdv2h3cb4LB+K3RQ9xCO/TXKMmSprdiwL7KzTRD4+qjZiwLA/26z0N11PPYK4UE/+18GaqwKXF/+Zt/SP4N//X4SjQL8pgAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoKAAoAAUAmJagCdAEPDvUn4xeAAP5BP7PPJWQa04IvAYq977NyflFNvdcbvfXBR8+H/06B7xqQUFpnSaZyvmEz/G1b0XR8OESztZig97VbOV9zpAC119/wS/ic4q8+W3nscBP//OA/hqAA",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tools-for-developers",
+      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
       "locale": "en",
-      "title": "The Best Coding Tools for Developers",
+      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,u=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,s=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&d(e,t,o[t]);if(n)for(var t of n(o))r.call(o,t)&&d(e,t,o[t]);return e},l=(e,o)=>u(e,g(o));var h=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&r.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=h(a,[\"components\"]);return mdx(MDXLayout,l(s(s({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Developers do a lot of work. As with any job, coders have to balance the amount of time spent coding as well as the quality and efficiency of that coding. It is an ongoing challenge to stay organized and productive throughout the day. The good news is that there are many tools out there that make the lives of developers easier. These tools make tasks like code organization, file sharing, debugging, and testing much simpler.\nCoding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let\\u2019s take a look at some of the best coding tools that every developer should know about!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var p=Object.defineProperty,l=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var a=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var g=(e,o,n)=>o in e?p(e,o,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[o]=n,i=(e,o)=>{for(var n in o||(o={}))r.call(o,n)&&g(e,n,o[n]);if(a)for(var n of a(o))s.call(o,n)&&g(e,n,o[n]);return e},u=(e,o)=>l(e,h(o));var c=(e,o)=>{var n={};for(var t in e)r.call(e,t)&&o.indexOf(t)<0&&(n[t]=e[t]);if(e!=null&&a)for(var t of a(e))o.indexOf(t)<0&&s.call(e,t)&&(n[t]=e[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:e}=t,o=c(t,[\"components\"]);return mdx(MDXLayout,u(i(i({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoKAAoAAUAmJYwCdAaVbm8ZNEyKtqmGAAD+9nvTSlKnXftAHn/sbPPMt7Qucj3PrxroGKlRG2pLv/n3OZvw1f0y+le8M4H7oDrIc5VsPvtRtij6Bf4VSZe09nWqQMAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAACQAgCdASoKAAoAAUAmJbACdLoA4AAC64AGvKIsAAD+0gRUCJzDocqa/OwP4KPzeZnsyNR3eIYUSIkT3U1sXFF+A76ZBKwemJo6aPpnWP81PCp3gL/Gg3nQVPzM83SK5ojLdtOPU4RgtPaos4o/+hj++730ZbXz/kMdf/o5M/k3/9tab+h3/yV+5x0geW8mo3sbf2V7ZUAAAA==",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-improve-your-coding-skills",
+      "slug": "go-language-for-database-administration",
       "locale": "en",
-      "title": "How to Improve Your Coding Skills",
+      "title": "Go Language for Database Administration",
       "intro": {
-        "compiledSource": "var g=Object.defineProperty,y=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var l=(o,e,n)=>e in o?g(o,e,{enumerable:!0,configurable:!0,writable:!0,value:n}):o[e]=n,a=(o,e)=>{for(var n in e||(e={}))r.call(e,n)&&l(o,n,e[n]);if(i)for(var n of i(e))s.call(e,n)&&l(o,n,e[n]);return o},d=(o,e)=>y(o,m(e));var u=(o,e)=>{var n={};for(var t in o)r.call(o,t)&&e.indexOf(t)<0&&(n[t]=o[t]);if(o!=null&&i)for(var t of i(o))e.indexOf(t)<0&&s.call(o,t)&&(n[t]=o[t]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var t=n,{components:o}=t,e=u(t,[\"components\"]);return mdx(MDXLayout,d(a(a({},layoutProps),e),{components:o,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,u=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var d=(e,a,t)=>a in e?m(e,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[a]=t,o=(e,a)=>{for(var t in a||(a={}))i.call(a,t)&&d(e,t,a[t]);if(n)for(var t of n(a))r.call(a,t)&&d(e,t,a[t]);return e},h=(e,a)=>u(e,l(a));var c=(e,a)=>{var t={};for(var s in e)i.call(e,s)&&a.indexOf(s)<0&&(t[s]=e[s]);if(e!=null&&n)for(var s of n(e))a.indexOf(s)<0&&r.call(e,s)&&(t[s]=e[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:e}=s,a=c(s,[\"components\"]);return mdx(MDXLayout,h(o(o({},layoutProps),a),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoKAAoAAUAmJbACdLoAE4A1zgyh+CnCspATAAD+6l+PK42LPTV/hruMd631/z5V99FeqZ/tgMfP7B+yGuBv4PTLEGcY1ke/8Ddvzf+m/v4TCX2+luIFX7z8hB/LMDH9du4SM4yWlnLEWJW9I3catY8qwRhn0wk8SH/7X/o1Kvx/+P70JTf5HrqOD6S2JnNz4sNCGAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/go-language-for-parallel-computing.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAgCdASoKAAoAAUAmJbACdLoAfh2DOp5vtljZAAD+bL/CZwN67RsnU03rJY8bTWtmj9xjZW6uAH/pgg+DsPsMVi0NULlJgcF9PnNRecVlQ5+kQdgB/rtoIm6f/i+BteGA177t7qPKq08+a/+5F2k7+vt0u+f/w0nzqUL/7gUUj+L3/4ies6Oe3+Ovy9yqW+VgAA==",
+      "createdAt": "Sun Apr 12 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-game-development",
+      "slug": "go-language-for-parallel-computing",
       "locale": "en",
-      "title": "Python - The Language for Game Development",
+      "title": "Go Language for Parallel Computing",
       "intro": {
-        "compiledSource": "var d=Object.defineProperty,g=Object.defineProperties;var u=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,o,a)=>o in e?d(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,r=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&p(e,a,o[a]);if(t)for(var a of t(o))s.call(o,a)&&p(e,a,o[a]);return e},l=(e,o)=>g(e,u(o));var m=(e,o)=>{var a={};for(var n in e)i.call(e,n)&&o.indexOf(n)<0&&(a[n]=e[n]);if(e!=null&&t)for(var n of t(e))o.indexOf(n)<0&&s.call(e,n)&&(a[n]=e[n]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var n=a,{components:e}=n,o=m(n,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var c=Object.defineProperty,m=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,r=Object.prototype.propertyIsEnumerable;var s=(e,t,a)=>t in e?c(e,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[t]=a,l=(e,t)=>{for(var a in t||(t={}))n.call(t,a)&&s(e,a,t[a]);if(o)for(var a of o(t))r.call(t,a)&&s(e,a,t[a]);return e},p=(e,t)=>m(e,g(t));var u=(e,t)=>{var a={};for(var i in e)n.call(e,i)&&t.indexOf(i)<0&&(a[i]=e[i]);if(e!=null&&o)for(var i of o(e))t.indexOf(i)<0&&r.call(e,i)&&(a[i]=e[i]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var i=a,{components:e}=i,t=u(i,[\"components\"]);return mdx(MDXLayout,p(l(l({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLcA/AABk4+IvWagAAD+m66wtFjYxfXeoZrc1IH8SMwrTtBchHUIlTyp6vDo87sRWrqy6rV0eedm/VNH1fv/FO/6bDecmlF9Md/7Lo7RDPVM1t6+5/+x9y67K3eFeaoH0PgAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJZgCdAEOdOnVZQAA/vzS/sYVUZOP10yOGO95fkDHkK+48N33SA0KpqfwMeNhYs4T/7My9mfvPuOQJLEdPor9nTAV0+r+PewQ/5IRv6N/1PqXiRfXIi3K2AAAAA==",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "the-benefits-of-software-engineering",
+      "slug": "go-language-for-database-programming",
       "locale": "en",
-      "title": "The Benefits of Software Engineering",
+      "title": "Go Language for Database Programming",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,g=Object.defineProperties;var l=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var u=(e,n,i)=>n in e?c(e,n,{enumerable:!0,configurable:!0,writable:!0,value:i}):e[n]=i,s=(e,n)=>{for(var i in n||(n={}))r.call(n,i)&&u(e,i,n[i]);if(t)for(var i of t(n))a.call(n,i)&&u(e,i,n[i]);return e},d=(e,n)=>g(e,l(n));var f=(e,n)=>{var i={};for(var o in e)r.call(e,o)&&n.indexOf(o)<0&&(i[o]=e[o]);if(e!=null&&t)for(var o of t(e))n.indexOf(o)<0&&a.call(e,o)&&(i[o]=e[o]);return i};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(i){var o=i,{components:e}=o,n=f(o,[\"components\"]);return mdx(MDXLayout,d(s(s({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,\"Software engineering is the discipline of programming and designing software, as well as documenting and testing it to ensure that it meets user needs and functions correctly. Software engineering is a broad field that includes several sub-disciplines. Each of these areas has its own unique set of responsibilities and tasks. As an engineer, you might specialize in one or more of these disciplines, but regardless of your area of focus, every software engineer must have a solid understanding of all the different aspects in order to be successful in this exciting career. In this article, we\\u2019ll explore some of the many benefits of software engineering. If you\\u2019re reading this thinking \\u201CIs this article for me?\\u201D keep reading! Whether you are new to the industry or just looking for some additional information to increase your knowledge even more, read on to discover why software engineering might be a great career choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-network-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoKAAoAAUAmJaACdAEOz33Kf0QAAP76d/mmvgs8exkPo90lhnPUqv+g0PTc/5cOFfvQi9KFEQkf6GpAwG08hyUnfyN/4wp+jDDOVetE5QAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-network-administration",
-      "locale": "en",
-      "title": "Go Language for Network Administration",
-      "intro": {
-        "compiledSource": "var l=Object.defineProperty,m=Object.defineProperties;var p=Object.getOwnPropertyDescriptors;var o=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var c=(e,t,n)=>t in e?l(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n,r=(e,t)=>{for(var n in t||(t={}))i.call(t,n)&&c(e,n,t[n]);if(o)for(var n of o(t))s.call(t,n)&&c(e,n,t[n]);return e},g=(e,t)=>m(e,p(t));var u=(e,t)=>{var n={};for(var a in e)i.call(e,a)&&t.indexOf(a)<0&&(n[a]=e[a]);if(e!=null&&o)for(var a of o(e))t.indexOf(a)<0&&s.call(e,a)&&(n[a]=e[a]);return n};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(n){var a=n,{components:e}=a,t=u(a,[\"components\"]);return mdx(MDXLayout,g(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,l=Object.defineProperties;var d=Object.getOwnPropertyDescriptors;var t=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var g=(a,e,o)=>e in a?m(a,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):a[e]=o,r=(a,e)=>{for(var o in e||(e={}))s.call(e,o)&&g(a,o,e[o]);if(t)for(var o of t(e))i.call(e,o)&&g(a,o,e[o]);return a},u=(a,e)=>l(a,d(e));var p=(a,e)=>{var o={};for(var n in a)s.call(a,n)&&e.indexOf(n)<0&&(o[n]=a[n]);if(a!=null&&t)for(var n of t(a))e.indexOf(n)<0&&i.call(a,n)&&(o[n]=a[n]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var n=o,{components:a}=n,e=p(n,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),e),{components:a,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
@@ -127,8 +112,8 @@
       "category": "coding",
       "imageSrc": "/articles/python-an-overview.png",
       "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJbACdAEPDzVRP/mAAP7zR9zmLfwC//Dhdb4fj+E205yL8UzXx0wLHWrv6jojAPM4SCzzfP/3Udvu3/HEZuXcDz4CeNbzszAY/rDrKc1IpKg3TtTqYdujxHfAH/yFV/bwn/ofXf9gH/6HJn8G/1mUA1wgJ9ojegAAAA==",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
       "slug": "python-an-overview",
       "locale": "en",
@@ -140,31 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAoAAUAmJbACdLoB+AADID51BZAA/urz+I+RyI76lZ1Ls2D5W/e9ZqLzFj1DLTpFWOtn5eJ/gtR4KFJ/7q3t3/N95N7fDj/ucbr5HH/yOP/5miY8JeYAAAA=",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoKAAoAAUAmJZQC7AEPDU92kAAA/voKvFyRneM/qz8Qe+tof3HCgQVc/1hbfSWhpmkkxV6uee2S7RwH4yTFd3Zh6mONsjO3RJYRs2T0TgIwLJ64B5WngajGy2m/1Qq/6ppMMdYA",
+      "createdAt": "Sat Feb 01 2020",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-video-processing",
+      "slug": "the-best-coding-tricks-for-beginners",
       "locale": "en",
-      "title": "Go Language for Video Processing",
+      "title": "The Best Coding Tricks for Beginners",
       "intro": {
-        "compiledSource": "var c=Object.defineProperty,d=Object.defineProperties;var h=Object.getOwnPropertyDescriptors;var i=Object.getOwnPropertySymbols;var r=Object.prototype.hasOwnProperty,a=Object.prototype.propertyIsEnumerable;var l=(e,o,t)=>o in e?c(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,n=(e,o)=>{for(var t in o||(o={}))r.call(o,t)&&l(e,t,o[t]);if(i)for(var t of i(o))a.call(o,t)&&l(e,t,o[t]);return e},p=(e,o)=>d(e,h(o));var u=(e,o)=>{var t={};for(var s in e)r.call(e,s)&&o.indexOf(s)<0&&(t[s]=e[s]);if(e!=null&&i)for(var s of i(e))o.indexOf(s)<0&&a.call(e,s)&&(t[s]=e[s]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var s=t,{components:e}=s,o=u(s,[\"components\"]);return mdx(MDXLayout,p(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var h=Object.defineProperty,l=Object.defineProperties;var y=Object.getOwnPropertyDescriptors;var s=Object.getOwnPropertySymbols;var n=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var c=(e,t,o)=>t in e?h(e,t,{enumerable:!0,configurable:!0,writable:!0,value:o}):e[t]=o,r=(e,t)=>{for(var o in t||(t={}))n.call(t,o)&&c(e,o,t[o]);if(s)for(var o of s(t))i.call(t,o)&&c(e,o,t[o]);return e},u=(e,t)=>l(e,y(t));var d=(e,t)=>{var o={};for(var a in e)n.call(e,a)&&t.indexOf(a)<0&&(o[a]=e[a]);if(e!=null&&s)for(var a of s(e))t.indexOf(a)<0&&i.call(e,a)&&(o[a]=e[a]);return o};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(o){var a=o,{components:e}=a,t=d(a,[\"components\"]);return mdx(MDXLayout,u(r(r({},layoutProps),t),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/web-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJbACdAD0MlfTYpQA/vigG6T4P0P5AR+rYYV3cUR866CuvpSWROCBbKdXLZQN3YrRJzrWvXN9/WAy+BoVzE89sV+zzXaK8WP4znFXVP3AAAAA",
-      "createdAt": "Sat Oct 01 2022",
-      "updatedAt": "Sat Oct 01 2022",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJQBdgMWMzYfUWCTw4AD+/UE/jnyqJx3XIFf0WuBNp5nOvv+d9nva3c4bbn/wyrIpvaf9kZlXSn+7SLM4p/ENbf1BDDDBX/yaWeaSIxQQtxKRcc92kG3vS01+qtfveilD61MAtKeLGL/gPWX/vuLfn/ojkxVJ2WPYAAAA",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Sun Oct 02 2022",
       "categoryLocal": "coding",
-      "slug": "web-applications-with-java",
+      "slug": "7-javascript-basics-every-typescript-developer-should-know",
       "locale": "en",
-      "title": "Web Applications with Java",
+      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
       "intro": {
-        "compiledSource": "var u=Object.defineProperty,d=Object.defineProperties;var m=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var h=(e,o,a)=>o in e?u(e,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):e[o]=a,n=(e,o)=>{for(var a in o||(o={}))i.call(o,a)&&h(e,a,o[a]);if(r)for(var a of r(o))s.call(o,a)&&h(e,a,o[a]);return e},l=(e,o)=>d(e,m(o));var p=(e,o)=>{var a={};for(var t in e)i.call(e,t)&&o.indexOf(t)<0&&(a[t]=e[t]);if(e!=null&&r)for(var t of r(e))o.indexOf(t)<0&&s.call(e,t)&&(a[t]=e[t]);return a};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(a){var t=a,{components:e}=t,o=p(t,[\"components\"]);return mdx(MDXLayout,l(n(n({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "var m=Object.defineProperty,y=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var n=Object.getOwnPropertySymbols;var i=Object.prototype.hasOwnProperty,s=Object.prototype.propertyIsEnumerable;var p=(e,o,t)=>o in e?m(e,o,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[o]=t,r=(e,o)=>{for(var t in o||(o={}))i.call(o,t)&&p(e,t,o[t]);if(n)for(var t of n(o))s.call(o,t)&&p(e,t,o[t]);return e},l=(e,o)=>y(e,g(o));var d=(e,o)=>{var t={};for(var a in e)i.call(e,a)&&o.indexOf(a)<0&&(t[a]=e[a]);if(e!=null&&n)for(var a of n(e))o.indexOf(a)<0&&s.call(e,a)&&(t[a]=e[a]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var a=t,{components:e}=a,o=d(a,[\"components\"]);return mdx(MDXLayout,l(r(r({},layoutProps),o),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoKAAoAAUAmJQBOgCHZhtJigAD+/QZv0Nwb9NEvtjjpSgH6z8YLU6P2LNu+86WGJ+lCkjGv/ejnBhOnj7C1rq1lR+T8+gRzGBwr2prhEpwxjdEzyKP6Zq9QAAA=",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Sun Oct 02 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "var l=Object.defineProperty,p=Object.defineProperties;var g=Object.getOwnPropertyDescriptors;var r=Object.getOwnPropertySymbols;var s=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;var d=(e,n,t)=>n in e?l(e,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[n]=t,a=(e,n)=>{for(var t in n||(n={}))s.call(n,t)&&d(e,t,n[t]);if(r)for(var t of r(n))i.call(n,t)&&d(e,t,n[t]);return e},h=(e,n)=>p(e,g(n));var u=(e,n)=>{var t={};for(var o in e)s.call(e,o)&&n.indexOf(o)<0&&(t[o]=e[o]);if(e!=null&&r)for(var o of r(e))n.indexOf(o)<0&&i.call(e,o)&&(t[o]=e[o]);return t};const layoutProps={},MDXLayout=\"wrapper\";function MDXContent(t){var o=t,{components:e}=o,n=u(o,[\"components\"]);return mdx(MDXLayout,h(a(a({},layoutProps),n),{components:e,mdxType:\"MDXLayout\"}),mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }
