@@ -1,4 +1,6 @@
-import { Locale } from "../types";
+import { locales } from "../constants";
+import { data } from "../data/data";
+import { Category, Locale } from "../types";
 import { getPosts, getRawPosts } from "./getPosts";
 
 type Res = Array<{
@@ -34,4 +36,33 @@ export async function generatePostsPageStaticPaths() {
   }));
 
   return [...enPaths, ...esPaths] as Res;
+}
+
+export async function generateCategoryPageStaticPaths() {
+  let paths: any = [];
+
+  for (const category of Object.keys(data)) {
+    const enPosts = await getPosts({
+      locale: "en",
+      page: 1,
+      category: category as Category,
+    });
+    const esPosts = await getPosts({
+      locale: "es",
+      page: 1,
+      category: category as Category,
+    });
+    const enPaths = Array.from({ length: enPosts.totalPages }).map((_, i) => ({
+      params: { page: `${i + 1}`, category },
+      locale: "en",
+    }));
+    const esPaths = Array.from({ length: esPosts.totalPages }).map((_, i) => ({
+      params: { page: `${i + 1}`, category },
+      locale: "es",
+    }));
+
+    paths = [...paths, ...enPaths, ...esPaths];
+  }
+
+  return paths;
 }
