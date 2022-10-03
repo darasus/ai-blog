@@ -64,3 +64,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
     },
   };
 };
+
+export const config = {
+  unstable_excludeFiles: ["public/**/*"],
+};
