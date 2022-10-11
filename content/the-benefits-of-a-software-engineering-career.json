@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM7n9ZDO9fHz9PDw8Orq6OXm4+Tl4uTk5LOzs5mVlADZ7f2f1Pn5+/z6+vrz8/Pa4+fo6OjGxsSyhm63lIAAx+L0y+Dr9fn6j87vp9fw8fHx6urqp5qTw5V7wZN8APn7/P7+/s7m7MPk9tHq+Lva4t3d3XBXScOLd92qkgAwibI0i7I4jbI5jrQviLHk7e6hlpAzKiapdlyic1MAa6vHcrDJY6fFa6vFTJm619nZRzgxenV3rntYtqSfAPb6/f7+/s/n7d7x+sLg64CCg0c8OX2Gk7Ktr6euugDv9/7+/v7x9/puwOuAwONTRj+Ni47O1d7T2OHc4ukAyOb8jcn7+Pr75evwxMbIOCsntLrDwsrSydHZ2+DoANvt+ZHK9PLy8uLi4qmhnSAYFHmAi4GLmIaPnLG6xysq2jnTedh6AAAAAElFTkSuQmCC",
   "createdAt": "2020-08-02T01:26:06.313Z",
-  "updatedAt": "2022-10-02T10:49:48.581Z",
+  "updatedAt": "2022-10-11T17:15:21.261Z",
   "categoryLocal": "coding",
   "slug": "the-benefits-of-a-software-engineering-career",
   "locale": "en",
@@ -20,85 +20,115 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-cloud-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
-      "createdAt": "Tue Mar 10 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlSWOTUsCQQBA54/WpUMFUWEUBN0iqluH6NDSQQwPEQXaJ4mgeKiwTFIUP2eX/ZrZndn52JlZPIX5zu/BAwSFLMKMEp5QyZNUMCV5KhhPKIswYDRJuVBSGqWN0pk2RmnxTyoYSLnQqTJKz0w203Np5ai8dlJq96CSEsw75pnwA/0WDLzJtJGMN1H7rGMt1baA+35eLe6+5nfKV9uqd5El0ChdndTyzetKtwKs4+VHa715v1e63ID1wxQ+LNbkYg03Dp6t1UZx8/su1305nbTeeEIFISzCke+D6VPu63a/VSkMOq2ExIIQHscUo8j3fccGn/Uqcr04DAgKKUYUozgMsOcFELqDIXCGY3cMg6njOzZy3NC2Awi90Qj2+qP2zx/fxv3tnTkr/gAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-cloud-computing",
+      "slug": "go-language-for-system-programming",
       "locale": "en",
-      "title": "Go Language for Cloud Computing",
+      "title": "Go Language for System Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-software-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoKAAoAAUAmJbB8AAUxiAPwAAkGAAD+8lsokYpa6FDqS30it08lt6hPPg3aYIfrWpe8+qYqv/fgu2SwEafBuXG6+K3/8Vv/8s+/DEj7qAAAAA==",
-      "createdAt": "Tue Jan 12 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlV2PO6vCQBCF9x+Ldtb+B1HQQsHW2wgiNtoIYiNaiY8oJpg1PjfJ7uzMrlyWBEWnmjkfcziH2e/h43hTv8sTZid7A+0nMpLzQrgoc6/5/GCQGgBBamtt0BfLChc75RQABoPzC4y1FhUaypfs1ZBhur6nli8jXDcuu/aVj+OgJ6JJcpmm6+qVQc2jjo8JbVu388yx49/D69zDURL0BdNDrmPnBpCbgyACyhQXDRFlCmk3FM0AFapNDMKF/Sp2KO1XxS1JNNp5/PY2imyaZ37jfwknFvm9xdS4AAAAAElFTkSuQmCC",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-software-development",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
       "locale": "en",
-      "title": "Go Language for Software Development",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is a general purpose programming language. It was originally developed at Google to solve some of the problems with other programming languages like C and Python that made it difficult to write programs that are fast, small, and correct.\nGo makes it easy to capture the programmer\\u2019s intent in code and generate output directly from source - thanks to its lightweight syntax, concise statement, and built-in support for anonymous functions without the need for temporary variables or auxiliary arguments.\nGo is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANfLvcW5rcS3sJ2Wl9zRzLGsreDZ15KUmq+xt5yQhwDMwLTHvbO1qKG8r6rFt66uoZyOg4DNx8LDvbiwqKIAybqqq5uObmRga2JefHVzuK2oz8W9ysC4x7+2saWcAIJ5dYR9e7qyq8a8tLevqZGPi2lxekJKUKuooNXRwgC9r6TDubGhmphUWl9SW19jaGaLioOkoZfCwbbd28wAwbGmwrqoTlNUhoN4qaWdxMK10c7Etq+mfnZwZ19iALOpo7q2pqalk8vGr52VjHFxc1ZbZ4OAhZiTl8CxqADKvK+PiYVwb3JVZnuGlKSzs7PSv6y7p5edjoXCr6MAvKqburazsKeoz7CdybqoyLip1sGrxrCcjXxyz7ajAJeNh93IsMSmkLqaitG1msu+sMS4rq2akMa0qLyllqb7vgC6Wu09AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-read-code-like-a-pro",
+      "slug": "7-javascript-basics-every-typescript-developer-should-know",
       "locale": "en",
-      "title": "How to Read Code like a Pro",
+      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-journals.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJYwCdAEPChpfyVYAAP6t+3/8PPzEsJ015Z9eXxnwnKMXzv78iZ3fXMwFDqfAEQcpJA8dUc/khL/AudC/65gS4RifvMI8n/xYdlgV3qp68FcRMBPvGl+L4fma80n8ITK17rogwWZfP2FgAAA=",
-      "createdAt": "Fri Aug 19 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWN49fISCL248uvXr78YgGHLxoadOyetWl549/Y6uOjnTy+h0o8e7j+8r3XTaveNaxMvXVz96P7q2zc3rl1ut2dHzfGDEQwXzi0+fbz70L6yo4dnbl6ffuFM/73bK7av17x27diN68sZzp9ZdP3KukMHJl+/snjVUvO1ywIePzq5ZpnX0UPNjx8dYLh0Yfmy+fbz5/hfuHDo3v07J04eu379+vkLZ89fOPnw4X2GqxcXXruydNeuXStXrpwzZ850MFiyZMmiRYtWrVrFcOb00muX1kPc+fXr1x9ggPDYgb01N65uxPQxVHrPzrLPX97jkgYARYPz8PONR3sAAAAASUVORK5CYII=",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-journals",
+      "slug": "python-the-language-of-the-web",
       "locale": "en",
-      "title": "The Top Software Engineering Journals",
+      "title": "Python - The Language of the Web",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers constantly have to stay up-to-date with new research, trends, and techniques in their field. The most common way for software engineers to do this is by reading research papers published in journals. These journals are almost exclusively found online. Many of them are available for free, but some are behind paywalls for non-subscribers. Fortunately, you don\\u2019t need to subscribe to every single one of these journals if you\\u2019re a software engineer\\u2014just the ones that publish articles related to your specific interests and career goals as a software engineer.\nRead on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-secrets-of-great-coders.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
-      "createdAt": "Wed Aug 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-top-software-engineering-programs.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB8TB4h5Z6XRpXq8ene5c4PMs3LOzHLJx4uggnbEvgAODwhSRi9/xqc1tI0xr35Ev7Mgu8cYusVmztQvv8kAQTklgWxF0+Pir8zOtNHQv93eocnOpdDUv9HQqresAFlMHqKKWeru4e7q1+v77u367u/lz+367u358Pj38QBqVyWvl2Tq2sLzq33zpXTwyKj0rH7yr4H2pXX6rYIAjXdFtJ5xvc7Gq764vcS2r8W+xNfOvdDHqqaVv8bCANrErujSvs3f17zPxr/TyrLIvqa8tKG3sLfLwrO9twDppH7y3szt+u7Y6NzAz8XI1czK1s7G08rE0cjQzsgAhdHn6drEuNu5tdu2t9u2xuLErNeyp9Ok1uzZ2evnANHRw9HNrBqQJB2UMRSKDm60bzGcViaUOJrPpDG3uEAByhodvPSqAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Mar 20 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-secrets-of-great-coders",
+      "slug": "the-top-software-engineering-programs",
       "locale": "en",
-      "title": "The Secrets of Great Coders",
+      "title": "The Top Software Engineering Programs",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA2ElEQVQYlWM4d3L/riVNWNGZo3sYNs3J/XuH+e8d5lVTWG/sZTmzkeXKThD37x3m9VOTEdI9VawtJazJ4ew1OWzfr4NENkxPgUofXQtC368zb57DcnYzqu4jq1kaC0Do8CrmN2eZOytASk+uY4FK71nC3JDPWpfLsmsR05uzzA35zE1FzJ0VrAjD63JZ6nJZ/t4B6e4oAxlzdC3M7l83mfctYzm6lvnPLZYvVxB2Q6Tzb+xiXT2JZe1U9nXTOHYuZF07lX1RD+fNPWC7r148s2P1NKzo4rkTAJqHoIPiPP0XAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-scientific-computing",
+      "locale": "en",
+      "title": "Go Language for Scientific Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOjy/OXx++Dp9M3X4dvn8NDe59Li7czc6c7j777T4ADW5Ovf6/XR2+O/ydHN1+GyvsbQ3ufL2+bH2eW/1N8A5O740fL36PD7s7rDwsrSvsjQusbQuMfSqLe/oLC6AOnx+q+5w6yxu7i+xbS8wr7Gz73H0au1v6q2v5elrgC8xM0hICNRTFDr8vvr8vvm7/rc5vDd6fXZ6fbN3+0A0trjhGRhpouL3efx4uz25PD62OHs2+n14PD83O78AH675o2Oo7CptHWBj5KeqomXooKPlqCvt9fr+9nt/QBgmNNXjcbNxcrRxcnIyNQeJioLMjMxR0vR2uXS4OsAYbLtSY7SVnWjmoeLnIKHbGRsNTc7aGVoybi8ybq9AF6Kz0aJyWOb5ZicsZCVrrKTkK6gosezscy6ucy5uxVD2oFbGCUWAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-learning-to-code",
+      "locale": "en",
+      "title": "The Benefits of Learning to Code",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlX2QsUrDQByHT3yGPod0EpvFwa2rj+BzZMiQKUQR4+igcRWSQEIq3BB0Mbi0YGINCOGuiSG1/1yb5qJcEUPnfvy2b/jghwQZ7hj6jO9ESza/pWiJYO4PC9p1ytezdhVPXs5RGIZ5nm86CCF1XXPOAYBz7vv+v7YsyzAMRVFUVdV1XdM0WZZN09zqoigYYwAghGiapixLbfF1xubD9zEKgsDzvKcOSil0HNDp6eq7D7NtO0kSSqkQoqoqAOjT+GRZSpAjx3EwxrZtY4yzLIuiyHXd3sfr3oLuz1M0uh3Eo6P0WXrzB/cXxw/G4fRRupxcGdGNOr5Gu2/5A9Yl5ZK0D9YWAAAAAElFTkSuQmCC",
       "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
       "locale": "en",
@@ -110,61 +140,31 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-distributed-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJaACdAYrTkvy7OhwAP7+DL3G5B1Fvasbbu3eiP+OD56cz+2n8bLMjhy6bsxVss4/jD/2Pr6JcaQ02jfPyXVM/B4RDFMjs3ii+f/PPv79Mnm02910mVKW7SN/qm134lyb1zcXiBH/VbM9/V+9fvd/+45MQAAA",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+klEQVQYlWP4hxcwQKi/L5t+P4z+/TD29+O4P4+T/75bCJX++/f3359Pft9QPb5W9s1ZxWfHFM9skPlzUwMq/fHqiV+vTq+cKHF1u+zz40pTG0Qvb5XdOV/q378/IOlN6aH3lzZtWuh6aIXSvHaxCbUiB5dJH1wmDZW+tGvL949vvr9/eedY95uzigeWyV/eIv/7pvLfv79B0u/O77m9ed7a+pIdHWa/rivf2qP0+ZLyt1tBULt3dJY2R3j6qit5y4snGsid3r3m+6cnf/78hEr76qtqCQrE6OtcnD/71OrFf36DrET4W5mfX4WXz0FOusTRcvecKWjBAgAeCdp1SW1kIgAAAABJRU5ErkJggg==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-distributed-computing",
+      "slug": "go-language-for-embedded-programming",
       "locale": "en",
-      "title": "Go Language for Distributed Computing",
+      "title": "Go Language for Embedded Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoKAAoAAUAmJbACdEf/gevmno5rSiwAAPa9/t+hHVrzo2g+0Bkj2WhaKgxvegnC/H18wU9mVdOR8m7w3kyVVzcef/QnJDZmtgEaen6GQ49m95geDcFP+XXY236tSGPP4SJ/U9sAAAA=",
-      "createdAt": "Thu Sep 08 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAk0lEQVQYlWO4e/fuehhYu3YtMvv169cM06ZNY8YBjh49yjB16lRkIWFhBPvIkSMo0nx8rM6uTOjS3t7eISEhwsLCLm7M/oHuQYFBysrKWlpaUMMDAgI8PDzMzMy8/ZhCQkLCwsISExNTU1NBuqdNm8YOBgL8LNKyzBwcHJqamqKiolDDSXM5uvTDhw934ADv3r0DAGLKXQ51IibaAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-ides-for-developers",
+      "slug": "the-difference-between-javascript-and-typescript",
       "locale": "en",
-      "title": "The Best Coding Ides for Developers",
+      "title": "The Difference between JavaScript and TypeScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
-      "createdAt": "Tue Nov 16 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
-      "locale": "en",
-      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
-      "createdAt": "Sun Feb 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "building-a-javaserver-faces-application",
-      "locale": "en",
-      "title": "Building a Javaserver Faces Application",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

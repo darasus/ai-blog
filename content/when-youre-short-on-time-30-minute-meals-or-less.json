@@ -1,9 +1,9 @@
 {
   "category": "cooking",
   "imageSrc": "/articles/when-youre-short-on-time-30-minute-meals-or-less.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoKAAoAAUAmJYgCdAEO9BRDtoAA/vdp6ilbAC3NyL6waizac+8JLfwkZheHzRU8LpHFeocetBiVZxq4gywhprJ+OWf6dVzf4DeAO29z9KAY7pOFvtfSdD9Pf7wu+/NUzSiBYaErvzF8iN2GM3wAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANjV2NbV2tXU2dTT2NTT2NTU1tXV19fU19jV2NnW2QDX1NfW09bU1NbU0tXT0NTU0tXU0tXW09bX1NfZ1NgAuLOyysXHzcjJmJCHaGZbcG9nrqyq1dDU0snKroZvAKumpriztI+FdG5YOY5mNF5HKEhEM6Slor6SeLZZDQDPzM23s6umhVfHjkvaoFa6h0mKaD9jZVmwlYGRRRQAsKuqrquhuIVGxYxIyIxI0ZtgoodrWlVHqqGUp5B/AJmVkqqpo7qSYMCHQsyPRumNM9iqen55bbikkcGXdQCUkIylopquppbJmlyufUC0mXfHvrijnpKqjnaxhWIAoqGdsKykpaGVop2RoZiIlZKHq6OYq6KVm4p3vJ+JAMfDwL26tLKto6uklquilbGom7avpLmxqLiupMC0q5sjvf0Ja/02AAAAAElFTkSuQmCC",
   "createdAt": "2021-05-15T12:04:56.489Z",
-  "updatedAt": "2022-10-02T10:28:31.737Z",
+  "updatedAt": "2022-10-11T17:13:44.197Z",
   "categoryLocal": "cooking",
   "slug": "when-youre-short-on-time-30-minute-meals-or-less",
   "locale": "en",
@@ -20,10 +20,70 @@
   "relatedArticles": [
     {
       "category": "cooking",
+      "imageSrc": "/articles/from-soup-to-nuts-the-best-recipes-for-winter.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIx0UIFuS7bMxaa7uYZ7TYh+WImJbpOYi7bIxp1scQB9Vyl0UyyuuayJhVuodgWbdhqDXQ+EYhKqsJeeoKAAaEgebFM1r7evoru5mJh9m5Fgk4pgoaWKwNvbfGFRAIt/ZpOXjbG/upqxrpOpopasopq0razOzpGYmKKcjgBbTSltUyFlXUmdq6eos6ejqpyhrqWvxMR7YVq0vq8AYksef2lKyuXpnaqhfXZNhndDh4t1iYeDgHZst8K6AGtjTbG+t6K2rX9mIZhgBp1pFI9fDZiPbpKXkbrMzwBqZ1GMl42Eaz2xcAufaxh0Rh2IUBFmRhp8ZkLE3N8AjZOKgoyEq7ixn3hDpmMFgUoEjFIGZ0Yjn6War8K9AJ6kmZmemKK5upCjoZKdkpiYf5mfi6G2trPX3bHFxySlneqLfnnnAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "cooking",
+      "slug": "from-soup-to-nuts-the-best-recipes-for-winter",
+      "locale": "en",
+      "title": "From Soup to Nuts - The Best Recipes for Winter",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When the temperature drops, and the leaves fall from the trees, we know that one thing is coming: winter. It\\u2019s a bleak time of year that can be difficult to get through. However, there are some upsides to it, too. For instance, you can drink hot chocolate and eat basket-fulls of Christmas cookies without feeling guilty about it. There are also some wonderful recipes for winter that you should definitely add to your recipe book. From rich sauces and hearty stews to sweet treats and hot drinks, there are so many things you can do with ingredients that are perfect for the colder months. Here is our list of the very best recipes for winter.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/need-some-recipe-inspiration-try-these.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMKy3MKy3MKy2sKy2sGx2cOw0cWuzM2ss9yge9SgjQDKveHKveHIud65qbzappXqkU/oiEbRr7jHt9zFtt0AzcDluazAo5SNjn5kj3hbz59216KIzL3iy7zhy7zhAMm43sKy09rKy+vhzOfXuujdw9m2oMu33Mm12cq23ADErtXDrdLvyZ3js33x5M/u2b7bbRzFo7zBqc3CqtAAvaTKv5/B0WgT6oUa6bSB03881mkTv5KfvKDBvKHGALqfw7eYupxVLZlYN5tbSphIMbRdJrOMnrmZs7qcuwC6hIu0kq5jIzRkOlNlNlxfMkpkOD6lgJGykKm3mbcAtI+prI+rrWtCoWtOjlNHi082lFc3pYCRuo6W1YtbALaYtLCRs5JufJFkVpRjUI5fTYtkaKyMqbWCg8B3W5lUvSrLFMOQAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Oct 30 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "cooking",
+      "slug": "need-some-recipe-inspiration-try-these",
+      "locale": "en",
+      "title": "Need Some Recipe Inspiration? Try These",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Time to fire up that stove again, because this time it\\u2019s for cooking! The Great British Bake Off is back with a brand new batch of amateur bakers ready to tackle tricky challenges. Instead of the usual judges, this time we have Prue, Noel and Sandi testing their skills in the kitchen.\nFor those who aren\\u2019t familiar with the show, The Great British Bake Off is a contest where amateur bakers are tested on their baking skills. Contestants are asked to make pastry-based dishes that often feature unusual or difficult techniques, and are judged on appearance, taste and originality. In each episode they face two different challenges: a Signature Bake where they must create something using a specific ingredient or theme as inspiration; and a Technical Challenge which might see them making croquembouche or another difficult dish.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/is-organic-really-worth-the-extra-cost.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APn7/PPi2vicbtyQXunk47GGd+CmWOmcVuSmWee0XAC8tLeWbG+EQjCBTlZjPEJoOkmLTU2zYVLrpWvxm10ArYNPrJF/f0ZJi0RIYzc9cjo4azdCXTVAg0Ap0nY4AKt2Qrp7Sk8TCohMQ3VGT2IuLtmPauKtXdB8UI9JLACxcTDIawhcLiBaSVwzR3CYRT/yno/KiEPvkmS0WzQA9vTTiWI6L1mmXHOrPWGpcDA135Gi3mpauFRDczMZAGk4PVseGnqKorGnn0hLY3ZzeKhhUpYwKoo/MLOOaQCVT1mXYV/77N37wZDIlGb+/ff88s1zXEGgh2384r0AayMnhV5i7cCyz4VhVi0g6unl/OTFxJlqaz0x8cCaAF4oL3c8SWo+TVAoLHI1PlBFRK+Qf3pHPUgeI4ROV5zakafn5Et2AAAAAElFTkSuQmCC",
+      "createdAt": "Mon Oct 04 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "cooking",
+      "slug": "is-organic-really-worth-the-extra-cost",
+      "locale": "en",
+      "title": "Is Organic Really Worth the Extra Cost?",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You can\\u2019t open a magazine or social media feed these days without seeing something about the organic food movement. In fact, the organic food market is growing faster than any other segment of the food industry. According to the Organic Trade Association, sales of organic foods increased by almost 10% in 2017 alone. And given that more and more consumers are becoming aware of what they\\u2019re eating and where it comes from, that isn\\u2019t going to change anytime soon. Which begs the question: Are all those new organic options worth it? Do they really taste better than conventional alternatives? Are they healthier for you? And most importantly, is the cost worth it?\nIf you read through all the information on different types of organic foods and their benefits, you might be feeling a little overwhelmed right now. That\\u2019s totally normal! But don\\u2019t fret\\u2014we have you covered with everything you need to know about whether or not organic is worth its hefty price tag.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrc": "/articles/3-recipes-for-homemade-bread-thats-better-than-store-bought.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALKuq7m1sry4tb25tr25trq0ssK+vcbEw8rIxszKywCgmpOMh32lnZSJfGyNbklwUCmdiXe+ua+cnpTRzsYAX1JCdG1falpChWlHeksdlFsjglMm7tzA3NnOzM3GAFJFM2RdTZeFabWjhZ+BXrN8OsyNOd/Iq+3m2LKpnACUjoBdUkKcimu5pYfYx6+/o4vZpWftzp/y3cSqgVQAoZqNfHFgk39huqOG38y17N/N8+DJ5KNl6qZpkGk9AH19b6yllYp+cKCJb8mkf9Ske+i7j9afaGxNKmNKLAChnI6aknu3uK+roZd4UC6TXS+TXSuKWy6BVyp+VSgAmpqOgX1sysW5ysfBgnNjdVIwjFsqkF0qkWAup3U/AJeWjbe3rI+Ler2+tcfDvrqyq5KCc3hYOpZpOtK0nI71qkwRa8IPAAAAAElFTkSuQmCC",
+      "createdAt": "Fri May 13 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "cooking",
+      "slug": "3-recipes-for-homemade-bread-thats-better-than-store-bought",
+      "locale": "en",
+      "title": "3 Recipes for Homemade Bread That's Better than Store-Bought",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Homemade bread is one of life's greatest pleasures. The smell, the warmth, and the taste of freshly baked bread is unparalleled. It's also one of life's most challenging tasks. Baking your own bread can be tricky and time-consuming, which is why many people turn to store-bought loaves instead. But homemade bread doesn\\u2019t have to be a once-in-a-blue moon treat. If you learn how to make your own homemade version of some classic recipes, it will become a staple in your home and not something that you avoid because it\\u2019s too much work. Making homemade bread at home is actually not as scary as it sounds! Once you know what type of ingredients are needed and get used to measuring out specific quantities, baking your own cheesy artisan loaves becomes second nature. Here are 3 different types of homemade bread that are better than store-best:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
       "imageSrc": "/articles/decadent-desserts-that-wont-derail-your-diets.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJaACdAYt925ExAo/4AD2v/ws6d/3h8ii87V5nfc/ljVdTwMLBbFmpKLcof/FZ81PfeeSrwKpB3r9j7Id/kZdCOv5zF9PSVeZwbw7qoQCLGeJVL+3zJzVWn8+6KlCfw063ecfWsbbn74t6J+vpH4amwAAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AH1VM0tdcGWn7Haz8Gep7m+t7mys75ivy7uWftDU1QB/VzVRWWloqu9ZouljqeNyr+hjp+56ptfNqI729vYAdE4wR0pVZabil8vnm8/pmM3mcq7TaqPdx6GD+Pj2AGhGK2tkZpXJ5YDB4YXC4qXH2ZXJ5W2Vtcmej/Xu7ACEZVSSio1wstJ/kpeKfW2Ub1SlzudWgpqifXO+oZkAsZOLspqVebfUgJienqOfpa6tstPoYIOann5y5M3BALKRfsXCxovG5JHI467M2Z61wq7R6E6BpodwZenSxQC9mYiTsdeJvOGYzeij0eqfzeeArMRDhcF9a2jlzLsAwZ+PRILBQZHhVJnYZKfZVp7YXaLmNojacGJi4MGuAIZzbBUeLSc5U0hkhj1aex0yTUddemVxiJN2ZuzRwXUbtogct/zYAAAAAElFTkSuQmCC",
       "createdAt": "Wed Sep 30 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "cooking",
       "slug": "decadent-desserts-that-wont-derail-your-diets",
       "locale": "en",
@@ -35,100 +95,55 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/meal-prepping-on-a-budget-tips-and-tricks.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQAgCdASoKAAoAAUAmJbACdAEQ/bOS4vg4AP74v1wk3rgrPmszHF5AwAyqkTspaFO3OICEEPqv8ovhSaOxhlMZHjLh77v+MOomutG4ZDznWAs99Nvk+Dye9NbPqECiWD+dHnWzvynchbZXyH09Axg8v/hob70d+jPOmH42UzPyi+T1AxJGrpw27tfAAA==",
-      "createdAt": "Wed Aug 17 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMSYSah8OaF/OZODa7ihkrqbhsusm9aad8Swg+iQYwC1fxnBiyS0kUarqJ62nY+zlH/DsZ6LZC+0gU7IbU4AXUUvT0lGe5GlsMbXx764pKWgpJuKeV02iGAnjmMmAGeJYnaOkWqCiHtrTJ92IqeTZcugaruOXotrQ6mASQA1VS18n3x3jlCQl3vfwpa2kWe3kmjXtYrDnW2viVsAcnl3SVpHXm5Eem9On3NJj2dAfFs4rolf3sKaf29XAMi3r4KIjWtzdWlqY0I6MUA1J0g5J4ZiPq2dgHSJlADbsX3W1dqAho1kbHB3e3xdX15BSEpIUFRjdH5whJYA1at62sSy2+DqgomUX2t1e4mSb4SRZHyPg5uwz9zqALmKZcyjdtzRzNni74aPnFBgcVpvhZyxyNjk8uPt9wd5ntDFrUD/AAAAAElFTkSuQmCC",
+      "createdAt": "Fri Feb 14 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "cooking",
-      "slug": "meal-prepping-on-a-budget-tips-and-tricks",
+      "slug": "5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians",
       "locale": "en",
-      "title": "Meal Prepping on a Budget- Tips and Tricks",
+      "title": "5 Ways to Cook with Tofu - For Meat-Eaters and Vegetarians",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Meal prep is an essential part of staying on track with healthy eating and weight loss goals. It requires a time commitment, but it\\u2019s well worth it in the long run!\nAny time you make a conscious decision to spend your time and energy making food instead of buying it from a fast food joint, you\\u2019re doing something positive for your future. Meal prep allows us to take control over what we eat so that we\\u2019re not at the mercy of vending machines, drive-thru windows, or delivery options.\nMeal prep doesn\\u2019t have to be expensive or time-consuming. With some planning and a few simple tricks, you can save money while also streamlining your food preparation routine.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Regardless of your diet, tofu can be a versatile addition to your meal plan. It\\u2019s also one of the most misunderstood foods. Everyone knows what cheese, fish, and chicken remind us of\\u2014which is why for many people, tofu is an odd, almost alien food.\nThat said, tofu offers a number of benefits: it\\u2019s high in protein and low in calories and saturated fat. In addition, depending on how you prepare it, tofu has no taste or texture that might put off anyone who\\u2019s wary of the stuff.\nFor those who don\\u2019t eat much meat or fish but still want to enjoy the flavors they bring to a meal, cooking with tofu is an excellent idea. Here are five ways you can use this versatile bean as a primary ingredient in your next home-cooked meal\\u2026`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/rising-popularity-of-meatless-mondays.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoKAAoAAUAmJbACdLoAAvyx2UttwAD2vXXkWhMa0v7lmaj87Fv/MsiK0GLICc00Jmcp53fa71ux//TP5rbSfwG6hnG+qWrsmanX/1cPbebw3j/+cxp3Uf90/+Pd8Srv/paGo4e5n/6gz9jgAAA=",
-      "createdAt": "Tue Jun 21 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/5-easy-tips-for-making-better-pasta-dishes.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACgbFKx5Zu7Bsf39/f7+/vrl2o1xWdCxnPv68/z58wDIoXfIk2r46df9/f3+/v79/f399vT8+fP9/fv9+/cAppWSya+c/vr0/e/U+9yi+siO+tas/vn2/fbp/f37AHxxcO3q7f379/SzZ9GYUNy0ZPjEf/rizP78++/n4QCoo7P7+Pvy3s7jfDiVUyfFay72tmf549L+/v7x4tkAlpSi4tzi7ZxqyVoptkgW2Gsj9rpm/OvX/f379+znALOuu4Jua/nx+e7GptiHTuSfYPnat/39/ffr4fPk3gC3qrNPLR2ceXDt4eX89Pn89/v58vLx18Dr0bzz6OkA693kvKakaTwnYy4Xj1VAsG1I1JZi6sal7tbB+OfUAPDh6fHf59/KzMOeiMaTbtirf+XFqfLm3fXMsem7XZ9J5HW+u4uHAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Feb 25 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "cooking",
-      "slug": "rising-popularity-of-meatless-mondays",
+      "slug": "5-easy-tips-for-making-better-pasta-dishes",
       "locale": "en",
-      "title": "Rising Popularity of Meatless Mondays",
+      "title": "5 Easy Tips for Making Better Pasta Dishes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Millennials and Gen Zers have been driving the demand for plant-based foods. More consumers today are adopting a lifestyle that focuses on balanced and healthy diets instead of restrictive fad diets.\nIn response to these changing preferences, businesses everywhere have started offering more vegetarian options. In fact, even fast food chains like McDonald\\u2019s and Burger King have started adding meatless items to their menus in an effort to cater to this growing market segment. And with good reason. Millennials alone account for nearly one-third of the workforce \\u2014 a massive presence that will only continue to grow in coming years.\nThis rise in popularity of meatless Mondays is not surprising given how many people now choose to eat less meat, fish, or any animal products on Tuesdays, Wednesdays, Thursdays, Fridays or Saturdays.\nIf you\\u2019re looking for ways to reduce your red meat intake without sacrificing taste or variety in your diet, consider instituting Meatless Mondays at your place of business as well as at home.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to Italian food, pasta is perhaps one of the most well-known dishes from that region. Pasta and its many different variations are loved all over the world, but they\\u2019re not always served as ideally as they could be. Sometimes a simple pasta dish can end up being more disappointing than it should be, mostly because the people making it don\\u2019t know how to season it properly or add the right ingredients.\nThis doesn\\u2019t mean you shouldn\\u2019t make pasta at home again ever again. In fact, with the right tips and tricks, you can make amazing pasta dishes in your own kitchen once again! The key here is to experiment and explore different alternatives for creating that perfect pasta dish you\\u2019ve been craving for so long. Here are some simple tips that will help you achieve exactly that:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/what-are-fermented-foods-and-why-you-should-start-eating-them.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwAgCdASoKAAoAAUAmJZgCdAYvXbHl+lpAQAD+7R7sP0cSQYTJprm7T/Ga04EIOcDokaOlNb13n8y//eRf5/hhyXezIe9YQ5vJm3tM22f6oewN2D6v64/0IDxlXx5heFhZb6Zkvh6lZxjxlMZDkRR47p399zvBuAD7BH5+q68Ysn/+b+ymTrvuwBQx3gOdggAAAA==",
-      "createdAt": "Sat Mar 19 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/40-easy-crockpot-dinners-for-busy-weeknights.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMK3tMexncGZdMCwpciNVslwKIVOJdjPzMGZdJJ3VwDAooeoYSucWyqudUvHk2XSaByeWCmuloFxZTWQfVsAvqePr3JCl2IupYVpytTc3c/DwsLEsauksoNVqHRIAIGQfcvDvaOOf6qlpNOnf8GBScSsmdDT2cnP1Nzk6ADP19u+wseqpJ/hx668cC65hU2naDne4OKjop7Gp4YAwJhozrqms7rD2MzAvnY4t3pBpXVO2tzekY6IxJ91AMGLS8meYrWzsbG/zdbOxcmvmtHNyrmdh6aZkMq/rgCsgUnXu4myqqGckImhflyelo+thWOebTeNaTzM0NEAzK57wqNym5qdilw3i14ygGdJjnpcmmM4lmxKvcC9AMrEu7C7yYCEjLCooqB5W7q2s8/W38GrnLKppcnR1QYitmZNpmsdAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Oct 21 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "cooking",
-      "slug": "what-are-fermented-foods-and-why-you-should-start-eating-them",
+      "slug": "40-easy-crockpot-dinners-for-busy-weeknights",
       "locale": "en",
-      "title": "What Are Fermented Foods & Why You Should Start Eating Them",
+      "title": "40 Easy Crockpot Dinners for Busy Weeknights",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Fermented foods are having a moment. Everywhere you look, you see another article about the benefits of these slightly strange-sounding foods and the gut bacteria they feed. They\\u2019re the new kale, you might say. And we wouldn\\u2019t blame you if you thought it was all a little bit weird and gross at first. After all, let\\u2019s face it: Fermented foods are rather bizarre when you think about them for long enough! But as with most things, looks can be deceiving. It turns out that fermented foods are actually incredibly good for us \\u2013 so much so that nutritionists have been recommending them as part of a healthy diet for years now. In this article, we\\u2019ll take a look at what exactly fermented foods are, why they\\u2019re so good for us and how to incorporate them into your diet.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/make-ahead-freezer-meals-for-busy-families.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAQCdASoKAAoAAUAmJbACdAD0SCKDc+wA/rhEabtIVx64ElfX+9v6vzlvynKI//+vrqAYVCrDNfTyfvBH//IWA7wO4iALiPkTb/1+JoQvVLwsHqRnleKd7QIoQgbcR5qn6KlhbRpibAFxf7AP5VZ6cHCGyU5XntmwpB9yEUWoAAAA",
-      "createdAt": "Fri Sep 10 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "make-ahead-freezer-meals-for-busy-families",
-      "locale": "en",
-      "title": "Make Ahead Freezer Meals for Busy Families",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The idea of making ahead freezer meals is genius. It\\u2019s the perfect solution for busy, hectic days when you just cannot find the time to cook a decent meal for your family. These fast and furious days happen more often than not, and it feels like no matter how much time we have to plan or prep our meals, life always gets in the way.\nIt\\u2019s not uncommon to come home after a long day at work, pick up your kid from after-school activities, rush them both inside so you can drive them somewhere else, then back home again just in time for dinner \\u2014 if you can make it before bedtime!\nLuckily there are ways to make ahead freezer meals that are simple and stress-free. You don\\u2019t have to feel like a failure every day as a parent if you take some time now to prepare these dishes.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/quick-weeknight-pasta-recipes.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAACwAgCdASoKAAoAAUAmJaACdLoAEIgYorB8B5qO/yAAzjmqxZSC4SLTFmgUmZqtxCVk9OQ/KqoNqzuDOpcz8VF5ODfr4s1LS/TFzXpfRb0cc+tn5v2R3KwZ60l5iXf/7eJFP4NCn6koKuSo/6JuMWhZOBYce4inP9gS2a788mPCSdZfi/jb9ePRzHIVcR+7g89etwAA",
-      "createdAt": "Sat Aug 15 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "quick-weeknight-pasta-recipes",
-      "locale": "en",
-      "title": "Quick Weeknight Pasta Recipes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Pasta is a perfect midweek solution for busy home cooks. It\\u2019s cheap, it\\u2019s fast to cook, and it\\u2019s so easy to dress up with bold flavors and interesting sauces.\nEven when time is limited and stress from work or school is high, put your trust in pasta! There are so many ways to make quick pasta recipes that will take you no more than 30 minutes from start to finish.\nTo help you out, we\\u2019ve listed some of our favorite quick pasta recipes here \\u2013 along with tips on how to streamline your process even further. We hope this guide will turn you into an expert at making fast pasta dishes that everyone in the house will love.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/breakfast-ideas-beyond-cereal-oatmeal.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQAgCdASoKAAoAAUAmJQBOgnAAXvW+ev8gAP63DS69EXcmuIZSf4ZQeflbBqGVZrxWYvdaljRuyAe86zufW2kskGvuYGgV7TfdDYtq/q/+dqKlep2PxTbGKaz35M+lc/0dVTvclQdDt3PDZI+oITbiKyH85W+ImbwEgxdZ4N0HPu/gzpAAAA==",
-      "createdAt": "Tue Sep 06 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "breakfast-ideas-beyond-cereal-oatmeal",
-      "locale": "en",
-      "title": "Breakfast Ideas beyond Cereal + Oatmeal",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re young, you don\\u2019t really think about how much time you spend on food. You just eat because it\\u2019s there and because your stomach is rumbling. But, as you get older and priorities change, the way you see food changes too. Breakfast becomes a more important meal of the day since it\\u2019s the first one of the day.\nLet\\u2019s be real: Most people think about breakfast as cereal or oatmeal as their go-to meal. Why? Because these are easy to prepare and serve when we rush out of the house to catch our bus or school shuttle in the morning. But there are other ways to eat a good breakfast that won\\u2019t take up too much of your time or space in the kitchen. Here are some ideas for eating a healthy breakfast every day that doesn\\u2019t involve cereal or oatmeal\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that January is the busiest time of year for many people? It\\u2019s true! Between holiday bills, resolutions and general stress from the end of a busy year, everyone is scrambling to get organized and start the new year off right.\nCrockpots are great tools for getting dinner on the table without spending a lot of time thinking about it. Especially during peak busy season, having an easy way to cook delicious home-cooked meals at home can make all the difference in your quality of life. With these simple crockpot recipes, you don\\u2019t need to spend hours in the kitchen to have wholesome dinners ready when you get home from work or school.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
       "imageSrc": "/articles/nutrient-dense-superfoods-that-improve-overall-health.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQAgCdASoKAAoAAUAmJbACdAEU7/h7HqUAAP7GB9Vv1tfyuZvP3nCA1+Test77EweDvi0aDvrLaSgSQ+2XHGCyfukv5HdR3q/7ypxqSS3X4/qXP9yFdzdrmP1kVNjo+OOvLHizPPyt1PcpaUlBRCgyBc6SZj1fLZ+3CDIfe98eKXuBdkBGdGV0/P3y6i/DlO34+0ngAAA=",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHw7PbEtfPRzbe8vKOoqd/s1fb7+ff19vHz5+715QDbxajJeW3dfXtkQEhbVj+Sol2ehHH3o4npx4yjp3EAh25QgVA66Xt+8JaEsLaGZ5c3nItl3HxmomdLZIBFAH1rPZReTLJrasWZmsrEv5+eiKqmoEl5NXOoUGmoSgCIgVtdRDWOcGhjYWRvbG9gXV6yqZFzo0pajzmDtE0AlnhdUiQogl9XhXlttamUva2c3My018SrcUg6Xz4sAN2JaHtvY3htXm1kV+/Vp6GUhtHAqs/FnX1hPYA8PACtf3ZQRj5vXkrt6uLAi1mudEaldFypqFmwy2CYdVEAbTMppp2Ap76QyNGpxpZivo1c3E9YzlNUtY1084JxAMqroe7x7sPfsYWza+Tp1erWwu6hreqeqPPx7/KjojKercDo5sa+AAAAAElFTkSuQmCC",
       "createdAt": "Sat Apr 30 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "cooking",
       "slug": "nutrient-dense-superfoods-that-improve-overall-health",
       "locale": "en",
@@ -140,31 +155,16 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/how-to-make-the-perfect-grilled-cheese-sandwich.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAACQAgCdASoKAAoAAUAmJbACdLoA4AADleg3NJ4A8AD2POhcXKf70P7gnAhuxpVuTbltAH+s/WGLBY++AdPwOaso/W4o++Ch23asEH6hYU7krH177tNUzRkV8le/lTrCl/7PNW311yuv/sbzaDBJ9/YwwHlU1/gaE6OwAAAA",
-      "createdAt": "Wed Sep 16 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-best-foods-to-eat-for-weight-loss.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADaRuamZqC6Y0ra20TOh15qmpKSJWZF/ZQl2rxthcgCirrPMiIa2kbCgm49vlKqgwcYehcalR2RFMUwySjIA9fn8qZp71LLLa6jKgZ+DTpmZVYyVoUFvR0hsLVZIAIyy0iWg1Das20Kt5xaf5QOh7Qqh5DWVsGuTiF98ZwBLgZgdpeIisvHl6/LT2ujI2OklquoOnt+bhm3GiG0AZ5JmK4mgRr3w6vD33uTt8vf6DafuRZ2tbI2mqoV/AJKNS26cVQak6g+y+D7A+F/H9gKo8likqr11iXWNogCVoWJzlzc5l64RoeVvmLgXiMYkmcpBma46g7hMhJYAiKNvm7lvcZeBQHyFfnd3dZScaX9naZeYmp6Gl4ZsAH+taX2zf7TAo8bQuq+Mf5vCvlBxaHO/2NLFlVyYrYKvqKuXd4w0AAAAAElFTkSuQmCC",
+      "createdAt": "Thu Jun 30 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "cooking",
-      "slug": "how-to-make-the-perfect-grilled-cheese-sandwich",
+      "slug": "the-best-foods-to-eat-for-weight-loss",
       "locale": "en",
-      "title": "How to Make the Perfect Grilled Cheese Sandwich",
+      "title": "The Best Foods to Eat for Weight Loss",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Grilled cheese is one of the most comforting and delicious sandwiches you can eat. It's universally loved, and for good reason: It's warm, gooey, and perfect for chilly days or after school snacks.\nThis grilled cheese also happens to be the best grilled cheese sandwich you'll ever have. With a few simple tips, you can take this classic sandwich from bland to brilliant in just a few steps.\nWe all know that grilled cheese can be made in different ways with different ingredients. But there is more than one way to prepare it so that it's not soggy or too dry or burnt on the outside but not quite melted enough on the inside.\nWith these tips and tricks, your next grilled cheese will be perfect!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/10-ways-to-use-up-leftover-cooked-rice.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoKAAoAAUAmJZwCdIIjGZMTyWtb6wAA/u0rlt08YlGH5LNr5/pvE5F5X9Md3rfnFn+FQyWPTrvW/La/8zVQR1LHm05rPf+vtPjfv2IiTq9s7r3Gvn8gOpYzRXpi6wvWK8BI9tRwJLutSUJk2FY4AAAA",
-      "createdAt": "Thu Apr 07 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "cooking",
-      "slug": "10-ways-to-use-up-leftover-cooked-rice",
-      "locale": "en",
-      "title": "10 Ways to Use up Leftover Cooked Rice",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you\\u2019ve cooked a batch of rice and there\\u2019s just a little bit left, it can be disappointing. You might find yourself thinking there is no way to use that up and it will end up going bad before you find another use for it. However, this isn\\u2019t the case. There are lots of ways to use up leftover cooked rice that are both delicious and won\\u2019t see it go to waste. In fact, you might find yourself looking forward to cooking up a second batch so you can have some leftovers again! Luckily, these ideas will help you make the most of your leftover rice.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You want to lose weight. You want to eat healthier, but all those diet articles and fad diets seem like a lot of confusing information. Which diet is best? What kind of foods should you eat for weight loss? Do carbohydrates make you fat? Will cutting carbs help you lose weight faster? There seems to be no shortage of information about what not to eat if you want to lose weight fast. But what if we told you that almost everything you think you know about food is wrong?\nCrazy, right? Well, it might come as a surprise to learn that the best foods for weight loss are actually unprocessed natural foods\\u2014not magical chemicals and supplements. Eating more fruits, vegetables, whole grains, lean proteins and healthy fats will help you lose weight faster than any fad diet or crash diet could ever dream of accomplishing. No matter which diet you choose, these are the best foods for weight loss.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

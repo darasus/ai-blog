@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/basic-java-syntax.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCdAEOO/OdAAD+/KQNkbv+XBr5lUSnWZef9yuaQ//PyA2NH6STUfxG8mLPO3LPOyHEGiQ5/6+8ud4yt3ttDZ7Bp+MoTmXSeX1XRLiNfuEy8E6y9uGAAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA3klEQVQYlX3MvWvCQBjH8fy5unbIeIuNk1iEZCj1BmNOShupHAp9AcFBRIckuohE2xBBq1EMkkjuJaAiKLf4HZ8Pv0dK7yalaRpbFqf0eqL/S4ELAOiwXCo+PWSyvu9XK7osyzW9kn9UpCAIVFWFECKEAACu62qaZhiGaZoY4/P60qH+Fv18r6r6roWF55fCQW/+ihZNvMINzrjAnBNmI9ppJu+IfGJmd0WmSbSwt0574/T34xHxvgRmk0moKGE+F3/U4zKMXp6T0fDGdOYSx6L+H9msiecRx2K/0xMfAacGAqAJn5TQAAAAAElFTkSuQmCC",
   "createdAt": "2020-10-02T07:09:01.341Z",
-  "updatedAt": "2022-10-02T10:58:23.634Z",
+  "updatedAt": "2022-10-11T17:15:37.141Z",
   "slug": "sintaxis-basica-de-java",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,70 +20,25 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-hibernate-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
-      "createdAt": "Tue Nov 24 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "creacion-de-una-aplicacion-de-hibernate",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXLW0vCYADG8ffbRRQdtinVhV0IhWXiyuywvXsPsyi6SQqjm7qVkpKKMDrIMqdjQmpBlmFW2hQrUZnXMYKH/82PB6xLqwJnIyN2YreJLCswnMAwK6ODGw7G1dMLri7cmjKr3/3Pq6u8rvJaik+r3mTCA56q+OiWniSokqVRBR/ekOsMPlfJWYo0TAiMDooqNFNEp0mLI3GqZHFMQ1EFW1w3kVYgsTRJ5nHRQPdFnCuhh3dU70gWN0yYeSHhSxw6IK91KRKnu8dkbV9umNDixw+cf8O1Nnyuop+uWKhI313rVzNFoyOAmC4tbcmLwcDCpgx3ZBSShW0a2CP+IMmWJVD+FcvN5c+m+NUWjZbVWhvmSrDSEiotAcy5Wd8M53dz89Osz8Xxk8Me59DU+MCEo9851vcHjTG9mheG1W8AAAAASUVORK5CYII=",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Creación De Una Aplicación De Hibernate",
+      "title": "Cómo Hacer Sitios Web Con JavaScript: Una Guía Paso a Paso Para Aprender JavaScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
-      "createdAt": "Thu May 28 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-utilizar-los-recursos-de-codificacion-en-linea",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Cómo Utilizar Los Recursos De Codificación En Línea",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo cada vez m\\xE1s digital, la demanda de codificadores calificados solo est\\xE1 creciendo. Ahora hay m\\xE1s recursos de codificaci\\xF3n que nunca; sin embargo, esto puede dificultar saber d\\xF3nde comenzar a aprender y desarrollar sus habilidades. Si est\\xE1 interesado en la codificaci\\xF3n pero no est\\xE1 seguro de por d\\xF3nde empezar, no est\\xE1 solo. Muchas personas sienten lo mismo que usted acerca de la codificaci\\xF3n. Afortunadamente, hay muchos recursos excelentes para comenzar con la codificaci\\xF3n y continuar aprendiendo lo que necesita saber.\nEn estos d\\xEDas, no se necesita mucho dinero ni tiempo para aprender a codificar en l\\xEDnea, ya sea en casa o como parte de un programa de educaci\\xF3n formal. Puedes encontrar tutoriales gratuitos en sitios web como Codecademy o Treehouse, o completar cursos en plataformas como Udemy o Alison. Si bien puede parecer abrumador con tantas opciones diferentes disponibles y sin una sola respuesta correcta sobre cu\\xE1l es mejor para usted personalmente, la verdad es que todos estos recursos son excelentes de diferentes maneras.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/introduction-to-hibernate.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
-      "createdAt": "Mon May 31 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "introduccion-a-hibernate",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Introducción a Hibernate",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La alta disponibilidad de servicios es un factor clave de \\xE9xito para las empresas y los proveedores de servicios. En el mundo actual, hay una mayor penetraci\\xF3n de dispositivos m\\xF3viles y otros dispositivos de usuarios finales que necesitan servicios siempre activos. Por lo tanto, se vuelve esencial para las empresas implementar sistemas que puedan manejar interrupciones frecuentes y que est\\xE9n siempre disponibles.\nEste blog es el primer art\\xEDculo de nuestra serie Hibernate donde cubriremos todos los conceptos relacionados con Hibernate. Aqu\\xED, comenzaremos por comprender \\xBFQu\\xE9 es Hibernate? \\xBFEn qu\\xE9 se diferencia de otras API? Y conozca las diferentes versiones de Hibernate. Tambi\\xE9n veremos una introducci\\xF3n a la arquitectura de Hibernate y sus componentes principales, como sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-al-lenguaje-para-la-programacion-de-bases-de-datos",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Ir Al Lenguaje Para La Programación De Bases De Datos",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hay varios lenguajes de programaci\\xF3n disponibles para crear bases de datos. Puede crear una base de datos usando formatos simples basados en archivos o puede usar opciones m\\xE1s avanzadas, como sistemas de administraci\\xF3n de bases de datos orientados a objetos (ODBMS) o sistemas de administraci\\xF3n de bases de datos gr\\xE1ficas. Seg\\xFAn el tipo de base de datos que desee crear y sus necesidades espec\\xEDficas, es probable que haya un lenguaje de programaci\\xF3n ideal para usted.\nEl lenguaje de programaci\\xF3n Go es una opci\\xF3n que vale la pena explorar si est\\xE1 buscando un excelente lenguaje de programaci\\xF3n de prop\\xF3sito general pero con un enfoque especial en la programaci\\xF3n de bases de datos. Muchos programadores valoran la sintaxis simple de Go, su soporte integrado especial para cadenas y sus poderosas primitivas de concurrencia integradas. Si desea obtener m\\xE1s informaci\\xF3n sobre este lenguaje de programaci\\xF3n y si es la opci\\xF3n correcta para crear bases de datos, contin\\xFAe leyendo para descubrir todo lo que necesita saber sobre Go y las bases de datos.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 interesado en la programaci\\xF3n y el desarrollo de sitios web, probablemente haya o\\xEDdo hablar de JavaScript y su papel en la creaci\\xF3n de sitios web. pero como funciona? \\xBFC\\xF3mo puedes aprender a usarlo? Este art\\xEDculo le presentar\\xE1 JavaScript como lenguaje de codificaci\\xF3n y lo guiar\\xE1 a trav\\xE9s del proceso de aprendizaje de esta importante habilidad.\nYa sea que est\\xE9 buscando una nueva carrera, desee crear su cartera personal o simplemente experimentar con nuevas habilidades, aprender a codificar es una aventura interesante y gratificante. Hay muchos lenguajes de programaci\\xF3n diferentes que puedes aprender, pero uno de los m\\xE1s accesibles para los principiantes es JavaScript.\nSi est\\xE1 leyendo este art\\xEDculo, significa que ya ha dado el primer paso para dominar este lenguaje de codificaci\\xF3n; Sabes que hay algo llamado JavaScript y ahora quieres saber m\\xE1s al respecto. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/python-an-overview.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALWgbKSYj4JoYHFeVY5yZ6OGdaeIdXBeWaaIe5yAdQCgjVjYvXKrjmp4YlqKcWWQdWeqh3NyYVmhg3atjYEAtp1Tjn1KmodTyrN7wql7tpx5qodzb11YnYBzsY+BAEE4KbCXYI17RoJzT8S1lbalgsWtfrGee6OIdpF3cABEPDQuKyVPRTuijG+vmXq4n3WrlWiomXnHs3i+qHQATEMzOjInTUVDJyQpHh0iRj82SkE2XE84noRPsJVcAFlNOFFGNWJWSlZLPVlOPWJSQWRVQ2dbRIFvUXlmQwAZFBg8MyhRRjNfUj5eUTw4MShDOi87Myw2Lio/NS0AGhUbJR8fKCEhFRIYHxocMCgkPjMtKCAjXEw9d2ZRABgSGxoVGx8aHh4ZHUw/MX9mSI11UpB4VVVHOYJrUEqGcmCuBDfgAAAAAElFTkSuQmCC",
       "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "python-una-descripcion-general",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -95,76 +50,121 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoKAAoAAUAmJZwAD5AwhczLy9AZ4AAA/vb/6Y9PfxoP3X9HoI8Ceg5h7lZpD8R9cz8mb+//1p4pBTqLBvp+bvp0qEWK/imDV6A/xmjNys7umuX+j6V77j/4L++LzISh4eOm/H/wStucnqSqcAaWcEusX9CxLObOlAAAAA==",
-      "createdAt": "Fri Dec 25 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "la-diferencia-entre-javascript-y-typescript",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlU3MvWqDUBwFcJ9KMvoAkgfIZvYMTq7i5CikBO4gOJdmTLljh6qLIH41XK2EDFZrG2gq1OvH/1Jus/Rwtt/hCADAGGsu7wAwz8P8c4F/EQAgO2Xbh7uDd2he7unpkbfc03I/1D5nAHiOvOg16r/fho94/Eym7jx9lVN35swYAwCM8fF4vK0ppQghy7IExtg4jgghURQJITc2DGO32/m+L0iShDFWFGW1Wl2vV03T0jSVZdk0TVVV+fk8zYvFYrlcFkVBKQUAXddt247jmHNd1+v1erPZBEFwO+/73rIswzA4U0qzLKuqKs/zoijSNE2SJAiCrus4t23rOA4hxHXdp794nheGYdM0v2j+8F5aEBuFAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-concurrente",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "La Diferencia Entre JavaScript Y TypeScript",
+      "title": "Ir Al Lenguaje Para La Programación Concurrente",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 confundido acerca de las diferencias entre JavaScript y TypeScript? \\xBFSabes cu\\xE1l de estos lenguajes de programaci\\xF3n es el adecuado para tu proyecto? Si es as\\xED, \\xA1sigue leyendo para obtener m\\xE1s informaci\\xF3n!\nEn esta publicaci\\xF3n de blog, repasaremos todo lo que necesita saber sobre TypeScript frente a JavaScript. Ambos lenguajes de programaci\\xF3n son populares en la industria del desarrollo de software. Sin embargo, tienen algunas diferencias sutiles pero importantes que los distinguen entre s\\xED.\nPero primero, antes de sumergirnos en los detalles de cada lenguaje de programaci\\xF3n, entendamos qu\\xE9 tienen en com\\xFAn.\nTanto JavaScript como TypeScript son lenguajes de programaci\\xF3n din\\xE1micos y orientados a objetos dise\\xF1ados para crear sitios web y otras aplicaciones interactivas. Ambos admiten la sintaxis de corchetes con punto y coma opcionales, as\\xED como operadores > para verificaci\\xF3n de tipos y declaraciones condicionales if-else. Ambos admiten variables, tipos de datos (cadena, booleano, n\\xFAmero) y llamadas a funciones con argumentos opcionales y valores de retorno.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 leyendo este art\\xEDculo, supongo que tiene algo de experiencia en programaci\\xF3n y est\\xE1 interesado en ampliar su conocimiento del lenguaje de programaci\\xF3n Go. Es posible que ya conozca otros lenguajes o tenga experiencia con la concurrencia, por lo que probablemente se est\\xE9 preguntando c\\xF3mo ayuda el lenguaje de programaci\\xF3n Go con la programaci\\xF3n concurrente.\nSi reci\\xE9n est\\xE1 comenzando con Go, puede sentirse como una curva de aprendizaje empinada si nunca antes ha usado sus funciones. Sin embargo, tan pronto como aprende sobre los canales y ve lo f\\xE1cil que es implementarlos, las cosas comienzan a tener mucho m\\xE1s sentido. La programaci\\xF3n concurrente es un tema extremadamente complejo que requiere una planificaci\\xF3n cuidadosa para evitar condiciones de carrera y puntos muertos. Afortunadamente, Go ofrece un conjunto de paquetes de biblioteca est\\xE1ndar para tareas simult\\xE1neas, de modo que los desarrolladores puedan concentrarse en escribir c\\xF3digo en lugar de reinventar la rueda cada vez que crean un nuevo proyecto. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 necesitamos programas concurrentes y qu\\xE9 tiene que ofrecer Go a este respecto.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-spring.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBuuYsoDooAA/tKOq5V/+Vh2Idh8D0hvcxmpvoiTzpcdPdTbBvzzHFjc8y1J/Ag0kEYwfFSV5PliwlkWw1pPfbeI3u+z548FId803Pu03VHAAA==",
-      "createdAt": "Wed Apr 01 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "introduccion-a-la-primavera",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/UlEQVQYlWM4duzYgQMH7oDB+fPnr169evLkyWvXrn348OHv378Mx48f37179/Hjx7dv37579+4TJ04cBIOHDx+CpP8igbWLL25ZdQ1ZhOH656dH396A87etvf7w3nsI+83HSwziu3KEd2QVXF16+8vLI0fuVmVun9x+5OPXu7efLll6QIah7PqKxlsbAk9N/Pv375SOo/Mmneqo2vfuzbfTt6quPZrF4HGi2+NEd9jZqbe/vJwx/URW+PqWsr0fPt+7+nD65lN2DIseHZl+b/frHx8h9u3deuvY/vsQ9pM3exjSL86Fu+va5Re7N91EcfnZ9/d//fmDLIQsDQAfJvhf6zIsDAAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "idioma-go-para-devops",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Introducción a La Primavera",
+      "title": "Idioma Go Para Devops",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'\\xBFBusca mejorar sus habilidades de desarrollo de software y aprender un nuevo marco? Si es as\\xED, est\\xE1s de suerte. En los \\xFAltimos a\\xF1os, ha habido una explosi\\xF3n de nuevos marcos de desarrollo de software que han hecho que la codificaci\\xF3n sea mucho m\\xE1s f\\xE1cil para los desarrolladores. Estos marcos se conocen como soluciones de software \"sin c\\xF3digo\" o \"de c\\xF3digo bajo\" porque requieren mucho menos c\\xF3digo para implementar que los m\\xE9todos de programaci\\xF3n m\\xE1s antiguos. Uno de esos marcos es Spring, que actualmente es una de las plataformas de soluciones empresariales ligeras m\\xE1s utilizadas disponibles en la actualidad. Aunque se lanz\\xF3 por primera vez hace casi 15 a\\xF1os, Spring contin\\xFAa expandiendo su funcionalidad con cada nueva versi\\xF3n. En esta publicaci\\xF3n de blog, cubriremos la introducci\\xF3n a Spring y lo ayudaremos a comprender lo que puede hacer por usted como desarrollador.'))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando pensamos en DevOps, pensamos en formas de hacer que las operaciones sean m\\xE1s s\\xF3lidas, eficientes y r\\xE1pidas. En t\\xE9rminos simples, queremos reducir el tiempo entre la escritura de un c\\xF3digo y su preparaci\\xF3n para la producci\\xF3n.\nA menudo vemos desarrolladores que escriben c\\xF3digos desordenados que son dif\\xEDciles de leer o comprender. Lo mismo ocurre con los ingenieros de operaciones a quienes les resulta dif\\xEDcil depurar diferentes errores en producci\\xF3n. Aqu\\xED es donde entra en juego el lenguaje Go.\nDesde su lanzamiento en 2009, Go ha ganado una inmensa popularidad entre los desarrolladores de software de todo el mundo, quienes incluso lo han denominado \"lo nuevo\". Fue desarrollado por Google como una alternativa a otros lenguajes que eran lentos y usaban mucha memoria en ese momento.\nSi es un desarrollador que desea implementar DevOps con la ayuda de Go, \\xA1este art\\xEDculo es para usted! Aqu\\xED encontrar\\xE1s todo lo que necesitas saber sobre Go y su uso en DevOps:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/working-with-files-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
-      "createdAt": "Thu Aug 11 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "trabajar-con-archivos-en-java",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlW2NMU7EMBBFzVG40db0XIViGzoaLoAoqBAUW7AS2gIUJUKyZKVIlCIpIke2J5HHY7MjIWJAW/DK+X/+E/wfKaUYIzMLpVTTNABwGl897Dc3z5e3T0JK2XUdANhfiOji/uNsW55fH4QxZp5nREwpMfPx88jML+/V3e7w+PomrLV5cBiGoiiUUrmX79/fp9YQAiJ6740xiCjGcSSinBGRtbau66qqyrKUUgoA0FqPK9M0AYBfMcZ47wUiNitt2/Z9vyxL3v9xxxidc1pr5xwAEFEI4U/3BVlMEkF7OcVmAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "creacion-de-una-aplicacion-de-hibernate",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Trabajar Con Archivos En Java",
+      "title": "Creación De Una Aplicación De Hibernate",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar con archivos es algo que los programadores de nivel de entrada no pueden hacer muy a menudo. No es la parte m\\xE1s emocionante del desarrollo de software, pero es importante. El sistema de archivos es la piedra angular de casi todos los programas que usa en su computadora. Trabajar con archivos en Java puede parecer un poco contradictorio al principio. Una vez que comprende qu\\xE9 lo hace diferente de otros lenguajes de programaci\\xF3n, se vuelve mucho m\\xE1s claro.\nTrabajar con archivos en Java implica crear, leer, actualizar y eliminar archivos. Los archivos se almacenan como cadenas o bytes. Si ha utilizado otros lenguajes de programaci\\xF3n antes, esto le resultar\\xE1 familiar. En Java, hay dos formas distintas de trabajar con archivos: secuencias est\\xE1ndar y la nueva clase \"Archivo\" introducida en la versi\\xF3n 1.1 del lenguaje. Este art\\xEDculo explica c\\xF3mo trabajar con archivos utilizando ambos m\\xE9todos y tambi\\xE9n aborda algunos temas relacionados, como etiquetas New>.../New> y archivos Jar (paquetes autoejecutables).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-trends.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
-      "createdAt": "Tue May 24 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "las-principales-tendencias-en-ingenieria-de-software",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "programacion-orientada-a-objetos-en-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Las Principales Tendencias En Ingeniería De Software",
+      "title": "Programación Orientada a Objetos En Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software tienen la tarea de encontrar soluciones a problemas complejos todos los d\\xEDas. La industria del software est\\xE1 en constante evoluci\\xF3n y los ingenieros deben mantenerse actualizados sobre las \\xFAltimas tendencias y tecnolog\\xEDas para mantener sus habilidades actualizadas y relevantes.\nLos ingenieros de software deben esperar ver una afluencia de nuevas tendencias de ingenier\\xEDa de software en el pr\\xF3ximo a\\xF1o. Los ingenieros deben estar preparados para adaptar sus habilidades y dominar nuevas t\\xE9cnicas a medida que el mundo del software contin\\xFAa cambiando r\\xE1pidamente. A medida que la tecnolog\\xEDa avanza a un ritmo acelerado, es importante que los ingenieros sean conscientes de s\\xED mismos y aprendan constantemente sobre nuevas formas de hacer las cosas para que puedan seguir proporcionando valor a trav\\xE9s de su trabajo.\nAqu\\xED hay algunas tendencias de ingenier\\xEDa de software que debe conocer en 2019 y m\\xE1s all\\xE1. Siga leyendo y prep\\xE1rese para un futuro lleno de oportunidades para quienes puedan mantenerse al d\\xEDa con estos cambios.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La programaci\\xF3n orientada a objetos es una forma de escribir c\\xF3digo que se enfoca en lo que hace el programa, y no solo en lo que sabe. Este art\\xEDculo cubre una descripci\\xF3n general de la programaci\\xF3n orientada a objetos en Java, as\\xED como sus ventajas y desventajas.\nSi est\\xE1 leyendo esto, probablemente est\\xE9 familiarizado con los lenguajes de programaci\\xF3n de procedimientos como C, C++ o Python. Todos estos son lenguajes de programaci\\xF3n imperativos que se enfocan en decirle a la computadora exactamente qu\\xE9 hacer y cu\\xE1ndo hacerlo.\nLa programaci\\xF3n orientada a objetos es diferente de los lenguajes imperativos en aspectos importantes. La programaci\\xF3n orientada a objetos es una forma de escribir programas que tiene como objetivo reducir la redundancia y aumentar la modularidad mediante el uso de objetos que tienen sus propios campos de datos y m\\xE9todos que act\\xFAan sobre esos campos en lugar de variables globales. Profundicemos m\\xE1s en OOP en Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-network-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAgCdASoKAAoAAUAmJagCdAtCuPY/VnUAC/9vSq7bpAD+/Zjxzbakx1QN2OkRh8f//PmC+mOpbr72/7aF8U7bbSdrR75+Dg7tz6tsWuP3/4w+n6PWLDPcne6FeIKLe4ctkXJbNDxEGmDQVI1+2xfkBCam1yCvythO4x6CW/gaumDgOX3Oz/EvadFVvf06rj/ZySdepdlJq8gwBzQU34AA",
-      "createdAt": "Wed Nov 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-idioma-para-administracion-de-red",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABG0lEQVQYlWP4+y7674eCb2/6P75a9uDWwo+v1v/8tObXhyl/PhT9fRfN8PNd+9+/fx88OHloT8+DW3OPHew7fKB/784lX79+/fFhMcPv98WfnrWBzACj53ciIYyvzyu+v+tkuHIq6OENkNCft1EPrwRdOuL99prP71fhn55nXz4RzKBS2aM4Zcffd9EN3enRuXl2IakarilHDsWEZbeF5c5gKF1QMuNI+9930UcOJjX35qRXpDb0xD++Fd3an5pXX8lw50Lo/cvhr+5CrbxwNBjCuHMh9ObZEIa/76Lf3g+/dS744ZWQB5eDzx7yf3oj5OGVkLuXgkAe+/su+ubZwHVLnNctcT2133f9Ured6zxXLXLdvsYdKo0HAQBTP809B/sAzgAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "javascript-para-principiantes-una-guia-completa",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Idioma Para Administración De Red",
+      "title": "JavaScript Para Principiantes: Una Guía Completa",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Todo el mundo ama un desaf\\xEDo. El camino hacia el \\xE9xito nunca es f\\xE1cil, y lo mismo ocurre con el aprendizaje de nuevas habilidades. Si ha estado pensando en aprender Javascript pero no est\\xE1 seguro de por d\\xF3nde empezar, esta publicaci\\xF3n lo guiar\\xE1 a trav\\xE9s del proceso y lo ayudar\\xE1 a llegar all\\xED.\nEl lenguaje de programaci\\xF3n Javascript se usa m\\xE1s com\\xFAnmente para agregar funciones interactivas y contenido din\\xE1mico a las p\\xE1ginas de sitios web y aplicaciones de Internet. Sin embargo, muchas personas piensan que es dif\\xEDcil de entender debido a su extra\\xF1a sintaxis y extra\\xF1as convenciones de nombres. \\xA1Pero eso no significa que no puedas aprenderlo!\nEs un lenguaje de programaci\\xF3n de alto nivel que se puede usar para crear sitios web interactivos, videojuegos, programas de computadora, sistemas de inteligencia artificial y m\\xE1s. Fue inventado por Netscape en 1995 para que sus programadores pudieran documentar mejor su c\\xF3digo y hacer que su sitio web fuera m\\xE1s r\\xE1pido al eliminar la necesidad de complementos de navegador como ActiveX o applets de Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM7n9ZDO9fHz9PDw8Orq6OXm4+Tl4uTk5LOzs5mVlADZ7f2f1Pn5+/z6+vrz8/Pa4+fo6OjGxsSyhm63lIAAx+L0y+Dr9fn6j87vp9fw8fHx6urqp5qTw5V7wZN8APn7/P7+/s7m7MPk9tHq+Lva4t3d3XBXScOLd92qkgAwibI0i7I4jbI5jrQviLHk7e6hlpAzKiapdlyic1MAa6vHcrDJY6fFa6vFTJm619nZRzgxenV3rntYtqSfAPb6/f7+/s/n7d7x+sLg64CCg0c8OX2Gk7Ktr6euugDv9/7+/v7x9/puwOuAwONTRj+Ni47O1d7T2OHc4ukAyOb8jcn7+Pr75evwxMbIOCsntLrDwsrSydHZ2+DoANvt+ZHK9PLy8uLi4qmhnSAYFHmAi4GLmIaPnLG6xysq2jnTedh6AAAAAElFTkSuQmCC",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-beneficios-de-una-carrera-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Una Carrera De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son responsables de desarrollar software nuevo o corregir el c\\xF3digo existente para asegurarse de que satisfaga las necesidades del usuario y funcione como se espera. Usan el pensamiento l\\xF3gico, habilidades para resolver problemas y una variedad de principios t\\xE9cnicos cuando crean y prueban aplicaciones de software. Como ingeniero de software, podr\\xEDa tener la oportunidad de trabajar en proyectos que resuelven problemas desafiantes. Esta carrera puede ayudarlo a adquirir nuevas habilidades, avanzar en su carrera y construir un futuro m\\xE1s estable para usted. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 deber\\xEDa considerar hacer una carrera en ingenier\\xEDa de software si est\\xE1 interesado en la inform\\xE1tica u otro campo STEM.\nLos ingenieros de software tienen algunos de los trabajos m\\xE1s din\\xE1micos en la actualidad porque la tecnolog\\xEDa est\\xE1 cambiando muy r\\xE1pidamente. Pero, \\xBFqu\\xE9 significa exactamente ser ingeniero? Bueno, un ingeniero es alguien que combina la ciencia con el pensamiento l\\xF3gico y la creatividad para producir nuevas ideas o innovaciones \\xFAtiles que satisfagan las necesidades y los desaf\\xEDos humanos.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABGElEQVQYlWP4CwNvvn778uMnnPvv37+/f/8y/Pv37/iDNwb9e5nK1rFXbohbcfrDN4QihkfvvgrUbWEqWwdHwQuPI6Sb9lyTbdmWsOpM5NKToYtPRi0/xVS27tH7zztuPL/47D1D9vrzkUtPSjZvLdh0IXv9+ez1F5nLN5x5/NZ00r6cDRcY5p9+wFG1cdKROwWbLhhP2GcxeT9/zaYvP35+/fnr158/DD9//7Gbfki4bjNz+QaI3TOO30PY/e/fv68/f/UdvOk//1js8tN7br2Ey4GkLz3/cPvNl1uvP997+/n+uy83X328+/rTrdefb73+/O/fP4YLTz+svfzs5KN3i88+XHLu0a3Xn3fffrnk3KM1F58CpQHvg+TaL8rU6AAAAABJRU5ErkJggg==",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-al-lenguaje-para-el-aprendizaje-automatico",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para El Aprendizaje Automático",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de la ciencia de datos est\\xE1 poblado con flujos aparentemente interminables de nuevas herramientas y soluciones de software. Ya sea que sea un principiante o un cient\\xEDfico de datos avanzado, esta abundancia de opciones puede resultar algo abrumadora.\nAfortunadamente, algunas de estas herramientas se han vuelto tan populares que no tendr\\xE1s que perder mucho tiempo busc\\xE1ndolas. La creciente popularidad del aprendizaje autom\\xE1tico ha llevado a la aparici\\xF3n de varios lenguajes de programaci\\xF3n dise\\xF1ados espec\\xEDficamente para ayudar a los ingenieros y analistas de ML en sus actividades diarias.\nPara ayudarlo a elegir la herramienta adecuada para sus necesidades, le presentaremos cinco alternativas de Go para el aprendizaje autom\\xE1tico que puede considerar si est\\xE1 trabajando en un proyecto que involucra uno o m\\xE1s de los siguientes escenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAtElEQVQYlWP4+/c3HsRAmfSkKS/u3fv68+fvp8+//f37+xcY/Pn959evXz9//mZoaX+8aMmb2ronyWkP4hLuBYbcsbW/lZv/oLLmiZPrLZDh5y98evHix+OnX/ftf7xr1+NXr179+PHj79/fP378Yvjz+09+4eOt298vX/VuxYo3e/d9WLPu7YzZrxYteTN79muQ7sNHP928+eX6zW/VtU+7e54vXfG6t//50ROf5s57SZnHAJI8CnF8rirdAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 16 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "tutorial-de-typescript-una-guia-para-principiantes-de-typescript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Tutorial De TypeScript: Una Guía Para Principiantes De TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si ha estado siguiendo el mundo de la programaci\\xF3n durante los \\xFAltimos a\\xF1os, probablemente ya haya o\\xEDdo hablar de TypeScript. Esto se debe a que es una de las formas m\\xE1s interesantes y accesibles de comenzar con los lenguajes de programaci\\xF3n modernos. Desde su lanzamiento en 2014, TypeScript se ha vuelto extremadamente popular entre los desarrolladores de todo el mundo, incluidos aquellos que generalmente evitan cualquier software o herramienta nueva que a\\xFAn se encuentre en la fase de prueba beta.\nEste art\\xEDculo cubrir\\xE1 todo lo que necesita saber sobre TypeScript y por qu\\xE9 exactamente este lenguaje ha llamado la atenci\\xF3n de tantos programadores. Tambi\\xE9n incluye una lista de tutoriales sobre c\\xF3mo comenzar a usar TypeScript lo m\\xE1s r\\xE1pido posible para que tambi\\xE9n pueda usarlo de manera efectiva en sus proyectos futuros.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoKAAoAAUAmJbACdEf/geiUfwW/4OAA/vCQLDdQkpOdQJQpB/3j8gOtVtssAvHWXorqIv0PPhgLPu5r8BZQUtSgPNpnw/Gvk1f0lGqafhSefA/R6tPf/i2+A30r/+F/Narf2NZF1rvb+K3/5wAAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXLW0vCYADG8ffbRRQdtinVhV0IhWXiyuywvXsPsyi6SQqjm7qVkpKKMDrIMqdjQmpBlmFW2hQrUZnXMYKH/82PB6xLqwJnIyN2YreJLCswnMAwK6ODGw7G1dMLri7cmjKr3/3Pq6u8rvJaik+r3mTCA56q+OiWniSokqVRBR/ekOsMPlfJWYo0TAiMDooqNFNEp0mLI3GqZHFMQ1EFW1w3kVYgsTRJ5nHRQPdFnCuhh3dU70gWN0yYeSHhSxw6IK91KRKnu8dkbV9umNDixw+cf8O1Nnyuop+uWKhI313rVzNFoyOAmC4tbcmLwcDCpgx3ZBSShW0a2CP+IMmWJVD+FcvN5c+m+NUWjZbVWhvmSrDSEiotAcy5Wd8M53dz89Osz8Xxk8Me59DU+MCEo9851vcHjTG9mheG1W8AAAAASUVORK5CYII=",
   "createdAt": "2020-08-18T10:14:08.693Z",
-  "updatedAt": "2022-10-02T11:08:44.016Z",
+  "updatedAt": "2022-10-11T17:16:06.625Z",
   "slug": "como-hacer-sitios-web-con-javascript-una-guia-paso-a-paso-para-aprender-javascript",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,145 +20,145 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/exception-handling-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
-      "createdAt": "Wed Mar 04 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "manejo-de-excepciones-en-java",
+      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMklEQVQYlR3BQW/BUAAA4PczXblJXOawi6PIrjsRl12k+jSk62IoMZJ1aQyvdEllbZ/QeW3XqnrojF6W7PsAXbYD3I6d3tXuxI4YO+LF6Z2999NW34c+mL/Vu08PsdO7uK8//vwQrF3XJoTIsmxZFohsibqLY+hRSjVNm81mpmnyPC9JkqZp4NdTCCGTfwzDCIKQSCSy2WytVtN1HRxWHYxxpVIplUqFQoGtsgihVquVy+VSqRRYjJv2aqGqKs/zEMJ0Op3JZIrFIoQQYwyum+eTp06n02QyWS6XOY5DCI1GI8uyAs8H10/2bA/DYDcYDBBChmHsttu990VdZak0AB3enFf1wP9WJuPQNQ5E3qhVEeZFmO837gDt30Yme1x3j8t6hLkIcx/D+5cu+yhAXmD+ADpc6DCRGCzTAAAAAElFTkSuQmCC",
+      "createdAt": "Thu May 28 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-utilizar-los-recursos-de-codificacion-en-linea",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Manejo De Excepciones En Java",
+      "title": "Cómo Utilizar Los Recursos De Codificación En Línea",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En programaci\\xF3n, nada puede ser 100% perfecto. Siempre habr\\xE1 alg\\xFAn tipo de error o evento inesperado que pueda ocurrir durante la ejecuci\\xF3n de un programa. Estos problemas se conocen como \"excepciones\" y pueden tomar muchas formas. Por ejemplo, una excepci\\xF3n podr\\xEDa ser algo como leer una variable de cadena vac\\xEDa, intentar acceder al sexto elemento de una matriz con solo cinco elementos, o incluso algo tan simple como no tener suficiente memoria disponible para continuar ejecutando instrucciones.\nEstas circunstancias excepcionales se denominan excepciones porque son excepcionales y el controlador del programa no puede continuar con su ruta de ejecuci\\xF3n habitual m\\xE1s. Para el usuario, parece como si la aplicaci\\xF3n hubiera fallado \"excepcionalmente\" de alguna manera y necesita recuperarse de este estado. Por lo tanto, contamos con manejo de excepciones en Java para manejar estos casos extremos con gracia para que nuestras aplicaciones sigan funcionando correctamente a pesar de ellos. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre varios tipos de excepciones en Java y c\\xF3mo podemos manejarlas usando bloques try-catch de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo cada vez m\\xE1s digital, la demanda de codificadores calificados solo est\\xE1 creciendo. Ahora hay m\\xE1s recursos de codificaci\\xF3n que nunca; sin embargo, esto puede dificultar saber d\\xF3nde comenzar a aprender y desarrollar sus habilidades. Si est\\xE1 interesado en la codificaci\\xF3n pero no est\\xE1 seguro de por d\\xF3nde empezar, no est\\xE1 solo. Muchas personas sienten lo mismo que usted acerca de la codificaci\\xF3n. Afortunadamente, hay muchos recursos excelentes para comenzar con la codificaci\\xF3n y continuar aprendiendo lo que necesita saber.\nEn estos d\\xEDas, no se necesita mucho dinero ni tiempo para aprender a codificar en l\\xEDnea, ya sea en casa o como parte de un programa de educaci\\xF3n formal. Puedes encontrar tutoriales gratuitos en sitios web como Codecademy o Treehouse, o completar cursos en plataformas como Udemy o Alison. Si bien puede parecer abrumador con tantas opciones diferentes disponibles y sin una sola respuesta correcta sobre cu\\xE1l es mejor para usted personalmente, la verdad es que todos estos recursos son excelentes de diferentes maneras.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
-      "createdAt": "Mon Mar 08 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-beneficios-de-la-ingenieria-de-software",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Beneficios De La Ingeniería De Software",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/packages-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAsk/hKFyFAAA9438Qif7NTx4/XBGfvlPNqVZ278xZVveVdYm28CSe79qqrt6COwDPzbZqn42+4pPcjM1VxGEtpNgmo7e/9MwWmBePk/c23ff6zKbDrlj7KPV/xyO4cv/0YDVmJY2DhsPCaf2hlJDM7wBPGjAAAA=",
-      "createdAt": "Tue Mar 09 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "paquetes-en-java",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Paquetes En Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este mundo digital, todo se est\\xE1 volviendo digital. Incluso el campo de la programaci\\xF3n se est\\xE1 desplazando hacia plataformas y soluciones m\\xE1s digitalizadas. En tal escenario, surge la necesidad de programas compactos que puedan instalarse y usarse f\\xE1cilmente en cualquier dispositivo. Ah\\xED es donde entran en juego los paquetes de Java.\nUn paquete en Java es una colecci\\xF3n de clases, interfaces, enumeraciones y subpaquetes relacionados bajo un mismo paraguas. Como ya habr\\xE1 entendido de la explicaci\\xF3n anterior, los paquetes son una excelente manera de organizar su c\\xF3digo en unidades l\\xF3gicas que se pueden reutilizar en todos los proyectos. Los paquetes lo ayudan a evitar conflictos de nombres con otras bibliotecas o programas y ayudan a mantener juntas las cosas relacionadas para que sean m\\xE1s f\\xE1ciles de encontrar m\\xE1s adelante. Echemos un vistazo a algunos paquetes comunes de Java:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-al-lenguaje-para-la-ciencia-de-datos",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Ir Al Lenguaje Para La Ciencia De Datos",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los cient\\xEDficos de datos deben poder hacer frente a nuevos desaf\\xEDos r\\xE1pidamente. Si desea que su equipo pueda responder de inmediato y girar sin problemas, necesita que usen el mismo conjunto de herramientas, compartan bibliotecas y trabajen en una base de c\\xF3digo tanto como sea posible. Hay tantas herramientas diferentes para la ciencia de datos, desde bibliotecas de Python como pandas y NumPy hasta el lenguaje de programaci\\xF3n Scala para an\\xE1lisis estad\\xEDstico.\nSi su equipo est\\xE1 formado por ingenieros que tambi\\xE9n son cient\\xEDficos de datos experimentados, entonces puede elegir cualquier soluci\\xF3n que se ajuste a ambos requisitos. Sin embargo, si tiene cient\\xEDficos de datos que no son programadores o ingenieros que necesitan ponerse al d\\xEDa r\\xE1pidamente, es mejor elegir una soluci\\xF3n que ofrezca m\\xFAltiples beneficios a la vez. Go es una soluci\\xF3n cada vez m\\xE1s popular que combina la facilidad de los lenguajes de secuencias de comandos con el rendimiento de los lenguajes compilados. En este art\\xEDculo, aprenderemos por qu\\xE9 deber\\xEDa usar Go como lenguaje de ciencia de datos y cu\\xE1les son sus principales beneficios.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
-      "createdAt": "Fri May 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "introduccion-a-javafx",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Introducción a Javafx",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, con el predominio de los dispositivos m\\xF3viles e IoT, los usuarios esperan que las aplicaciones respondan r\\xE1pidamente y brinden una experiencia atractiva. Al mismo tiempo, las empresas exigen soluciones rentables para satisfacer estas demandas. Esto crea la necesidad de aplicaciones multiplataforma de alto rendimiento que se puedan implementar f\\xE1cilmente en varios dispositivos. JavaFX puede ser su mejor apuesta para desarrollar este tipo de aplicaciones.\nCon JavaFX, puede crear aplicaciones de cliente enriquecidas de alto rendimiento, receptivas y con una interfaz de usuario natural (NUI). En esta publicaci\\xF3n, explicaremos qu\\xE9 es JavaFX y qu\\xE9 aporta. Tambi\\xE9n veremos algunos ejemplos de d\\xF3nde se est\\xE1 utilizando esta tecnolog\\xEDa. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre sus beneficios y detalles de implementaci\\xF3n, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Atajos De Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
+      "imageSrc": "/articles/the-top-software-engineering-trends.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA70lEQVQYlWXPy2qDQBQGYN9/2U0foFBoaWmhuzQhkSy8gGM6GutoHO0ME63aTiplcIgHWtFdzurA93MuBmX8+u7hebX+Okm4KOPq5tYLQ631pQGAkdAcACjjx7oRn3X7fSqbtmxa2f2MPKXsN+wG4ePraot8FMVuEJqeN/LCtnckSRnDabZ0XQcHKIp3JHnZbPeHg/FO6dN6E2V52bRxnidFcb9Y+jGJsuxDHMfhWutfpbquq6pKCME5l3L+wtinNCkYAEgpfd9HCDmOQwiZue/7qavrGmNsWRZCyDTNKTFfDgDDeRjOAwAopaaN//wHESINOE2k/ogAAAAASUVORK5CYII=",
       "createdAt": "Tue May 24 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-lenguaje-para-el-desarrollo-de-juegos",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "las-principales-tendencias-en-ingenieria-de-software",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Lenguaje Para El Desarrollo De Juegos",
+      "title": "Las Principales Tendencias En Ingeniería De Software",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Ahora que el mundo del desarrollo de juegos se est\\xE1 volviendo cada vez m\\xE1s digital, tambi\\xE9n hay nuevos desaf\\xEDos que enfrentar. Ahora se espera que los desarrolladores de juegos presenten soluciones a problemas complejos en un tiempo r\\xE9cord. Y aqu\\xED es donde entran los lenguajes de programaci\\xF3n. Hacen posible que los desarrolladores resuelvan problemas creando programas directamente en lugar de escribir instrucciones palabra por palabra. Existen numerosos lenguajes de programaci\\xF3n, pero uno que se ha vuelto particularmente \\xFAtil para el desarrollo de juegos es Go. Tiene muchas caracter\\xEDsticas que lo convierten en una excelente opci\\xF3n para desarrollar videojuegos, incluida su simplicidad, inferencia de tipos y excelente compatibilidad con Unicode. Si est\\xE1 buscando comenzar a aprender sobre Go y sus beneficios para el desarrollo de juegos, siga leyendo. En esta publicaci\\xF3n de blog, cubriremos todo lo que necesita saber sobre Go y por qu\\xE9 es un excelente lenguaje para el desarrollo de juegos.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software tienen la tarea de encontrar soluciones a problemas complejos todos los d\\xEDas. La industria del software est\\xE1 en constante evoluci\\xF3n y los ingenieros deben mantenerse actualizados sobre las \\xFAltimas tendencias y tecnolog\\xEDas para mantener sus habilidades actualizadas y relevantes.\nLos ingenieros de software deben esperar ver una afluencia de nuevas tendencias de ingenier\\xEDa de software en el pr\\xF3ximo a\\xF1o. Los ingenieros deben estar preparados para adaptar sus habilidades y dominar nuevas t\\xE9cnicas a medida que el mundo del software contin\\xFAa cambiando r\\xE1pidamente. A medida que la tecnolog\\xEDa avanza a un ritmo acelerado, es importante que los ingenieros sean conscientes de s\\xED mismos y aprendan constantemente sobre nuevas formas de hacer las cosas para que puedan seguir proporcionando valor a trav\\xE9s de su trabajo.\nAqu\\xED hay algunas tendencias de ingenier\\xEDa de software que debe conocer en 2019 y m\\xE1s all\\xE1. Siga leyendo y prep\\xE1rese para un futuro lleno de oportunidades para quienes puedan mantenerse al d\\xEDa con estos cambios.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-parallel-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJbACdAD0iL7+GmAA/vz+RpjzG7PHqWHNvgg4Qh0fzMF55tUnkvx/Y0V/wzr2acUYjccsev2Kiox2CdV82mMErvS1sfwqfUPllJj6PMfL9E3d/5+8iP23/X96EXqz3/ecbYSFrt+0AW6P8tk6v301X+VFri9AAAA=",
-      "createdAt": "Sun Apr 12 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-al-lenguaje-para-computacion-paralela",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlV3MwUqEQBzHca89VcdeoFfoWm/QwRdI8CR1kL15lAGF2EsQEyYTbcMoKTuNRO2apbsLpf6dP4Ssh+jH7/aBrwEAetAA0HUdIgIA/pkRhqHneb7vW5ZFCHEcJwgC13UJIVJKAxH1oHv43m3zrt3qQe+/z4wM/Wb5fJEJ8+H+fLVKOedCiCmOiF8ft5kwZ5fHR4cHtnWGiG3bpmk68aZeZMLMhBn6J3d0pgf9uXt8KuyJEXH9fv2S2+s3X+t+89PMF/PTqzEz8b+91s1Nthy5LMuiKBhjSinOeZ7nSqkkSZRSTdMYVVVFUcQ5j+OYUiqlpJQyxoQQdV3/ApBIAmReXn5gAAAAAElFTkSuQmCC",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "introduccion-a-hibernate",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Al Lenguaje Para Computación Paralela",
+      "title": "Introducción a Hibernate",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Si ha le\\xEDdo sobre el mundo de la computaci\\xF3n paralela, sabr\\xE1 que es un campo que est\\xE1 creciendo r\\xE1pidamente en importancia. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente. Esta capacidad de ejecutar m\\xFAltiples procesos simult\\xE1neamente conduce a resultados m\\xE1s r\\xE1pidos y eficientes. Las aplicaciones como la inteligencia artificial, el reconocimiento de im\\xE1genes y el procesamiento del lenguaje natural son campos que pueden beneficiarse enormemente de las t\\xE9cnicas de computaci\\xF3n paralela. Debido a esta demanda de t\\xE9cnicas de computaci\\xF3n paralela, existen muchos lenguajes de programaci\\xF3n disponibles espec\\xEDficamente para este prop\\xF3sito. El lenguaje Go es uno de esos ejemplos. En este art\\xEDculo, explicaremos qu\\xE9 es Go y sus beneficios para la computaci\\xF3n paralela.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La alta disponibilidad de servicios es un factor clave de \\xE9xito para las empresas y los proveedores de servicios. En el mundo actual, hay una mayor penetraci\\xF3n de dispositivos m\\xF3viles y otros dispositivos de usuarios finales que necesitan servicios siempre activos. Por lo tanto, se vuelve esencial para las empresas implementar sistemas que puedan manejar interrupciones frecuentes y que est\\xE9n siempre disponibles.\nEste blog es el primer art\\xEDculo de nuestra serie Hibernate donde cubriremos todos los conceptos relacionados con Hibernate. Aqu\\xED, comenzaremos por comprender \\xBFQu\\xE9 es Hibernate? \\xBFEn qu\\xE9 se diferencia de otras API? Y conozca las diferentes versiones de Hibernate. Tambi\\xE9n veremos una introducci\\xF3n a la arquitectura de Hibernate y sus componentes principales, como sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
-      "createdAt": "Sat Nov 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-consejos-de-codificacion-para-principiantes",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-usar-la-codificacion",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Mejores Consejos De Codificación Para Principiantes",
+      "title": "Cómo Usar La Codificación",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Hay muchas razones para aprender a codificar. Esta habilidad digital te da el poder de crear sitios web, aplicaciones o videojuegos desde cero sin tener que pagarle a alguien m\\xE1s para que lo haga por ti. No solo eso, la codificaci\\xF3n se puede usar en muchas industrias y trabajos diferentes. Tambi\\xE9n es una excelente manera de ganar dinero en l\\xEDnea como un proyecto paralelo si tiene otras ambiciones. Sin embargo, si nunca ha codificado antes, puede parecer un desaf\\xEDo imposible. No es algo que puedas buscar en Google o Netflix, requiere dedicaci\\xF3n y pr\\xE1ctica. Afortunadamente, hay muchos recursos gratuitos disponibles en Internet que lo ayudar\\xE1n a comenzar con los conceptos b\\xE1sicos de codificaci\\xF3n y desarrollar sus habilidades con el tiempo. El siguiente art\\xEDculo destaca algunos de los mejores consejos para principiantes que quieren aprender a programar en 2018 y m\\xE1s all\\xE1.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOjy/OXx++Dp9M3X4dvn8NDe59Li7czc6c7j777T4ADW5Ovf6/XR2+O/ydHN1+GyvsbQ3ufL2+bH2eW/1N8A5O740fL36PD7s7rDwsrSvsjQusbQuMfSqLe/oLC6AOnx+q+5w6yxu7i+xbS8wr7Gz73H0au1v6q2v5elrgC8xM0hICNRTFDr8vvr8vvm7/rc5vDd6fXZ6fbN3+0A0trjhGRhpouL3efx4uz25PD62OHs2+n14PD83O78AH675o2Oo7CptHWBj5KeqomXooKPlqCvt9fr+9nt/QBgmNNXjcbNxcrRxcnIyNQeJioLMjMxR0vR2uXS4OsAYbLtSY7SVnWjmoeLnIKHbGRsNTc7aGVoybi8ybq9AF6Kz0aJyWOb5ZicsZCVrrKTkK6gosezscy6ucy5uxVD2oFbGCUWAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-image-processing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNElEQVQYlT3Oz0vCYBzH8e86BF08R90i6F/w7wjDcx46Rif9njYYsnYaS4guscrNpIPQD6FR7TBqQRato2sIklKmUs78ge55HiKFPqc3vC4fqNfrnue5rmtZFiJGo1GO40RRZIxRSqFc8W3bNk2zUCjoui7LciwWEwSh51bLyQxEwnDVr9yWSo7jmKaZy+V0XY/H481EftT4AqAE+uHOgDLGDMPQNK1WqyFiL+9OeEzgm5z3SWcUagf7qqq2Wi1EfN84ap7eAQzJ/Ge4cjWIqI+CsidJkud5iDjs/jSKNnAdmvggM0YX+Jv8vc8mQ0RJSmezh7AesHZIl4/bs8nLarPzzxfFM8u6hrnXsROQzFOQMJ4p/TvIGEulUtOAhZfR2sNgafdtcfNka9sQ0zLP84qiTPkXcDPRYx4To6EAAAAASUVORK5CYII=",
+      "createdAt": "Fri Mar 18 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para El Procesamiento De Imágenes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+klEQVQYlWP4hxcwQKi/L5t+P4z+/TD29+O4P4+T/75bCJX++/f3359Pft9QPb5W9s1ZxWfHFM9skPlzUwMq/fHqiV+vTq+cKHF1u+zz40pTG0Qvb5XdOV/q378/IOlN6aH3lzZtWuh6aIXSvHaxCbUiB5dJH1wmDZW+tGvL949vvr9/eedY95uzigeWyV/eIv/7pvLfv79B0u/O77m9ed7a+pIdHWa/rivf2qP0+ZLyt1tBULt3dJY2R3j6qit5y4snGsid3r3m+6cnf/78hEr76qtqCQrE6OtcnD/71OrFf36DrET4W5mfX4WXz0FOusTRcvecKWjBAgAeCdp1SW1kIgAAAABJRU5ErkJggg==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-integrada",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para La Programación Integrada",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, el mundo de la programaci\\xF3n es un dominio feroz. Hay tantos lenguajes de programaci\\xF3n disponibles en el mercado que puede parecer confuso para los programadores seleccionar el que mejor se adapte a sus necesidades y que tambi\\xE9n satisfaga las necesidades futuras.\nLa programaci\\xF3n no es tan simple como parece, especialmente cuando considera todos los diferentes aspectos involucrados. No se trata solo de aprender c\\xF3digo, sino tambi\\xE9n de comprender qu\\xE9 tipos de proyectos desea emprender y qu\\xE9 tipo de estructura tomar\\xE1 su carrera a partir de ahora. Entonces, al elegir un lenguaje de programaci\\xF3n, hay ciertos aspectos que debe tener en cuenta antes de tomar su decisi\\xF3n final. Para ayudarlo con esto, hemos resumido algunos de los principales pros y contras asociados con el uso de Go para la programaci\\xF3n integrada en este art\\xEDculo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlWP4ixcw/IMB7NIPrhadPLrk9rXFcBVXThbdvlj3/fv3O+ejGa6caVyzetHLi4IP7+2GSD99uO/ROZ7ThytunbJj2LZty8EDW5+cl7t/Zy1E+uzZs+eOt768xHL9bB3Dzg0xR7a5Xj+d+fPnT4j09evX37179+AMx92T6gxPHp68ffv2gwcP4M55+fLlvn37Xl5ieniri+HYkU3Hjh07evTozZs3v4LB69evr1y5dOus/60rSxjQfILmQ5A0Lk8DpQFXjgZAq0HRrQAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Apr 13 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-web",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFCu\\xE1l es el mejor lenguaje de programaci\\xF3n para desarrollar sitios web? Si est\\xE1 buscando desarrollar sitios web din\\xE1micos e integrarlos con bases de datos, Python podr\\xEDa ser la opci\\xF3n adecuada para usted.\nSi es programador o planea convertirse en uno, es importante saber qu\\xE9 tecnolog\\xEDas ser\\xE1n \\xFAtiles en su futura carrera. A medida que el mundo del desarrollo de software cambia de aplicaciones de escritorio independientes a servicios accesibles por Internet, surgen nuevos lenguajes de programaci\\xF3n casi todos los meses para satisfacer esta demanda.\nEn esta publicaci\\xF3n de blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python si desea convertirse en desarrollador web y qu\\xE9 tipo de oportunidades de trabajo le brinda. Adem\\xE1s, enumeraremos algunos ejemplos de empresas que utilizan Python en sus productos, as\\xED como algunos recursos sobre c\\xF3mo comenzar a aprender este lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA60lEQVQYlWP4PZnpz0TGP9M4QYyp3H8mMv6ahEAMEOr3rsQ/691/74j6vdb+z86YP5t8fs2VBkmDtCKhX5NQ2CDp+UUaNcVh60qV/k5i+juJ6ftElsmFFtM6M080SDDcbBNomTSlvqevtLn1aovA5grFzZXyM5csb544OS0rjuFJF2dpQ+O0hUtySvJfdXPebBM41SjWNWXG3JUrZ/UXgww/2yg6NU/neqsg3NZ9NVIz8jWfd3FBnfZ7huDvyawQd0G8+nsyE9RjIEcuN/y1JfD37vjfGz1+bwv/s8nn9wJFhDRU03QeOBfCAADt253++6JmLwAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Mar 29 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "lenguaje-go-para-programacion-orientada-a-objetos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Lenguaje Go Para Programación Orientada a Objetos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, existe una gran demanda de desarrolladores de software que puedan crear programas y aplicaciones de \\xFAltima generaci\\xF3n. Gracias a la r\\xE1pida expansi\\xF3n de la tecnolog\\xEDa, hay muchos puestos de trabajo disponibles en este campo. Sin embargo, no cualquiera puede convertirse en programador; necesita tener habilidades espec\\xEDficas y saber c\\xF3mo conseguir el trabajo que desea.\nSi est\\xE1 interesado en convertirse en programador de software y explorar nuevas oportunidades profesionales, es importante que elija el lenguaje de programaci\\xF3n adecuado desde el principio. La demanda de programadores capacitados est\\xE1 creciendo r\\xE1pidamente, por lo que al elegir el lenguaje de programaci\\xF3n adecuado ahora, puede prepararse para el \\xE9xito en el futuro. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre la programaci\\xF3n Go y su potencial como lenguaje de programaci\\xF3n orientado a objetos.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANeti/yZBPqcA/yXA/uWAvuWAvuTAvyJA+lnAbVUFQDqpmn5wXn3um31v3j3yZD3yI31yZb206/0xp3honcA6dS77tW999vC8tm/c1hGnol1gmhVxqyVqo56+tq+AOLLteTKs/jcxPvkyaGJdJiAa7agiqmRfrKYg/zgxQDfx7Lp0rqvl4bRuaSokH2+qJSGa1uXfm2zmIbGrJcA1L6q6NC7rJOCrpaDjXVkuaCNq5B+xKyXtZ2Kq5B+AN7QuerZxN7GrqSLeOTPueHLtdXAqZN3aJV6ar6mkwB1xbPGqpTZwqp7YlF7YFKgh3eZf22CZ1ekiXeli3gAoo9z89rA++nP+ufO/OrQ++jR9+LJ79fC9NzE79jAAOmUKOiOJOWDE+WAEOR7DeR4Cep+A+1/Aut9A+1/AorMwinrFK20AAAAAElFTkSuQmCC",
       "createdAt": "Sat Nov 21 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "los-mejores-habitos-de-codificacion-para-principiantes",
       "locale": "es",
       "categoryLocal": "codificación",

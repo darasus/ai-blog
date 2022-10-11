@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/java-security.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABC0lEQVQYlT3PQU7CQBTG8bmj7uAKJLoQL8FWT0FCQmKLQ6YvHVrTSZ2mKQskFcjYUSyLNnQcFxpeTGnib/n+m+8RRDTGFEWxXq+Xy2WWZUqpqqrwjFhroyiilDqOE8cxY2wymQRBsN/v27zdbjnnACCECMMQAHzf9zwvjuPRaESklF3jnAshojMAmM1mZVmSJFxs5vPd6+ZTqY83pRZB7ri7Te57oLUmv+/F8eKy6fWbXv/rdthcXZvhjRkMjvd3h8OB/HzbyHl4po/ReLzyIXTdlPOn6bR4WQEAQUR5lqapECJJEiEEY0xr3S5HRGutlJJSyhjrvsjzHBFPp1ObO3Vda63LsjTG/B//AIJp9TZbNxwzAAAAAElFTkSuQmCC",
   "createdAt": "2022-07-08T03:08:26.532Z",
-  "updatedAt": "2022-10-02T11:02:19.242Z",
+  "updatedAt": "2022-10-11T17:15:48.198Z",
   "categoryLocal": "coding",
   "slug": "java-security",
   "locale": "en",
@@ -20,100 +20,70 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
-      "createdAt": "Wed Jan 19 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAvUlEQVQYlX2QPQrCQBCF92Z6APE4Flp4CUWPYCF2lqIWafxhN0NCSNDAEiEuC4mk0CQ7I2IEFcR87fCG9z1GtTAiUhXnCl0Rx7FSCg0yNAgAUkrHcaSUnPMwDAHA87w8zxnpJSbW79v7Yo4Hn4lJw562kiQRQriuCwCc8/QYbNtNr99hdNlhZhNRlmXf6cJa0Uk+q21GYzGbpWn6vmmti6Komhtcd3v7wfClEASB7/tRFH3EzO2KZfnXu2aWB0v+Er/l/mhbAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
+      "slug": "introduction-to-javaserver-faces",
       "locale": "en",
-      "title": "Learn JavaScript in a Day: The Ultimate Basics Guide to JavaScript Programming",
+      "title": "Introduction to Javaserver Faces",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you interested in pursuing a career in programming? Do you find yourself frequently using the internet, reading online articles and keeping up with new technology trends? If so, you might want to consider learning how to code.\nProgramming is a useful skill that can be applied to almost any field or industry. Whether you\\u2019re interested in making video games, developing websites or being an artificial intelligence programmer, knowing how to program can open lots of doors for your future career.\nWe have created this ultimate guide on JavaScript programming as an introduction to coding and get you started with this exciting and challenging profession. From basic principles and syntax rules to intermediate topics and advanced concepts, we cover everything about JS programming that will help you excel at it.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-embedded-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJbACdAELZFMy9NAA/v4SfMLlX7MbISqYu6uZjOLo1P4iJVFp/YvULTB+RAk0vu+fRIXrA42XvrxPL+zmaL73XpLs4lpQIxyf/zccJ/9H+vkyIbRqqd+uS/AgrStbMkAAAA==",
-      "createdAt": "Sun May 31 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlT2OPUvDUBhG7ySiIu5F9Bc4FSeV/gh/gZOoi1OmVsSqQyXoFIqx0OLQhICN0AydxIKp2jq0BvxIO9j0Q6ltmpt773vjoqXgfJ7Dc1B4KTQfmp6bnVwJL57tr9aK217fwG6bUp8xhmamJtaWF6TDyFslzvwaIS5jpNtpUg4EGErGIy+PIlAHADDGpmlKkqRpGgE2wtgWvp6Kuq6rqppIJGRZNk2z9HBPOXg+Rmxw/HEZMwxD13XbtikHTIiiKLIsC4KAAppuZ9fpd6/V6VSt51wuF41GU6lUuVymlKKGpZLu0SB/XigURFHUNK392YWAl+5u6o1XFBO2frxs72qz2XL6QxcCDgGnHOx3K31xgnZ3NjwnQ+oHbuWWchizURd2raqJ8srp0ElyP9O63hur/4u/71/NHOTkmy236gAAAABJRU5ErkJggg==",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-embedded-programming",
+      "slug": "testing-java-applications",
       "locale": "en",
-      "title": "Go Language for Embedded Programming",
+      "title": "Testing Java Applications",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-choice.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoKAAoAAUAmJQBOgMXN5D2aXoAA/v0gv8ReNXMb93cO5Q/ov5GW+7UomsDg6mSnJQvkaEun240Wqgz+5CmEmoM/q1u81sk/UMTGXZSeVY/Glg3jlie1VGogcLxCsY3jL3//dhp8z3wc//k5MszuVtPwxuDYhl4AAAA=",
-      "createdAt": "Sat Jun 13 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-most-popular-coding-languages.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVQYlU3GvU7CUBiA4bN7A16Bm5t34QU46m5cHE2MYXHxJ0ZXJZGfMClxkKgEG0EEoUBLaU9pa7DBYonCoVBp6el3YowOvnmGFx3Z5qbZhn8xxn4noD6aE/NLSlmfDELqAvOAeQy+ABwAR8ECWu6I87i81cgF/jsA6VkagDMadQEc3BbRQvJgJ7bCF1O+awKQWPw0njhLJKMATluT0Li/St4iE0vtWRIhpiiUBp+minlCupreQuvn24cXqelHd+bZxyd7Kuazd1fpy2Qhf6sbMlqMRO10djYZNuoFRa7k7q85LpN/uOG4TPGJQ+W1Xa8qUH+saXVFrhiGKDQesVKVpJKMawhv7Pt2L/BdRodh+IPRP7ZtIOq5YTAN6LRvdV5fsK61VCxITV4UnltS7Ruz6/njc4XzZgAAAABJRU5ErkJggg==",
+      "createdAt": "Fri Dec 11 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-choice",
+      "slug": "the-most-popular-coding-languages",
       "locale": "en",
-      "title": "Python - The Language of Choice",
+      "title": "The Most Popular Coding Languages",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/exception-handling-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
-      "createdAt": "Wed Mar 04 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWP4BwZ/ft3+/W3V7++n//379/Xb30s3fr18/evfv38M//79+/Vh/Zvzoqf3uJ3ZbXHx2jOb0I+u4SeNvF5t2fUCJP3pQuCxdSE/P1z5/vrY1IUfdR0vvnv3Lrf2XUDcWZD0u/3eF9YnXtlZ+GY1b1HtSS2bM1+/fs2pfO0Vth8k/ercrAczRN/sSnk6g3P33lO69meCEq8qGR+bvWAfSPrP7z/XT207sanvxK6F79+/v3X3uYHDnsCotX///gVJI4Ov33+qmy6W1JxRUbcK5PLzWxseXNt3//KuF/fPXjm67PWTa+cPLrtx8eDFY5svntzKsGVm3trJWVvnVaydXnx406w104rmNoVMa4hbN695SmMcw6uXTx89vPv8yb33b998fP/u3ZtXd29e2bN52Yq5fffvXAMANpbdiE0UJHQAAAAASUVORK5CYII=",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "exception-handling-in-java",
+      "slug": "go-language-for-network-administration",
       "locale": "en",
-      "title": "Exception Handling in Java",
+      "title": "Go Language for Network Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-the-future.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
-      "createdAt": "Tue Mar 01 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-of-the-future",
-      "locale": "en",
-      "title": "Python - The Language of the Future",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEfhzEuWsgAAP78iej+mZU65vIG0J/8ef4J5aTYN1qvvWnP//X6IDmh0a7zmp4pFMvWI/gdcipT45r/1D347/GGIcv/4Z2onpxNio9608Rd95/lbY+3qlns8r3cHnqibLuv/zO5/8Tb/85EeXZ7/7/uOTLN//0xkRfyYjgAAAA=",
-      "createdAt": "Sat Feb 01 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-tricks-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Tricks for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/the-secrets-of-great-coders.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKGgo52dn6qqrKmoq6ysrra2tNzc2tra2NXV09DRzgCop6qlpaetrbC6vL2pqanMzMrl5uPi4uDd3tvZ2dcAqairr66xzMvOqampwL215NzRsrSzlpiX3t/ccXFxAKinqr+/wb27u7uvo7qmlKOHb4uLiW1tbampqSwuLwC+vcC3trmfnZuNd2WAZlF+ZlGwln+mnZIVGRzIycYAr66xmpqaWFpcOzMsf2RQim1XXEc6gXNlk5OR29vZAJSUlKytqmFjZS4wMlxWUVFBN3huZqakoODg3uLi4gCioqDj4+NucHIdISXT09HCwL5DRUdJS03l5eXi4uIA2dnZ5+fn0tLSxcXD6+vr6enpo6OjnJya4eHh4ODgAOHh4eXl5enp6evr6+vr6+vr6+jo6OPj4+Hh4d3d3XsIxzBOAzUdAAAAAElFTkSuQmCC",
       "createdAt": "Wed Aug 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "the-secrets-of-great-coders",
       "locale": "en",
@@ -125,46 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
-      "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA80lEQVQYlWP4dXfPvx8f/+EADH8PlP5b7fr3+krs0v/+/P774d6f5dbYpf9si/uz1uPvzlQchp9o+7s1+u+lOfdXrjzg53u2IP/mlKlHY6KPx8W/Pn6c4d/723/f3fr3/d2zvXv3urpcbms9npy828HxYFDwfm9vBrg5by+ce75n19+/fz8/fPDl0SMIYjhfWfF0186Hq1bdnDH93cVLH2/dfHX8+JdHjz49uP/27BmGfR6eN6dMvVhffzgi4oCPz/Hk5I0qKifSUg/4+R4KCGB4ffz49/dvH21Yf3/Z8hNpqe8uXro5Y/rjzZtvz5l1d8ECAKxL78mUoQ3KAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-video-processing",
+      "slug": "python-the-language-for-data-mining",
       "locale": "en",
-      "title": "Go Language for Video Processing",
+      "title": "Python - The Language for Data Mining",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoKAAoAAUAmJYwCdAabPnQduO3bLwAA/uuQxuxDnCbRZF9wtDUx6DCvHbO2hH1Lysi1EuK3Lv6RGBjg/9+P2eZfp/wWAA8ck25ABrZSNLH9L4fPyLbrJMm9flyhV0dxEa+GEmjRZsTdlNMAAAA=",
-      "createdAt": "Wed Sep 28 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlWP4hxcw/Pn27M+3Z3+/vYQLff3149G7F4/evXjx6S3Dj82yYKTw+9FqiLTptGTGalswsmb4faP797XW31fqf92aeu7cuX///sl2BXceWlq4ZVLelokMvx8u/bXf8feN7l+3pvr5+Z09e1ZrQnTPoeUhS2viVjcz/LpU+efe3N8Xyv7cmf7169d///7JdAZErWws3jaled98hl/n8n7f6P15Mubv+0sQuxv3znOZV+AxvyhrUw/DmTNnPnz48PHjx3///j158uTRo0dfv3799u3bDzBgyM7OnjZt2oIFC+7du1dWVrZx48bMzMykpCRfX9/i4mKG79+/Yw2QM2fOAIMFANMA5szbg0xbAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "7-javascript-basics-every-typescript-developer-should-know",
+      "slug": "go-language-for-distributed-computing",
       "locale": "en",
-      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
+      "title": "Go Language for Distributed Computing",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
-      "createdAt": "Sun Feb 28 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAlUlEQVQYlYXPQQqEIBiG4Q7YmTpDF2jTYjYOKLgYMOgXxooQQZAfCUS0XYcQhpYDUd/22XxvVW5XPXDTNHVdD8NwzTHGr3qN8L5mYyjiJ6XUdd00TfM8932PiN77kyklAGCt3fedMaaUcs4hYs75ZM5527bbtpVSQggA4L0XQhhjEPHv+XEcy7IQQqSUWut1XZ/C7vkHNEENNAsfTlAAAAAASUVORK5CYII=",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "setting-up-your-java-development-environment",
+      "slug": "python-the-language-for-mobile-development",
       "locale": "en",
-      "title": "Setting up Your Java Development Environment",
+      "title": "Python - The Language for Mobile Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWPoLWFry2XrLWFzsmDdPIUtO5JtZj1bUzabvSlLZQorAysrc0MWS0kCp68jT3U6X140Z1Uaf3E8m7cdc1UqG0iah5tJWFjY2tpaQ0PDwsJCXl6eiYmJi4OJl4eFgRkbYGNjY2ZmZmJiYgj1tjA3UhEXFeTg4GAHg6hQ7+aq7KqiTBsrC4aCrKjspEAfZ0NDHQU+Pj5RYaHG2jxrS3MXZ5uMpFgGVxfbIH/3jKQgT2c9GWlRCQmJ/q46HR0dERERKQkxBltrA11tdU8P+6K8WG9XUztL3eKcmJiYGDk5OQEBAYasZLfIUAcLc0MbK7PsjLiWupzEmAAVFRVeXl5RUVGG7JSQuHC7wmzvyHAPU2NDe1sbW1tbAwMDHR0dVVVVAI56P477AMeGAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

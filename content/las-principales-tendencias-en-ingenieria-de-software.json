@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-top-software-engineering-trends.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA70lEQVQYlWXPy2qDQBQGYN9/2U0foFBoaWmhuzQhkSy8gGM6GutoHO0ME63aTiplcIgHWtFdzurA93MuBmX8+u7hebX+Okm4KOPq5tYLQ631pQGAkdAcACjjx7oRn3X7fSqbtmxa2f2MPKXsN+wG4ePraot8FMVuEJqeN/LCtnckSRnDabZ0XQcHKIp3JHnZbPeHg/FO6dN6E2V52bRxnidFcb9Y+jGJsuxDHMfhWutfpbquq6pKCME5l3L+wtinNCkYAEgpfd9HCDmOQwiZue/7qavrGmNsWRZCyDTNKTFfDgDDeRjOAwAopaaN//wHESINOE2k/ogAAAAASUVORK5CYII=",
   "createdAt": "2022-05-24T06:07:03.904Z",
-  "updatedAt": "2022-10-02T10:49:21.852Z",
+  "updatedAt": "2022-10-11T17:15:18.324Z",
   "slug": "las-principales-tendencias-en-ingenieria-de-software",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,85 +20,10 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-distributed-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAgCdASoKAAoAAUAmJaACdAYrTkvy7OhwAP7+DL3G5B1Fvasbbu3eiP+OD56cz+2n8bLMjhy6bsxVss4/jD/2Pr6JcaQ02jfPyXVM/B4RDFMjs3ii+f/PPv79Mnm02910mVKW7SN/qm134lyb1zcXiBH/VbM9/V+9fvd/+45MQAAA",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "go-language-para-computacion-distribuida",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Go Language Para Computación Distribuida",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Conocer la herramienta adecuada para el trabajo es esencial para la eficiencia y el rendimiento. La computaci\\xF3n distribuida es una rama de la inform\\xE1tica que se ocupa de tareas de resoluci\\xF3n de problemas que no pueden resolverse analiz\\xE1ndolos y trabajando con ellos individualmente. La computaci\\xF3n distribuida se basa en el poder de procesamiento colectivo y la memoria de muchas computadoras en lugar de solo una. Todo, desde big data, aprendizaje autom\\xE1tico, inteligencia artificial, procesamiento de lenguaje natural, redes neuronales, reconocimiento de voz y m\\xE1s, involucra computaci\\xF3n distribuida.\nUn gran ejemplo de computaci\\xF3n distribuida es el intercambio de archivos. Si carga un archivo en Dropbox o Google Drive, se almacena en varios servidores a la vez en lugar de localmente en su disco duro o en una carpeta en su escritorio como los archivos normales. El mismo concepto se aplica a la computaci\\xF3n distribuida: en lugar de ejecutar una aplicaci\\xF3n dentro de un software individual que se ejecuta en su sistema operativo (como cuando ejecuta un programa en Word o Excel), implica dividir los procesos en partes m\\xE1s peque\\xF1as que se pueden ejecutar de forma independiente. en diferentes m\\xE1quinas a la vez.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Atajos De Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
-      "createdAt": "Tue Jul 27 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-para-el-desarrollo-movil",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para El Desarrollo Móvil",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con tantos lenguajes de programaci\\xF3n para elegir, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nCon tantos lenguajes de programaci\\xF3n disponibles, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nSi est\\xE1 desarrollando aplicaciones m\\xF3viles destinadas principalmente a tel\\xE9fonos y tabletas iPhone o Android, es posible que desee considerar el uso de Python como su idioma principal. En esta publicaci\\xF3n de blog, cubriremos por qu\\xE9 esta es una buena opci\\xF3n y por qu\\xE9 otras opciones pueden no ser ideales en ciertas situaciones.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-fundamentos-de-la-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Fundamentos De La Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Incluso si no te consideras un genio de la tecnolog\\xEDa, es posible que descubras que la codificaci\\xF3n es tu vocaci\\xF3n. Este puede ser un tema complicado para comenzar y continuar, pero estamos aqu\\xED para pon\\xE9rtelo f\\xE1cil. La codificaci\\xF3n para principiantes no es tan dif\\xEDcil como podr\\xEDa creer, solo requiere algo de tiempo de estudio y pr\\xE1ctica. No ser\\xE1 f\\xE1cil al principio, pero con el tiempo y la cantidad adecuada de dedicaci\\xF3n, cualquiera puede aprender los fundamentos de la codificaci\\xF3n, ya sea que tenga conocimientos previos o no.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una de las habilidades m\\xE1s importantes en el mercado laboral actual. Incluso si no desea convertirse en ingeniero de software o similar, comprender los principios b\\xE1sicos de codificaci\\xF3n puede brindarle una ventaja en casi cualquier otro campo. Ver\\xE1, cualquier cosa, desde contabilidad hasta atenci\\xF3n m\\xE9dica, usa tecnolog\\xEDa a diario, a menudo involucrando software avanzado o sistemas de inteligencia artificial.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
-      "createdAt": "Wed Mar 24 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-recursos-de-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Recursos De Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFNuevo en la codificaci\\xF3n? Hay muchos recursos disponibles, pero pueden ser abrumadores. \\xBFCu\\xE1les valen la pena? \\xBFC\\xF3mo encuentras los mejores? El espacio de codificaci\\xF3n est\\xE1 en constante crecimiento y cambio. Todos los d\\xEDas aparecen nuevas herramientas, sitios y conceptos. Navegar por este paisaje como principiante puede ser dif\\xEDcil.\nLa codificaci\\xF3n es una habilidad en demanda que ha estado creciendo r\\xE1pidamente en demanda en los \\xFAltimos a\\xF1os. Cada vez m\\xE1s personas quieren aprender a codificar, pero no siempre hay un recurso f\\xE1cil para los principiantes que buscan comenzar. Con tantas opciones disponibles, puede ser dif\\xEDcil saber por d\\xF3nde empezar a aprender los conceptos b\\xE1sicos de la codificaci\\xF3n. Incluso si no es un principiante completo, estos son excelentes lugares para continuar aprendiendo sobre codificaci\\xF3n e incluso avanzar en su conocimiento sobre temas espec\\xEDficos que m\\xE1s le interesen.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
       "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsklEQVQYlWPoVmPEgxg6VJm61Rg71XFIL4xSWJGk3Bfi2Bfj2x3t3RPu2ZcW2+Tn0B3p1aHDzbAoTG5mjGKHGkO7Fle7JnuHKlO7GlOHGkOHGgNI9+YMtX5r/j5H9W4nzR59/m5j4T5H9V5bxW5DoW5DIYZWY+61WRqtlnLNVgod3uatLvrtHiZN9hrdwU4N1ioMt4/6TwyTwenymUlaTZbSzSYS2KUhFMg56mw4pXEZDgDQ4VHCbPANTQAAAABJRU5ErkJggg==",
       "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "python-un-lenguaje-para-todos",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -110,61 +35,136 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
-      "createdAt": "Mon Mar 08 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-beneficios-de-la-ingenieria-de-software",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA4UlEQVQYlXWPQWvCQBCF96cWevEvlP6FKi2lPXnyIorkEPBgQoVEUYkiIZ2GbCEE2mxQLDFB1jXJrEgtaBT6LsPjDfPmI7IkzDZlK6UkfyNJEt9qeoOnT/M5DMNz/J13o9wQQiw8PYbGCjqcc2F1eLdafDlk4D4ozs0693+XA/t4asleK+/VWz5pkSBTotwwTVPX9WG/p2laX2078ynG7NwNAPCmUkoBwP2wqKeinOGekjgtjDmOh2y3FaePhFCms7ptv5DeKL1/dO9qThCViVKUAeIPyQr02Z6troAvuf/TAfxXDO916foHAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "aplicaciones-ricas-de-internet-con-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Beneficios De La Ingeniería De Software",
+      "title": "Aplicaciones Ricas De Internet Con Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'La ingenier\\xEDa de software es la disciplina de programar y dise\\xF1ar software, as\\xED como documentarlo y probarlo para garantizar que satisfaga las necesidades del usuario y funcione correctamente. La ingenier\\xEDa de software es un campo amplio que incluye varias subdisciplinas. Cada una de estas \\xE1reas tiene su propio conjunto \\xFAnico de responsabilidades y tareas. Como ingeniero, puede especializarse en una o m\\xE1s de estas disciplinas, pero independientemente de su \\xE1rea de enfoque, cada ingeniero de software debe tener una comprensi\\xF3n s\\xF3lida de todos los diferentes aspectos para tener \\xE9xito en esta emocionante carrera. En este art\\xEDculo, exploraremos algunos de los muchos beneficios de la ingenier\\xEDa de software. Si est\\xE1s leyendo esto pensando \"\\xBFEste art\\xEDculo es para m\\xED?\" \\xA1sigue leyendo! Ya sea que sea nuevo en la industria o simplemente est\\xE9 buscando informaci\\xF3n adicional para aumentar a\\xFAn m\\xE1s su conocimiento, siga leyendo para descubrir por qu\\xE9 la ingenier\\xEDa de software puede ser una excelente opci\\xF3n de carrera para usted.'))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las aplicaciones de Internet enriquecidas, o RIA, son aplicaciones basadas en web que presentan una mayor interactividad que los sitios web est\\xE1ndar. En lugar de simplemente permitir que los usuarios accedan a la informaci\\xF3n de un sitio web, las aplicaciones RIA generalmente brindan a los usuarios la capacidad de tomar medidas sobre ese contenido. Por ejemplo, en lugar de simplemente proporcionar a los usuarios informaci\\xF3n sobre un producto y su precio, una aplicaci\\xF3n RIA podr\\xEDa permitir a los usuarios agregar el producto a un carrito de compras y completar el proceso de compra.\nEste art\\xEDculo le presenta los RIA de Java para que pueda comprender por qu\\xE9 los desarrolladores de Java deber\\xEDan usarlo para desarrollar RIA. El objetivo de este art\\xEDculo es explicarle por qu\\xE9 Java es particularmente adecuado para desarrollar estas aplicaciones y por qu\\xE9 deber\\xEDa considerar usarlo si planea crear una.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-image-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
-      "createdAt": "Fri Mar 18 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-idioma-para-el-procesamiento-de-imagenes",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlW2NMU7EMBBFzVG40db0XIViGzoaLoAoqBAUW7AS2gIUJUKyZKVIlCIpIke2J5HHY7MjIWJAW/DK+X/+E/wfKaUYIzMLpVTTNABwGl897Dc3z5e3T0JK2XUdANhfiOji/uNsW55fH4QxZp5nREwpMfPx88jML+/V3e7w+PomrLV5cBiGoiiUUrmX79/fp9YQAiJ6740xiCjGcSSinBGRtbau66qqyrKUUgoA0FqPK9M0AYBfMcZ47wUiNitt2/Z9vyxL3v9xxxidc1pr5xwAEFEI4U/3BVlMEkF7OcVmAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "creacion-de-una-aplicacion-de-hibernate",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Idioma Para El Procesamiento De Imágenes",
+      "title": "Creación De Una Aplicación De Hibernate",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n emergente de prop\\xF3sito general que tiene muchas ventajas para crear software. Es simple, r\\xE1pido y predecible, sin sintaxis innecesaria y con una sintaxis liviana que conduce a programas que son f\\xE1ciles de leer y comprender.\nGo tiene varias caracter\\xEDsticas integradas que le permiten destacarse de otros lenguajes de programaci\\xF3n generales. Por ejemplo, poder definir sus propios tipos de datos personalizados es algo que no tienen muchos otros lenguajes de prop\\xF3sito general. Adem\\xE1s, Go facilita la creaci\\xF3n de paquetes de funciones y variables relacionadas para que puedan reutilizarse f\\xE1cilmente. La simplicidad del lenguaje lo hace ideal tanto para principiantes como para programadores experimentados que no quieren perder mucho tiempo aprendiendo nueva sintaxis y sem\\xE1ntica.\nEste art\\xEDculo cubre algunos casos de uso populares para Go mediante la exploraci\\xF3n de su uso en proyectos de procesamiento de im\\xE1genes, como la transmisi\\xF3n de c\\xE1maras web y las bibliotecas de manipulaci\\xF3n de fotos, como GoImager o el antiguo paquete de im\\xE1genes est\\xE1ndar incorporado con cada instalaci\\xF3n de Go, que veremos m\\xE1s adelante en este art\\xEDculo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-al-lenguaje-para-la-programacion-de-bases-de-datos",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWPQaF6k1QRFGs3oiEGzZTEEaTQvip81I3/BNL0WqJxmy2IGy675ll0LLbvm23fPD5sy23/KHOe+uRARm+4FDNmr9vlM35SydFfonG2BszYbd61IWbrLZ/qmwFmbfaZvYgiavTV6wY681fvD522LWbjDpm9N1PztgbM25685EDhrMwPEmsi525wnrXOdvN59yjqniWs9pm6w718Nslu7GeSuoNlbo+Zvz1q5P2HxrppNR6Lmb4+av127eTGDUdsCi84FYAfOj54xK2TqbOfe+RARi84FDMg+Dpk6O3UuwmMgf6MHRdMSuKeB0gBAIZGZWqGGVwAAAABJRU5ErkJggg==",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "typescript-una-guia-para-principiantes-sobre-la-seguridad-de-los-tipos-de-codigo",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Al Lenguaje Para La Programación De Bases De Datos",
+      "title": "TypeScript: Una Guía Para Principiantes Sobre La Seguridad De Los Tipos De Código",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hay varios lenguajes de programaci\\xF3n disponibles para crear bases de datos. Puede crear una base de datos usando formatos simples basados en archivos o puede usar opciones m\\xE1s avanzadas, como sistemas de administraci\\xF3n de bases de datos orientados a objetos (ODBMS) o sistemas de administraci\\xF3n de bases de datos gr\\xE1ficas. Seg\\xFAn el tipo de base de datos que desee crear y sus necesidades espec\\xEDficas, es probable que haya un lenguaje de programaci\\xF3n ideal para usted.\nEl lenguaje de programaci\\xF3n Go es una opci\\xF3n que vale la pena explorar si est\\xE1 buscando un excelente lenguaje de programaci\\xF3n de prop\\xF3sito general pero con un enfoque especial en la programaci\\xF3n de bases de datos. Muchos programadores valoran la sintaxis simple de Go, su soporte integrado especial para cadenas y sus poderosas primitivas de concurrencia integradas. Si desea obtener m\\xE1s informaci\\xF3n sobre este lenguaje de programaci\\xF3n y si es la opci\\xF3n correcta para crear bases de datos, contin\\xFAe leyendo para descubrir todo lo que necesita saber sobre Go y las bases de datos.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript es un lenguaje de programaci\\xF3n de c\\xF3digo abierto desarrollado y mantenido por Microsoft, que ampl\\xEDa JavaScript. Agrega soporte para escribir variables y funciones, interfaces, clases con herencia y m\\xF3dulos. Este art\\xEDculo cubre todo lo que necesita saber sobre TypeScript y por qu\\xE9 deber\\xEDa usarlo como desarrollador.\nSeamos realistas: el mundo del desarrollo de software se ha vuelto extremadamente complejo en los \\xFAltimos a\\xF1os. Cada nuevo lenguaje de programaci\\xF3n tiene su propio conjunto \\xFAnico de reglas y m\\xE9todos para crear c\\xF3digo que finalmente termina convirti\\xE9ndose en un producto terminado que los usuarios pueden descargar desde una tienda de aplicaciones u otro sitio web.\nEn este art\\xEDculo, aprender\\xE1 sobre los beneficios de usar TypeScript como desarrollador, c\\xF3mo instalar TypeScript en su computadora, qu\\xE9 IDE es mejor para usarlo con editores populares como Visual Studio Code o Atom Text Editor, c\\xF3mo comenzar a codificar en TypeScript descargando proyectos repetitivos con c\\xF3digo de muestra, \\xA1y mucho m\\xE1s!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
-      "createdAt": "Wed Mar 09 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-depurar-su-codigo-como-un-profesional",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlWP4hxcw/Pn27M+3Z3+/vYQLff3149G7F4/evXjx6S3Dj82yYKTw+9FqiLTptGTGalswsmb4faP797XW31fqf92aeu7cuX///sl2BXceWlq4ZVLelokMvx8u/bXf8feN7l+3pvr5+Z09e1ZrQnTPoeUhS2viVjcz/LpU+efe3N8Xyv7cmf7169d///7JdAZErWws3jaled98hl/n8n7f6P15Mubv+0sQuxv3znOZV+AxvyhrUw/DmTNnPnz48PHjx3///j158uTRo0dfv3799u3bDzBgyM7OnjZt2oIFC+7du1dWVrZx48bMzMykpCRfX9/i4mKG79+/Yw2QM2fOAIMFANMA5szbg0xbAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "go-language-para-computacion-distribuida",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Depurar Su Código Como Un Profesional",
+      "title": "Go Language Para Computación Distribuida",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFEres un programador excepcional? Claro, puede codificar en m\\xFAltiples lenguajes de programaci\\xF3n con fluidez, depurar cualquier problema que encuentre e implementar algoritmos como un profesional. Pero, \\xBFqu\\xE9 sucede cuando su c\\xF3digo falla una y otra vez? \\xBFO funciona perfectamente sobre el papel pero no en la pr\\xE1ctica? \\xBFQu\\xE9 haces cuando no tienes idea de qu\\xE9 est\\xE1 fallando o por qu\\xE9 el c\\xF3digo no funciona seg\\xFAn lo previsto? Bueno, si eso suena como usted, como programador, \\xA1siga leyendo porque tenemos buenas noticias para usted! La depuraci\\xF3n de su c\\xF3digo es una de las tareas m\\xE1s desafiantes y exigentes como codificador. Requiere paciencia, precisi\\xF3n y habilidades anal\\xEDticas para identificar d\\xF3nde las cosas no funcionan correctamente y por qu\\xE9. Sin embargo, con las estrategias y t\\xE9cnicas adecuadas, la depuraci\\xF3n de su c\\xF3digo no tiene por qu\\xE9 ser un proceso doloroso. Estos son algunos consejos \\xFAtiles sobre c\\xF3mo depurar su c\\xF3digo como un profesional:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Conocer la herramienta adecuada para el trabajo es esencial para la eficiencia y el rendimiento. La computaci\\xF3n distribuida es una rama de la inform\\xE1tica que se ocupa de tareas de resoluci\\xF3n de problemas que no pueden resolverse analiz\\xE1ndolos y trabajando con ellos individualmente. La computaci\\xF3n distribuida se basa en el poder de procesamiento colectivo y la memoria de muchas computadoras en lugar de solo una. Todo, desde big data, aprendizaje autom\\xE1tico, inteligencia artificial, procesamiento de lenguaje natural, redes neuronales, reconocimiento de voz y m\\xE1s, involucra computaci\\xF3n distribuida.\nUn gran ejemplo de computaci\\xF3n distribuida es el intercambio de archivos. Si carga un archivo en Dropbox o Google Drive, se almacena en varios servidores a la vez en lugar de localmente en su disco duro o en una carpeta en su escritorio como los archivos normales. El mismo concepto se aplica a la computaci\\xF3n distribuida: en lugar de ejecutar una aplicaci\\xF3n dentro de un software individual que se ejecuta en su sistema operativo (como cuando ejecuta un programa en Word o Excel), implica dividir los procesos en partes m\\xE1s peque\\xF1as que se pueden ejecutar de forma independiente. en diferentes m\\xE1quinas a la vez.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-tools.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA30lEQVQYlX2Mu07DQBRE99P5AERBSUtByT9AZexgJKMEOw7exHa8frB+7Mb7ujdCigsEBUenGGk0Q/BfCKJbknVayFHr2SxYZawi8yz5V9F2VdvViOaPZBJD1+wO+5ixAtFoIwHUojaSCDkyluzppqpyAOX5/ip8jdbRKgy8wCNlnjXNjmbrvMh+PZ8VoCDhyzNjSZpGh/wTz+pHEOAm8vR4n8bBe+QXJUU4IZyGvu552fNS65483Fwdjx/b7dulFssI3GTNoGZO7m6vqzrZxCGlKbjB2d4armYuRSPG9htaDBY91xToGwAAAABJRU5ErkJggg==",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "las-mejores-herramientas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Herramientas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La ingenier\\xEDa de software es un campo din\\xE1mico con una amplia gama de herramientas disponibles para optimizar los procesos y acelerar la productividad. Los ingenieros de software necesitan estar constantemente en busca de nuevas herramientas que les hagan la vida m\\xE1s f\\xE1cil y su trabajo m\\xE1s eficiente.\nSi es ingeniero de software, es probable que con frecuencia haga malabarismos con varios proyectos, aplicaciones y bases de c\\xF3digo, todo mientras realiza un seguimiento de detalles espec\\xEDficos como n\\xFAmeros de versi\\xF3n, dependencias y API. Puede ser un desaf\\xEDo mantener todos esos detalles en tu cabeza, y mucho menos encontrarlos cuando los necesites m\\xE1s adelante. Es por eso que muchos ingenieros de software recurren a herramientas de ingenier\\xEDa de software especializadas que optimizan los procesos cotidianos y aceleran la eficiencia.\nCon tantas opciones disponibles, puede ser un desaf\\xEDo determinar qu\\xE9 herramientas de ingenier\\xEDa de software ayudar\\xE1n a optimizar su flujo de trabajo de manera m\\xE1s eficiente. Este art\\xEDculo cubre algunas de las principales herramientas de ingenier\\xEDa de software de varias categor\\xEDas, incluido IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlT2PO0sDQRSF999Z+V/EzkYES8FHJ5hCC4miEXwRV/KwELYwELQIbkJ2Z9x53Zk7s7OPgKUsG4TTfYfDdwKZES0yIxkqbkG0QcWNZMBpAJwaySwIj6qw0MZpaUEYyYJ/VjpTe1t7W+VYOuNRoeINdlqKkx3T7+ZkbsjSMoJZCnTptAxQcR0N4GBLXe9Cd/twc+PueL93tDe4PPWoGuznn+XHsJ6NzKRPpxMWvS6mEfn+0ixtsNOyynFVuN/arwoXvz39jHrp+BGSeK1WWGi9Fu+hfuiU4YUZXjVqWmTNgOGFhSrXnCaz8DZ/PoPxTXMMOF03tPSoPCpOk/i+Y17OZUb+AMfgAewT8ENlAAAAAElFTkSuQmCC",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "introduccion-a-javafx",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Javafx",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, con el predominio de los dispositivos m\\xF3viles e IoT, los usuarios esperan que las aplicaciones respondan r\\xE1pidamente y brinden una experiencia atractiva. Al mismo tiempo, las empresas exigen soluciones rentables para satisfacer estas demandas. Esto crea la necesidad de aplicaciones multiplataforma de alto rendimiento que se puedan implementar f\\xE1cilmente en varios dispositivos. JavaFX puede ser su mejor apuesta para desarrollar este tipo de aplicaciones.\nCon JavaFX, puede crear aplicaciones de cliente enriquecidas de alto rendimiento, receptivas y con una interfaz de usuario natural (NUI). En esta publicaci\\xF3n, explicaremos qu\\xE9 es JavaFX y qu\\xE9 aporta. Tambi\\xE9n veremos algunos ejemplos de d\\xF3nde se est\\xE1 utilizando esta tecnolog\\xEDa. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre sus beneficios y detalles de implementaci\\xF3n, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsUlEQVQYlWP4spn56xaWb5tZvm5hQWN828zC8O2wOZyDpuLrFhaG70esvh11+H465Osm5u9Xi+FyEFMZvp0J+XbI5Ntx56/beL5fSvu6U/TbIROEbhiLDaIcDTF828zy/Uzk1xMeICuOWH0/6f3tsOW3447fjtn9OOXH8HUT849Tfj8upv04H//9YgZIxdXiH5cyvx93/LpHiQFuJsLwHbxfDkOth9qN7BkUu7GKwoMFAE5TsjfQKBEvAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Jan 12 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-al-lenguaje-para-el-desarrollo-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Al Lenguaje Para El Desarrollo De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n de prop\\xF3sito general. Originalmente fue desarrollado en Google para resolver algunos de los problemas con otros lenguajes de programaci\\xF3n como C y Python que dificultaban la escritura de programas r\\xE1pidos, peque\\xF1os y correctos.\nGo facilita capturar la intenci\\xF3n del programador en el c\\xF3digo y generar resultados directamente desde la fuente, gracias a su sintaxis liviana, declaraci\\xF3n concisa y soporte integrado para funciones an\\xF3nimas sin la necesidad de variables temporales o argumentos auxiliares.\nGo generalmente se considera un lenguaje de programaci\\xF3n moderno, lo que significa que ha sido dise\\xF1ado teniendo en cuenta el rendimiento, viene con soporte para concurrencia e implementa nuevas caracter\\xEDsticas introducidas por otros lenguajes de programaci\\xF3n recientes como Rust y Swift. Los factores enumerados anteriormente hacen de Go una excelente opci\\xF3n para proyectos de desarrollo de software que involucran bases de c\\xF3digo de tama\\xF1o mediano a grande, optimizaci\\xF3n del rendimiento o compiladores de escritura.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAvUlEQVQYlX2QPQrCQBCF92Z6APE4Flp4CUWPYCF2lqIWafxhN0NCSNDAEiEuC4mk0CQ7I2IEFcR87fCG9z1GtTAiUhXnCl0Rx7FSCg0yNAgAUkrHcaSUnPMwDAHA87w8zxnpJSbW79v7Yo4Hn4lJw562kiQRQriuCwCc8/QYbNtNr99hdNlhZhNRlmXf6cJa0Uk+q21GYzGbpWn6vmmti6Komhtcd3v7wfClEASB7/tRFH3EzO2KZfnXu2aWB0v+Er/l/mhbAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "introduccion-a-las-caras-de-javaserver",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Introducción a Las Caras De Javaserver",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, hemos visto un aumento en la popularidad del software y los sitios web f\\xE1ciles de usar. Una gran raz\\xF3n para esto es que los dise\\xF1adores de software est\\xE1n prestando m\\xE1s atenci\\xF3n a la experiencia de los usuarios. En lugar de dedicar horas a hacer dise\\xF1os, est\\xE1n invirtiendo m\\xE1s tiempo en dise\\xF1ar experiencias de usuario. Las interfaces de usuario desempe\\xF1an un papel fundamental en la forma en que el p\\xFAblico objetivo percibe una aplicaci\\xF3n.\nUna interfaz de usuario consta de varias pantallas o ventanas que brindan acceso a la informaci\\xF3n o permiten acciones como ver, crear, guardar y abrir archivos. Una interfaz de usuario tambi\\xE9n incluye las propiedades visuales (como colores, fuentes y gr\\xE1ficos) y los componentes de navegaci\\xF3n (como men\\xFAs, botones y pesta\\xF1as) que los usuarios ven e interact\\xFAan cuando usan un programa de computadora.\nEn esta publicaci\\xF3n de blog, aprenderemos sobre JavaServer Faces; lo que es; por qu\\xE9 podr\\xEDa usarlo; y finalmente una breve introducci\\xF3n a sus conceptos clave.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-usar-la-codificacion",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Usar La Codificación",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

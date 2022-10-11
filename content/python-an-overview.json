@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/python-an-overview.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALWgbKSYj4JoYHFeVY5yZ6OGdaeIdXBeWaaIe5yAdQCgjVjYvXKrjmp4YlqKcWWQdWeqh3NyYVmhg3atjYEAtp1Tjn1KmodTyrN7wql7tpx5qodzb11YnYBzsY+BAEE4KbCXYI17RoJzT8S1lbalgsWtfrGee6OIdpF3cABEPDQuKyVPRTuijG+vmXq4n3WrlWiomXnHs3i+qHQATEMzOjInTUVDJyQpHh0iRj82SkE2XE84noRPsJVcAFlNOFFGNWJWSlZLPVlOPWJSQWRVQ2dbRIFvUXlmQwAZFBg8MyhRRjNfUj5eUTw4MShDOi87Myw2Lio/NS0AGhUbJR8fKCEhFRIYHxocMCgkPjMtKCAjXEw9d2ZRABgSGxoVGx8aHh4ZHUw/MX9mSI11UpB4VVVHOYJrUEqGcmCuBDfgAAAAAElFTkSuQmCC",
   "createdAt": "2020-02-14T00:12:31.301Z",
-  "updatedAt": "2022-10-02T10:55:03.575Z",
+  "updatedAt": "2022-10-11T17:15:28.665Z",
   "categoryLocal": "coding",
   "slug": "python-an-overview",
   "locale": "en",
@@ -20,25 +20,70 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-cloud-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
-      "createdAt": "Tue Mar 10 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAvUlEQVQYlX2QPQrCQBCF92Z6APE4Flp4CUWPYCF2lqIWafxhN0NCSNDAEiEuC4mk0CQ7I2IEFcR87fCG9z1GtTAiUhXnCl0Rx7FSCg0yNAgAUkrHcaSUnPMwDAHA87w8zxnpJSbW79v7Yo4Hn4lJw562kiQRQriuCwCc8/QYbNtNr99hdNlhZhNRlmXf6cJa0Uk+q21GYzGbpWn6vmmti6Komhtcd3v7wfClEASB7/tRFH3EzO2KZfnXu2aWB0v+Er/l/mhbAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-cloud-computing",
+      "slug": "introduction-to-javaserver-faces",
       "locale": "en",
-      "title": "Go Language for Cloud Computing",
+      "title": "Introduction to Javaserver Faces",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlT3NUctEQBTG8fn+H0euJy6QCOGGkShTdKYYpzljlNre3Xf3d/vv6WHPV9/3wzDM89w0Tdd1+74/z8N+eRzHNE2DIMiyrCgKpdRfVkohojHGWktv9g0R7/tmxpjjOPDLOYeI1lqttZSSbdt2nucvX9e1rmtd177vR1HEAICIzi8hhOd5ZVkCgLWWff4QsW1bznkURQBgjNFaExGTUhJRGIZd1xGRc+7zpbX+XwshpmkCgG3b9n1XSi3LIqUEAJYkSZZleZ5zzpMkqeuacx7HcZqmVVW9AA5GDfWRiPIiAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-tool-for-data-analysis",
+      "locale": "en",
+      "title": "Python - A Tool for Data Analysis",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data analysis is a crucial element of many fields today. With data being collected from all sources, businesses need to use the data effectively in order to drive their company forward. Organizations are turning to data analysis software to process and understand the information they have stored.\nAnalyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we\\u2019ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADYzK0E8MFBKNz88MUVAND06Mk1GO9iYUPqyZN+wcABgW01QTD45NS1PPzBlRyuEVyuYYSvonUnQjkk8LiMAml8lv3Yt5JE5+KRD/K1K/LBU/blj/L5q05NONCEXAKBpMc2PSb+KSt2gVaR1PLuISqyATbSIU6NyQTUgFQCebTuVaj6Xb0HMl1d9WjahdkmlflKed09hQSWtaSUA+rdq/b508LdzwJJdxpZgvJFi0qZ157V//LJZ/apLAPq4b/u+eNWja4lnRZt2To1sTHpcQqiDXf25bvu0YQD7v3/8wH79w4L8xYX8xon9yY3quob1xY79x478xIoA9/X0+d/I/MCA/MGD/MSH/MaL/MeO/ciR/ciR/ciTAPXv6Pu+g/y7ev28fv6/gv3Ahf3CiP3BivvCivzDjr/zqhQXGOjFAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "setting-up-your-java-development-environment",
+      "locale": "en",
+      "title": "Setting up Your Java Development Environment",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Kz0vCUADA8fcH9RdEl6BrlyApqEv1X3QID1EYEkWhaBGoNdS01PIUlqTp1L3p/LE0Ncu57U3f5vacSqeQgs/t+wVmv2oq/AjVRqiio7KOyob8byhCYIhQFWYM9P4z1k31C4us1mOHMjcUi2DQecPfjKmJ0wmZTshkbGCJQwLjuTx2Ow4BUVpjVdGxRLRBic0THRMDNevJNcvK9tYGIKiLe+0SzD5Ew9a9XTrzOjJURWqsry5ZlheA3Kr6rhwXzlPH+YkodDSMdE3FfSnosS3Oz4FuvWQ7sIaD10KnJUtddSAzdDIaOGNS1M7mMvis5dsV2Kiw7Qbf/OBDN87nuLucC/EwEqPsoJp9/MtP8Tufa59+8cK0n6NveRgppv2gkPByuZTXdRSj7HTCk0v6mBRVzARmR+H+FyOp6jj0Ug9FAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/python-the-language-for-system-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdLoAAreEru2AAP7zR9jGqPJGadLi9+v/tC82cNq9UFopDMSFDzK9Y+Efid49hRnu4PGnO2k2cc8Xc+0q6D+MFCcFuRmt0TXilwv/tQo3/TwE/8w3hGf/qYV4u5fub/+7J/6kAAAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlSWQsUrDYBSFf+45QegguDgUQXBSXDvo6OAjtHMRF6fqJKINqDQ4OBWsNLYahbRUUlMISdUGsSimg8GW7go+iSTCGe7lDIfvU1VBHWgCNtCBdCA2YIF1oCpQNZEbsiV4ID3AQ3K0QQu8JNRTsfh5enKeX3RX5/yF2cEMHzX2IG2wCahv379eXgrD28HmRgREwJDsA13BHUT9BMHYNCcVI24df5VK073d+GA/Pjx618sjw0hqJ5MJwSA//7qz8ttzp9tbY13/KJfDQkG5uVyXfCbfstnxWWWyvhYBIZJ5G1AWeE8ExAuT4RE5JAPCSfBENVJiJ0Xqp/HS105lqAtIHYmZ/5jUGtCuUlc1kT+4rGF2vrBNIAAAAABJRU5ErkJggg==",
       "createdAt": "Tue Feb 11 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "python-the-language-for-system-administration",
       "locale": "en",
@@ -50,121 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWXCz0vCUAAA4PdXeeneJRHq0DnqZCThIOgHIVQjUhGkKUTLsmJSB/WQiRZJWbC13LSpLH1OLSba3Ntzm3jt4LGPDwhSW5DaxXe5Uv8u17pcucWK8O0DsiLkxDbIPfKr7uBRkDmOJOnzLOlnSD8jN9XOjyZWFeAlKC9BUZHkzi5NbERvbp/mF7YbZfmryFeqCsjmWN0YmaY9tifa0ETYbrJCanPpIeR7iSdAOJr2EpTTtbXmCcfiOYRtlf/cX1lOkev5kAdI1RYvyJdX+XyhxPENpTuQSzIXT0jpDEMGgKJi2MN93UajCRpNfvG4NzDu6OvCBXPqOwDaEA+RqRuWgSyEbd2wdMOq12DmJEbvHQLY6U8r3cE07PSL96/RRbdnxgme2dr/gcDZrMPldMz9AYzG3b/uJM7yAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-a-language-for-everyone",
+      "slug": "creating-a-javafx-user-interface",
       "locale": "en",
-      "title": "Python - A Language for Everyone",
+      "title": "Creating a Javafx User Interface",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Almost every application needs a user interface. Applications with no user interface appear to be nothing more than programs running in the background on your computer.\nIt\\u2019s impossible to imagine any application that isn\\u2019t accessible through some sort of graphical user interface. JavaFX provides ways to build and implement interfaces that are engaging, dynamic, and responsive.\nEven though JavaFX is a very powerful library, it doesn\\u2019t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls \\u2013 there were a few controls which didn\\u2019t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).\nIf you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVQYlWP4vjETD2L4eHbN943ZOKX//fv34f4ZnNLdzdUFKRHzCp2XlrlVRph1p9jOzHPsTLJqirXI9zdk2DGvdUml/9x852nZjk2xFnPznQ92BXcl2zTFWhQFGzG83tePy+QvG/MZvm/M3NrkPyPH6WW1193l7a8Pzzm5quf1jtYHhzce2rcTJL2swiPDW+/z+sw3p1a8ODjr+anVb/ZPvpHse2XXQpA0Gvq6POVlk9/X9ekgl2NKv6j0+rYqDeIxAGAQvR8GNpC0AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-database-programming",
+      "slug": "python-the-language-for-artificial-intelligence",
       "locale": "en",
-      "title": "Go Language for Database Programming",
+      "title": "Python - The Language for Artificial Intelligence",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/deploying-java-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
-      "createdAt": "Tue Sep 07 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA60lEQVQYlWP4PZnpz0TGP9M4QYyp3H8mMv6ahEAMEOr3rsQ/691/74j6vdb+z86YP5t8fs2VBkmDtCKhX5NQ2CDp+UUaNcVh60qV/k5i+juJ6ftElsmFFtM6M080SDDcbBNomTSlvqevtLn1aovA5grFzZXyM5csb544OS0rjuFJF2dpQ+O0hUtySvJfdXPebBM41SjWNWXG3JUrZ/UXgww/2yg6NU/neqsg3NZ9NVIz8jWfd3FBnfZ7huDvyawQd0G8+nsyE9RjIEcuN/y1JfD37vjfGz1+bwv/s8nn9wJFhDRU03QeOBfCAADt253++6JmLwAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Mar 29 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "deploying-java-applications",
+      "slug": "go-language-for-object-oriented-programming",
       "locale": "en",
-      "title": "Deploying Java Applications",
+      "title": "Go Language for Object-Oriented Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a huge demand for software developers who can create cutting-edge programs and applications. Thanks to the rapid expansion of technology, there are plenty of jobs available in this field. However, not just anyone can become a programmer; you need to have specific skills and know how in order to land the job you want.\nIf you\\u2019re interested in becoming a software programmer and exploring new career opportunities, it\\u2019s important that you choose the right programming language from the get-go. The demand for skilled programmers is growing rapidly, so by choosing the right programming language now, you can set yourself up for success later on. Read on to learn more about Go programming and its potential as an object-oriented programming language.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-of-science.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlWO4ucPl2Pqoe6sk/uxmwkQMV5ar3N2gsn+qwJZeAXTpXSwMHzYyPVnFunMmz6IGwen5bPeXMp+fyfpxE8uvHYwg3TcXsO3q5X64iu3pOpYNTWxHJ7Lm+HFOzmVdU88B0g0x58lKqGlX57G9XINkN4RK9uS8NItlbT3boQksG5vZ93Sz96RzTs1lh0rfWsQ8PZ9tai775Tks52eyXpnLencR64eNTAzv1zPfXcR6dR7bzQUsV+ayvlzDtLeH/dYi5kuzWC7NYmFY18C+spZtYjbH3GKO+WXsDXEcS6vZmxI5NjWx7u9hZXi+mhXukHtLWF6sZka4dDcTAMGylDNjnCWEAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Oct 28 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-read-code-like-a-pro",
+      "slug": "python-the-language-of-science",
       "locale": "en",
-      "title": "How to Read Code like a Pro",
+      "title": "Python - The Language of Science",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Scientists need to ask questions, find answers and recognize patterns to uncover new knowledge. Python is a programming language that makes it easy for anyone to do this type of analytical work. It also excels at processing data faster than any other language. Because of these reasons, scientists are using Python more and more in their work. In fact, Python has become the most popular programming language used by scientists today.\nA scientific computing software package called \\u201COrange\\u201D inspired the creation of Python because its creator wanted to make something easier to use. Other programming languages like MATLAB were not user-friendly enough for general-purpose scientific computing so Guido van Rossum created his own version of it. He named it \\u201CPython\\u201D after the British comedy group Monty Python \\u2013 he was a fan -- and published it as an open source project in 1991 with the New York University AI Lab as its first users.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJbACdAEPDmRyPxAAAP799ci2CEwAClmvh+LYJCDlI5D8XnKI36JhP707Hs2lDfrPtafdp8NzP/Lk9Sf/3H/P/UJff+FLz3+TeN+xIAA=",
-      "createdAt": "Sun Apr 10 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVQYlU3OTUuDcADH8f/r6C30DvYGimgn2bHDoNM8iEEgLDusJ43VWsIuPhz2b4fcIAbmRTokCBOZiZ6cJWiSJYXDEk+TiEHsd/r+bh+QZVm5siiKVi+gaRpF0YmMnBwio9GoUqmYprlbr5Yv67XaNhBFkWVZ3766E7u6rpMkGQTBdfd88b5H0adAkiRN0z5fZdt8CMOQ5/k4jlVVzd6gLMuAYZhWqwUhHAwGtm1jGAYh9H2/2WwKggDm83mapv+W2Wy2jKIo/mjtdrvRaEzut44PqsPhcEmr72yW3hqCbACe5xmG8czL25sLVVVxHPc8jz47WnzskyQJxuOx4zjfX4b//JQkiaIoeZ5bllX+PE6nUwAh7PV6nU6n3+8bhkEQBMuyrutSFMVx3C8GENWLTtovAgAAAABJRU5ErkJggg==",
+      "createdAt": "Fri Nov 20 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-game-development",
+      "slug": "go-language-for-beginners",
       "locale": "en",
-      "title": "Python - The Language for Game Development",
+      "title": "Go Language for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/web-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
-      "createdAt": "Sat Jan 23 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "web-applications-with-java",
-      "locale": "en",
-      "title": "Web Applications with Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-data-science",
-      "locale": "en",
-      "title": "Go Language for Data Science",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/object-oriented-programming-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
-      "createdAt": "Wed Apr 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "object-oriented-programming-in-java",
-      "locale": "en",
-      "title": "Object-Oriented Programming in Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

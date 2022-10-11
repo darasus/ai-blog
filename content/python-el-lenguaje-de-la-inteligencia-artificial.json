@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVQYlWP4vjETD2L4eHbN943ZOKX//fv34f4ZnNLdzdUFKRHzCp2XlrlVRph1p9jOzHPsTLJqirXI9zdk2DGvdUml/9x852nZjk2xFnPznQ92BXcl2zTFWhQFGzG83tePy+QvG/MZvm/M3NrkPyPH6WW1193l7a8Pzzm5quf1jtYHhzce2rcTJL2swiPDW+/z+sw3p1a8ODjr+anVb/ZPvpHse2XXQpA0Gvq6POVlk9/X9ekgl2NKv6j0+rYqDeIxAGAQvR8GNpC0AAAAAElFTkSuQmCC",
   "createdAt": "2021-09-29T06:01:24.656Z",
-  "updatedAt": "2022-10-02T10:57:22.130Z",
+  "updatedAt": "2022-10-11T17:15:34.351Z",
   "slug": "python-el-lenguaje-de-la-inteligencia-artificial",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,100 +20,55 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-leer-codigo-como-un-profesional",
+      "imageSrc": "/articles/go-language-for-web-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWP4/PHt549vP7x//eL5gw/vwOwP7z58eAcRZ/j88e2D+zcO7l5xfP/K88e3Frf0SVn6OEZmnTp3ESp96MDmq5eO37x86uqFIw0TZxd3zSxsnxmcU/vm7SuQ9PlzR8+f2HHx1K4LJ3en17RnN03MaZoSktsAlf788e3Na+fOnthz99alZZt3eSYWxZe1Xrp2HWr4nSevwuc9Nu193L7j+bw120NyG7pmLH795iVUOnze/ajFL9ynPXGb9sQppd4pvtgpvriiaxpUOnTO/YqNL3NXPIqa9yirbU73/I0ZjZP80ys+vH8Nkr7y4KV9/13J6jupy564JZWxqFhru0fvP3oCqvvzx7cfP719//7txw9vPnx88/z5U4jFQGkAa/rZkuhmIu0AAAAASUVORK5CYII=",
+      "createdAt": "Wed May 18 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-administracion-web",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Leer Código Como Un Profesional",
+      "title": "Ir Idioma Para Administración Web",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es un programador al que le encanta resolver problemas con su c\\xF3digo y piensa en nuevas formas de hacerlo m\\xE1s eficiente, es posible que desee considerar cambiarse a una carrera en ingenier\\xEDa de software. Con la reciente mayor conciencia sobre las filtraciones de datos y las preocupaciones sobre la seguridad cibern\\xE9tica, ha habido una mayor demanda de ingenieros de software que se especialicen en el desarrollo de soluciones para los departamentos de tecnolog\\xEDa de la informaci\\xF3n (TI).\nExisten muchos lenguajes de desarrollo de software que puede aprender para crear aplicaciones para varios prop\\xF3sitos, incluida la creaci\\xF3n de programas de escritorio, sitios web o aplicaciones m\\xF3viles. Si est\\xE1 interesado en trabajar como administrador en el departamento de TI de una empresa y desarrollar c\\xF3digo para su sitio web y otros servicios relacionados, Go podr\\xEDa ser el lenguaje de programaci\\xF3n perfecto para usted. En este art\\xEDculo, exploraremos por qu\\xE9 Go es una excelente opci\\xF3n si desea crear aplicaciones para la administraci\\xF3n web.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-an-introduction.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYsZvq/odm/E4AA/vwNux3JEbTeEOJZ9i1DRvY8VNcrRGqumjKvbRM+LF/M3x/i/8HnLeVgh+lAiHAJXDyY2j445+01HQTD5AnwU9XT/BlQ6Wrz0lkO6i2q4/Rsvkukqcw9f3f/gH8neJ4k24y9CcQk+ha7Y0q9AeAAAA==",
-      "createdAt": "Thu Jul 09 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-una-introduccion",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlSWOTUsCQQBA54/WpUMFUWEUBN0iqluH6NDSQQwPEQXaJ4mgeKiwTFIUP2eX/ZrZndn52JlZPIX5zu/BAwSFLMKMEp5QyZNUMCV5KhhPKIswYDRJuVBSGqWN0pk2RmnxTyoYSLnQqTJKz0w203Np5ai8dlJq96CSEsw75pnwA/0WDLzJtJGMN1H7rGMt1baA+35eLe6+5nfKV9uqd5El0ChdndTyzetKtwKs4+VHa715v1e63ID1wxQ+LNbkYg03Dp6t1UZx8/su1305nbTeeEIFISzCke+D6VPu63a/VSkMOq2ExIIQHscUo8j3fccGn/Uqcr04DAgKKUYUozgMsOcFELqDIXCGY3cMg6njOzZy3NC2Awi90Qj2+qP2zx/fxv3tnTkr/gAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-la-programacion-del-sistema",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python: Una Introducción",
+      "title": "Ir Idioma Para La Programación Del Sistema",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando ingresar al mundo de la codificaci\\xF3n, o tal vez simplemente tiene curiosidad acerca de los diferentes tipos de lenguajes de programaci\\xF3n que existen? Cualquiera que sea su raz\\xF3n para investigar la codificaci\\xF3n, Python es un excelente lugar para comenzar a aprender sobre programaci\\xF3n de computadoras y crear sus propios programas.\nLa codificaci\\xF3n es a menudo una habilidad aparentemente inaccesible, reservada para aquellos con una habilidad especial para las matem\\xE1ticas o las ciencias. Sin embargo, aprender a codificar no es tan dif\\xEDcil como podr\\xEDa parecer inicialmente. De hecho, incluso si no tiene experiencia en los campos STEM (ciencia, tecnolog\\xEDa, ingenier\\xEDa y matem\\xE1ticas), a\\xFAn puede dominar los conceptos b\\xE1sicos de la codificaci\\xF3n. La clave es encontrar los recursos adecuados y un proceso de aprendizaje paso a paso que no se sienta como una tarea onerosa.\nSi est\\xE1 listo para comenzar a explorar el maravilloso mundo de la codificaci\\xF3n de Python, siga leyendo para obtener m\\xE1s informaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aunque los ingenieros de software no lo piensen, casi todas las aplicaciones de su tel\\xE9fono, tableta o computadora port\\xE1til se ejecutan en un sistema operativo. Todo, desde su c\\xE1mara hasta las aplicaciones que usa para chatear con amigos, requiere un c\\xF3digo de software dise\\xF1ado espec\\xEDficamente para el sistema operativo y su arquitectura de hardware particular. Estos sistemas operativos a menudo se denominan \"lenguajes de programaci\\xF3n del sistema\" porque tienen un enfoque singular en el sistema subyacente en lugar de las aplicaciones del usuario final.\nSi observa cualquier lista de lenguajes de programaci\\xF3n populares, ver\\xE1 que Go es bastante poco com\\xFAn, especialmente como lenguaje principal utilizado por programadores y desarrolladores de sistemas. Sin embargo, tambi\\xE9n se ha hablado mucho recientemente sobre c\\xF3mo Go se ha convertido en una excelente opci\\xF3n para proyectos que requieren un rendimiento intensivo y un uso limitado de la memoria. Si est\\xE1 interesado en obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 este podr\\xEDa ser el caso, siga leyendo para saber por qu\\xE9 Go es una buena opci\\xF3n para los proyectos de programaci\\xF3n de sistemas.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/javafx-and-multimedia.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoKAAoAAUAmJbACdLoAAxyBd40kAiAAAP7lO+1qOmds/tJfZfljhV9fzqbZgCs/Jc52J4+ud6v4QeEqivOh6V1q1Ndcfh8cf6FsXcR2ffzM7aPlLnaDyeM0qxZcpTWvFeKMv/zv31cdnJt1g46NA8o5kyzfE2oj34N/0PgA",
-      "createdAt": "Tue Jul 19 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "javafx-y-multimedia",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-usar-la-codificacion",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Javafx Y Multimedia",
+      "title": "Cómo Usar La Codificación",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Las nuevas tecnolog\\xEDas y los avances en la fabricaci\\xF3n de semiconductores han permitido la creaci\\xF3n de dispositivos m\\xF3viles avanzados. Estos dispositivos m\\xF3viles no solo se utilizan para llamadas de voz o mensajes de texto. Ahora se pueden usar para capturar im\\xE1genes, grabar videos y escuchar m\\xFAsica. Java siempre ha estado a la vanguardia de la adopci\\xF3n de nuevas tecnolog\\xEDas, gracias a su portabilidad, consistencia en varias implementaciones y gran base de c\\xF3digo. Si cree que Java solo es bueno para las aplicaciones comerciales y los sitios web, debe pensarlo de nuevo. Con la llegada de las aplicaciones de Java 8 y Android basadas en esta versi\\xF3n del lenguaje, hay un enfoque renovado en el desarrollo m\\xF3vil usando Java. Esto ha dado lugar a varias innovaciones en el \\xE1rea de dispositivos integrados con sistemas de inteligencia artificial basados en aprendizaje autom\\xE1tico (ML) y computaci\\xF3n perimetral habilitada para IoT. La \\xFAltima tecnolog\\xEDa que est\\xE1n adoptando tanto las empresas como los desarrolladores es Internet de las cosas (IoT).\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-most-popular-coding-languages.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOhgl5ESmHT/xSQreAAP76We2k8WMXPadRnwbJVZRD+9jyJfUhyLWRN5vzT0NxIE9sh+cwn2Ctb4rbuH9OfL8eZecIQQNJLfeynisY2AF38BfIUnV7eHqv5/5/+sN/U6SFywAAAA==",
-      "createdAt": "Fri Dec 11 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-lenguajes-de-codificacion-mas-populares",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Lenguajes De Codificación Más Populares",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es un trabajo candente en este momento y seguir\\xE1 si\\xE9ndolo en el futuro previsible. La demanda de codificadores est\\xE1 creciendo, y no solo en las empresas de tecnolog\\xEDa. Las empresas de todo tipo necesitan programadores con diferentes habilidades de codificaci\\xF3n para crear su software y sitios web, lo que significa que los programadores pueden encontrar trabajo en cualquier lugar.\nLa codificaci\\xF3n es tambi\\xE9n uno de los mercados laborales de m\\xE1s r\\xE1pido crecimiento en este momento. A medida que las empresas contin\\xFAan digitalizando y automatizando procesos, tambi\\xE9n aumenta la necesidad de desarrolladores que puedan crear programas. La explosi\\xF3n de nuevos lenguajes de programaci\\xF3n ha hecho que este sea un momento emocionante para ser programador. Hay tantas opciones disponibles, desde las tradicionales como Java y Python hasta reproductores m\\xE1s nuevos como Go y Kotlin. \\xBFCu\\xE1l crees que hace una carrera m\\xE1s prometedora como programador? Siga leyendo para averiguar qu\\xE9 lenguajes de codificaci\\xF3n tienen m\\xE1s demanda en este momento...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
-      "createdAt": "Wed Sep 15 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "typescript-una-guia-para-principiantes-sobre-la-seguridad-de-los-tipos-de-codigo",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "TypeScript: Una Guía Para Principiantes Sobre La Seguridad De Los Tipos De Código",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript es un lenguaje de programaci\\xF3n de c\\xF3digo abierto desarrollado y mantenido por Microsoft, que ampl\\xEDa JavaScript. Agrega soporte para escribir variables y funciones, interfaces, clases con herencia y m\\xF3dulos. Este art\\xEDculo cubre todo lo que necesita saber sobre TypeScript y por qu\\xE9 deber\\xEDa usarlo como desarrollador.\nSeamos realistas: el mundo del desarrollo de software se ha vuelto extremadamente complejo en los \\xFAltimos a\\xF1os. Cada nuevo lenguaje de programaci\\xF3n tiene su propio conjunto \\xFAnico de reglas y m\\xE9todos para crear c\\xF3digo que finalmente termina convirti\\xE9ndose en un producto terminado que los usuarios pueden descargar desde una tienda de aplicaciones u otro sitio web.\nEn este art\\xEDculo, aprender\\xE1 sobre los beneficios de usar TypeScript como desarrollador, c\\xF3mo instalar TypeScript en su computadora, qu\\xE9 IDE es mejor para usarlo con editores populares como Visual Studio Code o Atom Text Editor, c\\xF3mo comenzar a codificar en TypeScript descargando proyectos repetitivos con c\\xF3digo de muestra, \\xA1y mucho m\\xE1s!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-companies.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
-      "createdAt": "Sat Oct 16 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "las-mejores-empresas-de-ingenieria-de-software",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Las Mejores Empresas De Ingeniería De Software",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsklEQVQYlWPoVmPEgxg6VJm61Rg71XFIL4xSWJGk3Bfi2Bfj2x3t3RPu2ZcW2+Tn0B3p1aHDzbAoTG5mjGKHGkO7Fle7JnuHKlO7GlOHGkOHGgNI9+YMtX5r/j5H9W4nzR59/m5j4T5H9V5bxW5DoW5DIYZWY+61WRqtlnLNVgod3uatLvrtHiZN9hrdwU4N1ioMt4/6TwyTwenymUlaTZbSzSYS2KUhFMg56mw4pXEZDgDQ4VHCbPANTQAAAABJRU5ErkJggg==",
       "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "python-un-lenguaje-para-todos",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -126,9 +81,9 @@
     {
       "category": "coding",
       "imageSrc": "/articles/how-to-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJYgCdDKVQYo8QYUMP0AA/m0/fwp8BXZDJcg7VhhB8WRBkz0b8DrQQfmDp//oSUBvK3xt+nPvE/5V8u82rq/8mIA3Ol8+d9TJ39F7suqVqHf1xQPnlhGr9e0d/Hr13+zkNYt/K8i7wY/1jdcmuj/4OLXem5AogAA=",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AENNUURDOtJ+JtrGqNfFqdiqdtSMPtF0ENh2DNh2DABVYGNTRTrnkDPl6OO6xsbL1NbL1NTM0c3Qv6fZs4cAW2ZphVkq6J1J9P38ydLRu8TF1+DfytPSzNLS2+LiAEZRUs+GNuuvavL7+tbi4s/b28LLysHKycXPzsPKygBoW0vzqEbwxpLZ4uK1vr/N2Nm9xsbH0M+0vbzEzc0AhXFRvmge9d2+9/7+8fz9zdjbws/SsLq5usbE0+PiAMina45AD+rk3dTh497r7uDu8NDd4NTf4OPu79n7+wDaq2SGRyby9/ja6u3X5urb7PLi8vbk8fTg7vDTxsEA7qpfk3Bl8Pv85vX76fn96/r86Pj54O/z8fz9t5GMAO2oVXtWSd2/l9rPwOTt7uf4++n5/en5/fH8/ZdbVutG3IoQh8PtAAAAAElFTkSuQmCC",
       "createdAt": "Sun Nov 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "como-codificar-como-un-profesional",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -140,31 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/web-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
-      "createdAt": "Sat Jan 23 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "aplicaciones-web-con-java",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWXCz0vCUAAA4PdXeeneJRHq0DnqZCThIOgHIVQjUhGkKUTLsmJSB/WQiRZJWbC13LSpLH1OLSba3Ntzm3jt4LGPDwhSW5DaxXe5Uv8u17pcucWK8O0DsiLkxDbIPfKr7uBRkDmOJOnzLOlnSD8jN9XOjyZWFeAlKC9BUZHkzi5NbERvbp/mF7YbZfmryFeqCsjmWN0YmaY9tifa0ETYbrJCanPpIeR7iSdAOJr2EpTTtbXmCcfiOYRtlf/cX1lOkev5kAdI1RYvyJdX+XyhxPENpTuQSzIXT0jpDEMGgKJi2MN93UajCRpNfvG4NzDu6OvCBXPqOwDaEA+RqRuWgSyEbd2wdMOq12DmJEbvHQLY6U8r3cE07PSL96/RRbdnxgme2dr/gcDZrMPldMz9AYzG3b/uJM7yAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Aplicaciones Web Con Java",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que sea un desarrollador nuevo o tenga algo de experiencia, es muy probable que est\\xE9 trabajando con aplicaciones web m\\xE1s temprano que tarde. De hecho, la demanda de este tipo de aplicaciones est\\xE1 creciendo todo el tiempo, y los desarrolladores de Java que pueden crearlas tienen una gran demanda.\nTrabajar con un lenguaje de programaci\\xF3n como Java, que ha existido durante tanto tiempo y ha demostrado su poder de permanencia una y otra vez, es tanto una oportunidad como un desaf\\xEDo. Porque todos los dem\\xE1s programadores tambi\\xE9n han descubierto lo mismo sobre Java: que es estable y potente.\nEso no significa que no haya muchos marcos y bibliotecas para elegir: \\xA1hay opciones m\\xE1s que suficientes para elegir! Estas bibliotecas y marcos facilitan la creaci\\xF3n de sitios web con Java sin tener que preocuparse por el c\\xF3digo repetitivo o los detalles de la sintaxis. Entonces, echemos un vistazo a algunas de sus mejores opciones para crear aplicaciones web con Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
-      "createdAt": "Tue Jul 27 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-para-el-desarrollo-movil",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWN49+LPuxd/Pr36+/nd3y/v/3x5/+fzu7+fXv2FiDN8ePLs68P93x8fBKEn+6Ho8cFvjw69e/GV4euD43/2Cv87LPHvsNTfkwb/Tlv8OywFQd/urWX49vDYv30iVxeLvtku/veU6b/L4XDp7w/WMHx/fPT6Qv7SaN6ubMGGFKHSeLmOTP4l9YKTC/l/PFwNkv66U/jELOEDk4U+HrH/fD79/cmQ18fj3x10vH9qGshwsN0g01bPSD548OCdO3euXLnS35G9cPlKhs8v3/24M/fXw3m/H82dMbFq9uzZmzdvnjNnzpQJHQ9uPWb48OLP5zd/vn78/f3Lnw9vP796/vbls3cvnrx/+fQL2N8v/oDQm98f3/75/O7353cgBjxYAASj4xTZRqDkAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para El Desarrollo Móvil",
+      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con tantos lenguajes de programaci\\xF3n para elegir, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nCon tantos lenguajes de programaci\\xF3n disponibles, puede ser un desaf\\xEDo para los desarrolladores encontrar el mejor para un proyecto en particular. Por ejemplo, si el objetivo es crear una aplicaci\\xF3n que se ejecute en varios dispositivos y sistemas operativos diferentes, \\xBFcu\\xE1l es la mejor opci\\xF3n?\nSi est\\xE1 desarrollando aplicaciones m\\xF3viles destinadas principalmente a tel\\xE9fonos y tabletas iPhone o Android, es posible que desee considerar el uso de Python como su idioma principal. En esta publicaci\\xF3n de blog, cubriremos por qu\\xE9 esta es una buena opci\\xF3n y por qu\\xE9 otras opciones pueden no ser ideales en ciertas situaciones.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAp0lEQVQYlWP4ixcw/H3Y8uduGQjdK0FGv+8W/r5byPDnuDAexFAaw7l/Gt+fo0KY6OB0XoaNXVyzK7lqkzm6cjmr4jmmFHNVJ3BB2LXJHAy5YeyTCriq4tmyg9lLY9i7czgrYjjqkzjKYjnmV3Mx/DnM/ecw9/wajm19nH8O86IiboY/B7n+HOT6dQiEIErh6NchLoZ3D7a+vb3wza0FYDQPDTHgDxYA4qLC1Y7NxRUAAAAASUVORK5CYII=",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-web-scraping",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, a medida que las empresas enfrentan una presi\\xF3n cada vez mayor para digitalizar los procesos y extraer valor de los datos, una amplia gama de organizaciones est\\xE1 explorando soluciones que aprovechan los programas inform\\xE1ticos para capturar datos autom\\xE1ticamente.\nEste art\\xEDculo enumera los lenguajes de programaci\\xF3n utilizados para el web scraping y la extracci\\xF3n de datos. El web scraping es el proceso de rastreo de sitios web para recuperar datos espec\\xEDficos en un formato legible por m\\xE1quina. Es un \\xE1rea de miner\\xEDa de datos que cubre programas de computadora que autom\\xE1ticamente leen y extraen informaci\\xF3n de sitios web o documentos. Estos programas se denominan scrapers o rastreadores. El raspado es una tarea que quiz\\xE1s deba completar como parte de su trabajo como comercializador digital, ingeniero de software, analista estad\\xEDstico o investigador.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/java-security.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABC0lEQVQYlT3PQU7CQBTG8bmj7uAKJLoQL8FWT0FCQmKLQ6YvHVrTSZ2mKQskFcjYUSyLNnQcFxpeTGnib/n+m+8RRDTGFEWxXq+Xy2WWZUqpqqrwjFhroyiilDqOE8cxY2wymQRBsN/v27zdbjnnACCECMMQAHzf9zwvjuPRaESklF3jnAshojMAmM1mZVmSJFxs5vPd6+ZTqY83pRZB7ri7Te57oLUmv+/F8eKy6fWbXv/rdthcXZvhjRkMjvd3h8OB/HzbyHl4po/ReLzyIXTdlPOn6bR4WQEAQUR5lqapECJJEiEEY0xr3S5HRGutlJJSyhjrvsjzHBFPp1ObO3Vda63LsjTG/B//AIJp9TZbNxwzAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Jul 08 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "seguridad-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Seguridad Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los dispositivos conectados a Internet contempor\\xE1neos son sistemas en red complejos con requisitos de seguridad desafiantes. Los nuevos vectores de ataque y riesgos de IoT surgen de la convergencia de servicios digitales, sociales, m\\xF3viles, en la nube, de sensores y otros nuevos servicios de Internet.\nLa seguridad es una de las principales preocupaciones tanto para los fabricantes de dispositivos como para los usuarios. Muchos consumidores tienen reservas sobre la seguridad de los dispositivos y servicios de IoT debido a experiencias pasadas con virus inform\\xE1ticos, software esp\\xEDa, conexiones Wi-Fi inseguras, violaci\\xF3n de informaci\\xF3n personal de bases de datos y otros incidentes causados por sistemas no seguros. La seguridad debe abordarse desde el comienzo de cada ciclo de vida del producto. Cada fase requiere un conjunto adecuado de medidas de seguridad para proteger los datos contra el robo o el sabotaje, as\\xED como contra las amenazas internas, como los malintencionados o los empleados deshonestos con acceso privilegiado. Un programa de seguridad integral debe cubrir varias \\xE1reas clave, que incluyen:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AI6v0ZSz0pu51qjA1qW3x4ebrp+71qjB26rE3aG/2wCYrsKbttF8mrRngJAxPkAqNThQZ3Z7mLWAo8qAo8oAPEdIW2pxND0+W3J+TnZ/T213UnJ+OEVFRVthP1BYADdUTSRfUCxAOUZqbEJKUDtCQlJ3gj1UUSNeUTdbTwBtb3NETlRnYmRhX11hX11ybW9fW1h/c3M6RUppbnYAMDAuKSwrLC0oIygkLzIxLTArHyQgLjEuHyIfJickAERsKkZxLENuK0VrLENiLkJhLURpLUBrKEFqJj9nJQBaiztaiTpfjD9hikNjf09kgFBffU5df0hchT9YhTgAR2g0Sm81T3Q3U2hKUl1SUlZZVVdYT1RTT2dESm43AEBIQz9EQkNFSUdJSkhKS0lKUUdGTUdGS0NFR0BGQqv4bmlhg84pAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "herencia-en-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Herencia En Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensas en clases y objetos, \\xBFqu\\xE9 te viene a la mente? Si sus pensamientos se dirigieron inmediatamente a la idea de clases para padres e hijos, entonces ha estudiado programaci\\xF3n orientada a objetos o comprende los matices del ingl\\xE9s. Sin embargo, si piensa en un padre que da a luz a un hijo, es evidente que no ha estudiado suficiente programaci\\xF3n orientada a objetos. Veamos de qu\\xE9 se trata la herencia en Java y por qu\\xE9 es \\xFAtil.\nA menudo nos encontramos reutilizando c\\xF3digo que ha sido implementado en alguna otra clase. Esto nos lleva a hacer una pregunta muy l\\xF3gica: \\xBFpodemos reutilizar el c\\xF3digo a\\xFAn m\\xE1s? \\xA1La respuesta es s\\xED! Podemos tomar una clase y hacerla para que ampl\\xEDe la funcionalidad de otra. Esto se llama herencia en Java. Es una de las piedras angulares de la programaci\\xF3n OOP y algo que todo programador serio deber\\xEDa saber bien.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

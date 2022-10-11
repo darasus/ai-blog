@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/web-applications-with-java.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDUlEQVQYlWXMMUvDQBjG8fQTCE4O4idwCIKjbn4IdyGbQ0fBTYcuGlCCU0EUncIRvUFKQExLzdBIyiUxXgg0kmBIrKLCmeC9oldwUP/Ds/zgkaqqev8XY6yuawCQen376vzo9rqTR0EehZMN8igMPSK42F7ncoPLjbel6XJ/c9xuMWWFry6WB1uCH6jPR9S/OAv6XTJ03ZvB4LLzmUR5TAWnaQoAtm07joMQwhgbhsE/eJZlgpMkAYD6qXwePyKEdF0nhKiqijFmjElxHN/3zNZGs9veqycBAGNM0zTLsiTXdePmGl2eHcpz9HR39JPneeIcABx152Rm6nBh/jW5g98JfimKY0XxTfOPffMX86r0XV0coA0AAAAASUVORK5CYII=",
   "createdAt": "2021-01-23T03:34:34.934Z",
-  "updatedAt": "2022-10-02T11:00:14.292Z",
+  "updatedAt": "2022-10-11T17:15:42.845Z",
   "categoryLocal": "coding",
   "slug": "web-applications-with-java",
   "locale": "en",
@@ -20,40 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-devops.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
-      "createdAt": "Tue Aug 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAk0lEQVQYlWO4e/fuehhYu3YtMvv169cM06ZNY8YBjh49yjB16lRkIWFhBPvIkSMo0nx8rM6uTOjS3t7eISEhwsLCLm7M/oHuQYFBysrKWlpaUMMDAgI8PDzMzMy8/ZhCQkLCwsISExNTU1NBuqdNm8YOBgL8LNKyzBwcHJqamqKiolDDSXM5uvTDhw934ADv3r0DAGLKXQ51IibaAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-devops",
+      "slug": "the-difference-between-javascript-and-typescript",
       "locale": "en",
-      "title": "Go Language for Devops",
+      "title": "The Difference between JavaScript and TypeScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
-      "createdAt": "Sat Sep 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+klEQVQYlWP4hxcwQKi/L5t+P4z+/TD29+O4P4+T/75bCJX++/f3359Pft9QPb5W9s1ZxWfHFM9skPlzUwMq/fHqiV+vTq+cKHF1u+zz40pTG0Qvb5XdOV/q378/IOlN6aH3lzZtWuh6aIXSvHaxCbUiB5dJH1wmDZW+tGvL949vvr9/eedY95uzigeWyV/eIv/7pvLfv79B0u/O77m9ed7a+pIdHWa/rivf2qP0+ZLyt1tBULt3dJY2R3j6qit5y4snGsid3r3m+6cnf/78hEr76qtqCQrE6OtcnD/71OrFf36DrET4W5mfX4WXz0FOusTRcvecKWjBAgAeCdp1SW1kIgAAAABJRU5ErkJggg==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-use-code-snippets-effectively",
+      "slug": "go-language-for-embedded-programming",
       "locale": "en",
-      "title": "How to Use Code Snippets Effectively",
+      "title": "Go Language for Embedded Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA80lEQVQYlWP4dXfPvx8f/+EADH8PlP5b7fr3+krs0v/+/P774d6f5dbYpf9si/uz1uPvzlQchp9o+7s1+u+lOfdXrjzg53u2IP/mlKlHY6KPx8W/Pn6c4d/723/f3fr3/d2zvXv3urpcbms9npy828HxYFDwfm9vBrg5by+ce75n19+/fz8/fPDl0SMIYjhfWfF0186Hq1bdnDH93cVLH2/dfHX8+JdHjz49uP/27BmGfR6eN6dMvVhffzgi4oCPz/Hk5I0qKifSUg/4+R4KCGB4ffz49/dvH21Yf3/Z8hNpqe8uXro5Y/rjzZtvz5l1d8ECAKxL78mUoQ3KAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlVXKsWrCQACA4XsOn8BX8A3sUCrURcgS9QGcXbIkYBCS43JeionpkVQcJJQiFLp0K2TRpUpQThsktBKCSzoUmxylpRT6r98P3u6k6PpyP22km8fjMeX/A5PJDaUjYmKMEaUj13UppZZlEUJqtRr4G/PPvCiK0+kUBMHhcOCcl0qlb86yrNlsdjodQRAkSWq1Wowxznm5XP7l2Ww2Ho9lWXYcx/O8MAwXi0WlUgFRFFmW1e/3e72eqqoQwm63OxwObduuVqsgjuPBYKDrOoRQ0zRFUeSfHMep1+tgvQ63u3UU7RjbrFbP7y/3+etDns6Lj1QURZAkyXK5ZIz5vo8xvpUbT+rZ6up8P23M7QtgmiYhBGMMIUQIQQgNw0AIGYbRbre/AMwdy4X/utt0AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Aug 04 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tools-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Tools for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Developers do a lot of work. As with any job, coders have to balance the amount of time spent coding as well as the quality and efficiency of that coding. It is an ongoing challenge to stay organized and productive throughout the day. The good news is that there are many tools out there that make the lives of developers easier. These tools make tasks like code organization, file sharing, debugging, and testing much simpler.\nCoding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let\\u2019s take a look at some of the best coding tools that every developer should know about!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlT2PO0sDQRSF999Z+V/EzkYES8FHJ5hCC4miEXwRV/KwELYwELQIbkJ2Z9x53Zk7s7OPgKUsG4TTfYfDdwKZES0yIxkqbkG0QcWNZMBpAJwaySwIj6qw0MZpaUEYyYJ/VjpTe1t7W+VYOuNRoeINdlqKkx3T7+ZkbsjSMoJZCnTptAxQcR0N4GBLXe9Cd/twc+PueL93tDe4PPWoGuznn+XHsJ6NzKRPpxMWvS6mEfn+0ixtsNOyynFVuN/arwoXvz39jHrp+BGSeK1WWGi9Fu+hfuiU4YUZXjVqWmTNgOGFhSrXnCaz8DZ/PoPxTXMMOF03tPSoPCpOk/i+Y17OZUb+AMfgAewT8ENlAAAAAElFTkSuQmCC",
       "createdAt": "Fri May 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "introducing-javafx",
       "locale": "en",
@@ -65,106 +110,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAAUAmJaQAAp1sL/6gAAD+/ZkYCSsUHYk2JM2ap4/+4po/ywv73Y/jVYfH/NkSyL5A01+hIh+6yZ8jAAAA",
-      "createdAt": "Tue Jul 27 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABG0lEQVQYlWP4+y7674eCb2/6P75a9uDWwo+v1v/8tObXhyl/PhT9fRfN8PNd+9+/fx88OHloT8+DW3OPHew7fKB/784lX79+/fFhMcPv98WfnrWBzACj53ciIYyvzyu+v+tkuHIq6OENkNCft1EPrwRdOuL99prP71fhn55nXz4RzKBS2aM4Zcffd9EN3enRuXl2IakarilHDsWEZbeF5c5gKF1QMuNI+9930UcOJjX35qRXpDb0xD++Fd3an5pXX8lw50Lo/cvhr+5CrbxwNBjCuHMh9ObZEIa/76Lf3g+/dS744ZWQB5eDzx7yf3oj5OGVkLuXgkAe+/su+ubZwHVLnNctcT2133f9Ured6zxXLXLdvsYdKo0HAQBTP809B/sAzgAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Sep 06 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-mobile-development",
+      "slug": "javascript-for-beginners-a-comprehensive-guide",
       "locale": "en",
-      "title": "Python - The Language for Mobile Development",
+      "title": "JavaScript for Beginners: A Comprehensive Guide",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
-      "createdAt": "Wed Mar 24 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABBklEQVQYlWP4BwJ//uEADK2tre4w4OHhsWzV2tBpV1x6L0EQg7u7e0pKSioMOAYmOHVdTFpwA4IY6uvrb7/82rj5/vZLr//9+xeSUrz85EuE4fX19bnLbn/58btk1R249NmHH6fuf/r47XeQ9NT9T1s2P1hx6sWzDz9CUooXHXueuuDW688/sxbfBknnL7t78Oa71AW3pux7EpJSPP/os+ylt379+ZO99BZI+suP35vOvzn/8OPP338ghu++8q5j68Nrzz4zGBsba2pqpqamOjk5aWpqWntHSRUfV68+U7PhnmrVaYaVK1cWFBT09fVVVVUVFhYeO3GyZfOD4hV35xx8XrLyHgD3fcUE7xu/ZAAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-resources-for-beginners",
+      "slug": "go-language-for-mobile-development",
       "locale": "en",
-      "title": "The Best Coding Resources for Beginners",
+      "title": "Go Language for Mobile Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
-      "createdAt": "Tue Nov 16 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWM4/SEAD2KAUFPWWczfbTl3h/XCPTarTzhOXG2+7LDdquN2IOkT73yLmhRz61QK6hXjc+Tza+QzyxXqJmpPXWvG0HbRouahSfNzwwW3HSuuGlU/Nmx8rTfno/mxN94n3vkySC4QZDnGxfWSy2WFPFspB1cPl9gUDps/7Ic+eYPsjtin7nlNKfS1atdeU595Cn6HlSOOK9R804Q6rXO+8dJDtttveex75H34ud/2G5577nufeOcPlW6dbZhWohCaIF3dpxYcK1PcqlbZo9a/0hQqvfa07b4HHuvPOGy+5Lhkv2X3IsNNFxyOv/FD8TeuYAEAAPmiJ9EqlXYAAAAASUVORK5CYII=",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
+      "slug": "go-language-for-database-programming",
       "locale": "en",
-      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
+      "title": "Go Language for Database Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
-      "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-hibernate.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlV3MwUqEQBzHca89VcdeoFfoWm/QwRdI8CR1kL15lAGF2EsQEyYTbcMoKTuNRO2apbsLpf6dP4Ssh+jH7/aBrwEAetAA0HUdIgIA/pkRhqHneb7vW5ZFCHEcJwgC13UJIVJKAxH1oHv43m3zrt3qQe+/z4wM/Wb5fJEJ8+H+fLVKOedCiCmOiF8ft5kwZ5fHR4cHtnWGiG3bpmk68aZeZMLMhBn6J3d0pgf9uXt8KuyJEXH9fv2S2+s3X+t+89PMF/PTqzEz8b+91s1Nthy5LMuiKBhjSinOeZ7nSqkkSZRSTdMYVVVFUcQ5j+OYUiqlpJQyxoQQdV3/ApBIAmReXn5gAAAAAElFTkSuQmCC",
+      "createdAt": "Mon May 31 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "slug": "introduction-to-hibernate",
       "locale": "en",
-      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "title": "Introduction to Hibernate",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
-      "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-concurrent-programming",
-      "locale": "en",
-      "title": "Go Language for Concurrent Programming",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
-      "createdAt": "Tue Mar 22 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
-      "locale": "en",
-      "title": "Learn JavaScript the Right Way: 10 Steps to Mastering JavaScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that Javascript is the most popular programming language in the world? Did you also know that it\\u2019s one of the easiest programming languages to learn? That means more and more people are picking up this skill at lightning speed. It makes sense, considering how in-demand coding skills are right now. And with so many introductory resources available, why not pick up this skill sooner rather than later? After all, there\\u2019s no time like the present to take your career to new heights.\nWith that in mind, we\\u2019re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we\\u2019ve broken this guide down into easy-to-digest sections. If you\\u2019re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-image-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
-      "createdAt": "Fri Mar 18 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-image-processing",
-      "locale": "en",
-      "title": "Go Language for Image Processing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

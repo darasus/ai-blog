@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEfhzEuWsgAAP78iej+mZU65vIG0J/8ef4J5aTYN1qvvWnP//X6IDmh0a7zmp4pFMvWI/gdcipT45r/1D347/GGIcv/4Z2onpxNio9608Rd95/lbY+3qlns8r3cHnqibLuv/zO5/8Tb/85EeXZ7/7/uOTLN//0xkRfyYjgAAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APzT3/zT3/vV4PvW3vvW3vvV4PmVzfyIzPzT3/HP3QDs0d/71eD71eD71eDQx+PIpt/RidjFseP39vny1OAA7NHf/N/pvN3vgNLtZs3vVcjthdfwWcrt7/j8/dzlAPttxv2r4ofX82PL7DW96jS+6jm/6wix6On2+pnH8AD7Kbj6gdOq4/Qqu+oEr+c9weset+oLsenG6ve11/UA8x21+FPG2/P6C7HpNL7qVMfrbc7tV8ftmt305/D7AOhNs/Mnt/z7/FDH7HLR7m/P7IbW8Jnc8c3e8fjQ5gDLprfmIK7w4PHF5fPUweX2n9z8cdD8QcD6S7r6udEAf2Vt6X264C6x6xqx9Bmz9hy19hyz9mS6+8TU/MrZAOewwvu/0do7p+UQruwWsu4ds/R9vPzF1f3I2PzH1wHG4qDJkQq5AAAAAElFTkSuQmCC",
   "createdAt": "2020-02-01T13:28:06.053Z",
-  "updatedAt": "2022-10-02T10:46:24.800Z",
+  "updatedAt": "2022-10-11T17:15:08.940Z",
   "categoryLocal": "coding",
   "slug": "the-best-coding-tricks-for-beginners",
   "locale": "en",
@@ -20,100 +20,70 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-get-started-with-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
-      "createdAt": "Thu Jun 03 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsUlEQVQYlWP4spn56xaWb5tZvm5hQWN828zC8O2wOZyDpuLrFhaG70esvh11+H465Osm5u9Xi+FyEFMZvp0J+XbI5Ntx56/beL5fSvu6U/TbIROEbhiLDaIcDTF828zy/Uzk1xMeICuOWH0/6f3tsOW3447fjtn9OOXH8HUT849Tfj8upv04H//9YgZIxdXiH5cyvx93/LpHiQFuJsLwHbxfDkOth9qN7BkUu7GKwoMFAE5TsjfQKBEvAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Jan 12 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-get-started-with-coding",
+      "slug": "go-language-for-software-development",
       "locale": "en",
-      "title": "How to Get Started with Coding",
+      "title": "Go Language for Software Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is a general purpose programming language. It was originally developed at Google to solve some of the problems with other programming languages like C and Python that made it difficult to write programs that are fast, small, and correct.\nGo makes it easy to capture the programmer\\u2019s intent in code and generate output directly from source - thanks to its lightweight syntax, concise statement, and built-in support for anonymous functions without the need for temporary variables or auxiliary arguments.\nGo is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-code-faster.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
-      "createdAt": "Sun Mar 01 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-database-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWM4/SEAD2KAUFPWWczfbTl3h/XCPTarTzhOXG2+7LDdquN2IOkT73yLmhRz61QK6hXjc+Tza+QzyxXqJmpPXWvG0HbRouahSfNzwwW3HSuuGlU/Nmx8rTfno/mxN94n3vkySC4QZDnGxfWSy2WFPFspB1cPl9gUDps/7Ic+eYPsjtin7nlNKfS1atdeU595Cn6HlSOOK9R804Q6rXO+8dJDtttveex75H34ud/2G5577nufeOcPlW6dbZhWohCaIF3dpxYcK1PcqlbZo9a/0hQqvfa07b4HHuvPOGy+5Lhkv2X3IsNNFxyOv/FD8TeuYAEAAPmiJ9EqlXYAAAAASUVORK5CYII=",
+      "createdAt": "Sat Jul 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-code-faster",
+      "slug": "go-language-for-database-programming",
       "locale": "en",
-      "title": "How to Code Faster",
+      "title": "Go Language for Database Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-machine-learning.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
-      "createdAt": "Sun Jan 16 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-machine-learning",
+      "slug": "how-to-use-coding",
       "locale": "en",
-      "title": "Go Language for Machine Learning",
+      "title": "How to Use Coding",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-versatile-language.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAABQAgCdASoKAAoAAUAmJbACdDBAAZCY3O6VQAAA/v0pFmia953PYuz9sOvMp4HKDRbSxLPQW+LzCv8A7oz9gTg3/cVhD/Fz/n4ZQVHSuvrv33gesp1RzrAxnc9G9wdcDhj8NN9xqjyOlP/4Nabb/uv/Pua+sl8T+2I7e/k5M/zZIzAA",
-      "createdAt": "Sat Aug 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/spring-mvc-applications.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlY3PzQsBQRzG8flrnVzcHZ3EyUUJq0haJcrJKpsmB5vEivW+u1kvY423XXbMryQHNzy3b5/Tg+Dr0G++P5x32HfCwGPgfXh7naT7vsokxLmX14WimSuaubIlli3xxcN9I6P6k32fy87qsaccWovzdOWa0qb64oJmBRr5OR0DQFZPxqbh6rqEiSzvpCapoyiuie1Ua0UBoEnqXapgIgvLeIe2s0YCRRQjiBeHm8c4H9nXgX3RqKNRZ3ZyXPb449gXfgKZgg63tIYt2gAAAABJRU5ErkJggg==",
+      "createdAt": "Thu Aug 06 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-a-versatile-language",
+      "slug": "spring-mvc-applications",
       "locale": "en",
-      "title": "Python - A Versatile Language",
+      "title": "Spring Mvc Applications",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-future-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
-      "createdAt": "Tue Nov 30 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "the-future-of-software-engineering",
-      "locale": "en",
-      "title": "The Future of Software Engineering",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/testing-java-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoKAAoAAUAmJQBOgLgjNl5u/Irnd4AA4n+T/8c/Qqj/xW2/2zHm9Gi/xnP77nlkDHc5ZP9ms1EE7bersCJCyydaATX/s2j6IF4V5rraN3R2MSBOZD2o0WoaQ9HQW+e/clXvwvgmn3h9C7/gqXr9ZazNAA3/kAAA",
-      "createdAt": "Sun Aug 14 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "testing-java-applications",
-      "locale": "en",
-      "title": "Testing Java Applications",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJbACdLoAEiA8b6YAWgfJmZ6YAP74RmQD/7jY39N86lW9/aSL+7Si91JanH/5k4AnWWzWqx+qkVtK/HBCua6+Fov/k/ryECvqmVD7GROOqHVz0M4a3+lLjjajWeYDUYwQjsH53GVYv/WmffNT8mag//q0lZ/5OP8Gf9iNKzDDZKAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlWP4e9kXD2KAsz6e8vpzyWfrDOvGPD0s0l6OShMqjVuL9J8f8qhI19091w5delW/hYuVwvn1jl6OCmdWO6BIu9kq/L3se2mDs6OVfHGydlO+PkI6K1qzt9Lg2HL7oiSdpnz9dydA7kBI/74AIjdMtry+1RnF5Xd3ur095nlxnePzQx7PD3lcXOf49pjnq0Oer4943N7uwrCs23RancHiLrPJVQZTaw2X95itn2Qxrc5oRqPRuokWUMP/XPK5v8ftzi63O7s87u/xeHzAA2I4ALYdsKUaAO89AAAAAElFTkSuQmCC",
       "createdAt": "Wed Jan 19 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming",
       "locale": "en",
@@ -125,46 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYgCdAD8uOWL6heAAP7+mZfUeNJ+mpS+e8zAX3I8rX7F2Q2RsH6HmHYHuM36UsvK1XH22Y0z+/yGvv3LkjgjX/TtF2DiqpI8Hg2Hof/s8v7wNA0gGko2GhKDpnbwUbafSdHyTSsAAA==",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Kz0vCUADA8fcH9RdEl6BrlyApqEv1X3QID1EYEkWhaBGoNdS01PIUlqTp1L3p/LE0Ncu57U3f5vacSqeQgs/t+wVmv2oq/AjVRqiio7KOyob8byhCYIhQFWYM9P4z1k31C4us1mOHMjcUi2DQecPfjKmJ0wmZTshkbGCJQwLjuTx2Ow4BUVpjVdGxRLRBic0THRMDNevJNcvK9tYGIKiLe+0SzD5Ew9a9XTrzOjJURWqsry5ZlheA3Kr6rhwXzlPH+YkodDSMdE3FfSnosS3Oz4FuvWQ7sIaD10KnJUtddSAzdDIaOGNS1M7mMvis5dsV2Kiw7Qbf/OBDN87nuLucC/EwEqPsoJp9/MtP8Tufa59+8cK0n6NveRgppv2gkPByuZTXdRSj7HTCk0v6mBRVzARmR+H+FyOp6jj0Ug9FAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-basics-of-coding-for-beginners",
+      "slug": "go-language-for-game-development",
       "locale": "en",
-      "title": "The Basics of Coding for Beginners",
+      "title": "Go Language for Game Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
-      "createdAt": "Sun Feb 28 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlT3JTU+CYAAA4PcvZx1aB1Jnha6adXJu5gdiKklphLicaymioAzcCETQTcM3P0qJakmX1qXtuT0gFIk+cKxqaP/6Q10fDfpDvS60wB6KMrXyxnXGEyN8dnxyGsQzybZQ37iOZqpgx+9n7u82rjNfPDOVEkWTUo+34OjbXavGE9j2+W5pUuiwxRKBpeMUTQZDB4GAF88klYECPN79InVlLYZdkRM67GOjyktsV+QsaP71FoIUirnOrIkpqYpOt81GUokLkNv8rAxDBh4EIa7TU8fozfjJ0hAgpy1lecSjwUAufAiIeESskpZtirClTEXBaqoLSZtLn19zkckCuRSjU+cDmV2toe3A948X24Er23p7HfO1G9C/x6LobpnK5Qt4voBfEhieTWCZi1gi4j/y/QLvyOLcswKshAAAAABJRU5ErkJggg==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "setting-up-your-java-development-environment",
+      "slug": "how-to-code-better",
       "locale": "en",
-      "title": "Setting up Your Java Development Environment",
+      "title": "How to Code Better",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-an-introduction.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYsZvq/odm/E4AA/vwNux3JEbTeEOJZ9i1DRvY8VNcrRGqumjKvbRM+LF/M3x/i/8HnLeVgh+lAiHAJXDyY2j445+01HQTD5AnwU9XT/BlQ6Wrz0lkO6i2q4/Rsvkukqcw9f3f/gH8neJ4k24y9CcQk+ha7Y0q9AeAAAA==",
-      "createdAt": "Thu Jul 09 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANfLvcW5rcS3sJ2Wl9zRzLGsreDZ15KUmq+xt5yQhwDMwLTHvbO1qKG8r6rFt66uoZyOg4DNx8LDvbiwqKIAybqqq5uObmRga2JefHVzuK2oz8W9ysC4x7+2saWcAIJ5dYR9e7qyq8a8tLevqZGPi2lxekJKUKuooNXRwgC9r6TDubGhmphUWl9SW19jaGaLioOkoZfCwbbd28wAwbGmwrqoTlNUhoN4qaWdxMK10c7Etq+mfnZwZ19iALOpo7q2pqalk8vGr52VjHFxc1ZbZ4OAhZiTl8CxqADKvK+PiYVwb3JVZnuGlKSzs7PSv6y7p5edjoXCr6MAvKqburazsKeoz7CdybqoyLip1sGrxrCcjXxyz7ajAJeNh93IsMSmkLqaitG1msu+sMS4rq2akMa0qLyllqb7vgC6Wu09AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-an-introduction",
+      "slug": "7-javascript-basics-every-typescript-developer-should-know",
       "locale": "en",
-      "title": "Python - An Introduction",
+      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/inheritance-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AI6v0ZSz0pu51qjA1qW3x4ebrp+71qjB26rE3aG/2wCYrsKbttF8mrRngJAxPkAqNThQZ3Z7mLWAo8qAo8oAPEdIW2pxND0+W3J+TnZ/T213UnJ+OEVFRVthP1BYADdUTSRfUCxAOUZqbEJKUDtCQlJ3gj1UUSNeUTdbTwBtb3NETlRnYmRhX11hX11ybW9fW1h/c3M6RUppbnYAMDAuKSwrLC0oIygkLzIxLTArHyQgLjEuHyIfJickAERsKkZxLENuK0VrLENiLkJhLURpLUBrKEFqJj9nJQBaiztaiTpfjD9hikNjf09kgFBffU5df0hchT9YhTgAR2g0Sm81T3Q3U2hKUl1SUlZZVVdYT1RTT2dESm43AEBIQz9EQkNFSUdJSkhKS0lKUUdGTUdGS0NFR0BGQqv4bmlhg84pAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Feb 23 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlU3MvWqDUBwFcJ9KMvoAkgfIZvYMTq7i5CikBO4gOJdmTLljh6qLIH41XK2EDFZrG2gq1OvH/1Jus/Rwtt/hCADAGGsu7wAwz8P8c4F/EQAgO2Xbh7uDd2he7unpkbfc03I/1D5nAHiOvOg16r/fho94/Eym7jx9lVN35swYAwCM8fF4vK0ppQghy7IExtg4jgghURQJITc2DGO32/m+L0iShDFWFGW1Wl2vV03T0jSVZdk0TVVV+fk8zYvFYrlcFkVBKQUAXddt247jmHNd1+v1erPZBEFwO+/73rIswzA4U0qzLKuqKs/zoijSNE2SJAiCrus4t23rOA4hxHXdp794nheGYdM0v2j+8F5aEBuFAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

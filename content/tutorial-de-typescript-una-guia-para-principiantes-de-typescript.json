@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAtElEQVQYlWP4+/c3HsRAmfSkKS/u3fv68+fvp8+//f37+xcY/Pn959evXz9//mZoaX+8aMmb2ronyWkP4hLuBYbcsbW/lZv/oLLmiZPrLZDh5y98evHix+OnX/ftf7xr1+NXr179+PHj79/fP378Yvjz+09+4eOt298vX/VuxYo3e/d9WLPu7YzZrxYteTN79muQ7sNHP928+eX6zW/VtU+7e54vXfG6t//50ROf5s57SZnHAJI8CnF8rirdAAAAAElFTkSuQmCC",
   "createdAt": "2021-11-15T23:34:23.778Z",
-  "updatedAt": "2022-10-02T11:08:46.614Z",
+  "updatedAt": "2022-10-11T17:16:09.354Z",
   "slug": "tutorial-de-typescript-una-guia-para-principiantes-de-typescript",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,100 +20,25 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-leer-codigo-como-un-profesional",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWP4BwZ/ft3+/W3V7++n//379/Xb30s3fr18/evfv38M//79+/Vh/Zvzoqf3uJ3ZbXHx2jOb0I+u4SeNvF5t2fUCJP3pQuCxdSE/P1z5/vrY1IUfdR0vvnv3Lrf2XUDcWZD0u/3eF9YnXtlZ+GY1b1HtSS2bM1+/fs2pfO0Vth8k/ercrAczRN/sSnk6g3P33lO69meCEq8qGR+bvWAfSPrP7z/XT207sanvxK6F79+/v3X3uYHDnsCotX///gVJI4Ov33+qmy6W1JxRUbcK5PLzWxseXNt3//KuF/fPXjm67PWTa+cPLrtx8eDFY5svntzKsGVm3trJWVvnVaydXnx406w104rmNoVMa4hbN695SmMcw6uXTx89vPv8yb33b998fP/u3ZtXd29e2bN52Yq5fffvXAMANpbdiE0UJHQAAAAASUVORK5CYII=",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-administracion-de-red",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Leer Código Como Un Profesional",
+      "title": "Ir Idioma Para Administración De Red",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
-      "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "javascript-para-principiantes-una-guia-paso-a-paso-para-aprender-javascript",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "JavaScript Para Principiantes: Una Guía Paso a Paso Para Aprender JavaScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: existen muchos lenguajes de programaci\\xF3n y cada uno tiene sus propias caracter\\xEDsticas y peculiaridades \\xFAnicas. Entonces, \\xBFcu\\xE1l deber\\xEDas aprender primero? Si est\\xE1 buscando comenzar en el mundo de la codificaci\\xF3n, Javascript es un lugar fant\\xE1stico para comenzar. De hecho, puede ser un excelente lenguaje de programaci\\xF3n para principiantes para aquellos que tienen poca o ninguna experiencia en este campo. \\xBFPorqu\\xE9 es eso? Bueno, como el lenguaje m\\xE1s com\\xFAn utilizado para la creaci\\xF3n de sitios web, aprender Javascript lo ayuda a comprender c\\xF3mo funcionan los sitios web a nivel individual.\n\\xA1Deje que esta gu\\xEDa paso a paso para aprender Javascript lo ayude a llevar su nuevo conjunto de habilidades al siguiente nivel! Desde comprender qu\\xE9 es Javascript y por qu\\xE9 es importante hasta dominar los fundamentos de la codificaci\\xF3n, como variables y declaraciones condicionales, lo guiaremos a trav\\xE9s de todo lo que necesita saber para comenzar con este lenguaje de programaci\\xF3n din\\xE1mico.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
-      "createdAt": "Sun Jul 26 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-future-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoKAAoAAUAmJbACdAEQ/PCLexgA/vRf/j4ouh86LWIoiY8RllS0F2lA2ehtFnU+foZjHIODf2LTkzJkMU/BhqNceGHvtyvipe5e/uysxPPL4tAiFDfxMv3gBmrc/z/oyH275s176RDZv+O/9GBfH2FgAAA=",
-      "createdAt": "Tue Nov 30 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "el-futuro-de-la-ingenieria-de-software",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "El Futuro De La Ingeniería De Software",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son el motor de la econom\\xEDa digital. Crean, mantienen y actualizan el software que impulsa las empresas, los sitios web y las aplicaciones. Y la demanda de ingenieros de software contin\\xFAa creciendo. Las ofertas de trabajo para ingenieros de software han aumentado un 37 % en los \\xFAltimos cinco a\\xF1os, y se espera un aumento adicional del 26 % para 2024.\nLa ingenier\\xEDa de software es tambi\\xE9n uno de los campos m\\xE1s competitivos para incursionar en este momento. Hay una escasez de candidatos calificados, lo que ha llevado a una gran demanda y altos salarios para los mejores ingenieros de software que pueden impulsar la innovaci\\xF3n en sus empresas. Para convertirse en ingeniero de software y obtener uno de esos trabajos codiciados, deber\\xE1 completar una licenciatura en inform\\xE1tica o tomar clases de codificaci\\xF3n. Echemos un vistazo a lo que necesita para convertirse en ingeniero de software y lo que podr\\xEDa deparar el futuro para este campo.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
-      "createdAt": "Wed Mar 24 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-recursos-de-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Recursos De Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFNuevo en la codificaci\\xF3n? Hay muchos recursos disponibles, pero pueden ser abrumadores. \\xBFCu\\xE1les valen la pena? \\xBFC\\xF3mo encuentras los mejores? El espacio de codificaci\\xF3n est\\xE1 en constante crecimiento y cambio. Todos los d\\xEDas aparecen nuevas herramientas, sitios y conceptos. Navegar por este paisaje como principiante puede ser dif\\xEDcil.\nLa codificaci\\xF3n es una habilidad en demanda que ha estado creciendo r\\xE1pidamente en demanda en los \\xFAltimos a\\xF1os. Cada vez m\\xE1s personas quieren aprender a codificar, pero no siempre hay un recurso f\\xE1cil para los principiantes que buscan comenzar. Con tantas opciones disponibles, puede ser dif\\xEDcil saber por d\\xF3nde empezar a aprender los conceptos b\\xE1sicos de la codificaci\\xF3n. Incluso si no es un principiante completo, estos son excelentes lugares para continuar aprendiendo sobre codificaci\\xF3n e incluso avanzar en su conocimiento sobre temas espec\\xEDficos que m\\xE1s le interesen.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoKAAoAAUAmJQBOgMWb311MavAA/v1Pw7AxHGxpsnh9kIvz5YtNNfYf7X2v3Z1fcS3LvDjvtIt8ZE+gv96z+wMU4qSeg9v3t6rdByCuDapO1rs+/O1q97zbb7sKl2xu1o9YGX6DGLgAAA==",
-      "createdAt": "Fri Apr 22 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-beneficios-de-aprender-a-programar",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Beneficios De Aprender a Programar",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mantener una red funcionando sin problemas y de manera eficiente es un desaf\\xEDo, incluso para los administradores de red con a\\xF1os de experiencia. Los mejores administradores de red logran planificar para el futuro anticipando los problemas del presente y creando planes para enfrentarlos antes de que surjan. Sin embargo, esto puede ser dif\\xEDcil cuando se trabaja en una industria acelerada con tantos cambios a la vez.\nEn respuesta a este desaf\\xEDo, Go, un lenguaje de programaci\\xF3n simple desarrollado por Google que facilita la creaci\\xF3n de paquetes de software, est\\xE1 cobrando fuerza como una herramienta ideal para crear programas para operar y administrar redes inform\\xE1ticas. Creado a partir de C++, Golang se dise\\xF1\\xF3 como una alternativa m\\xE1s sencilla que facilita la gesti\\xF3n de los requisitos de rendimiento y reduce la cantidad de errores potenciales sin sacrificar el rendimiento o la funcionalidad.\nGo no es solo una herramienta nueva, sino tambi\\xE9n una nueva forma de escribir c\\xF3digo: se escribe est\\xE1ticamente y utiliza interfaces en lugar de herencia u otras t\\xE9cnicas de programaci\\xF3n orientada a objetos. Si est\\xE1 interesado en usar Go para facilitar su carrera como administrador de red o incluso hacer la transici\\xF3n para convertirse en uno, siga leyendo para obtener m\\xE1s informaci\\xF3n sobre por qu\\xE9 deber\\xEDa aprender Go for Network Administration y los mejores lugares para comenzar con su aprendizaje hoy.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/the-secrets-of-great-coders.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKGgo52dn6qqrKmoq6ysrra2tNzc2tra2NXV09DRzgCop6qlpaetrbC6vL2pqanMzMrl5uPi4uDd3tvZ2dcAqairr66xzMvOqampwL215NzRsrSzlpiX3t/ccXFxAKinqr+/wb27u7uvo7qmlKOHb4uLiW1tbampqSwuLwC+vcC3trmfnZuNd2WAZlF+ZlGwln+mnZIVGRzIycYAr66xmpqaWFpcOzMsf2RQim1XXEc6gXNlk5OR29vZAJSUlKytqmFjZS4wMlxWUVFBN3huZqakoODg3uLi4gCioqDj4+NucHIdISXT09HCwL5DRUdJS03l5eXi4uIA2dnZ5+fn0tLSxcXD6+vr6enpo6OjnJya4eHh4ODgAOHh4eXl5enp6evr6+vr6+vr6+jo6OPj4+Hh4d3d3XsIxzBOAzUdAAAAAElFTkSuQmCC",
       "createdAt": "Wed Aug 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "los-secretos-de-los-grandes-programadores",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -125,46 +50,121 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-un-lenguaje-para-todos",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlWP4s4cVK/q7l+3PHlYGCGdHJ/ucMtYt7ewLK9kXV7GtbWR/sgokDpL+u5ft0QrWXT2shyeyH5zIdnAi24XZLK/Ws4Ck9/WxtaSwdWeyr6pjX1DOsbOLbWo+24JyjuU1bEur2RlermM9OJHt8ETW0zNYj09jfbqG/cxMtsMT2be0s5+axsYAccLhiaz1CexrG9m7Mzi3tLOvauBA2P1nD+ur9Wx7etmPTgaRZ2aynZvN9nQNO9juQ2GVa7rWbfP9u5ft716Obwed/+znhhg5eZ85w5Kd2f4TV/SvSPi6ne3LAb2zLRXvtuh83c72fSdrV1cww9e9ModXRn/eJQOx5cksjpdbeSC+rd3jBAAYjpgxm2fqBQAAAABJRU5ErkJggg==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "5-trucos-para-ayudarte-a-dominar-javascript-en-5-minutos",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python: Un Lenguaje Para Todos",
+      "title": "5 Trucos Para Ayudarte a Dominar JavaScript En 5 Minutos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Un lenguaje de programaci\\xF3n es tan bueno como las personas que lo usan. No basta con que un lenguaje de programaci\\xF3n sea perfecto, completo y universal; si nadie lo usa, es in\\xFAtil. Es por eso que el dise\\xF1o de cualquier nuevo lenguaje de programaci\\xF3n implica mucha investigaci\\xF3n del usuario. Los creadores de Python, un lenguaje de programaci\\xF3n de prop\\xF3sito general de c\\xF3digo abierto lanzado por primera vez en 1991, reconocieron desde el principio que si quer\\xEDan tener \\xE9xito, necesitaban crear un lenguaje que fuera accesible y atractivo para una amplia audiencia. Y as\\xED, a pesar de sus muchas funciones avanzadas, Python sigue siendo transparente y sencillo, con una sintaxis que aborda directamente las necesidades y habilidades de la mayor\\xEDa de los programadores.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre esta brillante sintaxis de programaci\\xF3n y por qu\\xE9 deber\\xEDa tomarse un tiempo para familiarizarse con Python hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si acaba de comenzar a aprender a programar o tiene dificultades para comprenderlo, Javascript puede ser un hueso duro de roer. Este lenguaje de programaci\\xF3n din\\xE1mico y funcional se utiliza para crear aplicaciones y sitios web interactivos.\nEl alcance de Javascript ha crecido exponencialmente en los \\xFAltimos a\\xF1os debido a su uso generalizado para dise\\xF1ar sitios web interactivos y desarrollar aplicaciones m\\xF3viles. Adem\\xE1s de eso, tambi\\xE9n es un excelente primer lenguaje de programaci\\xF3n debido a su simplicidad, accesibilidad y facilidad de disponibilidad en l\\xEDnea.\nPero como cualquier otra habilidad o conocimiento, dominarlo requiere pr\\xE1ctica y perseverancia. Si tiene dificultades con este lenguaje de programaci\\xF3n, siga leyendo para conocer nuestros 5 trucos para ayudarlo a dominar Javascript en 5 minutos.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
-      "createdAt": "Sat Oct 02 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-tutoriales-de-codificacion-para-principiantes",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6UlEQVQYlW2OXUsCURiEzy/uqsBf0E0SIQZ2V0KJuH2IWwpCHy4ZBhFBuBXlKvi1a9gmnfa87zkTsS0ogXM3MzDzCPyp1x3t7VbtSvPUvnGfekkIQMiviIgCfxr400F/4nVHbddTSgEgIrG5UXCch1q1ZVeahYN6ZsvK5cpW6dwqXR4dNsR8Z6lEGIZzo9/f0C7/q5+v6lJJo03sztZwl//pNJJOMQlo8zj2+p8BM8O1zcW62l6l2j6A9HUx/pasmPnbz8rZLSZDlU1F6ZUkX6ANO8eaxzHBvaNfW3jZgY6Wkxv6MMGJMdEv1NENVOEvZ3AAAAAASUVORK5CYII=",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-errores-de-codificacion-mas-comunes-y-como-evitarlos",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Mejores Tutoriales De Codificación Para Principiantes",
+      "title": "Los Errores De Codificación Más Comunes Y Cómo Evitarlos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFQuieres aprender a programar pero no sabes por d\\xF3nde empezar? Hay tantos tutoriales de codificaci\\xF3n que es f\\xE1cil perderse. Algunos de ellos son demasiado b\\xE1sicos y otros demasiado avanzados. Encontrar el equilibrio adecuado entre demasiado f\\xE1cil y demasiado dif\\xEDcil es complicado. Por eso, en este art\\xEDculo encontrar\\xE1s los mejores tutoriales de codificaci\\xF3n para principiantes. Hemos investigado varios recursos en l\\xEDnea y elegimos los 10 principales que lo ayudar\\xE1n a dominar la codificaci\\xF3n de manera r\\xE1pida y eficiente. Desde Python de nivel principiante hasta tutoriales intermedios de HTML y CSS: puede aprender todas las habilidades esenciales de programaci\\xF3n con estos excelentes recursos. \\xA1Pru\\xE9belos y convi\\xE9rtase en un profesional de la codificaci\\xF3n en muy poco tiempo!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No importa cu\\xE1ntos tutoriales o art\\xEDculos lea, la codificaci\\xF3n siempre es un desaf\\xEDo. Incluso los desarrolladores experimentados a veces cometen errores. Los programadores nuevos pueden sentir que cometen errores constantemente, pero todo es parte del proceso de aprendizaje. Los errores son inevitables y beneficiosos siempre y cuando aprendas de ellos. Cuanta m\\xE1s experiencia de codificaci\\xF3n tenga, con menos frecuencia se producir\\xE1n estos errores. Sin embargo, si reci\\xE9n est\\xE1 comenzando a codificar, es mejor conocer los errores m\\xE1s comunes antes de que se conviertan en un problema grave para su proyecto. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos errores de codificaci\\xF3n y c\\xF3mo evitarlos al codificar su pr\\xF3ximo proyecto de software.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/working-with-files-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
-      "createdAt": "Thu Aug 11 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "trabajar-con-archivos-en-java",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "programacion-orientada-a-objetos-en-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Trabajar Con Archivos En Java",
+      "title": "Programación Orientada a Objetos En Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Trabajar con archivos es algo que los programadores de nivel de entrada no pueden hacer muy a menudo. No es la parte m\\xE1s emocionante del desarrollo de software, pero es importante. El sistema de archivos es la piedra angular de casi todos los programas que usa en su computadora. Trabajar con archivos en Java puede parecer un poco contradictorio al principio. Una vez que comprende qu\\xE9 lo hace diferente de otros lenguajes de programaci\\xF3n, se vuelve mucho m\\xE1s claro.\nTrabajar con archivos en Java implica crear, leer, actualizar y eliminar archivos. Los archivos se almacenan como cadenas o bytes. Si ha utilizado otros lenguajes de programaci\\xF3n antes, esto le resultar\\xE1 familiar. En Java, hay dos formas distintas de trabajar con archivos: secuencias est\\xE1ndar y la nueva clase \"Archivo\" introducida en la versi\\xF3n 1.1 del lenguaje. Este art\\xEDculo explica c\\xF3mo trabajar con archivos utilizando ambos m\\xE9todos y tambi\\xE9n aborda algunos temas relacionados, como etiquetas New>.../New> y archivos Jar (paquetes autoejecutables).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La programaci\\xF3n orientada a objetos es una forma de escribir c\\xF3digo que se enfoca en lo que hace el programa, y no solo en lo que sabe. Este art\\xEDculo cubre una descripci\\xF3n general de la programaci\\xF3n orientada a objetos en Java, as\\xED como sus ventajas y desventajas.\nSi est\\xE1 leyendo esto, probablemente est\\xE9 familiarizado con los lenguajes de programaci\\xF3n de procedimientos como C, C++ o Python. Todos estos son lenguajes de programaci\\xF3n imperativos que se enfocan en decirle a la computadora exactamente qu\\xE9 hacer y cu\\xE1ndo hacerlo.\nLa programaci\\xF3n orientada a objetos es diferente de los lenguajes imperativos en aspectos importantes. La programaci\\xF3n orientada a objetos es una forma de escribir programas que tiene como objetivo reducir la redundancia y aumentar la modularidad mediante el uso de objetos que tienen sus propios campos de datos y m\\xE9todos que act\\xFAan sobre esos campos en lugar de variables globales. Profundicemos m\\xE1s en OOP en Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVQYlWNgY2Ph5GLn5eUWEOQTFOIXFhYUFOLnF+Dl4eFi52Rj4OHhEhTiVxcXC5aSDZWRh6BgKdlAcWkFIQEGAWF+UxO5UGPFlXLa81UNlslprZTThiAfOQUGfQNZcwvVLA/dlXLa3XZuEzz8pvkEb7RyuqKgG6ioxKChISOvJO+vqnFRQeeXksEVPYufSkb/FQ3/KxpGKSszWFsrOTtrVTsY/VM2+qtkuN7M9oG+9S8lA6i0nLyEnKJssqrGO0PbFR6+870CZodE7PQKeqllFq6oCHKaibF8honyX2X9P4oGf5UM/yiCtP5XNAyRlWXg4uUSlxDUFBeLlZaJkZWLllWIkpELk5IJEpeU5udnYGNj4+Lm4OHn4RfiExQRFBQRFBDm5xPg5eIFBQsA+AtD+GXbURwAAAAASUVORK5CYII=",
+      "createdAt": "Sun Apr 10 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "python-el-lenguaje-para-el-desarrollo-de-juegos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Para El Desarrollo De Juegos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, hay mucha demanda de desarrolladores de juegos. El juego se ha convertido en una de las actividades m\\xE1s populares entre personas de todas las edades.\nCon la creciente popularidad de las aplicaciones m\\xF3viles, los juegos se han vuelto accesibles para muchas personas en todo el mundo. Como resultado, ha habido un aumento en la demanda de desarrolladores de juegos que puedan desarrollar juegos emocionantes que los usuarios quieran jugar una y otra vez.\nSi est\\xE1 interesado en trabajar como desarrollador de juegos o aspira a crear su propio videojuego alg\\xFAn d\\xEDa, necesita saber sobre Python, el lenguaje de programaci\\xF3n principal para el desarrollo de juegos.\nEste art\\xEDculo le presentar\\xE1 qu\\xE9 es Python y c\\xF3mo puede ayudarlo a conseguir el trabajo de sus sue\\xF1os como desarrollador de juegos o crear su propio videojuego alg\\xFAn d\\xEDa.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-most-popular-coding-languages.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVQYlU3GvU7CUBiA4bN7A16Bm5t34QU46m5cHE2MYXHxJ0ZXJZGfMClxkKgEG0EEoUBLaU9pa7DBYonCoVBp6el3YowOvnmGFx3Z5qbZhn8xxn4noD6aE/NLSlmfDELqAvOAeQy+ABwAR8ECWu6I87i81cgF/jsA6VkagDMadQEc3BbRQvJgJ7bCF1O+awKQWPw0njhLJKMATluT0Li/St4iE0vtWRIhpiiUBp+minlCupreQuvn24cXqelHd+bZxyd7Kuazd1fpy2Qhf6sbMlqMRO10djYZNuoFRa7k7q85LpN/uOG4TPGJQ+W1Xa8qUH+saXVFrhiGKDQesVKVpJKMawhv7Pt2L/BdRodh+IPRP7ZtIOq5YTAN6LRvdV5fsK61VCxITV4UnltS7Ruz6/njc4XzZgAAAABJRU5ErkJggg==",
+      "createdAt": "Fri Dec 11 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-lenguajes-de-codificacion-mas-populares",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Lenguajes De Codificación Más Populares",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es un trabajo candente en este momento y seguir\\xE1 si\\xE9ndolo en el futuro previsible. La demanda de codificadores est\\xE1 creciendo, y no solo en las empresas de tecnolog\\xEDa. Las empresas de todo tipo necesitan programadores con diferentes habilidades de codificaci\\xF3n para crear su software y sitios web, lo que significa que los programadores pueden encontrar trabajo en cualquier lugar.\nLa codificaci\\xF3n es tambi\\xE9n uno de los mercados laborales de m\\xE1s r\\xE1pido crecimiento en este momento. A medida que las empresas contin\\xFAan digitalizando y automatizando procesos, tambi\\xE9n aumenta la necesidad de desarrolladores que puedan crear programas. La explosi\\xF3n de nuevos lenguajes de programaci\\xF3n ha hecho que este sea un momento emocionante para ser programador. Hay tantas opciones disponibles, desde las tradicionales como Java y Python hasta reproductores m\\xE1s nuevos como Go y Kotlin. \\xBFCu\\xE1l crees que hace una carrera m\\xE1s prometedora como programador? Siga leyendo para averiguar qu\\xE9 lenguajes de codificaci\\xF3n tienen m\\xE1s demanda en este momento...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APuxIPy2Jfy6L/29Mf28KvvDNP3ISPzQX/3KQv7GMQD7sSL8tiXCrXvv6t7l493R1NPj5eS2trb413n8xzEA+K0g/LYlwKBb6enpnZ+go6OjlpaWkpKS++CX/MczAPGlHfqxJMacROnn5srMzs/Pz7u7u8zMzPzqsPzHMwDjmBbvph/Jkyrj4tzKzM6ytLO9vb2jo6Pi1Ln8yDoA1ooQ3ZEVz40d0c7Itbe5r7Kxzs7O0dTT4trW+cU8ANSFDs+CDceKQbGnne3e2M66vNZITbt5e93d3fzHPADThA3IgiHPmXmnhGvz5N7S0NDosbPw3d/o6uz7zVIAyHkHvX024cCg7cur7d7Y8N/M8Naz8NKf7M6N+8lMAL5wBLFoFMqphvnfv+iSFO6YGPamHfy5J/zALvzBMWOdy9TPxek7AAAAAElFTkSuQmCC",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-leer-codigo-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Leer Código Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlWP4e9kXD2KAsz6e8vpzyWfrDOvGPD0s0l6OShMqjVuL9J8f8qhI19091w5delW/hYuVwvn1jl6OCmdWO6BIu9kq/L3se2mDs6OVfHGydlO+PkI6K1qzt9Lg2HL7oiSdpnz9dydA7kBI/74AIjdMtry+1RnF5Xd3ur095nlxnePzQx7PD3lcXOf49pjnq0Oer4943N7uwrCs23RancHiLrPJVQZTaw2X95itn2Qxrc5oRqPRuokWUMP/XPK5v8ftzi63O7s87u/xeHzAA2I4ALYdsKUaAO89AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB0EBg4IDCoRHjEeIjEcIT8SHzYLGFExTkMxXignZQAKjI4oh4sjWGIuPEUvGBs7HR4yEx1EIklVSXY6L34ADnR2GZ2gFJibD5ScGqixMUlOOSQ0UzhhWk+DODWBABKDiBiprB60swmlpxKhozlMUU4aJ0srRj0tYkQ7gAASoaMYqawPY2ceencRk5NIWHBPJkQzJ0s5KWM7KnYAT4yOOFdYBA0POmBjU5OUOEZSWCE+MyJHJh9lLSh1AEOZnGCIiyFQUjt/gSqcny5PVjYaLDchSDc4dRwdagAKeX0PnaIRoacOmJ4Qlp0zZ3o8GC85J0ZHTpIWFWEADp+lH7rDFaexDIuQEJCaLFBfNQ8cSjtgNjhuFxlqAAqFhxSYmxzT2hittiCAiDI7SjsQHjotVjg4cQwTZ8agXGouO6coAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "el-futuro-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "El Futuro De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son el motor de la econom\\xEDa digital. Crean, mantienen y actualizan el software que impulsa las empresas, los sitios web y las aplicaciones. Y la demanda de ingenieros de software contin\\xFAa creciendo. Las ofertas de trabajo para ingenieros de software han aumentado un 37 % en los \\xFAltimos cinco a\\xF1os, y se espera un aumento adicional del 26 % para 2024.\nLa ingenier\\xEDa de software es tambi\\xE9n uno de los campos m\\xE1s competitivos para incursionar en este momento. Hay una escasez de candidatos calificados, lo que ha llevado a una gran demanda y altos salarios para los mejores ingenieros de software que pueden impulsar la innovaci\\xF3n en sus empresas. Para convertirse en ingeniero de software y obtener uno de esos trabajos codiciados, deber\\xE1 completar una licenciatura en inform\\xE1tica o tomar clases de codificaci\\xF3n. Echemos un vistazo a lo que necesita para convertirse en ingeniero de software y lo que podr\\xEDa deparar el futuro para este campo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

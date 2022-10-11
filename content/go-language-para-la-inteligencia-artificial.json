@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWP4+/fvP9yA4d+/f1sufopf8nX+qZ9YpK8++cZc8IGh7DdD2e8dN0AmnTlz5ujRo39+/wFJ77z0gbHoK0R6+vG/BQUFEZUN+Z0T4+LiQNK//vzzmf6eoey31ZQ/rz/9NnZw5jj9V+DM3x27dkLtvvPm977bIGP//v1raW3jfelL0t1fLi4uf//+BUn//PXvzBOQTf/+/du/f39YWFhiYmJQYBBI9+vXrxcuXLhmzZrVq1evWrVq7dq1a9asWbx48YoVKx49esTw69evHz9+fP78+c6dOx8/fvz27dsnMLhz586PHz9AhuMJFgCKfvM5X5BLmQAAAABJRU5ErkJggg==",
   "createdAt": "2021-05-20T11:56:54.900Z",
-  "updatedAt": "2022-10-02T11:04:39.859Z",
+  "updatedAt": "2022-10-11T17:15:54.000Z",
   "slug": "go-language-para-la-inteligencia-artificial",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,10 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
+      "imageSrc": "/articles/the-future-of-software-engineering.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB0EBg4IDCoRHjEeIjEcIT8SHzYLGFExTkMxXignZQAKjI4oh4sjWGIuPEUvGBs7HR4yEx1EIklVSXY6L34ADnR2GZ2gFJibD5ScGqixMUlOOSQ0UzhhWk+DODWBABKDiBiprB60swmlpxKhozlMUU4aJ0srRj0tYkQ7gAASoaMYqawPY2ceencRk5NIWHBPJkQzJ0s5KWM7KnYAT4yOOFdYBA0POmBjU5OUOEZSWCE+MyJHJh9lLSh1AEOZnGCIiyFQUjt/gSqcny5PVjYaLDchSDc4dRwdagAKeX0PnaIRoacOmJ4Qlp0zZ3o8GC85J0ZHTpIWFWEADp+lH7rDFaexDIuQEJCaLFBfNQ8cSjtgNjhuFxlqAAqFhxSYmxzT2hittiCAiDI7SjsQHjotVjg4cQwTZ8agXGouO6coAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 30 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "el-futuro-de-la-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "El Futuro De La Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son el motor de la econom\\xEDa digital. Crean, mantienen y actualizan el software que impulsa las empresas, los sitios web y las aplicaciones. Y la demanda de ingenieros de software contin\\xFAa creciendo. Las ofertas de trabajo para ingenieros de software han aumentado un 37 % en los \\xFAltimos cinco a\\xF1os, y se espera un aumento adicional del 26 % para 2024.\nLa ingenier\\xEDa de software es tambi\\xE9n uno de los campos m\\xE1s competitivos para incursionar en este momento. Hay una escasez de candidatos calificados, lo que ha llevado a una gran demanda y altos salarios para los mejores ingenieros de software que pueden impulsar la innovaci\\xF3n en sus empresas. Para convertirse en ingeniero de software y obtener uno de esos trabajos codiciados, deber\\xE1 completar una licenciatura en inform\\xE1tica o tomar clases de codificaci\\xF3n. Echemos un vistazo a lo que necesita para convertirse en ingeniero de software y lo que podr\\xEDa deparar el futuro para este campo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOjy/OXx++Dp9M3X4dvn8NDe59Li7czc6c7j777T4ADW5Ovf6/XR2+O/ydHN1+GyvsbQ3ufL2+bH2eW/1N8A5O740fL36PD7s7rDwsrSvsjQusbQuMfSqLe/oLC6AOnx+q+5w6yxu7i+xbS8wr7Gz73H0au1v6q2v5elrgC8xM0hICNRTFDr8vvr8vvm7/rc5vDd6fXZ6fbN3+0A0trjhGRhpouL3efx4uz25PD62OHs2+n14PD83O78AH675o2Oo7CptHWBj5KeqomXooKPlqCvt9fr+9nt/QBgmNNXjcbNxcrRxcnIyNQeJioLMjMxR0vR2uXS4OsAYbLtSY7SVnWjmoeLnIKHbGRsNTc7aGVoybi8ybq9AF6Kz0aJyWOb5ZicsZCVrrKTkK6gosezscy6ucy5uxVD2oFbGCUWAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APuxIPy2Jfy6L/29Mf28KvvDNP3ISPzQX/3KQv7GMQD7sSL8tiXCrXvv6t7l493R1NPj5eS2trb413n8xzEA+K0g/LYlwKBb6enpnZ+go6OjlpaWkpKS++CX/MczAPGlHfqxJMacROnn5srMzs/Pz7u7u8zMzPzqsPzHMwDjmBbvph/Jkyrj4tzKzM6ytLO9vb2jo6Pi1Ln8yDoA1ooQ3ZEVz40d0c7Itbe5r7Kxzs7O0dTT4trW+cU8ANSFDs+CDceKQbGnne3e2M66vNZITbt5e93d3fzHPADThA3IgiHPmXmnhGvz5N7S0NDosbPw3d/o6uz7zVIAyHkHvX024cCg7cur7d7Y8N/M8Naz8NKf7M6N+8lMAL5wBLFoFMqphvnfv+iSFO6YGPamHfy5J/zALvzBMWOdy9TPxek7AAAAAElFTkSuQmCC",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-leer-codigo-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Leer Código Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlT3NUctEQBTG8fn+H0euJy6QCOGGkShTdKYYpzljlNre3Xf3d/vv6WHPV9/3wzDM89w0Tdd1+74/z8N+eRzHNE2DIMiyrCgKpdRfVkohojHGWktv9g0R7/tmxpjjOPDLOYeI1lqttZSSbdt2nucvX9e1rmtd177vR1HEAICIzi8hhOd5ZVkCgLWWff4QsW1bznkURQBgjNFaExGTUhJRGIZd1xGRc+7zpbX+XwshpmkCgG3b9n1XSi3LIqUEAJYkSZZleZ5zzpMkqeuacx7HcZqmVVW9AA5GDfWRiPIiAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "python-una-herramienta-para-el-analisis-de-datos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Una Herramienta Para El Análisis De Datos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El an\\xE1lisis de datos es un elemento crucial de muchos campos en la actualidad. Dado que los datos se recopilan de todas las fuentes, las empresas deben usar los datos de manera efectiva para impulsar su empresa. Las organizaciones est\\xE1n recurriendo al software de an\\xE1lisis de datos para procesar y comprender la informaci\\xF3n que han almacenado.\nEl an\\xE1lisis de datos es un proceso complejo que implica limpiar, explorar, visualizar y comprender datos desde diferentes \\xE1ngulos. Python es una de las herramientas m\\xE1s poderosas para el an\\xE1lisis de datos debido a su versatilidad y amplias bibliotecas para la manipulaci\\xF3n de datos. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 tantas empresas eligen Python para el an\\xE1lisis de datos, qu\\xE9 puede hacer por usted y c\\xF3mo puede implementarlo en su propio negocio.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABF0lEQVQYlW2QPU+DYACE35/UDrppYo0MJDWNUWe6qKOOriYOJnWg0VqCAds3YFETMQzQz5dWUkAsBEX5EBiIP8TQgcnkWS6X3F0OlNr9/5CX9MHq7Yg0/Ku34HRkP3ymjB1fm0Fd1I+edAIOwAo9lILsJcwIUYduwtgxZUV1UT98HO9QEihTCgZRpYNwbopBtNWd1ARtV3jd44f73QHAOUSIOmn40E2gm7SssOelNUHDOVRqy6DKq4SoN83cZuy4aYYtKzyQzCqvlikFrDHjjbsJBvPwTahu38/Wl7LSQfnyY3lBGv7zd8Y6SWPuKz+/tB2dz7yz6Udunyj2zXvU81LWSS7nPuvkC+hFfKF95d1lSiko3ijkHwGOukZ5d76dAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 08 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-mejores-atajos-de-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Mejores Atajos De Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Al principio, la codificaci\\xF3n puede parecer como resolver acertijos con agujas al rojo vivo en las manos. Todo es nuevo, nada tiene sentido y ni siquiera puedes saber si est\\xE1s en el camino correcto o no. Se siente como un laberinto confuso con muchas puertas cerradas: cada vez que encuentra una puerta abierta, \\xA1simplemente conduce a otra puerta cerrada! \\xBFC\\xF3mo salimos de este bucle frustrante? \\xA1Atajos de codificaci\\xF3n!\nMuchos codificadores le dir\\xE1n que para ser un codificador exitoso, necesita saber todo sobre la codificaci\\xF3n y todos sus entresijos. Sin embargo, hay una raz\\xF3n por la que incluso los programadores experimentados toman nota de los atajos de codificaci\\xF3n. Estos peque\\xF1os trucos hacen la vida m\\xE1s f\\xE1cil para cualquier persona que reci\\xE9n comienza a codificar y no tiene tiempo para invertir en aprender hasta el \\xFAltimo detalle antes de que pueda comenzar a crear programas \\xFAtiles.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
       "imageSrc": "/articles/go-language-for-concurrent-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoKAAoAAUAmJZwCdADcnizQqU4AAP7+RsG4G0px9WVjfjAhlQ8Bzm58n5SOrvRN9jk/9j36TQ3/2jvj0m4clmqJuZ7Lwgv+6GCR4B9H/XxJxKa7/7q567ZPI0doiCI4nqulwusvepfpi31ROjvKSNwFTwAAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlU3MvWqDUBwFcJ9KMvoAkgfIZvYMTq7i5CikBO4gOJdmTLljh6qLIH41XK2EDFZrG2gq1OvH/1Jus/Rwtt/hCADAGGsu7wAwz8P8c4F/EQAgO2Xbh7uDd2he7unpkbfc03I/1D5nAHiOvOg16r/fho94/Eym7jx9lVN35swYAwCM8fF4vK0ppQghy7IExtg4jgghURQJITc2DGO32/m+L0iShDFWFGW1Wl2vV03T0jSVZdk0TVVV+fk8zYvFYrlcFkVBKQUAXddt247jmHNd1+v1erPZBEFwO+/73rIswzA4U0qzLKuqKs/zoijSNE2SJAiCrus4t23rOA4hxHXdp794nheGYdM0v2j+8F5aEBuFAAAAAElFTkSuQmCC",
       "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "ir-al-lenguaje-para-la-programacion-concurrente",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -35,136 +110,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/interfaces-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
-      "createdAt": "Mon Apr 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "interfaces-en-java",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAp0lEQVQYlWP4ixcw/H3Y8uduGQjdK0FGv+8W/r5byPDnuDAexFAaw7l/Gt+fo0KY6OB0XoaNXVyzK7lqkzm6cjmr4jmmFHNVJ3BB2LXJHAy5YeyTCriq4tmyg9lLY9i7czgrYjjqkzjKYjnmV3Mx/DnM/ecw9/wajm19nH8O86IiboY/B7n+HOT6dQiEIErh6NchLoZ3D7a+vb3wza0FYDQPDTHgDxYA4qLC1Y7NxRUAAAAASUVORK5CYII=",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-web-scraping",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Interfaces En Java",
+      "title": "Ir Idioma Para Web Scraping",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La definici\\xF3n de una interfaz es casi la misma en Java que en cualquier otro lenguaje de programaci\\xF3n orientada a objetos (POO). Una interfaz, estrictamente hablando, es un tipo que especifica un conjunto de m\\xE9todos, pero no su implementaci\\xF3n. Esto significa que una interfaz puede tener m\\xE9todos est\\xE1ticos y propiedades accesibles, pero no m\\xE9todos o campos de instancia.\nUna interfaz es un tipo que especifica solo el comportamiento y no la implementaci\\xF3n de una operaci\\xF3n. Las clases que implementan esta interfaz deben proporcionar su propia implementaci\\xF3n para cada m\\xE9todo declarado en ella. Las interfaces se usan ampliamente en Java para proporcionar un terreno com\\xFAn para que las clases implementen alguna funcionalidad sin revelar los detalles de implementaci\\xF3n interna.\nCuando usamos interfaces, estamos creando contratos entre nuestras clases para que se comporten de cierta manera, que implementen ciertos m\\xE9todos y realicen tareas particulares cuando se les solicite. Exploremos c\\xF3mo podemos aprovechar las interfaces en nuestro c\\xF3digo para hacerlo m\\xE1s modular, reutilizable, comprobable y legible.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, a medida que las empresas enfrentan una presi\\xF3n cada vez mayor para digitalizar los procesos y extraer valor de los datos, una amplia gama de organizaciones est\\xE1 explorando soluciones que aprovechan los programas inform\\xE1ticos para capturar datos autom\\xE1ticamente.\nEste art\\xEDculo enumera los lenguajes de programaci\\xF3n utilizados para el web scraping y la extracci\\xF3n de datos. El web scraping es el proceso de rastreo de sitios web para recuperar datos espec\\xEDficos en un formato legible por m\\xE1quina. Es un \\xE1rea de miner\\xEDa de datos que cubre programas de computadora que autom\\xE1ticamente leen y extraen informaci\\xF3n de sitios web o documentos. Estos programas se denominan scrapers o rastreadores. El raspado es una tarea que quiz\\xE1s deba completar como parte de su trabajo como comercializador digital, ingeniero de software, analista estad\\xEDstico o investigador.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAwCdASoKAAoAAUAmJbACdLoB+AH4gBGvmIPd0DrFQBAA/tUVMaVKxDo1SikS7pTcoDKzgP3iMfK/GOrvpGww1FkX++/cjeWIhQd/7PZf6T/zAH+ips2bJng/5s2v+CHfEyn+Mv/56qG33+G8/1XYOmGxY/o5M/k2/yH74AAAAA==",
-      "createdAt": "Tue Mar 29 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "lenguaje-go-para-programacion-orientada-a-objetos",
+      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABD0lEQVQYlWP4e4YJjr4cY/txghVZhAFC/TzFsmqykr27vYu39Ybpkr9OM6NIP97NExZtE5Fkb+zik5Rk/voAG4r03zNMc3vlTFzt1SydZ7VLIwz/fpz5y3EQ69NhlgPz+Y8t4v98mAUhfWQRz7Q6kR0z+Ba2iSSGyDbkSZanSk+tEV3UIbhpkgDD8wMyH47w/zjB/Okwy8dDrK/3sb87yPb2AMv7Y3Ifj/AyvH6w5e3Nls93W99dL/t4p+vTnd7Pj+d+vNf38d7Mt1eKGO7s0Lyzy/rOTuPbO83v7DK8u9vm9hb5uzt07ux2uLPTlOHrGcVnF6oeHI17dDrvyank+4fDHp1MeXAy6/7x7G/HmABd0ak9mQNLXQAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Mar 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "aprenda-javascript-de-la-manera-correcta-10-pasos-para-dominar-javascript",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Lenguaje Go Para Programación Orientada a Objetos",
+      "title": "Aprenda JavaScript De La Manera Correcta: 10 Pasos Para Dominar JavaScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, existe una gran demanda de desarrolladores de software que puedan crear programas y aplicaciones de \\xFAltima generaci\\xF3n. Gracias a la r\\xE1pida expansi\\xF3n de la tecnolog\\xEDa, hay muchos puestos de trabajo disponibles en este campo. Sin embargo, no cualquiera puede convertirse en programador; necesita tener habilidades espec\\xEDficas y saber c\\xF3mo conseguir el trabajo que desea.\nSi est\\xE1 interesado en convertirse en programador de software y explorar nuevas oportunidades profesionales, es importante que elija el lenguaje de programaci\\xF3n adecuado desde el principio. La demanda de programadores capacitados est\\xE1 creciendo r\\xE1pidamente, por lo que al elegir el lenguaje de programaci\\xF3n adecuado ahora, puede prepararse para el \\xE9xito en el futuro. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre la programaci\\xF3n Go y su potencial como lenguaje de programaci\\xF3n orientado a objetos.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que Javascript es el lenguaje de programaci\\xF3n m\\xE1s popular del mundo? \\xBFSab\\xEDa tambi\\xE9n que es uno de los lenguajes de programaci\\xF3n m\\xE1s f\\xE1ciles de aprender? Eso significa que cada vez m\\xE1s personas adquieren esta habilidad a la velocidad del rayo. Tiene sentido, teniendo en cuenta la demanda de habilidades de codificaci\\xF3n en este momento. Y con tantos recursos introductorios disponibles, \\xBFpor qu\\xE9 no adquirir esta habilidad m\\xE1s temprano que tarde? Despu\\xE9s de todo, no hay mejor momento que el presente para llevar tu carrera a nuevas alturas.\nCon eso en mente, estamos aqu\\xED para ayudarlo a dominar este c\\xF3digo \\xFAtil. Entendemos que todos provienen de diferentes or\\xEDgenes, por lo que hemos dividido esta gu\\xEDa en secciones f\\xE1ciles de digerir. Si est\\xE1 listo para llevar sus habilidades de codificaci\\xF3n al siguiente nivel, siga leyendo para conocer nuestros consejos y trucos sobre c\\xF3mo puede aprender Javascript.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJbACdAEP1hNnwnSgAP78O3gp2U2JfyaY+DeGoJ9UNlv3HkYt9yBMvP1T+eNn4VFP+T5Knz6bXyNebVv1YnpOTvyPAh8pFGAqgz/+qn7kYAAA",
-      "createdAt": "Fri May 28 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
+      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6UlEQVQYlW2OXUsCURiEzy/uqsBf0E0SIQZ2V0KJuH2IWwpCHy4ZBhFBuBXlKvi1a9gmnfa87zkTsS0ogXM3MzDzCPyp1x3t7VbtSvPUvnGfekkIQMiviIgCfxr400F/4nVHbddTSgEgIrG5UXCch1q1ZVeahYN6ZsvK5cpW6dwqXR4dNsR8Z6lEGIZzo9/f0C7/q5+v6lJJo03sztZwl//pNJJOMQlo8zj2+p8BM8O1zcW62l6l2j6A9HUx/pasmPnbz8rZLSZDlU1F6ZUkX6ANO8eaxzHBvaNfW3jZgY6Wkxv6MMGJMdEv1NENVOEvZ3AAAAAASUVORK5CYII=",
+      "createdAt": "Sat Apr 09 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-errores-de-codificacion-mas-comunes-y-como-evitarlos",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Encontrar La Mejor Ayuda De Codificación En Línea",
+      "title": "Los Errores De Codificación Más Comunes Y Cómo Evitarlos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDa que encontrar ayuda con la codificaci\\xF3n inform\\xE1tica es una de las industrias en l\\xEDnea de m\\xE1s r\\xE1pido crecimiento? \\xBFSab\\xEDa tambi\\xE9n que hay una gran cantidad de sitios web donde puede encontrar la misma ayuda de codificaci\\xF3n? Con tantos lugares para buscar ayuda con la codificaci\\xF3n, tiene sentido que haya tantos profesionales que no parecen encontrar las mejores opciones. \\xA1Pero no te preocupes! Hay un mont\\xF3n de grandes recursos por ah\\xED si sabe d\\xF3nde buscar.\nEn esta publicaci\\xF3n de blog, exploraremos algunos de los lugares m\\xE1s efectivos en l\\xEDnea para encontrar los mejores ayudantes de programaci\\xF3n. Estas plataformas facilitan que los codificadores se conecten y colaboren, al mismo tiempo que permiten a las empresas y a las personas encontrar asistentes virtuales de primer nivel cuando m\\xE1s los necesitan. \\xBFEntonces, Qu\\xE9 esperas? \\xA1Sigue leyendo y descubre tus nuevos lugares favoritos para obtener ayuda con la codificaci\\xF3n hoy mismo!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No importa cu\\xE1ntos tutoriales o art\\xEDculos lea, la codificaci\\xF3n siempre es un desaf\\xEDo. Incluso los desarrolladores experimentados a veces cometen errores. Los programadores nuevos pueden sentir que cometen errores constantemente, pero todo es parte del proceso de aprendizaje. Los errores son inevitables y beneficiosos siempre y cuando aprendas de ellos. Cuanta m\\xE1s experiencia de codificaci\\xF3n tenga, con menos frecuencia se producir\\xE1n estos errores. Sin embargo, si reci\\xE9n est\\xE1 comenzando a codificar, es mejor conocer los errores m\\xE1s comunes antes de que se conviertan en un problema grave para su proyecto. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos errores de codificaci\\xF3n y c\\xF3mo evitarlos al codificar su pr\\xF3ximo proyecto de software.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJYgCdDKVQYo8QYUMP0AA/m0/fwp8BXZDJcg7VhhB8WRBkz0b8DrQQfmDp//oSUBvK3xt+nPvE/5V8u82rq/8mIA3Ol8+d9TJ39F7suqVqHf1xQPnlhGr9e0d/Hr13+zkNYt/K8i7wY/1jdcmuj/4OLXem5AogAA=",
-      "createdAt": "Sun Nov 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-codificar-como-un-profesional",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlV2PO6vCQBCF9x+Ldtb+B1HQQsHW2wgiNtoIYiNaiY8oJpg1PjfJ7uzMrlyWBEWnmjkfcziH2e/h43hTv8sTZid7A+0nMpLzQrgoc6/5/GCQGgBBamtt0BfLChc75RQABoPzC4y1FhUaypfs1ZBhur6nli8jXDcuu/aVj+OgJ6JJcpmm6+qVQc2jjo8JbVu388yx49/D69zDURL0BdNDrmPnBpCbgyACyhQXDRFlCmk3FM0AFapNDMKF/Sp2KO1XxS1JNNp5/PY2imyaZ37jfwknFvm9xdS4AAAAAElFTkSuQmCC",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-usar-graphql-en-su-proximo-proyecto-una-guia-para-principiantes",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Codificar Como Un Profesional",
+      "title": "Cómo Usar GraphQL En Su Próximo Proyecto: Una Guía Para Principiantes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que est\\xE9 comenzando o haya estado programando durante a\\xF1os, siempre habr\\xE1 cosas nuevas que aprender y formas de crecer como programador. Encontrar el pr\\xF3ximo desaf\\xEDo puede parecer desafiante al principio, pero una vez que comprende sus puntos fuertes, se vuelve mucho m\\xE1s f\\xE1cil.\nCodificar como un profesional no es una tarea f\\xE1cil. El mundo de la programaci\\xF3n tiene mucha competencia, por lo que los desarrolladores deben destacarse entre la multitud si quieren tener \\xE9xito y prosperar en esta industria.\nDesafortunadamente, hay demasiados programadores que no saben c\\xF3mo programar como un profesional, lo que significa que estos programadores no pueden alcanzar su potencial ni obtener trabajos en empresas donde puedan continuar su crecimiento como ingenieros de software.\nEso no significa que estos codificadores sean malos o que nunca ser\\xE1n buenos programadores; solo significa que tienen algunas \\xE1reas en las que podr\\xEDan mejorar en este momento. Si quieres saber c\\xF3mo puedes programar como un profesional, sigue leyendo nuestra publicaci\\xF3n de blog.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
-      "createdAt": "Sun Jul 26 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/java-performance-tuning.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
-      "createdAt": "Mon Mar 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ajuste-del-rendimiento-de-java",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Ajuste Del Rendimiento De Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJZgCdAEQdtzGodj7TsAAAP75upQ9OL+nKPw7MVEin7Yi8qpGXTiK8sX/g8/pje8z7+jKAE2HWZe9batGjA3o/XYn+H3ZrfuH9rXqz+nFf1AKsBUF/j5B6zPaRrLW/Ygf+sz9SyxTIZjmn5hb27Hoh2YAAA==",
-      "createdAt": "Wed Aug 04 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "las-mejores-herramientas-de-codificacion-para-desarrolladores",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Las Mejores Herramientas De Codificación Para Desarrolladores",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores hacen mucho trabajo. Al igual que con cualquier trabajo, los codificadores deben equilibrar la cantidad de tiempo dedicado a la codificaci\\xF3n, as\\xED como la calidad y la eficiencia de esa codificaci\\xF3n. Mantenerse organizado y productivo durante todo el d\\xEDa es un desaf\\xEDo continuo. La buena noticia es que existen muchas herramientas que facilitan la vida de los desarrolladores. Estas herramientas simplifican tareas como la organizaci\\xF3n del c\\xF3digo, el uso compartido de archivos, la depuraci\\xF3n y las pruebas.\nLas herramientas de codificaci\\xF3n ayudan a los desarrolladores de m\\xFAltiples formas. Agilizan procesos como la codificaci\\xF3n, depuraci\\xF3n, prueba y gesti\\xF3n de bibliotecas de c\\xF3digos. Adem\\xE1s, estas herramientas reducen la redundancia y aumentan la eficiencia en todos los proyectos y equipos en su conjunto en lugar de individualmente. \\xA1Echemos un vistazo a algunas de las mejores herramientas de codificaci\\xF3n que todo desarrollador deber\\xEDa conocer!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/deploying-java-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
-      "createdAt": "Tue Sep 07 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "implementacion-de-aplicaciones-java",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Implementación De Aplicaciones Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las empresas de hoy exigen m\\xE1s de su software. Exigen que debe ser r\\xE1pido, seguro y escalable para admitir a los usuarios actuales y futuros. Tambi\\xE9n necesitan que la implementaci\\xF3n sea conveniente, eficiente y totalmente automatizada.\nCon todas las herramientas y marcos de desarrollo de aplicaciones modernos disponibles en la actualidad, la implementaci\\xF3n de aplicaciones Java deber\\xEDa ser sencilla. Desafortunadamente, la realidad es bastante diferente.\nExisten numerosas opciones para implementar aplicaciones Java: puede usar un entorno de prueba tradicional con procesos manuales o un servidor de integraci\\xF3n continua para automatizar sus procesos de compilaci\\xF3n con repositorios de c\\xF3digo como GitHub o Bitbucket para administrar su c\\xF3digo fuente en un entorno aislado con algunos terceros. herramientas de grupo como Bintray o Nexus Repository Manager para implementar activos est\\xE1ticos en CDN como AWS Content Delivery Network (CDN) o New Relic Insights como una soluci\\xF3n de monitoreo adicional si no tiene servicios como StatsD, Datadog y Prometheus instalados en sus servidores.\nEn esta publicaci\\xF3n de blog, analizamos varias formas diferentes de implementar aplicaciones Java.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
-      "createdAt": "Tue Feb 15 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-complementos-de-codificacion-para-desarrolladores",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Complementos De Codificación Para Desarrolladores",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de software son algunos de los empleados m\\xE1s valiosos en muchas empresas. Pueden tomar una idea y convertirla en un producto \\xFAtil que la gente quiera usar. Los mejores codificadores buscan constantemente formas de mejorar sus habilidades y encontrar nuevas formas de hacer su trabajo m\\xE1s f\\xE1cil y eficiente. Afortunadamente, hay complementos disponibles para casi cualquier programa de codificaci\\xF3n.\nLos complementos de codificaci\\xF3n pueden mejorar significativamente su productividad y efectividad como programador al hacer que su flujo de trabajo sea m\\xE1s r\\xE1pido y eficiente. Estos complementos cubren todo, desde la depuraci\\xF3n hasta la b\\xFAsqueda de fragmentos de c\\xF3digo que puede haber olvidado pero que agradecer\\xE1 tener nuevamente si los necesita nuevamente alg\\xFAn d\\xEDa. Aqu\\xED hay una lista de los mejores complementos de codificaci\\xF3n para desarrolladores que pueden ayudar a que su trabajo sea m\\xE1s f\\xE1cil, m\\xE1s simple y m\\xE1s productivo:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFQu\\xE9 pasar\\xEDa si sus datos no tuvieran paredes? \\xBFY si pudiera responder exactamente a lo que necesita y nada m\\xE1s? \\xBFQu\\xE9 pasar\\xEDa si pudiera darte directamente lo que deseas en lugar de obligarte a pedirlo de formas complicadas y indirectas? Lo que es m\\xE1s importante, \\xBFqu\\xE9 pasar\\xEDa si sus usuarios pudieran ver todo sobre su sitio a la vez y encontrar lo que necesitan f\\xE1cilmente?\nEsta es la promesa de GraphQL. Es una alternativa a las API REST que abre conjuntos de datos completos en lugar de solo puntos finales individuales. Eso significa que en lugar de solicitar datos sobre los usuarios, su perfil o su cuenta por separado, como si cada parte estuviera en su propia habitaci\\xF3n cerrada, puede solicitar Usuarios> y recuperar a todos los usuarios en el sitio a la vez sin pasos adicionales. o barricadas. Usuarios > . . . y Perfil> . . . y Cuenta> \\u2013 todo desbloqueado a la vez. Y si bien eso suena como mucho m\\xE1s trabajo, en realidad significa menos trabajo en general porque el conjunto de datos es mucho m\\xE1s peque\\xF1o y simple que con las API tradicionales.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlV3Pz0oCQQDH8YHoBYJOXkLqUE/QM9Q96B69QJdeoHPXiAoKgjqIQS3mbCJp+ydoXdp1dtUV1111ddfGmSkXRHcgJILod/1cfl/AOU9mCR3opF+hocYGGo1q/HeAcz7qSCSfwnCNwlSUXyXCYjJL/nD3eVDeqYv7bmHXhnteZuk/t+D2ML/SK24FQpoKC8ksadZQHMdz/hzWo1yaweUPcQM/rQfi5nQ61R7PvxgBjBGGe009w2gUj3G/Y/jo3iwdW/JZ2BDBZDIhOAw85JiFdyVrKA9t9GJXig1THmMPhEhw4JEjX1XvDl3poqVcOqXTVvkEZQ+8txsw8rUx9kjX9CzJfb0OGlLY1n3tNrRg38rNr3HOKaUIIVVVDcOwbZsx9hP2DZVa9gFcAjF7AAAAAElFTkSuQmCC",
   "createdAt": "2022-01-18T19:43:17.061Z",
-  "updatedAt": "2022-10-02T10:57:46.173Z",
+  "updatedAt": "2022-10-11T17:15:35.516Z",
   "categoryLocal": "coding",
   "slug": "python-the-language-for-natural-language-processing",
   "locale": "en",
@@ -20,85 +20,25 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/deploying-java-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJbACdAELY7Jv1gAA/v6ed8MmPyvEQz+1qKb756KwL9l14AVf4AAiL+MgZLhYlVsgokzIDH/PMKtyYHWncLjWxGpjJ/mRz/53//h0d8ddUBabu//2Q1f+xyYkx5mecfbL1AAA",
-      "createdAt": "Tue Sep 07 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXOv0sCYRzH8fsPoiEEB22QRMof5RAhReEaQhBCVNTWP1BCQzQ0RiAObdFUQ1omJZ0YcQThJnQELeqVynVe4nmnz/N8n+8tcfbhs72Xl9D6/lLbTbXdbCm1V+k5ldrf2d4MBnw+r6twfS4YlmmapmEYuq5VKm/haHB6xp9IxFcWQqGpSWFIYXRKCNE0LbYU83jdrvExj3vidC8pEI5D4BSQ24iI6UwmEo2Eg4HFWf/u8pyTaw2lrjREUSyXy9nb3KNYKt3f1dPHl/F5AdDOFx5ucllJkmRZrlarmt61igWWv1IvzpxMAYcUKKUAwEezfnvK4UFPehIAOSAnjP/rgDJkwDs/7xvr+a2kIwfk3EbOOSGEDAasb7FOh0kvxbVVJ/+zuY2UUtPom3rXbKnWx6d8cvQHJSjfEBSgh8cAAAAASUVORK5CYII=",
+      "createdAt": "Fri Apr 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "deploying-java-applications",
+      "slug": "introduction-to-java",
       "locale": "en",
-      "title": "Deploying Java Applications",
+      "title": "Introduction to Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-companies.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoKAAoAAUAmJQBOgMVutpeFdE7hgAD++uRyDm4FYTioafP+WOpTX5gh99WW/mcPiiN26+zdC2AfcLRA8tc2Ou6/f0Be7QiN4dJ2JgJlrK8HpJWyHeydV1FWYgCioq6Gl+5l56NH31ggxAnfs0DcHszmW8DBG9wAAAA=",
-      "createdAt": "Sat Oct 16 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-companies",
-      "locale": "en",
-      "title": "The Top Software Engineering Companies",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
-      "createdAt": "Wed Mar 09 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-debug-your-code-like-a-pro",
-      "locale": "en",
-      "title": "How to Debug Your Code like a Pro",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-machine-learning.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoKAAoAAUAmJbACdFKACbKzRG3PC6eAAP7yk3Hwh1Z+cI3JMuWvXx/7wPAydC5D9xZsw8qx+DW7o/cYoYDn3fjvwW+feFdbZPe74pIqnY4tf8u0QZBuiJ86jFAos6eHrPv14V9qlMSRcVd7zeZUf11UHugBAjymMfzF/5CKFvx4y0sGrQQ6vNIYAAA=",
-      "createdAt": "Sun Jan 16 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-machine-learning",
-      "locale": "en",
-      "title": "Go Language for Machine Learning",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-read-code-like-a-pro",
-      "locale": "en",
-      "title": "How to Read Code like a Pro",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
       "createdAt": "Sat Nov 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "the-best-coding-tips-for-beginners",
       "locale": "en",
@@ -110,61 +50,121 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/interfaces-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoKAAoAAUAmJYgAAueE/IpozgAA/vvY9O+g2crl3Hio1tBr/r/VhS7xhOsp1Pqe1MW4y608VkbA6le7LvoPJUI3jy6NcifbmnapaC7024Ku8uq//+mElbEOb/xfOdgAAAA=",
-      "createdAt": "Mon Apr 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA7klEQVQYlWP4hxcwIHM+ffr08OFDFOk1q1bMmzNr0oS+rZs3btuyaf3a1Qvnz104f+6MaVP27t7NcPXq1YcPH54/f37Pzl1v3ry5c+fO9evX37x5c3Df/oP79jNIxX5cc/jnz18IA//+/fv508v7t088eXSZQSnlC6/fm9lbP//79+ff3yf//v37/P7++RPrjx9cs3/3CobQ1q/pEz7df/7g3+uwv7cY/rxw+v2h98Ob2+9e3n798hbM5a+i/jy1/vvY8M8zjz8PZREufwMBT9c9OOdw/6zjg7Oebx5Of//2zZu3rz5+fI/ib8xgAQCGagAgiuQPYwAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "interfaces-in-java",
+      "slug": "go-language-for-cloud-computing",
       "locale": "en",
-      "title": "Interfaces in Java",
+      "title": "Go Language for Cloud Computing",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
-      "createdAt": "Wed Mar 24 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAv0lEQVQYlU2PX6uDMAzF/f6fS4TiHwo+9OF6ubhN192G2q2uOpYDo6uy5SnJLzknyQA456ZpIqK+740xWmsiwjsyAF3XCSHqulZKNU1TVVWe5x/M/MBy5nDCcsb6n8COLTEZ9jeESxxNZeoAmRCiKIr5dOTQA6DuR0pZluWqx882whyVAVzdpjceYCl6p3jeBl6XlLMlPQ5t2+7YUjS7uuhtifVwJ+O937D9+5VSKqX88bAtzP5LPITt4F0/PfYC2iwZPG61FKYAAAAASUVORK5CYII=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-resources-for-beginners",
+      "slug": "java-performance-tuning",
       "locale": "en",
-      "title": "The Best Coding Resources for Beginners",
+      "title": "Java Performance Tuning",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-image-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqwAAABXRUJQVlA4IKAAAABwAgCdASoKAAoAAUAmJbACdAYtVzobYknUc5QAAP76Rs4TKaueHD0zpx/71lUNCj/4/Z/ehnGu+G7m7/5fgc5v0/HTuaoE5P68AXEE9l31v6CF5e3n5MBXI4unFEIU45w3N4CodcJfLN9MTYgMFCfx//ki+wS69r6tn9yh/x6m57Amdyd/9//lurXaf8+hf0Xf8fXa+Ng9B/7F/8erMAAA",
-      "createdAt": "Fri Mar 18 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-image-processing",
+      "slug": "object-oriented-programming-in-java",
       "locale": "en",
-      "title": "Go Language for Image Processing",
+      "title": "Object-Oriented Programming in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-spring.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAoAAUAmJQBOgBuuYsoDooAA/tKOq5V/+Vh2Idh8D0hvcxmpvoiTzpcdPdTbBvzzHFjc8y1J/Ag0kEYwfFSV5PliwlkWw1pPfbeI3u+z548FId803Pu03VHAAA==",
-      "createdAt": "Wed Apr 01 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWP4BwZ/ft3+/W3V7++n//379/Xb30s3fr18/evfv38M//79+/Vh/Zvzoqf3uJ3ZbXHx2jOb0I+u4SeNvF5t2fUCJP3pQuCxdSE/P1z5/vrY1IUfdR0vvnv3Lrf2XUDcWZD0u/3eF9YnXtlZ+GY1b1HtSS2bM1+/fs2pfO0Vth8k/ercrAczRN/sSnk6g3P33lO69meCEq8qGR+bvWAfSPrP7z/XT207sanvxK6F79+/v3X3uYHDnsCotX///gVJI4Ov33+qmy6W1JxRUbcK5PLzWxseXNt3//KuF/fPXjm67PWTa+cPLrtx8eDFY5svntzKsGVm3trJWVvnVaydXnx406w104rmNoVMa4hbN695SmMcw6uXTx89vPv8yb33b998fP/u3ZtXd29e2bN52Yq5fffvXAMANpbdiE0UJHQAAAAASUVORK5CYII=",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "introduction-to-spring",
+      "slug": "go-language-for-network-administration",
       "locale": "en",
-      "title": "Introduction to Spring",
+      "title": "Go Language for Network Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJhxE554HKF7Jq+HK7CHMa+FNK+GLamBKJ12IZRuFwCeeRiqkxW6nx23kzDEoy+9lTe/oSW5ky6shyigfhwAoXwgpJYNinsSqZ8Oo5oQvKogpp0Ml48Ns6sKoJsHAKuLHZt8J6qIMauPNJWBKMyoR6CILpt8MpBxKYJkHwCFfQmmmhGpmhaypRXEtxqklRutoRiqmhmonRGtowwAlHEdjnoWgXAYmIcbno4fpYo0n4glinMijHcXgW0UAKF8IKyELbONMb6aN8yiRdGlS8qfR7+UP7SJM6N6JgCcdBuZeCHPywaahh2xmSLIpjLClz+3jjqshC2ddiEAmnIUn4AZk30VlYYOgXAWqo4mt400rYUsoHolmHIbAJVuDohoEZVxG6R+IqmAKquCLKmAKqN7IphyG49sFGj3g1duABCQAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-language-for-the-masses",
+      "locale": "en",
+      "title": "Python - A Language for the Masses",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-choice.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWPoLWFry2XrLWFzsmDdPIUtO5JtZj1bUzabvSlLZQorAysrc0MWS0kCp68jT3U6X140Z1Uaf3E8m7cdc1UqG0iah5tJWFjY2tpaQ0PDwsJCXl6eiYmJi4OJl4eFgRkbYGNjY2ZmZmJiYgj1tjA3UhEXFeTg4GAHg6hQ7+aq7KqiTBsrC4aCrKjspEAfZ0NDHQU+Pj5RYaHG2jxrS3MXZ5uMpFgGVxfbIH/3jKQgT2c9GWlRCQmJ/q46HR0dERERKQkxBltrA11tdU8P+6K8WG9XUztL3eKcmJiYGDk5OQEBAYasZLfIUAcLc0MbK7PsjLiWupzEmAAVFRVeXl5RUVGG7JSQuHC7wmzvyHAPU2NDe1sbW1tbAwMDHR0dVVVVAI56P477AMeGAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jun 13 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-choice",
+      "locale": "en",
+      "title": "Python - The Language of Choice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMrCsNLDrdrJtObTvN/OuNnKts/Fu9DBr492Y2lKOQDo8fXd0sTVxLHUybrRxbnTw7TOwLLVxLHWtprHlW8AiXZq2N/j3NfP0sa6zsW4y8S5zMzMysK6wLauuJeCAKh2Wb+0se31+dze3crHv4eCep6kqbu+u7rDxMHQ1ACFbmGVcmDRxL/n8PTTyMGUa1AxLSfDyMK+y8u+y80Aj4mJr5WMxLOr6O7wxLOrjVpALiQes7anu76vxcS+AH15eottYLijlujo5I+WmJRmTWl0gpOZm93bzL+/vwB4a2edfW+uqKGPm6eDlqunrrqLpMCPqMS+xMa5ubsAUFBQa2Jga3B6Wmx/kJ+zs73Ic46slYWBgXFyo6azAKiXjWlcWXF9hpCUl39nX4lyao2bq7Waj59pVJljT6pWwNtKDSCpAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-companies",
+      "locale": "en",
+      "title": "The Top Software Engineering Companies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlWP4CwK/UdFfOIPhwYOf06Z/vHDxO5Lc3737v0+b/vHx058M9o4vd+z6bm716ufP33/e7fr7etOhw5/jEt4uXfZ54sTPDM6ur3/9+uPo8vrtzXl/byb/edS5oDFvzoybtYU7TcxfMNjav5SWfW5l8+L6zpw/l7z+ntF+u0s5yHVdhNeayqp3DPaOrw8f+WFu9eLMEs8/r9f8uxr25xDLn5er/77Z+fdBG0Nw2Jve/k+2dq9v7O/6fTXoz2mtv497/lx0/3Mr4+/DFoav339PnHRs+85T586defvk+MObhx49enT94p4PT/b+/f2d4e/fvwUFBcuXLV++bPn58+dPnz59/PjRhw8fvnr1AuTvv3///vjxA+5j1MD5CwDNFOlGovF05wAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-web-development",
+      "locale": "en",
+      "title": "Go Language for Web Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

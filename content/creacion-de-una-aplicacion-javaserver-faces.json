@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/building-a-javaserver-faces-application.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA5ElEQVQYlX2P30rCYBjGv8vqIsQIUxC8iQQPu4MIvIAQN8g1B+Mz+xzraDBF0VBRoTkXVBBDBvtTOPbpA5I78Eh/PGc/nof3JUEQAIjjGEAURQA450mS4AChlLYPyLJsGIaqqpqmUUolSbJtm6S9UxAA3/7mQvnLtcMiCwsvUeY5vh1sj/r1fX31aGXri0thXmraOWFSZp9H7bquoiicc13XATiOwxjbbXf/+r73c/PUfxh7AEzT9IKwOvJqw687NpZnHsmLb9fitNL5SNf88LfRX7WGVhoi9pZC1zKW7snLzzy2BzA8AWIx8bZDAAAAAElFTkSuQmCC",
   "createdAt": "2022-02-27T06:54:26.622Z",
-  "updatedAt": "2022-10-02T11:00:39.814Z",
+  "updatedAt": "2022-10-11T17:15:43.842Z",
   "slug": "creacion-de-una-aplicacion-javaserver-faces",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,151 +20,151 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-tool-for-data-analysis.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAAUAmJaQAAu0ePvhjhZ4AAP7+x4hxeXw6dxYcl88AZjT2H15a9Z0CpcHW6h2UiEe3pRRbZeZflKo2+QLyvlWDkoZn2QAAAA==",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-una-herramienta-para-el-analisis-de-datos",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWXCz0vCUAAA4PdXeeneJRHq0DnqZCThIOgHIVQjUhGkKUTLsmJSB/WQiRZJWbC13LSpLH1OLSba3Ntzm3jt4LGPDwhSW5DaxXe5Uv8u17pcucWK8O0DsiLkxDbIPfKr7uBRkDmOJOnzLOlnSD8jN9XOjyZWFeAlKC9BUZHkzi5NbERvbp/mF7YbZfmryFeqCsjmWN0YmaY9tifa0ETYbrJCanPpIeR7iSdAOJr2EpTTtbXmCcfiOYRtlf/cX1lOkev5kAdI1RYvyJdX+XyhxPENpTuQSzIXT0jpDEMGgKJi2MN93UajCRpNfvG4NzDu6OvCBXPqOwDaEA+RqRuWgSyEbd2wdMOq12DmJEbvHQLY6U8r3cE07PSL96/RRbdnxgme2dr/gcDZrMPldMz9AYzG3b/uJM7yAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "creacion-de-una-interfaz-de-usuario-de-javafx",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python: Una Herramienta Para El Análisis De Datos",
+      "title": "Creación De Una Interfaz De Usuario De Javafx",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El an\\xE1lisis de datos es un elemento crucial de muchos campos en la actualidad. Dado que los datos se recopilan de todas las fuentes, las empresas deben usar los datos de manera efectiva para impulsar su empresa. Las organizaciones est\\xE1n recurriendo al software de an\\xE1lisis de datos para procesar y comprender la informaci\\xF3n que han almacenado.\nEl an\\xE1lisis de datos es un proceso complejo que implica limpiar, explorar, visualizar y comprender datos desde diferentes \\xE1ngulos. Python es una de las herramientas m\\xE1s poderosas para el an\\xE1lisis de datos debido a su versatilidad y amplias bibliotecas para la manipulaci\\xF3n de datos. En esta publicaci\\xF3n de blog, exploraremos por qu\\xE9 tantas empresas eligen Python para el an\\xE1lisis de datos, qu\\xE9 puede hacer por usted y c\\xF3mo puede implementarlo en su propio negocio.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Casi todas las aplicaciones necesitan una interfaz de usuario. Las aplicaciones sin interfaz de usuario parecen ser nada m\\xE1s que programas que se ejecutan en segundo plano en su computadora.\nEs imposible imaginar una aplicaci\\xF3n a la que no se pueda acceder a trav\\xE9s de alg\\xFAn tipo de interfaz gr\\xE1fica de usuario. JavaFX proporciona formas de construir e implementar interfaces atractivas, din\\xE1micas y receptivas.\nAunque JavaFX es una biblioteca muy poderosa, no proporciona todo lo que pueda necesitar para crear un tipo espec\\xEDfico de interfaz de usuario. Es posible que haya notado esto al leer el art\\xEDculo sobre Controles: hubo algunos controles que no ten\\xEDan su propio art\\xEDculo pero que, sin embargo, se mencionaron como parte del m\\xF3dulo javafx-ui-controls. Esto significa que no todos los controles son proporcionados por la biblioteca principal de JavaFX (aunque la mayor\\xEDa de ellos s\\xED lo son).\nSi planea usar JavaFX para su aplicaci\\xF3n, debe saber que existen varios m\\xF3dulos dentro del alcance de esta biblioteca: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJZwCdAELMcZJM0AA/v5lU97mpVn2IWlcUzrpxE4P2gWB4e2DHTfd+7fSzJbdxLZIJ97p85o6T94fIWtmZlTvizexCGNJnFOMeMj12KAUrgAA",
-      "createdAt": "Tue Feb 15 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-complementos-de-codificacion-para-desarrolladores",
+      "imageSrc": "/articles/go-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Kz0vCUADA8fcH9RdEl6BrlyApqEv1X3QID1EYEkWhaBGoNdS01PIUlqTp1L3p/LE0Ncu57U3f5vacSqeQgs/t+wVmv2oq/AjVRqiio7KOyob8byhCYIhQFWYM9P4z1k31C4us1mOHMjcUi2DQecPfjKmJ0wmZTshkbGCJQwLjuTx2Ow4BUVpjVdGxRLRBic0THRMDNevJNcvK9tYGIKiLe+0SzD5Ew9a9XTrzOjJURWqsry5ZlheA3Kr6rhwXzlPH+YkodDSMdE3FfSnosS3Oz4FuvWQ7sIaD10KnJUtddSAzdDIaOGNS1M7mMvis5dsV2Kiw7Qbf/OBDN87nuLucC/EwEqPsoJp9/MtP8Tufa59+8cK0n6NveRgppv2gkPByuZTXdRSj7HTCk0v6mBRVzARmR+H+FyOp6jj0Ug9FAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 24 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-lenguaje-para-el-desarrollo-de-juegos",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Mejores Complementos De Codificación Para Desarrolladores",
+      "title": "Ir Lenguaje Para El Desarrollo De Juegos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de software son algunos de los empleados m\\xE1s valiosos en muchas empresas. Pueden tomar una idea y convertirla en un producto \\xFAtil que la gente quiera usar. Los mejores codificadores buscan constantemente formas de mejorar sus habilidades y encontrar nuevas formas de hacer su trabajo m\\xE1s f\\xE1cil y eficiente. Afortunadamente, hay complementos disponibles para casi cualquier programa de codificaci\\xF3n.\nLos complementos de codificaci\\xF3n pueden mejorar significativamente su productividad y efectividad como programador al hacer que su flujo de trabajo sea m\\xE1s r\\xE1pido y eficiente. Estos complementos cubren todo, desde la depuraci\\xF3n hasta la b\\xFAsqueda de fragmentos de c\\xF3digo que puede haber olvidado pero que agradecer\\xE1 tener nuevamente si los necesita nuevamente alg\\xFAn d\\xEDa. Aqu\\xED hay una lista de los mejores complementos de codificaci\\xF3n para desarrolladores que pueden ayudar a que su trabajo sea m\\xE1s f\\xE1cil, m\\xE1s simple y m\\xE1s productivo:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Ahora que el mundo del desarrollo de juegos se est\\xE1 volviendo cada vez m\\xE1s digital, tambi\\xE9n hay nuevos desaf\\xEDos que enfrentar. Ahora se espera que los desarrolladores de juegos presenten soluciones a problemas complejos en un tiempo r\\xE9cord. Y aqu\\xED es donde entran los lenguajes de programaci\\xF3n. Hacen posible que los desarrolladores resuelvan problemas creando programas directamente en lugar de escribir instrucciones palabra por palabra. Existen numerosos lenguajes de programaci\\xF3n, pero uno que se ha vuelto particularmente \\xFAtil para el desarrollo de juegos es Go. Tiene muchas caracter\\xEDsticas que lo convierten en una excelente opci\\xF3n para desarrollar videojuegos, incluida su simplicidad, inferencia de tipos y excelente compatibilidad con Unicode. Si est\\xE1 buscando comenzar a aprender sobre Go y sus beneficios para el desarrollo de juegos, siga leyendo. En esta publicaci\\xF3n de blog, cubriremos todo lo que necesita saber sobre Go y por qu\\xE9 es un excelente lenguaje para el desarrollo de juegos.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
-      "createdAt": "Sun Aug 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-beneficios-de-una-carrera-de-ingenieria-de-software",
+      "imageSrc": "/articles/exception-handling-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAmElEQVQYlY2PsQrDIAAF/f9/CYZURHDLoiBqIEhAHYIODlmaiENICqV2KHRIe+O75R54XAJ+67ZtKaUYY0IIQghCeKt0XffS27aVUpZl8d4756y1KaVSSs4ZnMd5r6zr2vc9pZQQMo7jewHGGMaY1toYo5QSQiilpmmSUg7D8EnjnAsheEVKOc/zd3mMsWmaEMK+738fu9BP4tMQ8SaRC44AAAAASUVORK5CYII=",
+      "createdAt": "Wed Mar 04 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "manejo-de-excepciones-en-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Beneficios De Una Carrera De Ingeniería De Software",
+      "title": "Manejo De Excepciones En Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son responsables de desarrollar software nuevo o corregir el c\\xF3digo existente para asegurarse de que satisfaga las necesidades del usuario y funcione como se espera. Usan el pensamiento l\\xF3gico, habilidades para resolver problemas y una variedad de principios t\\xE9cnicos cuando crean y prueban aplicaciones de software. Como ingeniero de software, podr\\xEDa tener la oportunidad de trabajar en proyectos que resuelven problemas desafiantes. Esta carrera puede ayudarlo a adquirir nuevas habilidades, avanzar en su carrera y construir un futuro m\\xE1s estable para usted. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 deber\\xEDa considerar hacer una carrera en ingenier\\xEDa de software si est\\xE1 interesado en la inform\\xE1tica u otro campo STEM.\nLos ingenieros de software tienen algunos de los trabajos m\\xE1s din\\xE1micos en la actualidad porque la tecnolog\\xEDa est\\xE1 cambiando muy r\\xE1pidamente. Pero, \\xBFqu\\xE9 significa exactamente ser ingeniero? Bueno, un ingeniero es alguien que combina la ciencia con el pensamiento l\\xF3gico y la creatividad para producir nuevas ideas o innovaciones \\xFAtiles que satisfagan las necesidades y los desaf\\xEDos humanos.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En programaci\\xF3n, nada puede ser 100% perfecto. Siempre habr\\xE1 alg\\xFAn tipo de error o evento inesperado que pueda ocurrir durante la ejecuci\\xF3n de un programa. Estos problemas se conocen como \"excepciones\" y pueden tomar muchas formas. Por ejemplo, una excepci\\xF3n podr\\xEDa ser algo como leer una variable de cadena vac\\xEDa, intentar acceder al sexto elemento de una matriz con solo cinco elementos, o incluso algo tan simple como no tener suficiente memoria disponible para continuar ejecutando instrucciones.\nEstas circunstancias excepcionales se denominan excepciones porque son excepcionales y el controlador del programa no puede continuar con su ruta de ejecuci\\xF3n habitual m\\xE1s. Para el usuario, parece como si la aplicaci\\xF3n hubiera fallado \"excepcionalmente\" de alguna manera y necesita recuperarse de este estado. Por lo tanto, contamos con manejo de excepciones en Java para manejar estos casos extremos con gracia para que nuestras aplicaciones sigan funcionando correctamente a pesar de ellos. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre varios tipos de excepciones en Java y c\\xF3mo podemos manejarlas usando bloques try-catch de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-hibernate-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoKAAoAAUAmJQAAU6v2pvwQAP7+ndvkK4a94BGeVv3FRuuepQnpdN5MXtAfblQSQMuA+B/exTEHuQ3/x42ip1/oAAAAAA==",
-      "createdAt": "Tue Nov 24 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "creacion-de-una-aplicacion-de-hibernate",
+      "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlV3Pz0oCQQDH8YHoBYJOXkLqUE/QM9Q96B69QJdeoHPXiAoKgjqIQS3mbCJp+ydoXdp1dtUV1111ddfGmSkXRHcgJILod/1cfl/AOU9mCR3opF+hocYGGo1q/HeAcz7qSCSfwnCNwlSUXyXCYjJL/nD3eVDeqYv7bmHXhnteZuk/t+D2ML/SK24FQpoKC8ksadZQHMdz/hzWo1yaweUPcQM/rQfi5nQ61R7PvxgBjBGGe009w2gUj3G/Y/jo3iwdW/JZ2BDBZDIhOAw85JiFdyVrKA9t9GJXig1THmMPhEhw4JEjX1XvDl3poqVcOqXTVvkEZQ+8txsw8rUx9kjX9CzJfb0OGlLY1n3tNrRg38rNr3HOKaUIIVVVDcOwbZsx9hP2DZVa9gFcAjF7AAAAAElFTkSuQmCC",
+      "createdAt": "Tue Jan 18 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "python-el-lenguaje-para-el-procesamiento-del-lenguaje-natural",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Creación De Una Aplicación De Hibernate",
+      "title": "Python: El Lenguaje Para El Procesamiento Del Lenguaje Natural",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En este art\\xEDculo, construiremos una aplicaci\\xF3n b\\xE1sica utilizando Hibernate como una biblioteca de mapeo relacional de objetos. Cubriremos los fundamentos de la configuraci\\xF3n de un proyecto, la creaci\\xF3n de tablas y el manejo de los inicios de sesi\\xF3n de los usuarios.\nProbablemente todos hemos o\\xEDdo hablar de las bases de datos SQL antes. Se utilizan para almacenar datos en tablas para que pueda consultar los datos de manera eficiente. Cada tabla tiene columnas con las propiedades de esa entidad almacenadas como valores en esas columnas.\nSin embargo, construir una base de datos completa desde cero no es algo que la mayor\\xEDa de los desarrolladores quisieran hacer a diario. Aqu\\xED es donde las bibliotecas de asignaci\\xF3n relacional de objetos (ORM) resultan \\xFAtiles. En lugar de tratar directamente con las tablas de SQL y su contenido, puede usar estas bibliotecas para representar los objetos de su dominio como entidades por derecho propio. Una vez que haya hecho eso, se vuelve mucho m\\xE1s f\\xE1cil conservarlos en su base de datos sin escribir ninguna instrucci\\xF3n SQL usted mismo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El procesamiento del lenguaje natural es la capacidad de un programa de computadora para comprender el habla humana. El principal beneficio del procesamiento del lenguaje natural es que permite a los usuarios comunicarse con una m\\xE1quina de la forma en que se sienten m\\xE1s c\\xF3modos. Las computadoras ahora pueden entender, procesar y reaccionar al habla humana. El procesamiento del lenguaje natural (NLP) es un \\xE1rea de inteligencia artificial que permite a las computadoras detectar y comprender el habla humana, as\\xED como las palabras escritas. Involucra las t\\xE9cnicas y algoritmos relacionados con el procesamiento del lenguaje natural, como la inteligencia artificial, el aprendizaje autom\\xE1tico, la visi\\xF3n por computadora, la recuperaci\\xF3n de informaci\\xF3n y el reconocimiento de voz por computadora.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "ir-al-lenguaje-para-la-ciencia-de-datos",
+      "imageSrc": "/articles/interfaces-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlV3Ky0rDQBiG4bkoF3oPrty4FsQrcCcIehGi4qIgHilWBU/VjbXEY2NImlZKalrbJJ2Q6niYzPz/zEISoQtfvt33EFCaC5Co/G7Pe/XtesMwjH4YBRFNJZJHs7a4tAwKQWlQGnWmg4hadt1tvpCx8Yny6Ul+4zfnKcgRBaXJzNRkHCed3ltIB7Vnc3Nr+7x8WTw4/HPEMW5SkKXjo0q1urq+wTnXSod0AAoRkbx/CkqjJEmEEK22Z9l2q+0BACICAPlJEVBAntNwb+/vHp7M3f0iYyy7hRBSpiPxL/KV0KFzxdwz3reAM8BM58siHwkLKnudnXm/MOetTfuF2X5pIb5eYc0LOez+AtieBjj6ELlaAAAAAElFTkSuQmCC",
+      "createdAt": "Mon Apr 05 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "interfaces-en-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Al Lenguaje Para La Ciencia De Datos",
+      "title": "Interfaces En Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los cient\\xEDficos de datos deben poder hacer frente a nuevos desaf\\xEDos r\\xE1pidamente. Si desea que su equipo pueda responder de inmediato y girar sin problemas, necesita que usen el mismo conjunto de herramientas, compartan bibliotecas y trabajen en una base de c\\xF3digo tanto como sea posible. Hay tantas herramientas diferentes para la ciencia de datos, desde bibliotecas de Python como pandas y NumPy hasta el lenguaje de programaci\\xF3n Scala para an\\xE1lisis estad\\xEDstico.\nSi su equipo est\\xE1 formado por ingenieros que tambi\\xE9n son cient\\xEDficos de datos experimentados, entonces puede elegir cualquier soluci\\xF3n que se ajuste a ambos requisitos. Sin embargo, si tiene cient\\xEDficos de datos que no son programadores o ingenieros que necesitan ponerse al d\\xEDa r\\xE1pidamente, es mejor elegir una soluci\\xF3n que ofrezca m\\xFAltiples beneficios a la vez. Go es una soluci\\xF3n cada vez m\\xE1s popular que combina la facilidad de los lenguajes de secuencias de comandos con el rendimiento de los lenguajes compilados. En este art\\xEDculo, aprenderemos por qu\\xE9 deber\\xEDa usar Go como lenguaje de ciencia de datos y cu\\xE1les son sus principales beneficios.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La definici\\xF3n de una interfaz es casi la misma en Java que en cualquier otro lenguaje de programaci\\xF3n orientada a objetos (POO). Una interfaz, estrictamente hablando, es un tipo que especifica un conjunto de m\\xE9todos, pero no su implementaci\\xF3n. Esto significa que una interfaz puede tener m\\xE9todos est\\xE1ticos y propiedades accesibles, pero no m\\xE9todos o campos de instancia.\nUna interfaz es un tipo que especifica solo el comportamiento y no la implementaci\\xF3n de una operaci\\xF3n. Las clases que implementan esta interfaz deben proporcionar su propia implementaci\\xF3n para cada m\\xE9todo declarado en ella. Las interfaces se usan ampliamente en Java para proporcionar un terreno com\\xFAn para que las clases implementen alguna funcionalidad sin revelar los detalles de implementaci\\xF3n interna.\nCuando usamos interfaces, estamos creando contratos entre nuestras clases para que se comporten de cierta manera, que implementen ciertos m\\xE9todos y realicen tareas particulares cuando se les solicite. Exploremos c\\xF3mo podemos aprovechar las interfaces en nuestro c\\xF3digo para hacerlo m\\xE1s modular, reutilizable, comprobable y legible.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAADQAgCdASoKAAoAAUAmJbACdLoAyQDJAASR8mZiIAUgAP74RDpZJtZEnR8WKuzFya4nrfscyuvaG24kC8egqDi4fPYl32+5De/ndMPOyCfPCKAr2FoPtSW5ONn/jF/4/eyaJXg/8bGw39boU/8m/9AX+V2LeH1Y0HpetxE2YgAAAA==",
+      "imageSrc": "/articles/basic-java-syntax.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA3klEQVQYlX3MvWvCQBjH8fy5unbIeIuNk1iEZCj1BmNOShupHAp9AcFBRIckuohE2xBBq1EMkkjuJaAiKLf4HZ8Pv0dK7yalaRpbFqf0eqL/S4ELAOiwXCo+PWSyvu9XK7osyzW9kn9UpCAIVFWFECKEAACu62qaZhiGaZoY4/P60qH+Fv18r6r6roWF55fCQW/+ihZNvMINzrjAnBNmI9ppJu+IfGJmd0WmSbSwt0574/T34xHxvgRmk0moKGE+F3/U4zKMXp6T0fDGdOYSx6L+H9msiecRx2K/0xMfAacGAqAJn5TQAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "sintaxis-basica-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Sintaxis Básica De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando est\\xE1 aprendiendo a codificar, necesita aprender los conceptos b\\xE1sicos antes de poder pasar a temas m\\xE1s complejos. El lenguaje de programaci\\xF3n m\\xE1s fundamental es Java. Es uno de los lenguajes m\\xE1s importantes y ampliamente utilizados en el mundo de la inform\\xE1tica. Muchos otros lenguajes de programaci\\xF3n se basan en \\xE9l, lo que lo hace a\\xFAn m\\xE1s esencial para los programadores.\nSi desea aprender Java, primero debe comprender la sintaxis de codificaci\\xF3n b\\xE1sica. Mucha gente considera que la codificaci\\xF3n es un desaf\\xEDo porque requiere fluidez en una variedad de caracteres y s\\xEDmbolos que no son necesariamente palabras comunes en ingl\\xE9s. Sin embargo, una vez que supere la apariencia inusual de estas palabras, ver\\xE1 que en realidad son conceptos bastante simples cuando se dividen en partes m\\xE1s peque\\xF1as. Una vez que comprenda los conceptos b\\xE1sicos, \\xA1todo ser\\xE1 mucho m\\xE1s f\\xE1cil de ahora en adelante!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWPQlma2UmFy1WHyNWAOMmYKNGL20WNx0GA2UWBWlWBmsNdiCbFgSXdhKvJhLvVlKfVlyfFgirNn9jZiMVNlYgg0Z831ZmqPZZ2czDI9lWVaCnNXHFNlIHOyC7ObPjPDlBaftVN917Sqb2+VX53PvLqIZV42S08CS5EfS7gNM8PaBckL6nSuHSne3Sqzu5FnZy3vlmbJhWXiTfECiW7cDBnefA2hLHtmue3t1728OfnajvTLO7MPLE9YMSm4pdiBIcCMOc2ZuciHucyfo8KXtTpcMN+HO86ONcCM2U4T5vJUV6Y8L6ZSf8ZSf+YsD5YYB2ZvYyYzVRYGbWlma1VmVx0mP0MmsL8ZvfSZHLWYTBSY1cSZGaT5mVXFmPRkQHwLJRAylmfRlmZWFGGS4GcCACEeTYttyCv1AAAAAElFTkSuQmCC",
       "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-leer-codigo-como-un-profesional",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "python-el-lenguaje-del-manana",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Leer Código Como Un Profesional",
+      "title": "Python - El Lenguaje Del Mañana",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que quieres entrar en la programaci\\xF3n, pero no est\\xE1s seguro de por d\\xF3nde empezar. Sabes que existen muchos lenguajes de programaci\\xF3n diferentes y que se pueden usar para diferentes cosas, pero \\xBFcu\\xE1l es el mejor para aprender primero? Bueno, te sorprender\\xE1 saber que es Python. \\xBFPor qu\\xE9? Porque es el lenguaje del ma\\xF1ana.\nAhora podr\\xEDas estar pensando: \\xBFPor qu\\xE9 eso lo convierte en el idioma del ma\\xF1ana? Despu\\xE9s de todo, \\xBFno deber\\xEDamos centrarnos en aprender lenguajes como COBOL que nos ayudar\\xE1n en nuestra futura carrera como contadores o algo as\\xED? Bueno... tal vez. Pero tal vez no tanto. Mira, mientras esos otros lenguajes de programaci\\xF3n son geniales para algunas cosas, no lo son tanto para otras. Y cuando echamos un vistazo a lo que otros lenguajes de programaci\\xF3n no podr\\xE1n hacer en el futuro debido a sus limitaciones (o tal vez solo a su edad), vemos por qu\\xE9 los programadores de hoy dicen que Python ser\\xE1 el lenguaje dominante de ma\\xF1ana. \\xA1Vamos a sumergirnos en por qu\\xE9 echando un vistazo a varias razones por las que Python es un primer lenguaje de programaci\\xF3n fant\\xE1stico para aprender hoy!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
-      "createdAt": "Wed Mar 09 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-depurar-su-codigo-como-un-profesional",
+      "imageSrc": "/articles/python-the-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlXWOwUvCYBiHv4Pf+/s2jc4S9Hf1P3TtGB26hBcXSbiDhZWkCHMKZUzSrdnQGMTyg4hOMSuCSDq7BjEH4SV4Tu/D+74PiyX+gccSbGMT912uFYXXoV4TtkFui3ttMTRhNYhJC9VyMrIatK9BL4lek9sGdWponwkWSxyW8HRN4RCX59xt8RcHn2NICz8TzmLJtSKZJygfoKpntnd5oYBjnbZ28O5Rsv3H2032y1fmk7RrkbasH7ur374yX4gUNhvhopJ36mu+ma/srYeOOhvh1VY/XJHo6UAJjFz/aGU6UMK+uK1l7+rq85VwTnNpGqKAooDSa9FDZvndLzDcoJY0NdOiAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Nov 07 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "python-el-lenguaje-para-la-programacion-de-redes",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Depurar Su Código Como Un Profesional",
+      "title": "Python - El Lenguaje Para La Programación De Redes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFEres un programador excepcional? Claro, puede codificar en m\\xFAltiples lenguajes de programaci\\xF3n con fluidez, depurar cualquier problema que encuentre e implementar algoritmos como un profesional. Pero, \\xBFqu\\xE9 sucede cuando su c\\xF3digo falla una y otra vez? \\xBFO funciona perfectamente sobre el papel pero no en la pr\\xE1ctica? \\xBFQu\\xE9 haces cuando no tienes idea de qu\\xE9 est\\xE1 fallando o por qu\\xE9 el c\\xF3digo no funciona seg\\xFAn lo previsto? Bueno, si eso suena como usted, como programador, \\xA1siga leyendo porque tenemos buenas noticias para usted! La depuraci\\xF3n de su c\\xF3digo es una de las tareas m\\xE1s desafiantes y exigentes como codificador. Requiere paciencia, precisi\\xF3n y habilidades anal\\xEDticas para identificar d\\xF3nde las cosas no funcionan correctamente y por qu\\xE9. Sin embargo, con las estrategias y t\\xE9cnicas adecuadas, la depuraci\\xF3n de su c\\xF3digo no tiene por qu\\xE9 ser un proceso doloroso. Estos son algunos consejos \\xFAtiles sobre c\\xF3mo depurar su c\\xF3digo como un profesional:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mundo de la programaci\\xF3n cambia constantemente y es un espacio fluido con nuevas tendencias e innovaciones que surgen todo el tiempo. La creaci\\xF3n de redes es una de esas \\xE1reas que ha visto una explosi\\xF3n en el crecimiento, con m\\xE1s personas que se conectan entre s\\xED en espacios virtuales que nunca. Esto tambi\\xE9n ha abierto una gran cantidad de oportunidades para los programadores que desean involucrarse en la programaci\\xF3n de redes con Python, un lenguaje de codificaci\\xF3n que se puede usar con fines de redes con facilidad. En este art\\xEDculo, hablaremos sobre qu\\xE9 es la programaci\\xF3n de red, por qu\\xE9 deber\\xEDa aprender Python y c\\xF3mo puede comenzar a usarlo para funciones de red.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
-      "createdAt": "Sun Feb 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-mejorar-tus-habilidades-de-codificacion",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlU3MvWqDUBwFcJ9KMvoAkgfIZvYMTq7i5CikBO4gOJdmTLljh6qLIH41XK2EDFZrG2gq1OvH/1Jus/Rwtt/hCADAGGsu7wAwz8P8c4F/EQAgO2Xbh7uDd2he7unpkbfc03I/1D5nAHiOvOg16r/fho94/Eym7jx9lVN35swYAwCM8fF4vK0ppQghy7IExtg4jgghURQJITc2DGO32/m+L0iShDFWFGW1Wl2vV03T0jSVZdk0TVVV+fk8zYvFYrlcFkVBKQUAXddt247jmHNd1+v1erPZBEFwO+/73rIswzA4U0qzLKuqKs/zoijSNE2SJAiCrus4t23rOA4hxHXdp794nheGYdM0v2j+8F5aEBuFAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-concurrente",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Mejorar Tus Habilidades De Codificación",
+      "title": "Ir Al Lenguaje Para La Programación Concurrente",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que reci\\xE9n haya comenzado en el campo de la codificaci\\xF3n o simplemente est\\xE9 buscando mejorar sus habilidades, puede ser un campo desafiante y de r\\xE1pido crecimiento. Las nuevas innovaciones en tecnolog\\xEDa surgen todo el tiempo, por lo que uno debe estar al tanto de su juego para mantenerse al d\\xEDa. Dicho esto, hay muchas maneras diferentes de mejorar tus habilidades de codificaci\\xF3n.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una habilidad cada vez m\\xE1s importante en todas las industrias. Desde desarrolladores e ingenieros de software hasta dise\\xF1adores de sitios web y programadores de videojuegos, cada vez m\\xE1s funciones requieren conocimientos de lenguajes de programaci\\xF3n. Incluso si no planea trabajar con el c\\xF3digo directamente en el d\\xEDa a d\\xEDa, tener conocimientos de c\\xF3digo puede abrirle oportunidades en casi cualquier industria. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo puede mejorar sus habilidades de codificaci\\xF3n y llevar sus habilidades tecnol\\xF3gicas al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si est\\xE1 leyendo este art\\xEDculo, supongo que tiene algo de experiencia en programaci\\xF3n y est\\xE1 interesado en ampliar su conocimiento del lenguaje de programaci\\xF3n Go. Es posible que ya conozca otros lenguajes o tenga experiencia con la concurrencia, por lo que probablemente se est\\xE9 preguntando c\\xF3mo ayuda el lenguaje de programaci\\xF3n Go con la programaci\\xF3n concurrente.\nSi reci\\xE9n est\\xE1 comenzando con Go, puede sentirse como una curva de aprendizaje empinada si nunca antes ha usado sus funciones. Sin embargo, tan pronto como aprende sobre los canales y ve lo f\\xE1cil que es implementarlos, las cosas comienzan a tener mucho m\\xE1s sentido. La programaci\\xF3n concurrente es un tema extremadamente complejo que requiere una planificaci\\xF3n cuidadosa para evitar condiciones de carrera y puntos muertos. Afortunadamente, Go ofrece un conjunto de paquetes de biblioteca est\\xE1ndar para tareas simult\\xE1neas, de modo que los desarrolladores puedan concentrarse en escribir c\\xF3digo en lugar de reinventar la rueda cada vez que crean un nuevo proyecto. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 necesitamos programas concurrentes y qu\\xE9 tiene que ofrecer Go a este respecto.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoKAAoAAUAmJQBOgCHgk/Df/UAAAP79xz0MxN/kyDWfTMmK/xe2MEcIxy72QVC8i5icQ9Ku6JWXiy+oDf/JdaHBfD8KEVBLRw0P2RLrxBq/2b5mQVP5GqAA",
-      "createdAt": "Sun Jul 26 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-para-la-programacion-de-bases-de-datos",
+      "imageSrc": "/articles/go-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlWP4CwK/UdFfOIPhwYOf06Z/vHDxO5Lc3737v0+b/vHx058M9o4vd+z6bm716ufP33/e7fr7etOhw5/jEt4uXfZ54sTPDM6ur3/9+uPo8vrtzXl/byb/edS5oDFvzoybtYU7TcxfMNjav5SWfW5l8+L6zpw/l7z+ntF+u0s5yHVdhNeayqp3DPaOrw8f+WFu9eLMEs8/r9f8uxr25xDLn5er/77Z+fdBG0Nw2Jve/k+2dq9v7O/6fTXoz2mtv497/lx0/3Mr4+/DFoav339PnHRs+85T586defvk+MObhx49enT94p4PT/b+/f2d4e/fvwUFBcuXLV++bPn58+dPnz59/PjRhw8fvnr1AuTvv3///vjxA+5j1MD5CwDNFOlGovF05wAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Feb 12 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-lenguaje-para-desarrollo-web",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para La Programación De Bases De Datos",
+      "title": "Ir Lenguaje Para Desarrollo Web",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje de programaci\\xF3n inmensamente poderoso que ofrece una variedad de usos. Se puede usar para casi cualquier tarea, desde peque\\xF1os proyectos \\xFAnicos hasta grandes marcos para el desarrollo del lado del servidor, aplicaciones web e incluso aplicaciones m\\xF3viles. Un \\xE1rea en la que sobresale Python es la programaci\\xF3n de bases de datos. En este art\\xEDculo, explicamos por qu\\xE9 ese es el caso y exploramos las diferentes formas en que puede usar Python para la programaci\\xF3n de bases de datos.\nEsta publicaci\\xF3n de blog es parte de nuestra serie en curso \"Codificaci\\xF3n en CV\". Estos art\\xEDculos m\\xE1s cortos cubren las habilidades t\\xE9cnicas individuales que quiz\\xE1s desee incluir en su curr\\xEDculum vitae como programador o desarrollador de software, \\xA1o incluso como cualquier cosa que tenga una computadora! Analizamos todo, desde Java hasta la criptograf\\xEDa y m\\xE1s all\\xE1.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-get-started-with-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
-      "createdAt": "Thu Jun 03 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-comenzar-con-la-codificacion",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Cómo Comenzar Con La Codificación",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es una habilidad esencial que se puede aplicar a una variedad de roles, industrias y tama\\xF1os de empresas. Lo que comenz\\xF3 como una habilidad de nicho utilizada por los desarrolladores de software ahora es una habilidad comercializable y relevante para casi todas las industrias. Se ha vuelto tan omnipresente que incluso el Departamento de Trabajo ha destacado la codificaci\\xF3n como una de las habilidades de m\\xE1s r\\xE1pido crecimiento en demanda.\nLa codificaci\\xF3n se considera m\\xE1s com\\xFAnmente como la capacidad de crear sitios web, aplicaciones y software. Sin embargo, en realidad hay muchos tipos diferentes de codificaci\\xF3n. La programaci\\xF3n (o codificaci\\xF3n) de computadoras implica escribir instrucciones para que las computadoras realicen ciertas acciones o funciones. El tipo de codificaci\\xF3n que elija aprender puede tener diferentes aplicaciones seg\\xFAn sus intereses, trayectoria profesional y fortalezas personales. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los distintos tipos de codificaci\\xF3n, as\\xED como`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go es un lenguaje de programaci\\xF3n de c\\xF3digo abierto que permite crear software simple y confiable m\\xE1s r\\xE1pido. Se ha convertido en una de las alternativas m\\xE1s exitosas a los lenguajes heredados como C, C++ y Java en los \\xFAltimos a\\xF1os. Las principales empresas como Google, Dropbox, Netflix, Uber y muchas otras est\\xE1n adoptando Go para sus servicios de back-end, y no solo por su inusual car\\xE1cter de mascota.\nLa simplicidad de Go facilita la lectura y comprensi\\xF3n del c\\xF3digo. Sus bibliotecas est\\xE1ndar significan que los programadores no necesitan crear funciones comunes desde cero cada vez que escriben un programa. Su concurrencia incorporada permite un rendimiento r\\xE1pido para programas que realizan m\\xFAltiples solicitudes simult\\xE1neas. Y su soporte para interfaces significa que puede crear software flexible sin preocuparse por el tipo de datos que espera su c\\xF3digo.\nNo se puede negar que hay muchos beneficios al usar Go para desarrollar aplicaciones web. Aqu\\xED discutiremos por qu\\xE9 deber\\xEDa considerar usar este popular lenguaje de programaci\\xF3n para sus proyectos de desarrollo web.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

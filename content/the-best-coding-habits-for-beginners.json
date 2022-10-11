@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANeti/yZBPqcA/yXA/uWAvuWAvuTAvyJA+lnAbVUFQDqpmn5wXn3um31v3j3yZD3yI31yZb206/0xp3honcA6dS77tW999vC8tm/c1hGnol1gmhVxqyVqo56+tq+AOLLteTKs/jcxPvkyaGJdJiAa7agiqmRfrKYg/zgxQDfx7Lp0rqvl4bRuaSokH2+qJSGa1uXfm2zmIbGrJcA1L6q6NC7rJOCrpaDjXVkuaCNq5B+xKyXtZ2Kq5B+AN7QuerZxN7GrqSLeOTPueHLtdXAqZN3aJV6ar6mkwB1xbPGqpTZwqp7YlF7YFKgh3eZf22CZ1ekiXeli3gAoo9z89rA++nP+ufO/OrQ++jR9+LJ79fC9NzE79jAAOmUKOiOJOWDE+WAEOR7DeR4Cep+A+1/Aut9A+1/AorMwinrFK20AAAAAElFTkSuQmCC",
   "createdAt": "2020-11-21T14:29:04.637Z",
-  "updatedAt": "2022-10-02T10:47:54.912Z",
+  "updatedAt": "2022-10-11T17:15:13.190Z",
   "categoryLocal": "coding",
   "slug": "the-best-coding-habits-for-beginners",
   "locale": "en",
@@ -20,10 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKGgo52dn6qqrKmoq6ysrra2tNzc2tra2NXV09DRzgCop6qlpaetrbC6vL2pqanMzMrl5uPi4uDd3tvZ2dcAqairr66xzMvOqampwL215NzRsrSzlpiX3t/ccXFxAKinqr+/wb27u7uvo7qmlKOHb4uLiW1tbampqSwuLwC+vcC3trmfnZuNd2WAZlF+ZlGwln+mnZIVGRzIycYAr66xmpqaWFpcOzMsf2RQim1XXEc6gXNlk5OR29vZAJSUlKytqmFjZS4wMlxWUVFBN3huZqakoODg3uLi4gCioqDj4+NucHIdISXT09HCwL5DRUdJS03l5eXi4uIA2dnZ5+fn0tLSxcXD6+vr6enpo6OjnJya4eHh4ODgAOHh4eXl5enp6evr6+vr6+vr6+jo6OPj4+Hh4d3d3XsIxzBOAzUdAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-ides-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIlfHo5lHpNrIpdtIphuI5dsJJJqIY5lHoVeG3lTFwAiGQk7QTRidWOUlW6mnm6oll2iiEaifSyddSWRax8AnnsumnoxoYA1nH44kX5AkINRioZcc3ZVlYFEpn8qAKjSzaPIw6jMxKbHwbDJurXMvqG7tK/OxL7f1JOqnAC55eGRsbCs0c6TsbCVramsyMWAl5a6396lx8eSsK0AbHx3cIJ5i6GYl62jgIt+i5yUkKGbiJiTkamhj6WbABMNBhMNBh4WCyUcDycbDRgQBxkRCRsUCR0WCBsUCQBwVyJwViRzWSZtVCZvVSVjTCBeSR5aRh1YQxpUQBcAon41poI6q4c9rYo/sIxBros+rIg+qoY6pIA2nnowAJd1Lpt5M6J9N6SAOKWBOaWBOaN/N6B8NJt3LpNyKTDnhY3c51ivAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Sep 08 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA4UlEQVQYlXWPQWvCQBCF96cWevEvlP6FKi2lPXnyIorkEPBgQoVEUYkiIZ2GbCEE2mxQLDFB1jXJrEgtaBT6LsPjDfPmI7IkzDZlK6UkfyNJEt9qeoOnT/M5DMNz/J13o9wQQiw8PYbGCjqcc2F1eLdafDlk4D4ozs0693+XA/t4asleK+/VWz5pkSBTotwwTVPX9WG/p2laX2078ynG7NwNAPCmUkoBwP2wqKeinOGekjgtjDmOh2y3FaePhFCms7ptv5DeKL1/dO9qThCViVKUAeIPyQr02Z6troAvuf/TAfxXDO916foHAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "rich-internet-applications-with-java",
+      "locale": "en",
+      "title": "Rich Internet Applications with Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Rich Internet applications, or RIAs, are web-based applications that feature greater interactivity than standard websites. Rather than simply enabling users to access information from a website, RIA applications typically provide users with the ability to take action on that content. For example, rather than simply providing users with information about a product and its price, an RIA application might enable users to add the product to a shopping cart and complete the purchase process.\nThis article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you\\u2019re planning on creating one.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA9UlEQVQYlWP4hwo+ff4OZ//9+5cBWe7nz99+mWvjyras23n958/f//79Q5HeevBWRNVW9+RFmi4zbYLmnTj3ACz9+92f7/t+feq7fTX+yhmXw/v9dFxnyRp3Hz/zkOHvn68vbhic3qe1YIZKR6Pi3CnKS+dohibXGDj2/vn9h+Hfvz9XT+hXFkjtWKd9+qDB9dOmWzf6RMQll9Svg9r94pbL1F6j8hIHe/dYGf16Ca16cdXS3QevQqUvXbq0fuNmJe1EEYUcYflsIcU8ed3C799+orj8zZs306YtNLNOEJYOS0ifBBFE8RjY6z8PHDhw7fptiDQAnQjY8PUKYr0AAAAASUVORK5CYII=",
+      "createdAt": "Thu Jun 25 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-system-administration",
+      "locale": "en",
+      "title": "Go Language for System Administration",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-concurrent-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlU3MvWqDUBwFcJ9KMvoAkgfIZvYMTq7i5CikBO4gOJdmTLljh6qLIH41XK2EDFZrG2gq1OvH/1Jus/Rwtt/hCADAGGsu7wAwz8P8c4F/EQAgO2Xbh7uDd2he7unpkbfc03I/1D5nAHiOvOg16r/fho94/Eym7jx9lVN35swYAwCM8fF4vK0ppQghy7IExtg4jgghURQJITc2DGO32/m+L0iShDFWFGW1Wl2vV03T0jSVZdk0TVVV+fk8zYvFYrlcFkVBKQUAXddt247jmHNd1+v1erPZBEFwO+/73rIswzA4U0qzLKuqKs/zoijSNE2SJAiCrus4t23rOA4hxHXdp794nheGYdM0v2j+8F5aEBuFAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-concurrent-programming",
+      "locale": "en",
+      "title": "Go Language for Concurrent Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
       "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOTf4/z7/PTx8trT1dDGy9XIz9jHz+3X4OnQ2+PK1QCOiI++trt/dX1aUFg4LjQoICUyKy9NRUppXWF/cHgAX01aMyctf0dB2m9cKSIkQTU5b1tmYU1YT0BKIR8fAEg6PzgqLaKIjIxtcSQfIVFASHJcaGhUX2tXYhEREQCjj5iSgYn78vLY09UpIiRaSVFwWmZmUl5lU14ICAgAk36OgG1/nIiR08bDU0VHMSosLyUpKCAlLCUoCQkJAHJfb11OWj0yPbKaormhpZiGindnakw7Q0ImKTEoKQBMPkxWR1M4LjZWR1HVu8D94+X94+X63uPky8/LtLcATkBOJiEnHhkbRTw9wquu+t7g/ePl/ODj993h8trgAGdcXaqXm+PQ1Prn7P7r7f3o6/3j5/vf5PXb3/DY3pIumAg4Ox+kAAAAAElFTkSuQmCC",
       "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "go-language-for-video-processing",
       "locale": "en",
@@ -35,100 +110,25 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-software-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADH0lMIAD970/UC/et1mciudnrQgkGB+dd2iPVamMHDUh7mdaC8G8P5X82xrJmLpm/aCpaKe2EDKZE8yPrpaHX/7eV4hc1UftQyoEVUfxZ7/8c2/8EGB1eOYrta97gAA==",
-      "createdAt": "Mon Jan 17 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAlUlEQVQYlYXPQQqEIBiG4Q7YmTpDF2jTYjYOKLgYMOgXxooQQZAfCUS0XYcQhpYDUd/22XxvVW5XPXDTNHVdD8NwzTHGr3qN8L5mYyjiJ6XUdd00TfM8932PiN77kyklAGCt3fedMaaUcs4hYs75ZM5527bbtpVSQggA4L0XQhhjEPHv+XEcy7IQQqSUWut1XZ/C7vkHNEENNAsfTlAAAAAASUVORK5CYII=",
+      "createdAt": "Tue Jul 27 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-software-development",
+      "slug": "python-the-language-for-mobile-development",
       "locale": "en",
-      "title": "Python - The Language for Software Development",
+      "title": "Python - The Language for Mobile Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRooAAABXRUJQVlA4IH4AAADQAQCdASoKAAoAAUAmJbACdAELP5MhAAD+/OW1lxk3ec+r9lGEG3NCenjjTli4IZ+aNRJ23tUCSs+eIvQ9xwbq4qH9/lA34FO2FOcIhKsofwqWnPvGDn/8nJlf0f5t/k5JP/9oGQ7m8a+8mX/J1U2v9jn/4l8DXM/vsS2AAAA=",
-      "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
-      "locale": "en",
-      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
-      "createdAt": "Sun Feb 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-improve-your-coding-skills",
-      "locale": "en",
-      "title": "How to Improve Your Coding Skills",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
-      "createdAt": "Wed Sep 29 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-for-artificial-intelligence",
-      "locale": "en",
-      "title": "Python - The Language for Artificial Intelligence",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-cloud-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
-      "createdAt": "Tue Mar 10 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-cloud-computing",
-      "locale": "en",
-      "title": "Go Language for Cloud Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-trends.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAAUAmJZwAAujGahftKAAA/v2Wdf7VNKJJn41a9hQPuYobAfc56ghj6CtMdh+KXM0xvLXzyM5B9j613PnroLZkf1YygAA=",
-      "createdAt": "Tue May 24 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-trends",
-      "locale": "en",
-      "title": "The Top Software Engineering Trends",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/setting-up-your-java-development-environment.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADYzK0E8MFBKNz88MUVAND06Mk1GO9iYUPqyZN+wcABgW01QTD45NS1PPzBlRyuEVyuYYSvonUnQjkk8LiMAml8lv3Yt5JE5+KRD/K1K/LBU/blj/L5q05NONCEXAKBpMc2PSb+KSt2gVaR1PLuISqyATbSIU6NyQTUgFQCebTuVaj6Xb0HMl1d9WjahdkmlflKed09hQSWtaSUA+rdq/b508LdzwJJdxpZgvJFi0qZ157V//LJZ/apLAPq4b/u+eNWja4lnRZt2To1sTHpcQqiDXf25bvu0YQD7v3/8wH79w4L8xYX8xon9yY3quob1xY79x478xIoA9/X0+d/I/MCA/MGD/MSH/MaL/MeO/ciR/ciR/ciTAPXv6Pu+g/y7ev28fv6/gv3Ahf3CiP3BivvCivzDjr/zqhQXGOjFAAAAAElFTkSuQmCC",
       "createdAt": "Sun Feb 28 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "setting-up-your-java-development-environment",
       "locale": "en",
@@ -140,31 +140,31 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-scientific-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
-      "createdAt": "Fri Jul 22 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-scientific-computing",
+      "slug": "object-oriented-programming-in-java",
       "locale": "en",
-      "title": "Go Language for Scientific Computing",
+      "title": "Object-Oriented Programming in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-code-faster.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoKAAoAAUAmJZwC7AYtzvqcJXDRKAAA9rE99t3y5fQ4tyDGJ/t2Em0AXWsfUvrbHyUKuT23e+sa0E0foXveTrfAzn5D3ABFWMOXLHmioAVYCEhXvcvwD/c+LuT+AAAA",
-      "createdAt": "Sun Mar 01 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlSWOTUsCQQBA54/WpUMFUWEUBN0iqluH6NDSQQwPEQXaJ4mgeKiwTFIUP2eX/ZrZndn52JlZPIX5zu/BAwSFLMKMEp5QyZNUMCV5KhhPKIswYDRJuVBSGqWN0pk2RmnxTyoYSLnQqTJKz0w203Np5ai8dlJq96CSEsw75pnwA/0WDLzJtJGMN1H7rGMt1baA+35eLe6+5nfKV9uqd5El0ChdndTyzetKtwKs4+VHa715v1e63ID1wxQ+LNbkYg03Dp6t1UZx8/su1305nbTeeEIFISzCke+D6VPu63a/VSkMOq2ExIIQHscUo8j3fccGn/Uqcr04DAgKKUYUozgMsOcFELqDIXCGY3cMg6njOzZy3NC2Awi90Qj2+qP2zx/fxv3tnTkr/gAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-code-faster",
+      "slug": "go-language-for-system-programming",
       "locale": "en",
-      "title": "How to Code Faster",
+      "title": "Go Language for System Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

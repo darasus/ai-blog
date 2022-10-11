@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/introduction-to-java.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJaAC7AYtBzobhHUYXVjAAP7+mC6P4T+fYqTzewRcuXQzscq+OOz1C3jG3zVnXcbM8Kq7okMaqEwyWS7xv1h80d9YhMRenNv3jfXEgZPuCauxWLJ8/E9irMoj6EefC3P54AAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXOv0sCYRzH8fsPoiEEB22QRMof5RAhReEaQhBCVNTWP1BCQzQ0RiAObdFUQ1omJZ0YcQThJnQELeqVynVe4nmnz/N8n+8tcfbhs72Xl9D6/lLbTbXdbCm1V+k5ldrf2d4MBnw+r6twfS4YlmmapmEYuq5VKm/haHB6xp9IxFcWQqGpSWFIYXRKCNE0LbYU83jdrvExj3vidC8pEI5D4BSQ24iI6UwmEo2Eg4HFWf/u8pyTaw2lrjREUSyXy9nb3KNYKt3f1dPHl/F5AdDOFx5ucllJkmRZrlarmt61igWWv1IvzpxMAYcUKKUAwEezfnvK4UFPehIAOSAnjP/rgDJkwDs/7xvr+a2kIwfk3EbOOSGEDAasb7FOh0kvxbVVJ/+zuY2UUtPom3rXbKnWx6d8cvQHJSjfEBSgh8cAAAAASUVORK5CYII=",
   "createdAt": "2020-04-24T10:14:41.322Z",
-  "updatedAt": "2022-10-02T10:57:57.953Z",
+  "updatedAt": "2022-10-11T17:15:36.038Z",
   "categoryLocal": "coding",
   "slug": "introduction-to-java",
   "locale": "en",
@@ -20,70 +20,55 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJbACdLoAAxn+soAwAAD+1RTPD2VcHj8QMx7pwbEw8fxfpmvK4/VuP0zmZAfmU8pCDs4/gR97kh7+dYaR/8lSizhEUgkn2W8Z//o66tLSR0jvfFExUf/Mr/d2AAAA",
-      "createdAt": "Wed Mar 09 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-system-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlSWOTUsCQQBA54/WpUMFUWEUBN0iqluH6NDSQQwPEQXaJ4mgeKiwTFIUP2eX/ZrZndn52JlZPIX5zu/BAwSFLMKMEp5QyZNUMCV5KhhPKIswYDRJuVBSGqWN0pk2RmnxTyoYSLnQqTJKz0w203Np5ai8dlJq96CSEsw75pnwA/0WDLzJtJGMN1H7rGMt1baA+35eLe6+5nfKV9uqd5El0ChdndTyzetKtwKs4+VHa715v1e63ID1wxQ+LNbkYg03Dp6t1UZx8/su1305nbTeeEIFISzCke+D6VPu63a/VSkMOq2ExIIQHscUo8j3fccGn/Uqcr04DAgKKUYUozgMsOcFELqDIXCGY3cMg6njOzZy3NC2Awi90Qj2+qP2zx/fxv3tnTkr/gAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Feb 06 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-debug-your-code-like-a-pro",
+      "slug": "go-language-for-system-programming",
       "locale": "en",
-      "title": "How to Debug Your Code like a Pro",
+      "title": "Go Language for System Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoKAAoAAUAmJbACdGuAdJWRCxkDzT4q0c0cAAD+4madkyp7pyM9l31Ofmg50sQtMge5xRbdaVu392/iTeAqTZGb0jn8iPq2caz+zy/EY/89ZTQ2i8zbpDy7YK+E7H77T3dafWFHqki20IIBa6ctPS/M+4DM97I6oqord/Ia9D47/3+mTIhDH/+Yxdrmfh/b0+vxVkMAAAA=",
-      "createdAt": "Sat Oct 02 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-an-introduction.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWNwdXW1srLi5OQUERFhBwMpKamUlBRfX18JCQmGgoKC+Pj4tra2np6elStXtre3GxoalpSUrF69urKykoGfn19ERERHS83NVsfNVk9YWJgTDKSkpERFRRmYwYCHmyU3RWdBd7ioiICspAg3JztEHCqtLCfSXet9cFfJ9A7rZVOsequNc8KVuTjYQNJ8vOzVBW5djdbnD0fu2eJ+6rBLZ61hVoxZRowmSJqXj3XRFPfZEyIObWuc3ps+c1L6hI6ICc023q7iUMMjQ6TPHPU4esBtQb/xjjUO508YzJisKSLCDpJWU1Pj5OQUFOLX1uJISjCzsxEQFWPj5OSUk5MDSfv4+BQXF6ekpPj7+7u6uubm5ubk5GRkZERHRwMA6GxRej9PKQcAAAAASUVORK5CYII=",
+      "createdAt": "Thu Jul 09 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tutorials-for-beginners",
+      "slug": "python-an-introduction",
       "locale": "en",
-      "title": "The Best Coding Tutorials for Beginners",
+      "title": "Python - An Introduction",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
-      "createdAt": "Wed Sep 15 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-scientific-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA2ElEQVQYlWM4d3L/riVNWNGZo3sYNs3J/XuH+e8d5lVTWG/sZTmzkeXKThD37x3m9VOTEdI9VawtJazJ4ew1OWzfr4NENkxPgUofXQtC368zb57DcnYzqu4jq1kaC0Do8CrmN2eZOytASk+uY4FK71nC3JDPWpfLsmsR05uzzA35zE1FzJ0VrAjD63JZ6nJZ/t4B6e4oAxlzdC3M7l83mfctYzm6lvnPLZYvVxB2Q6Tzb+xiXT2JZe1U9nXTOHYuZF07lX1RD+fNPWC7r148s2P1NKzo4rkTAJqHoIPiPP0XAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Jul 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "typescript-a-beginners-guide-to-code-type-safety",
+      "slug": "go-language-for-scientific-computing",
       "locale": "en",
-      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
+      "title": "Go Language for Scientific Computing",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/packages-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoKAAoAAUAmJbACdLoAAsk/hKFyFAAA9438Qif7NTx4/XBGfvlPNqVZ278xZVveVdYm28CSe79qqrt6COwDPzbZqn42+4pPcjM1VxGEtpNgmo7e/9MwWmBePk/c23ff6zKbDrlj7KPV/xyO4cv/0YDVmJY2DhsPCaf2hlJDM7wBPGjAAAA=",
-      "createdAt": "Tue Mar 09 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "packages-in-java",
-      "locale": "en",
-      "title": "Packages in Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this digital world, everything is going digital. Even the field of programming is shifting towards more digitized platforms and solutions. In such a scenario, the need for compact programs that can be easily installed and used on any device arises. That\\u2019s where Java packages come into play.\nA package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they\\u2019re easier to find later on. Let\\u2019s take a look at some common Java packages:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/working-with-files-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoKAAoAAUAmJaQAAvafXJS+yQAA/vmpval+G4xOnHb0vF+v8ZDbpRv+LNS798hYqT2X5rtwd12h1J+qQY8EkXOfQlhkn2t9Gch+xbShS6PfFM6xF1sAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlU3NPUvDQADG8ft+fgAXNzdBUYPFglUEFREddGuIipuoiIsmpZRQNWrFBNrrccklJJfWKIRgTWJeLnWQtosP/+03PIBSCmG7XFqYmZ5anp/d26rcXJ5jBIvxwMH+ztHhbhAEPeq6jh2GoSw3BL4aRdGIN9dLcRwzxoiOiY4/Pe+j//748KRpWp4X4O215XleUfyaBonjJM2LSaIofg8ioLVGzNgQIaSqqmEYP2meZKxWq/t+ADCC3Q5Mk9z3gyRj44ZJxiRJGnyFQH15JrqR5sU/G7YhasoNomNwfXWBu2jyN2HLdgS+imHHtgjgOK6ytqIoCjbM5r18dnp8IvDdDnQdSm0LLC7NbW+sSne39ZqoKApC2CKm61Cv16eW+QeuNfYRsexxWwAAAABJRU5ErkJggg==",
       "createdAt": "Thu Aug 11 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "working-with-files-in-java",
       "locale": "en",
@@ -95,76 +80,91 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
-      "createdAt": "Wed Mar 24 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlT2PO0sDQRSF999Z+V/EzkYES8FHJ5hCC4miEXwRV/KwELYwELQIbkJ2Z9x53Zk7s7OPgKUsG4TTfYfDdwKZES0yIxkqbkG0QcWNZMBpAJwaySwIj6qw0MZpaUEYyYJ/VjpTe1t7W+VYOuNRoeINdlqKkx3T7+ZkbsjSMoJZCnTptAxQcR0N4GBLXe9Cd/twc+PueL93tDe4PPWoGuznn+XHsJ6NzKRPpxMWvS6mEfn+0ixtsNOyynFVuN/arwoXvz39jHrp+BGSeK1WWGi9Fu+hfuiU4YUZXjVqWmTNgOGFhSrXnCaz8DZ/PoPxTXMMOF03tPSoPCpOk/i+Y17OZUb+AMfgAewT8ENlAAAAAElFTkSuQmCC",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-resources-for-beginners",
+      "slug": "introducing-javafx",
       "locale": "en",
-      "title": "The Best Coding Resources for Beginners",
+      "title": "Introducing Javafx",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
-      "createdAt": "Thu May 20 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-most-popular-coding-languages.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVQYlU3GvU7CUBiA4bN7A16Bm5t34QU46m5cHE2MYXHxJ0ZXJZGfMClxkKgEG0EEoUBLaU9pa7DBYonCoVBp6el3YowOvnmGFx3Z5qbZhn8xxn4noD6aE/NLSlmfDELqAvOAeQy+ABwAR8ECWu6I87i81cgF/jsA6VkagDMadQEc3BbRQvJgJ7bCF1O+awKQWPw0njhLJKMATluT0Li/St4iE0vtWRIhpiiUBp+minlCupreQuvn24cXqelHd+bZxyd7Kuazd1fpy2Qhf6sbMlqMRO10djYZNuoFRa7k7q85LpN/uOG4TPGJQ+W1Xa8qUH+saXVFrhiGKDQesVKVpJKMawhv7Pt2L/BdRodh+IPRP7ZtIOq5YTAN6LRvdV5fsK61VCxITV4UnltS7Ruz6/njc4XzZgAAAABJRU5ErkJggg==",
+      "createdAt": "Fri Dec 11 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-artificial-intelligence",
+      "slug": "the-most-popular-coding-languages",
       "locale": "en",
-      "title": "Go Language for Artificial Intelligence",
+      "title": "The Most Popular Coding Languages",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-secrets-of-great-coders.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZwC7AEfbqgBQ0AAAP7yY+dL04jnfTSegnasUKoLrObWXDZIRv6AMs33PZw9UXQ35n5A9cyzosks39f6sp//1AoxbDgcagYti2uf7XTtXXd7wIqI8O/9lIJsCepRYAAAAA==",
-      "createdAt": "Wed Aug 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlX2QsUrDQByHT3yGPod0EpvFwa2rj+BzZMiQKUQR4+igcRWSQEIq3BB0Mbi0YGINCOGuiSG1/1yb5qJcEUPnfvy2b/jghwQZ7hj6jO9ESza/pWiJYO4PC9p1ytezdhVPXs5RGIZ5nm86CCF1XXPOAYBz7vv+v7YsyzAMRVFUVdV1XdM0WZZN09zqoigYYwAghGiapixLbfF1xubD9zEKgsDzvKcOSil0HNDp6eq7D7NtO0kSSqkQoqoqAOjT+GRZSpAjx3EwxrZtY4yzLIuiyHXd3sfr3oLuz1M0uh3Eo6P0WXrzB/cXxw/G4fRRupxcGdGNOr5Gu2/5A9Yl5ZK0D9YWAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-secrets-of-great-coders",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
       "locale": "en",
-      "title": "The Secrets of Great Coders",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-javaserver-faces-application.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoKAAoAAUAmJYgCdH8D2MyIVL/CJ7OTAAD+/U5PTWAMzrOn7xlCHsD+G458B5ubplQ43zTuv/0Fz3bPaPx/orrcO5I7ssHIj1e5F2AV/zPk0htICvJ7271NQuDn/SD073xkNLSJWZlshT00AAA=",
-      "createdAt": "Sun Feb 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOjy/OXx++Dp9M3X4dvn8NDe59Li7czc6c7j777T4ADW5Ovf6/XR2+O/ydHN1+GyvsbQ3ufL2+bH2eW/1N8A5O740fL36PD7s7rDwsrSvsjQusbQuMfSqLe/oLC6AOnx+q+5w6yxu7i+xbS8wr7Gz73H0au1v6q2v5elrgC8xM0hICNRTFDr8vvr8vvm7/rc5vDd6fXZ6fbN3+0A0trjhGRhpouL3efx4uz25PD62OHs2+n14PD83O78AH675o2Oo7CptHWBj5KeqomXooKPlqCvt9fr+9nt/QBgmNNXjcbNxcrRxcnIyNQeJioLMjMxR0vR2uXS4OsAYbLtSY7SVnWjmoeLnIKHbGRsNTc7aGVoybi8ybq9AF6Kz0aJyWOb5ZicsZCVrrKTkK6gosezscy6ucy5uxVD2oFbGCUWAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Apr 22 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "building-a-javaserver-faces-application",
+      "slug": "the-benefits-of-learning-to-code",
       "locale": "en",
-      "title": "Building a Javaserver Faces Application",
+      "title": "The Benefits of Learning to Code",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/basic-java-syntax.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoKAAoAAUAmJYgCdAEOO/OdAAD+/KQNkbv+XBr5lUSnWZef9yuaQ//PyA2NH6STUfxG8mLPO3LPOyHEGiQ5/6+8ud4yt3ttDZ7Bp+MoTmXSeX1XRLiNfuEy8E6y9uGAAAA=",
-      "createdAt": "Fri Oct 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-network-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWP4BwZ/ft3+/W3V7++n//379/Xb30s3fr18/evfv38M//79+/Vh/Zvzoqf3uJ3ZbXHx2jOb0I+u4SeNvF5t2fUCJP3pQuCxdSE/P1z5/vrY1IUfdR0vvnv3Lrf2XUDcWZD0u/3eF9YnXtlZ+GY1b1HtSS2bM1+/fs2pfO0Vth8k/ercrAczRN/sSnk6g3P33lO69meCEq8qGR+bvWAfSPrP7z/XT207sanvxK6F79+/v3X3uYHDnsCotX///gVJI4Ov33+qmy6W1JxRUbcK5PLzWxseXNt3//KuF/fPXjm67PWTa+cPLrtx8eDFY5svntzKsGVm3trJWVvnVaydXnx406w104rmNoVMa4hbN695SmMcw6uXTx89vPv8yb33b998fP/u3ZtXd29e2bN52Yq5fffvXAMANpbdiE0UJHQAAAAASUVORK5CYII=",
+      "createdAt": "Wed Nov 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "basic-java-syntax",
+      "slug": "go-language-for-network-administration",
       "locale": "en",
-      "title": "Basic Java Syntax",
+      "title": "Go Language for Network Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re learning to code, you need to learn the basics before you can move on to more complex topics. The most fundamental programming language is Java. It\\u2019s one of the most important and widely used languages in the world of computer science. Many other programming languages are built on top of it, making it even more essential for coders.\nIf you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren\\u2019t necessarily common words in English. However, once you get past the unusual appearance of these words, you\\u2019ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APuxIPy2Jfy6L/29Mf28KvvDNP3ISPzQX/3KQv7GMQD7sSL8tiXCrXvv6t7l493R1NPj5eS2trb413n8xzEA+K0g/LYlwKBb6enpnZ+go6OjlpaWkpKS++CX/MczAPGlHfqxJMacROnn5srMzs/Pz7u7u8zMzPzqsPzHMwDjmBbvph/Jkyrj4tzKzM6ytLO9vb2jo6Pi1Ln8yDoA1ooQ3ZEVz40d0c7Itbe5r7Kxzs7O0dTT4trW+cU8ANSFDs+CDceKQbGnne3e2M66vNZITbt5e93d3fzHPADThA3IgiHPmXmnhGvz5N7S0NDosbPw3d/o6uz7zVIAyHkHvX024cCg7cur7d7Y8N/M8Naz8NKf7M6N+8lMAL5wBLFoFMqphvnfv+iSFO6YGPamHfy5J/zALvzBMWOdy9TPxek7AAAAAElFTkSuQmCC",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-read-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Read Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

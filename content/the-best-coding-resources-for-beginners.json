@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoKAAoAAUAmJbACdAEQFIy4FNgAAP7iZjQcKUPjrOtyfcLcGdnwfIaQ/a6eLFbwOjjKpLhmIs6JgTUkHeAKET5frPvHCwQv/1TP+H/v/j/j/8f6bEEQP6Ke+5pkP/+Obf2U8ha728Sh/yvG/YkyAAAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMUlEQVQYlT3K30rCUACA8bMzJXVZTxB6FXTdU3Tdi/QA3XTTTYjUEpQ1pfQiIou0GSmGjDJR0Da3c85sf22bNaJMeoAQKvjufh+Qr6l+hVJqlCLQikAPhGVJoNQb2KkkWP4IdMpwf5smTag2gFKPqY4oE27YWiNNKJQ3Qf0Esjv0SIS4RanSFgosFFj4TUdaGolJUM3Tx+mQ8UiR9goOyFWrli3xbdLH7zYJnsFplr7goNmFxOJGHy89Q66Kt9kSn8qx96gHiodhLhWypaTxaepTb2Aj/qzIFnJ3Tw+yq4HMXiR/EHXVqDNM6OOMOZsYX77sj7q6pE89wO5GGueMhxY9HPNwxELrhn9pf7+aswkxC2AsM64an/PfMZ+0DSsQTWkVOMrSP/s4/hthXLTgovAPtJC++oQFdqMAAAAASUVORK5CYII=",
   "createdAt": "2021-03-24T11:18:29.060Z",
-  "updatedAt": "2022-10-02T10:44:29.077Z",
+  "updatedAt": "2022-10-11T17:15:03.770Z",
   "categoryLocal": "coding",
   "slug": "the-best-coding-resources-for-beginners",
   "locale": "en",
@@ -20,10 +20,40 @@
   "relatedArticles": [
     {
       "category": "coding",
+      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAk0lEQVQYlWO4e/fuehhYu3YtMvv169cM06ZNY8YBjh49yjB16lRkIWFhBPvIkSMo0nx8rM6uTOjS3t7eISEhwsLCLm7M/oHuQYFBysrKWlpaUMMDAgI8PDzMzMy8/ZhCQkLCwsISExNTU1NBuqdNm8YOBgL8LNKyzBwcHJqamqKiolDDSXM5uvTDhw934ADv3r0DAGLKXQ51IibaAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Dec 25 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-difference-between-javascript-and-typescript",
+      "locale": "en",
+      "title": "The Difference between JavaScript and TypeScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA4UlEQVQYlXWPQWvCQBCF96cWevEvlP6FKi2lPXnyIorkEPBgQoVEUYkiIZ2GbCEE2mxQLDFB1jXJrEgtaBT6LsPjDfPmI7IkzDZlK6UkfyNJEt9qeoOnT/M5DMNz/J13o9wQQiw8PYbGCjqcc2F1eLdafDlk4D4ozs0693+XA/t4asleK+/VWz5pkSBTotwwTVPX9WG/p2laX2078ynG7NwNAPCmUkoBwP2wqKeinOGekjgtjDmOh2y3FaePhFCms7ptv5DeKL1/dO9qThCViVKUAeIPyQr02Z6troAvuf/TAfxXDO916foHAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "rich-internet-applications-with-java",
+      "locale": "en",
+      "title": "Rich Internet Applications with Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Rich Internet applications, or RIAs, are web-based applications that feature greater interactivity than standard websites. Rather than simply enabling users to access information from a website, RIA applications typically provide users with the ability to take action on that content. For example, rather than simply providing users with information about a product and its price, an RIA application might enable users to add the product to a shopping cart and complete the purchase process.\nThis article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you\\u2019re planning on creating one.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
       "imageSrc": "/articles/python-the-language-for-natural-language-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAEQ/avie6OAAP79mU0XsHYRPzk8bqqaThMykky0X7vJ2XOFATJEm4WXjgSKdWRilt4FeTeLST25n/jacmFOmCf/Ioh9zOGRK5zghlcXyLFXaRqcw/n6AAAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlV3Pz0oCQQDH8YHoBYJOXkLqUE/QM9Q96B69QJdeoHPXiAoKgjqIQS3mbCJp+ydoXdp1dtUV1111ddfGmSkXRHcgJILod/1cfl/AOU9mCR3opF+hocYGGo1q/HeAcz7qSCSfwnCNwlSUXyXCYjJL/nD3eVDeqYv7bmHXhnteZuk/t+D2ML/SK24FQpoKC8ksadZQHMdz/hzWo1yaweUPcQM/rQfi5nQ61R7PvxgBjBGGe009w2gUj3G/Y/jo3iwdW/JZ2BDBZDIhOAw85JiFdyVrKA9t9GJXig1THmMPhEhw4JEjX1XvDl3poqVcOqXTVvkEZQ+8txsw8rUx9kjX9CzJfb0OGlLY1n3tNrRg38rNr3HOKaUIIVVVDcOwbZsx9hP2DZVa9gFcAjF7AAAAAElFTkSuQmCC",
       "createdAt": "Tue Jan 18 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "python-the-language-for-natural-language-processing",
       "locale": "en",
@@ -35,136 +65,106 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-get-started-with-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
-      "createdAt": "Thu Jun 03 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVQYlWP4vjETD2L4eHbN943ZOKX//fv34f4ZnNLdzdUFKRHzCp2XlrlVRph1p9jOzHPsTLJqirXI9zdk2DGvdUml/9x852nZjk2xFnPznQ92BXcl2zTFWhQFGzG83tePy+QvG/MZvm/M3NrkPyPH6WW1193l7a8Pzzm5quf1jtYHhzce2rcTJL2swiPDW+/z+sw3p1a8ODjr+anVb/ZPvpHse2XXQpA0Gvq6POVlk9/X9ekgl2NKv6j0+rYqDeIxAGAQvR8GNpC0AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-get-started-with-coding",
+      "slug": "python-the-language-for-artificial-intelligence",
       "locale": "en",
-      "title": "How to Get Started with Coding",
+      "title": "Python - The Language for Artificial Intelligence",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQAgCdASoKAAoAAUAmJbACdAEfhzEuWsgAAP78iej+mZU65vIG0J/8ef4J5aTYN1qvvWnP//X6IDmh0a7zmp4pFMvWI/gdcipT45r/1D347/GGIcv/4Z2onpxNio9608Rd95/lbY+3qlns8r3cHnqibLuv/zO5/8Tb/85EeXZ7/7/uOTLN//0xkRfyYjgAAAA=",
-      "createdAt": "Sat Feb 01 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AENNUURDOtJ+JtrGqNfFqdiqdtSMPtF0ENh2DNh2DABVYGNTRTrnkDPl6OO6xsbL1NbL1NTM0c3Qv6fZs4cAW2ZphVkq6J1J9P38ydLRu8TF1+DfytPSzNLS2+LiAEZRUs+GNuuvavL7+tbi4s/b28LLysHKycXPzsPKygBoW0vzqEbwxpLZ4uK1vr/N2Nm9xsbH0M+0vbzEzc0AhXFRvmge9d2+9/7+8fz9zdjbws/SsLq5usbE0+PiAMina45AD+rk3dTh497r7uDu8NDd4NTf4OPu79n7+wDaq2SGRyby9/ja6u3X5urb7PLi8vbk8fTg7vDTxsEA7qpfk3Bl8Pv85vX76fn96/r86Pj54O/z8fz9t5GMAO2oVXtWSd2/l9rPwOTt7uf4++n5/en5/fH8/ZdbVutG3IoQh8PtAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tricks-for-beginners",
+      "slug": "how-to-code-like-a-pro",
       "locale": "en",
-      "title": "The Best Coding Tricks for Beginners",
+      "title": "How to Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
-      "createdAt": "Sat Jul 09 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-of-the-web.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWN49fISCL248uvXr78YgGHLxoadOyetWl549/Y6uOjnTy+h0o8e7j+8r3XTaveNaxMvXVz96P7q2zc3rl1ut2dHzfGDEQwXzi0+fbz70L6yo4dnbl6ffuFM/73bK7av17x27diN68sZzp9ZdP3KukMHJl+/snjVUvO1ywIePzq5ZpnX0UPNjx8dYLh0Yfmy+fbz5/hfuHDo3v07J04eu379+vkLZ89fOPnw4X2GqxcXXruydNeuXStXrpwzZ850MFiyZMmiRYtWrVrFcOb00muX1kPc+fXr1x9ggPDYgb01N65uxPQxVHrPzrLPX97jkgYARYPz8PONR3sAAAAASUVORK5CYII=",
+      "createdAt": "Wed Jul 27 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "introduction-to-javaserver-faces",
+      "slug": "python-the-language-of-the-web",
       "locale": "en",
-      "title": "Introduction to Javaserver Faces",
+      "title": "Python - The Language of the Web",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoKAAoAAUAmJZgCdAYq/bO+EcLgAP790C4qkgfXfW2PhNXLCyEE/j/7MvA6PMUtkdzJzcMb3ov0IfheEMx2gKsWE/+aVfEESZ73bd1ac5137KXeUKwt9UlsfkIvw8zO/8zweVKDI0IAAA==",
-      "createdAt": "Thu May 28 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-degree.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlSXJy0vCYAAA8O9v6wGdOwbRA7oYRYV0q3uQoBejguqghBXZITTFjDK3fG7TzeaX3+beD8a3KRTLXET1u/7A95+WhRDWEVZFbLC20HdN1hYgVsB/J7nCVech0c5HKxenTDbeSN/wpXO2AHzq7tPsK0Nb9qyOLdZ0vu+asmfpQ8f58AC5M0+Fpt1kjNcg4qpCpdgj87CUeXvOygwJtlaW9sMhLbrNZy6VLiM0S+jlXmZImSJ+e3lm0ilf05FwjagrCCpsTaIJlatbiBt/jcGofCbF1442F0QJD1xsi9BE3PsAB0Hg+z6gYquRuamTvd2GKLTbJJtLUbeJ12KazaV61SI4WJ89XpxgHp9Go7Fna1qnqUNaogm921J5BjQPN5RC0rAt6EiaIapc3YSM0aUdGQZB8ANlZO8DJtCGDQAAAABJRU5ErkJggg==",
+      "createdAt": "Tue May 04 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-use-online-coding-resources",
+      "slug": "the-benefits-of-a-software-engineering-degree",
       "locale": "en",
-      "title": "How to Use Online Coding Resources",
+      "title": "The Benefits of a Software Engineering Degree",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
-      "createdAt": "Fri May 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-top-software-engineering-companies.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMrCsNLDrdrJtObTvN/OuNnKts/Fu9DBr492Y2lKOQDo8fXd0sTVxLHUybrRxbnTw7TOwLLVxLHWtprHlW8AiXZq2N/j3NfP0sa6zsW4y8S5zMzMysK6wLauuJeCAKh2Wb+0se31+dze3crHv4eCep6kqbu+u7rDxMHQ1ACFbmGVcmDRxL/n8PTTyMGUa1AxLSfDyMK+y8u+y80Aj4mJr5WMxLOr6O7wxLOrjVpALiQes7anu76vxcS+AH15eottYLijlujo5I+WmJRmTWl0gpOZm93bzL+/vwB4a2edfW+uqKGPm6eDlqunrrqLpMCPqMS+xMa5ubsAUFBQa2Jga3B6Wmx/kJ+zs73Ic46slYWBgXFyo6azAKiXjWlcWXF9hpCUl39nX4lyao2bq7Waj59pVJljT6pWwNtKDSCpAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Oct 16 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "introducing-javafx",
+      "slug": "the-top-software-engineering-companies",
       "locale": "en",
-      "title": "Introducing Javafx",
+      "title": "The Top Software Engineering Companies",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-software-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoKAAoAAUAmJbACdLoB+AADH0lMIAD970/UC/et1mciudnrQgkGB+dd2iPVamMHDUh7mdaC8G8P5X82xrJmLpm/aCpaKe2EDKZE8yPrpaHX/7eV4hc1UftQyoEVUfxZ7/8c2/8EGB1eOYrta97gAA==",
-      "createdAt": "Mon Jan 17 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABBUlEQVQYlVWOzU7CQBzE9+1Ab0ZIVM7cTYwvwQN49sJiStlGbQSVnkzkYGlqaFTaWATsfpQal1oarfwTUw+Ik99hMnOYQQAQDd+mvalvjOgdDR0RmK+BSeFXCABkEDOLhY7wjZGcyNlDSPtr9UqBSeVErieI7GlahShbym2tl4gEAPSqfrKBcaGBCw2Ei3W8iXGx3j00QkfEbN4sqVqFtHbV8+opujq4bpaU1rZqHvU/6BwALvc7apmoZaLtkHx7IdNFlOYfX96X38t/2yv3mX6JAZdBnGXZXx06glmMWWx8M+Y25za/Px5wmzOLJSJBz13fa7tPZ4+u7uZceDm667XdaDj7AQmj+r1tUkNuAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jan 16 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-software-development",
+      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
       "locale": "en",
-      "title": "Python - The Language for Software Development",
+      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-use-coding.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
+      "createdAt": "Mon Mar 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-data-science",
+      "slug": "how-to-use-coding",
       "locale": "en",
-      "title": "Go Language for Data Science",
+      "title": "How to Use Coding",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-database-programming",
-      "locale": "en",
-      "title": "Go Language for Database Programming",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/java-security.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
-      "createdAt": "Fri Jul 08 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "java-security",
-      "locale": "en",
-      "title": "Java Security",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

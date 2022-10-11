@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/go-language-for-database-programming.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWM4/SEAD2KAUFPWWczfbTl3h/XCPTarTzhOXG2+7LDdquN2IOkT73yLmhRz61QK6hXjc+Tza+QzyxXqJmpPXWvG0HbRouahSfNzwwW3HSuuGlU/Nmx8rTfno/mxN94n3vkySC4QZDnGxfWSy2WFPFspB1cPl9gUDps/7Ic+eYPsjtin7nlNKfS1atdeU595Cn6HlSOOK9R804Q6rXO+8dJDtttveex75H34ud/2G5577nufeOcPlW6dbZhWohCaIF3dpxYcK1PcqlbZo9a/0hQqvfa07b4HHuvPOGy+5Lhkv2X3IsNNFxyOv/FD8TeuYAEAAPmiJ9EqlXYAAAAASUVORK5CYII=",
   "createdAt": "2021-07-17T20:18:58.212Z",
-  "updatedAt": "2022-10-02T11:05:45.046Z",
+  "updatedAt": "2022-10-11T17:15:56.471Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-database-programming",
   "locale": "en",
@@ -20,130 +20,70 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAAUAmJZQCdAEPCXfbZwAA/v6EgTCdrNRadS/rzIqaMmxmxvq+m8Y9K7Zp10aaAInmY0jQ/aAKaQMA40zGx/QAAA==",
-      "createdAt": "Mon Mar 08 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-data-mining.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA80lEQVQYlWP4dXfPvx8f/+EADH8PlP5b7fr3+krs0v/+/P774d6f5dbYpf9si/uz1uPvzlQchp9o+7s1+u+lOfdXrjzg53u2IP/mlKlHY6KPx8W/Pn6c4d/723/f3fr3/d2zvXv3urpcbms9npy828HxYFDwfm9vBrg5by+ce75n19+/fz8/fPDl0SMIYjhfWfF0186Hq1bdnDH93cVLH2/dfHX8+JdHjz49uP/27BmGfR6eN6dMvVhffzgi4oCPz/Hk5I0qKifSUg/4+R4KCGB4ffz49/dvH21Yf3/Z8hNpqe8uXro5Y/rjzZtvz5l1d8ECAKxL78mUoQ3KAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Mar 03 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-benefits-of-software-engineering",
+      "slug": "python-the-language-for-data-mining",
       "locale": "en",
-      "title": "The Benefits of Software Engineering",
+      "title": "Python - The Language for Data Mining",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software engineering is the discipline of programming and designing software, as well as documenting and testing it to ensure that it meets user needs and functions correctly. Software engineering is a broad field that includes several sub-disciplines. Each of these areas has its own unique set of responsibilities and tasks. As an engineer, you might specialize in one or more of these disciplines, but regardless of your area of focus, every software engineer must have a solid understanding of all the different aspects in order to be successful in this exciting career. In this article, we\\u2019ll explore some of the many benefits of software engineering. If you\\u2019re reading this thinking \\u201CIs this article for me?\\u201D keep reading! Whether you are new to the industry or just looking for some additional information to increase your knowledge even more, read on to discover why software engineering might be a great career choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-most-popular-coding-languages.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOhgl5ESmHT/xSQreAAP76We2k8WMXPadRnwbJVZRD+9jyJfUhyLWRN5vzT0NxIE9sh+cwn2Ctb4rbuH9OfL8eZecIQQNJLfeynisY2AF38BfIUnV7eHqv5/5/+sN/U6SFywAAAA==",
-      "createdAt": "Fri Dec 11 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-cloud-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA7klEQVQYlWP4hxcwIHM+ffr08OFDFOk1q1bMmzNr0oS+rZs3btuyaf3a1Qvnz104f+6MaVP27t7NcPXq1YcPH54/f37Pzl1v3ry5c+fO9evX37x5c3Df/oP79jNIxX5cc/jnz18IA//+/fv508v7t088eXSZQSnlC6/fm9lbP//79+ff3yf//v37/P7++RPrjx9cs3/3CobQ1q/pEz7df/7g3+uwv7cY/rxw+v2h98Ob2+9e3n798hbM5a+i/jy1/vvY8M8zjz8PZREufwMBT9c9OOdw/6zjg7Oebx5Of//2zZu3rz5+fI/ib8xgAQCGagAgiuQPYwAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Mar 10 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-most-popular-coding-languages",
+      "slug": "go-language-for-cloud-computing",
       "locale": "en",
-      "title": "The Most Popular Coding Languages",
+      "title": "Go Language for Cloud Computing",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-object-oriented-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAQAwCdASoKAAoAAUAmJbACdLoB+AH4gBGvmIPd0DrFQBAA/tUVMaVKxDo1SikS7pTcoDKzgP3iMfK/GOrvpGww1FkX++/cjeWIhQd/7PZf6T/zAH+ips2bJng/5s2v+CHfEyn+Mv/56qG33+G8/1XYOmGxY/o5M/k2/yH74AAAAA==",
-      "createdAt": "Tue Mar 29 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-of-the-future.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVQYlTXOz0vCUAAH8JfPt/Xj/wiCKOgWdI8uXTpJly5dunULOnQb3aSwH1BhhUSCgpZkSi6LzKxmhxRDsNjKSp+0zW1N3/YkhvTle/p+Ll9AKaW2Zpnrnd/Jjj7o1JiyzQ1i65RSYFmSpQ351gaSMTYa6j867E2c9OXSDFGH260PYGmz4gt6LaLCA9TrPVLZVS1DvQ47GtR+PKCljl0l3fs77FmEjUeZxCk6PmAiQZS/c6u1UaArK0XB1fyCTxkUjzI3KfY2xWQvUaUA8ecSaBNTxgtERbYCM+lxuTZCmy6iou/3edM0gPOcUlUpydir4MX7rKdenW40nru7w01NyT+ex2Pe3e25cslPCOmaw/yFPxSYCAZmrtOrb5W8KIqSJGGMZVkmhIBcJhAO721u+Zb/w3Ecz/OCIBiG8QcRmdP4ur03MgAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Mar 01 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-object-oriented-programming",
+      "slug": "python-the-language-of-the-future",
       "locale": "en",
-      "title": "Go Language for Object-Oriented Programming",
+      "title": "Python - The Language of the Future",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a huge demand for software developers who can create cutting-edge programs and applications. Thanks to the rapid expansion of technology, there are plenty of jobs available in this field. However, not just anyone can become a programmer; you need to have specific skills and know how in order to land the job you want.\nIf you\\u2019re interested in becoming a software programmer and exploring new career opportunities, it\\u2019s important that you choose the right programming language from the get-go. The demand for skilled programmers is growing rapidly, so by choosing the right programming language now, you can set yourself up for success later on. Read on to learn more about Go programming and its potential as an object-oriented programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-an-overview.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
-      "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AENNUURDOtJ+JtrGqNfFqdiqdtSMPtF0ENh2DNh2DABVYGNTRTrnkDPl6OO6xsbL1NbL1NTM0c3Qv6fZs4cAW2ZphVkq6J1J9P38ydLRu8TF1+DfytPSzNLS2+LiAEZRUs+GNuuvavL7+tbi4s/b28LLysHKycXPzsPKygBoW0vzqEbwxpLZ4uK1vr/N2Nm9xsbH0M+0vbzEzc0AhXFRvmge9d2+9/7+8fz9zdjbws/SsLq5usbE0+PiAMina45AD+rk3dTh497r7uDu8NDd4NTf4OPu79n7+wDaq2SGRyby9/ja6u3X5urb7PLi8vbk8fTg7vDTxsEA7qpfk3Bl8Pv85vX76fn96/r86Pj54O/z8fz9t5GMAO2oVXtWSd2/l9rPwOTt7uf4++n5/en5/fH8/ZdbVutG3IoQh8PtAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-an-overview",
+      "slug": "how-to-code-like-a-pro",
       "locale": "en",
-      "title": "Python - An Overview",
+      "title": "How to Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
-      "createdAt": "Wed May 18 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-web-administration",
-      "locale": "en",
-      "title": "Go Language for Web Administration",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
-      "createdAt": "Sun Feb 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-improve-your-coding-skills",
-      "locale": "en",
-      "title": "How to Improve Your Coding Skills",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/exception-handling-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAAUAmJaQAAudnNJU8gAD+/p1eEGTP+97FNczM8i04MMO3LKA4gjYpcZE/Ds+9Z8ZrTCa4AAAA",
-      "createdAt": "Wed Mar 04 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "exception-handling-in-java",
-      "locale": "en",
-      "title": "Exception Handling in Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-devops.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoKAAoAAUAmJZACdDiAByLX2/jL1fUAAP790n3yAVc+ZchvJSFWKjTYBB6XbYS/6Pve6y8FbAt2KcN4bDTscr593x+7M1X3YoRTw5uN8Uux3qrs0TQWLw6u0ZSGirkH0XebIJn8lwi4TqS+vczKarpaYAA=",
-      "createdAt": "Tue Aug 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-devops",
-      "locale": "en",
-      "title": "Go Language for Devops",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/rich-internet-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA4UlEQVQYlXWPQWvCQBCF96cWevEvlP6FKi2lPXnyIorkEPBgQoVEUYkiIZ2GbCEE2mxQLDFB1jXJrEgtaBT6LsPjDfPmI7IkzDZlK6UkfyNJEt9qeoOnT/M5DMNz/J13o9wQQiw8PYbGCjqcc2F1eLdafDlk4D4ozs0693+XA/t4asleK+/VWz5pkSBTotwwTVPX9WG/p2laX2078ynG7NwNAPCmUkoBwP2wqKeinOGekjgtjDmOh2y3FaePhFCms7ptv5DeKL1/dO9qThCViVKUAeIPyQr02Z6troAvuf/TAfxXDO916foHAAAAAElFTkSuQmCC",
       "createdAt": "Fri Oct 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "rich-internet-applications-with-java",
       "locale": "en",
@@ -155,16 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-system-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwAgCdASoKAAoAAUAmJYgCdAEWgbSTEm+LAAD+/vFQK39//4sPkV6Bi/vxcEPq11/w7j7b36dkQG2+M6yFgCF/ilhOhbqxU3/Jja0+WfgXzmRyyIjtv/gFsBaYMvqW756iWl2QCO81zZEr/4nY/49Cf98Bs8lif+TkjhJw08rjffR6JPwAAA==",
-      "createdAt": "Thu Jun 25 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM7n9ZDO9fHz9PDw8Orq6OXm4+Tl4uTk5LOzs5mVlADZ7f2f1Pn5+/z6+vrz8/Pa4+fo6OjGxsSyhm63lIAAx+L0y+Dr9fn6j87vp9fw8fHx6urqp5qTw5V7wZN8APn7/P7+/s7m7MPk9tHq+Lva4t3d3XBXScOLd92qkgAwibI0i7I4jbI5jrQviLHk7e6hlpAzKiapdlyic1MAa6vHcrDJY6fFa6vFTJm619nZRzgxenV3rntYtqSfAPb6/f7+/s/n7d7x+sLg64CCg0c8OX2Gk7Ktr6euugDv9/7+/v7x9/puwOuAwONTRj+Ni47O1d7T2OHc4ukAyOb8jcn7+Pr75evwxMbIOCsntLrDwsrSydHZ2+DoANvt+ZHK9PLy8uLi4qmhnSAYFHmAi4GLmIaPnLG6xysq2jnTedh6AAAAAElFTkSuQmCC",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-system-administration",
+      "slug": "the-benefits-of-a-software-engineering-career",
       "locale": "en",
-      "title": "Go Language for System Administration",
+      "title": "The Benefits of a Software Engineering Career",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXLW0vCYADG8ffbRRQdtinVhV0IhWXiyuywvXsPsyi6SQqjm7qVkpKKMDrIMqdjQmpBlmFW2hQrUZnXMYKH/82PB6xLqwJnIyN2YreJLCswnMAwK6ODGw7G1dMLri7cmjKr3/3Pq6u8rvJaik+r3mTCA56q+OiWniSokqVRBR/ekOsMPlfJWYo0TAiMDooqNFNEp0mLI3GqZHFMQ1EFW1w3kVYgsTRJ5nHRQPdFnCuhh3dU70gWN0yYeSHhSxw6IK91KRKnu8dkbV9umNDixw+cf8O1Nnyuop+uWKhI313rVzNFoyOAmC4tbcmLwcDCpgx3ZBSShW0a2CP+IMmWJVD+FcvN5c+m+NUWjZbVWhvmSrDSEiotAcy5Wd8M53dz89Osz8Xxk8Me59DU+MCEo9851vcHjTG9mheG1W8AAAAASUVORK5CYII=",
+      "createdAt": "Tue Aug 18 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-software-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFklEQVQYlWN4uIFl73S2y8tZv+xj+bKP5fVOlmur2CHsL/uZGDb3MBdEcEV68rblcrVkcycEcOVHcdekcFWlcMX7cTPcXs38dAvrqg72aeVsOWGcB6aybOtjPTaLdW07y57JbAw7JgrvnSJ0fzPfxaXcn/Ywnl4s/Hkv0/1N3HfWcX7ey8TQm8W9voN3YrHIknquq6sEevLFTy4QPDGPZ0alyKNNXAy9WfzTSkRmV/FPLuRvSBJszxKZUSawulN8USP/tEI+hr4cngsLWT7uZTs9l60hRejUXK47a1mOz2a7tZr91DwOhoVVXJ/3Mp1bxDu9UmJ1CwfUSzDEsKaV88s+ls97mT7vZYIIITMYIBIQIWQ2RDcA57iMGmL84U8AAAAASUVORK5CYII=",
+      "createdAt": "Mon Jan 17 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-software-development",
+      "locale": "en",
+      "title": "Python - The Language for Software Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMWvS8W2oNfZ3eLm6dvf4tre4dnd4t/j5tXZ39zg5ADvtQXkowXWvBbItFnDu6vZ3eDg5OfS1tnZ3eDU2N0AvYEEqIQF0ekfq/U6xOw9sb8/uq9lvbGnz9DU2d3gAPybCv77AqfWJEqVM3ajN4O0Pa/JJfftAdC7F76lXAD6ngn++wLf8xTK8CHf8SLc8ibi7Bf8/ALV0ANeTAUAzPs8vPpN0/MrO+itFt7GcO+C5l17/ViU66M7PjcDAJC6N2eePrvnNy3Clgixql/TdcQqdZQXX+GxJ002CQDD90TX9irq9xjC9Tuw4j3e9SH40hv5szL96RHKtAUAQfa529QVn6ZE3OMo6coF474Ll38V+O4Z/PsGkYoEANjwIv77BPPjBKeZJ4aHTqOcEfHrBffbA/36A9vTBDx7tp9u6jjJAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Apr 28 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-languages-to-learn",
+      "locale": "en",
+      "title": "The Best Coding Languages to Learn",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-a-versatile-language.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVQYlWMQF5eUlpCRl5FXkVc2l1UMkJQLFJc2kZCWkJASE5NgkJGSVZFX9pNTOCUi9tzY5J2GxjMzyzdaOufFJfwFRRiUZRW11bS28Qv+YmN/amrxwMHxqbHZE3PL3+wcJ9g4GNSV1Iy09YO19A/z8j/T1n2ppfVGUeWNvPwJNg4vUXEGE31DJwtrR3ObBBPzPlWNTDOrRD0jB20DfXUdFXllBidzs6K0WB87Ox97l1B3n2AXTw8bJxsjCwMNXZC0hrJ6S2VsZUFIe2VoWU5Id2OMk4WthZ6Jnpq2sqwig5qial1ZUHaK54T2mKwkrwntUXYmVkba+hrK6grS8gyKMgp5GV7+HlZp8R5xYU5djeFF2X6uDmaqCioyUrIM0hIytaX+TVUhseEOYf62cybFJ0c756S5hQVYS4pJAgC3DlFYPDgMhgAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Aug 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-a-versatile-language",
+      "locale": "en",
+      "title": "Python - A Versatile Language",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

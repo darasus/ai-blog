@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABD0lEQVQYlWP4e4YJjr4cY/txghVZhAFC/TzFsmqykr27vYu39Ybpkr9OM6NIP97NExZtE5Fkb+zik5Rk/voAG4r03zNMc3vlTFzt1SydZ7VLIwz/fpz5y3EQ69NhlgPz+Y8t4v98mAUhfWQRz7Q6kR0z+Ba2iSSGyDbkSZanSk+tEV3UIbhpkgDD8wMyH47w/zjB/Okwy8dDrK/3sb87yPb2AMv7Y3Ifj/AyvH6w5e3Nls93W99dL/t4p+vTnd7Pj+d+vNf38d7Mt1eKGO7s0Lyzy/rOTuPbO83v7DK8u9vm9hb5uzt07ux2uLPTlOHrGcVnF6oeHI17dDrvyank+4fDHp1MeXAy6/7x7G/HmABd0ak9mQNLXQAAAABJRU5ErkJggg==",
   "createdAt": "2022-03-21T23:56:57.698Z",
-  "updatedAt": "2022-10-02T11:08:41.896Z",
+  "updatedAt": "2022-10-11T17:16:04.550Z",
   "categoryLocal": "coding",
   "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
   "locale": "en",
@@ -20,130 +20,70 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/java-security.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
-      "createdAt": "Fri Jul 08 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFdVT2liV3dtYHtyZW5pXV9hYVBcaE5fdEleeUheewBbV09wZlqAdWWFemtxbGBmZ2JfZWpcaHFVY3NUYXQAW1ZKZ2BVfHBignlqdG5bdW9ak5SNiY2MX2dtV2NtAGBbT2VdUn14bJKOe6+lgqufeLu6sZmZlGRmZVpgZABdWExqYFSJh3qzsJ2/t5+aknmztauHhHd2dWxeX1oAX1ZJjoV0oZyHmJeFrKqdrqyffnVlbGNUZ2VYY2NaAGFWRXhqUVVWKC8xDEU9Ji8wHWVfSm5mVlhRRXJvYwBhVkViV0ZfV0VVUzZUSTg1Lh4+Nypza1V3bFuspJAAYVREZltKopyKmpJ7WVAzjoVtTEQiNywZXE5AZVlBAFtQP2JXRnRpWGNZRWZaTGthTE9FNE1CMUQ4KjAmG9mgeGPiRLSHAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 01 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "java-security",
+      "slug": "introduction-to-spring",
       "locale": "en",
-      "title": "Java Security",
+      "title": "Introduction to Spring",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoKAAoAAUAmJbACdLoAAwg5rQEAAP71+b2isyLTaXAYLXKLh7hgPvnF/Itv+Wbydcqf0Sv5do0L7+FLPB/50NQX/m0+/Jf0Zjqi45Z239normqQ+n0AAA==",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlW2NMU7EMBBFzVG40db0XIViGzoaLoAoqBAUW7AS2gIUJUKyZKVIlCIpIke2J5HHY7MjIWJAW/DK+X/+E/wfKaUYIzMLpVTTNABwGl897Dc3z5e3T0JK2XUdANhfiOji/uNsW55fH4QxZp5nREwpMfPx88jML+/V3e7w+PomrLV5cBiGoiiUUrmX79/fp9YQAiJ6740xiCjGcSSinBGRtbau66qqyrKUUgoA0FqPK9M0AYBfMcZ47wUiNitt2/Z9vyxL3v9xxxidc1pr5xwAEFEI4U/3BVlMEkF7OcVmAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-tomorrow",
+      "slug": "building-a-hibernate-application",
       "locale": "en",
-      "title": "Python - The Language of Tomorrow",
+      "title": "Building a Hibernate Application",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCIfpqzrlUAA/v6Z/8gzhIoxoL6B26eYMQ5R9nK+Ey/mgYpvftI+nNi/Br/B5HTvTjcDN+//K4uKCgj4ra1bC3cUnoZESv8/9zkxAAAA",
-      "createdAt": "Sat Jul 09 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AENNUURDOtJ+JtrGqNfFqdiqdtSMPtF0ENh2DNh2DABVYGNTRTrnkDPl6OO6xsbL1NbL1NTM0c3Qv6fZs4cAW2ZphVkq6J1J9P38ydLRu8TF1+DfytPSzNLS2+LiAEZRUs+GNuuvavL7+tbi4s/b28LLysHKycXPzsPKygBoW0vzqEbwxpLZ4uK1vr/N2Nm9xsbH0M+0vbzEzc0AhXFRvmge9d2+9/7+8fz9zdjbws/SsLq5usbE0+PiAMina45AD+rk3dTh497r7uDu8NDd4NTf4OPu79n7+wDaq2SGRyby9/ja6u3X5urb7PLi8vbk8fTg7vDTxsEA7qpfk3Bl8Pv85vX76fn96/r86Pj54O/z8fz9t5GMAO2oVXtWSd2/l9rPwOTt7uf4++n5/en5/fH8/ZdbVutG3IoQh8PtAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Nov 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "introduction-to-javaserver-faces",
+      "slug": "how-to-code-like-a-pro",
       "locale": "en",
-      "title": "Introduction to Javaserver Faces",
+      "title": "How to Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-tools.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoKAAoAAUAmJZwC7AEfbk9QLAAA/v7IKuVQiUy5L6rraszYh52yQMGILgx/aO64pPWra/AA",
-      "createdAt": "Fri Nov 20 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/testing-java-applications.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlT2OPUvDUBhG7ySiIu5F9Bc4FSeV/gh/gZOoi1OmVsSqQyXoFIqx0OLQhICN0AydxIKp2jq0BvxIO9j0Q6ltmpt773vjoqXgfJ7Dc1B4KTQfmp6bnVwJL57tr9aK217fwG6bUp8xhmamJtaWF6TDyFslzvwaIS5jpNtpUg4EGErGIy+PIlAHADDGpmlKkqRpGgE2wtgWvp6Kuq6rqppIJGRZNk2z9HBPOXg+Rmxw/HEZMwxD13XbtikHTIiiKLIsC4KAAppuZ9fpd6/V6VSt51wuF41GU6lUuVymlKKGpZLu0SB/XigURFHUNK392YWAl+5u6o1XFBO2frxs72qz2XL6QxcCDgGnHOx3K31xgnZ3NjwnQ+oHbuWWchizURd2raqJ8srp0ElyP9O63hur/4u/71/NHOTkmy236gAAAABJRU5ErkJggg==",
+      "createdAt": "Sun Aug 14 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-tools",
+      "slug": "testing-java-applications",
       "locale": "en",
-      "title": "The Top Software Engineering Tools",
+      "title": "Testing Java Applications",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-a-software-engineering-degree.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAQCdASoKAAoAAUAmJYwCdAEPA7MnnEAA/v05/j1V6kDOzLB5kloydPFNh8bTnjkP63m4BVYnKGzJIDkgMq8C9JW8P5jtwsyE6u/Fxf8tOZtu1rcquTKGV+pVawhvXC5VGYJNe8FISEdWVy1PAAAA",
-      "createdAt": "Tue May 04 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "the-benefits-of-a-software-engineering-degree",
-      "locale": "en",
-      "title": "The Benefits of a Software Engineering Degree",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-scraping.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoKAAoAAUAmJbACdGuAt/+7VQYFmQjesAD++9bOs/OxD53h/h/hr2cJy6B0aZ8/nfXs/sNPPAt/kNdAgNjWPuo8Lf3WmZm0x6UA82K/+1vbBqg+Je5v/9W9sFN5UPyfs/93Daf5/+D2YAAA",
-      "createdAt": "Thu Dec 24 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-web-scraping",
-      "locale": "en",
-      "title": "Go Language for Web Scraping",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, as businesses face increasing pressure to digitize processes and extract value from data, a wide range of organizations are exploring solutions that leverage computer programs to automatically capture data.\nThis article lists programming languages used for web scraping and extracting data. Web scraping is the process of crawling websites to retrieve specific data in a machine-readable format. It is an area of data mining that covers computer programs that automatically read and extract information from websites or documents. These programs are called scrapers or crawlers. Scraping is a task you might need to complete as parter of your job as a digital marketer, software engineer, statistical analyst, or researcher.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQAwCdASoKAAoAAUAmJbACdLoBJgMEA9f8YbK3oxgSYlgA/vrXvTgv3tMgfFO7dzojrnoy75nIMf2KTKIIoN9vGYxonZdu+xORVV1GbE2BamxOlsQPvWQf5dsdxqUbZ6C/Fobwcjef/exfyktm0Rb77/Qz6u37cml8U3mXPMqN7gAA",
-      "createdAt": "Sat Nov 21 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-habits-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Habits for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-improve-your-coding-skills.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoKAAoAAUAmJZQCdAELXb99NN6TIAD+/O2Vh34OR+c3oWg0FEfLy4SGnT3r0+v2cG/1moZvJHt/18CS7frh3tgQ7dj9FwYRgnByyY01WepsNjCIUEplhqv8GuKcvj9ERAX4wAAA",
-      "createdAt": "Sun Feb 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-improve-your-coding-skills",
-      "locale": "en",
-      "title": "How to Improve Your Coding Skills",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/go-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJbACdAaLN5S4ZSKyNZqD1AAA/sYHo//+hxpetvtkSoyoiLV0Lieb3NvRLk2SsuD25lcaJHL78S5ZiV36k4f3ySR/B/IhP8d/RUgsF3rupU/z2h8s77xfl/8eqLG+Xj5RODOjEfrqB5PjRP5t1m7vnrY8pn4/0L/+33+1b0Dy3SfkTNcAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABBklEQVQYlWP4BwJ//uEADK2tre4w4OHhsWzV2tBpV1x6L0EQg7u7e0pKSioMOAYmOHVdTFpwA4IY6uvrb7/82rj5/vZLr//9+xeSUrz85EuE4fX19bnLbn/58btk1R249NmHH6fuf/r47XeQ9NT9T1s2P1hx6sWzDz9CUooXHXueuuDW688/sxbfBknnL7t78Oa71AW3pux7EpJSPP/os+ylt379+ZO99BZI+suP35vOvzn/8OPP338ghu++8q5j68Nrzz4zGBsba2pqpqamOjk5aWpqWntHSRUfV68+U7PhnmrVaYaVK1cWFBT09fVVVVUVFhYeO3GyZfOD4hV35xx8XrLyHgD3fcUE7xu/ZAAAAABJRU5ErkJggg==",
       "createdAt": "Sat Jan 18 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "go-language-for-mobile-development",
       "locale": "en",
@@ -155,16 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJQBOgCFrjE7mw8AA/v6C7oA9mG4q0n/twRewObH/MS34cYvjO6TSTe2NNO+K3I6vm8eNCAXKyhnMP2tiHdb78q2CldtukFbxIyyygndrdIcOQAA=",
-      "createdAt": "Tue May 24 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlWP4s4cVK/q7l+3PHlYGCGdHJ/ucMtYt7ewLK9kXV7GtbWR/sgokDpL+u5ft0QrWXT2shyeyH5zIdnAi24XZLK/Ws4Ck9/WxtaSwdWeyr6pjX1DOsbOLbWo+24JyjuU1bEur2RlermM9OJHt8ETW0zNYj09jfbqG/cxMtsMT2be0s5+axsYAccLhiaz1CexrG9m7Mzi3tLOvauBA2P1nD+ur9Wx7etmPTgaRZ2aynZvN9nQNO9juQ2GVa7rWbfP9u5ft716Obwed/+znhhg5eZ85w5Kd2f4TV/SvSPi6ne3LAb2zLRXvtuh83c72fSdrV1cww9e9ModXRn/eJQOx5cksjpdbeSC+rd3jBAAYjpgxm2fqBQAAAABJRU5ErkJggg==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-game-development",
+      "slug": "5-tricks-to-help-you-master-javascript-in-5-minutes",
       "locale": "en",
-      "title": "Go Language for Game Development",
+      "title": "5 Tricks to Help You Master JavaScript in 5 Minutes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve just started learning programming or are struggling to get a grasp of it, Javascript can be one tough nut to crack. This dynamic and functional programming language is used for creating interactive websites and applications.\nThe scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it\\u2019s also a great first programming language because of its simplicity, accessibility, and ease of availability online.\nBut like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlX2QsUrDQByHT3yGPod0EpvFwa2rj+BzZMiQKUQR4+igcRWSQEIq3BB0Mbi0YGINCOGuiSG1/1yb5qJcEUPnfvy2b/jghwQZ7hj6jO9ESza/pWiJYO4PC9p1ytezdhVPXs5RGIZ5nm86CCF1XXPOAYBz7vv+v7YsyzAMRVFUVdV1XdM0WZZN09zqoigYYwAghGiapixLbfF1xubD9zEKgsDzvKcOSil0HNDp6eq7D7NtO0kSSqkQoqoqAOjT+GRZSpAjx3EwxrZtY4yzLIuiyHXd3sfr3oLuz1M0uh3Eo6P0WXrzB/cXxw/G4fRRupxcGdGNOr5Gu2/5A9Yl5ZK0D9YWAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Sep 06 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/object-oriented-programming-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 08 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/javafx-and-multimedia.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDUlEQVQYlWNgyWkAoyYYowEZMbDmNrJm1bHG5jOHpLAEJrD4x7P4xzIFxLOEpLBn1zG4LXpq27VFzT+eJyaKNzmFOzOTOzdbuLhIz6epYPpNBtP44oYb781O/lI8fVF28hSJQ/3ipxulLp0waL6wbP0uBiYmJq2GddqH/0ofOyyxtjvs+3nly1Ml7260WvsqeNJhBj529g1brtZf/SpyYBdHRrjQ1FrOigSh7csKX/668eQnAzMzs4qqpraHn8T+vTLb1htNbJc6uEPq/Nn+G09OH34BkmZmZmbhF+Li4jJXVdI2MGSWU2JW0uAxstIq64JJe0XyJxcp2LtKWtip+kcIFzRD/Q2VjsnBGiwAGetqfS+4wagAAAAASUVORK5CYII=",
+      "createdAt": "Tue Jul 19 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "javafx-and-multimedia",
+      "locale": "en",
+      "title": "Javafx and Multimedia",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New technologies and breakthroughs in semiconductor fabrication have enabled the creation of advanced mobile devices. These mobile devices are not just used for voice calls or text messaging. They can now be used to capture images, record videos, and listen to music. Java has always been at the forefront of new technology adoption, thanks to its portability, consistency across various implementations, and large codebase. If you think that Java is just good for business applications and websites, then you need to think again. With the advent of Java 8 and Android apps based on this version of the language, there is a renewed focus on mobile development using Java. This has led to several innovations in the area of embedded devices with IoT-enabled edge computing and Machine Learning (ML) based artificial intelligence systems. The latest technology being adopted by both enterprises and developers is the Internet of Things (IoT).\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWP4+/fvP9yA4d+/f1sufopf8nX+qZ9YpK8++cZc8IGh7DdD2e8dN0AmnTlz5ujRo39+/wFJ77z0gbHoK0R6+vG/BQUFEZUN+Z0T4+LiQNK//vzzmf6eoey31ZQ/rz/9NnZw5jj9V+DM3x27dkLtvvPm977bIGP//v1raW3jfelL0t1fLi4uf//+BUn//PXvzBOQTf/+/du/f39YWFhiYmJQYBBI9+vXrxcuXLhmzZrVq1evWrVq7dq1a9asWbx48YoVKx49esTw69evHz9+fP78+c6dOx8/fvz27dsnMLhz586PHz9AhuMJFgCKfvM5X5BLmQAAAABJRU5ErkJggg==",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Go Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

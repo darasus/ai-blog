@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/go-language-for-database-administration.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABF0lEQVQYlWP4Cwb/wADO3nFte+++vhsvbzDcvHnzwIEDf37/gcj9/ft3wpEJHA2sHK3s3M3cDBcuXFiwYMGuXbu+f/8OkTZdYOy31S9wZ5D2Mm2Gf//+vXjxYsGCBbNmzTp9+vSzz0/1l+iqr1Q33mSstFyeAW7fiRMnGhoa9u7d+/jzE68tHvJL5UuOlYB0P72x4tLu9MfXl3/8+LG7u3vVqlUfPnyAOJbh1e05l9cKXlsvdmEl371jWY8fP16+bPnixYtv3rz59+9fhtenfT9dCP58LfXj5aSXp3wgFp0+fbq1tfX8+fMM3+7Wfj+t+fOcyffTul/vVMED4Pz58yDD//75+utuzu9zen/u5Pz98xUeRBC7AcIS5IulEQdbAAAAAElFTkSuQmCC",
   "createdAt": "2022-08-10T20:02:48.924Z",
-  "updatedAt": "2022-10-02T11:08:15.080Z",
+  "updatedAt": "2022-10-11T17:16:02.432Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-database-administration",
   "locale": "en",
@@ -20,70 +20,40 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAABQAgCdASoKAAoAAUAmJaACdAYs32ZJkvDzowAA/vm699i8Ref+5sDm3/yFn7+ze/u7XrDaaPfMQf41a/5fsWfKo/xA/efzt3+13e+x222+ImpR9ZA5povx9P9nKfRv9gtNeyZOR6rn5skTKeaIuohp//xT5f7/9v/1gP212bu+Oy36R/jAt1C9fk3JOa476GAAAA==",
-      "createdAt": "Sat Feb 12 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWPQaF6k1QRFGs3oiEGzZTEEaTQvip81I3/BNL0WqJxmy2IGy675ll0LLbvm23fPD5sy23/KHOe+uRARm+4FDNmr9vlM35SydFfonG2BszYbd61IWbrLZ/qmwFmbfaZvYgiavTV6wY681fvD522LWbjDpm9N1PztgbM25685EDhrMwPEmsi525wnrXOdvN59yjqniWs9pm6w718Nslu7GeSuoNlbo+Zvz1q5P2HxrppNR6Lmb4+av127eTGDUdsCi84FYAfOj54xK2TqbOfe+RARi84FDMg+Dpk6O3UuwmMgf6MHRdMSuKeB0gBAIZGZWqGGVwAAAABJRU5ErkJggg==",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-web-development",
+      "slug": "typescript-a-beginners-guide-to-code-type-safety",
       "locale": "en",
-      "title": "Go Language for Web Development",
+      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an open source programming language that makes it possible to build simple and reliable software faster. It has emerged as one of the most successful alternatives to legacy languages like C, C++, and Java in recent years. Top companies like Google, Dropbox, Netflix, Uber, and many others are adopting Go for their backend services\\u2014and not just because of its unusual mascot character.\nGo\\u2019s simplicity makes it easier to read and understand code. Its standard libraries mean programmers don\\u2019t need to create common functions from scratch every time they write a program. Its built-in concurrency enables fast performance for programs that make multiple simultaneous requests. And its support for interfaces means you can build flexible software without worrying about what kind of data your code expects.\nThere is no denying that there are a lot of benefits from using Go for developing web applications . Here we will discuss why you should consider using this popular programming language for your web development projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/rich-internet-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
-      "createdAt": "Fri Oct 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/working-with-files-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlU3NPUvDQADG8ft+fgAXNzdBUYPFglUEFREddGuIipuoiIsmpZRQNWrFBNrrccklJJfWKIRgTWJeLnWQtosP/+03PIBSCmG7XFqYmZ5anp/d26rcXJ5jBIvxwMH+ztHhbhAEPeq6jh2GoSw3BL4aRdGIN9dLcRwzxoiOiY4/Pe+j//748KRpWp4X4O215XleUfyaBonjJM2LSaIofg8ioLVGzNgQIaSqqmEYP2meZKxWq/t+ADCC3Q5Mk9z3gyRj44ZJxiRJGnyFQH15JrqR5sU/G7YhasoNomNwfXWBu2jyN2HLdgS+imHHtgjgOK6ytqIoCjbM5r18dnp8IvDdDnQdSm0LLC7NbW+sSne39ZqoKApC2CKm61Cv16eW+QeuNfYRsexxWwAAAABJRU5ErkJggg==",
+      "createdAt": "Thu Aug 11 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "rich-internet-applications-with-java",
+      "slug": "working-with-files-in-java",
       "locale": "en",
-      "title": "Rich Internet Applications with Java",
+      "title": "Working with Files in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Rich Internet applications, or RIAs, are web-based applications that feature greater interactivity than standard websites. Rather than simply enabling users to access information from a website, RIA applications typically provide users with the ability to take action on that content. For example, rather than simply providing users with information about a product and its price, an RIA application might enable users to add the product to a shopping cart and complete the purchase process.\nThis article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you\\u2019re planning on creating one.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-data-science",
-      "locale": "en",
-      "title": "Go Language for Data Science",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-scientific-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
-      "createdAt": "Fri Jul 22 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-scientific-computing",
-      "locale": "en",
-      "title": "Go Language for Scientific Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working with files is something that entry-level programmers don\\u2019t get to do very often. It\\u2019s not the most exciting part of software development, but it\\u2019s an important one. The file system is the cornerstone of almost every program you use on your computer. Working with files in Java can seem a little counterintuitive at first. Once you understand what makes it different from other programming languages, it becomes much clearer.\nWorking with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new \"File\" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/python-the-language-of-the-web.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoKAAoAAUAmJYgCdAEO/kOOAAD++jwC6sVnBPT6WwvL8iIUI2dl6DcrAvKtH4SZXG/BOc1hWPT8NuU2tHb2WQap5/XKFogRX6b6jofXzt3GMfH69j401+cgoEkkAAAA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWN49fISCL248uvXr78YgGHLxoadOyetWl549/Y6uOjnTy+h0o8e7j+8r3XTaveNaxMvXVz96P7q2zc3rl1ut2dHzfGDEQwXzi0+fbz70L6yo4dnbl6ffuFM/73bK7av17x27diN68sZzp9ZdP3KukMHJl+/snjVUvO1ywIePzq5ZpnX0UPNjx8dYLh0Yfmy+fbz5/hfuHDo3v07J04eu379+vkLZ89fOPnw4X2GqxcXXruydNeuXStXrpwzZ850MFiyZMmiRYtWrVrFcOb00muX1kPc+fXr1x9ggPDYgb01N65uxPQxVHrPzrLPX97jkgYARYPz8PONR3sAAAAASUVORK5CYII=",
       "createdAt": "Wed Jul 27 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "python-the-language-of-the-web",
       "locale": "en",
@@ -95,76 +65,106 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABQAgCdASoKAAoAAUAmJQBOhgl4MxLrr51T6gAA/v43s0E90axP/L0WWZPfnzQokt5T0so+sFUJvYGyt/4c+U0CyN/r8QGRc/kgyiIro6MG9nQqRLHy73/j19PfDP+iNsDt/+JxM85xO1lcS0TwVRObr+XyNJPkO9y+bqC65DuuK5x0e8+1o/ki6ZZjAAAA",
-      "createdAt": "Sun Aug 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introducing-javafx.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlT2PO0sDQRSF999Z+V/EzkYES8FHJ5hCC4miEXwRV/KwELYwELQIbkJ2Z9x53Zk7s7OPgKUsG4TTfYfDdwKZES0yIxkqbkG0QcWNZMBpAJwaySwIj6qw0MZpaUEYyYJ/VjpTe1t7W+VYOuNRoeINdlqKkx3T7+ZkbsjSMoJZCnTptAxQcR0N4GBLXe9Cd/twc+PueL93tDe4PPWoGuznn+XHsJ6NzKRPpxMWvS6mEfn+0ixtsNOyynFVuN/arwoXvz39jHrp+BGSeK1WWGi9Fu+hfuiU4YUZXjVqWmTNgOGFhSrXnCaz8DZ/PoPxTXMMOF03tPSoPCpOk/i+Y17OZUb+AMfgAewT8ENlAAAAAElFTkSuQmCC",
+      "createdAt": "Fri May 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-benefits-of-a-software-engineering-career",
+      "slug": "introducing-javafx",
       "locale": "en",
-      "title": "The Benefits of a Software Engineering Career",
+      "title": "Introducing Javafx",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJbACdAEPDmRyPxAAAP799ci2CEwAClmvh+LYJCDlI5D8XnKI36JhP707Hs2lDfrPtafdp8NzP/Lk9Sf/3H/P/UJff+FLz3+TeN+xIAA=",
-      "createdAt": "Sun Apr 10 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-system-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA9UlEQVQYlWP4hwo+ff4OZ//9+5cBWe7nz99+mWvjyras23n958/f//79Q5HeevBWRNVW9+RFmi4zbYLmnTj3ACz9+92f7/t+feq7fTX+yhmXw/v9dFxnyRp3Hz/zkOHvn68vbhic3qe1YIZKR6Pi3CnKS+dohibXGDj2/vn9h+Hfvz9XT+hXFkjtWKd9+qDB9dOmWzf6RMQll9Svg9r94pbL1F6j8hIHe/dYGf16Ca16cdXS3QevQqUvXbq0fuNmJe1EEYUcYflsIcU8ed3C799+orj8zZs306YtNLNOEJYOS0ifBBFE8RjY6z8PHDhw7fptiDQAnQjY8PUKYr0AAAAASUVORK5CYII=",
+      "createdAt": "Thu Jun 25 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-game-development",
+      "slug": "go-language-for-system-administration",
       "locale": "en",
-      "title": "Python - The Language for Game Development",
+      "title": "Go Language for System Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s no secret that programmers love programming. But not all of them love similar things. Those who are drawn to computer science for its logic and problem-solving challenges might find coding a drag at times, especially if their work is mostly about wrangling with APIs or other standard software components.\nWe have probably all come across developers who don\\u2019t share our passions \\u2014 those who get caught up in the glamour of the job title instead of its substance. And this kind of people is also drawn to different fields within our profession. For example, some programmers like writing code that controls machines or processes \\u2014 in short, system administration tasks\\u2014 rather than creating user interfaces or artificial intelligence algorithms.\nThat\\u2019s why we\\u2019ll be exploring Go as an excellent language for system administration (or any highly task-oriented role).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-hibernate.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoKAAoAAUAmJYwCdH8Agqy/4kvzSp4AAP791uZ9jU8/9tWnvfv+zLCnBH636gb/958kj4xl7RbF7x5t35hBEueuYzQ+BS9r/6Bza9+blkdjuh28oihrtTcB23jWz/SMX4YkAAAA",
-      "createdAt": "Mon May 31 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/rich-internet-applications-with-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA4UlEQVQYlXWPQWvCQBCF96cWevEvlP6FKi2lPXnyIorkEPBgQoVEUYkiIZ2GbCEE2mxQLDFB1jXJrEgtaBT6LsPjDfPmI7IkzDZlK6UkfyNJEt9qeoOnT/M5DMNz/J13o9wQQiw8PYbGCjqcc2F1eLdafDlk4D4ozs0693+XA/t4asleK+/VWz5pkSBTotwwTVPX9WG/p2laX2078ynG7NwNAPCmUkoBwP2wqKeinOGekjgtjDmOh2y3FaePhFCms7ptv5DeKL1/dO9qThCViVKUAeIPyQr02Z6troAvuf/TAfxXDO916foHAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Oct 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "introduction-to-hibernate",
+      "slug": "rich-internet-applications-with-java",
       "locale": "en",
-      "title": "Introduction to Hibernate",
+      "title": "Rich Internet Applications with Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Rich Internet applications, or RIAs, are web-based applications that feature greater interactivity than standard websites. Rather than simply enabling users to access information from a website, RIA applications typically provide users with the ability to take action on that content. For example, rather than simply providing users with information about a product and its price, an RIA application might enable users to add the product to a shopping cart and complete the purchase process.\nThis article introduces you to Java RIAs so that you can understand why Java developers should use it for developing RIAs. The scope of this article is to explain you why Java is particularly suited for developing these applications and why you should consider using it if you\\u2019re planning on creating one.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAgCdASoKAAoAAUAmJbACdAaLN5S4ZSKyNZqD1AAA/sYHo//+hxpetvtkSoyoiLV0Lieb3NvRLk2SsuD25lcaJHL78S5ZiV36k4f3ySR/B/IhP8d/RUgsF3rupU/z2h8s77xfl/8eqLG+Xj5RODOjEfrqB5PjRP5t1m7vnrY8pn4/0L/+33+1b0Dy3SfkTNcAAA==",
-      "createdAt": "Sat Jan 18 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-web-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlWP4ixcw/IMB7NIPrhadPLrk9rXFcBVXThbdvlj3/fv3O+ejGa6caVyzetHLi4IP7+2GSD99uO/ROZ7ThytunbJj2LZty8EDW5+cl7t/Zy1E+uzZs+eOt768xHL9bB3Dzg0xR7a5Xj+d+fPnT4j09evX37179+AMx92T6gxPHp68ffv2gwcP4M55+fLlvn37Xl5ieniri+HYkU3Hjh07evTozZs3v4LB69evr1y5dOus/60rSxjQfILmQ5A0Lk8DpQFXjgZAq0HRrQAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Apr 13 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-mobile-development",
+      "slug": "python-the-language-for-web-development",
       "locale": "en",
-      "title": "Go Language for Mobile Development",
+      "title": "Python - The Language for Web Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, mobile devices have become a part of our daily lives. Most people use their phones for either calling, texting or browsing the Internet. The world has moved on from feature phones to smartphones, which are more than just mobile phones. Smartphones come with pre-installed apps such as cameras, video players, and messaging services. Moreover, they also support third-party apps like music streaming services and games. Today\\u2019s mobile users expect their devices to be more than just communication tools; they want them to be an extension of their digital lifestyle. Therefore, developers need to create apps that take advantage of the smaller screen size and speed up load times by storing data locally where possible. There are many different programming languages used to make mobile applications; however, we will cover four of the most commonly used ones:\nSoftware development companies generally have some standard set of programming languages that they prefer working with. When it comes to mobile app development you might find one language rising above the rest based on its popularity among developers as well as other factors such as job demand for that specific language. Read on to learn about some of the most common programming languages for developing mobile apps:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What is the best programming language for developing websites? If you\\u2019re looking to develop dynamic websites and integrate them with databases, Python might be the right choice for you.\nIf you are a programmer or planning to become one, it\\u2019s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.\nIn this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/web-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
-      "createdAt": "Sat Jan 23 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlWP4s4cVK/q7l+3PHlYGCGdHJ/ucMtYt7ewLK9kXV7GtbWR/sgokDpL+u5ft0QrWXT2shyeyH5zIdnAi24XZLK/Ws4Ck9/WxtaSwdWeyr6pjX1DOsbOLbWo+24JyjuU1bEur2RlermM9OJHt8ETW0zNYj09jfbqG/cxMtsMT2be0s5+axsYAccLhiaz1CexrG9m7Mzi3tLOvauBA2P1nD+ur9Wx7etmPTgaRZ2aynZvN9nQNO9juQ2GVa7rWbfP9u5ft716Obwed/+znhhg5eZ85w5Kd2f4TV/SvSPi6ne3LAb2zLRXvtuh83c72fSdrV1cww9e9ModXRn/eJQOx5cksjpdbeSC+rd3jBAAYjpgxm2fqBQAAAABJRU5ErkJggg==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "web-applications-with-java",
+      "slug": "5-tricks-to-help-you-master-javascript-in-5-minutes",
       "locale": "en",
-      "title": "Web Applications with Java",
+      "title": "5 Tricks to Help You Master JavaScript in 5 Minutes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve just started learning programming or are struggling to get a grasp of it, Javascript can be one tough nut to crack. This dynamic and functional programming language is used for creating interactive websites and applications.\nThe scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it\\u2019s also a great first programming language because of its simplicity, accessibility, and ease of availability online.\nBut like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-distributed-computing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlWP4hxcw/Pn27M+3Z3+/vYQLff3149G7F4/evXjx6S3Dj82yYKTw+9FqiLTptGTGalswsmb4faP797XW31fqf92aeu7cuX///sl2BXceWlq4ZVLelokMvx8u/bXf8feN7l+3pvr5+Z09e1ZrQnTPoeUhS2viVjcz/LpU+efe3N8Xyv7cmf7169d///7JdAZErWws3jaled98hl/n8n7f6P15Mubv+0sQuxv3znOZV+AxvyhrUw/DmTNnPnz48PHjx3///j158uTRo0dfv3799u3bDzBgyM7OnjZt2oIFC+7du1dWVrZx48bMzMykpCRfX9/i4mKG79+/Yw2QM2fOAIMFANMA5szbg0xbAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Mar 10 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-distributed-computing",
+      "locale": "en",
+      "title": "Go Language for Distributed Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABGElEQVQYlWP4CwNvvn778uMnnPvv37+/f/8y/Pv37/iDNwb9e5nK1rFXbohbcfrDN4QihkfvvgrUbWEqWwdHwQuPI6Sb9lyTbdmWsOpM5NKToYtPRi0/xVS27tH7zztuPL/47D1D9vrzkUtPSjZvLdh0IXv9+ez1F5nLN5x5/NZ00r6cDRcY5p9+wFG1cdKROwWbLhhP2GcxeT9/zaYvP35+/fnr158/DD9//7Gbfki4bjNz+QaI3TOO30PY/e/fv68/f/UdvOk//1js8tN7br2Ey4GkLz3/cPvNl1uvP997+/n+uy83X328+/rTrdefb73+/O/fP4YLTz+svfzs5KN3i88+XHLu0a3Xn3fffrnk3KM1F58CpQHvg+TaL8rU6AAAAABJRU5ErkJggg==",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-machine-learning",
+      "locale": "en",
+      "title": "Go Language for Machine Learning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

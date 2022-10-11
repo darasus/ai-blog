@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJagCdAEQD2Rd7IQAAP790mPps9hl3VCiK5WogAykPi06jEUy0T+Yw0ew4Fkz2mTdO8M3KpmUfnzMP4IimeRhY2ckCi/4h5/6WwK+gWLKosr892gAAA==",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABM0lEQVQYlT2NPU/CQABA7w+5+CdcnExcnY2TC84OTho3Y1hMHMCvYMRENE1kgCBoP2hTaGn1LkVooXJtbY9+cD0Gw+L48l7ygCBqbV5t86o1ciXF4KVBsyWrGurw2oegA820Jv6vG4SOG8DR1IR2syX3B5Yom0LXAJYz0+G4Z1iKjmQNKjrqiLrQNSQVirIJejHGJCSURVkeZXmYUj9O/Th1A+LgEFy0msZ0SCirca9vH+JjjdORRSjz5ok3T8BBsTjGdpTlyJ50JKX69MLVG4QyTOKyjcDe6XEc4f4nurq7L91WbioPl6XrKMtNe7rLVUHh5Cgmwf+bUOZ4KxwH0dp7BZyXikmS0O8CHe4v7MP05yyZlVeRH+1MRNBQ6iRbMLS9/NpYDtYZ3Mzh1krj8Nlz/gAVGPoEclahQAAAAABJRU5ErkJggg==",
   "createdAt": "2022-03-30T22:49:51.730Z",
-  "updatedAt": "2022-10-02T10:47:42.875Z",
+  "updatedAt": "2022-10-11T17:15:12.437Z",
   "categoryLocal": "coding",
   "slug": "the-best-coding-practices-for-beginners",
   "locale": "en",
@@ -20,55 +20,100 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-functional-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
-      "createdAt": "Wed Mar 02 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-javaserver-faces.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAvUlEQVQYlX2QPQrCQBCF92Z6APE4Flp4CUWPYCF2lqIWafxhN0NCSNDAEiEuC4mk0CQ7I2IEFcR87fCG9z1GtTAiUhXnCl0Rx7FSCg0yNAgAUkrHcaSUnPMwDAHA87w8zxnpJSbW79v7Yo4Hn4lJw562kiQRQriuCwCc8/QYbNtNr99hdNlhZhNRlmXf6cJa0Uk+q21GYzGbpWn6vmmti6Komhtcd3v7wfClEASB7/tRFH3EzO2KZfnXu2aWB0v+Er/l/mhbAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Jul 09 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-functional-programming",
+      "slug": "introduction-to-javaserver-faces",
       "locale": "en",
-      "title": "Go Language for Functional Programming",
+      "title": "Introduction to Javaserver Faces",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, we have seen a rise in popularity of user-friendly software and websites. A big reason for this is that software designers are paying more attention to users\\u2019 experience. Instead of spending hours on making designs, they are investing more time on designing user experiences. User interfaces play a vital role in how an application is perceived by its target audience.\nA user interface consists of the various screens or windows that provide access to information, or enable actions such as viewing, creating, saving, and opening files. A user interface also includes the visual properties (such as colors, fonts, and graphics) and navigational components (such as menus, buttons, and tabs) that users see and interact with when using a computer program.\nIn this blog post we will learn about JavaServer Faces; what it is; why you might use it; and finally a brief introduction to its key concepts.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/web-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoKAAoAAUAmJYgCdAYrdwn6lhIxjAAA/vmaHT/4a93/hMtDIj6GYFHsWdWkjLW1OsQ0Kxd5nyQt7vQnfOPy/yZtdRk9RnVNGePZ8upJu/v80Hz4uqf/Y+zHK+Ko7enMbyDeGu4Y+/xbAhgBByF7Dv67q/l35uF/5OzBF2hGK8yHUX5//cAAAA==",
-      "createdAt": "Sat Jan 23 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlVXKsWrCQACA4XsOn8BX8A3sUCrURcgS9QGcXbIkYBCS43JeionpkVQcJJQiFLp0K2TRpUpQThsktBKCSzoUmxylpRT6r98P3u6k6PpyP22km8fjMeX/A5PJDaUjYmKMEaUj13UppZZlEUJqtRr4G/PPvCiK0+kUBMHhcOCcl0qlb86yrNlsdjodQRAkSWq1Wowxznm5XP7l2Ww2Ho9lWXYcx/O8MAwXi0WlUgFRFFmW1e/3e72eqqoQwm63OxwObduuVqsgjuPBYKDrOoRQ0zRFUeSfHMep1+tgvQ63u3UU7RjbrFbP7y/3+etDns6Lj1QURZAkyXK5ZIz5vo8xvpUbT+rZ6up8P23M7QtgmiYhBGMMIUQIQQgNw0AIGYbRbre/AMwdy4X/utt0AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Aug 04 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "web-applications-with-java",
+      "slug": "the-best-coding-tools-for-developers",
       "locale": "en",
-      "title": "Web Applications with Java",
+      "title": "The Best Coding Tools for Developers",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re a new developer or have some experience under your belt, chances are good that you\\u2019ll be working with web applications sooner rather than later. In fact, the demand for such applications is growing all the time\\u2014and Java developers who can build them are in high demand.\nWorking with a programming language like Java, which has been around for so long and proven its staying power time and again, is as much of an opportunity as it is a challenge. Because every other programmer out there has also discovered the same thing about Java \\u2013 that it\\u2019s both stable and powerful.\nThat doesn\\u2019t mean there aren\\u2019t plenty of frameworks and libraries to choose from \\u2013 there are more than enough options from which to choose! These libraries and frameworks make it easier to build websites using Java without having to worry about boilerplate code or syntax details. So let\\u2019s take a look at some of your best options for building web apps with Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Developers do a lot of work. As with any job, coders have to balance the amount of time spent coding as well as the quality and efficiency of that coding. It is an ongoing challenge to stay organized and productive throughout the day. The good news is that there are many tools out there that make the lives of developers easier. These tools make tasks like code organization, file sharing, debugging, and testing much simpler.\nCoding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let\\u2019s take a look at some of the best coding tools that every developer should know about!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoKAAoAAUAmJbACdLoAArrxRAsCAAD+J6oTipulHDpP2e1lgJyvZs9eBIWEQfO0I5jJtz7A7lLm2/V27WaE3xYav/mCfy6/HwaBeSgA",
-      "createdAt": "Wed Sep 15 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/introduction-to-spring.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFdVT2liV3dtYHtyZW5pXV9hYVBcaE5fdEleeUheewBbV09wZlqAdWWFemtxbGBmZ2JfZWpcaHFVY3NUYXQAW1ZKZ2BVfHBignlqdG5bdW9ak5SNiY2MX2dtV2NtAGBbT2VdUn14bJKOe6+lgqufeLu6sZmZlGRmZVpgZABdWExqYFSJh3qzsJ2/t5+aknmztauHhHd2dWxeX1oAX1ZJjoV0oZyHmJeFrKqdrqyffnVlbGNUZ2VYY2NaAGFWRXhqUVVWKC8xDEU9Ji8wHWVfSm5mVlhRRXJvYwBhVkViV0ZfV0VVUzZUSTg1Lh4+Nypza1V3bFuspJAAYVREZltKopyKmpJ7WVAzjoVtTEQiNywZXE5AZVlBAFtQP2JXRnRpWGNZRWZaTGthTE9FNE1CMUQ4KjAmG9mgeGPiRLSHAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Apr 01 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "typescript-a-beginners-guide-to-code-type-safety",
+      "slug": "introduction-to-spring",
       "locale": "en",
-      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
+      "title": "Introduction to Spring",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlV2PO6vCQBCF9x+Ldtb+B1HQQsHW2wgiNtoIYiNaiY8oJpg1PjfJ7uzMrlyWBEWnmjkfcziH2e/h43hTv8sTZid7A+0nMpLzQrgoc6/5/GCQGgBBamtt0BfLChc75RQABoPzC4y1FhUaypfs1ZBhur6nli8jXDcuu/aVj+OgJ6JJcpmm6+qVQc2jjo8JbVu388yx49/D69zDURL0BdNDrmPnBpCbgyACyhQXDRFlCmk3FM0AFapNDMKF/Sp2KO1XxS1JNNp5/PY2imyaZ37jfwknFvm9xdS4AAAAAElFTkSuQmCC",
+      "createdAt": "Mon Jun 29 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "locale": "en",
+      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVQYlWP4vjETD2L4eHbN943ZOKX//fv34f4ZnNLdzdUFKRHzCp2XlrlVRph1p9jOzHPsTLJqirXI9zdk2DGvdUml/9x852nZjk2xFnPznQ92BXcl2zTFWhQFGzG83tePy+QvG/MZvm/M3NrkPyPH6WW1193l7a8Pzzm5quf1jtYHhzce2rcTJL2swiPDW+/z+sw3p1a8ODjr+anVb/ZPvpHse2XXQpA0Gvq6POVlk9/X9ekgl2NKv6j0+rYqDeIxAGAQvR8GNpC0AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/working-with-files-in-java.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlU3NPUvDQADG8ft+fgAXNzdBUYPFglUEFREddGuIipuoiIsmpZRQNWrFBNrrccklJJfWKIRgTWJeLnWQtosP/+03PIBSCmG7XFqYmZ5anp/d26rcXJ5jBIvxwMH+ztHhbhAEPeq6jh2GoSw3BL4aRdGIN9dLcRwzxoiOiY4/Pe+j//748KRpWp4X4O215XleUfyaBonjJM2LSaIofg8ioLVGzNgQIaSqqmEYP2meZKxWq/t+ADCC3Q5Mk9z3gyRj44ZJxiRJGnyFQH15JrqR5sU/G7YhasoNomNwfXWBu2jyN2HLdgS+imHHtgjgOK6ytqIoCjbM5r18dnp8IvDdDnQdSm0LLC7NbW+sSne39ZqoKApC2CKm61Cv16eW+QeuNfYRsexxWwAAAABJRU5ErkJggg==",
+      "createdAt": "Thu Aug 11 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "working-with-files-in-java",
+      "locale": "en",
+      "title": "Working with Files in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working with files is something that entry-level programmers don\\u2019t get to do very often. It\\u2019s not the most exciting part of software development, but it\\u2019s an important one. The file system is the cornerstone of almost every program you use on your computer. Working with files in Java can seem a little counterintuitive at first. Once you understand what makes it different from other programming languages, it becomes much clearer.\nWorking with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new \"File\" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHn3+LX0vbr4/Hn37mwrODSybWOcqR7W6B3Wp92WQB9eXja1M+8trGSjovOxcHy5+Tk1c62j3OmfWCdd1sAwr67ioiGz8vI9vDr9+zp9Onm8ufk5tfRu5J1sINjALy6tpKOi9fT0MC8uYF9fJyXl/Tp6PPo5+bX0biQcgBLSUfGwr66uLTEwL2yrquinZyRjYzx6+jy5+Tg0csAm5mY+/jyo6GgoZ+ds6+sv7u3sq2tsq6r7+bl7OPhAOvn5Pr28fr286umpoaEg5yamaelo7Gsq6KdnJ2YmADt6+fj4t7p5eHr5+SUkpGXlZOEgoCbmZjNycXk4N0A/v35/f358e3p+/f019PQ8+/s8+/s8Ozo7enm6+fkANnZ1ebk4NLQzNvX09LOy9XRztvX0/Ds6Ovn5Ovn5CWm4v4zTD/ZAAAAAElFTkSuQmCC",
       "createdAt": "Tue Apr 20 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "the-best-coding-frameworks-for-developers",
       "locale": "en",
@@ -80,91 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-shortcuts-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoKAAoAAUAmJbACdLoAAwxQYNScYAAA/rdEfsT2847OjFeQUDf6OGy9xG2ttgkffZfXXbOtZfF8EohHOUtp6cucEgcYDYCR95gqNLx7fq7dqk9/7/5hXqT/yQwzXz5+MwAAAA==",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-game-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVQYlWNgY2Ph5GLn5eUWEOQTFOIXFhYUFOLnF+Dl4eFi52Rj4OHhEhTiVxcXC5aSDZWRh6BgKdlAcWkFIQEGAWF+UxO5UGPFlXLa81UNlslprZTThiAfOQUGfQNZcwvVLA/dlXLa3XZuEzz8pvkEb7RyuqKgG6ioxKChISOvJO+vqnFRQeeXksEVPYufSkb/FQ3/KxpGKSszWFsrOTtrVTsY/VM2+qtkuN7M9oG+9S8lA6i0nLyEnKJssqrGO0PbFR6+870CZodE7PQKeqllFq6oCHKaibF8honyX2X9P4oGf5UM/yiCtP5XNAyRlWXg4uUSlxDUFBeLlZaJkZWLllWIkpELk5IJEpeU5udnYGNj4+Lm4OHn4RfiExQRFBQRFBDm5xPg5eIFBQsA+AtD+GXbURwAAAAASUVORK5CYII=",
+      "createdAt": "Sun Apr 10 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-shortcuts-for-beginners",
+      "slug": "python-the-language-for-game-development",
       "locale": "en",
-      "title": "The Best Coding Shortcuts for Beginners",
+      "title": "Python - The Language for Game Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the beginning, coding can feel like solving puzzles with red-hot needles in your hands. Everything is new, nothing makes sense and you can\\u2019t even tell if you are on the right track or not. It feels like one confusing labyrinth with a lot of locked doors \\u2013 every time you find an unlocked door, it just leads to another locked door! How do we get out of this frustrating loop? Coding shortcuts!\nA lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn\\u2019t have time to invest in learning every last bit of it before they can start creating useful programs.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, there is a lot of demand for game developers. Gaming has become one of the most popular activities among people of all age groups.\nWith the growing popularity of mobile apps, games have become accessible to many people across the globe. As a result, there has been an increase in demand for game developers who can develop exciting games that users want to play again and again.\nIf you are interested in working as a game developer or aspiring to build your own video game one day, you need to know about Python \\u2014 the primary programming language for game development.\nThis article will introduce you to what Python is and how it can help you land your dream job as a game developer or build your own video game one day.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoKAAoAAUAmJQBOiyABToBbpqK4PMBgAP78Lt7h/eZxGaXJGPnmi7M+tbbQF19MOECJBf/suL78I+WG0j6/2J5xEBFa6GFsqDLdVZRYKDhekKvk/2bw2Qmd8nG6hsGrmCfB/NE/fw///ecbrIFAAA==",
-      "createdAt": "Sat Jan 16 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/building-a-hibernate-application.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlW2NMU7EMBBFzVG40db0XIViGzoaLoAoqBAUW7AS2gIUJUKyZKVIlCIpIke2J5HHY7MjIWJAW/DK+X/+E/wfKaUYIzMLpVTTNABwGl897Dc3z5e3T0JK2XUdANhfiOji/uNsW55fH4QxZp5nREwpMfPx88jML+/V3e7w+PomrLV5cBiGoiiUUrmX79/fp9YQAiJ6740xiCjGcSSinBGRtbau66qqyrKUUgoA0FqPK9M0AYBfMcZ47wUiNitt2/Z9vyxL3v9xxxidc1pr5xwAEFEI4U/3BVlMEkF7OcVmAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Nov 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
+      "slug": "building-a-hibernate-application",
       "locale": "en",
-      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
+      "title": "Building a Hibernate Application",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/object-oriented-programming-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
-      "createdAt": "Wed Apr 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-network-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAjklEQVQYlWP4ixcwkCb958/P6+8uffrxASr94tnxAzsjTx4pg/CnXW2deLl+x+N1UOk924IePdh28kjZwQPbd+/aOO96b+HxqKT9AcG9x5NnnGa4cLrt6P6MNYvV9uxZt2vnhu2PVteeSk/ZHxg39XThoosgu9+9vvz2zTWIaUee76w8mbz/6RayXE6aNADERApEBOEwgwAAAABJRU5ErkJggg==",
+      "createdAt": "Wed Feb 03 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "object-oriented-programming-in-java",
+      "slug": "go-language-for-network-programming",
       "locale": "en",
-      "title": "Object-Oriented Programming in Java",
+      "title": "Go Language for Network Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwAgCdASoKAAoAAUAmJZAC7Aaas8gK4yqw8AD++QEi+/LMTLvgpSTFf/3fBNd+H9emE06U5glnFifyXAdY4alYf2zf/4RLXiFm6B0uEOp4n0gz9b0uW2MCkMT04WOwO11WzA8qwK7ptqT868lcftItKcsL7sxuFoG856ahFuLZzf8Kbm3b+Ir/5OTP4NOc1tkECAAA",
-      "createdAt": "Fri Nov 20 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-beginners",
-      "locale": "en",
-      "title": "Go Language for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that there are over 5,000 programming languages in the world today? And of those, only a handful has gained widespread adoption. Newer and more obscure programming languages are being created every day. Indeed, it seems as though the market is oversaturated with them.\nBut Go stands apart from all other programming languages because of its simplicity and ease-of-use. It has been adopted by some of the biggest technology firms in the world \\u2013 Google, Digital Ocean, Intuit, Wordpress.com and Heroku \\u2013 for its ease of use, simple syntax and fast performance.\nEven though it\\u2019s one of the newer programming languages around today, Go is steadily growing in popularity among developers and businesses. In this article we will explore what makes this language so unique and why it\\u2019s worth learning for beginners .`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-an-overview.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAQCdASoKAAoAAUAmJQBOgBuIlBXQAOAbW8gXmC5g9wl3Wvo2UHO31Wf28e2cr/EvnX1detdi5b6Fy6UFZZf1Hr6zuBhv1D/fNfkdzwiRW37hn6E2lxsCefQnO8xt42vF3KZrDiqMOYZNibuAAA==",
-      "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "python-an-overview",
-      "locale": "en",
-      "title": "Python - An Overview",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-get-started-with-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
-      "createdAt": "Thu Jun 03 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-get-started-with-coding",
-      "locale": "en",
-      "title": "How to Get Started with Coding",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you\\u2019ve decided to learn a new programming language, but which one? There are literally thousands of programming languages in existence today. Some are general-purpose programming languages that can be used for a variety of applications. Others are more niche, focusing on becoming an expert in one particular domain.\nThat last category is where you might find yourself when looking for a new language for network programming. These are programming languages that have been designed with specific domains in mind, such as networking or computer telephony. You might think there isn\\u2019t much scope for differentiation between these specialist programming languages, but there\\u2019s plenty out there!\nIf you\\u2019re still struggling to decide which is the best Go Programming Language for Networking, don\\u2019t worry! We have created this short blog post with all the information you need to make an informed decision about your future studies! Read on to get acquainted with five of the most common network programming languages and their unique benefits:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

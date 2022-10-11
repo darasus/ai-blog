@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQAgCdASoKAAoAAUAmJbACdAYuvqyEfUoOAP70B050V8z/s1ZO/2/3CfPv6wHh9Hop5tkC0PgH3JSjRc9bDvOJT64AXqKUWu5/OHP88eL68+V1ozmP6HekVDpiVPCaXaTWuHcpMtEDYEgtl8J4pmWMuvVWKJ/9UzhY/r+CPkob/oZfe+hkP/90X0vVL/IobLfp/4nfdHTelvtsiOsqAu4AAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMWvS8W2oNfZ3eLm6dvf4tre4dnd4t/j5tXZ39zg5ADvtQXkowXWvBbItFnDu6vZ3eDg5OfS1tnZ3eDU2N0AvYEEqIQF0ekfq/U6xOw9sb8/uq9lvbGnz9DU2d3gAPybCv77AqfWJEqVM3ajN4O0Pa/JJfftAdC7F76lXAD6ngn++wLf8xTK8CHf8SLc8ibi7Bf8/ALV0ANeTAUAzPs8vPpN0/MrO+itFt7GcO+C5l17/ViU66M7PjcDAJC6N2eePrvnNy3Clgixql/TdcQqdZQXX+GxJ002CQDD90TX9irq9xjC9Tuw4j3e9SH40hv5szL96RHKtAUAQfa529QVn6ZE3OMo6coF474Ll38V+O4Z/PsGkYoEANjwIv77BPPjBKeZJ4aHTqOcEfHrBffbA/36A9vTBDx7tp9u6jjJAAAAAElFTkSuQmCC",
   "createdAt": "2020-04-28T21:55:43.640Z",
-  "updatedAt": "2022-10-02T10:43:47.228Z",
+  "updatedAt": "2022-10-11T17:15:02.085Z",
   "categoryLocal": "coding",
   "slug": "the-best-coding-languages-to-learn",
   "locale": "en",
@@ -20,70 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoKAAoAAUAmJbACdAYtzvhNE5uAAP72feDNZ37/rYyWiUQ9Ut8036mNruW2Q/+u4kK2YR2s7nL1ILqxWv9NzQ+/A/4d3M/9n/1mwxQCAv/9PKgkn/+zu/0UPosv/Y5M/k06cAAA",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-video-processing.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOTf4/z7/PTx8trT1dDGy9XIz9jHz+3X4OnQ2+PK1QCOiI++trt/dX1aUFg4LjQoICUyKy9NRUppXWF/cHgAX01aMyctf0dB2m9cKSIkQTU5b1tmYU1YT0BKIR8fAEg6PzgqLaKIjIxtcSQfIVFASHJcaGhUX2tXYhEREQCjj5iSgYn78vLY09UpIiRaSVFwWmZmUl5lU14ICAgAk36OgG1/nIiR08bDU0VHMSosLyUpKCAlLCUoCQkJAHJfb11OWj0yPbKaormhpZiGindnakw7Q0ImKTEoKQBMPkxWR1M4LjZWR1HVu8D94+X94+X63uPky8/LtLcATkBOJiEnHhkbRTw9wquu+t7g/ePl/ODj993h8trgAGdcXaqXm+PQ1Prn7P7r7f3o6/3j5/vf5PXb3/DY3pIumAg4Ox+kAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Jun 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-database-programming",
+      "slug": "go-language-for-video-processing",
       "locale": "en",
-      "title": "Go Language for Database Programming",
+      "title": "Go Language for Video Processing",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/object-oriented-programming-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoKAAoAAUAmJbACdLoAAwjl4YOa1QAA/vlB/7Z8XwTfM3x2h/FMd/scyAa5bRsRc+Zfow36OH9WWHwupfKOfULIdFeFrUbF0chOrbP2DT15bNYRuY0r/eYlEwuX/zu08XS3OE2/jFbkp/8HJJ8ysgySAAA=",
-      "createdAt": "Wed Apr 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-code-faster.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlQXB3UrCUAAA4PM0EZmMdIiKWiO01DnP1NHm5jZn/junR9l0tpZKFmhqFwlBdFd0kSYVVG/X94HlYjKfXxtGwzCqltU2e0jJ87LEls5FKnEC3tdvv3/fd7PJ89Nqs379/Nq0tOrD6n6xnM7nM1BQhLzMVSsKn00JQlrgGRpGIXUaCRNpOgGGI+vC1Hv9rpQ766Jms1GxBkYXNelkPCdyQOCZ7XbTbtWYDCVLbEERRSlLwpiI6iSbAkkYVetlQ0ccS1tWv1YtQprMIVX/+ci/PIJiIVcqK+ZAv7kdL5bTTldLwngo5D8iAl4fDsKRQ9RpymI2w8BImIBU7JgIBvweJgPJWAQkqGgbqZe2iVDLti1NU1kuMxzZo/FVKpUAXh8eDPrcOHbgcrpxDMMc+85dN455PK49x84/FRF1e2Tbby0AAAAASUVORK5CYII=",
+      "createdAt": "Sun Mar 01 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "object-oriented-programming-in-java",
+      "slug": "how-to-code-faster",
       "locale": "en",
-      "title": "Object-Oriented Programming in Java",
+      "title": "How to Code Faster",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/spring-mvc-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAEPALwdsYAA/v7GUZ5PlhJIBneoTV65URORmalMuDcdtHSSKoz4hxaAFL6i138Vg2XlfrW/GGmm1vqapr57Dduz2d6EdwAA",
-      "createdAt": "Thu Aug 06 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-a-language-for-the-masses.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJhxE554HKF7Jq+HK7CHMa+FNK+GLamBKJ12IZRuFwCeeRiqkxW6nx23kzDEoy+9lTe/oSW5ky6shyigfhwAoXwgpJYNinsSqZ8Oo5oQvKogpp0Ml48Ns6sKoJsHAKuLHZt8J6qIMauPNJWBKMyoR6CILpt8MpBxKYJkHwCFfQmmmhGpmhaypRXEtxqklRutoRiqmhmonRGtowwAlHEdjnoWgXAYmIcbno4fpYo0n4glinMijHcXgW0UAKF8IKyELbONMb6aN8yiRdGlS8qfR7+UP7SJM6N6JgCcdBuZeCHPywaahh2xmSLIpjLClz+3jjqshC2ddiEAmnIUn4AZk30VlYYOgXAWqo4mt400rYUsoHolmHIbAJVuDohoEZVxG6R+IqmAKquCLKmAKqN7IphyG49sFGj3g1duABCQAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 19 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "spring-mvc-applications",
+      "slug": "python-a-language-for-the-masses",
       "locale": "en",
-      "title": "Spring Mvc Applications",
+      "title": "Python - A Language for the Masses",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAADQAgCdASoKAAoAAUAmJZAC7DKACOm8hKV/xHMGfQAAAP70F0j5K9PZywqLVH/6Z62U13hNF/n+f/31GVVJEC2eMvbP+6bA/lfoXjXSWWzeRb/YX8x122xEAr91WJU5/mPGbEGHGf/nTHRm7XWs2atm/5IPf+9+H9f876Ys/3Sn/r/mUf/S3Hi4W5wAAAAA",
-      "createdAt": "Thu May 20 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-database-administration.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABF0lEQVQYlWP4Cwb/wADO3nFte+++vhsvbzDcvHnzwIEDf37/gcj9/ft3wpEJHA2sHK3s3M3cDBcuXFiwYMGuXbu+f/8OkTZdYOy31S9wZ5D2Mm2Gf//+vXjxYsGCBbNmzTp9+vSzz0/1l+iqr1Q33mSstFyeAW7fiRMnGhoa9u7d+/jzE68tHvJL5UuOlYB0P72x4tLu9MfXl3/8+LG7u3vVqlUfPnyAOJbh1e05l9cKXlsvdmEl371jWY8fP16+bPnixYtv3rz59+9fhtenfT9dCP58LfXj5aSXp3wgFp0+fbq1tfX8+fMM3+7Wfj+t+fOcyffTul/vVMED4Pz58yDD//75+utuzu9zen/u5Pz98xUeRBC7AcIS5IulEQdbAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Aug 10 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-artificial-intelligence",
+      "slug": "go-language-for-database-administration",
       "locale": "en",
-      "title": "Go Language for Artificial Intelligence",
+      "title": "Go Language for Database Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/5-tricks-to-help-you-master-javascript-in-5-minutes.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlWP4s4cVK/q7l+3PHlYGCGdHJ/ucMtYt7ewLK9kXV7GtbWR/sgokDpL+u5ft0QrWXT2shyeyH5zIdnAi24XZLK/Ws4Ck9/WxtaSwdWeyr6pjX1DOsbOLbWo+24JyjuU1bEur2RlermM9OJHt8ETW0zNYj09jfbqG/cxMtsMT2be0s5+axsYAccLhiaz1CexrG9m7Mzi3tLOvauBA2P1nD+ur9Wx7etmPTgaRZ2aynZvN9nQNO9juQ2GVa7rWbfP9u5ft716Obwed/+znhhg5eZ85w5Kd2f4TV/SvSPi6ne3LAb2zLRXvtuh83c72fSdrV1cww9e9ModXRn/eJQOx5cksjpdbeSC+rd3jBAAYjpgxm2fqBQAAAABJRU5ErkJggg==",
+      "createdAt": "Fri May 27 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "5-tricks-to-help-you-master-javascript-in-5-minutes",
+      "locale": "en",
+      "title": "5 Tricks to Help You Master JavaScript in 5 Minutes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve just started learning programming or are struggling to get a grasp of it, Javascript can be one tough nut to crack. This dynamic and functional programming language is used for creating interactive websites and applications.\nThe scope of Javascript has grown exponentially in the last couple of years due to its widespread use for designing interactive websites and developing mobile apps. In addition to that, it\\u2019s also a great first programming language because of its simplicity, accessibility, and ease of availability online.\nBut like any other skill or piece of knowledge, mastering it requires practice and perseverance. If you find yourself struggling with this programming language, read on for our 5 Tricks To Help You Master Javascript In 5 Minutes.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/java-performance-tuning.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAAUAmJZwAAtz3rfjdLwAA/v6dM05IFepKi7X/x4knyAZnqwGOQh0nzPDP2sC1dLjiTKngd9jCZTF9gtUAAAA=",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAv0lEQVQYlU2PX6uDMAzF/f6fS4TiHwo+9OF6ubhN192G2q2uOpYDo6uy5SnJLzknyQA456ZpIqK+740xWmsiwjsyAF3XCSHqulZKNU1TVVWe5x/M/MBy5nDCcsb6n8COLTEZ9jeESxxNZeoAmRCiKIr5dOTQA6DuR0pZluWqx882whyVAVzdpjceYCl6p3jeBl6XlLMlPQ5t2+7YUjS7uuhtifVwJ+O937D9+5VSKqX88bAtzP5LPITt4F0/PfYC2iwZPG61FKYAAAAASUVORK5CYII=",
       "createdAt": "Mon Mar 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "java-performance-tuning",
       "locale": "en",
@@ -95,76 +110,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAgCdASoKAAoAAUAmJbACdLoB+AADJQkOHcAAAP71wKC4s74r7Wz3tUCV4FgAhxcoxzTuR+IAyArw4hoX/2Fmz/4wjxtdZkpyNf+cTvkjHCUW8En8AwAA",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-data-science.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAv0lEQVQYlWP4+/c3HsTwFwRwSf9l+Pv39/vPX1YduLDh6KW/f3//+f1n9aGLqw5cOHn9AVT61I2HfvULHcpmXLz3dNvpG+Z5U0xyJiX2rIQafvX+c+/q+d41c999+nzp/jNu/1r1pO7iWVtAup++/vDr168v3378/fv71YfPX7//3H/xLthBIMCw5cS1SRuPTN50dMmesysOXtp97taKg5fm7zyz/MC5CeuOgOzGij58/frx23ec0mj+hgB0fwMAlUQIs2OCoGAAAAAASUVORK5CYII=",
+      "createdAt": "Wed May 05 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-a-language-for-everyone",
+      "slug": "go-language-for-data-science",
       "locale": "en",
-      "title": "Python - A Language for Everyone",
+      "title": "Go Language for Data Science",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJbACdLoB+AADIQXQO+QAAP71TCe78PlA5Y4mNVV3jgvsf8+dADp76xq/9pRIby7zmFbFGmrw1MqjkU/lJbnjx8vOlqez/+Q8UwjQMhZEMYFDR76A//ET9Bzuwv2ikbiIzTQAAAA=",
-      "createdAt": "Wed Sep 29 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-code-better.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlT3JTU+CYAAA4PcvZx1aB1Jnha6adXJu5gdiKklphLicaymioAzcCETQTcM3P0qJakmX1qXtuT0gFIk+cKxqaP/6Q10fDfpDvS60wB6KMrXyxnXGEyN8dnxyGsQzybZQ37iOZqpgx+9n7u82rjNfPDOVEkWTUo+34OjbXavGE9j2+W5pUuiwxRKBpeMUTQZDB4GAF88klYECPN79InVlLYZdkRM67GOjyktsV+QsaP71FoIUirnOrIkpqYpOt81GUokLkNv8rAxDBh4EIa7TU8fozfjJ0hAgpy1lecSjwUAufAiIeESskpZtirClTEXBaqoLSZtLn19zkckCuRSjU+cDmV2toe3A948X24Er23p7HfO1G9C/x6LobpnK5Qt4voBfEhieTWCZi1gi4j/y/QLvyOLcswKshAAAAABJRU5ErkJggg==",
+      "createdAt": "Thu Mar 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-artificial-intelligence",
+      "slug": "how-to-code-better",
       "locale": "en",
-      "title": "Python - The Language for Artificial Intelligence",
+      "title": "How to Code Better",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKAAoAAUAmJQBOgCB/6+zYZOAA/v4HO1IjZAB6f22LalmwDwG0u8aYoeHhlTuPctTPayRorl/eglW1JATuvW42ItSMgrISwj+27NnxReD+D6XpeOve+AAA",
-      "createdAt": "Fri May 29 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWN49+LPuxd/Pr36+/nd3y/v/3x5/+fzu7+fXv2FiDN8ePLs68P93x8fBKEn+6Ho8cFvjw69e/GV4euD43/2Cv87LPHvsNTfkwb/Tlv8OywFQd/urWX49vDYv30iVxeLvtku/veU6b/L4XDp7w/WMHx/fPT6Qv7SaN6ubMGGFKHSeLmOTP4l9YKTC/l/PFwNkv66U/jELOEDk4U+HrH/fD79/cmQ18fj3x10vH9qGshwsN0g01bPSD548OCdO3euXLnS35G9cPlKhs8v3/24M/fXw3m/H82dMbFq9uzZmzdvnjNnzpQJHQ9uPWb48OLP5zd/vn78/f3Lnw9vP796/vbls3cvnrx/+fQL2N8v/oDQm98f3/75/O7353cgBjxYAASj4xTZRqDkAAAAAElFTkSuQmCC",
+      "createdAt": "Tue Jun 09 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "introducing-javafx",
+      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
       "locale": "en",
-      "title": "Introducing Javafx",
+      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/learn-javascript-the-right-way-10-steps-to-mastering-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAgCdASoKAAoAAUAmJbACdLoAfgoDMSwW+KK+AAD+9WJmHYRzNDzVn+pImJIsG9AcT9yZLM/b6dMvtWfUSM1p1+rOgSvjjhrT7O0lVyvZn/3V/hw/d+P+cBAvf/g3nJx/+nejn8lf/AboXjfA7om6J7/AAA==",
-      "createdAt": "Tue Mar 22 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-machine-learning.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABGElEQVQYlWP4CwNvvn778uMnnPvv37+/f/8y/Pv37/iDNwb9e5nK1rFXbohbcfrDN4QihkfvvgrUbWEqWwdHwQuPI6Sb9lyTbdmWsOpM5NKToYtPRi0/xVS27tH7zztuPL/47D1D9vrzkUtPSjZvLdh0IXv9+ez1F5nLN5x5/NZ00r6cDRcY5p9+wFG1cdKROwWbLhhP2GcxeT9/zaYvP35+/fnr158/DD9//7Gbfki4bjNz+QaI3TOO30PY/e/fv68/f/UdvOk//1js8tN7br2Ey4GkLz3/cPvNl1uvP997+/n+uy83X328+/rTrdefb73+/O/fP4YLTz+svfzs5KN3i88+XHLu0a3Xn3fffrnk3KM1F58CpQHvg+TaL8rU6AAAAABJRU5ErkJggg==",
+      "createdAt": "Sun Jan 16 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "learn-javascript-the-right-way-10-steps-to-mastering-javascript",
+      "slug": "go-language-for-machine-learning",
       "locale": "en",
-      "title": "Learn JavaScript the Right Way: 10 Steps to Mastering JavaScript",
+      "title": "Go Language for Machine Learning",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that Javascript is the most popular programming language in the world? Did you also know that it\\u2019s one of the easiest programming languages to learn? That means more and more people are picking up this skill at lightning speed. It makes sense, considering how in-demand coding skills are right now. And with so many introductory resources available, why not pick up this skill sooner rather than later? After all, there\\u2019s no time like the present to take your career to new heights.\nWith that in mind, we\\u2019re here to help you master this useful code. We understand that everyone comes from different backgrounds, which is why we\\u2019ve broken this guide down into easy-to-digest sections. If you\\u2019re ready to take your coding skills to the next level, read on for our tips and tricks on how you can learn Javascript.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-scientific-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoKAAoAAUAmJbACdLoAEI8Xp/+qfvNvgAD+8oP+utdEpHOXOEl7xbndPVbtqLKeacDJkgaz0HvzwZyZ4vclUMCf/q75jkfFtjb0Zv900vU70CiVAdWT0Taddm4y470E//t7Xed0hYoa1//PW80PY2/rchmg39XUaAoTBoAA",
-      "createdAt": "Fri Jul 22 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-scientific-computing",
-      "locale": "en",
-      "title": "Go Language for Scientific Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of data science is populated with seemingly endless streams of new tools and software solutions. Whether you\\u2019re a beginner or an advanced data scientist, this abundance of options can feel somewhat overwhelming.\nLuckily, some of these tools have become so popular that you won\\u2019t have to spend too much time searching for them. The growing popularity of machine learning has led to the emergence of several programming languages specifically designed to aid ML engineers and analysts in their day-to-day activities.\nTo help you choose the right tool for your needs, we will introduce you to five Go alternatives for machine learning that you may want to consider if you\\u2019re working on a project involving one or more of the following scenarios:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

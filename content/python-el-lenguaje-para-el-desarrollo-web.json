@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/python-the-language-for-web-development.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoKAAoAAUAmJbACdAEfbjEcZnoAAP7+RRpOxohNKxG9xyYQeGDRszqwYoWJj9wYKWaroL3rhtO2NC3jzOr3/KeUVfcQ3/F+H8KmGHaX/8W+kf0ce4Om1MLQAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlWP4ixcw/IMB7NIPrhadPLrk9rXFcBVXThbdvlj3/fv3O+ejGa6caVyzetHLi4IP7+2GSD99uO/ROZ7ThytunbJj2LZty8EDW5+cl7t/Zy1E+uzZs+eOt768xHL9bB3Dzg0xR7a5Xj+d+fPnT4j09evX37179+AMx92T6gxPHp68ffv2gwcP4M55+fLlvn37Xl5ieniri+HYkU3Hjh07evTozZs3v4LB69evr1y5dOus/60rSxjQfILmQ5A0Lk8DpQFXjgZAq0HRrQAAAABJRU5ErkJggg==",
   "createdAt": "2021-04-13T16:20:42.383Z",
-  "updatedAt": "2022-10-02T10:55:29.474Z",
+  "updatedAt": "2022-10-11T17:15:29.726Z",
   "slug": "python-el-lenguaje-para-el-desarrollo-web",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,10 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
+      "imageSrc": "/articles/java-performance-tuning.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAv0lEQVQYlU2PX6uDMAzF/f6fS4TiHwo+9OF6ubhN192G2q2uOpYDo6uy5SnJLzknyQA456ZpIqK+740xWmsiwjsyAF3XCSHqulZKNU1TVVWe5x/M/MBy5nDCcsb6n8COLTEZ9jeESxxNZeoAmRCiKIr5dOTQA6DuR0pZluWqx882whyVAVzdpjceYCl6p3jeBl6XlLMlPQ5t2+7YUjS7uuhtifVwJ+O937D9+5VSKqX88bAtzP5LPITt4F0/PfYC2iwZPG61FKYAAAAASUVORK5CYII=",
+      "createdAt": "Mon Mar 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ajuste Del Rendimiento De Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-top-software-engineering-journals.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AAEBAQQCAgkDAxYKEFE/Q35/eFBRTiQLFhECBQsCAwADAwMzMS1+eHPGxcGwhXbm/P7j+v3i9fzV5u7E1d0AnXxlydLRz+Hk0uLjoG9Z2vD2vdLbwNPcwdTduc/WAIROMrjDxKy7v6CusIhRNtfp7LzQ1bPGza3CyaC1vgB2amCzkn2tvbzAzsuQXkTV2NDU5eK9z8+hsrjE1dsAeIWFl1tCwc/NwM7JhVtFwbOjlaOgk6OkjZ2hkqOoAKi6uXpMN5+el42Zl3tWR8KokbvMxMDOy7rIyLPCxACElJNXVVGne2Sas6h5ZFe9lHm7ysO5x8S0wsKxvr4AenVuip+dez4qnbKteW5ps3xhsL65rry6q7m5qrW2AH5OQZKnp148Lp6ZknVzb6JiSqCwrZ+trZypq5mnqZ3/r3pS1KhzAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Aug 19 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "las-mejores-revistas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Revistas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software deben mantenerse constantemente actualizados con nuevas investigaciones, tendencias y t\\xE9cnicas en su campo. La forma m\\xE1s com\\xFAn para que los ingenieros de software hagan esto es leyendo art\\xEDculos de investigaci\\xF3n publicados en revistas. Estas revistas se encuentran casi exclusivamente en l\\xEDnea. Muchos de ellos est\\xE1n disponibles de forma gratuita, pero algunos est\\xE1n detr\\xE1s de muros de pago para los no suscriptores. Afortunadamente, no necesita suscribirse a todas y cada una de estas revistas si es ingeniero de software, solo las que publican art\\xEDculos relacionados con sus intereses espec\\xEDficos y objetivos profesionales como ingeniero de software.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre las principales revistas de ingenier\\xEDa de software para que pueda elegir cu\\xE1les lo ayudar\\xE1n a sobresalir como ingeniero de software!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/learn-javascript-in-a-day-the-ultimate-basics-guide-to-javascript-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlWP4e9kXD2KAsz6e8vpzyWfrDOvGPD0s0l6OShMqjVuL9J8f8qhI19091w5delW/hYuVwvn1jl6OCmdWO6BIu9kq/L3se2mDs6OVfHGydlO+PkI6K1qzt9Lg2HL7oiSdpnz9dydA7kBI/74AIjdMtry+1RnF5Xd3ur095nlxnePzQx7PD3lcXOf49pjnq0Oer4943N7uwrCs23RancHiLrPJVQZTaw2X95itn2Qxrc5oRqPRuokWUMP/XPK5v8ftzi63O7s87u/xeHzAA2I4ALYdsKUaAO89AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Jan 19 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "aprenda-javascript-en-un-dia-la-guia-basica-definitiva-para-la-programacion-de-javascript",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aprenda JavaScript En Un Día: La Guía Básica Definitiva Para La Programación De JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1s interesado en seguir una carrera en programaci\\xF3n? \\xBFUtiliza con frecuencia Internet, lee art\\xEDculos en l\\xEDnea y se mantiene al d\\xEDa con las nuevas tendencias tecnol\\xF3gicas? Si es as\\xED, es posible que desee considerar aprender a codificar.\nLa programaci\\xF3n es una habilidad \\xFAtil que se puede aplicar a casi cualquier campo o industria. Ya sea que te interese hacer videojuegos, desarrollar sitios web o ser un programador de inteligencia artificial, saber programar puede abrirte muchas puertas para tu futura carrera.\nHemos creado esta gu\\xEDa definitiva sobre la programaci\\xF3n de JavaScript como una introducci\\xF3n a la codificaci\\xF3n y para que pueda comenzar con esta emocionante y desafiante profesi\\xF3n. Desde principios b\\xE1sicos y reglas de sintaxis hasta temas intermedios y conceptos avanzados, cubrimos todo sobre la programaci\\xF3n JS que lo ayudar\\xE1 a sobresalir en ella.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APuxIPy2Jfy6L/29Mf28KvvDNP3ISPzQX/3KQv7GMQD7sSL8tiXCrXvv6t7l493R1NPj5eS2trb413n8xzEA+K0g/LYlwKBb6enpnZ+go6OjlpaWkpKS++CX/MczAPGlHfqxJMacROnn5srMzs/Pz7u7u8zMzPzqsPzHMwDjmBbvph/Jkyrj4tzKzM6ytLO9vb2jo6Pi1Ln8yDoA1ooQ3ZEVz40d0c7Itbe5r7Kxzs7O0dTT4trW+cU8ANSFDs+CDceKQbGnne3e2M66vNZITbt5e93d3fzHPADThA3IgiHPmXmnhGvz5N7S0NDosbPw3d/o6uz7zVIAyHkHvX024cCg7cur7d7Y8N/M8Naz8NKf7M6N+8lMAL5wBLFoFMqphvnfv+iSFO6YGPamHfy5J/zALvzBMWOdy9TPxek7AAAAAElFTkSuQmCC",
+      "createdAt": "Fri Sep 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "como-leer-codigo-como-un-profesional",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Leer Código Como Un Profesional",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La forma en que entienda el c\\xF3digo hoy determinar\\xE1 la velocidad con la que podr\\xE1 leer y comprender el c\\xF3digo ma\\xF1ana. Despu\\xE9s de todo, nadie nace siendo un experto en codificaci\\xF3n; esa designaci\\xF3n es algo que debe ganar desafi\\xE1ndose constantemente a s\\xED mismo para mejorar sus habilidades. Sin embargo, leer y comprender el c\\xF3digo no siempre es f\\xE1cil, especialmente cuando est\\xE1 escrito en un idioma extranjero o tiene ciertos matices que est\\xE1n m\\xE1s all\\xE1 de su comprensi\\xF3n actual.\nLeer c\\xF3digo como un experto significa m\\xE1s que saber qu\\xE9 significan las palabras y su significado general. Tambi\\xE9n significa poder profundizar en la sintaxis de c\\xF3mo se juntan esas palabras para que puedas entender lo que significan en contexto e intenci\\xF3n. \\xA1Sigue leyendo para descubrir algunos consejos para leer c\\xF3digo como un profesional!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/go-language-for-mobile-development.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABBklEQVQYlWP4BwJ//uEADK2tre4w4OHhsWzV2tBpV1x6L0EQg7u7e0pKSioMOAYmOHVdTFpwA4IY6uvrb7/82rj5/vZLr//9+xeSUrz85EuE4fX19bnLbn/58btk1R249NmHH6fuf/r47XeQ9NT9T1s2P1hx6sWzDz9CUooXHXueuuDW688/sxbfBknnL7t78Oa71AW3pux7EpJSPP/os+ylt379+ZO99BZI+suP35vOvzn/8OPP338ghu++8q5j68Nrzz4zGBsba2pqpqamOjk5aWpqWntHSRUfV68+U7PhnmrVaYaVK1cWFBT09fVVVVUVFhYeO3GyZfOD4hV35xx8XrLyHgD3fcUE7xu/ZAAAAABJRU5ErkJggg==",
+      "createdAt": "Sat Jan 18 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-lenguaje-para-desarrollo-movil",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Lenguaje Para Desarrollo Móvil",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, los dispositivos m\\xF3viles se han convertido en parte de nuestra vida diaria. La mayor\\xEDa de las personas usan sus tel\\xE9fonos para llamar, enviar mensajes de texto o navegar por Internet. El mundo ha pasado de los tel\\xE9fonos b\\xE1sicos a los tel\\xE9fonos inteligentes, que son m\\xE1s que simples tel\\xE9fonos m\\xF3viles. Los tel\\xE9fonos inteligentes vienen con aplicaciones preinstaladas, como c\\xE1maras, reproductores de video y servicios de mensajer\\xEDa. Adem\\xE1s, tambi\\xE9n admiten aplicaciones de terceros, como servicios de transmisi\\xF3n de m\\xFAsica y juegos. Los usuarios m\\xF3viles de hoy esperan que sus dispositivos sean m\\xE1s que simples herramientas de comunicaci\\xF3n; quieren que sean una extensi\\xF3n de su estilo de vida digital. Por lo tanto, los desarrolladores deben crear aplicaciones que aprovechen el tama\\xF1o de pantalla m\\xE1s peque\\xF1o y aceleren los tiempos de carga almacenando datos localmente cuando sea posible. Hay muchos lenguajes de programaci\\xF3n diferentes que se utilizan para hacer aplicaciones m\\xF3viles; sin embargo, cubriremos cuatro de los m\\xE1s utilizados:\nLas empresas de desarrollo de software generalmente tienen un conjunto est\\xE1ndar de lenguajes de programaci\\xF3n con los que prefieren trabajar. Cuando se trata del desarrollo de aplicaciones m\\xF3viles, es posible que un idioma supere al resto en funci\\xF3n de su popularidad entre los desarrolladores, as\\xED como de otros factores, como la demanda laboral de ese idioma espec\\xEDfico. Siga leyendo para conocer algunos de los lenguajes de programaci\\xF3n m\\xE1s comunes para desarrollar aplicaciones m\\xF3viles:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
       "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoKAAoAAUAmJbACdAEVvO3VPX/jgAD+67mfQ/7DJzPhSozJoB/GQMvSf4NM/hwPx9gRsCaBqZyfD/SQdNrQ033xvLmv1YtIuc/Ao7v3MsYk7K9/FEdhaPG3/pLqhP118OMuQSva9nrHuJGj+tLL9f/g39rAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
       "createdAt": "Sat Nov 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "slug": "los-mejores-consejos-de-codificacion-para-principiantes",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -35,136 +110,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-data-mining.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoKAAoAAUAmJbACdAYsjknWYpwOQAD+/deyzS2K/EyLn/8G99fTjtto9bRD4b7+2Q6p6FVugk9kWa3p2Oukof86AUfQFzOBAftIWLfx4gJj1mT8S99yMb90B/iAvMSpfG1Zn0C9eq/PdPfsn0e2yPNRf4N/+me8cAAAAA==",
-      "createdAt": "Wed Mar 03 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-para-la-mineria-de-datos",
+      "imageSrc": "/articles/the-benefits-of-a-software-engineering-career.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM7n9ZDO9fHz9PDw8Orq6OXm4+Tl4uTk5LOzs5mVlADZ7f2f1Pn5+/z6+vrz8/Pa4+fo6OjGxsSyhm63lIAAx+L0y+Dr9fn6j87vp9fw8fHx6urqp5qTw5V7wZN8APn7/P7+/s7m7MPk9tHq+Lva4t3d3XBXScOLd92qkgAwibI0i7I4jbI5jrQviLHk7e6hlpAzKiapdlyic1MAa6vHcrDJY6fFa6vFTJm619nZRzgxenV3rntYtqSfAPb6/f7+/s/n7d7x+sLg64CCg0c8OX2Gk7Ktr6euugDv9/7+/v7x9/puwOuAwONTRj+Ni47O1d7T2OHc4ukAyOb8jcn7+Pr75evwxMbIOCsntLrDwsrSydHZ2+DoANvt+ZHK9PLy8uLi4qmhnSAYFHmAi4GLmIaPnLG6xysq2jnTedh6AAAAAElFTkSuQmCC",
+      "createdAt": "Sun Aug 02 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-beneficios-de-una-carrera-de-ingenieria-de-software",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para La Minería De Datos",
+      "title": "Los Beneficios De Una Carrera De Ingeniería De Software",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python es un lenguaje extremadamente vers\\xE1til y sus aplicaciones van desde el desarrollo web hasta el aprendizaje autom\\xE1tico. Lo que hace que Python sea tan bueno es que es muy adaptable: puede usarlo para casi cualquier prop\\xF3sito. Echemos un vistazo a algunas de las razones por las que deber\\xEDa considerar usar Python para la miner\\xEDa de datos.\nCon el creciente volumen de datos en el mundo, encontrar ideas y descubrir nuevos conocimientos a partir de los datos se ha convertido en un desaf\\xEDo. Pero gracias a las tecnolog\\xEDas de punta como la Inteligencia Artificial, el Procesamiento del Lenguaje Natural y el Aprendizaje Autom\\xE1tico, este proceso se ha vuelto mucho m\\xE1s f\\xE1cil de manejar con Python como una de las principales herramientas utilizadas para tales prop\\xF3sitos. Con esta publicaci\\xF3n de blog, aprender\\xE1 por qu\\xE9 Python es el mejor lenguaje de programaci\\xF3n para tareas de miner\\xEDa de datos, c\\xF3mo puede comenzar con \\xE9l y ver algunos ejemplos de uso, as\\xED como respuestas a preguntas frecuentes sobre este tema.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software son responsables de desarrollar software nuevo o corregir el c\\xF3digo existente para asegurarse de que satisfaga las necesidades del usuario y funcione como se espera. Usan el pensamiento l\\xF3gico, habilidades para resolver problemas y una variedad de principios t\\xE9cnicos cuando crean y prueban aplicaciones de software. Como ingeniero de software, podr\\xEDa tener la oportunidad de trabajar en proyectos que resuelven problemas desafiantes. Esta carrera puede ayudarlo a adquirir nuevas habilidades, avanzar en su carrera y construir un futuro m\\xE1s estable para usted. Echemos un vistazo m\\xE1s de cerca a por qu\\xE9 deber\\xEDa considerar hacer una carrera en ingenier\\xEDa de software si est\\xE1 interesado en la inform\\xE1tica u otro campo STEM.\nLos ingenieros de software tienen algunos de los trabajos m\\xE1s din\\xE1micos en la actualidad porque la tecnolog\\xEDa est\\xE1 cambiando muy r\\xE1pidamente. Pero, \\xBFqu\\xE9 significa exactamente ser ingeniero? Bueno, un ingeniero es alguien que combina la ciencia con el pensamiento l\\xF3gico y la creatividad para producir nuevas ideas o innovaciones \\xFAtiles que satisfagan las necesidades y los desaf\\xEDos humanos.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoKAAoAAUAmJYwCdAYtVn1WFUjqtzgAAP748R2Z50O96l8zgYWfO3/ZqYBbcDB9UqcEJPo6f/TYe6ecgxjVyBp2Bl2/XxD+CcZ6631jBIPY7KOjqdSWZak5gz6MPQy/PvkJKg4/tXFe3EjG0AA=",
-      "createdAt": "Sat Sep 18 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-usar-fragmentos-de-codigo-de-manera-efectiva",
+      "imageSrc": "/articles/go-language-for-web-scraping.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAp0lEQVQYlWP4ixcw/H3Y8uduGQjdK0FGv+8W/r5byPDnuDAexFAaw7l/Gt+fo0KY6OB0XoaNXVyzK7lqkzm6cjmr4jmmFHNVJ3BB2LXJHAy5YeyTCriq4tmyg9lLY9i7czgrYjjqkzjKYjnmV3Mx/DnM/ecw9/wajm19nH8O86IiboY/B7n+HOT6dQiEIErh6NchLoZ3D7a+vb3wza0FYDQPDTHgDxYA4qLC1Y7NxRUAAAAASUVORK5CYII=",
+      "createdAt": "Thu Dec 24 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-idioma-para-web-scraping",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Cómo Usar Fragmentos De Código De Manera Efectiva",
+      "title": "Ir Idioma Para Web Scraping",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tener acceso a miles de fragmentos de c\\xF3digo en l\\xEDnea es un arma de doble filo. Por un lado, facilitan la inserci\\xF3n de c\\xF3digo de uso com\\xFAn en su documento. Por otro lado, es tan f\\xE1cil simplemente insertarlos que la mayor\\xEDa de las personas no se tomar\\xE1n el tiempo para entender c\\xF3mo funcionan. Despu\\xE9s de todo, \\xBFpor qu\\xE9 pasar 15 minutos aprendiendo algo cuando puedes simplemente copiarlo y pegarlo? Sin embargo, el uso efectivo de fragmentos de c\\xF3digo es importante si desea ahorrar tiempo y esfuerzo a largo plazo.\nHay muchos beneficios que vienen con el uso efectivo de fragmentos de c\\xF3digo. Por ejemplo, pueden ayudarlo a reducir la cantidad de tiempo dedicado a tareas repetitivas. Tambi\\xE9n aprender\\xE1 nueva informaci\\xF3n sobre diferentes t\\xE9cnicas de programaci\\xF3n mientras reduce sus posibilidades de cometer un error com\\xFAn. Siga leyendo para aprender c\\xF3mo puede usar fragmentos de c\\xF3digo de manera efectiva.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, a medida que las empresas enfrentan una presi\\xF3n cada vez mayor para digitalizar los procesos y extraer valor de los datos, una amplia gama de organizaciones est\\xE1 explorando soluciones que aprovechan los programas inform\\xE1ticos para capturar datos autom\\xE1ticamente.\nEste art\\xEDculo enumera los lenguajes de programaci\\xF3n utilizados para el web scraping y la extracci\\xF3n de datos. El web scraping es el proceso de rastreo de sitios web para recuperar datos espec\\xEDficos en un formato legible por m\\xE1quina. Es un \\xE1rea de miner\\xEDa de datos que cubre programas de computadora que autom\\xE1ticamente leen y extraen informaci\\xF3n de sitios web o documentos. Estos programas se denominan scrapers o rastreadores. El raspado es una tarea que quiz\\xE1s deba completar como parte de su trabajo como comercializador digital, ingeniero de software, analista estad\\xEDstico o investigador.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJagCdAEQD2Rd7IQAAP790mPps9hl3VCiK5WogAykPi06jEUy0T+Yw0ew4Fkz2mTdO8M3KpmUfnzMP4IimeRhY2ckCi/4h5/6WwK+gWLKosr892gAAA==",
-      "createdAt": "Thu Mar 31 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "las-mejores-practicas-de-codificacion-para-principiantes",
+      "imageSrc": "/articles/the-secrets-of-great-coders.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKGgo52dn6qqrKmoq6ysrra2tNzc2tra2NXV09DRzgCop6qlpaetrbC6vL2pqanMzMrl5uPi4uDd3tvZ2dcAqairr66xzMvOqampwL215NzRsrSzlpiX3t/ccXFxAKinqr+/wb27u7uvo7qmlKOHb4uLiW1tbampqSwuLwC+vcC3trmfnZuNd2WAZlF+ZlGwln+mnZIVGRzIycYAr66xmpqaWFpcOzMsf2RQim1XXEc6gXNlk5OR29vZAJSUlKytqmFjZS4wMlxWUVFBN3huZqakoODg3uLi4gCioqDj4+NucHIdISXT09HCwL5DRUdJS03l5eXi4uIA2dnZ5+fn0tLSxcXD6+vr6enpo6OjnJya4eHh4ODgAOHh4eXl5enp6evr6+vr6+vr6+jo6OPj4+Hh4d3d3XsIxzBOAzUdAAAAAElFTkSuQmCC",
+      "createdAt": "Wed Aug 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "los-secretos-de-los-grandes-programadores",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Las Mejores Prácticas De Codificación Para Principiantes",
+      "title": "Los Secretos De Los Grandes Programadores",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Cuando tome su primera clase de codificaci\\xF3n, r\\xE1pidamente se dar\\xE1 cuenta de cu\\xE1nto tiempo se necesita para escribir c\\xF3digo. Desde convenciones de nomenclatura hasta est\\xE1ndares de formato, hay un mont\\xF3n de reglas y mejores pr\\xE1cticas que los programadores experimentados siguen para asegurarse de que su c\\xF3digo sea limpio y f\\xE1cil de leer para los dem\\xE1s. Esto puede sentirse abrumador al principio. Puede parecer que hay un mill\\xF3n de cosas que debe saber antes de comenzar con su primer proyecto de codificaci\\xF3n. Sin embargo, conf\\xEDe en nosotros, \\xA1no es tan aterrador como parece! Seguir las mejores pr\\xE1cticas de codificaci\\xF3n no solo lo ayudar\\xE1 a superar las futuras clases de programaci\\xF3n con mayor facilidad, sino que tambi\\xE9n lo preparar\\xE1 para una carrera en desarrollo de software. En esta publicaci\\xF3n de blog, exploraremos algunas de las mejores pr\\xE1cticas m\\xE1s importantes para los principiantes que est\\xE1n aprendiendo a codificar.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Los grandes codificadores saben c\\xF3mo ver, pensar y resolver problemas. Tambi\\xE9n pueden dominar c\\xF3digos complejos y encontrar soluciones a problemas t\\xE9cnicos dif\\xEDciles. Pero m\\xE1s all\\xE1 de eso, los grandes codificadores aportan algo m\\xE1s a la mesa: tienen una combinaci\\xF3n \\xFAnica de caracter\\xEDsticas que los hacen programadores productivos y efectivos. Los mejores programadores tienen un conjunto de h\\xE1bitos comunes que les permiten prosperar en un entorno a menudo estresante. Hay muchas presiones sobre los ingenieros de software, desde plazos ajustados hasta la demanda constante de nuevas funciones. Los grandes codificadores pueden prosperar en este entorno lleno de presi\\xF3n debido a su capacidad para manejar el estr\\xE9s, concentrarse intensamente y pensar creativamente sobre el problema en cuesti\\xF3n. Si quieres convertirte en un gran programador, estos son algunos secretos que debes saber...\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-the-future.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
-      "createdAt": "Tue Mar 01 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "python-el-lenguaje-del-futuro",
+      "imageSrc": "/articles/go-language-for-embedded-programming.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+klEQVQYlWP4hxcwQKi/L5t+P4z+/TD29+O4P4+T/75bCJX++/f3359Pft9QPb5W9s1ZxWfHFM9skPlzUwMq/fHqiV+vTq+cKHF1u+zz40pTG0Qvb5XdOV/q378/IOlN6aH3lzZtWuh6aIXSvHaxCbUiB5dJH1wmDZW+tGvL949vvr9/eedY95uzigeWyV/eIv/7pvLfv79B0u/O77m9ed7a+pIdHWa/rivf2qP0+ZLyt1tBULt3dJY2R3j6qit5y4snGsid3r3m+6cnf/78hEr76qtqCQrE6OtcnD/71OrFf36DrET4W5mfX4WXz0FOusTRcvecKWjBAgAeCdp1SW1kIgAAAABJRU5ErkJggg==",
+      "createdAt": "Sun May 31 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "slug": "ir-al-lenguaje-para-la-programacion-integrada",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Del Futuro",
+      "title": "Ir Al Lenguaje Para La Programación Integrada",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de la programaci\\xF3n est\\xE1 cambiando r\\xE1pidamente. Siguen apareciendo nuevos idiomas y los antiguos pasan de moda m\\xE1s r\\xE1pido que nunca. Pero Python sigue siendo uno de los lenguajes de programaci\\xF3n m\\xE1s populares del mundo, y su popularidad no muestra signos de desaceleraci\\xF3n en el corto plazo.\nSi est\\xE1 considerando una carrera en desarrollo de software, aprender Python puede abrirle una serie de oportunidades interesantes. La demanda de programadores calificados est\\xE1 creciendo a\\xF1o tras a\\xF1o, con la demanda m\\xE1s alta entre las peque\\xF1as empresas y las nuevas empresas. En esta publicaci\\xF3n de blog, aprender\\xE1 sobre la historia y el uso de Python como lenguaje de programaci\\xF3n, por qu\\xE9 es tan popular en este momento y c\\xF3mo puede comenzar a aprenderlo tambi\\xE9n.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADd83VLHlAAP7eBW44/W5zfj9HCXNLrztbgeIn7l532M/pdyirsLvh/SyMces3le9PEwJZITmihIyvwatR4MAKg2WW2PA6XgCCyFf+LcHdyBz2PSKg6yOeLp7I1/eV4UHluoGNN0H68+gAAA==",
-      "createdAt": "Sun Feb 28 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "configuracion-de-su-entorno-de-desarrollo-de-java",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Configuración De Su Entorno De Desarrollo De Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si es desarrollador, su trabajo requiere que use diferentes software y herramientas para crear aplicaciones. Hay diferentes lenguajes de programaci\\xF3n y marcos que necesita saber para hacer bien su trabajo. Con la creciente popularidad de las aplicaciones m\\xF3viles y el auge de la inteligencia artificial (IA), los desarrolladores ahora tienen m\\xFAltiples oportunidades en el campo del desarrollo de software. En esta publicaci\\xF3n de blog, le presentaremos Java como uno de los lenguajes de programaci\\xF3n m\\xE1s populares para los desarrolladores. Tambi\\xE9n aprender\\xE1 c\\xF3mo configurar su entorno de desarrollo de Java para que pueda comenzar a codificar lo antes posible.\nSi quieres convertirte en ingeniero de software, saber programar es solo la punta del iceberg. Tambi\\xE9n debe comprender tecnolog\\xEDas como HTML5, CSS3 y XML, que son un vocabulario est\\xE1ndar para el dise\\xF1o de sitios web y el almacenamiento de datos inform\\xE1ticos. En esta publicaci\\xF3n de blog, presentaremos algunos t\\xE9rminos comunes que usan los desarrolladores al hablar sobre la configuraci\\xF3n de sus entornos de desarrollo para diferentes lenguajes de programaci\\xF3n como Java.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-get-started-with-coding.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoKAAoAAUAmJQBOgCHOl736y2AA/vvVXW0dz7cTrxjXPoYB7wDPmpIfXkg3N7mnjTnfZuKXRIEwaLu9ebE/c3kLnJpWy3d8X2Xik27RqrW+Htsp2Sd7qMSdVaW5txAA",
-      "createdAt": "Thu Jun 03 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "como-comenzar-con-la-codificacion",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Cómo Comenzar Con La Codificación",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n es una habilidad esencial que se puede aplicar a una variedad de roles, industrias y tama\\xF1os de empresas. Lo que comenz\\xF3 como una habilidad de nicho utilizada por los desarrolladores de software ahora es una habilidad comercializable y relevante para casi todas las industrias. Se ha vuelto tan omnipresente que incluso el Departamento de Trabajo ha destacado la codificaci\\xF3n como una de las habilidades de m\\xE1s r\\xE1pido crecimiento en demanda.\nLa codificaci\\xF3n se considera m\\xE1s com\\xFAnmente como la capacidad de crear sitios web, aplicaciones y software. Sin embargo, en realidad hay muchos tipos diferentes de codificaci\\xF3n. La programaci\\xF3n (o codificaci\\xF3n) de computadoras implica escribir instrucciones para que las computadoras realicen ciertas acciones o funciones. El tipo de codificaci\\xF3n que elija aprender puede tener diferentes aplicaciones seg\\xFAn sus intereses, trayectoria profesional y fortalezas personales. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre los distintos tipos de codificaci\\xF3n, as\\xED como`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/rich-internet-applications-with-java.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoKAAoAAUAmJQBOgCHcHnYgAP7+f1rzwgkVly8Z8apUowRDWiEMnuk1/cdkF3cjqnFCCVpCcFAgHZs29asH/UHJcunXiPZ43xmYd/KHND2DNKZoaEFL0K3/IAAAAA==",
-      "createdAt": "Fri Oct 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "aplicaciones-ricas-de-internet-con-java",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Aplicaciones Ricas De Internet Con Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las aplicaciones de Internet enriquecidas, o RIA, son aplicaciones basadas en web que presentan una mayor interactividad que los sitios web est\\xE1ndar. En lugar de simplemente permitir que los usuarios accedan a la informaci\\xF3n de un sitio web, las aplicaciones RIA generalmente brindan a los usuarios la capacidad de tomar medidas sobre ese contenido. Por ejemplo, en lugar de simplemente proporcionar a los usuarios informaci\\xF3n sobre un producto y su precio, una aplicaci\\xF3n RIA podr\\xEDa permitir a los usuarios agregar el producto a un carrito de compras y completar el proceso de compra.\nEste art\\xEDculo le presenta los RIA de Java para que pueda comprender por qu\\xE9 los desarrolladores de Java deber\\xEDan usarlo para desarrollar RIA. El objetivo de este art\\xEDculo es explicarle por qu\\xE9 Java es particularmente adecuado para desarrollar estas aplicaciones y por qu\\xE9 deber\\xEDa considerar usarlo si planea crear una.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/spring-mvc-applications.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKAAoAAUAmJYwCdAEPALwdsYAA/v7GUZ5PlhJIBneoTV65URORmalMuDcdtHSSKoz4hxaAFL6i138Vg2XlfrW/GGmm1vqapr57Dduz2d6EdwAA",
-      "createdAt": "Thu Aug 06 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "aplicaciones-spring-mvc",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Aplicaciones Spring Mvc",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensa en una aplicaci\\xF3n, generalmente se refiere a un programa con alguna funcionalidad espec\\xEDfica que generalmente es independiente o algo a lo que varios usuarios deben acceder simult\\xE1neamente. En t\\xE9rminos de programaci\\xF3n, generalmente se les conoce como \"aplicaciones de escritorio\" y no se crean com\\xFAnmente utilizando los mismos marcos que se usan para sitios web o aplicaciones m\\xF3viles. Sin embargo, cuando se trata de crear una aplicaci\\xF3n con Spring MVC, las opciones son pr\\xE1cticamente ilimitadas.\nEn esta publicaci\\xF3n de blog, veremos varios ejemplos de aplicaciones Spring MVC. Estos pueden variar desde tutoriales simples sobre la creaci\\xF3n de sus propias aplicaciones de escritorio independientes con Spring Boot o la ampliaci\\xF3n de aplicaciones web existentes con alguna l\\xF3gica y funcionalidad personalizadas que solo est\\xE1n disponibles a trav\\xE9s de una extensi\\xF3n o complemento.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoKAAoAAUAmJQBOgCP1IJocHJGQAP75Bezph4fVzxlO3vfENa9/8K0NBv0c9JcWM8b4yunzy/t1E89Gh+n8KmiMuGAh12xP0h0KwtRK6NnKkAojM+GNFG43avc46wZ8bB37qYk6QAA=",
-      "createdAt": "Tue Apr 20 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "slug": "los-mejores-marcos-de-codificacion-para-desarrolladores",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Marcos De Codificación Para Desarrolladores",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los desarrolladores de aplicaciones de hoy en d\\xEDa se enfrentan a una intensa presi\\xF3n para desarrollar productos de alta calidad que satisfagan las m\\xFAltiples necesidades de los usuarios en el menor tiempo posible y con la menor cantidad de recursos posible.\nLa soluci\\xF3n son los marcos de codificaci\\xF3n, que son bibliotecas de c\\xF3digo preescrito dise\\xF1ado para ayudar a los desarrolladores a cumplir con estas demandas. Estos marcos de codificaci\\xF3n facilitan a los codificadores la creaci\\xF3n de aplicaciones que cumplen una funci\\xF3n espec\\xEDfica o un grupo de funciones, pero requieren mucho tiempo y esfuerzo para crearlas desde cero. Hay muchos marcos de codificaci\\xF3n disponibles para programadores que trabajan en proyectos de software. El marco que elija depender\\xE1 de lo que est\\xE9 desarrollando, su nivel de habilidad como codificador y sus objetivos a largo plazo como empleado o aut\\xF3nomo que desarrolla software para empresas u otros profesionales. Siga leyendo para obtener m\\xE1s detalles sobre algunos de los marcos de codificaci\\xF3n m\\xE1s comunes.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, el mundo de la programaci\\xF3n es un dominio feroz. Hay tantos lenguajes de programaci\\xF3n disponibles en el mercado que puede parecer confuso para los programadores seleccionar el que mejor se adapte a sus necesidades y que tambi\\xE9n satisfaga las necesidades futuras.\nLa programaci\\xF3n no es tan simple como parece, especialmente cuando considera todos los diferentes aspectos involucrados. No se trata solo de aprender c\\xF3digo, sino tambi\\xE9n de comprender qu\\xE9 tipos de proyectos desea emprender y qu\\xE9 tipo de estructura tomar\\xE1 su carrera a partir de ahora. Entonces, al elegir un lenguaje de programaci\\xF3n, hay ciertos aspectos que debe tener en cuenta antes de tomar su decisi\\xF3n final. Para ayudarlo con esto, hemos resumido algunos de los principales pros y contras asociados con el uso de Go para la programaci\\xF3n integrada en este art\\xEDculo:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

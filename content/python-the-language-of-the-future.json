@@ -1,9 +1,9 @@
 {
   "category": "coding",
   "imageSrc": "/articles/python-the-language-of-the-future.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwAgCdASoKAAoAAUAmJbACdAEQ/iI/xbr+AAD++uWcFkTeFkE3B7+LdSTKewr2b4GZY5/70j7n4/LLQtOAWYvolPWF1lndstFJFfaznxd+GYOoG6D9A0RAL/ahIA5HSacRSKX/9r+f///LZGgPuGbpQ//lLn/+snUVHS7/5Ot8FJjZAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVQYlTXOz0vCUAAH8JfPt/Xj/wiCKOgWdI8uXTpJly5dunULOnQb3aSwH1BhhUSCgpZkSi6LzKxmhxRDsNjKSp+0zW1N3/YkhvTle/p+Ll9AKaW2Zpnrnd/Jjj7o1JiyzQ1i65RSYFmSpQ351gaSMTYa6j867E2c9OXSDFGH260PYGmz4gt6LaLCA9TrPVLZVS1DvQ47GtR+PKCljl0l3fs77FmEjUeZxCk6PmAiQZS/c6u1UaArK0XB1fyCTxkUjzI3KfY2xWQvUaUA8ecSaBNTxgtERbYCM+lxuTZCmy6iou/3edM0gPOcUlUpydir4MX7rKdenW40nru7w01NyT+ex2Pe3e25cslPCOmaw/yFPxSYCAZmrtOrb5W8KIqSJGGMZVkmhIBcJhAO721u+Zb/w3Ecz/OCIBiG8QcRmdP4ur03MgAAAABJRU5ErkJggg==",
   "createdAt": "2022-03-01T14:50:49.776Z",
-  "updatedAt": "2022-10-02T10:50:31.379Z",
+  "updatedAt": "2022-10-11T17:15:23.372Z",
   "categoryLocal": "coding",
   "slug": "python-the-language-of-the-future",
   "locale": "en",
@@ -20,55 +20,115 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoKAAoAAUAmJYwAD4rwgK1ceCsAAPlC9v+2ZsfUCNWWMc/bjePrWz/rrIlpc6F3M7W7DS+N7+ve8l/nYSVL/0P7MEf97GQG43qku4aCHfzHqZ/+07c/+rE7GeeU2NYuCQBd/8HAhUWIlz4Q/8AAAA==",
-      "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/python-the-language-for-system-automation.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA40lEQVQYlWP484wZgn4/x8JggLB+PGFuq+I6vJn96Ba2g5s4Xl+HqoBKf7nH8vQS65RO7sNbWC/sY31+lRVFGmraM9bNC42vHVX9+YwTKr1oCueZPeyXD7Kd3s12Zg/n0smqK2fz3TnFducU24V9rAxvbzHP6OZct4Dj1E72Uzs5u6pVz+9l27CYY+967r1r2EGGf3vIdPskG8Sp53fzIVvH8Pku89IZ3FuXcd46znphH/vd0+wHNnCe3ctxZAvHt4csDB/usDy7DLL48kGO2ydB5IV97FcOgdDPpywgw+HhgIkADwiqiadH1TAAAAAASUVORK5CYII=",
+      "createdAt": "Mon Feb 15 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-video-processing",
+      "slug": "python-the-language-for-system-automation",
       "locale": "en",
-      "title": "Go Language for Video Processing",
+      "title": "Python - The Language for System Automation",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automating tasks is a way of making your life easier. Imagine this, you need to run a report every day and it takes 5 minutes each time. You could either set an alarm and rush back to the desk in 5 minutes or create a script to automate this process. The latter leaves more time for you to focus on more important things. What if you could automate even the simplest tasks? Wouldn\\u2019t it free up your time for better things? That\\u2019s where Python comes into play. As an automation scripting language, it can help you automate even the simplest of tasks and free up more time for work that matters. Automation helps businesses in many ways. It saves time, increases efficiency and decreases costs by eliminating manual processes. In this blog, we will explore why Python is such a popular programming language for system automation and how it can be used to automate simple repetitive tasks in your organization. Let\\u2019s get started\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/typescript-tutorial-a-beginners-guide-to-typescript.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoKAAoAAUAmJQBOgB6GK/4gAAD+/susHUck0oEg9bJn40NahRNWf/ssFEG4/ulTKqr7VTQxB6Cgp5QuP9bik8vP7lr5q5KufHzqipp8Y8gAAA==",
-      "createdAt": "Tue Nov 16 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-devops.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/UlEQVQYlWM4duzYgQMH7oDB+fPnr169evLkyWvXrn348OHv378Mx48f37179/Hjx7dv37579+4TJ04cBIOHDx+CpP8igbWLL25ZdQ1ZhOH656dH396A87etvf7w3nsI+83HSwziu3KEd2QVXF16+8vLI0fuVmVun9x+5OPXu7efLll6QIah7PqKxlsbAk9N/Pv375SOo/Mmneqo2vfuzbfTt6quPZrF4HGi2+NEd9jZqbe/vJwx/URW+PqWsr0fPt+7+nD65lN2DIseHZl+b/frHx8h9u3deuvY/vsQ9pM3exjSL86Fu+va5Re7N91EcfnZ9/d//fmDLIQsDQAfJvhf6zIsDAAAAABJRU5ErkJggg==",
+      "createdAt": "Tue Aug 17 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "typescript-tutorial-a-beginners-guide-to-typescript",
+      "slug": "go-language-for-devops",
       "locale": "en",
-      "title": "TypeScript Tutorial: A Beginner's Guide to TypeScript",
+      "title": "Go Language for Devops",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019ve been following the world of programming for the past couple of years, you have probably heard about TypeScript by now. This is because it\\u2019s one of the most interesting and accessible ways to get started with modern programming languages. Since its release in 2014, TypeScript has become extremely popular among developers from all over the world, including those who usually avoid any new software or tools that are still in beta testing phase.\nThis article will cover everything you need to know about TypeScript and why exactly this language has caught the attention of so many programmers. It also includes a list of tutorials on how to get started with TypeScript as fast as possible so that you can use it effectively in your future projects as well.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we think of DevOps, we think of ways to make operations more robust, efficient and faster. In simple terms, we want to cut down the time between a code being written and it being ready for production.\nWe often see developers writing messy codes that are difficult to read or understand. The same goes for Ops engineers who find it challenging to debug different errors in production. This is where the Go language comes into play.\nSince its launch in 2009, Go has gained immense popularity among software developers across the globe, who have even dubbed it \\u201Cthe new old thing\\u201D. It was developed by Google as an alternative to other languages that were slow and memory-intensive at that time.\nIf you are a developer looking forward to implement DevOps with the help of Go, this article is for you! Here you will find everything you need to know about Go and its use in DevOps:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpwAAABXRUJQVlA4IJAAAACwAgCdASoKAAoAAUAmJbACdLoAEJKZcw1yluazLAAA/v2FvIija/0yu1aPP+4nn2fNnp6wtWn3JXSeFL2s1qdclmZSpqVjK7iGDGHfnBPhvQUIf7HXC0TrB/1seX9R6z4TH6TIls4xY03+0CM/mko8PPi8gmO0VM19O/cZd+gBW7ty8NLFXy8/VM0xAxrAAAA=",
-      "createdAt": "Wed Aug 10 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/typescript-a-beginners-guide-to-code-type-safety.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWPQaF6k1QRFGs3oiEGzZTEEaTQvip81I3/BNL0WqJxmy2IGy675ll0LLbvm23fPD5sy23/KHOe+uRARm+4FDNmr9vlM35SydFfonG2BszYbd61IWbrLZ/qmwFmbfaZvYgiavTV6wY681fvD522LWbjDpm9N1PztgbM25685EDhrMwPEmsi525wnrXOdvN59yjqniWs9pm6w718Nslu7GeSuoNlbo+Zvz1q5P2HxrppNR6Lmb4+av127eTGDUdsCi84FYAfOj54xK2TqbOfe+RARi84FDMg+Dpk6O3UuwmMgf6MHRdMSuKeB0gBAIZGZWqGGVwAAAABJRU5ErkJggg==",
+      "createdAt": "Wed Sep 15 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-database-administration",
+      "slug": "typescript-a-beginners-guide-to-code-type-safety",
       "locale": "en",
-      "title": "Go Language for Database Administration",
+      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVQYlWP4vjETD2L4eHbN943ZOKX//fv34f4ZnNLdzdUFKRHzCp2XlrlVRph1p9jOzHPsTLJqirXI9zdk2DGvdUml/9x852nZjk2xFnPznQ92BXcl2zTFWhQFGzG83tePy+QvG/MZvm/M3NrkPyPH6WW1193l7a8Pzzm5quf1jtYHhzce2rcTJL2swiPDW+/z+sw3p1a8ODjr+anVb/ZPvpHse2XXQpA0Gvq6POVlk9/X9ekgl2NKv6j0+rYqDeIxAGAQvR8GNpC0AAAAAElFTkSuQmCC",
+      "createdAt": "Wed Sep 29 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADbH5lvKvjDT9WzVq6XaZina+iO5yReLfRR4YRydlgCmvWr6tQSSqHY/vMtUpJcm3vsYhnwDUQUELAYFWQoAf6+Iw1gIdmM+YbfMnuHqKeT5HXFZBEQGBkEGCEIaALORIU1/jr+/vfb29O/v76XP2k2UoCs2HBQmCSJnSwC7tKiW0rOH07Cx0sDGwcDQwL+joKZkaXNBb4YnnsgA4tjOQ7J8RLqEe8Ga8u7r9u6/6tbUr7O4JZK/Jp7MAO/j2UaveTWbZ1Gdb/fx7PDJW/rmW+/i0GyWqCW04QDz5N7Au6/JurTDubXDvLr36+PXpG/EpiBBsLYlt+MAyr24sKWixLey69/a+e3o5NjTWI6iKIynqKA1W66bAO/h2PHi2fLj2vTm3dLDvUaGniG+6SS86RubwhgiHj0rsfznU89ZAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Oct 02 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMTCvsjGwsvJxc/Nyc/NydDOysbGxLm7urO1tKqvsAC9vb3AwMDFxcW5urfJx8XPzcnCw8BgZWN0fHlwenkAsrO3u7u/vL7Cubm5ycfDzczIuLa1jGhiZ3BvbXZ1ALO1ubm6vr2/w8zLx8TCvsrIxLS1sop8ekZPU32GiAC5ubu+vcDCwsTFxMAvMziMfXlaY2dBQEVcVVdmZmgAwsC8xsXBycfDxcXDd1hTpI2DhX5+b2FhN0FHXmlvAL++usTCvsbFwV94oj5PfJOaqKempzlESTxGTFlmbQCVl5arrKlpcnYsT45BU4E6UoF8g49MUFNPVVpDUVoASlJahouLNEBMHj99Q0lploSBmo2Kw7axpKSmd4OKAD5GUW1wdk9XXR42XEZhfk5keGFweFVmcH2YqFJsd4/jp7Q9LBQoAAAAAElFTkSuQmCC",
+      "createdAt": "Sat Sep 18 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-code-snippets-effectively",
+      "locale": "en",
+      "title": "How to Use Code Snippets Effectively",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrc": "/articles/creating-a-javafx-user-interface.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWXCz0vCUAAA4PdXeeneJRHq0DnqZCThIOgHIVQjUhGkKUTLsmJSB/WQiRZJWbC13LSpLH1OLSba3Ntzm3jt4LGPDwhSW5DaxXe5Uv8u17pcucWK8O0DsiLkxDbIPfKr7uBRkDmOJOnzLOlnSD8jN9XOjyZWFeAlKC9BUZHkzi5NbERvbp/mF7YbZfmryFeqCsjmWN0YmaY9tifa0ETYbrJCanPpIeR7iSdAOJr2EpTTtbXmCcfiOYRtlf/cX1lOkev5kAdI1RYvyJdX+XyhxPENpTuQSzIXT0jpDEMGgKJi2MN93UajCRpNfvG4NzDu6OvCBXPqOwDaEA+RqRuWgSyEbd2wdMOq12DmJEbvHQLY6U8r3cE07PSL96/RRbdnxgme2dr/gcDZrMPldMz9AYzG3b/uJM7yAAAAAElFTkSuQmCC",
+      "createdAt": "Tue May 26 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "coding",
+      "slug": "creating-a-javafx-user-interface",
+      "locale": "en",
+      "title": "Creating a Javafx User Interface",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Almost every application needs a user interface. Applications with no user interface appear to be nothing more than programs running in the background on your computer.\nIt\\u2019s impossible to imagine any application that isn\\u2019t accessible through some sort of graphical user interface. JavaFX provides ways to build and implement interfaces that are engaging, dynamic, and responsive.\nEven though JavaFX is a very powerful library, it doesn\\u2019t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls \\u2013 there were a few controls which didn\\u2019t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).\nIf you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
       "imageSrc": "/articles/python-a-language-for-the-masses.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoKAAoAAUAmJagCdLoAEJMTYNgi24AA4lk6tpd3mbSDK7fU1vTesf970Y1Y1IRYmx9SL/i2zTzxlk6hmb/UyqlENf/U5Au7/k5eh/xpHuB+1bCAqBYnv8AA",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJhxE554HKF7Jq+HK7CHMa+FNK+GLamBKJ12IZRuFwCeeRiqkxW6nx23kzDEoy+9lTe/oSW5ky6shyigfhwAoXwgpJYNinsSqZ8Oo5oQvKogpp0Ml48Ns6sKoJsHAKuLHZt8J6qIMauPNJWBKMyoR6CILpt8MpBxKYJkHwCFfQmmmhGpmhaypRXEtxqklRutoRiqmhmonRGtowwAlHEdjnoWgXAYmIcbno4fpYo0n4glinMijHcXgW0UAKF8IKyELbONMb6aN8yiRdGlS8qfR7+UP7SJM6N6JgCcdBuZeCHPywaahh2xmSLIpjLClz+3jjqshC2ddiEAmnIUn4AZk30VlYYOgXAWqo4mt400rYUsoHolmHIbAJVuDohoEZVxG6R+IqmAKquCLKmAKqN7IphyG49sFGj3g1duABCQAAAAAElFTkSuQmCC",
       "createdAt": "Tue May 19 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
       "slug": "python-a-language-for-the-masses",
       "locale": "en",
@@ -80,91 +140,31 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoKAAoAAUAmJZQCdEf/jC0nudykfR/AAP792NKTMLkD7OPy92week5/JWv+w98Fxbyj/sFRGfkKTl7F1d6/r++bBiXiWdlspukLfH9MhsXLue8poMkRuK5S10uVM9RD9PKL+IzYClx6AAAA",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
+      "createdAt": "Sat Nov 14 2020",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-data-science",
+      "slug": "the-best-coding-tips-for-beginners",
       "locale": "en",
-      "title": "Go Language for Data Science",
+      "title": "The Best Coding Tips for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/java-security.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoKAAoAAUAmJYwCdAEO/2bd6AAA/vxAN9CIpZL2iQ1s1c3zID97XkPnAJmeSp6nYL51+pcpjntYlHxGqraE4eDs3i+n04OotWBfTQa0j0x7gUFSniE8FogRp3v9C46JokgAAA==",
-      "createdAt": "Fri Jul 08 2022",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWP4+/fvP9yA4d+/f1sufopf8nX+qZ9YpK8++cZc8IGh7DdD2e8dN0AmnTlz5ujRo39+/wFJ77z0gbHoK0R6+vG/BQUFEZUN+Z0T4+LiQNK//vzzmf6eoey31ZQ/rz/9NnZw5jj9V+DM3x27dkLtvvPm977bIGP//v1raW3jfelL0t1fLi4uf//+BUn//PXvzBOQTf/+/du/f39YWFhiYmJQYBBI9+vXrxcuXLhmzZrVq1evWrVq7dq1a9asWbx48YoVKx49esTw69evHz9+fP78+c6dOx8/fvz27dsnMLhz586PHz9AhuMJFgCKfvM5X5BLmQAAAABJRU5ErkJggg==",
+      "createdAt": "Thu May 20 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "coding",
-      "slug": "java-security",
+      "slug": "go-language-for-artificial-intelligence",
       "locale": "en",
-      "title": "Java Security",
+      "title": "Go Language for Artificial Intelligence",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-cloud-computing.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoKAAoAAUAmJZACdAEfh05dTPgAAP79QT8fjHH6/BozS7OMdv9g9v5ej1Df3AoPjonWX9L7JzdvN4Sbjb9uBf4P8PDHFz0f5t6U1RoNzAfD3GF6/j/f/v/29//eA/i7zDILjF8+OF79fgDz3eud2LFNUAA=",
-      "createdAt": "Tue Mar 10 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-cloud-computing",
-      "locale": "en",
-      "title": "Go Language for Cloud Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-functional-programming.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoKAAoAAUAmJagCdLoB+AADNqcWOjgA/pUK2n/zsJj98k4JuZqtM/yUGD3ntkYwj7+chvYAZ//IL2Vzdz2+//CreN3rJ0AA",
-      "createdAt": "Wed Mar 02 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-functional-programming",
-      "locale": "en",
-      "title": "Go Language for Functional Programming",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-administration.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpoAAABXRUJQVlA4II4AAABwAgCdASoKAAoAAUAmJQBOgMUt5wm9B36MuwYgAP79TlLzN6HFKy01Q8AQH3/TwpnH/zPzLDgHzIJGsjQGDlHnxsIQbhFHq7CSUDkcgMMRLbxc0PnVEuQgv5DTUvtpgjWV2+19jvJ+Q2NlqUgtrvH53/ZgHkgFDYRlfP/5D/bS8YLfmKggQCP84VXvwAAA",
-      "createdAt": "Wed May 18 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-web-administration",
-      "locale": "en",
-      "title": "Go Language for Web Administration",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoKAAoAAUAmJYgCdDKVQYo8QYUMP0AA/m0/fwp8BXZDJcg7VhhB8WRBkz0b8DrQQfmDp//oSUBvK3xt+nPvE/5V8u82rq/8mIA3Ol8+d9TJ39F7suqVqHf1xQPnlhGr9e0d/Hr13+zkNYt/K8i7wY/1jdcmuj/4OLXem5AogAA=",
-      "createdAt": "Sun Nov 08 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-code-like-a-pro",
-      "locale": "en",
-      "title": "How to Code like a Pro",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

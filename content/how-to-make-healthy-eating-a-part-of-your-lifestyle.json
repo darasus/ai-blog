@@ -1,9 +1,9 @@
 {
   "category": "health",
   "imageSrc": "/articles/how-to-make-healthy-eating-a-part-of-your-lifestyle.png",
-  "imageSrcBase64": "data:image/png;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoKAAoAAUAmJbACdAEO/YvMdgAA/v4HHT10ez5NP8w+oAACwgjfZuF+yZKPtyEu6n4rfDuAFoPxzE3o2LmwqvBlSj/eukL7n7tB7z/+p9/pH8HJio54XBugAAA=",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Ju07CUAAA0FI/wNU/MG5OTj4SRz/AyX8wcXJjwUGixo0BdRBiJCZCNKL4iCZAI6DlFnJLEVvqhZZSWvsu5RITQ/Ssh5Bc3LVHouG1v21BtwTdEnUbGU7X8mUnICQXf5m+oDutgfGh6rxqCAOzrVkd05XsIYGsgEUIwCrNVN5BGXAw9vA8fRmdy8VX8ilCtIJ0odroB4zkMZJXhuzmRWr1Prn8lFy4PZj0dZFhlYBGHuj4FFNbP40v3Z3M547XXs4mnS3B1gA3+hjKwzxdXYxFyUQ4dB6ZykT/+1Mbc+qo3hs+lujZw/Bfh9K7BLJwnkW8jjl1xCpBtlia2d8mE2EytUNm9oieO252e4CDb3XwCipUDRyVCxEqt0XdbFBXhOr/SC7mDbepGqyiQ1mDstZUNF4zRcP5BczE6I3HfjjgAAAAAElFTkSuQmCC",
   "createdAt": "2022-07-13T15:38:53.541Z",
-  "updatedAt": "2022-10-02T11:46:20.326Z",
+  "updatedAt": "2022-10-11T17:18:24.026Z",
   "categoryLocal": "health",
   "slug": "how-to-make-healthy-eating-a-part-of-your-lifestyle",
   "locale": "en",
@@ -20,130 +20,40 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/the-benefits-of-a-plant-based-diet.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAQCdASoKAAoAAUAmJagC7AEYGS8e70AA/uu4XVS/N2WCLvGt5n8szDB/7YnihmgReOss8hTdJ1uHx+x4+pBirSyEswdTqf8Ns1+h/fHtnKygmqMYbbb9b/ZyzgUofS8sMY+9u/+yfsJieRFld58Ff/6SB0v5//0X+/ob4LTtsFwAAAA=",
-      "createdAt": "Tue Jun 02 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/how-to-make-your-kitchen-a-healthier-place.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMSVWcunb7BoEJxYBpZYC5pdEJ1gFcuufeTEi9GVSgDHeiSrWQN/QwN4QAN+RAN9RgWJTQmWWRCZXheseTkAmFAQlmBAj19Ci1tAjF0/k2FCmmZIm2dJpGAn4o0hAJpZJuHk4/n+/fn+//n+//n+//n+/ejs7bJ8T+2dNACjbkfm6eianZqjpaKIi4eWmZWgo6DT2Nape2CyYSMAxItY7O7uu729kpWSdHd0hYiFury73uLhyZ97651BAOKpb/Hz8v7+/rK0s5yem62vr/7+/vL088Kdg7xyNwDUoW3j6Of09vb09vb09vb09vb09vbj6Oe/nYLamFMAuH1GrWo3qFoZmkYKnkcFk0QKmE8YrWo1vIRVxqN6ALBYD7teCdZ4EeF7CuBvBMNQA+5pDfCVIPaoPO6nRsXordTTBHlbAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Mar 13 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "health",
-      "slug": "the-benefits-of-a-plant-based-diet",
+      "slug": "how-to-make-your-kitchen-a-healthier-place",
       "locale": "en",
-      "title": "The Benefits of a Plant-Based Diet",
+      "title": "How to Make Your Kitchen a Healthier Place",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There is increasing awareness among people about the benefits of a plant-based diet. Many people seem to be transitioning to a vegetarian or vegan diet for health reasons. Some are also taking up this diet to offset the effects of climate change and reduce their carbon footprint.\nA plant-based diet involves consuming plants as primary food sources rather than animal products. Apart from being rich in vitamins, minerals, and other nutrients, plant-based diets have been linked to numerous health benefits \\u2014 lower risk of obesity, cardiovascular diseases, type 2 diabetes and cancer; higher intake of antioxidants and fiber; lower blood pressure and cholesterol levels; and better management of chronic conditions such as hypertension.\nThere are many advantages to switching to a plant-based diet \\u2014 even if you\\u2019re not ready to become fully vegan. These benefits will probably make you think twice before reaching out for that next steak or chicken wing\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You probably don\\u2019t need anyone to tell you that the modern Western diet is not healthy. Whether in a home, restaurant, cafeteria or any other eatery, almost all food establishments serve high-calorie, high-sugar and high-fat meals that are laden with salt and unhealthy oils.What is unfortunate about this situation is that many people have no choice but to eat this way on a regular basis. If you work in an office, it\\u2019s highly likely that your building has its own kitchen where a catered lunch service prepares hot lunches for staff every day. Similarly, if you go to school, there will most likely be a canteen serving the same type of unhealthy food as an adult educational institution.The good news is that even if you are stuck eating these foods on a daily basis, you can make your kitchen a healthier place by altering what goes into the meals you cook at home and the ones that you buy. Here are some tips on how you can do just that:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-cook-healthier-meals-at-home.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAACwAgCdASoKAAoAAUAmJZgCdGuAEFwLXalq6OpakBAA/s+Dur/Q2xsVRUdzxHsxFRUcP0qn1gOuA1x7ovfCP47o8eDVaUPTtngn9p1F9EOup6t7JOj0m4qMn1lQdXvwhIcP0tLkUPc1tHRwFqFq1B9fyNN2z2PITvfuyM0G7n7ndGxXplmI5FlJyIAAAA==",
-      "createdAt": "Thu Jan 09 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/8-ways-to-make-healthy-eating-more-exciting.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALHShFmAQ7zBtOLX0qNSMKtWL72dkf7+/v7+/v7+/gBQjRJakDNkgUzd19OeVDSgTSvGta/y9PPT373g5LwAVYw4bqA/x9K42dfX6+Xj39LN0NDQoat/wcp1z9dtAJayhMfTv/b29vHx7+zs7uvr6/Ly8p2tTLW4YcrQZgDy8vLHyMHHtqWTkG2Mmn/Cw8Du7u6xtFyrwE6uqE0Ax83HZItRaWwumoBAb4cvdZo3wcS81Nq0q7VSt6diALXHr1lfIqF+TMyIUseDSKexPqK1iN7g4vT39PP19QBshV2XdzfEn3W7dEHAhFS+u1qvwpXv8fX9/f35+fsAtr60b4tAmVsltG87w3pBusJrztbN6Orw9Pb6+vz+AObo6pqpkniQRGVyMKOsVay5nuvs8PX3+fT2+u/x9Us7yiwG7m/wAAAAAElFTkSuQmCC",
+      "createdAt": "Fri Apr 08 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "health",
-      "slug": "how-to-cook-healthier-meals-at-home",
+      "slug": "8-ways-to-make-healthy-eating-more-exciting",
       "locale": "en",
-      "title": "How to Cook Healthier Meals at Home",
+      "title": "8 Ways to Make Healthy Eating More Exciting",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting a healthy meal at home can be challenging, especially with busy schedules and tight budgets. But you don\\u2019t have to sacrifice your health to save money or reduce time spent in the kitchen.\nA nutritious diet doesn\\u2019t have to be expensive or time-consuming. With some planning and preparation, you can make home-cooked meals that are both cheap and healthy. Healthy eating is more than just counting calories; it\\u2019s about focusing on foods that are unprocessed and rich in vitamins, minerals, and other nutrients. Eating well helps keep you lean, boost your immune system, manage your weight, and prevent chronic diseases like heart disease and type 2 diabetes. Focusing on the right foods will help get you there. Let\\u2019s take a look at some tips on how to cook healthier meals at home!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-ways-to-maximize-your-exercise.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoKAAoAAUAmJZQCdAEPDpxb0RCAAP7q8/of7LDKcsimnqqUK9/4ond7D+uzMQmntCUGMDCOn7t/sUwBn0NXsOebVI1CG/hnqV+iO6N9otlTOdlooAA=",
-      "createdAt": "Thu Mar 04 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "health",
-      "slug": "10-ways-to-maximize-your-exercise",
-      "locale": "en",
-      "title": "10 Ways to Maximize Your Exercise",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working out and staying active is important for your health. In fact, the Centers for Disease Control and Prevention (CDC) recommends adults get at least 150 minutes of moderate-intensity aerobic activity a week.\nWorking out can be a great way to relieve stress, increase your energy, and even improve your mental well-being. Don\\u2019t let a hectic schedule or fear of getting started stop you from exercising. There are many ways to maximize your exercise routine to make the most out of every workout session. If you want to see an improvement in how fast you can run, how many pushups you can do, or how many times you can climb stairs without getting winded, read on for some great tips on how to make that happen!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-deal-with-anxiety.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoKAAoAAUAmJYwCdAYwTvvT9dDM0AAA/vVTV/dIH7gj9I7hcPfZ3psSyqV73k8v9NrsIkVmqrYsBeNTFRO0aG5DFs9WY8hJ9t3/+nM737I8RQN4FwgjOYSaJolcmYyL0f55erw1iyelgAAA",
-      "createdAt": "Sat Jan 11 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-deal-with-anxiety",
-      "locale": "en",
-      "title": "How to Deal with Anxiety",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re anxious, you feel your heart pounding, and your palms get sweaty. We\\u2019ve all experienced some level of anxiety from time to time \\u2014 it can be perfectly normal. However, for some people, anxiety can become debilitating and start to have a negative impact on their everyday life. If you experience social anxiety or general anxiety more often than not, read on to discover how to deal with it effectively.\nIf you struggle with anxiety frequently and strongly, you are certainly not alone. In fact, almost 20% of adults in the United States experience some form of anxiety or another on a regular basis. Although there is no magical cure for dealing with anxiety permanently, there are many things that you can do to manage your symptoms better and live a happier life as a result.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-cooking-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoKAAoAAUAmJbACdLoB+AADUgMW0hzgAP63W7EKVqqAP0kqQMLK3TJY4LqV46xULcf+zE2jnIde3P3aRJCG4HnlzNUhQJN9Kz8tcsEe1b/2eRMaBpGgdQeAR+T/4uUe2s+eLRcBXSm3yf/HX6N3+DUhNgiyB2ofp0AAAA==",
-      "createdAt": "Sat Feb 06 2021",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-cooking-tips-for-beginners",
-      "locale": "en",
-      "title": "The Best Healthy Cooking Tips for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Have you signed up for a cooking class yet? If not, then now is the perfect time to do so. Learning how to cook healthy food at home is essential. There are so many restaurants around these days that serve really unhealthy food. Even fast food chains have started to add super un-healthy ingredients to their menus in an attempt to capture more customers. Thankfully, there are so many places to learn about the best ways for beginners to start cooking healthy meals at home.\nIf you\\u2019re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-ultimate-guide-to-understanding-and-improving-your-metabolism.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoKAAoAAUAmJbACdDXAP1ABbtskxnm4AP0CIUDGo3/8JmVoBqocpsg1szwYcpiLdDyZNXnAAqmkCmGT67zrl8dwXC5vr3Ps53ElCm/I/CsQElIhPZHtY9v57LZjUuSa3T6P3zNjf+ug5KWP5FRn5dv/7B2fZ81/4b1l83/vwsAAAA==",
-      "createdAt": "Tue Apr 14 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "health",
-      "slug": "the-ultimate-guide-to-understanding-and-improving-your-metabolism",
-      "locale": "en",
-      "title": "The Ultimate Guide to Understanding - And Improving - Your Metabolism",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Your metabolism is essentially the rate at which your body burns calories and converts them into energy. It\\u2019s a process that happens automatically, 24 hours a day, seven days a week, and it has a huge impact on how many calories you burn every day and how much weight you could potentially lose if you change your diet to reflect an exercise program. You see, your metabolism is responsible for burning all the fat in your body. Every single calorie you take in from food is first stored as fat somewhere in your body, and then broken down to be used as energy \\u2013 the very thing that powers everything you do from breathing to blinking. Metabolism has several components that work together to help maintain it:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-ways-to-make-your-commute-less-stressful.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoKAAoAAUAmJYwCdAELZCUiJxaAAP74QJ7W/+I5/DUQvTunGZ9FW+KgqxyABrVGRnak7p/OgjbWtWoQCbcxfzDKbMF6Et34JSPagG+N0HEfZCdkBHOjfwqxIAAAAA==",
-      "createdAt": "Sun Mar 06 2022",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "health",
-      "slug": "10-ways-to-make-your-commute-less-stressful",
-      "locale": "en",
-      "title": "10 Ways to Make Your Commute Less Stressful",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think about your daily commute, it probably doesn\\u2019t strike you as being particularly stressful. In fact, many people see their daily drive to work or school as a time for peace and quiet. After all, what could possibly be stressful about getting from point A to point B?\nIt\\u2019s true that your commute isn\\u2019t inherently stressful. In theory, it\\u2019s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-way-to-get-your-kids-to-eat-their-vegetables.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQAgCdASoKAAoAAUAmJbACdADcG0qBd8rgAP7YAcM3EF75cAGkd3+1Vm96H9W46F/1ImzwshAuwupKGf/mUu5Nj7qetG13Tk7Y8PqC52TJCovdF6+N9oiF7Uz2mlrGR/Bp7mjpRTbPSISyx/2onNb/Nrx//ZOPujr8od4xfx/H9ZM7Nv8Qr/8X4tUAAA==",
-      "createdAt": "Sun Apr 05 2020",
-      "updatedAt": "Sun Oct 02 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-way-to-get-your-kids-to-eat-their-vegetables",
-      "locale": "en",
-      "title": "The Best Way to Get Your Kids to Eat Their Vegetables",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Putting healthy food on the table every night can be a challenge for many parents. It\\u2019s hard to get kids excited about eating their vegetables, but luckily there are plenty of tricks that make it easier.\nAddressing their senses is a good place to start. The sense of smell and taste are the primary drivers of our desire to eat one thing or another. Kids love things that look, smell, feel and taste good. The trick is finding ways to incorporate these elements into nutritious meals so they want to eat them.\nOne way parents have been able to do this is by using smoothies as an opportunity to add hidden veggies into their kid\\u2019s diets without them knowing it. And, since you\\u2019ll be using green smoothies as the base for your drink\\u2014not just any old sweet smoothie\\u2014it won\\u2019t add any sugar or calories that you don\\u2019t want in there.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In today\\u2019s world, it\\u2019s not easy to stick to healthy eating habits. Everywhere you look there are temptations that make it difficult to eat the right things. However, with the right approach and mindset, healthy eating doesn\\u2019t have to be boring or restrictive. You just need a bit of inspiration and ideas on how to make healthy eating exciting again. Eating well doesn\\u2019t need to be dull or uninteresting \\u2013 in fact, it can be quite the opposite if you bring your A-game to the table.\nIf you\\u2019re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you\\u2019re putting in your body.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
       "imageSrc": "/articles/the-best-plant-based-foods-for-optimal-health.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRqQAAABXRUJQVlA4IJgAAADQAgCdASoKAAoAAUAmJbACdLoAEh3zwH6gFugx+aKAAOA39MTmje2cK2wedC63M9ffDXMTgjuU/mpeZM3Ib+fAdbnfm5Ac0dGCnbs/8QqviVtTawi0iY2YFtJcGFiDGzK6f4nslUjsSw8hDenWsL0D9H9M7YOlUOZHM+D/i1NN+tRxn3IE8K7/SJNt/6xYB5iXd5/e1AAAAA==",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALK+kbC/ivbgw/jTounPrLa6n+7s6MrBwOTStPfy7wCmt2qBlk23h3qvUDrpj1KecUXXrYuWgHx7Zl3dxLMAjoI/lpteegwcfhwrwlhQpmJQfk07kmlZ4ca037+oAEMdF4iBWbJ5aoRaUY5RRqJ+b7SaZrSnk5BwYmpDNQCmLTjFl4DlwaS2j3WlkX/Is6bBp5unfG+YVkengUcAkWw2sY9YXTUsi0RIyZSL37mopnRutUNQymZWpoFLAINqUpN2ZtOJj9WBf6FFPXdPMcRuNapGM6koL8dHKwColXCYe1rYpaaxjWqPcVSLe0O8azDJq4PpnYfugGgArIJgjXlZk2pYlmVR4LGTm5Rru66S4bKS3HR81EZBAKaHZ9W9nK2ej9u+uql/bX1mStG3ruPTz9zMyrN2dlE0pQHSyMJ0AAAAAElFTkSuQmCC",
       "createdAt": "Tue Aug 18 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "health",
       "slug": "the-best-plant-based-foods-for-optimal-health",
       "locale": "en",
@@ -155,16 +65,106 @@
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-eat-healthy-when-eating-out.png",
-      "imageSrcBase64": "data:image/png;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwAgCdASoKAAoAAUAmJQBOgMVkyZrppOJbAAD+aKoMX6BR/d81fvgVo3v3qav6MbROd7upZL4eB07/JV//S0fstN5GXkmjWlTbmjb8jHgCFWc2+Us78poP3qVv6NrLgZfllzKY267MSqOi2ibM534snSCdL15AcwUuxvUIwcc8ivlHdvqlAAAA",
-      "createdAt": "Mon Jul 20 2020",
-      "updatedAt": "Sun Oct 02 2022",
+      "imageSrc": "/articles/10-ways-to-maximize-your-exercise.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlUXOW0vCYAAG4P2F+lcRlD+giAiCAqX+gOZNVx0gyGEXRUfQ2YK1kSGmTIajWnNOv+b3bft20NGNBkmn6SBmhe/l+8DLS6TZ/AHDHTIsSV2msrk0Te+cX2QKd+QVt0dzxMTs3EJiY2plNbK2vpxMTkeji4n4TCy2tLk9GZkndnPM8TV7wnIkRaWy2ThJbp2e7WcydIk/yheJIAgGHQwMfN8yJMOWDFsAev/9Mxgl5KGDgIGrmilCDFyPB0iEuPfW/+OBXFFgWEm6W1ZhWdU+vr983//nhogsq6hoAtB5gG5lwAMkAN3rvo4Ygye1Uag930hq02nDzkvT8cbjw3pV0WCp3irVWzXsihArptvu9saMLEs2nUc9PPgATcmwf5//AEnH7GbJ1xODAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Mar 04 2021",
+      "updatedAt": "Tue Oct 11 2022",
       "categoryLocal": "health",
-      "slug": "how-to-eat-healthy-when-eating-out",
+      "slug": "10-ways-to-maximize-your-exercise",
       "locale": "en",
-      "title": "How to Eat Healthy When Eating Out",
+      "title": "10 Ways to Maximize Your Exercise",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Eating out is a great way to treat yourself, your friends or family members, and also a great way to save time on busy weekdays. But it\\u2019s also one of the trickiest ways to navigate a healthy diet. Many restaurant meals tend to be high in calories and fat, sodium, and cheap unhealthy carbohydrates like white flour and sugar.\nIf you manage your expectations going in, however, it\\u2019s possible to eat out healthfully\\u2014even if you do it often. The key is knowing how to order effectively when eating at restaurants. Make the right choices more often than not, and you can still enjoy eating out while keeping your diet in check.\nThe tips below will help you make better decisions when eating out.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working out and staying active is important for your health. In fact, the Centers for Disease Control and Prevention (CDC) recommends adults get at least 150 minutes of moderate-intensity aerobic activity a week.\nWorking out can be a great way to relieve stress, increase your energy, and even improve your mental well-being. Don\\u2019t let a hectic schedule or fear of getting started stop you from exercising. There are many ways to maximize your exercise routine to make the most out of every workout session. If you want to see an improvement in how fast you can run, how many pushups you can do, or how many times you can climb stairs without getting winded, read on for some great tips on how to make that happen!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrc": "/articles/30-healthy-snacks-for-on-the-go.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMvLybi1qLi5tIyFetTT2OfDpue6m9mrj7WRf+fa1QDPxo7Hv4K4snLm6Ozj4ueWYDWBVjlhQCu1kHqzjXoA3dvK3NvC3N7U3tza7e/zoZqag0oggFAwVzEeZT8sALOkdbapfbiultnZ2fXy7PHx8c7JzaWRjGhPQ2NYVwB7blLZzrvjx4rmzZbu48f1w4vq1b7Vysne2uDe3+YArKywnKWJlpuHam1clI2E/Ysg/aM5+qJA77+S7ejqANnb4WpzZVhMFWRSMtyxkPeNQfmnYfSCLvZoFuzj3wDc2+Cvsbd/h35VX0yRlofe1svY1cvnzsDzt5Tp4uIA0tHWoZKMp5iSnJ6dwMjK7O3q8fHx8Ozo3rKc4eDlALq6voZtX659TXlQJ6abit/YzN7Wy8e/tJqPidPS2UvZyGIayUvpAAAAAElFTkSuQmCC",
+      "createdAt": "Sun Feb 28 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "health",
+      "slug": "30-healthy-snacks-for-on-the-go",
+      "locale": "en",
+      "title": "30 Healthy Snacks for on-The-Go",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You\\u2019ve probably heard it before: When you\\u2019re busy, you need healthy snacks to keep you going. The problem is that it\\u2019s not always easy to find healthy snacks that are also fast and convenient. In our hectic, on-the-go world, most of us don\\u2019t have time to sit down for a healthy meal three times a day. Instead, we\\u2019re often forced to make snap decisions about what we can eat quickly and conveniently. Unfortunately, those decisions too often lead to less than healthy snack options like potato chips or sweets. However, there are plenty of great ways to get your recommended daily intake of fruits and veggies even when you\\u2019re on the go. These 30 healthy snacks for on-the-go are perfect for keeping in your purse, desk drawer, locker, or anywhere else you might find yourself hungry and without access to a full meal.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrc": "/articles/how-to-deal-with-cravings-and-temptations.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABM0lEQVQYlRXC3U6CUAAA4HMR+IcC4vCUgigiGqCoiGQj5CCTtNIIdW1tqTXXVl1XWxd51Qt03bO2vn0gxpAJlibyLA0hLHIcX5HKslrTerrpnrggXG+7Hlo+7FTHDtfrglp//9zPotX+63u72QHdc1ru/5LRbnpuWhbscG5Oz0e3q7vXF/D2YcT5nGQZrREaLkJt7DXQmTb2rnePy+cn8Ptj0SIb59hMTSAbYqohptQa01YV3604A3Azhzgk6/2O6SPTR5Jl2JcTKwgWm3vVsQGeJTCWKmlKZ2jLva6ga6PZlaBrQRQFUQQwOo1nM7RQyEsiwR3m5SrfVHJSmRJLUJHBQSaJkQTFwc7poO8OpXYLTSdoenFsGmy1DLAkjhEJjCQwOh1jyHiOSkCG4bksV6SKR3/qvjj328lmrwAAAABJRU5ErkJggg==",
+      "createdAt": "Sun Oct 10 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-deal-with-cravings-and-temptations",
+      "locale": "en",
+      "title": "How to Deal with Cravings and Temptations",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Most people in the world struggle with their diets and often find themselves giving in to cravings and temptations. The problem is that if you give in to a craving or temptation too often, it will significantly impact your diet and result in weight gain.\nCravings are normal and almost anyone will experience them from time to time. Temptations, on the other hand, are not normal and should be avoided at all costs.\nWhen you have a craving for something specific, there are ways to reduce its frequency or strength. Learning how to cope with cravings and temptations will help make your diet much easier to follow while also keeping you happy at the same time. This article explores some very helpful tips on dealing with cravings and temptations so that you can optimize your diet accordingly.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrc": "/articles/5-ways-to-destress-after-a-long-day.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMvIwtmXXuxtBPx7A9lpDZ5QH5djQMJoG9diA8pbAQDFbivubgPtbwPukkHty633izDYZQasVRWuVRHbYgIApU8T2I5R3cSx6ujn8O7t9cuq9G8DyV8F1IhHtpFrAJaLiMbGxp2dn4yKiaKgn83LyvaOOLF5WHk/LEAoIgDT1dvNzc3Y2eDp6Ovn5eXu7Oz00LPWiFeEb2g7JyIAkpSYtrW4yMfMlJSUv7+/u7i529nY/J5q+ogr5XwnAMPI1MTGzN7e4snK0dTS1dTS0+Pd2Pqucf2AD/t2AQDDzNm4vcfi5e3W2+nb2N7Tp4vweB36eAz9hx39egMA0t/x0dzv1N3ss5eQekkxnkwWxWYboF0f/JVU/XwIAM/b8LahpJ9bPolGJmRCNFVDNUxCLEM7KaRoOO92C7BDsu7hG5vyAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Jul 28 2022",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "health",
+      "slug": "5-ways-to-destress-after-a-long-day",
+      "locale": "en",
+      "title": "5 Ways to Destress after a Long Day",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone has stressful days at work or school. It\\u2019s normal to feel overwhelmed and exhausted after an intense day. However, there are ways to recover from this stress and return to normalcy quickly. There are simple ways to destress after a long day that don\\u2019t require much time. In fact, these techniques can be implemented in as little as 10 minutes.\nDestressin g is good for you and your mental health. When we\\u2019re stressed, our body interprets it as danger so it produces cortisol and other stress hormones to prepare us for fight or flight. These natural chemicals are useful in limited quantities but when they remain high for prolonged periods of time, they have negative effects on our health by increasing blood pressure and blood sugar levels, decreasing immune response, weakening bones, and increasing body fat storage. Stress also increases risk of heart disease and depression.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrc": "/articles/10-exercises-you-can-do-at-home-and-save-a-ton-of-money.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABAUlEQVQYlWO4duTo1cNHLu3d9/zkrrdndr05CyIh6M3ZXQxXDx+5cujgpb37XoCl0RDDoY3bT2zbfnHPHojug6vm7Vw0bdHEzv0rZp/csJBh+sTFGRHRx9dteHZiJ0TH8xNbHxze+PDQxucntjKcOHu7KD1/76IFz4+DpF+d2n5s7fy9y2Ze2Lr0ys6VDBO6Z6QHBe1bMP/ZsR0Q3YfXzD+6Zt7DQxtBdk+qqNk8ffqJNWsg0jd3r7m8Y8W2RdOOrJ67f8VsBlOL9vTwkmOrV0OkL+9YcWT13BPrFxxeNefU+vkMjYX9DXFR++cjDEfx2IUtW48sWXxsxfKnR7djSgMAiHXbSZZvbi8AAAAASUVORK5CYII=",
+      "createdAt": "Wed Apr 07 2021",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "health",
+      "slug": "10-exercises-you-can-do-at-home-and-save-a-ton-of-money",
+      "locale": "en",
+      "title": "10 Exercises You Can Do at Home and save a Ton of Money",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Who says working out has to be expensive? You can do it anywhere and anytime. There are various affordable home workout videos available on the internet as well. However, that doesn\\u2019t mean you have to break the bank when trying to save money in other areas of your life. Those at-home videos might seem like your only cheap option, but there are plenty of ways you can cut down on costs while still getting the same benefits from working out at home.\nInstead of splurging on a one-time membership or an expensive series of DVDs, why not invest in some home equipment that won\\u2019t cost you a fortune, but will help you get in great shape? Working out at home also has its advantages: no traffic jams and no gym membership fees! Here are 10 cheap home workout ideas for anyone who wants to slim down and tone up without breaking their budget.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrc": "/articles/how-to-make-healthy-food-choices-when-youre-hungry.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABK0lEQVQYlU3LvUsCYQDH8WftD2kpgsaGltbWaGiMGoOWWiJqaGoIgjzoZSmE7EwOykwoKVJO05REK6/iOD2fO73nzjvvfN7cIg4i+G2f3xfQISecBYwGjPqUaFDv2gg5tt1zen0P0CEN+ddMswmNloHCaYYD/tfXL6WtK3E3nVyTzrdT0moiCggnhDPMcMBo9r0ef5ZP5cfEw5OUlVPVasgEM4wZViEsfip5pVGO3RflylurDcwgh1nQRBkdxdvoVsimNtLinCjMi4cLl8fgKDe6n5zeu5iIZsZr6qLeMQwLdWzHcl3LdcFyZOTkZiUijZ3dTb5+rzfUav2rXFMqvu8NsA+WdqYKH6VNYeYgNtuEBUL6lGLGCOeUcwo0WO86sONofmAPsBfy3+MH8xL1epLJwggAAAAASUVORK5CYII=",
+      "createdAt": "Mon May 04 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-make-healthy-food-choices-when-youre-hungry",
+      "locale": "en",
+      "title": "How to Make Healthy Food Choices When You're Hungry",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the 21st century, it seems as if everyone is hungry all the time. The pace of modern life means that most people spend more time commuting, at work and in front of screens than ever before. As a result, the number of times people feel hungry but have no convenient food options to hand has increased.\nThis has led to a culture where people tend to eat whenever and wherever they can, almost irrespective of what they are consuming or how healthy it is. However, while being hungry is never a bad thing, overeating at any time \\u2013 let alone all of them \\u2013 isn\\u2019t great either.\nIf you\\u2019re reading this article right now because you struggle with hunger often and want some ideas on how to make healthier food choices when you\\u2019re hungry, we think you\\u2019ll find some useful pointers here.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrc": "/articles/how-to-cook-healthier-meals-at-home.png",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALa+0pOTo8mpm963ouO9qOW/rMWooFVkg4BzcaKJYQBgb5FPX3szO1QuMkU2OEVVT1aFeX1yYF3IhkHUkTgAKzpZNTtQSkVHNCQwaFY8SDosKiIcOTQ4bFlfmndFAFNVWZBySryWTJ1dJbB6LaJ2M0Y1IiwiGEE8PltNTwChdSS/gyrRmDzKlj+5dyLBdSShbSg5Lxo1KBihjpAA1rJdnm0l3K5QxIAz0KFNuFwMw38nRjEYPzo7XWJ3ALOLMKR/OsqcSryIP7BkI6xlHbFyKpF0TFplhGtqegCwlTO8kTu1eySZcymSczd8aBt4aFBhaIFubn7PsacApI5so3hQvZVXnHddaWdmW2mErL3ednaIwqKUwKenAGROSk9DR0g+Qz41ODsyMlJSYryxvMe1tpaKl2FynonngtBKbWqjAAAAAElFTkSuQmCC",
+      "createdAt": "Thu Jan 09 2020",
+      "updatedAt": "Tue Oct 11 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-cook-healthier-meals-at-home",
+      "locale": "en",
+      "title": "How to Cook Healthier Meals at Home",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting a healthy meal at home can be challenging, especially with busy schedules and tight budgets. But you don\\u2019t have to sacrifice your health to save money or reduce time spent in the kitchen.\nA nutritious diet doesn\\u2019t have to be expensive or time-consuming. With some planning and preparation, you can make home-cooked meals that are both cheap and healthy. Healthy eating is more than just counting calories; it\\u2019s about focusing on foods that are unprocessed and rich in vitamins, minerals, and other nutrients. Eating well helps keep you lean, boost your immune system, manage your weight, and prevent chronic diseases like heart disease and type 2 diabetes. Focusing on the right foods will help get you there. Let\\u2019s take a look at some tips on how to cook healthier meals at home!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }
