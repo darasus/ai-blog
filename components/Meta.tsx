@@ -18,15 +18,12 @@ interface Props {
 export const Meta: React.FC<Props> = ({
   title,
   description,
-  imageSrc,
+  imageSrc = `${baseProductionUrl}/thumbnail.png`,
   structured,
   slug,
 }) => {
   const canonicalUrl = useCanonicalUrl({ slug });
   const actualTitle = `${title} | The AI Paper`;
-  const imgSrc = imageSrc
-    ? `${baseProductionUrl}${imageSrc}`
-    : `${baseProductionUrl}/thumbnail.png`;
   const structuredData = structured
     ? {
         "@context": "https://schema.org",
@@ -56,7 +53,7 @@ export const Meta: React.FC<Props> = ({
       <meta property="og:url" content={slug ? url : `${baseProductionUrl}/`} />
       <meta property="og:title" content={actualTitle} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={imgSrc} />
+      <meta property="og:image" content={imageSrc} />
 
       <meta property="twitter:card" content="summary_large_image" />
       <meta
@@ -65,7 +62,7 @@ export const Meta: React.FC<Props> = ({
       />
       <meta property="twitter:title" content={actualTitle} />
       <meta property="twitter:description" content={description} />
-      <meta property="twitter:image" content={imgSrc} />
+      <meta property="twitter:image" content={imageSrc} />
 
       <link rel="canonical" href={canonicalUrl} />
 

@@ -9,6 +9,8 @@ import { GetStaticPaths, GetStaticProps } from "next";
 import { generatePostPageStaticPaths } from "../../node-utils/generateStaticPaths";
 import { loadIntlMessages } from "../../isomorphic-utils/loadIntlMessages";
 import { useTranslations } from "../../hooks/useTranslations";
+import Image from "next/image";
+import { baseProductionUrl } from "../../constants";
 
 interface Props extends PageInfo {
   post: Post;
@@ -23,7 +25,9 @@ export default function Home({ post }: Props) {
       <Meta
         title={title}
         description={`${summary.slice(0, 157).trim()}...`}
-        imageSrc={post.imageSrc}
+        imageSrc={encodeURI(
+          `${baseProductionUrl}/api/og?title=${title}&category=${post.category}&imageSrc=${baseProductionUrl}${post.imageSrc}`
+        )}
         slug={slug}
         structured={{
           ...(post.imageSrc

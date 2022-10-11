@@ -124,17 +124,18 @@ async function generateAndWriteImage(title: string) {
   let imageSrcBase64 = "";
 
   const dalle = new Dalle();
-  const base64String = await dalle.generateImage(title);
+  const tmpImage = await dalle.generateImage(title);
+  const base64String = sharp(Buffer.from(tmpImage!, "base64")).png();
 
   if (base64String) {
     fs.writeFileSync(
       path.join(imagesPath, `${basename}.png`),
-      base64String,
+      (await base64String.toBuffer()).toString("base64"),
       "base64"
     );
 
     imageSrc = "/articles/" + basename + ".png";
-    const img = sharp(Buffer.from(base64String, "base64")).resize(10);
+    const img = sharp(Buffer.from(tmpImage!, "base64")).resize(10).png();
     const srcBase64 = (await img.toBuffer()).toString("base64");
     imageSrcBase64 = "data:image/png;base64," + srcBase64;
   } else {
