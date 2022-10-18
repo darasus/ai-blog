@@ -6,20 +6,20 @@ const nextConfig = {
     nextScriptWorkers: true,
   },
   i18n: {
-    locales: ["en", "es"],
-    defaultLocale: "en",
+    locales: ['en', 'es'],
+    defaultLocale: 'en',
   },
   images: {
-    domains: ["theaipaper.b-cdn.net"],
+    domains: ['theaipaper.b-cdn.net'],
   },
   webpack(config, { dev, ...other }) {
     if (!dev) {
       // https://formatjs.io/docs/guides/advanced-usage#react-intl-without-parser-40-smaller
-      config.resolve.alias["@formatjs/icu-messageformat-parser"] =
-        "@formatjs/icu-messageformat-parser/no-parser";
+      config.resolve.alias['@formatjs/icu-messageformat-parser'] =
+        '@formatjs/icu-messageformat-parser/no-parser'
     }
-    return config;
+    return config
   },
-};
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig

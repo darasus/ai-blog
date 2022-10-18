@@ -1,4 +1,4 @@
-import { serialize } from "next-mdx-remote/serialize";
+import { serialize } from 'next-mdx-remote/serialize'
 
 export async function serializeMarkdown(content: string) {
   return serialize(content, {
@@ -6,5 +6,5 @@ export async function serializeMarkdown(content: string) {
     mdxOptions: {
       // remarkRehypeOptions: {},
     },
-  });
+  })
 }

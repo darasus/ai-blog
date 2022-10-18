@@ -1,31 +1,31 @@
-import type { AppProps } from "next/app";
-import { Layout } from "../components/Layout";
-import Head from "next/head";
-import { useRouter } from "next/router";
-import { ChakraProvider } from "@chakra-ui/react";
-import { theme } from "../theme";
-import Script from "next/script";
-import { useEffect } from "react";
-import * as gtag from "../lib/gtag";
-import { IntlProvider } from "react-intl";
+import type { AppProps } from 'next/app'
+import { Layout } from '../components/Layout'
+import Head from 'next/head'
+import { useRouter } from 'next/router'
+import { ChakraProvider } from '@chakra-ui/react'
+import { theme } from '../theme'
+import Script from 'next/script'
+import { useEffect } from 'react'
+import * as gtag from '../lib/gtag'
+import { IntlProvider } from 'react-intl'
 
 function MyApp({
   Component,
   pageProps,
 }: AppProps<{ intlMessages: Record<string, string> }>) {
-  const { events, locale, defaultLocale } = useRouter();
+  const { events, locale, defaultLocale } = useRouter()
   useEffect(() => {
     const handleRouteChange = (url: string) => {
-      gtag.pageview(url);
-    };
+      gtag.pageview(url)
+    }
 
-    events.on("routeChangeComplete", handleRouteChange);
-    events.on("hashChangeComplete", handleRouteChange);
+    events.on('routeChangeComplete', handleRouteChange)
+    events.on('hashChangeComplete', handleRouteChange)
     return () => {
-      events.off("routeChangeComplete", handleRouteChange);
-      events.off("hashChangeComplete", handleRouteChange);
-    };
-  }, [events]);
+      events.off('routeChangeComplete', handleRouteChange)
+      events.off('hashChangeComplete', handleRouteChange)
+    }
+  }, [events])
 
   return (
     <>
@@ -65,7 +65,7 @@ function MyApp({
         </ChakraProvider>
       </IntlProvider>
     </>
-  );
+  )
 }
 
-export default MyApp;
+export default MyApp

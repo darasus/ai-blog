@@ -1,18 +1,18 @@
-import Head from "next/head";
-import React from "react";
-import { baseProductionUrl } from "../constants";
-import { useCanonicalUrl } from "../hooks/useCanonicalUrl";
+import Head from 'next/head'
+import React from 'react'
+import { baseProductionUrl } from '../constants'
+import { useCanonicalUrl } from '../hooks/useCanonicalUrl'
 
 interface Props {
-  title: string;
-  description: string;
-  imageSrc?: string;
+  title: string
+  description: string
+  imageSrc?: string
   structured?: {
-    datePublished: string;
-    dateModified: string;
-    image?: string[];
-  };
-  slug?: string;
+    datePublished: string
+    dateModified: string
+    image?: string[]
+  }
+  slug?: string
 }
 
 export const Meta: React.FC<Props> = ({
@@ -22,26 +22,26 @@ export const Meta: React.FC<Props> = ({
   structured,
   slug,
 }) => {
-  const canonicalUrl = useCanonicalUrl({ slug });
-  const actualTitle = `${title} | The AI Paper`;
+  const canonicalUrl = useCanonicalUrl({ slug })
+  const actualTitle = `${title} | The AI Paper`
   const structuredData = structured
     ? {
-        "@context": "https://schema.org",
-        "@type": "NewsArticle",
+        '@context': 'https://schema.org',
+        '@type': 'NewsArticle',
         headline: actualTitle,
         image: structured.image,
         datePublished: structured.datePublished,
         dateModified: structured.dateModified,
         author: [
           {
-            "@type": "Organization",
-            name: "The AI Paper",
+            '@type': 'Organization',
+            name: 'The AI Paper',
             url: `${baseProductionUrl}/`,
           },
         ],
       }
-    : null;
-  const url = `${baseProductionUrl}/p/${slug}`;
+    : null
+  const url = `${baseProductionUrl}/p/${slug}`
 
   return (
     <Head>
@@ -73,5 +73,5 @@ export const Meta: React.FC<Props> = ({
         />
       )}
     </Head>
-  );
-};
+  )
+}

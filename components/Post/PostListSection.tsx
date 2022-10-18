@@ -1,11 +1,11 @@
-import { Box, Divider } from "@chakra-ui/react";
-import { Post, BasePost } from "../../types";
-import { Link } from "../Link";
-import { PostExcerpt } from "./PostExcerpt";
+import { Box, Divider } from '@chakra-ui/react'
+import { Post, BasePost } from '../../types'
+import { Link } from '../Link'
+import { PostExcerpt } from './PostExcerpt'
 
 interface Props {
-  posts: BasePost[];
-  title?: string;
+  posts: BasePost[]
+  title?: string
 }
 
 export function PostListSection({ posts, title }: Props) {
@@ -13,11 +13,11 @@ export function PostListSection({ posts, title }: Props) {
     <>
       {title && (
         <Box
-          borderBottomWidth={"1px"}
+          borderBottomWidth={'1px'}
           p={4}
-          textTransform={"uppercase"}
+          textTransform={'uppercase'}
           fontWeight="bold"
-          borderColor={"gray.100"}
+          borderColor={'gray.100'}
         >
           {title}
         </Box>
@@ -28,8 +28,8 @@ export function PostListSection({ posts, title }: Props) {
             <PostExcerpt post={post} />
             <Divider />
           </Link>
-        );
+        )
       })}
     </>
-  );
+  )
 }

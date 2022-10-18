@@ -1,48 +1,48 @@
-import { ImageResponse } from "@vercel/og";
-import { NextRequest } from "next/server";
+import { ImageResponse } from '@vercel/og'
+import { NextRequest } from 'next/server'
 
 export const config = {
-  runtime: "experimental-edge",
-};
+  runtime: 'experimental-edge',
+}
 
 const gray = {
-  50: "#fafafa",
-  100: "#f5f5f5",
-  200: "#eeeeee",
-  300: "#e0e0e0",
-  400: "#bdbdbd",
-  500: "#9e9e9e",
-  600: "#757575",
-  700: "#616161",
-  800: "#424242",
-  900: "#212121",
-  1000: "#0a0a0a",
-};
+  50: '#fafafa',
+  100: '#f5f5f5',
+  200: '#eeeeee',
+  300: '#e0e0e0',
+  400: '#bdbdbd',
+  500: '#9e9e9e',
+  600: '#757575',
+  700: '#616161',
+  800: '#424242',
+  900: '#212121',
+  1000: '#0a0a0a',
+}
 
 export default async function handler(req: NextRequest) {
-  const { searchParams } = req.nextUrl;
-  const title = searchParams.get("title") as string;
-  const category = searchParams.get("category") as string;
-  const imageSrc = searchParams.get("imageSrc") as string;
+  const { searchParams } = req.nextUrl
+  const title = searchParams.get('title') as string
+  const category = searchParams.get('category') as string
+  const imageSrc = searchParams.get('imageSrc') as string
 
   return new ImageResponse(
     (
       <div
         style={{
-          display: "flex",
-          background: "#fafafa",
-          width: "100%",
-          height: "100%",
-          justifyContent: "center",
-          alignItems: "center",
+          display: 'flex',
+          background: '#fafafa',
+          width: '100%',
+          height: '100%',
+          justifyContent: 'center',
+          alignItems: 'center',
           color: gray[800],
-          border: "10px solid #6d28d9",
-          fontFamily: "SF Pro",
-          flexDirection: "column",
+          border: '10px solid #6d28d9',
+          fontFamily: 'SF Pro',
+          flexDirection: 'column',
         }}
       >
-        <div style={{ display: "flex", alignItems: "center" }}>
-          <div style={{ display: "flex", width: 600, flexDirection: "column" }}>
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+          <div style={{ display: 'flex', width: 600, flexDirection: 'column' }}>
             <span
               style={{
                 fontWeight: 800,
@@ -53,7 +53,7 @@ export default async function handler(req: NextRequest) {
                 paddingLeft: 6,
                 paddingTop: 4,
                 paddingBottom: 4,
-                textTransform: "uppercase",
+                textTransform: 'uppercase',
                 backgroundColor: gray[200],
               }}
             >{`${category}`}</span>
@@ -69,7 +69,7 @@ export default async function handler(req: NextRequest) {
             >{`${title}`}</span>
             <div
               style={{
-                display: "flex",
+                display: 'flex',
               }}
             >
               <svg
@@ -97,11 +97,11 @@ export default async function handler(req: NextRequest) {
           </div>
           <div
             style={{
-              display: "flex",
+              display: 'flex',
               borderWidth: 10,
-              borderColor: "#fff",
+              borderColor: '#fff',
               boxShadow: `0px 0px 10px 10px ${gray[200]}`,
-              justifyContent: "center",
+              justifyContent: 'center',
             }}
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -113,7 +113,7 @@ export default async function handler(req: NextRequest) {
     {
       width: 1200,
       height: 630,
-      emoji: "twemoji",
+      emoji: 'twemoji',
     }
-  );
+  )
 }

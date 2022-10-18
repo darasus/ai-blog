@@ -1,18 +1,18 @@
-import { ExclamationTriangleIcon } from "@heroicons/react/24/solid";
-import { Box, Button, Flex, Stack, Text } from "@chakra-ui/react";
-import React from "react";
-import { Footer } from "./Footer";
-import { Navbar } from "./Navbar";
-import { Link } from "./Link";
-import { Category } from "../types";
-import { useRouter } from "next/router";
-import { useTranslations } from "../hooks/useTranslations";
+import { ExclamationTriangleIcon } from '@heroicons/react/24/solid'
+import { Box, Button, Flex, Stack, Text } from '@chakra-ui/react'
+import React from 'react'
+import { Footer } from './Footer'
+import { Navbar } from './Navbar'
+import { Link } from './Link'
+import { Category } from '../types'
+import { useRouter } from 'next/router'
+import { useTranslations } from '../hooks/useTranslations'
 
-type Props = React.PropsWithChildren<{}>;
+type Props = React.PropsWithChildren<{}>
 
 export function Layout({ children }: Props) {
-  const router = useRouter();
-  const translations = useTranslations();
+  const router = useRouter()
+  const translations = useTranslations()
 
   const categoryLabel: Record<Category, string> = {
     politics: translations.categoryPolitics(),
@@ -27,7 +27,7 @@ export function Layout({ children }: Props) {
     culture: translations.categoryCulture(),
     cooking: translations.categoryCooking(),
     life: translations.categoryLife(),
-  };
+  }
 
   return (
     <Flex bg="gray.100" minH="100vh" direction="column">
@@ -38,25 +38,25 @@ export function Layout({ children }: Props) {
           </Box>
         </Box>
       </Box>
-      <Box bg="white" py={2} borderColor={"gray.200"} borderBottomWidth="1px">
+      <Box bg="white" py={2} borderColor={'gray.200'} borderBottomWidth="1px">
         <Box maxW="6xl" m="0 auto">
-          <Stack spacing={2} overflowX={"auto"} direction="row" px={2}>
+          <Stack spacing={2} overflowX={'auto'} direction="row" px={2}>
             {Object.keys(categoryLabel).map((c, i) => {
-              const isActive = router.query.category === c;
+              const isActive = router.query.category === c
               return (
                 <Box key={i}>
                   <Link href={`/category/${c}/1`} hoverStyles={false}>
                     <Button
                       size="sm"
                       as="span"
-                      variant={"solid"}
-                      colorScheme={isActive ? "purple" : undefined}
+                      variant={'solid'}
+                      colorScheme={isActive ? 'purple' : undefined}
                     >
                       {categoryLabel[c as Category]}
                     </Button>
                   </Link>
                 </Box>
-              );
+              )
             })}
           </Stack>
         </Box>
@@ -67,9 +67,9 @@ export function Layout({ children }: Props) {
           m="0 auto"
           p="4"
           bg="white"
-          borderColor={"gray.200"}
+          borderColor={'gray.200'}
           borderWidth="1px"
-          alignItems={"center"}
+          alignItems={'center'}
         >
           <Box mr={2}>
             <Text color="yellow.300">
@@ -85,14 +85,14 @@ export function Layout({ children }: Props) {
         maxW="6xl"
         m="0 auto"
         bg="white"
-        borderWidth={"1px"}
+        borderWidth={'1px'}
         borderColor="gray.200"
       >
         <main>{children}</main>
       </Box>
-      <Flex alignItems={"center"}>
+      <Flex alignItems={'center'}>
         <Footer />
       </Flex>
     </Flex>
-  );
+  )
 }

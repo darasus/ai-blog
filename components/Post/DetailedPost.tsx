@@ -6,21 +6,21 @@ import {
   Grid,
   GridItem,
   Text,
-} from '@chakra-ui/react';
-import Image from 'next/future/image';
-import React from 'react';
-import {Post} from '../../types';
-import {capitalize} from '../../isomorphic-utils/capitalize';
-import {Markdown} from '../Markdown';
-import {PostMeta} from './PostMeta';
-import {PostTitle} from './PostTitle';
-import {create} from 'domain';
+} from '@chakra-ui/react'
+import Image from 'next/future/image'
+import React from 'react'
+import { Post } from '../../types'
+import { capitalize } from '../../isomorphic-utils/capitalize'
+import { Markdown } from '../Markdown'
+import { PostMeta } from './PostMeta'
+import { PostTitle } from './PostTitle'
+import { create } from 'domain'
 
 interface Props {
-  post: Post;
+  post: Post
 }
 
-export function DetailedPost({post}: Props) {
+export function DetailedPost({ post }: Props) {
   const {
     createdAt,
     title,
@@ -30,7 +30,7 @@ export function DetailedPost({post}: Props) {
     summary,
     imageSrc,
     imageSrcBase64,
-  } = post;
+  } = post
 
   return (
     <article>
@@ -92,5 +92,5 @@ export function DetailedPost({post}: Props) {
         <Markdown {...content} />
       </Box>
     </article>
-  );
+  )
 }

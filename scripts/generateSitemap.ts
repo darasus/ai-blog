@@ -1,13 +1,13 @@
-import fs from "node:fs";
-import path from "node:path";
-import { Locale } from "../types";
-import { getPosts, getRawPosts } from "../node-utils/getPosts";
+import fs from 'node:fs'
+import path from 'node:path'
+import { Locale } from '../types'
+import { getPosts, getRawPosts } from '../node-utils/getPosts'
 
 export async function generateSitemap() {
-  console.log(`🗺 Start generating sitemap...`);
-  const BASE_URL = "https://www.theaipaper.com";
-  const posts = await getRawPosts();
-  const paths: { url: string; updatedAt: string; locale: Locale }[] = [];
+  console.log(`🗺 Start generating sitemap...`)
+  const BASE_URL = 'https://www.theaipaper.com'
+  const posts = await getRawPosts()
+  const paths: { url: string; updatedAt: string; locale: Locale }[] = []
 
   const orderedPosts = posts
     .map((post: any) => ({
@@ -15,26 +15,26 @@ export async function generateSitemap() {
       date: new Date(post?.createdAt as string),
     }))
     .sort((a: any, b: any) => b.date.getTime() - a.date.getTime())
-    .map(({ date, ...post }: any) => post);
+    .map(({ date, ...post }: any) => post)
 
   for (const post of orderedPosts) {
     paths.push({
-      url: `${BASE_URL}/${post.locale !== "en" ? `${post.locale}/` : ""}p/${
+      url: `${BASE_URL}/${post.locale !== 'en' ? `${post.locale}/` : ''}p/${
         post.slug
       }`,
       updatedAt: `${post.updatedAt}`,
       locale: post.locale,
-    });
+    })
   }
 
   const enPosts = await getPosts({
-    locale: "en",
+    locale: 'en',
     page: 1,
-  });
+  })
   const esPosts = await getPosts({
-    locale: "es",
+    locale: 'es',
     page: 1,
-  });
+  })
 
   const sitemap = `
       <?xml version="1.0" encoding="UTF-8"?>
@@ -53,14 +53,14 @@ export async function generateSitemap() {
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
-          `.trim();
+          `.trim()
         })
-        .join("")}
+        .join('')}
         ${Array.from({ length: enPosts.totalPages })
           .map((_, i) => {
             const posts = orderedPosts.filter(
-              (post: any) => post.locale === "en"
-            );
+              (post: any) => post.locale === 'en'
+            )
             return `
             <url>
               <loc>${BASE_URL}/posts/${i + 1}</loc>
@@ -70,14 +70,14 @@ export async function generateSitemap() {
               <changefreq>monthly</changefreq>
               <priority>1.0</priority>
             </url>
-          `;
+          `
           })
-          .join("")}
+          .join('')}
           ${Array.from({ length: esPosts.totalPages })
             .map((_, i) => {
               const posts = orderedPosts.filter(
-                (post: any) => post.locale === "es"
-              );
+                (post: any) => post.locale === 'es'
+              )
               return `
                 <url>
                   <loc>${BASE_URL}/es/posts/${i + 1}</loc>
@@ -87,13 +87,13 @@ export async function generateSitemap() {
                   <changefreq>monthly</changefreq>
                   <priority>1.0</priority>
                 </url>
-              `;
+              `
             })
-            .join("")}
+            .join('')}
       </urlset>
-    `.trim();
+    `.trim()
 
-  const filePath = path.join(__dirname, "../sitemap.ts");
-  fs.writeFileSync(filePath, `export const sitemap = \`${sitemap}\``);
-  console.log(`✅ Done generating sitemap.`);
+  const filePath = path.join(__dirname, '../sitemap.ts')
+  fs.writeFileSync(filePath, `export const sitemap = \`${sitemap}\``)
+  console.log(`✅ Done generating sitemap.`)
 }

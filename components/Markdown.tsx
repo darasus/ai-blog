@@ -1,22 +1,22 @@
-import { List, ListIcon, ListItem, Text } from "@chakra-ui/react";
-import { MDXRemote } from "next-mdx-remote";
-import * as mdx from "@mdx-js/react";
-import { headingSizeMap } from "../theme";
+import { List, ListIcon, ListItem, Text } from '@chakra-ui/react'
+import { MDXRemote } from 'next-mdx-remote'
+import * as mdx from '@mdx-js/react'
+import { headingSizeMap } from '../theme'
 import {
   ArrowSmallRightIcon,
   ChevronDoubleRightIcon,
-} from "@heroicons/react/24/solid";
+} from '@heroicons/react/24/solid'
 
-type Props = any;
+type Props = any
 
-type Components = React.ComponentProps<typeof mdx.MDXProvider>["components"];
+type Components = React.ComponentProps<typeof mdx.MDXProvider>['components']
 
 const components: Components = {
   h1: (props) => (
     <Text
       as="h1"
-      fontWeight={"bold"}
-      fontSize={headingSizeMap["h1"]}
+      fontWeight={'bold'}
+      fontSize={headingSizeMap['h1']}
       lineHeight={1}
       {...props}
     />
@@ -24,9 +24,9 @@ const components: Components = {
   h2: (props) => (
     <Text
       as="h2"
-      fontWeight={"bold"}
+      fontWeight={'bold'}
       mt={4}
-      fontSize={headingSizeMap["h2"]}
+      fontSize={headingSizeMap['h2']}
       lineHeight={1}
       {...props}
     />
@@ -34,9 +34,9 @@ const components: Components = {
   h3: (props) => (
     <Text
       as="h3"
-      fontWeight={"bold"}
+      fontWeight={'bold'}
       mt={4}
-      fontSize={headingSizeMap["h3"]}
+      fontSize={headingSizeMap['h3']}
       lineHeight={1}
       {...props}
     />
@@ -44,14 +44,14 @@ const components: Components = {
   h4: (props) => (
     <Text
       as="h4"
-      fontWeight={"bold"}
+      fontWeight={'bold'}
       mt={4}
-      fontSize={headingSizeMap["h4"]}
+      fontSize={headingSizeMap['h4']}
       lineHeight={1}
       {...props}
     />
   ),
-  p: (props) => <Text {...props} my={2} fontSize={"lg"} />,
+  p: (props) => <Text {...props} my={2} fontSize={'lg'} />,
   ul: (props) => <List spacing={3} {...props} />,
   li: (props) => (
     <ListItem {...props}>
@@ -62,13 +62,13 @@ const components: Components = {
         color="gray.500"
         mr={1}
       />
-      <Text as="span" fontSize={"lg"}>
+      <Text as="span" fontSize={'lg'}>
         {props.children}
       </Text>
     </ListItem>
   ),
-};
+}
 
 export function Markdown(props: Props) {
-  return <MDXRemote {...props} components={components} />;
+  return <MDXRemote {...props} components={components} />
 }
