@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import { ImageResponse } from '@vercel/og'
 import { NextRequest } from 'next/server'
 
@@ -28,50 +29,16 @@ export default async function handler(req: NextRequest) {
   return new ImageResponse(
     (
       <div
+        tw="flex bg-gray-100 w-full h-full items-center justify-center text-black flex-col"
         style={{
-          display: 'flex',
-          background: '#fafafa',
-          width: '100%',
-          height: '100%',
-          justifyContent: 'center',
-          alignItems: 'center',
-          color: gray[800],
-          border: '10px solid #6d28d9',
           fontFamily: 'SF Pro',
-          flexDirection: 'column',
         }}
       >
-        <div style={{ display: 'flex', alignItems: 'center' }}>
-          <div style={{ display: 'flex', width: 600, flexDirection: 'column' }}>
-            <span
-              style={{
-                fontWeight: 800,
-                fontSize: 20,
-                lineHeight: 1,
-                color: gray[700],
-                paddingRight: 6,
-                paddingLeft: 6,
-                paddingTop: 4,
-                paddingBottom: 4,
-                textTransform: 'uppercase',
-                backgroundColor: gray[200],
-              }}
-            >{`${category}`}</span>
-            <span
-              style={{
-                fontWeight: 800,
-                fontSize: 60,
-                lineHeight: 1,
-                color: gray[800],
-                paddingRight: 20,
-                marginBottom: 5,
-              }}
-            >{`${title}`}</span>
-            <div
-              style={{
-                display: 'flex',
-              }}
-            >
+        <div tw="flex items-center">
+          <div tw="flex flex-col" style={{ width: 600 }}>
+            <span tw="font-bold text-lg leading-none text-gray-700 py-1 px-2 uppercase bg-gray-200 rounded">{`${category}`}</span>
+            <span tw="font-bold text-6xl leading-none text-gray-800 pr-4 mb-2">{`${title}`}</span>
+            <div tw="flex">
               <svg
                 width="200"
                 height="40"
@@ -113,7 +80,6 @@ export default async function handler(req: NextRequest) {
     {
       width: 1200,
       height: 630,
-      emoji: 'twemoji',
     }
   )
 }
