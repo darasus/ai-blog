@@ -1,4 +1,4 @@
-import { Box, Grid, GridItem } from '@chakra-ui/react'
+import { AspectRatio, Box, Grid, GridItem } from '@chakra-ui/react'
 import Image from 'next/future/image'
 import React from 'react'
 import { Post, BasePost } from '../../types'
@@ -22,14 +22,16 @@ export function PostExcerpt({ post }: Props) {
       p={4}
     >
       <GridItem colSpan={1}>
-        <Image
-          blurDataURL={imageSrcBase64}
-          src={imageSrc}
-          height={800}
-          width={800}
-          alt={title}
-          placeholder="blur"
-        />
+        <AspectRatio position="relative" ratio={1}>
+          <Image
+            blurDataURL={imageSrcBase64}
+            src={imageSrc}
+            alt={title}
+            placeholder="blur"
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          />
+        </AspectRatio>
       </GridItem>
       <GridItem colSpan={1}>
         <PostMeta category={categoryLocal} date={createdAt} />
