@@ -1,7 +1,5 @@
-import { List, ListIcon, ListItem, Text } from '@chakra-ui/react'
 import { MDXRemote } from 'next-mdx-remote'
 import * as mdx from '@mdx-js/react'
-import { headingSizeMap } from '../theme'
 import { ChevronDoubleRightIcon } from '@heroicons/react/24/solid'
 
 type Props = any
@@ -10,59 +8,31 @@ type Components = React.ComponentProps<typeof mdx.MDXProvider>['components']
 
 const components: Components = {
   h1: (props) => (
-    <Text
-      as="h1"
-      fontWeight={'bold'}
-      fontSize={headingSizeMap['h1']}
-      lineHeight={1}
+    <h1
+      className="font-bold sm:text-4xl md:text-6xl lg:text-6xl leading-none"
       {...props}
     />
   ),
   h2: (props) => (
-    <Text
-      as="h2"
-      fontWeight={'bold'}
-      mt={4}
-      fontSize={headingSizeMap['h2']}
-      lineHeight={1}
-      {...props}
-    />
+    <h2 className="font-bold text-4xl leading-none mt-4" {...props} />
   ),
   h3: (props) => (
-    <Text
-      as="h3"
-      fontWeight={'bold'}
-      mt={4}
-      fontSize={headingSizeMap['h3']}
-      lineHeight={1}
-      {...props}
-    />
+    <h3 className="font-bold text-4xl leading-none mt-4" {...props} />
   ),
   h4: (props) => (
-    <Text
-      as="h4"
-      fontWeight={'bold'}
-      mt={4}
-      fontSize={headingSizeMap['h4']}
-      lineHeight={1}
-      {...props}
-    />
+    <h4 className="font-bold text-4xl leading-none mt-4" {...props} />
   ),
-  p: (props) => <Text {...props} my={2} fontSize={'lg'} />,
-  ul: (props) => <List spacing={3} {...props} />,
+  p: (props) => <p {...props} className="my-2 text-lg" />,
+  ul: (props) => <ul className="mb-3" {...props} />,
   li: (props) => (
-    <ListItem {...props}>
-      <ListIcon
-        as={ChevronDoubleRightIcon}
-        w={5}
-        h={5}
-        color="gray.500"
-        mr={1}
+    <li {...props} className="flex">
+      <ChevronDoubleRightIcon
+        width={15}
+        height={15}
+        className="text-gray-500 mr-1 mt-1.5 flex-shrink-0"
       />
-      <Text as="span" fontSize={'lg'}>
-        {props.children}
-      </Text>
-    </ListItem>
+      <span className="text-lg">{props.children}</span>
+    </li>
   ),
 }
 

@@ -1,4 +1,3 @@
-import { AspectRatio, Box, Grid, GridItem } from '@chakra-ui/react'
 import Image from 'next/future/image'
 import React from 'react'
 import { BasePost } from '../../types'
@@ -15,13 +14,9 @@ export function PostExcerpt({ post }: Props) {
     post
 
   return (
-    <Grid
-      templateColumns={['repeat(1, 1fr)', 'repeat(1, 1fr)', 'repeat(2, 1fr)']}
-      gap={5}
-      p={4}
-    >
-      <GridItem colSpan={1}>
-        <AspectRatio position="relative" ratio={1}>
+    <div className="grid gap-4 md:grid-cols-2 p-4">
+      <div className="col-span-1">
+        <div className="aspect-square relative">
           <Image
             blurDataURL={imageSrcBase64}
             src={imageSrc}
@@ -31,15 +26,15 @@ export function PostExcerpt({ post }: Props) {
             loading="lazy"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
-        </AspectRatio>
-      </GridItem>
-      <GridItem colSpan={1}>
+        </div>
+      </div>
+      <div className="col-span-1">
         <PostMeta category={categoryLocal} date={createdAt} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
-        <Box px={'1'}>
+        <div className="px-1">
           <Markdown {...intro} />
-        </Box>
-      </GridItem>
-    </Grid>
+        </div>
+      </div>
+    </div>
   )
 }

@@ -1,5 +1,5 @@
-import { Badge, Flex, Text } from '@chakra-ui/react'
 import React from 'react'
+import { Badge } from '../Badge'
 
 interface Props {
   date: string
@@ -8,16 +8,9 @@ interface Props {
 
 export const PostMeta: React.FC<Props> = ({ date, category }) => {
   return (
-    <Flex alignItems={'center'}>
-      <Badge mr={2}>{category}</Badge>
-      <Text
-        color="gray.700"
-        fontSize="xs"
-        textTransform={'uppercase'}
-        fontWeight="bold"
-      >
-        {date}
-      </Text>
-    </Flex>
+    <div className="flex items-center">
+      <Badge className="mr-2">{category}</Badge>
+      <span className="text-gray-700 uppercase text-xs font-bold">{date}</span>
+    </div>
   )
 }
