@@ -1,4 +1,3 @@
-import { Link } from '../components/Link'
 import { LinkButton } from '../components/LinkButton'
 
 export default function NotFound() {
@@ -6,7 +5,7 @@ export default function NotFound() {
     <div className="min-h-full bg-white px-4 py-16 sm:px-6 sm:py-24 md:grid md:place-items-center lg:px-8">
       <div className="mx-auto max-w-max">
         <main className="sm:flex">
-          <p className="text-4xl font-bold tracking-tight text-indigo-600 sm:text-5xl">
+          <p className="text-4xl font-bold tracking-tight text-brand-600 sm:text-5xl">
             404
           </p>
           <div className="sm:ml-6">
@@ -19,7 +18,7 @@ export default function NotFound() {
               </p>
             </div>
             <div className="mt-10 flex space-x-3 sm:border-l sm:border-transparent sm:pl-6">
-              <LinkButton colorScheme="blue" href="/">
+              <LinkButton colorScheme="brand" href="/">
                 Go back home
               </LinkButton>
             </div>

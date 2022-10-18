@@ -46,7 +46,7 @@ export function Layout({ children }: Props) {
                 <div key={i}>
                   <LinkButton
                     href={`/category/${c}/1`}
-                    colorScheme={isActive ? 'blue' : 'secondary'}
+                    colorScheme={isActive ? 'brand' : 'secondary'}
                   >
                     {categoryLabel[c as Category]}
                   </LinkButton>

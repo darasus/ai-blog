@@ -17,7 +17,7 @@ export default function Home({ data }: PageInfo) {
         description={translations.siteDescription()}
       />
       <PostListSection title={translations.latestArticles()} posts={data} />
-      <div className="content-center py-5">
+      <div className="flex justify-center py-5">
         <LinkButton href="/posts/2">{translations.seeMore()}</LinkButton>
       </div>
     </>
