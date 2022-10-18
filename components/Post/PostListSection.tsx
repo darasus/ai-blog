@@ -1,5 +1,5 @@
-import { Box, Divider } from '@chakra-ui/react'
 import { BasePost } from '../../types'
+import { Divider } from '../Divider'
 import { Link } from '../Link'
 import { PostExcerpt } from './PostExcerpt'
 
@@ -12,15 +12,9 @@ export function PostListSection({ posts, title }: Props) {
   return (
     <>
       {title && (
-        <Box
-          borderBottomWidth={'1px'}
-          p={4}
-          textTransform={'uppercase'}
-          fontWeight="bold"
-          borderColor={'gray.100'}
-        >
+        <div className="border-b border-b-gray-100 p-4 uppercase font-bold ">
           {title}
-        </Box>
+        </div>
       )}
       {posts.map((post, i: number) => {
         return (

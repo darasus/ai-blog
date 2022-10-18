@@ -1,15 +1,7 @@
-import {
-  AspectRatio,
-  Box,
-  Divider,
-  Flex,
-  Grid,
-  GridItem,
-  Text,
-} from '@chakra-ui/react'
 import Image from 'next/future/image'
 import React from 'react'
 import { Post } from '../../types'
+import { Divider } from '../Divider'
 import { Markdown } from '../Markdown'
 import { PostMeta } from './PostMeta'
 import { PostTitle } from './PostTitle'
@@ -32,13 +24,9 @@ export function DetailedPost({ post }: Props) {
 
   return (
     <article>
-      <Grid
-        templateColumns={['repeat(1, 1fr)', 'repeat(1, 1fr)', 'repeat(2, 1fr)']}
-        gap={4}
-        p={4}
-      >
-        <GridItem colSpan={1}>
-          <AspectRatio position="relative" ratio={1}>
+      <div className="grid grid-cols-1 md:grid-cols-2 p-4 gap-4">
+        <div className="col-span-1">
+          <div className="relative aspect-square">
             <Image
               blurDataURL={imageSrcBase64}
               src={imageSrc}
@@ -48,45 +36,27 @@ export function DetailedPost({ post }: Props) {
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
-          </AspectRatio>
-        </GridItem>
-        <GridItem colSpan={1}>
-          <Flex
-            h={'full'}
-            alignItems={'start'}
-            justifyContent="center"
-            flexDirection="column"
-          >
+          </div>
+        </div>
+        <div className="col-span-1">
+          <div className="flex items-start justify-center flex-col h-full">
             <PostMeta date={createdAt} category={categoryLocal} />
             <PostTitle>{title}</PostTitle>
-          </Flex>
-        </GridItem>
-      </Grid>
+          </div>
+        </div>
+      </div>
       <Divider />
-      <Box borderLeftWidth={4} px={4} m={4}>
-        <Text
-          as="span"
-          fontSize={'2xl'}
-          color="gray.700"
-          fontWeight={'bold'}
-          fontStyle={'italic'}
-          lineHeight="1.2"
-        >{`TL;DR: `}</Text>
-        <Text
-          fontSize={'2xl'}
-          color="gray.700"
-          as="span"
-          fontStyle={'italic'}
-          lineHeight="1.2"
-        >
+      <div className="border-l-4 px-4 m-4">
+        <span className="text-2xl text-gray-500 font-bold italic leading-relaxed">{`TL;DR: `}</span>
+        <span className="text-2xl text-gray-500 italic leading-snug">
           {summary}
-        </Text>
-      </Box>
+        </span>
+      </div>
       <Divider />
-      <Box p={4}>
+      <div className="p-4">
         <Markdown {...intro} />
         <Markdown {...content} />
-      </Box>
+      </div>
     </article>
   )
 }

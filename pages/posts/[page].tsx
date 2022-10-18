@@ -1,5 +1,5 @@
-import { Divider } from '@chakra-ui/react'
 import { GetStaticPaths, GetStaticProps } from 'next'
+import { Divider } from '../../components/Divider'
 import { Link } from '../../components/Link'
 import { Meta } from '../../components/Meta'
 import { Pagination } from '../../components/Pagination'

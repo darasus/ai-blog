@@ -1,4 +1,3 @@
-import { Flex } from '@chakra-ui/react'
 import { GetStaticProps } from 'next'
 import { LinkButton } from '../components/LinkButton'
 import { Meta } from '../components/Meta'
@@ -18,9 +17,9 @@ export default function Home({ data }: PageInfo) {
         description={translations.siteDescription()}
       />
       <PostListSection title={translations.latestArticles()} posts={data} />
-      <Flex justifyContent={'center'} py={5}>
+      <div className="content-center py-5">
         <LinkButton href="/posts/2">{translations.seeMore()}</LinkButton>
-      </Flex>
+      </div>
     </>
   )
 }

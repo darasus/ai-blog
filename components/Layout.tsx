@@ -1,12 +1,11 @@
 import { ExclamationTriangleIcon } from '@heroicons/react/24/solid'
-import { Box, Button, Flex, Stack, Text } from '@chakra-ui/react'
 import React from 'react'
 import { Footer } from './Footer'
 import { Navbar } from './Navbar'
-import { Link } from './Link'
 import { Category } from '../types'
 import { useRouter } from 'next/router'
 import { useTranslations } from '../hooks/useTranslations'
+import { LinkButton } from './LinkButton'
 
 type Props = React.PropsWithChildren<{}>
 
@@ -30,69 +29,51 @@ export function Layout({ children }: Props) {
   }
 
   return (
-    <Flex bg="gray.100" minH="100vh" direction="column">
-      <Box bg="gray.900">
-        <Box px="4" maxW="6xl" m="0 auto">
-          <Box>
+    <div className="flex bg-gray-100 min-h-screen flex-col">
+      <div className="bg-gray-900">
+        <div className="px-4 max-w-6xl m-auto">
+          <div>
             <Navbar />
-          </Box>
-        </Box>
-      </Box>
-      <Box bg="white" py={2} borderColor={'gray.200'} borderBottomWidth="1px">
-        <Box maxW="6xl" m="0 auto">
-          <Stack spacing={2} overflowX={'auto'} direction="row" px={2}>
+          </div>
+        </div>
+      </div>
+      <div className="bg-white py-2 border-b border-gray-200">
+        <div className="max-w-6xl m-auto">
+          <div className="flex flex-row gap-2 overflow-y-visible overflow-x-auto px-2">
             {Object.keys(categoryLabel).map((c, i) => {
               const isActive = router.query.category === c
               return (
-                <Box key={i}>
-                  <Link href={`/category/${c}/1`} hoverStyles={false}>
-                    <Button
-                      size="sm"
-                      as="span"
-                      variant={'solid'}
-                      colorScheme={isActive ? 'purple' : undefined}
-                    >
-                      {categoryLabel[c as Category]}
-                    </Button>
-                  </Link>
-                </Box>
+                <div key={i}>
+                  <LinkButton
+                    href={`/category/${c}/1`}
+                    colorScheme={isActive ? 'blue' : 'secondary'}
+                  >
+                    {categoryLabel[c as Category]}
+                  </LinkButton>
+                </div>
               )
             })}
-          </Stack>
-        </Box>
-      </Box>
-      <Box mb="4" mt="4">
-        <Flex
-          maxW="6xl"
-          m="0 auto"
-          p="4"
-          bg="white"
-          borderColor={'gray.200'}
-          borderWidth="1px"
-          alignItems={'center'}
-        >
-          <Box mr={2}>
-            <Text color="yellow.300">
+          </div>
+        </div>
+      </div>
+      <div className="my-4">
+        <div className="flex max-w-6xl m-auto p-4 bg-white border border-gray-200 items-center">
+          <div className="mr-2">
+            <span className="text-yellow-300">
               <ExclamationTriangleIcon width={22} height={22} />
-            </Text>
-          </Box>
-          <Box>
-            <Text color="gray.700">{translations.introWarning()}</Text>
-          </Box>
-        </Flex>
-      </Box>
-      <Box
-        maxW="6xl"
-        m="0 auto"
-        bg="white"
-        borderWidth={'1px'}
-        borderColor="gray.200"
-      >
+            </span>
+          </div>
+          <div>
+            <span className="text-gray-700">{translations.introWarning()}</span>
+          </div>
+        </div>
+      </div>
+      <div className="max-w-6xl m-auto bg-white border border-gray-200">
         <main>{children}</main>
-      </Box>
-      <Flex alignItems={'center'}>
+      </div>
+      <div className="flex items-center">
         <Footer />
-      </Flex>
-    </Flex>
+      </div>
+    </div>
   )
 }

@@ -1,4 +1,3 @@
-import { Divider } from '@chakra-ui/react'
 import { Meta } from '../../components/Meta'
 import { DetailedPost } from '../../components/Post/DetailedPost'
 import { PostListSection } from '../../components/Post/PostListSection'
@@ -10,6 +9,7 @@ import { generatePostPageStaticPaths } from '../../node-utils/generateStaticPath
 import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
 import { useTranslations } from '../../hooks/useTranslations'
 import { baseProductionUrl } from '../../constants'
+import { Divider } from '../../components/Divider'
 
 interface Props extends PageInfo {
   post: Post

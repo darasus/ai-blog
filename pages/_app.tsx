@@ -3,8 +3,6 @@ import type { AppProps } from 'next/app'
 import { Layout } from '../components/Layout'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
-import { ChakraProvider } from '@chakra-ui/react'
-import { theme } from '../theme'
 import Script from 'next/script'
 import { useEffect } from 'react'
 import * as gtag from '../lib/gtag'
@@ -53,17 +51,15 @@ function MyApp({
         defaultLocale={defaultLocale}
         messages={pageProps.intlMessages}
       >
-        <ChakraProvider theme={theme}>
-          <Layout>
-            <Head>
-              <meta
-                name="viewport"
-                content="initial-scale=1.0, width=device-width"
-              />
-            </Head>
-            <Component {...pageProps} />
-          </Layout>
-        </ChakraProvider>
+        <Layout>
+          <Head>
+            <meta
+              name="viewport"
+              content="initial-scale=1.0, width=device-width"
+            />
+          </Head>
+          <Component {...pageProps} />
+        </Layout>
       </IntlProvider>
     </>
   )
