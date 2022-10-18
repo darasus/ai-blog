@@ -29,7 +29,7 @@ export function Layout({ children }: Props) {
   }
 
   return (
-    <div className="flex bg-gray-100 min-h-screen flex-col">
+    <div className="bg-gray-100 min-h-screen">
       <div className="bg-gray-900">
         <div className="px-4 max-w-6xl m-auto">
           <div>
@@ -71,7 +71,7 @@ export function Layout({ children }: Props) {
       <div className="max-w-6xl m-auto bg-white border border-gray-200">
         <main>{children}</main>
       </div>
-      <div className="flex items-center">
+      <div>
         <Footer />
       </div>
     </div>
