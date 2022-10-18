@@ -32,7 +32,7 @@ export default function Posts({ data, totalPages }: PageInfo) {
   )
 }
 
-export const getStaticPaths: GetStaticPaths = async (ctx) => {
+export const getStaticPaths: GetStaticPaths = async () => {
   return {
     paths: await generatePostsPageStaticPaths(),
     fallback: false,

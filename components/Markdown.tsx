@@ -2,10 +2,7 @@ import { List, ListIcon, ListItem, Text } from '@chakra-ui/react'
 import { MDXRemote } from 'next-mdx-remote'
 import * as mdx from '@mdx-js/react'
 import { headingSizeMap } from '../theme'
-import {
-  ArrowSmallRightIcon,
-  ChevronDoubleRightIcon,
-} from '@heroicons/react/24/solid'
+import { ChevronDoubleRightIcon } from '@heroicons/react/24/solid'
 
 type Props = any
 

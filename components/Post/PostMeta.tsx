@@ -1,6 +1,5 @@
-import { Badge, Box, Flex, Text } from '@chakra-ui/react'
+import { Badge, Flex, Text } from '@chakra-ui/react'
 import React from 'react'
-import { Category } from '../../types'
 
 interface Props {
   date: string

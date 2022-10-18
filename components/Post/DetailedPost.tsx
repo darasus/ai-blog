@@ -10,11 +10,9 @@ import {
 import Image from 'next/future/image'
 import React from 'react'
 import { Post } from '../../types'
-import { capitalize } from '../../isomorphic-utils/capitalize'
 import { Markdown } from '../Markdown'
 import { PostMeta } from './PostMeta'
 import { PostTitle } from './PostTitle'
-import { create } from 'domain'
 
 interface Props {
   post: Post

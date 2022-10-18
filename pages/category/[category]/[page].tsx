@@ -52,7 +52,7 @@ export default function CategoryPosts({ data, totalPages }: PageInfo) {
   )
 }
 
-export const getStaticPaths: GetStaticPaths = async (ctx) => {
+export const getStaticPaths: GetStaticPaths = async () => {
   return {
     paths: await generateCategoryPageStaticPaths(),
     fallback: false,

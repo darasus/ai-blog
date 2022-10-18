@@ -23,7 +23,7 @@ axiosRetry(client, {
   retryDelay: (retryCount) => {
     return retryCount * ms('10s')
   },
-  onRetry(_, error: any) {
+  onRetry() {
     console.warn(`Request failed, retrying...`)
   },
 })

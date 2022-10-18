@@ -25,7 +25,7 @@ axiosRetry(client, {
   retryDelay: (retryCount) => {
     return retryCount * 1000
   },
-  onRetry(_, error: any) {
+  onRetry() {
     console.warn(`Request failed, retrying...`)
   },
 })
@@ -37,6 +37,7 @@ export class Writesonic {
     (type: 'content' | 'summary' | 'outlines' | 'intro') => (error: any) => {
       const e = {
         code: error?.code,
+        type,
         status: error?.response?.status,
         message: error?.response?.statusText,
       }

@@ -1,5 +1,5 @@
 import { Box, Divider } from '@chakra-ui/react'
-import { Post, BasePost } from '../../types'
+import { BasePost } from '../../types'
 import { Link } from '../Link'
 import { PostExcerpt } from './PostExcerpt'
 
