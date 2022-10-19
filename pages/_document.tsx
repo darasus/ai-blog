@@ -10,15 +10,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-          `,
-            }}
-          />
         </body>
       </Html>
     )
