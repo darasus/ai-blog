@@ -7,18 +7,20 @@ import sharp from 'sharp'
 import { Dalle } from '../lib/dalle'
 import { imagesPath, postsPath } from '../node-utils/paths'
 import { Translate } from '../lib/translate'
-import { Ora } from 'ora'
 import { Locale, Post } from '../types'
 import { serializeMarkdown } from '../node-utils/serializeMarkdown'
 import { omit } from 'ramda'
 import { performance } from 'perf_hooks'
+import isEqual from 'lodash/isEqual'
+import ora from 'ora'
 
-const isEqual = require('lodash/isEqual')
+const spinner = ora('Generating articles...')
 
 const ai = new Writesonic()
 const translateAPI = new Translate()
 
 export async function generateArticles() {
+  spinner.start()
   const start = performance.now()
   const titlesAndCategories = getArticleData()
 
@@ -27,6 +29,7 @@ export async function generateArticles() {
   )
 
   for (const [i, { title, category }] of titlesAndCategories.entries()) {
+    spinner.text = `Generating articles (${i}/${titlesAndCategories.length}): ${title}...`
     const slug: Record<Locale, string> = {
       en: slugify(title, { strict: true, lower: true }),
       es: slugify(await translateAPI.translate(title), {
@@ -109,6 +112,7 @@ export async function generateArticles() {
       }
     }
   }
+  spinner.stop()
   const end = performance.now()
   console.log(
     `✅ Done generating ${titlesAndCategories.length} articles in ${

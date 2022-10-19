@@ -1,5 +1,8 @@
+import ora from 'ora'
 import { getPosts, getRawPosts } from '../node-utils/getPosts'
 import { writeArticle } from '../node-utils/writeArticle'
+
+const spinner = ora('Generating related articles...')
 
 export async function generateRelatedArticles() {
   const oldPosts = await getRawPosts()
@@ -7,6 +10,7 @@ export async function generateRelatedArticles() {
   console.log(`✏️ Generating related articles for ${oldPosts.length} posts `)
 
   for (const [i, post] of oldPosts.entries()) {
+    spinner.text = `Generating related articles (${i}/${oldPosts.length}) for ${post.title}...`
     if (post.relatedArticles.length > 0) {
       break
     }
@@ -24,5 +28,6 @@ export async function generateRelatedArticles() {
     })
   }
 
+  spinner.stop()
   console.log(`✅ Done generating ${oldPosts.length} related articles!`)
 }
