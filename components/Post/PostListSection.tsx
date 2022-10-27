@@ -19,7 +19,10 @@ export function PostListSection({ posts, title }: Props) {
       {posts.map((post, i: number) => {
         return (
           <Link hoverStyles={false} href={`/p/${post.slug}`} key={i}>
-            <PostExcerpt post={post} />
+            <PostExcerpt
+              loading={i === 0 || i === 1 ? 'eager' : 'lazy'}
+              post={post}
+            />
             <Divider />
           </Link>
         )

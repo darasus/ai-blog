@@ -7,9 +7,10 @@ import { PostTitle } from './PostTitle'
 
 interface Props {
   post: BasePost
+  loading?: 'lazy' | 'eager'
 }
 
-export function PostExcerpt({ post }: Props) {
+export function PostExcerpt({ post, loading = 'lazy' }: Props) {
   const { createdAt, categoryLocal, title, intro, imageSrc, imageSrcBase64 } =
     post
 
@@ -23,7 +24,7 @@ export function PostExcerpt({ post }: Props) {
             alt={title}
             placeholder="blur"
             fill
-            loading="lazy"
+            loading={loading}
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
         </div>
