@@ -14,7 +14,6 @@
     "i18n:compile": "formatjs compile-folder lang compiled-lang"
   },
   "dependencies": {
-    "@builder.io/partytown": "^0.7.0",
     "@formatjs/cli": "^5.1.1",
     "@heroicons/react": "^2.0.11",
     "@mdx-js/react": "^2.1.3",
@@ -28,7 +27,7 @@
     "gray-matter": "^4.0.3",
     "ioredis": "^5.1.0",
     "ms": "^2.1.3",
-    "next": "^12.3.1",
+    "next": "^13.0.0",
     "next-mdx-remote": "3.0.8",
     "openai": "^3.0.0",
     "paginate-array-ts": "^1.0.0",
@@ -54,7 +53,7 @@
     "autoprefixer": "^10.4.12",
     "babel-plugin-formatjs": "^10.3.29",
     "eslint": "8.19.0",
-    "eslint-config-next": "12.2.0",
+    "eslint-config-next": "13.0.0",
     "eslint-plugin-formatjs": "^4.3.2",
     "esno": "^0.16.3",
     "lodash": "^4.17.21",

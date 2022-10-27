@@ -6,8 +6,8 @@ type Props = React.PropsWithChildren<LinkProps> & { hoverStyles?: boolean }
 
 export function Link({ children, hoverStyles = true, ...props }: Props) {
   return (
-    <NextLink {...props}>
-      <a className={clsx({ underline: hoverStyles })}>{children}</a>
+    <NextLink {...props} className={clsx({ underline: hoverStyles })}>
+      {children}
     </NextLink>
   )
 }

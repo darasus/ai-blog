@@ -12,30 +12,33 @@ export function LinkButton({
 }: Props) {
   if (colorScheme === 'white') {
     return (
-      <NextLink {...props}>
-        <a className="inline-flex items-center rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium leading-4 text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2">
-          {children}
-        </a>
+      <NextLink
+        {...props}
+        className="inline-flex items-center rounded-md border border-gray-300 bg-white px-3 py-2 text-sm font-medium leading-4 text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2"
+      >
+        {children}
       </NextLink>
     )
   }
 
   if (colorScheme === 'brand') {
     return (
-      <NextLink {...props}>
-        <a className="inline-flex items-center rounded-md border border-transparent bg-brand-900 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-brand-700 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2">
-          {children}
-        </a>
+      <NextLink
+        {...props}
+        className="inline-flex items-center rounded-md border border-transparent bg-brand-900 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-brand-700 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2"
+      >
+        {children}
       </NextLink>
     )
   }
 
   if (colorScheme === 'secondary') {
     return (
-      <NextLink {...props}>
-        <a className="inline-flex items-center rounded-md border border-transparent bg-brand-200 px-3 py-2 text-sm font-medium leading-4 text-brand-900 hover:bg-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2">
-          {children}
-        </a>
+      <NextLink
+        {...props}
+        className="inline-flex items-center rounded-md border border-transparent bg-brand-200 px-3 py-2 text-sm font-medium leading-4 text-brand-900 hover:bg-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2"
+      >
+        {children}
       </NextLink>
     )
   }
