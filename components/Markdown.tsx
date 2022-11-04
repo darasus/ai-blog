@@ -1,3 +1,5 @@
+'use client'
+
 import { MDXRemote } from 'next-mdx-remote'
 import * as mdx from '@mdx-js/react'
 import { ChevronDoubleRightIcon } from '@heroicons/react/24/solid'

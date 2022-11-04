@@ -8,6 +8,7 @@ const nextConfig = {
   images: {
     domains: ['theaipaper.b-cdn.net'],
   },
+  experimental: { appDir: true },
 }
 
 module.exports = nextConfig

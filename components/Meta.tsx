@@ -44,7 +44,7 @@ export const Meta: React.FC<Props> = ({
   const url = `${baseProductionUrl}/p/${slug}`
 
   return (
-    <Head>
+    <>
       <title>{actualTitle}</title>
       <meta name="title" content={actualTitle} />
       <meta name="description" content={description} />
@@ -72,6 +72,6 @@ export const Meta: React.FC<Props> = ({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
       )}
-    </Head>
+    </>
   )
 }

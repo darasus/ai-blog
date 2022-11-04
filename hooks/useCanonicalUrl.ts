@@ -6,15 +6,15 @@ interface UseCanonicalUrlArgs {
 }
 
 export function useCanonicalUrl({ slug }: UseCanonicalUrlArgs) {
-  const router = useRouter()
+  // const router = useRouter()
 
-  if (router.pathname.startsWith('/posts/')) {
-    return `${baseProductionUrl}${router.asPath}`
-  }
+  // if (router.pathname.startsWith('/posts/')) {
+  //   return `${baseProductionUrl}${router.asPath}`
+  // }
 
-  if (router.pathname.startsWith('/p/') && slug) {
-    return `${baseProductionUrl}/p/${slug}`
-  }
+  // if (router.pathname.startsWith('/p/') && slug) {
+  //   return `${baseProductionUrl}/p/${slug}`
+  // }
 
   return `${baseProductionUrl}/`
 }
