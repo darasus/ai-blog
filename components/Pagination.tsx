@@ -1,5 +1,4 @@
 'use client'
-import { useRouter } from 'next/router'
 import React from 'react'
 import { LinkButton } from './LinkButton'
 
@@ -9,8 +8,6 @@ interface Props {
 }
 
 export const Pagination: React.FC<Props> = ({ totalPages, currentPage }) => {
-  const router = useRouter()
-
   return (
     <div className="flex bg-white p-4 items-center">
       <div className="flex grow">
