@@ -1,3 +1,4 @@
+import { NextConfig } from 'next'
 import { headers } from 'next/headers'
 import { Divider } from '../../../../components/Divider'
 import { Link } from '../../../../components/Link'
@@ -86,7 +87,3 @@ export async function generateStaticParams() {
 
   return paths
 }
-
-// export const config = {
-//   unstable_excludeFiles: ['public/**/*'],
-// }

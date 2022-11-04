@@ -54,7 +54,3 @@ export async function generateStaticParams() {
     locale: post.locale,
   }))
 }
-
-// export const config = {
-//   unstable_excludeFiles: ['public/**/*'],
-// }

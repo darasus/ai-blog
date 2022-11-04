@@ -56,31 +56,3 @@ export async function generateStaticParams() {
 
   return [...enPaths, ...esPaths]
 }
-
-// export const getStaticPaths: GetStaticPaths = async () => {
-//   return {
-//     paths: await generatePostsPageStaticPaths(),
-//     fallback: false,
-//   }
-// }
-
-// export const getStaticProps: GetStaticProps = async (ctx) => {
-//   const locale = ctx.locale as Locale
-//   const defaultLocale = ctx.defaultLocale as Locale
-//   const page = Number(ctx.params?.page as string)
-//   const props = await getPosts({
-//     locale,
-//     page,
-//   })
-
-//   return {
-//     props: {
-//       ...props,
-//       intlMessages: await loadIntlMessages(locale, defaultLocale),
-//     },
-//   }
-// }
-
-// export const config = {
-//   unstable_excludeFiles: ['public/**/*'],
-// }
