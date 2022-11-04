@@ -36,6 +36,27 @@ export default async function PostsPage({ params }: any) {
   )
 }
 
+export async function generateStaticParams() {
+  const enPosts = await getPosts({
+    locale: 'en',
+    page: 1,
+  })
+  const esPosts = await getPosts({
+    locale: 'es',
+    page: 1,
+  })
+  const enPaths = Array.from({ length: enPosts.totalPages }).map((_, i) => ({
+    page: `${i + 1}`,
+    locale: 'en',
+  }))
+  const esPaths = Array.from({ length: esPosts.totalPages }).map((_, i) => ({
+    page: `${i + 1}`,
+    locale: 'es',
+  }))
+
+  return [...enPaths, ...esPaths]
+}
+
 // export const getStaticPaths: GetStaticPaths = async () => {
 //   return {
 //     paths: await generatePostsPageStaticPaths(),

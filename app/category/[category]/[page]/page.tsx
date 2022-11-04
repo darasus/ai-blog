@@ -4,8 +4,10 @@ import { Link } from '../../../../components/Link'
 import { LinkButton } from '../../../../components/LinkButton'
 import { Meta } from '../../../../components/Meta'
 import { PostExcerpt } from '../../../../components/Post/PostExcerpt'
+import { data } from '../../../../data/data'
 import { useTranslations } from '../../../../hooks/useTranslations'
 import { getPosts } from '../../../../node-utils/getPosts'
+import { Category } from '../../../../types'
 
 export default async function CategoryPosts({ params }: any) {
   const headersList = headers()
@@ -54,31 +56,36 @@ export default async function CategoryPosts({ params }: any) {
   )
 }
 
-// export const getStaticPaths: GetStaticPaths = async () => {
-//   return {
-//     paths: await generateCategoryPageStaticPaths(),
-//     fallback: false,
-//   }
-// }
+export async function generateStaticParams() {
+  let paths: any = []
 
-// export const getStaticProps: GetStaticProps = async (ctx) => {
-//   const locale = ctx.locale as Locale
-//   const defaultLocale = ctx.defaultLocale as Locale
-//   const page = Number(ctx.params?.page)
-//   const category = String(ctx.params?.category) as Category
-//   const props = await getPosts({
-//     locale,
-//     page,
-//     category,
-//   })
+  for (const category of Object.keys(data)) {
+    const enPosts = await getPosts({
+      locale: 'en',
+      page: 1,
+      category: category as Category,
+    })
+    const esPosts = await getPosts({
+      locale: 'es',
+      page: 1,
+      category: category as Category,
+    })
+    const enPaths = Array.from({ length: enPosts.totalPages }).map((_, i) => ({
+      page: `${i + 1}`,
+      category,
+      locale: 'en',
+    }))
+    const esPaths = Array.from({ length: esPosts.totalPages }).map((_, i) => ({
+      page: `${i + 1}`,
+      category,
+      locale: 'es',
+    }))
 
-//   return {
-//     props: {
-//       ...props,
-//       intlMessages: await loadIntlMessages(locale, defaultLocale),
-//     },
-//   }
-// }
+    paths = [...paths, ...enPaths, ...esPaths]
+  }
+
+  return paths
+}
 
 // export const config = {
 //   unstable_excludeFiles: ['public/**/*'],

@@ -6,6 +6,7 @@ import { PostListSection } from '../../../components/Post/PostListSection'
 import { baseProductionUrl } from '../../../constants'
 import { useTranslations } from '../../../hooks/useTranslations'
 import { getPost } from '../../../node-utils/getPost'
+import { getPosts, getRawPosts } from '../../../node-utils/getPosts'
 
 export default function PostPage({ params }: any) {
   const headersList = headers()
@@ -47,12 +48,12 @@ export default function PostPage({ params }: any) {
   )
 }
 
-// export const getStaticPaths: GetStaticPaths = async () => {
-//   return {
-//     paths: await generatePostPageStaticPaths(),
-//     fallback: false,
-//   }
-// }
+export async function generateStaticParams() {
+  return (await getRawPosts()).map((post: any) => ({
+    slug: post.slug,
+    locale: post.locale,
+  }))
+}
 
 // export const config = {
 //   unstable_excludeFiles: ['public/**/*'],
