@@ -1,11 +1,9 @@
 import path from 'path'
-import fs, { readFileSync } from 'fs'
+import fs from 'fs'
 import { Writesonic } from '../lib/writesonic'
 import { getArticleData } from '../node-utils/getArticleData'
 import slugify from 'slugify'
 import sharp from 'sharp'
-import { Dalle } from '../lib/dalle'
-import { imagesPath, postsPath } from '../node-utils/paths'
 import { Translate } from '../lib/translate'
 import { Locale, Post } from '../types'
 import { serializeMarkdown } from '../node-utils/serializeMarkdown'
@@ -13,16 +11,23 @@ import { omit } from 'ramda'
 import { performance } from 'perf_hooks'
 import isEqual from 'lodash/isEqual'
 import ora from 'ora'
+import { OpenAI } from '../lib/openai'
+import { CloudflareImage } from '../lib/cloudflare-image'
+import { getPosts } from '../node-utils/getPosts'
+import { getPost } from '../node-utils/getPost'
 
 const spinner = ora('Generating articles...')
 
 const ai = new Writesonic()
+const openai = new OpenAI()
 const translateAPI = new Translate()
+const cloudflareImages = new CloudflareImage()
 
 export async function generateArticles() {
   spinner.start()
   const start = performance.now()
   const titlesAndCategories = getArticleData()
+  const allImages = await cloudflareImages.getAllImages()
 
   console.log(
     `✏️  Generating article ${titlesAndCategories.length} articles...`
@@ -41,20 +46,19 @@ export async function generateArticles() {
       title,
     })
     const originalPost: Record<Locale, Post | null> = {
-      en: JSON.parse(
-        readFileSync(path.join(postsPath, `${slug.en}.json`), 'utf8')
-      ) as Post,
-      es: JSON.parse(
-        readFileSync(path.join(postsPath, `${slug.es}.json`), 'utf8')
-      ) as Post,
+      en: await getPost(slug.en),
+      es: await getPost(slug.es),
     }
 
-    const { imageSrc, imageSrcBase64 } = await generateAndWriteImage(title)
+    const { imageSrcBase64, imageId } = await generateAndWriteImage(
+      title,
+      allImages
+    )
 
     const basePost = {
       category,
-      imageSrc,
       imageSrcBase64,
+      imageId,
     }
 
     const post: Record<Locale, Post> = {
@@ -69,7 +73,19 @@ export async function generateArticles() {
         summary: response.summary,
         intro: await serializeMarkdown(response.intro),
         content: await serializeMarkdown(response.content),
-        relatedArticles: [],
+        relatedArticles:
+          originalPost?.en?.relatedArticles &&
+          originalPost?.en?.relatedArticles?.length > 0
+            ? originalPost.en?.relatedArticles
+            : (
+                await getPosts({
+                  locale: 'en',
+                  category,
+                  excludeBySlug: [slug.en],
+                  order: 'random',
+                  numberOfItems: 10,
+                })
+              ).data,
       },
       es: {
         ...basePost,
@@ -86,7 +102,19 @@ export async function generateArticles() {
         content: await serializeMarkdown(
           await translateAPI.translate(response.content)
         ),
-        relatedArticles: [],
+        relatedArticles:
+          originalPost?.es?.relatedArticles &&
+          originalPost?.es?.relatedArticles?.length > 0
+            ? originalPost.es?.relatedArticles
+            : (
+                await getPosts({
+                  locale: 'es',
+                  category,
+                  excludeBySlug: [slug.en],
+                  order: 'random',
+                  numberOfItems: 10,
+                })
+              ).data,
       },
     }
 
@@ -121,31 +149,33 @@ export async function generateArticles() {
   )
 }
 
-async function generateAndWriteImage(title: string) {
+async function generateAndWriteImage(
+  title: string,
+  allImages: Record<string, string>
+) {
   const basename = slugify(title, { strict: true, lower: true })
+  const existingImageId = allImages[basename]
 
-  let imageSrc = ''
+  let imageId = ''
   let imageSrcBase64 = ''
 
-  const dalle = new Dalle()
-  const tmpImage = await dalle.generateImage(title)
-  const base64String = sharp(Buffer.from(tmpImage!, 'base64')).png()
+  if (existingImageId) {
+    imageId = existingImageId
 
-  if (base64String) {
-    fs.writeFileSync(
-      path.join(imagesPath, `${basename}.png`),
-      (await base64String.toBuffer()).toString('base64'),
-      'base64'
+    const cachedImageBuffer = await cloudflareImages.getImageBuffer(
+      existingImageId
     )
-
-    imageSrc = '/articles/' + basename + '.png'
-    const img = sharp(Buffer.from(tmpImage!, 'base64')).resize(10).png()
-    const srcBase64 = (await img.toBuffer()).toString('base64')
-    imageSrcBase64 = 'data:image/png;base64,' + srcBase64
+    const srcBase64 = await sharp(cachedImageBuffer).resize(10).png().toBuffer()
+    imageSrcBase64 = 'data:image/png;base64,' + srcBase64.toString('base64')
   } else {
-    imageSrc = ''
-    imageSrcBase64 = ''
+    const imageBuffer = await openai.createImage(title)
+    const cachedImage = await cloudflareImages.uploadImage(imageBuffer)
+
+    imageId = cachedImage.id
+
+    const srcBase64 = imageBuffer.toString('base64')
+    imageSrcBase64 = 'data:image/png;base64,' + srcBase64
   }
 
-  return { imageSrc, imageSrcBase64 }
+  return { imageSrcBase64, imageId }
 }

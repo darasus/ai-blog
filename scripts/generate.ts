@@ -1,8 +1,10 @@
 import * as dotenv from 'dotenv'
+import { writeFileSync } from 'fs'
+import sharp from 'sharp'
+import { OpenAI } from '../lib/openai'
 
 dotenv.config()
 
-import ora from 'ora'
 import { generateArticles } from './generateArticles'
 import { generateRelatedArticles } from './generateRelatedArticles'
 import { generateSitemap } from './generateSitemap'
@@ -11,7 +13,7 @@ async function generate() {
   console.log('🚀 Start generating...')
 
   await generateArticles()
-  await generateRelatedArticles()
+  // await generateRelatedArticles()
   await generateSitemap()
 
   console.log('✅ All done!')

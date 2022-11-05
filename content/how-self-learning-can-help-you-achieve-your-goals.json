@@ -1,9 +1,9 @@
 {
   "category": "productivity",
-  "imageSrc": "/articles/how-self-learning-can-help-you-achieve-your-goals.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGV6d1x/kVZ2n4VnTz0pGWJcV9jj5KO1tkxlgSZEfAByioZ7kpFqfnyOaVExHBAlFQpGS0tRX11NX146WWAAfZSRg5iWlJKTnXRnmHRifFFAbjc8iVpjYHVzQ2RrAIKXlJGgmdW0nahwX92nruKpt9mYq86QnnhzaVZraAC0wsDYwaewraJ/j5rFobDXp7eUYXBMRUO/lHNZZV8A4uPc5cetwayh4ufj4OPe19jTycfBzNLS1sGrmXJUANrIw+bd3OrWxs24n9XWz9PX0crDqtC+q7yOZ6+fkADnjb7go7zX2dnWyLze0b3h0MjNpYevmYXByMaIj48ALaHXyJeo19rX1NXQ6Ojk3dLEpYt4r66lv8K6rLOxAGOHtODKyN3a0tbZ1c7Eus20qL2dgcvLu76+saWllVfOuJhoqp0SAAAAAElFTkSuQmCC",
-  "createdAt": "2020-06-16T18:05:32.532Z",
-  "updatedAt": "2022-10-11T17:19:12.980Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGl8dVh9kVl5oodpUjQeDmFcVt/x9aO1tUhgeiZCewB0iIV3l5hvg3qOaU8xHhIdDwZBSERFWlxNXFo6V14AgJSSgJycj4qNn21emXdjdEs8bCwwjl1lYXl5RWZsAHmRj5moodKwmaRtXuOus+62wd+bs9aSnH53blFraQCywsDWvaS3sKGHl57EpLTouMiMYXFYT0nBmnhZZF0A6e/m48WpxK2h3ebm2dvY1dDMvbq0wNLa2byimGtJANe+vevj5O3axsq1m9XTydrd2czEq9nEr7uPa7ajkgDqhrfilrXX49/Yxbfczrzm2NHMoIGni3PK0dCMmJoANprTxJWn19zY1NfT6e3q2su8p4t4ra+oxsvDoaelAFuKuOLQzuDd1Nba2c/FvMy0qrueg8zMuLi3p62tnW1XuOVE+NQ/AAAAAElFTkSuQmCC",
+  "imageId": "6897de10-66ab-4661-3da3-762ae2c4ef00",
+  "createdAt": "2022-11-05T22:00:41.895Z",
+  "updatedAt": "2022-11-05T22:00:42.635Z",
   "categoryLocal": "productivity",
   "slug": "how-self-learning-can-help-you-achieve-your-goals",
   "locale": "en",
@@ -20,115 +20,40 @@
   "relatedArticles": [
     {
       "category": "productivity",
-      "imageSrc": "/articles/the-importance-of-self-learning-for-professional-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLElEQVQYlU3PP0/CQAAF8Ps0fgUHY+Lm5uIgs5PGxMnZQRM/AdEoqIhig01oBaSNSAIRJalEWlr+tvwRjaXXa++uh7spLia/7SUv7wENEd0lBiQtl3YR7XnBfyDMEG25tD6ZNr8mAw+OMLE81vMC02fgL+tAyr8oiSx3lb37JnDkB5bHTBSA/ej14QkXE0tV6+Modnwr3eeq9XJzKNb0S0kBi2vbC8sbkd2DM0E+5bkbKVdRjYo+qvU/c0onLO8i1oH0QTWS+bRQlm2KxpgN8GyAZ/NpMFRs9+NCOpnnbYbH+GdIQkCF2IBEd3C8UEwVMpwsRlP80vrWSmRndXMPNBxfg7hhexdySVJen96VZ01PiI/nGTkuyODN9tVpSHdwG/p9l5ooMNH8mM9+AdF07tUKhTyNAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Sep 27 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABN0lEQVQYlR2PT0vCYByA32/VN6iD2qEQbybooZtQFB46iGfxWlGBCOmtKNRLB80YwjYxtUak80/u/zvdeiesd8v9wp4v8DwPwiZmGMY0TRNjAMCGwXEcNk1N1+1vGymyrGgaABjL5cJxJF0XpxNKqSRLs9kMWcQR2+yQ7YhsZ9h8cT7FgKzgnyAIEN/rFuMHxczJYyTEb++1tnY+ChcA4FOqqCoavPVK8cR1NlOPxUanuX7qaHJT3rg0nRCCWq1GOZEs5nP1SHheuBTSZ9Pz0g+AIssAgJ7q1UoidZXPVkPh9+RxZz81L92tfE9TN71oMh6P+oPafaW2G+UT6Xb08Ov2AQAazWfLtpFhYLxYqqo2HomqLG8+Jfl3vWY5vtt9RUEQeJ7n+77ruoQQQRAYhrEs23VdSukfcaLwrSu4OIwAAAAASUVORK5CYII=",
+      "imageId": "5f6532d5-5189-4dec-23f3-692ded1d5800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "productivity",
-      "slug": "the-importance-of-self-learning-for-professional-development",
+      "slug": "the-top-reasons-to-start-self-learning-today",
       "locale": "en",
-      "title": "The Importance of Self-Learning for Professional Development",
+      "title": "The Top Reasons to Start Self-Learning Today",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The digital age has made it easier than ever before for people to access information and connect with others across the globe. As a result, the ways people learn new things and gain new skills have changed drastically. The role of formal education from universities, colleges, and other institutions has become secondary in importance to self-learning as a way to develop skills for career growth.\nIn today\\u2019s fast-paced world, professionals must constantly strive to keep their skills up-to-date as new technologies emerge and existing ones become obsolete. Whether you work in an office or from home, there are many benefits of self-learning that can help you achieve your personal and professional goals. This article explains the benefits of self-learning, what it is exactly, and how you can start integrating this skill into your daily routine.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Self-learning is a skill that every individual needs to master in their lifetime. The world today is filled with knowledge, and the access to this information has never been easier. With the influx of technology and resources, learning new things has become much simpler.\nLearning something new can be challenging and frustrating at first, but once you get past that initial hump it becomes much simpler. The trick is getting past that hump as fast as possible so that you can reach a point of fluency.\nHowever, many people struggle with self-learning because they aren\\u2019t sure where to begin or how to continue once they start learning something new. They might feel like they don\\u2019t have the time or resources available or simply find it too difficult to learn on their own .\nSelf-learning is an extremely useful skill that can serve you for the rest of your life. Here are some of the top reasons why you should start self-learning today:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "productivity",
-      "imageSrc": "/articles/the-power-of-self-learning.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPElEQVQYlRXJTUvCYAAA4Bfdu/m6ubkPN93ch5vOza3hJtpglkFkgkXRoe9DoFHQFwUJdY51ykPQuWsg/YTu/azouT4AEmSO5rmqiVMsTvJEQcBJHqdYSlBKNQdQgsKrDcRKOU5GJd2wXCSqBC/3zx6uvn4BXTaYSo2Wa3pzSWq0F2/zuhOQmrN+8TT9/PlvVmscH5x4Ya/ix6+PM9OPWDtcOb05ep4DStQ4wzVtdzA5pzd2r2/vFC/g/K7oRorlA8Fwebtd7azKXkD0BtH3opKmcLxD133B8gES1aIZWMPDgunB0Rh+vOPpS7bXRa2wqDUBKumMF0vJVl7SYDKAaYpPJuUgCtc2Nb8LkFBFqptX3SxEWJzAvX0qircvZ6Ppfas/BDmmTLCVDIZnMBzrLGNxgtmOpFtMUSAKwh+gGzSt0C4AzwAAAABJRU5ErkJggg==",
-      "createdAt": "Sun May 09 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALueouTd4fn9//f6/PP0+PHz9/Lz9/f4/Pj7//f3+QBpIyV6PD6bbHDazdL////W2ODg5Oz4+Pnu37nx3KUAbS8waycpZBsdwq6z3uLl8O/y+Pj99vf66M6P6Mh5AJhrYGEdII1aXcTHzM3O0NLS1d7d3/T3/+vas+nNhwDKtKZvNDGni5G9xMjq6uzCw8bT1Nfw8fTs6ufs6eQAjmVobjI0u7e+ycvO9/f60NHW7e7y9fb7393i4t/jAGoyN5FtdLi8xOHi5fDv7OjgzvLy9ujo79TMzuLd4gDf2c/NyMrBwsju7vHu7/Ds6uXw8vbRy9HZ2eHe6PUA4+Df3d3h4uTu3d7m3N3k5+ft2tjdzMbM5ev33eXyAOzv+evv+ert9uns9uPm8N7g6eHi6+jr9PDz/O/y+7pa75c8VYo9AAAAAElFTkSuQmCC",
+      "imageId": "f70f9415-34d6-4650-7ed1-41ac8dd2a700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "productivity",
-      "slug": "the-power-of-self-learning",
+      "slug": "the-benefits-of-self-learning",
       "locale": "en",
-      "title": "The Power of Self-Learning",
+      "title": "The Benefits of Self-Learning",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this digital age, the opportunities for self-education are endless. From online learning platforms like edX and Coursera to business podcasts, there is a vast array of ways that you can learn something new on almost any subject.\nLearning something new is not only beneficial for personal growth, but it\\u2019s also necessary in today\\u2019s job market. In fact, recent research found that 75% of job candidates lack the skills necessary to succeed at their interview. It\\u2019s clear that to stand out from other applicants, you need more than just an impressive resume. You need a high level of proficiency in your chosen subject. Fortunately for you, there are a variety of self-learning resources available to help boost your knowledge and get you one step closer to landing that dream job.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You can\\u2019t get a second chance to make a first impression. This applies whether you\\u2019re meeting someone for the first time or you\\u2019re trying to impress your new boss with your professionalism, knowledge and communication skills. Getting back on track isn\\u2019t always simple. But with self-learning, everything is possible!\nSelf-learning is an individualized learning process in which students learn directly from sources such as books, audio or video recordings, computer programs, and virtual libraries. It is an independent study that takes place outside of a traditional classroom setting and often at an learner's own pace. Self-learning involves structured activities in which individuals plan their own learning experiences, monitor their progress, set goals and follow a detailed program of readings and practice assignments.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "productivity",
-      "imageSrc": "/articles/the-importance-of-self-learning-in-todays-world.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABL0lEQVQYlSXPvU7CQAAA4Et4E0NcHVx9DX0JBwd5C2OUOOpm4o46qBcpxKQUU1vgSum1tECv7V1/rtCCXNHFwe8NPsBnC/0Rj18ngocVZxVnIqPrmGySAGENzLVokwT+lyvddkRGK85KNidGv3FxdnB+BOLFdqZ6ycSNcMDsiFnBtIc9XTppHNdPDwFBhSuTaIARQu122/M85e2zZP6X/nH/8gASC++WMR06qqoqiuI4jiGbYhn/FNzsWOCmeZ37VjTAsqx0u10IIbMZn+PfMn+/64Narda8uiTaWJKknK8ghKEVMscURaa1DLBf3yN4GGp2me7yQBSsoiYlozGCU71lgGFPEhktfUKRTZHNDCcxZyUN1KfR4HkENonP3Mk6DbZpuE3D/7pYprtV9p2lf0re9ZWieXR1AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "productivity",
-      "slug": "the-importance-of-self-learning-in-todays-world",
-      "locale": "en",
-      "title": "The Importance of Self-Learning in Today’s World",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s world is changing at a rapid pace. New opportunities are emerging every day, and businesses need to adapt quickly in order to thrive. The ways employees learn and acquire new skills have changed significantly as well.\nWe live in a rapidly evolving world where information is constantly updated and available at the click of a button. The amount of content accessible online has exploded over the past few years, with more websites, blogs, videos, and social media feeds than anyone could keep up with. It has become essential for professionals to learn how to self-educate effectively in order to stay relevant and continue growing their careers and personal interests.\nThis article will focus on why you should invest in your own learning, what self-learning looks like today, the benefits of self-learning from an occupational standpoint, as well`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "productivity",
-      "imageSrc": "/articles/how-to-use-self-learning-to-enhance-your-life.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlUXPT0vCYADH8ecV9R66dImgS4cOHfp7CooO1aFDkCikDTRXaK2ZGbOZiotcJeZjOP+t5YQStTnn1uOzmVK9g5CKzh/48vsB2DAeFCQoXaFpsCwd8jkpYstLEqdu2/L0OMi3zKJmippVUlE8fhamiHyW52IUFySPfS4gapZkvMtGT9JwkHLb1uZP7Kv8JZNwbq6vzIEfq6L+U8csFu7rL1I5E7vlQmmG9Ow7hlxF/Wc0kHV8EXAzpD3qsfU+PhXcP6T9oKL/cceKhAMwdZWGGTT4qjTbewf+/7isYyl3HfI5EwyldnulWityk/6dJhmWpOFWXYbZu2SYLkAIRXlhaRGUVFxuD4+JmlVtm9kU/6hgoaaec/zY5ASADSP3igTlLdfQk7QjQ8xGt2fYI+/uzsbU6Mg3z/LdFbZrmlYAAAAASUVORK5CYII=",
-      "createdAt": "Wed Apr 13 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "productivity",
-      "slug": "how-to-use-self-learning-to-enhance-your-life",
-      "locale": "en",
-      "title": "How to Use Self-Learning to Enhance Your Life",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Self-learning is a way of learning that focuses on personal growth, right knowledge, and optimally effective ways of learning. Self-learning is not just the ability to read and understand information but also to apply it appropriately in the real world.\nSelf-learning involves seeking out knowledge rather than waiting for it to come to you. It is an active process of exploring potential areas of interest, testing your knowledge, and expanding your skillset through reading, lectures, tutorials, or even online classes like Lynda or Udemy.\nSelf-learning can be used in almost any area of your life to gain new skills that will help you succeed in your career or personal life. With some self-discipline and persistence, almost anyone can become a self-learner.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "productivity",
-      "imageSrc": "/articles/the-various-benefits-of-self-learning.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AN7f3OHh39PMv8vEt56Ob8q0lcGuma2WbsTFsujn4wDh4d/CqomZiWHb19GLiG66kmDc2NXj2Mzo6Ojr7OkAvayUv7WhmYRe0r+owLuv1tHK4eHh4+Pj5eXl6uroALCTZtLPycaxj8zNxq6zy9fX193d3eLi4uTk5Ojo5gDYwKHc3djb29nHxssaLK88PbeYk8vc3N7j4+Pn5+UA5ebj4eHf3N3Ylmy2TzKrUUitQjWwUz68oZfR5+flAOjo5OTl4tbT1GgfrGMVoV5Lo19KsWJPt5CBzejo5gDt6+fp6uWjh8VsLJzRoIqQiZdgMrFkOLnX0uHq6+YA7uzo7uzo3dfgoXW/lWyVYiaoch2uoWnH6uro7O3oAO3r5+7s6Ozt6Ovs6dvK3qZVvKgGrOLD3ezt6O7u6Y4z2SThAC9OAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Oct 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "productivity",
-      "slug": "the-various-benefits-of-self-learning",
-      "locale": "en",
-      "title": "The Various Benefits of Self-Learning",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of a career in the sciences, perhaps the image that comes to mind is one of hours spent in a lab, peering through a microscope or testing tubes filled with strange liquids. However, this is only one small part of what it means to work as a scientist \\u2014 and even that part isn\\u2019t exclusive to professionals.\nWhether you want to work in research, education, industry or another science-related field, self-learning can help you reach your goals. It gives you flexibility in where and when you study, so it fits with your schedule and other commitments. You also have more control over what you learn and how fast you progress. The result is greater confidence in your abilities and an increased ability to tackle challenges. Read on for details about why self-learning might be right for you and some examples of how it could be useful if you work as a scientist.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "productivity",
-      "imageSrc": "/articles/the-best-resources-for-self-learning.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNElEQVQYlS3J3UrCYAAA0L1mTxDVXRclSKWZY7akICVt0Mx2UZZTZy2SmlSmG03dVy4nzp9Z1khSsVwO+0YIntuDQAjZLVvMMXfjXWTRhZRn/hqbjS7P3AddlmUhlmUJpIenqYooNGTQVpW3eh2wEc7nmHYmiIFsLnTLMyKghXxJayuZ9KXXPm0GX1OBFOGlK1BmRPDe/XnJ5pKYbdpx3PksFji5VmzqpdfP3tBUpSd6fQlCOGl2B398KJxLSlQscXJtYPy1Kuqp0z4yhpOO4rgogKNsMXSXT5cbfWNcVZoxDPvudREIoc+OCoLc7JqtL/OjP+4MxlqrQ21gPV1HTNMk0V2aukiccfHjVCSUZMKJOHESXPXomoaMjN/DTcLvJv1uMoAehL0kgQb2Xb69le12tf4PH6Hl60L1hPkAAAAASUVORK5CYII=",
-      "createdAt": "Sun Jan 31 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "productivity",
-      "slug": "the-best-resources-for-self-learning",
-      "locale": "en",
-      "title": "The Best Resources for Self-Learning",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So, you\\u2019ve decided to take your career into your own hands. You believe in the old adage that knowledge is power and you want to expand your horizons. Self-learning can be daunting at first, but there are a lot of great resources out there \\u2013 you just need to know where to find them!\nSelf-learning can be especially beneficial for those who want to break into a new field or advance their current career by diving deeper into something they\\u2019re passionate about.\nBut with so many different learning resources available today, it can feel overwhelming when trying to decide how and where you should begin this self-guided journey.\nHere are some of the best places and ways that you can start learning more about anything from coding to art history\\u2026`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "productivity",
-      "imageSrc": "/articles/how-self-learning-can-help-you-advance-your-career.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APX0+fPz9/Pz9/Lx9ri5ssPHvbi/u9PW08fNydjb2ADy8fby8fbk4+jw7/SkqJ23vbLHzcejq6THzcm9xb0Ap6mrqquvwMHF0NDUipCHsLatucG8y9HKyc7IvcW9AExTTkZNSGpvbdnY3XN8cqqxo8HHpenmU+PgdunnnwCEiYdqcW9lbGra3OBsdG2HlYfJ0KnOyQfFwQjOygUA8vH25OXp1NjdzdHUa3FrhJGEucS37u2S5uNp2tdEAPb4+tzd49TX3/Dv9GhuZ4iWirK/uNne2s3SzsDGwgD6/Pz5+fvx8vbz8/dteG20vLfb4N7e4uHV2tnY3dkA3ejt5e3x7/P29ff7doJ8uMPE4unp3+TiytLP1NnXALTJ1LTJ1LPH07DH0aG4wKnAyLbL1MfY3rfHy8DMzMke4MkCgazTAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 22 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "productivity",
-      "slug": "how-self-learning-can-help-you-advance-your-career",
-      "locale": "en",
-      "title": "How Self-Learning Can Help You Advance Your Career",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The modern worker is constantly adapting to new challenges in their career, be it from changing responsibilities or switching job functions. There are so many ways to learn and grow within your career \\u2014 especially with the help of technology.\nSelf-learning means different things to different people, but the general idea is that you\\u2019re able to learn something without relying on someone else teaching you or attending a formal class.\nIt\\u2019s incredibly empowering to know that you can teach yourself practically anything at any time that suits you. The world of self-learning has opened up a lot of opportunities for anyone who wants to advance their career, get back into the workforce after taking time off, or simply explore new hobbies. Here are some tips on how self-learning can help you advance your career.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "productivity",
-      "imageSrc": "/articles/why-self-learning-is-important.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVQYlSXJW0+CUAAA4POXe+qxZWs9d13hYrgyl2tZ67Jy5Uor1BCWCgGTi8j9wDlcRMJeeuh7/UCG3RQ5SWjF0Iw8PbIn2JIDQ/R1wVNGAGrTLC+yvHBFCdkesr0kzeNkgeMMRXPQLq0zRHl4VutslPRPliWpAVVhymT34Ki7uw+gNgsMC5qO+k6HPvZNKLc6OsdbsmFOTCDcP3Cn1a/6BVMm+8QxvbM3oRmuftmvnHQPCWCLchxllqRA20fRQuuxIcpRXEA/db0E8FfXgQPFZoshKf7uUWy+DBu37c0tpnrep6pgPOJw+hPheZT+4mRpe5gTRF11fVx4wQKsra5ouvN/OFmiuFDNsNf6eK416JsnQBHbHPNmzxRzKhna2FAFXeG1b1YVBoPX5h9TEPg6/zkb+gAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Mar 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlQXB2U+CcAAA4N+f3GNvtV6rJ1dzq61WrnmUhWMx21Q8UxPkGIKAHAEmMG6RJBx9H0hCa+uuI1uPAzPy1oEpuRrrqAtLZswVBVzd2CX7/SG3ZdUUJc/2dn95lGRhnAVRCrqnJ/P7B/LxaXR+KaLDSeGKKJWnxRu8VPksFIE6xXSCNmhWGowdy18L6qKBLOCmSvGrKQVEtM/CCId80C9vZLVO1SFlRjNwk3p7n9cgoHxhjmHK45lGsRoj8OhQZyVD1BRiKWEMEFodW9sI7S5RfuY7/WWrR73C+F2JqEEkhAB2uUiyPNimQZzGh3xj+zgvcaTgBmmY5eDs+OhbN/0o88LU9X+dIJV1ZzbA0Qo0gtvg9voCm/SsH0VXOU1mNZnTZc6QOZHBh43qP3Gf+I9bd4mbAAAAAElFTkSuQmCC",
+      "imageId": "1e07141a-9084-4107-10d2-4966a9572300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "productivity",
       "slug": "why-self-learning-is-important",
       "locale": "en",
@@ -140,31 +65,31 @@
     },
     {
       "category": "productivity",
-      "imageSrc": "/articles/how-to-use-self-learning-to-stay-ahead-of-the-curve.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANzd1t3e2+rp7u7w9O7w9O3v8+3v8+vs8Orr7+rp7gCyta/AwbrCwLPQ0NDPyrDQy6bOy8Hc3N7r7PDm3tUACggCJCUgrqyf3NSM5Nh449mK49Zx0Mqo4NnXwbKgAAoIAjY2MrCtoszDe87QxOnl3+fcvuDWisS0o6WGcQAMCwRISULGxr3AvafP0srOwarjybDVzJ3V0MjMvrMAExMHXF5UwsG41cy92ciyxce75OXix8Gq3Nze6d/XAB4cDW5uYMLDwMTCwNfKwczNxtfStsDAwL29vWdmXwA5Oip5d2fd3d3x8vbs7vLb2t3U1NS+vr6Qjorb2t0A7O7m1NTH6uzt8fL28fL27vD0urq6paOh6unu6ejtAPT2+PP1+fLz9/Lz9/Hy9u/x9dfX2ezs8Orp7ujn7Bao3ggcYr0+AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Aug 05 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APv7+byVga17YbmHarKAY7eDZbyIaqx0VsGXgv///wD9/PvFnYnFqJ7Yzcvh1NHh19Tn4+LQr6G9kHr///8A+vn5wJeG283Lr9bfvtjfttHY4PL73MW/t4t5/Pv7APv5+LmShNbIyarN1LjO07fN0uby+tbDxLWKe/n39gD59/a2kIfXy8+62OKvy9G909rs9f3dz9C5jX/18fAA+ff2tZKM0cnPuNjhqcjRv9Tc9fv/3dPYrYV+9O/tAPb09K6PjszGz6zP2anI0c3e5/f8/9/Z4KiCgezn6AD49fSZgYvHydTu///m9P3s9/7y/P/e4OqlgoXx6ugA9vPyn4iVpp2wsa3Ar6e6qqCzs6OxsZ6rl3qG6eLiAO/s7ayVopSDnIp5lZWBmJyGmZiAk5yDlJR5iuDX2/JJ5WoERXJCAAAAAElFTkSuQmCC",
+      "imageId": "15f8e8ca-1162-4143-850c-d1c675175800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "productivity",
-      "slug": "how-to-use-self-learning-to-stay-ahead-of-the-curve",
+      "slug": "the-best-resources-for-self-learning",
       "locale": "en",
-      "title": "How to Use Self-Learning to Stay Ahead of the Curve",
+      "title": "The Best Resources for Self-Learning",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you ever feel like you\\u2019re constantly playing catch-up as a new piece of technology comes out? As if you have to learn and re-learn everything all over again every time something new hits the market. Keeping up with new developments in your field can be exhausting, but it doesn\\u2019t have to be that way. Self-learning is a great strategy for staying ahead of the curve while also making sure you\\u2019re not wasting too much time relearning things you already know. \"),mdx(\"p\",null,\"With self-learning, you are your own best teacher. You don\\u2019t need to rely on anyone else to understand something and retain that information. With some strategic planning, learning how to learn new things on your own can not only make you more efficient as an individual, but also help you build a foundation of knowledge that will last through almost any career change or advancement. Here are some ways to use self-learning to stay ahead of the curve:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So, you\\u2019ve decided to take your career into your own hands. You believe in the old adage that knowledge is power and you want to expand your horizons. Self-learning can be daunting at first, but there are a lot of great resources out there \\u2013 you just need to know where to find them!\nSelf-learning can be especially beneficial for those who want to break into a new field or advance their current career by diving deeper into something they\\u2019re passionate about.\nBut with so many different learning resources available today, it can feel overwhelming when trying to decide how and where you should begin this self-guided journey.\nHere are some of the best places and ways that you can start learning more about anything from coding to art history\\u2026`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "productivity",
-      "imageSrc": "/articles/the-importance-of-self-learning-in-personal-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AEcxHU0wHNplPfFwQ+Z6VrFMKN1bI201FoU1CmgwDABTNR8sKhlaMxfraj3qfFiyRRqgTx9AKxIsHA1FJA0ARi4ddGBbpIZrmGw5WjkkXEQ+hGVfiG96SDg2TCIOAFg0IIx4g8iAX/mqDNiLI/zAtsp+dotAPls3MU8ZCQBXMyGKfI/DbU/1cAeJLBLLcV2nb2d1MihjNy9SGwwAVS8cjH2SzHFVqjcHYBoJ13VZpm1iYyYidj42HhQMAF82G3RkcIxURUAYD0IaCn5KOZZVRIc9JmU2KDsbCwCJQyE0KBotIRWrPwtTFQpeHghmMQoqIRAmGg5KIAwAvFouTDYZjz0S0E0RZzxUPhwenDUDZDIKNiAMoTgFANliMeZfKOdeKNBPEnIiCGoeCK46Ab1EAps9BKQ4BGJbX9Sq9AFYAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Feb 03 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEkvGUMtGDMjGTQlHUIqGk0zH2FLRm1NNYNiPVM6KABYQCtIMyU9KiJfS0NMNSJbRTt2VEyrf0qXd0g5KBsARywYSzAbQiobTzcnVDchZkk6i1dDvIRJonlDVDkmAEIrGj0oGjYkGDEjGUgwJJh+dYFYTpBWNq98SamGWQA7JBRELB1ROSxHNi2SfXWpjoCihoejdnG4mHfPrnsAXEEsTDIfPCIQjnZkoX9bZkc2u6CUwqeayquIy6p/AI5vaKF5XYVkUZBjUYhfOXlcQZJxU558aLKRb7yffwBnVFtXQzFpWVZeQTbMsYflyJqgY0Kudk3Mq3nauIEAjnmFKyYoOzIpZVA9j3BIj3ZUu5dx0Kpvv5JOuJZfAK+Tl5Z+dZJ1TKCBYsWkerqaarSWZdauaY+AZCtci7MmdXh7fcJsAAAAAElFTkSuQmCC",
+      "imageId": "d24831a6-0105-438e-8eba-8c3ddc0d1d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "productivity",
-      "slug": "the-importance-of-self-learning-in-personal-development",
+      "slug": "how-to-get-started-with-self-learning",
       "locale": "en",
-      "title": "The Importance of Self-Learning in Personal Development",
+      "title": "How to Get Started with Self-Learning",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to personal development, we often think of external measures. We research books to read, join workshops and trainings or have mentors to learn from. The list goes on. All these are great ways of learning about the various aspects of personal growth. They push us outside our comfort zones and make us dig deeper into ourselves and analyze where we stand in life. However, there is another type of learning that is just as essential but not discussed much \\u2014 self-learning .\nSelf-learning involves taking control of your own knowledge and abilities and moving from a passive learner to an active one. It involves finding ways to learn more about yourself so that you may improve as a person, understand your strengths and weaknesses, recognize your beliefs, values and goals in life, be constantly aware of what triggers you the most so you can handle those situations better the next time, understand your fears so that you can tackle them head on instead of avoiding them all your life, etc.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Learners of today are different from learners of yesterday. Today's learners want to be active and take charge of their own learning experience, rather than being passive recipients of information. They prefer to learn at a time and place of their choosing, rather than fixed class schedules. Instead of focusing on memorizing facts and figures, they desire hands-on experiences and interactive solutions. In other words, modern learners want self-directed learning that is current and relevant\\u2014and thankfully there are many ways to achieve these goals.  Self-learning is an effective way for adults to acquire new knowledge and skills, usually in a field they already have interest in or a career they plan to enter. Many adults shy away from self-learning because they think it\\u2019te scary or difficult; it actually requires much less time than you might expect! Here\\u2019s how to get started with self-learning right now:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

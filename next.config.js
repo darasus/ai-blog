@@ -4,7 +4,6 @@ const nextConfig = {
   i18n: {
     locales: ['en', 'es'],
     defaultLocale: 'en',
-    ignoreRoutes: ['/va/'],
   },
   images: {
     domains: ['theaipaper.b-cdn.net'],

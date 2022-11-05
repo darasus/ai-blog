@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAk0lEQVQYlWO4e/fuehhYu3YtMvv169cM06ZNY8YBjh49yjB16lRkIWFhBPvIkSMo0nx8rM6uTOjS3t7eISEhwsLCLm7M/oHuQYFBysrKWlpaUMMDAgI8PDzMzMy8/ZhCQkLCwsISExNTU1NBuqdNm8YOBgL8LNKyzBwcHJqamqKiolDDSXM5uvTDhw934ADv3r0DAGLKXQ51IibaAAAAAElFTkSuQmCC",
-  "createdAt": "2020-12-25T05:49:07.748Z",
-  "updatedAt": "2022-10-11T17:16:08.896Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA7UlEQVQYlX2PvWqDUBzFz733L1YKKQ1tl5IUsVnMmEBbKIhQOro1GUr7BhLwNZz8eAUR6iCiq6A+hoO74EOUi0u69Lcezhf6vk+SJMuyn7+kaTqOI4IgACCEwBmccwBN0yCOYwCapikSurklIlJVFUDbtoiiCICiEMBXa7LfLgAmBAPQdR3CMLQs63g8qOrV7glf3++Hj8/N5tEwjLqu4fu+aZqnk2fbu5dX7PfPrut6nuc4jpTn8OX13frh8n5Fi8VyuzV1XWeMye55GhExJjgnxhjnfD4iu/85Jt3DMOR5XlVVWZbVGUVRTNP0C/PqWrs8jr1AAAAAAElFTkSuQmCC",
+  "imageId": "571bbf35-6cc8-4c41-f3cd-9a3b578e0400",
+  "createdAt": "2022-11-05T21:53:32.875Z",
+  "updatedAt": "2022-11-05T21:53:33.214Z",
   "categoryLocal": "coding",
   "slug": "the-difference-between-javascript-and-typescript",
   "locale": "en",
@@ -20,10 +20,55 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-online-coding-resources.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMklEQVQYlR3BQW/BUAAA4PczXblJXOawi6PIrjsRl12k+jSk62IoMZJ1aQyvdEllbZ/QeW3XqnrojF6W7PsAXbYD3I6d3tXuxI4YO+LF6Z2999NW34c+mL/Vu08PsdO7uK8//vwQrF3XJoTIsmxZFohsibqLY+hRSjVNm81mpmnyPC9JkqZp4NdTCCGTfwzDCIKQSCSy2WytVtN1HRxWHYxxpVIplUqFQoGtsgihVquVy+VSqRRYjJv2aqGqKs/zEMJ0Op3JZIrFIoQQYwyum+eTp06n02QyWS6XOY5DCI1GI8uyAs8H10/2bA/DYDcYDBBChmHsttu990VdZak0AB3enFf1wP9WJuPQNQ5E3qhVEeZFmO837gDt30Yme1x3j8t6hLkIcx/D+5cu+yhAXmD+ADpc6DCRGCzTAAAAAElFTkSuQmCC",
-      "createdAt": "Thu May 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AINzgmxCTX1RVXpNU3VKUnRJUnZKUX9QT4NUUWI9RwC5tGnRyHHOx3HRynHRynDQynDLx3HOy3HPy3DGw20A5PKGo7uGuc2FtMmFu8+DsceFs8iFuMuFvtGD8/+AANrngLLDgsLQgK+/gae5gK2+gL7MgLXFgKy8gOrzewDv+n/S4IG1xYK9zYHo8X/W4YHN24DS3oDu+H/r9n0A9f5+y9mBm7CCm6+D3+l/qryCn7KCk6iD4u5+7PZ9ANLgf87cf+Tvf+DrgOPtf9jjf+v1f+74feLufebyfAC2yIB6k4N9loOFnIOCmoKLoYKDmoOEnIKAmILQ330A5PR94vN+3e1+4vB93+194/B94O1+z99+3Ot84/F8AHZwVXdvVXhwVXhvVHdtVHRqU3FoUm9nUGpiTmZeS0Qnvem1g6tOAAAAAElFTkSuQmCC",
+      "imageId": "0135c3bb-d39f-4c13-a549-34652aa24c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "locale": "en",
+      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlQXBXU+CUAAA0PuH66n55rLVrFaapgGCOp+yjJC1ZSjhxrTM75ypgNAAZbpKsHFBmdU6B2iaPh4roiiJgvA2HN1kCLlaUGslY9heeRsgy7I0lqeGMZZlTZ9Web7LUvNeVa0x5kQBqqZDxzWtb8dd//z+2bbzNZ+tHUftd+avPBgN+pVKlcrTKJrAcSJ6Hn+q1Y9Po1Kv0y1RYKGJDMNcZq9C4bNY/CJ4eJRMprPXpGWomUgQeKYBIWQfy7kcWXgoUnmaJKl3beJ+zkL+HWDqIsuyWIIgbykEwzEMRxA0HIkN2/UTvw98KH2apnEimUqlCQTFiSSKYoG9g9IdFdjdB5Y+gjaEK2+5MC2uaC5t6HjQ3fRbTd/2FpgLzZnQmg4aeu9ZbZSVNi/VOemFG1SYBnf/D1Cf5eDVZWrIAAAAAElFTkSuQmCC",
+      "imageId": "cb800f39-3444-4e62-71d1-7e55aeb50c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-improve-your-coding-skills",
+      "locale": "en",
+      "title": "How to Improve Your Coding Skills",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019ve just started in the field of coding or are just looking to brush up on your skills, it can be a challenging and fast-growing field. New innovations in technology arise all the time, making it so that one must stay on top of their game to keep up. That being said, there are many different ways to improve your coding skills.\nCoding is becoming an increasingly important skill across all industries. From software developers and engineers to website designers and video game programmers, more and more roles require knowledge of programming languages. Even if you don\\u2019t plan on working with code directly on a day-to-day basis, having code literacy can open up opportunities for you in almost any industry. Read on for more information about how you can improve your coding skills and take your tech abilities to the next level.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APbq1/Xq2PXq1/Po0/Lp1PHp1PHo1PPo1PHm0vDlzgDy5s/v4svu4svy6tr49e/z7uDs483w59P68Nv47tcA6t7E7eTP9O7l+Pj1///++fj07efU5+HKqKSWmZWIAPLp3PPs5vby7/f08NTTz+vq6Pr48MvIsk1OSFlZVQD06uX07ObT0MqrqqWCgX3Lysf6+ffq6NphXUxbVEMA3tTKrqiilpOOkI6K2tnW7Oro+Pf16ujkr6SLPTYpANzRyYiEfbCsqOjk4O3s6e/u7crHwLSsl9DHqGJcTADj2M7f1tDd19Hn4+HW1NGuqJm4rpLVzK3d1Li2q5AA08a14djU3NXRt7GqpZyHw7ma08ut0cis2M2y0serAM2+pNLIwqWdkKyhhszApMzCps3DptDGqtPIrdfMsF0s6os1IMghAAAAAElFTkSuQmCC",
+      "imageId": "7727ecc8-4007-4356-fcc1-7a24fef67900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-game-development",
+      "locale": "en",
+      "title": "Go Language for Game Development",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlQXBW0+CUAAA4PNffTXejJd0s61eebLNtqbCsM3GStHRZYqmHtiyFGZ4QbFUEE5eSIFMsfV9YDngDIU9mE++we31gj+7P6DKFjVss7NaWECuZx6zV39W8desuahloyGyDMdxB9qo1+sDV6+tUd/+mv543nhiKErv9a2ZTCTyeVbXdeCv2lMdQShACCmSpEgyEAjgOM7m2G63C9YfRdOYcBx3EYudRqOX8Xir2eSLJRzHMQwDmlRAE6XEV3LZbJqmj4LBSCRCEASVSsktCbijW8eURLFxHAqFwyfJZAJCoVYXNxvP3+3AXk3vkDBHi+dKVZaV2Wy+9VxnNbU0UapSwOaxrXY3R3pblpZGxzEE9YUS8+dlJpqjz8A3j7vq9Xr84H6yG5X2htR7mWAycbZww5eYf4bk6KQm+cXOAAAAAElFTkSuQmCC",
+      "imageId": "f4af332d-c921-40d1-3c6e-edb047f13a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "how-to-use-online-coding-resources",
       "locale": "en",
@@ -35,136 +80,91 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-languages-to-learn.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMWvS8W2oNfZ3eLm6dvf4tre4dnd4t/j5tXZ39zg5ADvtQXkowXWvBbItFnDu6vZ3eDg5OfS1tnZ3eDU2N0AvYEEqIQF0ekfq/U6xOw9sb8/uq9lvbGnz9DU2d3gAPybCv77AqfWJEqVM3ajN4O0Pa/JJfftAdC7F76lXAD6ngn++wLf8xTK8CHf8SLc8ibi7Bf8/ALV0ANeTAUAzPs8vPpN0/MrO+itFt7GcO+C5l17/ViU66M7PjcDAJC6N2eePrvnNy3Clgixql/TdcQqdZQXX+GxJ002CQDD90TX9irq9xjC9Tuw4j3e9SH40hv5szL96RHKtAUAQfa529QVn6ZE3OMo6coF474Ll38V+O4Z/PsGkYoEANjwIv77BPPjBKeZJ4aHTqOcEfHrBffbA/36A9vTBDx7tp9u6jjJAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Apr 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlWOIOPU94uS3yFPfQYwT3yJOfo049T381A8QOvmdIercn9ir/6PO/Y4+/zf2yv/YS/8iTv2IPfMz6fTXpDPfGKzbVjpO3uGx5IxdzwanKTvt+7f4b7kfdfpn9OX/MWd/MXitvOgwYav3mis+6667zj3iMvug4/S9nnMPeBXVu/esYoi5/Dfh9v+YS3+jzv2Jufw/6sIfl3lHtSOKhBkYlG38GCzq5ls1LrFqXhqw87F120qPZedc5xyWMPNjYBDgktRj8F1/02HiNq+VFyPO/Aza/Szi5NfQw+8lzHwZGBjY+eUYYi78i73yP/riv6hTPyLP/oo898d+wjb77vUiymZmBf0M4Se/gfx98jvI6ye/RZz6Hnb0c9z5X4nnfiZd+sMACg0IOv0Dwog8/SPi5LewE9/CT3wDAAFvsfXo+CdtAAAAAElFTkSuQmCC",
+      "imageId": "7964e7ef-18c7-4040-bc37-37c1a5f63400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-languages-to-learn",
+      "slug": "how-to-debug-your-code-like-a-pro",
       "locale": "en",
-      "title": "The Best Coding Languages to Learn",
+      "title": "How to Debug Your Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/spring-mvc-applications.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlY3PzQsBQRzG8flrnVzcHZ3EyUUJq0haJcrJKpsmB5vEivW+u1kvY423XXbMryQHNzy3b5/Tg+Dr0G++P5x32HfCwGPgfXh7naT7vsokxLmX14WimSuaubIlli3xxcN9I6P6k32fy87qsaccWovzdOWa0qb64oJmBRr5OR0DQFZPxqbh6rqEiSzvpCapoyiuie1Ua0UBoEnqXapgIgvLeIe2s0YCRRQjiBeHm8c4H9nXgX3RqKNRZ3ZyXPb449gXfgKZgg63tIYt2gAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Aug 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEJQVkZEO8p2HtzFpNHFsNWoc9eRRdmCI9l0CdlwAQBVZGpTRjnbhzDm5dvB09vK2d3N2tzOzcPUwKjSqn8ASlxni1sp+KlR9v7/ztfWvMXE1d7dxdDSx9Xa0uDmAEhTVsR5J/a6c+z4/Nbg4NLc3cLMy73FxcLJx8HHxQBsYU7xmy72y5na6fC4wsDP2dnDzc3BysmwuLfO1tYAf2VIx3Il+ty5+v//8Pv5ytfZusbIuMHAvcrJ2OfnALGTX5NKI/Xm0tDh6OHu793r7dDf4dDa3OXw8Nz9/ADJmlOLVj/89uvS4+nW5ejc7PHg7/Pj8fPt/P3RxsMA0Y5EnoN//f//5vn96Pf96Pf75PP33+3w+v//uJKNANSUSIllWObDmtfNweTt8On5/ur6/un5/Pb//5ldWgv73L/rlOtqAAAAAElFTkSuQmCC",
+      "imageId": "ef314a5a-e3bc-472b-22ed-ac55e6718a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "spring-mvc-applications",
+      "slug": "how-to-code-like-a-pro",
       "locale": "en",
-      "title": "Spring Mvc Applications",
+      "title": "How to Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-scientific-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA2ElEQVQYlWM4d3L/riVNWNGZo3sYNs3J/XuH+e8d5lVTWG/sZTmzkeXKThD37x3m9VOTEdI9VawtJazJ4ew1OWzfr4NENkxPgUofXQtC368zb57DcnYzqu4jq1kaC0Do8CrmN2eZOytASk+uY4FK71nC3JDPWpfLsmsR05uzzA35zE1FzJ0VrAjD63JZ6nJZ/t4B6e4oAxlzdC3M7l83mfctYzm6lvnPLZYvVxB2Q6Tzb+xiXT2JZe1U9nXTOHYuZF07lX1RD+fNPWC7r148s2P1NKzo4rkTAJqHoIPiPP0XAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jul 22 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHtTOAQJCAcLDAUMDoZQMdF7TMd3S8t6UMh7UsV7UwBfUD4MCgoADBEaFhOeXT3Ec0vCcEbFckfHdUzHfFUAZjQUSBYEOgoAci4GtW1KxYhrzZt/07Cc1butxoNkAJ1tUqeCar2gi9HBs9/f2+r18+78++z9/Of4+trMwgDZ6/Dl+Pzq/P/o+fzX4uHI0NDAyMa4v72vtrPg6+gAxNHUrLS1rbSzrrSzvcPCq7CvxM3L2OLg5O/v5/XzALG7vqy0tMPLy+Hs7ez6+/D//+/8/ujw8d7b19XEvQDj9/zq///n+Pvg5ufXz8zQtazLn5DIinXFgGnDgGkAxLi0vJqMuoFqu3BRu2hHvWhHvmxOwHVZw4BmxYp1AKZQKrBUK7ZZMLpiPLxoRr1tTb1yVb13XL5+Zr6Gcc05uZyPZgrdAAAAAElFTkSuQmCC",
+      "imageId": "9019696a-7f22-43bf-688f-1560a333df00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-scientific-computing",
+      "slug": "object-oriented-programming-in-java",
       "locale": "en",
-      "title": "Go Language for Scientific Computing",
+      "title": "Object-Oriented Programming in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Go programming language has gained popularity in the software engineering community over the last couple of years. Many developers have taken a liking to Go because of its simplicity, readability, and faster compilation time. Other benefits include having little to no runtime overhead, being memory safe by default, and being able to compile Go code as standalone binaries or as packages (called packages in Go).\nGo is an ideal language for scientific computing due to its performance, ease of use, and standard libraries. This blog will outline reasons you should consider using Go for your next project that involves heavy scientific computing.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/basic-java-syntax.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA3klEQVQYlX3MvWvCQBjH8fy5unbIeIuNk1iEZCj1BmNOShupHAp9AcFBRIckuohE2xBBq1EMkkjuJaAiKLf4HZ8Pv0dK7yalaRpbFqf0eqL/S4ELAOiwXCo+PWSyvu9XK7osyzW9kn9UpCAIVFWFECKEAACu62qaZhiGaZoY4/P60qH+Fv18r6r6roWF55fCQW/+ihZNvMINzrjAnBNmI9ppJu+IfGJmd0WmSbSwt0574/T34xHxvgRmk0moKGE+F3/U4zKMXp6T0fDGdOYSx6L+H9msiecRx2K/0xMfAacGAqAJn5TQAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Oct 02 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlTWPX0vCUBxA71eJMN2cmWZGFEVJL75EhlohUoQQCEUv0VPhvds0ITSJpe563e7PDItJglsalUlfLPoH5+Wct4MEAgLmfxDuzoGX/CsGJMngU8AngyTDnl47Nm8Xi4aAW9M/EYULLKg2Z5TGfF6PlmqxG32pSGcVFlRpQGEo2xlFtd7RwyhtDjdqzkr5KQ0vW3p/u+HE6jZKNOxM+/XEGu80n5PMWS49Jpkdp/bh/VvKGKDJC8OD+Wa9v1q2ItfWeqW7VrGiWi9S6U6cG8ivgCTzfRhk7oaZ9nu2Mz7rfZ52P1JNRyIcBVVz4dIIKCyUpwmtvlutRq6YX6Yhlc4VTOTB368CBg9uxTX9gFbDBcOFQSDgxhyJmIsERMJFwqdy4Mq1BALe34L5F3BSke2Eabc8AAAAAElFTkSuQmCC",
+      "imageId": "a9887982-3296-4e18-fca4-892259268f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "basic-java-syntax",
+      "slug": "typescript-a-beginners-guide-to-code-type-safety",
       "locale": "en",
-      "title": "Basic Java Syntax",
+      "title": "TypeScript: A Beginner's Guide to Code Type Safety",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re learning to code, you need to learn the basics before you can move on to more complex topics. The most fundamental programming language is Java. It\\u2019s one of the most important and widely used languages in the world of computer science. Many other programming languages are built on top of it, making it even more essential for coders.\nIf you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren\\u2019t necessarily common words in English. However, once you get past the unusual appearance of these words, you\\u2019ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`TypeScript is an open-source programming language developed and maintained by Microsoft, that extends JavaScript. It adds support for typing variables and functions, interfaces, classes with inheritance, and modules. This article covers everything you need to know about TypeScript and why you should use it as a developer.\nLet\\u2019s face it\\u2014the world of software development has become extremely complex in recent years. Each new programming language has its own unique set of rules and methods for creating code that ultimately ends up becoming a finished product that users can download from an app store or other website.\nIn this article you will learn about the benefits of using TypeScript as a developer, how to install TypeScript on your computer, what IDE is best for using it with popular editors like Visual Studio Code or Atom Text Editor, how to get started coding in TypeScript by downloading boilerplate projects with sample code, and much more!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-comprehensive-guide.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABG0lEQVQYlWP4+y7674eCb2/6P75a9uDWwo+v1v/8tObXhyl/PhT9fRfN8PNd+9+/fx88OHloT8+DW3OPHew7fKB/784lX79+/fFhMcPv98WfnrWBzACj53ciIYyvzyu+v+tkuHIq6OENkNCft1EPrwRdOuL99prP71fhn55nXz4RzKBS2aM4Zcffd9EN3enRuXl2IakarilHDsWEZbeF5c5gKF1QMuNI+9930UcOJjX35qRXpDb0xD++Fd3an5pXX8lw50Lo/cvhr+5CrbxwNBjCuHMh9ObZEIa/76Lf3g+/dS744ZWQB5eDzx7yf3oj5OGVkLuXgkAe+/su+ubZwHVLnNctcT2133f9Ured6zxXLXLdvsYdKo0HAQBTP809B/sAzgAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Sep 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlRXEPU/CQBgA4Fvd/A8Ozv4GVwd3N2c3jXGQ+AucTBycnCBEScREA2qKIrUHrS30SzikoPKdVoOUlpa7e43P8KCjXmun8wYAjHHKOGOM8/8BmD+bomWtsFbH5swDOluwEIByHjDmA4QNYqD1QWtJreziWwh74eK73TGi2HO9NkBQb+hoJXmcSG8pL6k4GM6jn2TqPJNJCoUbACDERr6z4Q8Tc/ez/6FZtiwrRUI0XBZGI4c0LbSdOjzNXtKJN+yT7HUaY6EiPz4Vc7WaZJgqWt07617kACK5XDDMcql0VxLvRfEhn79SFBFpmwcgVinwhi0r6nNNl3QDS1iQsGDZKmrvnwRfXcoCOnc5/+VswtgkjlwAfzx2kB9NGQ3j2B/0HKdpvROzbldN41Wvyoau/AGGA/moPCHUPgAAAABJRU5ErkJggg==",
+      "imageId": "8afcd06f-ba3c-4b42-19dd-64511160d900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "javascript-for-beginners-a-comprehensive-guide",
+      "slug": "the-most-popular-coding-languages",
       "locale": "en",
-      "title": "JavaScript for Beginners: A Comprehensive Guide",
+      "title": "The Most Popular Coding Languages",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone loves a challenge. The road to success is never an easy one, and the same goes for learning new skills. If you have been thinking of learning Javascript but are not sure where to start, this post will guide you through the process and help you get there.\nThe programming language Javascript is most commonly used to add interactive features and dynamic content to website pages and internet applications. However, many people think it\\u2019s difficult to understand because of its weird syntax and strange naming conventions. But that doesn\\u2019t mean you can\\u2019t learn it!\nIt is a high-level programming language that can be used to create interactive websites, video games, computer programs, artificial intelligence systems, and more. It was invented by Netscape in 1995 so that their programmers could document their code better and make their website faster by eliminating the need for browser plugins like ActiveX or Java applets.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-functional-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAuklEQVQYlWPwW2KKBzHU7Mms25sTu9otdX1AyAobiKj/YhACSdfvy03fFNSwNzd3a2TvkVpkrf6LTRkmH2/O3xK57OLM8l0paNIg3SErbOLXegQtM49b4w4hIfoQdhdui63fl9t6sCRnS/iiC1OzNgXHrnZLXOcdu9qNAaIqeLl15CrH0JW2ESsdgpdbTznR2rQvv2lfPlQaGQUvt556sq15f0Hz/gIs0n5LTOPWuCeu845b445dGu5yAPx7gxsRaEU0AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJUlEQVQYlRXCyU6DQAAA0PkVE726xIMfZDz4K6Y/4M2DmnjT1Ma41KRVD6aLibFVlFIEBgbKLMwCDKWM8eUB8jX2nI/ebOSkMGVUKy1VzjIRJzgIIlD4VuFNrGD6CidP8P0T/zKRKaWEkEmCgeO+zWLbYC/EcwdNvYVlJ4HCaSmYkDnAgtFSNk1jVsv/tV6tGmPM5VW71ToCtS4ZJf1ev93uPDx0rzs33e6jMeb45HRnexMwTmqtBeeCCyVVGKFFSowxL4Px2voGsOyh/T0WNKkE05LXhcxCj6LgZ+5t7e6BhtGBO3q2h42ullWpWcpjiGMIQ7R/cAgEQnXG8ows87wiSc1wpZRgFIXh2fkFwL7LI1jitEB+jvwCpypBJAqh697d3v8BKnsFMyFhI8QAAAAASUVORK5CYII=",
+      "imageId": "48a2df35-a31e-4e28-7c9d-1f9159e23a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-functional-programming",
+      "slug": "the-best-coding-plugins-for-developers",
       "locale": "en",
-      "title": "Go Language for Functional Programming",
+      "title": "The Best Coding Plugins for Developers",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-image-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNElEQVQYlT3Oz0vCYBzH8e86BF08R90i6F/w7wjDcx46Rif9njYYsnYaS4guscrNpIPQD6FR7TBqQRato2sIklKmUs78ge55HiKFPqc3vC4fqNfrnue5rmtZFiJGo1GO40RRZIxRSqFc8W3bNk2zUCjoui7LciwWEwSh51bLyQxEwnDVr9yWSo7jmKaZy+V0XY/H481EftT4AqAE+uHOgDLGDMPQNK1WqyFiL+9OeEzgm5z3SWcUagf7qqq2Wi1EfN84ap7eAQzJ/Ge4cjWIqI+CsidJkud5iDjs/jSKNnAdmvggM0YX+Jv8vc8mQ0RJSmezh7AesHZIl4/bs8nLarPzzxfFM8u6hrnXsROQzFOQMJ4p/TvIGEulUtOAhZfR2sNgafdtcfNka9sQ0zLP84qiTPkXcDPRYx4To6EAAAAASUVORK5CYII=",
-      "createdAt": "Fri Mar 18 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-image-processing",
-      "locale": "en",
-      "title": "Go Language for Image Processing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is an emerging general-purpose programming language that has many advantages for creating software. It\\u2019s simple, fast, and predictable with no unnecessary syntax and a lightweight syntax that leads to programs that are easy to read and understand.\nGo has several built-in features that let it stand out from other general programming languages. For example, being able to define your own custom data types is something not many other general-purpose languages have. In addition, Go makes it easy to build packages of related functions and variables so they can be reused easily. The simplicity of the language makes it ideal for beginners as well as experienced programmers who don\\u2019t want to spend a lot of time learning new syntax and semantics.\nThis article covers some popular use cases for Go by exploring its usage in image processing projects like webcam streaming and photo manipulation libraries such as GoImager or the old standard image package inbuilt with every installation of Go which we will see later in this article.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-future-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB0EBg4IDCoRHjEeIjEcIT8SHzYLGFExTkMxXignZQAKjI4oh4sjWGIuPEUvGBs7HR4yEx1EIklVSXY6L34ADnR2GZ2gFJibD5ScGqixMUlOOSQ0UzhhWk+DODWBABKDiBiprB60swmlpxKhozlMUU4aJ0srRj0tYkQ7gAASoaMYqawPY2ceencRk5NIWHBPJkQzJ0s5KWM7KnYAT4yOOFdYBA0POmBjU5OUOEZSWCE+MyJHJh9lLSh1AEOZnGCIiyFQUjt/gSqcny5PVjYaLDchSDc4dRwdagAKeX0PnaIRoacOmJ4Qlp0zZ3o8GC85J0ZHTpIWFWEADp+lH7rDFaexDIuQEJCaLFBfNQ8cSjtgNjhuFxlqAAqFhxSYmxzT2hittiCAiDI7SjsQHjotVjg4cQwTZ8agXGouO6coAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Nov 30 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-future-of-software-engineering",
-      "locale": "en",
-      "title": "The Future of Software Engineering",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are the engine of the digital economy. They create, maintain and update the software that powers businesses, websites and apps. And demand for software engineers continues to grow. Job postings for software engineers have increased by 37 percent in the last five years, with an additional 26 percent increase expected by 2024.\nSoftware engineering is also one of the most competitive fields to break into at the moment. There is a shortage of skilled candidates, which has led to high demand and high salaries for top software engineers who can drive innovation in their companies. To become a software engineer and land one of those coveted jobs, you will need to complete a computer science degree or take up coding classes. Let\\u2019s take a look at what you need to become a software engineer and what the future might hold for this field.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-embedded-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+klEQVQYlWP4hxcwQKi/L5t+P4z+/TD29+O4P4+T/75bCJX++/f3359Pft9QPb5W9s1ZxWfHFM9skPlzUwMq/fHqiV+vTq+cKHF1u+zz40pTG0Qvb5XdOV/q378/IOlN6aH3lzZtWuh6aIXSvHaxCbUiB5dJH1wmDZW+tGvL949vvr9/eedY95uzigeWyV/eIv/7pvLfv79B0u/O77m9ed7a+pIdHWa/rivf2qP0+ZLyt1tBULt3dJY2R3j6qit5y4snGsid3r3m+6cnf/78hEr76qtqCQrE6OtcnD/71OrFf36DrET4W5mfX4WXz0FOusTRcvecKWjBAgAeCdp1SW1kIgAAAABJRU5ErkJggg==",
-      "createdAt": "Sun May 31 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-embedded-programming",
-      "locale": "en",
-      "title": "Go Language for Embedded Programming",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world of programming is a cut-throat domain. There are so many programming languages available in the market that it might seem confusing for programmers to select the one that best suits their needs and also caters to future needs.\nProgramming is not as simple as it seems, especially when you consider all the different aspects involved with it. It is not just about learning code, but also understanding which types of projects you want to take up and what kind of structure your career will take from here on. So when choosing a programming language, there are certain aspects you need to keep in mind before making your final decision. To help you out with this, we have outlined some of the main pros and cons associated with using Go for embedded programming in this article:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software developers are some of the most valuable employees in many companies. They can take an idea and turn it into a useful product that people want to use. The best coders are constantly looking for ways to improve their skills and find new ways to make their work easier and more efficient. Fortunately, there are plugins available for almost any coding program out there.\nCoding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here\\u2019s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

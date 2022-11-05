@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/introduction-to-spring.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFdVT2liV3dtYHtyZW5pXV9hYVBcaE5fdEleeUheewBbV09wZlqAdWWFemtxbGBmZ2JfZWpcaHFVY3NUYXQAW1ZKZ2BVfHBignlqdG5bdW9ak5SNiY2MX2dtV2NtAGBbT2VdUn14bJKOe6+lgqufeLu6sZmZlGRmZVpgZABdWExqYFSJh3qzsJ2/t5+aknmztauHhHd2dWxeX1oAX1ZJjoV0oZyHmJeFrKqdrqyffnVlbGNUZ2VYY2NaAGFWRXhqUVVWKC8xDEU9Ji8wHWVfSm5mVlhRRXJvYwBhVkViV0ZfV0VVUzZUSTg1Lh4+Nypza1V3bFuspJAAYVREZltKopyKmpJ7WVAzjoVtTEQiNywZXE5AZVlBAFtQP2JXRnRpWGNZRWZaTGthTE9FNE1CMUQ4KjAmG9mgeGPiRLSHAAAAAElFTkSuQmCC",
-  "createdAt": "2020-04-01T07:13:46.886Z",
-  "updatedAt": "2022-10-11T17:15:44.433Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AFZVTmpiV3huYXxxZW9qXmBiYVFcaU5ec0lfeUhfewBaV05wZ1uDdmaGemtwbGJkZWJdY2dbZnBWZHJUYnQAW1dLZl9UfXJkhXxudG9eb2tYl5iNio6OW2RrWWRvAF9bUGRcT3dzZ5CNebKjdqaceMLCuZ6fmV5gX1tgZABdV0xpYFWHhXi1tafEvJ2jm4Gwsq2Ih3l0dGpfYFsAWlFGkod0p6GKmJWErauframZgXdpZlxPaGVZY2RaAFxSQ31wV1hXKiEjAEQ7KikpGGNdSX1yY09IPXJwZABiVUVgVEZbVUNXVztLQC0qJRhFQTF1bFV8cGCpoo0AYlVGYlVFp5+Qn5Z8ZFs+koZsTUQhMygVXlBCaV1GAFxQQWNWR3dsW2NZRWVbS25jUE5DME9CMj0yJi8mHOVCeIDIevy7AAAAAElFTkSuQmCC",
+  "imageId": "ce73198b-0a9c-4bf5-dda8-fbb1e82abc00",
+  "createdAt": "2022-11-05T21:52:23.969Z",
+  "updatedAt": "2022-11-05T21:52:24.382Z",
   "categoryLocal": "coding",
   "slug": "introduction-to-spring",
   "locale": "en",
@@ -20,55 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-programs.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB8TB4h5Z6XRpXq8ene5c4PMs3LOzHLJx4uggnbEvgAODwhSRi9/xqc1tI0xr35Ev7Mgu8cYusVmztQvv8kAQTklgWxF0+Pir8zOtNHQv93eocnOpdDUv9HQqresAFlMHqKKWeru4e7q1+v77u367u/lz+367u358Pj38QBqVyWvl2Tq2sLzq33zpXTwyKj0rH7yr4H2pXX6rYIAjXdFtJ5xvc7Gq764vcS2r8W+xNfOvdDHqqaVv8bCANrErujSvs3f17zPxr/TyrLIvqa8tKG3sLfLwrO9twDppH7y3szt+u7Y6NzAz8XI1czK1s7G08rE0cjQzsgAhdHn6drEuNu5tdu2t9u2xuLErNeyp9Ok1uzZ2evnANHRw9HNrBqQJB2UMRSKDm60bzGcViaUOJrPpDG3uEAByhodvPSqAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Mar 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJUlEQVQYlRXCyU6DQAAA0PkVE726xIMfZDz4K6Y/4M2DmnjT1Ma41KRVD6aLibFVlFIEBgbKLMwCDKWM8eUB8jX2nI/ebOSkMGVUKy1VzjIRJzgIIlD4VuFNrGD6CidP8P0T/zKRKaWEkEmCgeO+zWLbYC/EcwdNvYVlJ4HCaSmYkDnAgtFSNk1jVsv/tV6tGmPM5VW71ToCtS4ZJf1ev93uPDx0rzs33e6jMeb45HRnexMwTmqtBeeCCyVVGKFFSowxL4Px2voGsOyh/T0WNKkE05LXhcxCj6LgZ+5t7e6BhtGBO3q2h42ullWpWcpjiGMIQ7R/cAgEQnXG8ows87wiSc1wpZRgFIXh2fkFwL7LI1jitEB+jvwCpypBJAqh697d3v8BKnsFMyFhI8QAAAAASUVORK5CYII=",
+      "imageId": "48a2df35-a31e-4e28-7c9d-1f9159e23a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-programs",
+      "slug": "the-best-coding-plugins-for-developers",
       "locale": "en",
-      "title": "The Top Software Engineering Programs",
+      "title": "The Best Coding Plugins for Developers",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software developers are some of the most valuable employees in many companies. They can take an idea and turn it into a useful product that people want to use. The best coders are constantly looking for ways to improve their skills and find new ways to make their work easier and more efficient. Fortunately, there are plugins available for almost any coding program out there.\nCoding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here\\u2019s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-network-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAjklEQVQYlWP4ixcwkCb958/P6+8uffrxASr94tnxAzsjTx4pg/CnXW2deLl+x+N1UOk924IePdh28kjZwQPbd+/aOO96b+HxqKT9AcG9x5NnnGa4cLrt6P6MNYvV9uxZt2vnhu2PVteeSk/ZHxg39XThoosgu9+9vvz2zTWIaUee76w8mbz/6RayXE6aNADERApEBOEwgwAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Feb 03 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9UlEQVQYlSWNTa9EMBhG/f8/Y9YWJISF0I7MCBsLC26ZKapvK7763jDP9uQ5xzruISIhpCzLoijyPC+KYhgGRLSMMed5ImJd177v27adJInneZzzC3POpZTLshzHue/7z4SI67oaY6y+78dxXJZFSjnPMwBorbdt+3w+dV1bfd8JIQBgnoXW+jwNY4xS6jhOEASX/IdvwZxl2eNhp2nadd26rpZS6maaUur7fhAEjP3t+y6EUEpd7e/3G0XR+/0CAERUSgOAlPJ6A0BZllVVjePYtu00TZzzpmnatmWMWXEcU0oopa7rEkqez6fruWEYEkKyLPsHs/EN4EFM0AUAAAAASUVORK5CYII=",
+      "imageId": "b9ea85f8-da97-4184-3d04-f29081622800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-network-programming",
+      "slug": "python-a-tool-for-data-analysis",
       "locale": "en",
-      "title": "Go Language for Network Programming",
+      "title": "Python - A Tool for Data Analysis",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you\\u2019ve decided to learn a new programming language, but which one? There are literally thousands of programming languages in existence today. Some are general-purpose programming languages that can be used for a variety of applications. Others are more niche, focusing on becoming an expert in one particular domain.\nThat last category is where you might find yourself when looking for a new language for network programming. These are programming languages that have been designed with specific domains in mind, such as networking or computer telephony. You might think there isn\\u2019t much scope for differentiation between these specialist programming languages, but there\\u2019s plenty out there!\nIf you\\u2019re still struggling to decide which is the best Go Programming Language for Networking, don\\u2019t worry! We have created this short blog post with all the information you need to make an informed decision about your future studies! Read on to get acquainted with five of the most common network programming languages and their unique benefits:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data analysis is a crucial element of many fields today. With data being collected from all sources, businesses need to use the data effectively in order to drive their company forward. Organizations are turning to data analysis software to process and understand the information they have stored.\nAnalyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we\\u2019ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWPQlma2UmFy1WHyNWAOMmYKNGL20WNx0GA2UWBWlWBmsNdiCbFgSXdhKvJhLvVlKfVlyfFgirNn9jZiMVNlYgg0Z831ZmqPZZ2czDI9lWVaCnNXHFNlIHOyC7ObPjPDlBaftVN917Sqb2+VX53PvLqIZV42S08CS5EfS7gNM8PaBckL6nSuHSne3Sqzu5FnZy3vlmbJhWXiTfECiW7cDBnefA2hLHtmue3t1728OfnajvTLO7MPLE9YMSm4pdiBIcCMOc2ZuciHucyfo8KXtTpcMN+HO86ONcCM2U4T5vJUV6Y8L6ZSf8ZSf+YsD5YYB2ZvYyYzVRYGbWlma1VmVx0mP0MmsL8ZvfSZHLWYTBSY1cSZGaT5mVXFmPRkQHwLJRAylmfRlmZWFGGS4GcCACEeTYttyCv1AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNElEQVQYlSXLz0vCUADA8fdfdgw6BEaEKYYQQRARBdWtMJEgla5iZZtut0g3QY2lrjnX9saG2g/c3I/33oYvqsv38uELbMtuNZ/2dtPrayvZVOL85OC2dK0MBxgjQgg4Pto/Oz1UFFmRZV3TppPJXbVSyOcC34+iCGQzmwTjOI7fhsN3Vf2cfaAQMwwrCgKlFHTa4mw6IySGuu447sILQoQ9P6izdcdd/DI0TISIqqovvd54rAUhCULMcbxtT0C3LaqKEoYYQvPre/53R3PH5XnecT3Q73X7koRwhHDkB2jhhZRSQRCY2oNlQFAu3kAdLpdLSul/O91e4SqnKSNZkkAylUxvb3ANpi2KXKNeLhXzlxcD6dWCUBuNQGYntZVYva9WmMcayzKt56ZlWoamm7puQeMHal/1KTTWgFAAAAAASUVORK5CYII=",
+      "imageId": "aa253d51-51af-4738-88a9-763a0d900e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-tomorrow",
+      "slug": "working-with-files-in-java",
       "locale": "en",
-      "title": "Python - The Language of Tomorrow",
+      "title": "Working with Files in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working with files is something that entry-level programmers don\\u2019t get to do very often. It\\u2019s not the most exciting part of software development, but it\\u2019s an important one. The file system is the cornerstone of almost every program you use on your computer. Working with files in Java can seem a little counterintuitive at first. Once you understand what makes it different from other programming languages, it becomes much clearer.\nWorking with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new \"File\" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/javafx-and-multimedia.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDUlEQVQYlWNgyWkAoyYYowEZMbDmNrJm1bHG5jOHpLAEJrD4x7P4xzIFxLOEpLBn1zG4LXpq27VFzT+eJyaKNzmFOzOTOzdbuLhIz6epYPpNBtP44oYb781O/lI8fVF28hSJQ/3ipxulLp0waL6wbP0uBiYmJq2GddqH/0ofOyyxtjvs+3nly1Ml7260WvsqeNJhBj529g1brtZf/SpyYBdHRrjQ1FrOigSh7csKX/668eQnAzMzs4qqpraHn8T+vTLb1htNbJc6uEPq/Nn+G09OH34BkmZmZmbhF+Li4jJXVdI2MGSWU2JW0uAxstIq64JJe0XyJxcp2LtKWtip+kcIFzRD/Q2VjsnBGiwAGetqfS+4wagAAAAASUVORK5CYII=",
-      "createdAt": "Tue Jul 19 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AAEAAAAAAQAAABoNEVdARomMg1xdWzAZJB8VFhMMDQAGCwwzMCl/fHerp6S/movu///g+fvX5u3J19+8ytEAmHVh097d6/r9zN3hrYNv2+fpuM/awdbgwdbfuc/XAJJbQLy8uai7wI+fpIxcRdzg3bfM1a2/x6O3v5ywuAB1X1KmgW6qwMOyxceSZUvZz7/e9PLC0tOsvcPM3uIAc3p5mWJJytfSssfGimBIxa2YnbCxm6iplKOok6SqAKnCw4VYRaGRhomjp4JWQr2cg7LMyLfDway7vKm5uwCCnZ9jU0uZbFafy8aFYE6ziG2819O7yMS4xsW0wsIAfndweI+QfEMvqb+6fGdapnFXtMvIrru3rLq5qre3AIRSQ5Cys2I7L6iblHlzbZRWQKW6up+rrJypq5qnqUh4sEHf4FkvAAAAAElFTkSuQmCC",
+      "imageId": "7dde0f71-b3f1-4185-5f0f-14fbd2aa6000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-journals",
+      "locale": "en",
+      "title": "The Top Software Engineering Journals",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers constantly have to stay up-to-date with new research, trends, and techniques in their field. The most common way for software engineers to do this is by reading research papers published in journals. These journals are almost exclusively found online. Many of them are available for free, but some are behind paywalls for non-subscribers. Fortunately, you don\\u2019t need to subscribe to every single one of these journals if you\\u2019re a software engineer\\u2014just the ones that publish articles related to your specific interests and career goals as a software engineer.\nRead on to learn more about the top software engineering journals so that you can pick which ones will help you excel as a software engineer!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOUlEQVQYlRXPz0vCYBzH8RGEtzr2V3Tp0h/TJQiiQ/9B0N3w6KFT4GFFihpKUKYrl2ubmqbzx3yeR1eKc1NXPFuycsxv7fyC94cPAwCDvsI/Jfukg5FCUBOpCuo1KJ0DAAMAljXp44YssRwXLcuZSpWtvWYd+zNg13Udx/ZXoKmR28xmtbL3Iuynctv17lnApmm2Wg3b8TTCJq/Wp0YJfHgsH57HQ/RLZCilhKDFYjXAsVRiw6YEANpaNMKuGXqSGY9Ho9HQ/QGNXCbioW4vbFliPL8by+54rsEIQkGS+FYbd5SLbHqrJBwL4gEvnczmKNj2fX+5/AUArIYzN6FvewAASH2vlGsYo+CYrn/MphO5eCoXj0yja81Nwxg6DvU8L+C3upjPJUp84bnIFR7SXD59f3etj7X/+B9kEfLbSoN/hwAAAABJRU5ErkJggg==",
+      "imageId": "f3607a40-2e8f-49ce-3777-a9bfef3a5800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-image-processing",
+      "locale": "en",
+      "title": "Python - The Language for Image Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Computer vision and image processing are key to enabling machines to understand the world. For example, modern cars can detect pedestrians with cameras rather than other sensors because the camera can identify them as non-moving objects that are smaller than usual trees and have different reflectivity from typical road markings.\nThis article covers Python, an increasingly popular language for image processing tasks. It\\u2019s a dynamic language like Ruby, which makes it easier to read and write programs. Furthermore, Python includes several useful libraries for image processing such as OpenCV (Computer Vision) and PIL (Python Imaging Library). If you\\u2019re new to programming, check out our article on Why Python is a Great First Programming Language.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABO0lEQVQYlWNgym5kyWtmKepkLuliLulmLoWhoi6mnEYGjux6xqRiBp8oRscgBjtfBjtvELL2ZvYN48iuZ/Dd8sNxwk41v1i+pFjh9HShhAzBlFzhkjwj/7riSTcYzJMrq0+8Mb/1X/7yDblpc4WuL5W60iPy6rLNhCczO9YyMDAwGBQt0738X3zXZrHpVX7/T6mcquG+ssJu6+eo5t0MPFzcG9ac7fz8n/fQbuHsUMWlU2Uqkzj2rin79//x298M7OwcBrpG+r7Bwps2Sy6dr9FWJ7xkFseuLf3nr9458ISBiZkZZAEzKw8fn62+jr6aKruaFoeWgZC5g2ZRDwMzKwsbIwOLXyx/comarZO4jYtKUIxAYQtDTgtDdh0DMzMzCzMzS2Q2U3EXU0Ebc34zY04TU3YDc3YDS04jANvdakA18t9+AAAAAElFTkSuQmCC",
+      "imageId": "a8380789-4918-4efd-f0d4-75c758dca300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "javafx-and-multimedia",
       "locale": "en",
@@ -80,91 +110,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-distributed-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlWP4hxcw/Pn27M+3Z3+/vYQLff3149G7F4/evXjx6S3Dj82yYKTw+9FqiLTptGTGalswsmb4faP797XW31fqf92aeu7cuX///sl2BXceWlq4ZVLelokMvx8u/bXf8feN7l+3pvr5+Z09e1ZrQnTPoeUhS2viVjcz/LpU+efe3N8Xyv7cmf7169d///7JdAZErWws3jaled98hl/n8n7f6P15Mubv+0sQuxv3znOZV+AxvyhrUw/DmTNnPnz48PHjx3///j158uTRo0dfv3799u3bDzBgyM7OnjZt2oIFC+7du1dWVrZx48bMzMykpCRfX9/i4mKG79+/Yw2QM2fOAIMFANMA5szbg0xbAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP79/f79/dXq39Xq3t7u5eDv59fr4d7v59rt49fr4AD+///9/v6n07uczrSaz7N/wZ6WzbCQyquazrOm1b0A/tK8/efe5vz25fXu1ejczubY4+/n4/Do4O7m6fLsAMZ4V79eOfGkkeLt5uXh2OjNxefTyuTNwuLJv+ze2ABgVVGOcWfmiGncvrPj493cyLvgzsPhz8XfzMDm188AcFtW9Mqy0ZF3x8PK4t3Z1byv2MC049PK6NrT+fb1AP3LpuKZb5NrWdbe6fLw7eXZ0eje1/Lu6vf19PTy7wDMjmqETDSiiIDS6erc39TgzMLdyr/fzcLZw7bi0sgAkmtQlls+0b67+v//7eXf4MzC4dDF4c/E49PJ6d7XAM2WbOW+pOnt7Nnv5eTj2uHMwePSyODOxOnb0/fz8BSJ7mTjyUEDAAAAAElFTkSuQmCC",
+      "imageId": "9bf65b93-b4d1-403d-e037-b4a6ced55d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-distributed-computing",
+      "slug": "the-benefits-of-a-software-engineering-degree",
       "locale": "en",
-      "title": "Go Language for Distributed Computing",
+      "title": "The Benefits of a Software Engineering Degree",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-system-automation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA40lEQVQYlWP484wZgn4/x8JggLB+PGFuq+I6vJn96Ba2g5s4Xl+HqoBKf7nH8vQS65RO7sNbWC/sY31+lRVFGmraM9bNC42vHVX9+YwTKr1oCueZPeyXD7Kd3s12Zg/n0smqK2fz3TnFducU24V9rAxvbzHP6OZct4Dj1E72Uzs5u6pVz+9l27CYY+967r1r2EGGf3vIdPskG8Sp53fzIVvH8Pku89IZ3FuXcd46znphH/vd0+wHNnCe3ctxZAvHt4csDB/usDy7DLL48kGO2ydB5IV97FcOgdDPpywgw+HhgIkADwiqiadH1TAAAAAASUVORK5CYII=",
-      "createdAt": "Mon Feb 15 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlQXBy0vCcBwA8N//1qljp+oWQvegDgUVBBFBRMGKDiGkQYVIsjTztalL0yCthqk99jCbT3xsuvd++/b5oI40+mBb9Wq30x4riu44tgtgGaqhTzEAop7EEMnGIq9+b+6z1gYAbdDrB4+sh1PQRygq4WhDi2UKzdZAUt1L34Xo26RXF4j5mRyxjrodmeXl57qcKPUrTSUVDWc3PKJ/Z2tx9mp7Gf00fln2LU4x6TRdLBZAn1BLc+VdD2TPeuQ+4seGIqvU+0iQhqahmYY+rFVerokGeTiMHqP6N5/KFhNJKkTepzOMaegAwOXj5ZMV7dGLqn2zxFkFzi4LxkAxXWy7GDu2k/cdcME91Jb+cgzNZGgqGQsEbsKRO1HgAaAlfKWINYRd17KdyVR1HIyxq2maqqouxgBQuD3/B1R39Yibe8XWAAAAAElFTkSuQmCC",
+      "imageId": "e347c6c5-4348-4ba7-27e7-4f23b10ea500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-system-automation",
+      "slug": "how-to-use-coding",
       "locale": "en",
-      "title": "Python - The Language for System Automation",
+      "title": "How to Use Coding",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automating tasks is a way of making your life easier. Imagine this, you need to run a report every day and it takes 5 minutes each time. You could either set an alarm and rush back to the desk in 5 minutes or create a script to automate this process. The latter leaves more time for you to focus on more important things. What if you could automate even the simplest tasks? Wouldn\\u2019t it free up your time for better things? That\\u2019s where Python comes into play. As an automation scripting language, it can help you automate even the simplest of tasks and free up more time for work that matters. Automation helps businesses in many ways. It saves time, increases efficiency and decreases costs by eliminating manual processes. In this blog, we will explore why Python is such a popular programming language for system automation and how it can be used to automate simple repetitive tasks in your organization. Let\\u2019s get started\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-tools.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA30lEQVQYlX2Mu07DQBRE99P5AERBSUtByT9AZexgJKMEOw7exHa8frB+7Mb7ujdCigsEBUenGGk0Q/BfCKJbknVayFHr2SxYZawi8yz5V9F2VdvViOaPZBJD1+wO+5ixAtFoIwHUojaSCDkyluzppqpyAOX5/ip8jdbRKgy8wCNlnjXNjmbrvMh+PZ8VoCDhyzNjSZpGh/wTz+pHEOAm8vR4n8bBe+QXJUU4IZyGvu552fNS65483Fwdjx/b7dulFssI3GTNoGZO7m6vqzrZxCGlKbjB2d4armYuRSPG9htaDBY91xToGwAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Nov 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANCxAs+yAtW4AdO2AtO1ANC2E9GzCNe3AMe0JJGdowCymgOdhwPhxgLUugDTuQzU37jS2J/RvyrYugC3rksAqJIDj3wE588F1roA1NFy0urs2vLu3PHp1tiN18QfAKSRBJuJBuvSANTDI9zu3rfHwJypnrvMw9fu79ru3gCgjgSklATr1gDX3Jnd8+/E1MihsKiXpJ2VoZjH2c8AlogIkYMA7uAi2era3vX1zuHVpLKok6CassK50OLXAIR5CJGFCvPjBd3SJNzileD07eP6+MbYzMvd0OH27gCPggmxogvx4Qzk1ATl0wDg1zbd5avj9/bj+v/Y3qEA4tEN5NQM5tYL5tcO5tgN59cB5dQC4NlM3ua53tIvAOPUDuXVDuXWDObXC+fXDOfXDufYDujXAuPUB+XWBrlPvwO1qG+pAAAAAElFTkSuQmCC",
+      "imageId": "c889660b-32d9-4951-c18a-186cc2ce7c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-tools",
+      "slug": "the-best-coding-resources-for-beginners",
       "locale": "en",
-      "title": "The Top Software Engineering Tools",
+      "title": "The Best Coding Resources for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-web-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlWP4ixcw/IMB7NIPrhadPLrk9rXFcBVXThbdvlj3/fv3O+ejGa6caVyzetHLi4IP7+2GSD99uO/ROZ7ThytunbJj2LZty8EDW5+cl7t/Zy1E+uzZs+eOt768xHL9bB3Dzg0xR7a5Xj+d+fPnT4j09evX37179+AMx92T6gxPHp68ffv2gwcP4M55+fLlvn37Xl5ieniri+HYkU3Hjh07evTozZs3v4LB69evr1y5dOus/60rSxjQfILmQ5A0Lk8DpQFXjgZAq0HRrQAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Apr 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP3+//v78PLukP33Q/jwJPv0JP/7RP76kvv78f7+/wD8++H89TKwqgC2rwGxqgWrpAW+tgLHvwD68TX4+OMA/fZZ4tgA2tIK08sH9OoE49oF3tQI/PEI//cA8+xZAP/3Mr+3BZqUDK+oBsnBBravCaehB6ulCs3GBfTsLgD28YDe1ADs5AXGvgyuqBG/twTEvArCugrYzgDs53kA+fn78+5x+e4F+O0Ay8Up7+kx//wA/PMF7uhr9vb4AP38+P7+//f23Pn2muLdacbCSO7oU+jnzff4/v7++wD+/v/q6ebX1cHBv6GtqHzi4K7////+/v7////+/v0AvbqYlpA8lpE7o55cwL6hzs7RzM3L4ODe5+jo+Pj4AMPAm7Wyj6KipIWGjoOEiH5+fYyMjL29vc7OzvT09PBN0wlT5nWUAAAAAElFTkSuQmCC",
+      "imageId": "ebc91769-3622-457d-aa09-4988a1775e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-web-development",
+      "slug": "python-the-language-of-the-future",
       "locale": "en",
-      "title": "Python - The Language for Web Development",
+      "title": "Python - The Language of the Future",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What is the best programming language for developing websites? If you\\u2019re looking to develop dynamic websites and integrate them with databases, Python might be the right choice for you.\nIf you are a programmer or planning to become one, it\\u2019s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.\nIn this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tools-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlVXKsWrCQACA4XsOn8BX8A3sUCrURcgS9QGcXbIkYBCS43JeionpkVQcJJQiFLp0K2TRpUpQThsktBKCSzoUmxylpRT6r98P3u6k6PpyP22km8fjMeX/A5PJDaUjYmKMEaUj13UppZZlEUJqtRr4G/PPvCiK0+kUBMHhcOCcl0qlb86yrNlsdjodQRAkSWq1Wowxznm5XP7l2Ww2Ho9lWXYcx/O8MAwXi0WlUgFRFFmW1e/3e72eqqoQwm63OxwObduuVqsgjuPBYKDrOoRQ0zRFUeSfHMep1+tgvQ63u3UU7RjbrFbP7y/3+etDns6Lj1QURZAkyXK5ZIz5vo8xvpUbT+rZ6up8P23M7QtgmiYhBGMMIUQIQQgNw0AIGYbRbre/AMwdy4X/utt0AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Aug 04 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-tools-for-developers",
-      "locale": "en",
-      "title": "The Best Coding Tools for Developers",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Developers do a lot of work. As with any job, coders have to balance the amount of time spent coding as well as the quality and efficiency of that coding. It is an ongoing challenge to stay organized and productive throughout the day. The good news is that there are many tools out there that make the lives of developers easier. These tools make tasks like code organization, file sharing, debugging, and testing much simpler.\nCoding tools help developers in multiple ways. They streamline processes such codification, debugging, testing, and management of code libraries. Additionally, these tools reduce redundancy and increase efficiency across projects and teams as a whole rather than individually. Let\\u2019s take a look at some of the best coding tools that every developer should know about!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAw0lEQVQYlWP4vjETD2L4eHbN943ZOKX//fv34f4ZnNLdzdUFKRHzCp2XlrlVRph1p9jOzHPsTLJqirXI9zdk2DGvdUml/9x852nZjk2xFnPznQ92BXcl2zTFWhQFGzG83tePy+QvG/MZvm/M3NrkPyPH6WW1193l7a8Pzzm5quf1jtYHhzce2rcTJL2swiPDW+/z+sw3p1a8ODjr+anVb/ZPvpHse2XXQpA0Gvq6POVlk9/X9ekgl2NKv6j0+rYqDeIxAGAQvR8GNpC0AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 29 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-for-artificial-intelligence",
-      "locale": "en",
-      "title": "Python - The Language for Artificial Intelligence",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

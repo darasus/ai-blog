@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-network-administration.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWP4BwZ/ft3+/W3V7++n//379/Xb30s3fr18/evfv38M//79+/Vh/Zvzoqf3uJ3ZbXHx2jOb0I+u4SeNvF5t2fUCJP3pQuCxdSE/P1z5/vrY1IUfdR0vvnv3Lrf2XUDcWZD0u/3eF9YnXtlZ+GY1b1HtSS2bM1+/fs2pfO0Vth8k/ercrAczRN/sSnk6g3P33lO69meCEq8qGR+bvWAfSPrP7z/XT207sanvxK6F79+/v3X3uYHDnsCotX///gVJI4Ov33+qmy6W1JxRUbcK5PLzWxseXNt3//KuF/fPXjm67PWTa+cPLrtx8eDFY5svntzKsGVm3trJWVvnVaydXnx406w104rmNoVMa4hbN695SmMcw6uXTx89vPv8yb33b998fP/u3ZtXd29e2bN52Yq5fffvXAMANpbdiE0UJHQAAAAASUVORK5CYII=",
-  "createdAt": "2021-11-17T12:24:41.400Z",
-  "updatedAt": "2022-10-11T17:16:01.916Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP7+/f7+//780v/4mP34vP79++7x/sXN/uDk+v///QD+///98rHozBLSxUnXyVLR1ORJX/M/U884T+mzuuoA/f//99FAx61K49zY/fDBiZX0IDTR+PPWaHj3OkvOAP3///C7O9a0Y93Jj/S2EXJ4xCQ41///7md3+DZFuwD////szpfXjw/erVvVjg27uL0+T9RQXtQrO8SYncEA/v7+/P3+3Mquy66AzLuf7u3qys7lEya9QEyp///zAPz69Pn28P////7+/v///+vt+E5dvSo6pYSLwP///wDQtH7g07jk2cPk2MHWyKvq49LVy7TNxK3Yza7Uy7cAr5VqrZh1rJZxoopiuKaHsJ1/m4JaknxWkHtXj3xbAOfi2+Lc1ubi3Obi3vTz8unm4ePe2LuvoquekODd2Xht292jSIbQAAAAAElFTkSuQmCC",
+  "imageId": "331a832e-8a46-452e-eab3-477a67edf300",
+  "createdAt": "2022-11-05T21:53:13.544Z",
+  "updatedAt": "2022-11-05T21:53:13.866Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-network-administration",
   "locale": "en",
@@ -20,115 +20,130 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOTf4/z7/PTx8trT1dDGy9XIz9jHz+3X4OnQ2+PK1QCOiI++trt/dX1aUFg4LjQoICUyKy9NRUppXWF/cHgAX01aMyctf0dB2m9cKSIkQTU5b1tmYU1YT0BKIR8fAEg6PzgqLaKIjIxtcSQfIVFASHJcaGhUX2tXYhEREQCjj5iSgYn78vLY09UpIiRaSVFwWmZmUl5lU14ICAgAk36OgG1/nIiR08bDU0VHMSosLyUpKCAlLCUoCQkJAHJfb11OWj0yPbKaormhpZiGindnakw7Q0ImKTEoKQBMPkxWR1M4LjZWR1HVu8D94+X94+X63uPky8/LtLcATkBOJiEnHhkbRTw9wquu+t7g/ePl/ODj993h8trgAGdcXaqXm+PQ1Prn7P7r7f3o6/3j5/vf5PXb3/DY3pIumAg4Ox+kAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlWN4sJ5pcx/bhaWsPw8zf93P/Gwr89lF7K92sH49wPJhDyvD+i5Wfwfu5ECe8kTurnzu9BCe9BCuykSuwhiu9BBuhqebmd/tZlrZxtqczt6WxbF7Esv+aWzHZrEsbWTbOZGNYUO3yPaJQrfX8V5ZxvvrCNONtYL/TzA82sT3Yhfn/1MMDJPzuTZ28TWkSqxr57m1XqA5Q+L0Qp6DM/knFIk83crF0J/LP61MZGoJz9QSwYZUsdYM0UnFItPKJbpzReZWCzP0ZHKfmMX6agfnwel8dYmCp+ZxPljHemAq5+3V7FeWsjMsquH+f4HpyjKe2dXiW7o5fx9h/HGQ+e9Rpp8HmX8eYmbY0MHx/SDL5z2Mb7YzftvP9Hkvy6c9TJ/2MEMYDJ/3MkHRPhAfwv6yjwWCAJ0ZjACK+2QCAAAAAElFTkSuQmCC",
+      "imageId": "91500af6-a771-4244-ecbf-e1dd5ac3c100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-video-processing",
+      "slug": "python-the-language-for-software-development",
       "locale": "en",
-      "title": "Go Language for Video Processing",
+      "title": "Python - The Language for Software Development",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-big-data.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDElEQVQYlWNgebYGD2IQfblR/MVGhRdbuZ6vQ0icm8Wys4t5YwuDxas9Jq/3Kr3cpvB4I+upGayzS5iPTWFZ28S6r5d5djGD75sj5q/36L3aZfFqD8uzNaxPVrPu62WZms9aF8fclsxg/Xqv25tDIs838DyDGs55ayHzvFLWff0sF2YzaD+eLPZ0kfDTBfqPJgo8W8LybI33/XqIOoFnSxicHrSl3SkIuV/jf78u+l658JNF+Xdymm/G5d7NirxbwcDybBXLszU8z5aqP5qh/Xiq6uMZwk8XSD+ZLfx0gdDTRQwQc1wetFg97JR/Mjv8XpXNg06Th32ST+aC/I0cCDzPlho8nMgGNg8SLABPm515YLwdDgAAAABJRU5ErkJggg==",
-      "createdAt": "Fri May 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+ElEQVQYlX2PTUsCURiF75/sR0Q/oG37NgUlCH2YERqB1KayaESLAV20MArD1HFShplptOtM02Xue94bE9EqOjybc3g2R+C/kCAQM4PzZtj8zCACARCGzUcmM1IEmqkInEs5JlfFWD7tdpfrw42ZCvZGhQOnePJ6WHFLtWlV6U8xmLd2ukvlxxWpQi/17Ldmf9FzkqEdNplZHD+Hq7c1Z95L9KIy3q+65Qvv7No/70R2I6iLNet0++7o0oUxieVbraBx418VXjY7UbvkFMXWfX+9/TCNFYMnMY/eaRJjIFNXUpppkcEoMoaZAE06+waABjFY6N+Pf+ULShEOQueBn5AAAAAASUVORK5CYII=",
+      "imageId": "b4a1071a-82a4-4430-31f2-47792907c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-big-data",
+      "slug": "spring-mvc-applications",
       "locale": "en",
-      "title": "Go Language for Big Data",
+      "title": "Spring Mvc Applications",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today we see businesses around the world struggling to adopt emerging technology and adapt to changing market conditions. As a result, many companies are facing a period of digital transformation that will either put them at an advantage or leave them obsolete. In today\\u2019s data-driven world, businesses must have the technology infrastructure in place to collect, process, analyze, and store massive amounts of data.\nTo remain competitive, organizations need software development strategies that can handle big data efficiently while keeping costs low. Organizations must also have the ability to implement new technologies quickly and integrate them into their existing systems. This article details Go programming for big data examples as well as why you should consider it for your next project.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANeti/yZBPqcA/yXA/uWAvuWAvuTAvyJA+lnAbVUFQDqpmn5wXn3um31v3j3yZD3yI31yZb206/0xp3honcA6dS77tW999vC8tm/c1hGnol1gmhVxqyVqo56+tq+AOLLteTKs/jcxPvkyaGJdJiAa7agiqmRfrKYg/zgxQDfx7Lp0rqvl4bRuaSokH2+qJSGa1uXfm2zmIbGrJcA1L6q6NC7rJOCrpaDjXVkuaCNq5B+xKyXtZ2Kq5B+AN7QuerZxN7GrqSLeOTPueHLtdXAqZN3aJV6ar6mkwB1xbPGqpTZwqp7YlF7YFKgh3eZf22CZ1ekiXeli3gAoo9z89rA++nP+ufO/OrQ++jR9+LJ79fC9NzE79jAAOmUKOiOJOWDE+WAEOR7DeR4Cep+A+1/Aut9A+1/AorMwinrFK20AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 21 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APyyIvy0JPi8Of2/OP7FO//OTP7RVf7Zb/3KQ/3FLQD9syT2rRnLsXr07+Hd1cLV0snY2NXAx9T11Hf+xCUA+K4j/7UbwaNe4Obxqq2xkpSWk5ORkZWe7dOI/8cpAPCkH/+0H8adRdze49LR0tfY18zMytPX4P3rsP7GKADilxn3qR3OmDDU1dPLy8+tra6opqWsrrTl1rr8wzMA1YgQ4pQTzY0exsXBt7m9tbm5vMLC09vd6NzV98E+ANOFD9aFCbd/N7SlnfXq4tHAwepRUsV/gdzh1v/QTQDRgQXXkTO8i2+rgWb68OjQztbkprDl0d3q9P/90FwAxXMAv4M93Lic6siq7dvN8d/I9ebC9Nqk7s+Q+chMAMBuAaxkEcusjPvct+ubKemQDvOdEPu1HPy9I/vALteVzEU6ywmGAAAAAElFTkSuQmCC",
+      "imageId": "d2add49b-b614-4566-8750-869091bf5b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-habits-for-beginners",
+      "slug": "how-to-read-code-like-a-pro",
       "locale": "en",
-      "title": "The Best Coding Habits for Beginners",
+      "title": "How to Read Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-code-better.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlT3JTU+CYAAA4PcvZx1aB1Jnha6adXJu5gdiKklphLicaymioAzcCETQTcM3P0qJakmX1qXtuT0gFIk+cKxqaP/6Q10fDfpDvS60wB6KMrXyxnXGEyN8dnxyGsQzybZQ37iOZqpgx+9n7u82rjNfPDOVEkWTUo+34OjbXavGE9j2+W5pUuiwxRKBpeMUTQZDB4GAF88klYECPN79InVlLYZdkRM67GOjyktsV+QsaP71FoIUirnOrIkpqYpOt81GUokLkNv8rAxDBh4EIa7TU8fozfjJ0hAgpy1lecSjwUAufAiIeESskpZtirClTEXBaqoLSZtLn19zkckCuRSjU+cDmV2toe3A948X24Er23p7HfO1G9C/x6LobpnK5Qt4voBfEhieTWCZi1gi4j/y/QLvyOLcswKshAAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlWOIOPU94uS3yFPfQYwT3yJOfo049T381A8QOvmdIercn9ir/6PO/Y4+/zf2yv/YS/8iTv2IPfMz6fTXpDPfGKzbVjpO3uGx5IxdzwanKTvt+7f4b7kfdfpn9OX/MWd/MXitvOgwYav3mis+6667zj3iMvug4/S9nnMPeBXVu/esYoi5/Dfh9v+YS3+jzv2Jufw/6sIfl3lHtSOKhBkYlG38GCzq5ls1LrFqXhqw87F120qPZedc5xyWMPNjYBDgktRj8F1/02HiNq+VFyPO/Aza/Szi5NfQw+8lzHwZGBjY+eUYYi78i73yP/riv6hTPyLP/oo898d+wjb77vUiymZmBf0M4Se/gfx98jvI6ye/RZz6Hnb0c9z5X4nnfiZd+sMACg0IOv0Dwog8/SPi5LewE9/CT3wDAAFvsfXo+CdtAAAAAElFTkSuQmCC",
+      "imageId": "7964e7ef-18c7-4040-bc37-37c1a5f63400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-code-better",
+      "slug": "how-to-debug-your-code-like-a-pro",
       "locale": "en",
-      "title": "How to Code Better",
+      "title": "How to Debug Your Code like a Pro",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/building-a-hibernate-application.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA20lEQVQYlW2NMU7EMBBFzVG40db0XIViGzoaLoAoqBAUW7AS2gIUJUKyZKVIlCIpIke2J5HHY7MjIWJAW/DK+X/+E/wfKaUYIzMLpVTTNABwGl897Dc3z5e3T0JK2XUdANhfiOji/uNsW55fH4QxZp5nREwpMfPx88jML+/V3e7w+PomrLV5cBiGoiiUUrmX79/fp9YQAiJ6740xiCjGcSSinBGRtbau66qqyrKUUgoA0FqPK9M0AYBfMcZ47wUiNitt2/Z9vyxL3v9xxxidc1pr5xwAEFEI4U/3BVlMEkF7OcVmAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Nov 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADczKkQ/MlFLOkA+ND4/NzI1Mzw6NdKTTf+2ZNSobQBNT0hIRTo+NitZRC5pSSqAVSuWYC3nnkvUlVNBNiwArW4wx34y6Zc99aBC/bFJ/8FX/cZl/9Z61JVQLhUMAKRpLcmKRK9+RN2hVaZ3Pqx9RKV7SqJ9TaR1QywXEQCUaTqPaD2LZj/OmVmKZTyac0irgleMakpuSSefXyIA/r9t/8l68b53uo1ZvpBbw5dk2qt47b2F/LJc/q5JAPWyaf6/edSibHNVO4poR4VmR2ZNNp56Wf/EdvSuXgD7wYP8xYj7xIT+zYv+zY3/05XxwozxwY3/ypH8xYoA9vf3+tzB/r58/MKE+8OG+8SL/smR/suT/ciS/cmUAPbv6PvAh/24d/28f/2+gf2/hf3Bif3Civ3Ci/zDjF63qZJ6VpT/AAAAAElFTkSuQmCC",
+      "imageId": "66a86219-eb14-4dab-9ebf-464f30870d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "building-a-hibernate-application",
+      "slug": "setting-up-your-java-development-environment",
       "locale": "en",
-      "title": "Building a Hibernate Application",
+      "title": "Setting up Your Java Development Environment",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this article, we will build a basic application using Hibernate as an Object-Relational Mapping library. We will cover the fundamentals of setting up a project, creating tables and handling user logins.\nWe have all probably heard of SQL databases before. They are used to store data in tables so that you can query the data efficiently. Each table has columns with the properties of that entity stored as values in those columns.\nHowever, building an entire database from scratch is not something that most developers would want to do on a daily basis. This is where Object-Relational Mapping (ORM) libraries come in useful. Instead of dealing directly with SQL tables and their contents, you can use these libraries to represent your domain objects as entities in their own right. Once you\\u2019ve done that, it becomes much easier to persist them into your database without writing any SQL statements yourself!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlV2PO6vCQBCF9x+Ldtb+B1HQQsHW2wgiNtoIYiNaiY8oJpg1PjfJ7uzMrlyWBEWnmjkfcziH2e/h43hTv8sTZid7A+0nMpLzQrgoc6/5/GCQGgBBamtt0BfLChc75RQABoPzC4y1FhUaypfs1ZBhur6nli8jXDcuu/aVj+OgJ6JJcpmm6+qVQc2jjo8JbVu388yx49/D69zDURL0BdNDrmPnBpCbgyACyhQXDRFlCmk3FM0AFapNDMKF/Sp2KO1XxS1JNNp5/PY2imyaZ37jfwknFvm9xdS4AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jun 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABGElEQVQYlU3J30qDUBzAcZ+py14j6LaLXqDLbvrzAN1ERfdBMRgzB5krRpNCE9qQKfO4pVs05izFna2zHefh+AtXQd+7Lx9hPp+zVZQuOOfL5TLLsvwvQVXValWq1e5LpYosK5J0LYqiLN8oiuL7vpCmlBCKcTQOWhgHhNAoiiaTCcaYUioAAMumw/65a++1jMNghDxv0O97jKUAUHAUPvrufqW0vb4mnB3vAMA4+By+h7+MkzZq7yLroHy5oWkXABAmuukdFcw5ZywLR3d+9yT+uM3YgnMoP19tnW4WnOc5/Otnh1OqvcUFJ0limmaz+YIQsm2r1+s6DupY1uDV/SJEiOO4Xq/rum4YhqqqHcd5WvXQaMxms2+AtAEJKuAn4AAAAABJRU5ErkJggg==",
+      "imageId": "70617ea5-3ad5-47d5-51ec-0fe4a3294200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "slug": "introduction-to-hibernate",
       "locale": "en",
-      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "title": "Introduction to Hibernate",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-most-popular-coding-languages.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVQYlU3GvU7CUBiA4bN7A16Bm5t34QU46m5cHE2MYXHxJ0ZXJZGfMClxkKgEG0EEoUBLaU9pa7DBYonCoVBp6el3YowOvnmGFx3Z5qbZhn8xxn4noD6aE/NLSlmfDELqAvOAeQy+ABwAR8ECWu6I87i81cgF/jsA6VkagDMadQEc3BbRQvJgJ7bCF1O+awKQWPw0njhLJKMATluT0Li/St4iE0vtWRIhpiiUBp+minlCupreQuvn24cXqelHd+bZxyd7Kuazd1fpy2Qhf6sbMlqMRO10djYZNuoFRa7k7q85LpN/uOG4TPGJQ+W1Xa8qUH+saXVFrhiGKDQesVKVpJKMawhv7Pt2L/BdRodh+IPRP7ZtIOq5YTAN6LRvdV5fsK61VCxITV4UnltS7Ruz6/njc4XzZgAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Dec 11 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPQlma2VGF21WH2NWQONGIOMGL21mN21GA2UWRWFWdmcNBmCbVgTXdlK/JhLfFhKfFhzvFgibVj9TZkMVNhZvAxYshyY2yNYJqSyDIzjXVaCmtPPFtVMFuyC5ubAQvDzK7AnYuj1nfobGuVWZ3HsKqQeWEOU38iU4k/Y5gNM8O6RenLWkxvHC49MllvZ53Anlapra3yS6rkuzNlU7wFGTJ8+BtC2bf2mu7o0Li+K+fSxpgLO7L2r0xePTW0KsOUwd+UOcuDvdCDsTKAu8qfrTqIs8ifN9aWxdeIwVaDicFOiyXYkiXNnTXPi7ksgLnEjznTlSnOkcXLmMVUlYVBR4bZSpXZXZfJz4g52ASEfAyYnbSYTZWY1SSYGaQFmNXEmfVlmEwVmCyUQMhYnklHillJhFmSjxkAlYRON1dp/hwAAAAASUVORK5CYII=",
+      "imageId": "88c30a3e-c229-4e88-fc59-f0d81fb7ce00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-most-popular-coding-languages",
+      "slug": "python-the-language-of-tomorrow",
       "locale": "en",
-      "title": "The Most Popular Coding Languages",
+      "title": "Python - The Language of Tomorrow",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlT2PO0sDQRSF999Z+V/EzkYES8FHJ5hCC4miEXwRV/KwELYwELQIbkJ2Z9x53Zk7s7OPgKUsG4TTfYfDdwKZES0yIxkqbkG0QcWNZMBpAJwaySwIj6qw0MZpaUEYyYJ/VjpTe1t7W+VYOuNRoeINdlqKkx3T7+ZkbsjSMoJZCnTptAxQcR0N4GBLXe9Cd/twc+PueL93tDe4PPWoGuznn+XHsJ6NzKRPpxMWvS6mEfn+0ixtsNOyynFVuN/arwoXvz39jHrp+BGSeK1WWGi9Fu+hfuiU4YUZXjVqWmTNgOGFhSrXnCaz8DZ/PoPxTXMMOF03tPSoPCpOk/i+Y17OZUb+AMfgAewT8ENlAAAAAElFTkSuQmCC",
-      "createdAt": "Fri May 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJklEQVQYlVVOzUvCYBx+/6Cij/+gDpuaBw+ePPUPFCTz0Meli9e6huClg04aXWZB6VYyNIJRzMDMpbNXVhIaKyfN/fb+QpKg5/I88PB8EL9RYG6fITIWsD/gjImvpkAKwbP8z2YzTdjIButiIvFsZCNiAH4A8BsOAAhU9/3zdV/dCrwxC6YjiAieB56HiASMo8lpDM3jlzO1tLpyu7HZODjUBUFPJt9rNQK9KtAbRK9zIslLy/e7e2o0eh2PK+GIwvMEp5+nhUPD6GsaIo5t+6vd/jRNl1Jyt7PdFfOtTMbK5Z3m40DXnWbTpdTtUaf1RC7D4Yd0usRxWiKh8KGrWEyemy9zXHFhsbwWIR/1+vdwQOXiq6LoQuqtUunkc5YomtlstyD+ACny7q5AXyNjAAAAAElFTkSuQmCC",
+      "imageId": "309c67cd-5863-4669-eb34-3ed0cce83700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-data-mining",
+      "locale": "en",
+      "title": "Python - The Language for Data Mining",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Python is an extremely versatile language and its applications range from web development to machine learning. What makes Python so great is that it\\u2019s so adaptable \\u2013 you can use it for almost any purpose. Let\\u2019s take a look at some of the reasons why you should consider using Python for data mining.\nWith the increasing volume of data in the world, finding insights and discovering new knowledge from data has become a challenge. But thanks to cutting edge technologies like Artificial Intelligence, Natural Language Processing and Machine Learning, this process has become much easier to handle with Python being one of the main tools used for such purposes.With this blog post, you will learn why Python is the best programming language for data mining tasks, how you can get started with it and see some usage examples as well as answers to frequently asked questions regarding this topic.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVQYlRXOTUsCQRgA4PmhnQuCDv2BoEOHTkFQh4pCgiCIxCKVLCgVL0GFYCir7q69M+98z7g6u5WX2PtzeAhCInGmELSgVjIr0UqmOVUIgqZEsFQhWMW9EV6h19xrdKUAhUAkfhvBDEszQYsi/BVZEbJ84RdzYwQjis18Hvj5vrm/8HTCx0MRj0QSQTSwAohRXL698L1NW9mODtdON9arB7uVna1e7WqRGWK0tP2e7zXzqK3fG8nnx+S1Pui2aDxWEBON397bkC+LkK9Wq9+fPO02oFuPO00x6pOyLWimeXBq6eSw88hvj/KHE/18Lcs5mxlBnWaZFUunIBl/tW7c3bFuVxGBcJoohFIo5jSGuZkm06h25p4uIZ38Aw5/AmF8T/7UAAAAAElFTkSuQmCC",
+      "imageId": "3955c21c-ecb7-4e84-5b8f-ad84202bb800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "introducing-javafx",
       "locale": "en",
@@ -140,31 +155,16 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlQXBy0vCcBwA8N//1qljp+oWQvegDgUVBBFBRMGKDiGkQYVIsjTztalL0yCthqk99jCbT3xsuvd++/b5oI40+mBb9Wq30x4riu44tgtgGaqhTzEAop7EEMnGIq9+b+6z1gYAbdDrB4+sh1PQRygq4WhDi2UKzdZAUt1L34Xo26RXF4j5mRyxjrodmeXl57qcKPUrTSUVDWc3PKJ/Z2tx9mp7Gf00fln2LU4x6TRdLBZAn1BLc+VdD2TPeuQ+4seGIqvU+0iQhqahmYY+rFVerokGeTiMHqP6N5/KFhNJKkTepzOMaegAwOXj5ZMV7dGLqn2zxFkFzi4LxkAxXWy7GDu2k/cdcME91Jb+cgzNZGgqGQsEbsKRO1HgAaAlfKWINYRd17KdyVR1HIyxq2maqqouxgBQuD3/B1R39Yibe8XWAAAAAElFTkSuQmCC",
+      "imageId": "e347c6c5-4348-4ba7-27e7-4f23b10ea500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tips-for-beginners",
+      "slug": "how-to-use-coding",
       "locale": "en",
-      "title": "The Best Coding Tips for Beginners",
+      "title": "How to Use Coding",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/testing-java-applications.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlT2OPUvDUBhG7ySiIu5F9Bc4FSeV/gh/gZOoi1OmVsSqQyXoFIqx0OLQhICN0AydxIKp2jq0BvxIO9j0Q6ltmpt773vjoqXgfJ7Dc1B4KTQfmp6bnVwJL57tr9aK217fwG6bUp8xhmamJtaWF6TDyFslzvwaIS5jpNtpUg4EGErGIy+PIlAHADDGpmlKkqRpGgE2wtgWvp6Kuq6rqppIJGRZNk2z9HBPOXg+Rmxw/HEZMwxD13XbtikHTIiiKLIsC4KAAppuZ9fpd6/V6VSt51wuF41GU6lUuVymlKKGpZLu0SB/XigURFHUNK392YWAl+5u6o1XFBO2frxs72qz2XL6QxcCDgGnHOx3K31xgnZ3NjwnQ+oHbuWWchizURd2raqJ8srp0ElyP9O63hur/4u/71/NHOTkmy236gAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Aug 14 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "testing-java-applications",
-      "locale": "en",
-      "title": "Testing Java Applications",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s digital landscape is fast-paced, ever-changing, and steeped in digital transformations. Businesses are leveraging cloud services to accelerate their time to market, improve agility and lower costs.\nMoreover, with artificial intelligence (AI), machine learning, IoT, and other advanced technologies enabling businesses to harness big data for predictive insights and automated processes\\u2014the moment has never been more opportune for businesses to leverage these transformative technologies.\nThat\\u2019s why testing your Java applications is so important. A software tester conducts tests to evaluate the quality of software or website features by giving users different possible inputs and measuring the outputs against a pre-determined expectation. Software testers attempt to find bugs before your users do. They are like Quality Control for software development. Their job is to make sure that every piece of code meets its functional specifications, whether it\\u2019s user authentication or any other feature of your application.\nIf you have not started testing your Java applications yet, we suggest you start soon!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking for a way to develop your child\\u2019s critical thinking skills? Do you want to expose your child to STEM-related fields without sacrificing their creativity and imagination? If so, coding might be the perfect opportunity for both of you.\nCoding is an excellent skill to introduce your child to at an early age. It challenges them creatively and forces them to think critically. Additionally, it opens up a multitude of potential career opportunities in some of the fastest-growing fields, including robotics, artificial intelligence, and data analysis.\nCoding falls within the scope of STEM (Science, Technology, Engineering, and Math) because it involves working with codes or sets of instructions that computers can read and understand.\nIf you\\u2019re ready to learn more about how coding can help your kid grow as a person and as a future adult\\u2014as well as why it\\u2019s important for kids\\u2014read on!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

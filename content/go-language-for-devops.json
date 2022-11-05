@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-devops.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/UlEQVQYlWM4duzYgQMH7oDB+fPnr169evLkyWvXrn348OHv378Mx48f37179/Hjx7dv37579+4TJ04cBIOHDx+CpP8igbWLL25ZdQ1ZhOH656dH396A87etvf7w3nsI+83HSwziu3KEd2QVXF16+8vLI0fuVmVun9x+5OPXu7efLll6QIah7PqKxlsbAk9N/Pv375SOo/Mmneqo2vfuzbfTt6quPZrF4HGi2+NEd9jZqbe/vJwx/URW+PqWsr0fPt+7+nD65lN2DIseHZl+b/frHx8h9u3deuvY/vsQ9pM3exjSL86Fu+va5Re7N91EcfnZ9/d//fmDLIQsDQAfJvhf6zIsDAAAAABJRU5ErkJggg==",
-  "createdAt": "2021-08-16T22:25:00.013Z",
-  "updatedAt": "2022-10-11T17:16:03.512Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABKklEQVQYlSWOT0vCYBzHn1uvoUPnXoRvo2tdorudjLplVAQiRARFCFES4mRNswhjmtX2zIoEN1nOYjsIuRKd/cF89nt+sfW5fPn+OXyJoiiCIOi6bhiGplFKqRaK67qISBSqZnMCpVQUxZO0UKmUb6pVSZIcxwlqDAHgiFgUrNO0+W85cM6R1HovV2+NMWPIwkWuaepdRPR9fPeeyFRpcaI4HzMyHzDUanZ0Nr+7dY04aHcyx/Ik2WyfbViFmced7qeXjFf3EmoyLjuvg7q98mCtksjt2rQcW6inXOYdHd5H5/LrS5fe0H3uHEhqhOzb5UT7ovPT/2Yjjjy1XSsVWojIfLC7BbLczAZXfUBEs+HK51b4CwCChNz1Wv3fLwQOHEajMQAPmhDfZ39HjPZFZ7BwOwAAAABJRU5ErkJggg==",
+  "imageId": "9c5216d4-a0ac-4cfb-d1fb-8c5925b91400",
+  "createdAt": "2022-11-05T21:53:17.956Z",
+  "updatedAt": "2022-11-05T21:53:18.293Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-devops",
   "locale": "en",
@@ -20,10 +20,55 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADbH5lvKvjDT9WzVq6XaZina+iO5yReLfRR4YRydlgCmvWr6tQSSqHY/vMtUpJcm3vsYhnwDUQUELAYFWQoAf6+Iw1gIdmM+YbfMnuHqKeT5HXFZBEQGBkEGCEIaALORIU1/jr+/vfb29O/v76XP2k2UoCs2HBQmCSJnSwC7tKiW0rOH07Cx0sDGwcDQwL+joKZkaXNBb4YnnsgA4tjOQ7J8RLqEe8Ga8u7r9u6/6tbUr7O4JZK/Jp7MAO/j2UaveTWbZ1Gdb/fx7PDJW/rmW+/i0GyWqCW04QDz5N7Au6/JurTDubXDvLr36+PXpG/EpiBBsLYlt+MAyr24sKWixLey69/a+e3o5NjTWI6iKIynqKA1W66bAO/h2PHi2fLj2vTm3dLDvUaGniG+6SS86RubwhgiHj0rsfznU89ZAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Oct 02 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEJQVkZEO8p2HtzFpNHFsNWoc9eRRdmCI9l0CdlwAQBVZGpTRjnbhzDm5dvB09vK2d3N2tzOzcPUwKjSqn8ASlxni1sp+KlR9v7/ztfWvMXE1d7dxdDSx9Xa0uDmAEhTVsR5J/a6c+z4/Nbg4NLc3cLMy73FxcLJx8HHxQBsYU7xmy72y5na6fC4wsDP2dnDzc3BysmwuLfO1tYAf2VIx3Il+ty5+v//8Pv5ytfZusbIuMHAvcrJ2OfnALGTX5NKI/Xm0tDh6OHu793r7dDf4dDa3OXw8Nz9/ADJmlOLVj/89uvS4+nW5ejc7PHg7/Pj8fPt/P3RxsMA0Y5EnoN//f//5vn96Pf96Pf75PP33+3w+v//uJKNANSUSIllWObDmtfNweTt8On5/ur6/un5/Pb//5ldWgv73L/rlOtqAAAAAElFTkSuQmCC",
+      "imageId": "ef314a5a-e3bc-472b-22ed-ac55e6718a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTi4ebl4uXi4Onl4b69uXFzb1xZVj06MzsyJaOXhwDx8vTy8/Hu7+3y8vDAwb4sLypAQj1UU0o3MCcsJR4A9ff48/X38vT09vf34uPjPT47EBAMCQUEExQPjmpZAPT4+fj6+/////39/f///56hoCgpJy4tKUM1KmtBMwD6/f7h4+XLzc69vr2ur66ys7OorbC8s7DXjnuWPjIA/P3/u7y+nJ2ewMHBxcbFxsbF6/L098G+/rGn56SVAPj5+/j5+v3+//z9/f///////vj7/PLf4Nl2ceu8tAD4+fv4+vr19vj09fb08/T29PX4+Pn/7u3LVk+oUk0A9fb5+Pr6+vz6+Pr59PT09PLz9u/w9+ns+8G9t05IAPX1+Pf4+fr8+/r8+/f29/Hu8PDq7PHj5vbZ3dWEf03+3zmTZhITAAAAAElFTkSuQmCC",
+      "imageId": "123dadbe-7c76-49d1-17db-7f9a3eca1700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "introduction-to-java",
+      "locale": "en",
+      "title": "Introduction to Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AH52cJqPjLiceryJTubKmd7Aju7Li8+qcrWMWpR8ZACFfXiqoJqif16ASRuHUibBnGmzhkpuLgBjKgBcRjYAh4SAt6GG2riGwqF2uJNljlssajwac0wvooNcq5d2AImFf6+ScY9XJp9sPIRRKIRYMfnqwvTZqO3Vote4iQB9ZUfdtnnozZzer2qabD29n3m5ileSXSiCRxhlLwgAbV1LuIRKrnM6yJ9pz6Zti1EebDQHdkgod0ghWjcXAPHUle3Rn7qWZZBcL1kYAHpOKuXLmNq2fM6nZ8WbYQCQYjG7kVT536WTa0GpkHCohl+XXS2BQxJ5PhJlMg4Ag2RMk2YxuoA+6MeD//i90qhwZDIKbj4UXS8MJQ8CANW+pItyXmc/GsqdWenAfevOncebVc6gVKBpKU0lCMqDk2WQ3dlPAAAAAElFTkSuQmCC",
+      "imageId": "9e533517-f531-4280-3cb4-d73e698a9500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "packages-in-java",
+      "locale": "en",
+      "title": "Packages in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In this digital world, everything is going digital. Even the field of programming is shifting towards more digitized platforms and solutions. In such a scenario, the need for compact programs that can be easily installed and used on any device arises. That\\u2019s where Java packages come into play.\nA package in java is a collection of related classes, interfaces, enumerations, and sub-packages under one umbrella. As you may have already understood from the above explanation, packages are a great way to organize your code into logical units that can be reused across projects. Packages help you avoid naming conflicts with other libraries or programs and help keep related things together so they\\u2019re easier to find later on. Let\\u2019s take a look at some common Java packages:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADzK4F/KuSXV/3vVmq7NUiPc/ybI0hZ7bxJtUxyajgCcuXT/rgCMtIg2u8lWn4Uh4v8XhHYDRgAEKwAHWBEAjLmDt0wAbFQ0XsHfnO3+KOv/FW1SAD0AAUYJBUMSAJyML1x9k8bAwf318vfj25/V4U6apkA6GyItDSFlUQC1p5uk17mR3rq11MTLxsnVv8aqoqhgYm07ZYAtn80A2+DRQrJ8NbmAdcWe9+nf8Oqw797fpq+7KZfAIZ7KANvWylesezmgamuuhfzt7O7LXPnlWProzGGVtB2w3AD26eG5uKynnZW+qqjMycn98PXdo1m+mBJRs6kav/kAzsC7vrCvzL675NnU++3n6NXLU5G2KYmfqaY6X6aNAOja0fHj2vvr4fzu5dbDu0eFnBi65x7E9h+UuiQpGvh0sew44SXoAAAAAElFTkSuQmCC",
+      "imageId": "c31da73f-87a8-475e-b693-a7e7496edf00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "the-best-coding-tutorials-for-beginners",
       "locale": "en",
@@ -35,85 +80,10 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/java-security.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABC0lEQVQYlT3PQU7CQBTG8bmj7uAKJLoQL8FWT0FCQmKLQ6YvHVrTSZ2mKQskFcjYUSyLNnQcFxpeTGnib/n+m+8RRDTGFEWxXq+Xy2WWZUqpqqrwjFhroyiilDqOE8cxY2wymQRBsN/v27zdbjnnACCECMMQAHzf9zwvjuPRaESklF3jnAshojMAmM1mZVmSJFxs5vPd6+ZTqY83pRZB7ri7Te57oLUmv+/F8eKy6fWbXv/rdthcXZvhjRkMjvd3h8OB/HzbyHl4po/ReLzyIXTdlPOn6bR4WQEAQUR5lqapECJJEiEEY0xr3S5HRGutlJJSyhjrvsjzHBFPp1ObO3Vda63LsjTG/B//AIJp9TZbNxwzAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jul 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "java-security",
-      "locale": "en",
-      "title": "Java Security",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8ElEQVQYlWWPu07DMABF/W98CiMsiJmVBYkPAbaKCpAKQSKhxKqtJLVN4qTk0dKKUMXBOA+IJQRDU4kz3qMzXKC1LoqiaRopZVmWdV0rpaSUSqmqqoDWmhCCELIsK0kSB08MwwiCAELoed6v3pDiSwZHzVuwWUCe54QQSuk8dHx0F5gXn2K9pUMvuh/my7laPSfUjOyBiDHnnDHm+z4YHO+fHx3S6zPxYofwakbsFYd9bRzs3JzsOePHd27O8Chl48X0llI6/QO4p7ux+9S2rYhxPBlG7sPiNevrCJndd6e1bkXWiqwT6dfHstfbx/7zA+hRCbdBTHpqAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Mar 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-benefits-of-software-engineering",
-      "locale": "en",
-      "title": "The Benefits of Software Engineering",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software engineering is the discipline of programming and designing software, as well as documenting and testing it to ensure that it meets user needs and functions correctly. Software engineering is a broad field that includes several sub-disciplines. Each of these areas has its own unique set of responsibilities and tasks. As an engineer, you might specialize in one or more of these disciplines, but regardless of your area of focus, every software engineer must have a solid understanding of all the different aspects in order to be successful in this exciting career. In this article, we\\u2019ll explore some of the many benefits of software engineering. If you\\u2019re reading this thinking \\u201CIs this article for me?\\u201D keep reading! Whether you are new to the industry or just looking for some additional information to increase your knowledge even more, read on to discover why software engineering might be a great career choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APuxIPy2Jfy6L/29Mf28KvvDNP3ISPzQX/3KQv7GMQD7sSL8tiXCrXvv6t7l493R1NPj5eS2trb413n8xzEA+K0g/LYlwKBb6enpnZ+go6OjlpaWkpKS++CX/MczAPGlHfqxJMacROnn5srMzs/Pz7u7u8zMzPzqsPzHMwDjmBbvph/Jkyrj4tzKzM6ytLO9vb2jo6Pi1Ln8yDoA1ooQ3ZEVz40d0c7Itbe5r7Kxzs7O0dTT4trW+cU8ANSFDs+CDceKQbGnne3e2M66vNZITbt5e93d3fzHPADThA3IgiHPmXmnhGvz5N7S0NDosbPw3d/o6uz7zVIAyHkHvX024cCg7cur7d7Y8N/M8Naz8NKf7M6N+8lMAL5wBLFoFMqphvnfv+iSFO6YGPamHfy5J/zALvzBMWOdy9TPxek7AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-read-code-like-a-pro",
-      "locale": "en",
-      "title": "How to Read Code like a Pro",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANfLvcW5rcS3sJ2Wl9zRzLGsreDZ15KUmq+xt5yQhwDMwLTHvbO1qKG8r6rFt66uoZyOg4DNx8LDvbiwqKIAybqqq5uObmRga2JefHVzuK2oz8W9ysC4x7+2saWcAIJ5dYR9e7qyq8a8tLevqZGPi2lxekJKUKuooNXRwgC9r6TDubGhmphUWl9SW19jaGaLioOkoZfCwbbd28wAwbGmwrqoTlNUhoN4qaWdxMK10c7Etq+mfnZwZ19iALOpo7q2pqalk8vGr52VjHFxc1ZbZ4OAhZiTl8CxqADKvK+PiYVwb3JVZnuGlKSzs7PSv6y7p5edjoXCr6MAvKqburazsKeoz7CdybqoyLip1sGrxrCcjXxyz7ajAJeNh93IsMSmkLqaitG1msu+sMS4rq2akMa0qLyllqb7vgC6Wu09AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "7-javascript-basics-every-typescript-developer-should-know",
-      "locale": "en",
-      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-cloud-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA7klEQVQYlWP4hxcwIHM+ffr08OFDFOk1q1bMmzNr0oS+rZs3btuyaf3a1Qvnz104f+6MaVP27t7NcPXq1YcPH54/f37Pzl1v3ry5c+fO9evX37x5c3Df/oP79jNIxX5cc/jnz18IA//+/fv508v7t088eXSZQSnlC6/fm9lbP//79+ff3yf//v37/P7++RPrjx9cs3/3CobQ1q/pEz7df/7g3+uwv7cY/rxw+v2h98Ob2+9e3n798hbM5a+i/jy1/vvY8M8zjz8PZREufwMBT9c9OOdw/6zjg7Oebx5Of//2zZu3rz5+fI/ib8xgAQCGagAgiuQPYwAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Mar 10 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-cloud-computing",
-      "locale": "en",
-      "title": "Go Language for Cloud Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-an-introduction.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWNwdXW1srLi5OQUERFhBwMpKamUlBRfX18JCQmGgoKC+Pj4tra2np6elStXtre3GxoalpSUrF69urKykoGfn19ERERHS83NVsfNVk9YWJgTDKSkpERFRRmYwYCHmyU3RWdBd7ioiICspAg3JztEHCqtLCfSXet9cFfJ9A7rZVOsequNc8KVuTjYQNJ8vOzVBW5djdbnD0fu2eJ+6rBLZ61hVoxZRowmSJqXj3XRFPfZEyIObWuc3ps+c1L6hI6ICc023q7iUMMjQ6TPHPU4esBtQb/xjjUO508YzJisKSLCDpJWU1Pj5OQUFOLX1uJISjCzsxEQFWPj5OSUk5MDSfv4+BQXF6ekpPj7+7u6uubm5ubk5GRkZERHRwMA6GxRej9PKQcAAAAASUVORK5CYII=",
-      "createdAt": "Thu Jul 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPw8/Pz9fUVERVRVlEWFRURFBSUkZEpLCz08/PT1tZmKCoqKi0tqa6pKymrnTJtZm5ujp2dbV9f75QpU1pbWxm4uDglJKVMjDRjgwwCXM15eHjZOThY2djExMSkpKQYmJmZmJhYuDkZ40NVZzYHqytJykgIyUgKMTMzMTAwMLCwMDMyMivJCLZU+u7dnr9gksPiqQ7dlQbJgYr8vBwgFTJS/MVpzvOmBJ7YE7J1nfX6VcatVXr1ufYpEToMDAxMkuJcq+Z5zZ4Yunhq5txJBdN7c2qKvNYv8g0LkAMZzsDAEBEqtneb3Y51DrvWWhzd47xxudaUPkkJcWYGVlZWDQ0NUTFZNTV5ezvJgnyriHAlM1MZWVk5RUVVkHRYWFhWVmZUVJSLi7eLi19gYHRcXFJ6elpQUCAAhJhTZ19iuCIAAAAASUVORK5CYII=",
+      "imageId": "f5326606-5171-4cb6-eb8a-b5572073c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "python-an-introduction",
       "locale": "en",
@@ -125,46 +95,76 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWN49+LPuxd/Pr36+/nd3y/v/3x5/+fzu7+fXv2FiDN8ePLs68P93x8fBKEn+6Ho8cFvjw69e/GV4euD43/2Cv87LPHvsNTfkwb/Tlv8OywFQd/urWX49vDYv30iVxeLvtku/veU6b/L4XDp7w/WMHx/fPT6Qv7SaN6ubMGGFKHSeLmOTP4l9YKTC/l/PFwNkv66U/jELOEDk4U+HrH/fD79/cmQ18fj3x10vH9qGshwsN0g01bPSD548OCdO3euXLnS35G9cPlKhs8v3/24M/fXw3m/H82dMbFq9uzZmzdvnjNnzpQJHQ9uPWb48OLP5zd/vn78/f3Lnw9vP796/vbls3cvnrx/+fQL2N8v/oDQm98f3/75/O7353cgBjxYAASj4xTZRqDkAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jun 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP7+/f7+//780v/4mP34vP79++7x/sXN/uDk+v///QD+///98rHozBLSxUnXyVLR1ORJX/M/U884T+mzuuoA/f//99FAx61K49zY/fDBiZX0IDTR+PPWaHj3OkvOAP3///C7O9a0Y93Jj/S2EXJ4xCQ41///7md3+DZFuwD////szpfXjw/erVvVjg27uL0+T9RQXtQrO8SYncEA/v7+/P3+3Mquy66AzLuf7u3qys7lEya9QEyp///zAPz69Pn28P////7+/v///+vt+E5dvSo6pYSLwP///wDQtH7g07jk2cPk2MHWyKvq49LVy7TNxK3Yza7Uy7cAr5VqrZh1rJZxoopiuKaHsJ1/m4JaknxWkHtXj3xbAOfi2+Lc1ubi3Obi3vTz8unm4ePe2LuvoquekODd2Xht292jSIbQAAAAAElFTkSuQmCC",
+      "imageId": "331a832e-8a46-452e-eab3-477a67edf300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
+      "slug": "go-language-for-network-administration",
       "locale": "en",
-      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
+      "title": "Go Language for Network Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a network running smoothly and efficiently is challenging, even for network administrators with years of experience. The best network administrators manage to plan for the future by anticipating problems from the present and creating plans to deal with them before they arise. However, this can be difficult when working in a fast-paced industry with so much change happening at once.\nIn response to this challenge, Go\\u2014a simple programming language developed by Google that makes it easier to create software packages\\u2014is gaining traction as an ideal tool for creating programs for operating and managing computer networks. Built from C++, Golang was designed as a simpler alternative that makes it easy to manage performance requirements and reduce the number of potential bugs without sacrificing performance or functionality.\nGo is not just a new tool but also a new way of writing code: It\\u2019s statically typed and uses interfaces rather than inheritance or other OOP techniques. If you\\u2019re interested in using Go to make your career as a network administrator easier or even transition into becoming one, read on for more information about why you should learn Go for Network Administration and the best places to get started with your learning today!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsklEQVQYlWPoVmPEgxg6VJm61Rg71XFIL4xSWJGk3Bfi2Bfj2x3t3RPu2ZcW2+Tn0B3p1aHDzbAoTG5mjGKHGkO7Fle7JnuHKlO7GlOHGkOHGgNI9+YMtX5r/j5H9W4nzR59/m5j4T5H9V5bxW5DoW5DIYZWY+61WRqtlnLNVgod3uatLvrtHiZN9hrdwU4N1ioMt4/6TwyTwenymUlaTZbSzSYS2KUhFMg56mw4pXEZDgDQ4VHCbPANTQAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP79/f79/dXq39Xq3t7u5eDv59fr4d7v59rt49fr4AD+///9/v6n07uczrSaz7N/wZ6WzbCQyquazrOm1b0A/tK8/efe5vz25fXu1ejczubY4+/n4/Do4O7m6fLsAMZ4V79eOfGkkeLt5uXh2OjNxefTyuTNwuLJv+ze2ABgVVGOcWfmiGncvrPj493cyLvgzsPhz8XfzMDm188AcFtW9Mqy0ZF3x8PK4t3Z1byv2MC049PK6NrT+fb1AP3LpuKZb5NrWdbe6fLw7eXZ0eje1/Lu6vf19PTy7wDMjmqETDSiiIDS6erc39TgzMLdyr/fzcLZw7bi0sgAkmtQlls+0b67+v//7eXf4MzC4dDF4c/E49PJ6d7XAM2WbOW+pOnt7Nnv5eTj2uHMwePSyODOxOnb0/fz8BSJ7mTjyUEDAAAAAElFTkSuQmCC",
+      "imageId": "9bf65b93-b4d1-403d-e037-b4a6ced55d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-a-language-for-everyone",
+      "slug": "the-benefits-of-a-software-engineering-degree",
       "locale": "en",
-      "title": "Python - A Language for Everyone",
+      "title": "The Benefits of a Software Engineering Degree",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-tools.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA30lEQVQYlX2Mu07DQBRE99P5AERBSUtByT9AZexgJKMEOw7exHa8frB+7Mb7ujdCigsEBUenGGk0Q/BfCKJbknVayFHr2SxYZawi8yz5V9F2VdvViOaPZBJD1+wO+5ixAtFoIwHUojaSCDkyluzppqpyAOX5/ip8jdbRKgy8wCNlnjXNjmbrvMh+PZ8VoCDhyzNjSZpGh/wTz+pHEOAm8vR4n8bBe+QXJUU4IZyGvu552fNS65483Fwdjx/b7dulFssI3GTNoGZO7m6vqzrZxCGlKbjB2d4armYuRSPG9htaDBY91xToGwAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Nov 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHtTOAQJCAcLDAUMDoZQMdF7TMd3S8t6UMh7UsV7UwBfUD4MCgoADBEaFhOeXT3Ec0vCcEbFckfHdUzHfFUAZjQUSBYEOgoAci4GtW1KxYhrzZt/07Cc1butxoNkAJ1tUqeCar2gi9HBs9/f2+r18+78++z9/Of4+trMwgDZ6/Dl+Pzq/P/o+fzX4uHI0NDAyMa4v72vtrPg6+gAxNHUrLS1rbSzrrSzvcPCq7CvxM3L2OLg5O/v5/XzALG7vqy0tMPLy+Hs7ez6+/D//+/8/ujw8d7b19XEvQDj9/zq///n+Pvg5ufXz8zQtazLn5DIinXFgGnDgGkAxLi0vJqMuoFqu3BRu2hHvWhHvmxOwHVZw4BmxYp1AKZQKrBUK7ZZMLpiPLxoRr1tTb1yVb13XL5+Zr6Gcc05uZyPZgrdAAAAAElFTkSuQmCC",
+      "imageId": "9019696a-7f22-43bf-688f-1560a333df00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-tools",
+      "slug": "object-oriented-programming-in-java",
       "locale": "en",
-      "title": "The Top Software Engineering Tools",
+      "title": "Object-Oriented Programming in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a dynamic field with a wide range of tools available to streamline processes and accelerate productivity. Software engineers need to be constantly on the lookout for new tools that make their lives easier and their work more efficient.\nIf you\\u2019re a software engineer, chances are you frequently juggle multiple projects, apps, and codebases \\u2014 all while keeping track of specific details like version numbers, dependencies, and APIs. It can be challenging to keep all those details straight in your head, let alone find them when you need them again later on. That\\u2019s why many software engineers turn to specialized software engineering tools that streamline everyday processes and accelerate efficiency.\nWith so many options out there, it can be challenging to determine which software engineering tools will help streamline your workflow most efficiently. This article covers some of the top software engineering tools from various categories including IDE`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWP49/8/FIHB339//4F4UMDw99PNvx8u//1859/f37///Pn/7/+7b58uPb9z5smNG68eMvzYqvRzn+2PzbJ/Hq8Ba/hnPyuHucpGtS9SoNmD4ffl2t83un6eSvp7o+P0+dsPnz4wnZacsq4jf8ukkKXVDH/uzf55KuXP1dovF5uj47K27d2euLGzbNvUpLVtuZv7GX6eTv/zfOevoyG/r7V+//P/648v6p1BZlOTOw4uLd86ieH/rab/D6f/P5/y7/35v2DLO48stZqTGbqyNn/7JIZTZ87evn3r2cv33378evbs6f3797+8/fD59ftvn768f/2Gobq6urOre+WK5TdvXJ8xY8aiRYuKiotLy8pyc3Nz83IZPn78+OfPH5CH/v378ePHz58/v3379vv376tXr378+BEARKHmSN8tSOYAAAAASUVORK5CYII=",
+      "imageId": "c5f88b84-1af9-44f5-f06c-1c5abe578d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "go-language-for-distributed-computing",
+      "locale": "en",
+      "title": "Go Language for Distributed Computing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADczKkQ/MlFLOkA+ND4/NzI1Mzw6NdKTTf+2ZNSobQBNT0hIRTo+NitZRC5pSSqAVSuWYC3nnkvUlVNBNiwArW4wx34y6Zc99aBC/bFJ/8FX/cZl/9Z61JVQLhUMAKRpLcmKRK9+RN2hVaZ3Pqx9RKV7SqJ9TaR1QywXEQCUaTqPaD2LZj/OmVmKZTyac0irgleMakpuSSefXyIA/r9t/8l68b53uo1ZvpBbw5dk2qt47b2F/LJc/q5JAPWyaf6/edSibHNVO4poR4VmR2ZNNp56Wf/EdvSuXgD7wYP8xYj7xIT+zYv+zY3/05XxwozxwY3/ypH8xYoA9vf3+tzB/r58/MKE+8OG+8SL/smR/suT/ciS/cmUAPbv6PvAh/24d/28f/2+gf2/hf3Bif3Civ3Ci/zDjF63qZJ6VpT/AAAAAElFTkSuQmCC",
+      "imageId": "66a86219-eb14-4dab-9ebf-464f30870d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "setting-up-your-java-development-environment",
+      "locale": "en",
+      "title": "Setting up Your Java Development Environment",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

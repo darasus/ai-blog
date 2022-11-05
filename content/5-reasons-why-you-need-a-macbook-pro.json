@@ -1,9 +1,9 @@
 {
   "category": "technology",
-  "imageSrc": "/articles/5-reasons-why-you-need-a-macbook-pro.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKklEQVQYlWNgwgsYNm/ZuG3blh07tu3cuXPXrl27d+/eu3fvbjDYtWsXg4WFhYmJiaWlpY29nbunl5ePn49fgF9wSHB4RExcPIOxsbGRkZGJiYmXr09gcGhQSFh4ZHRkbFxkbFxYRCRI2sHBwcnJycffLzQ8LDU9LTU9LTE5NTU9IzE5lUFCQsLa2lpFRUVbW9vIxNjcytLM0sLJxcXZzdXF3Y2hr6d7+oypjU31LS1Nra3NbW0tbW0tEyb2zZw5fdGiBQxPH9+9c/v6549vP3548/nj20+f33379unduzdv3r768OEdw71bV69ePPPq5dPnTx8+e/Lg+fPHb96+ePrs4cOHd58/f8pw9+aVqxfPPH189+GDO/fv3nwEEn384MGdu/duPn78EACrFZf5PzaEzAAAAABJRU5ErkJggg==",
-  "createdAt": "2021-08-18T05:37:20.114Z",
-  "updatedAt": "2022-10-11T17:17:41.063Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMUlEQVQYlWNgxAsY5s2bs2jRwiVLFi1dtnTZ8mXLly9ftWrlihUrVq5YuXz5cgYfH+/gkOCw8PC4+PjUtPSUtIysnLzcgsL84pL8ohIGI0MDfX09cwtzF1c3Hz//gKCQwODQ6LiEqNiEoJBwBm1tLUtLC1tbG3cPTx9fv/Co6ITk5PjEpITklNCISAYREREtLS1FBQUVFRUNTU1dfX0jExN7BwcHR0cTMzOGCf29Eyf2t7Y2Nzc3trQ0tbQ0tbW1Tpo0cdq0KbNnz2T48untu9fPfv36+v//7///fv3/9+f///8/fnz79fP7v39/GG7duHT54unHj+49eXz/8cO7T57cf/36+ePH9+7cufHkyUOGu7euXb9y7tGD2w8f3Ll39+bDB3devnzy4MGdO3euA6UBKyGXvA8MFxoAAAAASUVORK5CYII=",
+  "imageId": "6c914a39-4c45-4047-ac77-7ed3fdc81e00",
+  "createdAt": "2022-11-05T21:57:02.794Z",
+  "updatedAt": "2022-11-05T21:57:03.185Z",
   "categoryLocal": "technology",
   "slug": "5-reasons-why-you-need-a-macbook-pro",
   "locale": "en",
@@ -20,100 +20,25 @@
   "relatedArticles": [
     {
       "category": "technology",
-      "imageSrc": "/articles/10-ways-artificial-intelligence-is-changing-marketing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlR3JbU+CQAAA4Pv79dm0dGmWLl01VzMhUtEUb1duvgAqiJYdKK9xHg10kWvr+fqA8B3ulkJsoBjDg4EO+luktaaw/qMjWRZBpnROFf7w37/rfmyNY2caW1KM4QpVQeY6TRU+1CXb3ARka9puX5pjbMQYxqsOOCukyKShdh+S9+0sIyQq/G3zNc/0NkPWlTmQvkoQ+WnMFR3Ha/SlZyTlasKeUnvIUDwCp/kTX2TVeuGb+LXuIFcT4EihnhfMO6EugfJNzhfZJX9BHTdVaR2X65dMN/T9vSESDYE1YjyJxS8X5goHX2T5oYf+NiJkb2meAoHRvgukRxcV9Zm62wYRIXSztpUBVXq23ASGNpg5kYkVlcsumrkFl/xspCxUiCZVWDr6Aw3r9tP0NGe9AAAAAElFTkSuQmCC",
-      "createdAt": "Wed May 25 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLklEQVQYlSXOTUvCcAAH4H2T+goe+gpBXbvVtc/QbUKHykjBSxoFFSnt4CHCBMGY7CXd2sbsz5qhLWE4fJkOQZQ2N3+hnZ/LQzmOU6/XBUEwDEPTNEmSeJ5vtVqEEFmWKdM0aZqO0/HHh3wqmTxPJFKpi7v72+xVhmEYyvO8Klsts5WSyIqSxHGcrjY5VlbkhjtyqUUYAvAW8wRzNmoaAOaofI7T/V8WABUGQQBArDmx2OvGpnVzaSNd1HcMJ7viyPeXAHJ5bG9ND3bH8SNMCsPsXidzumJgOZlOfz4M62S/d30Ib+BZZSl33BMr/4zhYCCrakmoke8OAKc/fnvXI2AZRVS4rjnd7lOh0NDUwPcFgX8pPn+Z5rq2Ztu2FUVpt9uu66qqSgjRdX02m/0BGZbxSIgiC9AAAAAASUVORK5CYII=",
+      "imageId": "028e5cd8-12fb-41be-2c92-f8075d0e2400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "technology",
-      "slug": "10-ways-artificial-intelligence-is-changing-marketing",
+      "slug": "apple-inc-what-you-need-to-know",
       "locale": "en",
-      "title": "10 Ways Artificial Intelligence Is Changing Marketing",
+      "title": "Apple Inc: What You Need to Know!",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Marketing is the art of getting the word out about your brand. Marketing departments come up with new ideas for promoting their products all the time, but these days artificial intelligence (AI) is changing marketing in some interesting ways.\nWith AI, marketers have new ways to analyze customer data and pinpoint which marketing strategies are most effective. It\\u2019s even easier for marketers to find out which marketing efforts drive sales with chatbots and virtual assistants powered by AI.\nThese new marketing tools are making it easier than ever before for marketers to increase ROI on their marketing campaigns, drive customer loyalty, and optimize every aspect of their brand\\u2019s presence online and off. Here\\u2019s how artificial intelligence is changing marketing today.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Apple is one of the most popular and well-known brands in the world. Its distinctive logo is recognized everywhere, from airports to hotels, from art galleries to aquariums. What\\u2019s more, Apple products are some of the most desirable on the market. Many people aspire to own a Mac, iPhone or iPad because they\\u2019re sleek and stylish, as well as packed with useful features.\nThe history of Apple goes back to 1981 when Steve Jobs founded the company at age 21. In that period there was a famous video game crash where Atari and other gaming companies made losses due to overproduction and in response many gamers stopped buying video games for almost four years. This led to Steve Wozniak (Steve Jobs\\u2019 friend) proposing that they start their own computer company \\u2013 which became known as Apple Computer Inc.\nWhat follows is a detailed look into the history of Apple Inc., including details about key executives and any relevant organizational changes.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/the-rise-of-the-machines-how-ai-is-changing-the-workforce.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL3Cyb/EzL/EzL/EzL/EzL/Dyb3BxLu/wrq7v725ugDLztbN0NjN0NjO0trN0dbM0NPNztLYyMfmuLHloJUAyczUoamyyczU09be0tbZ1NLV6LKt4JSOyHdwoFZNAGNpbjlESWdvdtTX39rIx9OKia5dWH88NXY6MD8aEgA5Oj4XGRh3e4DGytKlgX56NzJsNzCumJSfd3BxR0EAFhgZcnZ80dTcw8nSyczSubS2z7Sv78HD78O99Ma9AENLUZGXns7R3J2krcnM0s7S1rytqaZwbLuDetKYkQCMkJWmsLiWnajAxMzMz9fM0NXLzdGSeHF+VEmHUkgAyczUvcLJt7zEyM7Vys3VyczUxsrStrO5YkhBUjQpAMXK1MbL1cfN1MbL08bL08XK0sXI0MPGzry/x5KOj/NSxHeO6UwNAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Mar 04 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "technology",
-      "slug": "the-rise-of-the-machines-how-ai-is-changing-the-workforce",
-      "locale": "en",
-      "title": "The Rise of the Machines: How AI Is Changing the Workforce",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Today\\u2019s workforce is undergoing a transformation unlike any in the past century. This transformation is the result of recent developments in artificial intelligence (AI). AI is already impacting how businesses operate, how products are designed and manufactured, and how customers interact with organizations. AI has the potential to transform every industry and job role that uses computers. The increased use of AI in everyday life will lead to a change in what jobs are available, what they pay, and where they can be found. The rise of the machines will affect different people in different ways \\u2013 some positively and other negatively. Keep reading to learn more about how AI is changing the workforce and what you can do to stay ahead of the curve.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/smartphone-usage-statistics-that-you-need-to-know.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlSXJT0vCUAAA8PdZuvZtOvZVOgUdoiTqEkaH6KRlES//bW9NN4dMVNYwc87m3t+9uSVRp4EyCet3/QHb8V5wVJ2L6lzUcNQgUqGRxhc6T3QRg2ur15kJOOelsQ+9WRMLxCRiEga4YFig4vjQJ8V2ezB5x7FQMVNoVBp7x4piOSaAs/CoWs+ybJ3nq9XKDAJE+I3jXsE7d2yDh2lYHL4aw76di6ynsCRuMYkILyDUMNVtl73gBML+WkDa/Vwm3TDURYwIP2/WwaGByxNyaQ/Ujvn1873ZbMJYtpg0xEKjAuycLvdK6f0kPHuu5X/8wNOJaPPYkinYvUj3K+mTj2+dt47r6qORiplGt21GCTjQ6KNP4QetBbwRMBULRCKNyv/+BRCb8PkQJjxlAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Feb 12 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "technology",
-      "slug": "smartphone-usage-statistics-that-you-need-to-know",
-      "locale": "en",
-      "title": "Smartphone Usage Statistics That You Need to Know",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Smartphone penetration is at a record high, with more than two-thirds of Americans now owning one. With adoption continuing to rise, businesses need to understand how smartphones are being used to reach their target audience.\nThe usage of smartphones for email, texting and browsing the internet has declined slightly in recent years. But there has been a significant uptick in the number of people using their phones for uber-personal activities like taking selfies and streaming music.\nWith over half of all Americans owning a smartphone, it\\u2019s important that you are aware of the latest trends with regards to usage. This article will outline some useful stats about smartphone usage so that you can plan your marketing strategy accordingly.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/apple-airpods-the-best-apple-product-ever-made.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlU3NTUvDMADG8Xw6cewg9uBNGKjbmjZN0zbZ1rctSd/STmFzF5GpeBC9iAxhDFG8uXnbwe8jWhDhd3v+8ID2UVtvQ1M3LcPCJrYRIZb3B3RPur+bbSPXxdQj7D8Au4Zl2LCDOse6jQh1eghiBBF1KHP7AEGMTaLtHzR2Gq3DFoK4udvU9jQXU5+FAJs/ZyLi99c3EzVOhunj3cP8fMZcFvlDQCyPOr3l02K7/ri9nM/Optv15utzwyPJAwE8wvo0uLqYvy1X09NJmVbvL6+rxXPOCxknoOf54SDmgUiGac6LQqhCKCXLQqhslAGfhXHAZZzkvFCyLNOqVhcgHMQilNkoy6Qq06rKxrW6+AZAeJSR4jmszgAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Jan 31 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "technology",
-      "slug": "apple-airpods-the-best-apple-product-ever-made",
-      "locale": "en",
-      "title": "Apple Airpods: The Best Apple Product Ever Made",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Do you know why most people buy iPhones? Because they can\\u2019t stand the sight of Android phones. Do you know why most people buy Macs? Because they can\\u2019t stand the sight of Windows PCs. Do you know why most people buy iPads? Because they can\\u2019t stand the sight of any other tablet.\nAnd do you know why most people will keep buying Apple products? Because they can\\u2019t stand the sight of anything else.\nIf you think this is a general statement about Apple consumers and not something specific to their products, let us rephrase it for you with further details: Nobody on this planet buys more Apple products than the combined population of China and India. That\\u2019s right: The same countries that are portrayed as being obsessed with everything Apple also happen to be home to more poor people than anywhere else in the world.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/getting-the-most-out-of-your-smartphone-tips-and-tricks.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APDs9/Dp9PDn8/Xv+uHY4sjDx+zs7v39/f38//7+/gDt6fPw6fTz7fjj2uZ8a3GpiI2WeHtvX2KNipLT0NQA7ur07ur06+Xwi3qAr46Sp4WHdVNRIBsfDAsQi357AOzo8unl8JiJkLKUl6aGhXlPSxQNDwkJCz4wMPDo7QDs5vGsoKaylJeoh4R2SkIUCAoHBwkNCwzAsrf38PsAyr7GspSXqYWBaDw0EwUHCQQIAgICeG1q8+z69/D7AKyTlaR6dE0nIgwDBAcCAwQCAjAqJefd5fPt+Pfw+wCVZl8sFBEGAQACAgIEAgIGBga5rKzy6/n48f369P0AIBARGQ8JDRIcBAICAQEBaV5b7uXx8er49O378+77AKB7cXdYUT00MxYWFh4aGc3AwN/W4NvT3NvT3NvV3YJVpK9wlGLGAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jan 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "technology",
-      "slug": "getting-the-most-out-of-your-smartphone-tips-and-tricks",
-      "locale": "en",
-      "title": "Getting the Most Out of Your Smartphone: Tips and Tricks",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Smartphones can do a lot more than most people think. Those tiny devices packed with a dizzying array of features are also virtual Swiss Army knives, able to adapt to almost any situation. That\\u2019s because your phone is actually an \\u201Cintelligent\\u201D device, as opposed to just being another way to check email or browse social media. Smartphones have the ability to learn and grow based on your usage habits, which means that if you know what you\\u2019re doing, your phone can do even more than you think.\nIn this post, we will share some tips and tricks that will help you get the most out of your smartphone. Keeping reading for useful advice on how to use your smartphone more efficiently, how to store photos properly so they take up less space on your device, how to download apps that won\\u2019t chew up memory unnecessarily and many other helpful tricks you didn\\u2019t know about!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/making-apple-inc-great-again-how-to-make-the-most-of-your-apple-device.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWPYEGj8oKf7x6K5n8Hg69ev3759+/79+48fP37+/MmwRlLpTVXNk4KiT58+ffz48cShQzMLy86ePvP9+3eQdKmo1Eplw/sbt7599XpmTW0KB08mK7sDJ3dmUsqtW7cYZpRWXdp74PqJ0xUWNnl8gnV6Brm8fFnMLKnMbKmCkgyPHz9e3NpRySeTysxSo67dZGRSKiNfr6VdxCfQIa/IUGjnlM/Cn8XEkcTMvLqyZk5cYjoTSxYzy4rwgPcXjzEkMLEkMTMnMjElMTOnMDGnMrPkcXAcrMr78fIRyGmZhroxbKxw6QYFubur5n3/+A7qsfOnT7WmJcSLiyQxM89wtX1z4TiKvz98+PDq1aud61bP62x/c/fmNzCASwMAl2Gh+WRqndgAAAAASUVORK5CYII=",
-      "createdAt": "Sun Jun 12 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "technology",
-      "slug": "making-apple-inc-great-again-how-to-make-the-most-of-your-apple-device",
-      "locale": "en",
-      "title": "Making Apple Inc Great Again: How to Make the Most of Your Apple Device",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Today, just about everyone has a smartphone. If you\\u2019re reading this blog right now, chances are you do too. But how much do you know about the phone you carry around with you everywhere? There\\u2019s a lot of information out there on Apple Inc and its products, but not all of it is useful. Let\\u2019s be honest: When was the last time you used an Apple device to learn about the company itself? Probably never. The tricky thing about having so many devices from one company is that it can be hard to find information that applies directly to each device as an individual unit. That\\u2019s why we\\u2019ve compiled this guide - to show you how to make the most of your Apple device by accessing its hidden features, customizing it to fit your needs, and keeping track of everything important in one place.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/the-best-smartphones-of-2022-what-to-buy-and-why.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABO0lEQVQYlWOIPPwq4uDLgFWnnSZsdOjf4NS/wXvB4fADLyIOvow8/IrBe+tTry1PjGMLeQSEWRSdmOQcFD1zPDc+8NryxGvLIwaLBffN59/TDMjk4edjlbNhljKTd0oznX3DfP498/n3GJSbryo1XZUIqGeWs2OWtGAWNZSxSVSqvaDUdFm5+SoDa+QZltAzPC6NzPKuTGImTMLaooZRTIEnWMLPskWdZWA2PMFkcIzTuhkizSxqKKIdzKxziMngGLPhCQZmqSNMEkc5TBqY5TyZJWyYJWyE1IIYJfYySR5mlDzMwMixj5l9H6tuNZNiAJO8H7Oct6BqEBP7dkaOPYwcexiEJLcISW5h1y5mUg1n1ohlUgoV0ggXktoAEWd4/ebl69ev44s6RfUDRfUDhbX9AhLLX7169RoMADR2aIhsbliUAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Sep 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AFrC6VrF7VCoykCKqUCOsD+KrEqgw1nD61nC6lrD6QBKteNOvvAxXHIGBAYEHT0AEjMgSGlMteRJteRMtuQAN5/bOqjqJ1BpCwYDByA+ABUzH0NnOp7dNZ/dN6DcACGA0ySG3RhRgQIYNAQcPAEQKRo7YiR/1B+A1SGB1AAGWcwHXNIMRYUCHUIEGDcCECUUMFoJV8sFWM4HWs0AATLHAzLMCDqEAh5AAxc2AhIpESlUBjLFATDJAjLHAAUbwwYbxwc0gwIfRAMZPwIXNxElVQgewAMbxQUcwwAAAL4AAcEFK30EI0sEIFMDHUUPIlYDBLoAAL8AAL0AHiWzHya3Byp0ACVYASljACFUDyZaICetHiW1HiS0AODi5evs7l5xiAkkSRk0VQgiRlFheOfo6OHj5+Hj5yCcaHLhYxSIAAAAAElFTkSuQmCC",
+      "imageId": "4d608d34-fbae-41d2-99f0-6aa63cc27c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "technology",
       "slug": "the-best-smartphones-of-2022-what-to-buy-and-why",
       "locale": "en",
@@ -125,46 +50,121 @@
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/the-rise-of-the-big-four-tech-companies-google-amazon-facebook-and-apple.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA7klEQVQYlWN4+vLV2w/v3354/+rN2w8fPrx+++bFqzcfPnx49xGEGA6cvTRv466tR06t23dsxtod6w+cWLB57+o9R+Zs2vX2w3uGpHnfz939+OH1w6+7in+u8P56sPXDu7d7znyK6Pge1vaDgSn9r3jxr69zzH53MEHQjdkJ7P5/mLz/Mnn/BUkb5J393cHwZ4H5n80xf/r5f7SzcPp+5Q74a1f2i0Gk8K9N/oHfHUx/+vl/LzD63cP9p5NZOOCtYuJvl2qw4bYFB2EmM4DUdTIL+r1GGI4kDUIQ3QhpuzyQ4RAJCANFGmI3MoJLAwDdAq/M8cjCGQAAAABJRU5ErkJggg==",
-      "createdAt": "Tue May 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APDt+O/p9O7l8fz1/9zU28S+wubl5/j6+/////7//wDt6vTt5vL78/7g1+F9a3GffYOggYZ0ZWiJh4/MycsA7Ojz8u/66+Xwi3qApYeLuZOWdlNQGxQXAAAAg3Z0AOrn8erm8JqKkKWJjbeTk3BJRBQLDgADCEQ3N/ju8ADu6fSvoaini4+2ko9yR0ARBAcEBggKBgTAsbX/+/8AyrzErJKWtYyIZjkzDgEECgcKAAAAe3Bu/Pb/8+74ALCYm6p9dlApIwYAAAsHCAAAADMsJ+ne5fPv/PXv+QCWZ2AvEw8AAAAFAwQEAgMEAgC4q6z8+P/27/n79f4AHw8ODQoIBgsTCAYHAAAAbGBd+vD87ej18+368u77AJh1a3haUjs0NhAREx8ZFs/AwePc5tvS293T3tzV3zvwpIYr+GMkAAAAAElFTkSuQmCC",
+      "imageId": "c118af38-47c1-479a-ecd5-bb3cdbec7d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "technology",
-      "slug": "the-rise-of-the-big-four-tech-companies-google-amazon-facebook-and-apple",
+      "slug": "getting-the-most-out-of-your-smartphone-tips-and-tricks",
       "locale": "en",
-      "title": "The Rise of the Big Four Tech Companies: Google, Amazon, Facebook and Apple",
+      "title": "Getting the Most Out of Your Smartphone: Tips and Tricks",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New digital technologies are restructuring global markets and weakening old business models.  Artificial intelligence, computer vision and voice recognition are among the new technologies that will continue to change industries as we know them. While many companies struggle to adapt to this fast-changing environment, a small handful of tech giants have thrived in this new digital landscape, amassing huge market shares in their respective fields. These companies are known collectively as the \\u2018big four\\u2019 or \\u2018big four tech companies\\u2019: Google, Amazon, Facebook and Apple.\nThese firms represent a very recent type of business model. Most obviously, they are all technology companies (they sell software and hardware). They are also all data companies \\u2013 their products all rely on collecting, storing and processing huge quantities of user data. Finally, they are what can be called \\u2018closed loop\\u2019 businesses: They tend to operate closed systems that lock users into using their services exclusively; for example by locking users into using their search engine rather than other search engines or by locking users into using their social network rather than others such`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Smartphones can do a lot more than most people think. Those tiny devices packed with a dizzying array of features are also virtual Swiss Army knives, able to adapt to almost any situation. That\\u2019s because your phone is actually an \\u201Cintelligent\\u201D device, as opposed to just being another way to check email or browse social media. Smartphones have the ability to learn and grow based on your usage habits, which means that if you know what you\\u2019re doing, your phone can do even more than you think.\nIn this post, we will share some tips and tricks that will help you get the most out of your smartphone. Keeping reading for useful advice on how to use your smartphone more efficiently, how to store photos properly so they take up less space on your device, how to download apps that won\\u2019t chew up memory unnecessarily and many other helpful tricks you didn\\u2019t know about!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/amazons-dark-side-the-e-commerce-giants-questionable-business-practices.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlWMws7AJDA6XV1SVU1B0d/O2sXPi4OLW1ND29g3k4OBi0DMw8fELkpVTUlRWdXP1srK25+DiVlPT8PT0VVJSYrCzdbJzcJGUlldV13Bx9jC3tBUWEi0tLuxobVm2aD6Du4ePmYWNpLS8hYVFbm7u9KmTp0+dmJmeNmf29LKSIob4+MTqispFC+e21xZP6OvauHZlfGx0WlK8vp4hDzcfQ1VFyeaNa2uqKqIjI2ytrRVkJNM8tUqi7Z2c3Hh5+BkyY/w0NTV5efiVFFVsrCyKo+xSPTQNNJQc7F0EBIQYktzVu7IcamONe9OtCwN1ZMWFONlZhYVEbe2dhYVEGTQ1tKXERIW5OIWFhTXUtVTU1JmYmHh5ee1snUTFJRiMjM2FhUSZmZlVVdUNDY0VlUHSnJyc5pa20lKyAK++SYDog7XFAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Dec 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AL3Cy77CzL/EzcDFzsDEzb/DyL7BxLrAw7m+wsO9vQDO0drW2eHR1N3N0drO0NbL0dTN0tTcy8rpubToo5kAxcnRoKexx8vV1tjh0tvg2tfa67az6JiQ0Hlxo1VLAHJ3fhokKmduddfc5NXBv9eNi6xVUXUyK2cuJDkVDQA1NzoVFhZ6fILQ1+CqhYF5MCxtOjWrlI+kgHluRD0AERQVdXh/3uDrwMXQwcfNs7Gzx6ul+szL+tDK+cm/ADY9Q5ugqdHT352jrcXHzdne476qqKBnYLmEetOYkACEh4yhqbKaoau9wcvS1N3JzdLN0taNc2xzRTmGUUcA2Nvlub3GsLW+z9PcyMzVyMvUy8/Zt7W7Y0tESSwiAMLH0crO2MvQ2sXL1MfL1cXK1MPH0MbK1Lu+xpKLjTy6xK8+eb+oAAAAAElFTkSuQmCC",
+      "imageId": "06ac8f2e-0e13-4c92-6bba-89cb8b158100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "technology",
-      "slug": "amazons-dark-side-the-e-commerce-giants-questionable-business-practices",
+      "slug": "the-rise-of-the-machines-how-ai-is-changing-the-workforce",
       "locale": "en",
-      "title": "Amazon's Dark Side: The E-Commerce Giant's Questionable Business Practices",
+      "title": "The Rise of the Machines: How AI Is Changing the Workforce",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Amazon has a reputation as being one of the most user-friendly and trustworthy e-commerce sites. But while its user experience is second to none, Amazon is not perfect. In fact, the company has a rather sinister side that few customers are aware of.\ne-Commerce giant Amazon recently opened its 10th fulfillment center in New Hampshire. The company now employs more than 7,000 people in New Hampshire and has invested over $300 million in the state. With over 566 million active users worldwide, it\\u2019s safe to say that Amazon is a well-known and trusted brand.\nHowever, if you look a little deeper into how Amazon operates as a business, you\\u2019ll discover some pretty sinister things about them \\u2013 many of which you won\\u2019t read about in their press releases or see on their \\u201CAbout Us\\u201D pages. Here are some of the darker sides of this well-loved brand:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Today\\u2019s workforce is undergoing a transformation unlike any in the past century. This transformation is the result of recent developments in artificial intelligence (AI). AI is already impacting how businesses operate, how products are designed and manufactured, and how customers interact with organizations. AI has the potential to transform every industry and job role that uses computers. The increased use of AI in everyday life will lead to a change in what jobs are available, what they pay, and where they can be found. The rise of the machines will affect different people in different ways \\u2013 some positively and other negatively. Keep reading to learn more about how AI is changing the workforce and what you can do to stay ahead of the curve.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/tips-for-buying-the-best-macbook-pro.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/ElEQVQYlWNgZWHn4uJiwgEYmJmZOTg4mJmZcUqzsrJycXFxgAEnDHBx8XBycoKkpSRl/PxDI6KTE5Kzk1Jz07OKsvIrc4trCkrrQdJOTi5V1c3tXVMnTVk4a96qOQvXLlu9fdX63Ws27mVgY2PLzinqnTBrzvw1K9bsmD53WXR8yu5DZw8cv3TwxGUGOTmFru4pS5Zv2rT98N6jF46evXHmyv2LN55cvfP88t3nDH7+wavW7th3+Pypi3cv33525/G7B88/P3n97dm7b8/f/2DQ1tb18QsICAoJCgkLi4j0Dwzy8Qvw8vELi4gMDg0HOQ0CWMGADQmwsrICAGvpY3C60tKIAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 22 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALFKLuOSkfyyrPHq6fL09Pv7+/3///39/fb29fj4+AC2HSrxcnXidHb19PP6///FuruWcHPExsb+///+/v4AcQ4UoA0c5re78fz7nn2AXwoMXgAAPwkLamNm09jYAJVwdNjLzdTNzno4PFwAAHgfIHMXGW4BAlQAAGQSGwDj6eiqjZJ0DhlfAACENTeNRkhzGRt9KyxzDA6OHBsAdkNGZAACbgUJXAAAr36BpWttWgAAaAYGqllS79LJAFkAAWkICWEFBWICA2ABAVoAAG0HBr90afrr5Pn8/gBlLypWAABiAQJmBQZaAAB/Hxrdq57///z4+/z49/cA0c/NiGlkWhMPUQAAl0M78dXM/f//9Pb29/f2+fn5APX19uzv77SrqKCDgPDh3Pn9/vX09Pf39/f4+Pj4+BLZopZTr1oUAAAAAElFTkSuQmCC",
+      "imageId": "44ea7da9-9acc-48c0-1d8d-78b22f11b300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "technology",
+      "slug": "making-apple-inc-great-again-how-to-make-the-most-of-your-apple-device",
+      "locale": "en",
+      "title": "Making Apple Inc Great Again: How to Make the Most of Your Apple Device",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Today, just about everyone has a smartphone. If you\\u2019re reading this blog right now, chances are you do too. But how much do you know about the phone you carry around with you everywhere? There\\u2019s a lot of information out there on Apple Inc and its products, but not all of it is useful. Let\\u2019s be honest: When was the last time you used an Apple device to learn about the company itself? Probably never. The tricky thing about having so many devices from one company is that it can be hard to find information that applies directly to each device as an individual unit. That\\u2019s why we\\u2019ve compiled this guide - to show you how to make the most of your Apple device by accessing its hidden features, customizing it to fit your needs, and keeping track of everything important in one place.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACybwT6atEt9g0JJOw4KBAAAAAECATU3Np+goNvi5ABAbnEtMigJBQAAAAAEBQRFR0aqrq3g5+vM1t6htLsAAgEBAAAABwcHWFxau8LC5ezv2eDk097lq7/Lv9DsABgZGGttbsfLz97k67q/wquwsrDEyrHV4azX4IXapwDM09v1+f/b2dqgoJ6vvb+62eGn3OGx2dq12Mws4DIA6N7C3en2xNbcstbnveb72eb/c+GDHuIcyuXW0N7tAJNtG+bbu7zi/NLc1NWwRN28ZdDo1KfgwLXb6cDZ3AAPAwCJYxru3cDj5+LSrUDQuV/T3/Ld4f/E19/JnSAADTlECwAAe1kZ5NKy0uz/t9z8oOLLhOeczOXg1cmgAAarzg46QQwDAHlVEMrAnuHj+WLiegDgCrDmzMzi/dcytCEqGAtkAAAAAElFTkSuQmCC",
+      "imageId": "2a57a3a5-b500-48b1-9b17-0ce2fd258900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "technology",
+      "slug": "5-best-ai-applications-that-will-change-your-business",
+      "locale": "en",
+      "title": "5 Best AI Applications That Will Change Your Business",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you need proof that artificial intelligence has become ingrained in our daily lives, just look at the buzz around virtual assistants like Alexa, Siri, and Cortana. These AI helpers are no longer just for tech-savvy adults; now, kids as young as five are happily chattering away with cartoon characters like Waffle the Blue Whale or Hank the Crab whenever they need help with something.\nHowever, AI isn\\u2019t solely limited to helpful sea creatures or talking speakers. In fact, AI is being used for all kinds of purposes \\u2013 from self-driving cars to replacing call center agents with intelligent chatbots. Even businesses are seeing the value in incorporating AI into their day-to-day operations. From automating processes to making data-driven decisions faster, businesses of all sizes can leverage the benefits of AI in order to improve their services and workflows.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABK0lEQVQYlQXBaU+CYAAA4Pf/f2ytFXPaGtLMLrVjqANBOVRKUgwQAQE5PFBmijdvzwOiAb0b8QebOzns2eGh21orVZXF4ZjrSz2APt1uDGZvNRKveQ46cP4LV3qyVKDLG3wJpO6RWKvFbn86Cf6ipeUGtKgpupUEX9BjQApDtjKusjhGiMhbPUe0kAL1QglBtzpuF0EKvT4NymIl57jTbLX5SLbLfPcUr/0eMZNpcJW5hEZVpx9Cf/LOdLAKT7alcB7FZjN2vkE+n4YmoZNZf+SUGPGmQKGfjflsEZtCpHHAYT83Ku5Qd7Y2jBbRj2zs1vH5CLfeIBpywKOfj3bdZzFL6ibxbh9OQ0MJVHGlULbwAVxNUBcH35SGlbRRQ0dk2qEzYxI5ysXO68U/a6z3Z1WO0tcAAAAASUVORK5CYII=",
+      "imageId": "5df2586d-54ac-44a7-6561-d525cbdc7000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "technology",
+      "slug": "10-ways-artificial-intelligence-is-changing-marketing",
+      "locale": "en",
+      "title": "10 Ways Artificial Intelligence Is Changing Marketing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Marketing is the art of getting the word out about your brand. Marketing departments come up with new ideas for promoting their products all the time, but these days artificial intelligence (AI) is changing marketing in some interesting ways.\nWith AI, marketers have new ways to analyze customer data and pinpoint which marketing strategies are most effective. It\\u2019s even easier for marketers to find out which marketing efforts drive sales with chatbots and virtual assistants powered by AI.\nThese new marketing tools are making it easier than ever before for marketers to increase ROI on their marketing campaigns, drive customer loyalty, and optimize every aspect of their brand\\u2019s presence online and off. Here\\u2019s how artificial intelligence is changing marketing today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APkjBvknCfonB/kiAvkhAPolAPonAPknAPooAvkpAgD5FgD5EwH6GAD5PiH5Siv5Px35PBj5Oxf6OBT6MQwA+EQv96KW+IJx+GRN+Vw/+WBD+WFD+V5B+WVJ+WtQAPP///bf2veKevhsVfh2X/hvVvllS/h9ZflJK/ogAADv///znJP5HQb4kH/5eWT3n4/4o5P3rJ/5clv5TjIA78TD85mL/CoQ+mdQ/jUW/kou+VM6+FU8+k0y+k81APRraerj4Oe5tdenp9lMQ99mW/pGLPsvEfNTPPRQOAD4IiDq8O/o///oubznAgHiHR3ocGfiTEfiLCvjKikA+QUD82Jg9kpI+wsI/QgE/AcE7AgH8wEB+wAA+gAAAPkHBfkBAPkAAPgHBPkHBfkHBfsIBfoJB/gIBfgHBSsXl4jo6zcUAAAAAElFTkSuQmCC",
+      "imageId": "1c0c36e0-4b09-4f98-8542-25fc7d4df200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "technology",
+      "slug": "how-big-tech-is-reshaping-the-economy",
+      "locale": "en",
+      "title": "How Big Tech Is Reshaping the Economy",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s big tech companies are reshaping the economy. They are growing fast, investing heavily, and creating new markets. And they\\u2019re doing it in broad sectors of the economy like retail, transportation, real estate, media, and financial services. Big tech is increasingly making things go \\u2014 rather than just selling them to consumers.\nAnd there\\u2019s more to come. The rise of big tech signals a structural shift in the economy that will have lasting consequences for many industries and workers.\nThe term \\u201Cbig tech\\u201D usually refers to a group of nine tech companies whose market capitalization exceeds $200 billion or has grown rapidly in recent years: Amazon, Apple, Facebook, Google parent Alphabet (the parent company of Google), Netflix, Tesla, Alibaba Group (the parent company of Ali Baba), and Microsoft.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABBUlEQVQYlWNgZeXg5ORiYWFhZGRkwgAMzMwsHBxcrKysYC4zCDAxMSNJM7OwsDAzMzMwQgEDGDEyMTEyMTEwMDBIS8sEBkVERqckJuekZxblFVXnFlYVltYVltaDpJ2cXFta+3v6Zs+cs3L2vNWTpi1cu3Hvxq2HNm0/wsDOzp6ekTth0rzZc1eu2bB32uxlaVmF2/aeOHD88v5jlxhkZGQ7OiYtXLx+/eb9O/edPnbm5qUbT85ffXjh+uOLN58wRETGHz566dzl+3cfv3/29ueLd79ef/z74fv/7//+//j/n0FHR98/MMQ/MDg4JCwsIjooJDwgKNQvIDg0PDI0PBLkNDwAALbCZJCWIRGyAAAAAElFTkSuQmCC",
+      "imageId": "1e46f8a4-c526-4ee8-024d-be29cfee7e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "technology",
       "slug": "tips-for-buying-the-best-macbook-pro",
       "locale": "en",
       "title": "Tips for Buying the Best Macbook Pro",
       "intro": {
         "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The MacBook Pro is one of the most popular laptops on the market, and they\\u2019re great machines. But with so many different versions to choose from, it can be difficult to know which one is right for you. Do you need a Touch Bar or not? What screen size do you need? How much storage space do you need? These are all questions you need to ask yourself before buying a Macbook Pro.\nIf you\\u2019re thinking about buying a Macbook Pro, here are some helpful tips to make sure you get the best model for your needs. The Macbook Pro comes in 13-inch, 15-inch and 17-inch screens, so that\\u2019s the first thing to consider when buying one. You also want to decide whether you need an integrated GPU (not all models have them) and how much storage space you want.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMUlEQVQYlSXJzUoCQRwA8HmFHqNDrxBB0AMEvUTX6FanSvAU2aVDGoJakUejWCPtizArS0oSdd1VN90P3d2Z/8zu5Kwb2e/6Q5qm2bYNALqut2W52+uBPYKhpZumqqroMJGIRqPpdCqTyZzncsmT02L84OU4ubG1HdvfQ61a9SovnWWzABCGoc+5bVn3xcJ1oVB5fEYFhbjM9yhwzoUQQRCMhXAJET5/tepoRXIiFcY96rguJn8c7IQsSPXzs/E5tHrr7FT5ZMw9z6eUAgBlNAzCS0V6WpxB2XejrgzarcZnrYanZFlutpq9Rke5KaFReX2kSuYQ9/vfGGNKqWkahjE0Bl9vd2toMzbfKS1PRMAYgynGiPcTiu7uRQShj/IC0Y48f0II/m8ATOg4IBX9YekXLD78RhQNNYIAAAAASUVORK5CYII=",
+      "imageId": "df35bec7-2521-4bfd-d8a3-f22397771900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "technology",
+      "slug": "googles-monopoly-how-the-tech-giant-controls-our-lives",
+      "locale": "en",
+      "title": "Google's Monopoly: How the Tech Giant Controls Our Lives",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google is becoming more and more like a digital version of The Truman Show. In the movie, Truman (played by Jim Carrey) is the unwitting subject of a hidden camera show that takes place in the fictional town of Seahaven, where he lives with his perfect-in-every-way mother and her husband, who happens to be his best friend. The show\\u2019s entire purpose is to capture every moment of his life for the entertainment of an audience watching from outside the town.\nIn real life, Google has become something similar: It\\u2019s a company whose purpose is to capture every moment of our lives for the entertainment of an audience watching from outside our world.\nYou might not know this if you live, work, and play exclusively online \\u2014 as many people now do \\u2014 but Google realizes more about you than any other company on earth.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

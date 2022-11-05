@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOn38OLx5+Dw5ur58ZSbl3ZUQntWQDMxLc/Z0eXv5wDg8Obr/PTr/PTp+/JUVFK2h3CKZFM8Mip2e3fo9ewA6fvy6fvy4vTsvMjCQDUwv4t6lmFWak5BOTs65/TrAOX27uz99+z999fm4S8tK9yqjbmAaF1HOGFmZOn47gDn/fbo+/Xl+fLo+fOboqCyn4bIn3+bgWjS3dPp+/IA3dXO59TM6Pv149nP4cm2+enB4cWhvaF/vZl83cS1AMqId86cieDf2PjazubNweDSx9m8quXDtN6+sOq9rABkXltXU1BUVFRKTUxDR0ZBQ0Jva2js18zQtKnQo5IARElHQkZFQEVEQ0dGQUNCQUNCT09P4ce+vZ+Su5SIAEJGRT5DQT9EQklaUD1AP0BCQUFDQqyQhbORg6yFezI/uoskrJedAAAAAElFTkSuQmCC",
-  "createdAt": "2021-03-10T16:07:54.742Z",
-  "updatedAt": "2022-10-11T17:15:00.959Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTz6+X07eLx6PP/+o+YlHlUQYdcRTMxLsvVz+v27QDh8Ojp+fDs/PTo+fJdXFmpemWfdWAoHhd2fHn1//gA6/vz5/jw8f/5r7y4QDUvtIR0mmZcX0Q3LTIx6fbuAOT17er68/L//M/a1jEvLMmVfdaSeFdAMl5mZ/D+9QDn/vfo+vPn+fPy//+Mk5GtnIDWrYiPeGDO2M3r/fQA3NDI59nU6vz35dvS69bD//DH5ceiv6B+wZyA3se6AMyMfcqZhuPg2vHSyNi+s9PHvNS3o+XFtePDtuq9rQBlXVpYUUxXVlVVVVVPTk08Pz91cW/y3tTOtKfQopIAPkVFPkREPkRCP0hDPkBAOTw7WllY3cS7u5qNuZSHAEJGRT9BQUJKRkdWTj0+P0FDQUNERKiNg7aQg6yGezQHuni4OAoeAAAAAElFTkSuQmCC",
+  "imageId": "5c0da510-ba62-4f45-7866-c58f4e78e500",
+  "createdAt": "2022-11-05T21:50:33.776Z",
+  "updatedAt": "2022-11-05T21:50:34.005Z",
   "categoryLocal": "coding",
   "slug": "the-basics-of-coding-for-beginners",
   "locale": "en",
@@ -20,151 +20,16 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-resources-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMUlEQVQYlT3K30rCUACA8bMzJXVZTxB6FXTdU3Tdi/QA3XTTTYjUEpQ1pfQiIou0GSmGjDJR0Da3c85sf22bNaJMeoAQKvjufh+Qr6l+hVJqlCLQikAPhGVJoNQb2KkkWP4IdMpwf5smTag2gFKPqY4oE27YWiNNKJQ3Qf0Esjv0SIS4RanSFgosFFj4TUdaGolJUM3Tx+mQ8UiR9goOyFWrli3xbdLH7zYJnsFplr7goNmFxOJGHy89Q66Kt9kSn8qx96gHiodhLhWypaTxaepTb2Aj/qzIFnJ3Tw+yq4HMXiR/EHXVqDNM6OOMOZsYX77sj7q6pE89wO5GGueMhxY9HPNwxELrhn9pf7+aswkxC2AsM64an/PfMZ+0DSsQTWkVOMrSP/s4/hthXLTgovAPtJC++oQFdqMAAAAASUVORK5CYII=",
-      "createdAt": "Wed Mar 24 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOXv+efz/N3o8dDa5Nnj783b5dLi7Mze6dDk8LzR3QDX5Ozh6vTP2eLH0dnS3Oa8x9DQ4OrM3efK3OjA1eEA4e/54v//7PL4pKqysbnBsrrCtb/IrrrEn6y2mqiyAOXu+Km6wqOosbO5wrrCysXO2MHM1rO9x6azvJekrgC8w80NCxBUT1T4///y/P/o8vva5e/g7fjb6/bQ4u4AytPZg2FbtZaVzdji2OLt7fj/5O/35/T/4e/83e79AIS+646Nob+zu3WDko6dqpilsYCPl6W2wNbs+9nw/wBUmNdRj8zKxs3WzNHDxNAhHyMACggsQUTQ1+HS4OwAYKvqS4jHXn6qq5OTpIWBb2NpNTc9a2pu0b2/yLi6AGaLzUSMz1uV3JOTq4qQqbuamLKjpsi4t867vMu4utVp2mf9j5cAAAAAAElFTkSuQmCC",
+      "imageId": "48b60557-9e24-4f4f-fb4e-3e7a7a871a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-resources-for-beginners",
+      "slug": "the-benefits-of-learning-to-code",
       "locale": "en",
-      "title": "The Best Coding Resources for Beginners",
+      "title": "The Benefits of Learning to Code",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-code-better.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlT3JTU+CYAAA4PcvZx1aB1Jnha6adXJu5gdiKklphLicaymioAzcCETQTcM3P0qJakmX1qXtuT0gFIk+cKxqaP/6Q10fDfpDvS60wB6KMrXyxnXGEyN8dnxyGsQzybZQ37iOZqpgx+9n7u82rjNfPDOVEkWTUo+34OjbXavGE9j2+W5pUuiwxRKBpeMUTQZDB4GAF88klYECPN79InVlLYZdkRM67GOjyktsV+QsaP71FoIUirnOrIkpqYpOt81GUokLkNv8rAxDBh4EIa7TU8fozfjJ0hAgpy1lecSjwUAufAiIeESskpZtirClTEXBaqoLSZtLn19zkckCuRSjU+cDmV2toe3A948X24Er23p7HfO1G9C/x6LobpnK5Qt4voBfEhieTWCZi1gi4j/y/QLvyOLcswKshAAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-code-better",
-      "locale": "en",
-      "title": "How to Code Better",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding can be challenging at times. Even if you\\u2019re a pro coder, sometimes logic and algorithms just don\\u2019t click. The best coders know how to tackle those tough spots by researching solutions, studying best practices, and implementing new techniques.\nCoding is a skill that requires constant refinement to stay relevant in today\\u2019s tech-heavy world. While coding might seem like a very technical skill, it actually has many parallels with other creative fields like writing or music. The more you code, the better you get at it.\nLearning how to code effectively and efficiently is a big challenge for anyone working in this field or looking to break into it. But once you have the basics down, it\\u2019s all about refining your technique and increasing your efficiency so that you can complete projects faster while producing higher quality results.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-parallel-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA9UlEQVQYlXWPzWqDQBSFJ3mKbvooPkx23brxCbIvuHFdnYXECUhbqM2qLRhciIqFltQsJhAyWmqQacdUkjuEqfRn08OBA/fjwLkIvuR5Hsa4aRohRNu2/REAUB+WZem6bpqmYRi2bXPOv/Hnm/J+J6XMsqwHtehq0fFujw5TJMkAkjMACMMQAK4W1XA8G45np+a9YpIMDvEoz3NN0wgh5HnT45PzO9VWjkcAEEURAEyf/mBYXQB1YJv8rK0+dk6+dvL19UuFGGOU0rIsGWOvfLV933BRL+ljURRqeZqmvu9jjF3XjZeXN4k5X0xuHyZBEPz+/Z+OXZjxqEfjAy4AAAAASUVORK5CYII=",
-      "createdAt": "Sun Apr 12 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-parallel-computing",
-      "locale": "en",
-      "title": "Go Language for Parallel Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-programs.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB8TB4h5Z6XRpXq8ene5c4PMs3LOzHLJx4uggnbEvgAODwhSRi9/xqc1tI0xr35Ev7Mgu8cYusVmztQvv8kAQTklgWxF0+Pir8zOtNHQv93eocnOpdDUv9HQqresAFlMHqKKWeru4e7q1+v77u367u/lz+367u358Pj38QBqVyWvl2Tq2sLzq33zpXTwyKj0rH7yr4H2pXX6rYIAjXdFtJ5xvc7Gq764vcS2r8W+xNfOvdDHqqaVv8bCANrErujSvs3f17zPxr/TyrLIvqa8tKG3sLfLwrO9twDppH7y3szt+u7Y6NzAz8XI1czK1s7G08rE0cjQzsgAhdHn6drEuNu5tdu2t9u2xuLErNeyp9Ok1uzZ2evnANHRw9HNrBqQJB2UMRSKDm60bzGcViaUOJrPpDG3uEAByhodvPSqAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Mar 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-programs",
-      "locale": "en",
-      "title": "The Top Software Engineering Programs",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOTf4/z7/PTx8trT1dDGy9XIz9jHz+3X4OnQ2+PK1QCOiI++trt/dX1aUFg4LjQoICUyKy9NRUppXWF/cHgAX01aMyctf0dB2m9cKSIkQTU5b1tmYU1YT0BKIR8fAEg6PzgqLaKIjIxtcSQfIVFASHJcaGhUX2tXYhEREQCjj5iSgYn78vLY09UpIiRaSVFwWmZmUl5lU14ICAgAk36OgG1/nIiR08bDU0VHMSosLyUpKCAlLCUoCQkJAHJfb11OWj0yPbKaormhpZiGindnakw7Q0ImKTEoKQBMPkxWR1M4LjZWR1HVu8D94+X94+X63uPky8/LtLcATkBOJiEnHhkbRTw9wquu+t7g/ePl/ODj993h8trgAGdcXaqXm+PQ1Prn7P7r7f3o6/3j5/vf5PXb3/DY3pIumAg4Ox+kAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-video-processing",
-      "locale": "en",
-      "title": "Go Language for Video Processing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHn3+LX0vbr4/Hn37mwrODSybWOcqR7W6B3Wp92WQB9eXja1M+8trGSjovOxcHy5+Tk1c62j3OmfWCdd1sAwr67ioiGz8vI9vDr9+zp9Onm8ufk5tfRu5J1sINjALy6tpKOi9fT0MC8uYF9fJyXl/Tp6PPo5+bX0biQcgBLSUfGwr66uLTEwL2yrquinZyRjYzx6+jy5+Tg0csAm5mY+/jyo6GgoZ+ds6+sv7u3sq2tsq6r7+bl7OPhAOvn5Pr28fr286umpoaEg5yamaelo7Gsq6KdnJ2YmADt6+fj4t7p5eHr5+SUkpGXlZOEgoCbmZjNycXk4N0A/v35/f358e3p+/f019PQ8+/s8+/s8Ozo7enm6+fkANnZ1ebk4NLQzNvX09LOy9XRztvX0/Ds6Ovn5Ovn5CWm4v4zTD/ZAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Apr 20 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-frameworks-for-developers",
-      "locale": "en",
-      "title": "The Best Coding Frameworks for Developers",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWM4/SEAD2KAUFPWWczfbTl3h/XCPTarTzhOXG2+7LDdquN2IOkT73yLmhRz61QK6hXjc+Tza+QzyxXqJmpPXWvG0HbRouahSfNzwwW3HSuuGlU/Nmx8rTfno/mxN94n3vkySC4QZDnGxfWSy2WFPFspB1cPl9gUDps/7Ic+eYPsjtin7nlNKfS1atdeU595Cn6HlSOOK9R804Q6rXO+8dJDtttveex75H34ud/2G5577nufeOcPlW6dbZhWohCaIF3dpxYcK1PcqlbZo9a/0hQqvfa07b4HHuvPOGy+5Lhkv2X3IsNNFxyOv/FD8TeuYAEAAPmiJ9EqlXYAAAAASUVORK5CYII=",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-database-programming",
-      "locale": "en",
-      "title": "Go Language for Database Programming",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWN49+LPuxd/Pr36+/nd3y/v/3x5/+fzu7+fXv2FiDN8ePLs68P93x8fBKEn+6Ho8cFvjw69e/GV4euD43/2Cv87LPHvsNTfkwb/Tlv8OywFQd/urWX49vDYv30iVxeLvtku/veU6b/L4XDp7w/WMHx/fPT6Qv7SaN6ubMGGFKHSeLmOTP4l9YKTC/l/PFwNkv66U/jELOEDk4U+HrH/fD79/cmQ18fj3x10vH9qGshwsN0g01bPSD548OCdO3euXLnS35G9cPlKhs8v3/24M/fXw3m/H82dMbFq9uzZmzdvnjNnzpQJHQ9uPWb48OLP5zd/vn78/f3Lnw9vP796/vbls3cvnrx/+fQL2N8v/oDQm98f3/75/O7353cgBjxYAASj4xTZRqDkAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jun 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "javascript-for-beginners-a-quick-guide-to-javascript",
-      "locale": "en",
-      "title": "JavaScript for Beginners: A Quick Guide to JavaScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code can be a challenging experience, especially when it comes to learning a new programming language. Many coders are hesitant when it comes to learning new coding languages because they feel it poses a challenge to their abilities. However, this shouldn\\u2019t deter you from continuing your coding education and exploring other opportunities that the coding world has to offer.\nIf you are someone who is eager to begin your journey with Javascript and continue learning more about this dynamic programming language, then this blog post is for you! In this blog post, you will learn everything you need to know about Javascript as a beginner in coder and what opportunities it opens for you as an aspiring coder. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/java-performance-tuning.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAv0lEQVQYlU2PX6uDMAzF/f6fS4TiHwo+9OF6ubhN192G2q2uOpYDo6uy5SnJLzknyQA456ZpIqK+740xWmsiwjsyAF3XCSHqulZKNU1TVVWe5x/M/MBy5nDCcsb6n8COLTEZ9jeESxxNZeoAmRCiKIr5dOTQA6DuR0pZluWqx882whyVAVzdpjceYCl6p3jeBl6XlLMlPQ5t2+7YUjS7uuhtifVwJ+O937D9+5VSKqX88bAtzP5LPITt4F0/PfYC2iwZPG61FKYAAAAASUVORK5CYII=",
-      "createdAt": "Mon Mar 02 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "java-performance-tuning",
-      "locale": "en",
-      "title": "Java Performance Tuning",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the first article of this series, we discussed how Java performance tuning can be complicated. The different factors that impact performance, and how you can measure them. In this article, we\\u2019ll go over the specific strategies for tuning your Java applications to get better performance. There are many moving parts in a Java virtual machine and a variety of things that can negatively impact performance.\nWe\\u2019ll discuss a few specific techniques and configurations you can use to tune your JVM for improved performance. This includes heap size, code caching, compiler options, code usage, and interpreter mode. Read on to learn more about these concepts and their implications on your application\\u2019s performance.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-beginners-guide.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKklEQVQYlWMQFBQUERFJThXyDRALCBD18BINCRNx8xAWFhbm5+dncHEVtbQS9/ETz8sXjY2XCAyUSE0XDwoWNTYWU1MTYXB0lEhNk0xNk46MkouKlg0Iknf3lE9OkQgOEQsMEmGQlZVVUFZSVVXV1NTU0tIqy5SLC1FUVFGWk5OTkJBgUFRUVFVV1dLScnXSsLDQTk5Q1NbWVlNTU1JSkpGRYVBWVtbU1PRyU720h3/FNLGyAgV9fX1NTU0VFRU5OTkGFRUVbf8YqeYT2XNLw6d3CPU+5ut+IxdUqaqqKi8vz6CoqrH3xMkHD88ho517VkN1Kyiprd9z5tz1a+euXzt/DUSeu35t9eatSkpKsrKyDHJycrJySrKK6vJKGhAkq6guowByuZSUFAAb41edznWHSQAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Jun 04 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-beginners-guide",
-      "locale": "en",
-      "title": "Python - The Beginner's Guide",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

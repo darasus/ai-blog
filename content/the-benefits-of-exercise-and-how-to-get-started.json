@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/the-benefits-of-exercise-and-how-to-get-started.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM3Jxfz7/LyzsoxtXlo3Lm1IO+fl5fHx8+/u8+jn7ABbSUT8+/zc2tuqiHZ8UUBEKiGkmpvr6+3x8fPu7fIAmXVmzrOj4+PluZKCjFZEQigeg3Rw09DY5+bp7+7zALubj4hweM/L1bydiG1HNkcpH4VgVNjKyuzs7u7t8gCXe3BSUFp+cHKxim5/VkrCo47HooivlYzy8vTv7vMANTA2aWx0b213yK2ohFmRza+ldE9ESzFF7+7x7+7zAE9OXtnm+tzZ38KhmNnQ3riSf0coTDcdTKWatefl7QCDUW3DyefAqKWVYFTNsKFzT05NLWUyGj1ALF5idaoAZyFGeXiqoYF3taSqhGx0dGBZkHR1o3VeOSgrVnC8AGKF1Ht7pndngYJyfHOPz8C0uKmBbm1IOUhJbUZenw0irj98VNaCAAAAAElFTkSuQmCC",
-  "createdAt": "2022-01-08T08:30:00.624Z",
-  "updatedAt": "2022-10-11T17:18:36.314Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AM3Hxf///8W9uYpsXFMuJnJPROfi3/f5/O7u8ejn7ABdS0f29vbj4OGzkYBwSDhPMiilnJvg4uXy8vXt7fEAkGhYzbKj6OjotpSFjFZDPSAVdmdo1dXd5uXo7+/zAMqpmpJ4fdnY472diGo/LkorHopoWuHU1Ozu8e3t8ACafnY8O0p9cHCuiHJ2STrKq5XNqY6wk4bu7/Pv7vIANC4zXmNsfHh8uZ+djmui0K+hc04/UDlM7erw9PX5AFxjc9Di7+ji4b2akNnS5byUhkcoSSwUS6ebuObm6QCNTGm4wuDBq6ecZlfPrZNxSU0/Il00GDk6KFxoea4AZiFKe36vqI6OrZGLiXR8bWBjkXRwonRdOSgsTWq7AF2G1Xh6p35pfYN2hWuJyMS+wLmQeG5EMUtNckVhpFOgrrAPnxMxAAAAAElFTkSuQmCC",
+  "imageId": "a605d06d-6194-4b73-43f5-7748bc620f00",
+  "createdAt": "2022-11-05T21:58:55.210Z",
+  "updatedAt": "2022-11-05T21:58:55.895Z",
   "categoryLocal": "health",
   "slug": "the-benefits-of-exercise-and-how-to-get-started",
   "locale": "en",
@@ -20,115 +20,85 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-get-moving-when-you-dont-have-time-for-the-gym.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AE5OLkpLOFJTQG1lKlxXJG9mKVFPJEBAInNpOpyRbgBWVi9AQi1TUSlHSSFiXSZvZzqqlX5qYkpWUylvZzYARkUqREUnX1wpVlQlXVopUEooh1hIsJR9Y18uenM4AENELTk9J1RTJEBBHENFIEhJJKGpocSVgIByO3ZsNgBUVDZMTjJOTyxBQCpTTzFQTTh5orCAbGprd3VlYTcA3dOE4teN49iM5dqQ6N+X2MubaG6DfHR5davLxrtvAMfGXs3JZM7MadXReNrWfoSEdGJeWIBpXj85XcbCbACjl0WmnUi2q1a4sFW/ul6ilmWPi2iMlIFdW2erpl8AgXk+kIVHl4tLopZPpZ1QtK1tq6KTmpBaS0hXZWRZAG5nPHVyQXt1QXx1QYJ7RIuJaHNzVm5rPFFiWjlghak0gFbub8G6AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQYlQXBu07CUBgA4PMSMvMMBlGjzDwFj8FlcXBSExwwXgYScVEW44DIxQvGkAhptBLbQoOEY6WlDaC01Ta055z+fh9aO64t7xZjheb6UTWaK60e3mzkG5v5RiR7GSs00U4bb9U7qVonU3tLXnPJUjtV5dO379sP4t6LhgBg0O9fnJ3eV8t3lfLz02OjXrkqnv9aFgAgzyeEMZ/QIcYfg4EgimNdBwCfMo8QxBhzXXc6m4miKEmSIAiy3LNs23FcxhgKAGRZ5jiO53mMca/X5flXURRUTQ0CQACBbVuappmm2Wq3pK40N+eGrjvOH0CA5jb1/IAxCgCJRCK7nwUASqm7YN8WRYpOPnVvYgJWxqHQUjwedxYwMnxF9xWDoC/DV6dMHv6k0plwOBxdieQOTrC2UCdkZJB/qUHugUJ0g4YAAAAASUVORK5CYII=",
+      "imageId": "2e6d10c8-e721-4f95-131f-7ae3d1868d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-get-moving-when-you-dont-have-time-for-the-gym",
+      "slug": "top-health-benefits-of-meditation-and-how-to-get-started",
       "locale": "en",
-      "title": "How to Get Moving When You Don't Have Time for the Gym",
+      "title": "Top Health Benefits of Meditation and How to Get Started",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year, same old resolutions. If you\\u2019re anything like the majority of people, chances are that you have made the same resolution to get fitter, healthier and happier this year as you did last year. But with a packed work schedule, social calendar and everything else going on in your life it can be difficult to find time to hit the gym or take up that new Zumba class you signed up for last October but never went to again.\nAnd yet so many of us do manage to get moving. Yes, it might involve setting your alarm an hour earlier than usual, waking up on Saturday morning instead of Friday night and putting in some serious dedication \\u2014 but it is possible. So if you\\u2019re struggling to find time for the gym here are some creative ways how you can get moving when you don\\u2019t have time for the gym:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Meditation is one of the most effective ways to bring your mind and body back into balance. This ancient practice has been proven to help decrease stress, anxiety and depression, while also improving memory and concentration. In addition to these benefits, research shows that meditation can also have a positive impact on your immune system, blood pressure and heart health by lowering your levels of the stress hormone cortisol and lifting your levels of oxytocin (a \\u201Clove hormone\\u201D).\nIn this article, we take a look at some of the top health benefits of meditation and how you can get started today.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-a-priority.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APr6+ufl5f7+/v7+/v7+/v7+/v7+/tfX2ZGJgtCdagBwaWlQRUatqKr+/v7+/v78/Pn8+viCfoRoYFzrwnsANy4xPjQ6W09R+vr89e/q4MOx9Nff69vabGhn0aplAFs+TFJATbWkqta1oK9pPc6UWMh4hbRcSrmJiT0wLQDx6+jm3Nbz7evhz8HUoWnWn13FeGWYRzWscGvBur0A9OfViG9c3ruX+/n38Ong1ah1zJ1917GT693N3sy7AM+VV6V2SIhcO+jOtPDr7Pj38+3ez+3ez/r17PTftgC/hUm6gEaibDzx49Xy7fH28/fv5+Pj3djq6Of79OgA0MbApYt069zK9PHy9fHy/v7++/To2NXW1NLT8OngAPn09vPu8O7m6fHs7v7+/v7+/vnx5vjt3/j38/nw43sf4KD23QydAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIdrP6aResCyotbPy9nV2d/f6My5oIhgGXJTG5pyDQCjjnXNzNjW1NzV0tjg3uH07OfawJl3VReJZQ73uwIAlHtZ19PW0s/U5OPm8/P1//rv99mielkd0J4D36IFAI1uQ9TNyd7d5NbT2MzJz+rk4v3jt6aALumsAMqQBwBuUi7KvKzT09zJxsvRztPg29v/6sLEn0+/hwDJkwcAfWEgrJmA7e7129nd6Ofq+vn7/+/JxKZyUTQFy5kFAM6+OpmCV+jm7cfFzMjFzff39djFvqiOkW9PEsWTAgDw7FqUezHi3eHd3OHk5Onp3tKzpcby6uyOcD99WAcAnYwYdlgk4drQ/////Pjzv7DN6+z4/v7/ppB2bUwdAHFVJ4NfH86/q////7ehp6CKlLifeph2S3tdNYNfLnWTxleiYL1dAAAAAElFTkSuQmCC",
+      "imageId": "7e918a82-36ac-47ba-02d4-2045b127ca00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-a-priority",
+      "slug": "how-to-create-a-healthy-grocery-list-on-a-budget",
       "locale": "en",
-      "title": "How to Make Healthy Eating a Priority",
+      "title": "How to Create a Healthy Grocery List on a Budget",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You know that healthy eating is important and that you should make it a priority, but with so much going on in your life right now, it can feel like an impossible goal to achieve. Between work, school, volunteering, and friends, it can seem like there are not enough hours in the day to get everything done. Eating well often feels like yet another thing you need to add to your endless list of responsibilities and obligations.\nBut making great food choices doesn\\u2019t have to take up a lot of time or feel like a chore. There are lots of simple things you can do every day that will help you make eating well a top priority. Even if your schedule seems packed, these small changes will help you get the nutrition your body needs without taking up too much of your time or energy.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re on a tight budget, it can feel like hitting up the grocery store is one of the last things you can afford to do. However, there are ways to make your food dollars go further and still eat well.\nInstead of making weekly trips to multiple stores and markets, plan a shopping day and hit one store at a time. Look for sales in that store before you go and stock up on foods that are good value. You might even consider investing in a membership card or becoming an insider or club member so you get vouchers or other discounts. Adding your own spin on some classic cheap meals will also help you save money without sacrificing nutrition. It just takes some planning and research to make it work!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/10-tips-for-keeping-your-hair-healthy-and-strong.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlU2MTUvDQBRF5//jRpAiAbHUhSCFIipUqRhtNiHpY5pxVGwS22nTNp9MImIybwLSduPhrs69XKLi5ZXRmVpPZ8dHdHT3ct0fP9zD2Fx9MKwKgps5fX6cTye3lz3zZjAxR5tP3j09Wb55mEREpRFmW8zW/YvzntEZdA21/tqZzRxlTrAqdiliLOIm35bhOyaRjhcoc/3zTTRqlPluIXPMtnrlZ4tQSqmUatuWBEHAOX8FB6uirQpd/yZJAgCMMaUUKctSCJGmaV3X7R7f9wGAcx6GIWGMzWYzADBN81ALITzPo5Q2TUMO6j9BEADAcDgUQhDHcVzXhT0a9eGcUmpZlm3bf1OiBTK/jJHcAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Aug 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMabYdawdbJmDqJaBpxbDp9gEaBjGciqd+XEjNCWSwDIfy2pUQBzNABpMgBzNwBxOAB6PwCLSgOYWRGsfUIAmEwJkl1Aj2NHil5Di19Dk2NFn2xLmGlOpWEo5o0aAJpgMN/b2/////79/f////7+/v///+Lo7rF9UvGcMAChcU3k4d+anZuYmZebnJmanJiSk5DL0dOwhWi3ZiEAxpBf6OnrwsTCfn99Y2Vidnl3uru41dzfyqF+5JI3AOGrcu3w9P///7m7uZyfnbi7uf////D2+MWihcVwKwDUp3re4Obq6Orx7/D18/X08fHt6+zX3eO+nYXdmFEAunxCtHNBs2koolQWpVITmUwXol0ksnZBuYBLyqh7AK5WDL5dBtZ3D+N7B+JzAchRAeFhCfCVHPamOeulRi7qrUVxpNpcAAAAAElFTkSuQmCC",
+      "imageId": "bc6ca158-6cf6-4f37-4034-fbf1c29cff00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "10-tips-for-keeping-your-hair-healthy-and-strong",
+      "slug": "how-to-make-your-kitchen-a-healthier-place",
       "locale": "en",
-      "title": "10 Tips for Keeping Your Hair Healthy and Strong",
+      "title": "How to Make Your Kitchen a Healthier Place",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping your hair healthy can be a challenge at times, but it's important to keep on top of things in order to prevent any further damage. Whether you have fine and sensitive locks or thick and curly tresses, the right routine will help keep your hair strong and prevent it from breaking under pressure. Keeping your hair strong is an ongoing process, but by adopting some simple tips you can make things much easier on your locks long term.\nLearn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You probably don\\u2019t need anyone to tell you that the modern Western diet is not healthy. Whether in a home, restaurant, cafeteria or any other eatery, almost all food establishments serve high-calorie, high-sugar and high-fat meals that are laden with salt and unhealthy oils.What is unfortunate about this situation is that many people have no choice but to eat this way on a regular basis. If you work in an office, it\\u2019s highly likely that your building has its own kitchen where a catered lunch service prepares hot lunches for staff every day. Similarly, if you go to school, there will most likely be a canteen serving the same type of unhealthy food as an adult educational institution.The good news is that even if you are stuck eating these foods on a daily basis, you can make your kitchen a healthier place by altering what goes into the meals you cook at home and the ones that you buy. Here are some tips on how you can do just that:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-eat-healthy-when-eating-out.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMm0qZOIgMGqnoNqXJF9b7yWhbeNe11URTYzKzA0NQCfj4Wlg2PRrpXTt6rOsaTYuq3Gqp2LhHlwa2FNS0oAqZ+TvnlVxX9ggGBRopaMrJF/tZyOv6GVyqqe2LarALmpmrNSM79PLKRqVcK+uc2rksS0pbuonqCHeaiblADOvLBvKiN+HBnBh33o07jNlFzcs4bk1sjJx8WWkIsApX5nlWZSqXVk2MO4uKmXsKaOwbml6Ofe9fXy19veAE1NTdDBue7u7t3g3JeyqWpoWKytmG+NgMvb3Pb4+gCsrq3Kxcfb2drE2dlycVqXkHViZk6EemJYdG/v8fMAbMDaxMDB5+XlwcjISV5OiY94YXFVi4x3d4qC7/HzABR9otDY3Ofm6a2tsHqGhHiQiGuEeYmalMzc3e7s6hCAuHkjN1rHAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jul 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABGklEQVQYlRXOy07CQAAF0PldP8O4lPgFbkRjCGEhxijGFVHjCwgJfdGWaTEFSqEPaC2d6cxcw/psDqnTlJsmn/uMUqbpnM6Y59WUMtOoiz0R5SHTdRZF9XZbUPsQBCKJ8zndGZpkFZFQi0m/zNYScKfva98AsAmtpTUAQABx8/TlzFcAXt/1294QgL9Kr3oDQJFdqc479Po5kAqNy/7J6WMUi5dRdtaehbEgPNpkEzv/XVeum5tuprmV6+VekI4tlmQEUqWxvzQ+heSQvCi3ofNdJBEgRc2Jgorjsvvw02iPFptKAO3O20XrI4iZgjrycJy27vxmd6E5hyBkzda0eb8Y6vmxJgGZJZXtMMuWxV6yijtupRnqL5dQ//liCsM6nQNaAAAAAElFTkSuQmCC",
+      "imageId": "28d99def-9c76-4f2d-a839-297c675ac100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-eat-healthy-when-eating-out",
+      "slug": "3-easy-exercises-you-can-do-in-your-home-that-will-make-you-lose-weight",
       "locale": "en",
-      "title": "How to Eat Healthy When Eating Out",
+      "title": "3 Easy Exercises You Can Do in Your Home That Will Make You Lose Weight",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Eating out is a great way to treat yourself, your friends or family members, and also a great way to save time on busy weekdays. But it\\u2019s also one of the trickiest ways to navigate a healthy diet. Many restaurant meals tend to be high in calories and fat, sodium, and cheap unhealthy carbohydrates like white flour and sugar.\nIf you manage your expectations going in, however, it\\u2019s possible to eat out healthfully\\u2014even if you do it often. The key is knowing how to order effectively when eating at restaurants. Make the right choices more often than not, and you can still enjoy eating out while keeping your diet in check.\nThe tips below will help you make better decisions when eating out.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you get home from work, the last thing you want to do is another workout. But working out is essential for losing weight and keeping it off. Exercise not only helps you lose weight faster and keep it off, but also improves your overall health and reduces the risk of developing chronic diseases. If you feel like hitting the gym after work isn\\u2019t an option, take a look at these easy ways you can get moving in the comfort of your own home.\nWorking out at home has many benefits; it\\u2019s convenient, cheap, private, and most importantly\\u2014you can do it whenever you want! It\\u2019s also a great way to strengthen your body without needing to leave the house or spend a lot of money on expensive gym memberships or personal trainers. Working out in your home not only saves you time but is also a convenient way to keep yourself motivated to stay active every day.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/7-exercises-to-lose-weight-in-7-days.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABAUlEQVQYlV2O70uDQBzG728ueuc/ECFBkGNtLD2zBeJoFxHIZj9ET8ciqOXOCr0TtxG9kdDdtlchtyCC58UD3w/P9wPazhRiBjFT3cQIcyPM9SCDmHXHc9VLgTUpVDdpDl4b9nPn7r01jI6vn9rO9AiFF48LgOIKEd4nJSIcEX4Zff8tYEc+lXve7kFHUsz97lDueVLTkhRz7xBKigkG6eoXL8VSnbgSeyD+2jhJTbTs+Hw004NMdROImR5kmk/BLeWf5frqbXliR5pPVffjzGeaT2vCo7VaXmzcjFuTok/Kf6nP49lqlK8bNy9i0whz8QViBhDhD3R5n26Ntmqix9UPAHbqiLeNlp4AAAAASUVORK5CYII=",
-      "createdAt": "Mon May 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJlwPrmQX5aXSuPj4+zo6NfDr+rey+7j0fHp2Pf39ACMdC2LiSpbXheQmYLo4N7h1sTx5c/n1Lfp2Lri2M0AlZhNjIM0VUYUwsWt4t7c8/Px4djPyLaosp6Rm4V8AKSmYJOCZePVwtnQzdLJwfHw8PT3+Nza2720tLippADg2tPe19Te2tfn4t7r6eDi2sTKrJm5mITQu63n5OQA9PPx+Pb2+/z82sq/q4pxsoBQhE0mXysIckMZxaqKAPTz9PDu7unk4djEs35FGoNSKHdLJ31SKodSMJRjNAD29fbu6+ni2NHs5uG1hGGFXSiXYC2HTSl5Rh59TS4A+vn59fP07url5+Pe0bOfllgyjGEedUYbh0ojj2pVAPb09ff29/r4+fLv7PDx8NS/rLSJTXBdHnY+E6uBY59xyeg42azjAAAAAElFTkSuQmCC",
+      "imageId": "a0dc6212-3bd7-4e8c-75a1-2b11ce11e700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "7-exercises-to-lose-weight-in-7-days",
+      "slug": "the-best-healthy-dinner-recipes-for-a-busy-week",
       "locale": "en",
-      "title": "7 Exercises to Lose Weight in 7 Days",
+      "title": "The Best Healthy Dinner Recipes for a Busy Week",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The beginning of the New Year is a perfect time to focus on healthy habits and get off to a great start. With a strict diet, you will be able to burn fat effectively and efficiently, leading to weight loss in just a week. Exercising regularly not only helps you lose weight but also promotes long-term weight loss by increasing your metabolic rate and maintaining lean body mass.\nReducing fat from the body requires breaking down of fats in the body through physical activities. There are undoubtedly many reasons why people fail at losing weight, but most of them boil down to three simple things: lack of time, motivation, or knowledge. Fortunately, with these simple tricks you can lose weight in 7 days:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you in a constant state of busy? Between work, school, and social events, it can feel like there\\u2019s no time left in the day. But that doesn\\u2019t mean you have to forgo healthy home-cooked meals. In fact, research shows eating at home more often is one of the small changes that lead to big weight loss over time. Healthy dinners don\\u2019t have to take long to make or cost a lot of money. With these healthy dinner recipes for a busy week, you can have wholesome meals with minimal effort and expense.\nAdd variety to your diet with these ideas for main dishes, snacks, sides, sauces, and drinks all based on common ingredients found in most kitchens. Preparing your own food instead of eating out or buying pre-made meals saves money while also helping you eat better. You may not think it now but these concepts are simple and will be very helpful when you are preparing your own food instead of eating outside or pre-made meal packs consistently after reading this article .`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-benefits-of-a-healthy-diet-and-how-to-stick-to-it.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AO7x+erY4NudotrT1d/Oq/ivC/vbXfbr2PjdrffongDZxMfnpiHQkzqfynO13Y7mpBbtlxP8fQ38mRb9sSkAtkY+55opwJwdoMJJpOSYSnUyQ20xt2gP9G0C+aw5AL4oNMtoNdW3ZKKZKpS3bH9+YzBqRwRuL16BRde0HgCfIiHTl1fz5aHenXjEh2rvXEflWzeUgWUFXCwkhjMA06F3+eei1LRv31QqyUkuvx4cuyUYw3ZVVXZgFmM5APjosOC+as+khcNLKbogC/JYRdQvJdSQkN6abMqwnQDoulrsx2j85A306leymI7SipOwoK3VyMjThFbUjngA8MWN9sAe+OMS+u9U2+TX4On44a+g7Jpv572y0rSpAO/W0+zOlOrZb/DvzfX4/vP0++XHyNmQd+W8r+fd4aontwBRbA+JAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Dec 23 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-benefits-of-a-healthy-diet-and-how-to-stick-to-it",
-      "locale": "en",
-      "title": "The Benefits of a Healthy Diet - And How to Stick to It",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A healthy diet is a significant part of any healthy lifestyle. It\\u2019s also one of the most difficult to maintain. With all the tempting fast food, vending machine snacks, and restaurants with cheap but high-calorie meals, it\\u2019s not easy to eat right. Luckily, there are plenty of ways to make sticking to a healthy diet easier.\nIf you want to improve your health, increase your energy, and lose weight\\u2014while still enjoying great food\\u2014a healthy diet is the way to do it. A healthy diet can help prevent disease and keep you feeling great. Following these tips can get you well on your way towards meeting your nutrition goals and eating a balanced diet that will keep you happy and healthy for life.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-a-part-of-your-lifestyle.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Ju07CUAAA0FI/wNU/MG5OTj4SRz/AyX8wcXJjwUGixo0BdRBiJCZCNKL4iCZAI6DlFnJLEVvqhZZSWvsu5RITQ/Ssh5Bc3LVHouG1v21BtwTdEnUbGU7X8mUnICQXf5m+oDutgfGh6rxqCAOzrVkd05XsIYGsgEUIwCrNVN5BGXAw9vA8fRmdy8VX8ilCtIJ0odroB4zkMZJXhuzmRWr1Prn8lFy4PZj0dZFhlYBGHuj4FFNbP40v3Z3M547XXs4mnS3B1gA3+hjKwzxdXYxFyUQ4dB6ZykT/+1Mbc+qo3hs+lujZw/Bfh9K7BLJwnkW8jjl1xCpBtlia2d8mE2EytUNm9oieO252e4CDb3XwCipUDRyVCxEqt0XdbFBXhOr/SC7mDbepGqyiQ1mDstZUNF4zRcP5BczE6I3HfjjgAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jul 13 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-a-part-of-your-lifestyle",
-      "locale": "en",
-      "title": "How to Make Healthy Eating a Part of Your Lifestyle",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You probably know that eating a healthy diet is important. After all, five out of the top 10 causes of death in America are linked to unhealthy eating habits. However, it\\u2019s not always easy to eat healthy. Work, school, family obligations and other commitments often make it challenging to follow a healthy diet on a daily basis. Fortunately, there are ways to make healthy eating a part of your lifestyle instead of an awkward obligation once a week or so.\nAnd while we all have our moments when we crave junk food or a big greasy meal after a stressful day, making healthy eating a part of your everyday life can have profound benefits. A balanced diet filled with lots of fruits and vegetables lowers risk for almost every disease and helps you feel better mentally and physically. Follow these tips to help you integrate healthy eating into your daily routine as seamlessly as possible.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-easier-with-batch-cooking.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL3Ev5+nooOGhYmNjLC3sre+ubS8t7S8t7S8t7S8twB5fn0hERJWPCddVjkoIhuCh4O5wby2vbi2vbi4v7sAKiMYJRsVTSoUYEUlg25FPicYU1ZVs7u2ucG8jHRjAHpvRTshFSEYFzwjF2xIK2ZBJyUaGZebmra2sncXCABsVDNvTTJLLhweGRscEBQeEhhfXGG2u7mdmoSaYRsAQCokNiQhMiQnWlNTZ1tGlYNkpoxYrqiThX9PrYIDAB4FCRsKEnNlVZVkI4VdHYhaJY9lI4pcGamhga2ojgBoRjRpZ2Z2dWyZcj2IVBuHYCd3TBaYVhqrmXG/xMAAtGMop3ZGmopvko55j3xXk4Rkop6LpqyjuL25vsXCAL/Bvri5squklJ+jmaOpoKiupa+3r7zBvcDFxMDFxCFehuhsnxvWAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jan 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMLKxZefnXt/fn2AgaeurMHJxLO6trS7t7S8t7S6tgByeHgmFRVSNR9WUDEzLiV6gYDCy8a5vrq2vLm3xMEAIh0SGxIQUi4XeFwyfmg9NRsMVVZTs7q2vcK+kHdmAHxvRTcfFh8WFTUdEnBNMmtHLBgJCJeenLy3s3QWDQBxWDZ3TzFDKBcUERcdDxMeEhllZGy+xcmZlXqZXhkAQSojNyUjPS8wWFBOZFhGi3ZXooRPraybi4ZZq4AAABUCDBECD2pdUKBwMI9lIY5kLY9fGotYE6yhfqykigBoQSlkZWZ3enOZbzWARwqGYSF8ThiTTxeum3LDy88Av3I6sYRYmIlwkZF9kXlWlYRknZaCpKigub+9wcXDALy9uLetoKuhjZ6knKixqa22srK5trm+usLGw8DFw8lfhrVNsV/BAAAAAElFTkSuQmCC",
+      "imageId": "88197d3a-7de9-4e00-a7a0-91beebcd9f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
       "slug": "how-to-make-healthy-eating-easier-with-batch-cooking",
       "locale": "en",
@@ -140,31 +110,61 @@
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-benefits-of-regular-exercise-and-how-to-get-started.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL6fnMDGrZSnWpOobnaRT3STR6isaceopcvIzdDN0ADDrau3tJqYnW54h1JedjlxhFWknIjJs7HUwsHJt7cAuKGgqqmw0s3Rr6ywmJOVvLm+s7G9d2x7yK+vQEpSAHuBX3OEZb2np8OlmG59ZWh5VomWm1xllGeMmUNYLwBHRydJSTt8YWiPdG9HTURbWlIOaMASc9kIY8JCTSAAr8hLgZF1SVJxNzY9QUdXiYeTYmqJAzN1BD6OhKWuAJq9IFZgQRAaJXJ3WqOtZaeiYmxOJhMRGwsbJ3pXTgA3Sz8lHx8KCgoMEhZFWxiSnSOGmRp1lg6JtA1tgRQASlFcboJnYHlKZ4grPFQheppHc5crcZoabJQddpwgAHeQgYmboKayx6eyx5GXnKW5npGvc4epVK2sRJ2zNyZKi9P47lysAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Sep 26 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABO0lEQVQYlR3JT0vCYBwA4F2Dvk6HKOgSdBH7ABJ1q0t5iPoInToERl5MhKBwh5w5zNDhP0jTtdTtzXdzr00scS6SjbQJ7f1FPteHOefSYS4V4ZKhOBtJcLEUf3Ydj/HpcII/ZZPM4qpv8/B4eWtrKRDwB4Mr2zu+/YON3b314NHCmp8J3fKpUvnmPhPluGiCO4lcXrBsLHmXq4lX2TxDAcC2iKY+kb7SG6D+sKYZztQFAEop41KAgSGJ9XSjXZDxI9azjdcqJs5kSqnH/AJApyGLtQI2njuG0GwXFdWynZHtTFx33m9tgmQB6aJuCC2cl9WMhCqYfDnf8x69o2ZTQHoFE2P0aY7t7tCauDMAmDdpIUnMIVLFpDu0tA+zMzDNsQ2U/renVDSpXtZ6JUXNy+rDCyoq2s9sRj3vDw/Y63iBkKA4AAAAAElFTkSuQmCC",
+      "imageId": "43406d34-27b7-47c5-ed2a-2bb6a863b300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-benefits-of-regular-exercise-and-how-to-get-started",
+      "slug": "10-ways-to-maximize-your-exercise",
       "locale": "en",
-      "title": "The Benefits of Regular Exercise - And How to Get Started",
+      "title": "10 Ways to Maximize Your Exercise",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Getting into a regular workout routine is something that\\u2019s a lot easier said than done for most people. While some of us have it easier than others when it comes to fitting fitness into our busy lives, we all struggle with different things at one point or another. It\\u2019s easy to let other responsibilities fall by the wayside and not get moving, so you need to be strategic about how and when you work out. While there are many different benefits to exercise, the biggest thing that it has to offer is stress reduction. If you\\u2019re looking for ways to reduce your stress in your everyday life, adding exercise to your routine is a great place to start. Here are some reasons why getting your sweat on regularly could be exactly what you need right now:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working out and staying active is important for your health. In fact, the Centers for Disease Control and Prevention (CDC) recommends adults get at least 150 minutes of moderate-intensity aerobic activity a week.\nWorking out can be a great way to relieve stress, increase your energy, and even improve your mental well-being. Don\\u2019t let a hectic schedule or fear of getting started stop you from exercising. There are many ways to maximize your exercise routine to make the most out of every workout session. If you want to see an improvement in how fast you can run, how many pushups you can do, or how many times you can climb stairs without getting winded, read on for some great tips on how to make that happen!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-best-healthy-cooking-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOlxP+NwPqB0TOqUaPK1l++bbs2JFezAQvOUWc9+YADpcT/Me0vZeEfekmrcvaXvhlHBdRrvszjzhVHQjXQA3otn3XhGpXVOyY1m+tG1/N7G8rKK2IVU6pFk1o9lAO51PuV9QOaOXuXNrvHizungz5GvnOOqgruHZMqtkACOfVnfgU/5qHj+37775Mn76NPt2sP81LK5dUy5m34Aymw8cYpt7qR0986j/Nqz/t+++t289Mii5YJR4XM/APB7SuRzQfGFU/29herCkuPKofDElduMXKR0TbKBXQDmbDrey7/v3tTthVT2nF/ZnGzekl7XbTqGTSWUXTQA3mY4spiB5trQ1ntR6bCR7X9Ly2k9t2BX5ndK3IxuAOJpPtZjNeBoOtd9V9ewmel2ROFuPrZVONhnQu1rPsmKupCGl3jwAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABP0lEQVQYlRXJy0oCURgA4PNUrVrUAwSRCLaJogsl4Ru4aWOrghZSKpWX8VILMSqcRMSiqWm8ZIR00aQoo9GcYcY5c87Mcf7o234IAMKH0fGJyWm3e2rG5fLMLiyvLK2uVet1AEAAcCNVEumjgzgXDEUi0fhpnhfuRHnwSx1AsTin6EZPUQdDQyMMsxG2LMoYte0fAyPvuk/Vcfe713n/qNauKqLQarf6fdXApK3oaGgSBtCuV89Pkql9f45L5zKZplByALqqjlRMbAuSwY15/5gv7/Hyc4uB8b1NHwAohol0Oup+fknpHT4bDInJ7fJuNhWQuC1LlTXCkEbhpSa0CklnBOAAw9B5k2+Pw/J90WSAVHP0eH3RfxJtgCEhGiGqSaXL0jMfI/+N2UP5TG4UbQcwZUNqAUCn2XgtJAxC/wANEPCHHZRJvAAAAABJRU5ErkJggg==",
+      "imageId": "72a5f8ef-40d9-474c-47c3-604d50552000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-best-healthy-cooking-tips-for-beginners",
+      "slug": "10-ways-to-make-your-commute-less-stressful",
       "locale": "en",
-      "title": "The Best Healthy Cooking Tips for Beginners",
+      "title": "10 Ways to Make Your Commute Less Stressful",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Have you signed up for a cooking class yet? If not, then now is the perfect time to do so. Learning how to cook healthy food at home is essential. There are so many restaurants around these days that serve really unhealthy food. Even fast food chains have started to add super un-healthy ingredients to their menus in an attempt to capture more customers. Thankfully, there are so many places to learn about the best ways for beginners to start cooking healthy meals at home.\nIf you\\u2019re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think about your daily commute, it probably doesn\\u2019t strike you as being particularly stressful. In fact, many people see their daily drive to work or school as a time for peace and quiet. After all, what could possibly be stressful about getting from point A to point B?\nIt\\u2019s true that your commute isn\\u2019t inherently stressful. In theory, it\\u2019s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHyOepaslKrApJyvl2FoX2dJSsSOi9nT5tnBzdqZjwCarpV7jnyInIiRpI9hbWdNQ1C4uczX4vzV4P3VuMEAqcSqbXxyHiMzJjBAS0M5tamX1OX90+b91+T32uf+AC88RzZHWmRucpCKbZmkhqi6mLu2paqTjJd1Y7SbjAB8io+gn4ujj2CHj3N4l42vz7OoxLCYiXJpQTNhPCsAn5hyjpJqj6KFk6+Ye5KMoMCuoKiek3VfmnpcqIxzAI6niImmhZCslJu1mJi0rY+giGJLK1QwGkwsHHdXQgCkwJ97knFTZFSQrJCvvauNdFV0UyN9XS5qTCJEIgsAp8OknbulWGxbcHJWg2FJgVs8oYRXoINRsX1TpmNJALDFyae9on9+Vm5SN598aGpCLJd1VbiWeNKSe+GeisSeoCufETfoAAAAAElFTkSuQmCC",
+      "imageId": "682ca03b-94ca-451c-27ad-3fe436a71300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-make-healthy-snacks-more-exciting",
+      "locale": "en",
+      "title": "How to Make Healthy Snacks More Exciting",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Do you find it challenging to get your kids to eat healthy snacks? There\\u2019s so much pressure to feed our kids nutritious foods. But what if they won\\u2019t even try them? Here are some ideas that may help make eating healthy snacks more exciting for your child.\nThere\\u2019s nothing like the love and trust of a child to make you reassess everything you do as a parent, and unfortunately most of us have let our kids down when it comes to feeding them in a way that benefits their health. It is not easy raising healthy kids when almost everywhere we look there are temptations around every corner trying their best to get us to buy something else instead.\nThe good news is that this is not an impossible task. With the right balance of encouragement, support, and guidance from trusted parenting sources, we can all help our kids grow up with healthier habits than we currently have as adults. Here are some ways you can make healthy snacks more exciting for your child:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI+bpJqgop2ho8vLzP///7S3ucDJ0tPb5NDV3ZCNiQCEkJjb3t7Lz8+7v8Ht7eycn6DFzNTP1t7V3+einJcAk6Cn/f//0NLTxcfI////trm8xdDd0M/Szb20ppCBAGd6cd3q787U1cjNz+nx+NXj7sq6tMaUfdewn6GZlACJfGrPycTMzcy2ur7V3ubb6fTCoZHLl3q+mYR/eWcAmHldkomBzNXewMDDy9DV4O325vD6spyMsY92bnBSAH1uZSdIcsDN2dDY3cvV29Xd4dzq9bm2saWLcU1IOQA9OkMADkCBkJ3P3+iUt9N6n7vM2N65n4uQb1ZDLR8AESU+iIyc08K9urO1Q1JtAC5pdq3Z3q2Mw4hfsIFbABp+oVW50FO2zFy90GXI1RRdfy1oq4zFy2ysra20o9bDx6mgNLYCAAAAAElFTkSuQmCC",
+      "imageId": "2d43af23-e41b-4f9f-f3a7-727b266d9300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "10-ways-to-get-moving-when-you-dont-feel-like-it",
+      "locale": "en",
+      "title": "10 Ways to Get Moving When You Don't Feel like It",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year\\u2019s resolutions are the perfect time to start fresh, refocus our efforts, and commit to a healthier lifestyle. Many of us make the common resolution to exercise more. However, that can be easier said than done for some people. If you don\\u2019t feel like working out one day, it doesn\\u2019t mean you stop going to the gym or just give up entirely. It means you have to come up with creative ways to stay motivated and get moving when you don\\u2019t feel like it.\nExercising is not always fun, but we need it to remain healthy and fit. While some people love sweating in their favorite gym class, others avoid workouts because they know how much they hate them. While exercise can be difficult at times, there are lots of different ways you can make moving more fun so that it becomes second nature and something you no longer dread.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

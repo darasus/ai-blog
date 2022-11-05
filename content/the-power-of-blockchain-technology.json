@@ -1,9 +1,9 @@
 {
   "category": "crypto",
-  "imageSrc": "/articles/the-power-of-blockchain-technology.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABH0lEQVQYlWMQF7ZGIK1AMXV/cUlHuAiDhG4oCGkESBpESKZ2ShhFgpB2kIR+uIRJFIOkWZyERYKkSaxs8TSZ6x+lt16W8sgXN4wQN46UtElikPIqkPIqkK6bL3PhjczJpyAVxx5Kh9dI+hVLeRUwiE5ZJr7rgvjc9WKz10luOS22fJfY8l0iExcJ9c4R33OeQWH/JYUDV5WP3VI6eU/p6E3Fg9eUzj1ROPNQ5vxT+RsfGKQ0AqX0w2QyuuWvvJW//F7j3AvZZYclrRIltIMkDSIYxE1jJUyiJA0iZDK6pa+9l1l2VNIhHeRsq0RJh3QGccMICf1wcVU/kFBQqYSKD4irFSihHy6m5MkADwExCQcx3VAJeQ9RYWtxIVtIsAAAdOhgKe3ZtUoAAAAASUVORK5CYII=",
-  "createdAt": "2020-10-08T10:30:54.834Z",
-  "updatedAt": "2022-10-11T17:17:01.074Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ABcTPBgTPBcSOxcSOxggSRgjTRgYQRgSOhgUPBgSOwAZL1cYLVQYL1cZIUkaZYgZR24YJ08YLFMZM1oYNl0AGTJbGC9XGidPHn+hHeP8HLLRG0dtGCNLGClSGTVcABtWfBtQdhyFph7c+B3N6x7e9h3P6BxiiBpYfRpRdgAWnK4Ys8kWoLQWk6gXqsEWrsIWoLIVna4VlaYYv9QAIKm/H7HII8TZIsbaIsDUJ8veIcXZIbTJG6/HHsfgABtBaBtFbB9zlyHb9iHd+Cfc9CCtzBxLchtFbBtDagAYNl0YMVgYJ1AbZ4sc3PYco8IaPmUYLlUZOF8ZOmIAGTJZGClRGCVNGCJKGVV5GjJZGCFJGS1VGStTGCVNABcPORgQOhcPOBceRRgrUxgeRxcMNhcQORgRORgROuLbYNtJeEMVAAAAAElFTkSuQmCC",
+  "imageId": "bf131eab-3752-4fb9-83c7-7ebefa592e00",
+  "createdAt": "2022-11-05T21:55:47.345Z",
+  "updatedAt": "2022-11-05T21:55:47.723Z",
   "categoryLocal": "crypto",
   "slug": "the-power-of-blockchain-technology",
   "locale": "en",
@@ -20,85 +20,130 @@
   "relatedArticles": [
     {
       "category": "crypto",
-      "imageSrc": "/articles/bitcoin-private-the-privacy-focused-bitcoin.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACQmJyEjJSAiJhsaHRgYGiEjJyQlKSUmKignLB8fIQAnKS0oKi4sLTE3NzdKRz03NzUvMTUtLzMpKy8lJioANDY6OTpAi4Vz3NGnxLd+ppJZaVtANTc7MDI2KywwADk9RWRfU93PmN7au3VtSZV7PZ+FR09IOjAyOC0uNQBSVGGNgF6ymlCgmmxoYDw+Nh+HczpwZUdERU40NT4Af4OSoZd2ppRPoJpsb2dBMzAcnY9YgnZRJSYqJyktAJGWopWTksq5bcG3dKadZ7Kpc7SnbkQ/MRMWFR4gIQB/goyBgoq7uLDc06Ti2aHEuYpiXUg9P0NcXWNRUlkAeXqAgoSIhn1sycGb3dfEqKKQq6OPc3N1fXuDdHN6AMbFyoyGgdbNwOLczqWZdLSoj87Jv7q2vD08QWppcEYFejvqiwH5AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jul 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWNgZ+fg5OTk5uYREBAQFhYUFhIUERYUFBTk5ePl4uJm4OXjExAQEBcXV1BSMrGwdXH3sHJwVtdQl5WVERYWYRAXF5eTldXS1kmKj1rb6H+u121Xb0xSUryFhYWyshKDkpKSpqa6X2Dw9la/SdEKR+v0ZyUoHp0QFhYVa2FuyqClpWluaZWfnXakzjzAVt3PQTfJW/fOBMeSkmIfP18GDQ11U1PT9LSUaQUe/XEqu6sMp2doL20NycnN8/b2YpCXl9fS0nJ0cirKSdnY7H+602FnZ1BGWnxwSLCZmQmDqKiotLS0mpqKiZmZj39QZFSkb2CovYODgYG+vLw8Aw8PDx8fn4SEhIGBvoW5qZ2drZWlmampiYKCAj8/PwM7GPDy8qqrq2tpaWlpaiqrqOjo6khISLCxsQEAQ+FGQP6qz6AAAAAASUVORK5CYII=",
+      "imageId": "884fc021-0ff4-4082-0353-149547102400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "bitcoin-private-the-privacy-focused-bitcoin",
+      "slug": "monero-the-untraceable-crypto",
       "locale": "en",
-      "title": "Bitcoin Private: The Privacy-Focused Bitcoin",
+      "title": "Monero: The Untraceable Crypto",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Bitcoin has grown from a small network of geeks into the world\\u2019s leading cryptocurrency. With a market capitalization of over $115 billion, Bitcoin has come a long way. But it is not without its problems. The prevalence of centralized exchanges and custodial services, as well as recent price manipulation, have raised serious trust issues among users and potential users of the virtual currency.\nMoreover, with institutions, governments and individuals increasingly recognizing the value of digital tokens, crypto-anarchists are becoming concerned that Bitcoin may not be sufficiently anonymous to protect against intrusion from authorities or intermediaries (e.g., exchanges and data brokers). This has led to an increase in demand for privacy-focused cryptocurrencies\\u2014 known as \\u2018privacy coins\\u2019\\u2014 like ZCash, Dash and Monero.\nThankfully, there is also a solution within this problem: Bitcoin Private (BTCP).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Monero is a privacy-focused cryptocurrency that launched in 2014. Similar to Bitcoin, it is a decentralized digital currency with anonymous users and transactions. But that\\u2019s where the similarities end.\nMonero has one of the largest communities of any cryptocurrency project, with over 16,000 active members on its forum and over 2,000 subscribers on its main Reddit page. These users are not just passive observers; they drive the future development of Monero by voicing their opinions and giving input on new ideas or potential changes to existing ones. This article takes into account all these aspects when explaining why you should consider investing in Monero.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/ethereum-the-new-smart-contract-platform.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKElEQVQYlS3MvUrDQAAA4HsY38XHcHFy0k1wd/EHUUHc3MSCi+ggtQj+VLS1aS/J3eX37nqXpGnSJncxabuJIHzzB3Awth1uOZx4nPjU9hjyBfKFSbhhhQD5wnK4hSl2GQooDhkOJPIFdEUfhQDTiIT/XBoTFjt8Qlhss2gYSMCTLErzcZyJJBvHqUWCJIlEJEOZemwC4ulsVqjP3vfr+4cxghB5y+Wy+Sn1nGYSgiSb5/OSuL6NCSKOaQrH0PViVS9Wql6Bq9v7Vqv11R8eHx5gx+s8Pd/tZzvrj0e73cEoBT3T3drc6Bnw5a3babfPTs4vLx5uro3TbWNvjfzlA0iIxwtVFaqiPII2TablJFdSKqB0U6ha6UbpRleLQtV5WaWzMplqkZa/IAv8m8CACNsAAAAASUVORK5CYII=",
-      "createdAt": "Mon Feb 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJ0lEQVQYlSXBW0vCUAAA4MPOztm57OjOnDnTyFtehpZRoku0Wl6CzFDMtGloFIhRjz30UI+Cvzqo7wOKosB/CEOkqZioGEMIlT8AQqgihAjFXA9YliYE4hwRClUEoQJUhDDjTEozHqtdXbotr+zWIGOYcqgigAnDAWGnkr2H+/l6tfhYuy3PiNpECIQp0LiuBQOZUrEzGvxsN9/bTd+fJJ0C1oVGGCBC6JYlIjv1bnuwmPX9idvyQrFdahiEcUANQw+ZRBoJJ58oOvmTY2JKakouJRECBO2ItRevnjcrzUaj23Yqp5nDUq58JMKWboWAnU1Hs+mb8Wj5vn77+hwun9qDu9nqNZrLhFP7oNz1DmqV3vzxejoer16Gz4tbf9rzp4WzauGi/gua/SzPlsG4yAAAAABJRU5ErkJggg==",
+      "imageId": "05743f77-7c91-4fad-7e3c-8255ef7f7a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "ethereum-the-new-smart-contract-platform",
+      "slug": "iota-the-internet-of-things-crypto",
       "locale": "en",
-      "title": "Ethereum: The New Smart Contract Platform",
+      "title": "Iota: The Internet of Things Crypto",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum is a decentralized computing network built on blockchain technology. It\\u2019s an open source software that operates smart contracts, decentralized apps (DApps), and other programs. Smart contracts are self-executing digital contracts with specific instructions that can be fulfilled when certain conditions are met. These contracts operate on the principles of if this, then that; if not, then this. This makes it so that once the pre-set conditions have been met, the contract will execute automatically without further input from any third party. Ethereum supports Turing complete programming and can execute code in any language because of its instruction sets and virtual machines.\nEthereum has become one of the most popular blockchain networks after Bitcoin because of its support for smart contracts, which make up a huge part of why blockchain technology is so revolutionary. In this article, you\\u2019ll learn more about what Ethereum is and its unique benefits as well as potential challenges it faces going forward in adoption and development.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Internet of Things (IoT) is a network of devices, sensors, software, and services that can connect directly with other devices. IoT technology is everywhere today \\u2013 from your car to your television to even your refrigerator.\nThe IoT is made up of all the connected devices that monitor data such as operational parameters, performance, usage, etc. It allows users to interact with these connected devices through virtual applications or digital user interfaces.\nUsers and businesses can use the internet of things to track the locations of their assets, monitor usage patterns and detect problems before they become serious problems. This article explains why you should invest in Iota and its pros and cons as an investment opportunity.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/how-blockchain-technology-can-help-your-company.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMjIyExKSGxtamloZFZWVnqGkra+0MzW6ZSfrUhISgBZV1NHRkJmY105OTl6gYzBzN3Q2+7P2u3M2eyXorMAS0tIZWNfR0lKmKGuytXm0d7wzNbpkpmno6y9y9jsAF9dWVxeXa+2xNDd79Lf8cLN3nZ9ibC6y8LO477L4ABYVlIvMTW/yNXU4fS8x9iHjpnE0eO8ydt8g5GwvdAAOzs7JSYsLCwukpmljJWizt3vvsveg4yZxtXpy9nwAEBCQ5uhpo+Rkj8+Q9Dd7aSvvouUoc3c8s3c8svZ8gC+w8vX3eTBx8xWWFlMTlLT4vbS4PfN3vPK2/PI2PAA0Njg0trj0trjoaerNzk7YGNr0OH3y9z0ydryx9fxAM3X383X383X38zW3o6SmCgqLHd8hs7e9snZ9MfX8X9PwbK7aBoFAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Apr 03 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABH0lEQVQYlR3BXUvCUAAA0Avb/f7Y3dambjrbwonDEjVmpqCCkpOWSSIEQiBF1EMPPfTUjw86BxiGYZgmRBgiQrlUlmtplwuLMkkIBRAThDHClApt2X6SpHHSOj+/sLTDhQIQEa50pRrWgkjbTtbOmlE8HI6iZqwsBximiQmr1hr5IJ/eTEb55Gm7X8xWzWbiuD4wIaZMOq6/Wm4+3r5+vn8P++PVZd92PKVtgCm3tNtOs9PL++vpczKe77aHXi9n0lb6DGAmMeFhGF0P8qzTPT6fbMfjymbCQoQBIaTvB34lbKWdUT7Osm4r7dQbsefVKtUA1IOw3xtOb2fru/tiUxZFuZgvy3K3KR6L9QOAEJr/GBNCKqk0pZwygRDhQv4Bx50mS0IegTEAAAAASUVORK5CYII=",
+      "imageId": "1936b794-737a-4842-7544-8b24d6856100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "how-blockchain-technology-can-help-your-company",
+      "slug": "cardano-the-third-generation-crypto",
       "locale": "en",
-      "title": "How Blockchain Technology Can Help Your Company",
+      "title": "Cardano: The Third Generation Crypto",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, almost every company is looking for ways to improve their business processes using innovative technologies. In the process, blockchain technology has grown immensely in popularity due to its potential use cases and applications across industries. Blockchain\\u2019s decentralized nature makes it especially useful for businesses that want to keep user data private, verify identities without third parties, or manage records efficiently.\nIf you are considering introducing blockchain technology into your company, keep reading! We have compiled a list of the top 5 reasons why your business should adopt blockchain technology today. You will also learn about the different types of blockchain solutions available and see some examples of how companies are currently implementing this transformative new technology.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cardano is a new decentralized public blockchain and cryptocurrency project. It comes from a team of developers calling themselves the Cardano Foundation, based in Switzerland. Founded in 2015, the project began with an earlier version of the blockchain code named \\u201CC Haskell\\u201D and later changed to \\u201CCardano\\u201D. The inspiration for this name came from the home of leading scientist Galileo, who was born in Italy near the town of cardENDa .\nThe first generation of cryptocurrencies like Bitcoin and Ethereum are mainly based on proof-of-work consensus algorithms. While being able to support transactions and data storage, these blockchains have inherent limitations on how many transactions can be verified per second, as well as how large individual blocks can be before becoming too difficult to process efficiently.\nFurthermore, there are issues with mining centralization that could lead to 51% attacks on smaller coins using PoW consensus algorithms alone.\nThis is why Cardano has introduced a new second generation proof-of-stake (POS) consensus algorithm called Ouroboros that allows miners to also act as transaction validators. This creates a system where no single party can control majority stakeholder voting rights or tamper with transaction histories to double spend their digital assets.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/eos-the-decentralized-operating-system.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAs0lEQVQYlaWMMQqEMBBFcy5vsV7HwvNY2ngAUdDWIhLUQg2YKGgQZDJjisV1d8tt9vG7x/vMne7H2H+aiBAxiiL6cAtEfOs4jj3Pk1ICwK2llE3TaK2v8yAI/IefJIm1FgDc6dq2FUKM43jV0zSFYYiI33OtdV3XSilWVVWaplmWcc77vr/TPM+LoijLknVdJ4QYhsG8cKczxszzvCzLVa/rqpTa9x0AENFaS0QAcBzHtm1Pj8QRgcObs+4AAAAASUVORK5CYII=",
-      "createdAt": "Sat May 16 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA90lEQVQYlS2KQUoDURBEe/Lnd3f1/5PEjBF14UYUTKJZ6MIMIpIwgxAlihEUI4h7L+QJ9A7exY0HkWRSPIoqqshMg2kICAExGrDMMVoNqTLAgADCItvdZiszEalPy7l+uDQtjndeqv1pOcw3N0S8mRKvpCrO8+t0cFPsLe5Ojw53G86bYTmrKjO71FcXg4/F6KHsxwgWEQUpQEkCw3h08nR7OSmGipCyioDViIgOev23efn+WD3Pxu12O/UqCF4DI9Jkdv/z+/f99Tm/Ljp53nAsiH5NRnl3q392ProaQ9HwEMs81rC1yDES5ylxq96snUOLY8dn+T+TsxweL/6PjwAAAABJRU5ErkJggg==",
+      "imageId": "88334771-3bac-4d87-24d0-42a20b8efd00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "eos-the-decentralized-operating-system",
+      "slug": "bitcoin-gold-the-bitcoin-forks",
       "locale": "en",
-      "title": "Eos: The Decentralized Operating System",
+      "title": "Bitcoin Gold: The Bitcoin Forks",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New technology is always built on old foundations, reacting to what came before and building new ideas on top of it.\nEOS is a new blockchain operating system designed with neglected attributes in mind: speed, scalability, and user experience. It\\u2019s the fifth generation of blockchain technology, built to tackle the limitations of previous generations with an end goal of mass adoption.\nEOS is not simply another cryptocurrency\\u2014it\\u2019s a third-generation blockchain that functions as a decentralized operating system, introducing new concepts and mechanics from software development as a service (SaaS) applications like Salesforce or Google Docs. In this article, we explore exactly what that means for you as an EOS token holder and potential investor.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You may have heard of a fork before \\u2014 as in, the idea of a software developer making a copy or \\u201Cfork\\u201D of another program\\u2019s code. In the world of computer programs and coding, it isn\\u2019t uncommon for someone to make a modified version of another person's code with the intention of adding some new feature or fixing problems with the original. For example, one might see an error in another programmer\\u2019s code and fix it to prevent other coders from encountering that problem as well. This is essentially what a fork in programming terms is: Take an old piece of code and make changes to improve it. A fork can happen when developers disagree about how to deal with an issue (which is not uncommon) or if there\\u2019s some other reason that makes them want to branch off from the original source code and go their own separate way.  Moreover, there are many different types of forks beyond just software! In this article we will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin Cash.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/the-future-of-blockchain-technology.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKklEQVQYlU3P30vCQADA8cNDECtF17nN7TbN227ebd7mnMwpYr9WUUHQD7KHCAWLCsmHXgwqeq2X/uMe6qHv6+fpC+C/stksQrUjQxjYl2QLQgh+oVhAQnWtkq7XwlO2m4zmIp7KegiczlinqUpGpH1JZUtRHM304wrZsPeC4RIg1alWGrYY8+Se9+9ag3lAd7ARUecYVz1ASvLETWY0vCL+wu7Mmt0v1k+Rvqy3P8wAPFjBBPOXZu9Cp+80eqsHn2Lz2+k9Ge61yUGnd6KUNSwb2AxJI5IK61WktZyB5+0zloL44FFRbNd0vOGCdWdie1H3Uu7u+ckNCydg6/wV01CWNEltSRVe44csmgaDZy++bYizv+9cLg8hzGQy+TVUlMhqQSuWzfxK+QctJjNpgXxZnAAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Apr 25 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIl5TK+bXdLMi8/CfLifW7iYW6F6PTEkGC4lG49lJgChjEGbi0O5rW3Hv323nU20nVanllN5bkKfh0iylkUAnpBGwrFnj3pHSTscyrhso4g7mH4wwqVOvJxNsZpZAI2CSVlOLxgUE1RPOrqydqyjZrCVTJt4MYRkJ6iDQgCRjVdLQShRSjakpHNwcFFubE6cmWuJeEwUFBYlIRkAgXpVlX1HlYRQq6Z+bWFGY1U9modkuKBrKyQbPDEpAMSze1BDKU1DKr+xdcC5hbWmd8qze3xoP4BiOLGEQgBDOiYNDRQBAgs4MSJmWzlrXj00LR82LyDKsXG8o3EAnZZbubWHdHNjDg0WDg4ZDg4ZFRUfGhcWraiA9/HEAI6EPt7crPDus1dVRBQTGyMiJiEeJBcVHRoYFl5UM1tuenv4OO9bAAAAAElFTkSuQmCC",
+      "imageId": "b3b0411f-e287-408c-2c11-c58f65f4c100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "the-future-of-blockchain-technology",
+      "slug": "bitcoin-the-future-of-money",
       "locale": "en",
-      "title": "The Future of Blockchain Technology",
+      "title": "Bitcoin: The Future of Money?",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of technology is always changing and growing. New ideas, inventions, and innovations are introduced on a regular basis. In today\\u2019s world, you might be wondering what the future holds for blockchain technology.\nMore specifically, where will blockchain go from here? What new implementations of blockchain technologies will we see in the near future? And what effects will these new innovations have on our day-to-day lives? These are all questions that many people are asking right now. Luckily, we have answers! Keep reading to learn more about the future of blockchain technology!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Bitcoin is a digital currency that was first outlined in a white paper published in 2008 and began being traded as an investment option in September 2017. It\\u2019s the first example of a cryptocurrency, an asset that can be easily transferred between users (or \"adapters\") and also has a fixed supply. This means there will only ever be 21 million Bitcoins in existence.\nThe creation of Bitcoin led to the emergence of many other cryptocurrencies (known as altcoins) with their own unique features and uses. As they are essentially software programs, new cryptocurrencies can be created at any time by anyone with the knowledge required to do so. These can range from small changes to major updates like Ethereum's switch from Proof-of-Work to Proof-of-Stake mining.\nThere are a number of factors that could continue to drive demand for Bitcoin, Ethereum, and other cryptocurrencies. Here\\u2019s what you need to know about investing in these assets:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/the-benefits-of-blockchain-technology.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEUlEQVQYlWNgAgNmZmYpMVE+Hl4ImwkGGIQFBUWFRTjZ2PW1tRRkpNlYWIX4BUSEhKHSupoaliYmctIyuhpaMlLSMuISNqamOhrqEDMY5CSlE2LjfLy8/Xx8vdy9wkNCnewdZCWkNFSUBfn4GTTU1EKCgqMiIgL9/P18/AP9/G2trTXk5aK9nKTEREHSpkbG+rq6OppaBnr6epra+upaW2f175jbbaokwWBrZmZuYASxW0FaVllGzsbQaNvk+g2T67VVlRjYWdk42di5OTiNdPVVFZR4OTgNNTSTfd1PzchUEeVjgHiUjYXVUEtHT12dk5WFl41NipfLVU+x2McYJA0HzMzMrGDEzcLCy8KaEBAFAK1tLQ0M5wUeAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Jul 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AL3Ctb3DtrzAtL7Ct77BtsHFub/Ct8HFuMDCtsrNwABab1pAT0BTaFRATkBWbFZGVkdOYFBTZVJWbldseGkAQlVAJTQmOE06JDIkOFA8Nkk0PE42MkY3QFxBYHBdAL2yfLqvd7yve8a6icGzecCqVcSrVL+wbLiuddLIjAC7r3T986fi1Y/WzJT//6++qlWum1L//5mqomauoWIAyb5/9eed3s+OxryK/Oyg2cNpyrls/+6Pwbh6wbd3AK+ZUKuTTcWpWrylXrWaULyYPKKCNLmWQM2yWceuWwCZi1TTwnv/86q5rnncz5Ds04F9bDrNt2z65JOajFgAwa1j0b1y8d6X1suQ4dKS7taCuqZc07lk7NN7yLZyAKqfeaCZeZmVe6GdfpyafpmTeKWbdaOZd5yUdqqhgHjIr1Wt2Z1mAAAAAElFTkSuQmCC",
+      "imageId": "34f80399-8096-4a34-146c-fca5ac27d200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "bitcoin-cash-whats-the-difference",
+      "locale": "en",
+      "title": "Bitcoin Cash: What's the Difference?",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cryptocurrency world is growing fast, and there are so many different digital tokens out there that it's becoming increasingly difficult for a new investor to know where to start.\nNot all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).\nBut which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let\\u2019s take a look at two of the most popular alternative digital currencies and see what sets them apart.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVQYlWNgRgUsLCzMzMxMTEwQLgOyKAMMsLCwsLCyMjExgaRZWFiYmJiYGBmV1DQsHV2l5eQZGBiYmBihuhkYGPj4BVJKqrOq6is6es8/fT9z2RoRUTGoOQwMDMFxSdvO3+mdPT+vtHTu6vV7Tp3rmjIDIV3Z2r1+z/6y6qr9p07NXbxo0YplG3ftYWBghEobWlh39k/YsHXz07dv7z16vGvfXr+wSJA0M1haVFbR0t0vJiUjKTMnNDbBMzpZxdQWZDjEY0xMTGKyCuJK6lxCohqWjjq2rhycXEyMjFBpZmZmRpBZDMwgMRCABAwArmk7keYEMB4AAAAASUVORK5CYII=",
+      "imageId": "de6b6529-24e7-4787-b0a1-105ac901f300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "ripple-the-new-bankers-coin",
+      "locale": "en",
+      "title": "Ripple: The New Banker's Coin",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of cryptocurrency can be pretty overwhelming for newcomers. However, there are many reasons why this digital money is gaining popularity with investors and leading financial institutions. The blockchain-based token economy has the potential to revolutionize the way we handle money and make transactions as a global society.\nIf you have been looking into getting involved in the cryptocurrency market, you may have noticed that there are hundreds - perhaps even thousands - of different coins available. Most of them have weird names, strange logos, and even stranger marketing tactics. It\\u2019s enough to drive anyone mad. But don\\u2019t worry; we\\u2019re here to help get you up to speed on one of the most talked-about cryptocurrencies out there: Ripple (also known as XRP).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVQYlR3JS0rDQBgA4Nl4Ag/jQbyAuPIqblyKuFKEUly4FHRRwSo+kPSJ1Ehqk3aaJpnnn2SSZmYyot/2Q4JXUiiQZQVlDXktZSNkw3nDWEMp+jtRKiiVzBuQOpdbzjVnmhNNE1SAUlBWAK0qKuAqyxwwwxPLYksxqvK8AulK8BfR3nFn/6aXiMTxtabYkhXSwGvBnC5O7192jk52e69dsnIcN3RlSYQsMAPUFTRL8OHl7UHnLi8SxyLLQkN+UAuZlakR8TYNsT+K/UG1/jYsauniv+XGythp/uk9dy/Orq/OJ+8Prk4tmRsSoLbY1DScDZ7C2cd8+jbzHr+GfX/YNzSwJEC2wAaidDkmeCLWU7ocJ3OPLEaaBYYGvxJkCwBUIm0oAAAAAElFTkSuQmCC",
+      "imageId": "2a11f5d2-c684-4994-8ed6-f98acb287a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "nem-the-smart-asset-crypto",
+      "locale": "en",
+      "title": "Nem: The Smart Asset Crypto",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New Economy Movement or NEM is a new blockchain technology that aims to revolutionize the way digital assets are managed and recorded. NEM\\u2019s goal is to build a new economy with new digital asset management principles. Different from other cryptocurrencies like Bitcoin, Ethereum, or Neo \\u2013 which use their blockchains primarily as a payment ledger - the NEM blockchain uses an advanced system of smart contracts CoIN tokens, and atomic swaps to manage almost any kind of commercial property. The scope of its potential applications extends far beyond financial transactions. The non-blockchain application of NEM goes much further than just providing another medium for buying and selling things online. Its developers have also created a \\u201Csmart asset\\u201D system that can be used on almost any business, organization, house, car, boat \\u2013 anything you can think of! Let\\u2019s take a look at what exactly makes this crypto so special...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABI0lEQVQYlWNgYGBgZGRkZmaWlhAXERJkYmRkZGJkYGBgAgMGMWFhSTExVmYWIx0dFXkFRgZGUSEhMRFhqLS+lpaJnp4AH5+MpKSUmDg3B6eFgaGBlhbEVAY5aZnQoJAAHz8/Lx9fL5/I8AhbSyteTm5leUUJMTEGC1OzpPjE8NDwkMDg2OjYjNQMRztHKyODvNhgWQlxBl0tbXtrWxtLa3NjU1sra1sLa2cr6wWt1ZumtujKCDJYGhprKCnz8fLKSUlLiUnwcXG52diu7ypb1VNprKvFwMvNw83JxcHGbqitq6epxcHCoqmonBnqd3lOtrmGLNjTTMwcrGxGOrq66hocrCzcLMz8TEy+JmqFPsZQ78MBCzMzGwsLLxsbAwNDSnAEAOWKLY7/aYXtAAAAAElFTkSuQmCC",
+      "imageId": "9f1bd755-9d4c-4ee6-b4f2-43ace633a200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
       "slug": "the-benefits-of-blockchain-technology",
       "locale": "en",
@@ -110,61 +155,16 @@
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/the-risks-of-blockchain-technology-for-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOLl/eLl++Pm/OTo+9fX45J7isvL2VU+MTgbCAkHBQDj5vzk6Pvh5fbj5/ro7Pzn6vKbkZeSgJqgl5hTMhsA5Of94+f63uLz3+Ty4+f26e3819nkpqKsrZ+xvbnNAOXp/OHl9tbb6dzg77/E0IqNlYOGjomMlN7h6aylswDO0uEkJCZaXGCqrbg3OTtwdHlCREhqbnTY3vHg5vsA3uPxWlxgdHV8hIiNvcLJvcLLw8nSub7KwsbXxcjeALW3xJ+irJSYnZWZn3F1epCTmWBhaFNVWy8xNYaImABydnxrbHJWV1tWV1trbHJ2en+JjJSnqbavs8G+wdUAm56oys/dyM3Z3eLu4ufz4+j04+f25en84+b83+T8AOjs/Ont/ujs/OTp9+Lm9ePn9uXp+uXp/OPm/N/k/HLK0lXal6FkAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5klEQVQYlUWNO4uFMBQG/f+1lYUWgiBYKAQEURQi2AQRwQckUWSLNCJIiogmZnevd/dOd5iPOYZSSkqpteacf73gnGutpZRKKeNx67pijCGEZVlijLdtexZvPY7jvu9d1/V9v+/7MAxvfd+3EGJZFkJIURR5nlNK53k+z/MTxxgzxpIkSdOUMUYI+cSVUkIISumjp2k6jkO++I3rP+77vq5LKfV/GlmWua6bZVkURRBChBAAoKqqOI7rujYAALZt+77vOI7neWEYBkFgmqZlWRBC43rR933btpTSpmkQQhjj8zx/fn8DWq0GkC5LpWgAAAAASUVORK5CYII=",
+      "imageId": "b5c0b3e7-44c7-4cc7-ed66-9330994bbc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "the-risks-of-blockchain-technology-for-business",
+      "slug": "ethereum-classic-the-original-ethereum",
       "locale": "en",
-      "title": "The Risks of Blockchain Technology for Business",
+      "title": "Ethereum Classic: The Original Ethereum",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last decade, there have been numerous new technologies that have emerged to challenge the way we conduct business. One of these is blockchain technology. It\\u2019s a game-changing technology that has the potential to transform everything from finance to supply chains, healthcare, real estate, and even voting. It\\u2019s hard not to get excited about this technology and its potential applications.\nHowever, with any new technology there are risks as well as rewards. The risks of blockchain technology for your business are numerous, but by being aware of them you can ensure that you mitigate any potential downsides and take full advantage of the benefits it offers. Let\\u2019s take a look at some cautionary advice regarding implementing blockchain in your company.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/litecoin-the-silver-to-bitcoins-gold.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADc4MUA/OUpJQFJRSFpaTmFhVWVkWWdmW2pqX2FhVQBCQDpMS0JYV0xiYldubmB+fnCVl4mqrKCpq52pq58ASUg/VVVKZWRZcXFkfX1ttruszdC/ZWddc3RtwsKwAE5ORV9eU29vYX19bY2Pgdnd0+nr31dYU3N0b9HRwwBTU0djY1Z1dWWEhXJzdWvP0Mnd3tc5OjWOj4r29+4AVFRJZmVad3hnhod1Xl1SxMO86OjkR0ZCamllnpyWAFdWS2hoWnp6aoiIdoeFc19cVLm1sOno5Pj38/Px6wBVVUpnZ1l6eGmJh3aWlYGGhHJUUUaZk4rEvLTEvrUAVFRJY2NYdnRnh4V1lZOBoJ+LqqiUiYd4dXNkdHJjAFJPR2BdU3FuYYF/cJCOfZ2ZiKikkayplqyplqemlEyGlNcAm8UHAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jul 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "litecoin-the-silver-to-bitcoins-gold",
-      "locale": "en",
-      "title": "Litecoin: The Silver to Bitcoin's Gold",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`At the time of this writing, there are over 1,300 cryptocurrencies in existence. That might sound like a lot, but it\\u2019s just a drop in the bucket compared to what we will see in future. As we enter into a new age of digital currencies and blockchain technology, we have seen an explosion of new tokens rise up to challenge old favorites like Bitcoin and Ethereum.\nArmed with the knowledge that many industries will inevitably adopt blockchain technology, developers have created their own unique solutions to accelerate adoption of this exciting new technology. While most of these coins are little more than experimental testnets for improving upon existing blockchains like Ethereum \\u2013 others are legitimate competitors to the market leaders.\nRed hot at present is Litecoin \\u2013 an alternative version of Bitcoin with some key differences. Let\\u2019s take a deeper look at how this newer cryptocurrency stacks up against its older brother...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-future-of-blockchain-technology-in-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWNQVVVVUVFRVlZWAgNFRUUlJSVlZWUVFRVVVVUGFRUVJSUleXl5OTk5b2/v/u62pfNn11eX6ujoqKioMCgpKRkZGdVXl589fuDDi0fvX9z/8OzOpxf3Du/dZmVtwbBh1dI3T25/ePng/Yv771/cv3vjwqF9u1ubm2ZMm3Tz4kkGiNp3Lx5eOXdy396d/f39J48ffnLn8vvH11/dOcNw8eTBNatWzJ45Y8qkiWdPHn714Nq7R9feP7ry9sGFN7eOMxxeO3PujAn3r51+9+Dy2/uX3j648PrOqTc3jh1d2lkRZMxgrSR4eu3kl5f3v75+9NW1Iw9PbVrbmRVtKacozCEsLMwgLCysL8HZnug0vyaxM9nVTpFXnB8kISsrq6ysDPKYqKgoLzeXMC8HHw+3qKionJwcPFgAxCOURBrd8JAAAAAASUVORK5CYII=",
-      "createdAt": "Sun Mar 08 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-future-of-blockchain-technology-in-business",
-      "locale": "en",
-      "title": "The Future of Blockchain Technology in Business",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of technology is changing fast, and businesses need to adapt quickly to stay ahead of the curve. New digital solutions are emerging almost every day, from automated artificial intelligence (AI) systems and Internet of Things (IoT) devices to virtual assistants and blockchain technology.\nEvery business needs a strategy for dealing with tech disruption, but that's no easy task. New technologies emerge so quickly that it can be hard to know which ones are worth worrying about, let alone how you would adopt them in your own organization.\nHowever, the success of any business will always come down to its people and processes as much as its technology. The focus of this article isn\\u2019t just on the individual technologies themselves but how they could help your business in the future.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/monero-the-untraceable-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlWNgZ2fn5OTk4eEREBAQERERExMTFRUVFBTk4+Pj4uJi4OXlFRAQkJCQUFFRMTc3d3V1tbK20NTUlJWVFRYWZhAXF5eTk9PV1U2Ki1hd53u41WVbZ3RqYpyVtYWysjKDkpKStra2v7//5kbP6iD1+xPMWiLU93SFhIaGmpubM2hqatra2mZlZZ2q0/e2Ugt20EzyM7g/0TE/P9/f359BTU3N3Nw8Pj5+UbFze7z+sjz9hhj9AzOiU1NTPTw8GOTl5bW1tR0dHYuyEnd1BBxosjvUF5oUFxEaGmxmZsYgKioqLS2tpqZmbWPp5+cTFRUVFOTv5uZiaGgoLy/PwMPDw8/PLyoqqqOjY2ZmZgkC5jo6OoqKigICAgzsYMDFxaWmpqajo6OioqKqqqqhoSEmJsbBwQEABiFFqEMfp48AAAAASUVORK5CYII=",
-      "createdAt": "Thu Jun 16 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "monero-the-untraceable-crypto",
-      "locale": "en",
-      "title": "Monero: The Untraceable Crypto",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Monero is a privacy-focused cryptocurrency that launched in 2014. Similar to Bitcoin, it is a decentralized digital currency with anonymous users and transactions. But that\\u2019s where the similarities end.\nMonero has one of the largest communities of any cryptocurrency project, with over 16,000 active members on its forum and over 2,000 subscribers on its main Reddit page. These users are not just passive observers; they drive the future development of Monero by voicing their opinions and giving input on new ideas or potential changes to existing ones. This article takes into account all these aspects when explaining why you should consider investing in Monero.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum is the world\\u2019s leading blockchain for smart contracts. It brought about a new wave of decentralized applications that no one could have imagined in the early days of cryptocurrency. Ethereum has also proven to be an invaluable source of inspiration for other projects that are trying to build similar platforms with different objectives and features. One such project is Ethereum Classic (ETC). Although it might sound like another version of Ethereum, it is actually a continuation of the original Ethereum software, which was later on referred to as \\u201CETH\\u201D when its token achieved its own market cap and ticker symbol.\nEthereum Classic is essentially the original Ethereum codebase but with unrestricted miner checks, increased gas costs, and general code optimisations. Think of ETC as the anti-ETH; a blockchain that allows developers to deploy applications without any possible malicious interference from miners or anyone else who may control ETH in the future. Below you will find all you need to know about Ethereum Classic, how it differs from \"new\" Ethereum, and how you can buy ETC.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

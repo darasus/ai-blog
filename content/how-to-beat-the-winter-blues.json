@@ -1,9 +1,9 @@
 {
   "category": "life",
-  "imageSrc": "/articles/how-to-beat-the-winter-blues.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AC1BOF1pZVs/NFI6MCUoIiIjHB4fGCwpIUFEPksyLwAJKx9OX1phQzZlUEWukX2GdWtucHJZXGJGSVEnJCkACSsfR09GYUg8cVhKnW9anHtkZm1vY2drb3N4hYqRACEuIz02K1lMRTFlkSdLiBZOmyNvsJ+ttqCttp6qtABnZFprZlpFcI8Iar0VW74IacEHabxskK2jrrOirrUAfGpMgnRbJ3GsBnHGbI+zNnu4BG3CTHWVnpqVrLe7AKu2uaugknl+fxFvvRVnyxZhxRtws5uHdL3EwbW+vQCeoqG4o4yyl3w2daZEbpBJbYhEdJiulXvGy8fCy8oAusbG4eXd4uHZZYKSS2x+QmFyZYSVrqmd3eDY2+LeAO7z7+7z7d3l4GqKm1VygXuOlWyLmqW5vfD27+Ho47fAkDHpROKTAAAAAElFTkSuQmCC",
-  "createdAt": "2021-03-02T23:54:29.730Z",
-  "updatedAt": "2022-10-11T17:14:14.325Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACQ5MF5qZmRHPEs0KiozMR0hGxwbEyslHTtAPE00MQAAIxhOYlxmRz1cRzuxlH6Ld2pbXV9OT1Y/Q04rJCkAACYbSldPaUk9c1I7qXpmnnpnd318bnJ4cXR6gYqRABooHEE3KFdNSjpjhB9NlAxKnTd4rKW0v6i1vqOxugBiXVBtXkpDbo4AaMceXLoIa8YAZb5mi6uorKyfrbUAiH1kjH5nJm6rAG7Mao6wRICzAGfET3GMqqGVrrvCAKKtr66di3Z/fwluvxloySBlwhhus5qMfbzCvbW/wACZn6DCqY+wmX9BeKQ/a5M/bI1NeZelkHrFyMHEzs4Aw87O7vDqz9HLdIyYTmp4Q2FvZ4OSramd4ePZ2uTfAOzy7fL28Nfh3mqJm2J+jHSKklt9kKu/xfj99d/o4sX8kKBd0Z7MAAAAAElFTkSuQmCC",
+  "imageId": "b46c4720-0067-4188-4683-f13348c18300",
+  "createdAt": "2022-11-05T21:48:50.971Z",
+  "updatedAt": "2022-11-05T21:48:51.159Z",
   "categoryLocal": "life",
   "slug": "how-to-beat-the-winter-blues",
   "locale": "en",
@@ -20,55 +20,85 @@
   "relatedArticles": [
     {
       "category": "life",
-      "imageSrc": "/articles/the-future-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlWXKz0vCUADA8ffHdgyCqBA6BSGdQhxJK+pQF0EISzDLyC2aOiWdzunKLd+bNffr+VZ7T6ddojoGn9v3CyboCVNKGAvn8z+EMUypTyPH0UFfOP2fye+BtHugFfZc7x2HeKyrpiY6gf2mNglj/sSCj2dgNKy/3matrgTl0l1m01Rlq3EzjT6QUh1DDegDSRdyw47kBW7pqmhjLJQvX4Y9uSY6xAPQUuWH3ACammFsJHgdQei6Uqe9sr52cV0EmloRChxqi42ekjnJVpq1sech30mmU8n0PrBgCyllXamFLApsy2mLHup1TaNlPK8mtgCh4WwR//haRIyN+qrSqu8eH+4c8dsHHOD4lCBX7alPZhFbxmwZ03iO2WfXNM7z+W92lPkQOJTlLwAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Sep 10 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANnEr9/EqubFpebCnujCnezGn+zDm+7HoPXOpNOneADqyKfIq46uln7Aq5erm4ytpJm/urL8+/X9/vzu1LkA//346efktra2xsbG6unmv7687e3n4eDa6+nl///9ANvSyfTv5vby6uXg2d/b1NbSzffz7O7q5NzY0t3a1QDVzsfv6OH38Ojr5d7i3df28evt6OLx7Obw6uTv6uQA39bN7uXe6uPb3tjS1dHMzsvG0M3J1NHM9/Hp497XAPLo3uXd1Ovj2+DY0cK+uOnj2+7n3tvWz/769fTw7QDYz8fGvrXr5Nzu6OLY1dDs5+Hy593k1MTOtJ/Bn4IA29HI593U386+2MCqxKOGs4ljoG9FmWM3l2A2mmM7AKaAX6h8VoxbMn1KIoFMJY1XMKFqRbF5VLqAXMuRbEuR6CvaB1WGAAAAAElFTkSuQmCC",
+      "imageId": "784813ca-dedd-461d-e54e-233beb2e8400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "the-future-of-mediation",
+      "slug": "10-easy-ways-to-make-your-home-more-energy-efficient",
       "locale": "en",
-      "title": "The Future of Mediation",
+      "title": "10 Easy Ways to Make Your Home More Energy Efficient",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Mediation is a process that helps people resolve conflicts and find solutions to difficult problems. It\\u2019t not the same thing as arbitration or negotiation. Mediation is a voluntary process in which a neutral third party, the mediator, assists others in exploring issues, managing conflict, and solving problems in an effort to resolve conflict and move forward. The parties involved in the dispute remain control over their own destiny at all times. They are free to walk away from mediation at any time with no consequence. The goal of mediation is not compromise but resolution. It\\u2019t win-win or lose-lose but instead find a place somewhere between those two extremes where both parties can feel satisfied with the outcome of their dispute.  Mediation services are often provided by private organizations such as nonprofit community mediation centers or faith-based centers that offer these services pro bono publico, which means \\u201Cfor the good of the public\\u201D without charge.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As the cost of living continues to rise, it\\u2019s more important than ever for Americans to find ways to save money and stay within a budget. After all, no one wants to feel like they\\u2019re drowning in bills every month.\nTo that end, everyone could probably stand to tighten their belts a little bit when it comes to their day-to-day expenses; after all, there are several small things we can do on a daily basis that will collectively add up and help us save money in the long run. In this blog post, we\\u2019ll cover everything you need to know about energy efficiency at home and how you can start saving money by making your house more efficient today!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-get-out-of-a-style-rut.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKyprLCur7OusLKtr7Krq7+XhJ53YHNaSV5ZW2FeYQCzsLO4s7S5tLa5srK8sq6+lXyIYE6FalZPSkxKR0gAt7W2vLe5vLe5v7Sxz7mqr4dyhVtFt5p7U0ZBS0dIALq3uL25usC5ubdGRbZeWKRrXIheR6B3XI9HQExFRQC7uLm/urvBu7u+VVa3Z112PjiRZ1GQZExmGh9OQkQAu7i5wLu9wbu7qEVJu3BiVCEekEk/illFaR0gTURFALu2uL+6u8e+vL93b4kjKj8MEIMqKptEPV0aHkxFRQC5tLa8t7m/uLjFoZugXVSog22jQ0GCISdOKSxIQ0MAs66wubS2vba2wJCSqDE3mikvcRshTxEWSicqRkFAAKypqrOusLeys9XDwtKZmLJiZIU5Pm0qL1QvMkM+QNwGlV5vCEhdAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jan 09 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOPm49Th55G/7I666sLW4uHt8LnEzjtCViYoOSQlNQC0t+2nr/qBjNDL0dTH3u2qxdVmbXgVFiUpKzsYFyEAfIH/nqT/xsz++v//1Ob0ttTlSE1VEg8VIiIqFRQZAMjR2MHJy6+3uVxgZYaNlMrk8nV+ih4bIhYUGhUTGQBbX2V8g4ybpK6Sm6PFztfT6veyyNg7PEYPDBEXFRsAztfgeoOKe4OKnKav3Onzz7y7w6GaYF5lGxohGhgeAN7o8Z6ospKbpJWep7vI1q+PibmMeYqBgiYpMxQQFACsyeSBhIqKlZ+Xoaq8yde5vsqpf2KZf3FbXWoZFhsAirzq0tfc0uHv3Oj12OXzzNLlw66pt56MR2GAHyAoAIG36Obu99Xg677K0ruvsM6ShaeIjVKVyFOU0ERXcUH8rAYA7gZ/AAAAAElFTkSuQmCC",
+      "imageId": "61c4c06b-27b8-460c-bf45-3780fd1ce100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-get-out-of-a-style-rut",
+      "slug": "how-to-stay-organized-and-sane-as-a-busy-mom",
       "locale": "en",
-      "title": "How to Get Out of a Style Rut",
+      "title": "How to Stay Organized and Sane as a Busy Mom",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The risk of falling into a style rut is something we all have to deal with from time to time. It happens to even the most confident and daring of people, so you\\u2019re certainly not alone if you feel like your style is stagnating and you can\\u2019t think of anything new or exciting to wear. Whether it\\u2019s because you haven\\u2019t found a new piece of clothing that excites you in months, or because you just don\\u2019t know what to wear after wearing variations on the same theme for several weeks in a row, everyone gets stuck in a rut now and again. Thankfully there are ways to get out of it and discover a new lease on your personal style once again.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you\\u2019re a busy mom. It\\u2019s challenging and tiring, but also rewarding and exciting.\nIf you\\u2019re reading this article, it means you are willing to go the extra mile to make sure things run smoothly as a busy mom. After all, being organized is the key to sanity.\nBeing organized doesn\\u2019t mean that everything has to be perfect and in its place all the time; it just means being intentional about keeping things tidy and streamlined so that you have fewer distractions and can get more done in less time. You see, staying organized isn\\u2019t about checking off boxes on an organizational checklist for your home or sharing with friends on social media; it\\u2019s about streamlining daily routines so that you have more time for what matters most.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/what-are-the-benefits-of-mediation-for-families.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMW5vczDxtPKzdfN0KGIfJx9ZaSNgdjO0tTLzs3BxQDFs7DWzM/b0tXf19rRw8O5opbUxsff19rCsa5lSjwAtJSG4NHN4NjbsZ6Xo4Fx5N/h497g4t3et6SdRzAjAJVnXc+up+Pc3qyFecegkubh4+bh4+Tf4d3W2WJEOgCMb33QtKvUvb6gc3KihYHi0M/i19LazMXf1teYm6EAiXyR07ytsnx6onuIp7fdtpaXuaigy7Opzru0T259AGVZasm1srh8fp9kbZh2gXNRT9W6qsGqnpiUkxRSawBeUmGXiZmtfnqTWl1tcJawionKtaqznpU4WWVPfY0ANy82XVFgi36VpY2Tm4N7qYV0k3BcYXB4Vk1HlXVmADozQTIsNUdFXEdDWUxLZKN8bltNTxIhME07NnpaTH5LsoIQNwsmAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 15 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AO/+/+nP1eF0euepr+agpeWRluWWnOSLkeemq+zs6wDY5uHke4TVISncVl7w7PD1///tx8jhaGjidnbq2NgAs5CB2RMe20JH0xEV5ZWY9fv/3UxK4VRT4ERD4Hd3AKV1adYbItc0O9QOFe+usvz//+JfXt9RUOBLSeODgwCtoouzblnkSk7ZfoLh5ebj6uzjurvhamrjeXnq2twAYGI/ZHJQoszDrcHAwL29pqmpqa2t2rS78OPo7fb3AEVKJSmAchGKfTuajt/u6/z7+9pjZ9MWHtguNee+wQBRf1cxpJlUqp8jkYSc19H/3+HVISfgWF7aKzLea3EAZm47HIt4E5WKI5OFx+Hh/PL32UFI1hEY1hkf456kADEwEXNMPVd7YJaoh9jOzenw/eLP2dt6guKfpufh5V2JuUSAtOoXAAAAAElFTkSuQmCC",
+      "imageId": "aa28aa28-b112-40d2-08b3-e135ad98e100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "what-are-the-benefits-of-mediation-for-families",
+      "slug": "5-ways-to-reduce-stress-during-the-holiday-season",
       "locale": "en",
-      "title": "What Are the Benefits of Mediation for Families?",
+      "title": "5 Ways to Reduce Stress during the Holiday Season",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is an alternative dispute resolution process. It\\u2019s a way of resolving disputes that is less adversarial than litigation and usually cheaper, faster, and more private than other methods. Mediation is also collaborative as well as neutral. The mediator acts as a neutral party who helps the parties attempt to resolve their dispute in a fair and equitable manner.\nIn mediation, both parties together with their respective attorneys choose from various options to settle the case outside of court. The goal of mediation is to find solutions that are agreeable to both parties. It\\u2019s about finding win-win solutions instead of win-lose outcomes. It\\u2019s about exploring solutions that may not have been considered had the parties not been under the guidance of a mediator who has no stake in either outcome of the dispute other than seeing it resolved amicably and fairly so that everyone walks away feeling like they have gained something from it rather than having given up something they would rather have kept.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The holidays can bring stress in abundance. There\\u2019s shopping, traveling and entertaining to consider. And that\\u2019s before you even get to the season itself.\nThe holiday season is packed with wonderful traditions like parties and family get-togethers. But it also brings its fair share of stressors, from spending time with extended relatives that you only see once a year to buying gifts for all those people and throwing together an elaborate party that your guests will talk about for years to come.\nFortunately, there are some things you can do to make the season less stressful. Stress is a natural response when we feel like our safety is threatened or our personal space has been invaded. When it comes to the holiday season, however, just about everything invokes stress as a response. So if you want to reduce the stress of this festive time of year, here are five ways you can do so:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/5-ways-to-save-money-as-a-college-student.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANWITtqLT+zCnvHNru25jeGjcevBne/Ps+3Dn+OiZgDUh03UhUz25dv68eL8+vbt2s7179/l49bgzL7bjVgAwHlGxn1K+vbx+e/c/f395MOu8PHh5Obc3sm80YVWAMCOcc2bft+8pejQv/Pv6t/Mt+DQwdqzl923m9uukADb4uDf5OD18/GwuKWMxLyIwrqcysTl0sbm69rk6dUA7PDl7fHn8Ornu7iwj7S8n77EkLO81cW67/Dp6+/iAM6LXcSQcNiultq7qtXDtdPDtuDY0tu6o9y8otWfcgDNgUvWtpzb4tbg59nn4tTCpY+vv8Cxvr65xcXSoHYAs2084NTK2uDV0drO4MvAvJ6GucXFq7i7usPCx5h1AIxTK5prS66LdMGtnbKPeZ9wTrWMca2CZaaBaZZnRcZu27WuPlYUAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Sep 05 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlR3QTU+CYBwA8OfT9VU6tC7eqmt16VCHam51qIwsUlOrZUpZMtJNGr5mL+pkmAIShIgoPM/zb+v3EX5oPqWyqLbf633lAwAIIZQCgGkPrvSmisI7W8xqMsOmqpV73/cJwQQAW2X+ZilzcYyWVxYSZ+zIIgalnfH8zSbl3ne/Jq+FFqPJbXQU25h4Zk0eso/Fy4IYTmTOuaee2N7bXI/FGbQfCX3Kr+VmZzfCcvUO81CM5YVq/lUSpJJYQKLQAICvoXUYv41meYYTTq6ztu143qQrK+g5XwQA1fErA7s1xo3foNTTtJGBA/c0bSP+Lqt0u8YMGqYvaa6ou3xP1w3NsGgqN0K5gziXSlsYmobX+pm2TK+u2u50/CJNlIGD5rMZAASY+JgEmBBC4P/FcTGl5A8jf/u1uvwYeQAAAABJRU5ErkJggg==",
+      "imageId": "c928318f-f7b0-44b7-e7f4-96f795150600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "the-ultimate-guide-to-spring-cleaning-your-home",
+      "locale": "en",
+      "title": "The Ultimate Guide to Spring Cleaning Your Home",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Home cleaning in spring is the best time to thoroughly clean your home. As the weather gets warmer, so does our house. Dirt and grime that has accumulated over the long winter months begins to dissipate as we put away all of our heavy coats, hats, and gloves. With fewer layers to trap it, dust, germs, and other nasty particles are exposed for what they really are: gross!\nWe all know that a tidy home is a happy one. Keeping a tidy household at all times can be challenging. The pressures of work and other responsibilities often get in the way of keeping things clean and organized. But with some preparation and planning you can make spring home cleaning your primary focus instead of an afterthought. Here\\u2019s how\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACEZEykaFSITECASDSITDSUUDSkXDxcJBZ1xUZavcQCko5uDpJF1mYV3m4d2mYV5moR7nIV3mYGUrpCOuZUA2efbEKF0AZtsAptrAJlpAJdnAJlpAJhnAJRlAZVpAMrZywmVaQCQYx+edzmphjWngyWhejeohSijfACSZADI2MsHlmoAkGI3q4Zvw6livaBXuJp0xas7rIkAkmQAxtzQApRnAJJlG551RLGOR7GPTLSTQK6MDphtAJJlALGulACQYgmVaVy6nXXGrUKvjWS+oWrBplO2lwCQYgBCNxwAlWcBlGcIl2sLmG0IlWoHlmkLlmsIlWkAkWMAXFozFJRiFZFiE5dqEphsFJluE5luDppuDp1vEpxxAGlJKFqFY2qdf3mwn32vnX+oln6mlI+fio+Tf42Wg1lwf1f2tDo8AAAAAElFTkSuQmCC",
+      "imageId": "c8741de8-1db3-4d07-15c9-37aef4d8b700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "5-ways-to-cut-down-on-screen-time",
+      "locale": "en",
+      "title": "5 Ways to Cut down on Screen Time",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The digital age has brought with it a whole host of new issues that parents need to navigate. From concerns over online safety to the amount of time kids spend looking at screens, digital parenting presents its own unique set of challenges.\nAs technology continues to advance, so do the ways in which our kids can interact with it. From tablets and smart TVs to smartphones and video games, it seems as though there are more screens than ever before. This is especially true for younger children who have grown up with these devices as a normal part of their everyday life.\nThe pros and cons of screen time for kids can be debated endlessly but at the end of the day, your child will likely spend a lot of their time consuming some form of media in one way or another. As their parent, it\\u2019s important that you understand the benefits and risks associated with screen time so that you can make informed decisions about how much exposure they receive on a regular basis.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANWJT9eHSe3CnvTWvOy1iOKjc+vFpO/RtenBnuOiZADWi1HXh0335tn9/vb79/Du4Nr48+Po7eXh0cjdi1EAvG86xHpJ9ene//nq+vDp7Mm39/Dd4uTa2r+x0HdDALiIb8mdhuG7o9/PveLm4NDFsNPQwd29pNu1mNqtjQDe5eHm8/H16uStt6eWy8iazMeaw7zf0sfv9uvk79oA7O3h6ufa6dDBwr66ncPPosDIlrC118G37unf6OTUAM+NY8yeg9u3n9q/q9DFuMi/tNfV0N6+p+HFsNqqhADKdjjRsZfk8+/c4dXl0bnLqpOqv8OoubvA0dTSnnQAr2s73tLG4+3n4vHv2MKxvZ6HvM/Vqri5xdLUzJ9/AItRLJ1uT6yLcci4pq+NdpppSL6WfLGFaqeFbpdpSQJR3Mcd88NkAAAAAElFTkSuQmCC",
+      "imageId": "0816041c-2e97-4872-c1e7-f1a54663c100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
       "slug": "5-ways-to-save-money-as-a-college-student",
       "locale": "en",
@@ -80,91 +110,61 @@
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-make-your-resolution-to-get-fit-a-reality.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlWOY0VNXU5ZbVZRenZ+ckL/AtvCRkPV8cUF1K31lHwczhpm99dUVec3l2aU5iQlJaRYxG9il4kUERS301EDSc/rqqiqKEpLyI4LDo8N8gvMX88oGK8tLuloZBTpbMUzrrUuu3W+Wd41FMVNGWsE7dSa/fKiyrARI2smGYXpfY15Zl1bwFm5JX2lNFwXP1RzqdXISyi4WevE+TgyzJzXXVBdFFi5TkDdRc2m2K30i47tdR87S1UQr3ceRYfbU9tqa4tiytepqtl6eTqHhmYE+0S42FnbG2gGWugxLZvc0N1WGZi+TlLVTUZCO8XYsjwsKcHMwt7Gy01ZiWDhnQkrFUrvUo0L65eLiylE+jomh3pbWVu7WRjFedgwL5k+paJ6cWrvBNaImKSbc19NVXlHR19EyMcAlytMRABWJZNHa+xjgAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jun 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlQXBa0+CUAAA0PvP67ubbbUytbKWE6jYTPLVZGxq6abmIocsecsbMQwU5dHtHLDjq6FAhGJ1L+IHuRYp9VitJ3o9scjE6YNIIWKtlZhkbHUj9yPasMlOgekKpl6aBCDdynFoJ7EPYQThH4TwcAgXC05Xl/MZDbbBJo72vu/xvDAYTFotUpakCkpkMnmyQ4Gj4yyGEYUicn5xPxrTV9eoIMp+EOiGOWfmoPrcXK9XkqRwvCzKy5vSY+kOR1Aie1I8Oy2AXB5DsJdcAZVV4zJfLldqVJ8eThbIE9Umh4Bov98+UI3uNzmycHLZfLNfh06jpzV7egXvAc7YkFO3M7b6nwbN2YzgSOaP5v7qjue4HphyOi0arGazqs0oFqPYM8n6Es0Zb7Cc+g+vEPaPZGvEEgAAAABJRU5ErkJggg==",
+      "imageId": "e6c37b1c-f59c-4708-4596-dab6cb87f900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "how-to-get-through-a-break-up",
+      "locale": "en",
+      "title": "How to Get through a Break-Up",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows break-ups are tough. Even if you know the relationship is ending, the final moments can still be filled with pain and heartbreak. However, a breakup doesn\\u2019t need to be final in every sense of the word. In time, you will recover from your failed relationship and move on with your life. Here are some effective ways to make this happen sooner rather than later.\nIf you\\u2019ve recently broken up with your partner or dating partner, it can feel like the end of the world. But it\\u2019s not! A relationship coming to an end does not mean there is something wrong with you or that you aren\\u2019t good enough for anyone or that you will never find love again. Your heart is broken at this moment because you cared deeply about this person - now you just have to understand why and how things went south so that it doesn\\u2019t happen again in your future relationships`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKuprLCusLSwsbKtrbaursGaiZ10XHFZSF1ZW19dYACysLO3tLW6tba1s7XCt7W3inSQZU+JcF1GQkRKSEkAt7W2vLi6vbi5vbCty7Wlr4hxlmxUr5N2V05FSkhJALq3uL67vMK1trZNTrhiWJ9nWoVaRK2AY4ZDPUtDQwC8ubq/u7zFvby2Sk+6ZlxzQDmOYUyaa1JgDxhOQEEAu7i5wLu8wru7rUtQt2hbXCclhUQ6kGFJZh4iSz9AALu4uL23ucjEwsR6c4EaIEUTFowzMqJIP14eIktBQgC4tba9uLm/u7vIpJ+YU0uee2emR0V7FB5OKSxGRkUAs7CwubO0vL29vIqMrSkumiovcRwhUAwSSSYpRURDAKuprLSvsLWxs9XCwNeamrRgY4c5Pm0oLFQwM0NCQfXwlWTeM8h/AAAAAElFTkSuQmCC",
+      "imageId": "9347ae28-743f-4f97-d313-267a0fc80300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "how-to-get-out-of-a-style-rut",
+      "locale": "en",
+      "title": "How to Get Out of a Style Rut",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The risk of falling into a style rut is something we all have to deal with from time to time. It happens to even the most confident and daring of people, so you\\u2019re certainly not alone if you feel like your style is stagnating and you can\\u2019t think of anything new or exciting to wear. Whether it\\u2019s because you haven\\u2019t found a new piece of clothing that excites you in months, or because you just don\\u2019t know what to wear after wearing variations on the same theme for several weeks in a row, everyone gets stuck in a rut now and again. Thankfully there are ways to get out of it and discover a new lease on your personal style once again.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlRXQ3UrCUAAA4POu3fcEBV0FXiURdBOBZtqqQYLYKIaaGjZrmfjbbHMu53aOOz/uT93SEL4n+ACcoclwjBCmmFIH0/mc2bYHd1zTAEq+LhdE9WvgLjyKyQJipuj+DHpTY3B5ApTbUuM42U1eUd1i/lLludL+3mc66zqwenwIeufX00xREyvEhkEYd3OZ98SRJj6Fq7BTTIE+d88gcTST9iYRC+0ftcWlUF/abrdUqQKrp0YmW6qoxhf1Vj+wLYk71Z7T65XffcgCuzkaVmUhx38IFTLSl8i23vJqmR+3pXriAJTvCvLjy6z9HZhOuGDrzQYNJFMWjaZQuzgDZPAbmjigjGLi+34U/3nQoHpnLhesRg4wCxEHU7I78Vw3iuNV4MF22Xq9YR3hH0O1/Qh9d/D7AAAAAElFTkSuQmCC",
+      "imageId": "7509a9a5-8250-463c-406f-d6f490876d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "how-to-make-time-for-your-hobbies",
+      "locale": "en",
+      "title": "How to Make Time for Your Hobbies",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you love something, it feels like there\\u2019s not enough time in the day to do everything you want to do. But at the same time, when you don\\u2019t have anything that fills your days with joy and meaning, it feels like there are not enough hours in a week. Many people struggle with finding time for their hobbies. They either feel too busy or believe that they simply don\\u2019t have the opportunities to pursue something they enjoy. This feeling is understandable\\u2014because most people lead incredibly busy lives. Work, school, family, friends, and other obligations take up a lot of time and energy. So how can you carve out some time for your hobbies? It might seem impossible right now\\u2014but trust us, it\\u2019s possible! Even if your schedule feels full beyond measure right now, there are always little cracks of space that can grow and expand into larger windows of opportunity.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJiMfnt3b3dxaoFvWGRxoTFu8ww2oBYMHjkuIE1BOACajoB9eW6Dd2eCc2FfX2IzXboKImwSDAs6MCdOQTcAnI9+eXl1YmZ2WVRYYFQ7VXKqDyNgIxoJRj85UkM6AJmMd2Z9uyJl4wAfbSAVC0VinBIkYR8YCElAOlJDOwCZj31weosrVbsLGU0aJDoiT7URLYMdFBpBNixjTkQAmZKDgX1pVm2kIx4vM0p8LnT5HEy5Khs1QjQnbVBEAJqUhoJ/cFp1rygrS01IO1pedUpKXz84NjwzLE44LACjm4yHgnJLYJwXHUghHBBhTTqEZE9STEQrMjM8KR4App+JZ3qmNGXZByV0EhEaWko+Y1dRMzg3Rz00Y01BAKKfkXqFl2iEvkZYfWRcVk9KRR8iIkg/OGJSRV5NQieMZOh9pr+bAAAAAElFTkSuQmCC",
+      "imageId": "c2c51f14-73dc-45fa-54fc-67890e4c2000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
       "slug": "how-to-make-your-resolution-to-get-fit-a-reality",
       "locale": "en",
       "title": "How to Make Your Resolution to Get Fit a Reality",
       "intro": {
         "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Resolutions are challenging. They require sustained effort, willpower and courage to see them through. The fact that so few resolutions are kept shows how hard it is for most of us to take that first step and put our intentions into action.\nWe live in a world filled with temptations at every corner. Even if you don\\u2019t like going out or meeting new people, there are endless opportunities online, which makes staying in shape even harder. Keeping fit is not an easy task in this modern world but it doesn\\u2019t mean it is impossible! You just need to find the right motivation to get started and keep going.\nA lot of people give up on their New Year\\u2019s resolutions before they even begin, because they don\\u2019t have a plan of action and fail to consider what will keep them motivated along the way. Let us take a look at how you can make your resolution work:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/the-disadvantages-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHUlEQVQYlU3KwU+CUACA8fentjg1L3Jh48jF1sHJ7MDcu1BrysGtDYmlRW+gSEoQBcqo1lrKoCdQ+tLq1qnmt9/xA89TG2eLdIExxt6d27s4f5m94r/APLIJIavVJyEkjmMoHO7t7tQO9ntqJ5z4IJs/drtdhPQwjIbD6+WSFPnHbBab/UHz+Ais8lwURZ7naZoul8sQQoZh6vV6q9mSJAmkCX6InjzPs23bdb3JJLSska7rCCFN04Dj3JZKpWq1SlEUx3EQwna7LQgCy7KVSgVkWWFZI4SQqqqKopim2emcGYbRaDRkWQZfm59tm/X3NkDIusiy97xI5oljuwYy0vjt/waaPtD6pnp5dXIqq0gf+4EbhDf3geNPx37wC9Ba6Y7VjkfTAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Dec 23 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "the-disadvantages-of-mediation",
-      "locale": "en",
-      "title": "The Disadvantages of Mediation",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is often considered a win-win solution for parties in a dispute. It\\u2019ll help you find common ground, give you the opportunity to resolve your issues and steer clear of the high cost and time consumption of going to court. Sounds like a perfect solution, right? Well, nothing is perfect \\u2014 even mediation. While it does have many benefits, there are also some drawbacks that you should consider carefully before deciding whether or not to go ahead with mediation.\nThere are pros and cons to any decision we make in life. Weighing up all the pros and cons of mediation will help you determine if the potential benefits outweigh the potential downsides of this dispute resolution technique.\nKeeping in mind what might go wrong at mediation can help you identify weaknesses in your case and prepare accordingly. After reading this article, if you feel more confident about proceeding with mediation as your first course of action, we suggest having an attorney review your documents before signing on the dotted line.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/the-top-10-greatest-cat-moments-in-history.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGqFbAQPBAYMBRYtD0JePWB2WiVGFCFCDiw7Fpc+FQAlMxMCCgNZLhKWUyNQQCNIQyUhIxIDBgNQPx6ILRAARC8UChAFLxgJ4lIcyUwijFY5eF1Cblw+tpNfmXRKAFBoCitOAxIiA482C7tML8ycaJdpNoRTIdOjb9/EpgBXby4xVQ4wXARnXQ96PyDXtZPGj1ujdDuXeVU/OyoA4dyy7eTF4dzHu7SboHhMfWZOUTkjmXFDtpBtXk01ACd3E0+JL9TTotjYrKCUX4BRLGRCJ5xoONGERdKaaQAeXQ8reBhDhyc3hyQzgx9oUCGGWjOJVjCCPx+2moMAa3w9bIpDfpNOaH49QFwiQEUxV01Dd19KXi8dfWxUAO/PpvXPo/nRofDAisOaYVlSOzAvKxIRCi8pF1pNLd6XbOUGQeu2AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jul 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "the-top-10-greatest-cat-moments-in-history",
-      "locale": "en",
-      "title": "The Top 10 Greatest Cat Moments in History",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you think your cat is cute, and that\\u2019s a wonderful thing. After all, cats are fluffy and adorable creatures who also happen to be natural stress relievers. But do you think your cat is cute enough to make it into the history books? Probably not. Sorry to burst your bubble, but even the cutest cat in the world would struggle to compete with some of these feline friends when it comes to making an impact on human history...\nCats have been a constant companion of humans for thousands of years. They\\u2019re enigmatic creatures with a reputation for being aloof and independent; they don\\u2019t ask for much and they keep very little as repayment. But cats demand something intangible from their owners: companionship. As a result, there are many famous cats in history whose exploits have become the stuff of legend\\u2026`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-to-mediate-effectively.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCklEQVQYlW3Ju0rDUByA8fNizr6Cb2FJwdKiggji4GJdRBxcrCUZ2m7JEhJSMJolRJPUeqPNhZ6ceHJrEpPwBwcXhX7j90NV1fQv4l4v3G2Rzl5weLBi2qTbJW2GCHyGlk7NcSnLJqNRJvDZeJIO7+LxJFWmRV3XSFOx9UyDoLy++rq9wewAC3ziOsXjfaBOV6iqGoJz3/v23HIhK9IpM9MsACA4T+ISOcv07TXy/TUArH1XOdpR+y1vgWdW/PGeItdN5i/U83IAoKauX3bk/S3yaRl6aD6FCP7UVKU5PNOOt11d/D3/GACKmMwHJw/ceRRFGxgAUkoM05BkkVK6gT3fsW3bMHRJFn8Aawz/aCZE96gAAAAASUVORK5CYII=",
-      "createdAt": "Sun Dec 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "how-to-mediate-effectively",
-      "locale": "en",
-      "title": "How to Mediate Effectively",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is becoming more and more commonplace as a resolution technique for conflict. In fact, numerous experts see mediation as the future of dispute resolution. It\\u2019s no wonder, then, that businesses are taking note and incorporating mediation into their organizational culture as a preemptive measure against possible legal action.\nMediation is a collaborative negotiation process with a neutral third party known as a mediator who helps individuals or parties in conflict reach an agreement that's fair to all involved. Mediators do not take sides; they do not give advice; and they don\\u2019t recommend what a person should do. Instead, the mediator facilitates communication between two or more parties by encouraging them to share their ideas and feelings honestly and constructively.\nMediation can be used at any stage of conflict -- before litigation begins or during settlement discussions after lawsuit is filed. If you\\u2019re considering implementing mediation in your organization, here are some helpful tips on how to effectively mediate an employee dispute:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-to-deal-with-a-partner-whos-always-on-social-media.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHgvP310+rf08SYZ+vNpaN8YmlWTzsyMmtgXca1pAD058f58tWng2TGooPEn4mXcGKWf3eJc3i+yuTUz9AA9unJ8+bGt4xrzbGkzresnpmobGl+hpzJqrna3OHtAPnt0eXPorKIZruik2hQRqaTiZGgxJagwbnD28PV8QB5dFi5kFi8mHtvYVhgRze9lm+tp7C0ssHd5PHF2PEARUo9spVdknthhm9VVUAze3Fr1tvp3uDr1OP3xNHjAC80MEZSV1NXUXt4biM3Ry46SK6zy8fX8cDW88jFyABTSDm9mo3Zv7a6sKosPkwtQ2KFl8Gzx+m80vLHvroAf15JYlZYcG5vhH17u6ykSWuUl6zUrMHlr8bsxbWkAElLSx4uOyo8SCE0QjA/UVV0opOu2qC64a3H7OXj3YZPs3QZaxxqAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "how-to-deal-with-a-partner-whos-always-on-social-media",
-      "locale": "en",
-      "title": "How to Deal with a Partner Who's Always on Social Media",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`According to recent analysis by Statista, the average millennial spends almost one hour every day on social media. That\\u2019s not just posting pictures and updating our profiles, but also lurking on other people\\u2019s profiles. The rise of dating apps like Tinder, Bumble, and Happn has only hastened this tendency. In fact, an article in Fast Company suggests that millennials are so preoccupied with online dating that they now spend more time on it than on any other leisure activity besides watching TV or listening to music.\nOn top of all this, many couples now meet their partners online \\u2013 a third of marriages in the U.S. start with either partner meeting their future spouse through an online dating site or app. While it\\u2019s easy to feel pressured into signing up for these services if you don\\u2019t have friends who are single and looking for love, being in a relationship with someone who does use them regularly can be challenging at times.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/5-ways-to-make-your-mornings-easier.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANrd56ylqo6OjJKRlKifotDLz+bt+uLl7bW3u6atuADl6/THvcCvl5GznJu2qKrW1drn8P31+fz6/P7g3+IA09bgsaqsrpSNr5eRtqel0tbb0t7q0drl093n3ubsANXb6b20s5qOhJiKgaWfm9ff58XN1sW8vcWpnMq1qgCxlYrIw8XEs6fDtarX2N/By9a4kH2qbU3ft5PZqogAY1RLcF1WqJaKzcjH3eTxm5+ktI59pWFConNVw5l5AFphU3huZn9uZs7P19Lf76GjqauQgqycnaqXkqOWlgBkbV9ydmnGxMXY3+3N2Oicmpt8bmyTem6tkoSjkIcAiomCiJCJ1t/v2uPyztfmubCup6SnnY2Jn4uGpZ+fAMnIz83N1uDn99rj8tPX6MW+vrmuq7SpprOopby1tcMB0MGAAS4AAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Aug 07 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "5-ways-to-make-your-mornings-easier",
-      "locale": "en",
-      "title": "5 Ways to Make Your Mornings Easier",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You know those people who seem to get out of bed with ease every morning? You know, the people that you see on Instagram and wonder how they\\u2019re so happy so early in the day? Well, we hate to break it to you but those people have their own set of problems. Getting up after a long night is hard for them too; the only difference is that their solutions work.\nThese people have their own rituals and habits when it comes to waking up in the morning. If these folks can do it then why can\\u2019t we? It\\u2019s because some of us are too comfortable, which means we need to shake things up! Do you want to be one of those people who gets out of bed with ease and has a productive day ahead of them? In this blog post, we\\u2019ll tell you 5 ways you can make your mornings easier.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -10,6 +10,7 @@ import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
 import { useTranslations } from '../../hooks/useTranslations'
 import { baseProductionUrl } from '../../constants'
 import { Divider } from '../../components/Divider'
+import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
 
 interface Props extends PageInfo {
   post: Post
@@ -25,12 +26,26 @@ export default function Home({ post }: Props) {
         title={title}
         description={`${summary.slice(0, 157).trim()}...`}
         imageSrc={encodeURI(
-          `${baseProductionUrl}/api/og?title=${title}&category=${post.category}&imageSrc=${baseProductionUrl}${post.imageSrc}`
+          `${baseProductionUrl}/api/og?title=${title}&category=${
+            post.category
+          }&imageSrc=${cloudflareLoader({
+            src: post.imageId,
+            width: 1000,
+            quality: 75,
+          })}`
         )}
         slug={slug}
         structured={{
-          ...(post.imageSrc
-            ? { image: [`https://www.theaipaper.com${post.imageSrc}`] }
+          ...(post.imageId
+            ? {
+                image: [
+                  cloudflareLoader({
+                    src: post.imageId,
+                    width: 1000,
+                    quality: 75,
+                  }),
+                ],
+              }
             : {}),
           datePublished: post.createdAt,
           dateModified: post.updatedAt,
@@ -66,8 +81,4 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
       intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }
-}
-
-export const config = {
-  unstable_excludeFiles: ['public/**/*'],
 }

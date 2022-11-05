@@ -1,9 +1,9 @@
 {
   "category": "investing",
-  "imageSrc": "/articles/why-you-should-start-investing-now.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVQYlR3JyU7CQAAA0PlFOfMPcCAkXIhHDuUDaAgxARNRuagIRRbpNt1mujAd2lqDUAguRRtqE49G3/WBzXpLqYcMm7oBdQPH8pbe6nUf73b7jzgBYRhSSn3fj6Jos96+rDZRtCOGZgnTOE5AoVAQZaVcLheLxdmcr9fr7/FhoUh4Nvw8HEGv19OR+cjPW60WVBWbLNIsI1By5VmaZmA0fri4umw0Gt1ul2VZjuOyvxZ8TTQHN6DT6bAsW6vVqtVqpVJhGCZNUwIlNLp1+QngRdEmC2yZOkbUWwbPoeM4BEpPWPv5TgDDMKf/cie5UqmUz+fb7TaBUqDDw7AJNAM7hMqKqiNTVlTLIYIEbSjgySD5OgK730T3Z/rwXOWutemdxo8RFLE095ARv8W/rBDiOBoLtwkAAAAASUVORK5CYII=",
-  "createdAt": "2020-07-25T00:53:18.418Z",
-  "updatedAt": "2022-10-11T17:16:36.494Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOUlEQVQYlQXB3UrCUAAA4POEXuSlXedNUt14KdsjhC0SHFTURlChgmm1VXNu87Sz/51tps60BH9SEZWIwvV9IAiajoNhAyFkQqgrCmq1+qPR7PNj8DVdAIxxN+z6nv/WbIVhaBjmcDLzNKTy97P5Euwkk7ICKep4b//g+uaWZa8Gw4n32lDKhel0AWiath1sO87p+ZmK0HuvN1+uXFm0BO4visAjzzEMe8EweZrO5U7uKpXfzcaRa+Zz1eWroFgq5WmaIEmCJDKZDEUdbaLIlWtatWTzD8C0bez5XhCYttXudCzb6vb6riy68kv0swIESabT6URiOxaL7aZS8a34YTbb1lWzxq1hEWi65WIPQiiKoob0el3SDMuWhEa5sFx/g+Dp0uFYLBScesWQOAtKvmVoouCpcDwc/wNZTOJZZwSiwgAAAABJRU5ErkJggg==",
+  "imageId": "b7c3d224-2747-4e15-f024-b7de80eb3c00",
+  "createdAt": "2022-11-05T21:54:40.161Z",
+  "updatedAt": "2022-11-05T21:54:40.500Z",
   "categoryLocal": "investing",
   "slug": "why-you-should-start-investing-now",
   "locale": "en",
@@ -20,130 +20,40 @@
   "relatedArticles": [
     {
       "category": "investing",
-      "imageSrc": "/articles/how-to-start-investing-in-stocks-a-step-by-step-guide-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APvaqLmvfqypeKuneZydbaatdKiveKiofbGxht7QpQD726b01aLUw5TRzY/bzZbDwYmsrnvbzqPs2rHw4qkA9tug+tql1sKSx7uJrqt6xcCJw8eDrbxw1tyNzud2AOzfmPfco/vcq+Pjj86/jbG9ctnphOPkltbpgerkmwDu3pbo4Y/j3ox/oEWmo3Caq1+VmGe1r3/q5Jn84bQA7t2R5+GKxelf6uGL8d2U2+V9+tuo+tuo+92n46UvAO/cjsPoXODgfuvYs9fbtdLdt93ZyNzayuXLlueqKgDv2ovP5Gbs3Ivp5dTZ8OTd8erc8Ofa7eXt2KT0rSMA89WG89iPw72C5+PS5vP45vP45/H35e3x6tew+8BZAMG1cKeaTuW6cubfz+Xy+eTw+OPw9OPu8+zgyfrGfPJL4X7nezvOAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Feb 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AASw8wez9AW18wC19QC3+SnG/Hrd+0TQ9wLE+wDF/gABsPQAsfgCtPc1w/WK0+re6uz//ffx8uy44uhw2O4AHL/8U8Psrt/u3d/d1c7Iys3KxczL29/b9e/m/vTlAIOsv+Xn4tvUzcHGxcbPztbc2MbJxdXa19bc1+3y5gBSVFVrhJGzxcvO0c7Awb3Z3trm6+fr7ubx79788NsAJjE8UkxHVmRrgp2qvMvM19nS7Onb9+vU//TexOftAAEpSxYoOU5JRFNaXm2Kmejm1v/u0ers4HXT8Au8+AAIRmsDKUgJGCwtJiejk4f/8dmi1+MlvfMAtPYJufcABoW/B3WpB26gAFWDPH2YTMHpALL0A7T0DbbzDLf1AAWu8QWx9QW0+Aa4/AGz+QGw8wuz8wmy8wi09Aq29f5lwfr5Qc/BAAAAAElFTkSuQmCC",
+      "imageId": "9a55400c-270d-4532-48b9-65c067237500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "investing",
-      "slug": "how-to-start-investing-in-stocks-a-step-by-step-guide-for-beginners",
+      "slug": "the-ins-and-outs-of-investing-in-stocks",
       "locale": "en",
-      "title": "How to Start Investing in Stocks: A Step by Step Guide for Beginners!",
+      "title": "The Ins and Outs of Investing in Stocks",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the stock market hitting new highs almost every day, investing in stocks might seem like a risky proposition. However, as with any investment, there are risks involved in buying stocks. However, the stock market is a great place to grow your money over the long term.\nIf you\\u2019re thinking about starting to invest, understanding how stocks work and what the risks are can help you make an informed decision about whether or not you should invest your money in stocks.\nThis guide will walk you through everything you need to know about investing in stocks for beginners. It covers topics such as why investing in stocks is a good idea, some general risks of investing and how to get started.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Being able to invest is one of the best things about being an adult. It gives you a sense of control over your financial future and opens up a world of opportunities.But investing isn\\u2019t as simple as putting some money in a stock market and hoping it goes up. There are different types of investments, strategies, risks, rewards, and management styles to consider when choosing how to invest your funds. Fortunately, you don\\u2019t need to be an accountant or have a business degree to start investing and growing your money \\u2014 learning about the different types of investments out there will help you make the right decision for you and your personal circumstances. This article covers everything you need to know about investing in stocks. If you need more detail or have specific questions that we haven\\u2019t covered here, please visit\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/how-to-build-a-diversified-investment-portfolio.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMiQXMuUYNKZZMeSX8mUZMCQZdeXZN+aaNqbbNWacADG1+HL3uy/xby/wbXGzMPIzL/Gxa7Cx8Hc7vzY7PoAtLiuvcbIuL61ub2yxczJw8nAxMrBu8PAx9LVxtXcALnCwbrGxsHO1b7N1sPN0crX3sLKx7rFzcTP0sPN0QC2ytGat7m71OLE1+6Bz7CEyZbL4e7BzeLRtJ7V0rwAnMS7kcC1mMW9rdnYItNYTNRPh9iWxq/L6qaIv8eXAKHGwJHBs5/JxMLU18PHLVvTS5TZqcS3zua1g8CyogC3x9KnvMW80OK4zOC5x8SmyrXB0uW4x93ExMLEy9kAsKassqqytK+8o6azq7C+paeriYySra++tr3Nt77MALBTCKxPCLBRCa9QB7VWC8xpDmMsEbRVCrdZC7tdC7gVzaLNec+jAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Nov 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMvCs9jPw8O8s7ewqqOclunh3d3FpM2UNtfDg7OxiQBzcG2gmpaZlI+qpJ6noZvZ0cnu49vJmU/PsGegnngAtrGqoJuWvLWuo5yXn5iTwLiw+vLtyq6Jx4www6lrAOPd1bawqbWup8O7tJyVkJ6XkoyGgsu+s7qKRMyWPwCBfHmmoJqgmZTOxb3EvLWrpJ7Rx7/x5uHDpH28hC0Azca/lpCMn5iTnpeSm5WQk42Jy8O9+e/o3M2/uYk/APHs5Z6alby2sMW+uM7HwcK8t+3l3+ng2vfr46aIXwD9+PLBvLeBfXp+eXaJhIGqpKDt5N/58OrMvq1aQysA9vLt5N/a19DN6eLf8+zp+fTy9/Lw3dDATTcfnYBiAPHu6u7r5/Lt6uzm49PKwci0nMyvhVA9JFk5DKt+OK10zqQJZdyOAAAAAElFTkSuQmCC",
+      "imageId": "eddbc4e2-2229-4b2e-4032-a27317e51f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "investing",
-      "slug": "how-to-build-a-diversified-investment-portfolio",
+      "slug": "how-to-make-your-money-work-for-you-investing-101",
       "locale": "en",
-      "title": "How to Build a Diversified Investment Portfolio",
+      "title": "How to Make Your Money Work for You - Investing 101",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Diversification is one of the most important principles in investing. Diversifying your portfolio helps you manage risk and reduce the negative effects of a single investment falling dramatically in value.\nIf you invest your money in only one stock, mutual fund or exchange-traded fund (ETF), you\\u2019re exposed to the risk that comes with putting all your eggs in one basket. If that stock plunges in value, so does your entire investment. But if you diversify across different types of investments, it\\u2019s more likely that at least some of your holdings will not suffer a similar fate.\nA well-diversified portfolio includes numerous asset classes such as stocks, bonds and cash; several sizes and types of companies; and perhaps even real estate and alternative assets like private equity or venture capital trusts. Read on to learn more about how to build a diversified investment portfolio.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"People have many different reasons for saving money. Some are very frugal and use every spare penny to pay down debt, buy a home, or fund retirement plans. However, many people simply stash away their cash in a bank account hoping it will grow over time. While this is the tried-and-true method of savings, it won\\u2019t help you get rich. To grow your wealth instead of simply preserving it, you need to invest your cash and work on growing that money over time. Even if you\\u2019re young and have an extended road toward retirement ahead of you, there are still smart investing strategies that can help you build wealth sooner rather than later. Investing isn\\u2019t complicated; even with its fancy words like \\u201Casset allocation\\u201D and \\u201Cbeta coefficient.\\u201D Here are some helpful investing tips to get started...\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/why-you-should-invest-in-index-funds.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlTXMz0+CUADA8ff32sUuDnVzUHfpB821ovBRh1hpuDVp7E2LlNQjenkiY8ibPObeQDfEWyvX9/A5foGJeqj30R8MLft7MB4PJxPsenme7/f7LMvAer1mjCVJkqbpZrPZbrfZf3megziOCSGUUsZY/9N6674/tVoGQnWpsdvtQKFQ4Hle0zRK6fWNfFQ8rp2cau1Xa2D/ziGEkiSZpkkIsW273dEdx2mqj7dN2OkaQNf1crksCEK1WuU4ribw9TPx8qohnl8USyWgqirHcaIoVioVWZYNw0AIYYyjKEqSBIxGo+l06vt+EAQHCSFxHLO/wGw2wxi7rrtYLA56nrdcLlerFaUUOI7zZQ+fWy+KCu+b6p0CFfgwn8993w/D8AeXZ+WM5TDffQAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Jan 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "investing",
-      "slug": "why-you-should-invest-in-index-funds",
-      "locale": "en",
-      "title": "Why You Should Invest in Index Funds",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The stock market can be frightening. It is easy to get caught up in the moment and panic when it drops, or get overly excited when it rises. But if you take a step back and look at investing from a long-term perspective, things are not as scary. In fact, index funds are a great way to invest your money for the long run.\nIt is natural to have some fear or apprehension about putting your hard-earned money at risk by investing in the stock market. After all, many people witnessed the bursting of the dotcom bubble first hand and saw their retirement accounts plummet as a result. However, that does not mean you should avoid investing in stocks altogether\\u2014not even with recent recession still fresh on everyone\\u2019s mind.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/what-are-no-load-mutual-funds-and-are-they-right-for-you.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6ElEQVQYlWP4scIChqxgpBWcy/Dr6nw8iOH9+/fHjx/ft2/fxo0b9+7de+DAgV27dm3YsOHr169///5l+Pjx4969ey+BwcmTJy9fvnzs2LHLly8/fPgQJP306dMTJ05cuHDh6tWrJ06cOHr06PHjx48ePXr79m2Q9NmzZ1etWrVp06YtW7bcunVr/fr1S5cu3bVr1/r1669cucKw6sGunBPtmSdb8k92pBxryDjenHKsAY4YbLbH+ezLcd2d5rwrNWB/fsjBYp99OV77soP3F1lsi2F4+eLswdvrcCEGpDABoW8roQyIOABpuNQH1WAHEgAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "investing",
-      "slug": "what-are-no-load-mutual-funds-and-are-they-right-for-you",
-      "locale": "en",
-      "title": "What Are No-Load Mutual Funds and Are They Right for You?",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you purchase a mutual fund, you typically pay an upfront cost (or load) and annual fees. These are known as \"loads\" because they reduce your return. A no-load fund has no upfront or hidden costs. These mutual funds have a small initial investment requirement, which may be as little as $50.\nThese funds have other characteristics that make them different from those with load fees: No-load mutual funds generally don\\u2019t charge commissions or sales fees. They also don't offer special privileges for buying their stock, such as reserved shares or first dibs on new stocks coming public. There are no broker incentives like sales targets or bonus payments for selling certain shares.\nKeep reading to learn more about no-load mutual funds and whether they might be right for you.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/how-to-start-investing-in-mutual-funds.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlSXLbU+CQAAA4Ptlrf5B8w/W+lStQpMmzcpEHJjeAfJ6d+DBAQoq5NBZWR9a6/OzB+TLTV3vqrKuVtUyX6XpnMfziKUk4HGUgZ/D/vvr47Dffu42dVkGhBZFkWUZ55zHKXiUehlPiI99xx0qqiwr4sOT0Oq07qWIcTAj0UjTsUvz+YJHcRgyWdHG0DSMaRgy8KZO9In+0u3PaDB4HTQFUbhrY58Krc7NrQi21aYu38vligWsWq+LRZ4kWRwlEeN/u98bP3dVCF1FRpI0aLd7yhCZU6wbLkQ2uL680lSEPRZQHlCOPWY51DCJbvgQuuC00Tg/u3BsTElMSey5oW0Rw/QhsscjExydHHdEybZ87LF/m5qujhw4sTQV/QJ44vag/a0v/gAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Sep 03 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "investing",
-      "slug": "how-to-start-investing-in-mutual-funds",
-      "locale": "en",
-      "title": "How to Start Investing in Mutual Funds",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mutual funds are the best way to start investing and save for your retirement. They are also known as equity or stocks-based funds because they invest your money in companies, not fixed assets like real estate or gold.\nIn this article, we will explain everything you need to know about mutual fund investing, including the different types of mutual funds available, how much you need to start investing, and what risks to consider before diving in.\nIf you\\u2019ve ever wondered how to invest in mutual funds and where to start, you\\u2019re not alone. But saving for retirement can seem like a monumental task when you\\u2019re just getting started.\nLuckily there are plenty of ways to get started investing in mutual funds without having a pre-existing pile of cash waiting. Keep reading to discover everything you need to know about investing in mutual funds\\u2014no matter where you\\u2019re starting from!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/the-best-ways-to-invest-your-money-and-get-the-most-out-of-it.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AN65rL2NdLaXhs+vn8mpmcqxpdC2qsqzpsKnl76nmgDWr6GubUq6f17VqZPZqpPElX7LopLYsqPSnYS/kn0AhXJ0qWVDm2pWhmljh2ZacFdUjm1j26iS1Y1ox5B1AJ6HhpVWNcuRd7qNeryTg6+KgLGOg72Sg690WKh+agCrhHaHTzCtfGifeGqDamWtiH2Ub2VxWFWTY0qygWkAw5mMfkQjuIFmpHxspYBzu457qoF0o3xuzo9uypV+ANadhYFGJbyFbLeIdJp1aaN7aKB8bZRqWNeRbcOIagDNj3KBRiOlblOne2iVbl6ScmagemuVY0jRjmzFl4AAsYBetXtWvIdur4RzoXttp4FwrXthsYNs26KHxqKTAMeqmcalkMOXgM2nlMmlk8+nlc+plsmjksaik7qaihxcqDv0FsJ4AAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jul 14 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "investing",
-      "slug": "the-best-ways-to-invest-your-money-and-get-the-most-out-of-it",
-      "locale": "en",
-      "title": "The Best Ways to Invest Your Money and Get the Most Out of It",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to money, everyone has something to say. Everyone also has a different opinion on how you should spend, save and invest it. Let\\u2019s face it \\u2013 with so much advice out there, it can be hard to know what to do with your cash. But when you think about it, that\\u2019s exactly why we\\u2019re here \\u2013 to help you find the best way forward for your needs. Because whether you have a small amount or a larger sum of money available right now, the sooner you start investing wisely the better off you\\u2019ll be in the long run.\nWe all want financial security and a comfortable retirement some day \\u2014 but not many people are willing to put in the time and effort required to get there. That\\u2019s why we\\u2019ve got all the information you need right here so that you can start making smart decisions today and build a better financial future tomorrow.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/the-benefits-of-investing-for-retirement.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJR1UqR9UZpzTFpNP1RaX2hoZnJ0c4CLkGxzc2BvdQCNbk1eUEM/SlpkeIt8ma1vkqtniqNsjaJwlqtvk6kAU1daaXSAf4uUm6arrba3vcPDxMnHxsjF2NbSzczGALq4tNDOysrIxKOkn7q4tI2Ni3l5d5CRjpCRjoWFgwCdnpupqaexsa/GxcHPzcnNy8rOzszHx8W2trS4trUAeHh2kpKQlpeUiImGjo6Mp6ekoaGftra0xsbExcXDAM/QzcXFw7i4tq2uq729u7S1sqytqp6fnJ2em4SEhAD7+fXg4N6rq6ucnJy0tLS3t7fIyMjExMTOzs7AwMAA7+/v7u7u4ePl2Nre2Nre3uDiv8HCcnJyNTMxOTk5AMnN0MrM0NPW19TU1NPT05ubmVBQUnh3fLS0uc3P0DINv9wKOXvaAAAAAElFTkSuQmCC",
-      "createdAt": "Fri May 14 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "investing",
-      "slug": "the-benefits-of-investing-for-retirement",
-      "locale": "en",
-      "title": "The Benefits of Investing for Retirement",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The quality of life for most people in their golden years is directly correlated to how well they prepared for retirement. According to a recent report by the National Institute on Retirement Security, as many as one-third of Americans are at risk of being unable to maintain their current standard of living in retirement. That\\u2019s because many are not putting away enough money on a regular basis.\nAn investment strategy that can be useful for helping you achieve your retirement goals is known as \"retirement investing.\" This type of investing is geared toward enabling you to retire sooner with a more comfortable and secure standard of living. If you\\u2019re not quite ready to retire but would like to have more financial security once you do, it\\u2019s probably time to begin planning for your post-work life. A good place to start is by familiarizing yourself with the many different types of retirement investing available. Understanding these various options along with their pros and cons will help you determine which one(s) might be right for you.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/5-investment-strategies-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP3DPOiuRsmRVvO5QvK4QN+kUPe6O/6/N/y+NuGkQgDam0/9wTr5vzrus0HRlVPPlVn7vTX8vzT9vDWxcVkA88ls9tJ888lf8tF/6s136shy7+K+7+jM9NKJ/bswAOzv6Z2gnJeVhpCTkHh4dlpaWGttat/i3erSk+q2KADq7eenqqeztrK4ureLjouSlZKZnJnn6uXfyYiglBYA6Ozk4eXfWlpYfH98eXt4mp2ar7OrzdK1urKCaGIJAOro2NHUz52gnKCjoIuOi4OGg32AfcvPxYOITis7DQDp4cm4u7WQk5Cgn42trZ29wbu4u7XO0ryonl89UQ0A88hy8sl39cZr8LNB5KMj7Kwy8Kgj2KgdnZQXYF8OAM2KOvuwJvuwJvuwJvqvJPitIvGmG+WaD9eNCY9qCxBtuwkd8+erAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Sep 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "investing",
-      "slug": "5-investment-strategies-for-beginners",
-      "locale": "en",
-      "title": "5 Investment Strategies for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you first start investing, the world of finance can feel like a labyrinth. There are so many different things to consider when choosing the best way to grow your money. The last thing you need is another complicated puzzle to solve. Luckily, as an investor newbie, you have a massive advantage over other beginners who may not be reading financial advice websites: You know you need to invest! While that sounds obvious, plenty of people either don\\u2019t understand the importance of investing early or simply don\\u2019t get around to it because it feels so daunting and complicated. But hey, we all begin somewhere. If you\\u2019re just beginning your journey into the world of investments -- or want to take your game up a level from casual interest to serious financial strategy -- here are some useful tips for getting started in the world of investment and how you can get ahead sooner rather than later with these 5 investment strategies for beginners:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/how-to-start-investing-with-little-money.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMl9Vch+R7VxNtNpKt9oNe57SdTLsM/Qu8TKuIySiQDFinDHiE3aq27JkGTtckPmo4Hj5dfb6+vT6e+ZqK4A26V13bqU3ryc3NPCxcrKs8DHhouVj5ahsL7Kl6asANrq67XDzJqkrnd8iKiyvLzJ0Nrr8dbo7dDj6p2rsgDZ7fSdp7G+zdbQ3uemsLigqrLi9frO3+W+z9e+z9cA0+Tq2+713e/0zNvhtcLJpK62rLe/t8PKz+Do1OryAMvW1bG9xnyBjY+WoXp/i5+pscTT2eHy+Nrr88HE3ADHzceWnaiosrzI1t3a6/HQ3eTBwNOvmryDXJmIX6YAwcCzz93kxc/Ow8e/urazrJzEn4evnXWVflyVeU+dAMC+rMC+r8jItsnJt8bDuK6kt5yAk4Zqo4NdgJaErF8r1SdD4PQPAAAAAElFTkSuQmCC",
-      "createdAt": "Fri May 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMp9WMF7S7l2MNNqK+FjMelyQNLFqNPWwbu+rpCWjwDCiXLDfkXUpWPUkGPvdEPyrozl6drU4uHL3uSerrYA2ap+47+Y5sqs2tbKx8nHprrDj5mllJuovs7ZmaevANrm5L3P2ZSfqn+IlaCtt7G6wdHh5s7e5Nfq8qGwtgDa7/mcprGxvcbJ1t6nsbm+y9Lo+v7D0tnE1N2+0NgA1OTq3/L65vj8y9nhrrnCkpmjoqq0ucbO3fD21OzyAMnT1K+8x4WLloGGknd7h5+pss3d4+Hz+tjm8cTG3QDJz8mUnqyfqbXL2+XX5+3d6vHIyt+xmriDXJeGWqIAwcK1xtPaztjYx83Dvru6oZG8mnujl2+Wf1uLeFCeAMHAr7+/scHArsjItMfEuq+kt56DmYdpoodkiJB7qIbn1U6yrR7OAAAAAElFTkSuQmCC",
+      "imageId": "812ff604-f1eb-4060-e805-ef8f0f58b200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "investing",
       "slug": "how-to-start-investing-with-little-money",
       "locale": "en",
@@ -155,16 +65,106 @@
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/investing-for-income-generating-passive-income.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlUXPQUvCABiAYX9k1w4dPQURoaAQWSmDSiuIyJhZthW4TV0y0iQ13XK0uUwh02lzmzFEHRZosY9YBb3X5/Q6AGA61L8mxmyozEbN6VCdjbTP97FlWQDgAACtdGFQXp0jeoU1jU+rXFLOReEnmz9qqQLpYXMMFU/g2GUySTP4UafBm+OBzROJzKe8/a5cLnMsey/Lyjbif7yOGcabzQP+PE26lXZLFCW+8lB/eo7sB8pXZxRF2KwXjxPYsiSIqqr3lD4aRu/wrYO9oGmaNrczuyVsSRCqyqve7ag7CEKHA4XirWVZNgukLxN28hWx9dKl6fSh34WsugDgj7On7lhoQRRqjXpzc33DtzifI9B/lrIn+XiwykQlJhIPrXicc9Ub/Pf7G35p7aE2LzUyAAAAAElFTkSuQmCC",
-      "createdAt": "Mon May 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTk5OPk5Lu/vODh4fj4+PT08722s6Gdm/P09dTV1gDCyMemrKezr6aoq6PO1dL69/fAmZKHZ2KnpKSvsakAeHNlqqaaobW7mams3dzX////4cK+wqCceX+Hr7OwAMzCtdXPxsLLy8jPzvDv7Orx9cHM2KWouniImE5aZADX0MXSyL/W08m7t6utsKagsL2Qn7G1zeRea3g3RE4A4NvRv66qiYSOQkxQaG5tSlFXh5irnrrXQE1XLTpDAMrGrbC1sZWYl3RzdlJZWGxsYU5fammZxVptfio1PQCll4+vnZ2+r6rKxbyrtZ3Z1cWOmZ2RttqDp8suO0UAiYdkjpNVh4xbnZx6jptgubaYuri5UnaWW3ubKTdCAEdVDkBTAIJ5T6+Th6+UiamLf8a+uTU8QA8VGBQaHfi5t3QPiStSAAAAAElFTkSuQmCC",
+      "imageId": "390f9ae7-121a-444e-0d8b-cdf9ca119400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "investing",
-      "slug": "investing-for-income-generating-passive-income",
+      "slug": "getting-started-in-real-estate-investing",
       "locale": "en",
-      "title": "Investing for Income - Generating Passive Income",
+      "title": "Getting Started in Real Estate Investing",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to investing, most people think of stocks and the performance of the market. However, there are many other ways to invest your money and generate income from it. Investing for income means you\\u2019re looking for a regular stream of cash from your investments, either as quarterly or annual payments. There are several ways to do this; you just need to know where to look.\nInvesting for income can be a challenging endeavor, but with the right knowledge you can achieve your goal. If you\\u2019re looking for some steady returns on your investment, check out our guide on how to invest for income in a variety of ways that won\\u2019t leave you out of pocket and will allow you to continue growing your wealth over time.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Real estate investing can be a very lucrative career or side gig. It may seem like a lot of work, but the truth is that it\\u2019s not as difficult as you think. You\\u2019ll be surprised at how simple real estate investing can be if you know what to do and where to start. If you\\u2019re new to the world of real estate investing, then this blog post will help get you started down the right path.\nThis article will walk you through different types of real estate investments and reveal ways to get started in this market today. Even if you don\\u2019t have millions of dollars lying around, there are still plenty of ways for you to get your feet wet in the world of real estate investing without breaking the bank.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AN3f7Lm/y7i+ycDEzb/Ez9LW38DGztDU3fL1/vDy/ADh4u3KzNTCxM3Hy9a3tLnLytHM0tvg5O3b4Oro7fQA5eHn9urn8+zr0s7RZ0k8uqGc////5OfuxszW6e30AOnr9+Hj77G4xKKiqLWNgO/e3dHW3rO5wsDG0O/x+ADa3OikqrPf4OnO0uG2nprf1dewtcbz8/vh5Ozr7vQAqq+56uv2rbDCNEBhhHaC2MDEbnOduLvT+Pv/8vX6ANDW4ebt9298jBYjP4iHl5mUp1BWfZWbtvX5//P1+gDl7Pfo9f9/kaItN1YvO1k2Pl4pMEyDiaP7///x9fkAwNLly+Dvmaq5VFh3ioWVT1d6Q0lwk5i29/v/8PT7AObv+Nvq9NTj70ROYj9AUVRZenmBqsPJ4vT5//Dz+7re3kTLCLs8AAAAAElFTkSuQmCC",
+      "imageId": "310345ab-16f5-4b29-7b8c-b8f2b2986f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "investing",
+      "slug": "how-to-pick-the-right-investments-for-you",
+      "locale": "en",
+      "title": "How to Pick the Right Investments for You",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a million different ways to invest your money. Some of them can seem scary and confusing, but investing is one of the best ways to grow your savings\\u2014and there are plenty of accessible options that won\\u2019t take decades to see a return on your money.\nIf you have some money saved and want to get started investing, now is the perfect time to do so. The sooner you begin investing, the more time your investment will have to grow over time. However, many people procrastinate when it comes to their financial future because they think investing is complicated or requires a lot of money upfront. But that doesn\\u2019t have to be the case.\nOne of the main reasons why many people don\\u2019t invest is because they don\\u2019t know where to start or are afraid they might make a mistake if they dive in too fast. Luckily, there are several different ways you can get started investing without breaking the bank or feeling overwhelmed by all the information out there.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABN0lEQVQYlR3QW0vCYBgA4O93auGhi24iuujOQyoVreWMoEQkoiQjKmgp+7TJt4ENx5wFYaAhgZVEyjxtToe6t8PzEx7kjcRcQdoTZuLX2eJTVa7WL/LiKh13+qmlSAy5gvQKdfj63gIA0xwZ+hAAhqPx9smlw0chV4BWX+pjQ9d1Xa1UMMaaphn6sNsfrEUTaDOZBgBBEDiOE0VRlmWWZe8ymflseiuW0Fm2AACdTkdRFEKIJEmqqjabTQB4rDXQMZsHAN0wyuVygecJITzPf7fbAKBUa8h/dDqxrAdJ4jDm7/8QQnAuN7Wscywgh28nX1LBnne17sg0e/1efzCYWZO3j9by1gFyh6LeMCNWnuGfbdsA0Pj8Wt9PLgR2kTfMuENRp5/aSKTSmFwVinupG0+IWQzSvy0/EpDhgeghSeUAAAAASUVORK5CYII=",
+      "imageId": "00a8ddc7-97eb-4f75-2eb1-f6d450b4b000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "investing",
+      "slug": "10-things-to-know-before-investing",
+      "locale": "en",
+      "title": "10 Things to Know before Investing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The stock market has been a great source of wealth creation for many investors. Over the past decade, the S&P 500 index alone has created more than 200% value appreciation for its long-term investors. However, investing in the stock market is not as simple as buying stocks and forgetting about them for 10 or 20 years. It requires constant monitoring, research, and analysis to identify the right opportunities and manage risk. The Great Recession of 2007-08 is a perfect example of how risky investing can be. Many people who were new to investing suffered significant losses when their investments tanked during that time. If you\\u2019re thinking about investing your money in stocks, here are 10 things you need to know before doing so.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlQXBaU+CYAAA4Pfn+q219a0229rMVtORSNO0PNYwycW0opaQizTPzfvAJLxAEAGvnAqu5wG8aoy0nagZoqpLqi5p+nhqyFNjPDUEdQtG8p8gzmVlpc11dWEo042kbuTZrjOaV/kZ6NVKmNtG4WgihlHRcPIpVK13st0Nw/W/S03ApknSbX5GjoOWffjQ5DWbaDpH1ld1lq+wA8A1mF7+s5tNiKVUJxVnaKLd5Bh+2/oZ5qs1cAXDl+cWu/XEA9vv/d5bl9MDnd080l+ZpvN0D+RS6Qz13ihkG4UMWyu3K2WKIKIfxWJLgSAHwP1IIhp6jdy9YAEiHIjjoYgPIYi33O86RuaBB7oIOG148NrnsKEuB3aDWI8OUPSh2F2TyTIQpNWAnwviUhAXgrQcCDOurwqTNa/ow8n2H1Lh6mgO3LnZAAAAAElFTkSuQmCC",
+      "imageId": "8d342710-c4bb-4863-f100-43fe3d1c2700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "investing",
+      "slug": "10-investing-tips-for-beginners",
+      "locale": "en",
+      "title": "10 Investing Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There\\u2019s a lot of mystery and fear around investing your hard-earned money. For many people, that means they never get started. But investing your money instead of just saving it can have a big impact on your financial future. In fact, time is the enemy of your money -- the sooner you begin investing for your future, the better off you\\u2019ll be.\nWorking with as little as $10 per month or an initial investment of $100 per month, you can begin to invest for your future. While it\\u2019s not necessarily easy to become a successful investor (it does take time and effort), there are simple things you can do to get started on the right foot with minimum risk. Below are 10 investing tips for beginners that will help set you on the right path toward achieving great returns on your savings:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMeSX8uWYtSebMiXacyZbMCVbticbeSgcNqdb9accgDK4PHN5PrE0M/Dzs3H09PG0cjHy77H0M3d9P7c9f8AtLitt7uytbantramvcK3vsCuvb+wubuyxs7NwsvLALe/vbm+vsLN1r3L0s3O28/S3sPLz7jCxsHS3b3L1QC4zdacu7++2OnK3vx9z7SE0p7J4e3G0uvYu57b1MEAm8K6ir6sosfFqNfNJ9FMO9I6f9iQ0KzX7J54wMyVAKHDvoy7qqLJysLT0sfHPl3QPojYp8631eKrhLq1qwC91OCoxc/D3vDC2fW70Myv1b3H1+q/1+zMzcPQ0eAAr6OnsKSusqq3paKtr63BqqCmjYuPsK27r7PHs7jGAKtKAKdGAatJAqNGAqpNA7lYA18nCqNPCrJWCrJZCpSBzeuG7ykDAAAAAElFTkSuQmCC",
+      "imageId": "8cc55241-900c-45ab-302b-2b468f714a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "investing",
+      "slug": "how-to-build-a-diversified-investment-portfolio",
+      "locale": "en",
+      "title": "How to Build a Diversified Investment Portfolio",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Diversification is one of the most important principles in investing. Diversifying your portfolio helps you manage risk and reduce the negative effects of a single investment falling dramatically in value.\nIf you invest your money in only one stock, mutual fund or exchange-traded fund (ETF), you\\u2019re exposed to the risk that comes with putting all your eggs in one basket. If that stock plunges in value, so does your entire investment. But if you diversify across different types of investments, it\\u2019s more likely that at least some of your holdings will not suffer a similar fate.\nA well-diversified portfolio includes numerous asset classes such as stocks, bonds and cash; several sizes and types of companies; and perhaps even real estate and alternative assets like private equity or venture capital trusts. Read on to learn more about how to build a diversified investment portfolio.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGaLuVZ4o26RvY60yoKltIOcq32Rk4ydkLK3mLazmACmpZi9t6HTxKHdyJfp1aLz3qr525373Zr857jp06YA8t209OPD9+vN9OrR7uDD48+v28m10r6nuJmM4tK6AKV/csKnlrucjaqBdLWRgaV5bayEd6yFeLSRguHSugClfm+0koHIsJ/LtaXRva3bzrzXyLbZybXTv6u3l4QAtpeCzLejybOguJiKqYJ2sZCCpn1uoHZprIh6qYRzAKSAcKN+b6iFda2Lfbibi76jjtG9pd7OsePUteTTsgDLuJnZxaPm1bLu27Tx2qzt2K7cyKLNuJCzn3uSgmYAxKp/tJ53ootngm5QY1A1RzgmMCMXGBEKDQgHCwkLACUcExcQCw0JChIQEhwbHikpLTg5PkZITVFXXmFqcyXTscqH0SnYAAAAAElFTkSuQmCC",
+      "imageId": "45cff708-0023-46ac-eb11-4cf2f49f9400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "investing",
+      "slug": "the-basics-of-investing-what-you-need-to-know",
+      "locale": "en",
+      "title": "The Basics of Investing - What You Need to Know",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re in your 20s and early 30s, it can feel like there is never enough money. Working-age individuals in this age group are likely to be settling into their career and perhaps starting a family, which means expenses are climbing while income isn\\u2019t always keeping up.\nEven when money is tight, it doesn\\u2019t mean that young people can\\u2019t invest for the future. In fact, investing as soon as possible is one of the best things you can do to secure your financial future. The sooner you begin investing for retirement or another long-term goal, the sooner your portfolio will grow and help you achieve your goals.\nBut where should you start? Fortunately, there are plenty of accessible resources that can get you off on the right foot with your investments. Here we take a look at some of the basics of investing \\u2013 what you need to know before getting started.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMUlEQVQYlR3Gu0vDQBwA4PvHXBwcBEdXQZxLobg5SHUSuukggoOPwSoOiqAgaovYDtamthJto7YmV20ezeNev7skNYLf9CGPsDFlHmEeoT5l/v/diLqEuoSjhhloVqDbrB/GLy5othhEyXuQdGzaxCGaKJWlKbP7ZuvONhqO8Yj12vdrLaFeNkkRCJmmGf0xhq1b8/FyUD8ftiuWdiMjZ/KboVhQ/6ttvTWsroZ7LWw8e1bXs7qf+tMY9xB1sPlQ1q/3O1d79ZPN6mGpVzn+uD9tXuwa1TISjAMHBSpWMYuiaOwpkErINE4USEQJ40yAACklgAQApRSA4lxwJpAkEQ98fzQamWboOKHrOhiHrqsoiTlFK9tHS8Wtudzq1EJhJlecza9NLy7PF9bzGzulg7M/L/EAooeIXWYAAAAASUVORK5CYII=",
+      "imageId": "062bbb8b-47b0-49ba-69f3-536f7c362300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "investing",
+      "slug": "investing-for-beginners-where-to-start",
+      "locale": "en",
+      "title": "Investing for Beginners - Where to Start",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You can either love it or hate it. But investing is something that we all have to deal with at some point in our lives. If you\\u2019re someone who likes math, logic, and problem-solving \\u2013 and doesn\\u2019t shy away from risk \\u2013 then maybe investing is for you. For the rest of us, however, the idea of investing can seem a little bit scary. But don\\u2019t worry; investing is much simpler than most people think, especially if you have a basic understanding of how personal finance works. Keeping a detailed record of your money isn\\u2019t difficult and every person should invest their earnings for the future. Whether you have $5 or $500 to invest as a beginner, there are lots of great places to put that money so that it can grow over time. The trick is knowing which investment options are best for you and your circumstances...\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

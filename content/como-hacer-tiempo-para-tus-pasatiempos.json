@@ -1,9 +1,9 @@
 {
   "category": "life",
-  "imageSrc": "/articles/how-to-make-time-for-your-hobbies.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVQYlRXQbUvCQADA8fvMvQp6Gb6LgijCggoRM509F0ZpTbNcoZlzTIfObbqH2527uz3hBkL4Df6/P0BoYQw1hBbUIwx7FGHfgSF0QmgxTQGjCi/VWuOORCmlHiEWJMrUN2aBY8qne2DC8Z+ZXfmoRFSLMTa94VpbG/18MaTke2cbDLIFPf+g15sMeyELBxeF/vHB9LUah37v+gTIl2XiuN7EpPJ8iXxHUcSrgtltrFYrOuKBLY5jDQdjp8E94pERu7hbPlRfcknk/3FnAPU0/Ue6zxUH7wIaqjGyra879eN2rvSbmU3wdF6S3oSFMqOGHTGaJAketu1u3ew889l9EKlo3Yw9RmgURWmaBlAPbRUKFdguAmq76yFkjQ6CIE3TZRy5vzUoVIhY/Qc0xPzmNFJldwAAAABJRU5ErkJggg==",
-  "createdAt": "2022-06-19T23:25:11.641Z",
-  "updatedAt": "2022-10-11T17:14:12.364Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlRXQ3UrCUAAA4POu3fcEBV0FXiURdBOBZtqqQYLYKIaaGjZrmfjbbHMu53aOOz/uT93SEL4n+ACcoclwjBCmmFIH0/mc2bYHd1zTAEq+LhdE9WvgLjyKyQJipuj+DHpTY3B5ApTbUuM42U1eUd1i/lLludL+3mc66zqwenwIeufX00xREyvEhkEYd3OZ98SRJj6Fq7BTTIE+d88gcTST9iYRC+0ftcWlUF/abrdUqQKrp0YmW6qoxhf1Vj+wLYk71Z7T65XffcgCuzkaVmUhx38IFTLSl8i23vJqmR+3pXriAJTvCvLjy6z9HZhOuGDrzQYNJFMWjaZQuzgDZPAbmjigjGLi+34U/3nQoHpnLhesRg4wCxEHU7I78Vw3iuNV4MF22Xq9YR3hH0O1/Qh9d/D7AAAAAElFTkSuQmCC",
+  "imageId": "7509a9a5-8250-463c-406f-d6f490876d00",
+  "createdAt": "2022-11-05T21:48:46.619Z",
+  "updatedAt": "2022-11-05T21:48:46.755Z",
   "slug": "como-hacer-tiempo-para-tus-pasatiempos",
   "locale": "es",
   "categoryLocal": "vida",
@@ -20,100 +20,70 @@
   "relatedArticles": [
     {
       "category": "life",
-      "imageSrc": "/articles/how-mediation-can-help-you-resolve-conflicts.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGJbO3JZO8TEwExFOlNAK1U8IGhXQ0k4MGBaUy4gEwBnVD1cSTFyaVxEOCxiUkGAcGGNfWxsY1ZMVD8+PyoAOS4gSEA14N7c/Pv8/v7+/v7+6+vrSSpAVH53T4BfACsmHE9ALvr6+tbW1svLy8bGxv7+/lM9K1AodU9bRwB3XDx0Vzbw8O6npqetra2npqe9vb1sWkdWPiRqVkEAnZiQWkUswLy3nJurqKbCq6nV3NzefHBkyse/zMvHAN3e14qHf9HLxOrp+fHx/P39/f7+/peNg7Oqnb60qgDLxb5zZVW7qZa0m4rz8/Pm3dr9/f2zq6SVh3enmJQAdGNNfGFBvJZxfFlCsKaen4JuempbXVJGb2JSq56cAHhlTbaXdKV9VlpCLVtEKpp/X4JjRCUdEkEzJZuWjLIooJrt4nN8AAAAAElFTkSuQmCC",
-      "createdAt": "Thu Mar 04 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-la-mediacion-puede-ayudarlo-a-resolver-conflictos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AO/+/+nP1eF0euepr+agpeWRluWWnOSLkeemq+zs6wDY5uHke4TVISncVl7w7PD1///tx8jhaGjidnbq2NgAs5CB2RMe20JH0xEV5ZWY9fv/3UxK4VRT4ERD4Hd3AKV1adYbItc0O9QOFe+usvz//+JfXt9RUOBLSeODgwCtoouzblnkSk7ZfoLh5ebj6uzjurvhamrjeXnq2twAYGI/ZHJQoszDrcHAwL29pqmpqa2t2rS78OPo7fb3AEVKJSmAchGKfTuajt/u6/z7+9pjZ9MWHtguNee+wQBRf1cxpJlUqp8jkYSc19H/3+HVISfgWF7aKzLea3EAZm47HIt4E5WKI5OFx+Hh/PL32UFI1hEY1hkf456kADEwEXNMPVd7YJaoh9jOzenw/eLP2dt6guKfpufh5V2JuUSAtOoXAAAAAElFTkSuQmCC",
+      "imageId": "aa28aa28-b112-40d2-08b3-e135ad98e100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "5-maneras-de-reducir-el-estres-durante-la-temporada-navidena",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Cómo La Mediación Puede Ayudarlo a Resolver Conflictos",
+      "title": "5 Maneras De Reducir El Estrés Durante La Temporada Navideña",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La mediaci\\xF3n es un proceso de resoluci\\xF3n de conflictos que ayuda a las personas a comunicarse entre s\\xED para resolver sus conflictos. En este blog, exploraremos qu\\xE9 es la mediaci\\xF3n y por qu\\xE9 funciona. Si actualmente se encuentra envuelto en un conflicto o prev\\xE9 que pueda surgir uno, puede encontrar \\xFAtiles las ideas de este art\\xEDculo de blog.\nLa mediaci\\xF3n es una excelente t\\xE9cnica para poner fin a las disputas entre amigos, colegas, familiares o cualquier parte involucrada en un conflicto. Se trata de traer mediadores externos neutrales al conflicto y hacer que ayuden a ambas partes a comprender y resolver sus problemas para que puedan resolver los problemas por s\\xED mismos a partir de ah\\xED y seguir adelante.\nSiga leyendo para obtener m\\xE1s informaci\\xF3n sobre la mediaci\\xF3n y por qu\\xE9 funciona tan bien para resolver conflictos.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las vacaciones pueden traer estr\\xE9s en abundancia. Hay compras, viajes y entretenimiento para considerar. Y eso es incluso antes de llegar a la temporada en s\\xED.\nLa temporada navide\\xF1a est\\xE1 repleta de maravillosas tradiciones como fiestas y reuniones familiares. Pero tambi\\xE9n trae una buena cantidad de factores estresantes, desde pasar tiempo con parientes extensos que solo ves una vez al a\\xF1o hasta comprar regalos para todas esas personas y organizar una fiesta elaborada de la que tus invitados hablar\\xE1n en los a\\xF1os venideros.\nAfortunadamente, hay algunas cosas que puede hacer para que la temporada sea menos estresante. El estr\\xE9s es una respuesta natural cuando sentimos que nuestra seguridad est\\xE1 amenazada o que nuestro espacio personal ha sido invadido. Sin embargo, cuando se trata de la temporada navide\\xF1a, casi todo provoca estr\\xE9s como respuesta. Entonces, si desea reducir el estr\\xE9s de esta \\xE9poca festiva del a\\xF1o, aqu\\xED hay cinco formas en que puede hacerlo:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-can-mediation-help-me.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK91ULF1Tq5yTqpyTqhyU7F5WLJ8XLaAYbeFaLuLbgDPysPq5uD08u739/XT09HQ0c7g4N7w8PDw8PD6+voAwcHBr6+voqKi+vr6srKytra2paWlxsbGurq63t7eAOXl5ejo6Onp6ejo6Onp6eXl5enp6eHh4enp6fDw8AD+/v6tra24uLi2tra6urqkpKS+vr7MzMzu7u7+/v4A+vr68PDw3Nzc0tLS5OTk4uLi3d3dzMzM+vv49fXyALS1sNTV0NTV0NnZ1ba2su7v59vc1eHi2+Df1ujn3gDFxbq9vbGxsabBwLW8u7D4+eng3tHb2Mvr6drs6tkArI50qYltpIRon4Bin31dm3pamndVl3NSkm5PjGpNAJBZM45XL45WK41VKIpRJYpRJYVPIYRNIoJMIYFLIEV819NG6x6aAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jan 25 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-puede-ayudarme-la-mediacion",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKtKy6dJxalHwq9PvbhRtMRYtMtZot5ugPCXe/fDnQCRL66aOrKRNaeVOqicPZGzUnPcgGXrrYXj4efd2+sAgSWbeCOTcyV7jz1ax3NV5Zll97aI3uTuycPQ6aZ6AGYfZno1S6xlTdeYdeCyku3OvO+ld+Ovk/LXxf3V1QCfWkK7imzPy8rAzensy/Pu8//pv6/lo4DgxsLhxL0A76N7r35gvtLT3fL/39DmvJ7P7u/657CM34lT4ZZnAOqjfduQaaqmj+jb8sem2/Dq9vz9//jv7O6odeugbwDknXX2n224jmq5tNb48//u/fLc6dK+3bO8n3LqlWcA7qBw5JNl4JZqt7mWzNWhtq16w5hf05Nf6aN05JFfAPGfZu2ebfGdaOCec+CfdOakie2XaOqSXfWncPCbZDkZydL50BgXAAAAAElFTkSuQmCC",
+      "imageId": "9eaee65b-60b3-4e99-589c-9811114c6a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "10-sencillos-consejos-para-apegarse-a-sus-resoluciones-de-ano-nuevo",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "¿Cómo Puede Ayudarme La Mediación?",
+      "title": "10 Sencillos Consejos Para Apegarse a Sus Resoluciones De Año Nuevo",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La mediaci\\xF3n se ha practicado en todas las culturas durante miles de a\\xF1os. Es un proceso que une a las personas para resolver conflictos y encontrar soluciones mutuamente satisfactorias. En la mediaci\\xF3n, un tercero imparcial ayuda a las partes en disputa a identificar los problemas, explorar su propio papel en ellos y acceder a sus necesidades principales para llegar a una soluci\\xF3n que funcione para todas las partes involucradas.\nLa mediaci\\xF3n es un proceso confidencial y existen muchos tipos de mediaci\\xF3n seg\\xFAn la naturaleza del conflicto. Por ejemplo, la resoluci\\xF3n de disputas podr\\xEDa centrarse en temas espec\\xEDficos, como preocupaciones ambientales o problemas de recursos humanos; podr\\xEDa ser entre dos partes, como la mediaci\\xF3n de divorcio o la mediaci\\xF3n entre propietarios e inquilinos; podr\\xEDa ser sobre un tema en particular como la mediaci\\xF3n de derechos civiles o la mediaci\\xF3n penal; o podr\\xEDa basarse en ciertos factores como la edad, el sexo, la orientaci\\xF3n sexual o la capacidad f\\xEDsica. El siguiente art\\xEDculo explora las formas en que la mediaci\\xF3n puede ayudarlo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Las resoluciones de A\\xF1o Nuevo son como una pizarra limpia para el pr\\xF3ximo a\\xF1o. Lo que hagas con esa oportunidad depende de ti. Tal vez decidas comer m\\xE1s sano, hacer m\\xE1s ejercicio o reducir el estr\\xE9s y la ansiedad. Tal vez decidas aprender una nueva habilidad, leer m\\xE1s libros, ayudar a otros o viajar m\\xE1s. O tal vez su resoluci\\xF3n sea hacer algo completamente diferente, como aprender un idioma, dejar de procrastinar o leer las obras completas de Shakespeare. Las posibilidades son infinitas, pero apegarse a esas resoluciones puede ser un desaf\\xEDo. La clave es establecer h\\xE1bitos que duren los 365 d\\xEDas del a\\xF1o y no solo un loco d\\xEDa de enero. Se necesitan cambios peque\\xF1os pero deliberados en la vida cotidiana que se suman con el tiempo y se convierten en una segunda naturaleza. Aqu\\xED hay 10 consejos f\\xE1ciles para apegarse a sus resoluciones de A\\xF1o Nuevo:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/top-new-woodworking-projects-to-keep-you-busy-this-winter.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJh0Yp1xWa19YMaUddOmhd23mdy7pN/CrMOomM2xpABkT0SzjHObeGK2kXnUycSyucLy073QtqOThoHCraIAgWZYvZR5upB3z6SHxcTHjqG5zbiopI+EgnVwgXJsAG9WSr2WfOa6lOa+ns+wm3tlYzJDSWBpaLqnnbSflACeema1inDOn3zQoX1ndm8cQ1E9WFoNLz92dnLXtJsAxKJ5tZRkwJRz0J5zMEZKMk5XN05WCyApIzpFs5ODAKB7U7ehgMyxn6mXiRsxNzVJTiw/RhUrMxcwPKyRgwA0Gg5NNy5gSD5kTEV2dHAnNTdeWmAYMT2MdF+8lXkAwbi0w7mxkYqG2ce2187Dsqeiu6uhdXRttKWWy7SaANHKyNzd4czBusW1qMi/vcW6tcu8pr2rkbili7ili1YdobLN7pTOAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 25 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-mejores-nuevos-proyectos-de-carpinteria-para-mantenerlo-ocupado-este-invierno",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlWP4///fv/9//4PB339///37CwH/QOAvw88vn14/eXLx0oEnd87///Xv3/9/f//++QVCv3///cNw7Pjmz2+m+Df5z97afvBE188fPyAmQQCDY07Eyh118S0Jqw7lztoS9OTmlR///696+HjKrXuX339gSGnNts+JKelPOn7J79S5tBMHdnnsOy6/dqfqpj2KG/YwtMyqL+0tPHgyf97m/GO7Z3QuWJB68kL8weOJh04G7TvG0D2tp3d2zo2bca3TS6ZO6Tl7567p+m0yi9ebrt2qsXwjw9Yt2zasX7BmZf/mdRuePXt15/XLzkPHp588V7z74JILVxl+/vrz/OX7uw9ffv767f//f79+/fr/D8nlf//++Q8WAAfIn3///v75C0F//vz9AwBasevIW9oaBgAAAABJRU5ErkJggg==",
+      "imageId": "baeee18c-396f-48fc-e5d5-98c70e8ff900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-empezar-a-vivir-un-estilo-de-vida-mas-ecologico",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Los Mejores Nuevos Proyectos De Carpintería Para Mantenerlo Ocupado Este Invierno",
+      "title": "Cómo Empezar a Vivir Un Estilo De Vida Más Ecológico",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Seamos realistas: la temporada de invierno puede volverse bastante mon\\xF3tona y solitaria. Cuando la temperatura desciende y la nieve comienza a acumularse, puede ser f\\xE1cil que su hogar se sienta como una prisi\\xF3n fr\\xEDa e implacable. Por mucho que nos guste acurrucarnos junto al fuego con chocolate caliente y mantas, tiene que haber algo m\\xE1s constructivo que puedas hacer para salir de este miedo invernal.\nSi desea mantenerse productivo este invierno y evitar volverse loco por la claustrofobia, ahora es el momento perfecto para comenzar a concentrarse en diferentes proyectos de carpinter\\xEDa. Con suerte, esto no solo lo mantendr\\xE1 ocupado, sino que tambi\\xE9n lo ayudar\\xE1 a combatir la tristeza estacional. \\xA1Mira estos 5 nuevos y populares proyectos de carpinter\\xEDa que seguramente te mantendr\\xE1n ocupado este invierno!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFSab\\xEDas que una sola persona produce alrededor de 1,6 toneladas de CO2 al a\\xF1o? \\xBFSab\\xEDa tambi\\xE9n que producir una camiseta de algod\\xF3n usa casi 19 galones de agua y produce 3.5 libras de CO2?\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-top-10-benefits-of-owning-a-cat.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABN0lEQVQYlWPgFBDi5hfiFAAhLj5Bbn4Bbn4BOzsDbn4hHgFhBh4hES5BYQiCKOXmF5jZFi8uKsgpIICQ5uYXEpaU1DU1CPKzPLGhpaMpe/NENwZeMQkeUXELB0sbJ/OUnJi6tuJb55a+fX3n5JbeI/M8GXilZHilpHTM9PRMNHOLEq5fP37j+LLrR1feObdiVp0HA4+MrKCinF+494bN875+ef3v37/vn18fPzh/8ZLGtKwghvSS9M275t28tmnOtJKlS7t+/Xr179+fr59fHDy0KDYpgOH0+ZXVtRGh0S5VDekzZ9evWTfhwpV9//79ufPotKOPPUNFV35+U15eY358UUJFe9HMBa1L10z48evDjcenfaO9GeLLUhMrspLKMmOLUsKyo4ua87tn1998eObokakugS4Ai61/RkRDtpYAAAAASUVORK5CYII=",
-      "createdAt": "Mon Dec 27 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-10-principales-beneficios-de-tener-un-gato",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJiMfnt3b3dxaoFvWGRxoTFu8ww2oBYMHjkuIE1BOACajoB9eW6Dd2eCc2FfX2IzXboKImwSDAs6MCdOQTcAnI9+eXl1YmZ2WVRYYFQ7VXKqDyNgIxoJRj85UkM6AJmMd2Z9uyJl4wAfbSAVC0VinBIkYR8YCElAOlJDOwCZj31weosrVbsLGU0aJDoiT7URLYMdFBpBNixjTkQAmZKDgX1pVm2kIx4vM0p8LnT5HEy5Khs1QjQnbVBEAJqUhoJ/cFp1rygrS01IO1pedUpKXz84NjwzLE44LACjm4yHgnJLYJwXHUghHBBhTTqEZE9STEQrMjM8KR4App+JZ3qmNGXZByV0EhEaWko+Y1dRMzg3Rz00Y01BAKKfkXqFl2iEvkZYfWRcVk9KRR8iIkg/OGJSRV5NQieMZOh9pr+bAAAAAElFTkSuQmCC",
+      "imageId": "c2c51f14-73dc-45fa-54fc-67890e4c2000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-hacer-realidad-tu-resolucion-de-ponerte-en-forma",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Los 10 Principales Beneficios De Tener Un Gato",
+      "title": "Cómo Hacer Realidad Tu Resolución De Ponerte En Forma",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Cuando se trata del tema de los gatos, muchas personas tienden a tener ideas preconcebidas sobre lo que implica tener uno. Existe la creencia general de que tener un gato como mascota reducir\\xE1 su vida social y limitar\\xE1 su capacidad para viajar. Si bien eso puede ser cierto para algunas personas, esa generalizaci\\xF3n no cuenta toda la historia. Los gatos son mascotas fant\\xE1sticas y, si eliges la raza adecuada, pueden traer muchos beneficios a tu vida. Tener un gato ofrece numerosos beneficios positivos en muchas \\xE1reas diferentes de su vida. \\xA1Estas son solo algunas de las razones por las que deber\\xEDas tener un gato!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las resoluciones son desafiantes. Requieren un esfuerzo sostenido, fuerza de voluntad y coraje para llevarlos a cabo. El hecho de que se cumplan tan pocas resoluciones muestra lo dif\\xEDcil que es para la mayor\\xEDa de nosotros dar el primer paso y poner nuestras intenciones en acci\\xF3n.\nVivimos en un mundo lleno de tentaciones en cada esquina. Incluso si no le gusta salir o conocer gente nueva, existen infinitas oportunidades en l\\xEDnea, lo que hace que mantenerse en forma sea a\\xFAn m\\xE1s dif\\xEDcil. Mantenerse en forma no es una tarea f\\xE1cil en este mundo moderno, \\xA1pero eso no significa que sea imposible! Solo necesita encontrar la motivaci\\xF3n adecuada para comenzar y continuar.\nMucha gente se da por vencida con sus resoluciones de A\\xF1o Nuevo incluso antes de que comiencen, porque no tienen un plan de acci\\xF3n y no consideran qu\\xE9 los mantendr\\xE1 motivados a lo largo del camino. Echemos un vistazo a c\\xF3mo puede hacer que su resoluci\\xF3n funcione:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-not-beg-at-the-table.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK6TcbiefL6kf+bEmZ+JacurgbeZcayOaMuneK6OZADMp3bNq33UsoT60qDOrIHConbCoXPGonPYsXzTq3YAknNEg2hGdmFGt5dufWZKwZ1xkndVgGdJxaBtnH5WAPG2X/W+bNqsaqeGWKyKXbGNXtescqeGWLiTYLuUYQDwr1HNj0nKlEu7jEq4jEvHmVflsWeziE2ziEutgkYA9rdr0al9onQ98Llp8ciQ9daG6LRN265y5cGg5KyWANt7Y8ugdd3Do+3p5u/m5e7o4eTOyMOjoOrk3/Dl4gDKOCuseEqvmInt6ebr29rt6ejn4+Dt6+nk3tzb080A31xLjltDqol00cfN29PR6+bmzLux4NnXtaGRu6KRANVQO50nM44bP4cLPGYYJ6uAY7SVgMWed7J5Q207Ln8Tuk/HhuuvAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 21 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-entrenar-a-tu-perro-para-que-no-mendigue-en-la-mesa",
-      "locale": "es",
-      "categoryLocal": "vida",
-      "title": "Cómo Entrenar a Tu Perro Para Que No Mendigue En La Mesa",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Probablemente no te sentar\\xEDas a comer con tu perro en la mesa todos los d\\xEDas, pero eso no significa que no puedas disfrutar de una buena comida casera con tu cachorro. Los perros son animales sociales, por lo que les encanta pasar tiempo con sus due\\xF1os y otras personas. Pero tambi\\xE9n tienen sus peculiaridades extra\\xF1as, como mendigar en la mesa o saltar para conseguir bocadillos.\nAfortunadamente, no es dif\\xEDcil entrenar a tu perro para que deje de mendigar en la mesa y otros malos h\\xE1bitos. Solo necesitan un poco de paciencia y dedicaci\\xF3n para seguir las \\xF3rdenes hasta que su perro las entienda. Con estos consejos, puedes tomar medidas en\\xE9rgicas contra esos h\\xE1bitos extra\\xF1os de los perros y ayudarlos a aprender cosas nuevas que durar\\xE1n toda la vida. Siga leyendo para obtener consejos sobre c\\xF3mo entrenar a su perro para que deje de pedir limosna en la mesa y otros trucos, as\\xED como los trucos de la nutricionista Victoria SchENDler.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/what-are-the-types-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABG0lEQVQYlWNgbHnI2PKQs+12zsKJbtPXpcyb4jxtnUTXeYg4g9Xk7ZGz5kbNnuc7Y4XztA0BsxZ7TFvjOm2N57RVHtPWMEBUOU7eEDRzsePUjb4zVoTMWuQ0Zb3hhH0g3aJ9jwp3ve8//jp54zOpnotc7bcs5t5vO/Sy7fAbi3nPGfZcfXr58uVLly5cu3atds9L2YlP377/ePTo0RMnj3369Ikhb9fbu09f37x588qzL1YLnnG0P5hx9Nm1Gzdv3rk95+BNkN0srY94ux7J9z8IWfOycvdLk1mP2NsfcXaAXQ5xGmvbw5N3Xz98+PDNmzdv33+0W/QS6jG49NF7758+ffr48eOnL0GOQpGGqHBc/NJ/xSuJvsdwQQAhpbQYPo51GAAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Nov 01 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "cuales-son-los-tipos-de-mediacion",
-      "locale": "es",
-      "categoryLocal": "vida",
-      "title": "¿cuáles Son Los Tipos De Mediación?",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La mediaci\\xF3n es un proceso de resoluci\\xF3n de conflictos. Personas de diferentes or\\xEDgenes, creencias y valores se unen, rompen sus diferencias y encuentran puntos en com\\xFAn. La mediaci\\xF3n es una forma efectiva de resolver conflictos y disputas sin acudir a los tribunales ni entrar en una situaci\\xF3n de confrontaci\\xF3n en la que las partes est\\xE9n enfrentadas para siempre.\nEn lugar de discutir de un lado a otro, cada lado presenta su caso en un ambiente neutral. El mediador facilita las conversaciones al guiar a los participantes a trav\\xE9s de una serie de preguntas y procesos que conducen a la resoluci\\xF3n. Lo que llamamos mediaci\\xF3n no es un solo proceso, sino muchas variaciones del mismo. Se pueden clasificar en t\\xE9rminos generales en tres tipos: mediaci\\xF3n colaborativa, mediaci\\xF3n ADR (resoluci\\xF3n alternativa de disputas) o intervenci\\xF3n de terceros neutrales; Mediaci\\xF3n familiar o de pareja; Y la mediaci\\xF3n tribal.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-the-pandemic-is-changing-the-way-we-work.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJealPv68fv684mGfo6Eeuzr4v388/z78nJzbLK1rQCqq6Tq6uFEUEwjKiZqal/t7OPm9uz9/PNOVE3BwrsAq6yluLmyFiAaW0UzVFdE8O/n/v31+PjvQ0hCycfBALCvp6mqoxckH2Vya3WBZNvcyOn16OXi2p6Wi4R+dQA3PzU7Uk1SZVyofHRrgnF+W06DfG57eG6FfnNqZVsAGCYkMEpDXHJobk8+VlpLZWFThYB0iH9yXVpScWxgAHB2b05hW0FXS2ZIO0xQRoWHd8e+rYiBc0dEOYN8bgB2enIeLCgmNDIyOjV/bFLLuqbWx7V9dmlnXEuYh28AVVFAEB4cZV9MpIBTsIhYemtXvKmWgnVju6qUycK2AH91X5iPgGB4bndvVq2NYVlOO7SomtXKvJ2JbYNsULhEmnICAICwAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKWnoeXl3v7/+YSBeYyCd+bn3v//+/r68WtuaLCzrAC4t7DT08xbZmEjJyFubGXq6eLt+/H49+9QVlC5u7QAuLm1nJ+bFh0YQTUoWlpE9fXq+//79fXuSU9KuruzALm2q5SakiAqJldeW4uVd9XWvODo3+Te1ZiRhouFewA0OjM+WVFaamKecmpwfnGOdWiYkYODfnaGfXNnY1kAFiMhK0pDZXxxdE8+TE09V1tNhn90h4BzUk9IcW1jAHJ1bkddV0FVSFo8M0lORX6EdcfBspKKfDUxJ4R9cAB5fXYWJiIcLjA5PDh6ZkvXxLHr28pvZ1hjWUqllH0AT008DBsZamFOpIBRtYtZdmJMtqSVmIt4uKaPyr+uAH5zXY2GeGmAcHdwVrWRZFZLOKqhlN7UxJ6Ia3tlSCdombp8fLugAAAAAElFTkSuQmCC",
+      "imageId": "ab4e087e-6ecc-4844-224a-041c09cf0000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "como-la-pandemia-esta-cambiando-la-forma-en-que-trabajamos",
       "locale": "es",
       "categoryLocal": "vida",
@@ -125,46 +95,76 @@
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-stay.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJmEeaKMg6+Mga+JequDc6h/b6p7a6qBcbGIeLGIeACVgHWZhHuWfHKhfnN/ZV5VRUFcRkCvhnaxiny0jX8Al4B2mH51jndsl2xrMR4gHxwfFxcZZE5IroV1sYp8AJB8dY54cIhzamROSEovLSgfICAXGEIxLad+bq+JegCDb2iDa2OCZltXTElcWlsYFRY5IRt5Y1uLcWicdWcAfm1lb15WfmBVW1pdOjEvJBkYPCIbRjk2Sj8+IhsdAHpgVmxYUWpZU2JbXSEYGRkSEiIZGDYkISQZGDokHgB4VEWCXU5sUkhzXVckGRg2HRgzHRc7IRlkPS+SY04ALiMiflRCf1ZGZEg9MiIeNSEcIxgVKRwZf1VBnnJcAEsvJ3FIOHVPQHlSQnZSQ2RAMYVbSYRVQI5hTJ9zX2euaENhgG+BAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Mar 20 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-entrenar-a-tu-perro-para-que-se-quede",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AODLjde4kOTcyuLj097ez+Tj1eHf09raz+Tk2dvb0ADsogbnYiz3rY7R0MSOj4mmpqCqqqWsrKeSko+dnZoAsU4F1z4T83ZI39vPfoB8kZCPjY6MiImGmpqXvLy7AHkgBYsUANCah+3x78/QydLVxt7d1MXExcbGwsrJxgDBPhG9jILzv5/s68fw+cPv9671/7vCx6J1dXWhoaAAzGku6TsUoR4AnKVOydp9w9p30eh5qbWBtrW6p6enAIOcOrhgRFpAHhsuEiEsAYGSNM/ivaeqraGhoaOkowCAiTvBsWrHvFrNy5GtrZm3uqv8/f+4t7empqeam5sAmYVCzqMx0Kg4x61i4OLYvLeh3dnP6Onr4N/h6OfpALu2nc3DodLNuNfY2ff59tDNuqecf+He1vb3+fDv8Cjyxv6HutIJAAAAAElFTkSuQmCC",
+      "imageId": "f9dbd2ae-36a2-468f-4526-90b4d623ed00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "5-consejos-para-comer-sano-con-un-presupuesto-ajustado",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Cómo Entrenar a Tu Perro Para Que Se Quede",
+      "title": "5 Consejos Para Comer Sano Con Un Presupuesto Ajustado",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En esta era digital, muchos due\\xF1os de perros est\\xE1n encontrando formas nuevas e innovadoras de mantener a sus perros ocupados. Los juguetes ocupacionales para perros est\\xE1n dise\\xF1ados para ayudar a mantener a su perro mentalmente estimulado para que no se aburra y comience a masticar sus zapatos o a excavar en el jard\\xEDn. Pero incluso con todas estas fant\\xE1sticas innovaciones, la mayor\\xEDa de los perros eventualmente se cansar\\xE1n de jugar con sus juguetes y buscar\\xE1n algo m\\xE1s interesante. \\xA1Aqu\\xED es donde entra la formaci\\xF3n!\nEntrenar a tu perro significa instruirlo en alg\\xFAn comportamiento que quieras que repita constantemente en diferentes situaciones. El entrenamiento le da a tu perro un prop\\xF3sito y les facilita las cosas a ambos cuando tienes un perro bien entrenado en casa (o en cualquier otro lugar). El entrenamiento puede ser tan simple como ense\\xF1arle a su perro algunos comandos b\\xE1sicos como \"si\\xE9ntate\" o \"quieto\", o puede ser algo mucho m\\xE1s avanzado como ense\\xF1arle a venir cuando lo llamen desde el otro lado del patio. Cualquiera que sea su nivel de experiencia, existen numerosos beneficios para entrenar a su perro.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1s tratando de comer m\\xE1s sano pero descubres que los alimentos saludables son caros? \\xBFEst\\xE1s intentando que una buena comida dure varios d\\xEDas y no solo uno? \\xBFTiene dificultades para encontrar opciones asequibles y saludables cerca de su hogar o trabajo? Si es as\\xED, no est\\xE1s solo. Comer saludable puede ser costoso y desafiante. El costo de los alimentos saludables ha aumentado, mientras que el costo de los alimentos no saludables ha disminuido. Pero esto no significa que comer sano sea imposible; simplemente significa que todos debemos ser un poco m\\xE1s creativos.\nComer bien con un presupuesto puede ser un desaf\\xEDo, pero no es imposible. Tomar decisiones inteligentes sobre lo que compra y c\\xF3mo cocina sus alimentos puede marcar una gran diferencia en cu\\xE1nto dinero gasta en alimentos cada mes y qu\\xE9 tan saludable es su dieta al mismo tiempo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-top-10-most-iconic-cat-photos-of-all-time.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABL0lEQVQYlWNY29US6WDS6G/kqC3DDAZW2kpLmopCnExsDFQY1na1pPs4NgWYOOrKQqTNtZQXNhX62hpIiHIzrO1pLQjymBlr6aAlBZE2VFGYV5Nrpa8swM/GsKGnLcrBssrfKM5UnJ+ThZ+TJcJSY1FDgaaSJBsbC8PG3vZQW3NPYyUlEU4tKW5vZa4UR90lTUVKMqIg6XW9bU566vpKIgpC7NaKPK4qvN7mmhMK4xRlBHj5mRnWdLc46GqoS/LJC7IlmEqWOki6m+lUxXlFuxqHORkxLGuvtddUclYTUhHjCjGWSrJWzA6wK41wqY0PSPG2YYhxtzGQE9KW5JYX4pQX4lQR41IR41AR41IV51YR42IwUJKUFeSS5meXEeCUEQCREnwcYtxsghwsvGwsAL8bQCoXTkykAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Dec 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "las-10-fotos-de-gatos-mas-iconicas-de-todos-los-tiempos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlQXBa0+CUAAA0PvP67ubbbUytbKWE6jYTPLVZGxq6abmIocsecsbMQwU5dHtHLDjq6FAhGJ1L+IHuRYp9VitJ3o9scjE6YNIIWKtlZhkbHUj9yPasMlOgekKpl6aBCDdynFoJ7EPYQThH4TwcAgXC05Xl/MZDbbBJo72vu/xvDAYTFotUpakCkpkMnmyQ4Gj4yyGEYUicn5xPxrTV9eoIMp+EOiGOWfmoPrcXK9XkqRwvCzKy5vSY+kOR1Aie1I8Oy2AXB5DsJdcAZVV4zJfLldqVJ8eThbIE9Umh4Bov98+UI3uNzmycHLZfLNfh06jpzV7egXvAc7YkFO3M7b6nwbN2YzgSOaP5v7qjue4HphyOi0arGazqs0oFqPYM8n6Es0Zb7Cc+g+vEPaPZGvEEgAAAABJRU5ErkJggg==",
+      "imageId": "e6c37b1c-f59c-4708-4596-dab6cb87f900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-superar-una-ruptura",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Las 10 Fotos De Gatos Más Icónicas De Todos Los Tiempos",
+      "title": "Cómo Superar Una Ruptura",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFAlguna vez te has sentado y te has preguntado cu\\xE1nta influencia puede tener una sola foto? La respuesta es: bastante. Una sola fotograf\\xEDa tiene el poder de cambiar opiniones, moldear percepciones e incluso alterar el curso de la historia.\nTomemos, por ejemplo, las fotos de gatos m\\xE1s ic\\xF3nicas de todos los tiempos; ya sea que los ames o los odies, su fama no se puede negar. Estas son im\\xE1genes que se han compartido en sitios de redes sociales e impreso en camisetas y carteles en todo el mundo. \\xA1Y creemos que son bastante ic\\xF3nicos!\nCualquier amante de los gatos te dir\\xE1 que los gatos tienen una manera de hacer notar su presencia de una manera casi et\\xE9rea. Tal vez sea porque los gatos son a menudo criaturas independientes y solitarias que se mantienen apartadas cuando desean pasar desapercibidas; o tal vez sea porque, como saben personalmente los amantes de los felinos, hay algo en estas peque\\xF1as criaturas astutas que parecen aprovechar una extra\\xF1a longitud de onda solo accesible para ellos. Cualquiera que sea la raz\\xF3n, no se puede negar que los gatos han dejado una huella eterna en la sociedad a trav\\xE9s de su capacidad para conquistar nuestra imaginaci\\xF3n con solo una mirada o un gesto.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Todo el mundo sabe que las rupturas son dif\\xEDciles. Incluso si sabes que la relaci\\xF3n est\\xE1 por terminar, los momentos finales a\\xFAn pueden estar llenos de dolor y angustia. Sin embargo, una ruptura no necesita ser definitiva en todos los sentidos de la palabra. Con el tiempo, te recuperar\\xE1s de tu relaci\\xF3n fallida y seguir\\xE1s adelante con tu vida. Aqu\\xED hay algunas formas efectivas de hacer que esto suceda m\\xE1s temprano que tarde.\nSi recientemente rompi\\xF3 con su pareja o pareja de citas, puede sentirse como el fin del mundo. \\xA1Pero no lo es! Una relaci\\xF3n que llega a su fin no significa que haya algo malo contigo o que no seas lo suficientemente bueno para nadie o que nunca volver\\xE1s a encontrar el amor. Tu coraz\\xF3n est\\xE1 roto en este momento porque te preocupabas profundamente por esta persona; ahora solo tienes que entender por qu\\xE9 y c\\xF3mo las cosas se tuercen para que no vuelva a suceder en tus futuras relaciones.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-different-types-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AAPY7gLg8gLl+AHp+gPr/ALs+gLs+gLq+wLl+ALg9ABsf3uElpKJnJqar62TqKaEm5iMo6KHnJl9kpCMn5sAO9nkPd/qPuPrPefrPOnsPurtPurtP+ntPeXqPd/oADzo8gLs/ALy/Cr0+XD39BT6/AL6/AL4+1Dz9Vzt8wC+vrM77fgw8/q919C8ubGV6udJ+/o/8PLHw77V0MgAusvDIe77HPP6ntPP0c7GeOjkKvn8LPP3193U3NnOAB3l9ALs+gLy/Ar0+5P07gT3+wL4+wP1/E3x80/r8QBhwMIf5fIX7flc0NCnzMZO2doE9Pwv4+aHzMmAxMQAqLmxS+XsOOr0rMjDurmwqtrYD+/6eePmsrqxtLiuAAPV6wLc8AHi9QHn+QPo+gHp+gPo+gHn+QLj9wTd8fkmysejnjRQAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Aug 23 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-diferentes-tipos-de-mediacion",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlR3QTU+CYBwA8OfT9VU6tC7eqmt16VCHam51qIwsUlOrZUpZMtJNGr5mL+pkmAIShIgoPM/zb+v3EX5oPqWyqLbf633lAwAIIZQCgGkPrvSmisI7W8xqMsOmqpV73/cJwQQAW2X+ZilzcYyWVxYSZ+zIIgalnfH8zSbl3ne/Jq+FFqPJbXQU25h4Zk0eso/Fy4IYTmTOuaee2N7bXI/FGbQfCX3Kr+VmZzfCcvUO81CM5YVq/lUSpJJYQKLQAICvoXUYv41meYYTTq6ztu143qQrK+g5XwQA1fErA7s1xo3foNTTtJGBA/c0bSP+Lqt0u8YMGqYvaa6ou3xP1w3NsGgqN0K5gziXSlsYmobX+pm2TK+u2u50/CJNlIGD5rMZAASY+JgEmBBC4P/FcTGl5A8jf/u1uvwYeQAAAABJRU5ErkJggg==",
+      "imageId": "c928318f-f7b0-44b7-e7f4-96f795150600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "la-guia-definitiva-para-la-limpieza-primaveral-de-su-hogar",
       "locale": "es",
       "categoryLocal": "vida",
-      "title": "Los Diferentes Tipos De Mediación",
+      "title": "La Guía Definitiva Para La Limpieza Primaveral De Su Hogar",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La mediaci\\xF3n es la pr\\xE1ctica de resolver conflictos y negociar soluciones con la ayuda de un tercero neutral. Hay muchos tipos diferentes de mediaci\\xF3n, cada uno con su propio conjunto de reglas y expectativas para los participantes. Comprender estas variaciones es fundamental para elegir el proceso de mediaci\\xF3n adecuado para sus necesidades espec\\xEDficas.\nLa mediaci\\xF3n se puede dividir ampliamente en dos categor\\xEDas: mediaci\\xF3n de terceros, donde un mediador imparcial ayuda a las partes a llegar a un acuerdo; y la mediaci\\xF3n colaborativa o de resoluci\\xF3n de problemas, donde el mediador act\\xFAa como un gu\\xEDa que ayuda a ambas partes a negociar de buena fe y avanzar hacia una soluci\\xF3n mutuamente beneficiosa.\nCada tipo de mediaci\\xF3n tiene su propio conjunto de reglas y requisitos. En esta publicaci\\xF3n de blog, exploraremos algunas de las formas m\\xE1s comunes de mediaci\\xF3n, incluida la mediaci\\xF3n general, la mediaci\\xF3n neutral de terceros, la mediaci\\xF3n colaborativa guiada, la mediaci\\xF3n neutral colaborativa h\\xEDbrida y los servicios de equipo de expertos (ETS).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La limpieza del hogar en primavera es el mejor momento para limpiar a fondo tu hogar. A medida que el clima se vuelve m\\xE1s c\\xE1lido, tambi\\xE9n lo hace nuestra casa. La suciedad y la mugre que se ha acumulado durante los largos meses de invierno comienza a disiparse a medida que guardamos todos nuestros abrigos, sombreros y guantes pesados. Con menos capas para atraparlo, el polvo, los g\\xE9rmenes y otras part\\xEDculas desagradables quedan expuestos por lo que realmente son: \\xA1asqueroso!\nTodos sabemos que un hogar ordenado es feliz. Mantener un hogar ordenado en todo momento puede ser un desaf\\xEDo. Las presiones del trabajo y otras responsabilidades a menudo impiden mantener las cosas limpias y organizadas. Pero con un poco de preparaci\\xF3n y planificaci\\xF3n, puede hacer que la limpieza del hogar de primavera sea su enfoque principal en lugar de una idea de \\xFAltimo momento. As\\xED es c\\xF3mo\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANnEr9/EqubFpebCnujCnezGn+zDm+7HoPXOpNOneADqyKfIq46uln7Aq5erm4ytpJm/urL8+/X9/vzu1LkA//346efktra2xsbG6unmv7687e3n4eDa6+nl///9ANvSyfTv5vby6uXg2d/b1NbSzffz7O7q5NzY0t3a1QDVzsfv6OH38Ojr5d7i3df28evt6OLx7Obw6uTv6uQA39bN7uXe6uPb3tjS1dHMzsvG0M3J1NHM9/Hp497XAPLo3uXd1Ovj2+DY0cK+uOnj2+7n3tvWz/769fTw7QDYz8fGvrXr5Nzu6OLY1dDs5+Hy593k1MTOtJ/Bn4IA29HI593U386+2MCqxKOGs4ljoG9FmWM3l2A2mmM7AKaAX6h8VoxbMn1KIoFMJY1XMKFqRbF5VLqAXMuRbEuR6CvaB1WGAAAAAElFTkSuQmCC",
+      "imageId": "784813ca-dedd-461d-e54e-233beb2e8400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "10-maneras-faciles-de-hacer-que-su-hogar-sea-mas-eficiente-energeticamente",
+      "locale": "es",
+      "categoryLocal": "vida",
+      "title": "10 Maneras Fáciles De Hacer Que Su Hogar Sea Más Eficiente Energéticamente",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A medida que el costo de vida contin\\xFAa aumentando, es m\\xE1s importante que nunca que los estadounidenses encuentren formas de ahorrar dinero y mantenerse dentro de un presupuesto. Despu\\xE9s de todo, nadie quiere sentir que se ahoga en facturas todos los meses.\nCon ese fin, todos probablemente podr\\xEDan ajustarse un poco el cintur\\xF3n cuando se trata de sus gastos diarios; despu\\xE9s de todo, hay varias cosas peque\\xF1as que podemos hacer a diario que se sumar\\xE1n colectivamente y nos ayudar\\xE1n a ahorrar dinero a largo plazo. En esta publicaci\\xF3n de blog, cubriremos todo lo que necesita saber sobre la eficiencia energ\\xE9tica en el hogar y c\\xF3mo puede comenzar a ahorrar dinero al hacer que su casa sea m\\xE1s eficiente hoy.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKuprLCusLSwsbKtrbaursGaiZ10XHFZSF1ZW19dYACysLO3tLW6tba1s7XCt7W3inSQZU+JcF1GQkRKSEkAt7W2vLi6vbi5vbCty7Wlr4hxlmxUr5N2V05FSkhJALq3uL67vMK1trZNTrhiWJ9nWoVaRK2AY4ZDPUtDQwC8ubq/u7zFvby2Sk+6ZlxzQDmOYUyaa1JgDxhOQEEAu7i5wLu8wru7rUtQt2hbXCclhUQ6kGFJZh4iSz9AALu4uL23ucjEwsR6c4EaIEUTFowzMqJIP14eIktBQgC4tba9uLm/u7vIpJ+YU0uee2emR0V7FB5OKSxGRkUAs7CwubO0vL29vIqMrSkumiovcRwhUAwSSSYpRURDAKuprLSvsLWxs9XCwNeamrRgY4c5Pm0oLFQwM0NCQfXwlWTeM8h/AAAAAElFTkSuQmCC",
+      "imageId": "9347ae28-743f-4f97-d313-267a0fc80300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-salir-de-una-rutina-de-estilo",
+      "locale": "es",
+      "categoryLocal": "vida",
+      "title": "Cómo Salir De Una Rutina De Estilo",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El riesgo de caer en una rutina de estilo es algo con lo que todos tenemos que lidiar de vez en cuando. Le sucede incluso a las personas m\\xE1s confiadas y atrevidas, por lo que ciertamente no est\\xE1s solo si sientes que tu estilo se est\\xE1 estancando y no puedes pensar en nada nuevo o emocionante para usar. Ya sea porque no has encontrado una nueva prenda que te emocione en meses, o porque simplemente no sabes qu\\xE9 ponerte despu\\xE9s de usar variaciones sobre el mismo tema durante varias semanas seguidas, todo el mundo queda atrapado en la rutina. ahora y de nuevo. Afortunadamente, hay formas de salir de eso y descubrir una nueva oportunidad para tu estilo personal una vez m\\xE1s.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

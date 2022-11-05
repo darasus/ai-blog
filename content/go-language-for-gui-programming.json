@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-gui-programming.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAkUlEQVQYlYWPMQrEIBREc09TC0JAEA/gCX5jlzMI6QJWtlr8pLBVe1sh5cqyxZINhOy0bwbmDa/HDH9wCGHbNkTc971/c+KUEiJ673POtdbjOC7rcRwBoJTinOOca60vGADmeV7XVSkVY+Sct9astcaYD6aUCiGWZUFExhghpLUmpZym6Xz+e+de7Lbx5N17fwOc4QgrLze4JAAAAABJRU5ErkJggg==",
-  "createdAt": "2020-08-25T18:37:12.326Z",
-  "updatedAt": "2022-10-11T17:15:55.939Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAy0lEQVQYlW1PIYuGQBDdvyvb3GK1+Qc0GU0GQbC4STCIybLYFJOYFBmDsrM7d56cfAf3wjCPN/PmDUNErTUimv/A6BfW2mfUfMpN0yilngoARPRHbts2SZKyLIdh6Lqu73tjzHVd53neshAijmMAqOtaCJGmqdb6PceiKMrzXEoZBIGUMgzDaZqqqsqy7N72PM9xnKIolFKu63LOx3H0fZ9zfhwHA4B5nq21RLQsy7quRLTv+7ZtRMQQ8UmLiPYHb3Obvz88/JN+R/sCFuAHZTYjRvYAAAAASUVORK5CYII=",
+  "imageId": "828b1a1b-8fe3-4a69-83cf-2c8f98e47d00",
+  "createdAt": "2022-11-05T21:52:55.694Z",
+  "updatedAt": "2022-11-05T21:52:55.993Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-gui-programming",
   "locale": "en",
@@ -20,10 +20,40 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHElEQVQYlUXLTU7CQBiA4bmI0Ru4MGFhvI0uvI7hBMaFiQTFhQlIXMAKMcZUQxFkgNLSdihfZ5i/zvQnMerCZ/vmRYBH65nTXzp443EuhVBCqJTxiEAQhEispsZ3X/z3t3A8CEdugvUvzmWSAPLwcE5mNsFJuvgMnRiWOPIkA8mAMYa42imTlUVZ/SlsVVVlnne7T/X6BTJaUUo7nW6j0bi7vW82W71ez1p703o4Oa4hJXaF/b+FEFpra+3Q+djbP0Dj6bM7fVVANAXDqZFsgyfEw5MvfHhUQxkFN3D7k0GZmzI3BQMjmdjR5WJ1enaORBxlFHLJc60sJT+ZUw7ge6vLq2u09RciXmdbYuJAk0CnG5mQNIr8+bzdfvwGN+AFKqmaJUkAAAAASUVORK5CYII=",
-      "createdAt": "Tue Feb 15 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJUlEQVQYlSWOzUoCURhA79sEvkvLHiCqRQ/RLuoRWkm0UAiD0ihEKyv8BRfpTJqZiTqOjubcufPj/Z8vrMNZHw7SOsbEj9bMsuf9r0Grbby1jG7v07bnxA9RsVQ6PjkFAKlipTdiTMaTqWl2zPcO2kokrtJpAFBK+2HokQD+0DEIqdDezjZxvZE1cT1crdcvM5nCw+PdfX6FsdIx+mg2Fq6Xy2XLlcr1TTaIQsrZxLKCKBRKIhLJuTNzHEdIWWs0np5fev3+CruUM8458kMqJRecCckN0yxXq5VaPV8o2LOZ1hpRSoXWAkAAxP9XAFpLzijnDPk/S9co4vZtMGpGywFd+5tODEID4xJ5q8Aqpb7PD4bJ3eHF/ih1OM0dLV7PSLfI3PEvZ+AF475SLwMAAAAASUVORK5CYII=",
+      "imageId": "e8516075-a720-4945-c351-ebc8e26e7500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "interfaces-in-java",
+      "locale": "en",
+      "title": "Interfaces in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABCklEQVQYlTXPzU6DQBQF4Hk2H8MncKcbE/cu3fgYrroyamxjbAw0xUqVX2EYrqUyg2CBQBUEhzGQ+uVuTs7mXNQ0DWMs2vkIaRRSygaUUlRVFcbYtm1VVcEnxnIuSw8AYJqmruuI81+x0ybONNQnbcn61HVCCJRmqeO6r44TEsPTJHN2XabR0A51YC218WVC37PgxVAm5uNd7C0AgPjE8zx0c3Y0OjnAt6Nt4sLsYvU8jn21bdu6rquqQvPjvfvzQ9/QPrEET1ehMY0dmcAKYxfAR9LpvrWQyu+fDVHWlhxgLVqTotzmeVYUBXozFM65EOIrgZy6OXPLDf3/RaCuxznn/dCO9ydEnwd/IHsJCV/wXQ4AAAAASUVORK5CYII=",
+      "imageId": "1c4b0a57-4edc-43f2-a09b-db132c39b800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-benefits-of-software-engineering",
+      "locale": "en",
+      "title": "The Benefits of Software Engineering",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software engineering is the discipline of programming and designing software, as well as documenting and testing it to ensure that it meets user needs and functions correctly. Software engineering is a broad field that includes several sub-disciplines. Each of these areas has its own unique set of responsibilities and tasks. As an engineer, you might specialize in one or more of these disciplines, but regardless of your area of focus, every software engineer must have a solid understanding of all the different aspects in order to be successful in this exciting career. In this article, we\\u2019ll explore some of the many benefits of software engineering. If you\\u2019re reading this thinking \\u201CIs this article for me?\\u201D keep reading! Whether you are new to the industry or just looking for some additional information to increase your knowledge even more, read on to discover why software engineering might be a great career choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJUlEQVQYlRXCyU6DQAAA0PkVE726xIMfZDz4K6Y/4M2DmnjT1Ma41KRVD6aLibFVlFIEBgbKLMwCDKWM8eUB8jX2nI/ebOSkMGVUKy1VzjIRJzgIIlD4VuFNrGD6CidP8P0T/zKRKaWEkEmCgeO+zWLbYC/EcwdNvYVlJ4HCaSmYkDnAgtFSNk1jVsv/tV6tGmPM5VW71ToCtS4ZJf1ev93uPDx0rzs33e6jMeb45HRnexMwTmqtBeeCCyVVGKFFSowxL4Px2voGsOyh/T0WNKkE05LXhcxCj6LgZ+5t7e6BhtGBO3q2h42ullWpWcpjiGMIQ7R/cAgEQnXG8ows87wiSc1wpZRgFIXh2fkFwL7LI1jitEB+jvwCpypBJAqh697d3v8BKnsFMyFhI8QAAAAASUVORK5CYII=",
+      "imageId": "48a2df35-a31e-4e28-7c9d-1f9159e23a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "the-best-coding-plugins-for-developers",
       "locale": "en",
@@ -35,40 +65,55 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-parallel-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA9UlEQVQYlXWPzWqDQBSFJ3mKbvooPkx23brxCbIvuHFdnYXECUhbqM2qLRhciIqFltQsJhAyWmqQacdUkjuEqfRn08OBA/fjwLkIvuR5Hsa4aRohRNu2/REAUB+WZem6bpqmYRi2bXPOv/Hnm/J+J6XMsqwHtehq0fFujw5TJMkAkjMACMMQAK4W1XA8G45np+a9YpIMDvEoz3NN0wgh5HnT45PzO9VWjkcAEEURAEyf/mBYXQB1YJv8rK0+dk6+dvL19UuFGGOU0rIsGWOvfLV933BRL+ljURRqeZqmvu9jjF3XjZeXN4k5X0xuHyZBEPz+/Z+OXZjxqEfjAy4AAAAASUVORK5CYII=",
-      "createdAt": "Sun Apr 12 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHElEQVQYlR3BTU7CQBgA0DmrcgLdsIILcALZigsbtlgpnZ/OtJ0IlNAWQwlFDRKwSUNiWpTamc/oewgAiqJIN5v5fB4EQRiGcRznea61Vkqhsiw556ZpYoyllLZtP/wx8zyvqgotl8uRZfm+H4ah9H0pJSXEcRxCSLd7gxzOmee5nmdjbFNKhRBSMiEMw0iSBD2Pn15sO10s0ih6n82S4XA9tBLPk0J8ZBlSm7S8vKharXOj8X199dPpVM3mud3+6t29ZRn6PBzG/f50MJga9wkhASYhpc5t7zUIuOuiWutxHFmMPjLmTSaY8xFjJqXb/R4AEACcimIRRRRjh1JXCEbperXSStV1jZRSWmsAOB6P2+12t9uVpxIA9L9fzi30aHeIvQ8AAAAASUVORK5CYII=",
+      "imageId": "3c7b7b1b-299f-4416-5dc7-6fefa7119a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-parallel-computing",
+      "slug": "java-security",
       "locale": "en",
-      "title": "Go Language for Parallel Computing",
+      "title": "Java Security",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"If you\\u2019ve read up on the world of parallel computing, you\\u2019ll know that it\\u2019s a field that is growing rapidly in importance. Parallel computing refers to the simultaneous execution of computer programs or tasks so that they operate at the same time rather than sequentially. This ability to execute multiple processes simultaneously leads to faster and more efficient results. Applications like artificial intelligence, image recognition, and natural language processing are all fields that can benefit greatly from parallel computing techniques. Because of this demand for parallel computing techniques, there are many programming languages available specifically for this purpose. The Go language is one such example. In this article, we will explain what Go is and its benefits for parallel computing.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Contemporary internet-connected devices are complex networked systems with challenging security requirements. New IoT attack vectors and risks arise from the convergence of digital, social, mobile, cloud, sensor, and other new Internet services.\nSecurity is a top concern for device manufacturers and users alike. Many consumers have reservations about the safety of IoT devices and services due to past experiences with computer viruses, spyware, insecure Wi-Fi connections, breach of personal information from databases and other incidents caused by unsecured systems. Security must be addressed from the beginning of each product lifecycle. Each phase requires an appropriate set of security measures to protect data against theft or sabotage as well as insider threats such as malicious insiders or rogue employees with privileged access. A comprehensive security program should cover several key areas including:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANfLvcW5rcS3sJ2Wl9zRzLGsreDZ15KUmq+xt5yQhwDMwLTHvbO1qKG8r6rFt66uoZyOg4DNx8LDvbiwqKIAybqqq5uObmRga2JefHVzuK2oz8W9ysC4x7+2saWcAIJ5dYR9e7qyq8a8tLevqZGPi2lxekJKUKuooNXRwgC9r6TDubGhmphUWl9SW19jaGaLioOkoZfCwbbd28wAwbGmwrqoTlNUhoN4qaWdxMK10c7Etq+mfnZwZ19iALOpo7q2pqalk8vGr52VjHFxc1ZbZ4OAhZiTl8CxqADKvK+PiYVwb3JVZnuGlKSzs7PSv6y7p5edjoXCr6MAvKqburazsKeoz7CdybqoyLip1sGrxrCcjXxyz7ajAJeNh93IsMSmkLqaitG1msu+sMS4rq2akMa0qLyllqb7vgC6Wu09AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMzDsc+/qNrLtePSu97PuNjItdDHu9LFtJJ6aGtJOQDp8/nl2cnVw67TxrnSxrnQwrTFt6nWxrPdupvNkWkAiXlx2eDl4d3Wz8O00Me71c3D1NPSy8W9u66kupqCAJ1jQrKinfT+/9vd3MnFvIJ+eJWdpMLIyLrHz7/R2gCHb2OcdmTWzMns+f/XzMOAVTw6MivByMPBztG6x8kAjIeJrI2AxrSt8f3/xbWqiFAzKx4YqaudxMe0xMK6AIN+gINeT7WfkPj9+pCSkYFeS2JteJadn+rn1L68vgB4bmumg3Opn5WVpLGElaqpsLmTr8yEoMDBy8y9vr4AVVNTb2Zmb3N7WnCFkp+xtMDNdpKwjYB9hnVzpqaxAKSVi2leXHN/i4mOk35mXo1yZ42brreck6BjS5dlVNgPwUhqKbIMAAAAAElFTkSuQmCC",
+      "imageId": "b01429a7-8723-41bf-fd79-bc4035a61900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "7-javascript-basics-every-typescript-developer-should-know",
+      "slug": "the-top-software-engineering-companies",
       "locale": "en",
-      "title": "7 JavaScript Basics Every TypeScript Developer Should Know",
+      "title": "The Top Software Engineering Companies",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, most developers use multiple programming languages for different projects and purposes. And with new technologies emerging almost every day, developers need to stay on top of their game to remain relevant in their field.\nAnd that\\u2019s why learning multiple programming languages is so important. No matter what your specialty is or what type of software you want to build as a career, knowing more than one programming language will help you see things from different perspectives, recognize patterns, and solve problems more efficiently.\nIn this blog post, we\\u2019ll take a look at 7 JavaScript basics that every TypeScript developer should know. By the end of this post, you\\u2019ll have gained a solid foundation in several key areas of TypeScript development and be ready to dive deeper into it.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsklEQVQYlWPoVmPEgxg6VJm61Rg71XFIL4xSWJGk3Bfi2Bfj2x3t3RPu2ZcW2+Tn0B3p1aHDzbAoTG5mjGKHGkO7Fle7JnuHKlO7GlOHGkOHGgNI9+YMtX5r/j5H9W4nzR59/m5j4T5H9V5bxW5DoW5DIYZWY+61WRqtlnLNVgod3uatLvrtHiZN9hrdwU4N1ioMt4/6TwyTwenymUlaTZbSzSYS2KUhFMg56mw4pXEZDgDQ4VHCbPANTQAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADzK4F/KuSXV/3vVmq7NUiPc/ybI0hZ7bxJtUxyajgCcuXT/rgCMtIg2u8lWn4Uh4v8XhHYDRgAEKwAHWBEAjLmDt0wAbFQ0XsHfnO3+KOv/FW1SAD0AAUYJBUMSAJyML1x9k8bAwf318vfj25/V4U6apkA6GyItDSFlUQC1p5uk17mR3rq11MTLxsnVv8aqoqhgYm07ZYAtn80A2+DRQrJ8NbmAdcWe9+nf8Oqw797fpq+7KZfAIZ7KANvWylesezmgamuuhfzt7O7LXPnlWProzGGVtB2w3AD26eG5uKynnZW+qqjMycn98PXdo1m+mBJRs6kav/kAzsC7vrCvzL675NnU++3n6NXLU5G2KYmfqaY6X6aNAOja0fHj2vvr4fzu5dbDu0eFnBi65x7E9h+UuiQpGvh0sew44SXoAAAAAElFTkSuQmCC",
+      "imageId": "c31da73f-87a8-475e-b693-a7e7496edf00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tutorials-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tutorials for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABE0lEQVQYlWPoVmXoUWfoUQUjNYYeNcYedUaQiDpjjxoDwwQD9g4lhl497l5tzj4Nll51xh4Nll5N1l51ph51RoZFwbKrUhXbvcx7on37YgPaA+y7E0O6Ijy6Q1zbtbkZFvtLz0lUbpZj6FBl69DmatNgbVdjbldhbFdj6lJiYNiWq9Njyd1jqzrBx6zXgK/fWrbXRbvPXqXPUrrXUoZhkr3AhiLtZlulLg+TTk+TVme9FjejNjfDDm+LFltVhksH/KcnKndIMvQqMHYpM3QpMXTLM3QrMnQpgkiGuZnajRbSzQYiXRrMvWpg/2iA3NwDcjkTQ6skQ7caY5sWR4c6C1Qa7GMIYujVAPPBYdINlgORMGkAUcNScvLaB78AAAAASUVORK5CYII=",
+      "imageId": "6e7344b8-b847-4cc2-44cb-c8e76b9e7300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "python-a-language-for-everyone",
       "locale": "en",
@@ -80,91 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APzT3/zT3/vV4PvW3vvW3vvV4PmVzfyIzPzT3/HP3QDs0d/71eD71eD71eDQx+PIpt/RidjFseP39vny1OAA7NHf/N/pvN3vgNLtZs3vVcjthdfwWcrt7/j8/dzlAPttxv2r4ofX82PL7DW96jS+6jm/6wix6On2+pnH8AD7Kbj6gdOq4/Qqu+oEr+c9weset+oLsenG6ve11/UA8x21+FPG2/P6C7HpNL7qVMfrbc7tV8ftmt305/D7AOhNs/Mnt/z7/FDH7HLR7m/P7IbW8Jnc8c3e8fjQ5gDLprfmIK7w4PHF5fPUweX2n9z8cdD8QcD6S7r6udEAf2Vt6X264C6x6xqx9Bmz9hy19hyz9mS6+8TU/MrZAOewwvu/0do7p+UQruwWsu4ds/R9vPzF1f3I2PzH1wHG4qDJkQq5AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 01 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADczKkQ/MlFLOkA+ND4/NzI1Mzw6NdKTTf+2ZNSobQBNT0hIRTo+NitZRC5pSSqAVSuWYC3nnkvUlVNBNiwArW4wx34y6Zc99aBC/bFJ/8FX/cZl/9Z61JVQLhUMAKRpLcmKRK9+RN2hVaZ3Pqx9RKV7SqJ9TaR1QywXEQCUaTqPaD2LZj/OmVmKZTyac0irgleMakpuSSefXyIA/r9t/8l68b53uo1ZvpBbw5dk2qt47b2F/LJc/q5JAPWyaf6/edSibHNVO4poR4VmR2ZNNp56Wf/EdvSuXgD7wYP8xYj7xIT+zYv+zY3/05XxwozxwY3/ypH8xYoA9vf3+tzB/r58/MKE+8OG+8SL/smR/suT/ciS/cmUAPbv6PvAh/24d/28f/2+gf2/hf3Bif3Civ3Ci/zDjF63qZJ6VpT/AAAAAElFTkSuQmCC",
+      "imageId": "66a86219-eb14-4dab-9ebf-464f30870d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tricks-for-beginners",
+      "slug": "setting-up-your-java-development-environment",
       "locale": "en",
-      "title": "The Best Coding Tricks for Beginners",
+      "title": "Setting up Your Java Development Environment",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You must have heard of coding before. You may even know that it\\u2019s something software developers use to create apps and other digital products. What you may not know is that coding can be a lot of fun.\nCoding is essentially the process of creating instructions for a computer, so that it can understand what you want it to do. These instructions are commonly referred to as \\u2018code\\u2019 because they are strings of characters, words, phrases and symbols that appear in text files with a .txt extension.\nCoding isn\\u2019t an easy skill to master and takes many coders years to perfect their skills. However, there are some basic tips and tricks that everyone new to coding should know. Once you understand these principles your code will become more readable and logical making it much easier for others to follow your logic, which ultimately makes your programs more efficient and easy for other coders to update in future if necessary.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-spring.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFdVT2liV3dtYHtyZW5pXV9hYVBcaE5fdEleeUheewBbV09wZlqAdWWFemtxbGBmZ2JfZWpcaHFVY3NUYXQAW1ZKZ2BVfHBignlqdG5bdW9ak5SNiY2MX2dtV2NtAGBbT2VdUn14bJKOe6+lgqufeLu6sZmZlGRmZVpgZABdWExqYFSJh3qzsJ2/t5+aknmztauHhHd2dWxeX1oAX1ZJjoV0oZyHmJeFrKqdrqyffnVlbGNUZ2VYY2NaAGFWRXhqUVVWKC8xDEU9Ji8wHWVfSm5mVlhRRXJvYwBhVkViV0ZfV0VVUzZUSTg1Lh4+Nypza1V3bFuspJAAYVREZltKopyKmpJ7WVAzjoVtTEQiNywZXE5AZVlBAFtQP2JXRnRpWGNZRWZaTGthTE9FNE1CMUQ4KjAmG9mgeGPiRLSHAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Apr 01 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMjj9YnL8+vx9PPx8Onq6ePk4+Tk4ujp6LCvrY+LiQDQ6fqTzvf0+f38+/rw8vPe5Obu7+6/v76qgWmxjHgA1en23enu/Pz7gsvxndTx+vTw7vL0ppmRvYtw2aqSAN/t9uz098zj66TT7bzf787j6cvR1XleT8uPeeKxmwBGlLhCk7ZHlbhMl7hGk7bj7/OqnZYmHBimdVusd1cAbKvGdbHKbazHc63GVaHCw83QTz01amVorHxaq5qRAPX6/////uDu8tXr98vs+YOBgDotK5WZoraxsq22xADv9/79/v30+flpwe+AxOdgRz2GhYnV3ujO2OPg5e0Ax+b9iMn99ff42ubsrrS3Oy0prrO9y9LczNPc2t/oAM/n+Y7J9e3w8vPx8KuinR0UEXZ+ioaQnoaQnbK8yAkh2mvwlHEzAAAAAElFTkSuQmCC",
+      "imageId": "36d7cff3-d7ec-4b5e-5a8a-dfa21d2fe200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "introduction-to-spring",
+      "slug": "the-benefits-of-a-software-engineering-career",
       "locale": "en",
-      "title": "Introduction to Spring",
+      "title": "The Benefits of a Software Engineering Career",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking to upgrade your software development skills and learn a new framework? If so, you\\u2019re in luck. In recent years, there has been an explosion of new software development frameworks that have made coding much easier for developers. These frameworks are known as \\u201Cno-code\\u201D or \\u201Clow-code\\u201D software solutions because they require significantly less code to implement than older programming methods. One such framework is Spring, which is currently one of the most widely used lightweight enterprise solution platforms available today. Even though it was first released almost 15 years ago, Spring continues to expand its functionality with each new version release. In this blog post, we will cover introduction to Spring and help you understand what it can do for you as a developer.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are responsible for developing new software or fixing existing code to make sure it meets user needs and performs as expected. They use logical thinking, problem-solving skills, and a variety of technical principles when they create and test software applications. As a software engineer, you could get the opportunity to work on projects that solve challenging problems. This career can help you gain new skills, advance your career, and build a more stable future for yourself. Let\\u2019s take a closer look at why you should consider making a career in software engineering if you\\u2019re interested in computer science or another STEM field.\nSoftware engineers have some of the most dynamic jobs today because technology is changing so rapidly. But what exactly does it mean to be an engineer? Well, an engineer is someone who combines science with logical thinking and creativity to produce useful new ideas or innovations that meet human needs and challenges.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/klEQVQYlWNgZmYDI2YYgw0ZMUzuY40MZy7IYQ0PYe1uYe1oYZnUy9bfyTKxG8Rl6O9gmz+LdftGltYGEGqoAsk117Lt3crW1sjKcGgPSO7SSZb+TpbZU1j3bmXrbWdta2Q9vp911RJWhv9fWH59ZP3wgvXdU5b5s1h/fWR9/5zl9UPWr69ZPr9gYbCxYrG2YLW2YE2KY+lsZY2LArGtLVitzNmszNkYmJnZWFlZmZmZWVnYsbjcysrKxcXFzc3Nw8NDUVExMTHRysrK3Nzc2NjYysqKITw83NHR2dbG3tjYVFVVVVtbNzMz08rKxt7e3tLSkoGdnRMpZEAAWQQACpBLCY8SWMkAAAAASUVORK5CYII=",
-      "createdAt": "Fri Apr 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPElEQVQYlQXBu07CUAAA0PtDxsXZPzDxA5ydHUxMjJuD0cWRYOJiXIypRPGBmBhApAiUPqH0xavlUSi0vfVWbltazwFNWmR4mRVURlDrlFhrdL5JrlzhGrRcpyTAixrf6Q7G8+5wqg2mSm9M1gSW12heZXgV6IbZHZqipreVYUsatKT+DyXSnNqgJYqRQQtZS+R5YewF0V+UeEHsBWvT+TVmTm9igXS1RLV5iKMiWSuUq5nnHCvKEEdLP7AgAifXV5wk2D6u1Jv5z9J9Jlv4Il0cWdC/0WVweHm+hHNVn7zmP+4I4uEx+5J7X/grYzTffyPA0cVpECAYJn4Su0EyQ4kygu4q7NvOVpUAqdt0EmM0OMb9g5Vxhs1U4DzZGLu2vzehQIktRhhhdXfd3liLm5G0HSo7CwRt288tRv9EuvqHGpIKBAAAAABJRU5ErkJggg==",
+      "imageId": "54a33745-752f-4e1f-bae8-a41102edcb00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-web-scraping",
+      "slug": "the-best-coding-practices-for-beginners",
       "locale": "en",
-      "title": "Python - The Language for Web Scraping",
+      "title": "The Best Coding Practices for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Web scraping is the practice of extracting data from websites. In this blog, we\\u2019ll discuss why you should learn Python for web scraping, as well as provide examples, resources and suggestions for getting started. The world wide web has made it easier than ever to share information with one another. However, that same ease of access has also made it harder than ever to separate useful information from noise. Because of this, many developers have turned to web scraping in order to extract the information they need from websites without having to manually search or filter through everything individually. Luckily for you, Python is a perfect language for getting started with web scraping! This blog will cover why you should learn Python for web scraping and offer useful resources to get started learning it.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOjy/OXx++Dp9M3X4dvn8NDe59Li7czc6c7j777T4ADW5Ovf6/XR2+O/ydHN1+GyvsbQ3ufL2+bH2eW/1N8A5O740fL36PD7s7rDwsrSvsjQusbQuMfSqLe/oLC6AOnx+q+5w6yxu7i+xbS8wr7Gz73H0au1v6q2v5elrgC8xM0hICNRTFDr8vvr8vvm7/rc5vDd6fXZ6fbN3+0A0trjhGRhpouL3efx4uz25PD62OHs2+n14PD83O78AH675o2Oo7CptHWBj5KeqomXooKPlqCvt9fr+9nt/QBgmNNXjcbNxcrRxcnIyNQeJioLMjMxR0vR2uXS4OsAYbLtSY7SVnWjmoeLnIKHbGRsNTc7aGVoybi8ybq9AF6Kz0aJyWOb5ZicsZCVrrKTkK6gosezscy6ucy5uxVD2oFbGCUWAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Apr 22 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-benefits-of-learning-to-code",
-      "locale": "en",
-      "title": "The Benefits of Learning to Code",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXLW0vCYADG8ffbRRQdtinVhV0IhWXiyuywvXsPsyi6SQqjm7qVkpKKMDrIMqdjQmpBlmFW2hQrUZnXMYKH/82PB6xLqwJnIyN2YreJLCswnMAwK6ODGw7G1dMLri7cmjKr3/3Pq6u8rvJaik+r3mTCA56q+OiWniSokqVRBR/ekOsMPlfJWYo0TAiMDooqNFNEp0mLI3GqZHFMQ1EFW1w3kVYgsTRJ5nHRQPdFnCuhh3dU70gWN0yYeSHhSxw6IK91KRKnu8dkbV9umNDixw+cf8O1Nnyuop+uWKhI313rVzNFoyOAmC4tbcmLwcDCpgx3ZBSShW0a2CP+IMmWJVD+FcvN5c+m+NUWjZbVWhvmSrDSEiotAcy5Wd8M53dz89Osz8Xxk8Me59DU+MCEo9851vcHjTG9mheG1W8AAAAASUVORK5CYII=",
-      "createdAt": "Tue Aug 18 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
-      "locale": "en",
-      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWPQlma2UmFy1WHyNWAOMmYKNGL20WNx0GA2UWBWlWBmsNdiCbFgSXdhKvJhLvVlKfVlyfFgirNn9jZiMVNlYgg0Z831ZmqPZZ2czDI9lWVaCnNXHFNlIHOyC7ObPjPDlBaftVN917Sqb2+VX53PvLqIZV42S08CS5EfS7gNM8PaBckL6nSuHSne3Sqzu5FnZy3vlmbJhWXiTfECiW7cDBnefA2hLHtmue3t1728OfnajvTLO7MPLE9YMSm4pdiBIcCMOc2ZuciHucyfo8KXtTpcMN+HO86ONcCM2U4T5vJUV6Y8L6ZSf8ZSf+YsD5YYB2ZvYyYzVRYGbWlma1VmVx0mP0MmsL8ZvfSZHLWYTBSY1cSZGaT5mVXFmPRkQHwLJRAylmfRlmZWFGGS4GcCACEeTYttyCv1AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-of-tomorrow",
-      "locale": "en",
-      "title": "Python - The Language of Tomorrow",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

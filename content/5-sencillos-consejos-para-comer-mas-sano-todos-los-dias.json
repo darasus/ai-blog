@@ -1,9 +1,9 @@
 {
   "category": "cooking",
-  "imageSrc": "/articles/5-simple-tips-for-eating-healthier-every-day.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJ0lEQVQYlT2Oy0sCURjF549sFbQNaVO7IqJlKLWpcFEiMY6SmRZopjYSNSUmY4NjPlLmUamYDhhNeufO3PtJ+aCzO+fHORwGAIjGthIrRWmXEtOx8G08zrLeplQCAAaI9VZyn/pc0t0WQcqgb0SPAn7PQYqLUsdhAKD3kRGSG1Xx2CEIYyxm7y99gaZUHo/HEzxTVuXzrVxaSb305P+QQTYysTkz9YGqfLdGDrIpnuN6vxarxc4r4ZDMXTeuQjJ3UY8Gy1xW5d+/9Ml4d9TxKjtnGptR04X2U6bCp/O8OfyZPgeI2HvrhcVDa9WANkHUeLCFk+eBaM+xR3OtpRY2C0uvRBx+YsFfTOzfSOEGONPngp7cflz2ldw2RZRQPdcpRqrdmvHX/gXHKvmbyspxAAAAAABJRU5ErkJggg==",
-  "createdAt": "2022-08-02T10:26:47.942Z",
-  "updatedAt": "2022-10-11T17:13:33.032Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNElEQVQYlRXNzUvCYBzA8efvCzp16yR0jKBDB8GrEB4KQqQgzRDSpUkkCUoahZaTpluKm+TSUnyZJbjtMTefl1/I9/75IgZA29FWwqNoQWAmJ/CcyYbDJ7rW4JQjALsj+WNBj5jfB/o1n1qxo9Cxz39/eb1yXMQBjEFRLPjUesQlmBL2XqpmoomO0gIAxDkHgBXB8qTemqrFbqFv9YGv45wjc2lOsWE51sK1qxMl13s0rLHt2NjBLnGRPtOFhnDTSKeaqVstfVELJzUhoV7l9dzIHCIAGODvUOcw1Y3JQ0Uav5XbrxVZMrG1flNGM+TUq21FqHcGI3Dgt/RXOW/O5RWjDDmwCHzs7sQ39sqbKojEgOKZmAzc1YQ2XbI1/tTLHjxsR5SAy5ecwufLUBLUkfoDwP8Bf7/5MOVyydoAAAAASUVORK5CYII=",
+  "imageId": "1a1bf6bf-62f0-4a12-d7cc-23001a3e3f00",
+  "createdAt": "2022-11-05T21:47:31.371Z",
+  "updatedAt": "2022-11-05T21:47:31.493Z",
   "slug": "5-sencillos-consejos-para-comer-mas-sano-todos-los-dias",
   "locale": "es",
   "categoryLocal": "Cocinando",
@@ -20,85 +20,130 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "/articles/what-are-fermented-foods-and-why-you-should-start-eating-them.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOElEQVQYlWPQ9M91T290SKpNqpvkmdXsklIbXNjpmFITVNAh4ZDEIGQTF1PR55BU7ZnVHJDX5p7eGFbS457eaB5Txm8VzaDpn2ufWBNS3OmaWh9U0GEQUuiYUuOUWqvgkSHrmsrgkdlgE1cVXz0ppqLPNqE6urw3qKAjvmZCeGm3mm82A49ZlIhFuId7uIZ9FI9ZhGFyUc3ZHVVndxill/KYRTHwmEW4u4Xtzozpi4vhMYuo3rp+4/cj676tbNi5FiotYRUR4xtp4BfCYxZ14/3ilx+nfPiy5+6XXSBpt6gci6D0YmWjRiU9LvOoPRe7Hj/re/t5yt0ve7gtohlWTO99snvuulldaya3KLrEt88If/pq7fevJZde1EAMj+KzjBKyiuIxAyHztOzuLdMmb62yysrjMYsAAPqEfSdq7DuVAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Mar 19 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "que-son-los-alimentos-fermentados-y-por-que-deberias-empezar-a-comerlos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJw7Kp9aR9TW0cDGwra3sNzZ0+HuyNjfy+bp7t/g3wCma06+lYPi6ezDuqWkj3rf3cuVpyWdo23m1NTb1s8AopR9n4dqu56CimNGaEMpfVY/qo9ttKCHxHtlvGBEAKeQfKaCYl01G0csE3ReNWI7Emo1HbOilsiqmKA9JQC8sKSbhXVFJA+EgUWhumSjrWuDSSKpiHfh4NnAhnIAv7OZq56XbTgYlHk+YnkyeWI6i0ceyZ6AwMnEnqyvAKN/VdjCqpd1Wn0/E3RBGIE8EqRrRrWijbO/vKGxtQCPc2SmiG+miXKOb1qJXkKie2CLeWt1cWeRnJqNj4YArLbOpKe5hnx+g3JoeGJPaU81UTQba2RWgH5wgHlpAM7b37vI4bO+16KnvX51d4t1YYBnUHNuXoWJgomEdzepoRcmSh1YAAAAAElFTkSuQmCC",
+      "imageId": "2cc191c3-cb96-4a9f-2409-de71466f9b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "las-mejores-recetas-para-aprovechar-sobras-de-cocido",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "¿qué Son Los Alimentos Fermentados Y Por Qué Deberías Empezar a Comerlos?",
+      "title": "Las Mejores Recetas Para Aprovechar Sobras De Cocido",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Los alimentos fermentados est\\xE1n teniendo un momento. Dondequiera que mire, ver\\xE1 otro art\\xEDculo sobre los beneficios de estos alimentos que suenan un poco extra\\xF1os y las bacterias intestinales que alimentan. Son la nueva col rizada, se podr\\xEDa decir. Y no te culpar\\xEDamos si pensaras que todo era un poco extra\\xF1o y asqueroso al principio. Despu\\xE9s de todo, seamos realistas: \\xA1los alimentos fermentados son bastante extra\\xF1os cuando piensas en ellos durante el tiempo suficiente! Pero como con la mayor\\xEDa de las cosas, las apariencias pueden ser enga\\xF1osas. Resulta que los alimentos fermentados en realidad son incre\\xEDblemente buenos para nosotros, tanto que los nutricionistas los recomiendan como parte de una dieta saludable desde hace a\\xF1os. En este art\\xEDculo, veremos qu\\xE9 son exactamente los alimentos fermentados, por qu\\xE9 son tan buenos para nosotros y c\\xF3mo incorporarlos a su dieta.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que las sobras son el secreto de las excelentes comidas caseras? Pi\\xE9nselo: los grandes cocineros caseros saben c\\xF3mo hacer que las sobras sepan a\\xFAn mejor. Los usan para crear comidas nuevas y diferentes que a todos les encantar\\xE1n, en lugar de comer lo mismo una y otra vez hasta que no lo soportan m\\xE1s.\nPor eso hemos elaborado esta lista de las mejores recetas para aprovechar los restos de pollo cocido. Estas recetas son r\\xE1pidas y f\\xE1ciles de preparar, pero tambi\\xE9n cumplen todos los requisitos en t\\xE9rminos de sabor, nutrici\\xF3n y facilidad de preparaci\\xF3n. En otras palabras, no solo utilizan las sobras de una manera deliciosa, sino que tambi\\xE9n te hacen la vida m\\xE1s f\\xE1cil para que no sientas que tienes que evitar cocinar otro plato de pollo solo porque est\\xE1s harto de las sobras. !`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/teaching-kids-about-nourishment-fun-and-easy-recipes.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALWnnCAMBykWD7ickdC3pruikdW5o9K2nc6ynNrCrQDTxMCBTkKmY0zjysrn5+fi4dmdj4OXiILn5drt7OMA28/Rx7rDs6Gs4OPt6Ofq0szDPSUbYEdC1szC6uXZANbK0ODc5uHi79vU3968r+rm15NlTbyNdunj1erm1wC2lpPOt7bb0dnaztLVnX7nryzZli/gp3DsxWfs38EAuo6B0rm228O94NfY3riH4qVY67Io7rtE8sRJ89qTAKdwV7l7YMeFZd3NzMaciMuGKeWwOfPGU+i1S/LMcACkgVHMsZPCtrpuh8DEvLbRlijhsFbjpWHlsY7qzroAqXEyy5hM7MRpnI2Zy763vZhy7NKf6suM4K1R7cd7AK9oHL13L9CLLsaUbN7Js8uLRrVsKKx0Na+VOrmkR8JsxjKiR4D9AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jan 04 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ensenar-a-los-ninos-sobre-nutricion-recetas-faciles-y-divertidas",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKQnAKZ3a+H9/8Pg6r/g6Nvx/eb4/6SuuJuQjs7m+ACLFQBqaUmZqn23my22ql662tPZ9/9iU1BFCQCakY8AhThLhYFJ7J0G/8pw/uCz/d+s3+bafoCBQR0Gc1NAAHOfosuhH//Ic7Gvqte+if/kr+3dupdkMm1LMUs0JACOn5LVqjn/2ZicnaKxl3T/4qzl3MlkNBOVRwCVVBUAeoCAta9o/92j8eDK8+PN//nas5Z2dzMAYSwHh0ECAD1PUFx7drXBsu3p2+LczJqFdnY2B49HA4tEBFMlBwAuPz8vP0E5RERpUT2OYUBdJgdkJwJWIwGbVhWnjGMAWkY4PzcuPD8+QjgoeEwnjVs2Wy0SaysAt5Ng1cWVALjC0IZoWGpFLGE/I2RAIYBLHpNTGqJyPtLGntDDmHfwmCIUqSoOAAAAAElFTkSuQmCC",
+      "imageId": "572f7120-2c31-45c4-1a3f-03125f3afd00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "5-sencillos-consejos-para-hacer-una-mejor-sopa",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Enseñar a Los Niños Sobre Nutrición: Recetas Fáciles Y Divertidas",
+      "title": "5 Sencillos Consejos Para Hacer Una Mejor Sopa",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Es casi imposible mantener a su hijo alejado de la comida chatarra. Las tentaciones acechan en todas partes y es casi imposible para los padres monitorear los h\\xE1bitos alimenticios de sus hijos en todo momento del d\\xEDa. Eso no significa que no pueda ayudar a su hijo a conocer los beneficios de los alimentos saludables. De hecho, incluso los ni\\xF1os m\\xE1s peque\\xF1os son capaces de captar conceptos b\\xE1sicos sobre nutrici\\xF3n y c\\xF3mo les hacen sentir ciertos tipos de alimentos.\nYa sea que su hijo sea quisquilloso o no, estos consejos de nutrici\\xF3n lo ayudar\\xE1n a comprender por qu\\xE9 es importante comer frutas, verduras, granos integrales y otros alimentos saludables. Ya sea que reci\\xE9n est\\xE9 comenzando o contin\\xFAe con este plan de alimentaci\\xF3n saludable para ni\\xF1os con desaf\\xEDos m\\xE1s avanzados, los consejos aqu\\xED lo ayudar\\xE1n a crear recetas divertidas que no olvidar\\xE1n pronto.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hacer una olla de sopa es una de las comidas caseras m\\xE1s f\\xE1ciles de hacer. Pones algunos ingredientes en una olla, la llevas a ebullici\\xF3n y le das vueltas por un rato. No hay mucho m\\xE1s que eso.\nHacer una gran sopa, sin embargo, es otra historia. Las mejores sopas tienen capas de sabor que estallan en la boca. No son delgados y acuosos, ni est\\xE1n tan llenos de ingredientes densos que apenas puedas meter la cuchara en el taz\\xF3n sin pescar primero media zanahoria.\nSi solo ha hecho sopa como una ocurrencia tard\\xEDa, algo para guardar en la despensa cuando no tiene ganas de comer las sobras, podr\\xEDa ser el momento de darle otra mirada. Hacer una gran sopa no es dif\\xEDcil una vez que sabes c\\xF3mo hacerlo. Aqu\\xED hay 5 consejos f\\xE1ciles para hacer una mejor sopa:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/orfollowing-food-trends-is-it-worth-it.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMeuQMuxQ861R9K5SNK8S9S9TNW+Tda/UNa/UNa/UADHsU7QuUjTv03VwU/Zw1LcxVTdxlfdxVncx1zcx14AjISJ1cFP28RV3sdY3Ml93MmJ28mQ3MiN4M1/4c5zAJOEZNnEV9vIXNbKibuvs6yPmcWPX4UnR9XBw+DWtQCzfGPYv1/ayWDMxJezsMOSYFGNOxXVZmO+h4fi3dMAsY1FwZR2zLxZybtetrS8hEZbn1BomD9BqnRt18uyALWdQaRpW7WYO7KMMJ9yT7ayyMfM4cbI3NK80+7foACxkzeibTikcjiqgCikejqgbmGgcmm6ipjn19jx5p4AvJg1tI0vrXNAto0ts4glupQ8zrZz4dej7eak6eGiAMmrQcytQdGwQ9W3Rtq/T9/HXuTUd+Pbk+Pdn+DcopARuVrwXEjAAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Sep 01 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "orseguir-las-tendencias-alimentarias-vale-la-pena",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AL+WSqh9M6aDMpWAY7adjb2ehtKyoNObec6wg+WIYgDFhiK/hiSykUKuqJ2xmpOvkHy7oYuUcTq2fkjJbEkAXUItVUpHdY+rutLo1My8qKebl5SGdVw4fFMYjWorAF2EYW+KjGeCiHNpUp51IqqVZs6jcb+VaJBwRqZ9SAA9XDF0nHN0jVGPjm7StpK3lG60il/euYnFonSxil0AcXZ4Q1RCa35Vf3BKp3hLkWpCcE4ssItf58qcfWxVANHDuoSKkV9qbGhsaEI4LDsxI0I0JI5pRKydf26EjwDcsHra3OF/ho9cZGl7goNaXl06QkZNU1VZa3ZwhpgA0aZz38q44ObufISRXGdyfYyWcYSTXXeNgpmuztzqALmKY8ifdN7V0uLr+YONmk5dbl1zipesw9/r9+nx++2/nrs5+JBwAAAAAElFTkSuQmCC",
+      "imageId": "04f035d5-007e-4454-4bcf-1a159a272200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "5-formas-de-cocinar-con-tofu-para-carnivoros-y-vegetarianos",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "|seguir Las Tendencias Alimentarias: ¿vale La Pena?",
+      "title": "5 Formas De Cocinar Con Tofu - Para Carnívoros Y Vegetarianos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las tendencias alimentarias parecen ir y venir a una velocidad vertiginosa. Lo que est\\xE1 de moda hoy podr\\xEDa ser noticia de ayer ma\\xF1ana. Pero tanto si sigue las tendencias alimentarias como si no, sus clientes esperar\\xE1n que se mantenga al tanto de lo que est\\xE1 de moda actualmente. Entonces, \\xBFc\\xF3mo debe lidiar con las tendencias alimentarias? \\xBFLos seguimos? \\xBFIngn\\xF3ralos? \\xBFO simplemente darles una respuesta tibia?\nSiga las tendencias alimentarias si tiene sentido para su negocio y util\\xEDcelas como una forma de adelantarse a la competencia y obtener nuevos clientes. Seguir las tendencias le brinda a su empresa la oportunidad de atraer nuevos clientes al mantener su lugar relevante con los \\xFAltimos gustos y preferencias. Al mismo tiempo, ignorar los alimentos populares tambi\\xE9n puede ser arriesgado, ya que puede alejar a los clientes potenciales que buscan esas opciones cuando vienen a cenar a su establecimiento.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Independientemente de su dieta, el tofu puede ser una adici\\xF3n vers\\xE1til a su plan de comidas. Tambi\\xE9n es uno de los alimentos m\\xE1s incomprendidos. Todo el mundo sabe a qu\\xE9 nos recuerdan el queso, el pescado y el pollo, raz\\xF3n por la cual, para muchas personas, el tofu es un alimento extra\\xF1o, casi extra\\xF1o.\nDicho esto, el tofu ofrece una serie de beneficios: es rico en prote\\xEDnas y bajo en calor\\xEDas y grasas saturadas. Adem\\xE1s, dependiendo de c\\xF3mo lo prepares, el tofu no tiene sabor ni textura que pueda desanimar a cualquiera que desconf\\xEDe de las cosas.\nPara aquellos que no comen mucha carne o pescado pero a\\xFAn as\\xED quieren disfrutar de los sabores que aportan a una comida, cocinar con tofu es una excelente idea. Aqu\\xED hay cinco maneras en que puede usar este vers\\xE1til frijol como ingrediente principal en su pr\\xF3xima comida casera...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/5-simple-tips-for-making-better-salads.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKOMVIlaL5mXjKihlrStn73HzbzK07vJ1L7O2bXF0QClgUabilfHnH+7iW+hi2yptLe6ycvBz9q4yNWuvsoAamMRW3kGbocxcWMoimM4b3o2m41S0eDmytjhsMDNAEdNG1RiNJiVZqFvN4NbLVhwO6GhbN/n4uPw9MTT2wCiczhNTh6gVSqrYENLQSA8SQmVUhC3lFX29vLd5ekAwhYCslAqjVImvk0vv0QpiHlKWlspdlom9fX10NjeAJBoOMOeS6qbXkZdI21+QEhfGmRwQ6iysevs6Z2quACSgCmzahiQeC56iD1bZ0Whram/ys3Gy8mCi4yFlJwALkEEWEIFVFwpkJuDxdHP0dbSuLmyZmZYY2lifYeNAFpfMn15XbS9vNHZ1L6/uHh5aUZFLEZILldaS294fHb5ncq6fvAKAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Feb 05 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "5-sencillos-consejos-para-hacer-mejores-ensaladas",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGhkZ2JhZXJzeHNyd2FeY1dSUUpEQS4iGR0UDBAIAgCCgoaHfniThoCLhn2XkpKcj4WNeWSTgW6Df39/gIQAopVnoYJglXlcpZ1qn5JuiH5tgm5Lpph0kX9ln5B6AJN3Y7CdbKqfXaKLb6WHcqacgaWce4dgOItxYXpmWgCNZkGokkGUfVGbhFCtpminjV+TcVGfknWSgX2Md2QAqo5tpJNIgFwoinZcfnlWfWpOdFQlk3JdjINMdmE3AJ9hHJpmIKOEP4JsQn1wRJ2KcJuHS4leRIxnKoZYHQDErW7CmVCzgze1diW1cRKfWiSudyytbRyreTi6oWkAfHxfqadxu7V1yb+Cz6xWyp5Exq5jwLVytrBxpqRxAHV0fHd1c25rWW1pTmVjTGVlToB9XpONZoB8Ym5qX5MZi3NluRN9AAAAAElFTkSuQmCC",
+      "imageId": "f6e74bb3-8648-440a-d83c-15408cbd4c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "la-guia-definitiva-para-hacer-pizzas-en-casa",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "5 Sencillos Consejos Para Hacer Mejores Ensaladas",
+      "title": "La Guía Definitiva Para Hacer Pizzas En Casa",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Preparar una ensalada saludable suele ser lo primero en lo que la gente piensa cuando quiere comer bien y perder peso. Desafortunadamente, muchas personas tambi\\xE9n asocian las ensaladas con mala comida porque han tenido muchas experiencias decepcionantes al comerlas en el pasado. Esto se debe a que la mayor\\xEDa de las ensaladas que vemos hoy en d\\xEDa se sirven en grandes recipientes de comida r\\xE1pida o vienen con una enorme cantidad de aderezo que necesita una cuchara para sacar de la peque\\xF1a tina de pl\\xE1stico.\nSin embargo, no hay raz\\xF3n por la que las ensaladas tengan que ser aburridas y tristes excusas para la comida. De hecho, una buena ensalada puede ser una de las formas m\\xE1s saludables y satisfactorias de comer verduras, siempre y cuando sepa c\\xF3mo hacer que sepa bien sin empeorarlo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Cuando se trata de salir a comer, la humilde pizza sigue siendo una de las opciones de comidas m\\xE1s populares. Despu\\xE9s de todo, \\xBFa qui\\xE9n no le gusta un pastel caliente, cursi y pegajoso de tama\\xF1o personal? Pero con tantas cadenas informales y de comida r\\xE1pida que ofrecen sus propias versiones de este plato cl\\xE1sico, puede ser dif\\xEDcil saber d\\xF3nde encontrar la mejor pizza cuando la quieres. Afortunadamente, gracias a la creciente demanda de servicios de entrega a domicilio y comida para llevar, as\\xED como al creciente inter\\xE9s en la cocina gourmet y los servicios de entrega de comidas a domicilio como Blue Apron, las pizzas caseras son m\\xE1s f\\xE1ciles que nunca de hacer en casa. Y ya sea que prefieras la salsa roja o la salsa blanca; toppings cl\\xE1sicos italianos o algo m\\xE1s ex\\xF3tico; masa fina tradicional o sart\\xE9n s\\xFAper gruesa o incluso masa de coliflor: esta gu\\xEDa le mostrar\\xE1 c\\xF3mo hacerlo.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-top-10-healthiest-foods-to-eat.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABN0lEQVQYlWOYNLFjx85N51avubZlw8VJPc9OtL+/1PVw/5JP759//PyBYc689lh/k/0uLnuDQs46Gb/bqPtyl+6zSsOvN3Z++vyBwdzG1T8k3MLA3M7J3drMysfVxs/DsS04enVk+qdPnxhyU5ISUzMi4lI9/UNcPLyd3b1MrOxbM/O2VFd9/vyZ4dtC55Iwu7zSytjkjLyiUitH56DQ6BJ3py1h3iDdXw8791c6Glk6qegYScgrisspSCmrT+1OPrNv+tevXxl+7PHpLXDUMbGSVFARkZAWlpSWkFecNCX/7OE+kPS7KaZXms0613h192f29qce3F7W35dnGRAdW1738fMnhndH5746t23Nod7Fq3omTS/dvWPSrl3zs9q7OxctffvxA8O7jx/Q0Fsw+ebD+5fv3gAAczClFbMlQEoAAAAASUVORK5CYII=",
-      "createdAt": "Fri Sep 10 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-10-alimentos-mas-saludables-para-comer",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMGNeq+BcOWvmM63scC1r8uyp7WHe69yZuy6pM3CuwCxhnzCikLSjDGthm7Zpl/hmDO9g0uwf2/LhnXYtqQA16KX559VnWAYz5U9/sNS9LU4+sFY9cBkv31l1pmHAM63tdCSbbBlGu+mTPvEVf3XgfvkvOy0aOKgV92chwDBwsTWpJKmYC6NSg/QgyXtsF/erm+3dznUoFi/nJQAMCknckklunMwp2onyIY+7q5K7b5vy5I/U0UtQTs6AEZAPVk/J7+DQ7uAP5pZJ9+cRdmmWm1KJkZBQXdwbgCTk5VyZFyyej+qcCt1QRGkczZuWEB3cHKcmZjDwsQA4eLjoKCjg3x5ZVZMWk9Ig3x5qairzc/Q5ufn8e3qAOnl4ujn57i5upiVlKCcmtDQ0ezs6/Ty8PLv6u7q5VAlr1BLFodPAAAAAElFTkSuQmCC",
+      "imageId": "b627c074-f3c8-4b4a-a666-45c19ff28f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-hacer-el-pollo-asado-perfecto",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Los 10 Alimentos Más Saludables Para Comer",
+      "title": "Cómo Hacer El Pollo Asado Perfecto",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Mantener una dieta equilibrada es fundamental para llevar un estilo de vida saludable. Puede ser un desaf\\xEDo comer la cantidad correcta de nutrientes todos los d\\xEDas, pero con la informaci\\xF3n correcta no es tan aterrador como podr\\xEDa pensar. Todos tienen sus propias ideas sobre c\\xF3mo es una alimentaci\\xF3n saludable y eso puede hacer que las cosas sean confusas. Es posible que hayas escuchado diferentes cosas sobre qu\\xE9 tipo de comida es buena para ti y cu\\xE1les debes evitar a toda costa. Pero descubrir cu\\xE1l es el tipo correcto de salud y c\\xF3mo lograrlo no es tan dif\\xEDcil como podr\\xEDa pensar. Este art\\xEDculo le ense\\xF1ar\\xE1 todo lo que necesita saber sobre c\\xF3mo comer de manera saludable y obtener el equilibrio adecuado de nutrientes en su cuerpo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El pollo asado es una de las formas m\\xE1s vers\\xE1tiles y f\\xE1ciles de cocinar carne. Asado correctamente, con un equilibrio de sabrosos condimentos, el pollo puede ser jugoso, tierno y lleno de delicioso sabor.\nEl asado tambi\\xE9n hace que sea m\\xE1s f\\xE1cil de comer que el pollo frito, ya que no tiene que preocuparse por el exceso de aceite o la grasa no saludable que gotea en su dieta. El pollo asado es una excelente fuente de prote\\xEDnas, y si compra su ave en el mercado de agricultores o en una tienda de comestibles org\\xE1nica, es probable que incluso sea criada en pastos y mucho m\\xE1s saludable que cualquier cosa que encuentre en un supermercado.\nCon esta receta de pollo asado podr\\xE1s disfrutar del pollo asado en casa una y otra vez. \\xA1Sigue leyendo para obtener excelentes consejos sobre c\\xF3mo hacer el pollo asado perfecto cada vez!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/from-soup-to-nuts-the-best-recipes-for-winter.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIx0UIFuS7bMxaa7uYZ7TYh+WImJbpOYi7bIxp1scQB9Vyl0UyyuuayJhVuodgWbdhqDXQ+EYhKqsJeeoKAAaEgebFM1r7evoru5mJh9m5Fgk4pgoaWKwNvbfGFRAIt/ZpOXjbG/upqxrpOpopasopq0razOzpGYmKKcjgBbTSltUyFlXUmdq6eos6ejqpyhrqWvxMR7YVq0vq8AYksef2lKyuXpnaqhfXZNhndDh4t1iYeDgHZst8K6AGtjTbG+t6K2rX9mIZhgBp1pFI9fDZiPbpKXkbrMzwBqZ1GMl42Eaz2xcAufaxh0Rh2IUBFmRhp8ZkLE3N8AjZOKgoyEq7ixn3hDpmMFgUoEjFIGZ0Yjn6War8K9AJ6kmZmemKK5upCjoZKdkpiYf5mfi6G2trPX3bHFxySlneqLfnnnAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALKuq7y4tsC7usTAwL26ubSuq8PBwby6ur+9usrIyACknpiNiH6XkIeIeWuMbUhrTCuciXjCvbKkpp3Py8EAZFVDaGJVcGBJfV87e0gUl10gglEi8N3C4+PZz9LNAE5CL29nVpSCZcKvkJp9XbJ4NNGMNN7Gqu7p3q2jlQCRi35oXUuWg2W6p4vXybO+pY7bpF/szJv35dGvglIAnpmKd2xcinZZwauO4c208OTR7t7K7rFz5qNklW9CAIGAcaehkI6DdZyEas2ng9Wkeeu+ktCZY29MKVlFKgCgmoyPh3PExr6jmo9uRCGVWSecYCyHVyt8VCt4UicAm5qPg39uwL2wysnEf25fclIygVIilV8rlGEsqXZAAJ2ck727sJKNfcfIv8zKx7StqZGCc3NVNpRmN9O1mGrjqhhfmB6wAAAAAElFTkSuQmCC",
+      "imageId": "129c4873-dafa-4b22-43fa-5505fb715c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "3-recetas-de-pan-casero-mejor-que-el-comprado",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "3 Recetas De Pan Casero Mejor Que El Comprado",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El pan casero es uno de los mayores placeres de la vida. El olor, la calidez y el sabor del pan reci\\xE9n horneado no tiene comparaci\\xF3n. Tambi\\xE9n es una de las tareas m\\xE1s desafiantes de la vida. Hornear su propio pan puede ser complicado y llevar mucho tiempo, raz\\xF3n por la cual muchas personas recurren a los panes comprados en la tienda. Pero el pan casero no tiene por qu\\xE9 ser una delicia \\xFAnica. Si aprende a hacer su propia versi\\xF3n casera de algunas recetas cl\\xE1sicas, se convertir\\xE1 en un alimento b\\xE1sico en su hogar y no algo que evite porque es demasiado trabajo. \\xA1Hacer pan casero en casa no es tan aterrador como parece! Una vez que sepa qu\\xE9 tipo de ingredientes se necesitan y se acostumbre a medir cantidades espec\\xEDficas, hornear sus propios panes artesanales con queso se convierte en una segunda naturaleza. Aqu\\xED hay 3 tipos diferentes de pan casero que son mejores que los de la tienda:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK6wtZ6YkJOKfJWNgZKLfZ6bkZyYjZKMfoyCbIN4XwDCytfR4fG5xdC2vsa0vcO/ytS9yNG+yNOkqKp4dWoAu8TRtL/HvcrW1+n34fT/4fP85fr/ydvmfoSJ2eHiAKm0wqesrq6zuMXDwbuwpL20qr7CxbS/yLLAy/P7/QCus7ayuby+wcG5saa5sKatp5+nopq0trTa6vL3/f0ApK6ttb6/0svH39zd2NbYx8C8yLqsysfE4u709v78AMfW4t3Z07OScL2mkMO4rcjCvbixq7Oys97m6vj//wDfybvTrJGyiFynflKhfVibgWecjXyurKjdzsnm5N4A0aOAp2Y3jVkvp4ZhpoVioIpumY9/qZuOt5mDysjAALd+S6BSDIg+CYZRLpBpTXhXPXVQMZJrSby4sOj7/iJ6zP7glm9+AAAAAElFTkSuQmCC",
+      "imageId": "d90e52e1-b1d1-47bb-20b5-fffbf7bd3400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "arrancador-de-masa-fermentada-como-hacer-el-tuyo-propio",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Arrancador De Masa Fermentada: Cómo Hacer El Tuyo Propio",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La masa madre madre es una mezcla de harina y agua que se ha dejado fermentar. Se utiliza para catalizar el proceso de fermentaci\\xF3n al hornear pan de masa fermentada, lo que le da un sabor agrio distintivo. Tradicionalmente, se tarda semanas en preparar el iniciador, pero existen m\\xE9todos mucho m\\xE1s r\\xE1pidos que utilizan levadura envasada; consulte a continuaci\\xF3n. Independientemente de c\\xF3mo elija hacer su propio iniciador, el proceso es relativamente sencillo y, una vez que lo domina, es una rutina f\\xE1cil de seguir.\nLa masa madre tiene numerosos beneficios sobre otros tipos de pan. Es m\\xE1s f\\xE1cil de digerir para su cuerpo que el pan blanco porque no contiene gluten (el gluten puede ser un desaf\\xEDo para las personas con sensibilidad o intolerancia). La masa madre tampoco tiene az\\xFAcares a\\xF1adidos; solo az\\xFAcares naturales del proceso de fermentaci\\xF3n. Tambi\\xE9n tiene m\\xE1s prote\\xEDna que los panes est\\xE1ndar, lo que significa que te mantiene lleno por m\\xE1s tiempo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADuPsaaWpkGd0Zeu0U+o2JSqtKeGUo2HbgB1tyBeawCjpqXSgX67kbOhmpGVnZ6VurkzhrquRWVJKUAtSiwA9vr+pJ6A4Ky7YKjMY5uLQpqcU4ycsDxmUUlrIVpQAJG01iagz0Cw1kOz9CGm6gWh7xef1CeYvFCRkXV+YQA+fZkGpPErt/Pk6fDN0+LA1OUkrvUHneKegmXFhmwAZI9jIIumTLrs3+747+vv7vf7Ja7rNpy0eY6enoB9AJ+VR2uZUwag5Bu6/zi++E/G/xWs6FuqspF5oo2VpgCYo2Z4okcnjqQMo+1ilLsShMk5oL0/lKoqc7RcgY0AiaNtnbhtd5RzUH1+nH92gJGTXHlqdJqTh52NkYVpAHurYYWzf7bMtry+o7SXhZXBujFueoHA0OjQl2abqYEMqMBc+joYAAAAAElFTkSuQmCC",
+      "imageId": "aa7560d4-8058-4cb8-bce3-655735b61700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-mejores-alimentos-para-comer-para-bajar-de-peso",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Los Mejores Alimentos Para Comer Para Bajar De Peso",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Quieres perder peso. Quiere comer m\\xE1s sano, pero todos esos art\\xEDculos sobre dietas y dietas de moda parecen mucha informaci\\xF3n confusa. \\xBFQu\\xE9 dieta es mejor? \\xBFQu\\xE9 tipo de alimentos debes comer para bajar de peso? \\xBFLos carbohidratos engordan? \\xBFReducir los carbohidratos te ayudar\\xE1 a perder peso m\\xE1s r\\xE1pido? Parece que no hay escasez de informaci\\xF3n sobre lo que no debe comer si desea perder peso r\\xE1pidamente. Pero, \\xBFy si te dij\\xE9ramos que casi todo lo que crees saber sobre comida est\\xE1 mal?\nloco, \\xBFverdad? Bueno, puede ser una sorpresa saber que los mejores alimentos para bajar de peso son en realidad alimentos naturales sin procesar, no productos qu\\xEDmicos m\\xE1gicos ni suplementos. Comer m\\xE1s frutas, verduras, cereales integrales, prote\\xEDnas magras y grasas saludables le ayudar\\xE1 a perder peso m\\xE1s r\\xE1pido de lo que podr\\xEDa so\\xF1ar con cualquier dieta de moda o dieta intensiva. Independientemente de la dieta que elija, estos son los mejores alimentos para perder peso.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIxyTnxnQbnUzqjAv4JzQIqAV4yNdo6Vh7jLyaZ6gAB4TRxxTCOvvbaQjmqkawCccxN+Vg2CWQivu6ahqqwAZEEYd1w8sr65p722mJh5mY1ZkoVYpKSHvNbRfmJUAH10XYiMgqm4tpOqppCrp5u3tZm2s7fl6o+RjpmMgABwYTliRRZqZFCjs6+ptamfppims6ultrZ/aWK2vKwAYUYThm9N0uvymamlgXZKg3E9jY94hIGAgXhvu8fAAFhRPLjFwKy+uHZdGpZiBZ5pEo5hFpiQb5KZkbnKzQBlYUeIlpCSeE+qXgChbBd4SiGCTxViNwOAZ0LC3eIAiIuDgo2IrLewonhDoWMTiFAGjVUMaEcooqmdts7NAKCjmp6mn6K6v5OqrJCWiJuZe5iZgZ+yr7fd5rLJyizGnjXG/MzXAAAAAElFTkSuQmCC",
+      "imageId": "3a66b6ed-9ca9-45b5-4645-bcc935fa5200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "de-la-sopa-a-las-nueces-las-mejores-recetas-para-el-invierno",
       "locale": "es",
       "categoryLocal": "Cocinando",
@@ -110,61 +155,16 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/choosing-seasonal-fruits-vegetables.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOq9eMygcbaVcLufe8mta/bTQrycZ6SLbbmceLWffgDso2D7unfHhkqqh17iyU3XpB3itSWMbkSEdWFaSDwA2I9Km2o7o3pRwqFx880/1rI/uY4miXFQjnlgf2tWANPCr8q0nsWsjsStkcGpiMKnh8Cnibmhib+pjL+miADPwKy+p43Twq/Qv6fZzLrOu6TQv6nVx7nEr5TPvKcAvaiP3NHD3c+/3tHB3M6+3tXIxbCX2c6/39PF3NHDAMSunMCqmtTDsNC9qODTw824ocqzmdzRw8qzmd3AngCidWKGXlOOalvEmoS1g3Sqfnaic2qfhmrfxKLn0qoAh0Ayg0QznHFSs4Jesl9ZmVRLclI4lXJO37Z9hFkqALCQabmZdL+cc7eXcK6JYaN/XqJ8Up57VayJY6uBVLkFtxgAyeh7AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 19 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "elegir-frutas-verduras-de-temporada",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI6PgqypoNKztM2insiNiujEfezOg+G+o/Tq3PD08wCRknhhTTOzQkjAVVPMQTnysinsuSnheDL327ry+vwAN0FNSU5ROjA3PTpBPzM6TUQ4UE0/gUhRsl9u8vHwAHNmXV1eX0pWXkZOVDxER0FDSiY0PnNPVr14evT19QD/tFt4XERcaHRscHRqbnBLTlFHU1l3TUrAcmPv9PMA/cg6kHk7KDNEIikuFBodGB0gHCUsi3lM0biM9vj7AP/ESJt5QTQ9UDM2OigrLx4jLCEqMYyNYtTLk/n6+wD3kDPAciNwlTt1fUpwcky2qWKGhlwpQ1dcdn7x9/IA8MWa58yrutKinKV+lJd3yMGVvbyfaIOLiJ2h8vbzAO73/PH3+/f2/Pb3+vT29u/z+PP2+fX69/P29Oru7YrspJt4YjVSAAAAAElFTkSuQmCC",
+      "imageId": "4422125c-cb8d-4d80-cdde-863504db5700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-10-alimentos-mas-saludables-para-comer",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Elegir Frutas + Verduras De Temporada",
+      "title": "Los 10 Alimentos Más Saludables Para Comer",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las frutas y verduras son una fuente nutritiva de vitaminas, minerales, fibra y otros nutrientes. Comer frutas y verduras puede ayudarlo a satisfacer sus necesidades diarias de vitaminas, minerales y otros nutrientes esenciales. Tambi\\xE9n proporcionan antioxidantes (que pueden reducir el riesgo de enfermedades) y otros fitonutrientes (que pueden tener beneficios adicionales para la salud).\nLas verduras son una excelente fuente de muchas vitaminas y minerales, especialmente vitamina C, betacaroteno, calcio, potasio y hierro. Adem\\xE1s de ser una excelente fuente de vitaminas A y K, as\\xED como varias vitaminas B, las frutas tambi\\xE9n son una gran fuente de fibra.\nEn general, el mejor momento para comer frutas de temporada es durante su temporada alta. Hacerlo ayuda a reducir el desperdicio de alimentos y es mejor para el medio ambiente que importarlos de lugares lejanos en cualquier \\xE9poca del a\\xF1o.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/6-ways-to-make-your-diet-more-nutritious.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlT3Jvy9DQRwA8CsjsUj8AyaVGAwWsehAJCJ0QJtHdRDEILGaJWIRMYiBydDEIiFpUhKrwdiqtu/ayr1f997du3f37b0nMUgXn/WDVGxAUoCkCElRxdtK74A2lN6QOhvBInpvjkq9AnEetAFxXumc7K33r7csIIPuK0OCz+tkFeJN0KfEfsHd529SNjuPLfyESqWp3/LIj72m46zsXWCTmJg4tl+rthpfHfS2N4kPx+mtodSSgjPPZZblcSYd23edANHzifruXLOQ9j5nIzjpdhzctkUIzUbXsRhq3RyRyqX5cOWydATH2CScSRECNonnhogeZKzX63Z1K5BjodrnAkKuQq44k5xJ9HE3XavPWHyQwzCT2X4EEPgy8KVPI2TxlCdSNBqgEgXRwn9QT1BP/AFqoecBFn5yrAAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Mar 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "6-formas-de-hacer-que-tu-dieta-sea-mas-nutritiva",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "6 Formas De Hacer Que Tu Dieta Sea Más Nutritiva",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFSientes que tu dieta simplemente no es suficiente? Tal vez es hora de amplificar las cosas un poco m\\xE1s. Una buena dieta es esencial para una vida saludable, y con tantas dietas diferentes que se promueven en estos d\\xEDas, puede ser dif\\xEDcil separar la realidad de la ficci\\xF3n. Cuando se trata de nutrici\\xF3n, hay tantos factores a tener en cuenta. Es posible que sepa que las vitaminas y los minerales son importantes y que las grasas, las prote\\xEDnas y los carbohidratos juegan un papel importante en su dieta. Pero, \\xBFc\\xF3mo te aseguras de que tu dieta refleje esos principios? Aqu\\xED hay algunos consejos y trucos sobre c\\xF3mo puede hacer que su dieta sea m\\xE1s nutritiva:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/the-best-recipes-for-using-up-seasonal-produce.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHFybYGCfcjIyMjFxsm7pNZ9DcqgWOLKm6SEIsmpaQDLzc/k5ufW19vS0NDFvKqgdT3DwaKyvKeegDOyeBEAsridxMjA6+vr6Orw1Mq+q6KRiYVXt7abZUoTlWoiAK23lKGvkczOwujq7tHOz8S5nXldK3RSGl9BC5eJcgDx8+nc3Nrq7O3X2d3Ky9Kwr7KXkomPhnmIdVymo50Av8G+lpeQeHhtdXRpkJKK0tbZzs7QsK+ytra219ndAJOUi456PaeKRJiFRZ+mlnyAdr7Cxd3c4dHGxd3e5ACZlXScfyfX0ri5kj/PjhegfiyMkY3RycymWka6mJYAmJBebF8h09W7ycukfmklhFwRjpKH6Ors48K637GmAJShoZ9xPXZuPYJ5THtkHKdyFJ+jl87Q0ezu8uPj5UglvGJiM9BqAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Sep 09 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "las-mejores-recetas-para-aprovechar-los-productos-de-temporada",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Las Mejores Recetas Para Aprovechar Los Productos De Temporada",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando comes en temporada, puedes aprovechar los mejores productos locales para aprovecharlos al m\\xE1ximo y reducir el desperdicio de alimentos. Sin embargo, a veces tambi\\xE9n puede parecer un desaf\\xEDo: cuando no hay nada en su caja de CSA m\\xE1s que papas por tercera semana consecutiva u otra r\\xE1faga \\xE1rtica ha llegado y se ha ido sin dejar calabazas de invierno... \\xBFQu\\xE9 se supone que debe hacer?\nY la verdad sea dicha, hay algunas desventajas relacionadas con comer seg\\xFAn la temporada. Por ejemplo, puede parecer m\\xE1s caro comprar verduras solo cuando est\\xE1n en temporada; Puede que no siempre sea as\\xED, pero a menudo el precio no estacional es m\\xE1s bajo porque se cultivan de manera m\\xE1s eficiente con menos insumos a escala industrial.\nSin embargo, \\xA1tambi\\xE9n hay muchas ventajas! Comer en temporada significa que puedes disfrutar de diferentes sabores durante todo el a\\xF1o, algo que muchas personas no suelen hacer.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/breakfast-ideas-beyond-cereal-oatmeal.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AI5/a2hbSVxSPouAb8OZZ5R1Uj44M19JRVNJPnh0bABhVkVvXkbPsYnZybjk4dXfzbG4e3m/UVYqMDOBiIoAemdH1LaQ4NXE29LDrYx4uYZ6m2ZYiyo0LiswhZaeAMeleNvIrsnHuniDiKJeZc9sdL91bqB1ZqJ3apqfpgDNqX7i39KRhXk/RlRicoGUR1N0Jy+qaFzLppqmqKwA393O3cWktKqiZVBQeZqvJSUxlD1KxFhdp29npYBzAMuke+De0dbe2XmFj22GlF1haXaOonw2QI1LSGZWVQCgnpPUxbHZ1Misrq1TOTRoanBxjp+GYVmXbmNVX2kAk4Z018y72NC+3evpf1ZKhU89b0hBiFlJkmtfkai1AIyHe7XDw93m48jW1ldCQnNQSIltZHZgXGmAjJvQ56iGn0TzK++MAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Sep 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ideas-para-el-desayuno-mas-alla-del-cereal-avena",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Ideas Para El Desayuno Más Allá Del Cereal + Avena",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando eres joven, realmente no piensas en cu\\xE1nto tiempo dedicas a la comida. Solo comes porque est\\xE1 ah\\xED y porque tu est\\xF3mago ruge. Pero, a medida que envejeces y las prioridades cambian, la forma en que ves los alimentos tambi\\xE9n cambia. El desayuno se convierte en una comida m\\xE1s importante del d\\xEDa ya que es la primera del d\\xEDa.\nSeamos realistas: la mayor\\xEDa de la gente piensa en el desayuno como cereal o avena como su comida favorita. \\xBFPor qu\\xE9? Porque son f\\xE1ciles de preparar y servir cuando salimos corriendo de la casa para tomar el autob\\xFAs o el autob\\xFAs escolar por la ma\\xF1ana. Pero hay otras formas de desayunar bien que no te quitar\\xE1n mucho tiempo ni espacio en la cocina. Aqu\\xED hay algunas ideas para comer un desayuno saludable todos los d\\xEDas que no involucre cereales o avena...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Mantener una dieta equilibrada es fundamental para llevar un estilo de vida saludable. Puede ser un desaf\\xEDo comer la cantidad correcta de nutrientes todos los d\\xEDas, pero con la informaci\\xF3n correcta no es tan aterrador como podr\\xEDa pensar. Todos tienen sus propias ideas sobre c\\xF3mo es una alimentaci\\xF3n saludable y eso puede hacer que las cosas sean confusas. Es posible que hayas escuchado diferentes cosas sobre qu\\xE9 tipo de comida es buena para ti y cu\\xE1les debes evitar a toda costa. Pero descubrir cu\\xE1l es el tipo correcto de salud y c\\xF3mo lograrlo no es tan dif\\xEDcil como podr\\xEDa pensar. Este art\\xEDculo le ense\\xF1ar\\xE1 todo lo que necesita saber sobre c\\xF3mo comer de manera saludable y obtener el equilibrio adecuado de nutrientes en su cuerpo.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

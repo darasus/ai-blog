@@ -1,9 +1,9 @@
 {
   "category": "business",
-  "imageSrc": "/articles/10-ways-to-increase-your-productivity.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGSXP+v08drr53LWy3nf08Xx6/T49+318pvj257q4wAtWhbf7ODc4+Oq2NTE2dna3uHZ3d7Z3d61ysrP2NkAfJB13OXk4ufnu72/8fP08/X17fDv8fPy3N7d6OjoAFfDs6/g2OXp6qKiopSUlJycnI+Pj4WFhaCgoJOTkwBezLuv3tfb4N6enp7ExMTBwcG/v7+wsLCwsLC6uroAZs26zdvY3+PkwcPCwcPC0NLSwsTEsrSzs7W0v8HAAL/EwM/Y19zh4u/08sDFxKuwr4uOjXZ5eIqNjO/z9AB9dHfM1tXb4ODZ1dLk2tvs8/Ps8/Ps8/Pr8vLSlp8AFBITpqGj2d3e5u3tyL28yKOn6enp6fDwxM3Pb3d+AA4OEDImKNfb3Obt7eTt7MvPx6eHfdvb24KKjsHI0ZVg4Cq6Yjj6AAAAAElFTkSuQmCC",
-  "createdAt": "2020-07-05T06:07:33.936Z",
-  "updatedAt": "2022-10-11T17:16:12.057Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGWWRO3179ru7HXZznXg1M748v///e739J3k3KHt5QA3XyHY6tjl5+q15eHC4eDh5Obi5+np6+3F29rR3+AAeZJ25enp2d/gtbCy2dbX0NPU09TW2tvcxMLEzs3OAF3CtLHj3N/f37m7u6+wsKampa+wr6SkpKqrqqOkowBWz72r4dnc2dqoqanMzMzCw8LGyMe5urq4ubi9vb0Absy6yNrY2tzdwcTDsLKxqauqrK2toKGgmpqZsLCwAL/GwcrV097h4v///9DU06+zsq+xsZKVlaCiouzv7wCFfX/X4d7b4uLa1tTdzc/3/f7x+/vr8vL0+fnMlZ0AEAsNnJiY4ujo4unpyLu8xKCg49zd8/39vcbIdHF5AAYHCTMqLNjY2eny8un4+MPBuqeGfuDh4ouVmrG4xHYT4VBgER3wAAAAAElFTkSuQmCC",
+  "imageId": "d7eaf02b-020c-446f-86ab-cd9aef199700",
+  "createdAt": "2022-11-05T21:53:41.444Z",
+  "updatedAt": "2022-11-05T21:53:41.796Z",
   "categoryLocal": "business",
   "slug": "10-ways-to-increase-your-productivity",
   "locale": "en",
@@ -20,145 +20,25 @@
   "relatedArticles": [
     {
       "category": "business",
-      "imageSrc": "/articles/10-must-know-tips-for-first-time-entrepreneurs.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlV3MQUvCUADA8ffRrK8gQo0OXTp1mUigE8k0s4agHoToIIUUZCmkhIZhS5OemZtNm3Nzmz732pYWk/oAZcfgd/vDHzicxPrGipf8b8m16nASwOEkiE03GQxvhaLunYgntEdFY2QwvOxaW+SAj9r2eKgITe0n/8T9dMJ7kPTRCT+dAOan3apX9JkN67f4Yy70eXU0Muzvx1pZwRbIliqHqXhXHV8Wi1XIZrLps2K5cPdwX8hLEwPwQ9R+6YnI5PpyT9NbwoCVNX6IXllWQhaQVA0y16I2hkwJGxZSujoemfMvyJQUPF3Md1NHVciSsVRDUIXOTboGy41m4OS4q0yAhE1OUuQ367kvDfX3noaEsa7gaVuURWSCtjjIXZ3rM7uQO5U5rvnU6PC8ZkzzF5nf+Q8vENELDOAefwAAAABJRU5ErkJggg==",
-      "createdAt": "Fri May 27 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHElEQVQYlWNgYmJiZmZmZWVlZmZmQgaMjMxs7AzMYGkIYGFmYmFhZWZhZWBgYGdnD0osYWBkZATJMDExMjAwMLKACEYmBgaGmOTstOq5DGICXAxgvrisSmnnwvj8jrSqqfmty1rn7LfxjGSw1pQTEuBlYGBQMfS3j+w18ioKL5kSXD5P2cBR3dyJgYuNRUdamIGBgY2djZUVZCszJ5+AgiY3L4+AhDyDU0pabl9PYnGRjpW1gIAgMxMzAzII2rEr9Mr1+b//Fh8+qmdhZevlraOj5+nrn1JYXDtjDkNCcYZmS7vn4mVV23bo2zkFd/X3P36x5OPX5V9+LnzxhsHQ000mJEwlItIkIEjfwlrDyMwxt8gzt9g2KMwuMBQAHiND/OuMbdUAAAAASUVORK5CYII=",
+      "imageId": "a6c36b12-3814-421d-611f-6a1183b57b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "10-must-know-tips-for-first-time-entrepreneurs",
+      "slug": "airlines-are-struggling-to-stay-afloat-amid-the-pandemic",
       "locale": "en",
-      "title": "10 Must-Know Tips for First-Time Entrepreneurs",
+      "title": "Airlines Are Struggling to Stay Afloat amid the Pandemic",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Given the current state of the economy, it\\u2019s never been a better time to start your own business. In fact, according to statistics released by the U.S. Census Bureau in September of last year, there has never been a better time for first-time entrepreneurs. For example, between 2007 and 2016, the number of first-time entrepreneurs increased from 5.5 million to 6.1 million\\u2014an increase of almost 11 percent in only nine years. If you\\u2019re thinking about becoming a first-time entrepreneur, now is the perfect time to take that leap. With that said, starting your own business isn\\u2019t easy. It takes hard work and dedication to not only come up with a good idea but also see that idea through to the end and make it successful.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Many airlines are struggling to stay afloat amid the pandemic. Many business travelers are afraid to fly. Even those who aren\\u2019t afraid to fly are thinking twice about whether it\\u2019s worth the risk of contracting flu on a plane. As a result, airlines have seen ticket sales plummet and some are struggling to remain profitable.\nAirlines across the world have responded by reducing their service and capacity, which has led to a decrease in air travel demand and left many airlines with unprofitable operations. Some airlines have even ceased operations completely until demand returns or they see an opportunity for sustainable growth once the pandemic ends.\nThe global pandemic has impacted all airlines, not just those directly affected regions. Regardless of where you\\u2019re flying from or to, here\\u2019s what you need to know about your flight during this turbulent time:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "business",
-      "imageSrc": "/articles/how-to-run-a-successful-home-based-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJlnOrF3Rq1zRJBULWsvCkUtHH5NKYhLIK2KcbSUfQCdYjaUWzN7PxxzMQhcNBaRc1mle1egajqv5OCu2NMAfUEdbDwfYyQFbiwHdUIcpHtdqX5ToXFGpu3qj9vYAHdzV4lqOW0+E188FoZ1Tdy6j4BzSoN1SqihhamtlQBTRjRpTjKUWC8/MRRaUyySf1ZTTSZYVS2BRBd8PhMAOCgZRUk/cmZMO0EsSj0pYWlWg3NWZmE8e0UaZTgaADsyJTdVUkhrZFdyaWZNPA8UE1FFN1FbSJK7sGGPjQBRVkdSenRNcm88XFs1NC1dZFeflHSnjG6FSkqPwr4Aj7ioa6WfUH1zUWpbdZKGnbuqhqGTR1xZQSIoe8K8ACgzKyI8NRw2MU5hUlBxaD1UUUFhX1GSl2Wpq4LSwLHbdQpAlJolAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jul 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "how-to-run-a-successful-home-based-business",
-      "locale": "en",
-      "title": "How to Run a Successful Home-Based Business",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Starting a home-based business is a great way for you to earn money from something that you enjoy. However, it is not as simple as setting up a website or an Etsy shop and waiting for the cash to roll in. You will need to put in plenty of time and effort before your business starts to bring in regular income.\nWorking from home gives you a lot of flexibility and can save you money on commuting, hotels and office space. However, there are also some downsides. Working from home means you are never really \"off\" as there will always be someone at home to answer calls, visitors knocking on the door or even delivery services coming to your address. It will also involve more responsibility than working for someone else as everything goes back to you. That\\u2019s why we have prepared this guide on how to run a successful home-based business so that you know what to expect when starting one of your own.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/the-benefits-of-keeping-a-productivity-journal.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVQYlU3Ou0/CQACA8fsX3ZwcfGyaMLmaGByMGB3wiakSEeMjAtGIGpQAFSMQMC2VBhFKKbS0vXIP7sDNEBeT3/YtH0hc7ERPNk+PAxFh/elywzMKGBsIKs364/zsFCCWyIxb3kmMusmfbnLUued6kvVE9r6USoXBGJbHzB6NKeeEc0LcPtTbjCFS3kKtMGi/5EprwUGvq0ZuqgfRSuAoPbNcv7qj6jWuB4FTrb36/PL+WS0a155FtSQh09IeMlR7w/IqCCl2qu0VegNBcQTFWcyYh7LjL1rY1Ul+AYgGOlfd7Q87b3ixBow14J5sp3XI+ZCkpwHCbvzb25X6/qLly5mJLygoThNizoc0Owe0lupSyvmQMWIiwtjkn7EJWlwBslT4a/91BjD7WSFS6BevzPXAIJHTYQAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Jan 02 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "the-benefits-of-keeping-a-productivity-journal",
-      "locale": "en",
-      "title": "The Benefits of Keeping a Productivity Journal",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you the type of person who can get things done without keeping track of your time, or someone who is constantly behind on tasks and never gets anything finished? If you fall into the second category, you\\u2019re not alone. Many people struggle with productivity in their everyday lives, but it doesn\\u2019t have to be that way. Keeping a productivity journal can help anyone become more productive by identifying areas for improvement and establishing new habits. Whether you struggle with staying organized or frequently lose track of time, keeping a journal can help. The right journal will also help you stay accountable to yourself and identify your weak spots for future reference. Read on to learn about the benefits of keeping a productivity journal and how keeping one can improve your life.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/10-tips-for-managing-your-small-business-finances.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK+ZfLWYd8Gxku3r3v7+/u/t7tPKy/Hx78vCzMCywABJOiqcfFViTTLRyry7xeiCl9ttgcyCjcett9w+TZwAXks2roxhZ1Q98fHmydLxdovbYnnKeIK+eo3QRly0AI+AbM68m35tWNTNwvz7/LTC7aey3oiMvaSqz6Cu4gCNfmjQwKGMfGTJvLXf19x2jeBed9Vec8RPYbZWctEAn4dkvZ91i3pk5uDZuau7yczk4ub3y9HowrzSw8bgAFdFMruec6ecifHu4zlHlF1mqniQ3naN3ktkxG18xwA4LCCuk2ijmYbz8eRKXa9ZYKCLnNtffNlogdZyhdMAbFlAmHhMkH9p6OTT8/Dx08vS39re/f39/v7++vr6AGJRPLKVaHJeTLalmebh5e7s7M7Dy/Hx8f7+/v7+/l+qxS7ljr+IAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jun 08 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "10-tips-for-managing-your-small-business-finances",
-      "locale": "en",
-      "title": "10 Tips for Managing Your Small Business Finances",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Today\\u2019s small business owner faces an entirely different set of challenges and opportunities than their predecessors did. The Internet, social media, and mobile devices have all changed the way that businesses operate and compete. Fortunately, these same technological advances have also made it easier for businesses to operate on a smaller scale with less capital. Over the last few decades, we\\u2019ve seen thousands of startups launch new products or services with very little upfront costs by incorporating as a small business instead of a larger corporation. There are many great benefits to operating your business as a Small Business Corporation (S Corp) rather than as a regular corporation (C Corp). When you operate your business as an S Corp, you can take advantage of what\\u2019s known as \\u201Cpass-through taxation.\\u201D A pass-through entity is one where shareholders report their shares on their personal tax returns rather than the company\\u2019s tax return. Here are ten helpful tips to managing your small business finances:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/the-dos-and-donts-of-starting-your-own-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABF0lEQVQYlUXNXU+CUACAYf53F836A7R1WRe1aV+zNUfML1jhQY4mmoIeDiIeJwLHAFEz07woyq3b97l4GWDFwIrlwdKYbki8I/G2H35BsvrrzJ7NOC8o6au7kvAsqwYcrxX7/Z8BntnaazDxA4+64Wfd2VTJSrbnCdeGy9ZkncmJJ+c37Nl1mpe0aNfwNtXRkqn0oxLsZbMPhbyg0a1YQxzH84/5F3OaMMAh1EmAmka7ff/UAqoVD/S5O0beByS/rGhD2lORhoFUv7zIgApcUA85i+QtmWEZ6hxfpE1xPhpGdGZgIgNFQU6lHyVvsePcFsCbqc9cunD9Dp4U61jq+nuWjICrooPDo1TqmGVPc0JD6voAhz/8DV9Y9mz4dtm0AAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jun 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "the-dos-and-donts-of-starting-your-own-business",
-      "locale": "en",
-      "title": "The Dos and Don'TS of Starting Your Own Business",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Starting your own business can be an incredibly exciting prospect. In theory, running your own company appears to offer you a great deal of freedom and flexibility - allowing you to tailor your working hours around childcare or other obligations, while also giving you the opportunity to develop a brand new career path.\nUnfortunately, the reality is somewhat different. As with any job, starting your own business involves a significant amount of hard work and dedication. It isn\\u2019t easy, and many prospective entrepreneurs give up before they even begin. However, with the right guidance and support network in place, it also doesn\\u2019t need to be as difficult as most people imagine. To that end, if you\\u2019re currently exploring the idea of starting your own business - either as a sole proprietor or as part of an organisation - we have some handy advice on what not to do:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/how-to-turn-your-passion-into-a-profitable-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AO/m5ezj4cC6t8bExca/v8O6ueHa2Orj4/Hs7tPKywDw6Obu5+Xt6ejn5ePx7/D28/f08fTz8PHsyNDYwcQA+Pb37ert7Ons6Z+j7LW6897g7sLF6K2x7err7uzsAOy4quTa293Y2uqqruWXmuebnumkp+vGytTP0PTx9ADooYXLp6Pl4OLwyc305ujnlprsvL7qvsLt3eDjnKsA77CRt4iB48K6662w5IOI7Kuv55ue6b/C3srF68nHAPS4lqVqXMiVifDV1+qzteyyteJ/g+KEiNiTfaFbRwD4xaK7g2a5kYruwsXrtrrvys3y4OHy6efXknxqQzcA+c2qu4Zqx7W09fPz9PH03dja0cjJyry62rioypR0APrVsp9zXaugncS8uMe8t9fMydzRztzPy+DMvtGigl9I6lSK7AqHAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Sep 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "how-to-turn-your-passion-into-a-profitable-business",
-      "locale": "en",
-      "title": "How to Turn Your Passion into a Profitable Business",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Starting a business can be an exciting challenge. Passion and drive are essential ingredients for success, but finding the right product and creating demand for that product are not easy tasks. The failure rate for new businesses is high and it\\u2019s because many people who launch their own ventures don\\u2019t fully consider the challenges that come with entrepreneurship. If you have a passion for something and see potential to make money from it, you might be ready to launch your own business. But there are some hurdles you\\u2019ll need to overcome first. There are plenty of risks and costs involved with starting your own business - but the rewards can be great too. Here we look at some of the practical steps you need to take if you want to launch a business, while also keeping in mind the realities of operating your own company, so that you plan accordingly from the start.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/how-to-turn-your-idea-into-a-successful-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJObopmhqJ6mrKKrsaass6Kora2oqsaVkb+bmZ6ZmwCHj5NudXlscnestLqhqq6fpaq+t7ntlZDli4Wpm50AqbO5k5ygi5SYtb3Es7vBq7G2zMvQnGJas5iVzNDTAIOLj4CGi251d5ukqKGnq9Pb4pGBgKNoWL2lndfd5AB5f4Sepqyiq7Gnr7bS2uHd5euwkITSm4Pk5OaZnKIAsLrAv8rPxc3Upauw19/lhYmOlIN90sG5qKyxEBAUAM3Z4MXP1dTe5uDq8tri6VlbXyIfI09QVBwbIBoXHADG0tnQ3eTZ4+vM1tza4us0NjoKCgweGiAcGh0RERMAu8jPyNXc0d7l2OXs3efvLzE1CQkLHBsgcXV6WlxgAKu3v7rHzsbS29Dd5Nbi6q62vXh+g7vByObu9o+VnLmauZ2eq/obAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Apr 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "how-to-turn-your-idea-into-a-successful-business",
-      "locale": "en",
-      "title": "How to Turn Your Idea into a Successful Business",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you have an idea for a business, it can be tempting to dive right in and set up shop. However, establishing a new company requires careful planning and preparation to ensure that your new venture is a success. To launch your business successfully, you need to understand the legal implications of registering as an independent entity, choose an appropriate structure for your organization, and develop a strategy for marketing and selling your products or services.\nThe process of launching a new business can seem overwhelming at first glance. Fortunately, there are resources to help you take the first steps towards opening your own company. In this article, we\\u2019ll explain everything you need to know about how to turn your idea into a successful business .`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/tips-for-staying-productive-throughout-the-day.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEUlEQVQYlVXL30qDUACAca93uwfpESLYo/QMsa6ilxh0E4Z3Kri6koLtIl2edFRu6nbUsy3PcjsxnX8mYjsQVjD6bn98DCHEcZwgCFzXRQhBCMMwBABgjMuyZLIssyyL53lN03ieVxQFAKDruizLVVUxlNKiKDiOEwRBkiRRFAVBYFk2SRJKac2e51lTX+6pT0NzYLypz+bEm9GfavZ9H85xD1jqy1S3/F84MMYY4fXIxYaNbIRthP+x6X7ESZbmu2ibkyjdxNmBMYmPTjv2YtXpgsbJeeP47OK6n+a78DP6u1dRqo4WV3dGs9VuttqXN30YhGPokyit+WGIBuP3x9d5V5ncqs694a0329mS7L/230/W+tQeijz7AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jan 11 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "tips-for-staying-productive-throughout-the-day",
-      "locale": "en",
-      "title": "Tips for Staying Productive Throughout the Day",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Productivity is a struggle for many of us. The most productive people have figured out how to maximize their time, tackle tasks efficiently, and get more done in less time. Those who struggle with productivity may find it hard to concentrate, feel anxious about an overflowing inbox or unread messages on social media, or struggle with zoning in on work tasks and switching off distractions.\nRecovering from an exhausting day may be challenging but staying productive throughout the day is not impossible! Even with a busy schedule and limited time, anyone can become more focused and efficient in their day-to-day activities. The key is learning how to stay productive through small changes and habits that can make a big difference over time.\nThere are many things you can do as an individual to help you stay productive throughout the day no matter what your circumstances are. Keep reading for some great tips!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/how-to-make-your-business-stand-out-in-a-crowded-market.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APPg1vLX0KdPWGc1REczPjguNlVIT7+qrc68vce5vADy5NjLl5aJQE1dOEVRP0pDOEVGOEQ3LzbZ0M/e09IA5dTM6t7XgFVfXEJLdFhbTDpHTT1OQzZBoZib5NvZALqfmOrcztbMxKKOjquMh046Q7+hlYx+gsm+vdPKyQCyla3LuLrBrqTUztKjpcCjoLGDcnrLvreVcWKqnqIAo4B3sJeN28S3v7bCn6fJUlmCnoaDmo2Uzravd3SFAL2fiZyRhauRh5Wbu4GNtk5WeLalq4FvcMarmZJ9dABSSUqRd3CUfHaZmamHlb3czL/hz8HWxruKe3eBd3wAgnluuq2YuqiXop2PQ0pj59TB59PD38u9YWB1a22BAJaGgsmvnM21pNG5pmBgcFRWcU9bhG5tgpuRl1FVauCDq+Et4B3IAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Jan 12 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "how-to-make-your-business-stand-out-in-a-crowded-market",
-      "locale": "en",
-      "title": "How to Make Your Business Stand Out in a Crowded Market",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of business is becoming increasingly crowded and competitive. It\\u2019s also more accessible than ever before, with the rise of social media and online marketplaces allowing businesses to sell their products directly to consumers at practically no cost. This gives smaller companies a great opportunity to get their products in front of potential customers, but it also means there are an infinite number of ways for you to spend your money if you want to start a business that sells goods or services. The good news is that this also makes it easier than ever before to stand out from the crowd, both in terms of your marketing strategy and the design of your products.\nTo succeed in such a saturated marketplace, you need to make sure that your brand is memorable and unique; something that sets you apart from other businesses selling similar products. This article will provide some useful tips on how you can do this when creating your business\\u2019 identity and designing your products, as well as some ideas on how you can set yourself up for success from the offset by choosing the right name for your company and making sure all of your promotional materials work together towards a single goal.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/the-future-of-work-what-will-jobs-look-like-in-2030.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIxGcJZJbpxJaaJIZqpLZKxGYLNLYLZKXL1PYLlBTgCpiajBp72vhKDNrL7Mqbq7gZfPpLLBgZTXqrWtQ1sAhGmbkHKeiGGOnHOYlGKKp3aUl1h9rHGMp157nEBhAHZ3q4V8r3proJKCrIVrmph9pI5pk5xzmJlmiYhBawB9iriUmcCcnMOVkLuGfK2EeKirnbqrmbi0oLuZdpsAPF2fRmCiTWCgVWKiVVudVlSWXlaWZ1uYaVeRcFeQAEJmooCVtzZUmV5xpVJenkBIk1RWmlBLlGtjn3RnnQBSd62Po8Gcq8hAWZ6apMhVYqKbocGHiLd0dKt8eKsAZoe3Vnmvn7HPP1qerbbTb3uyr7TQio66iIm2mprBADxopjxmo1x9skJgoYubw0hboHqFtWhuqlxion2AsRgqnqtm1oriAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Feb 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI5Kcp1Vd59ObqlUb69Ta7BPZrRPZLpTZb9UY7tDUACeeqC0lLGtgqC7lq29j6W4f5a+hJi9eo/NlaSxTWMAj3iln4Ookm6YqISknXCUpXSUoGaFtXyVrmmDmTxdAG5wqY2ItXptopKEr4t0oY9zn4xok6OCpZZkioM6ZgB4hbWLj7uamsCJg7GMgq+DdKWaibCqlrWslLKffaAAP2ChR2KjUmalWGWjW2CgXFucW1SWbGCbcV+YcVeQAD9koXuStjJPmFZoolJdnTY+jlpbnE5JkWhhnHNknQBig7GesceRpMVHX6GVocZncauVnMCLjbqDhLR2cakAcZG9YH6zmqzNQFufr7jVmqHIiI67jJC7qKnKi4y4AEJtqURtp1h4rkdlo4KTv19vqmt1rmVrqHV5r21xqns1n7TJYP64AAAAAElFTkSuQmCC",
+      "imageId": "4e730091-3999-42a7-cf76-ceb170f0e500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
       "slug": "the-future-of-work-what-will-jobs-look-like-in-2030",
       "locale": "en",

@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-web-administration.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWP4/PHt549vP7x//eL5gw/vwOwP7z58eAcRZ/j88e2D+zcO7l5xfP/K88e3Frf0SVn6OEZmnTp3ESp96MDmq5eO37x86uqFIw0TZxd3zSxsnxmcU/vm7SuQ9PlzR8+f2HHx1K4LJ3en17RnN03MaZoSktsAlf788e3Na+fOnthz99alZZt3eSYWxZe1Xrp2HWr4nSevwuc9Nu193L7j+bw120NyG7pmLH795iVUOnze/ajFL9ynPXGb9sQppd4pvtgpvriiaxpUOnTO/YqNL3NXPIqa9yirbU73/I0ZjZP80ys+vH8Nkr7y4KV9/13J6jupy564JZWxqFhru0fvP3oCqvvzx7cfP719//7txw9vPnx88/z5U4jFQGkAa/rZkuhmIu0AAAAASUVORK5CYII=",
-  "createdAt": "2022-05-18T06:36:39.737Z",
-  "updatedAt": "2022-10-11T17:16:02.972Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APHw7PT08Ozq5ubk3vDv6vj28+Lj4fLw7fn38vHw7AD19PDg39nDva3GvKnWz799jJUkQVVKYXLJztH59vIA9PTxwb6z1NDF2dPJz8q9gJCac4qcW3SIWG+C8O7rAPX18c7OxsK/sszHtsbDtmd8iV93iUxne192iPHw7QDx8e329O/i2s3Oxrjr4dSrtrtJYnNpfIvR1df39fAA9/Tt2OLpV6HoLozoh7rso7C6T2d6iZik8fHu8/LtAPz27mCi30KV5EqY5ECQ3jpigDRSZidHXXuMmfr48wD89u5Znt9Wn+ZsqeZLk9higZyInK1ddIdUZ3n39fIA+PTu0t/pRpPeIIDgcKzlWXKDFTRKO1Vov8bK+PbyAPHw7fj17vb07eXp6/v27/Tz7tDV1ubn5fn38vHw7EvL2XoZg2bWAAAAAElFTkSuQmCC",
+  "imageId": "7a79a03c-0cfb-4970-8579-104db5884e00",
+  "createdAt": "2022-11-05T21:53:16.504Z",
+  "updatedAt": "2022-11-05T21:53:16.832Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-web-administration",
   "locale": "en",
@@ -20,151 +20,151 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABKElEQVQYlR2OTUsCURhG76b7vDraKqiFv7JVixZtgkAIIZLJKDXNphQTJKrJxqwmwbByPhoDFxllUdTGSqwZb0y7szmHw76aEA6GLXg2xJ3PwoFo/3MbbHqWzoqUkimToP0cnRRIy5OqUDlLB1vELstQFarsIL2ClEzZBKnbVNpAMQ1lndi3gcQytY+oe+57lTw963iowTqkoQn2WkdmFUk5ML9ASRnRKGKLFF+imTnqaGCuP8U9iwtnrFcLv+iSa0KYfGTCbYEJmw9awff6+GdTuipNdGth4WBkcWHBM8D6DV6KT9VyEWtvUolFOqr0pgeetGCvGvi5Afu4oNN06HhNetToXsV1QaqmQsaupG+G+g1iIwu/BgZN8gwIG64Bz+Tilgvbj/8B98GgLHc9nCAAAAAASUVORK5CYII=",
+      "imageId": "54f3fa69-3ba6-4076-f5c5-f0bed931ea00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-tips-for-beginners",
+      "slug": "python-the-language-for-network-programming",
       "locale": "en",
-      "title": "The Best Coding Tips for Beginners",
+      "title": "Python - The Language for Network Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-the-future.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVQYlTXOz0vCUAAH8JfPt/Xj/wiCKOgWdI8uXTpJly5dunULOnQb3aSwH1BhhUSCgpZkSi6LzKxmhxRDsNjKSp+0zW1N3/YkhvTle/p+Ll9AKaW2Zpnrnd/Jjj7o1JiyzQ1i65RSYFmSpQ351gaSMTYa6j867E2c9OXSDFGH260PYGmz4gt6LaLCA9TrPVLZVS1DvQ47GtR+PKCljl0l3fs77FmEjUeZxCk6PmAiQZS/c6u1UaArK0XB1fyCTxkUjzI3KfY2xWQvUaUA8ecSaBNTxgtERbYCM+lxuTZCmy6iou/3edM0gPOcUlUpydir4MX7rKdenW40nru7w01NyT+ex2Pe3e25cslPCOmaw/yFPxSYCAZmrtOrb5W8KIqSJGGMZVkmhIBcJhAO721u+Zb/w3Ecz/OCIBiG8QcRmdP4ur03MgAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Mar 01 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABKUlEQVQYlS2OwWuCcBzF/be8d+iP8Nqhk9TCP8D4MRgy2GkzFuywQ8poEOghGRGJiBuE+FsULW0bQi4paW2m6e873Pbe6fHhPR5F8sLBZkUA8uQzizcEgAApIiEUAGD3Wby/uu3f+ZNuOr2JF93DUtk511++SWVZtt1tx9Ox8zrZR+/Hj6d09Zjv3yBbwHFVYFIsweBhMJ+/wK++D+n5xSU6PStwFEWyLNM0rWn9P9xs8if1uqZpFMMwnU6HZdlarRYEgSAIpmlyHIcQarfblO/76/W6VCqVy2WMcRiGAMDzfKVSkSSpeO66bqPRqFaro9EIAAghaZqKoogQovI8j+PYsqzZbOZ5nm3bhmE4joMxTpLkv91qtTDGw+Gw1+upqqrruqIoYRj+AMLx7jUqbSwhAAAAAElFTkSuQmCC",
+      "imageId": "27340b01-156c-4067-e84e-55a391368d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-the-future",
+      "slug": "go-language-for-concurrent-programming",
       "locale": "en",
-      "title": "Python - The Language of the Future",
+      "title": "Go Language for Concurrent Programming",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re reading this article, I assume that you have some programming experience and are interested in expanding your knowledge of the Go programming language. You might already know some other languages or have experience with concurrency so you probably are wondering how does the Go programming language help with concurrent programming.\nIf you are just getting started with Go, it might feel like a steep learning curve if you\\u2019ve never used its features before. However, as soon as you learn about channels and see how easy it is to implement them, things start making much more sense. Concurrent programming is an extremely complex topic that requires careful planning to avoid race conditions and deadlocks. Fortunately, Go offers a set of standard library packages for concurrent tasks so that developers can focus on writing code instead of reinventing the wheel every time they create a new project. Let\\u2019s take a closer look at why we need concurrent programs and what Go has to offer in this regard.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-programs.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AB8TB4h5Z6XRpXq8ene5c4PMs3LOzHLJx4uggnbEvgAODwhSRi9/xqc1tI0xr35Ev7Mgu8cYusVmztQvv8kAQTklgWxF0+Pir8zOtNHQv93eocnOpdDUv9HQqresAFlMHqKKWeru4e7q1+v77u367u/lz+367u358Pj38QBqVyWvl2Tq2sLzq33zpXTwyKj0rH7yr4H2pXX6rYIAjXdFtJ5xvc7Gq764vcS2r8W+xNfOvdDHqqaVv8bCANrErujSvs3f17zPxr/TyrLIvqa8tKG3sLfLwrO9twDppH7y3szt+u7Y6NzAz8XI1czK1s7G08rE0cjQzsgAhdHn6drEuNu5tdu2t9u2xuLErNeyp9Ok1uzZ2evnANHRw9HNrBqQJB2UMRSKDm60bzGcViaUOJrPpDG3uEAByhodvPSqAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Mar 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlR3OsU7CQACA4XsAZ01YWEyYNXFy8wVcfQMHF5/A2cXRxBhdZJDEiEBMAYEiYomi7QmlNIQWQ0vlWoq0cm0T7PUM/g/w5QeERItFgM2Gb9Y8k/MRi20xDEPyH6CUzg3WyKyZTHzCxBATn+ZjAbYJoWH4CyJKfSM7LO++ZA+0p/3X3KFV2lhgnVJKSAgIpVi/0/LbVnEdlbbGhYSbX/EcrfMBnam9xAOnZz0kvMrq7Hkn4Dbn/J7vjjv1HP7BwJu7ruOIjaShNiZIVSW2VU+K9UueObLkLHBnNhqKo4GoqVBq3jZL5933QveNgVzOtRTwrTwqlZMRnxrUTjXuDMEb1M4geP3JHut8Csx06H5Jtt5uVa+k6oUq3PeFsi6kdZg25SIgUbS8CwKhJco9pSv3+n0VY0wpjSL6B6PW9Mok10GRAAAAAElFTkSuQmCC",
+      "imageId": "2c2f1e9d-2d5b-4419-ff63-13f35940a100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-natural-language-processing",
+      "locale": "en",
+      "title": "Python - The Language for Natural Language Processing",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Natural language processing is the ability of a computer program to understand human speech. The primary benefit of natural language processing is that it allows users to communicate with a machine in a way they are most comfortable with. Computers can now understand, process, and react to human speech.  Natural Language Processing (NLP) is an area of artificial intelligence that enables computers to detect and understand human speech as well as written words. It involves the techniques and algorithms related to natural language processing such Artificial Intelligence, Machine Learning, Computer Vision, Information Retrieval, and Computer Speech Recognition.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AItjHpFpIZdsIJxtHpxsHJpqG5VoG45kHIRdGnpUFwAmGQM6OylmcluIhl2Wjl+gkVyeikyafjibdiiPZxsAknc3l4JEoo9QpJdenZVjk5FmjpFse39gnYpMsYw0AKvMvZ+5qKnAraO3prXApLnEqJKhkqq/r6/HtpGjjwC97eyXvbys1NOavsGdubity8uFoKWrz9K24OGZu7oAb352d4d/kKSYpb2yiZOGh5OKlqafjZyUlaqglKmdAAQAAAAAAA8HARUKABcMAgoCAQYAAAoDAA0EAAkCAABwVyVwVyZxWSdrVCZtVSZkTiNeSSBbRx5YRBxUQBoAqoU5sIs+tZBCuZNEupRFuZNDt5FBtI4/r4k5qIEzAJZzLZx4MqB8NqN/OaSBOaSAOKJ+N597NZp2L5NwKQYghXjWNVvfAAAAAElFTkSuQmCC",
+      "imageId": "e91b2d66-0689-4b8b-874c-b237b5516300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-ides-for-developers",
+      "locale": "en",
+      "title": "The Best Coding Ides for Developers",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIyw0o2uz5y62K7F3p2vvoabq6bD4abB26rE3aK+2gCdsMiguNaBnbxxiZwxQEMnMzVcc4WDnr6BoceIqNEAP1FQX3R1MUE+T3B3Q2NtQF1mTHB6MkNAQF1iPVheADFQSSJURys6NEdmZ05aY01XXVZ3fzJGQiRWSzVZTQBubG9BTVJqZ2dmYF1iX1t4dnViX1x0aWhDTFFrcXcAKCcnICIlLCkqICIjKCgsLSstICEhKScnGxwbIR8fAEVtLUlzMUJsK0ZsLkFjLEBiK0VtLD9qJEJrKEBoJwBflTxhljtmmUFnlkRoi05ph1Rkhk9jiExgjT9ejjkARWQ1R2Y2TWw6U2VLUFVVUlFbU1JcUFBWT2NGSWs3AEFKQkBIQkNGRkdHS0hJTEtMUElJTkZHSkRHR0BHQe3nbtSy3KN0AAAAAElFTkSuQmCC",
+      "imageId": "13735c04-8a11-4273-c798-4489736b4700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "inheritance-in-java",
+      "locale": "en",
+      "title": "Inheritance in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTz6+X07eLx6PP/+o+YlHlUQYdcRTMxLsvVz+v27QDh8Ojp+fDs/PTo+fJdXFmpemWfdWAoHhd2fHn1//gA6/vz5/jw8f/5r7y4QDUvtIR0mmZcX0Q3LTIx6fbuAOT17er68/L//M/a1jEvLMmVfdaSeFdAMl5mZ/D+9QDn/vfo+vPn+fPy//+Mk5GtnIDWrYiPeGDO2M3r/fQA3NDI59nU6vz35dvS69bD//DH5ceiv6B+wZyA3se6AMyMfcqZhuPg2vHSyNi+s9PHvNS3o+XFtePDtuq9rQBlXVpYUUxXVlVVVVVPTk08Pz91cW/y3tTOtKfQopIAPkVFPkREPkRCP0hDPkBAOTw7WllY3cS7u5qNuZSHAEJGRT9BQUJKRkdWTj0+P0FDQUNERKiNg7aQg6yGezQHuni4OAoeAAAAAElFTkSuQmCC",
+      "imageId": "5c0da510-ba62-4f45-7866-c58f4e78e500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-basics-of-coding-for-beginners",
+      "locale": "en",
+      "title": "The Basics of Coding for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJ6eoJ6eoKamqKipqq6vsbGxr97e3NnY1tbV087OzACmp6mmpqirq629vsCkpKTMzczw7+3r6efg393l5eMAq6uts7O0ysrMrK6ww7+49u3hoqSliouM5ubkaWppAKurrcHBw7+9vLyxpbSgja+Sd4OCgGtub6+vryQlKAC8vL+6uLuZmJWYgGqGaVF3X0y4n4iqn5QeISTAwb4AsrO1lZSUU1ZYMSkkclhDhGhTYEk4d2lcl5iW19fWAJGQkbm5t1teXx4gImBaVl5NQHFnX6GioO/u7OLi4QCenp319PNyc3UiJSjU1dTIyMUwMTRAQUTu7u3g4OAA2NjX7uztycnIvLy77u7u9fT0nZ6dlJWU5ubl39/fAOLh4eXk5O7s7fLw8evr6+rp6vDu7uvq6uDg4N3d3KHOx3QJKtjMAAAAAElFTkSuQmCC",
+      "imageId": "1f6d62fb-c310-4cfa-e8d6-424ea30ef300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-secrets-of-great-coders",
+      "locale": "en",
+      "title": "The Secrets of Great Coders",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAtElEQVQYlV2PzQqEMAyE+/7vk4taaU4W7RaxeLagiN63YH93sYVF9jtlmJCZkBhjCME/CA9JYowppc+DlCkzMcbQDGOMUlrXddPUANBkiHPuPE+dQUQAQESl1LZt67rex621JVJK2fc9Ii7LklKy1hKlVNd1wzAIIaZpEkKM4zjPM+dcSkmu63LOGfOW8sUYA4CqqjjnWusQAik9S9V939u2PY7De19euLOflL2f/LdD5md/AU9tEDICr0HkAAAAAElFTkSuQmCC",
+      "imageId": "01377db1-fd76-4e5c-f65f-7c440cddc200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "exception-handling-in-java",
+      "locale": "en",
+      "title": "Exception Handling in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQYlRXIyS4DYQAA4P9B3HBwdnL1Bo2Lozeog4vE1UGibYSkphvtNKWoSC3FaEJSrTEGo4suhtGZf/5t9tTFSXzHD5SuCX8KL6ooLLSmeXGuJC9WlOXL59Dh40q1CaQ39tqhPZUon0ZXg9hEDsbK+2Bi+24sIwLfc22L2ZYVOK5pwF5/MNRhX9Vm840pXgaE2pTa9Ya4s5uLx7li8cAPRi5l80fieFYClDkY01qtzvP5QmEvmUzFNjZzCS5cliZzEjiv3KbT6Ug0th6Jclwim+VPymeK+LAqvMzsy0CUv9qtpqpqmDBmOUEwsh3vN/BT9+1QSQatwU/gu4QwQi0TU9PEQx16BB8/dZcEBdRkjzEKIcKEIUwxYRAigrDc+VjI3ACh7jH2XxhThIhhQE371nWoD421ras/r3nqR8T+2vkAAAAASUVORK5CYII=",
+      "imageId": "459c7e61-a210-436b-8c4a-27139866bc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-find-the-best-coding-help-online",
+      "locale": "en",
+      "title": "How to Find the Best Coding Help Online",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that finding help with computer coding is one of the fastest growing online industries? Did you also know that there\\u2019s an abundance of websites out there where you can find that very same coding help? With so many places to look for coding assistance, it makes sense why there are so many professionals who can\\u2019t seem to find the best options. But don\\u2019t worry! There are plenty of great resources out there if you know where to look.\nIn this blog post, we\\u2019ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ABEIAI9+crPaq2qxaHe0Yn3HqmrM0XHFwYKgg2q+tQAAAQBWRzd6wp0bqXcwrG82uakMuMkWu8ZV0d0gvMUAOzQfg21H1ebor9fmvdzowuPqotDXrdTZw9jZtL60AGNTJKmUY/j04ezjzur15+zy4+zgzev05ur06vTv5QBgTRmmlmf25szzq337soP4zKj6vZP6u478toj/v5kAhm8/wKyBxNDFpbautbipsbywusvAp7OmrqWStrqxAN/Fq+TPvMnaz6W9tKbAtpqzqp+3rZexqKvDvKKwqwDjro335db///3u9PDW3tjd5uDm7OXf5+PX39bj3tQAksnW4drGuNm2s9q1u968xOLEq9eyotKe1uzY3e7tAOPWzMvJoRKMGw+NIRaJD12sXyOVRRKJHYvIn0O/yIBpyU3aZBAAAAAAAElFTkSuQmCC",
+      "imageId": "f8dbe866-29ba-4709-c529-bef6afa4c300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "the-top-software-engineering-programs",
       "locale": "en",
       "title": "The Top Software Engineering Programs",
       "intro": {
         "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineering is a broad and fast-growing field. The market for software engineers continues to grow at a rapid pace, with demand expected to increase by another 280,000 jobs by 2022. Prospective software engineers therefore have many options when it comes to pursuing their career. Computer science programs generally provide an excellent foundation for those interested in pursuing software engineering as a specific career path, but these programs alone often aren\\u2019t enough.\nPrograms specifically tailored toward software engineering can help you gain the skills and training you need to succeed in this field. There are many different types of software engineer positions available today, from front end development to data mining and artificial intelligence (AI). These are some of the top software engineering programs available.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-difference-between-javascript-and-typescript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAk0lEQVQYlWO4e/fuehhYu3YtMvv169cM06ZNY8YBjh49yjB16lRkIWFhBPvIkSMo0nx8rM6uTOjS3t7eISEhwsLCLm7M/oHuQYFBysrKWlpaUMMDAgI8PDzMzMy8/ZhCQkLCwsISExNTU1NBuqdNm8YOBgL8LNKyzBwcHJqamqKiolDDSXM5uvTDhw934ADv3r0DAGLKXQ51IibaAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Dec 25 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-difference-between-javascript-and-typescript",
-      "locale": "en",
-      "title": "The Difference between JavaScript and TypeScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you confused about the differences between JavaScript and TypeScript? Do you know which of these programming languages is right for your project? If so, read on to learn more!\nIn this blog post, we\\u2019ll go over everything you need to know about TypeScript vs. JavaScript. Both of these programming languages are popular in the software development industry. However, they have some subtle yet important differences that set them apart from one another.\nBut first, before we dive into the details of each programming language, let\\u2019s understand what they both have in common.\nBoth JavaScript and TypeScript are dynamic, object-oriented programming languages designed for creating websites and other interactive applications. They both support curly bracket syntax with optional semicolons, as well > operators for type checking, and if-else conditional statements. Both support variables, data types (string, boolean, number), and function calls with optional arguments and return values.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-system-administration.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlSWQsUrDYBSFf+45QegguDgUQXBSXDvo6OAjtHMRF6fqJKINqDQ4OBWsNLYahbRUUlMISdUGsSimg8GW7go+iSTCGe7lDIfvU1VBHWgCNtCBdCA2YIF1oCpQNZEbsiV4ID3AQ3K0QQu8JNRTsfh5enKeX3RX5/yF2cEMHzX2IG2wCahv379eXgrD28HmRgREwJDsA13BHUT9BMHYNCcVI24df5VK073d+GA/Pjx618sjw0hqJ5MJwSA//7qz8ttzp9tbY13/KJfDQkG5uVyXfCbfstnxWWWyvhYBIZJ5G1AWeE8ExAuT4RE5JAPCSfBENVJiJ0Xqp/HS105lqAtIHYmZ/5jUGtCuUlc1kT+4rGF2vrBNIAAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Feb 11 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-for-system-administration",
-      "locale": "en",
-      "title": "Python - The Language for System Administration",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/graphql-understanding-how-it-works-and-why-you-need-it-for-your-app.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABBUlEQVQYlVWOzU7CQBzE9+1Ab0ZIVM7cTYwvwQN49sJiStlGbQSVnkzkYGlqaFTaWATsfpQal1oarfwTUw+Ik99hMnOYQQAQDd+mvalvjOgdDR0RmK+BSeFXCABkEDOLhY7wjZGcyNlDSPtr9UqBSeVErieI7GlahShbym2tl4gEAPSqfrKBcaGBCw2Ei3W8iXGx3j00QkfEbN4sqVqFtHbV8+opujq4bpaU1rZqHvU/6BwALvc7apmoZaLtkHx7IdNFlOYfX96X38t/2yv3mX6JAZdBnGXZXx06glmMWWx8M+Y25za/Px5wmzOLJSJBz13fa7tPZ4+u7uZceDm667XdaDj7AQmj+r1tUkNuAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jan 16 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "graphql-understanding-how-it-works-and-why-you-need-it-for-your-app",
-      "locale": "en",
-      "title": "GraphQL: Understanding How It Works and Why You Need It for Your App",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google has introduced a variety of tools and frameworks for mobile app developers to make their lives easier and the users experience better.\nOne such tool is GraphQL, which is now becoming increasingly popular among mobile app developers. Why? Because it offers a lot of benefits over other JSON APIs. Developers no longer need to hardcode endpoints or query data directly from an API; GraphQL abstracts that logic away, letting developers focus on their code instead of the data access layer.\nLet\\u2019s see what makes GraphQL so useful in the world of mobile apps.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANeti/yZBPqcA/yXA/uWAvuWAvuTAvyJA+lnAbVUFQDqpmn5wXn3um31v3j3yZD3yI31yZb206/0xp3honcA6dS77tW999vC8tm/c1hGnol1gmhVxqyVqo56+tq+AOLLteTKs/jcxPvkyaGJdJiAa7agiqmRfrKYg/zgxQDfx7Lp0rqvl4bRuaSokH2+qJSGa1uXfm2zmIbGrJcA1L6q6NC7rJOCrpaDjXVkuaCNq5B+xKyXtZ2Kq5B+AN7QuerZxN7GrqSLeOTPueHLtdXAqZN3aJV6ar6mkwB1xbPGqpTZwqp7YlF7YFKgh3eZf22CZ1ekiXeli3gAoo9z89rA++nP+ufO/OrQ++jR9+LJ79fC9NzE79jAAOmUKOiOJOWDE+WAEOR7DeR4Cep+A+1/Aut9A+1/AorMwinrFK20AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 21 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-habits-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Habits for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-an-introduction.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWNwdXW1srLi5OQUERFhBwMpKamUlBRfX18JCQmGgoKC+Pj4tra2np6elStXtre3GxoalpSUrF69urKykoGfn19ERERHS83NVsfNVk9YWJgTDKSkpERFRRmYwYCHmyU3RWdBd7ioiICspAg3JztEHCqtLCfSXet9cFfJ9A7rZVOsequNc8KVuTjYQNJ8vOzVBW5djdbnD0fu2eJ+6rBLZ61hVoxZRowmSJqXj3XRFPfZEyIObWuc3ps+c1L6hI6ICc023q7iUMMjQ6TPHPU4esBtQb/xjjUO508YzJisKSLCDpJWU1Pj5OQUFOLX1uJISjCzsxEQFWPj5OSUk5MDSfv4+BQXF6ekpPj7+7u6uubm5ubk5GRkZERHRwMA6GxRej9PKQcAAAAASUVORK5CYII=",
-      "createdAt": "Thu Jul 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-an-introduction",
-      "locale": "en",
-      "title": "Python - An Introduction",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6UlEQVQYlW2OXUsCURiEzy/uqsBf0E0SIQZ2V0KJuH2IWwpCHy4ZBhFBuBXlKvi1a9gmnfa87zkTsS0ogXM3MzDzCPyp1x3t7VbtSvPUvnGfekkIQMiviIgCfxr400F/4nVHbddTSgEgIrG5UXCch1q1ZVeahYN6ZsvK5cpW6dwqXR4dNsR8Z6lEGIZzo9/f0C7/q5+v6lJJo03sztZwl//pNJJOMQlo8zj2+p8BM8O1zcW62l6l2j6A9HUx/pasmPnbz8rZLSZDlU1F6ZUkX6ANO8eaxzHBvaNfW3jZgY6Wkxv6MMGJMdEv1NENVOEvZ3AAAAAASUVORK5CYII=",
-      "createdAt": "Sat Apr 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
-      "locale": "en",
-      "title": "The Most Common Coding Mistakes and How to Avoid Them",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/interfaces-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlV3Ky0rDQBiG4bkoF3oPrty4FsQrcCcIehGi4qIgHilWBU/VjbXEY2NImlZKalrbJJ2Q6niYzPz/zEISoQtfvt33EFCaC5Co/G7Pe/XtesMwjH4YBRFNJZJHs7a4tAwKQWlQGnWmg4hadt1tvpCx8Yny6Ul+4zfnKcgRBaXJzNRkHCed3ltIB7Vnc3Nr+7x8WTw4/HPEMW5SkKXjo0q1urq+wTnXSod0AAoRkbx/CkqjJEmEEK22Z9l2q+0BACICAPlJEVBAntNwb+/vHp7M3f0iYyy7hRBSpiPxL/KV0KFzxdwz3reAM8BM58siHwkLKnudnXm/MOetTfuF2X5pIb5eYc0LOez+AtieBjj6ELlaAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Apr 05 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "interfaces-in-java",
-      "locale": "en",
-      "title": "Interfaces in Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The definition of an interface is almost the same in Java as in any other object-oriented programming (OOP) language. An interface, strictly speaking, is a type that specifies a set of methods, but not their implementation. This means that an interface can have static methods and accessible properties but no instance methods or fields.\nAn interface is a type that specifies only the behavior and not the implementation of an operation. The classes implementing this interface must provide their own implementation for every method declared in it. Interfaces are used extensively in Java to provide a common ground for classes to implement some functionality without revealing the internal implementation details.\nWhen we use interfaces, we are creating contracts between our classes that they will behave in a certain way\\u2014that they will implement certain methods and perform particular tasks when called upon to do so. Let us explore how we can leverage interfaces in our code to make it more modular, reusable, testable and readable.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

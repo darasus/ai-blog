@@ -1,9 +1,9 @@
 {
   "category": "cooking",
-  "imageSrc": "/articles/the-top-10-healthiest-foods-to-eat.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABN0lEQVQYlWOYNLFjx85N51avubZlw8VJPc9OtL+/1PVw/5JP759//PyBYc689lh/k/0uLnuDQs46Gb/bqPtyl+6zSsOvN3Z++vyBwdzG1T8k3MLA3M7J3drMysfVxs/DsS04enVk+qdPnxhyU5ISUzMi4lI9/UNcPLyd3b1MrOxbM/O2VFd9/vyZ4dtC55Iwu7zSytjkjLyiUitH56DQ6BJ3py1h3iDdXw8791c6Glk6qegYScgrisspSCmrT+1OPrNv+tevXxl+7PHpLXDUMbGSVFARkZAWlpSWkFecNCX/7OE+kPS7KaZXms0613h192f29qce3F7W35dnGRAdW1738fMnhndH5746t23Nod7Fq3omTS/dvWPSrl3zs9q7OxctffvxA8O7jx/Q0Fsw+ebD+5fv3gAAczClFbMlQEoAAAAASUVORK5CYII=",
-  "createdAt": "2021-09-09T22:19:23.569Z",
-  "updatedAt": "2022-10-11T17:13:31.637Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI6PgqypoNKztM2insiNiujEfezOg+G+o/Tq3PD08wCRknhhTTOzQkjAVVPMQTnysinsuSnheDL327ry+vwAN0FNSU5ROjA3PTpBPzM6TUQ4UE0/gUhRsl9u8vHwAHNmXV1eX0pWXkZOVDxER0FDSiY0PnNPVr14evT19QD/tFt4XERcaHRscHRqbnBLTlFHU1l3TUrAcmPv9PMA/cg6kHk7KDNEIikuFBodGB0gHCUsi3lM0biM9vj7AP/ESJt5QTQ9UDM2OigrLx4jLCEqMYyNYtTLk/n6+wD3kDPAciNwlTt1fUpwcky2qWKGhlwpQ1dcdn7x9/IA8MWa58yrutKinKV+lJd3yMGVvbyfaIOLiJ2h8vbzAO73/PH3+/f2/Pb3+vT29u/z+PP2+fX69/P29Oru7YrspJt4YjVSAAAAAElFTkSuQmCC",
+  "imageId": "4422125c-cb8d-4d80-cdde-863504db5700",
+  "createdAt": "2022-11-05T21:47:28.849Z",
+  "updatedAt": "2022-11-05T21:47:29.003Z",
   "slug": "los-10-alimentos-mas-saludables-para-comer",
   "locale": "es",
   "categoryLocal": "Cocinando",
@@ -20,25 +20,85 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-truth-about-carbs-good-and-bad.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APvt7fr08Pjy6/De29vAvuDGweW6q9eahunLwefOyQDgvKHqw37Rmla1jG+mhIK2gWq5WSOmQBeyUivZl3kA2aRk+c+C8r5p4plStJB8u3ZEv18nvlwlvVwpxGQsAPnWhfnckfnKf+KYS62DX6twRsh4P79rM5NTLbRaLQDr0Jn434/zxXXqsma3lIDHl3erXSzRh0x7MhbVimQA8ebh6cOZ7cOR8+bW/fv5/Pv8vKmfs4Zs6bqa+evfANTNzdvb2dfX19DQ0NfX193d3eXl5dfX19PT0dXPzACNhYOWkI6hmpjIwsCGgYCuqqebl5OyrKmUjouakZAA5MfB5se/4r+25sW87tnS48K48tzW6czE37y048W9AOnSzu/b1/Pf2vXi2vfk3/fk3/bi3vXh3PPf2vDZ1Rt+04UVz668AAAAAElFTkSuQmCC",
-      "createdAt": "Tue Mar 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "la-verdad-sobre-los-carbohidratos-buenos-y-malos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIxyTnxnQbnUzqjAv4JzQIqAV4yNdo6Vh7jLyaZ6gAB4TRxxTCOvvbaQjmqkawCccxN+Vg2CWQivu6ahqqwAZEEYd1w8sr65p722mJh5mY1ZkoVYpKSHvNbRfmJUAH10XYiMgqm4tpOqppCrp5u3tZm2s7fl6o+RjpmMgABwYTliRRZqZFCjs6+ptamfppims6ultrZ/aWK2vKwAYUYThm9N0uvymamlgXZKg3E9jY94hIGAgXhvu8fAAFhRPLjFwKy+uHZdGpZiBZ5pEo5hFpiQb5KZkbnKzQBlYUeIlpCSeE+qXgChbBd4SiGCTxViNwOAZ0LC3eIAiIuDgo2IrLewonhDoWMTiFAGjVUMaEcooqmdts7NAKCjmp6mn6K6v5OqrJCWiJuZe5iZgZ+yr7fd5rLJyizGnjXG/MzXAAAAAElFTkSuQmCC",
+      "imageId": "3a66b6ed-9ca9-45b5-4645-bcc935fa5200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "de-la-sopa-a-las-nueces-las-mejores-recetas-para-el-invierno",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "La Verdad Sobre Los Carbohidratos: Buenos Y Malos",
+      "title": "De La Sopa a Las Nueces: Las Mejores Recetas Para El Invierno.",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los alimentos ricos en carbohidratos, como la pasta, las papas y el pan, han tenido durante mucho tiempo la mala reputaci\\xF3n de engordar. Esto se debe a que los carbohidratos son una fuente de az\\xFAcares conocidos como \"carbohidratos simples\" (tambi\\xE9n llamados az\\xFAcares naturales digeribles o digeribles). El cuerpo descompone r\\xE1pidamente estos carbohidratos simples y eleva r\\xE1pidamente el nivel de az\\xFAcar en la sangre.\nSi consume m\\xE1s de 20 g de carbohidratos por d\\xEDa, eso se considera una ingesta alta. Una ingesta elevada de hidratos de carbono puede conducir a una producci\\xF3n excesiva de gluc\\xF3geno en el h\\xEDgado, que se convierte en grasa y se almacena en el tejido adiposo, especialmente alrededor del abdomen. Una vez que estas grasas alcanzan niveles peligrosos, desencadenan la producci\\xF3n de hormonas del estr\\xE9s como el cortisol, que se ha relacionado con la resistencia a la insulina, el colesterol alto, la obesidad y la enfermedad del h\\xEDgado graso.\nSin embargo, no todos los carbohidratos son malos para usted; de hecho, algunos tipos son esenciales para una buena salud. He aqu\\xED c\\xF3mo notar la diferencia...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Cuando baja la temperatura y las hojas caen de los \\xE1rboles, sabemos que se acerca una cosa: el invierno. Es una \\xE9poca sombr\\xEDa del a\\xF1o que puede ser dif\\xEDcil de superar. Sin embargo, tambi\\xE9n hay algunas ventajas. Por ejemplo, puedes beber chocolate caliente y comer una canasta llena de galletas navide\\xF1as sin sentirte culpable por ello. Tambi\\xE9n hay algunas recetas maravillosas para el invierno que definitivamente deber\\xEDas agregar a tu libro de recetas. Desde ricas salsas y sustanciosos guisos hasta dulces y bebidas calientes, hay muchas cosas que puedes hacer con ingredientes que son perfectos para los meses m\\xE1s fr\\xEDos. Aqu\\xED est\\xE1 nuestra lista de las mejores recetas para el invierno.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-best-recipes-for-using-up-seasonal-produce.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHFybYGCfcjIyMjFxsm7pNZ9DcqgWOLKm6SEIsmpaQDLzc/k5ufW19vS0NDFvKqgdT3DwaKyvKeegDOyeBEAsridxMjA6+vr6Orw1Mq+q6KRiYVXt7abZUoTlWoiAK23lKGvkczOwujq7tHOz8S5nXldK3RSGl9BC5eJcgDx8+nc3Nrq7O3X2d3Ky9Kwr7KXkomPhnmIdVymo50Av8G+lpeQeHhtdXRpkJKK0tbZzs7QsK+ytra219ndAJOUi456PaeKRJiFRZ+mlnyAdr7Cxd3c4dHGxd3e5ACZlXScfyfX0ri5kj/PjhegfiyMkY3RycymWka6mJYAmJBebF8h09W7ycukfmklhFwRjpKH6Ors48K637GmAJShoZ9xPXZuPYJ5THtkHKdyFJ+jl87Q0ezu8uPj5UglvGJiM9BqAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Sep 09 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANbPydzc28GxnJBlNcW+sefn6c6plM3FvqqvrrO0qwDKxL3T1NCTdFGKPwCXeVbUxrzEWSW2gWjf7PLzyYcAy8vG0tHMzMu/oYlivcC+wL+8vaSKn52cztng9ubHANHCqOvu7vTo4MvGo9nk0N7X1dyjecqhfuPo6+/o3ACebTC+xbnTuZ6UdS6zto7vxqeXUADQgkT27d/QkU4Af1orsK+o6ePSw7B9ytDF0bCayoBI2aBv3t/Z0qNyAM/BtObo7NnX17y7vri6vLK1tsXEx8PDw+3t7Ozn4gC9r4fr5djc3dzKtJrQy8PY19K1pofKxbvx8O7DtIIAWk4EvLSU6sud8JxN3KV538iltGoNyqh+5dbGp4I+AK6kgNXV09S8n8aJXL2VfN3Swq9zNreRdPDw8NuyjLpY0lxXePaRAAAAAElFTkSuQmCC",
+      "imageId": "ddcdaad0-02fc-4185-1ada-664776da9c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "30-recetas-de-cenas-faciles-y-saludables",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "30 Recetas De Cenas Fáciles Y Saludables",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFHay alguna vez suficientes noches en la semana para cumplir con todas sus responsabilidades? Si eres como la mayor\\xEDa de las personas, probablemente no. Eso hace que encontrar tiempo para preparar una cena saludable sea un desaf\\xEDo. Afortunadamente, estas recetas r\\xE1pidas y f\\xE1ciles para la cena saludable lo ayudar\\xE1n a pasar la semana sin detenerse en un autoservicio de comida r\\xE1pida o volver a gastar dinero en comida para llevar.\nEstas ideas f\\xE1ciles y saludables para cenar pueden estar listas en tan solo 30 minutos y no cuestan m\\xE1s de $10 por porci\\xF3n. Eso significa que son baratos, r\\xE1pidos y nutritivos, una combinaci\\xF3n imbatible. Ya sea que est\\xE9 buscando una cena de una sola olla, algo para las sobras o ensaladas simples que se pueden preparar r\\xE1pidamente, lo tenemos cubierto con estas fant\\xE1sticas recetas asequibles y saludables.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEJjPCdGJCUdDGQmHR8YGxAUGxkbJV1eYnd3ejI2QAAZJxY5PjlnVFCILCVPMTV1gJC2vM/Iz+DGzt/CyNcAJyIekomEs6eeh3x9vsDP2+P0zM/XyMrNycnLxsbGAI99W2hYP5SMg9Pe8sLH0ri4u8jHxqqvoICRcYGTegCok2ulk23Bw8rO0+Gpqaq5ubbJyca0sqltfF1ke1YAjXxfoZN1ydDgw8nXlJSSubi1xMS/w8O8u7y1uruxAFNDOHJmU73F1cHI2H5/fZmYkbi4ssPDvb++tsTEvwBVQTRkVj+DiZLg6PyMj5V2dm+JiH2npZ6npJqmopcAZFdEeGRKR0I5q7LD0tjpnpybiIaAhoN6l5SNoJ6VAE1AM2ZRP3hmTDc3NJ2hsMrM1rW5waKkpZ2dmqGgnEYGpm9MmbyYAAAAAElFTkSuQmCC",
+      "imageId": "cb5377ab-32f6-40eb-358e-b7362d7d3900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "10-maneras-de-usar-el-arroz-cocido-sobrante",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "10 Maneras De Usar El Arroz Cocido Sobrante",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Cuando has cocinado un lote de arroz y solo queda un poco, puede ser decepcionante. Es posible que piense que no hay forma de usarlo y terminar\\xE1 estrope\\xE1ndose antes de encontrar otro uso para \\xE9l. Sin embargo, este no es el caso. Hay muchas maneras de usar el arroz cocido sobrante que son deliciosos y no se desperdiciar\\xE1n. De hecho, es posible que desee cocinar un segundo lote para que pueda tener algunas sobras nuevamente. Afortunadamente, estas ideas te ayudar\\xE1n a aprovechar al m\\xE1ximo el arroz sobrante.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMrN0L6/wXR1dTg4NxwcHBkaHCsrLlNTU5aSjtHIvQCdn6QnKCgGBgUODQsbGxkjJCUlJywmLTcmMT5UVVcAFhYWERAMJCEbIiAcICAgHx8gJycoLjE4T2V+QFhxABgXEy0mHiEeGSMjITQxKkE7MikjHCkkHywuMEdXagAlIRsmIRkfIB8/OzS2r5/Z2MuVkok6NC4wKB8oKSkAJCAaIiAbISEepaCP7uzf67tt+Lxmq5p/Oi8lMColABcUDyAfHCknJKWbie7o1f22SvWHC7WXbj0zKzQsJgBhY2QPCwYdHBswLixkX1eRhXSEb1g+OC8vKSMlJSYAzNnic3yDISMjFhYVExMUFRUVFxkaJCMhKioqUElCALzK1MnY5Ki1wXR8hFldZFJVWlNWW1RXWnBxbaabj2t7XYh1TB/pAAAAAElFTkSuQmCC",
+      "imageId": "351ed731-9b2f-4ac1-4d50-5aef414fb100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "la-mejor-manera-de-cocinar-huevos-revueltos-escalfados-o-soleados",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "¿la Mejor Manera De Cocinar Huevos: Revueltos, Escalfados O Soleados?",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando se trata de la mejor manera de cocinar huevos, hay muchas maneras de hacerlo. Despu\\xE9s de todo, el humilde huevo es uno de los ingredientes m\\xE1s vers\\xE1tiles y asequibles que existen. Los huevos se pueden usar en casi cualquier plato y ofrecen una variedad de beneficios, desde estar repletos de prote\\xEDnas hasta tener un alto contenido de vitamina D.\nSin embargo, algunas personas encuentran que cocinar huevos es un desaf\\xEDo porque piensan que solo hay un n\\xFAmero limitado de formas de cocinarlos. \\xA1Pero eso no es cierto!\nYa sea que le gusten los huevos fritos, revueltos o escalfados, hay muchas recetas que le muestran c\\xF3mo cocinar huevos de diferentes maneras. Una vez que conozca los conceptos b\\xE1sicos, incluso puede experimentar con diferentes sabores y crear sus propios platos \\xFAnicos utilizando los huevos como ingrediente principal. Aqu\\xED hay algunos consejos sobre la mejor manera de cocinar cada variedad de huevo:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK6FiNZyiO5ecvFcbOpgaeRbYd1QVdVHTKk7QFgoKADoX4TyhJ/nq7TjvrvgwbravbTWsaPOl4jNdG3OTVIA6bXH6N7Z9OHK89iy6tKv6c2s5suu4cm2z7qpvZmHAPDf1f7bt/DNjOW6XOitS96ycN+2b+G+deG/mNK2pAD94MrwzIjktVj5mjLyoVPmu5zmupjasGrQqWDiu40A/Ny04L1l5rRW+5w97qZv6sOq6sOq47iV0a1gzqQ/AP/gtOO9Z9yzUvGwXOuziui7m+O4i9mxY9CsTcaiOgDjx6//14Tjw2ffsU3ns3vmuZLftWnQrEHPqT/Mp0AAVkU/knVVx6JjzapU17Be3rZr1rJY1bVjw6hlrpVvAHplWkg5NEAwLU8+M1dGNFlJM1lKOGpZTYd0b8GupRnIvmds4kUBAAAAAElFTkSuQmCC",
+      "imageId": "67159de1-c891-4c79-6d5c-94454b52f600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-hacer-la-tortilla-perfecta",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Cómo Hacer La Tortilla Perfecta",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFCu\\xE1l es la manera perfecta de comenzar el d\\xEDa? \\xA1Con una deliciosa tortilla, por supuesto! Tambi\\xE9n puedes disfrutar de una tortilla como una cena ligera, o en cualquier momento que tengas hambre. Las tortillas son f\\xE1ciles de hacer y hay muchas formas de personalizarlas con diferentes rellenos y coberturas. Aqu\\xED hay algunos consejos sobre c\\xF3mo hacer la tortilla perfecta cada vez.\nYa sea que te guste el tuyo con queso o champi\\xF1ones, una tortilla es uno de los platos m\\xE1s vers\\xE1tiles que existen. Son r\\xE1pidos y f\\xE1ciles de preparar, pero lo m\\xE1s importante, saben incre\\xEDble. Entonces, si est\\xE1 listo para dominar este plato simple, \\xA1siga leyendo para conocer todo lo que necesita saber sobre c\\xF3mo hacer una tortilla!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AG1vaoOEgMvMzcnHx8K0otZ8CtKmXNbHoKyEHMCgYQDKyszn6Orc3uXPzMrDvK2edkC+tZO5zMK0k0e2cwAAr7aZw8a/6uzo6ers2dLJqqGMhoRar7KTbE4VlWYcAKSxiKGtkNra1OLk583N0MCxjoRpN3dXJlQ2BI2CcQDq6+Dh497k5erV1dfR09i5ub2SjIOAc2SFclqrp54AxcjFkpSOhIV8eXtzk5SQz9HU0tPWt7i5u77A1tfZAJGXk4NxNZ6CO5qER5OVfnp/dcLGy93Z3c7Dw9zf5gCXj2SiiTLOyKXAlkPalxqaei6HkI3VzM6fSzS8lpIAl41aemUd1dnFyc2ojHEoglkNkZGD5uzx6ce92qeZAJGhppRsOoFyPnx6UndhHaZzGZ6ejcnN0vL4/uTi5UIjvEJ1WlVyAAAAAElFTkSuQmCC",
+      "imageId": "e3b8b985-20a8-47b3-5101-81df0e7b2d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "las-mejores-recetas-para-aprovechar-los-productos-de-temporada",
       "locale": "es",
       "categoryLocal": "Cocinando",
@@ -50,121 +110,61 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/one-pan-dinners-fewer-dishes.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGhVSlpJPz8vIjYqIDktJjcgE0Y0KHlrX4d3aIt4bABWSDwoGhE4LiRYRTm2flqSUBdoQB4vJBVZTUGKfHEAOCwgLyMXWEEmvpRwyJBcnGUhmnY8V0gbLSURhHZrADQmGzcqHLOFXo9zQXJkInxtIqKAR5Z2PSceEWNZTwBBNio0IRPKhk+iekiMXCiUZzu5iGR7XD0aEgpXTUMAXU9BLiUYblMmimJCvYxZlGc7u4lRXUUtIxkPdGtgAGBSR0M8LDtEGIxsQ6V4SnRcG2tbJxkQBSMeFIR8dABpXE5QRjwzLiIWDQkxFAVGHgkWDgU5My6KiYKHg34AcmBSZlhNYVVJX1hMSUM/FQ8MpaOd5OXet7awiYWAAJ+Aa4hyY2ZWSnZqXoeCej49Odna09zb1a6tpnZzbfh+Zp3ecNdWAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 10 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "cenas-en-una-sarten-menos-platos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AC8eE59mVPfNvP7///7///jm2ZN0Wc6xnv/++Pz68gC+mnjFkmb96NT9///9/f7++vr89PD8+fX+/vv8/PgAp5SQ0rig//33/fPZ/tye+cyT/N+9/vr4/fjs/v37AHxwcN/c4P///vS0bMuRQdixXfy+b/njz//++/Ho4gCyrbvv8fj748rYbSyUUCnJdDb6t2b55dL//v3u4doAnJmm1tPc9q6Ey1sit0MN1F4W9bZl/e/d/fz99+zlAJ+Yo4FtbP/5//DHqNeFTuKiZvzhvv////fq3/Lh2QC2qrJHIhCScWnx5/L//f/9/P317O3y18Dqz7zx6vEA8eLrwKmnXi8XajAVllxFuHZS2Zto5sGg8dW4+ubMAPHf5/bm8OHMzbmTf7iEXtKgcufGp/Xv8PTIoOm0VI965AcU4nROAAAAAElFTkSuQmCC",
+      "imageId": "4cf5debe-fdc3-4ff2-9475-b4145f16ce00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "5-sencillos-consejos-para-hacer-mejores-platos-de-pasta",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Cenas En Una Sartén = Menos Platos",
+      "title": "5 Sencillos Consejos Para Hacer Mejores Platos De Pasta",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si eres como nosotros, probablemente temes lavar los platos despu\\xE9s de un largo d\\xEDa. \\xBFPor qu\\xE9? Porque lavar los platos es una de las tareas m\\xE1s tediosas y que consumen m\\xE1s tiempo que tenemos en nuestros hogares. Es por eso que hemos descubierto formas de reducir esa temida tarea y hacerla lo menos dolorosa posible.\nAhora que todos estamos viviendo juntos nuevamente despu\\xE9s de irnos a la universidad, hemos introducido muchos h\\xE1bitos nuevos como compa\\xF1eros de cuarto. Uno de nuestros favoritos es aprender a hacer cenas en una sart\\xE9n en las noches en que todos tienen un lugar donde estar despu\\xE9s de la cena. \\xA1Significa menos tiempo en la cocina y menos platos para limpiar m\\xE1s tarde!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando se trata de comida italiana, la pasta es quiz\\xE1s uno de los platos m\\xE1s conocidos de esa regi\\xF3n. La pasta y sus muchas variaciones diferentes son amadas en todo el mundo, pero no siempre se sirven de la mejor manera posible. A veces, un plato de pasta simple puede terminar siendo m\\xE1s decepcionante de lo que deber\\xEDa ser, principalmente porque las personas que lo preparan no saben c\\xF3mo condimentarlo adecuadamente o agregar los ingredientes correctos.\nEsto no significa que no debas volver a hacer pasta en casa nunca m\\xE1s. De hecho, con los consejos y trucos correctos, \\xA1puedes volver a preparar incre\\xEDbles platos de pasta en tu propia cocina! La clave aqu\\xED es experimentar y explorar diferentes alternativas para crear ese plato de pasta perfecto que ha estado deseando durante tanto tiempo. Aqu\\xED hay algunos consejos simples que lo ayudar\\xE1n a lograr exactamente eso:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/when-youre-short-on-time-30-minute-meals-or-less.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANjV2NbV2tXU2dTT2NTT2NTU1tXV19fU19jV2NnW2QDX1NfW09bU1NbU0tXT0NTU0tXU0tXW09bX1NfZ1NgAuLOyysXHzcjJmJCHaGZbcG9nrqyq1dDU0snKroZvAKumpriztI+FdG5YOY5mNF5HKEhEM6Slor6SeLZZDQDPzM23s6umhVfHjkvaoFa6h0mKaD9jZVmwlYGRRRQAsKuqrquhuIVGxYxIyIxI0ZtgoodrWlVHqqGUp5B/AJmVkqqpo7qSYMCHQsyPRumNM9iqen55bbikkcGXdQCUkIylopquppbJmlyufUC0mXfHvrijnpKqjnaxhWIAoqGdsKykpaGVop2RoZiIlZKHq6OYq6KVm4p3vJ+JAMfDwL26tLKto6uklquilbGom7avpLmxqLiupMC0q5sjvf0Ja/02AAAAAElFTkSuQmCC",
-      "createdAt": "Sat May 15 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "cuando-tiene-poco-tiempo-comidas-de-30-minutos-o-menos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKempKmopJ6gn4eGhGtnZFNPSUhDPEI9Njo1Lz86NACHfnNxYk9wWkB1WzyMa0SXdU1sUzmCZEaedky3iloArXxDv4pKxIxN0ZNI+t2p6seL2ZpN4Yw/z3Yz0XY0AJFRHHw+F4k8DNOXWPfWl6V7N6ZuJ7mCRbh4Pr5sLwB0OA9yMAu6dDT/2ZDKo1M5JxNfNgKYXhGjcS6zgEQAsXo5qVoQ6715/89b3a5PjHFSYk88aUgei1YJiVcPANesa9mxd/HFc72IMZt3TYZvVH5tV3prW2ZVQUc1IQBxPxjLn2rvvVp2TSJzUjVoWUdoWUhxY1J6bV90aFsARiIHq3tJsYdLZEMgYUw1YVE+Y1I8Z1dCb19Kd2dTAB0NBEgrGG5PMWVHJWFOOGVTPGVNLmVOL21XOnViSgZxfcsbKSloAAAAAElFTkSuQmCC",
+      "imageId": "6cba512d-8ea1-4d46-b8aa-2b0b78065b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-hacer-el-sandwich-de-queso-a-la-parrilla-perfecto",
       "locale": "es",
       "categoryLocal": "Cocinando",
-      "title": "Cuando Tiene Poco Tiempo: Comidas De 30 Minutos O Menos",
+      "title": "Cómo Hacer El Sándwich De Queso a La Parrilla Perfecto",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo ideal, podr\\xEDas dedicar horas de tu d\\xEDa a cocinar y preparar comidas saludables. Sin embargo, con horarios de trabajo ocupados y otras obligaciones, puede ser un desaf\\xEDo encontrar el tiempo para cocinar una comida saludable todas las noches. Para ayudarlo en su momento de necesidad, hemos compilado una lista de comidas r\\xE1pidas y f\\xE1ciles que se preparan en 30 minutos o menos. \\xA1Estas comidas de 30 minutos o menos lo pondr\\xE1n de nuevo en marcha en muy poco tiempo!\nSi no tiene mucho tiempo para pasar en la cocina despu\\xE9s del trabajo o la escuela, pero quiere comer de manera saludable sin comprar comida r\\xE1pida, lo respaldamos. Estas comidas r\\xE1pidas y f\\xE1ciles toman 30 minutos o menos desde la preparaci\\xF3n hasta el final. Cada uno tambi\\xE9n es perfecto para las noches ocupadas de la semana cuando no tienes mucho tiempo para cenas elaboradas o largas sesiones de preparaci\\xF3n. Desde cenas en sartenes hasta cenas en sart\\xE9n y m\\xE1s, aqu\\xED hay muchas ideas asequibles y accesibles para que pueda tener una comida casera en la mesa dividida en segundos...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El queso a la parrilla es uno de los s\\xE1ndwiches m\\xE1s reconfortantes y deliciosos que puedes comer. Es universalmente amado, y por una buena raz\\xF3n: es c\\xE1lido, pegajoso y perfecto para los d\\xEDas fr\\xEDos o para los refrigerios despu\\xE9s de la escuela.\nEste queso a la parrilla tambi\\xE9n resulta ser el mejor s\\xE1ndwich de queso a la parrilla que jam\\xE1s haya probado. Con unos simples consejos, puede convertir este cl\\xE1sico s\\xE1ndwich de soso a brillante en solo unos pocos pasos.\nTodos sabemos que el queso a la parrilla se puede hacer de diferentes maneras con diferentes ingredientes. Pero hay m\\xE1s de una manera de prepararlo para que no quede empapado, demasiado seco o quemado por fuera pero no lo suficientemente derretido por dentro.\nCon estos consejos y trucos, \\xA1tu pr\\xF3ximo queso a la parrilla ser\\xE1 perfecto!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/slow-cooker-suppers-for-chilly-evenings.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJyRjI5yWoZxZVVPTEFBQ6WWjqOkn73Bu7izp86+sQCjoaBZT0tyZ2KZi4KznpG4ppqTiXxrYlV1Y1LKuKcAvrOuva+msqOcv7mywcK9xsvHu721gXJgdFpDsJqGAGVSRLSkmrezq769tY90W3NIKY9vVcbJw5+Wh6SMdgCvo5eom43DxsG4oXmEfEuHXDR1Qh6TZETN1NK/rZ8Au7GroZyQwLyrsJdrqYxdlmc5bTMQdTMOxMG5wrmuAMS2rZCPhsbEtKCOYLefcIJaNWoyGl4lC8LBuLiupADKxsOIgHXJ0cyunH6XdE51RylhLxKpg2TBysmlkYEAzMXDrqCVw8bBxM7LtZ2Im35rsJ6OwsvMnZWMuaCPAMi5scO1qqqblLq6urK3tra/wa6zr5aLf6ubjsy2pEmnrbTYOmgEAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jun 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "cenas-en-olla-de-coccion-lenta-para-las-tardes-frias",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Cenas En Olla De Cocción Lenta Para Las Tardes Frías",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando baja la temperatura y se acortan las horas de luz, puede parecer que el d\\xEDa ha terminado antes de empezar. Para muchos de nosotros, eso significa pasar m\\xE1s tiempo en casa y menos tiempo socializando o saliendo. Afortunadamente, puede hacer que sus noches sean m\\xE1s acogedoras recurriendo a su confiable olla de cocci\\xF3n lenta.\nCon una olla de cocci\\xF3n lenta, puede llegar a casa con una comida caliente despu\\xE9s de un largo d\\xEDa de trabajo o escuela. El electrodom\\xE9stico es perfecto para preparar la cena cuando no desea pasar mucho tiempo cocinando por la noche. Preparar estas cenas cocinadas a fuego lento toma solo unos minutos durante la tarde o temprano en la ma\\xF1ana, \\xA1entonces puedes dejarlas solas mientras se cocinan!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/the-environmental-impact-of-our-food-choices.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGZZPWteQGBQNWNWOGpiPmdeP4ByV4dyW11LL2ZZOwCFeWSso5+ilZCXiX6tnpa6q6Xh3ejk3ObYysjPxcYAp6e1r7HAs7G9r6+9vL/JxsnUr7C7qqq1srK/srK/AMvN3sXH1s3P38nL2MTH0c3Q29rd58fK1cXI1NDS3QDk6Pvl6fzo7Pzq7v27vciVmaGws7vu8P3u8P3u8P0Aysvdysvdt7rGyszZ1Nfhy87Y0dTeys3XzM/Z0tXfAMvM4La4ybW3xJmcpra5w7a5wbCzu77By7e6xMDDzgCyrLOinZyXj4bFwsbn6fbi5e/h4OXV1NnGwMS7sasAZWFTYlhAhH9me3Vid25eaFxSeG9ednBcaVxObWFVAGpmVV5YQ2xpUXVxXmVdS2RaRWhaP3dsUmVYQ2ZWN3fXwuxpb7BiAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Feb 26 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-impacto-ambiental-de-nuestras-elecciones-alimentarias",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "El Impacto Ambiental De Nuestras Elecciones Alimentarias",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy, somos testigos de una creciente conciencia del impacto que nuestras elecciones de alimentos tienen en el medio ambiente. Desde las emisiones de carbono hasta el uso del agua y la deforestaci\\xF3n, est\\xE1 claro que la dieta moderna tiene implicaciones para nuestro planeta.\nCada vez son m\\xE1s las personas que tienen en cuenta su alimentaci\\xF3n a la hora de tomar decisiones sobre su futuro. Quiz\\xE1s esto se deba a que estamos aprendiendo m\\xE1s sobre las implicaciones ambientales de nuestras elecciones de alimentos: comer menos carne es bueno para el planeta; comer solo comida local y de temporada es bueno para el planeta; comer plantas en lugar de animales reduce tu huella de carbono; debes evitar el aceite de palma ya que est\\xE1 destruyendo las selvas tropicales...\nPara comprender c\\xF3mo nuestra dieta afecta el medio ambiente, primero debemos entender qu\\xE9 diferencia las dietas saludables de las no saludables. Una dieta saludable es aquella que equilibra las calor\\xEDas con la nutrici\\xF3n, asegurando una ingesta adecuada de vitaminas y minerales. Una dieta desequilibrada o poco saludable tiene demasiado o muy poco de uno o m\\xE1s nutrientes.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/learning-how-to-cook-can-save-your-life.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AEeBsl5capxkYJibv2a5/F61/Fex+0uq9zif8BiH3wAICAgwLzIaGho6MzhosvJgtvtetfxOrPlKqPYslegAhYSJ3dXMmZuhKystVnKUnM72jMX0mMr1vNr0irznALq2teu/i8XExzY1OGFARGOm5oC87nC28HO17HOx4wA5OTuwr7JJSUkWFhZ5QEGOeJl4uvFzr+Jusu1jq+UAIyMjNDQ0MDAwMzMzWzQ2fVlzWq70i7/rl8PpLJXoADhDZE4nKVQiI0gXHH9/gTVdf4e965HB6Z/F5oe34AA2hc6UKS1pR2IwhM4OYKYmNUkzb6Iwm/ArmO4Sht4AIXzCLX/HLZvuL5zwJpXrCnTLGjNPF1mQII/nDH/VAAg2WyeCySmZ7imZ7ieW7ByP6Adwwwc+cA1MewZzx13ElMjDUTXiAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Apr 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "aprender-a-cocinar-puede-salvarte-la-vida",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "Aprender a Cocinar Puede Salvarte La Vida",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFTuviste que aprender a cocinar para convertirte en un adulto? \\xBFLo aprendiste de tus padres o abuelos? Tal vez usted es una de esas personas que nunca pudo entenderlo y ha recurrido a comer comida para llevar o comidas congeladas durante a\\xF1os. De cualquier manera, si te encuentras en una situaci\\xF3n en la que tu \\xFAnica opci\\xF3n de comida es la que puedes hacer con recursos limitados, saber cocinar ser\\xE1 fundamental.\nAfortunadamente, este no es solo un art\\xEDculo aleatorio sobre c\\xF3mo cocinar puede salvarle la vida alg\\xFAn d\\xEDa. \\xA1Este art\\xEDculo realmente te ense\\xF1ar\\xE1 c\\xF3mo cocinar! Cocinar no es tan dif\\xEDcil como mucha gente piensa. Cualquiera puede hacerlo; solo necesitas un poco de orientaci\\xF3n al principio hasta que lo domines. De hecho, una vez que lea este art\\xEDculo y practique las t\\xE9cnicas varias veces, probablemente podr\\xE1 cocinar como un profesional en muy poco tiempo. \\xA1Entonces empecemos!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/5-ways-to-cook-with-tofu-for-meat-eaters-and-vegetarians.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMSYSah8OaF/OZODa7ihkrqbhsusm9aad8Swg+iQYwC1fxnBiyS0kUarqJ62nY+zlH/DsZ6LZC+0gU7IbU4AXUUvT0lGe5GlsMbXx764pKWgpJuKeV02iGAnjmMmAGeJYnaOkWqCiHtrTJ92IqeTZcugaruOXotrQ6mASQA1VS18n3x3jlCQl3vfwpa2kWe3kmjXtYrDnW2viVsAcnl3SVpHXm5Eem9On3NJj2dAfFs4rolf3sKaf29XAMi3r4KIjWtzdWlqY0I6MUA1J0g5J4ZiPq2dgHSJlADbsX3W1dqAho1kbHB3e3xdX15BSEpIUFRjdH5whJYA1at62sSy2+DqgomUX2t1e4mSb4SRZHyPg5uwz9zqALmKZcyjdtzRzNni74aPnFBgcVpvhZyxyNjk8uPt9wd5ntDFrUD/AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "5-formas-de-cocinar-con-tofu-para-carnivoros-y-vegetarianos",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "5 Formas De Cocinar Con Tofu - Para Carnívoros Y Vegetarianos",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Independientemente de su dieta, el tofu puede ser una adici\\xF3n vers\\xE1til a su plan de comidas. Tambi\\xE9n es uno de los alimentos m\\xE1s incomprendidos. Todo el mundo sabe a qu\\xE9 nos recuerdan el queso, el pescado y el pollo, raz\\xF3n por la cual, para muchas personas, el tofu es un alimento extra\\xF1o, casi extra\\xF1o.\nDicho esto, el tofu ofrece una serie de beneficios: es rico en prote\\xEDnas y bajo en calor\\xEDas y grasas saturadas. Adem\\xE1s, dependiendo de c\\xF3mo lo prepares, el tofu no tiene sabor ni textura que pueda desanimar a cualquiera que desconf\\xEDe de las cosas.\nPara aquellos que no comen mucha carne o pescado pero a\\xFAn as\\xED quieren disfrutar de los sabores que aportan a una comida, cocinar con tofu es una excelente idea. Aqu\\xED hay cinco maneras en que puede usar este vers\\xE1til frijol como ingrediente principal en su pr\\xF3xima comida casera...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/5-easy-tips-for-making-better-soup.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK0uA6pvbOTy/dHn687o7+n1/t7x/Ku3waCXls/n+ACOHgJ8YjuNpHi3nTK7qlyy2tPV7vxeT0dXJgWTiokAhDc/h5BZ66AT8Mh99dqx+t+v3OPVf3+BTSEFdVpKAHyZnNOdG/XFcbiskuHHlfrerPfqyI1SGW1ROE01IgCEoqHhqTH31JWjn5u7o4T53rLv48xdKgeSSgORTg4AhIKAs6lY9teo7eHM7d/L+uW+spd6fz4CYisEiUQDADpNS1t5drfHuO7u4OLf0pSEd3c2BYxFAo1GA1YmBwA2REQ1Q0NCR0NiRCyLXDpoNRByMARSIwOWURCmj2cAWEY3PTw1QURATEMzd0kkkFoxWCoObDACtZFgzbqKALfF1YhpVmlGLmA8HWZCI3pGGJFVHp9xPdLEndDCl+9ymIQIYO2fAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Sep 10 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "5-sencillos-consejos-para-hacer-una-mejor-sopa",
-      "locale": "es",
-      "categoryLocal": "Cocinando",
-      "title": "5 Sencillos Consejos Para Hacer Una Mejor Sopa",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hacer una olla de sopa es una de las comidas caseras m\\xE1s f\\xE1ciles de hacer. Pones algunos ingredientes en una olla, la llevas a ebullici\\xF3n y le das vueltas por un rato. No hay mucho m\\xE1s que eso.\nHacer una gran sopa, sin embargo, es otra historia. Las mejores sopas tienen capas de sabor que estallan en la boca. No son delgados y acuosos, ni est\\xE1n tan llenos de ingredientes densos que apenas puedas meter la cuchara en el taz\\xF3n sin pescar primero media zanahoria.\nSi solo ha hecho sopa como una ocurrencia tard\\xEDa, algo para guardar en la despensa cuando no tiene ganas de comer las sobras, podr\\xEDa ser el momento de darle otra mirada. Hacer una gran sopa no es dif\\xEDcil una vez que sabes c\\xF3mo hacerlo. Aqu\\xED hay 5 consejos f\\xE1ciles para hacer una mejor sopa:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/3-recipes-for-homemade-bread-thats-better-than-store-bought.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALKuq7m1sry4tb25tr25trq0ssK+vcbEw8rIxszKywCgmpOMh32lnZSJfGyNbklwUCmdiXe+ua+cnpTRzsYAX1JCdG1falpChWlHeksdlFsjglMm7tzA3NnOzM3GAFJFM2RdTZeFabWjhZ+BXrN8OsyNOd/Iq+3m2LKpnACUjoBdUkKcimu5pYfYx6+/o4vZpWftzp/y3cSqgVQAoZqNfHFgk39huqOG38y17N/N8+DJ5KNl6qZpkGk9AH19b6yllYp+cKCJb8mkf9Ske+i7j9afaGxNKmNKLAChnI6aknu3uK+roZd4UC6TXS+TXSuKWy6BVyp+VSgAmpqOgX1sysW5ysfBgnNjdVIwjFsqkF0qkWAup3U/AJeWjbe3rI+Ler2+tcfDvrqyq5KCc3hYOpZpOtK0nI71qkwRa8IPAAAAAElFTkSuQmCC",
-      "createdAt": "Fri May 13 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALKuq7y4tsC7usTAwL26ubSuq8PBwby6ur+9usrIyACknpiNiH6XkIeIeWuMbUhrTCuciXjCvbKkpp3Py8EAZFVDaGJVcGBJfV87e0gUl10gglEi8N3C4+PZz9LNAE5CL29nVpSCZcKvkJp9XbJ4NNGMNN7Gqu7p3q2jlQCRi35oXUuWg2W6p4vXybO+pY7bpF/szJv35dGvglIAnpmKd2xcinZZwauO4c208OTR7t7K7rFz5qNklW9CAIGAcaehkI6DdZyEas2ng9Wkeeu+ktCZY29MKVlFKgCgmoyPh3PExr6jmo9uRCGVWSecYCyHVyt8VCt4UicAm5qPg39uwL2wysnEf25fclIygVIilV8rlGEsqXZAAJ2ck727sJKNfcfIv8zKx7StqZGCc3NVNpRmN9O1mGrjqhhfmB6wAAAAAElFTkSuQmCC",
+      "imageId": "129c4873-dafa-4b22-43fa-5505fb715c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "3-recetas-de-pan-casero-mejor-que-el-comprado",
       "locale": "es",
       "categoryLocal": "Cocinando",
       "title": "3 Recetas De Pan Casero Mejor Que El Comprado",
       "intro": {
         "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El pan casero es uno de los mayores placeres de la vida. El olor, la calidez y el sabor del pan reci\\xE9n horneado no tiene comparaci\\xF3n. Tambi\\xE9n es una de las tareas m\\xE1s desafiantes de la vida. Hornear su propio pan puede ser complicado y llevar mucho tiempo, raz\\xF3n por la cual muchas personas recurren a los panes comprados en la tienda. Pero el pan casero no tiene por qu\\xE9 ser una delicia \\xFAnica. Si aprende a hacer su propia versi\\xF3n casera de algunas recetas cl\\xE1sicas, se convertir\\xE1 en un alimento b\\xE1sico en su hogar y no algo que evite porque es demasiado trabajo. \\xA1Hacer pan casero en casa no es tan aterrador como parece! Una vez que sepa qu\\xE9 tipo de ingredientes se necesitan y se acostumbre a medir cantidades espec\\xEDficas, hornear sus propios panes artesanales con queso se convierte en una segunda naturaleza. Aqu\\xED hay 3 tipos diferentes de pan casero que son mejores que los de la tienda:\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJw7Kp9aR9TW0cDGwra3sNzZ0+HuyNjfy+bp7t/g3wCma06+lYPi6ezDuqWkj3rf3cuVpyWdo23m1NTb1s8AopR9n4dqu56CimNGaEMpfVY/qo9ttKCHxHtlvGBEAKeQfKaCYl01G0csE3ReNWI7Emo1HbOilsiqmKA9JQC8sKSbhXVFJA+EgUWhumSjrWuDSSKpiHfh4NnAhnIAv7OZq56XbTgYlHk+YnkyeWI6i0ceyZ6AwMnEnqyvAKN/VdjCqpd1Wn0/E3RBGIE8EqRrRrWijbO/vKGxtQCPc2SmiG+miXKOb1qJXkKie2CLeWt1cWeRnJqNj4YArLbOpKe5hnx+g3JoeGJPaU81UTQba2RWgH5wgHlpAM7b37vI4bO+16KnvX51d4t1YYBnUHNuXoWJgomEdzepoRcmSh1YAAAAAElFTkSuQmCC",
+      "imageId": "2cc191c3-cb96-4a9f-2409-de71466f9b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "las-mejores-recetas-para-aprovechar-sobras-de-cocido",
+      "locale": "es",
+      "categoryLocal": "Cocinando",
+      "title": "Las Mejores Recetas Para Aprovechar Sobras De Cocido",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que las sobras son el secreto de las excelentes comidas caseras? Pi\\xE9nselo: los grandes cocineros caseros saben c\\xF3mo hacer que las sobras sepan a\\xFAn mejor. Los usan para crear comidas nuevas y diferentes que a todos les encantar\\xE1n, en lugar de comer lo mismo una y otra vez hasta que no lo soportan m\\xE1s.\nPor eso hemos elaborado esta lista de las mejores recetas para aprovechar los restos de pollo cocido. Estas recetas son r\\xE1pidas y f\\xE1ciles de preparar, pero tambi\\xE9n cumplen todos los requisitos en t\\xE9rminos de sabor, nutrici\\xF3n y facilidad de preparaci\\xF3n. En otras palabras, no solo utilizan las sobras de una manera deliciosa, sino que tambi\\xE9n te hacen la vida m\\xE1s f\\xE1cil para que no sientas que tienes que evitar cocinar otro plato de pollo solo porque est\\xE1s harto de las sobras. !`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

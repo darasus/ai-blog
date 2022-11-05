@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/interfaces-in-java.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABDklEQVQYlV3Ky0rDQBiG4bkoF3oPrty4FsQrcCcIehGi4qIgHilWBU/VjbXEY2NImlZKalrbJJ2Q6niYzPz/zEISoQtfvt33EFCaC5Co/G7Pe/XtesMwjH4YBRFNJZJHs7a4tAwKQWlQGnWmg4hadt1tvpCx8Yny6Ul+4zfnKcgRBaXJzNRkHCed3ltIB7Vnc3Nr+7x8WTw4/HPEMW5SkKXjo0q1urq+wTnXSod0AAoRkbx/CkqjJEmEEK22Z9l2q+0BACICAPlJEVBAntNwb+/vHp7M3f0iYyy7hRBSpiPxL/KV0KFzxdwz3reAM8BM58siHwkLKnudnXm/MOetTfuF2X5pIb5eYc0LOez+AtieBjj6ELlaAAAAAElFTkSuQmCC",
-  "createdAt": "2021-04-05T07:38:14.666Z",
-  "updatedAt": "2022-10-11T17:15:38.951Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJUlEQVQYlSWOzUoCURhA79sEvkvLHiCqRQ/RLuoRWkm0UAiD0ihEKyv8BRfpTJqZiTqOjubcufPj/Z8vrMNZHw7SOsbEj9bMsuf9r0Grbby1jG7v07bnxA9RsVQ6PjkFAKlipTdiTMaTqWl2zPcO2kokrtJpAFBK+2HokQD+0DEIqdDezjZxvZE1cT1crdcvM5nCw+PdfX6FsdIx+mg2Fq6Xy2XLlcr1TTaIQsrZxLKCKBRKIhLJuTNzHEdIWWs0np5fev3+CruUM8458kMqJRecCckN0yxXq5VaPV8o2LOZ1hpRSoXWAkAAxP9XAFpLzijnDPk/S9co4vZtMGpGywFd+5tODEID4xJ5q8Aqpb7PD4bJ3eHF/ih1OM0dLV7PSLfI3PEvZ+AF475SLwMAAAAASUVORK5CYII=",
+  "imageId": "e8516075-a720-4945-c351-ebc8e26e7500",
+  "createdAt": "2022-11-05T21:52:08.702Z",
+  "updatedAt": "2022-11-05T21:52:09.005Z",
   "categoryLocal": "coding",
   "slug": "interfaces-in-java",
   "locale": "en",
@@ -20,10 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-the-masses.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJhxE554HKF7Jq+HK7CHMa+FNK+GLamBKJ12IZRuFwCeeRiqkxW6nx23kzDEoy+9lTe/oSW5ky6shyigfhwAoXwgpJYNinsSqZ8Oo5oQvKogpp0Ml48Ns6sKoJsHAKuLHZt8J6qIMauPNJWBKMyoR6CILpt8MpBxKYJkHwCFfQmmmhGpmhaypRXEtxqklRutoRiqmhmonRGtowwAlHEdjnoWgXAYmIcbno4fpYo0n4glinMijHcXgW0UAKF8IKyELbONMb6aN8yiRdGlS8qfR7+UP7SJM6N6JgCcdBuZeCHPywaahh2xmSLIpjLClz+3jjqshC2ddiEAmnIUn4AZk30VlYYOgXAWqo4mt400rYUsoHolmHIbAJVuDohoEZVxG6R+IqmAKquCLKmAKqN7IphyG49sFGj3g1duABCQAAAAAElFTkSuQmCC",
-      "createdAt": "Tue May 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPw8/Pz9fUVERVRVlEWFRURFBSUkZEpLCz08/PT1tZmKCoqKi0tqa6pKymrnTJtZm5ujp2dbV9f75QpU1pbWxm4uDglJKVMjDRjgwwCXM15eHjZOThY2djExMSkpKQYmJmZmJhYuDkZ40NVZzYHqytJykgIyUgKMTMzMTAwMLCwMDMyMivJCLZU+u7dnr9gksPiqQ7dlQbJgYr8vBwgFTJS/MVpzvOmBJ7YE7J1nfX6VcatVXr1ufYpEToMDAxMkuJcq+Z5zZ4Yunhq5txJBdN7c2qKvNYv8g0LkAMZzsDAEBEqtneb3Y51DrvWWhzd47xxudaUPkkJcWYGVlZWDQ0NUTFZNTV5ezvJgnyriHAlM1MZWVk5RUVVkHRYWFhWVmZUVJSLi7eLi19gYHRcXFJ6elpQUCAAhJhTZ19iuCIAAAAASUVORK5CYII=",
+      "imageId": "f5326606-5171-4cb6-eb8a-b5572073c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPElEQVQYlQXBu07CUAAA0PtDxsXZPzDxA5ydHUxMjJuD0cWRYOJiXIypRPGBmBhApAiUPqH0xavlUSi0vfVWbltazwFNWmR4mRVURlDrlFhrdL5JrlzhGrRcpyTAixrf6Q7G8+5wqg2mSm9M1gSW12heZXgV6IbZHZqipreVYUsatKT+DyXSnNqgJYqRQQtZS+R5YewF0V+UeEHsBWvT+TVmTm9igXS1RLV5iKMiWSuUq5nnHCvKEEdLP7AgAifXV5wk2D6u1Jv5z9J9Jlv4Il0cWdC/0WVweHm+hHNVn7zmP+4I4uEx+5J7X/grYzTffyPA0cVpECAYJn4Su0EyQ4kygu4q7NvOVpUAqdt0EmM0OMb9g5Vxhs1U4DzZGLu2vzehQIktRhhhdXfd3liLm5G0HSo7CwRt288tRv9EuvqHGpIKBAAAAABJRU5ErkJggg==",
+      "imageId": "54a33745-752f-4e1f-bae8-a41102edcb00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-practices-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Practices for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlQXBW0+CUAAA4PNffTXejJd0s61eebLNtqbCsM3GStHRZYqmHtiyFGZ4QbFUEE5eSIFMsfV9YDngDIU9mE++we31gj+7P6DKFjVss7NaWECuZx6zV39W8desuahloyGyDMdxB9qo1+sDV6+tUd/+mv543nhiKErv9a2ZTCTyeVbXdeCv2lMdQShACCmSpEgyEAjgOM7m2G63C9YfRdOYcBx3EYudRqOX8Xir2eSLJRzHMQwDmlRAE6XEV3LZbJqmj4LBSCRCEASVSsktCbijW8eURLFxHAqFwyfJZAJCoVYXNxvP3+3AXk3vkDBHi+dKVZaV2Wy+9VxnNbU0UapSwOaxrXY3R3pblpZGxzEE9YUS8+dlJpqjz8A3j7vq9Xr84H6yG5X2htR7mWAycbZww5eYf4bk6KQm+cXOAAAAAElFTkSuQmCC",
+      "imageId": "f4af332d-c921-40d1-3c6e-edb047f13a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-use-online-coding-resources",
+      "locale": "en",
+      "title": "How to Use Online Coding Resources",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In an increasingly digital world, demand for skilled coders is only growing. There are now more coding resources than ever before; however, this can make it challenging to know where to start learning and developing your skills. If you\\u2019re interested in coding but aren\\u2019t sure where to begin, you\\u2019re not alone. Many individuals feel the same way about coding as you do. Fortunately, there are many great resources to get started with coding and continue learning what you need to know.\nThese days it doesn\\u2019t take a lot of money or time to learn how to code online, whether at home or as part of a formal education program. You can find free tutorials on websites like Codecademy or Treehouse, or complete courses on platforms like Udemy or Alison. While it can seem overwhelming with so many different options available and no single right answer as to which one is best for you personally, the truth is that all of these resources are great in different ways.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlRXEPU/CQBgA4Fvd/A8Ozv4GVwd3N2c3jXGQ+AucTBycnCBEScREA2qKIrUHrS30SzikoPKdVoOUlpa7e43P8KCjXmun8wYAjHHKOGOM8/8BmD+bomWtsFbH5swDOluwEIByHjDmA4QNYqD1QWtJreziWwh74eK73TGi2HO9NkBQb+hoJXmcSG8pL6k4GM6jn2TqPJNJCoUbACDERr6z4Q8Tc/ez/6FZtiwrRUI0XBZGI4c0LbSdOjzNXtKJN+yT7HUaY6EiPz4Vc7WaZJgqWt07617kACK5XDDMcql0VxLvRfEhn79SFBFpmwcgVinwhi0r6nNNl3QDS1iQsGDZKmrvnwRfXcoCOnc5/+VswtgkjlwAfzx2kB9NGQ3j2B/0HKdpvROzbldN41Wvyoau/AGGA/moPCHUPgAAAABJRU5ErkJggg==",
+      "imageId": "8afcd06f-ba3c-4b42-19dd-64511160d900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-popular-coding-languages",
+      "locale": "en",
+      "title": "The Most Popular Coding Languages",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABDUlEQVQYlTXNO0vDUBiA4fNT/Qcu7oIOgpOjdVAoShFRTIUgmIKSYIZoa7WUeiEKqRKLSZs0Jifnu0kG3/3hVUQkItNodrBvW+euZbnj8buIEBEzqzhO8qwIw6/RUzgYvHjesN9/XiyWZanTNFd7LctzH3u9O+cquLT9w7bd6Thdy7Vt/+z0RhEhYBMYQOa8wrKsRQQAkUjN51lzQkQW/J7w+ILqCk1DmFi9+V6WJ8u6EmFy1slapQ+XGgBZVSgBGEaTMP0UEfN6jc6Wbm/WzokwtoKuYhEgo0HqeFtjYKK42lipdtbIYKZ/FSESgogk0XGR3rOIebiFkYPhLmOm6D8DDMBE2Iz1D06PCPM/1oYMC7bzcToAAAAASUVORK5CYII=",
+      "imageId": "d83ad1b8-9e3c-465d-74a2-53f62fbfc400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "locale": "en",
+      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJdxE6F6HqV8KK6GL7CHM7CHM7CHMKh/KJtzIpRtGACYchu1nxS4nx23lC7DoTC5lDTAoya8ly+vjSWmhRsAm3MinI4QlooQrKEPmJENsaAgnI8UlY0MmZEJmZIIAK6QG6OAKqSCMqqPL56ILMmnRq6TM6OGL5d2K4ttHgCYkAmonBGnlhq7rRe3qRymliCqoBWyoxmomRWwpQ4Ajm8chXAZinkZnIscloQioocznIMsi3YiiHQagW0UAKV/Ia+GLbKPMLOQNc2gSteoTs6hR8OXQbWKNaJ5JwCgeB2nhSCzrQaplh29piLHqS/Cl0K6kTevhy2feSIAlm4XoIQWkH0UlIEXi30QqYwlt4s4rIQuonkll3EbAJVuEIhpEpZzHJ13JJ54KaZ+LKmBKqB5JJhxHI5pFKgEg7mIfkr9AAAAAElFTkSuQmCC",
+      "imageId": "5d050e77-36a3-4159-fc42-2321bc6f3300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "python-a-language-for-the-masses",
       "locale": "en",
@@ -35,115 +110,10 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACkpJx0dHSMjJUhISGpqan19e6CenNjVz+7r5e3q5ADi3NXf2dLAu7Oxq6SPioJXU05BPTpCPjteXFjl4dwAl5OQ8u3l9evT9u3b9e7j8+7n8u3l8evk8Orj8evkAJ2VivPnzf3Yev3Yev3Yev3YfP3ZgfzaiPzbjfbitwDo3c744rHQsmW2mlavk1Gcg0mxlVSwlFLevGjC164A7eHV+tyN/dh6y6xeo4lLup1Vo4lL7slt7sltmNa6APTn1f3Wc/3Wdey6ZO63Ye+zYeewXP3UcP3Sb4rVxQDs0KjosVLvv2D4zWn81G39023902380mr90Gl008wA6d/TvqiSZLSyaKedcJ6KfJt6j5lqpJdXvJZIV8rRAOni18zXzz+quEa5y1LI2V3V5lzW6FXS40nP4U3S5djwyuxO+Dx8AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-tips-for-beginners",
-      "locale": "en",
-      "title": "The Best Coding Tips for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/introduction-to-java.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXOv0sCYRzH8fsPoiEEB22QRMof5RAhReEaQhBCVNTWP1BCQzQ0RiAObdFUQ1omJZ0YcQThJnQELeqVynVe4nmnz/N8n+8tcfbhs72Xl9D6/lLbTbXdbCm1V+k5ldrf2d4MBnw+r6twfS4YlmmapmEYuq5VKm/haHB6xp9IxFcWQqGpSWFIYXRKCNE0LbYU83jdrvExj3vidC8pEI5D4BSQ24iI6UwmEo2Eg4HFWf/u8pyTaw2lrjREUSyXy9nb3KNYKt3f1dPHl/F5AdDOFx5ucllJkmRZrlarmt61igWWv1IvzpxMAYcUKKUAwEezfnvK4UFPehIAOSAnjP/rgDJkwDs/7xvr+a2kIwfk3EbOOSGEDAasb7FOh0kvxbVVJ/+zuY2UUtPom3rXbKnWx6d8cvQHJSjfEBSgh8cAAAAASUVORK5CYII=",
-      "createdAt": "Fri Apr 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "introduction-to-java",
-      "locale": "en",
-      "title": "Introduction to Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The history of programming languages is littered with abandoned ideas and failed attempts. That\\u2019s because creating a new programming language is a challenging process. Creating a language that has its own syntax, parser, compiler, and virtual machine is not easy.\nIt\\u2019s even harder to create a programming language that other people want to use. The Java programming language has been around for almost 25 years now, and it\\u2019s still going strong. There are many good reasons for this, but one of the most important is that Java doesn\\u2019t try to be everything to everyone. Its scope is limited, but its potential is vast.\nThis article will introduce you to the Java programming language so you can understand why it remains one of the most popular languages in the world today.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/deploying-java-applications.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlW3QQUuDUADA8ReMNikKCYwIJKggukTfoUOH7n2N2C3qA4wOXfKWCUuCYEQgRAa1YD1JMerpa1trKDs00mEtbdKW741gp6B+1//tD/p/0R7t1EhL6Xc9QCklCUkii7hZWl7zrxZJaZjcAAqHvj0ZRFEUhmHczFOLJeWJ0hEnbHF6gSVVpuuug/bAR1AjzjKtz3oGj8+mTvZYWkkleAQghDRNs227V19panyMp5/OJ21lDB5mbuU0wBgLgpDL5VqVjd3N+fzOjFHgoDx+d8xc72eA7/uu6xaLxWd0EKGFV8jTx1FipQlKJfcMaDQapmk6jnN5cRo/LLVLc2/G6md1++tFSToeUFVVkiRRFCGELtKid//3AqDrehAE/8wZ5B/WMuI06UOX5wAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Sep 07 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "deploying-java-applications",
-      "locale": "en",
-      "title": "Deploying Java Applications",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s enterprises demand more from their software. They demand that it must be fast, secure, and scalable to support current and future users. They also need deployment to be convenient, efficient, and fully automated.\nWith all of the modern application development tools and frameworks available today, deploying Java applications should be straightforward. Unfortunately, the reality is quite different.\nThere are numerous choices for deploying Java applications: You can use a traditional staging environment with manual processes or a continuous integration server to automate your build processes with code repositories such as GitHub or Bitbucket to manage your source code in an isolated environment with some third-party tools like Bintray or Nexus Repository Manager to deploy static assets on CDNs like AWS Content Delivery Network (CDN) or New Relic Insights as an additional monitoring solution if you don\\u2019t have services like StatsD, Datadog and Prometheus installed on your servers.\nIn this blog post we take a look at several different ways you can deploy Java applications.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsklEQVQYlWPoVmPEgxg6VJm61Rg71XFIL4xSWJGk3Bfi2Bfj2x3t3RPu2ZcW2+Tn0B3p1aHDzbAoTG5mjGKHGkO7Fle7JnuHKlO7GlOHGkOHGgNI9+YMtX5r/j5H9W4nzR59/m5j4T5H9V5bxW5DoW5DIYZWY+61WRqtlnLNVgod3uatLvrtHiZN9hrdwU4N1ioMt4/6TwyTwenymUlaTZbSzSYS2KUhFMg56mw4pXEZDgDQ4VHCbPANTQAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Apr 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-a-language-for-everyone",
-      "locale": "en",
-      "title": "Python - A Language for Everyone",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A programming language is only as good as the people who use it. It\\u2019s not enough for a programming language to be perfect, complete and universal; if no one uses it, it\\u2019s useless. That\\u2019s why the design of any new programming language involves a lot of user research. The creators of Python \\u2014 an open-source general-purpose programming language first released in 1991 \\u2014 recognized from the start that if they were going to succeed, they needed to create a language that was accessible and appealing to a wide audience. And so, despite its many advanced features, Python remains transparent and straightforward, with syntax that directly addresses the needs and abilities of most programmers.\nRead on to learn more about this brilliant programming syntax and why you should take some time to get acquainted with Python today!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-a-software-engineering-degree.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlSXJy0vCYAAA8O9v6wGdOwbRA7oYRYV0q3uQoBejguqghBXZITTFjDK3fG7TzeaX3+beD8a3KRTLXET1u/7A95+WhRDWEVZFbLC20HdN1hYgVsB/J7nCVech0c5HKxenTDbeSN/wpXO2AHzq7tPsK0Nb9qyOLdZ0vu+asmfpQ8f58AC5M0+Fpt1kjNcg4qpCpdgj87CUeXvOygwJtlaW9sMhLbrNZy6VLiM0S+jlXmZImSJ+e3lm0ilf05FwjagrCCpsTaIJlatbiBt/jcGofCbF1442F0QJD1xsi9BE3PsAB0Hg+z6gYquRuamTvd2GKLTbJJtLUbeJ12KazaV61SI4WJ89XpxgHp9Go7Fna1qnqUNaogm921J5BjQPN5RC0rAt6EiaIapc3YSM0aUdGQZB8ANlZO8DJtCGDQAAAABJRU5ErkJggg==",
-      "createdAt": "Tue May 04 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-benefits-of-a-software-engineering-degree",
-      "locale": "en",
-      "title": "The Benefits of a Software Engineering Degree",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-functional-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAuklEQVQYlWPwW2KKBzHU7Mms25sTu9otdX1AyAobiKj/YhACSdfvy03fFNSwNzd3a2TvkVpkrf6LTRkmH2/O3xK57OLM8l0paNIg3SErbOLXegQtM49b4w4hIfoQdhdui63fl9t6sCRnS/iiC1OzNgXHrnZLXOcdu9qNAaIqeLl15CrH0JW2ESsdgpdbTznR2rQvv2lfPlQaGQUvt556sq15f0Hz/gIs0n5LTOPWuCeu845b445dGu5yAPx7gxsRaEU0AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-functional-programming",
-      "locale": "en",
-      "title": "Go Language for Functional Programming",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Functional programming is a style of programming that focuses on the usage of functions to model and solve problems. It is a paradigm that allows you to think about your code in terms of input, output, and operations on those inputs and outputs. The advantages of using functional programming are higher code readability, ease of maintenance and testing, and shorter implementation time for complex algorithms.\nA variety of languages support functional programming features. Which one is best for you depends on your specific needs as well as the other programming languages you already know. Depending on your preferences for syntax, size of community support, or availability of libraries for the type of projects you are working on now or might work on in future, different options might suit your needs better than others.\nIn this article we will explore some popular Go Language alternatives for Functional Programming with examples and pro/cons for each one:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/object-oriented-programming-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHxTOAcMCgQICQwPDolRMsZ1SMp3Ssp4Tcd5T8V6UQBjVEANCAUKDg8aFhOkYkS/dE3Ed0/HeVHJe1TIfFYAazsgTB4EQRkFczMLr2hFxYRlzpyB07Cc1Lutx4NjAJpqT6WAaLqfjc7Dt9/k4uXu7eTw7uTw7OXu69rMwQDU5Ojb6Orh7O3k8PDY4eDS29u9x8S4v72lrKri7OkAytfctb6/sbi4oaenwcrJpayqztfW5O3s5/Dw5vDsALvIy7zHyMTNz+Tw8Obx8Ofw8Ofw8Obv7t7f3NTDvQDZ6Ozd7PDh7O/h6uzY0c/Rt67Mno7HhnHFgGfGh3EAxbm5vJyOuYBouGlIvmtKwG9PwXNXwHpfxYBnxIhzAKlXMbJbNLdgOblkP7tnRrtsTL1wU712XL59Zr2FcqwVuW4eG1GCAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Apr 08 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "object-oriented-programming-in-java",
-      "locale": "en",
-      "title": "Object-Oriented Programming in Java",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWPQlma2UmFy1WHyNWAOMmYKNGL20WNx0GA2UWBWlWBmsNdiCbFgSXdhKvJhLvVlKfVlyfFgirNn9jZiMVNlYgg0Z831ZmqPZZ2czDI9lWVaCnNXHFNlIHOyC7ObPjPDlBaftVN917Sqb2+VX53PvLqIZV42S08CS5EfS7gNM8PaBckL6nSuHSne3Sqzu5FnZy3vlmbJhWXiTfECiW7cDBnefA2hLHtmue3t1728OfnajvTLO7MPLE9YMSm4pdiBIcCMOc2ZuciHucyfo8KXtTpcMN+HO86ONcCM2U4T5vJUV6Y8L6ZSf8ZSf+YsD5YYB2ZvYyYzVRYGbWlma1VmVx0mP0MmsL8ZvfSZHLWYTBSY1cSZGaT5mVXFmPRkQHwLJRAylmfRlmZWFGGS4GcCACEeTYttyCv1AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPQlma2VGF21WH2NWQONGIOMGL21mN21GA2UWRWFWdmcNBmCbVgTXdlK/JhLfFhKfFhzvFgibVj9TZkMVNhZvAxYshyY2yNYJqSyDIzjXVaCmtPPFtVMFuyC5ubAQvDzK7AnYuj1nfobGuVWZ3HsKqQeWEOU38iU4k/Y5gNM8O6RenLWkxvHC49MllvZ53Anlapra3yS6rkuzNlU7wFGTJ8+BtC2bf2mu7o0Li+K+fSxpgLO7L2r0xePTW0KsOUwd+UOcuDvdCDsTKAu8qfrTqIs8ifN9aWxdeIwVaDicFOiyXYkiXNnTXPi7ksgLnEjznTlSnOkcXLmMVUlYVBR4bZSpXZXZfJz4g52ASEfAyYnbSYTZWY1SSYGaQFmNXEmfVlmEwVmCyUQMhYnklHillJhFmSjxkAlYRON1dp/hwAAAAASUVORK5CYII=",
+      "imageId": "88c30a3e-c229-4e88-fc59-f0d81fb7ce00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "python-the-language-of-tomorrow",
       "locale": "en",
@@ -155,16 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/spring-mvc-applications.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlY3PzQsBQRzG8flrnVzcHZ3EyUUJq0haJcrJKpsmB5vEivW+u1kvY423XXbMryQHNzy3b5/Tg+Dr0G++P5x32HfCwGPgfXh7naT7vsokxLmX14WimSuaubIlli3xxcN9I6P6k32fy87qsaccWovzdOWa0qb64oJmBRr5OR0DQFZPxqbh6rqEiSzvpCapoyiuie1Ua0UBoEnqXapgIgvLeIe2s0YCRRQjiBeHm8c4H9nXgX3RqKNRZ3ZyXPb449gXfgKZgg63tIYt2gAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Aug 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AAgJExESFVVWFFVWFlZXF0JCF09QFUxNEwoKFAkJEABGRxRGRxhpahd5ehdtbhlXWBpvcRZmZxY9PhU1NRMAU1QYY2UbXV4dVVYeVFUfSkogW1ocXmAZU1QYVFUVABYXHxscJB0eKCAgKhkbLG1jIl5WIhYYJhYXIBAQGQAiIyImKCkpKixMSik4Oi9kXSI1NSglKCsjJCQdHhwAJCQkKSUiUEwl17oGsZkLZmkvLjY4KiUiJCUlHh8eACQhHypKWimCtHKaaWWYdx+GyhWC2SRPbyUjIB8gIAAiKDK4zNLj9OvR5ujT6Ova6eHn9+q0xL0iIiIfHx8AHyUupq+10dPLyczFy83Fx8vF0NPPo6ajHyAhHR4eAB0dHR0jLiEoNiIoNSIoNSEoNSEoNiEmMh4fHxkbGsc3WJcxcDFdAAAAAElFTkSuQmCC",
+      "imageId": "0dcc087f-8983-4615-9ec7-488318e53500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "spring-mvc-applications",
+      "slug": "python-the-beginners-guide",
       "locale": "en",
-      "title": "Spring Mvc Applications",
+      "title": "Python - The Beginner's Guide",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of an application, it usually means a program with some specific functionality that\\u2019s usually stand-alone or something that needs to be accessed by multiple users simultaneously. In programming terms, these are generally referred to as \\u201Cdesktop applications\\u201D and are not commonly built using the same frameworks used for websites or mobile applications. However, when it comes to creating an application with Spring MVC, the options are virtually limitless.\nIn this blog post we will take a look at various examples of Spring MVC applications. These can range from simple tutorials on building your own stand-alone desktop applications with Spring Boot or extending existing web apps with some custom logic and functionality that\\u2019s only available through an extension or plugin.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABF0lEQVQYlWNgYGBlZIQiBgYMNKmHNSqM1c2ZLdCPrbmOra6KrbaSraaCraWeLS+LjWH5ErZtm1jnTGVbtoBt7jT2eTPZ165gW7uCbftmtiVz2RhOHmLdv4NtzjS2/dtZp09gWzyXbcEstkk9rItms21Yxcbw/z/Ll1esj2+xfn7Nsm4F24v7rC8fst69wvryAevDG6wMjnZsLk6sDvbsaUlsfZ3syfFsDnbsnm7srk7sbi7sDAwMTAwMYIqJnYWFhZGRhQEZ2NnZ+fn5enp6REREaGvrhYWFOjg4uLi4ODk5uru5MgQGBrm6urm5eVhZ2SgoKJmYmMXFxfv6+jk4ODo4ODJwcnKDTWEEk0wsLGzc3LwsLFArAE8LTElmQuTmAAAAAElFTkSuQmCC",
+      "imageId": "1e182af2-0dd4-4cd9-ac4a-385a080d7b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-web-scraping",
+      "locale": "en",
+      "title": "Python - The Language for Web Scraping",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Web scraping is the practice of extracting data from websites. In this blog, we\\u2019ll discuss why you should learn Python for web scraping, as well as provide examples, resources and suggestions for getting started. The world wide web has made it easier than ever to share information with one another. However, that same ease of access has also made it harder than ever to separate useful information from noise. Because of this, many developers have turned to web scraping in order to extract the information they need from websites without having to manually search or filter through everything individually. Luckily for you, Python is a perfect language for getting started with web scraping! This blog will cover why you should learn Python for web scraping and offer useful resources to get started learning it.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABFUlEQVQYlS2P3UsCURDF79/si2KF2kNJT2GtSWwWlmWQELiLRLAWFYJKKOFHEEiBQqHrR+F679yZqSudh/PwO2cYjkBEYtaIqDVoIyQyboAWADBvt1lJXsmUxmMiMmdEYjadpqLReDi8GYuthUIvrdZJ2tpOJrcSifVIRPi+f5zP71mWnTvdOchUarXD8wvHcewju3BZEITIRMwMZYfd0jB/NshYTGwQkUCtlVIKYNJo9HO5T88buaVgKWHFBaJGYi1n6q0Ez/eL8rV0r3SzgkSo9X+MchF8tcf1m1HtYd6swscdrVYIBEBm1elONuL+bmqazX4Xiz/76eXTIzKb38gMw0Hg3arXrux1Za+zrFfVe/8v/gWoXwEW13zZRAAAAABJRU5ErkJggg==",
+      "imageId": "b688ad3a-6148-457b-aeb9-a0dd5ac48500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "basic-java-syntax",
+      "locale": "en",
+      "title": "Basic Java Syntax",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re learning to code, you need to learn the basics before you can move on to more complex topics. The most fundamental programming language is Java. It\\u2019s one of the most important and widely used languages in the world of computer science. Many other programming languages are built on top of it, making it even more essential for coders.\nIf you want to learn Java, you first need to understand basic coding syntax. A lot of people find coding challenging because it requires fluency in a range of characters and symbols that aren\\u2019t necessarily common words in English. However, once you get past the unusual appearance of these words, you\\u2019ll see that they are actually pretty simple concepts when broken down into smaller parts. Once you understand the basics, everything becomes much easier from here on out!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

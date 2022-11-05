@@ -1,9 +1,9 @@
 {
   "category": "cooking",
-  "imageSrc": "/articles/decadent-desserts-that-wont-derail-your-diets.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AH1VM0tdcGWn7Haz8Gep7m+t7mys75ivy7uWftDU1QB/VzVRWWloqu9ZouljqeNyr+hjp+56ptfNqI729vYAdE4wR0pVZabil8vnm8/pmM3mcq7TaqPdx6GD+Pj2AGhGK2tkZpXJ5YDB4YXC4qXH2ZXJ5W2Vtcmej/Xu7ACEZVSSio1wstJ/kpeKfW2Ub1SlzudWgpqifXO+oZkAsZOLspqVebfUgJienqOfpa6tstPoYIOann5y5M3BALKRfsXCxovG5JHI467M2Z61wq7R6E6BpodwZenSxQC9mYiTsdeJvOGYzeij0eqfzeeArMRDhcF9a2jlzLsAwZ+PRILBQZHhVJnYZKfZVp7YXaLmNojacGJi4MGuAIZzbBUeLSc5U0hkhj1aex0yTUddemVxiJN2ZuzRwXUbtogct/zYAAAAAElFTkSuQmCC",
-  "createdAt": "2020-09-30T14:58:52.604Z",
-  "updatedAt": "2022-10-11T17:13:57.778Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIBQKE1ecmKs93u08F2k7myr7muw95msx8GbgNDT1AB/USlYYG1bqPhhpehgp+RwreRcp/F6pNPVr5Pz8/EAdkokQEZSYajnmcvkpNPpo9Xra67ZZpzTzquQ+PfzAGZBIm5pbJTN633G7IHD56jH2JHG4HOYtsmek+/m4QB+WUeblJl3t9h+kZWDdWOZcVim0OZfiqKbcGbApJwArYuAsZ6bgLnVhJeZn52Vp7GytdnvXH6Tl3hr6NDEALiSfcvFx47M6ovM7arO3qjE07LT51R+nIBwbezWyADFnYaZttx6teKm0uan1uugzN+BrMRGg71zanLjx7UAuZeGTIXCQpTmT5bWZKbZV6DZWKDmO4fTc2Zn4r+qAIRwaxEgNic6VUJkijpbghsyU0JbfGN0jZJyZO7TwqBztuU1t+P4AAAAAElFTkSuQmCC",
+  "imageId": "6a0f3327-0bce-470d-c21c-cf6827651700",
+  "createdAt": "2022-11-05T21:48:16.680Z",
+  "updatedAt": "2022-11-05T21:48:16.864Z",
   "categoryLocal": "cooking",
   "slug": "decadent-desserts-that-wont-derail-your-diets",
   "locale": "en",
@@ -20,100 +20,70 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "/articles/make-your-own-recipes-for-diy-condiments-and-sauces.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOzXv+/awfDbwuPQt9fKuNXNufDdxdDJuby/vLW4swDw3cXv2sHv07zWyLivqaKoqJzLqqW5raSffnWznZkA7te/7Me4z4GEvoaAk4ZYn5JywbmwraKPqKqcxIuBAOOnqdego8N9g6l/aWh0OmRsPrqThb5sT7KCd7pVTADJp6fEmJvSwsW6s5hRUhQ6LQ3Sc0raSx68PSidNycAwkcsyrWst6WVua6glI923tvcvks1uigcjBUQhyIZAL6kjamIb8Cff9K7o9TQzMm6tq+FfObc4KiCf4xPSgDHtqXQrozOvq/GxcHX2du0lIbAmYDW0NDUzsvCr6MAp3VKyJ923NHD2tPK08m+k3JbsKSct5Z/uopjzbejAOjLrOnOrurNq8Kbcal5Tq9+T5ttRqSIcraqoM+0lw6ivi9vFyZMAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Aug 27 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEF8rVFQXpxYUJufwWG9/16z+VSw+06s+Tif8xeH4AAIBQQpLC8NERE9NDlrs/Nluv1htfpHqvtPq/YtlOcAiomL6t7SqamxJB8dR2qPl9P/jsDri8Pzq9HxgrjlALqzrf/pvcfFxSotL1s/Q3St6onF9IK665PD7X635QA9PkC8u8BNS0wBCAl+NzOWdpVru/mDt+SEvOxgquYAJiYmKS4tJywtLDM0ckVEhWWCVaz0dLbui7/rM5rqADhAXlMiHWAhHkQZIGBjZElvjIXG+3246ZbC53604AA9hc+RICVxRWI3htAGWqAjKjlAbpU8pPcym+4eidwAIn7GNITOJprvLqL4Jpz2CXXNFjFNFliPHZHrCX/ZAAg0VySBxy6f9imW6iiW6xuU7wNuxAYxWw9ShQV40HOLlSWCvaiqAAAAAElFTkSuQmCC",
+      "imageId": "7261cab0-7434-4007-4d8d-51695e44cf00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "make-your-own-recipes-for-diy-condiments-and-sauces",
+      "slug": "learning-how-to-cook-can-save-your-life",
       "locale": "en",
-      "title": "Make Your Own - Recipes for Diy Condiments and Sauces",
+      "title": "Learning How to Cook Can save Your Life",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The humble condiment is one of the most underrated heroes of the kitchen. A little bit of sauce here, a dollop of mayo there, and voila! You have transformed ho-hum chicken or burgers into something spectacular. Condiments are key flavor boosters in our food and playing around with different combinations can liven up your palate and change things up from day to day. But are you using these hidden gems in the best way possible? Many people tend to purchase store-bought sauces when they could easily make them at home at a fraction of the cost.\nHowever, we all know that homemade versions will be much healthier and fresher than anything you can buy from a store shelf, so why not take 30 minutes from your busy schedule to whip up some condiments? The good news is that many of these recipes are super easy to make \\u2013 even if you\\u2019re a complete newbie in the kitchen. From sweet chili sauce to mayo, here are our top 10 homemade condiments and sauces you should try making today...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you have to learn how to cook in order to become an adult? Did you learn it from your parents or grandparents? Perhaps you\\u2019re one of those people who could never get the hang of it and has resorted to eating take-out or frozen meals for years. Either way, if you find yourself in a situation where your only option for food is what you can make with limited resources, knowing how to cook will be essential.\nLuckily, this is not just some random article about how cooking can save your life someday. This article will actually teach you how to cook! Cooking is not as difficult as many people think. Anyone can do it; you just need a little guidance at first until you get the hang of it. In fact, once you read through this article and practice the techniques a few times, you\\u2019ll probably be able to cook like a pro in no time. So let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/choosing-seasonal-fruits-vegetables.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOq9eMygcbaVcLufe8mta/bTQrycZ6SLbbmceLWffgDso2D7unfHhkqqh17iyU3XpB3itSWMbkSEdWFaSDwA2I9Km2o7o3pRwqFx880/1rI/uY4miXFQjnlgf2tWANPCr8q0nsWsjsStkcGpiMKnh8Cnibmhib+pjL+miADPwKy+p43Twq/Qv6fZzLrOu6TQv6nVx7nEr5TPvKcAvaiP3NHD3c+/3tHB3M6+3tXIxbCX2c6/39PF3NHDAMSunMCqmtTDsNC9qODTw824ocqzmdzRw8qzmd3AngCidWKGXlOOalvEmoS1g3Sqfnaic2qfhmrfxKLn0qoAh0Ayg0QznHFSs4Jesl9ZmVRLclI4lXJO37Z9hFkqALCQabmZdL+cc7eXcK6JYaN/XqJ8Up57VayJY6uBVLkFtxgAyeh7AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 19 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AG1vaoOEgMvMzcnHx8K0otZ8CtKmXNbHoKyEHMCgYQDKyszn6Orc3uXPzMrDvK2edkC+tZO5zMK0k0e2cwAAr7aZw8a/6uzo6ers2dLJqqGMhoRar7KTbE4VlWYcAKSxiKGtkNra1OLk583N0MCxjoRpN3dXJlQ2BI2CcQDq6+Dh497k5erV1dfR09i5ub2SjIOAc2SFclqrp54AxcjFkpSOhIV8eXtzk5SQz9HU0tPWt7i5u77A1tfZAJGXk4NxNZ6CO5qER5OVfnp/dcLGy93Z3c7Dw9zf5gCXj2SiiTLOyKXAlkPalxqaei6HkI3VzM6fSzS8lpIAl41aemUd1dnFyc2ojHEoglkNkZGD5uzx6ce92qeZAJGhppRsOoFyPnx6UndhHaZzGZ6ejcnN0vL4/uTi5UIjvEJ1WlVyAAAAAElFTkSuQmCC",
+      "imageId": "e3b8b985-20a8-47b3-5101-81df0e7b2d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "choosing-seasonal-fruits-vegetables",
+      "slug": "the-best-recipes-for-using-up-seasonal-produce",
       "locale": "en",
-      "title": "Choosing Seasonal Fruits + Vegetables",
+      "title": "The Best Recipes for Using up Seasonal Produce",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Fruits and vegetables are a nutritious source of vitamins, minerals, fiber, and other nutrients. Eating fruits and veggies can help you meet your daily needs for vitamins, minerals, and other essential nutrients. They also provide antioxidants (which may reduce your risk of disease) and other phytonutrients (which may have additional health benefits).\nVegetables are an excellent source of many vitamins and minerals\\u2014especially vitamin C, beta-carotene, calcium, potassium, and iron. In addition to being an excellent source of vitamins A and K as well as several B vitamins, fruits are also a great source of fiber.\nIn general the best time to eat seasonal fruits is during their peak season. Doing so helps reduce food waste while being better for the environment than importing them from faraway places at any time of the year.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re eating seasonally, you can take advantage of peak local produce to make the most of it and reduce food waste. However, it can also feel like a challenge at times: when there\\u2019s nothing in your CSA box but potatoes for the third week in a row or another arctic blast has come and gone without leaving behind any winter squash\\u2026 What are you supposed to do?\nAnd truth be told, there are some downsides involved with eating seasonally. For example, it might feel more expensive to buy vegetables only when they\\u2019re in season; that may not always be the case, but often the non-seasonal price is lower because they are grown more efficiently with fewer inputs on an industrial scale.\nHowever, there are plenty of upsides too! Eating seasonally means that you get to enjoy different flavors throughout the year \\u2014 which is something many people don\\u2019t tend to do.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlWP4/RcEfoPRggtfKte/Stz0PmjdG63Vr0Xm3WKASP959uH3qfufph1d1HIyfcdn3c1vWKrX6JTUgKT/3Hz5p3HH72Vn/r36vPnO9+LjP4Qn7nAryOxtTWVwPbTxyuGbP15+BJvy9+3X3+Vnf0o1TyqpSlw0MZtBdEO505Wjl569/vYLYs/fxXd+iMw8HtGcXT67hCHxeJPu7Z1Vhy++/vwd5MBvP26+++l66CPnnFMOu3cweB2aZHz/VsTmI8/vvPy278afjFV/LjxpPv7FZvt74dWvGExvn4vYc2rD9L0/Sjf+6tv76+qzP7//nHz2I3zze791bxk2dGy8svjYr/nH/7z9ArEbEgwZO956rX7F8H3hyT+//8Al4EG0+dYXx2UvAIMs5JCWqrhzAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jan 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNUlEQVQYlR2PzU+CYACH3z+yrVv1T3jIiYp6qS7loUOrU+vgVnNrmYIvb35mxSwD0fyaCvIhGiDoUHHQ6Lc9z/n5AQrieRhFJAaJICRDiMSu0odPRKCEEojCQY7Eoql9mr7hx6+K0lQlNkMn7p6PSjBRoGIAkdhgWPb8uT6ub3ulvVeTiAwDjr1fOmvRmPA6LxiCbMoTg9fW5mzef6Fw8Kt2rK1dn3yySrM763XUXkNiRhrvue5H7RIY2nCkCw3xu6N2B/NBe9rmlFZb/dnsnDp9DYRhyXLWLYVjZIaVOUZiWYkVTcW29WrxFGQRvrKmO8+znc1YH/MLYftfV2zcPmYDIJjay6DYVPzabizYz6oLcbmQ0rXk2cOB/5uAkXw+jMhQuXhSrZy/VS4QjOSI4wIVL1DxP63l79VbSfy8AAAAAElFTkSuQmCC",
+      "imageId": "38f509bb-76b6-43c8-c07d-49d450554500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight",
+      "slug": "common-myths-about-organic-products",
       "locale": "en",
-      "title": "The 10 Worst Foods to Eat If You're Trying to Lose Weight",
+      "title": "Common Myths about Organic Products",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s a well-known fact that the way you eat can have a big impact on how much weight you lose. But what you eat also plays a huge role in how quickly or slowly your weight loss comes off. What you put on your plate is critical because every food has a set amount of calories and specific nutrients \\u2014 not all foods are created equal. Some foods help you lose weight faster and keep it off, while others have the opposite effect, either because they are high in sugar, fat or calories, or because they have very little nutritional value.\nSuch dietetic staples as broccoli and blueberries are great for losing weight. Other foods like chips and soda? Not so much. Keep reading to learn about the top 10 worst foods to eat if you\\u2019re trying to lose weight fast\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Organic products tend to be more expensive than their non-organic counterparts. This has led to the belief that organic food is \\u2018expensive\\u2019 and not very accessible to the general public. However, organic foods are not just about price; they are about quality, too!\nEven though organic foods are a high-end market segment with a premium price, in recent years there has been a growing demand for such products. This is primarily because of the numerous benefits of switching from conventional to organic food.\nHowever, the introduction of any new trend or product often leads to unnecessary confusion and false information. When it comes to buying and using organic products, there are some common myths that might seem like red flags:\nBut don\\u2019t worry \\u2014 we\\u2019re here to set the record straight!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/5-easy-tips-for-making-better-soup.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK0uA6pvbOTy/dHn687o7+n1/t7x/Ku3waCXls/n+ACOHgJ8YjuNpHi3nTK7qlyy2tPV7vxeT0dXJgWTiokAhDc/h5BZ66AT8Mh99dqx+t+v3OPVf3+BTSEFdVpKAHyZnNOdG/XFcbiskuHHlfrerPfqyI1SGW1ROE01IgCEoqHhqTH31JWjn5u7o4T53rLv48xdKgeSSgORTg4AhIKAs6lY9teo7eHM7d/L+uW+spd6fz4CYisEiUQDADpNS1t5drfHuO7u4OLf0pSEd3c2BYxFAo1GA1YmBwA2REQ1Q0NCR0NiRCyLXDpoNRByMARSIwOWURCmj2cAWEY3PTw1QURATEMzd0kkkFoxWCoObDACtZFgzbqKALfF1YhpVmlGLmA8HWZCI3pGGJFVHp9xPdLEndDCl+9ymIQIYO2fAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Sep 10 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANbPydzc28GxnJBlNcW+sefn6c6plM3FvqqvrrO0qwDKxL3T1NCTdFGKPwCXeVbUxrzEWSW2gWjf7PLzyYcAy8vG0tHMzMu/oYlivcC+wL+8vaSKn52cztng9ubHANHCqOvu7vTo4MvGo9nk0N7X1dyjecqhfuPo6+/o3ACebTC+xbnTuZ6UdS6zto7vxqeXUADQgkT27d/QkU4Af1orsK+o6ePSw7B9ytDF0bCayoBI2aBv3t/Z0qNyAM/BtObo7NnX17y7vri6vLK1tsXEx8PDw+3t7Ozn4gC9r4fr5djc3dzKtJrQy8PY19K1pofKxbvx8O7DtIIAWk4EvLSU6sud8JxN3KV538iltGoNyqh+5dbGp4I+AK6kgNXV09S8n8aJXL2VfN3Swq9zNreRdPDw8NuyjLpY0lxXePaRAAAAAElFTkSuQmCC",
+      "imageId": "ddcdaad0-02fc-4185-1ada-664776da9c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "5-easy-tips-for-making-better-soup",
+      "slug": "30-easy-and-healthy-dinner-recipes",
       "locale": "en",
-      "title": "5 Easy Tips for Making Better Soup",
+      "title": "30 Easy and Healthy Dinner Recipes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Making a pot of soup is one of the easiest home-cooked meals to make. You put some ingredients in a pot, bring it to a boil, and whirl it around for a while. There\\u2019s not much more to it than that.\nMaking great soup, however, is another story. The best soups have layers of flavor that explode in your mouth. They aren\\u2019t thin and watery, nor are they so packed with dense ingredients that you can barely get your spoon into the bowl without fishing out half a carrot first.\nIf you\\u2019ve only ever made soup as an afterthought\\u2014something to keep in the pantry when you don\\u2019t feel like eating leftovers\\u2014it might be time to give it another look. Making great soup isn\\u2019t difficult once you know how. Here are 5 easy tips for making better soup:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are there ever enough nights in the week to fit in all your responsibilities? If you\\u2019re like most people, probably not. That leaves finding time to make a healthy dinner a challenge. Fortunately, these quick and easy healthy dinner recipes will help you get through the week without stopping at a fast food drive-thru or breaking the bank on takeout again.\nThese easy and healthy dinner ideas can be ready in as little as 30 minutes and cost no more than $10 per serving. That means they\\u2019re cheap, fast, and nutritious -- an unbeatable combination. Whether you\\u2019re after a one-pot supper, something for leftovers, or simple salads that can be quickly thrown together, we have you covered with these fantastic affordable and wholesome recipes.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-best-foods-to-eat-for-weight-loss.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADaRuamZqC6Y0ra20TOh15qmpKSJWZF/ZQl2rxthcgCirrPMiIa2kbCgm49vlKqgwcYehcalR2RFMUwySjIA9fn8qZp71LLLa6jKgZ+DTpmZVYyVoUFvR0hsLVZIAIyy0iWg1Das20Kt5xaf5QOh7Qqh5DWVsGuTiF98ZwBLgZgdpeIisvHl6/LT2ujI2OklquoOnt+bhm3GiG0AZ5JmK4mgRr3w6vD33uTt8vf6DafuRZ2tbI2mqoV/AJKNS26cVQak6g+y+D7A+F/H9gKo8likqr11iXWNogCVoWJzlzc5l64RoeVvmLgXiMYkmcpBma46g7hMhJYAiKNvm7lvcZeBQHyFfnd3dZScaX9naZeYmp6Gl4ZsAH+taX2zf7TAo8bQuq+Mf5vCvlBxaHO/2NLFlVyYrYKvqKuXd4w0AAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "cooking",
-      "slug": "the-best-foods-to-eat-for-weight-loss",
-      "locale": "en",
-      "title": "The Best Foods to Eat for Weight Loss",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You want to lose weight. You want to eat healthier, but all those diet articles and fad diets seem like a lot of confusing information. Which diet is best? What kind of foods should you eat for weight loss? Do carbohydrates make you fat? Will cutting carbs help you lose weight faster? There seems to be no shortage of information about what not to eat if you want to lose weight fast. But what if we told you that almost everything you think you know about food is wrong?\nCrazy, right? Well, it might come as a surprise to learn that the best foods for weight loss are actually unprocessed natural foods\\u2014not magical chemicals and supplements. Eating more fruits, vegetables, whole grains, lean proteins and healthy fats will help you lose weight faster than any fad diet or crash diet could ever dream of accomplishing. No matter which diet you choose, these are the best foods for weight loss.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/protein-packed-snacks-that-power-through-any-afternoon-slump.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APLv5/Dw7u3w7+3w7/H298jEw5R7bZaHgKt6TXlMOQDnoVX1wn3zz6P1xn3jxZ3f3dmklJCOfHmGRzF6RzIA1ItG86hE/LpO5ZpC+bFF4sux2Nvh3N3jupmEfUw6APSmR7FlJNqNKp9dIZFnT5hsWaF4ZtG9uNHHzc/MwADqmzK8dSTOfCacYztzSCuWcU6XaleOWDiaak/SxLsAxn9lomdWsnIxdEIon2hPjVs8TycXpW5IhlI/qY56AMmKlLlva7JvSOy5k/3Ok/XEh6p1QK1qNbyFTcSunAB+MyZzMxm0ai69g2D5wHvoqlngkDL5tFf6tlvSnGEAlUM1jEQkqGksi1Es4ZU28aA13ZY6r3ErzY1KqZeLAF4eE59YJ+ecUdOMS791M/ewT+KPTrmFSZB/eaOapuN2pyUwPrFZAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Sep 27 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "cooking",
-      "slug": "protein-packed-snacks-that-power-through-any-afternoon-slump",
-      "locale": "en",
-      "title": "Protein Packed Snacks That Power through Any Afternoon Slump",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It is common knowledge that regular exercise helps keep the body fit and healthy. However, it is not always easy to find the motivation to hit the gym after a long day at work.\nWhether you are working a desk job or just staying home all day, it can be challenging to find ways to stay active throughout the day.\nFinding the motivation to exercise isn\\u2019t easy. It can be difficult to find time for a workout routine and even harder to stick with it for an extended period of time.\nThe best thing you can do is arm yourself with snacks that will keep your energy up so you\\u2019re not tempted to take a nap after dinner or give in to cravings for sweets. Protein-packed snacks are an excellent way of keeping your energy levels high and reducing stress eating from boredom or fatigue.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/3-steps-to-spring-clean-your-eating-habits.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM2+0Xpyh4p4kL2akfiwdPaucO+iaN+tJfLLQvaqaADEm8WrjLTkxuXhuKb85dT89u/47ubEopCybz3muZYAyYx4nHB2sIia+PL3/f39/f39/f39/f398eLXvX5PAMCDWpleNaGZk7i4uJKSkrGxsYyMjI2NjY6OjsWffgDPi1DBgUvPz8/GxsaysrLMzMyzs7OpqamoqKjgyrYA0I9QxYlL+9fD+rGI+9jB+7OJ+7iU+6h5+rGI69C3AKmvqLuHUuvbzMrIxr+/v8PAwcG/vba0tOfl492zhgDU29msn4+2eE338u/9/f39/f39/f39/f3s2MbPmGEAytzPpamekEkhtHNH2byq7N3X7NnN06WJ1a+Q3tfJAN/v7m5aVXw8IalZJ7prL71uMsN1NMyLWMajj7eHbkQd0Ty5PT6AAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Aug 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANPE2oR+jIBwjL2Wiv2ycfaxeOyeZNafHO7EQPmsawDAmce0lcLVttziuaf95sz78ej66+DAnoeyaizoupIAw4d0j2Jns46g//r+/////v7+/v79////9uLWuHtQAMmLXKFkNaCVjKWqq5qZmaioqJGQj3h2dZKZncCYdQDNhkzMkmDTzcm4s7GppaK7trOppqSZk46mpqfdxrEAy4lKzJVd+tnE/8aj/+TR/8Od/86v/seg/9O17M6yALCyqriBTezVwtXS0r24tb+2scC1r7mvqeXh4eCxgQDQ4eSnloS1dEb19PH8///4/P74/f74///n18XOlFwA1uvgpKqghjoRu3hL3L2s69nT79zO1J581bCS4uLbAOL09XFgXHQxGatYJbJfI7psM8BuKcV+SMusnrqOd5gE0HhPEBiLAAAAAElFTkSuQmCC",
+      "imageId": "d2495209-a7c4-4e58-1448-d55223813f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
       "slug": "3-steps-to-spring-clean-your-eating-habits",
       "locale": "en",
@@ -125,46 +95,76 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/from-soup-to-nuts-the-best-recipes-for-winter.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIx0UIFuS7bMxaa7uYZ7TYh+WImJbpOYi7bIxp1scQB9Vyl0UyyuuayJhVuodgWbdhqDXQ+EYhKqsJeeoKAAaEgebFM1r7evoru5mJh9m5Fgk4pgoaWKwNvbfGFRAIt/ZpOXjbG/upqxrpOpopasopq0razOzpGYmKKcjgBbTSltUyFlXUmdq6eos6ejqpyhrqWvxMR7YVq0vq8AYksef2lKyuXpnaqhfXZNhndDh4t1iYeDgHZst8K6AGtjTbG+t6K2rX9mIZhgBp1pFI9fDZiPbpKXkbrMzwBqZ1GMl42Eaz2xcAufaxh0Rh2IUBFmRhp8ZkLE3N8AjZOKgoyEq7ixn3hDpmMFgUoEjFIGZ0Yjn6War8K9AJ6kmZmemKK5upCjoZKdkpiYf5mfi6G2trPX3bHFxySlneqLfnnnAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMrW8MvW8svW8MrT6MjP4cXM3MPJ2cHG1MLG0cDEzwDN2ezHy9XHxs7Lz+TO0+nb4PTe5fjd4/TO0+LGy9cAsKqmjoqCtq6jtrKst7PEbHB5U1tkVl1ks7XF0NblAJuempCRlJWdoKyxr6qjs4qHiq2lqaKcn7SxwdLb6wC+WEKTc2lsb2yam6XCwte+wMXb1eLOztTAw9XT3PAA5isAoTolZmVhsrLFwMPYdpuOi7mqirWkrbXH1+D4AM1fSIJXKlh+DZ+0jbSxysHDvf3///n9+MXH2tLd+ADO4/Cgs5hckA+fwIq8wN6IiImjpqqVmZmZmrDY4f8A3/v82PP/x9/m1O/31un8hpSkaXeEb36Kq7fM3ez/AN/8/Nv6+9v3/9jv/Nns++L1/+b3/+j4/+Hz/trt+uGY2c+9jQH4AAAAAElFTkSuQmCC",
+      "imageId": "94ffe01a-e101-4d6a-a320-ae8a7811b800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "from-soup-to-nuts-the-best-recipes-for-winter",
+      "slug": "smart-waysahan-help-reduce-grocery-bills-while-also-eating-healthy",
       "locale": "en",
-      "title": "From Soup to Nuts - The Best Recipes for Winter",
+      "title": "Smart Waysahan Help Reduce Grocery Bills While Also Eating Healthy",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When the temperature drops, and the leaves fall from the trees, we know that one thing is coming: winter. It\\u2019s a bleak time of year that can be difficult to get through. However, there are some upsides to it, too. For instance, you can drink hot chocolate and eat basket-fulls of Christmas cookies without feeling guilty about it. There are also some wonderful recipes for winter that you should definitely add to your recipe book. From rich sauces and hearty stews to sweet treats and hot drinks, there are so many things you can do with ingredients that are perfect for the colder months. Here is our list of the very best recipes for winter.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Supermarket bills are a source of worry for many households. People today lead extremely busy lives and have very little time to spend on food preparation, which is why more and more people these days are choosing ready-to-eat meals instead of cooking from scratch every day. After all, who has the time for that?\nHowever, the convenience of ready-made food comes at a price. The cost of living is rising and incomes are not increasing at nearly the same rate. Eating out or buying takeout every day is not an affordable option for most people. And while eating in doesn\\u2019t have to be a chore either \\u2013 with some smart waysahan planning and a little bit of know-how, home-cooked meals can also be cost-effective.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/5-unexpected-benefits-of-a-plant-based-diet.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AERDRj1APzg9OTxBPYeLfsfFqGZiYWNeXUlKUz5BSQAwPC00RTREW09KY1Z/fWng5djJw6HSrH6ZhHlcS1AARWc+SmJMRU04QzEg7HoooGEysJV329TJrXhvkC0hAFdKKmJMOsJ1LfORMM54ONxlJt+POrV9Qns/KHZRPQCFYSnAkmbBg0PLlD7awEnbmTfyn0eLVClnZzmbQjIA0IYp9dCm4sOecWlR7OuD4d14lEA6kyogkDMikTojANCgWs+8mcKgdXJlbG1kZFtTUZ9MRJY9MIlBHrRdKgDd063h5durj3lQPks/MT1hSGOrdIKcNiiCPiGMNRsAsp+Ir6KUeHOHSDNDRzhLVEJbgnKQkFxZaj0sQhwUAFhXY09XcFpgfmZffGRYeHFpjlZeglFXdUtNXlY+RlfmgkuWcY9TAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Aug 14 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMGNeq+BcOWvmM63scC1r8uyp7WHe69yZuy6pM3CuwCxhnzCikLSjDGthm7Zpl/hmDO9g0uwf2/LhnXYtqQA16KX559VnWAYz5U9/sNS9LU4+sFY9cBkv31l1pmHAM63tdCSbbBlGu+mTPvEVf3XgfvkvOy0aOKgV92chwDBwsTWpJKmYC6NSg/QgyXtsF/erm+3dznUoFi/nJQAMCknckklunMwp2onyIY+7q5K7b5vy5I/U0UtQTs6AEZAPVk/J7+DQ7uAP5pZJ9+cRdmmWm1KJkZBQXdwbgCTk5VyZFyyej+qcCt1QRGkczZuWEB3cHKcmZjDwsQA4eLjoKCjg3x5ZVZMWk9Ig3x5qairzc/Q5ufn8e3qAOnl4ujn57i5upiVlKCcmtDQ0ezs6/Ty8PLv6u7q5VAlr1BLFodPAAAAAElFTkSuQmCC",
+      "imageId": "b627c074-f3c8-4b4a-a666-45c19ff28f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "5-unexpected-benefits-of-a-plant-based-diet",
+      "slug": "how-to-make-the-perfect-roast-chicken",
       "locale": "en",
-      "title": "5 Unexpected Benefits of a Plant Based Diet",
+      "title": "How to Make the Perfect Roast Chicken",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you thinking of trying out a plant based diet? If so, that\\u2019s great! A plant based diet is extremely beneficial for your health and can reduce your risk of developing serious diseases such as diabetes and cardiovascular disease.\nA plant-based diet is one that focuses on plants for your main sources of food. This means lots of fruits, vegetables, nuts, seeds and plants like lettuce, onion and garlic. In contrast, a diet that focuses on animal-based foods is what most people eat now \\u2013 lots of red meat, chicken, eggs and dairy products like milk and cheese.\nA plant based diet has many well-documented benefits including lowering the risk of heart disease and stroke; reducing your risk of developing type 2 diabetes; helping to manage your weight; improving your blood sugar control; reducing your cholesterol levels; preventing certain cancers such as colon cancer; and lowering your risk of dying from any cause.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Roast chicken is one of the most versatile and easy ways to cook meat. Roasted correctly, with a balance of flavourful seasonings, chicken can be juicy, tender and full of delicious flavour.\nRoasting also makes it easier to eat than fried chicken as you don\\u2019t have to worry about excess oil or unhealthy fat dripping into your diet. Roast chicken is a great source of protein\\u2014and if you get your bird from the farmers market or an organic grocery store, it's probably even pasture-raised and much healthier than anything you find in a supermarket.\nWith this recipe for roast chicken, you can enjoy roast chicken at home again and again. Keep reading for some great tips on how to make the perfect roast chicken every time!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/5-easy-tips-for-making-better-pasta-dishes.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACgbFKx5Zu7Bsf39/f7+/vrl2o1xWdCxnPv68/z58wDIoXfIk2r46df9/f3+/v79/f399vT8+fP9/fv9+/cAppWSya+c/vr0/e/U+9yi+siO+tas/vn2/fbp/f37AHxxcO3q7f379/SzZ9GYUNy0ZPjEf/rizP78++/n4QCoo7P7+Pvy3s7jfDiVUyfFay72tmf549L+/v7x4tkAlpSi4tzi7ZxqyVoptkgW2Gsj9rpm/OvX/f379+znALOuu4Jua/nx+e7GptiHTuSfYPnat/39/ffr4fPk3gC3qrNPLR2ceXDt4eX89Pn89/v58vLx18Dr0bzz6OkA693kvKakaTwnYy4Xj1VAsG1I1JZi6sal7tbB+OfUAPDh6fHf59/KzMOeiMaTbtirf+XFqfLm3fXMsem7XZ9J5HW+u4uHAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Feb 25 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGlYS1hIPT8wIywhGzYqJDkgFD0uI3hrX4l5a4d1aQBVRzsrHRQsJBxfSj6reFefUBhsOxshGhBbT0OUhXcANykfKR8VRjMcy5x31aFslm0kp4M/V0YZKiIShHdrADMmHDsqHK+BV5Z5RX5mJXZpIZF3PJRzOyQZDF5USgA/NSo6JxnOhlafeUh2TRyhaDzCjWp8XUEUCgJWTEMAW01AKyQVb1YmlmhDsIVVmGw+y5hfX0kvGA8Id2tgAGRWSkA6Kys6DpBxRbR+TYFgGWdUIxAFACciGoB6cQBnWU5RSD4yLCITDwopDgRFHQcIAQA5NTGKiIOHg3wAfWlaYFNKZVhNX1VMPjw5FRITnZqU7O7nvby3iIV+AKKEboZwYmNTR3dqX42HflRTTc/Qyubm37CuqHdzbqAMZoTxw95FAAAAAElFTkSuQmCC",
+      "imageId": "1637f52b-8185-4551-8409-789646ad4f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "5-easy-tips-for-making-better-pasta-dishes",
+      "slug": "one-pan-dinners-fewer-dishes",
       "locale": "en",
-      "title": "5 Easy Tips for Making Better Pasta Dishes",
+      "title": "One Pan Dinners = Fewer Dishes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to Italian food, pasta is perhaps one of the most well-known dishes from that region. Pasta and its many different variations are loved all over the world, but they\\u2019re not always served as ideally as they could be. Sometimes a simple pasta dish can end up being more disappointing than it should be, mostly because the people making it don\\u2019t know how to season it properly or add the right ingredients.\nThis doesn\\u2019t mean you shouldn\\u2019t make pasta at home again ever again. In fact, with the right tips and tricks, you can make amazing pasta dishes in your own kitchen once again! The key here is to experiment and explore different alternatives for creating that perfect pasta dish you\\u2019ve been craving for so long. Here are some simple tips that will help you achieve exactly that:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re anything like us, you probably dread doing the dishes after a long day. Why? Because doing the dishes is one of the most time-consuming and tedious chores we have in our homes. That\\u2019s why we\\u2019ve discovered ways to reduce that dreaded task and make it as painless as possible.\nNow that we\\u2019re all living together again after going off to college, we\\u2019ve introduced a lot of new habits as roommates. One of our favorites is learning how to make one pan dinners on nights when everyone has somewhere to be after dinner. It means less time in the kitchen and fewer dishes to clean later on!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEJjPCdGJCUdDGQmHR8YGxAUGxkbJV1eYnd3ejI2QAAZJxY5PjlnVFCILCVPMTV1gJC2vM/Iz+DGzt/CyNcAJyIekomEs6eeh3x9vsDP2+P0zM/XyMrNycnLxsbGAI99W2hYP5SMg9Pe8sLH0ri4u8jHxqqvoICRcYGTegCok2ulk23Bw8rO0+Gpqaq5ubbJyca0sqltfF1ke1YAjXxfoZN1ydDgw8nXlJSSubi1xMS/w8O8u7y1uruxAFNDOHJmU73F1cHI2H5/fZmYkbi4ssPDvb++tsTEvwBVQTRkVj+DiZLg6PyMj5V2dm+JiH2npZ6npJqmopcAZFdEeGRKR0I5q7LD0tjpnpybiIaAhoN6l5SNoJ6VAE1AM2ZRP3hmTDc3NJ2hsMrM1rW5waKkpZ2dmqGgnEYGpm9MmbyYAAAAAElFTkSuQmCC",
+      "imageId": "cb5377ab-32f6-40eb-358e-b7362d7d3900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "cooking",
+      "slug": "10-ways-to-use-up-leftover-cooked-rice",
+      "locale": "en",
+      "title": "10 Ways to Use up Leftover Cooked Rice",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you\\u2019ve cooked a batch of rice and there\\u2019s just a little bit left, it can be disappointing. You might find yourself thinking there is no way to use that up and it will end up going bad before you find another use for it. However, this isn\\u2019t the case. There are lots of ways to use up leftover cooked rice that are both delicious and won\\u2019t see it go to waste. In fact, you might find yourself looking forward to cooking up a second batch so you can have some leftovers again! Luckily, these ideas will help you make the most of your leftover rice.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIRKdZRdlbWXtcXDvLCrpqyknMe/uNPLxdHLxN3ZzQBiOlBvUG0xJDAcEg4ZCgQhFA06MjGDf3zIxsHW088AHx0YJRMDTSsPYj8efD4YfUETRxsFAAAAXFZS7OzsACYXC4hXKryNWaZ0P6l5P6VrNKF1QXZJJh8IAIqFgQCJUyq2cjGZXCOjdC+IWyW9fkiwekm0bzhKGgBXRTsAtn9Qx41Zw4ZCzpI5y49DnWs7tHM746Vmt4ddi3ZkAK9qMYVLJIBSHrF5MpxsNnZEHHg+FKBzUrKbhMK3rQCodz6XazWjZiqOZjR7XyuibkGlZTFYOxZUNCSHgX0Ah0k9qmZTwIZWrYVfcVQxnGxApWtDjU0xfExBpZCFANl6XdFCLqI+MHkyJnUvI3coGFoVDlsuIZl9bLekmhS/fA5jIC3fAAAAAElFTkSuQmCC",
+      "imageId": "a83b6a32-b115-46e6-6679-5908b3735a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "cooking",
+      "slug": "one-pot-wonders-easy-recipes-for-busy-weeknights",
+      "locale": "en",
+      "title": "One Pot Wonders - Easy Recipes for Busy Weeknights",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The time between Monday and Friday can feel like an eternity. Especially when you\\u2019re in a busy job and still have to cook for yourself after work. It\\u2019s during those moments that we need easy recipes that require as little cleanup as possible. Enter one pot wonders.\nThese super-simple dishes are the perfect solution to your end-of-the-weekend blues because they are quick, convenient, and require only one vessel for cooking and serving. One pot wonders can be made in less than 45 minutes, which is perfect for people who don\\u2019t have much free time on weekday evenings but still want to eat a wholesome meal at home.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

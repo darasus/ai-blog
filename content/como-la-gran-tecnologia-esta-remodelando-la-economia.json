@@ -1,9 +1,9 @@
 {
   "category": "technology",
-  "imageSrc": "/articles/how-big-tech-is-reshaping-the-economy.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlWP4qcj2U5n1lyrLT3VWENJkgaBfWiA2ww8Fll9KrCAVpmI/LSV+6bD91Gb9pQVFDD+c9X5MbPmRE/6zJP5nuM3PNN+fWf4/cwJ+5Qb+ygth+PL797frF3805P7KC/s1veVnR/HP0tifLXk/I6xAhr//8unzspk/FVl+zWj/XRb3a1rbr7k9vyY2/E7x/uWly/Bh88bP/Y2/VDh+pvj+tJD66ajyy9fwV4zLrwj7XyFWDF9SE18/uP909/bLy1fcjAi8Gxv0M8D8pxb3j0Tvn5GODD+kRF9//vr2x8+3Z8594GB5ISr8piD1YZDfAyH+h1JiDD/YWT+lp311sP3FyfaDnfUHO+s7duZv7Mw/OEAIJA1hgRBYGoE4mAHompc2CJPGkQAAAABJRU5ErkJggg==",
-  "createdAt": "2021-09-03T16:59:31.566Z",
-  "updatedAt": "2022-10-11T17:17:30.064Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APkjBvknCfonB/kiAvkhAPolAPonAPknAPooAvkpAgD5FgD5EwH6GAD5PiH5Siv5Px35PBj5Oxf6OBT6MQwA+EQv96KW+IJx+GRN+Vw/+WBD+WFD+V5B+WVJ+WtQAPP///bf2veKevhsVfh2X/hvVvllS/h9ZflJK/ogAADv///znJP5HQb4kH/5eWT3n4/4o5P3rJ/5clv5TjIA78TD85mL/CoQ+mdQ/jUW/kou+VM6+FU8+k0y+k81APRraerj4Oe5tdenp9lMQ99mW/pGLPsvEfNTPPRQOAD4IiDq8O/o///oubznAgHiHR3ocGfiTEfiLCvjKikA+QUD82Jg9kpI+wsI/QgE/AcE7AgH8wEB+wAA+gAAAPkHBfkBAPkAAPgHBPkHBfkHBfsIBfoJB/gIBfgHBSsXl4jo6zcUAAAAAElFTkSuQmCC",
+  "imageId": "1c0c36e0-4b09-4f98-8542-25fc7d4df200",
+  "createdAt": "2022-11-05T21:56:38.305Z",
+  "updatedAt": "2022-11-05T21:56:38.543Z",
   "slug": "como-la-gran-tecnologia-esta-remodelando-la-economia",
   "locale": "es",
   "categoryLocal": "tecnología",
@@ -20,130 +20,55 @@
   "relatedArticles": [
     {
       "category": "technology",
-      "imageSrc": "/articles/5-best-ai-applications-that-will-change-your-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACmQtDSVtE+ChUFKPgwLBAEBAQEBAS4xMJWXltjf4QBBbG4oKh0BAQEBAQECAgJCRESqr63f4+bI09udsLkAAQEBAQEBBwcHUlVUu8PA4ujrx8/T0uHnssPLuNbiABAQEGZmaMrM0NDW27O7v6Ssrr7O0rPW4azS4I7ZrgDX297l6/DP0dKdnpu9xsi53OWk1uC82+O42dAj4CwA4tjA3+ft1uPos9nns9nn0OLnbOF6DOANxOTV0d7lAJJtHN/VvbfZ6dzi3NS2WNe+adno5cHk07ja6sDZ4wAXDwaJZR3d0bng4dfTtVXYv2rD3uzF3+vK3uPGmRQADjY9FA8Ff1wd2cuuzOHsr9fpsuTYjOanzuXo0suiAAOoyw86PhMNBnZVE8y+odXi5l/hfg/gH67lzMHd6nNtsoWcLx4PAAAAAElFTkSuQmCC",
-      "createdAt": "Sun May 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "las-5-mejores-aplicaciones-de-ia-que-cambiaran-su-negocio",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOT6+6iptGZxhXiClnJ9knF2i3R5jHR8jYd+hctjPADQ8vqrrLChV0+rXFO4fXXKzcmVkZCytbr////+nnMA/P//s7a46FE9/0En7oZ6xvH/tr7IzczP9/3/yL+/AJSYn4SOleh/cv+FbaOatTqJ23+ZscLBwejq66yqoAB5d4SDipbw3trY2tueqZ+sxd7Mzc6prLD6/f/MvZAAr7K+dXJ1+/z74d/jxrmP///4wMHFe36DuLu/enyCAGeZ7sbJzW1rbmtrbnByeICDiIOGhjk+Rjs8RldaZQDMu96usrFpaGylo6XEy83O2eGGrO9Yi+Zheq90fIEA/+asg4aRt9HU4f////iM+/O6aJf4SX3dWnaplZ6rAKSdfWZofnqitbjo///tuvXqycjc/bHF5HFxdbK71VKixpnek4DAAAAAAElFTkSuQmCC",
+      "imageId": "70df101a-2c3c-41c1-b1e3-ed95b26b8a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "las-grandes-empresas-tecnologicas-y-el-futuro-de-internet",
       "locale": "es",
       "categoryLocal": "tecnología",
-      "title": "Las 5 Mejores Aplicaciones De Ia Que Cambiarán Su Negocio",
+      "title": "Las Grandes Empresas Tecnológicas Y El Futuro De Internet",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Si necesita una prueba de que la inteligencia artificial se ha arraigado en nuestra vida diaria, solo mire los rumores en torno a los asistentes virtuales como Alexa, Siri y Cortana. Estos ayudantes de IA ya no son solo para adultos expertos en tecnolog\\xEDa; ahora, los ni\\xF1os de hasta cinco a\\xF1os charlan felizmente con personajes de dibujos animados como Waffle the Blue Whale o Hank the Crab cada vez que necesitan ayuda con algo.\nSin embargo, la IA no se limita \\xFAnicamente a criaturas marinas \\xFAtiles o altavoces parlantes. De hecho, la IA se est\\xE1 utilizando para todo tipo de prop\\xF3sitos, desde autom\\xF3viles aut\\xF3nomos hasta reemplazar a los agentes del centro de llamadas con chatbots inteligentes. Incluso las empresas est\\xE1n viendo el valor de incorporar IA en sus operaciones diarias. Desde la automatizaci\\xF3n de procesos hasta la toma r\\xE1pida de decisiones basadas en datos, las empresas de todos los tama\\xF1os pueden aprovechar los beneficios de la IA para mejorar sus servicios y flujos de trabajo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Internet es cada vez m\\xE1s grande y m\\xE1s complejo. A partir de junio de 2018, hay aproximadamente 3400 millones de usuarios en todo el mundo, y ese n\\xFAmero sigue creciendo d\\xEDa a d\\xEDa. Con tantas personas diferentes usando Internet, no sorprende que las grandes empresas de tecnolog\\xEDa hayan comenzado a prosperar una vez m\\xE1s.\nEn esencia, Internet es un intercambio de informaci\\xF3n entre computadoras. En la pr\\xE1ctica, esto significa que un sitio web como Google puede almacenar toda su informaci\\xF3n f\\xE1cil de usar en l\\xEDnea y cualquier persona que quiera acceder a ella simplemente necesita escribir una URL o visitar un sitio directamente. Sin embargo, a medida que m\\xE1s personas usan Internet y comienzan a interactuar con varios programas y aplicaciones en sitios web, las cosas se vuelven un poco m\\xE1s complicadas.\nComo probablemente sepa si navega por sitios de redes sociales o lee art\\xEDculos de noticias en l\\xEDnea con frecuencia, ahora se utilizan varios \"lenguajes\" diferentes en los sitios web para hacerlos m\\xE1s interactivos. Estos lenguajes de programaci\\xF3n se conocen como HTML5, CSS3, JS/JavaScript y JSON, todos acr\\xF3nimos que significan algo pero que a primera vista pueden no significar mucho para la mayor\\xEDa de los usuarios.\nSin embargo, estos lenguajes conforman lo que se conoce como sistemas de gesti\\xF3n de contenido web (WCMS). Un WCMS es esencialmente un software que permite a los desarrolladores crear sitios web de cualquier tipo sin tener que codificar cada p\\xE1gina desde cero cada vez que quieren lanzar una nueva.\nAqu\\xED hay un breve desglose de c\\xF3mo se ven hoy las grandes empresas de tecnolog\\xEDa y el futuro de Internet:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/why-apple-inc-is-a-good-long-term-investment.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP7+/v7+/v7+/sXFxVJRUmVlZ7m7vOrq6sLExpWZnQD+/v7i4uJqampNTE+dn6Dj4eLNy8yoqqyrra6ho6UAjo6OQEBAfoGCzMXF5pyF6TQ78EI/v4ySpqiqnqCiAGRmZ7m7vOnp6e5lXPBNN/l4dvt5btw5RZ2dn6aoqgDk5OTT1tWqpafFITL1cnn3gofxRE/TIzOel5qnqa0AtLa4k5WZmJqcfjhAxXqDtxQrvREnxklMn5qclZeYAJWXmJ6gpJCSlkU3OV4VGYQYIaE7PZtdXqOlpufn5wCWl5ukpamTlZlucHIsIiNFHiA7KyyamJnp6enw8PAAnqCko6SooaOnjI6SfXx/e3t9xcXF7u7u+Pj4+fn5AKSlqaaorKaorIqMkMLExuPl5PX19fn5+fr6+vr6+kanu1KiWg2mAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "por-que-apple-inc-es-una-buena-inversion-a-largo-plazo",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMUlEQVQYlQXBiU6CYAAA4P9pmm45FSMneCS2KR4IAnHJpZDW5tlY6ZKJeCF5sGVt1tar9n2AFnWCkRlBYJu61mIoTlRaPMs3KvUGzdHgoamKMvNzSnwd0MCDXTv9fYBHvZxplu1pAUiaJij8aQOf/ZvDGvJdKNhEvHm0QlK8RAJvVVLbtPVyP5vcLe2U/RYfD9KsUBXlMs2RwOhQGM5qeuG4zQR+9rxPWlaxSPAEXSdZAriz5NRCdk5s8ooN+7n1HOka16oU9hapcR8F+2XUX6U/1llrmBg8hXcuKssIScLOe27Ui4O/z9hxi1wCyF+EnUnIcyK/p9DlGAs86Li6At1n1uhQ5mPVMEu8mBWkvCAWOO621cZUvQYo3qzRCk42y5SK4SyarxKMksc5gtGTmeI/s2tvdrNqb3sAAAAASUVORK5CYII=",
+      "imageId": "ad4c0933-171b-4eb9-619b-9c2390348400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-5g-cambiara-la-forma-en-que-vivimos-y-trabajamos",
       "locale": "es",
       "categoryLocal": "tecnología",
-      "title": "Por Qué Apple Inc Es Una Buena Inversión a Largo Plazo",
+      "title": "Cómo 5g Cambiará La Forma En Que Vivimos Y Trabajamos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La empresa ha tenido sus altibajos en los \\xFAltimos a\\xF1os. Sin embargo, Apple Inc sigue siendo una de las empresas m\\xE1s exitosas del mundo. En los \\xFAltimos a\\xF1os, particularmente despu\\xE9s de 2013, Apple ha perdido parte de su brillo. Los inversores comenzaron a preocuparse por el futuro de Apple a medida que las ventas de iPhone comenzaron a caer a\\xF1o tras a\\xF1o. El precio de las acciones cay\\xF3 desde un m\\xE1ximo de $135 por acci\\xF3n en septiembre de 2014 a poco m\\xE1s de $90 por acci\\xF3n en junio de 2016.\nPero as\\xED es como funciona la inversi\\xF3n: cuando una inversi\\xF3n cae demasiado y se vuelve barata en relaci\\xF3n con su valor intr\\xEDnseco, \\xA1es hora de comprar m\\xE1s acciones! Considere esta su gu\\xEDa definitiva sobre por qu\\xE9 Apple Inc es una buena inversi\\xF3n a largo plazo. Siga leyendo para descubrir por qu\\xE9 deber\\xEDa considerar comprar m\\xE1s acciones a pesar de que el precio de las acciones ha ca\\xEDdo tanto en tan poco tiempo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"5G es la pr\\xF3xima iteraci\\xF3n de la tecnolog\\xEDa de redes m\\xF3viles. Permitir\\xE1 una conectividad m\\xE1s r\\xE1pida y confiable, de la misma manera que lo hicieron antes 3G y 4G. 5G es particularmente emocionante debido a lo r\\xE1pido que ser\\xE1 cuando est\\xE9 completamente implementado. Mientras que 4G introdujo velocidades mucho m\\xE1s r\\xE1pidas, 5G vuelve a ser 10 veces m\\xE1s r\\xE1pido. Esto lo hace perfecto para conectar dispositivos como autos sin conductor o asistentes virtuales como Google Home o Alexa con baja latencia. El despliegue de 5G ya est\\xE1 en marcha en mercados selectos de todo el mundo, pero a\\xFAn es pronto para esta tecnolog\\xEDa. Es posible que a\\xFAn no vea los beneficios de 5G, pero hay algunas razones excelentes por las que deber\\xEDa entusiasmarse con este futuro est\\xE1ndar.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/the-rise-of-the-machines-how-ai-is-changing-the-workforce.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL3Cyb/EzL/EzL/EzL/EzL/Dyb3BxLu/wrq7v725ugDLztbN0NjN0NjO0trN0dbM0NPNztLYyMfmuLHloJUAyczUoamyyczU09be0tbZ1NLV6LKt4JSOyHdwoFZNAGNpbjlESWdvdtTX39rIx9OKia5dWH88NXY6MD8aEgA5Oj4XGRh3e4DGytKlgX56NzJsNzCumJSfd3BxR0EAFhgZcnZ80dTcw8nSyczSubS2z7Sv78HD78O99Ma9AENLUZGXns7R3J2krcnM0s7S1rytqaZwbLuDetKYkQCMkJWmsLiWnajAxMzMz9fM0NXLzdGSeHF+VEmHUkgAyczUvcLJt7zEyM7Vys3VyczUxsrStrO5YkhBUjQpAMXK1MbL1cfN1MbL08bL08XK0sXI0MPGzry/x5KOj/NSxHeO6UwNAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Mar 04 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-auge-de-las-maquinas-como-la-ia-esta-cambiando-la-fuerza-laboral",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKaoruPfz/XIIt2wBdCkDqZ8EZBpAtnEhNzh7dXA0QCoq7fk4di8pk+TehSjhBa3hwTMkQDsylrd7fDc6eEA+Oik9+7B/dBE/8AA/8gP/s4s/9dS+LWP7p/f7IfRAP//9/n5+PXnyv/0z/z28Pb2/+rx/eOO1uyMy+iw1ACUl6efo7Xk6/WgqL2Fi6GDhpZ6en+1wMrs/Pjf7eYArLTNxszm8NOkx8G4297q6ev48eja+NeQ8caF9KdIAL7HqXenzcStgPTw6env9/b6//nrxv+yAOiIANpxAQDtqgThowDpzYPf6P/Z3ud8XpJ/YZK0dz/mhwmmYw8AtKeL4cFx7uG/3+j+3eDoqZq2iHKppW1C/6QA7IsCAM6xZ+K1Tfy/MPfu2vX5//Dz9eXp8vfKZv7FU/7alQsV1lMU583jAAAAAElFTkSuQmCC",
+      "imageId": "1008425b-5c0d-4357-36ff-e4928ddabe00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "el-futuro-del-trabajo-el-teletrabajo-y-la-gig-economy",
       "locale": "es",
       "categoryLocal": "tecnología",
-      "title": "El Auge De Las Máquinas: Cómo La Ia Está Cambiando La Fuerza Laboral",
+      "title": "El Futuro Del Trabajo: El Teletrabajo Y La Gig Economy",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"La fuerza laboral de hoy est\\xE1 experimentando una transformaci\\xF3n como ninguna en el siglo pasado. Esta transformaci\\xF3n es el resultado de desarrollos recientes en inteligencia artificial (IA). La IA ya est\\xE1 afectando la forma en que operan las empresas, c\\xF3mo se dise\\xF1an y fabrican los productos y c\\xF3mo los clientes interact\\xFAan con las organizaciones. La IA tiene el potencial de transformar todas las industrias y puestos de trabajo que utilizan computadoras. El mayor uso de la IA en la vida cotidiana conducir\\xE1 a un cambio en los trabajos disponibles, lo que pagan y d\\xF3nde se pueden encontrar. El surgimiento de las m\\xE1quinas afectar\\xE1 a diferentes personas de diferentes maneras, algunas positivamente y otras negativamente. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la IA est\\xE1 cambiando la fuerza laboral y qu\\xE9 puede hacer para mantenerse a la vanguardia.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El teletrabajo y la econom\\xEDa colaborativa son dos de las tendencias m\\xE1s comentadas en el futuro del trabajo. Ambas son formas nuevas para que las personas encuentren un trabajo que se adapte mejor a su estilo de vida e intereses.\nTrabajar desde casa, tambi\\xE9n conocido como teletrabajo, ha existido durante d\\xE9cadas, pero solo fue adoptado por un peque\\xF1o grupo de personas porque no era ampliamente aceptado o entendido. En la econom\\xEDa colaborativa, los trabajadores encuentran trabajos a corto plazo en diferentes empresas en lugar de trabajar como empleados en una empresa durante un per\\xEDodo prolongado.\nAmbas tendencias afectan c\\xF3mo y d\\xF3nde trabajamos, qui\\xE9n busca trabajo y qu\\xE9 habilidades se necesitan para tener \\xE9xito en este entorno. \\xBFEst\\xE1s listo para adaptar tu carrera en respuesta a estas tendencias? FINAL`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/10-ways-artificial-intelligence-is-changing-marketing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlR3JbU+CQAAA4Pv79dm0dGmWLl01VzMhUtEUb1duvgAqiJYdKK9xHg10kWvr+fqA8B3ulkJsoBjDg4EO+luktaaw/qMjWRZBpnROFf7w37/rfmyNY2caW1KM4QpVQeY6TRU+1CXb3ARka9puX5pjbMQYxqsOOCukyKShdh+S9+0sIyQq/G3zNc/0NkPWlTmQvkoQ+WnMFR3Ha/SlZyTlasKeUnvIUDwCp/kTX2TVeuGb+LXuIFcT4EihnhfMO6EugfJNzhfZJX9BHTdVaR2X65dMN/T9vSESDYE1YjyJxS8X5goHX2T5oYf+NiJkb2meAoHRvgukRxcV9Zm62wYRIXSztpUBVXq23ASGNpg5kYkVlcsumrkFl/xspCxUiCZVWDr6Aw3r9tP0NGe9AAAAAElFTkSuQmCC",
-      "createdAt": "Wed May 25 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "10-formas-en-que-la-inteligencia-artificial-esta-cambiando-el-marketing",
-      "locale": "es",
-      "categoryLocal": "tecnología",
-      "title": "10 Formas En Que La Inteligencia Artificial Está Cambiando El Marketing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El marketing es el arte de hacer correr la voz acerca de su marca. Los departamentos de marketing presentan nuevas ideas para promocionar sus productos todo el tiempo, pero en estos d\\xEDas la inteligencia artificial (IA) est\\xE1 cambiando el marketing de formas interesantes.\nCon la IA, los especialistas en marketing tienen nuevas formas de analizar los datos de los clientes y determinar qu\\xE9 estrategias de marketing son m\\xE1s efectivas. Es a\\xFAn m\\xE1s f\\xE1cil para los especialistas en marketing descubrir qu\\xE9 esfuerzos de marketing impulsan las ventas con chatbots y asistentes virtuales con tecnolog\\xEDa de IA.\nEstas nuevas herramientas de marketing hacen que sea m\\xE1s f\\xE1cil que nunca para los especialistas en marketing aumentar el ROI en sus campa\\xF1as de marketing, impulsar la lealtad de los clientes y optimizar todos los aspectos de la presencia de su marca en l\\xEDnea y fuera de ella. As\\xED es como la inteligencia artificial est\\xE1 cambiando el marketing actual.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/apple-airpods-the-best-apple-product-ever-made.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlU3NTUvDMADG8Xw6cewg9uBNGKjbmjZN0zbZ1rctSd/STmFzF5GpeBC9iAxhDFG8uXnbwe8jWhDhd3v+8ID2UVtvQ1M3LcPCJrYRIZb3B3RPur+bbSPXxdQj7D8Au4Zl2LCDOse6jQh1eghiBBF1KHP7AEGMTaLtHzR2Gq3DFoK4udvU9jQXU5+FAJs/ZyLi99c3EzVOhunj3cP8fMZcFvlDQCyPOr3l02K7/ri9nM/Optv15utzwyPJAwE8wvo0uLqYvy1X09NJmVbvL6+rxXPOCxknoOf54SDmgUiGac6LQqhCKCXLQqhslAGfhXHAZZzkvFCyLNOqVhcgHMQilNkoy6Qq06rKxrW6+AZAeJSR4jmszgAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Jan 31 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "apple-airpods-el-mejor-producto-de-apple-jamas-fabricado",
-      "locale": "es",
-      "categoryLocal": "tecnología",
-      "title": "Apple Airpods: El Mejor Producto De Apple Jamás Fabricado",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSabes por qu\\xE9 la mayor\\xEDa de la gente compra iPhones? Porque no pueden soportar la vista de los tel\\xE9fonos Android. \\xBFSabes por qu\\xE9 la mayor\\xEDa de la gente compra Mac? Porque no pueden soportar la vista de las PC con Windows. \\xBFSabes por qu\\xE9 la mayor\\xEDa de la gente compra iPads? Porque no pueden soportar la vista de cualquier otra tableta.\n\\xBFY sabes por qu\\xE9 la mayor\\xEDa de la gente seguir\\xE1 comprando productos Apple? Porque no pueden soportar ver nada m\\xE1s.\nSi cree que esta es una declaraci\\xF3n general sobre los consumidores de Apple y no algo espec\\xEDfico de sus productos, perm\\xEDtanos reformularla con m\\xE1s detalles: nadie en este planeta compra m\\xE1s productos de Apple que la poblaci\\xF3n combinada de China e India. As\\xED es: los mismos pa\\xEDses que se describen como obsesionados con todo lo relacionado con Apple tambi\\xE9n albergan a m\\xE1s personas pobres que en cualquier otro lugar del mundo.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/googles-monopoly-how-the-tech-giant-controls-our-lives.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA5UlEQVQYlWN48uTJXxh48eLFnTt34Nw3b94w9Pf3NzY2Ll+2vLu7e8OGDQsWLFjb1bJzYldxcXFdXR3D+fPn9+/fv2bNmm/fvkE0ff/+fd++fUfBgOHp5z+//vyBG4gMnn9/zeC57WP5yW+fP3/++PHjJySw/vFelXlaDMl735We+A6RRgbb7+y8YszBcPDc1WvXrl2+fPncuXPv3r37+vXr5cuXz58/f+3atQv79zD8ulv69+MpTIv//Hp793gVQ8WUskcn/TEN/3G/e/ckdoZLZ11+vVgMl/706ROE8fPT9RdHnAE7PfxVj49P1QAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Oct 16 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-monopolio-de-google-como-el-gigante-tecnologico-controla-nuestras-vidas",
-      "locale": "es",
-      "categoryLocal": "tecnología",
-      "title": "El Monopolio De Google: Cómo El Gigante Tecnológico Controla Nuestras Vidas",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Google se parece cada vez m\\xE1s a una versi\\xF3n digital de The Truman Show. En la pel\\xEDcula, Truman (interpretado por Jim Carrey) es el sujeto involuntario de un programa de c\\xE1mara oculta que tiene lugar en la ciudad ficticia de Seahaven, donde vive con su madre perfecta en todos los sentidos y su esposo, quien resulta ser ser su mejor amigo. Todo el prop\\xF3sito del programa es capturar cada momento de su vida para el entretenimiento de una audiencia que mira desde fuera de la ciudad.\nEn la vida real, Google se ha convertido en algo similar: es una empresa cuyo prop\\xF3sito es capturar cada momento de nuestras vidas para el entretenimiento de una audiencia que mira desde fuera de nuestro mundo.\nEs posible que no sepa esto si vive, trabaja y juega exclusivamente en l\\xEDnea, como muchas personas ahora lo hacen, pero Google sabe m\\xE1s sobre usted que cualquier otra compa\\xF1\\xEDa en el mundo.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/the-dark-side-of-big-tech-how-these-companies-are-harming-our-society.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABI0lEQVQYlS2JwUvCUBzHH+/53tOfYxMiKnMJrTc2QYzuEkjl5mFJQpKuRAfiwHVL2LxEB2OHgeBB8Oj/4cH/rHJ9+B6+fD6I/MMIYdmckoOj9KdDRcIY4TSTYxRUtVIqmYxKjALQ/CVVEKeM02yGSpwXVNU4K2ognWfzpzKcXBxfoXq93u2+NBp3z91+8P7x6HSeOr2He8t13/xJgGzbvq7d3DZaQq/0e6+aprmuaxhGu922rBZKkiSO4/l8TgjZ7/eO42y328ViYZrmbrdDq9XK9/3NZjMYDJbJMoqi9XodBMFwOPz+/ELlclk/IISoVmsVwxRCpMbQdYQxBgDP88IwHI1GzWZzOp2Ox+PZbIYx/ssYY0mSFEUBAM554YAsy7/5B7o7QJH05kw8AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Sep 24 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-lado-oscuro-de-la-gran-tecnologia-como-estas-empresas-estan-danando-a-nuestra-sociedad",
-      "locale": "es",
-      "categoryLocal": "tecnología",
-      "title": "El Lado Oscuro De La Gran Tecnología: Cómo Estas Empresas Están Dañando a Nuestra Sociedad",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`No se puede negar el impacto que la tecnolog\\xEDa tiene en nuestras vidas. Desde hacer que la comunicaci\\xF3n sea m\\xE1s f\\xE1cil y accesible hasta mejorar la productividad en el lugar de trabajo, las ventajas de la tecnolog\\xEDa parecen infinitas.\nSin embargo, con este mayor uso de la tecnolog\\xEDa tambi\\xE9n surgen algunas desventajas. En particular, ha habido una creciente preocupaci\\xF3n sobre c\\xF3mo las grandes empresas tecnol\\xF3gicas est\\xE1n utilizando sus grandes cantidades de datos para manipular a los usuarios en su propio beneficio. Estas empresas recopilan informaci\\xF3n de los usuarios y la utilizan para promover sus propios intereses comerciales, a menudo a expensas de la privacidad y el bienestar de los usuarios.\nEstos ejemplos de c\\xF3mo la gran tecnolog\\xEDa est\\xE1 da\\xF1ando a la sociedad lo ayudar\\xE1n a ver a estas empresas por lo que realmente son: corporaciones codiciosas con poca consideraci\\xF3n por el bienestar del consumidor m\\xE1s all\\xE1 de c\\xF3mo impacta en sus resultados.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/the-importance-of-artificial-intelligence-in-marketing-should-you-be-doing-it.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP3by/rYydSxm9Cvm/bYyf3f0P3f0PLRvuudvv2V1AD928v83cz218jszL7bvq/PtqfRv6zNf5yaf337is4A+N3NpaOUsrSmr7Wqt722zc7J2NTThENpioNs9JrKAPTXxfnu9vft9ezp7Nrk39Hh1+fq6cptpUIqKeHCvgD52cnn3+St0bqpz7eSx6WgzrHV4tvnk8hzJEyekHkAxo567OHittfDmsqqoc+yvtrH7Ozs76/Z1VGWYjE0AO6wmO/W0+ja3Ojc3ubb3OPV2NjIy9SVuvRxu9ZRkAD8y7ffvrnb09jb09rg29/f19zSx9Lascz1cL37eMIA/c675MG639rc2tLZ3NXZzsHKvaKrtnOT8We2+nfDAPzNuuGnj651VKtoQ7BlOqo0QLEoVNFDg/Nst/p1wgLR3ZnWla14AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Aug 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "la-importancia-de-la-inteligencia-artificial-en-el-marketing-deberia-hacerlo",
-      "locale": "es",
-      "categoryLocal": "tecnología",
-      "title": "La Importancia De La Inteligencia Artificial En El Marketing: ¿debería Hacerlo?",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo del marketing est\\xE1 cambiando tan r\\xE1pido como siempre. Pr\\xE1cticamente todos los d\\xEDas surgen nuevas tecnolog\\xEDas y canales, y mantenerse al d\\xEDa con todos ellos no es poca cosa para los especialistas en marketing. La naturaleza cada vez m\\xE1s competitiva del panorama del marketing tambi\\xE9n significa que los especialistas en marketing deben encontrar nuevas formas de destacar.\nCon tantas herramientas de marketing diferentes disponibles, es dif\\xEDcil saber cu\\xE1les valen su tiempo y dinero.\nEntendemos lo dif\\xEDcil que es reducir todas estas opciones cuando intenta decidir cu\\xE1l es la mejor manera de invertir en su negocio. Como tal, hemos escrito esta publicaci\\xF3n de blog pensando en usted; queremos ayudarlo a tomar las decisiones correctas sobre estas diferentes estrategias de marketing.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "technology",
-      "imageSrc": "/articles/how-ai-is-changing-the-way-we-live-and-work.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APbAzvaVqvDK0veIotXRzMvMxfeRqufn48LEvOvHzwC+v7jyp7PsgpbykqfAi4uic2zygJvkrLbgpK3mip4Ax7Wr3YyT+oqn9Yag44OW4JOf78jV95Ww2XaO432UAMFASeliefiNqOzp7PHj6O7p7fHl6faswcZlffaIpgDJrKjnubD7i6jr2N7kzc7awMLj0dL0v875jKrDZH4Ax8rC1ryw94Ge7cTQ8+Dl7+7z8+Lm8NDb+5Ku0GqEAKlSVKM7QfZ5mPCuwOrV2uG+xeaisO6Xq/qUsPiQrADpvsbn4ODztcP3haLsiZvsoqvop635iaXytLn0y8sA29fRpqWc3sDD56Cm272x272x1raq83CP27ivqKeeAOK7v8rOxu7x7uyPnsCkmbadkcOomud3i8Nucq13c+8V3UlUUXYxAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Mar 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APnE0fWWrPDBzv6fttXIx83Tzf6nveLc2sXbz+zN1ADF1Mr0qbbth5v0iqDBgIOjbGjzfJfmrrjYoKjii50Atqib2oqQ/IKh94ih13mK1IKO9MbU8I+o4WyL6HyYAMhFTuRfc/uWsu7g5vj09fX3+O3t7/q1yshkfOuDoQDZurnrtbP4hZ7v2eHm1NXZurzj19j6xdXvfZrFZ4AAtMW7yKuf+HiT78nX7ubn6+vu8e7v79Da/5Sw0G6GAKxTV6dLT/t3lu+tv+nS1+m6x+aksvCYrf2TsvuPrADqt8Dp4eD0ssH3gZ7pkaHnmaHuoKr5haLvsLXuxccA2d/Zo7Gk4LrB7qCo3MS2076v0Laq73CI1K6mvdDFAN22ucLRx+zi4u6XpL6lmLabj8Sun+x1isNpb6d6dEbk3aAicsF+AAAAAElFTkSuQmCC",
+      "imageId": "836d53f2-14da-4e63-87bc-aa9e9c23ca00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "como-la-ia-esta-cambiando-la-forma-en-que-vivimos-y-trabajamos",
       "locale": "es",
       "categoryLocal": "tecnología",
@@ -155,16 +80,91 @@
     },
     {
       "category": "technology",
-      "imageSrc": "/articles/apple-inc-what-you-need-to-know.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABB0lEQVQYlU3MwUqEQByAcZ+ifaKeIKhLpyB6g25BXbqFEtmlsPEslFqQEJiKoOEOkYMuoki7RkhOMavhYtsfAhG27/qDjyuKAmPsOA7us/sIIeM+LkkSURR5npdlWZIkQRAQQqqqIoR0XecYY5ZleZ73aFsYY9M0wzB0Xdf3fcYYB32fi/m+LrylEwCgP7fkQ3xfPADAwL/j59loZK+NXiWUdQf3k92svvrHN9fLjfXvva356cny5bi63M7Ojgau67qcTmeHm9XFDtRfNNaju3P6ZA9cVVUQBKZpRlEEAE3T+L7fdd1qnue5oiie5wGAYRiapiVJsuKyLOM4TtOUUkoIifratv0DmrHzI0ObchoAAAAASUVORK5CYII=",
-      "createdAt": "Sun Mar 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "apple-inc-lo-que-necesitas-saber",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlQXBS0sCQQAA4FF3dUWRtCgK0pAsDMsoCvLWP4mgB5T3jt2DLh2CDd2dnZ1tJjXxsc3ssA9FLUS7FP2fvg8ADiM2VBgM9aHMdIUbYVuPMSQJHOIIHH21l4WVdlBGWGkPpwRKcpT1ScYnpVEL3P26FzN+O2PVGa/O+fWUnU3Z/Y93M+ePfwMQdpHcqSWoWmbWCjNyAcl14FK7FidqjKgg6hjRTl3Cz1fj7uU3O590H6b81HkF+pNCVJAK8OG4seVb8vtLsqcl+9pCq1b5bBWEuSkw2BjS3YAeTxqrLs66Zj6wtgfkYNwsjZrrAwL2A1oSuBKQvSHNejjRrp8EtOzTneCt4FMgMS1ia3EG4wKt+Sbo14u+pTAIhBkRJpCYLtt69AOGOMz7uOhZi8yQe7rsIMlB/8Irl5R2C3WiAAAAAElFTkSuQmCC",
+      "imageId": "fd43a041-87cb-4c4c-6a10-b56ea264d300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "datos-de-usuario-de-facebook-como-el-gigante-de-las-redes-sociales-recopila-y-vende-nuestra-informacion",
       "locale": "es",
       "categoryLocal": "tecnología",
-      "title": "Apple Inc: ¡lo Que Necesitas Saber!",
+      "title": "Datos De Usuario De Facebook: Cómo El Gigante De Las Redes Sociales Recopila Y Vende Nuestra Información",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Apple es una de las marcas m\\xE1s populares y conocidas del mundo. Su logotipo distintivo es reconocido en todas partes, desde aeropuertos hasta hoteles, desde galer\\xEDas de arte hasta acuarios. Adem\\xE1s, los productos de Apple son algunos de los m\\xE1s deseables del mercado. Mucha gente aspira a tener una Mac, iPhone o iPad porque son elegantes y con estilo, adem\\xE1s de estar repletos de funciones \\xFAtiles.\nLa historia de Apple se remonta a 1981 cuando Steve Jobs fund\\xF3 la compa\\xF1\\xEDa a los 21 a\\xF1os. En ese per\\xEDodo hubo un famoso accidente de videojuegos en el que Atari y otras compa\\xF1\\xEDas de juegos tuvieron p\\xE9rdidas debido a la sobreproducci\\xF3n y, en respuesta, muchos jugadores dejaron de comprar videojuegos por casi cuatro a\\xF1os. Esto llev\\xF3 a Steve Wozniak (amigo de Steve Jobs) a proponer que iniciaran su propia compa\\xF1\\xEDa de computadoras, que se conoci\\xF3 como Apple Computer Inc.\nLo que sigue es una mirada detallada a la historia de Apple Inc., incluidos detalles sobre ejecutivos clave y cualquier cambio organizacional relevante.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las redes sociales son un arma de doble filo. Si bien estas plataformas pueden ser herramientas maravillosas para mantenerse en contacto con amigos y familiares, tambi\\xE9n conllevan riesgos, especialmente cuando se trata de sus datos personales. Los usuarios de Facebook ahora pueden leer una y otra vez c\\xF3mo la empresa y sus socios hicieron un mal uso de sus datos. Hay esc\\xE1ndalos constantes en torno a este tema. Los usuarios de las redes sociales deben ser m\\xE1s conscientes de lo que comparten y c\\xF3mo lo comparten.\nDesafortunadamente, la mayor\\xEDa de nosotros no leemos los acuerdos de usuario o las pol\\xEDticas de privacidad hasta que algo sale mal, y eso es una l\\xE1stima, porque esos documentos a menudo contienen informaci\\xF3n importante sobre c\\xF3mo ese proveedor de servicios utilizar\\xE1 su informaci\\xF3n personal. En muchos casos, ver\\xE1 un bot\\xF3n \"Aceptar\" junto al acuerdo de usuario, lo que significa que debe aceptar continuar usando la aplicaci\\xF3n o el sitio si desea continuar.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEZHS0VGSldYW2xscHBwc21ucWVmaU9QVDM1Oi8vNQBCQkZCQ0dhYWU8Oz81NDk5ODwuLjFLSk43NzwrKzEANzc8OTo+YWJkKSkuISAlGRgdIyMmSUhMKSovIyMqAExMUUpMUIGBhVtaXmJhZWNiZV1cX2trbkRFSjo6QQCenqCsrK2rrK2hoKKampyMjI2ampuoqKm1tbeYl5oAxcXF0dHSsLCyj4+Rl5eYYWFjoqGjr6+wurq7n5+hAISDh3BwcXJzdHR1dnNzdGVlZl5eX3d3eWRkZlxbXgAKCRMAAAQPDxEDAwMAAAAAAAEAAAAKCQsCAgMCAgYAFBMcEA8YKysvCAgKAwMFBQUHAQEDGhkdEA8XCwoUAA8OFg8NFignLAYGBwEBAwMDBQAAAhgYGxAPGQsJFFmmWV9XAVwiAAAAAElFTkSuQmCC",
+      "imageId": "9abdfb07-2601-4947-79a5-3b74978d1c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "la-adiccion-al-iphone-de-apple-como-los-productos-del-gigante-tecnologico-nos-mantienen-enganchados",
+      "locale": "es",
+      "categoryLocal": "tecnología",
+      "title": "La Adicción Al iPhone De Apple: Cómo Los Productos Del Gigante Tecnológico Nos Mantienen Enganchados",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En su llamada de ganancias para el tercer trimestre de 2018, Apple mencion\\xF3 la palabra \"iPhone\" m\\xE1s de 50 veces. Fue, con mucho, el tema m\\xE1s discutido en la llamada de ganancias, incluso m\\xE1s que China y los aranceles.\nCasi todo lo que Apple discuti\\xF3 en esa llamada gir\\xF3 en torno al iPhone: cuando se les pregunt\\xF3 acerca de las preocupaciones sobre la debilidad en la Gran China, los ejecutivos de Apple respondieron hablando sobre c\\xF3mo eran optimistas sobre las ventas de iPhone all\\xED a largo plazo. Cuando se les pregunt\\xF3 acerca de las tarifas y su impacto en los precios, los ejecutivos de Apple nuevamente hablaron sobre cu\\xE1nto amaban el iPhone y qu\\xE9 gran producto era para los clientes.\nEso puede sonar extra\\xF1o para una empresa que fabrica una gama de otros productos, pero cuando observa cu\\xE1nto \\xE9nfasis ha puesto Apple en su tel\\xE9fono inteligente insignia en los \\xFAltimos a\\xF1os, comienza a tener sentido. Echemos un vistazo m\\xE1s de cerca a exactamente cu\\xE1nto poder ha otorgado Apple a su franquicia de iPhone...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlT3QT0vCYBzA8d+e59k/LNkQxXway9XjoRhjGiEG2qVSNHJR8WSW21wdhIV49lCgu7RjSC/CV+Crizr0vX2uX0AYY0wIkTAWVVVXVf2fAiZQFJWMpMrKFkIiY8eVygkhiqxks3J2X8lBhhAsCIIgAqBdWtkpWgDbRMqpokYzFGzH4Q+Dvnf7PBoPHoP+9U30Mjm/6LTbnfHrBLy+1+tdXXa9wyPn/u6+0TgNAr9er4dB2O32YPVXHMcIoc1m4wf+Z5omSdJsNtfrNaRpOpvNFotFEAarr+/p23SZLOfzuT8aLd8/gDFmWZZt267rlvcOXKfKGKOU1qq1smECAOi6zjmPoohz3jprxXEchuHwaajpGiD0Oyafz5dKpUKhoGkapdQ0TcMwZEn6AQ+tQYLHcH3JAAAAAElFTkSuQmCC",
+      "imageId": "c1ae613d-5526-4847-02ba-4c2976110d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "el-lado-oscuro-de-la-gran-tecnologia-como-estas-empresas-estan-danando-a-nuestra-sociedad",
+      "locale": "es",
+      "categoryLocal": "tecnología",
+      "title": "El Lado Oscuro De La Gran Tecnología: Cómo Estas Empresas Están Dañando a Nuestra Sociedad",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`No se puede negar el impacto que la tecnolog\\xEDa tiene en nuestras vidas. Desde hacer que la comunicaci\\xF3n sea m\\xE1s f\\xE1cil y accesible hasta mejorar la productividad en el lugar de trabajo, las ventajas de la tecnolog\\xEDa parecen infinitas.\nSin embargo, con este mayor uso de la tecnolog\\xEDa tambi\\xE9n surgen algunas desventajas. En particular, ha habido una creciente preocupaci\\xF3n sobre c\\xF3mo las grandes empresas tecnol\\xF3gicas est\\xE1n utilizando sus grandes cantidades de datos para manipular a los usuarios en su propio beneficio. Estas empresas recopilan informaci\\xF3n de los usuarios y la utilizan para promover sus propios intereses comerciales, a menudo a expensas de la privacidad y el bienestar de los usuarios.\nEstos ejemplos de c\\xF3mo la gran tecnolog\\xEDa est\\xE1 da\\xF1ando a la sociedad lo ayudar\\xE1n a ver a estas empresas por lo que realmente son: corporaciones codiciosas con poca consideraci\\xF3n por el bienestar del consumidor m\\xE1s all\\xE1 de c\\xF3mo impacta en sus resultados.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlWO4+eDJg2fPn718ef/x4xevXjx4/Pj2w8dPX75+9PzVm/fvGS7duLJix+7NR85tPH5t3eHzG49fm7tp764Tx3cdP/bp0yuG9EU/Lzz69fPTs197S3+v9Pp+pPPPr897zn0Lb/8Z2fGDgSHqn3LFr3dzHP7XMfysZ/3fxHB5VjJP8H8G29+Mtn8YGNL/G+ee+N3E8Geh+c/NSf8nCrys4xfye8ER9N+54hsDU+5/54K9/zsZfk0Q+7XI6m8fz48OdpnAh8LR/92rvzAwZP13zAdJ/+5g+d3J9q+T8Vs7l3TgQ0a//2x+vxgYUv47QXR3sP7uYP7XwfS9nVMm8CGDx38mr18MDKn/nQr2wKRZ/3YwfWvnlAl6yOD5n9kbIg0z/FcHyz9UaQARCLAqeHFEqAAAAABJRU5ErkJggg==",
+      "imageId": "c366c9fc-26aa-4ff2-5e7f-cc30b3808500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "el-auge-de-las-cuatro-grandes-empresas-tecnologicas-google-amazon-facebook-y-apple",
+      "locale": "es",
+      "categoryLocal": "tecnología",
+      "title": "El Auge De Las Cuatro Grandes Empresas Tecnológicas: Google, Amazon, Facebook Y Apple",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Las nuevas tecnolog\\xEDas digitales est\\xE1n reestructurando los mercados globales y debilitando los viejos modelos de negocios. La inteligencia artificial, la visi\\xF3n por computadora y el reconocimiento de voz se encuentran entre las nuevas tecnolog\\xEDas que continuar\\xE1n cambiando las industrias tal como las conocemos. Si bien muchas empresas luchan por adaptarse a este entorno que cambia r\\xE1pidamente, un peque\\xF1o pu\\xF1ado de gigantes tecnol\\xF3gicos ha prosperado en este nuevo panorama digital, acumulando enormes cuotas de mercado en sus respectivos campos. Estas empresas se conocen colectivamente como las \"cuatro grandes\" o las \"cuatro grandes empresas tecnol\\xF3gicas\": Google, Amazon, Facebook y Apple.\nEstas empresas representan un tipo de modelo de negocio muy reciente. Lo m\\xE1s obvio es que todas son empresas de tecnolog\\xEDa (venden software y hardware). Tambi\\xE9n son todas empresas de datos: todos sus productos dependen de la recopilaci\\xF3n, el almacenamiento y el procesamiento de grandes cantidades de datos de los usuarios. Finalmente, son lo que se puede llamar negocios de \"bucle cerrado\": Tienden a operar sistemas cerrados que obligan a los usuarios a usar sus servicios exclusivamente; por ejemplo, bloqueando a los usuarios para que usen su motor de b\\xFAsqueda en lugar de otros motores de b\\xFAsqueda o bloqueando a los usuarios para que usen su red social en lugar de otros como`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABP0lEQVQYlQXBO0vDQAAA4EPvcpfnXS6PFqxL0VHs4ODQSXBx8wGC6CB0dHHwDyi04GPopFYNGoKCOkgoii19mKZNjak4iNBN7B/x+wA3ixo9UdWSKJUFcoHIOcJXEDkQXUJYAczeY1aR8iONl4jiYPEaERdiFwo3EHlgOnfAM/syK8vaMU0dyrojah5WbhHxxgUPNOLRnf+TX/TTk/eafUZ4BSkPY/gJKj6UfNDo/dWC0Uahv73zvrQarGyF8wvRbD7CRh1KVXDqDN3H39TEc3aqmptrLq8P1ja/C7vD7EwIxFcA2QvP1KnZpkZd4zWJNbHWks1QtFuQtQGyAsRDwhKZx9SK9HRHsnuIR4IRIKMLIIuRngjsk9AvWU9Us6ekOqIdYKMrGCGANEb6B2YJYQNJj1XeV6030Wpjo4PN4B9xZl7eNiSZ4gAAAABJRU5ErkJggg==",
+      "imageId": "ef10a4c6-f999-4737-1f2f-5f0d6bfcc700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "windows-10-de-microsoft-como-el-sistema-operativo-esta-invadiendo-nuestra-privacidad",
+      "locale": "es",
+      "categoryLocal": "tecnología",
+      "title": "Windows 10 De Microsoft: Cómo El Sistema Operativo Está Invadiendo Nuestra Privacidad",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El nuevo sistema operativo Windows 10 de Microsoft es el intento de la empresa de recuperar la cuota de mercado perdida ante Apple y Google. No tendr\\xE1 \\xE9xito. No por la superioridad t\\xE9cnica de otros sistemas operativos, sino porque Microsoft ha traicionado la confianza de los usuarios.\nLa \\xFAltima versi\\xF3n de Windows traiciona la privacidad del usuario de forma predeterminada, as\\xED como a trav\\xE9s de la recopilaci\\xF3n agresiva de datos de telemetr\\xEDa, el seguimiento del navegador y la inyecci\\xF3n de anuncios. Los usuarios que actualizan a Windows 10 ya no pueden confiar en su computadora ni en el software que se ejecuta en ella.\nCuando usa Windows 10, Microsoft recopila informaci\\xF3n personal sobre usted, los h\\xE1bitos de uso de su dispositivo y las aplicaciones que instala; todo lo cual se transmite a la empresa en un formato no cifrado. Estas pr\\xE1cticas son inaceptables y han desencadenado demandas colectivas e investigaciones gubernamentales en todo el mundo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "technology",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOnk3s6/qrabe76ggPTw6v7///z8/P39/fz8/Pz8/AC6nH/Stpvz4tT///79/f3y8vH8/Pz8/Pz+/v7+/f0A4dzi/P3+6+7w0dHQv767rKqm5eTj////zcrJ3NrZAGNaWeTi4qyopJmWkrGuq66sqcrIxvj3905IQTcyKQA3LSu9u7zq6uiYlZCNioSRjonHxcPAvrsxKyIwKSEAOi8sg35+/Pz8nJmVv7672tnY+fn5kY+JIxwTPTYvAFFIRWFbWe3s7dPSz8zLybi1ss/OzE5JQBwVCm9qZACCfHpgWljIxsjn5ubd3Nr7/Pv19vWFgXw4MiqPiIUAcGlmbWZjkI2M////+fn57OnrysXJzcbL083R4NreAHp1cVBIRY+Iit3Y3djS1t/Y3tPN1Onj6ffy9vby9eXj005XnnuqAAAAAElFTkSuQmCC",
+      "imageId": "47f7365c-adb3-47d9-1022-b1525a53d800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-la-gran-tecnologia-esta-cambiando-la-forma-en-que-vivimos-y-trabajamos",
+      "locale": "es",
+      "categoryLocal": "tecnología",
+      "title": "Cómo La Gran Tecnología Está Cambiando La Forma En Que Vivimos Y Trabajamos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los millennials ahora son la generaci\\xF3n m\\xE1s grande de trabajadores en los EE. UU., y a medida que avanzan en sus carreras, continuar\\xE1n remodelando c\\xF3mo y d\\xF3nde trabajamos. La era digital ha hecho posible que las personas trabajen desde pr\\xE1cticamente cualquier lugar en cualquier momento. Como resultado, m\\xE1s personas est\\xE1n abandonando la oficina y trabajando de forma remota o aceptando trabajos de contrataci\\xF3n independientes, raz\\xF3n por la cual estamos viendo tantos j\\xF3venes profesionales abandonando los cub\\xEDculos por cafeter\\xEDas y otras oficinas remotas.\nTrabajar desde casa, volverse independiente o colaborar con compa\\xF1eros de trabajo en l\\xEDnea significa que los millennials han dado lugar a lo que algunos han llamado \"la econom\\xEDa de los conciertos\". Tambi\\xE9n provoc\\xF3 un cambio en los tipos de empresas para las que las personas eligen trabajar y qu\\xE9 habilidades necesitan para ser contratados en esos roles, independientemente de d\\xF3nde hagan ese trabajo. Si est\\xE1 buscando unirse a este mundo laboral en 2020, esto es todo lo que necesita saber:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

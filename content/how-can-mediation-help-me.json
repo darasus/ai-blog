@@ -1,9 +1,9 @@
 {
   "category": "life",
-  "imageSrc": "/articles/how-can-mediation-help-me.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK91ULF1Tq5yTqpyTqhyU7F5WLJ8XLaAYbeFaLuLbgDPysPq5uD08u739/XT09HQ0c7g4N7w8PDw8PD6+voAwcHBr6+voqKi+vr6srKytra2paWlxsbGurq63t7eAOXl5ejo6Onp6ejo6Onp6eXl5enp6eHh4enp6fDw8AD+/v6tra24uLi2tra6urqkpKS+vr7MzMzu7u7+/v4A+vr68PDw3Nzc0tLS5OTk4uLi3d3dzMzM+vv49fXyALS1sNTV0NTV0NnZ1ba2su7v59vc1eHi2+Df1ujn3gDFxbq9vbGxsabBwLW8u7D4+eng3tHb2Mvr6drs6tkArI50qYltpIRon4Bin31dm3pamndVl3NSkm5PjGpNAJBZM45XL45WK41VKIpRJYpRJYVPIYRNIoJMIYFLIEV819NG6x6aAAAAAElFTkSuQmCC",
-  "createdAt": "2022-01-25T03:45:30.319Z",
-  "updatedAt": "2022-10-11T17:14:45.793Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALZ+WLZ+V7V+WrJ/XrWEZrqHaLqHar2Lbr+Nc76PdQDAt67c0srm3tjo4dvBvLbTz8rc2tba2dbm5uT4+PgAyMvNvcDCs7W25ufowMLDubu8srKzwsLDtLS16enpAOno6Obm5e7u7erp6fDw7+no6O7u7ubm5eHh4fX19QD///+urq67u7u5ubm0tLSurq7AwMDFxcXv7/D///8A8PDw4eHhz8/Pzc3O1NTV2tra0NDQycnI+vn4+Pj2ALa1sNra1djX0t/e2cHBvOvr5d7e2OHi2tvc0+jn3gDO0sfLzsXBxbzGyb/JzMP5+vLi5Njd39Pi5Nbu7t8AqYtwqopuqYlsooFjo4Finnxdo39don1anHhWlXNTAIlPKYhMJIdKIIZKHYNIGoRIGn9GF39GGHxEF3tEF83E2Eev8U/FAAAAAElFTkSuQmCC",
+  "imageId": "336411d2-37d4-4b6a-b851-7a0499f59b00",
+  "createdAt": "2022-11-05T21:49:58.893Z",
+  "updatedAt": "2022-11-05T21:49:59.119Z",
   "categoryLocal": "life",
   "slug": "how-can-mediation-help-me",
   "locale": "en",
@@ -20,85 +20,100 @@
   "relatedArticles": [
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-deal-with-a-partner-whos-always-on-social-media.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHgvP310+rf08SYZ+vNpaN8YmlWTzsyMmtgXca1pAD058f58tWng2TGooPEn4mXcGKWf3eJc3i+yuTUz9AA9unJ8+bGt4xrzbGkzresnpmobGl+hpzJqrna3OHtAPnt0eXPorKIZruik2hQRqaTiZGgxJagwbnD28PV8QB5dFi5kFi8mHtvYVhgRze9lm+tp7C0ssHd5PHF2PEARUo9spVdknthhm9VVUAze3Fr1tvp3uDr1OP3xNHjAC80MEZSV1NXUXt4biM3Ry46SK6zy8fX8cDW88jFyABTSDm9mo3Zv7a6sKosPkwtQ2KFl8Gzx+m80vLHvroAf15JYlZYcG5vhH17u6ykSWuUl6zUrMHlr8bsxbWkAElLSx4uOyo8SCE0QjA/UVV0opOu2qC64a3H7OXj3YZPs3QZaxxqAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlR3QTU+CYBwA8OfT9VU6tC7eqmt16VCHam51qIwsUlOrZUpZMtJNGr5mL+pkmAIShIgoPM/zb+v3EX5oPqWyqLbf633lAwAIIZQCgGkPrvSmisI7W8xqMsOmqpV73/cJwQQAW2X+ZilzcYyWVxYSZ+zIIgalnfH8zSbl3ne/Jq+FFqPJbXQU25h4Zk0eso/Fy4IYTmTOuaee2N7bXI/FGbQfCX3Kr+VmZzfCcvUO81CM5YVq/lUSpJJYQKLQAICvoXUYv41meYYTTq6ztu143qQrK+g5XwQA1fErA7s1xo3foNTTtJGBA/c0bSP+Lqt0u8YMGqYvaa6ou3xP1w3NsGgqN0K5gziXSlsYmobX+pm2TK+u2u50/CJNlIGD5rMZAASY+JgEmBBC4P/FcTGl5A8jf/u1uvwYeQAAAABJRU5ErkJggg==",
+      "imageId": "c928318f-f7b0-44b7-e7f4-96f795150600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-deal-with-a-partner-whos-always-on-social-media",
+      "slug": "the-ultimate-guide-to-spring-cleaning-your-home",
       "locale": "en",
-      "title": "How to Deal with a Partner Who's Always on Social Media",
+      "title": "The Ultimate Guide to Spring Cleaning Your Home",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`According to recent analysis by Statista, the average millennial spends almost one hour every day on social media. That\\u2019s not just posting pictures and updating our profiles, but also lurking on other people\\u2019s profiles. The rise of dating apps like Tinder, Bumble, and Happn has only hastened this tendency. In fact, an article in Fast Company suggests that millennials are so preoccupied with online dating that they now spend more time on it than on any other leisure activity besides watching TV or listening to music.\nOn top of all this, many couples now meet their partners online \\u2013 a third of marriages in the U.S. start with either partner meeting their future spouse through an online dating site or app. While it\\u2019s easy to feel pressured into signing up for these services if you don\\u2019t have friends who are single and looking for love, being in a relationship with someone who does use them regularly can be challenging at times.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Home cleaning in spring is the best time to thoroughly clean your home. As the weather gets warmer, so does our house. Dirt and grime that has accumulated over the long winter months begins to dissipate as we put away all of our heavy coats, hats, and gloves. With fewer layers to trap it, dust, germs, and other nasty particles are exposed for what they really are: gross!\nWe all know that a tidy home is a happy one. Keeping a tidy household at all times can be challenging. The pressures of work and other responsibilities often get in the way of keeping things clean and organized. But with some preparation and planning you can make spring home cleaning your primary focus instead of an afterthought. Here\\u2019s how\\u2026`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-come-when-called.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKKgWGlgQWNmSE1UKU1AIEpDGkUxE1ZGG1NGFnljKgCUeVl5VDycmoZUYU1nUTJuVzGBXzaReUhrXCqafkYAdmU0Vj0jYW1cXFM4fmM6p31LhX5Xl4FSloBPvqNqAEQ7HjwrE0dBIUU7GoFkQHVSOZSFSIp3OZyXR66fVABKThtARhU8RhVBPhi4p3jax5diZSlgaCZtdCuBejgAdH8uZGooVlokXk0eyrSF1cSVZlYscFEsakkpa0coAJ6NSp2MSaORSZh+QKuaaaiTbXBWMXRSMnhSMXNNLwCLd0pPQSp6XT24k2LMs4evimCceUeUckSFZT6IYD0Av6JqwJ9rlnhQh2RAwZRmyphpyZdow5BhxpBgwoldAM+ics2jcs2jdM6hcsycb82cbcmVZ8KOYMGLXr6IWmQCfeQZkEupAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJqEZbeefMOngtGzi5iCZbmddqSLaLWXbsCecqCDXgCsjGPMqX3ProPevI7CpHu1l2+qjWbEoXPRq3i+mWwApoNSiG9NlntYyaZ4mH1b1a98tJRpm35Y27V8vZtrAOyyXfK7atiqaZ+BWZh8WKCCWsyjbaKCWqOEW6mIXADxr1LTlU61g0O0hkKtfz67jUjhsGSzikuhdTqoeT0A+sR3zqR6pHU898Fz+9Sg/OCO5rNM365978+q6rCXAN56YMuoet29me3o5enh5e/s59vAs8Cin+7x8PDu8ADPPDCZZz21oJP5+Pbt3tvq5OLp5+jx8e7j3Nfb08wA12BRlVM6qY93zb/J3dXX49/f0MC44NzdtKCSuaGQANBKM50dL4wdP4MJOWkfLq2CZb6iisSdeK10Q3RBMmOSuZ9KKv2tAAAAAElFTkSuQmCC",
+      "imageId": "19f481c8-df13-4363-237c-52dc6c9d5200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-train-your-dog-to-come-when-called",
+      "slug": "how-to-train-your-dog-to-not-beg-at-the-table",
       "locale": "en",
-      "title": "How to Train Your Dog to Come When Called",
+      "title": "How to Train Your Dog to Not Beg at the Table",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Do you have a well-trained dog? If not, are you looking for a way to improve? Coming when called is an essential command that most pet owners neglect. When your dog comes when called, it means he will come back to you right away and not run away or chase something else. This will help keep your dog safe, especially if he\\u2019s prone to running away or chasing objects or other animals. It also helps with training and makes everyday interactions much easier than having to constantly chase after your pet.\nBut perhaps the most important reason why you should train your dog to come when called is because it might just save his life one day. In many cases, dogs that run away don\\u2019t get lost, they are just trying to find a way back home. Therefore, knowing how to train your dog to come when called can be the difference between him coming home safe and sound or getting lost forever. And let\\u2019s face it \\u2013 nobody wants that!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You probably wouldn\\u2019t sit down to a meal with your dog at the table every day, but that doesn\\u2019t mean you can\\u2019t enjoy a nice home-cooked meal with your pup. Dogs are social animals, so they love spending time with their owners and other people. But they also have their weird quirks, like begging at the table or jumping up to get snacks.\nLuckily, it\\u2019s not hard to train your dog to stop begging at the table and other bad habits. They just take some patience and dedication to follow through on commands until your dog gets it. With these tips, you can crack down on those weird doggy habits and help them learn new things that will last a lifetime. Read on for advice on how to train your dog to stop begging at the table and other tricks as well as tricks from nutritionist Victoria SchENDler`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-history-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AAICAgUDAwMDAwMDAwMDA0A0LX11bRILCwkFBAwFBQADAwMFAwMGBAUGBAUbEhFkWE+OiYE1LCkSCQgQBAYADAUHKBUVZlNHPSsmKBsWcmNReW5gopR5TTgsHgcIAJ+TfNPKq9jPsqWXfkAxKmdZUIyAa9fMq9fOrce8nQDFuJjUzbDc1brXzKvJwqeYjXzCt5vh2bfh2rrh2roAubmd8/LS5+PE4929rq+aoqSW49y/5t6639Wy182pAJeQdaiZd9bMqN/VsMzKreriwvDoxu3jwNrInqGCXQBqVT5vXEVuXUeAc2Con42pk3KZf1pyTi1tPxiRZjcAt7Gf7vHd8Pjl8fnm5uvcvradkXZUfWE/YkAjVzAXAHRMOodZRMGznNzbxMrDrLu0m7K6pq62n7y0krimhbXglSaCLL35AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Feb 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APDv7M+8tOja0/v49pql1UhVlI1rZ185KEgxLSsmQADy8/DUxb3u4dfj6vtdb7c+Pm6jhXXFm3+eZ0dtRTYA9PXy2svF8ubaw9P1OkyWTUBY1a6Wto+BoGtSoW1IAPT1893PyfPm267C7jhHjWJXZdutkdOhhZ1gS5RePgDz9PLf0srt4dqkuepGVZ98b3rZqY25e11hLSCYbE4A8fLv4dTM4tnYoqjRW05taFdPoXBRgEY0gVM+v5dzAO7t6+HW0N/Jv9a4rcOSb4deQ45aPoFJNbSBXI1jSwDq5+Tf1tLXuqzQoYDOnHbQl3G6fVi8flnBhFusclEA49za3NPP0LCgzaKOkWxYXEc4dEk1hlE3klo/kFg+AM7AvdXGxM+2ruTQzeDR0MzFxMe6t7SjoKyXk3BWUHfzuAcj+JcJAAAAAElFTkSuQmCC",
+      "imageId": "28ca0956-5cd4-4910-1439-16128d6a8500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "the-history-of-mediation",
+      "slug": "how-to-deal-with-a-partner-whos-always-on-their-computer",
       "locale": "en",
-      "title": "The History of Mediation",
+      "title": "How to Deal with a Partner Who's Always on Their Computer",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is a process of third-party intervention that enables the conflicting parties to resolve their disputes peacefully.  There are many different types of mediation processes, each with its own pros and cons. When it comes to resolving conflict in business relationships, mediation is one of the most effective strategies.\nMediation helps people resolve their problems in a controlled environment without the cost or stress of going to court or getting lawyers involved. It\\u2019s also private so you don\\u2019t have to worry about your personal information becoming public.\nMediation is not just for divorce \\u2014 this neutral third party helps people with any kind of dispute find solutions that work for them and avoid going to court or ending their relationship.\nMediation is one of the oldest dispute resolution methods on record; it probably existed even before the invention of formal courts. Keep reading and learn more about mediation, its history, and how it can help you resolve conflicts at work or in your personal life.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you enter into a relationship with another person, you\\u2019ll naturally want to spend as much time together as possible. It can be super easy to fall into a routine when you\\u2019re spending so much time with each other. You go to work, come home, and then retreat to your respective rooms for the rest of the night. And while that routine is totally normal and understandable at this stage in your relationship, it might not be exactly what you\\u2019re looking for.\nIt\\u2019s easy to get jealous or resentful if your partner is always on their computer \\u2014 but that doesn\\u2019t mean that there isn\\u2019t a reason for their constant use of it. It could be that they are really passionate about something they\\u2019re researching online or maybe they have an online business venture they\\u2019ve been working on for a while now. However, if this is causing tension between you two, speak up! They may not even realize how much time they spend on their computer and just how much of an impact it has on your relationship. Here are some ways to deal with a partner who's always on their computer:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-allow-you-to-groom-them.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP3n0f3oz/LMrr+IX9+icuKcYcF1ONuTV92ebbN5UQD748v64Mnzz7KzdEXJk2rYmWikaDbQlmXQmnHVpoMA++PL++PL+d/I2qZ9xZd0sYtse1Etj2RFqYNkwJFuAPzp1P3q1/rl0ePDqcSXdKKBaryOacmadqyNeKKBaAD869f76NP54M3ix7OninSEYkejh3OPeGyjgWaqiG0A+eDN9+DK9NzG6tC7hHNpXk5DWEY3ZU9AsI945savAPrm1Pro1fjk0r+0qE9RUkJCRDQ0NDY2NkhISL2xpQD34sv55dH56ti0pptSTkuHfHtSVFhKTE5PUFTLv7MA+OfS+uvX+erY+uHO9M/AooN8bFxPcmJXfW9m8N7OAPjlzfjn1Pjn1Pzh0ty7r25gYPPTw/jq2vjo2fvu3nhXxMfEI+KZAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Nov 26 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOPm49Th55G/7I666sLW4uHt8LnEzjtCViYoOSQlNQC0t+2nr/qBjNDL0dTH3u2qxdVmbXgVFiUpKzsYFyEAfIH/nqT/xsz++v//1Ob0ttTlSE1VEg8VIiIqFRQZAMjR2MHJy6+3uVxgZYaNlMrk8nV+ih4bIhYUGhUTGQBbX2V8g4ybpK6Sm6PFztfT6veyyNg7PEYPDBEXFRsAztfgeoOKe4OKnKav3Onzz7y7w6GaYF5lGxohGhgeAN7o8Z6ospKbpJWep7vI1q+PibmMeYqBgiYpMxQQFACsyeSBhIqKlZ+Xoaq8yde5vsqpf2KZf3FbXWoZFhsAirzq0tfc0uHv3Oj12OXzzNLlw66pt56MR2GAHyAoAIG36Obu99Xg677K0ruvsM6ShaeIjVKVyFOU0ERXcUH8rAYA7gZ/AAAAAElFTkSuQmCC",
+      "imageId": "61c4c06b-27b8-460c-bf45-3780fd1ce100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-train-your-dog-to-allow-you-to-groom-them",
+      "slug": "how-to-stay-organized-and-sane-as-a-busy-mom",
       "locale": "en",
-      "title": "How to Train Your Dog to Allow You to Groom Them",
+      "title": "How to Stay Organized and Sane as a Busy Mom",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Dogs are often seen as low-maintenance pets. While this is true in a lot of cases, it\\u2019t necessarily the case all the time. Depending on your dog\\u2019s breed and their natural instincts, you might find that grooming them can prove to be a very tricky task. If you have struggled to get your dog used to being groomed for some time now, there are several tips and tricks you can use to help train them to allow you to do so.\nDog grooming is something that many pet owners struggle with from time to time, especially if your pet has a specific type of fur that doesn\\u2019t grow too much like long hair or curly hair. It\\u2019s natural for dogs to dislike having their hair caught in things like bushes or trees while they hunt or run around outside; however, it can also be difficult when trying to keep their hair short and tidy at home.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you\\u2019re a busy mom. It\\u2019s challenging and tiring, but also rewarding and exciting.\nIf you\\u2019re reading this article, it means you are willing to go the extra mile to make sure things run smoothly as a busy mom. After all, being organized is the key to sanity.\nBeing organized doesn\\u2019t mean that everything has to be perfect and in its place all the time; it just means being intentional about keeping things tidy and streamlined so that you have fewer distractions and can get more done in less time. You see, staying organized isn\\u2019t about checking off boxes on an organizational checklist for your home or sharing with friends on social media; it\\u2019s about streamlining daily routines so that you have more time for what matters most.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-top-10-most-famous-cats-in-the-world.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIOWV3mIU191TklhSTVFNxklHREbFQ4iCRlAAyptAgA8Px4vPC8MExByZkx0XzZITA06cghVjh1JkyhopkQAI0odN0gjanMwysWAn38qypsyvpU9ybVc9uhQsJswAKKibN7NOvnqab2UO4p2PzVOellSR8acJPDEE7R8AgBaWyvu0SXh8tGkuJGVrZOBcmmGfWK1kindtBDHiAUAc3g7/NoX7+V9o8nKXmxceH9dW21unZpdzp0Kz48IAKyeI/3YFeztq5XP8lCQ11BwjDNCVjg4K6d+HOGwOAC3qiv52zbk8tLP8v1yn79AQjgaFw9BSU0/NS2SaiwAs9DGnsfVmMTQiLfLaqDEPFd1ICk0TW6QREJCMCAPAGGSqnm24Xuw116TyFeR0FOKzEp6sUdxoD9deEBWaHIOiRzJJzhPAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Dec 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACEZEykaFSITECASDSITDSUUDSkXDxcJBZ1xUZavcQCko5uDpJF1mYV3m4d2mYV5moR7nIV3mYGUrpCOuZUA2efbEKF0AZtsAptrAJlpAJdnAJlpAJhnAJRlAZVpAMrZywmVaQCQYx+edzmphjWngyWhejeohSijfACSZADI2MsHlmoAkGI3q4Zvw6livaBXuJp0xas7rIkAkmQAxtzQApRnAJJlG551RLGOR7GPTLSTQK6MDphtAJJlALGulACQYgmVaVy6nXXGrUKvjWS+oWrBplO2lwCQYgBCNxwAlWcBlGcIl2sLmG0IlWoHlmkLlmsIlWkAkWMAXFozFJRiFZFiE5dqEphsFJluE5luDppuDp1vEpxxAGlJKFqFY2qdf3mwn32vnX+oln6mlI+fio+Tf42Wg1lwf1f2tDo8AAAAAElFTkSuQmCC",
+      "imageId": "c8741de8-1db3-4d07-15c9-37aef4d8b700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "the-top-10-most-famous-cats-in-the-world",
+      "slug": "5-ways-to-cut-down-on-screen-time",
       "locale": "en",
-      "title": "The Top 10 Most Famous Cats in the World",
+      "title": "5 Ways to Cut down on Screen Time",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to internet famous animals, cats by far come out on top. With the rise of social media, cat videos and memes have taken over the internet. There are so many funny cats online that it\\u2019s almost ridiculous. These kitty clips have gained a massive following online and catapulted these lovable felines into superstardom.\nCats are a part of Internet Culture in ways that other animals just aren\\u2019t. They also have unique features that make them much easier to anthropomorphize and create humorous images with. This has led to an explosion in popularity among cats of all kinds, but especially hilarious ones like Grumpy Cat, Henrietta, and Lil Bub. Now let\\u2019s take a look at the Top 10 Famous Cats In The World:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The digital age has brought with it a whole host of new issues that parents need to navigate. From concerns over online safety to the amount of time kids spend looking at screens, digital parenting presents its own unique set of challenges.\nAs technology continues to advance, so do the ways in which our kids can interact with it. From tablets and smart TVs to smartphones and video games, it seems as though there are more screens than ever before. This is especially true for younger children who have grown up with these devices as a normal part of their everyday life.\nThe pros and cons of screen time for kids can be debated endlessly but at the end of the day, your child will likely spend a lot of their time consuming some form of media in one way or another. As their parent, it\\u2019s important that you understand the benefits and risks associated with screen time so that you can make informed decisions about how much exposure they receive on a regular basis.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-toilet-outside.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWPY+vrfsqvfM1e+CZ30zLvrSUDvs4T5b1oPfj717t/SF38ZLMoec7tdy2xabZOyN6FmnVPm7pjKjfrRR2XC7rYe+86gFHtXJfxcUt0Gu/TdsVWbAku2pdavdc/ezu95s3T7Z4YFj/8Ubvrg0/1UOPyJbvYd47x7zg2Pkha+3nH3++pX/xiqjuwLWFLTc+W6cdc+96lrus6c8p5X1HruTMrumc1nTjGIF2tLlutIFeuZzozz6C45e/b09u1bTVo8LebFKNZbMvBGyqr6y/GkysnHynvWBu/ctX3nru1y+frKQbJ8UXIMnIcMOE8ZhG5JkVmfq7e2euW+Ndv3bpM6aMd5yoDzkAEDxxlDybN2i6+v4ThjzLYyk+OMITICSZvt9k88VcKxUw9F7qw+x1l9AFcAkmh4drLGAAAAAElFTkSuQmCC",
-      "createdAt": "Sat May 15 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJiMfnt3b3dxaoFvWGRxoTFu8ww2oBYMHjkuIE1BOACajoB9eW6Dd2eCc2FfX2IzXboKImwSDAs6MCdOQTcAnI9+eXl1YmZ2WVRYYFQ7VXKqDyNgIxoJRj85UkM6AJmMd2Z9uyJl4wAfbSAVC0VinBIkYR8YCElAOlJDOwCZj31weosrVbsLGU0aJDoiT7URLYMdFBpBNixjTkQAmZKDgX1pVm2kIx4vM0p8LnT5HEy5Khs1QjQnbVBEAJqUhoJ/cFp1rygrS01IO1pedUpKXz84NjwzLE44LACjm4yHgnJLYJwXHUghHBBhTTqEZE9STEQrMjM8KR4App+JZ3qmNGXZByV0EhEaWko+Y1dRMzg3Rz00Y01BAKKfkXqFl2iEvkZYfWRcVk9KRR8iIkg/OGJSRV5NQieMZOh9pr+bAAAAAElFTkSuQmCC",
+      "imageId": "c2c51f14-73dc-45fa-54fc-67890e4c2000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "how-to-make-your-resolution-to-get-fit-a-reality",
+      "locale": "en",
+      "title": "How to Make Your Resolution to Get Fit a Reality",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Resolutions are challenging. They require sustained effort, willpower and courage to see them through. The fact that so few resolutions are kept shows how hard it is for most of us to take that first step and put our intentions into action.\nWe live in a world filled with temptations at every corner. Even if you don\\u2019t like going out or meeting new people, there are endless opportunities online, which makes staying in shape even harder. Keeping fit is not an easy task in this modern world but it doesn\\u2019t mean it is impossible! You just need to find the right motivation to get started and keep going.\nA lot of people give up on their New Year\\u2019s resolutions before they even begin, because they don\\u2019t have a plan of action and fail to consider what will keep them motivated along the way. Let us take a look at how you can make your resolution work:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALvv/qPQ9Weo7FaT50+L5VKO5mKg6oa+8sPq/Kvt/wA1c+QZT9NZdbE3XrpJa7RAZbpeeawtW8YaVt+BwfQAF1TcFkjJWnWpRGm3Tm+yRWeyWnWpOFyzAD3Xb6/vAKbo/3a0+FCO7Rtc5zNv3j145kuH6Wak8bPb+7jz/wB4xLpgs42P28c6kstLmLyU0r5hrIWH1MN5yaaCysYAFG4kEmkgHW8tK4ZWSIN4wcO6pKiiMn1HLI9OH3w1ABFgIyNdJA5sJBRpF1SOTMzCzb+8vih4OR9fIxJiJAALvTECwStWvGAdsW0poImowKmsvK4fwEAGxSwKvTAAANArLM9PpdCoCb1DBalqCsw0E8s5C8szB9AxB9ExAAXNLj3CV17EcwXCKgjVJwnMMgbNMAfNMgfNLwfNL/RVkl7DCSnbAAAAAElFTkSuQmCC",
+      "imageId": "fb6fa703-dd1c-4323-2f40-483f836f3700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
       "slug": "how-to-train-your-dog-to-toilet-outside",
       "locale": "en",
@@ -110,61 +125,46 @@
     },
     {
       "category": "life",
-      "imageSrc": "/articles/from-first-date-to-soulmate-how-to-know-if-youre-on-the-right-track.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPElEQVQYlS3MPUsCYQDA8eeTNPUBmpqbGqKhoC1oa8g5RIOOwqUQssIcjqIcClQKTQwVtHvxLs/zMl8uvHueU+9JvRe7cDFClzCD3/aHP7A13kTcjAEZU6G1t8ePRsqClAUpYGrsjAEZAxbsViHg8ZL+8+ChL0R4//NfY2yN/8Ji6sgzet2S04QYOQEGoqZPjTURN9DLbSkrZ3zWu2sor5eJOTBoc58dfoBLDpaG/ZoUDzsPu+Ol7Z/VjczmPOio9RZS5YbCMaUequTIs7F8NVnYmaws5/yLQBQh/Vxh2fpTgq4IQv7m2sANpxr7bvpix2tAgWax2Hzh6lSWLVPpSOhyNMQjR3B6yVu/G0iiHI0m4/cJnsmrGroLXQT294IHRPiUDLpdAOp91LVVbCFstbpTuG/put6sCdVi7heQMuLu6O+sfgAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Oct 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGVcOXtkRsjHwkxHPUIuGUsvEV9MN2BUUlNIQiwdEABsWD9jTjZ1bGBSST5mV0aEdWSOgXJrX09NXEI8PCkAKB8VQTw21NHN+Pf1/v7+////3t7VSixDVXqDU5BoADIqH1lNPfX08+Lj5cXFxs7MzvT282NJQ0wpZk9aSwBqUDGAZELe29ibnJmenpqfn5vDxMVwX0dZPiZqUkMAmpSNV0Epv7mxoaG2t7XRsK3P3N3if3Rps66l1tnVAO3x7YJ/dsfBuvn6/+zr+/n5+////46DeKedkc7GvADGwLl6bl2wm4jFr5329PHj3tn///+ropmKfWysnJoAdWNPdlw7v5Ztd1E4q6CYpYVugnJkVEg9dGZVvLCwAHViSrSXc66GX1tDL0ozGqeIZn9gQxIJAEo+L56YjYGcoEHSqRgSAAAAAElFTkSuQmCC",
+      "imageId": "4527e986-e269-4e54-0681-194a5c5da800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "from-first-date-to-soulmate-how-to-know-if-youre-on-the-right-track",
+      "slug": "how-mediation-can-help-you-resolve-conflicts",
       "locale": "en",
-      "title": "From First Date to Soulmate: How to Know If You're on the Right Track",
+      "title": "How Mediation Can Help You Resolve Conflicts",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are so many first date horror stories out there \\u2014 awkward silences, strange amateur- magician tricks, and cringe-worthy pick-up lines being just a few of them. But getting past these awkward initial stages and finding a potential partner who you can connect with on a deeper level is no mean feat. Figuring out if someone is your soulmate or simply the first step to becoming one isn\\u2019t easy. Even though it can feel like we\\u2019re constantly being bombarded with images of fairy tale love and meet-cute romances, dating in real life isn\\u2019t always so straightforward. Unless you\\u2019re living under a rock, you probably know that letting somebody into your private world isn\\u2019t something to take lightly.\nBut how do you know if you\\u2019re on the right track when it comes to dating? Whether you\\u2019ve just met someone new and want to get to know them better without rushing things or have been seeing somebody for some time and are wondering if they could be The One, here are some signs that could indicate that this person may be more than just a casual partner\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is a process of conflict resolution that helps people communicate with each other to resolve their conflicts. In this blog, we will explore what mediation is and why it works. If you are currently embroiled in a conflict or anticipate that one may arise, you may find the ideas in this blog article helpful.\nMediation is an excellent technique for ending disputes between friends, colleagues, family members or any party involved in a conflict. It involves bringing neutral third-party mediators into the conflict and having them help both sides understand and work through their issues so they can resolve the problems on their own from there moving forward.\nKeep reading to learn more about mediation and why it works so well for resolving conflicts.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/what-are-the-benefits-of-mediation-for-couples.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AODPx+bb2Ojh4eTe2tXLtuPd2ubj5trR0LSrjLqvrADt4Nvw6ufz7+7z8PHaz7Hx7/Lx7/Lt6u3EtJnZ1NgA8+rm9fHw9vT16efoy8TE8e/w9fL18/Dz7ert4+HkAPbv7fPu5/Xx7rytqXlWT9nMx+/t6bmuqc7Dvt/W0wD48/Lz7enw5t7PtK2re3De09Ll2teSc2CcgXHf29gA9/X28+/q7ejq3czQuJqbzsLPnomaoHpptJuN497eAPf19vPv7LyXis26vNXHysyuramIg5R/j7Cmt+rp8AD18/P39fTAnZafc2mZZ1qRYl6JcH2pmq+/vM/OyNEA3uPx0NTn6ez4x8ndrqK0opasTkpthWlwqqS7tK27AGFvozdFhztIkTtOnG+F0HCIy6Gguefj68rCybCptFz35EkPsE7GAAAAAElFTkSuQmCC",
-      "createdAt": "Wed May 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKtKy6dJxalHwq9PvbhRtMRYtMtZot5ugPCXe/fDnQCRL66aOrKRNaeVOqicPZGzUnPcgGXrrYXj4efd2+sAgSWbeCOTcyV7jz1ax3NV5Zll97aI3uTuycPQ6aZ6AGYfZno1S6xlTdeYdeCyku3OvO+ld+Ovk/LXxf3V1QCfWkK7imzPy8rAzensy/Pu8//pv6/lo4DgxsLhxL0A76N7r35gvtLT3fL/39DmvJ7P7u/657CM34lT4ZZnAOqjfduQaaqmj+jb8sem2/Dq9vz9//jv7O6odeugbwDknXX2n224jmq5tNb48//u/fLc6dK+3bO8n3LqlWcA7qBw5JNl4JZqt7mWzNWhtq16w5hf05Nf6aN05JFfAPGfZu2ebfGdaOCec+CfdOakie2XaOqSXfWncPCbZDkZydL50BgXAAAAAElFTkSuQmCC",
+      "imageId": "9eaee65b-60b3-4e99-589c-9811114c6a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "what-are-the-benefits-of-mediation-for-couples",
+      "slug": "10-easy-tips-for-sticking-to-your-new-years-resolutions",
       "locale": "en",
-      "title": "What Are the Benefits of Mediation for Couples?",
+      "title": "10 Easy Tips for Sticking to Your New Year's Resolutions",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation for couples is an excellent option for most couples looking to strengthen their relationship. It\\u2019s also a good way for partners to resolve conflict before it becomes irreparable.\nIf you and your partner are feeling stressed out, argumentative, or disconnected from one another, consider giving mediation a try. The process helps partners understand each other better while creating new solutions to common issues they face as a couple.\nThe benefits of mediation for couples are plentiful and will help both of you see each other in a new light. It\\u2019s not just about resolving conflicts but also creating a stronger connection moving forward into the future as partners and lovers. Let\\u2019s take a look at some of the wonderful things this process can do for you and your partner...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New Year\\u2019s resolutions are like a clean slate for the coming year. What you do with that opportunity is up to you. Maybe you resolve to eat healthier, exercise more or reduce stress and anxiety. Maybe you decide to learn a new skill, read more books, help others or travel more. Or maybe your resolution is to do something completely different \\u2014 like learn a language, stop procrastinating or read the complete works of Shakespeare. The possibilities are endless, but sticking to those resolutions can be challenging. The key is establishing habits that will last all 365 days of the year and not just one crazy day in January. It takes small but deliberate changes in everyday life that add up over time and become second nature. Here are 10 easy tips for sticking to your New Year\\u2019s resolutions:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-to-sit.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AC47JCkyIy47JCk1JE5dSpiVjYuLf0FPPyQvIBwkGwBff0JmhEhujUxykU56mFN7cUKVkWGLsFp/plBmkT4AkLdlmLxnmr9pn8JrocFrpKJop6ptnsFmncBnmLpmAH+pX4GpW4WqXomuZJmvYYmjeIKbfpy8cpS5ZIyyUwCvuJGruZe3w6PIso7Wl1zRroqynHihpI/Ix6/ExqwAuru0x8nGyczJnnhYzZht1cCzqJaR0c3MzsvDx8CwAMjKyb/CvLm0qohdM6qJZ6ehmoBubZuEhcPAuLW1pwCwtbO/wb6wln+QYzeZaDbaw6nU1NLP0s7CxcCyta0Atrm4pH5ijWM9gF5DiF480K2Sz9LOxMfGz9HQycvLAI9wW4ZaN3FJKaR7UtO7psOwmcjLx8bIxdPW17i/v1t1q7TkWZgLAAAAAElFTkSuQmCC",
-      "createdAt": "Wed May 18 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJWIj9fgvtLbu8nXssXVrcPSrNPiuYmKdS8NLjlUcwCOgYvQ28PJ1r3J18LN2MfQ2MnW4NDbx700HC46U24Aj3+P1tnQ0tfEztW7y9atydKmxNShy7GAPz84CRo7AIl2hNTT4eDi7t/h7dnX3dTW29jT3MmkrycxOxEiQABvXGeZjZukoLGBeYN6Yl2ymJPRq72znq4UGyslLkwANjA7GxggGxcdIxYWXUY6h2Zgqp2Cwa2CmXpdsZN4AEE5RAsKEDMqLz0tL3p3UrG3dq6+dLqhe8KziqekbwBxbmguKhhqUkaWdmKdoGmWnWSKkV6Tk4GmppeTjW4Ap6iahoVZloJil5R4opx/hYtohI1ri5JwkJFzlJd3AKGenX19XJ+UdomRbqmkiY6ZdpKdfJuUd6OUd7mznEmNojyOPODSAAAAAElFTkSuQmCC",
+      "imageId": "05a5ffab-a436-4ec3-5cc7-b42e03e0fd00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-train-your-dog-to-sit",
+      "slug": "how-to-train-your-dog-to-walk-on-a-leash",
       "locale": "en",
-      "title": "How to Train Your Dog to Sit",
+      "title": "How to Train Your Dog to Walk on a Leash",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Dogs are intelligent animals with a natural desire to please their human companions. If you take the time to understand what motivates them and reward them for good behavior, they will respond by trying harder next time.\nIf you're willing to put in the time and effort, almost any dog can be trained to sit on command. It's just a matter of identifying your dog\\u2019s motivation and rewarding him for the behaviors that you like. With consistent training sessions every day or two, your dog will learn how to sit in no time at all.\nTraining your dog doesn\\u2019t have to be difficult or stressful \\u2013 it just requires commitment and patience from both of you. The more straightforward training techniques like marker words, positive reinforcement and treat rewards should get your dog responding obediently within a few weeks.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-to-deal-with-a-partner-whos-always-on-their-computer.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AO3r59C8tevh2/Xx7p6r20dWlY1oYFIyJkcxLSsnPwDw7+vXxr7v5N7e4/Fic7ZCQ3WphnLTp4ueaktvRjYA8/Ht3c7H7ubgwc/sSFaaUEVgy6eUqYBwmWJLm2hHAPPx7eDRy+3l3qa45EVRklpPXtqwmtOkhptcRpplQwDx8Ozh1M3t492bseJaZqh+c4DQn4m5fFxlMiakdFUA7+3p49bS6+Hblp3IaFt2aVZNiVc9kFc/ekw3vJJwAOzq5uLX0uPMv86tocqWdX5WP5BaPIhQPKt6WI1hSQDn4+Dh1tPYvbHUp4vQoHzQnXe8gl2zd1K4fFWpcU8A4djX3dTQ0rCev5J9h2FOYEc5cUczh1I7mmBGk1lBAMy9udjKyM62r+DRz+PW1NfMydHCvruqp66alXJaU0Uct/IB8jSlAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Apr 02 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "how-to-deal-with-a-partner-whos-always-on-their-computer",
-      "locale": "en",
-      "title": "How to Deal with a Partner Who's Always on Their Computer",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you enter into a relationship with another person, you\\u2019ll naturally want to spend as much time together as possible. It can be super easy to fall into a routine when you\\u2019re spending so much time with each other. You go to work, come home, and then retreat to your respective rooms for the rest of the night. And while that routine is totally normal and understandable at this stage in your relationship, it might not be exactly what you\\u2019re looking for.\nIt\\u2019s easy to get jealous or resentful if your partner is always on their computer \\u2014 but that doesn\\u2019t mean that there isn\\u2019t a reason for their constant use of it. It could be that they are really passionate about something they\\u2019re researching online or maybe they have an online business venture they\\u2019ve been working on for a while now. However, if this is causing tension between you two, speak up! They may not even realize how much time they spend on their computer and just how much of an impact it has on your relationship. Here are some ways to deal with a partner who's always on their computer:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that your dog is capable of learning tricks and commands? If you\\u2019re ready to take your relationship with your dog to the next level, it\\u2019s time to start training. Dog training will build a stronger connection between the two of you and can help you achieve a more rewarding relationship with your pooch. Read on to learn more about how to train your dog to walk on a leash.\nDog training is not strictly for competitive dogs or breeds with inherent instincts, such as hunting or herding dogs. Any dog can be trained and even smaller puppies can be socialized from an early age. With patience, dedication and the right strategies, anyone can train their dog.\nTraining sessions should be fun for both you and your dog. They should never involve negative reinforcement or fear-inducing techniques like alpha roles or growling at them. To get started, read our helpful tips below on how to train your puppy to walk on a leash:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

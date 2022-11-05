@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/10-exercises-you-can-do-at-home-and-save-a-ton-of-money.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABAUlEQVQYlWO4duTo1cNHLu3d9/zkrrdndr05CyIh6M3ZXQxXDx+5cujgpb37XoCl0RDDoY3bT2zbfnHPHojug6vm7Vw0bdHEzv0rZp/csJBh+sTFGRHRx9dteHZiJ0TH8xNbHxze+PDQxucntjKcOHu7KD1/76IFz4+DpF+d2n5s7fy9y2Ze2Lr0ys6VDBO6Z6QHBe1bMP/ZsR0Q3YfXzD+6Zt7DQxtBdk+qqNk8ffqJNWsg0jd3r7m8Y8W2RdOOrJ67f8VsBlOL9vTwkmOrV0OkL+9YcWT13BPrFxxeNefU+vkMjYX9DXFR++cjDEfx2IUtW48sWXxsxfKnR7djSgMAiHXbSZZvbi8AAAAASUVORK5CYII=",
-  "createdAt": "2021-04-07T09:45:19.628Z",
-  "updatedAt": "2022-10-11T17:18:33.193Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABN0lEQVQYlSWP3UrCUACAzyt104N0kxddRhdJUhdd1AsEUlASgorIVv4wdbg5t3O2Oa39nNp2HFoOiYIgN8W/Jb1AWPBdfJffB3zDGur6QOuEWF4RtHDRwoHLjcC5A4Fvmr6hD9qdEKOIoJktzWwptFpRT1l7CtCqDSzAF60bYPTTV/tiqZG7kah0t5LrCfcgdVU43T80a9WprUYEhbj1+dD40FiHo4cyA9zXyfFBgrtNzUln5cKZLWGWUosZh6Pf2jVwnUzHd2NqPjt93qRNn0SzXkB36XetHmIBXMRPUDZjs2xgiWtP8WVmpDCeUMRsQWfyYGs7ebR3ZtcqgQW/PXmkVF2O7osll6cJT4Pz+GViJ/ZI5f/HJrgVmM0vgx9bzbHBgyFsWiXKLJfHhhgRtHTRish/bOQXU1/a4gbtXa8AAAAASUVORK5CYII=",
+  "imageId": "338d72af-2e79-4ac3-80f6-cf62fce25100",
+  "createdAt": "2022-11-05T21:58:46.137Z",
+  "updatedAt": "2022-11-05T21:58:46.933Z",
   "categoryLocal": "health",
   "slug": "10-exercises-you-can-do-at-home-and-save-a-ton-of-money",
   "locale": "en",
@@ -20,130 +20,70 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/a-beginners-guide-to-meditation-and-its-benefits.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHKgkJC/uG+tqGOblWKVi3N+b16IgJCjkWiel3S/wwBjhHJTiIRBhoyR0NZ6vcRkblE9XFRAYVi2uJ6Ko5IAdp+WhK+sY4l/d4x5jaykbod2X4yEhcPAaq2rZJmJAJW8upayrWuMeo2Ja3qJgHyfnJLLypnS02KdnkFvbQBsp6NUjYxTfHxJiIx0i37Gt6FegH5uYlRih4FanpAAM3p2eLGucpybTIiNN0pEnXdI07+hdnFjiry+ZKWRAF6Vk2WMiHmiopu6sp65sD9ZUoljNMmxkJjGwnOyqADA4NXGyamFmoWClo12g3hrjIMeS0xeSi/UxKqRwroApL+yfWIihnlZmo1pWpRzaoR7WoR/Ejo/SUEv08OnAEdzbVyEe36Gb3madppqGHqPY2h6bQxLUR05NDs5LN5TmeCcz8nCAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 12 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHmae26Zg2qrqI24tZ3CucHQyM/a1dbe0JN3YmpXRgBGLh1lW0pcVT1rYlCYi3aEcEx4Yj94ZEheOCNbRjkAnnpklGxNm3pdqYNksoVkwpR3zJt5yJd3u491nmdLAKiyo6a9rpzFuMbSwtnYxurl1O/m3fbv6Pv49dnIuQCghXLMt5zIu6q0lIPSw7rTva+2lIPx6ODs4drAsqoAtba809faz8fEuJaAxq6gxa+nxaubtpKCo3ZopoqBAJufoq7M2rS9wLSUe7uvqKSblqeUirKgmci7spuHgwB6ZV2Vu8idqa2VbFmknJ6VhH2fZT2jfmSSdGGIaFkAVi8oWTs5YkM/aUI9Z0pJdVJJc0QwaT41YkA+WTIsAC0PFS8PEi8PES8PEi4NDzMSEjQTFiYHDiwOEysNFdvHncT9acUeAAAAAElFTkSuQmCC",
+      "imageId": "e878b65e-da1e-47bd-c9b9-9dee4ddd9900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "a-beginners-guide-to-meditation-and-its-benefits",
+      "slug": "how-to-make-your-home-a-haven",
       "locale": "en",
-      "title": "A Beginner's Guide to Meditation and Its Benefits",
+      "title": "How to Make Your Home a Haven",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The idea of sitting still and focusing on your breathing might sound a bit too challenging at first, but meditation is actually much simpler than you might think. If you\\u2019ve been struggling to find balance in your life and keep your stress levels under control, meditation is just what you need. As we go through this hectic world, our minds are constantly racing from one thought to another without even noticing. Most of us have a hard time dealing with the pressures of everyday life, which is why meditation can be such a great tool for clearing our mind and finding peace once again. It also helps reduce stress, lift our mood, increase self-awareness and make us more compassionate human beings. So if you\\u2019re ready to adopt the practice of meditation in your life on a regular basis, read on \\u2013 we\\u2019ve got all the details you need!\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Creating a home is something that we all strive to achieve. For most, this is somewhere to relax and unwind after a hard day\\u2019s work. It also needs to be somewhere that feels safe, somewhere where we can shut out the troubles of the world and just be ourselves. Creating a home is no easy feat though, especially when you consider all the things you need to consider from furnishing, decorating and creating spaces that feel like ours. That being said, creating your perfect home doesn\\u2019t have to be as difficult as it sounds. There are plenty of ways in which you can make your home your own personal haven. Below are some tips on how you can transform your home into your very own haven...\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-easier-with-leftovers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKKclbCspre1tLq6ur6+vru7u7WzsaqmoJ2VioyDcwCrrLJ5fYWvsbW0trjNz87Lzs3Iyca7ubOyraGlno4APEFPJCUrRktVp6qyu7y5vb27wsTGtbOxj5CUXFpdAEdGS42NjYGGkHJ3gbq4tsXEwLi2t62ut0YqHzYqHgCOjYmsrKytrbKSmamelovAu7O0qq2ATj+IVkVhVz8AoZ+gq6ywlpysTUlFnZOAoJibcDQffD8vikIvg3t+AJ+gp3h8izk0NHx0ZKuik2VgZF4+MphuWoJfW4J+iABfYGlAOjN8dGStpJWuppRZVVJ1cXuKdnOsnJ1/eG8AYFdKiYFvrqaUsqmYsqmYjIV4LS0tYWNpcGpjhXdeAJiMdZyQdp+Teqaag6ichZiMd2RaR1VKOoByWYd4WwRNnqTzzLvjAAAAAElFTkSuQmCC",
-      "createdAt": "Thu May 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK7RgFF5Or7EvurZ06BQLaJJIbyajf////38/P///wBYlRxFfB1oiFDZzsqhVzibRSLDsKr4/v/V3bzb4LgAPXcgcKFByda04ODl6+Pf2MrF2tzjsLmOq7tUyc5gAJWxg7vMsvr4//Ty8/Hx9fL29+bo556vULm9Y8HFZgD59vvNzcnWw66UmHSBlHfBwr7t7vC3vWOyvk+ppkwAx83GU35IbG8smHo8b4Msep88v8K+3uC+uMJbuKpmAKq7oF5nKJt3S8h2Q9CRWKGyOpuwf+Tj7ubt4+jt6gBuiWKTdzHcrIC2bjy9eE7EvlWwxpH39f////77+/wAsbyxYX8zk2QmtHBGzohJsLVZz9jO7uz28vP2+/z8APHu9Y+gi3OGPHJ2M5eeS6y7ouzt9vb3+fT0+fHx96iGyWw/AkqnAAAAAElFTkSuQmCC",
+      "imageId": "027151fd-9b95-4543-05d7-340a1aa47400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-easier-with-leftovers",
+      "slug": "8-ways-to-make-healthy-eating-more-exciting",
       "locale": "en",
-      "title": "How to Make Healthy Eating Easier with Leftovers",
+      "title": "8 Ways to Make Healthy Eating More Exciting",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you feeling so over-whelmed with the new year and its resolutions that you\\u2019ve decided to skip lunch for the foreseeable future? Or perhaps you\\u2019re just exhausted by how much effort it seems to take to eat healthy. While eating well isn\\u2019t as simple as following a diet \\u2014 there are so many different factors that go into it, and we all have our own personal preferences when it comes to what makes a meal healthy. But, there are ways to make eating well a piece of cake. Leftovers are one of those ways!\nA meal made from scratch is an excellent way to ensure that you\\u2019re staying on track with your New Year\\u2019s resolutions. However, cooking every night is not realistic for most people. That doesn\\u2019t mean you can\\u2019t enjoy home-cooked meals without going through all the stressors of making them yourself \\u2013 leftover cooking is your solution!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In today\\u2019s world, it\\u2019s not easy to stick to healthy eating habits. Everywhere you look there are temptations that make it difficult to eat the right things. However, with the right approach and mindset, healthy eating doesn\\u2019t have to be boring or restrictive. You just need a bit of inspiration and ideas on how to make healthy eating exciting again. Eating well doesn\\u2019t need to be dull or uninteresting \\u2013 in fact, it can be quite the opposite if you bring your A-game to the table.\nIf you\\u2019re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you\\u2019re putting in your body.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-importance-of-sleep-for-health-and-well-being.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMUlEQVQYlR3MW0+CYACA4e/Ht7lWMQ/oNE8kyEEB0ywyRREFRXKggCSFmq62WtPpAuZds+29eK5ewBZxtohXyNIJOMXiVI2kyrlMGSMqjR7Q34/K/LejfWnLY9/ca8tjT3XJTJrMZAkUA2PXE/TvFC4W76clfq68Bm3ZSV5dQheRCBQD6pvft3YEZw4cX5juJdvjOhYUOi+3NKwugb61o1s2cjummvO2vu1a3h1vRMPXjGA/qQvQM7ZVweWUD6SmdyaHruXV2+bVWSiFsFmsCsZuMHKCgeOLxkGyA3Hmc8JLHArDUBSlG0DWN+LzWhiteGXVGi6bg0XlQU5FYJSsn+YMU8PTSTQBFxKJPBz7L44WKF5bS+YnEIeTZndYpRkql6ZvkFI+R+QLj/JMdX4kY/MHYdPcokf8/QYAAAAASUVORK5CYII=",
-      "createdAt": "Sun Nov 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APLz8vX29vb4/fn9/+3m3fPs5PT4+PLy8v38//Pz8wD09PX09fT166b17LvhrGbdnEyPmmlkgj61waf39/kA9/n//OyX/NQA0aEMxngTs2oZcG5BR2gAOVcTztPKAPH0+rGwYK2MANinCt+wANCjF4yVNF5tCC5HErW+sgCNoHkvUQhwXgrswQJxgwa2pQrOqgfRtgK3pxTZ2soAWHQ4S2gAgGoR3KcDz6wA3K8Ds38Q4rwC9dIA696MAK23oJ6sk5FSRqdqMdGtPI1YHWU2O5BtL9G7TuXduADy7/P1/P/PoJ+cMCy8pKhfLlFnNkKGbHTj4+7r6+8A6+zr6+vq6/DwrVpTlmBIlI2SZUdYurC17u7r6+rqAOvr6+zr6+3u7uXk5b7BsMXLvuLj5ejo6Oro6Ovr68qpwP720o+QAAAAAElFTkSuQmCC",
+      "imageId": "ea165d37-f456-4b54-d2b7-151c9e89ab00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-importance-of-sleep-for-health-and-well-being",
+      "slug": "how-to-get-more-vitamins-and-minerals-in-your-diet",
       "locale": "en",
-      "title": "The Importance of Sleep for Health and Well-Being",
+      "title": "How to Get More Vitamins and Minerals in Your Diet",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As adults, we know that sleep is important. But it\\u2019s not always easy to get enough sleep on an everyday basis. With busy work schedules and other obligations, most of us don\\u2019t always have the luxury of getting a full night of rest.\nTo make things even more challenging, sleep is one of those things we cannot replace with anything else. Sleep cannot be replaced by vitamins, exercise, meditation or any other supplement. It\\u2019s essential to our health as well as our happiness.\nWe will look into the importance of sleep for health and well-being as well as its benefits and why you should spend more time sleeping if you aren\\u2019t already doing so. Read on to find out everything you need to know about getting enough shut eye.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you a healthy eater? Do you load up on fruits and vegetables every day? Do you take vitamins as part of your daily routine? Do you check nutrition labels to make sure your food is healthy? If you answered yes to all these questions, then why do you feel like you\\u2019re not getting enough vitamins and minerals in your diet? There\\u2019s nothing more frustrating than feeling like our eating habits aren\\u2019t doing us any good. And unless you\\u2019re eating an extremely restrictive diet, it can be disheartening to know that most of us don\\u2019t get the recommended amount of vitamins and minerals from our diets.\nWhat are vitamins and minerals? They are nutrients that our bodies need in small amounts for everyday processes. While deficiency can lead to some serious problems, getting too much of certain nutrients is also unhealthy. Here is everything you need to know about vitamins and minerals:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-best-way-to-eat-healthy-when-youre-short-on-time.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL27w4OEi/Tx8vPz88fI0MHAxfDv9O/u85mXoXZ0fADd3d94eIP49vf39/fW1tisoZ7u7u7y8vRoaXJEQ0gA7+7xeHiD+Pj43t7gwKWVnnhnmnto7+/vg4SPVlVeAPHx8Xx+i6Sjqri3vsupma+GeH5RPO3p6NXU2dna4wCTlaJxcXzc2+D5+fncuaWmbV6KVT3h1s7c2t3m5+4AkZKb6urs38vGz7ey17atsnlokmJHspaCz8rM2tngAPz7/tja3trOzsCah7qlnGNHPGtPRodoVLysq8zL0gD8+/7m6Ozr7PDew7OTe3N9TDaQQzJxSDybh4WBfYUA+fv8+vr88vLyk3txoIqGfWpsV0ZAjGlciXd3X1pgAPb4+vj6+/b08sagi7qlpcGvrq2MeJtrVH5wcGRfY8yKzJPNXg4qAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Feb 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKF+Y7CNc8CNaL6PabSik5+OgZ6Mf6icj6OYjYt7bwC9divKiDOlfyfJeijLn3yompCvnJKtc3mWT1ekiIUAV2UTYm8YN20MiGkXyYxdoqKZoGNlkwkelg4inSo7ADBGCxwwCKKrIaOYIq98TIyLgYRRUooNHYYTIYI2QABJUBE5SQKbpSrUzDuQbjx9bmdqXld2Vlp7TlWDdXIAaXQbaIcLXYMJu8Qpn6VSbWdhsZt+6dStoZF9YFBHAIObElBsDEBeB1FrBnd6SpeEb/ndoP/suuvMnHViWABVcAZQawRQagY2SwBQVTyDcWPz15j/76LiyZtjU0sASVcjU24HU2kTSlwmbHNRPTIueGlYtaCBbFxQSTw2ADUyLjM2JDAxLD08OzUwLDguJzctJzMqJT4zK0Y6MSWAe2iiP/1UAAAAAElFTkSuQmCC",
+      "imageId": "dd2916bf-1fdb-4e4e-11b3-feca74d91200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-best-way-to-eat-healthy-when-youre-short-on-time",
+      "slug": "the-best-healthy-lunch-ideas-for-work-or-school",
       "locale": "en",
-      "title": "The Best Way to Eat Healthy When You're Short on Time",
+      "title": "The Best Healthy Lunch Ideas for Work or School",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s not always easy to find time to sit down and eat healthy meals. In fact, most adults spend about a third of their weeknight time on food and drink, which leaves little time for anything else.\nWe all lead busy lives with lots of obligations outside of work or school: we have friends, family members, and partners that we need to spend time with on a regular basis. It doesn\\u2019t leave much room for eating right.\nFortunately, there are lots of ways to keep your diet in check while also fitting in your hectic schedule. Keeping healthy snacks like fruits and nuts stocked at home can help you avoid getting hungry at the worst possible moment. Eating smaller meals more frequently throughout the day is another great approach that can help you feel fuller faster without overloading your system with calories at one sitting. Eating well when you\\u2019re busy isn\\u2019t impossible; it just takes some planning ahead.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that those little brown bag lunches we made in elementary school are now a thing again? Super cool, right? Well, sort of. If you\\u2019re like most adults and teens, you probably don\\u2019t have time to pack your own lunch every day. Instead, many of us rely on fast food or convenience stores for our midday meal. While this can be an affordable and convenient option, these places often offer unhealthy food loaded with salt and fat.\nFortunately, there are more healthy options out there than you might think. These days there are many drive-through restaurants that serve much healthier versions of the standard fast food menu items. Cafeterias in offices, schools, libraries and other public places also tend to offer healthy choices as well as salad bars and other stations where you can make your own healthy salads or sandwiches.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-stick-to-your-healthy-eating-goals.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALi5suvj2uni2eje052XkpmTjpaNiZGKiI2HhIiCgABFY1TRzsbu5t7KxL2dnqLX19fEw8a0tLa9vL/Lys0A0rOO1sGp8urhta+qzc3P4uLixsbGubm5yMjI1tbWAL90ENaqcvbv5qGamOTk5N7e3sDAwLu7u83NzdXV1QC4cRHSp2338OWLh4b4+Pj8+/zm58fGxqrEwafFwqgA66pSyZlI+fDji4SCg4CDiYmNlZSZo6KnsrK0wMDCAMeTOqiCK9rNu2VfXTQuNS8pMichKigiKygiKychLADFnkyrkVrHuKbDtai0qJqiloqIfnZ5cGxvZmV1bWkA8tWz68Oc3cm13tvR29bK1s7Dzsa7ycG4uK6mrqWaAMnCtP388/PiytiujLqagvjv4v3z6Pvx6fnv5/ft5cH6zBwDHTHTAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jan 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-stick-to-your-healthy-eating-goals",
-      "locale": "en",
-      "title": "How to Stick to Your Healthy Eating Goals",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The New Year brings new resolutions and the challenge to stick to them. But how can you make sure you succeed this time? Planning and preparation are key to any endeavor, including sticking to your healthy eating goals in the New Year. Thinking ahead and making a plan will help you avoid pitfalls and stay on track. After all, it\\u2019s not about failing once but rather keeping failure at bay so it doesn\\u2019t creep up again next year.\nMany people struggle with their eating habits because they lack structure or fail to plan ahead. That\\u2019s why creating a strategy is essential if you want to maintain this commitment for good. Whether it\\u2019s going on a diet, cutting out certain foods or reducing your intake of fats, proteins or carbs \\u2013 there are different ways how you can achieve your goals. Here are some helpful tips:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-cooking-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOlxP+NwPqB0TOqUaPK1l++bbs2JFezAQvOUWc9+YADpcT/Me0vZeEfekmrcvaXvhlHBdRrvszjzhVHQjXQA3otn3XhGpXVOyY1m+tG1/N7G8rKK2IVU6pFk1o9lAO51PuV9QOaOXuXNrvHizungz5GvnOOqgruHZMqtkACOfVnfgU/5qHj+37775Mn76NPt2sP81LK5dUy5m34Aymw8cYpt7qR0986j/Nqz/t+++t289Mii5YJR4XM/APB7SuRzQfGFU/29herCkuPKofDElduMXKR0TbKBXQDmbDrey7/v3tTthVT2nF/ZnGzekl7XbTqGTSWUXTQA3mY4spiB5trQ1ntR6bCR7X9Ly2k9t2BX5ndK3IxuAOJpPtZjNeBoOtd9V9ewmel2ROFuPrZVONhnQu1rPsmKupCGl3jwAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-cooking-tips-for-beginners",
-      "locale": "en",
-      "title": "The Best Healthy Cooking Tips for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Have you signed up for a cooking class yet? If not, then now is the perfect time to do so. Learning how to cook healthy food at home is essential. There are so many restaurants around these days that serve really unhealthy food. Even fast food chains have started to add super un-healthy ingredients to their menus in an attempt to capture more customers. Thankfully, there are so many places to learn about the best ways for beginners to start cooking healthy meals at home.\nIf you\\u2019re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-tips-for-keeping-your-hair-healthy-and-strong.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlU2MTUvDQBRF5//jRpAiAbHUhSCFIipUqRhtNiHpY5pxVGwS22nTNp9MImIybwLSduPhrs69XKLi5ZXRmVpPZ8dHdHT3ct0fP9zD2Fx9MKwKgps5fX6cTye3lz3zZjAxR5tP3j09Wb55mEREpRFmW8zW/YvzntEZdA21/tqZzRxlTrAqdiliLOIm35bhOyaRjhcoc/3zTTRqlPluIXPMtnrlZ4tQSqmUatuWBEHAOX8FB6uirQpd/yZJAgCMMaUUKctSCJGmaV3X7R7f9wGAcx6GIWGMzWYzADBN81ALITzPo5Q2TUMO6j9BEADAcDgUQhDHcVzXhT0a9eGcUmpZlm3bf1OiBTK/jJHcAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Aug 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "10-tips-for-keeping-your-hair-healthy-and-strong",
-      "locale": "en",
-      "title": "10 Tips for Keeping Your Hair Healthy and Strong",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping your hair healthy can be a challenge at times, but it's important to keep on top of things in order to prevent any further damage. Whether you have fine and sensitive locks or thick and curly tresses, the right routine will help keep your hair strong and prevent it from breaking under pressure. Keeping your hair strong is an ongoing process, but by adopting some simple tips you can make things much easier on your locks long term.\nLearn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-benefits-of-exercise-and-how-to-get-started.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM3Jxfz7/LyzsoxtXlo3Lm1IO+fl5fHx8+/u8+jn7ABbSUT8+/zc2tuqiHZ8UUBEKiGkmpvr6+3x8fPu7fIAmXVmzrOj4+PluZKCjFZEQigeg3Rw09DY5+bp7+7zALubj4hweM/L1bydiG1HNkcpH4VgVNjKyuzs7u7t8gCXe3BSUFp+cHKxim5/VkrCo47HooivlYzy8vTv7vMANTA2aWx0b213yK2ohFmRza+ldE9ESzFF7+7x7+7zAE9OXtnm+tzZ38KhmNnQ3riSf0coTDcdTKWatefl7QCDUW3DyefAqKWVYFTNsKFzT05NLWUyGj1ALF5idaoAZyFGeXiqoYF3taSqhGx0dGBZkHR1o3VeOSgrVnC8AGKF1Ht7pndngYJyfHOPz8C0uKmBbm1IOUhJbUZenw0irj98VNaCAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jan 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-benefits-of-exercise-and-how-to-get-started",
-      "locale": "en",
-      "title": "The Benefits of Exercise and How to Get Started",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You don\\u2019t have to be an athlete, or even remotely active, to see benefits from exercising. Regular exercise not only makes you feel good, it can also help you live a longer, healthier life.\nWe all know that regular physical activity helps reduce the risk of obesity, hypertension, diabetes and other conditions related to sedentary lifestyles and poor eating habits. These benefits can be seen almost immediately and continue over time with consistent exercise.\nThe many benefits of exercise include: reducing stress, improving your mood and confidence; lowering your risk of heart disease and stroke; strengthening your bones and muscles; improving your balance and coordination; raising your metabolism so you burn more calories at rest; lowering your blood pressure; relieving depression; increasing oxygen to your brain so you think more clearly; increasing endorphins which makes you happier; giving you a healthy glow by improving skin tone and complexion, reducing acne and pimples.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-easy-ways-to-cut-sugar-from-your-diet.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIujxoOky3+kzIWp05Ssz6GjvqK/4Z694Ju536StyAB9fY/AydiGpsuUt92fpcGpZmitW1epeoOni5uucHIAt6uvmZuhz8TD3ODomr3hnr3gqJywp7HLpK3IqsPhAKyhoNDFxM/GxMzQ1arE3Zm42J95hqd4f6uAiq1ycwDFlX7x39zc19fNz9DByc+fweGSncenmMazmLy5kbEA27eq69/a8u3t1tDO2dbZqcfkw2Wg+T6E+jN9+Td/AN7Hv8imlvDo5OPe3qe2x5+62Kx0p9phnNxcmt1hnQDLt7W8opniysLQ0tbB0eJtkLRncoWQipOKp8iPtNoA0Ly5kJWj1MbHkrPWiqvSeJK2YV9p0cjHj4aEia7UAImDjqe40Ieq0Yap0Yqr0oOdwnF9l7zH2I+uz299lsR/zLUYzGCpAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 07 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI6kyIqnznugyoKr1panyKChu6O83J+32pu74aWpwwCAf5C5w9SGpsuVvOKipsCrbXCra2ypd3+mi5usg40AraOnpqas08XC2+Hql77lnbPUrJqrqpuwpKbAqbzZALSnpdnMydjLx7/FzqvF356/4ZiGl6SIk6eRnauAhQDCk4D66uTb2tmxtbrK0Nalx+WPkbirlcC2iau5i6oA3Lao69/b8u3rz8rI3tjZqNDpv2aj/zmB/DF8/D6FANrBuc+vn/Lq6OPe3bO+zZi926h2rNtYl9dXltpblwDRvbm/oJbaxb3a3eC8zuNgibRjcYCKi5CKsdGKu+EA0Lu4mJehv7e8nrzcjq7Tb4yxX1tk1cG6kY2ShaXJAJGJkqq50oap0Iaq0ous0oWew3SAmrzI2pKqxWx9lwdpzPCRWlTiAAAAAElFTkSuQmCC",
+      "imageId": "6ef70111-fbf5-4a5c-eb5f-4da175667300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
       "slug": "10-easy-ways-to-cut-sugar-from-your-diet",
       "locale": "en",
@@ -155,16 +95,76 @@
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-ultimate-guide-to-understanding-and-improving-your-metabolism.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlWNYtJXz/oPV7zsXgNGit10gEowWfFq9h6F+CvvzRyfvsZvft9N54KINQla6D7w0HxjqP/UpYEivZ3328ORdFrN7XGb3tfQe+mk/cNC+L2N0j90cJN00nf3Cuca7LCC5+2a696y1H1hp37PWvitlCJJed9Dk4b1Vd1nMnnnkPnPNfmwY/cw1+4lJ7BPdSJD0nSf7796Yepfb+olV4lOfgqdmcc9Dyp+HVz1UC3weUsowf13S1eMeT/0KX+X3voiofuaR+yKx8Xlk9VOfgtfVUxmSy1l3bJR8pBn6UC34sU3SM+esx1phD2S8HqoFv0hrYUitYmlq4X5qn/7UOulVfu/rkokvsrtexNS+zGx/mdfFEJnDUtGo+HHOho9zNnxZtefTkh0f5m74NH8TiLvzGAD4k6KiS95UJwAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Apr 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIJ3aa+Lbvz3+Pb8/+rw+93n9snX683Z6eXu9+Dm7wB+oUO/4524v8GtoqTV2tfO2dy1q6nEsKnS19rZ3+cAYZYPrq9yrIx9T0chLToac2hRiXREuKp5koZoW1dSAHOaPIuUL6+WiJChjpSfkbq6u6yZbtTNc7vDv7C5wQCHtGtSoADD4Ljl7f/P3ue/1Oiwn3nSxV+4yMu+ztsAgKZdSYMAq8SfzdbnyNTZytznlZOOeGpVlqGqrsHNAI6ShgQFC3J2fcrNzYyJhpSXlZ2Miqh9d7GurrzK0gCxsboAAAhnZXH////k5OTExsatnpaui3yGdm1nYlsA2tLRZ0dDwb7B/P3++vn5////59vb0LW1xLCwpKejAM2xqbeCbvTw8u3q7ufj5tXT2rKdqaqRnMm1vOrn6GJExxczZbzzAAAAAElFTkSuQmCC",
+      "imageId": "9dc52804-9511-48e4-78a7-851385770100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-ultimate-guide-to-understanding-and-improving-your-metabolism",
+      "slug": "how-to-get-in-shape-for-summer-tips-for-every-fitness-level",
       "locale": "en",
-      "title": "The Ultimate Guide to Understanding - And Improving - Your Metabolism",
+      "title": "How to Get in Shape for Summer - Tips for Every Fitness Level",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Your metabolism is essentially the rate at which your body burns calories and converts them into energy. It\\u2019s a process that happens automatically, 24 hours a day, seven days a week, and it has a huge impact on how many calories you burn every day and how much weight you could potentially lose if you change your diet to reflect an exercise program. You see, your metabolism is responsible for burning all the fat in your body. Every single calorie you take in from food is first stored as fat somewhere in your body, and then broken down to be used as energy \\u2013 the very thing that powers everything you do from breathing to blinking. Metabolism has several components that work together to help maintain it:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When summer rolls around, everyone seems to want to look their best. After all, it\\u2019s the season of tank tops, swimsuits, and short shorts. The problem is that not everyone hits the gym year-round or has access to a gym that fits their needs. If you tend to slack on your fitness game once the snow begins falling and leaves start falling from the trees again, now is the time to start making changes so that you\\u2019re ready for summer.\nWhether you\\u2019re looking for ways to get back in shape after a long winter hibernation or just hoping to avoid ending up in an unflattering bathing suit this summer, hitting the gym as often as possible is essential. But what if you don\\u2019t have a gym membership? Or what if you can only commit to working out at home? Luckily we have some great tips for how you can get in shape for summer no matter where you are.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APPe4e7V1+/W2O7U2PDU2PDV2e/V2+7T2OzS1uzR1QDSubTr5O3f3ufl4uvb3+rY3+vd4u3hyM3y1dvs3+EAilVAv77EsdXnr9HhtNTltNTksNHh2MnQ3cK8mIBYAGxAKIN8bqXD163O3q7O3rTQ38HX5djR2JBvRHNCAABnTTiTkpKouMe6yNS5xdGyvMi7w9DTy8+HYzKYZC4Ar6OetrK8wMjTur3HtrnDv8TO093c1c/ZuKCMk207AMGYl9XP2MLL173CzcDF0MnP39DaucHBhM+tsceqpADeurnh3OTS3ezP2ebQ2ufO2eTS3+/L1ay0oFLRrqsA4cDD4NHYyMXPw7rDxLnAy77F0sLGzbTBw6iIwLFgAOLDxt2+wc6trs2sq9W0tdq6u9q5utm5udq7w9G1pprr4AlxoiEBAAAAAElFTkSuQmCC",
+      "imageId": "0be52183-4395-4d6a-d26d-0781e79ae200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-overcome-emotional-eating",
+      "locale": "en",
+      "title": "How to Overcome Emotional Eating",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`An emotional eater is someone who regularly overeats in response to stress, anxiety or other negative emotions. Emotional eating can be a positive thing if it\\u2019t used occasionally as a coping mechanism that helps us deal with negative feelings. However, it becomes a negative habit when it\\u2019t overused to cope with stressors in our lives.\nEmotional eating can be especially common among those suffering from depression or those who have binge-eating disorder. But anyone can be prone to using food as an outlet for stress and other negative emotions, which is why knowing how to overcome emotional eating is so important.\nIf you find yourself regularly turning to food when you\\u2019re feeling stressed out or anxious, read on for some useful tips on how to overcome emotional eating and break the cycle of unhealthy habits that may be sabotaging your health and happiness.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP7+/Tahmg+JhDGQjl6gnk2TkiyGhEKXlHCysLTV0QC0yKcwiYXR1tS90tGVu7p9r66Es7JOlZRBlJNWo6IAl7uoQXp29uzr0c3Lx8LA29jXysrI1eDfqsnIoMrKAGKdk26Sjfr08vr8+e7v6ejp5M3NytbT0czGw8jCwgAnem+js6/69/P49+/89u7++fL+/fn6+vf49/Tm49wAFXJnzc7J8/Tr+/bq+u/l+vHo+fXt///+6+ff29HBAEB/b+nl4fT26Pv05/rw5vry6Pr26////9vUx9/ZzACRm3359fT49+j49Ob28ub59en49+v////NwrHm380AfKGb6O/m9fnq///0///2/f3w+vvw/v32wLen8+fEANDh0Ke/rIqnl4SnnbLKwe7y6P//+vbz57+0ovvmsMRO7A9fXfIwAAAAAElFTkSuQmCC",
+      "imageId": "65098ab5-d452-4adf-eb87-048f7458d800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-make-healthy-eating-easier-with-meal-planning",
+      "locale": "en",
+      "title": "How to Make Healthy Eating Easier with Meal Planning",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Thinking about meal planning sounds like more trouble than it\\u2019s worth. And for many people, it feels that way. We all lead such busy lives and between work, school, family obligations, and social activities, it can feel like there\\u2019s not enough hours in the day to squeeze in planning and prepping meals.\nWe can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you\\u2019re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AN/T0eHU0uDV097U0ebb2JSHhTwuLlNHRtTIxtzQzgDi19Xj19fh19Xq5OLDvbySeXjVq6wkExSNg4Dr394A5drZ5d7b59/d7dnYmnt5t5CA2qmaVDw7b2Bi7+jmAObe3Ozq5sulpZVVVdOqluXNr9Gti+ayiZ9sYr2amgDp5uLv4+GpZmioamXt1bTDqJG1ln3jsHysb0d0QEIA6ujl38PBv4aE7MTC0KSPoXZWpXhVqnJUkFtOpG5wANe2pK9/e76WlZF4djQnKDkhHVkzKE0yMXFKTcqUlwDap4xtOipAJiMfFBEmGRZpPC6DTTkxIB0nHh50TEEA6N/Zsp6Vs5+XSjQuMx4aWTElWjUqQS4rMB4caFROAO3u7fb7+vPs53NPQFgxJGg6KlkyJkcwKjchG5uJhJ9Ypbdncj2bAAAAAElFTkSuQmCC",
+      "imageId": "22ac7cf9-82c8-447d-dfb4-ea02e3c53c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-cope-with-stress-eating",
+      "locale": "en",
+      "title": "How to Cope with Stress Eating",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Stress eating is normal, but it\\u2019t not good for your health or your figure. It can be challenging to avoid stress eating at times, especially when you\\u2019re hungry and stressed out. Luckily, there are many ways to cope with stress eating while also maintaining a healthy diet and lifestyle.\nTo reduce the risk of stress eating in the future, consider setting aside time every day to practice mindfulness. Mindfulness involves present-moment awareness and acknowledging your thoughts and feelings without judgment. Practicing mindfulness helps you become more aware of what you\\u2019re feeling so that you can identify the first signs of stress eating before it gets out of hand.\nIn addition to mindfulness, these strategies will help you cope with stress eating while also reducing its likelihood in the future.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIdrP6aResCyotbPy9nV2d/f6My5oIhgGXJTG5pyDQCjjnXNzNjW1NzV0tjg3uH07OfawJl3VReJZQ73uwIAlHtZ19PW0s/U5OPm8/P1//rv99mielkd0J4D36IFAI1uQ9TNyd7d5NbT2MzJz+rk4v3jt6aALumsAMqQBwBuUi7KvKzT09zJxsvRztPg29v/6sLEn0+/hwDJkwcAfWEgrJmA7e7129nd6Ofq+vn7/+/JxKZyUTQFy5kFAM6+OpmCV+jm7cfFzMjFzff39djFvqiOkW9PEsWTAgDw7FqUezHi3eHd3OHk5Onp3tKzpcby6uyOcD99WAcAnYwYdlgk4drQ/////Pjzv7DN6+z4/v7/ppB2bUwdAHFVJ4NfH86/q////7ehp6CKlLifeph2S3tdNYNfLnWTxleiYL1dAAAAAElFTkSuQmCC",
+      "imageId": "7e918a82-36ac-47ba-02d4-2045b127ca00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-create-a-healthy-grocery-list-on-a-budget",
+      "locale": "en",
+      "title": "How to Create a Healthy Grocery List on a Budget",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re on a tight budget, it can feel like hitting up the grocery store is one of the last things you can afford to do. However, there are ways to make your food dollars go further and still eat well.\nInstead of making weekly trips to multiple stores and markets, plan a shopping day and hit one store at a time. Look for sales in that store before you go and stock up on foods that are good value. You might even consider investing in a membership card or becoming an insider or club member so you get vouchers or other discounts. Adding your own spin on some classic cheap meals will also help you save money without sacrificing nutrition. It just takes some planning and research to make it work!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

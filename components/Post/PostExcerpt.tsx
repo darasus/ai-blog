@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
+import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
 import { BasePost } from '../../types'
 import { Markdown } from '../Markdown'
 import { PostMeta } from './PostMeta'
@@ -11,7 +12,7 @@ interface Props {
 }
 
 export function PostExcerpt({ post, loading = 'lazy' }: Props) {
-  const { createdAt, categoryLocal, title, intro, imageSrc, imageSrcBase64 } =
+  const { createdAt, categoryLocal, title, intro, imageId, imageSrcBase64 } =
     post
 
   return (
@@ -19,8 +20,9 @@ export function PostExcerpt({ post, loading = 'lazy' }: Props) {
       <div className="col-span-1">
         <div className="aspect-square relative">
           <Image
+            loader={cloudflareLoader}
             blurDataURL={imageSrcBase64}
-            src={imageSrc}
+            src={imageId}
             alt={title}
             placeholder="blur"
             fill

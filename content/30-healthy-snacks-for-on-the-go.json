@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/30-healthy-snacks-for-on-the-go.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMvLybi1qLi5tIyFetTT2OfDpue6m9mrj7WRf+fa1QDPxo7Hv4K4snLm6Ozj4ueWYDWBVjlhQCu1kHqzjXoA3dvK3NvC3N7U3tza7e/zoZqag0oggFAwVzEeZT8sALOkdbapfbiultnZ2fXy7PHx8c7JzaWRjGhPQ2NYVwB7blLZzrvjx4rmzZbu48f1w4vq1b7Vysne2uDe3+YArKywnKWJlpuHam1clI2E/Ysg/aM5+qJA77+S7ejqANnb4WpzZVhMFWRSMtyxkPeNQfmnYfSCLvZoFuzj3wDc2+Cvsbd/h35VX0yRlofe1svY1cvnzsDzt5Tp4uIA0tHWoZKMp5iSnJ6dwMjK7O3q8fHx8Ozo3rKc4eDlALq6voZtX659TXlQJ6abit/YzN7Wy8e/tJqPidPS2UvZyGIayUvpAAAAAElFTkSuQmCC",
-  "createdAt": "2021-02-28T10:58:19.507Z",
-  "updatedAt": "2022-10-11T17:17:45.919Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMvLxrSxoLa0ppCKgdHO0PTNru+/ncebgbGNf/Hg2wDQx43GvYC7t4Pt8fXg3eCXYTiUXjhuSjSriHO9mIUA4eLU5ubQ2dfI393a8/f/mZGUbTwWfkwpXDMcUi0ZALOjcrSogLOqk87Myvv27vf8/snHz5+MiGRKPWZZWAB0ZUTazrXw1aLo0Zfq3sH0xJLq0bXbz8/c3ung4uoAqKuupKyVmJqFXF1RmIx//5ou/Joq+qRG8LuN7OnpAODg5WJtYDQtAFdNK9Gif/mUTvW1cvN5KvdrGe3l2gDe3eK2uMGKkoVkbFSdm43h0cjZ4t/nxLHyr47q5uoA0NDVqpmRsJ6cjpGSuMfF8/Xz8PHw9PXy3bil3tncALe3v4hvYKx1Q3ZNJJ+Xi+fh1t/XzMnCt5yUj83M0jjeyGU7iJG/AAAAAElFTkSuQmCC",
+  "imageId": "f3fc982a-c2ee-4f2b-d226-794736f9f700",
+  "createdAt": "2022-11-05T21:57:13.092Z",
+  "updatedAt": "2022-11-05T21:57:13.499Z",
   "categoryLocal": "health",
   "slug": "30-healthy-snacks-for-on-the-go",
   "locale": "en",
@@ -20,151 +20,31 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/10-ways-to-make-your-commute-less-stressful.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlRXLQUvCUAAA4PfvuhckdOmQFHpQSvIndCg8VGiWgVrMRMnKQAutEGZmLaThrIRhbK6cLjftvbft7Rnl+eMDhNIkk5qddy0uud0er8fn8/r9q8EgLzRthwBKbfahnmRSe7HD0G5kO3pwepGvcU99fYiJA3Ln+Y7clXuq3FMVVfsaaH3dGGEELVuFCLiXVxRVU1StI38K/GOjXvuQutrQMBASdQig5WCLvNWrN6XiUWwtkz65PMs0b6+QTXsjNOURsrPhjcDmjK+w4Cm41uNz8VAAW8RACIxNIkkSl42w16kwm9i5i7G5aCWxBTVlbBLwDXGb595LDMZ4OqAptNqV9P6Av4OWAwxo8vdlXWzYDsVkAi3HgObLMyeWmSnrP5CvFLVWldBfTCaYTAil4qvQKR//8x8cI/BG/1FBQwAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Mar 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMq9r86/s8/Ct9HAuM++rtPIe9HUi8KSjcWNi8vBpgCZv7x6tapgtKKYwL7jy8/fz4bVvZHCPmbTfZ7DS20AZ7mlVLWcLauKqdLN6N7fyaWZy5uW0pmb1HmSzXyGAK3Z1XnJuNDm6dzK2N6st82XksmNjMuTj82blNK8qwDN5+pVxazq7vf01OfYlqnPp53YrZjTj5DMi43PiooAh9fLWMmxiNfKx+jq7dfgk5iDvsSYssOlz7+tz6axAGTOuonWyVjQuKjd2ezY4o+TgJebjYqMe8TTxsff8ABly7WA0cJpzLfF4+bo193FzbXn49fRoIa9zsXR4esAz9zi0tzj3ODp6ub049LW2dzV3NW407uH2OTqytHHAODJx+DKyt/Ny+HPztfFvtTaxdDHldC8edHYwb/Dq6Y82b87UBxVAAAAAElFTkSuQmCC",
+      "imageId": "fb0f6b6e-fa47-465e-c6a4-00d9d5305500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-stay-healthy-during-cold-and-flu-season",
+      "locale": "en",
+      "title": "How to Stay Healthy during Cold and Flu Season",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting the flu or a cold is inevitable. In fact, you could get sick around this time every year without fail. The only thing you can do is take precautions and try to avoid catching a bug in the first place. However, even with good intentions and best efforts, the odds are stacked against you. These viruses are so common that virtually everyone has been exposed to them at some point in their lives, generally during childhood.\nThankfully there are ways to reduce your risk of contracting these viruses and being able to recover quickly if they manage to sneak through your defenses. Cold and flu season brings with it stressors like school, work, family obligations and end-of-year deadlines\\u2014not exactly ideal conditions for keeping your immune system strong!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABP0lEQVQYlRXJy0oCURgA4PNUrVrUAwSRCLaJogsl4Ru4aWOrghZSKpWX8VILMSqcRMSiqWm8ZIR00aQoo9GcYcY5c87Mcf7o234IAMKH0fGJyWm3e2rG5fLMLiyvLK2uVet1AEAAcCNVEumjgzgXDEUi0fhpnhfuRHnwSx1AsTin6EZPUQdDQyMMsxG2LMoYte0fAyPvuk/Vcfe713n/qNauKqLQarf6fdXApK3oaGgSBtCuV89Pkql9f45L5zKZplByALqqjlRMbAuSwY15/5gv7/Hyc4uB8b1NHwAohol0Oup+fknpHT4bDInJ7fJuNhWQuC1LlTXCkEbhpSa0CklnBOAAw9B5k2+Pw/J90WSAVHP0eH3RfxJtgCEhGiGqSaXL0jMfI/+N2UP5TG4UbQcwZUNqAUCn2XgtJAxC/wANEPCHHZRJvAAAAABJRU5ErkJggg==",
+      "imageId": "72a5f8ef-40d9-474c-47c3-604d50552000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
       "slug": "10-ways-to-make-your-commute-less-stressful",
       "locale": "en",
       "title": "10 Ways to Make Your Commute Less Stressful",
       "intro": {
         "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think about your daily commute, it probably doesn\\u2019t strike you as being particularly stressful. In fact, many people see their daily drive to work or school as a time for peace and quiet. After all, what could possibly be stressful about getting from point A to point B?\nIt\\u2019s true that your commute isn\\u2019t inherently stressful. In theory, it\\u2019s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/7-exercises-to-lose-weight-in-7-days.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABAUlEQVQYlV2O70uDQBzG728ueuc/ECFBkGNtLD2zBeJoFxHIZj9ET8ciqOXOCr0TtxG9kdDdtlchtyCC58UD3w/P9wPazhRiBjFT3cQIcyPM9SCDmHXHc9VLgTUpVDdpDl4b9nPn7r01jI6vn9rO9AiFF48LgOIKEd4nJSIcEX4Zff8tYEc+lXve7kFHUsz97lDueVLTkhRz7xBKigkG6eoXL8VSnbgSeyD+2jhJTbTs+Hw004NMdROImR5kmk/BLeWf5frqbXliR5pPVffjzGeaT2vCo7VaXmzcjFuTok/Kf6nP49lqlK8bNy9i0whz8QViBhDhD3R5n26Ntmqix9UPAHbqiLeNlp4AAAAASUVORK5CYII=",
-      "createdAt": "Mon May 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "7-exercises-to-lose-weight-in-7-days",
-      "locale": "en",
-      "title": "7 Exercises to Lose Weight in 7 Days",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The beginning of the New Year is a perfect time to focus on healthy habits and get off to a great start. With a strict diet, you will be able to burn fat effectively and efficiently, leading to weight loss in just a week. Exercising regularly not only helps you lose weight but also promotes long-term weight loss by increasing your metabolic rate and maintaining lean body mass.\nReducing fat from the body requires breaking down of fats in the body through physical activities. There are undoubtedly many reasons why people fail at losing weight, but most of them boil down to three simple things: lack of time, motivation, or knowledge. Fortunately, with these simple tricks you can lose weight in 7 days:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-tips-for-keeping-your-hair-healthy-and-strong.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlU2MTUvDQBRF5//jRpAiAbHUhSCFIipUqRhtNiHpY5pxVGwS22nTNp9MImIybwLSduPhrs69XKLi5ZXRmVpPZ8dHdHT3ct0fP9zD2Fx9MKwKgps5fX6cTye3lz3zZjAxR5tP3j09Wb55mEREpRFmW8zW/YvzntEZdA21/tqZzRxlTrAqdiliLOIm35bhOyaRjhcoc/3zTTRqlPluIXPMtnrlZ4tQSqmUatuWBEHAOX8FB6uirQpd/yZJAgCMMaUUKctSCJGmaV3X7R7f9wGAcx6GIWGMzWYzADBN81ALITzPo5Q2TUMO6j9BEADAcDgUQhDHcVzXhT0a9eGcUmpZlm3bf1OiBTK/jJHcAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Aug 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "10-tips-for-keeping-your-hair-healthy-and-strong",
-      "locale": "en",
-      "title": "10 Tips for Keeping Your Hair Healthy and Strong",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping your hair healthy can be a challenge at times, but it's important to keep on top of things in order to prevent any further damage. Whether you have fine and sensitive locks or thick and curly tresses, the right routine will help keep your hair strong and prevent it from breaking under pressure. Keeping your hair strong is an ongoing process, but by adopting some simple tips you can make things much easier on your locks long term.\nLearn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-time-for-self-care-when-youre-busy.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANzb1dPb0+Da09KLZOGBPed7LsqJStOwp+Dc2eLe2gC9wsC8zdC9vMGWgXSgUyusZDiuVTi7p5m4p5K6ta4A0s3Bs7y5pqqpsKeYa1VDelpAs2Iyt4p1saKXta6jAJ+PcLCnlqmfi9fQxOLg3+Pf3NvV0JdxYIV1ZqKRfgC+taOqoIrIxb3Cvrnd2dTe2tfUzMaUd2iEd2fFwLYAura1vbm4ysfK2tjXzse5xL6u1c/Ko45/mJB+w8C2AMOhyMGlx7mivs2/zeLe2uLg393Z1uTl4uDe2tbVzADawuXMs9vBq87a0tfm38/p5d/l4d7v7++zr6pcWFAA3s/H6eHL9vTw8u/n7+bL5+DV6eLZ7uvj8e/uiIJ+APHm1tzIrNbIsdbHs93SxPLu6fb5+Pj4+Pj4+O7m4pBs2zNhG1QXAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Apr 04 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-time-for-self-care-when-youre-busy",
-      "locale": "en",
-      "title": "How to Make Time for Self-Care When You're Busy",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Self-care isn\\u2019t a once-in-a-blue moon thing. It\\u2019s not a luxury you can only afford when life is going your way, and it\\u2019s definitely not something that you should only do when you have time on your hands.\nSelf-care is something we should practice every day; the moment we wake up and the moment we go to bed. In fact, self-care shouldn\\u2019t just be something that you do \\u2013 it needs to become who you are.\nHowever, as most things in life go, self-care can be challenging to integrate into our busy schedules. Whether it\\u2019s because of work obligations, family commitments, schoolwork or any other number of reasons, many of us are left wondering how we can make time for self-care even when everything else in our lives feels like it\\u2019s getting in the way.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-get-your-kids-to-eat-more-vegetables.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIJ3WZdzNqeOZHt8d4GCfXN2cIJ1YcCWcJx+WIKHgwBWPhvCmXmgf1oUFQ4TEw8jJiCac1XPpojGon4xMCgAtXg7yohOt5p/TEY2Jigga2Vgropr99C2sJZ/KS0nAOXCp+GkbdaidKGMc0I+O9PEwraTb9/Aq+PW0kdHRQDjzrXs1LzSrn/r1LdVUEbYy8bdr4jp2NLh1NFxb24AhXpnx7ybyMWQhHpiZFAwx55z38S0zr211bmleG5iAHZ0Z4OaUKW6b4eUb3xiPbaVfKOUja2Yjdysg42FfwCVl4lzilKRqWpoflfAs7HNoITnvafpw6vypF/w1cMAtsOqjJCRe4B8sLW118m+6squ4sy4pLmJmax8y6drALjFvN3e5Ofm6+vq7/Dv9PX09+zm5trZ097n2/n69/zbsiDl6SLfAAAAAElFTkSuQmCC",
-      "createdAt": "Mon May 04 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-get-your-kids-to-eat-more-vegetables",
-      "locale": "en",
-      "title": "How to Get Your Kids to Eat More Vegetables",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Raising kids can be tough, especially when it comes to feeding them right.  In the battle of wills that is feeding your child healthy food, parents are often the losers. Kids have an uncanny ability to detect weakness and exploit it mercilessly, using their cuteness as a weapon of mass destruction until they get what they want.\nHowever, being a parent also gives you some advantages. You know your kid better than anyone else \\u2013 probably even better than they know themselves \\u2013 and you won\\u2019t hesitate to use that knowledge to get them eating veggies once and for all.\nWhether they\\u2019re old enough to understand or not, children need to understand that green leaves are not just something funny that vines climb on. They\\u2019re also packed with vitamins and minerals which will keep your little one healthy if they eat more of them. Here are some tips on how you can do exactly that...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-tips-for-getting-a-good-nights-sleep.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlWMoKK41sIpTN41JL+xOye0IjquNSW3yDC5RN41RN41h0LGMdvbN84usCEmoCYmvC02oD0moic9o9Qop1bGIZ9C3inILLMgs6olJbQqIrgxPqE/IagmMqcos6gFJG9rEmjunBcfVxqW3hCfURiTWBcfVhibW+kVWaJrGMFg5xhvaJvmEl6UVdCVltwZEVxrbp6ibxmiCEYOJbYyRXbKzb15AdGVgTJVXaHFQbHVAdKVPeJmhbRKDsU20oV2CZ3BJSEKNW2BRRGKdb0R5RGKdrlU8WLddvK5VvEdQcWZRV3Zpb3JOe1h8jYt/voljGlRa2zzGyj0zNLE2Oac9Nq05OafdM7hE3zoB5O/6znlLV+/euufUph3HVm882D1ppV9kFdxpAFykbU7d+HefAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Oct 07 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "10-tips-for-getting-a-good-nights-sleep",
-      "locale": "en",
-      "title": "10 Tips for Getting a Good Night's Sleep",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting enough sleep is one of the most important things you can do to take care of yourself. Sleep is when your body and mind repair themselves from the stresses of the day. It\\u2019s also when memories are consolidated and mental performance improves.\nIf you aren\\u2019t getting enough sleep, you might feel stressed or anxious, find it hard to concentrate or solve problems, and be more prone to memory lapses and minor cognitive errors. Not getting enough sleep can also increase your risk of high blood pressure, diabetes, heart disease, stroke, and obesity. The National Institute of Health reports that adults should get about 7-9 hours of sleep each night for optimum health.\nGetting a good night\\u2019s sleep isn\\u2019t always easy. But if you implement these ten tips into your routine you will be on your way to feeling rested and rejuvenated come morning time:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-breakfast-recipes-to-start-your-day.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANvb29vb29vb29jW1MvIwLWsn5mMfIh+bYqDdZiViwDh4+fU2N3e3uDh4+Xk5ufj5ebg4ODW0s3Fu7GpmYoAZG54UF1rilxenWRX1tLY6e3w6uvv6uvv5+nr4uLiAEJKUGNiaYOGjL28v6+4vMa+w8rCxdzd4e3v8+zu8gAiJim0u73Y0sm0rJpbZW92ODqrYmJ4am2ip6ft8PYASkxQ3NfLzr6mf3VreoWM3uLl8Pn98/r83+Xq4OTpABsZGlBQUIN3a1FOT52nr87W3Le8xJCUl29vb+nt8ACIbVtZUUkTFRcTFRcVFxgVGRwZHSAfJiiSkIzv8/gA0cnBk4FxFRUVERMVEhQWExUXFRcYT0lG5eXn7vH3AIBsXCslIBgYGBUVFRETFRMSFSwjIcm9sers7e7w9I6WrbPGEHHmAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Nov 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-breakfast-recipes-to-start-your-day",
-      "locale": "en",
-      "title": "The Best Healthy Breakfast Recipes to Start Your Day",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many people operating on tight schedules, the majority of us skip breakfast. If you find yourself falling into this category, you\\u2019re not alone. In fact, skipping meals is one of the most common diet pitfalls. Skipping a meal or two can lead to an increase in your blood sugar and make it more difficult to lose weight.\nIncorporating healthy breakfasts every day will help keep your metabolism running more efficiently and reduce cravings later on in the day. High-protein breakfasts are especially helpful if you\\u2019re trying to lose weight or build muscle. Here are some great ideas for incorporating healthy breakfasts into your regular routine.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-get-moving-when-you-dont-have-time-for-the-gym.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AE5OLkpLOFJTQG1lKlxXJG9mKVFPJEBAInNpOpyRbgBWVi9AQi1TUSlHSSFiXSZvZzqqlX5qYkpWUylvZzYARkUqREUnX1wpVlQlXVopUEooh1hIsJR9Y18uenM4AENELTk9J1RTJEBBHENFIEhJJKGpocSVgIByO3ZsNgBUVDZMTjJOTyxBQCpTTzFQTTh5orCAbGprd3VlYTcA3dOE4teN49iM5dqQ6N+X2MubaG6DfHR5davLxrtvAMfGXs3JZM7MadXReNrWfoSEdGJeWIBpXj85XcbCbACjl0WmnUi2q1a4sFW/ul6ilmWPi2iMlIFdW2erpl8AgXk+kIVHl4tLopZPpZ1QtK1tq6KTmpBaS0hXZWRZAG5nPHVyQXt1QXx1QYJ7RIuJaHNzVm5rPFFiWjlghak0gFbub8G6AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-get-moving-when-you-dont-have-time-for-the-gym",
-      "locale": "en",
-      "title": "How to Get Moving When You Don't Have Time for the Gym",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year, same old resolutions. If you\\u2019re anything like the majority of people, chances are that you have made the same resolution to get fitter, healthier and happier this year as you did last year. But with a packed work schedule, social calendar and everything else going on in your life it can be difficult to find time to hit the gym or take up that new Zumba class you signed up for last October but never went to again.\nAnd yet so many of us do manage to get moving. Yes, it might involve setting your alarm an hour earlier than usual, waking up on Saturday morning instead of Friday night and putting in some serious dedication \\u2014 but it is possible. So if you\\u2019re struggling to find time for the gym here are some creative ways how you can get moving when you don\\u2019t have time for the gym:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-time-for-yourself-when-you-have-a-busy-schedule.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMK/tWZuTcrQvO7u7KuinIp8c/Dq5fr6+vT29v7+/gCvmYW7qZjn39fs6uiDYlB0WUnLvbL19fXg4+L6+voAs6uks62pwbu33tndhm1hkX50vqiWf3l2m5mYlaytAGlcV2xiXKWfndfS1M7DwH6BjXyOqoiCgEZGRC5WWwBPREFJQDyQjIvPyszJyM9CS2aMkJ54cm8wNDUmQEUAal5gPjc1dHR4eHiFnpecoY+Mool7hnt2mJSRy83PAHpnbcjFyMXEyZ6YoXl9kMOsnXZpZJiJg8fBvOjm5QCPhIGcj4ucj4uajYiMfXmoiXZIPzs7MStNQj9dUk8AX1BKYVJMaFdPaVhQVUQ8cVZGb2FYMyooOS4rOC0qAFJFQGJRSV1MRFdCN1Q5KX1WOLSRemxNOkYvIDYoH2Edno4i+JuEAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jun 03 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-time-for-yourself-when-you-have-a-busy-schedule",
-      "locale": "en",
-      "title": "How to Make Time for Yourself When You Have a Busy Schedule",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you someone who is known to be a selfless person? Do you often place the needs of others before your own? If so, you\\u2019re definitely an amazing person. However, when it comes to your social life and personal interests, do those aspects take a backseat most of the time? Whether you come from a hectic work schedule or have other obligations that require your attention most of the time, being busy all the time can completely suck the life out of you.\nIf that sounds like you, don\\u2019t worry! You aren\\u2019t alone. Many people today find it difficult to carve out some time for themselves. Thankfully, it is possible to balance a busy schedule and make time for yourself. Here are some helpful suggestions on how you can make time for yourself even when you feel like there isn\\u2019t any left in the world.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-easier-with-meal-planning.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP7+/iublRKKhDGOjGCioGukozCKh0mZl12opqXOyQDByaQffnfj5eTI2NeYv71qo6JqoaFCjY1PmppxsK8ArMm7TYN87+/vwsPAq6yp1dXT1tfU8/X1ts/No8zMAGukmHeUj+7u7Pr7+PPx7fTy7tPT0cTEwra2tLCwsAArgXezvLno6OT7+vH69e769PD7+fX6+/j9/fvx6+QAEG9k29zX6urh+vbq+vDm+/Ln+vfv+vv29/Pt1s/BADyAdOLj3vPy5/v05vrw5vry5/r37/z69t/azubf0wCBjWzw7+n7++349OX59eb69ur7+O77+fXHvKz28OAAi6qi/Pvw/Pzs/Pzs+/vt+/vt/Pvw/P31uq6U+/DQAM7ezZq2o4imlYKlnLHJwezx6f3+9f3887utlPnjq/uo7CE7r3xpAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Oct 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-easier-with-meal-planning",
-      "locale": "en",
-      "title": "How to Make Healthy Eating Easier with Meal Planning",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Thinking about meal planning sounds like more trouble than it\\u2019s worth. And for many people, it feels that way. We all lead such busy lives and between work, school, family obligations, and social activities, it can feel like there\\u2019s not enough hours in the day to squeeze in planning and prepping meals.\nWe can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you\\u2019re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

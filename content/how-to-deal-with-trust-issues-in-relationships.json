@@ -1,9 +1,9 @@
 {
   "category": "life",
-  "imageSrc": "/articles/how-to-deal-with-trust-issues-in-relationships.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOexxuCvxt+swuGrwuGrwuKqwuKrwOGqv+GpweGpwQDqxbvp0rzlz8Dl0Mfl0NLl0d3r2eTx4uzWqbjXprsA9OXs+fn79unu8d7k6tfdy7zBva6z4tTZyqaS4bmiAPDb4rCvspKKjYSDhqqZnKGSl8DAwuzg5IVhUMCMewDryM3XyM2vpqmysrTEv8Oem57Ny871w7TckWmzfGEA7tPT+fn70tHUi4qNt7a5lJOWurq+9vP5xJ+T5KKGAOrLxuzo7uno7bCvsrKytLCvssC/xOjn7LappoNXRADhqp+mhHfl5/b29fr29fr28/nz8/fu6+7Ar6lvQiMAnXRnemBJrqKyo4+NwI57sn1op2xZm19Mm19KpWZJALiLenNTOU84N4hlaOWyyOawxuGrwuCovd6mu9mhtorS2AN2HYBnAAAAAElFTkSuQmCC",
-  "createdAt": "2022-09-11T10:43:42.996Z",
-  "updatedAt": "2022-10-11T17:14:16.678Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOeyxeKwwd6rvt2mvN2lvN2lvd2lvN+lveGoweGpwQDrxsDq1cLo08nm083p1tfq1N/y3eny3+jassDVp7kA8+Po8vPy8err8+bq6Nre1MjKvrW53tbZ0bCd5byoAO3b4bW4uo+Eh5SMjqKMkaOWmra1t+HS1YhiUK13ZADqy8/Yy9Cnn6Ksra/HwsWrqazS0dT6ybvVimOvemEA6s7O////19LWn5+hl5iaiIiKrKyv9/X5yKGT4J19AO/RzPPv9Oro7LWztqemqbq5vcXEyfv8/6mko3FFNADboJKsjIPe6Pf////////5+Pny7e7u6em6p51lNhQAoXBffWFKopimrZeXu45/u4d2rXhpoWlan2NRqmlNAMGRgXlbQkcvLI9mZ9qktuOqvuCoveCov9+nvtmht25Q1+gNWBzpAAAAAElFTkSuQmCC",
+  "imageId": "6997cd4c-128c-4af8-7706-d61f76223600",
+  "createdAt": "2022-11-05T21:48:56.899Z",
+  "updatedAt": "2022-11-05T21:48:57.088Z",
   "categoryLocal": "life",
   "slug": "how-to-deal-with-trust-issues-in-relationships",
   "locale": "en",
@@ -20,85 +20,40 @@
   "relatedArticles": [
     {
       "category": "life",
-      "imageSrc": "/articles/what-are-the-benefits-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMGQSMmXUtKiXtmpZd6uauGxbeOybuSybOSybOKrYwDAgzjt4tHx5tbQvqvozKjkwZHfsnnbol/NlFjcpFwAqXQy+Pj22t3l3ODm1dnh4OLm09be0tPc0cO249O7AMWRTPn7+ujq7uHj6dXZ4djb49TX39jb4eXn6YWFhQC6kV36+vrZ3eLU19/f4OfU1+HX2uDe3+bx8/TY1tQA0Kh46+3u6Oru3d7kzM/ZzM/X1Nff7O7y4ePn8ObcANKyivDv8snL1tbX3dPW3tTY3cvO2OPk6PP19+rZxADDm2/j1cfb2t3V1tzHy9PV1tzN0Njc3ePg4ubfxqoApV8SrGYZsW4gvodDzZ9q066GzLak39HE7evn1LSPAJpTDqNdFapmG7JxJbd4LK1rJIFAEZ5ZHLl3Lrl8M9jp2/J95SVxAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Aug 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKuprLCusLSwsbKtrbaursGaiZ10XHFZSF1ZW19dYACysLO3tLW6tba1s7XCt7W3inSQZU+JcF1GQkRKSEkAt7W2vLi6vbi5vbCty7Wlr4hxlmxUr5N2V05FSkhJALq3uL67vMK1trZNTrhiWJ9nWoVaRK2AY4ZDPUtDQwC8ubq/u7zFvby2Sk+6ZlxzQDmOYUyaa1JgDxhOQEEAu7i5wLu8wru7rUtQt2hbXCclhUQ6kGFJZh4iSz9AALu4uL23ucjEwsR6c4EaIEUTFowzMqJIP14eIktBQgC4tba9uLm/u7vIpJ+YU0uee2emR0V7FB5OKSxGRkUAs7CwubO0vL29vIqMrSkumiovcRwhUAwSSSYpRURDAKuprLSvsLWxs9XCwNeamrRgY4c5Pm0oLFQwM0NCQfXwlWTeM8h/AAAAAElFTkSuQmCC",
+      "imageId": "9347ae28-743f-4f97-d313-267a0fc80300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "what-are-the-benefits-of-mediation",
+      "slug": "how-to-get-out-of-a-style-rut",
       "locale": "en",
-      "title": "What Are the Benefits of Mediation?",
+      "title": "How to Get Out of a Style Rut",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The process of mediation is the practice of assisting parties in a conflict to find common ground and reach a mutually agreeable resolution. Mediation isn\\u2019t just for couples who are breaking up or divorcing; it can be useful in resolving disputes with co-workers, business partners, friends or family members.\nMediation is cost-effective and time-efficient, reducing the potential for long legal battles and the financial and emotional costs that go with them. In mediation, an impartial third party called a mediator meets separately with each person involved in the dispute. The mediator does not take sides but helps each person understand the other person\\u2019s point of view and find solutions they can agree on.\nAdditionally, mediation allows you to keep control over your situation by avoiding court and practically ending your dispute faster than going to trial. If you\\u2019re interested in learning more about this resolution process as a way to manage your own conflict or as an advisor if you are working with someone who needs help resolving their dispute, read on. Here we will explore some benefits of mediation:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The risk of falling into a style rut is something we all have to deal with from time to time. It happens to even the most confident and daring of people, so you\\u2019re certainly not alone if you feel like your style is stagnating and you can\\u2019t think of anything new or exciting to wear. Whether it\\u2019s because you haven\\u2019t found a new piece of clothing that excites you in months, or because you just don\\u2019t know what to wear after wearing variations on the same theme for several weeks in a row, everyone gets stuck in a rut now and again. Thankfully there are ways to get out of it and discover a new lease on your personal style once again.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/what-are-the-benefits-of-mediation-for-families.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMW5vczDxtPKzdfN0KGIfJx9ZaSNgdjO0tTLzs3BxQDFs7DWzM/b0tXf19rRw8O5opbUxsff19rCsa5lSjwAtJSG4NHN4NjbsZ6Xo4Fx5N/h497g4t3et6SdRzAjAJVnXc+up+Pc3qyFecegkubh4+bh4+Tf4d3W2WJEOgCMb33QtKvUvb6gc3KihYHi0M/i19LazMXf1teYm6EAiXyR07ytsnx6onuIp7fdtpaXuaigy7Opzru0T259AGVZasm1srh8fp9kbZh2gXNRT9W6qsGqnpiUkxRSawBeUmGXiZmtfnqTWl1tcJawionKtaqznpU4WWVPfY0ANy82XVFgi36VpY2Tm4N7qYV0k3BcYXB4Vk1HlXVmADozQTIsNUdFXEdDWUxLZKN8bltNTxIhME07NnpaTH5LsoIQNwsmAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 15 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKtKy6dJxalHwq9PvbhRtMRYtMtZot5ugPCXe/fDnQCRL66aOrKRNaeVOqicPZGzUnPcgGXrrYXj4efd2+sAgSWbeCOTcyV7jz1ax3NV5Zll97aI3uTuycPQ6aZ6AGYfZno1S6xlTdeYdeCyku3OvO+ld+Ovk/LXxf3V1QCfWkK7imzPy8rAzensy/Pu8//pv6/lo4DgxsLhxL0A76N7r35gvtLT3fL/39DmvJ7P7u/657CM34lT4ZZnAOqjfduQaaqmj+jb8sem2/Dq9vz9//jv7O6odeugbwDknXX2n224jmq5tNb48//u/fLc6dK+3bO8n3LqlWcA7qBw5JNl4JZqt7mWzNWhtq16w5hf05Nf6aN05JFfAPGfZu2ebfGdaOCec+CfdOakie2XaOqSXfWncPCbZDkZydL50BgXAAAAAElFTkSuQmCC",
+      "imageId": "9eaee65b-60b3-4e99-589c-9811114c6a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "what-are-the-benefits-of-mediation-for-families",
+      "slug": "10-easy-tips-for-sticking-to-your-new-years-resolutions",
       "locale": "en",
-      "title": "What Are the Benefits of Mediation for Families?",
+      "title": "10 Easy Tips for Sticking to Your New Year's Resolutions",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is an alternative dispute resolution process. It\\u2019s a way of resolving disputes that is less adversarial than litigation and usually cheaper, faster, and more private than other methods. Mediation is also collaborative as well as neutral. The mediator acts as a neutral party who helps the parties attempt to resolve their dispute in a fair and equitable manner.\nIn mediation, both parties together with their respective attorneys choose from various options to settle the case outside of court. The goal of mediation is to find solutions that are agreeable to both parties. It\\u2019s about finding win-win solutions instead of win-lose outcomes. It\\u2019s about exploring solutions that may not have been considered had the parties not been under the guidance of a mediator who has no stake in either outcome of the dispute other than seeing it resolved amicably and fairly so that everyone walks away feeling like they have gained something from it rather than having given up something they would rather have kept.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New Year\\u2019s resolutions are like a clean slate for the coming year. What you do with that opportunity is up to you. Maybe you resolve to eat healthier, exercise more or reduce stress and anxiety. Maybe you decide to learn a new skill, read more books, help others or travel more. Or maybe your resolution is to do something completely different \\u2014 like learn a language, stop procrastinating or read the complete works of Shakespeare. The possibilities are endless, but sticking to those resolutions can be challenging. The key is establishing habits that will last all 365 days of the year and not just one crazy day in January. It takes small but deliberate changes in everyday life that add up over time and become second nature. Here are 10 easy tips for sticking to your New Year\\u2019s resolutions:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-get-through-a-break-up.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlSXCbUvCQAAA4PvjfgvDIFNoYVppgYalZaKzbYIiA5XI8mUi4rzd6Xa32czMvegmhPTwAFt+caZFBxZc5XmLyrsZt5uXPZX1Ke9/icDDJU999Qjn63Vv2fHX472j7l3Dc5e+bYL9BvvOwtv9Hm6t/1iB7mY1GvSBvVk59tqx1xjjXnfYbLYNg55fpCORFM9WQSBwyjCpaDTJxNJv7/1wOKHrumVZlBhwIgNBqOm6TgiBaDZTtcx9MX6VTdw8HAWZeOwOnJwlszk2GLrWzdVx6LLCi53eeKJoFV5stT9ASWhxjW5nNC+LWoadPnIoL+B8VXni4W22BiRk5Oq40MADuIDEhMRU6I9Cv5FmYm0BujLpQvo5JQPlUEJUQnSIqATJWFb/AM0T9qIelre0AAAAAElFTkSuQmCC",
-      "createdAt": "Tue Apr 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "how-to-get-through-a-break-up",
-      "locale": "en",
-      "title": "How to Get through a Break-Up",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows break-ups are tough. Even if you know the relationship is ending, the final moments can still be filled with pain and heartbreak. However, a breakup doesn\\u2019t need to be final in every sense of the word. In time, you will recover from your failed relationship and move on with your life. Here are some effective ways to make this happen sooner rather than later.\nIf you\\u2019ve recently broken up with your partner or dating partner, it can feel like the end of the world. But it\\u2019s not! A relationship coming to an end does not mean there is something wrong with you or that you aren\\u2019t good enough for anyone or that you will never find love again. Your heart is broken at this moment because you cared deeply about this person - now you just have to understand why and how things went south so that it doesn\\u2019t happen again in your future relationships`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/is-mediation-right-for-me.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFs8N1tIP3pTR1s8N0Q1MVM9OYtNQkU4NXRmZLiuogCAXE9YSDx6UEhbR0c+MS5aR0CHTEdXQjmefWu7sqUAakxLb2JUbkxMfVxXZl9Idl9Sf0dDc2lqmpGSk4uHAGVDP1xRTGxgbVNRXWhmcnddVnM+N4J5d4Z8dJWLgwCERkR8ODN1U1OnjoKQbmOAR0iEPzaPfniVioWfh3QAs6Kar6GYdnZ2tI59p4p4i4qDrJmPfISMfoiOnIFvAIl8an54cViCuKB8aJx2YWaGrol2X193inuOmohvXACHeGZxdn5DbKWBa2WAX0xWdp+EeWpieIl2i5aTg3IApJ6Za5G7QnW2Ql+OPGehUojIr66xXW18Z4WdtLCvAMy8v02Bukl2sjRqsjFps0d1qqy2zK2lnnd7gLmzrkdYiIx0R4FJAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Dec 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "is-mediation-right-for-me",
-      "locale": "en",
-      "title": "Is Mediation Right for Me?",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Mediation is a great way for parties to resolve their disputes in an amicable environment. It is also a less expensive, private and confidential process that can help the parties reach an agreement quickly. While mediation works best when both parties are willing to negotiate and compromise, it does not always work out that way in real life. Some cases require the help of a neutral third-party who can guide the parties towards coming to a settlement agreement based on fair grounds. A neutral third party known as a mediator will not take sides and instead help both parties find common ground so they can reach an agreement without going to court or any other type of resolution process. So if you are involved in a dispute and want to avoid the stress, expense, and time consuming legal proceedings while keeping your relationship with your family members intact then mediation may be right for you\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-to-make-a-long-distance-relationship-work.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APz6+u34+c32+Pz7/Pz7/Pz7/P39/fr8/Pb6+/39/QCl7fOt8fcl6/bQ9vn3/Pzy+vzC9Pg/7vVa7/Y77vYAi+nyr/L3gOPozs7OpufsT9bhH/D3LMTMJ+HpR+33AGLt94Xv98jj5cbExXaxtG+2vkTM02jPzMjFr5zu7QA7nqRxrK9leXlugoV4m6Znl6eMjZjclYmSVkzxzLAAeY2PXo+Vrby+vMrMec3TGr7JfoiOx5aAuYBz4LCiAPv59zLr9Ufu9fP8+975+yvm8q/AyNmwnvvZu/LGowDx+Pg96/S59vrq6urCwsK3x8m/uruHcW3Lm4L73L4AwPH1zfP2/Pv88fHx9fX18O/p8u3h8ebYx6SZ26+TAODRps+vWNS3X9rCatvAaevQd+vThejTkfLo3rKLezn+5EHFW94VAAAAAElFTkSuQmCC",
-      "createdAt": "Tue May 17 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "life",
-      "slug": "how-to-make-a-long-distance-relationship-work",
-      "locale": "en",
-      "title": "How to Make a Long-Distance Relationship Work",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping a relationship going when you\\u2019re in different locations can be challenging, but it doesn\\u2019t have to be impossible. Whether you and your partner are separated by a few states, or even a few continents, there are ways to make things work.\nIf you and your partner both want to make the long-distance relationship work, the two of you need to be willing and committed to making it happen. You will need to put in the effort required to see this through. Fortunately, with some planning and persistence, it is possible for most couples who are separated by distance to continue their relationship.\nPreferably before moving away from each other, you and your partner should have open communication about where your relationship is heading. Are you ready for something serious? Are both of you ready for a long-distance relationship? Do you want the same things? If so, then let\\u2019s get started on how to make a long-distance relationship work!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "life",
-      "imageSrc": "/articles/how-to-make-time-for-your-hobbies.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVQYlRXQbUvCQADA8fvMvQp6Gb6LgijCggoRM509F0ZpTbNcoZlzTIfObbqH2527uz3hBkL4Df6/P0BoYQw1hBbUIwx7FGHfgSF0QmgxTQGjCi/VWuOORCmlHiEWJMrUN2aBY8qne2DC8Z+ZXfmoRFSLMTa94VpbG/18MaTke2cbDLIFPf+g15sMeyELBxeF/vHB9LUah37v+gTIl2XiuN7EpPJ8iXxHUcSrgtltrFYrOuKBLY5jDQdjp8E94pERu7hbPlRfcknk/3FnAPU0/Ue6zxUH7wIaqjGyra879eN2rvSbmU3wdF6S3oSFMqOGHTGaJAketu1u3ew889l9EKlo3Yw9RmgURWmaBlAPbRUKFdguAmq76yFkjQ6CIE3TZRy5vzUoVIhY/Qc0xPzmNFJldwAAAABJRU5ErkJggg==",
-      "createdAt": "Mon Jun 20 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlRXQ3UrCUAAA4POu3fcEBV0FXiURdBOBZtqqQYLYKIaaGjZrmfjbbHMu53aOOz/uT93SEL4n+ACcoclwjBCmmFIH0/mc2bYHd1zTAEq+LhdE9WvgLjyKyQJipuj+DHpTY3B5ApTbUuM42U1eUd1i/lLludL+3mc66zqwenwIeufX00xREyvEhkEYd3OZ98SRJj6Fq7BTTIE+d88gcTST9iYRC+0ftcWlUF/abrdUqQKrp0YmW6qoxhf1Vj+wLYk71Z7T65XffcgCuzkaVmUhx38IFTLSl8i23vJqmR+3pXriAJTvCvLjy6z9HZhOuGDrzQYNJFMWjaZQuzgDZPAbmjigjGLi+34U/3nQoHpnLhesRg4wCxEHU7I78Vw3iuNV4MF22Xq9YR3hH0O1/Qh9d/D7AAAAAElFTkSuQmCC",
+      "imageId": "7509a9a5-8250-463c-406f-d6f490876d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
       "slug": "how-to-make-time-for-your-hobbies",
       "locale": "en",
@@ -110,61 +65,106 @@
     },
     {
       "category": "life",
-      "imageSrc": "/articles/5-ways-to-reduce-stress-during-the-holiday-season.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AO3z/OnDy+KIkOaYnuaco+SKj+SGjeWXneSPk+zp6gDU4NzfbnbUFR3cT1jv7PDz9fnsxcbgY2Lic3Lq2doAup6T1yQs3kVL2Cgv55ug9Pb63k9N5GVi5GBd4Hx7AJ54Z9QVHdw2PtYYH+yus/b4+uFZV+FbWONYVeOGhgC0o42qalLaTFDUe37l5+nh4+XftrbiYmLic3Lr2t4AXmRCfXter8nAsre2urq6oqKipKal3MTK7eju7OzuAEJJIiqKeSGVhzOekeTy8Pz7/OFcYtosMtguNejBxQBQe1YmmIs0nJAmmIue0cv13t/YKjDaMTjaLDLhd30AbG83GIx8JJaII5SHyuHg9fT52TY92iox2CYu46CkADU2FoJQQVR3WaGritfT0uXl8ePU3tyJkeOpr+ba3kBjubAEA/bNAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANzh7K+prYyMiZOTlKSZndLN0uv0/+Dj67i5vKOqtADk6PPHu720mJK6oqC3p6rY1tzu9//2+f7///7d290A2NznsqyvoIiCrZOPqJqZ0tXb2uXwztrm0+Ds5PD5ANnl8ry3t5yNg5iIfq6no9Tc5MXQ28S7vMGklcWvpACrkYjKwsDMvbHEtara2+HF0d65kX2sbEnZrYrksYwAZVJKdV9YoY6Dz8nH1+LxoaatrYh2qGVFo3JUwZl6AF5nW3NoYIFuZ8vM1NTi9aCfpamSibafmquSjJiHhABbZVZ0emvLyMrZ4vLM1uacm599bGeNc2mylomnl5EAh4Z8hIyG2eHw2+X1z9blubGyoZ6ilIWEmIWAp6GiAMfEycrN1OTs/dri8tLY58W9vruvq7u0sriwrry0tP2C0PNFwIT5AAAAAElFTkSuQmCC",
+      "imageId": "03085ac7-014f-4853-db4e-37cfa3865c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "5-ways-to-reduce-stress-during-the-holiday-season",
+      "slug": "5-ways-to-make-your-mornings-easier",
       "locale": "en",
-      "title": "5 Ways to Reduce Stress during the Holiday Season",
+      "title": "5 Ways to Make Your Mornings Easier",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The holidays can bring stress in abundance. There\\u2019s shopping, traveling and entertaining to consider. And that\\u2019s before you even get to the season itself.\nThe holiday season is packed with wonderful traditions like parties and family get-togethers. But it also brings its fair share of stressors, from spending time with extended relatives that you only see once a year to buying gifts for all those people and throwing together an elaborate party that your guests will talk about for years to come.\nFortunately, there are some things you can do to make the season less stressful. Stress is a natural response when we feel like our safety is threatened or our personal space has been invaded. When it comes to the holiday season, however, just about everything invokes stress as a response. So if you want to reduce the stress of this festive time of year, here are five ways you can do so:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You know those people who seem to get out of bed with ease every morning? You know, the people that you see on Instagram and wonder how they\\u2019re so happy so early in the day? Well, we hate to break it to you but those people have their own set of problems. Getting up after a long night is hard for them too; the only difference is that their solutions work.\nThese people have their own rituals and habits when it comes to waking up in the morning. If these folks can do it then why can\\u2019t we? It\\u2019s because some of us are too comfortable, which means we need to shake things up! Do you want to be one of those people who gets out of bed with ease and has a productive day ahead of them? In this blog post, we\\u2019ll tell you 5 ways you can make your mornings easier.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-train-your-dog-not-to-jump-on-people.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANvh2uXq5O7x7PX48/n89vr999nc2dbZ1fr99/n89gDh5+Du8ez1+PP5/Pb6/ff29e68oZaDal7v8+37/vkA5erk8vXv+Pv1+/75sLzDmHprvI16ooV0/Pz3/f35AOjo3PHx6Pr79vT38l5/lDY7OWpRQzo3L+/w6fv++QCpmYizppb5+/H78+GQh3gcMjgfLy5qbWf2+fb4/vkAcF5StJmJx7Oj172mp5F9OUVDXFlM7dW99//38f71ADEmF19CLls/KF4/LG9XRJV3Wq6LaYWMfsP75Lj84ABBNyRZQS51Yk10XEZgTjt1YkuTg3IfMzV0tKas+NcAYmVUZ2FMsLilq5eFj3pmY15SQ1hUGS8xjIyAnta1AHtzatzp4O706bSroM/FvZ6Zkq/Bv7O6uOvh18vWzAwpxnQXxdXbAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jun 22 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKWnoeXl3v7/+YSBeYyCd+bn3v//+/r68WtuaLCzrAC4t7DT08xbZmEjJyFubGXq6eLt+/H49+9QVlC5u7QAuLm1nJ+bFh0YQTUoWlpE9fXq+//79fXuSU9KuruzALm2q5SakiAqJldeW4uVd9XWvODo3+Te1ZiRhouFewA0OjM+WVFaamKecmpwfnGOdWiYkYODfnaGfXNnY1kAFiMhK0pDZXxxdE8+TE09V1tNhn90h4BzUk9IcW1jAHJ1bkddV0FVSFo8M0lORX6EdcfBspKKfDUxJ4R9cAB5fXYWJiIcLjA5PDh6ZkvXxLHr28pvZ1hjWUqllH0AT008DBsZamFOpIBRtYtZdmJMtqSVmIt4uKaPyr+uAH5zXY2GeGmAcHdwVrWRZFZLOKqhlN7UxJ6Ia3tlSCdombp8fLugAAAAAElFTkSuQmCC",
+      "imageId": "ab4e087e-6ecc-4844-224a-041c09cf0000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-train-your-dog-not-to-jump-on-people",
+      "slug": "how-the-pandemic-is-changing-the-way-we-work",
       "locale": "en",
-      "title": "How to Train Your Dog Not to Jump on People",
+      "title": "How the Pandemic Is Changing the Way We Work",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Do you have friends who are scared of dogs? Or perhaps you just don\\u2019t want your dog jumping up on people. Whatever the case, teaching your dog to not jump up on people is an essential skill. It can also be tricky because it requires reading your dog and anticipating their behavior. If they haven\\u2019t jumped yet, will they leap again? Will they creep towards you first or wait for you to move closer first? The answer may be different every time and that\\u2019s why it can feel like a constant guessing game. However, with persistence and patience, you can train your dog to not jump on people.\nIf your dog is prone to jumping, it\\u2019s important to manage that behavior before moving onto this training program. Dogs commonly jump for one of three reasons: They are excited and overstimulated; they want something from you such as food or attention; or they see it as a way of getting nearer to something else (this could be either the person you don\\u2019t want them leaping at or something else nearby).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Time is money, as the saying goes. And when you\\u2019re grappling with pandemic disease and a global outbreak, time spent at work has a whole different set of implications.\nPandemic flu strains have decimated human populations since the first recorded pandemic in 541 AD. Over the centuries, outbreaks have been frequent enough to instill fear in even the most stoic among us.\nToday we face another pandemic threat with the potential to be even more devastating than those which came before it. A highly virulent strain of influenza A virus known as influenza pandemia has begun spreading rapidly throughout much of the world.\nIn many ways, today\\u2019s workplace is very different from that of a century ago. Technology has advanced; office structures are more open and collaborative; and workers are expected to demonstrate self-motivation and flexibility in order to thrive in an ever-changing workplace environment.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/the-benefits-of-mediation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8ElEQVQYlX3OQU6EMAAAwP7/E949Gi9VCVAllCy0UKAVSqHAsqWLJhJvJE2Mm3h1XjBAKWWtreuaECKE0FpLKed5bm+A53mUUowx5zyKIiFEEARVVSGEfN8HYRhmWbbvO41ftNYP93fWWkophNDzPNB1HaPJ5/XcFv5xHDRFQ1fR9E3dgCKBy9hdhsKeW16e5qHt2/rjeon9R0IIkFJOqkyjpzx5/v5aJ1W+s9PQVU3T5HkO+r53zkEIpZToNWCMGWOcc+M4cs5/50IIQgjGGCEUxzHnnDEmhJimCSzL0jSNtXbbtnVdjTHrn+M4gPvXDzUwABYnvZNFAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 29 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACQ5MF5qZmRHPEs0KiozMR0hGxwbEyslHTtAPE00MQAAIxhOYlxmRz1cRzuxlH6Ld2pbXV9OT1Y/Q04rJCkAACYbSldPaUk9c1I7qXpmnnpnd318bnJ4cXR6gYqRABooHEE3KFdNSjpjhB9NlAxKnTd4rKW0v6i1vqOxugBiXVBtXkpDbo4AaMceXLoIa8YAZb5mi6uorKyfrbUAiH1kjH5nJm6rAG7Mao6wRICzAGfET3GMqqGVrrvCAKKtr66di3Z/fwluvxloySBlwhhus5qMfbzCvbW/wACZn6DCqY+wmX9BeKQ/a5M/bI1NeZelkHrFyMHEzs4Aw87O7vDqz9HLdIyYTmp4Q2FvZ4OSramd4ePZ2uTfAOzy7fL28Nfh3mqJm2J+jHSKklt9kKu/xfj99d/o4sX8kKBd0Z7MAAAAAElFTkSuQmCC",
+      "imageId": "b46c4720-0067-4188-4683-f13348c18300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "the-benefits-of-mediation",
+      "slug": "how-to-beat-the-winter-blues",
       "locale": "en",
-      "title": "The Benefits of Mediation",
+      "title": "How to Beat the Winter Blues",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Mediation is an increasingly popular alternative to litigation for resolving disputes outside of court. Parties agree to have a neutral third-party called a mediator act as an intermediary, bringing opposing parties together to resolve their dispute and avoid expensive and time-consuming court proceedings.\nIf you are involved in a lawsuit or other legal conflict, mediation can be beneficial in several ways. It can help you resolve your dispute faster and cheaper than going to trial. Mediation also has the potential to preserve your relationship with the other party after the dispute is resolved, which may prove useful if you anticipate interacting with that person again in the future. Lastly, mediation may give you more control over how your dispute is resolved, as opposed to leaving that up to an unpredictable judge or jury.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The winter blues is a mood disorder that can affect anyone, not just people from northern regions. Symptoms of the winter blues are essentially SAD (seasonal affective disorder) brought on by the shorter days and colder temperatures of winter. If you find yourself feeling blue during the colder months but don\\u2019t necessarily have a reason to be, you might have the winter blues. The good news is that you can combat this feeling with a little help from your friends and some lifestyle changes.\nWhether you have or have had the winter blues in the past, there are ways to boost your spirits when those long, dreary days of January creep up on you like an old friend you don\\u2019t want to see again. Here are some ways to beat those pesky winter blues and get back to your happy self!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "life",
-      "imageSrc": "/articles/how-to-deal-with-a-partner-whos-always-on-social-media.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHgvP310+rf08SYZ+vNpaN8YmlWTzsyMmtgXca1pAD058f58tWng2TGooPEn4mXcGKWf3eJc3i+yuTUz9AA9unJ8+bGt4xrzbGkzresnpmobGl+hpzJqrna3OHtAPnt0eXPorKIZruik2hQRqaTiZGgxJagwbnD28PV8QB5dFi5kFi8mHtvYVhgRze9lm+tp7C0ssHd5PHF2PEARUo9spVdknthhm9VVUAze3Fr1tvp3uDr1OP3xNHjAC80MEZSV1NXUXt4biM3Ry46SK6zy8fX8cDW88jFyABTSDm9mo3Zv7a6sKosPkwtQ2KFl8Gzx+m80vLHvroAf15JYlZYcG5vhH17u6ykSWuUl6zUrMHlr8bsxbWkAElLSx4uOyo8SCE0QjA/UVV0opOu2qC64a3H7OXj3YZPs3QZaxxqAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANWJT9eHSe3CnvTWvOy1iOKjc+vFpO/RtenBnuOiZADWi1HXh0335tn9/vb79/Du4Nr48+Po7eXh0cjdi1EAvG86xHpJ9ene//nq+vDp7Mm39/Dd4uTa2r+x0HdDALiIb8mdhuG7o9/PveLm4NDFsNPQwd29pNu1mNqtjQDe5eHm8/H16uStt6eWy8iazMeaw7zf0sfv9uvk79oA7O3h6ufa6dDBwr66ncPPosDIlrC118G37unf6OTUAM+NY8yeg9u3n9q/q9DFuMi/tNfV0N6+p+HFsNqqhADKdjjRsZfk8+/c4dXl0bnLqpOqv8OoubvA0dTSnnQAr2s73tLG4+3n4vHv2MKxvZ6HvM/Vqri5xdLUzJ9/AItRLJ1uT6yLcci4pq+NdpppSL6WfLGFaqeFbpdpSQJR3Mcd88NkAAAAAElFTkSuQmCC",
+      "imageId": "0816041c-2e97-4872-c1e7-f1a54663c100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "life",
-      "slug": "how-to-deal-with-a-partner-whos-always-on-social-media",
+      "slug": "5-ways-to-save-money-as-a-college-student",
       "locale": "en",
-      "title": "How to Deal with a Partner Who's Always on Social Media",
+      "title": "5 Ways to save Money as a College Student",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`According to recent analysis by Statista, the average millennial spends almost one hour every day on social media. That\\u2019s not just posting pictures and updating our profiles, but also lurking on other people\\u2019s profiles. The rise of dating apps like Tinder, Bumble, and Happn has only hastened this tendency. In fact, an article in Fast Company suggests that millennials are so preoccupied with online dating that they now spend more time on it than on any other leisure activity besides watching TV or listening to music.\nOn top of all this, many couples now meet their partners online \\u2013 a third of marriages in the U.S. start with either partner meeting their future spouse through an online dating site or app. While it\\u2019s easy to feel pressured into signing up for these services if you don\\u2019t have friends who are single and looking for love, being in a relationship with someone who does use them regularly can be challenging at times.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s almost impossible to get through your college years without coming out of it with a heavy price tag. Even if you live at home and keep your expenses low, the cost of tuition, housing, books, and other necessities can easily add up to more than most people make in a year. And that\\u2019s before you even factor in the cost of living as a student. The good news is that there are plenty of ways to save money as a college student. In fact, by planning ahead and making smart financial decisions, you can cut those costs significantly.\n-END-\nThere are so many things to consider when entering the next phase of your life. You'll be faced with many decisions that will impact you for years to come. One of those being where to attend school and what major or program to choose? While it might seem easy on the surface, these factors can have a huge impact on your future career opportunities and success. Read on for some useful tips on how to choose between different colleges and programs as a student...`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AODLjde4kOTcyuLj097ez+Tj1eHf09raz+Tk2dvb0ADsogbnYiz3rY7R0MSOj4mmpqCqqqWsrKeSko+dnZoAsU4F1z4T83ZI39vPfoB8kZCPjY6MiImGmpqXvLy7AHkgBYsUANCah+3x78/QydLVxt7d1MXExcbGwsrJxgDBPhG9jILzv5/s68fw+cPv9671/7vCx6J1dXWhoaAAzGku6TsUoR4AnKVOydp9w9p30eh5qbWBtrW6p6enAIOcOrhgRFpAHhsuEiEsAYGSNM/ivaeqraGhoaOkowCAiTvBsWrHvFrNy5GtrZm3uqv8/f+4t7empqeam5sAmYVCzqMx0Kg4x61i4OLYvLeh3dnP6Onr4N/h6OfpALu2nc3DodLNuNfY2ff59tDNuqecf+He1vb3+fDv8Cjyxv6HutIJAAAAAElFTkSuQmCC",
+      "imageId": "f9dbd2ae-36a2-468f-4526-90b4d623ed00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "5-tips-for-eating-healthy-on-a-budget",
+      "locale": "en",
+      "title": "5 Tips for Eating Healthy on a Budget",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you trying to eat healthier but find that healthy foods are expensive? Are you trying to make a good meal last for several days and not just one? Are you struggling to find affordable, healthy options near your home or work? If so, you\\u2019re not alone. Eating healthy can be expensive and challenging. The cost of healthy food has gone up while the cost of unhealthy food has gone down. But this doesn\\u2019t mean that eating healthy is impossible; it just means we all need to get a little bit more creative.\nEating well on a budget can be challenging, but it isn\\u2019t impossible. Making smart choices about what you buy as well as how you cook your food can make a big difference in how much money you spend on food each month and how healthy your diet is at the same time.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACEZEykaFSITECASDSITDSUUDSkXDxcJBZ1xUZavcQCko5uDpJF1mYV3m4d2mYV5moR7nIV3mYGUrpCOuZUA2efbEKF0AZtsAptrAJlpAJdnAJlpAJhnAJRlAZVpAMrZywmVaQCQYx+edzmphjWngyWhejeohSijfACSZADI2MsHlmoAkGI3q4Zvw6livaBXuJp0xas7rIkAkmQAxtzQApRnAJJlG551RLGOR7GPTLSTQK6MDphtAJJlALGulACQYgmVaVy6nXXGrUKvjWS+oWrBplO2lwCQYgBCNxwAlWcBlGcIl2sLmG0IlWoHlmkLlmsIlWkAkWMAXFozFJRiFZFiE5dqEphsFJluE5luDppuDp1vEpxxAGlJKFqFY2qdf3mwn32vnX+oln6mlI+fio+Tf42Wg1lwf1f2tDo8AAAAAElFTkSuQmCC",
+      "imageId": "c8741de8-1db3-4d07-15c9-37aef4d8b700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "5-ways-to-cut-down-on-screen-time",
+      "locale": "en",
+      "title": "5 Ways to Cut down on Screen Time",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The digital age has brought with it a whole host of new issues that parents need to navigate. From concerns over online safety to the amount of time kids spend looking at screens, digital parenting presents its own unique set of challenges.\nAs technology continues to advance, so do the ways in which our kids can interact with it. From tablets and smart TVs to smartphones and video games, it seems as though there are more screens than ever before. This is especially true for younger children who have grown up with these devices as a normal part of their everyday life.\nThe pros and cons of screen time for kids can be debated endlessly but at the end of the day, your child will likely spend a lot of their time consuming some form of media in one way or another. As their parent, it\\u2019s important that you understand the benefits and risks associated with screen time so that you can make informed decisions about how much exposure they receive on a regular basis.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "life",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOrv2V9OMSocDh0fGllPNkVALgAAAIh/cPX38ufr5QDMvrBALB82BgBXBACgLReVHQ6cMCfVNCXzr6bp+fUAwpWR3jAg71pM/oJ3/5CG/6yk/8zH/ndr75KD7f/8AMulleiIZPuglvm0r/etp/WzrvfIxu2totelhPLw5gDHp5Hgn3j0rKL7urT5zsr6wbv7wb3znpXael3w6NkAq5SD41U3/oN7+K6n+rq0+sfD+c3I/9fT6kQ16N/aAKCQYcdKKP+RiffAuvetpvenoPi1r/3u7ftzZfjW0gCOe0+rQCv/l4/7/fz7qaD6rKP7qZ33ta71UEL3z8kApaaTs25r+0Ax94F39HBr73h96X+P5XuW5Za39O/xANLZ0reLlM5kb9uClOelwOenz+u13eWx29q61PX19SMdxMwKoU4EAAAAAElFTkSuQmCC",
+      "imageId": "a79a04a4-5f0a-4633-c373-bd807ed4ee00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "life",
+      "slug": "how-to-deal-with-envy-in-relationships",
+      "locale": "en",
+      "title": "How to Deal with Envy in Relationships",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Being in a new relationship is exciting and often feels like a whirlwind. You spend time getting to know each other and spending time together as much as possible. But things can change once you enter a committed relationship or get married. Stressors from work, family, friends and other responsibilities may arise, putting stress on your relationship. This is when green-eyed monster envy creeps in and can have a negative impact on your partner.\nThere are many different types of relationships: friendships, casual dating or serious partners. Regardless of what type of relationships you have with another person, envy probably won\\u2019t be far behind if they are important to you. Envy is one of the seven deadly sins for good reason. When we experience envy in a relationship it creates distrust, resentment and can ultimately end things prematurely before they even really begin. However, there are ways to deal with this feeling so that it doesn\\u2019t get the better of you.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

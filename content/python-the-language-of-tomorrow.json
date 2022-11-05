@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/python-the-language-of-tomorrow.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWPQlma2UmFy1WHyNWAOMmYKNGL20WNx0GA2UWBWlWBmsNdiCbFgSXdhKvJhLvVlKfVlyfFgirNn9jZiMVNlYgg0Z831ZmqPZZ2czDI9lWVaCnNXHFNlIHOyC7ObPjPDlBaftVN917Sqb2+VX53PvLqIZV42S08CS5EfS7gNM8PaBckL6nSuHSne3Sqzu5FnZy3vlmbJhWXiTfECiW7cDBnefA2hLHtmue3t1728OfnajvTLO7MPLE9YMSm4pdiBIcCMOc2ZuciHucyfo8KXtTpcMN+HO86ONcCM2U4T5vJUV6Y8L6ZSf8ZSf+YsD5YYB2ZvYyYzVRYGbWlma1VmVx0mP0MmsL8ZvfSZHLWYTBSY1cSZGaT5mVXFmPRkQHwLJRAylmfRlmZWFGGS4GcCACEeTYttyCv1AAAAAElFTkSuQmCC",
-  "createdAt": "2021-09-17T11:12:40.276Z",
-  "updatedAt": "2022-10-11T17:15:27.984Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPQlma2VGF21WH2NWQONGIOMGL21mN21GA2UWRWFWdmcNBmCbVgTXdlK/JhLfFhKfFhzvFgibVj9TZkMVNhZvAxYshyY2yNYJqSyDIzjXVaCmtPPFtVMFuyC5ubAQvDzK7AnYuj1nfobGuVWZ3HsKqQeWEOU38iU4k/Y5gNM8O6RenLWkxvHC49MllvZ53Anlapra3yS6rkuzNlU7wFGTJ8+BtC2bf2mu7o0Li+K+fSxpgLO7L2r0xePTW0KsOUwd+UOcuDvdCDsTKAu8qfrTqIs8ifN9aWxdeIwVaDicFOiyXYkiXNnTXPi7ksgLnEjznTlSnOkcXLmMVUlYVBR4bZSpXZXZfJz4g52ASEfAyYnbSYTZWY1SSYGaQFmNXEmfVlmEwVmCyUQMhYnklHillJhFmSjxkAlYRON1dp/hwAAAAASUVORK5CYII=",
+  "imageId": "88c30a3e-c229-4e88-fc59-f0d81fb7ce00",
+  "createdAt": "2022-11-05T21:51:40.260Z",
+  "updatedAt": "2022-11-05T21:51:40.540Z",
   "categoryLocal": "coding",
   "slug": "python-the-language-of-tomorrow",
   "locale": "en",
@@ -20,55 +20,100 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABH0lEQVQYlV3PPUrDYAAA0O8ygoMOungCV3EQNw8gLmYRBA8QNGRQLP6EoKZVSpVKTDG2djC0Rkya1MaGUio2+f6TqD2CYKGD85seKNdZySTFB7JhBvMX9lLJWTf8bdNbuXZ26gFwOmk7ZL0PPogxxhQhAiF+739OnVjT568gy745SycQRwhCDCFeUK0Z7Y8p4c2GfVvWZVmWJAlCjBBZLb7M5h2QZF+cpa7j6bqh60Y+f3mwf3h8dLp5584VPFAxLUVRBEEQxV1VPdO0gmlWWy1/77G9eOMB14dh2OMs5SxlNGE0QYhQwq/s7lolAF53xFlKCf/HT53+Vu0NNN1RkmQY0wmPF4MhWs7dg+rzz5gZTSjhEOJoCOMIIUTEXO0XXKzp4df7nt0AAAAASUVORK5CYII=",
-      "createdAt": "Fri May 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMy+Sc/Jm9LQ2dzh9eHn8N7j5drd4Nrd4dnd4tnc4QDlqQDGgQDWvB3XxF3MwKbV0Nja3O3a3+rc4OLY290AvHkKtn8Fz+YWpegnrs4rsr9GvbRpwrSkxMHV1dnsAPyhD///AJ/WLDaYSnqxQH62Q6zHIPPiANjDIrmlXAD+ngj//wHf9RjE9i3W/jbQ8zTj5CL//wna2QFpVAAAxfY3ruhI0fMtX+WJEs67gOtq625c7FSPxoc3SUMBAJO/PFulU7PgOTjLngCqvGXDfc0+ZZYAe+mqL19WAgDC+0nX9yv2/xTM+jWo5U3Z9i391B/4tDX/9RLGtgIAWfqp69UJpaQ9z80l89AE8MkBpZkN7ucO//8Dk4oEANDwKf/7AN3PDqecM4iLSaSfFOzbA/bbCf//BtnSBDlbttajoIKxAAAAAElFTkSuQmCC",
+      "imageId": "9329f620-c8ad-4ddd-b399-e58acf735e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-find-the-best-coding-help-online",
+      "slug": "the-best-coding-languages-to-learn",
       "locale": "en",
-      "title": "How to Find the Best Coding Help Online",
+      "title": "The Best Coding Languages to Learn",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that finding help with computer coding is one of the fastest growing online industries? Did you also know that there\\u2019s an abundance of websites out there where you can find that very same coding help? With so many places to look for coding assistance, it makes sense why there are so many professionals who can\\u2019t seem to find the best options. But don\\u2019t worry! There are plenty of great resources out there if you know where to look.\nIn this blog post, we\\u2019ll be exploring some of the most effective places online to find the best coder helpers. These platforms make it easy for coders to connect and collaborate while also enabling companies and individuals to find top-notch virtual assistants when they need them most. So what are you waiting for? Keep reading and discover your new favorite places to get coding help today!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-software-engineering.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8ElEQVQYlWWPu07DMABF/W98CiMsiJmVBYkPAbaKCpAKQSKhxKqtJLVN4qTk0dKKUMXBOA+IJQRDU4kz3qMzXKC1LoqiaRopZVmWdV0rpaSUSqmqqoDWmhCCELIsK0kSB08MwwiCAELoed6v3pDiSwZHzVuwWUCe54QQSuk8dHx0F5gXn2K9pUMvuh/my7laPSfUjOyBiDHnnDHm+z4YHO+fHx3S6zPxYofwakbsFYd9bRzs3JzsOePHd27O8Chl48X0llI6/QO4p7ux+9S2rYhxPBlG7sPiNevrCJndd6e1bkXWiqwT6dfHstfbx/7zA+hRCbdBTHpqAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Mar 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOXv+efz/N3o8dDa5Nnj783b5dLi7Mze6dDk8LzR3QDX5Ozh6vTP2eLH0dnS3Oa8x9DQ4OrM3efK3OjA1eEA4e/54v//7PL4pKqysbnBsrrCtb/IrrrEn6y2mqiyAOXu+Km6wqOosbO5wrrCysXO2MHM1rO9x6azvJekrgC8w80NCxBUT1T4///y/P/o8vva5e/g7fjb6/bQ4u4AytPZg2FbtZaVzdji2OLt7fj/5O/35/T/4e/83e79AIS+646Nob+zu3WDko6dqpilsYCPl6W2wNbs+9nw/wBUmNdRj8zKxs3WzNHDxNAhHyMACggsQUTQ1+HS4OwAYKvqS4jHXn6qq5OTpIWBb2NpNTc9a2pu0b2/yLi6AGaLzUSMz1uV3JOTq4qQqbuamLKjpsi4t867vMu4utVp2mf9j5cAAAAAAElFTkSuQmCC",
+      "imageId": "48b60557-9e24-4f4f-fb4e-3e7a7a871a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-benefits-of-software-engineering",
+      "slug": "the-benefits-of-learning-to-code",
       "locale": "en",
-      "title": "The Benefits of Software Engineering",
+      "title": "The Benefits of Learning to Code",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software engineering is the discipline of programming and designing software, as well as documenting and testing it to ensure that it meets user needs and functions correctly. Software engineering is a broad field that includes several sub-disciplines. Each of these areas has its own unique set of responsibilities and tasks. As an engineer, you might specialize in one or more of these disciplines, but regardless of your area of focus, every software engineer must have a solid understanding of all the different aspects in order to be successful in this exciting career. In this article, we\\u2019ll explore some of the many benefits of software engineering. If you\\u2019re reading this thinking \\u201CIs this article for me?\\u201D keep reading! Whether you are new to the industry or just looking for some additional information to increase your knowledge even more, read on to discover why software engineering might be a great career choice for you.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-graphql-in-your-next-project-a-beginners-guide.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA1UlEQVQYlV2PO6vCQBCF9x+Ldtb+B1HQQsHW2wgiNtoIYiNaiY8oJpg1PjfJ7uzMrlyWBEWnmjkfcziH2e/h43hTv8sTZid7A+0nMpLzQrgoc6/5/GCQGgBBamtt0BfLChc75RQABoPzC4y1FhUaypfs1ZBhur6nli8jXDcuu/aVj+OgJ6JJcpmm6+qVQc2jjo8JbVu388yx49/D69zDURL0BdNDrmPnBpCbgyACyhQXDRFlCmk3FM0AFapNDMKF/Sp2KO1XxS1JNNp5/PY2imyaZ37jfwknFvm9xdS4AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jun 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJdxE6F6HqV8KK6GL7CHM7CHM7CHMKh/KJtzIpRtGACYchu1nxS4nx23lC7DoTC5lDTAoya8ly+vjSWmhRsAm3MinI4QlooQrKEPmJENsaAgnI8UlY0MmZEJmZIIAK6QG6OAKqSCMqqPL56ILMmnRq6TM6OGL5d2K4ttHgCYkAmonBGnlhq7rRe3qRymliCqoBWyoxmomRWwpQ4Ajm8chXAZinkZnIscloQioocznIMsi3YiiHQagW0UAKV/Ia+GLbKPMLOQNc2gSteoTs6hR8OXQbWKNaJ5JwCgeB2nhSCzrQaplh29piLHqS/Cl0K6kTevhy2feSIAlm4XoIQWkH0UlIEXi30QqYwlt4s4rIQuonkll3EbAJVuEIhpEpZzHJ13JJ54KaZ+LKmBKqB5JJhxHI5pFKgEg7mIfkr9AAAAAElFTkSuQmCC",
+      "imageId": "5d050e77-36a3-4159-fc42-2321bc6f3300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-use-graphql-in-your-next-project-a-beginners-guide",
+      "slug": "python-a-language-for-the-masses",
       "locale": "en",
-      "title": "How to Use GraphQL in Your Next Project: A Beginner's Guide",
+      "title": "Python - A Language for the Masses",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What if your data didn\\u2019t have walls? What if it could respond to exactly what you need and nothing more? What if it could directly give you what you wanted instead of forcing you to ask for it in complicated, roundabout ways? Most importantly, what if your users could see everything about your site at once \\u2013 and find what they need easily?\nThis is the promise of GraphQL. It\\u2019s an alternative to REST APIs that opens up entire datasets instead of just individual endpoints. That means that instead of asking for data about users, their profile, or their account separately \\u2014 as though each piece was in its own locked room \\u2014 you can ask for Users> and get back every user on the site at once with no additional steps or roadblocks. Users> . . . and Profile> . . . and Account> \\u2013 all unlocked at once. And while that sounds like a lot more work, it actually means less work overall because the dataset is so much smaller and simpler than with traditional APIs.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python is a general-purpose programming language that was created in 1991. It\\u2019s easy to read and understand and has a much simpler syntax than other programming languages such as C or Java. Its simple syntax, readability, and general ease of use have made Python an extremely popular choice for new programmers. According to the census of programming languages from PYPL, Python is the third most widely used programming language globally with a usage of about 20%. Furthermore, Python was also identified as one of the top 10 fastest growing computer languages. This post will explain why you should learn Python, teach you everything you need to know about this wonderful coding language, and provide some resources for getting started. So keep reading to discover more about this awesome programming\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-choice.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWPoLWFry2XrLWFzsmDdPIUtO5JtZj1bUzabvSlLZQorAysrc0MWS0kCp68jT3U6X140Z1Uaf3E8m7cdc1UqG0iah5tJWFjY2tpaQ0PDwsJCXl6eiYmJi4OJl4eFgRkbYGNjY2ZmZmJiYgj1tjA3UhEXFeTg4GAHg6hQ7+aq7KqiTBsrC4aCrKjspEAfZ0NDHQU+Pj5RYaHG2jxrS3MXZ5uMpFgGVxfbIH/3jKQgT2c9GWlRCQmJ/q46HR0dERERKQkxBltrA11tdU8P+6K8WG9XUztL3eKcmJiYGDk5OQEBAYasZLfIUAcLc0MbK7PsjLiWupzEmAAVFRVeXl5RUVGG7JSQuHC7wmzvyHAPU2NDe1sbW1tbAwMDHR0dVVVVAI56P477AMeGAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jun 13 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPw8/Pz9fUVERVRVlEWFRURFBSUkZEpLCz08/PT1tZmKCoqKi0tqa6pKymrnTJtZm5ujp2dbV9f75QpU1pbWxm4uDglJKVMjDRjgwwCXM15eHjZOThY2djExMSkpKQYmJmZmJhYuDkZ40NVZzYHqytJykgIyUgKMTMzMTAwMLCwMDMyMivJCLZU+u7dnr9gksPiqQ7dlQbJgYr8vBwgFTJS/MVpzvOmBJ7YE7J1nfX6VcatVXr1ufYpEToMDAxMkuJcq+Z5zZ4Yunhq5txJBdN7c2qKvNYv8g0LkAMZzsDAEBEqtneb3Y51DrvWWhzd47xxudaUPkkJcWYGVlZWDQ0NUTFZNTV5ezvJgnyriHAlM1MZWVk5RUVVkHRYWFhWVmZUVJSLi7eLi19gYHRcXFJ6elpQUCAAhJhTZ19iuCIAAAAASUVORK5CYII=",
+      "imageId": "f5326606-5171-4cb6-eb8a-b5572073c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-an-introduction",
+      "locale": "en",
+      "title": "Python - An Introduction",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEJQVkZEO8p2HtzFpNHFsNWoc9eRRdmCI9l0CdlwAQBVZGpTRjnbhzDm5dvB09vK2d3N2tzOzcPUwKjSqn8ASlxni1sp+KlR9v7/ztfWvMXE1d7dxdDSx9Xa0uDmAEhTVsR5J/a6c+z4/Nbg4NLc3cLMy73FxcLJx8HHxQBsYU7xmy72y5na6fC4wsDP2dnDzc3BysmwuLfO1tYAf2VIx3Il+ty5+v//8Pv5ytfZusbIuMHAvcrJ2OfnALGTX5NKI/Xm0tDh6OHu793r7dDf4dDa3OXw8Nz9/ADJmlOLVj/89uvS4+nW5ejc7PHg7/Pj8fPt/P3RxsMA0Y5EnoN//f//5vn96Pf96Pf75PP33+3w+v//uJKNANSUSIllWObDmtfNweTt8On5/ur6/un5/Pb//5ldWgv73L/rlOtqAAAAAElFTkSuQmCC",
+      "imageId": "ef314a5a-e3bc-472b-22ed-ac55e6718a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "how-to-code-like-a-pro",
+      "locale": "en",
+      "title": "How to Code like a Pro",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Whether you\\u2019re just starting out or have been coding for years, there will always be new things to learn and ways to grow as a programmer. Finding that next challenge can seem challenging at first, but once you understand your strengths, it becomes much easier.\nCoding like a pro is not an easy task. The world of programming has lots of competition, so developers need to stand out from the crowd if they want to succeed and thrive in this industry.\nUnfortunately, there are too many coders who don\\u2019t know how to code like a pro \\u2013 which means that these programmers aren\\u2019t able to reach their potential or get jobs in companies where they can continue their growth as software engineers.\nThat doesn\\u2019t mean that these coders are bad or won\\u2019t ever be good programmers; it just means that they have some areas that they could improve on right now. If you want to know how you can code like a pro, keep reading our blog post.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABAUlEQVQYlWWQy07DMBRE/f8b+AYQbJCQWAASqELQFvKA1iFNnXftUpdVHDdR2jS1ryGwQeJsjzQzGhQv6PHp+eX9oKprDaCU0n9ARydn1hSbfwBAr1PGtNYky/MVT9iScs74mnJebDa9NsYclPLC6C0gN09Dx/eDJMUkfA2IMQZdD0fzLCf5YkoiZxa4s2AyJ36cXD08TkiIvCi+HY2f8Ttdf2YfPKLs4m4wxp4XxRFlffiu3Wut921bCiFLURbFbrv9XYeCNE+Xq4NSUkrLsl4sy3VdQvpipRQqNxUAGGOEELZtY4xt23Ych1Laa/i5AgC6rqvrumkaIURVVVLKb/0FDrcM+s/4/JIAAAAASUVORK5CYII=",
+      "imageId": "bd84ccfc-78cd-42a6-0072-2f84bbbd3800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-top-software-engineering-trends",
+      "locale": "en",
+      "title": "The Top Software Engineering Trends",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlWNoyWWbUM7eX8YW4sK0tJ2lPZ9lchVbQxaHqxVLax4bg6o8S1UKS122UGaMbGW61OQamYYc0awI9hA31mnVbAzsbMxsrAyc3MJauqYycurqWmYiYnIMDAzsbEwCfCwMzFDAxAAGjGDEycbMzsYK4of4WBjpKIiLCnBygQALC2uAj2N7fWFZQbq9nSVDZVFCcVa4v5uRmrIkJyeXsqJ0VUm6s5Oji5NtXmYig7mpUUiQV05aSHiAuYgwn5CQQGtjmZmZGRsbm6SEOIOttb6qsoKLi21VaXJEkIOlsUp7Y2FKcpKoqKiAgABDbppHQoyLna2JlaVZVkZsWV5MWkKIpoYmFxeXiIgIQ0ZiYEqsY06ah5+3nZGRgbOTo421lba2to6OjpqaGgCXoEBeX6ZSZwAAAABJRU5ErkJggg==",
+      "imageId": "1936a5b0-8c0c-4332-df95-2580a6bd3100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "python-the-language-of-choice",
       "locale": "en",
@@ -80,91 +125,46 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-practices-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABM0lEQVQYlT2NPU/CQABA7w+5+CdcnExcnY2TC84OTho3Y1hMHMCvYMRENE1kgCBoP2hTaGn1LkVooXJtbY9+cD0Gw+L48l7ygCBqbV5t86o1ciXF4KVBsyWrGurw2oegA820Jv6vG4SOG8DR1IR2syX3B5Yom0LXAJYz0+G4Z1iKjmQNKjrqiLrQNSQVirIJejHGJCSURVkeZXmYUj9O/Th1A+LgEFy0msZ0SCirca9vH+JjjdORRSjz5ok3T8BBsTjGdpTlyJ50JKX69MLVG4QyTOKyjcDe6XEc4f4nurq7L91WbioPl6XrKMtNe7rLVUHh5Cgmwf+bUOZ4KxwH0dp7BZyXikmS0O8CHe4v7MP05yyZlVeRH+1MRNBQ6iRbMLS9/NpYDtYZ3Mzh1krj8Nlz/gAVGPoEclahQAAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Mar 31 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AAgJExESFVVWFFVWFlZXF0JCF09QFUxNEwoKFAkJEABGRxRGRxhpahd5ehdtbhlXWBpvcRZmZxY9PhU1NRMAU1QYY2UbXV4dVVYeVFUfSkogW1ocXmAZU1QYVFUVABYXHxscJB0eKCAgKhkbLG1jIl5WIhYYJhYXIBAQGQAiIyImKCkpKixMSik4Oi9kXSI1NSglKCsjJCQdHhwAJCQkKSUiUEwl17oGsZkLZmkvLjY4KiUiJCUlHh8eACQhHypKWimCtHKaaWWYdx+GyhWC2SRPbyUjIB8gIAAiKDK4zNLj9OvR5ujT6Ova6eHn9+q0xL0iIiIfHx8AHyUupq+10dPLyczFy83Fx8vF0NPPo6ajHyAhHR4eAB0dHR0jLiEoNiIoNSIoNSEoNSEoNiEmMh4fHxkbGsc3WJcxcDFdAAAAAElFTkSuQmCC",
+      "imageId": "0dcc087f-8983-4615-9ec7-488318e53500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-practices-for-beginners",
+      "slug": "python-the-beginners-guide",
       "locale": "en",
-      "title": "The Best Coding Practices for Beginners",
+      "title": "Python - The Beginner's Guide",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you take your first coding class, you\\u2019ll quickly realize just how much thought goes into writing code. From naming conventions to formatting standards, there are a ton of rules and best practices that experienced programmers follow to make sure their code is clean and easy to read by others. This can feel overwhelming at first. It might seem like there are a million things you need to know before you even get started on your first coding project. However, trust us \\u2013 it\\u2019s not as scary as it may seem! Following coding best practices will not only help you get through future programming classes more easily but also prepare you for a career in software development. In this blog post, we\\u2019ll explore some of the most important best practices for beginners who are learning to code.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Looking for a way to start your career as a software engineer or data scientist? Learning Python can help you land that dream job. The demand for Python programmers has grown tremendously in recent years, and this trend shows no sign of abating. A recent study by analytics firm Oplesky found that demand for Python developers rose by nearly 50 percent between 2016 and 2017. That\\u2019s why learning how to code in Python is so important right now. This beginner's guide will teach you everything you need to know about this versatile programming language, including basic syntax, data types, operators, variables, strings, lists and dictionaries, functions, modules and objects. If you are an aspiring software engineer or data scientist interested in learning how to code in Python fast so that you can get a job faster or advance your career further as an intermediate programmer with this skill set than keep reading!\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-system-automation.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA40lEQVQYlWP484wZgn4/x8JggLB+PGFuq+I6vJn96Ba2g5s4Xl+HqoBKf7nH8vQS65RO7sNbWC/sY31+lRVFGmraM9bNC42vHVX9+YwTKr1oCueZPeyXD7Kd3s12Zg/n0smqK2fz3TnFducU24V9rAxvbzHP6OZct4Dj1E72Uzs5u6pVz+9l27CYY+967r1r2EGGf3vIdPskG8Sp53fzIVvH8Pku89IZ3FuXcd46znphH/vd0+wHNnCe3ctxZAvHt4csDB/usDy7DLL48kGO2ydB5IV97FcOgdDPpywgw+HhgIkADwiqiadH1TAAAAAASUVORK5CYII=",
-      "createdAt": "Mon Feb 15 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJ6eoJ6eoKamqKipqq6vsbGxr97e3NnY1tbV087OzACmp6mmpqirq629vsCkpKTMzczw7+3r6efg393l5eMAq6uts7O0ysrMrK6ww7+49u3hoqSliouM5ubkaWppAKurrcHBw7+9vLyxpbSgja+Sd4OCgGtub6+vryQlKAC8vL+6uLuZmJWYgGqGaVF3X0y4n4iqn5QeISTAwb4AsrO1lZSUU1ZYMSkkclhDhGhTYEk4d2lcl5iW19fWAJGQkbm5t1teXx4gImBaVl5NQHFnX6GioO/u7OLi4QCenp319PNyc3UiJSjU1dTIyMUwMTRAQUTu7u3g4OAA2NjX7uztycnIvLy77u7u9fT0nZ6dlJWU5ubl39/fAOLh4eXk5O7s7fLw8evr6+rp6vDu7uvq6uDg4N3d3KHOx3QJKtjMAAAAAElFTkSuQmCC",
+      "imageId": "1f6d62fb-c310-4cfa-e8d6-424ea30ef300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-system-automation",
+      "slug": "the-secrets-of-great-coders",
       "locale": "en",
-      "title": "Python - The Language for System Automation",
+      "title": "The Secrets of Great Coders",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Automating tasks is a way of making your life easier. Imagine this, you need to run a report every day and it takes 5 minutes each time. You could either set an alarm and rush back to the desk in 5 minutes or create a script to automate this process. The latter leaves more time for you to focus on more important things. What if you could automate even the simplest tasks? Wouldn\\u2019t it free up your time for better things? That\\u2019s where Python comes into play. As an automation scripting language, it can help you automate even the simplest of tasks and free up more time for work that matters. Automation helps businesses in many ways. It saves time, increases efficiency and decreases costs by eliminating manual processes. In this blog, we will explore why Python is such a popular programming language for system automation and how it can be used to automate simple repetitive tasks in your organization. Let\\u2019s get started\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Great coders know how to see, think, and solve problems. They can also master complex code and find solutions to difficult technical problems. But beyond that, great coders bring something else to the table: they have a unique combination of traits that make them productive and effective programmers. The best coders have a set of common habits that allow them to thrive in an often stressful environment. There are many pressures on software engineers, from tight deadlines to the constant demand for new features. Great coders are able to thrive in this pressure-filled environment because of their ability to manage stress, focus intently, and think creatively about the problem at hand. If you want to become a great coder, these are some secrets you need to know\\u2026\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-system-administration.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEklEQVQYlSWQsUrDYBSFf+45QegguDgUQXBSXDvo6OAjtHMRF6fqJKINqDQ4OBWsNLYahbRUUlMISdUGsSimg8GW7go+iSTCGe7lDIfvU1VBHWgCNtCBdCA2YIF1oCpQNZEbsiV4ID3AQ3K0QQu8JNRTsfh5enKeX3RX5/yF2cEMHzX2IG2wCahv379eXgrD28HmRgREwJDsA13BHUT9BMHYNCcVI24df5VK073d+GA/Pjx618sjw0hqJ5MJwSA//7qz8ttzp9tbY13/KJfDQkG5uVyXfCbfstnxWWWyvhYBIZJ5G1AWeE8ExAuT4RE5JAPCSfBENVJiJ0Xqp/HS105lqAtIHYmZ/5jUGtCuUlc1kT+4rGF2vrBNIAAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Feb 11 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlQXBTU+CYAAA4PffuNnWh2bocM3KShMFLF8FAlRACN6AoaJgscZ0Vgd1btWmhw5uTT126eCf63nAdDqeTEZB4Pj+48C3Pc+WmhzPQ6nJl4gc2G5/dru/2extPn/fbFbr9crz2mH4vFh8hmEAEGqZpmaZqihChBRdlxVZYJhbmi6KIgv6fcft2o6DqlVKVRstpd7p2IYmneEYpAmgyMJy+dXrOQxDS9K9JPF1gasINSXoQ10GHAsHA9e2dJ6v+b5rGC2mUmath6fdb+P7A4hCzbJ0w1Bfx8Mg8LtdhyhcY4mjRGz/cC8CKLKADJVjYeWOKhI5CMtX2Qx2EmNZSJIFQFFEz23bNtI0xfNdUeTI0k0YvoyGIUURIJk6zucvs9kMjifT6RSGxWPxg/OLUxzHotHIP1Pndhff8B+LAAAAAElFTkSuQmCC",
+      "imageId": "db8ee703-7225-4c9a-8421-b86ed56cb300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-system-administration",
+      "slug": "how-to-code-faster",
       "locale": "en",
-      "title": "Python - The Language for System Administration",
+      "title": "How to Code Faster",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-web-administration.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIklEQVQYlWP4/PHt549vP7x//eL5gw/vwOwP7z58eAcRZ/j88e2D+zcO7l5xfP/K88e3Frf0SVn6OEZmnTp3ESp96MDmq5eO37x86uqFIw0TZxd3zSxsnxmcU/vm7SuQ9PlzR8+f2HHx1K4LJ3en17RnN03MaZoSktsAlf788e3Na+fOnthz99alZZt3eSYWxZe1Xrp2HWr4nSevwuc9Nu193L7j+bw120NyG7pmLH795iVUOnze/ajFL9ynPXGb9sQppd4pvtgpvriiaxpUOnTO/YqNL3NXPIqa9yirbU73/I0ZjZP80ys+vH8Nkr7y4KV9/13J6jupy564JZWxqFhru0fvP3oCqvvzx7cfP719//7txw9vPnx88/z5U4jFQGkAa/rZkuhmIu0AAAAASUVORK5CYII=",
-      "createdAt": "Wed May 18 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-web-administration",
-      "locale": "en",
-      "title": "Go Language for Web Administration",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a programmer who loves to solve problems with your code and thinks of new ways to make it more efficient, you may want to consider switching to a career in software engineering. With the recent heightened awareness of data breaches and cyber security concerns, there has been an increased demand for software engineers who specialize in developing solutions for information technology (IT) departments.\nThere are many software development languages out there that you can learn to build applications for various purposes, including creating desktop programs, websites, or mobile apps. If you\\u2019re interested in working as an administrator in a company\\u2019s IT department and developing code for its website and other related services, Go might be the perfect programming language for you. In this article, we will explore why Go is an excellent choice if you want to build applications for web administration.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-an-overview.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALWgbKSYj4JoYHFeVY5yZ6OGdaeIdXBeWaaIe5yAdQCgjVjYvXKrjmp4YlqKcWWQdWeqh3NyYVmhg3atjYEAtp1Tjn1KmodTyrN7wql7tpx5qodzb11YnYBzsY+BAEE4KbCXYI17RoJzT8S1lbalgsWtfrGee6OIdpF3cABEPDQuKyVPRTuijG+vmXq4n3WrlWiomXnHs3i+qHQATEMzOjInTUVDJyQpHh0iRj82SkE2XE84noRPsJVcAFlNOFFGNWJWSlZLPVlOPWJSQWRVQ2dbRIFvUXlmQwAZFBg8MyhRRjNfUj5eUTw4MShDOi87Myw2Lio/NS0AGhUbJR8fKCEhFRIYHxocMCgkPjMtKCAjXEw9d2ZRABgSGxoVGx8aHh4ZHUw/MX9mSI11UpB4VVVHOYJrUEqGcmCuBDfgAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-an-overview",
-      "locale": "en",
-      "title": "Python - An Overview",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"In this digital age, data is everywhere. Whether you\\u2019re using the internet to browse websites, stream videos on YouTube or Instagram, upload images to Facebook, or store your favorite songs on Spotify, you\\u2019re almost guaranteed to come across data at some point. With so much information floating around online these days, it\\u2019s no surprise that programming languages have become so essential in the tech industry. Computer programmers use various programming languages to create software and other programs that help users accomplish specific tasks or meet objectives within a particular scope of work. There are many different types of programming languages available today, but one of the most popular among developers is Python. In this article, we will explore what makes Python unique and discuss why it\\u2019s such a popular choice for programmers today.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-most-popular-coding-languages.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABMElEQVQYlU3GvU7CUBiA4bN7A16Bm5t34QU46m5cHE2MYXHxJ0ZXJZGfMClxkKgEG0EEoUBLaU9pa7DBYonCoVBp6el3YowOvnmGFx3Z5qbZhn8xxn4noD6aE/NLSlmfDELqAvOAeQy+ABwAR8ECWu6I87i81cgF/jsA6VkagDMadQEc3BbRQvJgJ7bCF1O+awKQWPw0njhLJKMATluT0Li/St4iE0vtWRIhpiiUBp+minlCupreQuvn24cXqelHd+bZxyd7Kuazd1fpy2Qhf6sbMlqMRO10djYZNuoFRa7k7q85LpN/uOG4TPGJQ+W1Xa8qUH+saXVFrhiGKDQesVKVpJKMawhv7Pt2L/BdRodh+IPRP7ZtIOq5YTAN6LRvdV5fsK61VCxITV4UnltS7Ruz6/njc4XzZgAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Dec 11 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-most-popular-coding-languages",
-      "locale": "en",
-      "title": "The Most Popular Coding Languages",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working as a developer is never easy. You will have to face challenges and difficulties in your work almost every day. In order to overcome these challenges, you need to consistently find ways to improve your coding efficiency and speed.\nWorking efficiently as a software engineer is challenging for most people. Most developers have so many different things on their minds at any given time that it can be hard to keep track of everything simultaneously. As a result, most coders perform slowly because they are thinking too much about what they\\u2019re doing rather than just doing it. However, with practice and dedication, you can learn how to code faster.\nBelow, we will walk you through some tips that will help you become more productive with your coding and accelerate your workflow significantly. With these tips, you will be able`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

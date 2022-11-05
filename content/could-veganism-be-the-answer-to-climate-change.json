@@ -1,9 +1,9 @@
 {
   "category": "cooking",
-  "imageSrc": "/articles/could-veganism-be-the-answer-to-climate-change.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APCvVe2pUM6SRKBxNXNRKFA5HFQ7H3tZMLGIUt2tXQDXpoPoplHqqlXlr2bguYa1oIe4s6fY1qvLxsp4YUcApJSSr5+E0szF2tjXztbR0e32wOnZwuep4O3Y38y1AHp/YrmqtOjk0dvraKzl18Lmk6zk3cDkn83olvHx1QBedipIWiTU1KnA5bmw5s3A5qLD55Sq5/fA57G+69UAU3URPU0jy7uq0+/4sOXRveWaqen4q+f8vuOpu+fIAI+ObqqEWq6NaOzu8Kje06ro8Kjm/bbq+s/p5ebgwAD72oy+lV6HYzjUzsnS7fHZ5dXy4LT82Yz72Yf84JEA+sV12qxorIFE+NKS+9KA/Mtw+b5c9bFR9LBX+tKGAPa/bfjBcPjBcPa1WfKsUvCpVO6oUu6oUu6oUvjFeQGmzxJvcIQhAAAAAElFTkSuQmCC",
-  "createdAt": "2020-07-05T11:44:06.808Z",
-  "updatedAt": "2022-10-11T17:13:46.020Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APGuT+2qUdCSRKNxMXlTIVQ4Fk42HINjR6uCTtOjVQDbqYXmolDsrlnuuHPiuIW0nYyyq6DHyKnDvcN5YkYAmoqPsKGC39fS1dHE0t3c0u/xyvDVx+2j7vzk5tLEAH1/YLqtv+Ddw93rZ7Tnv7njnqjl4bzjps/mgu7z3QBkfSxWZDPJyKLK8sil497A56i/6ayu6e7B56rE6b8AOV4FP1Aez7qu0vP/qeHNwuegr+ffp+f/tuW9t+nRAJKSbqqCXLSQaODo7LDjzKjm4afp/7rq+c7n5OPhxwD/6p3AlVl/WjLXzsvZ9v/S5t7w5LX82o7/2YP/3ocA/cl20qdkq4BE+dWS/9aG/8ho/LxX9rBM9LVd+dOMAPa/bvvEcvW/bve2WfKsT++oUu+lUu+nU++mUfjEdxpzz0bzwhROAAAAAElFTkSuQmCC",
+  "imageId": "3061c01e-bd70-4737-46a5-1d567fb18a00",
+  "createdAt": "2022-11-05T21:47:56.342Z",
+  "updatedAt": "2022-11-05T21:47:56.501Z",
   "categoryLocal": "cooking",
   "slug": "could-veganism-be-the-answer-to-climate-change",
   "locale": "en",
@@ -20,100 +20,130 @@
   "relatedArticles": [
     {
       "category": "cooking",
-      "imageSrc": "/articles/choosing-seasonal-fruits-vegetables.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOq9eMygcbaVcLufe8mta/bTQrycZ6SLbbmceLWffgDso2D7unfHhkqqh17iyU3XpB3itSWMbkSEdWFaSDwA2I9Km2o7o3pRwqFx880/1rI/uY4miXFQjnlgf2tWANPCr8q0nsWsjsStkcGpiMKnh8Cnibmhib+pjL+miADPwKy+p43Twq/Qv6fZzLrOu6TQv6nVx7nEr5TPvKcAvaiP3NHD3c+/3tHB3M6+3tXIxbCX2c6/39PF3NHDAMSunMCqmtTDsNC9qODTw824ocqzmdzRw8qzmd3AngCidWKGXlOOalvEmoS1g3Sqfnaic2qfhmrfxKLn0qoAh0Ayg0QznHFSs4Jesl9ZmVRLclI4lXJO37Z9hFkqALCQabmZdL+cc7eXcK6JYaN/XqJ8Up57VayJY6uBVLkFtxgAyeh7AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 19 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKCMV5RiNpqdkqSfj7Gol7rI0b7K1bnI07/N2bbG0gCpgEGbi07Cpoa3dVyjeFipuLi3yMjBz9q2x9OtvcoAYFsOVnQLdIg2hnM8inBKZ3YwoJZj1OHsyNber7/MAERQHk9aKYqMWJ1mLHBMGEtsMKicYd3n3ur4/8TR2QCweDxcUyeVVSi6YkZcRCJNXiOZVxW4kFP7/vng5uwAwBIBplEpkWY+xVo9v1A6hHlKTFIWdFcm9/Tx09zkAJJkOsmcTJ6STUhSH2RjKkxhHWJyRq+7uers7ZuptQCVizO7bx6LcSRlfjJUZz+apaDM1t/N0tKAiYmBkJoALjwCUDYAWV8vmKSLztfa4ObltrasZWVXXGNcfomQAFtfL3V3W7S9vdrh4sDBuXp6akNCKUNEK1daTG53e32tnhEgKJwZAAAAAElFTkSuQmCC",
+      "imageId": "c2eebc9c-7ba8-473f-fe9b-a132368c7600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "choosing-seasonal-fruits-vegetables",
+      "slug": "5-simple-tips-for-making-better-salads",
       "locale": "en",
-      "title": "Choosing Seasonal Fruits + Vegetables",
+      "title": "5 Simple Tips for Making Better Salads",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Fruits and vegetables are a nutritious source of vitamins, minerals, fiber, and other nutrients. Eating fruits and veggies can help you meet your daily needs for vitamins, minerals, and other essential nutrients. They also provide antioxidants (which may reduce your risk of disease) and other phytonutrients (which may have additional health benefits).\nVegetables are an excellent source of many vitamins and minerals\\u2014especially vitamin C, beta-carotene, calcium, potassium, and iron. In addition to being an excellent source of vitamins A and K as well as several B vitamins, fruits are also a great source of fiber.\nIn general the best time to eat seasonal fruits is during their peak season. Doing so helps reduce food waste while being better for the environment than importing them from faraway places at any time of the year.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Putting together a healthy salad is usually the first thing people think of when they want to eat well and lose weight. Unfortunately, many people also associate salads with bad food because they\\u2019ve had so many disappointing experiences eating them in the past. That\\u2019s because most salads we see today are either served in large fast-food containers or come with an enormous amount of dressing that you need a spoon to get out of the little plastic tub.\nHowever, there\\u2019s no reason why salads have to be boring, sad excuses for food. In fact, a good salad can be one of the healthiest and most satisfying ways to eat greens \\u2013 as long as you know how make it taste great without making it worse for you.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-best-way-to-cook-eggs-scrambled-poached-or-sunny-side-up.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMLEyL/Bwnh4eDs7Ox0dHRkbHSstLlZWVpmVks/HvACeoqUjIyMREg8UFBIcHBwhIyUoKi4tMzwsNkBQUlQAGxsbGhgUIB0XHx0ZISEfIiIiJCQmLTA2TWJ5Q1lvABkXEyokHR8dGSYnJC4tJjMvKi4qJy0pJicpK0ZVZwAjHxkkHxclJiNAPDS/tqXf2caYj4A5NCw0LCUqKiwAJCAbHhwYKSknoJqK49/Q7sF57LJkq52CPjIoLykkABwbFx4cGCooJ62ij+Pbx/avQ+aADrmcbz0xJzErJgBfYWMcGxchISEuLCpgWU6NgnGBblk+NywzLicoKCgAxtLbcHiBIyMjHh4eJSUlJiYmKCYkKScmLCwsUkxFALzK1cHP2qq5xHeBiVheZVFUWlJVW1dZXXVzcaOXjuLGXoR54SUEAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jan 15 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGBUNmRVNV5MMl5OMmZcN2JYNYJzWYlzXV1KK2VWNgCHeWa5r7GonJadj4K5qqO8sKjk3+vx6fPazcrQxscArKq6pae5sK65s7O+r7G+z9HcsrO9lpeht7jHr7HAAMrM3rm6x8TH1cPF0bO1vcjJ09rb577AysDCzcXH0QDu8f319//09/3////Q0tiSk5vNz9f////6/P77/f8AxMXXvL7Nu73KyMrWxsjTwMLLw8bPwsTNycvWy83XAMrL37G0x6ysup+hra+zvbK1v7S2wbe5xbm8yL2/ywCzrrSopaagmpLIxMjw8f7q6/Xn5uvc2d/Pyc/Ct7QAXFdFXVI3fnlbdW9cdm9jbGBVeXBdenReX1BDY1dIAGhmVmBaRnFsVHZ0YGNbS2BXQmdbP3pvVmJWQWZYORpowmws5T4YAAAAAElFTkSuQmCC",
+      "imageId": "4e7824e3-b1cd-4ae9-79ea-736c03aa8900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "the-best-way-to-cook-eggs-scrambled-poached-or-sunny-side-up",
+      "slug": "the-environmental-impact-of-our-food-choices",
       "locale": "en",
-      "title": "The Best Way to Cook Eggs - Scrambled, Poached or Sunny Side up?",
+      "title": "The Environmental Impact of Our Food Choices",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When it comes to the best way to cook eggs, there are plenty of ways to do it. After all, the humble egg is one of the most versatile and affordable ingredients out there. Eggs can be used in almost any dish and offer a range of benefits \\u2014 from being packed with protein to being high in vitamin D.\nHowever, some people find cooking eggs a challenge because they think there\\u2019s only a limited number of ways to cook them. But that\\u2019s not true!\nWhether you like your eggs fried, scrambled or poached, there are plenty of recipes that show you how to cook eggs in different ways. Once you know the basics, you can even experiment with different flavors and create your own unique dishes using eggs as their main ingredient. Here are some tips on the best way to cook each egg variety:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, we are witnessing a growing awareness of the impact our food choices have on the environment. From carbon emissions to water usage and deforestation, it is clear that the modern diet has implications for our planet.\nAn increasing number of people consider their diet when making decisions about their future. Perhaps this is because we are learning more about the environmental implications of our food choices: Eating less meat is good for the planet; eating only local and seasonal food is good for the planet; eating plants instead of animals reduces your carbon footprint; you should avoid palm oil as it\\u2019s destroying the rainforests\\u2026\nTo understand how our diet impacts the environment, we first need to understand what differentiates healthy diets from unhealthy ones. A healthy diet is one that balances calories with nutrition, ensuring adequate intake of vitamins and minerals. An unbalanced or unhealthful diet has too much or too little of one or more nutrients.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/comfort-food-recipes-to-warm-your-soul.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANHc78bQ5b/H22xygk5RXiAjLTk9RWprcVVTUg4NCQDIzt7AxtjIzt7Dydy1u86DiJY1Nj8RERMJCQkHBwUAxcjUsKSarpiEqZJ4qq24t77Qqa2+ERETDQwPDQ0NAJeIeIdnSYheRaKOe39kVIyIlbW8zGRocAoKCjM0OACojmt9ZmfMy9C4rqSKbEl/alO3vs6JjpoaHRybn64AvZqN0s3R3N3h19fXnX93lVxAnJCHsLTDV01DmZymAKVqSqKAbpF5ZLKklH5oVIBaOaustJ+cnWdaSnRlUQCwmX+ed0ujcD1qPiRnSiuom4u+wtGFenJ5c3BZSSwAxsrZrqmtuaKFrJN3opKBvsLTqqq1YlJDm5aVc21tAMHF2MPI2MLG18LG17/D1KCcnWVTQpGOk3htXKWltegunIL0OC/ZAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 17 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADuPsaaWpkGd0Zeu0U+o2JSqtKeGUo2HbgB1tyBeawCjpqXSgX67kbOhmpGVnZ6VurkzhrquRWVJKUAtSiwA9vr+pJ6A4Ky7YKjMY5uLQpqcU4ycsDxmUUlrIVpQAJG01iagz0Cw1kOz9CGm6gWh7xef1CeYvFCRkXV+YQA+fZkGpPErt/Pk6fDN0+LA1OUkrvUHneKegmXFhmwAZI9jIIumTLrs3+747+vv7vf7Ja7rNpy0eY6enoB9AJ+VR2uZUwag5Bu6/zi++E/G/xWs6FuqspF5oo2VpgCYo2Z4okcnjqQMo+1ilLsShMk5oL0/lKoqc7RcgY0AiaNtnbhtd5RzUH1+nH92gJGTXHlqdJqTh52NkYVpAHurYYWzf7bMtry+o7SXhZXBujFueoHA0OjQl2abqYEMqMBc+joYAAAAAElFTkSuQmCC",
+      "imageId": "aa7560d4-8058-4cb8-bce3-655735b61700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "comfort-food-recipes-to-warm-your-soul",
+      "slug": "the-best-foods-to-eat-for-weight-loss",
       "locale": "en",
-      "title": "Comfort Food Recipes to Warm Your Soul",
+      "title": "The Best Foods to Eat for Weight Loss",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s the perfect time of year to cozy up with a blanket and dive into a bowl of steaming hot soup, casserole, or other home-style comfort food. Who can resist the wholesome aroma of a slow-cooked dish? Not us!\nThese dishes are filled with rich and savory ingredients that warm you from the inside out. They\\u2019re also easy to make in large batches, which means you can enjoy them for dinner for several nights in a row without getting bored. And because these comforting meals are easy to double or triple, they\\u2019re also excellent ideas for homesick college students or anyone who misses mom\\u2019s home cooking. So, don your stretchy pants and get ready to dive into these 15 yummy comfort food recipes this season has to offer\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You want to lose weight. You want to eat healthier, but all those diet articles and fad diets seem like a lot of confusing information. Which diet is best? What kind of foods should you eat for weight loss? Do carbohydrates make you fat? Will cutting carbs help you lose weight faster? There seems to be no shortage of information about what not to eat if you want to lose weight fast. But what if we told you that almost everything you think you know about food is wrong?\nCrazy, right? Well, it might come as a surprise to learn that the best foods for weight loss are actually unprocessed natural foods\\u2014not magical chemicals and supplements. Eating more fruits, vegetables, whole grains, lean proteins and healthy fats will help you lose weight faster than any fad diet or crash diet could ever dream of accomplishing. No matter which diet you choose, these are the best foods for weight loss.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlWP4/RcEfoPRggtfKte/Stz0PmjdG63Vr0Xm3WKASP959uH3qfufph1d1HIyfcdn3c1vWKrX6JTUgKT/3Hz5p3HH72Vn/r36vPnO9+LjP4Qn7nAryOxtTWVwPbTxyuGbP15+BJvy9+3X3+Vnf0o1TyqpSlw0MZtBdEO505Wjl569/vYLYs/fxXd+iMw8HtGcXT67hCHxeJPu7Z1Vhy++/vwd5MBvP26+++l66CPnnFMOu3cweB2aZHz/VsTmI8/vvPy278afjFV/LjxpPv7FZvt74dWvGExvn4vYc2rD9L0/Sjf+6tv76+qzP7//nHz2I3zze791bxk2dGy8svjYr/nH/7z9ArEbEgwZO956rX7F8H3hyT+//8Al4EG0+dYXx2UvAIMs5JCWqrhzAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jan 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIRKdZRdlbWXtcXDvLCrpqyknMe/uNPLxdHLxN3ZzQBiOlBvUG0xJDAcEg4ZCgQhFA06MjGDf3zIxsHW088AHx0YJRMDTSsPYj8efD4YfUETRxsFAAAAXFZS7OzsACYXC4hXKryNWaZ0P6l5P6VrNKF1QXZJJh8IAIqFgQCJUyq2cjGZXCOjdC+IWyW9fkiwekm0bzhKGgBXRTsAtn9Qx41Zw4ZCzpI5y49DnWs7tHM746Vmt4ddi3ZkAK9qMYVLJIBSHrF5MpxsNnZEHHg+FKBzUrKbhMK3rQCodz6XazWjZiqOZjR7XyuibkGlZTFYOxZUNCSHgX0Ah0k9qmZTwIZWrYVfcVQxnGxApWtDjU0xfExBpZCFANl6XdFCLqI+MHkyJnUvI3coGFoVDlsuIZl9bLekmhS/fA5jIC3fAAAAAElFTkSuQmCC",
+      "imageId": "a83b6a32-b115-46e6-6679-5908b3735a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "the-10-worst-foods-to-eat-if-youre-trying-to-lose-weight",
+      "slug": "one-pot-wonders-easy-recipes-for-busy-weeknights",
       "locale": "en",
-      "title": "The 10 Worst Foods to Eat If You're Trying to Lose Weight",
+      "title": "One Pot Wonders - Easy Recipes for Busy Weeknights",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s a well-known fact that the way you eat can have a big impact on how much weight you lose. But what you eat also plays a huge role in how quickly or slowly your weight loss comes off. What you put on your plate is critical because every food has a set amount of calories and specific nutrients \\u2014 not all foods are created equal. Some foods help you lose weight faster and keep it off, while others have the opposite effect, either because they are high in sugar, fat or calories, or because they have very little nutritional value.\nSuch dietetic staples as broccoli and blueberries are great for losing weight. Other foods like chips and soda? Not so much. Keep reading to learn about the top 10 worst foods to eat if you\\u2019re trying to lose weight fast\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The time between Monday and Friday can feel like an eternity. Especially when you\\u2019re in a busy job and still have to cook for yourself after work. It\\u2019s during those moments that we need easy recipes that require as little cleanup as possible. Enter one pot wonders.\nThese super-simple dishes are the perfect solution to your end-of-the-weekend blues because they are quick, convenient, and require only one vessel for cooking and serving. One pot wonders can be made in less than 45 minutes, which is perfect for people who don\\u2019t have much free time on weekday evenings but still want to eat a wholesome meal at home.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/6-ways-to-make-your-diet-more-nutritious.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlT3Jvy9DQRwA8CsjsUj8AyaVGAwWsehAJCJ0QJtHdRDEILGaJWIRMYiBydDEIiFpUhKrwdiqtu/ayr1f997du3f37b0nMUgXn/WDVGxAUoCkCElRxdtK74A2lN6QOhvBInpvjkq9AnEetAFxXumc7K33r7csIIPuK0OCz+tkFeJN0KfEfsHd529SNjuPLfyESqWp3/LIj72m46zsXWCTmJg4tl+rthpfHfS2N4kPx+mtodSSgjPPZZblcSYd23edANHzifruXLOQ9j5nIzjpdhzctkUIzUbXsRhq3RyRyqX5cOWydATH2CScSRECNonnhogeZKzX63Z1K5BjodrnAkKuQq44k5xJ9HE3XavPWHyQwzCT2X4EEPgy8KVPI2TxlCdSNBqgEgXRwn9QT1BP/AFqoecBFn5yrAAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Mar 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMeuP8uyRM61R9G6SdO8TdW9TtW+T9W+UNa+UNW+UADIsU7SvEfSvk3WwVDZwU3awlDdxFXfyVrdx1rcx18AjYeK0r5N28VV3sdX4dCD5daa28+X2cOM4s5/4c1wAJWFZtnEWtzHVdrRkbOis6aAgMSSYZI+X9W/x+TfuwC3gVzXu2rdylXOyZ+vrMyJTTyLLwfCUFG+g4jb2NAAroRPwJFy0cVWyLZet73AlWWFnU5in0pJrnl42c6vALSbP6VsV7WZRbGNKZ1xT66ivMvN2sO8ydC91vDhpgCzlzOfaTqeZzuqgiGgcDKfbmWec3W3jqnq1NHy6J8AvJk1s4k1rnY/t5AstIolvZpCzrZz5Nyq8Our6OCfAMqrQc2uQdKzQtW3R9m+T9/FV+bTbuXbiuLcneDcorXIuYP6TQkvAAAAAElFTkSuQmCC",
+      "imageId": "de19a758-daac-45e6-5478-c06b698aae00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "6-ways-to-make-your-diet-more-nutritious",
+      "slug": "orfollowing-food-trends-is-it-worth-it",
       "locale": "en",
-      "title": "6 Ways to Make Your Diet More Nutritious ",
+      "title": "|following Food Trends - Is It Worth It?",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you feel like your diet just isn\\u2019t cutting it? Maybe it\\u2019s time to amp things up a notch. A good diet is essential to a healthy life, and with so many different diets being promoted these days, it can be hard to separate fact from fiction. When it comes to nutrition, there are so many factors to take into account. You might know that vitamins and minerals are important and that fats, proteins, and carbs all play an important role in your diet. But how do you actually make sure that your diet reflects those principles? Here are some tips and tricks on how you can make your diet more nutritious:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Food trends seem to come and go with dizzying speed. What\\u2019s hot today could be yesterday\\u2019s news tomorrow. But whether you follow food trends or not, your customers will expect you to stay on top of what\\u2019s currently in vogue. So how should you deal with food trends? Do we follow them? Ignore them? Or just give them a lukewarm response?\nFollow food trends if it makes sense for your business, and use them as a way to stay ahead of competitors and gain new customers. Following trends gives your business an opportunity to attract new customers by keeping your place relevant with the latest tastes and preferences. At the same time, ignoring popular foods can also be risky as that can alienate potential patrons who are looking for those options when they come to dine at your establishment.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/the-ultimate-guide-to-making-pizzas-at-home.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGxna2JfY3p5fnBvcl9cX1NMTEI6MyUbERkPBxcPBgB6eX6BeHSHeG+DfXSTi4eXhXSQfWidinGIhYh9f4UAoY9hn4FclYBno5pipZtzjot+gW1Nq6B/jHxklYRvAJ6FdLKfaqyeXKSKdaGEcqachJuNaX9VL4VsXoJyZwCEXzexnlCWf1eei1annGCoi1CbfFupoIOMdWiLdV8ArY91pI5De1skh3NXeXFQh3Nhd1ori2xbjX9GeGE5AJ1aGJNjIaSBPYl4TIh6RZ6GZZ2JRJBmUIhoMX5PHQDBr3W/mU+xgS+2cyOzcx6aXCqndSuqYw6wfjS2n2UAd3NVq6Rrvrh/xL2Hy6tayaJPxK9tvbd+uLF4rqdxAHp5fnl5eXFtXGRfRWRfQ2RfQ354VY+KY316YG1qYvPHirt5J8zDAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jul 03 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMGNeq+BcOWvmM63scC1r8uyp7WHe69yZuy6pM3CuwCxhnzCikLSjDGthm7Zpl/hmDO9g0uwf2/LhnXYtqQA16KX559VnWAYz5U9/sNS9LU4+sFY9cBkv31l1pmHAM63tdCSbbBlGu+mTPvEVf3XgfvkvOy0aOKgV92chwDBwsTWpJKmYC6NSg/QgyXtsF/erm+3dznUoFi/nJQAMCknckklunMwp2onyIY+7q5K7b5vy5I/U0UtQTs6AEZAPVk/J7+DQ7uAP5pZJ9+cRdmmWm1KJkZBQXdwbgCTk5VyZFyyej+qcCt1QRGkczZuWEB3cHKcmZjDwsQA4eLjoKCjg3x5ZVZMWk9Ig3x5qairzc/Q5ufn8e3qAOnl4ujn57i5upiVlKCcmtDQ0ezs6/Ty8PLv6u7q5VAlr1BLFodPAAAAAElFTkSuQmCC",
+      "imageId": "b627c074-f3c8-4b4a-a666-45c19ff28f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "the-ultimate-guide-to-making-pizzas-at-home",
+      "slug": "how-to-make-the-perfect-roast-chicken",
       "locale": "en",
-      "title": "The Ultimate Guide to Making Pizzas at Home",
+      "title": "How to Make the Perfect Roast Chicken",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When it comes to eating out, the humble pizza remains one of the most popular meal choices. After all, who doesn\\u2019t like a hot, cheesy, gooey personal-sized pie? But with so many fast-food and casual chains offering their own versions of this classic dish, it can be hard to know where to find the best pizza when you want it. Luckily, thanks to rising demand for home delivery and takeout services as well as growing interest in gourmet cooking and home-delivery meal kit services such as Blue Apron, home-cooked pizzas are easier than ever to make at home. And whether you favor red sauce or white sauce; classic Italian toppings or something more exotic; traditional thin crust or super thick pan or even cauliflower crust \\u2013 this guide will show you how.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Roast chicken is one of the most versatile and easy ways to cook meat. Roasted correctly, with a balance of flavourful seasonings, chicken can be juicy, tender and full of delicious flavour.\nRoasting also makes it easier to eat than fried chicken as you don\\u2019t have to worry about excess oil or unhealthy fat dripping into your diet. Roast chicken is a great source of protein\\u2014and if you get your bird from the farmers market or an organic grocery store, it's probably even pasture-raised and much healthier than anything you find in a supermarket.\nWith this recipe for roast chicken, you can enjoy roast chicken at home again and again. Keep reading for some great tips on how to make the perfect roast chicken every time!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/farm-fresh-produce-where-to-find-it-and-how-it-impacts-your-health.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNElEQVQYlR3MzUoCURjG8XMX3UFECxfRJQTdQMtW7dy2aNumTbUoSOhjGQQqgVCJKYGjOcOceefMkY7ONNXAfIpjYnOSk1Iqob/tn+dBQcd9ei5WlcpF9vixdq+qar1e13UdAKbTKQr6H3ktU9Avb+SjF1/pdruqqkqS1Gg05rkVanktc1hMX0n7OXxmGAbGGABkWQ7DEAkhXNf1PM/3/SAIJn+Tt4UwDOfrJEkopYQQuhBFEWMMAEzTHA6HaDAY6AuEENu24zjGGCuK0mw2R6MR4pwDACHEMAzHccbjMQAwxkzTnJ9zztvtdhzH7L3c6/UETyzLopT6vj+bzdDXj6Pd7Ra2Nh+KKev04Hx9JeF9ZtGo4wnxjcTvZ21nrXSyXLpdLW8vvV6nqkq2IuXSexuWTf8BWfnuyK8LLm0AAAAASUVORK5CYII=",
-      "createdAt": "Sun Oct 03 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABI0lEQVQYlSWJXUsCQRRA5xf22J+ooKA3IfChwoegCCIKgsDMpMxApAjyM0MM0hVp2xRdU0TXLXV33Bl37r2RnYcDh8MQEQH+/Q8CIJE3HncKGfbXSKAkoVpcBUTk8X7qNhfaYkDkO7ZfCvNB23U96UkiMp7fIqubycA6QyJhZGap3UlLkxODiAZdMxkrli4SI72+2I2CE13jlXu3fVfNPmjptOCciBCRgZqDbdqRDW17KR4KlKPx6XuXGw0QrgJgMOnbetnMJp6Od172g+bVeSt8OC1c+9xRQGyo1zKne3YxBqMmuZ38SfBsZdmqv7qc5lIx54cP2r3Pxxvt8kCPH9Vy+Wr1yxoKbwZSKub7KARZ336jOdIqrQ+9Z1uOmCkpQAr4BcSZA85GbE73AAAAAElFTkSuQmCC",
+      "imageId": "14705fa2-8f9b-409c-0f24-32f7dc0fbb00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "cooking",
+      "slug": "how-to-cut-out-processed-foods-from-your-diet",
+      "locale": "en",
+      "title": "How to Cut Out Processed Foods from Your Diet",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Processed foods are often vilified for being unhealthy and fattening. However, the word \\u2018processed\\u2019 can be misleading.\nProcessed foods almost always have a shorter shelf life than their unprocessed counterparts. This is because they have been altered in some way to make them last longer and to make them more convenient to consume. Processed foods are not necessarily unhealthy and unprocessed foods aren\\u2019t always healthy.\nProcessing can take many forms. Some examples of processed foods include canned goods, frozen meals, packaged snacks, oils that have been refined or hydrogenated (as in Crisco), salt, sugar and starch that has been extracted from its original source (as in corn syrup or white sugar), spices that have been ground up, protein that has had artificial flavors or preservatives added to it (as in MSG), or food that has had artificial colors added to it (such as Red 40).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANPE2oR+jIBwjL2Wiv2ycfaxeOyeZNafHO7EQPmsawDAmce0lcLVttziuaf95sz78ej66+DAnoeyaizoupIAw4d0j2Jns46g//r+/////v7+/v79////9uLWuHtQAMmLXKFkNaCVjKWqq5qZmaioqJGQj3h2dZKZncCYdQDNhkzMkmDTzcm4s7GppaK7trOppqSZk46mpqfdxrEAy4lKzJVd+tnE/8aj/+TR/8Od/86v/seg/9O17M6yALCyqriBTezVwtXS0r24tb+2scC1r7mvqeXh4eCxgQDQ4eSnloS1dEb19PH8///4/P74/f74///n18XOlFwA1uvgpKqghjoRu3hL3L2s69nT79zO1J581bCS4uLbAOL09XFgXHQxGatYJbJfI7psM8BuKcV+SMusnrqOd5gE0HhPEBiLAAAAAElFTkSuQmCC",
+      "imageId": "d2495209-a7c4-4e58-1448-d55223813f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "cooking",
+      "slug": "3-steps-to-spring-clean-your-eating-habits",
+      "locale": "en",
+      "title": "3 Steps to Spring Clean Your Eating Habits",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Thinking about that New Year\\u2019s resolution to eat healthier again? We see it every year, thousands of people vowing to eat clean and fit in exercise after a holiday season filled with excess. But what does that even mean anymore? Eating healthy is no longer as straightforward as it once was. There are so many different diets, food trends, and nutrition philosophies floating around out there today, how are you supposed to know what will work for you long-term and not just for one fleeting moment?\nIf the past several years have shown us anything, it\\u2019s that eating clean is here to stay. So instead of feeling like you\\u2019re trying on another new fad diet or eating trend, let this be your guidepost back to the basics of eating wholesome food that helps your body in the long run. Clean eating is not about perfection or cutting out entire food groups at all; it\\u2019s about making more informed choices about the things you put into your body on a daily basis. Read further to learn more\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "cooking",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlR3JQUvCUAAA4PcDOvUnov5Dnbp1tZ8QBNEliH5BBHnrUBEEQhBaFBVKkm2lm22mzr23t7cxt4R0e4Xp2qTnlsSivusH3j9oLp/J8+eHufRt+apZVx7/SZIUxzHw/M7J086pnN7ntwh9jti3qrYQQoZhTCYT4A4718pRRtw+e94r4SzRDY7jBEHgeZ5SCsIwQFhtaQ1EVLNNwiBECEIILcuKoggEQaAoioY0qEKiE+p5tm1jjB3HYYwB/9PHmmaaBjFIt9vt9/saQkqzaZrmeDwGg+GgIlRkSZbFut1ux3Esy1KtVtN1PUkSEAbMxJ3uWw+9cpR6oTuAEFfFaq/n/rWfWOXL1bvlpXt5sbG7mU3Ns2RkO5b9ojM2Al8/bnFtrrA+XTieLaamyMGMiG5KDxcrGwtYr/8CdIru1SPzEuQAAAAASUVORK5CYII=",
+      "imageId": "ede4afd6-a011-478f-a444-ee53ba625600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
       "slug": "farm-fresh-produce-where-to-find-it-and-how-it-impacts-your-health",
       "locale": "en",
@@ -125,46 +155,16 @@
     },
     {
       "category": "cooking",
-      "imageSrc": "/articles/rising-popularity-of-meatless-mondays.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOJFNt5DNdZAM9hRQ9lZS9lTRddTRdRJOtdBNN5DNQDlRTfjRDbdQjTnkojpmZDokYjni4HeWk7dQjTjRDYA50Y440Q26oh+65+W7qqk652T652V6Y+H411P4kU2AOdGNuVGNeJQQuBZTOiGfOh/deRoW+FbTeJMPOVFNwDpRzflRjXhRDLeQzPrjYPphHjfV0feQzPhRDTlRjUA7kg3nbJ5fOefaeSRcOWXYuKOgOmhcOWXcOWX2mhPAPJKOtd1WcGKZMCIZbG0ha6zhLmiesKIZcSIZudWQgDyTDvyTDvwSzruSjt35Zt855+tqnvrSDjtRzjvSTkA97my95eM9pqQ95WL9ZyT8oV49H1x9ZmR9pOJ84yCAPh0ZfhsW/p4a/pwYfp/cfl3aPdlV/d8b/dqXPZ2aEQsqL+SACMyAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jun 21 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AO3x9MDP0ae8wLHFzbzCutG5jM/IsYyaRaKMNKmBNQC1xsirv8W9vJnAom3HrXK5mTCyr1pbkUUgbSpeYhsAydTWzdLO3Mh/oo0pf4Qqg6NaKXk7G2gvFGQrLHkxAPn4/9rMm7KEMKKDNnmEMXN3Ih9jJQhYHTp2OTpmHQCZu4qoijyvfSSqeCvfvXy0m1gtcCyDlEDTvYC2oF4Ad3g0pGYNtIUozaU95cqawqZuUHclq5EtyqFBroo2ALe9slVuGbiLMcqrRqp4IplpIbSfWah3Kq+JLIJcEgDa6vJ+k3SVZAiqfR+aZgmjejTEsGKVXQWZZBCiciUA3+304+31vremtJ10t5VfqYdUtaFwwa+J08u23OLgANPg6NPi6d3s9+Du+N7t+Nrr9dPl7cXd5rTP1Je4thHpqNi8spuJAAAAAElFTkSuQmCC",
+      "imageId": "66213498-3de6-4b69-ec84-08843b472000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "cooking",
-      "slug": "rising-popularity-of-meatless-mondays",
+      "slug": "one-dish-meals-recipes-for-busy-weeknights",
       "locale": "en",
-      "title": "Rising Popularity of Meatless Mondays",
+      "title": "One-Dish Meals - Recipes for Busy Weeknights",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Millennials and Gen Zers have been driving the demand for plant-based foods. More consumers today are adopting a lifestyle that focuses on balanced and healthy diets instead of restrictive fad diets.\nIn response to these changing preferences, businesses everywhere have started offering more vegetarian options. In fact, even fast food chains like McDonald\\u2019s and Burger King have started adding meatless items to their menus in an effort to cater to this growing market segment. And with good reason. Millennials alone account for nearly one-third of the workforce \\u2014 a massive presence that will only continue to grow in coming years.\nThis rise in popularity of meatless Mondays is not surprising given how many people now choose to eat less meat, fish, or any animal products on Tuesdays, Wednesdays, Thursdays, Fridays or Saturdays.\nIf you\\u2019re looking for ways to reduce your red meat intake without sacrificing taste or variety in your diet, consider instituting Meatless Mondays at your place of business as well as at home.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/slow-cooker-suppers-for-chilly-evenings.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJyRjI5yWoZxZVVPTEFBQ6WWjqOkn73Bu7izp86+sQCjoaBZT0tyZ2KZi4KznpG4ppqTiXxrYlV1Y1LKuKcAvrOuva+msqOcv7mywcK9xsvHu721gXJgdFpDsJqGAGVSRLSkmrezq769tY90W3NIKY9vVcbJw5+Wh6SMdgCvo5eom43DxsG4oXmEfEuHXDR1Qh6TZETN1NK/rZ8Au7GroZyQwLyrsJdrqYxdlmc5bTMQdTMOxMG5wrmuAMS2rZCPhsbEtKCOYLefcIJaNWoyGl4lC8LBuLiupADKxsOIgHXJ0cyunH6XdE51RylhLxKpg2TBysmlkYEAzMXDrqCVw8bBxM7LtZ2Im35rsJ6OwsvMnZWMuaCPAMi5scO1qqqblLq6urK3tra/wa6zr5aLf6ubjsy2pEmnrbTYOmgEAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jun 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "cooking",
-      "slug": "slow-cooker-suppers-for-chilly-evenings",
-      "locale": "en",
-      "title": "Slow Cooker Suppers for Chilly Evenings",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When the temperature drops and daylight hours shorten, it can feel like your day is over before it began. For many of us, that means spending more time at home and less time socializing or going out. Luckily, you can make your evenings cozier by turning to your trusty slow cooker.\nWith a slow cooker, you can come home to a warm meal after a long day at work or school. The appliance is perfect for preparing supper when you don\\u2019t want to spend a lot of time cooking in the evening. Preparing these slow-cooked suppers takes only a few minutes during the afternoon or early in the morning \\u2013 then you can leave them alone while they cook!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "cooking",
-      "imageSrc": "/articles/breakfast-ideas-that-will-make-mornings-infinitely-better-50-packable-lunch-ideas-for-work-or-school.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AK+IbtKrgujSvLOMc5lvWd+UF7hrEaR6X6J7YZuCfwCQbl+TcFpnRzlgS01+a2/edwyXSwyMZUuhel5zXFsAuqerXk5PQTtGk4qWtqu2gVA6n2xEmXBIsIpngHBuAFlVYTEuPzg1SFJNXK2mtM2eYfDNkOC5dNu6cZWPlgA9MkFcSEilb09aRk+bbmvKpmvgsGyYd1CrmW+NhYoAn3pt5XMf4XMkhxwsiCYzsJWDeltEYkk/aVBGkYaTAJ+YqsFgH9VnI3QmKl87OpB/h41rW6+Ibp13YpuAfgDFwNCWfX1/VEVgVWCKaF3QqZCuj3yDYlCgeGGXcV4AsZOUdyQsaCsmp32HrpWH07GUwqeFZk0+qINrpH9nAJVtWaZWPYhCMZp1XZiOkrebgrmMUpd8M45oU35hUW9QjlaZrs/CAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 20 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "cooking",
-      "slug": "breakfast-ideas-that-will-make-mornings-infinitely-better-50-packable-lunch-ideas-for-work-or-school",
-      "locale": "en",
-      "title": "Breakfast Ideas That Will Make Mornings Infinitely Better 50 Packable Lunch Ideas for Work or School",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When we were kids, our parents probably had the easiest time getting us ready for school in the morning. We drank glass after glass of orange juice, ate a piece of toast with peanut butter and maybe even gulped down a bowl of cereal or a few crackers with cheese. But once we hit high school, things started to get a little more complicated.\nThat\\u2019s because by the time most people reach their late teens, their bodies have developed an increasing need for more complex nutrients to fuel our minds and bodies throughout the day. Instead of drinking glasses of juice and eating crackers with cheese in the morning, most adults need to eat something that is substantial enough to keep them going until lunchtime. Thankfully, there are plenty of easy ways to accomplish this feat while also saving time and money at the same time! Here are 50 ideas that will make mornings infinitely better\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s almost a clich\\xE9 at this point, but so many of us are busy these days. It seems like everyone is rushing from one activity to another and then logging long hours at work or school. As a result, we crave fast food and takeout more than ever before.\nThankfully, home-cooked meals are coming back in vogue again. People want to know where their food comes from and how it\\u2019s prepared. There\\u2019s also an emphasis on reducing stress levels by creating more time in our days with fewer obligations outside the home.\nIn short, people are becoming more aware of their health and making changes accordingly \\u2013 great news for families everywhere!\nOne-dest meals are an excellent way to get back to basics and prepare wholesome home-cooked meals that don\\u2019t take long to make or leave you with lots of dirty dishes afterwards. Read on for some great tips on how you can make one-dish chicken recipes part of your weekly routine once again\\u2026`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-database-administration.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABF0lEQVQYlWP4Cwb/wADO3nFte+++vhsvbzDcvHnzwIEDf37/gcj9/ft3wpEJHA2sHK3s3M3cDBcuXFiwYMGuXbu+f/8OkTZdYOy31S9wZ5D2Mm2Gf//+vXjxYsGCBbNmzTp9+vSzz0/1l+iqr1Q33mSstFyeAW7fiRMnGhoa9u7d+/jzE68tHvJL5UuOlYB0P72x4tLu9MfXl3/8+LG7u3vVqlUfPnyAOJbh1e05l9cKXlsvdmEl371jWY8fP16+bPnixYtv3rz59+9fhtenfT9dCP58LfXj5aSXp3wgFp0+fbq1tfX8+fMM3+7Wfj+t+fOcyffTul/vVMED4Pz58yDD//75+utuzu9zen/u5Pz98xUeRBC7AcIS5IulEQdbAAAAAElFTkSuQmCC",
-  "createdAt": "2022-08-10T20:02:48.924Z",
-  "updatedAt": "2022-10-11T17:16:02.432Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNUlEQVQYlR3Qv0sCYRjA8TecJXEoaPKPKEHwDyjHphpyq03co86yoVmro8DSIDNwEa6izexMEE4PT86DJEGxQaPAH+eh9z7PE/aZvvOXAQDnHP5xmAcR5Wq56EtU+9KYYRiyLHPOiciaWkQUL8bZAXMIDtexi2maJoqiJEm2bSMhAflv/AEpECzs+LI+hoidduvq8ky8iKmVat/sr92vulNu76PXk/EwAE6ISJR/LUWOIoX8W3fc3XheX75dCskhRkQdPVV52vr+zI5GQ0E4TCaStmUDASKyfjOhphdqD87SNeuq+z+/43TmLnYeaxiN4WTIeuXNQTUwbZ8OtO2eEkSaUxQlHA7X63VmtQSr6Jyp3sn7otU64USINgDoum6aJgM+sZt7s/KK/bGLfIxIiPNFRAQAf80U4tZ2zqrWAAAAAElFTkSuQmCC",
+  "imageId": "32135cfa-02cc-452f-b868-86bc71809700",
+  "createdAt": "2022-11-05T21:53:15.164Z",
+  "updatedAt": "2022-11-05T21:53:15.380Z",
   "slug": "ir-idioma-para-la-administracion-de-la-base-de-datos",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,130 +20,40 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOTf4/z7/PTx8trT1dDGy9XIz9jHz+3X4OnQ2+PK1QCOiI++trt/dX1aUFg4LjQoICUyKy9NRUppXWF/cHgAX01aMyctf0dB2m9cKSIkQTU5b1tmYU1YT0BKIR8fAEg6PzgqLaKIjIxtcSQfIVFASHJcaGhUX2tXYhEREQCjj5iSgYn78vLY09UpIiRaSVFwWmZmUl5lU14ICAgAk36OgG1/nIiR08bDU0VHMSosLyUpKCAlLCUoCQkJAHJfb11OWj0yPbKaormhpZiGindnakw7Q0ImKTEoKQBMPkxWR1M4LjZWR1HVu8D94+X94+X63uPky8/LtLcATkBOJiEnHhkbRTw9wquu+t7g/ePl/ODj993h8trgAGdcXaqXm+PQ1Prn7P7r7f3o6/3j5/vf5PXb3/DY3pIumAg4Ox+kAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ir-idioma-para-procesamiento-de-video",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA8klEQVQYlSXPUU/CMBiF4f7/f4UxGISYEUQISIkwuq7bWJmlZWu/75jhuTrJc/UKAE3THI9S62K/3+X5WUqplKLnBIBvKSeTl2y52mx3i8XH63T6Npsx//MjIPaAB7UgOx5mMNHTxd2YR6kGW8WgUyhDmbtC3bVK3W3kRbacv8+684WpY9+4SzHPsuXnyqs8EQvYlmpD/kGxpdiRc3ytuTZcadydiH2f4kAM/FZwNREiEdtrLg+b7VYQMwN9VXamdMb0taHuxqW26qJPPyIRgcgeD+uvtZQHl594GFIcOHh4JyilsSF42AZtQyEQMCYzE/AHRCkYzyggkEgAAAAASUVORK5CYII=",
+      "imageId": "6bd9ca7f-c41a-479b-8e3e-8ba53d3e7c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "ajuste-del-rendimiento-de-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Idioma Para Procesamiento De Video",
+      "title": "Ajuste Del Rendimiento De Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La industria de procesamiento de video est\\xE1 creciendo a un ritmo asombroso. Esto se debe principalmente al auge de las redes sociales y al predominio del contenido generado por los usuarios. Como resultado, ahora hay una gran cantidad de aplicaciones de edici\\xF3n de video que permiten a los usuarios agregar filtros a sus videos, crear efectos de pantalla verde y m\\xE1s. Dada esta oportunidad, las empresas en este espacio han comenzado a prosperar. Sin embargo, a pesar de todos sus \\xE9xitos actuales y su potencial futuro, la industria del procesamiento de video podr\\xEDa tener a\\xFAn m\\xE1s \\xE9xito con la ayuda de la inteligencia artificial (IA).\nSi actualmente est\\xE1 buscando oportunidades en procesamiento de video o IA y desea conocer algunos ejemplos espec\\xEDficos de programaci\\xF3n de Go que se pueden usar en esta industria, \\xA1ha venido al lugar correcto! En esta publicaci\\xF3n de blog, repasaremos exactamente qu\\xE9 es la industria de procesamiento de video y por qu\\xE9 necesita IA. Adem\\xE1s, exploraremos algunas aplicaciones comunes de Go para IA y procesamiento de video, as\\xED como tambi\\xE9n proporcionaremos ejemplos de programas escritos en Go que puede usar si desea comenzar lo antes posible.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el primer art\\xEDculo de esta serie, discutimos c\\xF3mo el ajuste del rendimiento de Java puede ser complicado. Los diferentes factores que afectan el rendimiento y c\\xF3mo puede medirlos. En este art\\xEDculo, repasaremos las estrategias espec\\xEDficas para ajustar sus aplicaciones Java para obtener un mejor rendimiento. Hay muchas partes m\\xF3viles en una m\\xE1quina virtual Java y una variedad de cosas que pueden afectar negativamente el rendimiento.\nDiscutiremos algunas t\\xE9cnicas y configuraciones espec\\xEDficas que puede usar para ajustar su JVM para mejorar el rendimiento. Esto incluye el tama\\xF1o del mont\\xF3n, el almacenamiento en cach\\xE9 del c\\xF3digo, las opciones del compilador, el uso del c\\xF3digo y el modo de interpretaci\\xF3n. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos conceptos y sus implicaciones en el rendimiento de su aplicaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Kz0vCUADA8fcH9RdEl6BrlyApqEv1X3QID1EYEkWhaBGoNdS01PIUlqTp1L3p/LE0Ncu57U3f5vacSqeQgs/t+wVmv2oq/AjVRqiio7KOyob8byhCYIhQFWYM9P4z1k31C4us1mOHMjcUi2DQecPfjKmJ0wmZTshkbGCJQwLjuTx2Ow4BUVpjVdGxRLRBic0THRMDNevJNcvK9tYGIKiLe+0SzD5Ew9a9XTrzOjJURWqsry5ZlheA3Kr6rhwXzlPH+YkodDSMdE3FfSnosS3Oz4FuvWQ7sIaD10KnJUtddSAzdDIaOGNS1M7mMvis5dsV2Kiw7Qbf/OBDN87nuLucC/EwEqPsoJp9/MtP8Tufa59+8cK0n6NveRgppv2gkPByuZTXdRSj7HTCk0v6mBRVzARmR+H+FyOp6jj0Ug9FAAAAAElFTkSuQmCC",
-      "createdAt": "Tue May 24 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ir-lenguaje-para-el-desarrollo-de-juegos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJdxE6F6HqV8KK6GL7CHM7CHM7CHMKh/KJtzIpRtGACYchu1nxS4nx23lC7DoTC5lDTAoya8ly+vjSWmhRsAm3MinI4QlooQrKEPmJENsaAgnI8UlY0MmZEJmZIIAK6QG6OAKqSCMqqPL56ILMmnRq6TM6OGL5d2K4ttHgCYkAmonBGnlhq7rRe3qRymliCqoBWyoxmomRWwpQ4Ajm8chXAZinkZnIscloQioocznIMsi3YiiHQagW0UAKV/Ia+GLbKPMLOQNc2gSteoTs6hR8OXQbWKNaJ5JwCgeB2nhSCzrQaplh29piLHqS/Cl0K6kTevhy2feSIAlm4XoIQWkH0UlIEXi30QqYwlt4s4rIQuonkll3EbAJVuEIhpEpZzHJ13JJ54KaZ+LKmBKqB5JJhxHI5pFKgEg7mIfkr9AAAAAElFTkSuQmCC",
+      "imageId": "5d050e77-36a3-4159-fc42-2321bc6f3300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "python-un-lenguaje-para-las-masas",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Lenguaje Para El Desarrollo De Juegos",
+      "title": "Python: Un Lenguaje Para Las Masas",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Ahora que el mundo del desarrollo de juegos se est\\xE1 volviendo cada vez m\\xE1s digital, tambi\\xE9n hay nuevos desaf\\xEDos que enfrentar. Ahora se espera que los desarrolladores de juegos presenten soluciones a problemas complejos en un tiempo r\\xE9cord. Y aqu\\xED es donde entran los lenguajes de programaci\\xF3n. Hacen posible que los desarrolladores resuelvan problemas creando programas directamente en lugar de escribir instrucciones palabra por palabra. Existen numerosos lenguajes de programaci\\xF3n, pero uno que se ha vuelto particularmente \\xFAtil para el desarrollo de juegos es Go. Tiene muchas caracter\\xEDsticas que lo convierten en una excelente opci\\xF3n para desarrollar videojuegos, incluida su simplicidad, inferencia de tipos y excelente compatibilidad con Unicode. Si est\\xE1 buscando comenzar a aprender sobre Go y sus beneficios para el desarrollo de juegos, siga leyendo. En esta publicaci\\xF3n de blog, cubriremos todo lo que necesita saber sobre Go y por qu\\xE9 es un excelente lenguaje para el desarrollo de juegos.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Python es un lenguaje de programaci\\xF3n de prop\\xF3sito general que se cre\\xF3 en 1991. Es f\\xE1cil de leer y comprender y tiene una sintaxis mucho m\\xE1s simple que otros lenguajes de programaci\\xF3n como C o Java. Su sintaxis simple, legibilidad y facilidad de uso general han hecho de Python una opci\\xF3n extremadamente popular para los nuevos programadores. Seg\\xFAn el censo de lenguajes de programaci\\xF3n de PYPL, Python es el tercer lenguaje de programaci\\xF3n m\\xE1s utilizado a nivel mundial con un uso de alrededor del 20 %. Adem\\xE1s, Python tambi\\xE9n fue identificado como uno de los 10 lenguajes inform\\xE1ticos de m\\xE1s r\\xE1pido crecimiento. Esta publicaci\\xF3n explicar\\xE1 por qu\\xE9 deber\\xEDa aprender Python, le ense\\xF1ar\\xE1 todo lo que necesita saber sobre este maravilloso lenguaje de codificaci\\xF3n y le brindar\\xE1 algunos recursos para comenzar. As\\xED que sigue leyendo para descubrir m\\xE1s sobre esta incre\\xEDble programaci\\xF3n.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tutorials-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADbH5lvKvjDT9WzVq6XaZina+iO5yReLfRR4YRydlgCmvWr6tQSSqHY/vMtUpJcm3vsYhnwDUQUELAYFWQoAf6+Iw1gIdmM+YbfMnuHqKeT5HXFZBEQGBkEGCEIaALORIU1/jr+/vfb29O/v76XP2k2UoCs2HBQmCSJnSwC7tKiW0rOH07Cx0sDGwcDQwL+joKZkaXNBb4YnnsgA4tjOQ7J8RLqEe8Ga8u7r9u6/6tbUr7O4JZK/Jp7MAO/j2UaveTWbZ1Gdb/fx7PDJW/rmW+/i0GyWqCW04QDz5N7Au6/JurTDubXDvLr36+PXpG/EpiBBsLYlt+MAyr24sKWixLey69/a+e3o5NjTWI6iKIynqKA1W66bAO/h2PHi2fLj2vTm3dLDvUaGniG+6SS86RubwhgiHj0rsfznU89ZAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Oct 02 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-mejores-tutoriales-de-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Tutoriales De Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"\\xBFQuieres aprender a programar pero no sabes por d\\xF3nde empezar? Hay tantos tutoriales de codificaci\\xF3n que es f\\xE1cil perderse. Algunos de ellos son demasiado b\\xE1sicos y otros demasiado avanzados. Encontrar el equilibrio adecuado entre demasiado f\\xE1cil y demasiado dif\\xEDcil es complicado. Por eso, en este art\\xEDculo encontrar\\xE1s los mejores tutoriales de codificaci\\xF3n para principiantes. Hemos investigado varios recursos en l\\xEDnea y elegimos los 10 principales que lo ayudar\\xE1n a dominar la codificaci\\xF3n de manera r\\xE1pida y eficiente. Desde Python de nivel principiante hasta tutoriales intermedios de HTML y CSS: puede aprender todas las habilidades esenciales de programaci\\xF3n con estos excelentes recursos. \\xA1Pru\\xE9belos y convi\\xE9rtase en un profesional de la codificaci\\xF3n en muy poco tiempo!\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-network-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAjklEQVQYlWP4ixcwkCb958/P6+8uffrxASr94tnxAzsjTx4pg/CnXW2deLl+x+N1UOk924IePdh28kjZwQPbd+/aOO96b+HxqKT9AcG9x5NnnGa4cLrt6P6MNYvV9uxZt2vnhu2PVteeSk/ZHxg39XThoosgu9+9vvz2zTWIaUee76w8mbz/6RayXE6aNADERApEBOEwgwAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Feb 03 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ir-idioma-para-la-programacion-de-redes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Ir Idioma Para La Programación De Redes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que has decidido aprender un nuevo lenguaje de programaci\\xF3n, pero \\xBFcu\\xE1l? Existen literalmente miles de lenguajes de programaci\\xF3n en la actualidad. Algunos son lenguajes de programaci\\xF3n de prop\\xF3sito general que se pueden usar para una variedad de aplicaciones. Otros son m\\xE1s especializados y se enfocan en convertirse en un experto en un dominio en particular.\nEsa \\xFAltima categor\\xEDa es donde podr\\xEDa encontrarse cuando busque un nuevo lenguaje para la programaci\\xF3n de redes. Estos son lenguajes de programaci\\xF3n que han sido dise\\xF1ados con dominios espec\\xEDficos en mente, como redes o telefon\\xEDa inform\\xE1tica. Puede pensar que no hay mucho margen para la diferenciaci\\xF3n entre estos lenguajes de programaci\\xF3n especializados, \\xA1pero hay mucho por ah\\xED!\nSi todav\\xEDa tiene dificultades para decidir cu\\xE1l es el mejor lenguaje de programaci\\xF3n Go para redes, \\xA1no se preocupe! \\xA1Hemos creado esta breve publicaci\\xF3n de blog con toda la informaci\\xF3n que necesita para tomar una decisi\\xF3n informada sobre sus futuros estudios! Siga leyendo para familiarizarse con cinco de los lenguajes de programaci\\xF3n de red m\\xE1s comunes y sus beneficios \\xFAnicos:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-artificial-intelligence.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWP4+/fvP9yA4d+/f1sufopf8nX+qZ9YpK8++cZc8IGh7DdD2e8dN0AmnTlz5ujRo39+/wFJ77z0gbHoK0R6+vG/BQUFEZUN+Z0T4+LiQNK//vzzmf6eoey31ZQ/rz/9NnZw5jj9V+DM3x27dkLtvvPm977bIGP//v1raW3jfelL0t1fLi4uf//+BUn//PXvzBOQTf/+/du/f39YWFhiYmJQYBBI9+vXrxcuXLhmzZrVq1evWrVq7dq1a9asWbx48YoVKx49esTw69evHz9+fP78+c6dOx8/fvz27dsnMLhz586PHz9AhuMJFgCKfvM5X5BLmQAAAABJRU5ErkJggg==",
-      "createdAt": "Thu May 20 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "go-language-para-la-inteligencia-artificial",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Go Language Para La Inteligencia Artificial",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La tecnolog\\xEDa de inteligencia artificial est\\xE1 creciendo r\\xE1pidamente en todos los sectores. Todas las organizaciones importantes buscan adoptar tecnolog\\xEDa de inteligencia artificial para automatizar procesos, hacer que su negocio sea m\\xE1s eficiente y mejorar la experiencia de sus clientes. Sin embargo, la mayor\\xEDa de estas empresas luchan por elegir las herramientas y los marcos de trabajo de aprendizaje autom\\xE1tico adecuados para sus proyectos de IA, ya que hay varias opciones disponibles en el mercado.\nSi tambi\\xE9n planea implementar un proyecto de IA en su organizaci\\xF3n o desarrollar una aplicaci\\xF3n que requiera algoritmos de inteligencia artificial, deber\\xEDa considerar usar Golang para su desarrollo de software.\nGo es un lenguaje de programaci\\xF3n creado por Google y es una de las opciones m\\xE1s populares para desarrollar una aplicaci\\xF3n de IA o implementar un sistema de IA en su organizaci\\xF3n debido a sus potentes funciones. Exploremos por qu\\xE9 Go es una excelente opci\\xF3n para desarrollar aplicaciones de inteligencia artificial y c\\xF3mo se puede usar para construir un sistema de IA estable.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-tricks-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APzT3/zT3/vV4PvW3vvW3vvV4PmVzfyIzPzT3/HP3QDs0d/71eD71eD71eDQx+PIpt/RidjFseP39vny1OAA7NHf/N/pvN3vgNLtZs3vVcjthdfwWcrt7/j8/dzlAPttxv2r4ofX82PL7DW96jS+6jm/6wix6On2+pnH8AD7Kbj6gdOq4/Qqu+oEr+c9weset+oLsenG6ve11/UA8x21+FPG2/P6C7HpNL7qVMfrbc7tV8ftmt305/D7AOhNs/Mnt/z7/FDH7HLR7m/P7IbW8Jnc8c3e8fjQ5gDLprfmIK7w4PHF5fPUweX2n9z8cdD8QcD6S7r6udEAf2Vt6X264C6x6xqx9Bmz9hy19hyz9mS6+8TU/MrZAOewwvu/0do7p+UQruwWsu4ds/R9vPzF1f3I2PzH1wHG4qDJkQq5AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 01 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-mejores-trucos-de-codificacion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Mejores Trucos De Codificación Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Debes haber o\\xEDdo hablar de la codificaci\\xF3n antes. Incluso puede saber que es algo que los desarrolladores de software usan para crear aplicaciones y otros productos digitales. Lo que quiz\\xE1s no sepa es que la codificaci\\xF3n puede ser muy divertida.\nLa codificaci\\xF3n es esencialmente el proceso de crear instrucciones para una computadora, de modo que pueda entender lo que usted quiere que haga. Estas instrucciones se conocen com\\xFAnmente como \"c\\xF3digo\" porque son cadenas de caracteres, palabras, frases y s\\xEDmbolos que aparecen en archivos de texto con una extensi\\xF3n .txt.\nLa codificaci\\xF3n no es una habilidad f\\xE1cil de dominar y lleva muchos a\\xF1os a los codificadores perfeccionar sus habilidades. Sin embargo, hay algunos consejos y trucos b\\xE1sicos que todos los nuevos en la codificaci\\xF3n deber\\xEDan saber. Una vez que comprenda estos principios, su c\\xF3digo se volver\\xE1 m\\xE1s legible y l\\xF3gico, lo que har\\xE1 que sea mucho m\\xE1s f\\xE1cil para otros seguir su l\\xF3gica, lo que finalmente hace que sus programas sean m\\xE1s eficientes y f\\xE1ciles de actualizar para otros codificadores en el futuro si es necesario.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-image-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVQYlT3OT0vCcBzH8T2Fig6jW4+gB9GhnkjXTnULIjp1r1OQhGI0cw4LR2jTOdpA+1U6muZ++6MMW+o2p/6SwVdqEX2uLz7wpgCg03mRqpxlvun6q4FVA6u29T6Z+gBALRYL96M7GvRRnS0KCbUhtluSiZE/cmMGgCiKAKDdOMxeLynS5l1hm+HXJXQUs+M4CCHXdQ09mUkvk0kHAFBzN8mtuZ8yFQSBruu+73eNy6v0ynxmAoCKT85ztGHnqTAMPc8jhJg4xTCrve5pMEaFx60EtzEjQ4rn2WqlVBEFE6fYDP38tCeIO3L9eOhbf+XwOxufZXP018wGAEVRZFnWNC0u7/d7hExr0kFd3o/mg3E4+v/ErDZr5Qe2eH/DsRflEle4Tee5hGW2fvgbYOj0GULuhyIAAAAASUVORK5CYII=",
-      "createdAt": "Wed Jan 12 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "python-el-lenguaje-para-el-procesamiento-de-imagenes",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Python: El Lenguaje Para El Procesamiento De Imágenes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La visi\\xF3n por computadora y el procesamiento de im\\xE1genes son clave para permitir que las m\\xE1quinas entiendan el mundo. Por ejemplo, los autom\\xF3viles modernos pueden detectar peatones con c\\xE1maras en lugar de otros sensores porque la c\\xE1mara puede identificarlos como objetos inm\\xF3viles que son m\\xE1s peque\\xF1os que los \\xE1rboles habituales y tienen una reflectividad diferente de las marcas viales t\\xEDpicas.\nEste art\\xEDculo cubre Python, un lenguaje cada vez m\\xE1s popular para tareas de procesamiento de im\\xE1genes. Es un lenguaje din\\xE1mico como Ruby, que facilita la lectura y escritura de programas. Adem\\xE1s, Python incluye varias bibliotecas \\xFAtiles para el procesamiento de im\\xE1genes, como OpenCV (Computer Vision) y PIL (Python Imaging Library). Si eres nuevo en la programaci\\xF3n, consulta nuestro art\\xEDculo sobre Por qu\\xE9 Python es un excelente primer lenguaje de programaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/7-javascript-basics-every-typescript-developer-should-know.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANfLvcW5rcS3sJ2Wl9zRzLGsreDZ15KUmq+xt5yQhwDMwLTHvbO1qKG8r6rFt66uoZyOg4DNx8LDvbiwqKIAybqqq5uObmRga2JefHVzuK2oz8W9ysC4x7+2saWcAIJ5dYR9e7qyq8a8tLevqZGPi2lxekJKUKuooNXRwgC9r6TDubGhmphUWl9SW19jaGaLioOkoZfCwbbd28wAwbGmwrqoTlNUhoN4qaWdxMK10c7Etq+mfnZwZ19iALOpo7q2pqalk8vGr52VjHFxc1ZbZ4OAhZiTl8CxqADKvK+PiYVwb3JVZnuGlKSzs7PSv6y7p5edjoXCr6MAvKqburazsKeoz7CdybqoyLip1sGrxrCcjXxyz7ajAJeNh93IsMSmkLqaitG1msu+sMS4rq2akMa0qLyllqb7vgC6Wu09AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "7-conceptos-basicos-de-javascript-que-todo-desarrollador-de-typescript-debe-saber",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "7 Conceptos Básicos De JavaScript Que Todo Desarrollador De TypeScript Debe Saber",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, la mayor\\xEDa de los desarrolladores utilizan m\\xFAltiples lenguajes de programaci\\xF3n para diferentes proyectos y prop\\xF3sitos. Y con las nuevas tecnolog\\xEDas que surgen casi todos los d\\xEDas, los desarrolladores deben mantenerse al tanto de su juego para seguir siendo relevantes en su campo.\nY es por eso que aprender m\\xFAltiples lenguajes de programaci\\xF3n es tan importante. No importa cu\\xE1l sea su especialidad o qu\\xE9 tipo de software desee desarrollar como carrera, conocer m\\xE1s de un lenguaje de programaci\\xF3n lo ayudar\\xE1 a ver las cosas desde diferentes perspectivas, reconocer patrones y resolver problemas de manera m\\xE1s eficiente.\nEn esta publicaci\\xF3n de blog, veremos 7 conceptos b\\xE1sicos de JavaScript que todo desarrollador de TypeScript deber\\xEDa saber. Al final de esta publicaci\\xF3n, habr\\xE1 obtenido una base s\\xF3lida en varias \\xE1reas clave del desarrollo de TypeScript y estar\\xE1 listo para profundizar en \\xE9l.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-find-the-best-coding-help-online.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABH0lEQVQYlV3PPUrDYAAA0O8ygoMOungCV3EQNw8gLmYRBA8QNGRQLP6EoKZVSpVKTDG2djC0Rkya1MaGUio2+f6TqD2CYKGD85seKNdZySTFB7JhBvMX9lLJWTf8bdNbuXZ26gFwOmk7ZL0PPogxxhQhAiF+739OnVjT568gy745SycQRwhCDCFeUK0Z7Y8p4c2GfVvWZVmWJAlCjBBZLb7M5h2QZF+cpa7j6bqh60Y+f3mwf3h8dLp5584VPFAxLUVRBEEQxV1VPdO0gmlWWy1/77G9eOMB14dh2OMs5SxlNGE0QYhQwq/s7lolAF53xFlKCf/HT53+Vu0NNN1RkmQY0wmPF4MhWs7dg+rzz5gZTSjhEOJoCOMIIUTEXO0XXKzp4df7nt0AAAAASUVORK5CYII=",
-      "createdAt": "Fri May 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQYlRXIyS4DYQAA4P9B3HBwdnL1Bo2Lozeog4vE1UGibYSkphvtNKWoSC3FaEJSrTEGo4suhtGZf/5t9tTFSXzHD5SuCX8KL6ooLLSmeXGuJC9WlOXL59Dh40q1CaQ39tqhPZUon0ZXg9hEDsbK+2Bi+24sIwLfc22L2ZYVOK5pwF5/MNRhX9Vm840pXgaE2pTa9Ya4s5uLx7li8cAPRi5l80fieFYClDkY01qtzvP5QmEvmUzFNjZzCS5cliZzEjiv3KbT6Ug0th6Jclwim+VPymeK+LAqvMzsy0CUv9qtpqpqmDBmOUEwsh3vN/BT9+1QSQatwU/gu4QwQi0TU9PEQx16BB8/dZcEBdRkjzEKIcKEIUwxYRAigrDc+VjI3ACh7jH2XxhThIhhQE371nWoD421ras/r3nqR8T+2vkAAAAASUVORK5CYII=",
+      "imageId": "459c7e61-a210-436b-8c4a-27139866bc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -155,16 +65,106 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-web-scraping.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/klEQVQYlWNgZmYDI2YYgw0ZMUzuY40MZy7IYQ0PYe1uYe1oYZnUy9bfyTKxG8Rl6O9gmz+LdftGltYGEGqoAsk117Lt3crW1sjKcGgPSO7SSZb+TpbZU1j3bmXrbWdta2Q9vp911RJWhv9fWH59ZP3wgvXdU5b5s1h/fWR9/5zl9UPWr69ZPr9gYbCxYrG2YLW2YE2KY+lsZY2LArGtLVitzNmszNkYmJnZWFlZmZmZWVnYsbjcysrKxcXFzc3Nw8NDUVExMTHRysrK3Nzc2NjYysqKITw83NHR2dbG3tjYVFVVVVtbNzMz08rKxt7e3tLSkoGdnRMpZEAAWQQACpBLCY8SWMkAAAAASUVORK5CYII=",
-      "createdAt": "Fri Apr 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "python-el-lenguaje-para-web-scraping",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHElEQVQYlR3BTU7CQBgA0DmrcgLdsIILcALZigsbtlgpnZ/OtJ0IlNAWQwlFDRKwSUNiWpTamc/oewgAiqJIN5v5fB4EQRiGcRznea61Vkqhsiw556ZpYoyllLZtP/wx8zyvqgotl8uRZfm+H4ah9H0pJSXEcRxCSLd7gxzOmee5nmdjbFNKhRBSMiEMw0iSBD2Pn15sO10s0ih6n82S4XA9tBLPk0J8ZBlSm7S8vKharXOj8X199dPpVM3mud3+6t29ZRn6PBzG/f50MJga9wkhASYhpc5t7zUIuOuiWutxHFmMPjLmTSaY8xFjJqXb/R4AEACcimIRRRRjh1JXCEbperXSStV1jZRSWmsAOB6P2+12t9uVpxIA9L9fzi30aHeIvQ8AAAAASUVORK5CYII=",
+      "imageId": "3c7b7b1b-299f-4416-5dc7-6fefa7119a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "seguridad-java",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Python - El Lenguaje Para Web Scraping",
+      "title": "Seguridad Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El raspado web es la pr\\xE1ctica de extraer datos de sitios web. En este blog, discutiremos por qu\\xE9 deber\\xEDa aprender Python para el web scraping, as\\xED como tambi\\xE9n proporcionaremos ejemplos, recursos y sugerencias para comenzar. La red mundial ha hecho que sea m\\xE1s f\\xE1cil que nunca compartir informaci\\xF3n entre s\\xED. Sin embargo, esa misma facilidad de acceso tambi\\xE9n ha hecho que sea m\\xE1s dif\\xEDcil que nunca separar la informaci\\xF3n \\xFAtil del ruido. Debido a esto, muchos desarrolladores han recurrido al web scraping para extraer la informaci\\xF3n que necesitan de los sitios web sin tener que buscar manualmente o filtrar todo individualmente. \\xA1Afortunadamente para ti, Python es un lenguaje perfecto para comenzar con el web scraping! Este blog cubrir\\xE1 por qu\\xE9 deber\\xEDa aprender Python para web scraping y ofrecer\\xE1 recursos \\xFAtiles para comenzar a aprenderlo.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los dispositivos conectados a Internet contempor\\xE1neos son sistemas en red complejos con requisitos de seguridad desafiantes. Los nuevos vectores de ataque y riesgos de IoT surgen de la convergencia de servicios digitales, sociales, m\\xF3viles, en la nube, de sensores y otros nuevos servicios de Internet.\nLa seguridad es una de las principales preocupaciones tanto para los fabricantes de dispositivos como para los usuarios. Muchos consumidores tienen reservas sobre la seguridad de los dispositivos y servicios de IoT debido a experiencias pasadas con virus inform\\xE1ticos, software esp\\xEDa, conexiones Wi-Fi inseguras, violaci\\xF3n de informaci\\xF3n personal de bases de datos y otros incidentes causados por sistemas no seguros. La seguridad debe abordarse desde el comienzo de cada ciclo de vida del producto. Cada fase requiere un conjunto adecuado de medidas de seguridad para proteger los datos contra el robo o el sabotaje, as\\xED como contra las amenazas internas, como los malintencionados o los empleados deshonestos con acceso privilegiado. Un programa de seguridad integral debe cubrir varias \\xE1reas clave, que incluyen:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOXv+efz/N3o8dDa5Nnj783b5dLi7Mze6dDk8LzR3QDX5Ozh6vTP2eLH0dnS3Oa8x9DQ4OrM3efK3OjA1eEA4e/54v//7PL4pKqysbnBsrrCtb/IrrrEn6y2mqiyAOXu+Km6wqOosbO5wrrCysXO2MHM1rO9x6azvJekrgC8w80NCxBUT1T4///y/P/o8vva5e/g7fjb6/bQ4u4AytPZg2FbtZaVzdji2OLt7fj/5O/35/T/4e/83e79AIS+646Nob+zu3WDko6dqpilsYCPl6W2wNbs+9nw/wBUmNdRj8zKxs3WzNHDxNAhHyMACggsQUTQ1+HS4OwAYKvqS4jHXn6qq5OTpIWBb2NpNTc9a2pu0b2/yLi6AGaLzUSMz1uV3JOTq4qQqbuamLKjpsi4t867vMu4utVp2mf9j5cAAAAAAElFTkSuQmCC",
+      "imageId": "48b60557-9e24-4f4f-fb4e-3e7a7a871a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Beneficios De Aprender a Programar",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABM0lEQVQYlR3NO0/CUBiA4WPiP3B2MDFx1MS4u5q4OxIHVxf1T4Di4CaXSjR1koSBIEYhHsRQuVhtG4gDLeHWC7EqLRQ453ymvHn2F7me9zceu5OpR5kH4KPUN51RSlE5l8f8RT2ftMrFbuGh+/Jo1l7bAm5KIgAgM3hENxZge2m4s2Inzn6TUedkz9tdNbkwAUCGIhJJ+OCjUi5bVRThXaw9ZclnqVeXZoyhnq4zgEKlViwJ/M11IsHdpVIEwLJM/91qaUApMDZ0nNwzztxnZFmORSIcF7dtG7U7XVPAweODN/6SfFtTSgFgMBiEQiGMMZKb6tfhfnltsbS53Lg67fT7LU0zDENTNcYYYgCV83AcodutdUttjLyJ67qO44zGI/8NAD+6HgsExHQaACghbB6d9w9EM/Mn4/sTrwAAAABJRU5ErkJggg==",
+      "imageId": "72de0614-96cb-474e-440d-8d74c6942600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "aplicaciones-web-con-java",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Aplicaciones Web Con Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que sea un desarrollador nuevo o tenga algo de experiencia, es muy probable que est\\xE9 trabajando con aplicaciones web m\\xE1s temprano que tarde. De hecho, la demanda de este tipo de aplicaciones est\\xE1 creciendo todo el tiempo, y los desarrolladores de Java que pueden crearlas tienen una gran demanda.\nTrabajar con un lenguaje de programaci\\xF3n como Java, que ha existido durante tanto tiempo y ha demostrado su poder de permanencia una y otra vez, es tanto una oportunidad como un desaf\\xEDo. Porque todos los dem\\xE1s programadores tambi\\xE9n han descubierto lo mismo sobre Java: que es estable y potente.\nEso no significa que no haya muchos marcos y bibliotecas para elegir: \\xA1hay opciones m\\xE1s que suficientes para elegir! Estas bibliotecas y marcos facilitan la creaci\\xF3n de sitios web con Java sin tener que preocuparse por el c\\xF3digo repetitivo o los detalles de la sintaxis. Entonces, echemos un vistazo a algunas de sus mejores opciones para crear aplicaciones web con Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AO3t7fz8/Pz8/fn6+fz8/OTk5fn5+fr6+////vj4+ACnp6WPkZ3OvmCgl2CqrLd5eXW0tbuQi2//50R7eGUArq6rioyY08ZvoZpopqeyhoaDtbW6hIFs//Vub21iAKenpri5vtbPp7u4ocjJzp+enb29v7m4s+7nvJubnACsrKydnZyys7q4uL3a2tmhoaG7u7vb3N2Nj5W/v74A6urq3Nzd8vHr8fHt8/P0zMzM9fX17/Dv8vHp7+/vAKSkoZCSn86+XJ6VXKiqtn19ebKzuo2Ja//oQHh0YACpqaeKjJfTxnSim2ymqLKAgH2ztLiEgW7/9XZtbGMAsLCvwcHG3de1yMWx0dLWtLSzzs/Qx8bC9O7LtLS1AKOjo5+fnqKjq7W1udDQz5qamr6+vtXV1ouMlMHBwbMO1sN3BIpHAAAAAElFTkSuQmCC",
+      "imageId": "c38ed2fd-2522-4032-5abd-199909cb7100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "ir-idioma-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Ir Idioma Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que hoy en d\\xEDa hay m\\xE1s de 5000 lenguajes de programaci\\xF3n en el mundo? Y de esos, solo un pu\\xF1ado ha obtenido una adopci\\xF3n generalizada. Cada d\\xEDa se crean lenguajes de programaci\\xF3n m\\xE1s nuevos y oscuros. De hecho, parece que el mercado est\\xE1 sobresaturado con ellos.\nPero Go se distingue de todos los dem\\xE1s lenguajes de programaci\\xF3n por su simplicidad y facilidad de uso. Ha sido adoptado por algunas de las firmas de tecnolog\\xEDa m\\xE1s grandes del mundo (Google, Digital Ocean, Intuit, Wordpress.com y Heroku) por su facilidad de uso, sintaxis simple y rendimiento r\\xE1pido.\nAunque es uno de los lenguajes de programaci\\xF3n m\\xE1s nuevos en la actualidad, Go est\\xE1 creciendo constantemente en popularidad entre los desarrolladores y las empresas. En este art\\xEDculo, exploraremos qu\\xE9 hace que este idioma sea tan \\xFAnico y por qu\\xE9 vale la pena aprenderlo para los principiantes.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABAUlEQVQYlWWQy07DMBRE/f8b+AYQbJCQWAASqELQFvKA1iFNnXftUpdVHDdR2jS1ryGwQeJsjzQzGhQv6PHp+eX9oKprDaCU0n9ARydn1hSbfwBAr1PGtNYky/MVT9iScs74mnJebDa9NsYclPLC6C0gN09Dx/eDJMUkfA2IMQZdD0fzLCf5YkoiZxa4s2AyJ36cXD08TkiIvCi+HY2f8Ttdf2YfPKLs4m4wxp4XxRFlffiu3Wut921bCiFLURbFbrv9XYeCNE+Xq4NSUkrLsl4sy3VdQvpipRQqNxUAGGOEELZtY4xt23Ych1Laa/i5AgC6rqvrumkaIURVVVLKb/0FDrcM+s/4/JIAAAAASUVORK5CYII=",
+      "imageId": "bd84ccfc-78cd-42a6-0072-2f84bbbd3800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "las-principales-tendencias-en-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Principales Tendencias En Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software tienen la tarea de encontrar soluciones a problemas complejos todos los d\\xEDas. La industria del software est\\xE1 en constante evoluci\\xF3n y los ingenieros deben mantenerse actualizados sobre las \\xFAltimas tendencias y tecnolog\\xEDas para mantener sus habilidades actualizadas y relevantes.\nLos ingenieros de software deben esperar ver una afluencia de nuevas tendencias de ingenier\\xEDa de software en el pr\\xF3ximo a\\xF1o. Los ingenieros deben estar preparados para adaptar sus habilidades y dominar nuevas t\\xE9cnicas a medida que el mundo del software contin\\xFAa cambiando r\\xE1pidamente. A medida que la tecnolog\\xEDa avanza a un ritmo acelerado, es importante que los ingenieros sean conscientes de s\\xED mismos y aprendan constantemente sobre nuevas formas de hacer las cosas para que puedan seguir proporcionando valor a trav\\xE9s de su trabajo.\nAqu\\xED hay algunas tendencias de ingenier\\xEDa de software que debe conocer en 2019 y m\\xE1s all\\xE1. Siga leyendo y prep\\xE1rese para un futuro lleno de oportunidades para quienes puedan mantenerse al d\\xEDa con estos cambios.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTz6+X07eLx6PP/+o+YlHlUQYdcRTMxLsvVz+v27QDh8Ojp+fDs/PTo+fJdXFmpemWfdWAoHhd2fHn1//gA6/vz5/jw8f/5r7y4QDUvtIR0mmZcX0Q3LTIx6fbuAOT17er68/L//M/a1jEvLMmVfdaSeFdAMl5mZ/D+9QDn/vfo+vPn+fPy//+Mk5GtnIDWrYiPeGDO2M3r/fQA3NDI59nU6vz35dvS69bD//DH5ceiv6B+wZyA3se6AMyMfcqZhuPg2vHSyNi+s9PHvNS3o+XFtePDtuq9rQBlXVpYUUxXVlVVVVVPTk08Pz91cW/y3tTOtKfQopIAPkVFPkREPkRCP0hDPkBAOTw7WllY3cS7u5qNuZSHAEJGRT9BQUJKRkdWTj0+P0FDQUNERKiNg7aQg6yGezQHuni4OAoeAAAAAElFTkSuQmCC",
+      "imageId": "5c0da510-ba62-4f45-7866-c58f4e78e500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-fundamentos-de-la-codificacion-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Los Fundamentos De La Codificación Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Incluso si no te consideras un genio de la tecnolog\\xEDa, es posible que descubras que la codificaci\\xF3n es tu vocaci\\xF3n. Este puede ser un tema complicado para comenzar y continuar, pero estamos aqu\\xED para pon\\xE9rtelo f\\xE1cil. La codificaci\\xF3n para principiantes no es tan dif\\xEDcil como podr\\xEDa creer, solo requiere algo de tiempo de estudio y pr\\xE1ctica. No ser\\xE1 f\\xE1cil al principio, pero con el tiempo y la cantidad adecuada de dedicaci\\xF3n, cualquiera puede aprender los fundamentos de la codificaci\\xF3n, ya sea que tenga conocimientos previos o no.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una de las habilidades m\\xE1s importantes en el mercado laboral actual. Incluso si no desea convertirse en ingeniero de software o similar, comprender los principios b\\xE1sicos de codificaci\\xF3n puede brindarle una ventaja en casi cualquier otro campo. Ver\\xE1, cualquier cosa, desde contabilidad hasta atenci\\xF3n m\\xE9dica, usa tecnolog\\xEDa a diario, a menudo involucrando software avanzado o sistemas de inteligencia artificial.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPQlma2VGF21WH2NWQONGIOMGL21mN21GA2UWRWFWdmcNBmCbVgTXdlK/JhLfFhKfFhzvFgibVj9TZkMVNhZvAxYshyY2yNYJqSyDIzjXVaCmtPPFtVMFuyC5ubAQvDzK7AnYuj1nfobGuVWZ3HsKqQeWEOU38iU4k/Y5gNM8O6RenLWkxvHC49MllvZ53Anlapra3yS6rkuzNlU7wFGTJ8+BtC2bf2mu7o0Li+K+fSxpgLO7L2r0xePTW0KsOUwd+UOcuDvdCDsTKAu8qfrTqIs8ifN9aWxdeIwVaDicFOiyXYkiXNnTXPi7ksgLnEjznTlSnOkcXLmMVUlYVBR4bZSpXZXZfJz4g52ASEfAyYnbSYTZWY1SSYGaQFmNXEmfVlmEwVmCyUQMhYnklHillJhFmSjxkAlYRON1dp/hwAAAAASUVORK5CYII=",
+      "imageId": "88c30a3e-c229-4e88-fc59-f0d81fb7ce00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "python-el-lenguaje-del-manana",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python - El Lenguaje Del Mañana",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As\\xED que quieres entrar en la programaci\\xF3n, pero no est\\xE1s seguro de por d\\xF3nde empezar. Sabes que existen muchos lenguajes de programaci\\xF3n diferentes y que se pueden usar para diferentes cosas, pero \\xBFcu\\xE1l es el mejor para aprender primero? Bueno, te sorprender\\xE1 saber que es Python. \\xBFPor qu\\xE9? Porque es el lenguaje del ma\\xF1ana.\nAhora podr\\xEDas estar pensando: \\xBFPor qu\\xE9 eso lo convierte en el idioma del ma\\xF1ana? Despu\\xE9s de todo, \\xBFno deber\\xEDamos centrarnos en aprender lenguajes como COBOL que nos ayudar\\xE1n en nuestra futura carrera como contadores o algo as\\xED? Bueno... tal vez. Pero tal vez no tanto. Mira, mientras esos otros lenguajes de programaci\\xF3n son geniales para algunas cosas, no lo son tanto para otras. Y cuando echamos un vistazo a lo que otros lenguajes de programaci\\xF3n no podr\\xE1n hacer en el futuro debido a sus limitaciones (o tal vez solo a su edad), vemos por qu\\xE9 los programadores de hoy dicen que Python ser\\xE1 el lenguaje dominante de ma\\xF1ana. \\xA1Vamos a sumergirnos en por qu\\xE9 echando un vistazo a varias razones por las que Python es un primer lenguaje de programaci\\xF3n fant\\xE1stico para aprender hoy!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

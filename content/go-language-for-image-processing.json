@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-image-processing.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNElEQVQYlT3Oz0vCYBzH8e86BF08R90i6F/w7wjDcx46Rif9njYYsnYaS4guscrNpIPQD6FR7TBqQRato2sIklKmUs78ge55HiKFPqc3vC4fqNfrnue5rmtZFiJGo1GO40RRZIxRSqFc8W3bNk2zUCjoui7LciwWEwSh51bLyQxEwnDVr9yWSo7jmKaZy+V0XY/H481EftT4AqAE+uHOgDLGDMPQNK1WqyFiL+9OeEzgm5z3SWcUagf7qqq2Wi1EfN84ap7eAQzJ/Ge4cjWIqI+CsidJkud5iDjs/jSKNnAdmvggM0YX+Jv8vc8mQ0RJSmezh7AesHZIl4/bs8nLarPzzxfFM8u6hrnXsROQzFOQMJ4p/TvIGEulUtOAhZfR2sNgafdtcfNka9sQ0zLP84qiTPkXcDPRYx4To6EAAAAASUVORK5CYII=",
-  "createdAt": "2022-03-18T14:57:57.919Z",
-  "updatedAt": "2022-10-11T17:15:57.419Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOPi4tPV1dDQz7q6un9/fzk5OQAAAIODg/////j39wDL2trCtLSppqaXmJeVlJOEhIQvLi9ydnX/1urXeJQAF/7+XOHjy9DR0M/Ov8C/nZ2dq6uraWlq3GSf98rdAAP9+wD4/pD3/f///7K2toWFhejo6IyRj92Js/3Z6wAC+/sA7/ug7vj9/v+kpKKVlpXy8/OGhofZap3qnLcAAPf7IOn9MLz1GJjSh5eeiYaD4eLjiYyK2tXX4aq5AADu+1bj/Bqr9ABwtqS/1fj08P3+/3V0dJCPjrC7tgBe8Pzs/f88r+4Le7re5+7///////97e3ukpKO+vLsAGtr60/f/icXsUJzL/vz7////////eHh47u7u////AA3O+k/H9y6a4hRrqXKGo42MjnZ3dpGRkv////z8/JCJ0JQxQrT2AAAAAElFTkSuQmCC",
+  "imageId": "5af5995e-ec8d-4985-2845-70c5ed023a00",
+  "createdAt": "2022-11-05T21:53:00.127Z",
+  "updatedAt": "2022-11-05T21:53:00.451Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-image-processing",
   "locale": "en",
@@ -20,100 +20,85 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXLW0vCYADG8ffbRRQdtinVhV0IhWXiyuywvXsPsyi6SQqjm7qVkpKKMDrIMqdjQmpBlmFW2hQrUZnXMYKH/82PB6xLqwJnIyN2YreJLCswnMAwK6ODGw7G1dMLri7cmjKr3/3Pq6u8rvJaik+r3mTCA56q+OiWniSokqVRBR/ekOsMPlfJWYo0TAiMDooqNFNEp0mLI3GqZHFMQ1EFW1w3kVYgsTRJ5nHRQPdFnCuhh3dU70gWN0yYeSHhSxw6IK91KRKnu8dkbV9umNDixw+cf8O1Nnyuop+uWKhI313rVzNFoyOAmC4tbcmLwcDCpgx3ZBSShW0a2CP+IMmWJVD+FcvN5c+m+NUWjZbVWhvmSrDSEiotAcy5Wd8M53dz89Osz8Xxk8Me59DU+MCEo9851vcHjTG9mheG1W8AAAAASUVORK5CYII=",
-      "createdAt": "Tue Aug 18 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ABYWGRwYGxgeISIfI0YWG1kQFFkRFEQPEhoUFwwXGQAdGRweICRSGh3BGBvkKy3zJSfwKizmKi3GFxhTDxEAJR4iIiktsg4Q/wME3ElM11JW20pO4kZK/wsMxQMDACYfJC0qMFgpLr8XGe0jJe0hIvAeIuIcHcMICUsVGAA6NDdFOj00Nj5eMTeTHyJuMTVqJSlUIygpKCwdISUAST8+fm9kUEFBV0FDU01RU05SQj9GOTU7MyktJx8jACchJ35zWIl9WIBzUoNzV4h6W0M0OzsvNS8oKyMeIgAmICVoYUZxakuDe1SCeVWFfFdHPT00KzEmISYhHCAAIBsggHdTV1A/amJJdm5OeHBQg3tWUUo7LCYoGxgbACckImtkRXRuS19ZQWNcQ393UVxXPmZgQ1BKNxIQFvhXUcne6dZiAAAAAElFTkSuQmCC",
+      "imageId": "13aaa697-a23b-4871-9814-6b62171aed00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-make-websites-with-javascript-a-step-by-step-guide-to-learning-javascript",
+      "slug": "python-a-versatile-language",
       "locale": "en",
-      "title": "How to Make Websites with JavaScript: A Step-By-Step Guide to Learning JavaScript",
+      "title": "Python - A Versatile Language",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are interested in programming and website development, you have probably heard of JavaScript and its role in creating websites. But how does it work? How can you learn to use it? This article will introduce you to JavaScript as a coding language and walk you through the process of learning this important skill.\nWhether you\\u2019re looking for a new career, want to build your personal portfolio, or just like experimenting with new skills, learning to code is an interesting and rewarding venture. There are many different programming languages out there that you can learn, but one of the most accessible ones for beginners is JavaScript.\nIf you\\u2019re reading this article, then it means that you\\u2019ve already taken the first step towards becoming fluent in this coding language; You know there\\u2019s something called JavaScript and now you want to know more about it. Let\\u2019s get started!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of programming languages out there today. Each has its own unique set of features, strengths, and weakness. Some are more general purpose than others; some are more suited to specific tasks.\nThis article will explore the Python programming language and why it\\u2019s so useful to know if you\\u2019re interested in becoming a software developer. After reading this article, you should have a solid understanding of what Python is and why it stands out from other popular programming languages such as C++, Java, JavaScript, and others.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-the-web.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWN49fISCL248uvXr78YgGHLxoadOyetWl549/Y6uOjnTy+h0o8e7j+8r3XTaveNaxMvXVz96P7q2zc3rl1ut2dHzfGDEQwXzi0+fbz70L6yo4dnbl6ffuFM/73bK7av17x27diN68sZzp9ZdP3KukMHJl+/snjVUvO1ywIePzq5ZpnX0UPNjx8dYLh0Yfmy+fbz5/hfuHDo3v07J04eu379+vkLZ89fOPnw4X2GqxcXXruydNeuXStXrpwzZ850MFiyZMmiRYtWrVrFcOb00muX1kPc+fXr1x9ggPDYgb01N65uxPQxVHrPzrLPX97jkgYARYPz8PONR3sAAAAASUVORK5CYII=",
-      "createdAt": "Wed Jul 27 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABGElEQVQYlU3J30qDUBzAcZ+py14j6LaLXqDLbvrzAN1ERfdBMRgzB5krRpNCE9qQKfO4pVs05izFna2zHefh+AtXQd+7Lx9hPp+zVZQuOOfL5TLLsvwvQVXValWq1e5LpYosK5J0LYqiLN8oiuL7vpCmlBCKcTQOWhgHhNAoiiaTCcaYUioAAMumw/65a++1jMNghDxv0O97jKUAUHAUPvrufqW0vb4mnB3vAMA4+By+h7+MkzZq7yLroHy5oWkXABAmuukdFcw5ZywLR3d+9yT+uM3YgnMoP19tnW4WnOc5/Otnh1OqvcUFJ0limmaz+YIQsm2r1+s6DupY1uDV/SJEiOO4Xq/rum4YhqqqHcd5WvXQaMxms2+AtAEJKuAn4AAAAABJRU5ErkJggg==",
+      "imageId": "70617ea5-3ad5-47d5-51ec-0fe4a3294200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-the-web",
+      "slug": "introduction-to-hibernate",
       "locale": "en",
-      "title": "Python - The Language of the Web",
+      "title": "Introduction to Hibernate",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`High availability of services is a key success factor for enterprises and service providers. In today\\u2019s world, there is an increased penetration of mobile devices and other end user devices that need always-on services. So, it becomes essential for enterprises to implement systems that can handle frequent outages and are always available.\nThis blog is the first article in our Hibernate series where we will be covering all the concepts related to Hibernate. Here, we will begin by understanding What Is Hibernate? How Does It Differ From Other APIs? And learn about the different versions of Hibernate. We will also go through an introduction to the Architecture of Hibernate and its core components such as sessionFactory, Session, etc.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-step-by-step-guide-to-learning-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlX2QsUrDQByHT3yGPod0EpvFwa2rj+BzZMiQKUQR4+igcRWSQEIq3BB0Mbi0YGINCOGuiSG1/1yb5qJcEUPnfvy2b/jghwQZ7hj6jO9ESza/pWiJYO4PC9p1ytezdhVPXs5RGIZ5nm86CCF1XXPOAYBz7vv+v7YsyzAMRVFUVdV1XdM0WZZN09zqoigYYwAghGiapixLbfF1xubD9zEKgsDzvKcOSil0HNDp6eq7D7NtO0kSSqkQoqoqAOjT+GRZSpAjx3EwxrZtY4yzLIuiyHXd3sfr3oLuz1M0uh3Eo6P0WXrzB/cXxw/G4fRRupxcGdGNOr5Gu2/5A9Yl5ZK0D9YWAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIyw0o2uz5y62K7F3p2vvoabq6bD4abB26rE3aK+2gCdsMiguNaBnbxxiZwxQEMnMzVcc4WDnr6BoceIqNEAP1FQX3R1MUE+T3B3Q2NtQF1mTHB6MkNAQF1iPVheADFQSSJURys6NEdmZ05aY01XXVZ3fzJGQiRWSzVZTQBubG9BTVJqZ2dmYF1iX1t4dnViX1x0aWhDTFFrcXcAKCcnICIlLCkqICIjKCgsLSstICEhKScnGxwbIR8fAEVtLUlzMUJsK0ZsLkFjLEBiK0VtLD9qJEJrKEBoJwBflTxhljtmmUFnlkRoi05ph1Rkhk9jiExgjT9ejjkARWQ1R2Y2TWw6U2VLUFVVUlFbU1JcUFBWT2NGSWs3AEFKQkBIQkNGRkdHS0hJTEtMUElJTkZHSkRHR0BHQe3nbtSy3KN0AAAAAElFTkSuQmCC",
+      "imageId": "13735c04-8a11-4273-c798-4489736b4700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "javascript-for-beginners-a-step-by-step-guide-to-learning-javascript",
+      "slug": "inheritance-in-java",
       "locale": "en",
-      "title": "JavaScript for Beginners: A Step-By-Step Guide to Learning JavaScript",
+      "title": "Inheritance in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Let\\u2019s face it: there are plenty of programming languages out there and each one has its own unique features and quirks. So, which one should you learn first? If you\\u2019re looking to get started in the world of coding, Javascript is a fantastic place to start. In fact, it can be a great beginner programming language for those who have little or no experience in this field. Why is that? Well, as the most common language used for website creation, learning Javascript helps you understand how websites operate on an individual level.\nLet this step-by-step guide to learning Javascript help you take your new skillset to the next level! From understanding what Javascript is and why it\\u2019s important to mastering the fundamentals of coding like variables and conditional statements, we\\u2019ll walk you through everything you need to know about getting started with this dynamic programming language.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think of classes and objects, what comes to mind? If your thoughts immediately went to the idea of parent and child classes, then you\\u2019ve either studied object-oriented programming or you understand the nuances of English. However, if you think about a parent giving birth to a child, then you obviously haven\\u2019t studied enough OOP. Let\\u2019s see what inheritance in Java is all about and why it\\u2019s useful.\nWe often find ourselves reusing code that has been implemented in some other class. This leads us to ask a very logical question \\u2013 can we reuse code even further? The answer is yes! We can take one class and make it so that it extends the functionality of another. This is called inheritance in Java. It is one of the cornerstones of OOP programming and something that every serious programmer should know well.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-software-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFklEQVQYlWN4uIFl73S2y8tZv+xj+bKP5fVOlmur2CHsL/uZGDb3MBdEcEV68rblcrVkcycEcOVHcdekcFWlcMX7cTPcXs38dAvrqg72aeVsOWGcB6aybOtjPTaLdW07y57JbAw7JgrvnSJ0fzPfxaXcn/Ywnl4s/Hkv0/1N3HfWcX7ey8TQm8W9voN3YrHIknquq6sEevLFTy4QPDGPZ0alyKNNXAy9WfzTSkRmV/FPLuRvSBJszxKZUSawulN8USP/tEI+hr4cngsLWT7uZTs9l60hRejUXK47a1mOz2a7tZr91DwOhoVVXJ/3Mp1bxDu9UmJ1CwfUSzDEsKaV88s+ls97mT7vZYIIITMYIBIQIWQ2RDcA57iMGmL84U8AAAAASUVORK5CYII=",
-      "createdAt": "Mon Jan 17 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP79/f79/dXq39Xq3t7u5eDv59fr4d7v59rt49fr4AD+///9/v6n07uczrSaz7N/wZ6WzbCQyquazrOm1b0A/tK8/efe5vz25fXu1ejczubY4+/n4/Do4O7m6fLsAMZ4V79eOfGkkeLt5uXh2OjNxefTyuTNwuLJv+ze2ABgVVGOcWfmiGncvrPj493cyLvgzsPhz8XfzMDm188AcFtW9Mqy0ZF3x8PK4t3Z1byv2MC049PK6NrT+fb1AP3LpuKZb5NrWdbe6fLw7eXZ0eje1/Lu6vf19PTy7wDMjmqETDSiiIDS6erc39TgzMLdyr/fzcLZw7bi0sgAkmtQlls+0b67+v//7eXf4MzC4dDF4c/E49PJ6d7XAM2WbOW+pOnt7Nnv5eTj2uHMwePSyODOxOnb0/fz8BSJ7mTjyUEDAAAAAElFTkSuQmCC",
+      "imageId": "9bf65b93-b4d1-403d-e037-b4a6ced55d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-software-development",
+      "slug": "the-benefits-of-a-software-engineering-degree",
       "locale": "en",
-      "title": "Python - The Language for Software Development",
+      "title": "The Benefits of a Software Engineering Degree",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone knows that the software world is one of the fastest-growing fields in the world right now. Those who are tech-savvy are constantly on the lookout for new ways to grow their knowledge and advance their careers as developers. However, this can be a daunting task for many people because there are so many different programming languages available to learn.\nWith so many options out there, how do you know which ones are worth your time? That\\u2019s why we\\u2019ve compiled a list of some of the most popular programming languages that you should consider learning if you want to become a software developer. Although it may seem like there are endless possibilities, not every programming language is worth your time and effort. In this blog post, we\\u2019ll explore why Python is ideal for software development and why it sets itself apart from other options such`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The market for software engineers is growing fast. As businesses adopt cloud computing and other digital technologies, demand for software engineers is projected to grow by 22% from 2016 to 2026.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWM4/SEAD2KAUFPWWczfbTl3h/XCPTarTzhOXG2+7LDdquN2IOkT73yLmhRz61QK6hXjc+Tza+QzyxXqJmpPXWvG0HbRouahSfNzwwW3HSuuGlU/Nmx8rTfno/mxN94n3vkySC4QZDnGxfWSy2WFPFspB1cPl9gUDps/7Ic+eYPsjtin7nlNKfS1atdeU595Cn6HlSOOK9R804Q6rXO+8dJDtttveex75H34ud/2G5577nufeOcPlW6dbZhWohCaIF3dpxYcK1PcqlbZo9a/0hQqvfa07b4HHuvPOGy+5Lhkv2X3IsNNFxyOv/FD8TeuYAEAAPmiJ9EqlXYAAAAASUVORK5CYII=",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABO0lEQVQYlWNgym5kyWtmKepkLuliLulmLoWhoi6mnEYGjux6xqRiBp8oRscgBjtfBjtvELL2ZvYN48iuZ/Dd8sNxwk41v1i+pFjh9HShhAzBlFzhkjwj/7riSTcYzJMrq0+8Mb/1X/7yDblpc4WuL5W60iPy6rLNhCczO9YyMDAwGBQt0738X3zXZrHpVX7/T6mcquG+ssJu6+eo5t0MPFzcG9ac7fz8n/fQbuHsUMWlU2Uqkzj2rin79//x298M7OwcBrpG+r7Bwps2Sy6dr9FWJ7xkFseuLf3nr9458ISBiZkZZAEzKw8fn62+jr6aKruaFoeWgZC5g2ZRDwMzKwsbIwOLXyx/comarZO4jYtKUIxAYQtDTgtDdh0DMzMzCzMzS2Q2U3EXU0Ebc34zY04TU3YDc3YDS04jANvdakA18t9+AAAAAElFTkSuQmCC",
+      "imageId": "a8380789-4918-4efd-f0d4-75c758dca300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-database-programming",
+      "slug": "javafx-and-multimedia",
       "locale": "en",
-      "title": "Go Language for Database Programming",
+      "title": "Javafx and Multimedia",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"New technologies and breakthroughs in semiconductor fabrication have enabled the creation of advanced mobile devices. These mobile devices are not just used for voice calls or text messaging. They can now be used to capture images, record videos, and listen to music. Java has always been at the forefront of new technology adoption, thanks to its portability, consistency across various implementations, and large codebase. If you think that Java is just good for business applications and websites, then you need to think again. With the advent of Java 8 and Android apps based on this version of the language, there is a renewed focus on mobile development using Java. This has led to several innovations in the area of embedded devices with IoT-enabled edge computing and Machine Learning (ML) based artificial intelligence systems. The latest technology being adopted by both enterprises and developers is the Internet of Things (IoT).\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-distributed-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlWP4hxcw/Pn27M+3Z3+/vYQLff3149G7F4/evXjx6S3Dj82yYKTw+9FqiLTptGTGalswsmb4faP797XW31fqf92aeu7cuX///sl2BXceWlq4ZVLelokMvx8u/bXf8feN7l+3pvr5+Z09e1ZrQnTPoeUhS2viVjcz/LpU+efe3N8Xyv7cmf7169d///7JdAZErWws3jaled98hl/n8n7f6P15Mubv+0sQuxv3znOZV+AxvyhrUw/DmTNnPnz48PHjx3///j158uTRo0dfv3799u3bDzBgyM7OnjZt2oIFC+7du1dWVrZx48bMzMykpCRfX9/i4mKG79+/Yw2QM2fOAIMFANMA5szbg0xbAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-distributed-computing",
-      "locale": "en",
-      "title": "Go Language for Distributed Computing",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Knowing the right tool for the job is essential to efficiency and performance. Distributed computing is a branch of computer science that deals with problem-solving tasks that cannot be solved by analyzing and working with them individually. Distributed computing relies on the collective processing power and memory of many computers rather than just one. Everything from big data, machine learning, artificial intelligence, natural language processing, neural networks, speech recognition, and more involve distributed computing.\nA great example of distributed computing is file sharing. If you upload a file to Dropbox or Google Drive, it\\u2019s stored on multiple servers at once rather than locally on your hard drive or in a folder on your desktop like normal files. The same concept is true for distributed computation: instead of running an application within individual software running on your operating system (like when you run a program on Word or Excel), it involves breaking down the processes into smaller parts that can each be run independently on different machines at once.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-science.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlWO4ucPl2Pqoe6sk/uxmwkQMV5ar3N2gsn+qwJZeAXTpXSwMHzYyPVnFunMmz6IGwen5bPeXMp+fyfpxE8uvHYwg3TcXsO3q5X64iu3pOpYNTWxHJ7Lm+HFOzmVdU88B0g0x58lKqGlX57G9XINkN4RK9uS8NItlbT3boQksG5vZ93Sz96RzTs1lh0rfWsQ8PZ9tai775Tks52eyXpnLencR64eNTAzv1zPfXcR6dR7bzQUsV+ayvlzDtLeH/dYi5kuzWC7NYmFY18C+spZtYjbH3GKO+WXsDXEcS6vZmxI5NjWx7u9hZXi+mhXukHtLWF6sZka4dDcTAMGylDNjnCWEAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Oct 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlTWOS0sCYRhGP/ve7zKDtIk2/Qn/R4v2Ba0iQjetQpMwyFoEkYJUGGley2TKVKw0RychEFdGeVkERqBpi2gXOToTCsGzOxzOg6qpWSWxVD+fUe8MgxxRs6DmYPA/1EiY3m9Mj97ph0OjJoNeAL0IuoI1GY/wbwa9hvGtxxjcmto3C60IeT5hzQD9uh7bdb9QdE/Wz8VGmKWdNGLntnnRbeEpJ1ezgIb3uJ+FdgwGeaxXcOuM9K5AL2OthDUZkJbH30mwzAllDwvZWNzB0ts8ahddZvFolSO9AD856CZI0sl2l1nVS198tOYf5XsSQZ8SqXppM8BKLl7zkY4ET8f0LUprflo5oChk5adrPLYhBK3i3opoX+CRde5YFC83WWaHoQ+J9MfvdAV3LqAdh6E80ZWwXjJoCv4DzPGULyuty2IAAAAASUVORK5CYII=",
+      "imageId": "bdd71196-3a2f-4a30-67cb-bb8268f2f800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "python-the-language-of-science",
       "locale": "en",
@@ -125,46 +110,61 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-choice.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWPoLWFry2XrLWFzsmDdPIUtO5JtZj1bUzabvSlLZQorAysrc0MWS0kCp68jT3U6X140Z1Uaf3E8m7cdc1UqG0iah5tJWFjY2tpaQ0PDwsJCXl6eiYmJi4OJl4eFgRkbYGNjY2ZmZmJiYgj1tjA3UhEXFeTg4GAHg6hQ7+aq7KqiTBsrC4aCrKjspEAfZ0NDHQU+Pj5RYaHG2jxrS3MXZ5uMpFgGVxfbIH/3jKQgT2c9GWlRCQmJ/q46HR0dERERKQkxBltrA11tdU8P+6K8WG9XUztL3eKcmJiYGDk5OQEBAYasZLfIUAcLc0MbK7PsjLiWupzEmAAVFRVeXl5RUVGG7JSQuHC7wmzvyHAPU2NDe1sbW1tbAwMDHR0dVVVVAI56P477AMeGAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jun 13 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIElEQVQYlWXQPUvDUBQG4LM4uvgL/BeCi4s6qIibUxUV6weNmyAKFhwc/AniYAPaJY2B2lSoZnLzYuuiCI1Ec60QJJ9ojLn3Hk0cfaYD7/Cec4BxjhmBKLjIcM4ZY/koAFHU76LZ46hy842YBZjjOSBPUV/pHSQGUlJ/4IjsqnGuq8pnHCMiNG59WAv6ywzWv44IHpQ3x6Wtud39lcWFLE7TdOYwgI1kQsb7x+fhqekBEwe7XNObH1GUdXde0xOSIGIY+COjY0Ot7uT1y3yh4LouoOBeLGw/2wYRjctWaXlpb2d7tVj0PA8cx5HlykVTV5SaqqqGYdRU9bRaPdM0y7IgSZJe7822aafdppSapkkptW2bEBKGIQgh/g797/ctP5B78WTwGAVoAAAAAElFTkSuQmCC",
+      "imageId": "a389b912-b545-436f-8215-39b65d51a100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-choice",
+      "slug": "go-language-for-artificial-intelligence",
       "locale": "en",
-      "title": "Python - The Language of Choice",
+      "title": "Go Language for Artificial Intelligence",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The artificial intelligence technology is growing rapidly in every sector. Every major organization is looking to adopt AI technology to automate processes, make their business more efficient, and improve their customer experience. However, most of these enterprises struggle with picking the right machine learning tools and frameworks for their AI projects, as there are several options available in the market.\nIf you are also planning to implement an AI project in your organization or develop an application that requires artificial intelligence algorithms, you should consider using Golang for your software development.\nGo is a programming language created by Google and it\\u2019s one of the most popular choices for developing an AI application or implementing an AI system in your organization because of its powerful features. Let\\u2019s explore why Go is a great choice for developing artificial intelligence applications and how it can be used to build a stable AI system.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-system-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlSWOTUsCQQBA54/WpUMFUWEUBN0iqluH6NDSQQwPEQXaJ4mgeKiwTFIUP2eX/ZrZndn52JlZPIX5zu/BAwSFLMKMEp5QyZNUMCV5KhhPKIswYDRJuVBSGqWN0pk2RmnxTyoYSLnQqTJKz0w203Np5ai8dlJq96CSEsw75pnwA/0WDLzJtJGMN1H7rGMt1baA+35eLe6+5nfKV9uqd5El0ChdndTyzetKtwKs4+VHa715v1e63ID1wxQ+LNbkYg03Dp6t1UZx8/su1305nbTeeEIFISzCke+D6VPu63a/VSkMOq2ExIIQHscUo8j3fccGn/Uqcr04DAgKKUYUozgMsOcFELqDIXCGY3cMg6njOzZy3NC2Awi90Qj2+qP2zx/fxv3tnTkr/gAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Feb 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANfc583Q3sTJ2OHl7trf6c/W48/W4sfO3cbM2snO3QC0t8dzdZV2eJiYmrOLj6qNkayGi6fR1eHk6vDQ1uEAcHGSgoWimpqyamuObG+RmZqyW1+Fzb/L38nUztDcALi7y+jq7e7v8/X2+OHj6/H2+t3Iz6hwWr+OecelrAB+gJ9zdZZhZIlcXIOeoLf2+/3sz9WMaGOxiW7FlnkA1djiwsTTpam/rLDEys/d3eXv1MvXxJyiza21o4OJAOXq8+nw9/j8/v3///T3+u3w9uTn7baco8CeoZ2AhgDo6vDo6vDs7fDv7/Lw8PPx8fP19vjY2uC9pKqdgIQA3uDo3uHp3uDp3uDo3uDo3N7n4OXtxbbEkVltbD9QAMHI1sHI1sLI1sPI18LI1r/G1MnR3oqFmUQoQU0ySP+s3n7rb/XDAAAAAElFTkSuQmCC",
+      "imageId": "4ba849e0-9e75-469e-36b3-725802d2c500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-system-programming",
+      "slug": "creating-a-javafx-user-interface",
       "locale": "en",
-      "title": "Go Language for System Programming",
+      "title": "Creating a Javafx User Interface",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even though software engineers may not think about it, almost every app on your phone, tablet, or laptop runs on an operating system. Everything from your camera to the apps you use to chat with friends requires software code that\\u2019s specifically designed for the operating system and its particular hardware architecture. These operating systems are often called \\u201Csystem programming languages\\u201D because they have a singular focus on the underlying system rather than end user applications.\nIf you look at any list of popular programming languages, you\\u2019ll see that Go is pretty uncommon - especially as a primary language used by system programmers and developers. However, there\\u2019s also been a lot of talk recently about how Go has become an excellent choice for projects that require intensive performance and tight memory usage. If you're interested in learning more about why this might be the case, read on to learn why Go is a good fit for system programming projects.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Almost every application needs a user interface. Applications with no user interface appear to be nothing more than programs running in the background on your computer.\nIt\\u2019s impossible to imagine any application that isn\\u2019t accessible through some sort of graphical user interface. JavaFX provides ways to build and implement interfaces that are engaging, dynamic, and responsive.\nEven though JavaFX is a very powerful library, it doesn\\u2019t provide everything you might need to create a specific type of user interface. You might have noticed this while reading the article about Controls \\u2013 there were a few controls which didn\\u2019t have their own article but were mentioned nonetheless as being part of the javafx-ui-controls module. This means that not all controls are provided by the core JavaFX library (although most of them are).\nIf you plan on using JavaFX for your application, then you should know that several modules exist within the scope of this library: ENDENDENDENDENDENDENDENDEND`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-image-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVQYlT3OT0vCcBzH8T2Fig6jW4+gB9GhnkjXTnULIjp1r1OQhGI0cw4LR2jTOdpA+1U6muZ++6MMW+o2p/6SwVdqEX2uLz7wpgCg03mRqpxlvun6q4FVA6u29T6Z+gBALRYL96M7GvRRnS0KCbUhtluSiZE/cmMGgCiKAKDdOMxeLynS5l1hm+HXJXQUs+M4CCHXdQ09mUkvk0kHAFBzN8mtuZ8yFQSBruu+73eNy6v0ynxmAoCKT85ztGHnqTAMPc8jhJg4xTCrve5pMEaFx60EtzEjQ4rn2WqlVBEFE6fYDP38tCeIO3L9eOhbf+XwOxufZXP018wGAEVRZFnWNC0u7/d7hExr0kFd3o/mg3E4+v/ErDZr5Qe2eH/DsRflEle4Tee5hGW2fvgbYOj0GULuhyIAAAAASUVORK5CYII=",
-      "createdAt": "Wed Jan 12 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AItjHpFpIZdsIJxtHpxsHJpqG5VoG45kHIRdGnpUFwAmGQM6OylmcluIhl2Wjl+gkVyeikyafjibdiiPZxsAknc3l4JEoo9QpJdenZVjk5FmjpFse39gnYpMsYw0AKvMvZ+5qKnAraO3prXApLnEqJKhkqq/r6/HtpGjjwC97eyXvbys1NOavsGdubity8uFoKWrz9K24OGZu7oAb352d4d/kKSYpb2yiZOGh5OKlqafjZyUlaqglKmdAAQAAAAAAA8HARUKABcMAgoCAQYAAAoDAA0EAAkCAABwVyVwVyZxWSdrVCZtVSZkTiNeSSBbRx5YRBxUQBoAqoU5sIs+tZBCuZNEupRFuZNDt5FBtI4/r4k5qIEzAJZzLZx4MqB8NqN/OaSBOaSAOKJ+N597NZp2L5NwKQYghXjWNVvfAAAAAElFTkSuQmCC",
+      "imageId": "e91b2d66-0689-4b8b-874c-b237b5516300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-image-processing",
+      "slug": "the-best-coding-ides-for-developers",
       "locale": "en",
-      "title": "Python - The Language for Image Processing",
+      "title": "The Best Coding Ides for Developers",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Computer vision and image processing are key to enabling machines to understand the world. For example, modern cars can detect pedestrians with cameras rather than other sensors because the camera can identify them as non-moving objects that are smaller than usual trees and have different reflectivity from typical road markings.\nThis article covers Python, an increasingly popular language for image processing tasks. It\\u2019s a dynamic language like Ruby, which makes it easier to read and write programs. Furthermore, Python includes several useful libraries for image processing such as OpenCV (Computer Vision) and PIL (Python Imaging Library). If you\\u2019re new to programming, check out our article on Why Python is a Great First Programming Language.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlWP4vjbx+8ZMXIjh84U13zZk/NiYAeH/3pL9a3P2z01ZPzdlgaS//f7//s6xL+vSf23O/rEp68Wy5DerUj+sSfuwJu3X5iyGtoaqttriCWk2i0rd+9LsZuU596XZzch1boi1KA4xZtg2u2FBVfDCYqeuJJup2Y6bG/3W1npPyHRoT7QuDTZk+Hho0q+NaX+35X7dnvt9c9bHNalf16e/XZX6ZnXa123FDP+3Z62v822Jt/zQF/Ngw5R3R6aeW9P9Yl//kwOr9m/ZyPBvW87MPOdcP/23c9Oe7Z7z/NCcZ+fXvzg4/WFhyIV1Mxi+bcj8vjnzz9bsb1tzfmxM/7Yp8+vsqFfN/h+Xxf/YnMkA8u6GzK8bwP7ekPl9S/bzWt8vC+J/bMv5viEDAIu9vTpTLOCXAAAAAElFTkSuQmCC",
+      "imageId": "2eea10fa-3f04-44e2-0e2e-6ba9e4a8b900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-artificial-intelligence",
+      "locale": "en",
+      "title": "Python - The Language for Artificial Intelligence",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

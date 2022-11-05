@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/creating-a-javafx-user-interface.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNUlEQVQYlWXCz0vCUAAA4PdXeeneJRHq0DnqZCThIOgHIVQjUhGkKUTLsmJSB/WQiRZJWbC13LSpLH1OLSba3Ntzm3jt4LGPDwhSW5DaxXe5Uv8u17pcucWK8O0DsiLkxDbIPfKr7uBRkDmOJOnzLOlnSD8jN9XOjyZWFeAlKC9BUZHkzi5NbERvbp/mF7YbZfmryFeqCsjmWN0YmaY9tifa0ETYbrJCanPpIeR7iSdAOJr2EpTTtbXmCcfiOYRtlf/cX1lOkev5kAdI1RYvyJdX+XyhxPENpTuQSzIXT0jpDEMGgKJi2MN93UajCRpNfvG4NzDu6OvCBXPqOwDaEA+RqRuWgSyEbd2wdMOq12DmJEbvHQLY6U8r3cE07PSL96/RRbdnxgme2dr/gcDZrMPldMz9AYzG3b/uJM7yAAAAAElFTkSuQmCC",
-  "createdAt": "2020-05-25T23:14:39.474Z",
-  "updatedAt": "2022-10-11T17:15:41.795Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANfc583Q3sTJ2OHl7trf6c/W48/W4sfO3cbM2snO3QC0t8dzdZV2eJiYmrOLj6qNkayGi6fR1eHk6vDQ1uEAcHGSgoWimpqyamuObG+RmZqyW1+Fzb/L38nUztDcALi7y+jq7e7v8/X2+OHj6/H2+t3Iz6hwWr+OecelrAB+gJ9zdZZhZIlcXIOeoLf2+/3sz9WMaGOxiW7FlnkA1djiwsTTpam/rLDEys/d3eXv1MvXxJyiza21o4OJAOXq8+nw9/j8/v3///T3+u3w9uTn7baco8CeoZ2AhgDo6vDo6vDs7fDv7/Lw8PPx8fP19vjY2uC9pKqdgIQA3uDo3uHp3uDp3uDo3uDo3N7n4OXtxbbEkVltbD9QAMHI1sHI1sLI1sPI18LI1r/G1MnR3oqFmUQoQU0ySP+s3n7rb/XDAAAAAElFTkSuQmCC",
+  "imageId": "4ba849e0-9e75-469e-36b3-725802d2c500",
+  "createdAt": "2022-11-05T21:52:15.638Z",
+  "updatedAt": "2022-11-05T21:52:15.974Z",
   "categoryLocal": "coding",
   "slug": "creating-a-javafx-user-interface",
   "locale": "en",
@@ -20,85 +20,40 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-software-engineering-books.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA0UlEQVQYlWP49/P9vw/X0dAfGIPhz5XOP0sZ/yxlvDeR6dci5pczme5NZPqxmPnPUuY/SxkR0juqmCbEs1QHsizJYVpTAJIDSf+9v/zvLns4+rrNDpnLsOfXnvzvBbgQw5ZfWxO+JYZeCTVtNzdpMLHotzZpMrWdbud31D/hWyLDzt87076lQVDk5YiUjylwbtq3NIazf/9O/PMHK5rw8wfDob9/g5Ys8Zo80bm12aWtxbm5yW/ObJvycvfubv9ZsxjOICmvu34dzm5/+aLzzSsArmXCmUhQuDoAAAAASUVORK5CYII=",
-      "createdAt": "Mon Apr 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAtElEQVQYlV2PzQqEMAyE+/7vk4taaU4W7RaxeLagiN63YH93sYVF9jtlmJCZkBhjCME/CA9JYowppc+DlCkzMcbQDGOMUlrXddPUANBkiHPuPE+dQUQAQESl1LZt67rex621JVJK2fc9Ii7LklKy1hKlVNd1wzAIIaZpEkKM4zjPM+dcSkmu63LOGfOW8sUYA4CqqjjnWusQAik9S9V939u2PY7De19euLOflL2f/LdD5md/AU9tEDICr0HkAAAAAElFTkSuQmCC",
+      "imageId": "01377db1-fd76-4e5c-f65f-7c440cddc200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-software-engineering-books",
+      "slug": "exception-handling-in-java",
       "locale": "en",
-      "title": "The Best Software Engineering Books",
+      "title": "Exception Handling in Java",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, software engineers are playing a much more significant role in the way businesses operate. Thanks to the growing importance of software and digital services, software engineers are no longer just coders with a desk in a back room somewhere. Instead, they\\u2019re now people who can influence entire company strategies and help shape the future of an organization. As such, software engineers need to have a wide range of technical skills and knowledge in order to succeed.\nSoftware engineering books are an excellent way to learn more about this fast-growing profession, as well as expand your own knowledge and skills. Here we take a look at some of the best software engineering books you can read to supplement your existing education from university or other sources. Even if you don\\u2019t think you need them right now, keep reading for some great information about these essential books for software engineers\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In programming, nothing can be 100% perfect. There will always be some kind of error or unexpected event that could happen during execution of a program. These issues are referred to as \\u201Cexceptions\\u201D, and they may take many forms. For example, an exception could be something like reading from an empty string variable, trying to access the sixth element of an array with only five elements, or even something as simple as not having enough memory available to continue executing instructions.\nThese exceptional circumstances are called exceptions because they are exceptional and the program handler cannot proceed with its usual execution path any further. To the user, it appears as if the application has \\u201Cexceptionally\\u201D failed in some way and needs to recover from this state. Thus, we have exception handling in Java to deal with these edge cases gracefully so that our applications keep functioning properly in spite of them. In this blog post, you will learn about various types of exceptions in Java and how we can handle them using try-catch blocks effectively.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlWM4/SEAD2KAUFPWWczfbTl3h/XCPTarTzhOXG2+7LDdquN2IOkT73yLmhRz61QK6hXjc+Tza+QzyxXqJmpPXWvG0HbRouahSfNzwwW3HSuuGlU/Nmx8rTfno/mxN94n3vkySC4QZDnGxfWSy2WFPFspB1cPl9gUDps/7Ic+eYPsjtin7nlNKfS1atdeU595Cn6HlSOOK9R804Q6rXO+8dJDtttveex75H34ud/2G5577nufeOcPlW6dbZhWohCaIF3dpxYcK1PcqlbZo9a/0hQqvfa07b4HHuvPOGy+5Lhkv2X3IsNNFxyOv/FD8TeuYAEAAPmiJ9EqlXYAAAAASUVORK5CYII=",
-      "createdAt": "Sat Jul 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMzDsc+/qNrLtePSu97PuNjItdDHu9LFtJJ6aGtJOQDp8/nl2cnVw67TxrnSxrnQwrTFt6nWxrPdupvNkWkAiXlx2eDl4d3Wz8O00Me71c3D1NPSy8W9u66kupqCAJ1jQrKinfT+/9vd3MnFvIJ+eJWdpMLIyLrHz7/R2gCHb2OcdmTWzMns+f/XzMOAVTw6MivByMPBztG6x8kAjIeJrI2AxrSt8f3/xbWqiFAzKx4YqaudxMe0xMK6AIN+gINeT7WfkPj9+pCSkYFeS2JteJadn+rn1L68vgB4bmumg3Opn5WVpLGElaqpsLmTr8yEoMDBy8y9vr4AVVNTb2Zmb3N7WnCFkp+xtMDNdpKwjYB9hnVzpqaxAKSVi2leXHN/i4mOk35mXo1yZ42brreck6BjS5dlVNgPwUhqKbIMAAAAAElFTkSuQmCC",
+      "imageId": "b01429a7-8723-41bf-fd79-bc4035a61900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-database-programming",
+      "slug": "the-top-software-engineering-companies",
       "locale": "en",
-      "title": "Go Language for Database Programming",
+      "title": "The Top Software Engineering Companies",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a number of programming languages available for creating databases. You can create a database using simple file-based formats or you can use more advanced options such as object-oriented database management systems (ODBMS) or graph database management systems. Depending on what type of database you want to create and your specific needs, there is likely an ideal programming language for you.\nThe Go programming language is one option that is worth exploring if you are looking for a great general-purpose programming language but one with special focus on database programming. Many programmers value Go\\u2019s simple syntax, its special built-in support for strings and its powerful built-in concurrency primitives. If you\\u2019d like to learn more about this programming language and whether it\\u2019s the right option for creating databases, continue reading to discover everything you need to know about Go and databases.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6UlEQVQYlW2OXUsCURiEzy/uqsBf0E0SIQZ2V0KJuH2IWwpCHy4ZBhFBuBXlKvi1a9gmnfa87zkTsS0ogXM3MzDzCPyp1x3t7VbtSvPUvnGfekkIQMiviIgCfxr400F/4nVHbddTSgEgIrG5UXCch1q1ZVeahYN6ZsvK5cpW6dwqXR4dNsR8Z6lEGIZzo9/f0C7/q5+v6lJJo03sztZwl//pNJJOMQlo8zj2+p8BM8O1zcW62l6l2j6A9HUx/pasmPnbz8rZLSZDlU1F6ZUkX6ANO8eaxzHBvaNfW3jZgY6Wkxv6MMGJMdEv1NENVOEvZ3AAAAAASUVORK5CYII=",
-      "createdAt": "Sat Apr 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
-      "locale": "en",
-      "title": "The Most Common Coding Mistakes and How to Avoid Them",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/go-language-for-data-science.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAv0lEQVQYlWP4+/c3HsTwFwRwSf9l+Pv39/vPX1YduLDh6KW/f3//+f1n9aGLqw5cOHn9AVT61I2HfvULHcpmXLz3dNvpG+Z5U0xyJiX2rIQafvX+c+/q+d41c999+nzp/jNu/1r1pO7iWVtAup++/vDr168v3378/fv71YfPX7//3H/xLthBIMCw5cS1SRuPTN50dMmesysOXtp97taKg5fm7zyz/MC5CeuOgOzGij58/frx23ec0mj+hgB0fwMAlUQIs2OCoGAAAAAASUVORK5CYII=",
-      "createdAt": "Wed May 05 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "go-language-for-data-science",
-      "locale": "en",
-      "title": "Go Language for Data Science",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data scientists must be able to cope with new challenges quickly. If you want your team to be able to respond immediately and pivot smoothly, you need them to use the same toolkit, share libraries and work on one codebase as much as possible. There are so many different tools for data science, from Python libraries like pandas and NumPy to the Scala programming language for statistical analysis.\nIf your team consists of engineers who are also experienced data scientists, then you can choose any solution that fits both requirements. However, if you have data scientists who are not programmers or engineers who need to get up-to-speed fast, it\\u2019s best to choose a solution that offers multiple benefits at once. Go is an increasingly popular solution that combines the ease of scripting languages with the performance of compiled languages. In this article, we will learn about why you should use Go as a data science language and what its main benefits are.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-read-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APuxIPy2Jfy6L/29Mf28KvvDNP3ISPzQX/3KQv7GMQD7sSL8tiXCrXvv6t7l493R1NPj5eS2trb413n8xzEA+K0g/LYlwKBb6enpnZ+go6OjlpaWkpKS++CX/MczAPGlHfqxJMacROnn5srMzs/Pz7u7u8zMzPzqsPzHMwDjmBbvph/Jkyrj4tzKzM6ytLO9vb2jo6Pi1Ln8yDoA1ooQ3ZEVz40d0c7Itbe5r7Kxzs7O0dTT4trW+cU8ANSFDs+CDceKQbGnne3e2M66vNZITbt5e93d3fzHPADThA3IgiHPmXmnhGvz5N7S0NDosbPw3d/o6uz7zVIAyHkHvX024cCg7cur7d7Y8N/M8Naz8NKf7M6N+8lMAL5wBLFoFMqphvnfv+iSFO6YGPamHfy5J/zALvzBMWOdy9TPxek7AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-read-code-like-a-pro",
-      "locale": "en",
-      "title": "How to Read Code like a Pro",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The way you understand code today will determine the speed with which you can read and comprehend code tomorrow. After all, no one is born a coding expert; that designation is something you must earn by constantly challenging yourself to improve your skills. However, reading and understanding code isn\\u2019t always easy, especially when it\\u2019s written in a foreign language or has certain nuances that are beyond your current understanding.\nReading code like an expert means more than just knowing what words mean and their general significance. It also means being able to dive deeper into the syntax of how those words are put together so that you can understand what they mean in context and intention. Read on to discover some tips for reading code like a pro!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-basics-of-coding-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOn38OLx5+Dw5ur58ZSbl3ZUQntWQDMxLc/Z0eXv5wDg8Obr/PTr/PTp+/JUVFK2h3CKZFM8Mip2e3fo9ewA6fvy6fvy4vTsvMjCQDUwv4t6lmFWak5BOTs65/TrAOX27uz99+z999fm4S8tK9yqjbmAaF1HOGFmZOn47gDn/fbo+/Xl+fLo+fOboqCyn4bIn3+bgWjS3dPp+/IA3dXO59TM6Pv149nP4cm2+enB4cWhvaF/vZl83cS1AMqId86cieDf2PjazubNweDSx9m8quXDtN6+sOq9rABkXltXU1BUVFRKTUxDR0ZBQ0Jva2js18zQtKnQo5IARElHQkZFQEVEQ0dGQUNCQUNCT09P4ce+vZ+Su5SIAEJGRT5DQT9EQklaUD1AP0BCQUFDQqyQhbORg6yFezI/uoskrJedAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 10 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTz6+X07eLx6PP/+o+YlHlUQYdcRTMxLsvVz+v27QDh8Ojp+fDs/PTo+fJdXFmpemWfdWAoHhd2fHn1//gA6/vz5/jw8f/5r7y4QDUvtIR0mmZcX0Q3LTIx6fbuAOT17er68/L//M/a1jEvLMmVfdaSeFdAMl5mZ/D+9QDn/vfo+vPn+fPy//+Mk5GtnIDWrYiPeGDO2M3r/fQA3NDI59nU6vz35dvS69bD//DH5ceiv6B+wZyA3se6AMyMfcqZhuPg2vHSyNi+s9PHvNS3o+XFtePDtuq9rQBlXVpYUUxXVlVVVVVPTk08Pz91cW/y3tTOtKfQopIAPkVFPkREPkRCP0hDPkBAOTw7WllY3cS7u5qNuZSHAEJGRT9BQUJKRkdWTj0+P0FDQUNERKiNg7aQg6yGezQHuni4OAoeAAAAAElFTkSuQmCC",
+      "imageId": "5c0da510-ba62-4f45-7866-c58f4e78e500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "the-basics-of-coding-for-beginners",
       "locale": "en",
@@ -110,61 +65,106 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-get-started-with-coding.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKnAv6zAwKa7u6q+vqW7vaK5uqG4uZ+1t5yztpmvswDE2tzQ6erX8PHg9vji+/vj/P3Y8fLh/P/Z9vrU8voA0+rr4f39na+woLCxj5+eo7W2i5uc3/z91fL40/H7AM7n6OH9/bTJyai6u5yur7LGxsDX2N37/NXy+K7K0wDE3N/G3d6xw8aourtoc3SGk5WFlZa/1dnT8PaVrrgAvcjLscXHorS3qbu+go+Sr8DEm6utwtjczuvxl7G4AKW/xqe4u6GytoOTlHJ/gXmGiHmGiEFISMfh5nmMkwCjtrSitLenu8CswMS1yc7D2d/Q6O6mur/I4ulicXgAtdDUz+ftzubuzeXtzeXqzOTpzOPrzOPrxN7mfZKbALfO1snh58ff5cff5cff5cbe5MPZ37zS2LPIz7XU3sAO47vY7iQfAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 03 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJklEQVQYlR2KPUtCcRhHH5/fc//XLhZtTYKfQWqKhsbWlgoiauiFlsJqK1QaXGoxqLypqMPV2803KsWKhHwpwkJDHNr6JqFwhgPn0IXSTF1PilgutgFbYAEpIAZEAYoSmUQOszM5Vja0ew1FQW50XAP0vL7xFj4+W/SWvFKdMl7cqgYugXOCBDP92ncP26uP5ejH0lrL42kT1XVV0XXH5UrpbhpY1iCd7p+ctmOHP7s7/YOjbjD4FQi8h0Of5+c0sO3XudkqUWUejcjC363dW17phoKt/b361iYV/P7ixPgTUdPn+zYjvZnpFlHNMPJEGYASRA64KmgIOqw6zE1Nasx5TYY5rlQGkhU4QAEoKM0RZAUZIA7QpYgJuQESkCEiyZGbkCvgH0ABYjxMnofZAAAAAElFTkSuQmCC",
+      "imageId": "ab22dd20-359e-4066-039f-7a90426a8800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "how-to-get-started-with-coding",
+      "slug": "python-the-language-for-system-administration",
       "locale": "en",
-      "title": "How to Get Started with Coding",
+      "title": "Python - The Language for System Administration",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s systems administrators have many tools at their disposal. When it comes to system administration and monitoring, the list of available solutions is nearly endless. There are numerous cloud-based offerings that make light work of monitoring resource usage and uptime. For performance monitoring and analysis, there are platform-specific solutions, such as New Relic or App Dynamics for applications written in Python or other popular languages. There are also general solutions like Statsd and Prometheus for collecting performance metrics from any program on your network. The list goes on\\u2014you can find anything from standard logging utilities to software-defined networking (SDN) controllers if you know where to look.\nThere are so many different tools that choosing one to learn as a system administrator can be challenging. In this article, we\\u2019ll explore some of the most relevant options when it comes to system administration tasks and their unique needs as system administrators with a focus on Python due its usage among SysAdmins).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-network-programming.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA/0lEQVQYlXWOwUvCYBiHv4Pf+/s2jc4S9Hf1P3TtGB26hBcXSbiDhZWkCHMKZUzSrdnQGMTyg4hOMSuCSDq7BjEH4SV4Tu/D+74PiyX+gccSbGMT912uFYXXoV4TtkFui3ttMTRhNYhJC9VyMrIatK9BL4lek9sGdWponwkWSxyW8HRN4RCX59xt8RcHn2NICz8TzmLJtSKZJygfoKpntnd5oYBjnbZ28O5Rsv3H2032y1fmk7RrkbasH7ur374yX4gUNhvhopJ36mu+ma/srYeOOhvh1VY/XJHo6UAJjFz/aGU6UMK+uK1l7+rq85VwTnNpGqKAooDSa9FDZvndLzDcoJY0NdOiAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 07 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPw8/Pz9fUVERVRVlEWFRURFBSUkZEpLCz08/PT1tZmKCoqKi0tqa6pKymrnTJtZm5ujp2dbV9f75QpU1pbWxm4uDglJKVMjDRjgwwCXM15eHjZOThY2djExMSkpKQYmJmZmJhYuDkZ40NVZzYHqytJykgIyUgKMTMzMTAwMLCwMDMyMivJCLZU+u7dnr9gksPiqQ7dlQbJgYr8vBwgFTJS/MVpzvOmBJ7YE7J1nfX6VcatVXr1ufYpEToMDAxMkuJcq+Z5zZ4Yunhq5txJBdN7c2qKvNYv8g0LkAMZzsDAEBEqtneb3Y51DrvWWhzd47xxudaUPkkJcWYGVlZWDQ0NUTFZNTV5ezvJgnyriHAlM1MZWVk5RUVVkHRYWFhWVmZUVJSLi7eLi19gYHRcXFJ6elpQUCAAhJhTZ19iuCIAAAAASUVORK5CYII=",
+      "imageId": "f5326606-5171-4cb6-eb8a-b5572073c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-network-programming",
+      "slug": "python-an-introduction",
       "locale": "en",
-      "title": "Python - The Language for Network Programming",
+      "title": "Python - An Introduction",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-game-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Kz0vCUADA8fcH9RdEl6BrlyApqEv1X3QID1EYEkWhaBGoNdS01PIUlqTp1L3p/LE0Ncu57U3f5vacSqeQgs/t+wVmv2oq/AjVRqiio7KOyob8byhCYIhQFWYM9P4z1k31C4us1mOHMjcUi2DQecPfjKmJ0wmZTshkbGCJQwLjuTx2Ow4BUVpjVdGxRLRBic0THRMDNevJNcvK9tYGIKiLe+0SzD5Ew9a9XTrzOjJURWqsry5ZlheA3Kr6rhwXzlPH+YkodDSMdE3FfSnosS3Oz4FuvWQ7sIaD10KnJUtddSAzdDIaOGNS1M7mMvis5dsV2Kiw7Qbf/OBDN87nuLucC/EwEqPsoJp9/MtP8Tufa59+8cK0n6NveRgppv2gkPByuZTXdRSj7HTCk0v6mBRVzARmR+H+FyOp6jj0Ug9FAAAAAElFTkSuQmCC",
-      "createdAt": "Tue May 24 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPQlma2VGF21WH2NWQONGIOMGL21mN21GA2UWRWFWdmcNBmCbVgTXdlK/JhLfFhKfFhzvFgibVj9TZkMVNhZvAxYshyY2yNYJqSyDIzjXVaCmtPPFtVMFuyC5ubAQvDzK7AnYuj1nfobGuVWZ3HsKqQeWEOU38iU4k/Y5gNM8O6RenLWkxvHC49MllvZ53Anlapra3yS6rkuzNlU7wFGTJ8+BtC2bf2mu7o0Li+K+fSxpgLO7L2r0xePTW0KsOUwd+UOcuDvdCDsTKAu8qfrTqIs8ifN9aWxdeIwVaDicFOiyXYkiXNnTXPi7ksgLnEjznTlSnOkcXLmMVUlYVBR4bZSpXZXZfJz4g52ASEfAyYnbSYTZWY1SSYGaQFmNXEmfVlmEwVmCyUQMhYnklHillJhFmSjxkAlYRON1dp/hwAAAAASUVORK5CYII=",
+      "imageId": "88c30a3e-c229-4e88-fc59-f0d81fb7ce00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-game-development",
+      "slug": "python-the-language-of-tomorrow",
       "locale": "en",
-      "title": "Go Language for Game Development",
+      "title": "Python - The Language of Tomorrow",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Now that the world of game development is becoming increasingly more digital, there are also new challenges to face. Game developers are now expected to come up with solutions to complex problems in record time. And this is where programming languages come in. They make it possible for developers to solve problems by creating programs directly instead of writing instructions word-by-word. There are numerous programming languages out there but one that has become particularly useful for game development is Go. It has many features that make it an excellent choice for developing video games, including its simplicity, type inference, and great support for Unicode. If you\\u2019re looking to start learning about Go and its benefits for game development then keep reading. In this blog post, we\\u2019ll be covering all you need to know about Go and why it\\u2019s a great language for game development\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`So you want to get into programming but you aren\\u2019t sure where to start. You know that there are many different programming languages out there and that they can be used for different things, but which one is the best one to learn first? Well, you might be surprised to learn that it\\u2019s Python. Why? Because it\\u2019s the language of tomorrow.\nNow you might be thinking: Why does that make it the language of tomorrow? After all, shouldn\\u2019t we be focusing on learning languages like COBOL that will help us in our future career as an accountant or something like that? Well\\u2026 perhaps. But maybe not so much. See, while those other programming languages are great for some things, they aren\\u2019t so great for others. And when we take a look at what other programming languages won\\u2019t be able to do in the future because of their limitations (or maybe just their age), we see why programmers today are saying that Python is going to be the dominant language of tomorrow. Let\\u2019s dive into why by taking a look at several reasons why Python is a fantastic first programming language to learn today!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/setting-up-your-java-development-environment.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADYzK0E8MFBKNz88MUVAND06Mk1GO9iYUPqyZN+wcABgW01QTD45NS1PPzBlRyuEVyuYYSvonUnQjkk8LiMAml8lv3Yt5JE5+KRD/K1K/LBU/blj/L5q05NONCEXAKBpMc2PSb+KSt2gVaR1PLuISqyATbSIU6NyQTUgFQCebTuVaj6Xb0HMl1d9WjahdkmlflKed09hQSWtaSUA+rdq/b508LdzwJJdxpZgvJFi0qZ157V//LJZ/apLAPq4b/u+eNWja4lnRZt2To1sTHpcQqiDXf25bvu0YQD7v3/8wH79w4L8xYX8xon9yY3quob1xY79x478xIoA9/X0+d/I/MCA/MGD/MSH/MaL/MeO/ciR/ciR/ciTAPXv6Pu+g/y7ev28fv6/gv3Ahf3CiP3BivvCivzDjr/zqhQXGOjFAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Feb 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABL0lEQVQYlWP4vjbx+8ZMXIjh84U13zZk/NiYAeH/3pL9a3P2z01ZPzdlgaS//f7//s6xL+vSf23O/rEp68Wy5DerUj+sSfuwJu3X5iyGtoaqttriCWk2i0rd+9LsZuU596XZzch1boi1KA4xZtg2u2FBVfDCYqeuJJup2Y6bG/3W1npPyHRoT7QuDTZk+Hho0q+NaX+35X7dnvt9c9bHNalf16e/XZX6ZnXa123FDP+3Z62v822Jt/zQF/Ngw5R3R6aeW9P9Yl//kwOr9m/ZyPBvW87MPOdcP/23c9Oe7Z7z/NCcZ+fXvzg4/WFhyIV1Mxi+bcj8vjnzz9bsb1tzfmxM/7Yp8+vsqFfN/h+Xxf/YnMkA8u6GzK8bwP7ekPl9S/bzWt8vC+J/bMv5viEDAIu9vTpTLOCXAAAAAElFTkSuQmCC",
+      "imageId": "2eea10fa-3f04-44e2-0e2e-6ba9e4a8b900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "setting-up-your-java-development-environment",
+      "slug": "python-the-language-for-artificial-intelligence",
       "locale": "en",
-      "title": "Setting up Your Java Development Environment",
+      "title": "Python - The Language for Artificial Intelligence",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you are a developer, your job requires you to use different software and tools to create applications. There are different programming languages and frameworks that you need to know to do your job well. With the growing popularity of mobile apps and the rise of artificial intelligence (AI), developers now have multiple opportunities in the field of software development. In this blog post, we will introduce you to Java as one of the most popular programming languages for developers. You will also learn about how to set up your Java development environment so that you can get started coding as soon as possible.\nIf you want to become a software engineer, knowing how to code is just the tip of the iceberg. You also need to understand technologies like HTML5, CSS3, and XML which are standard vocabulary for website design and computer data storage. In this blog post, we\\u2019ll introduce some common terms used by developers when talking about setting up their development environments for different programming languages like Java.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Artificial Intelligence is no longer a future tech but something that has started disrupting various industries today. There are numerous roles, beyond the obvious machine learning engineers that you can specialize in to help bring AI projects to life. We have listed the top programming languages for AI below, so you can pick the right one and get started on your own AI project right away.\nIf you\\u2019re just getting started with coding or planning on diving into it more deeply in the future, this article will give you some insight into the different programming languages available out there. Each of these languages has certain features that make them particularly useful when creating artificial intelligence applications. Keep reading to learn more about these useful programming languages and which one suits your needs best. Read on to know more`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJ0lEQVQYlVXPz0vCYByA8fef69StunSooKAu0bU61bFDSw+Rh6FWM6mQ17QEWbNybNmcP+YcVCIIrmVRdLDBcHu/7xsuOvS5PqcHDZya3dffBq3RyAMCAAEAoZQSQgB8dHWxIYlR4XCh2ykwxggZN/fbpkAYY8h5qWj3XD4zfZqaen4qvdpnj1Yiez6Tx2tVZR7plR35dlstb+XxckmKaMq6pm7eFCfbpto2IkjX9i0z96ByzVpULq3kMnN237wTFy2D//xoIbN5dJKcOE7MGs1yp2NK11nHeZdlSVEKvV4XNaoRs5GUJI3neUFI7XJ78Tgfix0IQhpjjOpVvq6nGWNB4Luu6/u+53kAQEOoeLlkNHC4FFAY+5sGQggSC6vD4dfvcVj/+QGCFvKvvquqNAAAAABJRU5ErkJggg==",
+      "imageId": "810a2889-8621-4b4b-8b49-644c26baee00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-of-the-web",
+      "locale": "en",
+      "title": "Python - The Language of the Web",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With the rapid growth of the internet and mobile app market, it\\u2019s no wonder that developers are in such high demand. As a result, more people than ever before are learning how to code as a secondary career option or as a means to break into the tech industry.\nUnfortunately, there are so many coding languages out there that it can be difficult to know where to start. Luckily, we\\u2019re here to help!\nPython is one of the most popular programming languages in existence today with an abundance of demand for qualified programmers. And as one of the most commonly used programming languages for statistical analysis and data science, Python is also extremely useful for web developers looking to branch out from other coding languages like JavaScript or Java.\nKeep reading to discover everything you need to know about Python and why you should learn it!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANCxAs+yAtW4AdO2AtO1ANC2E9GzCNe3AMe0JJGdowCymgOdhwPhxgLUugDTuQzU37jS2J/RvyrYugC3rksAqJIDj3wE588F1roA1NFy0urs2vLu3PHp1tiN18QfAKSRBJuJBuvSANTDI9zu3rfHwJypnrvMw9fu79ru3gCgjgSklATr1gDX3Jnd8+/E1MihsKiXpJ2VoZjH2c8AlogIkYMA7uAi2era3vX1zuHVpLKok6CassK50OLXAIR5CJGFCvPjBd3SJNzileD07eP6+MbYzMvd0OH27gCPggmxogvx4Qzk1ATl0wDg1zbd5avj9/bj+v/Y3qEA4tEN5NQM5tYL5tcO5tgN59cB5dQC4NlM3ua53tIvAOPUDuXVDuXWDObXC+fXDOfXDufYDujXAuPUB+XWBrlPvwO1qG+pAAAAAElFTkSuQmCC",
+      "imageId": "c889660b-32d9-4951-c18a-186cc2ce7c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-resources-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Resources for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHtTOAQJCAcLDAUMDoZQMdF7TMd3S8t6UMh7UsV7UwBfUD4MCgoADBEaFhOeXT3Ec0vCcEbFckfHdUzHfFUAZjQUSBYEOgoAci4GtW1KxYhrzZt/07Cc1butxoNkAJ1tUqeCar2gi9HBs9/f2+r18+78++z9/Of4+trMwgDZ6/Dl+Pzq/P/o+fzX4uHI0NDAyMa4v72vtrPg6+gAxNHUrLS1rbSzrrSzvcPCq7CvxM3L2OLg5O/v5/XzALG7vqy0tMPLy+Hs7ez6+/D//+/8/ujw8d7b19XEvQDj9/zq///n+Pvg5ufXz8zQtazLn5DIinXFgGnDgGkAxLi0vJqMuoFqu3BRu2hHvWhHvmxOwHVZw4BmxYp1AKZQKrBUK7ZZMLpiPLxoRr1tTb1yVb13XL5+Zr6Gcc05uZyPZgrdAAAAAElFTkSuQmCC",
+      "imageId": "9019696a-7f22-43bf-688f-1560a333df00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "object-oriented-programming-in-java",
+      "locale": "en",
+      "title": "Object-Oriented Programming in Java",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Object-oriented programming is a way of writing code that focuses on what the program is Doing, and not just What it knows. This article covers an overview of object-oriented programming in Java, as well as its pros and cons.\nIf you are reading this, then you are probably familiar with procedural programming languages like C, C++, or Python. These are all imperative programming languages that focus on telling the computer exactly what to do and when to do it.\nObject-oriented programming is different from imperative languages in important ways. Object-oriented programming is a way of writing programs that aims to reduce redundancy and increase modularity by using objects that have their own data fields and methods that act on those fields instead of global variables. Let\\u2019s dive deeper into OOP in Java.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

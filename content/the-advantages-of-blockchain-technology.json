@@ -1,9 +1,9 @@
 {
   "category": "crypto",
-  "imageSrc": "/articles/the-advantages-of-blockchain-technology.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPElEQVQYlR3M206CYAAAYJ6s2VXrSYp8gy7amqu1NdNZs63DUgu1QMSiKQfFRA6KmSn5C2QkSwNF5/TGrZuy7wE+CGNMjDEjhB4njWTWCMSakXTrKqWeICr22ISE+iDK9RnBFBTrgLD2cOue6TywIEy+U08AUrtutDFl2w7SGgUox5+3IzWLUoyQ6FC8BvWsUQEMC6wchPnDDfoILgY3RTxNJ4RuWXyDcMXdLc1DGfHOO4vBfQS2Ce/Pfry4zU3PKRN66bhnwjiX49GtGQLbCXiMexe3KB1ivsjif87pQ9A2K5lLHg1z+I2IHasyi1bMZf4M3NPyRNO+Sy1jIfkWkk+oioqi+Zk+UQAQWRv7SvPsq52s9wQapYjrqGKlxI+d/OSC/lzmetfRjYEkN9bXVj2eFakKqjWNlzt/+S9+0N406gg20gAAAABJRU5ErkJggg==",
-  "createdAt": "2020-05-31T10:44:28.250Z",
-  "updatedAt": "2022-10-11T17:16:59.446Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK263Z2r15Om1qOy2qmz2I2e0Jin0Zen0ZKh0Kex0QC8zOeUueS1w+G/x+SLtul+reexu9uvu9iUtd+uvNcA1ODvqNf0x93prM7WerbbeLrcqMfOwc7bmsrqt8fbAN7f6sna7cy/z5VvxJVvypZvzJRsxbyxwbLH3bvC1ACsy+6BxfWdsdOjZ+qmauisbPKrafKQpMh9w/SXuuAAw9Tsn87ysrTMkV3UlmLdlmLck1/co6jEl8Poqr/aAOXk683e6+DX4dGwpsmrocOurdOsl9vIv7bK3sLG0wDA1OySxe3P2OvH2tnz1Yf11ovI0sPGy9eLveinvtwAsc3tf8DxwNPor87kwLmrta+lncTftcfffbzumbzhAOPi7NjY5+bi7crCyT4+PEFDRMS/ydPR3sHD1sPE1NWX3aHSXxwzAAAAAElFTkSuQmCC",
+  "imageId": "ecfad352-415f-437e-b440-83d2cdeef600",
+  "createdAt": "2022-11-05T21:55:42.962Z",
+  "updatedAt": "2022-11-05T21:55:43.329Z",
   "categoryLocal": "crypto",
   "slug": "the-advantages-of-blockchain-technology",
   "locale": "en",
@@ -20,130 +20,70 @@
   "relatedArticles": [
     {
       "category": "crypto",
-      "imageSrc": "/articles/how-blockchain-technology-can-help-your-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA+ElEQVQYlU2Ov2qDUBjF71M5im/g4O7k5Bu4eQd9AZcOIaBDkiFQbMH0D5qmEILJxZS2YDtcaKmLhCa09ja533UoJWI8HM7w/Q58B/XG1/3z28vZckaeN5/bWtRdoyf6MV09hvfLs0HYG4Xz1boWNQAcE5GX94ubu6vFQ388GU2mr/QNOkJfeyh2P5tqX+6+uWiuRVGkaYoxRm2RMZZlmeu6juOYpqkoiqZpqCzLKIowxkEQyLJs27au66qqDgfDJEkQIUSSJMMwLMvyfT+OY0op57z57XkeISTPc8ZYd1SDAYALOAA/AG+nnfAviAqgAmD838dei/8Asaz24aXS0vUAAAAASUVORK5CYII=",
-      "createdAt": "Mon Dec 27 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlWNgZhZlYhZnYZNjZZdlYRHn4JTVNQuydE01dc3UNAllYGAQ4+TTkVL3FhE3kpKz4OSWZWDgY2RV5hGz1raIYZCWt3H1K7R3S3V1jfbyjvP2iXdyDvf2S5VTcxOQ82KQVnRwcEvxDSuxccuwcEj09MuydYwJCM3VMwlS1g9l4BO1ltCOFpdzY+G3lVDxcwkoVjOKZODQUVBz0TQOYxDQSOKRD1M2z1EwyhTTTJWxrpazLBFUDJJS9zOwTWRgU05Wscg1C+nR92pTDF0k7TfXKGqWhnUut6yXsF40g7BBhph2gqxVuZBuPo9Fm2bQVFOfOiufMh2nbA7NaAZZ00RZsyRJg3hejTgGsSApiyIB1UjPmIag9A4V43AGBh5DBh49FgV/Eb04acscMZN0IaN0fvVQAY1AdkkHALgBQR8QdKWsAAAAAElFTkSuQmCC",
+      "imageId": "62d8fc7c-014e-4a36-73bd-6a4d37226e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "how-blockchain-technology-can-help-your-business",
+      "slug": "how-blockchain-technology-can-improve-your-business",
       "locale": "en",
-      "title": "How Blockchain Technology Can Help Your Business",
+      "title": "How Blockchain Technology Can Improve Your Business",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, the world is more connected than ever before. Thanks to technological advancements, we can do business with people all over the world. In fact, people have done business with people in other countries for a very long time. Today, however, businesses must go farther and deeper to reach new customers and markets with this type of global visibility. Businesses must also take advantage of technology that makes it easier and cheaper to connect with people from other countries.\nIndeed, businesses should use every tool possible to do business globally at lower costs, avoid intermediaries when possible and reduce risks as much as possible. The best way to achieve these objectives is through the use of disruptive technologies like blockchain. Let\\u2019s see how it can help your business grow faster and smarter by reading the following lines\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:n,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:n,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of business is changing at a rapid pace, thanks to innovations in technology and a growing digital presence. From e-commerce platforms to social media, websites and apps, businesses can now market their services digitally to potential customers around the globe \\u2014 while also connecting with vendors and partners virtually rather than in person.The emergence of blockchain technology as an accessible way to keep track of these kinds of interactions has led to its adoption in various industries. Blockchain for business isn\\u2019t just about cryptocurrency like Bitcoin or Ethereum; it\\u2019s a way to decentralize information so that it\\u2019s not stored in one place but instead on many computers simultaneously. Understanding how blockchain technology can improve your business requires knowing what blockchain is, how it works and its potential applications \\u2014 both current and future.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/iota-the-internet-of-things-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHklEQVQYlSWOXU/CMBhGm43SlRX6UjPWKYpDPhQ0RolIBBVQmIIEUQwScPiRIJkhxnhJjH/dyE7O3XMuHqQoiuqDsYrJUqyqqrIE+UNAo4QxCkABCGOYUD9CKsaYhigAWPK02cweHlQdR+M8oP0XCBOqcQ6W7AwHY++9PRyULuthM6aFI4GghoK6HopGN7KZt8/59+/i62fRf3atpK1zwIQiwhgTQqytnrevnYe7zujxrHUFlqQAQV1HoQhnQnBp2rlcLGWfXNRX4vGIYfgfEVhSrMcLlXKpXqs0LveKR5s728ndPJcmEwLJTMqwE41e1/Vmk/nHrTuu3rRcb2amtww7gfadWrpUHHjTZr83nnv305fu06j/OkkdF/LV8h9YNCyJ0wkKCgAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Feb 11 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AL3Ctb3DtrzAtL7Ct77BtsHFub/Ct8HFuMDCtsrNwABab1pAT0BTaFRATkBWbFZGVkdOYFBTZVJWbldseGkAQlVAJTQmOE06JDIkOFA8Nkk0PE42MkY3QFxBYHBdAL2yfLqvd7yve8a6icGzecCqVcSrVL+wbLiuddLIjAC7r3T986fi1Y/WzJT//6++qlWum1L//5mqomauoWIAyb5/9eed3s+OxryK/Oyg2cNpyrls/+6Pwbh6wbd3AK+ZUKuTTcWpWrylXrWaULyYPKKCNLmWQM2yWceuWwCZi1TTwnv/86q5rnncz5Ds04F9bDrNt2z65JOajFgAwa1j0b1y8d6X1suQ4dKS7taCuqZc07lk7NN7yLZyAKqfeaCZeZmVe6GdfpyafpmTeKWbdaOZd5yUdqqhgHjIr1Wt2Z1mAAAAAElFTkSuQmCC",
+      "imageId": "34f80399-8096-4a34-146c-fca5ac27d200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "iota-the-internet-of-things-crypto",
+      "slug": "bitcoin-cash-whats-the-difference",
       "locale": "en",
-      "title": "Iota: The Internet of Things Crypto",
+      "title": "Bitcoin Cash: What's the Difference?",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The Internet of Things (IoT) is a network of devices, sensors, software, and services that can connect directly with other devices. IoT technology is everywhere today \\u2013 from your car to your television to even your refrigerator.\nThe IoT is made up of all the connected devices that monitor data such as operational parameters, performance, usage, etc. It allows users to interact with these connected devices through virtual applications or digital user interfaces.\nUsers and businesses can use the internet of things to track the locations of their assets, monitor usage patterns and detect problems before they become serious problems. This article explains why you should invest in Iota and its pros and cons as an investment opportunity.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cryptocurrency world is growing fast, and there are so many different digital tokens out there that it's becoming increasingly difficult for a new investor to know where to start.\nNot all coins are as accessible as others; some have limited availability and can only be purchased directly from the company selling the token. Others can be bought through an online exchange (such as Binance or Coinbase) or an intermediary service (like Changelly or ShapeShift).\nBut which of these coins should you invest in? Which one is most likely to succeed? Which has the best long-term potential? Let\\u2019s take a look at two of the most popular alternative digital currencies and see what sets them apart.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/qtum-the-smart-contract-blockchain.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA2klEQVQYlWWPywqCUBRF7w9GsxoWjuojalp/EESjROoPBKlhD8pQegcVN3uhadI19VztQlhErzU4nMOGffZGLCL8niF7gT6Pvz1EjDHPhV5/Q8j12+AhW2eaSCr5XDsWF3Y7+xbegiAAgOABqtWhXCEm8UXJKpVOne5ZFHGhKPNVledlpCiQSnsrDJksSA1f24I8sFstczw15jMj+i01XY4DQaAfud7J2XB0XGpE1Rxs+5Oju9hf1KkxGR8AIJLXa3Opka3lWp6/0B2sewfdwRuTUvrT+934aX4HtNcPFZyrFHEAAAAASUVORK5CYII=",
-      "createdAt": "Sun Jul 25 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5klEQVQYlUWNO4uFMBQG/f+1lYUWgiBYKAQEURQi2AQRwQckUWSLNCJIiogmZnevd/dOd5iPOYZSSkqpteacf73gnGutpZRKKeNx67pijCGEZVlijLdtexZvPY7jvu9d1/V9v+/7MAxvfd+3EGJZFkJIURR5nlNK53k+z/MTxxgzxpIkSdOUMUYI+cSVUkIISumjp2k6jkO++I3rP+77vq5LKfV/GlmWua6bZVkURRBChBAAoKqqOI7rujYAALZt+77vOI7neWEYBkFgmqZlWRBC43rR933btpTSpmkQQhjj8zx/fn8DWq0GkC5LpWgAAAAASUVORK5CYII=",
+      "imageId": "b5c0b3e7-44c7-4cc7-ed66-9330994bbc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "qtum-the-smart-contract-blockchain",
+      "slug": "ethereum-classic-the-original-ethereum",
       "locale": "en",
-      "title": "Qtum: The Smart Contract Blockchain",
+      "title": "Ethereum Classic: The Original Ethereum",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Qtum is a hybrid of two of the most prominent and promising blockchain projects currently available: Ethereum and Bitcoin. While both may seem like unrelated projects at first glance, they share some commonalities. Both offer different takes on blockchain technology with unique pros and cons\\u2014and Qtum manages to combine both while enhancing their benefits.\nWe\\u2019ll dive into more details about both of these projects in this article, but let\\u2019s start with a brief overview:\nEthereum offers an accessible platform for developers who want to build smart contracts or other applications that run on top of a blockchain network. On the other hand, Bitcoin serves as a digital currency that can be sent through the internet directly from one user to another with no third party or intermediary.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum is the world\\u2019s leading blockchain for smart contracts. It brought about a new wave of decentralized applications that no one could have imagined in the early days of cryptocurrency. Ethereum has also proven to be an invaluable source of inspiration for other projects that are trying to build similar platforms with different objectives and features. One such project is Ethereum Classic (ETC). Although it might sound like another version of Ethereum, it is actually a continuation of the original Ethereum software, which was later on referred to as \\u201CETH\\u201D when its token achieved its own market cap and ticker symbol.\nEthereum Classic is essentially the original Ethereum codebase but with unrestricted miner checks, increased gas costs, and general code optimisations. Think of ETC as the anti-ETH; a blockchain that allows developers to deploy applications without any possible malicious interference from miners or anyone else who may control ETH in the future. Below you will find all you need to know about Ethereum Classic, how it differs from \"new\" Ethereum, and how you can buy ETC.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/the-future-of-blockchain-technology-in-startups.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ABQkMRgrNydAUB00Qx4qNjdWaT9edjFDTzhPXDM8TAAjNUMqQFA+VGMsPkw1S2FEWGYzPk9DXGw2SlpIWmgA38N/29vOyKBnppRYx7B9va+I0Mikv7OMrKN2wsPAAKOWbaWkm52LY8CmSlBCKa6cZGRiU6KOYYl4SkREQgDTyJCrqJzQoVi7o0nWzKbJvqDa0bS6qXiwnF7PzccAg3A9cmhTfHJqe3BthHJWmYtgm4ZPpo5bmIhrk4VcAIVzOp+UaqiljYSDfKaYb5ePXZiLTsa7grm0mG1lPwB1ZzOOh2CUk3x5enWflm6WjWDEtmbo35uNinCJgU8AgXI3npJ4o5mGgXlwd3BjVkw3S0YuZVhDiHtmXksyABQoPBMbJhcnOBMlNhgnOxwrQS1CWyI3SxopOS04S1q8hRCReSt1AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jun 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWNgZ+fg5OTk5uYREBAQFhYUFhIUERYUFBTk5ePl4uJm4OXjExAQEBcXV1BSMrGwdXH3sHJwVtdQl5WVERYWYRAXF5eTldXS1kmKj1rb6H+u121Xb0xSUryFhYWyshKDkpKSpqa6X2Dw9la/SdEKR+v0ZyUoHp0QFhYVa2FuyqClpWluaZWfnXakzjzAVt3PQTfJW/fOBMeSkmIfP18GDQ11U1PT9LSUaQUe/XEqu6sMp2doL20NycnN8/b2YpCXl9fS0nJ0cirKSdnY7H+602FnZ1BGWnxwSLCZmQmDqKiotLS0mpqKiZmZj39QZFSkb2CovYODgYG+vLw8Aw8PDx8fn4SEhIGBvoW5qZ2drZWlmampiYKCAj8/PwM7GPDy8qqrq2tpaWlpaiqrqOjo6khISLCxsQEAQ+FGQP6qz6AAAAAASUVORK5CYII=",
+      "imageId": "884fc021-0ff4-4082-0353-149547102400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "the-future-of-blockchain-technology-in-startups",
+      "slug": "monero-the-untraceable-crypto",
       "locale": "en",
-      "title": "The Future of Blockchain Technology in Startups",
+      "title": "Monero: The Untraceable Crypto",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the last couple of years, there has been a lot of buzz around blockchain technology and its potential use cases. We have seen numerous companies launch blockchain-based products in various industries such as healthcare, supply chain, education, real estate and more. While this is great news for the adoption of this disruptive technology, investors are cautious about blockchain-based startups.\nNot just because their track record so far has not been great but also because these new ventures face an uphill battle to get funded and succeed. The existing capital is mostly going towards internet of things (IoT) startups, artificial intelligence (AI), virtual reality (VR), and drones.\nBut that doesn\\u2019t mean it\\u2019s the end of road for blockchain technology in startups. In this blog post, we will explore why investors are skittish about blockchain-based startups right now and how you can help change that trend by launching one yourself. Read on to find out more.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Monero is a privacy-focused cryptocurrency that launched in 2014. Similar to Bitcoin, it is a decentralized digital currency with anonymous users and transactions. But that\\u2019s where the similarities end.\nMonero has one of the largest communities of any cryptocurrency project, with over 16,000 active members on its forum and over 2,000 subscribers on its main Reddit page. These users are not just passive observers; they drive the future development of Monero by voicing their opinions and giving input on new ideas or potential changes to existing ones. This article takes into account all these aspects when explaining why you should consider investing in Monero.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/the-future-of-blockchain-technology-in-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlWNQVVVVUVFRVlZWAgNFRUUlJSVlZWUVFRVVVVUGFRUVJSUleXl5OTk5b2/v/u62pfNn11eX6ujoqKioMCgpKRkZGdVXl589fuDDi0fvX9z/8OzOpxf3Du/dZmVtwbBh1dI3T25/ePng/Yv771/cv3vjwqF9u1ubm2ZMm3Tz4kkGiNp3Lx5eOXdy396d/f39J48ffnLn8vvH11/dOcNw8eTBNatWzJ45Y8qkiWdPHn714Nq7R9feP7ry9sGFN7eOMxxeO3PujAn3r51+9+Dy2/uX3j648PrOqTc3jh1d2lkRZMxgrSR4eu3kl5f3v75+9NW1Iw9PbVrbmRVtKacozCEsLMwgLCysL8HZnug0vyaxM9nVTpFXnB8kISsrq6ysDPKYqKgoLzeXMC8HHw+3qKionJwcPFgAxCOURBrd8JAAAAAASUVORK5CYII=",
-      "createdAt": "Sun Mar 08 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-future-of-blockchain-technology-in-business",
-      "locale": "en",
-      "title": "The Future of Blockchain Technology in Business",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of technology is changing fast, and businesses need to adapt quickly to stay ahead of the curve. New digital solutions are emerging almost every day, from automated artificial intelligence (AI) systems and Internet of Things (IoT) devices to virtual assistants and blockchain technology.\nEvery business needs a strategy for dealing with tech disruption, but that's no easy task. New technologies emerge so quickly that it can be hard to know which ones are worth worrying about, let alone how you would adopt them in your own organization.\nHowever, the success of any business will always come down to its people and processes as much as its technology. The focus of this article isn\\u2019t just on the individual technologies themselves but how they could help your business in the future.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-advantages-of-blockchain-technology-for-startups.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlRXN20rCYAAA4P8Jq9exMFNBIskTaWaZC0I0TZcoZXPNCX8XEZRuLtNky3nawbnNnRQvou8FPuAPHqN17PI2e47cIPlCtow+4Rg34TebDdZqAU8g4PJ5IxfJ0mO989XVVnqPoTEM0zSN40fAdXS47/edxBPceMKP5wRBYjjxPRia9tq01yB7XxYWqrRQDMtRDXsuynNR7jL9SrVmWA7gTNNytk0Sxs4S8fOk2+MNRaKpq+tKtbYybYDriuVsnxt4OoMUS2g6gwRPw+FoLBSJLrUVKDRxy9nm7oqlBxQnyA7NtCo5mWfl0Y9p2KBJwmn/XV0Kb7WUMKNYqqEKAk+/TNnB6OMVHLg9imqwPUaR4CfMq5Io05Qi//ba8P/e2dsVpaVhOTiKCMOhKvK6rsszgWp3IIR/fRfqaqMIEcIAAAAASUVORK5CYII=",
-      "createdAt": "Wed Oct 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-advantages-of-blockchain-technology-for-startups",
-      "locale": "en",
-      "title": "The Advantages of Blockchain Technology for Startups",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world is doubling down on blockchain technology. In the last couple of years, we have seen an exponential growth in businesses using the decentralized technology for various use cases across different industries. We also see a rise in new blockchain startups coming into the market with their new solutions based on this technology.\nAs per a Statista article, the global blockchain market is expected to grow from $210 million in 2021 to $66 billion by 2026. This means there are ample opportunities for startups and businesses to leverage this technology and create innovative solutions for problems that can be solved using decentralized ledgers and smart contracts.\nIf you are thinking about incorporating blockchain into your business model, you\\u2019ve come to the right place! In this blog post, we will discuss why you should use blockchain technology for your startup, what are the advantages of Blockchain Technology for Startups and how exactly can you implement it.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-benefits-of-blockchain-technology-for-startups.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABI0lEQVQYlR2PTU/CMABAG2BsXbt1bffdTdi6Id+bCiwYSIgKCQcSjVwkHvWEiT/AmycPJv5lxePLu7wHFBVCnSoqgog0mjrUab3exCaDiGjQAAaLoE5VzTRZaDmJLUa+nF3Nt//YAoblUzdLRneyXMdJ2S3viJNTNzVND2EORHvYGtxYwcD2e9FwU6xfx6tnLgovnfKwC7ifqBq+3b/dv3w+vf88Hr/3x69OtcMkSPI+QJgX1ztohraYeEm1PHzIy4didQiyymAR0LHFo0HQHkf5pKFgOyqFnJeL/flkQ93spLPeNO0vRD6Tw2Xaq5z4ojvdIsyJfXYqNyy/rkCICCZBU9Esp+WEHe5J6qaAsFjVsMlCwmINklqtpqhIyDGE6G/sF96gJYskIEUVAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Oct 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "the-benefits-of-blockchain-technology-for-startups",
-      "locale": "en",
-      "title": "The Benefits of Blockchain Technology for Startups",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the past few years, we\\u2019ve seen a rapid increase in the number of businesses implementing blockchain technology. The benefits offered by this game-changing digital ledger and database are too numerous to ignore. However, with so many companies adopting blockchain technology, it can be difficult to keep track of all the different ways it can be used. If you\\u2019re currently working on your own business or startup idea, you might be wondering if blockchain is something you should aim to implement in your company.\nDo you need a complex network of nodes and miners to verify transactions? How about consortiums of pre-approved users who can access different levels of information based on their membership? Are you trying to avoid a third party intermediary like banks or brokers? If any of these apply to you and your business, then blockchain technology might just be what you\\u2019re looking for!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/neo-the-chinese-ethereum.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWP4CwO/fv2ysLC4fPkyXOTv378McNa0adMEBQUdHR2xSH/+/Nm7OFc9P9XExOTgwYPo0h++f3WZP5kzKUTf0XbLuVNYDJ8xc5FNYb7Dqhm//vxBSH/9+vXPbxD/169fARVVV968gHCh0mVlZa9fvz5w4MCnT5/27N/34cOHyZMnv379ev/+/U+ePGHo7e198uRJfX39uXPn6uvrr1y5sn///hUrVuzYsePIkSMMDx8+vHTp0k0wuH379p07d65fv3779u0nT578+f0HZPft27efP39+8+bN58+fv379+sGDB48ePXrz5g3QbgDdF/YvqBomhgAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Dec 12 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "crypto",
-      "slug": "neo-the-chinese-ethereum",
-      "locale": "en",
-      "title": "Neo: The Chinese Ethereum",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"EOS and TRON have both recently gained a lot of attention from the cryptocurrency community. While both projects have done so for different reasons, it\\u2019s no secret that both EOS and TRON have been attempting to compete with Ethereum as potential alternatives for developers looking to build decentralized applications (dApps). Both EOS and TRON are often referred to as \\u201Cthe Chinese Ethereum\\u201D due to the similarities in their functionality as well as their focus on becoming the primary blockchain for dApps. However, there are clear differences between these two projects that set them apart from one another. Let\\u2019s take a closer look at NEO and its competition with EOS and TRON.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/bitcoin-private-the-privacy-focused-bitcoin.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ACQmJyEjJSAiJhsaHRgYGiEjJyQlKSUmKignLB8fIQAnKS0oKi4sLTE3NzdKRz03NzUvMTUtLzMpKy8lJioANDY6OTpAi4Vz3NGnxLd+ppJZaVtANTc7MDI2KywwADk9RWRfU93PmN7au3VtSZV7PZ+FR09IOjAyOC0uNQBSVGGNgF6ymlCgmmxoYDw+Nh+HczpwZUdERU40NT4Af4OSoZd2ppRPoJpsb2dBMzAcnY9YgnZRJSYqJyktAJGWopWTksq5bcG3dKadZ7Kpc7SnbkQ/MRMWFR4gIQB/goyBgoq7uLDc06Ti2aHEuYpiXUg9P0NcXWNRUlkAeXqAgoSIhn1sycGb3dfEqKKQq6OPc3N1fXuDdHN6AMbFyoyGgdbNwOLczqWZdLSoj87Jv7q2vD08QWppcEYFejvqiwH5AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jul 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACQlKCIjJiIjJhcYHBMUGSAhJiUmKSYnKycnKx8gIgAmJysoKCwkJSs+PDlPS0E7OjcrLDMuLzMqKi4kJCgANzg8NTY9i4Z14Natzr+FqpVZaFxBNDU7MjM3LC0xADc5R2RdUfHjqdnXuH11TpJ5O6eKR01GOi8xOyssMABLT1+MflzAp1qgmWtNSCxJQCSOeDtxZkhAQU03OEAAcniMopZ1uaVXk41iVU8xPDcimItWi4BYJigwJCQoAI6So5SSkNbEdcO5camgabiud7qrbTs3Jw0PEiQmKACPkpuGipaurKTh2qrr4afAtYNvaVcxNDtLTFBYWWEAa2x0aWpskYx9y8Sk2dO8qqORnZeIhIKFioqSfXyDALi3vJGMidnPu+DaxKqde7yxl9HKvaimqkxMU1xbYnSlenRwSeL8AAAAAElFTkSuQmCC",
+      "imageId": "d0701008-7153-43bd-3524-a2de4939d000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
       "slug": "bitcoin-private-the-privacy-focused-bitcoin",
       "locale": "en",
@@ -155,16 +95,76 @@
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/how-blockchain-technology-can-help-your-company.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMjIyExKSGxtamloZFZWVnqGkra+0MzW6ZSfrUhISgBZV1NHRkJmY105OTl6gYzBzN3Q2+7P2u3M2eyXorMAS0tIZWNfR0lKmKGuytXm0d7wzNbpkpmno6y9y9jsAF9dWVxeXa+2xNDd79Lf8cLN3nZ9ibC6y8LO477L4ABYVlIvMTW/yNXU4fS8x9iHjpnE0eO8ydt8g5GwvdAAOzs7JSYsLCwukpmljJWizt3vvsveg4yZxtXpy9nwAEBCQ5uhpo+Rkj8+Q9Dd7aSvvouUoc3c8s3c8svZ8gC+w8vX3eTBx8xWWFlMTlLT4vbS4PfN3vPK2/PI2PAA0Njg0trj0trjoaerNzk7YGNr0OH3y9z0ydryx9fxAM3X383X383X38zW3o6SmCgqLHd8hs7e9snZ9MfX8X9PwbK7aBoFAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Apr 03 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABI0lEQVQYlWNgYGBgZGRkZmaWlhAXERJkYmRkZGJkYGBgAgMGMWFhSTExVmYWIx0dFXkFRgZGUSEhMRFhqLS+lpaJnp4AH5+MpKSUmDg3B6eFgaGBlhbEVAY5aZnQoJAAHz8/Lx9fL5/I8AhbSyteTm5leUUJMTEGC1OzpPjE8NDwkMDg2OjYjNQMRztHKyODvNhgWQlxBl0tbXtrWxtLa3NjU1sra1sLa2cr6wWt1ZumtujKCDJYGhprKCnz8fLKSUlLiUnwcXG52diu7ypb1VNprKvFwMvNw83JxcHGbqitq6epxcHCoqmonBnqd3lOtrmGLNjTTMwcrGxGOrq66hocrCzcLMz8TEy+JmqFPsZQ78MBCzMzGwsLLxsbAwNDSnAEAOWKLY7/aYXtAAAAAElFTkSuQmCC",
+      "imageId": "9f1bd755-9d4c-4ee6-b4f2-43ace633a200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "crypto",
-      "slug": "how-blockchain-technology-can-help-your-company",
+      "slug": "the-benefits-of-blockchain-technology",
       "locale": "en",
-      "title": "How Blockchain Technology Can Help Your Company",
+      "title": "The Benefits of Blockchain Technology",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, almost every company is looking for ways to improve their business processes using innovative technologies. In the process, blockchain technology has grown immensely in popularity due to its potential use cases and applications across industries. Blockchain\\u2019s decentralized nature makes it especially useful for businesses that want to keep user data private, verify identities without third parties, or manage records efficiently.\nIf you are considering introducing blockchain technology into your company, keep reading! We have compiled a list of the top 5 reasons why your business should adopt blockchain technology today. You will also learn about the different types of blockchain solutions available and see some examples of how companies are currently implementing this transformative new technology.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world is full of digital solutions that solve problems. But few digital solutions are as effective and game-changing as blockchain technology. Blockchain is a decentralized and secure ledger that records transactions chronologically and publicly, so that users can verify them. This process eliminates the need for intermediaries such as banks or brokers. Blockchain technology also has other benefits, including faster transactions and greater transparency.  Moreover, it has the potential to reshape industries from finance to logistics, healthcare and beyond. The widespread adoption of blockchain represents a major innovation in computer science, with implications for almost every industry sector \\u2014 including insurance.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA90lEQVQYlS2KQUoDURBEe/Lnd3f1/5PEjBF14UYUTKJZ6MIMIpIwgxAlihEUI4h7L+QJ9A7exY0HkWRSPIoqqshMg2kICAExGrDMMVoNqTLAgADCItvdZiszEalPy7l+uDQtjndeqv1pOcw3N0S8mRKvpCrO8+t0cFPsLe5Ojw53G86bYTmrKjO71FcXg4/F6KHsxwgWEQUpQEkCw3h08nR7OSmGipCyioDViIgOev23efn+WD3Pxu12O/UqCF4DI9Jkdv/z+/f99Tm/Ljp53nAsiH5NRnl3q392ProaQ9HwEMs81rC1yDES5ylxq96snUOLY8dn+T+TsxweL/6PjwAAAABJRU5ErkJggg==",
+      "imageId": "88334771-3bac-4d87-24d0-42a20b8efd00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "bitcoin-gold-the-bitcoin-forks",
+      "locale": "en",
+      "title": "Bitcoin Gold: The Bitcoin Forks",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You may have heard of a fork before \\u2014 as in, the idea of a software developer making a copy or \\u201Cfork\\u201D of another program\\u2019s code. In the world of computer programs and coding, it isn\\u2019t uncommon for someone to make a modified version of another person's code with the intention of adding some new feature or fixing problems with the original. For example, one might see an error in another programmer\\u2019s code and fix it to prevent other coders from encountering that problem as well. This is essentially what a fork in programming terms is: Take an old piece of code and make changes to improve it. A fork can happen when developers disagree about how to deal with an issue (which is not uncommon) or if there\\u2019s some other reason that makes them want to branch off from the original source code and go their own separate way.  Moreover, there are many different types of forks beyond just software! In this article we will be exploring Bitcoin forks: More specifically, Bitcoin Gold and Bitcoin Cash.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVQYlWNgRgUsLCzMzMxMTEwQLgOyKAMMsLCwsLCyMjExgaRZWFiYmJiYGBmV1DQsHV2l5eQZGBiYmBihuhkYGPj4BVJKqrOq6is6es8/fT9z2RoRUTGoOQwMDMFxSdvO3+mdPT+vtHTu6vV7Tp3rmjIDIV3Z2r1+z/6y6qr9p07NXbxo0YplG3ftYWBghEobWlh39k/YsHXz07dv7z16vGvfXr+wSJA0M1haVFbR0t0vJiUjKTMnNDbBMzpZxdQWZDjEY0xMTGKyCuJK6lxCohqWjjq2rhycXEyMjFBpZmZmRpBZDMwgMRCABAwArmk7keYEMB4AAAAASUVORK5CYII=",
+      "imageId": "de6b6529-24e7-4787-b0a1-105ac901f300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "ripple-the-new-bankers-coin",
+      "locale": "en",
+      "title": "Ripple: The New Banker's Coin",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The world of cryptocurrency can be pretty overwhelming for newcomers. However, there are many reasons why this digital money is gaining popularity with investors and leading financial institutions. The blockchain-based token economy has the potential to revolutionize the way we handle money and make transactions as a global society.\nIf you have been looking into getting involved in the cryptocurrency market, you may have noticed that there are hundreds - perhaps even thousands - of different coins available. Most of them have weird names, strange logos, and even stranger marketing tactics. It\\u2019s enough to drive anyone mad. But don\\u2019t worry; we\\u2019re here to help get you up to speed on one of the most talked-about cryptocurrencies out there: Ripple (also known as XRP).`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABH0lEQVQYlR3BXUvCUAAA0Avb/f7Y3dambjrbwonDEjVmpqCCkpOWSSIEQiBF1EMPPfTUjw86BxiGYZgmRBgiQrlUlmtplwuLMkkIBRAThDHClApt2X6SpHHSOj+/sLTDhQIQEa50pRrWgkjbTtbOmlE8HI6iZqwsBximiQmr1hr5IJ/eTEb55Gm7X8xWzWbiuD4wIaZMOq6/Wm4+3r5+vn8P++PVZd92PKVtgCm3tNtOs9PL++vpczKe77aHXi9n0lb6DGAmMeFhGF0P8qzTPT6fbMfjymbCQoQBIaTvB34lbKWdUT7Osm4r7dQbsefVKtUA1IOw3xtOb2fru/tiUxZFuZgvy3K3KR6L9QOAEJr/GBNCKqk0pZwygRDhQv4Bx50mS0IegTEAAAAASUVORK5CYII=",
+      "imageId": "1936b794-737a-4842-7544-8b24d6856100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "cardano-the-third-generation-crypto",
+      "locale": "en",
+      "title": "Cardano: The Third Generation Crypto",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cardano is a new decentralized public blockchain and cryptocurrency project. It comes from a team of developers calling themselves the Cardano Foundation, based in Switzerland. Founded in 2015, the project began with an earlier version of the blockchain code named \\u201CC Haskell\\u201D and later changed to \\u201CCardano\\u201D. The inspiration for this name came from the home of leading scientist Galileo, who was born in Italy near the town of cardENDa .\nThe first generation of cryptocurrencies like Bitcoin and Ethereum are mainly based on proof-of-work consensus algorithms. While being able to support transactions and data storage, these blockchains have inherent limitations on how many transactions can be verified per second, as well as how large individual blocks can be before becoming too difficult to process efficiently.\nFurthermore, there are issues with mining centralization that could lead to 51% attacks on smaller coins using PoW consensus algorithms alone.\nThis is why Cardano has introduced a new second generation proof-of-stake (POS) consensus algorithm called Ouroboros that allows miners to also act as transaction validators. This creates a system where no single party can control majority stakeholder voting rights or tamper with transaction histories to double spend their digital assets.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADg3MUBAOUlIQFFSR1paT2BgVGVkWG1uYnV1aWhoXABBQTpLS0NWV0tjY1dsbF56e22Tl4mjpZmcnZGen5IASUlAVlZLZGRYcnJjgIFwsran2NvLZGRcfHx01NXDAE5PRF9fUnBwY3h5aI+Rg9ve0/r770xNSGhoY+Hi1ABSUkZkZFd2d2h/gG10dGzV19Ls7ecoKCV7e3n///4AVVVJZmdadndpiot5YF9Vurm07+/pTUxJdXRxs7OtAFZWSmhoW3h4ao6OfH59bV1ZUrayq+3r5evp5+Pi3QBVVklnZlp5eWuHh3aenYl8e2pYVUuQi4O8ta25tK0AVFNIZGNWdnVoh4V2k5KAqaeUoqCNf31ufHhpendoAFFQR2BfUnFvYoJ/cZGOfZyaiKmlk7e0oLSxn6+tm6DulV6BYmItAAAAAElFTkSuQmCC",
+      "imageId": "b720dd28-dcfb-4033-5cea-c172856efc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "crypto",
+      "slug": "litecoin-the-silver-to-bitcoins-gold",
+      "locale": "en",
+      "title": "Litecoin: The Silver to Bitcoin's Gold",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`At the time of this writing, there are over 1,300 cryptocurrencies in existence. That might sound like a lot, but it\\u2019s just a drop in the bucket compared to what we will see in future. As we enter into a new age of digital currencies and blockchain technology, we have seen an explosion of new tokens rise up to challenge old favorites like Bitcoin and Ethereum.\nArmed with the knowledge that many industries will inevitably adopt blockchain technology, developers have created their own unique solutions to accelerate adoption of this exciting new technology. While most of these coins are little more than experimental testnets for improving upon existing blockchains like Ethereum \\u2013 others are legitimate competitors to the market leaders.\nRed hot at present is Litecoin \\u2013 an alternative version of Bitcoin with some key differences. Let\\u2019s take a deeper look at how this newer cryptocurrency stacks up against its older brother...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

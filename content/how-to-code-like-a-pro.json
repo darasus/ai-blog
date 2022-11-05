@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/how-to-code-like-a-pro.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AENNUURDOtJ+JtrGqNfFqdiqdtSMPtF0ENh2DNh2DABVYGNTRTrnkDPl6OO6xsbL1NbL1NTM0c3Qv6fZs4cAW2ZphVkq6J1J9P38ydLRu8TF1+DfytPSzNLS2+LiAEZRUs+GNuuvavL7+tbi4s/b28LLysHKycXPzsPKygBoW0vzqEbwxpLZ4uK1vr/N2Nm9xsbH0M+0vbzEzc0AhXFRvmge9d2+9/7+8fz9zdjbws/SsLq5usbE0+PiAMina45AD+rk3dTh497r7uDu8NDd4NTf4OPu79n7+wDaq2SGRyby9/ja6u3X5urb7PLi8vbk8fTg7vDTxsEA7qpfk3Bl8Pv85vX76fn96/r86Pj54O/z8fz9t5GMAO2oVXtWSd2/l9rPwOTt7uf4++n5/en5/fH8/ZdbVutG3IoQh8PtAAAAAElFTkSuQmCC",
-  "createdAt": "2020-11-08T02:43:01.752Z",
-  "updatedAt": "2022-10-11T17:15:04.428Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEJQVkZEO8p2HtzFpNHFsNWoc9eRRdmCI9l0CdlwAQBVZGpTRjnbhzDm5dvB09vK2d3N2tzOzcPUwKjSqn8ASlxni1sp+KlR9v7/ztfWvMXE1d7dxdDSx9Xa0uDmAEhTVsR5J/a6c+z4/Nbg4NLc3cLMy73FxcLJx8HHxQBsYU7xmy72y5na6fC4wsDP2dnDzc3BysmwuLfO1tYAf2VIx3Il+ty5+v//8Pv5ytfZusbIuMHAvcrJ2OfnALGTX5NKI/Xm0tDh6OHu793r7dDf4dDa3OXw8Nz9/ADJmlOLVj/89uvS4+nW5ejc7PHg7/Pj8fPt/P3RxsMA0Y5EnoN//f//5vn96Pf96Pf75PP33+3w+v//uJKNANSUSIllWObDmtfNweTt8On5/ur6/un5/Pb//5ldWgv73L/rlOtqAAAAAElFTkSuQmCC",
+  "imageId": "ef314a5a-e3bc-472b-22ed-ac55e6718a00",
+  "createdAt": "2022-11-05T21:50:41.932Z",
+  "updatedAt": "2022-11-05T21:50:42.159Z",
   "categoryLocal": "coding",
   "slug": "how-to-code-like-a-pro",
   "locale": "en",
@@ -20,151 +20,106 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-companies.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMrCsNLDrdrJtObTvN/OuNnKts/Fu9DBr492Y2lKOQDo8fXd0sTVxLHUybrRxbnTw7TOwLLVxLHWtprHlW8AiXZq2N/j3NfP0sa6zsW4y8S5zMzMysK6wLauuJeCAKh2Wb+0se31+dze3crHv4eCep6kqbu+u7rDxMHQ1ACFbmGVcmDRxL/n8PTTyMGUa1AxLSfDyMK+y8u+y80Aj4mJr5WMxLOr6O7wxLOrjVpALiQes7anu76vxcS+AH15eottYLijlujo5I+WmJRmTWl0gpOZm93bzL+/vwB4a2edfW+uqKGPm6eDlqunrrqLpMCPqMS+xMa5ubsAUFBQa2Jga3B6Wmx/kJ+zs73Ic46slYWBgXFyo6azAKiXjWlcWXF9hpCUl39nX4lyao2bq7Waj59pVJljT6pWwNtKDSCpAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Oct 16 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOTz6+X07eLx6PP/+o+YlHlUQYdcRTMxLsvVz+v27QDh8Ojp+fDs/PTo+fJdXFmpemWfdWAoHhd2fHn1//gA6/vz5/jw8f/5r7y4QDUvtIR0mmZcX0Q3LTIx6fbuAOT17er68/L//M/a1jEvLMmVfdaSeFdAMl5mZ/D+9QDn/vfo+vPn+fPy//+Mk5GtnIDWrYiPeGDO2M3r/fQA3NDI59nU6vz35dvS69bD//DH5ceiv6B+wZyA3se6AMyMfcqZhuPg2vHSyNi+s9PHvNS3o+XFtePDtuq9rQBlXVpYUUxXVlVVVVVPTk08Pz91cW/y3tTOtKfQopIAPkVFPkREPkRCP0hDPkBAOTw7WllY3cS7u5qNuZSHAEJGRT9BQUJKRkdWTj0+P0FDQUNERKiNg7aQg6yGezQHuni4OAoeAAAAAElFTkSuQmCC",
+      "imageId": "5c0da510-ba62-4f45-7866-c58f4e78e500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-companies",
+      "slug": "the-basics-of-coding-for-beginners",
       "locale": "en",
-      "title": "The Top Software Engineering Companies",
+      "title": "The Basics of Coding for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The software engineering field is booming, but the market for software engineers is highly competitive. If you\\u2019re looking to break into this field or advance your career as an engineer, you must stand out from the crowd to land your dream job. Software engineers are in high demand across many industries, but some companies stand out as leaders in this field. These top software engineering companies help drive innovation and create new products and technologies that others can build upon.\nIf you want to work as a software engineer or break into the field with ease, consider exploring companies that hire software engineers. You might find a position with one of these top-rated companies or use your resume to apply directly at one of these firms. In addition to researching different companies, it\\u2019s also important to research their specific software engineering roles and requirements so you can tailor your resume accordingly. Here are some of the top software engineering companies:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Even if you don\\u2019t think of yourself as a tech whiz, you might find that coding is your calling. This can be a tricky subject to get started on and continue with, but we\\u2019re here to make it easy for you. Coding for beginners isn\\u2019t as difficult as you might believe, it just requires some study time and practice. It won\\u2019t come easily at first, but with time and the right amount of dedication, anyone can learn the fundamentals of coding whether they have prior knowledge or not.\nCoding is becoming one of the most important skills in today\\u2019s job market. Even if you don\\u2019t want to become a software engineer or the like, understanding basic coding principles can give you an edge in almost any other field. You see, anything from accounting to healthcare uses technology on a daily basis \\u2014 often involving advanced software or artificial intelligence systems.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANeti/yZBPqcA/yXA/uWAvuWAvuTAvyJA+lnAbVUFQDqpmn5wXn3um31v3j3yZD3yI31yZb206/0xp3honcA6dS77tW999vC8tm/c1hGnol1gmhVxqyVqo56+tq+AOLLteTKs/jcxPvkyaGJdJiAa7agiqmRfrKYg/zgxQDfx7Lp0rqvl4bRuaSokH2+qJSGa1uXfm2zmIbGrJcA1L6q6NC7rJOCrpaDjXVkuaCNq5B+xKyXtZ2Kq5B+AN7QuerZxN7GrqSLeOTPueHLtdXAqZN3aJV6ar6mkwB1xbPGqpTZwqp7YlF7YFKgh3eZf22CZ1ekiXeli3gAoo9z89rA++nP+ufO/OrQ++jR9+LJ79fC9NzE79jAAOmUKOiOJOWDE+WAEOR7DeR4Cep+A+1/Aut9A+1/AorMwinrFK20AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 21 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ANCxAs+yAtW4AdO2AtO1ANC2E9GzCNe3AMe0JJGdowCymgOdhwPhxgLUugDTuQzU37jS2J/RvyrYugC3rksAqJIDj3wE588F1roA1NFy0urs2vLu3PHp1tiN18QfAKSRBJuJBuvSANTDI9zu3rfHwJypnrvMw9fu79ru3gCgjgSklATr1gDX3Jnd8+/E1MihsKiXpJ2VoZjH2c8AlogIkYMA7uAi2era3vX1zuHVpLKok6CassK50OLXAIR5CJGFCvPjBd3SJNzileD07eP6+MbYzMvd0OH27gCPggmxogvx4Qzk1ATl0wDg1zbd5avj9/bj+v/Y3qEA4tEN5NQM5tYL5tcO5tgN59cB5dQC4NlM3ua53tIvAOPUDuXVDuXWDObXC+fXDOfXDufYDujXAuPUB+XWBrlPvwO1qG+pAAAAAElFTkSuQmCC",
+      "imageId": "c889660b-32d9-4951-c18a-186cc2ce7c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-habits-for-beginners",
+      "slug": "the-best-coding-resources-for-beginners",
       "locale": "en",
-      "title": "The Best Coding Habits for Beginners",
+      "title": "The Best Coding Resources for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The road to becoming an expert coder is long and challenging. In fact, it\\u2019s one of the most difficult tech fields to get started in as a beginner. But it\\u2019s also one of the most lucrative careers you can choose to pursue. The average software engineer salary is around $100K per year, which is even more impressive when you consider that the average age of software engineers is only 29! If you want to start a new career in coding but feel like you\\u2019re starting at square one, we have some advice for you. As someone who has been coding for over 10 years now, I can tell you with complete certainty that great coders are made and not born. Anyone can learn how to code if they are willing to work hard at it and adopt some good habits along the way. Here are some tips on how you can get started today:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New to coding? There are a lot of resources out there, but they can be overwhelming. Which ones are worth your time? How do you find the best ones? The coding space is constantly growing and changing. There are new tools, sites, and concepts popping up every day. Navigating this landscape as a beginner can be difficult.\nCoding is an in-demand skill that has been growing rapidly in demand over the last few years. More and more people want to learn how to code, but there isn\\u2019t always an easy resource for beginners looking to get started. With so many options out there, it can be difficult to know where to start learning the basics of coding. Even if you\\u2019re not a complete beginner, these are great places to continue learning about coding and even advance your knowledge on specific topics that interest you most.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6UlEQVQYlW2OXUsCURiEzy/uqsBf0E0SIQZ2V0KJuH2IWwpCHy4ZBhFBuBXlKvi1a9gmnfa87zkTsS0ogXM3MzDzCPyp1x3t7VbtSvPUvnGfekkIQMiviIgCfxr400F/4nVHbddTSgEgIrG5UXCch1q1ZVeahYN6ZsvK5cpW6dwqXR4dNsR8Z6lEGIZzo9/f0C7/q5+v6lJJo03sztZwl//pNJJOMQlo8zj2+p8BM8O1zcW62l6l2j6A9HUx/pasmPnbz8rZLSZDlU1F6ZUkX6ANO8eaxzHBvaNfW3jZgY6Wkxv6MMGJMdEv1NENVOEvZ3AAAAAASUVORK5CYII=",
-      "createdAt": "Sat Apr 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKS6uqrAwae8va/Gx6rAwqm/wKi/v6K3up60t5uytgDF29zN5OXQ5+jU6uvh+vva9PXR6uze+/zW9PnT8vsA1+3t7///mKmpjpydorW2iJeYh5eY6f//0/H30/H7AM3l5+v//7rNz6a5uqO1taO2uMTa2+D8/tr4/q7J0gDK4uXH296uwcOnurt8iYqJmJmMm56/1Nbj//+TrLUAwNDUu8/SmKirna2xiZebq73AiZaZtsnN2/j/lq+5AKa6wa2/w5ytsYmXm256fY6doX+Mj1dfYcnk6nyQlwCis7Knur+gsbahs7ixxcnE2d/G2+KgsrfO6fBebXQAstDV2O711+/31/D40+vz0ejw0ejx1/H5y+XsgJWdALrT2sXb4cfe5sbd5cfe5Mfd5MPY4LzR2LTJz7TR2+bJ5Jm1llCqAAAAAElFTkSuQmCC",
+      "imageId": "0a3099e5-36b8-44e7-82cc-a99706800800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-most-common-coding-mistakes-and-how-to-avoid-them",
+      "slug": "how-to-get-started-with-coding",
       "locale": "en",
-      "title": "The Most Common Coding Mistakes and How to Avoid Them",
+      "title": "How to Get Started with Coding",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No matter how many tutorials or articles you read, coding is always challenging. Even experienced developers sometimes make mistakes. New coders might feel like they\\u2019re constantly making errors, but it\\u2019s all part of the learning process. Mistakes are inevitable and beneficial as long as you learn from them. The more coding experience you have, the less frequently these mistakes will occur. However, if you\\u2019re just beginning to code, it\\u2019s best to know about the most common errors before they become a serious problem for your project. Read on to find out more about these coding mistakes and how to avoid them when coding your next software project.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is an essential skill that can be applied to a variety of roles, industries and company sizes. What started as a niche skill used by software developers is now a marketable and relevant skill for almost every industry. It has become so ubiquitous that even the Department of Labor has highlighted coding as one of the fastest growing skills in demand.\nCoding is most commonly thought of as the ability to create websites, apps and software. However, there are actually many different types of coding. Computer programming (or coding) involves writing instructions for computers so they perform certain actions or functions. The type of coding you choose to learn may have different applications depending on your interests, career trajectory and personal strengths. Read on to learn more about the various types of coding, as well`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/working-with-files-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlU3NPUvDQADG8ft+fgAXNzdBUYPFglUEFREddGuIipuoiIsmpZRQNWrFBNrrccklJJfWKIRgTWJeLnWQtosP/+03PIBSCmG7XFqYmZ5anp/d26rcXJ5jBIvxwMH+ztHhbhAEPeq6jh2GoSw3BL4aRdGIN9dLcRwzxoiOiY4/Pe+j//748KRpWp4X4O215XleUfyaBonjJM2LSaIofg8ioLVGzNgQIaSqqmEYP2meZKxWq/t+ADCC3Q5Mk9z3gyRj44ZJxiRJGnyFQH15JrqR5sU/G7YhasoNomNwfXWBu2jyN2HLdgS+imHHtgjgOK6ytqIoCjbM5r18dnp8IvDdDnQdSm0LLC7NbW+sSne39ZqoKApC2CKm61Cv16eW+QeuNfYRsexxWwAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Aug 11 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADzK4F/KuSXV/3vVmq7NUiPc/ybI0hZ7bxJtUxyajgCcuXT/rgCMtIg2u8lWn4Uh4v8XhHYDRgAEKwAHWBEAjLmDt0wAbFQ0XsHfnO3+KOv/FW1SAD0AAUYJBUMSAJyML1x9k8bAwf318vfj25/V4U6apkA6GyItDSFlUQC1p5uk17mR3rq11MTLxsnVv8aqoqhgYm07ZYAtn80A2+DRQrJ8NbmAdcWe9+nf8Oqw797fpq+7KZfAIZ7KANvWylesezmgamuuhfzt7O7LXPnlWProzGGVtB2w3AD26eG5uKynnZW+qqjMycn98PXdo1m+mBJRs6kav/kAzsC7vrCvzL675NnU++3n6NXLU5G2KYmfqaY6X6aNAOja0fHj2vvr4fzu5dbDu0eFnBi65x7E9h+UuiQpGvh0sew44SXoAAAAAElFTkSuQmCC",
+      "imageId": "c31da73f-87a8-475e-b693-a7e7496edf00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "working-with-files-in-java",
+      "slug": "the-best-coding-tutorials-for-beginners",
       "locale": "en",
-      "title": "Working with Files in Java",
+      "title": "The Best Coding Tutorials for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working with files is something that entry-level programmers don\\u2019t get to do very often. It\\u2019s not the most exciting part of software development, but it\\u2019s an important one. The file system is the cornerstone of almost every program you use on your computer. Working with files in Java can seem a little counterintuitive at first. Once you understand what makes it different from other programming languages, it becomes much clearer.\nWorking with files in Java involves creating, reading, updating and deleting files. Files are stored as strings or bytes. If you have used other programming languages before, this will be familiar to you. In Java, there are two separate ways of working with files: standard streams and the new \"File\" class introduced in version 1.1 of the language. This article explains how to work with files using both methods and also touches on some related topics such New>.../New> tags and Jar archives (self-executable packages).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Do you want to learn how to code but don\\u2019t know where to start? There are so many coding tutorials out there, it\\u2019s easy to get lost. Some of them are too basic and some too advanced. Finding the right balance between too easy and too hard is tricky. That\\u2019s why in this article you will find the best coding tutorials for beginners. We have researched various online resources and picked the top 10 ones that will help you master coding fast and efficiently. From beginner level Python to intermediate HTML and CSS tutorials - you can learn all the essential skills of programming from these great resources. Try them out and become a coding pro in no time!\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-mobile-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAlUlEQVQYlYXPQQqEIBiG4Q7YmTpDF2jTYjYOKLgYMOgXxooQQZAfCUS0XYcQhpYDUd/22XxvVW5XPXDTNHVdD8NwzTHGr3qN8L5mYyjiJ6XUdd00TfM8932PiN77kyklAGCt3fedMaaUcs4hYs75ZM5527bbtpVSQggA4L0XQhhjEPHv+XEcy7IQQqSUWut1XZ/C7vkHNEENNAsfTlAAAAAASUVORK5CYII=",
-      "createdAt": "Tue Jul 27 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlRXEPU/CQBgA4Fvd/A8Ozv4GVwd3N2c3jXGQ+AucTBycnCBEScREA2qKIrUHrS30SzikoPKdVoOUlpa7e43P8KCjXmun8wYAjHHKOGOM8/8BmD+bomWtsFbH5swDOluwEIByHjDmA4QNYqD1QWtJreziWwh74eK73TGi2HO9NkBQb+hoJXmcSG8pL6k4GM6jn2TqPJNJCoUbACDERr6z4Q8Tc/ez/6FZtiwrRUI0XBZGI4c0LbSdOjzNXtKJN+yT7HUaY6EiPz4Vc7WaZJgqWt07617kACK5XDDMcql0VxLvRfEhn79SFBFpmwcgVinwhi0r6nNNl3QDS1iQsGDZKmrvnwRfXcoCOnc5/+VswtgkjlwAfzx2kB9NGQ3j2B/0HKdpvROzbldN41Wvyoau/AGGA/moPCHUPgAAAABJRU5ErkJggg==",
+      "imageId": "8afcd06f-ba3c-4b42-19dd-64511160d900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-for-mobile-development",
+      "slug": "the-most-popular-coding-languages",
       "locale": "en",
-      "title": "Python - The Language for Mobile Development",
+      "title": "The Most Popular Coding Languages",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many programming languages to choose from, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nWith so many programming languages available, it can be challenging for developers to find the best one for a particular project. For example, if the goal is to create an app that will run on multiple different devices and operating systems, what\\u2019s the best option?\nIf you\\u2019re developing mobile apps that will primarily target iPhones or Android phones and tablets, you might want to consider using Python as your primary language. With this blog post, we\\u2019ll cover why this is good choice\\u2014and why other options may not be ideal in certain situations.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Coding is a hot job right now and will continue to be so for the foreseeable future. The demand for coders is growing, and not just in tech companies. Companies of all types need programmers with different coding skills to build their software and websites, which means that coders can find jobs anywhere.\nCoding is also one of the fastest-growing job markets at the moment. As businesses continue to digitize and automate processes, the need for developers who can create programs increases as well. The explosion of new programming languages has made this an exciting time to be a coder. There are so many options out there \\u2013 from traditional ones like Java and Python to newer players like Go and Kotlin. Which do you think makes for a more promising career as a coder? Keep reading to find out which coding languages are most in demand right now...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introducing-javafx.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlT2PO0sDQRSF999Z+V/EzkYES8FHJ5hCC4miEXwRV/KwELYwELQIbkJ2Z9x53Zk7s7OPgKUsG4TTfYfDdwKZES0yIxkqbkG0QcWNZMBpAJwaySwIj6qw0MZpaUEYyYJ/VjpTe1t7W+VYOuNRoeINdlqKkx3T7+ZkbsjSMoJZCnTptAxQcR0N4GBLXe9Cd/twc+PueL93tDe4PPWoGuznn+XHsJ6NzKRPpxMWvS6mEfn+0ixtsNOyynFVuN/arwoXvz39jHrp+BGSeK1WWGi9Fu+hfuiU4YUZXjVqWmTNgOGFhSrXnCaz8DZ/PoPxTXMMOF03tPSoPCpOk/i+Y17OZUb+AMfgAewT8ENlAAAAAElFTkSuQmCC",
-      "createdAt": "Fri May 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMy+Sc/Jm9LQ2dzh9eHn8N7j5drd4Nrd4dnd4tnc4QDlqQDGgQDWvB3XxF3MwKbV0Nja3O3a3+rc4OLY290AvHkKtn8Fz+YWpegnrs4rsr9GvbRpwrSkxMHV1dnsAPyhD///AJ/WLDaYSnqxQH62Q6zHIPPiANjDIrmlXAD+ngj//wHf9RjE9i3W/jbQ8zTj5CL//wna2QFpVAAAxfY3ruhI0fMtX+WJEs67gOtq625c7FSPxoc3SUMBAJO/PFulU7PgOTjLngCqvGXDfc0+ZZYAe+mqL19WAgDC+0nX9yv2/xTM+jWo5U3Z9i391B/4tDX/9RLGtgIAWfqp69UJpaQ9z80l89AE8MkBpZkN7ucO//8Dk4oEANDwKf/7AN3PDqecM4iLSaSfFOzbA/bbCf//BtnSBDlbttajoIKxAAAAAElFTkSuQmCC",
+      "imageId": "9329f620-c8ad-4ddd-b399-e58acf735e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "introducing-javafx",
+      "slug": "the-best-coding-languages-to-learn",
       "locale": "en",
-      "title": "Introducing Javafx",
+      "title": "The Best Coding Languages to Learn",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today, with the prevalence of mobile devices and IoT, users expect applications to respond quickly and provide an engaging experience. Concurrently, businesses demand cost-effective solutions to meet these demands. This creates a need for high-performance, cross-platform apps that can be easily deployed on various devices. JavaFX can be your best bet for developing such apps.\nWith JavaFX, you can build rich client applications that are high performing, responsive, and have a natural user interface (NUI). In this post, we will explain what JavaFX is and what it brings to the table. We will also see some examples of where this technology is being used. If you\\u2019re interested in learning more about its benefits and implementation details, keep reading!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having the skills to code can be an extremely useful asset in your professional and personal life. There is a huge demand for coders right now, and it is only going to continue growing in the future. Some of the most successful people today got there because they mastered a coding language and used it to their advantage. Whether you are looking for a new career opportunity or something you can use on a personal level, learning to code is something that will not only expand your mind but also open up so many doors for you.\nCoding languages might seem intimidating at first glance, but once you get past the initial weirdness of reading something that seems like a foreign language, they are actually fairly straightforward. Even if you have no programming experience whatsoever, this article will give you all the information you need to begin your coder journey and find the perfect coding language for your needs.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-video-processing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOTf4/z7/PTx8trT1dDGy9XIz9jHz+3X4OnQ2+PK1QCOiI++trt/dX1aUFg4LjQoICUyKy9NRUppXWF/cHgAX01aMyctf0dB2m9cKSIkQTU5b1tmYU1YT0BKIR8fAEg6PzgqLaKIjIxtcSQfIVFASHJcaGhUX2tXYhEREQCjj5iSgYn78vLY09UpIiRaSVFwWmZmUl5lU14ICAgAk36OgG1/nIiR08bDU0VHMSosLyUpKCAlLCUoCQkJAHJfb11OWj0yPbKaormhpZiGindnakw7Q0ImKTEoKQBMPkxWR1M4LjZWR1HVu8D94+X94+X63uPky8/LtLcATkBOJiEnHhkbRTw9wquu+t7g/ePl/ODj993h8trgAGdcXaqXm+PQ1Prn7P7r7f3o6/3j5/vf5PXb3/DY3pIumAg4Ox+kAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jun 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOXv+efz/N3o8dDa5Nnj783b5dLi7Mze6dDk8LzR3QDX5Ozh6vTP2eLH0dnS3Oa8x9DQ4OrM3efK3OjA1eEA4e/54v//7PL4pKqysbnBsrrCtb/IrrrEn6y2mqiyAOXu+Km6wqOosbO5wrrCysXO2MHM1rO9x6azvJekrgC8w80NCxBUT1T4///y/P/o8vva5e/g7fjb6/bQ4u4AytPZg2FbtZaVzdji2OLt7fj/5O/35/T/4e/83e79AIS+646Nob+zu3WDko6dqpilsYCPl6W2wNbs+9nw/wBUmNdRj8zKxs3WzNHDxNAhHyMACggsQUTQ1+HS4OwAYKvqS4jHXn6qq5OTpIWBb2NpNTc9a2pu0b2/yLi6AGaLzUSMz1uV3JOTq4qQqbuamLKjpsi4t867vMu4utVp2mf9j5cAAAAAAElFTkSuQmCC",
+      "imageId": "48b60557-9e24-4f4f-fb4e-3e7a7a871a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-video-processing",
+      "slug": "the-benefits-of-learning-to-code",
       "locale": "en",
-      "title": "Go Language for Video Processing",
+      "title": "The Benefits of Learning to Code",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The video processing industry is growing at an astounding rate. This is primarily due to the rise of social media and the prevalence of user-generated content. As a result, there are now a plethora of video editing apps that allow users to add filters to their videos, create green-screen effects, and more. Given this opportunity, businesses in this space have begun to thrive. However, for all of its current successes and future potential, the video processing industry could be even more successful with the help of artificial intelligence (AI).\nIf you\\u2019re currently looking for opportunities in video processing or AI and want to learn about some specific Go programming examples that can be used in this industry, you\\u2019ve come to the right place! In this blog post, we\\u2019ll go over exactly what the video processing industry is and why it needs AI. Additionally, we\\u2019ll explore some common applications of Go for AI and video processing as well as provide examples of programs written in Go that can be used by you if you want to get started sooner rather than later!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-the-language-for-web-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAx0lEQVQYlWP4ixcw/IMB7NIPrhadPLrk9rXFcBVXThbdvlj3/fv3O+ejGa6caVyzetHLi4IP7+2GSD99uO/ROZ7ThytunbJj2LZty8EDW5+cl7t/Zy1E+uzZs+eOt768xHL9bB3Dzg0xR7a5Xj+d+fPnT4j09evX37179+AMx92T6gxPHp68ffv2gwcP4M55+fLlvn37Xl5ieniri+HYkU3Hjh07evTozZs3v4LB69evr1y5dOus/60rSxjQfILmQ5A0Lk8DpQFXjgZAq0HRrQAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Apr 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "python-the-language-for-web-development",
-      "locale": "en",
-      "title": "Python - The Language for Web Development",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`What is the best programming language for developing websites? If you\\u2019re looking to develop dynamic websites and integrate them with databases, Python might be the right choice for you.\nIf you are a programmer or planning to become one, it\\u2019s important to know what technologies will be useful in your future career. As the world of software development shifts from standalone desktop applications to internet-accessible services, new programming languages emerge almost monthly to meet this demand.\nIn this blog post, we will discuss why you should learn Python if you want to become a web developer and what kind of job opportunities does it give you. Moreover, we will list some examples of companies using Python in their products as well as some resources on how to start learning this programming language.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-debug-your-code-like-a-pro.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA0UlEQVQYlWOIOv0z6vTPyFM/ICQaYoBLQNRB2LFnfqScByEGq5blbguOeSw9b9ezyW3+CffFp3zWXEPo9l1/02X2Ib+t933X3/RZc8Vl9iG7nk3ui095FjX5T1yDMByOXOcd14yuEOITU7ILYjAtm+4waYd5/aKQg+/MKmcHbn9k2bxc3NiHiU2cS0ybwX/bQ+dZB/023o04+T3s8IfIUz8Ctz+StAllYhNnF1RBcTnEcOv21c6zDvIrWxgVToJKo1kP8ti5X0lnf4KkIQhrsAAAgR6yy7K5F10AAAAASUVORK5CYII=",
-      "createdAt": "Wed Mar 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-debug-your-code-like-a-pro",
-      "locale": "en",
-      "title": "How to Debug Your Code like a Pro",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you an exceptional programmer? Sure, you can code in multiple programming languages fluently, debug any issues you encounter, and implement algorithms like a pro. But what happens when your code crashes again and again? Or it works perfectly on paper but not in practice? What do you do when you have no idea what\\u2019s going wrong or why the code isn\\u2019t working as intended? Well, if that sounds like you \\u2014 as a programmer \\u2014 then keep reading because we have some good news for you! Debugging your code is one of the most challenging and demanding tasks as a coder. It requires patience, precision, and analytical skills to identify where things aren\\u2019t working correctly and why. However, with the right strategies and techniques, debugging your code doesn\\u2019t need to be a painful process. Here are some helpful tips on how to debug your code like a pro:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-use-code-snippets-effectively.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMTCvsjGwsvJxc/Nyc/NydDOysbGxLm7urO1tKqvsAC9vb3AwMDFxcW5urfJx8XPzcnCw8BgZWN0fHlwenkAsrO3u7u/vL7Cubm5ycfDzczIuLa1jGhiZ3BvbXZ1ALO1ubm6vr2/w8zLx8TCvsrIxLS1sop8ekZPU32GiAC5ubu+vcDCwsTFxMAvMziMfXlaY2dBQEVcVVdmZmgAwsC8xsXBycfDxcXDd1hTpI2DhX5+b2FhN0FHXmlvAL++usTCvsbFwV94oj5PfJOaqKempzlESTxGTFlmbQCVl5arrKlpcnYsT45BU4E6UoF8g49MUFNPVVpDUVoASlJahouLNEBMHj99Q0lploSBmo2Kw7axpKSmd4OKAD5GUW1wdk9XXR42XEZhfk5keGFweFVmcH2YqFJsd4/jp7Q9LBQoAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Sep 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "how-to-use-code-snippets-effectively",
-      "locale": "en",
-      "title": "How to Use Code Snippets Effectively",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Having access to thousands of code snippets online is a double-edged sword. On the one hand, they make it easy to insert commonly used code into your document. On the other hand, it\\u2019s so easy to just insert them that most people won\\u2019t take the time to understand how they work. After all, why spend 15 minutes learning something when you can just copy and paste it instead? However, using code snippets effectively is important if you want to save time and effort in the long run.\nThere are many benefits that come with using code snippets effectively. For example, they can help you reduce the amount of time spent on repetitive tasks. You\\u2019ll also learn new information about different programming techniques while reducing your chances of making a common mistake. Keep reading to learn how you can use code snippets effectively.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

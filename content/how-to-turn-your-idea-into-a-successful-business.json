@@ -1,9 +1,9 @@
 {
   "category": "business",
-  "imageSrc": "/articles/how-to-turn-your-idea-into-a-successful-business.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJObopmhqJ6mrKKrsaass6Kora2oqsaVkb+bmZ6ZmwCHj5NudXlscnestLqhqq6fpaq+t7ntlZDli4Wpm50AqbO5k5ygi5SYtb3Es7vBq7G2zMvQnGJas5iVzNDTAIOLj4CGi251d5ukqKGnq9Pb4pGBgKNoWL2lndfd5AB5f4Sepqyiq7Gnr7bS2uHd5euwkITSm4Pk5OaZnKIAsLrAv8rPxc3Upauw19/lhYmOlIN90sG5qKyxEBAUAM3Z4MXP1dTe5uDq8tri6VlbXyIfI09QVBwbIBoXHADG0tnQ3eTZ4+vM1tza4us0NjoKCgweGiAcGh0RERMAu8jPyNXc0d7l2OXs3efvLzE1CQkLHBsgcXV6WlxgAKu3v7rHzsbS29Dd5Nbi6q62vXh+g7vByObu9o+VnLmauZ2eq/obAAAAAElFTkSuQmCC",
-  "createdAt": "2020-04-20T17:56:24.336Z",
-  "updatedAt": "2022-10-11T17:16:26.264Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJOaoZyjqqGpr6Wss6Wss6GnrK2orMiRjrySkJ2YmgCEi49laW19hImvuL+iqa+do6jBvb/0mpbniIOvo6QAoquyeH+Dg4qPsrvCoKess7q/0NLWkFlUtZOR0tfbAJKaoJmhp3+Eiqu0u7K5vtHc4pqLiIZKNsGqo+Xw+QBzeX2ttbyjq7Gbo6jM1drc6PCnhXfanYHp6Oqco6kAqLK5ucLKw8vToKas2+TsjJGYhnNt4dDInaOpCAYJANbi687Z4dLb4+Xv+Ofw+FRWWRgWGFZYXSkoLBoYHADF0dnQ3eXc5/DP2ODV3uY+QEMAAAAVEhYOCw4QDhEAu8jQx9Tc0d7l1uPr3+nyNDY5AAAAGxoeg4aNWlxhAKu4wLrHz8bT3M7c5Nzo8aqyum90ebK4wP///5WaoCqjulhmIn5nAAAAAElFTkSuQmCC",
+  "imageId": "e7025602-9149-419e-192c-3785ec7bce00",
+  "createdAt": "2022-11-05T21:54:15.286Z",
+  "updatedAt": "2022-11-05T21:54:15.626Z",
   "categoryLocal": "business",
   "slug": "how-to-turn-your-idea-into-a-successful-business",
   "locale": "en",
@@ -20,85 +20,40 @@
   "relatedArticles": [
     {
       "category": "business",
-      "imageSrc": "/articles/how-to-create-a-business-plan-that-works.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL6FNMCGNb2EM7J8Mal7O559S62XdcaTUqhQIb93KwCqgUmwlW6qnYi8ubHIysnDwLbi4uLZx7aAJhJrLRQA09bVzc/OycvNyMjK6enp6efo48zN4s7Orm5POg8OAM3GxtfZ2d+/vturq9ijpdSRk9uureDFxdrNv1s5HADRhYbYo6XXm53bqarm29rr5ubs7Ozl0NDs7Oy3kmgA37++48rM3rq73rW15c3M3Kys3Kep04iI7u7u5NrQAO3v8dmeoOK9vtiWmOK4uejNzfHs7M6+vr3Avezs7ADv8fPn0NHy8vLw6en19fX29vbS19WXnJjO0M3g4OAA8vT18vTz9fX19fX16enpx8zNmqGeury7y8vLxcXFAO3v8eTm5+Xl5+fn58fK1YiNl7W3ud7e3tDQ0OHh4b8j3p4vSXxJAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Jul 11 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMyiiM2ghL2ReriLdMi2tsvAx8K1u76yuLits7KorAC7i27Elnqjb1WphXjGu77Y2ubb2+TX1dvT0tfS090AuoVowo1tq3tjsoZy0cvN2dnj3N/p4t3V2cm13drUAOXS0tvAu7yJbLh+XcawqcCrrMW3u9HIw7WdgrupkgD10NnktLO3kIDBpqDNt7m8n5y7lZPGu8CZiYWVemwA3aqtxJeTv6+wzNHhwrTGtJWgromJsZ2bqKClnJCSAO7v9vDj6PTX18m5wMnI1bm4x7W0v76qpMi7t9fX3wD+3trfwcPnyMj41NHpycfSurro293m4uTVycHLwLsA9tPR99fU8tHO7czK4sPG9s/G4qaQ4bWv08jNxc7aAOzIxerHxfHNyfTRzPHOzPHIwdytpL+pqsLJ1cXR4Ml43j0JDYqkAAAAAElFTkSuQmCC",
+      "imageId": "7f821c1a-fc4e-4094-29ee-d29e6f9b8f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "how-to-create-a-business-plan-that-works",
+      "slug": "how-to-create-a-productive-morning-routine",
       "locale": "en",
-      "title": "How to Create a Business Plan That Works",
+      "title": "How to Create a Productive Morning Routine",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Starting a business from scratch can be overwhelming and challenging. You need to make crucial decisions about what type of business to start, who your potential customers are, how much capital you have available, where you will operate and many more important details.\nBusiness planning is an essential part of starting any new venture. A business plan helps you clarify your ideas, set measurable goals and give you the support needed to succeed. It also serves as a document that explains why someone should invest money in your company.\nA well-written business plan will not only help you get financing but can also assist you in operating your business more effectively once it is up and running. The process isn\\u2019t easy, but with the right tools and advice, it\\u2019s not as complicated as it may seem either. Let\\u2019s take a look at some useful advice on how to create a business plan that works for you`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Thinking about your productivity can be a bit of a mind-bender. After all, being productive means you\\u2019ve completed X amount of tasks in Y time. You\\u2019ll know if you are productive because you\\u2019ll have ticked off everything on your to-do list and have a few minutes to spare. Right?\nThat doesn\\u2019t sound too tricky, does it? Yet we all know that feeling when you look back at the end of the day and wonder where the hours went! What was even more frustrating is that you knew exactly what went wrong. It was something simple like not having prepped your desk with everything you need, or spending too much time browsing social media sites before launching into your work for the day.\nIf this sounds like something you\\u2019ve experienced before, read on as we explore how to create a productive morning routine so that every single day of your working week runs smoothly and efficiently...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "business",
-      "imageSrc": "/articles/tips-for-staying-productive-throughout-the-day.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABEUlEQVQYlVXL30qDUACAca93uwfpESLYo/QMsa6ilxh0E4Z3Kri6koLtIl2edFRu6nbUsy3PcjsxnX8mYjsQVjD6bn98DCHEcZwgCFzXRQhBCMMwBABgjMuyZLIssyyL53lN03ieVxQFAKDruizLVVUxlNKiKDiOEwRBkiRRFAVBYFk2SRJKac2e51lTX+6pT0NzYLypz+bEm9GfavZ9H85xD1jqy1S3/F84MMYY4fXIxYaNbIRthP+x6X7ESZbmu2ibkyjdxNmBMYmPTjv2YtXpgsbJeeP47OK6n+a78DP6u1dRqo4WV3dGs9VuttqXN30YhGPokyit+WGIBuP3x9d5V5ncqs694a0329mS7L/230/W+tQeijz7AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jan 11 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AKqUe62Sb7uqiuzq3f///+3p6s/IzPDw7szDzbyvvwBDLx2WcEVqUjbVzbrBzPBmgNaKmdJ/jceXptpOWaAAWUo6sZJmdWBH9fLjws3zaYHWipnUcny8eYzSZ3nAAJGBb869m4d1XNLKwv///7PA66Ct3oeLvZyhy6Gv5ACAb17FtZOdjnTBtbLq4N9sh99XdNVdcsNWZbVVcNMAjnhasZNom4lw4NzXrqC1vMDfydPzwMflr63MtrvbAEk5Kq6RZ7eqkvHy7EpUmWRsqXqR4HGJ3F10yHB/yABJOyyhh1+4rJT19+9XaLJdZKCHmtpeetl2jttyhtQAWEs2hWU7loFm6+fZ8fL1zsTO1c/X9/n9+fr8+Pf5AGNSPK6PYX5oUbeonOnm6O3s7c3Ey/Hw8P////7+/vS5xJbeZ85sAAAAAElFTkSuQmCC",
+      "imageId": "2c90ccd4-3b48-401e-e677-0c5f774bfb00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "tips-for-staying-productive-throughout-the-day",
+      "slug": "10-tips-for-managing-your-small-business-finances",
       "locale": "en",
-      "title": "Tips for Staying Productive Throughout the Day",
+      "title": "10 Tips for Managing Your Small Business Finances",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Productivity is a struggle for many of us. The most productive people have figured out how to maximize their time, tackle tasks efficiently, and get more done in less time. Those who struggle with productivity may find it hard to concentrate, feel anxious about an overflowing inbox or unread messages on social media, or struggle with zoning in on work tasks and switching off distractions.\nRecovering from an exhausting day may be challenging but staying productive throughout the day is not impossible! Even with a busy schedule and limited time, anyone can become more focused and efficient in their day-to-day activities. The key is learning how to stay productive through small changes and habits that can make a big difference over time.\nThere are many things you can do as an individual to help you stay productive throughout the day no matter what your circumstances are. Keep reading for some great tips!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Today\\u2019s small business owner faces an entirely different set of challenges and opportunities than their predecessors did. The Internet, social media, and mobile devices have all changed the way that businesses operate and compete. Fortunately, these same technological advances have also made it easier for businesses to operate on a smaller scale with less capital. Over the last few decades, we\\u2019ve seen thousands of startups launch new products or services with very little upfront costs by incorporating as a small business instead of a larger corporation. There are many great benefits to operating your business as a Small Business Corporation (S Corp) rather than as a regular corporation (C Corp). When you operate your business as an S Corp, you can take advantage of what\\u2019s known as \\u201Cpass-through taxation.\\u201D A pass-through entity is one where shareholders report their shares on their personal tax returns rather than the company\\u2019s tax return. Here are ten helpful tips to managing your small business finances:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "business",
-      "imageSrc": "/articles/the-importance-of-sleep-for-maintaining-productivity.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AEgnIGBANlIrIVMsI0gqIjIaF0ImH18zJ18zJ1wzJQB1V0juy6e5lHpuTkKNUzTmq4REKCJMKyZCHhtHKiYA1ptv46Bw9LOHzodfsWI92Zh1hVtJv5Z9+dy8+eLDANGul8ichOOlgYxTOJRJKtGCZOqrit+geu+7lMGcggDSq5HSrZfPrpsxEg9AGxObZk81GBSTX0rbv7LBoZMA2K6MyJ1+uYNhUSERmWpXWCscYzQgeVBD8eLX4c/DAPbWuPrmy/3r0fXcwN3Bq8KjjtS0mvPavvrlzfvkyQD648T269GzjnSlfGB+XEpTOzVZQTmad2OtjHju0bIAvK+d7Ni9X0Q2NSEeNB8fNiMjOCYlPiwpW0M737ucAOHEpdW3nLyijb+kksOrmMivnMu0o8+5qNjBsN/LuXHVngjTE0EqAAAAAElFTkSuQmCC",
-      "createdAt": "Thu May 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "the-importance-of-sleep-for-maintaining-productivity",
-      "locale": "en",
-      "title": "The Importance of Sleep for Maintaining Productivity",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that sleep is just as important as eating and drinking water? Without it, we can\\u2019t function properly. Studies show that people who get less than six hours of sleep every night have a harder time focusing, are less alert, and are more prone to making mistakes. Did you know that there are even studies that show getting less than five hours of sleep for two weeks straight can lead to hallucinations and other warning signs of declining mental health?\nThat might be a little bit scary for some people, but the truth is: You need to make sure you\\u2019re getting enough rest if you want to remain productive throughout your workday. Unfortunately many people underestimate the importance of sleeping well, but this also means they\\u2019re not aware of all the ways that lack of sleep can impact them both physically and mentally.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/top-10-reasons-why-startups-fail.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHFPNnJQN3VSN3pVO35XO39YPoRdQ4xjSJJpTpRrUgCVgW2QemmahHKsmIiumoq9q5rMvK3Pwq/Qyqzm3NQA4OHX6erl7O3o8PHqqKikv8C7xMTA6Oni8vfn/v78ANDPxurr5uzt6PDx6qOkn8TEwLu8t9PUz/39+/7+/ADLyb6goJ2rrKejpJ+2trKrrKe/wLuioqC0tbLOzs4AysS7sLGsubq1t7iz2dnVs7Sv19jTsrOwzc3L4uLiAMbBtamqpYyMinh4dnN0cXl5d6Ghn7O0sYyMipSUlAC5sKHl6eDr7Oft8Ovo6eLq6+b3+PP5+vX9/fv+/vwAlX9rp7B2pZl9ppN+o453o4lyoYVsn4FnoYBnoX9kAGNCK2JELGpKMHZSNX1WOIFbPYZhRI5qS5BsTZJwVHtnxQYHmgN6AAAAAElFTkSuQmCC",
-      "createdAt": "Fri Dec 10 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "top-10-reasons-why-startups-fail",
-      "locale": "en",
-      "title": "Top 10 Reasons Why Startups Fail",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The failure rate for startups is high. Even the most experienced founders will often launch a new business and see it fail, sometimes several times over. Fortunately, there are ways to mitigate the risks involved with launching a startup by testing your idea as early as possible with inexpensive methods.\nStartup failure is an unfortunate but inevitable part of the startup process. Even if you have great ideas and the best team possible, not every company is going to succeed. In fact, according to research from Harvard Business School, about two-thirds of all startups fail within the first five years. However, that doesn\\u2019t mean that launching a startup is a risky venture that you should avoid at all costs.\nIf you\\u2019re thinking about starting your own business and feel like your idea could be a profitable business venture in the long-term, read on to discover some common reasons why startups fail so that you can take measures to avoid those pitfalls in your business plan before it\\u2019s too late.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/how-to-start-a-business-on-a-shoestring-budget.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMOqkMWnnbeknamil6mimbCpnr+1q8GyoL6un7+okgC/o4uTZG2Lfnfs6Nru59rg2czDvLGzqp2so5avkXcArIGCSCwuw8C2raqk1dLK8Ovf9vHj9vDg6+PNgnFpAGkuO3NuZ8/MxM7Kxb++uJiWkpmXk9TPw7CnmEg4OQBUSEDPysHX1My8ubOOjYm4t7G/u7XZ1MhnWVdcS0MAlo6D9fDk0s/Hk5KOvLmzwb24sq6pwbmwRTU4cmRYAOLczvXu4fbv4vPr4MPAtru4sMbBt4Z7dlBAP6ykmwDw5dT16tn069z27d317uHy3dDl0sRXRkphWVVzbWkAMyglZVtTnJKIzsW28ejX6L6zmnpwVEZLPTUvdGpiAHRjTV5RQUs/NTYtLEA1MmdLRVI9PT8zM2FVSX9wXiWzt7MXXdD5AAAAAElFTkSuQmCC",
-      "createdAt": "Sun Jun 26 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "business",
-      "slug": "how-to-start-a-business-on-a-shoestring-budget",
-      "locale": "en",
-      "title": "How to Start a Business on a Shoestring Budget",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Everyone has to start somewhere. Whether you want to launch a small side business or branch into new territory as an established company, you\\u2019ll need a financial plan to get started. Small business budgets are essential for accounting, planning and monitoring of spending\\u2014and they can help you get your company off the ground in no time. A budget enables you to set a monetary limit on the scope of your business venture. It also helps you stay within that limit, avoiding unnecessary expenses that may lead to bankruptcy. Your budget can be as simple or detailed as you like, but the basic framework is always the same. Here are some tips on how you can create an effective small business budget on a shoestring budget:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "business",
-      "imageSrc": "/articles/10-must-know-tips-for-first-time-entrepreneurs.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABNklEQVQYlV3MQUvCUADA8ffRrK8gQo0OXTp1mUigE8k0s4agHoToIIUUZCmkhIZhS5OemZtNm3Nzmz732pYWk/oAZcfgd/vDHzicxPrGipf8b8m16nASwOEkiE03GQxvhaLunYgntEdFY2QwvOxaW+SAj9r2eKgITe0n/8T9dMJ7kPTRCT+dAOan3apX9JkN67f4Yy70eXU0Muzvx1pZwRbIliqHqXhXHV8Wi1XIZrLps2K5cPdwX8hLEwPwQ9R+6YnI5PpyT9NbwoCVNX6IXllWQhaQVA0y16I2hkwJGxZSujoemfMvyJQUPF3Md1NHVciSsVRDUIXOTboGy41m4OS4q0yAhE1OUuQ367kvDfX3noaEsa7gaVuURWSCtjjIXZ3rM7uQO5U5rvnU6PC8ZkzzF5nf+Q8vENELDOAefwAAAABJRU5ErkJggg==",
-      "createdAt": "Fri May 27 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AD9SXWZoXYJ5X352X311Xn12Xn93X3x2X0lZXUBUXQAzSVJFXGhabXpZa3dXanZWanVdb3tXanY5TFU1SFIAfX6ChXx9hI2SgZGZhJGXhJOYhZOZgI6Ue4yTe4qRAOXi4NTHvu/2+tDOyOv099fY1t3g3+rx89fVz+bv8wCyur6VlZHS3eCtr63AzNCjqJ6uuLe2wse9qaHf5+kA0trezM/R2eTox9LX0dzgx9PUy9ndzNjd0MrL3OTnAMvOzMK/uNzm6snCuuTn6d/azt/g2OLq7MrKxN7p7QCnsrZ/j5K/ys13j5XH1NnSzrimxMi1yc+CnpvQ2dwA2uTn0Nrc4evuyNPX3Ofr0tzh097h2OPnz9jZ2ePnAMzV1LC2r+Hs8bqyqt3V1MfKxc7Rzt3k57m3st7o7Lgi0J7Hm9qpAAAAAElFTkSuQmCC",
+      "imageId": "4910767a-4c8b-4f5f-8c3c-cf733221d700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
       "slug": "10-must-know-tips-for-first-time-entrepreneurs",
       "locale": "en",
@@ -110,61 +65,106 @@
     },
     {
       "category": "business",
-      "imageSrc": "/articles/the-benefits-and-risks-of-starting-a-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlRXOzUoCQQAA4Hma7j2Ch06l5CkyKCooykN0SCHtZy8GdYsumq5eOjki6OqySyxOrDi4rG4zO2Mrug7D3gXBewjfA3wgtr11dbB7c3l+mIxfnJ083999VSu2ZYwdLKUEj/lcvV6fz+dSSs75ZDIhhHiexxgLggBwzqWUGGMIYavVajablFLHcUzTJISA0WiEEPI8LwiCsTOMyK8YYiHEcrkUQgDDMHRdt21b9PuLt9dFoSBV1XXdMAxXqxUoFovr9ZpSGg4wf8jx9DX9eOeca5rW7XZBKpUqlUoQwj+fDtrtIephjBljtm1Pp1NgmmYmk5nNZo1GQ1XVcrlcq9UghJZlRVG0qSmK8mN0EEKu6xJCKKWMMd/3e98GSMb39I5WrXy+KPmn7G02fZo+ShwnYhv7O//9/tIM1L3D/gAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Sep 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AEZGRyEgIYSEhkVERkVERHJydSUkKnt7i+nVgfzbGQA+PT0+Pj1WVlZ+fogeHShcWU6QhC3d0Wj88Kf863UAODk9LS45LiwygXpUrJwm38kH+eIA/OgE+fCs/OdgAFJNP390K8KvFOHLBNK+ALurBP7sBv/qAPrvbvrjVADSvQ/QvAGNgAS6qQZfVgpmXAnKtwaNfwDKuyf/73UA//UA3MwDiXwIlogIk4UIgHQJbWMKj4IL3MkA//RXANO+BKeXBpSGCHVqCn90DLGgCPDcAf/wAu/WANXBQACaiSaNfwGjlQrVwgL/6QD54ADSvROtnUafloO9ucEA186x8NsA/OgA4cgOt6Y/nZd6qqezwsPV4+PvnZqaAI2NkKqVK6iWUqCcnqmErse1zLy7u9HQ187LzlpWWu2fmdOwDJmmAAAAAElFTkSuQmCC",
+      "imageId": "f9ad1ad5-2077-47d0-aaaa-7b1840b90f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "the-benefits-and-risks-of-starting-a-business",
+      "slug": "how-to-create-a-business-plan-that-works-for-you",
       "locale": "en",
-      "title": "The Benefits and Risks of Starting a Business",
+      "title": "How to Create a Business Plan That Works for You",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Starting a business is no easy task. It takes time, money, effort and courage to strike out on your own and start your own company. However, the rewards can be great if you are successful. Starting your own business will give you the chance to be in control of your career and earn more money than if you worked for someone else.\nStart Your Own Business (SYOB) is not an easy undertaking. However, it offers many benefits that cannot be obtained from any other source of employment. There are several considerations before you take this step; it requires careful planning and preparation.\nYou will have to set aside some time to think about what type of business you want to start and why you want to do it. This article will help you answer those questions and determine if starting a business is right for you at this point in your life.\nRead on to learn more about the benefits and risks of starting a business so you can make the right choice for your personal situation`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"When you are starting a small business, you probably don\\u2019t think of creating a business plan right away. Perhaps you are not sure if your business idea is strong enough to stand on its own, or maybe you just don't have the time and energy right now to put together that kind of document. Well...sooner or later you must create a business plan, because it will give you focus and direction in your company. It will also help you analyze your ideas and market potential. A well-written business plan will help investors see the value of your company so they are more willing to fund it. A good plan can help secure financing from banks, angel investors or venture capital firms. Don\\u2019t worry! You don\\u2019t need to be an expert on all these things to produce a good document for yourself and others who might invest in your company. In this article we will discuss all the important points that would help you create an effective business plan for your small business.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "business",
-      "imageSrc": "/articles/how-to-avoid-the-top-5-pitfalls-of-new-businesses.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALnCTbS9QbXARrnCRLW/QbvCQrvBRrm/R73BR8nNXADj6bq0uj21vkO5v0m+xFXCyVvFylnJzmvFyV2/xF4AwMJ96OnU/Pz5/f39/f39/f39/f39/f391NS0rrJBAEM/Hqemp5mZmZ2dnaGhoaysrI+Pj7Ozs399fE9MJAAwKhiQkJCCgoKZmZmampqSkpKNjY2WlpZta2lLSCIAlZc3k5SLfn5+paWlr6+vc3Nzj4+Pjo6On6GHqK08ALS4PJydi4WFhV9fX15eXo+Pj0lJSXBwcKqsgL3DSAC7v0Xq7dzp6enl5eXu7u719fXo6Ojq6urb3bG6vkIAur9Z3N+l292m3+Gp3N+j2t2h1NiXztCLxslxz9OCAK2yPK+1Oq6yOLC4Pa+1PK+0Pq+0Pq+0QLm9Xt7hsypcvWqeDgiRAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Sep 17 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABO0lEQVQYlT3Qv0sCYRjA8fdPaGpxarAoNCwvtbtLiGh0aWtqaQ+CloYaGoKCqKEggooGU0MHqdaGDOkXNIZQQ6KZd57J3b3v+7x3z72BQ/D9Az58SYBBgPI/RC9Aw/drnn8vRJag3/G8ihBFIQ4A1hgsMchQrros7tIY8UTVocPgjTGIUB6lPEZBATHtoeZjmiB+SaG3f+ZsmmZcp1ynoHV/k82m8vEZJy23uf2+uXW63KhPBVJ7eomWr0fyV+Gb29GH6jgJ5w9Dd6WFk42350mUas9OGWai20twoXKhksHc0UBhTzk/zl7OSplyqcZAo6C7bIYynYRKF5nC6vp+pFJVUGockhwmKET70gh5rBsBnEk5JFDpOQnTmresRaOz0jZ3DDNHpJQMao3v3Va73LFebbvuOBS4xP6lP08t3kDHwoolAAAAAElFTkSuQmCC",
+      "imageId": "b8980c8e-d3d9-44da-c2e1-a3b2b2e48600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "how-to-avoid-the-top-5-pitfalls-of-new-businesses",
+      "slug": "the-power-of-time-blocking-for-improved-productivity",
       "locale": "en",
-      "title": "How to Avoid the Top 5 Pitfalls of New Businesses",
+      "title": "The Power of Time Blocking for Improved Productivity",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When starting a new business, there are many pitfalls to avoid. Picking the right location, ensuring you have the right capital and marketing your services correctly are just a few of the things you need to consider before launching a business. There is a lot of pressure on new businesses to succeed. Many fail before they even get off the ground. But with careful planning and analysis of potential pitfalls, you can increase your chances of success tenfold.\nThere are many reasons why new businesses fail. The failure rate for new companies is very high because many entrepreneurs make one or more critical mistakes when setting up their businesses, such as investing too little capital or not testing their market properly beforehand.\nHere we look at the top 5 pitfalls to avoid if you want to launch a successful business:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Time blocking is a productivity technique that\\u2019s been around for quite some time. Famous people like Marie Antoinette, Thomas Jefferson, and even Oprah have been utilizing this technique to achieve peak performance. However, most of us tend to overlook it as something boring or ineffective. But, in reality, time blocking is a surefire way to boost your productivity and increase your output.\nTime blocking isn\\u2019t just about scheduling your day with blocks of activities. It\\u2019s all about keeping track of the amount of time you spend on specific tasks throughout the day. To do so, you should list down all the tasks you need to complete during that specific day and allocate a dedicated time slot for each activity you want to finish by the end of that day.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "business",
-      "imageSrc": "/articles/how-to-start-an-online-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL3AypKswVuRoXeBXsiQKMeMNaKRa1pOQmBTQV5FMgBTiX6SeUu8eEG5k1eai3eShnqBblmJemqil5K1srcAqnRkiX2BiH54joN3sKacw8DB2t3n4eTu297q0NLfAHdqXLu4udbX3+Hk8Nrd6c3Q3b7By6uuuauuucDDzgB7aVa7vMO1uMKprLakpK++tcHQnqvlmqblusbi5fEAmpOTpJ+hztHe4NXi6ouX6Zej6Zej25uoxLK/4uXxAMrK2n54c+Hk8OHk8Na7x9LO2K+yvKKlr7a5w+Hg4wDS1OV6cGrg4u/g4+3g4u/T1dvTzrnUyZvTyJjd1KkAw7/LhHJhycrT3+Hu39q+2c6dzcWtwbetvqOhk39/AH1KRIJhTaegnrq2taqZj5WDhHlydoJ+hnV+fXqGgvKOyCDV8PoUAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 22 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJxpPLN5SbF3SZJVLGMoBlA5JYFQLIdLIK2RebqbhgCbXjSUVjB6PRx1MQhWKw+MdWCmeFKdaDu/8e6z4uAAgkUdb0EjXB0Aci4IcD8arolrpndOmnBFqfPwidvZAGJiS4BqPXJBGE4uDIZ1Te7InoJzSnxwRa6liqOnkgBLRjZ4VzScWyw+LQxbWDKVgFVEQhxTTSWHSBmIQhMARzAeRktCdW1TPT8qUEIpXGJQeWpRbmI8eUAUWyoNADQpHyBCRD9oZldwZ2ZLPCAhH2dVQ3N6Y4+6qmGMigBPWEtVfXdNd3U3V1cwNTFTXFCalHKXhGqFSU6d09EAibGgaqaiYI+CSV9QbIh/nr+ugpyOR1dUPhEbfbmzADVCNypEPSU6MExcTE9uZUplX0tpZlCPlmGusX7PvCNbdbDWS1HaAAAAAElFTkSuQmCC",
+      "imageId": "0978a5b8-aa6b-41a6-e945-377d731d7900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "how-to-start-an-online-business",
+      "slug": "how-to-run-a-successful-home-based-business",
       "locale": "en",
-      "title": "How to Start an Online Business",
+      "title": "How to Run a Successful Home-Based Business",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"An online business is a business that operates primarily on the internet. It\\u2019s also known as an e-commerce business, which means it sells goods or services online. An online business can be started from home or from an office space, depending on your preference and circumstances. Starting your own e-business doesn\\u2019t require significant capital but it does require lots of work and planning. However, the rewards are worth it \\u2013 entrepreneurs report higher levels of job satisfaction than employees in traditional businesses and the potential profits are far greater than with other types of business ventures. Here are some tips that will help you start your own e-business venture. This article will explain what an online business is, why start one now, what you need to get started, and how to begin your new venture.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Starting a home-based business is a great way for you to earn money from something that you enjoy. However, it is not as simple as setting up a website or an Etsy shop and waiting for the cash to roll in. You will need to put in plenty of time and effort before your business starts to bring in regular income.\nWorking from home gives you a lot of flexibility and can save you money on commuting, hotels and office space. However, there are also some downsides. Working from home means you are never really \"off\" as there will always be someone at home to answer calls, visitors knocking on the door or even delivery services coming to your address. It will also involve more responsibility than working for someone else as everything goes back to you. That\\u2019s why we have prepared this guide on how to run a successful home-based business so that you know what to expect when starting one of your own.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "business",
-      "imageSrc": "/articles/how-to-market-your-small-business-on-a-shoestring-budget.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJ9qTphqUJ9xVZxhR6VpUKN7Zq6KeJlfRaFTOaJjRACdhW/L3NiupqLHtK/Lvrm5qafl5uOJaleeVTmoaUgAl4Vp4ODe3NrZ4N7c3d7b4eHf4uLgiXVjpG5OsXpTAHxgR6qqqL6+vrGxsbe3t6ioqLe3t2lbUJNYPJ1eQQCDWUOvtrO4uLaxsbG2tra4uLioqKhpYlmfY0GbWz8Aql48ydPPycfFzc3L4eHh4uLi4+PjkY6GpWtFnlxAAKZeO8nAs5h+dYt4eOHf3uPj4+Pj45aZk6JyRap2SgCbb0i/sJ61cVSPXUzCpaHl4uPo6OilqKSnbUiZUDUAiWhDraSX2olZ9pBVh2JYbmNiWE9NQjgwnmA+mU4wAJZvQ29SNbRKDP1lAIcsC1grHGk0H2s6JJxdPJtOL8xsqMV6pyvMAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jun 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlQXBW0+CYAAA0O8fty7m3ErFNFc5TdNq5TAlBCXAC4NchENFUGCAJivzodZy9dIyc1q67BywtrpyGAnD8DmOowxTYtkyxzIsVxbF27ooAB+0HfB7/ZA76IcCPo9rcyMRiyTPTqKREOTZAvPZ6Gf6JTVEWRJbzbqqSG2l0bX05d9iMZ+Cvm3FY2EMzZAETuBoHrs8TRwhaRjJwF1TB8Pnx9B+0OlYD+0Fd33eWPjgOB7d8bpdTkdbaQBDk2vVm75tNWtCs17tdXRDU4pUXmtJhioDmsQx9CKLpFqSSBFYFkkhqWQ2DTM0wZYo8DSwl/PJnalec0zH1CxD5flKsyFOxh+/szFQ2vLb+5DnK2WmWCiQuTwuVHlVle8f7NH3J+h11NeXganLbaUm1YUClaNJnGNp6grD0PQ/4+7Uboq2qO4AAAAASUVORK5CYII=",
+      "imageId": "2455e982-206b-4d7e-99c6-d2f127353100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "business",
-      "slug": "how-to-market-your-small-business-on-a-shoestring-budget",
+      "slug": "how-to-overcome-procrastination-and-boost-productivity",
       "locale": "en",
-      "title": "How to Market Your Small Business on a Shoestring Budget",
+      "title": "How to Overcome Procrastination and Boost Productivity",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There are a lot of things you need to do in order to launch your small business. You need to come up with a name, make business cards, get an accountant and bookkeeper, find suppliers for your inventory, and so on. All of these things are going to cost you money. However, that doesn\\u2019t mean you can\\u2019t launch the business...\nThe truth is that launching any kind of business \\u2013 even one on a shoestring budget \\u2013 requires some upfront investment. But don\\u2019t let that stop you from moving forward with your plans! There are plenty of ways to cut costs when starting a new business and still have everything you need to be successful. The trick is working smart rather than working hard. Here are some tips to help get your small business off the ground quickly and effectively while keeping costs as low as possible...`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`As soon as you start working, you feel like procrastinating. The idea of your project seems so fascinating that you can\\u2019t wait to get back to it. Unfortunately, the time when you least want to work is exactly when you need to work.\nWorking feels like a burden and every task seems like an uphill struggle. You hate yourself for putting off something that is so beneficial for your future and your career. You\\u2019re also terrified about what will happen if you don\\u2019t finish this assignment by tomorrow. You don\\u2019t want to fail the course, lose your scholarship and end up homeless somewhere in a strange city where none of your friends live. However, all of this seems much more appealing than getting back to work on the project again; it\\u2019s even more appealing than thinking about how difficult life will be without the degree or scholarship at home.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "business",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOUlEQVQYlQXBPU/CQAAA0PuN7k5+jA6OOOGiCwwEIiYQUMAGo0SNSYMBJBI6AArEKwRogQLaXinQ3h20J1B8D/DPsYd0NM1dp24D+UefNRHwTCRqaSjxx4d7YNRIqDChtzgkcvN2yp7wjiFQrcYanlw2BFw2WFsD153t3PVm5+KZafQVZ7fDVR/th0CP/6gH7xThCyafmuFk/fKqsH/azRRW/cyieQ7G2Xfoj8hRrhe/V15zsCYOhZqU/7RRaV45A0E4fZOnNR2HZZJWiB/O451ZoEWMcYNUTkB5PA800EVVTUEt9q3dQOQRfooj07GQVToALtWLE9NXRxFx6q1oL5IRFXWIFlvGcOkIyFKLMkc1TbIkuoWZTbaM/NnEcTak6gWddn29ZiuKKSX2khCKmU276Lcsy44Y/Qc1tfVzi9nOMAAAAABJRU5ErkJggg==",
+      "imageId": "c40c131b-535a-4f57-0a47-be9ec5394300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "business",
+      "slug": "the-benefits-of-keeping-a-productivity-journal",
+      "locale": "en",
+      "title": "The Benefits of Keeping a Productivity Journal",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you the type of person who can get things done without keeping track of your time, or someone who is constantly behind on tasks and never gets anything finished? If you fall into the second category, you\\u2019re not alone. Many people struggle with productivity in their everyday lives, but it doesn\\u2019t have to be that way. Keeping a productivity journal can help anyone become more productive by identifying areas for improvement and establishing new habits. Whether you struggle with staying organized or frequently lose track of time, keeping a journal can help. The right journal will also help you stay accountable to yourself and identify your weak spots for future reference. Read on to learn about the benefits of keeping a productivity journal and how keeping one can improve your life.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "business",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGWWRO3179ru7HXZznXg1M748v///e739J3k3KHt5QA3XyHY6tjl5+q15eHC4eDh5Obi5+np6+3F29rR3+AAeZJ25enp2d/gtbCy2dbX0NPU09TW2tvcxMLEzs3OAF3CtLHj3N/f37m7u6+wsKampa+wr6SkpKqrqqOkowBWz72r4dnc2dqoqanMzMzCw8LGyMe5urq4ubi9vb0Absy6yNrY2tzdwcTDsLKxqauqrK2toKGgmpqZsLCwAL/GwcrV097h4v///9DU06+zsq+xsZKVlaCiouzv7wCFfX/X4d7b4uLa1tTdzc/3/f7x+/vr8vL0+fnMlZ0AEAsNnJiY4ujo4unpyLu8xKCg49zd8/39vcbIdHF5AAYHCTMqLNjY2eny8un4+MPBuqeGfuDh4ouVmrG4xHYT4VBgER3wAAAAAElFTkSuQmCC",
+      "imageId": "d7eaf02b-020c-446f-86ab-cd9aef199700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "business",
+      "slug": "10-ways-to-increase-your-productivity",
+      "locale": "en",
+      "title": "10 Ways to Increase Your Productivity",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Productivity is a measure of how much you achieve in a given time period. If you can consistently and measurably increase your productivity, that means you are getting more work done in the same amount of time. It may sound like an unimportant concept to focus on, but the benefits of having high productivity are clear: You produce more results and have more free time to do other things you enjoy.\nIf you\\u2019re constantly busy but don\\u2019t feel like you\\u2019re productive, it might be because your workload is too heavy or because your workflow isn\\u2019t optimized for peak performance. Luckily, there are plenty of ways to improve your productivity that are fairly easy to implement. Try these 10 tips to increase your productivity at work, home and everywhere in between!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "business",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADwcGGVGPUwoIUYhGlIyJjkfGj8jHVwxJFYsIVMrIAB6WEjkvpzAlXpbPDSASS7kpHw1GxlEJCFSLShNLCcA4KV25aNy/8SV35ltsmI66qaAil9PupR8/+DA9d7AAM6rlsqfhuCkgY1TOZJKLNuLaeWmheajevbAmcSiiADRq5LUsZzLpZIiCQhDHxiZYUtFJR6VYUzdwLC/oJEA1KmF0KWHu4VkWSYVkWBPVikdQhgLhVxN8uLX5NLHAPfZu/zny/voze3QtNy/qMSlj9CvlvDWvP7p0PnjyQD/79D06M+2lHqthWqIaVZhTERuVkyefGiwkXvszq8Awrmm9+LDakc4PicjPicjNCAePCckRTAtZUpB5MCgANe6ndy+o66UgqqShK+ZirWgkbmklbunmcWwoeDKtolAne9Pq9wmAAAAAElFTkSuQmCC",
+      "imageId": "4ab4d1f8-a386-4ae4-01bf-3c2efabd7c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "business",
+      "slug": "the-importance-of-sleep-for-maintaining-productivity",
+      "locale": "en",
+      "title": "The Importance of Sleep for Maintaining Productivity",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that sleep is just as important as eating and drinking water? Without it, we can\\u2019t function properly. Studies show that people who get less than six hours of sleep every night have a harder time focusing, are less alert, and are more prone to making mistakes. Did you know that there are even studies that show getting less than five hours of sleep for two weeks straight can lead to hallucinations and other warning signs of declining mental health?\nThat might be a little bit scary for some people, but the truth is: You need to make sure you\\u2019re getting enough rest if you want to remain productive throughout your workday. Unfortunately many people underestimate the importance of sleeping well, but this also means they\\u2019re not aware of all the ways that lack of sleep can impact them both physically and mentally.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

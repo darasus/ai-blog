@@ -1,9 +1,9 @@
 {
   "category": "crypto",
-  "imageSrc": "/articles/bitcoin-vs-ethereum-which-is-the-better-investment.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJ0lEQVQYlSXPPauCUADG8fMtnF1aIpoLBHVov5UIDW5GJSLiUA1FgyJCqYTj5VLa4BII9yLoUHE4xhl8mfLzRN7f+h8eHjCZTGaz2Xq93u/3SZKEYfjTOJ/Pl8sFSJK02Wwcx/F9vyzLv0Ycx78NsN1uXdf1fT+KotfrlSTJ7XZ7PB4QQoQQsG37u3E6neq6TtM0CIIoijDGeZ4Dz/MMw2i32/1+f7FYCILQ7XY7nY6u60VRgOPxKMtyr9cbj8c0TRMEQVHUaDRiWbaqKmCapmVZDMNwHOc4znw+b7VaJEkeDodP1jRt+DUcDAY8zyOEVFVlWVYURYzxJ0+n0//ruq5DCFer1XK5DMMQY/zZlmVZUZTdbud5Xp7nQRBcr9f7/Z5l2fP5fANj2aMgeWqmOgAAAABJRU5ErkJggg==",
-  "createdAt": "2021-12-18T21:42:35.857Z",
-  "updatedAt": "2022-10-11T17:16:46.847Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AFlZWGhoZ3p6eYiIh7q6uK+vrpubmaCgnqGhoKWlowBqamp9fXuPj46fn57Ly8q7u7qxsa+0tLK0tLK0tLIAfn5+kJCPp6entra10tLRv7+9x8fFysrIwsLAxMTCAI6OjqCgoJmYmZmZmNjY2MLCwZSUkqCgn87OzczMygCYmJeFhoUzMzMtLS13d3ZhYWEvLy82NjZ9fX3X2NYAl5eXbW1tLy8vTk5OQEBADAwMTU1MSUlJNjY129zbAIuMi4iIh0A/QFBQUJ6enmtrayEhICEhIYyMjNjY1wBzc3JUVFNISEdeXl7GxsV5enk0NDRnZmbQ0M/Pz84AZWVkVlZWZGRjjY2Mvb6+cXFwdnd1qqqpycnJzc3NAG5ubXBwb35+fp2dnMnKyaKiobCwr8HBwMXFxcbHxpWSo4oQmvpQAAAAAElFTkSuQmCC",
+  "imageId": "f15084be-d1fd-4f75-57ed-7b827b8b7000",
+  "createdAt": "2022-11-05T21:55:09.064Z",
+  "updatedAt": "2022-11-05T21:55:09.308Z",
   "slug": "bitcoin-vs-ethereum-cual-es-la-mejor-inversion",
   "locale": "es",
   "categoryLocal": "cripto",
@@ -20,151 +20,31 @@
   "relatedArticles": [
     {
       "category": "crypto",
-      "imageSrc": "/articles/monero-the-untraceable-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlWNgZ2fn5OTk4eEREBAQERERExMTFRUVFBTk4+Pj4uJi4OXlFRAQkJCQUFFRMTc3d3V1tbK20NTUlJWVFRYWZhAXF5eTk9PV1U2Ki1hd53u41WVbZ3RqYpyVtYWysjKDkpKStra2v7//5kbP6iD1+xPMWiLU93SFhIaGmpubM2hqatra2mZlZZ2q0/e2Ugt20EzyM7g/0TE/P9/f359BTU3N3Nw8Pj5+UbFze7z+sjz9hhj9AzOiU1NTPTw8GOTl5bW1tR0dHYuyEnd1BBxosjvUF5oUFxEaGmxmZsYgKioqLS2tpqZmbWPp5+cTFRUVFOTv5uZiaGgoLy/PwMPDw8/PLyoqqqOjY2ZmZgkC5jo6OoqKigICAgzsYMDFxaWmpqajo6OioqKqqqqhoSEmJsbBwQEABiFFqEMfp48AAAAASUVORK5CYII=",
-      "createdAt": "Thu Jun 16 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "monero-la-criptomoneda-imposible-de-rastrear",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLElEQVQYlQXBuU7DMAAAUP8Qv8IvMDCwdGdGAtGBb4ABihAD4pAQAiFVQYQeNEdzOcQ5bNclpIfruEkoRYT3AETUgdT1iR9iiBIvwF7IXMRsSAw3Bk5AHZ+4PoGIwAh7EXajkRsy64MO3Bh4ETMh1r3IhIkJExtRiFMPp3aSmiEDeDxNp4uZKHlezUUBEaGE0hGNCPVjBqZczueLXq+vqh1dN6Af1/VvWXCekYzZAI+zyYz3B1qn2zetoakT7ZELsa7ruvxZg/Prh9OzFvSDi1ZrOLQVRb0/4rubTweN9lv7CyhdrbGz/fSsaIZ1d3vT3D+8vHo5OVabW929jQCkE/5uOEE8ypdVLpcoJK+qlfFc/pU4kkDIKi9WRfktZSmXlSxWslxlMzH+FCwT/zmy/MVyNwgkAAAAAElFTkSuQmCC",
+      "imageId": "8e417ad1-e08c-438b-a2d1-400739b87d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "ethereum-la-nueva-plataforma-de-contratos-inteligentes",
       "locale": "es",
       "categoryLocal": "cripto",
-      "title": "Monero: La Criptomoneda Imposible De Rastrear",
+      "title": "Ethereum: La Nueva Plataforma De Contratos Inteligentes",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Monero es una criptomoneda centrada en la privacidad que se lanz\\xF3 en 2014. Al igual que Bitcoin, es una moneda digital descentralizada con usuarios y transacciones an\\xF3nimos. Pero ah\\xED es donde terminan las similitudes.\nMonero tiene una de las comunidades m\\xE1s grandes de cualquier proyecto de criptomonedas, con m\\xE1s de 16\\xA0000 miembros activos en su foro y m\\xE1s de 2000 suscriptores en su p\\xE1gina principal de Reddit. Estos usuarios no son solo observadores pasivos; impulsan el desarrollo futuro de Monero al expresar sus opiniones y dar su opini\\xF3n sobre nuevas ideas o posibles cambios a las existentes. Este art\\xEDculo tiene en cuenta todos estos aspectos a la hora de explicar por qu\\xE9 deber\\xEDas considerar invertir en Monero.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es una red inform\\xE1tica descentralizada basada en la tecnolog\\xEDa blockchain. Es un software de c\\xF3digo abierto que opera contratos inteligentes, aplicaciones descentralizadas (DApps) y otros programas. Los contratos inteligentes son contratos digitales autoejecutables con instrucciones espec\\xEDficas que se pueden cumplir cuando se cumplen ciertas condiciones. Estos contratos operan sobre los principios de si esto, entonces aquello; si no, entonces esto. Esto hace que una vez que se hayan cumplido las condiciones preestablecidas, el contrato se ejecutar\\xE1 autom\\xE1ticamente sin m\\xE1s intervenci\\xF3n de ning\\xFAn tercero. Ethereum es compatible con la programaci\\xF3n completa de Turing y puede ejecutar c\\xF3digo en cualquier idioma debido a sus conjuntos de instrucciones y m\\xE1quinas virtuales.\nEthereum se ha convertido en una de las redes de cadenas de bloques m\\xE1s populares despu\\xE9s de Bitcoin debido a su soporte para contratos inteligentes, que constituyen una gran parte de por qu\\xE9 la tecnolog\\xEDa de cadenas de bloques es tan revolucionaria. En este art\\xEDculo, obtendr\\xE1 m\\xE1s informaci\\xF3n sobre qu\\xE9 es Ethereum y sus beneficios \\xFAnicos, as\\xED como los posibles desaf\\xEDos que enfrenta en el futuro en cuanto a adopci\\xF3n y desarrollo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/neo-the-chinese-ethereum.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA8UlEQVQYlWP4CwO/fv2ysLC4fPkyXOTv378McNa0adMEBQUdHR2xSH/+/Nm7OFc9P9XExOTgwYPo0h++f3WZP5kzKUTf0XbLuVNYDJ8xc5FNYb7Dqhm//vxBSH/9+vXPbxD/169fARVVV968gHCh0mVlZa9fvz5w4MCnT5/27N/34cOHyZMnv379ev/+/U+ePGHo7e198uRJfX39uXPn6uvrr1y5sn///hUrVuzYsePIkSMMDx8+vHTp0k0wuH379p07d65fv3779u0nT578+f0HZPft27efP39+8+bN58+fv379+sGDB48ePXrz5g3QbgDdF/YvqBomhgAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Dec 12 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "neo-el-ethereum-chino",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIl5TK+bXdLMi8/CfLifW7iYW6F6PTEkGC4lG49lJgChjEGbi0O5rW3Hv323nU20nVanllN5bkKfh0iylkUAnpBGwrFnj3pHSTscyrhso4g7mH4wwqVOvJxNsZpZAI2CSVlOLxgUE1RPOrqydqyjZrCVTJt4MYRkJ6iDQgCRjVdLQShRSjakpHNwcFFubE6cmWuJeEwUFBYlIRkAgXpVlX1HlYRQq6Z+bWFGY1U9modkuKBrKyQbPDEpAMSze1BDKU1DKr+xdcC5hbWmd8qze3xoP4BiOLGEQgBDOiYNDRQBAgs4MSJmWzlrXj00LR82LyDKsXG8o3EAnZZbubWHdHNjDg0WDg4ZDg4ZFRUfGhcWraiA9/HEAI6EPt7crPDus1dVRBQTGyMiJiEeJBcVHRoYFl5UM1tuenv4OO9bAAAAAElFTkSuQmCC",
+      "imageId": "b3b0411f-e287-408c-2c11-c58f65f4c100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "bitcoin-el-futuro-del-dinero",
       "locale": "es",
       "categoryLocal": "cripto",
-      "title": "Neo: El Ethereum Chino",
+      "title": "Bitcoin: ¿el Futuro Del Dinero?",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'EOS y TRON han ganado recientemente mucha atenci\\xF3n por parte de la comunidad de criptomonedas. Si bien ambos proyectos lo han hecho por diferentes razones, no es ning\\xFAn secreto que tanto EOS como TRON han intentado competir con Ethereum como posibles alternativas para los desarrolladores que buscan crear aplicaciones descentralizadas (dApps). Tanto EOS como TRON a menudo se denominan \"el Ethereum chino\" debido a las similitudes en su funcionalidad, as\\xED como a su enfoque en convertirse en la principal cadena de bloques para dApps. Sin embargo, existen claras diferencias entre estos dos proyectos que los diferencian entre s\\xED. Echemos un vistazo m\\xE1s de cerca a NEO y su competencia con EOS y TRON.'))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-risks-of-blockchain-technology-for-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOLl/eLl++Pm/OTo+9fX45J7isvL2VU+MTgbCAkHBQDj5vzk6Pvh5fbj5/ro7Pzn6vKbkZeSgJqgl5hTMhsA5Of94+f63uLz3+Ty4+f26e3819nkpqKsrZ+xvbnNAOXp/OHl9tbb6dzg77/E0IqNlYOGjomMlN7h6aylswDO0uEkJCZaXGCqrbg3OTtwdHlCREhqbnTY3vHg5vsA3uPxWlxgdHV8hIiNvcLJvcLLw8nSub7KwsbXxcjeALW3xJ+irJSYnZWZn3F1epCTmWBhaFNVWy8xNYaImABydnxrbHJWV1tWV1trbHJ2en+JjJSnqbavs8G+wdUAm56oys/dyM3Z3eLu4ufz4+j04+f25en84+b83+T8AOjs/Ont/ujs/OTp9+Lm9ePn9uXp+uXp/OPm/N/k/HLK0lXal6FkAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-riesgos-de-la-tecnologia-blockchain-para-las-empresas",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Los Riesgos De La Tecnología Blockchain Para Las Empresas",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, han surgido numerosas tecnolog\\xEDas nuevas para desafiar la forma en que hacemos negocios. Una de ellas es la tecnolog\\xEDa blockchain. Es una tecnolog\\xEDa innovadora que tiene el potencial de transformar todo, desde las finanzas hasta las cadenas de suministro, la atenci\\xF3n m\\xE9dica, los bienes ra\\xEDces e incluso la votaci\\xF3n. Es dif\\xEDcil no entusiasmarse con esta tecnolog\\xEDa y sus posibles aplicaciones.\nSin embargo, con cualquier nueva tecnolog\\xEDa hay riesgos as\\xED como recompensas. Los riesgos de la tecnolog\\xEDa blockchain para su negocio son numerosos, pero si los conoce, puede asegurarse de mitigar cualquier posible inconveniente y aprovechar al m\\xE1ximo los beneficios que ofrece. Echemos un vistazo a algunos consejos de precauci\\xF3n sobre la implementaci\\xF3n de blockchain en su empresa.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/eos-the-decentralized-operating-system.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAs0lEQVQYlaWMMQqEMBBFcy5vsV7HwvNY2ngAUdDWIhLUQg2YKGgQZDJjisV1d8tt9vG7x/vMne7H2H+aiBAxiiL6cAtEfOs4jj3Pk1ICwK2llE3TaK2v8yAI/IefJIm1FgDc6dq2FUKM43jV0zSFYYiI33OtdV3XSilWVVWaplmWcc77vr/TPM+LoijLknVdJ4QYhsG8cKczxszzvCzLVa/rqpTa9x0AENFaS0QAcBzHtm1Pj8QRgcObs+4AAAAASUVORK5CYII=",
-      "createdAt": "Sat May 16 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "eos-el-sistema-operativo-descentralizado",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Eos: El Sistema Operativo Descentralizado",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La nueva tecnolog\\xEDa siempre se construye sobre viejos cimientos, reaccionando a lo que vino antes y construyendo nuevas ideas sobre eso.\nEOS es un nuevo sistema operativo de cadena de bloques dise\\xF1ado con atributos desatendidos en mente: velocidad, escalabilidad y experiencia del usuario. Es la quinta generaci\\xF3n de la tecnolog\\xEDa blockchain, creada para abordar las limitaciones de las generaciones anteriores con el objetivo final de adopci\\xF3n masiva.\nEOS no es simplemente otra criptomoneda, es una cadena de bloques de tercera generaci\\xF3n que funciona como un sistema operativo descentralizado, que presenta nuevos conceptos y mec\\xE1nicas de aplicaciones de desarrollo de software como servicio (SaaS) como Salesforce o Google Docs. En este art\\xEDculo, exploramos exactamente lo que eso significa para usted como titular de un token EOS y posible inversionista.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/stellar-the-banking-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AItzaYdrXo9vX7uYgcyafcGKbbaAZa53XqRvWI1gTQDQrZbVsJjw6OL29vbx8e/fy7uwgmmLZlBiQzRpRTgAzaGH49HF5ujq4OTlwsnL7u7stKSa1LyNdFE2mmNNAMWZgd7Px83T1rzFyay1tq20tubf08CzkVtGLXZNPwBuVUmlinzz8e3x7enu6ufq6ePTyrr66raUaTxLMSoAx5d8wpFytYx6ybq2zsXBrJmPhmpU7NOZjWI4Py4mAMuXd8mTc8GLa49jS2FDNm1UQ49nRMuzgnpVMqmPXwCZb1lqTkNtUUadc1zTlmvdsXuDVS61lmdpSSvmyYMAl3NfxJB0wIhpwopp0ZNonHlVIhYWZVA4STMifGpMAMOPcLiFa72JbcKHZ8KGY2I+MUEpJCUZGy8fIDgkIvN3picjJY/UAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 14 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "stellar-la-criptomoneda-bancaria",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Stellar: La Criptomoneda Bancaria",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con el cierre del primer trimestre de 2018, ahora es un buen momento para hacer un balance de qu\\xE9 monedas est\\xE1n preparadas para el crecimiento en el pr\\xF3ximo a\\xF1o. En esta publicaci\\xF3n, echaremos un vistazo a Stellar, una criptograf\\xEDa oculta que podr\\xEDa estallar en el segundo trimestre y m\\xE1s all\\xE1.\nSabemos que todav\\xEDa es pronto para las criptomonedas, pero creemos que tambi\\xE9n hay una idea genial encerrada en estos tokens digitales. Gran parte de lo que hace que una moneda sea excelente no proviene tanto de su tecnolog\\xEDa o uso como de su potencial en el mundo real.\nAl evaluar una criptomoneda para una inversi\\xF3n a largo plazo, nos preguntamos: \\xBFC\\xF3mo resuelve este token un problema real? \\xBFTiene el potencial de ser adoptado por muchos usuarios? \\xBFExiste la oportunidad de que esta moneda se aprecie en valor? Si puede responder afirmativamente a todas estas preguntas, es posible que est\\xE9 interesado en invertir en Stellar. He aqu\\xED por qu\\xE9:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-advantages-of-blockchain-technology-for-enterprises.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AF6Dll6Ck2aGlJSss8/e4O769u749c/W1EVDP0E9OABvj52sxMzn9fXx/fvw/Pjw+vfv+fbv9vN3d3U9OzcA7Pz78P778f378/z58vv48vn34+rosre2v8G+ODk0AO39/PD++/H9+fL7+MnRzr/EwpmenGFkY8TJxWFkYQDs/Pvu/Pq5wsGan51jZWSDiIa0uLe8wb1qbGudoJwAqbWzdHt7eoGBf4aGvcfEkJSTbG5tenx7tru55unmAF1kZKeysbK+vFZbXGhsbaKrrdDX1+z19Onu7Obp6ACEjY1dZGR0fXyut7bU4eXS4enS1d3Y2+Hf4+bm6usAXmdoqbm76Pj33ervz9vlzd7mzM/ZxsrSxsbPw8bQANfv9eD2+tTl7cjZ48rY4cjb5MnQ28XN2MLJ1LvAzGzh2uOkaJwlAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Sep 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "las-ventajas-de-la-tecnologia-blockchain-para-las-empresas",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Las Ventajas De La Tecnología Blockchain Para Las Empresas",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, empresas de todos los tama\\xF1os est\\xE1n explorando las oportunidades que presenta la tecnolog\\xEDa blockchain. Con tanta atenci\\xF3n de los medios en torno a bitcoin y otras criptomonedas, no sorprende que las empresas est\\xE9n buscando formas de aprovechar esta nueva tecnolog\\xEDa para generar valor. Las aplicaciones de cadena de bloques tienen numerosos casos de uso para las empresas, desde la optimizaci\\xF3n de los procesos de la cadena de suministro hasta la habilitaci\\xF3n de programas de recompensas basados en tokens.\nYa sea que reci\\xE9n est\\xE9 comenzando a aprender sobre blockchain o quiera profundizar en sus aplicaciones potenciales, esta publicaci\\xF3n de blog lo ayudar\\xE1 a comprender por qu\\xE9 tantas empresas ven blockchain como una innovaci\\xF3n que cambia el juego. Tambi\\xE9n explica c\\xF3mo se puede usar blockchain para agregar confianza y transparencia a todo, desde cadenas de suministro hasta publicidad digital y mucho m\\xE1s...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-power-of-blockchain-technology.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABH0lEQVQYlWMQF7ZGIK1AMXV/cUlHuAiDhG4oCGkESBpESKZ2ShhFgpB2kIR+uIRJFIOkWZyERYKkSaxs8TSZ6x+lt16W8sgXN4wQN46UtElikPIqkPIqkK6bL3PhjczJpyAVxx5Kh9dI+hVLeRUwiE5ZJr7rgvjc9WKz10luOS22fJfY8l0iExcJ9c4R33OeQWH/JYUDV5WP3VI6eU/p6E3Fg9eUzj1ROPNQ5vxT+RsfGKQ0AqX0w2QyuuWvvJW//F7j3AvZZYclrRIltIMkDSIYxE1jJUyiJA0iZDK6pa+9l1l2VNIhHeRsq0RJh3QGccMICf1wcVU/kFBQqYSKD4irFSihHy6m5MkADwExCQcx3VAJeQ9RYWtxIVtIsAAAdOhgKe3ZtUoAAAAASUVORK5CYII=",
-      "createdAt": "Thu Oct 08 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-poder-de-la-tecnologia-blockchain",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "El Poder De La Tecnología Blockchain",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo est\\xE1 cambiando r\\xE1pido. La transformaci\\xF3n digital de los negocios y la revoluci\\xF3n digital llegaron para quedarse. Las nuevas tecnolog\\xEDas, como la inteligencia artificial (IA), Internet de las cosas (IoT), blockchain y la realidad virtual, est\\xE1n remodelando la forma en que vivimos, trabajamos y hacemos negocios.\nLa transformaci\\xF3n digital est\\xE1 haciendo que las empresas pasen de la excelencia operativa a la diferenciaci\\xF3n estrat\\xE9gica mediante la integraci\\xF3n de nuevas tecnolog\\xEDas digitales que est\\xE1n cambiando la forma en que hacemos negocios en industrias como la atenci\\xF3n m\\xE9dica, el comercio minorista, la log\\xEDstica, etc. El ritmo de este cambio se est\\xE1 acelerando con nuevas plataformas de software que fomentan la innovaci\\xF3n: brind\\xE1ndonos un mundo donde la inteligencia artificial, la realidad virtual y la cadena de bloques son comunes.\nEstas tecnolog\\xEDas transformadoras tambi\\xE9n abren oportunidades para nuevas colaboraciones entre individuos y organizaciones a diferentes escalas. Empoderan a las personas con nuevas formas de intercambiar valor directamente entre s\\xED sin intermediarios, en otras palabras, transacciones entre pares. Aqu\\xED hay una descripci\\xF3n general de c\\xF3mo la tecnolog\\xEDa blockchain puede ayudarlo a llevar su organizaci\\xF3n al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/how-blockchain-technology-can-improve-your-website.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADxUZzpRYDVJVy07RiQwOio5QDhHUERVXF5yfneNnAA7T11FWGRKXWVxiZGOqrect8ehwNOz0emuyuOpxN8AssvOweHh0ff8y/D9xun9v+H6t9fxs9Ttrszmi6W8ANz8/Nn7+9D2+8nw/MTo/MDi+5i0zYijt46ov4OasgDT8vOuy82lxMyLpbCPqLaOpreIo7eEnLKRrcafvNkAjKSnuNfaq8rPstLcr9Hew+f7veD5ttj2o8PfmbjWANz8+tj6/NH3+rfY38Xs+qvN36DB1YagtYqjvV9whACfuryAmZyYtbiuzdd7lKJ1jp6LpbqUs8ugwuCkw+QAwuvqgJqflLC5n7/LtdnrveL6ttr3sdX0rc/vpsfqAM/6/M34+8nz/MTs/MHm+7vf+rTX+a/T9KrO76XI6ttA1Ifms9iOAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 01 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-la-tecnologia-blockchain-puede-mejorar-su-sitio-web",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Cómo La Tecnología Blockchain Puede Mejorar Su Sitio Web",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hoy en d\\xEDa, las empresas luchan por mantenerse al d\\xEDa con el ritmo de la transformaci\\xF3n digital y las crecientes expectativas de sus clientes. Hay una sensaci\\xF3n general de que algo grande est\\xE1 por suceder. Internet, tal como la conocemos, est\\xE1 cambiando y cada d\\xEDa se inventan nuevas formas de utilizar los datos. En este panorama que cambia r\\xE1pidamente, la tecnolog\\xEDa blockchain se destaca como una de las innovaciones m\\xE1s disruptivas.\nPero, \\xBFqu\\xE9 es exactamente la tecnolog\\xEDa blockchain? En pocas palabras, es un libro mayor descentralizado que almacena informaci\\xF3n en lugares llamados bloques. Siempre que alguien quiera agregar informaci\\xF3n o una transacci\\xF3n al libro mayor, primero debe verificarse proporcionando una prueba de identidad. Cada bloque tambi\\xE9n tiene su propio identificador \\xFAnico conocido como hash. Estos identificadores ayudan a rastrear informaci\\xF3n f\\xE1cilmente sin tener que almacenar una copia completa de cada bloque, lo que reduce significativamente el espacio y acelera significativamente las velocidades de transferencia de datos.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-potential-of-blockchain-technology.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFGCjVGCjVGDkFGIk0+QmkKlrTe0uiLMziDi3hn17QBGeYMwjJMwu7xH19E86OAE4d0G4d4E6+gP7ecg6t8AOWl0Bnl+CMzKAs7JAs/MAdHNAtbTA9nVBN3bf+/rADNlcARxc33GwmHPzGLOymXW0FDY0z/Y1Bja1oTt6QAxYWwEcXNDvLpZxcBKyMRMx8RTxsFHwr8w1c936uUALlxnA25wObKwTrm3Zr+8VcPAbMjFkNLOP9fRZuniAClXYxxlcwXDvgPFwQLEwALCvwW+uhu6uRPIxFHj3wAThImWKW5Qt31DxI9hfqsEyMUzvJ0Dy8ocy7RF4MUAEnB3lBpaVXRBYZpVzhh4MrOYnJc5EMa6qK4/huZ0ABiCiVhCZ0FXQFBeNZIfXB87NnhjIxFoaLaWHYC8VkWBmwOrutVcAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Sep 29 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-potencial-de-la-tecnologia-blockchain",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "El Potencial De La Tecnología Blockchain",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En un mundo donde los ataques cibern\\xE9ticos son cada vez m\\xE1s frecuentes y las filtraciones de datos ahora ocupan titulares casi a diario, la confianza en los intermediarios digitales ha alcanzado un m\\xEDnimo hist\\xF3rico. Las personas, las empresas e incluso los gobiernos se muestran cada vez m\\xE1s cautelosos a la hora de dar acceso a terceros a su informaci\\xF3n confidencial. Esta desconfianza es comprensible, dado el potencial de los ciberdelincuentes para monetizar los datos de los usuarios con fines nefastos. Como tal, ha habido un marcado inter\\xE9s en las tecnolog\\xEDas que pueden facilitar el almacenamiento y el intercambio de datos al mismo tiempo que garantizan su confidencialidad e integridad.\nCon ese fin, la tecnolog\\xEDa blockchain presenta numerosas oportunidades para mejorar la forma en que gestionamos los datos confidenciales. En esta publicaci\\xF3n de blog, exploraremos c\\xF3mo la tecnolog\\xEDa blockchain puede ayudar a las empresas a reducir el riesgo de ataques cibern\\xE9ticos al proteger los datos de los usuarios a nivel individual en lugar de un servidor centralizado. Adem\\xE1s, discutiremos por qu\\xE9 la tecnolog\\xEDa blockchain es particularmente adecuada para enfrentar este desaf\\xEDo con medidas de seguridad mejoradas y una mayor transparencia.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/ripple-the-new-bankers-coin.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAwklEQVQYlWNgxgBMTExwNgOmNDNMBRMTEwNcLRMTk5ScvJ6RsYycPFwQqptPQDC1vCa/oa2krfvwjYeT5i8Rk5BESIfEJy3de3zG8tWldfUrtu9et2df+6SpUGlWVtbCuqalm7bWNNZv239w/rJli1YuX79rLysrK1S3loHxlLnzt+3afe7q1TMXLu7ct98rKAxhuLSKhpG9s6unV2Jqml9wiK1XoL6DO4rHBCWkNExtZDW0rQMitSwdWNjZCPgbKA0APGY7I0yHliEAAAAASUVORK5CYII=",
-      "createdAt": "Fri Jul 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ripple-la-moneda-del-nuevo-banquero",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Ripple: La Moneda Del Nuevo Banquero",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de las criptomonedas puede ser bastante abrumador para los reci\\xE9n llegados. Sin embargo, hay muchas razones por las que este dinero digital est\\xE1 ganando popularidad entre los inversores y las principales instituciones financieras. La econom\\xEDa de fichas basada en blockchain tiene el potencial de revolucionar la forma en que manejamos el dinero y realizamos transacciones como sociedad global.\nSi ha estado buscando involucrarse en el mercado de criptomonedas, es posible que haya notado que hay cientos, tal vez incluso miles, de monedas diferentes disponibles. La mayor\\xEDa de ellos tienen nombres extra\\xF1os, logotipos extra\\xF1os y t\\xE1cticas de marketing a\\xFAn m\\xE1s extra\\xF1as. Es suficiente para volver loco a cualquiera. Pero no te preocupes; estamos aqu\\xED para ayudarlo a ponerse al d\\xEDa con una de las criptomonedas m\\xE1s comentadas: Ripple (tambi\\xE9n conocida como XRP).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Bitcoin es una moneda digital que se describi\\xF3 por primera vez en un libro blanco publicado en 2008 y comenz\\xF3 a comercializarse como una opci\\xF3n de inversi\\xF3n en septiembre de 2017. Es el primer ejemplo de una criptomoneda, un activo que se puede transferir f\\xE1cilmente entre usuarios (o \"adaptadores\"). ) y tambi\\xE9n tiene un suministro fijo. Esto significa que solo existir\\xE1n 21 millones de Bitcoins.\nLa creaci\\xF3n de Bitcoin condujo al surgimiento de muchas otras criptomonedas (conocidas como altcoins) con sus propias caracter\\xEDsticas y usos \\xFAnicos. Como son esencialmente programas de software, cualquier persona con los conocimientos necesarios para hacerlo puede crear nuevas criptomonedas en cualquier momento. Estos pueden variar desde peque\\xF1os cambios hasta actualizaciones importantes, como el cambio de Ethereum de la miner\\xEDa de prueba de trabajo a la de prueba de participaci\\xF3n.\nHay una serie de factores que podr\\xEDan continuar impulsando la demanda de Bitcoin, Ethereum y otras criptomonedas. Esto es lo que necesita saber acerca de invertir en estos activos:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

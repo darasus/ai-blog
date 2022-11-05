@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/python-the-language-of-choice.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWPoLWFry2XrLWFzsmDdPIUtO5JtZj1bUzabvSlLZQorAysrc0MWS0kCp68jT3U6X140Z1Uaf3E8m7cdc1UqG0iah5tJWFjY2tpaQ0PDwsJCXl6eiYmJi4OJl4eFgRkbYGNjY2ZmZmJiYgj1tjA3UhEXFeTg4GAHg6hQ7+aq7KqiTBsrC4aCrKjspEAfZ0NDHQU+Pj5RYaHG2jxrS3MXZ5uMpFgGVxfbIH/3jKQgT2c9GWlRCQmJ/q46HR0dERERKQkxBltrA11tdU8P+6K8WG9XUztL3eKcmJiYGDk5OQEBAYasZLfIUAcLc0MbK7PsjLiWupzEmAAVFRVeXl5RUVGG7JSQuHC7wmzvyHAPU2NDe1sbW1tbAwMDHR0dVVVVAI56P477AMeGAAAAAElFTkSuQmCC",
-  "createdAt": "2020-06-13T21:09:00.192Z",
-  "updatedAt": "2022-10-11T17:15:27.435Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlWNoyWWbUM7eX8YW4sK0tJ2lPZ9lchVbQxaHqxVLax4bg6o8S1UKS122UGaMbGW61OQamYYc0awI9hA31mnVbAzsbMxsrAyc3MJauqYycurqWmYiYnIMDAzsbEwCfCwMzFDAxAAGjGDEycbMzsYK4of4WBjpKIiLCnBygQALC2uAj2N7fWFZQbq9nSVDZVFCcVa4v5uRmrIkJyeXsqJ0VUm6s5Oji5NtXmYig7mpUUiQV05aSHiAuYgwn5CQQGtjmZmZGRsbm6SEOIOttb6qsoKLi21VaXJEkIOlsUp7Y2FKcpKoqKiAgABDbppHQoyLna2JlaVZVkZsWV5MWkKIpoYmFxeXiIgIQ0ZiYEqsY06ah5+3nZGRgbOTo421lba2to6OjpqaGgCXoEBeX6ZSZwAAAABJRU5ErkJggg==",
+  "imageId": "1936a5b0-8c0c-4332-df95-2580a6bd3100",
+  "createdAt": "2022-11-05T21:51:38.835Z",
+  "updatedAt": "2022-11-05T21:51:39.052Z",
   "slug": "python-el-lenguaje-de-eleccion",
   "locale": "es",
   "categoryLocal": "codificación",
@@ -20,85 +20,40 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLUlEQVQYlU3OTUuDcADH8f/r6C30DvYGimgn2bHDoNM8iEEgLDusJ43VWsIuPhz2b4fcIAbmRTokCBOZiZ6cJWiSJYXDEk+TiEHsd/r+bh+QZVm5siiKVi+gaRpF0YmMnBwio9GoUqmYprlbr5Yv67XaNhBFkWVZ3766E7u6rpMkGQTBdfd88b5H0adAkiRN0z5fZdt8CMOQ5/k4jlVVzd6gLMuAYZhWqwUhHAwGtm1jGAYh9H2/2WwKggDm83mapv+W2Wy2jKIo/mjtdrvRaEzut44PqsPhcEmr72yW3hqCbACe5xmG8czL25sLVVVxHPc8jz47WnzskyQJxuOx4zjfX4b//JQkiaIoeZ5bllX+PE6nUwAh7PV6nU6n3+8bhkEQBMuyrutSFMVx3C8GENWLTtovAgAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Nov 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ir-idioma-para-principiantes",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQYlRXIyS4DYQAA4P9B3HBwdnL1Bo2Lozeog4vE1UGibYSkphvtNKWoSC3FaEJSrTEGo4suhtGZf/5t9tTFSXzHD5SuCX8KL6ooLLSmeXGuJC9WlOXL59Dh40q1CaQ39tqhPZUon0ZXg9hEDsbK+2Bi+24sIwLfc22L2ZYVOK5pwF5/MNRhX9Vm840pXgaE2pTa9Ya4s5uLx7li8cAPRi5l80fieFYClDkY01qtzvP5QmEvmUzFNjZzCS5cliZzEjiv3KbT6Ug0th6Jclwim+VPymeK+LAqvMzsy0CUv9qtpqpqmDBmOUEwsh3vN/BT9+1QSQatwU/gu4QwQi0TU9PEQx16BB8/dZcEBdRkjzEKIcKEIUwxYRAigrDc+VjI3ACh7jH2XxhThIhhQE371nWoD421ras/r3nqR8T+2vkAAAAASUVORK5CYII=",
+      "imageId": "459c7e61-a210-436b-8c4a-27139866bc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-encontrar-la-mejor-ayuda-de-codificacion-en-linea",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Idioma Para Principiantes",
+      "title": "Cómo Encontrar La Mejor Ayuda De Codificación En Línea",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDas que hoy en d\\xEDa hay m\\xE1s de 5000 lenguajes de programaci\\xF3n en el mundo? Y de esos, solo un pu\\xF1ado ha obtenido una adopci\\xF3n generalizada. Cada d\\xEDa se crean lenguajes de programaci\\xF3n m\\xE1s nuevos y oscuros. De hecho, parece que el mercado est\\xE1 sobresaturado con ellos.\nPero Go se distingue de todos los dem\\xE1s lenguajes de programaci\\xF3n por su simplicidad y facilidad de uso. Ha sido adoptado por algunas de las firmas de tecnolog\\xEDa m\\xE1s grandes del mundo (Google, Digital Ocean, Intuit, Wordpress.com y Heroku) por su facilidad de uso, sintaxis simple y rendimiento r\\xE1pido.\nAunque es uno de los lenguajes de programaci\\xF3n m\\xE1s nuevos en la actualidad, Go est\\xE1 creciendo constantemente en popularidad entre los desarrolladores y las empresas. En este art\\xEDculo, exploraremos qu\\xE9 hace que este idioma sea tan \\xFAnico y por qu\\xE9 vale la pena aprenderlo para los principiantes.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFSab\\xEDa que encontrar ayuda con la codificaci\\xF3n inform\\xE1tica es una de las industrias en l\\xEDnea de m\\xE1s r\\xE1pido crecimiento? \\xBFSab\\xEDa tambi\\xE9n que hay una gran cantidad de sitios web donde puede encontrar la misma ayuda de codificaci\\xF3n? Con tantos lugares para buscar ayuda con la codificaci\\xF3n, tiene sentido que haya tantos profesionales que no parecen encontrar las mejores opciones. \\xA1Pero no te preocupes! Hay un mont\\xF3n de grandes recursos por ah\\xED si sabe d\\xF3nde buscar.\nEn esta publicaci\\xF3n de blog, exploraremos algunos de los lugares m\\xE1s efectivos en l\\xEDnea para encontrar los mejores ayudantes de programaci\\xF3n. Estas plataformas facilitan que los codificadores se conecten y colaboren, al mismo tiempo que permiten a las empresas y a las personas encontrar asistentes virtuales de primer nivel cuando m\\xE1s los necesitan. \\xBFEntonces, Qu\\xE9 esperas? \\xA1Sigue leyendo y descubre tus nuevos lugares favoritos para obtener ayuda con la codificaci\\xF3n hoy mismo!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/introduction-to-java.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOklEQVQYlSXOv0sCYRzH8fsPoiEEB22QRMof5RAhReEaQhBCVNTWP1BCQzQ0RiAObdFUQ1omJZ0YcQThJnQELeqVynVe4nmnz/N8n+8tcfbhs72Xl9D6/lLbTbXdbCm1V+k5ldrf2d4MBnw+r6twfS4YlmmapmEYuq5VKm/haHB6xp9IxFcWQqGpSWFIYXRKCNE0LbYU83jdrvExj3vidC8pEI5D4BSQ24iI6UwmEo2Eg4HFWf/u8pyTaw2lrjREUSyXy9nb3KNYKt3f1dPHl/F5AdDOFx5ucllJkmRZrlarmt61igWWv1IvzpxMAYcUKKUAwEezfnvK4UFPehIAOSAnjP/rgDJkwDs/7xvr+a2kIwfk3EbOOSGEDAasb7FOh0kvxbVVJ/+zuY2UUtPom3rXbKnWx6d8cvQHJSjfEBSgh8cAAAAASUVORK5CYII=",
-      "createdAt": "Fri Apr 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "introduccion-a-java",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOElEQVQYlQXBXU+CUAAA0PuH66n55rLVrFaapgGCOp+yjJC1ZSjhxrTM75ypgNAAZbpKsHFBmdU6B2iaPh4roiiJgvA2HN1kCLlaUGslY9heeRsgy7I0lqeGMZZlTZ9Web7LUvNeVa0x5kQBqqZDxzWtb8dd//z+2bbzNZ+tHUftd+avPBgN+pVKlcrTKJrAcSJ6Hn+q1Y9Po1Kv0y1RYKGJDMNcZq9C4bNY/CJ4eJRMprPXpGWomUgQeKYBIWQfy7kcWXgoUnmaJKl3beJ+zkL+HWDqIsuyWIIgbykEwzEMRxA0HIkN2/UTvw98KH2apnEimUqlCQTFiSSKYoG9g9IdFdjdB5Y+gjaEK2+5MC2uaC5t6HjQ3fRbTd/2FpgLzZnQmg4aeu9ZbZSVNi/VOemFG1SYBnf/D1Cf5eDVZWrIAAAAAElFTkSuQmCC",
+      "imageId": "cb800f39-3444-4e62-71d1-7e55aeb50c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-mejorar-tus-habilidades-de-codificacion",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Introducción a Java",
+      "title": "Cómo Mejorar Tus Habilidades De Codificación",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La historia de los lenguajes de programaci\\xF3n est\\xE1 plagada de ideas abandonadas e intentos fallidos. Eso es porque crear un nuevo lenguaje de programaci\\xF3n es un proceso desafiante. Crear un lenguaje que tenga su propia sintaxis, analizador, compilador y m\\xE1quina virtual no es f\\xE1cil.\nEs a\\xFAn m\\xE1s dif\\xEDcil crear un lenguaje de programaci\\xF3n que otras personas quieran usar. El lenguaje de programaci\\xF3n Java ha existido durante casi 25 a\\xF1os y todav\\xEDa se mantiene fuerte. Hay muchas buenas razones para esto, pero una de las m\\xE1s importantes es que Java no intenta ser todo para todos. Su alcance es limitado, pero su potencial es enorme.\nEste art\\xEDculo le presentar\\xE1 el lenguaje de programaci\\xF3n Java para que pueda comprender por qu\\xE9 sigue siendo uno de los lenguajes m\\xE1s populares del mundo en la actualidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ya sea que reci\\xE9n haya comenzado en el campo de la codificaci\\xF3n o simplemente est\\xE9 buscando mejorar sus habilidades, puede ser un campo desafiante y de r\\xE1pido crecimiento. Las nuevas innovaciones en tecnolog\\xEDa surgen todo el tiempo, por lo que uno debe estar al tanto de su juego para mantenerse al d\\xEDa. Dicho esto, hay muchas maneras diferentes de mejorar tus habilidades de codificaci\\xF3n.\nLa codificaci\\xF3n se est\\xE1 convirtiendo en una habilidad cada vez m\\xE1s importante en todas las industrias. Desde desarrolladores e ingenieros de software hasta dise\\xF1adores de sitios web y programadores de videojuegos, cada vez m\\xE1s funciones requieren conocimientos de lenguajes de programaci\\xF3n. Incluso si no planea trabajar con el c\\xF3digo directamente en el d\\xEDa a d\\xEDa, tener conocimientos de c\\xF3digo puede abrirle oportunidades en casi cualquier industria. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo puede mejorar sus habilidades de codificaci\\xF3n y llevar sus habilidades tecnol\\xF3gicas al siguiente nivel.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/how-to-use-coding.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
-      "createdAt": "Mon Mar 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-usar-la-codificacion",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Cómo Usar La Codificación",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando una manera de desarrollar las habilidades de pensamiento cr\\xEDtico de su hijo? \\xBFQuiere exponer a su hijo a campos relacionados con STEM sin sacrificar su creatividad e imaginaci\\xF3n? Si es as\\xED, la codificaci\\xF3n podr\\xEDa ser la oportunidad perfecta para ambos.\nLa codificaci\\xF3n es una excelente habilidad para presentar a su hijo a una edad temprana. Los desaf\\xEDa creativamente y los obliga a pensar cr\\xEDticamente. Adem\\xE1s, abre una multitud de posibles oportunidades profesionales en algunos de los campos de m\\xE1s r\\xE1pido crecimiento, como la rob\\xF3tica, la inteligencia artificial y el an\\xE1lisis de datos.\nLa codificaci\\xF3n cae dentro del alcance de STEM (Ciencia, Tecnolog\\xEDa, Ingenier\\xEDa y Matem\\xE1ticas) porque implica trabajar con c\\xF3digos o conjuntos de instrucciones que las computadoras pueden leer y comprender.\nSi est\\xE1 listo para obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo la codificaci\\xF3n puede ayudar a su hijo a crecer como persona y como futuro adulto, adem\\xE1s de por qu\\xE9 es importante para los ni\\xF1os, \\xA1siga leyendo!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-most-common-coding-mistakes-and-how-to-avoid-them.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6UlEQVQYlW2OXUsCURiEzy/uqsBf0E0SIQZ2V0KJuH2IWwpCHy4ZBhFBuBXlKvi1a9gmnfa87zkTsS0ogXM3MzDzCPyp1x3t7VbtSvPUvnGfekkIQMiviIgCfxr400F/4nVHbddTSgEgIrG5UXCch1q1ZVeahYN6ZsvK5cpW6dwqXR4dNsR8Z6lEGIZzo9/f0C7/q5+v6lJJo03sztZwl//pNJJOMQlo8zj2+p8BM8O1zcW62l6l2j6A9HUx/pasmPnbz8rZLSZDlU1F6ZUkX6ANO8eaxzHBvaNfW3jZgY6Wkxv6MMGJMdEv1NENVOEvZ3AAAAAASUVORK5CYII=",
-      "createdAt": "Sat Apr 09 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-errores-de-codificacion-mas-comunes-y-como-evitarlos",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "Los Errores De Codificación Más Comunes Y Cómo Evitarlos",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"No importa cu\\xE1ntos tutoriales o art\\xEDculos lea, la codificaci\\xF3n siempre es un desaf\\xEDo. Incluso los desarrolladores experimentados a veces cometen errores. Los programadores nuevos pueden sentir que cometen errores constantemente, pero todo es parte del proceso de aprendizaje. Los errores son inevitables y beneficiosos siempre y cuando aprendas de ellos. Cuanta m\\xE1s experiencia de codificaci\\xF3n tenga, con menos frecuencia se producir\\xE1n estos errores. Sin embargo, si reci\\xE9n est\\xE1 comenzando a codificar, es mejor conocer los errores m\\xE1s comunes antes de que se conviertan en un problema grave para su proyecto. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos errores de codificaci\\xF3n y c\\xF3mo evitarlos al codificar su pr\\xF3ximo proyecto de software.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/javascript-for-beginners-a-quick-guide-to-javascript.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJklEQVQYlWN49+LPuxd/Pr36+/nd3y/v/3x5/+fzu7+fXv2FiDN8ePLs68P93x8fBKEn+6Ho8cFvjw69e/GV4euD43/2Cv87LPHvsNTfkwb/Tlv8OywFQd/urWX49vDYv30iVxeLvtku/veU6b/L4XDp7w/WMHx/fPT6Qv7SaN6ubMGGFKHSeLmOTP4l9YKTC/l/PFwNkv66U/jELOEDk4U+HrH/fD79/cmQ18fj3x10vH9qGshwsN0g01bPSD548OCdO3euXLnS35G9cPlKhs8v3/24M/fXw3m/H82dMbFq9uzZmzdvnjNnzpQJHQ9uPWb48OLP5zd/vn78/f3Lnw9vP796/vbls3cvnrx/+fQL2N8v/oDQm98f3/75/O7353cgBjxYAASj4xTZRqDkAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jun 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "javascript-para-principiantes-una-guia-rapida-para-javascript",
-      "locale": "es",
-      "categoryLocal": "codificación",
-      "title": "JavaScript Para Principiantes: Una Guía Rápida Para JavaScript",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar puede ser una experiencia desafiante, especialmente cuando se trata de aprender un nuevo lenguaje de programaci\\xF3n. Muchos codificadores dudan cuando se trata de aprender nuevos lenguajes de codificaci\\xF3n porque sienten que representa un desaf\\xEDo para sus habilidades. Sin embargo, esto no deber\\xEDa disuadirte de continuar con tu educaci\\xF3n en codificaci\\xF3n y explorar otras oportunidades que el mundo de la codificaci\\xF3n tiene para ofrecer.\nSi usted es alguien que est\\xE1 ansioso por comenzar su viaje con Javascript y continuar aprendiendo m\\xE1s sobre este lenguaje de programaci\\xF3n din\\xE1mico, \\xA1entonces esta publicaci\\xF3n de blog es para usted! En esta publicaci\\xF3n de blog, aprender\\xE1 todo lo que necesita saber sobre Javascript como un programador principiante y las oportunidades que abre para usted como aspirante a programador. \\xA1Empecemos!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/python-a-language-for-the-masses.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJhxE554HKF7Jq+HK7CHMa+FNK+GLamBKJ12IZRuFwCeeRiqkxW6nx23kzDEoy+9lTe/oSW5ky6shyigfhwAoXwgpJYNinsSqZ8Oo5oQvKogpp0Ml48Ns6sKoJsHAKuLHZt8J6qIMauPNJWBKMyoR6CILpt8MpBxKYJkHwCFfQmmmhGpmhaypRXEtxqklRutoRiqmhmonRGtowwAlHEdjnoWgXAYmIcbno4fpYo0n4glinMijHcXgW0UAKF8IKyELbONMb6aN8yiRdGlS8qfR7+UP7SJM6N6JgCcdBuZeCHPywaahh2xmSLIpjLClz+3jjqshC2ddiEAmnIUn4AZk30VlYYOgXAWqo4mt400rYUsoHolmHIbAJVuDohoEZVxG6R+IqmAKquCLKmAKqN7IphyG49sFGj3g1duABCQAAAAAElFTkSuQmCC",
-      "createdAt": "Tue May 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJdxE6F6HqV8KK6GL7CHM7CHM7CHMKh/KJtzIpRtGACYchu1nxS4nx23lC7DoTC5lDTAoya8ly+vjSWmhRsAm3MinI4QlooQrKEPmJENsaAgnI8UlY0MmZEJmZIIAK6QG6OAKqSCMqqPL56ILMmnRq6TM6OGL5d2K4ttHgCYkAmonBGnlhq7rRe3qRymliCqoBWyoxmomRWwpQ4Ajm8chXAZinkZnIscloQioocznIMsi3YiiHQagW0UAKV/Ia+GLbKPMLOQNc2gSteoTs6hR8OXQbWKNaJ5JwCgeB2nhSCzrQaplh29piLHqS/Cl0K6kTevhy2feSIAlm4XoIQWkH0UlIEXi30QqYwlt4s4rIQuonkll3EbAJVuEIhpEpZzHJ13JJ54KaZ+LKmBKqB5JJhxHI5pFKgEg7mIfkr9AAAAAElFTkSuQmCC",
+      "imageId": "5d050e77-36a3-4159-fc42-2321bc6f3300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "python-un-lenguaje-para-las-masas",
       "locale": "es",
       "categoryLocal": "codificación",
@@ -110,61 +65,106 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/inheritance-in-java.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AI6v0ZSz0pu51qjA1qW3x4ebrp+71qjB26rE3aG/2wCYrsKbttF8mrRngJAxPkAqNThQZ3Z7mLWAo8qAo8oAPEdIW2pxND0+W3J+TnZ/T213UnJ+OEVFRVthP1BYADdUTSRfUCxAOUZqbEJKUDtCQlJ3gj1UUSNeUTdbTwBtb3NETlRnYmRhX11hX11ybW9fW1h/c3M6RUppbnYAMDAuKSwrLC0oIygkLzIxLTArHyQgLjEuHyIfJickAERsKkZxLENuK0VrLENiLkJhLURpLUBrKEFqJj9nJQBaiztaiTpfjD9hikNjf09kgFBffU5df0hchT9YhTgAR2g0Sm81T3Q3U2hKUl1SUlZZVVdYT1RTT2dESm43AEBIQz9EQkNFSUdJSkhKS0lKUUdGTUdGS0NFR0BGQqv4bmlhg84pAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Feb 23 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "herencia-en-java",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJ0lEQVQYlVXPz0vCYByA8fef69StunSooKAu0bU61bFDSw+Rh6FWM6mQ17QEWbNybNmcP+YcVCIIrmVRdLDBcHu/7xsuOvS5PqcHDZya3dffBq3RyAMCAAEAoZQSQgB8dHWxIYlR4XCh2ykwxggZN/fbpkAYY8h5qWj3XD4zfZqaen4qvdpnj1Yiez6Tx2tVZR7plR35dlstb+XxckmKaMq6pm7eFCfbpto2IkjX9i0z96ByzVpULq3kMnN237wTFy2D//xoIbN5dJKcOE7MGs1yp2NK11nHeZdlSVEKvV4XNaoRs5GUJI3neUFI7XJ78Tgfix0IQhpjjOpVvq6nGWNB4Luu6/u+53kAQEOoeLlkNHC4FFAY+5sGQggSC6vD4dfvcVj/+QGCFvKvvquqNAAAAABJRU5ErkJggg==",
+      "imageId": "810a2889-8621-4b4b-8b49-644c26baee00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "python-el-lenguaje-de-la-web",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Herencia En Java",
+      "title": "Python - El Lenguaje De La Web",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando piensas en clases y objetos, \\xBFqu\\xE9 te viene a la mente? Si sus pensamientos se dirigieron inmediatamente a la idea de clases para padres e hijos, entonces ha estudiado programaci\\xF3n orientada a objetos o comprende los matices del ingl\\xE9s. Sin embargo, si piensa en un padre que da a luz a un hijo, es evidente que no ha estudiado suficiente programaci\\xF3n orientada a objetos. Veamos de qu\\xE9 se trata la herencia en Java y por qu\\xE9 es \\xFAtil.\nA menudo nos encontramos reutilizando c\\xF3digo que ha sido implementado en alguna otra clase. Esto nos lleva a hacer una pregunta muy l\\xF3gica: \\xBFpodemos reutilizar el c\\xF3digo a\\xFAn m\\xE1s? \\xA1La respuesta es s\\xED! Podemos tomar una clase y hacerla para que ampl\\xEDe la funcionalidad de otra. Esto se llama herencia en Java. Es una de las piedras angulares de la programaci\\xF3n OOP y algo que todo programador serio deber\\xEDa saber bien.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Con el r\\xE1pido crecimiento del mercado de Internet y aplicaciones m\\xF3viles, no es de extra\\xF1ar que los desarrolladores tengan una demanda tan alta. Como resultado, m\\xE1s personas que nunca est\\xE1n aprendiendo a codificar como una opci\\xF3n profesional secundaria o como un medio para ingresar a la industria tecnol\\xF3gica.\nDesafortunadamente, existen tantos lenguajes de codificaci\\xF3n que puede ser dif\\xEDcil saber por d\\xF3nde empezar. \\xA1Afortunadamente, estamos aqu\\xED para ayudar!\nPython es uno de los lenguajes de programaci\\xF3n m\\xE1s populares que existen hoy en d\\xEDa con una gran demanda de programadores calificados. Y como uno de los lenguajes de programaci\\xF3n m\\xE1s utilizados para el an\\xE1lisis estad\\xEDstico y la ciencia de datos, Python tambi\\xE9n es extremadamente \\xFAtil para los desarrolladores web que buscan expandirse desde otros lenguajes de codificaci\\xF3n como JavaScript o Java.\n\\xA1Sigue leyendo para descubrir todo lo que necesitas saber sobre Python y por qu\\xE9 deber\\xEDas aprenderlo!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-habits-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANeti/yZBPqcA/yXA/uWAvuWAvuTAvyJA+lnAbVUFQDqpmn5wXn3um31v3j3yZD3yI31yZb206/0xp3honcA6dS77tW999vC8tm/c1hGnol1gmhVxqyVqo56+tq+AOLLteTKs/jcxPvkyaGJdJiAa7agiqmRfrKYg/zgxQDfx7Lp0rqvl4bRuaSokH2+qJSGa1uXfm2zmIbGrJcA1L6q6NC7rJOCrpaDjXVkuaCNq5B+xKyXtZ2Kq5B+AN7QuerZxN7GrqSLeOTPueHLtdXAqZN3aJV6ar6mkwB1xbPGqpTZwqp7YlF7YFKgh3eZf22CZ1ekiXeli3gAoo9z89rA++nP+ufO/OrQ++jR9+LJ79fC9NzE79jAAOmUKOiOJOWDE+WAEOR7DeR4Cep+A+1/Aut9A+1/AorMwinrFK20AAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 21 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-mejores-habitos-de-codificacion-para-principiantes",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABAUlEQVQYlWWQy07DMBRE/f8b+AYQbJCQWAASqELQFvKA1iFNnXftUpdVHDdR2jS1ryGwQeJsjzQzGhQv6PHp+eX9oKprDaCU0n9ARydn1hSbfwBAr1PGtNYky/MVT9iScs74mnJebDa9NsYclPLC6C0gN09Dx/eDJMUkfA2IMQZdD0fzLCf5YkoiZxa4s2AyJ36cXD08TkiIvCi+HY2f8Ttdf2YfPKLs4m4wxp4XxRFlffiu3Wut921bCiFLURbFbrv9XYeCNE+Xq4NSUkrLsl4sy3VdQvpipRQqNxUAGGOEELZtY4xt23Ych1Laa/i5AgC6rqvrumkaIURVVVLKb/0FDrcM+s/4/JIAAAAASUVORK5CYII=",
+      "imageId": "bd84ccfc-78cd-42a6-0072-2f84bbbd3800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "las-principales-tendencias-en-ingenieria-de-software",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Los Mejores Hábitos De Codificación Para Principiantes",
+      "title": "Las Principales Tendencias En Ingeniería De Software",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El camino para convertirse en un codificador experto es largo y desafiante. De hecho, es uno de los campos tecnol\\xF3gicos m\\xE1s dif\\xEDciles para empezar como principiante. Pero tambi\\xE9n es una de las carreras m\\xE1s lucrativas que puede elegir seguir. El salario promedio de un ingeniero de software es de alrededor de $ 100K por a\\xF1o, lo que es a\\xFAn m\\xE1s impresionante cuando se considera que la edad promedio de los ingenieros de software es de solo 29 a\\xF1os. Si desea comenzar una nueva carrera en la codificaci\\xF3n pero siente que est\\xE1 comenzando desde cero, tenemos algunos consejos para usted. Como alguien que ha estado programando durante m\\xE1s de 10 a\\xF1os, puedo decirles con total certeza que los grandes programadores se hacen y no nacen. Cualquiera puede aprender a codificar si est\\xE1 dispuesto a trabajar duro y adoptar algunos buenos h\\xE1bitos en el camino. Aqu\\xED hay algunos consejos sobre c\\xF3mo puede comenzar hoy:\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software tienen la tarea de encontrar soluciones a problemas complejos todos los d\\xEDas. La industria del software est\\xE1 en constante evoluci\\xF3n y los ingenieros deben mantenerse actualizados sobre las \\xFAltimas tendencias y tecnolog\\xEDas para mantener sus habilidades actualizadas y relevantes.\nLos ingenieros de software deben esperar ver una afluencia de nuevas tendencias de ingenier\\xEDa de software en el pr\\xF3ximo a\\xF1o. Los ingenieros deben estar preparados para adaptar sus habilidades y dominar nuevas t\\xE9cnicas a medida que el mundo del software contin\\xFAa cambiando r\\xE1pidamente. A medida que la tecnolog\\xEDa avanza a un ritmo acelerado, es importante que los ingenieros sean conscientes de s\\xED mismos y aprendan constantemente sobre nuevas formas de hacer las cosas para que puedan seguir proporcionando valor a trav\\xE9s de su trabajo.\nAqu\\xED hay algunas tendencias de ingenier\\xEDa de software que debe conocer en 2019 y m\\xE1s all\\xE1. Siga leyendo y prep\\xE1rese para un futuro lleno de oportunidades para quienes puedan mantenerse al d\\xEDa con estos cambios.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-companies.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMrCsNLDrdrJtObTvN/OuNnKts/Fu9DBr492Y2lKOQDo8fXd0sTVxLHUybrRxbnTw7TOwLLVxLHWtprHlW8AiXZq2N/j3NfP0sa6zsW4y8S5zMzMysK6wLauuJeCAKh2Wb+0se31+dze3crHv4eCep6kqbu+u7rDxMHQ1ACFbmGVcmDRxL/n8PTTyMGUa1AxLSfDyMK+y8u+y80Aj4mJr5WMxLOr6O7wxLOrjVpALiQes7anu76vxcS+AH15eottYLijlujo5I+WmJRmTWl0gpOZm93bzL+/vwB4a2edfW+uqKGPm6eDlqunrrqLpMCPqMS+xMa5ubsAUFBQa2Jga3B6Wmx/kJ+zs73Ic46slYWBgXFyo6azAKiXjWlcWXF9hpCUl39nX4lyao2bq7Waj59pVJljT6pWwNtKDSCpAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Oct 16 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "las-mejores-empresas-de-ingenieria-de-software",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOXv+efz/N3o8dDa5Nnj783b5dLi7Mze6dDk8LzR3QDX5Ozh6vTP2eLH0dnS3Oa8x9DQ4OrM3efK3OjA1eEA4e/54v//7PL4pKqysbnBsrrCtb/IrrrEn6y2mqiyAOXu+Km6wqOosbO5wrrCysXO2MHM1rO9x6azvJekrgC8w80NCxBUT1T4///y/P/o8vva5e/g7fjb6/bQ4u4AytPZg2FbtZaVzdji2OLt7fj/5O/35/T/4e/83e79AIS+646Nob+zu3WDko6dqpilsYCPl6W2wNbs+9nw/wBUmNdRj8zKxs3WzNHDxNAhHyMACggsQUTQ1+HS4OwAYKvqS4jHXn6qq5OTpIWBb2NpNTc9a2pu0b2/yLi6AGaLzUSMz1uV3JOTq4qQqbuamLKjpsi4t867vMu4utVp2mf9j5cAAAAAAElFTkSuQmCC",
+      "imageId": "48b60557-9e24-4f4f-fb4e-3e7a7a871a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-beneficios-de-aprender-a-programar",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Las Mejores Empresas De Ingeniería De Software",
+      "title": "Los Beneficios De Aprender a Programar",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El campo de la ingenier\\xEDa de software est\\xE1 en auge, pero el mercado de los ingenieros de software es muy competitivo. Si est\\xE1 buscando ingresar a este campo o avanzar en su carrera como ingeniero, debe sobresalir entre la multitud para conseguir el trabajo de sus sue\\xF1os. Los ingenieros de software tienen una gran demanda en muchas industrias, pero algunas empresas se destacan como l\\xEDderes en este campo. Estas importantes empresas de ingenier\\xEDa de software ayudan a impulsar la innovaci\\xF3n y crear nuevos productos y tecnolog\\xEDas sobre los que otros pueden desarrollar.\nSi desea trabajar como ingeniero de software o incursionar en el campo con facilidad, considere explorar empresas que contraten ingenieros de software. Puede encontrar un puesto en una de estas empresas mejor calificadas o usar su curr\\xEDculum para postularse directamente en una de estas empresas. Adem\\xE1s de investigar diferentes empresas, tambi\\xE9n es importante investigar sus roles y requisitos espec\\xEDficos de ingenier\\xEDa de software para que pueda adaptar su curr\\xEDculum en consecuencia. Estas son algunas de las principales empresas de ingenier\\xEDa de software:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Aprender a codificar es un desaf\\xEDo, pero tambi\\xE9n puede ser incre\\xEDblemente gratificante. Se ha convertido en una habilidad muy buscada en los \\xFAltimos a\\xF1os, con la demanda de codificadores aumentando a\\xF1o tras a\\xF1o. Hay muchas razones por las que aprender a codificar podr\\xEDa ser beneficioso para tu carrera. Las oportunidades disponibles para aquellos que saben codificar se ampl\\xEDan considerablemente.\nLa codificaci\\xF3n se ha convertido en una habilidad esencial en casi todas las industrias, incluido el marketing y las ventas, el an\\xE1lisis comercial, la ciencia de datos, la seguridad cibern\\xE9tica, la inteligencia artificial y la rob\\xF3tica. Aprender a codificar abre oportunidades en casi cualquier campo debido a su alcance en constante expansi\\xF3n. Como tal, las habilidades de codificaci\\xF3n se est\\xE1n convirtiendo en una necesidad para cualquiera que busque trabajar en industrias digitales o relacionadas con la tecnolog\\xEDa. Aqu\\xED hay algunos beneficios de aprender a codificar que pueden ayudarlo a decidir si es la carrera profesional adecuada para usted:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-parallel-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA9UlEQVQYlXWPzWqDQBSFJ3mKbvooPkx23brxCbIvuHFdnYXECUhbqM2qLRhciIqFltQsJhAyWmqQacdUkjuEqfRn08OBA/fjwLkIvuR5Hsa4aRohRNu2/REAUB+WZem6bpqmYRi2bXPOv/Hnm/J+J6XMsqwHtehq0fFujw5TJMkAkjMACMMQAK4W1XA8G45np+a9YpIMDvEoz3NN0wgh5HnT45PzO9VWjkcAEEURAEyf/mBYXQB1YJv8rK0+dk6+dvL19UuFGGOU0rIsGWOvfLV933BRL+ljURRqeZqmvu9jjF3XjZeXN4k5X0xuHyZBEPz+/Z+OXZjxqEfjAy4AAAAASUVORK5CYII=",
-      "createdAt": "Sun Apr 12 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ir-al-lenguaje-para-computacion-paralela",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPw8/Pz9fUVERVRVlEWFRURFBSUkZEpLCz08/PT1tZmKCoqKi0tqa6pKymrnTJtZm5ujp2dbV9f75QpU1pbWxm4uDglJKVMjDRjgwwCXM15eHjZOThY2djExMSkpKQYmJmZmJhYuDkZ40NVZzYHqytJykgIyUgKMTMzMTAwMLCwMDMyMivJCLZU+u7dnr9gksPiqQ7dlQbJgYr8vBwgFTJS/MVpzvOmBJ7YE7J1nfX6VcatVXr1ufYpEToMDAxMkuJcq+Z5zZ4Yunhq5txJBdN7c2qKvNYv8g0LkAMZzsDAEBEqtneb3Y51DrvWWhzd47xxudaUPkkJcWYGVlZWDQ0NUTFZNTV5ezvJgnyriHAlM1MZWVk5RUVVkHRYWFhWVmZUVJSLi7eLi19gYHRcXFJ6elpQUCAAhJhTZ19iuCIAAAAASUVORK5CYII=",
+      "imageId": "f5326606-5171-4cb6-eb8a-b5572073c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "python-una-introduccion",
       "locale": "es",
       "categoryLocal": "codificación",
-      "title": "Ir Al Lenguaje Para Computación Paralela",
+      "title": "Python: Una Introducción",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Si ha le\\xEDdo sobre el mundo de la computaci\\xF3n paralela, sabr\\xE1 que es un campo que est\\xE1 creciendo r\\xE1pidamente en importancia. La computaci\\xF3n paralela se refiere a la ejecuci\\xF3n simult\\xE1nea de programas o tareas de computadora para que operen al mismo tiempo en lugar de secuencialmente. Esta capacidad de ejecutar m\\xFAltiples procesos simult\\xE1neamente conduce a resultados m\\xE1s r\\xE1pidos y eficientes. Las aplicaciones como la inteligencia artificial, el reconocimiento de im\\xE1genes y el procesamiento del lenguaje natural son campos que pueden beneficiarse enormemente de las t\\xE9cnicas de computaci\\xF3n paralela. Debido a esta demanda de t\\xE9cnicas de computaci\\xF3n paralela, existen muchos lenguajes de programaci\\xF3n disponibles espec\\xEDficamente para este prop\\xF3sito. El lenguaje Go es uno de esos ejemplos. En este art\\xEDculo, explicaremos qu\\xE9 es Go y sus beneficios para la computaci\\xF3n paralela.\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`\\xBFEst\\xE1 buscando ingresar al mundo de la codificaci\\xF3n, o tal vez simplemente tiene curiosidad acerca de los diferentes tipos de lenguajes de programaci\\xF3n que existen? Cualquiera que sea su raz\\xF3n para investigar la codificaci\\xF3n, Python es un excelente lugar para comenzar a aprender sobre programaci\\xF3n de computadoras y crear sus propios programas.\nLa codificaci\\xF3n es a menudo una habilidad aparentemente inaccesible, reservada para aquellos con una habilidad especial para las matem\\xE1ticas o las ciencias. Sin embargo, aprender a codificar no es tan dif\\xEDcil como podr\\xEDa parecer inicialmente. De hecho, incluso si no tiene experiencia en los campos STEM (ciencia, tecnolog\\xEDa, ingenier\\xEDa y matem\\xE1ticas), a\\xFAn puede dominar los conceptos b\\xE1sicos de la codificaci\\xF3n. La clave es encontrar los recursos adecuados y un proceso de aprendizaje paso a paso que no se sienta como una tarea onerosa.\nSi est\\xE1 listo para comenzar a explorar el maravilloso mundo de la codificaci\\xF3n de Python, siga leyendo para obtener m\\xE1s informaci\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABE0lEQVQYlWPoVmXoUWfoUQUjNYYeNcYedUaQiDpjjxoDwwQD9g4lhl497l5tzj4Nll51xh4Nll5N1l51ph51RoZFwbKrUhXbvcx7on37YgPaA+y7E0O6Ijy6Q1zbtbkZFvtLz0lUbpZj6FBl69DmatNgbVdjbldhbFdj6lJiYNiWq9Njyd1jqzrBx6zXgK/fWrbXRbvPXqXPUrrXUoZhkr3AhiLtZlulLg+TTk+TVme9FjejNjfDDm+LFltVhksH/KcnKndIMvQqMHYpM3QpMXTLM3QrMnQpgkiGuZnajRbSzQYiXRrMvWpg/2iA3NwDcjkTQ6skQ7caY5sWR4c6C1Qa7GMIYujVAPPBYdINlgORMGkAUcNScvLaB78AAAAASUVORK5CYII=",
+      "imageId": "6e7344b8-b847-4cc2-44cb-c8e76b9e7300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "python-un-lenguaje-para-todos",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Python: Un Lenguaje Para Todos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Un lenguaje de programaci\\xF3n es tan bueno como las personas que lo usan. No basta con que un lenguaje de programaci\\xF3n sea perfecto, completo y universal; si nadie lo usa, es in\\xFAtil. Es por eso que el dise\\xF1o de cualquier nuevo lenguaje de programaci\\xF3n implica mucha investigaci\\xF3n del usuario. Los creadores de Python, un lenguaje de programaci\\xF3n de prop\\xF3sito general de c\\xF3digo abierto lanzado por primera vez en 1991, reconocieron desde el principio que si quer\\xEDan tener \\xE9xito, necesitaban crear un lenguaje que fuera accesible y atractivo para una amplia audiencia. Y as\\xED, a pesar de sus muchas funciones avanzadas, Python sigue siendo transparente y sencillo, con una sintaxis que aborda directamente las necesidades y habilidades de la mayor\\xEDa de los programadores.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre esta brillante sintaxis de programaci\\xF3n y por qu\\xE9 deber\\xEDa tomarse un tiempo para familiarizarse con Python hoy!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlRXJW0vCUAAA4PNjhaCn7ILlS+RDSAQlaWExsF00dczctLGclaI5LwWpM92ZbU7UtR4kNDCcO9H3+oHDYKgglaCu9D56xsTQRpo+0qAO+4ZaqleAe/9AEHmEEFQ7p4HjcDgYCgXeu02EkKL1wLpnNyuwCKGu0rrGsVuW5gVW6cv2at6BMljb3hHyWai2E0mKjEbu+HTshvB6PSxHq4by3ymWnky1YjUv1Yql54dH6b5QyVmWLqsycG1ucVlmvOhTPaIxrphTPT1gXj8lhBaw+wJcG+4Ml/z6NXL9DDRb9WG5PHoqdHKRq/PEmR+QFyfNfHr4DUWNV8x2zSgXB+KbWfuZWRJHgAZzKRABy+ggtHRWc8dZOGhh27OlPZWrAlBFEjvaY2g8nqLiDBmjcSoewaMYTmE+v+8PFDTjuERbnLoAAAAASUVORK5CYII=",
+      "imageId": "8bf12e09-0e61-4535-ce9b-0116d4731f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-programar-mejor",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Cómo Programar Mejor",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La codificaci\\xF3n puede ser un desaf\\xEDo a veces. Incluso si eres un codificador profesional, a veces la l\\xF3gica y los algoritmos simplemente no funcionan. Los mejores codificadores saben c\\xF3mo abordar esos puntos dif\\xEDciles investigando soluciones, estudiando las mejores pr\\xE1cticas e implementando nuevas t\\xE9cnicas.\nLa codificaci\\xF3n es una habilidad que requiere un refinamiento constante para seguir siendo relevante en el mundo tecnol\\xF3gico actual. Si bien la codificaci\\xF3n puede parecer una habilidad muy t\\xE9cnica, en realidad tiene muchos paralelismos con otros campos creativos como la escritura o la m\\xFAsica. Cuanto m\\xE1s codificas, mejor lo haces.\nAprender a codificar de manera efectiva y eficiente es un gran desaf\\xEDo para cualquier persona que trabaje en este campo o que busque incursionar en \\xE9l. Pero una vez que domina los conceptos b\\xE1sicos, se trata de refinar su t\\xE9cnica y aumentar su eficiencia para que pueda completar proyectos m\\xE1s r\\xE1pido y producir resultados de mayor calidad.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AAEAAAAAAQAAABoNEVdARomMg1xdWzAZJB8VFhMMDQAGCwwzMCl/fHerp6S/movu///g+fvX5u3J19+8ytEAmHVh097d6/r9zN3hrYNv2+fpuM/awdbgwdbfuc/XAJJbQLy8uai7wI+fpIxcRdzg3bfM1a2/x6O3v5ywuAB1X1KmgW6qwMOyxceSZUvZz7/e9PLC0tOsvcPM3uIAc3p5mWJJytfSssfGimBIxa2YnbCxm6iplKOok6SqAKnCw4VYRaGRhomjp4JWQr2cg7LMyLfDway7vKm5uwCCnZ9jU0uZbFafy8aFYE6ziG2819O7yMS4xsW0wsIAfndweI+QfEMvqb+6fGdapnFXtMvIrru3rLq5qre3AIRSQ5Cys2I7L6iblHlzbZRWQKW6up+rrJypq5qnqUh4sEHf4FkvAAAAAElFTkSuQmCC",
+      "imageId": "7dde0f71-b3f1-4185-5f0f-14fbd2aa6000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "las-mejores-revistas-de-ingenieria-de-software",
+      "locale": "es",
+      "categoryLocal": "codificación",
+      "title": "Las Mejores Revistas De Ingeniería De Software",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los ingenieros de software deben mantenerse constantemente actualizados con nuevas investigaciones, tendencias y t\\xE9cnicas en su campo. La forma m\\xE1s com\\xFAn para que los ingenieros de software hagan esto es leyendo art\\xEDculos de investigaci\\xF3n publicados en revistas. Estas revistas se encuentran casi exclusivamente en l\\xEDnea. Muchos de ellos est\\xE1n disponibles de forma gratuita, pero algunos est\\xE1n detr\\xE1s de muros de pago para los no suscriptores. Afortunadamente, no necesita suscribirse a todas y cada una de estas revistas si es ingeniero de software, solo las que publican art\\xEDculos relacionados con sus intereses espec\\xEDficos y objetivos profesionales como ingeniero de software.\n\\xA1Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre las principales revistas de ingenier\\xEDa de software para que pueda elegir cu\\xE1les lo ayudar\\xE1n a sobresalir como ingeniero de software!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -5,9 +5,14 @@ import path from 'path'
 import { postsPath } from './paths'
 
 export const getPost = (slug: string): Post | null => {
-  const post = JSON.parse(
-    readFileSync(path.join(postsPath, `${slug}.json`), 'utf8')
-  ) as Post
+  let post = null
+  try {
+    post = JSON.parse(
+      readFileSync(path.join(postsPath, `${slug}.json`), 'utf8')
+    ) as Post
+  } catch (e) {
+    return null
+  }
 
   if (!post) return null
 

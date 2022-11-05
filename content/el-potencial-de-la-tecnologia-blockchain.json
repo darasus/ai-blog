@@ -1,9 +1,9 @@
 {
   "category": "crypto",
-  "imageSrc": "/articles/the-potential-of-blockchain-technology.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AFGCjVGCjVGDkFGIk0+QmkKlrTe0uiLMziDi3hn17QBGeYMwjJMwu7xH19E86OAE4d0G4d4E6+gP7ecg6t8AOWl0Bnl+CMzKAs7JAs/MAdHNAtbTA9nVBN3bf+/rADNlcARxc33GwmHPzGLOymXW0FDY0z/Y1Bja1oTt6QAxYWwEcXNDvLpZxcBKyMRMx8RTxsFHwr8w1c936uUALlxnA25wObKwTrm3Zr+8VcPAbMjFkNLOP9fRZuniAClXYxxlcwXDvgPFwQLEwALCvwW+uhu6uRPIxFHj3wAThImWKW5Qt31DxI9hfqsEyMUzvJ0Dy8ocy7RF4MUAEnB3lBpaVXRBYZpVzhh4MrOYnJc5EMa6qK4/huZ0ABiCiVhCZ0FXQFBeNZIfXB87NnhjIxFoaLaWHYC8VkWBmwOrutVcAAAAAElFTkSuQmCC",
-  "createdAt": "2020-09-29T12:00:49.742Z",
-  "updatedAt": "2022-10-11T17:17:00.532Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AFODj1WAjVZ/jFqKlVWYoD6orzi0uyPO0CHl4CD06gBIdYEviZIqu71K08874NsA5OAH5uIC8O0R8esn6t4AN1xoBH2CCNvXAdHMAtLOANHNANbRANjUAdzZdO/sADFZZAhvcl3NyV3LxmPLyGbTzkfW0FPZ1R7b1oDs6AAuVGAGb3JQycZaw79ZyMVfx8RZyMVmx8Mo089u6+UALE9bAm5wOr+9T7q4YsK/TsPAUcPAic3JPNXPXerjAClLVxdmcwDMyQK/vQDDvgTBwAnCxCy7uRXKyk3i4AAXeHyGKHdpv4ZWx4lNib8bw7gvv6AAy84bzLM83ssAHW91eBVee3EzcpJEoCSNVZR9lZ0/DcrExrAlgOyCABt9g0M5X2JaO0tWM24eYENGPG9kJBFmaceVC4W/WGjlmykiw7ysAAAAAElFTkSuQmCC",
+  "imageId": "06017cd5-47d9-4d09-6bc9-e23c9c577100",
+  "createdAt": "2022-11-05T21:55:45.978Z",
+  "updatedAt": "2022-11-05T21:55:46.239Z",
   "slug": "el-potencial-de-la-tecnologia-blockchain",
   "locale": "es",
   "categoryLocal": "cripto",
@@ -20,130 +20,55 @@
   "relatedArticles": [
     {
       "category": "crypto",
-      "imageSrc": "/articles/bitcoin-cash-whats-the-difference.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM3UxM3UxM3Uxs3Uxs3Uxs3Uxs3Uxs3UxM7WxdHWxwBGWUcrOC08Tz01RTdEWUYxPjM7Sz07Sz1JX0pmcWIAQE86JjEiOks1L0AvO044Nkk1PE04NUY1UmxMYnFcANDHj8S7gMnAis/GkMa7gtC7YNS9YMO3dcjAg9rRlACxpm3y5Z7g0ZDWyYv666DArl2zoVr55oinnGCypWcAvbFz8+SZ6dqbw7Z9+uug2sZwyrlt+ueJx757ysB/AK2VS7CXTr2hUrOcVLKVSreSNpZ3LbeSOMisUb2kUQCmmV7YyID25561qXTy5KL024STgUjPvHH44pOdj1gAyLZx1MSB8uKc1MuT9eus8dyKtaRj38h389qD0sOEAJ6UbpmRb5KPd5eTdJmVdpGKcZmPbJ2Tb5SNcZ6TclBtsBBv5D3GAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Apr 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "bitcoin-cash-cual-es-la-diferencia",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlWNgZhZlYhZnYZNjZZdlYRHn4JTVNQuydE01dc3UNAllYGAQ4+TTkVL3FhE3kpKz4OSWZWDgY2RV5hGz1raIYZCWt3H1K7R3S3V1jfbyjvP2iXdyDvf2S5VTcxOQ82KQVnRwcEvxDSuxccuwcEj09MuydYwJCM3VMwlS1g9l4BO1ltCOFpdzY+G3lVDxcwkoVjOKZODQUVBz0TQOYxDQSOKRD1M2z1EwyhTTTJWxrpazLBFUDJJS9zOwTWRgU05Wscg1C+nR92pTDF0k7TfXKGqWhnUut6yXsF40g7BBhph2gqxVuZBuPo9Fm2bQVFOfOiufMh2nbA7NaAZZ00RZsyRJg3hejTgGsSApiyIB1UjPmIag9A4V43AGBh5DBh49FgV/Eb04acscMZN0IaN0fvVQAY1AdkkHALgBQR8QdKWsAAAAAElFTkSuQmCC",
+      "imageId": "62d8fc7c-014e-4a36-73bd-6a4d37226e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-la-tecnologia-blockchain-puede-mejorar-su-negocio",
       "locale": "es",
       "categoryLocal": "cripto",
-      "title": "Bitcoin Cash: ¿cuál Es La Diferencia?",
+      "title": "Cómo La Tecnología Blockchain Puede Mejorar Su Negocio",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de las criptomonedas est\\xE1 creciendo r\\xE1pidamente y hay tantos tokens digitales diferentes que cada vez es m\\xE1s dif\\xEDcil para un nuevo inversor saber por d\\xF3nde empezar.\nNo todas las monedas son tan accesibles como otras; algunos tienen disponibilidad limitada y solo se pueden comprar directamente de la empresa que vende el token. Otros se pueden comprar a trav\\xE9s de un intercambio en l\\xEDnea (como Binance o Coinbase) o un servicio intermediario (como Changelly o ShapeShift).\nPero, \\xBFen cu\\xE1l de estas monedas deber\\xEDas invertir? \\xBFCu\\xE1l es m\\xE1s probable que tenga \\xE9xito? \\xBFCu\\xE1l tiene el mejor potencial a largo plazo? Echemos un vistazo a dos de las monedas digitales alternativas m\\xE1s populares y veamos qu\\xE9 las distingue.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mundo de los negocios est\\xE1 cambiando a un ritmo acelerado, gracias a las innovaciones en tecnolog\\xEDa y una presencia digital cada vez mayor. Desde plataformas de comercio electr\\xF3nico hasta redes sociales, sitios web y aplicaciones, las empresas ahora pueden comercializar sus servicios digitalmente a clientes potenciales en todo el mundo, al mismo tiempo que se conectan con proveedores y socios virtualmente en lugar de en persona. El surgimiento de la tecnolog\\xEDa blockchain como una forma accesible de realizar un seguimiento de este tipo de interacciones ha llevado a su adopci\\xF3n en varias industrias. Blockchain para empresas no se trata solo de criptomonedas como Bitcoin o Ethereum; es una forma de descentralizar la informaci\\xF3n para que no se almacene en un solo lugar sino en muchas computadoras simult\\xE1neamente. Comprender c\\xF3mo la tecnolog\\xEDa blockchain puede mejorar su negocio requiere saber qu\\xE9 es blockchain, c\\xF3mo funciona y sus posibles aplicaciones, tanto actuales como futuras.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/the-risks-of-blockchain-technology-for-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOLl/eLl++Pm/OTo+9fX45J7isvL2VU+MTgbCAkHBQDj5vzk6Pvh5fbj5/ro7Pzn6vKbkZeSgJqgl5hTMhsA5Of94+f63uLz3+Ty4+f26e3819nkpqKsrZ+xvbnNAOXp/OHl9tbb6dzg77/E0IqNlYOGjomMlN7h6aylswDO0uEkJCZaXGCqrbg3OTtwdHlCREhqbnTY3vHg5vsA3uPxWlxgdHV8hIiNvcLJvcLLw8nSub7KwsbXxcjeALW3xJ+irJSYnZWZn3F1epCTmWBhaFNVWy8xNYaImABydnxrbHJWV1tWV1trbHJ2en+JjJSnqbavs8G+wdUAm56oys/dyM3Z3eLu4ufz4+j04+f25en84+b83+T8AOjs/Ont/ujs/OTp9+Lm9ePn9uXp+uXp/OPm/N/k/HLK0lXal6FkAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Mar 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-riesgos-de-la-tecnologia-blockchain-para-las-empresas",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABI0lEQVQYlWNgYGBgZGRkZmaWlhAXERJkYmRkZGJkYGBgAgMGMWFhSTExVmYWIx0dFXkFRgZGUSEhMRFhqLS+lpaJnp4AH5+MpKSUmDg3B6eFgaGBlhbEVAY5aZnQoJAAHz8/Lx9fL5/I8AhbSyteTm5leUUJMTEGC1OzpPjE8NDwkMDg2OjYjNQMRztHKyODvNhgWQlxBl0tbXtrWxtLa3NjU1sra1sLa2cr6wWt1ZumtujKCDJYGhprKCnz8fLKSUlLiUnwcXG52diu7ypb1VNprKvFwMvNw83JxcHGbqitq6epxcHCoqmonBnqd3lOtrmGLNjTTMwcrGxGOrq66hocrCzcLMz8TEy+JmqFPsZQ78MBCzMzGwsLLxsbAwNDSnAEAOWKLY7/aYXtAAAAAElFTkSuQmCC",
+      "imageId": "9f1bd755-9d4c-4ee6-b4f2-43ace633a200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-beneficios-de-la-tecnologia-blockchain",
       "locale": "es",
       "categoryLocal": "cripto",
-      "title": "Los Riesgos De La Tecnología Blockchain Para Las Empresas",
+      "title": "Los Beneficios De La Tecnología Blockchain",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la \\xFAltima d\\xE9cada, han surgido numerosas tecnolog\\xEDas nuevas para desafiar la forma en que hacemos negocios. Una de ellas es la tecnolog\\xEDa blockchain. Es una tecnolog\\xEDa innovadora que tiene el potencial de transformar todo, desde las finanzas hasta las cadenas de suministro, la atenci\\xF3n m\\xE9dica, los bienes ra\\xEDces e incluso la votaci\\xF3n. Es dif\\xEDcil no entusiasmarse con esta tecnolog\\xEDa y sus posibles aplicaciones.\nSin embargo, con cualquier nueva tecnolog\\xEDa hay riesgos as\\xED como recompensas. Los riesgos de la tecnolog\\xEDa blockchain para su negocio son numerosos, pero si los conoce, puede asegurarse de mitigar cualquier posible inconveniente y aprovechar al m\\xE1ximo los beneficios que ofrece. Echemos un vistazo a algunos consejos de precauci\\xF3n sobre la implementaci\\xF3n de blockchain en su empresa.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mundo est\\xE1 lleno de soluciones digitales que resuelven problemas. Pero pocas soluciones digitales son tan efectivas y revolucionarias como la tecnolog\\xEDa blockchain. Blockchain es un libro mayor descentralizado y seguro que registra las transacciones de forma cronol\\xF3gica y p\\xFAblica, para que los usuarios puedan verificarlas. Este proceso elimina la necesidad de intermediarios como bancos o corredores. La tecnolog\\xEDa Blockchain tambi\\xE9n tiene otros beneficios, incluidas transacciones m\\xE1s r\\xE1pidas y una mayor transparencia. Adem\\xE1s, tiene el potencial de remodelar las industrias, desde las finanzas hasta la log\\xEDstica, la atenci\\xF3n m\\xE9dica y m\\xE1s. La adopci\\xF3n generalizada de blockchain representa una gran innovaci\\xF3n en inform\\xE1tica, con implicaciones para casi todos los sectores de la industria, incluidos los seguros.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/nem-the-smart-asset-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABD0lEQVQYlT3LT0rDQBSA8TmDt3DrRbyAG6/hDQR3rqSuil2JO0WsgopKVVpF/A9J28QkjsnkzcxLJmk6eUFSQfh2Pz6mZKGVyXVRalOhmWk9V9oqOZdQQcK0MqgLg6bErEK0qBYmahAWfphBY7KsRN0CKkKwKq1lTMCtiNgsM3/T+9Rb2eyt7h1z+CbgNYQkAvY/dS7ulzY6y4PRfuyTDJr0i4TPmgwIBaEIQn+9e7TWPeQQtgyeTSZsYXGD3EKIkZtzZy68GjwS05Yb5Iuih+v+zvbWQW93dHVCyqd0bIXLKIsajIY3/bfHS/dl8HR7+nx39jo8b8Cl1GGUB5T7Mzmu1MS2uWX6WSQftXQtOL8aMQtkCOXXQQAAAABJRU5ErkJggg==",
-      "createdAt": "Mon Apr 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "nem-la-criptografia-de-activos-inteligentes",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ACQlKCIjJiIjJhcYHBMUGSAhJiUmKSYnKycnKx8gIgAmJysoKCwkJSs+PDlPS0E7OjcrLDMuLzMqKi4kJCgANzg8NTY9i4Z14Natzr+FqpVZaFxBNDU7MjM3LC0xADc5R2RdUfHjqdnXuH11TpJ5O6eKR01GOi8xOyssMABLT1+MflzAp1qgmWtNSCxJQCSOeDtxZkhAQU03OEAAcniMopZ1uaVXk41iVU8xPDcimItWi4BYJigwJCQoAI6So5SSkNbEdcO5camgabiud7qrbTs3Jw0PEiQmKACPkpuGipaurKTh2qrr4afAtYNvaVcxNDtLTFBYWWEAa2x0aWpskYx9y8Sk2dO8qqORnZeIhIKFioqSfXyDALi3vJGMidnPu+DaxKqde7yxl9HKvaimqkxMU1xbYnSlenRwSeL8AAAAAElFTkSuQmCC",
+      "imageId": "d0701008-7153-43bd-3524-a2de4939d000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "bitcoin-private-el-bitcoin-centrado-en-la-privacidad",
       "locale": "es",
       "categoryLocal": "cripto",
-      "title": "Nem: La Criptografía De Activos Inteligentes",
+      "title": "Bitcoin Private: El Bitcoin Centrado En La Privacidad",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'New Economy Movement o NEM es una nueva tecnolog\\xEDa de cadena de bloques que tiene como objetivo revolucionar la forma en que se gestionan y registran los activos digitales. El objetivo de NEM es construir una nueva econom\\xEDa con nuevos principios de gesti\\xF3n de activos digitales. A diferencia de otras criptomonedas como Bitcoin, Ethereum o Neo, que utilizan sus cadenas de bloques principalmente como un libro de pagos, la cadena de bloques NEM utiliza un sistema avanzado de tokens CoIN de contratos inteligentes e intercambios at\\xF3micos para administrar casi cualquier tipo de propiedad comercial. El alcance de sus aplicaciones potenciales se extiende mucho m\\xE1s all\\xE1 de las transacciones financieras. La aplicaci\\xF3n sin cadena de bloques de NEM va mucho m\\xE1s all\\xE1 de proporcionar otro medio para comprar y vender cosas en l\\xEDnea. Sus desarrolladores tambi\\xE9n han creado un sistema de \"activo inteligente\" que se puede usar en casi cualquier negocio, organizaci\\xF3n, casa, autom\\xF3vil, barco, \\xA1cualquier cosa que se te ocurra! Echemos un vistazo a qu\\xE9 es exactamente lo que hace que esta criptograf\\xEDa sea tan especial...'))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Bitcoin ha pasado de ser una peque\\xF1a red de geeks a convertirse en la principal criptomoneda del mundo. Con una capitalizaci\\xF3n de mercado de m\\xE1s de $115 mil millones, Bitcoin ha recorrido un largo camino. Pero no est\\xE1 exento de problemas. El predominio de intercambios centralizados y servicios de custodia, as\\xED como la reciente manipulaci\\xF3n de precios, han planteado serios problemas de confianza entre los usuarios y usuarios potenciales de la moneda virtual.\nAdem\\xE1s, dado que las instituciones, los gobiernos y las personas reconocen cada vez m\\xE1s el valor de los tokens digitales, a los criptoanarquistas les preocupa que Bitcoin no sea lo suficientemente an\\xF3nimo para protegerse contra la intrusi\\xF3n de autoridades o intermediarios (por ejemplo, intercambios y corredores de datos). Esto ha llevado a un aumento en la demanda de criptomonedas centradas en la privacidad, conocidas como \"monedas de privacidad\", como ZCash, Dash y Monero.\nAfortunadamente, tambi\\xE9n hay una soluci\\xF3n para este problema: Bitcoin Private (BTCP).`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/cardano-the-third-generation-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABG0lEQVQYlSWQy0rDQAAAF7fbzT6ym2ya9JVksSmalhIRAk1pqhjagBohfVgU1JOIB3/Hg0f/VFrnNrdhADzSaBqNpmFQRrkQls1MaVCGMAEIE4QQwoSZtqW8UEfDKNb61FIO5QI0mgYXynHbqtUxubzOC8/rjEeJ74fCsgGEEBMa6iif5fl0nqbZtt4XRRmfj6WtAEQYYRKEg1m2eKi2P9+/y+JuGMXdvubCAphQ22lPJsmmfnp7fa/uN9Xt+iyeCOUx0waUC8K474fLm3I8SrbrZ9frtTp9LtQhTUrpuG1LOUGgL5LLbJqHOnLcLjNlvxeAgY7m00WaZuXqrq53H59fV4uirnflqto/voCTI4c1CEOE//8gTA4K4R+jQiYScaFAhgAAAABJRU5ErkJggg==",
-      "createdAt": "Mon Sep 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "cardano-la-criptografia-de-tercera-generacion",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Cardano: La Criptografía De Tercera Generación",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cardano es un nuevo proyecto p\\xFAblico descentralizado de blockchain y criptomonedas. Proviene de un equipo de desarrolladores que se hacen llamar Fundaci\\xF3n Cardano, con sede en Suiza. Fundado en 2015, el proyecto comenz\\xF3 con una versi\\xF3n anterior del c\\xF3digo blockchain llamado \"C Haskell\" y luego cambi\\xF3 a \"Cardano\". La inspiraci\\xF3n para este nombre provino de la casa del destacado cient\\xEDfico Galileo, quien naci\\xF3 en Italia cerca de la ciudad de cardENDa.\nLa primera generaci\\xF3n de criptomonedas como Bitcoin y Ethereum se basa principalmente en algoritmos de consenso de prueba de trabajo. Si bien pueden admitir transacciones y almacenamiento de datos, estas cadenas de bloques tienen limitaciones inherentes sobre cu\\xE1ntas transacciones se pueden verificar por segundo, as\\xED como qu\\xE9 tan grandes pueden ser los bloques individuales antes de que se vuelvan demasiado dif\\xEDciles de procesar de manera eficiente.\nAdem\\xE1s, existen problemas con la centralizaci\\xF3n de la miner\\xEDa que podr\\xEDan provocar un 51 % de ataques a monedas m\\xE1s peque\\xF1as utilizando solo algoritmos de consenso PoW.\nEs por eso que Cardano ha introducido un nuevo algoritmo de consenso de prueba de participaci\\xF3n (POS) de segunda generaci\\xF3n llamado Ouroboros que permite a los mineros actuar tambi\\xE9n como validadores de transacciones. Esto crea un sistema en el que ninguna parte puede controlar los derechos de voto de la mayor\\xEDa de las partes interesadas o manipular los historiales de transacciones para gastar dos veces sus activos digitales.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/bitcoin-vs-ethereum-which-is-the-better-investment.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJ0lEQVQYlSXPPauCUADG8fMtnF1aIpoLBHVov5UIDW5GJSLiUA1FgyJCqYTj5VLa4BII9yLoUHE4xhl8mfLzRN7f+h8eHjCZTGaz2Xq93u/3SZKEYfjTOJ/Pl8sFSJK02Wwcx/F9vyzLv0Ycx78NsN1uXdf1fT+KotfrlSTJ7XZ7PB4QQoQQsG37u3E6neq6TtM0CIIoijDGeZ4Dz/MMw2i32/1+f7FYCILQ7XY7nY6u60VRgOPxKMtyr9cbj8c0TRMEQVHUaDRiWbaqKmCapmVZDMNwHOc4znw+b7VaJEkeDodP1jRt+DUcDAY8zyOEVFVlWVYURYzxJ0+n0//ruq5DCFer1XK5DMMQY/zZlmVZUZTdbud5Xp7nQRBcr9f7/Z5l2fP5fANj2aMgeWqmOgAAAABJRU5ErkJggg==",
-      "createdAt": "Sat Dec 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "bitcoin-vs-ethereum-cual-es-la-mejor-inversion",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Bitcoin Vs Ethereum: ¿cuál Es La Mejor Inversión?",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Tanto Bitcoin como Ethereum son criptomonedas que han crecido en popularidad, disponibilidad y utilidad en los \\xFAltimos a\\xF1os. Ambos activos digitales tambi\\xE9n han demostrado ser rentables para los inversores. Pero, \\xBFcu\\xE1l es la mejor inversi\\xF3n: Bitcoin o Ethereum?\nCon tantas similitudes entre estas dos monedas virtuales, es f\\xE1cil ver por qu\\xE9 algunos pueden preguntarse cu\\xE1l es m\\xE1s valiosa. Despu\\xE9s de todo, ambos se basan en la tecnolog\\xEDa blockchain; ambos est\\xE1n disponibles como token digital; y ambos se utilizan como pago en algunos casos.\nSin embargo, cuando analizamos m\\xE1s a fondo c\\xF3mo funcionan estos dos tipos diferentes de tokens y qu\\xE9 tipo de potencial tienen a largo plazo, queda m\\xE1s claro cu\\xE1l es probable que valga m\\xE1s dinero.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/litecoin-the-silver-to-bitcoins-gold.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADc4MUA/OUpJQFJRSFpaTmFhVWVkWWdmW2pqX2FhVQBCQDpMS0JYV0xiYldubmB+fnCVl4mqrKCpq52pq58ASUg/VVVKZWRZcXFkfX1ttruszdC/ZWddc3RtwsKwAE5ORV9eU29vYX19bY2Pgdnd0+nr31dYU3N0b9HRwwBTU0djY1Z1dWWEhXJzdWvP0Mnd3tc5OjWOj4r29+4AVFRJZmVad3hnhod1Xl1SxMO86OjkR0ZCamllnpyWAFdWS2hoWnp6aoiIdoeFc19cVLm1sOno5Pj38/Px6wBVVUpnZ1l6eGmJh3aWlYGGhHJUUUaZk4rEvLTEvrUAVFRJY2NYdnRnh4V1lZOBoJ+LqqiUiYd4dXNkdHJjAFJPR2BdU3FuYYF/cJCOfZ2ZiKikkayplqyplqemlEyGlNcAm8UHAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jul 13 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "litecoin-la-plata-del-oro-de-bitcoin",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Litecoin: La Plata Del Oro De Bitcoin",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el momento de escribir este art\\xEDculo, existen m\\xE1s de 1300 criptomonedas. Eso puede parecer mucho, pero es solo una gota en el oc\\xE9ano en comparaci\\xF3n con lo que veremos en el futuro. A medida que ingresamos en una nueva era de monedas digitales y tecnolog\\xEDa de cadena de bloques, hemos visto surgir una explosi\\xF3n de nuevos tokens para desafiar a los viejos favoritos como Bitcoin y Ethereum.\nArmados con el conocimiento de que muchas industrias inevitablemente adoptar\\xE1n la tecnolog\\xEDa blockchain, los desarrolladores han creado sus propias soluciones \\xFAnicas para acelerar la adopci\\xF3n de esta nueva y emocionante tecnolog\\xEDa. Si bien la mayor\\xEDa de estas monedas son poco m\\xE1s que redes de prueba experimentales para mejorar las cadenas de bloques existentes como Ethereum, otras son competidores leg\\xEDtimos de los l\\xEDderes del mercado.\nAl rojo vivo en la actualidad est\\xE1 Litecoin, una versi\\xF3n alternativa de Bitcoin con algunas diferencias clave. Echemos un vistazo m\\xE1s profundo a c\\xF3mo esta nueva criptomoneda se compara con su hermano mayor...`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/ethereum-classic-the-original-ethereum.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAuUlEQVQYlXWOMQuDMBCF8///gaObcxK4GEHFxQ5iliRHMri5CnIQhSoUWtpiod/yuPfB49j55rgfIYQY43E/PiV7xbquxhhEjDGO40hEF22tPc/z9uRzfjUizvNc1zUALMuCiBftvd/3XSmltU4phRAu+jUIAFpr59zva/9gTdNIKTnnANC27TAMQghrbVmW0zSxqqqklEVRAADnXCklhMjzPMsy5xxLKRHR8MR733Vd3/fGGCLatu0B4GUHjXbWIf4AAAAASUVORK5CYII=",
-      "createdAt": "Thu Mar 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "ethereum-classic-el-ethereum-original",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "Ethereum Classic: El Ethereum Original",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es la cadena de bloques l\\xEDder en el mundo para contratos inteligentes. Provoc\\xF3 una nueva ola de aplicaciones descentralizadas que nadie podr\\xEDa haber imaginado en los primeros d\\xEDas de la criptomoneda. Ethereum tambi\\xE9n ha demostrado ser una fuente invaluable de inspiraci\\xF3n para otros proyectos que intentan construir plataformas similares con diferentes objetivos y caracter\\xEDsticas. Uno de esos proyectos es Ethereum Classic (ETC). Aunque puede parecer otra versi\\xF3n de Ethereum, en realidad es una continuaci\\xF3n del software Ethereum original, que m\\xE1s tarde se denomin\\xF3 \"ETH\" cuando su token alcanz\\xF3 su propia capitalizaci\\xF3n de mercado y s\\xEDmbolo de cotizaci\\xF3n.\nEthereum Classic es esencialmente el c\\xF3digo base original de Ethereum, pero con verificaciones de mineros sin restricciones, mayores costos de gasolina y optimizaciones generales de c\\xF3digo. Piense en ETC como el anti-ETH; una cadena de bloques que permite a los desarrolladores implementar aplicaciones sin ninguna posible interferencia maliciosa de los mineros o cualquier otra persona que pueda controlar ETH en el futuro. A continuaci\\xF3n, encontrar\\xE1 todo lo que necesita saber sobre Ethereum Classic, en qu\\xE9 se diferencia del \"nuevo\" Ethereum y c\\xF3mo puede comprar ETC.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/the-potential-of-blockchain-technology-for-business.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ADKupjStpjitpjitpjmvp0Cvp0y0rGW3rY/Bt3K4rgBAsahAsahiuK9/vrShxbm8zL7Wz7/Uy7zIwLWgvbEAtsq81dHC2tHB2M/A1s2+1s2+1s2+0Me4ubCjvsC0ANjPwt/Wx9vRxcC4rbKtoaGckIeCeFRQSlFOSM/IugCPioKkn5VrZ2KKh391cmyGgnqIhX2rpprNxLXUzsAAfHlxnpmQj4yElpOLr6qglJGGp6GY082949rL2NHDANXQxObfz7Ovo8G9sdLLvuTdzeTdzePay+LZyt7XxwC9yr/i2crl3M3m3c7l3M3c2sq/0cWSxLdyvbFOs6oAoce6zdTEpsi7kMS5cbuyPqylMqqhO6ykO6ykKqacAECvpTWqoiqmnCemnSOkmyWjmyOkmyCkmh+jmR2il0zGwuzkT8OKAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Aug 10 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "el-potencial-de-la-tecnologia-blockchain-para-los-negocios",
-      "locale": "es",
-      "categoryLocal": "cripto",
-      "title": "El Potencial De La Tecnología Blockchain Para Los Negocios",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En la era digital, las empresas necesitan crear nuevos activos digitales de manera m\\xE1s r\\xE1pida y eficiente que nunca. Esto se debe a que estos activos ahora son la base de la mayor\\xEDa de las empresas y servicios modernos. El valor de estos activos no est\\xE1 solo en su uso pr\\xE1ctico; tambi\\xE9n est\\xE1 en su potencial de reventa, o valor de mercado secundario.\nActualizar su negocio con la tecnolog\\xEDa blockchain puede ayudarlo a crear, rastrear y revender sus activos digitales como nunca antes. Blockchain es una red descentralizada que crea un registro de todas las transacciones verificadas por los miembros de la red. Estas redes se ven m\\xE1s com\\xFAnmente en criptomonedas como Bitcoin, pero tambi\\xE9n tienen muchos otros usos.\nLa tecnolog\\xEDa Blockchain tiene el potencial de optimizar casi cualquier industria, desde las finanzas hasta el comercio minorista e incluso la atenci\\xF3n m\\xE9dica. Si desea obtener m\\xE1s informaci\\xF3n sobre c\\xF3mo blockchain puede mejorar su negocio, siga leyendo para obtener informaci\\xF3n sobre el potencial de la tecnolog\\xEDa blockchain para los negocios.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "crypto",
-      "imageSrc": "/articles/ethereum-the-new-smart-contract-platform.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKElEQVQYlS3MvUrDQAAA4HsY38XHcHFy0k1wd/EHUUHc3MSCi+ggtQj+VLS1aS/J3eX37nqXpGnSJncxabuJIHzzB3Awth1uOZx4nPjU9hjyBfKFSbhhhQD5wnK4hSl2GQooDhkOJPIFdEUfhQDTiIT/XBoTFjt8Qlhss2gYSMCTLErzcZyJJBvHqUWCJIlEJEOZemwC4ulsVqjP3vfr+4cxghB5y+Wy+Sn1nGYSgiSb5/OSuL6NCSKOaQrH0PViVS9Wql6Bq9v7Vqv11R8eHx5gx+s8Pd/tZzvrj0e73cEoBT3T3drc6Bnw5a3babfPTs4vLx5uro3TbWNvjfzlA0iIxwtVFaqiPII2TablJFdSKqB0U6ha6UbpRleLQtV5WaWzMplqkZa/IAv8m8CACNsAAAAASUVORK5CYII=",
-      "createdAt": "Mon Feb 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLElEQVQYlQXBuU7DMAAAUP8Qv8IvMDCwdGdGAtGBb4ABihAD4pAQAiFVQYQeNEdzOcQ5bNclpIfruEkoRYT3AETUgdT1iR9iiBIvwF7IXMRsSAw3Bk5AHZ+4PoGIwAh7EXajkRsy64MO3Bh4ETMh1r3IhIkJExtRiFMPp3aSmiEDeDxNp4uZKHlezUUBEaGE0hGNCPVjBqZczueLXq+vqh1dN6Af1/VvWXCekYzZAI+zyYz3B1qn2zetoakT7ZELsa7ruvxZg/Prh9OzFvSDi1ZrOLQVRb0/4rubTweN9lv7CyhdrbGz/fSsaIZ1d3vT3D+8vHo5OVabW929jQCkE/5uOEE8ypdVLpcoJK+qlfFc/pU4kkDIKi9WRfktZSmXlSxWslxlMzH+FCwT/zmy/MVyNwgkAAAAAElFTkSuQmCC",
+      "imageId": "8e417ad1-e08c-438b-a2d1-400739b87d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "ethereum-la-nueva-plataforma-de-contratos-inteligentes",
       "locale": "es",
       "categoryLocal": "cripto",
@@ -155,16 +80,91 @@
     },
     {
       "category": "crypto",
-      "imageSrc": "/articles/iota-the-internet-of-things-crypto.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHklEQVQYlSWOXU/CMBhGm43SlRX6UjPWKYpDPhQ0RolIBBVQmIIEUQwScPiRIJkhxnhJjH/dyE7O3XMuHqQoiuqDsYrJUqyqqrIE+UNAo4QxCkABCGOYUD9CKsaYhigAWPK02cweHlQdR+M8oP0XCBOqcQ6W7AwHY++9PRyULuthM6aFI4GghoK6HopGN7KZt8/59+/i62fRf3atpK1zwIQiwhgTQqytnrevnYe7zujxrHUFlqQAQV1HoQhnQnBp2rlcLGWfXNRX4vGIYfgfEVhSrMcLlXKpXqs0LveKR5s728ndPJcmEwLJTMqwE41e1/Vmk/nHrTuu3rRcb2amtww7gfadWrpUHHjTZr83nnv305fu06j/OkkdF/LV8h9YNCyJ0wkKCgAAAABJRU5ErkJggg==",
-      "createdAt": "Fri Feb 11 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "iota-el-internet-de-las-cosas-cripto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AARLogRQqwRVrgRWrwRSqwVSrARUrQRMoQVFlAVBiwAGTqAAUakFWK4JcsUKlekKe8wGU6UIU6MIS5YJRYwAB0+hI2y2DW7CA6L0AXa7ApjrCXrJAkueAEqaAD6IAHmdw6+5xpe51iOGy2F3mlmg1wB30UZ4rmOKs1N6pgCrtsNPcJaPo7yqu82ruMieq72gutKotcS/xMvR1twApbLCi6C5qLbHgqPDW5fJIX7FeqLGa4WkVXSZVnSWADhkl3mMpFqEriKS4x+e8yKp/yOE0R9ZmShjoSVYkQACRZQAPosAX7gGn/8Gl/wFmv8HeNIKQ4cJR48HPX0ACEmXCE6cCVOhBmW7BmO7B2O8BkmRBz1/Bz+BBzh2AARCkgRFlgRFkwU9hgU6fwU4fAU7gQQ+hQU3eAUzcBMLgctnjj60AAAAAElFTkSuQmCC",
+      "imageId": "e1d599b2-5b4d-4c02-278e-a97206b21800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "dash-la-criptografia-centrada-en-la-privacidad",
       "locale": "es",
       "categoryLocal": "cripto",
-      "title": "Iota: El Internet De Las Cosas Cripto",
+      "title": "Dash: La Criptografía Centrada En La Privacidad",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El Internet de las cosas (IoT) es una red de dispositivos, sensores, software y servicios que pueden conectarse directamente con otros dispositivos. La tecnolog\\xEDa IoT est\\xE1 en todas partes hoy en d\\xEDa, desde su autom\\xF3vil hasta su televisor e incluso su refrigerador.\nEl IoT est\\xE1 compuesto por todos los dispositivos conectados que monitorean datos como par\\xE1metros operativos, rendimiento, uso, etc. Permite a los usuarios interactuar con estos dispositivos conectados a trav\\xE9s de aplicaciones virtuales o interfaces de usuario digitales.\nLos usuarios y las empresas pueden usar Internet de las cosas para rastrear las ubicaciones de sus activos, monitorear los patrones de uso y detectar problemas antes de que se conviertan en problemas graves. Este art\\xEDculo explica por qu\\xE9 deber\\xEDa invertir en Iota y sus ventajas y desventajas como oportunidad de inversi\\xF3n.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"En el mundo de las criptomonedas, hay muchos tokens digitales diferentes disponibles. Cada uno tiene sus propias caracter\\xEDsticas \\xFAnicas y usos potenciales. Hay miles de inversores diferentes que han comprado en el mundo de las criptomonedas, y cada individuo tiene sus propias razones para invertir en una moneda u otra. Algunas personas invierten en criptomonedas espec\\xEDficas porque ven un caso de uso particular para ese token; otros invierten en monedas espec\\xEDficas como cobertura contra otro token; y algunos invierten en funci\\xF3n de los detalles t\\xE9cnicos y el posible caso de uso futuro de ese token. Hay muchas personas que invierten en tokens espec\\xEDficos principalmente por sus caracter\\xEDsticas de privacidad. La privacidad se est\\xE1 convirtiendo en un factor muy importante a considerar al elegir qu\\xE9 criptomoneda comprar, especialmente ahora que tantas fuerzas nefastas est\\xE1n atacando a la comunidad de criptomonedas con ataques de phishing y hacks. El prop\\xF3sito de este art\\xEDculo es explicar por qu\\xE9 deber\\xEDa considerar invertir en Dash, una criptomoneda emergente conocida como Digital Cash, si est\\xE1 buscando una opci\\xF3n de inversi\\xF3n en criptomonedas m\\xE1s privada.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APzjqPzlo/rmqfzxzP/51v/yxPrgpfbbofvqz/rq1QD84Jj856D/+Mvx6bjCtIjGu57f1cH+7L/337D24b4A+uGe//K96+GUn4kjr5obyr2LsammzMa8++rM79i0APzz1v/+yLaiNsiwCaebGEhFO9rUy7KtpuXazPzt1wDr05/z3Yuvli333Qqcjg1waVL//e28ubfJwLb/8uAA79WT//K1y7BTxacHe3EqfHJb1dDFlZCL49bD+e/iAPnck/zkmvrnmcChPsOqP7uwjo2IhMO4qf/w0vPgwwD33Jz96bTo2Kjfz5ulmHyOhnvGvrXk3NDw5dD569UA++i2/+63z72KrJ1yqp12tKuSysGtwbek6tq//uzPAPrgn/vkpfjemfDVn/vemf/knf7nsf7rvfzsz/rkvq8X4hyQgj7lAAAAAElFTkSuQmCC",
+      "imageId": "38c1d3bb-4bf1-4be0-c9a9-59efb9340c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "zcash-la-criptomoneda-privada",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Zcash: La Criptomoneda Privada",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`ZCash es una moneda digital que tiene como objetivo brindar una privacidad sin precedentes al mundo de la cadena de bloques y las criptomonedas. Si est\\xE1 leyendo esto, es probable que sepa que esta es un \\xE1rea llena de potencial, pero tambi\\xE9n llena de riesgos. Crypto ha sido perseguido por asociaciones con mercados negros, piratas inform\\xE1ticos y estafas; como resultado, las tasas de adopci\\xF3n han sido lentas y los reguladores est\\xE1n atentos al mercado.\nSi est\\xE1 interesado en invertir en ZCash o cualquier otro tipo de criptomoneda, es importante que comprenda qu\\xE9 hace que cada token sea \\xFAnico. Si bien algunos tokens pueden ser m\\xE1s rentables que otros a largo plazo, su propia estrategia de inversi\\xF3n personal debe estar a la vanguardia al tomar decisiones como estas.\nEsta publicaci\\xF3n de blog tiene como objetivo brindar informaci\\xF3n sobre lo que hace que ZCash se destaque de otras criptomonedas, por qu\\xE9 algunos podr\\xEDan verlo como algo positivo o negativo y qu\\xE9 implicaciones podr\\xEDa tener en su valor futuro.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLElEQVQYlR3BOU/CUAAA4AdNIR4FytGWYun92tc+egCl3AXEQQMJg+BAGCDREIkQGcS4uLmY+JtN+D5AEHHiLBaPx8gEX7JnSkNXw2wRxQAAJJkkyESOvjEYQ0kxqtKYVx7Go4PT3BSFEBi1BSt3eC0y/KeK4PEMpBilztsYP+L2EXCCK7FQQBO3vRWDldJ8tvUey1k6mqolH2ip/NJqvdj9pdl6U+sHb/xjR2sRf+vhl+SCHQzWIt5r/rKMTnrtQ3L+cPcXBq9FdVU2wSBaIA6KbMkzRzLs5jnJEEykBZY38a074Aw2BU5HEsLdnd//9G7fy+YQO/f14R63diCanWSjmqUKGRbRBSShKQ63XudY7R2gOwfX6fwVRZNkApxdUkwqp1AZMZOTkxfpf449NDVAw8ozAAAAAElFTkSuQmCC",
+      "imageId": "f5ab3d94-95e7-4c56-c1fc-76d953631800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "el-futuro-de-la-tecnologia-blockchain",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "El Futuro De La Tecnología Blockchain",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mundo de la tecnolog\\xEDa siempre est\\xE1 cambiando y creciendo. Se introducen nuevas ideas, invenciones e innovaciones de forma regular. En el mundo de hoy, es posible que se pregunte qu\\xE9 depara el futuro para la tecnolog\\xEDa blockchain.\nM\\xE1s espec\\xEDficamente, \\xBFhacia d\\xF3nde ir\\xE1 blockchain desde aqu\\xED? \\xBFQu\\xE9 nuevas implementaciones de tecnolog\\xEDas blockchain veremos en un futuro cercano? \\xBFY qu\\xE9 efectos tendr\\xE1n estas nuevas innovaciones en nuestro d\\xEDa a d\\xEDa? Todas estas son preguntas que muchas personas se est\\xE1n haciendo en este momento. \\xA1Afortunadamente, tenemos respuestas! \\xA1Sigue leyendo para obtener m\\xE1s informaci\\xF3n sobre el futuro de la tecnolog\\xEDa blockchain!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5klEQVQYlUWNO4uFMBQG/f+1lYUWgiBYKAQEURQi2AQRwQckUWSLNCJIiogmZnevd/dOd5iPOYZSSkqpteacf73gnGutpZRKKeNx67pijCGEZVlijLdtexZvPY7jvu9d1/V9v+/7MAxvfd+3EGJZFkJIURR5nlNK53k+z/MTxxgzxpIkSdOUMUYI+cSVUkIISumjp2k6jkO++I3rP+77vq5LKfV/GlmWua6bZVkURRBChBAAoKqqOI7rujYAALZt+77vOI7neWEYBkFgmqZlWRBC43rR933btpTSpmkQQhjj8zx/fn8DWq0GkC5LpWgAAAAASUVORK5CYII=",
+      "imageId": "b5c0b3e7-44c7-4cc7-ed66-9330994bbc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "ethereum-classic-el-ethereum-original",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Ethereum Classic: El Ethereum Original",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Ethereum es la cadena de bloques l\\xEDder en el mundo para contratos inteligentes. Provoc\\xF3 una nueva ola de aplicaciones descentralizadas que nadie podr\\xEDa haber imaginado en los primeros d\\xEDas de la criptomoneda. Ethereum tambi\\xE9n ha demostrado ser una fuente invaluable de inspiraci\\xF3n para otros proyectos que intentan construir plataformas similares con diferentes objetivos y caracter\\xEDsticas. Uno de esos proyectos es Ethereum Classic (ETC). Aunque puede parecer otra versi\\xF3n de Ethereum, en realidad es una continuaci\\xF3n del software Ethereum original, que m\\xE1s tarde se denomin\\xF3 \"ETH\" cuando su token alcanz\\xF3 su propia capitalizaci\\xF3n de mercado y s\\xEDmbolo de cotizaci\\xF3n.\nEthereum Classic es esencialmente el c\\xF3digo base original de Ethereum, pero con verificaciones de mineros sin restricciones, mayores costos de gasolina y optimizaciones generales de c\\xF3digo. Piense en ETC como el anti-ETH; una cadena de bloques que permite a los desarrolladores implementar aplicaciones sin ninguna posible interferencia maliciosa de los mineros o cualquier otra persona que pueda controlar ETH en el futuro. A continuaci\\xF3n, encontrar\\xE1 todo lo que necesita saber sobre Ethereum Classic, en qu\\xE9 se diferencia del \"nuevo\" Ethereum y c\\xF3mo puede comprar ETC.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVQYlR3JS0rDQBgA4Nl4Ag/jQbyAuPIqblyKuFKEUly4FHRRwSo+kPSJ1Ehqk3aaJpnnn2SSZmYyot/2Q4JXUiiQZQVlDXktZSNkw3nDWEMp+jtRKiiVzBuQOpdbzjVnmhNNE1SAUlBWAK0qKuAqyxwwwxPLYksxqvK8AulK8BfR3nFn/6aXiMTxtabYkhXSwGvBnC5O7192jk52e69dsnIcN3RlSYQsMAPUFTRL8OHl7UHnLi8SxyLLQkN+UAuZlakR8TYNsT+K/UG1/jYsauniv+XGythp/uk9dy/Orq/OJ+8Prk4tmRsSoLbY1DScDZ7C2cd8+jbzHr+GfX/YNzSwJEC2wAaidDkmeCLWU7ocJ3OPLEaaBYYGvxJkCwBUIm0oAAAAAElFTkSuQmCC",
+      "imageId": "2a11f5d2-c684-4994-8ed6-f98acb287a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "nem-la-criptografia-de-activos-inteligentes",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Nem: La Criptografía De Activos Inteligentes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,'New Economy Movement o NEM es una nueva tecnolog\\xEDa de cadena de bloques que tiene como objetivo revolucionar la forma en que se gestionan y registran los activos digitales. El objetivo de NEM es construir una nueva econom\\xEDa con nuevos principios de gesti\\xF3n de activos digitales. A diferencia de otras criptomonedas como Bitcoin, Ethereum o Neo, que utilizan sus cadenas de bloques principalmente como un libro de pagos, la cadena de bloques NEM utiliza un sistema avanzado de tokens CoIN de contratos inteligentes e intercambios at\\xF3micos para administrar casi cualquier tipo de propiedad comercial. El alcance de sus aplicaciones potenciales se extiende mucho m\\xE1s all\\xE1 de las transacciones financieras. La aplicaci\\xF3n sin cadena de bloques de NEM va mucho m\\xE1s all\\xE1 de proporcionar otro medio para comprar y vender cosas en l\\xEDnea. Sus desarrolladores tambi\\xE9n han creado un sistema de \"activo inteligente\" que se puede usar en casi cualquier negocio, organizaci\\xF3n, casa, autom\\xF3vil, barco, \\xA1cualquier cosa que se te ocurra! Echemos un vistazo a qu\\xE9 es exactamente lo que hace que esta criptograf\\xEDa sea tan especial...'))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "crypto",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADg3MUBAOUlIQFFSR1paT2BgVGVkWG1uYnV1aWhoXABBQTpLS0NWV0tjY1dsbF56e22Tl4mjpZmcnZGen5IASUlAVlZLZGRYcnJjgIFwsran2NvLZGRcfHx01NXDAE5PRF9fUnBwY3h5aI+Rg9ve0/r770xNSGhoY+Hi1ABSUkZkZFd2d2h/gG10dGzV19Ls7ecoKCV7e3n///4AVVVJZmdadndpiot5YF9Vurm07+/pTUxJdXRxs7OtAFZWSmhoW3h4ao6OfH59bV1ZUrayq+3r5evp5+Pi3QBVVklnZlp5eWuHh3aenYl8e2pYVUuQi4O8ta25tK0AVFNIZGNWdnVoh4V2k5KAqaeUoqCNf31ufHhpendoAFFQR2BfUnFvYoJ/cZGOfZyaiKmlk7e0oLSxn6+tm6DulV6BYmItAAAAAElFTkSuQmCC",
+      "imageId": "b720dd28-dcfb-4033-5cea-c172856efc00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "litecoin-la-plata-del-oro-de-bitcoin",
+      "locale": "es",
+      "categoryLocal": "cripto",
+      "title": "Litecoin: La Plata Del Oro De Bitcoin",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`En el momento de escribir este art\\xEDculo, existen m\\xE1s de 1300 criptomonedas. Eso puede parecer mucho, pero es solo una gota en el oc\\xE9ano en comparaci\\xF3n con lo que veremos en el futuro. A medida que ingresamos en una nueva era de monedas digitales y tecnolog\\xEDa de cadena de bloques, hemos visto surgir una explosi\\xF3n de nuevos tokens para desafiar a los viejos favoritos como Bitcoin y Ethereum.\nArmados con el conocimiento de que muchas industrias inevitablemente adoptar\\xE1n la tecnolog\\xEDa blockchain, los desarrolladores han creado sus propias soluciones \\xFAnicas para acelerar la adopci\\xF3n de esta nueva y emocionante tecnolog\\xEDa. Si bien la mayor\\xEDa de estas monedas son poco m\\xE1s que redes de prueba experimentales para mejorar las cadenas de bloques existentes como Ethereum, otras son competidores leg\\xEDtimos de los l\\xEDderes del mercado.\nAl rojo vivo en la actualidad est\\xE1 Litecoin, una versi\\xF3n alternativa de Bitcoin con algunas diferencias clave. Echemos un vistazo m\\xE1s profundo a c\\xF3mo esta nueva criptomoneda se compara con su hermano mayor...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

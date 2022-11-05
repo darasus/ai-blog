@@ -11,7 +11,7 @@ export interface BasePost {
   createdAt: string
   updatedAt: string
   slug: string
-  imageSrc: string
+  imageId: string
   imageSrcBase64: string
   intro: MDXRemoteSerializeResult<Record<string, unknown>>
 }

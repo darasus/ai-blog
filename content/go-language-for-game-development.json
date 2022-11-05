@@ -1,9 +1,9 @@
 {
   "category": "coding",
-  "imageSrc": "/articles/go-language-for-game-development.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Kz0vCUADA8fcH9RdEl6BrlyApqEv1X3QID1EYEkWhaBGoNdS01PIUlqTp1L3p/LE0Ncu57U3f5vacSqeQgs/t+wVmv2oq/AjVRqiio7KOyob8byhCYIhQFWYM9P4z1k31C4us1mOHMjcUi2DQecPfjKmJ0wmZTshkbGCJQwLjuTx2Ow4BUVpjVdGxRLRBic0THRMDNevJNcvK9tYGIKiLe+0SzD5Ew9a9XTrzOjJURWqsry5ZlheA3Kr6rhwXzlPH+YkodDSMdE3FfSnosS3Oz4FuvWQ7sIaD10KnJUtddSAzdDIaOGNS1M7mMvis5dsV2Kiw7Qbf/OBDN87nuLucC/EwEqPsoJp9/MtP8Tufa59+8cK0n6NveRgppv2gkPByuZTXdRSj7HTCk0v6mBRVzARmR+H+FyOp6jj0Ug9FAAAAAElFTkSuQmCC",
-  "createdAt": "2022-05-24T07:24:39.604Z",
-  "updatedAt": "2022-10-11T17:15:50.390Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APbq1/Xq2PXq1/Po0/Lp1PHp1PHo1PPo1PHm0vDlzgDy5s/v4svu4svy6tr49e/z7uDs483w59P68Nv47tcA6t7E7eTP9O7l+Pj1///++fj07efU5+HKqKSWmZWIAPLp3PPs5vby7/f08NTTz+vq6Pr48MvIsk1OSFlZVQD06uX07ObT0MqrqqWCgX3Lysf6+ffq6NphXUxbVEMA3tTKrqiilpOOkI6K2tnW7Oro+Pf16ujkr6SLPTYpANzRyYiEfbCsqOjk4O3s6e/u7crHwLSsl9DHqGJcTADj2M7f1tDd19Hn4+HW1NGuqJm4rpLVzK3d1Li2q5AA08a14djU3NXRt7GqpZyHw7ma08ut0cis2M2y0serAM2+pNLIwqWdkKyhhszApMzCps3DptDGqtPIrdfMsF0s6os1IMghAAAAAElFTkSuQmCC",
+  "imageId": "7727ecc8-4007-4356-fcc1-7a24fef67900",
+  "createdAt": "2022-11-05T21:52:39.931Z",
+  "updatedAt": "2022-11-05T21:52:40.231Z",
   "categoryLocal": "coding",
   "slug": "go-language-for-game-development",
   "locale": "en",
@@ -20,25 +20,25 @@
   "relatedArticles": [
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-database-administration.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABF0lEQVQYlWP4Cwb/wADO3nFte+++vhsvbzDcvHnzwIEDf37/gcj9/ft3wpEJHA2sHK3s3M3cDBcuXFiwYMGuXbu+f/8OkTZdYOy31S9wZ5D2Mm2Gf//+vXjxYsGCBbNmzTp9+vSzz0/1l+iqr1Q33mSstFyeAW7fiRMnGhoa9u7d+/jzE68tHvJL5UuOlYB0P72x4tLu9MfXl3/8+LG7u3vVqlUfPnyAOJbh1e05l9cKXlsvdmEl371jWY8fP16+bPnixYtv3rz59+9fhtenfT9dCP58LfXj5aSXp3wgFp0+fbq1tfX8+fMM3+7Wfj+t+fOcyffTul/vVMED4Pz58yDD//75+utuzu9zen/u5Pz98xUeRBC7AcIS5IulEQdbAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Aug 10 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlWPw8/Pz9fUVERVRVlEWFRURFBSUkZEpLCz08/PT1tZmKCoqKi0tqa6pKymrnTJtZm5ujp2dbV9f75QpU1pbWxm4uDglJKVMjDRjgwwCXM15eHjZOThY2djExMSkpKQYmJmZmJhYuDkZ40NVZzYHqytJykgIyUgKMTMzMTAwMLCwMDMyMivJCLZU+u7dnr9gksPiqQ7dlQbJgYr8vBwgFTJS/MVpzvOmBJ7YE7J1nfX6VcatVXr1ufYpEToMDAxMkuJcq+Z5zZ4Yunhq5txJBdN7c2qKvNYv8g0LkAMZzsDAEBEqtneb3Y51DrvWWhzd47xxudaUPkkJcWYGVlZWDQ0NUTFZNTV5ezvJgnyriHAlM1MZWVk5RUVVkHRYWFhWVmZUVJSLi7eLi19gYHRcXFJ6elpQUCAAhJhTZ19iuCIAAAAASUVORK5CYII=",
+      "imageId": "f5326606-5171-4cb6-eb8a-b5572073c900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-database-administration",
+      "slug": "python-an-introduction",
       "locale": "en",
-      "title": "Go Language for Database Administration",
+      "title": "Python - An Introduction",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The demand for skilled database administrators is on the rise. As businesses continue to adopt cloud-based solutions and big data technologies, the need for skilled DBAs has never been greater. The average retention rate for DBAs is at 96 percent, which means that this role is in high demand and there aren\\u2019t a lot of people who want to do it.\nThere are more than 20 languages that you can use to build applications databases. Each has its pros and cons when it comes to the various tasks involved in database management such as creating views and stored procedures, monitoring performance, creating indexes, and auditing user access privileges.\nDBAs should have broad knowledge of different database management systems (DBMS) so they can identify which one is most suitable for each scenario. In general, there are three main types of DBMSs: Relational Database Management Systems (RDMS), Document-oriented Database Management Systems (DDMS), and Hybrid Database Management Systems (HDBMS).`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you looking to break into the world of coding, or perhaps you\\u2019re simply curious about the different types of programming languages out there. Whatever your reason for investigating coding, Python is an excellent place to start learning about computer programming and creating your own programs.\nCoding is often a seemingly inaccessible skill, reserved for those with a knack for mathematics or sciences. However, learning to code isn\\u2019t as difficult as it might initially seem. In fact, even if you have no background in STEM fields (science, technology, engineering and mathematics), you can still master the basics of coding. The key is finding the right resources and a step-by-step learning process that doesn\\u2019t feel like a burdensome chore.\nIf you\\u2019re ready to begin exploring the wonderful world of Python coding, read on to learn more.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-secrets-of-great-coders.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKGgo52dn6qqrKmoq6ysrra2tNzc2tra2NXV09DRzgCop6qlpaetrbC6vL2pqanMzMrl5uPi4uDd3tvZ2dcAqairr66xzMvOqampwL215NzRsrSzlpiX3t/ccXFxAKinqr+/wb27u7uvo7qmlKOHb4uLiW1tbampqSwuLwC+vcC3trmfnZuNd2WAZlF+ZlGwln+mnZIVGRzIycYAr66xmpqaWFpcOzMsf2RQim1XXEc6gXNlk5OR29vZAJSUlKytqmFjZS4wMlxWUVFBN3huZqakoODg3uLi4gCioqDj4+NucHIdISXT09HCwL5DRUdJS03l5eXi4uIA2dnZ5+fn0tLSxcXD6+vr6enpo6OjnJya4eHh4ODgAOHh4eXl5enp6evr6+vr6+vr6+jo6OPj4+Hh4d3d3XsIxzBOAzUdAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Aug 18 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJ6eoJ6eoKamqKipqq6vsbGxr97e3NnY1tbV087OzACmp6mmpqirq629vsCkpKTMzczw7+3r6efg393l5eMAq6uts7O0ysrMrK6ww7+49u3hoqSliouM5ubkaWppAKurrcHBw7+9vLyxpbSgja+Sd4OCgGtub6+vryQlKAC8vL+6uLuZmJWYgGqGaVF3X0y4n4iqn5QeISTAwb4AsrO1lZSUU1ZYMSkkclhDhGhTYEk4d2lcl5iW19fWAJGQkbm5t1teXx4gImBaVl5NQHFnX6GioO/u7OLi4QCenp319PNyc3UiJSjU1dTIyMUwMTRAQUTu7u3g4OAA2NjX7uztycnIvLy77u7u9fT0nZ6dlJWU5ubl39/fAOLh4eXk5O7s7fLw8evr6+rp6vDu7uvq6uDg4N3d3KHOx3QJKtjMAAAAAElFTkSuQmCC",
+      "imageId": "1f6d62fb-c310-4cfa-e8d6-424ea30ef300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "the-secrets-of-great-coders",
       "locale": "en",
@@ -50,55 +50,25 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-top-software-engineering-trends.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA70lEQVQYlWXPy2qDQBQGYN9/2U0foFBoaWmhuzQhkSy8gGM6GutoHO0ME63aTiplcIgHWtFdzurA93MuBmX8+u7hebX+Okm4KOPq5tYLQ631pQGAkdAcACjjx7oRn3X7fSqbtmxa2f2MPKXsN+wG4ePraot8FMVuEJqeN/LCtnckSRnDabZ0XQcHKIp3JHnZbPeHg/FO6dN6E2V52bRxnidFcb9Y+jGJsuxDHMfhWutfpbquq6pKCME5l3L+wtinNCkYAEgpfd9HCDmOQwiZue/7qavrGmNsWRZCyDTNKTFfDgDDeRjOAwAopaaN//wHESINOE2k/ogAAAAASUVORK5CYII=",
-      "createdAt": "Tue May 24 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJ0lEQVQYlU3NO0vDUBjG8fOlXFwcXMVVRByEfgbBVRBXB5EiooNDRWlB22oaQ9K0GjFYWzpU2rQVUYv2ksSc5ORyLq+0IPjjvz48yLZtQojruoQQx3Ewxp7nYYx93yeEoEIhr2qaXtZ0VXm4ryqyVFaVaqUiSZJlWSgIAkqTIIptP/aiZILDsRf6JIzjiDGGAKA9jhbz8YocrZWC9dtwucS3awKAM84RANdffxYOm6uZ1kbWSuW6S0fPW8qACUEpna4/3/pqIceT6KaYn4y+R+99XS7SJAYAlDYHm+ePx/WxAGg0Gp2P4d6Tu3Pd3L0yT+tfaH7fmDuopS77gnMAGDpeWnu5MLtZs50xWujM7J3cdYzeEEAklHIh4J/p94zgM4zxhDL61y/3HADB9M1QiAAAAABJRU5ErkJggg==",
+      "imageId": "bb88e37c-23a4-4c80-6515-1054802de400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-top-software-engineering-trends",
+      "slug": "building-a-javaserver-faces-application",
       "locale": "en",
-      "title": "The Top Software Engineering Trends",
+      "title": "Building a Javaserver Faces Application",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software engineers are tasked with finding solutions to complex problems every day. The software industry is constantly evolving, and engineers must stay up-to-date on the latest trends and technologies in order to keep their skills current and relevant.\nSoftware engineers should expect to see an influx of new software engineering trends in the coming year. Engineers need to be ready to adapt their skills and master new techniques as the world of software continues to rapidly change. As technology moves forward at a rapid pace, it\\u2019s important for engineers to be self-aware, constantly learning about new ways of doing things so that they can continue providing value through their work.\nHere are some hot software engineering trends you need to know in 2019 and beyond. Read on, and get ready for a future filled with opportunities for those who can keep up with these changes.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`JavaServer Faces (JSF) is an implementation of the standard server-side UI component architecture called \\u201CFacelets\\u201D. This makes JSF a framework that uses XML markup instead of code for building and rendering user interfaces.\nA JavaServer Faces application basically is a collection of a views, managed by a controller, stored in an archive file and deployed on a servlet container. Such applications are known as \\u201Cheavyweight\\u201D because there are many different pieces involved to build it.\nAs we know, JavaServer Faces technology comes with several built-in tag libraries and default libraries such as standard action message, navigation rule, focus handler, and so on. Each library offers handlers or actions that enable you to use different components in your application. These components can be combined in any way you want to meet your specific requirements.\nIn this article we will go over what you need to get started creating a new JavaServer Faces application project in IntelliJ IDEA`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-benefits-of-learning-to-code.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOjy/OXx++Dp9M3X4dvn8NDe59Li7czc6c7j777T4ADW5Ovf6/XR2+O/ydHN1+GyvsbQ3ufL2+bH2eW/1N8A5O740fL36PD7s7rDwsrSvsjQusbQuMfSqLe/oLC6AOnx+q+5w6yxu7i+xbS8wr7Gz73H0au1v6q2v5elrgC8xM0hICNRTFDr8vvr8vvm7/rc5vDd6fXZ6fbN3+0A0trjhGRhpouL3efx4uz25PD62OHs2+n14PD83O78AH675o2Oo7CptHWBj5KeqomXooKPlqCvt9fr+9nt/QBgmNNXjcbNxcrRxcnIyNQeJioLMjMxR0vR2uXS4OsAYbLtSY7SVnWjmoeLnIKHbGRsNTc7aGVoybi8ybq9AF6Kz0aJyWOb5ZicsZCVrrKTkK6gosezscy6ucy5uxVD2oFbGCUWAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Apr 22 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-benefits-of-learning-to-code",
-      "locale": "en",
-      "title": "The Benefits of Learning to Code",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Learning to code is challenging, but it can also be incredibly rewarding. It has become a highly sought after skill in recent years, with the demand for coders rising year on year. There are many reasons why learning to code could be beneficial for you as a career. The opportunities available to those who know how to code are considerably expanded.\nCoding has become an essential skill in almost every industry, including marketing and sales, business analysis, data science, cyber security, artificial intelligence and robotics. Learning how to code opens up opportunities in almost any field because of its ever-expanding scope. As such, coding skills are becoming a necessity for anyone looking to work in digital or tech-related industries. Here are some benefits of learning to code that might help you decide if it\\u2019s the right career path for you:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/the-best-coding-plugins-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHElEQVQYlUXLTU7CQBiA4bmI0Ru4MGFhvI0uvI7hBMaFiQTFhQlIXMAKMcZUQxFkgNLSdihfZ5i/zvQnMerCZ/vmRYBH65nTXzp443EuhVBCqJTxiEAQhEispsZ3X/z3t3A8CEdugvUvzmWSAPLwcE5mNsFJuvgMnRiWOPIkA8mAMYa42imTlUVZ/SlsVVVlnne7T/X6BTJaUUo7nW6j0bi7vW82W71ez1p703o4Oa4hJXaF/b+FEFpra+3Q+djbP0Dj6bM7fVVANAXDqZFsgyfEw5MvfHhUQxkFN3D7k0GZmzI3BQMjmdjR5WJ1enaORBxlFHLJc60sJT+ZUw7ge6vLq2u09RciXmdbYuJAk0CnG5mQNIr8+bzdfvwGN+AFKqmaJUkAAAAASUVORK5CYII=",
-      "createdAt": "Tue Feb 15 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "coding",
-      "slug": "the-best-coding-plugins-for-developers",
-      "locale": "en",
-      "title": "The Best Coding Plugins for Developers",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Software developers are some of the most valuable employees in many companies. They can take an idea and turn it into a useful product that people want to use. The best coders are constantly looking for ways to improve their skills and find new ways to make their work easier and more efficient. Fortunately, there are plugins available for almost any coding program out there.\nCoding plugins can significantly improve your productivity and effectiveness as a programmer by making your workflow faster and more efficient. These plugins cover everything from debugging to searching for code snippets you may have forgotten about but will be grateful to have again should you need them again someday. Here\\u2019s a list of the best coding plugins for developers that can help make your job easier, simpler and more productive:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "coding",
-      "imageSrc": "/articles/how-to-use-coding.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlW3OPUvDQADG8ft+OgguTt1c6uIiiOAggiiSSSPiIFoVIVg0JV6OaNIq2BIKNkqrGFJqXmxibGrSaF4uPRCa1d/6/IcHfNpBt+vqhjcKojhKyUSWxmOcEEJA7U5rPGjXlc75iay0LEIIDrwBuxNydOq7ANlZpfcjSZKh97Xv6Io5s45X+cU5pjgj7y4D3UlavayuYqmdOH7WlGVYnP04XdsoTJXXF4Bt29KEIAgIIYyxWJhWNufDCmVfboHXYeb/kvuXSHfj/NeX0nws7/d5egApYFkWhBAhxHEchDAv3uXb9uHKSNwDb15284xrnfTJSLxwnM8Y4/rRtsFSwDRNlmWr1SrDMKVSied5VVUJIUPHFOklkOf/alwc/AEpAvY6NRVvTAAAAABJRU5ErkJggg==",
-      "createdAt": "Mon Mar 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlQXBy0vCcBwA8N//1qljp+oWQvegDgUVBBFBRMGKDiGkQYVIsjTztalL0yCthqk99jCbT3xsuvd++/b5oI40+mBb9Wq30x4riu44tgtgGaqhTzEAop7EEMnGIq9+b+6z1gYAbdDrB4+sh1PQRygq4WhDi2UKzdZAUt1L34Xo26RXF4j5mRyxjrodmeXl57qcKPUrTSUVDWc3PKJ/Z2tx9mp7Gf00fln2LU4x6TRdLBZAn1BLc+VdD2TPeuQ+4seGIqvU+0iQhqahmYY+rFVerokGeTiMHqP6N5/KFhNJKkTepzOMaegAwOXj5ZMV7dGLqn2zxFkFzi4LxkAxXWy7GDu2k/cdcME91Jb+cgzNZGgqGQsEbsKRO1HgAaAlfKWINYRd17KdyVR1HIyxq2maqqouxgBQuD3/B1R39Yibe8XWAAAAAElFTkSuQmCC",
+      "imageId": "e347c6c5-4348-4ba7-27e7-4f23b10ea500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
       "slug": "how-to-use-coding",
       "locale": "en",
@@ -110,61 +80,91 @@
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/the-best-coding-frameworks-for-developers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APHn3+LX0vbr4/Hn37mwrODSybWOcqR7W6B3Wp92WQB9eXja1M+8trGSjovOxcHy5+Tk1c62j3OmfWCdd1sAwr67ioiGz8vI9vDr9+zp9Onm8ufk5tfRu5J1sINjALy6tpKOi9fT0MC8uYF9fJyXl/Tp6PPo5+bX0biQcgBLSUfGwr66uLTEwL2yrquinZyRjYzx6+jy5+Tg0csAm5mY+/jyo6GgoZ+ds6+sv7u3sq2tsq6r7+bl7OPhAOvn5Pr28fr286umpoaEg5yamaelo7Gsq6KdnJ2YmADt6+fj4t7p5eHr5+SUkpGXlZOEgoCbmZjNycXk4N0A/v35/f358e3p+/f019PQ8+/s8+/s8Ozo7enm6+fkANnZ1ebk4NLQzNvX09LOy9XRztvX0/Ds6Ovn5Ovn5CWm4v4zTD/ZAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Apr 20 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AItjHpFpIZdsIJxtHpxsHJpqG5VoG45kHIRdGnpUFwAmGQM6OylmcluIhl2Wjl+gkVyeikyafjibdiiPZxsAknc3l4JEoo9QpJdenZVjk5FmjpFse39gnYpMsYw0AKvMvZ+5qKnAraO3prXApLnEqJKhkqq/r6/HtpGjjwC97eyXvbys1NOavsGdubity8uFoKWrz9K24OGZu7oAb352d4d/kKSYpb2yiZOGh5OKlqafjZyUlaqglKmdAAQAAAAAAA8HARUKABcMAgoCAQYAAAoDAA0EAAkCAABwVyVwVyZxWSdrVCZtVSZkTiNeSSBbRx5YRBxUQBoAqoU5sIs+tZBCuZNEupRFuZNDt5FBtI4/r4k5qIEzAJZzLZx4MqB8NqN/OaSBOaSAOKJ+N597NZp2L5NwKQYghXjWNVvfAAAAAElFTkSuQmCC",
+      "imageId": "e91b2d66-0689-4b8b-874c-b237b5516300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "the-best-coding-frameworks-for-developers",
+      "slug": "the-best-coding-ides-for-developers",
       "locale": "en",
-      "title": "The Best Coding Frameworks for Developers",
+      "title": "The Best Coding Ides for Developers",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Today\\u2019s app developers face intense pressure to develop high-quality products that meet multiple user needs in the shortest amount of time and with the fewest resources possible.\nThe solution is coding frameworks, which are libraries of pre-written code designed to assist developers in meeting these demands. These coding frameworks make it easier for coders to build applications that serve a specific function or group of functions, but require a lot of time and effort to create from scratch. There are many coding frameworks available for coders working on software projects. Which framework you choose will depend on what you\\u2019re developing, your skill level as a coder, and your long-term goals as an employee or freelancer who develops software for businesses or other professionals. Keep reading for more details about some of the most common coding frameworks.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Software development is a challenging field. Even experienced developers have to constantly keep learning new things, because new software solutions are invented every day. But it\\u2019s not always easy as everything has its own complexities and challenges. All developers have their own struggles, especially when it comes to finding the best IDE for coding . It\\u2019s important to find an environment that is both comfortable and productive, so you can get your work done faster and with the highest quality possible. A good IDE provides shortcuts and other tools to boost productivity while making the entire process more enjoyable at the same time. Today we will discuss some of the best IDEs for coding that you can use if you\\u2019re a developer or planning on becoming one in the future.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-cloud-computing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA7klEQVQYlWP4hxcwIHM+ffr08OFDFOk1q1bMmzNr0oS+rZs3btuyaf3a1Qvnz104f+6MaVP27t7NcPXq1YcPH54/f37Pzl1v3ry5c+fO9evX37x5c3Df/oP79jNIxX5cc/jnz18IA//+/fv508v7t088eXSZQSnlC6/fm9lbP//79+ff3yf//v37/P7++RPrjx9cs3/3CobQ1q/pEz7df/7g3+uwv7cY/rxw+v2h98Ob2+9e3n798hbM5a+i/jy1/vvY8M8zjz8PZREufwMBT9c9OOdw/6zjg7Oebx5Of//2zZu3rz5+fI/ib8xgAQCGagAgiuQPYwAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Mar 10 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVQYlWNoyWWbUM7eX8YW4sK0tJ2lPZ9lchVbQxaHqxVLax4bg6o8S1UKS122UGaMbGW61OQamYYc0awI9hA31mnVbAzsbMxsrAyc3MJauqYycurqWmYiYnIMDAzsbEwCfCwMzFDAxAAGjGDEycbMzsYK4of4WBjpKIiLCnBygQALC2uAj2N7fWFZQbq9nSVDZVFCcVa4v5uRmrIkJyeXsqJ0VUm6s5Oji5NtXmYig7mpUUiQV05aSHiAuYgwn5CQQGtjmZmZGRsbm6SEOIOttb6qsoKLi21VaXJEkIOlsUp7Y2FKcpKoqKiAgABDbppHQoyLna2JlaVZVkZsWV5MWkKIpoYmFxeXiIgIQ0ZiYEqsY06ah5+3nZGRgbOTo421lba2to6OjpqaGgCXoEBeX6ZSZwAAAABJRU5ErkJggg==",
+      "imageId": "1936a5b0-8c0c-4332-df95-2580a6bd3100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-cloud-computing",
+      "slug": "python-the-language-of-choice",
       "locale": "en",
-      "title": "Go Language for Cloud Computing",
+      "title": "Python - The Language of Choice",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The cloud is the future of computing, and its adoption continues to grow at a fast pace. In fact, IDC estimates that worldwide public cloud services will grow from $206 billion in revenue in 2017 to $345 billion by 2021. New types of cloud services are also emerging every day.\nA majority of organizations now use cloud services as part of their IT strategy. From handling peak demand to reducing costs and improving availability, cloud-based services have proven their worth for many businesses. Even so, making the move can be challenging for IT professionals and software developers. There are several considerations when choosing which programming language is best for creating software applications for the cloud, including the following:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the software world, it is not often that a programming language becomes so popular that it is considered the standard. That\\u2019s exactly what has happened with Python though, which is why in this article you will learn all you need to know about this programming language and why it\\u2019s the best choice for your next project.\nThere are plenty of programming languages available right now, each with their own unique pros and cons. However, not all of them manage to capture hearts and minds like Python has. This dynamic general-purpose programming language has become one of the most commonly used since its release in 1991 and remains so today. In fact, as we look ahead at trends in AI, data science and machine learning, there\\u2019s every indication that Python will continue to grow in popularity for years to come.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/python-the-language-of-the-future.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABP0lEQVQYlTXOz0vCUAAH8JfPt/Xj/wiCKOgWdI8uXTpJly5dunULOnQb3aSwH1BhhUSCgpZkSi6LzKxmhxRDsNjKSp+0zW1N3/YkhvTle/p+Ll9AKaW2Zpnrnd/Jjj7o1JiyzQ1i65RSYFmSpQ351gaSMTYa6j867E2c9OXSDFGH260PYGmz4gt6LaLCA9TrPVLZVS1DvQ47GtR+PKCljl0l3fs77FmEjUeZxCk6PmAiQZS/c6u1UaArK0XB1fyCTxkUjzI3KfY2xWQvUaUA8ecSaBNTxgtERbYCM+lxuTZCmy6iou/3edM0gPOcUlUpydir4MX7rKdenW40nru7w01NyT+ex2Pe3e25cslPCOmaw/yFPxSYCAZmrtOrb5W8KIqSJGGMZVkmhIBcJhAO721u+Zb/w3Ecz/OCIBiG8QcRmdP4ur03MgAAAABJRU5ErkJggg==",
-      "createdAt": "Tue Mar 01 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9UlEQVQYlSWNTa9EMBhG/f8/Y9YWJISF0I7MCBsLC26ZKapvK7763jDP9uQ5xzruISIhpCzLoijyPC+KYhgGRLSMMed5ImJd177v27adJInneZzzC3POpZTLshzHue/7z4SI67oaY6y+78dxXJZFSjnPMwBorbdt+3w+dV1bfd8JIQBgnoXW+jwNY4xS6jhOEASX/IdvwZxl2eNhp2nadd26rpZS6maaUur7fhAEjP3t+y6EUEpd7e/3G0XR+/0CAERUSgOAlPJ6A0BZllVVjePYtu00TZzzpmnatmWMWXEcU0oopa7rEkqez6fruWEYEkKyLPsHs/EN4EFM0AUAAAAASUVORK5CYII=",
+      "imageId": "b9ea85f8-da97-4184-3d04-f29081622800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "python-the-language-of-the-future",
+      "slug": "python-a-tool-for-data-analysis",
       "locale": "en",
-      "title": "Python - The Language of the Future",
+      "title": "Python - A Tool for Data Analysis",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The programming industry is changing rapidly. New languages keep popping up and old ones go out of fashion faster than ever before. But Python remains one of the most popular programming languages in the world, and its popularity shows no signs of slowing down any time soon.\nIf you\\u2019re considering a career in software development, learning Python can open up a number of exciting opportunities. The demand for skilled programmers is growing year on year, with demand highest among small businesses and startups. In this blog post you will learn about the history and usage of Python as a programming language, why it\\u2019s so popular right now, and how you can get started learning it too.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:a,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:a,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Data analysis is a crucial element of many fields today. With data being collected from all sources, businesses need to use the data effectively in order to drive their company forward. Organizations are turning to data analysis software to process and understand the information they have stored.\nAnalyzing data is a complex process which involves cleaning, exploring, visualizing, and understanding data from different angles. Python is one of the most powerful tools for data analysis due its versatility and extensive libraries for data manipulation. In this blog post, we\\u2019ll explore why so many businesses choose Python for data analysis, what it can do for you, and how you can implement it in your own business.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "coding",
-      "imageSrc": "/articles/go-language-for-software-development.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAsUlEQVQYlWP4spn56xaWb5tZvm5hQWN828zC8O2wOZyDpuLrFhaG70esvh11+H465Osm5u9Xi+FyEFMZvp0J+XbI5Ntx56/beL5fSvu6U/TbIROEbhiLDaIcDTF828zy/Uzk1xMeICuOWH0/6f3tsOW3447fjtn9OOXH8HUT849Tfj8upv04H//9YgZIxdXiH5cyvx93/LpHiQFuJsLwHbxfDkOth9qN7BkUu7GKwoMFAE5TsjfQKBEvAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jan 12 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADGauDObujObuj6gvT2gvDWcuzufvDiduTacuTWduwBGpMCGw9SNx9Z1us+Ox9aTydmMxtVnsstbp8ReorgASqbBpdLeqtXgdLrPicTVms3aksjZdrnLW6e8U5ewADGauEimwFmtxlquxkynwVSrxF6wyF6uw1OlvFOivABBob1XrMWCwdOXy9mczduQyNePx9dOqMNAob4znLoAQaG9V6zFhsPUns7cmczak8nYkMjXV6zFPZ+8OJ27AD2fvFGpw1mtxlesxU+ow1SqxVSrxVWrxUOjvy2XuAB4vM+Nxtat1uGVytmczdug0N2n09+MxdV5vdAplrYAcbjNicTWo9HekcjXlcrZk8nYnc7bjcbXeb3QLJi2ADiduz6gvjmevD2fvTqevDacujaduz+hvjygvS2YtzdFuqgWoICdAAAAAElFTkSuQmCC",
+      "imageId": "398d5275-dbea-44ac-655e-163e1167db00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "coding",
-      "slug": "go-language-for-software-development",
+      "slug": "the-best-coding-shortcuts-for-beginners",
       "locale": "en",
-      "title": "Go Language for Software Development",
+      "title": "The Best Coding Shortcuts for Beginners",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Go is a general purpose programming language. It was originally developed at Google to solve some of the problems with other programming languages like C and Python that made it difficult to write programs that are fast, small, and correct.\nGo makes it easy to capture the programmer\\u2019s intent in code and generate output directly from source - thanks to its lightweight syntax, concise statement, and built-in support for anonymous functions without the need for temporary variables or auxiliary arguments.\nGo is generally regarded as a modern programming language, which means that it has been designed with performance in mind, comes with support for concurrency, and implements new features introduced by other recent programming languages like Rust and Swift. The factors listed above make Go an excellent choice for software development projects involving medium-to-large sized codebases, performance optimization, or writing compilers.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In the beginning, coding can feel like solving puzzles with red-hot needles in your hands. Everything is new, nothing makes sense and you can\\u2019t even tell if you are on the right track or not. It feels like one confusing labyrinth with a lot of locked doors \\u2013 every time you find an unlocked door, it just leads to another locked door! How do we get out of this frustrating loop? Coding shortcuts!\nA lot of coders will tell you that in order to be a successful coder, you need to know everything about coding and all its ins and outs. However, there is a reason why even experienced programmers take note of coding shortcuts. These little tricks make life easier for anyone who is just getting started with coding and doesn\\u2019t have time to invest in learning every last bit of it before they can start creating useful programs.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ADY1MyQjIx4eHj4+Pl9fXm5ubZCPjMfFwOTg2u/r5ADh29PTzsa2s6+oo5+DfnpPTElAPzxJR0R1cm7p49wAj4yI//30/vfe//zn//7v/vns9+/j7uff5uHc7+vnAKGcl/LkyPrWePvWevzYfvrZg/7ejP/olf/jkvnhtgDu49r+6LTXtmOqklWymFWtklDAolmyl1Lmu1zK2qsA6d3T+tyS/9p2vpxYooFHqo1OqYxN0rJj78Nlmtm9APfq0v/ffv/ffPbNcvC+aeiyYdmoW/zYdf/WbY3UwQDp0KffpEDptFP4v1b/x1r/zmD/12f/1Wf/1GR41MsA6tvMuaeSbrWwcLGneKmUgqKBkZ1vpptdsZ1VXMnOAPHn28zd2UGzxkHB10zN5VTW7U/V7EbL4kXB1EvP45FyyujoQx5vAAAAAElFTkSuQmCC",
+      "imageId": "ade15928-0d54-4e0e-b6c5-4e3d1d1c8d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "the-best-coding-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Coding Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"There are plenty of reasons to learn how to code. This digital skill gives you the power to create websites, apps or video games from scratch without having to pay someone else to do it for you. Not only that, coding can be used in lots of different industries and jobs. It\\u2019s also a great way to make money online as a side project if you have other ambitions. However, if you\\u2019ve never coded before it can seem like an impossible challenge. It isn\\u2019t something you can Google or Netflix your way through \\u2014 it requires dedication and practice. Thankfully, there are plenty of free resources available on the Internet that will help you get started with coding basics and build your skills over time. The following article highlights some of the best tips for beginners who want to learn how to code in 2018 and beyond.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "coding",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABKElEQVQYlR2OTUsCURhG76b7vDraKqiFv7JVixZtgkAIIZLJKDXNphQTJKrJxqwmwbByPhoDFxllUdTGSqwZb0y7szmHw76aEA6GLXg2xJ3PwoFo/3MbbHqWzoqUkimToP0cnRRIy5OqUDlLB1vELstQFarsIL2ClEzZBKnbVNpAMQ1lndi3gcQytY+oe+57lTw963iowTqkoQn2WkdmFUk5ML9ASRnRKGKLFF+imTnqaGCuP8U9iwtnrFcLv+iSa0KYfGTCbYEJmw9awff6+GdTuipNdGth4WBkcWHBM8D6DV6KT9VyEWtvUolFOqr0pgeetGCvGvi5Afu4oNN06HhNetToXsV1QaqmQsaupG+G+g1iIwu/BgZN8gwIG64Bz+Tilgvbj/8B98GgLHc9nCAAAAAASUVORK5CYII=",
+      "imageId": "54f3fa69-3ba6-4076-f5c5-f0bed931ea00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "coding",
+      "slug": "python-the-language-for-network-programming",
+      "locale": "en",
+      "title": "Python - The Language for Network Programming",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The world of programming is constantly changing, and it\\u2019s a fluid space with new trends and innovations emerging all the time. Networking is one of those areas that has seen an explosion in growth, with more people connecting to one another in virtual spaces than ever before. This has also opened up a whole host of opportunities for programmers who want to get involved in network programming with Python\\u2014a coding language that can be used for networking purposes with ease. In this article, we\\u2019ll talk about what network programming is, why you should learn Python for it, and how you can get started using it for networking functions.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

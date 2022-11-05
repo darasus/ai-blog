@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/how-to-make-healthy-eating-easier-with-meal-planning.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP7+/iublRKKhDGOjGCioGukozCKh0mZl12opqXOyQDByaQffnfj5eTI2NeYv71qo6JqoaFCjY1PmppxsK8ArMm7TYN87+/vwsPAq6yp1dXT1tfU8/X1ts/No8zMAGukmHeUj+7u7Pr7+PPx7fTy7tPT0cTEwra2tLCwsAArgXezvLno6OT7+vH69e769PD7+fX6+/j9/fvx6+QAEG9k29zX6urh+vbq+vDm+/Ln+vfv+vv29/Pt1s/BADyAdOLj3vPy5/v05vrw5vry5/r37/z69t/azubf0wCBjWzw7+n7++349OX59eb69ur7+O77+fXHvKz28OAAi6qi/Pvw/Pzs/Pzs+/vt+/vt/Pvw/P31uq6U+/DQAM7ezZq2o4imlYKlnLHJwezx6f3+9f3887utlPnjq/uo7CE7r3xpAAAAAElFTkSuQmCC",
-  "createdAt": "2020-10-16T23:13:12.184Z",
-  "updatedAt": "2022-10-11T17:17:57.444Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP7+/Tahmg+JhDGQjl6gnk2TkiyGhEKXlHCysLTV0QC0yKcwiYXR1tS90tGVu7p9r66Es7JOlZRBlJNWo6IAl7uoQXp29uzr0c3Lx8LA29jXysrI1eDfqsnIoMrKAGKdk26Sjfr08vr8+e7v6ejp5M3NytbT0czGw8jCwgAnem+js6/69/P49+/89u7++fL+/fn6+vf49/Tm49wAFXJnzc7J8/Tr+/bq+u/l+vHo+fXt///+6+ff29HBAEB/b+nl4fT26Pv05/rw5vry6Pr26////9vUx9/ZzACRm3359fT49+j49Ob28ub59en49+v////NwrHm380AfKGb6O/m9fnq///0///2/f3w+vvw/v32wLen8+fEANDh0Ke/rIqnl4SnnbLKwe7y6P//+vbz57+0ovvmsMRO7A9fXfIwAAAAAElFTkSuQmCC",
+  "imageId": "65098ab5-d452-4adf-eb87-048f7458d800",
+  "createdAt": "2022-11-05T21:57:35.006Z",
+  "updatedAt": "2022-11-05T21:57:35.413Z",
   "categoryLocal": "health",
   "slug": "how-to-make-healthy-eating-easier-with-meal-planning",
   "locale": "en",
@@ -20,130 +20,25 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-stay-healthy-during-cold-and-flu-season.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlQXBW0vCUAAA4PPTAh97i559KnrppYKgCBN8KDFXpqxkyLKQyJxlFwczcVMcc5ezuSvbmbo5xQvRb+j7gNZuaOy3ztEGS8Ofui4nVfGid5sWCBwOKECwrXituNd8vGTeA0kLLMzUSG5jF5WbXGwHHHReN98KsU+cUpXZ0JEe8vCZUI5TxtG1dJgENEKnAm2G84kdeCVKLuZlIi/lMEje650qEBfLrV7VX/yu7cgl6tpLySRzw0oJZrIwkwUpT9zuU0/IZsLJyo/SNwkokx+tsiU1lUodxGUad5R9gyWRufKjYvkKw1Np7EweWcLkD8SFxonGndv8F3KXbtDma+ORqeaOGZHRxivgo6nphtNgHQXrmeHanoK8nsUXzHAOnQHwhD4a8L4sjiTR4TkLdXXpTm0ldJftdKl/xJHZvKQusK8AAAAASUVORK5CYII=",
-      "createdAt": "Thu Jan 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABP0lEQVQYlRXJy0oCURgA4PNUrVrUAwSRCLaJogsl4Ru4aWOrghZSKpWX8VILMSqcRMSiqWm8ZIR00aQoo9GcYcY5c87Mcf7o234IAMKH0fGJyWm3e2rG5fLMLiyvLK2uVet1AEAAcCNVEumjgzgXDEUi0fhpnhfuRHnwSx1AsTin6EZPUQdDQyMMsxG2LMoYte0fAyPvuk/Vcfe713n/qNauKqLQarf6fdXApK3oaGgSBtCuV89Pkql9f45L5zKZplByALqqjlRMbAuSwY15/5gv7/Hyc4uB8b1NHwAohol0Oup+fknpHT4bDInJ7fJuNhWQuC1LlTXCkEbhpSa0CklnBOAAw9B5k2+Pw/J90WSAVHP0eH3RfxJtgCEhGiGqSaXL0jMfI/+N2UP5TG4UbQcwZUNqAUCn2XgtJAxC/wANEPCHHZRJvAAAAABJRU5ErkJggg==",
+      "imageId": "72a5f8ef-40d9-474c-47c3-604d50552000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-stay-healthy-during-cold-and-flu-season",
+      "slug": "10-ways-to-make-your-commute-less-stressful",
       "locale": "en",
-      "title": "How to Stay Healthy during Cold and Flu Season",
+      "title": "10 Ways to Make Your Commute Less Stressful",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting the flu or a cold is inevitable. In fact, you could get sick around this time every year without fail. The only thing you can do is take precautions and try to avoid catching a bug in the first place. However, even with good intentions and best efforts, the odds are stacked against you. These viruses are so common that virtually everyone has been exposed to them at some point in their lives, generally during childhood.\nThankfully there are ways to reduce your risk of contracting these viruses and being able to recover quickly if they manage to sneak through your defenses. Cold and flu season brings with it stressors like school, work, family obligations and end-of-year deadlines\\u2014not exactly ideal conditions for keeping your immune system strong!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think about your daily commute, it probably doesn\\u2019t strike you as being particularly stressful. In fact, many people see their daily drive to work or school as a time for peace and quiet. After all, what could possibly be stressful about getting from point A to point B?\nIt\\u2019s true that your commute isn\\u2019t inherently stressful. In theory, it\\u2019s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-best-healthy-cooking-tips-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOlxP+NwPqB0TOqUaPK1l++bbs2JFezAQvOUWc9+YADpcT/Me0vZeEfekmrcvaXvhlHBdRrvszjzhVHQjXQA3otn3XhGpXVOyY1m+tG1/N7G8rKK2IVU6pFk1o9lAO51PuV9QOaOXuXNrvHizungz5GvnOOqgruHZMqtkACOfVnfgU/5qHj+37775Mn76NPt2sP81LK5dUy5m34Aymw8cYpt7qR0986j/Nqz/t+++t289Mii5YJR4XM/APB7SuRzQfGFU/29herCkuPKofDElduMXKR0TbKBXQDmbDrey7/v3tTthVT2nF/ZnGzekl7XbTqGTSWUXTQA3mY4spiB5trQ1ntR6bCR7X9Ly2k9t2BX5ndK3IxuAOJpPtZjNeBoOtd9V9ewmel2ROFuPrZVONhnQu1rPsmKupCGl3jwAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-cooking-tips-for-beginners",
-      "locale": "en",
-      "title": "The Best Healthy Cooking Tips for Beginners",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Have you signed up for a cooking class yet? If not, then now is the perfect time to do so. Learning how to cook healthy food at home is essential. There are so many restaurants around these days that serve really unhealthy food. Even fast food chains have started to add super un-healthy ingredients to their menus in an attempt to capture more customers. Thankfully, there are so many places to learn about the best ways for beginners to start cooking healthy meals at home.\nIf you\\u2019re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-lunch-ideas-for-work-or-school.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKF/ZLKTdLmNaLqMZbSik6GPgZ+MgKKQhJ2Ngod1aQC3cyzEhjamgijPhznInHenlYawnZSucnmWTlamiYcAT2EQV2URSHERhGkeuoZao5OGoWhrmRcqlRwsnS8/ADZKCik3C6itHpiUK72GUIp+coRUV4sQIYAVI34zPgBRWw9FVAaOmifRzzyRbDh7bWJvYFp2Wl2LW2CIeHcAaHUaWHgHXHwJtLssk5ZMcWxgt6GE3cSdl4RvY1JIAICYEk1qCkRhB1JuBXl8S5F+afzfpPzouuzQoHJiVwBYcgpUbwZSbgVBVwZbYEN5aFf415f925fkyZthU0gARlYeUmwEUWcMQlMganBVPjMreWlasJuAa11RTkI5ADUyLDAxKDEyLTw7NDMtKTowKj81LT81LUU4MUU4MdhIeyGq0SGTAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jun 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-lunch-ideas-for-work-or-school",
-      "locale": "en",
-      "title": "The Best Healthy Lunch Ideas for Work or School",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that those little brown bag lunches we made in elementary school are now a thing again? Super cool, right? Well, sort of. If you\\u2019re like most adults and teens, you probably don\\u2019t have time to pack your own lunch every day. Instead, many of us rely on fast food or convenience stores for our midday meal. While this can be an affordable and convenient option, these places often offer unhealthy food loaded with salt and fat.\nFortunately, there are more healthy options out there than you might think. These days there are many drive-through restaurants that serve much healthier versions of the standard fast food menu items. Cafeterias in offices, schools, libraries and other public places also tend to offer healthy choices as well as salad bars and other stations where you can make your own healthy salads or sandwiches.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/30-healthy-snacks-for-on-the-go.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMvLybi1qLi5tIyFetTT2OfDpue6m9mrj7WRf+fa1QDPxo7Hv4K4snLm6Ozj4ueWYDWBVjlhQCu1kHqzjXoA3dvK3NvC3N7U3tza7e/zoZqag0oggFAwVzEeZT8sALOkdbapfbiultnZ2fXy7PHx8c7JzaWRjGhPQ2NYVwB7blLZzrvjx4rmzZbu48f1w4vq1b7Vysne2uDe3+YArKywnKWJlpuHam1clI2E/Ysg/aM5+qJA77+S7ejqANnb4WpzZVhMFWRSMtyxkPeNQfmnYfSCLvZoFuzj3wDc2+Cvsbd/h35VX0yRlofe1svY1cvnzsDzt5Tp4uIA0tHWoZKMp5iSnJ6dwMjK7O3q8fHx8Ozo3rKc4eDlALq6voZtX659TXlQJ6abit/YzN7Wy8e/tJqPidPS2UvZyGIayUvpAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Feb 28 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "30-healthy-snacks-for-on-the-go",
-      "locale": "en",
-      "title": "30 Healthy Snacks for on-The-Go",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You\\u2019ve probably heard it before: When you\\u2019re busy, you need healthy snacks to keep you going. The problem is that it\\u2019s not always easy to find healthy snacks that are also fast and convenient. In our hectic, on-the-go world, most of us don\\u2019t have time to sit down for a healthy meal three times a day. Instead, we\\u2019re often forced to make snap decisions about what we can eat quickly and conveniently. Unfortunately, those decisions too often lead to less than healthy snack options like potato chips or sweets. However, there are plenty of great ways to get your recommended daily intake of fruits and veggies even when you\\u2019re on the go. These 30 healthy snacks for on-the-go are perfect for keeping in your purse, desk drawer, locker, or anywhere else you might find yourself hungry and without access to a full meal.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/7-tips-to-keep-you-motivated-when-working-out.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGuYi2vRuBa+jAGFWwENCQJ/VxqugezFwt64pdSEhgDA2NRZr5cYvYwAUjkAmmsCPiwaqn7mubbHqInCa0AAjci7etvEHIVmF6x+KLWKMKSEMLaN6728qHdjxGI4AJPp1ZHVx4mio06pj1aqkFmokFykjvO2wcyDgtiUpACMup3BprL8i7H9mrv8krb9lbj8mbr8mbr8jbLRrr4AhMusyq+6+6vG/KXC/KC/+6nF/KzH/J6+/KzHu5idALTq3di7x/uYufudvfubu/uUt/uRtPuRtPubu8y2wACr59O02Mrdz9/TrLvRssrHr9C9vNxRtJVRtJVOupoAf9Cgld+70+rywaCLrarCnI2ZpMzqMsybNs6dQMmdAIzcr6fmztHp86SVobzS9JeOn6XO6x7HkEjRpTrInUQ9wUtEauVFAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Jul 27 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "7-tips-to-keep-you-motivated-when-working-out",
-      "locale": "en",
-      "title": "7 Tips to Keep You Motivated When Working Out",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Working out is great for your body and your mind. Not only does exercise have a positive effect on your physical health, but it also has benefits in terms of reducing stress and anxiety, as well as improving mental processes such as memory and concentration.\nWorking out regularly requires motivation and perseverance. It\\u2019s not easy to find the time or motivation to hit the gym day after day. And while some people might thrive off having someone tell them what to do, other people need help in order to keep going.\nIt can be difficult to keep up with a regular exercise routine, especially when you\\u2019re feeling unmotivated. Even the most dedicated workout enthusiasts can struggle with keeping their routines fresh and exciting. If you feel like you\\u2019ve hit a wall when it comes to keeping up a healthy routine, here are some tips that will help you get back on track:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-create-a-healthy-grocery-list-on-a-budget.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIdqPayXf7+voNHJxeDd4NvZ3Me0nY1oJXhXF5dxDgCdiW2/ub/a193T0Nba19vy6ODhx6B9WhmGYgz0uQIAjXNO29je0s/U7Ozu7+/v+vDo+NyoelkZ0p4F1ZkEAI1uQtjR0djV2tPQ1tDM0uvl4/vhsZx4MPi7AseOBAByWDbFuKrSz9TLyM3T0Nbl4OL54bO2lFDboALEjwQAh2wxrpyC4eDl4uHm7u3w+vf4+uW+yKx6WDwK0J0EANvMSJh/Uefm68XCysXCyvPz9eLMuKaOn2xND8eWBQD672GEaCjq6uzc2+Di4eTu5t6wpMXz6eOLbTmBXg0An44XfV8n4NrT+Pj69vTyt6XA8O/29fT3q5Z9eFYmAHdbJ4dmKNDCq/X0972np6eSl62ScpVyQndXLoJfLjdXxihGaeqcAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Oct 17 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-create-a-healthy-grocery-list-on-a-budget",
-      "locale": "en",
-      "title": "How to Create a Healthy Grocery List on a Budget",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re on a tight budget, it can feel like hitting up the grocery store is one of the last things you can afford to do. However, there are ways to make your food dollars go further and still eat well.\nInstead of making weekly trips to multiple stores and markets, plan a shopping day and hit one store at a time. Look for sales in that store before you go and stock up on foods that are good value. You might even consider investing in a membership card or becoming an insider or club member so you get vouchers or other discounts. Adding your own spin on some classic cheap meals will also help you save money without sacrificing nutrition. It just takes some planning and research to make it work!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-benefits-of-a-healthy-diet-and-how-it-can-help-you-lose-weight.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABCElEQVQYlWN48+n3m0+/337+g4zegAXffPzLAOG///IXjt4iqQBJI8shq3j7+Q9I+t3n9x8/P/345fHHL48/fH4EQe9A6D1I+tTjlMCtnOX7TYt3GxfvNk7YLFd7wC5xu+z5RwUMr97/3nwzmX0+T87B6spD7WGbU0RnSukuNmWfyXXwdhHD9i11q856sc3lVlqso7/U2n6Nh84iE7EZUhqL9bZdTmdY0sa1YCcb7xKRnIPV6fsq0neXRm/PiNqVbrHaYcoUcYb9M3QOneYO2i1cd8o5a79B0UHz4sMmafvVUvcpn5iuwnDv8cenL+89fnPh6btLIPT60uM3lx6/ufLw9fWHz54AAN6r0wsY/NPuAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Mar 23 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-benefits-of-a-healthy-diet-and-how-it-can-help-you-lose-weight",
-      "locale": "en",
-      "title": "The Benefits of a Healthy Diet - And How It Can Help You Lose Weight",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A healthy diet is not just about eating less and exercising more. It\\u2019s also about eating the right types of food in the right quantities to ensure you get all the nutrients your body needs.\nIt won\\u2019t come as a surprise to most of you, but the way you eat can have a big impact on how much weight you gain or lose, and what type of health risks you might face.  A healthy diet is one that is balanced, includes plenty of fruits and vegetables, whole grains, nuts and seeds, fish and other sources of protein, and limits saturated fats, sodium, sugar, and red meat.\nYou might be wondering why this information is important. There are so many different diets out there because people have different preferences for tastes and textures when it comes to food. But there are general principles that apply to all healthy diets \\u2013 whether they involve cutting certain foods out or focusing on eating them in specific ways.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-choices-when-eating-out.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABGklEQVQYlSWOy07CQBRA55f8A42f4IY/MP6CbozGDUsTfsLElfERF4qmKCQSTUToQFNeHTqPcns7zS0d6MIoZ3vO4rBBb9BsvnovHuc8ErOr+3NElIuY9/nxRZ1NwlAIQUSZNXetkyj2EZGIltrcPjyxROmiKJxzRVHkeU5Ei3mkZUxEQsQsy7KyLI0xAFCWpbUWEQEgSRIA+NPOufl0JqWsNlW1qZRSIz4c9H4QkclYr1Yr51z+DwCkaWqtBYAsy9hzq01Ezjkt1dDnkCTr9Xq78qfPGg1jlkSEiGmabtN4od68949Ol9UOj4Ig1Dqx1hLRiAfddmccjIMg/Prss529/ZbX6X3704kQQkVz6fPJ9c3jaf1y96D2CzIVBXZcveVTAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Aug 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-healthy-choices-when-eating-out",
-      "locale": "en",
-      "title": "How to Make Healthy Choices When Eating Out",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Eating out can be a fun and social experience. Whether you\\u2019re meeting friends for a bite to eat after work, happy hour with coworkers or date night with your significant other, there are many restaurants that offer an experience that\\u2019s enjoyable and hassle-free. However, eating out \\u2014 whether it\\u2019s at a fast food joint, casual chain or upscale eatery \\u2014 isn\\u2019t always the healthiest option.\nIn fact, many restaurants serve high-calorie foods that aren\\u2019t particularly good for you. The mammoth size of most restaurant portions is also concerning, as it can lead to overeating and unnecessary intake of saturated fats, sodium and added sugars.\nHowever, with some knowledge about what to look for when dining out, you can make healthy choices that support your diet and lifestyle goals while still enjoying yourself at the same time.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-your-home-a-haven.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AH2ji2iGZ2mmpoqxr5GzqMDOy9PZ0tbYzIhsWHNdTABDMydjX05UUTlraVqXj3uJfVp2ZUJpXkRoSzdXRzwApH9jnXdZoYFhsoxuupBuypx+06GAzp5+xpl9qHJTAKavo6m3p5e5q8LJt9LOu+HYxund0e/j1/Xx7tPBswCZgHDNuJ3FtJ+zjXjSxrzbxLewkYDz7uft5d66q6MAsLS3ztLW1NDMuaOTx7GhvKOXybCftpSEmWhWqJCIAJqen7TM1re8vLWYgruyrqKXkq6hmrCemcy+s5qIhQBvW1mSt8aUnaONZlaZi4uEb2iZYDiacVaIZ1J9XVEAWzEoWTgzZEI+bUc/bU5IcU1HflE+cUlAaEdCWDApADMVGDQWGTcWGzUYGTUYGTUYGTobGjARFzITGS4RGYa7nZmxkSZmAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jan 15 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHmae26Zg2qrqI24tZ3CucHQyM/a1dbe0JN3YmpXRgBGLh1lW0pcVT1rYlCYi3aEcEx4Yj94ZEheOCNbRjkAnnpklGxNm3pdqYNksoVkwpR3zJt5yJd3u491nmdLAKiyo6a9rpzFuMbSwtnYxurl1O/m3fbv6Pv49dnIuQCghXLMt5zIu6q0lIPSw7rTva+2lIPx6ODs4drAsqoAtba809faz8fEuJaAxq6gxa+nxaubtpKCo3ZopoqBAJufoq7M2rS9wLSUe7uvqKSblqeUirKgmci7spuHgwB6ZV2Vu8idqa2VbFmknJ6VhH2fZT2jfmSSdGGIaFkAVi8oWTs5YkM/aUI9Z0pJdVJJc0QwaT41YkA+WTIsAC0PFS8PEi8PES8PEi4NDzMSEjQTFiYHDiwOEysNFdvHncT9acUeAAAAAElFTkSuQmCC",
+      "imageId": "e878b65e-da1e-47bd-c9b9-9dee4ddd9900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
       "slug": "how-to-make-your-home-a-haven",
       "locale": "en",
@@ -155,16 +50,121 @@
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-easier-with-batch-cooking.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AL3Ev5+nooOGhYmNjLC3sre+ubS8t7S8t7S8t7S8twB5fn0hERJWPCddVjkoIhuCh4O5wby2vbi2vbi4v7sAKiMYJRsVTSoUYEUlg25FPicYU1ZVs7u2ucG8jHRjAHpvRTshFSEYFzwjF2xIK2ZBJyUaGZebmra2sncXCABsVDNvTTJLLhweGRscEBQeEhhfXGG2u7mdmoSaYRsAQCokNiQhMiQnWlNTZ1tGlYNkpoxYrqiThX9PrYIDAB4FCRsKEnNlVZVkI4VdHYhaJY9lI4pcGamhga2ojgBoRjRpZ2Z2dWyZcj2IVBuHYCd3TBaYVhqrmXG/xMAAtGMop3ZGmopvko55j3xXk4Rkop6LpqyjuL25vsXCAL/Bvri5squklJ+jmaOpoKiupa+3r7zBvcDFxMDFxCFehuhsnxvWAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jan 06 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI+bpJqgop2ho8vLzP///7S3ucDJ0tPb5NDV3ZCNiQCEkJjb3t7Lz8+7v8Ht7eycn6DFzNTP1t7V3+einJcAk6Cn/f//0NLTxcfI////trm8xdDd0M/Szb20ppCBAGd6cd3q787U1cjNz+nx+NXj7sq6tMaUfdewn6GZlACJfGrPycTMzcy2ur7V3ubb6fTCoZHLl3q+mYR/eWcAmHldkomBzNXewMDDy9DV4O325vD6spyMsY92bnBSAH1uZSdIcsDN2dDY3cvV29Xd4dzq9bm2saWLcU1IOQA9OkMADkCBkJ3P3+iUt9N6n7vM2N65n4uQb1ZDLR8AESU+iIyc08K9urO1Q1JtAC5pdq3Z3q2Mw4hfsIFbABp+oVW50FO2zFy90GXI1RRdfy1oq4zFy2ysra20o9bDx6mgNLYCAAAAAElFTkSuQmCC",
+      "imageId": "2d43af23-e41b-4f9f-f3a7-727b266d9300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-easier-with-batch-cooking",
+      "slug": "10-ways-to-get-moving-when-you-dont-feel-like-it",
       "locale": "en",
-      "title": "How to Make Healthy Eating Easier with Batch Cooking",
+      "title": "10 Ways to Get Moving When You Don't Feel like It",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re trying to eat more healthy, it can feel like an uphill battle. You know that eating healthy is the best thing for your body, but with all of the unhealthy options available, staying on track can be difficult.\nUnhealthy foods are extremely easy to grab and go when you need something fast. However, these foods are not the kind of things you want to be consuming regularly. Most of them are loaded with sugars and sodium and have almost no vitamins or minerals.\nFortunately, there are some simple strategies you can implement to make eating healthy easier. Batch cooking is one of the best ways to make healthy eating easier and more convenient. Read on to learn more about how batch cooking can help you eat healthier without breaking your routine too much!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year\\u2019s resolutions are the perfect time to start fresh, refocus our efforts, and commit to a healthier lifestyle. Many of us make the common resolution to exercise more. However, that can be easier said than done for some people. If you don\\u2019t feel like working out one day, it doesn\\u2019t mean you stop going to the gym or just give up entirely. It means you have to come up with creative ways to stay motivated and get moving when you don\\u2019t feel like it.\nExercising is not always fun, but we need it to remain healthy and fit. While some people love sweating in their favorite gym class, others avoid workouts because they know how much they hate them. While exercise can be difficult at times, there are lots of different ways you can make moving more fun so that it becomes second nature and something you no longer dread.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK68jKm8ivrmxv/bo+HJqquzmu/078bAvsq4n/fz8ACerV2Lo1i3hXW3WDvij0yaaTvTqoyReXZ5YFLbwrAAi4tBjpdaZwQNawocymNbvG1aekgwoHtp9d7M3rukAEUbF4V7UryEdpFiWIVFPJt4baqXZrSpjI90a3VLOQCcJzTGln/30q6oim6XhW7Tv7G+pJeTY1uNSz6ceUIAmHM8qIhYck5EiTs/0pSN4b+tp3lwykdWz2Vao4lIAIFmTpV1Y82RmNt+f5Y7NHxXO8BrMqpHPKcwOcZLLgCfjmuZfmPPlpS9kW6Hc1R+bTfIbya0mm/vl4j8hWkAqYFdnYNflW1clmhS6bmWnZhxvamJ+tKx1nd8zDw3AKWEZNXJprSrm9G1tKl4aIFmTMe5r+XW19XKyLFsccKvpKwM6rNxAAAAAElFTkSuQmCC",
+      "imageId": "41d2843b-f6c6-4f19-e21a-6d7134751b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "the-best-plant-based-foods-for-optimal-health",
+      "locale": "en",
+      "title": "The Best Plant-Based Foods for Optimal Health",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so much conflicting information floating around the internet, it can be hard to know exactly what we should and shouldn\\u2019t be eating. Thankfully, there are plenty of scientific experts out there who have dedicated their careers to researching the impact of food on our bodies.\nReducing the intake of animal products is one of the most effective ways to improve your health. There is strong evidence to suggest that a plant-based diet can reduce your risk for developing a variety of chronic diseases as well as increase your lifespan. The World Health Organization recommends an enhanced vegetarian diet (>200 g fruits and vegetables per day) with an abundance of plant-based foods for optimal health, disease prevention, and longevity.\nIn this blog post, you will learn about the benefits of a plant-based diet and which foods you should be adding into your diet if you want to optimize your health.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMvLxrSxoLa0ppCKgdHO0PTNru+/ncebgbGNf/Hg2wDQx43GvYC7t4Pt8fXg3eCXYTiUXjhuSjSriHO9mIUA4eLU5ubQ2dfI393a8/f/mZGUbTwWfkwpXDMcUi0ZALOjcrSogLOqk87Myvv27vf8/snHz5+MiGRKPWZZWAB0ZUTazrXw1aLo0Zfq3sH0xJLq0bXbz8/c3ung4uoAqKuupKyVmJqFXF1RmIx//5ou/Joq+qRG8LuN7OnpAODg5WJtYDQtAFdNK9Gif/mUTvW1cvN5KvdrGe3l2gDe3eK2uMGKkoVkbFSdm43h0cjZ4t/nxLHyr47q5uoA0NDVqpmRsJ6cjpGSuMfF8/Xz8PHw9PXy3bil3tncALe3v4hvYKx1Q3ZNJJ+Xi+fh1t/XzMnCt5yUj83M0jjeyGU7iJG/AAAAAElFTkSuQmCC",
+      "imageId": "f3fc982a-c2ee-4f2b-d226-794736f9f700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "30-healthy-snacks-for-on-the-go",
+      "locale": "en",
+      "title": "30 Healthy Snacks for on-The-Go",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You\\u2019ve probably heard it before: When you\\u2019re busy, you need healthy snacks to keep you going. The problem is that it\\u2019s not always easy to find healthy snacks that are also fast and convenient. In our hectic, on-the-go world, most of us don\\u2019t have time to sit down for a healthy meal three times a day. Instead, we\\u2019re often forced to make snap decisions about what we can eat quickly and conveniently. Unfortunately, those decisions too often lead to less than healthy snack options like potato chips or sweets. However, there are plenty of great ways to get your recommended daily intake of fruits and veggies even when you\\u2019re on the go. These 30 healthy snacks for on-the-go are perfect for keeping in your purse, desk drawer, locker, or anywhere else you might find yourself hungry and without access to a full meal.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMC9smRqR73Brv///5+alIFxafXu6f7///T19P3+/gC0oY++rZzn4dnp5+d+X1BuTz3IuK339/fj5uX8+vkAuLCovLayxL+74t7himxdj3pvyLWmioF+k5KQlq+uAGVYU2VZVJ+Yl9/b39TKyHBygICSr5OLiDY0MydVWQBRRkRCODePiojc1tfMys88R2OHi5x/eXcvNTQtR0sAZ1pcOzQxaWtzeXmIl5CZm4uKr5WEkYN7lpOSxsrMAIFudsnHybq7wpuZpH5/j76onIh5c49+eMS8ufXy7wCTiISonZmll5GfkImJd3CoiXVUS0YsIB1QREBfU1AAW01HYVFIallRb15XRTk0dl1OdmRYIRwcMyopMCYkAE9CPF5NRl5NRVhFOlU7Kn1YOrKPeW1PPEUtHzgpIXe0nqt9qrcDAAAAAElFTkSuQmCC",
+      "imageId": "a20144fb-d090-4948-db95-8bfd90598600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-make-time-for-yourself-when-you-have-a-busy-schedule",
+      "locale": "en",
+      "title": "How to Make Time for Yourself When You Have a Busy Schedule",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you someone who is known to be a selfless person? Do you often place the needs of others before your own? If so, you\\u2019re definitely an amazing person. However, when it comes to your social life and personal interests, do those aspects take a backseat most of the time? Whether you come from a hectic work schedule or have other obligations that require your attention most of the time, being busy all the time can completely suck the life out of you.\nIf that sounds like you, don\\u2019t worry! You aren\\u2019t alone. Many people today find it difficult to carve out some time for themselves. Thankfully, it is possible to balance a busy schedule and make time for yourself. Here are some helpful suggestions on how you can make time for yourself even when you feel like there isn\\u2019t any left in the world.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALy3udPQ1Oro7e7s7cXDxZaVmJ6doN/c3/Hy9tW/xADi4OPa2c3h4Nj59/mNioujoKSOiY3KyMv4+PHKnZsA3tTOy8Kh4dm75tTTsqukoZuYkImK2dre6NGu3bmQAN7b2+bk6YqAgH9kWtjJwOLi4ebk5ezq7Onl6ejk5ADg4ufh1M9tU0uqiXiumZHZ1dft7PDj4eTh4eXj5OgAX2qMhoSatZ2YlHNlv5aFuaSf497hs7XCPUZnR09qACUyZFZgjMCtpHRZT5l2aoBhVtPLz97a4GdtgR4oSQAuP3Gussfm3d2Wd22zoaCzpafVzM/i3eTR0ts/R2MAuKey0sjS8vP51cDB3cbC2c7Ny6+i28/P9ff93+HnANfFzdnO1uDg5eDc4ePh5+Pg5eHe4+Hf5ePj6uTj6uSn2imxtAAlAAAAAElFTkSuQmCC",
+      "imageId": "95c481a7-675e-43e6-8f47-37ddefc25a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-get-through-the-work-day-when-youre-tired",
+      "locale": "en",
+      "title": "How to Get through the Work Day When You're Tired",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Fatigue at work can be a real struggle for some people, but luckily there are ways to cope with the challenges of feeling tired at work.\nIt\\u2019s not uncommon for employees to feel exhausted and unmotivated during the work day. Whether you have a long commute, stressful workload or unforgiving managers, being tired at your job is something that many workers deal with on a daily basis.\nUnsurprisingly, research shows that when you\\u2019re tired at work it has a negative effect on your efficiency and performance. It also makes you more prone to making mistakes and forgetting things.\nFortunately, there are ways to help manage these struggles and get through your work day when you\\u2019re tired. Here are some helpful tips that can make all the difference:`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGuZZEVyQQcEBx8iHh0fHB4fHRYbG2F3h5egm09TUgB0rmyArXojJSFvcG/P0NLDxMbR09aPlJV8f3y4vrcAlpuO8fb50tbU0dHR////5efo5OXokpSWHSQef39/ANXd2P/DuLKVj56ko6enp3l6eKWmprW5t2CeWFCIRgDAy8LuwLXVx8XGyci5uri/v77Gx8a1trZQeEkWMBEApriuv8zDmpybfXx7b29thIWDcnNynJ2eHRweVFJUALfEwMbRyJiclbW1tcfIyNPQ1+rs7OLj5FtfXNTX0ADI0Muqwb+qu67IyMevtau81KV4dn1ST1mJiojm6N8AyMvGucrFrreoU1NRJTURYJoiNmAOWYklZHdQtrSuAEJCPZmZkGlpYg4NCyMnGxshEiEsFHenPB4uDREOEcsko2s+Xc0oAAAAAElFTkSuQmCC",
+      "imageId": "c3d05083-d1e3-4aec-2bc1-31f8974ffa00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "5-ways-to-get-fit-without-a-gym-membership",
+      "locale": "en",
+      "title": "5 Ways to Get Fit without a Gym Membership",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In today\\u2019s fast-paced society, most of us struggle to find time to exercise. While it\\u2019s easy to overlook the benefits of exercising when you have a packed day, staying active can have a positive impact on your life. The American Council on Exercise states that being active has been proven as beneficial for mental and physical health as well as quality of life. The following are 5 ways to get fit without a gym membership.\nWith the rise in popularity of home gyms and personal training, more people than ever before are getting fit without stepping foot into a gym. In this article, we explore five ways you can get fit without joining a gym or purchasing an expensive home setup. Whether you have a small apartment or live in an area with limited outdoor activities, there are many different ways you can stay active and get fit without spending money on a gym membership or personal trainer.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIJ3aa+Lbvz3+Pb8/+rw+93n9snX683Z6eXu9+Dm7wB+oUO/4524v8GtoqTV2tfO2dy1q6nEsKnS19rZ3+cAYZYPrq9yrIx9T0chLToac2hRiXREuKp5koZoW1dSAHOaPIuUL6+WiJChjpSfkbq6u6yZbtTNc7vDv7C5wQCHtGtSoADD4Ljl7f/P3ue/1Oiwn3nSxV+4yMu+ztsAgKZdSYMAq8SfzdbnyNTZytznlZOOeGpVlqGqrsHNAI6ShgQFC3J2fcrNzYyJhpSXlZ2Miqh9d7GurrzK0gCxsboAAAhnZXH////k5OTExsatnpaui3yGdm1nYlsA2tLRZ0dDwb7B/P3++vn5////59vb0LW1xLCwpKejAM2xqbeCbvTw8u3q7ufj5tXT2rKdqaqRnMm1vOrn6GJExxczZbzzAAAAAElFTkSuQmCC",
+      "imageId": "9dc52804-9511-48e4-78a7-851385770100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-get-in-shape-for-summer-tips-for-every-fitness-level",
+      "locale": "en",
+      "title": "How to Get in Shape for Summer - Tips for Every Fitness Level",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When summer rolls around, everyone seems to want to look their best. After all, it\\u2019s the season of tank tops, swimsuits, and short shorts. The problem is that not everyone hits the gym year-round or has access to a gym that fits their needs. If you tend to slack on your fitness game once the snow begins falling and leaves start falling from the trees again, now is the time to start making changes so that you\\u2019re ready for summer.\nWhether you\\u2019re looking for ways to get back in shape after a long winter hibernation or just hoping to avoid ending up in an unflattering bathing suit this summer, hitting the gym as often as possible is essential. But what if you don\\u2019t have a gym membership? Or what if you can only commit to working out at home? Luckily we have some great tips for how you can get in shape for summer no matter where you are.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQYlQXBu07CUBgA4PMSMvMMBlGjzDwFj8FlcXBSExwwXgYScVEW44DIxQvGkAhptBLbQoOEY6WlDaC01Ta055z+fh9aO64t7xZjheb6UTWaK60e3mzkG5v5RiR7GSs00U4bb9U7qVonU3tLXnPJUjtV5dO379sP4t6LhgBg0O9fnJ3eV8t3lfLz02OjXrkqnv9aFgAgzyeEMZ/QIcYfg4EgimNdBwCfMo8QxBhzXXc6m4miKEmSIAiy3LNs23FcxhgKAGRZ5jiO53mMca/X5flXURRUTQ0CQACBbVuappmm2Wq3pK40N+eGrjvOH0CA5jb1/IAxCgCJRCK7nwUASqm7YN8WRYpOPnVvYgJWxqHQUjwedxYwMnxF9xWDoC/DV6dMHv6k0plwOBxdieQOTrC2UCdkZJB/qUHugUJ0g4YAAAAASUVORK5CYII=",
+      "imageId": "2e6d10c8-e721-4f95-131f-7ae3d1868d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "top-health-benefits-of-meditation-and-how-to-get-started",
+      "locale": "en",
+      "title": "Top Health Benefits of Meditation and How to Get Started",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Meditation is one of the most effective ways to bring your mind and body back into balance. This ancient practice has been proven to help decrease stress, anxiety and depression, while also improving memory and concentration. In addition to these benefits, research shows that meditation can also have a positive impact on your immune system, blood pressure and heart health by lowering your levels of the stress hormone cortisol and lifting your levels of oxytocin (a \\u201Clove hormone\\u201D).\nIn this article, we take a look at some of the top health benefits of meditation and how you can get started today.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

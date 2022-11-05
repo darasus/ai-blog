@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
+import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
 import { Post } from '../../types'
 import { Divider } from '../Divider'
 import { Markdown } from '../Markdown'
@@ -18,7 +19,7 @@ export function DetailedPost({ post }: Props) {
     intro,
     content,
     summary,
-    imageSrc,
+    imageId,
     imageSrcBase64,
   } = post
 
@@ -28,8 +29,9 @@ export function DetailedPost({ post }: Props) {
         <div className="col-span-1">
           <div className="relative aspect-square">
             <Image
+              loader={cloudflareLoader}
               blurDataURL={imageSrcBase64}
-              src={imageSrc}
+              src={imageId}
               alt={title}
               placeholder="blur"
               priority

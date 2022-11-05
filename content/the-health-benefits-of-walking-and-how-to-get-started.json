@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/the-health-benefits-of-walking-and-how-to-get-started.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AN/ovtvmvur28uf4++D2/N31/dvy/Mbt+8Hr/b3q/QCcool0emOHj3p6gYF4g4axvsCBjpNqe4GTqrK83OoAp7GDkZl2nKSRrba3lp6gw83RkqGlgpqikrG7sdPhAKyzk2xwZXR+end9fXF4eICGiWl0d1lqb2p9hKvL1wDm6eSFiYODoLR2j56boqKpsrSntbeLmp6VqK2zy9MA3eTIydG4rsvdsMvd4OTl4unp2uPl1OHj1+bq4fD0AM/cw7XCq6zAwK/DysnKxb3DuLvFtrjBs73Gt9Pf0gDE1bDO2Lfa4NfG2eD08efy7+PX4MDR4rzR4rzS4bwAZ29NwK6S0r2ij4h6taqZwbSfwbSEi6ZCfqE6f6Q6AMW1m9bEqNbEqNjGqtXCqcC2o6mjlX+EWVl6L1V6Lju4z7mwsy45AAAAAElFTkSuQmCC",
-  "createdAt": "2021-08-29T13:35:16.639Z",
-  "updatedAt": "2022-10-11T17:18:00.351Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AN/pvtrlvuj07+v7/+H2/N71/N/4/sbt/cTu/r3q/ACYnol1e2WIj319hIWFj5GvubxzfH6FmJ+Kn6a61uMAmqR0h49wlp6Kn6ipnaepucTHf4yPjqaveZKcstTkALrCoVldVIONhnmAgnJ3eIqRk2Zxc19wdWyAh6zL1wDh5N2Sl5B2lKh7lKSjqaivt7idqKuToqeRo6i81NwA2N/Fy9K6rcversrd3uPi3eTl2uTn0N7i0+Hm4/P4AM/bxLXAq6/ExKm+ycXFwba+tbbAs7nBtra+tNTe1wC+1KvX4L3R3tjN3eb///T8+erg6sPW6r3Y6sDV5bwAZW1JxLCTy7acmI19urCcvK6frqh7gZ49e504c5k3AMa0ndrHq9jFqM6+psm6o7yzorSonoOIW1h6LVl+MOGLz0pqxEGKAAAAAElFTkSuQmCC",
+  "imageId": "f5026ea6-95e1-4aa5-1b1c-5cc0bd71b300",
+  "createdAt": "2022-11-05T21:57:39.420Z",
+  "updatedAt": "2022-11-05T21:57:39.820Z",
   "categoryLocal": "health",
   "slug": "the-health-benefits-of-walking-and-how-to-get-started",
   "locale": "en",
@@ -20,115 +20,40 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-a-priority.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APr6+ufl5f7+/v7+/v7+/v7+/v7+/tfX2ZGJgtCdagBwaWlQRUatqKr+/v7+/v78/Pn8+viCfoRoYFzrwnsANy4xPjQ6W09R+vr89e/q4MOx9Nff69vabGhn0aplAFs+TFJATbWkqta1oK9pPc6UWMh4hbRcSrmJiT0wLQDx6+jm3Nbz7evhz8HUoWnWn13FeGWYRzWscGvBur0A9OfViG9c3ruX+/n38Ong1ah1zJ1917GT693N3sy7AM+VV6V2SIhcO+jOtPDr7Pj38+3ez+3ez/r17PTftgC/hUm6gEaibDzx49Xy7fH28/fv5+Pj3djq6Of79OgA0MbApYt069zK9PHy9fHy/v7++/To2NXW1NLT8OngAPn09vPu8O7m6fHs7v7+/v7+/vnx5vjt3/j38/nw43sf4KD23QydAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGuZZEVyQQcEBx8iHh0fHB4fHRYbG2F3h5egm09TUgB0rmyArXojJSFvcG/P0NLDxMbR09aPlJV8f3y4vrcAlpuO8fb50tbU0dHR////5efo5OXokpSWHSQef39/ANXd2P/DuLKVj56ko6enp3l6eKWmprW5t2CeWFCIRgDAy8LuwLXVx8XGyci5uri/v77Gx8a1trZQeEkWMBEApriuv8zDmpybfXx7b29thIWDcnNynJ2eHRweVFJUALfEwMbRyJiclbW1tcfIyNPQ1+rs7OLj5FtfXNTX0ADI0Muqwb+qu67IyMevtau81KV4dn1ST1mJiojm6N8AyMvGucrFrreoU1NRJTURYJoiNmAOWYklZHdQtrSuAEJCPZmZkGlpYg4NCyMnGxshEiEsFHenPB4uDREOEcsko2s+Xc0oAAAAAElFTkSuQmCC",
+      "imageId": "c3d05083-d1e3-4aec-2bc1-31f8974ffa00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-a-priority",
+      "slug": "5-ways-to-get-fit-without-a-gym-membership",
       "locale": "en",
-      "title": "How to Make Healthy Eating a Priority",
+      "title": "5 Ways to Get Fit without a Gym Membership",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You know that healthy eating is important and that you should make it a priority, but with so much going on in your life right now, it can feel like an impossible goal to achieve. Between work, school, volunteering, and friends, it can seem like there are not enough hours in the day to get everything done. Eating well often feels like yet another thing you need to add to your endless list of responsibilities and obligations.\nBut making great food choices doesn\\u2019t have to take up a lot of time or feel like a chore. There are lots of simple things you can do every day that will help you make eating well a top priority. Even if your schedule seems packed, these small changes will help you get the nutrition your body needs without taking up too much of your time or energy.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In today\\u2019s fast-paced society, most of us struggle to find time to exercise. While it\\u2019s easy to overlook the benefits of exercising when you have a packed day, staying active can have a positive impact on your life. The American Council on Exercise states that being active has been proven as beneficial for mental and physical health as well as quality of life. The following are 5 ways to get fit without a gym membership.\nWith the rise in popularity of home gyms and personal training, more people than ever before are getting fit without stepping foot into a gym. In this article, we explore five ways you can get fit without joining a gym or purchasing an expensive home setup. Whether you have a small apartment or live in an area with limited outdoor activities, there are many different ways you can stay active and get fit without spending money on a gym membership or personal trainer.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/10-easy-ways-to-cut-sugar-from-your-diet.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AIujxoOky3+kzIWp05Ssz6GjvqK/4Z694Ju536StyAB9fY/AydiGpsuUt92fpcGpZmitW1epeoOni5uucHIAt6uvmZuhz8TD3ODomr3hnr3gqJywp7HLpK3IqsPhAKyhoNDFxM/GxMzQ1arE3Zm42J95hqd4f6uAiq1ycwDFlX7x39zc19fNz9DByc+fweGSncenmMazmLy5kbEA27eq69/a8u3t1tDO2dbZqcfkw2Wg+T6E+jN9+Td/AN7Hv8imlvDo5OPe3qe2x5+62Kx0p9phnNxcmt1hnQDLt7W8opniysLQ0tbB0eJtkLRncoWQipOKp8iPtNoA0Ly5kJWj1MbHkrPWiqvSeJK2YV9p0cjHj4aEia7UAImDjqe40Ieq0Yap0Yqr0oOdwnF9l7zH2I+uz299lsR/zLUYzGCpAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Nov 07 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AP7+/Tahmg+JhDGQjl6gnk2TkiyGhEKXlHCysLTV0QC0yKcwiYXR1tS90tGVu7p9r66Es7JOlZRBlJNWo6IAl7uoQXp29uzr0c3Lx8LA29jXysrI1eDfqsnIoMrKAGKdk26Sjfr08vr8+e7v6ejp5M3NytbT0czGw8jCwgAnem+js6/69/P49+/89u7++fL+/fn6+vf49/Tm49wAFXJnzc7J8/Tr+/bq+u/l+vHo+fXt///+6+ff29HBAEB/b+nl4fT26Pv05/rw5vry6Pr26////9vUx9/ZzACRm3359fT49+j49Ob28ub59en49+v////NwrHm380AfKGb6O/m9fnq///0///2/f3w+vvw/v32wLen8+fEANDh0Ke/rIqnl4SnnbLKwe7y6P//+vbz57+0ovvmsMRO7A9fXfIwAAAAAElFTkSuQmCC",
+      "imageId": "65098ab5-d452-4adf-eb87-048f7458d800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "10-easy-ways-to-cut-sugar-from-your-diet",
+      "slug": "how-to-make-healthy-eating-easier-with-meal-planning",
       "locale": "en",
-      "title": "10 Easy Ways to Cut Sugar from Your Diet",
+      "title": "How to Make Healthy Eating Easier with Meal Planning",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In recent years, sugar has received a lot of negative attention. From the link between sugar and obesity to the prevalence of diabetes, research on sugar and its potential health effects continues to grow.\nThere are many different types of sugars out there, but common table sugar or sucrose is the one you need to cut back on. Eating too much sugar can lead to weight gain, high blood pressure and other health problems. If you\\u2019ve read any articles about how bad sugar is for you, then you probably already know this. However, cutting back on sugar isn\\u2019t always easy. Sugar is in almost everything! Luckily, we\\u2019ve compiled a list of 10 super helpful tips that will teach you how to cut back on your intake of this not-so-nice white substance\\u2026`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Thinking about meal planning sounds like more trouble than it\\u2019s worth. And for many people, it feels that way. We all lead such busy lives and between work, school, family obligations, and social activities, it can feel like there\\u2019s not enough hours in the day to squeeze in planning and prepping meals.\nWe can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you\\u2019re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-best-way-to-start-your-day-with-a-healthy-morning-routine.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGdELZZuQJRpP45jOYpeNnpRMUAuKzQpKD0jGlUyHgCMfG+iloqlnZaflY2bj4OUeWmPaVYiEhNbSUSCbWIAnZmWnqStlJ+rcXZ0REQ/pIh0w5p/WTkreHJ2oKOtAI+PkYuUn3GDjys4PBoaGnFTR8eafls5K2xna5mktQBdYWlncH92lK54fIGMcWFNNS2OYUxnQTBQQD9aVl8AX09Qdm51R0pXMiUlmXpnrJeMsJmMakY5hHVvkW1bAEk0KUcyJ0ItIlk+LpFwXqCBcMmmi39kUpKBebKBXQAICREJCBEJCBFaQjiukIGys7fNyMerhGmznpGze1oAFRUeX2VuKyoxZUs/uJ2L0Nzo1eDvyL64qXZVm11AACYhJ6a0v0xKSxcQE05HScfR29Dc6MrS2KaHcndKN9zhgI/HwLkBAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Aug 27 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-way-to-start-your-day-with-a-healthy-morning-routine",
-      "locale": "en",
-      "title": "The Best Way to Start Your Day - With a Healthy Morning Routine",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In a world that moves as fast as ours, it can be easy to get caught up in the daily hustle and forget about the little things. But those little things are what make all the difference in the end. Take morning routines, for example. They may not seem like much on their own, but they have the power to make or break your day from start to finish.\nWith so many different morning routines out there, it can be difficult to know which one is right for you. There are those that are super long and involved, and others that are much shorter and simpler. Whether you\\u2019re looking for something simple or something a little more intense, we\\u2019ve got you covered with this ultimate guide on how to start your day with a healthy routine.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-benefits-of-exercise-and-how-to-get-started.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AM3Jxfz7/LyzsoxtXlo3Lm1IO+fl5fHx8+/u8+jn7ABbSUT8+/zc2tuqiHZ8UUBEKiGkmpvr6+3x8fPu7fIAmXVmzrOj4+PluZKCjFZEQigeg3Rw09DY5+bp7+7zALubj4hweM/L1bydiG1HNkcpH4VgVNjKyuzs7u7t8gCXe3BSUFp+cHKxim5/VkrCo47HooivlYzy8vTv7vMANTA2aWx0b213yK2ohFmRza+ldE9ESzFF7+7x7+7zAE9OXtnm+tzZ38KhmNnQ3riSf0coTDcdTKWatefl7QCDUW3DyefAqKWVYFTNsKFzT05NLWUyGj1ALF5idaoAZyFGeXiqoYF3taSqhGx0dGBZkHR1o3VeOSgrVnC8AGKF1Ht7pndngYJyfHOPz8C0uKmBbm1IOUhJbUZenw0irj98VNaCAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Jan 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-benefits-of-exercise-and-how-to-get-started",
-      "locale": "en",
-      "title": "The Benefits of Exercise and How to Get Started",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You don\\u2019t have to be an athlete, or even remotely active, to see benefits from exercising. Regular exercise not only makes you feel good, it can also help you live a longer, healthier life.\nWe all know that regular physical activity helps reduce the risk of obesity, hypertension, diabetes and other conditions related to sedentary lifestyles and poor eating habits. These benefits can be seen almost immediately and continue over time with consistent exercise.\nThe many benefits of exercise include: reducing stress, improving your mood and confidence; lowering your risk of heart disease and stroke; strengthening your bones and muscles; improving your balance and coordination; raising your metabolism so you burn more calories at rest; lowering your blood pressure; relieving depression; increasing oxygen to your brain so you think more clearly; increasing endorphins which makes you happier; giving you a healthy glow by improving skin tone and complexion, reducing acne and pimples.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-benefits-of-a-healthy-diet-and-how-it-can-improve-your-mood.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMqZXIFwanVyc3p3eoR6ZLmqUaqmk5eOipKPlJORmwD8bw3+liHJmFuCdWWSbxLIuj/36Yf9vQb1lynvjikA/mYD/qQq/cJUwV8Qp3MDysFF+vaj8sIK/bAE+KcTAPxfDv+1df63S8taBYRJAo99GtO7RId1SUM8EW9kKAD9SQT9fhf9fAaLQBdiMQ15LwTBcArNnFG0mGTw6NIA4B4CzygH7o5m8Na99+LL6syvllkZYjIFpnki3KdJAMe7oZhwTvHSsfbhyPTiyPjgvbSefIdlKvnfn/3wuQDHiFbLpH+sdEDaqn3wx5rny6eWgm6xdhbRhx/+8KwAtXA+05x1W1ZXsZWMmJyfWVdXsl83WzsUtWUF/e6vADowKkM2MTEkIIxLNIlRO0U+PHZdUT83M2VHH72si3linOlDMA53AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Apr 06 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-benefits-of-a-healthy-diet-and-how-it-can-improve-your-mood",
-      "locale": "en",
-      "title": "The Benefits of a Healthy Diet - And How It Can Improve Your Mood",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`According to recent research by the World Health Organization, one in four adults worldwide has an unbalanced diet. This means that for many of us, our eating habits need some serious adjustment. Not only does this have negative effects on our physical health, but it also has a marked effect on our mental health and well-being.\nA poor diet can lead to obesity, heart disease and other serious conditions. It can also increase your risk of developing certain mental illnesses such as depression and anxiety.\nThat is why it\\u2019s essential that we understand the benefits of a healthy diet as it can help to improve your mood and tackle any issues you may be having with your mental health as a result of your eating habits.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-get-through-the-work-day-when-youre-tired.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALu2uNDLzejl6enp6cXCxpWVl5aWmOPj5ezs7tXBwwDm4+Th4Nfm5ODs6eqVkJLFwsaUjpLf3N/u7OzJnqEA39PJyL2c2tC45dHMrKKam5SUgXt74uDh4cmj376XAOLg4ebj5JOIhXVdVdDDvOzp6uzp6uro6ero6ezp6gDc2+DYyshsVlK+m4esmY/X0tTo5+ro6Ojo5+ro5+oAWWOGjIugwaqijWtdxJuNuqaf3Nfbra+8PEZpPEViAC89aFlkjtC8rl5HP6KAcn1fUtHJztvY3mhugy43VgAyPm6kp73e2d2ObWHBr66vn6DW0Nfe2uLR0tszPFkAxMLK09DY8fD10ru828TBzr68yqua1crJ7uz06OrwANC4wNjJ0ODe5uHg5+Tj6OXk6+Xk6+Xk6+Pi6eHg5xCx2jlwjz8xAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Oct 26 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-get-through-the-work-day-when-youre-tired",
-      "locale": "en",
-      "title": "How to Get through the Work Day When You're Tired",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Fatigue at work can be a real struggle for some people, but luckily there are ways to cope with the challenges of feeling tired at work.\nIt\\u2019s not uncommon for employees to feel exhausted and unmotivated during the work day. Whether you have a long commute, stressful workload or unforgiving managers, being tired at your job is something that many workers deal with on a daily basis.\nUnsurprisingly, research shows that when you\\u2019re tired at work it has a negative effect on your efficiency and performance. It also makes you more prone to making mistakes and forgetting things.\nFortunately, there are ways to help manage these struggles and get through your work day when you\\u2019re tired. Here are some helpful tips that can make all the difference:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-dinner-recipes-for-a-busy-week.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AJZqNq2LYoaNO+no5Ojm59bDrurfz+/k0/Dn1vXz7wCObimDiCd0czSWm4nc1tPk18Tw4cvm1Lrl1Lrh1ckAnaBSm5NGVkYZzcyz29fR9fPx4tjQz7+ytqOYn4qBAJ6hV5iGauHYxNTMxtPLxe/t7PHv7tjU07uwrbusqADd2NDXz8jc1tHq5uPp5d/h2cLKq5a2lILLtKXn4+IA+Pb39/f39vTy39HGspN9oWs9jFoybjoZcUgdwKeJAPb29vHv8Off29rIuIJIIYdWKXBEHn9PJIpVLqBvPwD19fXx7Ozk3NXp497Bi2uQcDuSWyd4QiB/TSN6SSkA+/j59PHy7erk6uTfxaePklcwkGYlcD8blFYujmhVAPf19vr3+Pj4+PHw7O7q59XBr7CGS3lmIoNKHqd+Yai9ykWO3qSAAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Dec 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-dinner-recipes-for-a-busy-week",
-      "locale": "en",
-      "title": "The Best Healthy Dinner Recipes for a Busy Week",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you in a constant state of busy? Between work, school, and social events, it can feel like there\\u2019s no time left in the day. But that doesn\\u2019t mean you have to forgo healthy home-cooked meals. In fact, research shows eating at home more often is one of the small changes that lead to big weight loss over time. Healthy dinners don\\u2019t have to take long to make or cost a lot of money. With these healthy dinner recipes for a busy week, you can have wholesome meals with minimal effort and expense.\nAdd variety to your diet with these ideas for main dishes, snacks, sides, sauces, and drinks all based on common ingredients found in most kitchens. Preparing your own food instead of eating out or buying pre-made meals saves money while also helping you eat better. You may not think it now but these concepts are simple and will be very helpful when you are preparing your own food instead of eating outside or pre-made meal packs consistently after reading this article .`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-stay-healthy-during-cold-and-flu-season.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlQXBW0vCUAAA4PPTAh97i559KnrppYKgCBN8KDFXpqxkyLKQyJxlFwczcVMcc5ezuSvbmbo5xQvRb+j7gNZuaOy3ztEGS8Ofui4nVfGid5sWCBwOKECwrXituNd8vGTeA0kLLMzUSG5jF5WbXGwHHHReN98KsU+cUpXZ0JEe8vCZUI5TxtG1dJgENEKnAm2G84kdeCVKLuZlIi/lMEje650qEBfLrV7VX/yu7cgl6tpLySRzw0oJZrIwkwUpT9zuU0/IZsLJyo/SNwkokx+tsiU1lUodxGUad5R9gyWRufKjYvkKw1Np7EweWcLkD8SFxonGndv8F3KXbtDma+ORqeaOGZHRxivgo6nphtNgHQXrmeHanoK8nsUXzHAOnQHwhD4a8L4sjiTR4TkLdXXpTm0ldJftdKl/xJHZvKQusK8AAAAASUVORK5CYII=",
-      "createdAt": "Thu Jan 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMq9r86/s8/Ct9HAuM++rtPIe9HUi8KSjcWNi8vBpgCZv7x6tapgtKKYwL7jy8/fz4bVvZHCPmbTfZ7DS20AZ7mlVLWcLauKqdLN6N7fyaWZy5uW0pmb1HmSzXyGAK3Z1XnJuNDm6dzK2N6st82XksmNjMuTj82blNK8qwDN5+pVxazq7vf01OfYlqnPp53YrZjTj5DMi43PiooAh9fLWMmxiNfKx+jq7dfgk5iDvsSYssOlz7+tz6axAGTOuonWyVjQuKjd2ezY4o+TgJebjYqMe8TTxsff8ABly7WA0cJpzLfF4+bo193FzbXn49fRoIa9zsXR4esAz9zi0tzj3ODp6ub049LW2dzV3NW407uH2OTqytHHAODJx+DKyt/Ny+HPztfFvtTaxdDHldC8edHYwb/Dq6Y82b87UBxVAAAAAElFTkSuQmCC",
+      "imageId": "fb0f6b6e-fa47-465e-c6a4-00d9d5305500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
       "slug": "how-to-stay-healthy-during-cold-and-flu-season",
       "locale": "en",
@@ -140,31 +65,106 @@
     },
     {
       "category": "health",
-      "imageSrc": "/articles/10-ways-to-make-your-commute-less-stressful.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABOUlEQVQYlRXLQUvCUAAA4PfvuhckdOmQFHpQSvIndCg8VGiWgVrMRMnKQAutEGZmLaThrIRhbK6cLjftvbft7Rnl+eMDhNIkk5qddy0uud0er8fn8/r9q8EgLzRthwBKbfahnmRSe7HD0G5kO3pwepGvcU99fYiJA3Ln+Y7clXuq3FMVVfsaaH3dGGEELVuFCLiXVxRVU1StI38K/GOjXvuQutrQMBASdQig5WCLvNWrN6XiUWwtkz65PMs0b6+QTXsjNOURsrPhjcDmjK+w4Cm41uNz8VAAW8RACIxNIkkSl42w16kwm9i5i7G5aCWxBTVlbBLwDXGb595LDMZ4OqAptNqV9P6Av4OWAwxo8vdlXWzYDsVkAi3HgObLMyeWmSnrP5CvFLVWldBfTCaYTAil4qvQKR//8x8cI/BG/1FBQwAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Mar 06 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIJ3aa+Lbvz3+Pb8/+rw+93n9snX683Z6eXu9+Dm7wB+oUO/4524v8GtoqTV2tfO2dy1q6nEsKnS19rZ3+cAYZYPrq9yrIx9T0chLToac2hRiXREuKp5koZoW1dSAHOaPIuUL6+WiJChjpSfkbq6u6yZbtTNc7vDv7C5wQCHtGtSoADD4Ljl7f/P3ue/1Oiwn3nSxV+4yMu+ztsAgKZdSYMAq8SfzdbnyNTZytznlZOOeGpVlqGqrsHNAI6ShgQFC3J2fcrNzYyJhpSXlZ2Miqh9d7GurrzK0gCxsboAAAhnZXH////k5OTExsatnpaui3yGdm1nYlsA2tLRZ0dDwb7B/P3++vn5////59vb0LW1xLCwpKejAM2xqbeCbvTw8u3q7ufj5tXT2rKdqaqRnMm1vOrn6GJExxczZbzzAAAAAElFTkSuQmCC",
+      "imageId": "9dc52804-9511-48e4-78a7-851385770100",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "10-ways-to-make-your-commute-less-stressful",
+      "slug": "how-to-get-in-shape-for-summer-tips-for-every-fitness-level",
       "locale": "en",
-      "title": "10 Ways to Make Your Commute Less Stressful",
+      "title": "How to Get in Shape for Summer - Tips for Every Fitness Level",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think about your daily commute, it probably doesn\\u2019t strike you as being particularly stressful. In fact, many people see their daily drive to work or school as a time for peace and quiet. After all, what could possibly be stressful about getting from point A to point B?\nIt\\u2019s true that your commute isn\\u2019t inherently stressful. In theory, it\\u2019s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When summer rolls around, everyone seems to want to look their best. After all, it\\u2019s the season of tank tops, swimsuits, and short shorts. The problem is that not everyone hits the gym year-round or has access to a gym that fits their needs. If you tend to slack on your fitness game once the snow begins falling and leaves start falling from the trees again, now is the time to start making changes so that you\\u2019re ready for summer.\nWhether you\\u2019re looking for ways to get back in shape after a long winter hibernation or just hoping to avoid ending up in an unflattering bathing suit this summer, hitting the gym as often as possible is essential. But what if you don\\u2019t have a gym membership? Or what if you can only commit to working out at home? Luckily we have some great tips for how you can get in shape for summer no matter where you are.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-a-part-of-your-lifestyle.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPklEQVQYlS3Ju07CUAAA0FI/wNU/MG5OTj4SRz/AyX8wcXJjwUGixo0BdRBiJCZCNKL4iCZAI6DlFnJLEVvqhZZSWvsu5RITQ/Ssh5Bc3LVHouG1v21BtwTdEnUbGU7X8mUnICQXf5m+oDutgfGh6rxqCAOzrVkd05XsIYGsgEUIwCrNVN5BGXAw9vA8fRmdy8VX8ilCtIJ0odroB4zkMZJXhuzmRWr1Prn8lFy4PZj0dZFhlYBGHuj4FFNbP40v3Z3M547XXs4mnS3B1gA3+hjKwzxdXYxFyUQ4dB6ZykT/+1Mbc+qo3hs+lujZw/Bfh9K7BLJwnkW8jjl1xCpBtlia2d8mE2EytUNm9oieO252e4CDb3XwCipUDRyVCxEqt0XdbFBXhOr/SC7mDbepGqyiQ1mDstZUNF4zRcP5BczE6I3HfjjgAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jul 13 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AI+bpJqgop2ho8vLzP///7S3ucDJ0tPb5NDV3ZCNiQCEkJjb3t7Lz8+7v8Ht7eycn6DFzNTP1t7V3+einJcAk6Cn/f//0NLTxcfI////trm8xdDd0M/Szb20ppCBAGd6cd3q787U1cjNz+nx+NXj7sq6tMaUfdewn6GZlACJfGrPycTMzcy2ur7V3ubb6fTCoZHLl3q+mYR/eWcAmHldkomBzNXewMDDy9DV4O325vD6spyMsY92bnBSAH1uZSdIcsDN2dDY3cvV29Xd4dzq9bm2saWLcU1IOQA9OkMADkCBkJ3P3+iUt9N6n7vM2N65n4uQb1ZDLR8AESU+iIyc08K9urO1Q1JtAC5pdq3Z3q2Mw4hfsIFbABp+oVW50FO2zFy90GXI1RRdfy1oq4zFy2ysra20o9bDx6mgNLYCAAAAAElFTkSuQmCC",
+      "imageId": "2d43af23-e41b-4f9f-f3a7-727b266d9300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-a-part-of-your-lifestyle",
+      "slug": "10-ways-to-get-moving-when-you-dont-feel-like-it",
       "locale": "en",
-      "title": "How to Make Healthy Eating a Part of Your Lifestyle",
+      "title": "10 Ways to Get Moving When You Don't Feel like It",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You probably know that eating a healthy diet is important. After all, five out of the top 10 causes of death in America are linked to unhealthy eating habits. However, it\\u2019s not always easy to eat healthy. Work, school, family obligations and other commitments often make it challenging to follow a healthy diet on a daily basis. Fortunately, there are ways to make healthy eating a part of your lifestyle instead of an awkward obligation once a week or so.\nAnd while we all have our moments when we crave junk food or a big greasy meal after a stressful day, making healthy eating a part of your everyday life can have profound benefits. A balanced diet filled with lots of fruits and vegetables lowers risk for almost every disease and helps you feel better mentally and physically. Follow these tips to help you integrate healthy eating into your daily routine as seamlessly as possible.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year\\u2019s resolutions are the perfect time to start fresh, refocus our efforts, and commit to a healthier lifestyle. Many of us make the common resolution to exercise more. However, that can be easier said than done for some people. If you don\\u2019t feel like working out one day, it doesn\\u2019t mean you stop going to the gym or just give up entirely. It means you have to come up with creative ways to stay motivated and get moving when you don\\u2019t feel like it.\nExercising is not always fun, but we need it to remain healthy and fit. While some people love sweating in their favorite gym class, others avoid workouts because they know how much they hate them. While exercise can be difficult at times, there are lots of different ways you can make moving more fun so that it becomes second nature and something you no longer dread.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQYlQXBu07CUBgA4PMSMvMMBlGjzDwFj8FlcXBSExwwXgYScVEW44DIxQvGkAhptBLbQoOEY6WlDaC01Ta055z+fh9aO64t7xZjheb6UTWaK60e3mzkG5v5RiR7GSs00U4bb9U7qVonU3tLXnPJUjtV5dO379sP4t6LhgBg0O9fnJ3eV8t3lfLz02OjXrkqnv9aFgAgzyeEMZ/QIcYfg4EgimNdBwCfMo8QxBhzXXc6m4miKEmSIAiy3LNs23FcxhgKAGRZ5jiO53mMca/X5flXURRUTQ0CQACBbVuappmm2Wq3pK40N+eGrjvOH0CA5jb1/IAxCgCJRCK7nwUASqm7YN8WRYpOPnVvYgJWxqHQUjwedxYwMnxF9xWDoC/DV6dMHv6k0plwOBxdieQOTrC2UCdkZJB/qUHugUJ0g4YAAAAASUVORK5CYII=",
+      "imageId": "2e6d10c8-e721-4f95-131f-7ae3d1868d00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "top-health-benefits-of-meditation-and-how-to-get-started",
+      "locale": "en",
+      "title": "Top Health Benefits of Meditation and How to Get Started",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Meditation is one of the most effective ways to bring your mind and body back into balance. This ancient practice has been proven to help decrease stress, anxiety and depression, while also improving memory and concentration. In addition to these benefits, research shows that meditation can also have a positive impact on your immune system, blood pressure and heart health by lowering your levels of the stress hormone cortisol and lifting your levels of oxytocin (a \\u201Clove hormone\\u201D).\nIn this article, we take a look at some of the top health benefits of meditation and how you can get started today.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK68jKm8ivrmxv/bo+HJqquzmu/078bAvsq4n/fz8ACerV2Lo1i3hXW3WDvij0yaaTvTqoyReXZ5YFLbwrAAi4tBjpdaZwQNawocymNbvG1aekgwoHtp9d7M3rukAEUbF4V7UryEdpFiWIVFPJt4baqXZrSpjI90a3VLOQCcJzTGln/30q6oim6XhW7Tv7G+pJeTY1uNSz6ceUIAmHM8qIhYck5EiTs/0pSN4b+tp3lwykdWz2Vao4lIAIFmTpV1Y82RmNt+f5Y7NHxXO8BrMqpHPKcwOcZLLgCfjmuZfmPPlpS9kW6Hc1R+bTfIbya0mm/vl4j8hWkAqYFdnYNflW1clmhS6bmWnZhxvamJ+tKx1nd8zDw3AKWEZNXJprSrm9G1tKl4aIFmTMe5r+XW19XKyLFsccKvpKwM6rNxAAAAAElFTkSuQmCC",
+      "imageId": "41d2843b-f6c6-4f19-e21a-6d7134751b00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "the-best-plant-based-foods-for-optimal-health",
+      "locale": "en",
+      "title": "The Best Plant-Based Foods for Optimal Health",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so much conflicting information floating around the internet, it can be hard to know exactly what we should and shouldn\\u2019t be eating. Thankfully, there are plenty of scientific experts out there who have dedicated their careers to researching the impact of food on our bodies.\nReducing the intake of animal products is one of the most effective ways to improve your health. There is strong evidence to suggest that a plant-based diet can reduce your risk for developing a variety of chronic diseases as well as increase your lifespan. The World Health Organization recommends an enhanced vegetarian diet (>200 g fruits and vegetables per day) with an abundance of plant-based foods for optimal health, disease prevention, and longevity.\nIn this blog post, you will learn about the benefits of a plant-based diet and which foods you should be adding into your diet if you want to optimize your health.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMvLxrSxoLa0ppCKgdHO0PTNru+/ncebgbGNf/Hg2wDQx43GvYC7t4Pt8fXg3eCXYTiUXjhuSjSriHO9mIUA4eLU5ubQ2dfI393a8/f/mZGUbTwWfkwpXDMcUi0ZALOjcrSogLOqk87Myvv27vf8/snHz5+MiGRKPWZZWAB0ZUTazrXw1aLo0Zfq3sH0xJLq0bXbz8/c3ung4uoAqKuupKyVmJqFXF1RmIx//5ou/Joq+qRG8LuN7OnpAODg5WJtYDQtAFdNK9Gif/mUTvW1cvN5KvdrGe3l2gDe3eK2uMGKkoVkbFSdm43h0cjZ4t/nxLHyr47q5uoA0NDVqpmRsJ6cjpGSuMfF8/Xz8PHw9PXy3bil3tncALe3v4hvYKx1Q3ZNJJ+Xi+fh1t/XzMnCt5yUj83M0jjeyGU7iJG/AAAAAElFTkSuQmCC",
+      "imageId": "f3fc982a-c2ee-4f2b-d226-794736f9f700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "30-healthy-snacks-for-on-the-go",
+      "locale": "en",
+      "title": "30 Healthy Snacks for on-The-Go",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You\\u2019ve probably heard it before: When you\\u2019re busy, you need healthy snacks to keep you going. The problem is that it\\u2019s not always easy to find healthy snacks that are also fast and convenient. In our hectic, on-the-go world, most of us don\\u2019t have time to sit down for a healthy meal three times a day. Instead, we\\u2019re often forced to make snap decisions about what we can eat quickly and conveniently. Unfortunately, those decisions too often lead to less than healthy snack options like potato chips or sweets. However, there are plenty of great ways to get your recommended daily intake of fruits and veggies even when you\\u2019re on the go. These 30 healthy snacks for on-the-go are perfect for keeping in your purse, desk drawer, locker, or anywhere else you might find yourself hungry and without access to a full meal.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHmae26Zg2qrqI24tZ3CucHQyM/a1dbe0JN3YmpXRgBGLh1lW0pcVT1rYlCYi3aEcEx4Yj94ZEheOCNbRjkAnnpklGxNm3pdqYNksoVkwpR3zJt5yJd3u491nmdLAKiyo6a9rpzFuMbSwtnYxurl1O/m3fbv6Pv49dnIuQCghXLMt5zIu6q0lIPSw7rTva+2lIPx6ODs4drAsqoAtba809faz8fEuJaAxq6gxa+nxaubtpKCo3ZopoqBAJufoq7M2rS9wLSUe7uvqKSblqeUirKgmci7spuHgwB6ZV2Vu8idqa2VbFmknJ6VhH2fZT2jfmSSdGGIaFkAVi8oWTs5YkM/aUI9Z0pJdVJJc0QwaT41YkA+WTIsAC0PFS8PEi8PES8PEi4NDzMSEjQTFiYHDiwOEysNFdvHncT9acUeAAAAAElFTkSuQmCC",
+      "imageId": "e878b65e-da1e-47bd-c9b9-9dee4ddd9900",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-make-your-home-a-haven",
+      "locale": "en",
+      "title": "How to Make Your Home a Haven",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Creating a home is something that we all strive to achieve. For most, this is somewhere to relax and unwind after a hard day\\u2019s work. It also needs to be somewhere that feels safe, somewhere where we can shut out the troubles of the world and just be ourselves. Creating a home is no easy feat though, especially when you consider all the things you need to consider from furnishing, decorating and creating spaces that feel like ours. That being said, creating your perfect home doesn\\u2019t have to be as difficult as it sounds. There are plenty of ways in which you can make your home your own personal haven. Below are some tips on how you can transform your home into your very own haven...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHUlEQVQYlR3Bb0+CQBwA4Pv+H8AtX7TmplYuVy9y6wW1Of9ExgGuiSwE79ASOBCFccjB/dp6HgTxT6/der7rjvodZdAdPw1mb8poODh8r2SeIhntPl5fvmbjx851v93CYyUhzs1Va6VO4ByjKtw3+REyNrrvDXsd5eH28ruVadREO3GMUJXGPAnLOBBJWLBDYJl1QGUSyPxUFzkCKaHIZHGuTnEV7uRhy8hm79OEMVHXyPd9y7KIYzd5KlIG4kIoxbrueR7nHNn2GmNsmCZjrJEAAJuNg7GGMSaEINd1KSVre62qKuccACily+VS1/UsyxDn/PKvrmshBAA4jjOfz6fTieu6yDAMTfs0TXOxWJRlCQCe52mapuv6u6r+AZzaBFpgD9hKAAAAAElFTkSuQmCC",
+      "imageId": "eabcc67d-78e9-4f63-a474-b69631fbd600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "10-tips-for-keeping-your-hair-healthy-and-strong",
+      "locale": "en",
+      "title": "10 Tips for Keeping Your Hair Healthy and Strong",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Keeping your hair healthy can be a challenge at times, but it's important to keep on top of things in order to prevent any further damage. Whether you have fine and sensitive locks or thick and curly tresses, the right routine will help keep your hair strong and prevent it from breaking under pressure. Keeping your hair strong is an ongoing process, but by adopting some simple tips you can make things much easier on your locks long term.\nLearn how to avoid over-washing, what products are best for stronger hair, as well as what you should be doing if you see strands falling out more than normal. The latter might seem strange, but trust us: sooner rather than later that excess hair loss could indicate something more serious happening beneath the surface. Here are 10 ways to keep your hair healthy and strong...`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

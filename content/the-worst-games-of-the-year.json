@@ -1,9 +1,9 @@
 {
   "category": "gaming",
-  "imageSrc": "/articles/the-worst-games-of-the-year.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABHUlEQVQYlQXBTW+CMAAA0CZGBVQ+VbBACyofUhgiocoY1iGiy05bdjRmief9/+veA4/H7/fXDyEJIUmeF03Ttucujl/qN1aWJegut+v1435/NE37fD7bc1eWVdO07PhOKQV7WpUH5q03/Ejq9XqaqsMFIlF6rE+WhcCJdXV1jskW4xXPjyRRcx0vDGLfDz0vACRKXcczITYh5jhBEMaSqMGFZULbmkNgWFiRDU3VyTazl+6gzymyEUWxYzt/4gzsPxlErmkgVtR5Qgd9TlN1WryulsEuoyA9HbAf2sjfpnSXUUlSxIkqy9MkyWhxADW7bIIs31UkyhRlLgjj4ZA3dKxoM4Qc4K0T2/LMxcqYIjQNbXk9GUqOGaKZPxHkf0A/Llu0Wm7tAAAAAElFTkSuQmCC",
-  "createdAt": "2022-08-11T22:06:40.203Z",
-  "updatedAt": "2022-10-11T17:19:01.302Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIklEQVQYlQXBe0+CQAAA8BvNB4QPEI6X3RkPIeGQOtC8lpJPlqPm2oxh/7bZ9/8C/X7gev0ry88smy+XeRiSw6GoLz9xnKzXW8YYOJ+/89VbVdV1famq+nT6KorjZrMriiNjLyAmlNIFQi7H3XAcJ4rSQNbuhiNKZ4Zhgv2+LIqPlC6iKOF5Qbztu06QTGlEkjl7BYFPRtiDqqmqRrst8LyoQRNCQxmouCsB3cLdzkDqqQ8kstCw2WjLEvT9EGH7V9bBoswNjJFlv68OaZw1mi1ZgrOMTaeUJCl42jDsBv44nj/nJJ71e3JHlKQe9JzgMaFguzvao5CEqedOVEXnBaHV4jWIFKg5jgc8Ox6avq7dq7KJlDHqj4WGiK3A1iddof8PlMUvlUtdPUUAAAAASUVORK5CYII=",
+  "imageId": "36f3d01e-053f-46c3-ee27-9fda2d6b9400",
+  "createdAt": "2022-11-05T22:00:04.738Z",
+  "updatedAt": "2022-11-05T22:00:05.505Z",
   "categoryLocal": "gaming",
   "slug": "the-worst-games-of-the-year",
   "locale": "en",
@@ -20,151 +20,31 @@
   "relatedArticles": [
     {
       "category": "gaming",
-      "imageSrc": "/articles/the-5-most-overrated-games-of-the-year.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKElEQVQYlWNYuHBhWVlZdXX1ydNnb965+eLN23///v2FAYZHq5Y9mDPjfEr854cPqutL9xw/8e3bF4jcv3//GA672z9ds2KzKO/d6ZOnTu3ZunPjmq7Yeb3FF/dt+fnzJ8Od/s7782afig79cPXy5y8fF1flNrtatEZYPrpzFaT719u7X26e/Xhh55qV8xfN7Dq5pGBCgVtulOs/MGD49/Pbv3///vz69vrNy4XTatJDzSv9Nae2FELthqj69+/frx/fbuydMCPH3NtMeursltt3L0Kl379/u2fXjh1r50+rT5qWZxfhqrdm3ZK7925DpR/cuzNlyqTs9JSfv75vnF4X5qCTmZnZ1FAHkoZ48cePHy9fPr9+4+rp0yePHDl07tyZ8xfOAqUBfqTdqZsqyNkAAAAASUVORK5CYII=",
-      "createdAt": "Wed Sep 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AAcMGxMbKhYiMhIgNA8gNg0fNQwcMhAeMhEdLggRIQABCx0sN0pndIE+VmhJYnRBW25LY3VoeYdWZXQJFSkADx40BSdCBzNXAzleBURqBEZuDktuCz5kEjVXAyE/AMxtMaRGM4N1PNuxKW2EVIaWUaSbS56QPMKmK4pcPACVIxqWFRbDhxmEei27hSDljwvKihjTfxXHixWbOiMAuRsMTQ8crWgSv34Ujl8eST86umYSn1oU3XQDnzcUADYIEFczPYVya759VG5vcUxfaoRyZ452aqF4YyUiNgAACBkmNkVib35fc4ljcoI/TmJdboJhc4VjdIYQHC0ACgwaBQgXAAQVcXV9i5GZeH+JiI2WJi08AAANCA0cAAcJFggMGggNHD5DTk9UXkNHU09TXR4jMQUKGggMGp4WWGjyvntbAAAAAElFTkSuQmCC",
+      "imageId": "f8f9c873-0f3c-4366-8386-1c6cd3aa4f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "gaming",
-      "slug": "the-5-most-overrated-games-of-the-year",
+      "slug": "the-top-5-games-of-the-year",
       "locale": "en",
-      "title": "The 5 Most Overrated Games of the Year",
+      "title": "The Top 5 Games of the Year",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It is the time of year when game journalists and bloggers around the world start posting lists of their favourite video games from the past 12 months. These are often referred to as \\u201CGame of the Year\\u201D awards, but they are not all created equal. Some use a points-based system, while others ask critics to vote on individual games and not just give them a list of possible answers.\nThere is also no standard definition for what qualifies as an \\u201Coverrated\\u201D game. Some people might interpret it to mean any game that received generally positive reviews but has little chance of winning a Game of the Year award. Others assume it must be a high-profile title that almost everyone agrees is terrible but continues to sell well because it has been overhyped by gaming journalists and analysts. In this article we will look at five overrated video games from 2018 that were widely praised, but do not measure up to their reputation.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Games are a major part of our lives. We spend lots of time playing them, talking about them with friends and family, thinking about them and even dreaming about them. The games we play also reflect who we are as individuals. They serve as a mirror that reflects back an image of our unique personalities. Each one of us has different preferences and taste in games. There\\u2019s also a lot to choose from, too: There are so many video games today that no individual can ever hope to try them all. That said, there are some great ones out there and they come in all shapes and sizes: Action-adventure, shooters, RPGs; you name it! Here is a list of the top 5 games this year that you must play if you haven\\u2019t already:\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-couples.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APno7vjs8Pjl6/bM1vbM1vbH0Pfe5/fi5/n0+Pjn7ADnX4bpaI3oYIfrf5/oW4PmYYftiabtjqnxtsfqdZYA5qSx3qim8bfN7JWy66C56Zm5216T1KTAyp67tpi0AOvQy9fTssSqsMSjqfDT3fK21qJdfk1MRn58hot8rgD6+vzLy8vHoJS6pZrg4OD6+vzeyb7ky7y6sKj5+/wA+vX3cm5ryJmSimthrqWk+evuz5uW17Oh38LB+vf6APbt8EI8OOeUt1lQT3Jsae1SYtRaX7R0atN2feiDigDct8huS1LeoLJmSE3FiKHXOETnN0Xsoa3bY27cO0YA36642aO45KO7rnCF6pq6xT1G1TZA2cTSx01U5T9MAOne2+TG0teFoeCJp9mfp5RJR+VBT96Fh82lmtlESxgazYpaJ5jUAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jan 15 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-couples",
-      "locale": "en",
-      "title": "The Best Games of the Year for Couples",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It\\u2019s the most wonderful time of the year. From binge-watching Christmas TV specials to baking gingerbread cookies and sipping hot cocoa, there are plenty of ways to get into the holiday spirit. And what better way to keep that good cheer going than by playing a game with your significant other?\nWith so many different board games available on the market, it can be challenging to figure out which ones are worth investing in. Thankfully, this list features some of the best games perfect for couples this holiday season. Whether you\\u2019re looking for a light-hearted romp or an intense challenge that brings you closer as partners, these games have you covered.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-partygoers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANaz3+bD6O7M7PJykPFrhulwi9LM7NDL68vF5ci+4QDaocvzwunvyOrtiqn2M0vUkK68tNXMx+a3rc6Kd5YAxH2K9bnn2py8v4+gy57CxKbAc05durLUupqzmmhnAKtQa+rB6NhKaLVoacWowciemn46OrONfH9xkaBkawDZtsmvjbjpjn/CNUTGd3LIhmbpYV+/bUcvKUlhSWoAuaLKsXq2yVJKsC0nuUY9yWxavVVGhko1dVZfdmiIAKGOroFfiMpiJtZ0PK9RfMFZWLFkXsBaIUQxRWVljgCOTl/EhVi5lWi5kGXFgXLmnjW7h1n5piGqb0FyX3EANBYngkUlgk0bi0UYgEUbhU4ahEwQfUkddFNDZX3MAKEWUDERHjcOHEEREywTEywVFCwWEhgTFx0XICknQ2bJmoM/qwHMAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Oct 19 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-partygoers",
-      "locale": "en",
-      "title": "The Best Games of the Year for Partygoers",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year\\u2019s Eve is a fantastic occasion for bringing people together and having a communal celebration. However, it\\u2019s usually either the most awkward party of the year (if you are single) or an excuse to get trashed and make out with someone in a magic hat (if you are coupled-up).\nIf you\\u2019re looking for something more than just that \\u2013 but also want to avoid playing another Frozen drinking game \\u2013 here are some great board games that will allow you and your friends to get in the festive spirit.\nWhether you have a small group or intend on playing with many more guests, there are plenty of games that will be enjoyable even with a large group of players. These board games all make excellent party games and can be played by anyone regardless of age or skill level.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-and-worst-games-of-the-year.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABK0lEQVQYlWNoaf3nGPyHWfE3F+8CfSV5W221iuzMfzDA0Nzyx8b7F5PQO16uMFUpSSMlhSVz5/779+/Xr19Q6fb+n4xcd/m49GWFRdSkpZYvWZ6RlpeSnHPy5FmGpubflk5fGdmPcHGKCvPzGWpoNtY2R4Qn5uaU3b51l6Gx6Ud04mcmlgVc7Fy83DzxUTFrlq0vLayc0D8NZHhT44+AwA9MTCWsLOxc7Bwzp0/fsXV3RlpBQ30bWLrpm5HpCyYmX2ZmNjZWjitXrsycNtM/ICI3r/zhg8cMjY1f4xOeMDJpMDGxyMjI/fn959D+Q96eoeoaxtu27mBobPwcEHCNiUmAkZExIiLiLxh8+vTpzZt3IMMbGj7w8p1iZm5gYg6aMGHe379/4WEClAYABv2WB9NrxckAAAAASUVORK5CYII=",
-      "createdAt": "Fri Jan 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AIaG/DBB+Qop/wkMnjIjFzIhHHlta/////7+/f39/QCKivw1Q/kIF/QMCVYqHhImFhamnp/////r6uz+/v4AkZH6Q036EBneCwczHBMLLCAhpKGjeHd+YF5pxcTIAI+O+TY/+wgMvwwJGQsGA0lAQnx5fz07RG5tddjY2gCTk/hDSPsICp0KCQgAAABtaWm2sblWVF6Tkpn///8AgoH3Kiz0Cwx1BwgBAAAAo6KiysbMV1Rfjo6V////AIqJ9igq8AsLUQIBAAQDCNva2qGeoS4uN2trdNnZ3ACSkfg4OOASEjEAAAAjIyf///7EwsRHRlEjIy6ysrUAh4b3LC7MDAwYAAAAXFxc/////v797+7v4+Ll////AICA8QUGyQkJgAAAP42Onv////r6+v7+/v////7+/gYClHYMAmDBAAAAAElFTkSuQmCC",
+      "imageId": "5a2652be-3016-4234-b9b2-cd9a9169d300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "gaming",
       "slug": "the-best-and-worst-games-of-the-year",
       "locale": "en",
       "title": "The Best and Worst Games of the Year",
       "intro": {
         "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`It takes a lot of great games to make a great year. In 2018, we saw new entries in long-running series like Red Dead Redemption, Assassin\\u2019s Creed, and Halo as well as brand new IP such as Monster Hunter: World, Into the Breach, and A Way Out. It was a year that saw game developers pushed by streaming services like Twitch and YouTube continue to experiment with new ideas and designs while also returning to their roots with older properties.\nThat being said, not all games are created equal. There are excellent games and then there are... others less so. To help you sort through the deluge of new releases this year, Gamers Central has compiled a list of our top ten favorite titles coupled with an even longer list of disappointments that you may want to avoid entirely or at least wait for a sale before picking up.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-anyone-who-wants-to-have-fun.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFElEQVQYlWP4Cwb/UMFfGGCAs/79+/f9+/edew9Pnj5n/fr1P378+PP7D0gaouP9+/dTp04trW/PbO41s7Dq7u3fu3cvw+3bt3fu2rdjz6GO/hnh4eF1sxdWHjgfkJIWEBBgYGzEcOz46YLi6qKymllzFlnbOpZUVHsf2tDQ1ZKfm+vk5MTw7u2Hsoq60LCoLVv3pWXkJCUlNdbVrlq6fPHCJbU1jQx37zydNm2apaWlrY39tOlzCwuLDx84+vnz91+//oCc9vL5xw3rN4WGhhobGyspKcXFxU2aNAnuQ4afP3++eP5u44at+bnZ1tbWwqLiYWFhCOk/v//8+vXr08dvF87f6OjocnNzWbJ4BcS3wGABAFMTzzH3d3qGAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Feb 21 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-anyone-who-wants-to-have-fun",
-      "locale": "en",
-      "title": "The Best Games of the Year for Anyone Who Wants to Have Fun",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Video games can be a wonderful source of entertainment, but they can also be stressful and have the potential to negatively impact your mental health if you play them too much. That\\u2019s why we created this list of the best games of 2019 for anyone who wants to have fun without sacrificing their well-being.\nIf you\\u2019re looking for a game that isn\\u2019t as intense as most first-person shooters or as dark as many role-playing games, this list is for you. Whether you like puzzles, trivia, sports, music, or something else entirely, there\\u2019s an entry on this list for everyone who wants to have fun playing video games.\nWith so many video games out there right now it can be difficult to know which are worth your time, especially if you want a game that has less stress and more fun than most others available today. So if you want some great ideas of where to start on your search for the best new games out there today read on!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-everyone.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLElEQVQYlSWPTUsCQQBA5+8GQQchukiFh+yYgZWYYaKlmaaS2WKt5Calpmm6irjrKrvZjON8unQN6fzeOzwQjydTyUw2U8jnioXCw2PpSavWmo1Wt9PTdR0oynNF1Wqv9Ua93e3opmkhhAkhEELbtkHva2gYE8eZW7Nv0zRty5j0PxB0KOGLxQJgTMbGNJq43T083trxHfj2Wlp5NtKtUR9DBILh2Ob2fiAUu8oW/YFwIp0rK6XIafBFrXxWFXB0EtnweD1e/1n0uj8YOo6DEKrc3/XenhkVgCzZeeQyl74hhEgpIYRK6mI+HUvprjGjglGhZcKD5vuw01ZTIU6Zu/oVYkUJX9eMCs5lU0m31byUrpSuECtGBcYErC+XjBL+L3EuGRWUcIzJzxz9ATpC8yMnAbseAAAAAElFTkSuQmCC",
-      "createdAt": "Sat May 07 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-everyone",
-      "locale": "en",
-      "title": "The Best Games of the Year for Everyone",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`If you\\u2019re interested in video games, you have probably heard that 2018 was a great year for gaming. It was. But it wasn\\u2019t just this past year\\u2014gaming has been on the upswing for a while now. There are more gamers playing more games than ever before, and it\\u2019s an exciting time to be part of this culture.\nThere are so many excellent video games released every month that it can be overwhelming to keep track of them all. That\\u2019s why we\\u2019ve compiled a list of what we think are the best new games from the last few months of 2018 that everyone should play if they get the opportunity:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-adults.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AOzt6O/v6/Hx7/P08fb29Pj49vn69/r7+PH16vDx6gDu7unw8ezy8+719fL39/X4+Pb6+/j8/PmRrluNoUYA7u7p8PHs8PHs8vPu9fXy+Pj2+vv4+fr3l5l0o6FoALO0r6KjnqyqpqmopKyqpqCenNbX1Pb29KCShZyNdwAhIR8dHR0REREMDAwfHx8WFhZqaWX19fCDd2utlX0AFBQSFBQUCgoKBwcHFhYWFxUTY11W7uzo3tzY5uLfAB8dGRIQDiMiHg4VCRoYFCMiHnZvZNbUztTQysvIwgAjIyGrp6S0sK22r62impaDfHowLyu1sa5pW1C1g1gAk5OR4uHd5uTg5uTg3dnU2dXSj5CN6Oblg3t1oFc8AOvs5+zt6O/t6fDv6+/v6/Lz8Pb29Pb29MPAuqWhnMjhwacXvI16AAAAAElFTkSuQmCC",
-      "createdAt": "Sun Jan 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-adults",
-      "locale": "en",
-      "title": "The Best Games of the Year for Adults",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Video games have come a long way in the past few years. And while some might assume that this means they\\u2019re now \\u201Cgrown up\\u201D or \\u201Cintelligent\\u201D enough, the reality is that they are becoming more and more sophisticated at engaging players. With that being said, the video game market has seen a huge increase in popularity of games with an adult aesthetic.\nThe best rated adult games have left behind the cartoonish characters and storylines of old, instead focusing on darker storylines and character development to keep players coming back for more.\nThat being said, there are plenty of great games out there that don\\u2019t shy away from their adult nature. If you\\u2019re looking for something new and exciting in 2019, check out these amazingly reviewed titles:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-multiplayer-gamers.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABBElEQVQYlWP4BwZ///79hw0w/Pv3b+v23fKKOmHhsXPnLTp58vTnz5/hqkHSLu6BUrLqyhomZrbeBuauqlpmqjqmxvaeT58+Z3jx/JW0nIakjJqGvrWpnbepnbeatnmgXYCCfdHM2QsZVq3eKCmnJSqhrKRuLKukp6JpKqOoK2rjI2boO2P2Qoa2zokyCvoGJg7hMVlpGaV2Tn7yKkaiEsqiEsqLlq1mePLseWPbpJt3nvz69efv379fvv3YuuOAkbmzpJzW+s07QE7DBAcPnSwqb377/jNU+sCBAy1gUFVVNW3atFmzZiE89u/fvx8/fnz79u379+8/fvz4/Pnzjx8/INIApmi8zBjQeaoAAAAASUVORK5CYII=",
-      "createdAt": "Sat Apr 30 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-multiplayer-gamers",
-      "locale": "en",
-      "title": "The Best Games of the Year for Multiplayer Gamers",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Games are more popular than ever these days, with the power of networks and the internet meaning that anyone with a computer or console can get in on the fun. From shooting zombies to racing cars, there is something for everyone when it comes to video games.\nThere are so many great multiplayer games out there, whether you\\u2019re aiming to save the world from aliens or simply just have some laughs with friends. The best multiplayer games offer an experience like no other and allow players to compete against one another while also teaming up to take on a greater challenge.\nThere are plenty of ways to enjoy playing video games as a group, whether that be at home with friends over drinks or even as part of an organized club. Here are some of the best multiplayer games out there if you want to team up and take on challenges together as well as compete against your pals for bragging rights.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-kids.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APPq5ti9r/39/fr6+vPv7Pz7/OexkffczPbu6u/g2gDLs6C5noPXzcebgWplLgjLrJmemorUva7Af1zEi24A1dXXoqKi2qJ+q4BYgUoEhlMHrmsE6s+yq4iBtpeRAOzk3dXLw9rPwOHRwN/SwtjV1sLB1s7R5+zYyOnWzQDl1s5zQxyRZkm/hUXLm2TW2e+XnuXM0PHx8fG+yNkA1dDIiGNAsqSU9PDv/f39kI+vXl+u2N/q2N3tmJ3EAOnn5uPh4OPf3OeYkvPMycPI1qGlpuHi7cq0kLanowC+vr6Tk5NXVFXaUkziEw7p7Nf5+fv2+PxviPhLcf0Aq6uriIiIcG5v29DL8OrjS+xIxPrKsbz1FzrrkaX6AODg4LGxscjIyPb08sX+z1X6adT+2/7+/nOC6K+t4oWz15v6tTr3AAAAAElFTkSuQmCC",
-      "createdAt": "Thu Feb 20 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-kids",
-      "locale": "en",
-      "title": "The Best Games of the Year for Kids",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Gaming is an activity that has been enjoyed by kids for many years and it shows no sign of stopping. In fact, the market for kids games has grown so much that there is now a range of specialist games developers who only make games targeted at this audience. The release of new gaming devices such as the Nintendo Switch, Google Stadia and the Xbox Scarlett has also led to a renewed interest in kid-friendly games from parents and other adult gamers. Here we have put together our favorite kid-friendly video games that you can play at home with your child or let them play on their own to help develop their skills.\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "gaming",
-      "imageSrc": "/articles/the-best-games-of-the-year-for-experts.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AO75/OLu9dTg6cXQ3ra+0KiuwZufsI6So4WJmn6CkwDd7vbI3+6yyOevu+CYnq6hp7qWmquKj5+Chpd7f5AAg8XYpbG7lqCsbHF7XmyVkJrOqKu+ra+8bW98eHyNAIa3u0hYZVyLlF6Di1trb6eqtIKCjlJMV2BYeZVZewCJ5+6ft79jiqaNw9FPVFU7SFp0c3p+eodgXWK3TokAg+npIYC7KEh/xq/N9trsiISKjHyUvra/yJm7qTGOAByBtQ83gB08lcST0fW94tJ6uoAqeVUYaFsOX7ckgwA7SrQ6R7tLScK7c83kkc2ZC30PC04aBFJUAkmrCEYAWlnAV0a9V0W/hFDBpxmNOARWQhBnoBFWxRVHxhhHAFxfvFlTu1hPvVlJvE81rYApgcIfT8gdScgbSMYYRT/9nnpBX5PoAAAAAElFTkSuQmCC",
-      "createdAt": "Sat May 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "gaming",
-      "slug": "the-best-games-of-the-year-for-experts",
-      "locale": "en",
-      "title": "The Best Games of the Year for Experts",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Expert gamers are a finicky bunch. They love getting their game-on, but they also have exacting standards when it comes to the games they play. That\\u2019s why there are so many expert-friendly video games out there today. But that\\u2019s also why it can be so hard to find an expert-friendly title in general.\nExperts want games with a variety of challenges and objectives that demand strategy, not just reaction time or hand-eye coordination. They want graphics and sounds that aren\\u2019t juvenile but instead sophisticated and immersive. And most importantly, they want to play against other experts rather than casual gamers who keep asking \\u201CRed or blue?\\u201D\nSo if you think you have what it takes to make this list of the top expert games of 2018, check out these top-tier titles for some expert-level fun:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

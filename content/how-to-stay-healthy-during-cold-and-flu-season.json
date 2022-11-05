@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/how-to-stay-healthy-during-cold-and-flu-season.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVQYlQXBW0vCUAAA4PPTAh97i559KnrppYKgCBN8KDFXpqxkyLKQyJxlFwczcVMcc5ezuSvbmbo5xQvRb+j7gNZuaOy3ztEGS8Ofui4nVfGid5sWCBwOKECwrXituNd8vGTeA0kLLMzUSG5jF5WbXGwHHHReN98KsU+cUpXZ0JEe8vCZUI5TxtG1dJgENEKnAm2G84kdeCVKLuZlIi/lMEje650qEBfLrV7VX/yu7cgl6tpLySRzw0oJZrIwkwUpT9zuU0/IZsLJyo/SNwkokx+tsiU1lUodxGUad5R9gyWRufKjYvkKw1Np7EweWcLkD8SFxonGndv8F3KXbtDma+ORqeaOGZHRxivgo6nphtNgHQXrmeHanoK8nsUXzHAOnQHwhD4a8L4sjiTR4TkLdXXpTm0ldJftdKl/xJHZvKQusK8AAAAASUVORK5CYII=",
-  "createdAt": "2022-01-06T18:56:56.054Z",
-  "updatedAt": "2022-10-11T17:17:45.116Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMq9r86/s8/Ct9HAuM++rtPIe9HUi8KSjcWNi8vBpgCZv7x6tapgtKKYwL7jy8/fz4bVvZHCPmbTfZ7DS20AZ7mlVLWcLauKqdLN6N7fyaWZy5uW0pmb1HmSzXyGAK3Z1XnJuNDm6dzK2N6st82XksmNjMuTj82blNK8qwDN5+pVxazq7vf01OfYlqnPp53YrZjTj5DMi43PiooAh9fLWMmxiNfKx+jq7dfgk5iDvsSYssOlz7+tz6axAGTOuonWyVjQuKjd2ezY4o+TgJebjYqMe8TTxsff8ABly7WA0cJpzLfF4+bo193FzbXn49fRoIa9zsXR4esAz9zi0tzj3ODp6ub049LW2dzV3NW407uH2OTqytHHAODJx+DKyt/Ny+HPztfFvtTaxdDHldC8edHYwb/Dq6Y82b87UBxVAAAAAElFTkSuQmCC",
+  "imageId": "fb0f6b6e-fa47-465e-c6a4-00d9d5305500",
+  "createdAt": "2022-11-05T21:57:11.551Z",
+  "updatedAt": "2022-11-05T21:57:11.955Z",
   "categoryLocal": "health",
   "slug": "how-to-stay-healthy-during-cold-and-flu-season",
   "locale": "en",
@@ -20,151 +20,16 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/the-best-healthy-breakfast-recipes-to-start-your-day.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANvb29vb29vb29jW1MvIwLWsn5mMfIh+bYqDdZiViwDh4+fU2N3e3uDh4+Xk5ufj5ebg4ODW0s3Fu7GpmYoAZG54UF1rilxenWRX1tLY6e3w6uvv6uvv5+nr4uLiAEJKUGNiaYOGjL28v6+4vMa+w8rCxdzd4e3v8+zu8gAiJim0u73Y0sm0rJpbZW92ODqrYmJ4am2ip6ft8PYASkxQ3NfLzr6mf3VreoWM3uLl8Pn98/r83+Xq4OTpABsZGlBQUIN3a1FOT52nr87W3Le8xJCUl29vb+nt8ACIbVtZUUkTFRcTFRcVFxgVGRwZHSAfJiiSkIzv8/gA0cnBk4FxFRUVERMVEhQWExUXFRcYT0lG5eXn7vH3AIBsXCslIBgYGBUVFRETFRMSFSwjIcm9sers7e7w9I6WrbPGEHHmAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Nov 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABP0lEQVQYlRXJy0oCURgA4PNUrVrUAwSRCLaJogsl4Ru4aWOrghZSKpWX8VILMSqcRMSiqWm8ZIR00aQoo9GcYcY5c87Mcf7o234IAMKH0fGJyWm3e2rG5fLMLiyvLK2uVet1AEAAcCNVEumjgzgXDEUi0fhpnhfuRHnwSx1AsTin6EZPUQdDQyMMsxG2LMoYte0fAyPvuk/Vcfe713n/qNauKqLQarf6fdXApK3oaGgSBtCuV89Pkql9f45L5zKZplByALqqjlRMbAuSwY15/5gv7/Hyc4uB8b1NHwAohol0Oup+fknpHT4bDInJ7fJuNhWQuC1LlTXCkEbhpSa0CklnBOAAw9B5k2+Pw/J90WSAVHP0eH3RfxJtgCEhGiGqSaXL0jMfI/+N2UP5TG4UbQcwZUNqAUCn2XgtJAxC/wANEPCHHZRJvAAAAABJRU5ErkJggg==",
+      "imageId": "72a5f8ef-40d9-474c-47c3-604d50552000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-best-healthy-breakfast-recipes-to-start-your-day",
+      "slug": "10-ways-to-make-your-commute-less-stressful",
       "locale": "en",
-      "title": "The Best Healthy Breakfast Recipes to Start Your Day",
+      "title": "10 Ways to Make Your Commute Less Stressful",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many people operating on tight schedules, the majority of us skip breakfast. If you find yourself falling into this category, you\\u2019re not alone. In fact, skipping meals is one of the most common diet pitfalls. Skipping a meal or two can lead to an increase in your blood sugar and make it more difficult to lose weight.\nIncorporating healthy breakfasts every day will help keep your metabolism running more efficiently and reduce cravings later on in the day. High-protein breakfasts are especially helpful if you\\u2019re trying to lose weight or build muscle. Here are some great ideas for incorporating healthy breakfasts into your regular routine.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/8-ways-to-make-healthy-eating-more-exciting.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALHShFmAQ7zBtOLX0qNSMKtWL72dkf7+/v7+/v7+/gBQjRJakDNkgUzd19OeVDSgTSvGta/y9PPT373g5LwAVYw4bqA/x9K42dfX6+Xj39LN0NDQoat/wcp1z9dtAJayhMfTv/b29vHx7+zs7uvr6/Ly8p2tTLW4YcrQZgDy8vLHyMHHtqWTkG2Mmn/Cw8Du7u6xtFyrwE6uqE0Ax83HZItRaWwumoBAb4cvdZo3wcS81Nq0q7VSt6diALXHr1lfIqF+TMyIUseDSKexPqK1iN7g4vT39PP19QBshV2XdzfEn3W7dEHAhFS+u1qvwpXv8fX9/f35+fsAtr60b4tAmVsltG87w3pBusJrztbN6Orw9Pb6+vz+AObo6pqpkniQRGVyMKOsVay5nuvs8PX3+fT2+u/x9Us7yiwG7m/wAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Apr 08 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "8-ways-to-make-healthy-eating-more-exciting",
-      "locale": "en",
-      "title": "8 Ways to Make Healthy Eating More Exciting",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In today\\u2019s world, it\\u2019s not easy to stick to healthy eating habits. Everywhere you look there are temptations that make it difficult to eat the right things. However, with the right approach and mindset, healthy eating doesn\\u2019t have to be boring or restrictive. You just need a bit of inspiration and ideas on how to make healthy eating exciting again. Eating well doesn\\u2019t need to be dull or uninteresting \\u2013 in fact, it can be quite the opposite if you bring your A-game to the table.\nIf you\\u2019re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you\\u2019re putting in your body.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-way-to-start-your-day-with-a-healthy-morning-routine.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AGdELZZuQJRpP45jOYpeNnpRMUAuKzQpKD0jGlUyHgCMfG+iloqlnZaflY2bj4OUeWmPaVYiEhNbSUSCbWIAnZmWnqStlJ+rcXZ0REQ/pIh0w5p/WTkreHJ2oKOtAI+PkYuUn3GDjys4PBoaGnFTR8eafls5K2xna5mktQBdYWlncH92lK54fIGMcWFNNS2OYUxnQTBQQD9aVl8AX09Qdm51R0pXMiUlmXpnrJeMsJmMakY5hHVvkW1bAEk0KUcyJ0ItIlk+LpFwXqCBcMmmi39kUpKBebKBXQAICREJCBEJCBFaQjiukIGys7fNyMerhGmznpGze1oAFRUeX2VuKyoxZUs/uJ2L0Nzo1eDvyL64qXZVm11AACYhJ6a0v0xKSxcQE05HScfR29Dc6MrS2KaHcndKN9zhgI/HwLkBAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Aug 27 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-way-to-start-your-day-with-a-healthy-morning-routine",
-      "locale": "en",
-      "title": "The Best Way to Start Your Day - With a Healthy Morning Routine",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In a world that moves as fast as ours, it can be easy to get caught up in the daily hustle and forget about the little things. But those little things are what make all the difference in the end. Take morning routines, for example. They may not seem like much on their own, but they have the power to make or break your day from start to finish.\nWith so many different morning routines out there, it can be difficult to know which one is right for you. There are those that are super long and involved, and others that are much shorter and simpler. Whether you\\u2019re looking for something simple or something a little more intense, we\\u2019ve got you covered with this ultimate guide on how to start your day with a healthy routine.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-cook-healthier-meals-at-home.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALa+0pOTo8mpm963ouO9qOW/rMWooFVkg4BzcaKJYQBgb5FPX3szO1QuMkU2OEVVT1aFeX1yYF3IhkHUkTgAKzpZNTtQSkVHNCQwaFY8SDosKiIcOTQ4bFlfmndFAFNVWZBySryWTJ1dJbB6LaJ2M0Y1IiwiGEE8PltNTwChdSS/gyrRmDzKlj+5dyLBdSShbSg5Lxo1KBihjpAA1rJdnm0l3K5QxIAz0KFNuFwMw38nRjEYPzo7XWJ3ALOLMKR/OsqcSryIP7BkI6xlHbFyKpF0TFplhGtqegCwlTO8kTu1eySZcymSczd8aBt4aFBhaIFubn7PsacApI5so3hQvZVXnHddaWdmW2mErL3ednaIwqKUwKenAGROSk9DR0g+Qz41ODsyMlJSYryxvMe1tpaKl2FynonngtBKbWqjAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jan 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-cook-healthier-meals-at-home",
-      "locale": "en",
-      "title": "How to Cook Healthier Meals at Home",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting a healthy meal at home can be challenging, especially with busy schedules and tight budgets. But you don\\u2019t have to sacrifice your health to save money or reduce time spent in the kitchen.\nA nutritious diet doesn\\u2019t have to be expensive or time-consuming. With some planning and preparation, you can make home-cooked meals that are both cheap and healthy. Healthy eating is more than just counting calories; it\\u2019s about focusing on foods that are unprocessed and rich in vitamins, minerals, and other nutrients. Eating well helps keep you lean, boost your immune system, manage your weight, and prevent chronic diseases like heart disease and type 2 diabetes. Focusing on the right foods will help get you there. Let\\u2019s take a look at some tips on how to cook healthier meals at home!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-get-moving-when-you-dont-have-time-for-the-gym.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AE5OLkpLOFJTQG1lKlxXJG9mKVFPJEBAInNpOpyRbgBWVi9AQi1TUSlHSSFiXSZvZzqqlX5qYkpWUylvZzYARkUqREUnX1wpVlQlXVopUEooh1hIsJR9Y18uenM4AENELTk9J1RTJEBBHENFIEhJJKGpocSVgIByO3ZsNgBUVDZMTjJOTyxBQCpTTzFQTTh5orCAbGprd3VlYTcA3dOE4teN49iM5dqQ6N+X2MubaG6DfHR5davLxrtvAMfGXs3JZM7MadXReNrWfoSEdGJeWIBpXj85XcbCbACjl0WmnUi2q1a4sFW/ul6ilmWPi2iMlIFdW2erpl8AgXk+kIVHl4tLopZPpZ1QtK1tq6KTmpBaS0hXZWRZAG5nPHVyQXt1QXx1QYJ7RIuJaHNzVm5rPFFiWjlghak0gFbub8G6AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Jun 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-get-moving-when-you-dont-have-time-for-the-gym",
-      "locale": "en",
-      "title": "How to Get Moving When You Don't Have Time for the Gym",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`New Year, same old resolutions. If you\\u2019re anything like the majority of people, chances are that you have made the same resolution to get fitter, healthier and happier this year as you did last year. But with a packed work schedule, social calendar and everything else going on in your life it can be difficult to find time to hit the gym or take up that new Zumba class you signed up for last October but never went to again.\nAnd yet so many of us do manage to get moving. Yes, it might involve setting your alarm an hour earlier than usual, waking up on Saturday morning instead of Friday night and putting in some serious dedication \\u2014 but it is possible. So if you\\u2019re struggling to find time for the gym here are some creative ways how you can get moving when you don\\u2019t have time for the gym:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/5-ways-to-destress-after-a-long-day.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMvIwtmXXuxtBPx7A9lpDZ5QH5djQMJoG9diA8pbAQDFbivubgPtbwPukkHty633izDYZQasVRWuVRHbYgIApU8T2I5R3cSx6ujn8O7t9cuq9G8DyV8F1IhHtpFrAJaLiMbGxp2dn4yKiaKgn83LyvaOOLF5WHk/LEAoIgDT1dvNzc3Y2eDp6Ovn5eXu7Oz00LPWiFeEb2g7JyIAkpSYtrW4yMfMlJSUv7+/u7i529nY/J5q+ogr5XwnAMPI1MTGzN7e4snK0dTS1dTS0+Pd2Pqucf2AD/t2AQDDzNm4vcfi5e3W2+nb2N7Tp4vweB36eAz9hx39egMA0t/x0dzv1N3ss5eQekkxnkwWxWYboF0f/JVU/XwIAM/b8LahpJ9bPolGJmRCNFVDNUxCLEM7KaRoOO92C7BDsu7hG5vyAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jul 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "5-ways-to-destress-after-a-long-day",
-      "locale": "en",
-      "title": "5 Ways to Destress after a Long Day",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Everyone has stressful days at work or school. It\\u2019s normal to feel overwhelmed and exhausted after an intense day. However, there are ways to recover from this stress and return to normalcy quickly. There are simple ways to destress after a long day that don\\u2019t require much time. In fact, these techniques can be implemented in as little as 10 minutes.\nDestressin g is good for you and your mental health. When we\\u2019re stressed, our body interprets it as danger so it produces cortisol and other stress hormones to prepare us for fight or flight. These natural chemicals are useful in limited quantities but when they remain high for prolonged periods of time, they have negative effects on our health by increasing blood pressure and blood sugar levels, decreasing immune response, weakening bones, and increasing body fat storage. Stress also increases risk of heart disease and depression.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-benefits-of-a-plant-based-diet.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AG6RbqTGxqKZX9/Df42PY6++wmN8Ui0/CWpuVpikoAB2gFSzyLq8wrebln2/xsLP3d2vsKmsqJzF0c/F1dQAcXFxdnZ2rKysrKysi4uLcXFxY2Njenp6jY2NnJycAM/Pz8XFxa+vr729vaemp7a2tqurq8fHx7q6utTU1ACysrKampqenp6kpKSysrKkpKShoaHa2tq4uLiVlZUAlJSUkJCQiIiIk5OTqamplZWVfX19oKCgjo6OeXl5AP7+/s/Pz7Ozs83NzdDQ0MzMzLu7u62trf7+/v7+/gD+/v6enp5hYWGBgYGLi4t7e3tkZGSvr6/+/v7+/v4AnsFMqrpVeJ1KhqhRn7S0jYyPioSNd1pvfWV5laeqAISaD6veFYfUBoK5N4Ojrz8UMD4TLVMhSVwxV3uhtBEyuAbubxXYAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jun 02 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-benefits-of-a-plant-based-diet",
-      "locale": "en",
-      "title": "The Benefits of a Plant-Based Diet",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`There is increasing awareness among people about the benefits of a plant-based diet. Many people seem to be transitioning to a vegetarian or vegan diet for health reasons. Some are also taking up this diet to offset the effects of climate change and reduce their carbon footprint.\nA plant-based diet involves consuming plants as primary food sources rather than animal products. Apart from being rich in vitamins, minerals, and other nutrients, plant-based diets have been linked to numerous health benefits \\u2014 lower risk of obesity, cardiovascular diseases, type 2 diabetes and cancer; higher intake of antioxidants and fiber; lower blood pressure and cholesterol levels; and better management of chronic conditions such as hypertension.\nThere are many advantages to switching to a plant-based diet \\u2014 even if you\\u2019re not ready to become fully vegan. These benefits will probably make you think twice before reaching out for that next steak or chicken wing\\u2026`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/a-beginners-guide-to-meditation-and-its-benefits.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHKgkJC/uG+tqGOblWKVi3N+b16IgJCjkWiel3S/wwBjhHJTiIRBhoyR0NZ6vcRkblE9XFRAYVi2uJ6Ko5IAdp+WhK+sY4l/d4x5jaykbod2X4yEhcPAaq2rZJmJAJW8upayrWuMeo2Ja3qJgHyfnJLLypnS02KdnkFvbQBsp6NUjYxTfHxJiIx0i37Gt6FegH5uYlRih4FanpAAM3p2eLGucpybTIiNN0pEnXdI07+hdnFjiry+ZKWRAF6Vk2WMiHmiopu6sp65sD9ZUoljNMmxkJjGwnOyqADA4NXGyamFmoWClo12g3hrjIMeS0xeSi/UxKqRwroApL+yfWIihnlZmo1pWpRzaoR7WoR/Ejo/SUEv08OnAEdzbVyEe36Gb3madppqGHqPY2h6bQxLUR05NDs5LN5TmeCcz8nCAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Feb 12 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "a-beginners-guide-to-meditation-and-its-benefits",
-      "locale": "en",
-      "title": "A Beginner's Guide to Meditation and Its Benefits",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The idea of sitting still and focusing on your breathing might sound a bit too challenging at first, but meditation is actually much simpler than you might think. If you\\u2019ve been struggling to find balance in your life and keep your stress levels under control, meditation is just what you need. As we go through this hectic world, our minds are constantly racing from one thought to another without even noticing. Most of us have a hard time dealing with the pressures of everyday life, which is why meditation can be such a great tool for clearing our mind and finding peace once again. It also helps reduce stress, lift our mood, increase self-awareness and make us more compassionate human beings. So if you\\u2019re ready to adopt the practice of meditation in your life on a regular basis, read on \\u2013 we\\u2019ve got all the details you need!\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-tips-for-staying-motivated-to-eat-healthy.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP7Xu/zYvf3Zvv3Zvuy9xO/EwvXTtd6vj/bUufDDwgD91rr6z73zxcX80ryhUeCcarvVxr/i0cu+r6uqbdoAr7F6jTTbiS7nnE/Lvonr5NXs6d7r1cbb6Nft9ur8AIWDMFUsPEgWaaFbZ7WF3M3D1tbJ3drQ4eHY5vv4/QCdrCqGa1uCKdLhjXywgdPKwNPIu9HSyNng2uX17/oAqEsfijxfdBvG55iStILZxLjMx7rQ6ePr7Obv9e/6APFgT71rh2QWpfChkLOC28/G18i70erj7+bg6/v2/ADjSB+kTKCZP9/PfrCygdrMwNS+scrWzd6+rczVzN0As2IndSGfbxq7jUCehDq+oWPXoWPXoWbXpWrXmmDMAOKGY+KKatSCZfWkgvKzn/G7qfG7q/G7q/C5rO63qqBE0ZSCAfhIAAAAAElFTkSuQmCC",
-      "createdAt": "Sun May 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "10-tips-for-staying-motivated-to-eat-healthy",
-      "locale": "en",
-      "title": "10 Tips for Staying Motivated to Eat Healthy",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Are you struggling to stay motivated to eat healthy? In our fast-paced world, it can be challenging to stick with a diet or eating plan. It\\u2019t not easy staying motivated and sticking with a diet when there are so many temptations around us. Eating the right foods is important for our long-term health. There are so many benefits of eating healthy foods and it may help you feel better, have more energy, and even live longer. However, many people find it difficult to maintain their eating habits because their life is full of distractions like work, school, and family obligations. Staying motivated takes time and effort but it\\u2019t possible if you don\\u2019t make small changes in your daily routine that support your goals. Here are\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/10-tips-for-getting-a-good-nights-sleep.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlWMoKK41sIpTN41JL+xOye0IjquNSW3yDC5RN41RN41h0LGMdvbN84usCEmoCYmvC02oD0moic9o9Qop1bGIZ9C3inILLMgs6olJbQqIrgxPqE/IagmMqcos6gFJG9rEmjunBcfVxqW3hCfURiTWBcfVhibW+kVWaJrGMFg5xhvaJvmEl6UVdCVltwZEVxrbp6ibxmiCEYOJbYyRXbKzb15AdGVgTJVXaHFQbHVAdKVPeJmhbRKDsU20oV2CZ3BJSEKNW2BRRGKdb0R5RGKdrlU8WLddvK5VvEdQcWZRV3Zpb3JOe1h8jYt/voljGlRa2zzGyj0zNLE2Oac9Nq05OafdM7hE3zoB5O/6znlLV+/euufUph3HVm882D1ppV9kFdxpAFykbU7d+HefAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Oct 07 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "10-tips-for-getting-a-good-nights-sleep",
-      "locale": "en",
-      "title": "10 Tips for Getting a Good Night's Sleep",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting enough sleep is one of the most important things you can do to take care of yourself. Sleep is when your body and mind repair themselves from the stresses of the day. It\\u2019s also when memories are consolidated and mental performance improves.\nIf you aren\\u2019t getting enough sleep, you might feel stressed or anxious, find it hard to concentrate or solve problems, and be more prone to memory lapses and minor cognitive errors. Not getting enough sleep can also increase your risk of high blood pressure, diabetes, heart disease, stroke, and obesity. The National Institute of Health reports that adults should get about 7-9 hours of sleep each night for optimum health.\nGetting a good night\\u2019s sleep isn\\u2019t always easy. But if you implement these ten tips into your routine you will be on your way to feeling rested and rejuvenated come morning time:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you think about your daily commute, it probably doesn\\u2019t strike you as being particularly stressful. In fact, many people see their daily drive to work or school as a time for peace and quiet. After all, what could possibly be stressful about getting from point A to point B?\nIt\\u2019s true that your commute isn\\u2019t inherently stressful. In theory, it\\u2019s just a short period of time each day when you go from home to work (or vise versa). But even the most seemingly insignificant details can make a big difference. Read on to learn more about how you can reduce stress during your commute and get to work happier every day!`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

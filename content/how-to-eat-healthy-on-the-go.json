@@ -1,9 +1,9 @@
 {
   "category": "health",
-  "imageSrc": "/articles/how-to-eat-healthy-on-the-go.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APH1/fL2/vL2/PT1/Ors6+Lk2O3v8fT2+vT1/PT2+gDy9v7y9vzy9vzh5dutuXOjq13Lupnr7ez09fzy9vwA9Pf98fX5397XmJpVdIoufpE5g5c3ydKm6Ovo8vb8APH1++Hg2rOhg515WHl6OnGFM2B2JmmAK73KmOzu8gDl5+fp6M/MuYe5mXKjhV2Gh0ppgSlogieHnkbf49sA1dvVz9G179eI3MquxaSCpYJceHQ4fJM1qbd+5+rpAObo7J+rjsLBq+HSrr2gg7OOaZh7U6OsddfY0+rq6gDq6+/V19Z+i2Tw7NDixYu5ro+5rJfPzcng3tzp6OsA6uvv4+Xmzc/MtLyl4uDD0M3DysjG2dfV4+Pj6ejrAOrr7+Xn6+Df4tHU0cbJwc3NzdXV1eDg4OXl5+no6w0s4taHUsFuAAAAAElFTkSuQmCC",
-  "createdAt": "2021-06-02T16:48:39.316Z",
-  "updatedAt": "2022-10-11T17:18:26.007Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+APH1/vL2//P2/ff3/+jq5eDj1fPy+fX2/PT1+/T1+wDy9v709v7z9//j59yuu3WgoVHLvJ7v8/f19fzz9vsA9Pf99Pj+49/amZtYbYUnfZA0hJY0x9Gi8PH09Pf/APP2/ePj37Khgpx4U3p9PnGJNGF4KGiBJ7zIk+zu8QDm6ern48bMu4e6mHKjgFl/g0hmfyljfiKFm0Tg5NsAyc/Jz9Ss+eek1cOrxKF/oXtXfHo8eY8qq7eA7ezxAOXm6J6ojry+pd/OqsOlg7KOa5V1S6Gnctna1uvr7ADw8PbO0Mx9jW7v6sPuz5e+s5i1q5PTz83h4ODp6eoA6eru6eruys3Jt7+o4N6+zczCx8nG2NfW4+Pk6ursAOrr7+bn6uLh583Py8bKxMzMy9bU1eDg4ebm6Onp7COT4umxKvS3AAAAAElFTkSuQmCC",
+  "imageId": "9663dcfc-5c43-4d4a-245e-88dba3374000",
+  "createdAt": "2022-11-05T21:58:31.074Z",
+  "updatedAt": "2022-11-05T21:58:31.509Z",
   "categoryLocal": "health",
   "slug": "how-to-eat-healthy-on-the-go",
   "locale": "en",
@@ -20,130 +20,25 @@
   "relatedArticles": [
     {
       "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-a-part-of-your-weight-loss-plan.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APj9/vn+/fX58dXbl9Pbm9zksvL26/v9/fz//v39/QDr7Mfo6bfb3Zvr683z9fXl6dHl6Lr+/v7+/v7+/v4A2tmV6urh8Li/zF1n3pWH0NmE192b7/HZ3+S119+vAOTbh+WWn8ppcd+NO9mrSdupf9bDqqOlVLm1kpyXZADfnYzwh2ncdznllSrdxVm7iUTRbWyGglPj4eK8sqwA46Kr+plN8oUvZUgZvsBV88A9yGxSqaKGlZlhlZxVAPDt8dqAd5BOMq2ONK2kNaZcOt+8w+Xn69PZtMjQngDw9Pft6u/Uk56eTkKvX1HiusPo6u7h5MXS2aL1+fwA8vf67/P27fH07ODm7ejs7fH05OjS2NmZ9Pj59fn8APH3+vH1+fH1+fH1+fH1+fH1+dXayPD19fL3+vL3+pF15gVAtnR9AAAAAElFTkSuQmCC",
-      "createdAt": "Wed Aug 24 2022",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AK7RgFF5Or7EvurZ06BQLaJJIbyajf////38/P///wBYlRxFfB1oiFDZzsqhVzibRSLDsKr4/v/V3bzb4LgAPXcgcKFByda04ODl6+Pf2MrF2tzjsLmOq7tUyc5gAJWxg7vMsvr4//Ty8/Hx9fL29+bo556vULm9Y8HFZgD59vvNzcnWw66UmHSBlHfBwr7t7vC3vWOyvk+ppkwAx83GU35IbG8smHo8b4Msep88v8K+3uC+uMJbuKpmAKq7oF5nKJt3S8h2Q9CRWKGyOpuwf+Tj7ubt4+jt6gBuiWKTdzHcrIC2bjy9eE7EvlWwxpH39f////77+/wAsbyxYX8zk2QmtHBGzohJsLVZz9jO7uz28vP2+/z8APHu9Y+gi3OGPHJ2M5eeS6y7ouzt9vb3+fT0+fHx96iGyWw/AkqnAAAAAElFTkSuQmCC",
+      "imageId": "027151fd-9b95-4543-05d7-340a1aa47400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-a-part-of-your-weight-loss-plan",
+      "slug": "8-ways-to-make-healthy-eating-more-exciting",
       "locale": "en",
-      "title": "How to Make Healthy Eating a Part of Your Weight Loss Plan",
+      "title": "8 Ways to Make Healthy Eating More Exciting",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`People who lose weight and keep it off almost always make healthy eating a priority. This may seem obvious, but you might be surprised at how many people struggle to keep weight loss goals focused on healthy eating. It\\u2019s not just about cutting calories; it\\u2019s about making sure those calories come from nutritious whole foods that boost your metabolism and maintain energy levels.\nEven with the constant bombardment of pro-fad diet messages in the media, most people understand that cutting calories alone is not an effective weight loss strategy. In fact, research shows that for lasting weight loss, dieters need to adopt healthy habits that they can sustain for life\\u2014like eating more fruits and vegetables, whole grains, lean protein sources, and other low-fat or non-fat sources of nutrients. But even setting this as our goal doesn\\u2019t guarantee we\\u2019ll achieve it. Here are some tips to help you put healthy eating at the center of your weight loss plan so you get results you can keep forever:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:t,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:t,mdxType:\"MDXLayout\"},mdx(\"p\",null,`In today\\u2019s world, it\\u2019s not easy to stick to healthy eating habits. Everywhere you look there are temptations that make it difficult to eat the right things. However, with the right approach and mindset, healthy eating doesn\\u2019t have to be boring or restrictive. You just need a bit of inspiration and ideas on how to make healthy eating exciting again. Eating well doesn\\u2019t need to be dull or uninteresting \\u2013 in fact, it can be quite the opposite if you bring your A-game to the table.\nIf you\\u2019re struggling with making healthy eating more exciting, here are some ways that can help get you back on track so you can enjoy great food while still feeling good about what you\\u2019re putting in your body.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "health",
-      "imageSrc": "/articles/7-exercises-to-lose-weight-in-7-days.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABAUlEQVQYlV2O70uDQBzG728ueuc/ECFBkGNtLD2zBeJoFxHIZj9ET8ciqOXOCr0TtxG9kdDdtlchtyCC58UD3w/P9wPazhRiBjFT3cQIcyPM9SCDmHXHc9VLgTUpVDdpDl4b9nPn7r01jI6vn9rO9AiFF48LgOIKEd4nJSIcEX4Zff8tYEc+lXve7kFHUsz97lDueVLTkhRz7xBKigkG6eoXL8VSnbgSeyD+2jhJTbTs+Hw004NMdROImR5kmk/BLeWf5frqbXliR5pPVffjzGeaT2vCo7VaXmzcjFuTok/Kf6nP49lqlK8bNy9i0whz8QViBhDhD3R5n26Ntmqix9UPAHbqiLeNlp4AAAAASUVORK5CYII=",
-      "createdAt": "Mon May 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "7-exercises-to-lose-weight-in-7-days",
-      "locale": "en",
-      "title": "7 Exercises to Lose Weight in 7 Days",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The beginning of the New Year is a perfect time to focus on healthy habits and get off to a great start. With a strict diet, you will be able to burn fat effectively and efficiently, leading to weight loss in just a week. Exercising regularly not only helps you lose weight but also promotes long-term weight loss by increasing your metabolic rate and maintaining lean body mass.\nReducing fat from the body requires breaking down of fats in the body through physical activities. There are undoubtedly many reasons why people fail at losing weight, but most of them boil down to three simple things: lack of time, motivation, or knowledge. Fortunately, with these simple tricks you can lose weight in 7 days:`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-a-priority.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APr6+ufl5f7+/v7+/v7+/v7+/v7+/tfX2ZGJgtCdagBwaWlQRUatqKr+/v7+/v78/Pn8+viCfoRoYFzrwnsANy4xPjQ6W09R+vr89e/q4MOx9Nff69vabGhn0aplAFs+TFJATbWkqta1oK9pPc6UWMh4hbRcSrmJiT0wLQDx6+jm3Nbz7evhz8HUoWnWn13FeGWYRzWscGvBur0A9OfViG9c3ruX+/n38Ong1ah1zJ1917GT693N3sy7AM+VV6V2SIhcO+jOtPDr7Pj38+3ez+3ez/r17PTftgC/hUm6gEaibDzx49Xy7fH28/fv5+Pj3djq6Of79OgA0MbApYt069zK9PHy9fHy/v7++/To2NXW1NLT8OngAPn09vPu8O7m6fHs7v7+/v7+/vnx5vjt3/j38/nw43sf4KD23QydAAAAAElFTkSuQmCC",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-a-priority",
-      "locale": "en",
-      "title": "How to Make Healthy Eating a Priority",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`You know that healthy eating is important and that you should make it a priority, but with so much going on in your life right now, it can feel like an impossible goal to achieve. Between work, school, volunteering, and friends, it can seem like there are not enough hours in the day to get everything done. Eating well often feels like yet another thing you need to add to your endless list of responsibilities and obligations.\nBut making great food choices doesn\\u2019t have to take up a lot of time or feel like a chore. There are lots of simple things you can do every day that will help you make eating well a top priority. Even if your schedule seems packed, these small changes will help you get the nutrition your body needs without taking up too much of your time or energy.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-breakfast-recipes-to-start-your-day.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANvb29vb29vb29jW1MvIwLWsn5mMfIh+bYqDdZiViwDh4+fU2N3e3uDh4+Xk5ufj5ebg4ODW0s3Fu7GpmYoAZG54UF1rilxenWRX1tLY6e3w6uvv6uvv5+nr4uLiAEJKUGNiaYOGjL28v6+4vMa+w8rCxdzd4e3v8+zu8gAiJim0u73Y0sm0rJpbZW92ODqrYmJ4am2ip6ft8PYASkxQ3NfLzr6mf3VreoWM3uLl8Pn98/r83+Xq4OTpABsZGlBQUIN3a1FOT52nr87W3Le8xJCUl29vb+nt8ACIbVtZUUkTFRcTFRcVFxgVGRwZHSAfJiiSkIzv8/gA0cnBk4FxFRUVERMVEhQWExUXFRcYT0lG5eXn7vH3AIBsXCslIBgYGBUVFRETFRMSFSwjIcm9sers7e7w9I6WrbPGEHHmAAAAAElFTkSuQmCC",
-      "createdAt": "Mon Nov 22 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-breakfast-recipes-to-start-your-day",
-      "locale": "en",
-      "title": "The Best Healthy Breakfast Recipes to Start Your Day",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`With so many people operating on tight schedules, the majority of us skip breakfast. If you find yourself falling into this category, you\\u2019re not alone. In fact, skipping meals is one of the most common diet pitfalls. Skipping a meal or two can lead to an increase in your blood sugar and make it more difficult to lose weight.\nIncorporating healthy breakfasts every day will help keep your metabolism running more efficiently and reduce cravings later on in the day. High-protein breakfasts are especially helpful if you\\u2019re trying to lose weight or build muscle. Here are some great ideas for incorporating healthy breakfasts into your regular routine.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/the-best-healthy-snacks-to-keep-you-going.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMudg6x0RMKvpWdvTVxrNmFuHkpgMGFkYX13bufKqQCmfGSIZ1J9fGpshUFzhzl1kzuCi2FrZ1i1oIXw280AlGg5qpuUcnxpWXFJiKVQjpBkkKNbdWlUzalx3r2WAJVlL8GfdJCEX5CRKniMOHuEO1lvTLiuptu1d/LbwACqgE/Pn1ebiWaPizSAiTJ1cSdZa1FzZFK+kFffzMIAuIBDm2szxrq8zNW5e4RaanJLdXFwaGZiyKBw0bSVAKR5T5NdLbqjmc/FxqiXg5t6VpJ1VHN4hF1YTNGpewC8qZahbUWtoJupgEnfw6jXqnqtdTqjgVVjYl6LdVQA18Sv1trtrYRpyZxu1KiDuZBluYhZqHdGkHlagYeOAOHf6d3c48WVYcugc8CUXNWyiruSZ8eqiKaFV7/D0s9voUm6UbXGAAAAAElFTkSuQmCC",
-      "createdAt": "Mon May 04 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "the-best-healthy-snacks-to-keep-you-going",
-      "locale": "en",
-      "title": "The Best Healthy Snacks to Keep You Going",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Think about your typical work day. You probably spend the first few hours of it at your desk, sipping on a cup of coffee, reading emails, and maybe even taking a brief walk around the office to stretch your legs. Then you head back to your desk, only to dive into an afternoon filled with more reading and typing\\u2014no time for walking again. And by 5pm you\\u2019re ready to call it a day and head home. However, in that short span of time, you need to find some way to keep going through all those tasks. What do you do?\nThe answer is simple: Healthy snacks! Think about how much time you spend away from home throughout the day \\u2013 whether it\\u2019s at work or school, there are plenty of opportunities for snacking. In fact, keeping healthy snacks around can help boost your energy when you need it most. Check out these top-rated healthy snacks that will keep you going all day long\\u2026`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-eating-easier-with-meal-planning.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP7+/iublRKKhDGOjGCioGukozCKh0mZl12opqXOyQDByaQffnfj5eTI2NeYv71qo6JqoaFCjY1PmppxsK8ArMm7TYN87+/vwsPAq6yp1dXT1tfU8/X1ts/No8zMAGukmHeUj+7u7Pr7+PPx7fTy7tPT0cTEwra2tLCwsAArgXezvLno6OT7+vH69e769PD7+fX6+/j9/fvx6+QAEG9k29zX6urh+vbq+vDm+/Ln+vfv+vv29/Pt1s/BADyAdOLj3vPy5/v05vrw5vry5/r37/z69t/azubf0wCBjWzw7+n7++349OX59eb69ur7+O77+fXHvKz28OAAi6qi/Pvw/Pzs/Pzs+/vt+/vt/Pvw/P31uq6U+/DQAM7ezZq2o4imlYKlnLHJwezx6f3+9f3887utlPnjq/uo7CE7r3xpAAAAAElFTkSuQmCC",
-      "createdAt": "Sat Oct 17 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-make-healthy-eating-easier-with-meal-planning",
-      "locale": "en",
-      "title": "How to Make Healthy Eating Easier with Meal Planning",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Thinking about meal planning sounds like more trouble than it\\u2019s worth. And for many people, it feels that way. We all lead such busy lives and between work, school, family obligations, and social activities, it can feel like there\\u2019s not enough hours in the day to squeeze in planning and prepping meals.\nWe can all agree that eating well is essential to living a healthy life. But sticking to healthy eating habits can be challenging and require some serious willpower. Even if you\\u2019re committed to good nutrition, finding the time and energy to shop for fresh ingredients, prep them for the week, and reheat them throughout the week is exhausting just thinking about it! Fortunately, there are several sneaky strategies you can use to make healthy eating easier.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-deal-with-anxiety.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABLklEQVQYlTXCW0vCUAAA4PP//COSL746sVcTgspfUCCZiULmbalzFz3bcZezzdmyvHSbuihpTVNqHKKgjw8wDEMIgRBOJhPyz3Gc5XJJCAGhUCidTofD4VQqFYlEkslkIpGIx+PRaDQWiwGaptsczwkdqSdfNVssL7C8UKnRB0eHHSgBDqki7rdgj5U10bQ7mqWPHyvtbpFusrIOeMNmsG3O38sivvirPL1h98Nw/UuogjoyqqhfViw490+7aoZDeUlvILN9/bBD7YKapFdlqyDqec0+H9wfa3b+blboqqXRfC9bBE3FovFNw56KXlBf+Cd4mB05Z+NZyV3lhs/AXQe3rsfgQV02y8gUpgv5dY1c31gF+5kc+Nx+rTffq+1vpOqKaUnYmDov3iagKOoHUNPoGKcvhvIAAAAASUVORK5CYII=",
-      "createdAt": "Sat Jan 11 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-deal-with-anxiety",
-      "locale": "en",
-      "title": "How to Deal with Anxiety",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`When you\\u2019re anxious, you feel your heart pounding, and your palms get sweaty. We\\u2019ve all experienced some level of anxiety from time to time \\u2014 it can be perfectly normal. However, for some people, anxiety can become debilitating and start to have a negative impact on their everyday life. If you experience social anxiety or general anxiety more often than not, read on to discover how to deal with it effectively.\nIf you struggle with anxiety frequently and strongly, you are certainly not alone. In fact, almost 20% of adults in the United States experience some form of anxiety or another on a regular basis. Although there is no magical cure for dealing with anxiety permanently, there are many things that you can do to manage your symptoms better and live a happier life as a result.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-cook-healthier-meals-at-home.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ALa+0pOTo8mpm963ouO9qOW/rMWooFVkg4BzcaKJYQBgb5FPX3szO1QuMkU2OEVVT1aFeX1yYF3IhkHUkTgAKzpZNTtQSkVHNCQwaFY8SDosKiIcOTQ4bFlfmndFAFNVWZBySryWTJ1dJbB6LaJ2M0Y1IiwiGEE8PltNTwChdSS/gyrRmDzKlj+5dyLBdSShbSg5Lxo1KBihjpAA1rJdnm0l3K5QxIAz0KFNuFwMw38nRjEYPzo7XWJ3ALOLMKR/OsqcSryIP7BkI6xlHbFyKpF0TFplhGtqegCwlTO8kTu1eySZcymSczd8aBt4aFBhaIFubn7PsacApI5so3hQvZVXnHddaWdmW2mErL3ednaIwqKUwKenAGROSk9DR0g+Qz41ODsyMlJSYryxvMe1tpaKl2FynonngtBKbWqjAAAAAElFTkSuQmCC",
-      "createdAt": "Thu Jan 09 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "categoryLocal": "health",
-      "slug": "how-to-cook-healthier-meals-at-home",
-      "locale": "en",
-      "title": "How to Cook Healthier Meals at Home",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Getting a healthy meal at home can be challenging, especially with busy schedules and tight budgets. But you don\\u2019t have to sacrifice your health to save money or reduce time spent in the kitchen.\nA nutritious diet doesn\\u2019t have to be expensive or time-consuming. With some planning and preparation, you can make home-cooked meals that are both cheap and healthy. Healthy eating is more than just counting calories; it\\u2019s about focusing on foods that are unprocessed and rich in vitamins, minerals, and other nutrients. Eating well helps keep you lean, boost your immune system, manage your weight, and prevent chronic diseases like heart disease and type 2 diabetes. Focusing on the right foods will help get you there. Let\\u2019s take a look at some tips on how to cook healthier meals at home!`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "health",
-      "imageSrc": "/articles/how-to-make-healthy-snacks-more-exciting.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AHyPe5uxmKK2nZeok1pgWW1PUsSQjdbO4dq/yNqelACesplygnOInomRpJBrdW1YSFK5u8/U3fXW3vfUuL8Aor2kd4l+Ki06Ji04UE1FraWTzd7z0OP60N/11+P6AC85QTRBT2RxdpCLcYqSea7CoLmyoq2TiJl1YrmejgCDl56joY2UgFORn4FzjoWwzbGivqmWjnhyTj9fOisAloxkjpZxj6OIk6yUjaianLqpoamhjmxTmHldo4htAJWvjYigf5WxlaO/n4qjlpaoi2JOMFs4IkwtHHhXQAChvZ10jGtYaluTrJKlsKOKclF8XS59XC5xTiVOLRYAp8Kln7ylXG9gZWpNimpRhmFEnH9SnYFPqXdPn1xFAK3AyKe7oIWDW2xTN5x5Y3BGNJRzU7aUddKUfNybhptqoAD0hnDQAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Mar 26 2021",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHyOepaslKrApJyvl2FoX2dJSsSOi9nT5tnBzdqZjwCarpV7jnyInIiRpI9hbWdNQ1C4uczX4vzV4P3VuMEAqcSqbXxyHiMzJjBAS0M5tamX1OX90+b91+T32uf+AC88RzZHWmRucpCKbZmkhqi6mLu2paqTjJd1Y7SbjAB8io+gn4ujj2CHj3N4l42vz7OoxLCYiXJpQTNhPCsAn5hyjpJqj6KFk6+Ye5KMoMCuoKiek3VfmnpcqIxzAI6niImmhZCslJu1mJi0rY+giGJLK1QwGkwsHHdXQgCkwJ97knFTZFSQrJCvvauNdFV0UyN9XS5qTCJEIgsAp8OknbulWGxbcHJWg2FJgVs8oYRXoINRsX1TpmNJALDFyae9on9+Vm5SN598aGpCLJd1VbiWeNKSe+GeisSeoCufETfoAAAAAElFTkSuQmCC",
+      "imageId": "682ca03b-94ca-451c-27ad-3fe436a71300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
       "slug": "how-to-make-healthy-snacks-more-exciting",
       "locale": "en",
@@ -155,16 +50,121 @@
     },
     {
       "category": "health",
-      "imageSrc": "/articles/the-best-healthy-lunch-ideas-for-work-or-school.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AKF/ZLKTdLmNaLqMZbSik6GPgZ+MgKKQhJ2Ngod1aQC3cyzEhjamgijPhznInHenlYawnZSucnmWTlamiYcAT2EQV2URSHERhGkeuoZao5OGoWhrmRcqlRwsnS8/ADZKCik3C6itHpiUK72GUIp+coRUV4sQIYAVI34zPgBRWw9FVAaOmifRzzyRbDh7bWJvYFp2Wl2LW2CIeHcAaHUaWHgHXHwJtLssk5ZMcWxgt6GE3cSdl4RvY1JIAICYEk1qCkRhB1JuBXl8S5F+afzfpPzouuzQoHJiVwBYcgpUbwZSbgVBVwZbYEN5aFf415f925fkyZthU0gARlYeUmwEUWcMQlMganBVPjMreWlasJuAa11RTkI5ADUyLDAxKDEyLTw7NDMtKTowKj81LT81LUU4MUU4MdhIeyGq0SGTAAAAAElFTkSuQmCC",
-      "createdAt": "Fri Jun 19 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJklEQVQYlRXLS0rDQBgA4DmYB1C8gLhxKZ7AvYKKKxcKnsKVoNRXNGCtlqiUlrZJ07yayXsmk8mkM39axG//oeFg+KbpvW5vMh4Zg87NwxklFGMcuP7h8Skyp5Y9syvGeZ2+9M8t96sRkjHKaHnX0VCepqBkuwKAVjZrgLXnuDHGQtQxjhGlRCmZxEmEMeeM84rSkhJCSJFnOSrLEkB5joPDUCkFAHEUmeOJbVmEFCiKEiklgJJS0v9VUEqyJM2zrGIM6R+fK4DlchmF4cyy8jRrW2hbgBaKgqCjyyvBRV3XpMjzLG2aRtRi4Qevz9qv8YN29g98J0iSlFe1EMKx5999w5975mT23jXQxtb245M+Hk2dub9YxJ4TmKZ7e6+dXFxv7u79AWXjBh8ArK1cAAAAAElFTkSuQmCC",
+      "imageId": "4cc00f6d-3db6-4402-cdd9-53f2bbe49600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "categoryLocal": "health",
-      "slug": "the-best-healthy-lunch-ideas-for-work-or-school",
+      "slug": "how-to-make-healthy-choices-when-eating-out",
       "locale": "en",
-      "title": "The Best Healthy Lunch Ideas for Work or School",
+      "title": "How to Make Healthy Choices When Eating Out",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Did you know that those little brown bag lunches we made in elementary school are now a thing again? Super cool, right? Well, sort of. If you\\u2019re like most adults and teens, you probably don\\u2019t have time to pack your own lunch every day. Instead, many of us rely on fast food or convenience stores for our midday meal. While this can be an affordable and convenient option, these places often offer unhealthy food loaded with salt and fat.\nFortunately, there are more healthy options out there than you might think. These days there are many drive-through restaurants that serve much healthier versions of the standard fast food menu items. Cafeterias in offices, schools, libraries and other public places also tend to offer healthy choices as well as salad bars and other stations where you can make your own healthy salads or sandwiches.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Eating out can be a fun and social experience. Whether you\\u2019re meeting friends for a bite to eat after work, happy hour with coworkers or date night with your significant other, there are many restaurants that offer an experience that\\u2019s enjoyable and hassle-free. However, eating out \\u2014 whether it\\u2019s at a fast food joint, casual chain or upscale eatery \\u2014 isn\\u2019t always the healthiest option.\nIn fact, many restaurants serve high-calorie foods that aren\\u2019t particularly good for you. The mammoth size of most restaurant portions is also concerning, as it can lead to overeating and unnecessary intake of saturated fats, sodium and added sugars.\nHowever, with some knowledge about what to look for when dining out, you can make healthy choices that support your diet and lifestyle goals while still enjoying yourself at the same time.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AOxzP+BtOap2T+qbcPTApOubeMuABO3QTPKSV9B9ZQDqdULJfU/PcUDjjmPbxa/sh1fMchLxsj30gEjVi3EA5oVf0YFUpnJKyYde8san/9/G56+L1HpI7I9i1YtgAOx0QPF5OemSYODNsPfs2+/o2pi7qdamgMOJY8O0nACQflvRf079qXn95sf748j35c/k3MX+0a62b0S1l3oAv21AeoFh7qZ2+9Oo/diy/9++/eHA98ym7Iha3nNBAPh5Rt93SOiHVv+6fufKm93Mpv3LmtKJWaNtRrN/WADfZjXl0ML24NbuhlPukVPVmmrllmHUaDZ+Rh+SYToA02AxsJuF6NbJ2INd57CT94JMv18zt2JW6H5W3IRjAOVnPNBhNeFoN9Z+V9S5p+19Td5oOLNUOdlrRextPuKvupXqzO0rAAAAAElFTkSuQmCC",
+      "imageId": "c18e58da-5aa2-43b3-3c37-1e60bd125400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "the-best-healthy-cooking-tips-for-beginners",
+      "locale": "en",
+      "title": "The Best Healthy Cooking Tips for Beginners",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Have you signed up for a cooking class yet? If not, then now is the perfect time to do so. Learning how to cook healthy food at home is essential. There are so many restaurants around these days that serve really unhealthy food. Even fast food chains have started to add super un-healthy ingredients to their menus in an attempt to capture more customers. Thankfully, there are so many places to learn about the best ways for beginners to start cooking healthy meals at home.\nIf you\\u2019re ready to take your culinary skills from chopstick beginner to expert home chef, read on for some of the best cooking tips for beginners that will help you get started on the right foot when it comes to creating healthy meals throughout your home - and fast!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMvLxrSxoLa0ppCKgdHO0PTNru+/ncebgbGNf/Hg2wDQx43GvYC7t4Pt8fXg3eCXYTiUXjhuSjSriHO9mIUA4eLU5ubQ2dfI393a8/f/mZGUbTwWfkwpXDMcUi0ZALOjcrSogLOqk87Myvv27vf8/snHz5+MiGRKPWZZWAB0ZUTazrXw1aLo0Zfq3sH0xJLq0bXbz8/c3ung4uoAqKuupKyVmJqFXF1RmIx//5ou/Joq+qRG8LuN7OnpAODg5WJtYDQtAFdNK9Gif/mUTvW1cvN5KvdrGe3l2gDe3eK2uMGKkoVkbFSdm43h0cjZ4t/nxLHyr47q5uoA0NDVqpmRsJ6cjpGSuMfF8/Xz8PHw9PXy3bil3tncALe3v4hvYKx1Q3ZNJJ+Xi+fh1t/XzMnCt5yUj83M0jjeyGU7iJG/AAAAAElFTkSuQmCC",
+      "imageId": "f3fc982a-c2ee-4f2b-d226-794736f9f700",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "30-healthy-snacks-for-on-the-go",
+      "locale": "en",
+      "title": "30 Healthy Snacks for on-The-Go",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"You\\u2019ve probably heard it before: When you\\u2019re busy, you need healthy snacks to keep you going. The problem is that it\\u2019s not always easy to find healthy snacks that are also fast and convenient. In our hectic, on-the-go world, most of us don\\u2019t have time to sit down for a healthy meal three times a day. Instead, we\\u2019re often forced to make snap decisions about what we can eat quickly and conveniently. Unfortunately, those decisions too often lead to less than healthy snack options like potato chips or sweets. However, there are plenty of great ways to get your recommended daily intake of fruits and veggies even when you\\u2019re on the go. These 30 healthy snacks for on-the-go are perfect for keeping in your purse, desk drawer, locker, or anywhere else you might find yourself hungry and without access to a full meal.\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMSxppeMhcCpnYpyZZuGerqWhKZ/bldNPSYnICMoKQCmkoWujm/IqpbMs6fIraHYuavDpZeIgHN0bGNZVVQApZqMu3lRzoFbe2BRkIR8tZaGvKGUz7Ck3b2y3buvAL6snrJUOsNJI59mUr3Avcyrkb+xpLWlnJB4ap2QiADOu7B0LCR6DQfKkozz5M3XmFzdsYPs3M3Gw8GUj4oApXpiilxIqXRk17+zurGfq6OMwryl2tvT////19veAElGQ86/tPXz8drh3o+ooHJyZJ6mk3qYjcvb2/7+/wCmrK3PztDi3uDG29tfZE6HfGFqcFV1bFFmfnjm7vIAgMziv72/6eXmvsTFWWxclJqBX3BUfXlgeoqC5+/yABB5nszc4vHu762rrXyJh4Wck3iNgYKXkcrZ2/Xy8MUJuHMhC87kAAAAAElFTkSuQmCC",
+      "imageId": "919e0228-22bc-407a-0ae4-45c402ccc800",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-eat-healthy-when-eating-out",
+      "locale": "en",
+      "title": "How to Eat Healthy When Eating Out",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Eating out is a great way to treat yourself, your friends or family members, and also a great way to save time on busy weekdays. But it\\u2019s also one of the trickiest ways to navigate a healthy diet. Many restaurant meals tend to be high in calories and fat, sodium, and cheap unhealthy carbohydrates like white flour and sugar.\nIf you manage your expectations going in, however, it\\u2019s possible to eat out healthfully\\u2014even if you do it often. The key is knowing how to order effectively when eating at restaurants. Make the right choices more often than not, and you can still enjoy eating out while keeping your diet in check.\nThe tips below will help you make better decisions when eating out.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AN/pvtrlvuj07+v7/+H2/N71/N/4/sbt/cTu/r3q/ACYnol1e2WIj319hIWFj5GvubxzfH6FmJ+Kn6a61uMAmqR0h49wlp6Kn6ipnaepucTHf4yPjqaveZKcstTkALrCoVldVIONhnmAgnJ3eIqRk2Zxc19wdWyAh6zL1wDh5N2Sl5B2lKh7lKSjqaivt7idqKuToqeRo6i81NwA2N/Fy9K6rcversrd3uPi3eTl2uTn0N7i0+Hm4/P4AM/bxLXAq6/ExKm+ycXFwba+tbbAs7nBtra+tNTe1wC+1KvX4L3R3tjN3eb///T8+erg6sPW6r3Y6sDV5bwAZW1JxLCTy7acmI19urCcvK6frqh7gZ49e504c5k3AMa0ndrHq9jFqM6+psm6o7yzorSonoOIW1h6LVl+MOGLz0pqxEGKAAAAAElFTkSuQmCC",
+      "imageId": "f5026ea6-95e1-4aa5-1b1c-5cc0bd71b300",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "the-health-benefits-of-walking-and-how-to-get-started",
+      "locale": "en",
+      "title": "The Health Benefits of Walking - And How to Get Started",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"It\\u2019s the perfect way to be active without having to think too much about it. Just lace up and go, right? In theory, yes. But in practice, getting yourself out the front door and walking for a length of time may seem like quite the challenge, especially if you don\\u2019t have a gym membership or access to any other kind of workout facilities.However, as with anything else in life that may seem difficult at first but is actually beneficial for your well-being in the long run, there are plenty of ways to make walking more accessible and enjoyable for you. Here are some tips on how you can get started on that walking routine and keep it going...\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AHahkoW3sXCxrmykn2mVjGuCdluGgY2ZhmSZknC6wABngmtBfHZHjpOS09yEwMFXXkE2VEtCYleyt6CGppYAgaagiLCtYIZ3cIRyjKmge5N8Z5CHf8jKdbGub5yKAJjFwp+9unmTf4R/YoeRiH2jpJTT1KLU0mSgnzpragBcm5Vcl5RYgoE+gYdvg3fBrZVmj49wZllffHZVoZUANXl2YZOSb56eUJOYMUhBqH5R07aTeHpvgK2wZKiTAGWbl2eXmHSjp6rBuJ+3rjhVTYVkN9O1kaXS03C0rgDI6+XQy6WRnH9/nJaCjoRij44UQ0VmRyrVxamcysQAmryvgVwbj3hSf4BccphtfIpzTX18AjU7VEEsz76fAElzbWSHfn2OfXqOY4VoIHWNaWt7bAtNVRUyMEM9LhlVmkxrLJk1AAAAAElFTkSuQmCC",
+      "imageId": "024223e4-791b-4e19-17b9-b95c1a6bd500",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "a-beginners-guide-to-meditation-and-its-benefits",
+      "locale": "en",
+      "title": "A Beginner's Guide to Meditation and Its Benefits",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"The idea of sitting still and focusing on your breathing might sound a bit too challenging at first, but meditation is actually much simpler than you might think. If you\\u2019ve been struggling to find balance in your life and keep your stress levels under control, meditation is just what you need. As we go through this hectic world, our minds are constantly racing from one thought to another without even noticing. Most of us have a hard time dealing with the pressures of everyday life, which is why meditation can be such a great tool for clearing our mind and finding peace once again. It also helps reduce stress, lift our mood, increase self-awareness and make us more compassionate human beings. So if you\\u2019re ready to adopt the practice of meditation in your life on a regular basis, read on \\u2013 we\\u2019ve got all the details you need!\"))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMC9smRqR73Brv///5+alIFxafXu6f7///T19P3+/gC0oY++rZzn4dnp5+d+X1BuTz3IuK339/fj5uX8+vkAuLCovLayxL+74t7himxdj3pvyLWmioF+k5KQlq+uAGVYU2VZVJ+Yl9/b39TKyHBygICSr5OLiDY0MydVWQBRRkRCODePiojc1tfMys88R2OHi5x/eXcvNTQtR0sAZ1pcOzQxaWtzeXmIl5CZm4uKr5WEkYN7lpOSxsrMAIFudsnHybq7wpuZpH5/j76onIh5c49+eMS8ufXy7wCTiISonZmll5GfkImJd3CoiXVUS0YsIB1QREBfU1AAW01HYVFIallRb15XRTk0dl1OdmRYIRwcMyopMCYkAE9CPF5NRl5NRVhFOlU7Kn1YOrKPeW1PPEUtHzgpIXe0nqt9qrcDAAAAAElFTkSuQmCC",
+      "imageId": "a20144fb-d090-4948-db95-8bfd90598600",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-make-time-for-yourself-when-you-have-a-busy-schedule",
+      "locale": "en",
+      "title": "How to Make Time for Yourself When You Have a Busy Schedule",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Are you someone who is known to be a selfless person? Do you often place the needs of others before your own? If so, you\\u2019re definitely an amazing person. However, when it comes to your social life and personal interests, do those aspects take a backseat most of the time? Whether you come from a hectic work schedule or have other obligations that require your attention most of the time, being busy all the time can completely suck the life out of you.\nIf that sounds like you, don\\u2019t worry! You aren\\u2019t alone. Many people today find it difficult to carve out some time for themselves. Thankfully, it is possible to balance a busy schedule and make time for yourself. Here are some helpful suggestions on how you can make time for yourself even when you feel like there isn\\u2019t any left in the world.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "health",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+ALm6sezj2+vi2eLZz6CalZaPjJePjJWOi5CJh4eAfgBQb2fRzsn/9+y5tK2MjZHT1NaztLegoKOjo6a9vb8AvqF4zrqh//72qqWfx8jK8PDvxsfGwcHAyMjH3t7dAL5rANCjav///KOcmMfIy9PS0ri4ucHBwsvLzdHR0gC5bwnTqnH///yel5Tb3N7////19dvY17zT0rnX1r4A6KRIxpVI//jrjIaEZmRri4qOlJOVoqCfq6qos7KxAMmSM6iCKdjIs3Zuay0oLS0nLiEcJRoVIR0ZJB8aJgDDnkmvmmS/taqzp5upnpKWi4GCeHF5cG1qYWBxZ2QA79S06MKf4cqz5dvO497T2NDFzsa7ysO5vLOpt6yjAMvEtvv26Pjiyd+5msKjjPjw4//57/316v3z6vju5Xobyq/s/+nYAAAAAElFTkSuQmCC",
+      "imageId": "060455cf-f2c9-48f3-16fa-0bb812b5fb00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "categoryLocal": "health",
+      "slug": "how-to-stick-to-your-healthy-eating-goals",
+      "locale": "en",
+      "title": "How to Stick to Your Healthy Eating Goals",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...t}){return mdx(MDXLayout,{...layoutProps,...t,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`The New Year brings new resolutions and the challenge to stick to them. But how can you make sure you succeed this time? Planning and preparation are key to any endeavor, including sticking to your healthy eating goals in the New Year. Thinking ahead and making a plan will help you avoid pitfalls and stay on track. After all, it\\u2019s not about failing once but rather keeping failure at bay so it doesn\\u2019t creep up again next year.\nMany people struggle with their eating habits because they lack structure or fail to plan ahead. That\\u2019s why creating a strategy is essential if you want to maintain this commitment for good. Whether it\\u2019s going on a diet, cutting out certain foods or reducing your intake of fats, proteins or carbs \\u2013 there are different ways how you can achieve your goals. Here are some helpful tips:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }

@@ -1,9 +1,9 @@
 {
   "category": "investing",
-  "imageSrc": "/articles/what-is-dollar-cost-averaging-and-should-you-do-it.png",
-  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABI0lEQVQYlWWQyUrDUABF3we4cOvOhTuXfoA/JihdqCCCbhQcWtCqYGulJKmah2lChlrakg5JzPDaZmgzaAaJYKQrKS4Lh8vZXTjATWaLePEcN5mBq7vHUvX5ASOf6gLXlvPFEt9RiFeBEsTL63sgo6mojNvSkG1Jqul3VVM1/b7uyGja0yxwfHpRuCkfnZzXKP6FaeT2D88Kt5Bt7ewe5Isl4Hmazm0hJ3SizPrInCizP3/dZDaJ5wtCbCWuLkt0rjkIoGArVlqBRuc9ZEUXCjb4JlcnxIZhdHsowutGcxDUmFFbCUh+jFE6GL7t+fgawjYVK60xI1GPMEqHDROvGyQ/BglcT/ElxG83BwFBI4JGqvnFdb0K1ObfbvyD+uXFLP/yBzba8EVBZX42AAAAAElFTkSuQmCC",
-  "createdAt": "2022-01-30T06:26:54.972Z",
-  "updatedAt": "2022-10-11T17:16:39.852Z",
+  "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVQYlRXCTVKCYAAA0O8ELVo20wVatOgM3abpIF2hnYu0NDTBUEgBFRUEB0FM4kcMQlD5cUQbZUZpevNAsEuDXRr9/l/Fx3CXBvHR3xz9zSnYnsBTAUZqVA6qIFizyQxfSmiLEauNLlrv5Es10GZEaTKj+zJOscLnrNHmZc0ZjAyaHQljE+TL9ec3qlCukTRPdgaZLARXCZxiMtlXpEqCHxUT0TtGUGR9MZn6X99hX7KUWaBakWL6YA2fOcULjXscqPsWZ4tqCJNTbrxiR8t6zwYxeWMUrw1dkM1thdS6wzlMqD3R/eiYEK4Ai773kUsLvWXG8TulMZKH0SbaNCqETrAWWONXHnRu8w+cEmNtvcU7prvtiS7Zt90oAYvF1JRyTpQu14kXJW6UOP7BCw9elMz9/R+2qfDAqxTU5AAAAABJRU5ErkJggg==",
+  "imageId": "d5aa8026-f70f-4848-73e8-254125676800",
+  "createdAt": "2022-11-05T21:54:48.977Z",
+  "updatedAt": "2022-11-05T21:54:49.219Z",
   "slug": "que-es-el-costo-promedio-en-dolares-y-deberia-hacerlo",
   "locale": "es",
   "categoryLocal": "invertir",
@@ -20,130 +20,85 @@
   "relatedArticles": [
     {
       "category": "investing",
-      "imageSrc": "/articles/the-ins-and-outs-of-investing-in-stocks.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AAOx8gOz8wS19AS39QO59h3B+XXb+zfN+ATF/APH/AADs/MDtfYDtfQwwPSR1uzf5ub4+vnr7ujA5OZz2O8ADLPzVMbvtOHv0dnWzdLQys/Ny9DO2+Dc7PDn7PDlAIuwv9jg3cnNzM3S0MPIxtne2sLFwtvg3NPX0fT05gBYWlxlfIm8zdDHzMu4urfY3dnn7Obs7uTy7t3379sAIi05VVRQVGBnfpmnz9jV1tnT6+na9evV+vLgyensAAQtTBImOEpGQ1xhYWJ9i+bgzfbq0+vu33PQ7gy++AAGR2wGLEoJHzU2NTibnJfy6NWj2OQivfQJuPUKufcABoO9BXWoBmudBlyINniUQbrjCbXzCbXzCbXzC7f1AASt7wav8QWx8gWx8gew8gmz8gmz8gmz8gm18wq29IqNwWX1gnPIAAAAAElFTkSuQmCC",
-      "createdAt": "Sun Mar 27 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "los-entresijos-de-invertir-en-acciones",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMp9WMF7S7l2MNNqK+FjMelyQNLFqNPWwbu+rpCWjwDCiXLDfkXUpWPUkGPvdEPyrozl6drU4uHL3uSerrYA2ap+47+Y5sqs2tbKx8nHprrDj5mllJuovs7ZmaevANrm5L3P2ZSfqn+IlaCtt7G6wdHh5s7e5Nfq8qGwtgDa7/mcprGxvcbJ1t6nsbm+y9Lo+v7D0tnE1N2+0NgA1OTq3/L65vj8y9nhrrnCkpmjoqq0ucbO3fD21OzyAMnT1K+8x4WLloGGknd7h5+pss3d4+Hz+tjm8cTG3QDJz8mUnqyfqbXL2+XX5+3d6vHIyt+xmriDXJeGWqIAwcK1xtPaztjYx83Dvru6oZG8mnujl2+Wf1uLeFCeAMHAr7+/scHArsjItMfEuq+kt56DmYdpoodkiJB7qIbn1U6yrR7OAAAAAElFTkSuQmCC",
+      "imageId": "812ff604-f1eb-4060-e805-ef8f0f58b200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-empezar-a-invertir-con-poco-dinero",
       "locale": "es",
       "categoryLocal": "invertir",
-      "title": "Los Entresijos De Invertir En Acciones",
+      "title": "Cómo Empezar a Invertir Con Poco Dinero",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Ser capaz de invertir es una de las mejores cosas de ser adulto. Le da una sensaci\\xF3n de control sobre su futuro financiero y abre un mundo de oportunidades. Pero invertir no es tan simple como poner algo de dinero en el mercado de valores y esperar que suba. Hay diferentes tipos de inversiones, estrategias, riesgos, recompensas y estilos de gesti\\xF3n que se deben tener en cuenta al elegir c\\xF3mo invertir sus fondos. Afortunadamente, no necesita ser contador o tener un t\\xEDtulo en negocios para comenzar a invertir y hacer crecer su dinero; conocer los diferentes tipos de inversiones que existen lo ayudar\\xE1 a tomar la decisi\\xF3n correcta para usted y sus circunstancias personales. Este art\\xEDculo cubre todo lo que necesita saber sobre la inversi\\xF3n en acciones. Si necesita m\\xE1s detalles o tiene preguntas espec\\xEDficas que no hemos cubierto aqu\\xED, visite\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`A menos que sea un ni\\xF1o de un fondo fiduciario o un ganador de la loter\\xEDa, lo m\\xE1s probable es que no tenga mucho efectivo para invertir. Como reci\\xE9n graduado universitario con pr\\xE9stamos estudiantiles y alquiler para pagar, y mucho menos con la perspectiva de ahorrar para la jubilaci\\xF3n, puede pensar que invertir se siente como una tarea imposible. Pero no tiene que ser as\\xED. Solo necesitas saber por d\\xF3nde empezar.\nInvertir puede ser intimidante a primera vista. Incluso las personas con un alto patrimonio neto tienen dificultades para encontrar asesores confiables que se especialicen en ayudar a aquellos con poco capital a comenzar en el mercado, hasta ahora. Las siguientes estrategias simples ayudar\\xE1n a cualquier inversionista a comenzar a invertir con poco dinero y obtener ganancias con el tiempo. Siga leyendo para obtener m\\xE1s detalles y ejemplos de cu\\xE1nto podr\\xEDa ganar al invertir incluso una peque\\xF1a cantidad ahora y mantener ese h\\xE1bito a largo plazo.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/how-to-start-investing-in-mutual-funds.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABIUlEQVQYlSXLbU+CQAAA4Ptlrf5B8w/W+lStQpMmzcpEHJjeAfJ6d+DBAQoq5NBZWR9a6/OzB+TLTV3vqrKuVtUyX6XpnMfziKUk4HGUgZ/D/vvr47Dffu42dVkGhBZFkWUZ55zHKXiUehlPiI99xx0qqiwr4sOT0Oq07qWIcTAj0UjTsUvz+YJHcRgyWdHG0DSMaRgy8KZO9In+0u3PaDB4HTQFUbhrY58Krc7NrQi21aYu38vligWsWq+LRZ4kWRwlEeN/u98bP3dVCF1FRpI0aLd7yhCZU6wbLkQ2uL680lSEPRZQHlCOPWY51DCJbvgQuuC00Tg/u3BsTElMSey5oW0Rw/QhsscjExydHHdEybZ87LF/m5qujhw4sTQV/QJ44vag/a0v/gAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Sep 03 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-empezar-a-invertir-en-fondos-mutuos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AN3f7Lm/y7i+ycDEzb/Ez9LW38DGztDU3fL1/vDy/ADh4u3KzNTCxM3Hy9a3tLnLytHM0tvg5O3b4Oro7fQA5eHn9urn8+zr0s7RZ0k8uqGc////5OfuxszW6e30AOnr9+Hj77G4xKKiqLWNgO/e3dHW3rO5wsDG0O/x+ADa3OikqrPf4OnO0uG2nprf1dewtcbz8/vh5Ozr7vQAqq+56uv2rbDCNEBhhHaC2MDEbnOduLvT+Pv/8vX6ANDW4ebt9298jBYjP4iHl5mUp1BWfZWbtvX5//P1+gDl7Pfo9f9/kaItN1YvO1k2Pl4pMEyDiaP7///x9fkAwNLly+Dvmaq5VFh3ioWVT1d6Q0lwk5i29/v/8PT7AObv+Nvq9NTj70ROYj9AUVRZenmBqsPJ4vT5//Dz+7re3kTLCLs8AAAAAElFTkSuQmCC",
+      "imageId": "310345ab-16f5-4b29-7b8c-b8f2b2986f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-elegir-las-inversiones-adecuadas-para-usted",
       "locale": "es",
       "categoryLocal": "invertir",
-      "title": "Cómo Empezar a Invertir En Fondos Mutuos",
+      "title": "Cómo Elegir Las Inversiones Adecuadas Para Usted",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los fondos mutuos son la mejor manera de comenzar a invertir y ahorrar para su jubilaci\\xF3n. Tambi\\xE9n se conocen como fondos de capital o basados en acciones porque invierten su dinero en empresas, no en activos fijos como bienes ra\\xEDces u oro.\nEn este art\\xEDculo, explicaremos todo lo que necesita saber sobre la inversi\\xF3n en fondos mutuos, incluidos los diferentes tipos de fondos mutuos disponibles, cu\\xE1nto necesita para comenzar a invertir y qu\\xE9 riesgos debe considerar antes de sumergirse.\nSi alguna vez se ha preguntado c\\xF3mo invertir en fondos mutuos y por d\\xF3nde empezar, no est\\xE1 solo. Pero ahorrar para la jubilaci\\xF3n puede parecer una tarea monumental cuando reci\\xE9n comienza.\nAfortunadamente, hay muchas maneras de comenzar a invertir en fondos mutuos sin tener una pila de efectivo preexistente esperando. Siga leyendo para descubrir todo lo que necesita saber sobre la inversi\\xF3n en fondos mutuos, \\xA1sin importar desde d\\xF3nde comience!`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...r}){return mdx(MDXLayout,{...layoutProps,...r,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Hay un mill\\xF3n de formas diferentes de invertir tu dinero. Algunas de ellas pueden parecer aterradoras y confusas, pero invertir es una de las mejores maneras de aumentar sus ahorros, y hay muchas opciones accesibles que no tardar\\xE1n d\\xE9cadas en ver un retorno de su dinero.\nSi tienes algo de dinero ahorrado y quieres empezar a invertir, ahora es el momento perfecto para hacerlo. Cuanto antes comience a invertir, m\\xE1s tiempo tendr\\xE1 su inversi\\xF3n para crecer con el tiempo. Sin embargo, muchas personas posponen las cosas cuando se trata de su futuro financiero porque piensan que invertir es complicado o requiere mucho dinero por adelantado. Pero ese no tiene por qu\\xE9 ser el caso.\nUna de las principales razones por las que muchas personas no invierten es porque no saben por d\\xF3nde empezar o temen cometer un error si se sumergen demasiado r\\xE1pido. Afortunadamente, hay varias formas diferentes de comenzar a invertir sin romper el banco o sentirse abrumado por toda la informaci\\xF3n que existe.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/investing-for-income-generating-passive-income.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKUlEQVQYlUXPQUvCABiAYX9k1w4dPQURoaAQWSmDSiuIyJhZthW4TV0y0iQ13XK0uUwh02lzmzFEHRZosY9YBb3X5/Q6AGA61L8mxmyozEbN6VCdjbTP97FlWQDgAACtdGFQXp0jeoU1jU+rXFLOReEnmz9qqQLpYXMMFU/g2GUySTP4UafBm+OBzROJzKe8/a5cLnMsey/Lyjbif7yOGcabzQP+PE26lXZLFCW+8lB/eo7sB8pXZxRF2KwXjxPYsiSIqqr3lD4aRu/wrYO9oGmaNrczuyVsSRCqyqve7ag7CEKHA4XirWVZNgukLxN28hWx9dKl6fSh34WsugDgj7On7lhoQRRqjXpzc33DtzifI9B/lrIn+XiwykQlJhIPrXicc9Ub/Pf7G35p7aE2LzUyAAAAAElFTkSuQmCC",
-      "createdAt": "Mon May 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "invertir-para-obtener-ingresos-generar-ingresos-pasivos",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AJFzULCGVpdvRmFOP1xhZm1taW1ubH2Gi213eWFyegCFZUNQRj42QlRPZn15lqlmiJ1oiqJ2lal0l6x8n7QAYWNka3qIi5qmprS6prO5uMPIvcTHvMHB0NHPtLOtALW2s8XCu8K+uLm2sbm2spWSjp6cmaGfnK2sqaSjoACbmpifn52lpaO1tLHAv73Av7y2tbOysq6np6S2tbMAg4OBqainsrGvnJyarq6srKyqra2ru7q4xMPBtLSyANfW1Lq6uJWVk62tq7Cwr7i4t7Cwr6SjoqKioKKioQD////j4uGhoZ+mpaWmpqWwsLDCwsPMzM3IyMipqKgA6uvq4OLj5ebo5Obo5Obp3t/htri6cnJzRkREQkFBAMzP0dHS1dbX2snKzc7Q0KCgoFBQU2RkaKGhps/R1HwXwAuQmoJ4AAAAAElFTkSuQmCC",
+      "imageId": "8e167f18-75a6-49ae-c0d3-f3cf5a1c8f00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-beneficios-de-invertir-para-la-jubilacion",
       "locale": "es",
       "categoryLocal": "invertir",
-      "title": "Invertir Para Obtener Ingresos: Generar Ingresos Pasivos",
+      "title": "Los Beneficios De Invertir Para La Jubilación",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando se trata de invertir, la mayor\\xEDa de la gente piensa en acciones y en el desempe\\xF1o del mercado. Sin embargo, hay muchas otras formas de invertir su dinero y generar ingresos a partir de \\xE9l. Invertir para generar ingresos significa que est\\xE1 buscando un flujo regular de efectivo de sus inversiones, ya sea como pagos trimestrales o anuales. Hay varias maneras de hacer esto; s\\xF3lo necesita saber d\\xF3nde buscar.\nInvertir para obtener ingresos puede ser un esfuerzo desafiante, pero con el conocimiento adecuado puede lograr su objetivo. Si est\\xE1 buscando rendimientos constantes de su inversi\\xF3n, consulte nuestra gu\\xEDa sobre c\\xF3mo invertir para obtener ingresos en una variedad de formas que no lo dejar\\xE1n sin dinero y le permitir\\xE1n continuar aumentando su riqueza con el tiempo.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La calidad de vida de la mayor\\xEDa de las personas en sus a\\xF1os dorados est\\xE1 directamente relacionada con qu\\xE9 tan bien se prepararon para la jubilaci\\xF3n. Seg\\xFAn un informe reciente del Instituto Nacional sobre la Seguridad de la Jubilaci\\xF3n, hasta un tercio de los estadounidenses corren el riesgo de no poder mantener su nivel de vida actual durante la jubilaci\\xF3n. Eso se debe a que muchos no est\\xE1n ahorrando suficiente dinero de manera regular.\nUna estrategia de inversi\\xF3n que puede ser \\xFAtil para ayudarlo a lograr sus objetivos de jubilaci\\xF3n se conoce como \"inversi\\xF3n para la jubilaci\\xF3n\". Este tipo de inversi\\xF3n est\\xE1 orientado a permitirle jubilarse antes con un nivel de vida m\\xE1s c\\xF3modo y seguro. Si a\\xFAn no est\\xE1 listo para jubilarse pero le gustar\\xEDa tener m\\xE1s seguridad financiera una vez que lo haga, probablemente sea el momento de comenzar a planificar su vida posterior al trabajo. Un buen lugar para comenzar es familiariz\\xE1ndose con los diferentes tipos de inversiones para la jubilaci\\xF3n disponibles. Comprender estas diversas opciones junto con sus ventajas y desventajas lo ayudar\\xE1 a determinar cu\\xE1l (es) podr\\xEDa ser adecuado para usted.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/investing-for-beginners-where-to-start.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABA0lEQVQYlX3GPUvDQACA4ftNDi4O4uouTk7FIe5CEFcHJ3EoOApCFUQz6SBIqURNmlhtE22tsUmaa4KG9nLJ5T6SxSGQUXh4eUEp2D+A6s41H5kB6ofYmOFHbzGI0tcIdwP0NEWg5KLkIounrvUcjMzYG3i25tlaydOiKEDBeMF4Ckc/VsfXb2H3JrI7s36bolAIAQQhv04Pfr6E4963pftDc+6/w/Gb+2EkoQOyGEL9+qt9PrxvGcqJenE8Ua8mqmLfnTkPl4DltMIpoyTHaMEpq4E8yyqU5JTk9VRAluAKRkldgtMKkJutrf2jtcbu0oa00pBXt+XlTWld2ts5aB6eKn9UhAAKOplukQAAAABJRU5ErkJggg==",
-      "createdAt": "Thu Jul 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "invertir-para-principiantes-por-donde-empezar",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABN0lEQVQYlR3QW0vCYBgA4O93auGhi24iuujOQyoVreWMoEQkoiQjKmgp+7TJt4ENx5wFYaAhgZVEyjxtToe6t8PzEx7kjcRcQdoTZuLX2eJTVa7WL/LiKh13+qmlSAy5gvQKdfj63gIA0xwZ+hAAhqPx9smlw0chV4BWX+pjQ9d1Xa1UMMaaphn6sNsfrEUTaDOZBgBBEDiOE0VRlmWWZe8ymflseiuW0Fm2AACdTkdRFEKIJEmqqjabTQB4rDXQMZsHAN0wyuVygecJITzPf7fbAKBUa8h/dDqxrAdJ4jDm7/8QQnAuN7Wscywgh28nX1LBnne17sg0e/1efzCYWZO3j9by1gFyh6LeMCNWnuGfbdsA0Pj8Wt9PLgR2kTfMuENRp5/aSKTSmFwVinupG0+IWQzSvy0/EpDhgeghSeUAAAAASUVORK5CYII=",
+      "imageId": "00a8ddc7-97eb-4f75-2eb1-f6d450b4b000",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "10-cosas-que-debes-saber-antes-de-invertir",
       "locale": "es",
       "categoryLocal": "invertir",
-      "title": "Invertir Para Principiantes: Por Dónde Empezar",
+      "title": "10 Cosas Que Debes Saber Antes De Invertir",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Puedes amarlo u odiarlo. Pero invertir es algo con lo que todos tenemos que lidiar en alg\\xFAn momento de nuestras vidas. Si le gustan las matem\\xE1ticas, la l\\xF3gica y la resoluci\\xF3n de problemas, y no rehuye el riesgo, entonces tal vez invertir sea para usted. Para el resto de nosotros, sin embargo, la idea de invertir puede parecer un poco aterradora. Pero no te preocupes; invertir es mucho m\\xE1s simple de lo que la mayor\\xEDa de la gente piensa, especialmente si tiene una comprensi\\xF3n b\\xE1sica de c\\xF3mo funcionan las finanzas personales. Mantener un registro detallado de su dinero no es dif\\xEDcil y cada persona deber\\xEDa invertir sus ganancias para el futuro. Ya sea que tenga $ 5 o $ 500 para invertir como principiante, hay muchos lugares excelentes para poner ese dinero para que pueda crecer con el tiempo. El truco est\\xE1 en saber qu\\xE9 opciones de inversi\\xF3n son mejores para ti y tus circunstancias...\"))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"El mercado de valores ha sido una gran fuente de creaci\\xF3n de riqueza para muchos inversores. Durante la \\xFAltima d\\xE9cada, el \\xEDndice S&P 500 por s\\xED solo ha creado una apreciaci\\xF3n del valor de m\\xE1s del 200 % para sus inversores a largo plazo. Sin embargo, invertir en bolsa no es tan sencillo como comprar acciones y olvidarse de ellas durante 10 o 20 a\\xF1os. Requiere monitoreo, investigaci\\xF3n y an\\xE1lisis constantes para identificar las oportunidades correctas y administrar el riesgo. La Gran Recesi\\xF3n de 2007-08 es un ejemplo perfecto de lo arriesgada que puede ser la inversi\\xF3n. Muchas personas que eran nuevas en la inversi\\xF3n sufrieron p\\xE9rdidas significativas cuando sus inversiones se derrumbaron durante ese tiempo. Si est\\xE1 pensando en invertir su dinero en acciones, aqu\\xED hay 10 cosas que debe saber antes de hacerlo.\"))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/why-you-should-invest-in-index-funds.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJElEQVQYlTXMz0+CUADA8ff32sUuDnVzUHfpB821ovBRh1hpuDVp7E2LlNQjenkiY8ibPObeQDfEWyvX9/A5foGJeqj30R8MLft7MB4PJxPsenme7/f7LMvAer1mjCVJkqbpZrPZbrfZf3megziOCSGUUsZY/9N6674/tVoGQnWpsdvtQKFQ4Hle0zRK6fWNfFQ8rp2cau1Xa2D/ziGEkiSZpkkIsW273dEdx2mqj7dN2OkaQNf1crksCEK1WuU4ribw9TPx8qohnl8USyWgqirHcaIoVioVWZYNw0AIYYyjKEqSBIxGo+l06vt+EAQHCSFxHLO/wGw2wxi7rrtYLA56nrdcLlerFaUUOI7zZQ+fWy+KCu+b6p0CFfgwn8993w/D8AeXZ+WM5TDffQAAAABJRU5ErkJggg==",
-      "createdAt": "Sun Jan 02 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "por-que-deberias-invertir-en-fondos-indexados",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOUlEQVQYlQXB3UrCUAAA4POEXuSlXedNUt14KdsjhC0SHFTURlChgmm1VXNu87Sz/51tps60BH9SEZWIwvV9IAiajoNhAyFkQqgrCmq1+qPR7PNj8DVdAIxxN+z6nv/WbIVhaBjmcDLzNKTy97P5Euwkk7ICKep4b//g+uaWZa8Gw4n32lDKhel0AWiath1sO87p+ZmK0HuvN1+uXFm0BO4visAjzzEMe8EweZrO5U7uKpXfzcaRa+Zz1eWroFgq5WmaIEmCJDKZDEUdbaLIlWtatWTzD8C0bez5XhCYttXudCzb6vb6riy68kv0swIESabT6URiOxaL7aZS8a34YTbb1lWzxq1hEWi65WIPQiiKoob0el3SDMuWhEa5sFx/g+Dp0uFYLBScesWQOAtKvmVoouCpcDwc/wNZTOJZZwSiwgAAAABJRU5ErkJggg==",
+      "imageId": "b7c3d224-2747-4e15-f024-b7de80eb3c00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "por-que-deberias-empezar-a-invertir-ahora",
       "locale": "es",
       "categoryLocal": "invertir",
-      "title": "Por Qué Deberías Invertir En Fondos Indexados",
+      "title": "Por Qué Deberías Empezar a Invertir Ahora",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`El mercado de valores puede ser aterrador. Es f\\xE1cil quedar atrapado en el momento y entrar en p\\xE1nico cuando cae, o emocionarse demasiado cuando sube. Pero si da un paso atr\\xE1s y observa la inversi\\xF3n desde una perspectiva a largo plazo, las cosas no son tan aterradoras. De hecho, los fondos indexados son una excelente manera de invertir su dinero a largo plazo.\nEs natural tener cierto temor o aprensi\\xF3n acerca de poner en riesgo el dinero que tanto le cost\\xF3 ganar al invertir en el mercado de valores. Despu\\xE9s de todo, mucha gente fue testigo de primera mano del estallido de la burbuja de las puntocom y, como resultado, sus cuentas de jubilaci\\xF3n se desplomaron. Sin embargo, eso no significa que deba evitar invertir en acciones por completo, ni siquiera con la reciente recesi\\xF3n a\\xFAn fresca en la mente de todos.`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Como millennial, puede sentir que su futuro es sombr\\xEDo debido a la deuda de pr\\xE9stamos estudiantiles, las perspectivas laborales limitadas y los salarios estancados. Pero la realidad es que su futuro financiero puede ser brillante si toma medidas ahora. Invertir lo antes posible es quiz\\xE1s la forma m\\xE1s efectiva de aumentar su riqueza con el tiempo.\nInvertir incluso una peque\\xF1a cantidad de dinero ahora puede tener un gran impacto en su \\xE9xito financiero a largo plazo. El tiempo es su mayor aliado cuando se trata de hacer crecer su dinero: cuanto antes comience a invertir, mayor ser\\xE1 el rendimiento potencial que ver\\xE1 m\\xE1s adelante en la vida. En Intrinzik creemos que todos deben aprender sobre finanzas personales e invertir de manera responsable para su futuro. Con este art\\xEDculo queremos brindarle algunas ideas sobre por qu\\xE9 deber\\xEDa comenzar a invertir ahora y cu\\xE1les son las mejores formas de hacerlo:`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/what-are-no-load-mutual-funds-and-are-they-right-for-you.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6ElEQVQYlWP4scIChqxgpBWcy/Dr6nw8iOH9+/fHjx/ft2/fxo0b9+7de+DAgV27dm3YsOHr169///5l+Pjx4969ey+BwcmTJy9fvnzs2LHLly8/fPgQJP306dMTJ05cuHDh6tWrJ06cOHr06PHjx48ePXr79m2Q9NmzZ1etWrVp06YtW7bcunVr/fr1S5cu3bVr1/r1669cucKw6sGunBPtmSdb8k92pBxryDjenHKsAY4YbLbH+ezLcd2d5rwrNWB/fsjBYp99OV77soP3F1lsi2F4+eLswdvrcCEGpDABoW8roQyIOABpuNQH1WAHEgAAAABJRU5ErkJggg==",
-      "createdAt": "Wed Sep 08 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "que-son-los-fondos-mutuos-sin-carga-y-son-adecuados-para-usted",
-      "locale": "es",
-      "categoryLocal": "invertir",
-      "title": "¿qué Son Los Fondos Mutuos Sin Carga Y Son Adecuados Para Usted?",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:o,...e}){return mdx(MDXLayout,{...layoutProps,...e,components:o,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando compra un fondo mutuo, generalmente paga un costo inicial (o carga) y tarifas anuales. Estos se conocen como \"cargas\" porque reducen su retorno. Un fondo sin cargo no tiene costos iniciales ni ocultos. Estos fondos mutuos tienen un requisito de inversi\\xF3n inicial peque\\xF1o, que puede ser de tan solo $50.\nEstos fondos tienen otras caracter\\xEDsticas que los diferencian de aquellos con cargos por carga: Los fondos mutuos sin cargo generalmente no cobran comisiones ni cargos por ventas. Tampoco ofrecen privilegios especiales para comprar sus acciones, como acciones reservadas o primeros usos de nuevas acciones que salen a bolsa. No hay incentivos para corredores como objetivos de ventas o pagos de bonos por vender ciertas acciones.\nSiga leyendo para obtener m\\xE1s informaci\\xF3n sobre los fondos mutuos sin cargo y si pueden ser adecuados para usted.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/5-investment-strategies-for-beginners.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AP3DPOiuRsmRVvO5QvK4QN+kUPe6O/6/N/y+NuGkQgDam0/9wTr5vzrus0HRlVPPlVn7vTX8vzT9vDWxcVkA88ls9tJ888lf8tF/6s136shy7+K+7+jM9NKJ/bswAOzv6Z2gnJeVhpCTkHh4dlpaWGttat/i3erSk+q2KADq7eenqqeztrK4ureLjouSlZKZnJnn6uXfyYiglBYA6Ozk4eXfWlpYfH98eXt4mp2ar7OrzdK1urKCaGIJAOro2NHUz52gnKCjoIuOi4OGg32AfcvPxYOITis7DQDp4cm4u7WQk5Cgn42trZ29wbu4u7XO0ryonl89UQ0A88hy8sl39cZr8LNB5KMj7Kwy8Kgj2KgdnZQXYF8OAM2KOvuwJvuwJvuwJvqvJPitIvGmG+WaD9eNCY9qCxBtuwkd8+erAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Sep 21 2021",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "5-estrategias-de-inversion-para-principiantes",
-      "locale": "es",
-      "categoryLocal": "invertir",
-      "title": "5 Estrategias De Inversión Para Principiantes",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,\"Cuando empiezas a invertir, el mundo de las finanzas puede parecer un laberinto. Hay tantas cosas diferentes a considerar al elegir la mejor manera de hacer crecer su dinero. Lo \\xFAltimo que necesitas es otro rompecabezas complicado de resolver. Afortunadamente, como inversionista novato, tiene una gran ventaja sobre otros principiantes que pueden no estar leyendo sitios web de asesoramiento financiero: \\xA1sabe que necesita invertir! Si bien eso suena obvio, muchas personas no entienden la importancia de invertir temprano o simplemente no lo hacen porque se siente tan desalentador y complicado. Pero bueno, todos comenzamos en alguna parte. Si reci\\xE9n est\\xE1 comenzando su viaje en el mundo de las inversiones, o desea llevar su juego a un nivel superior, desde un inter\\xE9s casual hasta una estrategia financiera seria, aqu\\xED hay algunos consejos \\xFAtiles para comenzar en el mundo de las inversiones y c\\xF3mo puede sal adelante m\\xE1s temprano que tarde con estas 5 estrategias de inversi\\xF3n para principiantes:\"))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/getting-started-in-real-estate-investing.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+ANzc3OLi4r3CwOjr6vLy8vDw8MO8uqaioeXl5drd3ADJzcyjq6a8tq+kp5/J0c739fTGoZmRcGu2tLSXm5IAfndqs6+joLG0orK05uTg/f3917q4wKGcdn6Htru5AMzCuNHLwsHIyMrPzebk4Ozy98HO3q2otXB+jEpWYADb1MnPysHIxsCwr6eeopeltcSLmqqyyeFmc4E2RU0A4drRvKaimJKbV15eeH99UFheh5iroLzXPUxULjpEAMPDqKauq6GkoXFxb1RcUm1xaU5dZnqq1VRoeC46RACnmY6qm5K1q6O+trCssKPHwrqIkZKTuNtxlLgyPkcAi4dmjpNWhIxXnZx6h5lVqaqHvry7XYOmV3iYKzdAAEVSEUJQB4d6WKyRg7Saj6uQgs/JxSktLhkgIhEYGgRbt0nR+G82AAAAAElFTkSuQmCC",
-      "createdAt": "Mon Feb 28 2022",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "iniciarse-en-la-inversion-inmobiliaria",
-      "locale": "es",
-      "categoryLocal": "invertir",
-      "title": "Iniciarse En La Inversión Inmobiliaria",
-      "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La inversi\\xF3n en bienes ra\\xEDces puede ser una carrera muy lucrativa o un trabajo secundario. Puede parecer mucho trabajo, pero la verdad es que no es tan dif\\xEDcil como crees. Se sorprender\\xE1 de lo simple que puede ser invertir en bienes ra\\xEDces si sabe qu\\xE9 hacer y por d\\xF3nde empezar. Si es nuevo en el mundo de las inversiones inmobiliarias, esta publicaci\\xF3n de blog lo ayudar\\xE1 a comenzar por el camino correcto.\nEste art\\xEDculo lo guiar\\xE1 a trav\\xE9s de diferentes tipos de inversiones inmobiliarias y revelar\\xE1 formas de comenzar en este mercado hoy. Incluso si no tiene millones de d\\xF3lares por ah\\xED, todav\\xEDa hay muchas maneras de mojarse los pies en el mundo de las inversiones inmobiliarias sin arruinarse.`))}MDXContent.isMDXComponent=!0;\n",
-        "scope": {}
-      }
-    },
-    {
-      "category": "investing",
-      "imageSrc": "/articles/how-to-build-a-diversified-investment-portfolio.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+AMiQXMuUYNKZZMeSX8mUZMCQZdeXZN+aaNqbbNWacADG1+HL3uy/xby/wbXGzMPIzL/Gxa7Cx8Hc7vzY7PoAtLiuvcbIuL61ub2yxczJw8nAxMrBu8PAx9LVxtXcALnCwbrGxsHO1b7N1sPN0crX3sLKx7rFzcTP0sPN0QC2ytGat7m71OLE1+6Bz7CEyZbL4e7BzeLRtJ7V0rwAnMS7kcC1mMW9rdnYItNYTNRPh9iWxq/L6qaIv8eXAKHGwJHBs5/JxMLU18PHLVvTS5TZqcS3zua1g8CyogC3x9KnvMW80OK4zOC5x8SmyrXB0uW4x93ExMLEy9kAsKassqqytK+8o6azq7C+paeriYySra++tr3Nt77MALBTCKxPCLBRCa9QB7VWC8xpDmMsEbRVCrdZC7tdC7gVzaLNec+jAAAAAElFTkSuQmCC",
-      "createdAt": "Tue Nov 24 2020",
-      "updatedAt": "Tue Oct 11 2022",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AMeSX8uWYtSebMiXacyZbMCVbticbeSgcNqdb9accgDK4PHN5PrE0M/Dzs3H09PG0cjHy77H0M3d9P7c9f8AtLitt7uytbantramvcK3vsCuvb+wubuyxs7NwsvLALe/vbm+vsLN1r3L0s3O28/S3sPLz7jCxsHS3b3L1QC4zdacu7++2OnK3vx9z7SE0p7J4e3G0uvYu57b1MEAm8K6ir6sosfFqNfNJ9FMO9I6f9iQ0KzX7J54wMyVAKHDvoy7qqLJysLT0sfHPl3QPojYp8631eKrhLq1qwC91OCoxc/D3vDC2fW70Myv1b3H1+q/1+zMzcPQ0eAAr6OnsKSusqq3paKtr63BqqCmjYuPsK27r7PHs7jGAKtKAKdGAatJAqNGAqpNA7lYA18nCqNPCrJWCrJZCpSBzeuG7ykDAAAAAElFTkSuQmCC",
+      "imageId": "8cc55241-900c-45ab-302b-2b468f714a00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
       "slug": "como-construir-una-cartera-de-inversiones-diversificada",
       "locale": "es",
       "categoryLocal": "invertir",
@@ -155,16 +110,61 @@
     },
     {
       "category": "investing",
-      "imageSrc": "/articles/how-to-pick-the-best-stocks-for-your-portfolio.png",
-      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABQUlEQVQYlQE2Acn+APz8+f39+/z8+fz8+fr7+Pr7+Pn69/n69/f39fX18gD8/Pn8/Pn8/Pn8/Pn8/Pf79t766rb63o370mHv15kA+/LT+uq0++GT+9hv+sxD/Mk0/NFS+9Nd+cMxlXxCAPnLQvzadv3jlfXntevo1Pz8+f7+/vz58fTLXF1eWwDzy2D+/v7+/v6iscO+ydXq7vLj5+3+/v70xkt/f30A7Mdd/vvwvMjUsL7OrLnJvsnV09vk/f39+stMp6SaAOvOg/3uwfHz9Pv02/zqsPzdg/zQVPzEJfu2B+G2UwDs0Iz7yC/7xiT8wRb7vw/8uQj7tgX6sAP5qQDlnAUA+MpB+70M+7gG6qcFzI8OrXcTk2cih2dAhHNnlY+MANm8fYVnMXtoU4V9d6OfmcLAvtra2ufn5+vr6+zs7OLq4uS+2k+1AAAAAElFTkSuQmCC",
-      "createdAt": "Tue Jul 28 2020",
-      "updatedAt": "Tue Oct 11 2022",
-      "slug": "como-elegir-las-mejores-acciones-para-su-cartera",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABHElEQVQYlQXBC07CMAAA0N7L6AnwhIYjwBCFCKJ8Ml1krO26sbbrZ90YQwgDATFANPE9UJaH/f57W+426+16tV4Uy8TkUmZCZsbk4PRz/L2c/y6n8/FQrj5Nkux3X9tNOc/nqcnAc3ekhXY/JkYqDJFlteqNdvOhW6u3KI1BorKQ8MCP8nS2LBbRlL30bfttDBGJuQQEBYIJH/nzdDbs27btjEbvQqhO57XRaINVsdBCaZXEVNCQYUTCMEpNxpmIuQLIi4aDMSHCc6eDgdvrOfYbhph7iLmTEFi1Zuepr1WemiI1hVY54wkJYt/nCFFQua1U76paGimzmBvGFKMiimJCKPQCcHV9c289YkTDQDKqA8IwphCGY5c4DvwHne/21ZxHdMoAAAAASUVORK5CYII=",
+      "imageId": "0fddca6f-dcd2-44ef-4115-99025fcd8e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "como-empezar-a-invertir-en-fondos-mutuos",
       "locale": "es",
       "categoryLocal": "invertir",
-      "title": "Cómo Elegir Las Mejores Acciones Para Su Cartera",
+      "title": "Cómo Empezar a Invertir En Fondos Mutuos",
       "intro": {
-        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los nuevos inversores a menudo luchan con c\\xF3mo y d\\xF3nde invertir su dinero. Hay tantos mercados burs\\xE1tiles, casas de bolsa y opciones de inversi\\xF3n que puede resultar abrumador. Sin embargo, elegir las acciones correctas es importante: su cartera estar\\xE1 compuesta en gran medida por acciones por una raz\\xF3n. El mercado puede fluctuar r\\xE1pidamente, pero su futuro financiero se basa en inversiones s\\xF3lidas.\nEchemos un vistazo a algunos consejos para elegir las mejores acciones para su cartera en cualquier mercado. Su cartera de acciones puede parecer una parte inalterable de su plan financiero, pero en realidad es uno de los componentes m\\xE1s flexibles. Una vez que sepa con qu\\xE9 tipo de perfil de riesgo se siente c\\xF3modo y en qu\\xE9 industrias o sectores desea invertir, tendr\\xE1 una idea m\\xE1s clara de qu\\xE9 tipo de acciones comprar. Esto es lo que necesita saber para elegir las mejores acciones para su cartera:`))}MDXContent.isMDXComponent=!0;\n",
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...o}){return mdx(MDXLayout,{...layoutProps,...o,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Los fondos mutuos son la mejor manera de comenzar a invertir y ahorrar para su jubilaci\\xF3n. Tambi\\xE9n se conocen como fondos de capital o basados en acciones porque invierten su dinero en empresas, no en activos fijos como bienes ra\\xEDces u oro.\nEn este art\\xEDculo, explicaremos todo lo que necesita saber sobre la inversi\\xF3n en fondos mutuos, incluidos los diferentes tipos de fondos mutuos disponibles, cu\\xE1nto necesita para comenzar a invertir y qu\\xE9 riesgos debe considerar antes de sumergirse.\nSi alguna vez se ha preguntado c\\xF3mo invertir en fondos mutuos y por d\\xF3nde empezar, no est\\xE1 solo. Pero ahorrar para la jubilaci\\xF3n puede parecer una tarea monumental cuando reci\\xE9n comienza.\nAfortunadamente, hay muchas maneras de comenzar a invertir en fondos mutuos sin tener una pila de efectivo preexistente esperando. Siga leyendo para descubrir todo lo que necesita saber sobre la inversi\\xF3n en fondos mutuos, \\xA1sin importar desde d\\xF3nde comience!`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMklEQVQYlRXJTUvCYBwAcD9d9B2E7l0CkcxT0KGDmZEoQkKywtRMluKmC9tKa6ZTN99fKmo1002TwkIx9+wfz+/6MwHAfNKff74txk8zrT7XenO1t/hWDcMwEDIBgFaMqRHrqBAeFA5HIq0JSYWPIqQjZOCeNqg8aS/ecdzNLZVmb7KFdOy0ls/8/X7hntTIzKVd7tZTzDVN0ZVSxedxl1OEIj/jHgqhLGkbvDyWypIkVnleiPqdPH2WSFK45dwxE7a2xPJQHf9MZ0SA4ILOwJHnXVFwt67cbNDSlqqvcr/Z7PrdB1HvDsuyAIBbiO+miY0K/9D/GMcTjGNr3be3jQAQ0nEzxObJvlm85xv1jtfltJhXmYsAACyXS9wSF2TPHS020uYiIZfNtrbSyZEAgHT9H+kO7IejMeT8AAAAAElFTkSuQmCC",
+      "imageId": "954a4e40-b451-4733-c254-c7568e253200",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "invertir-para-obtener-ingresos-generar-ingresos-pasivos",
+      "locale": "es",
+      "categoryLocal": "invertir",
+      "title": "Invertir Para Obtener Ingresos: Generar Ingresos Pasivos",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...n}){return mdx(MDXLayout,{...layoutProps,...n,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando se trata de invertir, la mayor\\xEDa de la gente piensa en acciones y en el desempe\\xF1o del mercado. Sin embargo, hay muchas otras formas de invertir su dinero y generar ingresos a partir de \\xE9l. Invertir para generar ingresos significa que est\\xE1 buscando un flujo regular de efectivo de sus inversiones, ya sea como pagos trimestrales o anuales. Hay varias maneras de hacer esto; s\\xF3lo necesita saber d\\xF3nde buscar.\nInvertir para obtener ingresos puede ser un esfuerzo desafiante, pero con el conocimiento adecuado puede lograr su objetivo. Si est\\xE1 buscando rendimientos constantes de su inversi\\xF3n, consulte nuestra gu\\xEDa sobre c\\xF3mo invertir para obtener ingresos en una variedad de formas que no lo dejar\\xE1n sin dinero y le permitir\\xE1n continuar aumentando su riqueza con el tiempo.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVQYlQE2Acn+AGaLuVZ4o26RvY60yoKltIOcq32Rk4ydkLK3mLazmACmpZi9t6HTxKHdyJfp1aLz3qr525373Zr857jp06YA8t209OPD9+vN9OrR7uDD48+v28m10r6nuJmM4tK6AKV/csKnlrucjaqBdLWRgaV5bayEd6yFeLSRguHSugClfm+0koHIsJ/LtaXRva3bzrzXyLbZybXTv6u3l4QAtpeCzLejybOguJiKqYJ2sZCCpn1uoHZprIh6qYRzAKSAcKN+b6iFda2Lfbibi76jjtG9pd7OsePUteTTsgDLuJnZxaPm1bLu27Tx2qzt2K7cyKLNuJCzn3uSgmYAxKp/tJ53ootngm5QY1A1RzgmMCMXGBEKDQgHCwkLACUcExcQCw0JChIQEhwbHikpLTg5PkZITVFXXmFqcyXTscqH0SnYAAAAAElFTkSuQmCC",
+      "imageId": "45cff708-0023-46ac-eb11-4cf2f49f9400",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "los-fundamentos-de-la-inversion-lo-que-necesita-saber",
+      "locale": "es",
+      "categoryLocal": "invertir",
+      "title": "Los Fundamentos De La Inversión: Lo Que Necesita Saber",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...a}){return mdx(MDXLayout,{...layoutProps,...a,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`Cuando tienes entre 20 y 30 a\\xF1os, puede parecer que nunca hay suficiente dinero. Es probable que las personas en edad de trabajar en este grupo de edad se establezcan en su carrera y tal vez formen una familia, lo que significa que los gastos aumentan mientras que los ingresos no siempre se mantienen al d\\xEDa.\nIncluso cuando el dinero es escaso, no significa que los j\\xF3venes no puedan invertir para el futuro. De hecho, invertir lo antes posible es una de las mejores cosas que puede hacer para asegurar su futuro financiero. Cuanto antes empiece a invertir para la jubilaci\\xF3n u otro objetivo a largo plazo, antes crecer\\xE1 su cartera y le ayudar\\xE1 a alcanzar sus objetivos.\nPero, \\xBFpor d\\xF3nde deber\\xEDas empezar? Afortunadamente, hay muchos recursos accesibles que pueden ayudarlo a comenzar con el pie derecho con sus inversiones. Aqu\\xED echamos un vistazo a algunos de los conceptos b\\xE1sicos de la inversi\\xF3n: lo que necesita saber antes de comenzar.`))}MDXContent.isMDXComponent=!0;\n",
+        "scope": {}
+      }
+    },
+    {
+      "category": "investing",
+      "imageSrcBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAACXBIWXMAAAsTAAALEwEAmpwYAAABEUlEQVQYlSWMwWqDQBRF/cLSZaCbQil0EbLospt+iERwZdVikVoEvyAWLcWYcZOmUJOUtjgO6szEOM4rmvvgLs7jHqUfI3oBAHuS70kOAKIXJ64MJYfjRza1JlNrwo9sBONbStk0TZqmJS5njxe3T5e4wAghxqiUUgEAQkgYhuUfuXu+uX+Z4V8SvoZVVQHAIGeMxVG8+9leGWfXxnn+/RVHb5zzQQ4AbduuP9a84ckuSrYRp4fN56brumGdZVmapmiFUIaS9+VqiaI4WiwWSZIghBTHcXzf9zxP13VVVefzuaZptm2bpmlZ1iCXUgZB4Lqu53nGg2GaJqX0xBUxpq5rjDEhpKqqoigopUKIruv+Ac4sAKn2LyLpAAAAAElFTkSuQmCC",
+      "imageId": "9e0700b4-918e-451a-65c4-25dc68112e00",
+      "createdAt": "Sat Nov 05 2022",
+      "updatedAt": "Sat Nov 05 2022",
+      "slug": "fondos-cotizados-en-bolsa-una-guia-para-principiantes",
+      "locale": "es",
+      "categoryLocal": "invertir",
+      "title": "Fondos Cotizados En Bolsa: Una Guía Para Principiantes",
+      "intro": {
+        "compiledSource": "const layoutProps={},MDXLayout=\"wrapper\";function MDXContent({components:e,...s}){return mdx(MDXLayout,{...layoutProps,...s,components:e,mdxType:\"MDXLayout\"},mdx(\"p\",null,`La crisis financiera mundial, que comenz\\xF3 en 2007 y a\\xFAn persiste casi una d\\xE9cada despu\\xE9s, ha dejado a muchos inversores desconfiados de las acciones como clase de activo. El colapso de varios grandes bancos e instituciones financieras, junto con la ca\\xEDda del mercado inmobiliario, ha llevado a muchos a preguntarse si el mercado de valores es un lugar seguro para su dinero.\nLa respuesta es s\\xED, siempre que elija las acciones adecuadas. De hecho, invertir en acciones puede ser una de las formas m\\xE1s seguras de construir su riqueza con el tiempo. Entonces, si desconf\\xEDa de poner su dinero en compa\\xF1\\xEDas individuales o prefiere inversiones menos riesgosas, los ETF pueden ser una opci\\xF3n ideal para usted. Siga leyendo para obtener m\\xE1s informaci\\xF3n sobre estos fondos cotizados en bolsa y si podr\\xEDan ser buenos para usted o no.`))}MDXContent.isMDXComponent=!0;\n",
         "scope": {}
       }
     }
