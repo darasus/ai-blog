@@ -5,7 +5,7 @@ import { getArticleData } from '../node-utils/getArticleData'
 import slugify from 'slugify'
 import sharp from 'sharp'
 import { Translate } from '../lib/translate'
-import { Locale, Post } from '../types'
+import { Post } from '../types'
 import { serializeMarkdown } from '../node-utils/serializeMarkdown'
 import { omit } from 'ramda'
 import { performance } from 'perf_hooks'
@@ -15,6 +15,7 @@ import { OpenAI } from '../lib/openai'
 import { CloudflareImage } from '../lib/cloudflare-image'
 import { getPosts } from '../node-utils/getPosts'
 import { getPost } from '../node-utils/getPost'
+import { Locale } from '@prisma/client'
 
 const spinner = ora('Generating articles...')
 

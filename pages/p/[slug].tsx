@@ -1,7 +1,6 @@
 import { Meta } from '../../components/Meta'
 import { DetailedPost } from '../../components/Post/DetailedPost'
 import { PostListSection } from '../../components/Post/PostListSection'
-import { Locale } from '../../types'
 import { GetStaticPaths, GetStaticProps } from 'next'
 import { generatePostPageStaticPaths } from '../../node-utils/generateStaticPaths'
 import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
@@ -10,7 +9,7 @@ import { baseProductionUrl } from '../../constants'
 import { Divider } from '../../components/Divider'
 import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
 import { prisma } from '../../lib/prisma'
-import { Article } from '@prisma/client'
+import { Article, Locale } from '@prisma/client'
 
 export default function Home({
   post,
@@ -80,6 +79,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
     },
   })
   const relatedArticles = await prisma.article.findMany({
+    take: 10,
     where: {
       category: post?.category,
       locale: locale,
@@ -88,6 +88,19 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
           id: post?.id,
         },
       },
+    },
+    select: {
+      id: true,
+      title: true,
+      slug: true,
+      summary: true,
+      category: true,
+      imageId: true,
+      createdAt: true,
+      updatedAt: true,
+      intro: true,
+      imageSrcBase64: true,
+      locale: true,
     },
   })
 

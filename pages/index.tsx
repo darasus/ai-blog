@@ -1,3 +1,4 @@
+import { Locale } from '@prisma/client'
 import { GetServerSidePropsContext, InferGetStaticPropsType } from 'next'
 import { LinkButton } from '../components/LinkButton'
 import { Meta } from '../components/Meta'
@@ -5,7 +6,6 @@ import { PostListSection } from '../components/Post/PostListSection'
 import { useTranslations } from '../hooks/useTranslations'
 import { loadIntlMessages } from '../isomorphic-utils/loadIntlMessages'
 import { prisma } from '../lib/prisma'
-import { Locale } from '../types'
 
 export default function Home({
   posts,

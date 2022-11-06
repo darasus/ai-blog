@@ -1,3 +1,4 @@
+import { Locale } from '@prisma/client'
 import {
   GetStaticPaths,
   GetStaticPropsContext,
@@ -13,7 +14,6 @@ import { useTranslations } from '../../../hooks/useTranslations'
 import { loadIntlMessages } from '../../../isomorphic-utils/loadIntlMessages'
 import { generateCategoryPageStaticPaths } from '../../../node-utils/generateStaticPaths'
 import { paginatePosts } from '../../../node-utils/paginatePosts'
-import { Locale } from '../../../types'
 
 export default function CategoryPosts({
   data,
