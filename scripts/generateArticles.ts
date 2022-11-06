@@ -115,7 +115,7 @@ async function generateAndWriteImage(
 
     imageId = cachedImage.id
 
-    const srcBase64 = imageBuffer.toString('base64')
+    const srcBase64 = await sharp(imageBuffer).resize(10).png().toBuffer()
     imageSrcBase64 = 'data:image/png;base64,' + srcBase64
   }
 
