@@ -7,7 +7,7 @@ const client = axios.create({
   baseURL: 'https://api.writesonic.com/v1/business/content',
   headers: {
     accept: 'application/json',
-    'X-API-KEY': '7bfde6b2-3a26-402b-9808-3f84640fadd4',
+    'X-API-KEY': process.env.WRITESONIC_API_KEY!,
     'Content-Type': 'application/json',
   },
   params: {

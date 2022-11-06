@@ -1,41 +1,34 @@
-import path from 'path'
-import fs from 'fs'
 import { Writesonic } from '../lib/writesonic'
-import { getArticleData } from '../node-utils/getArticleData'
 import slugify from 'slugify'
 import sharp from 'sharp'
 import { Translate } from '../lib/translate'
-import { Post } from '../types'
 import { serializeMarkdown } from '../node-utils/serializeMarkdown'
-import { omit } from 'ramda'
-import { performance } from 'perf_hooks'
-import isEqual from 'lodash/isEqual'
-import ora from 'ora'
 import { OpenAI } from '../lib/openai'
 import { CloudflareImage } from '../lib/cloudflare-image'
-import { getPosts } from '../node-utils/getPosts'
-import { getPost } from '../node-utils/getPost'
-import { Locale } from '@prisma/client'
-
-const spinner = ora('Generating articles...')
+import { Article, Category, Locale } from '@prisma/client'
+import { prisma } from '../lib/prisma'
 
 const ai = new Writesonic()
 const openai = new OpenAI()
 const translateAPI = new Translate()
 const cloudflareImages = new CloudflareImage()
 
+const data: Array<{ category: Category; title: string }> = [
+  {
+    category: 'cooking',
+    title: 'How to make a delicious cake',
+  },
+]
+
+type ArticleForm = Omit<Article, 'id' | 'createdAt' | 'updatedAt'>
+
 export async function generateArticles() {
-  spinner.start()
-  const start = performance.now()
-  const titlesAndCategories = getArticleData()
   const allImages = await cloudflareImages.getAllImages()
 
-  console.log(
-    `✏️  Generating article ${titlesAndCategories.length} articles...`
-  )
+  for (const { category, title } of data) {
+    console.log(`Generating content for ${title}...`)
 
-  for (const [i, { title, category }] of titlesAndCategories.entries()) {
-    spinner.text = `Generating articles (${i}/${titlesAndCategories.length}): ${title}...`
+    console.log('Creating slugs...')
     const slug: Record<Locale, string> = {
       en: slugify(title, { strict: true, lower: true }),
       es: slugify(await translateAPI.translate(title), {
@@ -43,14 +36,13 @@ export async function generateArticles() {
         lower: true,
       }),
     }
+
+    console.log('Generating content...')
     const response = await ai.generateArticle({
       title,
     })
-    const originalPost: Record<Locale, Post | null> = {
-      en: await getPost(slug.en),
-      es: await getPost(slug.es),
-    }
 
+    console.log('Generating image...')
     const { imageSrcBase64, imageId } = await generateAndWriteImage(
       title,
       allImages
@@ -62,92 +54,38 @@ export async function generateArticles() {
       imageId,
     }
 
-    const post: Record<Locale, Post> = {
+    const post: Record<Locale, ArticleForm> = {
       en: {
         ...basePost,
-        createdAt: originalPost.en?.createdAt ?? new Date().toISOString(),
-        updatedAt: originalPost.en?.updatedAt ?? new Date().toISOString(),
-        categoryLocal: category,
         slug: slug.en,
         locale: 'en',
         title,
         summary: response.summary,
-        intro: await serializeMarkdown(response.intro),
-        content: await serializeMarkdown(response.content),
-        relatedArticles:
-          originalPost?.en?.relatedArticles &&
-          originalPost?.en?.relatedArticles?.length > 0
-            ? originalPost.en?.relatedArticles
-            : (
-                await getPosts({
-                  locale: 'en',
-                  category,
-                  excludeBySlug: [slug.en],
-                  order: 'random',
-                  numberOfItems: 10,
-                })
-              ).data,
+        intro: JSON.stringify(await serializeMarkdown(response.intro)),
+        content: JSON.stringify(await serializeMarkdown(response.content)),
       },
       es: {
         ...basePost,
-        createdAt: originalPost.es?.createdAt ?? new Date().toISOString(),
-        updatedAt: originalPost.es?.updatedAt ?? new Date().toISOString(),
         slug: slug.es,
         locale: 'es',
-        categoryLocal: await translateAPI.translate(category),
         title: await translateAPI.translate(response.title),
         summary: await translateAPI.translate(response.summary),
-        intro: await serializeMarkdown(
-          await translateAPI.translate(response.intro)
+        intro: JSON.stringify(
+          await serializeMarkdown(await translateAPI.translate(response.intro))
         ),
-        content: await serializeMarkdown(
-          await translateAPI.translate(response.content)
+        content: JSON.stringify(
+          await serializeMarkdown(
+            await translateAPI.translate(response.content)
+          )
         ),
-        relatedArticles:
-          originalPost?.es?.relatedArticles &&
-          originalPost?.es?.relatedArticles?.length > 0
-            ? originalPost.es?.relatedArticles
-            : (
-                await getPosts({
-                  locale: 'es',
-                  category,
-                  excludeBySlug: [slug.en],
-                  order: 'random',
-                  numberOfItems: 10,
-                })
-              ).data,
       },
     }
 
-    const isSameAsOriginal = isEqual(
-      omit(['relatedArticles'], originalPost.en),
-      omit(['relatedArticles'], post.en)
-    )
-
-    const contentPath = path.join(__dirname, '../content')
-
-    if (!isSameAsOriginal) {
-      const updatedAt = new Date().toISOString()
-      const newPost: Record<Locale, Post> = {
-        en: { ...post.en, updatedAt },
-        es: { ...post.es, updatedAt },
-      }
-      for (const locale of Object.keys(newPost)) {
-        const post = newPost[locale as Locale]
-        fs.writeFileSync(
-          path.join(contentPath, `${post.slug}.json`),
-          JSON.stringify(post, null, 2)
-        )
-      }
-    }
+    console.log('Saving article...')
+    await prisma.article.createMany({
+      data: [post.en, post.es],
+    })
   }
-  spinner.stop()
-  const end = performance.now()
-  console.log(
-    `✅ Done generating ${titlesAndCategories.length} articles in ${
-      (start - end) / 1000
-    } seconds!`
-  )
 }
 
 async function generateAndWriteImage(
@@ -170,7 +108,10 @@ async function generateAndWriteImage(
     imageSrcBase64 = 'data:image/png;base64,' + srcBase64.toString('base64')
   } else {
     const imageBuffer = await openai.createImage(title)
-    const cachedImage = await cloudflareImages.uploadImage(imageBuffer)
+    const cachedImage = await cloudflareImages.uploadImage(
+      imageBuffer,
+      `${basename}.png`
+    )
 
     imageId = cachedImage.id
 

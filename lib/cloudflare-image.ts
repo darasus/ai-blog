@@ -1,12 +1,19 @@
+import axios from 'axios'
+import FormData from 'form-data'
+const { Readable } = require('stream')
+import fs from 'fs'
+
 export class CloudflareImage {
   async client({
     url,
     body,
     method = 'GET',
+    headers,
   }: {
     url: string
-    body?: BodyInit
+    body?: any
     method?: 'POST' | 'GET'
+    headers?: HeadersInit
   }) {
     return fetch(
       `https://api.cloudflare.com/client/v4/accounts/520ed574991657981b4927dda46f2477${url}`,
@@ -14,6 +21,7 @@ export class CloudflareImage {
         method,
         headers: {
           Authorization: `Bearer ${process.env.CLOUDFLARE_IMAGES_KEY}`,
+          ...headers,
         },
         body,
       }
@@ -21,16 +29,29 @@ export class CloudflareImage {
   }
 
   async uploadImage(
-    buffer: Buffer
+    buffer: Buffer,
+    filename: string
   ): Promise<{ id: string; variants: string[] }> {
-    var form = new FormData()
-    form.append('requireSignedURLs', 'my false')
-    form.append('file', buffer.toString('base64'))
+    const form = new FormData()
+    form.append('requireSignedURLs', 'false')
+    form.append('file', fs.ReadStream.from(buffer), filename)
 
-    return this.client({ url: '/images/v1', body: form })
-      .then((res) => res.json())
-      .then(({ response }) => {
-        return { id: response.result.id, variants: response.result.variants }
+    return axios(
+      'https://api.cloudflare.com/client/v4/accounts/520ed574991657981b4927dda46f2477/images/v1',
+      {
+        method: 'POST',
+        data: form,
+        headers: {
+          Authorization: `Bearer ${process.env.CLOUDFLARE_IMAGES_KEY}`,
+          'Content-Type': 'multipart/form-data',
+        },
+      }
+    )
+      .then((res) => {
+        return res.data
+      })
+      .then(({ result }) => {
+        return { id: result.id, variants: result.variants }
       })
   }
 
@@ -40,14 +61,21 @@ export class CloudflareImage {
 
   async getImageBuffer(id: string) {
     return this.client({ url: `/images/v1/${id}` })
-      .then((res) => res.json())
+      .then((res) => {
+        return res.json()
+      })
       .then((response) => {
-        // console.log(response.result.variants[0])
         return response.result.variants[0]
       })
-      .then((url) => fetch(url))
-      .then((res) => res.arrayBuffer())
-      .then((arrayBuffer) => Buffer.from(arrayBuffer))
+      .then((url) => {
+        return fetch(url)
+      })
+      .then((res) => {
+        return res.arrayBuffer()
+      })
+      .then((arrayBuffer) => {
+        return Buffer.from(arrayBuffer)
+      })
   }
 
   async getAllImages() {

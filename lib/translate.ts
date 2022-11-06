@@ -19,7 +19,7 @@ export class Translate {
       ),
       async () => {
         const url = new URL(
-          'https://translation.googleapis.com/language/translate/v2'
+          `https://translation.googleapis.com/language/translate/v2?key=${process.env.GOOGLE_TRANSLATE_API_TOKEN}`
         )
 
         url.searchParams.append('source', 'en')
@@ -28,9 +28,6 @@ export class Translate {
 
         const response = await axios(url.toString(), {
           method: 'POST',
-          headers: {
-            Authorization: `Bearer ${process.env.GOOGLE_TRANSLATE_API_TOKEN}`,
-          },
           data: { q },
         })
 
