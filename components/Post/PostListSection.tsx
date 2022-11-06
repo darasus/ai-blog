@@ -1,10 +1,10 @@
-import { BasePost } from '../../types'
+import { Article } from '@prisma/client'
 import { Divider } from '../Divider'
 import { Link } from '../Link'
 import { PostExcerpt } from './PostExcerpt'
 
 interface Props {
-  posts: BasePost[]
+  posts: Article[]
   title?: string
 }
 

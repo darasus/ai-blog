@@ -1,6 +1,6 @@
+import { Locale } from '@prisma/client'
 import fs from 'node:fs'
 import path from 'node:path'
-import { Locale } from '../types'
 import { getPosts, getRawPosts } from '../node-utils/getPosts'
 
 export async function generateSitemap() {

@@ -1,19 +1,18 @@
+import { Article } from '@prisma/client'
 import Image from 'next/image'
 import React from 'react'
 import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
-import { BasePost } from '../../types'
 import { Markdown } from '../Markdown'
 import { PostMeta } from './PostMeta'
 import { PostTitle } from './PostTitle'
 
 interface Props {
-  post: BasePost
+  post: Article
   loading?: 'lazy' | 'eager'
 }
 
 export function PostExcerpt({ post, loading = 'lazy' }: Props) {
-  const { createdAt, categoryLocal, title, intro, imageId, imageSrcBase64 } =
-    post
+  const { createdAt, category, title, intro, imageId, imageSrcBase64 } = post
 
   return (
     <div className="grid gap-4 md:grid-cols-2 p-4">
@@ -32,10 +31,10 @@ export function PostExcerpt({ post, loading = 'lazy' }: Props) {
         </div>
       </div>
       <div className="col-span-1">
-        <PostMeta category={categoryLocal} date={createdAt} />
+        <PostMeta category={category} date={createdAt.toISOString()} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <div className="px-1">
-          <Markdown {...intro} />
+          <Markdown {...JSON.parse(intro)} />
         </div>
       </div>
     </div>

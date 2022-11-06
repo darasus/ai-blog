@@ -1,4 +1,9 @@
-import { GetStaticPaths, GetStaticProps } from 'next'
+import { Locale } from '@prisma/client'
+import {
+  GetStaticPaths,
+  GetStaticPropsContext,
+  InferGetStaticPropsType,
+} from 'next'
 import { Divider } from '../../components/Divider'
 import { Link } from '../../components/Link'
 import { Meta } from '../../components/Meta'
@@ -7,10 +12,12 @@ import { PostExcerpt } from '../../components/Post/PostExcerpt'
 import { useTranslations } from '../../hooks/useTranslations'
 import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
 import { generatePostsPageStaticPaths } from '../../node-utils/generateStaticPaths'
-import { getPosts, PageInfo } from '../../node-utils/getPosts'
-import { Locale } from '../../types'
+import { paginatePosts } from '../../node-utils/paginatePosts'
 
-export default function Posts({ data, totalPages }: PageInfo) {
+export default function Posts({
+  data,
+  pagination,
+}: InferGetStaticPropsType<typeof getStaticProps>) {
   const translations = useTranslations()
 
   return (
@@ -19,15 +26,15 @@ export default function Posts({ data, totalPages }: PageInfo) {
         title={translations.latest()}
         description={translations.siteDescription()}
       />
-      {data.map((post, i: number) => {
+      {data.map((post) => {
         return (
-          <Link hoverStyles={false} href={`/p/${post.slug}`} key={i}>
+          <Link hoverStyles={false} href={`/p/${post.slug}`} key={post.id}>
             <PostExcerpt post={post} />
             <Divider />
           </Link>
         )
       })}
-      <Pagination totalPages={totalPages} />
+      <Pagination totalPages={pagination.pageCount} />
     </>
   )
 }
@@ -39,18 +46,14 @@ export const getStaticPaths: GetStaticPaths = async () => {
   }
 }
 
-export const getStaticProps: GetStaticProps = async (ctx) => {
+export const getStaticProps = async (ctx: GetStaticPropsContext) => {
   const locale = ctx.locale as Locale
   const defaultLocale = ctx.defaultLocale as Locale
-  const page = Number(ctx.params?.page as string)
-  const props = await getPosts({
-    locale,
-    page,
-  })
+  const response = await paginatePosts(ctx)
 
   return {
     props: {
-      ...props,
+      ...response,
       intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }

@@ -1,26 +1,26 @@
+import { Article } from '@prisma/client'
 import Image from 'next/image'
 import React from 'react'
 import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
-import { Post } from '../../types'
 import { Divider } from '../Divider'
 import { Markdown } from '../Markdown'
 import { PostMeta } from './PostMeta'
 import { PostTitle } from './PostTitle'
 
 interface Props {
-  post: Post
+  post: Article
 }
 
 export function DetailedPost({ post }: Props) {
   const {
     createdAt,
     title,
-    categoryLocal,
     intro,
     content,
     summary,
     imageId,
     imageSrcBase64,
+    category,
   } = post
 
   return (
@@ -42,7 +42,7 @@ export function DetailedPost({ post }: Props) {
         </div>
         <div className="col-span-1">
           <div className="flex items-start justify-center flex-col h-full">
-            <PostMeta date={createdAt} category={categoryLocal} />
+            <PostMeta date={createdAt.toISOString()} category={category} />
             <PostTitle>{title}</PostTitle>
           </div>
         </div>
@@ -56,8 +56,8 @@ export function DetailedPost({ post }: Props) {
       </div>
       <Divider />
       <div className="p-4">
-        <Markdown {...intro} />
-        <Markdown {...content} />
+        <Markdown {...JSON.parse(intro)} />
+        <Markdown {...JSON.parse(content)} />
       </div>
     </article>
   )

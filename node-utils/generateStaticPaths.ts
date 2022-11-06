@@ -1,6 +1,6 @@
-import { locales } from '../constants'
+import { Locale } from '@prisma/client'
 import { data } from '../data/data'
-import { Category, Locale } from '../types'
+import { Category } from '../types'
 import { getPosts, getRawPosts } from './getPosts'
 
 type Res = Array<{

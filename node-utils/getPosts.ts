@@ -1,11 +1,12 @@
 import { paginateArray } from 'paginate-array-ts'
 import { numberOfPostsPerPage } from '../constants'
-import { Category, Locale, BasePost } from '../types'
+import { Category, BasePost } from '../types'
 import { Post } from '../types'
 import { capitalize } from '../isomorphic-utils/capitalize'
 import { readdir, readFileSync } from 'fs'
 import { postsPath } from './paths'
 import path from 'path'
+import { Locale } from '@prisma/client'
 
 export type PageInfo = ReturnType<typeof paginateArray<BasePost>>
 

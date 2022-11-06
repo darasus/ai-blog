@@ -1,7 +1,6 @@
 import { data } from '../data/data'
 import { MDXRemoteSerializeResult } from 'next-mdx-remote'
-
-export type Locale = 'en' | 'es'
+import { Locale } from '@prisma/client'
 
 export interface BasePost {
   title: string
