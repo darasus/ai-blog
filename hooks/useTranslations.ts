@@ -1,6 +1,6 @@
+import { Category } from '@prisma/client'
 import { useMemo } from 'react'
 import { IntlShape, useIntl } from 'react-intl'
-import { Category } from '../types'
 
 function getTranslations(intl: IntlShape) {
   return {

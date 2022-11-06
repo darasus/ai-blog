@@ -1,6 +1,5 @@
-import { data } from '../data/data'
 import { MDXRemoteSerializeResult } from 'next-mdx-remote'
-import { Locale } from '@prisma/client'
+import { Category, Locale } from '@prisma/client'
 
 export interface BasePost {
   title: string
@@ -20,5 +19,3 @@ export interface Post extends BasePost {
   relatedArticles: Omit<BasePost, 'relatedArticles'>[]
   summary: string
 }
-
-export type Category = keyof typeof data

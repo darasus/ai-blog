@@ -2,10 +2,10 @@ import { ExclamationTriangleIcon } from '@heroicons/react/24/solid'
 import React from 'react'
 import { Footer } from './Footer'
 import { Navbar } from './Navbar'
-import { Category } from '../types'
 import { useRouter } from 'next/router'
 import { useTranslations } from '../hooks/useTranslations'
 import { LinkButton } from './LinkButton'
+import { Category } from '@prisma/client'
 
 type Props = React.PropsWithChildren<{}>
 
