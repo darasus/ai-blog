@@ -25,6 +25,7 @@ specifiers:
   babel-plugin-formatjs: ^10.3.29
   babel-plugin-superjson-next: ^0.4.4
   clsx: ^1.2.1
+  date-fns: ^2.29.3
   dotenv: ^16.0.1
   eslint: 8.19.0
   eslint-config-next: 13.0.0
@@ -71,6 +72,7 @@ dependencies:
   axios: 0.27.2
   axios-retry: 3.3.1
   clsx: 1.2.1
+  date-fns: 2.29.3
   dotenv: 16.0.2
   form-data: 4.0.0
   got: 12.5.0
@@ -2381,6 +2383,11 @@ packages:
   /data-uri-to-buffer/4.0.0:
     resolution: {integrity: sha512-Vr3mLBA8qWmcuschSLAOogKgQ/Jwxulv3RNE4FXnYWRGujzrRWQI4m12fQqRkwX06C0KanhLr4hK+GydchZsaA==}
     engines: {node: '>= 12'}
+    dev: false
+
+  /date-fns/2.29.3:
+    resolution: {integrity: sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==}
+    engines: {node: '>=0.11'}
     dev: false
 
   /debug/2.6.9:

@@ -39,6 +39,19 @@ export const getStaticProps = async (ctx: GetServerSidePropsContext) => {
     orderBy: {
       createdAt: 'desc',
     },
+    select: {
+      id: true,
+      title: true,
+      slug: true,
+      createdAt: true,
+      category: true,
+      imageId: true,
+      imageSrcBase64: true,
+      summary: true,
+      locale: true,
+      updatedAt: true,
+      intro: true,
+    },
   })
 
   return {

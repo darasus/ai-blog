@@ -42,7 +42,7 @@ export function DetailedPost({ post }: Props) {
         </div>
         <div className="col-span-1">
           <div className="flex items-start justify-center flex-col h-full">
-            <PostMeta date={createdAt.toISOString()} category={category} />
+            <PostMeta date={createdAt} category={category} />
             <PostTitle>{title}</PostTitle>
           </div>
         </div>

@@ -31,6 +31,19 @@ export async function paginatePosts(ctx: GetStaticPropsContext) {
     orderBy: {
       id: 'desc',
     },
+    select: {
+      id: true,
+      title: true,
+      slug: true,
+      createdAt: true,
+      category: true,
+      imageId: true,
+      imageSrcBase64: true,
+      summary: true,
+      locale: true,
+      updatedAt: true,
+      intro: true,
+    },
   })
 
   const count = await prisma.article.count({

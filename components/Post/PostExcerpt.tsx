@@ -7,7 +7,7 @@ import { PostMeta } from './PostMeta'
 import { PostTitle } from './PostTitle'
 
 interface Props {
-  post: Article
+  post: Omit<Article, 'content'>
   loading?: 'lazy' | 'eager'
 }
 
@@ -31,7 +31,7 @@ export function PostExcerpt({ post, loading = 'lazy' }: Props) {
         </div>
       </div>
       <div className="col-span-1">
-        <PostMeta category={category} date={createdAt.toISOString()} />
+        <PostMeta category={category} date={createdAt} />
         <PostTitle type="h2">{`${title}`}</PostTitle>
         <div className="px-1">
           <Markdown {...JSON.parse(intro)} />
