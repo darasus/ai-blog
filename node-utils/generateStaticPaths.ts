@@ -1,65 +1,71 @@
-import { Locale } from '@prisma/client'
-import { data } from '../data/data'
-import { Category } from '../types'
-import { getPosts, getRawPosts } from './getPosts'
-
-type Res = Array<{
-  params: { [key: string]: string }
-  locale: Locale
-}>
+import { Category } from '@prisma/client'
+import { prisma } from '../lib/prisma'
 
 export async function generatePostPageStaticPaths() {
-  const res = (await getRawPosts()).map((post: any) => ({
-    params: { slug: post.slug as string },
+  const posts = await prisma.article.findMany()
+  const res = posts.map((post) => ({
+    params: { slug: post.slug },
     locale: post.locale,
   }))
 
-  return res as Res
+  return res
 }
 
 export async function generatePostsPageStaticPaths() {
-  const enPosts = await getPosts({
-    locale: 'en',
-    page: 1,
+  const enPostsLength = await prisma.article.count({
+    where: {
+      locale: 'en',
+    },
   })
-  const esPosts = await getPosts({
-    locale: 'es',
-    page: 1,
+  const esPostsLength = await prisma.article.count({
+    where: {
+      locale: 'es',
+    },
   })
-  const enPaths = Array.from({ length: enPosts.totalPages }).map((_, i) => ({
-    params: { page: `${i + 1}` },
-    locale: 'en',
-  }))
-  const esPaths = Array.from({ length: esPosts.totalPages }).map((_, i) => ({
-    params: { page: `${i + 1}` },
-    locale: 'es',
-  }))
+  const enPaths = Array.from({ length: Math.ceil(enPostsLength / 10) }).map(
+    (_, i) => ({
+      params: { page: `${i + 1}` },
+      locale: 'en',
+    })
+  )
+  const esPaths = Array.from({ length: Math.ceil(esPostsLength / 10) }).map(
+    (_, i) => ({
+      params: { page: `${i + 1}` },
+      locale: 'es',
+    })
+  )
 
-  return [...enPaths, ...esPaths] as Res
+  return [...enPaths, ...esPaths]
 }
 
 export async function generateCategoryPageStaticPaths() {
   let paths: any = []
 
-  for (const category of Object.keys(data)) {
-    const enPosts = await getPosts({
-      locale: 'en',
-      page: 1,
-      category: category as Category,
+  for (const category of Object.keys(Category)) {
+    const enPostsLength = await prisma.article.count({
+      where: {
+        locale: 'en',
+        category: category as Category,
+      },
     })
-    const esPosts = await getPosts({
-      locale: 'es',
-      page: 1,
-      category: category as Category,
+    const esPostsLength = await prisma.article.count({
+      where: {
+        locale: 'es',
+        category: category as Category,
+      },
     })
-    const enPaths = Array.from({ length: enPosts.totalPages }).map((_, i) => ({
-      params: { page: `${i + 1}`, category },
-      locale: 'en',
-    }))
-    const esPaths = Array.from({ length: esPosts.totalPages }).map((_, i) => ({
-      params: { page: `${i + 1}`, category },
-      locale: 'es',
-    }))
+    const enPaths = Array.from({ length: Math.ceil(enPostsLength / 10) }).map(
+      (_, i) => ({
+        params: { page: `${i + 1}`, category },
+        locale: 'en',
+      })
+    )
+    const esPaths = Array.from({ length: Math.ceil(esPostsLength / 10) }).map(
+      (_, i) => ({
+        params: { page: `${i + 1}`, category },
+        locale: 'es',
+      })
+    )
 
     paths = [...paths, ...enPaths, ...esPaths]
   }
