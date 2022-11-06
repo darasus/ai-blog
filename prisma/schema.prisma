@@ -1,0 +1,47 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["referentialIntegrity"]
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
+}
+
+enum Locale {
+  en
+  es
+}
+
+enum Category {
+  cooking
+  politics
+  life
+  coding
+  business
+  investing
+  crypto
+  technology
+  health
+  culture
+  gaming
+  productivity
+}
+
+model Article {
+  id             Int      @id @default(autoincrement())
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  title          String   @db.VarChar(255)
+  summary        String   @db.LongText
+  imageSrcBase64 String   @db.LongText
+  intro          String   @db.LongText
+  content        String   @db.LongText
+  category       Category
+  imageId        String
+  slug           String
+  locale         Locale
+
+  @@unique([slug], name: "uniqueSlug")
+}

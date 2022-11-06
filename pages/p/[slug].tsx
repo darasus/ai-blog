@@ -1,9 +1,7 @@
 import { Meta } from '../../components/Meta'
 import { DetailedPost } from '../../components/Post/DetailedPost'
 import { PostListSection } from '../../components/Post/PostListSection'
-import { Locale, Post } from '../../types'
-import { getPost } from '../../node-utils/getPost'
-import { PageInfo } from '../../node-utils/getPosts'
+import { Locale } from '../../types'
 import { GetStaticPaths, GetStaticProps } from 'next'
 import { generatePostPageStaticPaths } from '../../node-utils/generateStaticPaths'
 import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
@@ -11,12 +9,16 @@ import { useTranslations } from '../../hooks/useTranslations'
 import { baseProductionUrl } from '../../constants'
 import { Divider } from '../../components/Divider'
 import { cloudflareLoader } from '../../isomorphic-utils/cloudflareLoader'
+import { prisma } from '../../lib/prisma'
+import { Article } from '@prisma/client'
 
-interface Props extends PageInfo {
-  post: Post
-}
-
-export default function Home({ post }: Props) {
+export default function Home({
+  post,
+  relatedArticles,
+}: {
+  post: Article
+  relatedArticles: Article[]
+}) {
   const translations = useTranslations()
   const { title, summary, category, slug } = post
 
@@ -47,15 +49,15 @@ export default function Home({ post }: Props) {
                 ],
               }
             : {}),
-          datePublished: post.createdAt,
-          dateModified: post.updatedAt,
+          datePublished: post.createdAt.toISOString(),
+          dateModified: post.updatedAt.toISOString(),
         }}
       />
       <DetailedPost post={post} />
       <Divider />
       <PostListSection
         title={translations.otherInCategory(category)}
-        posts={post.relatedArticles}
+        posts={relatedArticles}
       />
     </>
   )
@@ -71,13 +73,30 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async (ctx) => {
   const locale = ctx.locale as Locale
   const defaultLocale = ctx.defaultLocale as Locale
-  const post = getPost(ctx.params?.slug as string)
+  const post = await prisma.article.findFirst({
+    where: {
+      slug: ctx.params?.slug as string,
+      locale: locale,
+    },
+  })
+  const relatedArticles = await prisma.article.findMany({
+    where: {
+      category: post?.category,
+      locale: locale,
+      AND: {
+        NOT: {
+          id: post?.id,
+        },
+      },
+    },
+  })
 
   if (!post) return { notFound: true }
 
   return {
     props: {
       post,
+      relatedArticles,
       intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }

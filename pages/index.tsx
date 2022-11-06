@@ -1,13 +1,15 @@
-import { GetStaticProps } from 'next'
+import { GetServerSidePropsContext, InferGetStaticPropsType } from 'next'
 import { LinkButton } from '../components/LinkButton'
 import { Meta } from '../components/Meta'
 import { PostListSection } from '../components/Post/PostListSection'
 import { useTranslations } from '../hooks/useTranslations'
 import { loadIntlMessages } from '../isomorphic-utils/loadIntlMessages'
-import { getPosts, PageInfo } from '../node-utils/getPosts'
+import { prisma } from '../lib/prisma'
 import { Locale } from '../types'
 
-export default function Home({ data }: PageInfo) {
+export default function Home({
+  posts,
+}: InferGetStaticPropsType<typeof getStaticProps>) {
   const translations = useTranslations()
 
   return (
@@ -16,7 +18,7 @@ export default function Home({ data }: PageInfo) {
         title={translations.latest()}
         description={translations.siteDescription()}
       />
-      <PostListSection title={translations.latestArticles()} posts={data} />
+      <PostListSection title={translations.latestArticles()} posts={posts} />
       <div className="flex justify-center py-5">
         <LinkButton href="/posts/2">{translations.seeMore()}</LinkButton>
       </div>
@@ -24,18 +26,24 @@ export default function Home({ data }: PageInfo) {
   )
 }
 
-export const getStaticProps: GetStaticProps = async (ctx) => {
+export const getStaticProps = async (ctx: GetServerSidePropsContext) => {
   const locale = ctx.locale as Locale
   const defaultLocale = ctx.defaultLocale as Locale
-  const props = await getPosts({
-    locale,
-    page: 1,
-    numberOfItems: 10,
+
+  const posts = await prisma.article.findMany({
+    skip: 0,
+    take: 10,
+    where: {
+      locale,
+    },
+    orderBy: {
+      createdAt: 'desc',
+    },
   })
 
   return {
     props: {
-      ...props,
+      posts,
       intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }

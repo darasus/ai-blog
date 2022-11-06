@@ -1,4 +1,8 @@
-import { GetStaticPaths, GetStaticProps } from 'next'
+import {
+  GetStaticPaths,
+  GetStaticPropsContext,
+  InferGetStaticPropsType,
+} from 'next'
 import { useRouter } from 'next/router'
 import { Divider } from '../../../components/Divider'
 import { Link } from '../../../components/Link'
@@ -8,10 +12,13 @@ import { PostExcerpt } from '../../../components/Post/PostExcerpt'
 import { useTranslations } from '../../../hooks/useTranslations'
 import { loadIntlMessages } from '../../../isomorphic-utils/loadIntlMessages'
 import { generateCategoryPageStaticPaths } from '../../../node-utils/generateStaticPaths'
-import { getPosts, PageInfo } from '../../../node-utils/getPosts'
-import { Category, Locale } from '../../../types'
+import { paginatePosts } from '../../../node-utils/paginatePosts'
+import { Locale } from '../../../types'
 
-export default function CategoryPosts({ data, totalPages }: PageInfo) {
+export default function CategoryPosts({
+  data,
+  pagination,
+}: InferGetStaticPropsType<typeof getStaticProps>) {
   const router = useRouter()
   const currentPage = Number(router.query.page)
   const category = String(router.query.category)
@@ -31,7 +38,7 @@ export default function CategoryPosts({ data, totalPages }: PageInfo) {
           </Link>
         )
       })}
-      {totalPages > 1 && (
+      {pagination.pageCount > 1 && (
         <div className="flex bg-white p-4 items-center">
           <div className="flex grow">
             {currentPage !== 1 && (
@@ -40,7 +47,7 @@ export default function CategoryPosts({ data, totalPages }: PageInfo) {
               </LinkButton>
             )}
             <div className="grow" />
-            {currentPage !== totalPages && (
+            {currentPage !== pagination.pageCount && (
               <LinkButton href={`/category/${category}/${currentPage + 1}`}>
                 Next
               </LinkButton>
@@ -59,20 +66,14 @@ export const getStaticPaths: GetStaticPaths = async () => {
   }
 }
 
-export const getStaticProps: GetStaticProps = async (ctx) => {
+export const getStaticProps = async (ctx: GetStaticPropsContext) => {
   const locale = ctx.locale as Locale
   const defaultLocale = ctx.defaultLocale as Locale
-  const page = Number(ctx.params?.page)
-  const category = String(ctx.params?.category) as Category
-  const props = await getPosts({
-    locale,
-    page,
-    category,
-  })
+  const response = await paginatePosts(ctx)
 
   return {
     props: {
-      ...props,
+      ...response,
       intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }
