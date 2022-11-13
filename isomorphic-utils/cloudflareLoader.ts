@@ -5,5 +5,7 @@ export function cloudflareLoader({
   width = 1000,
   quality = 75,
 }: ImageLoaderProps) {
-  return `https://imagedelivery.net/1Y4KoCbQQUt_e_VWvskl5g/${src}/width=${width},quality=${quality}`
+  return `https://imagedelivery.net/1Y4KoCbQQUt_e_VWvskl5g/${src}/width=${
+    width > 1000 ? 1000 : width
+  },quality=${quality}`
 }
