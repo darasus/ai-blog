@@ -3,7 +3,6 @@ import { DetailedPost } from '../../components/Post/DetailedPost'
 import { PostListSection } from '../../components/Post/PostListSection'
 import { GetStaticPaths, GetStaticProps } from 'next'
 import { generatePostPageStaticPaths } from '../../node-utils/generateStaticPaths'
-import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
 import { useTranslations } from '../../hooks/useTranslations'
 import { baseProductionUrl } from '../../constants'
 import { Divider } from '../../components/Divider'
@@ -55,7 +54,10 @@ export default function Home({
       <DetailedPost post={post} />
       <Divider />
       <PostListSection
-        title={translations.otherInCategory(category)}
+        title={translations['other.in.category'].replace(
+          '{category}',
+          category
+        )}
         posts={relatedArticles}
       />
     </>
@@ -110,7 +112,6 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
     props: {
       post,
       relatedArticles,
-      intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }
 }

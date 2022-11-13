@@ -1,9 +1,8 @@
 {
   "extends": "next/core-web-vitals",
-  "plugins": ["formatjs"],
+  "plugins": [],
   "root": true,
   "rules": {
-    "formatjs/enforce-default-message": ["error", "literal"],
     "no-unused-vars": [
       "warn",
       { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }

@@ -14,18 +14,18 @@ export function Layout({ children }: Props) {
   const translations = useTranslations()
 
   const categoryLabel: Record<Category, string> = {
-    politics: translations.categoryPolitics(),
-    business: translations.categoryBusiness(),
-    investing: translations.categoryInvesting(),
-    productivity: translations.categoryProductivity(),
-    technology: translations.categoryTechnology(),
-    crypto: translations.categoryCrypto(),
-    coding: translations.categoryCoding(),
-    gaming: translations.categoryGaming(),
-    health: translations.categoryHealth(),
-    culture: translations.categoryCulture(),
-    cooking: translations.categoryCooking(),
-    life: translations.categoryLife(),
+    politics: translations['category.politics'],
+    business: translations['category.business'],
+    investing: translations['category.investing'],
+    productivity: translations['category.productivity'],
+    technology: translations['category.technology'],
+    crypto: translations['category.crypto'],
+    coding: translations['category.coding'],
+    gaming: translations['category.gaming'],
+    health: translations['category.health'],
+    culture: translations['category.culture'],
+    cooking: translations['category.cooking'],
+    life: translations['category.life'],
   }
 
   return (
@@ -64,7 +64,9 @@ export function Layout({ children }: Props) {
             </span>
           </div>
           <div>
-            <span className="text-gray-700">{translations.introWarning()}</span>
+            <span className="text-gray-700">
+              {translations['intro.warning']}
+            </span>
           </div>
         </div>
       </div>

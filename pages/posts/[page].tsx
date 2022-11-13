@@ -1,4 +1,3 @@
-import { Locale } from '@prisma/client'
 import {
   GetStaticPaths,
   GetStaticPropsContext,
@@ -10,7 +9,6 @@ import { Meta } from '../../components/Meta'
 import { Pagination } from '../../components/Pagination'
 import { PostExcerpt } from '../../components/Post/PostExcerpt'
 import { useTranslations } from '../../hooks/useTranslations'
-import { loadIntlMessages } from '../../isomorphic-utils/loadIntlMessages'
 import { generatePostsPageStaticPaths } from '../../node-utils/generateStaticPaths'
 import { paginatePosts } from '../../node-utils/paginatePosts'
 
@@ -23,8 +21,8 @@ export default function Posts({
   return (
     <>
       <Meta
-        title={translations.latest()}
-        description={translations.siteDescription()}
+        title={translations['latest']}
+        description={translations['site.description']}
       />
       {data.map((post) => {
         return (
@@ -47,14 +45,11 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps = async (ctx: GetStaticPropsContext) => {
-  const locale = ctx.locale as Locale
-  const defaultLocale = ctx.defaultLocale as Locale
   const response = await paginatePosts(ctx)
 
   return {
     props: {
       ...response,
-      intlMessages: await loadIntlMessages(locale, defaultLocale),
     },
   }
 }

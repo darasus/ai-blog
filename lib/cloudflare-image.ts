@@ -1,6 +1,5 @@
 import axios from 'axios'
 import FormData from 'form-data'
-const { Readable } = require('stream')
 import fs from 'fs'
 
 export class CloudflareImage {
